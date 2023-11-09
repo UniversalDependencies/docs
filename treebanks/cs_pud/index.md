@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová, Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman.
 
 Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,7 +86,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](cs_pud-feat-Abbr.html) – [AdpType](cs_pud-feat-AdpType.html) – [Animacy](cs_pud-feat-Animacy.html) – [Aspect](cs_pud-feat-Aspect.html) – [Case](cs_pud-feat-Case.html) – [Degree](cs_pud-feat-Degree.html) – [Foreign](cs_pud-feat-Foreign.html) – [Gender](cs_pud-feat-Gender.html) – [Gender[psor]](cs_pud-feat-Gender-psor.html) – [Hyph](cs_pud-feat-Hyph.html) – [Mood](cs_pud-feat-Mood.html) – [NameType](cs_pud-feat-NameType.html) – [Number](cs_pud-feat-Number.html) – [Number[psor]](cs_pud-feat-Number-psor.html) – [NumForm](cs_pud-feat-NumForm.html) – [NumType](cs_pud-feat-NumType.html) – [NumValue](cs_pud-feat-NumValue.html) – [Person](cs_pud-feat-Person.html) – [Polarity](cs_pud-feat-Polarity.html) – [Poss](cs_pud-feat-Poss.html) – [PrepCase](cs_pud-feat-PrepCase.html) – [PronType](cs_pud-feat-PronType.html) – [Reflex](cs_pud-feat-Reflex.html) – [Style](cs_pud-feat-Style.html) – [Tense](cs_pud-feat-Tense.html) – [Variant](cs_pud-feat-Variant.html) – [VerbForm](cs_pud-feat-VerbForm.html) – [Voice](cs_pud-feat-Voice.html)
+[Abbr](cs_pud-feat-Abbr.html) – [AdpType](cs_pud-feat-AdpType.html) – [Animacy](cs_pud-feat-Animacy.html) – [Aspect](cs_pud-feat-Aspect.html) – [Case](cs_pud-feat-Case.html) – [Degree](cs_pud-feat-Degree.html) – [Foreign](cs_pud-feat-Foreign.html) – [Gender](cs_pud-feat-Gender.html) – [Gender[psor]](cs_pud-feat-Gender-psor.html) – [Hyph](cs_pud-feat-Hyph.html) – [Mood](cs_pud-feat-Mood.html) – [NameType](cs_pud-feat-NameType.html) – [Number](cs_pud-feat-Number.html) – [Number[psor]](cs_pud-feat-Number-psor.html) – [NumForm](cs_pud-feat-NumForm.html) – [NumType](cs_pud-feat-NumType.html) – [Person](cs_pud-feat-Person.html) – [Polarity](cs_pud-feat-Polarity.html) – [Poss](cs_pud-feat-Poss.html) – [PrepCase](cs_pud-feat-PrepCase.html) – [PronType](cs_pud-feat-PronType.html) – [Reflex](cs_pud-feat-Reflex.html) – [Style](cs_pud-feat-Style.html) – [Tense](cs_pud-feat-Tense.html) – [Variant](cs_pud-feat-Variant.html) – [VerbForm](cs_pud-feat-VerbForm.html) – [Voice](cs_pud-feat-Voice.html)
 
 ## Relations
 
@@ -1142,32 +1142,8 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-  <li><a>NumValue</a>
-    <ul>
-      <li>1
-        <ul>
-          <li>ADJ: jedni</li>
-        </ul>
-      </li>
-      <li>1,2,3
-        <ul>
-          <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, jedna, jedním, tři</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Style</a>
     <ul>
-      <li>Arch
-        <ul>
-          <li>NOUN: léta, včerejška</li>
-          <li>PROPN: Papui, smartphone</li>
-          <li>VERB-Conv: redukujíc</li>
-        </ul>
-      </li>
       <li>Coll
         <ul>
           <li>ADJ: chatovacím, podezřelý</li>

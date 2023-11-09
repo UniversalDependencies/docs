@@ -11,4 +11,4 @@ The `advmod:neg` relation is used for the negative items *ma(n)* and *na*.
 Ya wehka amo oyayah n escuela n kokoneh .
 advmod:neg(oyayah, amo)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:58 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:24 CET -->

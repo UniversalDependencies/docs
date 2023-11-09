@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska, Daniel Zeman, Jan Mašek, Rudolf Rosa.
 
 Repository: [UD_Polish-PDB](https://github.com/UniversalDependencies/UD_Polish-PDB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -44,18 +44,20 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Polish PDB-UD treebank is based on the Polish Dependency Bank 2.0 (PDB 2.0), created at the Institute of Computer Science, Polish Academy of Sciences in Warsaw. The PDB-UD treebank is an extended and corrected version of the Polish SZ-UD treebank (the release 1.2 to 2.3).
+The Polish PDB-UD treebank is automatically converted from the Polish Dependency Bank 2.0 (PDB 2.0). Both treebanks were created at the [Institute of Computer Science, Polish Academy of Sciences](https://ipipan.waw.pl/en/) in Warsaw (Poland).
 
 
 
 
-The PDB-UD treebank consists of 22,152 sentences (350K tokens). It contains all 8K sentences of the Polish UD-SZ treebank and further 14K unique sentences. The additional sentences enclose linguistic phenomena that did not occur or were not annotated (e.g. relative clauses, reported speech) in the UD-SZ trees. The PDB-UD treebank contains enhanced graphs, i.e. trees with the enhanced edges encoding the shared dependents and the shared governors of coordinated conjuncts (9141 PDB-UD trees contain enhanced edges).
+The PDB-UD treebank consists of 22,152 sentences (350K tokens) from [Polish National Corpus](http://nkjp.pl), [Europarl](http://www.statmt.org/europarl), [DGT-Translation Memory](https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory), [OPUS](http://opus.nlpl.eu), [Pelcra Parallel Corpus](http://metashare.dfki.de/repository/browse/pelcra-polish-english-parallel-corpus-of-literary-works-cc-by/e99fa4c063f111e2bff4525400d761472dc239ffeb6f47bda0553af53ddd5ef0/), [CDSCorpus](http://zil.ipipan.waw.pl/Scwad/CDSCorpus) and literature. PDB-UD is an extended and corrected version of the Polish SZ-UD treebank (release 1.2 to 2.3).
 
-The morphological, syntactic and semantic annotation of the PDB-UD treebank is created through a conversion of PDB 2.0 data. The conversion procedure has been designed and implemented by Alina Wróblewska partly based on the conversion of the UD-SZ trees.
+The morphological, syntactic and semantic annotation of the PDB-UD treebank is rule-based converted from PDB 2.0 data.
+
+The PDB-UD treebank contains enhanced graphs, i.e. trees with enhanced edges encoding the shared dependents and the shared governors of coordinated conjuncts (9141 PDB-UD trees contain enhanced edges).
 
 ## Acknowledgments
 
-We would like to thank all of the contributors of the original Polish Dependency Bank 2.0. The development of the PDB-UD treebank was founded by the Polish Ministry of Science and Higher Education as part of the investment in the CLARIN-PL research infrastructure.
+We want to thank all of the original Polish Dependency Bank 2.0 contributors. The development of the PDB-UD treebank (v2.5) was founded by the Polish Ministry of Science and Higher Education as part of the investment in the CLARIN-PL research infrastructure. The development of the PDB-UD treebank (v2.13) was founded by Digital Research Infrastructure for the Arts and Humanities DARIAH-PL (project no. POIR.04.02.00-00-D006/20-00).
 
 
 
@@ -67,21 +69,21 @@ We would like to thank all of the contributors of the original Polish Dependency
 
 ## Features
 
-[Abbr](pl_pdb-feat-Abbr.html) – [AdpType](pl_pdb-feat-AdpType.html) – [Animacy](pl_pdb-feat-Animacy.html) – [Aspect](pl_pdb-feat-Aspect.html) – [Case](pl_pdb-feat-Case.html) – [Clitic](pl_pdb-feat-Clitic.html) – [ConjType](pl_pdb-feat-ConjType.html) – [Degree](pl_pdb-feat-Degree.html) – [Emphatic](pl_pdb-feat-Emphatic.html) – [Foreign](pl_pdb-feat-Foreign.html) – [Gender](pl_pdb-feat-Gender.html) – [Hyph](pl_pdb-feat-Hyph.html) – [Mood](pl_pdb-feat-Mood.html) – [Number](pl_pdb-feat-Number.html) – [Number[psor]](pl_pdb-feat-Number-psor.html) – [NumForm](pl_pdb-feat-NumForm.html) – [NumType](pl_pdb-feat-NumType.html) – [PartType](pl_pdb-feat-PartType.html) – [Person](pl_pdb-feat-Person.html) – [Polarity](pl_pdb-feat-Polarity.html) – [Polite](pl_pdb-feat-Polite.html) – [Poss](pl_pdb-feat-Poss.html) – [PrepCase](pl_pdb-feat-PrepCase.html) – [PronType](pl_pdb-feat-PronType.html) – [Pun](pl_pdb-feat-Pun.html) – [PunctSide](pl_pdb-feat-PunctSide.html) – [PunctType](pl_pdb-feat-PunctType.html) – [Reflex](pl_pdb-feat-Reflex.html) – [Tense](pl_pdb-feat-Tense.html) – [Variant](pl_pdb-feat-Variant.html) – [VerbForm](pl_pdb-feat-VerbForm.html) – [VerbType](pl_pdb-feat-VerbType.html) – [Voice](pl_pdb-feat-Voice.html)
+[Abbr](pl_pdb-feat-Abbr.html) – [AdpType](pl_pdb-feat-AdpType.html) – [Animacy](pl_pdb-feat-Animacy.html) – [Aspect](pl_pdb-feat-Aspect.html) – [Case](pl_pdb-feat-Case.html) – [ConjType](pl_pdb-feat-ConjType.html) – [Degree](pl_pdb-feat-Degree.html) – [Foreign](pl_pdb-feat-Foreign.html) – [Gender](pl_pdb-feat-Gender.html) – [Hyph](pl_pdb-feat-Hyph.html) – [Mood](pl_pdb-feat-Mood.html) – [Number](pl_pdb-feat-Number.html) – [Number[psor]](pl_pdb-feat-Number-psor.html) – [NumForm](pl_pdb-feat-NumForm.html) – [NumType](pl_pdb-feat-NumType.html) – [PartType](pl_pdb-feat-PartType.html) – [Person](pl_pdb-feat-Person.html) – [Polarity](pl_pdb-feat-Polarity.html) – [Polite](pl_pdb-feat-Polite.html) – [Poss](pl_pdb-feat-Poss.html) – [PrepCase](pl_pdb-feat-PrepCase.html) – [PronType](pl_pdb-feat-PronType.html) – [PunctSide](pl_pdb-feat-PunctSide.html) – [PunctType](pl_pdb-feat-PunctType.html) – [Reflex](pl_pdb-feat-Reflex.html) – [Tense](pl_pdb-feat-Tense.html) – [Variant](pl_pdb-feat-Variant.html) – [VerbForm](pl_pdb-feat-VerbForm.html) – [VerbType](pl_pdb-feat-VerbType.html) – [Voice](pl_pdb-feat-Voice.html)
 
 ## Relations
 
-[acl](pl_pdb-dep-acl.html) – [acl:relcl](pl_pdb-dep-acl-relcl.html) – [advcl](pl_pdb-dep-advcl.html) – [advcl:cmpr](pl_pdb-dep-advcl-cmpr.html) – [advcl:relcl](pl_pdb-dep-advcl-relcl.html) – [advmod](pl_pdb-dep-advmod.html) – [advmod:arg](pl_pdb-dep-advmod-arg.html) – [advmod:emph](pl_pdb-dep-advmod-emph.html) – [advmod:neg](pl_pdb-dep-advmod-neg.html) – [amod](pl_pdb-dep-amod.html) – [amod:flat](pl_pdb-dep-amod-flat.html) – [appos](pl_pdb-dep-appos.html) – [aux](pl_pdb-dep-aux.html) – [aux:clitic](pl_pdb-dep-aux-clitic.html) – [aux:cnd](pl_pdb-dep-aux-cnd.html) – [aux:imp](pl_pdb-dep-aux-imp.html) – [aux:pass](pl_pdb-dep-aux-pass.html) – [case](pl_pdb-dep-case.html) – [cc](pl_pdb-dep-cc.html) – [cc:preconj](pl_pdb-dep-cc-preconj.html) – [ccomp](pl_pdb-dep-ccomp.html) – [ccomp:cleft](pl_pdb-dep-ccomp-cleft.html) – [ccomp:obj](pl_pdb-dep-ccomp-obj.html) – [conj](pl_pdb-dep-conj.html) – [cop](pl_pdb-dep-cop.html) – [csubj](pl_pdb-dep-csubj.html) – [csubj:pass](pl_pdb-dep-csubj-pass.html) – [dep](pl_pdb-dep-dep.html) – [det](pl_pdb-dep-det.html) – [det:numgov](pl_pdb-dep-det-numgov.html) – [det:nummod](pl_pdb-dep-det-nummod.html) – [det:poss](pl_pdb-dep-det-poss.html) – [discourse:emo](pl_pdb-dep-discourse-emo.html) – [discourse:intj](pl_pdb-dep-discourse-intj.html) – [expl:pv](pl_pdb-dep-expl-pv.html) – [fixed](pl_pdb-dep-fixed.html) – [flat](pl_pdb-dep-flat.html) – [flat:foreign](pl_pdb-dep-flat-foreign.html) – [iobj](pl_pdb-dep-iobj.html) – [list](pl_pdb-dep-list.html) – [mark](pl_pdb-dep-mark.html) – [nmod](pl_pdb-dep-nmod.html) – [nmod:arg](pl_pdb-dep-nmod-arg.html) – [nmod:flat](pl_pdb-dep-nmod-flat.html) – [nmod:poss](pl_pdb-dep-nmod-poss.html) – [nmod:pred](pl_pdb-dep-nmod-pred.html) – [nsubj](pl_pdb-dep-nsubj.html) – [nsubj:pass](pl_pdb-dep-nsubj-pass.html) – [nummod](pl_pdb-dep-nummod.html) – [nummod:flat](pl_pdb-dep-nummod-flat.html) – [nummod:gov](pl_pdb-dep-nummod-gov.html) – [obj](pl_pdb-dep-obj.html) – [obl](pl_pdb-dep-obl.html) – [obl:agent](pl_pdb-dep-obl-agent.html) – [obl:arg](pl_pdb-dep-obl-arg.html) – [obl:cmpr](pl_pdb-dep-obl-cmpr.html) – [obl:orphan](pl_pdb-dep-obl-orphan.html) – [orphan](pl_pdb-dep-orphan.html) – [parataxis:insert](pl_pdb-dep-parataxis-insert.html) – [parataxis:obj](pl_pdb-dep-parataxis-obj.html) – [punct](pl_pdb-dep-punct.html) – [root](pl_pdb-dep-root.html) – [vocative](pl_pdb-dep-vocative.html) – [xcomp](pl_pdb-dep-xcomp.html) – [xcomp:cleft](pl_pdb-dep-xcomp-cleft.html) – [xcomp:pred](pl_pdb-dep-xcomp-pred.html) – [xcomp:subj](pl_pdb-dep-xcomp-subj.html)
+[acl](pl_pdb-dep-acl.html) – [acl:relcl](pl_pdb-dep-acl-relcl.html) – [advcl](pl_pdb-dep-advcl.html) – [advcl:cmpr](pl_pdb-dep-advcl-cmpr.html) – [advcl:relcl](pl_pdb-dep-advcl-relcl.html) – [advmod](pl_pdb-dep-advmod.html) – [advmod:arg](pl_pdb-dep-advmod-arg.html) – [advmod:emph](pl_pdb-dep-advmod-emph.html) – [advmod:neg](pl_pdb-dep-advmod-neg.html) – [amod](pl_pdb-dep-amod.html) – [amod:flat](pl_pdb-dep-amod-flat.html) – [appos](pl_pdb-dep-appos.html) – [aux](pl_pdb-dep-aux.html) – [aux:clitic](pl_pdb-dep-aux-clitic.html) – [aux:cnd](pl_pdb-dep-aux-cnd.html) – [aux:imp](pl_pdb-dep-aux-imp.html) – [aux:pass](pl_pdb-dep-aux-pass.html) – [case](pl_pdb-dep-case.html) – [cc](pl_pdb-dep-cc.html) – [cc:preconj](pl_pdb-dep-cc-preconj.html) – [ccomp](pl_pdb-dep-ccomp.html) – [ccomp:cleft](pl_pdb-dep-ccomp-cleft.html) – [ccomp:obj](pl_pdb-dep-ccomp-obj.html) – [conj](pl_pdb-dep-conj.html) – [cop](pl_pdb-dep-cop.html) – [csubj](pl_pdb-dep-csubj.html) – [csubj:pass](pl_pdb-dep-csubj-pass.html) – [dep](pl_pdb-dep-dep.html) – [det](pl_pdb-dep-det.html) – [det:numgov](pl_pdb-dep-det-numgov.html) – [det:nummod](pl_pdb-dep-det-nummod.html) – [det:poss](pl_pdb-dep-det-poss.html) – [discourse](pl_pdb-dep-discourse.html) – [discourse:intj](pl_pdb-dep-discourse-intj.html) – [expl:pv](pl_pdb-dep-expl-pv.html) – [fixed](pl_pdb-dep-fixed.html) – [flat](pl_pdb-dep-flat.html) – [flat:foreign](pl_pdb-dep-flat-foreign.html) – [iobj](pl_pdb-dep-iobj.html) – [list](pl_pdb-dep-list.html) – [mark](pl_pdb-dep-mark.html) – [nmod](pl_pdb-dep-nmod.html) – [nmod:arg](pl_pdb-dep-nmod-arg.html) – [nmod:flat](pl_pdb-dep-nmod-flat.html) – [nmod:poss](pl_pdb-dep-nmod-poss.html) – [nmod:pred](pl_pdb-dep-nmod-pred.html) – [nsubj](pl_pdb-dep-nsubj.html) – [nsubj:pass](pl_pdb-dep-nsubj-pass.html) – [nummod](pl_pdb-dep-nummod.html) – [nummod:flat](pl_pdb-dep-nummod-flat.html) – [nummod:gov](pl_pdb-dep-nummod-gov.html) – [obj](pl_pdb-dep-obj.html) – [obl](pl_pdb-dep-obl.html) – [obl:agent](pl_pdb-dep-obl-agent.html) – [obl:arg](pl_pdb-dep-obl-arg.html) – [obl:cmpr](pl_pdb-dep-obl-cmpr.html) – [obl:orphan](pl_pdb-dep-obl-orphan.html) – [orphan](pl_pdb-dep-orphan.html) – [parataxis:insert](pl_pdb-dep-parataxis-insert.html) – [parataxis:obj](pl_pdb-dep-parataxis-obj.html) – [punct](pl_pdb-dep-punct.html) – [root](pl_pdb-dep-root.html) – [vocative](pl_pdb-dep-vocative.html) – [xcomp](pl_pdb-dep-xcomp.html) – [xcomp:cleft](pl_pdb-dep-xcomp-cleft.html) – [xcomp:pred](pl_pdb-dep-xcomp-pred.html) – [xcomp:subj](pl_pdb-dep-xcomp-subj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 22152 sentences, 347377 tokens and 350036 syntactic words.</li>
+<li>This corpus contains 22152 sentences, 347319 tokens and 349978 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 53073 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 53016 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -89,7 +91,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 </ul>
 
 <ul>
-<li>This corpus contains 388 types of words that contain both letters and punctuation. Examples: m.in, i/lub, n.p.m, Harry'ego, PPE-DE, PiS-u, S.A, 10-letni, 65-letniego, 70-lecia, BIG-u, Blake'a, F-16, Gaulle'a, George'a, ONZ-owskich, P.S, e-sporcie, kung-fu, sms-a, ub.r, -wymiarowej, -y, .pl, 1/28/H-L, 100-krotnie, 100-ml, 11-latek, 12-cyfrowy, 12-letni, 12-letnim, 12-tym, 1299-tym, 13-latek, 13-letni, 13-miesięcznego, 14-latka, 14-letni, 14-letniego, 15-letni, 16-latków, 17-latkom, 17-letnia, 18-godzinne, 18-latce, 18-latek, 18-letniego, 18-stymi, 185-osobową, 19-calowy</li>
+<li>This corpus contains 393 types of words that contain both letters and punctuation. Examples: m.in, i/lub, n.p.m, Harry'ego, PPE-DE, PiS-u, 10-letni, 65-letniego, 70-lecia, BIG-u, Blake'a, F-16, Gaulle'a, George'a, ONZ-owskich, P.S, S.A, e-sporcie, kung-fu, sms-a, ub.r, (2n-1)-wymiarowej, -y, .pl, 1/28/H-L, 100-krotnie, 100-ml, 11-latek, 12-cyfrowy, 12-letni, 12-letnim, 12-tym, 1299-tym, 13-latek, 13-letni, 13-miesięcznego, 14-latka, 14-letni, 14-letniego, 15-letni, 16-latków, 17-latkom, 17-letnia, 18-godzinne, 18-latce, 18-latek, 18-letniego, 18-stymi, 185-osobową, 19-calowy</li>
 </ul>
 
 <ul>
@@ -106,15 +108,15 @@ We would like to thank all of the contributors of the original Polish Dependency
 </ul>
 
 <ul>
-<li>This corpus contains 135 word types tagged as particles (PART): Azaliż, Czyżby, Istotnie, Jakżeż, Moze, Niemalże, Notabene, Otóż, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, coraz, coś, czy, czyż, dopiero, doprawdy, dosyć, dość, gdyby, gdzie, gdzieś, głównie, i, jak, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, lada, ledwie, może, nadto, najwidoczniej, najwyraźniej, najwyżej, naprawdę, nareszcie, natomiast, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, ok, około, ot, oto, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, prawie, przecie, przecież, przeszło, przynajmniej, raczej, raptem, rzeczywiście, również, skądinąd, szczególnie, tak, także, tam, tego, też, to, toż, trochę, tu, tuż, tylko, widać, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zatem, zaś, ze, zgoła, znacznie, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
+<li>This corpus contains 147 word types tagged as particles (PART): Azaliż, Czyżby, Jakżeż, Moze, Niemalże, Niemniej, Notabene, Otóż, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, coś, czy, czyż, dokładnie, dopiero, doprawdy, dosyć, dosłownie, dość, gdyby, gdzieś, generalnie, głównie, i, istotnie, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, konkretnie, lada, ledwie, mianowicie, może, nadto, najpewniej, najwidoczniej, najwyraźniej, najwyżej, naprawdę, nareszcie, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, ok, około, osobiście, ot, oto, owszem, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, praktycznie, prawdopodobnie, prawie, przecie, przecież, przeciwnie, przeszło, przynajmniej, raczej, raptem, rzekomo, również, skądinąd, szczególnie, tak, także, tam, tego, teoretycznie, też, to, toż, trochę, tu, tuż, tylko, wcale, widać, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zarówno, zasadniczo, zaś, zdecydowanie, ze, zgoła, znacznie, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): co, cokolwiek, coś, cóż, ja, kto, ktokolwiek, ktoś, któż, mu, my, nic, nie, nikt, on, siebie, się, tamto, to, ty, wszyscy, wszystko, wy</li>
+<li>This corpus contains 22 lemmas tagged as pronouns (PRON): co, cokolwiek, coś, cóż, ja, kto, ktokolwiek, ktoś, któż, mu, my, nic, nikt, on, siebie, się, tamto, to, ty, wszyscy, wszystko, wy</li>
 </ul>
 
 <ul>
-<li>This corpus contains 48 lemmas tagged as determiners (DET): czyj, czyjś, dużo, ile, ileż, jaki, jakikolwiek, jakiś, każdy, kilka, kilkadziesiąt, kilkanaście, kilkaset, który, którykolwiek, któryś, mało, mniej, mój, najmniej, najwięcej, nasz, nieco, niejaki, niejeden, niektóry, niewiele, parę, parędziesiąt, pewien, pełno, sporo, swój, taki, tamten, ten, tenże, trochę, twój, tyle, tyleż, wasz, wiele, więcej, wszelki, wszystek, ów, żaden</li>
+<li>This corpus contains 51 lemmas tagged as determiners (DET): czyj, czyjś, dosyć, dość, dużo, ile, ileż, jaki, jakikolwiek, jakiś, każdy, kilka, kilkadziesiąt, kilkanaście, kilkaset, który, którykolwiek, któryś, mało, mniej, mój, najmniej, najwięcej, nasz, nieco, niejaki, niejeden, niektóry, niewiele, oba, parę, parędziesiąt, pewien, pełno, sporo, swój, taki, tamten, ten, tenże, trochę, twój, tyle, tyleż, wasz, wiele, więcej, wszelki, wszystek, ów, żaden</li>
 </ul>
 
 <ul>
@@ -145,7 +147,7 @@ We would like to thank all of the contributors of the original Polish Dependency
   <li>Fin
   <ul>
     <li>AUX: jest, to, będzie, są, był, było, będą, była, jestem, były</li>
-    <li>VERB: ma, może, jest, stoi, można, mówi, siedzi, miał, było, należy</li>
+    <li>VERB: ma, może, stoi, jest, można, mówi, siedzi, miał, należy, powiedział</li>
   </ul>
   </li>
 </ul>
@@ -154,7 +156,7 @@ We would like to thank all of the contributors of the original Polish Dependency
   <li>Inf
   <ul>
     <li>AUX: być, zostać, byc</li>
-    <li>VERB: powiedzieć, być, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</li>
+    <li>VERB: być, powiedzieć, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</li>
   </ul>
   </li>
 </ul>
@@ -190,7 +192,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>AUX-Fin: była, została, były, zostały</li>
       <li>DET: tej, która, ta, które, której, tę, swoją, którą, tych, kilka</li>
       <li>NOUN: kobieta, pracy, osób, dziewczynka, pani, osoby, sprawie, ręce, wodzie, wody</li>
-      <li>NUM: dwie, trzy, cztery, dwóch, pięć, obie, 10, sześć, 5, trzech</li>
+      <li>NUM: dwie, trzy, cztery, dwóch, pięć, 10, sześć, trzech, 5, 20</li>
       <li>PRON: jej, ją, ona, niej, mnie, ich, nią, mi, je, ja</li>
       <li>PROPN: Polsce, Polski, UE, Europy, Polska, Europie, Warszawie, Warszawy, AWS, Rosji</li>
       <li>VERB-Fin: miała, powinna, mogła, chciała, powiedziała, musiała, była, stała, widziała, wiedziała</li>
@@ -220,11 +222,11 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>ADJ: członkowskie, członkowskich, drugie, jedno, pierwsze, dotyczące, jednym, nowe, całe, innych</li>
       <li>ADJ-Part: dotyczące, związane, dotyczących, rozpostartymi, dotyczącego, przeprowadzone, zawarte, przedstawione, przygotowane, przyjęte</li>
       <li>AUX-Fin: było, zostało, były, zostały, była</li>
-      <li>DET: które, to, takie, tym, tego, te, swoje, tych, jakie, moje</li>
+      <li>DET: które, to, tym, takie, tego, te, swoje, tych, jakie, moje</li>
       <li>NOUN: dzieci, dziecko, życie, państwa, życia, pobliżu, miasta, prawa, miejscu, działania</li>
       <li>NOUN-Vnoun: stosowania, głosowania, przyjęcie, stosowanie, wprowadzenia, działania, wykorzystania, zapewnienia, tworzenia, osiągnięcia</li>
-      <li>NUM: dwoje, dwa, pół, trzy, trzech, dwóch, Troje, obu, pięć, 10</li>
-      <li>PRON: to, co, tym, tego, coś, wszystko, nic, czym, wszystkim, czego</li>
+      <li>NUM: dwoje, dwa, trzy, pół, trzech, dwóch, Troje, pięć, 10, czterech</li>
+      <li>PRON: to, co, tym, tego, coś, wszystko, nic, wszystkim, czym, czego</li>
       <li>PROPN: USA, PiS, Niemczech, Niemiec, Stanów, PSL, WE, Włoszech, PKP, Chin</li>
       <li>VERB-Fin: było, stało, udało, powinno, miało, doszło, okazało, mogło, należało, wydawało</li>
     </ul>
@@ -243,7 +245,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>AUX-Fin: był, byli, został, zostali, byl, bywali</li>
       <li>DET: którzy, który, ten, każdy, wielu, ci, swoich, tych, których, którego</li>
       <li>NOUN: mężczyzna, pan, człowiek, chłopiec, ludzi, ludzie, człowieka, pana, chłopak, mężczyzn</li>
-      <li>NUM: dwóch, dwaj, trzech, czterech, obaj, sześciu, pięciu, trzej, 10, dwoje</li>
+      <li>NUM: dwóch, dwaj, trzech, czterech, sześciu, pięciu, trzej, 10, dwoje, ośmiu</li>
       <li>PRON: jego, mnie, mu, go, ich, mi, nas, kto, ja, on</li>
       <li>PROPN: Andrzej, Jerzy, Marek, Piotr, Jan, Polacy, Polaków, Krzysztof, Jacek, Janusz</li>
       <li>VERB-Fin: powiedział, miał, chciał, mógł, mówił, mieli, mogli, powinien, powinni, był</li>
@@ -254,12 +256,12 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: cały, pierwszy, 1, jeden, nowy, jednym, nowego, sportowym, inne, różnych</li>
+      <li>ADJ: cały, pierwszy, 1, jeden, nowy, jednym, sam, nowego, sportowym, inne</li>
       <li>ADJ-Part: dotyczące, dotyczący, dotyczących, przeznaczone, związane, przedstawiony, przeznaczonych, dotyczącego, mających, określonych</li>
       <li>AUX-Fin: był, został, były, zostały</li>
       <li>DET: ten, tym, tego, który, które, którym, te, kilka, tych, swój</li>
       <li>NOUN: roku, lat, sposób, domu, dnia, raz, czas, czasu, stroju, czasie</li>
-      <li>NUM: dwa, 10, trzy, 3, dwóch, 2, 30, 5, trzech, 15</li>
+      <li>NUM: dwa, 10, trzy, dwóch, 3, 2, 30, 15, 5, trzech</li>
       <li>PRON: go, jego, ich, je, on, nim, nich, niego, one, mu</li>
       <li>PROPN: SLD, Poznaniu, Krakowie, Izraela, ZUS, Jorku, VAT, Wrocławiu, Krakowa, Iraku</li>
       <li>VERB-Fin: miał, powinien, powinny, mógł, był, przyjął, stał, rozpoczął, zakończył, mogły</li>
@@ -275,9 +277,9 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>AUX-Fin: był, został, Były, zostały</li>
       <li>DET: które, ten, który, jakiś, którym, takiego, twój, kilkuset, którego, mniej</li>
       <li>NOUN: pies, złotych, ptak, psy, dolarów, psa, konia, kot, konie, koniu</li>
-      <li>NUM: dwa, trzy, 2, 100, 3, pięć, 1500, 20, 5, 500</li>
+      <li>NUM: dwa, trzy, 2, 3, 100, pięć, 1500, 20, 5, 500</li>
       <li>PRON: go, jego, ich, mu, nim, niego, nimi, im, nich, one</li>
-      <li>PROPN: Ptak, Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Presa</li>
+      <li>PROPN: Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Presa, Saturna</li>
       <li>VERB-Fin: mógł, usiadł, zamerdał, był, mogły, padł, powinien, urodziły, wpadł, zaczął</li>
     </ul>
   </li>
@@ -300,7 +302,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>NUM: dwie, dwa, dwóch, trzy, trzech, 10, cztery, 3, pięć, 2</li>
       <li>PRON: ich, nich, nas, je, nam, im, one, nimi, oni, my</li>
       <li>PROPN: Polacy, Polaków, Rosjanie, amerykanie, Niemcy, Niemców, PKP, Francuzi, Indian, Żydów</li>
-      <li>VERB-Fin: mogą, mają, mamy, są, muszą, mieli, mogli, siedzą, stoją, musimy</li>
+      <li>VERB-Fin: mogą, mają, mamy, muszą, są, mieli, mogli, siedzą, stoją, musimy</li>
     </ul>
   </li>
 </ul>
@@ -308,9 +310,9 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Ptan
     <ul>
-      <li>NOUN: drzwi, ramach, okularach, danych, dane, środki, spodenkach, środków, warunki, ludzi</li>
+      <li>NOUN: drzwi, ramach, okularach, danych, dane, środki, spodenkach, środków, warunki, spodniach</li>
       <li>PRON: wszyscy, wszystkich, wszystkim, wszystkimi</li>
-      <li>PROPN: USA, Niemczech, Niemiec, Stanów, Włoszech, Chin, Indii, Stanach, Włochy, Kielcach</li>
+      <li>PROPN: USA, Niemczech, Niemiec, Stanów, Włoszech, Chin, Indii, Stanach, Włochy, Katowicach</li>
     </ul>
   </li>
 </ul>
@@ -322,13 +324,13 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>ADJ-Part: ubrany, ubrana, dotyczącego, dotyczący, przyjęta, dotyczącej, lecącej, stojący, widziana, przygotowany</li>
       <li>AUX: jest, em, będzie, m, był, było, była, eś, jestem, został</li>
       <li>AUX-Fin: jest, będzie, był, było, była, jestem, został, została, będę, zostanie</li>
-      <li>DET: ten, który, tej, tym, tego, która, którym, ta, to, którego</li>
+      <li>DET: ten, który, tej, tym, tego, która, którym, to, ta, którego</li>
       <li>NOUN: mężczyzna, roku, pan, kobieta, człowiek, pracy, chłopiec, dziewczynka, pani, sposób</li>
       <li>NOUN-Vnoun: stosowania, głosowania, przyjęcie, stosowanie, wprowadzenia, wykorzystania, działania, zapewnienia, tworzenia, osiągnięcia</li>
-      <li>NUM: pół, półtora, 1, 35, półtorej, 0,4, 0,5, 1,9, 13, 2,26</li>
+      <li>NUM: pół, półtora, 1, 35, półtorej, 0,4, 0,5, 1,9, 13, 15</li>
       <li>PRON: to, co, jego, jej, go, mnie, tym, mi, mu, tego</li>
       <li>PROPN: Polsce, Polski, UE, Europy, Andrzej, Polska, Europie, Warszawie, Jerzy, SLD</li>
-      <li>VERB-Fin: ma, może, jest, stoi, mówi, siedzi, miał, było, należy, powiedział</li>
+      <li>VERB-Fin: ma, może, stoi, jest, mówi, siedzi, miał, należy, powiedział, mam</li>
     </ul>
   </li>
 </ul>
@@ -343,7 +345,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>ADJ: cały, pierwszy, inne, dotyczące, pierwsze, całą, drugą, nowe, jedną, drugie</li>
       <li>ADJ-Part: dotyczące, związane, dotyczący, dotyczącą, trzymany, lecącą, określone, otwarte, ustanawiający, wymienione</li>
       <li>ADP: temu</li>
-      <li>DET: ten, te, swoje, które, kilka, tę, swoją, wiele, swój, wszystkie</li>
+      <li>DET: ten, te, swoje, które, kilka, tę, swoją, wiele, swój, to</li>
       <li>NOUN: sposób, raz, temat, czas, życie, pieniądze, uwagę, dzień, stronę, ręce</li>
       <li>NOUN-Vnoun: przyjęcie, stosowanie, tworzenie, odrzucenie, zmniejszenie, działanie, obniżenie, poparcie, prowadzenie, przeprowadzenie</li>
       <li>NUM: dwa, trzy, 10, dwie, 2, 3, pół, pięć, cztery, 5</li>
@@ -356,8 +358,8 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: innym, drugiemu, własnym, młodemu, młodym, całej, członkowskim, jednemu, nowemu, nowym</li>
-      <li>ADJ-Part: biegnącemu, potrzebującym, Panującej, Zjednoczonemu, bitemu, będącego, będącej, błądzącym, dbającym, doprowadzającemu</li>
+      <li>ADJ: prostu, innym, angielsku, drugiemu, pijanemu, własnym, młodemu, młodym, całej, cichu</li>
+      <li>ADJ-Part: biegnącemu, potrzebującym, Panującej, bitemu, będącego, będącej, błądzącym, dbającym, doprowadzającemu, dozwolonym</li>
       <li>DET: którym, któremu, swoim, tym, temu, tej, naszym, swojemu, wszystkim, każdemu</li>
       <li>NOUN: panu, ludziom, komisji, dzieciom, osobom, pani, państwu, życiu, mężczyźnie, dziennikarzom</li>
       <li>NOUN-Vnoun: zastosowaniu, badaniu, wspieraniu, wydłużeniu, zmniejszeniu, Określeniu, Poparzeniu, Rozładowywaniu, Stosowaniu, Wypędzeniom</li>
@@ -375,8 +377,8 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>ADJ-Part: dotyczących, związanych, dotyczącego, określonych, lecącej, zawartych, zgromadzonych, dotyczącej, działających, mających</li>
       <li>DET: tego, tych, tej, których, którego, takich, wszystkich, swoich, takiego, naszych</li>
       <li>NOUN: lat, osób, roku, pracy, ludzi, dnia, dzieci, czasu, wody, życia</li>
-      <li>NOUN-Vnoun: stosowania, głosowania, wprowadzenia, wykorzystania, działania, zapewnienia, tworzenia, przyjęcia, osiągnięcia, prowadzenia</li>
-      <li>NUM: dwóch, trzech, pięciu, 10, czterech, obu, 2, 3, 5, dziesięciu</li>
+      <li>NOUN-Vnoun: stosowania, głosowania, wprowadzenia, wykorzystania, działania, zapewnienia, tworzenia, osiągnięcia, przyjęcia, prowadzenia</li>
+      <li>NUM: dwóch, trzech, pięciu, 10, czterech, 2, 3, dziesięciu, 5, 12</li>
       <li>PRON: jego, ich, jej, tego, siebie, nich, mnie, niego, nas, nic</li>
       <li>PROPN: Polski, Europy, UE, Warszawy, SLD, AWS, Polaków, Rosji, Stanów, USA</li>
     </ul>
@@ -390,10 +392,10 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>ADJ-Part: uniesionymi, rozłożonymi, dotyczącymi, rozpostartymi, uniesioną, określoną, wyciągniętą, ośnieżonym, ugiętymi, prowadzącymi</li>
       <li>DET: tym, moim, swoim, tą, którym, każdym, którą, którymi, naszym, jakim</li>
       <li>NOUN: wodą, głową, razem, zdaniem, czasem, ręką, pomocą, względem, rękami, celem</li>
-      <li>NOUN-Vnoun: przyjęciem, rozpoczęciem, wejściem, zastosowaniem, prowadzeniem, tworzeniem, uwzględnieniem, użyciem, wprowadzeniem, wskazaniem</li>
-      <li>NUM: dwoma, trzema, dwiema, obiema, 3, 4, dwudziestu, pięcioma, 10, 1080</li>
+      <li>NOUN-Vnoun: przyjęciem, uwzględnieniem, rozpoczęciem, wejściem, zastosowaniem, prowadzeniem, tworzeniem, użyciem, wprowadzeniem, wskazaniem</li>
+      <li>NUM: dwoma, trzema, dwiema, 3, 4, dwudziestu, pięcioma, 10, 1080, 128</li>
       <li>PRON: tym, sobą, nim, nimi, wszystkim, nią, czym, kim, mną, nami</li>
-      <li>PROPN: Andrzejem, Niemcami, Polską, Rosją, Stanami, Ukrainą, Wisłą, Aleksandrem, Bogiem, Europą</li>
+      <li>PROPN: Andrzejem, Niemcami, Polską, Republiką, Rosją, Stanami, Ukrainą, Wisłą, Aleksandrem, Bogiem</li>
     </ul>
   </li>
 </ul>
@@ -405,8 +407,8 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>ADJ-Part: określonym, dmuchanych, dotyczących, określonych, pokrytej, wzburzonej, dotyczącej, prowadzonym, zastawionym, zaśnieżonym</li>
       <li>DET: tym, tej, którym, których, której, tych, swoim, każdym, naszym, takich</li>
       <li>NOUN: roku, sprawie, wodzie, stroju, czasie, trawie, pobliżu, przypadku, kasku, celu</li>
-      <li>NOUN-Vnoun: zakończeniu, podejmowaniu, przeprowadzeniu, wprowadzeniu, leczeniu, przekazaniu, wejściu, wyjściu, wykonywaniu, wypiciu</li>
-      <li>NUM: dwóch, trzech, obu, czterech, 10, 20, dziesięciu, 50, dwudziestu, pięciu</li>
+      <li>NOUN-Vnoun: zakończeniu, podejmowaniu, przeprowadzeniu, użyciu, wprowadzeniu, leczeniu, przekazaniu, wejściu, wyjściu, wykonywaniu</li>
+      <li>NUM: dwóch, trzech, czterech, 10, 20, dziesięciu, 50, dwudziestu, pięciu, 15</li>
       <li>PRON: tym, nim, czym, nich, niej, sobie, mnie, wszystkim, czymś, niczym</li>
       <li>PROPN: Polsce, Europie, Warszawie, Poznaniu, Krakowie, Niemczech, Wrocławiu, Włoszech, Ameryce, Łodzi</li>
     </ul>
@@ -418,10 +420,10 @@ We would like to thank all of the contributors of the original Polish Dependency
     <ul>
       <li>ADJ: jeden, sam, jedna, inne, mały, drugi, pierwszy, sama, europejska, członkowskie</li>
       <li>ADJ-Part: ubrany, dotyczące, związane, ubrana, przeznaczone, przyjęta, stojący, przedstawione, przygotowane, widziana</li>
-      <li>DET: który, które, która, którzy, ten, ta, te, takie, to, każdy</li>
+      <li>DET: który, które, która, którzy, ten, ta, te, to, takie, każdy</li>
       <li>NOUN: mężczyzna, pan, kobieta, człowiek, chłopiec, dziewczynka, pani, ludzie, pies, osoby</li>
       <li>NOUN-Vnoun: stosowanie, przyjęcie, zapewnienie, otwarcie, wprowadzenie, rozszerzenie, badanie, ograniczenie, podawanie, wykorzystanie</li>
-      <li>NUM: dwie, dwa, dwóch, trzy, cztery, dwaj, dwoje, pięć, trzech, obaj</li>
+      <li>NUM: dwie, dwa, dwóch, trzy, cztery, dwaj, dwoje, pięć, trzech, czterech</li>
       <li>PRON: to, co, ja, on, kto, ona, ktoś, wszystko, nikt, one</li>
       <li>PROPN: Andrzej, Polska, Jerzy, Marek, Piotr, Jan, Polacy, Krzysztof, Jacek, Janusz</li>
     </ul>
@@ -434,7 +436,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>ADJ: droga, szanowny, głupi, młody, Drodzy, Nowy, Wspaniaty, Wysoki, dobrzy, duży</li>
       <li>ADJ-Part: trzymający</li>
       <li>DET: moja, mój, moje, nasz</li>
-      <li>NOUN: panie, pośle, marszałku, pani, kochanie, tato, mamo, ministrze, panowie, doktorze</li>
+      <li>NOUN: panie, pośle, marszałku, pani, kochanie, tato, mamo, ministrze, panowie, profesorze</li>
       <li>PRON: ty</li>
       <li>PROPN: Boże, Panie, Jacku, Piotrze, Alicjo, Arturze, Basiu, Bello, Benedykcie, Czarny</li>
     </ul>
@@ -456,7 +458,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Pre
     <ul>
-      <li>ADJ: prostu, dawna, wolna, daleka, angielsku, niedawna, bliska, cichu, francusku, nowa</li>
+      <li>ADJ: prostu, dawna, daleka, wolna, angielsku, niedawna, nowa, pijanemu, bliska, cichu</li>
       <li>PRON: nich, nim, niego, niej, nią, nimi, nie, niemu, ń, on</li>
     </ul>
   </li>
@@ -482,7 +484,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: innych, jeden, inne, sam, europejskiej, pierwszy, różnych, jednym, cały, 1</li>
+      <li>ADJ: innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</li>
       <li>ADV: bardzo, tak, jak, dobrze, zgodnie, często, jednocześnie, obecnie, trudno, szybko</li>
     </ul>
   </li>
@@ -556,13 +558,13 @@ We would like to thank all of the contributors of the original Polish Dependency
   <li>Imp
     <ul>
       <li>ADJ-Part: dotyczące, dotyczących, dotyczącego, dotyczący, prowadzone, stojący, dotyczącej, lecącej, stosowane, widziana</li>
-      <li>AUX: jest, em, będzie, m, są, śmy, był, być, było, będą</li>
+      <li>AUX: jest, em, będzie, są, m, śmy, był, być, było, będą</li>
       <li>AUX-Conv: będąc</li>
       <li>AUX-Fin: jest, będzie, są, był, było, będą, była, jestem, były, będziemy</li>
       <li>AUX-Inf: być, byc</li>
       <li>NOUN-Vnoun: stosowania, głosowania, stosowanie, działania, tworzenia, prowadzenia, wykonywania, czynienia, pływania, tworzenie</li>
       <li>VERB-Conv: trzymając, patrząc, mówiąc, mając, stojąc, uwzględniając, siedząc, chcąc, biorąc, używając</li>
-      <li>VERB-Fin: ma, może, jest, stoi, mówi, siedzi, miał, było, należy, mam</li>
+      <li>VERB-Fin: ma, może, stoi, jest, mówi, siedzi, miał, należy, mam, mogą</li>
       <li>VERB-Inf: być, mieć, robić, patrzeć, mówić, iść, wiedzieć, żyć, myśleć, prowadzić</li>
     </ul>
   </li>
@@ -599,7 +601,7 @@ We would like to thank all of the contributors of the original Polish Dependency
   <li>Ind
     <ul>
       <li>AUX-Fin: jest, to, będzie, są, był, było, będą, była, jestem, były</li>
-      <li>VERB-Fin: ma, może, jest, stoi, można, mówi, siedzi, miał, było, należy</li>
+      <li>VERB-Fin: ma, może, stoi, jest, można, mówi, siedzi, miał, należy, powiedział</li>
     </ul>
   </li>
 </ul>
@@ -622,7 +624,7 @@ We would like to thank all of the contributors of the original Polish Dependency
     <ul>
       <li>AUX-Fin: był, było, była, były, został, została, byli, zostały, zostało, zostali</li>
       <li>VERB-Conv: począwszy, spojrzawszy, zważywszy, Dokonawszy, otrzymawszy, stanąwszy, straciwszy, wyzbywszy, Doszedłszy, Nadawszy</li>
-      <li>VERB-Fin: miał, było, powiedział, chciał, mógł, miała, mówił, mieli, mogli, był</li>
+      <li>VERB-Fin: miał, powiedział, było, chciał, mógł, miała, mówił, mieli, mogli, był</li>
     </ul>
   </li>
 </ul>
@@ -633,7 +635,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>AUX-Conv: będąc</li>
       <li>AUX-Fin: jest, to, są, jestem, jesteś, jesteśmy, zostaje, zostają, bywa, bywają</li>
       <li>VERB-Conv: trzymając, patrząc, mówiąc, mając, stojąc, uwzględniając, siedząc, chcąc, biorąc, używając</li>
-      <li>VERB-Fin: ma, może, jest, stoi, można, mówi, siedzi, należy, mam, mogą</li>
+      <li>VERB-Fin: ma, może, stoi, jest, można, mówi, siedzi, należy, mam, mogą</li>
     </ul>
   </li>
 </ul>
@@ -650,8 +652,8 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>AUX-Fin: jest, są, był, było, była, jestem, były, został, została, zostanie</li>
       <li>AUX-Inf: być, zostać, byc</li>
       <li>VERB-Conv: trzymając, patrząc, mówiąc, mając, stojąc, uwzględniając, siedząc, chcąc, biorąc, używając</li>
-      <li>VERB-Fin: ma, może, jest, stoi, mówi, siedzi, miał, było, należy, powiedział</li>
-      <li>VERB-Inf: powiedzieć, być, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</li>
+      <li>VERB-Fin: ma, może, stoi, jest, mówi, siedzi, miał, należy, powiedział, mam</li>
+      <li>VERB-Inf: być, powiedzieć, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</li>
     </ul>
   </li>
 </ul>
@@ -676,7 +678,7 @@ We would like to thank all of the contributors of the original Polish Dependency
   <li>Dem
     <ul>
       <li>ADV: tak, tu, tam, dlatego, wtedy, tutaj, wówczas, stąd, dotąd, stamtąd</li>
-      <li>DET: ten, tej, tym, tego, te, tych, ta, takie, to, takich</li>
+      <li>DET: ten, tym, tej, tego, te, tych, to, ta, takie, takich</li>
       <li>PRON: to, tym, tego, temu, tamto, tamtym</li>
     </ul>
   </li>
@@ -695,7 +697,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Int
     <ul>
-      <li>ADV: kiedy, jak, dlaczego, gdzie, skąd, czemu, dokąd, odkąd, ile, jakże</li>
+      <li>ADV: kiedy, jak, dlaczego, gdzie, skąd, czemu, dokąd, odkąd, jakże, ile</li>
       <li>DET: ile, jakie, jaki, które, których, jakim, którą, jakiej, jaka, jakich</li>
       <li>PRON: co, kto, czym, czego, kim, kogo, komu, cóż, czemu, któż</li>
     </ul>
@@ -748,7 +750,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Card
     <ul>
-      <li>DET: kilka, wiele, więcej, wielu, kilku, ile, dużo, tyle, mniej, kilkanaście</li>
+      <li>DET: ile, tyle, ilu, tylu, ileż, iluż, tyleż</li>
       <li>NUM: 10, 3, 2, 30, 5, 15, 20, 4, 50, 12</li>
     </ul>
   </li>
@@ -757,7 +759,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 1, II, 2008, 2000, 2009, 2, 20, 15, 1995, XIX</li>
+      <li>ADJ: 1, II, 2008, 2000, 2009, 2, 15, 1995, 20, XIX</li>
     </ul>
   </li>
 </ul>
@@ -765,8 +767,9 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Sets
     <ul>
+      <li>DET: oboje, kilkoro, obojgu</li>
       <li>NOUN: dzieci, dziecko, oczy, dziecka, oczach, dzieckiem, oczami, zwierząt, dziećmi, oczu</li>
-      <li>NUM: dwoje, Troje, oboje, Czworo, Pięcioro, obojgu, czternaściorga, czworga, dwojgiem, dziesięcioro</li>
+      <li>NUM: dwoje, Troje, pięcioro, Czworo, dwanaścioro, dwojgiem, dziesięcioro, pięć, sześcioro</li>
       <li>PROPN: Hedestad, INE, Lakis, Plovdiv, Poste, SUD</li>
     </ul>
   </li>
@@ -838,7 +841,7 @@ We would like to thank all of the contributors of the original Polish Dependency
     <ul>
       <li>AUX-Fin: jest, będzie, są, będą, zostanie, zostaną, zostaje, zostają, bywa, bywają</li>
       <li>PRON: jego, ich, jej, go, mu, nich, ją, on, je, nim</li>
-      <li>VERB-Fin: ma, może, jest, stoi, mówi, siedzi, należy, mogą, mają, musi</li>
+      <li>VERB-Fin: ma, może, stoi, jest, mówi, siedzi, należy, mogą, mają, musi</li>
     </ul>
   </li>
 </ul>
@@ -850,7 +853,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li>Depr
     <ul>
-      <li>NOUN: chłopaki, nastolatki, Chłopy, Kamraty, Wykształciuchy, niedobitki, ułomka, zombie, łajzy</li>
+      <li>NOUN: chłopaki, nastolatki, Chłopy, Kamraty, Wykształciuchy, goście, niedobitki, zombie, łajzy</li>
       <li>PROPN: Jerze, VIP-y</li>
     </ul>
   </li>
@@ -885,8 +888,12 @@ We would like to thank all of the contributors of the original Polish Dependency
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: św, b, ww, Gd, d, in, kw, pn, proc, st</li>
+          <li>ADP: ds, wg, nt, ok</li>
+          <li>ADV: np, m.in, tzw, itp, itd, pt, a, n.p.m, tzn, b</li>
+          <li>NOUN: r, zł, art, tys, proc, ust, %, ul, godz, mln</li>
           <li>PART: ok</li>
-          <li>X: r, zł, art, tys, proc, m, s, ust, np, ul</li>
+          <li>PROPN: K, S, A, M, J, b, c, H, G, P</li>
         </ul>
       </li>
     </ul>
@@ -911,23 +918,11 @@ We would like to thank all of the contributors of the original Polish Dependency
 </ul>
 
 <ul>
-  <li><a>Clitic</a>
-    <ul>
-      <li>Yes
-        <ul>
-          <li>AUX: em, m, śmy, eś, ś, ście</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>ConjType</a>
     <ul>
       <li>Comp
         <ul>
-          <li>SCONJ: jak, niż, jakby, niczym, aniżeli, niby</li>
+          <li>SCONJ: jak, niż, jakby, niczym, jakoby, aniżeli, niby</li>
         </ul>
       </li>
       <li>Oper
@@ -945,26 +940,11 @@ We would like to thank all of the contributors of the original Polish Dependency
 </ul>
 
 <ul>
-  <li><a>Emphatic</a>
-    <ul>
-      <li>Yes
-        <ul>
-          <li>ADV: jakże, gdzież, skądże</li>
-          <li>DET: ileż, iluż, tyleż</li>
-          <li>PART: czyż</li>
-          <li>PRON: cóż, któż, Kimże, czymże</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: de, San, a, of, von, New, Don, bin, di, Le</li>
+          <li>X: de, San, of, von, New, Don, a, bin, di, the</li>
         </ul>
       </li>
     </ul>
@@ -988,9 +968,9 @@ We would like to thank all of the contributors of the original Polish Dependency
     <ul>
       <li>Digit
         <ul>
-          <li>ADJ: 1, 2008, 2000, 2009, 2, 20, 15, 1995, 1996, 1997</li>
+          <li>ADJ: 1, 2008, 2000, 2009, 2, 15, 1995, 20, 1996, 1997</li>
           <li>NUM: 10, 3, 2, 30, 5, 15, 20, 4, 50, 12</li>
-          <li>X: 2, 1, 3, 4, 5, 6, 7, 8, 9, 10</li>
+          <li>X: 2, 1, 3, 4, 5, 6, 7, 8, 14, 9</li>
         </ul>
       </li>
       <li>Roman
@@ -1020,24 +1000,6 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>Mod
         <ul>
           <li>PART: może, Moze</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Pun</a>
-    <ul>
-      <li>No
-        <ul>
-          <li>X: zł, mln, pkt, nr, m, km, mg, kg, mld, cm</li>
-        </ul>
-      </li>
-      <li>Yes
-        <ul>
-          <li>PART: ok</li>
-          <li>X: r, art, tys, proc, ust, np, ul, godz, m.in, prof</li>
         </ul>
       </li>
     </ul>
@@ -1134,7 +1096,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>Quasi
         <ul>
           <li>AUX-Fin: to</li>
-          <li>VERB-Fin: można, trzeba, wiadomo, widać, warto, oto, wolno, słychać, stać, szkoda</li>
+          <li>VERB-Fin: można, trzeba, wiadomo, widać, warto, oto, wolno, słychać, stać, brak</li>
         </ul>
       </li>
     </ul>
@@ -1160,21 +1122,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (7)</li>
-      <li>VERB-Fin--NOUN-Dat (2)</li>
-      <li>VERB-Fin--NOUN-Gen (642)</li>
+      <li>VERB-Fin--NOUN (82)</li>
+      <li>VERB-Fin--NOUN-Acc (5)</li>
+      <li>VERB-Fin--NOUN-Gen (641)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (3)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (11591)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Dat (2)</li>
-      <li>VERB-Fin--PRON-Gen (58)</li>
-      <li>VERB-Fin--PRON-Nom (1796)</li>
-      <li>VERB-Inf--NOUN-Gen (5)</li>
-      <li>VERB-Inf--NOUN-Nom (108)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Nom (22)</li>
+      <li>VERB-Fin--NOUN-Nom (11599)</li>
+      <li>VERB-Fin--PRON-Acc (3)</li>
+      <li>VERB-Fin--PRON-Gen (57)</li>
+      <li>VERB-Fin--PRON-Nom (1786)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Gen (3)</li>
+      <li>VERB-Inf--NOUN-Nom (93)</li>
+      <li>VERB-Inf--PRON-Nom (15)</li>
     </ul>
   </li>
 </ul>
@@ -1182,30 +1142,35 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB-Conv--NOUN (3)</li>
       <li>VERB-Conv--NOUN-Acc (522)</li>
       <li>VERB-Conv--NOUN-Gen (56)</li>
+      <li>VERB-Conv--NOUN-Ins (1)</li>
       <li>VERB-Conv--NOUN-Nom (3)</li>
       <li>VERB-Conv--PRON-Acc (32)</li>
       <li>VERB-Conv--PRON-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Acc (5813)</li>
+      <li>VERB-Fin--NOUN (41)</li>
+      <li>VERB-Fin--NOUN-Acc (5792)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Gen (962)</li>
+      <li>VERB-Fin--NOUN-Gen (954)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (12)</li>
+      <li>VERB-Fin--NOUN-Ins (21)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
       <li>VERB-Fin--NOUN-Nom (24)</li>
-      <li>VERB-Fin--PRON-Acc (1379)</li>
-      <li>VERB-Fin--PRON-Gen (229)</li>
-      <li>VERB-Fin--PRON-Ins (6)</li>
+      <li>VERB-Fin--PRON-Acc (1357)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Gen (222)</li>
+      <li>VERB-Fin--PRON-Ins (8)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN-Acc (1628)</li>
-      <li>VERB-Inf--NOUN-Dat (1)</li>
+      <li>VERB-Inf--NOUN (10)</li>
+      <li>VERB-Inf--NOUN-ADP(po) (1)</li>
+      <li>VERB-Inf--NOUN-Acc (1630)</li>
       <li>VERB-Inf--NOUN-Gen (339)</li>
-      <li>VERB-Inf--NOUN-Ins (3)</li>
+      <li>VERB-Inf--NOUN-Ins (6)</li>
       <li>VERB-Inf--NOUN-Nom (8)</li>
-      <li>VERB-Inf--PRON-Acc (411)</li>
+      <li>VERB-Inf--PRON-Acc (409)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON-Gen (81)</li>
+      <li>VERB-Inf--PRON-Gen (80)</li>
       <li>VERB-Inf--PRON-Ins (1)</li>
     </ul>
   </li>
@@ -1214,32 +1179,35 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Acc (23)</li>
       <li>VERB-Conv--NOUN-Dat (16)</li>
       <li>VERB-Conv--NOUN-Gen (19)</li>
-      <li>VERB-Conv--NOUN-Ins (99)</li>
+      <li>VERB-Conv--NOUN-Ins (98)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Dat (23)</li>
       <li>VERB-Conv--PRON-Ins (2)</li>
-      <li>VERB-Fin--NOUN-Acc (921)</li>
-      <li>VERB-Fin--NOUN-Dat (561)</li>
-      <li>VERB-Fin--NOUN-Gen (587)</li>
-      <li>VERB-Fin--NOUN-Ins (799)</li>
+      <li>VERB-Fin--NOUN (57)</li>
+      <li>VERB-Fin--NOUN-Acc (942)</li>
+      <li>VERB-Fin--NOUN-Dat (560)</li>
+      <li>VERB-Fin--NOUN-Gen (602)</li>
+      <li>VERB-Fin--NOUN-Ins (786)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Fin--NOUN-Nom (17)</li>
-      <li>VERB-Fin--PRON-Acc (178)</li>
-      <li>VERB-Fin--PRON-Dat (974)</li>
-      <li>VERB-Fin--PRON-Gen (110)</li>
-      <li>VERB-Fin--PRON-Ins (55)</li>
-      <li>VERB-Fin--PRON-Nom (7)</li>
-      <li>VERB-Inf--NOUN-Acc (92)</li>
-      <li>VERB-Inf--NOUN-Dat (159)</li>
+      <li>VERB-Fin--PRON-Acc (193)</li>
+      <li>VERB-Fin--PRON-Dat (968)</li>
+      <li>VERB-Fin--PRON-Gen (119)</li>
+      <li>VERB-Fin--PRON-Ins (52)</li>
+      <li>VERB-Fin--PRON-Nom (6)</li>
+      <li>VERB-Inf--NOUN (7)</li>
+      <li>VERB-Inf--NOUN-Acc (91)</li>
+      <li>VERB-Inf--NOUN-Dat (161)</li>
       <li>VERB-Inf--NOUN-Gen (72)</li>
-      <li>VERB-Inf--NOUN-Ins (173)</li>
+      <li>VERB-Inf--NOUN-Ins (168)</li>
       <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Acc (14)</li>
-      <li>VERB-Inf--PRON-Dat (150)</li>
+      <li>VERB-Inf--PRON-Acc (15)</li>
+      <li>VERB-Inf--PRON-Dat (148)</li>
       <li>VERB-Inf--PRON-Gen (17)</li>
       <li>VERB-Inf--PRON-Ins (14)</li>
     </ul>
@@ -1249,20 +1217,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 1664 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stać się, znajdować się, udać się, wydawać się, okazać się, znaleźć się, starać się, pojawić się, odbyć się, czuć się, dowiedzieć się, zajmować się, bać się, cieszyć się, bawić się, dziać się, wspinać się, pojawiać się, stawać się, rozpocząć się, spotkać się, spodziewać się, zastanawiać się, unosić się, zdarzać się, zdecydować się, zatrzymać się, dać się, opierać się, trzymać się, zgadzać się, zająć się, domagać się, stosować się, zgodzić się, odbywać się, zbliżać się, obawiać się, posługiwać się, przyglądać się, uczyć się, zmienić się, kończyć się, podobać się, spotykać się, uśmiechać się, uśmiechnąć się, zacząć się, zwrócić się, mówić się</li>
+  <li>This corpus contains 1658 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stać się, znajdować się, udać się, wydawać się, okazać się, znaleźć się, starać się, pojawić się, odbyć się, czuć się, dowiedzieć się, zajmować się, bać się, cieszyć się, bawić się, dziać się, wspinać się, pojawiać się, stawać się, rozpocząć się, spotkać się, spodziewać się, zastanawiać się, unosić się, zdarzać się, zdecydować się, dać się, zatrzymać się, opierać się, trzymać się, zgadzać się, zająć się, domagać się, stosować się, zgodzić się, odbywać się, przyglądać się, zbliżać się, obawiać się, posługiwać się, uczyć się, zmienić się, kończyć się, podobać się, spotykać się, uśmiechać się, uśmiechnąć się, zacząć się, zwrócić się, mówić się</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 54 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: pozwolić sobie, robić sobie, zająć sobą, bronić siebie, darować sobie, dogonić swoich, dopiąć swego, gotować sobie, kochać siebie, kompromitować siebie, lubić siebie, manipulować sobą, obetrzeć sobie, oceniać siebie, odkrywać siebie, odmawiać sobie, odmówić sobie, odpowiedzieć sobie, określić siebie, opisać siebie, organizować sobie, parodiować siebie, pisać sobie, podawać sobie, pokochać siebie, poniżyć siebie, porównywać siebie, posłuchać siebie, poznać siebie, przynieść sobie, rozgrzeszyć siebie, rozpoznawać siebie, rozpoznać siebie, rozumieć siebie, sam siebie, sprawić sobie, stawiać siebie, stawiać sobie, ufać sobie, ukarać siebie, uprzytomnić sobie, uratować siebie, utrudnić sobie, uzdrowienie siebie, uświadamiać sobie, widzieć siebie, wybaczyć sobie, wybrać siebie, wydrzeć sobie, wyrażać siebie</li>
+  <li>This corpus contains 56 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: pozwolić sobie, robić sobie, zająć sobą, bronić siebie, darować sobie, dogonić swoich, dopiąć swego, dziwić sobie, gotować sobie, kochać siebie, kompromitować siebie, lubić siebie, manipulować sobą, obetrzeć sobie, oceniać siebie, odkrywać siebie, odmawiać sobie, odmówić sobie, odpowiedzieć sobie, określić siebie, opisać siebie, organizować sobie, parodiować siebie, pisać sobie, podawać sobie, pokochać siebie, poniżyć siebie, porównywać siebie, posłuchać siebie, poznać siebie, pozostawić sobie, przyglądać sobie, przynieść sobie, rozgrzeszyć siebie, rozpoznawać siebie, rozpoznać siebie, rozumieć siebie, sprawić sobie, stawiać siebie, stawiać sobie, ufać sobie, ukarać siebie, uprzytomnić sobie, uratować siebie, utrudnić sobie, uzdrowienie siebie, uświadamiać sobie, widzieć siebie, wybaczyć sobie, wybrać siebie</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 38 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:emo</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
-<li>The following 3 main types are not used alone, they are always subtyped: <a>discourse</a>, <a>expl</a>, <a>parataxis</a></li>
+<li>This corpus uses 37 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>parataxis</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

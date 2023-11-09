@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (41; 100% of non-empty `Polarity`): <em>unpaid, non-empty, uncountable, unbroken, unclear, unsuspecting, Non-Tech, non-profit, non-sufficient, unable</em>
-* `EMPTY` (1197): <em>next, other, first, old, open, more, straight, chronic, right, third</em>
+* `EMPTY` (1205): <em>next, other, first, old, open, more, straight, chronic, right, such</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `Polarity`.
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 35 <tt><a href="en_gentle-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (35; 100%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (35; 100%).
 
 `DET` tokens may have the following values of `Polarity`:
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (14; 100% of non-empty `Polarity`): <em>never, no, ungainly</em>
-* `EMPTY` (714): <em>then, just, so, here, also, thus, well, how, where, now</em>
+* `EMPTY` (712): <em>then, just, so, here, also, thus, well, how, where, now</em>
 
 ### `PRON`
 

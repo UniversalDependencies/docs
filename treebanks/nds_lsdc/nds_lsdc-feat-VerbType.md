@@ -9,14 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Aux`, `Cop`, `Mod`.
 
-51 tokens (2%) have a non-empty value of `VerbType`.
-28 types (3%) occur at least once with a non-empty value of `VerbType`.
+51 tokens (1%) have a non-empty value of `VerbType`.
+28 types (2%) occur at least once with a non-empty value of `VerbType`.
 8 lemmas (1%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (51; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (51; 1% instances).
 
 ### `AUX`
 
-51 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (39% of all `AUX` tokens) have a non-empty value of `VerbType`.
+51 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (22% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
 The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (49; 96%), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (47; 92%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 82%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 80%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (26; 51%).
 

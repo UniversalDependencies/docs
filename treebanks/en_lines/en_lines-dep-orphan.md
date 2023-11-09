@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	and	and	CCONJ	_	_	13	cc	_	_
 8	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	13	dislocated	_	_
 9	one	one	PRON	IND-P3SG	_	13	nsubj	_	_
-10	ca	can	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	SpaceAfter=No
+10	ca	can	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
 11	n't	not	PART	NEG	_	13	advmod	_	_
 12	be	be	AUX	INF	VerbForm=Inf	13	cop	_	_
 13	sure	sure	ADJ	POS	Degree=Pos	3	conj	_	_

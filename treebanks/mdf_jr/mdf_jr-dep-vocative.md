@@ -17,16 +17,17 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 vocative	color:blue
-1	Панчк-ка	панжемс	VERB	V	Mood=Prec|Number[subj]=Sing|Person[subj]=2	0	root	_	GTtags=TV,Imprt,ScSg2
-2	вальмять	вальмя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	1	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	4	punct	_	_
-4	Самсон	Самсон	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	1	vocative	_	GTtags=Prop,Sem/Mal,Sg,Nom,Indef|SpaceAfter=No
-5	!	!	PUNCT	CLB	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 vocative	color:blue
+1	Сергей	Сергей	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	vocative	_	GTtags=Prop,Sg,Nom,Indef|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	1	punct	_	GTtags=PUNCT
+3	училищаса	училища	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	GTtags=SP,Ine,Indef
+4	сторожкс	сторож	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	xcomp	_	GTtags=SP,Tra,Indef
+5	работан	работамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,ScSg1|SpaceAfter=No
+6	!	!	PUNCT	PUNCT	_	5	punct	_	GTtags=PUNCT
 
 ~~~
 

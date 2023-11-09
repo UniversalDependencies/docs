@@ -7,15 +7,15 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: POS Tags: `CCONJ`
 
 There are 30 `CCONJ` lemmas (0%), 30 `CCONJ` types (0%) and 1740 `CCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: 和、 及、 与、 或、 以及、 至、 到、 或者、 并、 而
 
 The 10 most frequent `CCONJ` types:  和、 及、 与、 或、 以及、 至、 到、 或者、 并、 而
 
-The 10 most frequent ambiguous lemmas: 和 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 769, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 74, <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 1), 及 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 254, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 5), 与 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 243, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 242), 或 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 6), 至 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 57, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 34), 到 (<tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 174, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 22), 或者 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 1), 并 (<tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 311, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 16), 而 (<tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 306, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 13), 又 (<tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 71, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 10)
+The 10 most frequent ambiguous lemmas: 和 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 769, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 74, <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 1), 及 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 254, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 5), 与 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 243, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 242), 或 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 4, <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 2), 至 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 57, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 34), 到 (<tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 174, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 22), 或者 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 1), 并 (<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 281, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 30, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 16), 而 (<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 305, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 1), 又 (<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 3)
 
-The 10 most frequent ambiguous types:  和 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 769, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 74, <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt> 1), 及 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 254, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 1), 与 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 243, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 242), 或 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 6), 至 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 57, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 34), 到 (<tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 173, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 22), 或者 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 1), 并 (<tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 311, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 16), 而 (<tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 306, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 13), 又 (<tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 71, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 10)
+The 10 most frequent ambiguous types:  和 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 769, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 74, <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt> 1), 及 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 254, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 1), 与 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 243, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 242), 或 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 164, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 4, <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 2), 至 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 74, <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 57, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 34), 到 (<tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 173, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 22), 或者 (<tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 1), 并 (<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 281, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 30, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 16), 而 (<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 305, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 1), 又 (<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 3)
 
 
 * 和
@@ -31,7 +31,8 @@ The 10 most frequent ambiguous types:  和 (<tt><a href="zh_gsdsimp-pos-CCONJ.ht
   * <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 242: 车站 装有 屏蔽 门 ， 采用 <b>与</b> 轨道 交通 类似 的 管理 方法 ， 但 2 号 线 并 没有 全线 的 专用 路权 。
 * 或
   * <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 164: 在 平原 、 塔 、 洞窟 、 海 <b>或</b> 迷宫 中 移动 时 ， 玩家 将 会 和 随机 遇到 的 敌人 作战 。
-  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 6: 密室 推理 （ Locked room mystery ， <b>或</b> 称 密室 杀人 ） 是 推理 小说 常见 的 一 种 类型 。
+  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 4: 密室 推理 （ Locked room mystery ， <b>或</b> 称 密室 杀人 ） 是 推理 小说 常见 的 一 种 类型 。
+  * <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 2: 皇帝 奥朗则布 驾崩 后 ， 皇权 逐渐 落入 各省 总督 （ <b>或</b> 称 为 地方 官 ， Soobedars ） 手中 。
 * 至
   * <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 74: 此 气旋 季 之 风暴 通常 都 会 于 4 月 <b>至</b> 12 月 期间 形成 。
   * <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> 57: 2009 年 7 月 1 日 ， 南京 大学 2007 、 2008 级 学生 由 浦口 校区 搬迁 <b>至</b> 新 建成 的 仙林 校区 。
@@ -42,20 +43,23 @@ The 10 most frequent ambiguous types:  和 (<tt><a href="zh_gsdsimp-pos-CCONJ.ht
   * <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt> 22: <b>到</b> 6 月 中旬 ， 国军 厦门 要塞 司令 部 才 成立 金门 要塞 总台 ， 这 才 开始 构筑 岛上 工事 ， 铺设 通信 线路 。
 * 或者
   * <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 19: 可 自创 主角 <b>或者</b> 选择 游戏 提供 的 两 个 虚拟 的 主角 （ 一 为 葡萄牙 籍 ， 另 一 为 西班牙 籍 ） 。
-  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 1: 礼节 规则 也许 反映 了 社会 的 伦理 规则 ， <b>或者</b> 它 也许 反映 了 这 个 社会 现在 的 状态 。
+  * <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 1: 礼节 规则 也许 反映 了 社会 的 伦理 规则 ， <b>或者</b> 它 也许 反映 了 这 个 社会 现在 的 状态 。
 * 并
-  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 311: 史莱姆 是 由 鸟山 明 为 《 勇者 斗 恶龙 》 设计 的 ， <b>并</b> 成 为 了 系列 官方 的 吉祥 物 。
+  * <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 281: 史莱姆 是 由 鸟山 明 为 《 勇者 斗 恶龙 》 设计 的 ， <b>并</b> 成 为 了 系列 官方 的 吉祥 物 。
+  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 30: 2008 年 ， 该 工程 <b>并</b> 未 完工 。
   * <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 16: 交换 的 不断 发展 和 扩大 ， 使 商品 生产 出现 <b>并</b> 发展 ， 又 反 过来 促进 了 交换 的 进 一 步 发展 。
 * 而
-  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 306: 数百万 的 巧克力 棒 被 撤下 柜台 ， <b>而</b> 玛氏 则 中断 了 生产 ， 公司 损失 达 四百五十万 美 元 。
+  * <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 305: 数百万 的 巧克力 棒 被 撤下 柜台 ， <b>而</b> 玛氏 则 中断 了 生产 ， 公司 损失 达 四百五十万 美 元 。
   * <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 13: 卡莱尔 是 拥有 简洁 <b>而</b> 历史 意义 重大 的 城市 ， 该地 有 一 座 城堡 、 博物 馆 、 大 教堂 以及 不 完整 的 城墙 。
+  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 1: 象牙喙啄木鸟 于 1800 年代 因 猎杀 数量 <b>而</b> 大量 下降 。
 * 又
-  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 71: 半月 山 大佛 <b>又</b> 称 资阳 大佛 ， 位 于 四川 省 资阳 市 雁江 区 碑记 镇 ， 是 一 座 在 山崖 石壁 上 雕刻 的 佛像 。
+  * <tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> 68: 半月 山 大佛 <b>又</b> 称 资阳 大佛 ， 位 于 四川 省 资阳 市 雁江 区 碑记 镇 ， 是 一 座 在 山崖 石壁 上 雕刻 的 佛像 。
   * <tt><a href="zh_gsdsimp-pos-CCONJ.html">CCONJ</a></tt> 10: 此法 既 能 解决 运费 高昂 的 问题 ， <b>又</b> 可 调节 物价 。
+  * <tt><a href="zh_gsdsimp-pos-ADV.html">ADV</a></tt> 3: 1952 年 11 月 1 日 <b>又</b> 一 个 氢弹 试验 装置 “ 常春藤 麦克 ” 在 太平 洋 的 埃内韦塔克 环礁 上 爆炸 。
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.004662).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.004660).
 
 The 1st highest number of forms (1) was observed with the lemma “与”: 与.
 

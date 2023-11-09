@@ -42,4 +42,4 @@ punct(И, ?-7)
 punct(And, ?-15)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:28 CET -->

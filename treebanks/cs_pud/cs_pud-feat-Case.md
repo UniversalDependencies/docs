@@ -174,7 +174,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 140 <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> tokens (31% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (140; 100%), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (140; 100%), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (102; 73%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (82; 59%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 56%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (140; 100%), <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (140; 100%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (82; 59%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (78; 56%).
 
 `NUM` tokens may have the following values of `Case`:
 

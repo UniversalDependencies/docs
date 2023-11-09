@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -232,7 +232,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: présent, technique, européen, possible, communautaire, nécessaire, présente, économique, autre, applicable</li>
+      <li>ADJ: présent, technique, européen, possible, communautaire, présente, nécessaire, économique, autre, applicable</li>
       <li>AUX: est, a, été, sera, soit, suis, était, ai, ait, serait</li>
       <li>AUX-Fin: est, a, sera, soit, suis, était, ai, ait, serait, avait</li>
       <li>AUX-Part: été, ayant, fait, étant</li>
@@ -356,7 +356,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Past
     <ul>
       <li>AUX-Part: été, fait</li>
-      <li>VERB-Fin: agit, fournit, accélèrent, adhèrent, altèrent, génèrent, inclut, pris, remplit, repris</li>
+      <li>VERB-Fin: agit, fournit, accélèrent, adhèrent, génèrent, inclut, pris, remplit, repris, surgit</li>
       <li>VERB-Part: dite, fait, tenu, compris, donné, mis, dit, soumis, nommés, demandé</li>
     </ul>
   </li>
@@ -606,13 +606,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (352)</li>
+      <li>VERB-Fin--NOUN (357)</li>
       <li>VERB-Fin--NOUN-ADP(de) (5)</li>
       <li>VERB-Fin--PRON (586)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Part--NOUN (91)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
-      <li>VERB-Part--PRON (94)</li>
+      <li>VERB-Part--PRON (95)</li>
     </ul>
   </li>
 </ul>
@@ -620,16 +620,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (344)</li>
+      <li>VERB-Fin--NOUN (347)</li>
       <li>VERB-Fin--NOUN-ADP(de) (3)</li>
       <li>VERB-Fin--NOUN-ADP(jusque) (1)</li>
-      <li>VERB-Fin--PRON (96)</li>
+      <li>VERB-Fin--PRON (95)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN (340)</li>
-      <li>VERB-Inf--PRON (66)</li>
+      <li>VERB-Inf--NOUN (345)</li>
+      <li>VERB-Inf--PRON (69)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN (165)</li>
-      <li>VERB-Part--PRON (43)</li>
+      <li>VERB-Part--NOUN (168)</li>
+      <li>VERB-Part--PRON (45)</li>
     </ul>
   </li>
 </ul>

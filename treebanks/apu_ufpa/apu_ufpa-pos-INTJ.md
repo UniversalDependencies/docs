@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `INTJ`
 
 There are 2 `INTJ` lemmas (1%), 2 `INTJ` types (1%) and 2 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 12 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>aa, ii</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.228873).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.231034).
 
 The 1st highest number of forms (1) was observed with the lemma “aa”: <em>Aa</em>.
 

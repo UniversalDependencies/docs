@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `AUX`
 
 There are 6 `AUX` lemmas (0%), 126 `AUX` types (0%) and 22052 `AUX` tokens (4%).
-Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 9 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>haver, anar, ser, poder, estar, saber</em>
 
@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>va</em> (<tt><a href="ca_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 21.000000 (the average of all parts of speech is 1.416268).
+The form / lemma ratio of `AUX` is 21.000000 (the average of all parts of speech is 1.416814).
 
 The 1st highest number of forms (29) was observed with the lemma “ser”: <em>Serem, era, eren, es, essent, estat, ets, foren, fos, fossin, fou, s, sent, ser, seran, seria, serien, serà, seré, seríem, siguem, sigui, siguin, sigut, som, sóc, són, érem, és</em>.
 
@@ -96,7 +96,7 @@ Parents of `AUX` nodes belong to 14 different parts of speech: <tt><a href="ca_a
 
 The highest child degree of a `AUX` node is 8.
 
-Children of `AUX` nodes are attached using 20 different relations: <tt><a href="ca_ancora-dep-punct.html">punct</a></tt> (567; 24% instances), <tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt> (451; 19% instances), <tt><a href="ca_ancora-dep-ccomp.html">ccomp</a></tt> (347; 15% instances), <tt><a href="ca_ancora-dep-mark.html">mark</a></tt> (173; 7% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (164; 7% instances), <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (151; 6% instances), <tt><a href="ca_ancora-dep-obl.html">obl</a></tt> (97; 4% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (73; 3% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (66; 3% instances), <tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt> (64; 3% instances), <tt><a href="ca_ancora-dep-obl-arg.html">obl:arg</a></tt> (62; 3% instances), <tt><a href="ca_ancora-dep-aux.html">aux</a></tt> (48; 2% instances), <tt><a href="ca_ancora-dep-csubj.html">csubj</a></tt> (32; 1% instances), <tt><a href="ca_ancora-dep-det.html">det</a></tt> (11; 0% instances), <tt><a href="ca_ancora-dep-parataxis.html">parataxis</a></tt> (6; 0% instances), <tt><a href="ca_ancora-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (1; 0% instances)
+Children of `AUX` nodes are attached using 20 different relations: <tt><a href="ca_ancora-dep-punct.html">punct</a></tt> (567; 24% instances), <tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt> (451; 19% instances), <tt><a href="ca_ancora-dep-ccomp.html">ccomp</a></tt> (347; 15% instances), <tt><a href="ca_ancora-dep-mark.html">mark</a></tt> (173; 7% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (164; 7% instances), <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (139; 6% instances), <tt><a href="ca_ancora-dep-obl.html">obl</a></tt> (97; 4% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (85; 4% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (66; 3% instances), <tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt> (64; 3% instances), <tt><a href="ca_ancora-dep-obl-arg.html">obl:arg</a></tt> (62; 3% instances), <tt><a href="ca_ancora-dep-aux.html">aux</a></tt> (48; 2% instances), <tt><a href="ca_ancora-dep-csubj.html">csubj</a></tt> (32; 1% instances), <tt><a href="ca_ancora-dep-det.html">det</a></tt> (11; 0% instances), <tt><a href="ca_ancora-dep-parataxis.html">parataxis</a></tt> (6; 0% instances), <tt><a href="ca_ancora-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-xcomp.html">xcomp</a></tt> (5; 0% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (1; 0% instances)
 
 Children of `AUX` nodes belong to 14 different parts of speech: <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (567; 24% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (453; 19% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (447; 19% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (138; 6% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (137; 6% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (127; 5% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (124; 5% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (96; 4% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (63; 3% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (62; 3% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (62; 3% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (41; 2% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (2; 0% instances)
 

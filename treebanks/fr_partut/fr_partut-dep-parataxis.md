@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	avoir	avoir	AUX	VA	VerbForm=Inf	5	aux	_	_
 5	sevré	sevrer	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	_
 6	leur	leur	DET	AP	Gender=Masc|Number=Sing|PronType=Prs	7	det	_	_
-7	petit	petit	ADJ	A	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
+7	petit	petit	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	2	punct	_	_
 9	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	quantité	quantité	NOUN	S	Gender=Fem|Number=Sing	2	parataxis	_	_

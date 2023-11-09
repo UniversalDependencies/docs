@@ -152,4 +152,4 @@ The particle 呢 _ne1/le1_ can also be used as a hesitation marker.
 ### References
 
 - Matthews, Stephen and Virginia Yip. 2011. Cantonese: A Comprehensive Grammar, 2nd ed. Routledge.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:51 CET -->

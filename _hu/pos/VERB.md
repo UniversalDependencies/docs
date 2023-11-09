@@ -13,4 +13,4 @@ see-PRES-1SG-DEF the bird-ACC
 Látok egy madarat.
 see-PRES-1SG-INDEF a bird-ACC
 "I see a bird."
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:31 CET -->

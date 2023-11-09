@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	avmektige	avmektig	ADJ	adj	Degree=Pos	4	amod	_	_
 4	Europautvalet	Europautvalet	PROPN	subst	_	7	nsubj	_	_
 5	var	vere	AUX	verb	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	_
-6	ikkje	ikkje	ADV	adv	_	7	advmod	_	_
+6	ikkje	ikkje	PART	adv	Polarity=Neg	7	advmod	_	_
 7	påtenkt	påtenkt	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	0	root	_	SpaceAfter=No
 8	.	$.	PUNCT	clb	_	7	punct	_	_
 
@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 amod	color:blue
-1	Ikkje	ikkje	ADV	adv	_	2	advmod	_	_
+1	Ikkje	ikkje	PART	adv	Polarity=Neg	2	advmod	_	_
 2	minst	liten	ADJ	adj	Definite=Ind|Degree=Sup	4	amod	_	_
 3	det	det	DET	det	Gender=Neut|PronType=Dem	4	det	_	_
 4	siste	sist	ADJ	adj	Degree=Pos	5	obj	_	_

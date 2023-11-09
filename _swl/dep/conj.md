@@ -20,4 +20,4 @@ conj(OS@b, VM@b)
 PRO1 PRO1 HETA TEDDIE@b@en TEDDIE-SUNDQVIST@en \n I am called Teddie Sundqvist.
 conj(PRO1, PRO1)
 ~~~	
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:07 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:41 CET -->

@@ -67,7 +67,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1712; 79%),
-<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (846; 95%),
+<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (847; 95%),
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (319; 90%),
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (304; 64%),
 <tt>PROPN --[<tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (250; 100%),

@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
 729 tokens (2%) have a non-empty value of `Definite`.
-10 types (0%) occur at least once with a non-empty value of `Definite`.
+10 types (1%) occur at least once with a non-empty value of `Definite`.
 5 lemmas (1%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="tr_atis-pos-DET.html">DET</a></tt> (729; 2% instances).
 

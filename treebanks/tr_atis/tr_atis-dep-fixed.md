@@ -8,30 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-35 nodes (0%) are attached to their parents as `fixed`.
+21 nodes (0%) are attached to their parents as `fixed`.
 
-35 instances of `fixed` (100%) are left-to-right (parent precedes child).
+21 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (9; 26% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (5; 14% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (4; 11% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-INTJ.html">INTJ</a></tt> (2; 6% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADP.html">ADP</a></tt> (2; 6% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt>-<tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 fixed	color:blue
-1	Beş	beş	NUM	_	NumType=Card	2	nsubj	_	_
-2	Nisan'da	nisan	PROPN	_	Case=Loc|Number=Sing	7	nmod	_	_
-3	Indianapolis'ten	ındianapolis	PROPN	_	Case=Abl|Number=Sing	4	nmod	_	_
-4	San	san	PROPN	_	Case=Nom|Number=Sing	7	nmod	_	_
-5	Diego'ya	diego	PROPN	_	Case=Dat|Number=Sing	4	fixed	_	_
-6	hangi	hangi	PRON	_	PronType=Int	7	amod	_	_
-7	uçuşlar	uç	NOUN	_	Case=Nom|Number=Plur|Person=3	8	nsubj	_	_
-8	var	var	ADJ	_	_	0	root	_	_
-
-~~~
+The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (5; 24% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (4; 19% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-INTJ.html">INTJ</a></tt> (4; 19% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="tr_atis-pos-DET.html">DET</a></tt>-<tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -51,7 +33,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 9	bir	bir	DET	_	Definite=Ind|PronType=Art	8	fixed	_	_
 10	havayoluyla	havayol	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	obl	_	_
 11	gidebilir	git	VERB	_	Aspect=Hab|Mood=GenPot|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
-12	miyim	mi	AUX	_	PronType=Int	11	aux	_	_
+12	miyim	mi	AUX	_	PronType=Int	11	aux:q	_	_
 
 ~~~
 
@@ -71,6 +53,21 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	erken	erken	ADJ	_	_	8	amod	_	_
 8	uçuşu	uç	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
 9	bulun	bulun	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	Peki	peki	ADV	_	_	5	discourse	_	_
+2	ya	ya	INTJ	_	_	1	fixed	_	_
+3	Denver'de	denver	PROPN	_	Case=Loc|Number=Sing	5	nmod	_	_
+4	araba	araba	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
+5	kiralama	kiralama	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
 
 ~~~
 

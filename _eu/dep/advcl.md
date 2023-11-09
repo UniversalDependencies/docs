@@ -36,4 +36,4 @@ advcl(idazle-taldea-5, sorturiko-2)
 amod(idazle-taldea-5, lehenbiziko-3)
 nmod(idazle-taldea-5, euskal)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:54 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:16 CET -->

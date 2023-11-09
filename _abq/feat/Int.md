@@ -12,4 +12,4 @@ This feature mark an interrogative form of the verb.
 #### Examples
 
 * [abq] _у-гьы-м-пхащ-у-<b>ма</b>_ [2SG.M.ABS-NEG.EMP-NEG-be_ashamed-IPF-<b>Q</b>] ‘aren't you ashamed of it?’ `Gender[abs]=Masc|Int=Yes|Number[abs]=Sing|Person[abs]=2|Polarity=Neg|Tense=Pres`
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:39 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:49 CET -->

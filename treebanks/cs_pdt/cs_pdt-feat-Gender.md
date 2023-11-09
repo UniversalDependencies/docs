@@ -254,7 +254,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 966 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (11% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (966; 100%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (965; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (965; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (556; 58%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (965; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (965; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (556; 58%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -284,7 +284,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2253; 100%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1724; 99%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1263; 88%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1147; 84%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1151; 84%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (944; 52%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (878; 55%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (734; 92%),

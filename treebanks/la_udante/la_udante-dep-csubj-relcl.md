@@ -102,7 +102,7 @@ The following 13 pairs of parts of speech are connected with `csubj:relcl`: <tt>
 30	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 31	in	in	ADP	e	_	32	case	_	_
 32	aliis	alius	DET	dpnpb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Con	34	obl	_	_
-33	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	34	cop	_	TraditionalTense=Praesens
+33	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	34	cop	_	TraditionalTense=Praesens
 34	causa	causa	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	30	xcomp	_	SpaceAfter=No
 35	.	.	PUNCT	Pu	_	18	punct	_	_
 

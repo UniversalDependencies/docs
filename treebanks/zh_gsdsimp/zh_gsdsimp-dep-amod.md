@@ -44,7 +44,7 @@ The following 27 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 amod	color:blue
-1	所	所	ADV	RB	_	2	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+1	所	所	SCONJ	RB	_	2	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 2	谓	谓	VERB	VV	_	5	amod	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 3	医学	医学	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=yīxué|LTranslit=yīxué
 4	生物	生物	NOUN	NN	_	5	nmod	_	SpaceAfter=No|Translit=shēngwù|LTranslit=shēngwù
@@ -65,7 +65,7 @@ The following 27 pairs of parts of speech are connected with `amod`: <tt><a href
 19	部分	部分	NOUN	NN	_	20	obl:patient	_	SpaceAfter=No|Translit=bùfēn|LTranslit=bùfēn
 20	整理	整理	VERB	VV	_	23	advcl	_	SpaceAfter=No|Translit=zhěnglǐ|LTranslit=zhěnglǐ
 21	后	后	ADP	IN	_	20	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
-22	所	所	ADV	RB	_	23	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+22	所	所	SCONJ	RB	_	23	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 23	得	得	VERB	VV	_	7	xcomp	_	SpaceAfter=No|Translit=de|LTranslit=de
 24	。	。	PUNCT	.	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -95,7 +95,7 @@ The following 27 pairs of parts of speech are connected with `amod`: <tt><a href
 15	关税	关税	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=guānshuì|LTranslit=guānshuì
 16	区	区	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 17	”	”	PUNCT	''	_	16	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
-18	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+18	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	非	非	VERB	VC	_	22	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
 20	主权	主权	NOUN	NN	_	19	xcomp	_	SpaceAfter=No|Translit=zhǔquán|LTranslit=zhǔquán
 21	政治	政治	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=zhèngzhì|LTranslit=zhèngzhì

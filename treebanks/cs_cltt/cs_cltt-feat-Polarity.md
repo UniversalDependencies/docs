@@ -154,9 +154,9 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4019; 100%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1792; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (815; 91%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (688; 91%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (689; 91%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (590; 87%),
-<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (559; 96%),
+<tt>ADJ --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (560; 96%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (313; 91%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (283; 84%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (262; 90%).

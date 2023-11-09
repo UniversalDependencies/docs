@@ -36,4 +36,4 @@ Then the clausal complement is regarded as a “clausal object” and an object 
 
 There is further discussion of the two kinds of object at [iobj]().
 If possible, language-specific documentation should be available to help identify the primary (or direct) object.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:26 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:14 CET -->

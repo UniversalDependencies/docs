@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 503 tokens (1%) have a non-empty value of `Reflex`.
-15 types (0%) occur at least once with a non-empty value of `Reflex`.
+16 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
 The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-DET.html">DET</a></tt> (255; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (248; 0% instances).
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (255; 100% of non-empty `Reflex`): <em>sua, suis, suam, suo, sue, suum, sui, suorum, suas, suos</em>
-* `EMPTY` (3389): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, quedam, huius</em>
+* `EMPTY` (3392): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, quedam, huius</em>
 
 ### `PRON`
 
@@ -33,6 +33,6 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (248; 100% of non-empty `Reflex`): <em>se, sibi, sui, sese</em>
-* `EMPTY` (2427): <em>quod, que, qui, quo, eius, quam, quid, nobis, me, te</em>
+* `Yes` (248; 100% of non-empty `Reflex`): <em>se, sibi, sui, sese, suimet</em>
+* `EMPTY` (2439): <em>quod, que, qui, quo, eius, quam, quid, nobis, me, te</em>
 

@@ -59,7 +59,7 @@ The 1st highest number of forms (54) was observed with the lemma “_”: <em>Ma
 
 `AUX` occurs with 7 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 8 feature combinations.
+`AUX` occurs with 7 feature combinations.
 The most frequent feature combination is `Mood=Ind|Tense=Pres` (1394 tokens).
 Examples: <em>er, hevur, skal, skulu, eri, eru, hava, havi, vóru, ert</em>
 

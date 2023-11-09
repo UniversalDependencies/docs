@@ -22,11 +22,11 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	There	there	PRON	EX	_	2	expl	_	SpaceAfter=No
+1	There	there	PRON	EX	_	2	expl	_	_
 2	's	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	one	one	NUM	CARD-SG	NumType=Card	4	nummod	_	_
 4	thing	thing	NOUN	SG-NOM	Number=Sing	2	nsubj	_	_
-5	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No
+5	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	'll	will	AUX	PRES-AUX	VerbForm=Fin	7	aux	_	_
 7	do	do	VERB	INF	VerbForm=Inf	4	acl:relcl	_	_
 8	for	for	ADP	_	_	9	case	_	_
@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 nummod	color:blue
-1	It	it	PRON	PERS-SG	_	3	nsubj	_	SpaceAfter=No
+1	It	it	PRON	PERS-SG	_	3	nsubj	_	_
 2	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	two	two	NUM	CARD-PL	NumType=Card	0	root	_	_
 4	to	to	ADP	_	_	5	case	_	_

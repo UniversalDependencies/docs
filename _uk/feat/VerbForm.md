@@ -64,4 +64,4 @@ The adverbial participle, also called converb or transgressive, is a non-finite 
 - _несучи, нісши_ &nbsp;“carrying” (present and past adverbial participles)
 - _принісши_ &nbsp;“having brought” (past adverbial participle)
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:12 CET -->

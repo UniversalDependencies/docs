@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2095 tokens (12%) have a non-empty value of `Person`.
-441 types (12%) occur at least once with a non-empty value of `Person`.
-310 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (947; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (660; 4% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (488; 3% instances).
+2058 tokens (12%) have a non-empty value of `Person`.
+421 types (11%) occur at least once with a non-empty value of `Person`.
+294 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (947; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (609; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (502; 3% instances).
 
 ### `PRON`
 
@@ -38,21 +38,21 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `VERB`
 
-660 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Person`.
+609 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (582; 88%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (496; 75%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (609; 100%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (566; 93%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (482; 79%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (372; 61%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (110; 17% of non-empty `Person`): <em>said, have, heard, need, did, had, implore, passed, stood, thought</em>
-* `2` (212; 32% of non-empty `Person`): <em>let, see, Suppose, have, get, do, take, tell, consider, know</em>
-* `3` (338; 51% of non-empty `Person`): <em>has, is, follows, are, Quoth, continues, had, held, precedes, took</em>
-* `EMPTY` (1003): <em>gon, have, get, do, make, following, see, become, done, going</em>
+* `1` (107; 18% of non-empty `Person`): <em>said, have, heard, need, had, implore, passed, stood, thought, want</em>
+* `2` (173; 28% of non-empty `Person`): <em>let, see, Suppose, get, have, take, tell, consider, do, know</em>
+* `3` (329; 54% of non-empty `Person`): <em>has, follows, is, Quoth, are, continues, had, held, precedes, took</em>
+* `EMPTY` (1038): <em>gon, have, get, do, make, following, see, become, done, going</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>had</em></td><td><em>had</em></td><td><em>had</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>have, 've</em></td><td><em>has</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>have</em></td><td><em>has</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>had</em></td><td></td><td><em>had</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>have</em></td><td></td><td><em>have</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>have</em></td><td></td></tr>
@@ -60,30 +60,34 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-488 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (66% of all `AUX` tokens) have a non-empty value of `Person`.
+502 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (488; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (448; 92%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (401; 82%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (374; 77%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (502; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (462; 92%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (411; 82%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (385; 77%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (47; 10% of non-empty `Person`): <em>'m, 've, do, 're, am, was, had, are, did, have</em>
-* `2` (29; 6% of non-empty `Person`): <em>are, do, 're, 've, have, be, ’re</em>
-* `3` (412; 84% of non-empty `Person`): <em>is, was, are, has, 's, will, were, have, can, does</em>
-* `EMPTY` (249): <em>be, will, can, been, would, could, may, shall, 'll, should</em>
+* `1` (50; 10% of non-empty `Person`): <em>'m, do, 've, 're, am, was, did, had, are, have</em>
+* `2` (31; 6% of non-empty `Person`): <em>are, do, 're, 've, have, be, ’re</em>
+* `3` (421; 84% of non-empty `Person`): <em>is, was, are, has, 's, will, were, have, can, does</em>
+* `EMPTY` (251): <em>be, will, can, been, would, could, may, shall, 'll, should</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>be</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'m, am</em></td><td><em>are, 're, ’re</em></td><td><em>is, 's, s</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gentle-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>s</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'m, am</em></td><td><em>are, 're, ’re</em></td><td><em>is, 's</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>were, was</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'re, are, ’re</em></td><td><em>'re, 've, are</em></td><td><em>are, 're, Were, art, is</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'re, are, ’re</em></td><td><em>'re, are</em></td><td><em>are, 're, Were, art, is</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (234; 52%),
-<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (41; 58%),
-<tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%).
+<tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (226; 51%),
+<tt>VERB --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> VERB</tt> (33; 53%),
+<tt>AUX --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 73%),
+<tt>VERB --[<tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-110183 tokens (20%) have a non-empty value of `PronType`.
+110184 tokens (20%) have a non-empty value of `PronType`.
 326 types (1%) occur at least once with a non-empty value of `PronType`.
 97 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (84402; 15% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (25206; 5% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (565; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (84402; 15% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (25207; 5% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (565; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances).
 
 ### `DET`
 
@@ -37,19 +37,19 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-25206 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+25207 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19402; 77%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18517; 73%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (15126; 60%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15029; 60%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13134; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19403; 77%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18518; 73%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (15127; 60%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15029; 60%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13135; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (780; 3% of non-empty `PronType`): <em>eso, esto, éste, ésta, mismo, este, misma, mismos, éstos, tal</em>
 * `Ind` (1787; 7% of non-empty `PronType`): <em>uno, cómo, una, algo, unos, otros, otro, algunos, otra, muchos</em>
-* `Int` (203; 1% of non-empty `PronType`): <em>qué, cuál, cuáles</em>
-* `Int,Rel` (473; 2% of non-empty `PronType`): <em>quien, quienes, quién, cuanto, cuánto, cuántos, quiénes, cuantos, cuántas</em>
+* `Int` (254; 1% of non-empty `PronType`): <em>qué, quién, cuál, cuáles, quiénes</em>
+* `Int,Rel` (14; 0% of non-empty `PronType`): <em>cuanto, cuánto, cuántos, cuantos, cuántas</em>
 * `Neg` (364; 1% of non-empty `PronType`): <em>nada, nadie, ninguno, ninguna</em>
 * `Prs` (12609; 50% of non-empty `PronType`): <em>se, lo, le, me, nos, la, les, él, ellos, yo</em>
-* `Rel` (8574; 34% of non-empty `PronType`): <em>que, cual, cuales</em>
+* `Rel` (8983; 36% of non-empty `PronType`): <em>que, quien, quienes, cual, cuales</em>
 * `Tot` (416; 2% of non-empty `PronType`): <em>todo, todos, todas, cada, toda</em>
 
 <table>
@@ -87,7 +87,7 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> PRON</tt> (28; 76%),
 <tt>DET --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (7; 100%),
 <tt>PRON --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> DET</tt> (4; 100%),
-<tt>PRON --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (2; 100%),
+<tt>PRON --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (3; 100%),
 <tt>ADV --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
 <tt>DET --[<tt><a href="es_ancora-dep-fixed.html">fixed</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%),

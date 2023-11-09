@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Akuntsu-TuDeT: POS Tags: `INTJ`
 
-There are 5 `INTJ` lemmas (1%), 5 `INTJ` types (1%) and 7 `INTJ` tokens (1%).
+There are 5 `INTJ` lemmas (1%), 5 `INTJ` types (1%) and 7 `INTJ` tokens (0%).
 Out of 13 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 10 in number of types and 12 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>iwej, ẽ, ahaha, ahh, uf</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ẽ</em> (<tt><a href="aqz_tudet-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.418283).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.442049).
 
 The 1st highest number of forms (1) was observed with the lemma “ahaha”: <em>ahaha</em>.
 

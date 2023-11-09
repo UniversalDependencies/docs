@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -896,7 +896,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Gen (258)</li>
+      <li>VERB-Fin--NOUN-Gen (255)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(okoli) (2)</li>
       <li>VERB-Fin--NOUN-Nom (3322)</li>
@@ -907,7 +907,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Nom (47)</li>
       <li>VERB-Inf--PRON-Nom (4)</li>
-      <li>VERB-Part--NOUN-Gen (174)</li>
+      <li>VERB-Part--NOUN-Gen (171)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (2)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
       <li>VERB-Part--NOUN-Nom (3133)</li>
@@ -921,36 +921,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (2743)</li>
+      <li>VERB-Fin--NOUN-Acc (2731)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (128)</li>
-      <li>VERB-Fin--NOUN-Gen (554)</li>
+      <li>VERB-Fin--NOUN-Dat (70)</li>
+      <li>VERB-Fin--NOUN-Gen (557)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
       <li>VERB-Fin--PRON (16)</li>
-      <li>VERB-Fin--PRON-Acc (777)</li>
-      <li>VERB-Fin--PRON-Dat (227)</li>
+      <li>VERB-Fin--PRON-Acc (768)</li>
+      <li>VERB-Fin--PRON-Dat (140)</li>
       <li>VERB-Fin--PRON-Gen (50)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
-      <li>VERB-Inf--NOUN-Acc (689)</li>
-      <li>VERB-Inf--NOUN-Dat (46)</li>
-      <li>VERB-Inf--NOUN-Gen (221)</li>
+      <li>VERB-Inf--NOUN-Acc (682)</li>
+      <li>VERB-Inf--NOUN-Dat (23)</li>
+      <li>VERB-Inf--NOUN-Gen (220)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON (8)</li>
-      <li>VERB-Inf--PRON-Acc (175)</li>
-      <li>VERB-Inf--PRON-Dat (34)</li>
-      <li>VERB-Inf--PRON-Gen (49)</li>
+      <li>VERB-Inf--PRON-Acc (172)</li>
+      <li>VERB-Inf--PRON-Dat (12)</li>
+      <li>VERB-Inf--PRON-Gen (47)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN-Acc (3020)</li>
-      <li>VERB-Part--NOUN-Dat (145)</li>
-      <li>VERB-Part--NOUN-Gen (562)</li>
+      <li>VERB-Part--NOUN-Acc (3012)</li>
+      <li>VERB-Part--NOUN-Dat (90)</li>
+      <li>VERB-Part--NOUN-Gen (564)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (3)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (45)</li>
-      <li>VERB-Part--PRON-Acc (1029)</li>
-      <li>VERB-Part--PRON-Dat (304)</li>
-      <li>VERB-Part--PRON-Gen (68)</li>
+      <li>VERB-Part--PRON-Acc (1012)</li>
+      <li>VERB-Part--PRON-Dat (141)</li>
+      <li>VERB-Part--PRON-Gen (64)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
       <li>VERB-Sup--NOUN-Acc (7)</li>
       <li>VERB-Sup--NOUN-Gen (1)</li>
@@ -962,23 +962,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (15)</li>
-      <li>VERB-Fin--NOUN-Dat (127)</li>
+      <li>VERB-Fin--NOUN-Acc (27)</li>
+      <li>VERB-Fin--NOUN-Dat (185)</li>
       <li>VERB-Fin--NOUN-Loc (2)</li>
-      <li>VERB-Fin--PRON-Acc (22)</li>
-      <li>VERB-Fin--PRON-Dat (192)</li>
-      <li>VERB-Inf--NOUN-Acc (8)</li>
-      <li>VERB-Inf--NOUN-Dat (44)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Fin--PRON-Acc (31)</li>
+      <li>VERB-Fin--PRON-Dat (279)</li>
+      <li>VERB-Inf--NOUN-Acc (15)</li>
+      <li>VERB-Inf--NOUN-Dat (67)</li>
+      <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Dat (45)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Part--NOUN-Acc (19)</li>
-      <li>VERB-Part--NOUN-Dat (145)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Dat (67)</li>
+      <li>VERB-Inf--PRON-Gen (3)</li>
+      <li>VERB-Part--NOUN-Acc (27)</li>
+      <li>VERB-Part--NOUN-Dat (200)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--PRON (4)</li>
-      <li>VERB-Part--PRON-Acc (27)</li>
-      <li>VERB-Part--PRON-Dat (295)</li>
+      <li>VERB-Part--PRON-Acc (44)</li>
+      <li>VERB-Part--PRON-Dat (458)</li>
+      <li>VERB-Part--PRON-Gen (4)</li>
       <li>VERB-Sup--PRON-Acc (1)</li>
     </ul>
   </li>

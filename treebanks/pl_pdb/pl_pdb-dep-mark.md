@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7562 nodes (2%) are attached to their parents as `mark`.
+7584 nodes (2%) are attached to their parents as `mark`.
 
-7420 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.06135942872256.
+7443 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.0650052742616.
 
-The following 22 pairs of parts of speech are connected with `mark`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (4903; 65% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1383; 18% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (775; 10% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (131; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (92; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (88; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (66; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (39; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `mark`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (4897; 65% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1398; 18% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (777; 10% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (141; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (92; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (90; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (64; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (39; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt>-<tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 2	nieco	nieco	ADV	adv	_	1	advmod	1:advmod	SpaceAfter=No
 3	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
 4	ale	ale	CCONJ	conj	_	7	cc	7:cc	_
-5	nie	nie	PART	part	Polarity=Neg	7	advmod:neg	7:advmod:neg	_
+5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	6:advmod:neg	_
 6	tak	tak	ADV	adv:pos	Degree=Pos|PronType=Dem	7	advmod	7:advmod	_
-7	dużo	dużo	ADV	adv:pos	Degree=Pos	1	conj	0:root|1:conj	_
+7	dużo	dużo	ADV	adv:pos	Degree=Pos	2	conj	1:advmod|2:conj	_
 8	jak	jak	SCONJ	comp	ConjType=Comp	10	mark	10:mark	_
 9	się	się	PRON	part	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
 10	spodziewasz	spodziewać	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl:cmpr	6:advcl:cmpr	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Nagle	nagle	ADV	adv:pos	Degree=Pos	3	advmod	3:advmod	_
 2	ją	on	PRON	ppron3:sg:acc:f:ter:akc:npraep	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	3	obj	3:obj	_
 3	znienawidził	znienawidzić	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	3	aux:clitic	3:aux:clitic	_
+4	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	3	aux:clitic	3:aux:clitic	_
 5	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
 6	bo	bo	SCONJ	comp	_	11	mark	11:mark	_
 7	ten	ten	DET	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	8	det	8:det	_

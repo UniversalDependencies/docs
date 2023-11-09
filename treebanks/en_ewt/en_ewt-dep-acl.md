@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="en_ewt-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1846 nodes (1%) are attached to their parents as `acl`.
+1834 nodes (1%) are attached to their parents as `acl`.
 
-1833 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.92686890574215.
+1822 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.90785169029444.
 
-The following 18 pairs of parts of speech are connected with `acl`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1610; 87% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (68; 4% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (45; 2% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `acl`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1609; 88% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (68; 4% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (45; 2% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 acl	color:blue
-1	Any	any	DET	DT	_	2	det	2:det	_
+1	Any	any	DET	DT	PronType=Ind	2	det	2:det	_
 2	opinions	opinion	NOUN	NNS	Number=Plur	7	nsubj	7:nsubj	_
-3	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+3	expressed	express	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 4	herein	herein	ADV	RB	_	3	advmod	3:advmod	_
 5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 6	solely	solely	ADV	RB	_	7	advmod	7:advmod	_
@@ -54,7 +54,7 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 8	wedding	wedding	NOUN	NN	Number=Sing	5	nmod	5:nmod:to	_
 9	fearing	fear	VERB	VBG	VerbForm=Ger	1	acl	1:acl	_
 10	death	death	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
-11	,	,	PUNCT	,	_	9	punct	9:punct	_
+11	,	,	PUNCT	,	_	12	punct	12:punct	_
 12	basically	basically	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	5:punct	SpaceAfter=No
 14	"	"	PUNCT	''	_	5	punct	5:punct	_
@@ -70,11 +70,11 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2 7 acl	color:blue
 1	Umar	Umar	PROPN	NNP	Number=Sing	2	compound	2:compound	_
 2	Islam	Islam	PROPN	NNP	Number=Sing	0	root	0:root	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	2:punct	_
+3	,	,	PUNCT	,	_	4	punct	4:punct	_
 4	28	28	NUM	CD	NumForm=Digit|NumType=Card	2	list	2:list	SpaceAfter=No
-5	,	,	PUNCT	,	_	2	punct	2:punct	_
+5	,	,	PUNCT	,	_	7	punct	7:punct	_
 6	(	(	PUNCT	-LRB-	_	7	punct	7:punct	SpaceAfter=No
-7	born	bear	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	2:acl	_
+7	born	bear	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl	2:acl	_
 8	Brian	Brian	PROPN	NNP	Number=Sing	7	xcomp	7:xcomp	_
 9	Young	Young	PROPN	NNP	Number=Sing	8	flat	8:flat	SpaceAfter=No
 10	)	)	PUNCT	-RRB-	_	7	punct	7:punct	_

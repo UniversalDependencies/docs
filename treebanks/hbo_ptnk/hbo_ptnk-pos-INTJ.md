@@ -6,29 +6,26 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `INTJ`
 
-There are 11 `INTJ` lemmas (1%), 54 `INTJ` types (1%) and 233 `INTJ` tokens (1%).
+There are 11 `INTJ` lemmas (1%), 64 `INTJ` types (1%) and 233 `INTJ` tokens (1%).
 Out of 15 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>הנה, נא, הן, חלילה, אפו, אבל, בי, אברך, אכן, אנא</em>
 
-The 10 most frequent `INTJ` types:  <em>הנה, נָ֥א, הִנֵּ֥ה, נָ֨א, הִנֵּה, הִנֵּ֛ה, הִנֵּ֤ה, הֵ֣ן, נָ֖א, נָ֣א</em>
+The 10 most frequent `INTJ` types:  <em>הִנֵּ֥ה, הִנֵּה, הִנֵּ֤ה, נָ֥א, הִנֵּ֣ה, הִנֵּה֙, הִנֵּ֨ה, הִנֵּ֛ה, נָ֨א, הִנֵּֽ</em>
 
 The 10 most frequent ambiguous lemmas: <em>הנה</em> (<tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> 130, <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 7), <em>הן</em> (<tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 36, <tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> 12), <em>אבל</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>הנה</em> (<tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> 81, <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  
 
 
-* <em>הנה</em>
-  * <tt><a href="hbo_ptnk-pos-INTJ.html">INTJ</a></tt> 81: <em>ו מלא יום היא ל ילד ו <b>הנה</b> תֹומִ֖ם ב בטן היא ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 1: <em>ו הנה שֶֽׁבַע ־ פָּרֹ֤ות אֲחֵרֹות֙ עֹלֹ֣ות אחר הן דַּלֹּ֨ות ו רע תֹּ֛אַר מְאֹ֖ד ו רק בָּשָׂ֑ר לֹֽא ־ רָאִ֧יתִי כ <b>הנה</b> ב כל ־ אֶ֥רֶץ מִצְרַ֖יִם ל ה רע ׃</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 4.909091 (the average of all parts of speech is 3.177604).
+The form / lemma ratio of `INTJ` is 5.818182 (the average of all parts of speech is 5.381405).
 
-The 1st highest number of forms (20) was observed with the lemma “נא”: <em>נָ֔א, נָ֕א, נָ֖א, נָ֗א, נָ֛א, נָ֞א, נָ֠א, נָ֣א, נָ֤א, נָ֥א, נָ֨א, נָּ֛א, נָּ֜א, נָּ֣א, נָּ֤א, נָּ֥א, נָּא, נָּא֙, נָֽא, נָא֙</em>.
+The 1st highest number of forms (24) was observed with the lemma “הנה”: <em>הִ֠נֵּה, הִנְ, הִנְּ, הִנֵּ֖ה, הִנֵּ֗ה, הִנֵּ֛ה, הִנֵּ֞ה, הִנֵּ֣ה, הִנֵּ֤ה, הִנֵּ֥ה, הִנֵּ֧ה, הִנֵּ֨ה, הִנֵּֽ, הִנֵּֽה, הִנֵּה, הִנֵּה֙, הִנֵּה֩, הִנֶּ, הִנֶּ֔, הִנֶּ֣, הִנֶּ֣ה, הִנֶּ֥, הִנָּ֖, הִנָּ֥</em>.
 
-The 2nd highest number of forms (14) was observed with the lemma “הנה”: <em>הִ֠נֵּה, הִנֵּ֗ה, הִנֵּ֛ה, הִנֵּ֞ה, הִנֵּ֣ה, הִנֵּ֤ה, הִנֵּ֥ה, הִנֵּ֨ה, הִנֵּֽה, הִנֵּה, הִנֵּה֙, הִנֵּה֩, הִנֶּ֣ה, הנה</em>.
+The 2nd highest number of forms (20) was observed with the lemma “נא”: <em>נָ֔א, נָ֕א, נָ֖א, נָ֗א, נָ֛א, נָ֞א, נָ֠א, נָ֣א, נָ֤א, נָ֥א, נָ֨א, נָּ֛א, נָּ֜א, נָּ֣א, נָּ֤א, נָּ֥א, נָּא, נָּא֙, נָֽא, נָא֙</em>.
 
 The 3rd highest number of forms (6) was observed with the lemma “הן”: <em>הֵ֑ן, הֵ֣ן, הֵ֤ן, הֵ֥ן, הֵן, הֵן֩</em>.
 

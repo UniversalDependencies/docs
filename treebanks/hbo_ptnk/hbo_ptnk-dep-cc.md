@@ -22,13 +22,13 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc	color:blue
-1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_1.3
-2	אמר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_1.3
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_1.3
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_1.3
 3	אֱלֹהִ֖ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Ref=GEN_1.3
 4	יְהִ֣י	היה	AUX	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_1.3
 5	אֹ֑ור	אור	NOUN	subs	Gender=Masc|Number=Sing	4	nsubj	_	Ref=GEN_1.3
-6	ו	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_1.3
-7	היה	היה	AUX	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_1.3
+6	וַֽ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_1.3
+7	יְהִי	היה	AUX	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_1.3
 8	־	־	PUNCT	punct	_	9	punct	_	Ref=GEN_1.3|SpaceAfter=No
 9	אֹֽור	אור	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_1.3|SpaceAfter=No
 10	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_1.3
@@ -37,44 +37,43 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 8 cc	color:blue
-1	ב	ב	ADP	prep	_	2	case	_	Ref=GEN_1.1
-2	ראשׁית	ראשׁית	NOUN	subs	Gender=Fem|Number=Sing	3	obl	_	Ref=GEN_1.1
-3	בָּרָ֣א	ברא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_1.1
-4	אֱלֹהִ֑ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	3	nsubj	_	Ref=GEN_1.1
-5	אֵ֥ת	את	ADP	prep	_	7	case	_	Ref=GEN_1.1
-6	ה	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_1.1
-7	שׁמים	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	3	obj	_	Ref=GEN_1.1
-8	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_1.1
-9	את	את	ADP	prep	_	11	case	_	Ref=GEN_1.1
-10	ה	ה	DET	art	PronType=Art	11	det	_	Ref=GEN_1.1
-11	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	7	conj	_	Ref=GEN_1.1
-12	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_1.1
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 cc	color:blue
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_2.1
+2	יְכֻלּ֛וּ	כלה	VERB	verb	Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_2.1
+3	הַ	ה	DET	art	PronType=Art	4	det	_	Ref=GEN_2.1
+4	שָּׁמַ֥יִם	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Ref=GEN_2.1
+5	וְ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_2.1
+6	הָ	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_2.1
+7	אָ֖רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	4	conj	_	Ref=GEN_2.1
+8	וְ	ו	CCONJ	conj	_	9	cc	_	Ref=GEN_2.1
+9	כָל	כל	NOUN	subs	Gender=Masc|Number=Sing	4	conj	_	Ref=GEN_2.1
+10	־	־	PUNCT	punct	_	11	punct	_	Ref=GEN_2.1|SpaceAfter=No
+11	צְבָאָֽ	צבא	NOUN	subs	Gender=Masc|Number=Sing	9	compound:smixut	_	Ref=GEN_2.1
+12	ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	Ref=GEN_2.1
+13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_2.1
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 cc	color:blue
-1	כִּ֥י	כי	SCONJ	conj	_	3	mark	_	Ref=GEN_4.24
-2	שִׁבְעָתַ֖יִם	שׁבע	NUM	subs	Gender=Fem|Number=Dual|NumType=Card	3	obl	_	Ref=GEN_4.24
-3	יֻקַּם	נקם	VERB	verb	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_4.24|SpaceAfter=No
-4	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_4.24|SpaceAfter=No
-5	קָ֑יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Ref=GEN_4.24
-6	ו	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_4.24
-7	למך	למך	PROPN	nmpr	Gender=Masc|Number=Sing	3	conj	_	Ref=GEN_4.24
-8	שִׁבְעִ֥ים	שׁבע	NUM	subs	Gender=Masc|Number=Plur|NumType=Card	7	orphan	_	Ref=GEN_4.24
-9	ו	ו	CCONJ	conj	_	10	cc	_	Ref=GEN_4.24
-10	שׁבע	שׁבע	NUM	subs	Gender=Fem|Number=Sing|NumType=Card	8	conj	_	Ref=GEN_4.24
-11	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_4.24
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
+1	וּ	ו	CCONJ	conj	_	4	cc	_	Ref=GEN_10.3
+2	בְנֵ֖י	בן	NOUN	subs	Gender=Masc|Number=Plur	4	nsubj	_	Ref=GEN_10.3
+3	גֹּ֑מֶר	גמר	PROPN	nmpr	Gender=Masc|Number=Sing	2	compound:smixut	_	Ref=GEN_10.3
+4	אַשְׁכֲּנַ֥ז	אשׁכנז	PROPN	nmpr	Number=Sing	0	root	_	Ref=GEN_10.3
+5	וְ	ו	CCONJ	conj	_	6	cc	_	Ref=GEN_10.3
+6	רִיפַ֖ת	ריפת	PROPN	nmpr	Number=Sing	4	conj	_	Ref=GEN_10.3
+7	וְ	ו	CCONJ	conj	_	8	cc	_	Ref=GEN_10.3
+8	תֹגַרְמָֽה	תוגרמה	PROPN	nmpr	Number=Sing	4	conj	_	Ref=GEN_10.3
+9	׃	׃	PUNCT	punct	_	4	punct	_	Ref=GEN_10.3
 
 ~~~
 

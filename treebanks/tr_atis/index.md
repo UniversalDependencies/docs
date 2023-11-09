@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mehmet Köse, Olcay Taner Yıldız.
 
 Repository: [UD_Turkish-Atis](https://github.com/UniversalDependencies/UD_Turkish-Atis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_atis212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_atis213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,13 +73,13 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 
 ## Relations
 
-[acl](tr_atis-dep-acl.html) – [advcl](tr_atis-dep-advcl.html) – [advmod](tr_atis-dep-advmod.html) – [amod](tr_atis-dep-amod.html) – [appos](tr_atis-dep-appos.html) – [aux](tr_atis-dep-aux.html) – [case](tr_atis-dep-case.html) – [cc](tr_atis-dep-cc.html) – [ccomp](tr_atis-dep-ccomp.html) – [clf](tr_atis-dep-clf.html) – [compound](tr_atis-dep-compound.html) – [conj](tr_atis-dep-conj.html) – [csubj](tr_atis-dep-csubj.html) – [dep](tr_atis-dep-dep.html) – [det](tr_atis-dep-det.html) – [discourse](tr_atis-dep-discourse.html) – [dislocated](tr_atis-dep-dislocated.html) – [fixed](tr_atis-dep-fixed.html) – [flat](tr_atis-dep-flat.html) – [iobj](tr_atis-dep-iobj.html) – [list](tr_atis-dep-list.html) – [mark](tr_atis-dep-mark.html) – [nmod](tr_atis-dep-nmod.html) – [nsubj](tr_atis-dep-nsubj.html) – [nummod](tr_atis-dep-nummod.html) – [obj](tr_atis-dep-obj.html) – [obl](tr_atis-dep-obl.html) – [orphan](tr_atis-dep-orphan.html) – [parataxis](tr_atis-dep-parataxis.html) – [punct](tr_atis-dep-punct.html) – [root](tr_atis-dep-root.html) – [xcomp](tr_atis-dep-xcomp.html)
+[acl](tr_atis-dep-acl.html) – [advcl](tr_atis-dep-advcl.html) – [advmod](tr_atis-dep-advmod.html) – [amod](tr_atis-dep-amod.html) – [aux](tr_atis-dep-aux.html) – [aux:q](tr_atis-dep-aux-q.html) – [case](tr_atis-dep-case.html) – [cc](tr_atis-dep-cc.html) – [ccomp](tr_atis-dep-ccomp.html) – [compound](tr_atis-dep-compound.html) – [conj](tr_atis-dep-conj.html) – [csubj](tr_atis-dep-csubj.html) – [dep](tr_atis-dep-dep.html) – [det](tr_atis-dep-det.html) – [discourse](tr_atis-dep-discourse.html) – [dislocated](tr_atis-dep-dislocated.html) – [fixed](tr_atis-dep-fixed.html) – [flat](tr_atis-dep-flat.html) – [iobj](tr_atis-dep-iobj.html) – [list](tr_atis-dep-list.html) – [mark](tr_atis-dep-mark.html) – [nmod](tr_atis-dep-nmod.html) – [nmod:poss](tr_atis-dep-nmod-poss.html) – [nmod:tmod](tr_atis-dep-nmod-tmod.html) – [nsubj](tr_atis-dep-nsubj.html) – [nsubj:pass](tr_atis-dep-nsubj-pass.html) – [nummod](tr_atis-dep-nummod.html) – [obj](tr_atis-dep-obj.html) – [obl](tr_atis-dep-obl.html) – [obl:agent](tr_atis-dep-obl-agent.html) – [obl:tmod](tr_atis-dep-obl-tmod.html) – [orphan](tr_atis-dep-orphan.html) – [parataxis](tr_atis-dep-parataxis.html) – [punct](tr_atis-dep-punct.html) – [root](tr_atis-dep-root.html) – [xcomp](tr_atis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 5432 sentences and 45875 tokens.</li>
+<li>This corpus contains 5432 sentences and 45907 tokens.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 </ul>
 
 <ul>
-<li>This corpus contains 488 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, Francisco'dan, St., City'e, Oakland'a, Washington'dan, City'den, washington'a, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, Orlando'ya, York'tan, dc'ye, Miami'ye, Oakland'dan, toronto'dan, Diego'ya, Chicago'ya, Phoenix'den, Temmuz'da, dc'den, Cleveland'dan, 6'dan, Charlotte'den, 5'ten, Memphis'ten, Newark'a, Houston'a, Newark'tan, Miami'den, 10'dan, Angeles'e, Vegas'tan</li>
+<li>This corpus contains 470 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, St., Francisco'dan, City'e, Oakland'a, Washington'dan, City'den, washington'a, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, Orlando'ya, York'tan, dc'ye, Miami'ye, Oakland'dan, Indianapolis'ten, toronto'dan, Diego'ya, Chicago'ya, Phoenix'den, Temmuz'da, dc'den, Cleveland'dan, 6'dan, Charlotte'den, 5'ten, Memphis'ten, Newark'a, Houston'a, Newark'tan, Miami'den, 10'dan, Angeles'e</li>
 </ul>
 
 <ul>
@@ -169,7 +169,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
   <li>Plur
     <ul>
       <li>NOUN: uçuşları, uçuşlar, uçuşlarını, havayolları, uçuşların, fiyatlarını, havayollarını, havayollarının, günleri, ücretleri</li>
-      <li>VERB-Fin: listeleyin, gösterin, verin, söyleyin, yapın, bakalım, açıklayın, bahsedin, ayarlayın, ayın</li>
+      <li>VERB-Fin: listeleyin, gösterin, verin, söyleyin, yapın, bakalım, açıklayın, bahsedin, ayarlayın, bulun</li>
     </ul>
   </li>
 </ul>
@@ -231,7 +231,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
   <li>Ins
     <ul>
       <li>NOUN: uçuşlarla, uçuşla, havayollarıyla, fiyatlarıyla, tarifeyle, uçakla, uçuşuyla, olanaklarıyla, uçuşlarıyla, ücretleriyle</li>
-      <li>PROPN: Continental'la, Airlines'le, Delta'yla, United'le, Air'le, American'la, Boston'la, Denver'le, Hvayolları'yla, Nationair'le</li>
+      <li>PROPN: Continental'la, Airlines'le, Delta'yla, United'le, Air'le, American'la, Boston'la, Denver'le, Nationair'le, Pittsburgh'la</li>
     </ul>
   </li>
 </ul>
@@ -425,7 +425,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Opt
     <ul>
-      <li>VERB-Fin: bakalım, dönebileyim, aza, gidelim, kalabileyim, kısa, olabileyim, yapa</li>
+      <li>VERB-Fin: bakalım, dönebileyim, aza, gidelim, kalabileyim, olabileyim</li>
     </ul>
   </li>
 </ul>
@@ -484,7 +484,15 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Fin: kullanılıyor, yapılıyor, verilmektedir, kullanılır, ediliyor, gidilir, sağlanmaktadır, ayrılır, bulunur, edilir</li>
+      <li>VERB-Fin: kullanılıyor, yapılıyor, verilmektedir, kullanılır, ediliyor, gidilir, sağlanmaktadır, ayrılır, bulun, bulunur</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rcp
+    <ul>
+      <li>VERB-Fin: dönüş, kalkış</li>
     </ul>
   </li>
 </ul>
@@ -534,7 +542,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
     <ul>
       <li>ADV: ne, nasıl</li>
       <li>AUX: mı, misin, mu, misiniz, miyim, mü, mi, musunuz, mısın, mıyım</li>
-      <li>PRON: hangi, ne, hangisi, hangileri, neyin, hangisinin, nerede, neyi</li>
+      <li>PRON: hangi, ne, hangisi, hangileri, neyin, neyi, hangisinin, nerede</li>
     </ul>
   </li>
 </ul>
@@ -563,7 +571,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: altıncı, 19:00, 28., 5:55, 7:00, 8., birinci, yedinci</li>
+      <li>NUM: 19:00, 28., 5:55, 7:00, 8., birinci, yedinci</li>
     </ul>
   </li>
 </ul>
@@ -622,7 +630,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
   <li>Sing
     <ul>
       <li>NOUN: uçuşları, günü, uçuşu, uçuşlarını, havayolları, ihtiyacım, arasında, sabahı, karayolu, arası</li>
-      <li>PROPN: Airlines'in, F28'in, Dc'den, Havaaalanı'ndan, M80'in, S'in</li>
+      <li>PROPN: F28'in, Dc'den, Havaaalanı'ndan, M80'in, S'in</li>
       <li>VERB-Fin: havayoludur, hangisidir, kısaltmasıdır, dilimindedir, havayolunuz</li>
       <li>VERB-Vnoun: kısaltmasıdır</li>
     </ul>
@@ -679,7 +687,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (3)</li>
       <li>VERB-Fin--NOUN-Acc (49)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (865)</li>
+      <li>VERB-Fin--NOUN-Nom (849)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ilk) (1)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Vnoun--NOUN-Acc (4)</li>
@@ -691,10 +699,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (745)</li>
+      <li>VERB-Fin--NOUN-Acc (744)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1581)</li>
+      <li>VERB-Fin--NOUN-Nom (1584)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ile) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
       <li>VERB-Fin--PRON (11)</li>
@@ -716,6 +724,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 6 relation subtypes: <a>aux:q</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>appos</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

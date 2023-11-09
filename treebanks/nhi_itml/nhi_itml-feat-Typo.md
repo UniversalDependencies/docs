@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.h
 
 10 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 70%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 70%).
 
 `VERB` tokens may have the following values of `Typo`:
 

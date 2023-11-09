@@ -12,4 +12,4 @@ A subordinating conjunction is a conjunction that links constructions by making 
 ### Examples
 
 - _que, quant, cume, cum, si/se_ 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:30 CET -->

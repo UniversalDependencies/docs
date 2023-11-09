@@ -23,15 +23,15 @@ The following 26 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 compound:redup	color:blue
-1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	4	dep	_	Translit=bu
-2	مېۋە	مېۋە	NOUN	N	Case=Nom	4	compound:redup	_	Translit=mëwe
-3	-	-	PUNCT	Y	_	2	punct	_	Translit=-
-4	چېۋىلەر	_	NOUN	N	_	8	nsubj	_	Translit=chëwiler|Morf=Unknown
-5	گويا	گويا	NOUN	T	Case=Nom	7	obl	_	Translit=goya
-6	ھازىرلا	_	ADV	D	_	7	advmod	_	Translit=hazirla|Morf=Unknown
-7	ئۈزۈلگەندەك	_	NOUN	N	_	8	advcl	_	Translit=üzülgendek|Morf=Unknown
-8	كۆرۈنىدىكەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=körünidiken|Morf=Unknown
-9	!	!	PUNCT	Y	_	8	punct	_	Translit=!
+1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	4	dep	_	Translit=bu|LTranslit=bu
+2	مېۋە	مېۋە	NOUN	N	Case=Nom	4	compound:redup	_	Translit=mëwe|LTranslit=mëwe
+3	-	-	PUNCT	Y	_	2	punct	_	Translit=-|LTranslit=-
+4	چېۋىلەر	_	NOUN	N	_	8	nsubj	_	Morf=Unknown|Translit=chëwiler
+5	گويا	گويا	NOUN	T	Case=Nom	7	obl	_	Translit=goya|LTranslit=goya
+6	ھازىرلا	_	ADV	D	_	7	advmod	_	Morf=Unknown|Translit=hazirla
+7	ئۈزۈلگەندەك	_	NOUN	N	_	8	advcl	_	Morf=Unknown|Translit=üzülgendek
+8	كۆرۈنىدىكەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Morf=Unknown|Translit=körünidiken
+9	!	!	PUNCT	Y	_	8	punct	_	Translit=!|LTranslit=!
 
 ~~~
 
@@ -42,15 +42,15 @@ The following 26 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound:redup	color:blue
-1	ئۆزۈڭمۇ	ئۆز	PRON	N	Case=Nom|Number[psor]=Sing|Person[psor]=2|Reflex=Yes	2	nsubj	_	Translit=özüngmu
-2	تۇيمىغان	تۇي	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	8	advcl	_	Translit=tuymighan
-3	ھالدا	ھال	NOUN	N	Case=Loc	2	case	_	Translit=halda
-4	ئۇزاقتىن	ئۇزاق	ADJ	A	Case=Abl	5	compound:redup	_	Translit=uzaqtin
-5	ئۇزاق	ئۇزاق	ADJ	A	Case=Nom	8	advmod	_	Translit=uzaq
-6	خىياللارغا	خىيال	NOUN	V	Case=Dat|Number=Plur	8	obl	_	Translit=xiyallargha
-7	غەرق	_	ADJ	A	_	8	compound	_	Translit=gherq|Morf=Unknown
-8	بولىسەن	بول	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolisen
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+1	ئۆزۈڭمۇ	ئۆز	PRON	N	Case=Nom|Number[psor]=Sing|Person[psor]=2|Reflex=Yes	2	nsubj	_	Translit=özüngmu|LTranslit=öz
+2	تۇيمىغان	تۇي	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	8	advcl	_	Translit=tuymighan|LTranslit=tuy
+3	ھالدا	ھال	NOUN	N	Case=Loc	2	case	_	Translit=halda|LTranslit=hal
+4	ئۇزاقتىن	ئۇزاق	ADJ	A	Case=Abl	5	compound:redup	_	Translit=uzaqtin|LTranslit=uzaq
+5	ئۇزاق	ئۇزاق	ADJ	A	Case=Nom	8	advmod	_	Translit=uzaq|LTranslit=uzaq
+6	خىياللارغا	خىيال	NOUN	V	Case=Dat|Number=Plur	8	obl	_	Translit=xiyallargha|LTranslit=xiyal
+7	غەرق	_	ADJ	A	_	8	compound	_	Morf=Unknown|Translit=gherq
+8	بولىسەن	بول	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolisen|LTranslit=bol
+9	.	.	PUNCT	Y	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -61,14 +61,14 @@ The following 26 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 compound:redup	color:blue
-1	بالىلىق	بالىلىق	ADJ	A	Case=Nom	2	amod	_	Translit=baliliq
-2	دەۋر	دەۋر	NOUN	N	Case=Nom	7	nsubj	_	Translit=dewr
-3	ئەگرى	_	ADJ	A	_	4	compound:redup	_	Translit=egri|Morf=Missing,1
-4	توقاي	توقاي	NOUN	N	Case=Nom	5	obl	_	Translit=toqay
-5	كەتكەن	كەت	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	6	acl	_	Translit=ketken
-6	ئېرىققا	_	NOUN	N	_	7	obl	_	Translit=ëriqqa|Morf=Unknown
-7	ئوخشايدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=oxshaydu|Morf=Unknown
-8	.	.	PUNCT	Y	_	7	punct	_	Translit=.
+1	بالىلىق	بالىلىق	ADJ	A	Case=Nom	2	amod	_	Translit=baliliq|LTranslit=baliliq
+2	دەۋر	دەۋر	NOUN	N	Case=Nom	7	nsubj	_	Translit=dewr|LTranslit=dewr
+3	ئەگرى	_	ADJ	A	_	4	compound:redup	_	Morf=Missing,1|Translit=egri
+4	توقاي	توقاي	NOUN	N	Case=Nom	5	obl	_	Translit=toqay|LTranslit=toqay
+5	كەتكەن	كەت	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	6	acl	_	Translit=ketken|LTranslit=ket
+6	ئېرىققا	_	NOUN	N	_	7	obl	_	Morf=Unknown|Translit=ëriqqa
+7	ئوخشايدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Morf=Unknown|Translit=oxshaydu
+8	.	.	PUNCT	Y	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

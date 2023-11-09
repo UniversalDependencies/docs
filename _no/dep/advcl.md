@@ -15,4 +15,4 @@ advcl(talt, tiltrådte)
 Mange blir HIV-smittet fordi de ikke vet hvordan man smittes \n Many are infected with HIV because they do not know how one is infected
 advcl(HIV-smittet, vet)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:54 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:17 CET -->

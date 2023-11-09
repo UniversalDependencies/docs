@@ -38,20 +38,18 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod:lmod	color:blue
-1	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-2	da	da	CCONJ	CC	_	3	cc	_	_
-3	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
-5	da	da	CCONJ	CC	_	6	cc	_	_
-6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	GTtags=Ind,Prt,Pl3
-7	meädda	meädda	ADV	Adv	_	8	advmod:lmod	_	_
-8	lõõnjâst	lõnnj	NOUN	N	Case=Loc|Number=Sing	6	obl:lmod	_	GTtags=Sg,Loc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod:lmod	color:blue
+1	Čääʹccskääll	čääʹccskääll	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sg,Nom
+2	pâi	pâi	ADV	Adv	_	3	advmod:foc	_	GTtags=@ADVL>
+3	åårr	åårrad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
+4	tõʹst	tõʹst	ADV	Adv	_	5	advmod:lmod	_	_
+5	jiõŋ	jiõŋŋ	NOUN	N	Case=Gen|Number=Sing	3	obl:lmod	_	GTtags=Sg,Gen
+6	âʹlnn	âʹlnn	ADP	Adp	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

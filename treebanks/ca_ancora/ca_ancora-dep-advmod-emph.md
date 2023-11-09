@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `advmod:emph`: <tt><
 2	edició	edició	NOUN	ncfs000	Gender=Fem|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No|ArgTem=arg2:loc
 3	,	,	PUNCT	fc	PunctType=Comm	6	punct	6:punct	_
 4	en	en	ADP	sps00	_	6	case	6:case	_
-5	vuit	vuit	NUM	dn0cp0	Number=Plur|NumType=Card	6	nummod	6:nummod	Entity=(NOCOREF:Gen--2-gstype:gen
+5	vuit	vuit	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	6	nummod	6:nummod	Entity=(NOCOREF:Gen--2-gstype:gen
 6	volums	volum	NOUN	ncmp000	Gender=Masc|Number=Plur	2	nmod	2:nmod	SpaceAfter=No|Entity=NOCOREF:Gen)
 7	,	,	PUNCT	fc	PunctType=Comm	6	punct	6:punct	_
 8	en	en	ADP	sps00	_	9	case	9:case	_

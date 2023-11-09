@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Cau` (2; 100% of non-empty `Voice`): <em>mõatʃoa</em>
-* `EMPTY` (286): <em>ata, koa, tʃopa, teita, at, ka, put, tʃe, õkwa, aj</em>
+* `EMPTY` (313): <em>ata, koa, tʃopa, ka, teita, tʃe, at, put, õkwa, aj</em>
 

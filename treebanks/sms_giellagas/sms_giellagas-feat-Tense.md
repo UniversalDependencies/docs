@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (271; 54% of non-empty `Tense`): <em>mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, jälste, vuõʹlji, vuejai, lueʹšti</em>
 * `Pres` (227; 46% of non-empty `Tense`): <em>ceälkk, lij, ǩiõzzam, ceäʹlǩǩe, jåått, mâânn, pohtt, räʹjje, vuâlgg, puätt</em>
-* `EMPTY` (142): <em>jieʹlled, mõõnnâd, leežž, kooǯǯted, tiâr, väʹldded, hiâvted, jååʹtted, mõõnsââʹst, puäʹđ</em>
+* `EMPTY` (144): <em>jieʹlled, mõõnnâd, leežž, kooǯǯted, tiâr, väʹldded, hiâvted, jååʹtted, mõõnsââʹst, puäʹđ</em>
 
 <table>
   <tr><th>Paradigm <i>mõõnnâd</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (22; 21% of non-empty `Tense`): <em>leäi, leʹjjiǩ, feʹrttji, leʹjje, leʹjjem</em>
 * `Pres` (83; 79% of non-empty `Tense`): <em>lij, liâ, õõk, õõlǥ, leäk, leäkku, leäm, iʹlla, iʹlleäk, jeäʹla</em>
-* `EMPTY` (54): <em>ij, jiõk, jiõm, i-ǥõl, jeäʹp, jiâ, leeʹd, Jeäʹled, leežž, leäkku</em>
+* `EMPTY` (55): <em>ij, jiõk, jiõm, i-ǥõl, jeäʹp, jiâ, leeʹd, Ij-ǥo, Jeäʹled, leežž</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

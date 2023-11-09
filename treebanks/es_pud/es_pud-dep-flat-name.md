@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a
 5	a	a	DET	DT	Number=Sing|PronType=Ind	6	det	_	Proper=True
 6	Prayer	prayer	NOUN	NN	Number=Sing	3	conj	_	Proper=True
 7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
-8	1992	1992	NUM	CD	Gender=Masc|NumType=Card	1	appos	_	SpaceAfter=No
+8	1992	1992	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	appos	_	SpaceAfter=No
 9	)	)	PUNCT	)	_	8	punct	_	_
 10	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
 11	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No

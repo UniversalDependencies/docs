@@ -11,4 +11,4 @@ An indirect object is a nominal which is the second object of the verb, often as
 KOM-HIT@rd SNÖ^GUBBE PRO1 VISA OBJPRO NU@b UTE PRO1@z KOM-HIT@rd \n "Come here", [says] the Snowman, "I will show you outside, come!"
 iobj(VISA, OBPRO)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:18 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:59 CET -->

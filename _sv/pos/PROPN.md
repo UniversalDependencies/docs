@@ -16,4 +16,4 @@ In Swedish proper nouns differ from common nouns in inflecting only for case, no
 - _Ingmar_, _Ingrid_
 - _Skåne_, _USA_
 - _Expressen_, _Pirelli_
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:29 CET -->

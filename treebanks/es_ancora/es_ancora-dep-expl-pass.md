@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="es_ancora-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="es_ancora-dep-expl-pv.html">expl:pv</a></tt>.
 
-2232 nodes (0%) are attached to their parents as `expl:pass`.
+2233 nodes (0%) are attached to their parents as `expl:pass`.
 
-2008 instances of `expl:pass` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26612903225806.
+2009 instances of `expl:pass` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26645768025078.
 
-The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2227; 100% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2228; 100% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,11 +40,11 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 36	bgColor:blue
-# visual-style 36	fgColor:white
-# visual-style 36 38 expl:pass	color:blue
+# visual-style 39	bgColor:blue
+# visual-style 39	fgColor:white
+# visual-style 37	bgColor:blue
+# visual-style 37	fgColor:white
+# visual-style 37 39 expl:pass	color:blue
 1	Ello	él	PRON	pp3ns000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	ArgTem=arg1:tem|Entity=(CESSCASTP199901023c32--1-CorefType:dx.prop)
 2	significa	significar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	que	que	SCONJ	cs	_	23	mark	23:mark	_
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 8	diferencia	diferencia	NOUN	ncfs000	Gender=Fem|Number=Sing	6	nmod	6:nmod	_
 9	entre	entre	ADP	sps00	_	12	case	12:case	_
 10	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	12:det	Entity=(NOCOREF:Gen--3-gstype:gen,HomoDD
-11	dos	dos	NUM	dn0cp0	Number=Plur|NumType=Card	10	nummod	10:nummod	_
+11	dos	dos	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	10	nummod	10:nummod	_
 12	hamburguesas	hamburguesa	NOUN	ncfp000	Gender=Fem|Number=Plur	8	nmod	8:nmod	ArgTem=arg1:pat
 13	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	14	punct	14:punct	SpaceAfter=No
 14	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	12:det	_
@@ -72,23 +72,24 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 25	más	más	ADV	rg	Degree=Cmp	28	advmod	28:advmod	Entity=(NOCOREF:Spec.number-number-4-gstype:spec(NOCOREF:Spec.number-number-4-gstype:spec
 26	de	de	ADP	sps00	_	25	case	25:case	_
 27	43	43	NUM	_	NumForm=Digit|NumType=Card	25	nummod	25:nummod	_
-28	pesetas	peseta	NOUN	zm	NumForm=Digit	24	conj	24:conj	ArgTem=argM:tmp|Entity=NOCOREF:Spec.number)|SpaceAfter=No
-29	,	,	PUNCT	fc	PunctType=Comm	35	punct	35:punct	_
-30	es	es	NOUN	cc	_	35	cc	35:cc	MWE=es_decir|MWEPOS=CCONJ
+28	pesetas	peseta	NOUN	zm	Gender=Fem|Number=Plur	24	conj	24:conj	ArgTem=argM:tmp|Currency=Yes|Entity=NOCOREF:Spec.number)|SpaceAfter=No
+29	,	,	PUNCT	fc	PunctType=Comm	36	punct	36:punct	_
+30	es	es	NOUN	cc	_	36	cc	36:cc	MWE=es_decir|MWEPOS=CCONJ
 31	decir	decir	NOUN	_	_	30	fixed	30:fixed	SpaceAfter=No
 32	,	,	PUNCT	fc	PunctType=Comm	30	punct	30:punct	_
-33	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	35:det	Entity=(CESSCASTP199901023c18-number-3-CorefType:ident,gstype:spec
+33	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	36:det	Entity=(CESSCASTP199901023c18-number-3-CorefType:ident,gstype:spec
 34	mismo	mismo	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Dem	33	det	33:det	_
-35	25%	25/100	SYM	zp	NumForm=Digit|NumType=Frac	24	conj	24:conj	_
-36	que	que	PRON	pr0cn000	PronType=Rel	35	obl	35:obl	Entity=(CESSCASTP199901023c18-number-1-CorefType:ident,gstype:spec)
-37	si	si	SCONJ	cs	_	36	mark	36:mark	_
-38	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	expl:pass	36:expl:pass	_
-39	hace	hacer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	case	36:case	_
-40	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	41:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-41	comparación	comparación	NOUN	ncfs000	Gender=Fem|Number=Sing	36	obj	36:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)
-42	en	en	ADP	sps00	_	43	case	43:case	_
-43	pesetas	peseta	NOUN	ncfp000	Gender=Fem|Number=Plur	36	obl	36:obl	SpaceAfter=No|ArgTem=argM:mnr|Entity=(CESSCASTP199901023c19--1-CorefType:ident,gstype:gen)CESSCASTP199901023c18)NOCOREF:Spec.number)
-44	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
+35	25	25	NUM	_	NumForm=Digit|NumType=Card	36	nummod	36:nummod	SpaceAfter=No
+36	%	%	SYM	zp	_	24	conj	24:conj	_
+37	que	que	PRON	pr0cn000	PronType=Rel	36	obl	36:obl	Entity=(CESSCASTP199901023c18-number-1-CorefType:ident,gstype:spec)
+38	si	si	SCONJ	cs	_	37	mark	37:mark	_
+39	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	37	expl:pass	37:expl:pass	_
+40	hace	hacer	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	case	37:case	_
+41	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	42:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
+42	comparación	comparación	NOUN	ncfs000	Gender=Fem|Number=Sing	37	obj	37:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)
+43	en	en	ADP	sps00	_	44	case	44:case	_
+44	pesetas	peseta	NOUN	ncfp000	Gender=Fem|Number=Plur	37	obl	37:obl	SpaceAfter=No|ArgTem=argM:mnr|Entity=(CESSCASTP199901023c19--1-CorefType:ident,gstype:gen)CESSCASTP199901023c18)NOCOREF:Spec.number)
+45	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
 

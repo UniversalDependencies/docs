@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
 Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY 4.0
 
@@ -84,7 +84,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## POS Tags
 
-[ADJ](ca_ancora-pos-ADJ.html) – [ADP](ca_ancora-pos-ADP.html) – [ADV](ca_ancora-pos-ADV.html) – [AUX](ca_ancora-pos-AUX.html) – [CCONJ](ca_ancora-pos-CCONJ.html) – [DET](ca_ancora-pos-DET.html) – [INTJ](ca_ancora-pos-INTJ.html) – [NOUN](ca_ancora-pos-NOUN.html) – [NUM](ca_ancora-pos-NUM.html) – [PART](ca_ancora-pos-PART.html) – [PRON](ca_ancora-pos-PRON.html) – [PROPN](ca_ancora-pos-PROPN.html) – [PUNCT](ca_ancora-pos-PUNCT.html) – [SCONJ](ca_ancora-pos-SCONJ.html) – [SYM](ca_ancora-pos-SYM.html) – [VERB](ca_ancora-pos-VERB.html) – [X](ca_ancora-pos-X.html)
+[ADJ](ca_ancora-pos-ADJ.html) – [ADP](ca_ancora-pos-ADP.html) – [ADV](ca_ancora-pos-ADV.html) – [AUX](ca_ancora-pos-AUX.html) – [CCONJ](ca_ancora-pos-CCONJ.html) – [DET](ca_ancora-pos-DET.html) – [INTJ](ca_ancora-pos-INTJ.html) – [NOUN](ca_ancora-pos-NOUN.html) – [NUM](ca_ancora-pos-NUM.html) – [PART](ca_ancora-pos-PART.html) – [PRON](ca_ancora-pos-PRON.html) – [PROPN](ca_ancora-pos-PROPN.html) – [PUNCT](ca_ancora-pos-PUNCT.html) – [SCONJ](ca_ancora-pos-SCONJ.html) – [SYM](ca_ancora-pos-SYM.html) – [VERB](ca_ancora-pos-VERB.html)
 
 ## Features
 
@@ -98,11 +98,11 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 
 <ul>
-<li>This corpus contains 16678 sentences, 530794 tokens and 546665 syntactic words.</li>
+<li>This corpus contains 16678 sentences, 531390 tokens and 547261 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 76696 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 77292 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -123,7 +123,8 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: X</li>
 </ul>
 
 <ul>
@@ -204,8 +205,8 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ: primera, nova, catalana, noves, política, segona, única, pública, bona, espanyola</li>
       <li>ADJ-Part: passada, oberta, privada, prevista, relacionades, dedicada, presentada, situada, integrada, feta</li>
       <li>DET: la, les, una, seva, aquesta, seves, aquestes, totes, altra, tota</li>
-      <li>NOUN: persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació, banda</li>
-      <li>NUM: dues, una, mitja, ambdues, desena, tres-centes, Desenes, Vuit-centes, cinquena, dues-centes</li>
+      <li>NOUN: pessetes, persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació</li>
+      <li>NUM: dues, una, mitja, ambdues, desena, tres-centes, Desenes, Vuit-centes, X, cinquena</li>
       <li>PRON: la, una, les, aquesta, altra, unes, ella, algunes, totes, elles</li>
       <li>PROPN: Seu, Companyia, Font</li>
       <li>VERB-Part: dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</li>
@@ -232,7 +233,6 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NUM: dos, un, mig, ambdós, quart, cinc-cents, 2, centenars, desè, quatre-centes</li>
       <li>PRON: un, tot, el, ell, uns, lo, ells, alguns, aquest, tots</li>
       <li>PROPN: Cobain, Justícia, Kurt, Pla</li>
-      <li>SYM: 1%</li>
       <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</li>
     </ul>
   </li>
@@ -258,7 +258,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ-Part: relacionats, afectats, relacionades, facilitades, afectades, presentades, realitzades, disposats, previstes, determinades</li>
       <li>AUX-Fin: van, han, són, estan, hem, poden, havien, seran, podran, eren</li>
       <li>DET: els, les, seus, altres, aquests, seves, tots, aquestes, uns, diferents</li>
-      <li>NOUN: anys, milions, persones, obres, mesos, joves, dies, empreses, agents, activitats</li>
+      <li>NOUN: anys, milions, pessetes, persones, obres, mesos, joves, dies, euros, empreses</li>
       <li>NUM: dos, tres, dues, quatre, cinc, sis, set, vuit, deu, nou</li>
       <li>PRON: els, ens, quals, altres, uns, ells, les, los, alguns, nosaltres</li>
       <li>VERB-Fin: tenen, fan, tenim, faran, volen, van, formen, consideren, destaquen, volem</li>
@@ -276,7 +276,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>AUX-Part: estat, pogut, hagut, anat, sigut, sabut</li>
       <li>DET: el, la, l', un, una, aquest, seva, aquesta, seu, tot</li>
       <li>NOUN: any, president, part, terme, grup, projecte, cap, lloc, cas, portaveu</li>
-      <li>NUM: un, una, mig, mitja, doble, quart, triple, desena, cinquena, desè</li>
+      <li>NUM: un, una, mig, mitja, doble, quart, triple, desena, X, cinquena</li>
       <li>PRON: un, li, tot, això, ho, qual, la, el, l', ell</li>
       <li>PROPN: Seu, Cobain, Companyia, Font, Justícia, Kurt, Pla</li>
       <li>VERB-Fin: té, ha, fa, considera, cal, farà, vol, tracta, demana, tenia</li>
@@ -570,7 +570,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Card
     <ul>
-      <li>NUM: dos, tres, cent, dues, quatre, un, cinc, nou, 10, sis</li>
+      <li>NUM: dos, tres, dues, quatre, cent, un, 10, cinc, una, sis</li>
     </ul>
   </li>
 </ul>
@@ -579,7 +579,6 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Frac
     <ul>
       <li>NUM: cada, 1,1, 10, 15, 161, 17,8/100.000, 26,5/100.000, 3,9, 37,45, 57,9/100.000</li>
-      <li>SYM: 50%, 10%, 30%, 5%, 25%, 1%, 20%, 40%, 2%, 0,1%</li>
     </ul>
   </li>
 </ul>
@@ -707,7 +706,6 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
         <ul>
           <li>ADV: més</li>
           <li>NOUN: 1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</li>
-          <li>SYM: 22,7%</li>
         </ul>
       </li>
     </ul>
@@ -742,9 +740,18 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>Digit
         <ul>
           <li>ADJ: 7a, 18a, 51a, 11a, 129a, 152a, 19a, 1a, 2a, 30a</li>
-          <li>NOUN: pessetes, euros, dòlars, PTA, pesseta, euro, dòlar, corones, marcs, pta.</li>
-          <li>NUM: 10, 15, 30, 20, 5, 4, 12, 2, 2000, 25</li>
-          <li>SYM: %, 50%, 10%, 30%, 40%, 5%, 25%, 1%, 20%, 2%</li>
+          <li>NUM: 10, 15, 30, 5, 20, 2, 12, 4, 50, 25</li>
+          <li>SYM: %, -3%</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: XX, II, XIX, XXI, III, X, XVI, XIII, IV, VII</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: dos, tres, dues, quatre, cent, un, cinc, una, sis, vuit</li>
         </ul>
       </li>
     </ul>
@@ -838,7 +845,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6452)</li>
+      <li>VERB-Fin--NOUN (6449)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (3)</li>
       <li>VERB-Fin--NOUN-ADP(des) (1)</li>
@@ -890,7 +897,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Dat (11)</li>
       <li>VERB-Ger--PRON-Gen (2)</li>
       <li>VERB-Ger--PRON-Loc (1)</li>
-      <li>VERB-Inf--NOUN (6705)</li>
+      <li>VERB-Inf--NOUN (6704)</li>
       <li>VERB-Inf--NOUN-ADP(a) (258)</li>
       <li>VERB-Inf--PRON (463)</li>
       <li>VERB-Inf--PRON-ADP(a) (16)</li>

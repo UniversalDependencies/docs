@@ -24,3 +24,4 @@ Noun:	Common noun
 _ადამიანი_ 'human'
 _ქალაქი_ 'city'
 _ქვეყანა_ 'country'
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:26 CET -->

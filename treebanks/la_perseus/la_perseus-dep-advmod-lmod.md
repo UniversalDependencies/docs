@@ -12,7 +12,7 @@ There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_p
 56 nodes (0%) are attached to their parents as `advmod:lmod`.
 
 50 instances of `advmod:lmod` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.55357142857143.
+Average distance between parent and child is 2.58928571428571.
 
 The following 3 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (54; 96% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 

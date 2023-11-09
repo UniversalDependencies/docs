@@ -32,12 +32,12 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 8	ocho	o	NUM	_	_	6	compound	6:compound	SpaceAfter=No|NormalizedForm=ocho|NormalizedLemma=o
 9	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,|NormalizedLemma=,
 10	o	o	AUX	_	_	11	aux	11:aux	NormalizedForm=o|NormalizedLemma=o
-11	panok	panoa	VERB	_	_	0	root	0:root	NormalizedForm=panok|NormalizedLemma=panoa
+11	panok	panoa	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=panok|NormalizedLemma=panoa
 12	se	se	DET	_	_	13	det	13:det	NormalizedForm=se|NormalizedLemma=se
 13	guerra	guerra	NOUN	_	Foreign=Yes|Number=Sing	11	nsubj	11:nsubj	NormalizedForm=guerra|NormalizedLemma=guerra
 14	wan	wan	CCONJ	_	_	16	cc	16:cc	NormalizedForm=wan|NormalizedLemma=wan
 15	o	o	AUX	_	_	16	aux	16:aux	NormalizedForm=o|NormalizedLemma=o
-16	panok	panoa	VERB	_	_	11	conj	11:conj	NormalizedForm=panok|NormalizedLemma=panoa
+16	panok	panoa	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	11	conj	11:conj	NormalizedForm=panok|NormalizedLemma=panoa
 17	non	non	DET	_	_	18	det	18:det	NormalizedForm=non|NormalizedLemma=non
 18	guerra	guerra	NOUN	_	Foreign=Yes|Number=Sing	16	nsubj	16:nsubj	NormalizedForm=guerra|NormalizedLemma=guerra
 19	nikah	nikah	ADV	_	_	16	advmod	16:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
@@ -55,11 +55,11 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound	color:blue
 1	Quince	quince	NUM	_	Foreign=Yes	2	nummod	2:nummod	NormalizedForm=quince|NormalizedLemma=quince
-2	días	_	NOUN	_	Foreign=Yes|Number=Plur	0	root	0:root	NormalizedForm=días|NormalizedLemma=_
+2	días	día	NOUN	_	Foreign=Yes|Number=Plur	0	root	0:root	NormalizedForm=días|NormalizedLemma=_
 3	cada	cada	DET	_	Foreign=Yes	4	det	4:det	NormalizedForm=cada|NormalizedLemma=cada
 4	mardomo	mardomo	NOUN	_	Foreign=Yes|Number=Sing	2	nmod	2:nmod	SpaceAfter=No|NormalizedForm=mardomo|NormalizedLemma=mardomo
 5	,	,	PUNCT	_	_	9	punct	9:punct	NormalizedForm=,|NormalizedLemma=,
-6	ohkóh	_	ADV	_	_	9	advmod	9:advmod	NormalizedForm=ohkóh|NormalizedLemma=_
+6	ohkóh	ohkon	ADV	_	_	9	advmod	9:advmod	NormalizedForm=ohkóh|NormalizedLemma=_
 7	mostla	mostla	ADV	_	_	9	advmod	9:advmod	NormalizedForm=mostla|NormalizedLemma=mostla
 8	mostla	mostla	ADV	_	_	7	compound	7:compound	NormalizedForm=mostla|NormalizedLemma=mostla
 9	kateh	katki	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	NormalizedForm=kateh|NormalizedLemma=katki
@@ -82,7 +82,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 5	de	de	ADP	_	Foreign=Yes	6	case	6:case	Orig=de|NormalizedForm=de|NormalizedLemma=de
 6	Abril	abril	PROPN	_	_	4	compound	4:compound	Orig=Abril|NormalizedForm=abril|NormalizedLemma=abril
 7	o	o	AUX	_	_	8	aux	8:aux	Orig=onini|NormalizedForm=o|NormalizedLemma=o
-8	nini	yawi	VERB	_	_	11	advcl	11:advcl	NormalizedForm=nini|NormalizedLemma=yawi
+8	nini	yawi	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Past|VerbForm=Fin	11	advcl	11:advcl	NormalizedForm=nini|NormalizedLemma=yawi
 9	Tenango	tenango	PROPN	_	_	8	obl	8:obl	Orig=Tenango|NormalizedForm=tenango|NormalizedLemma=tenango
 10	o	o	AUX	_	_	11	aux	11:aux	Orig=onyaya|NormalizedForm=o|NormalizedLemma=o
 11	nyaya	yawi	VERB	_	_	0	root	0:root	NormalizedForm=nyaya|NormalizedLemma=yawi

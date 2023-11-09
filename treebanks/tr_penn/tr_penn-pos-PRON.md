@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>bu</em> (<tt><a href="tr_penn-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 5.370370 (the average of all parts of speech is 2.011961).
+The form / lemma ratio of `PRON` is 5.370370 (the average of all parts of speech is 2.012465).
 
 The 1st highest number of forms (19) was observed with the lemma “kendi”: <em>KENDİNİ, Kendisiyle, bizzat, kendi, kendileri, kendilerinden, kendilerine, kendilerini, kendilerinin, kendim, kendimi, kendinden, kendine, kendini, kendinizi, kendisi, kendisine, kendisini, kendisinin</em>.
 

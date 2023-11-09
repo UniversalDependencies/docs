@@ -23,7 +23,7 @@ The following 30 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
 2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Scrap=Yes|SpaceAfter=No
 3	…	…	PUNCT	_	_	2	punct	_	_
 
@@ -61,9 +61,9 @@ The following 30 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	reparandum	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	les	le	DET	conj:reform	Definite=Def|Number=Plur|PronType=Art	3	dep	_	Scrap=Yes
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	dep	_	Scrap=Yes
 8	ne	ne	ADV	_	Polarity=Neg	9	advmod	_	_
-9	vont	aller	VERB	ETRE	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_
 11	en	en	ADP	_	_	12	case	_	_
 12	clinique	clinique	NOUN	_	Gender=Fem|Number=Sing	9	obl:arg	_	_

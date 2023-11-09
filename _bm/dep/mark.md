@@ -25,4 +25,4 @@ The `mark` link is used between a marker and its head. A marker is the word intr
 ~~~
 
 'If he comes, I will cry'.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:18 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:00 CET -->

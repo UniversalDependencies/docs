@@ -11,7 +11,7 @@ This relation is universal.
 16750 nodes (3%) are attached to their parents as `aux`.
 
 16519 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28405970149254.
+Average distance between parent and child is 1.28465671641791.
 
 The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (15931; 95% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (365; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (277; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (48; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 

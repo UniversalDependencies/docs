@@ -6,33 +6,36 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PDB: Relations: `discourse:intj`
 
-This relation is a language-specific subtype of .
-There are also 1 other language-specific subtypes of `discourse`: <tt><a href="pl_pdb-dep-discourse-emo.html">discourse:emo</a></tt>.
+This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-discourse.html">discourse</a></tt>.
 
-98 nodes (0%) are attached to their parents as `discourse:intj`.
+150 nodes (0%) are attached to their parents as `discourse:intj`.
 
-82 instances of `discourse:intj` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.02040816326531.
+124 instances of `discourse:intj` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.53333333333333.
 
-The following 9 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (59; 60% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (19; 19% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (9; 9% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `discourse:intj`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (100; 67% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (24; 16% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (10; 7% instances), <tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 discourse:intj	color:blue
-1	—	—	PUNCT	interp	PunctType=Dash	2	punct	2:punct	_
-2	Aaa	aaa	INTJ	interj	_	4	discourse:intj	4:discourse:intj	_
-3	—	—	PUNCT	interp	PunctType=Dash	2	punct	2:punct	_
-4	powiedziała	powiedzieć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-5	Margie	Margie	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
-6	Tallworth	Tallworth	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	5	flat	5:flat	SpaceAfter=No
-7	;	;	PUNCT	interp	PunctType=Semi	8	punct	8:punct	_
-8	zatkało	zatkać	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	0:root|4:conj	_
-9	ją	on	PRON	ppron3:sg:acc:f:ter:akc:npraep	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	8	iobj	8:iobj	SpaceAfter=No
-10	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 2 discourse:intj	color:blue
+1	-	-	PUNCT	interp	PunctType=Dash	11	punct	11:punct	_
+2	No	no	INTJ	interj	_	11	discourse:intj	11:discourse:intj	SpaceAfter=No
+3	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
+4	co	co	SCONJ	comp	_	5	mark	5:mark	_
+5	to	to	PRON	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	advcl	8:advcl	SpaceAfter=No
+6	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
+7	to	to	SCONJ	comp	_	8	mark	8:mark	_
+8	nie	nie	INTJ	interj	_	2	conj	2:conj|11:discourse:intj	SpaceAfter=No
+9	!	!	PUNCT	interp	PunctType=Excl	2	punct	2:punct	_
+10	-	-	PUNCT	interp	PunctType=Dash	11	punct	11:punct	_
+11	kręci	kręcić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+12	głową	głowa	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	11	iobj	11:iobj	_
+13	siostrunia	siostrunia	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	11:nsubj	SpaceAfter=No
+14	.	.	PUNCT	interp	PunctType=Peri	11	punct	11:punct	_
 
 ~~~
 

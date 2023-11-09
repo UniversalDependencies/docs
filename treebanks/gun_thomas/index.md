@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Guillaume Thomas.
 
 Repository: [UD_Mbya_Guarani-Thomas](https://github.com/UniversalDependencies/UD_Mbya_Guarani-Thomas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -80,7 +80,7 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 
 ## Relations
 
-[acl](gun_thomas-dep-acl.html) – [advcl](gun_thomas-dep-advcl.html) – [advmod](gun_thomas-dep-advmod.html) – [amod](gun_thomas-dep-amod.html) – [appos](gun_thomas-dep-appos.html) – [case](gun_thomas-dep-case.html) – [cc](gun_thomas-dep-cc.html) – [ccomp](gun_thomas-dep-ccomp.html) – [compound](gun_thomas-dep-compound.html) – [compound:svc](gun_thomas-dep-compound-svc.html) – [conj](gun_thomas-dep-conj.html) – [cop](gun_thomas-dep-cop.html) – [csubj](gun_thomas-dep-csubj.html) – [dep:mod](gun_thomas-dep-dep-mod.html) – [det](gun_thomas-dep-det.html) – [discourse](gun_thomas-dep-discourse.html) – [dislocated](gun_thomas-dep-dislocated.html) – [dislocated:cleft](gun_thomas-dep-dislocated-cleft.html) – [fixed](gun_thomas-dep-fixed.html) – [list](gun_thomas-dep-list.html) – [mark](gun_thomas-dep-mark.html) – [nmod](gun_thomas-dep-nmod.html) – [nsubj](gun_thomas-dep-nsubj.html) – [nummod](gun_thomas-dep-nummod.html) – [obj](gun_thomas-dep-obj.html) – [obl](gun_thomas-dep-obl.html) – [obl:sentcon](gun_thomas-dep-obl-sentcon.html) – [parataxis](gun_thomas-dep-parataxis.html) – [parataxis:rep](gun_thomas-dep-parataxis-rep.html) – [punct](gun_thomas-dep-punct.html) – [reparandum](gun_thomas-dep-reparandum.html) – [root](gun_thomas-dep-root.html) – [vocative](gun_thomas-dep-vocative.html) – [xcomp](gun_thomas-dep-xcomp.html)
+[acl](gun_thomas-dep-acl.html) – [advcl](gun_thomas-dep-advcl.html) – [advmod](gun_thomas-dep-advmod.html) – [amod](gun_thomas-dep-amod.html) – [appos](gun_thomas-dep-appos.html) – [case](gun_thomas-dep-case.html) – [cc](gun_thomas-dep-cc.html) – [ccomp](gun_thomas-dep-ccomp.html) – [compound](gun_thomas-dep-compound.html) – [compound:svc](gun_thomas-dep-compound-svc.html) – [conj](gun_thomas-dep-conj.html) – [cop](gun_thomas-dep-cop.html) – [csubj](gun_thomas-dep-csubj.html) – [dep:mod](gun_thomas-dep-dep-mod.html) – [det](gun_thomas-dep-det.html) – [discourse](gun_thomas-dep-discourse.html) – [dislocated](gun_thomas-dep-dislocated.html) – [dislocated:cleft](gun_thomas-dep-dislocated-cleft.html) – [fixed](gun_thomas-dep-fixed.html) – [flat](gun_thomas-dep-flat.html) – [list](gun_thomas-dep-list.html) – [mark](gun_thomas-dep-mark.html) – [nmod](gun_thomas-dep-nmod.html) – [nsubj](gun_thomas-dep-nsubj.html) – [nummod](gun_thomas-dep-nummod.html) – [obj](gun_thomas-dep-obj.html) – [obl](gun_thomas-dep-obl.html) – [obl:sentcon](gun_thomas-dep-obl-sentcon.html) – [parataxis](gun_thomas-dep-parataxis.html) – [parataxis:rep](gun_thomas-dep-parataxis-rep.html) – [punct](gun_thomas-dep-punct.html) – [reparandum](gun_thomas-dep-reparandum.html) – [root](gun_thomas-dep-root.html) – [vocative](gun_thomas-dep-vocative.html) – [xcomp](gun_thomas-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -576,5 +576,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>compound:svc</a>, <a>dep:mod</a>, <a>dislocated:cleft</a>, <a>obl:sentcon</a>, <a>parataxis:rep</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>dep</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>flat</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

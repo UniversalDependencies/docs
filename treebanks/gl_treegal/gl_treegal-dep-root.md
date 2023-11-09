@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (4%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.491.
+Average distance between parent and child is 5.492.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (687; 69% instances), -<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (167; 17% instances), -<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (54; 5% instances), -<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (40; 4% instances), -<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (34; 3% instances), -<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (11; 1% instances), -<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (687; 69% instances), -<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (167; 17% instances), -<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (54; 5% instances), -<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (41; 4% instances), -<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (34; 3% instances), -<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (11; 1% instances), -<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -75,10 +75,9 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="el_gud-dep-conj.html">conj</a></tt>]--> VERB</tt> (445; 75%),
+<tt>VERB --[<tt><a href="el_gud-dep-conj.html">conj</a></tt>]--> VERB</tt> (446; 75%),
 <tt>VERB --[<tt><a href="el_gud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (265; 61%),
 <tt>VERB --[<tt><a href="el_gud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (103; 59%),
 <tt>VERB --[<tt><a href="el_gud-dep-dep.html">dep</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="el_gud-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="el_gud-dep-mark.html">mark</a></tt>]--> VERB</tt> (1; 100%).
 

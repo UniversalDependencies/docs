@@ -26,7 +26,7 @@ The following 24 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	Nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	devrions	devoir	VERB	_	Mood=Cnd|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	prendre	prendre	VERB	_	VerbForm=Inf	2	xcomp	_	Subject=SubjRaising
-4	cela	cela	PRON	_	Number=Sing|PronType=Dem	3	obj	_	_
+4	cela	cela	PRON	_	Number=Sing|Person=3|PronType=Dem	3	obj	_	_
 5	à	à	ADP	_	_	7	case	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	sérieux	sérieux	ADJ	_	Gender=Masc	3	obl:arg	_	SpaceAfter=No

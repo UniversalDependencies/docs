@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>maior</em> (<tt><a href="pt_petrogold
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.680947 (the average of all parts of speech is 1.452220).
+The form / lemma ratio of `ADJ` is 1.680947 (the average of all parts of speech is 1.452181).
 
 The 1st highest number of forms (6) was observed with the lemma “bibliográfico”: <em>BIBLIOGRÁFICAS, BIBLIOGÁFICAS, Bibliográficas, bibliográfica, bibliográfico, bibliográficos</em>.
 

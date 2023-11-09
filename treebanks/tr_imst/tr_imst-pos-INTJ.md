@@ -19,15 +19,15 @@ The 10 most frequent ambiguous types:  <em>ya</em> (<tt><a href="tr_imst-pos-CCO
 
 
 * <em>ya</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 68: <em>Gerekmezdi <b>ya</b> , mersi .</em>
-  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 10: <em>Kimse sana istemediğin bir şeyi zorla yaptıracak değil <b>ya</b> .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 68: <em>Dalgınlığıma geldi <b>ya</b> da üşendim , sapmadım ara yola ...</em>
+  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 10: <em>Yabancı havalı <b>ya</b> ...</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 2: <em>Bütün vücudunu kızarınca <b>ya</b> kadar ovalamıştın .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em>Hayal bu <b>ya</b> ! ..</em>
 * <em>a</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 12: <em>Tamamlanmayan <b>a</b> para yok .</em>
-  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 4: <em>O son <b>a</b> Hülya'yı oturtup kaç gece uykumdan fırlamıştım .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 12: <em>O parktan kurtulan <b>a</b> pek rastlamadım .</em>
+  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 4: <em>Rahibe değil <b>a</b> ...</em>
 * <em>tabi</em>
-  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 5: <em>Çünkü Ramazan mış ve <b>tabi</b> imam efendi oruç lu ymuş .</em>
+  * <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> 5: <em>kıskandın <b>tabi</b> .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 3: <em>Sosyal bir kurum olarak bilim , başlangıçta öncü bir rol oynarken , bugün artçı ve <b>tabi</b> bir konuma sıkıştırılmıştır .</em>
 * <em>lan</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 2: <em>Hadi <b>lan</b> , zil çalmıştır bile .</em>

@@ -33,4 +33,4 @@ In Naija, articles carry a `Definite` feature.
 #### Example
 
 *  _noting dey wrong wit being <b>a</b> queen_ "nothing's wrong with being a queen"
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:34 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:40 CET -->

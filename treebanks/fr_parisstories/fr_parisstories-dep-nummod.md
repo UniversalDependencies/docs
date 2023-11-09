@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	premières	premier	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 7	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	à	à	ADP	_	_	12	mark	_	_
 12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
 22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
-23	mes	son	DET	_	Number[psor]=Plur|Person[psor]=1|PronType=Prs	24	det	_	_
+23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	_
 24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
 26	.	.	PUNCT	_	_	10	punct	_	_

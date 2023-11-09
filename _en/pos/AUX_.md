@@ -8,4 +8,4 @@ redirect_from: "en/pos/AUX.html"
 ---
 
 The English `AUX` covers PTB MD and uses of the various verbal tags (VB, VBP, VBG, VBN, VBD, VBZ) when they are forms of _be_, _have_, _do_, and _get_ when used as an auxiliary (we count passive _get_ as an auxiliary).
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->

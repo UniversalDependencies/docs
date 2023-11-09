@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-132433 tokens (55%) have a non-empty value of `Gender`.
-7501 types (80%) occur at least once with a non-empty value of `Gender`.
-3088 lemmas (88%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (51206; 21% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (20149; 8% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (20013; 8% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (18308; 8% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (12372; 5% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (9754; 4% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (629; 0% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+122626 tokens (51%) have a non-empty value of `Gender`.
+7486 types (80%) occur at least once with a non-empty value of `Gender`.
+3085 lemmas (88%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (51206; 21% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (20150; 8% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (20065; 8% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (12350; 5% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (9754; 4% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (8470; 3% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (629; 0% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -44,14 +44,14 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PROPN`
 
-20149 <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Gender`.
+20150 <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20030; 99%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20031; 99%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (2051; 10% of non-empty `Gender`): <em>Luca, Marie, Italia, Langubardiam, Lunata, Langobardiam, Langubardia, Mariae, Verriana, Piscia</em>
-* `Masc` (17382; 86% of non-empty `Gender`): <em>Dei, Martini, Deo, Petri, Gherardus, Petrus, domini, Adalfridi, Fridiani, Andreas</em>
+* `Masc` (17383; 86% of non-empty `Gender`): <em>Dei, Martini, Deo, Petri, Gherardus, Petrus, domini, Adalfridi, Fridiani, Andreas</em>
 * `Neut` (716; 4% of non-empty `Gender`): <em>Sexto, Castronovo, Vuamo, Suborbano, Feruniano, Paterno, Sugrominio, Tempaniano, Asulari, Turingo</em>
 * `EMPTY` (102): <em>[Propn]</em>
 
@@ -65,15 +65,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `DET`
 
-20013 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+20065 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14786; 74%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14667; 73%), <tt><a href="la_llct-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (14084; 70%), <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14084; 70%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14838; 74%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14697; 73%), <tt><a href="la_llct-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (14136; 70%), <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14136; 70%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (8814; 44% of non-empty `Gender`): <em>ipsa, mea, suprascripta, hanc, illa, suprascripte, ipsius, una, omnibus, huius</em>
-* `Masc` (7874; 39% of non-empty `Gender`): <em>qui, nostro, tuis, meis, vestro, ipsius, ipso, ipse, suprascripto, tali</em>
-* `Neut` (3325; 17% of non-empty `Gender`): <em>omnia, uno, alio, hec, omnibus, vestro, quolibet, suo, ipso, ipsum</em>
+* `Fem` (8836; 44% of non-empty `Gender`): <em>ipsa, mea, suprascripta, hanc, illa, suprascripte, ipsius, una, omnibus, huius</em>
+* `Masc` (7877; 39% of non-empty `Gender`): <em>qui, nostro, tuis, meis, vestro, ipsius, ipso, ipse, suprascripto, tali</em>
+* `Neut` (3352; 17% of non-empty `Gender`): <em>omnia, uno, alio, hec, omnibus, vestro, quolibet, suo, ipso, ipsum</em>
 
 <table>
   <tr><th>Paradigm <i>ipse</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -89,42 +89,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ipsi, ipsis</em></td><td><em>ipse, ipsae, ipsis</em></td><td><em>ipsa</em></td></tr>
 </table>
 
-### `PRON`
-
-18308 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15009; 82%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13815; 75%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
-
-`PRON` tokens may have the following values of `Gender`:
-
-* `Fem` (1922; 10% of non-empty `Gender`): <em>quas, eas, que, eam, quam, tibi, eius, ea, qua, ego</em>
-* `Masc` (15326; 84% of non-empty `Gender`): <em>ego, me, nos, qui, tibi, eius, mihi, vobis, nobis, tu</em>
-* `Neut` (1060; 6% of non-empty `Gender`): <em>id, quod, que, aliquo, quibus, aliquid, quot, eo, quit, nihil</em>
-* `EMPTY` (2): <em>[pronoun], quandoque</em>
-
-<table>
-  <tr><th>Paradigm <i>qui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quo, quod, quot</em></td><td><em>qua, quam, quas</em></td><td><em>quo, quod</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quibus</em></td><td><em>quibus</em></td><td><em>quibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>que, quem</em></td><td><em>quam, quas, qua</em></td><td><em>quod, quot, quo</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quos</em></td><td><em>quas, qua</em></td><td><em>que, quem</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cui</em></td><td><em>cui</em></td><td><em>cui</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quibus</em></td><td></td><td><em>quibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cuius</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>chorum</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>qui, quit</em></td><td><em>que, quem, quae, qua</em></td><td><em>quod, quot, cod, quo</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>qui</em></td><td><em>que, quem, quae</em></td><td><em>que, quem</em></td></tr>
-</table>
-
 ### `ADJ`
 
-12372 <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Gender`.
+12350 <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10249; 83%), <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9222; 75%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10249; 83%), <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9200; 74%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (3965; 32% of non-empty `Gender`): <em>sancte, bone, Lucane, decima, tertia, publica, quinta, cultis, incultis, Lucense</em>
+* `Fem` (3943; 32% of non-empty `Gender`): <em>sancte, bone, Lucane, decima, tertia, publica, quinta, cultis, incultis, Lucense</em>
 * `Masc` (6623; 54% of non-empty `Gender`): <em>sancti, singulos, manifestu, decimo, vigisimo, bonos, humilis, tertio, sexto, propitio</em>
 * `Neut` (1784; 14% of non-empty `Gender`): <em>integrum, livellario, duplum, prefinito, manifestum, cultum, incultum, Romanum, recto, purum</em>
 * `EMPTY` (963): <em>quondam</em>
@@ -168,11 +141,38 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>dandi</em></td></tr>
 </table>
 
+### `PRON`
+
+8470 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (46% of all `PRON` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6140; 72%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5218; 62%).
+
+`PRON` tokens may have the following values of `Gender`:
+
+* `Fem` (1858; 22% of non-empty `Gender`): <em>quas, eas, que, eam, quam, tibi, eius, ea, qua, cui</em>
+* `Masc` (5595; 66% of non-empty `Gender`): <em>qui, tibi, eius, vobis, tu, te, vos, cui, que, quo</em>
+* `Neut` (1017; 12% of non-empty `Gender`): <em>id, quod, que, aliquo, quibus, aliquid, eo, quit, quidquid, quo</em>
+* `EMPTY` (9809): <em>ego, me, nos, mihi, nobis, se, nihil, nus, novis, sibi</em>
+
+<table>
+  <tr><th>Paradigm <i>qui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quo, quod</em></td><td><em>qua, quam, quas</em></td><td><em>quo, quod</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quibus</em></td><td><em>quibus</em></td><td><em>quibus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>que, quem</em></td><td><em>quam, quas, qua</em></td><td><em>quod, quo</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quos</em></td><td><em>quas, qua</em></td><td><em>que, quem</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cui</em></td><td><em>cui</em></td><td><em>cui</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quibus</em></td><td></td><td><em>quibus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cuius</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>chorum</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>qui, quit</em></td><td><em>que, quem, quae, qua</em></td><td><em>quod, cod, quo</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>qui</em></td><td><em>que, quem, quae</em></td><td><em>que, quem</em></td></tr>
+</table>
+
 ### `NUM`
 
 629 <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> tokens (42% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (629; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt> (629; 100%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (551; 88%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="la_llct-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (629; 100%), <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (629; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt> (629; 100%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (551; 88%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -209,14 +209,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15833; 100%),
+<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15932; 100%),
 <tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7052; 100%),
-<tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6377; 100%),
-<tt>PROPN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> PRON</tt> (4883; 100%),
-<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3818; 69%),
+<tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6355; 100%),
+<tt>NOUN --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3823; 69%),
 <tt>PROPN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2261; 70%),
-<tt>NOUN --[<tt><a href="la_llct-dep-acl.html">acl</a></tt>]--> VERB</tt> (1851; 73%),
+<tt>NOUN --[<tt><a href="la_llct-dep-acl.html">acl</a></tt>]--> VERB</tt> (1843; 78%),
 <tt>PROPN --[<tt><a href="la_llct-dep-acl.html">acl</a></tt>]--> VERB</tt> (1824; 96%),
 <tt>VERB --[<tt><a href="la_llct-dep-obl-arg.html">obl:arg</a></tt>]--> PROPN</tt> (1796; 71%),
-<tt>NOUN --[<tt><a href="la_llct-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1745; 92%).
+<tt>PROPN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (1529; 100%),
+<tt>PROPN --[<tt><a href="la_llct-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1240; 69%).
 

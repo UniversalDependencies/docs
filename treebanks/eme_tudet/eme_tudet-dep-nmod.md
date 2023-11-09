@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (4%) are attached to their parents as `nmod`.
+97 nodes (3%) are attached to their parents as `nmod`.
 
-62 instances of `nmod` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06818181818182.
+66 instances of `nmod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07216494845361.
 
-The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (74; 84% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (7; 8% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (82; 85% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (7; 7% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 2 nmod	color:blue
 1	ɨat	ɨat	NOUN	n	_	3	nsubj	_	_
-2	tukukimaʔẽ	tukuk	NOUN	n	Nmzr=Rel|Pred=Yes	1	nmod	_	_
+2	tukukimaʔẽ	tukuk	NOUN	n	Pred=Yes|VerbForm=Ger	1	nmod	_	_
 3	oike	ike	VERB	v	Person=3	0	root	_	_
 
 ~~~

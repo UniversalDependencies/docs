@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `CCONJ`
 
-There are 2 `CCONJ` lemmas (0%), 4 `CCONJ` types (0%) and 4392 `CCONJ` tokens (11%).
-Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 5 in number of tokens.
+There are 2 `CCONJ` lemmas (0%), 23 `CCONJ` types (0%) and 4392 `CCONJ` tokens (11%).
+Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 12 in number of types and 5 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ו, או</em>
 
-The 10 most frequent `CCONJ` types:  <em>ו, אֹ֥ו, אֹו, אֹ֣ו</em>
+The 10 most frequent `CCONJ` types:  <em>וַ, וְ, וּ, וַֽ, וָ, וּֽ, וִ, וַ֠, וְ֠, וֵֽ</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,11 +21,11 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 2.000000 (the average of all parts of speech is 3.177604).
+The form / lemma ratio of `CCONJ` is 11.500000 (the average of all parts of speech is 5.381405).
 
-The 1st highest number of forms (3) was observed with the lemma “או”: <em>אֹ֣ו, אֹ֥ו, אֹו</em>.
+The 1st highest number of forms (20) was observed with the lemma “ו”: <em>וְ, וְ֠, וְֽ, וִ, וִֽ, וֵ, וֵֽ, וֶ, וֶֽ, וַ, וַ֠, וַ֤, וַֽ, וַֽ֠, וַׄ, וָ, וָֽ, וּ, וּ֠, וּֽ</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “ו”: <em>ו</em>.
+The 2nd highest number of forms (3) was observed with the lemma “או”: <em>אֹ֣ו, אֹ֥ו, אֹו</em>.
 
 `CCONJ` does not occur with any features.
 

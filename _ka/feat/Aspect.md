@@ -31,3 +31,4 @@ The action has been / will have been completed.
 
 * _ბავშვმა <b>დაასრულა</b> წერა._ 'A child finished writing.'
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:35 CET -->

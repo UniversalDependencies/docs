@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="koi_uh-pos-CC
 
 
 * <em>да</em>
-  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Сія пондыліс чапкыны куритны <b>да</b> юны .</em>
+  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Окаліс Митя кыкнаннысӧ <b>да</b> пуксьӧтіс пызан сайӧ .</em>
   * <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ме эг вермы сійӧ вӧтны , ӧддьӧн чожа котӧртіс <b>да</b> .</em>
 * <em>кӧр</em>
   * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3: <em>А сія эд видзчисьны оз понды , <b>кӧр</b> дугда боньгыныт .</em>

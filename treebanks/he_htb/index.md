@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More, Shoval Sadde, Victoria Basmov, Yuval Pinter.
 
 Repository: [UD_Hebrew-HTB](https://github.com/UniversalDependencies/UD_Hebrew-HTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -114,7 +114,7 @@ is forthcoming.
 
 ## Relations
 
-[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat:name](he_htb-dep-flat-name.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nsubj:outer](he_htb-dep-nsubj-outer.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
+[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat](he_htb-dep-flat.html) – [flat:name](he_htb-dep-flat-name.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nsubj:outer](he_htb-dep-nsubj-outer.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -777,6 +777,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -23,7 +23,7 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 4 dislocated	color:blue
 1	But	but	CCONJ	_	_	6	cc	_	_
-2	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	6	nsubj:outer	_	SpaceAfter=No
+2	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	6	nsubj:outer	_	_
 3	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	what	what	PRON	WH	PronType=Int	6	dislocated	_	_
 5	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
@@ -71,7 +71,7 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 4	said	say	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	Quinn	Quinn	PROPN	SG-NOM	Number=Sing	4	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	Comma	_	10	punct	_	_
-7	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	SpaceAfter=No
+7	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 8	'm	be	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	_
 9	not	not	PART	NEG	_	10	advmod	_	_
 10	making	make	VERB	ING	Tense=Pres|VerbForm=Part	4	dislocated	_	_

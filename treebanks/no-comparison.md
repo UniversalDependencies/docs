@@ -107,7 +107,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 4 word types tagged as particles (PART): ei, ikke, og, å</li>
+      <li>This corpus contains 5 word types tagged as particles (PART): ei, ikke, ikkje, og, å</li>
       </ul>
     </td>
   </tr>
@@ -816,7 +816,7 @@ udver: '2'
         <li>Neg
           <ul>
             <li>DET: ingen, inga</li>
-            <li>PART: ikke</li>
+            <li>PART: ikkje, ikke</li>
             <li>PRON: ingen</li>
           </ul>
         </li>

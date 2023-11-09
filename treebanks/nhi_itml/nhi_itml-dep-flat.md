@@ -25,11 +25,11 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 1	Igual	igual	ADV	_	_	2	advmod	2:advmod	NormalizedForm=igual|NormalizedLemma=igual
 2	mocelebraroa	celebraroa	VERB	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mocelebraroa|NormalizedLemma=selebraroa
 3	de	de	ADP	_	Foreign=Yes	4	case	4:case	NormalizedForm=de|NormalizedLemma=de
-4	señor	_	NOUN	_	Foreign=Yes|Number=Sing	2	obl	2:obl	NormalizedForm=señor|NormalizedLemma=_
+4	señor	seór	NOUN	_	Foreign=Yes|Number=Sing	2	obl	2:obl	NormalizedForm=señor|NormalizedLemma=_
 5	de	de	ADP	_	Foreign=Yes	6	case	6:case	NormalizedForm=de|NormalizedLemma=de
-6	patrón	_	NOUN	_	Foreign=Yes|Number=Sing	4	nmod	4:nmod	NormalizedForm=patrón|NormalizedLemma=_
+6	patrón	patrón	NOUN	_	Foreign=Yes|Number=Sing	4	nmod	4:nmod	NormalizedForm=patrón|NormalizedLemma=_
 7	de	de	ADP	_	Foreign=Yes	8	case	8:case	NormalizedForm=de|NormalizedLemma=de
-8	aquí	_	ADV	_	_	6	nmod	6:nmod	SpaceAfter=No|NormalizedForm=aquí|NormalizedLemma=_
+8	aquí	aquí	ADV	_	_	6	nmod	6:nmod	SpaceAfter=No|NormalizedForm=aquí|NormalizedLemma=_
 9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
 10	de	de	ADP	_	Foreign=Yes	11	case	11:case	NormalizedForm=de|NormalizedLemma=de
 11	San	san	PROPN	_	_	4	appos	4:appos	NormalizedForm=san|NormalizedLemma=san
@@ -48,7 +48,7 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 1	Wan	wan	CCONJ	_	_	3	cc	3:cc	NormalizedForm=wan|NormalizedLemma=wan
 2	ahorita	ahorita	ADV	_	Foreign=Yes	3	advmod	3:advmod	NormalizedForm=ahorita|NormalizedLemma=ahorita
 3	kilwia	ilwia	VERB	_	Number[dat]=Sing|Number[subj]=Sing|Person[dat]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kilwia|NormalizedLemma=ilwia
-4	Rancho	rancho	NOUN	_	_	3	obj	3:obj	NormalizedForm=rancho|NormalizedLemma=rancho
+4	Rancho	rancho	NOUN	_	Foreign=Yes|Gender=Masc	3	obj	3:obj	NormalizedForm=rancho|NormalizedLemma=rancho
 5	Nuevo	nuevo	ADJ	_	_	4	flat	4:flat	NormalizedForm=nuevo|NormalizedLemma=nuevo
 6	pero	pero	CCONJ	_	_	11	cc	11:cc	NormalizedForm=pero|NormalizedLemma=pero
 7	non	non	PRON	_	_	11	nsubj	11:nsubj	NormalizedForm=non|NormalizedLemma=non

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `CCONJ`
 
-There are 3 `CCONJ` lemmas (1%), 3 `CCONJ` types (1%) and 6 `CCONJ` tokens (2%).
+There are 3 `CCONJ` lemmas (1%), 3 `CCONJ` types (1%) and 6 `CCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ocus, _, ná</em>
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>na</em> (<tt><a href="sga_dipsgg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.264574).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.261062).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>et</em>.
 

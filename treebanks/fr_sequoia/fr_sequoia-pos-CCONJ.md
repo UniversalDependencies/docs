@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_sequoia-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.153846 (the average of all parts of speech is 1.406661).
+The form / lemma ratio of `CCONJ` is 1.153846 (the average of all parts of speech is 1.406634).
 
 The 1st highest number of forms (2) was observed with the lemma “et”: <em>&, et</em>.
 
@@ -45,7 +45,13 @@ The 2nd highest number of forms (2) was observed with the lemma “ou”: <em>/,
 
 The 3rd highest number of forms (1) was observed with the lemma “+/-”: <em>+/-</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (15; 1% instances)
+
+`CCONJ` occurs with 2 feature-value pairs: `ExtPos=ADJ`, `ExtPos=CCONJ`
+
+`CCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1625 tokens).
+Examples: <em>et, ou, mais, puis, car, ni, soit, /, &, Or</em>
 
 
 ## Relations

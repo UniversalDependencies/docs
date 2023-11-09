@@ -69,7 +69,7 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> VERB</tt> (873; 72%),
+<tt>VERB --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> VERB</tt> (874; 72%),
 <tt>VERB --[<tt><a href="gd_arcosg-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (272; 63%),
 <tt>VERB --[<tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (50; 98%),
 <tt>VERB --[<tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (30; 52%),

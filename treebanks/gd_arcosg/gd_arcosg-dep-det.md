@@ -69,7 +69,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 2	iad	iad	PRON	Pp3p	Number=Plur|Person=3	1	nsubj	_	_
 3	sin	sin	DET	Dd	_	2	det	_	_
 4	math	math	ADJ	Ap	_	1	xcomp:pred	_	_
-5	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	6	mark:prt	_	_
+5	nach	nach	PART	Qn	PartType=Vb|Polarity=Neg	6	mark:prt	_	_
 6	eil	bi	VERB	V-p--d	Tense=Pres	1	parataxis	_	_
 
 ~~~

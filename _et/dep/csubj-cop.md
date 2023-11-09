@@ -13,4 +13,4 @@ Imelik , et ma seda veel näidata julgen . \n Strange that I still dare to show 
 csubj:cop(Imelik,julgen)
 csubj:cop(Strange,dare)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:09 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:44 CET -->

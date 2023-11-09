@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (588; 3% of non-empty `Degree`): <em>veći, veće, manji, veća, veću, većeg, bolje, bolji, niže, većim</em>
 * `Pos` (21824; 95% of non-empty `Degree`): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
 * `Sup` (520; 2% of non-empty `Degree`): <em>najveći, najbolji, najveća, najveće, najvećih, najbolje, najboljeg, najvažnije, najvećim, najvećem</em>
-* `EMPTY` (1206): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
+* `EMPTY` (1207): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
 <table>
   <tr><th>Paradigm <i>velik</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

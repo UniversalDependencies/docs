@@ -6,24 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kazakh-KTB: POS Tags: `ADJ`
 
-There are 357 `ADJ` lemmas (14%), 381 `ADJ` types (8%) and 826 `ADJ` tokens (8%).
+There are 357 `ADJ` lemmas (14%), 381 `ADJ` types (8%) and 827 `ADJ` tokens (8%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>бар, үлкен, жаңа, керек, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
 
-The 10 most frequent `ADJ` types:  <em>бар, үлкен, жаңа, керек, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
+The 10 most frequent `ADJ` types:  <em>бар, үлкен, керек, жаңа, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
 
-The 10 most frequent ambiguous lemmas: <em>бар</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 37, <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> 20), <em>үлкен</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> 1), <em>жаңа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>керек</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 1), <em>жоқ</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> 5), <em>жақсы</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 2), <em>басқа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 1), <em>барлық</em> (<tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 9, <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> 2), <em>көп</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 4, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 1), <em>ақ</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>бар</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 37, <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> 20), <em>үлкен</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> 1), <em>жаңа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>керек</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> 1), <em>жоқ</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> 5), <em>жақсы</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 2), <em>басқа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 1), <em>барлық</em> (<tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 9, <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> 2), <em>көп</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 4, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 1), <em>ақ</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>жаңа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>керек</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 1), <em>жақсы</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 2), <em>басқа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 1), <em>барлық</em> (<tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 6, <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4), <em>басты</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>жаман</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>көп</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 4, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>Оңтүстік</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 1), <em>артық</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>жаңа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>жақсы</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 2), <em>басқа</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 1), <em>барлық</em> (<tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 6, <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4), <em>басты</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>жаман</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>көп</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> 4, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1), <em>Оңтүстік</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kk_ktb-pos-X.html">X</a></tt> 1), <em>артық</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> 1), <em>бай</em> (<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>жаңа</em>
   * <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 18: <em>Біз қазір мемлекет дамуының <b>жаңа</b> үлгісін әзірлеп жатырмыз .</em>
   * <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 1: <em>Мейлі <b>жаңа</b> түскен келіншек болсын , қатын біткенді " шеше " дейді .</em>
-* <em>керек</em>
-  * <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 22: <em>– Бізге жұмыс форматын елеулі түрде қайта қарау <b>керек</b> .</em>
-  * <tt><a href="kk_ktb-pos-X.html">X</a></tt> 1: <em>Мал орнына сатылып , жаны сүймеген жанға жар болатын қазақтың сансыз қыздарының ішінен әлдеқалай өзінің сүйгеніне тиген Шолпан шынында бастапқы жылы бала <b>керек</b> қылмады .</em>
 * <em>жақсы</em>
   * <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 13: <em>Бұл халықаралық қоғамдастық үшін <b>жақсы</b> жағынан үлгі болады .</em>
   * <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 3: <em>— Мына төре сені <b>жақсы</b> көрген .</em>
@@ -52,10 +49,13 @@ The 10 most frequent ambiguous types:  <em>жаңа</em> (<tt><a href="kk_ktb-po
   * <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4: <em>Бұл 2008 жылмен салыстырғанда , бір жарым есе <b>артық</b> .</em>
   * <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> 2: <em>Бірақ оған <b>артық</b> араласпаймын .</em>
   * <tt><a href="kk_ktb-pos-ADP.html">ADP</a></tt> 1: <em>Олар осыдан <b>артық</b> қайда барсын ?</em>
+* <em>бай</em>
+  * <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> 4: <em>Қазақстан – табиғи ресурстар мен таланттарға аса <b>бай</b> ел .</em>
+  * <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> 1: <em>Бай неліктен <b>бай</b> болады ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.067227 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `ADJ` is 1.067227 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (4) was observed with the lemma “өзге”: <em>өзге, өзгелері, өзгені, өзгесін</em>.
 
@@ -68,19 +68,19 @@ The 3rd highest number of forms (3) was observed with the lemma “барша”
 `ADJ` occurs with 13 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Number=Plur`, `Number[psor]=Plur,Sing`, `Number[psor]=Sing`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Int`
 
 `ADJ` occurs with 20 feature combinations.
-The most frequent feature combination is `_` (772 tokens).
-Examples: <em>бар, үлкен, жаңа, керек, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
+The most frequent feature combination is `_` (773 tokens).
+Examples: <em>бар, үлкен, керек, жаңа, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 19 different relations: <tt><a href="kk_ktb-dep-amod.html">amod</a></tt> (494; 60% instances), <tt><a href="kk_ktb-dep-root.html">root</a></tt> (137; 17% instances), <tt><a href="kk_ktb-dep-conj.html">conj</a></tt> (48; 6% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (45; 5% instances), <tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt> (15; 2% instances), <tt><a href="kk_ktb-dep-ccomp.html">ccomp</a></tt> (13; 2% instances), <tt><a href="kk_ktb-dep-obl.html">obl</a></tt> (10; 1% instances), <tt><a href="kk_ktb-dep-advcl.html">advcl</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-nmod-poss.html">nmod:poss</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-obj.html">obj</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-parataxis.html">parataxis</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="kk_ktb-dep-acl-relcl.html">acl:relcl</a></tt> (7; 1% instances), <tt><a href="kk_ktb-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="kk_ktb-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="kk_ktb-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="kk_ktb-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="kk_ktb-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="kk_ktb-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 19 different relations: <tt><a href="kk_ktb-dep-amod.html">amod</a></tt> (494; 60% instances), <tt><a href="kk_ktb-dep-root.html">root</a></tt> (137; 17% instances), <tt><a href="kk_ktb-dep-conj.html">conj</a></tt> (48; 6% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (45; 5% instances), <tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt> (15; 2% instances), <tt><a href="kk_ktb-dep-ccomp.html">ccomp</a></tt> (13; 2% instances), <tt><a href="kk_ktb-dep-obl.html">obl</a></tt> (10; 1% instances), <tt><a href="kk_ktb-dep-advcl.html">advcl</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-nmod-poss.html">nmod:poss</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-obj.html">obj</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-parataxis.html">parataxis</a></tt> (8; 1% instances), <tt><a href="kk_ktb-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="kk_ktb-dep-acl-relcl.html">acl:relcl</a></tt> (7; 1% instances), <tt><a href="kk_ktb-dep-xcomp.html">xcomp</a></tt> (6; 1% instances), <tt><a href="kk_ktb-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="kk_ktb-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="kk_ktb-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="kk_ktb-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="kk_ktb-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 7 different parts of speech: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (506; 61% instances),  (137; 17% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (107; 13% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (48; 6% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (22; 3% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `ADJ` nodes belong to 7 different parts of speech: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (506; 61% instances),  (137; 17% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (108; 13% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (48; 6% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (22; 3% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
-521 (63%) `ADJ` nodes are leaves.
+522 (63%) `ADJ` nodes are leaves.
 
-95 (12%) `ADJ` nodes have one child.
+95 (11%) `ADJ` nodes have one child.
 
 74 (9%) `ADJ` nodes have two children.
 

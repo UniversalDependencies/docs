@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt>, <tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt>.
 
-15937 tokens (13%) have a non-empty value of `Person`.
-3735 types (15%) occur at least once with a non-empty value of `Person`.
-1312 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8215; 7% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4463; 4% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1753; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1506; 1% instances).
+15902 tokens (13%) have a non-empty value of `Person`.
+3734 types (15%) occur at least once with a non-empty value of `Person`.
+1311 lemmas (11%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8218; 7% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4459; 4% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1741; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1484; 1% instances).
 
 ### `VERB`
 
-8215 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Person`.
+8218 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8215; 100%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8213; 100%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8212; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7664; 93%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5720; 70%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (5278; 64%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt> (5139; 63%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4404; 54%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (4248; 52%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4235; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8218; 100%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8216; 100%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8215; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7667; 93%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5723; 70%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (5260; 64%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt> (5121; 62%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4407; 54%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (4249; 52%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4236; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1451; 18% of non-empty `Person`): <em>ըսեմ, ուզեմ, ունինք, ըսի, ընեմ, ըսենք, գիտեմ, հասկցայ, յիշեմ, չունինք</em>
+* `1` (1452; 18% of non-empty `Person`): <em>ըսեմ, ուզեմ, ունինք, ըսի, ընեմ, ըսենք, գիտեմ, հասկցայ, յիշեմ, չունինք</em>
 * `2` (557; 7% of non-empty `Person`): <em>կարծես, գիտէք, եկուր, ըսես, գիտես, ունիս, եկէք, ուզես, ուզէք, կրնաս</em>
-* `3` (6207; 76% of non-empty `Person`): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, կրնան, կան, կար, գայ</em>
-* `EMPTY` (7271): <em>եղած, ունեցած, գիտեր, ըլլալ, կրնար, սկսած, եկած, ըսել, դարձած, ըլլալու</em>
+* `3` (6209; 76% of non-empty `Person`): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, կրնան, կան, կար, գայ</em>
+* `EMPTY` (7273): <em>եղած, ունեցած, գիտեր, ըլլալ, կրնար, սկսած, եկած, ըսել, դարձած, ըլլալու</em>
 
 <table>
   <tr><th>Paradigm <i>ըսել</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -48,15 +48,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-4463 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Person`.
+4459 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4463; 100%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4364; 98%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4343; 97%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3649; 82%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3476; 78%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3117; 70%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4459; 100%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4364; 98%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4343; 97%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3645; 82%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3472; 78%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3115; 70%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (450; 10% of non-empty `Person`): <em>եմ, չեմ, ենք, էի, չենք, էինք, չէի, չէինք, տուի, եղայ</em>
 * `2` (136; 3% of non-empty `Person`): <em>ես, էք, չես, չէք, էիր, չէիր, էիք, ըլլաս, ըլլաք, չէիք</em>
-* `3` (3877; 87% of non-empty `Person`): <em>է, էր, են, էին, չէ, չէր, չեն, չի, ըլլայ, չէին</em>
+* `3` (3873; 87% of non-empty `Person`): <em>է, էր, են, էին, չէ, չէր, չեն, չի, ըլլայ, չէին</em>
 * `EMPTY` (4507): <em>կը, կ՚, պիտի, կու, պէտք, եղած, եղեր, կոր, ըլլալով, ըլլալու</em>
 
 <table>
@@ -78,38 +78,38 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-1753 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (26% of all `DET` tokens) have a non-empty value of `Person`.
+1741 <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> tokens (26% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1753; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1753; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1753; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (1089; 62%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1026; 59%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1011; 58%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1741; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1741; 100%), <tt><a href="hyw_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1741; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (1086; 62%), <tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1018; 58%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1001; 57%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (409; 23% of non-empty `Person`): <em>մեր, իմ, մերին</em>
 * `2` (48; 3% of non-empty `Person`): <em>ձեր, քու, քո</em>
-* `3` (1296; 74% of non-empty `Person`): <em>իր, իրենց, անոր, անոնց, նրա</em>
-* `EMPTY` (4966): <em>մը, այս, այդ, ամէն, այն, բոլոր, մըն, քանի, մէկ, նոյն</em>
+* `3` (1284; 74% of non-empty `Person`): <em>իր, իրենց, անոր, անոնց, նրա</em>
+* `EMPTY` (4957): <em>մը, այս, այդ, ամէն, այն, բոլոր, մըն, քանի, մէկ, նոյն</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Person`.
 
 ### `PRON`
 
-1506 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (37% of all `PRON` tokens) have a non-empty value of `Person`.
+1484 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (37% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1506; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1505; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1103; 73%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (941; 62%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (890; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1484; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1483; 100%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1073; 72%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (919; 62%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (868; 58%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (465; 31% of non-empty `Person`): <em>ես, մենք, մեզի, ինծի, մեզ, զիս, մեր, իմ, ինձ, ինձմէ</em>
 * `2` (160; 11% of non-empty `Person`): <em>դուն, դուք, քեզի, քեզ, ձեզ, ձեզի, քու, դու, ձեր, ձեզմէ</em>
-* `3` (881; 58% of non-empty `Person`): <em>ան, անոնք, իրեն, իր, անոր, իրենց, անոնց, զայն, ինք, զինք</em>
-* `EMPTY` (2516): <em>որ, ինչ, որոնք, որուն, մէկը, այն, որոնց, ամէնէն, այդ, իրարու</em>
+* `3` (859; 58% of non-empty `Person`): <em>ան, անոնք, իրեն, իր, անոր, իրենց, անոնց, ինք, զինք, իրենք</em>
+* `EMPTY` (2558): <em>որ, ինչ, որոնք, որուն, մէկը, այն, որոնց, զայն, ամէնէն, այդ</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (19) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1354; 71%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1353; 72%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (57; 59%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (14; 100%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (6; 55%),

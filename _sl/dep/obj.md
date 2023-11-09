@@ -50,4 +50,4 @@ cop(teacher,was)
 In accordance with the general guidelines, the SSJ-UD treebank also follows the following strict rule: if the sentence contains **only one object**, this object is always marked as a direct object (`obj`), regardless of its grammatical case or semantic role. An example of this is the above sentence *suho listje jima je šelestelo*. See also the `iobj` relation explanation.
 
 The `obj` relation is not used for prepositional phrases, even if they are syntactically or semantically necessary and cannot be omitted from the sentence (e.g., *veliko se je govorilo o hladni vojni*). Regardless of their meaning and omissibility, prepositional phrases are always treated as peripheral objects (`obl`). 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:26 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:14 CET -->

@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.007380 (the average of all parts of speech is 1.406661).
+The form / lemma ratio of `ADV` is 1.007380 (the average of all parts of speech is 1.406634).
 
 The 1st highest number of forms (2) was observed with the lemma “ne”: <em>n', ne</em>.
 
@@ -63,13 +63,13 @@ The 2nd highest number of forms (2) was observed with the lemma “que”: <em>q
 
 The 3rd highest number of forms (1) was observed with the lemma “-”: <em>-</em>.
 
-`ADV` occurs with 2 features: <tt><a href="fr_sequoia-feat-Polarity.html">Polarity</a></tt> (765; 29% instances), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt> (33; 1% instances)
+`ADV` occurs with 3 features: <tt><a href="fr_sequoia-feat-Polarity.html">Polarity</a></tt> (765; 29% instances), <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (210; 8% instances), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt> (33; 1% instances)
 
-`ADV` occurs with 2 feature-value pairs: `Polarity=Neg`, `PronType=Int`
+`ADV` occurs with 8 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=DET`, `ExtPos=PRON`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Int`
 
-`ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1839 tokens).
-Examples: <em>plus, moins, très, également, aussi, bien, alors, lors, peu, afin</em>
+`ADV` occurs with 13 feature combinations.
+The most frequent feature combination is `_` (1641 tokens).
+Examples: <em>plus, très, également, aussi, moins, bien, afin, alors, peu, donc</em>
 
 
 ## Relations

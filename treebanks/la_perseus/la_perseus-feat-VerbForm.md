@@ -149,7 +149,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (16; 100% of non-empty `VerbForm`): <em>contentum, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati, munitus</em>
-* `EMPTY` (2118): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
+* `EMPTY` (2117): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `VerbForm`.
 
@@ -171,8 +171,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (468; 58%),
 <tt>VERB --[<tt><a href="la_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (62; 59%),
 <tt>VERB --[<tt><a href="la_perseus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (40; 95%),
-<tt>VERB --[<tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (32; 76%),
+<tt>VERB --[<tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (31; 76%),
 <tt>VERB --[<tt><a href="la_perseus-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (10; 77%),
-<tt>VERB --[<tt><a href="la_perseus-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="la_perseus-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="la_perseus-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (1; 100%).
 

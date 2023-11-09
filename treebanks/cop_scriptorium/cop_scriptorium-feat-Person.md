@@ -9,38 +9,38 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-9247 tokens (17%) have a non-empty value of `Person`.
-105 types (4%) occur at least once with a non-empty value of `Person`.
+9444 tokens (17%) have a non-empty value of `Person`.
+106 types (4%) occur at least once with a non-empty value of `Person`.
 58 lemmas (2%) occur at least once with a non-empty value of `Person`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7927; 14% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1320; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8089; 14% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1355; 2% instances).
 
 ### `PRON`
 
-7927 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
+8089 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7927; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7927; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5425; 68%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (8089; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8089; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5553; 69%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (1399; 18% of non-empty `Person`): ⲓ, ⲛ, ϯ, ⲁⲛⲟⲕ, ⲧⲛ, ⲧⲁ, ⲧ, ⲁⲛⲅ, ⲁⲛⲟⲛ, ⲁ
-* `2` (1273; 16% of non-empty `Person`): ⲕ, ⲧⲉⲧⲛ, ⲧⲛ, ⲅ, ⲧⲏⲩⲧⲛ, ⲉ, ⲛⲧⲱⲧⲛ, ⲧⲉ, ⲛⲧⲟⲕ, ⲉⲕϣⲁⲛ
-* `3` (5255; 66% of non-empty `Person`): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲥⲉ, ⲛⲧⲟϥ, ⲉⲩⲉ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲉϥϣⲁⲛ
-* `EMPTY` (1243): ⲡⲉ, ⲟⲩ, ⲛⲓⲙ, ϥ, ⲧⲉ, ⲡ, ⲛⲉ, ⲕ, ⲛ, ⲥ
+* `1` (1422; 18% of non-empty `Person`): ⲓ, ⲛ, ϯ, ⲁⲛⲟⲕ, ⲧⲛ, ⲧⲁ, ⲧ, ⲁⲛⲅ, ⲁⲛⲟⲛ, ⲁ
+* `2` (1293; 16% of non-empty `Person`): ⲕ, ⲧⲉⲧⲛ, ⲧⲛ, ⲅ, ⲧⲏⲩⲧⲛ, ⲉ, ⲛⲧⲱⲧⲛ, ⲧⲉ, ⲛⲧⲟⲕ, ⲉⲕϣⲁⲛ
+* `3` (5374; 66% of non-empty `Person`): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲥⲉ, ⲛⲧⲟϥ, ⲉⲩⲉ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲉϥϣⲁⲛ
+* `EMPTY` (1265): ⲡⲉ, ⲟⲩ, ⲛⲓⲙ, ϥ, ⲧⲉ, ⲡ, ⲛⲉ, ⲕ, ⲛ, ⲥ
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (44) occur only with one value of `Person`.
 
 ### `DET`
 
-1320 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Person`.
+1355 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1320; 100%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1320; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1320; 100%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (994; 75%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (923; 70%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1355; 100%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1355; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1355; 100%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1024; 76%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (952; 70%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (448; 34% of non-empty `Person`): ⲡⲁ, ⲡⲉⲛ, ⲛⲁ, ⲛⲉⲛ, ⲧⲁ, ⲧⲉⲛ, ⲡⲱⲓ, ⲛⲟⲩⲓ
-* `2` (293; 22% of non-empty `Person`): ⲡⲉⲕ, ⲧⲉⲕ, ⲛⲉⲕ, ⲛⲉⲧⲛ, ⲡⲟⲩ, ⲧⲟⲩ, ⲡⲉⲧⲛ, ⲛⲟⲩ, ⲧⲉⲧⲛ, ⲡⲱⲧⲛ
-* `3` (579; 44% of non-empty `Person`): ⲡⲉϥ, ⲛⲉϥ, ⲧⲉϥ, ⲛⲉⲩ, ⲡⲉⲩ, ⲧⲉⲩ, ⲧⲉⲥ, ⲡⲉⲥ, ⲛⲉⲥ, ⲡⲱϥ
-* `EMPTY` (5868): ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲛⲉ, ⲧⲉ, ⲡⲁⲓ, ⲛⲁⲓ
+* `1` (453; 33% of non-empty `Person`): ⲡⲁ, ⲡⲉⲛ, ⲛⲁ, ⲛⲉⲛ, ⲧⲁ, ⲧⲉⲛ, ⲡⲱⲓ, ⲛⲟⲩⲓ
+* `2` (299; 22% of non-empty `Person`): ⲡⲉⲕ, ⲧⲉⲕ, ⲛⲉⲕ, ⲛⲉⲧⲛ, ⲡⲟⲩ, ⲧⲟⲩ, ⲡⲉⲧⲛ, ⲛⲟⲩ, ⲧⲉⲧⲛ, ⲡⲱⲧⲛ
+* `3` (603; 45% of non-empty `Person`): ⲡⲉϥ, ⲛⲉϥ, ⲧⲉϥ, ⲛⲉⲩ, ⲡⲉⲥ, ⲡⲉⲩ, ⲧⲉⲩ, ⲧⲉⲥ, ⲛⲉⲥ, ⲡⲱϥ
+* `EMPTY` (6020): ⲡ, ⲧ, ⲛ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲧⲉ, ⲡⲁⲓ, ⲛⲉ, ⲛⲁⲓ
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `Person`.
 

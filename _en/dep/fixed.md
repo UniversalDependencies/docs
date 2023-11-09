@@ -19,7 +19,7 @@ At present, this relation is used inside the following expressions, semantically
 | Category | Expressions |
 |----------|-------------|
 | [Augmentative/substitutive/conjunctive](#augmentativesubstitutiveconjunctive-expressions) | *as well*, *as well as*, *rather than*, *instead of*, *let alone* |
-| [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that* |
+| [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that*, *such that* |
 | [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to* |
 | [Circumstantial/conditional](#circumstantialconditional-connectives) | *in case (of)*, *whether or not* |
 | [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as* |
@@ -166,6 +166,14 @@ mark(miss, so)
 He cried so that you would feel bad
 mark(feel, so)
 fixed(so, that)
+~~~
+
+*such that*
+
+~~~ sdparse
+Let the rectangle KL be applied to DE such that KL equals BC
+mark(equals, such)
+fixed(such, that)
 ~~~
 
 
@@ -538,4 +546,4 @@ xcomp(about, leave)
 mark(leave, to)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:15 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:55 CET -->

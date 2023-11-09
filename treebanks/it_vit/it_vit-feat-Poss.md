@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1282 tokens (0%) have a non-empty value of `Poss`.
-35 types (0%) occur at least once with a non-empty value of `Poss`.
-16 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (1228; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (48; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (6; 0% instances).
+1281 tokens (0%) have a non-empty value of `Poss`.
+34 types (0%) occur at least once with a non-empty value of `Poss`.
+15 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (1228; 0% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (47; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (6; 0% instances).
 
 ### `DET`
 
@@ -27,16 +27,16 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 ### `PRON`
 
-48 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
+47 <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_vit-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (48; 100%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 73%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_vit-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (47; 100%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 74%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (24; 51%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (48; 100% of non-empty `Poss`): <em>tuo, sua, mio, essa, suo, suoi, che, loro, nostra, nostro</em>
+* `Yes` (47; 100% of non-empty `Poss`): <em>tuo, sua, mio, essa, suo, suoi, che, loro, nostra, nostro</em>
 * `EMPTY` (9756): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
 
-`Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Poss`.
+`Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Poss`.
 
 ### `ADJ`
 

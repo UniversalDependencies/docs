@@ -26,4 +26,4 @@ punct(She.said, .-17)
 ~~~
 
 “She said: «Take a soap and a basket for mushrooms as well as bathing accessories».”
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:53 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:15 CET -->

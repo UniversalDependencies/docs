@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (171; 14% of non-empty `Number`): بولسا، قارىسا، بولمىغان، بولسىمۇ، بولمىسا، باقمىغان، دېدى، قىلدى، ئوخشىمىغان، قالسا
 * `Sing` (1054; 86% of non-empty `Number`): دېدى، كەلدى، باشلىدى، بولدى، بەردى، قىلدى، قىلىدۇ، بولىدۇ، دېدىم، دېگەن
-* `EMPTY` (7103): دەپ، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، كېلىپ، تۇرغان، كۆرۈپ
+* `EMPTY` (7102): دەپ، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، كېلىپ، تۇرغان، كۆرۈپ
 
 <table>
   <tr><th>Paradigm <i>بول</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -83,7 +83,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (14; 2% of non-empty `Number`): قالدۇق، ئىدۇق، تۇرىمىز، بولدى، بولمىغان، بولىمىز، قالمىدۇق، كەتتۇق
 * `Sing` (578; 98% of non-empty `Number`): ئىدى، كەتتى، قالدى، بولسا، ئەمەس، بولدى، بولىدۇ، قالدىم، بولسىمۇ، بولغان
-* `EMPTY` (318): بولۇپ، ئىكەن، تۇرۇپ، ئىكەنلىكىنى، بوپتۇ، بولاتتى، بولغاچقا، كېتىپ، بولسۇن، ئوخشايدۇ
+* `EMPTY` (319): بولۇپ، ئىكەن، تۇرۇپ، ئىكەنلىكىنى، بوپتۇ، بولاتتى، بولغاچقا، كېتىپ، بولسۇن، ئوخشايدۇ
 
 <table>
   <tr><th>Paradigm <i>بول</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

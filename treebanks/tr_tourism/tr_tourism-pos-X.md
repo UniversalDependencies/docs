@@ -39,11 +39,11 @@ The 10 most frequent ambiguous types:  <em>DA</em> (<tt><a href="tr_tourism-pos-
   * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1: <em>TESİSİN KAPISINDAN GİRER GİRMEZ KALİTELİ VE GÜLER YÜZLÜ İNSANLAR <b>LA</b> DA KARŞILAŞINCA İYİ BİR SEÇİM YAPTIĞIMIZI BİR DEFA DAHA ANLADIK .</em>
 * <em>YA</em>
   * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7: <em><b>YA</b> YAZMAYA KALKSAM SAATLERCE YAZABİLİRİM .</em>
-  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1: <em>ODAMIZLA İLGİLENEN PINAR KARACA <b>YA</b> , GÖL EVLERİ BARMENİ EROL , ANA RESTORANTTA BALIKLARI KIVAMINDA PİŞİREN AŞÇI BATUHAN VE GARSON ALİ KARDEŞİME AYRIYETEN TEŞEKKÜRLER .</em>
+  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1: <em>ODAMIZLA İLGİLENEN PINAR KARACA <b>YA</b> GÖL EVLERİ BARMENİ EROL ANA RESTORANTTA BALIKLARI KIVAMINDA PİŞİREN AŞÇI BATUHAN VE GARSON ALİ KARDEŞİME AYRIYETEN TEŞEKKÜRLER .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 4.666667 (the average of all parts of speech is 1.824721).
+The form / lemma ratio of `X` is 4.666667 (the average of all parts of speech is 1.825646).
 
 The 1st highest number of forms (12) was observed with the lemma “_”: <em>DA, DAN, DE, DEN, E, HANGİ, Kİ, LA, Tİ, YA, YE, Yİ</em>.
 

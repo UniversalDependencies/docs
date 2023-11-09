@@ -34,4 +34,4 @@ Přišel bych dříve , ale ujel mi vlak . \n Come I-would earlier , but missed 
 aux(Přišel, bych)
 aux(Come, I-would)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:00 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:27 CET -->

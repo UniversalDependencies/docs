@@ -56,13 +56,13 @@ Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="ja
 
 1972 (39%) `CCONJ` nodes have one child.
 
-457 (9%) `CCONJ` nodes have two children.
+458 (9%) `CCONJ` nodes have two children.
 
-109 (2%) `CCONJ` nodes have three or more children.
+108 (2%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 5.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="ja_bccwj-dep-punct.html">punct</a></tt> (1876; 58% instances), <tt><a href="ja_bccwj-dep-fixed.html">fixed</a></tt> (1351; 42% instances), <tt><a href="ja_bccwj-dep-dep.html">dep</a></tt> (5; 0% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="ja_bccwj-dep-punct.html">punct</a></tt> (1876; 58% instances), <tt><a href="ja_bccwj-dep-fixed.html">fixed</a></tt> (1350; 42% instances), <tt><a href="ja_bccwj-dep-dep.html">dep</a></tt> (5; 0% instances)
 
-Children of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (1876; 58% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (919; 28% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (306; 9% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (71; 2% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (36; 1% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (1876; 58% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (919; 28% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (305; 9% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (71; 2% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (36; 1% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

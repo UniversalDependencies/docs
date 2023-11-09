@@ -34,7 +34,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -68,11 +68,11 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	遊戲	遊戲	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
 8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
-10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+10	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	知名	知名	ADJ	JJ	_	12	compound	_	SpaceAfter=No|Translit=zhīmíng|LTranslit=zhīmíng
 12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=dù|LTranslit=dù
 13	時	時	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
-14	甚至	甚至	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
+14	甚至	甚至	SCONJ	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
 15	說	說	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 16	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 17	四百萬	四百萬	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=sìbǎiwàn|LTranslit=sìbǎiwàn

@@ -61,13 +61,13 @@ The 2nd highest number of forms (2) was observed with the lemma “Friday”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “Monday”: <em>Monday, Mondays</em>.
 
-`PROPN` occurs with 3 features: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
+`PROPN` occurs with 4 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (104; 5% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
 
-`PROPN` occurs with 3 feature-value pairs: `Case=Gen`, `Number=Plur`, `PartType=Disc`
+`PROPN` occurs with 4 feature-value pairs: `Case=Gen`, `ExtPos=PROPN`, `Number=Plur`, `PartType=Disc`
 
-`PROPN` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (2163 tokens).
-Examples: <em>God, Nigeria, Jesus, Pidgin, English, Lagos, Alaska, Jos, Abuja, WAEC</em>
+`PROPN` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (2059 tokens).
+Examples: <em>God, Nigeria, Jesus, Pidgin, English, Alaska, Jos, Abuja, Lagos, WAEC</em>
 
 
 ## Relations

@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 8 dislocated	color:blue
 1	总括	总括	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=zǒngkuò|LTranslit=zǒngkuò
-2	来	来	ADV	RB	_	3	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
+2	来	来	SCONJ	RB	_	3	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 3	说	说	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 4	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 5	名人	名人	NOUN	NN	_	6	nmod	_	SpaceAfter=No|Translit=míngrén|LTranslit=míngrén
@@ -79,7 +79,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 22 dislocated	color:blue
-1	但	但	ADV	RB	_	3	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
+1	但	但	SCONJ	RB	_	3	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 2	可以	可以	AUX	MD	_	3	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 3	举	举	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=jǔ|LTranslit=jǔ
 4	一	一	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
@@ -99,7 +99,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 18	，	，	PUNCT	,	_	22	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 19	他	他	PRON	PRP	Person=3	22	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
 20	几乎	几乎	ADV	RB	_	22	advmod	_	SpaceAfter=No|Translit=jǐhu|LTranslit=jǐhu
-21	都	都	ADV	RB	_	22	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+21	都	都	SCONJ	RB	_	22	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 22	看	看	VERB	VV	_	16	dislocated	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 23	过	过	AUX	AS	Aspect=Perf	22	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
 24	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.

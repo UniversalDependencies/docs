@@ -107,4 +107,4 @@ Compare the [Typo]() feature, which covers errors and typographical unexpectedne
 
 * [cs] _Doporučuji vrátit <b>parchanta</b> do košíčku, postrčit po vodě a na hloubce ho převrhnout._ “I recommend returning the bastard to the basket, pushing it over the water and overturning it at depth.”
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:49 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:08 CET -->

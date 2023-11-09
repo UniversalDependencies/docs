@@ -9,11 +9,11 @@ udver: '2'
 There are 16 `X` lemmas (0%), 16 `X` types (0%) and 17 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>de, _, andes, andino, coup, force, grâce, maiorum, mare, mos</em>
+The 10 most frequent `X` lemmas: <em>de, 's, _, andes, andino, coup, force, grâce, maiorum, mare</em>
 
 The 10 most frequent `X` types:  <em>de, Andes, Force, Mare, Nostrum, Ouvrière, Traum, Zettel, andino, coup</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>force</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>'s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 96, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>force</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>Andes</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>show</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
 
@@ -37,13 +37,13 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.138927).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.140354).
 
-The 1st highest number of forms (1) was observed with the lemma “_”: <em>show</em>.
+The 1st highest number of forms (1) was observed with the lemma “'s”: <em>’s</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “andes”: <em>Andes</em>.
+The 2nd highest number of forms (1) was observed with the lemma “_”: <em>show</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “andino”: <em>andino</em>.
+The 3rd highest number of forms (1) was observed with the lemma “andes”: <em>Andes</em>.
 
 `X` occurs with 1 features: <tt><a href="en_pud-feat-Foreign.html">Foreign</a></tt> (6; 35% instances)
 

@@ -18,11 +18,11 @@ The feature is used with 13 part-of-speech tags: <tt><a href="la_udante-pos-ADV.
 
 402 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `ADV` and `Compound` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (399; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (340; 85%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (275; 68%).
+The most frequent other feature values with which `ADV` and `Compound` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (399; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (335; 83%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (275; 68%).
 
 `ADV` tokens may have the following values of `Compound`:
 
-* `Yes` (402; 100% of non-empty `Compound`): <em>etiam, deinde, quare, ideo, adhuc, preterea, forsan, adeo, postea, aliquando</em>
+* `Yes` (402; 100% of non-empty `Compound`): <em>etiam, deinde, quare, ideo, adhuc, preterea, forsan, adeo, aliquando, proinde</em>
 
 `Compound` seems to be **lexical feature** of `ADV`. 100% lemmas (57) occur only with one value of `Compound`.
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `SCONJ` and `Compound` co-occu
 
 181 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `DET` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (181; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (181; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (173; 96%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (148; 82%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (139; 77%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (139; 77%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (107; 59%).
+The most frequent other feature values with which `DET` and `Compound` co-occurred: <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (181; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (181; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (173; 96%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (148; 82%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (139; 77%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (139; 77%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (113; 62%).
 
 `DET` tokens may have the following values of `Compound`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Compound` co-occur
 
 76 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `VERB` and `Compound` co-occurred: <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (53; 70%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatA</tt> (46; 61%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (39; 51%).
+The most frequent other feature values with which `VERB` and `Compound` co-occurred: <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (53; 70%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (47; 62%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatA</tt> (46; 61%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 53%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (40; 53%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (40; 53%).
 
 `VERB` tokens may have the following values of `Compound`:
 
@@ -128,7 +128,7 @@ The most frequent other feature values with which `X` and `Compound` co-occurred
 
 6 <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `NUM` and `Compound` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (6; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `NUM` and `Compound` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="la_udante-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (6; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (6; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%).
 
 `NUM` tokens may have the following values of `Compound`:
 

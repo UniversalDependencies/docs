@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-DET.htm
 
 3362 <tt><a href="la_ittb-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `DET` and `Form` co-occurred: <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (3362; 100%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3362; 100%), <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3362; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3362; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3054; 91%).
+The most frequent other feature values with which `DET` and `Form` co-occurred: <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (3362; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (3362; 100%), <tt><a href="la_ittb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3362; 100%), <tt><a href="la_ittb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3362; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3362; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3054; 91%).
 
 `DET` tokens may have the following values of `Form`:
 
@@ -26,9 +26,9 @@ The most frequent other feature values with which `DET` and `Form` co-occurred: 
 
 ### `ADV`
 
-820 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Form`.
+820 <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Form`.
 
-The most frequent other feature values with which `ADV` and `Form` co-occurred: <tt><a href="la_ittb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (820; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (819; 100%).
+The most frequent other feature values with which `ADV` and `Form` co-occurred: <tt><a href="la_ittb-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (820; 100%), <tt><a href="la_ittb-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (820; 100%), <tt><a href="la_ittb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (819; 100%).
 
 `ADV` tokens may have the following values of `Form`:
 
@@ -47,5 +47,6 @@ The most frequent other feature values with which `PART` and `Form` co-occurred:
 ## Relations with Agreement in `Form`
 
 The 10 most frequent relations where parent and child node agree in `Form`:
-<tt>DET --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> DET</tt> (2; 67%).
+<tt>DET --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> DET</tt> (2; 67%),
+<tt>DET --[<tt><a href="la_ittb-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> DET</tt> (1; 100%).
 

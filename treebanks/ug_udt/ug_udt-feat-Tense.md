@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (1341; 84% of non-empty `Tense`): دېدى، دېگەن، تۇرغان، بولغان، كەلدى، كەتكەن، باشلىدى، بولدى، قالغان، قىلدى
 * `Pres` (261; 16% of non-empty `Tense`): قىلىدۇ، بولىدۇ، كېلىدۇ، دەيدۇ، بېرىدۇ، بولمايدۇ، دەمسىز، تۇرىدۇ، چۈشىدۇ، ھېسابلىنىدۇ
-* `EMPTY` (6726): دەپ، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، كېلىپ، كۆرۈپ، تۇرۇپ
+* `EMPTY` (6725): دەپ، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، كېلىپ، كۆرۈپ، تۇرۇپ
 
 <table>
   <tr><th>Paradigm <i>بول</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-469 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (52% of all `AUX` tokens) have a non-empty value of `Tense`.
+469 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (456; 97%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (456; 97%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (442; 94%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (396; 84%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (375; 80%).
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (396; 84% of non-empty `Tense`): ئىدى، كەتتى، قالدى، بولدى، قالدىم، بولغان، بولدۇم، ئىدىڭ، كەلدى، ئىدىم
 * `Pres` (73; 16% of non-empty `Tense`): بولىدۇ، تۇرىدۇ، كېتىدۇ، بولمايدۇ، بولىسەن، تۇرىمىز، قالمايدۇ، كېلىدۇ، بولمامدۇ، بولىسىز
-* `EMPTY` (441): بولۇپ، ئىكەن، بولسا، ئەمەس، تۇرۇپ، بولسىمۇ، ئىكەنلىكىنى، بولسام، بوپتۇ، بولاتتى
+* `EMPTY` (442): بولۇپ، ئىكەن، بولسا، ئەمەس، تۇرۇپ، بولسىمۇ، ئىكەنلىكىنى، بولسام، بوپتۇ، بولاتتى
 
 <table>
   <tr><th>Paradigm <i>بول</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

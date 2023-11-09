@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `dislocated`.
+14 nodes (0%) are attached to their parents as `dislocated`.
 
-12 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.58333333333333.
+14 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.
 
-The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (12; 100% instances).
+The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (14; 100% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	to	tas	PRON	pd3msan	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	obj	7:obj	LvtbNodeId=a-s9-p21s6w5
 6	mēs	mēs	PRON	pp10pnn	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	LvtbNodeId=a-s9-p21s6w6
 7	piedomāsim	piedomāt	VERB	vmnift21pan	Evident=Fh|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-s9-p21s6w7
-8	klāt	klāt	ADV	rppn	Degree=Pos	7	advmod	7:advmod	LvtbNodeId=a-s9-p21s6w8|SpaceAfter=No
+8	klāt	klāt	ADV	rpn	Degree=Pos	7	advmod	7:advmod	LvtbNodeId=a-s9-p21s6w8|SpaceAfter=No
 9	.	.	PUNCT	zs	_	7	punct	7:punct	LvtbNodeId=a-s9-p21s6w9
 
 ~~~

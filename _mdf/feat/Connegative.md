@@ -29,4 +29,4 @@ Note that there is no `No` value. If the word is not connegative, the
 * [mdf] _апак <b>сода</b>_ "un-<b>known</b> (Conv/Part)"
 * [mdf] _апак содань_ "un-known</b> (Part)"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:34 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:39 CET -->

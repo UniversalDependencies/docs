@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_gsd-dep-csubj.html">csubj</a></tt>.
 
-7 nodes (0%) are attached to their parents as `csubj:pass`.
+8 nodes (0%) are attached to their parents as `csubj:pass`.
 
-6 instances of `csubj:pass` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.85714285714286.
+7 instances of `csubj:pass` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.5.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (6; 86% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 14% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 13% instances).
 
 
 ~~~ conllu

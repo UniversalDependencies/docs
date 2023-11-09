@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-319 nodes (23%) are attached to their parents as `root`.
+343 nodes (23%) are attached to their parents as `root`.
 
-319 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.31347962382445.
+343 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.29446064139942.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (222; 70% instances), -<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (85; 27% instances), -<tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), -<tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), -<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (246; 72% instances), -<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (85; 25% instances), -<tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), -<tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), -<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="aqz_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

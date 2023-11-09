@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-615 nodes (1%) are attached to their parents as `flat`.
+622 nodes (1%) are attached to their parents as `flat`.
 
-615 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.37723577235772.
+622 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.37299035369775.
 
-The following 8 pairs of parts of speech are connected with `flat`: <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (589; 96% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt>-<tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt>-<tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `flat`: <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (596; 96% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt>-<tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="wo_wtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt>-<tt><a href="wo_wtb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="wo_wtb-pos-DET.html">DET</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="wo_wtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="wo_wtb-pos-VERB.html">VERB</a></tt>-<tt><a href="wo_wtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

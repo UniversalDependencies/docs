@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (45; 4% of non-empty `Degree`): <em>större, tidigare, högre, mer, senare, bättre, färre, ytterligare, yttre, äldre</em>
 * `Pos` (1131; 90% of non-empty `Degree`): <em>nya, andra, många, flera, stora, stor, hela, brittiska, olika, fler</em>
 * `Sup` (74; 6% of non-empty `Degree`): <em>senaste, sista, högsta, största, bästa, främsta, bäst, flesta, värsta, bredast</em>
-* `EMPTY` (309): <em>första, andra, betydande, följande, kända, sett, tredje, St., allierade, känd</em>
+* `EMPTY` (310): <em>första, andra, betydande, följande, kända, sett, tredje, St., allierade, känd</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

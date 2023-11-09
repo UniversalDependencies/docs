@@ -25,4 +25,4 @@ The speaker has first-hand evidence for the statement/event.
 * _үйгө кетиши керек_ 'she/he has to go home'
 * _үйүнө кеткен болчу_ 'she/he had gone home'
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:36 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:44 CET -->

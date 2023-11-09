@@ -18,23 +18,21 @@ The following 33 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 nsubj	color:blue
-1	ב	ב	ADP	prep	_	2	case	_	Ref=GEN_1.1
-2	ראשׁית	ראשׁית	NOUN	subs	Gender=Fem|Number=Sing	3	obl	_	Ref=GEN_1.1
-3	בָּרָ֣א	ברא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_1.1
-4	אֱלֹהִ֑ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	3	nsubj	_	Ref=GEN_1.1
-5	אֵ֥ת	את	ADP	prep	_	7	case	_	Ref=GEN_1.1
-6	ה	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_1.1
-7	שׁמים	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	3	obj	_	Ref=GEN_1.1
-8	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_1.1
-9	את	את	ADP	prep	_	11	case	_	Ref=GEN_1.1
-10	ה	ה	DET	art	PronType=Art	11	det	_	Ref=GEN_1.1
-11	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	7	conj	_	Ref=GEN_1.1
-12	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_1.1
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nsubj	color:blue
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_1.3
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_1.3
+3	אֱלֹהִ֖ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Ref=GEN_1.3
+4	יְהִ֣י	היה	AUX	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_1.3
+5	אֹ֑ור	אור	NOUN	subs	Gender=Masc|Number=Sing	4	nsubj	_	Ref=GEN_1.3
+6	וַֽ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_1.3
+7	יְהִי	היה	AUX	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_1.3
+8	־	־	PUNCT	punct	_	9	punct	_	Ref=GEN_1.3|SpaceAfter=No
+9	אֹֽור	אור	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_1.3|SpaceAfter=No
+10	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_1.3
 
 ~~~
 
@@ -45,47 +43,34 @@ The following 33 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nsubj	color:blue
-1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_3.9
-2	קרא	קרא	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_3.9
-3	יְהוָ֥ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_3.9
-4	אֱלֹהִ֖ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	3	appos	_	Ref=GEN_3.9
-5	אֶל	אל	ADP	prep	_	8	case	_	Ref=GEN_3.9|SpaceAfter=No
-6	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_3.9|SpaceAfter=No
-7	ה	ה	DET	art	PronType=Art	8	det	_	Ref=GEN_3.9
-8	אדם	אדם	NOUN	subs	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_3.9
-9	ו	ו	CCONJ	conj	_	10	cc	_	Ref=GEN_3.9
-10	אמר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_3.9
-11	ל	ל	ADP	prep	_	12	case	_	Ref=GEN_3.9
-12	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	Ref=GEN_3.9
-13	אי	אי	PART	inrg	_	10	ccomp	_	Ref=GEN_3.9
-14	אתה	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	Ref=GEN_3.9
-15	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_3.9
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_4.13
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_4.13
+3	קַ֖יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_4.13
+4	אֶל	אל	ADP	prep	_	6	case	_	Ref=GEN_4.13|SpaceAfter=No
+5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_4.13|SpaceAfter=No
+6	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_4.13
+7	גָּדֹ֥ול	גדול	ADJ	adjv	Gender=Masc|Number=Sing	2	ccomp	_	Ref=GEN_4.13
+8	עֲוֹנִ֖	עון	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_4.13
+9	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	Ref=GEN_4.13
+10	מִ	מן	ADP	prep	_	11	case	_	Ref=GEN_4.13
+11	נְּשֹֽׂא	נשׂא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	7	advcl	_	Gloss=lift|Ref=GEN_4.13
+12	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_4.13
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nsubj	color:blue
-1	ו	ו	CCONJ	conj	_	3	cc	_	Ref=GEN_9.7
-2	אתם	אתם	PRON	prps	Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Ref=GEN_9.7
-3	פְּר֣וּ	פרה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=GEN_9.7
-4	ו	ו	CCONJ	conj	_	5	cc	_	Ref=GEN_9.7
-5	רבה	רבה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	conj	_	Ref=GEN_9.7
-6	שִׁרְצ֥וּ	שׁרץ	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	parataxis	_	Ref=GEN_9.7
-7	ב	ב	ADP	prep	_	9	case	_	Ref=GEN_9.7
-8	ה	ה	DET	art	PronType=Art	9	det	_	Ref=GEN_9.7
-9	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	6	obl	_	Ref=GEN_9.7
-10	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_9.7
-11	רבה	רבה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	6	conj	_	Ref=GEN_9.7
-12	־	־	PUNCT	punct	_	14	punct	_	Ref=GEN_9.7|SpaceAfter=No
-13	ב	ב	ADP	prep	_	14	case	_	Ref=GEN_9.7
-14	היא	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	Ref=GEN_9.7
-15	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_9.7
-16	ס	ס	PUNCT	punct	_	3	punct	_	Ref=GEN_9.7
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nsubj	color:blue
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_21.24
+2	יֹּ֨אמֶר֙	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_21.24
+3	אַבְרָהָ֔ם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_21.24
+4	אָנֹכִ֖י	אנכי	PRON	prps	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Ref=GEN_21.24
+5	אִשָּׁבֵֽעַ	שׁבע	VERB	verb	Aspect=Imp|HebBinyan=NIFAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	ccomp	_	Ref=GEN_21.24|SpaceAfter=No
+6	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_21.24
 
 ~~~
 

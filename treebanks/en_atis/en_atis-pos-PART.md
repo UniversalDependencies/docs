@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: <em>to, be</em>
 
 The 10 most frequent `PART` types:  <em>to, 's</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 4215, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 480), <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1161, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 208, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 4215, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 480), <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1161, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 209, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5)
 
 The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 4215, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 480), <em>'s</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 91, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5)
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_atis-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.143493).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.144766).
 
 The 1st highest number of forms (1) was observed with the lemma “be”: <em>'s</em>.
 

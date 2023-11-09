@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>мен</em> (<tt><a href="kk_ktb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.263158 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `CCONJ` is 1.263158 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (4) was observed with the lemma “да”: <em>да, де, та, те</em>.
 

@@ -68,7 +68,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	pesar	pesar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	1	fixed	_	_
 3	que	que	SCONJ	_	_	1	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	95	95	NUM	_	NumType=Card	6	nummod	_	_
+5	95	95	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
 6	%	%	SYM	_	_	15	nsubj	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
@@ -94,7 +94,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 28	hablado	hablar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	26	parataxis	_	_
 29	por	por	ADP	_	_	32	case	_	_
 30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
-31	85	85	NUM	_	NumType=Card	32	nummod	_	_
+31	85	85	NUM	_	NumForm=Digit|NumType=Card	32	nummod	_	_
 32	%	%	SYM	_	_	28	obl:agent	_	SpaceAfter=No
 33	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
 34	.	.	PUNCT	_	_	26	punct	_	_

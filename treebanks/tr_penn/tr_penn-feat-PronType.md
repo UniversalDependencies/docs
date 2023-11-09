@@ -58,7 +58,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 `AUX` tokens may have the following values of `PronType`:
 
 * `Int` (125; 100% of non-empty `PronType`): <em>mi, mı, mu, mıydı, miydi, musunuz, mü, mısın, mıydık, Mİ</em>
-* `EMPTY` (420): <em>değil, değildir, değildi, değilim, değiller, değiliz, değilse, değillerdi, değildik, değildim</em>
+* `EMPTY` (421): <em>değil, değildir, değildi, değilim, değiller, değiliz, değilse, değillerdi, değildik, değildim</em>
 
 ### `ADV`
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Ind` (9; 9% of non-empty `PronType`): <em>hep</em>
 * `Int` (90; 91% of non-empty `PronType`): <em>ne, nasıl, kaçıp, neler</em>
-* `EMPTY` (9867): <em>daha, olarak, en, çok, ancak, ayrıca, sonra, sadece, tarafından, yeniden</em>
+* `EMPTY` (9870): <em>daha, olarak, en, çok, ancak, ayrıca, sonra, tarafından, sadece, yeniden</em>
 
 ## Relations with Agreement in `PronType`
 

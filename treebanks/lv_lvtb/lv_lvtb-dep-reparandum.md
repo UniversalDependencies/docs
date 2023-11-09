@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `reparandum`.
+16 nodes (0%) are attached to their parents as `reparandum`.
 
-13 instances of `reparandum` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.6.
+14 instances of `reparandum` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.5.
 
-The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 27% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 20% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 20% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 25% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 19% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 19% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 2	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	reparandum	4:reparandum	LvtbNodeId=a-p980-p2s2w2
 3	aizņemas	aizņemt	VERB	vmnpdfpnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	0	root	0:root	CorrectForm=aizņemtas|CorrectionType=Spelling|LvtbNodeId=a-p980-p2s2w3
 4	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	LvtbNodeId=a-p980-p2s2w4
-5	gandrīz	gandrīz	ADV	r0qn	_	6	advmod	6:advmod	LvtbNodeId=a-p980-p2s2w5
+5	gandrīz	gandrīz	ADV	r0n	_	6	advmod	6:advmod	LvtbNodeId=a-p980-p2s2w5
 6	visas	visa	DET	pg0fpnn	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	7	det	7:det	LvtbNodeId=a-p980-p2s2w6
 7	sēdvietas	sēdvieta	NOUN	ncfpn4	Case=Nom|Gender=Fem|Number=Plur	3	nsubj:pass	3:nsubj:pass	LvtbNodeId=a-p980-p2s2w7|SpaceAfter=No
 8	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-p980-p2s2w8

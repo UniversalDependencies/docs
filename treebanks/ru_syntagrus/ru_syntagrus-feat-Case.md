@@ -86,7 +86,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Ins` (3887; 5% of non-empty `Case`): <em>тем, собой, ним, ними, чем, этим, им, которыми, ней, ими</em>
 * `Loc` (4393; 6% of non-empty `Case`): <em>том, этом, нем, котором, чем, себе, которой, ней, них, которых</em>
 * `Nom` (35413; 49% of non-empty `Case`): <em>он, я, это, мы, они, она, что, которые, все, то</em>
-* `EMPTY` (685): <em>это, т., Я, все, что, тем, этим, этого, этом, этому</em>
+* `EMPTY` (686): <em>это, т., Я, все, что, То, тем, этим, этого, этом</em>
 
 <table>
   <tr><th>Paradigm <i>он</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -109,7 +109,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Loc` (5512; 11% of non-empty `Case`): <em>России, Москве, Европе, США, Германии, Западе, Америке, СССР, Земле, Франции</em>
 * `Nom` (20034; 40% of non-empty `Case`): <em>Россия, Путин, Владимир, Сергей, Александр, Галилей, Медведев, Борис, В., А.</em>
 * `Voc` (16; 0% of non-empty `Case`): <em>Господи, Володь, Паш, Саш, Тань</em>
-* `EMPTY` (5451): <em>СССР, США, РАН, С., РФ, А., Южной, НАТО, Б., Западной</em>
+* `EMPTY` (5448): <em>СССР, США, РАН, С., РФ, А., Южной, НАТО, Б., Западной</em>
 
 <table>
   <tr><th>Paradigm <i>Саша</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -244,7 +244,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (29748; 86%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24265; 95%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (9335; 86%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7080; 97%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7081; 97%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4776; 98%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4452; 77%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> VERB</tt> (4407; 100%),

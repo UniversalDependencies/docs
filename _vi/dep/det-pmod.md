@@ -15,4 +15,4 @@ nsubj(cao, Anh)
 punct(cao, 。)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:12 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:49 CET -->

@@ -20,8 +20,9 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [acl:adv](): Ukrainian
 * [acl:attr](): Chukchi
 * [acl:cleft](): Swedish
+* [acl:inf](): Portuguese
 * [acl:relat](): Chukchi
-* [acl:relcl](): Akkadian, Albanian, Apurina, Arabic, Armenian, Assyrian, Beja, Belarusian, Bengali, Breton, Bulgarian, Catalan, Chinese, Coptic, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, German, Greek, Hebrew, Hindi, Hittite, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Ligurian, Lithuanian, Livvi, Maghrebi Arabic French, Malayalam, Manx, Marathi, Moksha, Naija, Nheengatu, North Sami, Norwegian, Old East Slavic, Old French, Old Irish, Persian, Polish, Portuguese, Russian, Sanskrit, Scottish Gaelic, Skolt Sami, Slovak, Spanish, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Ukrainian, Umbrian, Urdu, Vietnamese, Welsh, Western Armenian, Western Sierra Puebla Nahuatl, Wolof, Xibe, Zaar
+* [acl:relcl](): Akkadian, Albanian, Ancient Greek, Apurina, Arabic, Armenian, Assyrian, Beja, Belarusian, Bengali, Breton, Bulgarian, Catalan, Chinese, Coptic, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, German, Greek, Haitian Creole, Hebrew, Highland Puebla Nahuatl, Hindi, Hittite, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Ligurian, Lithuanian, Livvi, Low Saxon, Macedonian, Maghrebi Arabic French, Malayalam, Manx, Marathi, Middle French, Moksha, Naija, Nheengatu, North Sami, Norwegian, Old East Slavic, Old French, Old Irish, Persian, Polish, Portuguese, Russian, Sanskrit, Scottish Gaelic, Skolt Sami, Slovak, Spanish, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Ukrainian, Umbrian, Urdu, Veps, Vietnamese, Welsh, Western Armenian, Western Sierra Puebla Nahuatl, Wolof, Xibe, Zaar
 * [acl:subj](): Vietnamese
 * [acl:tmod](): Vietnamese
 * [acl:tonp](): Vietnamese
@@ -31,8 +32,8 @@ This is an automatically generated list of relation subtypes that occur in the U
 ## advcl
 * [advcl:abs](): Latin
 * [advcl:cau](): Moksha
-* [advcl:cleft](): French, Naija
-* [advcl:cmp](): Ancient Greek, Erzya, Gothic, Latin, Old Church Slavonic, Old East Slavic
+* [advcl:cleft](): French, Haitian Creole, Naija
+* [advcl:cmp](): Ancient Greek, Erzya, Gothic, Italian, Latin, Old Church Slavonic, Old East Slavic
 * [advcl:cmpr](): Polish
 * [advcl:cond](): Tamil, Telugu, Uyghur
 * [advcl:coverb](): Cantonese
@@ -40,8 +41,8 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [advcl:lcl](): Komi Permyak, Komi Zyrian
 * [advcl:mcl](): Komi Permyak
 * [advcl:objective](): Vietnamese
-* [advcl:pred](): Latin, Ukrainian
-* [advcl:relcl](): Armenian, English, Latin, Nheengatu, Polish, Western Armenian
+* [advcl:pred](): Italian, Latin, Ukrainian
+* [advcl:relcl](): Armenian, English, Italian, Latin, Nheengatu, Polish, Western Armenian
 * [advcl:svc](): Ukrainian
 * [advcl:tcl](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Moksha, Romanian, Skolt Sami
 
@@ -61,18 +62,18 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [advmod:foc](): Erzya, Komi Zyrian, Moksha, Skolt Sami
 * [advmod:freq](): Komi Zyrian, Moksha
 * [advmod:lfrom](): Komi Zyrian
-* [advmod:lmod](): Apurina, Danish, Erzya, Komi Permyak, Komi Zyrian, Latin, Moksha, Skolt Sami
+* [advmod:lmod](): Apurina, Danish, Erzya, Georgian, Italian, Komi Permyak, Komi Zyrian, Latin, Moksha, Skolt Sami
 * [advmod:loc](): Hittite
 * [advmod:locy](): Hungarian
 * [advmod:lto](): Komi Zyrian
 * [advmod:mmod](): Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami
 * [advmod:mode](): Hungarian
-* [advmod:neg](): Apurina, Buryat, Kiche, Kurmanji, Latin, Maltese, Polish, Skolt Sami, Vietnamese, Western Sierra Puebla Nahuatl
+* [advmod:neg](): Apurina, Buryat, Italian, Kiche, Kurmanji, Latin, Maltese, Polish, Skolt Sami, Vietnamese, Western Sierra Puebla Nahuatl
 * [advmod:obl](): Old French
 * [advmod:que](): Hungarian
 * [advmod:tfrom](): Hungarian
 * [advmod:tlocy](): Hungarian
-* [advmod:tmod](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Latin, Moksha, Romanian, Skolt Sami
+* [advmod:tmod](): Apurina, Erzya, Italian, Komi Permyak, Komi Zyrian, Latin, Moksha, Romanian, Skolt Sami
 * [advmod:to](): Hungarian
 * [advmod:tto](): Hungarian
 
@@ -103,7 +104,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [aux:neg](): Chukchi, Erzya, Komi Permyak, Komi Zyrian, Maltese, Moksha, North Sami, Skolt Sami, Tamil
 * [aux:opt](): Erzya, Moksha
 * [aux:part](): Gheg, Maltese
-* [aux:pass](): Afrikaans, Ancient Greek, Arabic, Assyrian, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Chinese, Czech, Dutch, English, Faroese, Finnish, French, Frisian Dutch, Galician, German, Hindi, Italian, Kangri, Karelian, Latin, Latvian, Lithuanian, Low Saxon, Maltese, Marathi, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Scottish Gaelic, Sinhala, Slovak, Spanish, Swedish, Swiss German, Tamil, Thai, Turkish German, Upper Sorbian, Vietnamese
+* [aux:pass](): Afrikaans, Ancient Greek, Arabic, Assyrian, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Chinese, Czech, Dutch, English, Faroese, Finnish, French, Frisian Dutch, Galician, German, Hindi, Italian, Kangri, Karelian, Latin, Latvian, Lithuanian, Low Saxon, Macedonian, Maltese, Marathi, Middle French, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Scottish Gaelic, Sinhala, Slovak, Spanish, Swedish, Swiss German, Tamil, Thai, Turkish German, Upper Sorbian, Vietnamese
 * [aux:pot](): Komi Permyak, Komi Zyrian
 * [aux:q](): Erzya, Moksha, Turkish, Turkish German
 * [aux:tense](): French, Komi Zyrian, Skolt Sami
@@ -113,7 +114,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 ## case
 * [case:acc](): Hebrew
 * [case:adv](): Indonesian, Javanese
-* [case:det](): Maltese, Old French
+* [case:det](): Maltese, Middle French, Old French
 * [case:gen](): Hebrew
 * [case:loc](): Armenian, Cantonese, Chinese, Western Armenian
 * [case:pred](): Welsh
@@ -122,7 +123,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 
 ## cc
-* [cc:nc](): Old French
+* [cc:nc](): Middle French, Old French
 * [cc:preconj](): Arabic, Dutch, English, Erzya, Estonian, Faroese, Finnish, German, Indonesian, Komi Permyak, Komi Zyrian, Moksha, North Sami, Persian, Polish, Portuguese, Romanian, Skolt Sami, Slovenian, Spanish, Thai, Turkish, Zaar
 
 
@@ -133,8 +134,9 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [ccomp:obl](): Hungarian
 * [ccomp:pmod](): Romanian
 * [ccomp:pred](): Hungarian
-* [ccomp:relcl](): Latin
-* [ccomp:reported](): Latin
+* [ccomp:relcl](): Italian, Latin
+* [ccomp:reported](): Italian, Latin
+* [ccomp:speech](): Portuguese
 
 
 
@@ -158,9 +160,9 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [compound:pron](): Vietnamese
 * [compound:prt](): Afrikaans, Arabic, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Frisian Dutch, German, Icelandic, Irish, Karelian, Komi Permyak, Low Saxon, Naija, Old Irish, Persian, Sinhala, Spanish, Swedish, Swedish Sign Language, Swiss German, Tamil, Thai, Turkish German, Vietnamese, Wolof, Yoruba, Zaar
 * [compound:quant](): Cantonese
-* [compound:redup](): Armenian, Bambara, Cebuano, Classical Chinese, Erzya, Hindi, Kurmanji, Marathi, Naija, Tagalog, Tamil, Telugu, Turkish, Turkish German, Uyghur, Vietnamese, Welsh, Western Armenian, Zaar
+* [compound:redup](): Armenian, Bambara, Cebuano, Classical Armenian, Classical Chinese, Erzya, Hindi, Kurmanji, Marathi, Naija, Tagalog, Tamil, Telugu, Turkish, Turkish German, Uyghur, Vietnamese, Welsh, Western Armenian, Zaar
 * [compound:smixut](): Ancient Hebrew, Hebrew
-* [compound:svc](): Amharic, Armenian, Beja, Kyrgyz, Malayalam, Marathi, Mbya Guarani, Naija, Sinhala, Swedish Sign Language, Telugu, Ukrainian, Vietnamese, Western Armenian, Wolof, Yoruba
+* [compound:svc](): Amharic, Armenian, Beja, Chinese, Haitian Creole, Kyrgyz, Malayalam, Marathi, Mbya Guarani, Naija, Sinhala, Swedish Sign Language, Telugu, Ukrainian, Vietnamese, Western Armenian, Wolof, Yoruba
 * [compound:verbnoun](): Vietnamese
 * [compound:vmod](): Vietnamese
 * [compound:vo](): Cantonese, Chinese
@@ -187,11 +189,12 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 ## csubj
 * [csubj:asubj](): Vietnamese
+* [csubj:caus](): Classical Armenian
 * [csubj:cleft](): Irish, Latin, Manx, Scottish Gaelic
-* [csubj:cop](): Erzya, Estonian, Finnish, Irish, Komi Zyrian, Livvi, Manx, Moksha, Scottish Gaelic, Turkish
-* [csubj:outer](): Belarusian, Classical Chinese, Dutch, English, Hebrew, Japanese, Javanese, Latin, Naija, Norwegian, Russian, Scottish Gaelic, Swedish, Turkish
+* [csubj:cop](): Erzya, Estonian, Finnish, Irish, Komi Zyrian, Livvi, Manx, Moksha, Scottish Gaelic, Turkish, Veps
+* [csubj:outer](): Belarusian, Classical Armenian, Classical Chinese, Dutch, English, Hebrew, Japanese, Javanese, Latin, Naija, Norwegian, Portuguese, Russian, Scottish Gaelic, Swedish, Turkish, Wolof
 * [csubj:pass](): Albanian, Amharic, Ancient Greek, Arabic, Armenian, Belarusian, Bulgarian, Catalan, Chinese, Classical Chinese, Czech, English, French, German, Gothic, Greek, Hebrew, Indonesian, Italian, Javanese, Korean, Latin, Latvian, Lithuanian, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Slovak, Spanish, Swedish, Vietnamese, Western Armenian
-* [csubj:relcl](): Latin
+* [csubj:relcl](): Italian, Latin
 * [csubj:reported](): Latin
 * [csubj:vsubj](): Vietnamese
 
@@ -223,7 +226,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [det:numgov](): Croatian, Czech, Latin, Polish, Serbian, Slovak, Ukrainian, Upper Sorbian
 * [det:nummod](): Czech, Polish, Ukrainian
 * [det:pmod](): Vietnamese
-* [det:poss](): Akkadian, Armenian, German, Irish, Italian, Korean, Low Saxon, Polish, Portuguese, Sinhala, Western Armenian
+* [det:poss](): Akkadian, Armenian, Georgian, German, Irish, Italian, Korean, Low Saxon, Polish, Portuguese, Sinhala, Western Armenian
 * [det:predet](): English, Italian, Persian
 * [det:pron](): Albanian
 * [det:rel](): Bambara
@@ -232,7 +235,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 ## discourse
 * [discourse:conn](): Hittite
-* [discourse:emo](): Irish, Italian, Polish
+* [discourse:emo](): Irish, Italian
 * [discourse:filler](): Slovenian
 * [discourse:intj](): Polish
 * [discourse:q](): Turkish
@@ -245,6 +248,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [dislocated:ccomp](): Latin
 * [dislocated:cleft](): Mbya Guarani
 * [dislocated:csubj](): Latin
+* [dislocated:det](): Beja
 * [dislocated:nsubj](): Latin
 * [dislocated:obj](): Latin
 * [dislocated:obl](): Latin
@@ -255,9 +259,9 @@ This is an automatically generated list of relation subtypes that occur in the U
 ## expl
 * [expl:comp](): French
 * [expl:impers](): Italian, Ligurian, Polish, Portuguese, Romanian, Spanish
-* [expl:pass](): Catalan, Czech, French, Hittite, Italian, Latin, Portuguese, Romanian, Slovak, Spanish, Upper Sorbian
+* [expl:pass](): Catalan, Czech, French, Hittite, Italian, Portuguese, Romanian, Slovak, Spanish, Upper Sorbian
 * [expl:poss](): Romanian
-* [expl:pv](): Czech, Dutch, French, German, Gothic, Ligurian, Low Saxon, Maghrebi Arabic French, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Slovak, Spanish, Turkish German, Upper Sorbian
+* [expl:pv](): Czech, Dutch, French, German, Gothic, Italian, Ligurian, Low Saxon, Macedonian, Maghrebi Arabic French, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Slovak, Spanish, Turkish German, Upper Sorbian
 * [expl:subj](): French, Naija
 
 
@@ -266,14 +270,14 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [flat:abs](): Ukrainian
 * [flat:date](): Vietnamese
 * [flat:dist](): Armenian, Western Armenian
-* [flat:foreign](): Arabic, Belarusian, Buryat, Chinese, Chukchi, Classical Chinese, Croatian, Czech, English, Estonian, Faroese, Finnish, French, Galician, Icelandic, Indonesian, Irish, Italian, Javanese, Komi Zyrian, Latin, Latvian, Lithuanian, Manx, Naija, Norwegian, Old East Slavic, Old Irish, Persian, Polish, Portuguese, Russian, Scottish Gaelic, Slovak, Slovenian, South Levantine Arabic, Ukrainian, Upper Sorbian, Vietnamese, Zaar
+* [flat:foreign](): Arabic, Beja, Belarusian, Buryat, Chinese, Chukchi, Classical Chinese, Croatian, Czech, English, Estonian, Faroese, Finnish, French, Galician, Icelandic, Indonesian, Irish, Italian, Javanese, Komi Zyrian, Latin, Latvian, Lithuanian, Manx, Naija, Norwegian, Old East Slavic, Old Irish, Persian, Polish, Portuguese, Russian, Scottish Gaelic, Slovak, Slovenian, South Levantine Arabic, Ukrainian, Upper Sorbian, Vietnamese, Zaar
 * [flat:frac](): Western Armenian
 * [flat:gov](): Latin
-* [flat:name](): Ancient Greek, Ancient Hebrew, Armenian, Belarusian, Breton, Chinese, Chukchi, Erzya, Faroese, Finnish, French, Frisian Dutch, Galician, German, Gothic, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Latvian, Livvi, Maltese, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Portuguese, Russian, Scottish Gaelic, Skolt Sami, Slovenian, Spanish, Swedish, Thai, Ukrainian, Vietnamese, Welsh, Western Armenian, Xibe, Zaar
+* [flat:name](): Ancient Greek, Ancient Hebrew, Armenian, Belarusian, Breton, Chinese, Chukchi, Classical Armenian, Erzya, Faroese, Finnish, French, Frisian Dutch, Galician, Georgian, German, Gothic, Haitian Creole, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Javanese, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Latvian, Livvi, Maltese, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Portuguese, Russian, Scottish Gaelic, Skolt Sami, Slovenian, Spanish, Swedish, Thai, Ukrainian, Vietnamese, Welsh, Western Armenian, Xibe, Zaar
 * [flat:num](): Komi Zyrian, Persian
 * [flat:number](): Vietnamese
 * [flat:range](): Armenian, Ukrainian, Western Armenian
-* [flat:redup](): Vietnamese
+* [flat:redup](): Italian, Latin, Vietnamese
 * [flat:repeat](): Ukrainian
 * [flat:sibl](): Ukrainian
 * [flat:time](): Vietnamese
@@ -311,41 +315,42 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [nmod:bahuv](): Moksha
 * [nmod:cau](): Uyghur
 * [nmod:comp](): Turkish, Uyghur
+* [nmod:desc](): English
 * [nmod:det](): Hittite
 * [nmod:flat](): Polish
 * [nmod:gen](): Breton
 * [nmod:gobj](): Erzya, Finnish, Moksha
 * [nmod:gsubj](): Erzya, Finnish, Karelian
-* [nmod:lmod](): Erzya, Indonesian, Javanese, Komi Permyak, Komi Zyrian, Moksha
+* [nmod:lmod](): Erzya, Indonesian, Italian, Javanese, Komi Permyak, Komi Zyrian, Moksha
 * [nmod:npmod](): Armenian, English, Hebrew, Western Armenian
 * [nmod:obj](): Komi Zyrian
 * [nmod:obl](): Hungarian
 * [nmod:part](): Turkish, Uyghur
-* [nmod:poss](): Akkadian, Albanian, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Beja, Bengali, Breton, Chukchi, Danish, Dutch, English, Erzya, Faroese, Finnish, Frisian Dutch, German, Hebrew, Hindi, Icelandic, Indonesian, Irish, Javanese, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Kyrgyz, Latin, Livvi, Low Saxon, Malayalam, Maltese, Manx, Marathi, Moksha, Naija, Nayini, Nheengatu, North Sami, Norwegian, Old Irish, Persian, Polish, Sanskrit, Scottish Gaelic, Sinhala, Skolt Sami, Soi, South Levantine Arabic, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Vietnamese, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Zaar
+* [nmod:poss](): Akkadian, Albanian, Ancient Hebrew, Apurina, Arabic, Armenian, Assyrian, Bambara, Beja, Bengali, Breton, Chukchi, Danish, Dutch, English, Erzya, Faroese, Finnish, Frisian Dutch, German, Hebrew, Hindi, Icelandic, Indonesian, Irish, Javanese, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Kyrgyz, Latin, Livvi, Low Saxon, Macedonian, Malayalam, Maltese, Manx, Marathi, Moksha, Naija, Nayini, Nheengatu, North Sami, Norwegian, Old Irish, Persian, Polish, Sanskrit, Scottish Gaelic, Sinhala, Skolt Sami, Soi, South Levantine Arabic, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Vietnamese, Warlpiri, Welsh, Western Armenian, Wolof, Xibe, Zaar
 * [nmod:pre](): Old Irish
 * [nmod:pred](): Polish
 * [nmod:prp](): Komi Zyrian
 * [nmod:redup](): Welsh
 * [nmod:relat](): Chukchi
 * [nmod:subj](): Komi Zyrian
-* [nmod:tmod](): Chinese, English, Hebrew, Indonesian, Irish, Javanese, Moksha, Romanian, Sinhala, Telugu, Uyghur
+* [nmod:tmod](): Chinese, English, Hebrew, Indonesian, Irish, Javanese, Moksha, Romanian, Sinhala, Telugu, Turkish, Uyghur
 
 
 
 ## nsubj
 * [nsubj:advmod](): Old French
 * [nsubj:bfoc](): Tagalog
-* [nsubj:caus](): Armenian, French, Western Armenian
+* [nsubj:caus](): Armenian, Classical Armenian, French, Western Armenian
 * [nsubj:cleft](): Latin
-* [nsubj:cop](): Apurina, Breton, Erzya, Estonian, Finnish, Hebrew, Karelian, Komi Permyak, Komi Zyrian, Livvi, Moksha, Sanskrit, Skolt Sami, Turkish
+* [nsubj:cop](): Apurina, Breton, Erzya, Estonian, Finnish, Hebrew, Karelian, Komi Permyak, Komi Zyrian, Livvi, Moksha, Sanskrit, Skolt Sami, Turkish, Veps
 * [nsubj:ifoc](): Tagalog
 * [nsubj:lfoc](): Tagalog
 * [nsubj:lvc](): Hungarian
 * [nsubj:nc](): Persian, Tamil, Telugu
 * [nsubj:nn](): Vietnamese
 * [nsubj:obj](): Old French
-* [nsubj:outer](): Ancient Greek, Ancient Hebrew, Basque, Belarusian, Bulgarian, Catalan, Chinese, Classical Chinese, Danish, Dutch, English, Finnish, French, German, Gheg, Gothic, Greek, Hebrew, Irish, Italian, Japanese, Javanese, Latin, Lithuanian, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Old Irish, Russian, Scottish Gaelic, Spanish, Swedish, Turkish, Turkish German
-* [nsubj:pass](): Afrikaans, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bulgarian, Buryat, Cantonese, Catalan, Chinese, Classical Chinese, Czech, Dutch, English, Faroese, French, Frisian Dutch, Galician, German, Gothic, Greek, Hebrew, Hindi, Indonesian, Italian, Javanese, Korean, Latin, Latvian, Lithuanian, Low Saxon, Maltese, Marathi, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Skolt Sami, Slovak, Spanish, Swedish, Swiss German, Tagalog, Tamil, Thai, Turkish German, Upper Sorbian, Uyghur, Vietnamese, Western Armenian, Xibe
+* [nsubj:outer](): Ancient Greek, Ancient Hebrew, Basque, Belarusian, Bulgarian, Catalan, Chinese, Classical Chinese, Danish, Dutch, English, Finnish, French, German, Gheg, Gothic, Greek, Hebrew, Irish, Italian, Japanese, Javanese, Latin, Lithuanian, Naija, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Old Irish, Portuguese, Russian, Scottish Gaelic, Spanish, Swedish, Turkish, Turkish German
+* [nsubj:pass](): Afrikaans, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bengali, Bulgarian, Buryat, Cantonese, Catalan, Chinese, Classical Armenian, Classical Chinese, Czech, Dutch, English, Faroese, French, Frisian Dutch, Galician, Georgian, German, Gothic, Greek, Hebrew, Hindi, Indonesian, Italian, Javanese, Korean, Latin, Latvian, Lithuanian, Low Saxon, Macedonian, Maltese, Marathi, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Scottish Gaelic, Skolt Sami, Slovak, Spanish, Swedish, Swiss German, Tagalog, Tamil, Thai, Turkish, Turkish German, Upper Sorbian, Uyghur, Vietnamese, Western Armenian, Xibe
 * [nsubj:periph](): Cantonese
 * [nsubj:xsubj](): Vietnamese
 
@@ -376,25 +381,27 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [obl:about](): Vietnamese
 * [obl:adj](): Vietnamese
 * [obl:adv](): Vietnamese
-* [obl:advmod](): Old French
-* [obl:agent](): Ancient Greek, Armenian, Belarusian, Breton, Cantonese, Catalan, Chinese, Czech, Dutch, English, Erzya, French, German, Gothic, Greek, Hindi, Indonesian, Italian, Javanese, Komi Zyrian, Latin, Lithuanian, Low Saxon, Maltese, Moksha, Naija, Old Church Slavonic, Old East Slavic, Old Irish, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Spanish, Swedish, Tamil, Turkish, Vietnamese, Welsh, Western Armenian, Zaar
+* [obl:advmod](): Middle French, Old French
+* [obl:agent](): Ancient Greek, Armenian, Belarusian, Breton, Cantonese, Catalan, Chinese, Classical Armenian, Czech, Dutch, English, Erzya, French, German, Gothic, Greek, Hindi, Indonesian, Italian, Javanese, Komi Zyrian, Latin, Lithuanian, Low Saxon, Maltese, Moksha, Naija, Old Church Slavonic, Old East Slavic, Old Irish, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Spanish, Swedish, Tamil, Turkish, Vietnamese, Welsh, Western Armenian, Zaar
 * [obl:appl](): Wolof
-* [obl:arg](): Ancient Greek, Arabic, Beja, Catalan, Chinese, Czech, French, German, Gothic, Greek, Icelandic, Latin, Lithuanian, Maltese, Naija, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Sanskrit, Slovak, South Levantine Arabic, Spanish, Tamil, Zaar
+* [obl:arg](): Ancient Greek, Arabic, Beja, Catalan, Chinese, Czech, French, German, Gothic, Greek, Haitian Creole, Icelandic, Italian, Latin, Lithuanian, Maltese, Naija, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Sanskrit, Slovak, South Levantine Arabic, Spanish, Tamil, Zaar
 * [obl:cau](): Erzya, Komi Zyrian, Moksha, Telugu
 * [obl:cmp](): Erzya, Komi Zyrian, Latin, Moksha, Telugu
 * [obl:cmpr](): Polish, Tamil
 * [obl:comp](): Vietnamese
 * [obl:dat](): Kurmanji
+* [obl:depict](): Russian
+* [obl:float](): Russian
 * [obl:freq](): Moksha
 * [obl:inst](): Erzya, Moksha, Tamil
 * [obl:iobj](): Vietnamese
-* [obl:lmod](): Apurina, Classical Chinese, Danish, Erzya, Komi Permyak, Komi Zyrian, Latin, Moksha, Sinhala, Skolt Sami, Tamil, Xibe
+* [obl:lmod](): Apurina, Chinese, Classical Chinese, Danish, Erzya, Italian, Komi Permyak, Komi Zyrian, Latin, Moksha, Sinhala, Skolt Sami, Tamil, Xibe
 * [obl:lmp](): Komi Zyrian
 * [obl:lto](): Komi Zyrian
 * [obl:lvc](): Hungarian
 * [obl:mcl](): Komi Zyrian
-* [obl:mod](): Beja, French, Naija, Yupik
-* [obl:npmod](): Coptic, English, Hebrew
+* [obl:mod](): Beja, French, Haitian Creole, Naija, Yupik
+* [obl:npmod](): Ancient Hebrew, Coptic, English, Hebrew
 * [obl:obj](): Guarani
 * [obl:orphan](): Polish
 * [obl:own](): Erzya, Kazakh
@@ -402,6 +409,7 @@ This is an automatically generated list of relation subtypes that occur in the U
 * [obl:pmod](): Romanian, Tamil
 * [obl:poss](): Thai
 * [obl:prep](): Irish, Old Irish
+* [obl:pronmod](): Russian
 * [obl:sentcon](): Mbya Guarani
 * [obl:smod](): Scottish Gaelic
 * [obl:subj](): Guajajara, Guarani
@@ -417,12 +425,11 @@ This is an automatically generated list of relation subtypes that occur in the U
 
 ## parataxis
 * [parataxis:appos](): Italian
-* [parataxis:conj](): Naija
-* [parataxis:coord](): Beja
-* [parataxis:discourse](): Italian, Naija, Slovenian, Turkish German, Ukrainian
+* [parataxis:conj](): Beja, Naija
+* [parataxis:discourse](): Italian, Naija, Russian, Slovenian, Turkish German, Ukrainian
 * [parataxis:dislocated](): Naija
 * [parataxis:hashtag](): Irish, Italian
-* [parataxis:insert](): French, Italian, Polish
+* [parataxis:insert](): Beja, French, Haitian Creole, Italian, Polish
 * [parataxis:mod](): Beja, Naija
 * [parataxis:newsent](): Ukrainian
 * [parataxis:nsubj](): Italian

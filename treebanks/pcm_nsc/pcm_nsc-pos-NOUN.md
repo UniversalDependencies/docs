@@ -64,12 +64,12 @@ The 2nd highest number of forms (4) was observed with the lemma “gombody”: <
 
 The 3rd highest number of forms (4) was observed with the lemma “moder”: <em>moder, moders, mother, mothers</em>.
 
-`NOUN` occurs with 4 features: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (1905; 13% instances), <tt><a href="pcm_nsc-feat-NumType.html">NumType</a></tt> (13; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
+`NOUN` occurs with 5 features: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (1905; 13% instances), <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (81; 1% instances), <tt><a href="pcm_nsc-feat-NumType.html">NumType</a></tt> (13; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
 
-`NOUN` occurs with 4 feature-value pairs: `Case=Gen`, `NumType=Card`, `Number=Plur`, `PartType=Cop`
+`NOUN` occurs with 9 feature-value pairs: `Case=Gen`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=PROPN`, `ExtPos=SCONJ`, `ExtPos=VERB`, `NumType=Card`, `Number=Plur`, `PartType=Cop`
 
-`NOUN` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (12819 tokens).
+`NOUN` occurs with 12 feature combinations.
+The most frequent feature combination is `_` (12740 tokens).
 Examples: <em>one, money, ting, school, time, man, person, house, work, life</em>
 
 

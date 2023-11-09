@@ -19,10 +19,10 @@ The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="tr_imst-pos-PUNC
 
 
 * <em>?</em>
-  * <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> 231: <em>Yanaşan ı haklar ım anladınız mı <b>?</b></em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23: <em>- <b>?</b> edenmiş o ?</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Potaya <b>?</b> irerken arkadan gelen bir diğeri onları vurabilir .</em>
-  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 4: <em>Özer'lerin <b>?</b> ithatpaşa'daki bahçe içinde ki evinde ydik .</em>
+  * <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> 231: <em>Ömür Uzatma Kıraathanesi mi <b>?</b> diye sordu .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23: <em>Sen <b>?</b> eredesin diye sordum .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Yağma yok diye diklendi Memo , hepiniz havanızı <b>?</b> lırsınız .</em>
+  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 4: <em><b>?</b> ostakoviç'miş ! Tövbe yarabbi .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 2: <em>Sen <b>?</b> usevisin , değil mi Maryline .</em>
   * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 2: <em>İMKB ikibiniki yılını yüzde <b>?</b> irmibeş'lik kayıpla kapatırken dolar baz lı yıllık kayıp ise yüzde otuzbeş oldu .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em><b>?</b> imse kim ?</em>

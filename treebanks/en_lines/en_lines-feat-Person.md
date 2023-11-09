@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1993; 36% of non-empty `Person`): <em>I, my, we, me, us, our, myself, ourselves, 's</em>
 * `2` (103; 2% of non-empty `Person`): <em>your, yourself, itself</em>
 * `3` (3503; 63% of non-empty `Person`): <em>he, his, they, him, her, she, them, himself, its, themselves</em>
-* `EMPTY` (4031): <em>it, you, that, what, there, their, this, who, one, which</em>
+* `EMPTY` (3984): <em>it, you, that, what, there, their, this, who, one, which</em>
 
 <table>
   <tr><th>Paradigm <i>it</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `1` (917; 53% of non-empty `Person`): <em>was, am</em>
 * `3` (820; 47% of non-empty `Person`): <em>is, 's, has, does</em>
-* `EMPTY` (3442): <em>had, be, were, are, can, would, been, could, have, will</em>
+* `EMPTY` (3441): <em>had, be, were, are, can, would, been, could, have, will</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 * `1` (245; 27% of non-empty `Person`): <em>was, am</em>
 * `3` (650; 73% of non-empty `Person`): <em>is, 's, has, says, goes, makes, knows, means, contains, appears</em>
-* `EMPTY` (10201): <em>said, know, had, have, see, made, do, come, make, came</em>
+* `EMPTY` (10203): <em>said, know, had, have, see, made, do, come, make, came</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

@@ -8,62 +8,64 @@ udver: '2'
 
 This relation is universal.
 
-390 nodes (4%) are attached to their parents as `root`.
+3523 nodes (4%) are attached to their parents as `root`.
 
-390 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.43846153846154.
+3523 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.61935850127732.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (296; 76% instances), -<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (57; 15% instances), -<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (12; 3% instances), -<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), -<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (5; 1% instances), -<tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt> (4; 1% instances), -<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (3; 1% instances), -<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (2; 1% instances), -<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2643; 75% instances), -<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (572; 16% instances), -<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (134; 4% instances), -<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (86; 2% instances), -<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (55; 2% instances), -<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (9; 0% instances), -<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), -<tt><a href="orv_ruthenian-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 9 root	color:blue
-1	А	а	CCONJ	CC	_	9	cc	_	_
-2	естли	естли	SCONJ	IN	_	4	mark	_	_
-3	не	не	PART	NEG	Polarity=Neg	4	advmod	_	_
-4	справедъливе	справедливе	ADV	VBC	Degree=Pos	9	advcl	_	_
-5	-	-	PUNCT	PUNCT	_	4	punct	_	_
-6	боже	богъ	NOUN	VBC	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	6	punct	_	_
-8	ме	я	PRON	PRP	Case=Acc|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	obj	_	_
-9	убий	убити	VERB	VBC	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-10	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	9	punct	_	SpacesAfter=\r\n
+# visual-style 0 12 root	color:blue
+1	Ино	ино	CCONJ	СС	_	12	cc	_	wf="Ино"|SpaceAfter=No
+2	,	,	PUNCT	-COMMA-	_	3	punct	_	_
+3	дѣи	деи	PART	RP	_	12	discourse	_	wf="дѣи"|SpaceAfter=No
+4	,	,	PUNCT	-COMMA-	_	3	punct	_	_
+5	кн(ѧ)зь	князь	NOUN	NNA	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	wf="кнѧзь"
+6	мештерь	мештеръ	NOUN	NNA	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	wf="мештерь"|SpaceAfter=No
+7	,	,	PUNCT	-COMMA-	_	8	punct	_	_
+8	поимавъ	поимати	VERB	VBG	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	12	advcl	_	wf="поимавъ"
+9	их	они	PRON	PRP	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	obj	_	wf="их"|SpaceAfter=No
+10	,	,	PUNCT	-COMMA-	_	8	punct	_	_
+11	а	а	CCONJ	СС	_	12	cc	_	wf="а"
+12	держит(ь)	держати	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="держить"
+13	по	по	ADP	IN	_	14	case	_	wf="по"
+14	городом	городъ	NOUN	NNI	Case=Dat|Gender=Masc|Number=Plur	12	obl	_	wf="городом"|SpaceAfter=No
+15	.	.	PUNCT	-PERIOD-	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	АРТЫКУЛЪ	артыкулъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	1	1	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	1	amod	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n\r\n
+# visual-style 0 3 root	color:blue
+1	Ко	къ	ADP	IN	_	3	case	_	wf="Ко"
+2	всем	весь	DET	DT	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	3	det	_	wf="всем"
+3	ратьманомъ	ратманъ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Plur	0	root	_	wf="ратьманомъ"
+4	и	и	CCONJ	СС	_	5	cc	_	wf="и"
+5	местицемъ	местичъ	NOUN	NNA	Case=Dat|Gender=Masc|Number=Plur	3	conj	_	wf="местицемъ"
+6	ризькимъ	рижский	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	wf="ризькимъ"
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 7 root	color:blue
-1	А	а	CCONJ	_	_	7	cc	_	wf="А"
-2	воли	воля	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	wf="воли"
-3	есми	быти	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	wf="есми"
-4	Б(о)жии	божий	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	wf="Божии"
-5	и	и	PART	_	_	7	advmod	_	wf="и"
-6	въ	въ	ADP	_	_	7	case	_	wf="въ"
-7	Молшелгове	Молшелговъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	wf="Молшелгове"|SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 0 2 root	color:blue
+1	ꙋ	въ	ADP	IN	_	2	case	_	wf="ꙋ"
+2	Полоцку	Полоцкъ	PROPN	NPI	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	wf="Полоцку"|SpaceAfter=No
+3	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
 
 ~~~
 

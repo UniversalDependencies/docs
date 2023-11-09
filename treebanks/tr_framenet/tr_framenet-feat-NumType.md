@@ -33,7 +33,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-NUM
 
 * `Card` (3; 38% of non-empty `NumType`): <em>kaç, kaçan</em>
 * `Dist` (5; 63% of non-empty `NumType`): <em>onar, birer</em>
-* `EMPTY` (1499): <em>bütün, yeni, çok, büyük, küçük, güzel, iyi, uzun, kötü, eski</em>
+* `EMPTY` (1501): <em>bütün, yeni, çok, büyük, küçük, güzel, iyi, uzun, kötü, eski</em>
 
 ## Relations with Agreement in `NumType`
 

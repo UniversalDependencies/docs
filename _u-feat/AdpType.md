@@ -45,4 +45,4 @@ has to be changed in some contexts to facilitate pronunciation.
 
 Same phenomenon exists in Slovak, Russian and probably elsewhere.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:31 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:34 CET -->

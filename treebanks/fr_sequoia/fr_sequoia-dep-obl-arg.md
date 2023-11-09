@@ -49,7 +49,7 @@ The following 28 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	été	être	AUX	_	Tense=Past|VerbForm=Part	4	aux:pass	_	_
 4	étudié	étudier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 5	chez	chez	ADP	_	_	6	case	_	_
-6	plus	plus	ADV	_	_	4	obl:mod	_	ExtPos=PRON
+6	plus	plus	ADV	_	ExtPos=PRON	4	obl:mod	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	20 000	20 000	DET	_	_	9	det	_	_
 9	patients	patient	NOUN	_	Gender=Masc|Number=Plur	6	obl:arg	_	SpaceAfter=No

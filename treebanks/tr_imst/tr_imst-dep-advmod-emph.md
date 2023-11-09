@@ -17,59 +17,50 @@ The following 27 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 advmod:emph	color:blue
-1	Ama	ama	CCONJ	Conj	_	3	ccomp	_	SpaceAfter=No
-2	,	,	PUNCT	Punc	_	1	punct	_	_
-3	dedim	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	Punc	_	3	punct	_	_
-5	ben	ben	PRON	Pers	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-6	ne	ne	CCONJ	Conj	_	8	cc	_	_
-7	şiir	şiir	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	obj	_	_
-8	okuyabilirim	oku	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	1	conj	_	SpaceAfter=No
-9	,	,	PUNCT	Punc	_	12	punct	_	_
-10	ne	ne	CCONJ	Conj	_	12	cc	_	_
-11	de	de	CCONJ	Conj	_	12	advmod:emph	_	_
-12	şarkı	şarkı	NOUN	Noun	Case=Nom|Number=Sing|Person=3	1	conj	_	SpaceAfter=No
-13	.	.	PUNCT	Punc	_	12	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 advmod:emph	color:blue
-1	Sakın	sakın	INTJ	Interj	_	6	discourse	_	_
-2	ha	ha	INTJ	Interj	_	6	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	Punc	_	6	punct	_	_
-4	sana	sen	PRON	Pers	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
-5	da	da	CCONJ	Conj	_	4	advmod:emph	_	_
-6	musallat	musallat	ADJ	Adj	_	0	root	_	_
-7	olur	ol	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	6	compound:lvc	_	SpaceAfter=No
-8	.	.	PUNCT	Punc	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 advmod:emph	color:blue
-1	Belli	belli	ADP	Adj	_	6	cc	_	_
-2	ki	ki	CCONJ	Conj	_	6	advmod:emph	_	_
-3	onların	o	PRON	Pers	Case=Gen|Number=Plur|Person=3|PronType=Prs	4	nmod:poss	_	_
-4	hevesini	heves	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	obj	_	_
-5	kırmak	kır	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	4	compound	_	_
-6	istemiyordu	iste	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Polite=Infm|Tense=Past	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod:emph	color:blue
+1	Bardak	bardak	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	obj	_	_
+2	da	da	CCONJ	Conj	_	1	advmod:emph	_	_
+3	getir	getir	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	5	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	3	punct	_	_
+5	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+6	Hacı	hacı	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	nmod	_	_
+7	Murat	Murat	PROPN	Prop	Case=Nom|Number=Sing|Person=3	5	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	Punc	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 advmod:emph	color:blue
+1	?	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3	0	root	_	_
+2	eydi	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	1	cop	_	_
+3	ki	ki	CCONJ	Conj	_	1	advmod:emph	_	_
+4	onlar	o	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	1	nsubj	_	SpaceAfter=No
+5	?	?	PUNCT	Punc	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 advmod:emph	color:blue
+1	Öyle	öyle	ADV	Adverb	_	2	advmod	_	_
+2	kolay	kolay	ADJ	Adj	_	3	advmod	_	_
+3	gelmez	gel	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	_
+4	ki	ki	CCONJ	Conj	_	3	advmod:emph	_	_
+5	o	o	PRON	Pers	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParisStories: POS Tags: `PROPN`
 
-There are 227 `PROPN` lemmas (9%), 228 `PROPN` types (6%) and 420 `PROPN` tokens (1%).
+There are 227 `PROPN` lemmas (9%), 228 `PROPN` types (7%) and 420 `PROPN` tokens (1%).
 Out of 15 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Paris, CROUS, Z, Agen, Anglais, Ecosse, CP, sanga, Athis, France</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Y</em> (<tt><a href="fr_parisstories-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.004405 (the average of all parts of speech is 1.324273).
+The form / lemma ratio of `PROPN` is 1.004405 (the average of all parts of speech is 1.329287).
 
 The 1st highest number of forms (2) was observed with the lemma “Alpes”: <em>-Alpes, Alpes</em>.
 
@@ -52,7 +52,7 @@ Examples: <em>Paris, CROUS, Z, Agen, Ecosse, CP, Sanga, Athis, France, Liège</e
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 20 different relations: <tt><a href="fr_parisstories-dep-nmod.html">nmod</a></tt> (114; 27% instances), <tt><a href="fr_parisstories-dep-obl-mod.html">obl:mod</a></tt> (58; 14% instances), <tt><a href="fr_parisstories-dep-obj.html">obj</a></tt> (50; 12% instances), <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt> (49; 12% instances), <tt><a href="fr_parisstories-dep-flat-name.html">flat:name</a></tt> (28; 7% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (26; 6% instances), <tt><a href="fr_parisstories-dep-dislocated.html">dislocated</a></tt> (25; 6% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (15; 4% instances), <tt><a href="fr_parisstories-dep-appos.html">appos</a></tt> (12; 3% instances), <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt> (12; 3% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-dep-nmod-appos.html">nmod:appos</a></tt> (4; 1% instances), <tt><a href="fr_parisstories-dep-vocative.html">vocative</a></tt> (4; 1% instances), <tt><a href="fr_parisstories-dep-compound.html">compound</a></tt> (3; 1% instances), <tt><a href="fr_parisstories-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 19 different relations: <tt><a href="fr_parisstories-dep-nmod.html">nmod</a></tt> (114; 27% instances), <tt><a href="fr_parisstories-dep-obl-mod.html">obl:mod</a></tt> (58; 14% instances), <tt><a href="fr_parisstories-dep-obj.html">obj</a></tt> (50; 12% instances), <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt> (49; 12% instances), <tt><a href="fr_parisstories-dep-flat-name.html">flat:name</a></tt> (28; 7% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (26; 6% instances), <tt><a href="fr_parisstories-dep-dislocated.html">dislocated</a></tt> (25; 6% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (15; 4% instances), <tt><a href="fr_parisstories-dep-appos.html">appos</a></tt> (13; 3% instances), <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt> (12; 3% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-dep-nmod-appos.html">nmod:appos</a></tt> (4; 1% instances), <tt><a href="fr_parisstories-dep-vocative.html">vocative</a></tt> (4; 1% instances), <tt><a href="fr_parisstories-dep-compound.html">compound</a></tt> (3; 1% instances), <tt><a href="fr_parisstories-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (1; 0% instances)
 
 Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (172; 41% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (116; 28% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (68; 16% instances),  (26; 6% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 

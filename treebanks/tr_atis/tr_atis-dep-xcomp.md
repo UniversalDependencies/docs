@@ -45,7 +45,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	Boston'a	boston	PROPN	_	Case=Dat|Number=Sing	3	obl	_	_
 3	gitmek	git	NOUN	_	Case=Nom|Number=Sing|Person=3	7	xcomp	_	_
 4	için	için	ADP	_	_	3	mark	_	_
-5	günün	gün	NOUN	_	Case=Gen|Number=Sing|Person=3	7	nmod	_	_
+5	günün	gün	NOUN	_	Case=Gen|Number=Sing|Person=3	7	nmod:poss	_	_
 6	son	son	ADJ	_	_	7	amod	_	_
 7	uçuşu	uç	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nsubj	_	_
 8	nedir	ne	VERB	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -60,10 +60,10 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 4 xcomp	color:blue
 1	Salı	salı	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
-2	günü	gün	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nmod	_	_
+2	günü	gün	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	nmod:tmod	_	_
 3	Dallas'a	dallas	PROPN	_	Case=Dat|Number=Sing	4	obl	_	_
 4	gitmek	git	NOUN	_	Case=Nom|Number=Sing|Person=3	7	xcomp	_	_
-5	üzere	üzere	ADP	_	_	4	fixed	_	_
+5	üzere	üzere	ADP	_	_	4	case	_	_
 6	Baltimore'den	baltimore	PROPN	_	Case=Abl|Number=Sing	7	obl	_	_
 7	kalkan	kalk	ADJ	_	_	8	acl	_	_
 8	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nmod	_	_

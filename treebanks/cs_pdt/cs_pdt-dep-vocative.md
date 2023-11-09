@@ -11,9 +11,9 @@ This relation is universal.
 25 nodes (0%) are attached to their parents as `vocative`.
 
 19 instances of `vocative` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.36.
+Average distance between parent and child is 4.44.
 
-The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (14; 56% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (5; 20% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (14; 56% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (5; 20% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -63,36 +63,31 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 vocative	color:blue
-1	Pane	pan	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	2:nmod	Entity=(ln9420736c36--2-gstype:spec|Functor=2:RSTR
-2	doktore	doktor	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	6	vocative	6:vocative	Entity=ln9420736c36)|Functor=6:VOCAT|SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
-4	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	5:case	Entity=(ln9420736c37--2-gstype:gen|LId=po-1
-5	úrazu	úraz	NOUN	NNIS6-----A---1	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	6:obl:po:loc	Entity=ln9420736c37)|Functor=6:TWHEN
-6	je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
-7	větší	velký	ADJ	AANS1----2A----	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|Polarity=Pos	8	amod	8:amod	Functor=8:RSTR
-8	procento	procento	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	6	nsubj	6:nsubj	Functor=6:PAT
-9	těch	ten	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	8	det	8:det|12:nsubj	Entity=(ln9420736c38--1|Functor=8:ACT|SpaceAfter=No
-10	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
-11	kteří	který	DET	P4MP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	12	nsubj	9:ref	Bridge=ln9420736c44<ln9420736c38:subset|Entity=(ln9420736c38--1)|Functor=12:ACT
-12	zažívají	zažívat	VERB	VB-P---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl:relcl	9:acl:relcl	LDeriv=zažít|Functor=9:RSTR
-13	trauma	trauma	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	12	obj	12:obj	Entity=ln9420736c38)|Functor=12:PAT|SpaceAfter=No
-14	,	,	PUNCT	Z:-------------	_	16	punct	16:punct	_
-15	nebo	nebo	CCONJ	J^-------------	_	16	cc	16:cc	Functor=16:DISJ
-16	těch	ten	DET	PDXP2----------	Case=Gen|Number=Plur|PronType=Dem	9	conj	8:det|9:conj|20:nsubj|24:nsubj:xsubj	Entity=(ln9420736c39--1|Functor=9:ACT,24:ACT|SpaceAfter=No
-17	,	,	PUNCT	Z:-------------	_	20	punct	20:punct	_
-18	kteří	který	DET	P4MP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	20	nsubj	16:ref	Entity=(ln9420736c39--1)|Functor=20:ACT
-19	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	24	expl:pv	24:expl:pv	Entity=(ln9420736c42[1/2]--4-gstype:gen)|LGloss=(zvr._zájmeno/částice)
-20	dokáží	dokázat	VERB	VB-P---3P-AAP-1	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	16:acl:relcl	Functor=16:RSTR
-21	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	23	case	23:case	Entity=(ln9420736c42[2/2]--4-gstype:gen|LId=v-1
-22	jiných	jiný	ADJ	AAFP6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	23	amod	23:amod	Functor=23:RSTR
-23	rovinách	rovina	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	20	obl	20:obl:v:loc	Functor=20:LOC
-24	vrátit	vrátit	VERB	Vf--------A-P--	Aspect=Perf|Polarity=Pos|VerbForm=Inf	20	xcomp	20:xcomp	Functor=20:PAT
-25	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	26	case	26:case	Entity=(ln9420736c40--2|LId=do-1
-26	života	život	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	24	obl	24:obl:do:gen	Entity=ln9420736c40)ln9420736c42[2/2])ln9420736c39)|Functor=24:DIR3|SpaceAfter=No
-27	?	?	PUNCT	Z:-------------	_	6	punct	6:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 vocative	color:blue
+1	Vážení	vážený	ADJ	AAMP5----1A----	Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	2	amod	2:amod	Entity=(ln94210111c2--2-gstype:gen|Functor=2:RSTR|LDeriv=vážit
+2	čtenáři	čtenář	NOUN	NNMP5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Plur|Polarity=Pos	7	vocative	7:vocative	Entity=ln94210111c2)|Functor=7:VOCAT|SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
+4	je	být	AUX	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	Functor=7:PRED
+5	tomu	ten	DET	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	nsubj	7:nsubj	Functor=7:ACT.cop
+6	právě	právě	ADV	Db-------------	_	7	advmod	7:advmod	LId=právě-1|Functor=7:RHEM
+7	rok	rok	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root|12:obl	Entity=(ln94210111c1--1-gstype:spec|Functor=0:THL|SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
+9	kdy	kdy	ADV	Db-------------	PronType=Int,Rel	12	advmod	7:ref	Entity=(ln94210111c1--1-gstype:spec)|Functor=12:TWHEN
+10	jsme	být	AUX	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	12:aux	_
+11	vám	vy	PRON	PP-P3--2-------	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	obl:arg	12:obl:arg:dat	Entity=(ln94210111c2--1-ClusterTypeMismatch:spec:gen:2,gstype:gen)|Functor=12:ADDR
+12	oznamovali	oznamovat	VERB	VpMP----R-AAI--	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	acl:relcl	7:acl:relcl	Functor=7:RSTR
+13	nepopulární	populární	ADJ	AAFS4----1N----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg	14	amod	14:amod	Functor=14:RSTR
+14	informaci	informace	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	12	obj	12:obj	SpaceAfter=No|Functor=12:EFF
+15	,	,	PUNCT	Z:-------------	_	21	punct	21:punct	_
+16	že	že	SCONJ	J,-------------	_	21	mark	21:mark	LId=že-1
+17	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	21	expl:pass	21:expl:pass	LGloss=(zvr._zájmeno/částice)
+18	cena	cena	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	21	nsubj:pass	21:nsubj:pass	Entity=(ln94210111c4--1-gstype:spec|Functor=21:PAT
+19	našich	náš	DET	PSXP2-P1-------	Case=Gen|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	20	det	20:det	Bridge=ln94210111c6<ln94210111c3:subset|Entity=(ln94210111c5--2-gstype:gen(ln94210111c3--1-gstype:spec)|Functor=20:APP
+20	novin	noviny	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	18	nmod	18:nmod:gen	Entity=ln94210111c5)ln94210111c4)|Functor=18:PAT|LGloss=(tisk)
+21	zvyšuje	zvyšovat	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	14:acl:že	Entity=ln94210111c1)|Functor=14:PAT|SpaceAfter=No
+22	.	.	PUNCT	Z:-------------	_	7	punct	7:punct	_
 
 ~~~
 

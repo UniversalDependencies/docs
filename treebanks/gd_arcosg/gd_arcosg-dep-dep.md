@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 dep	color:blue
-1	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	2	mark:prt	_	_
+1	nach	nach	PART	Qn	PartType=Vb|Polarity=Neg	2	mark:prt	_	_
 2	eil	bi	VERB	V-p--d	Tense=Pres	0	root	_	_
 3	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	2	nsubj	_	Anonymised=Yes
 4	[?]	[?]	X	Xx	_	3	dep	_	_

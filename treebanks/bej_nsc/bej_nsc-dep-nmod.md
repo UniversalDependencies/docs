@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="bej_nsc-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-16 nodes (2%) are attached to their parents as `nmod`.
+25 nodes (2%) are attached to their parents as `nmod`.
 
-11 instances of `nmod` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.1875.
+13 instances of `nmod` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.28.
 
-The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (11; 69% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (12; 48% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> (4; 16% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (3; 12% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-X.html">X</a></tt> (1; 4% instances), <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -23,19 +23,44 @@ The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 nmod	color:blue
-1	winneːt	_	ADV	ADV	_	3	advmod	_	AlignBegin=68424|AlignEnd=68690|GE=plenty|Gloss=plenty|RX=[ADV]|TokenType=Stem
+1	winneːt	_	ADV	ADV	_	3	advmod	_	AlignBegin=68424|AlignEnd=68690|GE=plenty|Gloss=plenty|RX=[ADV]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=68690|AlignEnd=69484|TokenType=Break
-3	naʃʃalama	_	ADJ	ADJ	_	4	amod	_	AlignBegin=69484|AlignEnd=69874|GE=athletic-[PL]|Gloss=athletic|MGloss=athletic-PL|MSeg=naʃʃalam-a|RX=[ADJ]|TokenType=Stem
-4	kam	_	NOUN	N	Number=Plur	12	obj	_	AlignBegin=69874|AlignEnd=70265|GE=camel\[PL]|Gloss=camel|RX=[N]|TokenType=Stem
+3	naʃʃalama	_	ADJ	ADJ	_	4	amod	_	AlignBegin=69484|AlignEnd=69874|GE=athletic-[PL]|Gloss=athletic|MGloss=athletic-PL|MSeg=naʃʃalam-a|RX=[ADJ]|TokenType=Root
+4	kam	_	NOUN	N	Number=Plur	12	obj	_	AlignBegin=69874|AlignEnd=70265|GE=camel\[PL]|Gloss=camel|RX=[N]|TokenType=Root
 5	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=70265|AlignEnd=71814|TokenType=Break
 6	aː#	_	X	FS	_	8	dep	_	AlignBegin=71814|AlignEnd=72145|GE=[FS]|RX=[FS]|TokenType=Unfinished
 7	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	6	reparandum	_	AlignBegin=72145|AlignEnd=72311|GE=[DEF].[PL].[M].[ACC]=|RX=[DET]=|TokenType=Clit
-8	kina	_	PRON	PRO	Reflex=Yes	9	nmod	_	AlignBegin=72311|AlignEnd=72477|GE=owner|Gloss=owner|RX=[PRO].[REFL]|TokenType=Stem
-9	mittia	_	NOUN	N	Number=Plur	4	nmod	_	AlignBegin=72477|AlignEnd=72698|GE=pure_breed-[PL]|Gloss=pure_breed|MGloss=pure_breed-PL|MSeg=mitti-a|RX=[N]|TokenType=Stem
+8	kina	_	PRON	PRO	Reflex=Yes	9	nmod	_	AlignBegin=72311|AlignEnd=72477|GE=owner|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
+9	mittia	_	NOUN	N	Number=Plur	4	nmod	_	AlignBegin=72477|AlignEnd=72698|GE=pure_breed-[PL]|Gloss=pure_breed|MGloss=pure_breed-PL|MSeg=mitti-a|RX=[N]|TokenType=Root
 10	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	9	det	_	AlignBegin=72698|AlignEnd=72809|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
 11	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=72809|AlignEnd=73141|TokenType=Break
-12	iːbirin	_	VERB	V1,IRG	Aspect=Aor|Number=Plur|VerbClass=1	0	root	_	AlignBegin=73141|AlignEnd=73388|GE=[3]-have\[AOR]-[PL]|Gloss=have|MGloss=3-have\AOR-PL|MSeg=iː-biri-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Stem
+12	iːbirin	_	VERB	V1,IRG	Aspect=Aor|Number=Plur|VerbClass=1	0	root	_	AlignBegin=73141|AlignEnd=73388|GE=[3]-have\[AOR]-[PL]|Gloss=have|MGloss=3-have\AOR-PL|MSeg=iː-biri-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
 13	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=73388|AlignEnd=73636|TokenType=Break
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 nmod	color:blue
+1	sagi	_	ADJ	ADJ	_	2	amod	_	AlignBegin=36708|AlignEnd=36929|GE=far|nWord=1|RX=[ADJ]|TokenType=Root
+2	mhiːn	_	NOUN	N	Gender=Masc	12	obl:arg	_	AlignBegin=36929|AlignEnd=37150|GE=place|nWord=2|RX=[N].[M]|TokenType=Root
+3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=37150|AlignEnd=37372|GE=[/]|nWord=3|TokenType=Break
+4	ti=	_	DET	DET	Definite=Def|Gender=Fem	5	det	_	AlignBegin=37372|AlignEnd=37491|GE=[DEF].[F]|nWord=4|RX=[DET]|TokenType=Clit
+5	ʃartijaː	_	NOUN	N	Gender=Fem	12	obj	_	AlignBegin=37491|AlignEnd=37728|GE=line[PL]|MGloss=line[PL]|MSeg=ʃarti-jaː|nWord=4|RX=[N].[F]|TokenType=Root
+6	mhaj	_	NUM	NUM	_	5	nmod	_	AlignBegin=37728|AlignEnd=37906|GE=three|nWord=5|RX=[NUM]|TokenType=Root
+7	=t	_	DET	DET	Gender=Fem	6	det	_	AlignBegin=37906|AlignEnd=38084|GE=[INDF].[F]|nWord=5|RX=[DET]|TokenType=Clit
+8	koː	_	ADJ	ADJ	_	6	nmod	_	AlignBegin=38084|AlignEnd=38203|GE=all|nWord=6|RX=[ADJ]|TokenType=Root
+9	=t	_	DET	DET	Gender=Fem	8	det	_	AlignBegin=38203|AlignEnd=38322|GE=[INDF].[F]|nWord=6|RX=[DET]|TokenType=Clit
+10	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	8	dep:comp	_	AlignBegin=38322|AlignEnd=38440|GE=[POSS].[3PL].[ACC]|nWord=6|RX=[PRO]|TokenType=Clit
+11	/	_	PUNCT	_	_	5	punct	_	AlignBegin=38440|AlignEnd=38795|GE=[/]|nWord=7|TokenType=Break
+12	idʔi	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=38795|AlignEnd=39082|GE=[3SG].[M]do|MGloss=[3SG].[M]do|MSeg=i-dʔi|nWord=8|RX=[PNG][V1].[IRG]|TokenType=Root
+13	ihi	_	AUX	AUX.BENF	Gender=Masc|Number=Sing	12	aux	_	AlignBegin=39082|AlignEnd=39274|GE=[3SG].[M]give|MGloss=[3SG].[M]give|MSeg=i-hi|nWord=9|RX=[PNG][AUX].[BENF]|TokenType=Root
+14	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	12	obj	_	AlignBegin=39274|AlignEnd=39369|GE=[OBJ].[1SG]|nWord=9|RX=[PRO]|TokenType=Clit
+15	/	_	PUNCT	_	_	14	punct	_	AlignBegin=39369|AlignEnd=39655|GE=[/]|nWord=10|TokenType=Break
 
 ~~~
 
@@ -46,38 +71,15 @@ The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nmod	color:blue
-1	əəə	_	INTJ	HESIT	_	7	discourse	_	AlignBegin=16164|AlignEnd=16399|GE=er|Gloss=er|RX=[HESIT]|TokenType=Stem
-2	dabaloː	_	ADJ	ADJ	_	4	nmod	_	AlignBegin=16399|AlignEnd=16516|GE=small|Gloss=small|RX=[ADJ]|TokenType=Stem
+1	əəə	_	INTJ	HESIT	_	7	discourse	_	AlignBegin=16164|AlignEnd=16399|GE=er|Gloss=er|RX=[HESIT]|TokenType=Root
+2	dabaloː	_	ADJ	ADJ	_	4	nmod	_	AlignBegin=16399|AlignEnd=16516|GE=small|Gloss=small|RX=[ADJ]|TokenType=Root
 3	=t	_	DET	DET	Definite=Ind|Gender=Fem	2	det	_	AlignBegin=16516|AlignEnd=16634|GE==[INDF].[F]|RX==[DET]|TokenType=Clit
-4	ʔoːr	_	NOUN	N	_	7	nsubj	_	AlignBegin=16634|AlignEnd=16869|GE=child|Gloss=child|RX=[SBJ].[N]|TokenType=Stem
-5	geːb	_	ADP	POSTP	_	7	obl:arg	_	AlignBegin=16869|AlignEnd=17104|GE=beside|Gloss=beside|RX=[POSTP]|TokenType=Stem
+4	ʔoːr	_	NOUN	N	_	7	nsubj	_	AlignBegin=16634|AlignEnd=16869|GE=child|Gloss=child|RX=[SBJ].[N]|TokenType=Root
+5	geːb	_	ADP	POSTP	_	7	obl:arg	_	AlignBegin=16869|AlignEnd=17104|GE=beside|Gloss=beside|RX=[POSTP]|TokenType=Root
 6	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=17104|AlignEnd=17339|TokenType=Break
-7	tiːfi	_	VERB	V1,IRG	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=17339|AlignEnd=17475|GE=[3SG].[F]-be_there\[AOR]|Gloss=be_there|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Stem
+7	tiːfi	_	VERB	V1,IRG	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=17339|AlignEnd=17475|GE=[3SG].[F]-be_there\[AOR]|Gloss=be_there|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 8	=aj	_	SCONJ	CONJ	_	7	mark	_	AlignBegin=17475|AlignEnd=17543|GE==[CSL]|RX==[CONJ]|TokenType=Clit
 9	//	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=17543|AlignEnd=19067|TokenType=Break
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nmod	color:blue
-1	winneːt	_	ADV	ADV	_	3	advmod	_	AlignBegin=68424|AlignEnd=68690|GE=plenty|Gloss=plenty|RX=[ADV]|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=68690|AlignEnd=69484|TokenType=Break
-3	naʃʃalama	_	ADJ	ADJ	_	4	amod	_	AlignBegin=69484|AlignEnd=69874|GE=athletic-[PL]|Gloss=athletic|MGloss=athletic-PL|MSeg=naʃʃalam-a|RX=[ADJ]|TokenType=Stem
-4	kam	_	NOUN	N	Number=Plur	12	obj	_	AlignBegin=69874|AlignEnd=70265|GE=camel\[PL]|Gloss=camel|RX=[N]|TokenType=Stem
-5	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=70265|AlignEnd=71814|TokenType=Break
-6	aː#	_	X	FS	_	8	dep	_	AlignBegin=71814|AlignEnd=72145|GE=[FS]|RX=[FS]|TokenType=Unfinished
-7	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	6	reparandum	_	AlignBegin=72145|AlignEnd=72311|GE=[DEF].[PL].[M].[ACC]=|RX=[DET]=|TokenType=Clit
-8	kina	_	PRON	PRO	Reflex=Yes	9	nmod	_	AlignBegin=72311|AlignEnd=72477|GE=owner|Gloss=owner|RX=[PRO].[REFL]|TokenType=Stem
-9	mittia	_	NOUN	N	Number=Plur	4	nmod	_	AlignBegin=72477|AlignEnd=72698|GE=pure_breed-[PL]|Gloss=pure_breed|MGloss=pure_breed-PL|MSeg=mitti-a|RX=[N]|TokenType=Stem
-10	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	9	det	_	AlignBegin=72698|AlignEnd=72809|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
-11	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=72809|AlignEnd=73141|TokenType=Break
-12	iːbirin	_	VERB	V1,IRG	Aspect=Aor|Number=Plur|VerbClass=1	0	root	_	AlignBegin=73141|AlignEnd=73388|GE=[3]-have\[AOR]-[PL]|Gloss=have|MGloss=3-have\AOR-PL|MSeg=iː-biri-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Stem
-13	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=73388|AlignEnd=73636|TokenType=Break
 
 ~~~
 

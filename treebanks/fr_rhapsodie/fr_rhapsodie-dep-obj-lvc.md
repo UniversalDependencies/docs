@@ -22,13 +22,13 @@ The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 obj:lvc	color:blue
-1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Overlap=Rhap_D0006-5
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Overlap=Rhap_D0006-5
 2	n'	ne	ADV	_	Polarity=Neg	3	advmod	_	Overlap=Rhap_D0006-5|SpaceAfter=No
 3	avez	avoir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D0006-5
 4	pas	pas	ADV	_	Polarity=Neg	3	advmod	_	_
 5	autour	autour	ADV	_	_	3	advmod	_	_
 6	de	de	ADP	_	_	7	case	_	_
-7	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obl:arg	_	_
+7	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	obl:arg	_	_
 8	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 9	impression	impression	NOUN	_	Gender=Fem|Number=Sing	3	obj:lvc	_	_
 10	que	que	SCONJ	_	_	9	dep	_	Scrap=Yes|SpaceAfter=No
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 5 obj:lvc	color:blue
 1	et	et	CCONJ	_	_	6	cc	_	_
-2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	SpaceAfter=No
 3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
 4	vraiment	vraiment	ADV	_	_	5	advmod	_	_
 5	mal	mal	ADV	_	_	6	obj:lvc	_	_

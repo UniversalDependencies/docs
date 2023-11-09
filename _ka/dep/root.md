@@ -29,3 +29,4 @@ root(ROOT, სათაური)
 nmod(სათაური, გაკვეთილის)
 punct(სათაური, .)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:28 CET -->

@@ -42,8 +42,8 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	குமாருக்குச்	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj:nc	_	Translit=kumārukkuc|LTranslit=kumār
 2	சம்பளம்	சம்பளம்	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	Translit=campaḷam|LTranslit=campaḷam
 3	போதாமல்	போது	VERB	_	Polarity=Neg|VerbForm=Conv	4	advcl	_	Translit=pōtāmal|LTranslit=pōtu
-4	கஷ்ட	கஷ்டம்	NOUN	_	Number=Sing|Person=3	0	root	_	Translit=kaṣṭap|LTranslit=kaṣṭam
-5	படுகிறான்	படு	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	4	aux	_	Translit=paṭukiṟāṉ|LTranslit=paṭu
+4	கஷ்ட	கஷ்டம்	NOUN	_	Number=Sing|Person=3	0	root	_	LTranslit=kaṣṭam|Translit=kaṣṭap
+5	படுகிறான்	படு	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	4	aux	_	LTranslit=paṭu|Translit=paṭukiṟāṉ
 6	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
 ~~~

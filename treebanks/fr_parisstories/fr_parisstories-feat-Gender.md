@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-11830 tokens (28%) have a non-empty value of `Gender`.
-1950 types (60%) occur at least once with a non-empty value of `Gender`.
+11929 tokens (28%) have a non-empty value of `Gender`.
+1946 types (59%) occur at least once with a non-empty value of `Gender`.
 1650 lemmas (67%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4287; 10% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (3113; 7% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2318; 5% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1155; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (867; 2% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (33; 0% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (6; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4289; 10% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (3247; 8% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (2276; 5% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1155; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (869; 2% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (38; 0% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (33; 0% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
-4287 <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
+4289 <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3432; 80%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3434; 80%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (1666; 39% of non-empty `Gender`): <em>fois, maison, mère, heures, année, chose, vie, peur, ville, heure</em>
-* `Masc` (2621; 61% of non-empty `Gender`): <em>coup, fait, peu, temps, ans, moment, truc, jour, monde, côté</em>
-* `EMPTY` (141): <em>genre, mode, potes, gens, contre, collègues, enfants, machin, parents, autres</em>
+* `Fem` (1667; 39% of non-empty `Gender`): <em>fois, maison, mère, heures, année, chose, vie, peur, ville, heure</em>
+* `Masc` (2622; 61% of non-empty `Gender`): <em>coup, fait, peu, temps, ans, moment, truc, jour, monde, côté</em>
+* `EMPTY` (140): <em>genre, mode, potes, gens, contre, collègues, enfants, machin, parents, autres</em>
 
 <table>
   <tr><th>Paradigm <i>truc</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -36,41 +36,41 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PRON`
 
-3113 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Gender`.
+3247 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (3062; 98%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2945; 95%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (3204; 99%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3081; 95%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (311; 10% of non-empty `Gender`): <em>elle, elles, la, une, personne, aucune, auxquelles, certaines, elle-même, lesquelles</em>
-* `Masc` (2802; 90% of non-empty `Gender`): <em>on, c', il, ça, ils, ce, lui, le, un, tous</em>
-* `EMPTY` (3325): <em>je, j', y, qui, tu, me, moi, s', se, nous</em>
+* `Fem` (310; 10% of non-empty `Gender`): <em>elle, elles, la, une, personne, auxquelles, certaines, elle-même, lesquelles</em>
+* `Masc` (2937; 90% of non-empty `Gender`): <em>on, c', il, ça, lui, ils, ce, le, -ce, tout</em>
+* `EMPTY` (3188): <em>je, j', y, qui, tu, me, moi, s', se, nous</em>
 
 <table>
-  <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>tu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il, je, elle, j'</em></td><td><em>elle</em></td></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ils, eux</em></td><td><em>elles</em></td></tr>
+  <tr><th>Paradigm <i>lui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=VERB</tt>|<tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il, lui, le, elle, l'</em></td><td><em>elle, la</em></td></tr>
+  <tr><td><tt></tt></td><td><em>le</em></td><td></td></tr>
 </table>
 
 ### `DET`
 
-2318 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (67% of all `DET` tokens) have a non-empty value of `Gender`.
+2276 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (65% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2304; 99%), <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2197; 95%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2197; 95%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2017; 87%), <tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1332; 57%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2264; 99%), <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2160; 95%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2160; 95%), <tt><a href="fr_parisstories-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2160; 95%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2043; 90%), <tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1358; 60%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (869; 37% of non-empty `Gender`): <em>la, une, ma, cette, sa, ta, quelle, aucune, certaines, toute</em>
-* `Masc` (1449; 63% of non-empty `Gender`): <em>le, un, ce, mon, du, son, cet, des, les, l'</em>
-* `EMPTY` (1158): <em>les, l', des, mon, mes, ses, nos, notre, son, quelque</em>
+* `Fem` (870; 38% of non-empty `Gender`): <em>la, une, ma, cette, sa, ta, aucune, quelle, certaines, toute</em>
+* `Masc` (1406; 62% of non-empty `Gender`): <em>le, un, ce, du, cet, des, les, l', tout, aucun</em>
+* `EMPTY` (1202): <em>les, l', des, mon, mes, son, ses, nos, notre, quelque</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le, l'</em></td><td><em>la, l'</em></td></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>les</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>le</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>le, l'</em></td><td><em>la, l'</em></td></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>les</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>le</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -92,15 +92,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `ADJ`
 
-867 <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> tokens (71% of all `ADJ` tokens) have a non-empty value of `Gender`.
+869 <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> tokens (72% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (659; 76%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (662; 76%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (345; 40% of non-empty `Gender`): <em>première, petite, bonne, toute, seule, toutes, grande, petites, autre, contente</em>
-* `Masc` (522; 60% of non-empty `Gender`): <em>tout, petit, tous, gros, vrai, mignon, petits, beau, bizarre, sympa</em>
-* `EMPTY` (346): <em>tout, petit, même, tous, autre, premier, horrible, petite, contente, sympa</em>
+* `Masc` (524; 60% of non-empty `Gender`): <em>tout, petit, tous, gros, vrai, mignon, petits, beau, bizarre, sympa</em>
+* `EMPTY` (344): <em>tout, petit, même, tous, premier, autre, horrible, petite, contente, sympa</em>
 
 <table>
   <tr><th>Paradigm <i>tout</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -112,23 +112,25 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `AUX`
 
-35 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Gender`.
+38 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (35; 100%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (34; 97%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (34; 97%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (34; 97%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (38; 100%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (37; 97%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (37; 97%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (37; 97%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Masc` (35; 100% of non-empty `Gender`): <em>été, fait, eu</em>
-* `EMPTY` (2069): <em>est, était, a, ai, suis, étais, avait, avais, sont, étaient</em>
+* `Masc` (38; 100% of non-empty `Gender`): <em>été, fait, eu</em>
+* `EMPTY` (2066): <em>est, était, a, ai, suis, étais, avait, avais, sont, étaient</em>
 
 ### `ADV`
 
 33 <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Gender`.
 
+The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (33; 100%).
+
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (33; 100% of non-empty `Gender`): <em>mal, tout, plus, super</em>
-* `EMPTY` (3507): <em>pas, donc, parce, enfin, plus, vraiment, là, très, même, après</em>
+* `EMPTY` (3506): <em>pas, donc, parce, enfin, plus, vraiment, là, très, même, après</em>
 
 ### `PROPN`
 
@@ -150,7 +152,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 * `Fem` (1; 17% of non-empty `Gender`): <em>une</em>
 * `Masc` (5; 83% of non-empty `Gender`): <em>neuf, un</em>
-* `EMPTY` (233): <em>deux, trois, six, dix, mille, cinq, quatre, huit, quatorze, sept</em>
+* `EMPTY` (234): <em>deux, trois, six, dix, mille, cinq, quatre, huit, quatorze, sept</em>
 
 <table>
   <tr><th>Paradigm <i>un</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -160,14 +162,14 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="fr_parisstories-dep-det.html">det</a></tt>]--> DET</tt> (2000; 67%),
-<tt>NOUN --[<tt><a href="fr_parisstories-dep-amod.html">amod</a></tt>]--> ADJ</tt> (434; 74%),
-<tt>ADJ --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (148; 55%),
+<tt>NOUN --[<tt><a href="fr_parisstories-dep-det.html">det</a></tt>]--> DET</tt> (1966; 66%),
+<tt>NOUN --[<tt><a href="fr_parisstories-dep-amod.html">amod</a></tt>]--> ADJ</tt> (440; 75%),
+<tt>ADJ --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (149; 55%),
 <tt>NOUN --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (128; 51%),
 <tt>DET --[<tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (77; 96%),
 <tt>NOUN --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> NOUN</tt> (68; 61%),
-<tt>PRON --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (64; 93%),
+<tt>PRON --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (64; 91%),
 <tt>NOUN --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (57; 77%),
-<tt>DET --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (48; 80%),
+<tt>DET --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (46; 79%),
 <tt>ADJ --[<tt><a href="fr_parisstories-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (32; 53%).
 

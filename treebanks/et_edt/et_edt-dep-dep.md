@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `dep`.
+17 nodes (0%) are attached to their parents as `dep`.
 
-10 instances of `dep` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5625.
+11 instances of `dep` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.52941176470588.
 
-The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 25% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-X.html">X</a></tt> (4; 24% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (3; 18% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -56,8 +56,8 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 8	kogumõju	kogu_mõju	NOUN	S	Case=Nom|Number=Sing	4	obj	4:obj	_
 9	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	10	nmod	10:nmod	_
 10	ebavõrdsusele	eba_võrdsus	NOUN	S	Case=All|Number=Sing	8	nmod	8:nmod	_
-11	ceteris	ceteris	X	T	Foreign=Yes	8	dep	8:dep	_
-12	paribus	paribus	X	T	Foreign=Yes	11	flat	11:flat	_
+11	ceteris	ceteris	X	T	Foreign=Yes	8	dep	8:dep	Lang=la
+12	paribus	paribus	X	T	Foreign=Yes	11	flat	11:flat	Lang=la
 13	ka	ka	ADV	D	_	14	advmod	14:advmod	_
 14	graafiliselt	graafilise=lt	ADV	D	_	4	advmod	4:advmod	_
 15	ning	ning	CCONJ	J	_	16	cc	16:cc	_

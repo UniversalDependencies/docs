@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>его</em> (<tt><a href="ru_syntagru
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 8.575000 (the average of all parts of speech is 2.654339).
+The form / lemma ratio of `DET` is 8.575000 (the average of all parts of speech is 2.654430).
 
 The 1st highest number of forms (15) was observed with the lemma “свой”: <em>свое, своего, своей, своем, своему, своею, свои, своим, своими, своих, свой, свою, своя, своё, своём</em>.
 

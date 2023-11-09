@@ -16,9 +16,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="bor_bdt-pos-X.html"
 
 ### `X`
 
-1 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Pred`.
+1 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Pred`.
 
-The most frequent other feature values with which `X` and `Pred` co-occurred: <tt><a href="bor_bdt-feat-IF.html">IF</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Pred` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Pred`:
 

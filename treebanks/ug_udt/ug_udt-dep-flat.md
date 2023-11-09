@@ -22,17 +22,17 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	-	-	PUNCT	Y	_	10	punct	_	Translit=-
-2	تىمساھ	تىمساھ	NOUN	N	Case=Nom	10	discourse	_	Translit=timsah
-3	ئاكا	ئاكا	NOUN	N	Case=Nom	2	flat	_	SpaceAfter=No|Translit=aka
-4	،	،	PUNCT	Y	_	2	punct	_	Translit=,
-5	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	7	det	_	Translit=bu
-6	بەش	بەش	NUM	M	_	7	nummod	_	Translit=besh
-7	قىزنى	قىز	NOUN	N	Case=Acc	9	obj	_	Translit=qizni
-8	دەريادىن	_	NOUN	N	_	10	obl	_	Translit=deryadin|Morf=Unknown
-9	ئۆتكۈزۈپ	ئۆتكۈز	VERB	V	Aspect=Perf|VerbForm=Inf	10	xcomp	_	Translit=ötküzüp
-10	قويسىڭىز	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qoysingiz|Morf=Unknown
-11	،	،	PUNCT	Y	_	10	punct	_	Translit=,
+1	-	-	PUNCT	Y	_	10	punct	_	Translit=-|LTranslit=-
+2	تىمساھ	تىمساھ	NOUN	N	Case=Nom	10	discourse	_	Translit=timsah|LTranslit=timsah
+3	ئاكا	ئاكا	NOUN	N	Case=Nom	2	flat	_	SpaceAfter=No|Translit=aka|LTranslit=aka
+4	،	،	PUNCT	Y	_	2	punct	_	Translit=,|LTranslit=,
+5	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	7	det	_	Translit=bu|LTranslit=bu
+6	بەش	بەش	NUM	M	_	7	nummod	_	Translit=besh|LTranslit=besh
+7	قىزنى	قىز	NOUN	N	Case=Acc	9	obj	_	Translit=qizni|LTranslit=qiz
+8	دەريادىن	_	NOUN	N	_	10	obl	_	Morf=Unknown|Translit=deryadin
+9	ئۆتكۈزۈپ	ئۆتكۈز	VERB	V	Aspect=Perf|VerbForm=Inf	10	xcomp	_	Translit=ötküzüp|LTranslit=ötküz
+10	قويسىڭىز	_	VERB	V	_	0	root	_	SpaceAfter=No|Morf=Unknown|Translit=qoysingiz
+11	،	،	PUNCT	Y	_	10	punct	_	Translit=,|LTranslit=,
 
 ~~~
 
@@ -43,19 +43,19 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 flat	color:blue
-1	باتۇر	باتۇر	ADJ	A	Case=Nom	2	amod	_	Translit=batur
-2	ئەزىمەت	ئەزىمەت	NOUN	A	Case=Nom	12	nsubj	_	SpaceAfter=No|Translit=ezimet
-3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
-4	مەشھۇر	مەشھۇر	ADJ	A	_	5	amod	_	Translit=meshhur
-5	قوشاقچى	قوشاقچى	NOUN	N	Case=Nom	2	appos	_	Translit=qoshaqchi
-6	سادىر	_	NOUN	N	_	2	appos	_	Translit=sadir|Morf=Unknown
-7	پالۋان	پالۋان	ADJ	A	Case=Nom	2	flat	_	Translit=palwan
-8	ئۇنىڭ	ئۇ	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	Translit=uning
-9	قەلبىنىڭ	قەلب	NOUN	N	Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3	10	nmod:poss	_	Translit=qelbining
-10	تۆرىدىن	تۆر	NOUN	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	12	obl	_	Translit=töridin
-11	ئورۇن	ئورۇن	NOUN	N	Case=Nom	12	compound	_	Translit=orun
-12	ئالدى	ئال	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=aldi
-13	.	.	PUNCT	Y	_	12	punct	_	Translit=.
+1	باتۇر	باتۇر	ADJ	A	Case=Nom	2	amod	_	Translit=batur|LTranslit=batur
+2	ئەزىمەت	ئەزىمەت	NOUN	A	Case=Nom	12	nsubj	_	SpaceAfter=No|Translit=ezimet|LTranslit=ezimet
+3	،	،	PUNCT	Y	_	2	punct	_	Translit=,|LTranslit=,
+4	مەشھۇر	مەشھۇر	ADJ	A	_	5	amod	_	Translit=meshhur|LTranslit=meshhur
+5	قوشاقچى	قوشاقچى	NOUN	N	Case=Nom	2	appos	_	Translit=qoshaqchi|LTranslit=qoshaqchi
+6	سادىر	_	NOUN	N	_	2	appos	_	Morf=Unknown|Translit=sadir
+7	پالۋان	پالۋان	ADJ	A	Case=Nom	2	flat	_	Translit=palwan|LTranslit=palwan
+8	ئۇنىڭ	ئۇ	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	Translit=uning|LTranslit=u
+9	قەلبىنىڭ	قەلب	NOUN	N	Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3	10	nmod:poss	_	Translit=qelbining|LTranslit=qelb
+10	تۆرىدىن	تۆر	NOUN	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	12	obl	_	Translit=töridin|LTranslit=tör
+11	ئورۇن	ئورۇن	NOUN	N	Case=Nom	12	compound	_	Translit=orun|LTranslit=orun
+12	ئالدى	ئال	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=aldi|LTranslit=al
+13	.	.	PUNCT	Y	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -66,18 +66,18 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
-1	ئارىدىن	ئارا	NOUN	N	Case=Abl	3	obl	_	Translit=aridin
-2	ئىككى	ئىككى	NUM	M	_	3	nummod	_	Translit=ikki
-3	يىل	يىل	NOUN	N	Case=Nom	11	advcl	_	Translit=yil
-4	ئۆتمەيلا	_	VERB	V	_	3	flat	_	Translit=ötmeyla|Morf=Unknown
-5	ئۇ	ئۇ	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Translit=u
-6	كىچىك	كىچىك	ADJ	A	_	7	amod	_	Translit=kichik
-7	ئوغلى	_	NOUN	N	_	9	obj	_	Translit=oghli|Morf=Unknown
-8	ئەركىنجاننىمۇ	_	NOUN	N	_	7	appos	_	Translit=erkinjannimu|Morf=Unknown
-9	ئۆيلەشكە	_	VERB	V	_	11	obl	_	Translit=öyleshke|Morf=Unknown
-10	مەجبۇر	مەجبۇر	ADJ	A	_	11	compound	_	Translit=mejbur
-11	بولدى	بول	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=boldi
-12	.	.	PUNCT	Y	_	11	punct	_	Translit=.
+1	ئارىدىن	ئارا	NOUN	N	Case=Abl	3	obl	_	Translit=aridin|LTranslit=ara
+2	ئىككى	ئىككى	NUM	M	_	3	nummod	_	Translit=ikki|LTranslit=ikki
+3	يىل	يىل	NOUN	N	Case=Nom	11	advcl	_	Translit=yil|LTranslit=yil
+4	ئۆتمەيلا	_	VERB	V	_	3	flat	_	Morf=Unknown|Translit=ötmeyla
+5	ئۇ	ئۇ	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Translit=u|LTranslit=u
+6	كىچىك	كىچىك	ADJ	A	_	7	amod	_	Translit=kichik|LTranslit=kichik
+7	ئوغلى	_	NOUN	N	_	9	obj	_	Morf=Unknown|Translit=oghli
+8	ئەركىنجاننىمۇ	_	NOUN	N	_	7	appos	_	Morf=Unknown|Translit=erkinjannimu
+9	ئۆيلەشكە	_	VERB	V	_	11	obl	_	Morf=Unknown|Translit=öyleshke
+10	مەجبۇر	مەجبۇر	ADJ	A	_	11	compound	_	Translit=mejbur|LTranslit=mejbur
+11	بولدى	بول	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=boldi|LTranslit=bol
+12	.	.	PUNCT	Y	_	11	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

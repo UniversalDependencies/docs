@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 51 tokens (13%) have a non-empty value of `Gender`.
 29 types (11%) occur at least once with a non-empty value of `Gender`.
 20 lemmas (10%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `DET`
 

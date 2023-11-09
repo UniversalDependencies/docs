@@ -50,4 +50,4 @@ ccomp(είναι, κινδυνέψουν)
 nsubj(είναι, Αυτό)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:08 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:41 CET -->

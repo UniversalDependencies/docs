@@ -23,18 +23,18 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (6615; 100% of non-empty `Reflex`): <em>się, sobie, siebie, sobą, sie, se, sia</em>
-* `EMPTY` (9918): <em>to, co, jego, ich, jej, go, mnie, tym, mi, mu</em>
+* `EMPTY` (9871): <em>to, co, jego, ich, jej, go, mnie, tym, mi, mu</em>
 
 ### `DET`
 
 758 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (758; 100%), <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (758; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (758; 100%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (758; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (758; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (485; 64%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (454; 60%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (758; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (758; 100%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (758; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (758; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (485; 64%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (454; 60%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (758; 100% of non-empty `Reflex`): <em>swoje, swoich, swoją, swoim, swój, swojej, swojego, swych, swego, swej</em>
-* `EMPTY` (8495): <em>które, ten, który, tej, tym, tego, te, tych, która, którzy</em>
+* `EMPTY` (8590): <em>które, ten, który, tym, tej, tego, te, tych, która, którzy</em>
 
 ## Relations with Agreement in `Reflex`
 

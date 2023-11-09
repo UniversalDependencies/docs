@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `NUM`
 
-There are 2 `NUM` lemmas (1%), 2 `NUM` types (1%) and 2 `NUM` tokens (1%).
+There are 2 `NUM` lemmas (1%), 2 `NUM` types (1%) and 2 `NUM` tokens (0%).
 Out of 16 observed tags, the rank of `NUM` is: 14 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>dá, tress</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="sga_dipsgg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.264574).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.261062).
 
 The 1st highest number of forms (1) was observed with the lemma “dá”: <em>di</em>.
 

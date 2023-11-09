@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 obl:tmod	color:blue
-1	بىر	بىر	NUM	M	_	2	nummod	_	Translit=bir
-2	كۈنى	كۈن	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	8	obl:tmod	_	SpaceAfter=No|Translit=küni
-3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
-4	قەيسەر	قەيسەر	NOUN	A	Case=Nom	8	nsubj	_	Translit=qeyser
-5	دادىسى	دادا	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	8	obl	_	Translit=dadisi
-6	بىلەن	بىلەن	ADP	R	_	5	case	_	Translit=bilen
-7	تاغقا	_	NOUN	N	_	8	obl	_	Translit=taghqa|Morf=Unknown
-8	چىقتى	چىق	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chiqti
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+1	بىر	بىر	NUM	M	_	2	nummod	_	Translit=bir|LTranslit=bir
+2	كۈنى	كۈن	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	8	obl:tmod	_	SpaceAfter=No|Translit=küni|LTranslit=kün
+3	،	،	PUNCT	Y	_	2	punct	_	Translit=,|LTranslit=,
+4	قەيسەر	قەيسەر	NOUN	A	Case=Nom	8	nsubj	_	Translit=qeyser|LTranslit=qeyser
+5	دادىسى	دادا	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	8	obl	_	Translit=dadisi|LTranslit=dada
+6	بىلەن	بىلەن	ADP	R	_	5	case	_	Translit=bilen|LTranslit=bilen
+7	تاغقا	_	NOUN	N	_	8	obl	_	Morf=Unknown|Translit=taghqa
+8	چىقتى	چىق	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chiqti|LTranslit=chiq
+9	.	.	PUNCT	Y	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

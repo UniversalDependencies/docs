@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Vnoun`.
 
-56192 tokens (16%) have a non-empty value of `VerbForm`.
+56165 tokens (16%) have a non-empty value of `VerbForm`.
 20881 types (35%) occur at least once with a non-empty value of `VerbForm`.
-5854 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (39601; 11% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (6770; 2% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (5917; 2% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (3904; 1% instances).
+5852 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (39527; 11% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (6764; 2% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (5961; 2% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (3913; 1% instances).
 
 ### `VERB`
 
-39601 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+39527 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (38790; 98%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (32210; 81%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (30404; 77%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25366; 64%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (24914; 63%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24009; 61%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21729; 55%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (38720; 98%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (32131; 81%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (30329; 77%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25317; 64%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (24840; 63%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23930; 61%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (21710; 55%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1264; 3% of non-empty `VerbForm`): <em>trzymając, patrząc, mówiąc, mając, stojąc, uwzględniając, siedząc, chcąc, biorąc, używając</em>
-* `Fin` (32796; 83% of non-empty `VerbForm`): <em>ma, może, jest, stoi, można, mówi, siedzi, miał, było, należy</em>
-* `Inf` (5541; 14% of non-empty `VerbForm`): <em>powiedzieć, być, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</em>
+* `Fin` (32717; 83% of non-empty `VerbForm`): <em>ma, może, stoi, jest, można, mówi, siedzi, miał, należy, powiedział</em>
+* `Inf` (5546; 14% of non-empty `VerbForm`): <em>być, powiedzieć, mieć, zrobić, znaleźć, robić, patrzeć, zobaczyć, mówić, wziąć</em>
 
 <table>
   <tr><th>Paradigm <i>mieć</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Conv</tt></th></tr>
@@ -51,28 +51,28 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `ADJ`
 
-6770 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (19% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+6764 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (19% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6770; 100%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6678; 99%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4812; 71%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3915; 58%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3614; 53%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3552; 52%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6764; 100%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6672; 99%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (4806; 71%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3911; 58%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3610; 53%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3545; 52%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (6770; 100% of non-empty `VerbForm`): <em>dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, dotyczącego</em>
-* `EMPTY` (29144): <em>innych, jeden, inne, sam, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
+* `Part` (6764; 100% of non-empty `VerbForm`): <em>dotyczące, dotyczących, związane, ubrany, określonych, związanych, przeznaczone, przedstawione, ubrana, dotyczącego</em>
+* `EMPTY` (29164): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (2132) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (2131) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
-5917 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (68% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+5961 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (68% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (5917; 100%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5917; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5529; 93%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4659; 79%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4594; 78%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4151; 70%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3547; 60%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3122; 53%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (3004; 51%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5961; 100%), <tt><a href="pl_pdb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5580; 94%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4718; 79%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4611; 77%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4205; 71%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3611; 61%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3141; 53%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (3045; 51%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (7; 0% of non-empty `VerbForm`): <em>będąc</em>
-* `Fin` (5538; 94% of non-empty `VerbForm`): <em>jest, to, będzie, są, był, było, będą, była, jestem, były</em>
-* `Inf` (372; 6% of non-empty `VerbForm`): <em>być, zostać, byc</em>
+* `Fin` (5589; 94% of non-empty `VerbForm`): <em>jest, to, będzie, są, był, było, będą, była, jestem, były</em>
+* `Inf` (365; 6% of non-empty `VerbForm`): <em>być, zostać, byc</em>
 * `EMPTY` (2814): <em>em, by, m, śmy, eś, ś, niech, ście, niechaj, Niechby</em>
 
 <table>
@@ -106,28 +106,28 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `NOUN`
 
-3904 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+3913 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3904; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3904; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3841; 98%).
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3913; 100%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3913; 100%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3849; 98%).
 
 `NOUN` tokens may have the following values of `VerbForm`:
 
-* `Vnoun` (3904; 100% of non-empty `VerbForm`): <em>stosowania, głosowania, przyjęcie, stosowanie, wprowadzenia, działania, wykorzystania, zapewnienia, tworzenia, osiągnięcia</em>
-* `EMPTY` (83316): <em>mężczyzna, roku, pan, kobieta, lat, człowiek, pracy, chłopiec, osób, dzieci</em>
+* `Vnoun` (3913; 100% of non-empty `VerbForm`): <em>stosowania, głosowania, przyjęcie, stosowanie, wprowadzenia, działania, wykorzystania, zapewnienia, tworzenia, osiągnięcia</em>
+* `EMPTY` (84721): <em>mężczyzna, roku, pan, kobieta, lat, r, człowiek, pracy, chłopiec, osób</em>
 
-`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (1453) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (1454) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (5066; 99%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1502; 51%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (1274; 96%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1120; 83%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-aux.html">aux</a></tt>]--> AUX</tt> (517; 67%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (500; 80%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (145; 74%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (127; 95%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (57; 86%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (52; 87%).
+<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (5067; 99%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1491; 51%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (1271; 97%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1110; 83%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-aux.html">aux</a></tt>]--> AUX</tt> (517; 68%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (497; 79%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (138; 80%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (128; 98%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (64; 89%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (50; 85%).
 

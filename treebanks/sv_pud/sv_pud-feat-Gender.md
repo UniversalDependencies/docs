@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Com` (331; 65% of non-empty `Gender`): <em>stor, lång, egen, ensam, hög, liten, modern, politisk, direkt, ekonomisk</em>
 * `Masc` (22; 4% of non-empty `Gender`): <em>egyptiske, misstänkte, Simple, anglikanske, belgiske, brittiske, demokratiske, dominikanske, högste, kanadensiske</em>
 * `Neut` (158; 31% of non-empty `Gender`): <em>annat, nytt, otroligt, sett, öppet, allmänt, möjligt, stort, dåligt, eget</em>
-* `EMPTY` (1048): <em>andra, första, nya, många, flera, stora, hela, senaste, sista, brittiska</em>
+* `EMPTY` (1049): <em>andra, första, nya, många, flera, stora, hela, senaste, sista, brittiska</em>
 
 <table>
   <tr><th>Paradigm <i>ny</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -112,7 +112,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Com` (2; 67% of non-empty `Gender`): <em>Karels, låglandseuropa</em>
 * `Neut` (1; 33% of non-empty `Gender`): <em>Panamanäset</em>
-* `EMPTY` (1213): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
+* `EMPTY` (1212): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
 
 ### `VERB`
 

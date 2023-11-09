@@ -12,3 +12,4 @@ Note that there is no `No` value. If the word is not connegative, the
 #### Examples
 
 * [vep] _ei <b>sand</b>_ "didn't <b>get</b>"
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:40 CET -->

@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat:name	color:blue
 1	euh	euh	INTJ	_	_	3	discourse	_	_
-2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	plus	plus	ADV	_	_	3	advmod	_	_
 5	si	si	SCONJ	_	_	8	mark	_	_

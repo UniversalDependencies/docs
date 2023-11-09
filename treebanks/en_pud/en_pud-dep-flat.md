@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-230 nodes (1%) are attached to their parents as `flat`.
+233 nodes (1%) are attached to their parents as `flat`.
 
-230 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.20434782608696.
+233 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.20600858369099.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (178; 77% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (32; 14% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (7; 3% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (176; 76% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (32; 14% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (12; 5% instances), <tt><a href="en_pud-pos-X.html">X</a></tt>-<tt><a href="en_pud-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -68,16 +68,16 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
 1	Their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
-2	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	3:amod	_
+2	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	3:amod	_
 3	king	king	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	Mojmír	Mojmír	PROPN	NNP	Number=Sing	0	root	0:root	_
-6	I	i	NUM	CD	NumType=Card	5	flat	5:flat	_
+6	I	I	NUM	CD	NumForm=Roman|NumType=Card	5	flat	5:flat	_
 7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
 8	ruled	rule	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
-9	830	830	NUM	CD	NumType=Card	8	obj	8:obj	SpaceAfter=No
+9	830	830	NUM	CD	NumForm=Digit|NumType=Card	8	obj	8:obj	SpaceAfter=No
 10	–	–	ADP	IN	_	11	case	11:case	SpaceAfter=No
-11	846	846	NUM	CD	NumType=Card	9	nmod	9:nmod	SpaceAfter=No
+11	846	846	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod	SpaceAfter=No
 12	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	5:punct	_
 

@@ -46,20 +46,20 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 15 acl	color:blue
-1	moi	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	AlignBegin=36331|AlignEnd=36594|SpaceAfter=No
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dislocated	_	AlignBegin=36331|AlignEnd=36594|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=36594|AlignEnd=36594
-3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=36594|AlignEnd=36858
+3	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=36594|AlignEnd=36858
 4	savais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	7	reparandum	_	AlignBegin=36858|AlignEnd=37121|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	AlignBegin=37121|AlignEnd=37121
-6	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=37121|AlignEnd=37384|SpaceAfter=No
+6	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=37121|AlignEnd=37384|SpaceAfter=No
 7	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=37384|AlignEnd=37648
-8	de	de	ADP	_	_	10	det	_	AlignBegin=37648|AlignEnd=37911|ExtPos=DET|Idiom=Yes
+8	de	de	ADP	_	ExtPos=DET	10	det	_	AlignBegin=37648|AlignEnd=37911|Idiom=Yes
 9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	fixed	_	AlignBegin=37911|AlignEnd=38174|InIdiom=Yes
 10	conscience	conscience	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	AlignBegin=38174|AlignEnd=38438
 11	que	que	SCONJ	_	_	15	mark	_	AlignBegin=38438|AlignEnd=38701
 12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	15	nsubj	_	AlignBegin=38701|AlignEnd=38964|SpaceAfter=No
 13	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	AlignBegin=38964|AlignEnd=39228
-14	mon	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	15	det	_	AlignBegin=39228|AlignEnd=39491
+14	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	15	det	_	AlignBegin=39228|AlignEnd=39491
 15	père	père	NOUN	_	Gender=Masc|Number=Sing	10	acl	_	AlignBegin=39491|AlignEnd=39754|SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	AlignBegin=39754|AlignEnd=39754
 
@@ -79,7 +79,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 5	rendre	rendre	VERB	_	VerbForm=Inf	3	xcomp	_	Subject=SubjRaising
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
 7	classes	classe	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
-8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	advmod	_	ExtPos=ADV|Idiom=Yes
+8	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	11	advmod	_	Idiom=Yes
 9	petit	petit	ADJ	_	Gender=Masc|Number=Sing	8	fixed	_	InIdiom=Yes
 10	peu	peu	NOUN	_	Gender=Masc|Number=Sing	8	fixed	_	InIdiom=Yes
 11	plus	plus	ADV	_	_	12	advmod	_	_
@@ -87,7 +87,7 @@ The following 9 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	que	que	SCONJ	_	_	14	case	_	_
 14	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	obj	_	_
 15	qu'	que	PRON	_	PronType=Rel	14	acl	_	SpaceAfter=No
-16	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
+16	elles	eux	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	nsubj	_	_
 17	n'	ne	ADV	_	_	15	advmod	_	SpaceAfter=No
 18	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	_

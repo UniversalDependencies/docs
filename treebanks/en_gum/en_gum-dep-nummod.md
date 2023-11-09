@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1227 nodes (1%) are attached to their parents as `nummod`.
+1226 nodes (1%) are attached to their parents as `nummod`.
 
-1151 instances of `nummod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39445802770986.
+1152 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40293637846656.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1093; 89% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (66; 5% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (38; 3% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1092; 89% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (66; 5% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (40; 3% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,19 +22,19 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nummod	color:blue
-1	In	in	ADP	IN	_	3	case	3:case	Discourse=context-circumstance:110->112:1
+1	In	in	ADP	IN	_	3	case	3:case	Discourse=context-circumstance:110->112:1:_
 2	fifteen	fifteen	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Entity=(136-time-new-cf6-2-sgl
-3	minutes	minute	NOUN	NNS	Number=Plur	7	obl	7:obl:in	Entity=136)
+3	minutes	minute	NOUN	NNS	Number=Plur	7	obl	7:obl:in	Entity=136)|MSeg=minute-s
 4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj	Entity=(69-person-giv:inact-cf1-1-ana)
 5	would	would	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
 6	be	be	AUX	VB	VerbForm=Inf	7	cop	7:cop	_
 7	home	home	ADV	RB	Degree=Pos	0	root	0:root	Entity=(126-place-giv:inact-cf4-1-coref)
-8	and	and	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-list_m:111->110:0
+8	and	and	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-list_m:111->110:0:dm-and-869
 9	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(25-person-giv:inact-cf3-2-coref(2-person-giv:inact-cf2-1-ana)
 10	mother	mother	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Entity=25)
 11	would	would	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	12	aux	12:aux	_
 12	fry	fry	VERB	VB	VerbForm=Inf	7	conj	7:conj:and	_
-13	eggs	egg	NOUN	NNS	Number=Plur	12	obj	12:obj	Entity=(137-object-new-cf5-1-sgl)|SpaceAfter=No
+13	eggs	egg	NOUN	NNS	Number=Plur	12	obj	12:obj	Entity=(137-object-new-cf5-1-sgl)|MSeg=egg-s|SpaceAfter=No
 14	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 ~~~
@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 nummod	color:blue
-1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=context-background:117->124:2|Entity=(21-person-giv:inact-cf3-1-ana)
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=context-background:117->124:2:ref-prs-736,787;adversative-antithesis:117->117:1:2:orp-and-786|Entity=(21-person-giv:inact-cf3-1-ana)
 2	spent	spend	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	$	$	SYM	$	_	2	obj	2:obj	Entity=(83-abstract-new-cf2-1-coref|SpaceAfter=No|XML=<w>
 4	2	2	NUM	CD	NumForm=Digit|NumType=Card	5	compound	5:compound	XML=</w>
@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
-1	A	A	PROPN	NNP	Number=Sing	0	root	0:root	Bridge=106<107|Discourse=elaboration-additional:69->67:1|Entity=(107-organization-acc:inf-cf2-1-sgl|SpaceAfter=No|XML=<hi rend:::"bold"><ref><w>
+1	A	A	PROPN	NNP	Number=Sing	0	root	0:root	Bridge=106<107|Discourse=elaboration-additional:69->67:1:sem-mrnym-609-615,617-619|Entity=(107-organization-acc:inf-cf2-1-sgl|SpaceAfter=No|XML=<hi rend:::"bold"><ref><w>
 2	-	-	PUNCT	HYPH	_	3	punct	3:punct	SpaceAfter=No
 3	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	dep	1:dep	Entity=107)|XML=</w></ref></hi>
 4	2470	2470	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	Entity=(108-place-new-cf3-2,3-sgl
@@ -77,7 +77,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	,	,	PUNCT	,	_	8	punct	8:punct	_
 8	tel	telephone	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	Entity=(109-abstract-new-cf1-1-coref)|SpaceAfter=No
 9	:	:	PUNCT	:	_	8	punct	8:punct	_
-10	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Discourse=elaboration-additional:70->69:0|Entity=(109-abstract-giv:act-cf1-1,2,3-coref
+10	1	1	NUM	CD	NumForm=Digit|NumType=Card	1	list	1:list	Discourse=elaboration-additional:70->69:0:sem-synym-624,626-628+grf-col-625|Entity=(109-abstract-giv:act-cf1-1,2,3-coref
 11	201	201	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	_
 12	944-3737	944-3737	NUM	CD	NumForm=Digit|NumType=Card	10	flat	10:flat	Entity=109)|SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	1:punct	_

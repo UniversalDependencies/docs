@@ -34,3 +34,4 @@ The `NameType` feature applies to [proper nouns](_ka/pos/PROPN).
 #### Examples
 
 * _თბილისი_ 'Tbilisi', _მტკვარი_ 'Mtkvari' etc.
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:51 CET -->

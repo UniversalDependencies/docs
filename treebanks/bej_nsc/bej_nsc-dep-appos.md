@@ -8,35 +8,60 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `appos`.
+3 nodes (0%) are attached to their parents as `appos`.
 
-1 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.
+3 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.
 
-The following 1 pairs of parts of speech are connected with `appos`: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `appos`: <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 6 appos	color:blue
-1	tak	_	NOUN	N	Gender=Masc	7	nsubj	_	AlignBegin=0|AlignEnd=351|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Stem
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=351|AlignEnd=1157|TokenType=Break
-3	ʔeːgirim	_	NOUN	CN	_	1	nmod	_	AlignBegin=1157|AlignEnd=1424|GE=elder|Gloss=elder|RX=[CN]|TokenType=Stem
-4	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=1424|AlignEnd=2257|TokenType=Break
-5	ʔajaːj	_	NOUN	N	_	6	nmod	_	AlignBegin=2257|AlignEnd=2593|GE=relatives|Gloss=relatives|RX=[N]|TokenType=Stem
-6	taki	_	NOUN	N	Gender=Masc	1	appos	_	AlignBegin=2593|AlignEnd=2930|GE=man-[GEN]|Gloss=man|MGloss=man-GEN|MSeg=tak-i|RX=[N].[M]-[CASE]|TokenType=Stem
-7	iːfi	_	VERB	V1,IRG	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	11	dep:conj	_	AlignBegin=2930|AlignEnd=3154|GE=[3SG].[M]-be_there\[AOR]|Gloss=be_there|MGloss=3SG.M-be_there\AOR|MSeg=iː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Stem
-8	=t	_	CCONJ	CCONJ	_	7	cc	_	AlignBegin=3154|AlignEnd=3267|GE==[COORD]|RX==[CONJ]|TokenType=Clit
-9	amsi	_	ADV	ADV	_	11	advmod	_	AlignBegin=3267|AlignEnd=3603|GE=today|Gloss=today|RX=[ADV]|TokenType=Stem
-10	iraːnaj	_	INTJ	_	_	11	discourse	_	AlignBegin=3603|AlignEnd=3940|GE=gosh|Gloss=gosh|RX=[EXCL]|TokenType=Stem
-11	rhi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=3940|AlignEnd=4277|GE=see-[AOR].[3SG].[M]|Gloss=see|MGloss=see-AOR.3SG.M|MSeg=rh-i|RX=[V2]-[TAM].[PNG]|TokenType=Stem
-12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=4277|AlignEnd=4764|TokenType=Break
-13	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	det	_	AlignBegin=4764|AlignEnd=4921|GE=[DEF].[SG].[M].[ACC]=|RX=[DET]=|TokenType=Clit
-14	kina	_	PRON	PRO	Reflex=Yes	11	dislocated	_	AlignBegin=4921|AlignEnd=5079|GE=owner|Gloss=owner|RX=[PRO].[REFL]|TokenType=Stem
-15	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=5079|AlignEnd=5895|TokenType=Break
+# visual-style 1 5 appos	color:blue
+1	ʔamaːr	_	NOUN	N	Gender=Masc	4	obj	_	AlignBegin=31461|AlignEnd=31663|GE=possessions|nWord=1|RX=[N].[M]|TokenType=Root
+2	=oːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	1	nmod:poss	_	AlignBegin=31663|AlignEnd=31866|GE=[POSS].[1PL].[ACC]|nWord=1|RX=[PRO]|TokenType=Clit
+3	baː=	_	PART	PTCL	Polarity=Neg	4	advmod	_	AlignBegin=31866|AlignEnd=32001|GE=[NEG].[PROH]|nWord=2|RX=[PTCL]|TokenType=Clit
+4	kʷaːsa	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=32001|AlignEnd=32271|GE=create[IMP].[SG].[M]|MGloss=create[IMP].[SG].[M]|MSeg=kʷaːs-a|nWord=2|RX=[V1].[IRG][TAM].[PNG]|TokenType=Root
+5	samaːr	_	NOUN	N	Gender=Masc	1	appos	_	AlignBegin=32271|AlignEnd=32473|GE=offspring|nWord=3|RX=[N].[M]|TokenType=Root
+6	=oːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	5	nmod:poss	_	AlignBegin=32473|AlignEnd=32676|GE=[POSS].[1PL].[ACC]|nWord=3|RX=[PRO]|TokenType=Clit
+7	//	_	PUNCT	_	_	5	punct	_	AlignBegin=33081|AlignEnd=33487|GE=[//]|nWord=5|TokenType=Break
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 appos	color:blue
+1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=16991|AlignEnd=17113|GE=[DEF].[M]|nWord=1|RX=[DET]|TokenType=Clit
+2	finʤan	_	NOUN	N	Gender=Masc	7	obj	_	AlignBegin=17113|AlignEnd=17234|GE=cup|nWord=1|RX=[N].[M]|TokenType=Root
+3	mhaj	_	NUM	NUM	_	2	nmod	_	AlignBegin=17234|AlignEnd=17477|GE=three|nWord=2|RX=[NUM]|TokenType=Root
+4	/	_	PUNCT	_	_	5	punct	_	AlignBegin=17477|AlignEnd=17720|GE=[/]|nWord=3|TokenType=Break
+5	koː	_	ADJ	ADJ	_	2	appos	_	AlignBegin=17720|AlignEnd=17928|GE=all|nWord=4|RX=[ADJ]|TokenType=Root
+6	=jeː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	5	obl:mod	_	AlignBegin=17928|AlignEnd=18137|GE=[POSS].[3PL].[ACC]|nWord=4|RX=[PRO]|TokenType=Clit
+7	ʃaw~waw	_	VERB	V1	VerbClass=1	12	dep:conj	_	AlignBegin=18137|AlignEnd=18345|GE=[gather~PLAC]|nWord=5|RX=[V1].[DER]|TokenType=Root
+8	-iːtiːt	_	AUX	_	_	7	aux	_	AlignBegin=18345|AlignEnd=18554|DerPos=NOUN|GE=[CVB].[SEQ]|nWord=5|TokenType=DerAff
+9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	AlignBegin=18554|AlignEnd=18693|GE=[DEF].[M]|nWord=6|RX=[DET]|TokenType=Clit
+10	findikʷ	_	NOUN	N	Gender=Masc	11	dep:comp	_	AlignBegin=18693|AlignEnd=18832|GE=mortar|nWord=6|RX=[N].[M]|TokenType=Root
+11	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	12	obl:arg	_	AlignBegin=18832|AlignEnd=18971|GE=[LOC].[SG]|nWord=6|RX=[POSTP]|TokenType=Clit
+12	gid	_	VERB	V1	VerbClass=1	15	dep:conj	_	AlignBegin=18971|AlignEnd=19179|GE=throw|nWord=7|RX=[V1]|TokenType=Root
+13	-tiːt	_	AUX	_	_	12	aux	_	AlignBegin=19179|AlignEnd=19388|DerPos=NOUN|GE=[CVB].[SEQ]|nWord=7|TokenType=DerAff
+14	/	_	PUNCT	_	_	12	punct	_	AlignBegin=19388|AlignEnd=19803|GE=[/]|nWord=8|TokenType=Break
+15	inʈhiːm	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=20785|AlignEnd=21167|GE=[3SG].[M]grind|MGloss=[3SG].[M]grind|MSeg=i-nʈhiːm|nWord=10|RX=[PNG][V1]|TokenType=Root
+16	eːn	_	VERB	V1	VerbClass=1	15	discourse	_	AlignBegin=21167|AlignEnd=21549|GE=say|nWord=11|RX=[V1].[IRG]|TokenType=Root
+17	ifi#	_	X	FS	_	19	reparandum	_	AlignBegin=21549|AlignEnd=21931|GE=[FS]|nWord=12|RX=[FS]|TokenType=Unfinished
+18	i=	_	DET	DET	Definite=Def|Gender=Masc	19	det	_	AlignBegin=21931|AlignEnd=22058|GE=[DEF].[M]|nWord=13|RX=[DET]|TokenType=Clit
+19	finʤan	_	NOUN	N	Gender=Masc	15	obj	_	AlignBegin=22058|AlignEnd=22185|GE=cup|nWord=13|RX=[N].[M]|TokenType=Root
+20	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	19	nmod:poss	_	AlignBegin=22185|AlignEnd=22313|GE=[POSS].[3PL].[ACC]|nWord=13|RX=[PRO]|TokenType=Clit
+21	ʤuwwaː	_	ADP	POSTP	_	15	obl:arg	_	AlignBegin=22313|AlignEnd=22504|GE=inside|nWord=14|RX=[POSTP].[BORR].[ARA]|TokenType=Root
+22	=b	_	DET	DET	Case=Acc|Gender=Masc	21	det	_	AlignBegin=22504|AlignEnd=22695|GE=[INDF].[M].[ACC]|nWord=14|RX=[DET]|TokenType=Clit
+23	//	_	PUNCT	_	_	15	punct	_	AlignBegin=22695|AlignEnd=23078|GE=[//]|nWord=15|TokenType=Break
 
 ~~~
 

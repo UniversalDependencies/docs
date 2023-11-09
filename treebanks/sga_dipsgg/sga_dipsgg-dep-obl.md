@@ -9,7 +9,7 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `obl`: <tt><a href="sga_dipsgg-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="sga_dipsgg-dep-obl-prep.html">obl:prep</a></tt>, <tt><a href="sga_dipsgg-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-6 nodes (2%) are attached to their parents as `obl`.
+6 nodes (1%) are attached to their parents as `obl`.
 
 5 instances of `obl` (83%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.16666666666667.

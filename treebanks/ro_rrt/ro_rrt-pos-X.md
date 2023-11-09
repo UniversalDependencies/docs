@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>000</em> (<tt><a href="ro_rrt-pos-X.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.554054 (the average of all parts of speech is 1.814602).
+The form / lemma ratio of `X` is 1.554054 (the average of all parts of speech is 1.814756).
 
 The 1st highest number of forms (44) was observed with the lemma “_”: <em>-apune, 0, 000, 065, 100, 112, 2, 230, 2C9, 3, 307, 390, 391, 3A4, 400, 463, 500, 672, 720, 736, 770, 867, 898, 9, 900, 914, 957, 996, Dopa, G-CSF, VAMA, alpine, amiezei, dată, dopei, glicozidice, glicozidică, grabă, operativă, retinoizi, spre, un, una, zicochimice</em>.
 

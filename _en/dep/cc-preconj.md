@@ -15,4 +15,4 @@ cc:preconj(cat, Both)
 The words <b>both</b>, <b>either</b>, and <b>neither</b> may also be (pre)determiners, but they are not functioning as such in this construction: note that the above sentence does not entail \**Both the cat is here*.
 
 See also: [cc]()
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:04 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:35 CET -->

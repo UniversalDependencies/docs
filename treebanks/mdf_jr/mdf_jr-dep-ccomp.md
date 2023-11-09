@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `ccomp`.
+20 nodes (0%) are attached to their parents as `ccomp`.
 
-17 instances of `ccomp` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.94444444444444.
+19 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.15.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (14; 78% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (16; 80% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

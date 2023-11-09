@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-obl.html">obl</a></tt>.
-There are also 2 other language-specific subtypes of `obl`: <tt><a href="pl_pud-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_pud-dep-obl-cmpr.html">obl:cmpr</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="pl_pud-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_pud-dep-obl-cmpr.html">obl:cmpr</a></tt>, <tt><a href="pl_pud-dep-obl-orphan.html">obl:orphan</a></tt>.
 
-47 nodes (0%) are attached to their parents as `obl:agent`.
+58 nodes (0%) are attached to their parents as `obl:agent`.
 
-46 instances of `obl:agent` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.87234042553191.
+57 instances of `obl:agent` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.93103448275862.
 
-The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (26; 55% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (12; 26% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (3; 6% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (2; 4% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (26; 45% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (13; 22% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (12; 21% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (5; 9% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -66,21 +66,19 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 obl:agent	color:blue
-1	Stany	Stany	PROPN	subst:pl:nom:n:pt	Case=Nom|Gender=Neut|Number=Ptan	3	nsubj	3:nsubj	_
-2	Zjednoczone	Zjednoczony	ADJ	adj:pl:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	1	amod:flat	1:amod:flat	_
-3	wyzwoliły	wyzwolić	VERB	praet:pl:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	Kubę	kuba	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	3	obj	3:obj	_
-5	(	(	PUNCT	interp	PunctSide=Ini|PunctType=Brck	7	punct	7:punct	SpaceAfter=No
-6	po	po	ADP	prep:loc	AdpType=Prep	7	case	7:case	Case=Loc
-7	okupacji	okupacja	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	3	obl	3:obl	_
-8	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Acc
-9	armię	armia	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	7	obl:agent	7:obl:agent	_
-10	amerykańską	amerykański	ADJ	adj:sg:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	9:amod	SpaceAfter=No
-11	)	)	PUNCT	interp	PunctSide=Fin|PunctType=Brck	7	punct	7:punct	SpaceAfter=No
-12	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 obl:agent	color:blue
+1	Oprócz	oprócz	ADP	prep:gen	AdpType=Prep	2	case	2:case	Case=Gen
+2	tego	ten	DET	adj:sg:gen:n:pos	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	obl	4:obl	_
+3	latem	lato	NOUN	subst:sg:inst:n:ncol	Case=Ins|Gender=Neut|Number=Sing	4	obl	4:obl	_
+4	możliwe	możliwy	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	_
+5	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
+6	wystąpienie	wystąpić	NOUN	ger:sg:nom:n:perf:aff	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	nsubj	4:nsubj	_
+7	na	na	ADP	prep:loc	AdpType=Prep	8	case	8:case	Case=Loc
+8	wyspie	wyspa	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
+9	huraganów	huragan	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obl:agent	6:obl:agent	SpaceAfter=No
+10	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
 

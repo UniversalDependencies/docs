@@ -22,10 +22,10 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (289; 19% of non-empty `Case`): <em>_</em>
+* `Acc` (292; 20% of non-empty `Case`): <em>_</em>
 * `Gen` (268; 18% of non-empty `Case`): <em>_</em>
-* `Nom` (932; 63% of non-empty `Case`): <em>_</em>
-* `EMPTY` (471): <em>_</em>
+* `Nom` (929; 62% of non-empty `Case`): <em>_</em>
+* `EMPTY` (474): <em>_</em>
 
 ## Relations with Agreement in `Case`
 

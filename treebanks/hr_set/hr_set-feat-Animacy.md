@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (110; 9% of non-empty `Animacy`): <em>bivšeg, najboljeg, novog, glavnog, drugog, drugoga, britanskog, kosovskog, optuženog, popularnog</em>
 * `Inan` (1067; 91% of non-empty `Animacy`): <em>prvi, novi, drugi, veći, veliki, gospodarski, velik, najbolji, isti, najveći</em>
-* `EMPTY` (22961): <em>sve, svi, drugi, vanjskih, novi, novih, glavni, prošle, druge, nove</em>
+* `EMPTY` (22962): <em>sve, svi, drugi, vanjskih, novi, novih, glavni, prošle, druge, nove</em>
 
 <table>
   <tr><th>Paradigm <i>nov</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -64,7 +64,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 * `Anim` (219; 34% of non-empty `Animacy`): <em>Boga, Đinđića, Erdogana, Antu, Borisa, Burkaya, Gruevskog, Ivanova, Krasniqia, Krista</em>
 * `Inan` (425; 66% of non-empty `Animacy`): <em>SETimes, EU, NATO, Windows, Balkan, Haag, Zagreb, Cipar, Beograd, Ferrari</em>
-* `EMPTY` (12205): <em>EU, BiH, Kosova, Hrvatskoj, Srbije, Hrvatska, Kosovo, Srbija, UN-a, Kosovu</em>
+* `EMPTY` (12204): <em>EU, BiH, Kosova, Hrvatskoj, Srbije, Hrvatska, Kosovo, Srbija, UN-a, Kosovu</em>
 
 <table>
   <tr><th>Paradigm <i>Bog</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

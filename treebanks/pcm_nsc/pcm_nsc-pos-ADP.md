@@ -62,7 +62,13 @@ The 2nd highest number of forms (2) was observed with the lemma “trough”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “troughout”: <em>throughout, troughout</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (432; 6% instances)
+
+`ADP` occurs with 5 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=NOUN`, `ExtPos=PROPN`, `ExtPos=SCONJ`
+
+`ADP` occurs with 6 feature combinations.
+The most frequent feature combination is `_` (6499 tokens).
+Examples: <em>for, to, of, as, like, inside, from, in, before, on</em>
 
 
 ## Relations

@@ -66,7 +66,7 @@ udver: '2'
   <tr>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 5432 sentences and 45875 tokens.</li>
+      <li>This corpus contains 5432 sentences and 45907 tokens.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -76,7 +76,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 2698 sentences and 19221 tokens.</li>
+      <li>This corpus contains 2698 sentences and 19223 tokens.</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -106,7 +106,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 19833 sentences and 91469 tokens.</li>
+      <li>This corpus contains 19830 sentences and 91152 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -207,7 +207,7 @@ udver: '2'
   <tr>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 488 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, Francisco'dan, St., City'e, Oakland'a, Washington'dan, City'den, washington'a, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, Orlando'ya, York'tan, dc'ye, Miami'ye, Oakland'dan, toronto'dan, Diego'ya, Chicago'ya, Phoenix'den, Temmuz'da, dc'den, Cleveland'dan, 6'dan, Charlotte'den, 5'ten, Memphis'ten, Newark'a, Houston'a, Newark'tan, Miami'den, 10'dan, Angeles'e, Vegas'tan</li>
+      <li>This corpus contains 470 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, St., Francisco'dan, City'e, Oakland'a, Washington'dan, City'den, washington'a, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, Orlando'ya, York'tan, dc'ye, Miami'ye, Oakland'dan, Indianapolis'ten, toronto'dan, Diego'ya, Chicago'ya, Phoenix'den, Temmuz'da, dc'den, Cleveland'dan, 6'dan, Charlotte'den, 5'ten, Memphis'ten, Newark'a, Houston'a, Newark'tan, Miami'den, 10'dan, Angeles'e</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -217,7 +217,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 78 types of words that contain both letters and punctuation. Examples: Nihal'in, Boğaziçi'nde, Hasan'la, Nihat'a, Tevfik'e, Yusuf'u, İstanbul'u, 'Dilimizi, 'Kaos', 1453'te, 1923'te, 2'yi, 3'te, Ahmet'in, Akdeniz'e, Alaçatı'da, Ali'nin, Allah'a, Almanya'da, Amerika'da, Amerika'ya, Ankara'da, Ankara'yı, Arda'nın, Ayşe'ye, Ayşe'yi, Açıkhava'da, Aşk'ı, Behlül'le, Behlül'ü, Berlin'e, Bey'e, Bey'in, Beyoğlu'na, Beşir'in, Bihter'den, Bursa'da, Caddesi'ne, Dante'nin, Ege'de, Eylül'ün, Gaugin'i, H7'ye, Hacı'ya, Halkapınar'da, Hamdi'nin, Hindistan'ı, Irak'ın, Kadıköy'de, Karabükspor'da</li>
+      <li>This corpus contains 76 types of words that contain both letters and punctuation. Examples: Nihal'in, Boğaziçi'nde, Hasan'la, Nihat'a, Tevfik'e, Yusuf'u, İstanbul'u, 'Kaos', 1453'te, 1923'te, 2'yi, 3'te, Ahmet'in, Akdeniz'e, Alaçatı'da, Ali'nin, Allah'a, Almanya'da, Amerika'da, Amerika'ya, Ankara'da, Ankara'yı, Arda'nın, Ayşe'ye, Ayşe'yi, Açıkhava'da, Aşk'ı, Behlül'le, Behlül'ü, Berlin'e, Bey'e, Bey'in, Beyoğlu'na, Beşir'in, Bihter'den, Bursa'da, Caddesi'ne, Dante'nin, Ege'de, Eylül'ün, Gaugin'i, H7'ye, Hacı'ya, Halkapınar'da, Hamdi'nin, Hindistan'ı, Irak'ın, Kadıköy'de, Karabükspor'da, Kudüs'te</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -242,7 +242,7 @@ udver: '2'
     </td>
     <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 3529 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
+      <li>This corpus contains 3528 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -1156,7 +1156,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>NOUN: uçuşları, uçuşlar, uçuşlarını, havayolları, uçuşların, fiyatlarını, havayollarını, havayollarının, günleri, ücretleri</li>
-            <li>VERB-Fin: listeleyin, gösterin, verin, söyleyin, yapın, bakalım, açıklayın, bahsedin, ayarlayın, ayın</li>
+            <li>VERB-Fin: listeleyin, gösterin, verin, söyleyin, yapın, bakalım, açıklayın, bahsedin, ayarlayın, bulun</li>
           </ul>
         </li>
       </ul>
@@ -1782,7 +1782,7 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>NOUN: başına, işe, eve, yere, üstüne, altına, yola, paraya, çocuğa, araya</li>
+            <li>NOUN: başına, işe, eve, yere, altına, yola, üstüne, paraya, çocuğa, araya</li>
             <li>PROPN: Nihat'a, Tevfik'e, Akdeniz'e, Allah'a, Amerika'ya, Ayşe'ye, Berlin'e, Bey'e, Caddesi'ne, H7'ye</li>
           </ul>
         </li>
@@ -2050,7 +2050,7 @@ udver: '2'
         <li>Ins
           <ul>
             <li>NOUN: uçuşlarla, uçuşla, havayollarıyla, fiyatlarıyla, tarifeyle, uçakla, uçuşuyla, olanaklarıyla, uçuşlarıyla, ücretleriyle</li>
-            <li>PROPN: Continental'la, Airlines'le, Delta'yla, United'le, Air'le, American'la, Boston'la, Denver'le, Hvayolları'yla, Nationair'le</li>
+            <li>PROPN: Continental'la, Airlines'le, Delta'yla, United'le, Air'le, American'la, Boston'la, Denver'le, Nationair'le, Pittsburgh'la</li>
           </ul>
         </li>
       </ul>
@@ -4531,7 +4531,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB-Fin: et, bırak, aç, değiştir, al, dinle, gel, geç, olsun, çabala</li>
+            <li>VERB-Fin: et, bırak, aç, değiştir, geç, al, dinle, gel, olsun, çabala</li>
           </ul>
         </li>
       </ul>
@@ -4842,7 +4842,7 @@ udver: '2'
       <ul>
         <li>Opt
           <ul>
-            <li>VERB-Fin: bakalım, dönebileyim, aza, gidelim, kalabileyim, kısa, olabileyim, yapa</li>
+            <li>VERB-Fin: bakalım, dönebileyim, aza, gidelim, kalabileyim, olabileyim</li>
           </ul>
         </li>
       </ul>
@@ -5937,7 +5937,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Fin: kullanılıyor, yapılıyor, verilmektedir, kullanılır, ediliyor, gidilir, sağlanmaktadır, ayrılır, bulunur, edilir</li>
+            <li>VERB-Fin: kullanılıyor, yapılıyor, verilmektedir, kullanılır, ediliyor, gidilir, sağlanmaktadır, ayrılır, bulun, bulunur</li>
           </ul>
         </li>
       </ul>
@@ -6152,7 +6152,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="11%" valign="top">
-
+      <ul>
+        <li>Rcp
+          <ul>
+            <li>VERB-Fin: dönüş, kalkış</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="11%" valign="top">
       <ul>
@@ -6761,7 +6767,7 @@ udver: '2'
           <ul>
             <li>ADV: ne, nasıl</li>
             <li>AUX: mı, misin, mu, misiniz, miyim, mü, mi, musunuz, mısın, mıyım</li>
-            <li>PRON: hangi, ne, hangisi, hangileri, neyin, hangisinin, nerede, neyi</li>
+            <li>PRON: hangi, ne, hangisi, hangileri, neyin, neyi, hangisinin, nerede</li>
           </ul>
         </li>
       </ul>
@@ -7292,7 +7298,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>NUM: altıncı, 19:00, 28., 5:55, 7:00, 8., birinci, yedinci</li>
+            <li>NUM: 19:00, 28., 5:55, 7:00, 8., birinci, yedinci</li>
           </ul>
         </li>
       </ul>
@@ -7715,7 +7721,7 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>VERB-Fin: et, bırak, aç, değiştir, göreceksin, al, dinle, gel, geç, çabala</li>
+            <li>VERB-Fin: et, bırak, aç, değiştir, geç, göreceksin, al, dinle, gel, çabala</li>
             <li>VERB-Vnoun: akmasın</li>
           </ul>
         </li>
@@ -8163,7 +8169,7 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: Güveniniz, aramızda, İkimiz, Ailemizin, Alıcılarımız, Başkanları, Gözümüzde, Kaybınızı, Kimseleri, Kubbelerimizin</li>
+            <li>NOUN: Güveniniz, aramızda, İkimiz, Ailemizin, Alıcılarımız, Başkanları, Dilimizi, Gözümüzde, Kaybınızı, Kimseleri</li>
           </ul>
         </li>
       </ul>
@@ -8255,7 +8261,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>NOUN: uçuşları, günü, uçuşu, uçuşlarını, havayolları, ihtiyacım, arasında, sabahı, karayolu, arası</li>
-            <li>PROPN: Airlines'in, F28'in, Dc'den, Havaaalanı'ndan, M80'in, S'in</li>
+            <li>PROPN: F28'in, Dc'den, Havaaalanı'ndan, M80'in, S'in</li>
             <li>VERB-Fin: havayoludur, hangisidir, kısaltmasıdır, dilimindedir, havayolunuz</li>
             <li>VERB-Vnoun: kısaltmasıdır</li>
           </ul>
@@ -8288,7 +8294,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>NOUN: başına, parasını, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
+            <li>NOUN: başına, parasını, işi, şeyi, altına, günü, üstüne, içinde, karşısında, olduğu</li>
             <li>VERB-Fin: karısıyım, yengenim, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
           </ul>
         </li>
@@ -8368,7 +8374,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>AUX: değilim, değilsin</li>
-            <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, tarafından, ayında, endeksi, doları</li>
+            <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, ayında, tarafından, endeksi, doları</li>
             <li>PROPN: IBM'in, CEO'su, Corp.'un, Inc.'ın, Lynch'in, onu, Bridge'in, Bronx'u, Colgate'in, OPEC'in</li>
             <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
             <li>VERB-Conv: arayışındalar, düşüşündedir</li>
@@ -8652,13 +8658,13 @@ udver: '2'
             </li>
             <li>2
               <ul>
-                <li>NOUN: yüzüne, Güveniniz, aklından, amcanın, ağzını, başına, dişinden, elindekini, gözünü, hatırında</li>
+                <li>NOUN: Güveniniz, aklından, amcanın, ağzını, başına, dişinden, elindekini, gözünü, hatırında, suyun</li>
                 <li>VERB-Fin: yengenim</li>
               </ul>
             </li>
             <li>3
               <ul>
-                <li>NOUN: parasını, başına, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
+                <li>NOUN: parasını, başına, işi, şeyi, altına, günü, üstüne, içinde, karşısında, olduğu</li>
                 <li>VERB-Fin: karısıyım, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
               </ul>
             </li>
@@ -9114,7 +9120,7 @@ udver: '2'
             <li>VERB-Conv--NOUN-Nom (3)</li>
             <li>VERB-Fin--NOUN-Acc (49)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
-            <li>VERB-Fin--NOUN-Nom (865)</li>
+            <li>VERB-Fin--NOUN-Nom (849)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ilk) (1)</li>
             <li>VERB-Fin--PRON (3)</li>
             <li>VERB-Vnoun--NOUN-Acc (4)</li>
@@ -9192,7 +9198,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat (4)</li>
             <li>VERB-Fin--NOUN-Gen (3)</li>
             <li>VERB-Fin--NOUN-Loc (1)</li>
-            <li>VERB-Fin--NOUN-Nom (833)</li>
+            <li>VERB-Fin--NOUN-Nom (827)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(de) (3)</li>
@@ -9401,9 +9407,8 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat-ADP(yönelik) (1)</li>
             <li>VERB-Fin--NOUN-Gen (32)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(iç) (1)</li>
-            <li>VERB-Fin--NOUN-Ins (1)</li>
             <li>VERB-Fin--NOUN-Loc (5)</li>
-            <li>VERB-Fin--NOUN-Nom (7230)</li>
+            <li>VERB-Fin--NOUN-Nom (7228)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (40)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(de) (43)</li>
@@ -9460,10 +9465,10 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc (745)</li>
+            <li>VERB-Fin--NOUN-Acc (744)</li>
             <li>VERB-Fin--NOUN-Dat (1)</li>
             <li>VERB-Fin--NOUN-Ins (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1581)</li>
+            <li>VERB-Fin--NOUN-Nom (1584)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ile) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
             <li>VERB-Fin--PRON (11)</li>
@@ -9554,7 +9559,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(dahi) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
-            <li>VERB-Fin--NOUN-Dat (65)</li>
+            <li>VERB-Fin--NOUN-Dat (66)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
             <li>VERB-Fin--NOUN-Loc (2)</li>
             <li>VERB-Fin--NOUN-Nom (367)</li>
@@ -9739,7 +9744,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (1)</li>
             <li>VERB-Fin--NOUN-Abl (100)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1827)</li>
+            <li>VERB-Fin--NOUN-Acc (1828)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(da) (12)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(de) (13)</li>
             <li>VERB-Fin--NOUN-Dat (478)</li>
@@ -9749,7 +9754,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen (13)</li>
             <li>VERB-Fin--NOUN-Ins (28)</li>
             <li>VERB-Fin--NOUN-Loc (32)</li>
-            <li>VERB-Fin--NOUN-Nom (1985)</li>
+            <li>VERB-Fin--NOUN-Nom (1982)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(alt) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (5)</li>
@@ -10054,8 +10059,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus does not use relation subtypes.</li>
-      <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 6 relation subtypes: <a>aux:q</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>appos</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="11%" valign="top">
@@ -10094,7 +10099,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+      <li>This corpus does not use relation subtypes.</li>
       <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>goeswith</a></li>
       </ul>
     </td>
@@ -10110,7 +10115,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+      <li>This corpus uses 2 relation subtypes: <a>nmod:tmod</a>, <a>nsubj:outer</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
       </ul>
     </td>

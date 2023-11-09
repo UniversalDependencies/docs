@@ -57,13 +57,13 @@ Examples: <em>cha, nagh</em>
 
 Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt> (302; 65% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (148; 32% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="gv_cadhan-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-457 (99%) `PART` nodes are leaves.
+458 (99%) `PART` nodes are leaves.
 
-5 (1%) `PART` nodes have one child.
+4 (1%) `PART` nodes have one child.
 
 The highest child degree of a `PART` node is 1.
 
-Children of `PART` nodes are attached using 3 different relations: <tt><a href="gv_cadhan-dep-punct.html">punct</a></tt> (3; 60% instances), <tt><a href="gv_cadhan-dep-fixed.html">fixed</a></tt> (1; 20% instances), <tt><a href="gv_cadhan-dep-reparandum.html">reparandum</a></tt> (1; 20% instances)
+Children of `PART` nodes are attached using 2 different relations: <tt><a href="gv_cadhan-dep-punct.html">punct</a></tt> (3; 75% instances), <tt><a href="gv_cadhan-dep-reparandum.html">reparandum</a></tt> (1; 25% instances)
 
-Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="gv_cadhan-pos-PUNCT.html">PUNCT</a></tt> (3; 60% instances), <tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> (1; 20% instances), <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> (1; 20% instances)
+Children of `PART` nodes belong to 2 different parts of speech: <tt><a href="gv_cadhan-pos-PUNCT.html">PUNCT</a></tt> (3; 75% instances), <tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> (1; 25% instances)
 

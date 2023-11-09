@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2 9 nsubj:pass	color:blue
 1	peu	peu	ADV	_	_	2	advmod	_	_
 2	importe	importer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	advmod	_	ExtPos=ADV|Idiom=Yes
+3	un	un	DET	_	Definite=Ind|ExtPos=ADV|Gender=Masc|Number=Sing|PronType=Art	2	advmod	_	Idiom=Yes
 4	peu	peu	NOUN	_	_	3	fixed	_	InIdiom=Yes|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	euh	euh	INTJ	_	_	3	discourse	_	SpaceAfter=No
@@ -51,8 +51,8 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 9	aspects	aspect	NOUN	_	Gender=Masc|Number=Plur	2	nsubj:pass	_	_
 10	dont	dont	PRON	_	PronType=Rel	14	obj	_	_
-11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
-12	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	14	iobj	_	_
+11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+12	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	14	iobj	_	_
 13	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
 14	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	_

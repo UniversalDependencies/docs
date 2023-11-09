@@ -17,54 +17,54 @@ The following 48 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 obl	color:blue
+1	İçeriye	içeri	NOUN	Noun	Case=Dat|Number=Sing|Person=3	5	obl	_	_
+2	gençten	genç	ADJ	NAdj	Case=Abl|Number=Sing|Person=3	4	amod	_	_
+3	bir	bir	DET	ANum	_	4	det	_	_
+4	erkek	erkek	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
+5	girdi	gir	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 obl	color:blue
+1	Nereye	nere	PRON	Ques	Case=Dat|Number=Sing|Person=3	2	obl	_	_
+2	gitmiş	git	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	3	obj	_	_
+3	olabilir	ol	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+4	Osman	Osman	PROPN	Prop	Case=Nom|Number=Sing|Person=3	3	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 4 obl	color:blue
-1	Kerem	Kerem	PROPN	Prop	Case=Nom|Number=Sing|Person=3	8	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	Punc	_	8	punct	_	_
-3	özgürlüğünü	özgürlük	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	obj	_	_
-4	teslim	teslim	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	obl	_	_
-5	ettiği	et	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	compound:lvc	_	_
-6	için	için	ADP	PCNom	_	4	case	_	_
-7	sanki	sanki	ADV	Adverb	_	8	advmod	_	_
-8	rahatlamıştı	rahatla	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 obl	color:blue
-1	Oğlunun	oğul	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
-2	neden	ne	PRON	Ques	Case=Abl|Number=Sing|Person=3	4	obl	_	_
-3	eroinman	eroinman	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	4	obj	_	_
-4	olduğunu	ol	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	5	ccomp	_	_
-5	anlayamaması	anla	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Pot|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	7	nsubj	_	_
-6	çok	çok	ADV	Adverb	_	7	advmod	_	_
-7	doğal	doğal	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-8	dı	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
-9	.	.	PUNCT	Punc	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 obl	color:blue
-1	tüm	tüm	DET	Det	_	2	det	_	_
-2	haşmetiyle	haşmet	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
-3	ortaya	orta	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	0	root	_	_
-4	çıkıyor	çık	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	3	compound	_	SpaceAfter=No
-5	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 obl	color:blue
+1	O	o	DET	Det	_	2	det	_	_
+2	ruhun	ruh	NOUN	Noun	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	5	punct	_	_
+4	o	o	DET	Det	_	5	det	_	_
+5	belleğin	bellek	NOUN	Noun	Case=Gen|Number=Sing|Person=3	2	conj	_	_
+6	içine	iç	ADJ	NAdj	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	amod	_	_
+7	girdiğiniz	gir	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=2|Polarity=Pos|Tense=Past|VerbForm=Part	8	acl	_	_
+8	an	an	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Punc	_	10	punct	_	_
+10	tutsak	tutsak	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
+11	sınız	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	10	cop	_	_
+12	.	.	PUNCT	Punc	_	10	punct	_	_
 
 ~~~
 

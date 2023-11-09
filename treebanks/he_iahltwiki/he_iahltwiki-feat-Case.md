@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Acc`, `Gen`.
 
-5400 tokens (4%) have a non-empty value of `Case`.
+5398 tokens (4%) have a non-empty value of `Case`.
 20 types (0%) occur at least once with a non-empty value of `Case`.
 5 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (3212; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (2188; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (3210; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (2188; 2% instances).
 
 ### `ADP`
 
-3212 <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> tokens (14% of all `ADP` tokens) have a non-empty value of `Case`.
+3210 <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> tokens (14% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3208; 100%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3208; 100%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3206; 100%), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3206; 100%).
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (738; 23% of non-empty `Case`): את, אות, אֶת, אֹת, של
+* `Acc` (736; 23% of non-empty `Case`): את, אות, אֶת, אֹת, של
 * `Gen` (2474; 77% of non-empty `Case`): של
-* `EMPTY` (19793): ב, ל, מ, על, את, כ, עם, בין, לאחר, עד
+* `EMPTY` (19795): ב, ל, מ, על, את, כ, עם, בין, לאחר, עד
 
 ### `PRON`
 

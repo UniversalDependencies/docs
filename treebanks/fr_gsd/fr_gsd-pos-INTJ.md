@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-GSD: POS Tags: `INTJ`
 
-There are 21 `INTJ` lemmas (0%), 22 `INTJ` types (0%) and 83 `INTJ` tokens (0%).
+There are 22 `INTJ` lemmas (0%), 23 `INTJ` types (0%) and 85 `INTJ` tokens (0%).
 Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>merci, bref, attention, bravo, oui, dommage, non, bonjour, ah, eh</em>
+The 10 most frequent `INTJ` lemmas: <em>merci, bref, attention, oui, bravo, dommage, non, bonjour, ah, eh</em>
 
-The 10 most frequent `INTJ` types:  <em>merci, bref, attention, bravo, oui, dommage, non, Bonjour, Ah, enfin</em>
+The 10 most frequent `INTJ` types:  <em>merci, bref, attention, oui, bravo, dommage, non, Bonjour, Ah, enfin</em>
 
-The 10 most frequent ambiguous lemmas: <em>merci</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 5), <em>bref</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 12), <em>attention</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 9), <em>oui</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 1), <em>dommage</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 2), <em>non</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 130, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 1), <em>bonjour</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>enfin</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 55, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 2), <em>bien</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 349, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 34, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1), <em>bienvenue</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>merci</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 18, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 5), <em>bref</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 12), <em>attention</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 9), <em>oui</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>dommage</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 2), <em>non</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 130, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 1), <em>bonjour</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>enfin</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 55, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 2), <em>bien</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 349, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 34, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1), <em>bienvenue</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>merci</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 3), <em>bref</em> (<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 4), <em>attention</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1), <em>oui</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>dommage</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 2), <em>non</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 128, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> 1, <tt><a href="fr_gsd-pos-X.html">X</a></tt> 1), <em>enfin</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 29, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 2), <em>Allo</em> (<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>Bien</em> (<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> 34, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1), <em>Bienvenue</em> (<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>merci</em> (<tt><a href="fr_gsd-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.307189).
+The form / lemma ratio of `INTJ` is 1.045455 (the average of all parts of speech is 1.307295).
 
 The 1st highest number of forms (2) was observed with the lemma “eh”: <em>Eh, Et</em>.
 
@@ -62,24 +62,24 @@ The 2nd highest number of forms (1) was observed with the lemma “Putain”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “Wow”: <em>Wow</em>.
 
-`INTJ` occurs with 2 features: <tt><a href="fr_gsd-feat-Polarity.html">Polarity</a></tt> (4; 5% instances), <tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt> (1; 1% instances)
+`INTJ` occurs with 3 features: <tt><a href="fr_gsd-feat-Polarity.html">Polarity</a></tt> (4; 5% instances), <tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt> (3; 4% instances), <tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt> (1; 1% instances)
 
-`INTJ` occurs with 2 feature-value pairs: `Polarity=Neg`, `Typo=Yes`
+`INTJ` occurs with 3 feature-value pairs: `ExtPos=INTJ`, `Polarity=Neg`, `Typo=Yes`
 
-`INTJ` occurs with 3 feature combinations.
+`INTJ` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (78 tokens).
-Examples: <em>merci, bref, attention, bravo, oui, dommage, Bonjour, Ah, enfin, Allo</em>
+Examples: <em>merci, bref, attention, oui, bravo, dommage, Bonjour, enfin, Ah, Allo</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_gsd-dep-discourse.html">discourse</a></tt> (47; 57% instances), <tt><a href="fr_gsd-dep-root.html">root</a></tt> (28; 34% instances), <tt><a href="fr_gsd-dep-obj.html">obj</a></tt> (4; 5% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_gsd-dep-discourse.html">discourse</a></tt> (49; 58% instances), <tt><a href="fr_gsd-dep-root.html">root</a></tt> (28; 33% instances), <tt><a href="fr_gsd-dep-obj.html">obj</a></tt> (4; 5% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (33; 40% instances),  (28; 34% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (10; 12% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (35; 41% instances),  (28; 33% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (10; 12% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-13 (16%) `INTJ` nodes are leaves.
+14 (16%) `INTJ` nodes are leaves.
 
-38 (46%) `INTJ` nodes have one child.
+39 (46%) `INTJ` nodes have one child.
 
 17 (20%) `INTJ` nodes have two children.
 
@@ -87,7 +87,7 @@ Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="fr_g
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 11 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (67; 56% instances), <tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt> (29; 24% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (6; 5% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (5; 4% instances), <tt><a href="fr_gsd-dep-ccomp.html">ccomp</a></tt> (3; 3% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (3; 3% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 11 different relations: <tt><a href="fr_gsd-dep-punct.html">punct</a></tt> (68; 56% instances), <tt><a href="fr_gsd-dep-obl-arg.html">obl:arg</a></tt> (29; 24% instances), <tt><a href="fr_gsd-dep-conj.html">conj</a></tt> (6; 5% instances), <tt><a href="fr_gsd-dep-advmod.html">advmod</a></tt> (5; 4% instances), <tt><a href="fr_gsd-dep-ccomp.html">ccomp</a></tt> (3; 2% instances), <tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt> (3; 2% instances), <tt><a href="fr_gsd-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="fr_gsd-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt> (1; 1% instances), <tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 13 different parts of speech: <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (67; 56% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (20; 17% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 13 different parts of speech: <tt><a href="fr_gsd-pos-PUNCT.html">PUNCT</a></tt> (68; 56% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (20; 17% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 1% instances)
 

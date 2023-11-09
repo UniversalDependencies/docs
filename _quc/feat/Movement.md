@@ -23,4 +23,4 @@ Denotes movement away, derived from the verb *-bʼe-* "go, leave".
 
 * [quc] _Le achijabʼ <b>xeʼqʼabʼaroq.</b>_ "Los hombres fueron a emborracharse."
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:51 CET -->

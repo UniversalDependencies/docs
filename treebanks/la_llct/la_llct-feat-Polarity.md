@@ -16,12 +16,12 @@ The feature is used with 5 part-of-speech tags: <tt><a href="la_llct-pos-PART.ht
 
 ### `PART`
 
-659 <tt><a href="la_llct-pos-PART.html">PART</a></tt> tokens (78% of all `PART` tokens) have a non-empty value of `Polarity`.
+659 <tt><a href="la_llct-pos-PART.html">PART</a></tt> tokens (75% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (659; 100% of non-empty `Polarity`): <em>non, ne</em>
-* `EMPTY` (187): <em>nam, quidem, autem, enim</em>
+* `EMPTY` (217): <em>nam, quidem, ecce, autem, enim, igitur, namque, itaque, hecce</em>
 
 ### `DET`
 
@@ -32,18 +32,18 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (43; 100% of non-empty `Polarity`): <em>nulla, nulli, nullum, nullo, nullus, nonnulli, nullam, nonnullis</em>
-* `EMPTY` (19970): <em>ipsa, qui, mea, suprascripta, nostro, ipsius, tuis, omnia, hanc, meis</em>
+* `EMPTY` (20022): <em>ipsa, qui, mea, suprascripta, nostro, ipsius, tuis, omnia, hanc, meis</em>
 
 ### `PRON`
 
 15 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (15; 100%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (15; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (15; 100%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (15; 100%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (15; 100%).
 
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (15; 100% of non-empty `Polarity`): <em>nihil, nihel</em>
-* `EMPTY` (18295): <em>ego, me, nos, tibi, qui, eius, mihi, vobis, quas, id</em>
+* `EMPTY` (18264): <em>ego, me, nos, tibi, qui, eius, mihi, vobis, quas, id</em>
 
 ### `ADV`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (12; 100% of non-empty `Polarity`): <em>nihil, numquam, numqua, nunquam</em>
-* `EMPTY` (8187): <em>supra, una, exinde, ubi, taliter, tantum, sic, unde, superius, ibi</em>
+* `EMPTY` (8154): <em>supra, una, exinde, ubi, taliter, tantum, sic, unde, superius, ibi</em>
 
 ### `CCONJ`
 
@@ -63,10 +63,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>necnon</em>
-* `EMPTY` (14000): <em>et, vel, aut, seo, adque, seu, nisi, que, sive, ac</em>
-
-## Relations with Agreement in `Polarity`
-
-The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>PART --[<tt><a href="la_llct-dep-fixed.html">fixed</a></tt>]--> PART</tt> (7; 100%).
+* `EMPTY` (13992): <em>et, vel, aut, seo, adque, seu, nisi, que, sive, ac</em>
 

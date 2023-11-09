@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-306 nodes (0%) are attached to their parents as `fixed`.
+295 nodes (0%) are attached to their parents as `fixed`.
 
-306 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.41503267973856.
+295 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.34915254237288.
 
-The following 45 pairs of parts of speech are connected with `fixed`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (48; 16% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (42; 14% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (41; 13% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (35; 11% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (17; 6% instances), <tt><a href="id_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (14; 5% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (12; 4% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 39 pairs of parts of speech are connected with `fixed`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (48; 16% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (41; 14% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (41; 14% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (35; 12% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (17; 6% instances), <tt><a href="id_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (14; 5% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (12; 4% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,26 +42,6 @@ The following 45 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 fixed	color:blue
-1	Sebagai	sebagai	ADP	R--	_	2	case	_	Morf=^sebagai<r>_R--$
-2	tambahan	tambahan	ADJ	NSD	_	5	xcomp	_	Morf=^tambah<v>+an_NSD$
-3	dapat	dapat	AUX	VSA	_	5	aux	_	Morf=^dapat<v>_VSA$
-4	pula	pula	ADV	D--	_	5	advmod	_	Morf=^pula<d>_D--$
-5	diberi	beri	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+beri<v>_VSP$
-6	serta	serta	CCONJ	H--	_	7	cc	_	Morf=^serta<h>_H--$
-7	kolang	kolang	NOUN	X--	_	5	conj	_	Morf=^kolang<x>_X--$
-8	-	-	PUNCT	Z--	_	9	punct	_	Morf=^-<z>_Z--$
-9	kaling	kaling	NOUN	X--	_	7	fixed	_	SpaceAfter=No|Morf=^kaling<x>_X--$
-10	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
@@ -78,6 +58,26 @@ The following 45 pairs of parts of speech are connected with `fixed`: <tt><a hre
 9	kata-kata	kata	NOUN	NPD	Number=Plur	7	nmod	_	Morf=^kata<n>_NPD$
 10	itu	itu	DET	B--	PronType=Dem	9	det	_	SpaceAfter=No|Morf=^itu<b>_B--$
 11	?	?	PUNCT	Z--	_	7	punct	_	Morf=^?<z>_Z--$
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 fixed	color:blue
+1	Sebagai	sebagai	ADP	R--	_	2	case	_	Morf=^sebagai<r>_R--$
+2	tambahan	tambahan	ADJ	NSD	_	5	xcomp	_	Morf=^tambah<v>+an_NSD$
+3	dapat	dapat	AUX	VSA	_	5	aux	_	Morf=^dapat<v>_VSA$
+4	pula	pula	ADV	D--	_	5	advmod	_	Morf=^pula<d>_D--$
+5	diberi	beri	VERB	VSP	Mood=Ind|Voice=Pass	0	root	_	Morf=^di+beri<v>_VSP$
+6	serta	serta	CCONJ	H--	_	7	cc	_	Morf=^serta<h>_H--$
+7	kolang	kolang	NOUN	X--	_	5	conj	_	Morf=^kolang<x>_X--$
+8	-	-	PUNCT	Z--	_	9	punct	_	Morf=^-<z>_Z--$
+9	kaling	kaling	NOUN	X--	_	7	fixed	_	SpaceAfter=No|Morf=^kaling<x>_X--$
+10	.	.	PUNCT	Z--	_	5	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

@@ -33,4 +33,4 @@ a semantic relationship between them.
 - _i_ "and", _samýj sí varí i peré_ "he does both cooking and washing on his own"  [lit. "alone he cooks and washes"]
 - _i... i..._ "and... and...", _i játo mí svaríh i vódo mí annésah i kahvǿ mí stórih_ "I cooked them food and I took them water and
  I served them coffee (as well)" [lit. "and food them I cooked and water them I took and coffee them I made"]
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:24 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:23 CET -->

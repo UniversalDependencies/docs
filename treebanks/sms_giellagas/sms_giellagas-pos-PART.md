@@ -19,18 +19,18 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="sms_giellagas-p
 
 
 * <em>ni</em>
-  * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 10: <em>Seeʹst jeäʹla ǩeeʹrjteeʹjest võl <b>ni</b> måkam jurddi .</em>
+  * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 10: <em>Čääʹʒʒid di muõrid di puk poʹhtte , vuäʹbbes i-ǥõl <b>ni</b> koʹst jååʹtted .</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1: <em>Tõzz ij šõõdd šiõǥǥ jieʹllem , mutta kååʹtt ko peäʹl väldd tai kuälmõõzz ko väldd <b>ni</b> tõt lij reeʹǧǧesvuõtt ja šiõǥǥ jieʹllem lij tõn oummust .</em>
 * <em>äʹn</em>
   * <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 2: <em>” Äʹn , <b>äʹn</b> kâʹl mon piâzzam , ” ceälkk , ” ko dõõn ... ”</em>
   * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 2: <em>Uurči , uurči , uurči , ceälkk , <b>äʹn</b> , <b>äʹn</b> , dõõn leeik vueʹlǧǧee .</em>
 * <em>še</em>
-  * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 8: <em>Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu <b>še</b> Mary Brown .</em>
+  * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 8: <em>A mäʹhtt šât ton <b>še</b> puõʹttiǩ . ”</em>
   * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 2: <em>Ton <b>še</b> mõõnsââʹst .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.467290).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.472015).
 
 The 1st highest number of forms (1) was observed with the lemma “deʹbe”: <em>deʹbe</em>.
 

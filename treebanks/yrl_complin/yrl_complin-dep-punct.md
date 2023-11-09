@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1629 nodes (19%) are attached to their parents as `punct`.
+2463 nodes (19%) are attached to their parents as `punct`.
 
-1068 instances of `punct` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.61878453038674.
+1550 instances of `punct` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.66382460414129.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1156; 71% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (202; 12% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (76; 5% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (55; 3% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (54; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (27; 2% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (24; 1% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (23; 1% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1718; 70% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (315; 13% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (116; 5% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (87; 4% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (81; 3% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (50; 2% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (49; 2% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
 3	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=7:11
 4	upé	upé	ADP	ADP	_	3	case	_	TokenRange=12:15
-5	aikú	ikú	AUX	V	Number=Sing|Person=1|VerbForm=Fin	3	cop	_	SpaceAfter=No|TokenRange=16:20
+5	aikú	ikú	AUX	COP	Number=Sing|Person=1|VerbForm=Fin	3	cop	_	SpaceAfter=No|TokenRange=16:20
 6	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=20:21
 
 ~~~

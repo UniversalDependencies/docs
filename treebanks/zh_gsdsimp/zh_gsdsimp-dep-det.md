@@ -33,7 +33,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 9	会	会	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	设置	设置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂贵	昂贵	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音频	音频	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	设备	设备	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -64,7 +64,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 4	洛马纳	洛马纳	PROPN	NNP	_	3	appos	_	SpaceAfter=No|Translit=luòmǎnà|LTranslit=luòmǎnà
 5	·	·	PUNCT	/	_	6	punct	_	SpaceAfter=No|Translit=·|LTranslit=·
 6	卢阿卢阿	卢阿卢阿	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=卢'ā卢'ā|LTranslit=卢'ā卢'ā
-7	亦	亦	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
+7	亦	亦	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 8	曾	曾	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=céng|LTranslit=céng
 9	效力	效力	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=xiàolì|LTranslit=xiàolì
 10	纽卡素	纽卡素	PROPN	NNP	_	9	obj	_	SpaceAfter=No|Translit=niǔkǎsù|LTranslit=niǔkǎsù
@@ -85,7 +85,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 4	之	之	PART	DEC	Case=Gen	3	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 5	风暴	风暴	NOUN	NN	_	16	nsubj	_	SpaceAfter=No|Translit=fēngbào|LTranslit=fēngbào
 6	通常	通常	ADV	RB	_	16	advmod	_	SpaceAfter=No|Translit=tōngcháng|LTranslit=tōngcháng
-7	都	都	ADV	RB	_	16	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+7	都	都	SCONJ	RB	_	16	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 8	会	会	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 9	于	于	ADP	IN	_	15	case	_	SpaceAfter=No|Translit=yú|LTranslit=yú
 10	4	4	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=4|LTranslit=4

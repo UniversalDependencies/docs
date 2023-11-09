@@ -50,12 +50,12 @@ The following 1 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 25	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	27	case	_	_
 26	predicta	praedictus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	_
 27	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	29	obl:arg	_	_
-28	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-29	pertenentes	pertineo	VERB	t|t|-|s|p|p|a|m|a|-	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	1	acl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
-30	,	,	PUNCT	Punc	_	35	punct	_	_
+28	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+29	pertenentes	pertineo	VERB	t|t|-|s|p|p|a|m|a|-	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	1	acl:relcl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
+30	,	,	PUNCT	Punc	_	1	punct	_	_
 31	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	32	case	_	_
 32	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	35	obl	_	_
-33	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	35	obl:arg	_	_
+33	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	35	obl:arg	_	_
 34	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	35	obj	_	_
 35	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 36	;	;	PUNCT	Punc	_	35	punct	_	_

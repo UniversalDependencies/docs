@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.ht
 
 ### `PROPN`
 
-61 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (78% of all `PROPN` tokens) have a non-empty value of `NameType`.
+61 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (76% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
 The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (51; 84%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48; 79%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (45; 74%), <tt><a href="mdf_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37; 61%), <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (35; 57%).
 

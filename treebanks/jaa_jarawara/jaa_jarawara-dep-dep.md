@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 6 dep	color:blue
 1	Taha	_	NOUN	_	_	4	nsubj	_	_
-2	me	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+2	me	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	expl	_	_
 3	ini	_	NOUN	_	Gender=Fem	4	obj	_	_
 4	kitate	_	VERB	vi	Aspect=Hab	0	root	_	_
 5	me	_	PRON	_	Number=Plur|Person=3|PronType=Prs	4	discourse	_	_

@@ -32,26 +32,26 @@ The 10 most frequent ambiguous types:  <em>M</em> (<tt><a href="la_perseus-pos-P
   * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 2: <em><b>Manlius</b> et Faesulanus in primis pugnantes cadunt .</em>
 * <em>notus</em>
   * <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em>Erit ille <b>notus</b> quem per te cognoveris .</em>
-  * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>An satis , o superi , tutos fore creditis illos , cum mihi , qui fulmen , qui vos que habeo que rego , struxerit insidias <b>notus</b> feritate Lycaon ? '</em>
+  * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>An satis , o superi , tutos fore creditis illos , cum mihi , qui fulmen , qui vos habeo que rego que , struxerit insidias <b>notus</b> feritate Lycaon ? '</em>
 * <em>A</em>
   * <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 5: <em><b>A</b> te decurrit ad meos haustus liquor .</em>
   * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>apud maiores nostros <b>A</b> . Manlius Torquatus bello Gallico filium suom , quod is contra imperium in hostem pugnaverat , necari iussit , atque ille egregius adulescens inmoderatae fortitudinis morte poenas dedit ;</em>
 * <em>Asia</em>
   * <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 1: <em>Colonias in Africa , Sicilia , Macedonia , utraque Hispania , Achaia , <b>Asia</b> , Syria , Gallia Narbonensi , Pisidia militum deduxi Italia autem XXVIII colonias quae vivo me celeberrimae et frequentissimae fuerunt mea auctoritate deductas habet .</em>
-  * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>huc adcedebat quod L . Sulla exercitum , quem in <b>Asia</b> ductaverat , quo sibi fidum faceret , contra morem maiorum luxuriose que nimis liberaliter habuerat .</em>
+  * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>huc adcedebat quod L . Sulla exercitum , quem in <b>Asia</b> ductaverat , quo sibi fidum faceret , contra morem maiorum luxuriose nimis que liberaliter habuerat .</em>
 * <em>Daedalus</em>
-  * <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em>que Dum <b>Daedalus</b> potionem ferventissimam haurit , Fortunata mola buxea piper trivit .</em>
+  * <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em>Dum que <b>Daedalus</b> potionem ferventissimam haurit , Fortunata mola buxea piper trivit .</em>
   * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>Habeo capides M , quas reliquit patrono meo Mummius , ubi <b>Daedalus</b> Niobam in equum Troianum includit .</em>
 * <em>Gabinium</em>
   * <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> 2: <em>Sed Allobroges ex praecepto Ciceronis per <b>Gabinium</b> ceteros conveniunt .</em>
   * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>praeterea <b>Gabinium</b> arcessit , quo maior auctoritas sermoni inesset .</em>
 * <em>Saturnia</em>
   * <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> 1: <em>Petit hanc <b>Saturnia</b> munus .</em>
-  * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>Excipit hos que volucris suae <b>Saturnia</b> pennis collocat et gemmis caudam stellantibus inplet .</em>
+  * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 1: <em>Excipit hos volucris que suae <b>Saturnia</b> pennis collocat et gemmis caudam stellantibus inplet .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.356125 (the average of all parts of speech is 2.102007).
+The form / lemma ratio of `PROPN` is 1.356125 (the average of all parts of speech is 2.102233).
 
 The 1st highest number of forms (6) was observed with the lemma “Iuppiter”: <em>Ioui, Iouis, Iove, Iovem, Iovis, Iuppiter</em>.
 
@@ -74,17 +74,17 @@ Examples: <em>Trimalchio, Catilina, Caesar, C, Iuppiter, Antonius, Glyco, L, Orc
 
 Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (459; 62% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (134; 18% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (115; 16% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (23; 3% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-346 (47%) `PROPN` nodes are leaves.
+348 (47%) `PROPN` nodes are leaves.
 
-242 (33%) `PROPN` nodes have one child.
+243 (33%) `PROPN` nodes have one child.
 
-117 (16%) `PROPN` nodes have two children.
+115 (16%) `PROPN` nodes have two children.
 
-34 (5%) `PROPN` nodes have three or more children.
+33 (4%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 9.
 
-Children of `PROPN` nodes are attached using 23 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (141; 24% instances), <tt><a href="la_perseus-dep-amod.html">amod</a></tt> (82; 14% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (74; 12% instances), <tt><a href="la_perseus-dep-flat-name.html">flat:name</a></tt> (73; 12% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (59; 10% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (31; 5% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (31; 5% instances), <tt><a href="la_perseus-dep-det.html">det</a></tt> (30; 5% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (15; 3% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (14; 2% instances), <tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt> (12; 2% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (8; 1% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="la_perseus-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="la_perseus-dep-nummod.html">nummod</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-advmod-lmod.html">advmod:lmod</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 23 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (141; 24% instances), <tt><a href="la_perseus-dep-amod.html">amod</a></tt> (81; 14% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (74; 13% instances), <tt><a href="la_perseus-dep-flat-name.html">flat:name</a></tt> (73; 12% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (58; 10% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (31; 5% instances), <tt><a href="la_perseus-dep-det.html">det</a></tt> (30; 5% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (28; 5% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (14; 2% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (14; 2% instances), <tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt> (12; 2% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (8; 1% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="la_perseus-dep-acl.html">acl</a></tt> (4; 1% instances), <tt><a href="la_perseus-dep-nummod.html">nummod</a></tt> (3; 1% instances), <tt><a href="la_perseus-dep-advmod-emph.html">advmod:emph</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-advmod-lmod.html">advmod:lmod</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (141; 24% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (115; 19% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (74; 12% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (74; 12% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (59; 10% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (45; 8% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (36; 6% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (31; 5% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (141; 24% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (115; 20% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (74; 13% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (73; 12% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (59; 10% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (42; 7% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (36; 6% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (28; 5% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (1; 0% instances)
 

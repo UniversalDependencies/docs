@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="es_ancora-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>.
 
-3213 nodes (1%) are attached to their parents as `expl:pv`.
+3212 nodes (1%) are attached to their parents as `expl:pv`.
 
-2559 instances of `expl:pv` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15001556178027.
+2558 instances of `expl:pv` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14975093399751.
 
-The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (3209; 100% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (3208; 100% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl:pv	color:blue
-1	Y	y	CCONJ	cc	_	3	advmod	3:advmod	_
+1	Y	y	CCONJ	cc	_	3	cc	3:cc	_
 2	nos	yo	PRON	pp1cp000	Case=Acc|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	3:expl:pv	ArgTem=arg1:tem
 3	quemamos	quemar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 4	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_

@@ -45,7 +45,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:pass	color:blue
-1	It	it	PRON	PERS-SG	_	4	nsubj:pass	_	SpaceAfter=No
+1	It	it	PRON	PERS-SG	_	4	nsubj:pass	_	_
 2	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 3	even	even	ADV	_	_	4	advmod	_	_
 4	made	make	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_

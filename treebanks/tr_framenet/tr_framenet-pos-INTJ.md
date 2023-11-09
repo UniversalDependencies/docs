@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-FrameNet: POS Tags: `INTJ`
 
 There are 8 `INTJ` lemmas (0%), 8 `INTJ` types (0%) and 12 `INTJ` tokens (0%).
-Out of 15 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 13 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>hadi, haydi, sakın, ya, ay, eyvah, uf, yuh</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ya</em> (<tt><a href="tr_framenet-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.741529).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.742503).
 
 The 1st highest number of forms (1) was observed with the lemma “ay”: <em>Ay</em>.
 

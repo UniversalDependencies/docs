@@ -158,4 +158,4 @@ semantically plausible. Sometimes, the plural form exists and means
 
 * Sussex, Roland and Cubberley, Paul. 2006. _The Slavic Languages._ Cambridge University Press.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:42 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:54 CET -->

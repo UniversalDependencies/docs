@@ -12,20 +12,20 @@ It occurs with 3 different values: `Abs`, `Cmp`, `Dim`.
 1097 tokens (2%) have a non-empty value of `Degree`.
 450 types (4%) occur at least once with a non-empty value of `Degree`.
 226 lemmas (4%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (586; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (422; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (55; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (12; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (587; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (422; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (55; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (12; 0% instances).
 
 ### `ADJ`
 
-586 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Degree`.
+587 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (586; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (410; 70%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (587; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (411; 70%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Abs` (314; 54% of non-empty `Degree`): <em>optimum, potissima, ultimum, optima, gravissimum, maxima, summi, ultima, nobilissima, nobilissimum</em>
-* `Cmp` (268; 46% of non-empty `Degree`): <em>inferioribus, maior, altior, inferiora, melius, superioribus, superiorem, inferior, maioris, superiora</em>
+* `Abs` (314; 53% of non-empty `Degree`): <em>optimum, potissima, ultimum, optima, gravissimum, maxima, summi, ultima, nobilissima, nobilissimum</em>
+* `Cmp` (269; 46% of non-empty `Degree`): <em>inferioribus, maior, altior, inferiora, melius, superioribus, superiorem, inferior, maioris, superiora</em>
 * `Dim` (4; 1% of non-empty `Degree`): <em>parvuli, parvulos, parvulus, recurvella</em>
-* `EMPTY` (3391): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
+* `EMPTY` (3389): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
 
 <table>
   <tr><th>Paradigm <i>bonus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -61,12 +61,12 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 422 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (422; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (419; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (404; 96%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (422; 100%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (419; 99%), <tt><a href="la_udante-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (381; 90%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (153; 36% of non-empty `Degree`): <em>maxime, optime, ymo, potissime, minime, ultimo, demum, immo, carissime, evidentissime</em>
-* `Cmp` (269; 64% of non-empty `Degree`): <em>magis, superius, prius, potius, melius, inferius, minus, ulterius, iterum, amplius</em>
+* `Cmp` (269; 64% of non-empty `Degree`): <em>magis, superius, potius, prius, melius, inferius, minus, ulterius, iterum, amplius</em>
 * `EMPTY` (2693): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, solum</em>
 
 <table>
@@ -89,31 +89,31 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 ### `DET`
 
-22 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
+21 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (22; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (21; 95%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt> (19; 86%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt> (14; 64%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (21; 100%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (21; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt> (19; 90%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt> (14; 67%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (3; 14% of non-empty `Degree`): <em>perplures, permultis</em>
-* `Cmp` (19; 86% of non-empty `Degree`): <em>plura, quamplures, plures, pluribus, plus, plurium, prius, quamplurium</em>
-* `EMPTY` (3622): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, sua, quedam</em>
+* `Cmp` (18; 86% of non-empty `Degree`): <em>plura, quamplures, plures, pluribus, plus, plurium, quamplurium</em>
+* `EMPTY` (3626): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, sua, quedam</em>
 
 <table>
   <tr><th>Paradigm <i>multus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>pluribus</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>pluribus</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>permultis</em></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>pluribus</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>pluribus</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>perplures</em></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>plures</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plures</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>perplures</em></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>plura</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plura</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>plus</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>plura</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>plurium</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>plures</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>plura</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>plus</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plura</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plurium</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plures</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>plura</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>plus</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -126,7 +126,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 * `Abs` (8; 67% of non-empty `Degree`): <em>sanctissimo, perfectissimum, potentissimo, promptissima, promptissimam, volentissimo</em>
 * `Cmp` (4; 33% of non-empty `Degree`): <em>ardentiori, perfectior, perfectiori, sanctius</em>
-* `EMPTY` (8211): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
+* `EMPTY` (8212): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 
 <table>
   <tr><th>Paradigm <i>sancio</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>

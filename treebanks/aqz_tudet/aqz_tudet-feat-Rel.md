@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Cont`.
 
 20 tokens (1%) have a non-empty value of `Rel`.
-12 types (3%) occur at least once with a non-empty value of `Rel`.
+12 types (2%) occur at least once with a non-empty value of `Rel`.
 7 lemmas (2%) occur at least once with a non-empty value of `Rel`.
 The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 

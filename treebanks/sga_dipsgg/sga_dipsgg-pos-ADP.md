@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>do</em> (<tt><a href="sga_dipsgg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.785714 (the average of all parts of speech is 1.264574).
+The form / lemma ratio of `ADP` is 1.785714 (the average of all parts of speech is 1.261062).
 
 The 1st highest number of forms (4) was observed with the lemma “do”: <em>dait, do, dom, dún</em>.
 

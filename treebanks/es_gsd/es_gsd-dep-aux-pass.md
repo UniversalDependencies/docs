@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	4	case	_	_
-4	1952	1952	NUM	_	NumType=Card	2	obl	_	SpaceAfter=No
+4	1952	1952	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

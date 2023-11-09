@@ -18,4 +18,4 @@ esghagh lleq a mken . \n to-see will-V Ind.Trns 1Sg.2Sg .
 dep:aux(esghagh, lleq)
 dep:aux(to-see, will-V)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:10 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:46 CET -->

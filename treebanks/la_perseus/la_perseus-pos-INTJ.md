@@ -13,9 +13,9 @@ The 10 most frequent `INTJ` lemmas: <em>Hercules, ah, O, vae, heu!, hei, heu, he
 
 The 10 most frequent `INTJ` types:  <em>mehercules, a, heu, mehercule, o, vae, Heus, Io, Quare, Vah</em>
 
-The 10 most frequent ambiguous lemmas: <em>Hercules</em> (<tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 2), <em>ne</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 64, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>quare</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 7, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Hercules</em> (<tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 2), <em>ne</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 99, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>quare</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 7, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 86, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 5), <em>o</em> (<tt><a href="la_perseus-pos-PART.html">PART</a></tt> 4, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 2), <em>Io</em> (<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>Quare</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 2, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>ei</em> (<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 5, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>ne</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 56, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 86, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 5), <em>o</em> (<tt><a href="la_perseus-pos-PART.html">PART</a></tt> 4, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 2), <em>Io</em> (<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>Quare</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 2, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>ei</em> (<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 5, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>ne</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 89, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>a</em>
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="la_perseus-pos-A
   * <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 5: <em><b>a</b> pereat , si quis lentus amare potest !</em>
 * <em>o</em>
   * <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 4: <em>— Vos quoque , <b>o</b> cives , ait , Hoc sustinete , maius ne veniat malum .</em>
-  * <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 2: <em>An satis , <b>o</b> superi , tutos fore creditis illos , cum mihi , qui fulmen , qui vos que habeo que rego , struxerit insidias notus feritate Lycaon ? '</em>
+  * <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 2: <em>An satis , <b>o</b> superi , tutos fore creditis illos , cum mihi , qui fulmen , qui vos habeo que rego que , struxerit insidias notus feritate Lycaon ? '</em>
 * <em>Io</em>
   * <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> 2: <em>Constiterat quocumque modo , spectabat ad <b>Io</b> .</em>
   * <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Io</b> Saturnalia , rogo , mensis december est ?</em>
@@ -34,14 +34,14 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="la_perseus-pos-A
   * <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 5: <em>delatum <b>ei</b> a milite imperium conveniebat .</em>
   * <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1: <em>namque ubi longa meae consumpsti tempora noctis , languidus exactis , <b>ei</b> mihi , sideribus ?</em>
 * <em>ne</em>
+  * <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 89: <em>Tu <b>ne</b> cede malis , sed contra audentior ito , qua tua te Fortuna sinet .</em>
   * <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 68: <em>sed inmedicabile corpus ense recidendum est , <b>ne</b> pars sincera trahatur .</em>
-  * <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 56: <em>Tu <b>ne</b> cede malis , sed contra audentior ito , qua tua te Fortuna sinet .</em>
   * <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3: <em>non <b>ne</b> hunc in vincla duci , non ad mortem rapi , non summo supplicio mactari imperabis ?</em>
   * <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1: <em><b>ne</b> illi vehementer errant , si illam meam pristinam lenitatem perpetuam sperant futuram .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.076923 (the average of all parts of speech is 2.102007).
+The form / lemma ratio of `INTJ` is 1.076923 (the average of all parts of speech is 2.102233).
 
 The 1st highest number of forms (3) was observed with the lemma “Hercules”: <em>hercle, mehercule, mehercules</em>.
 

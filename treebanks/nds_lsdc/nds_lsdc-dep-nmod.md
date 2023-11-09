@@ -9,39 +9,34 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="nds_lsdc-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-30 nodes (1%) are attached to their parents as `nmod`.
+46 nodes (1%) are attached to their parents as `nmod`.
 
-24 instances of `nmod` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.83333333333333.
+38 instances of `nmod` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.67391304347826.
 
-The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (13; 43% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 13% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (20; 43% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 nmod	color:blue
-1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=hê¹
-2	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=hebben
-3	eyne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	lemma[gml]=êⁱn¹
-4	vrouw	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	lemma[gml]=vrouwe²
-5	mid	mid	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=mit
-6	vyv	vyv	NUM	_	NumType=Card	7	nummod	_	lemma[gml]=vîf
-7	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	lemma[gml]=kint|SpaceAfter=No
-8	,	,	PUNCT	_	_	12	punct	_	_
-9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	12	nsubj	_	lemma[gml]=dê¹
-10	aver	avers	ADV	_	_	12	advmod	_	lemma[gml]=āvers
-11	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	9	appos	_	lemma[gml]=al
-12	uutsågen	uutseen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	acl	_	lemma[gml]=ûtsên|SpaceAfter=No
-13	,	,	PUNCT	_	_	12	punct	_	_
-14	äs	as	SCONJ	_	_	18	mark	_	lemma[gml]=alsô
-15	wän	wan	SCONJ	_	_	18	mark	_	lemma[gml]=wan³
-16	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
-17	bast	bast	NOUN	_	Case=Acc|Gender=Masc,Neut|Number=Sing	18	obj	_	lemma[gml]=bast
-18	gnageden	gnagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	advcl	_	lemma[gml]=gnāgen|SpaceAfter=No
-19	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 12 nmod	color:blue
+1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=wî
+2	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	lemma_gml=wēsen
+3	nit	nich	PART	_	PartType=Neg	4	advmod	_	lemma_gml=nicht
+4	beyt	beyt	ADJ	_	Degree=Pos	0	root	_	lemma_gml=bêit|SpaceAfter=No
+5	,	,	PUNCT	_	_	13	punct	_	_
+6	wan	wan	SCONJ	_	_	13	mark	_	lemma_gml=wan
+7	wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	lemma_gml=wî
+8	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	lemma_gml=dê
+9	ryten	ryten	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	lemma_gml=rîtent
+10	in	in	ADP	_	AdpType=Prep	12	case	_	lemma_gml=in
+11	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	lemma_gml=dê
+12	vingers	vinger	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	9	nmod	_	lemma_gml=vinger
+13	krigt	krygen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	advcl	_	lemma_gml=krîgen|SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -52,52 +47,40 @@ The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 nmod	color:blue
-1	Alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	2	nsubj	_	lemma[gml]=al
-2	lachen	lachen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma[gml]=lachen¹
-3	harde	harde	ADV	_	_	2	advmod	_	lemma[gml]=hā̆rde
-4	up	up	ADP	_	_	2	compound	_	lemma[gml]=up¹|SpaceAfter=No
+1	Alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	2	nsubj	_	lemma_gml=al
+2	lachen	lachen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=lachen¹
+3	harde	harde	ADV	_	_	2	advmod	_	lemma_gml=hā̆rde
+4	up	up	ADP	_	_	2	compound	_	lemma_gml=up¹|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
-6	un	un	DET	_	_	8	det	_	lemma[gml]=unde²
+6	un	un	DET	_	_	8	det	_	lemma_gml=unde²
 7	Wiesken	Wiesken	PROPN	_	Number=Sing	8	nsubj	_	_
-8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma[gml]=wērden¹
-9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma[gml]=rôt⁴
-10	as	as	ADP	_	_	11	case	_	lemma[gml]=alsô
-11	vüür	vüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	lemma[gml]=vü̂r¹|SpaceAfter=No
+8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=wērden¹
+9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=rôt⁴
+10	as	as	SCONJ	_	_	11	case	_	lemma_gml=alsô
+11	vüür	vüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	lemma_gml=vü̂r¹|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 12 nmod	color:blue
-1	-	-	PUNCT	_	_	4	punct	_	_
-2	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
-3	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma[gml]=bûr¹
-4	smeyt	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=smyten
-5	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Rcp	4	obj	_	lemma[gml]=sik¹
-6	van	van	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=van¹
-7	de	de	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	9	det	_	lemma[gml]=dê¹
-8	eyne	eyn	NUM	_	Case=Dat|Gender=Fem|Number=Sing	9	nummod	_	lemma[gml]=êⁱn¹
-9	syde	syde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	lemma[gml]=sîde¹
-10	up	up	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=up²
-11	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma[gml]=dê¹
-12	andere	ander	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	lemma[gml]=ander|SpaceAfter=No
-13	,	,	PUNCT	_	_	18	punct	_	_
-14	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	expl	_	lemma[gml]=et¹
-15	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	cop	_	lemma[gml]=wēsen²
-16	em	hee	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	18	obj	_	lemma[gml]=hê¹
-17	nich	nich	PART	_	PartType=Neg	18	advmod	_	lemma[gml]=nicht¹
-18	müägelik	möägelik	ADJ	_	Degree=Pos	4	parataxis	_	lemma[gml]=mȫgelĩk¹|SpaceAfter=No
-19	,	,	PUNCT	_	_	22	punct	_	_
-20	dat	dat	SCONJ	_	_	22	mark	_	lemma[gml]=dat²
-21	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	lemma[gml]=hê¹
-22	slåpen	slåpen	VERB	_	VerbForm=Inf	18	advcl	_	lemma[gml]=slâpen
-23	kon	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	lemma[gml]=künnen|SpaceAfter=No
-24	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 nmod	color:blue
+1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê
+2	trekket	trekken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=trecken
+3	teager	teagen	ADP	_	AdpType=Prep	4	case	_	lemma_gml=tēgen
+4	dik	du	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	2	obl	_	lemma_gml=dû|SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
+7	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	2	conj	_	lemma_gml=dat
+8	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma_gml=mit
+9	veerhunderd	veerhunderd	NUM	_	_	10	nummod	_	lemma_gml=vêrhundert
+10	man	man	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	nmod	_	lemma_gml=man|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+12	«	«	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

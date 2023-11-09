@@ -22,7 +22,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html
 
 * `Neg` (3222; 100% of non-empty `Polarity`): <em>pas, n', ne, que, non, qu', jamais, plus, guère, point</em>
 * `Pos` (3; 0% of non-empty `Polarity`): <em>jamais</em>
-* `EMPTY` (10934): <em>plus, très, aussi, ainsi, alors, bien, également, lors, même, encore</em>
+* `EMPTY` (10933): <em>plus, très, aussi, ainsi, alors, bien, également, lors, même, encore</em>
 
 <table>
   <tr><th>Paradigm <i>jamais</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -36,5 +36,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>non</em>
-* `EMPTY` (79): <em>merci, bref, attention, bravo, oui, dommage, Bonjour, Ah, enfin, Allo</em>
+* `EMPTY` (81): <em>merci, bref, attention, oui, bravo, dommage, Bonjour, Ah, enfin, Allo</em>
 

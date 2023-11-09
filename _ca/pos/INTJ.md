@@ -27,4 +27,4 @@ Marked as adverbs:
 
 - _sí_, e.g. _Votarem <b>sí</b>._ "We will vote <b>yes</b>".
 - _no_, e.g. _<b>No</b> és veritat._ "It is <b>not</b> true."
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:24 CET -->

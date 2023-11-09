@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `SCONJ`
 
 There are 17 `SCONJ` lemmas (0%), 17 `SCONJ` types (0%) and 10550 `SCONJ` tokens (2%).
-Out of 17 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>que, com, perquè, si, quan, segons, mentre, on, perqu, què</em>
 
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="ca_ancora-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.416268).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.416814).
 
 The 1st highest number of forms (1) was observed with the lemma “abans”: <em>abans</em>.
 
@@ -83,7 +83,7 @@ Examples: <em>que, com, perquè, si, quan, segons, mentre, on, perqu, què</em>
 
 `SCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="ca_ancora-dep-mark.html">mark</a></tt> (8330; 79% instances), <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (1367; 13% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (665; 6% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (152; 1% instances), <tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt> (13; 0% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (9; 0% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="ca_ancora-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ca_ancora-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6120; 58% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1815; 17% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (637; 6% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (626; 6% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (326; 3% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (292; 3% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (218; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (206; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (137; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (123; 1% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (16; 0% instances),  (9; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6120; 58% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1814; 17% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (637; 6% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (626; 6% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (325; 3% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (292; 3% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (218; 2% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (206; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (137; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (123; 1% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (18; 0% instances),  (9; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (2; 0% instances)
 
 9696 (92%) `SCONJ` nodes are leaves.
 

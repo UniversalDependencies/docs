@@ -149,12 +149,12 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4664; 93%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1223; 77%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (134; 85%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (102; 74%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (94; 85%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (58; 85%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (54; 69%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (51; 77%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (33; 87%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (30; 81%).
+<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (30; 81%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (19; 83%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (16; 89%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (10; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 80%).
 

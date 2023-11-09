@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `ADV`
 
-There are 83 `ADV` lemmas (16%), 86 `ADV` types (11%) and 298 `ADV` tokens (10%).
+There are 83 `ADV` lemmas (15%), 86 `ADV` types (11%) and 298 `ADV` tokens (10%).
 Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>âʹtte, âʹpet, kâʹl, de, tok, mäʹhtt, pâi, âʹte, nuʹtt, teâđast</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sms_giellagas-p
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 9: <em>Näʹde <b>tok</b> ... pâi-i nuâll , <b>tok</b> ǩeâss .</em>
   * <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1: <em>De son jeeʹres tõzz-e <b>tok</b> kuäʹđ ... jiijjâs kuäʹđ jeeʹres årra tok raaji pääiʹǩi ja de tok pääkkai mõõnnâd .</em>
 * <em>še</em>
-  * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 8: <em>Nuʹtt kuâđđje vaʹlljeeǩâni Peter Smith diǥu <b>še</b> Mary Brown .</em>
+  * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 8: <em>A mäʹhtt šât ton <b>še</b> puõʹttiǩ . ”</em>
   * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 2: <em>Ton <b>še</b> mõõnsââʹst .</em>
 * <em>tõʹst</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 7: <em>Čääʹccskääll pâi åårr <b>tõʹst</b> jiõŋ âʹlnn .</em>
@@ -47,12 +47,12 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sms_giellagas-p
   * <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 3: <em><b>No</b> son mâʹst teâtt ...</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1: <em><b>No</b> vuâlgg , vuõʹlji .</em>
 * <em>ni</em>
-  * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 10: <em>Seeʹst jeäʹla ǩeeʹrjteeʹjest võl <b>ni</b> måkam jurddi .</em>
+  * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 10: <em>Čääʹʒʒid di muõrid di puk poʹhtte , vuäʹbbes i-ǥõl <b>ni</b> koʹst jååʹtted .</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1: <em>Tõzz ij šõõdd šiõǥǥ jieʹllem , mutta kååʹtt ko peäʹl väldd tai kuälmõõzz ko väldd <b>ni</b> tõt lij reeʹǧǧesvuõtt ja šiõǥǥ jieʹllem lij tõn oummust .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.036145 (the average of all parts of speech is 1.467290).
+The form / lemma ratio of `ADV` is 1.036145 (the average of all parts of speech is 1.472015).
 
 The 1st highest number of forms (3) was observed with the lemma “nuʹtt”: <em>Nuʹtt, nuʹt, nuʹt-i</em>.
 

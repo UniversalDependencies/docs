@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal but the values `CauPass`, `Rfl` are language-specific.
 It occurs with 5 different values: `Cau`, `CauPass`, `Pass`, `Rcp`, `Rfl`.
 
-2116 tokens (1%) have a non-empty value of `Voice`.
-1069 types (3%) occur at least once with a non-empty value of `Voice`.
-412 lemmas (3%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (2116; 1% instances).
+2119 tokens (1%) have a non-empty value of `Voice`.
+1072 types (3%) occur at least once with a non-empty value of `Voice`.
+414 lemmas (3%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (2119; 1% instances).
 
 ### `VERB`
 
-2116 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Voice`.
+2119 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2091; 99%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2056; 97%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (2053; 97%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1813; 86%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1723; 81%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1290; 61%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1073; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2094; 99%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2059; 97%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (2057; 97%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1815; 86%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1726; 81%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1293; 61%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1075; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Cau` (561; 27% of non-empty `Voice`): <em>bildirdi, gerektiriyor, yükseltti, üretiyor, oluşturuyor, oluşturdu, yansıtıyor, çıkarıyor, oluşturmaktadır, geliştirdi</em>
+* `Cau` (562; 27% of non-empty `Voice`): <em>bildirdi, gerektiriyor, yükseltti, üretiyor, oluşturuyor, oluşturdu, yansıtıyor, çıkarıyor, oluşturmaktadır, geliştirdi</em>
 * `CauPass` (117; 6% of non-empty `Voice`): <em>gerçekleştirildi, çıkarıldı, değerlendirilmektedir, sınıflandırıldı, adlandırıldı, adlandırılıyor, ağırlıklandırılmıştır, derecelendirildi, değiştirildi, durduruldu</em>
-* `Pass` (1386; 66% of non-empty `Voice`): <em>edildi, bekleniyor, açıklanmadı, ulaşılamadı, bulundu, ediliyor, açıldı, seçildi, alındı, verildi</em>
+* `Pass` (1388; 66% of non-empty `Voice`): <em>edildi, bekleniyor, açıklanmadı, ulaşılamadı, bulundu, ediliyor, açıldı, seçildi, alındı, verildi</em>
 * `Rcp` (37; 2% of non-empty `Voice`): <em>dönüştü, artış, karıştırıyor, satış, satışa, sıkılaştırıyor, uçuş, Anlaşma, değişmedi, dolaştıracak</em>
 * `Rfl` (15; 1% of non-empty `Voice`): <em>uyarlandı, dendi, denebilir, denebilirdi, denemez, denir, deniyordu, sabitlendi, uyarlanmadı, uyarlanır</em>
-* `EMPTY` (13872): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
+* `EMPTY` (13866): <em>söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th><th><tt>CauPass</tt></th></tr>

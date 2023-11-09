@@ -142,7 +142,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (15301; 26% of non-empty `Number`): <em>мы, они, их, нас, них, вы, нам, им, все, которые</em>
 * `Sing` (43939; 74% of non-empty `Number`): <em>он, это, я, его, она, то, мне, все, того, том</em>
-* `EMPTY` (13704): <em>что, которые, себя, себе, который, кто, это, которых, которая, ничего</em>
+* `EMPTY` (13705): <em>что, которые, себя, себе, который, кто, это, которых, которая, ничего</em>
 
 <table>
   <tr><th>Paradigm <i>который</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -186,7 +186,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 * `Plur` (1371; 3% of non-empty `Number`): <em>США, Цилиндры, НКО, Цилиндров, Сил, Альпах, Штаты, Игр, РКС, Сочи</em>
 * `Sing` (48946; 97% of non-empty `Number`): <em>России, Россия, СССР, Москве, Путин, Владимир, В., Москвы, Германии, А.</em>
-* `EMPTY` (5441): <em>СССР, США, РАН, С., РФ, А., Южной, НАТО, Б., Западной</em>
+* `EMPTY` (5438): <em>СССР, США, РАН, С., РФ, А., Южной, НАТО, Б., Западной</em>
 
 <table>
   <tr><th>Paradigm <i>Путин</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -319,6 +319,6 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (20395; 80%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (15415; 80%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (9874; 91%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (9470; 69%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7084; 97%).
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (9472; 69%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7085; 97%).
 

@@ -22,4 +22,4 @@ obl(вунӧдӧма, некодӧн)
 aux:tense(локтӧ, вӧлі)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:02 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:31 CET -->

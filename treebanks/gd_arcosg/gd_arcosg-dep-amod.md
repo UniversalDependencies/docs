@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	eile	eile	ADJ	Aq-smn	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 8	air	air	PART	Sa	_	13	case	_	_
 9	na	an	DET	Tdpf	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	trì	trì	NUM	Mc	_	11	nummod	_	_
+10	trì	trì	NUM	Mc	NumForm=Word|NumType=Card	11	nummod	_	_
 11	duilleagan	duilleag	NOUN	Ncpfn	Case=Nom|Gender=Fem|Number=Plur	13	obj	_	_
 12	a	a	PART	Ug	PartType=Inf	13	mark:prt	_	_
 13	dhèanamh	dèan	NOUN	Nv	VerbForm=Inf	3	xcomp:pred	_	SpaceAfter=No

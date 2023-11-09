@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NUM</tt> (421; 100%),
-<tt>NUM --[<tt><a href="sl_ssj-dep-flat.html">flat</a></tt>]--> NUM</tt> (140; 86%),
+<tt>NUM --[<tt><a href="sl_ssj-dep-flat.html">flat</a></tt>]--> NUM</tt> (142; 87%),
 <tt>NUM --[<tt><a href="sl_ssj-dep-list.html">list</a></tt>]--> NUM</tt> (33; 100%),
 <tt>NUM --[<tt><a href="sl_ssj-dep-appos.html">appos</a></tt>]--> NUM</tt> (15; 100%),
 <tt>NUM --[<tt><a href="sl_ssj-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (10; 100%),

@@ -22,11 +22,11 @@ The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 dep:comp	color:blue
-1	Pourquoi	pourquoi	ADV	_	_	4	advmod	_	wordform=pourquoi
+1	Pourquoi	pourquoi	ADV	_	PronType=Int	4	advmod	_	wordform=pourquoi
 2	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	_
 3	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dep:comp	_	_
 4	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	-on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	wordform=on
+5	-on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	wordform=on
 6	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
 7	confiance	confiance	NOUN	_	Gender=Fem|Number=Sing	4	obj:lvc	_	_
 8	?	?	PUNCT	_	_	4	punct	_	_
@@ -83,7 +83,7 @@ The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
 17	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No
 18	entoure	entourer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
-19	à	à	ADP	_	_	11	advmod	_	ExtPos=ADV|Idiom=Yes
+19	à	à	ADP	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
 20	partir	partir	VERB	_	VerbForm=Inf	19	fixed	_	InIdiom=Yes
 21	de	de	ADP	_	_	24	case	_	_
 22	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	24	det	_	_

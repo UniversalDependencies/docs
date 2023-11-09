@@ -11,8 +11,8 @@ There are also 2 other language-specific subtypes of `advcl`: <tt><a href="la_pe
 
 164 nodes (1%) are attached to their parents as `advcl:abs`.
 
-132 instances of `advcl:abs` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.98780487804878.
+131 instances of `advcl:abs` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.
 
 The following 4 pairs of parts of speech are connected with `advcl:abs`: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (159; 97% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 

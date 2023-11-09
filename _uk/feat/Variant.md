@@ -30,4 +30,4 @@ The `Variant` feature helps to distinguish the alternate forms.
 #### Examples
 
 * _<b>бідная</b>_ (instead of _бідна_) “poor”
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:11 CET -->

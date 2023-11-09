@@ -96,9 +96,9 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ro_rrt-dep-mark.html">mark</a></tt>]--> PART</tt> (1693; 73%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-mark.html">mark</a></tt>]--> PART</tt> (1694; 73%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1331; 79%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (36; 52%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (36; 57%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> VERB</tt> (8; 67%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-case.html">case</a></tt>]--> PART</tt> (1; 100%).
 

@@ -17,19 +17,19 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 amod	color:blue
-1	Игаузу	Игаузу	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	OrigLang=ru
-2	-	-	PUNCT	PUNCT	_	7	punct	_	_
-3	тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	_
-4	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	7	amod	_	_
-5	либӧ	либӧ	CCONJ	CC	_	6	cc	_	OrigLang=ru
-6	ичӧт	ичӧт	ADJ	A	Case=Nom|Number=Sing	4	conj	_	_
-7	канму	канму	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-8	?	?	PUNCT	CLB	_	7	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
+2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	OrigLang=ru
+3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	таво	таво	ADV	Adv	_	3	advmod:tmod	_	_
+5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+6	районувса	районувса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	OrigLang=ru
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

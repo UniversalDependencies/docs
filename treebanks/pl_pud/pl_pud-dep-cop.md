@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-215 nodes (1%) are attached to their parents as `cop`.
+221 nodes (1%) are attached to their parents as `cop`.
 
-173 instances of `cop` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.32558139534884.
+176 instances of `cop` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.27149321266968.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (104; 48% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (97; 45% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (106; 48% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (99; 45% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	czas	czas	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
 3	oczekiwania	oczekiwać	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	2	nmod:arg	2:nmod:arg	_
 4	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	6	cop	6:cop	_
-5	osiem	osiem	NUM	num:pl:nom:m3:rec	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	6	nummod:gov	6:nummod:gov	_
+5	osiem	osiem	NUM	num:pl:nom:m3:rec:ncol	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	6	nummod:gov	6:nummod:gov	_
 6	tygodni	tydzień	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 7	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
 
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 8	–	–	PUNCT	interp	PunctType=Dash	12	punct	12:punct	_
 9	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	12	cop	12:cop	_
 10	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	12:aux	_
-11	właściwie	właściwie	ADV	adv:pos	Degree=Pos	12	advmod	12:advmod	_
+11	właściwie	właściwie	PART	part	_	12	advmod:emph	12:advmod:emph	_
 12	niewiarygodne	niewiarygodny	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	_
 

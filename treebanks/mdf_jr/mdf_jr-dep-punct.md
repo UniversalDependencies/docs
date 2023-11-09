@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-837 nodes (21%) are attached to their parents as `punct`.
+850 nodes (21%) are attached to their parents as `punct`.
 
-534 instances of `punct` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.98446833930705.
+543 instances of `punct` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.98117647058824.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (629; 75% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (84; 10% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (65; 8% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (22; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (19; 2% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (11; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-X.html">X</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (642; 76% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (84; 10% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (65; 8% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (22; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (19; 2% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (11; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-X.html">X</a></tt>-<tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

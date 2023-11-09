@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-202 nodes (0%) are attached to their parents as `nummod`.
+201 nodes (0%) are attached to their parents as `nummod`.
 
-138 instances of `nummod` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.04950495049505.
+137 instances of `nummod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.04477611940298.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (183; 91% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (182; 91% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

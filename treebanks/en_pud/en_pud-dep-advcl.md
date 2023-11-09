@@ -25,12 +25,12 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Perhaps	perhaps	ADV	RB	_	5	advmod	5:advmod	_
 2	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 3	wo	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	SpaceAfter=No
-4	n’t	n’t	ADV	RB	Polarity=Neg	5	advmod	5:advmod	_
+4	n’t	not	ADV	RB	Polarity=Neg	5	advmod	5:advmod	_
 5	matter	matter	VERB	VB	VerbForm=Inf	0	root	0:root	_
 6	as	as	SCONJ	IN	_	11	mark	11:mark	_
 7	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj:pass	11:nsubj:pass	_
 8	wo	will	AUX	MD	VerbForm=Fin	11	aux	11:aux	SpaceAfter=No
-9	n’t	n’t	ADV	RB	Polarity=Neg	11	advmod	11:advmod	_
+9	n’t	not	ADV	RB	Polarity=Neg	11	advmod	11:advmod	_
 10	be	be	AUX	VB	VerbForm=Inf	11	aux:pass	11:aux:pass	_
 11	troubled	trouble	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	5:advcl:as	_
 12	long	long	ADV	RB	Degree=Pos	11	advmod	11:advmod	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 14 9 advcl	color:blue
 1	Because	because	SCONJ	IN	_	9	mark	9:mark	_
 2	series	series	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
-3	1	1	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	6:advmod	_
 6	longer	longer	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
@@ -80,7 +80,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 12	users	user	NOUN	NNS	Number=Plur	14	nsubj	14:nsubj	_
 13	can	can	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
 14	save	save	VERB	VB	VerbForm=Inf	0	root	0:root	_
-15	100	100	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+15	100	100	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	16:nummod	_
 16	euros	euro	NOUN	NNS	Number=Plur	14	obj	14:obj	SpaceAfter=No
 17	.	.	PUNCT	.	_	14	punct	14:punct	_
 

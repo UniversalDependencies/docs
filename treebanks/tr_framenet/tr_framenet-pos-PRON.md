@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>bu</em> (<tt><a href="tr_framenet-pos
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.958333 (the average of all parts of speech is 1.741529).
+The form / lemma ratio of `PRON` is 3.958333 (the average of all parts of speech is 1.742503).
 
 The 1st highest number of forms (10) was observed with the lemma “o”: <em>o, ona, ondan, onlara, onlardan, onları, onların, onu, onun, onunla</em>.
 

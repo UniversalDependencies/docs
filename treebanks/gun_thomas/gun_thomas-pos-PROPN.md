@@ -34,7 +34,7 @@ The 3rd highest number of forms (1) was observed with the lemma “Patricia”: 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 4 different relations: <tt><a href="gun_thomas-dep-appos.html">appos</a></tt> (4; 44% instances), <tt><a href="gun_thomas-dep-fixed.html">fixed</a></tt> (2; 22% instances), <tt><a href="gun_thomas-dep-nsubj.html">nsubj</a></tt> (2; 22% instances), <tt><a href="gun_thomas-dep-nmod.html">nmod</a></tt> (1; 11% instances)
+`PROPN` nodes are attached to their parents using 4 different relations: <tt><a href="gun_thomas-dep-appos.html">appos</a></tt> (4; 44% instances), <tt><a href="gun_thomas-dep-flat.html">flat</a></tt> (2; 22% instances), <tt><a href="gun_thomas-dep-nsubj.html">nsubj</a></tt> (2; 22% instances), <tt><a href="gun_thomas-dep-nmod.html">nmod</a></tt> (1; 11% instances)
 
 Parents of `PROPN` nodes belong to 3 different parts of speech: <tt><a href="gun_thomas-pos-NOUN.html">NOUN</a></tt> (5; 56% instances), <tt><a href="gun_thomas-pos-PROPN.html">PROPN</a></tt> (2; 22% instances), <tt><a href="gun_thomas-pos-VERB.html">VERB</a></tt> (2; 22% instances)
 
@@ -46,7 +46,7 @@ Parents of `PROPN` nodes belong to 3 different parts of speech: <tt><a href="gun
 
 The highest child degree of a `PROPN` node is 2.
 
-Children of `PROPN` nodes are attached using 2 different relations: <tt><a href="gun_thomas-dep-fixed.html">fixed</a></tt> (2; 67% instances), <tt><a href="gun_thomas-dep-case.html">case</a></tt> (1; 33% instances)
+Children of `PROPN` nodes are attached using 2 different relations: <tt><a href="gun_thomas-dep-flat.html">flat</a></tt> (2; 67% instances), <tt><a href="gun_thomas-dep-case.html">case</a></tt> (1; 33% instances)
 
 Children of `PROPN` nodes belong to 2 different parts of speech: <tt><a href="gun_thomas-pos-PROPN.html">PROPN</a></tt> (2; 67% instances), <tt><a href="gun_thomas-pos-ADP.html">ADP</a></tt> (1; 33% instances)
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-32690 tokens (8%) have a non-empty value of `Tense`.
-6503 types (14%) occur at least once with a non-empty value of `Tense`.
+32691 tokens (8%) have a non-empty value of `Tense`.
+6504 types (14%) occur at least once with a non-empty value of `Tense`.
 2282 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (23078; 5% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9612; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (23068; 5% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9623; 2% instances).
 
 ### `VERB`
 
-23078 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
+23068 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20000; 87%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19998; 87%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19276; 84%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19064; 83%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17611; 76%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19991; 87%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19989; 87%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19266; 84%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19055; 83%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17602; 76%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (646; 3% of non-empty `Tense`): <em>será, tendrá, hará, permitirá, tendrán, contará, habrá, llegará, celebrará, saldrá</em>
-* `Imp` (2535; 11% of non-empty `Tense`): <em>tenía, era, eran, había, pertenecían, estaba, tenían, encontraba, contaba, estaban</em>
-* `Past` (9632; 42% of non-empty `Tense`): <em>fue, tuvo, hizo, comenzó, nació, dijo, dio, ganó, convirtió, recibió</em>
-* `Pres` (10265; 44% of non-empty `Tense`): <em>tiene, es, encuentra, hay, hace, tienen, está, cuenta, da, dice</em>
+* `Imp` (2534; 11% of non-empty `Tense`): <em>tenía, era, eran, había, pertenecían, estaba, tenían, encontraba, contaba, estaban</em>
+* `Past` (9630; 42% of non-empty `Tense`): <em>fue, tuvo, hizo, comenzó, nació, dijo, dio, ganó, convirtió, recibió</em>
+* `Pres` (10258; 44% of non-empty `Tense`): <em>tiene, es, encuentra, hay, hace, tienen, está, cuenta, da, dice</em>
 * `EMPTY` (13291): <em>hacer, ubicado, ver, debido, tener, decir, dar, partir, conocido, llegar</em>
 
 <table>
@@ -49,16 +49,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-9612 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
+9623 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9345; 97%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9064; 94%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9030; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7342; 76%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9355; 97%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9074; 94%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9040; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7352; 76%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (184; 2% of non-empty `Tense`): <em>será, podrá, podrán, serán, deberá, estará, deberán, estarán, sera, podremos</em>
-* `Imp` (1412; 15% of non-empty `Tense`): <em>eran, era, había, estaba, habían, podía, estaban, debía, fuese, hubiera</em>
-* `Past` (2006; 21% of non-empty `Tense`): <em>fue, fueron, sido, pudo, estuvo, pudieron, estado, podido, Son, debió</em>
-* `Pres` (6010; 63% of non-empty `Tense`): <em>es, ha, son, han, está, puede, pueden, están, he, sea</em>
+* `Imp` (1413; 15% of non-empty `Tense`): <em>eran, era, había, estaba, habían, podía, estaban, debía, fuese, hubiera</em>
+* `Past` (2008; 21% of non-empty `Tense`): <em>fue, fueron, sido, pudo, estuvo, pudieron, estado, podido, Son, debió</em>
+* `Pres` (6018; 63% of non-empty `Tense`): <em>es, ha, son, han, está, puede, pueden, están, he, sea</em>
 * `EMPTY` (1124): <em>ser, siendo, haber, sería, podría, poder, estar, esta, habría, fuera</em>
 
 <table>

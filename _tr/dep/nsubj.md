@@ -48,4 +48,4 @@ nsubj(okundu, Kitap)
 Note that [csubj]() relation used for clausal subjects,
 even those with a the verbal noun head.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:22 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:08 CET -->

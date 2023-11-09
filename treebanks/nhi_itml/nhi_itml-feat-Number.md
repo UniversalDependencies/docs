@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="nhi_itml-feat-Number.html">Number</a></tt>, <tt><a href="nhi_itml-feat-Number-dat.html">Number[dat]</a></tt>, <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt>.
 
-1448 tokens (14%) have a non-empty value of `Number`.
-491 types (20%) occur at least once with a non-empty value of `Number`.
-386 lemmas (24%) occur at least once with a non-empty value of `Number`.
-The feature is used with 5 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1129; 11% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (252; 2% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (52; 1% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (4; 0% instances).
+1488 tokens (15%) have a non-empty value of `Number`.
+522 types (21%) occur at least once with a non-empty value of `Number`.
+417 lemmas (25%) occur at least once with a non-empty value of `Number`.
+The feature is used with 5 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1169; 12% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (252; 2% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (52; 1% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-1129 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (76% of all `NOUN` tokens) have a non-empty value of `Number`.
+1169 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (79% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (963; 85%), <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (821; 73%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (797; 71%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (748; 66%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (748; 66%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (1003; 86%), <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (861; 74%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (808; 69%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (784; 67%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (784; 67%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (224; 20% of non-empty `Number`): <em>tokniwah, ceraokwilimeh, coyomeh, tipemeh, ichcame, siwameh, danzas, años, mopiluan, niconeuan</em>
-* `Sing` (905; 80% of non-empty `Number`): <em>ich, itich, tonal, atl, ica, miston, ika, itzcuintli, pueblo, telpukatl</em>
-* `EMPTY` (348): <em>itskwih, burro, temaman, bohtlah, tetiachkah, tonnomaman, icniu, inuan, isihtzin, ninmaman</em>
+* `Plur` (264; 23% of non-empty `Number`): <em>tokniwah, ceraokwilimeh, coyomeh, tipemeh, ichcame, siwameh, danzas, años, mopiluan, niconeuan</em>
+* `Sing` (905; 77% of non-empty `Number`): <em>ich, itich, tonal, atl, ica, miston, ika, itzcuintli, pueblo, telpukatl</em>
+* `EMPTY` (308): <em>itskwih, burro, temaman, bohtlah, tetiachkah, tonnomaman, icniu, inuan, isihtzin, ninmaman</em>
 
 <table>
   <tr><th>Paradigm <i>pueblo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -86,8 +86,8 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (102; 51%),
-<tt>NOUN --[<tt><a href="nhi_itml-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 57%),
+<tt>NOUN --[<tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (105; 51%),
+<tt>NOUN --[<tt><a href="nhi_itml-dep-conj.html">conj</a></tt>]--> NOUN</tt> (28; 54%),
 <tt>NOUN --[<tt><a href="nhi_itml-dep-appos.html">appos</a></tt>]--> NOUN</tt> (5; 71%),
 <tt>PROPN --[<tt><a href="nhi_itml-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5; 100%),
 <tt>ADJ --[<tt><a href="nhi_itml-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3; 60%),

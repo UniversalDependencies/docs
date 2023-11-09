@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (135; 100% of non-empty `Polarity`): بولمىغان، بولمايدۇ، باقمىغان، بولمىسا، قىلمىدى، ئوخشىمىغان، ئويلىمىغان، دېمىسىمۇ، قارىمايدۇ، كەلمەيدۇ
-* `EMPTY` (8193): دەپ، دېدى، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، دېگەن، كېلىپ
+* `EMPTY` (8192): دەپ، دېدى، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، دېگەن، كېلىپ
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (48) occur only with one value of `Polarity`.
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (58; 100% of non-empty `Polarity`): ئەمەس، بولمايدۇ، ئەمەسمۇ، بولمىغان، قالمايدۇ، بولمامدۇ، بولمىسا، بولمىسىمۇ، تۇرمامدۇ، قالمىدۇق
-* `EMPTY` (852): ئىدى، بولۇپ، ئىكەن، كەتتى، قالدى، بولسا، بولدى، بولىدۇ، قالدىم، تۇرۇپ
+* `EMPTY` (853): ئىدى، بولۇپ، ئىكەن، كەتتى، قالدى، بولسا، بولدى، بولىدۇ، قالدىم، تۇرۇپ
 

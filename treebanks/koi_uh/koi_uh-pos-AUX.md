@@ -46,8 +46,8 @@ The 3rd highest number of forms (2) was observed with the lemma “вермын�
 `AUX` occurs with 13 feature-value pairs: `Connegative=Yes`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[subj]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbType=Aux`
 
 `AUX` occurs with 19 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (4 tokens).
-Examples: <em>абу, эз, оз, эг, не, озӧ, абуöсь, ог, он, эгö</em>
+The most frequent feature combination is `Connegative=Yes` (4 tokens).
+Examples: <em>вермы, вӧв, позь</em>
 
 
 ## Relations

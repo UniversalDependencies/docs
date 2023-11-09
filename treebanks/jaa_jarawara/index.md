@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Madi-Jarawara](https://github.com/UniversalDependencies/UD_Madi-Jarawara)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjaa_jarawara212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjaa_jarawara213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,7 +79,7 @@ The development of the treebank is supported by the by European Research Council
 
 ## Relations
 
-[advcl](jaa_jarawara-dep-advcl.html) – [advmod](jaa_jarawara-dep-advmod.html) – [amod](jaa_jarawara-dep-amod.html) – [aux](jaa_jarawara-dep-aux.html) – [compound](jaa_jarawara-dep-compound.html) – [cop](jaa_jarawara-dep-cop.html) – [dep](jaa_jarawara-dep-dep.html) – [discourse](jaa_jarawara-dep-discourse.html) – [nmod](jaa_jarawara-dep-nmod.html) – [nsubj](jaa_jarawara-dep-nsubj.html) – [obj](jaa_jarawara-dep-obj.html) – [obl](jaa_jarawara-dep-obl.html) – [parataxis](jaa_jarawara-dep-parataxis.html) – [punct](jaa_jarawara-dep-punct.html) – [root](jaa_jarawara-dep-root.html) – [vocative](jaa_jarawara-dep-vocative.html) – [xcomp](jaa_jarawara-dep-xcomp.html)
+[advcl](jaa_jarawara-dep-advcl.html) – [advmod](jaa_jarawara-dep-advmod.html) – [amod](jaa_jarawara-dep-amod.html) – [aux](jaa_jarawara-dep-aux.html) – [compound](jaa_jarawara-dep-compound.html) – [cop](jaa_jarawara-dep-cop.html) – [dep](jaa_jarawara-dep-dep.html) – [discourse](jaa_jarawara-dep-discourse.html) – [expl](jaa_jarawara-dep-expl.html) – [nmod](jaa_jarawara-dep-nmod.html) – [nsubj](jaa_jarawara-dep-nsubj.html) – [obj](jaa_jarawara-dep-obj.html) – [obl](jaa_jarawara-dep-obl.html) – [parataxis](jaa_jarawara-dep-parataxis.html) – [punct](jaa_jarawara-dep-punct.html) – [root](jaa_jarawara-dep-root.html) – [vocative](jaa_jarawara-dep-vocative.html) – [xcomp](jaa_jarawara-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -560,7 +560,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB--PRON (14)</li>
+      <li>VERB--PRON (12)</li>
     </ul>
   </li>
 </ul>
@@ -588,5 +588,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 20 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>ccomp</a>, <a>expl</a>, <a>dislocated</a>, <a>mark</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>det</a>, <a>clf</a>, <a>case</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 19 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>ccomp</a>, <a>dislocated</a>, <a>mark</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>det</a>, <a>clf</a>, <a>case</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

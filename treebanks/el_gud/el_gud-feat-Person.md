@@ -116,7 +116,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="el_gud-dep-conj.html">conj</a></tt>]--> VERB</tt> (436; 73%),
+<tt>VERB --[<tt><a href="el_gud-dep-conj.html">conj</a></tt>]--> VERB</tt> (437; 73%),
 <tt>VERB --[<tt><a href="el_gud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (274; 63%),
 <tt>VERB --[<tt><a href="el_gud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (215; 69%),
 <tt>VERB --[<tt><a href="el_gud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (190; 53%),

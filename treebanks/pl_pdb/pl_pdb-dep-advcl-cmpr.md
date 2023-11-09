@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>.
 There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_pdb-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-188 nodes (0%) are attached to their parents as `advcl:cmpr`.
+193 nodes (0%) are attached to their parents as `advcl:cmpr`.
 
-179 instances of `advcl:cmpr` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.52659574468085.
+186 instances of `advcl:cmpr` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.63212435233161.
 
-The following 10 pairs of parts of speech are connected with `advcl:cmpr`: <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (67; 36% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (60; 32% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (29; 15% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (14; 7% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advcl:cmpr`: <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (70; 36% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (59; 31% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (30; 16% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (14; 7% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -27,9 +27,9 @@ The following 10 pairs of parts of speech are connected with `advcl:cmpr`: <tt><
 2	nieco	nieco	ADV	adv	_	1	advmod	1:advmod	SpaceAfter=No
 3	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
 4	ale	ale	CCONJ	conj	_	7	cc	7:cc	_
-5	nie	nie	PART	part	Polarity=Neg	7	advmod:neg	7:advmod:neg	_
+5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	6:advmod:neg	_
 6	tak	tak	ADV	adv:pos	Degree=Pos|PronType=Dem	7	advmod	7:advmod	_
-7	dużo	dużo	ADV	adv:pos	Degree=Pos	1	conj	0:root|1:conj	_
+7	dużo	dużo	ADV	adv:pos	Degree=Pos	2	conj	1:advmod|2:conj	_
 8	jak	jak	SCONJ	comp	ConjType=Comp	10	mark	10:mark	_
 9	się	się	PRON	part	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
 10	spodziewasz	spodziewać	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl:cmpr	6:advcl:cmpr	SpaceAfter=No
@@ -69,7 +69,7 @@ The following 10 pairs of parts of speech are connected with `advcl:cmpr`: <tt><
 4	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
 5	ale	ale	CCONJ	conj	_	6	cc	6:cc	_
 6	potrafię	potrafić	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	_
-7	więcej	więcej	DET	num:pl:acc:f:rec	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	6	iobj	6:iobj	SpaceAfter=No
+7	więcej	więcej	DET	num:pl:acc:f:rec	Case=Acc|Gender=Fem|Number=Plur|PronType=Ind	6	iobj	6:iobj	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
 9	niż	niż	SCONJ	comp	ConjType=Comp	10	mark	10:mark	_
 10	mogło	móc	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl:cmpr	7:advcl:cmpr	_

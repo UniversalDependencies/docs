@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Neslihan Cesur, Aslı Kuzgun, Olcay Taner Yıldız, Büşra Marşan, Oğuzhan Kuyrukçu, Bilge Nas Arıcan, Ezgi Sanıyar, Neslihan Kara, Merve Özçelik.
 
 Repository: [UD_Turkish-FrameNet](https://github.com/UniversalDependencies/UD_Turkish-FrameNet)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_framenet212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_framenet213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -83,7 +83,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 
 
 <ul>
-<li>This corpus contains 2698 sentences and 19221 tokens.</li>
+<li>This corpus contains 2698 sentences and 19223 tokens.</li>
 </ul>
 
 <ul>
@@ -95,7 +95,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 </ul>
 
 <ul>
-<li>This corpus contains 78 types of words that contain both letters and punctuation. Examples: Nihal'in, Boğaziçi'nde, Hasan'la, Nihat'a, Tevfik'e, Yusuf'u, İstanbul'u, 'Dilimizi, 'Kaos', 1453'te, 1923'te, 2'yi, 3'te, Ahmet'in, Akdeniz'e, Alaçatı'da, Ali'nin, Allah'a, Almanya'da, Amerika'da, Amerika'ya, Ankara'da, Ankara'yı, Arda'nın, Ayşe'ye, Ayşe'yi, Açıkhava'da, Aşk'ı, Behlül'le, Behlül'ü, Berlin'e, Bey'e, Bey'in, Beyoğlu'na, Beşir'in, Bihter'den, Bursa'da, Caddesi'ne, Dante'nin, Ege'de, Eylül'ün, Gaugin'i, H7'ye, Hacı'ya, Halkapınar'da, Hamdi'nin, Hindistan'ı, Irak'ın, Kadıköy'de, Karabükspor'da</li>
+<li>This corpus contains 76 types of words that contain both letters and punctuation. Examples: Nihal'in, Boğaziçi'nde, Hasan'la, Nihat'a, Tevfik'e, Yusuf'u, İstanbul'u, 'Kaos', 1453'te, 1923'te, 2'yi, 3'te, Ahmet'in, Akdeniz'e, Alaçatı'da, Ali'nin, Allah'a, Almanya'da, Amerika'da, Amerika'ya, Ankara'da, Ankara'yı, Arda'nın, Ayşe'ye, Ayşe'yi, Açıkhava'da, Aşk'ı, Behlül'le, Behlül'ü, Berlin'e, Bey'e, Bey'in, Beyoğlu'na, Beşir'in, Bihter'den, Bursa'da, Caddesi'ne, Dante'nin, Ege'de, Eylül'ün, Gaugin'i, H7'ye, Hacı'ya, Halkapınar'da, Hamdi'nin, Hindistan'ı, Irak'ın, Kadıköy'de, Karabükspor'da, Kudüs'te</li>
 </ul>
 
 <ul>
@@ -210,7 +210,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: başına, işe, eve, yere, üstüne, altına, yola, paraya, çocuğa, araya</li>
+      <li>NOUN: başına, işe, eve, yere, altına, yola, üstüne, paraya, çocuğa, araya</li>
       <li>PROPN: Nihat'a, Tevfik'e, Akdeniz'e, Allah'a, Amerika'ya, Ayşe'ye, Berlin'e, Bey'e, Caddesi'ne, H7'ye</li>
     </ul>
   </li>
@@ -416,7 +416,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: et, bırak, aç, değiştir, al, dinle, gel, geç, olsun, çabala</li>
+      <li>VERB-Fin: et, bırak, aç, değiştir, geç, al, dinle, gel, olsun, çabala</li>
     </ul>
   </li>
 </ul>
@@ -649,7 +649,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>2
     <ul>
-      <li>VERB-Fin: et, bırak, aç, değiştir, göreceksin, al, dinle, gel, geç, çabala</li>
+      <li>VERB-Fin: et, bırak, aç, değiştir, geç, göreceksin, al, dinle, gel, çabala</li>
       <li>VERB-Vnoun: akmasın</li>
     </ul>
   </li>
@@ -676,7 +676,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: Güveniniz, aramızda, İkimiz, Ailemizin, Alıcılarımız, Başkanları, Gözümüzde, Kaybınızı, Kimseleri, Kubbelerimizin</li>
+      <li>NOUN: Güveniniz, aramızda, İkimiz, Ailemizin, Alıcılarımız, Başkanları, Dilimizi, Gözümüzde, Kaybınızı, Kimseleri</li>
     </ul>
   </li>
 </ul>
@@ -684,7 +684,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: başına, parasını, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
+      <li>NOUN: başına, parasını, işi, şeyi, altına, günü, üstüne, içinde, karşısında, olduğu</li>
       <li>VERB-Fin: karısıyım, yengenim, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
     </ul>
   </li>
@@ -703,13 +703,13 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
       </li>
       <li>2
         <ul>
-          <li>NOUN: yüzüne, Güveniniz, aklından, amcanın, ağzını, başına, dişinden, elindekini, gözünü, hatırında</li>
+          <li>NOUN: Güveniniz, aklından, amcanın, ağzını, başına, dişinden, elindekini, gözünü, hatırında, suyun</li>
           <li>VERB-Fin: yengenim</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>NOUN: parasını, başına, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
+          <li>NOUN: parasını, başına, işi, şeyi, altına, günü, üstüne, içinde, karşısında, olduğu</li>
           <li>VERB-Fin: karısıyım, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
         </ul>
       </li>
@@ -741,7 +741,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (4)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (833)</li>
+      <li>VERB-Fin--NOUN-Nom (827)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(de) (3)</li>
@@ -761,7 +761,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(dahi) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
-      <li>VERB-Fin--NOUN-Dat (65)</li>
+      <li>VERB-Fin--NOUN-Dat (66)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
       <li>VERB-Fin--NOUN-Loc (2)</li>
       <li>VERB-Fin--NOUN-Nom (367)</li>

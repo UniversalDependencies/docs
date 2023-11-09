@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-44 tokens (11%) have a non-empty value of `Mood`.
-32 types (12%) occur at least once with a non-empty value of `Mood`.
-19 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (27; 7% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances).
+45 tokens (11%) have a non-empty value of `Mood`.
+33 types (12%) occur at least once with a non-empty value of `Mood`.
+20 lemmas (10%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances).
 
 ### `VERB`
 
-27 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Mood`.
+28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (25; 93%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (23; 85%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20; 74%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 68%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (1; 4% of non-empty `Mood`): <em>Gaib</em>
-* `Ind` (23; 85% of non-empty `Mood`): <em>chain, cél, ecmoṅgat, epur, farcai, fuasna, giuil, llega, maraith, mardda</em>
+* `Ind` (24; 86% of non-empty `Mood`): <em>chain, braigim, cél, ecmoṅgat, epur, farcai, fuasna, giuil, llega, maraith</em>
 * `Sub` (3; 11% of non-empty `Mood`): <em>cóima, roib, samlar</em>
 * `EMPTY` (1): <em>adest</em>
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt></tt></td><td><em>ta, tá</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 94% lemmas (17) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 95% lemmas (18) occur only with one value of `Mood`.
 
 ### `AUX`
 

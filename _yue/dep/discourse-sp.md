@@ -67,4 +67,4 @@ More than one sentence-final particles may appear at the end of the same clause 
 7	pay?"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:51 CET -->

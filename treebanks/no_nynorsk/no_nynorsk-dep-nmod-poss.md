@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 8 5 nmod:poss	color:blue
 1	Dette	dette	PRON	pron	Gender=Neut|Person=3|PronType=Prs	8	nsubj	_	_
 2	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	_
-3	ikkje	ikkje	ADV	adv	_	8	advmod	_	_
+3	ikkje	ikkje	PART	adv	Polarity=Neg	8	advmod	_	_
 4	berre	berre	ADV	adv	_	8	advmod	_	_
 5	Carl	Carl	PROPN	subst	Gender=Masc	8	nmod:poss	_	_
 6	I.	I.	PROPN	subst	Abbr=Yes	5	flat:name	_	_

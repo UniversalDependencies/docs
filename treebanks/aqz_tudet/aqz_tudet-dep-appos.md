@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `appos`.
+7 nodes (0%) are attached to their parents as `appos`.
 
 7 instances of `appos` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.

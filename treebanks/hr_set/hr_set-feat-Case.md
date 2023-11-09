@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-116496 tokens (58%) have a non-empty value of `Case`.
-30251 types (85%) occur at least once with a non-empty value of `Case`.
-14914 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (19089; 10% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (5302; 3% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (629; 0% instances).
+116495 tokens (58%) have a non-empty value of `Case`.
+30250 types (85%) occur at least once with a non-empty value of `Case`.
+14913 lemmas (80%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (19089; 10% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12825; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (5302; 3% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (629; 0% instances).
 
 ### `NOUN`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Loc` (2073; 9% of non-empty `Case`): <em>prvom, svim, drugom, drugim, novom, prvoj, hrvatskom, međunarodnim, svjetskom, tiskovnoj</em>
 * `Nom` (8558; 37% of non-empty `Case`): <em>svi, drugi, novi, glavni, prvi, hrvatski, bivši, moguće, potrebno, mnogi</em>
 * `Voc` (8; 0% of non-empty `Case`): <em>Najdraži, Nespretni, Uzoriti, dobri, dragi, mala, prvi, svemogući</em>
-* `EMPTY` (1206): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
+* `EMPTY` (1207): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
 <table>
   <tr><th>Paradigm <i>prvi</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -85,9 +85,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-12826 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+12825 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12512; 98%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8340; 65%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12511; 98%), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8339; 65%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (2975; 23% of non-empty `Case`): <em>EU, Kosova, Srbije, BiH, UN-a, Hrvatske, Europe, Turske, NATO-a, Crne</em>
 * `Ins` (424; 3% of non-empty `Case`): <em>Srbijom, Crnom, Gorom, Grčkom, Kosovom, EU, Hrvatskom, ICTY-em, Makedonijom, Beogradom</em>
 * `Loc` (1591; 12% of non-empty `Case`): <em>Hrvatskoj, Kosovu, Srbiji, Beogradu, EU, Europi, Makedoniji, BiH, NATO-u, Zagrebu</em>
-* `Nom` (6512; 51% of non-empty `Case`): <em>Hrvatska, Srbija, Kosovo, Makedonija, Bugarska, Turska, Windows, Vlada, EU, Bog</em>
+* `Nom` (6511; 51% of non-empty `Case`): <em>Hrvatska, Srbija, Kosovo, Makedonija, Bugarska, Turska, Windows, Vlada, EU, Bog</em>
 * `Voc` (3; 0% of non-empty `Case`): <em>Bože, Isuse, Radoviću</em>
 * `EMPTY` (23): <em>R., AMG, B, R, B.o.B., BamS, DI, EBEL, EL, G.</em>
 

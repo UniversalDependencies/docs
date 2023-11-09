@@ -1,38 +1,68 @@
 ---
 layout: relation
 title: 'flat'
-shortdef: 'flat multiword expression'
+shortdef: 'flat expression'
 udver: '2'
 ---
 
-The `flat` relation is one of three relations for multiword expressions multiword expressions (MWEs) in UD 
-(the other two being [fixed]() and [compound]()). It is used for exocentric (headless) semi-fixed MWEs like
-names (_Hillary Rodham Clinton_) and dates (_24 December_). It contrasts with [fixed](), which applies to
-completely fixed grammaticized (function word-like) MWEs (like _in spite of_), and with [compound](), which applies to
-endocentric (headed) MWEs (like _apple pie_).
+The `flat` relation is used to combine the elements of an expression where none of the immediate components can be identified as the sole head using standard substitution tests.
+This includes both cases where more than one component passes the head test – as in the name _<b>John Smith</b>_, where either _John_ or _Smith_ can replace the whole in most contexts – and cases where no component does – as in _<b>San Francisco</b>_ (in English).
+Note also that the `flat` relation is appropriate in such cases only when no more specific relation applies.
+For example, in coordination structures annotated with the [conj]() relation, any of the conjuncts can usually replace the whole.
 
-Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the 
+Flat expressions are annotated with a flat structure, where all subsequent components in the expression are attached to the 
 first one using the `flat` label. The assumption is that in these expressions, the `flat` relations
-are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary. 
-For consistency, UD specifies that the first word of the expression shall be the head of all `flat` 
-dependents. These dependents may have other modifiers, including nested `flat` structures.
+are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary.
+The components of a flat expression may have their own dependents, including nested flat structures.
+For example, in the name _<b>Mary Jane Tyler Smith</b>_, both the first name (_<b>Mary Jane</b>_) and the last name
+(_<b>Tyler Smith</b>_) are flat expressions, which are combined into a larger flat name (the tree appears [below](#names)).
 
-Below we describe some of the most common uses of [flat]() across languages. Note that semantically
-equivalent expressions in different languages (or even in the same language) may require a different analysis if sometimes
-there is and sometimes there is not a regular compositional syntactic structure.
+The prototypes for flat are: (i) [personal names](#names), (ii) [foreign expressions](#foreign-expressions), (iii) [iconic sequences](#iconic-sequences), and (iv) [items separated for readability](#items-separated-for-readability).
+These are illustrated in the sections below.
+The application of `flat` may extend beyond these prototypes to, e.g., various kinds of name and number expressions.
+However, even if an expression is idiosyncratic or follows a specialized pattern, every effort should be made to find a head rather than employing `flat`.
+If a head can be found but no substantive dependency relation is appropriate, [dep]() can be used.
 
-## Names 
+Note that what is considered to be transparent linguistic syntax (as opposed to flat structure) is subject to treebank-specific policies.
+(E.g., some treebanks might provide proper grammatical analyses in the presence of code-switching,
+or treat mathematical notation as following linguistic strategies like predication.)
 
-In many languages, there are multiword proper names with no clear internal syntactic structure and no clear 
-evidence that one of the words is the syntactic head. Such names are annotated using the `flat` relation, 
-with the optional subtype `flat:name`.
+## Names
+
+A person’s name (or parts thereof) may lack the hallmarks of general constructions in the language, such that no single word can be identified as the head, in which case a flat structure applies. The subtyped relation [flat:name]() is recommended for flat names.
 
 ~~~ sdparse
-Hilary Rodham Clinton
-flat(Hilary, Rodham)
-flat(Hilary, Clinton)
+Hillary Rodham Clinton
+flat:name(Hillary, Rodham)
+flat:name(Hillary, Clinton)
 ~~~
 
+Nesting is possible:
+
+~~~ sdparse
+Mary Jane Tyler Smith
+flat:name(Mary, Jane)
+flat:name(Tyler, Smith)
+flat:name(Mary, Tyler)
+~~~
+
+On occasion, an expression with no clear head at the top level will have internal syntactic modifiers or punctuation:
+
+~~~ sdparse
+Dwayne " The Rock " Johnson
+flat:name(Dwayne, Rock)
+flat:name(Dwayne, Johnson)
+det(Rock, The)
+punct(Rock, "-2)
+punct(Rock, "-5)
+~~~
+
+The scope of [flat:name]() may extend beyond names of persons to names of other kinds of entities that depart from general headed structure.
+The expressions under this category must be established by language-specific criteria.
+
+### Flat vs. non-flat names
+
+<!-- NO LONGER (NECESSARILY) FLAT - MISCHIEVOUS NOMINALS:
 ~~~ sdparse
 Carl XVI Gustaf
 flat(Carl-1, Gustaf-3)
@@ -75,9 +105,10 @@ then analysis with `flat` is not appropriate, and [u-dep/appos]() is appropriate
 punctuation, such as a comma, but no punctuation may appear in more informal text. 
 You can generally test for such examples by asking if the two halves can be reversed; if they can, it is probably an `appos`; 
 see the examples there.
+-->
 
-In contrast to the above, names that have a regular syntactic structure, like _The Lord of the Rings_ and _Captured By
-Aliens_, should be annotated with regular syntactic relations.
+Names that have a regular syntactic structure, like _The Lord of the Rings_ and _Captured By
+Aliens_, should be annotated with regular syntactic relations rather than flat structures:
 
 ~~~ sdparse
 The Lord of the Rings
@@ -136,6 +167,17 @@ det(Plata-4, la-3)
 nmod(Río-1, Plata-4)
 ~~~
 
+A name may combine flat and non-flat structure. In a Portuguese text, the surname _Paulo da Silva_ would be analyzed as follows:
+
+<!-- REMOVED Júnior -->
+
+~~~ sdparse
+Roberto Paulo da Silva
+flat:name(Roberto, Paulo)
+nmod(Paulo, Silva)
+case(Silva, da)
+~~~
+
 The above analyses of _Ludwig van Beethoven_ and _Miguel de Cervantes y Saavedra_ assume that _van_ resp. _de_ are prepositions.
 This is true in the languages of the names' origin, but it can be expected to change when the name is used in foreign text 
 or when sufficient grammaticalization has taken place. For example,
@@ -143,8 +185,8 @@ when names like this are annotated in English, the appropriate analysis is as a 
 
 ~~~ sdparse
 Ludwig van Beethoven was a famous German composer .
-flat(Ludwig, van)
-flat(Ludwig, Beethoven)
+flat:name(Ludwig, van)
+flat:name(Ludwig, Beethoven)
 det(composer, a)
 amod(composer, famous)
 amod(composer, German)
@@ -155,26 +197,27 @@ punct(composer, .)
 
 ~~~ sdparse
 Río de la Plata
-flat(Río-1, de-2)
-flat(Río-1, la-3)
-flat(Río-1, Plata-4)
+flat:name(Río-1, de-2)
+flat:name(Río-1, la-3)
+flat:name(Río-1, Plata-4)
 ~~~
 
 ~~~ sdparse
 Al Arabiya is a Saudi-owned news organization
-flat(Al-1, Arabiya-2)
+flat:name(Al-1, Arabiya-2)
 nsubj(organization-7, Al-1)
 ~~~
 
 And in Modern German or French, these prepositions have generally just become a fossilized part of a family name 
-and regularly appear without the given name. Again, here, analysis as `flat` seems correct:
+and regularly appear without the given name. Again, here, the flat analysis seems correct:
 
 ~~~ sdparse
 Von Hohenlohe gewann das Rennen . \n Von Hohenlohe won the race .
-flat(Von-1, Hohenlohe-2)
+flat:name(Von-1, Hohenlohe-2)
 nsubj(gewann-3, Von-1)
 ~~~
 
+<!-- TODO: attachment of Jr.
 In the case of proper entities named after people, e.g. _Leland Stanford Jr. University_, the `flat` relation 
 should only be used inside the person name, with the rest of the construction analyzed compositionally using 
 normal syntactic relations:
@@ -185,28 +228,10 @@ compound(University-4, Leland-1)
 flat(Leland-1, Stanford-2)
 flat(Leland-1, Jr.-3)
 ~~~
+-->
 
-On occasion, an expression with no clear head at the top level will have internal syntactic modifiers or punctuation:
 
-~~~ sdparse
-Dwayne " The Rock " Johnson
-flat(Dwayne, Rock)
-flat(Dwayne, Johnson)
-det(Rock, The)
-punct(Rock, "-2)
-punct(Rock, "-5)
-~~~
-
-Likewise, in a Portuguese sentence, the surname "Paulo da Silva" would be analyzed with internal structure:
-
-~~~ sdparse
-Roberto Paulo da Silva Júnior
-flat(Roberto, Paulo)
-flat(Roberto, Júnior)
-nmod(Paulo, Silva)
-case(Silva, da)
-~~~
-
+<!-- ALREADY COVERED BY Mary Jane Tyler Smith
 A flat structure can even be nested under another flat structure. For example, the words of an embedded nickname would be treated as a nested flat expression:
 
 ~~~ sdparse
@@ -217,7 +242,9 @@ flat(Denise, Bridgewater)
 punct(Dee-3, "-2)
 punct(Dee-3, "-5)
 ~~~
+-->
 
+<!-- MISCHIEVOUS NOMINALS - let's not articulate a policy here, at least not yet
 ### Some further notes on relations for names
 
 _This paragraph briefly records some of the arguments that have been made in the past on relations for name structure. It is an issue over which there has historically been variation and about which there is some continuing debate._ Examples like 
@@ -250,12 +277,11 @@ The `flat` relation can also be used for other numerals and other numerical expr
 four thousand
 flat(four, thousand)
 ~~~
+-->
 
-## Foreign Phrases
+## Foreign expressions
 
-The `flat` relation, with the optional subtype `flat:foreign` should also be used when a foreign phrase
-cannot be given a compositional analysis. In this case, it replaces the `foreign` relation, which was used
-in v1 but is no longer part of the relation taxonomy.
+This encompasses expressions that may have been borrowed or quoted, but whose original grammatical structure is not necessarily accessible to speakers of the language(s) being annotated.
 
 ~~~ sdparse
 And then she went : gjiko frac zen .
@@ -263,4 +289,52 @@ parataxis(went, gjiko)
 flat(gjiko, frac)
 flat(gjiko, zen)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:16 CEST -->
+
+"Foreign" includes not just natural languages but also notational systems that are considered external to natural language proper and are governed by separate rules (e.g., musical chord progressions, software code excerpts).
+
+~~~ sdparse
+The Vienna Game move order is 1. e4 e5 2. Nc3 .
+nsubj(1., order)
+cop(1., is)
+flat(1., e4)
+flat(1., e5)
+flat(1., 2.)
+flat(1., Nc3)
+~~~
+
+Note that foreign word status (with or without `flat`) should be indicated with the morphological feature [Foreign]()`=Yes`.
+
+**History:** UD v1 had a `foreign` relation, but this is no longer part of the relation taxonomy and has been subsumed under `flat`.
+
+## Iconic sequences
+
+Sequences for which neither head-dependent nor coordination relationships apply include onomatopoeia (_<b>quack quack quack</b>_), “filler” words (_<b>do re mi</b>_), and gibberish (_<b>blargety blarg blarg</b>_).
+
+~~~ sdparse
+The duck said quack quack quack
+obj(said, quack-4)
+flat(quack-4, quack-5)
+flat(quack-4, quack-6)
+~~~
+
+## Items separated for readability
+
+Here the units separated by spaces or punctuation cannot really be construed as separate lexemes. A common case is telephone numbers:
+
+~~~ sdparse
+Call 0118 999 881 999 119 725 3
+obj(Call, 0118)
+flat(0118, 999-3)
+flat(0118, 881)
+flat(0118, 999-5)
+flat(0118, 119)
+flat(0118, 725)
+flat(0118, 3)
+~~~
+
+But not all “unnecessary” spaces are flat:
+- improper spacing within a word should be addressed with [goeswith]()
+- space-separated numerals like _1 000 000_ [may be treated as single words](/u/overview/tokenization.html)
+
+
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:56 CET -->

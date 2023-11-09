@@ -129,7 +129,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (3736; 82%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1821; 88%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1727; 59%),
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1728; 59%),
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> NOUN</tt> (194; 67%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-det.html">det</a></tt>]--> DET</tt> (163; 59%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (153; 78%),

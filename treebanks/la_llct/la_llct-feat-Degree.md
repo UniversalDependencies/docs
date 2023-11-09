@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Abs` (264; 73% of non-empty `Degree`): <em>serenissimus, gloriosissimi, serenissimo, beatissimi, beatissimo, piissimo, beatissimus, firmissimo, gloriosissimus, beatissime</em>
 * `Cmp` (47; 13% of non-empty `Degree`): <em>maiore, minore, meliorem, magiore, posteriores, propinquiores, certius, maiora, meliore, melioris</em>
 * `Dim` (52; 14% of non-empty `Degree`): <em>aliquantulo, aliquantula, aliquantolis, masculi, masculos, masculum</em>
-* `EMPTY` (12972): <em>sancti, quondam, integrum, sancte, bone, singulos, manifestu, livellario, decimo, Lucane</em>
+* `EMPTY` (12950): <em>sancti, quondam, integrum, sancte, bone, singulos, manifestu, livellario, decimo, Lucane</em>
 
 <table>
   <tr><th>Paradigm <i>bonus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Abs` (4; 1% of non-empty `Degree`): <em>diligentissime, dignissime, obtime</em>
 * `Cmp` (274; 99% of non-empty `Degree`): <em>superius, plus, minus, certius, diligentius, inferius, sepius, adtentius</em>
-* `EMPTY` (7921): <em>supra, una, exinde, ubi, taliter, tantum, sic, unde, ibi, hic</em>
+* `EMPTY` (7888): <em>supra, una, exinde, ubi, taliter, tantum, sic, unde, ibi, hic</em>
 
 <table>
   <tr><th>Paradigm <i>diligenter</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -76,7 +76,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Cmp` (15; 100% of non-empty `Degree`): <em>plures, pluris</em>
-* `EMPTY` (19998): <em>ipsa, qui, mea, suprascripta, nostro, ipsius, tuis, omnia, hanc, meis</em>
+* `EMPTY` (20050): <em>ipsa, qui, mea, suprascripta, nostro, ipsius, tuis, omnia, hanc, meis</em>
 
 ### `VERB`
 

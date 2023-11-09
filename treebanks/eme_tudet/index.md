@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Uliana Vedenina, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Teko-TuDeT](https://github.com/UniversalDependencies/UD_Teko-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeme_tudet212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeme_tudet213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,17 +72,17 @@ The development of this treebank is supported by the by European Research Counci
 
 ## Features
 
-[Accomp](eme_tudet-feat-Accomp.html) – [Also](eme_tudet-feat-Also.html) – [Aspect](eme_tudet-feat-Aspect.html) – [Case](eme_tudet-feat-Case.html) – [Clusivity](eme_tudet-feat-Clusivity.html) – [Conces](eme_tudet-feat-Conces.html) – [Contrast](eme_tudet-feat-Contrast.html) – [Corf](eme_tudet-feat-Corf.html) – [Degree](eme_tudet-feat-Degree.html) – [Emph](eme_tudet-feat-Emph.html) – [Excl](eme_tudet-feat-Excl.html) – [Foc](eme_tudet-feat-Foc.html) – [Imprs](eme_tudet-feat-Imprs.html) – [Int](eme_tudet-feat-Int.html) – [Intens](eme_tudet-feat-Intens.html) – [Mood](eme_tudet-feat-Mood.html) – [Nmzr](eme_tudet-feat-Nmzr.html) – [Number](eme_tudet-feat-Number.html) – [Number[obj]](eme_tudet-feat-Number-obj.html) – [Number[subj]](eme_tudet-feat-Number-subj.html) – [Person](eme_tudet-feat-Person.html) – [Person[obj]](eme_tudet-feat-Person-obj.html) – [Person[subj]](eme_tudet-feat-Person-subj.html) – [Polarity](eme_tudet-feat-Polarity.html) – [Pred](eme_tudet-feat-Pred.html) – [PronType](eme_tudet-feat-PronType.html) – [Red](eme_tudet-feat-Red.html) – [Reflex](eme_tudet-feat-Reflex.html) – [Rel](eme_tudet-feat-Rel.html) – [Subord](eme_tudet-feat-Subord.html) – [Tense](eme_tudet-feat-Tense.html) – [Top](eme_tudet-feat-Top.html) – [Voice](eme_tudet-feat-Voice.html)
+[Accomp](eme_tudet-feat-Accomp.html) – [Also](eme_tudet-feat-Also.html) – [Aspect](eme_tudet-feat-Aspect.html) – [Case](eme_tudet-feat-Case.html) – [Clusivity](eme_tudet-feat-Clusivity.html) – [Conces](eme_tudet-feat-Conces.html) – [Contrast](eme_tudet-feat-Contrast.html) – [Corf](eme_tudet-feat-Corf.html) – [Degree](eme_tudet-feat-Degree.html) – [Emph](eme_tudet-feat-Emph.html) – [Excl](eme_tudet-feat-Excl.html) – [Foc](eme_tudet-feat-Foc.html) – [Imprs](eme_tudet-feat-Imprs.html) – [Int](eme_tudet-feat-Int.html) – [Intens](eme_tudet-feat-Intens.html) – [Mood](eme_tudet-feat-Mood.html) – [Nmzr](eme_tudet-feat-Nmzr.html) – [Number](eme_tudet-feat-Number.html) – [Number[obj]](eme_tudet-feat-Number-obj.html) – [Number[subj]](eme_tudet-feat-Number-subj.html) – [Person](eme_tudet-feat-Person.html) – [Person[obj]](eme_tudet-feat-Person-obj.html) – [Person[subj]](eme_tudet-feat-Person-subj.html) – [Polarity](eme_tudet-feat-Polarity.html) – [Pred](eme_tudet-feat-Pred.html) – [PronType](eme_tudet-feat-PronType.html) – [Red](eme_tudet-feat-Red.html) – [Reflex](eme_tudet-feat-Reflex.html) – [Rel](eme_tudet-feat-Rel.html) – [Subord](eme_tudet-feat-Subord.html) – [Tense](eme_tudet-feat-Tense.html) – [Top](eme_tudet-feat-Top.html) – [VerbForm](eme_tudet-feat-VerbForm.html) – [Voice](eme_tudet-feat-Voice.html)
 
 ## Relations
 
-[acl](eme_tudet-dep-acl.html) – [advcl](eme_tudet-dep-advcl.html) – [advmod](eme_tudet-dep-advmod.html) – [amod](eme_tudet-dep-amod.html) – [appos](eme_tudet-dep-appos.html) – [case](eme_tudet-dep-case.html) – [cc](eme_tudet-dep-cc.html) – [ccomp](eme_tudet-dep-ccomp.html) – [compound](eme_tudet-dep-compound.html) – [conj](eme_tudet-dep-conj.html) – [cop](eme_tudet-dep-cop.html) – [dep](eme_tudet-dep-dep.html) – [det](eme_tudet-dep-det.html) – [discourse](eme_tudet-dep-discourse.html) – [dislocated](eme_tudet-dep-dislocated.html) – [iobj](eme_tudet-dep-iobj.html) – [mark](eme_tudet-dep-mark.html) – [nmod](eme_tudet-dep-nmod.html) – [nsubj](eme_tudet-dep-nsubj.html) – [nummod](eme_tudet-dep-nummod.html) – [obj](eme_tudet-dep-obj.html) – [obl](eme_tudet-dep-obl.html) – [parataxis](eme_tudet-dep-parataxis.html) – [punct](eme_tudet-dep-punct.html) – [root](eme_tudet-dep-root.html) – [vocative](eme_tudet-dep-vocative.html) – [xcomp](eme_tudet-dep-xcomp.html)
+[acl](eme_tudet-dep-acl.html) – [advcl](eme_tudet-dep-advcl.html) – [advmod](eme_tudet-dep-advmod.html) – [amod](eme_tudet-dep-amod.html) – [appos](eme_tudet-dep-appos.html) – [case](eme_tudet-dep-case.html) – [cc](eme_tudet-dep-cc.html) – [ccomp](eme_tudet-dep-ccomp.html) – [compound](eme_tudet-dep-compound.html) – [conj](eme_tudet-dep-conj.html) – [cop](eme_tudet-dep-cop.html) – [dep](eme_tudet-dep-dep.html) – [det](eme_tudet-dep-det.html) – [discourse](eme_tudet-dep-discourse.html) – [dislocated](eme_tudet-dep-dislocated.html) – [fixed](eme_tudet-dep-fixed.html) – [flat](eme_tudet-dep-flat.html) – [iobj](eme_tudet-dep-iobj.html) – [mark](eme_tudet-dep-mark.html) – [nmod](eme_tudet-dep-nmod.html) – [nsubj](eme_tudet-dep-nsubj.html) – [nummod](eme_tudet-dep-nummod.html) – [obj](eme_tudet-dep-obj.html) – [obl](eme_tudet-dep-obl.html) – [parataxis](eme_tudet-dep-parataxis.html) – [punct](eme_tudet-dep-punct.html) – [root](eme_tudet-dep-root.html) – [vocative](eme_tudet-dep-vocative.html) – [xcomp](eme_tudet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 759 sentences, 2133 tokens and 2272 syntactic words.</li>
+<li>This corpus contains 913 sentences, 2689 tokens and 2896 syntactic words.</li>
 </ul>
 
 <ul>
@@ -98,8 +98,8 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus contains 125 multi-word tokens. On average, one multi-word token consists of 2.11 syntactic words.</li>
-<li>There are 105 types of multi-word tokens. Examples: nanipamẽ, awakʷəraraʔɨr, Polorekojaram, amanaraʔɨraterehe, apamabaʔekʷər, apamaʔesiparate, lekolazar, nanãhãte, otuirupiwe, oɨrumõde, panaĩsĩkomarupidʒi, perupi, tazar, tekorapɨdʒate, tupawər, zawararaʔɨr, zaɨaʔebaʔekʷər, 12zaɨãhã, SaintGeorgesarupidʒi, Sisukija, abaʔepotɨrpoʔo, akaʔanũpã, amanaraʔɨrate, amõkomabaʔekʷəranẽ, anamiaha, apamabaʔekʷərakom, apamabaʔepeãhã, apoʔãetaokar, apõʔãnoŋ, arehete, awarapɨdʒato, azenamiahaokar, aʔebarehete, aʔekomaraikʷararupawərareheʔe, aʔekomãhã, aʔekɨto, aʔereiba, baipuriresagoŋ, baipurirɨepopenẽ, baipurirɨeŋ, baʔekʷər, baʔeraʔɨrapɨhɨka, bodʒuhukomãhã, datisikədʒi, deruɨar, eakãnũpã, edeãhã, edeãhãsa, erapararaha, idʒepaila.</li>
+<li>This corpus contains 191 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
+<li>There are 150 types of multi-word tokens. Examples: awakʷəraraʔɨr, nanipamẽ, nanipamẽitʃe, arehete, baʔekomarehe, oibarehe, zawararehe, Polorekojaram, amanaraʔɨrate, amanaraʔɨraterehe, amãhãitʃe, apamabaʔekʷər, apamaʔesiparate, ijɨrehewe, lekolazar, nanãhãte, otuirupiwe, oɨrumõde, panaĩsĩkomarupidʒi, pasiʔɨrehedʒira, perupi, pirarehe, planchearehe, tazar, tekorapɨdʒate, tupawər, wɨrakʷar, zawarakomarehe, zawararaʔɨr, zaɨaʔebaʔekʷər, 12zaɨãhã, SaintGeorgesarupidʒi, Sisukija, abaʔepotɨrpoʔo, akaʔakuarupiwe, akaʔanũpã, akãakãmãʔẽrehe, amõkomabaʔekʷəranẽ, anamiaha, apamabaʔekʷərakom, apamabaʔepeãhã, apoʔãetaokar, apõʔãnoŋ, asĩŋatumãʔẽrehe, awarapɨdʒato, awawo, azenamiahaokar, aʔebarehete, aʔekomaraikʷararupawərareheʔe, aʔekomãhã.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -112,15 +112,15 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus contains 16 word types tagged as particles (PART): a, am, enam, kupanam, kupao, kupaɲ, mame, mamen, mamenako, mamenasinã, pir, sa, siʔe, to, waɨ, waɨkuwa</li>
+<li>This corpus contains 17 word types tagged as particles (PART): a, am, enam, kupanam, kupao, kupaɲ, mame, mamen, mamenako, mamenasinã, pir, sa, siʔe, taenã, to, waɨ, waɨkuwa</li>
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as pronouns (PRON): am, amõ, awa, de, e, ede, ereɲ, idʒe, maŋ, nõde, orereɲ, orone, pamẽ, tede, wɨɲ</li>
+<li>This corpus contains 17 lemmas tagged as pronouns (PRON): am, amõ, awa, de, e, ede, ereɲ, idʒe, maŋ, mozepẽ, nõde, orereɲ, orone, pamẽ, tede, wɨɲ, ze</li>
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as determiners (DET): a, arehete, aŋ, aʔe, les, wɨɲ, ɨɲ</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): a, aŋ, aʔe, les, wɨɲ, ɨɲ</li>
 </ul>
 
 <ul>
@@ -136,7 +136,28 @@ The development of this treebank is supported by the by European Research Counci
 </ul>
 
 <ul>
-<li>This corpus does not use the VerbForm feature.</li>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Ger
+  <ul>
+    <li>ADP: rupi, rehe, rehete, idʒupekupamãʔẽ, rehewe</li>
+    <li>ADV: nanimãʔẽra</li>
+    <li>AUX: adʒumãʔẽ, otuiomãʔẽrehe</li>
+    <li>NOUN: wanemãʔẽ, nõdebaʔemãʔẽkotɨ, dawarimãʔẽ, ereiba, piramãʔẽ, tamãʔẽ, tukukimaʔẽ, zaɨr, akãakãmãʔẽ, asĩŋatumãʔẽ</li>
+    <li>NUM: mokoɲamãʔẽkom</li>
+    <li>VERB: nomãʔẽtaraɨdʒimãʔẽte, arowarowagamãʔẽkom, airuɲmãʔẽ, obaʔebaʔemãʔẽ, odʒapɨakamãʔẽ, omanõmãʔẽ, onanmãʔẽate, onaʔaŋtanẽmãʔẽte, otuiomãʔẽ, otuipamãʔẽ</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ser
+  <ul>
+    <li>VERB: azemim, sidʒemin, azaug, ekʷa, ezo, oho, ohoɲ, opopor, owawag, owawagoŋ</li>
+  </ul>
+  </li>
 </ul>
 
 <h3>Nominal Features</h3>
@@ -151,15 +172,18 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Plur
     <ul>
-      <li>ADP: nõdereheo, ehekom, pedehe, pedeheɲ, pegotɨ</li>
+      <li>ADP: nõdereheo, rehe, nõderehe, ehekom, ehekomanawe, pedehe, pedeheɲ, pegotɨ, rehete</li>
       <li>AUX: sidʒu, pedʒu</li>
       <li>DET: aʔekom, aʔekoma, wɨɲakom, wɨɲakomãhã</li>
-      <li>NOUN: pitakom, wãĩwĩkom, lekolazarakom, awakʷərakom, ikɨwɨrakom, baʔekom, karaikom, logementssociauxkom, nõdezar, nõdezarakotɨ</li>
-      <li>NUM: mokoɲamãʔẽkom</li>
+      <li>NOUN: pitakom, wãĩwĩkom, baʔekom, munakom, lekolazarakom, logementssociauxkom, awakʷərakom, baʔekoma, ikɨwɨrakom, nõdebaʔemãʔẽkotɨ</li>
+      <li>NOUN-Ger: nõdebaʔemãʔẽkotɨ, ereiba, imodamãʔẽkom, nõderapɨdʒapope</li>
+      <li>NUM-Ger: mokoɲamãʔẽkom</li>
       <li>PART: kupao</li>
-      <li>PRON: nõde, amõkom, amõkoma, nõdekom, nõdepe, nõderehe, orereɲ</li>
+      <li>PRON: nõde, amõkom, amõkoma, nõdekom, nõdepe, orereɲ</li>
       <li>PROPN: tekokom, meneɲõkom, tekokomãhã, Sẽswawanakom</li>
-      <li>VERB: pedʒapɨakaõwã, pedʒuɲ, pekuar, sidʒemin, sikuwakatu, sinan, depeidudʒi, depezezikatari, disidʒapɨakadʒi, disimãʔẽɲi</li>
+      <li>VERB: pedʒapɨakaõwã, sikuwakatu, pedʒuɲ, pekuar, pezika, sidʒemin, sinan, tomãʔẽkom, depeidudʒi, depezezikatari</li>
+      <li>VERB-Ger: oʔuramãʔẽkom</li>
+      <li>VERB-Ser: sidʒemin</li>
     </ul>
   </li>
 </ul>
@@ -167,13 +191,17 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Sing
     <ul>
-      <li>ADP: derehe, dewɨrakotɨ, epewaramte, erehe, nõdeʔaragatu, orepe</li>
-      <li>ADV: ekotɨ</li>
+      <li>ADP: derehe, erehe, dewɨrakotɨ, epewaramte, nõdeʔaragatu, orepe</li>
+      <li>ADV: ekotɨ, awɨganam</li>
       <li>AUX: adʒu, adʒumãʔẽ, adʒunẽɲ, eredʒu, eredʒuɲ</li>
+      <li>AUX-Ger: adʒumãʔẽ</li>
       <li>CCONJ: deroʔoram</li>
-      <li>NOUN: emen, eraha, erapɨdʒape, ereiba, ezozopodʒ, abaʔepotɨr, akaʔa, anami, apoʔã, apõʔã</li>
+      <li>NOUN: emen, ereiba, eraha, erapɨdʒape, eru, ezozopodʒ, abaʔepotɨr, akaʔa, anami, apoʔã</li>
+      <li>NOUN-Ger: derapɨdʒ, ereram</li>
       <li>PRON: idʒe, ede, ereɲ, idʒeate, tede, edeatesipo, depe, epe, idʒeanẽ, idʒeenam</li>
-      <li>VERB: abaʔe, ahotar, ekʷa, aiɲuŋokar, apotar, damãʔẽtaraɨdʒi, dapotari, aho, aiɲuŋokartar, anũpã</li>
+      <li>VERB: ekʷa, abaʔe, ahotar, aiɲuŋokar, azor, damãʔẽtaraɨdʒi, aho, aiɲuŋokartar, amãʔẽ, apotar</li>
+      <li>VERB-Ger: airuɲmãʔẽ</li>
+      <li>VERB-Ser: azemim, azaug, ekʷa, ezo</li>
     </ul>
   </li>
 </ul>
@@ -185,8 +213,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Abl
     <ul>
-      <li>ADP: idʒuwiŋ</li>
-      <li>ADV: ɨɲtʃɨwi</li>
+      <li>ADP: idʒuwi, idʒuwiŋ</li>
+      <li>ADV: kowi, ɨɲtʃɨwi</li>
       <li>DET: aʔewi, aŋawi, ɨɲawite</li>
       <li>NOUN: kawi, wɨrawi, apamawi, apamaʔewi, baʔewi, kʷarawi, urukureʔawi, ewinẽ, idʒuwi, ikuɲawi</li>
       <li>PROPN: Cayenneawinẽ</li>
@@ -198,9 +226,9 @@ The development of this treebank is supported by the by European Research Counci
   <li>All
     <ul>
       <li>DET: aʔegotɨnẽʔe</li>
-      <li>NOUN: watekotɨ, masogotɨ, nõdezarakotɨ, wɨrakarakotɨ, apɨdʒakotɨ, nõdebaʔemãʔẽkotɨ, oapɨdʒakotɨ, watekotɨwarakom, wɨrakarakotɨnuwã</li>
+      <li>NOUN: watekotɨ, masogotɨ, nõdebaʔemãʔẽkotɨ, nõdezarakotɨ, wɨrakarakotɨ, apɨdʒakotɨ, oapɨdʒakotɨ, watekotɨwarakom, wɨrakarakotɨnuwã</li>
+      <li>NOUN-Ger: nõdebaʔemãʔẽkotɨ</li>
       <li>PROPN: Trois-Sautskotɨ, Renékotɨ</li>
-      <li>VERB: nõdebaʔemãʔẽkotɨ</li>
     </ul>
   </li>
 </ul>
@@ -209,7 +237,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Dat
     <ul>
       <li>ADP: idʒupe</li>
-      <li>NOUN: bokalape, lekolape, maziʔogape, Kayenape, pitakomape, zoaʔɨrape, ʔarape, erapɨdʒape, ikerape, iparɨrupe</li>
+      <li>NOUN: lekolape, bokalape, maziʔogape, Kayenape, pitakomape, zoaʔɨrape, ʔarape, erapɨdʒape, ikerape, iparɨrupe</li>
       <li>PRON: awapeto, depe, epe, nõdepe</li>
       <li>PROPN: Cayenneape, La.Franceapewar</li>
       <li>VERB: mãʔẽharakomape</li>
@@ -220,9 +248,10 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Loc
     <ul>
-      <li>ADP: dewɨrakotɨ, iwɨb, iwɨrakotɨ, owɨb</li>
+      <li>ADP: iwɨrakotɨ, iʔar, dewɨrakotɨ, iwɨb, owɨb</li>
       <li>DET: aʔepori</li>
-      <li>NOUN: ʔɨb, baʔepopedʒi, bokalapedʒi, kijapope, kukupope, patupope, tab, zawapinimaʔar, ʔɨpope, kopope</li>
+      <li>NOUN: ʔɨb, kijapope, baʔepopedʒi, bokalapedʒi, kukupope, patupope, tab, zawapinimaʔar, ʔɨpope, ikotɨ</li>
+      <li>NOUN-Ger: kaʔapopemãʔẽ, nõderapɨdʒapope, səmãʔẽʔar, tamãʔẽpope</li>
       <li>PROPN: surinamapope, Camopipori</li>
     </ul>
   </li>
@@ -231,16 +260,18 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Ref
     <ul>
-      <li>ADP: ba, nõdeʔaragatu</li>
-      <li>ADV: ikemɨnanam, munuʔaŋanate, mɨnawe, aipoate, dizeraʔenawe, en92anam, korate, matɨwara, nanaɨwərasipo, nanenũwã</li>
+      <li>ADP: ba, rehe, ehekomanawe, iʔarawe, nõdeʔaragatu, rehete</li>
+      <li>ADV: ikemɨnanam, aipoate, munuʔaŋanate, mɨnawe, dizeraʔenawe, en92anam, korate, matɨwara, mɨnawarer, nanaɨwərasipo</li>
       <li>AUX: kobaitʃe, kobara, kobazepe</li>
       <li>DET: wɨɲate, aŋara, aʔeate, aʔekoma, wɨɲakom, wɨɲakomãhã, wɨɲanẽ</li>
-      <li>NOUN: lekola, apama, awakʷəra, amana, lekolazarakom, zawara, awakʷərakom, ikɨwɨrakom, tapɨdʒa, zawararehe</li>
-      <li>NUM: mokoɲamãʔẽkom</li>
+      <li>NOUN: awakʷəra, lekola, zawara, amana, apama, munakom, lekolazarakom, raʔɨrate, awakʷərakom, baʔekoma</li>
+      <li>NOUN-Ger: poromokonamãʔẽate, rapɨdʒate, raʔɨrate</li>
+      <li>NUM-Ger: mokoɲamãʔẽkom</li>
       <li>PART: mamenasinã, mamenako</li>
       <li>PRON: idʒeate, edeatesipo, amõkoma, idʒeanẽ, maŋato</li>
       <li>PROPN: SaintGeorgesa, Sẽswawanakom, tekoate</li>
-      <li>VERB: arowarowagamãʔẽkom, ereikɨdʒanũwã, eretarawadʒenuwã, ewurana, okoaraõwã, omomokoɲanam, omõgʷeraharanẽ, onanmãʔẽate, opokadʒaitʃe, ozepɨhɨg</li>
+      <li>VERB: arowarowagamãʔẽkom, oʔararehe, ereikɨdʒanũwã, eremozaugaõwãzepeʔepo, eretarawadʒenuwã, ewurana, ewuranã, okoaraõwã, omomokoɲanam, omõgʷeraharanẽ</li>
+      <li>VERB-Ger: arowarowagamãʔẽkom, onanmãʔẽate, oʔuramãʔẽkom, zaiɲuŋamãʔẽ</li>
     </ul>
   </li>
 </ul>
@@ -249,7 +280,8 @@ The development of this treebank is supported by the by European Research Counci
   <li>Tra
     <ul>
       <li>ADP: epewaramte</li>
-      <li>NOUN: ʒãdamam, ɨŋam, tarawadʒam, wãĩwĩam, aʔɨamnẽ, baʔeraʔɨraʔepɨhɨgam, duriam, karaam, kudʒaburuam, maiream</li>
+      <li>NOUN: ʒãdamam, ɨŋam, tarawadʒam, wãĩwĩam, aʔɨam, aʔɨamnẽ, baʔeraʔɨraʔepɨhɨgam, duriam, karaam, kudʒaburuam</li>
+      <li>NOUN-Ger: ereram</li>
       <li>PART: am</li>
       <li>PROPN: tekoam</li>
     </ul>
@@ -287,7 +319,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Dim
     <ul>
-      <li>NOUN: takuruũwĩ</li>
+      <li>NOUN: takuruũwĩ, pitaŋaũwĩ</li>
       <li>VERB: emõdurawĩ, oʔoʔogawĩ</li>
     </ul>
   </li>
@@ -311,11 +343,12 @@ The development of this treebank is supported by the by European Research Counci
       <li>ADP: iwonõwã</li>
       <li>ADV: dimani, dikaruginam, nanenũwã, wɨtʃɨnũwãso</li>
       <li>AUX: dati</li>
-      <li>NOUN: kuʔidʒinũwã, sikãĩnũwã, wɨrakaranũwã, zarenũwã, daepɨdʒiaʔu, debaʔewari, dekaraɨdʒi, dekuɲaɲi, demebɨri, demeni</li>
+      <li>NOUN: kuʔidʒinũwã, nõderɨruũwã, sikãĩnũwã, wɨrakaranũwã, zarenũwã, daepɨdʒiaʔu, debaʔewari, dekaraɨdʒi, dekuɲaɲi, demebɨri</li>
       <li>NUM: dimokoɲi</li>
-      <li>PART: waɨ, mame, mamenasinã, mamen, mamenako, waɨkuwa</li>
+      <li>PART: waɨ, mame, mamen, mamenasinã, waɨkuwa, mamenako</li>
       <li>PROPN: tekoũwã</li>
-      <li>VERB: datɨpɨdʒi, damãʔẽtaraɨdʒi, dapotari, dosuʔutari, dozaugi, dozemõdɨʔariŋ, nomãʔẽtaraɨdʒimãʔẽte, aʔenũwãso, dabaʔepatari, dadʒaʔodʒiɲ</li>
+      <li>VERB: damãʔẽtaraɨdʒi, datɨpɨdʒi, nomãʔẽtaraɨdʒimãʔẽte, dapotari, dapɨhɨgi, dosuʔutari, dozaugi, dozemõdɨʔariŋ, nõdurtari, nõdutari</li>
+      <li>VERB-Ger: nomãʔẽtaraɨdʒimãʔẽte</li>
     </ul>
   </li>
 </ul>
@@ -334,7 +367,8 @@ The development of this treebank is supported by the by European Research Counci
       <li>ADV: manãkuwapa</li>
       <li>AUX: kobpakatu</li>
       <li>NOUN: deraɨhɨpadʒi, nõderaɨhɨpadʒira, poroʔupa, zazemõapampa</li>
-      <li>VERB: oʔupakatu, zapɨhɨpa, akuwapakatu, dabaʔepatari, dazaugpadʒi, dobaʔepakatudʒi, oeraokompa, ohopaŋ, oikɨdʒpa, oiɲuŋbanam</li>
+      <li>VERB: oiɲuŋbanam, oʔupakatu, oʔupanawe, zapɨhɨpa, akuwapakatu, dabaʔepatari, dazaugpadʒi, dobaʔepakatudʒi, oeraokompa, ohopaŋ</li>
+      <li>VERB-Ger: otuipamãʔẽ</li>
     </ul>
   </li>
 </ul>
@@ -342,11 +376,14 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Cont
     <ul>
-      <li>ADP: nõdereheo, ikotɨɲ, pedeheɲ</li>
+      <li>ADP: nõdereheo, pedeheɲ</li>
+      <li>ADV: ikotɨɲ</li>
       <li>AUX: otuio, adʒunẽɲ, eredʒuɲ, otuiomãʔẽrehe</li>
+      <li>AUX-Ger: otuiomãʔẽrehe</li>
       <li>NOUN: ibaʔeraɨo, zawaro, emẽbɨriɲ, ibaʔewato, nõdekuruo, oibao, omẽbɨro, poroiruwo</li>
       <li>PART: kupao, kupaɲ</li>
-      <li>VERB: oʔao, oapɨgo, omumuɲõ, esago, omãʔẽo, oʔuo, pedʒuɲ, adʒuɲ, airuɲmãʔẽ, akaʔutariɲ</li>
+      <li>VERB: omumuɲõ, oʔao, oapɨgo, esago, ohoɲ, okeokero, okero, okʷaɲ, omãʔẽo, oʔuo</li>
+      <li>VERB-Ger: airuɲmãʔẽ, otuiomãʔẽ</li>
     </ul>
   </li>
 </ul>
@@ -356,7 +393,8 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>AUX: otuiʔe</li>
       <li>DET: aŋeʔe</li>
-      <li>VERB: opoʔoʔe, eʔiʔe, ohoʔe, orowɨgtareʔe</li>
+      <li>NOUN: imeneʔe</li>
+      <li>VERB: oporeʔe, opoʔoʔe, aiɲuŋeʔe, eʔiʔe, ohoʔe, okusugatuʔe, okusuggatuʔe, okusukusugkatueʔe, okusukusukatueʔe, opukudʒeʔe</li>
     </ul>
   </li>
 </ul>
@@ -369,7 +407,8 @@ The development of this treebank is supported by the by European Research Counci
   <li>Des
     <ul>
       <li>NOUN: nõdeapisitanẽ</li>
-      <li>VERB: erezaugtanẽpo, zamãʔẽtanẽ</li>
+      <li>VERB: erezaugtanẽpo, onaʔaŋtanẽmãʔẽte, zamãʔẽtanẽ</li>
+      <li>VERB-Ger: onaʔaŋtanẽmãʔẽte</li>
     </ul>
   </li>
 </ul>
@@ -378,6 +417,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Dub
     <ul>
       <li>ADV: kʷienã</li>
+      <li>PART: taenã</li>
     </ul>
   </li>
 </ul>
@@ -386,7 +426,8 @@ The development of this treebank is supported by the by European Research Counci
   <li>Imp
     <ul>
       <li>NOUN: pewɨkəko</li>
-      <li>VERB: ekʷa, pedʒapɨakaõwã, ekerakoɲ, emeʔeŋ, emõdur, emõdurawĩ, eraho, ewedʒu, ewurana, ezo</li>
+      <li>VERB: ekʷa, pedʒapɨakaõwã, ezo, pezika, ehem, ekerakoɲ, ekukusugkatu, ekukusukatu, emeʔeŋ, emõdur</li>
+      <li>VERB-Ser: ekʷa, ezo</li>
     </ul>
   </li>
 </ul>
@@ -394,12 +435,12 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Irr
     <ul>
-      <li>ADV: wanekuwa, wɨtʃɨkuwa, manãkuwapa, wanegatukuwa</li>
+      <li>ADV: wɨtʃɨkuwa, ãhãitʃe, wanekuwa, manãkuwapa, wanegatukuwa</li>
       <li>AUX: kobaitʃe</li>
-      <li>NOUN: nõdeawuawekuwaenam</li>
+      <li>NOUN: nõdeawuawekuwaenam, nõdekamitʃakuwa</li>
       <li>PART: waɨkuwa</li>
       <li>PRON: pamẽitʃe</li>
-      <li>VERB: opokadʒaitʃe</li>
+      <li>VERB: opokadʒaitʃe, ozepiraitʃe</li>
     </ul>
   </li>
 </ul>
@@ -408,7 +449,7 @@ The development of this treebank is supported by the by European Research Counci
   <li>Jus
     <ul>
       <li>NOUN: derapɨdʒnane</li>
-      <li>PART: mamenako, mamenasinã</li>
+      <li>PART: mamenasinã, mamenako</li>
       <li>PRON: kede</li>
     </ul>
   </li>
@@ -417,7 +458,8 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Per
     <ul>
-      <li>VERB: tapoʔo, tareko, topaʔam, taike, taowe, tazaugpanane, tazepir, tepedʒapɨakaõwã, teremãʔẽ, tereraho</li>
+      <li>NOUN: tekuar, tenũpã</li>
+      <li>VERB: tapoʔo, tareko, tomãʔẽ, tomãʔẽkom, topaʔam, toʔu, taboɨg, taike, tairur, tamãʔẽ</li>
     </ul>
   </li>
 </ul>
@@ -432,7 +474,8 @@ The development of this treebank is supported by the by European Research Counci
       <li>AUX: kobtar, kobtarpɨrɨ, otuitar, zabodʒutar</li>
       <li>NOUN: diawutari, eawutar, erapɨdʒtar, erepokogtar, ezikatar, nõdeawutari</li>
       <li>NUM: mokoɲtaroŋ</li>
-      <li>VERB: ahotar, damãʔẽtaraɨdʒi, oʔurtar, oʔutar, aiɲuŋokartar, awurtar, dosuʔutari, nomãʔẽtaraɨdʒimãʔẽte, orohotar, orohotaruwe</li>
+      <li>VERB: ahotar, oʔutar, damãʔẽtaraɨdʒi, nomãʔẽtaraɨdʒimãʔẽte, aiɲuŋokartar, orohotar, oʔurtar, aiɲuŋokatar, anantar, awedʒutar</li>
+      <li>VERB-Ger: nomãʔẽtaraɨdʒimãʔẽte</li>
     </ul>
   </li>
 </ul>
@@ -440,7 +483,10 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Past
     <ul>
-      <li>NOUN: kowioʔu, kʷaraɨreherako</li>
+      <li>ADP: reherako</li>
+      <li>ADV: kweherako, nanirako</li>
+      <li>NOUN: kowioʔu</li>
+      <li>VERB: ozemõdɨʔaramõnam, õhemoʔu</li>
     </ul>
   </li>
 </ul>
@@ -453,8 +499,8 @@ The development of this treebank is supported by the by European Research Counci
   <li>Cau
     <ul>
       <li>AUX: zabodʒutar</li>
-      <li>NOUN: emozeburupakomokar, emozemohun, nõdemõdokaroŋ, nõdemõgʷera, obobaʔewatokat, oromozonaɲokar, poromõmaʔam, zazemõapampa</li>
-      <li>VERB: aiɲuŋokar, ahaokar, aiɲuŋokartar, etaokar, obosale, okaʔarokar, zabaʔeokar, aiɲuŋokatar, amokoɲokar, amozaug</li>
+      <li>NOUN: poromõmaʔam, emozeburupakomokar, emozemohun, nõdemõdokaroŋ, nõdemõgʷera, obobaʔewatokat, oromozonaɲokar, zazemõapampa</li>
+      <li>VERB: aiɲuŋokar, aiɲuŋokartar, ahaokar, aiɲuŋokatar, etaokar, obosale, oboʔa, okaʔarokar, zabaʔeokar, amokoɲokar</li>
     </ul>
   </li>
 </ul>
@@ -462,8 +508,9 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>SCau
     <ul>
-      <li>NOUN: derozaug, eraho</li>
-      <li>VERB: oweronan, arowarowag, oeroker, areko, aroãbɨ, aroʔa, oeraho, oerokʷa, oeronan, oerowag</li>
+      <li>NOUN: derozaug, erowawag</li>
+      <li>VERB: oweronan, arowarowag, oeroker, areko, arowag, aroãbɨ, aroʔa, erahoɲ, oeraho, oerokʷa</li>
+      <li>X: eraho</li>
     </ul>
   </li>
 </ul>
@@ -479,7 +526,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: amõ, amõenam, amõkom, amõkoma</li>
+      <li>PRON: amõ, mozepẽ, amõenam, amõkom, amõkoma</li>
     </ul>
   </li>
 </ul>
@@ -487,9 +534,10 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Rcp
     <ul>
-      <li>ADP: zeʔar, zeʔari</li>
+      <li>ADP: zekapɨrernẽ, zeʔar, zeʔari</li>
       <li>ADV: zekapɨrernẽ, zeporikatu</li>
       <li>CCONJ: zeʔoram</li>
+      <li>PRON: ze</li>
       <li>VERB: zemenõ</li>
     </ul>
   </li>
@@ -498,7 +546,7 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: pamẽ</li>
+      <li>PRON: pamẽ, pamẽitʃe</li>
     </ul>
   </li>
 </ul>
@@ -514,7 +562,8 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>ADV: zeakapɨreri</li>
       <li>NOUN: azenami, emozemohun, ozekɨ, ozewa, ozeɨru, zazemõapampa</li>
-      <li>VERB: sidʒemin, depezezikatari, omozezopodʒ, onenaŋoŋ, ozekusug, ozemim, ozemokasinẽ, ozemõborɨ, ozemĩnõtar, ozepotaroŋ</li>
+      <li>VERB: azemim, ozemim, sidʒemin, azeboʔe, azemimtar, azemɨmgatu, dazemimi, depezezikatari, omozezopodʒ, onenaŋoŋ</li>
+      <li>VERB-Ser: azemim, sidʒemin</li>
     </ul>
   </li>
 </ul>
@@ -526,12 +575,16 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>1
     <ul>
-      <li>ADP: nõdereheo, epewaramte, erehe, nõdeʔaragatu, orepe</li>
-      <li>ADV: ekotɨ, ikotɨŋ</li>
+      <li>ADP: nõdereheo, erehe, nõderehe, epewaramte, nõdeʔaragatu, orepe, rehete</li>
+      <li>ADV: ekotɨ, ikotɨŋ, awɨganam</li>
       <li>AUX: adʒu, sidʒu, adʒumãʔẽ, adʒunẽɲ</li>
-      <li>NOUN: emen, ereiba, eraha, erapɨdʒape, ezozopodʒ, nõdezar, nõdezarakotɨ, abaʔepotɨr, akaʔa, anami</li>
-      <li>PRON: idʒe, nõde, idʒeate, ereɲ, orereɲ, epe, idʒeanẽ, idʒeenam, idʒeãhã, nõdekom</li>
-      <li>VERB: abaʔe, ahotar, aiɲuŋokar, apotar, damãʔẽtaraɨdʒi, dapotari, aho, aiɲuŋokartar, anũpã, arowarowag</li>
+      <li>AUX-Ger: adʒumãʔẽ</li>
+      <li>NOUN: ereiba, emen, nõdebaʔemãʔẽkotɨ, eraha, erapɨdʒape, eru, ezozopodʒ, nõdeawuawekuwaenam, nõdebaʔe, nõderɨruũwã</li>
+      <li>NOUN-Ger: nõdebaʔemãʔẽkotɨ, ereiba, ereram, nõderapɨdʒapope</li>
+      <li>PRON: idʒe, nõde, idʒeate, ereɲ, orereɲ, epe, idʒeanẽ, idʒeenam, idʒerawe, idʒeãhã</li>
+      <li>VERB: abaʔe, ahotar, aiɲuŋokar, azor, damãʔẽtaraɨdʒi, aho, aiɲuŋokartar, amãʔẽ, apotar, arowarowag</li>
+      <li>VERB-Ger: airuɲmãʔẽ</li>
+      <li>VERB-Ser: azemim, sidʒemin, azaug</li>
     </ul>
   </li>
 </ul>
@@ -542,9 +595,11 @@ The development of this treebank is supported by the by European Research Counci
       <li>ADP: derehe, dewɨrakotɨ, pedehe, pedeheɲ, pegotɨ</li>
       <li>AUX: eredʒu, eredʒuɲ, pedʒu</li>
       <li>CCONJ: deroʔoram</li>
-      <li>NOUN: itawa, debaʔewarapo, debaʔewaraso, defreãhã, deleiba, demõdate, deradʒɨr, derapɨdʒ, derapɨdʒnane, deraɨhɨpadʒi</li>
+      <li>NOUN: itawa, pepazenam, debaʔewarapo, debaʔewaraso, defreãhã, deleiba, demõdate, deradʒɨr, derapɨdʒ, derapɨdʒnane</li>
+      <li>NOUN-Ger: derapɨdʒ</li>
       <li>PRON: ede, tede, edeatesipo, ereɲ, depe, kede, sede</li>
-      <li>VERB: ekʷa, pedʒapɨakaõwã, erenũpã, erepotanẽso, erezor, pedʒuɲ, pekuar, depeidudʒi, depezezikatari, ekerakoɲ</li>
+      <li>VERB: ekʷa, pedʒapɨakaõwã, erenũpã, erepotanẽso, erezor, ezo, pedʒuɲ, pekuar, pezika, depeidudʒi</li>
+      <li>VERB-Ser: ekʷa, ezo</li>
     </ul>
   </li>
 </ul>
@@ -552,10 +607,13 @@ The development of this treebank is supported by the by European Research Counci
 <ul>
   <li>3
     <ul>
-      <li>ADP: ehekom, oehe, owɨb</li>
-      <li>AUX: otui, otuio, otuiʔe, otuiomãʔẽrehe, otuitar</li>
-      <li>NOUN: oɨru, oiba, oibarehe, orekʷar, oakaŋ, okẽ, ozara, oɨ, apɨdʒakotɨ, ibaʔehar</li>
-      <li>VERB: oho, oiɲuŋ, eʔi, obaʔe, owir, oʔa, oker, onan, omãʔẽ, owur</li>
+      <li>ADP: oehe, owɨb</li>
+      <li>AUX: otuio, otui, otuiʔe, otuiomãʔẽrehe, otuitar</li>
+      <li>AUX-Ger: otuiomãʔẽrehe</li>
+      <li>NOUN: oiba, oɨru, orekʷar, idʒar, oakaŋ, okẽ, owɨ, ozara, oɨ, apɨdʒakotɨ</li>
+      <li>VERB: oho, oiɲuŋ, eʔi, oʔa, obaʔe, oker, omãʔẽ, onan, owir, owur</li>
+      <li>VERB-Ger: nomãʔẽtaraɨdʒimãʔẽte, obaʔebaʔemãʔẽ, odʒapɨakamãʔẽ, omanõmãʔẽ, onanmãʔẽate, onaʔaŋtanẽmãʔẽte, otuiomãʔẽ, otuipamãʔẽ, owatamaʔẽ, ozikamãʔẽ</li>
+      <li>VERB-Ser: oho, ohoɲ, opopor, owawag, owawagoŋ, oʔa, oʔu</li>
     </ul>
   </li>
 </ul>
@@ -571,10 +629,13 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
+          <li>ADP: rehedʒira</li>
           <li>ADV: nanimãʔẽra, pɨanamara</li>
+          <li>ADV-Ger: nanimãʔẽra</li>
           <li>AUX: kobara</li>
           <li>DET: aŋara</li>
-          <li>NOUN: nõderaɨhɨpadʒira, pasiʔɨrehedʒira</li>
+          <li>NOUN: nõderaɨhɨpadʒira</li>
+          <li>PRON: idʒerawe</li>
           <li>VERB: eʔira</li>
         </ul>
       </li>
@@ -587,10 +648,11 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: ipuriweʔe, rupiwe</li>
+          <li>ADP: rupiwe, ipuriweʔe, iʔarawe, rehewe</li>
+          <li>ADP-Ger: rehewe</li>
           <li>ADV: mɨnawe</li>
-          <li>NOUN: arakapusawe, sikãĩwe, səwe, dereibawesipo, dʒuribaweʔe, edʒɨawe, edʒɨwe, eibawe, iboteaweʔe, ijɨrehewe</li>
-          <li>PRON: oronekomuwe</li>
+          <li>NOUN: wɨrawe, arakapusawe, eibawe, nõdeawuawekuwaenam, sikãĩwe, səwe, dereibawesipo, dʒuribaweʔe, edʒɨawe, edʒɨwe</li>
+          <li>PRON: idʒerawe, oronekomuwe</li>
           <li>VERB: orohotaruwe, okidʒewerehe, taowe</li>
         </ul>
       </li>
@@ -606,16 +668,18 @@ The development of this treebank is supported by the by European Research Counci
           <li>ADP: orepe</li>
           <li>NOUN: oronekarakuri, oronekarakurinam, oronekarakuriõwãnam</li>
           <li>PRON: orereɲ, oronekomuwe</li>
-          <li>VERB: orohotar, orohotaruwe, orowɨgtareʔe, orozopodʒ, toroike</li>
+          <li>VERB: orohotar, orohotaruwe, orowɨgtareʔe, orozopodʒ, toroike, torowɨkɨpodʒ</li>
         </ul>
       </li>
       <li>In
         <ul>
-          <li>ADP: nõdereheo, nõdeʔaragatu</li>
+          <li>ADP: nõdereheo, nõderehe, nõdeʔaragatu, rehete</li>
           <li>AUX: sidʒu</li>
-          <li>NOUN: nõdemõdokaroŋ, nõdezar, nõdezarakotɨ, nõdeapisitanẽ, nõdeawuawekuwaenam, nõdeawutari, nõdebaʔe, nõdebaʔekʷərarehete, nõdebaʔekʷərawe, nõdebaʔemãʔẽkotɨ</li>
-          <li>PRON: nõde, nõdekom, nõdepe, nõderehe, orereɲ</li>
-          <li>VERB: sidʒemin, sikuwakatu, sinan, disidʒapɨakadʒi, disimãʔẽɲi, nõdebaʔemãʔẽkotɨ, nõderapɨdʒ, seike, seikokom, sibaʔetar</li>
+          <li>NOUN: nõdebaʔemãʔẽkotɨ, nõdeawuawekuwaenam, nõdebaʔe, nõdemõdokaroŋ, nõderɨruũwã, nõdezar, nõdezarakotɨ, nõdeapisitanẽ, nõdeawutari, nõdebaʔekʷəra</li>
+          <li>NOUN-Ger: nõdebaʔemãʔẽkotɨ, nõderapɨdʒapope</li>
+          <li>PRON: nõde, nõdekom, nõdepe, orereɲ</li>
+          <li>VERB: sikuwakatu, sidʒemin, sinan, disidʒapɨakadʒi, disimãʔẽɲi, nõderapɨdʒ, seike, seikokom, sibaʔetar, sidʒaonẽ</li>
+          <li>VERB-Ser: sidʒemin</li>
         </ul>
       </li>
     </ul>
@@ -628,6 +692,7 @@ The development of this treebank is supported by the by European Research Counci
       <li>Yes
         <ul>
           <li>AUX: kobazepe</li>
+          <li>VERB: eremozaugaõwãzepeʔepo, sidʒeminanãzepe</li>
         </ul>
       </li>
     </ul>
@@ -639,14 +704,14 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: ipopenẽ</li>
+          <li>ADP: zekapɨrernẽ, ipopenẽ</li>
           <li>ADV: wɨtʃɨnẽ, atɨnẽ, cinqenam, kɨwonẽ, naonanpɨrɨnẽ, zekapɨrernẽ</li>
           <li>AUX: kobnẽ, adʒunẽɲ</li>
           <li>DET: aʔegotɨnẽʔe, wɨɲanẽ</li>
-          <li>NOUN: aʔɨamnẽ, apamanẽ, baʔekʷəranẽ, ewinẽ, nõdeɨane, oesiruwanẽ, oɨruanẽʔe, rɨepopenẽ, takuruʔaranẽ, tosiamnẽ</li>
+          <li>NOUN: aʔɨamnẽ, nananẽ, apamanẽ, baʔekʷəranẽ, ewinẽ, nõdeɨane, oesiruwanẽ, oɨruanẽʔe, rɨepopenẽ, takuruʔaranẽ</li>
           <li>PRON: idʒeanẽ</li>
           <li>PROPN: Cayenneawinẽ</li>
-          <li>VERB: omãʔẽnẽ, amãʔẽnẽ, erepotanẽso, erezikanẽ, eʔinẽɨwər, omõgʷeraharanẽ, ozemokasinẽ, sidʒaonẽ</li>
+          <li>VERB: omãʔẽnẽ, amãʔẽnẽ, erepotanẽso, erezikanẽ, eʔinẽɨwər, omõgʷeraharanẽ, ozemokasinẽ, sidʒaonẽ, õhẽõhemnẽ</li>
         </ul>
       </li>
     </ul>
@@ -659,7 +724,7 @@ The development of this treebank is supported by the by European Research Counci
       <li>Yes
         <ul>
           <li>ADP: oehe, owɨb</li>
-          <li>NOUN: oiba, oibarehe, oakaŋ, ozara, oɨ, apɨdʒakotɨ, oapar, oapara, oapɨdʒakotɨ, oaʔɨr</li>
+          <li>NOUN: oiba, oakaŋ, orekʷar, owɨ, ozara, oɨ, apɨdʒakotɨ, oapar, oapara, oapɨdʒakotɨ</li>
           <li>VERB: omõgʷeraharanẽ, osapatokom</li>
         </ul>
       </li>
@@ -673,9 +738,10 @@ The development of this treebank is supported by the by European Research Counci
       <li>Yes
         <ul>
           <li>ADP: ipuriweʔe, iwɨrakotɨʔe, iʔareʔe, reheʔe</li>
+          <li>ADV: ameʔenam</li>
           <li>DET: aŋeʔe, wɨɲeʔe, aʔegotɨnẽʔe</li>
           <li>NOUN: dʒuribaweʔe, iboteaweʔe, oronekarakuriõwãnam, oɨruanẽʔe, sapaweʔe</li>
-          <li>VERB: pedʒapɨakaõwã, odʒarapaʔameʔe, owerahotareʔeŋ, sidʒapɨakaõwã, tepedʒapɨakaõwã, õhemeʔe</li>
+          <li>VERB: pedʒapɨakaõwã, eremozaugaõwãzepeʔepo, odʒarapaʔameʔe, omowaɲeʔe, omãʔẽnaneʔe, owerahotareʔeŋ, sidʒapɨakaõwã, tepedʒapɨakaõwã, õhemeʔe</li>
         </ul>
       </li>
     </ul>
@@ -687,9 +753,9 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: manasipo, matɨsipo, nanaɨwərasipo</li>
+          <li>ADV: matɨsipo, manasipo, nanaɨwərasipo</li>
           <li>NOUN: baʔesipo, dereibawesipo, emenatesipo</li>
-          <li>PRON: edeatesipo</li>
+          <li>PRON: edeatesipo, awasipo</li>
           <li>VERB: pezeboaitesipo</li>
         </ul>
       </li>
@@ -703,13 +769,16 @@ The development of this treebank is supported by the by European Research Counci
       <li>Yes
         <ul>
           <li>ADP: rehete, epewaramte, ipurite</li>
-          <li>ADV: ãhãte, ãtɨte, aipoate, korate, nanirehete</li>
+          <li>ADP-Ger: rehete</li>
+          <li>ADV: ãhãte, ãtɨte, aipoate, aipote, korate, nanirehete</li>
           <li>CCONJ: oʔoramte</li>
-          <li>DET: wɨɲate, arehete, aʔeate, ɨɲawite</li>
-          <li>NOUN: siparate, iwaɲete, rapɨdʒate, raʔɨrate, aʔɨrate, aʔɨraterehe, demõdate, dʒaiwərate, emenatesipo, ibaridʒate</li>
+          <li>DET: wɨɲate, aʔeate, ɨɲawite</li>
+          <li>NOUN: raʔɨrate, siparate, iwaɲete, rapɨdʒate, aʔɨrate, demõdate, dʒaiwərate, emenatesipo, ibaridʒate, idʒarɨdʒate</li>
+          <li>NOUN-Ger: poromokonamãʔẽate, rapɨdʒate, raʔɨrate</li>
           <li>PRON: idʒeate, edeatesipo</li>
           <li>PROPN: tekoate</li>
-          <li>VERB: nomãʔẽtaraɨdʒimãʔẽte, aʔete, onanmãʔẽate, pezeboaitesipo</li>
+          <li>VERB: nomãʔẽtaraɨdʒimãʔẽte, aʔete, onanmãʔẽate, onaʔaŋtanẽmãʔẽte, pezeboaitesipo</li>
+          <li>VERB-Ger: nomãʔẽtaraɨdʒimãʔẽte, onanmãʔẽate, onaʔaŋtanẽmãʔẽte</li>
         </ul>
       </li>
     </ul>
@@ -723,8 +792,10 @@ The development of this treebank is supported by the by European Research Counci
         <ul>
           <li>ADP: zoehe</li>
           <li>AUX: zadʒu, zabodʒutar</li>
-          <li>NOUN: poropɨhɨg, zoaʔɨrape, zoɨpɨ, poroiruwo, poromokonamãʔẽate, poromõmaʔam, porozikaharate, poroʔupa, zazemõapampa, zokarakurikom</li>
-          <li>VERB: zadʒapɨaka, zaiko, zamãʔẽ, zapuru, odʒakaʔar, zabaʔeokar, zaho, zaidu, zapɨhɨpa, zatarawadʒ</li>
+          <li>NOUN: zoɨpɨ, poromõmaʔam, poropɨhɨg, zoaʔɨrape, poroiruwo, poromokonamãʔẽate, porozikaharate, poroʔupa, zazemõapampa, zokarakurikom</li>
+          <li>NOUN-Ger: poromokonamãʔẽate</li>
+          <li>VERB: zaiko, zadʒapɨaka, zaho, zamãʔẽ, zapuru, odʒakaʔar, zabaʔeokar, zaidu, zaikenam, zapɨhɨpa</li>
+          <li>VERB-Ger: zaiɲuŋamãʔẽ</li>
         </ul>
       </li>
     </ul>
@@ -736,12 +807,12 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: mananesipo, mananeto, mananãhãto, manãto, mataʔe, wanepa, ãhãsa, ãhãso, manasipo, manãkuwapa</li>
+          <li>ADV: mananesipo, mananeto, mananãhãto, manãto, mataʔe, matɨsipo, wanepa, ãhãsa, ãhãso, manasipo</li>
           <li>INTJ: tãõwãpo</li>
-          <li>NOUN: baʔeto, pairato, baʔesipo, debaʔewarapo, debaʔewaraso, dereibawesipo, emenatesipo, pebaridʒaso, pebaridʒateso, rapɨdʒato</li>
-          <li>PART: to</li>
-          <li>PRON: tede, awata, awapeto, edeatesipo, maŋato, sede</li>
-          <li>VERB: erepotanẽso, aʔenũwãso, erepotaneso, erepotarnẽso, erezaugtanẽpo, noidudʒiso, pezeboaitesipo, seredʒuɲ, teredʒu, terehotar</li>
+          <li>NOUN: baʔeto, baʔesipo, pairato, debaʔewarapo, debaʔewaraso, dereibawesipo, emenatesipo, pebaridʒaso, pebaridʒateso, rapɨdʒato</li>
+          <li>PART: taenã, to</li>
+          <li>PRON: tede, awata, awapeto, awasipo, edeatesipo, maŋato, sede</li>
+          <li>VERB: erepotanẽso, aʔenũwãso, eremozaugaõwãzepeʔepo, erepotaneso, erepotarnẽso, erezaugtanẽpo, noidudʒiso, pezeboaitesipo, seredʒuɲ, teredʒu</li>
         </ul>
       </li>
     </ul>
@@ -756,8 +827,10 @@ The development of this treebank is supported by the by European Research Counci
           <li>ADP: nõdeʔaragatu</li>
           <li>ADV: imaniaɨ, wanegatukuwa, zeporikatu</li>
           <li>AUX: datikatu, kobpakatu</li>
-          <li>NOUN: perabkatu, tukukaɨ, dikarakuriaɨdʒi, iɲuʔaŋaɨ</li>
-          <li>VERB: damãʔẽtaraɨdʒi, nomãʔẽtaraɨdʒimãʔẽte, oʔupakatu, sikuwakatu, akuwapakatu, didʒamãʔẽaɨdʒi, dobaʔepakatudʒi, omeʔeŋgatu, omõbagatu, omõbaggatu</li>
+          <li>NOUN: perabkatu, tukukaɨ, asĩŋatumãʔẽ, dikarakuriaɨdʒi, iɲuʔaŋaɨ</li>
+          <li>NOUN-Ger: asĩŋatumãʔẽ</li>
+          <li>VERB: damãʔẽtaraɨdʒi, nomãʔẽtaraɨdʒimãʔẽte, sikuwakatu, oʔupakatu, akuwapakatu, azemɨmgatu, didʒamãʔẽaɨdʒi, dobaʔepakatudʒi, ekukusugkatu, ekukusukatu</li>
+          <li>VERB-Ger: nomãʔẽtaraɨdʒimãʔẽte</li>
         </ul>
       </li>
     </ul>
@@ -770,7 +843,7 @@ The development of this treebank is supported by the by European Research Counci
       <li>Adv
         <ul>
           <li>ADP: epewaramte, ipopewar</li>
-          <li>ADV: amewar, matɨwara</li>
+          <li>ADV: amewar, matɨwara, mɨnawarer</li>
           <li>NOUN: tatapewan, watekotɨwarakom</li>
           <li>PROPN: La.Franceapewar, Sẽswawanakom</li>
         </ul>
@@ -787,16 +860,6 @@ The development of this treebank is supported by the by European Research Counci
           <li>VERB: apɨka, dzewaka, pukutʃa, pɨhɨka, zozoga</li>
         </ul>
       </li>
-      <li>Rel
-        <ul>
-          <li>ADP: rupi, idʒupekupamãʔẽ, rehete</li>
-          <li>ADV: nanimãʔẽra</li>
-          <li>AUX: adʒumãʔẽ, otuiomãʔẽrehe</li>
-          <li>NOUN: wanemãʔẽ, dawarimãʔẽ, piramãʔẽ, tamãʔẽ, tukukimaʔẽ, zaɨr, amanar, aʔɨraterehe, bɨgimãʔẽ, dawarimãʔẽenam</li>
-          <li>NUM: mokoɲamãʔẽkom</li>
-          <li>VERB: arowarowagamãʔẽkom, nomãʔẽtaraɨdʒimãʔẽte, airuɲmãʔẽ, nõdebaʔemãʔẽkotɨ, odʒapɨakamãʔẽ, omanõmãʔẽ, omõderehe, onanmãʔẽate, otuiomãʔẽ, otuipamãʔẽ</li>
-        </ul>
-      </li>
     </ul>
   </li>
 </ul>
@@ -808,6 +871,7 @@ The development of this treebank is supported by the by European Research Counci
         <ul>
           <li>NOUN: dezarakom, emozeburupakomokar, nõdemõdokaroŋ, nõderaʔɨrakomateenam</li>
           <li>VERB: arowarowagamãʔẽkom, aporoekar, azikakom</li>
+          <li>VERB-Ger: arowarowagamãʔẽkom</li>
         </ul>
       </li>
       <li>Sing
@@ -827,17 +891,20 @@ The development of this treebank is supported by the by European Research Counci
       <li>Plur
         <ul>
           <li>ADP: eheŋ, idʒupekupamãʔẽ, idʒupeŋ, idʒuwiŋ</li>
-          <li>ADV: ekotɨŋ, kotɨŋ, ikotɨŋ</li>
+          <li>ADP-Ger: idʒupekupamãʔẽ</li>
+          <li>ADV: ekotɨŋ, ikotɨŋ, kotɨŋ</li>
           <li>NOUN: epotaroŋ, ebɨgoŋ, eparɨkom, nõdemõdokaroŋ, apɨdʒoŋ, ebɨʔaramoŋnõwã, eibaŋ, iawuŋ, imenoŋ, iɲuʔaŋoŋ</li>
           <li>NUM: mokoɲoŋ, mokoɲtaroŋ</li>
           <li>PART: kupao, kupanam, kupaɲ</li>
-          <li>VERB: ohoŋ, okuʔeŋ, obaʔeŋ, dozemõdɨʔariŋ, meʔeŋoŋ, onũpãŋ, opaʔamoŋ, opɨhɨgoŋ, otuiŋ, aporoekar</li>
+          <li>VERB: ohoŋ, okuʔeŋ, obaʔeŋ, opɨhɨgoŋ, oʔaŋ, dozemõdɨʔariŋ, meʔeŋoŋ, oiɲuŋoŋ, onũpãŋ, opaʔamoŋ</li>
+          <li>VERB-Ser: owawagoŋ</li>
         </ul>
       </li>
       <li>Sing
         <ul>
           <li>NOUN: dezarakom, emozeburupakomokar</li>
           <li>VERB: arowarowagamãʔẽkom, azikakom, toroʔu</li>
+          <li>VERB-Ger: arowarowagamãʔẽkom</li>
         </ul>
       </li>
     </ul>
@@ -869,6 +936,7 @@ The development of this treebank is supported by the by European Research Counci
         <ul>
           <li>NOUN: emozeburupakomokar</li>
           <li>VERB: arowarowagamãʔẽkom, aporoekar, azikakom, toroʔu</li>
+          <li>VERB-Ger: arowarowagamãʔẽkom</li>
         </ul>
       </li>
       <li>2
@@ -886,6 +954,7 @@ The development of this treebank is supported by the by European Research Counci
       <li>Yes
         <ul>
           <li>NOUN: bɨgi, siŋi, tukugi, kuʔidʒi, tabedʒi, tawadʒi, tukukimaʔẽ, bɨgimãʔẽ</li>
+          <li>NOUN-Ger: tukukimaʔẽ, bɨgimãʔẽ</li>
         </ul>
       </li>
     </ul>
@@ -897,8 +966,11 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: ezozopodʒ, orɨorɨ, oʔɨwiwi, səsəwe</li>
-          <li>VERB: oituĩtun, arowarowag, arowarowagamãʔẽkom, omãʔẽmãʔẽ, opopor, aerahoraho, ezozopodʒiɲ, oeɲueɲuŋo, ohẽhem, okaoka</li>
+          <li>NOUN: ezozopodʒ, orɨorɨ, akãakãmãʔẽ, ememebɨr, erowawag, oʔɨwiwi, səsəwe</li>
+          <li>NOUN-Ger: akãakãmãʔẽ</li>
+          <li>VERB: oituĩtun, arowarowag, opopor, arowarowagamãʔẽkom, oetaeta, oitunitun, oiɲuiɲuŋ, okeokero, omãʔẽmãʔẽ, ozezeka</li>
+          <li>VERB-Ger: arowarowagamãʔẽkom, obaʔebaʔemãʔẽ</li>
+          <li>VERB-Ser: owawagoŋ</li>
         </ul>
       </li>
     </ul>
@@ -915,24 +987,25 @@ The development of this treebank is supported by the by European Research Counci
       </li>
       <li>Cont
         <ul>
-          <li>ADP: rupi, nõdereheo, rehe, rehewe, rupiwe, rehete, derehe, erehe, pedehe, pedeheɲ</li>
+          <li>ADP: rehe, rupi, rehete, nõdereheo, rehewe, rupiwe, derehe, ehe, erehe, nõderehe</li>
           <li>ADV: nanirehete</li>
-          <li>AUX: otuiomãʔẽrehe</li>
+          <li>AUX-Ger: otuiomãʔẽrehe</li>
           <li>CCONJ: deroʔoram</li>
-          <li>DET: arehete</li>
-          <li>NOUN: raʔɨr, karairupi, pirarehe, rehe, reiba, wɨrarehe, oibarehe, zawararehe, awurehe, baʔerehe</li>
-          <li>PRON: nõderehe</li>
-          <li>PROPN: tekorehe</li>
-          <li>VERB: raha, okidʒerehe, reka, apotar, nõderapɨdʒ, okidʒewerehe, oʔararehe, resagoŋ, sidʒaorehe</li>
+          <li>NOUN: raʔɨr, karairupi, reiba, ereiba, raʔɨrate, awurehe, eraha, erapɨdʒape, eru, nipẽrehe</li>
+          <li>NOUN-Ger: asĩŋatumãʔẽ</li>
+          <li>VERB: raha, okidʒerehe, eʔirehe, oʔararehe, reka, apotar, aʔerehe, nõderapɨdʒ, okidʒewerehe, resagoŋ</li>
         </ul>
       </li>
       <li>NCont
         <ul>
-          <li>ADP: ehe, ipope, idʒupe, iwɨb, iʔar, upi, eheŋ, idʒupekupamãʔẽ, idʒupeŋ, idʒuwiŋ</li>
-          <li>ADV: ikotɨ, ipuri, irupi, owotete, ikotɨŋ</li>
+          <li>ADP: ehe, idʒupe, ipope, iwɨb, idʒuwi, iwonõwã, iwɨrakotɨ, iwɨrarupi, iʔar, upi</li>
+          <li>ADP-Ger: idʒupekupamãʔẽ</li>
+          <li>ADV: ikotɨ, ikotɨŋ, ipuri, irupi, owotete, ikotɨɲ</li>
           <li>CCONJ: oʔoram</li>
-          <li>NOUN: ijɨ, eiba, ibaridʒa, iawu, idʒar, imõbo, imõdo, iɨ, tu, eraho</li>
-          <li>VERB: daorɨdʒi</li>
+          <li>NOUN: ijɨ, eiba, ibaridʒa, imõdo, eraho, iawu, idʒar, imõbo, itʃɨg, iɨ</li>
+          <li>NOUN-Ger: akãakãmãʔẽ, ibaʔeraɨmãʔẽ, ikijamaʔẽ, imodamãʔẽkom, iʔawumãʔẽ</li>
+          <li>VERB: eraho, reta, daorɨdʒi, eruŋ, omõderehe</li>
+          <li>X: eraho</li>
         </ul>
       </li>
     </ul>
@@ -944,10 +1017,12 @@ The development of this treebank is supported by the by European Research Counci
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: aʔenawe, aʔenam, en.92anam, ikemɨnanam, naninam, pɨanam, dikaruginam, dizeraʔenawe, en92anam, pɨanamara</li>
-          <li>NOUN: mɨdɨdʒunam, sikãĩnam, 10heuresaʔenawe, 2heuresanam, deuxheuresanam, ebotenam, idʒarɨdʒanam, munuʔaŋanamte, oronekarakurinam, oronekarakuriõwãnam</li>
+          <li>ADP: ehekomanawe, ehenam</li>
+          <li>ADV: aʔenawe, ikemɨnanam, aʔenam, en.92anam, naninam, pɨanam, ameʔenam, awɨganam, dikaruginam, dizeraʔenawe</li>
+          <li>AUX-Ger: otuiomãʔẽrehe</li>
+          <li>NOUN: mɨdɨdʒunam, pepazenam, sikãĩnam, tarawadʒanam, 10heuresaʔenawe, 2heuresanam, deuxheuresanam, ebotenam, idʒarɨdʒanam, ipaʔanam</li>
           <li>PART: kupanam</li>
-          <li>VERB: dosuʔutarinam, oiɲuŋbanam, omomokoɲanam, ozikazepeŋ, oʔaranawe, sidʒewɨranam, zadʒapɨakanam, zaikonam</li>
+          <li>VERB: odʒapɨakanam, oiɲuŋbanam, okidʒerehe, eʔirehe, oʔararehe, oʔupanawe, zaikenam, aʔerehe, dosuʔutarinam, ohonam</li>
         </ul>
       </li>
     </ul>
@@ -960,7 +1035,8 @@ The development of this treebank is supported by the by European Research Counci
       <li>Yes
         <ul>
           <li>ADV: koenam, kʷienam</li>
-          <li>NOUN: zawarenam, bedʒuenam, masakaraenam, wãĩwĩenam, zawaraenam, daepɨdʒiaʔu, dawarimãʔẽenam, iwɨrakotɨenam, nõdeawuawekuwaenam, nõderaʔɨrakomateenam</li>
+          <li>NOUN: zawarenam, bedʒuenam, kaenam, masakaraenam, nõdeawuawekuwaenam, wareʔeteaʔu, wãĩwĩenam, wãɨwɨenam, zawaraenam, daepɨdʒiaʔu</li>
+          <li>NOUN-Ger: dawarimãʔẽenam</li>
           <li>PART: enam</li>
           <li>PRON: amõenam, idʒeenam</li>
           <li>VERB: wareʔeteaʔu</li>
@@ -988,10 +1064,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (82)</li>
-      <li>VERB--NOUN-Ref (13)</li>
-      <li>VERB--PRON (18)</li>
+      <li>VERB--NOUN (111)</li>
+      <li>VERB--NOUN-Ref (17)</li>
+      <li>VERB--PRON (21)</li>
       <li>VERB--PRON-Ref (5)</li>
+      <li>VERB-Ger--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -999,10 +1076,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (115)</li>
-      <li>VERB--NOUN-Ref (15)</li>
-      <li>VERB--NOUN-Tra (10)</li>
+      <li>VERB--NOUN (151)</li>
+      <li>VERB--NOUN-ADP(ehe) (1)</li>
+      <li>VERB--NOUN-Ref (16)</li>
+      <li>VERB--NOUN-Ref-ADP(ehe) (2)</li>
+      <li>VERB--NOUN-Tra (11)</li>
       <li>VERB--PRON (3)</li>
+      <li>VERB-Ger--NOUN (3)</li>
     </ul>
   </li>
 </ul>
@@ -1022,5 +1102,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 10 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

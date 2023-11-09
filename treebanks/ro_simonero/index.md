@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Maria Mitrofan, Verginica Barbu Mititelu.
 
 Repository: [UD_Romanian-SiMoNERo](https://github.com/UniversalDependencies/UD_Romanian-SiMoNERo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -804,7 +804,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
       <li>Yes
         <ul>
           <li>ADJ: &b.beta;, non</li>
-          <li>ADV: comparativ</li>
+          <li>ADV: comparativ, de</li>
           <li>NOUN: de</li>
           <li>X: a</li>
         </ul>

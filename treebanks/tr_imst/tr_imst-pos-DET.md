@@ -19,33 +19,33 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_imst-pos-DE
 
 
 * <em>bir</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 861: <em>Sabahtan beri seni gözetliyorum , hiç <b>bir</b> arabaya yanaşmadın .</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 209: <em>Erik ağaçları ile aralarında <b>bir</b> hendek engeli kalmıştı .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 43: <em>Şu üniversite işini <b>bir</b> türlü oturtamadık .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 861: <em>İçeriye gençten <b>bir</b> erkek girdi .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 209: <em>Kapının kenarında ki duvara dayanıp bize baktı <b>bir</b> an .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 43: <em>Ne kadar ürküt ücü ve <b>bir</b> o kadar da çekici bir yer orası .</em>
 * <em>bu</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 313: <em>Bir ihtimal olarak <b>bu</b> hususu belirtiyorlar .</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 56: <em>Bir bağımlı favori maddesini bıraksa da <b>bu</b> tek başına çözüm olmuyor .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 313: <em>İzini bulursanız , <b>bu</b> numaraya haber verirsiniz , dedi .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 56: <em>Sakinleştirir <b>bu</b> beni yavaş yavaş .</em>
 * <em>o</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 125: <em>Sana boşal , at kurtul der , <b>o</b> ses siz duruşuyla .</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 81: <em>Sen miydin <b>o</b> .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 125: <em>Onu tanıyorsunuz <b>o</b> zaman , dedi .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 81: <em>Ne <b>o</b> .</em>
 * <em>şu</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 24: <em>Uyuşturucusu kesilmiş bir bağımlı gibi yim <b>şu</b> an , dedi .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 24: <em>Ne tuhaf şeyler değil mi , <b>şu</b> anlattıklarım size ?</em>
   * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 3: <em>Onu döven adam da şurada , <b>şu</b> ağacın altında ki .</em>
 * <em>kimi</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 12: <em>Sanki <b>kimi</b> yerler kara <b>kimi</b> yerler deniz di .</em>
   * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 6: <em>Kimi bir saat lik , <b>kimi</b> birkaç günlük .</em>
 * <em>başka</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 37: <em>Onu elinden kaçırmış , bir <b>başka</b> erkeğe kaptırmıştı .</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 7: <em>Gece rüyamda bir melek gelip beni <b>başka</b> bir boyuta taşıdı .</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Uzatmaya , <b>başka</b> sözlerle tarif etmeye gerek yok .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 37: <em>Ne tuhaf , <b>başka</b> şeyler önem kazandı gibi ...</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 7: <em>Alaturkanın tadı da bir <b>başka</b> canım .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Evren denen bütünsel olgu içinde bir olay bir <b>başka</b> olayı izler .</em>
 * <em>bütün</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 31: <em>Kafalarında ki <b>bütün</b> soruların cevabı o dosyada yer alıyordu .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 31: <em>Gece zamanı , <b>bütün</b> dükkanlar kapı lı .</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 4: <em>Ama <b>bütün</b> gerçeklik - buna karşın - belli bir yere kadar dı ; başka bir yere gidildiğinde , gerçek olan şey , gerçek - olmayan a dönüşüyordu .</em>
 * <em>çok</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 121: <em>Oğlunun neden eroinman olduğunu anlayamaması <b>çok</b> doğal dı .</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>Orhan Zeynep hadi çabuk söyle <b>çok</b> merak ettim , dedi heyecanla .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 121: <em>Haber vermemesi <b>çok</b> tuhaf .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>Kokteyle CHP Genel Başkanı Deniz Baykal ile <b>çok</b> sayıda partili katıldı .</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 7: <em>Her iki olgu da , bilim için yeni bir başlangıçtan <b>çok</b> , bir dönemin kapanışına işaret etmektedir .</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Cumartesi geceleri <b>çok</b> kalabalık oluyormuş .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Ne kadar <b>çok</b> insan var değil mi ?</em>
 * <em>birer</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 4: <em>doğada hepsinin <b>birer</b> barınağı var .</em>
   * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 4: <em>doğada hepsinin <b>birer</b> barınağı var .</em>

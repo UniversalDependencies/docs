@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `ADP`
 
-There are 49 `ADP` lemmas (1%), 51 `ADP` types (1%) and 11323 `ADP` tokens (16%).
+There are 48 `ADP` lemmas (1%), 50 `ADP` types (1%) and 11322 `ADP` tokens (16%).
 Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, à, en, pour, dans, par, sur, avec, chez, après</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.040816 (the average of all parts of speech is 1.406661).
+The form / lemma ratio of `ADP` is 1.041667 (the average of all parts of speech is 1.406634).
 
 The 1st highest number of forms (3) was observed with the lemma “de”: <em>d', de, des</em>.
 
@@ -66,14 +66,20 @@ The 2nd highest number of forms (2) was observed with the lemma “à”: <em>A,
 
 The 3rd highest number of forms (1) was observed with the lemma “+”: <em>+</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (231; 2% instances)
+
+`ADP` occurs with 7 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=DET`, `ExtPos=PRON`, `ExtPos=SCONJ`
+
+`ADP` occurs with 8 feature combinations.
+The most frequent feature combination is `_` (11091 tokens).
+Examples: <em>de, à, d', en, pour, dans, par, sur, avec, chez</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 14 different relations: <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (10247; 90% instances), <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (799; 7% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (120; 1% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (69; 1% instances), <tt><a href="fr_sequoia-dep-det.html">det</a></tt> (36; 0% instances), <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt> (15; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (11; 0% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (10248; 91% instances), <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (799; 7% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (120; 1% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (69; 1% instances), <tt><a href="fr_sequoia-dep-det.html">det</a></tt> (36; 0% instances), <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt> (15; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (8654; 76% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1259; 11% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (852; 8% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (211; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (158; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (77; 1% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (55; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (36; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (12; 0% instances),  (5; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (8655; 76% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1258; 11% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (852; 8% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (211; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (158; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (77; 1% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (54; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (36; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (12; 0% instances),  (5; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (4; 0% instances)
 
 11072 (98%) `ADP` nodes are leaves.
 
@@ -81,11 +87,11 @@ Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="fr_s
 
 80 (1%) `ADP` nodes have two children.
 
-50 (0%) `ADP` nodes have three or more children.
+49 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 7.
 
-Children of `ADP` nodes are attached using 11 different relations: <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (348; 76% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (49; 11% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (23; 5% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (8; 2% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (7; 2% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (6; 1% instances), <tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
+Children of `ADP` nodes are attached using 10 different relations: <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (346; 76% instances), <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (48; 11% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (23; 5% instances), <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (8; 2% instances), <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (7; 2% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (6; 1% instances), <tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt> (4; 1% instances)
 
-Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (110; 24% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (79; 17% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (49; 11% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (45; 10% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (42; 9% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (39; 8% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (36; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (20; 4% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (10; 2% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 13 different parts of speech: <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (110; 24% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (78; 17% instances), <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (48; 11% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (44; 10% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (42; 9% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (38; 8% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (36; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (20; 4% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (10; 2% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
 

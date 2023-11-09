@@ -12,4 +12,4 @@ Many symbols are or contain special non-alphanumeric characters, similarly to pu
 * */*, *|*
 * *
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:31 CET -->

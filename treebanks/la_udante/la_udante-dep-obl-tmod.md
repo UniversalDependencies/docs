@@ -14,7 +14,7 @@ There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_udan
 10 instances of `obl:tmod` (67%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.4.
 
-The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (8; 53% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 20% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (8; 53% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 20% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (2; 13% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -43,49 +43,6 @@ The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 18	anno	annus	NOUN	sms2b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	1	obl	_	_
 19	primo	primus	ADJ	ams1b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing|NumType=Ord	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	Pu	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 21 obl:tmod	color:blue
-1	Satis	satis	ADV	r	_	3	advmod	_	_
-2	igitur	igitur	PART	r	_	3	discourse	_	_
-3	declaratum	declaro	VERB	vp1irs3	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-4	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-5	quod	quod	SCONJ	cs	PronType=Rel	13	mark	_	_
-6	proprium	proprius	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	7	amod	_	_
-7	opus	opus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	13	nsubj:outer	_	_
-8	humani	humanus	ADJ	ans1g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	9	amod	_	_
-9	generis	genus	NOUN	sns3g	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	7	nmod	_	_
-10	totaliter	totaliter	ADV	r	_	11	advmod	_	_
-11	accepti	accipio	VERB	vp3prsng	Aspect=Perf|Case=Gen|Gender=Neut|InflClass=LatI2|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	9	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-12	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-13	actuare	actuo	VERB	va1fp	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-14	semper	semper	ADV	r	AdvType=Tim	13	advmod:tmod	_	_
-15	totam	totus	DET	dpfsa	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Tot	16	det	_	_
-16	potentiam	potentia	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	13	obj	_	_
-17	intellectus	intellectus	NOUN	sms4g	Case=Gen|Gender=Masc|InflClass=IndEurU|Number=Sing	16	nmod	_	_
-18	possibilis	possibilis	ADJ	ams2n	Case=Gen|Gender=Masc|InflClass=IndEurI|Number=Sing	17	amod	_	SpaceAfter=No
-19	,	,	PUNCT	Pu	_	13	punct	_	_
-20	per	per	ADP	e	_	21	case	_	_
-21	prius	prior	DET	ans2ac	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	13	obl:tmod	_	_
-22	ad	ad	ADP	e	_	23	mark	_	_
-23	speculandum	speculor	VERB	vd1fga	Aspect=Prosp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	13	advcl	_	TraditionalMood=Gerundium
-24	et	et	CCONJ	co	_	27	cc	_	_
-25	secundario	secundario	ADV	r	_	27	orphan	_	_
-26	propter	propter	ADP	e	_	27	case	_	_
-27	hoc	hic	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	13	conj	_	_
-28	ad	ad	ADP	e	_	29	mark	_	_
-29	operandum	operor	VERB	vd1fga	Aspect=Prosp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	27	orphan	_	TraditionalMood=Gerundium
-30	per	per	ADP	e	_	32	case	_	_
-31	suam	suus	DET	dsfsa	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	32	det	_	_
-32	extensionem	extensio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	29	obl	_	SpaceAfter=No
-33	.	.	PUNCT	Pu	_	3	punct	_	_
 
 ~~~
 
@@ -133,6 +90,56 @@ The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 35	te	tu	PRON	ppp2sma	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	32	obl:arg	_	SpaceAfter=No
 36	»	»	PUNCT	Pu	_	32	punct	_	SpaceAfter=No
 37	.	.	PUNCT	Pu	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 38	bgColor:blue
+# visual-style 38	fgColor:white
+# visual-style 38 2 obl:tmod	color:blue
+1	Preter	praeter	ADP	e	_	2	case	_	_
+2	istos	iste	DET	ddipma	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem	38	obl:tmod	_	_
+3	et	et	CCONJ	co	_	4	cc	_	_
+4	post	post	ADP	r	_	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	Pu	_	2	punct	_	_
+6	Alexander	alexander	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	38	nsubj:pass	_	_
+7	rex	rex	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	6	appos	_	_
+8	Macedo	macedo	NOUN	ams2n	Case=Nom|Gender=Masc|InflClass=IndEurI|NameType=Nat|Number=Sing	7	nmod	_	_
+9	maxime	magis	ADV	rs	Degree=Abs	14	advmod	_	_
+10	omnium	omnis	DET	amp2g	Case=Gen|Gender=Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	9	nmod	_	_
+11	ad	ad	ADP	e	_	12	case	_	_
+12	palmam	palma	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	14	obl	_	_
+13	Monarchie	monarchia	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	12	nmod	_	_
+14	propinquans	propinquo	VERB	va1ppsmn	Aspect=Imp|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	6	acl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
+15	,	,	PUNCT	Pu	_	6	punct	_	_
+16	dum	dum	SCONJ	cs	_	22	mark	_	_
+17	per	per	ADP	e	_	18	case	_	_
+18	legatos	legatus	NOUN	smp2a	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur|VerbForm=Part	22	obl	_	_
+19	ad	ad	ADP	e	_	20	case	_	_
+20	deditionem	deditio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	22	obl	_	_
+21	Romanos	romanus	ADJ	Smp2a	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	22	obj	_	_
+22	premoneret	praemoneo	VERB	va2cis3	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	38	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
+23	,	,	PUNCT	Pu	_	22	punct	_	_
+24	apud	apud	ADP	e	_	25	case	_	_
+25	Egiptum	aegyptus	PROPN	Sfs2a	Case=Acc|Gender=Fem|InflClass=IndEurO|NameType=Geo|Number=Sing	38	obl	_	_
+26	ante	ante	ADP	e	_	28	case	_	_
+27	Romanorum	romanus	ADJ	Smp2g	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	28	nmod	_	_
+28	responsionem	responsio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	38	obl	_	SpaceAfter=No
+29	,	,	PUNCT	Pu	_	28	punct	_	_
+30	ut	ut	SCONJ	r	PronType=Rel	32	mark	_	_
+31	Livius	liuius	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Sur|Number=Sing	32	nsubj	_	_
+32	narrat	narro	VERB	va1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	advcl:cmp	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+33	,	,	PUNCT	Pu	_	32	punct	_	_
+34	in	in	ADP	e	_	37	case	_	_
+35	medio	medius	ADJ	ams1b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	37	amod	_	_
+36	quasi	quasi	ADV	r	Compound=Yes|PronType=Rel	37	advmod	_	_
+37	cursu	cursus	NOUN	sms4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Sing	38	obl	_	_
+38	collapsus	collabor	VERB	vd3irs3	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+39	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	aux:pass	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+40	.	.	PUNCT	Pu	_	38	punct	_	_
 
 ~~~
 

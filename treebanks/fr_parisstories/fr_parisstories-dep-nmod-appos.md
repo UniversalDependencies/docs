@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `nmod:appos`: <tt><a
 4	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	internat	internat	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	en	en	ADP	_	_	10	discourse	_	ExtPos=ADV|Idiom=Yes
+7	en	en	ADP	_	ExtPos=ADV	10	discourse	_	Idiom=Yes
 8	fait	fait	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	InIdiom=Yes|SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	_
 10	travaille	travailler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

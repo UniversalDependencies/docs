@@ -19,4 +19,4 @@ punct(תבטיח, .)
 תבטיח להציל את ה עולם.
 
 “Promise to save the world.”
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:02 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:32 CET -->

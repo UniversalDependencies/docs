@@ -142,4 +142,4 @@ It 's not me , is it ?
 parataxis(me, is)
 punct(is, ,)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:31 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:23 CET -->

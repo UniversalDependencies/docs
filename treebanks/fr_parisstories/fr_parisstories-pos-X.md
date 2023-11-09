@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>XXX, s~, d~, m~, pl~, _, b~, comple~, c~, c
 
 The 10 most frequent `X` types:  <em>XXX, s~, d~, m~, pl~, b~, comple~, c~, c~…, dans</em>
 
-The 10 most frequent ambiguous lemmas: <em>s~</em> (<tt><a href="fr_parisstories-pos-X.html">X</a></tt> 6, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 3), <em>d~</em> (<tt><a href="fr_parisstories-pos-X.html">X</a></tt> 3, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 1), <em>_</em> (<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 9, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 2, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="fr_parisstories-pos-X.html">X</a></tt> 1), <em>dans</em> (<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 202, <tt><a href="fr_parisstories-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>s~</em> (<tt><a href="fr_parisstories-pos-X.html">X</a></tt> 6, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 3), <em>d~</em> (<tt><a href="fr_parisstories-pos-X.html">X</a></tt> 3, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 1), <em>_</em> (<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 2, <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="fr_parisstories-pos-X.html">X</a></tt> 1), <em>dans</em> (<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 202, <tt><a href="fr_parisstories-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>s~</em> (<tt><a href="fr_parisstories-pos-X.html">X</a></tt> 6, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 3), <em>d~</em> (<tt><a href="fr_parisstories-pos-X.html">X</a></tt> 3, <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> 1), <em>dans</em> (<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 202, <tt><a href="fr_parisstories-pos-X.html">X</a></tt> 1)
 
@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>s~</em> (<tt><a href="fr_parisstories
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.324273).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.329287).
 
 The 1st highest number of forms (1) was observed with the lemma “XXX”: <em>XXX</em>.
 
@@ -40,7 +40,13 @@ The 2nd highest number of forms (1) was observed with the lemma “_”: <em>por
 
 The 3rd highest number of forms (1) was observed with the lemma “b~”: <em>b~</em>.
 
-`X` does not occur with any features.
+`X` occurs with 1 features: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt> (15; 23% instances)
+
+`X` occurs with 2 feature-value pairs: `ExtPos=PROPN`, `ExtPos=VERB`
+
+`X` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (50 tokens).
+Examples: <em>XXX, s~, d~, m~, pl~, b~, comple~, c~, c~…, dans</em>
 
 
 ## Relations

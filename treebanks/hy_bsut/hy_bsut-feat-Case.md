@@ -137,7 +137,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (865; 97%),
+<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (866; 97%),
 <tt>PROPN --[<tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (139; 55%),
 <tt>PROPN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> PROPN</tt> (110; 96%),
 <tt>PROPN --[<tt><a href="hy_bsut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (106; 90%),

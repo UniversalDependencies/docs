@@ -17,18 +17,21 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 case	color:blue
-1	Менам	ме	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	GTtags=Pers,Sg1,Gen
-2	айӧ	ай	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	GTtags=Sg,Nom,PxSg1
-3	буржык	бур	ADJ	_	Degree=Cmp	0	root	_	GTtags=Der/жык,Comp
-4	тэнат	тэ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	GTtags=Pers,Sg2,Gen
-5	ай	ай	NOUN	_	Case=Nom|Number=Sing	3	advcl	_	GTtags=Sg,Nom
-6	сьӧрті	сьӧрті	ADP	_	_	5	case	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 case	color:blue
+1	Ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pron,Pers,Pl1,Nom
+2	вуджим	вуджны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=V,TV,Ind,Prt1,Pl1
+3	Гырка	Гырка	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	GTtags=N,Prop,Sg,Nom
+4	логсӧ	лог	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=N,Sg,Acc,PxSg3|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
+6	сибӧтчим	сибӧтчыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	2	conj	_	GTtags=V,IV,Ind,Prt1,Pl1
+7	дорись	дор	NOUN	N	Case=Ela|NounType=Relat|Number=Sing	8	nmod:lmod	_	GTtags=V,IV,Der/ісь,ActPrsPtc,Sg,Nom
+8	керкуокыс	керку	NOUN	N	Animacy=Inan|Case=Nom|Degree=Dim|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl:lmod	_	GTtags=N,Sem/Inanim,Der/Ок,Der/Dimin,N,Sg,Nom,PxSg3
+9	дынӧ	дынӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	8	case	_	GTtags=Adp,Po,Spat,Sg,Ill|SpaceAfter=No
+10	.	.	PUNCT	CLB	_	2	punct	_	GTtags=CLB
 
 ~~~
 
@@ -39,11 +42,13 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	Мый	мый	PRON	_	Case=Nom|Number=Sing|PronType=Int	4	obl	_	GTtags=Interr,Sg,Nom
-2	вылӧ	вылӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	1	case	_	GTtags=Po,Spat,Sg,Ill
-3	тэ	тэ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg2,Nom
-4	видзӧтан	видзӧтны	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2|SpaceAfter=No
-5	?	?	PUNCT	CLB	_	4	punct	_	_
+1	Сы	сія	PRON	_	Number=Sing|Person=3|PronType=Prs	3	obl:tmod	_	GTtags=Pers,Sg3
+2	бӧрсянь	бӧрсянь	ADP	_	AdpType=Post|AdvType=Loc|Case=Egr|Number=Sing	1	case	_	GTtags=Po,Spat,Sg,Egr
+3	вуджӧны	вуджны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3
+4	порогсӧ	порог	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	GTtags=Sg,Acc,PxSg3
+5	эшӧ	эшӧ	ADV	_	_	3	advmod:tmod	_	_
+6	кыка	кыка	NUM	_	Number=Sing	3	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

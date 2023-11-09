@@ -25,4 +25,4 @@ The `det` relation is used between a nominal phrase and its determiner.
 
 ~~~
 'No one could say the child's name'.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:11 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:48 CET -->

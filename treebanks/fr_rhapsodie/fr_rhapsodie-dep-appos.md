@@ -46,7 +46,7 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	soit	soit	CCONJ	_	_	5	cc	_	_
 2	alors	alors	ADV	_	_	5	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Overlap=Rhap_D0007-10bis
+4	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Overlap=Rhap_D0007-10bis
 5	tournez	tourner	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D0007-10bis
 6	à	à	ADP	_	_	9	reparandum	_	Overlap=Rhap_D0007-10bis|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
@@ -73,9 +73,9 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 13 appos	color:blue
-1	et	et	CCONJ	_	_	4	cc	_	ExtPos=CCONJ|Idiom=Yes
+1	et	et	CCONJ	_	ExtPos=CCONJ	4	cc	_	Idiom=Yes
 2	puis	puis	CCONJ	_	_	1	fixed	_	InIdiom=Yes
-3	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+3	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
 4	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	toujours	toujours	ADV	_	_	4	advmod	_	_
 6	présent	présent	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	_

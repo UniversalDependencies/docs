@@ -39,4 +39,4 @@ nmod(Angry-1,Birds-2)
 nsubj(a-franchise,Angry-8)
 nmod(Angry-8,Birds-9)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:16 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:56 CET -->

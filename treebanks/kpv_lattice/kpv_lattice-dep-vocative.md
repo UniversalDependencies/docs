@@ -17,16 +17,19 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 vocative	color:blue
-1	Сэм	сэм	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	восьты	восьтны	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	_
-4	ӧшиньсӧ	ӧшинь	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	SpaceAfter=No
-5	!	!	PUNCT	CLB	_	3	punct	_	_
+# visual-style 3 7 vocative	color:blue
+1	Мунігмозыс	мунны	VERB	V	Derivation=Igmoz|Number[psor]=Sing|Person[psor]=3|VerbForm=Conv	3	advcl	_	_
+2	он	оз	AUX	V	Mood=Ind|Person=2|Polarity=Neg|Tense=Pres	3	aux:neg	_	_
+3	тӧр	тӧрны	VERB	V	Connegative=Yes	0	root	_	_
+4	бергӧдчыныс	бергӧдчыны	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	7	punct	_	_
+6	командир	командир	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	_
+7	ёрт	ёрт	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	SpaceAfter=No
+8	!	!	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

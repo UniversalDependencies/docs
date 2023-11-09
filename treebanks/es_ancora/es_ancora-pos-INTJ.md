@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `INTJ`
 
 There are 49 `INTJ` lemmas (0%), 49 `INTJ` types (0%) and 177 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 11 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 10 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>sí, je, bueno, ay, ojalá, adiós, ah, hola, ja, ojo</em>
 
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>sí</em> (<tt><a href="es_ancora-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.503245).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.505634).
 
 The 1st highest number of forms (2) was observed with the lemma “señor”: <em>Señores, señor</em>.
 

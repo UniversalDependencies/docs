@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-191 nodes (8%) are attached to their parents as `advmod`.
+231 nodes (8%) are attached to their parents as `advmod`.
 
-133 instances of `advmod` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54973821989529.
+155 instances of `advmod` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50649350649351.
 
-The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (125; 65% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (43; 23% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-X.html">X</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `advmod`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (151; 65% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (48; 21% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (12; 5% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (11; 5% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-X.html">X</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,16 +44,17 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 advmod	color:blue
-1	nan	nan	ADV	adv	_	4	advmod	_	_
-2	ãhãte	ãhã	ADV	adv	Foc=Yes	1	advmod	_	_
-3	aŋ	aŋ	DET	dem	_	4	det	_	_
-4	baʔekʷər	baʔekʷər	NOUN	n	_	5	obj	_	_
-5	zaidu	idu	VERB	v	Imprs=Yes	0	root	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	nani	nan	ADV	adv	_	2	advmod	_	_
+2	pamẽ	pamẽ	PRON	pron	PronType=Tot	4	nsubj	_	_
+3	sidʒu	dʒu	AUX	aux	Clusivity=In|Number=Plur|Person=1	4	cop	_	_
+4	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur|Person=1	0	root	_	_
+5	les	les	DET	dem	_	6	det	_	_
+6	jeunes	jeunes	NOUN	n	_	4	dislocated	_	_
 
 ~~~
 

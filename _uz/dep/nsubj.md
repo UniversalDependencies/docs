@@ -41,4 +41,4 @@ nsubj(tozalandi, Xona)
 Note that [csubj]() relation used for clausal subjects,
 even those with a the verbal noun head.
 
-<!-- Interlanguage links updated 12 September,2023 12:19:22 Spanish Galician time -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:08 CET -->

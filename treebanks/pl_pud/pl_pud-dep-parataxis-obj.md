@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `parataxis:obj`: <tt
 1	–	–	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
 2	Jej	on	PRON	ppron3:sg:gen:f:ter:akc:npraep	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	3	nmod	3:nmod	_
 3	głos	głos	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
-4	dosłownie	dosłownie	ADV	adv:pos	Degree=Pos	5	parataxis:insert	5:parataxis:insert	_
+4	dosłownie	dosłownie	PART	part	_	5	advmod:emph	5:advmod:emph	_
 5	okrążył	okrążyć	VERB	praet:sg:m3:perf	Animacy=Inan|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis:obj	8:parataxis:obj	_
 6	świat	świat	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obj	5:obj	_
 7	–	–	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_

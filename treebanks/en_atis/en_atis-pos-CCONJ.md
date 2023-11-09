@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>either</em> (<tt><a href="en_atis-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.143493).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.144766).
 
 The 1st highest number of forms (1) was observed with the lemma “343”: <em>343</em>.
 

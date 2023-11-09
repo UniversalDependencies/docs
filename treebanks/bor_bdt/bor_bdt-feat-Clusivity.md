@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Ex`, `In`.
 
-25 tokens (4%) have a non-empty value of `Clusivity`.
-20 types (6%) occur at least once with a non-empty value of `Clusivity`.
-15 lemmas (7%) occur at least once with a non-empty value of `Clusivity`.
-The feature is used with 5 part-of-speech tags: <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (1; 0% instances).
+29 tokens (2%) have a non-empty value of `Clusivity`.
+23 types (3%) occur at least once with a non-empty value of `Clusivity`.
+18 lemmas (5%) occur at least once with a non-empty value of `Clusivity`.
+The feature is used with 5 part-of-speech tags: <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-12 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `Clusivity`.
+13 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Clusivity`.
 
-The most frequent other feature values with which `PRON` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9; 75%), <tt><a href="bor_bdt-feat-IF.html">IF</a></tt><tt>=Ass</tt> (7; 58%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 58%), <tt><a href="bor_bdt-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (7; 58%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 58%), <tt><a href="bor_bdt-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (7; 58%).
+The most frequent other feature values with which `PRON` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10; 77%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8; 62%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 54%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 54%).
 
 `PRON` tokens may have the following values of `Clusivity`:
 
-* `Ex` (2; 17% of non-empty `Clusivity`): <em>Cemode, Cere</em>
-* `In` (10; 83% of non-empty `Clusivity`): <em>pagi, Pamode, Pare, cekigodyre</em>
+* `Ex` (3; 23% of non-empty `Clusivity`): <em>Cere, Cemode</em>
+* `In` (10; 77% of non-empty `Clusivity`): <em>pagi, Pamode, Pare, cekigodyre</em>
 
 <table>
   <tr><th>Paradigm <i>ce</i></th><th><tt>Ex</tt></th><th><tt>In</tt></th></tr>
@@ -34,20 +34,20 @@ The most frequent other feature values with which `PRON` and `Clusivity` co-occu
 
 ### `VERB`
 
-9 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Clusivity`.
+10 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Clusivity`.
 
-The most frequent other feature values with which `VERB` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (6; 67%), <tt><a href="bor_bdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6; 67%), <tt><a href="bor_bdt-feat-IF.html">IF</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="bor_bdt-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (5; 56%).
+The most frequent other feature values with which `VERB` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (6; 60%).
 
 `VERB` tokens may have the following values of `Clusivity`:
 
-* `Ex` (2; 22% of non-empty `Clusivity`): <em>Cewogure, cetaimo</em>
-* `In` (7; 78% of non-empty `Clusivity`): <em>pabagudugodyre, pabito, pagodure, papagudugo, parego, parekodyre, patuwo</em>
+* `Ex` (3; 30% of non-empty `Clusivity`): <em>Cedaiwore, Cewogure, cetaimo</em>
+* `In` (7; 70% of non-empty `Clusivity`): <em>pabagudugodyre, pabito, pagodure, papagudugo, parego, parekodyre, patuwo</em>
 
 ### `ADP`
 
-2 <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `Clusivity`.
+2 <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Clusivity`.
 
-The most frequent other feature values with which `ADP` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Int.html">Int</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%).
+The most frequent other feature values with which `ADP` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%).
 
 `ADP` tokens may have the following values of `Clusivity`:
 
@@ -56,23 +56,24 @@ The most frequent other feature values with which `ADP` and `Clusivity` co-occur
 
 ### `NOUN`
 
-1 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Clusivity`.
+2 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Clusivity`.
 
-The most frequent other feature values with which `NOUN` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-IF.html">IF</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%).
 
 `NOUN` tokens may have the following values of `Clusivity`:
 
-* `In` (1; 100% of non-empty `Clusivity`): <em>pabai</em>
+* `In` (2; 100% of non-empty `Clusivity`): <em>Pagaguarigao, pabai</em>
 
 ### `X`
 
-1 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Clusivity`.
+2 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Clusivity`.
 
-The most frequent other feature values with which `X` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-IF.html">IF</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="bor_bdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bor_bdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Clusivity` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%).
 
 `X` tokens may have the following values of `Clusivity`:
 
-* `Ex` (1; 100% of non-empty `Clusivity`): <em>ceno</em>
+* `Ex` (1; 50% of non-empty `Clusivity`): <em>ceno</em>
+* `In` (1; 50% of non-empty `Clusivity`): <em>pamode</em>
 
 ## Relations with Agreement in `Clusivity`
 

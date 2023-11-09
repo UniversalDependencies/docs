@@ -17,3 +17,4 @@ cop(muzejas, om)
 nsubj:cop(museum,room)
 cop(museum,are)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:09 CET -->

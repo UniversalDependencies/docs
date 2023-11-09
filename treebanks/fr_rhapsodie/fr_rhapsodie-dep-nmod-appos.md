@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `nmod:appos`: <tt><a
 4	six	six	NUM	_	Number=Plur	5	nummod	_	_
 5	blessés	blessé	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
 6	légers	léger	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
-7	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	8	det	_	_
 8	policiers	policier	NOUN	_	Gender=Masc|Number=Plur	5	nmod:appos	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `nmod:appos`: <tt><a
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 nmod:appos	color:blue
-1	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+1	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 2	suis	suivre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_

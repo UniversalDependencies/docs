@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Dat,Gen` (8036; 22% of non-empty `Case`): <em>comisiei, consiliului, Uniunii, comunității, tratamentului, partidului, statului, țării, produselor, statelor</em>
 * `Nom` (1; 0% of non-empty `Case`): <em>ni</em>
 * `Voc` (48; 0% of non-empty `Case`): <em>domnule, Marino, Graham, Porcule, tovarășe, Labrador, bowling, doamne, Adonis, Benjamin</em>
-* `EMPTY` (17365): <em>ani, timp, loc, membre, mod, acord, art., b, lucru, a.</em>
+* `EMPTY` (17367): <em>ani, timp, loc, membre, mod, acord, art., b, lucru, a.</em>
 
 <table>
   <tr><th>Paradigm <i>țară</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th><th><tt>Acc</tt></th></tr>
@@ -119,7 +119,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 * `Acc,Nom` (4488; 80% of non-empty `Case`): <em>prezentul, prezenta, europeană, mică, română, maximă, necesară, românească, bună, nouă</em>
 * `Dat,Gen` (1124; 20% of non-empty `Case`): <em>europene, prezentului, prezentei, naționale, publice, române, românești, umane, comunitare, politice</em>
-* `EMPTY` (9687): <em>mare, asemenea, nou, necesare, mari, european, general, mici, vechi, chimice</em>
+* `EMPTY` (9686): <em>mare, asemenea, nou, necesare, mari, european, general, mici, vechi, chimice</em>
 
 <table>
   <tr><th>Paradigm <i>mare</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th></tr>
@@ -160,7 +160,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 * `Acc,Nom` (38; 12% of non-empty `Case`): <em>Banatul, Iașii, Israelul, Carpații, Contemporanul, Dunărea, Ierusalimul, Irakul, Brașovul, Brâncovanul</em>
 * `Dat,Gen` (282; 88% of non-empty `Case`): <em>României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</em>
-* `EMPTY` (5566): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
+* `EMPTY` (5565): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
 
 <table>
   <tr><th>Paradigm <i>București</i></th><th><tt>Acc,Nom</tt></th><th><tt>Dat,Gen</tt></th></tr>
@@ -173,13 +173,13 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1950; 76%),
-<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1285; 99%),
+<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1284; 99%),
 <tt>ADJ --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (200; 89%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (161; 51%),
 <tt>PRON --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (67; 100%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (56; 56%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (54; 76%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-flat.html">flat</a></tt>]--> ADJ</tt> (51; 76%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> PRON</tt> (44; 65%),
-<tt>PRON --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (37; 79%).
+<tt>NOUN --[<tt><a href="ro_rrt-dep-flat.html">flat</a></tt>]--> ADJ</tt> (52; 76%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (50; 78%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (47; 52%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> PRON</tt> (44; 65%).
 

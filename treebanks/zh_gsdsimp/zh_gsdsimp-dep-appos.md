@@ -61,7 +61,7 @@ The following 37 pairs of parts of speech are connected with `appos`: <tt><a hre
 11	即	即	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=jí|LTranslit=jí
 12	没有	有	VERB	VV	Polarity=Neg	11	xcomp	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 13	开化	开化	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=kāihuà|LTranslit=kāihuà
-14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+14	的	的	SCONJ	DEC	_	13	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	地方	地方	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=defāng|LTranslit=defāng
 16	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

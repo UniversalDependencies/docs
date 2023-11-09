@@ -27,7 +27,7 @@ The following 31 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 2	de	de	ADP	_	_	4	case	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	coup	coup	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	_
-5	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
+5	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 6	finis	finir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	avec	avec	ADP	_	_	10	case	_	_
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -48,10 +48,10 @@ The following 31 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 # visual-style 8 3 obl:mod	color:blue
 1	donc	donc	ADV	_	_	8	advmod	_	_
 2	pour	pour	ADP	_	_	3	case	_	_
-3	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obl:mod	_	SpaceAfter=No
+3	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obl:mod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-6	me	lui	PRON	_	_	8	iobj	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+6	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	iobj	_	_
 7	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux:pass	_	_
 8	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
@@ -70,11 +70,11 @@ The following 31 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 obl:mod	color:blue
-1	parce	parce	ADV	_	_	9	mark	_	ExtPos=SCONJ|Idiom=Yes
+1	parce	parce	ADV	_	ExtPos=SCONJ	9	mark	_	Idiom=Yes
 2	que	que	SCONJ	_	_	1	fixed	_	InIdiom=Yes
 3	euh	euh	INTJ	_	_	9	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 6	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_
 8	très	très	ADV	_	_	9	advmod	_	_

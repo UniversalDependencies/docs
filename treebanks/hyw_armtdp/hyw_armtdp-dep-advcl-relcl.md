@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-advcl.html">advcl</a></tt>.
 
-159 nodes (0%) are attached to their parents as `advcl:relcl`.
+154 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-106 instances of `advcl:relcl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.51572327044025.
+102 instances of `advcl:relcl` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.46753246753247.
 
-The following 13 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (107; 67% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (9; 6% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (106; 69% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (9; 6% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8; 5% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,29 +32,6 @@ The following 13 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 8	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	9	aux	_	Translit=kë|LTranslit=kë
 9	կենայ	կենալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	4	advcl:relcl	_	Translit=kenay|LTranslit=kenal|SpaceAfter=No
 10	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 advcl:relcl	color:blue
-1	–	–	PUNCT	_	_	2	punct	_	Translit=–|LTranslit=–
-2	Հիմա	հիմա	ADV	_	_	0	root	_	Translit=Hima|LTranslit=hima
-3	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=čē|LTranslit=em|SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
-5	երբ	երբ	ADV	_	PronType=Rel	6	advmod	_	Translit=erb|LTranslit=erb
-6	մեծնանք	մեծնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl:relcl	_	Translit=meçnank’|LTranslit=meçnal|SpaceAfter=No
-7	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
-8	–	–	PUNCT	_	_	10	punct	_	Translit=–|LTranslit=–
-9	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	10	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
-10	աւելցնէ	աւելցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=awelc’nē|LTranslit=awelc’nel
-11	շփոթս	շփոթ	NOUN	_	Animacy=Nhum|Case=Nom|Number=Coll|Number[psor]=Sing|Person[psor]=1	12	obj	_	Translit=šp’ot’s|LTranslit=šp’ot’
-12	տեսնելով	տեսնել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	10	advcl	_	Translit=tesnelov|LTranslit=tesnel|SpaceAfter=No
-13	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -82,6 +59,29 @@ The following 13 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 15	Ոսկան	Ոսկան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	12	obj	_	Translit=Oskan|LTranslit=Oskan
 16	էֆէնտիի	էֆէնտի	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	15	flat:name	_	Translit=ēfēntii|LTranslit=ēfēnti|SpaceAfter=No
 17	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 advcl:relcl	color:blue
+1	–	–	PUNCT	_	_	2	punct	_	Translit=–|LTranslit=–
+2	Հիմա	հիմա	ADV	_	_	0	root	_	Translit=Hima|LTranslit=hima
+3	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	2	cop	_	Translit=čē|LTranslit=em|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+5	երբ	երբ	ADV	_	PronType=Rel	6	advmod	_	Translit=erb|LTranslit=erb
+6	մեծնանք	մեծնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	advcl:relcl	_	Translit=meçnank’|LTranslit=meçnal|SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
+8	–	–	PUNCT	_	_	10	punct	_	Translit=–|LTranslit=–
+9	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	10	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
+10	աւելցնէ	աւելցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=awelc’nē|LTranslit=awelc’nel
+11	շփոթս	շփոթ	NOUN	_	Animacy=Nhum|Case=Nom|Number=Coll|Number[psor]=Sing|Person[psor]=1	12	obj	_	Translit=šp’ot’s|LTranslit=šp’ot’
+12	տեսնելով	տեսնել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	10	advcl	_	Translit=tesnelov|LTranslit=tesnel|SpaceAfter=No
+13	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

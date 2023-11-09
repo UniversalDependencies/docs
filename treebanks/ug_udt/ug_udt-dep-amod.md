@@ -22,17 +22,17 @@ The following 38 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	قارا	_	ADJ	A	_	2	amod	_	Translit=qara|Morf=Missing,1
-2	قەلبىم	_	NOUN	N	_	10	obl	_	Translit=qelbim|Morf=Unknown
-3	بىلەن	بىلەن	ADP	R	_	2	case	_	Translit=bilen
-4	سېنىڭ	_	PRON	P	_	6	nmod:poss	_	Translit=sëning|Morf=Unknown
-5	روھ	روھ	NOUN	N	Case=Nom	6	nmod	_	Translit=roh
-6	تېمىڭغا	_	NOUN	N	_	10	obl	_	Translit=tëminggha|Morf=Unknown
-7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir
-8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim
-9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek|Morf=Unknown
-10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
-11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
+1	قارا	_	ADJ	A	_	2	amod	_	Morf=Missing,1|Translit=qara
+2	قەلبىم	_	NOUN	N	_	10	obl	_	Morf=Unknown|Translit=qelbim
+3	بىلەن	بىلەن	ADP	R	_	2	case	_	Translit=bilen|LTranslit=bilen
+4	سېنىڭ	_	PRON	P	_	6	nmod:poss	_	Morf=Unknown|Translit=sëning
+5	روھ	روھ	NOUN	N	Case=Nom	6	nmod	_	Translit=roh|LTranslit=roh
+6	تېمىڭغا	_	NOUN	N	_	10	obl	_	Morf=Unknown|Translit=tëminggha
+7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir|LTranslit=bir
+8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim|LTranslit=siqim
+9	لايدەك	_	NOUN	N	_	10	obl	_	Morf=Unknown|Translit=laydek
+10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen|LTranslit=chaplash
+11	.	.	PUNCT	Y	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -43,15 +43,15 @@ The following 38 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
-2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
-3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
-4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik
-5	رېئاللىقنى	رېئاللىق	NOUN	N	Case=Acc	6	obj	_	Translit=rëalliqni
-6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm|Morf=Unknown
-7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq
-8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	.	PUNCT	Y	_	7	punct	_	Translit=.
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette|LTranslit=emeliyet
+2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning|LTranslit=men
+3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu|LTranslit=bu
+4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik|LTranslit=qabahetlik
+5	رېئاللىقنى	رېئاللىق	NOUN	N	Case=Acc	6	obj	_	Translit=rëalliqni|LTranslit=rëalliq
+6	كۆرگۈم	_	VERB	V	_	7	acl	_	Morf=Unknown|Translit=körgüm
+7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq|LTranslit=yoq
+8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi|LTranslit=i
+9	.	.	PUNCT	Y	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -62,15 +62,15 @@ The following 38 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	قاتتىق	قاتتىق	ADJ	A	_	2	amod	_	Translit=qattiq
-2	تەسىرلەنگەن	تەسىرلەن	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	3	acl	_	Translit=tesirlengen
-3	مۇدىر	مۇدىر	NOUN	N	Case=Nom	8	nsubj	_	Translit=mudir
-4	ئۇنىڭ	ئۇ	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Translit=uning
-5	دولىسىغا	دولا	NOUN	N	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	Translit=dolisigha
-6	ئۇرۇپ	ئۇر	VERB	V	Aspect=Perf|VerbForm=Conv	8	advcl	_	Translit=urup
-7	تۇرۇپ	تۇر	AUX	V	Aspect=Perf|VerbForm=Conv	6	aux	_	Translit=turup
-8	دەپتۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=deptu|Morf=Unknown
-9	:	:	PUNCT	Y	_	8	punct	_	Translit=:
+1	قاتتىق	قاتتىق	ADJ	A	_	2	amod	_	Translit=qattiq|LTranslit=qattiq
+2	تەسىرلەنگەن	تەسىرلەن	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	3	acl	_	Translit=tesirlengen|LTranslit=tesirlen
+3	مۇدىر	مۇدىر	NOUN	N	Case=Nom	8	nsubj	_	Translit=mudir|LTranslit=mudir
+4	ئۇنىڭ	ئۇ	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Translit=uning|LTranslit=u
+5	دولىسىغا	دولا	NOUN	N	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	Translit=dolisigha|LTranslit=dola
+6	ئۇرۇپ	ئۇر	VERB	V	Aspect=Perf|VerbForm=Conv	8	advcl	_	Translit=urup|LTranslit=ur
+7	تۇرۇپ	تۇر	AUX	V	Aspect=Perf|VerbForm=Conv	6	aux	_	Translit=turup|LTranslit=tur
+8	دەپتۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Morf=Unknown|Translit=deptu
+9	:	:	PUNCT	Y	_	8	punct	_	Translit=:|LTranslit=:
 
 ~~~
 

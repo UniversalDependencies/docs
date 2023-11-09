@@ -10,7 +10,7 @@ This feature is universal but the values `Hab` are language-specific.
 It occurs with 3 different values: `Hab`, `Perf`, `Prog`.
 
 1484 tokens (3%) have a non-empty value of `Aspect`.
-131 types (6%) occur at least once with a non-empty value of `Aspect`.
+131 types (7%) occur at least once with a non-empty value of `Aspect`.
 51 lemmas (5%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 1 part-of-speech tags: <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (1484; 3% instances).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `Hab` (278; 19% of non-empty `Aspect`): <em>söyleyebilir, alabilir, listeleyebilir, gösterebilir, söyler, bulabilir, varır, ederim, gitmem, gider</em>
 * `Perf` (15; 1% of non-empty `Aspect`): <em>ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, gideceğiz, isterdim, kalacağım, olacak</em>
 * `Prog` (1191; 80% of non-empty `Aspect`): <em>istiyorum, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, arıyorum, veriyor, kullanılıyor</em>
-* `EMPTY` (2617): <em>göster, nedir, listeleyin, gösterin, listele, nelerdir, bul, ver, verin, uçuşunuz</em>
+* `EMPTY` (2619): <em>göster, nedir, listeleyin, gösterin, listele, nelerdir, bul, ver, verin, uçuşunuz</em>
 
 <table>
   <tr><th>Paradigm <i>iste</i></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th><th><tt>Hab</tt></th></tr>
@@ -38,6 +38,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="tr_atis-dep-conj.html">conj</a></tt>]--> VERB</tt> (47; 94%),
-<tt>VERB --[<tt><a href="tr_atis-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="tr_atis-dep-conj.html">conj</a></tt>]--> VERB</tt> (47; 94%).
 

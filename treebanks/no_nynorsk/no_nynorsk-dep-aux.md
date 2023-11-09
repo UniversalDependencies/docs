@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6 2 aux	color:blue
 1	Deigen	deig	NOUN	subst	Gender=Masc	6	nsubj	_	_
 2	må	måtte	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
-3	ikkje	ikkje	ADV	adv	_	6	advmod	_	_
+3	ikkje	ikkje	PART	adv	Polarity=Neg	6	advmod	_	_
 4	vere	vere	AUX	verb	VerbForm=Inf	6	cop	_	_
 5	for	for	ADV	adv	_	6	advmod	_	_
 6	fast	fast	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	0	root	_	SpaceAfter=No

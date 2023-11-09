@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Fabio Tamburini, Maria Simi, Cristina Bosco.
 
 Repository: [UD_Italian-VIT](https://github.com/UniversalDependencies/UD_Italian-VIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -135,7 +135,7 @@ September 2017, 248-254.
 </ul>
 
 <ul>
-<li>This corpus contains 99 lemmas tagged as pronouns (PRON): Carlo, adattare, alcuno, altri, altro, ambedue, ce, certo, ch, che, chi, chiunque, ci, ciascuno, ciò, coloro, come, cosa, costoro, costui, cui, donde, dove, egli, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, laddove, le, lei, li, lo, loro, lui, me, medesimo, meglio, meno, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ogni, ognuna, ognuno, ove, parecchio, parte, perché, più, poco, proprio, pò, qual, qualche, qualcosa, qualcuno, quale, qualunque, quando, quanto, quello, questo, s, se, si, stessi, stesso, suo, sé, tale, tanto, te, ti, troppo, tu, tuo, tutta, tutto, ultima, ultimi, ultimo, una, unico, uno, vi, voi</li>
+<li>This corpus contains 98 lemmas tagged as pronouns (PRON): adattare, alcuno, altri, altro, ambedue, ce, certo, ch, che, chi, chiunque, ci, ciascuno, ciò, coloro, come, cosa, costoro, costui, cui, donde, dove, egli, entrambi, essa, esse, essi, esso, gli, granché, il, io, la, laddove, le, lei, li, lo, loro, lui, me, medesimo, meglio, meno, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ogni, ognuna, ognuno, ove, parecchio, parte, perché, più, poco, proprio, pò, qual, qualche, qualcosa, qualcuno, quale, qualunque, quando, quanto, quello, questo, s, se, si, stessi, stesso, suo, sé, tale, tanto, te, ti, troppo, tu, tuo, tutta, tutto, ultima, ultimi, ultimo, una, unico, uno, vi, voi</li>
 </ul>
 
 <ul>

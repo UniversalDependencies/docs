@@ -11,22 +11,22 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_tourism-feat-Person.html">Person</a></tt>, <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt>.
 
-43760 tokens (48%) have a non-empty value of `Person`.
+43757 tokens (48%) have a non-empty value of `Person`.
 3613 types (73%) occur at least once with a non-empty value of `Person`.
 1268 lemmas (59%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (25711; 28% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (16859; 18% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1190; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (25708; 28% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (16859; 18% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1190; 1% instances).
 
 ### `NOUN`
 
-25711 <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
+25708 <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21434; 83%), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18956; 74%), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (18956; 74%), <tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18584; 72%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21431; 83%), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (18954; 74%), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (18954; 74%), <tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18583; 72%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `3` (25711; 100% of non-empty `Person`): <em>HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</em>
+* `3` (25708; 100% of non-empty `Person`): <em>HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</em>
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (1007) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (1006) occur only with one value of `Person`.
 
 ### `VERB`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
 Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 3.0
 
@@ -86,7 +86,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](es_pud-feat-Abbr.html) – [Case](es_pud-feat-Case.html) – [Definite](es_pud-feat-Definite.html) – [Degree](es_pud-feat-Degree.html) – [Foreign](es_pud-feat-Foreign.html) – [Gender](es_pud-feat-Gender.html) – [Hyph](es_pud-feat-Hyph.html) – [Mood](es_pud-feat-Mood.html) – [Number](es_pud-feat-Number.html) – [NumType](es_pud-feat-NumType.html) – [Person](es_pud-feat-Person.html) – [Polarity](es_pud-feat-Polarity.html) – [Polite](es_pud-feat-Polite.html) – [Poss](es_pud-feat-Poss.html) – [PrepCase](es_pud-feat-PrepCase.html) – [PronType](es_pud-feat-PronType.html) – [Reflex](es_pud-feat-Reflex.html) – [Tense](es_pud-feat-Tense.html) – [Typo](es_pud-feat-Typo.html) – [VerbForm](es_pud-feat-VerbForm.html)
+[Abbr](es_pud-feat-Abbr.html) – [Case](es_pud-feat-Case.html) – [Definite](es_pud-feat-Definite.html) – [Degree](es_pud-feat-Degree.html) – [Foreign](es_pud-feat-Foreign.html) – [Gender](es_pud-feat-Gender.html) – [Hyph](es_pud-feat-Hyph.html) – [Mood](es_pud-feat-Mood.html) – [Number](es_pud-feat-Number.html) – [NumForm](es_pud-feat-NumForm.html) – [NumType](es_pud-feat-NumType.html) – [Person](es_pud-feat-Person.html) – [Polarity](es_pud-feat-Polarity.html) – [Polite](es_pud-feat-Polite.html) – [Poss](es_pud-feat-Poss.html) – [PrepCase](es_pud-feat-PrepCase.html) – [PronType](es_pud-feat-PronType.html) – [Reflex](es_pud-feat-Reflex.html) – [Tense](es_pud-feat-Tense.html) – [Typo](es_pud-feat-Typo.html) – [VerbForm](es_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -219,7 +219,7 @@ employ ten-fold cross-validation.
       <li>DET: el, los, un, este, esto, ese, cada, muchos, eso, estos</li>
       <li>NOUN: años, año, lugar, gobierno, estado, millones, día, embargo, mar, mundo</li>
       <li>NUM: dos, 1, 10, 3, mil, tres, seis, 70, cuatro, 100</li>
-      <li>PRON: que, lo, su, sus, ellos, él, cual, quien, nuestro, los</li>
+      <li>PRON: que, lo, su, sus, ellos, él, cual, nuestro, los, cuales</li>
       <li>PROPN: C., Trump, mediterráneo, EUA, C, Donald, Caribe, Joseph, Rafferty, Andes</li>
       <li>VERB-Fin: escrito, atraído, construído, contruídos, disuelto</li>
       <li>VERB-Part: debido, hecho, dado, dejado, tenido, visto, acusado, declarado, desarrollado, dicho</li>
@@ -524,7 +524,7 @@ employ ten-fold cross-validation.
   <li>Int
     <ul>
       <li>DET: qué</li>
-      <li>PRON: qué, cuál, Cuáles</li>
+      <li>PRON: qué, cuál, quién, Cuáles, Quiénes</li>
     </ul>
   </li>
 </ul>
@@ -532,7 +532,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Int,Rel
     <ul>
-      <li>PRON: quien, quienes, cuanto, quién, Quiénes</li>
+      <li>PRON: cuanto</li>
     </ul>
   </li>
 </ul>
@@ -558,7 +558,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADV: cuando, donde</li>
       <li>DET: cuyo, cuya, cuyos, que</li>
-      <li>PRON: que, cual, cuales</li>
+      <li>PRON: que, cual, cuales, quien, quienes</li>
     </ul>
   </li>
 </ul>
@@ -579,7 +579,7 @@ employ ten-fold cross-validation.
   <li>Card
     <ul>
       <li>DET: muchos, muchas, ambos, poca, mucha, mucho, pocos, Ambas</li>
-      <li>NUM: dos, tres, cuatro, 1, 10, 3, mil, seis, 70, 100</li>
+      <li>NUM: dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</li>
       <li>PRON: cuanto</li>
     </ul>
   </li>
@@ -694,6 +694,28 @@ employ ten-fold cross-validation.
       <li>Yes
         <ul>
           <li>ADJ: austro, co, franco, multi</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: 1, 10, 3, 70, 100, 1492, 20, 2010, 2014, 2015</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: III, XVI, XX, V, VIII, XIII, XV</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: dos, tres, cuatro, mil, seis, cinco, diez, siete, treinta, un</li>
         </ul>
       </li>
     </ul>

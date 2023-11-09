@@ -23,14 +23,14 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 7 expl	color:blue
 1	If	if	SCONJ	_	_	4	mark	_	_
-2	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	4	nsubj	_	SpaceAfter=No
+2	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	4	nsubj	_	_
 3	's	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	true	true	ADJ	POS	Degree=Pos	8	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Comma	_	4	punct	_	_
 6	then	then	ADV	_	PronType=Dem	8	advmod	_	_
-7	there	there	PRON	EX	_	8	expl	_	SpaceAfter=No
+7	there	there	PRON	EX	_	8	expl	_	_
 8	's	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	no	no	DET	NEG	_	10	det	_	_
+9	no	no	DET	NEG	PronType=Neg	10	det	_	_
 10	hope	hope	NOUN	SG-NOM	Number=Sing	8	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	Period	_	8	punct	_	_
 

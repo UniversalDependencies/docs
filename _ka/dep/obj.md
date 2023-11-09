@@ -16,3 +16,4 @@ obj(ფარავს, ღრუბლებს)
 obj(შემოიტანეს, სკამები)
 ~~~
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:14 CET -->

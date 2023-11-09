@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 59603 tokens (42%) have a non-empty value of `Number`.
 10726 types (75%) occur at least once with a non-empty value of `Number`.
 6231 lemmas (67%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (34544; 25% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8872; 6% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (8659; 6% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (5312; 4% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (922; 1% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (780; 1% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (451; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> (58; 0% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (5; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (34544; 25% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8870; 6% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (8659; 6% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (5312; 4% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (924; 1% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (780; 1% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (451; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> (58; 0% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
@@ -37,15 +37,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-8872 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
+8870 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8679; 98%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6265; 71%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6101; 69%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5832; 66%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5471; 62%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8678; 98%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6263; 71%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6099; 69%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5831; 66%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5471; 62%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (2690; 30% of non-empty `Number`): היו, החלו, הגיעו, קיבלו, טענו, פעלו, השתתפו, נכללו, נמצאו, המשיכו
-* `Sing` (6182; 70% of non-empty `Number`): ניתן, כתב, הלחין, יצא, זכה, החל, כולל, כלל, נמצא, החלה
-* `EMPTY` (1778): יש, אין, לקבל, לגרום, למנוע, לבצע, ליצור, להופיע, לתת, למצוא
+* `Sing` (6180; 70% of non-empty `Number`): ניתן, כתב, הלחין, יצא, זכה, החל, כולל, כלל, נמצא, החלה
+* `EMPTY` (1775): יש, אין, לקבל, לגרום, למנוע, לבצע, ליצור, להופיע, לתת, למצוא
 
 <table>
   <tr><th>Paradigm <i>יש</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -135,19 +135,20 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-922 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
+924 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (799; 87%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (712; 77%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (590; 64%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (577; 63%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (541; 59%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (500; 54%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (801; 87%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (713; 77%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (592; 64%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (579; 63%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (543; 59%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (501; 54%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (276; 30% of non-empty `Number`): היו, אינם, יכולים, אינן, עלולים, יהיו, יכלו, צריכים, יכולות, עלולות
-* `Sing` (646; 70% of non-empty `Number`): היה, הייתה, אינו, אינה, יכול, יכולה, יהיה, תהיה, עלול, צריך
-* `EMPTY` (34): להיות, היו, היות
+* `Sing` (648; 70% of non-empty `Number`): היה, הייתה, אינו, אינה, יכול, יכולה, יהיה, תהיה, עלול, צריך
+* `EMPTY` (37): להיות, היו, היות
 
 <table>
   <tr><th>Paradigm <i>היה</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>הייתי</td><td>היינו</td></tr>
+  <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>אהיה</td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td></td><td>נהיה</td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt></tt></td><td>הייתי</td><td></td></tr>
   <tr><td><tt><tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>יהיה</td><td>יהיו</td></tr>
@@ -257,7 +258,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4390; 63%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4343; 57%),
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2859; 65%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2838; 89%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2837; 89%),
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1929; 86%),
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1669; 79%),
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1424; 65%),

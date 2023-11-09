@@ -22,11 +22,11 @@ The following 6 pairs of parts of speech are connected with `obl:patient`: <tt><
 # visual-style 20	bgColor:blue
 # visual-style 20	fgColor:white
 # visual-style 20 19 obl:patient	color:blue
-1	而	而	ADV	RB	_	20	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+1	而	而	SCONJ	RB	_	20	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 2	解药	解药	NOUN	NN	_	4	nmod	_	SpaceAfter=No|Translit=jiěyào|LTranslit=jiěyào
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	出现	出现	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=chūxiàn|LTranslit=chūxiàn
-5	也	也	ADV	RB	_	6	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+5	也	也	SCONJ	RB	_	6	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 6	使得	使得	VERB	VV	Voice=Cau	20	advcl	_	SpaceAfter=No|Translit=shǐde|LTranslit=shǐde
 7	他们	他	PRON	PRP	Number=Plur|Person=3	11	nsubj	_	SpaceAfter=No|Translit=tāmen|LTranslit=tā
 8	在	在	ADP	IN	_	9	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
@@ -36,7 +36,7 @@ The following 6 pairs of parts of speech are connected with `obl:patient`: <tt><
 12	了	了	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 13	威望	威望	NOUN	NN	_	11	obj	_	SpaceAfter=No|Translit=wēiwàng|LTranslit=wēiwàng
 14	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-15	并	并	ADV	RB	_	20	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
+15	并	并	SCONJ	RB	_	20	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 16	将	将	ADP	BB	_	19	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 17	北方	北方	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=běifāng|LTranslit=běifāng
 18	之	之	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
@@ -67,12 +67,12 @@ The following 6 pairs of parts of speech are connected with `obl:patient`: <tt><
 10	读	读	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dú|LTranslit=dú
 11	高中	高中	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=gāozhōng|LTranslit=gāozhōng
 12	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-13	但	但	ADV	RB	_	21	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
+13	但	但	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 14	他	他	PRON	PRP	Person=3	21	nsubj	_	SpaceAfter=No|Translit=tā|LTranslit=tā
-15	又	又	ADV	RB	_	21	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
+15	又	又	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit=yòu|LTranslit=yòu
 16	因	因	ADP	IN	_	17	case	_	SpaceAfter=No|Translit=yīn|LTranslit=yīn
 17	偷窃	偷窃	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=tōuqiè|LTranslit=tōuqiè
-18	而	而	ADV	RB	_	21	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+18	而	而	SCONJ	RB	_	21	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 19	被	被	AUX	BB	Voice=Pass	21	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 20	学校	学校	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
 21	开除	开除	VERB	VV	_	10	parataxis	_	SpaceAfter=No|Translit=kāichú|LTranslit=kāichú
@@ -93,10 +93,10 @@ The following 6 pairs of parts of speech are connected with `obl:patient`: <tt><
 4	纽约	纽约	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=niǔyuē|LTranslit=niǔyuē
 5	州	州	PART	SFN	_	3	obj	_	SpaceAfter=No|Translit=zhōu|LTranslit=zhōu
 6	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	就	就	ADV	RB	_	8	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
+7	就	就	SCONJ	RB	_	8	mark	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
 8	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-9	500多	500多	NUM	CD	NumType=Card	10	nummod	_	SpaceAfter=No|Translit=500duō|LTranslit=500duō
-10	所	所	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+9	500多	500多	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=500duō|LTranslit=500duō
+10	所	所	NOUN	NNB	_	9	clf	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 11	学校	学校	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=xuéxiào|LTranslit=xuéxiào
 12	将	将	ADP	BB	_	14	case	_	SpaceAfter=No|Translit=jiāng|LTranslit=jiāng
 13	匹克	匹克	NOUN	NN	_	14	compound	_	SpaceAfter=No|Translit=pǐkè|LTranslit=pǐkè

@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 3	má	mít	VERB	VB-S---3P-AAI--	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
 4	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	5	case	5:case	LId=k-1
 5	posouzení	posouzení	NOUN	NNNS3-----A----	Case=Dat|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	3	obl	3:obl:k:dat	LDeriv=posoudit|Functor=3:AIM
-6	třiatřicet	třiatřicet	NUM	Cl-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	2	nummod:gov	2:nummod:gov	SpaceAfter=No|LNumValue=33|Functor=2:COMPL
+6	třiatřicet	třiatřicet	NUM	Cl-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	2	nummod:gov	2:nummod:gov	SpaceAfter=No|LNumValue=33|Functor=2:COMPL
 7	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~

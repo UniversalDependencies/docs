@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="la_perseus-feat-Number.html">Number</a></tt>, <tt><a href="la_perseus-feat-Number-psor.html">Number[psor]</a></tt>.
 
-17738 tokens (61%) have a non-empty value of `Number`.
-9406 types (94%) occur at least once with a non-empty value of `Number`.
-4190 lemmas (90%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (6255; 21% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5060; 17% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2132; 7% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1706; 6% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1471; 5% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (736; 3% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (316; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (62; 0% instances).
+17742 tokens (61%) have a non-empty value of `Number`.
+9407 types (94%) occur at least once with a non-empty value of `Number`.
+4191 lemmas (90%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (6255; 21% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5060; 17% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2131; 7% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1707; 6% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1475; 5% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (736; 3% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (316; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (62; 0% instances).
 
 ### `NOUN`
 
@@ -94,11 +94,11 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-2132 <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+2131 <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (699; 33% of non-empty `Number`): <em>magna, magnis, mala, bonis, commoda, maxumis, memores, novis, pares, singulas</em>
+* `Plur` (698; 33% of non-empty `Number`): <em>magna, magnis, mala, bonis, commoda, maxumis, memores, novis, pares, singulas</em>
 * `Sing` (1433; 67% of non-empty `Number`): <em>magna, publicae, publicam, magno, magnum, magnam, publica, p, prima, dignum</em>
 * `EMPTY` (2): <em>aliquot, thraecium</em>
 
@@ -135,13 +135,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-1706 <tt><a href="la_perseus-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+1707 <tt><a href="la_perseus-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_perseus-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1442; 85%), <tt><a href="la_perseus-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1313; 77%), <tt><a href="la_perseus-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1313; 77%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_perseus-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1443; 85%), <tt><a href="la_perseus-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1314; 77%), <tt><a href="la_perseus-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1314; 77%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (637; 37% of non-empty `Number`): <em>haec, omnia, suis, illis, omnes, his, illos, omnium, illi, multa</em>
+* `Plur` (638; 37% of non-empty `Number`): <em>haec, omnia, suis, illis, omnes, his, illos, omnium, illi, multa</em>
 * `Sing` (1069; 63% of non-empty `Number`): <em>hoc, ille, illa, ipse, illi, mea, illum, hanc, haec, suo</em>
 * `EMPTY` (15): <em>tot, aliquot, quot, totidem, ambo, ceteris, eiusmodi, multaciam</em>
 
@@ -166,15 +166,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-1471 <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
+1475 <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_perseus-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (876; 60%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_perseus-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (876; 59%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (372; 25% of non-empty `Number`): <em>qui, quae, nos, eos, eorum, nobis, vos, quibus, quos, ea</em>
+* `Plur` (376; 25% of non-empty `Number`): <em>qui, quae, nos, eos, eorum, nobis, vos, quibus, quos, ea</em>
 * `Sing` (1099; 75% of non-empty `Number`): <em>mihi, me, qui, ego, te, quod, se, quid, tibi, eius</em>
-* `EMPTY` (9): <em>se, invicem</em>
+* `EMPTY` (5): <em>se</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -273,14 +273,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1237; 100%),
-<tt>VERB --[<tt><a href="la_perseus-dep-obl.html">obl</a></tt>]--> NOUN</tt> (889; 57%),
-<tt>NOUN --[<tt><a href="la_perseus-dep-det.html">det</a></tt>]--> DET</tt> (868; 99%),
-<tt>VERB --[<tt><a href="la_perseus-dep-obj.html">obj</a></tt>]--> NOUN</tt> (856; 51%),
+<tt>NOUN --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1218; 100%),
+<tt>VERB --[<tt><a href="la_perseus-dep-obl.html">obl</a></tt>]--> NOUN</tt> (890; 57%),
+<tt>NOUN --[<tt><a href="la_perseus-dep-det.html">det</a></tt>]--> DET</tt> (865; 99%),
+<tt>VERB --[<tt><a href="la_perseus-dep-obj.html">obj</a></tt>]--> NOUN</tt> (854; 51%),
 <tt>VERB --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (738; 92%),
 <tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (624; 77%),
 <tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (583; 88%),
-<tt>NOUN --[<tt><a href="la_perseus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (421; 66%),
-<tt>VERB --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (378; 89%),
-<tt>NOUN --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (325; 76%).
+<tt>NOUN --[<tt><a href="la_perseus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (417; 66%),
+<tt>VERB --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (379; 89%),
+<tt>NOUN --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (324; 76%).
 

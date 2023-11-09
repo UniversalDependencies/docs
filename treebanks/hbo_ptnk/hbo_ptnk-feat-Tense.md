@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Past`.
 
 2244 tokens (6%) have a non-empty value of `Tense`.
-270 types (5%) occur at least once with a non-empty value of `Tense`.
+1143 types (11%) occur at least once with a non-empty value of `Tense`.
 270 lemmas (17%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> (2086; 5% instances), <tt><a href="hbo_ptnk-pos-AUX.html">AUX</a></tt> (158; 0% instances).
 
@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (2086; 100% of non-empty `Tense`): <em>אמר, בוא, קרא, ילד, לקח, ראה, הלך, נתן, חיה, ישׁב</em>
-* `EMPTY` (2855): <em>בוא, נתן, ילד, עשׂה, ברך, ראה, הלך, אכל, לקח, שׁוב</em>
+* `Past` (2086; 100% of non-empty `Tense`): <em>יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יֹּ֨אמֶר, יֹּ֕אמֶר, יֹּ֖אמֶר, יֹּ֗אמֶר, יֹּ֥ולֶד, יֹּ֖ולֶד</em>
+* `EMPTY` (2896): <em>הֹולִידֹ֣, יֶשׁ, נָתַ֥ן, אָמַ֣ר, בָּ֣א, הֹולִ֥יד, אֵ֥ין, בֹּאֲ, יָצָ֣א, עָשִׂ֣יתָ</em>
 
 `Tense` seems to be **lexical feature** of `VERB`. 100% lemmas (269) occur only with one value of `Tense`.
 
@@ -35,8 +35,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (158; 100% of non-empty `Tense`): <em>היה</em>
-* `EMPTY` (180): <em>היה, יִהְיֶ֣ה, הָיָ֥ה, הָיָ֖ה, הָיָ֔ה, יְהִ֥י, הָי֥וּ, הָיְתָ֥ה, הָיוּ֙, יִהְיֶ֖ה</em>
+* `Past` (158; 100% of non-empty `Tense`): <em>יְהִי, יְהִ֗י, יְהִי֙, יְהִ֣י, יְהִ֕י, יְהִ֤י, יְהִ֥י, יְהִ֖י, יְהִ֞י, יִּֽהְיוּ֙</em>
+* `EMPTY` (180): <em>הָיָ֥ה, הָיָ֤ה, יִהְיֶ֣ה, הָיָ֖ה, הָי֥וּ, הָיְתָ֥ה, הָיָ֔ה, הָיָה֙, יְהִ֥י, הָי֣וּ</em>
 
 ## Relations with Agreement in `Tense`
 

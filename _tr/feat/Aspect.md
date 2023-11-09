@@ -105,4 +105,4 @@ and it only combines with the past tense forms.
 ### References
 - Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.  London: Routledge, 2005.
 - Jaklin Kornfilt. _Turkish_. London and New York: Routledge, 1997.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:32 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:36 CET -->

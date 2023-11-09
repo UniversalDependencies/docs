@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (3%) are attached to their parents as `parataxis`.
+10 nodes (2%) are attached to their parents as `parataxis`.
 
 10 instances of `parataxis` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 18.

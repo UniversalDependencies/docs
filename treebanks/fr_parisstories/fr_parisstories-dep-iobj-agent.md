@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	AlignBegin=81337|AlignEnd=81464
 7	essayé	essayer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	AlignBegin=81464|AlignEnd=81590
 8	de	de	ADP	_	_	11	mark	_	AlignBegin=81590|AlignEnd=81717
-9	lui	lui	PRON	_	_	11	iobj:agent	_	AlignBegin=81717|AlignEnd=81844
+9	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	iobj:agent	_	AlignBegin=81717|AlignEnd=81844
 10	faire	faire	AUX	_	VerbForm=Inf	11	aux:caus	_	AlignBegin=81844|AlignEnd=81971|Subject=SubjRaising
 11	manger	manger	VERB	_	VerbForm=Inf	7	xcomp	_	AlignBegin=81971|AlignEnd=82097|Subject=ObjRaising
 12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	AlignBegin=82097|AlignEnd=82224

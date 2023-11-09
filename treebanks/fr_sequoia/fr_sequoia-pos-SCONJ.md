@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.406661).
+The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.406634).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 
@@ -49,7 +49,13 @@ The 2nd highest number of forms (2) was observed with the lemma “puisque”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “que”: <em>qu', que</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (22; 3% instances)
+
+`SCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `ExtPos=SCONJ`
+
+`SCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (747 tokens).
+Examples: <em>que, qu', si, comme, quand, lorsqu', s', lorsque, puisqu', puisque</em>
 
 
 ## Relations

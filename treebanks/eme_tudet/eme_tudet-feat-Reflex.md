@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-31 tokens (1%) have a non-empty value of `Reflex`.
-30 types (2%) occur at least once with a non-empty value of `Reflex`.
-27 lemmas (5%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 3 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (24; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+41 tokens (1%) have a non-empty value of `Reflex`.
+37 types (3%) occur at least once with a non-empty value of `Reflex`.
+29 lemmas (5%) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 3 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (34; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-24 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Reflex`.
+34 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (18; 75%), <tt><a href="eme_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (18; 75%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15; 63%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 63%).
+The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (28; 82%).
 
 `VERB` tokens may have the following values of `Reflex`:
 
-* `Yes` (24; 100% of non-empty `Reflex`): <em>sidʒemin, depezezikatari, omozezopodʒ, onenaŋoŋ, ozekusug, ozemim, ozemokasinẽ, ozemõborɨ, ozemĩnõtar, ozepotaroŋ</em>
-* `EMPTY` (623): <em>oho, oiɲuŋ, eʔi, abaʔe, obaʔe, ohoŋ, owir, oʔa, oker, omãʔẽnẽ</em>
+* `Yes` (34; 100% of non-empty `Reflex`): <em>azemim, ozemim, sidʒemin, azeboʔe, azemimtar, azemɨmgatu, dazemimi, depezezikatari, omozezopodʒ, onenaŋoŋ</em>
+* `EMPTY` (851): <em>oho, oiɲuŋ, eʔi, oʔa, obaʔe, ohoŋ, ekʷa, abaʔe, oker, omãʔẽ</em>
 
-`Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (20) occur only with one value of `Reflex`.
+`Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (22) occur only with one value of `Reflex`.
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (6; 100% of non-empty `Reflex`): <em>azenami, emozemohun, ozekɨ, ozewa, ozeɨru, zazemõapampa</em>
-* `EMPTY` (812): <em>zawar, tapɨdʒ, wãĩwĩ, baipuri, baʔe, raʔɨr, sə, ʔɨb, awakʷər, eiba</em>
+* `EMPTY` (952): <em>zawar, ʔɨb, tapɨdʒ, wɨra, eiba, ka, raʔɨr, wãĩwĩ, baʔe, awakʷəra</em>
 
 ### `ADV`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `ADV` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>zeakapɨreri</em>
-* `EMPTY` (217): <em>aipo, am, kiʔɨ, ãhã, kor, nani, ikeʔɨ, ikiʔɨ, pɨawe, wane</em>
+* `EMPTY` (264): <em>aipo, am, ãhã, kiʔɨ, nani, kor, ekotɨ, ikeʔɨ, ikiʔɨ, pɨawe</em>
 

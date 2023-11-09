@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice
 
 
 * <em>мый</em>
-  * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 37: <em>Меным кажитчӧ , <b>мый</b> зэрӧ .</em>
+  * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 37: <em>— Он ӧд тӧд , <b>мый</b> татшӧма зэрны-гымавны кутас , — нурбыльті сӧмын .</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7: <em>Неприятель страшнӧй , бура кӧ он тӧд , кӧні сійӧ и <b>мый</b> сійӧ вӧчӧ .</em>
 * <em>кӧть</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 9: <em>Мед жӧ нин , мися , <b>кӧть</b> кутшӧмкӧ тӧвру пӧльыштлас , думайта ас кежысь .</em>
@@ -29,14 +29,14 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Ставсӧ тӧдӧ , <b>быттьӧ</b> Кӧчӧг Витьӧясын и олӧ .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2: <em>Гым-биясыс <b>быттьӧ</b> дзик орччӧн орӧдлісны сынӧдсӧ .</em>
 * <em>сӧмын</em>
-  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 21: <em>Сійӧ ньӧбис машина , а вокыс <b>сӧмын</b> велосипед .</em>
+  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 21: <em>Сэк жӧ удиті на воны <b>сӧмын</b> пипу рас весьтӧдз .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Комияс ми уджавнытӧ кужам , <b>сӧмын</b> , гашкӧ , шойччынысӧ ог .</em>
 * <em>кор</em>
-  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9: <em>Тэ кыдзи мӧвпалан , <b>кор</b> верман волыны ?</em>
+  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9: <em>A Ыджыд Сюра Бать заводитӧ петны , <b>кор</b> сылы лоӧ арӧсӧн-джынйӧн .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 3: <em>И шензи нӧшта , <b>кор</b> тӧдмалі , мый шерыслӧн туйыс зэв векньыдик и вӧлӧма .</em>
   * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1: <em>... том пожӧм сора кыдз - пипу сора берегыс кос , асъя югыд шонді син веравтӧдзыд серӧдӧма лыс да <b>кор</b> пырыс ялаа ягсӧ ...</em>
 * <em>да</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Сійӧ заводитліс чӧвтны куритчӧмсӧ <b>да</b> юӧмсӧ .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4: <em>— Менамӧсь эськӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2: <em>И еджыд чериыс чукӧра олӧ , кульмыны жӧ лӧсьӧдчӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1: <em>Думайта <b>да</b> , мед кӧтӧдас .</em>

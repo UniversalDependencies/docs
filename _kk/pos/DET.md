@@ -15,4 +15,4 @@ in Kazakh. Many determiners are ambiguous with [pronouns](PRON).
 * [kk] _кей адам_ "some people"
 * [kk] _қай адам?_ "which person?"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:24 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:24 CET -->

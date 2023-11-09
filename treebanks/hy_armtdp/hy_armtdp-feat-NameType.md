@@ -65,7 +65,7 @@ The most frequent other feature values with which `NOUN` and `NameType` co-occur
 The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (93; 93%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-appos.html">appos</a></tt>]--> PROPN</tt> (4; 67%),
-<tt>PROPN --[<tt><a href="hy_armtdp-dep-compound.html">compound</a></tt>]--> PROPN</tt> (4; 100%),
+<tt>PROPN --[<tt><a href="hy_armtdp-dep-compound.html">compound</a></tt>]--> PROPN</tt> (4; 80%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (4; 67%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-compound-redup.html">compound:redup</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> PROPN</tt> (1; 100%),

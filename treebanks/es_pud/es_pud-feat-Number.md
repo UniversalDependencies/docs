@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 743 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (738; 99%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (619; 83%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (523; 70%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (498; 67%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (464; 62%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (411; 55%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (396; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (738; 99%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (619; 83%), <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (523; 70%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (498; 67%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (464; 62%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (411; 55%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (387; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 

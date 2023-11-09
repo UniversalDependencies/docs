@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-aux.html">aux</a></tt>.
 There are also 3 other language-specific subtypes of `aux`: <tt><a href="pl_pdb-dep-aux-clitic.html">aux:clitic</a></tt>, <tt><a href="pl_pdb-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="pl_pdb-dep-aux-pass.html">aux:pass</a></tt>.
 
-620 nodes (0%) are attached to their parents as `aux:cnd`.
+621 nodes (0%) are attached to their parents as `aux:cnd`.
 
-481 instances of `aux:cnd` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30161290322581.
+478 instances of `aux:cnd` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31884057971015.
 
-The following 6 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (549; 89% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (44; 7% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (14; 2% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (541; 87% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (44; 7% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 6 pairs of parts of speech are connected with `aux:cnd`: <tt><a hr
 1	Sprawdźmy	sprawdzić	VERB	impt:pl:pri:perf	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	interp	PunctType=Comm	5	punct	5:punct	_
 3	czy	czy	PART	part	PartType=Int	5	advmod	5:advmod	_
-4	istotnie	istotnie	ADV	adv:pos	Degree=Pos	5	parataxis:insert	5:parataxis:insert	_
+4	istotnie	istotnie	PART	part	_	5	advmod:emph	5:advmod:emph	_
 5	potrafili	potrafić	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	1:ccomp	_
 6	by	by	AUX	part	_	5	aux:cnd	5:aux:cnd	_
-7	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Clitic=Yes|Number=Plur|Person=1|Variant=Short	5	aux:clitic	5:aux:clitic	_
+7	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Number=Plur|Person=1|Variant=Short	5	aux:clitic	5:aux:clitic	_
 8	to	to	PRON	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	9:obj	_
 9	zrobić	zrobić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	5:xcomp	SpaceAfter=No
 10	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
@@ -61,14 +61,22 @@ The following 6 pairs of parts of speech are connected with `aux:cnd`: <tt><a hr
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux:cnd	color:blue
-1	To	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	4	cop	4:cop	_
-2	była	być	AUX	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
-3	by	by	AUX	part	_	4	aux:cnd	4:aux:cnd	_
-4	tragedia	tragedia	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	SpaceAfter=No
-5	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 aux:cnd	color:blue
+1	"	"	PUNCT	interp	PunctType=Quot	5	punct	5:punct	SpaceAfter=No
+2	Było	być	AUX	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
+3	by	by	AUX	part	_	5	aux:cnd	5:aux:cnd	_
+4	jeszcze	jeszcze	PART	part	_	5	advmod:emph	5:advmod:emph	_
+5	lepiej	dobrze	ADV	adv:com	Degree=Cmp	8	parataxis:obj	8:parataxis:obj	SpaceAfter=No
+6	"	"	PUNCT	interp	PunctType=Quot	5	punct	5:punct	_
+7	-	-	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
+8	powiada	powiadać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	"	"	PUNCT	interp	PunctType=Quot	10	punct	10:punct	SpaceAfter=No
+10	Życie	życie	NOUN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	8:nsubj	_
+11	Lubelskie	lubelski	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	10	amod	10:amod	SpaceAfter=No
+12	"	"	PUNCT	interp	PunctType=Quot	10	punct	10:punct	SpaceAfter=No
+13	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
 
 ~~~
 

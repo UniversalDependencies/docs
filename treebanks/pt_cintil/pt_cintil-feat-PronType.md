@@ -56,14 +56,14 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt>]--> DET</tt> (51; 98%),
+<tt>DET --[<tt><a href="pt_cintil-dep-flat.html">flat</a></tt>]--> DET</tt> (49; 98%),
 <tt>PRON --[<tt><a href="pt_cintil-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (6; 55%),
 <tt>PRON --[<tt><a href="pt_cintil-dep-dep.html">dep</a></tt>]--> PRON</tt> (5; 83%),
 <tt>DET --[<tt><a href="pt_cintil-dep-conj.html">conj</a></tt>]--> DET</tt> (3; 100%),
 <tt>DET --[<tt><a href="pt_cintil-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (3; 75%),
+<tt>DET --[<tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt>]--> DET</tt> (2; 100%),
 <tt>PRON --[<tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (2; 100%),
 <tt>DET --[<tt><a href="pt_cintil-dep-advmod.html">advmod</a></tt>]--> DET</tt> (1; 100%),
 <tt>PRON --[<tt><a href="pt_cintil-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="pt_cintil-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="pt_cintil-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="pt_cintil-dep-obl.html">obl</a></tt>]--> PRON</tt> (1; 100%).
 

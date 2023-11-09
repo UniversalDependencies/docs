@@ -17,20 +17,17 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 ccomp	color:blue
-1	Найӧ	найӧ	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-2	дзик	дзик	ADV	Adv	_	4	advmod:deg	_	_
-3	оз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	4	aux:neg	_	_
-4	тӧдны	тӧдны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	8	punct	_	_
-6	коді	коді	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	_	_
-7	тайӧс	тайӧ	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	8	obj	_	_
-8	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	ccomp	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 ccomp	color:blue
+1	Думайта	думайтны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+2	да	да	PART	Pcle	_	1	advmod:foc	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	5	punct	_	_
+4	мед	мед	SCONJ	CS	_	5	mark	_	_
+5	кӧтӧдас	кӧтӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	1	ccomp	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 

@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>ca</em> (<tt><a href="ro_rrt-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.250000 (the average of all parts of speech is 1.814602).
+The form / lemma ratio of `SCONJ` is 1.250000 (the average of all parts of speech is 1.814756).
 
 The 1st highest number of forms (2) was observed with the lemma “că”: <em>c-, că</em>.
 
@@ -61,19 +61,19 @@ Examples: <em>că, dacă, ca, până, încât, deoarece, deși, fără, fiindcă
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="ro_rrt-dep-mark.html">mark</a></tt> (1877; 85% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (211; 10% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (83; 4% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (23; 1% instances), <tt><a href="ro_rrt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-root.html">root</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="ro_rrt-dep-mark.html">mark</a></tt> (1881; 85% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (207; 9% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (83; 4% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (23; 1% instances), <tt><a href="ro_rrt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="ro_rrt-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1619; 74% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (166; 8% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (140; 6% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (130; 6% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (112; 5% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1623; 74% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (166; 8% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (136; 6% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (130; 6% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (112; 5% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances),  (1; 0% instances)
 
-2079 (94%) `SCONJ` nodes are leaves.
+2081 (95%) `SCONJ` nodes are leaves.
 
-112 (5%) `SCONJ` nodes have one child.
+110 (5%) `SCONJ` nodes have one child.
 
 10 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (120; 91% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (5; 4% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (118; 91% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (5; 4% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (2; 2% instances), <tt><a href="ro_rrt-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (89; 67% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (14; 11% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (9; 7% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (6; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (89; 68% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (14; 11% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (9; 7% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (8; 6% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances)
 

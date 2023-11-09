@@ -9,34 +9,31 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="gd_arcosg-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-45 nodes (0%) are attached to their parents as `acl`.
+84 nodes (0%) are attached to their parents as `acl`.
 
-45 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.64444444444444.
+84 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.05952380952381.
 
-The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (26; 58% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (10; 22% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (6; 13% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (53; 63% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (14; 17% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7; 8% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (7; 8% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 8 acl	color:blue
-1	Tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
-2	dearbhadh	dearbhadh	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
-3	air	air	ADP	Sp	_	5	case	_	_
-4	a’	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	chùis	cùis	NOUN	Ncsfd	Case=Dat|Gender=Fem|Number=Sing	1	xcomp:pred	_	_
-6	do	do	ADP	Sp	_	8	obl	_	_
-7	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	8	mark:prt	_	_
-8	tug	toir	VERB	V-s--d	Tense=Past	2	acl	_	_
-9	Mac	Mac	PART	Up	PartType=Pat	8	nsubj	_	_
-10	na	an	DET	Tdsfg	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	flat:name	_	_
-11	Ceàrdaich	Ceàrdaich	PROPN	Nn	_	9	flat:name	_	_
-12	an	an	DET	Tdsf	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	aire	aire	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
-14	.	.	PUNCT	Fe	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 acl	color:blue
+1	oh	oh	INTJ	I	_	3	discourse	_	_
+2	thì	thì	INTJ	I	_	3	discourse	_	_
+3	fhios	fios	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+4	gun	gu	PART	Qa	PartType=Cmpl	5	mark:prt	_	_
+5	robh	bi	VERB	V-s--d	Tense=Past	3	acl	_	_
+6	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+7	ag	ag	PART	Sa	_	8	case	_	_
+8	obair	obraich	NOUN	Nv	VerbForm=Vnoun	5	xcomp:pred	_	_
+9	air	air	ADP	Sp	_	10	case	_	_
+10	iad	iad	PRON	Pp3p	Number=Plur|Person=3	8	obl	_	_
+11	an-raoir	an-raoir	ADV	Rt	_	8	advmod	_	_
 
 ~~~
 
@@ -47,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 16 acl	color:blue
-1	chan	chan	PART	Qn	PartType=Cmpl|Polarity=Neg	2	mark:prt	_	_
+1	chan	cha	PART	Qn	PartType=Vb|Polarity=Neg	2	mark:prt	_	_
 2	eil	bi	VERB	V-p--d	Tense=Pres	0	root	_	_
 3	mi	mi	PRON	Pp1s	Number=Sing|Person=1	2	nsubj	_	_
 4	cinnteach	cinnteach	ADJ	Ap	_	2	xcomp:pred	_	_
@@ -81,7 +78,7 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 9 acl	color:blue
-1	chan	chan	PART	Qn	PartType=Cmpl|Polarity=Neg	2	mark:prt	_	_
+1	chan	cha	PART	Qn	PartType=Vb|Polarity=Neg	2	mark:prt	_	_
 2	eil	bi	VERB	V-p--d	Tense=Pres	0	root	_	_
 3	fhios	fios	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 4	aig	aig	ADP	Sp	_	5	case	_	_

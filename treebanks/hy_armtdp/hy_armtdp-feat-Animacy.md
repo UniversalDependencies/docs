@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.
 
 13311 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10124; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9069; 68%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10123; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9069; 68%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
@@ -70,7 +70,7 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-flat.html">flat</a></tt>]--> PROPN</tt> (264; 100%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>]--> NOUN</tt> (260; 86%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (197; 86%),
-<tt>NOUN --[<tt><a href="hy_armtdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (133; 87%),
+<tt>NOUN --[<tt><a href="hy_armtdp-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (133; 88%),
 <tt>NOUN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (129; 63%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (120; 97%),
 <tt>PROPN --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (99; 99%).

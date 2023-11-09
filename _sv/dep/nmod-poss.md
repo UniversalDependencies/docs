@@ -16,4 +16,4 @@ nmod:poss(sida, Livets)
 Alla våra hem \n All our homes
 nmod:poss(hem, våra)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:21 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:06 CET -->

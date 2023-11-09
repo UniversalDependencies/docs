@@ -786,8 +786,8 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>AUX: skuldi, skuldu, veri, mundi, hevði, mundu, verði</li>
-            <li>VERB: kenni, komi, legði, bjóði, drekki, fari, fylgi, föri, kasti, lati</li>
+            <li>AUX: veri, verði</li>
+            <li>VERB: komi, drekki, fylgi, föri, kasti, lati, ræðist, verði, óttist</li>
           </ul>
         </li>
       </ul>

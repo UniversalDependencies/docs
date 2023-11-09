@@ -15,4 +15,4 @@ nsubj(chạy, mèo)
 punct(chạy, 。)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:05 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:36 CET -->

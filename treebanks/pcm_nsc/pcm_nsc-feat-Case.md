@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Gen` (5; 100% of non-empty `Case`): <em>Champions', childs, guy, guy's, people's</em>
+* `Gen` (5; 100% of non-empty `Case`): <em>childs, guy, guy's, people's, Champions'</em>
 * `EMPTY` (14738): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `PROPN`

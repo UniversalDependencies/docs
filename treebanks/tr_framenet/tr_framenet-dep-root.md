@@ -11,9 +11,9 @@ This relation is universal.
 2698 nodes (14%) are attached to their parents as `root`.
 
 2698 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.95663454410675.
+Average distance between parent and child is 5.95737583395108.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (2634; 98% instances), -<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (35; 1% instances), -<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (24; 1% instances), -<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (2633; 98% instances), -<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (35; 1% instances), -<tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (26; 1% instances), -<tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

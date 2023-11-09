@@ -23,4 +23,4 @@ cannot serve to judge the part of speech from the English perspective.)
 - _ну&nbsp;_ “well”
 - _ради бога&nbsp;_ “for God's sake”
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:25 CET -->

@@ -70,7 +70,7 @@ The following 25 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	rike	rik	ADJ	adj	Degree=Pos|Number=Plur	3	nsubj	_	_
 3	bryr	bry	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	seg	seg	PRON	pron	Case=Acc|PronType=Prs	3	obj	_	_
-5	ikkje	ikkje	ADV	adv	_	3	advmod	_	_
+5	ikkje	ikkje	PART	adv	Polarity=Neg	3	advmod	_	_
 6	om	om	ADP	prep	_	7	case	_	_
 7	oss	vi	PRON	pron	Animacy=Hum|Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obl	_	SpaceAfter=No
 8	,	$,	PUNCT	<komma>	_	9	punct	_	_

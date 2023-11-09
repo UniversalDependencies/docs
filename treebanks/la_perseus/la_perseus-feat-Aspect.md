@@ -130,13 +130,13 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (658; 87%),
-<tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (438; 54%),
+<tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (439; 54%),
 <tt>VERB --[<tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (242; 63%),
 <tt>VERB --[<tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (206; 62%),
 <tt>VERB --[<tt><a href="la_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (69; 66%),
-<tt>VERB --[<tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (27; 64%),
+<tt>VERB --[<tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (26; 63%),
 <tt>VERB --[<tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (7; 54%),
 <tt>VERB --[<tt><a href="la_perseus-dep-cop.html">cop</a></tt>]--> AUX</tt> (6; 86%),
-<tt>VERB --[<tt><a href="la_perseus-dep-acl.html">acl</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> VERB</tt> (2; 100%).
+<tt>VERB --[<tt><a href="la_perseus-dep-amod.html">amod</a></tt>]--> VERB</tt> (4; 80%),
+<tt>VERB --[<tt><a href="la_perseus-dep-acl.html">acl</a></tt>]--> VERB</tt> (3; 100%).
 

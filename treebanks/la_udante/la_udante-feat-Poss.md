@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (496; 100% of non-empty `Poss`): <em>sua, suis, suam, suo, nostra, sue, suum, nostri, sui, nostre</em>
-* `EMPTY` (3148): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, quedam, huius</em>
+* `EMPTY` (3151): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, quedam, huius</em>
 

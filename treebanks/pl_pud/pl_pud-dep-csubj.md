@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	się	się	PRON	part	PronType=Prs|Reflex=Yes	3	expl:pv	3:expl:pv	SpaceAfter=No
 5	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
 6	że	że	SCONJ	comp	_	8	mark	8:mark	_
-7	obaj	oba	NUM	num:pl:nom:m1:congr:ncol	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	8	nsubj	8:nsubj	_
+7	obaj	oba	DET	num:pl:nom:m1:congr:ncol	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	8	nsubj	8:nsubj	_
 8	kontrolowali	kontrolować	VERB	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	3	csubj	3:csubj	_
 9	przynajmniej	przynajmniej	PART	part	_	10	advmod:emph	10:advmod:emph	_
 10	część	część	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	8	obj	8:obj	_
@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 9	zorganizowane	zorganizować	ADJ	ppas:pl:nom:n:perf:aff	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	1	csubj	1:csubj	_
 10	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Loc
 11	393	393	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	12	amod:flat	12:amod:flat	_
-12	r	rok	X	brev:pun	Abbr=Yes|Pun=Yes	9	obl	9:obl	SpaceAfter=No
+12	r	rok	NOUN	brev:pun	Abbr=Yes	9	obl	9:obl	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

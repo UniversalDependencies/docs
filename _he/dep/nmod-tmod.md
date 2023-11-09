@@ -13,4 +13,4 @@ if the modifier is specifying a time, it is labeled as `tmod`.
 nmod:tmod(ספטמבר, 1952)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:22 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:07 CET -->

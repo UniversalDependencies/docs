@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-csubj.html">csubj</a></tt>.
 
-4 nodes (0%) are attached to their parents as `csubj:pass`.
+5 nodes (0%) are attached to their parents as `csubj:pass`.
 
-4 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.5.
+5 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.8.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 25% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (3; 60% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 20% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -24,21 +24,21 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 6 10 csubj:pass	color:blue
 1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	2	case	2:case	Case=Loc
 2	Piśmie	pismo	NOUN	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing	6	obl	6:obl	_
-3	św	święty	X	brev:pun	Abbr=Yes|Pun=Yes	2	amod	2:amod	SpaceAfter=No
+3	św	święty	ADJ	brev:pun	Abbr=Yes	2	amod	2:amod	SpaceAfter=No
 4	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
 5	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	_
 6	napisane	napisać	ADJ	ppas:sg:nom:n:perf:aff	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	19	parataxis:obj	19:parataxis:obj	SpaceAfter=No
 7	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
 8	żeby	żeby	SCONJ	comp	_	10	mark	10:mark	_
-9	ś	być	AUX	aglt:sg:sec:imperf:nwok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=2|Variant=Short	10	aux:clitic	10:aux:clitic	_
+9	ś	być	AUX	aglt:sg:sec:imperf:nwok	Aspect=Imp|Number=Sing|Person=2|Variant=Short	10	aux:clitic	10:aux:clitic	_
 10	pieścił	pieścić	VERB	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	csubj:pass	6:csubj:pass	_
 11	piersi	pierś	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	10	obj	10:obj	_
 12	swojej	swój	DET	adj:sg:gen:f:pos	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	13	det:poss	13:det:poss	_
-13	żony	żona	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	11	nmod	11:nmod	SpaceAfter=No
+13	żony	żona	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
 14	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	_
 15	a	a	CCONJ	conj	_	17	cc	17:cc	_
 16	nie	nie	PART	part	Polarity=Neg	17	advmod:neg	17:advmod:neg	_
-17	cudzej	cudzy	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	conj	12:conj|13:det:poss	_
+17	cudzej	cudzy	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	conj	11:nmod:poss|13:conj	_
 18	-	-	PUNCT	interp	PunctType=Dash	19	punct	19:punct	_
 19	argumentuje	argumentować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 20	mój	mój	DET	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det:poss	21:det:poss	_
@@ -94,10 +94,10 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 6	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
 7	ale	ale	CCONJ	conj	_	11	cc	11:cc	_
 8	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Loc
-9	obojgu	oba	NUM	num:pl:loc:m1:congr:col	Animacy=Hum|Case=Loc|Gender=Masc|Number=Plur|NumForm=Word|NumType=Sets	11	obl	11:obl|17:obl	_
+9	obojgu	oba	DET	num:pl:loc:m1:congr:col	Animacy=Hum|Case=Loc|Gender=Masc|Number=Plur|NumType=Sets|PronType=Ind	11	obl	11:obl|17:obl	_
 10	nie	nie	PART	part	Polarity=Neg	11	advmod:neg	11:advmod:neg	_
 11	dostrzegał	dostrzegać	VERB	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	_
-12	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	11	aux:clitic	11:aux:clitic	_
+12	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	11	aux:clitic	11:aux:clitic	_
 13	frustracji	frustracja	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	11	obj	11:obj	SpaceAfter=No
 14	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	_
 15	a	a	CCONJ	conj	_	17	cc	17:cc	_
@@ -113,16 +113,16 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 25	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	26	case	26:case	Case=Gen
 26	dnia	dzień	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	24	nmod	24:nmod	_
 27	na	na	ADP	prep:acc	AdpType=Prep	28	case	28:case	Case=Acc
-28	dzień	dzień	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	nmod	26:nmod	SpaceAfter=No
-29	,	,	PUNCT	interp	PunctType=Comm	35	punct	35:punct	_
+28	dzień	dzień	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	nmod:arg	26:nmod:arg	SpaceAfter=No
+29	,	,	PUNCT	interp	PunctType=Comm	24	punct	24:punct	_
 30	bardziej	bardzo	ADV	adv:com	Degree=Cmp	35	advmod	35:advmod	_
 31	niż	niż	SCONJ	comp	ConjType=Comp	32	mark	32:mark	_
 32	gdzie	gdzie	ADV	adv	_	30	obl:cmpr	30:obl:cmpr	_
 33	indziej	indziej	ADV	adv	_	32	fixed	32:fixed	_
 34	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	35	case	35:case	Case=Loc
-35	kołowrocie	kołowrót	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	26	conj	24:nmod|26:conj	_
-36	pór	pora	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	35	nmod:arg	35:nmod:arg	_
-37	roku	rok	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod:arg	36:nmod:arg	SpaceAfter=No
+35	kołowrocie	kołowrót	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	24	nmod	24:nmod	_
+36	pór	pora	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	35	nmod	35:nmod	_
+37	roku	rok	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	36	nmod	36:nmod	SpaceAfter=No
 38	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

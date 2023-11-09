@@ -63,8 +63,8 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 39	_	_	AUX	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=30|SpaceAfter=No|UI=5235
 40	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=904
 41	_	_	ADP	_	_	40	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-42	_	_	SCONJ	_	_	40	fixed	_	BBIL=I|BPT=0|LBIL=B|LPOS=9|SpaceAfter=No|UI=8760
-43	_	_	SCONJ	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|UI=4366
+42	_	_	SCONJ	_	_	41	fixed	_	BBIL=I|BPT=0|LBIL=B|LPOS=9|SpaceAfter=No|UI=8760
+43	_	_	SCONJ	_	_	41	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|UI=4366
 44	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159525
 45	_	_	ADJ	_	_	30	appos	_	BBIL=I|BPT=0|LBIL=B|LPOS=15|SpaceAfter=No|UI=204378
 46	_	_	PUNCT	_	_	45	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=2
@@ -124,8 +124,8 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 39	_	_	AUX	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=30|SpaceAfter=No|UI=5235
 40	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=904
 41	_	_	ADP	_	_	40	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-42	_	_	SCONJ	_	_	40	fixed	_	BBIL=I|BPT=0|LBIL=B|LPOS=9|SpaceAfter=No|UI=8760
-43	_	_	SCONJ	_	_	37	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|UI=4366
+42	_	_	SCONJ	_	_	41	fixed	_	BBIL=I|BPT=0|LBIL=B|LPOS=9|SpaceAfter=No|UI=8760
+43	_	_	SCONJ	_	_	41	fixed	_	BBIL=I|BPT=3|LBIL=I|LPOS=9|UI=4366
 44	_	_	NOUN	_	_	45	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159525
 45	_	_	ADJ	_	_	30	appos	_	BBIL=I|BPT=0|LBIL=B|LPOS=15|SpaceAfter=No|UI=204378
 46	_	_	PUNCT	_	_	45	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=5|SpaceAfter=No|UI=2

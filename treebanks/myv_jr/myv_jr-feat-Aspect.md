@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 151 tokens (1%) have a non-empty value of `Aspect`.
 64 types (1%) occur at least once with a non-empty value of `Aspect`.
 44 lemmas (1%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (103; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (48; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (103; 0% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (48; 0% instances).
 
 ### `AUX`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Hab,Inch` (1; 1% of non-empty `Aspect`): <em>кармильть</em>
 * `Inch` (102; 99% of non-empty `Aspect`): <em>кармась, кармасть, кармить, карми, карма, карман, карминь, Кармиксэль, Карминдерят, кармавлинь</em>
-* `EMPTY` (688): <em>а, аволь, эзь, апак, ульнесь, иля, эряви, ули, кадык, бу</em>
+* `EMPTY` (696): <em>а, аволь, эзь, апак, ульнесь, иля, эряви, ули, бу, кадык</em>
 
 <table>
   <tr><th>Paradigm <i>кармамс</i></th><th><tt>Hab,Inch</tt></th><th><tt>Inch</tt></th></tr>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Hab` (36; 75% of non-empty `Aspect`): <em>сыль, Рамиксэлинек, абунгалиль, валаськавтылизе, валыксэлизь, ваныль, вечкилизь, витнилить, ильтнильть, кадовиль</em>
 * `Inch` (12; 25% of non-empty `Aspect`): <em>цяхазевсь, арсезевезь, арсезевинь, арьсезевезь, кекшнезевсть, лаказеви, паразевсь, пейдезевсь, тошказевсь, урнозевсь</em>
-* `EMPTY` (3645): <em>мерсь, лиссь, ютась, мольсь, ашти, неяви, совась, маряви, сась, ваны</em>
+* `EMPTY` (3680): <em>мерсь, лиссь, ютась, мольсь, ашти, неяви, совась, маряви, саизе, сась</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (43) occur only with one value of `Aspect`.
 

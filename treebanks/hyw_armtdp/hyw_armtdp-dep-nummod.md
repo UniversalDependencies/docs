@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-626 nodes (1%) are attached to their parents as `nummod`.
+628 nodes (1%) are attached to their parents as `nummod`.
 
-624 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35463258785942.
+626 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40445859872611.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (611; 98% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (3; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (612; 97% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

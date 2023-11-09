@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `PART`
 
 There are 1 `PART` lemmas (0%), 1 `PART` types (0%) and 147 `PART` tokens (0%).
-Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 16 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>no</em>
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="ca_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416268).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416814).
 
 The 1st highest number of forms (1) was observed with the lemma “no”: <em>no</em>.
 

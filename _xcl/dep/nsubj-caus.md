@@ -12,3 +12,4 @@ udver: '2'
 nsubj:caus(Մեծացուսցէ, անձն)
 obj(Մեծացուսցէ, զՏէր)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:09 CET -->
