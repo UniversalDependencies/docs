@@ -13,7 +13,7 @@ We consider the case of a reduplication only when the same word is repeated one 
     + e.g. *quod quid **est est** obiectum intellectus* 'for the object of the intellect **is** what a thing **is**' (`train-s16691`, IT-TB), both depending as `cop` respectively on *quid* and *obiectum*
 1. transcription errors of any kind, which are managed through [`reparandum`]()
     + e.g. *+ Ego Leo **notarius** **notarius** post traditam conplevi et dedi.* '+ I, **notary** **notary** Leo, have filled out and delivered after the hand-over' (`train-s6767`, LLCT)
-1. other kinds of reprises, often treated by means of [`conj`](la-dep/conj) or similar
+1. other kinds of reprises, often treated by means of [`conj`]() or similar
     + e.g. *per quasdam **relationes**, quia per Papatum et per Imperiatum, que **relationes** sunt...* 'by virtue of certain **relationships**, i.e. by virtue of Papal and Imperial office, which are respectively **relationships** of...' (`Mon-615` [*De Monarchia* III xi 6], UDante), here an argument of the relative clause determined by the [relative pronoun](/la/feat/PronType.html#Rel)
 
 The relation between the reduplicated elements is a subtype of [flat](/u/dep/flat) since there is no hierarchy in such a block, and so formally the linearly first element is promoted as "head" for all the others. 
@@ -24,10 +24,10 @@ The function of the reduplication, in terms of morphological features, is expres
 
 It remains to be seen if cases of reduplication which are as of now traditionally treated as part of the lexicon or even inflectional paradigms will be reanalysed syntactically by means of the present dependency relation. Some examples:
 
-* *sese*, [emphatic](/la/feat/Form.html#Emp) form of the [reflexive](/la/feat/Reflexive) [pronoun](la-pos/PRON) *se* and lemmatised as such e.g. in the IT-TB
+* *sese*, [emphatic](/la/feat/Form.html#Emp) form of the [reflexive](/la/feat/Reflexive) [pronoun](/la/pos/PRON.html) *se* and lemmatised as such e.g. in the IT-TB
     * completely parallel to *me me*, as shown in the second example  
-* *tute*, [emphatic](la-feat/Form#Emp) form of [2nd person](la-feat/Person) singular [pronoun](la-pos/PRON), with dissimilation
-* *quamquam* 'although' (also, for regular phonotactics, *quanquam*), reduplication of the relative element *quam* 'how much' (also acting as comparative [`SCONJ`](la-pos/SCONJ)) with [indefinite](la-feat/ProType#Ind) meaning ('in whichever manner = however')
+* *tute*, [emphatic](/la/feat/Form.html#Emp) form of [2nd person](/la/feat/Person.html) singular [pronoun](/la/pos/PRON.html), with dissimilation
+* *quamquam* 'although' (also, for regular phonotactics, *quanquam*), reduplication of the relative element *quam* 'how much' (also acting as comparative [`SCONJ`](/la/pos/SCONJ.html)) with [indefinite](/la/feat/PronType.html#Ind) meaning ('in whichever manner = however')
 
 
 
@@ -41,7 +41,7 @@ flat:redup(tot-10, tot-11)
 
 '**As many** as were the types of work involved in the enterprise, **so many** were the languages by which the human race was fragmented; and the more skill required for the type of work, the more rudimentary and barbaric the language they now spoke.' (`DVE-71` [*De vulgari eloquentia* I vii 7], UDante)
 
-* the reduplication having [distributive](la-feat/NumType#Dist) value here, applied to the indefinite quantity expressed by the correlated [relative](la-feat/PronType#Rel) *quot* and [demonstrative](la-feat/PronType#Dem) *tot*. We note that a distributive form *quoteni* is attested (so one could also expect *quotenae varietates...*), while *toteni* is not, and this might have led to Dante's choice for reduplication.
+* the reduplication having [distributive](/la/feat/NumType.html#Dist) value here, applied to the indefinite quantity expressed by the correlated [relative](/la/feat/PronType.html#Rel) *quot* and [demonstrative](la/feat/PronType.html#Dem) *tot*. We note that a distributive form *quoteni* is attested (so one could also expect *quotenae varietates...*), while *toteni* is not, and this might have led to Dante's choice for reduplication.
 
 ~~~ sdparse
 [...] cum Propheta sanctissimo me me subsequenter hortabor subsequentia subassummens [...]
@@ -52,6 +52,6 @@ flat:redup(me-5, me-6)
 '... [I] shall take heart along with the most holy prophet, by making **my own** the words of his which follow...' (`Mon-196` [*De Monarchia* II i 5], UDante)
 
 * more literally '... together with the most holy prophet I will then encourage **myself**, adopting the following [words]...'
-* the reduplication having [emphatic](la-feat/Form#Emp) force here
+* the reduplication having [emphatic](la/feat/Form.html#Emp) force here
 
 
