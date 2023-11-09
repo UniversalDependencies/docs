@@ -5,7 +5,7 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The compound relation is used to analyze compounds, that is, combinations of lexemes that morphosyntactically behave as single words. Commonly occurring cases are:
+The `compound` relation is used to analyze compounds, that is, combinations of lexemes that morphosyntactically behave as single words. Commonly occurring cases are:
 
 - Nominal compounds written as separate words, for example English _<b>apple juice</b>_.
 - Particle verbs where the particle is realized as a separate word (which may alternate with affixed particles), for example Swedish _<b>byta ut</b>_ ('exchange'; cf. _<b>utbytt</b>_, 'exchanged'). The subtype [compound:prt]() is commonly used in this case.
