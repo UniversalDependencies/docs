@@ -27,37 +27,41 @@ Note that what is considered to be transparent linguistic syntax (as opposed to 
 (E.g., some treebanks might provide proper grammatical analyses in the presence of code-switching,
 or treat mathematical notation as following linguistic strategies like predication.)
 
+Some languages opt to subcategorize usages of `flat` [via subtypes](https://universaldependencies.org/ext-dep-index.html#flat).
+In particular, many treebanks use the `flat:name` and `flat:foreign` subtypes converted from the v1 relations `name` and `foreign`.
+The examples on this page simply use plain `flat`.
+
 ## Names
 
-A person’s name (or parts thereof) may lack the hallmarks of general constructions in the language, such that no single word can be identified as the head, in which case a flat structure applies. The subtyped relation [flat:name]() is recommended for flat names.
+A person’s name (or parts thereof) may lack the hallmarks of general constructions in the language, such that no single word can be identified as the head, in which case a flat structure applies.
 
 ~~~ sdparse
 Hillary Rodham Clinton
-flat:name(Hillary, Rodham)
-flat:name(Hillary, Clinton)
+flat(Hillary, Rodham)
+flat(Hillary, Clinton)
 ~~~
 
 Nesting is possible:
 
 ~~~ sdparse
 Mary Jane Tyler Smith
-flat:name(Mary, Jane)
-flat:name(Tyler, Smith)
-flat:name(Mary, Tyler)
+flat(Mary, Jane)
+flat(Tyler, Smith)
+flat(Mary, Tyler)
 ~~~
 
 On occasion, an expression with no clear head at the top level will have internal syntactic modifiers or punctuation:
 
 ~~~ sdparse
 Dwayne " The Rock " Johnson
-flat:name(Dwayne, Rock)
-flat:name(Dwayne, Johnson)
+flat(Dwayne, Rock)
+flat(Dwayne, Johnson)
 det(Rock, The)
 punct(Rock, "-2)
 punct(Rock, "-5)
 ~~~
 
-The scope of [flat:name]() may extend beyond names of persons to names of other kinds of entities that depart from general headed structure.
+The scope of `flat` may extend beyond names of persons to names of other kinds of entities that depart from general headed structure.
 The expressions under this category must be established by language-specific criteria.
 
 ### Flat vs. non-flat names
@@ -173,7 +177,7 @@ A name may combine flat and non-flat structure. In a Portuguese text, the surnam
 
 ~~~ sdparse
 Roberto Paulo da Silva
-flat:name(Roberto, Paulo)
+flat(Roberto, Paulo)
 nmod(Paulo, Silva)
 case(Silva, da)
 ~~~
@@ -185,8 +189,8 @@ when names like this are annotated in English, the appropriate analysis is as a 
 
 ~~~ sdparse
 Ludwig van Beethoven was a famous German composer .
-flat:name(Ludwig, van)
-flat:name(Ludwig, Beethoven)
+flat(Ludwig, van)
+flat(Ludwig, Beethoven)
 det(composer, a)
 amod(composer, famous)
 amod(composer, German)
@@ -197,14 +201,14 @@ punct(composer, .)
 
 ~~~ sdparse
 Río de la Plata
-flat:name(Río-1, de-2)
-flat:name(Río-1, la-3)
-flat:name(Río-1, Plata-4)
+flat(Río-1, de-2)
+flat(Río-1, la-3)
+flat(Río-1, Plata-4)
 ~~~
 
 ~~~ sdparse
 Al Arabiya is a Saudi-owned news organization
-flat:name(Al-1, Arabiya-2)
+flat(Al-1, Arabiya-2)
 nsubj(organization-7, Al-1)
 ~~~
 
@@ -213,7 +217,7 @@ and regularly appear without the given name. Again, here, the flat analysis seem
 
 ~~~ sdparse
 Von Hohenlohe gewann das Rennen . \n Von Hohenlohe won the race .
-flat:name(Von-1, Hohenlohe-2)
+flat(Von-1, Hohenlohe-2)
 nsubj(gewann-3, Von-1)
 ~~~
 
