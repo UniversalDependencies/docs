@@ -66,7 +66,7 @@ We now try to lay down some general principles that should guide the use of univ
 
 - [The primacy of content words](#the-primacy-of-content-words)
 - [The status of function words](#the-status-of-function-words), including multiword function words, coordinated function words, modifiers of function words, and promotion of function words
-- [The taxonomy of typed dependencies](#the-taxonomy-of-typed-dependencies): core vs. oblique, the combination of structure and function, clausal dependents, coordination, multiword expressions and headless structures, and special relations
+- [The taxonomy of typed dependencies](#the-taxonomy-of-typed-dependencies): core vs. oblique, the combination of structure and function, clausal dependents, coordination, lexical relations, multiword expressions and headless structures, and special relations
 
 ## The Primacy of Content Words
 
@@ -420,11 +420,11 @@ punct(took, ,-4)
 cc(went, and)
 ~~~
 
-## Lexical Relations
+### Lexical Relations
 
 UD provides the [compound]() relation for head-modifier combinations that morphosyntactically resemble single lexemes, e.g. _<b>apple juice</b>_ and _<b>work out</b>_. The criteria for [compound]() need to be established on a language-specific basis.
 
-## Multiword Expressions and Headless Structures
+### Multiword Expressions and Headless Structures
 
 Multiword expressions are combinations of words that (in some respect and to different degrees) behave as lexical units rather than compositional syntactic phrases, in particular by being semantically non-compositional. Since the UD annotation is concerned with morphosyntactic structure, most multiword expressions are not recognized as such in the UD annotation. The only exception is the class of fixed expressions like connective _<b>as well as</b>_ and reciprocal pronoun _<b>each other</b>_, which are completely frozen and (often) morphosyntactically irregular. As discussed [above](#multiword-function-words), such expressions are annotated using the [fixed]() relation to indicate that their internal structure is not regular and productive. Some other relations, such as [compound]() and [flat](), are often appropriate for expressions that also happen to be non-compositional, but they are defined by morphosyntactic criteria and not by non-compositionality or other properties characteristic of multiword expressions.
 
