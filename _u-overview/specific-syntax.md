@@ -7,7 +7,7 @@ udver: '2'
 
 # Other Constructions
 
-This section contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clauses, complex clauses, and nominal phrases.
+This section of the [syntax overview](syntax.html) contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clauses, complex clauses, and nominal phrases.
 
 * [Coordination](#coordination)
 * [Ellipsis](#ellipsis)
