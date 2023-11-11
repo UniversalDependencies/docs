@@ -284,24 +284,23 @@ is from Malayalam.
 
 UD provides the [compound]() relation for head-modifier combinations that morphosyntactically resemble single lexemes. The criteria for [compound]() need to be established on a language-specific basis.
 
-**Multiword expressions** are combinations of words that (in some respect and to different degrees) behave as lexical units rather than compositional syntactic phrases, in particular by being semantically non-compositional. Since the UD annotation is concerned with morphosyntactic structure, most multiword expressions are not recognized as such in the UD annotation. The only exception is the class of fixed expressions like _<b>by and large</b>_ and _<b>in spite of</b>_, which are completely frozen and (often) morphosyntactically irregular. Such expressions are annotated using the [fixed]() relation to indicate that their internal structure is not regular and productive. Some other relations, such as [compound]() and [flat](), are often appropriate for expressions that also happen to be non-compositional, but they are defined by morphosyntactic criteria and not by non-compositionality or other properties characteristic of multiword expressions.
+**Multiword expressions** are combinations of words that (in some respect and to different degrees) behave as lexical units rather than compositional syntactic phrases, in particular by being semantically non-compositional. Since the UD annotation is concerned with morphosyntactic structure, most multiword expressions are not recognized as such in the UD annotation. The only exception is the class of fixed expressions like _<b>by and large</b>_ and connective _<b>as well as</b>_, which are completely frozen and (often) morphosyntactically irregular. Such expressions are annotated using the [fixed]() relation to indicate that their internal structure is not regular and productive. Some other relations, such as [compound]() and [flat](), are often appropriate for expressions that also happen to be non-compositional, but they are defined by morphosyntactic criteria and not by non-compositionality or other properties characteristic of multiword expressions.
 
 Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are **headless** by definition and are consistently
 annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
 
 <div id="s8a" class="sd-parse">
-We had a nice time in spite of the rain .
-case(rain,in)
-fixed(in,spite)
-fixed(in,of)
-obl(had,rain)
+I like dogs as/ADV well/ADV as/ADP cats .
+fixed(as-4, well)
+fixed(as-4, as-6)
+cc(cats, as-4)
+conj(dogs, cats)
 </div>
 
 <div id="s8b" class="sd-parse">
-Martin Luther King had a dream .
-nsubj(had,Martin)
-flat(Martin,Luther)
-flat(Martin,King)
+Barack/PROPN Obama/PROPN won the election .
+nsubj(won,Barack)
+flat(Barack,Obama)
 </div>
 
 By contrast, [compounds](compound) are annotated to show their modification structure, including a regular concept of head:
