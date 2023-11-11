@@ -31,10 +31,11 @@ Individual languages may define more specific relations as subtypes of the unive
 A subtyped relation always starts with the basic type, followed by a colon and the subtype string.
 In general, subtypes are language-specific and optional. However, some subtypes are assumed to apply
 to many languages and they should be considered semi-mandatory: If the language has the phenomenon that
-the subtype focuses on, then the subtype should be used. Examples of subtypes that should be used this
-way include but are not limited to the following:
+the subtype focuses on, then the subtype should be used. The following subtypes currently have the
+semi-mandatory status:
 
 * [acl:relcl]() for relative adnominal clauses
+* [advcl:relcl]() for relative clauses whose antecedent is a clause
 * [aux:pass]() for the passive auxiliary
 * [csubj:outer]() for outer clausal subjects of predicates that are clauses
 * [csubj:pass]() for clausal subjects of passive clauses
