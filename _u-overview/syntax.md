@@ -62,7 +62,11 @@ The goal of the typed dependency relations is a set of broadly observed "univers
 
 <!-- This holds in particular for relations used to analyze multiword expressions, coordination and function words.-->
 
-We now try to lay down some general principles that should guide the use of universal dependencies to achieve as much parallelism as possible (but not more) across languages.
+We now try to lay down some general principles that should guide the use of universal dependencies to achieve as much parallelism as possible (but not more) across languages. These fall under three headings:
+
+- [The primacy of content words](#the-primacy-of-content-words)
+- [The status of function words](#the-status-of-function-words), including multiword function words, coordinated function words, modifiers of function words, and promotion of function words
+- [The taxonomy of typed dependencies](#the-taxonomy-of-typed-dependencies): core vs. oblique, the combination of structure and function, clausal dependents, coordination, multiword expressions, and special relations
 
 ## The Primacy of Content Words
 
