@@ -422,7 +422,7 @@ cc(went, and)
 
 ### Lexical Relations
 
-UD provides the [compound]() relation for head-modifier combinations that morphosyntactically resemble single lexemes, e.g. _<b>apple juice</b>_ and _<b>work out</b>_. The criteria for [compound]() need to be established on a language-specific basis.
+UD provides the [compound]() relation for head-modifier combinations that morphosyntactically resemble single lexemes, e.g. _<b>apple&nbsp;juice</b>_ and _<b>work&nbsp;out</b>_. The criteria for [compound]() need to be established on a language-specific basis.
 
 ### Multiword Expressions and Headless Structures
 
@@ -460,7 +460,7 @@ obj(bought, enclosure)
 ### Special Relations
 
 Besides core dependency relations, functional relations, and relations for analyzing coordination and headless structures,
-the UD [taxonomy](/u/dep/) includes a number of special relations for handling things like punctuation ([u-dep/punct]()), orthographic errors in text ([u-dep/goeswith]()), disfluencies in speech (([u-dep/reparandum]()), and list structures without internal syntactic structure ([u-dep/list]()).
+the UD [taxonomy](/u/dep/) includes a number of special relations for handling things like punctuation ([u-dep/punct]()), orthographic errors in text ([u-dep/goeswith]()), disfluencies in speech ([u-dep/reparandum]()), and list structures without internal syntactic structure ([u-dep/list]()).
 
 <!--Some of the universal relations do not really encode syntactic dependency relations but are used to represent
 punctuation, various kinds of multiword units, or unanalyzable segments. The use of these relations is subject
