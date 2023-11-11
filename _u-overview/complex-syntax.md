@@ -1,11 +1,13 @@
 ---
 layout: base
-title:  'Basic Dependencies: Complex Clauses'
+title:  'Complex Clauses'
 permalink: u/overview/complex-syntax.html
 udver: '2'
 ---
 
 # Complex Clauses
+
+This section of the [syntax overview](syntax.html) is devoted to complex clauses, namely:
 
 * [Coordinated clauses](#coordination)
 * [Subordinate clauses](#subordination)
