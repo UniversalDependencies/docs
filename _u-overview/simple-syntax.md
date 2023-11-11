@@ -5,6 +5,8 @@ permalink: u/overview/simple-syntax.html
 udver: '2'
 ---
 
+This is a section of the [syntax overview](syntax.html) in the UD guidelines.
+
 # Simple Clauses
 
 The UD annotation assumes the clause as one of the basic structures that we expect to find in all languages. A simple clause minimally consists of a predicate together with its core argument dependents, but may be extended with oblique modifiers. Core arguments are typically nominals, while oblique modifiers are either (oblique) nominals or adverbial modifiers. (In [complex clauses](complex-syntax.html), both core arguments and oblique modifiers can also be realized as subordinate clauses.) Finally, the predicate may be associated with function words that express different types of grammatical information such as tense, mood, aspect, voice, evidentiality, or type of subordination.
