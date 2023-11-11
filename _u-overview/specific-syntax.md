@@ -11,7 +11,6 @@ This section of the [syntax overview](syntax.html) contains detailed discussion 
 
 * [Coordination](#coordination)
 * [Ellipsis](#ellipsis)
-* [Lexical relations, multiword expressions, headless structures](#lexical-relations-multiword-expressions-headless-structures)
 * [Comparative constructions](#comparatives)
 * [Paratactic constructions](#paratactic-constructions)
 * [Punctuation](#punctuation)
@@ -280,41 +279,6 @@ is from Malayalam.
 
 ~~~
 
-## Lexical Relations, Multiword Expressions, Headless Structures
-
-UD provides the [compound]() relation for head-modifier combinations that morphosyntactically resemble single lexemes. The criteria for [compound]() need to be established on a language-specific basis.
-
-**Multiword expressions** are combinations of words that (in some respect and to different degrees) behave as lexical units rather than compositional syntactic phrases, in particular by being semantically non-compositional. Since the UD annotation is concerned with morphosyntactic structure, most multiword expressions are not recognized as such in the UD annotation. The only exception is the class of fixed expressions like _<b>by and large</b>_ and connective _<b>as well as</b>_, which are completely frozen and (often) morphosyntactically irregular. Such expressions are annotated using the [fixed]() relation to indicate that their internal structure is not regular and productive. Some other relations, such as [compound]() and [flat](), are often appropriate for expressions that also happen to be non-compositional, but they are defined by morphosyntactic criteria and not by non-compositionality or other properties characteristic of multiword expressions.
-
-Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are **headless** by definition and are consistently
-annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
-
-<div id="s8a" class="sd-parse">
-I like dogs as/ADV well/ADV as/ADP cats .
-fixed(as-4, well)
-fixed(as-4, as-6)
-cc(cats, as-4)
-conj(dogs, cats)
-</div>
-
-<div id="s8b" class="sd-parse">
-Barack/PROPN Obama/PROPN won the election .
-nsubj(won,Barack)
-flat(Barack,Obama)
-</div>
-
-By contrast, [compounds](compound) are annotated to show their modification structure, including a regular concept of head:
-
-<div id="s9" class="sd-parse">
-I bought a computer disk drive enclosure .
-nsubj(bought, I)
-det(enclosure, a)
-compound(drive, computer)
-compound(drive, disk)
-compound(enclosure, drive)
-obj(bought, enclosure)
-</div>
-
 ## Comparatives
 
 The syntax of comparative constructions poses various challenges for linguistic theory.  For English, many of these are discussed in Bresnan (1973) and Huddleston and Pullum (2002, chapter 13). We give a discussion of equality comparisons (_That car is as big as mine_) and inequality scalar comparisons (_Sue is taller than Jim_).
@@ -491,7 +455,7 @@ case(talent, than)
 obl(important, talent)
 ~~~
 
-### _More than_ as a multi-word expression
+### _More than_ as a multiword expression
 
 In certain contexts the comparative complement combines both the action or adjective that is being compared
 and the quantity it is compared to:
@@ -500,7 +464,7 @@ and the quantity it is compared to:
 * _more than likely_
 * _Home prices have more than doubled in the past decade._
 
-In these cases we consider _more than_ to be a fixed multi-word expression because the two words are inseparable.
+In these cases we consider _more than_ to be a [fixed multiword expression](syntax.html##multiword-function-words) because the two words are inseparable.
 One cannot say _*more percent than 90._
 
 ~~~ sdparse
