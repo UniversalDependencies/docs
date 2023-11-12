@@ -52,15 +52,7 @@ root(-ROOT-,Αμφίβολη)
 nsubj(Αμφίβολη, συμμετοχή)
 ~~~
 
-Whenever the copula has a clausal argument, [ccomp]() is used, with the copula being the head.
-
-~~~ sdparse
-Αυτό που μας ενδιαφέρει είναι να μην κινδυνέψουν
-ccomp(είναι, κινδυνέψουν)
-nsubj(είναι, Αυτό)
-~~~
-
-Finally, the cop may mark a predicate clause, i.e., a full clause serving as the predicate within an outer copular clause. In such cases, [nsubj:outer]() or [csubj:outer]() can be used to distinguish the outer subject:
+[cop]() may mark a predicate clause, i.e., a full clause serving as the predicate within an outer copular clause. In such cases, [nsubj:outer]() or [csubj:outer]() can be used to distinguish the outer subject:
 
 ~~~ sdparse
 η πρώτη μου αντίδραση είναι να τους πω « καληνύχτα » και να πάω για ύπνο.
