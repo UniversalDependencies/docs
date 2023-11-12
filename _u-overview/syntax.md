@@ -237,7 +237,7 @@ advmod(every, not)
 
 <div id="s7b" class="sd-parse">
 exactly two papers
-det(papers, two)
+nummod(papers, two)
 advmod(two, exactly)
 </div>
 
