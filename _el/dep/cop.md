@@ -9,27 +9,27 @@ In copular clauses, the predicative acts as the head word of the clause, and the
 
 ~~~ sdparse
 Η ρευστότητα ήταν φλέγον ζήτημα .
-root(ζήτημα)
+root(-ROOT-,ζήτημα)
 nsubj(ζήτημα, ρευστότητα)
 cop(ζήτημα, ήταν)
 ~~~
 
 ~~~ sdparse
 Η ρευστότητα ήταν χαμηλή .
-root(χαμηλή)
+root(-ROOT-, χαμηλή)
 nsubj(χαμηλή, ρευστότητα)
 cop(χαμηλή, ήταν)
 ~~~
 
 ~~~ sdparse
 Ήταν από την Κρήτη .
-root(Κρήτη)
+root(-ROOT-,Κρήτη)
 cop(Κρήτη, Ήταν)
 ~~~
 
 ~~~ sdparse
 Ο Νίκος είναι πάνω .
-root(πάνω)
+root(-ROOT-,πάνω)
 nsubj(πάνω, Νίκος)
 cop(πάνω, είναι)
 ~~~
@@ -40,7 +40,7 @@ cop(πάνω, είναι)
 Φοβερό το γλυκό .
 terrific the cake
 `The cake is excellent.'
-root(φοβερό)
+root(-ROOT-,φοβερό)
 nsubj(Φοβερό, γλυκό)
 ~~~
 
@@ -48,7 +48,7 @@ nsubj(Φοβερό, γλυκό)
 Αμφίβολη η συμμετοχή της Γαλλίας .
 disputable the partcipation of.the France
 `The participation of France is disputable.'
-root(Αμφίβολη)
+root(-ROOT-,Αμφίβολη)
 nsubj(Αμφίβολη, συμμετοχή)
 ~~~
 
@@ -59,23 +59,21 @@ Whenever the copula has a clausal argument, [ccomp]() is used, with the copula b
 ccomp(είναι, κινδυνέψουν)
 nsubj(είναι, Αυτό)
 ~~~
-Finally, the cop may mark a predicate clause, i.e., a full clause serving as the predicate within an outer copular clause. In such cases, nsubj:outer or csubj:outer can be used to distinguish the outer subject:
 
--ROOT- The problem is that this has never been tried .
-nsubj:outer(tried, problem)
-cop(tried, is)
-mark(tried, that)
-nsubj:pass(tried, this)
-aux(tried, has)
-advmod(tried, never)
-aux:pass(tried, been)
-root(-ROOT-, tried)
+Finally, the cop may mark a predicate clause, i.e., a full clause serving as the predicate within an outer copular clause. In such cases, [nsubj:outer]() or [csubj:outer]() can be used to distinguish the outer subject:
 
-The important thing is to keep calm .
-nsubj:outer(keep, thing)
-cop(keep, is)
-mark(keep, to)
-xcomp(keep, calm)
+~~~ sdparse
+η πρώτη μου αντίδραση είναι να τους πω « καληνύχτα » και να πάω για ύπνο.
+root(-ROOT-, πω)
+nsubj:outer(πω, αντίδραση)
+cop(πω, είναι)
+mark(πω, να)
+ccomp(πω, καληνύχτα)
+conj(πω, πάω)
+~~~
+
+
+
 
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:41 CET -->
