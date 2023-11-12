@@ -59,5 +59,23 @@ Whenever the copula has a clausal argument, [ccomp]() is used, with the copula b
 ccomp(είναι, κινδυνέψουν)
 nsubj(είναι, Αυτό)
 ~~~
+Finally, the cop may mark a predicate clause, i.e., a full clause serving as the predicate within an outer copular clause. In such cases, nsubj:outer or csubj:outer can be used to distinguish the outer subject:
+
+-ROOT- The problem is that this has never been tried .
+nsubj:outer(tried, problem)
+cop(tried, is)
+mark(tried, that)
+nsubj:pass(tried, this)
+aux(tried, has)
+advmod(tried, never)
+aux:pass(tried, been)
+root(-ROOT-, tried)
+
+The important thing is to keep calm .
+nsubj:outer(keep, thing)
+cop(keep, is)
+mark(keep, to)
+xcomp(keep, calm)
+
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:41 CET -->
