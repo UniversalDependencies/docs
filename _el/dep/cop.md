@@ -34,7 +34,7 @@ nsubj(πάνω, Νίκος)
 cop(πάνω, είναι)
 ~~~
 
-Ιn Modern Greek copular sentences, often in informal discourse or headlines, where deletion of *είμαι*  may occur.
+Ιn Modern Greek  informal discourse or headlines copular sentences may occur without (the proper form of) *είμαι*.
 
 ~~~ sdparse
 Φοβερό το γλυκό .
@@ -64,7 +64,7 @@ ccomp(πω, καληνύχτα)
 conj(πω, πάω)
 ~~~
 
-In equational structures it is often difficult to select the root among the members of the pair. As a rule of thumb, the following hierachcy is proposed: ADJ > NOUN > PROPN.
+In equational structures it is sometimes unclear which member of the pair should be assigned the [root]() dependency. As a rule of thumb, the following hierachcy is proposed: ADJ > NOUN > PROPN.
 
 ~~~ sdparse
 To μόνο που θέλω είναι η ώρα: 
