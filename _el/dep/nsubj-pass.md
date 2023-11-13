@@ -15,7 +15,7 @@ nsubjpass(Περιορίστηκε, μετάδοση)
 
 Notice that the `nsubj` relation is used for the subjects of
 
-- reflexive and reciprocal constructions which use the mediopassive form of the verb; no prepositional phrase introduced with the adposition *από* can depend on this form of the verb expressing a proto-agent.
+- Reflexive and reciprocal constructions, which use the mediopassive form of the verb. These verbs have an active form but in the particular, morphologically mediopassive structures, no prepositional phrase introduced with the adposition *από* can be linked to the verb form in order to express a proto-agent.
 
 ~~~ sdparse
 η Νίκη ετοιμάστηκε για το πάρτι
@@ -27,7 +27,7 @@ nsubj(ετοιμάστηκε, Νίκη)
 nsubj(αγκαλιάστηκε, ζευγάρι)
 ~~~
 
-- deponent verbs (verbs that are active in meaning/mood but have  the mediopassive form only); no prepositional phrase introduced with the adposition *από* can depend on this form of the verb expressing a proto-agent.
+- Deponent verbs, which are active in meaning/mood but have  the mediopassive form only and lack an active form. No prepositional phrase introduced with the adposition *από* can depend on this form of the verb expressing a proto-agent.
 
 ~~~ sdparse
 το παιδί κοιμάται στην κούνια του
@@ -39,4 +39,5 @@ nsubj(κοιμάται, παιδί)
 nsubj(Έρχεται, Γιάννης)
 ~~~
 
+ 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:11 CET -->
