@@ -25,6 +25,21 @@ punct(απόφαση, -)
 compound(λέξης, κλειδί)
 ~~~
 
+- For combinations with the forms *γερο* and *παπα* as a first member and a PROPN or a NOUN as a second one; these combinations may be spelled with or without an '_'. The overall construct is "visible" with the PoS of the head of the compound  and this is the reason why the [flat]() dependency was not preferred because the construct would be visible with the PoS of the first member. Another reason is that these combinations may be spelled as one word, e.g., *γεροναύτης* 'old sailor', in which case they are assigned the PoS of the head of the compound.
+
+~~~ sdparse
+ο γερο-Αρτέμης
+compound(Αρτέμης, _)
+compound(Αρτέμης, γέρο)
+det(Αρτέμης, ο)
+~~~
+
+~~~ sdparse
+ο γερο Μαθιός
+compound(Μαθιός, γέρο)
+det(Μαθιός, ο)
+~~~
+
 
 
 - For combinations of numbers:
