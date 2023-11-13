@@ -64,8 +64,24 @@ ccomp(πω, καληνύχτα)
 conj(πω, πάω)
 ~~~
 
+In equational structures it is often difficult to select the root among the members of the pair. As a rule of thumb, the following is proposed hierachcy: ADJ > NOUN > PROPN.
+
+~~~ sdparse
+To μόνο που θέλω είναι η ώρα: 
+root(-ROOT-, μόνο)
+nsubj(μόνο, ώρα)
+~~~
 
 
+~~~ sdparse
+Το παιδί που αγαπάω είναι ο Γιώργος.
+root(-ROOT-, παιδί)
+nsubj(παιδί, Γιώργος)
+~~~
+
+
+
+  
 
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:41 CET -->
