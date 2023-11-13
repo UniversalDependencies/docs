@@ -151,10 +151,11 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Check the issues of the docs repository on Github, close the ones that have been solved, and create a new milestone for the others.
 * Generate Deep UD based on the new UD release.
 
-<small><code style='color:lightgrey'>
-\# Copy metadata to biblio.<br /><br />
-\# Check that Treex knows all new language codes (the script will say what to do if not).
-\# Then copy the new release from Dan's workspace to /net/data/universal-dependencies-2.xx.
+<div style="color:lightgrey; font-size:smaller">
+<pre>
+# Copy metadata to biblio.<br /><br />
+# Check that Treex knows all new language codes (the script will say what to do if not).
+# Then copy the new release from Dan's workspace to /net/data/universal-dependencies-2.xx.
 $HAMLEDT/release_ud_ufal.pl --release 2.13<br /><br /><!--# or<br /><br />
 rel="2.13"<br />
 path=$(pwd)<br />
@@ -164,5 +165,6 @@ mv ud-treebanks-v$rel universal-dependencies-$rel<br />
 cd $HAMLEDT<br />--
 perl ./populate_ud.pl 2.13<br />
 cd normalize ; make qpmltq<br />
-\# Follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt).<br />
-</code></small>
+# Follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt).<br />
+</pre>
+</div>
