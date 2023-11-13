@@ -54,7 +54,7 @@ nsubj(Αμφίβολη, συμμετοχή)
 
 [cop]() may mark a predicate clause, i.e., a full clause serving as the predicate within an outer copular clause. In such cases, [nsubj:outer]() or [csubj:outer]() can be used to distinguish the outer subject:
 
-~~~ sdparse
+~~~ conllu
 η πρώτη μου αντίδραση είναι να τους πω « καληνύχτα » και να πάω για ύπνο.
 root(-ROOT-, πω)
 nsubj:outer(πω, αντίδραση)
@@ -64,7 +64,7 @@ ccomp(πω, καληνύχτα)
 conj(πω, πάω)
 ~~~
 
-In equational structures it is often difficult to select the root among the members of the pair. As a rule of thumb, the following is proposed hierachcy: ADJ > NOUN > PROPN.
+In equational structures it is often difficult to select the root among the members of the pair. As a rule of thumb, the following hierachcy is proposed: ADJ > NOUN > PROPN.
 
 ~~~ sdparse
 To μόνο που θέλω είναι η ώρα: 
