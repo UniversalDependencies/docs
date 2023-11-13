@@ -153,18 +153,16 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 <div style="color:lightgrey; font-size:smaller">
 <pre>
-# Copy metadata to biblio.<br /><br />
+# Copy metadata to biblio.
+
 # Check that Treex knows all new language codes (the script will say what to do if not).
 # Then copy the new release from Dan's workspace to /net/data/universal-dependencies-2.xx.
-$HAMLEDT/release_ud_ufal.pl --release 2.13<br /><br /><!--# or<br /><br />
-rel="2.13"<br />
-path=$(pwd)<br />
-cd /net/data<br />
-tar xzf $path/release-$rel/ud-treebanks-v$rel.tgz<br />
-mv ud-treebanks-v$rel universal-dependencies-$rel<br />
-cd $HAMLEDT<br />--
-perl ./populate_ud.pl 2.13<br />
-cd normalize ; make qpmltq<br />
-# Follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt).<br />
+$HAMLEDT/release_ud_ufal.pl --release 2.13
+
+# Import the data to PML-TQ.
+cd $HAMLEDT
+perl ./populate_ud.pl 2.13
+cd normalize ; make qpmltq
+# Follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt).
 </pre>
 </div>
