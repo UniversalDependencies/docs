@@ -20,7 +20,7 @@ fixed(τσίμα -1-, τσίμα -2-)
 - Other forms, e.g. *καλού-κακού* Lit. *of good-of bad* 'just to make sure'
 
 ~~~ sdparse
-τσίμα τσίμα
+καλού-κακού
 fixed(καλού -1-, - -2-)
 fixed(καλού -1-, τσίμα -3-)
 ~~~
