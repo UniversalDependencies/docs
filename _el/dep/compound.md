@@ -7,7 +7,7 @@ udver: '2'
 
 We use the `compound` relation for
 
-- the few noun noun compounds of Modern Greek:
+- The NOUN-NOUN compounds of Modern Greek (they may be spelled with or without an '_'):
 
 ~~~ sdparse
 κράτος μέλος
@@ -25,9 +25,9 @@ punct(απόφαση, -)
 compound(λέξης, κλειδί)
 ~~~
 
-- for adjective-noun or noun-noun combinations with the adjective is something like like γερο, and the first noun like παπα; these combinations may o
 
-- for combinations of numbers:
+
+- For combinations of numbers:
 
 ~~~ sdparse
 Είκοσι χιλιάδες λεύγες
