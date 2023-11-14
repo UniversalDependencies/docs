@@ -11,7 +11,7 @@ adjunct. This means that it functionally corresponds to an adverbial attaching t
 The [obl]() relation can be further specified by the case. In conjunction with the [case]() relation, it provides a uniform
 analysis for:
 
-- verbs selecting an obligatory prepositional complement:
+- Verbs selecting an obligatory prepositional complement:
 
 ~~~ sdparse
 Οι Έλληνες πολέμησαν με τους Πέρσες σε τον Μαραθώνα. 
@@ -20,7 +20,7 @@ case(Έλληνες, με)
 nsubj(πολέμησαν, Έλληνες)
 ~~~
 
-- the dative alternation where the prepositional construction gets a similar analysis to the double object construction:
+- The dative alternation where the prepositional construction gets a similar analysis to the double object construction:
 
 ~~~ sdparse
 έδωσε του μωρού γάλα
@@ -35,7 +35,7 @@ obl(έδωσε, μωρό)
 case(μωρό, σε)
 ~~~
 
-Modern Greek has the so-called Dative Genitive that is assigned the dependency [obl](). 
+- Modern Greek has the so-called Dative Genitive that is assigned the dependency [obl](). 
 
 ~~~ sdparse
 Της Ελένης της βάφτισε το παιδί. 
@@ -52,7 +52,7 @@ obj(βάφτισε, παιδί)
 
 
 `
-[obl]() is also used for temporal and locational nominal modifiers:
+- [obl]() is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
 Οι Έλληνες πολέμησαν με τους Πέρσες σε τον Μαραθώνα.
@@ -63,7 +63,7 @@ obl(πολέμησαν, Μαραθώνα)
 case(Μαραθώνα, σε)
 ~~~
 
-and for the agent of a passive verb (with the optional subtype obl:agent):
+- The agent of a passive verb (with the optional subtype obl:agent):
 
 ~~~ sdparse
 Ο Καίσαρας δολοφονήθηκε από τον Βρούτο.
