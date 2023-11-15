@@ -27,6 +27,7 @@ Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμα�
 -	Auxiliary use of *είμαι*: *το τριαντάφυλο είναι  λουλούδι"* / *to triantafilo ine louloudi* "a rose is a flower", *ο Αλέξανδρος είναι ψηλός* / *o Alexandros ine psilos* "Alexandros is tall", *το γράμμα είναι γραμμένο με σκούρο μελάνι* / *to grama ine grameno me skouro melani* "the letter has been written with dark ink"
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful."
 -	Auxiliary use of *ας*¨*Καλύτερα ας έχουμε το κεφάλι μας ήσυχο."
--	
+
+
 ### References
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->
