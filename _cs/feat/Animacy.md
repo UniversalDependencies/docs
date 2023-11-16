@@ -36,7 +36,7 @@ and determiners; plural nominative is also projected to predicative participles
 <tr><td><tt>Sing Dat &nbsp;</tt></td><td><i>tomuto silnému pán<span style="color:red">ovi</span>/pánu</i></td><td><i>tomuto silnému vozu</i></td></tr>
 <tr><td><tt>Sing Acc &nbsp;</tt></td><td><i>t<span style="color:red">oho</span>to siln<span style="color:red">ého</span> pán<span style="color:red">a</span></i></td><td><i>t<span style="color:red">en</span>to siln<span style="color:red">ý</span> vůz</i></td></tr>
 <tr><td><tt>Sing Voc &nbsp;</tt></td><td><i>silný pane</i></td><td><i>silný voze</i></td></tr>
-<tr><td><tt>Sing Loc &nbsp;</tt></td><td><i>tomto silném pán<span style="color:red">ovi</span>/pánu</i></td><td><i>tomto silném vozu</i></td></tr>
+<tr><td><tt>Sing Loc &nbsp;</tt></td><td><i>tomto silném pán<span style="color:red">ovi</span>/pánu</i></td><td><i>tomto silném vozu/voz<span style="color:red">e</span></i></td></tr>
 <tr><td><tt>Sing Ins &nbsp;</tt></td><td><i>tímto silným pánem</i></td><td><i>tímto silným vozem</i></td></tr>
 <tr><td><tt>Plur Nom &nbsp;</tt></td><td><i>t<span style="color:red">i</span>to siln<span style="color:red">í</span> pán<span style="color:red">ové</span>/pán<span style="color:red">i</span></i></td><td><i>t<span style="color:red">y</span>to siln<span style="color:red">é</span> voz<span style="color:red">y</span></i></td></tr>
 <tr><td><tt>Plur Gen &nbsp;</tt></td><td><i>těchto silných pánů</i></td><td><i>těchto silných vozů</i></td></tr>
