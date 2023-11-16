@@ -31,20 +31,20 @@ and determiners; plural nominative is also projected to predicative participles
 <table>
 <tr><td></td><td><tt>Masc Anim</tt></td><td><tt>Masc Inan</tt></td></tr>
 <tr><td></td><td>“this strong gentleman”</td><td>“this strong car”</td></tr>
-<tr><td><tt>Sing Nom &nbsp;</tt></td><td>tento silný pán</td><td>tento silný vůz</td></tr>
-<tr><td><tt>Sing Gen &nbsp;</tt></td><td>tohoto silného pán<span style="color:red">a</span></td><td>tohoto silného voz<span style="color:red">u</span></td></tr>
-<tr><td><tt>Sing Dat &nbsp;</tt></td><td>tomuto silnému pán<span style="color:red">ovi</span>/pánu</td><td>tomuto silnému vozu</td></tr>
-<tr><td><tt>Sing Acc &nbsp;</tt></td><td>t<span style="color:red">oho</span>to siln<span style="color:red">ého</span> pán<span style="color:red">a</span></td><td>t<span style="color:red">en</span>to siln<span style="color:red">ý</span> vůz</td></tr>
-<tr><td><tt>Sing Voc &nbsp;</tt></td><td>silný pane</td><td>silný voze</td></tr>
-<tr><td><tt>Sing Loc &nbsp;</tt></td><td>tomto silném pán<span style="color:red">ovi</span>/pánu</td><td>tomto silném vozu</td></tr>
-<tr><td><tt>Sing Ins &nbsp;</tt></td><td>tímto silným pánem</td><td>tímto silným vozem</td></tr>
-<tr><td><tt>Plur Nom &nbsp;</tt></td><td>t<span style="color:red">i</span>to siln<span style="color:red">í</span> pán<span style="color:red">ové</span>/pán<span style="color:red">i</span></td><td>t<span style="color:red">y</span>to siln<span style="color:red">é</span> voz<span style="color:red">y</span></td></tr>
-<tr><td><tt>Plur Gen &nbsp;</tt></td><td>těchto silných pánů</td><td>těchto silných vozů</td></tr>
-<tr><td><tt>Plur Dat &nbsp;</tt></td><td>těmto silným pánům</td><td>těmto silným vozům</td></tr>
-<tr><td><tt>Plur Acc &nbsp;</tt></td><td>tyto silné pány</td><td>tyto silné vozy</td></tr>
-<tr><td><tt>Plur Voc &nbsp;</tt></td><td>siln<span style="color:red">í</span> pán<span style="color:red">ové</span>/pán<span style="color:red">i</span></td><td>siln<span style="color:red">é</span> voz<span style="color:red">y</span></td></tr>
-<tr><td><tt>Plur Loc &nbsp;</tt></td><td>těchto silných pánech</td><td>těchto silných vozech</td></tr>
-<tr><td><tt>Plur Ins &nbsp;</tt></td><td>těmito silnými pány</td><td>těmito silnými vozy</td></tr>
+<tr><td><tt>Sing Nom &nbsp;</tt></td><td><i>tento silný pán</i></td><td><i>tento silný vůz</i></td></tr>
+<tr><td><tt>Sing Gen &nbsp;</tt></td><td><i>tohoto silného pán<span style="color:red">a</span></i></td><td><i>tohoto silného voz<span style="color:red">u</span></i></td></tr>
+<tr><td><tt>Sing Dat &nbsp;</tt></td><td><i>tomuto silnému pán<span style="color:red">ovi</span>/pánu</i></td><td><i>tomuto silnému vozu</i></td></tr>
+<tr><td><tt>Sing Acc &nbsp;</tt></td><td><i>t<span style="color:red">oho</span>to siln<span style="color:red">ého</span> pán<span style="color:red">a</span></i></td><td><i>t<span style="color:red">en</span>to siln<span style="color:red">ý</span> vůz</i></td></tr>
+<tr><td><tt>Sing Voc &nbsp;</tt></td><td><i>silný pane</i></td><td><i>silný voze</i></td></tr>
+<tr><td><tt>Sing Loc &nbsp;</tt></td><td><i>tomto silném pán<span style="color:red">ovi</span>/pánu</i></td><td><i>tomto silném vozu</i></td></tr>
+<tr><td><tt>Sing Ins &nbsp;</tt></td><td><i>tímto silným pánem</i></td><td><i>tímto silným vozem</i></td></tr>
+<tr><td><tt>Plur Nom &nbsp;</tt></td><td><i>t<span style="color:red">i</span>to siln<span style="color:red">í</span> pán<span style="color:red">ové</span>/pán<span style="color:red">i</span></i></td><td><i>t<span style="color:red">y</span>to siln<span style="color:red">é</span> voz<span style="color:red">y</span></i></td></tr>
+<tr><td><tt>Plur Gen &nbsp;</tt></td><td><i>těchto silných pánů</i></td><td><i>těchto silných vozů</i></td></tr>
+<tr><td><tt>Plur Dat &nbsp;</tt></td><td><i>těmto silným pánům</i></td><td><i>těmto silným vozům</i></td></tr>
+<tr><td><tt>Plur Acc &nbsp;</tt></td><td><i>tyto silné pány</i></td><td><i>tyto silné vozy</i></td></tr>
+<tr><td><tt>Plur Voc &nbsp;</tt></td><td><i>siln<span style="color:red">í</span> pán<span style="color:red">ové</span>/pán<span style="color:red">i</span></i></td><td><i>siln<span style="color:red">é</span> voz<span style="color:red">y</span></i></td></tr>
+<tr><td><tt>Plur Loc &nbsp;</tt></td><td><i>těchto silných pánech</i></td><td><i>těchto silných vozech</i></td></tr>
+<tr><td><tt>Plur Ins &nbsp;</tt></td><td><i>těmito silnými pány</i></td><td><i>těmito silnými vozy</i></td></tr>
 </table>
 
 ### <a name="Anim">`Anim`</a>: animate
