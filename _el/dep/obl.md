@@ -35,6 +35,18 @@ obl(έδωσε, μωρό)
 case(μωρό, σε)
 ~~~
 
+~~~ sdparse
+δόθηκε γάλα σε το μωρό
+nusbj:pass(δόθηκε, γάλα)
+obl(δόθηκε, μωρό)
+case(μωρό, σε)
+~~~
+
+~~~ sdparse
+του δόθηκε γάλα
+nusbj:pass(δόθηκε, γάλα)
+obl(δόθηκε, του)
+~~~
 - Modern Greek has the so-called Dative Genitive that is assigned the dependency [obl](). 
 
 ~~~ sdparse
