@@ -14,6 +14,7 @@ udver: '2'
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Tot">Tot</a></td>
   <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Ind">Ind</a></td>
   
 </tr>
 </table>
@@ -59,6 +60,13 @@ Tot (total) refers to .
 ### <a name="Dem">`Dem`</a>: Prs
 
 Dem (Demonstrative) refers to .
+
+
+#### Example
+
+### <a name="Ind">`Ind`</a>: Prs
+
+Ind (Indefinite) refers to .
 
 
 #### Example
