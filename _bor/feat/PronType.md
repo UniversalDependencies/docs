@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Int">Int</a></td>
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Dem">Dem</a></td>
   
 </tr>
 </table>
@@ -51,6 +52,13 @@ Rcp (reciprocal) refers to .
 ### <a name="Tot">`Tot`</a>: Prs
 
 Tot (total) refers to .
+
+
+#### Example
+
+### <a name="Dem">`Dem`</a>: Prs
+
+Dem (Demonstrative) refers to .
 
 
 #### Example
