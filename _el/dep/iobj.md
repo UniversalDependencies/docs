@@ -7,8 +7,7 @@ udver: '2'
 
 The indirect object of a verb is any nominal structure that is a core
 argument of the verb but is not its subject or [direct object](obj).
-The prototypical example is the recipient of ditransitive verbs of exchange,
-that is often realized as a nominal element preceded by a σε-preposition.
+The prototypical example is the recipient of ditransitive verbs of exchange.
 
 ~~~ sdparse
 Έδωσε της Άννας αύξηση
@@ -17,19 +16,12 @@ obj(Έδωσε, αύξηση)
 ~~~
 
 ~~~ sdparse
-Έδωσε σε όλους αύξηση
-case(όλους, σε)
-iobj(Έδωσε, όλους)
-obj(Έδωσε, αύξηση)
-~~~
-
-~~~ sdparse
 Έδωσε στην Άννα αύξηση
-iobj(Έδωσε, Άννα)
+obl(Έδωσε, Άννα)
 obj(Έδωσε, αύξηση)
 ~~~
 
-Benefactives and source semantic roles are also marked as indirect objects. Recipient and source roles can be realized as nominal elements preceded by για- and από- prepositions.
+Source semantic roles are also marked as indirect objects. Recipient and source roles can be realized as nominal elements preceded by για- and από- prepositions.
 
 ~~~ sdparse
 Έφτιαξε της Λίλας φακές
@@ -45,7 +37,7 @@ obj(Πήραν, χιλιάρικα)
 
 ~~~ sdparse
 Πήραν από τον Νίκο δύο χιλιάρικα
-iobj(Πήραν, Νίκο)
+obl(Πήραν, Νίκο)
 obj(Πήραν, χιλιάρικα)
 ~~~
 
