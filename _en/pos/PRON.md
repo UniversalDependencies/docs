@@ -49,7 +49,7 @@ These are either [PronType]()=`Int` (interrogative) or [PronType]()=`Rel` (relat
 
 WH | Plain | -ever | Possessive 
 -- | -- | -- | -- 
-wh.anim | who, whom (WP) | whoever, whomever (WP) | whose (WP$) 
+wh.anim | who, whom (WP) | whoever, _whosoever_, whomever (WP) | whose (WP$) 
 wh.inanim | what, _wtf_ (WP) | whatever (WP) | whose (WP$) 
 wh.det | which (WDT) | whichever (WDT) |   
 
@@ -57,13 +57,13 @@ Relative *that* is also considered a PRON in UD (XPOS WDT).
 
 The table shows only PRON forms. Note that *what*, *whatever*, and *which* are tagged [DET]() when functioning as [det]() (WDT).
 
-The variant _wtf_ receives `Style=Expr`.
+The variant _wtf_ receives `Style=Expr`. The variant _whosoever_ receives `Style=Form`.
 
 TODO: *whatever* is sometimes DET+WDT even when not [det]()
 
 TODO: tag *whom(ever)* for case; lemmatize *whom* as *who* and *whomever* as *whoever*
 
-TODO: add Case=Gen for *whose*
+TODO: add Poss=Yes and possibly Case=Gen for *whose*. Do we want to distinguish dependent (Case=Gen) and independent uses? Unlike *what*, *whatever*, *which*, all *whose* instances are currently tagged PRON.
 
 TODO: exclamative *what* is PRON+WDT?
 
