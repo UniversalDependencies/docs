@@ -59,6 +59,8 @@ The table shows only PRON forms. Note that *what*, *whatever*, and *which* are t
 
 The variant _wtf_ receives `Style=Expr`. The variant _whosoever_ receives `Style=Form`.
 
+TODO: "no/any N whatsoever": *whatsoever* is currently ADV in EWT but maybe PRON is better. Unlike _whosoever_, this use of _whatsoever_ is not formal; maybe `Style=Expr` or even `PronType=Emp`.
+
 TODO: *whatever* is sometimes DET+WDT even when not [det]()
 
 TODO: tag *whom(ever)* for case; lemmatize *whom* as *who* and *whomever* as *whoever*
