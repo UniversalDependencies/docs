@@ -20,8 +20,8 @@ dictionaries and grammars.
 
 ### Examples
 
-- _büyük_ "big"
-- _eski_ "old"
-- _yeşil_ "green"
+- _чоң_ "big"
+- _эски_ "old"
+- _жашыл_ "green"
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:20 CET -->
