@@ -107,7 +107,7 @@ Bororo has no copula an no auxiliary verbs.
 ## Syntax
 
 Bororo is an ergative language. S, A, and O are marked by the same set of bound indexes. But the construction where S and O appear are the same, i.e, they attach to the predicate.
-A is always marked by a bound index which carries TMA and negation markers. 
+A is always marked by a bound index which carries TMA and negation markers, detached from the predicate. 
 
 ```
 Imaragodyre
@@ -128,6 +128,13 @@ The jaguar killed them
 adygore ewido
 adygo=re e=bito
 jaguar=IND 3.PL=kill
+The jaguar killed them
+```
+
+```
+Ure ewido
+u=re e=bito
+3.SG=IND 3.PL=kill
 The jaguar killed them
 ```
 
