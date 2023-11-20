@@ -11,8 +11,8 @@ udver: '2'
 
 * Bororo uses all 18 [UPOS](https://universaldependencies.org/u/pos/index.html).
 * Tokenization and semgmentatoin in Bororo is straightforward. There are no multiwords that require spaces or dashes.
-* In general, words are delimited by whitespace characters. .
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words).
+* Words are delimited by whitespace characters. .
+* According to typographical rules, many punctuation marks are attached to a neighboring word. These are tokenized as separate tokens (words).
 
 Mapping UPOS to XPOS Akuntsú
 
@@ -138,6 +138,8 @@ There is a clear preference for subordinate clauses to precede main clauses, alt
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
+* Nonverbal predication distinguish the following semantic types:
 
 ---
 
