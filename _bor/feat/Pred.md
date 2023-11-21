@@ -18,11 +18,11 @@ udver: '2'
 
 ### <a name="AtrEq">`AtrEq`</a>: AtrEq
 
-The  
+The equative predicate is marked in Bororo by the copula _rema_.
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” 
+* _<b>Ikure nowu uva kuru rema</b>&nbsp;_ “This wine is my blood” 
 
 
 
