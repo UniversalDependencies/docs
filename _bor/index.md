@@ -11,8 +11,8 @@ udver: '2'
 
 * Bororo uses all 18 [UPOS](https://universaldependencies.org/u/pos/index.html).
 * Tokenization and semgmentatoin in Bororo is straightforward. There are no multiwords that require spaces or dashes.
-* In general, words are delimited by whitespace characters. .
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words).
+* Words are delimited by whitespace characters. .
+* According to typographical rules, many punctuation marks are attached to a neighboring word. These are tokenized as separate tokens (words).
 
 Mapping UPOS to XPOS Akuntsú
 
@@ -45,7 +45,7 @@ Mapping UPOS to XPOS Akuntsú
 
 #### Gender
 
-The `gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender. Inanimate nouns are genderless but morphologically they follow the masculine pattern. Based on natural gender, some nouns may be marked as feminine.
+The `gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender or the word 'female,woman'. Inanimate nouns are genderless but morphologically they follow the masculine pattern. Based on natural gender, some nouns may be marked as feminine. Modifiers may take gender mark (agreement) only in the feminine singular.
 
 #### Number
 
@@ -86,6 +86,7 @@ Your axe
 ```
 
 
+
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
@@ -105,26 +106,47 @@ Bororo has no copula an no auxiliary verbs.
 
 ## Syntax
 
-Bororo is of neutral alignmnt type. S, A, and O are marked by the same set of bound indexes.
-The only argument of an intransitive verb (S) is marked by agreement on the verb: 
+Bororo is an ergative language. S, A, and O are marked by the same set of bound indexes. But the construction where S and O appear are the same, i.e, they attach to the predicate.
+A is always marked by a bound index which carries TMA and negation markers, detached from the predicate. 
 
 ```
-Imaragodure
-i-maragodu=re
+Imaragodyre
+i-maragody=re
 1SG-work=ASS
 ```
 
-The A argument of transitive verbs is indexed on the mood or aspectul marker, and the O argumend is bound to verb. 
+The A argument of transitive verbs is indexed on the mood or aspect marker, and the O argumend is bound to verb. 
 
 ```
-adugore emage ewido
-adugo=re e-mage e=bito
+adygore emage ewido
+adygo=re emage e=bito
 jaguar=IND they 3.PL=kill
 The jaguar killed them
 ```
 
+```
+adygore ewido
+adygo=re e=bito
+jaguar=IND 3.PL=kill
+The jaguar killed them
+```
+
+```
+Ure ewido
+u=re e=bito
+3.SG=IND 3.PL=kill
+The jaguar killed them
+```
+
+In transitive clauses, nothing may intervene between the A argument and the O-predicate slot. Adjuncts follow the predicate and if they are fronted, the are morphologically marked.
+
+There is a clear preference for subordinate clauses to precede main clauses, although this is not obbligatory.
+
+
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
+* Nonverbal predication distinguish the following semantic types:
 
 ---
 
