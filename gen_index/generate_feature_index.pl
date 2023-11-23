@@ -2,7 +2,7 @@
 # Generates index to Universal Features from possibly all alternative names of features and their
 # values (listed directly in the source code below). The output must be manually pasted to the
 # appropriate place in the file ../_includes/u-feat-table.html.
-# Copyright © 2016-2022 Dan Zeman <zeman@ufal.mff.cuni.cz>
+# Copyright © 2016-2023 Dan Zeman <zeman@ufal.mff.cuni.cz>
 # License: GNU GPL
 
 use utf8;
@@ -26,6 +26,8 @@ Case: case, nominative, direct case, accusative, oblique case, absolutive, ergat
 Clusivity: clusivity, inclusive, exclusive
 Definite: definiteness, indefinite, non-specific indefinite, specific indefinite, definite, construct state, reduced definiteness, complex definiteness
 Degree: degree of comparison, positive degree, equative degree, comparative degree, superlative degree, absolute superlative, diminutive, augmentative
+Deixis: deixis, proximate, medial, distal, remote, not visible, above, even, below
+DeixisRef: deixis reference person
 Evident: evidentiality, firsthand, non-firsthand, narrative
 Foreign: foreign word
 Gender: gender, masculine, feminine, neuter, uter, common gender
