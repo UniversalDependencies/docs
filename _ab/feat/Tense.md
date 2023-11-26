@@ -45,12 +45,6 @@ The feature marks the tense of the verb.
 
 * [ab] _иҟалаз_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=PastIndef`
 
-### <a name="Perf">`Perf`</a>: Perfect
-
-#### Examples
-
-* [ab] _сгылац_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Perf`
-
 ### <a name="Pqp">`Pqp`</a>: Plusquamperfect
 
 #### Examples
