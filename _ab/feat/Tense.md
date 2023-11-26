@@ -15,7 +15,7 @@ The feature marks the tense of the verb.
 
 * [ab] _р-чпа-<b>уа</b>_ [3Pl.ERG-do-<b>IPF</b>] ‘they are making’ `Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=NonFin`
 
-### <a name="Fut1">`Fut1`</a>: Future 1
+### <a name="Fut">`Fut`</a>: Future 1
 
 #### Examples
 
@@ -27,11 +27,11 @@ The feature marks the tense of the verb.
 
 * [ab] _и-р-фа-ша_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Fut2`
 
-### <a name="Past">`Past`</a>: Past of static verbs or Preterite of dynamic verbs
+### <a name="Past">`Past`</a>: Past of static verbs or Past Indefinite of dynamic verbs
 
 #### Examples
 
-* [ab] _сцон_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Fut2`
+* [ab] _сцан_ [-go-] ‘they will eat it’ `Tense=Past`
 
 ### <a name="Aor">`Aor`</a>: Aorist
 
@@ -39,7 +39,7 @@ The feature marks the tense of the verb.
 
 * [ab] _иҳәеит_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Aor`
 
-### <a name="PastIndef">`PastIndef`</a>: Past Indefinite
+### <a name="PastIndef">`Imp`</a>: Imperfect
 
 #### Examples
 
