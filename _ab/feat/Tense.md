@@ -19,43 +19,41 @@ The feature marks the tense of the verb.
 
 #### Examples
 
-* [ab] _исфап_
+* [ab] _и-с-фа-п_ [3.OBJ-1SG.SUBJ-eat-FUT1] ‘I will eat it’ `Tense=Fut1`
 
 ### <a name="Fut2">`Fut2`</a>: Future 2
 
 #### Examples
 
-* [ab] _ирфаша_
+* [ab] _и-р-фа-ша_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Fut2`
 
 ### <a name="Past">`Past`</a>: Past of static verbs or Preterite of dynamic verbs
 
 #### Examples
 
-* [ab] _сцон_
-
-#### Examples
+* [ab] _сцон_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Fut2`
 
 ### <a name="Aor">`Aor`</a>: Aorist
 
 #### Examples
 
-* [ab] _иҳәеит_
+* [ab] _иҳәеит_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Aor`
 
 ### <a name="PastIndef">`PastIndef`</a>: Past Indefinite
 
 #### Examples
 
-* [ab] _иҟалаз_
+* [ab] _иҟалаз_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=PastIndef`
 
 ### <a name="Perf">`Perf`</a>: Perfect
 
 #### Examples
 
-* [ab] _сгылац_
+* [ab] _сгылац_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Perf`
 
 ### <a name="Pqp">`Pqp`</a>: Plusquamperfect
 
 #### Examples
 
-* [ab] _саҳахьан_
+* [ab] _саҳахьан_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Pqp`
 
