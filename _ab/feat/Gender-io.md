@@ -18,3 +18,9 @@ This feature marks gender agreement of the verb with the indirect object or of p
 #### Examples
 
 * [ab] _й-<b>л</b>-а-с-хIв-д_ [3SG.N.ABS-<b>3SG.F.IO</b>-DAT-1SG.ERG-say-DCL] ‘I said <b>to her</b>’ `Gender[abs]=Neut|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=3|Tense=Aor|VerbForm=Fin`
+
+### <a name="Neut">`Neut`</a>: Neuter = Non-human
+
+#### Examples
+
+* [ab] _й-<b>л</b>-а-с-хIв-д_ [3SG.N.ABS-<b>3SG.F.IO</b>-DAT-1SG.ERG-say-DCL] ‘I said <b>to her</b>’ `Gender[abs]=Neut|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=3|Tense=Aor|VerbForm=Fin`
