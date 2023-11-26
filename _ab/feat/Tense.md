@@ -31,7 +31,7 @@ The feature marks the tense of the verb.
 
 #### Examples
 
-* [ab] _сцан_ [-go-] ‘they will eat it’ `Tense=Past`
+* [ab] _с-ца-н_ [1Sg.SUBJ-go-PAST] ‘they will eat it’ `Tense=Past`
 
 ### <a name="Aor">`Aor`</a>: Aorist
 
@@ -39,11 +39,11 @@ The feature marks the tense of the verb.
 
 * [ab] _иҳәеит_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Aor`
 
-### <a name="PastIndef">`Imp`</a>: Imperfect
+### <a name="Imp">`Imp`</a>: Imperfect
 
 #### Examples
 
-* [ab] _иҟалаз_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=PastIndef`
+* [ab] _иҟалаз_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Imp`
 
 ### <a name="Pqp">`Pqp`</a>: Plusquamperfect
 
