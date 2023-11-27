@@ -7,7 +7,37 @@ udver: '2'
 
 This marks type of relative participle.
 
-### <a name="Abs">`Abs`</a>: Absolutive
+### <a name="Subj">`Subj`</a>: Subj
+
+#### Examples
+
+* [abq] _<b>й</b>-шв-тахъ-х-у_ [<b>REL.ABS</b>-2PL.IO-want-RE-PRS.NFIN] ‘[the thing] that you want’ `Number[io]=Plur|Person[io]=2|RelType=Abs|Tense=Pres|VerbForm=NonFin`
+
+### <a name="Obj">`Obj`</a>: Direct object
+
+#### Examples
+
+* [abq] _<b>й</b>-шв-тахъ-х-у_ [<b>REL.ABS</b>-2PL.IO-want-RE-PRS.NFIN] ‘[the thing] that you want’ `Number[io]=Plur|Person[io]=2|RelType=Abs|Tense=Pres|VerbForm=NonFin`
+
+### <a name="Io">`Io`</a>: Indirect object
+
+#### Examples
+
+* [abq] _<b>й</b>-шв-тахъ-х-у_ [<b>REL.ABS</b>-2PL.IO-want-RE-PRS.NFIN] ‘[the thing] that you want’ `Number[io]=Plur|Person[io]=2|RelType=Abs|Tense=Pres|VerbForm=NonFin`
+
+### <a name="Lo">`Lo`</a>: Local object
+
+#### Examples
+
+* [abq] _<b>й</b>-шв-тахъ-х-у_ [<b>REL.ABS</b>-2PL.IO-want-RE-PRS.NFIN] ‘[the thing] that you want’ `Number[io]=Plur|Person[io]=2|RelType=Abs|Tense=Pres|VerbForm=NonFin`
+
+### <a name="Ro">`Ro`</a>: Relational object
+
+#### Examples
+
+* [abq] _<b>й</b>-шв-тахъ-х-у_ [<b>REL.ABS</b>-2PL.IO-want-RE-PRS.NFIN] ‘[the thing] that you want’ `Number[io]=Plur|Person[io]=2|RelType=Abs|Tense=Pres|VerbForm=NonFin`
+
+### <a name="Po">`Po`</a>: Potential object
 
 #### Examples
 
