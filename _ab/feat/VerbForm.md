@@ -25,3 +25,9 @@ This feature marks the form of the verb
 
 * [ab] _хI-т-и-щты-рныс_ [1PL.ABS-LOC.ELAT-3SG.M.ERG-let_go-PURP] ‘so that he lets us go’ `Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Conv`
 
+### <a name="Vnoun">`Vnoun`</a>: Verbal noun
+
+#### Examples
+
+* [ab] _хI-т-и-щты-рныс_ [1PL.ABS-LOC.ELAT-3SG.M.ERG-let_go-PURP] ‘so that he lets us go’ `Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Conv`
+
