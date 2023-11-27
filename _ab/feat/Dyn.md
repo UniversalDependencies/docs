@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Dynamic'
-shortdef: 'dyn'
+title: 'Dyn'
+shortdef: 'dynamic or static verb'
 udver: '2'
 ---
 
