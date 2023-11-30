@@ -56,7 +56,7 @@ but lack a singular counterpart (at least when serving as a nominal head).
 Semantically, they often denote a mass-like collection, or a doublet object.
 
 Note that some nouns have endings that look like regular plural endings, but are not:
-_Xerxes_ is singular, and _species_ may be singular or plural, but neither is a plurale tantum.
+_linguistics_ and _Xerxes_ are singular, and _species_ and _series_ may be singular or plural, but none of these are pluralia tantum.
 
 #### Examples
 
