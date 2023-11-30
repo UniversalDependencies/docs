@@ -5,14 +5,16 @@ shortdef: 'number'
 udver: '2'
 ---
 
-In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB), and some [determiners](en-pos/DET).
+In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB) including verbal [auxiliaries](en-pos/AUX), and some [determiners](en-pos/DET).
 
-For nouns, number is determined primarily by agreement (not necessarily form), per Penn Treebank tag guidelines. The values are described below: essentially, `Sing` for nouns that take singular agreement, `Plur` for most nouns that take plural agreement, and `Ptan` for pluralia tantum (nouns exhibiting grammatically plural morphology and agreement that cannot be made singular). Collective/mass nouns are not given a special feature. The `Number` feature may be variable for a word type—that is, dependent on context and not just form.
+For nouns, number is determined primarily by agreement (not necessarily form), per Penn Treebank tag guidelines. The values are described below: essentially, `Sing` for nouns that take singular agreement, `Plur` for most nouns that take plural agreement, and `Ptan` for pluralia tantum (nouns exhibiting grammatically plural morphology and agreement that cannot be made singular). (There is no separate value for collective/mass nouns.)
+
+For many word types, the `Number` feature is variable—that is, it depends on context and not just form.
 
 ### <a name="Sing">`Sing`</a>: singular
 
 The grammatical singular vs. plural contrast is defined in terms of agreement.
-A singular noun prototypically denotes one person, animal, or thing, but collective/mass nouns may also be grammatically singular by this definition.
+A singular noun prototypically denotes one person, animal, or thing, but collective/mass nouns may also be grammatically singular.
 Every noun with the PTB tag `NN` or `NNP` is marked with this feature.
 In addition, singular pronouns (see [PRON]()), singular demonstrative determiners, and verbs with a singular subject receive this feature.
 
@@ -43,22 +45,21 @@ In addition, plural pronouns (see [PRON]()), plural demonstrative determiners, a
 * _we, us, our, ours, ourselves, yourselves, they, them, their, theirs, themselves_
 * _these, those_
 * _are, were_
-* _they <b>wanted<b> a cat_
+* _they <b>wanted</b> a cat_
 * _we <b>do</b> like cats_
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
 Some nouns appear only in the plural form, with a regular plural suffix and plural agreement,
 but lack a singular counterpart (at least when serving as a nominal head).
-(The lemma is therefore the plural form.)
+(The lemma is therefore the plural form.) These form a relatively closed set.
 Semantically, they often denote a mass-like collection, or a doublet object.
-These form a relatively closed set.
 
 Note that some nouns have endings that look like regular plural endings, but are not:
 _Xerxes_ is singular, and _species_ may be singular or plural, but neither is a plurale tantum.
 
 #### Examples
 
-* _<b>clothes<b>, <b>scissors<b>, <b>riches<b>_
+* _<b>clothes</b>, <b>scissors</b>, <b>riches</b>_
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:53 CET -->
