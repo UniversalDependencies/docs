@@ -7,56 +7,55 @@ udver: '2'
 
 In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB), and some [determiners](en-pos/DET).
 
-The values are described below: `Sing` for all nouns that take singular agreement, `Plur` for most plural nouns, and `Ptan` for pluralia tantum (nouns exhibiting grammatically plural morphology and agreement that cannot be made singular). We don't distinguish collective/mass nouns.
+For nouns, number is determined primarily by agreement (not necessarily form), per Penn Treebank tag guidelines. The values are described below: essentially, `Sing` for nouns that take singular agreement, `Plur` for most nouns that take plural agreement, and `Ptan` for pluralia tantum (nouns exhibiting grammatically plural morphology and agreement that cannot be made singular). Collective/mass nouns are not given a special feature. The `Number` feature may be variable for a word type—that is, dependent on context and not just form.
 
 ### <a name="Sing">`Sing`</a>: singular
 
-A singular noun denotes one person, animal or thing. Every noun with the PTB tag `NN` or `NNP` is marked with this feature.
+The grammatical singular vs. plural contrast is defined in terms of agreement.
+A singular noun prototypically denotes one person, animal, or thing, but collective/mass nouns may also be grammatically singular by this definition.
+Every noun with the PTB tag `NN` or `NNP` is marked with this feature.
+In addition, singular pronouns (see [PRON]()), singular demonstrative determiners, and verbs with a singular subject receive this feature.
 
 #### Examples:
 
-* _an <b>apple</b>, a <b>train</b>_
-
-Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
-
+* _an <b>apple</b>, a <b>train</b>, this <b>sheep</b>, this <b>species</b>_
+* _some <b>information</b>, the <b>news</b>_
+* _the <b>committee</b> has voted_
+* _<b>linguistics</b> is my favorite subject_
 * _I, me, my, myself, he, his, him, himself, she, her, hers, herself, it, its, itself_
-
-We also mark all verbs with the PTB tag `VBZ` with this feature.
-
-#### Examples:
-
-* _she <b>does</b>_
-* _he <b>walks</b>_
-
-Further, we mark inflections of `be` that can only have a singular noun or pronoun in subject position with this feature.
-
-* _am, is, was_
-
-Demonstrative determiners of singular nouns and demonstrative pronouns that refer to singular nouns are also marked with this feature.
-
 * _this, that_
+* _am, is, was_
+* _he <b>wanted</b> a cat_
+* _she <b>does</b> like cats_
 
 ### <a name="Plur">`Plur`</a>: plural
 
-A plural noun denotes several persons, animals or things. Every noun with the PTB tag `NNS` or `NNPS` is marked with this feature.
+Every noun with the PTB tag `NNS` or `NNPS` (including measure terms like _inches_ or _years_ even though sometimes
+the measurement noun phrase can be construed as singular and take singular agreement) is considered plural.
+This feature applies to such nouns with the exception of pluralia tantum (`Ptan`; see below).
+In addition, plural pronouns (see [PRON]()), plural demonstrative determiners, and verbs with a plural subject receive this feature.
 
 #### Examples:
 
-* _several <b>apples</b>, two <b>trains</b>_
-
-Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
-
+* _several <b>apples</b>, two <b>trains</b>, these <b>sheep</b>, these <b>species</b>_
+* <b>Police</b> are everywhere
+* _10 <b>minutes</b> is not enough time_
 * _we, us, our, ours, ourselves, yourselves, they, them, their, theirs, themselves_
-
-Demonstrative determiners of plural nouns and demonstrative pronouns that refer to plural nouns are also marked with this feature.
-
 * _these, those_
-
+* _are, were_
+* _they <b>wanted<b> a cat_
+* _we <b>do</b> like cats_
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
-Some nouns appear only in the plural form, with a regular plural suffix and plural agreement, but lack a singular counterpart (at least when serving as a nominal head).
-Semantically, they often denote a mass-like collection, or a doublet object. These form a relatively closed set.
+Some nouns appear only in the plural form, with a regular plural suffix and plural agreement,
+but lack a singular counterpart (at least when serving as a nominal head).
+(The lemma is therefore the plural form.)
+Semantically, they often denote a mass-like collection, or a doublet object.
+These form a relatively closed set.
+
+Note that some nouns have endings that look like regular plural endings, but are not:
+_Xerxes_ is singular, and _species_ may be singular or plural, but neither is a plurale tantum.
 
 #### Examples
 
