@@ -7,6 +7,8 @@ udver: '2'
 
 In English, `Number` is a feature of [nouns](en-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](en-pos/PRON), [verbs](en-pos/VERB), and some [determiners](en-pos/DET).
 
+The values are described below: `Sing` for all nouns that take singular agreement, `Plur` for most plural nouns, and `Ptan` for pluralia tantum (nouns exhibiting grammatically plural morphology and agreement that cannot be made singular). We don't distinguish collective/mass nouns.
+
 ### <a name="Sing">`Sing`</a>: singular
 
 A singular noun denotes one person, animal or thing. Every noun with the PTB tag `NN` or `NNP` is marked with this feature.
@@ -51,5 +53,13 @@ Demonstrative determiners of plural nouns and demonstrative pronouns that refer 
 * _these, those_
 
 
-We currently don't mark plurale tantum or collective/mass nouns.
+### <a name="Ptan">`Ptan`</a>: plurale tantum
+
+Some nouns appear only in the plural form, with a regular plural suffix and plural agreement, but lack a singular counterpart (at least when serving as a nominal head).
+Semantically, they often denote a mass-like collection, or a doublet object. These form a relatively closed set.
+
+#### Examples
+
+* _<b>clothes<b>, <b>scissors<b>, <b>riches<b>_
+
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:53 CET -->
