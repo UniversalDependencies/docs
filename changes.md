@@ -40,7 +40,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 ### Multiword Expressions
 
-The wording in the guidelines around “multiword expressions” has been updated to be more precise in the [syntax overview](/u/overview/syntax.html) and on the [flat](), [fixed](), and [compound]() pages ([issue 989](https://github.com/UniversalDependencies/docs/issues/989)). The examples of [flat]() have been revised and restructured around new prototypes ([issue 974](https://github.com/UniversalDependencies/docs/issues/974)), emphasizing that the treatment of many idiosyncratic expressions involving names and numbers should be determined based on language-specific criteria. The wording recommending the subtype [flat:foreign]() has been changed to merely acknowledge that only some treebanks use it.
+The wording in the guidelines around “multiword expressions” has been updated to be more precise in the [syntax overview](/u/overview/syntax.html) and on the [flat](), [fixed](), and [compound]() pages ([issue 989](https://github.com/UniversalDependencies/docs/issues/989)). The examples of [flat]() have been revised and restructured around new prototypes ([issue 974](https://github.com/UniversalDependencies/docs/issues/974)), emphasizing that the treatment of many idiosyncratic expressions involving names and numbers should be determined based on language-specific criteria. The wording recommending the subtype [flat:foreign]() has been changed to merely acknowledge that some treebanks use it.
 
 ### Semi-mandatory Relation Subtypes
 
