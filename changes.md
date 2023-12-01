@@ -44,7 +44,7 @@ The wording in the guidelines around “multiword expressions” has been update
 
 ### Semi-mandatory Relation Subtypes
 
-The guidelines [state](https://universaldependencies.org/u/dep/index.html) that some dependency relations are “semi-mandatory”, i.e., languages are strongly encouraged to use them if relevant. Previously this set was open-ended. The guidelines now commit to a closed set of subtypes that are semi-mandatory ([issue 990](https://github.com/UniversalDependencies/docs/issues/990)).
+While relation subtypes are technically optional, the guidelines [state](https://universaldependencies.org/u/dep/index.html) that certain subtypes are “semi-mandatory”, i.e., languages are strongly encouraged to use them if relevant. Previously this set was open-ended. The guidelines now commit to a closed set of subtypes that are semi-mandatory ([issue 990](https://github.com/UniversalDependencies/docs/issues/990)).
 
 ### Adpositional Predicative Complements
 
