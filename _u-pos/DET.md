@@ -27,7 +27,7 @@ In such cases, both _all_ and _the_ are given the POS `DET`.)
 
 Note that the `DET` tag includes (pronominal) _quantifiers_ (words
 like _many, few, several),_ which are included among determiners in
-some languages but may belong to numerals in others. However,
+traditional grammars of some languages but may belong to numerals in others. However,
 _cardinal numerals_ in the narrow sense _(one, five, hundred)_ are not
 tagged `DET` even though some authors would include them in
 quantifiers. Cardinal numbers have their own tag [NUM]().
