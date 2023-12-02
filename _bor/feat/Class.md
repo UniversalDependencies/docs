@@ -17,7 +17,7 @@ udver: '2'
 </tr>
 </table>
 
-`Nomzr` refers to the nominalizer (deverbalizer) 
+`Class` refers to nouns that are used as classifiers for nouns that cannot be possessed 
 
 ### <a name="Food">`Food`</a>: Food
 
@@ -26,6 +26,7 @@ udver: '2'
 
 ### <a name="DA">`DA`</a>: DA
 
+DA stands for domestic animal
 
 #### Example
 
