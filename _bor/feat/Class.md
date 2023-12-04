@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#NS">NS</a></td>
   <td><a href="#Food">Food</a></td>
   <td><a href="#DA">DA</a></td>
   <td><a href="#Adorn">Adorn</a></td>
@@ -18,6 +19,13 @@ udver: '2'
 </table>
 
 `Class` refers to nouns that are used as classifiers for nouns that cannot be possessed 
+
+### <a name="NS">`NS`</a>: NS
+
+`NS`(non-specific) allows a non-possessed item to be used in a possessive construction.
+
+
+#### Example
 
 ### <a name="Food">`Food`</a>: Food
 
