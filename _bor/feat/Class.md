@@ -18,7 +18,7 @@ udver: '2'
 </tr>
 </table>
 
-`Class` refers to nouns that are used as classifiers for nouns that cannot be possessed 
+`Class` refers to nouns that are used as classifiers for indicating the possessive use of unpossessed nouns.
 
 ### <a name="NS">`NS`</a>: NS
 
@@ -27,12 +27,14 @@ udver: '2'
 
 #### Example
 
-* _boe <b>eno</b> moto._ "Bororo world/land (land/wordl of the Bororo)."
+* _boe <b>eno</b> moto._ "Bororo world/land (land/world of the Bororo)."
 
 ### <a name="Food">`Food`</a>: Food
 
 
 #### Example
+
+* _Dykodi icare ere <b>tuge</b> boi remagu pui._ "E por isso mediram seu desejo de comida entre si."
 
 ### <a name="DA">`DA`</a>: DA
 
