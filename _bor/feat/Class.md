@@ -31,6 +31,7 @@ udver: '2'
 
 ### <a name="Food">`Food`</a>: Food
 
+For the possessive expression of eatables, the generic noun _ke_ 'food' is used.
 
 #### Example
 
