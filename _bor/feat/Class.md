@@ -22,7 +22,7 @@ udver: '2'
 
 ### <a name="NS">`NS`</a>: NS
 
-`NS`(non-specific) allows a non-possessed item to be used in a possessive construction.
+`NS`(non-specific) allows a non-possessed item to be used in a possessive construction. The noun _o_ 'property, possession' is used.
 
 
 #### Example
