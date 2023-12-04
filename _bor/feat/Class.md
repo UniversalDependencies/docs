@@ -27,6 +27,8 @@ udver: '2'
 
 #### Example
 
+* _boe <b>eno</b> moto._ "Bororo world/land."
+
 ### <a name="Food">`Food`</a>: Food
 
 
