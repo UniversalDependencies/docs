@@ -41,7 +41,7 @@ Causative inceptive is similar in meaning to a causative, but it inlcudes the _A
 
 #### Example
 
-* ire <b>pemegago</b>._ "I healed him (I caused heim to bein to be better)."
+* _ire <b>pemegago</b>._ "I healed him (I caused heim to bein to be better)."
 
 
 ## Diffs
