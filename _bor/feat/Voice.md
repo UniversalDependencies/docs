@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#Pass">Pass</a></td>
   <td><a href="#CauPass">CauPass</a></td>
+  <td><a href="#CauInc">CauInc</a></td>
   
   
 </tr>
@@ -29,12 +30,18 @@ DA stands for domestic animal
 
 #### Example
 
-### <a name="CauPass">`CauPass`</a>: Adorn
+### <a name="CauPass">`CauPass`</a>: Causative passive
 
 
 #### Example
 
+### <a name="CauInc">`CauInc`</a>: Causative inceptive
 
+Causative inceptive is similar in meaning to a causative, but it inlcudes the _Aktionsart_ notion of an event that begins to take place.
+
+#### Example
+
+_ire pemegago_
 
 
 
