@@ -37,7 +37,7 @@ DA stands for domestic animal
 
 ### <a name="CauInc">`CauInc`</a>: Causative inceptive
 
-Causative inceptive is similar in meaning to a causative, but it inlcudes the _Aktionsart_ notion of an event that begins to take place. It is expressd by the suffix -_go_.
+Causative inceptive is similar in meaning to a causative, but it inlcudes the _Aktionsart_ notion of an event that begins to take place. It is expressed by the suffix -_go_.
 
 #### Example
 
