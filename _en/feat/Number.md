@@ -40,7 +40,7 @@ In addition, plural pronouns (see [PRON]()), plural demonstrative determiners, a
 #### Examples:
 
 * _several <b>apples</b>, two <b>trains</b>, these <b>sheep</b>, these <b>species</b>_
-* <b>Police</b> are everywhere
+* _<b>Police</b> are everywhere_
 * _10 <b>minutes</b> is not enough time_
 * _we, us, our, ours, ourselves, yourselves, they, them, their, theirs, themselves_
 * _these, those_
