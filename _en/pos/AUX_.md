@@ -8,11 +8,11 @@ udver: '2'
 redirect_from: "en/pos/AUX.html"
 ---
 
-`AUX` covers auxiliaries, that is, grammatical lexemes which characteristically accompany a verbal or nonverbal predicate 
+`AUX` covers auxiliaries, that is, function words which characteristically accompany a main predicate 
 in a clause and help convey information such as tense, aspect, and modality.
 In English, there is a class of modal auxiliaries (PTB MD), and there are several non-modal auxiliaries as well 
 (tagged in PTB as regular verbs: VB, VBP, VBG, VBN, VBD, VBZ). All of these fall under `AUX`.
-Clausal negation words are treated separately: see [PART]().
+Clausal negation words and infinitival marker *to* are treated separately: see [PART]().
 
 The list of allowed auxiliaries is [registered with the validator](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=en).
 The following lexemes can be **modal** auxiliaries:
@@ -23,8 +23,9 @@ The following can be **non-modal** auxiliaries:
 
 
 The prototypical function of an auxiliary word is modifying the main predicate in an [aux](), [aux:pass](), or [cop]() relation.
-In certain constructions, a word tagged as `AUX` may assume the status of the main predicate of a clause (promotion).
-
+However, in certain circumstances, a word tagged as `AUX` may assume the status of the main predicate of a clause (promotion).
+Auxiliaries can be coordinated but do not normally take modifiers.
+See the [syntax overview](/u/overview/syntax.html#the-status-of-function-words) for details.
 
 ### Ambiguity with `VERB`
 
@@ -49,7 +50,7 @@ it resembles the lexical verb _exist_, most notably in an existential sentence.
 - _Magicians <b>are</b> in this act._ [copula]
    * But: [VERB]() in _There are magicians in this act._ [existential]
 - _The grass <b>was</b> trampled (by the bison)._ [passive]
-- _We are <b>eating</b> cake._ [progressive]
+- _We <b>are</b> eating cake._ [progressive]
 
 ### Morphological Features
 
