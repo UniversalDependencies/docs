@@ -41,16 +41,16 @@ For morphosyntactic annotation of an expression originating in another language,
 A treebank may opt to fully analyze the cross-lingual content as if it were in a treebank for the source language.
 This simulates a speaker with knowledge of the morphosyntax of both of the intermixed languages.
 The language of any content analyzed in this manner should be specified on individual tokens 
-with the MISC feature `[Lang](https://universaldependencies.org/misc.html#lang)=CODE`, as described [here](https://universaldependencies.org/format.html#other-miscellaneous-attributes): this makes it clear which annotation guidelines 
+with the MISC feature [`Lang`](https://universaldependencies.org/misc.html#lang)`=CODE`, as described [here](https://universaldependencies.org/format.html#other-miscellaneous-attributes): this makes it clear which annotation guidelines 
 are being followed for the cross-lingual content so that the annotations can be properly validated.
 Unless the language is inherently associated with the corpus-level language code
 (see Inherently code-switched corpora above), the cross-lingual portion is considered _foreign_ material
 and should be annotated with [Foreign]()`=Yes` in FEATS.
 
 <div class="conllu-parse">
-1 That   _ _ _ _ _ _ _ _
-2 would  _ _ _ _ _ _ _ _
-3 be     _ _ _ _ _ _ _ _
+1 That   _ _ _ _ 0 _ _ _
+2 would  _ _ _ _ 0 _ _ _
+3 be     _ _ _ _ 0 _ _ _
 4 a      a    DET  _ _ 5 det   _ _
 5 coup   coup NOUN _ Foreign=Yes|Gender=Masc|Number=Sing 0 root  _ Lang=fr
 6 d'     de   ADP  _ Foreign=Yes                         7 case  _ Lang=fr
@@ -58,11 +58,11 @@ and should be annotated with [Foreign]()`=Yes` in FEATS.
 </div>
 
 <div class="conllu-parse">
-1 Have    _ _ _ _ _ _ _ _
-2 you     _ _ _ _ _ _ _ _
-3 seen    _ _ _ _ _ _ _ _
-4 the     _ _ _ _ _ _ _ _
-5 film    _ _ _ _ _ _ _ _
+1 Have    _ _ _ _ 0 _ _ _
+2 you     _ _ _ _ 0 _ _ _
+3 seen    _ _ _ _ 0 _ _ _
+4 the     _ _ _ _ 0 _ _ _
+5 film    _ _ _ _ 0 _ _ _
 6 Le      le      NOUN _ Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art 7 det   _ Lang=fr
 7 festin  festin  NOUN _ Foreign=Yes|Gender=Masc|Number=Sing                           5 appos _ Lang=fr
 8 de      de      ADP  _ Foreign=Yes                                                   9 case  _ Lang=fr
@@ -88,14 +88,31 @@ are copied to all the individual words, which are connected to the first word in
 Nominals—including concept terms, personal names, and book titles—are frequently borrowed 
 and would typically be analyzed in this way. Other vocabulary may be considered borrowed as well.
 
-- Yeah , I think that would be kosher/ADJ .
-- That would be a/DET coup/NOUN d'état/NOUN .
-- We saw it on Al/PROPN Jazeera/PROPN .
+~~~ sdparse
+Yeah , I think that would be kosher/ADJ .
+~~~
+
+~~~ sdparse
+That would be a/DET coup/NOUN d'état/NOUN .
+det(coup, a)
+flat(coup, d'état)
+~~~
+
+<div class="conllu-parse">
+1 We      _ _ _ _ 0 _ _ _
+2 saw     _ _ _ _ 0 _ _ _
+3 it      _ _ _ _ 0 _ _ _
+4 on      _ _ _ _ 5 case _ _
+5 Al      Number=Sing PROPN _ _ 0 _ _ OrigLang=ar
+6 Jazeera Number=Sing PROPN _ _ 5 flat _ OrigLang=ar
+</div>
 
 If a word from another language has target-language inflectional morphology, this should be treated
 as borrowed so the morphology can be properly encoded in features. Take this Czech example:
 
-- Jeďte po dálnici až k exitu/NOUN 36. "Follow the highway until exit 36."
+~~~ sdparse
+Jeďte po dálnici až k exitu/NOUN 36. \n "Follow the highway until exit 36."
+~~~
 
 The form _exitu_ does not exist in English and must therefore receive Czech morphological features.
 A borrowed expression may also bear target-language modifiers, for example.
@@ -108,7 +125,57 @@ Sequences of multiple foreign words are joined together by [flat]() (optionally 
 In contrast to [Option 2](#option-2-borrowed-analysis), this is best suited to phrasal idioms, quoted utterances, and metalinguistic mentions.
 The foreign language, if known, is best made explicit with the [`OrigLang`](https://universaldependencies.org/misc.html#origlang) feature in MISC.
 
-- Well , c'est/X la/X vie/X .
-- Have you seen the film Le/X festin/X de/X Babette/X ?
-- " Lehitraot/X " means " see you later " in Hebrew .
-- " Dans/X cette/X classe/X , " she chided me , " nous/X ne/X parlons/X pas/X anglais/X ! "
+<div class="conllu-parse">
+1 Well    _ _ _ _ 0 _ _ _
+2 ,       _ _ _ _ 0 _ _ _
+3 c'est   c'est  X _ Foreign=Yes 0 root    _ OrigLang=fr
+4 la      la     X _ Foreign=Yes 3 flat    _ OrigLang=fr
+5 vie     vie    X _ Foreign=Yes 3 flat    _ OrigLang=fr
+</div>
+
+<div class="conllu-parse">
+1 Have    _ _ _ _ 0 _ _ _
+2 you     _ _ _ _ 0 _ _ _
+3 seen    _ _ _ _ 0 _ _ _
+4 the     _ _ _ _ 0 _ _ _
+5 film    _ _ _ _ 0 _ _ _
+6 Le      Le      X _ Foreign=Yes 5 appos   _ OrigLang=fr
+7 festin  festin  X _ Foreign=Yes 6 flat    _ OrigLang=fr
+8 de      de      X _ Foreign=Yes 6 flat    _ OrigLang=fr
+9 Babette Babette X _ Foreign=Yes 6 flat    _ OrigLang=fr
+</div>
+
+<div class="conllu-parse">
+1  "     _ _ _ _ 0 _ _ _
+2  Lehitraot     Lehitraot X _ Foreign=Yes 0 _ _ OrigLang=he
+3  "     _ _ _ _ 0 _ _ _
+4  means _ _ _ _ 0 _ _ _
+5  "     _ _ _ _ 0 _ _ _
+6  see   _ _ _ _ 0 _ _ _
+7  you   _ _ _ _ 0 _ _ _
+8  later _ _ _ _ 0 _ _ _
+9  "     _ _ _ _ 0 _ _ _
+10 in    _ _ _ _ 0 _ _ _
+11 Hebrew  _ _ _ _ 0 _ _ _
+</div>
+
+<div class="conllu-parse">
+1 "      _ _ _ _ 2 punct _ _
+2 Dans      Dans     X _ Foreign=Yes 0 root   _ OrigLang=fr
+3 cette     cette    X _ Foreign=Yes 2 flat   _ OrigLang=fr
+4 classe    classe   X _ Foreign=Yes 2 flat   _ OrigLang=fr
+5 ,      _ _ _ _ 2 punct _ _
+6 "      _ _ _ _ 2 punct _ _
+7 she    _ _ _ _ 8 nsubj _ _
+8 chided _ _ _ _ 2 parataxis _ _
+9 me     _ _ _ _ 8 obj _ _
+10 ,     _ _ _ _ 8 punct _ _
+11 "     _ _ _ _ 12 punct _ _
+12 nous     nous     X _ Foreign=Yes 2 flat    _ OrigLang=fr
+13 ne       ne       X _ Foreign=Yes 2 flat    _ OrigLang=fr
+14 parlons  parlons  X _ Foreign=Yes 2 flat    _ OrigLang=fr
+15 pas      pas      X _ Foreign=Yes 2 flat    _ OrigLang=fr
+16 anglais  anglais  X _ Foreign=Yes 2 flat    _ OrigLang=fr
+17 !     _ _ _ _ 12 punct _ _
+17 "     _ _ _ _ 12 punct _ _
+</div>
