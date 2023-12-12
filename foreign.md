@@ -45,8 +45,27 @@ Unless the language is inherently associated with the corpus-level language code
 (see Inherently code-switched corpora above), the cross-lingual portion is considered _foreign_ material
 and should be annotated with [Foreign]()`=Yes` in FEATS.
 
-- That would be a/DET coup/NOUN d'/ADP état/NOUN .
-- Have you seen the film Le/DET festin/NOUN de/ADP Babette/PROPN ?
+<div class="conllu-parse">
+1 That   _ _ _ _ _ _ _ _
+2 would  _ _ _ _ _ _ _ _
+3 be     _ _ _ _ _ _ _ _
+4 a      a    DET  _ _ 5 det   _ _
+5 coup   coup NOUN _ Foreign=Yes|Gender=Masc|Number=Sing 0 root  _ Lang=fr
+6 d'     de   ADP  _ Foreign=Yes                         7 case  _ Lang=fr
+7 état   état NOUN _ Foreign=Yes|Gender=Masc|Number=Sing 5 nmod  _ Lang=fr
+</div>
+
+<div class="conllu-parse">
+1 Have    _ _ _ _ _ _ _ _
+2 you     _ _ _ _ _ _ _ _
+3 seen    _ _ _ _ _ _ _ _
+4 the     _ _ _ _ _ _ _ _
+5 film    _ _ _ _ _ _ _ _
+6 Le      le      NOUN _ Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art 7 det   _ Lang=fr
+7 festin  festin  NOUN _ Foreign=Yes|Gender=Masc|Number=Sing                           5 appos _ Lang=fr
+8 de      de      ADP  _ Foreign=Yes                                                   9 case  _ Lang=fr
+9 Babette Babette NOUN _ Foreign=Yes|Gender=Fem|Number=Sing                            7 nmod  _ Lang=fr
+</div>
 
 Treebanks have wide latitude to decide what counts as a different language/code and whether to analyze its
 structure or not. However, this strategy is generally _not_ recommended for proper names mentioned in isolation,
