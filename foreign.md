@@ -172,10 +172,10 @@ The foreign language, if known, is best made explicit with the [`OrigLang`](http
 10 ,     _ _ _ _ 8 punct _ _
 11 "     _ _ _ _ 12 punct _ _
 12 nous     nous     X _ Foreign=Yes 2 flat    _ OrigLang=fr
-13 ne       ne       X _ Foreign=Yes 2 flat    _ OrigLang=fr
-14 parlons  parlons  X _ Foreign=Yes 2 flat    _ OrigLang=fr
-15 pas      pas      X _ Foreign=Yes 2 flat    _ OrigLang=fr
-16 anglais  anglais  X _ Foreign=Yes 2 flat    _ OrigLang=fr
+13 ne       ne       X _ Foreign=Yes 12 flat    _ OrigLang=fr
+14 parlons  parlons  X _ Foreign=Yes 12 flat    _ OrigLang=fr
+15 pas      pas      X _ Foreign=Yes 12 flat    _ OrigLang=fr
+16 anglais  anglais  X _ Foreign=Yes 12 flat    _ OrigLang=fr
 17 !     _ _ _ _ 12 punct _ _
-17 "     _ _ _ _ 12 punct _ _
+18 "     _ _ _ _ 12 punct _ _
 </div>
