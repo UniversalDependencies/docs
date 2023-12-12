@@ -4,6 +4,8 @@ title:  'Foreign Expressions and Code-Switching'
 udver: '2'
 ---
 
+# Foreign Expressions and Code-Switching
+
 A corpus may contain material from multiple languages. There are a few scenarios for how this is annotated,
 depending on the prevalence of multiple languages in the corpus and the extent to which expressions have been 
 sufficiently integrated into a new language that they can be considered borrowings.
@@ -15,7 +17,7 @@ A few corpora, however, feature extensive code-switching between multiple (usual
 and are listed under a custom code for the code-switched language variety. For example, the Turkish-German 
 variety bears the `qtd` code at the corpus level.
 
-In inherently code-switched corpora, every word must have a [Lang]() feature in the MISC column to indicate
+In inherently code-switched corpora, every word must have a [`Lang`](https://universaldependencies.org/misc.html#lang) feature in the MISC column to indicate
 which language it belongs to. Most often, it will be one of the languages comprising the multilingual variety 
 (for Turkish-German, either Turkish `Lang=tr` or German `Lang=de`). Occasionally, a word will be specific to the
 multilingual variety (`Lang=qtd`). None of these are considered _foreign_ in the context of the corpus.
@@ -39,7 +41,7 @@ For morphosyntactic annotation of an expression originating in another language,
 A treebank may opt to fully analyze the cross-lingual content as if it were in a treebank for the source language.
 This simulates a speaker with knowledge of the morphosyntax of both of the intermixed languages.
 The language of any content analyzed in this manner should be specified on individual tokens 
-with the MISC feature [Lang]()`=CODE`, as described [here](https://universaldependencies.org/format.html#other-miscellaneous-attributes): this makes it clear which annotation guidelines 
+with the MISC feature `[Lang](https://universaldependencies.org/misc.html#lang)=CODE`, as described [here](https://universaldependencies.org/format.html#other-miscellaneous-attributes): this makes it clear which annotation guidelines 
 are being followed for the cross-lingual content so that the annotations can be properly validated.
 Unless the language is inherently associated with the corpus-level language code
 (see Inherently code-switched corpora above), the cross-lingual portion is considered _foreign_ material
@@ -77,7 +79,7 @@ Another option is to analyze the cross-lingual content as if it is part of the v
 of the main language of the text. Tokenization principles of the main language, 
 not the donor language, would be expected to apply. Borrowed words are _not_ marked 
 with [Foreign]()`=Yes` because they are taken to be incorporated into the target language.
-However, the donor language may be made explicit with the [`OrigLang` feature](https://universaldependencies.org/misc.html#origlang) in MISC.
+However, the donor language may be made explicit with the [`OrigLang`](https://universaldependencies.org/misc.html#origlang) feature in MISC.
 
 For multiword expressions, the UPOS and morphological features of the expression as a whole 
 are copied to all the individual words, which are connected to the first word in a [flat]() structure.
@@ -104,7 +106,7 @@ The third option is to treat the cross-lingual content as wholly unanalyzable fo
 Words should receive the feature [Foreign]()`=Yes` in FEATS and be tagged as [X]().
 Sequences of multiple foreign words are joined together by [flat]() (optionally subtyped as [flat:foreign]()).
 In contrast to [Option 2](#option-2-borrowed-analysis), this is best suited to phrasal idioms, quoted utterances, and metalinguistic mentions.
-The foreign language, if known, is best made explicit with the [`OrigLang` feature](https://universaldependencies.org/misc.html#origlang) in MISC.
+The foreign language, if known, is best made explicit with the [`OrigLang`](https://universaldependencies.org/misc.html#origlang) feature in MISC.
 
 - Well , c'est/X la/X vie/X .
 - Have you seen the film Le/X festin/X de/X Babette/X ?
