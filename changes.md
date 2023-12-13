@@ -24,6 +24,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+|13 | 2023-Dec     | 2.14              | CLARIFICATION            | [Foreign Expressions and Code-Switching](#foreign-expressions-and-code-switching) |
 |12 | 2023-Nov     | 2.14              | CLARIFICATION            | [Multiword Expressions](#multiword-expressions)   |
 |11 | 2023-Nov     | 2.14              | CLARIFICATION            | [Semi-mandatory Relation Subtypes](#semi-mandatory-relation-subtypes)  |
 |10 | 2023-Sep     | 2.13              | CLARIFICATION            | [Adpositional Predicative Complements](#adpositional-predicative-complements)  |
@@ -37,6 +38,10 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
+
+### Foreign Expressions and Code-Switching
+
+A new page on [Foreign Expressions and Code-Switching](/foreign.html) consolidates the options for analyzing multilingual content ([issue 1001](https://github.com/UniversalDependencies/docs/issues/1001)).
 
 ### Multiword Expressions
 
