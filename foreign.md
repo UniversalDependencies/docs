@@ -7,18 +7,18 @@ udver: '2'
 # Foreign Expressions and Code-Switching
 
 A corpus may contain material from multiple languages. There are a few scenarios for how this is annotated,
-depending on the prevalence of multiple languages in the corpus and the extent to which expressions have been 
+depending on the prevalence of multiple languages in the corpus and the extent to which expressions have been
 sufficiently integrated into a new language that they can be considered borrowings.
 
 ## Inherently code-switched corpora
 
 Every UD corpus is listed under an ISO language code. Most UD corpora have a single primary language.
 A few corpora, however, feature extensive code-switching between multiple (usually two) languages,
-and are listed under a custom code for the code-switched language variety. For example, the Turkish-German 
+and are listed under a custom code for the code-switched language variety. For example, the Turkish-German
 variety bears the `qtd` code at the corpus level.
 
 In inherently code-switched corpora, every word must have a [`Lang`](https://universaldependencies.org/misc.html#lang) feature in the MISC column to indicate
-which language it belongs to. Most often, it will be one of the languages comprising the multilingual variety 
+which language it belongs to. Most often, it will be one of the languages comprising the multilingual variety
 (for Turkish-German, either Turkish `Lang=tr` or German `Lang=de`). Occasionally, a word will be specific to the
 multilingual variety (`Lang=qtd`). None of these are considered _foreign_ in the context of the corpus.
 
@@ -27,7 +27,7 @@ These are annotated as cross-lingual content as described below.
 
 ## Cross-lingual content
 
-When a corpus contains material from a language other than its declared language(s), 
+When a corpus contains material from a language other than its declared language(s),
 UD offers a few options for annotating such material, which we term _cross-lingual content_.
 It may be analyzed as either _foreign_ or _borrowed_.
 
@@ -40,8 +40,8 @@ For morphosyntactic annotation of an expression originating in another language,
 
 A treebank may opt to fully analyze the cross-lingual content as if it were in a treebank for the source language.
 This simulates a speaker with knowledge of the morphosyntax of both of the intermixed languages.
-The language of any content analyzed in this manner should be specified on individual tokens 
-with the MISC feature [`Lang`](https://universaldependencies.org/misc.html#lang)`=CODE`, as described [here](https://universaldependencies.org/format.html#other-miscellaneous-attributes): this makes it clear which annotation guidelines 
+The language of any content analyzed in this manner should be specified on individual tokens
+with the MISC feature [`Lang`](https://universaldependencies.org/misc.html#lang)`=CODE`, as described [here](https://universaldependencies.org/format.html#other-miscellaneous-attributes): this makes it clear which annotation guidelines
 are being followed for the cross-lingual content so that the annotations can be properly validated.
 Unless the language is inherently associated with the corpus-level language code
 (see Inherently code-switched corpora above), the cross-lingual portion is considered _foreign_ material
@@ -75,17 +75,17 @@ such as names of people or places used in the target language.
 
 ### Option 2: Borrowed analysis
 
-Another option is to analyze the cross-lingual content as if it is part of the vocabulary 
-of the main language of the text. Tokenization principles of the main language, 
-not the donor language, would be expected to apply. Borrowed words are _not_ marked 
+Another option is to analyze the cross-lingual content as if it is part of the vocabulary
+of the main language of the text. Tokenization principles of the main language,
+not the donor language, would be expected to apply. Borrowed words are _not_ marked
 with [Foreign]()`=Yes` because they are taken to be incorporated into the target language.
 However, the donor language may be made explicit with the [`OrigLang`](https://universaldependencies.org/misc.html#origlang) feature in MISC.
 
-For multiword expressions, the UPOS and morphological features of the expression as a whole 
+For multiword expressions, the UPOS and morphological features of the expression as a whole
 are copied to all the individual words, which are connected to the first word in a [flat]() structure.
 (For names, the subtyped relation [flat:name]() may optionally be used.)
 
-Nominals—including concept terms, personal names, and book titles—are frequently borrowed 
+Nominals—including concept terms, personal names, and book titles—are frequently borrowed
 and would typically be analyzed in this way. Other vocabulary may be considered borrowed as well.
 
 ~~~ sdparse
@@ -110,9 +110,19 @@ flat(coup, d'état)
 If a word from another language has target-language inflectional morphology, this should be treated
 as borrowed so the morphology can be properly encoded in features. Take this Czech example:
 
-~~~ sdparse
-Jeďte po dálnici až k exitu/NOUN 36. \n "Follow the highway until exit 36."
-~~~
+<div class="conllu-parse">
+# text = Jeďte po dálnici až k exitu 36.
+# text_en = Follow the highway until exit 36.
+1 Jeďte   jet     VERB  _ _ 0 root        _ Gloss=go
+2 po      po      ADP   _ _ 3 case        _ Gloss=along
+3 dálnici dálnice NOUN  _ _ 1 obl         _ Gloss=highway
+4 až      až      PART  _ _ 6 advmod:emph _ Gloss=until
+5 k       k       ADP   _ _ 6 case        _ Gloss=to
+6 exitu   exit    NOUN  _ Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos 1 obl _ OrigLang=en|Gloss=exit
+7 36      36      NUM   _ _ 6 nmod        _ Gloss=36|SpaceAfter=No
+8 .       .       PUNCT _ _ 1 punct       _ Gloss=.
+
+</div>
 
 The form _exitu_ does not exist in English and must therefore receive Czech morphological features.
 A borrowed expression may also bear target-language modifiers, for example.
