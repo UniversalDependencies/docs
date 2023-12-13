@@ -13,9 +13,11 @@ is not syntactically related to other accompanying expressions, and
 may include a combination of sounds not otherwise found in the
 language.
 
-Note that words primarily belonging to another part of speech retains
-their original category when used in exclamations. For example, _God_
-is a [NOUN]() even in exclamatory uses.
+In keeping with the general [tagging principles](/u/overview/morphology.html#tagging-principles),
+a word used to signal an exclamation in a particular context does not
+automatically qualify as `INTJ`. For example, nouns and adjectives with
+emotionally valenced semantics should only be tagged `INTJ` in exclamations
+if such usage is considered to be lexicalized as a separate sense.
 
 As a special case of interjections, we recognize feedback particles
 such as _yes_, _no_, _uhuh_, etc.
