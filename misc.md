@@ -292,6 +292,8 @@ is one of the very few MISC attributes that are considered during
 Note that annotation following the foreign language rules is optional. The alternative is that
 the annotators tag the foreign words with UPOS [X]() and `Foreign=Yes`, and they connect them
 using the [flat]()`:foreign` relation. In such cases, no `Lang` attribute is placed in MISC.
+
+See discussion at [Foreign Expressions and Code-Switching](/foreign.html).
 See also [issue #776](https://github.com/UniversalDependencies/docs/issues/776).
 
     # sent_id = de.01
@@ -707,6 +709,7 @@ Similarly to the `Lang` attribute, the value is the (lowercase) ISO 639 language
 `OrigLang` does not switch the validator to the other language, i.e., the token must still
 adhere to the guidelines specific for the main language of the file.
 
+See discussion at [Foreign Expressions and Code-Switching](/foreign.html).
 See also [issue #776](https://github.com/UniversalDependencies/docs/issues/776).
 
 Attested e.g. in Coptic or Komi Zyrian.
