@@ -39,7 +39,9 @@ For morphosyntactic annotation of an expression originating in another language,
 ### Option 1: Code-switched analysis
 
 A treebank may opt to fully analyze the cross-lingual content as if it were in a treebank for the source language.
-This simulates a speaker with knowledge of the morphosyntax of both of the intermixed languages.
+We call this the "code-switched analysis", by analogy to the phenomenon of code-switching, wherein a speaker with
+knowledge of the morphosyntax of multiple languages intermixes them (but this option for treebanking cross-lingual
+content should not be taken as a claim about individual speakers).
 The language of any content analyzed in this manner should be specified on individual tokens
 with the MISC feature [`Lang`](https://universaldependencies.org/misc.html#lang)`=CODE`, as described [here](https://universaldependencies.org/format.html#other-miscellaneous-attributes): this makes it clear which annotation guidelines
 are being followed for the cross-lingual content so that the annotations can be properly validated.
