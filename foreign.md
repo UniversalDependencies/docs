@@ -87,7 +87,7 @@ For multiword expressions, the UPOS and morphological features of the expression
 are copied to all the individual words, which are connected to the first word in a [flat]() structure.
 (For names, the subtyped relation [flat:name]() may optionally be used.)
 
-Nominals—including concept terms, personal names, and book titles—are frequently borrowed
+Nominals—including concept terms and names of persons and locations—are frequently borrowed
 and would typically be analyzed in this way. Other vocabulary may be considered borrowed as well.
 
 ~~~ sdparse
