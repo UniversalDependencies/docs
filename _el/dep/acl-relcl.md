@@ -27,7 +27,7 @@ dobj(χρησιμοποιούσαν, ποσά)
 det(ποσά, οποία)
 ~~~
 
-In the current version of the UD guidelines for Greek, we use the [mark](mark) relation for the Greek relativizer *που*.
+In GTD, the [mark](mark) relation is used for the Greek relativizer *που*.
 
 ~~~ sdparse
 το βιβλίο που σου έδωσα
@@ -40,8 +40,21 @@ mark(έδωσα, που)
 acl:relcl(έκθεση, περιέχει)
 mark(περιέχει, που)
 aux(περιέχει, να)
-neg(περιέχει, μην)
+~~~~
+
+
+In GUD, the relativer που is marked with a proper dependency.
+
+~~~ sdparse
+μια έκθεση που να μην περιέχει λάθη
+acl:relcl(έκθεση, περιέχει)
+nsubj(περιέχει, που)
+mark(περιέχει, να)
+advmod(περιέχει, μην)
 ~~~
+
+ που may not depend on the verb of the relative clause:
+ 
 ~~~ conllu
 # user_id = stellamarks
 # timestamp = 1702809315198
@@ -71,6 +84,8 @@ neg(περιέχει, μην)
 22	»	»	PUNCT	CPUNCT	PunctType=Quot	3	punct	_	SpaceAfter=No
 23	.	.	PUNCT	PTERMP	PunctType=Peri	3	punct	_	_
 ~~~
+
+
 <!---
 TODO: Revisit arguments for pou being a marker or a relative pronoun
 -->
