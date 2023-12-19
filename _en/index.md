@@ -31,13 +31,13 @@ Units that are not tokenized apart include:
 
 All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset (as extended in subsequent LDC corpus releases). Note that XPOS does not have a simple mapping to UPOS tags, as UD guidelines enforce complex relations between dependency relations and POS tags: for example, since the relation `advmod` must generally have the tag `ADV`, UPOS may have `ADV` for some non-adverbial XPOS tags, and vice versa.
 
-Closed class auxiliaries (tagged `AUX`) include:
-  * auxiliaries for periphrastic tenses, aspects, voices and modalities – the lemmas 'be', 'have', 'do', 'will', 'would', 'may', 'might', 'can', 'could', 'shall', 'should', 'must', 'get' when attached with relations `aux` or `aux:pass`
-  * copula – the lemma 'be'
+Some of the closed-class categories have detailed English-specific documentation pages: [AUX](), [DET](), [PART](), [PRON](). For other tags, the English-specific pages may be less informative than the universal pages.
 
 ### Features
 
 All treebanks currently contain whitespace information, except for English-ESL. Morphological features are included in all corpora except English-ESL. In some corpora these are added automatically using CoreNLP (EWT, GUM) and in some cases supplemented using information from other annotation layers (e.g. GUM).
+
+The English-specific documentation pages for the tags [AUX](), [DET](), and [PRON]() also discuss morphological features.
 
 ## Syntax
 
