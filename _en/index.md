@@ -52,6 +52,7 @@ There are [nine](../treebanks/en-comparison.html) English UD treebanks:
   * [English-Atis](../treebanks/en_atis/index.html)
   * [English-ESL](../treebanks/en_esl/index.html)
   * [English-EWT](../treebanks/en_ewt/index.html)
+  * [English-GENTLE](../treebanks/en_gentle/index.html)
   * [English-GUM](../treebanks/en_gum/index.html)
   * [English-GUMReddit](../treebanks/en_gumreddit/index.html)
   * [English-LinES](../treebanks/en_lines/index.html)
