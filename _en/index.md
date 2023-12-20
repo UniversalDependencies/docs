@@ -47,10 +47,10 @@ For more information, see the list of [English relations](dep/index.html).
 
 ## Treebanks
 
-There are [nine](../treebanks/en-comparison.html) English UD treebanks:
+There are [ten](../treebanks/en-comparison.html) active English UD treebanks:
 
   * [English-Atis](../treebanks/en_atis/index.html)
-  * [English-ESL](../treebanks/en_esl/index.html)
+  * [English-ESLSpok](../treebanks/en_eslspok/index.html)
   * [English-EWT](../treebanks/en_ewt/index.html)
   * [English-GENTLE](../treebanks/en_gentle/index.html)
   * [English-GUM](../treebanks/en_gum/index.html)
@@ -59,6 +59,10 @@ There are [nine](../treebanks/en-comparison.html) English UD treebanks:
   * [English-ParTUT](../treebanks/en_partut/index.html)
   * [English-Pronouns](../treebanks/en_pronouns/index.html)
   * [English-PUD](../treebanks/en_pud/index.html)
+
+The following treebank is **retired** (no longer being maintained or included in releases):
+
+  * [English-ESL](../treebanks/en_esl/index.html)
 
 Comparative statistics for tags in the treebanks are available here:
 
