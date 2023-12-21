@@ -48,7 +48,7 @@ nsubj(is-supposed-to-be-given, bagel)
 ~~~
 
 ~~~ sdparse
-В деревне проживает около 70 семей. . \n About 70 families live in the village .
+В деревне проживает около 70 семей . \n About 70 families live in the village .
 nsubj(проживает, семей)
 nsubj(live, families)
 ~~~
