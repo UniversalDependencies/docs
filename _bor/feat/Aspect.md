@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#IncProg">IncProg</a></td>
+  <td><a href="#Iter">Iter</a></td>
   
 </tr>
 </table>
@@ -33,7 +34,16 @@ Incipient progressive is a combination of a aspectual notion with a one of _Akti
 
 #### Example
 
-* _Ikodo torigody<b>nu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy” 
+* _Ikodo torigody<b>nu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy”
+
+
+### <a name="Iter">`Iter`</a>: Iter
+
+The iterative aspect, indicating that the event frequently happens is coded by the reduplication of the predicate.
+
+#### Example
+
+* _Boere boe tugu<b>tugu</b> woe imi&nbsp;_ “People always plant here”
 
 
 
