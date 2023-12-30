@@ -38,6 +38,7 @@ Incipient progressive is a combination of a aspectual notion with a one of _Akti
 * _Ikodo torigody<b>nu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy”
 
 
+
 `Iter` Iterative
 
 ### <a name="Iter">`Iter`</a>: Iter
