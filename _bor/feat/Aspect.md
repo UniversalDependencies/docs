@@ -20,6 +20,8 @@ udver: '2'
 
 The progressive aspect is marked by the suffix -_nu_
 
+* _boe<b>nu</b>re imi&nbsp;_ “I am Bororo” 
+
 #### Example
 
 
@@ -27,10 +29,11 @@ The progressive aspect is marked by the suffix -_nu_
 
 ### <a name="IncProg">`IncProg`</a>: IncProg
 
+Incipient progressive is a combination of a aspectual notion with a one of _Aktionsart_. The suffix -_gody_ indicates that something becomes, begins to be something.
 
 #### Example
 
-
+* _Ikodo torigody<b>nu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy” 
 
 
 
