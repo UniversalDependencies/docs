@@ -21,9 +21,10 @@ udver: '2'
 
 The progressive aspect is marked by the suffix -_nu_
 
+#### Example
 * _boe<b>nu</b>re imi&nbsp;_ “I am Bororo” 
 
-#### Example
+
 
 
 `IncProg` Incipient progressive 
