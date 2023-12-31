@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#Clau">Clau</a></td>
+  <td><a href="#Loc">Loc</a></td>
   
   
 </tr>
@@ -28,7 +29,10 @@ udver: '2'
 #### Example
 
 
+### <a name="Loc">`Loc`</a>: Loc
 
+
+#### Example
 
 
 
