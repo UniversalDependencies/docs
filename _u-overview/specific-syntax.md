@@ -18,8 +18,7 @@ This section of the [syntax overview](syntax.html) contains detailed discussion 
 
 ## Coordination
 
-As discussed in the section on [complex clauses](complex-syntax.html), we treat coordinate structures asymmetrically
-by attaching all non-first conjuncts to the first conjunct via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the immediately following conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively. This analysis is applied to all cases of coordination at the clause, phrase or word level.
+As discussed in the section on [complex clauses](complex-syntax.html), coordination is essentially a symmetrical relation. However, in order to satisfy the dependency tree constraint, the first conjunct is treated as the parent (or “technical head”) of all following conjuncts via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the associated conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively. This analysis is applied to all cases of coordination at the clause, phrase or word level.
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .
