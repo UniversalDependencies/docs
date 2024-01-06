@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: Gender[subj]'
+title: 'Gender[subj]'
 shortdef: 'Gender of subject'
 udver: '2'
 ---
