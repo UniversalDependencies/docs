@@ -1,13 +1,13 @@
 ---
 layout: feature
-title: Gender'
-shortdef: 'Gender'
+title: Gender[subj]'
+shortdef: 'Gender of subject'
 udver: '2'
 ---
 
 The feature marks the gender of the Subject in the verb.
 
-### <a name="Neut">`Neut`</a>: Neuter
+### <a name="Neut">`Neut`</a>: Neuter = Non-human
 
 #### Examples
 
