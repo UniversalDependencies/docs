@@ -38,6 +38,7 @@ However, if the token consists entirely of digits (like _7_ in _Windows 7_), it 
 - _Mary_, _John_
 - _London_
 - _NATO_, _HBO_
+- _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
 
 ### References
 

@@ -24,6 +24,9 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+|13 | 2023-Dec     | 2.14              | CLARIFICATION            | [Foreign Expressions and Code-Switching](#foreign-expressions-and-code-switching) |
+|12 | 2023-Nov     | 2.14              | CLARIFICATION            | [Multiword Expressions](#multiword-expressions)   |
+|11 | 2023-Nov     | 2.14              | CLARIFICATION            | [Semi-mandatory Relation Subtypes](#semi-mandatory-relation-subtypes)  |
 |10 | 2023-Sep     | 2.13              | CLARIFICATION            | [Adpositional Predicative Complements](#adpositional-predicative-complements)  |
 | 9 | 2023-Sep     | 2.13              | CLARIFICATION            | [Sufficiency and Excess Constructions](#sufficiency-and-excess-constructions)  |
 | 8 | 2023-Mar     | 2.12              | AMENDMENT, VALIDATOR     | [Typos in Multiword Tokens](#typos-in-multiword-tokens)  |
@@ -34,6 +37,19 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
+
+
+### Foreign Expressions and Code-Switching
+
+A new page on [Foreign Expressions and Code-Switching](/foreign.html) consolidates the options for analyzing multilingual content ([issue 1001](https://github.com/UniversalDependencies/docs/issues/1001)).
+
+### Multiword Expressions
+
+The wording in the guidelines around “multiword expressions” has been updated to be more precise in the [syntax overview](/u/overview/syntax.html) and on the [flat](), [fixed](), and [compound]() pages ([issue 989](https://github.com/UniversalDependencies/docs/issues/989)). The examples of [flat]() have been revised and restructured around new prototypes ([issue 974](https://github.com/UniversalDependencies/docs/issues/974)), emphasizing that the treatment of many idiosyncratic expressions involving names and numbers should be determined based on language-specific criteria. The wording recommending the subtype [flat:foreign]() has been changed to merely acknowledge that some treebanks use it.
+
+### Semi-mandatory Relation Subtypes
+
+While relation subtypes are technically optional, the guidelines [state](https://universaldependencies.org/u/dep/index.html) that certain subtypes are “semi-mandatory”, i.e., languages are strongly encouraged to use them if relevant. Previously this set was open-ended. The guidelines now commit to a closed set of subtypes that are semi-mandatory ([issue 990](https://github.com/UniversalDependencies/docs/issues/990)).
 
 ### Adpositional Predicative Complements
 

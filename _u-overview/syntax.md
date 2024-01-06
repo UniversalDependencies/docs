@@ -408,9 +408,8 @@ Note that the UD taxonomy does not attempt to differentiate finite from nonfinit
 
 ### Coordination
 
-We treat coordinate structures asymmetrically:
-The head of the relation is the first conjunct and all the other conjuncts depend on it via the [u-dep/conj]() relation.
-Coordinating conjunctions and punctuation delimiting the conjuncts are attached using the [u-dep/cc]() and [u-dep/punct]() relations respectively to the immediately **following** conjunct.
+UD in principle assumes a symmetric relation between conjuncts, which have equal status as syntactic heads of the coordinate structure. However, because the dependency tree format does not allow this analysis to be encoded directly, the first conjunct in the linear order is by convention treated as the parent (or “technical head”) and all the other conjuncts are attached to it via the [u-dep/conj]() relation.
+Coordinating conjunctions and punctuation delimiting the conjuncts are attached using the [u-dep/cc]() and [u-dep/punct]() relations respectively to the associated conjunct.
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .

@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#NS">NS</a></td>
   <td><a href="#Food">Food</a></td>
   <td><a href="#DA">DA</a></td>
   <td><a href="#Adorn">Adorn</a></td>
@@ -17,15 +18,28 @@ udver: '2'
 </tr>
 </table>
 
-`Nomzr` refers to the nominalizer (deverbalizer) 
+`Class` refers to nouns that are used as classifiers for indicating the possessive use of unpossessed nouns.
 
-### <a name="Food">`Food`</a>: Food
+### <a name="NS">`NS`</a>: NS
+
+`NS`(non-specific) allows a non-possessed item to be used in a possessive construction. The noun _o_ 'property, possession' is used.
 
 
 #### Example
 
+* _boe <b>eno</b> moto._ "Bororo world/land (land/world of the Bororo)."
+
+### <a name="Food">`Food`</a>: Food
+
+For the possessive expression of eatables, the generic noun _ke_ 'food' is used.
+
+#### Example
+
+* _Dykodi icare ere <b>tuge</b> boi remagu pui._ "E por isso mediram seu desejo de comida entre si."
+
 ### <a name="DA">`DA`</a>: DA
 
+DA stands for domestic animal
 
 #### Example
 

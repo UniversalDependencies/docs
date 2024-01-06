@@ -15,6 +15,7 @@ udver: '2'
   <td><a href="#Tot">Tot</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Rel">Rel</a></td>
   
 </tr>
 </table>
@@ -71,7 +72,14 @@ Ind (Indefinite) refers to .
 
 #### Example
 
+### <a name="Rel">`Rel`</a>: Rel
 
+Rel (Relative) refers to .
+
+
+#### Example
+
+* _Are itygydo boe erugodymode pui <b>duji</b>&nbsp;_ “You made me suspect a possible fight among the Bororo”
 
 ## Diffs
 

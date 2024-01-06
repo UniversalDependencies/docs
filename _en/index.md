@@ -31,13 +31,13 @@ Units that are not tokenized apart include:
 
 All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset (as extended in subsequent LDC corpus releases). Note that XPOS does not have a simple mapping to UPOS tags, as UD guidelines enforce complex relations between dependency relations and POS tags: for example, since the relation `advmod` must generally have the tag `ADV`, UPOS may have `ADV` for some non-adverbial XPOS tags, and vice versa.
 
-Closed class auxiliaries (tagged `AUX`) include:
-  * auxiliaries for periphrastic tenses, aspects, voices and modalities – the lemmas 'be', 'have', 'do', 'will', 'would', 'may', 'might', 'can', 'could', 'shall', 'should', 'must', 'get' when attached with relations `aux` or `aux:pass`
-  * copula – the lemma 'be'
+Some of the closed-class categories have detailed English-specific documentation pages: [AUX](), [DET](), [PART](), [PRON](). For other tags, the English-specific pages may be less informative than the universal pages.
 
 ### Features
 
 All treebanks currently contain whitespace information, except for English-ESL. Morphological features are included in all corpora except English-ESL. In some corpora these are added automatically using CoreNLP (EWT, GUM) and in some cases supplemented using information from other annotation layers (e.g. GUM).
+
+The English-specific documentation pages for the tags [AUX](), [DET](), and [PRON]() also discuss morphological features.
 
 ## Syntax
 
@@ -47,17 +47,22 @@ For more information, see the list of [English relations](dep/index.html).
 
 ## Treebanks
 
-There are [nine](../treebanks/en-comparison.html) English UD treebanks:
+There are [ten](../treebanks/en-comparison.html) active English UD treebanks:
 
   * [English-Atis](../treebanks/en_atis/index.html)
-  * [English-ESL](../treebanks/en_esl/index.html)
+  * [English-ESLSpok](../treebanks/en_eslspok/index.html)
   * [English-EWT](../treebanks/en_ewt/index.html)
+  * [English-GENTLE](../treebanks/en_gentle/index.html)
   * [English-GUM](../treebanks/en_gum/index.html)
   * [English-GUMReddit](../treebanks/en_gumreddit/index.html)
   * [English-LinES](../treebanks/en_lines/index.html)
   * [English-ParTUT](../treebanks/en_partut/index.html)
   * [English-Pronouns](../treebanks/en_pronouns/index.html)
   * [English-PUD](../treebanks/en_pud/index.html)
+
+The following treebank is **retired** (no longer being maintained or included in releases):
+
+  * [English-ESL](../treebanks/en_esl/index.html)
 
 Comparative statistics for tags in the treebanks are available here:
 

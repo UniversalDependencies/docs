@@ -19,7 +19,9 @@ would apply either to the [u-pos/X]() part of speech (unanalyzable token), or
 to other parts of speech if we know and are willing to annotate the
 class to which the word belongs in its original language.
 
-Note: This feature is new in UD version 2. It was used as a language-specific addition in several treebanks in version 1 but it was not considered boolean and three values were foreseen. Since the additional values were used extremely rarely, they are not part of the universal definition of this feature in UD v2.
+See discussion at [Foreign Expressions and Code-Switching](/foreign.html).
+
+**Historical Note:** This feature is new in UD version 2. It was used as a language-specific addition in several treebanks in version 1 but it was not considered boolean and three values were foreseen. Since the additional values were used extremely rarely, they are not part of the universal definition of this feature in UD v2.
 
 ### <a name="Yes">`Yes`</a>: it is foreign
 
