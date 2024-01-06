@@ -17,7 +17,7 @@ The feature marks transitivity of the verb.
 
 #### Examples
 
-* [ab] _и-ҟа-с-ҵо-ит_ [3Sg.DO-PFX-1SgSUBJ-make-PRS.FIN] ‘I am making it’ `Tense=Pres|VerbForm=Fin|Trans=Yes`
+* [ab] _и-ҟа-с-ҵо-ит_ [3Sg.DO-PFX-1Sg.SUBJ-make-PRS.FIN] ‘I am making it’ `Tense=Pres|VerbForm=Fin|Trans=Yes`
 
 
 
