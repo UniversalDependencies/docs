@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#IncProg">IncProg</a></td>
   <td><a href="#Iter">Iter</a></td>
+  <td><a href="#Imi">Imi</a></td>
   
 </tr>
 </table>
@@ -49,6 +50,15 @@ The iterative aspect, indicating that the event frequently happens is coded by t
 
 * _Boere boe tugu<b>tugu</b> woe imi&nbsp;_ “People always plant here”
 
+`Imi` Imminent
+
+### <a name="Imi">`Imi`</a>: Imminent
+
+The imminent aspect, indicating that the event is imminent is coded by the suffix -_gody_.
+
+#### Example
+
+* _Iroiwa bokwa<b>gody</b>re awy mygyre ikanaora kejeboe tabo imi&nbsp;_ “It's becoming impossible to carry this sitting on my shoulder”
 
 
 
