@@ -14,7 +14,8 @@ Cases include:
 - __Unintelligible material:__ For example, gibberish or words that cannot
 be fully transcribed.
 
-- __Word fragments:__ This includes non-initial parts of a [goeswith]() sequence.
+- __Word fragments:__ This includes truncated words (as in speech) as well as
+non-initial parts of a [goeswith]() sequence.
 Depending on a language's tokenization practices, it may also apply to
 normally bound affixes that have been split off.
 
@@ -24,8 +25,11 @@ See the page on [Foreign Expressions and Code-Switching](/foreign.html).
 Note that this usage does not extend to ordinary loan words:
 e.g., in _he put on a large sombrero_, _sombrero_ is an ordinary [NOUN]().
 
-Note that [SYM]() is appropriate for certain miscellaneous forms that are not _spelled_
-as regular words, but may be _pronounced_ with regular words.
+`X` is discouraged for words that clearly belong to the language, even if they are idiosyncratic 
+in form or distribution and thus do not neatly fit into other syntactic categories.
+For example, _etc._ in English is not an obvious fit for any category, but a regular 
+category ([NOUN]()) was deemed the closest fit. In other cases, one of the other
+non-canonical parts of speech ([PART](), [NUM](), [SYM](), and [PUNCT]()) may be suitable.
 
 ### Examples
 
