@@ -25,3 +25,14 @@ This feature marks person agreement of the verb with the indirect object or of p
 
 * [ab] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`
 
+### <a name="Rel">`Rel`</a>: Relative Person marker
+
+#### Examples
+
+* [ab] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`
+
+### <a name="Rec">`Rec`</a>: Recursive Person marker
+
+#### Examples
+
+* [ab] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`

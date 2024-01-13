@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Person[io]'
-shortdef: 'person of indirect object'
+title: 'Person[obj]'
+shortdef: 'person of (direct) object'
 udver: '2'
 ---
 
