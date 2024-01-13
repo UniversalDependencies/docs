@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#IndOpt">IndOpt</a></td>
   
   
 </tr>
@@ -22,7 +23,16 @@ udver: '2'
 #### Example
 
 
+`IndOpt` Indirect optative 
 
+### <a name="IndOpt">`IndOpt`</a>: IndOpt
+
+Indirect optative -_iagu_ marks complements of verbs of saying which expresses an optative notion.
+
+
+#### Example
+
+* _boeImana akore a<b>iagu</b> tuge rodo&nbsp;_ "My older brother said you should/told you to prepare him tasty food"
 
 
 
