@@ -1,14 +1,14 @@
 ---
 layout: relation
-title: 'dep:repeat'
-shortdef: 'repeating of word'
+title: 'advcl:conv'
+shortdef: 'adverbial clause headed by a converb'
 udver: '2'
 ---
 
-The `dep:repeat` relation is used when a word is repeated for no particular reason.
+The dependent of an `advcl:conv` relation is an adverbial clause headed by a converb.
 
 ~~~ sdparse
 ауи чвгьата йыугiватiитi йыугiватiиті \n You strongly stir stir
 dep:repeat(йыугiватiитi,йыугiватiиті)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:48 CET -->
+
