@@ -11,7 +11,7 @@ version of the treebanks (see table below for the _status quo_). In order to pro
 and to achieve better consistency cross-lingually and within a single language, we propose the
 following changes in v2:
 
-* The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which do not add any meaning other than grammaticalized TAME categories (only one word in most languages). 
+* The `cop` relation is restricted to function words (verbal or nonverbal) whose sole function is to link a nonverbal predicate to its subject and which do not add any meaning other than grammaticalized TAME categories (only one word in most languages).
 * The range of constructions that are analyzed using the cop relation is subject to language-specific variation but can be identified using universal guidelines specified below.
 
 ## Problems with the current copula analysis
@@ -82,14 +82,14 @@ In order to achieve a more consistent treatment of nonverbal predication in v2, 
 We then give the following guidelines for the analysis of these constructions:
 
 * If there is no overt linking word (or if such a word can be omitted at least in some persons or tenses), then the predicative nominal is treated as the head of the clause regardless of which of the six categories it falls in. In languages with fixed SVO order (like English), the final nominal is the predicate and the first nominal is the subject. In free-word-order languages it is possible that the first nominal is the predicate, and distinguishing the subject from the predicate is based on language-specific criteria.
-* If there is an overt linking word used in equational constructions (category 1), then that word is treated as a copula and marked with the `cop` dependency, and is not the head of the clause. **Exception:** If the predicative element in the equation is a clause, then the copula verb is treated as the head of the clause, with the following clause as a `ccomp` (to prevent that the head of the smaller clause gets two subjects). Note that in some languages it may be instead possible to analyze the clause as the subject (`csubj`), retaining the `cop` relation for the copula verb.
+* If there is an overt linking word used in equational constructions (category 1), then that word is treated as a copula and marked with the `cop` dependency, and is not the head of the clause. <s>**(Exception was removed by a <a href="https://universaldependencies.org/changes.html#multiple-subjects">guidelines amendment in 2022</a>):** If the predicative element in the equation is a clause, then the copula verb is treated as the head of the clause, with the following clause as a `ccomp` (to prevent that the head of the smaller clause gets two subjects).</s> Note that in some languages it may be instead possible to analyze the clause as the subject (`csubj`), retaining the `cop` relation for the copula verb.
 * If there is an overt word used in existential constructions (category 6), which is different from the copula in equational constructions (either a different lemma or with different syntax), then it should be regarded as being the head of existence clauses, taking a subject (and often a locative `obl`).
-* All other cases of putative copula constructions (categories 2-5) should be assimilated to the equational and existential cases as seems to make most sense according to the inherent logic of the language concerned. 
+* All other cases of putative copula constructions (categories 2-5) should be assimilated to the equational and existential cases as seems to make most sense according to the inherent logic of the language concerned.
 * A language should normally have at most one copula, but exceptions can be made in case of defective paradigms or if there are two verbs alternating in categories 1-5 (but not in 6) and where any meaning difference reflect at most TAME categories.
 
 ### Language-specific examples
 
-We now exemplify how these guidelines apply to different languages. 
+We now exemplify how these guidelines apply to different languages.
 
 #### English
 
@@ -147,7 +147,7 @@ cop(her, is)
 case(her, for)
 ~~~
 
-(6a) 
+(6a)
 
 ~~~ sdparse
 there is food
@@ -155,7 +155,7 @@ expl(is, there)
 nsubj(is, food)
 ~~~
 
-(6b) 
+(6b)
 
 ~~~ sdparse
 there is food in the kitchen
@@ -169,7 +169,7 @@ case(kitchen, in)
 
 Irish uses a copula verb in categories 1, 4 and 5, and a different verb in categories 2, 3 and 6. Not only the verb but also the word order is different.
 
-(1) 
+(1)
 
 ~~~ sdparse
 Is ise mo mháthair \n is she my mother
@@ -177,7 +177,7 @@ nsubj(ise, mháthair)
 cop(ise, Is)
 ~~~
 
-(2) 
+(2)
 
 ~~~ sdparse
 tá sí deas \n is she nice
@@ -199,7 +199,7 @@ xcomp(tá, seomra)
 Is lei an leabhar\n Is with-her the book
 nsubj(lei, leabhar)
 cop(lei, Is)
-~~~ 
+~~~
 
 (5)
 
@@ -207,7 +207,7 @@ cop(lei, Is)
 is di féin an leabhar \n is for-her the book
 nsubj(di, leabhar)
 cop(di, Is)
-~~~ 
+~~~
 
 There is no special construction for existential constructions in Irish, the examples in (6) and (6b) show the same structure as in (3).
 
@@ -299,7 +299,7 @@ case(ni, pro)
 case(her, for)
 ~~~
 
-(6a) 
+(6a)
 
 ~~~ sdparse
 jídlo je \n food is
@@ -307,7 +307,7 @@ nsubj(je, jídlo)
 nsubj(is, food)
 ~~~
 
-(6b) 
+(6b)
 
 ~~~ sdparse
 v kuchyni je jídlo \n in kitchen is food
@@ -383,7 +383,7 @@ case(нее, для)
 case(her, for)
 ~~~
 
-(6a) 
+(6a)
 
 The form _есть_ is originally the 3rd person singular present indicative of the verb _быть_ (which also functions as copula). However, in Modern Russian this form is used only in existential statements, in both numbers and all persons. Past and future existential statements still use normal forms of _быть._
 
@@ -393,7 +393,7 @@ nsubj(есть, еда)
 nsubj(is, food)
 ~~~
 
-(6b) 
+(6b)
 
 ~~~ sdparse
 есть еда на кухне \n is food in kitchen
@@ -408,7 +408,7 @@ case(kitchen, in)
 
 #### Finnish
 
-In Finnish the copula verb is _olla_ "to be". 
+In Finnish the copula verb is _olla_ "to be".
 
 #### Turkish
 
