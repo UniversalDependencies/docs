@@ -557,7 +557,7 @@ has both adessive and superessive).
 
 * [hu] _asztal_ "table"; _<b>asztalon</b>_ "on the table"
 * [hu] _könyvek_ "books"; _<b>könyveken</b>_ "on books"
-* [dar] _ustuj_ "table"; _<b>ustujčeb</b> "on the table"
+* [dar] _ustuj_ "table"; _<b>ustujčeb</b>_ "on the table"
 * [lez] _<b>векьел</b> (veq'el)_ "on grass"
 
 ### <a name="Spl">`Spl`</a>: superlative
