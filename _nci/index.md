@@ -46,10 +46,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/nci-comparison.html) Classical Nahuatl UD treebanks:
+There are [1](../treebanks/nci-comparison.html) Classical Nahuatl UD treebanks:
 
-  * [Classical Nahuatl-A](../treebanks/nci_a/index.html)
-  * [Classical Nahuatl-B](../treebanks/nci_b/index.html)
+  * [Classical Nahuatl-FloCo](../treebanks/nci_floco/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
