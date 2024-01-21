@@ -16,4 +16,13 @@ Classical Nahuatl has a prefix, *o-* which denotes prior aspect, it is also call
 
 * [nci] 
 
+### <a name="Imp">`Imp`</a>: imperfect 
+
+Indicated with the suffix *-ya*.
+
+#### Examples
+
+* [nci] 
+
+
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:53 CET -->
