@@ -8,5 +8,8 @@ shortdef: 'reported shared'
 The `parataxis:shared` subtype of the [parataxis]() relation is used to attach two clauses which
 share an argument (either NP or agreement) but have no explicit coordination between them.
 
+## Examples
+
+* [nci] *Za ye no iuhqui, mochiuhqui: quicenhuica, <b>quicemihtoa</b> in miquiztetzahuitl.*
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:25 CET -->
