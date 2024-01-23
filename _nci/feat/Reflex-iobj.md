@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Reflex'
-shortdef: 'reflexive'
+title: 'Reflex[iobj]'
+shortdef: 'reflexive indirect object'
 udver: '2'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Reflex'
-shortdef: 'reflexive'
+title: 'Reflex[obj]'
+shortdef: 'reflexive object'
 udver: '2'
 ---
 
