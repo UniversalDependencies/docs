@@ -10,6 +10,12 @@ share an argument (either NP or agreement) but have no explicit coordination bet
 
 ## Examples
 
-* [nci] *Za ye no iuhqui, mochiuhqui: quicenhuica, <b>quicemihtoa</b> in miquiztetzahuitl.*
+~~~ sdparse
+Za ye no iuhqui, mochiuhqui: quicenhuica, quicemihtoa in miquiztetzahuitl.
+parataxis:shared(quicenhuica, quicemihtoa)
+root(mochiuhqui)
+parataxis(mochiuhqui, quicenhuica)
+obj(quicenhuica, miquiztetzahuitl)
+~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:25 CET -->
