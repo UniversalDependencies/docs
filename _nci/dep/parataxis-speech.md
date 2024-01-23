@@ -10,6 +10,12 @@ a reporting verb.
 
 ## Examples
 
-* [nci] *Auh quilhuia in macehualli, in oquimottiti: amo <b>nimitzcahuaz</b>, ca onimitzan.* "Y dijo el vasallo, a quien se había hecho ver: No te <b>dejaré</b>, es que te he tomado."
+~~~ sdparse
+Auh quilhuia in macehualli, in oquimottiti: amo nimitzcahuaz, ca onimitzan.
+parataxis:speech(quilhuia, nimitzcahuaz)
+root(quilhuia)
+nsubj(quilhuia, macehualli)
+parataxis:shared(nimitzcahuaz, onimitzan)
+~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:25 CET -->
