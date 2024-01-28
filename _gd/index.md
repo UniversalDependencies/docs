@@ -185,6 +185,16 @@ For example n04\_002: _... gu robh e 'dol a dh’fhalbh feuch a faigheadh..._, _
 
 'you know'. Treat as `parataxis` as it is explicitly excluded from `discourse`. See also `parataxis` below.
 
+### foreign words
+
+Usually English (`en`) but sometimes Early Modern Irish (`ghc`).
+
+If they're the names of institutions (mostly in the news subcorpus) or borrowings being used in a matter-of-fact way (mostly in the conversation subcorpus) then they are tagged with their original parts of speech and joined by `flat`.
+`OrigLang=en` (or whichever language) goes in the MISC column.
+If they're being used appositively or are titles of works, or are reported speech in another language, then tag everything with `X` and use `flat:foreign` to join them.
+They have `Foreign=Yes` and no other features in the morphology column.
+`Lang=en` goes in the MISC column.
+
 ### _an ìre mhath_
 
 This means 'almost'. See s08_061b for an example. Use `nmod`.
@@ -218,6 +228,10 @@ Where you have a big long sentence with lots of "ars' esan" and "ars' ise"s in i
 
 In most dialects the person (or thing) that can follows the preposition _do_ so is of course `nmod`.
 In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `nmod` of _urrainn_.
+
+### vocables
+
+There are no vocables in ARCOSG, but in the event of a future poetry/song corpus the words in them should be connected by `flat`.
 
 ---
 
