@@ -25,4 +25,4 @@ obl:agent(toiletter,toiletteur)
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation and the causative verb with an [aux:caus]() relation.
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/specific-syntax.html#causative).
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:17 CET -->

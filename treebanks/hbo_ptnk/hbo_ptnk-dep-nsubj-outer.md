@@ -17,28 +17,25 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 9 nsubj:outer	color:blue
-1	ו	ו	CCONJ	conj	_	8	cc	_	Ref=GEN_2.13
-2	שׁם	שׁם	NOUN	subs	Gender=Masc|Number=Sing	8	nsubj	_	Ref=GEN_2.13
-3	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_2.13|SpaceAfter=No
-4	ה	ה	DET	art	PronType=Art	5	det	_	Ref=GEN_2.13
-5	נהר	נהר	NOUN	subs	Gender=Masc|Number=Sing	2	compound:smixut	_	Ref=GEN_2.13
-6	ה	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_2.13
-7	שׁני	שׁני	NUM	adjv	Gender=Masc|Number=Sing|NumType=Ord	5	nummod	_	Ref=GEN_2.13
-8	גִּיחֹ֑ון	גיחון	PROPN	nmpr	Number=Sing	0	root	_	Ref=GEN_2.13
-9	ה֣וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj:outer	_	Ref=GEN_2.13
-10	ה	ה	SCONJ	art	_	11	mark	_	Ref=GEN_2.13
-11	סבב	סבב	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part	8	parataxis	_	Ref=GEN_2.13
-12	אֵ֖ת	את	ADP	prep	_	13	case	_	Ref=GEN_2.13
-13	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	11	obj	_	Ref=GEN_2.13|SpaceAfter=No
-14	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_2.13|SpaceAfter=No
-15	אֶ֥רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	13	compound:smixut	_	Ref=GEN_2.13
-16	כּֽוּשׁ	כושׁ	PROPN	nmpr	Number=Sing	15	compound:smixut	_	Ref=GEN_2.13|SpaceAfter=No
-17	׃	׃	PUNCT	punct	_	8	punct	_	Ref=GEN_2.13
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 nsubj:outer	color:blue
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_42.14
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_42.14
+3	אֲלֵ	אל	ADP	prep	_	4	case	_	Ref=GEN_42.14
+4	הֶ֖ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	_	Ref=GEN_42.14
+5	יֹוסֵ֑ף	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_42.14
+6	ה֗וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:outer	_	Ref=GEN_42.14
+7	אֲשֶׁ֨ר	אשׁר	SCONJ	conj	_	8	mark	_	Ref=GEN_42.14
+8	דִּבַּ֧רְתִּי	דבר	VERB	verb	Aspect=Perf|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	ccomp	_	Ref=GEN_42.14
+9	אֲלֵ	אל	ADP	prep	_	10	case	_	Ref=GEN_42.14
+10	כֶ֛ם	אתם	PRON	prn	Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	obl	_	Ref=GEN_42.14
+11	לֵאמֹ֖ר	לאמר	SCONJ	verb	_	12	mark	_	Ref=GEN_42.14
+12	מְרַגְּלִ֥ים	רגל	VERB	verb	Gender=Masc|HebBinyan=PIEL|Number=Plur|VerbForm=Part	8	ccomp	_	Ref=GEN_42.14
+13	אַתֶּֽם	אתם	PRON	prps	Gender=Masc|Number=Plur|Person=2|PronType=Prs	12	nsubj	_	Ref=GEN_42.14|SpaceAfter=No
+14	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_42.14
 
 ~~~
 

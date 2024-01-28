@@ -42,10 +42,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `PRON` tokens may have the following values of `PronType`:
 
 * `Ind` (8; 1% of non-empty `PronType`): <em>My, You, una, Her, Ya</em>
-* `Int` (9; 1% of non-empty `PronType`): <em>qué, cuál, Cuáles</em>
-* `Int,Rel` (16; 2% of non-empty `PronType`): <em>quien, quienes, cuanto, quién, Quiénes</em>
+* `Int` (12; 1% of non-empty `PronType`): <em>qué, cuál, quién, Cuáles, Quiénes</em>
+* `Int,Rel` (2; 0% of non-empty `PronType`): <em>cuanto</em>
 * `Prs` (773; 73% of non-empty `PronType`): <em>se, su, lo, sus, le, me, ellos, él, les, ella</em>
-* `Rel` (252; 24% of non-empty `PronType`): <em>que, cual, cuales</em>
+* `Rel` (263; 25% of non-empty `PronType`): <em>que, cual, cuales, quien, quienes</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (19) occur only with one value of `PronType`.
 

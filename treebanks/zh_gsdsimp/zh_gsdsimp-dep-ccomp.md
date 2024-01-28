@@ -33,7 +33,7 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	会	会	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	设置	设置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂贵	昂贵	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音频	音频	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	设备	设备	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -67,7 +67,7 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	本国	本国	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=běnguó|LTranslit=běnguó
 8	历史	历史	NOUN	NN	_	3	ccomp	_	SpaceAfter=No|Translit=lìshǐ|LTranslit=lìshǐ
 9	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-10	但	但	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
+10	但	但	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=dàn|LTranslit=dàn
 11	不	不	ADV	RB	Polarity=Neg	12	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 12	使用	使用	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
 13	“	“	PUNCT	``	_	15	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
@@ -97,11 +97,11 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	游戏	游戏	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
 8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
-10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+10	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	知名	知名	ADJ	JJ	_	12	compound	_	SpaceAfter=No|Translit=zhīmíng|LTranslit=zhīmíng
 12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=dù|LTranslit=dù
 13	时	时	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
-14	甚至	甚至	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
+14	甚至	甚至	SCONJ	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
 15	说	说	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 16	“	“	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 17	四百万	四百万	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=sìbǎiwàn|LTranslit=sìbǎiwàn

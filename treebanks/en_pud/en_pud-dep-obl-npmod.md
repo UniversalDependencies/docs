@@ -30,7 +30,7 @@ The following 8 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	subdue	subdue	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-8	53	53	NUM	CD	NumType=Card	9	nummod	9:nummod	_
+8	53	53	NUM	CD	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
 9	year	year	NOUN	NN	Number=Sing	10	obl:npmod	10:obl:npmod	_
 10	old	old	ADJ	JJ	Degree=Pos	6	obj	6:obj	_
 11	during	during	ADP	IN	_	13	case	13:case	_
@@ -51,10 +51,10 @@ The following 8 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 3 obl:npmod	color:blue
 1	Buried	bury	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	14:advcl	_
-2	100	100	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+2	100	100	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	_
 3	meters	meter	NOUN	NNS	Number=Plur	8	obl:npmod	8:obl:npmod	_
 4	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
-5	328	328	NUM	CD	NumType=Card	6	nummod	6:nummod	_
+5	328	328	NUM	CD	NumForm=Digit|NumType=Card	6	nummod	6:nummod	_
 6	feet	foot	NOUN	NNS	Number=Plur	3	appos	3:appos	SpaceAfter=No
 7	)	)	PUNCT	-RRB-	_	6	punct	6:punct	_
 8	underground	underground	ADV	RB	_	1	advmod	1:advmod	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 11	Pyongyang	Pyongyang	PROPN	NNP	Number=Sing	12	compound	12:compound	_
 12	Metro	metro	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	_
 13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	14:cop	_
-14	one	one	NUM	CD	NumType=Card	0	root	0:root	_
+14	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 15	of	of	ADP	IN	_	19	case	19:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
 17	deepest	deepest	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
@@ -84,12 +84,12 @@ The following 8 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 8 obl:npmod	color:blue
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
-7	either	either	DET	DT	_	8	det	8:det	_
+7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
 8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_

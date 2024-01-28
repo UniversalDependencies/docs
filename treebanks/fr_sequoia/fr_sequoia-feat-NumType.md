@@ -61,6 +61,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 57%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NUM --[<tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (1; 100%).
 

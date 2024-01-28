@@ -26,4 +26,4 @@ S:	Common noun
 - _albero_ "tree"
 - _aria_ "air"
 - _bellezza_ "beauty"
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:26 CET -->

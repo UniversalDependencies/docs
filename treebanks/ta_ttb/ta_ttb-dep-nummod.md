@@ -23,8 +23,8 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
 1	93	93	NUM	U=-------	NumForm=Digit|NumType=Card	2	nummod	2:nummod	Translit=93|LTranslit=93
-2	வயத்	வயது	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	3	nmod	3:nmod:nom	Translit=vayat|LTranslit=vayatu
-3	ஆன	ஆன	PART	Tg-------	_	4	nmod	4:nmod	Translit=āna|LTranslit=āna
+2	வயத்	வயது	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	3	nmod	3:nmod:nom	LTranslit=vayatu|Translit=vayat
+3	ஆன	ஆன	PART	Tg-------	_	4	nmod	4:nmod	LTranslit=āna|Translit=āna
 4	கருணாகரனின்	கருணாகரன்	PROPN	NEN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	5	nmod	5:nmod:nom	Translit=karuṇākaranin|LTranslit=karuṇākaran
 5	உடல்நிலை	உடல்நிலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obj	7:obj	Translit=uṭalnilai|LTranslit=uṭalnilai
 6	சீராக	சீர்	ADV	AA-------	_	7	advmod	7:advmod	Translit=cīrāka|LTranslit=cīr

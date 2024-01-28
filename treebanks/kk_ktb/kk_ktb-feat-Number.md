@@ -93,7 +93,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (10; 100% of non-empty `Number`): <em>ақтардың, Ақтар, баршаларын, лақаптар, туындылар, қызылдар, әскерилер, өзгелері</em>
-* `EMPTY` (816): <em>бар, үлкен, жаңа, керек, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
+* `EMPTY` (817): <em>бар, үлкен, керек, жаңа, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
 
 ### `PROPN`
 

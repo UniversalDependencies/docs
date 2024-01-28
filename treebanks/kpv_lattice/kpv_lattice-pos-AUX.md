@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>вӧлі</em> (<tt><a href="kpv_latti
   * <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> 2: <em>Ме зэв рад , мый Владикыскӧд огӧ торъялӧй , a <b>лоам</b> ӧти сиктынӧсь , асланым муса Льӧмшорынӧсь .</em>
   * <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> 1: <em>Ми тэкӧд бур другъясӧн на <b>лоам</b> , зэв бур другъясӧн .</em>
 * <em>ни</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Эз позь бӧрйыны <b>ни</b> Питер Смитӧс , <b>ни</b> Мери Браунӧс .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Ни горзӧмъяс , <b>ни</b> лыйсьӧмъяс .</em>
   * <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> 2: <em>Енэжын <b>ни</b> ӧти кымӧртор эз тыдав .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Водзын сулалісны бурджыка олысьяс нин , кодъяслӧн паськӧманыс эз тыдав ни дӧмас , <b>ни</b> резьдӧмин , да и эм мый налы пуктыны вичко блюдйӧ .</em>
 * <em>вай</em>

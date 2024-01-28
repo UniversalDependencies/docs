@@ -19,7 +19,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-NUM.html
 
 7307 <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (5345; 73%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 66%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (4836; 66%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6108; 84%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4836; 66%), <tt><a href="cs_cac-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (4836; 66%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4836; 66%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -72,10 +72,11 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NUM</tt> (312; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NUM</tt> (313; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-compound.html">compound</a></tt>]--> NUM</tt> (42; 100%),
 <tt>NUM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (16; 100%),
-<tt>ADV --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (6; 55%),
 <tt>NUM --[<tt><a href="cs_cac-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (5; 100%),
-<tt>NUM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> DET</tt> (1; 100%).
+<tt>NUM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> DET</tt> (1; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-6901 tokens (39%) have a non-empty value of `Number`.
-2467 types (67%) occur at least once with a non-empty value of `Number`.
+6900 tokens (39%) have a non-empty value of `Number`.
+2466 types (67%) occur at least once with a non-empty value of `Number`.
 2043 lemmas (65%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (3783; 21% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1041; 6% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (902; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (497; 3% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (487; 3% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (104; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (79; 0% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (3783; 21% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1041; 6% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (902; 5% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (501; 3% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (482; 3% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (104; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (79; 0% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (7; 0% instances), <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -65,47 +65,48 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 `Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (448) occur only with one value of `Number`.
 
+### `AUX`
+
+501 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (501; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (462; 92%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (421; 84%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (385; 77%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (90; 18% of non-empty `Number`): <em>are, 're, were, have, do, 've, must, will, did, Can</em>
+* `Sing` (411; 82% of non-empty `Number`): <em>is, was, has, 's, 'm, will, do, are, 've, had</em>
+* `EMPTY` (252): <em>be, will, can, been, would, could, may, shall, 'll, should</em>
+
+<table>
+  <tr><th>Paradigm <i>be</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'m, am</em></td><td><em>'re, are, ’re</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 're, ’re</em></td><td><em>'re, are</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td><em>were, was</em></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_gentle-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>s</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's</em></td><td><em>are, 're, Were, art, is</em></td></tr>
+</table>
+
 ### `VERB`
 
-497 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (30% of all `VERB` tokens) have a non-empty value of `Number`.
+482 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (496; 100%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (496; 100%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (338; 68%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (299; 60%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (482; 100%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (482; 100%), <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (482; 100%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (329; 68%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (288; 60%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (114; 23% of non-empty `Number`): <em>have, are, know, need, had, name, passed, brought, did, do</em>
-* `Sing` (383; 77% of non-empty `Number`): <em>has, is, said, follows, think, Quoth, came, had, heard, took</em>
-* `EMPTY` (1166): <em>gon, have, see, let, get, do, make, take, following, tell</em>
+* `Plur` (110; 23% of non-empty `Number`): <em>have, know, are, need, had, name, passed, brought, get, meet</em>
+* `Sing` (372; 77% of non-empty `Number`): <em>has, said, follows, is, think, Quoth, came, had, heard, took</em>
+* `EMPTY` (1165): <em>gon, see, have, let, get, do, make, take, following, tell</em>
 
 <table>
   <tr><th>Paradigm <i>have</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>had</em></td><td><em>had</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>have</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>had</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>have, 've</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>have</em></td><td></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>had</em></td><td><em>had</em></td></tr>
   <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>has</em></td><td><em>have</em></td></tr>
-</table>
-
-### `AUX`
-
-487 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (66% of all `AUX` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (487; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (448; 92%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (412; 85%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (374; 77%).
-
-`AUX` tokens may have the following values of `Number`:
-
-* `Plur` (86; 18% of non-empty `Number`): <em>are, 're, were, have, 've, do, must, will, Can, art</em>
-* `Sing` (401; 82% of non-empty `Number`): <em>is, was, has, 's, 'm, will, are, do, 've, had</em>
-* `EMPTY` (250): <em>be, will, can, been, would, could, may, shall, 'll, should</em>
-
-<table>
-  <tr><th>Paradigm <i>be</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>'m, am</em></td><td><em>'re, are, ’re</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 're, ’re</em></td><td><em>'re, 've, are</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td><em>were, was</em></td></tr>
-  <tr><td><tt><tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's, s</em></td><td><em>are, 're, Were, art, is</em></td></tr>
 </table>
 
 ### `DET`
@@ -134,7 +135,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 `ADJ` tokens may have the following values of `Number`:
 
 * `Sing` (79; 100% of non-empty `Number`): <em>Old, Middle, Open, High, Northern, Academic, Danish, English, Mathematical, Oriented</em>
-* `EMPTY` (1159): <em>next, other, first, more, straight, chronic, right, third, transitive, good</em>
+* `EMPTY` (1167): <em>next, other, first, more, straight, chronic, right, such, third, transitive</em>
 
 `Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (45) occur only with one value of `Number`.
 
@@ -162,9 +163,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="en_gentle-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (304; 73%),
 <tt>NOUN --[<tt><a href="en_gentle-dep-conj.html">conj</a></tt>]--> NOUN</tt> (301; 90%),
 <tt>NOUN --[<tt><a href="en_gentle-dep-compound.html">compound</a></tt>]--> NOUN</tt> (275; 71%),
-<tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (242; 53%),
+<tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (234; 52%),
 <tt>NOUN --[<tt><a href="en_gentle-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (174; 75%),
-<tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (120; 62%),
+<tt>VERB --[<tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (118; 62%),
 <tt>NOUN --[<tt><a href="en_gentle-dep-cop.html">cop</a></tt>]--> AUX</tt> (88; 77%),
 <tt>PROPN --[<tt><a href="en_gentle-dep-compound.html">compound</a></tt>]--> PROPN</tt> (76; 86%),
 <tt>PROPN --[<tt><a href="en_gentle-dep-flat.html">flat</a></tt>]--> PROPN</tt> (67; 100%),

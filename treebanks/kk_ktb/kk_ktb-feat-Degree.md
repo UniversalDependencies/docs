@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-ADJ.html
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (5; 100% of non-empty `Degree`): <em>Жақынырақ, анығырақ, арзанырақ, кішірек, тазалау</em>
-* `EMPTY` (821): <em>бар, үлкен, жаңа, керек, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
+* `EMPTY` (822): <em>бар, үлкен, керек, жаңа, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
 
 ### `ADV`
 

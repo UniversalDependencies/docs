@@ -49,4 +49,4 @@ The prospective tense is used to indicate that the process has not yet taken pla
 #### Example
 
 * _hope still dey sey dem <b>go</b> born anoda pikin_ "there is hope that they would have givern birth to another child"
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:50 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:09 CET -->

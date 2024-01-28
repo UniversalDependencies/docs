@@ -52,17 +52,17 @@ The 1st highest number of forms (1) was observed with the lemma “_”: _.
 
 Parents of `ADP` nodes belong to 17 different parts of speech: <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (205366; 82% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (12752; 5% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (11630; 5% instances), <tt><a href="ja_bccwj-pos-PRON.html">PRON</a></tt> (10352; 4% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (3887; 2% instances), <tt><a href="ja_bccwj-pos-ADV.html">ADV</a></tt> (2772; 1% instances), <tt><a href="ja_bccwj-pos-NUM.html">NUM</a></tt> (1296; 1% instances), <tt><a href="ja_bccwj-pos-CCONJ.html">CCONJ</a></tt> (919; 0% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (908; 0% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (406; 0% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (333; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (241; 0% instances), <tt><a href="ja_bccwj-pos-INTJ.html">INTJ</a></tt> (122; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (56; 0% instances), <tt><a href="ja_bccwj-pos-DET.html">DET</a></tt> (43; 0% instances), <tt><a href="ja_bccwj-pos-X.html">X</a></tt> (38; 0% instances),  (19; 0% instances)
 
-239494 (95%) `ADP` nodes are leaves.
+239493 (95%) `ADP` nodes are leaves.
 
 5073 (2%) `ADP` nodes have one child.
 
-6291 (3%) `ADP` nodes have two children.
+6292 (3%) `ADP` nodes have two children.
 
 282 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 8.
 
-Children of `ADP` nodes are attached using 5 different relations: <tt><a href="ja_bccwj-dep-fixed.html">fixed</a></tt> (18426; 99% instances), <tt><a href="ja_bccwj-dep-punct.html">punct</a></tt> (121; 1% instances), <tt><a href="ja_bccwj-dep-compound.html">compound</a></tt> (15; 0% instances), <tt><a href="ja_bccwj-dep-dep.html">dep</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-dep-mark.html">mark</a></tt> (4; 0% instances)
+Children of `ADP` nodes are attached using 5 different relations: <tt><a href="ja_bccwj-dep-fixed.html">fixed</a></tt> (18428; 99% instances), <tt><a href="ja_bccwj-dep-punct.html">punct</a></tt> (121; 1% instances), <tt><a href="ja_bccwj-dep-compound.html">compound</a></tt> (15; 0% instances), <tt><a href="ja_bccwj-dep-dep.html">dep</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-dep-mark.html">mark</a></tt> (4; 0% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (9290; 50% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (5968; 32% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2652; 14% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (333; 2% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (121; 1% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (111; 1% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (75; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (20; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (9290; 50% instances), <tt><a href="ja_bccwj-pos-SCONJ.html">SCONJ</a></tt> (5970; 32% instances), <tt><a href="ja_bccwj-pos-AUX.html">AUX</a></tt> (2652; 14% instances), <tt><a href="ja_bccwj-pos-ADP.html">ADP</a></tt> (333; 2% instances), <tt><a href="ja_bccwj-pos-PUNCT.html">PUNCT</a></tt> (121; 1% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (111; 1% instances), <tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (75; 0% instances), <tt><a href="ja_bccwj-pos-SYM.html">SYM</a></tt> (20; 0% instances), <tt><a href="ja_bccwj-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="ja_bccwj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

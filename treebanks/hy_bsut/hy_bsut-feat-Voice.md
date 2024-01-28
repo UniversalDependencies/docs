@@ -60,7 +60,7 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> VERB</tt> (531; 65%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (162; 53%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (135; 54%),
-<tt>VERB --[<tt><a href="hy_bsut-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (101; 56%),
+<tt>VERB --[<tt><a href="hy_bsut-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (102; 56%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-obl.html">obl</a></tt>]--> VERB</tt> (50; 53%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (15; 60%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (9; 90%),

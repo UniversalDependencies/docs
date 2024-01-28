@@ -21,4 +21,4 @@ mark(they-be-understood, that)
 'the perfect way of understanding consists in the understanding of things which in their very nature are intelligible' (`ITTB train-s5236`, *Summa Contra Gentiles* lib. 2 cap. 91 n. 8, Thomas Aquinas)
 
 * The original literally uses the copula *sum* and not a lexical verb like *consisto* 'to consist'. The clausal non-verbal predicate is signalled and introduced by the connector ([`SCONJ`](la-pos/SCONJ)) *ut*, and headed by a so-called [finite form](la-feat/VerbForm) of the verb *intelligo* 'to understand'.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:08 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:42 CET -->

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 
-172 tokens (43%) have a non-empty value of `Case`.
-146 types (55%) occur at least once with a non-empty value of `Case`.
-128 lemmas (62%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (106; 27% instances), <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (31; 8% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (15; 4% instances).
+174 tokens (43%) have a non-empty value of `Case`.
+148 types (55%) occur at least once with a non-empty value of `Case`.
+130 lemmas (62%) occur at least once with a non-empty value of `Case`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (108; 27% instances), <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (31; 8% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (15; 4% instances).
 
 ### `NOUN`
 
-106 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Case`.
+108 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (95; 90%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (97; 90%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Acc` (13; 12% of non-empty `Case`): <em>chluim, chuil, colcaid, comroicniu, doidṅgi, dul, hési, laitnori, ndead, rainn</em>
 * `Dat` (19; 18% of non-empty `Case`): <em>dia, anmmain, buith, ceniul, charcair, coimthecht, comṡuidiguth, dindgnaib, déainmmnichdechaib, inis</em>
-* `Gen` (21; 20% of non-empty `Case`): <em>bachal, chasc, con, cói, denmo, dodcaid, doss, ecni, fairggae, fidbaidae</em>
-* `Nom` (51; 48% of non-empty `Case`): <em>ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, chliab, choimmdiu</em>
+* `Gen` (22; 20% of non-empty `Case`): <em>bachal, chasc, con, cói, denmo, dodcaid, doss, ecni, fairggae, fidbaidae</em>
+* `Nom` (52; 48% of non-empty `Case`): <em>ᚉᚑᚉᚐᚏᚈ, dias, ainm, airdircus, aite, aithne, bendacht, bruach, cenéle, chliab</em>
 * `Voc` (2; 2% of non-empty `Case`): <em>ingen</em>
 * `EMPTY` (5): <em>accentus, femininum, sam, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ</em>
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt></tt></td><td><em>ᚉᚆᚐᚄᚉ</em></td><td><em>chasc</em></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `NOUN`. 96% lemmas (88) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `NOUN`. 96% lemmas (90) occur only with one value of `Case`.
 
 ### `DET`
 

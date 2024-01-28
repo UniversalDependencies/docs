@@ -144,7 +144,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PROPN --[<tt><a href="kmr_mg-dep-flat.html">flat</a></tt>]--> PROPN</tt> (25; 71%),
+<tt>PROPN --[<tt><a href="kmr_mg-dep-flat.html">flat</a></tt>]--> PROPN</tt> (25; 69%),
 <tt>PROPN --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (18; 86%),
 <tt>NUM --[<tt><a href="kmr_mg-dep-det.html">det</a></tt>]--> DET</tt> (10; 100%),
 <tt>NUM --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7; 54%),

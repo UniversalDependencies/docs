@@ -88,6 +88,8 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 
 16 <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="gd_arcosg-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (16; 100%), <tt><a href="gd_arcosg-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (16; 100%).
+
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (16; 100% of non-empty `Foreign`): <em>and, eighteen, eighty, fifty, five, forty-thousand, hundred, nineteen, ninety, one</em>

@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Abs`, `Cont`, `NCont`.
 
-283 tokens (12%) have a non-empty value of `Rel`.
-197 types (16%) occur at least once with a non-empty value of `Rel`.
-114 lemmas (20%) occur at least once with a non-empty value of `Rel`.
-The feature is used with 9 part-of-speech tags: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (202; 9% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (55; 2% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+358 tokens (12%) have a non-empty value of `Rel`.
+201 types (14%) occur at least once with a non-empty value of `Rel`.
+119 lemmas (19%) occur at least once with a non-empty value of `Rel`.
+The feature is used with 7 part-of-speech tags: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (203; 7% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (121; 4% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (21; 1% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="eme_tudet-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-202 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (25% of all `NOUN` tokens) have a non-empty value of `Rel`.
+203 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (21% of all `NOUN` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `NOUN` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (171; 85%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (165; 82%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (148; 73%).
+The most frequent other feature values with which `NOUN` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (172; 85%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (164; 81%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (157; 77%).
 
 `NOUN` tokens may have the following values of `Rel`:
 
-* `Abs` (24; 12% of non-empty `Rel`): <em>tapɨdʒ, tata, tupa, tapɨdʒa, tapɨdʒam, tapɨdʒape, tapɨdʒapope, tatapewan, taʔaŋa, taʔɨrpɨrɨ</em>
-* `Cont` (91; 45% of non-empty `Rel`): <em>raʔɨr, karairupi, pirarehe, rehe, reiba, wɨrarehe, oibarehe, zawararehe, awurehe, baʔerehe</em>
-* `NCont` (87; 43% of non-empty `Rel`): <em>ijɨ, eiba, ibaridʒa, iawu, idʒar, imõbo, imõdo, iɨ, tu, eraho</em>
+* `Abs` (26; 13% of non-empty `Rel`): <em>tapɨdʒ, tata, tupa, tapɨdʒa, tapɨdʒam, tapɨdʒape, tapɨdʒapope, tatapewan, taʔaŋa, taʔɨrpɨrɨ</em>
+* `Cont` (75; 37% of non-empty `Rel`): <em>raʔɨr, karairupi, reiba, ereiba, raʔɨrate, awurehe, eraha, erapɨdʒape, eru, nipẽrehe</em>
+* `NCont` (102; 50% of non-empty `Rel`): <em>ijɨ, eiba, ibaridʒa, imõdo, eraho, iawu, idʒar, imõbo, itʃɨg, iɨ</em>
 
 <table>
   <tr><th>Paradigm <i>apɨdʒ</i></th><th><tt>Abs</tt></th><th><tt>Cont</tt></th><th><tt>NCont</tt></th></tr>
@@ -44,54 +44,65 @@ The most frequent other feature values with which `NOUN` and `Rel` co-occurred: 
   <tr><td><tt><tt><a href="eme_tudet-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>apɨdʒoŋ</em></td></tr>
 </table>
 
-`Rel` seems to be **lexical feature** of `NOUN`. 91% lemmas (86) occur only with one value of `Rel`.
+`Rel` seems to be **lexical feature** of `NOUN`. 92% lemmas (82) occur only with one value of `Rel`.
 
 ### `ADP`
 
-55 <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> tokens (75% of all `ADP` tokens) have a non-empty value of `Rel`.
+121 <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> tokens (81% of all `ADP` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `ADP` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 85%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 85%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 85%).
+The most frequent other feature values with which `ADP` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (108; 89%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (104; 86%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (101; 83%).
 
 `ADP` tokens may have the following values of `Rel`:
 
-* `Cont` (23; 42% of non-empty `Rel`): <em>rupi, nõdereheo, rehe, rehewe, rupiwe, rehete, derehe, erehe, pedehe, pedeheɲ</em>
-* `NCont` (32; 58% of non-empty `Rel`): <em>ehe, ipope, idʒupe, iwɨb, iʔar, upi, eheŋ, idʒupekupamãʔẽ, idʒupeŋ, idʒuwiŋ</em>
+* `Cont` (73; 60% of non-empty `Rel`): <em>rehe, rupi, rehete, nõdereheo, rehewe, rupiwe, derehe, ehe, erehe, nõderehe</em>
+* `NCont` (48; 40% of non-empty `Rel`): <em>ehe, idʒupe, ipope, iwɨb, idʒuwi, iwonõwã, iwɨrakotɨ, iwɨrarupi, iʔar, upi</em>
 
 <table>
   <tr><th>Paradigm <i>ehe</i></th><th><tt>Cont</tt></th><th><tt>NCont</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>rehe</em></td><td><em>ehe</em></td></tr>
+  <tr><td><tt><tt><a href="eme_tudet-feat-Accomp.html">Accomp</a></tt><tt>=Yes</tt></tt></td><td><em>rehedʒira</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Cont</tt>|<tt><a href="eme_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=In</tt>|<tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>nõdereheo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Cont</tt>|<tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>pedeheɲ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=Ref</tt>|<tt><a href="eme_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=In</tt>|<tt><a href="eme_tudet-feat-Foc.html">Foc</a></tt><tt>=Yes</tt>|<tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>rehete</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=Ref</tt>|<tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>rehe</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=Ref</tt>|<tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eme_tudet-feat-Subord.html">Subord</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ehekomanawe</em></td></tr>
+  <tr><td><tt><tt><a href="eme_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=In</tt>|<tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>nõderehe</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eme_tudet-feat-Foc.html">Foc</a></tt><tt>=Yes</tt></tt></td><td><em>rehete</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>erehe</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>derehe</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>pedehe</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eme_tudet-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>eheŋ</em></td></tr>
+  <tr><td><tt><tt><a href="eme_tudet-feat-Subord.html">Subord</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>ehenam</em></td></tr>
+  <tr><td><tt><tt><a href="eme_tudet-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>reherako</em></td><td></td></tr>
 </table>
+
+`Rel` seems to be **lexical feature** of `ADP`. 90% lemmas (19) occur only with one value of `Rel`.
 
 ### `VERB`
 
-12 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Rel`.
+21 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `VERB` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="eme_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 83%).
+The most frequent other feature values with which `VERB` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 86%).
 
 `VERB` tokens may have the following values of `Rel`:
 
-* `Cont` (11; 92% of non-empty `Rel`): <em>raha, okidʒerehe, reka, apotar, nõderapɨdʒ, okidʒewerehe, oʔararehe, resagoŋ, sidʒaorehe</em>
-* `NCont` (1; 8% of non-empty `Rel`): <em>daorɨdʒi</em>
+* `Cont` (16; 76% of non-empty `Rel`): <em>raha, okidʒerehe, eʔirehe, oʔararehe, reka, apotar, aʔerehe, nõderapɨdʒ, okidʒewerehe, resagoŋ</em>
+* `NCont` (5; 24% of non-empty `Rel`): <em>eraho, reta, daorɨdʒi, eruŋ, omõderehe</em>
+
+`Rel` seems to be **lexical feature** of `VERB`. 100% lemmas (15) occur only with one value of `Rel`.
 
 ### `ADV`
 
-7 <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Rel`.
+9 <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Rel`.
 
 `ADV` tokens may have the following values of `Rel`:
 
-* `Cont` (1; 14% of non-empty `Rel`): <em>nanirehete</em>
-* `NCont` (6; 86% of non-empty `Rel`): <em>ikotɨ, ipuri, irupi, owotete, ikotɨŋ</em>
+* `Cont` (1; 11% of non-empty `Rel`): <em>nanirehete</em>
+* `NCont` (8; 89% of non-empty `Rel`): <em>ikotɨ, ikotɨŋ, ipuri, irupi, owotete, ikotɨɲ</em>
 
 ### `CCONJ`
 
-2 <tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> tokens (25% of all `CCONJ` tokens) have a non-empty value of `Rel`.
+2 <tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> tokens (22% of all `CCONJ` tokens) have a non-empty value of `Rel`.
 
 The most frequent other feature values with which `CCONJ` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Foc.html">Foc</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
 
@@ -106,43 +117,21 @@ The most frequent other feature values with which `CCONJ` and `Rel` co-occurred:
   <tr><td><tt><tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>deroʔoram</em></td><td></td></tr>
 </table>
 
-### `DET`
-
-2 <tt><a href="eme_tudet-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Rel`.
-
-The most frequent other feature values with which `DET` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Foc.html">Foc</a></tt><tt>=Yes</tt> (2; 100%).
-
-`DET` tokens may have the following values of `Rel`:
-
-* `Cont` (2; 100% of non-empty `Rel`): <em>arehete</em>
-
 ### `AUX`
 
 1 <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `AUX` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Cont</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=Cont</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="eme_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Rel`:
 
 * `Cont` (1; 100% of non-empty `Rel`): <em>otuiomãʔẽrehe</em>
 
-### `PRON`
+### `X`
 
-1 <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Rel`.
+1 <tt><a href="eme_tudet-pos-X.html">X</a></tt> tokens (6% of all `X` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `PRON` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Clusivity.html">Clusivity</a></tt><tt>=In</tt> (1; 100%), <tt><a href="eme_tudet-feat-Int.html">Int</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="eme_tudet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+`X` tokens may have the following values of `Rel`:
 
-`PRON` tokens may have the following values of `Rel`:
-
-* `Cont` (1; 100% of non-empty `Rel`): <em>nõderehe</em>
-
-### `PROPN`
-
-1 <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Rel`.
-
-The most frequent other feature values with which `PROPN` and `Rel` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PROPN` tokens may have the following values of `Rel`:
-
-* `Cont` (1; 100% of non-empty `Rel`): <em>tekorehe</em>
+* `NCont` (1; 100% of non-empty `Rel`): <em>eraho</em>
 

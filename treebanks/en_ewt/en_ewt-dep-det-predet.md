@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-det.html">det</a></tt>.
 
-225 nodes (0%) are attached to their parents as `det:predet`.
+226 nodes (0%) are attached to their parents as `det:predet`.
 
-225 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.44.
+226 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.44690265486726.
 
-The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (206; 92% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (8; 4% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (207; 92% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (8; 4% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,10 +27,10 @@ The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a
 3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
 4	best	good	ADJ	JJS	Degree=Sup	5	amod	5:amod	_
 5	solution	solution	NOUN	NN	Number=Sing	0	root	0:root	_
-6	given	give	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	5:advcl	_
-7	all	all	DET	PDT	_	9	det:predet	9:det:predet	_
+6	given	give	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	case	9:case	_
+7	all	all	DET	PDT	PronType=Tot	9	det:predet	9:det:predet	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
-9	uncertainties	uncertainty	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+9	uncertainties	uncertainty	NOUN	NNS	Number=Plur	5	obl	5:obl:given|11:obj	_
 10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
 11	face	face	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	9:acl:relcl	SpaceAfter=No
 12	.	.	PUNCT	.	_	5	punct	5:punct	_
@@ -50,8 +50,8 @@ The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a
 4	Caribbean	Caribbean	PROPN	NNP	Number=Sing	2	obj	2:obj	_
 5	out	out	ADP	IN	_	8	case	8:case	_
 6	of	of	ADP	IN	_	8	case	8:case	_
-7	all	all	DET	PDT	_	8	det:predet	8:det:predet	_
-8	these	this	DET	DT	Number=Plur|PronType=Dem	2	obl	2:obl:of	SpaceAfter=No
+7	all	all	DET	PDT	PronType=Tot	8	det:predet	8:det:predet	_
+8	these	this	PRON	DT	Number=Plur|PronType=Dem	2	obl	2:obl:of	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~

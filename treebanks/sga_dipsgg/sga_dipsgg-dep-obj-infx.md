@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sga_dipsgg-dep-obj.html">obj</a></tt>.
 
-6 nodes (2%) are attached to their parents as `obj:infx`.
+6 nodes (1%) are attached to their parents as `obj:infx`.
 
 6 instances of `obj:infx` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.

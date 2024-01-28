@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal but the values `Equ` are language-specific.
 It occurs with 4 different values: `Cmp`, `Equ`, `Pos`, `Sup`.
 
-28990 tokens (7%) have a non-empty value of `Degree`.
-1253 types (13%) occur at least once with a non-empty value of `Degree`.
-1229 lemmas (13%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (24150; 6% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (4837; 1% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+28991 tokens (7%) have a non-empty value of `Degree`.
+1254 types (13%) occur at least once with a non-empty value of `Degree`.
+1230 lemmas (13%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (24151; 6% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (4837; 1% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-24150 <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `Degree`.
+24151 <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> tokens (18% of all `VERB` tokens) have a non-empty value of `Degree`.
 
 `VERB` tokens may have the following values of `Degree`:
 
 * `Equ` (1783; 7% of non-empty `Degree`): 如、 若、 猶、 奈、 柰、 云、 區、 如來、 亞、 如耳
-* `Pos` (22367; 93% of non-empty `Degree`): 大、 太、 重、 善、 明、 同、 多、 可、 然、 和
+* `Pos` (22368; 93% of non-empty `Degree`): 大、 太、 重、 善、 明、 同、 多、 可、 然、 和
 * `EMPTY` (113209): 曰、 以、 有、 無、 謂、 使、 得、 為、 至、 知
 
 <table>
@@ -30,7 +30,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="lzh_kyoto-pos-VERB.
   <tr><td><tt><tt><a href="lzh_kyoto-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>若</td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `VERB`. 100% lemmas (1149) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `VERB`. 100% lemmas (1150) occur only with one value of `Degree`.
 
 ### `ADV`
 

@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 3	probably	probably	ADV	RB	_	4	advmod	4:advmod	_
 4	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	around	around	ADV	RB	_	6	case	6:case	_
-6	1000	1000	NUM	CD	NumType=Card	4	obl	4:obl:around	_
+6	1000	1000	NUM	CD	NumForm=Digit|NumType=Card	4	obl	4:obl:around	_
 7	BC	bc	NOUN	NN	Number=Sing	6	nmod:npmod	6:nmod:npmod	SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	when	when	ADV	WRB	PronType=Int	12	advmod	12:advmod	_
@@ -55,12 +55,12 @@ The following 7 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 6	dating	date	VERB	VBG	VerbForm=Ger	4	acl	4:acl	_
 7	from	from	ADP	IN	_	10	case	10:case	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-9	14th	14th	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	10:amod	_
+9	14th	14th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	10	amod	10:amod	_
 10	century	century	NOUN	NN	Number=Sing	6	obl	6:obl:from	_
 11	BCE	bce	NOUN	NN	Number=Sing	10	nmod:npmod	10:nmod:npmod	SpaceAfter=No
 12	,	,	PUNCT	,	_	6	punct	6:punct	_
 13	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-14	ten	ten	NUM	CD	NumType=Card	15	nummod	15:nummod	_
+14	ten	ten	NUM	CD	NumForm=Word|NumType=Card	15	nummod	15:nummod	_
 15	letters	letter	NOUN	NNS	Number=Plur	13	obj	13:obj	_
 16	from	from	ADP	IN	_	18	case	18:case	_
 17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	18:det	_
@@ -86,9 +86,9 @@ The following 7 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 # visual-style 4 6 nmod:npmod	color:blue
 1	On	on	ADP	IN	_	4	case	4:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-3	1st	1st	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	4:amod	_
+3	1st	1st	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	January	January	PROPN	NNP	Number=Sing	10	obl	10:obl:on	_
-5	49	49	NUM	CD	NumType=Card	4	nummod	4:nummod	_
+5	49	49	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
 6	BC	bc	NOUN	NN	Number=Sing	4	nmod:npmod	4:nmod:npmod	SpaceAfter=No
 7	,	,	PUNCT	,	_	10	punct	10:punct	_
 8	Marco	Marco	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	_

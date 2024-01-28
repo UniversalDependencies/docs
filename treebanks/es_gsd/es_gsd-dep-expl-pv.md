@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-GSD: Relations: `expl:pv`
 
 This relation is a language-specific subtype of <tt><a href="es_gsd-dep-expl.html">expl</a></tt>.
+There are also 1 other language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-pass.html">expl:pass</a></tt>.
 
-5335 nodes (1%) are attached to their parents as `expl:pv`.
+5332 nodes (1%) are attached to their parents as `expl:pv`.
 
-4611 instances of `expl:pv` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13664479850047.
+4609 instances of `expl:pv` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13672168042011.
 
-The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (5314; 100% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (5311; 100% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 9	fgColor:white
 # visual-style 9 8 expl:pv	color:blue
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	12	12	NUM	_	NumType=Card	9	obl	_	_
+2	12	12	NUM	_	NumForm=Digit|NumType=Card	9	obl	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	noviembre	noviembre	PROPN	_	_	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_

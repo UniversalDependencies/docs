@@ -29,4 +29,4 @@ The respective words with the label `I` are mapped to INTJ:
 - _кис-кис_ / _kis-kis_ lit. "somebody smiled"
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:24 CET -->

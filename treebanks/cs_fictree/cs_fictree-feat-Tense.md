@@ -116,12 +116,12 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4343; 91%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1189; 75%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (123; 79%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (85; 77%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (52; 76%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (50; 64%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (42; 64%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (31; 84%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (25; 78%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (15; 83%).
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (15; 71%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (14; 78%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (9; 90%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 60%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%).
 

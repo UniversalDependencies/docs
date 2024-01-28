@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  ב (<tt><a href="he_htb-pos-ADP.html">ADP
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.884615 (the average of all parts of speech is 1.702647).
+The form / lemma ratio of `X` is 2.884615 (the average of all parts of speech is 1.702584).
 
 The 1st highest number of forms (51) was observed with the lemma “_”: 71פעל, אולדהאם, אמריקאים, באפסיס, בית, גרעון, דק, היה, הסתדרות, העדת, הערב, הרים, התאחדות, וקפכות, זאתו, חוקרים, יחסים, כי, לאנשי, מארק, מהשך, מועמדי, מחצית, מטבע, מילואה, מלך, ממשלתו, מנכ"ל, מקורות, מקסים, משחק, משמעות, סוף, סניף, עיתון, פועלים, פחות, קולת, קפידבין, קפכות, קפספבין, קפתמונה1, רצועה, ש22חת, שביתת, של, תובעת, תוך, תוכנית, תומכיו, תח22שאחדים.
 

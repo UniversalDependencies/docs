@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (1%) are attached to their parents as `xcomp`.
+77 nodes (1%) are attached to their parents as `xcomp`.
 
-76 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18421052631579.
+77 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.18181818181818.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (59; 78% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (10; 13% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (2; 3% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (59; 77% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (10; 13% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (6; 8% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

@@ -11,12 +11,12 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 1371 tokens (6%) have a non-empty value of `Person`.
 149 types (3%) occur at least once with a non-empty value of `Person`.
-122 lemmas (3%) occur at least once with a non-empty value of `Person`.
+121 lemmas (3%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (742; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (435; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (194; 1% instances).
 
 ### `PRON`
 
-742 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
+742 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (742; 100%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (544; 73%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (487; 66%), <tt><a href="en_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (388; 52%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (109; 15% of non-empty `Person`): <em>I, we, our, my, us, me</em>
 * `2` (20; 3% of non-empty `Person`): <em>you, your</em>
 * `3` (613; 83% of non-empty `Person`): <em>it, he, his, their, they, her, its, she, him, them</em>
-* `EMPTY` (279): <em>that, which, who, there, this, what, those, these, whose, 'Ya</em>
+* `EMPTY` (282): <em>that, which, who, there, this, what, those, these, whose, 'Ya</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (13) occur only with one value of `Person`.
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `3` (194; 100% of non-empty `Person`): <em>has, is, says, was, makes, helps, seems, 's, appears, contains</em>
 * `EMPTY` (1956): <em>have, said, used, took, began, are, had, became, made, according</em>
 
-`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (108) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (107) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 

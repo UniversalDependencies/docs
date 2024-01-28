@@ -14,4 +14,4 @@ flat:name(Shazza, Nzingha)
 
 Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the <code>flat:name</code> label.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:16 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:57 CET -->

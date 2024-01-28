@@ -22,11 +22,11 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound:prt	color:blue
-1	Next	next	ADJ	JJ	Degree=Pos	0	root	0:root	Discourse=explanation-evidence:130->128:1|SpaceAfter=No|XML=<hi rend:::"italic">
+1	Next	next	ADJ	JJ	Degree=Pos	0	root	0:root	Discourse=explanation-evidence:130->128:1:_|SpaceAfter=No|XML=<hi rend:::"italic">
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
 3	please	please	INTJ	UH	_	7	discourse	7:discourse	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
-5	do	do	AUX	VB	VerbForm=Inf	7	aux	7:aux	Discourse=joint-list_m:131->130:0
+5	do	do	AUX	VB	VerbForm=Inf	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
 6	n't	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
 7	hold	hold	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_
 8	up	up	ADP	RP	_	7	compound:prt	7:compound:prt	_
@@ -43,21 +43,21 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:prt	color:blue
-1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3
+1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3:_
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(1-person-giv:act-cf1*-1-ana)
 3	will	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	5	cop	5:cop	_
-5	better	good	ADJ	JJR	Degree=Cmp	0	root	0:root	_
+5	better	good	ADJ	JJR	Degree=Cmp	0	root	0:root	MSeg=bett-er
 6	off	off	ADP	RP	_	5	compound:prt	5:compound:prt	_
-7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0
+7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0:_
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(7-person-giv:act-cf2-1-ana)
 9	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 10	do	do	VERB	VB	VerbForm=Inf	5	conj	5:conj:or	_
 11	what	whatever	PRON	GW	Typo=Yes	10	obj	10:obj	CorrectForm=whatever|Entity=(31-abstract-new-cf5-6-sgl|XML=<sic ana:::"whatever">
 12	ever	_	X	WP	_	11	goeswith	11:goeswith	CorrectForm=_|XML=</sic>
 13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Entity=(32-event-new-cf4-1-cata)
-14	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
-15	to	to	PART	TO	_	16	mark	16:mark	Discourse=purpose-goal:45->44:0|Entity=(32-event-acc:com-cf4-2-coref
+14	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	MSeg=take-s
+15	to	to	PART	TO	_	16	mark	16:mark	Discourse=purpose-goal:45->44:0:_|Entity=(32-event-acc:com-cf4-2-coref
 16	have	have	VERB	VB	VerbForm=Inf	10	advcl	10:advcl:to	_
 17	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	16	obj	16:obj|19:nsubj:xsubj	Entity=(1-person-giv:act-cf1*-1-ana)
 18	in	in	ADP	IN	_	19	case	19:case	_
@@ -75,12 +75,12 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 compound:prt	color:blue
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=joint-other_m:19->13:1|Entity=(6-person-giv:act-cf1*-1-ana)
-2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=joint-other_m:19->13:1:_|Entity=(6-person-giv:act-cf1*-1-ana)
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=come-s
 3	in	in	ADP	RP	_	2	compound:prt	2:compound:prt	_
 4	to	to	ADP	IN	_	5	case	5:case	_
 5	clinic	clinic	NOUN	NN	Number=Sing	2	obl	2:obl:to	Entity=(19-place-new-cf2-1-coref)
-6	today	today	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	Entity=(20-time-new-cf3-1-sgl)
+6	today	today	NOUN	NN	Number=Sing	2	obl:tmod	2:obl:tmod	Entity=(20-time-new-cf3-1-sgl)|MSeg=to-day
 7	for	for	ADP	IN	_	8	case	8:case	_
 8	follow	follow	NOUN	NN	Number=Sing	2	obl	2:obl:for	Entity=(21-event-new-cf4-1,7-sgl|SpaceAfter=No|XML=<w>
 9	-	-	PUNCT	HYPH	_	10	punct	10:punct	SpaceAfter=No

@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-NUM.htm
 
 434 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (388; 89%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (377; 87%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (366; 84%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Roman</tt> (366; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (366; 84%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (388; 89%), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (366; 84%), <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Roman</tt> (366; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (366; 84%).
 
 `NUM` tokens may have the following values of `NumType`:
 

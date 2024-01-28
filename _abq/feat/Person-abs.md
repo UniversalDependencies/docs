@@ -24,4 +24,4 @@ This feature marks person agreement of the verb with the absolutive argument (su
 #### Examples
 
 * [abq] _<b>йы</b>-з-б-И-тӏ_ [<b>3N.ABS</b>-1SG.ERG-see-PRS-DLC] ‘I see <b>it</b>’ `Gender[abs]=Neut|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres`
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:44 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:59 CET -->

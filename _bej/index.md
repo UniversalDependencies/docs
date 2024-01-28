@@ -42,8 +42,7 @@ and [Beja features](feat/index.html).
 
  * Bedja is mostly a final-headed language. The reverse order can also be found sometimes, for reasons related to the organization of the informational structure.
  * The dependency analysis is a conversion of the manual annotation to SUD format. For more information, see [SUD guidelines](https://surfacesyntacticud.github.io/guidelines/u/)
- * Beja subjects are mostly noun phrases in inital position and are analyse by a standard nsubj relation. In addition to a possible independent lexical or pronominal subject, the Beja verb calls for an attached pronominal subject marker. This construction will be described via the language-specific sub-relation `aff` to the nsubj relation (`nsubj:aff`).
- * This process is the same used to describe other affixes relations. We have `obj:aff`,`case:aff`, `aux:aff`, `mark:aff` and `dep:aff`.
+ * Beja subjects are mostly noun phrases in inital position and are analyse by a standard nsubj relation. In addition to a possible independent lexical or pronominal subject, the Beja verb calls for an attached pronominal subject marker. 
  * The complement is mostly pre-posed at the head of the phrase. We have direct object with `obj`, indirect object with `iobj`.
 
 

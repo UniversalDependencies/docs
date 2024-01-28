@@ -18,20 +18,19 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="s
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 cc	color:blue
-1	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-2	da	da	CCONJ	CC	_	3	cc	_	_
-3	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	1	conj	_	GTtags=Prop,Sem/Fem,Sg,Nom
-4	âskkõʹlle	âskkõõllâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
-5	da	da	CCONJ	CC	_	6	cc	_	_
-6	liõʹhtte	liõhttâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	conj	_	GTtags=Ind,Prt,Pl3
-7	meädda	meädda	ADV	Adv	_	8	advmod:lmod	_	_
-8	lõõnjâst	lõnnj	NOUN	N	Case=Loc|Number=Sing	6	obl:lmod	_	GTtags=Sg,Loc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 cc	color:blue
+1	Oummu	ooumaž	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	GTtags=Pl,Nom
+2	vuejjle	vuejjled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
+3	de	de	CCONJ	CC	_	4	cc	_	_
+4	mõʹnne	mõõnnâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt,Pl3
+5	de	de	CCONJ	CC	_	7	cc	_	_
+6	mieʹldd	mieʹldd	ADV	Adv	_	7	advmod	_	_
+7	čuõiggle	čuõiggled	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt,Pl3|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 
@@ -39,18 +38,18 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="s
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 cc	color:blue
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
-3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
-4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obj	_	GTtags=Sg,Gen
-5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Number=Sing|VerbForm=Vnoun	3	obj	_	GTtags=Sg,Acc
-6	da	da	CCONJ	CC	_	8	cc	_	_
-7	veeiʹn	veiʹnn	NOUN	N	Case=Gen|Number=Sing	8	obj	_	GTtags=Sg,Gen
-8	juukkmõõžž	juukkmõš	NOUN	N	Case=Acc|Number=Sing	5	conj	_	GTtags=Sg,Acc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 cc	color:blue
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
+2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
+3	Jeäʹled	ij	AUX	V	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Imprt,Pl2,@+FAUXV
+4	cieʹlǩ	ceäʹlǩǩed	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg
+5	vueʹǯǯ	vueʹǯǯ	NOUN	N	Case=Acc|Number=Sing	4	obj	_	GTtags=N,Sg,Acc,@OBJ>
+6	mutta	mutta	CCONJ	CC	_	7	cc	_	GTtags=Err/Lex,@CNP
+7	triâŋgg	triâŋgg	NOUN	N	Case=Nom|Number=Sing	5	conj	_	GTtags=Sg,Nom|SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+9	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
 
 ~~~
 

@@ -23,12 +23,12 @@ The following 9 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod:comp	color:blue
-1	ئادەمدىن	ئادەم	NOUN	N	Case=Abl	2	nmod:comp	_	Translit=ademdin
-2	قالسا	قال	VERB	V	Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv	5	advcl	_	Translit=qalsa
-3	بۆرە	بۆرە	NOUN	N	Case=Nom	5	nsubj	_	Translit=böre
-4	پاراسەتلىك	پاراسەتلىك	ADJ	A	_	5	amod	_	Translit=parasetlik
-5	مەخلۇق	مەخلۇق	NOUN	N	Case=Nom	0	root	_	SpaceAfter=No|Translit=mexluq
-6	.	.	PUNCT	Y	_	5	punct	_	Translit=.
+1	ئادەمدىن	ئادەم	NOUN	N	Case=Abl	2	nmod:comp	_	Translit=ademdin|LTranslit=adem
+2	قالسا	قال	VERB	V	Mood=Cnd|Number=Plur|Person=3|VerbForm=Conv	5	advcl	_	Translit=qalsa|LTranslit=qal
+3	بۆرە	بۆرە	NOUN	N	Case=Nom	5	nsubj	_	Translit=böre|LTranslit=böre
+4	پاراسەتلىك	پاراسەتلىك	ADJ	A	_	5	amod	_	Translit=parasetlik|LTranslit=parasetlik
+5	مەخلۇق	مەخلۇق	NOUN	N	Case=Nom	0	root	_	SpaceAfter=No|Translit=mexluq|LTranslit=mexluq
+6	.	.	PUNCT	Y	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -39,25 +39,25 @@ The following 9 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:comp	color:blue
-1	گاھى	_	VERB	V	_	2	acl	_	Translit=gahi|Morf=Unknown
-2	چاغلاردا	چاغ	NOUN	N	Case=Loc|Number=Plur	18	nmod:tmod	_	SpaceAfter=No|Translit=chaghlarda
-3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
-4	بويىدىن	بوي	NOUN	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	5	nmod:comp	_	Translit=boyidin
-5	ئېگىز	ئېگىز	ADJ	A	Case=Nom	6	amod	_	Translit=ëgiz
-6	سازلارنى	ساز	NOUN	N	Case=Acc|Number=Plur	8	obj	_	Translit=sazlarni
-7	قولىغا	قول	NOUN	N	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	8	obl	_	Translit=qoligha
-8	ئېلىۋېلىپ	_	VERB	V	_	18	advcl	_	SpaceAfter=No|Translit=ëliwëlip|Morf=Unknown
-9	،	،	PUNCT	Y	_	8	punct	_	Translit=,
-10	تۇرۇپ	تۇر	VERB	V	Aspect=Perf|VerbForm=Conv	0	root	_	Translit=turup
-11	زىل	زىل	ADJ	A	_	12	amod	_	Translit=zil
-12	تارىلارنى	_	NOUN	N	_	13	obj	_	Translit=tarilarni|Morf=Unknown
-13	تىرىڭشىتسا	_	VERB	V	_	10	conj	_	SpaceAfter=No|Translit=tiringshitsa|Morf=Unknown
-14	،	،	PUNCT	Y	_	15	punct	_	Translit=,
-15	تۇرۇپ	تۇر	VERB	V	Aspect=Perf|VerbForm=Conv	13	conj	_	Translit=turup
-16	بوم	بوم	ADJ	A	Case=Nom	17	amod	_	Translit=bom
-17	تارىلارنى	_	NOUN	N	_	18	obj	_	Translit=tarilarni|Morf=Unknown
-18	تىرىڭشىتاتتى	_	VERB	V	_	15	conj	_	SpaceAfter=No|Translit=tiringshitatti|Morf=Unknown
-19	.	.	PUNCT	Y	_	13	punct	_	Translit=.
+1	گاھى	_	VERB	V	_	2	acl	_	Morf=Unknown|Translit=gahi
+2	چاغلاردا	چاغ	NOUN	N	Case=Loc|Number=Plur	18	nmod:tmod	_	SpaceAfter=No|Translit=chaghlarda|LTranslit=chagh
+3	،	،	PUNCT	Y	_	2	punct	_	Translit=,|LTranslit=,
+4	بويىدىن	بوي	NOUN	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	5	nmod:comp	_	Translit=boyidin|LTranslit=boy
+5	ئېگىز	ئېگىز	ADJ	A	Case=Nom	6	amod	_	Translit=ëgiz|LTranslit=ëgiz
+6	سازلارنى	ساز	NOUN	N	Case=Acc|Number=Plur	8	obj	_	Translit=sazlarni|LTranslit=saz
+7	قولىغا	قول	NOUN	N	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	8	obl	_	Translit=qoligha|LTranslit=qol
+8	ئېلىۋېلىپ	_	VERB	V	_	18	advcl	_	SpaceAfter=No|Morf=Unknown|Translit=ëliwëlip
+9	،	،	PUNCT	Y	_	8	punct	_	Translit=,|LTranslit=,
+10	تۇرۇپ	تۇر	VERB	V	Aspect=Perf|VerbForm=Conv	0	root	_	Translit=turup|LTranslit=tur
+11	زىل	زىل	ADJ	A	_	12	amod	_	Translit=zil|LTranslit=zil
+12	تارىلارنى	_	NOUN	N	_	13	obj	_	Morf=Unknown|Translit=tarilarni
+13	تىرىڭشىتسا	_	VERB	V	_	10	conj	_	SpaceAfter=No|Morf=Unknown|Translit=tiringshitsa
+14	،	،	PUNCT	Y	_	15	punct	_	Translit=,|LTranslit=,
+15	تۇرۇپ	تۇر	VERB	V	Aspect=Perf|VerbForm=Conv	13	conj	_	Translit=turup|LTranslit=tur
+16	بوم	بوم	ADJ	A	Case=Nom	17	amod	_	Translit=bom|LTranslit=bom
+17	تارىلارنى	_	NOUN	N	_	18	obj	_	Morf=Unknown|Translit=tarilarni
+18	تىرىڭشىتاتتى	_	VERB	V	_	15	conj	_	SpaceAfter=No|Morf=Unknown|Translit=tiringshitatti
+19	.	.	PUNCT	Y	_	13	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -68,17 +68,17 @@ The following 9 pairs of parts of speech are connected with `nmod:comp`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nmod:comp	color:blue
-1	چۈنكى	چۈنكى	SCONJ	C	_	6	mark	_	Translit=chünki
-2	سەن	سەن	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Translit=sen
-3	ئۆزۈڭدىن	_	NOUN	N	_	4	nmod:comp	_	Translit=özüngdin|Morf=Missing,1
-4	ئاجىزلارنى	ئاجىز	NOUN	N	Case=Acc|Number=Plur	6	obj	_	Translit=ajizlarni
-5	قوغدىيالايدىغان	_	VERB	V	_	6	compound:lvc	_	Translit=qoghdiyalaydighan|Morf=Unknown
-6	بولدۇڭ	بول	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	9	ccomp	_	SpaceAfter=No|Translit=boldung
-7	!	!	PUNCT	V	_	6	punct	_	Translit=!
-8	_	_	PUNCT	Y	_	6	punct	_	Translit=_|Morf=Unknown
-9	دېدى	دې	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=dëdi
-10	ئانا	ئانا	NOUN	N	Case=Nom	9	nsubj	_	Translit=ana
-11	كۈلۈپ	_	X	Y	_	9	advcl	_	Translit=külüp|Morf=Unknown
+1	چۈنكى	چۈنكى	SCONJ	C	_	6	mark	_	Translit=chünki|LTranslit=chünki
+2	سەن	سەن	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Translit=sen|LTranslit=sen
+3	ئۆزۈڭدىن	_	NOUN	N	_	4	nmod:comp	_	Morf=Missing,1|Translit=özüngdin
+4	ئاجىزلارنى	ئاجىز	NOUN	N	Case=Acc|Number=Plur	6	obj	_	Translit=ajizlarni|LTranslit=ajiz
+5	قوغدىيالايدىغان	_	VERB	V	_	6	compound:lvc	_	Morf=Unknown|Translit=qoghdiyalaydighan
+6	بولدۇڭ	بول	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	9	ccomp	_	SpaceAfter=No|Translit=boldung|LTranslit=bol
+7	!	!	PUNCT	V	_	6	punct	_	Translit=!|LTranslit=!
+8	_	_	PUNCT	Y	_	6	punct	_	Morf=Unknown
+9	دېدى	دې	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=dëdi|LTranslit=dë
+10	ئانا	ئانا	NOUN	N	Case=Nom	9	nsubj	_	Translit=ana|LTranslit=ana
+11	كۈلۈپ	_	X	Y	_	9	advcl	_	Morf=Unknown|Translit=külüp
 
 ~~~
 

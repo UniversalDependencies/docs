@@ -33,7 +33,7 @@ The following 29 pairs of parts of speech are connected with `obj`: <tt><a href=
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -84,8 +84,8 @@ The following 29 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 obj	color:blue
-1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
-2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
+2	月	月	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 3	二十一	二十一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit='èrshíyī|LTranslit='èrshíyī
 4	日	日	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -94,7 +94,7 @@ The following 29 pairs of parts of speech are connected with `obj`: <tt><a href=
 8	迎接	迎接	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yíngjiē|LTranslit=yíngjiē
 9	前來	前來	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=qiánlái|LTranslit=qiánlái
 10	瀋陽	瀋陽	PROPN	NNP	_	9	obj	_	SpaceAfter=No|Translit=瀋yáng|LTranslit=瀋yáng
-11	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+11	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	科爾沁	科爾沁	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=kē'ěr沁|LTranslit=kē'ěr沁
 13	部	部	PART	SFN	_	15	nmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 14	奧巴	奧巴	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit='àoba|LTranslit='àoba

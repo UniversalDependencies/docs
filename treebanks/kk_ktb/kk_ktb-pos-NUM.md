@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>бір</em> (<tt><a href="kk_ktb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.139394 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `NUM` is 1.139394 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (6) was observed with the lemma “бір”: <em>Бірін, Бірінші, бір, бірдей, бірі, бірінен</em>.
 

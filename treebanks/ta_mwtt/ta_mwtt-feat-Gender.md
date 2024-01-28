@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Com`, `Fem`, `Masc`, `Neut`.
 
-619 tokens (24%) have a non-empty value of `Gender`.
-269 types (32%) occur at least once with a non-empty value of `Gender`.
-127 lemmas (29%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (351; 14% instances), <tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (153; 6% instances), <tt><a href="ta_mwtt-pos-AUX.html">AUX</a></tt> (71; 3% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (38; 1% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+615 tokens (24%) have a non-empty value of `Gender`.
+266 types (32%) occur at least once with a non-empty value of `Gender`.
+125 lemmas (28%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 5 part-of-speech tags: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (351; 14% instances), <tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (153; 6% instances), <tt><a href="ta_mwtt-pos-AUX.html">AUX</a></tt> (71; 3% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (38; 1% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 ### `VERB`
 
@@ -98,27 +98,6 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `EMPTY` (496): வீடு, பரிசு, குழந்தைக்கு, மந்திரி, வீட்டுக்கு, பையன், பணம், புத்தகம், பெண், மணிக்கு
 
 `Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `Gender`.
-
-### `ADJ`
-
-2 <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Gender`.
-
-`ADJ` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 50% of non-empty `Gender`): அழகியவள்
-* `Neut` (1; 50% of non-empty `Gender`): நல்லது
-* `EMPTY` (34): நல்ல, பெரிய, சிறிய, அடுத்த, நிறைய, அழகிய, இத்தனை, இல்லாத, இவ்வளவு, உள்ள
-
-### `ADV`
-
-2 <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="ta_mwtt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ta_mwtt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ta_mwtt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
-
-`ADV` tokens may have the following values of `Gender`:
-
-* `Com` (2; 100% of non-empty `Gender`): தானே
-* `EMPTY` (159): நேற்று, இப்போது, இங்கே, இன்று, மட்டும், அங்கே, நன்றாக, நாளைக்கு, நிமிர்ந்து, மிகவும்
 
 ### `PROPN`
 

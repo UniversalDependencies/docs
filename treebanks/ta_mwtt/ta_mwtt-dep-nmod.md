@@ -54,8 +54,8 @@ The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod	color:blue
 1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	5	nsubj	_	Translit=kumār|LTranslit=kumār
-2	பணத்துக்கு	பணம்	NOUN	_	Case=Dat|Gender=Neut|Number=Sing|Person=3	5	obl	_	Translit=paṇattukku|LTranslit=paṇam
-3	தான்	தான்	PART	_	_	2	nmod	_	Translit=tāṉ|LTranslit=tāṉ
+2	பணத்துக்கு	பணம்	NOUN	_	Case=Dat|Gender=Neut|Number=Sing|Person=3	5	obl	_	LTranslit=paṇam|Translit=paṇattukku
+3	தான்	தான்	PART	_	_	2	nmod	_	LTranslit=tāṉ|Translit=tāṉ
 4	வேலை	வேலை	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obj	_	Translit=vēlai|LTranslit=vēlai
 5	செய்கிறான்	செய்	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=ceykiṟāṉ|LTranslit=cey
 6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	Translit=.|LTranslit=.

@@ -11,6 +11,11 @@ udver: '2'
   <td><a href="#Bi">Bi</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Int">Int</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
+  <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Rel">Rel</a></td>
   
 </tr>
 </table>
@@ -39,7 +44,42 @@ Int (iterrogative) refers to a question word that is of of the arguments of the 
 
 #### Example
 
+### <a name="Rcp">`Rcp`</a>: Prs
 
+Rcp (reciprocal) refers to .
+
+
+#### Example
+
+### <a name="Tot">`Tot`</a>: Prs
+
+Tot (total) refers to .
+
+
+#### Example
+
+### <a name="Dem">`Dem`</a>: Prs
+
+Dem (Demonstrative) refers to .
+
+
+#### Example
+
+### <a name="Ind">`Ind`</a>: Prs
+
+Ind (Indefinite) refers to .
+
+
+#### Example
+
+### <a name="Rel">`Rel`</a>: Rel
+
+Rel (Relative) refers to .
+
+
+#### Example
+
+* _Are itygydo boe erugodymode pui <b>duji</b>&nbsp;_ “You made me suspect a possible fight among the Bororo”
 
 ## Diffs
 
@@ -47,4 +87,4 @@ Int (iterrogative) refers to a question word that is of of the arguments of the 
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:46 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:04 CET -->

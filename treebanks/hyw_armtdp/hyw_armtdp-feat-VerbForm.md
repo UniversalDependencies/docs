@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-20042 tokens (16%) have a non-empty value of `VerbForm`.
+20043 tokens (16%) have a non-empty value of `VerbForm`.
 6914 types (28%) occur at least once with a non-empty value of `VerbForm`.
-1955 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (15484; 13% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4558; 4% instances).
+1954 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (15489; 13% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4554; 4% instances).
 
 ### `VERB`
 
-15484 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+15489 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14178; 92%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13625; 88%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13607; 88%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (7896; 51%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7874; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14182; 92%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13630; 88%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13612; 88%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (7900; 51%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7878; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1; 0% of non-empty `VerbForm`): <em>պաշտպանուեցաւ</em>
-* `Fin` (8219; 53% of non-empty `VerbForm`): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան</em>
+* `Fin` (8222; 53% of non-empty `VerbForm`): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան</em>
 * `Inf` (3302; 21% of non-empty `VerbForm`): <em>ըլլալ, ըսել, ըլլալու, տալ, ընել, ունենալ, ըլլալով, ընելու, տալու, առնելու</em>
-* `Part` (3962; 26% of non-empty `VerbForm`): <em>եղած, ունեցած, գիտեր, կրնար, սկսած, եկած, դարձած, ըրած, հասած, առած</em>
+* `Part` (3964; 26% of non-empty `VerbForm`): <em>եղած, ունեցած, գիտեր, կրնար, սկսած, եկած, դարձած, ըրած, հասած, առած</em>
 * `EMPTY` (2): <em>սորվեցնելով, տապլտկելով</em>
 
 <table>
@@ -70,13 +70,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4558 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4554 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4364; 96%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4344; 95%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (3877; 85%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3709; 81%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3476; 76%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3117; 68%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4364; 96%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4344; 95%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (3873; 85%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3705; 81%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3472; 76%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3115; 68%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4463; 98% of non-empty `VerbForm`): <em>է, էր, են, էին, չէ, եմ, չէր, չեմ, չեն, չի</em>
+* `Fin` (4459; 98% of non-empty `VerbForm`): <em>է, էր, են, էին, չէ, եմ, չէր, չեմ, չեն, չի</em>
 * `Inf` (34; 1% of non-empty `VerbForm`): <em>ըլլալով, ըլլալ, տալ, ըլլալու, ըլլալնուս, տալով, տալու</em>
 * `Part` (61; 1% of non-empty `VerbForm`): <em>եղած, եղեր, ըլլալու, տուեր, տար, տուած</em>
 * `EMPTY` (4412): <em>կը, կ՚, պիտի, կու, պէտք, կոր, չպիտի</em>
@@ -109,8 +109,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (2318; 86%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (272; 68%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (80; 75%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (274; 68%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (79; 75%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (40; 100%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (26; 58%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 88%),

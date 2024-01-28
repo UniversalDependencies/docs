@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (1%) are attached to their parents as `conj`.
+25 nodes (1%) are attached to their parents as `conj`.
 
-23 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.82608695652174.
+25 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8.
 
-The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (16; 70% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (2; 9% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (17; 68% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (4; 16% instances), <tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (2; 8% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

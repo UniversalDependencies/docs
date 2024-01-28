@@ -103,13 +103,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (916; 70%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (33; 55%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (31; 61%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (21; 68%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 82%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (8; 53%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (7; 70%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (7; 54%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (5; 63%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (4; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> AUX</tt> (1; 100%).
 

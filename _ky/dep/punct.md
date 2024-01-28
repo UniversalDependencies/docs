@@ -13,4 +13,4 @@ This is used for any piece of punctuation in a clause. See
 punct(жолдору, .)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:32 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:27 CET -->

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
 Repository: [UD_Ancient_Greek-Perseus](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -137,7 +137,7 @@ Further details can be found at:
 
 ## Relations
 
-[acl](grc_perseus-dep-acl.html) – [advcl](grc_perseus-dep-advcl.html) – [advmod](grc_perseus-dep-advmod.html) – [amod](grc_perseus-dep-amod.html) – [appos](grc_perseus-dep-appos.html) – [aux](grc_perseus-dep-aux.html) – [case](grc_perseus-dep-case.html) – [cc](grc_perseus-dep-cc.html) – [ccomp](grc_perseus-dep-ccomp.html) – [conj](grc_perseus-dep-conj.html) – [cop](grc_perseus-dep-cop.html) – [csubj](grc_perseus-dep-csubj.html) – [det](grc_perseus-dep-det.html) – [discourse](grc_perseus-dep-discourse.html) – [iobj](grc_perseus-dep-iobj.html) – [mark](grc_perseus-dep-mark.html) – [nmod](grc_perseus-dep-nmod.html) – [nsubj](grc_perseus-dep-nsubj.html) – [nummod](grc_perseus-dep-nummod.html) – [obj](grc_perseus-dep-obj.html) – [obl](grc_perseus-dep-obl.html) – [parataxis](grc_perseus-dep-parataxis.html) – [punct](grc_perseus-dep-punct.html) – [root](grc_perseus-dep-root.html) – [vocative](grc_perseus-dep-vocative.html) – [xcomp](grc_perseus-dep-xcomp.html)
+[acl](grc_perseus-dep-acl.html) – [advcl](grc_perseus-dep-advcl.html) – [advmod](grc_perseus-dep-advmod.html) – [amod](grc_perseus-dep-amod.html) – [appos](grc_perseus-dep-appos.html) – [aux](grc_perseus-dep-aux.html) – [case](grc_perseus-dep-case.html) – [cc](grc_perseus-dep-cc.html) – [ccomp](grc_perseus-dep-ccomp.html) – [conj](grc_perseus-dep-conj.html) – [cop](grc_perseus-dep-cop.html) – [csubj](grc_perseus-dep-csubj.html) – [det](grc_perseus-dep-det.html) – [discourse](grc_perseus-dep-discourse.html) – [iobj](grc_perseus-dep-iobj.html) – [mark](grc_perseus-dep-mark.html) – [nmod](grc_perseus-dep-nmod.html) – [nsubj](grc_perseus-dep-nsubj.html) – [nsubj:outer](grc_perseus-dep-nsubj-outer.html) – [nummod](grc_perseus-dep-nummod.html) – [obj](grc_perseus-dep-obj.html) – [obl](grc_perseus-dep-obl.html) – [orphan](grc_perseus-dep-orphan.html) – [parataxis](grc_perseus-dep-parataxis.html) – [punct](grc_perseus-dep-punct.html) – [root](grc_perseus-dep-root.html) – [vocative](grc_perseus-dep-vocative.html) – [xcomp](grc_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -696,17 +696,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Acc (58)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(μετά) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (3)</li>
+      <li>VERB-Fin--NOUN-Dat (2)</li>
       <li>VERB-Fin--NOUN-Gen (5)</li>
-      <li>VERB-Fin--NOUN-Nom (6786)</li>
+      <li>VERB-Fin--NOUN-Nom (6785)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ἔνερθε) (1)</li>
-      <li>VERB-Fin--PRON-Acc (15)</li>
-      <li>VERB-Fin--PRON-Dat (3)</li>
+      <li>VERB-Fin--PRON-Acc (14)</li>
+      <li>VERB-Fin--PRON-Dat (2)</li>
       <li>VERB-Fin--PRON-Nom (2859)</li>
       <li>VERB-Inf--NOUN-Acc (396)</li>
       <li>VERB-Inf--NOUN-Dat (5)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
-      <li>VERB-Inf--NOUN-Nom (14)</li>
+      <li>VERB-Inf--NOUN-Nom (13)</li>
       <li>VERB-Inf--PRON-Acc (335)</li>
       <li>VERB-Inf--PRON-Dat (7)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
@@ -732,7 +732,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (51)</li>
       <li>VERB-Fin--NOUN-Voc (8)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (2410)</li>
+      <li>VERB-Fin--PRON-Acc (2411)</li>
       <li>VERB-Fin--PRON-Dat (515)</li>
       <li>VERB-Fin--PRON-Gen (226)</li>
       <li>VERB-Fin--PRON-Nom (13)</li>
@@ -741,7 +741,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (137)</li>
       <li>VERB-Inf--NOUN-Nom (9)</li>
       <li>VERB-Inf--NOUN-Voc (2)</li>
-      <li>VERB-Inf--PRON-Acc (276)</li>
+      <li>VERB-Inf--PRON-Acc (275)</li>
       <li>VERB-Inf--PRON-Dat (73)</li>
       <li>VERB-Inf--PRON-Gen (42)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
@@ -751,7 +751,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Loc (1)</li>
       <li>VERB-Part--NOUN-Nom (17)</li>
       <li>VERB-Part--NOUN-Voc (3)</li>
-      <li>VERB-Part--PRON-Acc (375)</li>
+      <li>VERB-Part--PRON-Acc (376)</li>
       <li>VERB-Part--PRON-Dat (97)</li>
       <li>VERB-Part--PRON-Gen (48)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
@@ -778,6 +778,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 11 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+<li>The following 10 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

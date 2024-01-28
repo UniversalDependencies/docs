@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (87; 100% of non-empty `NumType`): <em>first, second, third, fourth</em>
-* `EMPTY` (5853): <em>other, white, old, new, good, same, own, black, great, little</em>
+* `EMPTY` (5876): <em>other, white, old, new, good, same, own, black, great, little</em>
 
 ### `ADV`
 

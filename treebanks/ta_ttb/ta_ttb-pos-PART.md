@@ -63,9 +63,9 @@ The 2nd highest number of forms (6) was observed with the lemma “ஆகு”:
 
 The 3rd highest number of forms (1) was observed with the lemma “ஆ”: ஆ.
 
-`PART` occurs with 8 features: <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt> (159; 24% instances), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt> (159; 24% instances), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt> (35; 5% instances), <tt><a href="ta_ttb-feat-Case.html">Case</a></tt> (15; 2% instances), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt> (15; 2% instances), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt> (15; 2% instances), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt> (15; 2% instances), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt> (1; 0% instances)
+`PART` occurs with 7 features: <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt> (159; 24% instances), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt> (159; 24% instances), <tt><a href="ta_ttb-feat-Tense.html">Tense</a></tt> (35; 5% instances), <tt><a href="ta_ttb-feat-Case.html">Case</a></tt> (15; 2% instances), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt> (15; 2% instances), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt> (15; 2% instances), <tt><a href="ta_ttb-feat-Mood.html">Mood</a></tt> (1; 0% instances)
 
-`PART` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Ins`, `Case=Nom`, `Gender=Neut`, `Mood=Cnd`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
+`PART` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Ins`, `Case=Nom`, `Mood=Cnd`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
 `PART` occurs with 8 feature combinations.
 The most frequent feature combination is `_` (495 tokens).

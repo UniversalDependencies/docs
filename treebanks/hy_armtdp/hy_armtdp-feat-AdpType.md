@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADP.h
 
 1633 <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1196; 73%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1199; 73%).
 
 `ADP` tokens may have the following values of `AdpType`:
 

@@ -7,86 +7,98 @@ udver: '2'
 ## Treebank Statistics: UD_Portuguese-GSD: Relations: `flat:name`
 
 This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-flat.html">flat</a></tt>.
+There are also 1 other language-specific subtypes of `flat`: <tt><a href="pt_gsd-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-27 nodes (0%) are attached to their parents as `flat:name`.
+2032 nodes (1%) are attached to their parents as `flat:name`.
 
-27 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.74074074074074.
+2032 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.49606299212598.
 
-The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (26; 96% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 20 pairs of parts of speech are connected with `flat:name`: <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1939; 95% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (21; 1% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="pt_gsd-pos-DET.html">DET</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pt_gsd-pos-DET.html">DET</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-DET.html">DET</a></tt>-<tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 flat:name	color:blue
-1	Festas	_	PROPN	PNOUN	_	0	root	_	_
-2	e	e	CCONJ	CONJ	_	3	cc	_	_
-3	Romarias	_	PROPN	PNOUN	_	1	conj	_	_
-4	--	_	PUNCT	.	_	5	punct	_	_
-5	Nossa	_	PROPN	PNOUN	_	1	appos	_	_
-6	Senhora	_	PROPN	PNOUN	_	5	flat:name	_	_
-7	de	de	ADP	ADP	_	9	case	_	_
-8	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	Graça	_	PROPN	PNOUN	_	6	nmod	_	_
-10	--	_	PUNCT	.	_	6	punct	_	_
-11	08	08	NUM	NUM	NumType=Card	6	nmod	_	_
-12	de	de	ADP	ADP	_	13	case	_	_
-13	Setembro	_	PROPN	PNOUN	_	11	nmod	_	SpaceAfter=No
-14	;	_	PUNCT	.	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 flat:name	color:blue
+1	Fica	ficar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	em	em	ADP	_	_	4	case	_	_
+3	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Rua	Rua	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	1	obl	_	_
+5	Mateus	Mateus	PROPN	_	Number=Sing	4	flat:name	_	_
+6	Leme	Leme	PROPN	_	Number=Sing	4	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	2467	2467	NUM	_	NumType=Card	4	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	Bom	Bom	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	4	appos	_	_
+11	Retiro	Retiro	PROPN	_	Number=Sing	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 40	bgColor:blue
-# visual-style 40	fgColor:white
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 38 40 flat:name	color:blue
-1	Autoridades	autoridade	NOUN	NOUN	_	4	nsubj	_	_
-2	de	de	ADP	ADP	_	3	case	_	_
-3	Chicago	_	PROPN	PNOUN	_	1	nmod	_	_
-4	alertaram	alertar	VERB	VERB	_	0	root	_	_
-5	os	o	DET	DET	_	6	det	_	_
-6	moradores	morador	NOUN	NOUN	_	4	obj	_	_
-7	para	_	ADP	ADP	_	8	mark	_	_
-8	ficarem	ficar	VERB	VERB	_	4	xcomp	_	_
-9	distantes	distante	ADJ	ADJ	_	8	xcomp	_	_
-10	de	de	ADP	ADP	_	12	case	_	_
-11	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	costa	costa	NOUN	NOUN	_	9	nmod	_	_
-13	de	de	ADP	ADP	_	15	case	_	_
-14	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	Lago	_	PROPN	PNOUN	_	12	nmod	_	_
-16	Michigan	_	PROPN	PNOUN	_	15	flat	_	_
-17	e	e	CCONJ	CONJ	_	21	cc	_	_
-18	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	cidade	cidade	NOUN	NOUN	_	21	nsubj	_	_
-20	se	_	PRON	PRON	_	21	obj	_	_
-21	prepara	preparar	VERB	VERB	_	4	conj	_	_
-22	para	_	ADP	ADP	_	23	mark	_	_
-23	receber	receber	VERB	VERB	_	21	xcomp	_	_
-24	ventos	vento	NOUN	NOUN	_	23	obj	_	_
-25	de	de	ADP	ADP	_	27	case	_	_
-26	96	96	NUM	NUM	NumType=Card	27	nummod	_	_
-27	km	km	NOUN	NOUN	_	24	nmod	_	SpaceAfter=No
-28	/	/	PUNCT	.	_	27	punct	_	SpaceAfter=No
-29	h	h	NOUN	_	_	27	conj	_	_
-30	e	e	CCONJ	_	_	31	cc	_	_
-31	ondas	onda	NOUN	NOUN	_	24	conj	_	_
-32	de	de	ADP	ADP	_	36	case	_	_
-33	mais	mais	ADV	ADV	_	35	advmod	_	_
-34	de	de	ADP	ADP	_	35	case	_	_
-35	7	7	NUM	NUM	NumType=Card	36	nummod	_	_
-36	m	m	NOUN	NOUN	_	31	nmod	_	_
-37	até	_	ADP	ADP	_	38	case	_	_
-38	quarta	_	NOUN	PNOUN	_	23	obl	_	SpaceAfter=No
-39	-	-	PUNCT	.	_	40	punct	_	SpaceAfter=No
-40	feira	_	NOUN	PNOUN	_	38	flat:name	_	SpaceAfter=No
-41	.	.	PUNCT	.	_	4	punct	_	_
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 20 flat:name	color:blue
+1	Atividade	atividade	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	jornalística	jornalístico	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	Carvalho	Carvalho	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	1	nmod	_	_
+5	Déda	Déda	PROPN	_	Number=Sing	4	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	in	in	NOUN	_	_	1	parataxis	_	_
+8	Carvalho	Carvalho	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	7	appos	_	_
+9	Déda	Déda	PROPN	_	Number=Sing	8	flat:name	_	_
+10	-	-	PUNCT	_	_	11	punct	_	_
+11	Vida	Vida	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	8	conj	_	_
+12	&	&	PROPN	_	Number=Sing	11	flat:name	_	SpaceAfter=No
+13	amp	amp	PROPN	_	Number=Sing	11	flat:name	_	SpaceAfter=No
+14	;	;	PUNCT	_	_	15	punct	_	_
+15	Obra	Obra	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	8	conj	_	_
+16	-	-	PUNCT	_	_	15	punct	_	_
+17	Coletânea	Coletânea	PROPN	_	Number=Sing	15	flat:name	_	_
+18	..	..	PUNCT	_	_	19	punct	_	_
+19	Grafica	Grafica	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	1	appos	_	_
+20	e	e	CCONJ	_	_	19	flat:name	_	_
+21	Editora	Editora	PROPN	_	Number=Sing	19	flat:name	_	_
+22	J.	J.	PROPN	_	Number=Sing	19	flat:name	_	_
+23	andrade	andrade	PROPN	_	Number=Sing	19	flat:name	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 flat:name	color:blue
+1	Integrou	integrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Seleção	Seleção	PROPN	_	Gender=Fem|Number=Sing	1	obj	_	_
+4	Brasileira	Brasileira	PROPN	_	Number=Sing	3	flat:name	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	Voleibol	Voleibol	PROPN	_	Number=Sing	3	nmod	_	_
+7	Feminino	Feminino	PROPN	_	Number=Sing	6	flat:name	_	_
+8	que	que	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	9	nsubj	_	_
+9	sagrou	sagrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
+10	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+11	medalha	medalha	NOUN	_	Gender=Fem|Number=Sing	9	xcomp	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	ouro	ouro	NOUN	_	Gender=Masc|Number=Sing	11	compound	_	_
+14	em	em	ADP	_	_	16	case	_	_
+15	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	Olimpíada	olimpíada	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	Londres	Londres	PROPN	_	Gender=Fem|Number=Sing	16	nmod	_	_
+19	2012	2012	NUM	_	NumType=Card	18	flat:name	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 ~~~
 

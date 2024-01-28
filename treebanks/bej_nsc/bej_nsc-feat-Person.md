@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-77 tokens (9%) have a non-empty value of `Person`.
-22 types (8%) occur at least once with a non-empty value of `Person`.
+105 tokens (9%) have a non-empty value of `Person`.
+26 types (7%) occur at least once with a non-empty value of `Person`.
 1 lemmas (0) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (58; 7% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (4; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (83; 7% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (18; 1% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `PRON`
 
-58 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
+83 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (51; 88%), <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (35; 60%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68; 82%), <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (50; 60%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (51; 88% of non-empty `Person`): <em>=heːb, =i, =oː, ani, =eː, =uːn, hinin, hoː, =iji, =ji</em>
-* `2` (2; 3% of non-empty `Person`): <em>=oːk, barijoːk</em>
-* `3` (5; 9% of non-empty `Person`): <em>=isi, =aː, =jeː, =oː</em>
-* `EMPTY` (21): <em>hoːj, kina, =i, beːn, hoːsoː, naːn, oːn</em>
+* `1` (65; 78% of non-empty `Person`): <em>=heːb, =i, =oː, ani, =oːn, =eː, =uːn, hinin, hoː, =hoːn</em>
+* `2` (7; 8% of non-empty `Person`): <em>=hoːk, umbaruːk, =oːk, barijoːk</em>
+* `3` (11; 13% of non-empty `Person`): <em>=eː, =oː, =isi, =jeː, =aː</em>
+* `EMPTY` (23): <em>hoːj, kina, =i, beːn, hoːsoː, nafs, naːn, oːn</em>
 
 ### `AUX`
 
-15 <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> tokens (54% of all `AUX` tokens) have a non-empty value of `Person`.
+18 <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> tokens (47% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="bej_nsc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="bej_nsc-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt> (15; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 93%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 87%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="bej_nsc-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt> (18; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 94%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 89%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (7; 47% of non-empty `Person`): <em>=u, =i, =a</em>
-* `2` (2; 13% of non-empty `Person`): <em>=wa</em>
-* `3` (6; 40% of non-empty `Person`): <em>=u</em>
-* `EMPTY` (13): <em>ba=, iːha, iːkti, =u, bi=, bʔijan, dʔijaː, iki, iːktiːna, niki</em>
+* `1` (7; 39% of non-empty `Person`): <em>=u, =i, =a</em>
+* `2` (2; 11% of non-empty `Person`): <em>=wa</em>
+* `3` (9; 50% of non-empty `Person`): <em>=u</em>
+* `EMPTY` (20): <em>iːkti, ba=, iːha, -iːtiːt, -tiːt, =u, akajeː, aniːw, bi=, bʔijan</em>
 
 ### `VERB`
 
@@ -49,5 +49,5 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 `VERB` tokens may have the following values of `Person`:
 
 * `3` (4; 100% of non-empty `Person`): <em>eːja, eːn</em>
-* `EMPTY` (167): <em>ini, sallamaman, tini, ʔabkin, eːjaːn, idi, iːfi, sallamja, aakaj, adi</em>
+* `EMPTY` (238): <em>ini, sallamaman, tini, indi, iniːw, iːfi, ʔabkin, adi, ameːsa~sʔeː, ani</em>
 

@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (517; 80%),
-<tt>VERB --[<tt><a href="sr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (240; 58%),
+<tt>VERB --[<tt><a href="sr_set-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (241; 58%),
 <tt>ADV --[<tt><a href="sr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (32; 60%),
 <tt>AUX --[<tt><a href="sr_set-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (23; 88%),
 <tt>AUX --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 65%),

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Com`, `Masc`, `Neut`.
 
-5292 tokens (55%) have a non-empty value of `Gender`.
-2503 types (70%) occur at least once with a non-empty value of `Gender`.
-1505 lemmas (74%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (2753; 29% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1370; 14% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (477; 5% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (425; 4% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (236; 2% instances), <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> (15; 0% instances).
+5261 tokens (55%) have a non-empty value of `Gender`.
+2483 types (69%) occur at least once with a non-empty value of `Gender`.
+1495 lemmas (74%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 5 part-of-speech tags: <tt><a href="ta_ttb-pos-NOUN.html">NOUN</a></tt> (2753; 29% instances), <tt><a href="ta_ttb-pos-PROPN.html">PROPN</a></tt> (1370; 14% instances), <tt><a href="ta_ttb-pos-AUX.html">AUX</a></tt> (477; 5% instances), <tt><a href="ta_ttb-pos-VERB.html">VERB</a></tt> (425; 4% instances), <tt><a href="ta_ttb-pos-PRON.html">PRON</a></tt> (236; 2% instances).
 
 ### `NOUN`
 
@@ -123,31 +123,6 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 `Gender` seems to be **lexical feature** of `PRON`. 100% lemmas (25) occur only with one value of `Gender`.
 
-### `NUM`
-
-16 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (16; 100%), <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (9; 56%).
-
-`NUM` tokens may have the following values of `Gender`:
-
-* `Com` (1; 6% of non-empty `Gender`): ஒருவர்
-* `Neut` (15; 94% of non-empty `Gender`): ஒன்றை, 10-க்க், 1200க்க், 15-ல், 18-ல், 1992-96ல், 1995ல், 2009-ல், 444-ல், ஆயிரத்த்
-* `EMPTY` (258): இரு, 2, ஆயிரம், மூன்று, லட்சம், 10, 20, 3, 80, இரண்டு
-
-`Gender` seems to be **lexical feature** of `NUM`. 100% lemmas (13) occur only with one value of `Gender`.
-
-### `PART`
-
-15 <tt><a href="ta_ttb-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (15; 100%), <tt><a href="ta_ttb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (15; 100%).
-
-`PART` tokens may have the following values of `Gender`:
-
-* `Neut` (15; 100% of non-empty `Gender`): என்பது, என்பதை, என்பதால், எடுப்பத், என்பதைய், கொடுப்பத்
-* `EMPTY` (639): உம், ஆன, என்று, ஆக, என, என்ற், ஆகவ், போது, என்ற, தான்
-
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
@@ -160,5 +135,5 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>PROPN --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15; 79%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (14; 52%),
 <tt>NOUN --[<tt><a href="ta_ttb-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (14; 70%),
-<tt>NUM --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 90%).
+<tt>PRON --[<tt><a href="ta_ttb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8; 100%).
 

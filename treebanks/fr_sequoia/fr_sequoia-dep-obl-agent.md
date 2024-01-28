@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	soit	soit	CCONJ	_	_	11	cc	_	_
 9	par	par	ADP	_	_	11	case	_	_
 10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	nôtres	nôtre	PRON	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	6	obl:agent	_	SpaceAfter=No
+11	nôtres	nôtre	PRON	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=1|Poss=Yes|PronType=Prs	6	obl:agent	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	_
 13	soit	soit	CCONJ	_	_	16	cc	_	_
 14	par	par	ADP	_	_	16	case	_	_
@@ -95,7 +95,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	caporal	caporal	NOUN	_	Gender=Masc|Number=Sing	23	nsubj	_	_
 26	Maupas	Maupas	PROPN	_	Gender=Masc|Number=Sing	25	nmod	_	_
-27	lors	lors	ADV	_	_	23	advmod	_	ExtPos=ADV
+27	lors	lors	ADV	_	ExtPos=ADV	23	advmod	_	_
 28	de	de	ADP	_	_	30	case	_	_
 29	son	son	DET	_	Number=Sing|Poss=Yes	30	det	_	_
 30	interrogatoire	interrogatoire	NOUN	_	Gender=Masc|Number=Sing	27	obl:arg	_	SpaceAfter=No

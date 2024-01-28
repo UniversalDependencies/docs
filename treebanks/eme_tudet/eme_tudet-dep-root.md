@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-759 nodes (33%) are attached to their parents as `root`.
+913 nodes (32%) are attached to their parents as `root`.
 
-759 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.11198945981555.
+913 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.1697699890471.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (508; 67% instances), -<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (217; 29% instances), -<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (10; 1% instances), -<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), -<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (7; 1% instances), -<tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (4; 1% instances), -<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (651; 71% instances), -<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (225; 25% instances), -<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (10; 1% instances), -<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (9; 1% instances), -<tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), -<tt><a href="eme_tudet-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,12 +44,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	nani	nan	ADV	adv	_	0	root	_	_
-2	pamẽ	pamẽ	PRON	pron	PronType=Tot	1	dep	_	_
-3	sidʒu	dʒu	AUX	aux	Clusivity=In|Number=Plur|Person=1	1	cop	_	_
-4	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur|Person=1	1	nsubj	_	_
-5	les	les	DET	dem	_	6	det	_	_
-6	jeunes	jeunes	NOUN	n	_	4	dislocated	_	_
+1	irupi	upi	ADV	adv	Rel=NCont	0	root	_	_
 
 ~~~
 

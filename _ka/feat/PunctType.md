@@ -84,3 +84,4 @@ The `PunctType` feature applies to [punctuation](_ka/pos/PUNCT).
 * _"_
 
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:05 CET -->

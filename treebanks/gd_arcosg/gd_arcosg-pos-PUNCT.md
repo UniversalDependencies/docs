@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>?</em> (<tt><a href="gd_arcosg-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.055556 (the average of all parts of speech is 1.299830).
+The form / lemma ratio of `PUNCT` is 1.055556 (the average of all parts of speech is 1.302045).
 
 The 1st highest number of forms (2) was observed with the lemma “'”: <em>', ‘</em>.
 
@@ -42,7 +42,7 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="gd_arcosg-dep-punct.html">punct</a></tt> (5390; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3227; 60% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1361; 25% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (279; 5% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (200; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (126; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (77; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (59; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (23; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (3227; 60% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1361; 25% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (278; 5% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (200; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (127; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (77; 1% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (59; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (23; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 5390 (100%) `PUNCT` nodes are leaves.
 

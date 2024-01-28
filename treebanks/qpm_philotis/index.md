@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Ritván Karahóǧa, Vivian Stamou, Stella Markantonatou.
 
 Repository: [UD_Pomak-Philotis](https://github.com/UniversalDependencies/UD_Pomak-Philotis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 3.0
 

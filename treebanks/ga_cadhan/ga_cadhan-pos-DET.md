@@ -84,15 +84,15 @@ Examples: <em>an, 'n, san</em>
 
 Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (427; 95% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (12; 3% instances), <tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-447 (99%) `DET` nodes are leaves.
+448 (100%) `DET` nodes are leaves.
 
-2 (0%) `DET` nodes have one child.
+1 (0%) `DET` nodes have one child.
 
 1 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 2 different relations: <tt><a href="ga_cadhan-dep-fixed.html">fixed</a></tt> (2; 50% instances), <tt><a href="ga_cadhan-dep-punct.html">punct</a></tt> (2; 50% instances)
+Children of `DET` nodes are attached using 2 different relations: <tt><a href="ga_cadhan-dep-punct.html">punct</a></tt> (2; 67% instances), <tt><a href="ga_cadhan-dep-fixed.html">fixed</a></tt> (1; 33% instances)
 
-Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="ga_cadhan-pos-PUNCT.html">PUNCT</a></tt> (2; 50% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 25% instances)
+Children of `DET` nodes belong to 2 different parts of speech: <tt><a href="ga_cadhan-pos-PUNCT.html">PUNCT</a></tt> (2; 67% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 33% instances)
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_pud-dep-advmod-arg.html">advmod:arg</a></tt>, <tt><a href="pl_pud-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-119 nodes (1%) are attached to their parents as `advmod:neg`.
+121 nodes (1%) are attached to their parents as `advmod:neg`.
 
-119 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05882352941176.
+121 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0495867768595.
 
-The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (81; 68% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (20; 17% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (79; 65% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (23; 19% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -29,31 +29,29 @@ The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 4	że	że	SCONJ	comp	_	6	mark	6:mark	_
 5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	6:advmod:neg	_
 6	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp:obj	1:ccomp:obj	_
-7	racji	racja	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No
+7	racji	racja	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	6	iobj	6:iobj	SpaceAfter=No
 8	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod:neg	color:blue
-1	Ale	ale	CCONJ	conj	_	6	cc	6:cc	_
-2	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	6	cop	6:cop|12:cop	_
-3	nie	nie	PART	part	Polarity=Neg	4	advmod:neg	4:advmod:neg	_
-4	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux|12:aux	_
-5	„	„	PUNCT	interp	PunctSide=Ini|PunctType=Quot	6	punct	6:punct	SpaceAfter=No
-6	Gra	gra	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	_
-7	o	o	ADP	prep:acc	AdpType=Prep	8	case	8:case	Case=Acc
-8	tron	tron	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	nmod:arg	6:nmod:arg	SpaceAfter=No
-9	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	6	punct	6:punct	SpaceAfter=No
-10	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
-11	tylko	tylko	CCONJ	conj	_	12	cc	12:cc	_
-12	wybory	wybory	NOUN	subst:pl:nom:n:pt	Case=Nom|Gender=Neut|Number=Ptan	6	conj	6:conj	SpaceAfter=No
-13	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
+# visual-style 3 2 advmod:neg	color:blue
+1	Internet	Internet	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj|10:nsubj	_
+2	nie	nie	PART	part	Polarity=Neg	3	advmod:neg	3:advmod:neg	_
+3	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
+4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	6	advmod	6:advmod	Case=Loc
+5	końcu	koniec	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	fixed	4:fixed	_
+6	luksusem	luksus	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	SpaceAfter=No
+7	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
+8	tylko	tylko	CCONJ	conj	_	10	cc	10:cc	_
+9	niezbędnym	niezbędny	ADJ	adj:sg:inst:n:pos	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	10	amod	10:amod	_
+10	narzędziem	narzędzie	NOUN	subst:sg:inst:n:ncol	Case=Ins|Gender=Neut|Number=Sing	6	conj	0:root|6:conj	SpaceAfter=No
+11	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
 
 ~~~
 

@@ -16,4 +16,4 @@ nsubj(ⲟⲩⲛⲧⲁ, ⲓⲏⲥⲟⲩⲥ)
 
 The above example can be interpreted as ‘exists to-them Jesus’, etymologically ⲟⲩⲛⲧⲁ-ⲩ < ‘exists in their hand.’
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:17 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:59 CET -->

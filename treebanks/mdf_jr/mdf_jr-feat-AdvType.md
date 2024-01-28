@@ -9,32 +9,32 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Deg`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
-156 tokens (4%) have a non-empty value of `AdvType`.
-70 types (3%) occur at least once with a non-empty value of `AdvType`.
-58 lemmas (4%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (154; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+157 tokens (4%) have a non-empty value of `AdvType`.
+71 types (3%) occur at least once with a non-empty value of `AdvType`.
+59 lemmas (5%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (155; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-154 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (37% of all `ADV` tokens) have a non-empty value of `AdvType`.
+155 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (37% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (146; 95%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (147; 95%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
 * `Deg` (34; 22% of non-empty `AdvType`): <em>пяк, сяда, сяшкава, конашкава, тяшкава, ёфcи, ёфси</em>
 * `Loc` (5; 3% of non-empty `AdvType`): <em>тов, алу, меки, тяза</em>
-* `Man` (11; 7% of non-empty `AdvType`): <em>цебярьста, мазыста, Тяфта, весяласта, вишкста, павазуста, хитрайста, цебярняста</em>
+* `Man` (12; 8% of non-empty `AdvType`): <em>цебярьста, мазыста, Кода, Тяфта, весяласта, вишкста, павазуста, хитрайста, цебярняста</em>
 * `Mod` (5; 3% of non-empty `AdvType`): <em>бта, пади, Стаки</em>
 * `Sta` (1; 1% of non-empty `AdvType`): <em>кяпе</em>
-* `Tim` (98; 64% of non-empty `AdvType`): <em>нинге, ни, эста, тага, кунара, меле, рана, Кизонда, илять, тяни</em>
+* `Tim` (98; 63% of non-empty `AdvType`): <em>нинге, ни, эста, тага, кунара, меле, рана, Кизонда, илять, тяни</em>
 
 <table>
   <tr><th>Paradigm <i>тяшкава</i></th><th><tt>Deg</tt></th><th><tt>Tim</tt></th></tr>
   <tr><td><tt></tt></td><td><em>тяшкава</em></td><td><em>тяшкава</em></td></tr>
 </table>
 
-`AdvType` seems to be **lexical feature** of `ADV`. 98% lemmas (57) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `ADV`. 98% lemmas (58) occur only with one value of `AdvType`.
 
 ### `NOUN`
 

@@ -23,18 +23,18 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 15 discourse	color:blue
-1	但是	但是	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
+1	但是	但是	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	迪士尼	迪士尼	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=díshìní|LTranslit=díshìní
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	公主	公主	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=gōngzhǔ|LTranslit=gōngzhǔ
 5	們	們	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=men|LTranslit=men
 6	不會	會	AUX	MD	Polarity=Neg	9	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
-7	都	都	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+7	都	都	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 8	太	太	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=tài|LTranslit=tài
 9	侷限	侷限	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=侷xiàn|LTranslit=侷xiàn
 10	於	於	VERB	VV	_	9	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	個	個	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	範圍	範圍	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=fànwéi|LTranslit=fànwéi
 14	之內	之內	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zhīnèi|LTranslit=zhīnèi
 15	了	了	PART	UH	_	9	discourse	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -59,11 +59,11 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	遊戲	遊戲	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
 8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
-10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+10	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	知名	知名	ADJ	JJ	_	12	compound	_	SpaceAfter=No|Translit=zhīmíng|LTranslit=zhīmíng
 12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=dù|LTranslit=dù
 13	時	時	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
-14	甚至	甚至	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
+14	甚至	甚至	SCONJ	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
 15	說	說	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 16	「	「	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=‘|LTranslit=‘
 17	四百萬	四百萬	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=sìbǎiwàn|LTranslit=sìbǎiwàn
@@ -89,7 +89,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	了	了	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 4	沒有	有	VERB	VV	Polarity=Neg	7	acl:relcl	_	SpaceAfter=No|Translit=méiyǒu|LTranslit=yǒu
 5	信心	信心	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=xìnxīn|LTranslit=xìnxīn
-6	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+6	的	的	SCONJ	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	窘境	窘境	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=窘jìng|LTranslit=窘jìng
 8	，	，	PUNCT	,	_	10	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 9	阿一	阿一	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No|Translit='āyī|LTranslit='āyī
@@ -104,7 +104,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 18	部份	部份	NOUN	NN	_	25	advcl	_	SpaceAfter=No|Translit=bùfèn|LTranslit=bùfèn
 19	呀	呀	PART	UH	_	18	discourse	_	SpaceAfter=No|Translit=ya|LTranslit=ya
 20	，	，	PUNCT	,	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-21	所以	所以	ADV	RB	_	25	mark	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
+21	所以	所以	SCONJ	RB	_	25	mark	_	SpaceAfter=No|Translit=suǒyǐ|LTranslit=suǒyǐ
 22	，	，	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 23	我	我	PRON	PRP	Person=1	25	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
 24	願意	願意	AUX	MD	_	25	aux	_	SpaceAfter=No|Translit=願yì|LTranslit=願yì

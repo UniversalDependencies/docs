@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (16%) are attached to their parents as `root`.
+64 nodes (16%) are attached to their parents as `root`.
 
-62 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.20967741935484.
+64 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.171875.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (39; 63% instances), -<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (9; 15% instances), -<tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (8; 13% instances), -<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), -<tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (2; 3% instances), -<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (40; 63% instances), -<tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (9; 14% instances), -<tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (9; 14% instances), -<tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), -<tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (2; 3% instances), -<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

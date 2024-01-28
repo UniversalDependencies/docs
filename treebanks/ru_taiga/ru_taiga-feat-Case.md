@@ -149,7 +149,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 <table>
   <tr><th>Paradigm <i>Петрович</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Prs</tt></tt></td><td><em>Петрович</em></td><td><em>Петровича</em></td><td><em>Петровичу</em></td><td><em>Петровича</em></td><td><em>Петровиче</em></td><td><em>Петровичем</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Patrn</tt></tt></td><td></td><td><em>Петрович</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Pat</tt></tt></td><td></td><td><em>Петрович</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `NUM`

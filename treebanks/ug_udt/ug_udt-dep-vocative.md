@@ -22,12 +22,12 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 vocative	color:blue
-1	-	-	PUNCT	Y	_	5	punct	_	Translit=-
-2	كاپىتان	_	NOUN	N	_	5	vocative	_	SpaceAfter=No|Translit=kapitan|Morf=Unknown
-3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
-4	مېنى	_	PRON	P	_	5	obj	_	Translit=mëni|Morf=Unknown
-5	چاقىردىڭىزمۇ	چاقىر	VERB	V	Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaqirdingizmu
-6	؟	؟	PUNCT	Y	_	5	punct	_	Translit=?
+1	-	-	PUNCT	Y	_	5	punct	_	Translit=-|LTranslit=-
+2	كاپىتان	_	NOUN	N	_	5	vocative	_	SpaceAfter=No|Morf=Unknown|Translit=kapitan
+3	،	،	PUNCT	Y	_	2	punct	_	Translit=,|LTranslit=,
+4	مېنى	_	PRON	P	_	5	obj	_	Morf=Unknown|Translit=mëni
+5	چاقىردىڭىزمۇ	چاقىر	VERB	V	Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaqirdingizmu|LTranslit=chaqir
+6	؟	؟	PUNCT	Y	_	5	punct	_	Translit=?|LTranslit=?
 
 ~~~
 
@@ -38,18 +38,18 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 5 vocative	color:blue
-1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	3	nsubj	_	Translit=bu
-2	بەك	بەك	ADV	D	_	3	advmod	_	Translit=bek
-3	ياخشىكەن	_	ADJ	A	_	11	parataxis	_	SpaceAfter=No|Translit=yaxshiken|Morf=Unknown
-4	،	،	PUNCT	Y	_	3	punct	_	Translit=,
-5	ئاپا	ئاپا	NOUN	N	Case=Nom	11	vocative	_	SpaceAfter=No|Translit=apa
-6	،	،	PUNCT	Y	_	5	punct	_	Translit=,
-7	ئېيتىڭا	_	VERB	V	_	11	discourse	_	SpaceAfter=No|Translit=ëytinga|Morf=Unknown
-8	،	،	PUNCT	Y	_	7	punct	_	Translit=,
-9	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	11	nsubj	_	Translit=bu
-10	قانداق	قانداق	ADV	P	PronType=Int	11	amod	_	Translit=qandaq
-11	نەرسە	نەرسە	NOUN	N	Case=Nom	0	root	_	SpaceAfter=No|Translit=nerse
-12	؟	؟	PUNCT	Y	_	11	punct	_	Translit=?
+1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	3	nsubj	_	Translit=bu|LTranslit=bu
+2	بەك	بەك	ADV	D	_	3	advmod	_	Translit=bek|LTranslit=bek
+3	ياخشىكەن	_	ADJ	A	_	11	parataxis	_	SpaceAfter=No|Morf=Unknown|Translit=yaxshiken
+4	،	،	PUNCT	Y	_	3	punct	_	Translit=,|LTranslit=,
+5	ئاپا	ئاپا	NOUN	N	Case=Nom	11	vocative	_	SpaceAfter=No|Translit=apa|LTranslit=apa
+6	،	،	PUNCT	Y	_	5	punct	_	Translit=,|LTranslit=,
+7	ئېيتىڭا	_	VERB	V	_	11	discourse	_	SpaceAfter=No|Morf=Unknown|Translit=ëytinga
+8	،	،	PUNCT	Y	_	7	punct	_	Translit=,|LTranslit=,
+9	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	11	nsubj	_	Translit=bu|LTranslit=bu
+10	قانداق	قانداق	ADV	P	PronType=Int	11	amod	_	Translit=qandaq|LTranslit=qandaq
+11	نەرسە	نەرسە	NOUN	N	Case=Nom	0	root	_	SpaceAfter=No|Translit=nerse|LTranslit=nerse
+12	؟	؟	PUNCT	Y	_	11	punct	_	Translit=?|LTranslit=?
 
 ~~~
 
@@ -60,13 +60,13 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 vocative	color:blue
-1	باش	باش	NOUN	N	Case=Nom	2	amod	_	Translit=bash
-2	ياردەمچى	ياردەمچى	NOUN	N	Case=Nom	3	amod	_	Translit=yardemchi
-3	ئوئاكېلېي	_	NOUN	N	_	6	vocative	_	SpaceAfter=No|Translit=oakëlëy|Morf=Unknown
-4	،	،	PUNCT	Y	_	3	punct	_	Translit=,
-5	تاپانچىڭىز	_	NOUN	N	_	6	nsubj	_	Translit=tapanchingiz|Morf=Unknown
-6	بارمۇ	بار	ADJ	A	_	0	root	_	SpaceAfter=No|Translit=barmu
-7	؟	؟	PUNCT	Y	_	6	punct	_	Translit=?
+1	باش	باش	NOUN	N	Case=Nom	2	amod	_	Translit=bash|LTranslit=bash
+2	ياردەمچى	ياردەمچى	NOUN	N	Case=Nom	3	amod	_	Translit=yardemchi|LTranslit=yardemchi
+3	ئوئاكېلېي	_	NOUN	N	_	6	vocative	_	SpaceAfter=No|Morf=Unknown|Translit=oakëlëy
+4	،	،	PUNCT	Y	_	3	punct	_	Translit=,|LTranslit=,
+5	تاپانچىڭىز	_	NOUN	N	_	6	nsubj	_	Morf=Unknown|Translit=tapanchingiz
+6	بارمۇ	بار	ADJ	A	_	0	root	_	SpaceAfter=No|Translit=barmu|LTranslit=bar
+7	؟	؟	PUNCT	Y	_	6	punct	_	Translit=?|LTranslit=?
 
 ~~~
 

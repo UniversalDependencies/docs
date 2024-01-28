@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.264574).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.261062).
 
 The 1st highest number of forms (2) was observed with the lemma “dongus”: <em>dongus, donngus</em>.
 
@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “brigtae”: <
 `PROPN` occurs with 6 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Number=Sing`
 
 `PROPN` occurs with 5 feature combinations.
-The most frequent feature combination is `Case=Gen|Number=Sing` (5 tokens).
-Examples: <em>brigtae, ferguso, patric, ᚋᚐᚏᚈᚐᚔᚅ</em>
+The most frequent feature combination is `Case=Nom|Number=Sing` (5 tokens).
+Examples: <em>choirbbre, dongus, donngus, finguine, ruadri</em>
 
 
 ## Relations

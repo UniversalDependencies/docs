@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: POS Tags: `X`
 
 There are 810 `X` lemmas (4%), 810 `X` types (4%) and 963 `X` tokens (1%).
-Out of 15 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: A、 the、 NBA、 JR、 of、 B、 County、 Game、 Google、 John
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  Google (<tt><a href="zh_gsdsimp-pos-X.htm
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.004662).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.004660).
 
 The 1st highest number of forms (1) was observed with the lemma “#A”: #A.
 

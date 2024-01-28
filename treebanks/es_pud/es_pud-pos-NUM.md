@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>_, dos, 1, 10, 3, cuatro, mil, tres, seis
 
 The 10 most frequent `NUM` types:  <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1331, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1287, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 861, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 199, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 160, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 53, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>iii</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>v</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1331, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1287, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 861, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 199, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 156, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 53, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>iii</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>v</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>III</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>un</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 242, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>V</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>una</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 172, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -46,13 +46,13 @@ The 2nd highest number of forms (1) was observed with the lemma “1”: <em>1</
 
 The 3rd highest number of forms (1) was observed with the lemma “1,165”: <em>1,165</em>.
 
-`NUM` occurs with 2 features: <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (435; 100% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (430; 99% instances)
+`NUM` occurs with 3 features: <tt><a href="es_pud-feat-NumForm.html">NumForm</a></tt> (435; 100% instances), <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (435; 100% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (430; 99% instances)
 
-`NUM` occurs with 3 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`
+`NUM` occurs with 6 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`
 
-`NUM` occurs with 3 feature combinations.
-The most frequent feature combination is `Gender=Masc|NumType=Card` (375 tokens).
-Examples: <em>dos, 1, 10, 3, mil, tres, seis, 70, cuatro, 100</em>
+`NUM` occurs with 6 feature combinations.
+The most frequent feature combination is `Gender=Masc|NumForm=Digit|NumType=Card` (290 tokens).
+Examples: <em>1, 10, 3, 70, 100, 1492, 20, 2010, 2014, 2015</em>
 
 
 ## Relations

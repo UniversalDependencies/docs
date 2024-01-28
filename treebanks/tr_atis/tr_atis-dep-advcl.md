@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-122 nodes (0%) are attached to their parents as `advcl`.
+123 nodes (0%) are attached to their parents as `advcl`.
 
-122 instances of `advcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.61475409836066.
+123 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.61788617886179.
 
-The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (68; 56% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (23; 19% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (16; 13% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (67; 54% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (23; 19% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (18; 15% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,7 +57,7 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Philadelphia'dan	philadelphia	PROPN	_	Case=Abl|Number=Sing	2	obl	_	_
 2	ayrılıp	ayrıl	ADV	_	_	6	advcl	_	_
 3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
-4	perşembe	perşembe	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obl	_	_
+4	perşembe	perşembe	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obl:tmod	_	_
 5	Atlanta'ya	atlanta	PROPN	_	Case=Dat|Number=Sing	6	obl	_	_
 6	varmak	var	NOUN	_	Case=Nom|Number=Sing|Person=3	7	xcomp	_	_
 7	istiyorum	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_

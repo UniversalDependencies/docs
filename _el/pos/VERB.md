@@ -11,7 +11,7 @@ udver: '2'
 
 A verb typically denotes events and actions, can constitute a minimal predicate in a clause, and governs the number and types of other constituents which may occur in the clause. Verbs are often associated with grammatical categories like tense, mood, aspect and voice, which can either be expressed inflectionally or using auxilliary verbs or particles.
 
-Τhe uninflected form that is used with the auxiliary *έχω* to form periphrastic tenses (e.g. *έχω γράψει* "I have written", *είχα γράψει* "I had written", *θα έχω γράψει* "I will have written") is assigned the VerbForm=Inf feature-value pair. Mood=... and VerbForm=Inf are mutually exclusive feature-value pairs. 
+Τhe uninflected form that is used with the auxiliary *έχω* to form periphrastic tenses (e.g. *έχω γράψει* "I have written", *είχα γράψει* "I had written", *θα έχω γράψει* "I will have written") is assigned the VerbForm=Inf feature-value pair. Mood=... and VerbForm=Inf are mutually exclusive feature-value pairs. *έχω* is also used as a main verb, e.g., in possession denoting structures: *έχω ένα αυτοκίνητο* `I have a car.'
 
 
 Participles in *-μένος* are productive in Modern Greek. These and the participles in *-θείς*  are assigned the tag VERB, the lemma in *-μένος*  and *-θείς*,  and the features Case=...|Gender=...|Number=...VerbForm=Part|Voice=Pass. 
@@ -35,4 +35,4 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:31 CET -->

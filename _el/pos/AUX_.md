@@ -8,7 +8,7 @@ udver: '2'
 ### Definition
 An auxiliary is a function word that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb. In Modern Greek these may be, depending on the auxiliary, person, number, tense and mood. In periphrastic verb tenses, aspect is contributed by the content verb form.
 
-The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
+The verb *έχω* / *echo* "have" and the particles *θα* and *ας* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
 *να* is tagged [AUX]() when:	
 * It introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
@@ -26,5 +26,8 @@ Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμα�
 -	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
 -	Auxiliary use of *είμαι*: *το τριαντάφυλο είναι  λουλούδι"* / *to triantafilo ine louloudi* "a rose is a flower", *ο Αλέξανδρος είναι ψηλός* / *o Alexandros ine psilos* "Alexandros is tall", *το γράμμα είναι γραμμένο με σκούρο μελάνι* / *to grama ine grameno me skouro melani* "the letter has been written with dark ink"
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful."
+-	Auxiliary use of *ας*¨*Καλύτερα ας έχουμε το κεφάλι μας ήσυχο."
+
+
 ### References
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->

@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (1116; 15% of non-empty `Tense`): <em>ocorreu, apresentou, houve, teve, observou, apresentaram, mostrou, utilizou, analisou, obteve</em>
 * `Pqp` (2; 0% of non-empty `Tense`): <em>intemperara, observara</em>
 * `Pres` (5927; 81% of non-empty `Tense`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
-* `EMPTY` (13051): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
+* `EMPTY` (13052): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
 
 <table>
   <tr><th>Paradigm <i>poder</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>

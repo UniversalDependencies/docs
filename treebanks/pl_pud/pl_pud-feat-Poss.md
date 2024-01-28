@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pud-pos-DET.html
 
 80 <tt><a href="pl_pud-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (80; 100%), <tt><a href="pl_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (65; 81%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 70%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (51; 64%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (80; 100%), <tt><a href="pl_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (65; 81%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 70%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (51; 64%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (80; 100% of non-empty `Poss`): <em>swojej, swoich, swoje, swojego, swoim, swoją, swój, Nasze, mój, naszych</em>
-* `EMPTY` (419): <em>które, który, tym, ten, która, wiele, więcej, tych, tego, którzy</em>
+* `EMPTY` (430): <em>które, który, tym, ten, która, wiele, więcej, tych, tego, którzy</em>
 

@@ -37,4 +37,4 @@ discourse(on-2, :]-4)
 ### Turku Dependency Treebank
 
 These do not include other discourse markers than interjections or exclamations.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:50 CET -->

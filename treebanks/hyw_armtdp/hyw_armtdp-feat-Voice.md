@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 5 different values: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`.
 
-15510 tokens (13%) have a non-empty value of `Voice`.
+15515 tokens (13%) have a non-empty value of `Voice`.
 6875 types (27%) occur at least once with a non-empty value of `Voice`.
-1955 lemmas (16%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (15486; 13% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (24; 0% instances).
+1954 lemmas (16%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (15491; 13% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (24; 0% instances).
 
 ### `VERB`
 
-15486 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+15491 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14180; 92%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13625; 88%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13607; 88%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8219; 53%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (7897; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14184; 92%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13630; 88%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13612; 88%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8222; 53%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (7901; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (7875; 51% of non-empty `Voice`): <em>ըսէ, ըսաւ, ունի, ունեցած, գիտեր, ըսեմ, կարծես, ըսել, ունէր, ունին</em>
+* `Act` (7879; 51% of non-empty `Voice`): <em>ըսէ, ըսաւ, ունի, ունեցած, գիտեր, ըսեմ, կարծես, ըսել, ունէր, ունին</em>
 * `Cau` (19; 0% of non-empty `Voice`): <em>բուսցնել, զգացնէ, զգացունէին, զգացուցած, լացնող, կանգնեցուցեր, կարդացնել, մեծցնել, մեռցնեմ, մեռցնէ</em>
-* `Mid` (6553; 42% of non-empty `Voice`): <em>կայ, կրնայ, եղած, կրնար, ըլլայ, ըլլալ, կրնան, եկած, կան, կար</em>
+* `Mid` (6554; 42% of non-empty `Voice`): <em>կայ, կրնայ, եղած, ըլլայ, կրնար, ըլլալ, կրնան, եկած, կան, կար</em>
 * `Pass` (1032; 7% of non-empty `Voice`): <em>կատարուած, ստեղծուած, պատրաստուած, գրուած, նախատեսուած, տրուած, դրուած, ուղղուած, արգիլուած, ենթարկուած</em>
 * `Rcp` (7; 0% of non-empty `Voice`): <em>պայմանաւորուեցանք, պսակուեցան, պսակուին, պսակուող, սիրահարուելով, փոխանակուեցան, փոխանակուէին</em>
 
@@ -58,19 +58,18 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `AUX` tokens may have the following values of `Voice`:
 
 * `Cau` (24; 100% of non-empty `Voice`): <em>տալ, տայ, տուաւ, տար, տուեր, տուի, տալով, տալու, տան, տաք</em>
-* `EMPTY` (8946): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
+* `EMPTY` (8942): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1585; 59%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-obl.html">obl</a></tt>]--> VERB</tt> (196; 51%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (56; 52%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (55; 52%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (27; 68%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (9; 56%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (8; 89%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (8; 73%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (7; 78%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-case-loc.html">case:loc</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-acl.html">acl</a></tt>]--> VERB</tt> (2; 67%).
 

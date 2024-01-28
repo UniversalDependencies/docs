@@ -12,3 +12,4 @@ udver: '2'
 case(ოთახ, ში)
 obl(ჭყავიან, ოთახ)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:31 CET -->

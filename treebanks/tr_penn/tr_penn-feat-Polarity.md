@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-14338 tokens (8%) have a non-empty value of `Polarity`.
-4178 types (12%) occur at least once with a non-empty value of `Polarity`.
-887 lemmas (6%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (14338; 8% instances).
+14334 tokens (8%) have a non-empty value of `Polarity`.
+4176 types (12%) occur at least once with a non-empty value of `Polarity`.
+886 lemmas (6%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (14334; 8% instances).
 
 ### `VERB`
 
-14338 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Polarity`.
+14334 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14198; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (13308; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13190; 92%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12222; 85%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12192; 85%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8517; 59%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7398; 52%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14194; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (13307; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13186; 92%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12215; 85%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12191; 85%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8516; 59%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (7397; 52%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (1284; 9% of non-empty `Polarity`): <em>açıklanmadı, ulaşılamadı, yapmadı, değişmedi, etmedi, olmayacak, söylemedi, vermedi, sanmıyorum, beklemiyor</em>
-* `Pos` (13054; 91% of non-empty `Polarity`): <em>söyledi, dedi, ediyor, oldu, etti, yükseldi, diyor, düştü, kapandı, geldi</em>
-* `EMPTY` (1650): <em>vardı, sahiptir, vardır, yoktu, şirketidir, sahipti, biridir, dolardır, nedir, dolardı</em>
+* `Pos` (13050; 91% of non-empty `Polarity`): <em>söyledi, dedi, ediyor, oldu, etti, yükseldi, diyor, düştü, kapandı, geldi</em>
+* `EMPTY` (1651): <em>vardı, sahiptir, vardır, yoktu, şirketidir, sahipti, biridir, dolardır, nedir, dolardı</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -103,7 +103,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="tr_penn-dep-conj.html">conj</a></tt>]--> VERB</tt> (494; 76%),
-<tt>VERB --[<tt><a href="tr_penn-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (282; 68%),
+<tt>VERB --[<tt><a href="tr_penn-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (281; 68%),
 <tt>VERB --[<tt><a href="tr_penn-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (271; 70%),
 <tt>VERB --[<tt><a href="tr_penn-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (169; 65%),
 <tt>VERB --[<tt><a href="tr_penn-dep-compound.html">compound</a></tt>]--> VERB</tt> (22; 71%),

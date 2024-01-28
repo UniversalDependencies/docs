@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Ind`.
 
-60 tokens (1%) have a non-empty value of `Definite`.
+84 tokens (1%) have a non-empty value of `Definite`.
 2 types (0%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (52; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (8; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (74; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (10; 0% instances).
 
 ### `DET`
 
-52 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Definite`.
+74 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="yrl_complin-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (52; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (52; 100%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="yrl_complin-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (74; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Ind` (52; 100% of non-empty `Definite`): <em>yepé</em>
-* `EMPTY` (231): <em>kwá, nhaã, panhẽ, amú, kwá-itá, muíri, aé, setá, siiya, siía</em>
+* `Ind` (74; 100% of non-empty `Definite`): <em>yepé</em>
+* `EMPTY` (337): <em>kwá, nhaã, panhẽ, amú, muíri, kwá-itá, siiya, maã, siía, aé</em>
 
 ### `PRON`
 
-8 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Definite`.
+10 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (8; 100%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (10; 100%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Ind` (8; 100% of non-empty `Definite`): <em>yepé</em>
-* `EMPTY` (1230): <em>aintá, i, se, waá, aé, indé, ixé, ne, ta, yané</em>
+* `Ind` (10; 100% of non-empty `Definite`): <em>yepé</em>
+* `EMPTY` (1776): <em>aintá, i, waá, se, aé, ixé, indé, ne, maã, yané</em>
 

@@ -43,4 +43,4 @@ aux(sparire, dovrà)
 ~~~
 
 Note that the auxiliary verb used to construct the passive voice is not labeled <code>aux</code> but [aux:pass]().
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:00 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:27 CET -->

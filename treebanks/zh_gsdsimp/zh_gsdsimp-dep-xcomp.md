@@ -33,7 +33,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	会	会	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	设置	设置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂贵	昂贵	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音频	音频	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	设备	设备	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -75,7 +75,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 15	地区	地区	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
 16	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=jiāoliú|LTranslit=jiāoliú
-18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=cái|LTranslit=cái
+18	才	才	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit=cái|LTranslit=cái
 19	开始	开始	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 20	变	变	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
 21	得	得	PART	DEV	_	20	compound:ext	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -108,7 +108,7 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 15	关税	关税	NOUN	NN	_	16	compound	_	SpaceAfter=No|Translit=guānshuì|LTranslit=guānshuì
 16	区	区	PART	SFN	_	11	obj	_	SpaceAfter=No|Translit=qū|LTranslit=qū
 17	”	”	PUNCT	''	_	16	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
-18	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+18	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	非	非	VERB	VC	_	22	amod	_	SpaceAfter=No|Translit=fēi|LTranslit=fēi
 20	主权	主权	NOUN	NN	_	19	xcomp	_	SpaceAfter=No|Translit=zhǔquán|LTranslit=zhǔquán
 21	政治	政治	NOUN	NN	_	22	nmod	_	SpaceAfter=No|Translit=zhèngzhì|LTranslit=zhèngzhì

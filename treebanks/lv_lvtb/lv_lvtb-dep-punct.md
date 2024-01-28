@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50621 nodes (18%) are attached to their parents as `punct`.
+53910 nodes (17%) are attached to their parents as `punct`.
 
-25341 instances of `punct` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.99049801465795.
+27058 instances of `punct` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.01715822667409.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (33872; 67% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (7865; 16% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (2267; 4% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (2249; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (1321; 3% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (843; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (582; 1% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (577; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (477; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (248; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (219; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (39; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (36024; 67% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (8419; 16% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (2458; 5% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (2352; 4% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (1428; 3% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (862; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (626; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (620; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (530; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (253; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (230; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (41; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (22; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -57,13 +57,16 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
-1	Alfs	Alfs	PROPN	npmsn1	Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-d138-p130s1w1|SpaceAfter=No
-2	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d138-p130s1w2
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 punct	color:blue
+1	[	[	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w1|SpaceAfter=No
+2	8.	8.	ADJ	xo	NumType=Ord	0	root	0:root	LvtbNodeId=a-c13-p43s7w2|SpaceAfter=No
+3	,	,	PUNCT	zc	_	4	punct	4:punct	LvtbNodeId=a-c13-p43s7w3|SpaceAfter=No
+4	103	103	NUM	xn	NumType=Card	2	dep	2:dep	LvtbNodeId=a-c13-p43s7w4|SpaceAfter=No
+5	]	]	PUNCT	zb	_	2	punct	2:punct	LvtbNodeId=a-c13-p43s7w5
 
 ~~~
 

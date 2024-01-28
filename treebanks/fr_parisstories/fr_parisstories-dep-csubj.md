@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
 13	qu'	que	SCONJ	_	_	17	mark	_	SpaceAfter=No
-14	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
+14	ils	eux	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 15	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 16	très	très	ADV	_	_	17	advmod	_	_
 17	ouverts	ouvert	ADJ	_	Gender=Masc|Number=Plur	12	csubj	_	SpaceAfter=No
@@ -90,10 +90,10 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 13	que	que	SCONJ	_	_	17	mark	_	_
 14	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj	_	SpaceAfter=No
 15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
-16	quelque	quelque	DET	_	Number=Sing|Person=3|PronType=Ind	17	det	_	_
+16	quelque	quelque	DET	_	Number=Sing|PronType=Ind	17	det	_	_
 17	chose	chose	NOUN	_	Gender=Fem|Number=Sing	12	csubj	_	_
 18	que	que	PRON	_	PronType=Rel	21	obj	_	_
-19	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	SpaceAfter=No
+19	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	SpaceAfter=No
 20	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux:tense	_	_
 21	adoré	adorer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl:relcl	_	_
 22	là-bas	là-bas	ADV	_	_	21	advmod	_	SpaceAfter=No

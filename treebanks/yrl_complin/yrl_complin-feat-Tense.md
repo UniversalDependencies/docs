@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-106 tokens (1%) have a non-empty value of `Tense`.
-20 types (1%) occur at least once with a non-empty value of `Tense`.
-20 lemmas (2%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 5 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (93; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+152 tokens (1%) have a non-empty value of `Tense`.
+21 types (1%) occur at least once with a non-empty value of `Tense`.
+21 lemmas (2%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 5 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (138; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `PART`
 
-93 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (14% of all `PART` tokens) have a non-empty value of `Tense`.
+138 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (14% of all `PART` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (93; 100%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (93; 100%), <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (92; 99%), <tt><a href="yrl_complin-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (92; 99%).
+The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (137; 99%), <tt><a href="yrl_complin-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (137; 99%).
 
 `PART` tokens may have the following values of `Tense`:
 
-* `Fut` (86; 92% of non-empty `Tense`): <em>kurí, arã, arama, ku, rã</em>
-* `Past` (6; 6% of non-empty `Tense`): <em>kwera</em>
+* `Fut` (128; 93% of non-empty `Tense`): <em>kurí, arama, arã, ku, rã</em>
+* `Past` (9; 7% of non-empty `Tense`): <em>kwera</em>
 * `Pres` (1; 1% of non-empty `Tense`): <em>aikwewara</em>
-* `EMPTY` (567): <em>ti, paá, taá, ana, tẽ, aikwé, será, pu, ã, te</em>
+* `EMPTY` (823): <em>ti, paá, ana, taá, tẽ, aikwé, será, ã, pawa, pu</em>
 
 ### `VERB`
 
@@ -37,18 +37,18 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (4; 67% of non-empty `Tense`): <em>pesenduwera, upukawera, upuruwera, uyumuatiriwera</em>
 * `Pres` (2; 33% of non-empty `Tense`): <em>Amanduariwara, Asuwara</em>
-* `EMPTY` (1350): <em>usika, umaã, unheẽ, usú, umunhã, umbeú, upisika, urikú, uri, upitá</em>
+* `EMPTY` (2022): <em>unheẽ, usika, usú, umaã, umunhã, urikú, umbeú, upitá, upisika, uri</em>
 
 ### `ADV`
 
-4 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Tense`.
+5 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Man</tt> (3; 75%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Man</tt> (3; 60%).
 
 `ADV` tokens may have the following values of `Tense`:
 
-* `Pres` (4; 100% of non-empty `Tense`): <em>Ikewara, kwayewara, sewara, yawewara</em>
-* `EMPTY` (600): <em>asuí, mayé, ape, kuíri, yawé, yuíri, iké, katú, mamé, piri</em>
+* `Pres` (5; 100% of non-empty `Tense`): <em>Asuiwara, Ikewara, kwayewara, sewara, yawewara</em>
+* `EMPTY` (818): <em>asuí, mayé, ape, kuíri, yawé, iké, yuíri, aramé, mamé, rẽ</em>
 
 ### `NOUN`
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Pres` (2; 100% of non-empty `Tense`): <em>arawara, rukawara</em>
-* `EMPTY` (1397): <em>ara, igara, manha, ruka, mira, kunhã, apigawa, pituna, nheenga, pirá</em>
+* `EMPTY` (2127): <em>ara, mira, igara, manha, apigawa, pituna, ruka, kunhã, yautí, paraná</em>
 
 ### `AUX`
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>uikuwera</em>
-* `EMPTY` (206): <em>uikú, usú, asú, kwáu, putari, aikú, yasú, upuderi, yaikú, pesú</em>
+* `EMPTY` (314): <em>uikú, usú, putari, aikú, asú, kwáu, yasú, upuderi, yaikú, kari</em>
 
 ## Relations with Agreement in `Tense`
 

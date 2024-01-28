@@ -13,4 +13,4 @@ tak / ʔeːgirim // ʔajaːj tak -i iː- fi =t amsi iraːnaj rh -i / oː= kina /
 text_en: "There was an old man of my family and, gosh! I even saw him today.
 appos(tak, tak) ("man", "man")
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:59 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:26 CET -->

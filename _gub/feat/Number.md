@@ -61,4 +61,4 @@ The singular number is expressed as part of the personal pronouns "ihe" and "ne"
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:41 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:53 CET -->

@@ -22,4 +22,4 @@ part-of-speech.
 * <b>tout court</b>
 * <b>res nullius</b>
 * <b>pro capite</b>
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:30 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:32 CET -->

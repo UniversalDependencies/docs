@@ -24,8 +24,8 @@ The following 2 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 3 4 advmod:emph	color:blue
 1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	Translit=kumār|LTranslit=kumār
 2	நேரத்தோடு	நேரம்	NOUN	_	Case=Com|Number=Sing|Person=3	3	obl:tmod	_	Translit=nērattōṭu|LTranslit=nēram
-3	வந்தால்	வா	VERB	_	VerbForm=Fin	0	root	_	Translit=vantāl|LTranslit=vā
-4	தானே	தான்	ADV	_	Gender=Com|Number=Sing	3	advmod:emph	_	Translit=tāṉē|LTranslit=tāṉ
+3	வந்தால்	வா	VERB	_	VerbForm=Fin	0	root	_	LTranslit=vā|Translit=vantāl
+4	தானே	தான்	ADV	_	Number=Sing	3	advmod:emph	_	LTranslit=tāṉ|Translit=tāṉē
 5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (1%) are attached to their parents as `expl`.
+77 nodes (1%) are attached to their parents as `expl`.
 
-54 instances of `expl` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20338983050847.
+72 instances of `expl` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16883116883117.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (54; 92% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (70; 91% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

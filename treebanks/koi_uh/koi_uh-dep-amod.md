@@ -17,19 +17,18 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 amod	color:blue
-1	Игаузу	Игаузу	PROPN	_	Case=Nom|NameType=Geo|Number=Sing	4	dislocated	_	GTtags=Prop,Sg,Nom
-2	-	-	PUNCT	_	_	1	punct	_	_
-3	этӧ	эта	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	GTtags=Dem,Sg,Nom
-4	ыджыт	ыджыт	ADJ	_	_	0	root	_	_
-5	али	али	CCONJ	_	_	7	cc	_	_
-6	учӧт	учӧт	ADJ	_	_	7	amod	_	_
-7	страна	страна	NOUN	_	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom|SpaceAfter=No
-8	?	?	PUNCT	CLB	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 amod	color:blue
+1	Кыкнан	кык	DET	_	PronType=Tot	3	det	_	GTtags=Coll,Cmpl
+2	том	том	ADJ	_	Case=Nom|Number=Sing	3	amod	_	GTtags=Sg,Nom
+3	семьялӧ	семья	NOUN	_	Case=Dat|Number=Sing	5	obl	_	GTtags=Src/F,Sg,Dat
+4	квартираэсӧ	квартира	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	5	obj	_	GTtags=Pl,Acc,PxSg3
+5	сетісӧ	сетны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
+6	ӧтдруг	ӧтдруг	ADV	_	_	5	advmod:tmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

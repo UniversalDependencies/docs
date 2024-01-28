@@ -25,12 +25,12 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 9 4 advcl	color:blue
 1	si	si	SCONJ	_	_	4	mark	_	_
 2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
-3	t'	le	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obj	_	SpaceAfter=No
+3	t'	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	4	obj	_	SpaceAfter=No
 4	embête	embêter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+6	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
 7	ne	ne	ADV	_	Polarity=Neg	9	advmod	_	_
-8	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	le	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 9	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
@@ -45,11 +45,11 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 4 advcl	color:blue
 1	quand	quand	SCONJ	_	_	4	mark	_	_
-2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
+2	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No
 3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 4	aimé	aimer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+6	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
 7	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
 8	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
 9	fidèle	fidèle	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 advcl	color:blue
-1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	prenez	prendre	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	rond-point	rond-point	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_

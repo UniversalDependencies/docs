@@ -8,23 +8,37 @@ udver: '2'
 
 This relation is universal.
 
-55 nodes (8%) are attached to their parents as `obj`.
+118 nodes (6%) are attached to their parents as `obj`.
 
-52 instances of `obj` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14545454545455.
+109 instances of `obj` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33898305084746.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (46; 84% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (8; 15% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (93; 79% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (14; 12% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 obj	color:blue
-1	ure	re	PRON	bi	IF=Ass|Number=Sing|Person=3	3	nsubj	_	_
-2	karo	karo	NOUN	n	_	3	obj	_	_
-3	kowuje	kowuje	VERB	v	Number=Sing|Person=3	0	root	_	eat;comer
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 obj	color:blue
+1	Marigudu	marigudu	ADV	adv	_	5	advcl	_	_
+2	Deu	Deu	NOUN	n	_	5	nsubj	_	_
+3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
+4	moto	moto	NOUN	n	_	5	obj	_	_
+5	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	9	dep	_	_
+8	baru	baru	NOUN	n	_	9	obj	_	_
+9	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	ure	re	PART	prcl	_	13	dep	_	_
+12	pobo	pobo	NOUN	n	_	13	obj	_	water;água
+13	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
+14	,	,	PUNCT	punct	_	13	punct	_	_
+15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	17	dep	_	_
+16	tori	tori	NOUN	n	_	17	obj	_	stone;pedra
+17	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	make,cause;fazer,criar
 
 ~~~
 
@@ -35,42 +49,27 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obj	color:blue
-1	adugore	adugo	NOUN	n	IF=Ass	3	nsubj	_	[aḁˈdɯɡwɔɔ̥];jaguar;onça
+1	adugore	adugo	NOUN	n	Mood=Ind	3	nsubj	_	[aḁˈdɯɡwɔɔ̥];jaguar;onça
 2	emage	mage	PRON	pron	Number=Plur|Person=3|PronType=Prs	3	obj	_	_
-3	ebito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
+3	ewito	bi	VERB	v	Number[obj]=Plur|Person[obj]=3|Voice=Cau	0	root	_	die;morrer
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 obj	color:blue
-1	Boe	boe	NOUN	_	_	5	nsubj	_	_
-2	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi	5	dep	_	_
-3	bai	bai	NOUN	_	_	4	nmod	_	straw;palha
-4	bora	bora	NOUN	_	_	5	obj	_	fence,chest;cerca,peitoral
-5	bu	bu	VERB	v	_	0	root	_	put,place;pôr,colocar
-6	kajeje	kajeje	ADP	_	_	5	obl	_	around;ao.redor,em.volta
-7	.	.	PUNCT	_	_	5	punct	_	_
-8	Mare	mare	CCONJ	cconj	_	12	cc	_	but;mas
-9	woere	woe	ADV	adv	IF=Ass	12	advmod	_	here;aqui
-10	boe	boe	NOUN	n	_	12	nsubj	_	_
-11	emode	e	PRON	bi	IF=Ass|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
-12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	_	hand;mão
-13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
-14	,	,	PUNCT	punct	_	12	punct	_	_
-15	awu	awu	DET	dem	_	16	det	_	_
-16	korogedy	_	NOUN	_	_	17	nmod	_	stream;córrego
-17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
-18	ji	ji	ADP	posp	_	17	case	_	_
-19	woe	woe	ADV	adv	_	12	advmod	_	_
-20	,	,	PUNCT	punct	_	19	punct	_	_
-21	jice	jice	ADV	adv	_	22	advmod	_	there;lá
-22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
-23	tada	tada	ADP	posp	_	22	case	_	inside;dentro
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 obj	color:blue
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
+2	adugo	adugo	NOUN	n	_	3	obj	_	_
+3	bitowu	bito	NOUN	n	Nomzr=Rel	4	acl	_	_
+4	imedu	imedu	NOUN	n	Number=Sing	5	nsubj	_	_
+5	mugure	mugu	VERB	v	Nomzr=Rel	0	root	_	_
+6	nowu	nowu	DET	det	_	7	det	_	_
+7	bai	bai	NOUN	n	_	5	obl	_	_
+8	tada	tada	ADP	posp	_	7	case	_	_
 
 ~~~
 

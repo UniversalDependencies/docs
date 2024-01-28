@@ -19,3 +19,4 @@ advmod(ხვიხვინებდნენ, გარეთ)
 advmod(ბარად, დავდიოდი)
 ~~~
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:20 CET -->

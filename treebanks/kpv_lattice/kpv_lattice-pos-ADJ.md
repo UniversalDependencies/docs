@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>кодь</em> (<tt><a href="kpv_latti
   * <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1: <em>Премияяс сеталанныд , деньга таргайтанныд , a турун зорӧдъясным ӧд <b>гӧна</b> лёльӧяс кодьӧсь — йывдытӧмӧсь и пыкӧдтӧмӧсь .</em>
   * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1: <em>Кык ӧшинь костас , небыд диван вылын , сан кодь пушыд <b>гӧна</b> кысӧ куткырвидзӧ .</em>
 * <em>зарни</em>
-  * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3: <em>Мери шедӧдіс бронза , Питер - эзысь , а Джейн - <b>зарни</b> .</em>
+  * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3: <em>Озырлун кыссьӧ озырлун дінӧ , a <b>зарни</b> — <b>зарни</b> дінӧ .</em>
   * <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1: <em>A юыслӧн паськыдкодь ковтысыс вӧлі лайковмунӧма катыдлань и кывтыдлань синмыд судзмӧн ылӧдз , да кузяла и пасьтала вӧлі сійӧс серӧдӧма <b>зарни</b> арлӧн югыда ӧзйысь рӧмъясӧн ...</em>
 * <em>кутшӧмкӧ</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3: <em>Мед жӧ нин , мися , кӧть <b>кутшӧмкӧ</b> тӧвру пӧльыштлас , думайта ас кежысь .</em>

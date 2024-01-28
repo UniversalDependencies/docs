@@ -54,7 +54,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 * `Anim` (26589; 53% of non-empty `Animacy`): <em>Путин, В., Владимир, А., Сергей, Путина, Александр, Галилей, Медведев, Борис</em>
 * `Inan` (23724; 47% of non-empty `Animacy`): <em>России, США, Россия, СССР, Москве, Москвы, Германии, Россию, РФ, Европе</em>
-* `EMPTY` (5445): <em>СССР, США, РАН, С., РФ, А., Южной, НАТО, Б., Западной</em>
+* `EMPTY` (5442): <em>СССР, США, РАН, С., РФ, А., Южной, НАТО, Б., Западной</em>
 
 <table>
   <tr><th>Paradigm <i>Владимир</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Anim` (1741; 9% of non-empty `Animacy`): <em>все, кто, всех, никто, всем, кого, кто-то, кому, никого, кем</em>
 * `Inan` (17325; 91% of non-empty `Animacy`): <em>это, то, все, того, том, этом, что, тем, этого, всего</em>
-* `EMPTY` (53878): <em>он, я, мы, они, его, она, что, их, которые, мне</em>
+* `EMPTY` (53879): <em>он, я, мы, они, его, она, что, их, которые, мне</em>
 
 <table>
   <tr><th>Paradigm <i>который</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -173,7 +173,7 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (78518; 82%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24107; 95%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7945; 58%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7090; 97%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (7091; 97%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> PROPN</tt> (5152; 89%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3351; 88%),
 <tt>NOUN --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (3144; 86%),

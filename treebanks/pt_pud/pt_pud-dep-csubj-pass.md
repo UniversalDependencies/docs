@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 11 csubj:pass	color:blue
 1	Em	_	ADP	IN	_	3	case	_	_
-2	uma	um	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	ocasião	ocasião	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux:pass	_	_
@@ -52,7 +52,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	que	que	SCONJ	IN	_	11	mark	_	_
 8	ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
 9	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
-10	um	um	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	agente	agente	NOUN	NN	Gender=Masc|Number=Sing	6	csubj:pass	_	_
 12	secreto	secreto	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
 13	cujo	cujo	DET	WP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	14	det	_	_

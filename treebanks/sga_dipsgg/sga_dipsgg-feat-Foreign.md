@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-10 tokens (3%) have a non-empty value of `Foreign`.
+10 tokens (2%) have a non-empty value of `Foreign`.
 10 types (4%) occur at least once with a non-empty value of `Foreign`.
 3 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="sga_dipsgg-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="sga_dipsgg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>femininum, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ, accentus</em>
-* `EMPTY` (107): <em>ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bachal</em>
+* `EMPTY` (109): <em>ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bachal</em>
 
 ### `X`
 
@@ -69,14 +69,14 @@ The most frequent other feature values with which `SCONJ` and `Foreign` co-occur
 
 ### `VERB`
 
-1 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
 The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>adest</em>
-* `EMPTY` (27): <em>chain, Gaib, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil, llega</em>
+* `EMPTY` (28): <em>chain, Gaib, braigim, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil</em>
 
 ## Relations with Agreement in `Foreign`
 

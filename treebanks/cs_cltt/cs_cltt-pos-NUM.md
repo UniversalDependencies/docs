@@ -32,11 +32,11 @@ The 2nd highest number of forms (4) was observed with the lemma “dva”: <em>d
 
 The 3rd highest number of forms (2) was observed with the lemma “dvanáct”: <em>dvanáct, dvanácti</em>.
 
-`NUM` occurs with 7 features: <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt> (434; 100% instances), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt> (434; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (68; 16% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (68; 16% instances), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt> (57; 13% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (46; 11% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (12; 3% instances)
+`NUM` occurs with 6 features: <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt> (434; 100% instances), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt> (434; 100% instances), <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (68; 16% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (68; 16% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (46; 11% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (12; 3% instances)
 
-`NUM` occurs with 18 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `NumValue=1,2,3`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 17 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 20 feature combinations.
+`NUM` occurs with 19 feature combinations.
 The most frequent feature combination is `NumForm=Roman|NumType=Card` (366 tokens).
 Examples: <em>1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</em>
 

@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 4 different values: `Art`, `Dem`, `Int`, `Prs`.
 
 6168 tokens (16%) have a non-empty value of `PronType`.
-188 types (3%) occur at least once with a non-empty value of `PronType`.
+344 types (3%) occur at least once with a non-empty value of `PronType`.
 23 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> (4300; 11% instances), <tt><a href="hbo_ptnk-pos-DET.html">DET</a></tt> (1868; 5% instances).
 
@@ -22,9 +22,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (243; 6% of non-empty `PronType`): <em>זה, אלה, זאת, אֵ֣לֶּה, אֵ֖לֶּה, אֵ֚לֶּה, זֹ֑את, זֹ֣את, זֶ֖ה, אל</em>
-* `Int` (63; 1% of non-empty `PronType`): <em>מַה, מִי, מִ֥י, מָ֣ה, מה, מי, מִֽי, מִ֣י, מֶ֣ה, מָ֥ה</em>
-* `Prs` (3994; 93% of non-empty `PronType`): <em>הוא, אני, אתה, הם, היא, אתם, אנחנו, את, הן, ה֖וּא</em>
+* `Dem` (243; 6% of non-empty `PronType`): <em>אֵ֣לֶּה, זֶּ֔ה, אֵ֖לֶּה, אֵ֨לֶּה֙, זֶ֖ה, זֶּ֑ה, זֶּֽה, זֹּ֔את, אֵ֔לֶּה, אֵ֗לֶּה</em>
+* `Int` (63; 1% of non-empty `PronType`): <em>מַה, מִי, מִ֥י, מָ֣ה, מִֽי, מִ֖י, מִ֣י, מֶ֣ה, מֶֽה, מָ֥ה</em>
+* `Prs` (3994; 93% of non-empty `PronType`): <em>ו, י, ךָ, הּ, ם, נוּ, ךְ, ו֙, הָ, ךָ֖</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `PronType`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (1868; 100% of non-empty `PronType`): <em>ה</em>
+* `Art` (1868; 100% of non-empty `PronType`): <em>הַ, הָ, ה, הָֽ, הַֽ, הָ֣, הַ֨, הֶֽ, הָ֠, הֶ</em>
 
 ## Relations with Agreement in `PronType`
 

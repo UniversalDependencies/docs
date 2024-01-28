@@ -18,24 +18,22 @@ The following 19 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 10 cc	color:blue
-1	Ama	ama	CCONJ	Conj	_	3	ccomp	_	SpaceAfter=No
-2	,	,	PUNCT	Punc	_	1	punct	_	_
-3	dedim	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	Punc	_	3	punct	_	_
-5	ben	ben	PRON	Pers	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-6	ne	ne	CCONJ	Conj	_	8	cc	_	_
-7	şiir	şiir	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	obj	_	_
-8	okuyabilirim	oku	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	1	conj	_	SpaceAfter=No
-9	,	,	PUNCT	Punc	_	12	punct	_	_
-10	ne	ne	CCONJ	Conj	_	12	cc	_	_
-11	de	de	CCONJ	Conj	_	12	advmod:emph	_	_
-12	şarkı	şarkı	NOUN	Noun	Case=Nom|Number=Sing|Person=3	1	conj	_	SpaceAfter=No
-13	.	.	PUNCT	Punc	_	12	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 cc	color:blue
+1	İçim	iç	ADJ	NAdj	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	9	nsubj	_	_
+2	kıskançlık	kıskançlık	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	obj	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	4	punct	_	_
+4	acı	acı	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	2	conj	_	SpaceAfter=No
+5	,	,	PUNCT	Punc	_	6	punct	_	_
+6	kin	kin	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+7	ve	ve	CCONJ	Conj	_	8	cc	_	_
+8	nefretle	nefret	NOUN	Noun	Case=Ins|Number=Sing|Person=3	2	conj	_	_
+9	dolu	dolu	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
+10	ydu	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	_
+11	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 
@@ -43,31 +41,30 @@ The following 19 pairs of parts of speech are connected with `cc`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	Ama	ama	CCONJ	Conj	_	4	cc	_	_
-2	annemin	anne	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	3	nmod:poss	_	_
-3	şartları	şart	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
-4	vardı	var	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cc	color:blue
+1	Ama	ama	CCONJ	Conj	_	3	cc	_	_
+2	orada	ora	NOUN	Noun	Case=Loc|Number=Sing|Person=3	3	obl	_	_
+3	bulundum	bulun	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 cc	color:blue
-1	Ve	ve	CCONJ	Conj	_	5	cc	_	_
-2	kendi	kendi	PRON	Reflex	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Reflex=Yes	3	nmod	_	_
-3	merceklerinden	mercek	NOUN	Noun	Case=Abl|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	obl	_	_
-4	bakıldığında	bak	VERB	Verb	Aspect=Perf|Case=Loc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
-5	haklı	haklı	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	lar	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	_
-7	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cc	color:blue
+1	Heyecanlı	heyecanlı	ADJ	Adj	_	4	amod	_	_
+2	ve	ve	CCONJ	Conj	_	3	cc	_	_
+3	yorgun	yorgun	ADJ	Adj	_	1	conj	_	_
+4	görünüyorsunuz	görün	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Polite=Infm|Tense=Pres	6	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	Punc	_	4	punct	_	_
+6	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

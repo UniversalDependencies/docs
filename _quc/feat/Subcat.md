@@ -22,4 +22,4 @@ This feature specifies how many arguments the verb agrees with.
 #### Examples
 
 * _<b>Xatinwilo</b>_ "I see you"
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:49 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:08 CET -->

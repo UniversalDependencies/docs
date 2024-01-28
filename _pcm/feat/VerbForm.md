@@ -42,4 +42,4 @@ This feature is used for present and past participles.
 
 * _stop <b>surfing</b> di Internet_ "Stop surfing the internet"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:51 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:12 CET -->

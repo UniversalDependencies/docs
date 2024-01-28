@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Telpukatl	telpukatl	NOUN	_	Case=Abs|Number=Sing	4	dislocated	4:dislocated	NormalizedForm=telpukatl|NormalizedLemma=telpukatl
 2	n	in	DET	_	_	3	det	3:det	NormalizedForm=n|NormalizedLemma=in
 3	yeh	yehuatl	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	NormalizedForm=yeh|NormalizedLemma=yewatl
-4	kiseguiroa	seguiroa	VERB	_	_	0	root	0:root	NormalizedForm=kiseguiroa|NormalizedLemma=segwiroa
+4	kiseguiroa	seguiroa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kiseguiroa|NormalizedLemma=segwiroa
 5	kitemohtinimi	temohtinimi	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran	4	xcomp	4:xcomp	NormalizedForm=kitemohtinimi|NormalizedLemma=temohtinimi
 6	ikamak	kamak	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	5:obl	NormalizedForm=ikamak|NormalizedLemma=kamak
 7	n	in	DET	_	_	8	det	8:det	NormalizedForm=n|NormalizedLemma=in

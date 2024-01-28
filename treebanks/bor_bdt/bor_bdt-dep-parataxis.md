@@ -8,64 +8,96 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (1%) are attached to their parents as `parataxis`.
+72 nodes (4%) are attached to their parents as `parataxis`.
 
-4 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.5.
+71 instances of `parataxis` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.31944444444444.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 25% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 25% instances).
+The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (53; 74% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (5; 7% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 parataxis	color:blue
-1	Akaiwodo	aiwo	VERB	v	Number=Sing|Person=2|Voice=Cau	0	root	_	look.at;olhar.para
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	imana	imana	NOUN	n	_	1	vocative	_	older.brother;irmão.mais.velho
-4	.	.	PUNCT	punct	_	3	punct	_	_
-5	Ire	i	PRON	bi	IF=Ass|Number=Sing|Person=1|PronType=Bi	7	nsubj	_	_
-6	karo	karo	NOUN	n	_	7	obj	_	_
-7	bito	bi	VERB	v	Number=Sing|Person=3|Voice=Cau	1	parataxis	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 parataxis	color:blue
+1	Deu	Deu	NOUN	n	_	3	nsubj	_	God;Deus
+2	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	3	dep	_	_
+3	tuje	je	VERB	v	Number=Sing|Person=3	0	root	_	exist,live;existir,viver
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	onaregedyre	onaregedy	NOUN	n	Mood=Ind	7	nsubj	_	son;filho
+6	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	7	dep	_	_
+7	tuje	je	VERB	v	Number=Sing|Person=3	3	parataxis	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 parataxis	color:blue
-1	Imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	_	_
-2	karega	karega	ADV	adv	Polarity=Neg	1	advmod	_	negates.other.than.the.predicate;negação.mão.de.predicado
-3	.	.	PUNCT	_	_	1	punct	_	_
-4	Imaragodymodykare	maragody	VERB	v	IF=Ass|Number=Sing|Person=1|Polarity=Neg|Tense=Fut	1	parataxis	_	work;trabalhar
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 25 parataxis	color:blue
+1	Du	du	X	_	_	6	advmod	_	_
+2	keje	keje	ADP	_	_	1	fixed	_	_
+3	icare	icare	ADV	adv	_	6	advmod	_	_
+4	awy	awy	DET	_	_	5	det	_	_
+5	kiogo	kiogo	NOUN	n	_	6	nsubj	_	_
+6	akogodure	akogody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+7	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	6	xcomp	_	_
+8	:	_	PUNCT	punct	_	7	punct	_	_
+9	Baru	_	NOUN	n	_	11	nsubj	_	_
+10	kuru	_	NOUN	n	_	9	nmod	_	_
+11	ciri	_	VERB	v	_	7	parataxis	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	baru	_	NOUN	n	_	15	nsubj	_	_
+14	kuru	_	NOUN	n	_	13	nmod	_	_
+15	ciri	_	VERB	v	_	11	parataxis	_	_
+16	br	br	X	ideo	_	11	parataxis	_	_
+17	!	!	PUNCT	punct	_	16	punct	_	_
+18	br	br	X	ideo	_	11	parataxis	_	_
+19	!	!	PUNCT	punct	_	18	punct	_	_
+20	ciri	_	VERB	v	_	11	parataxis	_	_
+21	ciri	_	VERB	v	_	11	parataxis	_	_
+22	ciri	_	VERB	v	_	11	parataxis	_	_
+23	br	br	X	ideo	_	11	parataxis	_	_
+24	!	!	PUNCT	punct	_	23	punct	_	_
+25	br	br	X	ideo	_	11	parataxis	_	_
+26	!	!	PUNCT	punct	_	25	punct	_	_
+27	je	je	ADV	adv	_	7	advcl	_	thus;assim
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 parataxis	color:blue
-1	U	u	INTJ	intj	_	4	discourse	_	_
-2	,	,	PUNCT	punct	_	1	punct	_	_
-3	boe	_	NOUN	n	_	4	nsubj	_	_
-4	pemegare	pemega	VERB	v	IF=Ass	0	root	_	_
-5	.	_	PUNCT	punct	_	4	punct	_	_
-6	Ike	ke	NOUN	_	Number=Sing|Person=1	7	nsubj	_	food;comida
-7	boere	boe	VERB	v	IF=Ass	4	parataxis	_	_
-8	ii	ji	ADP	posp	_	7	obl	_	_
-9	.	_	PUNCT	_	_	7	punct	_	_
-10	Pamode	pa	PRON	bi	Clusivity=In|IF=Ass|Number=Plur|Person=1|PronType=Bi|Tense=Fut	4	parataxis	_	_
-11	karo	karo	NOUN	_	_	12	obj	_	_
-12	kowuje	kowuje	VERB	v	_	10	xcomp	_	_
-13	?	?	PUNCT	punct	_	12	punct	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 18 parataxis	color:blue
+1	ia	ia	DET	ia	_	2	det	_	_
+2	meri	meri	NOUN	n	_	5	obl	_	sun,day;sol,dia
+3	keje	keje	ADP	_	_	2	case	_	in,inside;em,dentro
+4	Satanae	Satanae	PROPN	_	_	5	nsubj	_	_
+5	aregodyre	aregody	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	arrive;chegar
+6	aredy	aredy	NOUN	n	_	5	obl	_	woman;mulher
+7	ae	ae	ADP	posp	_	6	case	_	_
+8	,	,	PUNCT	punct	_	5	punct	_	_
+9	Satanae	_	PROPN	_	_	14	nsubj	_	_
+10	ure	_	PART	prcl	_	14	dep	_	_
+11	bopedoge	_	NOUN	n	_	12	nmod	_	_
+12	eiamedu	_	NOUN	n	_	14	nmod	_	_
+13	boe	_	NOUN	n	_	14	nmod	_	_
+14	eimejera	imejera	NOUN	n	_	5	parataxis	_	_
+15	ema	_	PRON	_	_	14	discourse	_	_
+16	,	,	PUNCT	punct	_	15	punct	_	_
+17	ema	_	PRON	_	_	18	nsubj	_	_
+18	koiare	_	VERB	v	_	14	parataxis	_	_
+19	ure	re	PART	prcl	_	20	dep	_	_
+20	erojai	rojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	_
+21	,	,	PUNCT	punct	_	20	punct	_	_
+22	ekojai	kojai	VERB	v	Number=Plur|Person=3	18	parataxis	_	_
 
 ~~~
 

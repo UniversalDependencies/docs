@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (444; 36% of non-empty `Number`): <em>många, flera, andra, nya, stora, olika, fler, små, vissa, båda</em>
 * `Sing` (805; 64% of non-empty `Number`): <em>stor, hela, nya, norra, södra, andra, lång, brittiska, direkt, egen</em>
-* `EMPTY` (310): <em>första, senaste, sista, högsta, större, andra, största, betydande, bästa, främsta</em>
+* `EMPTY` (311): <em>första, senaste, sista, högsta, större, andra, största, betydande, bästa, främsta</em>
 
 <table>
   <tr><th>Paradigm <i>stor</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -103,7 +103,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 * `Plur` (3; 20% of non-empty `Number`): <em>Mps, Victorias</em>
 * `Sing` (12; 80% of non-empty `Number`): <em>North, Punta, Amazon, Cuaron, Karels, Korint, Krasnoyarsk, MahaNakhon, Panamanäset, Slack</em>
-* `EMPTY` (1201): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, North, Albanien</em>
+* `EMPTY` (1200): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, North, Albanien</em>
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (14) occur only with one value of `Number`.
 

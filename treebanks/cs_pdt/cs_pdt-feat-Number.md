@@ -276,7 +276,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 2368 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2367; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2367; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1402; 59%), <tt><a href="cs_pdt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (1217; 51%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2367; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2367; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1402; 59%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -305,10 +305,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (14664; 59%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7983; 81%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (5387; 81%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3547; 77%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3566; 77%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2243; 57%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2231; 99%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-cop.html">cop</a></tt>]--> AUX</tt> (2216; 86%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-cop.html">cop</a></tt>]--> AUX</tt> (2219; 86%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2096; 72%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1784; 88%).
+<tt>NOUN --[<tt><a href="cs_pdt-dep-cop.html">cop</a></tt>]--> AUX</tt> (1791; 78%).
 

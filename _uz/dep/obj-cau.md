@@ -18,4 +18,4 @@ obj:cau(quvontirdi,ustozini)
 ~~~
 
 
-<!-- Interlanguage links updated 12 September,2023 12:54:22 Spanish Galician time -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:15 CET -->

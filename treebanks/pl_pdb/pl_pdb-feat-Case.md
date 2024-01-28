@@ -9,26 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-157051 tokens (45%) have a non-empty value of `Case`.
-49717 types (82%) occur at least once with a non-empty value of `Case`.
-23603 lemmas (85%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (87220; 25% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (35486; 10% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (11627; 3% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (10657; 3% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (9253; 3% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2739; 1% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (69; 0% instances).
+157134 tokens (45%) have a non-empty value of `Case`.
+49747 types (82%) occur at least once with a non-empty value of `Case`.
+23630 lemmas (85%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (87150; 25% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (35595; 10% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (11729; 3% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (10610; 3% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (9348; 3% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2633; 1% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (69; 0% instances).
 
 ### `NOUN`
 
-87220 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+87150 <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63092; 72%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (48391; 55%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63031; 72%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (48329; 55%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (16782; 19% of non-empty `Case`): <em>sposób, raz, temat, czas, życie, pieniądze, uwagę, dzień, stronę, ręce</em>
-* `Dat` (1215; 1% of non-empty `Case`): <em>panu, ludziom, komisji, dzieciom, osobom, pani, państwu, życiu, mężczyźnie, dziennikarzom</em>
-* `Gen` (29834; 34% of non-empty `Case`): <em>lat, osób, roku, pracy, ludzi, dnia, dzieci, czasu, wody, życia</em>
-* `Ins` (7358; 8% of non-empty `Case`): <em>wodą, głową, razem, zdaniem, czasem, ręką, pomocą, względem, rękami, celem</em>
-* `Loc` (12921; 15% of non-empty `Case`): <em>roku, sprawie, wodzie, stroju, czasie, trawie, pobliżu, przypadku, kasku, celu</em>
-* `Nom` (18902; 22% of non-empty `Case`): <em>mężczyzna, pan, kobieta, człowiek, chłopiec, dziewczynka, pani, ludzie, pies, osoby</em>
-* `Voc` (208; 0% of non-empty `Case`): <em>panie, pośle, marszałku, pani, kochanie, tato, mamo, ministrze, panowie, doktorze</em>
+* `Acc` (16774; 19% of non-empty `Case`): <em>sposób, raz, temat, czas, życie, pieniądze, uwagę, dzień, stronę, ręce</em>
+* `Dat` (1214; 1% of non-empty `Case`): <em>panu, ludziom, komisji, dzieciom, osobom, pani, państwu, życiu, mężczyźnie, dziennikarzom</em>
+* `Gen` (29803; 34% of non-empty `Case`): <em>lat, osób, roku, pracy, ludzi, dnia, dzieci, czasu, wody, życia</em>
+* `Ins` (7353; 8% of non-empty `Case`): <em>wodą, głową, razem, zdaniem, czasem, ręką, pomocą, względem, rękami, celem</em>
+* `Loc` (12914; 15% of non-empty `Case`): <em>roku, sprawie, wodzie, stroju, czasie, trawie, pobliżu, przypadku, kasku, celu</em>
+* `Nom` (18881; 22% of non-empty `Case`): <em>mężczyzna, pan, kobieta, człowiek, chłopiec, dziewczynka, pani, ludzie, pies, osoby</em>
+* `Voc` (211; 0% of non-empty `Case`): <em>panie, pośle, marszałku, pani, kochanie, tato, mamo, ministrze, panowie, profesorze</em>
+* `EMPTY` (1484): <em>r, zł, art, tys, proc, ust, %, ul, godz, mln</em>
 
 <table>
   <tr><th>Paradigm <i>człowiek</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -39,20 +40,20 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-35486 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
+35595 <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (28716; 81%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (28716; 81%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (28716; 81%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (28716; 81%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27560; 78%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24102; 68%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19287; 54%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (28831; 81%), <tt><a href="pl_pdb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (28831; 81%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (28831; 81%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (28831; 81%), <tt><a href="pl_pdb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (27510; 77%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24045; 68%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (19389; 54%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (6085; 17% of non-empty `Case`): <em>cały, pierwszy, inne, dotyczące, pierwsze, całą, drugą, nowe, jedną, drugie</em>
-* `Dat` (398; 1% of non-empty `Case`): <em>innym, drugiemu, własnym, młodemu, młodym, całej, członkowskim, jednemu, nowemu, nowym</em>
-* `Gen` (10557; 30% of non-empty `Case`): <em>innych, europejskiej, nowych, różnych, nowego, drugiej, jednego, polskiej, polskiego, dotyczących</em>
-* `Ins` (2860; 8% of non-empty `Case`): <em>jednym, innymi, samym, jedną, wielkim, dużym, drugim, długimi, Europejską, dużą</em>
-* `Loc` (4504; 13% of non-empty `Case`): <em>czerwonej, jednym, sportowym, jednej, samym, czarnym, całym, innych, czerwonym, białej</em>
-* `Nom` (11062; 31% of non-empty `Case`): <em>jeden, sam, jedna, inne, mały, drugi, pierwszy, sama, europejska, członkowskie</em>
+* `Acc` (6081; 17% of non-empty `Case`): <em>cały, pierwszy, inne, dotyczące, pierwsze, całą, drugą, nowe, jedną, drugie</em>
+* `Dat` (512; 1% of non-empty `Case`): <em>prostu, innym, angielsku, drugiemu, pijanemu, własnym, młodemu, młodym, całej, cichu</em>
+* `Gen` (10580; 30% of non-empty `Case`): <em>innych, europejskiej, nowych, różnych, nowego, drugiej, jednego, polskiej, polskiego, dotyczących</em>
+* `Ins` (2856; 8% of non-empty `Case`): <em>jednym, innymi, samym, jedną, wielkim, dużym, drugim, długimi, Europejską, dużą</em>
+* `Loc` (4487; 13% of non-empty `Case`): <em>czerwonej, jednym, sportowym, jednej, samym, czarnym, całym, innych, czerwonym, białej</em>
+* `Nom` (11059; 31% of non-empty `Case`): <em>jeden, sam, jedna, inne, mały, drugi, pierwszy, sama, europejska, członkowskie</em>
 * `Voc` (20; 0% of non-empty `Case`): <em>droga, szanowny, głupi, młody, Drodzy, Nowy, Wspaniaty, Wysoki, dobrzy, duży</em>
-* `EMPTY` (428): <em>prostu, czarno, biało, polsko, dawna, czerwono, południowo, wolna, żółto, brązowo</em>
+* `EMPTY` (333): <em>czarno, św, biało, polsko, czerwono, południowo, żółto, brązowo, gotów, budowlano</em>
 
 <table>
   <tr><th>Paradigm <i>duży</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -86,19 +87,20 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-11627 <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+11729 <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10905; 94%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7287; 63%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11002; 94%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7283; 62%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (752; 6% of non-empty `Case`): <em>Europę, Polskę, Polaków, Rosję, Adama, Amerykę, Boga, Jana, Piotra, Warszawę</em>
+* `Acc` (754; 6% of non-empty `Case`): <em>Europę, Polskę, Polaków, Rosję, Adama, Amerykę, Boga, Jana, Piotra, Warszawę</em>
 * `Dat` (234; 2% of non-empty `Case`): <em>Bogu, Jerzemu, Marcie, Andrzejowi, Europie, Niemcom, Łukaszence, Anglikom, Buzkowi, Dżabie</em>
-* `Gen` (3422; 29% of non-empty `Case`): <em>Polski, Europy, UE, Warszawy, SLD, AWS, Polaków, Rosji, Stanów, USA</em>
-* `Ins` (393; 3% of non-empty `Case`): <em>Andrzejem, Niemcami, Polską, Rosją, Stanami, Ukrainą, Wisłą, Aleksandrem, Bogiem, Europą</em>
-* `Loc` (1233; 11% of non-empty `Case`): <em>Polsce, Europie, Warszawie, Poznaniu, Krakowie, Niemczech, Wrocławiu, Włoszech, Ameryce, Łodzi</em>
-* `Nom` (5529; 48% of non-empty `Case`): <em>Andrzej, Polska, Jerzy, Marek, Piotr, Jan, Polacy, Krzysztof, Jacek, Janusz</em>
+* `Gen` (3469; 30% of non-empty `Case`): <em>Polski, Europy, UE, Warszawy, SLD, AWS, Polaków, Rosji, Stanów, USA</em>
+* `Ins` (402; 3% of non-empty `Case`): <em>Andrzejem, Niemcami, Polską, Republiką, Rosją, Stanami, Ukrainą, Wisłą, Aleksandrem, Bogiem</em>
+* `Loc` (1266; 11% of non-empty `Case`): <em>Polsce, Europie, Warszawie, Poznaniu, Krakowie, Niemczech, Wrocławiu, Włoszech, Ameryce, Łodzi</em>
+* `Nom` (5540; 47% of non-empty `Case`): <em>Andrzej, Polska, Jerzy, Marek, Piotr, Jan, Polacy, Krzysztof, Jacek, Janusz</em>
 * `Voc` (64; 1% of non-empty `Case`): <em>Boże, Panie, Jacku, Piotrze, Alicjo, Arturze, Basiu, Bello, Benedykcie, Czarny</em>
+* `EMPTY` (271): <em>K, S, A, M, J, b, c, H, G, P</em>
 
 <table>
   <tr><th>Paradigm <i>Polska</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -107,18 +109,18 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-10657 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Case`.
+10610 <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (9918; 93%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7990; 75%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6781; 64%), <tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (6525; 61%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5816; 55%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5523; 52%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (9871; 93%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7943; 75%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6781; 64%), <tt><a href="pl_pdb-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (6478; 61%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5770; 54%), <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5479; 52%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2705; 25% of non-empty `Case`): <em>to, go, co, mnie, ją, je, coś, nas, siebie, cię</em>
+* `Acc` (2679; 25% of non-empty `Case`): <em>to, go, co, mnie, ją, je, coś, nas, siebie, cię</em>
 * `Dat` (1628; 15% of non-empty `Case`): <em>mi, sobie, mu, nam, im, ci, jej, temu, wam, komu</em>
 * `Gen` (2622; 25% of non-empty `Case`): <em>jego, ich, jej, tego, siebie, nich, mnie, niego, nas, nic</em>
-* `Ins` (734; 7% of non-empty `Case`): <em>tym, sobą, nim, nimi, wszystkim, nią, czym, kim, mną, nami</em>
+* `Ins` (721; 7% of non-empty `Case`): <em>tym, sobą, nim, nimi, wszystkim, nią, czym, kim, mną, nami</em>
 * `Loc` (594; 6% of non-empty `Case`): <em>tym, nim, czym, nich, niej, sobie, mnie, wszystkim, czymś, niczym</em>
-* `Nom` (2372; 22% of non-empty `Case`): <em>to, co, ja, on, kto, ona, ktoś, wszystko, nikt, one</em>
+* `Nom` (2364; 22% of non-empty `Case`): <em>to, co, ja, on, kto, ona, ktoś, wszystko, nikt, one</em>
 * `Voc` (2; 0% of non-empty `Case`): <em>ty</em>
 * `EMPTY` (5876): <em>się, sie, sia</em>
 
@@ -135,18 +137,18 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `DET`
 
-9253 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+9348 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (8311; 90%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8311; 90%), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (8259; 89%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7541; 81%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5469; 59%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4634; 50%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (8406; 90%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8406; 90%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (7636; 82%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5489; 59%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4680; 50%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (2282; 25% of non-empty `Case`): <em>ten, te, swoje, które, kilka, tę, swoją, wiele, swój, wszystkie</em>
-* `Dat` (177; 2% of non-empty `Case`): <em>którym, któremu, swoim, tym, temu, tej, naszym, swojemu, wszystkim, każdemu</em>
-* `Gen` (2057; 22% of non-empty `Case`): <em>tego, tych, tej, których, którego, takich, wszystkich, swoich, takiego, naszych</em>
-* `Ins` (501; 5% of non-empty `Case`): <em>tym, moim, swoim, tą, którym, każdym, którą, którymi, naszym, jakim</em>
-* `Loc` (1216; 13% of non-empty `Case`): <em>tym, tej, którym, których, której, tych, swoim, każdym, naszym, takich</em>
-* `Nom` (3012; 33% of non-empty `Case`): <em>który, które, która, którzy, ten, ta, te, takie, to, każdy</em>
+* `Acc` (2304; 25% of non-empty `Case`): <em>ten, te, swoje, które, kilka, tę, swoją, wiele, swój, to</em>
+* `Dat` (178; 2% of non-empty `Case`): <em>którym, któremu, swoim, tym, temu, tej, naszym, swojemu, wszystkim, każdemu</em>
+* `Gen` (2070; 22% of non-empty `Case`): <em>tego, tych, tej, których, którego, takich, wszystkich, swoich, takiego, naszych</em>
+* `Ins` (506; 5% of non-empty `Case`): <em>tym, moim, swoim, tą, którym, każdym, którą, którymi, naszym, jakim</em>
+* `Loc` (1227; 13% of non-empty `Case`): <em>tym, tej, którym, których, której, tych, swoim, każdym, naszym, takich</em>
+* `Nom` (3055; 33% of non-empty `Case`): <em>który, które, która, którzy, ten, ta, te, to, takie, każdy</em>
 * `Voc` (8; 0% of non-empty `Case`): <em>moja, mój, moje, nasz</em>
 
 <table>
@@ -165,27 +167,27 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `NUM`
 
-2739 <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
+2633 <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2683; 98%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1922; 70%), <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1434; 52%), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1376; 50%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (1373; 50%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2575; 98%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1853; 70%), <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1355; 51%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (1332; 51%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (1000; 37% of non-empty `Case`): <em>dwa, trzy, 10, dwie, 2, 3, pół, pięć, cztery, 5</em>
-* `Dat` (17; 1% of non-empty `Case`): <em>dwóm, czterem, 2,3, 20, 260, 400, 43, 60, 80, 90</em>
-* `Gen` (518; 19% of non-empty `Case`): <em>dwóch, trzech, pięciu, 10, czterech, obu, 2, 3, 5, dziesięciu</em>
-* `Ins` (68; 2% of non-empty `Case`): <em>dwoma, trzema, dwiema, obiema, 3, 4, dwudziestu, pięcioma, 10, 1080</em>
-* `Loc` (130; 5% of non-empty `Case`): <em>dwóch, trzech, obu, czterech, 10, 20, dziesięciu, 50, dwudziestu, pięciu</em>
-* `Nom` (1006; 37% of non-empty `Case`): <em>dwie, dwa, dwóch, trzy, cztery, dwaj, dwoje, pięć, trzech, obaj</em>
+* `Acc` (993; 38% of non-empty `Case`): <em>dwa, trzy, 10, dwie, 2, 3, pół, pięć, cztery, 5</em>
+* `Dat` (16; 1% of non-empty `Case`): <em>dwóm, czterem, 2,3, 20, 260, 400, 43, 60, 80, 90</em>
+* `Gen` (500; 19% of non-empty `Case`): <em>dwóch, trzech, pięciu, 10, czterech, 2, 3, dziesięciu, 5, 12</em>
+* `Ins` (63; 2% of non-empty `Case`): <em>dwoma, trzema, dwiema, 3, 4, dwudziestu, pięcioma, 10, 1080, 128</em>
+* `Loc` (119; 5% of non-empty `Case`): <em>dwóch, trzech, czterech, 10, 20, dziesięciu, 50, dwudziestu, pięciu, 15</em>
+* `Nom` (942; 36% of non-empty `Case`): <em>dwie, dwa, dwóch, trzy, cztery, dwaj, dwoje, pięć, trzech, czterech</em>
 
 <table>
   <tr><th>Paradigm <i>dwa</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dwóch, dwaj, Dwoje</em></td><td><em>dwóch, dwu</em></td><td><em>dwóm</em></td><td><em>dwóch</em></td><td></td><td><em>dwoma</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dwóch, dwaj</em></td><td><em>dwóch, dwu</em></td><td><em>dwóm</em></td><td><em>dwóch</em></td><td></td><td><em>dwoma</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=Sets</tt></tt></td><td><em>dwoje</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dwa</em></td><td><em>dwa</em></td><td></td><td><em>dwóch, dwu</em></td><td><em>dwóch, dwu</em></td><td><em>dwoma</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dwa</em></td><td><em>dwa</em></td><td></td><td><em>dwóch</em></td><td></td><td><em>dwoma</em></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>dwie</em></td><td><em>dwie</em></td><td><em>dwóm</em></td><td><em>dwóch</em></td><td><em>dwóch, dwu</em></td><td><em>dwiema, dwoma</em></td></tr>
-  <tr><td><tt><tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>dwa, Dwoje</em></td><td><em>dwa</em></td><td></td><td><em>dwóch, dwu</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>dwa</em></td><td><em>dwa</em></td><td></td><td><em>dwóch, dwu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=Sets</tt></tt></td><td><em>dwoje</em></td><td><em>dwoje</em></td><td></td><td></td><td></td><td><em>dwojgiem</em></td></tr>
 </table>
 
@@ -198,19 +200,19 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 `ADP` tokens may have the following values of `Case`:
 
 * `Acc` (69; 100% of non-empty `Case`): <em>temu</em>
-* `EMPTY` (37108): <em>w, na, z, do, o, po, za, od, przez, dla</em>
+* `EMPTY` (37092): <em>w, na, z, do, o, po, za, od, przez, dla</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (21654; 99%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5399; 97%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-acl.html">acl</a></tt>]--> ADJ</tt> (4547; 99%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-det.html">det</a></tt>]--> DET</tt> (3921; 98%),
-<tt>PROPN --[<tt><a href="pl_pdb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1748; 98%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (1660; 100%),
-<tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1462; 84%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-amod-flat.html">amod:flat</a></tt>]--> ADJ</tt> (1198; 97%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1151; 97%),
-<tt>NOUN --[<tt><a href="pl_pdb-dep-appos.html">appos</a></tt>]--> PROPN</tt> (953; 87%).
+<tt>NOUN --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (21660; 98%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5359; 96%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-acl.html">acl</a></tt>]--> ADJ</tt> (4544; 99%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-det.html">det</a></tt>]--> DET</tt> (3917; 98%),
+<tt>PROPN --[<tt><a href="pl_pdb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1748; 90%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (1659; 99%),
+<tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1456; 84%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-amod-flat.html">amod:flat</a></tt>]--> ADJ</tt> (1139; 79%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1122; 86%),
+<tt>NOUN --[<tt><a href="pl_pdb-dep-appos.html">appos</a></tt>]--> PROPN</tt> (946; 78%).
 

@@ -10,15 +10,15 @@ This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
 3339 tokens (17%) have a non-empty value of `Tense`.
-2139 types (27%) occur at least once with a non-empty value of `Tense`.
-979 lemmas (25%) occur at least once with a non-empty value of `Tense`.
+2138 types (27%) occur at least once with a non-empty value of `Tense`.
+976 lemmas (25%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3337; 17% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `VERB`
 
 3337 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3332; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3005; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2893; 87%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2731; 82%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2486; 74%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2412; 72%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3332; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3007; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2892; 87%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2731; 82%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2485; 74%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2413; 72%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -61,6 +61,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>etme</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>et</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>etmeyin</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>edin</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Nec</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>etmeliyiz</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Nec</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>etmelisiniz</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>edelim</em></td><td></td><td></td></tr>
@@ -87,12 +88,11 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (277; 74%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (278; 75%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (70; 53%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> VERB</tt> (67; 97%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> VERB</tt> (29; 88%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> VERB</tt> (30; 88%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (6; 60%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (3; 60%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (1; 100%).
 

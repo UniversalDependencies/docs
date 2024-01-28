@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `csubj:reported`: <t
 # visual-style 3	fgColor:white
 # visual-style 3 16 csubj:reported	color:blue
 1	Sed	sed	CCONJ	co	_	3	cc	_	_
-2	tunc	tunc	ADV	r	PronType=Dem	3	advmod	_	_
+2	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	3	advmod:tmod	_	_
 3	arguetur	arguo	VERB	vp3ifs3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 4	magis	magis	ADV	rc	Degree=Cmp	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Pu	_	7	punct	_	_

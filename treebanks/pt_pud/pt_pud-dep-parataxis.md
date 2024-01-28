@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	ela	ela	PRON	INP	Gender=Fem|Number=Sing|Person=3	2	obj	_	_
 5	literalmente	literalmente	ADV	RB	_	6	advmod	_	_
 6	deu	dar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-7	uma	um	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+7	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	volta	volta	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	a	a	ADP	INDT	_	11	case	_	_
 10	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_

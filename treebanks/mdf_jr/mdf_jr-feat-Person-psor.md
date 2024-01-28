@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="mdf_jr-feat-Person.html">Person</a></tt>, <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-208 tokens (5%) have a non-empty value of `Person[psor]`.
-186 types (9%) occur at least once with a non-empty value of `Person[psor]`.
+209 tokens (5%) have a non-empty value of `Person[psor]`.
+187 types (9%) occur at least once with a non-empty value of `Person[psor]`.
 131 lemmas (10%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (166; 4% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (167; 4% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-166 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+167 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (166; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (137; 83%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87; 52%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (167; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (138; 83%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (88; 53%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `ADP`
 
-21 <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> tokens (23% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+21 <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> tokens (22% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (17; 81%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (11; 52%).
 

@@ -29,10 +29,10 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 65 <tt><a href="pl_pud-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (65; 100%), <tt><a href="pl_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (65; 100%), <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (65; 100%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 71%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43; 66%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="pl_pud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (65; 100%), <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (65; 100%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 71%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43; 66%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (65; 100% of non-empty `Reflex`): <em>swojej, swoich, swoje, swojego, swoim, swoją, swój, swoimi</em>
-* `EMPTY` (434): <em>które, który, tym, ten, która, wiele, więcej, tych, tego, którzy</em>
+* `EMPTY` (445): <em>które, który, tym, ten, która, wiele, więcej, tych, tego, którzy</em>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (0%) are attached to their parents as `xcomp`.
+64 nodes (1%) are attached to their parents as `xcomp`.
 
-46 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.34782608695652.
+64 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.265625.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (41; 89% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (59; 92% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (4; 6% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

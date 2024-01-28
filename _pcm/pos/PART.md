@@ -18,4 +18,4 @@ other universal parts of speech. Particles may encode grammatical categories suc
 - sha : we <b>sha</b> carry di man comot carry am go hospital.
 - o (emphatic marker) : Anyone <b>o</b> wey you want do <b>o</b> make you do am because time wait for nobody <b>o</b>.
 - Sef (emphasizes the preceding token) : Sotay ground <b>sef</b> go soft proper.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:26 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:27 CET -->

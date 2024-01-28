@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-202106 tokens (36%) have a non-empty value of `Gender`.
-17277 types (44%) occur at least once with a non-empty value of `Gender`.
-11599 lemmas (44%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (87817; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (78736; 14% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24223; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5804; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4754; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (481; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+202756 tokens (36%) have a non-empty value of `Gender`.
+17293 types (45%) occur at least once with a non-empty value of `Gender`.
+11608 lemmas (45%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (88467; 16% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (78736; 14% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24223; 4% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (5804; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4754; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (481; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (290; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-87817 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Gender`.
+88467 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (88% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61600; 70%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61615; 70%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (40962; 47% of non-empty `Gender`): <em>personas, parte, vida, situación, vez, forma, elecciones, empresa, decisión, horas</em>
-* `Masc` (46855; 53% of non-empty `Gender`): <em>años, presidente, millones, equipo, partido, país, año, ministro, mundo, grupo</em>
-* `EMPTY` (12751): <em>pesetas, dólares, parte, frente, portavoz, líder, respecto, vez, pese, policía</em>
+* `Fem` (41285; 47% of non-empty `Gender`): <em>pesetas, personas, parte, vida, situación, vez, forma, elecciones, empresa, decisión</em>
+* `Masc` (47182; 53% of non-empty `Gender`): <em>años, presidente, millones, equipo, partido, país, año, ministro, mundo, grupo</em>
+* `EMPTY` (12056): <em>parte, frente, portavoz, líder, respecto, vez, pese, policía, año, partir</em>
 
 <table>
   <tr><th>Paradigm <i>candidato</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>candidatos</em></td><td><em>CANDIDATAS</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (7737) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (7747) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Fem` (1191; 21% of non-empty `Gender`): <em>la, una, ella, las, ellas, otra, ésta, unas, otras, algunas</em>
 * `Masc` (4613; 79% of non-empty `Gender`): <em>lo, uno, todo, él, ellos, ello, unos, los, otros, todos</em>
-* `EMPTY` (19402): <em>que, se, le, me, nos, quien, les, eso, nada, qué</em>
+* `EMPTY` (19403): <em>que, se, le, me, nos, quien, les, eso, nada, qué</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -91,6 +91,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>LO</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>lo</em></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>los</em></td><td><em>las</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Ella</em></td></tr>
 </table>
 
 ### `VERB`
@@ -103,7 +104,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Fem` (333; 7% of non-empty `Gender`): <em>aprobada, considerada, dada, utilizada, comprada, dadas, incluida, rechazada, recibida, violada</em>
 * `Masc` (4421; 93% of non-empty `Gender`): <em>hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</em>
-* `EMPTY` (43430): <em>tiene, dijo, hay, hace, hacer, tienen, aseguró, dar, explicó, tener</em>
+* `EMPTY` (43429): <em>tiene, dijo, hay, hace, hacer, tienen, aseguró, dar, explicó, tener</em>
 
 <table>
   <tr><th>Paradigm <i>hacer</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -120,19 +121,19 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 `AUX` tokens may have the following values of `Gender`:
 
 * `Masc` (481; 100% of non-empty `Gender`): <em>sido, podido, estado, debido, ser</em>
-* `EMPTY` (13083): <em>es, ha, han, fue, ser, son, está, puede, había, era</em>
+* `EMPTY` (13084): <em>es, ha, han, fue, ser, son, está, puede, había, era</em>
 
 ### `NUM`
 
 290 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (290; 100%), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (289; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt> (176; 61%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (290; 100%), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (289; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt> (176; 61%).
 
 `NUM` tokens may have the following values of `Gender`:
 
 * `Fem` (93; 32% of non-empty `Gender`): <em>ambas, media, una, DECENAS, quinientas</em>
 * `Masc` (197; 68% of non-empty `Gender`): <em>ambos, medio, un, doscientos, uno, miles, quinientos, dois, euros, ochenta</em>
-* `EMPTY` (8454): <em>dos, ciento, tres, cinco, cuatro, seis, 20, siete, 30, diez</em>
+* `EMPTY` (8890): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, siete, 10</em>
 
 <table>
   <tr><th>Paradigm <i>ambos</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -146,19 +147,19 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>Cuba</em>
-* `EMPTY` (42483): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
+* `EMPTY` (42406): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (56999; 85%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16832; 63%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2524; 54%),
-<tt>DET --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (1043; 85%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (903; 50%),
-<tt>ADJ --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (687; 63%),
-<tt>ADJ --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (598; 57%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (57010; 85%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16842; 63%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2526; 54%),
+<tt>DET --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (1041; 85%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (928; 51%),
+<tt>ADJ --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (688; 63%),
+<tt>ADJ --[<tt><a href="es_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (599; 57%),
 <tt>ADJ --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (569; 55%),
 <tt>PRON --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (439; 74%),
-<tt>ADJ --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> PRON</tt> (160; 62%).
+<tt>ADJ --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> PRON</tt> (159; 62%).
 

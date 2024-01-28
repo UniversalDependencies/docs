@@ -24,12 +24,12 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux	color:blue
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	'm	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 5	to	to	ADP	IN	_	6	case	6:case	_
 6	jail	jail	NOUN	NN	Number=Sing	4	obl	4:obl:to	_
-7	either	either	DET	DT	_	8	det	8:det	_
+7	either	either	DET	DT	PronType=Ind	8	det	8:det	_
 8	way	way	NOUN	NN	Number=Sing	4	obl:npmod	4:obl:npmod	SpaceAfter=No
 9	,	,	PUNCT	,	_	4	punct	4:punct	_
 10	hope	hope	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	4:parataxis	_
@@ -50,7 +50,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	fgColor:white
 # visual-style 9 7 aux	color:blue
 1	Not	not	ADV	RB	Polarity=Neg	2	advmod	2:advmod	_
-2	all	all	DET	DT	_	3	det	3:det	_
+2	all	all	DET	DT	PronType=Tot	3	det	3:det	_
 3	transformations	transformation	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 4	in	in	ADP	IN	_	6	case	6:case	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
@@ -81,7 +81,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 10	but	but	CCONJ	CC	_	15	cc	15:cc	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
-13	n’t	n’t	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
+13	n’t	not	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
 14	always	always	ADV	RB	_	15	advmod	15:advmod	_
 15	alone	alone	ADJ	JJ	Degree=Pos	8	conj	8:conj:but	SpaceAfter=No
 16	.	.	PUNCT	.	_	8	punct	8:punct	_

@@ -20,4 +20,4 @@ punct(太郎, 、)
 conj(太郎, 次郎)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:32 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:27 CET -->

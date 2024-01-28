@@ -28,8 +28,8 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	சொந்த	சொந்தம்	NOUN	_	Number=Sing|Person=3	4	amod	_	Translit=conta|LTranslit=contam
 4	அனுபவத்தால்	அனுபவம்	NOUN	_	Case=Ins|Number=Sing|Person=3	6	obl	_	Translit=aṉupavattāl|LTranslit=aṉupavam
 5	தொழிலைக்	தொழில்	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	_	Translit=toḻilaik|LTranslit=toḻil
-6	கற்றுக்	கல்	VERB	_	VerbForm=Conv	0	root	_	Translit=kaṟṟuk|LTranslit=kal
-7	கொண்டான்	கொள்	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	6	aux	_	Translit=koṇṭāṉ|LTranslit=koḷ
+6	கற்றுக்	கல்	VERB	_	VerbForm=Conv	0	root	_	LTranslit=kal|Translit=kaṟṟuk
+7	கொண்டான்	கொள்	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	6	aux	_	LTranslit=koḷ|Translit=koṇṭāṉ
 8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
 ~~~

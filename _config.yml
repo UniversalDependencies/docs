@@ -416,6 +416,24 @@ collections:
     output: true
   uz:
     output: true
+  sei:
+    output: true
+  cux:
+    output: true
+  huv:
+    output: true
+  usp:
+    output: true
+  ota:
+    output: true
+  ht:
+    output: true
+  bar:
+    output: true
+  ab:
+    output: true
+  tn:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

@@ -89,4 +89,4 @@ someone or, less frequently, something.
 
 * _Άγγελε, πρόσεχε!_ “_Aggelos_, watch out!"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:32 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:36 CET -->

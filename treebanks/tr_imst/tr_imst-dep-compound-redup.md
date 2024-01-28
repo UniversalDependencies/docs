@@ -18,38 +18,15 @@ The following 24 pairs of parts of speech are connected with `compound:redup`: <
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 compound:redup	color:blue
-1	Belli	belli	ADJ	Adj	_	8	amod	_	_
-2	ki	ki	CCONJ	Conj	_	1	mark	_	_
-3	kız	kız	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
-4	dört	dört	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	5	nummod	_	_
-5	gününü	gün	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obj	_	_
-6	doğru	doğru	ADJ	Adj	_	8	amod	_	_
-7	dürüst	dürüst	ADJ	Adj	_	6	compound:redup	_	_
-8	geçirmişti	geçir	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 compound:redup	color:blue
-1	)	)	PUNCT	Punc	_	6	punct	_	_
-2	Cezam	ceza	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	3	obj	_	_
-3	bitiyor	bit	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	6	ccomp	_	_
-4	Ceza	ceza	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	compound:redup	_	SpaceAfter=No
-5	,	,	PUNCT	Punc	_	6	punct	_	_
-6	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
-7	bana	ben	PRON	Pers	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	obl	_	SpaceAfter=No
-8	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound:redup	color:blue
+1	Soluk	soluk	ADJ	Adj	_	0	root	_	_
+2	soluğa	soluk	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	1	compound:redup	_	_
+3	ydı	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	1	cop	_	_
+4	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 
@@ -60,15 +37,29 @@ The following 24 pairs of parts of speech are connected with `compound:redup`: <
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound:redup	color:blue
-1	Baktım	bak	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	_
-2	ağırdan	ağır	ADJ	NAdj	Case=Abl|Number=Sing|Person=3	3	amod	_	_
-3	içiyor	iç	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	1	conj	_	SpaceAfter=No
-4	,	,	PUNCT	Punc	_	3	punct	_	_
-5	benim	ben	PRON	Pers	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
-6	şişe	şişe	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-7	bitti	bit	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	1	conj	_	_
-8	bitecek	bit	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut	7	compound:redup	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	7	punct	_	_
+1	Genç	genç	ADJ	Adj	_	2	amod	_	_
+2	erkek	erkek	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	9	punct	_	_
+4	Muammer'in	Muammer	PROPN	Prop	Case=Gen|Number=Sing|Person=3	5	nsubj	_	_
+5	getirdiği	getir	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	6	acl	_	_
+6	suyu	su	NOUN	Noun	Case=Acc|Number=Sing|Person=3	9	obj	_	_
+7	yudum	yudum	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	obl	_	_
+8	yudum	yudum	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	compound:redup	_	_
+9	içti	iç	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound:redup	color:blue
+1	Olur	ol	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+2	olur	ol	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	1	compound:redup	_	SpaceAfter=No
+3	...	...	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 

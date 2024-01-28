@@ -65,3 +65,4 @@ The `AdvType` feature typically applies to [adverbs](_ka/pos/ADV).
 
 
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:34 CET -->

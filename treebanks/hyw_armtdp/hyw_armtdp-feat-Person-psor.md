@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt>, <tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt>.
 
-930 tokens (1%) have a non-empty value of `Person[psor]`.
-515 types (2%) occur at least once with a non-empty value of `Person[psor]`.
-301 lemmas (3%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (723; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (113; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (68; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+985 tokens (1%) have a non-empty value of `Person[psor]`.
+528 types (2%) occur at least once with a non-empty value of `Person[psor]`.
+306 lemmas (3%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (723; 1% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (123; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (113; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 723 <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (723; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (562; 78%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (468; 65%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (425; 59%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (723; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (561; 78%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (468; 65%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (425; 59%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -30,6 +30,22 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>տունիս, տանս</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>տունդ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>Տուներնին</em></td></tr>
+</table>
+
+### `ADP`
+
+123 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (123; 100%).
+
+`ADP` tokens may have the following values of `Person[psor]`:
+
+
+<table>
+  <tr><th>Paradigm <i>մէջ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>մէջս</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>մէջդ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>մէջն, մէջը</em></td></tr>
 </table>
 
 ### `PRON`
@@ -48,22 +64,6 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>ինքդ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>ինքը, ինքն</em></td></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="hyw_armtdp-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>ինքն</em></td></tr>
-</table>
-
-### `ADP`
-
-68 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (68; 100%).
-
-`ADP` tokens may have the following values of `Person[psor]`:
-
-
-<table>
-  <tr><th>Paradigm <i>մէջ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>մէջս</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>մէջդ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>մէջը</em></td></tr>
 </table>
 
 ### `VERB`
@@ -108,6 +108,5 @@ The most frequent other feature values with which `AUX` and `Person[psor]` co-oc
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
 <tt>NOUN --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (26; 65%),
 <tt>ADP --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="hyw_armtdp-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-case-loc.html">case:loc</a></tt>]--> VERB</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="hyw_armtdp-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%).
 

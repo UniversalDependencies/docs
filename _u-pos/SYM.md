@@ -33,5 +33,4 @@ they are punctuation.
 - _$, %, §, ©_
 - _+, −, ×, ÷, =, <, >_
 - :), ♥‿♥, 😝
-- _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:31 CET -->

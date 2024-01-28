@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-787 tokens (1%) have a non-empty value of `Proper`.
-242 types (2%) occur at least once with a non-empty value of `Proper`.
-156 lemmas (3%) occur at least once with a non-empty value of `Proper`.
-The feature is used with 9 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (649; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (52; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+771 tokens (1%) have a non-empty value of `Proper`.
+239 types (2%) occur at least once with a non-empty value of `Proper`.
+153 lemmas (3%) occur at least once with a non-empty value of `Proper`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (649; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (52; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -45,16 +45,6 @@ The most frequent other feature values with which `ADJ` and `Proper` co-occurred
 `ADP` tokens may have the following values of `Proper`:
 
 * `Yes` (35; 100% of non-empty `Proper`): <em>De, ad</em>
-
-### `PROPN`
-
-16 <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Proper`.
-
-The most frequent other feature values with which `PROPN` and `Proper` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13; 81%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (13; 81%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12; 75%), <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (12; 75%).
-
-`PROPN` tokens may have the following values of `Proper`:
-
-* `Yes` (16; 100% of non-empty `Proper`): <em>Nicomacum, Farsalie, Bromii</em>
 
 ### `VERB`
 
@@ -100,7 +90,7 @@ The most frequent other feature values with which `PRON` and `Proper` co-occurre
 
 1 <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Proper`.
 
-The most frequent other feature values with which `NUM` and `Proper` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NUM` and `Proper` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_udante-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1; 100%), <tt><a href="la_udante-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `NUM` tokens may have the following values of `Proper`:
 

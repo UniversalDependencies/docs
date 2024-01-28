@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: POS Tags: `SYM`
 
 There are 10 `SYM` lemmas (0%), 10 `SYM` types (0%) and 14 `SYM` tokens (0%).
-Out of 15 observed tags, the rank of `SYM` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `SYM` is: 16 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: $、 +、 Kink.com、 km、 t.163.com、 t.qq.com、 t.sina.com.cn、 t.sohu.com、 t.xxxx.com、 °
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.004662).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.004660).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: $.
 

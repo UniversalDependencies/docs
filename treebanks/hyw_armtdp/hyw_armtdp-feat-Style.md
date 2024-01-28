@@ -9,25 +9,25 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Arch`, `Coll`, `Expr`, `Rare`, `Slng`, `Vrnc`.
 
-1003 tokens (1%) have a non-empty value of `Style`.
-464 types (2%) occur at least once with a non-empty value of `Style`.
+1001 tokens (1%) have a non-empty value of `Style`.
+465 types (2%) occur at least once with a non-empty value of `Style`.
 367 lemmas (3%) occur at least once with a non-empty value of `Style`.
-The feature is used with 12 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (602; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (71; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (69; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (62; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (47; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (44; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (43; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (32; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (24; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (607; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (69; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (68; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (62; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (47; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (44; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (43; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (28; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (24; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-602 <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Style`.
+607 <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (483; 80%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (435; 72%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (395; 66%).
+The most frequent other feature values with which `NOUN` and `Style` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (488; 80%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (434; 71%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (398; 66%).
 
 `NOUN` tokens may have the following values of `Style`:
 
-* `Arch` (330; 55% of non-empty `Style`): <em>եկեղեցւոյ, տեղի, հայոց, վերջոյ, Աստուծոյ, նպաստ, առթիւ, գործոց, հարկէ, հիման</em>
-* `Coll` (148; 25% of non-empty `Style`): <em>տղոց, զաւկին, Օթել, գուրպ, ճամբէն, վիտէօ, Ախպէր, Շեխ, Չարշըի, աղբարին</em>
+* `Arch` (329; 54% of non-empty `Style`): <em>եկեղեցւոյ, տեղի, հայոց, վերջոյ, Աստուծոյ, նպաստ, գործոց, հարկէ, հիման, Նահատակաց</em>
+* `Coll` (149; 25% of non-empty `Style`): <em>տղոց, զաւկին, Օթել, գուրպ, ճամբէն, վիտէօ, Ախպէր, Շեխ, Չարշըի, աղբարին</em>
 * `Expr` (38; 6% of non-empty `Style`): <em>կտիկ, մարդուկը, քոյրիկս, Գորտիկն, Թոռնիկս, աթոռակին, անտառակին, անտառակներուն, աչուկներով, առուակին</em>
 * `Rare` (42; 7% of non-empty `Style`): <em>կանգ, խնդրոյ, սանուց, յանկարծակիի, Երկնաց, Լուրջի, Ծըխամորճս, անակընկալ, էլէկանսը, ընտանեօք</em>
 * `Slng` (2; 0% of non-empty `Style`): <em>հօտը, պտտիկ</em>
-* `Vrnc` (42; 7% of non-empty `Style`): <em>տուտու, աղբար, եազմա, եզնիքը, տուտուն, ֆերաճէ, Կիղիցիկ, Սապոնով, Քաղքի, առապաճի</em>
+* `Vrnc` (47; 8% of non-empty `Style`): <em>Ամմօ, տուտու, աղբար, եազմա, եզնիքը, տուտուն, ֆերաճէ, Կիղիցիկ, Սապոնով, Քաղքի</em>
 
 <table>
   <tr><th>Paradigm <i>օր</i></th><th><tt>Arch</tt></th><th><tt>Rare</tt></th></tr>
@@ -35,23 +35,7 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>օրանց</em></td><td></td></tr>
 </table>
 
-`Style` seems to be **lexical feature** of `NOUN`. 99% lemmas (208) occur only with one value of `Style`.
-
-### `ADV`
-
-71 <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `ADV` and `Style` co-occurred: <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (43; 61%).
-
-`ADV` tokens may have the following values of `Style`:
-
-* `Arch` (30; 42% of non-empty `Style`): <em>յառաջ, կամայ, լաւագոյնս, ցայսօր, ցարդ, Յուրախութիւն, ամենայնիւ, մեծաւ, յաւիտեանս, յընթացս</em>
-* `Coll` (29; 41% of non-empty `Style`): <em>ասանկ, անանկ, սանկ, ոնց, աննորմալ, ատանկ, հեչ, սօլօ, ճիշտը</em>
-* `Expr` (5; 7% of non-empty `Style`): <em>քիչիկ, քչիկ</em>
-* `Rare` (2; 3% of non-empty `Style`): <em>ափեղ, նոյնհետայն</em>
-* `Vrnc` (5; 7% of non-empty `Style`): <em>ուսկէ, ուսկից, տահա, հունա</em>
-
-`Style` seems to be **lexical feature** of `ADV`. 100% lemmas (29) occur only with one value of `Style`.
+`Style` seems to be **lexical feature** of `NOUN`. 99% lemmas (211) occur only with one value of `Style`.
 
 ### `ADJ`
 
@@ -68,6 +52,22 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 * `Vrnc` (15; 22% of non-empty `Style`): <em>առջի, Գազազ, լինքսի, հելալլամիշ, ճիտըծուռ, շաշխըն, ղորթ</em>
 
 `Style` seems to be **lexical feature** of `ADJ`. 100% lemmas (41) occur only with one value of `Style`.
+
+### `ADV`
+
+68 <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Style`.
+
+The most frequent other feature values with which `ADV` and `Style` co-occurred: <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (40; 59%).
+
+`ADV` tokens may have the following values of `Style`:
+
+* `Arch` (27; 40% of non-empty `Style`): <em>յառաջ, կամայ, ցայսօր, ցարդ, Յուրախութիւն, ամենայնիւ, մեծաւ, յաւիտեանս, յընթացս, սերտիւ</em>
+* `Coll` (29; 43% of non-empty `Style`): <em>ասանկ, անանկ, սանկ, ոնց, աննորմալ, ատանկ, հեչ, սօլօ, ճիշտը</em>
+* `Expr` (5; 7% of non-empty `Style`): <em>քիչիկ, քչիկ</em>
+* `Rare` (2; 3% of non-empty `Style`): <em>ափեղ, նոյնհետայն</em>
+* `Vrnc` (5; 7% of non-empty `Style`): <em>ուսկէ, ուսկից, տահա, հունա</em>
+
+`Style` seems to be **lexical feature** of `ADV`. 100% lemmas (28) occur only with one value of `Style`.
 
 ### `PRON`
 
@@ -136,18 +136,16 @@ The most frequent other feature values with which `PROPN` and `Style` co-occurre
 
 ### `ADP`
 
-32 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Style`.
-
-The most frequent other feature values with which `ADP` and `Style` co-occurred: <tt><a href="hyw_armtdp-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (18; 56%).
+28 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Style`.
 
 `ADP` tokens may have the following values of `Style`:
 
-* `Arch` (16; 50% of non-empty `Style`): <em>վասն, ընդ, հաշուոյն, յաչս, յաւարտ</em>
-* `Coll` (13; 41% of non-empty `Style`): <em>ետեւը, վերջը, տակը, առջին</em>
-* `Expr` (1; 3% of non-empty `Style`): <em>քովիկը</em>
-* `Rare` (2; 6% of non-empty `Style`): <em>Բաց</em>
+* `Arch` (16; 57% of non-empty `Style`): <em>վասն, ընդ, հաշուոյն, յաչս, յաւարտ</em>
+* `Coll` (9; 32% of non-empty `Style`): <em>ետեւը, վերջը, առջին</em>
+* `Expr` (1; 4% of non-empty `Style`): <em>քովիկը</em>
+* `Rare` (2; 7% of non-empty `Style`): <em>Բաց</em>
 
-`Style` seems to be **lexical feature** of `ADP`. 100% lemmas (11) occur only with one value of `Style`.
+`Style` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Style`.
 
 ### `AUX`
 

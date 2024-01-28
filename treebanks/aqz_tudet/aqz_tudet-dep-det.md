@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (1%) are attached to their parents as `det`.
+9 nodes (1%) are attached to their parents as `det`.
 
-4 instances of `det` (57%) are left-to-right (parent precedes child).
+5 instances of `det` (56%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (3; 43% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (2; 29% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (2; 29% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (3; 33% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

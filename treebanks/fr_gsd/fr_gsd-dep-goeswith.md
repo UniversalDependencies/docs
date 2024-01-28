@@ -23,11 +23,11 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
 1	Pas	pas	ADV	_	Polarity=Neg	3	advmod	_	wordform=pas
-2	de	un	DET	_	_	3	det	_	_
+2	de	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	sèche	sèche-cheveux	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	0	root	_	CorrectForm=sèche-cheveux
 4	cheveux	_	X	_	_	3	goeswith	_	_
 5	ni	ni	CCONJ	_	_	7	cc	_	_
-6	de	un	DET	_	_	7	det	_	_
+6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	prise	prise	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
 8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 9	dans	dans	ADP	_	_	11	case	_	_

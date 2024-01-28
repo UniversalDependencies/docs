@@ -21,7 +21,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.ht
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (59; 100% of non-empty `Foreign`): <em>Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</em>
-* `EMPTY` (5827): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
+* `EMPTY` (5826): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (59) occur only with one value of `Foreign`.
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (22; 100% of non-empty `Foreign`): <em>of, Flag, goldies, mail, Corner, Design, Deum, End, Forum, Play</em>
-* `EMPTY` (54234): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
+* `EMPTY` (54236): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Foreign`.
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>Dance, Felin, Industrial, admirari, normal, poetica</em>
-* `EMPTY` (15293): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
+* `EMPTY` (15292): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
 
 ### `ADP`
 

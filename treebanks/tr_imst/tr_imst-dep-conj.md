@@ -17,65 +17,60 @@ The following 66 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 conj	color:blue
-1	Sabahtan	sabah	NOUN	Noun	Case=Abl|Number=Sing|Person=3	4	obl	_	_
-2	beri	beri	ADP	PCAbl	_	1	case	_	_
-3	seni	sen	PRON	Pers	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
-4	gözetliyorum	gözetle	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	Punc	_	9	punct	_	_
-6	hiç	hiç	ADV	Adverb	_	9	advmod	_	_
-7	bir	bir	DET	ANum	_	8	det	_	_
-8	arabaya	araba	NOUN	Noun	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-9	yanaşmadın	yanaş	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	4	conj	_	SpaceAfter=No
-10	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 conj	color:blue
+1	Bağışlayın	bağışla	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Punc	_	5	punct	_	_
+3	koşa	koşa	ADJ	Adj	_	5	amod	_	_
+4	koşa	koşa	ADJ	Adj	_	3	compound:redup	_	_
+5	geldim	gel	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	1	conj	_	_
+6	buraya	bura	NOUN	Noun	Case=Dat|Number=Sing|Person=3	5	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 conj	color:blue
-1	O	o	PRON	Demons	Case=Nom|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	Punc	_	10	punct	_	_
-3	değişik	değişik	ADJ	Adj	_	4	amod	_	_
-4	renkleri	renk	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	8	nmod	_	_
-5	ve	ve	CCONJ	Conj	_	7	cc	_	_
-6	yandan	yan	ADJ	NAdj	Case=Abl|Number=Sing|Person=3	7	amod	_	_
-7	ışıkları	ışık	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	conj	_	_
-8	ile	ile	CCONJ	Conj	_	10	nmod	_	_
-9	karşımda	karşı	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	10	amod	_	_
-10	hazır	hazır	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-11	dır	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	10	cop	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj	color:blue
+1	O	o	DET	Det	_	2	det	_	_
+2	ruhun	ruh	NOUN	Noun	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	5	punct	_	_
+4	o	o	DET	Det	_	5	det	_	_
+5	belleğin	bellek	NOUN	Noun	Case=Gen|Number=Sing|Person=3	2	conj	_	_
+6	içine	iç	ADJ	NAdj	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	amod	_	_
+7	girdiğiniz	gir	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Plur|Person[psor]=2|Polarity=Pos|Tense=Past|VerbForm=Part	8	acl	_	_
+8	an	an	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	obl	_	SpaceAfter=No
+9	,	,	PUNCT	Punc	_	10	punct	_	_
+10	tutsak	tutsak	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
+11	sınız	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres	10	cop	_	_
 12	.	.	PUNCT	Punc	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 8 conj	color:blue
-1	Biliyorum	bil	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Polite=Infm|Tense=Pres	11	ccomp	_	SpaceAfter=No
-2	!	!	PUNCT	Punc	_	3	punct	_	_
-3	Biliyorum	bil	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Polite=Infm|Tense=Pres	1	ccomp	_	_
-4	işte	işte	ADV	Adverb	_	3	advmod	_	SpaceAfter=No
-5	!	!	PUNCT	Punc	_	3	punct	_	_
-6	O	o	PRON	Demons	Case=Nom|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
-7	benim	ben	PRON	Pers	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
-8	makinem	makine	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	1	conj	_	SpaceAfter=No
-9	!	!	PUNCT	Punc	_	8	punct	_	_
-10	diye	diye	ADP	PCNom	_	1	case	_	_
-11	bağırdım	bağır	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	Punc	_	11	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 conj	color:blue
+1	İzini	iz	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	obj	_	_
+2	bulursanız	bul	VERB	Verb	Aspect=Hab|Mood=Cnd|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	9	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	6	punct	_	_
+4	bu	bu	DET	Det	_	5	det	_	_
+5	numaraya	numara	NOUN	Noun	Case=Dat|Number=Sing|Person=3	6	nmod	_	_
+6	haber	haber	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+7	verirsiniz	ver	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	6	compound	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	6	punct	_	_
+9	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 

@@ -23,8 +23,8 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (256; 7% of non-empty `Mood`): <em>sí, far, statt, kom, latum, trúgvið, Takið, gev, latið, sig</em>
-* `Ind` (3196; 92% of non-empty `Mood`): <em>segði, sigur, sögdu, fór, kom, svaraði, kemur, fóru, komu, sá</em>
-* `Sub` (19; 1% of non-empty `Mood`): <em>kenni, komi, legði, bjóði, drekki, fari, fylgi, föri, kasti, lati</em>
+* `Ind` (3205; 92% of non-empty `Mood`): <em>segði, sigur, sögdu, fór, kom, svaraði, kemur, fóru, komu, sá</em>
+* `Sub` (10; 0% of non-empty `Mood`): <em>komi, drekki, fylgi, föri, kasti, lati, ræðist, verði, óttist</em>
 * `EMPTY` (1878): <em>komin, sagt, gera, koma, givið, fara, gjört, gjördi, taka, talað</em>
 
 ### `AUX`
@@ -36,8 +36,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (5; 0% of non-empty `Mood`): <em>verðið, Ver, hav, havið</em>
-* `Ind` (1990; 96% of non-empty `Mood`): <em>er, var, hevur, skal, hevði, skulu, vóru, eri, eru, hava</em>
-* `Sub` (77; 4% of non-empty `Mood`): <em>skuldi, skuldu, veri, mundi, hevði, mundu, verði</em>
+* `Ind` (2059; 99% of non-empty `Mood`): <em>er, var, hevur, skal, hevði, skulu, vóru, eri, eru, hava</em>
+* `Sub` (8; 0% of non-empty `Mood`): <em>veri, verði</em>
 * `EMPTY` (205): <em>verða, vera, verandi, verið, hava, havt, kunna, fáa</em>
 
 ### `ADV`
@@ -54,8 +54,8 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (849; 75%),
-<tt>VERB --[<tt><a href="fo_farpahc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (61; 80%),
+<tt>VERB --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> VERB</tt> (855; 75%),
+<tt>VERB --[<tt><a href="fo_farpahc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (63; 83%),
 <tt>VERB --[<tt><a href="fo_farpahc-dep-dep.html">dep</a></tt>]--> VERB</tt> (8; 89%),
 <tt>VERB --[<tt><a href="fo_farpahc-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 80%),
 <tt>AUX --[<tt><a href="fo_farpahc-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 100%),

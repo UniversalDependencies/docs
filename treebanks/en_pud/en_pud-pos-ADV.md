@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `ADV`
 
-There are 242 `ADV` lemmas (5%), 243 `ADV` types (4%) and 848 `ADV` tokens (4%).
+There are 241 `ADV` lemmas (5%), 243 `ADV` types (4%) and 848 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>also, when, so, only, more, not, where, however, most, well</em>
+The 10 most frequent `ADV` lemmas: <em>also, when, not, so, only, more, where, however, most, well</em>
 
 The 10 most frequent `ADV` types:  <em>also, when, so, only, more, not, where, however, most, well</em>
 
-The 10 most frequent ambiguous lemmas: <em>when</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 28, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>so</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 25, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 2), <em>only</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 3), <em>more</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 55, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>where</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 18, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>most</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 6), <em>well</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>as</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 104, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>about</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>when</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 28, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 57, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 25), <em>so</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 25, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 2), <em>only</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 3), <em>more</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>where</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 18, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>most</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 6), <em>well</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>as</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 104, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>about</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 5)
 
 The 10 most frequent ambiguous types:  <em>when</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 1), <em>so</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 23, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 2), <em>only</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 3), <em>more</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 18), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 39, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>where</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 17, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>most</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 4), <em>well</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>as</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 100, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 13), <em>about</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 24, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 5)
 
@@ -53,17 +53,17 @@ The 10 most frequent ambiguous types:  <em>when</em> (<tt><a href="en_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.004132 (the average of all parts of speech is 1.138927).
+The form / lemma ratio of `ADV` is 1.008299 (the average of all parts of speech is 1.140354).
 
-The 1st highest number of forms (2) was observed with the lemma “not”: <em>n't, not</em>.
+The 1st highest number of forms (3) was observed with the lemma “not”: <em>n't, not, n’t</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “about”: <em>about</em>.
 
 The 3rd highest number of forms (1) was observed with the lemma “absolutely”: <em>absolutely</em>.
 
-`ADV` occurs with 5 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (93; 11% instances), <tt><a href="en_pud-feat-Degree.html">Degree</a></tt> (62; 7% instances), <tt><a href="en_pud-feat-Polarity.html">Polarity</a></tt> (34; 4% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (4; 0% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
+`ADV` occurs with 6 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (93; 11% instances), <tt><a href="en_pud-feat-Degree.html">Degree</a></tt> (62; 7% instances), <tt><a href="en_pud-feat-Polarity.html">Polarity</a></tt> (34; 4% instances), <tt><a href="en_pud-feat-NumForm.html">NumForm</a></tt> (4; 0% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (4; 0% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
 
-`ADV` occurs with 9 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Mult`, `Number=Sing`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
+`ADV` occurs with 10 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumForm=Word`, `NumType=Mult`, `Number=Sing`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
 
 `ADV` occurs with 10 feature combinations.
 The most frequent feature combination is `_` (654 tokens).

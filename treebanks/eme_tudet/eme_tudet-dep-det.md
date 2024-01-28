@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (3%) are attached to their parents as `det`.
+64 nodes (2%) are attached to their parents as `det`.
 
-54 instances of `det` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11666666666667.
+58 instances of `det` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.109375.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (41; 68% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (12; 20% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (44; 69% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (13; 20% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -25,4 +25,4 @@ word(s) typically belongs to a part of speech other than [u-pos/X]().
 - Adposition:  _πχ_
 - Adverb: _περ. (περίπου)_
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:30 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:33 CET -->

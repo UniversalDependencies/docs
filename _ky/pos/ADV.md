@@ -18,4 +18,4 @@ They may also modify other adverbs and nouns (see examples below).
 
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->

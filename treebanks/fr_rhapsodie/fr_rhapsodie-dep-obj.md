@@ -23,9 +23,9 @@ The following 24 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obj	color:blue
-1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	dislocated	_	Overlap=Rhap_D0006-15|SpaceAfter=No
+1	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	dislocated	_	Overlap=Rhap_D0006-15|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	Overlap=Rhap_D0006-15
-3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Overlap=Rhap_D0006-15
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Overlap=Rhap_D0006-15
 4	faites	faire	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D0006-15
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Overlap=Rhap_D0006-15
 6	baby-sitter	baby-sitter	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	Overlap=Rhap_D0006-15
@@ -44,9 +44,9 @@ The following 24 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	expl:subj	_	SpaceAfter=No
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_
+5	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	_
 6	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	_
-7	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	9	obj	_	_
+7	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	9	obj	_	_
 8	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:tense	_	_
 9	payés	payer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl:cleft	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
@@ -60,18 +60,18 @@ The following 24 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 15 obj	color:blue
-1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	vois	voir	VERB	DISCOURSE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	discourse	_	SpaceAfter=No
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	vois	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	euh	euh	INTJ	_	_	2	discourse	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_
-6	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	14	dislocated	_	SpaceAfter=No
+6	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	dislocated	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	fac	fac	NOUN	_	Gender=Fem|Number=Sing	14	dislocated	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
-12	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	SpaceAfter=No
+12	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	iobj	_	SpaceAfter=No
 13	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:tense	_	_
 14	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 15	beaucoup	beaucoup	ADV	_	_	14	obj	_	_

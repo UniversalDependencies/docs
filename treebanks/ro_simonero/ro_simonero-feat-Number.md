@@ -173,9 +173,9 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13709; 96%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9476; 56%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (5451; 80%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13716; 96%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9481; 56%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (5452; 80%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2988; 70%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1677; 52%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-acl.html">acl</a></tt>]--> VERB</tt> (1429; 59%),

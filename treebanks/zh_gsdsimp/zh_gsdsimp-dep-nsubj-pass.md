@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 16 10 nsubj:pass	color:blue
 1	市内	市内	NOUN	NN	_	4	nsubj	_	SpaceAfter=No|Translit=shìnèi|LTranslit=shìnèi
 2	后来	后来	NOUN	NN	_	4	nmod:tmod	_	SpaceAfter=No|Translit=hòulái|LTranslit=hòulái
-3	也	也	ADV	RB	_	4	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+3	也	也	SCONJ	RB	_	4	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 4	铺设	铺设	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=pùshè|LTranslit=pùshè
 5	了	了	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 6	有轨	有轨	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=yǒuguǐ|LTranslit=yǒuguǐ
@@ -32,11 +32,11 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 8	系统	系统	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=xìtǒng|LTranslit=xìtǒng
 9	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 10	地段	地段	NOUN	NN	_	16	nsubj:pass	_	SpaceAfter=No|Translit=deduàn|LTranslit=deduàn
-11	亦	亦	ADV	RB	_	16	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
+11	亦	亦	SCONJ	RB	_	16	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 12	被	被	AUX	BB	Voice=Pass	16	aux:pass	_	SpaceAfter=No|Translit=bèi|LTranslit=bèi
 13	投机	投机	VERB	VV	_	14	compound	_	SpaceAfter=No|Translit=tóujī|LTranslit=tóujī
 14	者	者	PART	SFN	_	16	nsubj	_	SpaceAfter=No|Translit=zhě|LTranslit=zhě
-15	所	所	ADV	RB	_	16	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
+15	所	所	SCONJ	RB	_	16	mark	_	SpaceAfter=No|Translit=suǒ|LTranslit=suǒ
 16	觊觎	觊觎	VERB	VV	_	4	parataxis	_	SpaceAfter=No|Translit=觊觎|LTranslit=觊觎
 17	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -83,9 +83,9 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 6	撤下	撤下	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chèxià|LTranslit=chèxià
 7	柜台	柜台	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=guìtái|LTranslit=guìtái
 8	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-9	而	而	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+9	而	而	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 10	玛氏	玛氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=mǎshì|LTranslit=mǎshì
-11	则	则	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
+11	则	则	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
 12	中断	中断	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=zhōngduàn|LTranslit=zhōngduàn
 13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 14	生产	生产	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=shēngchǎn|LTranslit=shēngchǎn

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `fixed`.
+34 nodes (0%) are attached to their parents as `fixed`.
 
-23 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04347826086957.
+34 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02941176470588.
 
-The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (13; 57% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (5; 22% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (4; 17% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1; 4% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (13; 38% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (7; 21% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (4; 12% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (4; 12% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (2; 6% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>day</em> (<tt><a href="en_pud-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.159586 (the average of all parts of speech is 1.138927).
+The form / lemma ratio of `NOUN` is 1.159586 (the average of all parts of speech is 1.140354).
 
 The 1st highest number of forms (2) was observed with the lemma “ability”: <em>abilities, ability</em>.
 

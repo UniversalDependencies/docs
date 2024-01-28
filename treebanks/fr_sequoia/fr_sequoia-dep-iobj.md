@@ -50,10 +50,10 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	deux	deux	NUM	_	NumType=Card	7	nummod	_	_
 7	raisons	raison	NOUN	_	Gender=Fem|Number=Plur	4	obl:mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	16	punct	_	_
-9	tout	tout	ADV	_	_	16	advmod	_	ExtPos=ADV|Idiom=Yes
+9	tout	tout	ADV	_	ExtPos=ADV	16	advmod	_	Idiom=Yes
 10	d'	de	ADP	_	_	9	fixed	_	InIdiom=Yes|SpaceAfter=No
 11	abord	abord	ADV	_	_	9	fixed	_	InIdiom=Yes
-12	parce	parce	SCONJ	_	_	16	mark	_	ExtPos=SCONJ|Idiom=Yes
+12	parce	parce	SCONJ	_	ExtPos=SCONJ	16	mark	_	Idiom=Yes
 13	que	que	SCONJ	_	_	12	fixed	_	InIdiom=Yes
 14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	Commission	commission	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 45	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	51	punct	_	_
 47	ensuite	ensuite	ADV	_	_	51	advmod	_	_
-48	parce	parce	SCONJ	_	_	51	mark	_	ExtPos=SCONJ|Idiom=Yes
+48	parce	parce	SCONJ	_	ExtPos=SCONJ	51	mark	_	Idiom=Yes
 49	qu'	que	SCONJ	_	_	48	fixed	_	InIdiom=Yes|SpaceAfter=No
 50	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	nsubj	_	_
 51	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_

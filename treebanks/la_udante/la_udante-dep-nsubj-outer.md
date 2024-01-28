@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>.
 There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="la_udante-dep-nsubj-cleft.html">nsubj:cleft</a></tt>, <tt><a href="la_udante-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-29 nodes (0%) are attached to their parents as `nsubj:outer`.
+30 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-29 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.3448275862069.
+30 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.33333333333333.
 
-The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (8; 28% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (4; 14% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9; 30% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (4; 13% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3; 10% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -26,13 +26,13 @@ The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 1	Prima	primus	ADJ	afs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|NumType=Ord	2	amod	_	_
 2	divisio	diuisio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	8	nsubj:outer	_	_
 3	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop:outer	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-4	,	,	PUNCT	Pu	_	8	punct	_	_
+4	,	,	PUNCT	Pu	_	3	punct	_	_
 5	qua	qui	PRON	presfb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	8	obl:lmod	_	_
 6	totum	totus	DET	dpnsn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Tot	7	det	_	_
 7	opus	opus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	8	nsubj:pass	_	_
 8	dividitur	diuido	VERB	vp3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	in	in	ADP	e	_	11	case	_	_
-10	tres	tres	NUM	aufpa	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur|NumType=Card	11	nummod	_	_
+10	tres	tres	NUM	aufpa	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
 11	canticas	cantica	NOUN	sfp1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	Pu	_	8	punct	_	_
 
@@ -47,13 +47,13 @@ The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 31 20 nsubj:outer	color:blue
 1	Declarata	declaro	VERB	vp1irp3	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 2	igitur	igitur	PART	r	_	1	discourse	_	_
-3	duo	duo	NUM	aunpn	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumType=Card	1	nsubj:pass	_	_
+3	duo	duo	NUM	aunpn	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	1	nsubj:pass	_	_
 4	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	;	;	PUNCT	Pu	_	18	punct	_	_
 6	quorum	qui	PRON	prepng	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	7	nmod	_	_
 7	unum	unus	DET	aunsn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	18	nsubj:outer	_	_
 8	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop:outer	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	,	,	PUNCT	Pu	_	18	punct	_	_
+9	,	,	PUNCT	Pu	_	8	punct	_	_
 10	quod	quod	SCONJ	cs	PronType=Rel	18	mark	_	_
 11	quicunque	quicumque	DET	prismn	Case=Nom|Compound=Yes|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	15	nsubj	_	_
 12	bonum	bonus	ADJ	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	15	obj	_	_
@@ -66,7 +66,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 19	:	:	PUNCT	Pu	_	31	punct	_	_
 20	aliud	alius	DET	dpnsn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	31	nsubj:outer	_	_
 21	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-22	,	,	PUNCT	Pu	_	31	punct	_	_
+22	,	,	PUNCT	Pu	_	21	punct	_	_
 23	quod	quod	SCONJ	cs	PronType=Rel	31	mark	_	_
 24	romanus	romanus	ADJ	ams1n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Sing	25	amod	_	_
 25	populus	populus	NOUN	sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	31	nsubj	_	_
@@ -91,23 +91,23 @@ The following 11 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 2	fit	fio	VERB	vs5ips3	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 3	quod	quod	SCONJ	cs	PronType=Rel	6	mark	_	_
 4	unum	unus	DET	aunsn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	6	csubj:pass	_	_
-5	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	4	cop	_	TraditionalTense=Praesens
+5	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	4	cop	_	TraditionalTense=Praesens
 6	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-7	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	8	cop	_	TraditionalTense=Praesens
+7	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	8	cop	_	TraditionalTense=Praesens
 8	radix	radix	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	6	xcomp	_	_
 9	eius	is	PRON	ddesng	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 10	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	13	nsubj:outer	_	_
 11	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop:outer	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-12	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	13	cop	_	TraditionalTense=Praesens
+12	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	13	cop	_	TraditionalTense=Praesens
 13	bonum	bonus	ADJ	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	9	acl:relcl	_	SpaceAfter=No
 14	,	,	PUNCT	Pu	_	16	punct	_	_
 15	et	et	CCONJ	co	_	16	cc	_	_
 16	multa	multus	DET	anp1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur|NumType=Card|PronType=Ind	6	conj	_	_
-17	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	16	cop	_	TraditionalTense=Praesens
+17	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	16	cop	_	TraditionalTense=Praesens
 18	eius	is	PRON	ddesng	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	16	orphan	_	_
 19	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	22	nsubj:outer	_	_
 20	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop:outer	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-21	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	22	cop	_	TraditionalTense=Praesens
+21	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	22	cop	_	TraditionalTense=Praesens
 22	malum	malus	ADJ	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	18	acl:relcl	_	SpaceAfter=No
 23	;	;	PUNCT	Pu	_	33	punct	_	_
 24	qua	qui	PRON	presfb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	25	det	_	_

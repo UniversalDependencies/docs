@@ -81,7 +81,7 @@ The 10 most frequent ambiguous types:  <em>[Name]</em> (<tt><a href="gd_arcosg-p
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.089320 (the average of all parts of speech is 1.299830).
+The form / lemma ratio of `PROPN` is 1.089320 (the average of all parts of speech is 1.302045).
 
 The 1st highest number of forms (7) was observed with the lemma “Alba”: <em>Alba, Albainn, dh'Alba, dh’Alba, dh’Albainn, h-Alba, h-Albann</em>.
 
@@ -89,7 +89,7 @@ The 2nd highest number of forms (4) was observed with the lemma “Iain”: <em>
 
 The 3rd highest number of forms (3) was observed with the lemma “Astràilia”: <em>Astràilia, dh'Astràilia, dh’Astràilia</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt> (965; 23% instances), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt> (965; 23% instances), <tt><a href="gd_arcosg-feat-Foreign.html">Foreign</a></tt> (43; 1% instances), <tt><a href="gd_arcosg-feat-Typo.html">Typo</a></tt> (9; 0% instances)
+`PROPN` occurs with 4 features: <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt> (965; 23% instances), <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt> (965; 23% instances), <tt><a href="gd_arcosg-feat-Foreign.html">Foreign</a></tt> (43; 1% instances), <tt><a href="gd_arcosg-feat-Typo.html">Typo</a></tt> (15; 0% instances)
 
 `PROPN` occurs with 8 feature-value pairs: `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Typo=Yes`
 

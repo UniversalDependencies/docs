@@ -24,10 +24,10 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 5 6 cc	color:blue
 1	1.	1.	NUM	Ux-------	NumType=Card	11	obj	11:obj	Translit=1.|LTranslit=1.
 2	ஒரு	ஒரு	NUM	JJ-------	NumType=Card	3	nummod	3:nummod	Translit=oru|LTranslit=oru
-3	ஆண்	ஆண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nsubj	8:nsubj	Translit=āṇ|LTranslit=āṇ
-4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
-5	பெண்ண்	பெண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	3	conj	3:conj|8:nsubj	Translit=peṇṇ|LTranslit=peṇ
-6	உம்	உம்	PART	Tv-------	_	5	cc	5:cc	Translit=um|LTranslit=um
+3	ஆண்	ஆண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nsubj	8:nsubj	LTranslit=āṇ|Translit=āṇ
+4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	LTranslit=um|Translit=um
+5	பெண்ண்	பெண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	3	conj	3:conj|8:nsubj	LTranslit=peṇ|Translit=peṇṇ
+6	உம்	உம்	PART	Tv-------	_	5	cc	5:cc	LTranslit=um|Translit=um
 7	வாழ்க்கைத்	வாழ்க்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod:nom	Translit=vālkkait|LTranslit=vālkkai
 8	துணைவர்கள்	துணைவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	11	obj	11:obj	Translit=tuṇaivarkaḷ|LTranslit=tuṇaivar
 9	என்று	என்	PART	Tt-T----A	Polarity=Pos|VerbForm=Inf	8	mark	8:mark	Translit=enru|LTranslit=en
@@ -48,13 +48,13 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 1	வடக்கு	வடக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:nom	Translit=vaṭakku|LTranslit=vaṭakku
 2	மற்றும்	மற்றும்	CCONJ	CC-------	_	3	cc	3:cc	Translit=marrum|LTranslit=marrum
 3	கிழக்குப்	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|4:nmod:nom	Translit=kilakkup|LTranslit=kilakku
-4	பகுதிகளுக்க்	பகுதி	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	obl	9:obl:ஆகு:dat	Translit=pakutikaḷukk|LTranslit=pakuti
-5	ஆக	ஆகு	ADP	PP-------	AdpType=Post	4	case	4:case	Translit=āka|LTranslit=āku
+4	பகுதிகளுக்க்	பகுதி	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	obl	9:obl:ஆகு:dat	LTranslit=pakuti|Translit=pakutikaḷukk
+5	ஆக	ஆகு	ADP	PP-------	AdpType=Post	4	case	4:case	LTranslit=āku|Translit=āka
 6	55	55	NUM	U=-------	NumForm=Digit|NumType=Card	7	nummod	7:nummod	Translit=55|LTranslit=55
 7	பேருந்துகளை	பேருந்து	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	9	obj	9:obj	Translit=pēruntukaḷai|LTranslit=pēruntu
 8	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	nsubj	9:nsubj	Translit=intiyā|LTranslit=intiyā
-9	வழங்கிய்	வழங்கு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=valaṅkiy|LTranslit=valaṅku
-10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	9	aux	9:aux	Translit=uḷḷatu|LTranslit=uḷ
+9	வழங்கிய்	வழங்கு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	LTranslit=valaṅku|Translit=valaṅkiy
+10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	9	aux	9:aux	LTranslit=uḷ|Translit=uḷḷatu
 11	.	.	PUNCT	Z#-------	PunctType=Peri	9	punct	9:punct	Translit=.|LTranslit=.
 
 ~~~
@@ -75,11 +75,11 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 7	ஆங்கிலம்	ஆங்கிலம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod:nom	Translit=āṅkilam|LTranslit=āṅkilam
 8	ஆகிய	ஆகு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	9	amod	9:amod	Translit=ākiya|LTranslit=āku
 9	மொழிகளில்	மொழி	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	10	obl	10:obl:loc	Translit=molikaḷil|LTranslit=moli
-10	பேசவ்	பேசு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	15	xcomp	15:xcomp	Translit=pēcav|LTranslit=pēcu
-11	உம்	உம்	PART	Tv-------	_	10	advmod:emph	10:advmod:emph	Translit=um|LTranslit=um
+10	பேசவ்	பேசு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	15	xcomp	15:xcomp	LTranslit=pēcu|Translit=pēcav
+11	உம்	உம்	PART	Tv-------	_	10	advmod:emph	10:advmod:emph	LTranslit=um|Translit=um
 12	,	,	PUNCT	Z:-------	PunctType=Comm	13	punct	13:punct	Translit=,|LTranslit=,
-13	எழுதவ்	எழுது	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	10	conj	10:conj|15:xcomp	Translit=elutav|LTranslit=elutu
-14	உம்	உம்	PART	Tv-------	_	13	cc	13:cc	Translit=um|LTranslit=um
+13	எழுதவ்	எழுது	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	10	conj	10:conj|15:xcomp	LTranslit=elutu|Translit=elutav
+14	உம்	உம்	PART	Tv-------	_	13	cc	13:cc	LTranslit=um|Translit=um
 15	தெரிந்தவர்	தெரி	NOUN	NPND3SH-A	Case=Nom|Gender=Com|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No|Translit=terintavar|LTranslit=teri
 16	.	.	PUNCT	Z#-------	PunctType=Peri	15	punct	15:punct	Translit=.|LTranslit=.
 

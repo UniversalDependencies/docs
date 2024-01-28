@@ -61,12 +61,12 @@ The 2nd highest number of forms (2) was observed with the lemma “den”: <em>d
 
 The 3rd highest number of forms (2) was observed with the lemma “dere”: <em>dere, there</em>.
 
-`ADV` occurs with 4 features: <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (534; 9% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`ADV` occurs with 5 features: <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (534; 9% instances), <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (25; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-feat-Degree.html">Degree</a></tt> (1; 0% instances)
 
-`ADV` occurs with 4 feature-value pairs: `Degree=Cmp`, `Number=Plur`, `PartType=Disc`, `PronType=Int`
+`ADV` occurs with 8 feature-value pairs: `Degree=Cmp`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=PROPN`, `ExtPos=SCONJ`, `Number=Plur`, `PartType=Disc`, `PronType=Int`
 
-`ADV` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (5612 tokens).
+`ADV` occurs with 9 feature combinations.
+The most frequent feature combination is `_` (5588 tokens).
 Examples: <em>so, now, just, even, well, when, dere, den, still, very</em>
 
 

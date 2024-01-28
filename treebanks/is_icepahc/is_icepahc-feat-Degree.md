@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-52061 tokens (5%) have a non-empty value of `Degree`.
-13602 types (21%) occur at least once with a non-empty value of `Degree`.
-7159 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (31989; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7359; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5760; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (4597; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1129; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (447; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (302; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (214; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (116; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (56; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+52057 tokens (5%) have a non-empty value of `Degree`.
+13600 types (21%) occur at least once with a non-empty value of `Degree`.
+7151 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 16 part-of-speech tags: <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (31990; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (7359; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (5760; 1% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (4596; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (1128; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (446; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (302; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (214; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (114; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (69; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (56; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 ### `ADJ`
 
-31989 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Degree`.
+31990 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (86% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24486; 77%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (23963; 75%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17158; 54%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24487; 77%), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (23964; 75%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17159; 54%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (1815; 6% of non-empty `Degree`): <em>nær, betra, fyrri, betri, fyrra, eldri, stærri, lengra, yngri, æðri</em>
-* `Pos` (27893; 87% of non-empty `Degree`): <em>gott, satt, góða, góður, stór, góð, góðum, heilaga, þriðja, góðu</em>
+* `Pos` (27894; 87% of non-empty `Degree`): <em>gott, satt, góða, góður, stór, góð, góðum, heilaga, þriðja, góðu</em>
 * `Sup` (2281; 7% of non-empty `Degree`): <em>fyrsta, fyrstu, næsta, besta, bestu, best, næst, næstu, fyrstur, síðustu</em>
-* `EMPTY` (5185): <em>sama, sömu, sami, 1., langt, víst, lengi, kongl., skammt, verður</em>
+* `EMPTY` (5182): <em>sama, sömu, sami, 1., langt, víst, lengi, kongl., skammt, verður</em>
 
 <table>
   <tr><th>Paradigm <i>góður</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -93,7 +93,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 * `Cmp` (1322; 18% of non-empty `Degree`): <em>meir, meira, meiri, fleiri, fleira, minna, síður, minni, fleirum, innar</em>
 * `Pos` (5106; 69% of non-empty `Degree`): <em>mikið, mikill, margir, miklu, margt, mikil, mikla, mörgum, mikinn, marga</em>
 * `Sup` (931; 13% of non-empty `Degree`): <em>mest, mesta, flestir, mestu, mesti, flestum, mestur, minnsta, flest, minnst</em>
-* `EMPTY` (37579): <em>þetta, sá, allt, það, einn, þeim, þessi, þann, allir, þá</em>
+* `EMPTY` (37570): <em>þetta, sá, allt, það, einn, þeim, þessi, þann, allir, þá</em>
 
 <table>
   <tr><th>Paradigm <i>þessi</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -137,16 +137,16 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 ### `VERB`
 
-4597 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Degree`.
+4596 <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4597; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4597; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4597; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4597; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4597; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3503; 76%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3071; 67%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4596; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4596; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4596; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4596; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4596; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3502; 76%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3070; 67%).
 
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (46; 1% of non-empty `Degree`): <em>heldur, endaðri, ver, betri, fremur, fá, nær, víprar, Kunni, Lýsi</em>
-* `Pos` (4426; 96% of non-empty `Degree`): <em>búið, búinn, lifandi, búin, búnir, fallinn, lifanda, þegjandi, búnu, grátandi</em>
+* `Pos` (4425; 96% of non-empty `Degree`): <em>búið, búinn, lifandi, búin, búnir, fallinn, lifanda, þegjandi, búnu, grátandi</em>
 * `Sup` (125; 3% of non-empty `Degree`): <em>helst, fanst, verst, Þóttust, réttast, sannast, Rifjaðist, fyrfarast, gleðist, glíkjast</em>
-* `EMPTY` (124090): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
+* `EMPTY` (124091): <em>sagði, segir, kom, mælti, fór, tók, varð, gekk, fara, sjá</em>
 
 <table>
   <tr><th>Paradigm <i>taka</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -168,16 +168,16 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 ### `NOUN`
 
-1129 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Degree`.
+1128 <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (794; 70%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 70%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Cmp` (45; 4% of non-empty `Degree`): <em>minni, síður, sakir, forvitri, allstaðar, bráðar, byggingarkúnstarinnar, engi, reiðara, réttara</em>
-* `Pos` (1065; 94% of non-empty `Degree`): <em>dauða, heit, góða, búið, vísu, skyld, föstum, synda, trúu, allskonar</em>
+* `Pos` (1064; 94% of non-empty `Degree`): <em>dauða, heit, góða, búið, vísu, skyld, föstum, synda, trúu, allskonar</em>
 * `Sup` (19; 2% of non-empty `Degree`): <em>tigu, Arkistratus, Mannanna, dýra, fyrstu, föstu, gæfastur, hjartans, háttu, kunnustu</em>
-* `EMPTY` (144761): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (144759): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>maður</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -186,20 +186,20 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
   <tr><td><tt><tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Mannanna</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `NOUN`. 99% lemmas (603) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `NOUN`. 99% lemmas (602) occur only with one value of `Degree`.
 
 ### `PRON`
 
-447 <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
+446 <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (447; 100%), <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (447; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (339; 76%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (446; 100%), <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (446; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (339; 76%).
 
 `PRON` tokens may have the following values of `Degree`:
 
 * `Cmp` (79; 18% of non-empty `Degree`): <em>minni, minna, soddan, hvörra, sinna, yðvarra, þínni</em>
-* `Pos` (361; 81% of non-empty `Degree`): <em>soddan, mitt, vær, annað, svoddan, þvílíkan, yðvart, yðrum, vor, yðart</em>
+* `Pos` (360; 81% of non-empty `Degree`): <em>soddan, mitt, vær, annað, svoddan, þvílíkan, yðvart, yðrum, vor, yðart</em>
 * `Sup` (7; 2% of non-empty `Degree`): <em>oss, minna, slík, vora, þeirra, þvílík</em>
-* `EMPTY` (119878): <em>hann, það, þeir, því, þú, eg, ég, honum, hans, hún</em>
+* `EMPTY` (119890): <em>hann, það, þeir, því, þú, eg, ég, honum, hans, hún</em>
 
 <table>
   <tr><th>Paradigm <i>minn</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -232,7 +232,7 @@ The most frequent other feature values with which `PROPN` and `Degree` co-occurr
 * `Cmp` (15; 5% of non-empty `Degree`): <em>saltara, GANGI, Hlymreksfari, Jaíri, Konáli, Mörukári, Teófíli, farisearanna, himnna, kristi</em>
 * `Pos` (282; 93% of non-empty `Degree`): <em>sankti, heilags, heilagur, Rauður, Ótta, Arkistratus, heilaga, helga, Konáll, Darius</em>
 * `Sup` (5; 2% of non-empty `Degree`): <em>Tósti, Austvestan, Georgíum, Mannsins</em>
-* `EMPTY` (41084): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41085): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 <table>
   <tr><th>Paradigm <i>kristur</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
@@ -255,22 +255,22 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 * `Cmp` (3; 1% of non-empty `Degree`): <em>vi, xii, átján</em>
 * `Pos` (209; 98% of non-empty `Degree`): <em>hálft, hálfan, hálfum, hálfa, hálfs, hálfu, hálfur, hvorntveggja, ij, tvennum</em>
 * `Sup` (2; 1% of non-empty `Degree`): <em>1., þrjátigi</em>
-* `EMPTY` (4197): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
+* `EMPTY` (4198): <em>tveir, tólf, tvo, fimm, tvö, sex, þrír, þrjú, sjö, þrjá</em>
 
 `Degree` seems to be **lexical feature** of `NUM`. 100% lemmas (46) occur only with one value of `Degree`.
 
 ### `AUX`
 
-116 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Degree`.
+114 <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (116; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (84; 72%).
+The most frequent other feature values with which `AUX` and `Degree` co-occurred: <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (114; 100%), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (114; 100%), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (114; 100%), <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (114; 100%), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (114; 100%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (84; 74%).
 
 `AUX` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 1% of non-empty `Degree`): <em>myni</em>
-* `Pos` (112; 97% of non-empty `Degree`): <em>var, vilda, vóru, væra, vert, fær, hafða, fekk, megu, mætta</em>
+* `Pos` (110; 96% of non-empty `Degree`): <em>var, vilda, vóru, væra, vert, fær, hafða, fekk, mætta, skyldir</em>
 * `Sup` (3; 3% of non-empty `Degree`): <em>vart, vildir, vorum</em>
-* `EMPTY` (51136): <em>var, er, voru, hafði, vera, væri, hafa, eru, mun, verið</em>
+* `EMPTY` (51138): <em>var, er, voru, hafði, vera, væri, hafa, eru, mun, verið</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>

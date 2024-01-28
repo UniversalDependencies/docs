@@ -26,3 +26,4 @@ udver: '2'
 #### Examples
 
 * _გვწერ_ 'you write us', _გვხატავ_ 'you draw us' etc.
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:55 CET -->

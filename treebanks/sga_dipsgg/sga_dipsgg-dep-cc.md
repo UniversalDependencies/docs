@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (2%) are attached to their parents as `cc`.
+6 nodes (1%) are attached to their parents as `cc`.
 
 6 instances of `cc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.33333333333333.

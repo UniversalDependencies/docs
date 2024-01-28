@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pud-pos-SCONJ.ht
 
 ### `SCONJ`
 
-111 <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (33% of all `SCONJ` tokens) have a non-empty value of `ConjType`.
+111 <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> tokens (32% of all `SCONJ` tokens) have a non-empty value of `ConjType`.
 
 `SCONJ` tokens may have the following values of `ConjType`:
 

@@ -100,7 +100,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="ro_simonero-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (372; 68%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (353; 66%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-obl.html">obl</a></tt>]--> PRON</tt> (142; 56%),
-<tt>PRON --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (85; 100%),
+<tt>PRON --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (86; 100%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-expl.html">expl</a></tt>]--> PRON</tt> (48; 55%),
 <tt>PRON --[<tt><a href="ro_simonero-dep-cop.html">cop</a></tt>]--> AUX</tt> (43; 86%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-expl-poss.html">expl:poss</a></tt>]--> PRON</tt> (21; 55%),

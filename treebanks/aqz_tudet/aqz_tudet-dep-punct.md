@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-296 nodes (22%) are attached to their parents as `punct`.
+320 nodes (22%) are attached to their parents as `punct`.
 
-288 instances of `punct` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.56756756756757.
+312 instances of `punct` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.63125.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (192; 65% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (79; 27% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (7; 2% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (216; 68% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (79; 25% instances), <tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (7; 2% instances), <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="aqz_tudet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="aqz_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="aqz_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

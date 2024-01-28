@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>вылӧ</em> (<tt><a href="kpv_latti
 
 
 * <em>вылӧ</em>
-  * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 43: <em>Мый <b>вылӧ</b> тэ видзӧдан ?</em>
+  * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 43: <em>Техническӧй культураяс план дінӧ идралӧма 3 прӧчент <b>вылӧ</b> .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Мирӧвӧй войнаӧн дареволюцияясӧн дзикӧдз <b>вылӧ</b> бонзьӧдӧм да виртӧммӧдӧм странаӧс гӧгӧрбоксянь чашйисны ӧружиеа миритчыны вермытӧм врагъяс — асланымъяс и мукӧд государствоясысь вувзьысьӧмъяс .</em>
 * <em>вылын</em>
   * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 15: <em>Сы вылӧ видзӧдігмоз весиг шуштӧм лолі сьӧлӧм <b>вылын</b> .</em>

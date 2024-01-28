@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Hab` are language-specific.
 It occurs with 3 different values: `Hab`, `Perf`, `Prog`.
 
-3023 tokens (16%) have a non-empty value of `Aspect`.
-1896 types (24%) occur at least once with a non-empty value of `Aspect`.
-914 lemmas (23%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3022; 16% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+3022 tokens (16%) have a non-empty value of `Aspect`.
+1895 types (24%) occur at least once with a non-empty value of `Aspect`.
+912 lemmas (23%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3021; 16% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-3022 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Aspect`.
+3021 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (91% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3019; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2758; 91%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2731; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2640; 87%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2333; 77%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2168; 72%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3018; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2759; 91%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2731; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2639; 87%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2333; 77%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2168; 72%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Hab` (225; 7% of non-empty `Aspect`): <em>eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, olursa</em>
-* `Perf` (2486; 82% of non-empty `Aspect`): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</em>
-* `Prog` (311; 10% of non-empty `Aspect`): <em>ediyor, yapıyor, atıyor, bakıyor, alıyor, demiyor, ediyorlar, ediyorum, kesiyor, veriyor</em>
-* `EMPTY` (315): <em>et, sallaya, bırak, aç, değiştir, gide, havlaya, olsa, al, dinle</em>
+* `Hab` (224; 7% of non-empty `Aspect`): <em>eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, olursa</em>
+* `Perf` (2485; 82% of non-empty `Aspect`): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</em>
+* `Prog` (312; 10% of non-empty `Aspect`): <em>ediyor, yapıyor, atıyor, bakıyor, alıyor, demiyor, ediyorlar, ediyorum, kesiyor, veriyor</em>
+* `EMPTY` (316): <em>et, sallaya, bırak, aç, değiştir, geç, gide, havlaya, olsa, al</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th><th><tt>Hab</tt></th></tr>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (248; 70%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (246; 70%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> VERB</tt> (64; 94%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> VERB</tt> (11; 55%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (6; 60%).

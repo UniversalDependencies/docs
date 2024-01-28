@@ -275,7 +275,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sl_ssj-dep-amod.html">amod</a></tt>]--> ADJ</tt> (21320; 100%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-aux.html">aux</a></tt>]--> AUX</tt> (9362; 88%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9320; 64%),
-<tt>VERB --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6438; 93%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6433; 93%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6112; 52%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-det.html">det</a></tt>]--> DET</tt> (5008; 88%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3585; 79%),

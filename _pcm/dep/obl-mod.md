@@ -74,4 +74,4 @@ The `obl:mod` relation is used nominal or prepositional groups which act as a mo
 10	Delta	_	_	_	_	0	_	_	_
 11	State	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:29 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:20 CET -->

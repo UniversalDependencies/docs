@@ -46,8 +46,8 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 11 9 cop	color:blue
 1	山上	山上	NOUN	NN	_	2	nsubj	_	SpaceAfter=No|Translit=shānshàng|LTranslit=shānshàng
 2	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
-3	一	一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-4	座	座	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+3	一	一	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+4	座	座	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
 5	小	小	PART	PFA	_	6	case	_	SpaceAfter=No|Translit=xiǎo|LTranslit=xiǎo
 6	亭	亭	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=tíng|LTranslit=tíng
 7	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 14	观望	观望	VERB	VV	_	18	acl:relcl	_	SpaceAfter=No|Translit=guānwàng|LTranslit=guānwàng
 15	海上	海上	NOUN	NN	_	16	nmod	_	SpaceAfter=No|Translit=hǎishàng|LTranslit=hǎishàng
 16	日出	日出	NOUN	NN	_	14	obj	_	SpaceAfter=No|Translit=rìchū|LTranslit=rìchū
-17	之	之	PART	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
+17	之	之	SCONJ	DEC	_	14	mark:rel	_	SpaceAfter=No|Translit=zhī|LTranslit=zhī
 18	地	地	NOUN	NN	_	2	parataxis	_	SpaceAfter=No|Translit=de|LTranslit=de
 19	。	。	PUNCT	.	_	2	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -79,7 +79,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	美	美	PROPN	NNP	_	5	compound	_	SpaceAfter=No|Translit=měi|LTranslit=měi
 5	洲	洲	PART	SFN	_	12	nmod	_	SpaceAfter=No|Translit=zhōu|LTranslit=zhōu
 6	最大	最大	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=zuìdà|LTranslit=zuìdà
-7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+7	的	的	SCONJ	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 8	野生	野生	ADJ	JJ	_	10	nmod	_	SpaceAfter=No|Translit=yěshēng|LTranslit=yěshēng
 9	哺乳	哺乳	NOUN	NN	_	10	nmod	_	SpaceAfter=No|Translit=bǔrǔ|LTranslit=bǔrǔ
 10	动物	动物	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=dòngwù|LTranslit=dòngwù

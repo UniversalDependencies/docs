@@ -26,4 +26,4 @@ det(Chair-2, the-1)
 nmod:poss(office-4, Chair-2)
 case(Chair-2, 's-3)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:20 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:03 CET -->

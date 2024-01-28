@@ -29,4 +29,4 @@ Note that the above is ambiguous.
 It may also mean "The teacher made someone to read the book to/for Ali".
 In that case plain [obl]() should be used.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:17 CET -->

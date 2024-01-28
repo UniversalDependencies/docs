@@ -10,20 +10,20 @@ This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-76865 tokens (5%) have a non-empty value of `PronType`.
+76866 tokens (5%) have a non-empty value of `PronType`.
 608 types (0%) occur at least once with a non-empty value of `PronType`.
 59 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (49058; 3% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (27807; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (49059; 3% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (27807; 2% instances).
 
 ### `PRON`
 
-49058 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `PronType`.
+49059 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37428; 76%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27317; 56%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26069; 53%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24545; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37429; 76%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27318; 56%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26069; 53%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24546; 50%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (10163; 21% of non-empty `PronType`): <em>это, то, того, том, этом, тем, этого, тому, этим, т.</em>
+* `Dem` (10164; 21% of non-empty `PronType`): <em>это, то, того, том, этом, тем, этого, тому, этим, т.</em>
 * `Ind` (788; 2% of non-empty `PronType`): <em>что-то, кто-то, нечто, чем-то, что-нибудь, кого-то, кому-то, чего-то, прочим, кто-нибудь</em>
 * `Int,Rel` (8984; 18% of non-empty `PronType`): <em>что, которые, который, кто, которых, которая, которой, чем, которого, чего</em>
 * `Neg` (939; 2% of non-empty `PronType`): <em>ничего, никто, никого, никому, ничем, ничто, нечего, нечем, никем, ничему</em>

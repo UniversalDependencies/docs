@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-809 tokens (8%) have a non-empty value of `Foreign`.
-258 types (10%) occur at least once with a non-empty value of `Foreign`.
-197 lemmas (12%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 13 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (340; 3% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (213; 2% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (115; 1% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (45; 0% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+919 tokens (9%) have a non-empty value of `Foreign`.
+337 types (14%) occur at least once with a non-empty value of `Foreign`.
+274 lemmas (17%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 13 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (450; 4% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (213; 2% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (115; 1% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (45; 0% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (18; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-340 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+450 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (30% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (340; 100%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (340; 100%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (278; 82%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (278; 82%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=Sing</tt> (230; 68%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (450; 100%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (450; 100%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (384; 85%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (384; 85%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=Sing</tt> (230; 51%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (340; 100% of non-empty `Foreign`): <em>pueblo, topueblo, escuela, rana, danzas, irana, guerra, vez, años, fiesta</em>
-* `EMPTY` (1137): <em>ich, itich, atl, ica, ika, itzcuintli, telpukatl, tonal, ilwitl, tokniwah</em>
+* `Yes` (450; 100% of non-empty `Foreign`): <em>pueblo, topueblo, escuela, rana, danzas, irana, burro, guerra, vez, años</em>
+* `EMPTY` (1027): <em>ich, itich, atl, ica, ika, itzcuintli, telpukatl, tonal, ilwitl, tokniwah</em>
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (124) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (202) occur only with one value of `Foreign`.
 
 ### `ADP`
 
@@ -36,8 +36,6 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 * `Yes` (213; 100% of non-empty `Foreign`): <em>de, para, a, por, hasta, en, desde, como, sin</em>
 * `EMPTY` (19): <em>quemeh, ic, ik, kemej, kemeh, que, asta, queme</em>
 
-`Foreign` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Foreign`.
-
 ### `ADV`
 
 115 <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> tokens (9% of all `ADV` tokens) have a non-empty value of `Foreign`.
@@ -47,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (115; 100% of non-empty `Foreign`): <em>después, entonces, pues, ahorita, siempre, ahora, igual, bueno, más, casi</em>
-* `EMPTY` (1221): <em>amo, ya, ompa, nikah, y, simi, ohcon, san, ok, axan</em>
+* `EMPTY` (1228): <em>amo, ya, ompa, nikah, y, simi, ohcon, san, ok, axan</em>
 
 `Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (20) occur only with one value of `Foreign`.
 
@@ -133,12 +131,12 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 7 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="nhi_itml-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=EMPTY</tt> (6; 86%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="nhi_itml-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=EMPTY</tt> (6; 86%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>sé, ponen, sale, sea, sirves, ver</em>
-* `EMPTY` (1751): <em>katki, quihtoh, nauat, yah, mota, katka, niquihtoz, yuwi, nesi, niquihlnamiqui</em>
+* `EMPTY` (1769): <em>katki, quihtoh, nauat, yah, mota, katka, niquihtoz, peu, yuwi, nesi</em>
 
 ### `AUX`
 
@@ -147,14 +145,14 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>es</em>
-* `EMPTY` (826): <em>o, ma, mo, katka, peu, pewi, mach, oc, pew, wili</em>
+* `EMPTY` (804): <em>o, ma, mo, katka, pewi, mach, wili, catca, huili, i</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>NOUN --[<tt><a href="nhi_itml-dep-case.html">case</a></tt>]--> ADP</tt> (55; 51%),
-<tt>NOUN --[<tt><a href="nhi_itml-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11; 55%),
+<tt>NOUN --[<tt><a href="nhi_itml-dep-case.html">case</a></tt>]--> ADP</tt> (63; 58%),
 <tt>ADP --[<tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (9; 100%),
+<tt>NOUN --[<tt><a href="nhi_itml-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 53%),
 <tt>PROPN --[<tt><a href="nhi_itml-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5; 100%),
 <tt>ADJ --[<tt><a href="nhi_itml-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4; 57%),
 <tt>ADJ --[<tt><a href="nhi_itml-dep-case.html">case</a></tt>]--> ADP</tt> (2; 67%),

@@ -99,6 +99,8 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 
 32 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Number`.
 
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (32; 100%).
+
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (31; 97% of non-empty `Number`): <em>your, sleepless</em>

@@ -12,7 +12,7 @@ It occurs with 5 different values: `Art`, `Dem`, `Emp`, `Prs`, `Rel`.
 72 tokens (18%) have a non-empty value of `PronType`.
 38 types (14%) occur at least once with a non-empty value of `PronType`.
 21 lemmas (10%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 6% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `DET`
 

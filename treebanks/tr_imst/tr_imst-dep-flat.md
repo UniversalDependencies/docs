@@ -17,18 +17,18 @@ The following 30 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	Şahinbaş	Şahinbaş	PROPN	Prop	Case=Nom|Number=Sing|Person=3	5	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	Punc	_	5	punct	_	_
-3	Tabip	tabip	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
-4	Üsteğmen	üsteğmen	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
-5	Vahdettin	Vahdettin	PROPN	Prop	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	Bayram	Bayram	PROPN	Prop	Case=Nom|Number=Sing|Person=3	5	flat	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	Bayındır	Bayındır	PROPN	Prop	Case=Nom|Number=Sing|Person=3	5	amod	_	_
+2	Sokak'ta	Sokak	PROPN	Prop	Case=Loc|Number=Sing|Person=3	1	flat	_	_
+3	ki	ki	ADP	Rel	_	1	case	_	_
+4	bekar	bekar	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	5	nmod:poss	_	_
+5	evimden	ev	NOUN	Noun	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	6	obl	_	_
+6	çıktım	çık	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 
@@ -36,35 +36,32 @@ The following 30 pairs of parts of speech are connected with `flat`: <tt><a href
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 flat	color:blue
-1	Üç	üç	NUM	ANum	NumType=Card	5	nummod	_	SpaceAfter=No
-2	-	-	PUNCT	Punc	_	1	punct	_	SpaceAfter=No
-3	dört	dört	NUM	ANum	NumType=Card	1	flat	_	_
-4	kız	kız	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	5	nmod:poss	_	_
-5	başı	baş	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	nsubj	_	_
-6	göründü	görün	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	Teyzemden	teyze	NOUN	Noun	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	5	obl	_	_
+2	on	on	NUM	ANum	NumType=Card	4	nummod	_	_
+3	iki	iki	NUM	ANum	NumType=Card	2	flat	_	_
+4	yaş	yaş	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	5	amod	_	_
+5	büyük	büyük	ADJ	Adj	_	0	root	_	_
+6	eniştem	enişte	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	5	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 flat	color:blue
-1	Bunu	bu	PRON	Demons	Case=Acc|Number=Sing|Person=3|PronType=Dem	2	obj	_	_
-2	anlayamıyor	anla	VERB	Verb	Aspect=Prog|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Polite=Infm|Tense=Pres	6	ccomp	_	_
-3	musun	mi	AUX	Ques	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres	2	aux:q	_	SpaceAfter=No
-4	?	?	PUNCT	Punc	_	2	punct	_	_
-5	diye	diye	ADP	PCNom	_	2	case	_	_
-6	sordu	sor	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
-7	Gül	Gül	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
-8	Abla	abla	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	flat	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	Muammer	Muammer	PROPN	Prop	Case=Nom|Number=Sing|Person=3	4	iobj	_	_
+2	beye	bey	NOUN	Noun	Case=Dat|Number=Sing|Person=3	1	flat	_	_
+3	su	su	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	obj	_	_
+4	getir	getir	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	0	root	_	_
+5	oğlum	oğul	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	4	conj	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

@@ -34,7 +34,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	direção	direção	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 11	a	a	ADP	INDT	_	14	case	_	_
 12	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	o	o	DET	DT	Gender=Masc|Number=Sing	14	dep	_	_
+13	o	o	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	dep	_	_
 14	sul	sul	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -79,7 +79,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 30	ou	_	CCONJ	CC	_	34	cc	_	_
 31	se	_	PRON	SE	Person=3	34	expl:pv	_	_
 32	tornar	_	AUX	VB	_	34	cop	_	_
-33	um	um	DET	DT	Gender=Masc|Number=Sing	34	det	_	_
+33	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	inimigo	inimigo	NOUN	NN	Gender=Masc|Number=Sing	27	conj	_	_
 35	público	público	ADJ	JJ	Gender=Masc|Number=Sing	34	amod	_	SpaceAfter=No
 36	,	,	PUNCT	,	_	6	punct	_	_
@@ -118,7 +118,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	Já	já	ADV	RB	_	5	advmod	_	_
 2	não	não	ADV	RB	Polarity=Neg	5	advmod	_	_
 3	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-4	um	um	DET	DT	Gender=Masc|Number=Sing	5	det	_	_
+4	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	efeito	efeito	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 6	que	_	PRON	WP	_	7	nsubj	_	_
 7	remete	remeter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl:relcl	_	_
@@ -134,7 +134,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 17	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	cobertura	cobertura	NOUN	NN	Gender=Fem|Number=Sing	14	conj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
-20	uma	um	DET	DT	Gender=Fem|Number=Sing	21	det	_	_
+20	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	superfície	superfície	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
 22	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	23	cop	_	_
 23	material	material	ADJ	JJ	Gender=Fem|Number=Sing	14	dep	_	_

@@ -9,20 +9,32 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-29 tokens (1%) have a non-empty value of `Intens`.
-23 types (2%) occur at least once with a non-empty value of `Intens`.
-19 lemmas (3%) occur at least once with a non-empty value of `Intens`.
-The feature is used with 5 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (18; 1% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+42 tokens (1%) have a non-empty value of `Intens`.
+32 types (2%) occur at least once with a non-empty value of `Intens`.
+24 lemmas (4%) occur at least once with a non-empty value of `Intens`.
+The feature is used with 5 part-of-speech tags: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (30; 1% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-18 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Intens`.
+30 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Intens`.
 
-The most frequent other feature values with which `VERB` and `Intens` co-occurred: <tt><a href="eme_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (15; 83%), <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (13; 72%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 61%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (10; 56%).
+The most frequent other feature values with which `VERB` and `Intens` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (21; 70%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 57%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (16; 53%).
 
 `VERB` tokens may have the following values of `Intens`:
 
-* `Yes` (18; 100% of non-empty `Intens`): <em>damãʔẽtaraɨdʒi, nomãʔẽtaraɨdʒimãʔẽte, oʔupakatu, sikuwakatu, akuwapakatu, didʒamãʔẽaɨdʒi, dobaʔepakatudʒi, omeʔeŋgatu, omõbagatu, omõbaggatu</em>
+* `Yes` (30; 100% of non-empty `Intens`): <em>damãʔẽtaraɨdʒi, nomãʔẽtaraɨdʒimãʔẽte, sikuwakatu, oʔupakatu, akuwapakatu, azemɨmgatu, didʒamãʔẽaɨdʒi, dobaʔepakatudʒi, ekukusugkatu, ekukusukatu</em>
+
+`Intens` seems to be **lexical feature** of `VERB`. 100% lemmas (13) occur only with one value of `Intens`.
+
+### `NOUN`
+
+5 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Intens`.
+
+The most frequent other feature values with which `NOUN` and `Intens` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%).
+
+`NOUN` tokens may have the following values of `Intens`:
+
+* `Yes` (5; 100% of non-empty `Intens`): <em>perabkatu, tukukaɨ, asĩŋatumãʔẽ, dikarakuriaɨdʒi, iɲuʔaŋaɨ</em>
 
 ### `ADV`
 
@@ -32,21 +44,11 @@ The most frequent other feature values with which `VERB` and `Intens` co-occurre
 
 * `Yes` (4; 100% of non-empty `Intens`): <em>imaniaɨ, wanegatukuwa, zeporikatu</em>
 
-### `NOUN`
-
-4 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Intens`.
-
-The most frequent other feature values with which `NOUN` and `Intens` co-occurred: <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%).
-
-`NOUN` tokens may have the following values of `Intens`:
-
-* `Yes` (4; 100% of non-empty `Intens`): <em>perabkatu, tukukaɨ, dikarakuriaɨdʒi, iɲuʔaŋaɨ</em>
-
 ### `AUX`
 
 2 <tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Intens`.
 
-The most frequent other feature values with which `AUX` and `Intens` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Intens` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Intens`:
 

@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 7	ne	ne	ADV	_	Polarity=Neg	8	advmod	_	_
 8	boude	bouder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 9	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	_
-10	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	11	det	_	_
+10	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	plaisir	plaisir	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	3	punct	_	_
 13	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	enfin	enfin	ADV	_	_	9	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
+9	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	parataxis	_	_
 12	que	que	PRON	_	PronType=Rel	11	nmod	_	_

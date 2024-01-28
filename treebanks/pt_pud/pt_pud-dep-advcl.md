@@ -79,7 +79,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 5	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	nome	nome	NOUN	NN	Gender=Masc|Number=Sing	15	nsubj	_	_
 7	de	de	ADP	IN	_	9	case	_	_
-8	uma	um	DET	DT	Gender=Fem|Number=Sing	9	det	_	_
+8	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	celebridade	celebridade	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 10	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	cop	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	_	_

@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	plus	plus	ADV	_	_	20	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	dans	dans	ADP	_	_	7	case	_	_
-6	certains	certain	DET	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	7	det	_	_
+6	certains	certain	DET	_	Gender=Masc|Number=Plur|PronType=Ind	7	det	_	_
 7	cas	cas	NOUN	_	Gender=Masc|Number=Plur	20	obl:mod	_	_
 8	comme	comme	ADP	_	_	10	case	_	_
 9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -46,16 +46,16 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 22	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	forme	forme	NOUN	_	Gender=Fem|Number=Sing	20	obl:arg	_	_
 24	que	que	PRON	_	PronType=Rel	35	obj	_	_
-25	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	34	reparandum	_	SpaceAfter=No
+25	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	34	reparandum	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	si	si	SCONJ	_	_	29	mark	_	_
-28	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	29	nsubj	_	_
+28	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	29	nsubj	_	_
 29	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	discourse	_	_
 30	dire	dire	VERB	_	VerbForm=Inf	29	xcomp	_	SpaceAfter=No|Subject=SubjRaising
 31	,	,	PUNCT	_	_	34	punct	_	_
-32	je	il	PRON	conj:reform	Number=Sing|Person=1|PronType=Prs	34	reparandum	_	SpaceAfter=No
+32	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	34	reparandum	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	_
-34	je	il	PRON	conj:reform	Number=Sing|Person=1|PronType=Prs	35	nsubj	_	_
+34	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	35	nsubj	_	_
 35	visualise	visualiser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
 36	déjà	déjà	ADV	_	_	35	advmod	_	_
 37	comme	comme	ADP	_	_	39	case	_	_
@@ -64,7 +64,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 40	écrite	écrit	ADJ	_	Gender=Fem|Number=Sing	39	amod	_	SpaceAfter=No
 41	,	,	PUNCT	_	_	42	punct	_	_
 42	voyez	voir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	40	discourse	_	SpaceAfter=No
-43	-vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	42	nsubj	_	SpaceAfter=No
+43	-vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	42	nsubj	_	SpaceAfter=No
 44	.	.	PUNCT	_	_	20	punct	_	_
 
 ~~~

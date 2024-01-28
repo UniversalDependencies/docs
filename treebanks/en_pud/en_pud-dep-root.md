@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 6	by	by	ADP	IN	_	11	case	11:case	_
 7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
-8	’s	’s	PART	POS	_	7	case	7:case	_
+8	’s	's	PART	POS	_	7	case	7:case	_
 9	large	large	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 10	bank	bank	NOUN	NN	Number=Sing	11	compound	11:compound	_
 11	account	account	NOUN	NN	Number=Sing	5	obl	5:obl:by	SpaceAfter=No
@@ -56,7 +56,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 10	but	but	CCONJ	CC	_	15	cc	15:cc	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
-13	n’t	n’t	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
+13	n’t	not	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
 14	always	always	ADV	RB	_	15	advmod	15:advmod	_
 15	alone	alone	ADJ	JJ	Degree=Pos	8	conj	8:conj:but	SpaceAfter=No
 16	.	.	PUNCT	.	_	8	punct	8:punct	_

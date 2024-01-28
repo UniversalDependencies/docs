@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič.
 
 Repository: [UD_Czech-PDT](https://github.com/UniversalDependencies/UD_Czech-PDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdt212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdt213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -104,7 +104,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 
 ## Features
 
-[Abbr](cs_pdt-feat-Abbr.html) – [AdpType](cs_pdt-feat-AdpType.html) – [Animacy](cs_pdt-feat-Animacy.html) – [Aspect](cs_pdt-feat-Aspect.html) – [Case](cs_pdt-feat-Case.html) – [ConjType](cs_pdt-feat-ConjType.html) – [Degree](cs_pdt-feat-Degree.html) – [Foreign](cs_pdt-feat-Foreign.html) – [Gender](cs_pdt-feat-Gender.html) – [Gender[psor]](cs_pdt-feat-Gender-psor.html) – [Hyph](cs_pdt-feat-Hyph.html) – [Mood](cs_pdt-feat-Mood.html) – [NameType](cs_pdt-feat-NameType.html) – [Number](cs_pdt-feat-Number.html) – [Number[psor]](cs_pdt-feat-Number-psor.html) – [NumForm](cs_pdt-feat-NumForm.html) – [NumType](cs_pdt-feat-NumType.html) – [NumValue](cs_pdt-feat-NumValue.html) – [Person](cs_pdt-feat-Person.html) – [Polarity](cs_pdt-feat-Polarity.html) – [Poss](cs_pdt-feat-Poss.html) – [PrepCase](cs_pdt-feat-PrepCase.html) – [PronType](cs_pdt-feat-PronType.html) – [Reflex](cs_pdt-feat-Reflex.html) – [Style](cs_pdt-feat-Style.html) – [Tense](cs_pdt-feat-Tense.html) – [Typo](cs_pdt-feat-Typo.html) – [Variant](cs_pdt-feat-Variant.html) – [VerbForm](cs_pdt-feat-VerbForm.html) – [Voice](cs_pdt-feat-Voice.html)
+[Abbr](cs_pdt-feat-Abbr.html) – [AdpType](cs_pdt-feat-AdpType.html) – [Animacy](cs_pdt-feat-Animacy.html) – [Aspect](cs_pdt-feat-Aspect.html) – [Case](cs_pdt-feat-Case.html) – [ConjType](cs_pdt-feat-ConjType.html) – [Degree](cs_pdt-feat-Degree.html) – [Foreign](cs_pdt-feat-Foreign.html) – [Gender](cs_pdt-feat-Gender.html) – [Gender[psor]](cs_pdt-feat-Gender-psor.html) – [Hyph](cs_pdt-feat-Hyph.html) – [Mood](cs_pdt-feat-Mood.html) – [NameType](cs_pdt-feat-NameType.html) – [Number](cs_pdt-feat-Number.html) – [Number[psor]](cs_pdt-feat-Number-psor.html) – [NumForm](cs_pdt-feat-NumForm.html) – [NumType](cs_pdt-feat-NumType.html) – [Person](cs_pdt-feat-Person.html) – [Polarity](cs_pdt-feat-Polarity.html) – [Poss](cs_pdt-feat-Poss.html) – [PrepCase](cs_pdt-feat-PrepCase.html) – [PronType](cs_pdt-feat-PronType.html) – [Reflex](cs_pdt-feat-Reflex.html) – [Style](cs_pdt-feat-Style.html) – [Tense](cs_pdt-feat-Tense.html) – [Typo](cs_pdt-feat-Typo.html) – [Variant](cs_pdt-feat-Variant.html) – [VerbForm](cs_pdt-feat-VerbForm.html) – [Voice](cs_pdt-feat-Voice.html)
 
 ## Relations
 
@@ -1178,18 +1178,6 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       <li>Word
         <ul>
           <li>NUM: tři, dva, dvě, jeden, dvou, čtyři, pět, oba, jedné, šest</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>NumValue</a>
-    <ul>
-      <li>1,2,3
-        <ul>
-          <li>NUM: tři, čtyři, pět, šest, půl, deset, tří, pěti, šesti, dvacet</li>
         </ul>
       </li>
     </ul>

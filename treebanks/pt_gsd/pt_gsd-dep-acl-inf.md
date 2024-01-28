@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-acl.html">acl</a></tt>.
 There are also 1 other language-specific subtypes of `acl`: <tt><a href="pt_gsd-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-61 nodes (0%) are attached to their parents as `acl:inf`.
+52 nodes (0%) are attached to their parents as `acl:inf`.
 
-60 instances of `acl:inf` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.09836065573771.
+51 instances of `acl:inf` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.92307692307692.
 
-The following 4 pairs of parts of speech are connected with `acl:inf`: <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (43; 70% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (8; 13% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (8; 13% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 3% instances).
+The following 3 pairs of parts of speech are connected with `acl:inf`: <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (38; 73% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (8; 15% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (6; 12% instances).
 
 
 ~~~ conllu
@@ -43,12 +43,15 @@ The following 4 pairs of parts of speech are connected with `acl:inf`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 acl:inf	color:blue
-1	Não	não	ADV	ADV	Polarity=Neg	2	advmod	_	_
-2	tenho	ter	VERB	VERB	_	0	root	_	_
-3	nada	_	PRON	PRON	_	2	obj	_	_
-4	a	_	ADP	ADP	_	5	mark	_	_
-5	perder	perder	VERB	VERB	_	3	acl:inf	_	SpaceAfter=No
-6	!	!	PUNCT	.	_	2	punct	_	_
+1	Patrick	_	PROPN	PNOUN	_	2	nsubj	_	_
+2	vê	ver	VERB	VERB	_	0	root	_	_
+3	Sandro	_	PROPN	PNOUN	_	2	obj	_	_
+4	ser	ser	AUX	AUX	_	5	aux:pass	_	_
+5	levado	levar	VERB	VERB	_	3	acl:inf	_	_
+6	por	por	ADP	ADP	_	8	case	_	_
+7	os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
+8	policiais	policial	NOUN	NOUN	_	5	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -59,15 +62,12 @@ The following 4 pairs of parts of speech are connected with `acl:inf`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 acl:inf	color:blue
-1	Patrick	_	PROPN	PNOUN	_	2	nsubj	_	_
-2	vê	ver	VERB	VERB	_	0	root	_	_
-3	Sandro	_	PROPN	PNOUN	_	2	obj	_	_
-4	ser	ser	AUX	AUX	_	5	aux:pass	_	_
-5	levado	levar	VERB	VERB	_	3	acl:inf	_	_
-6	por	por	ADP	ADP	_	8	case	_	_
-7	os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	policiais	policial	NOUN	NOUN	_	5	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	2	punct	_	_
+1	Não	não	ADV	ADV	Polarity=Neg	2	advmod	_	_
+2	tenho	ter	VERB	VERB	_	0	root	_	_
+3	nada	_	PRON	PRON	_	2	obj	_	_
+4	a	_	ADP	ADP	_	5	mark	_	_
+5	perder	perder	VERB	VERB	_	3	acl:inf	_	SpaceAfter=No
+6	!	!	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

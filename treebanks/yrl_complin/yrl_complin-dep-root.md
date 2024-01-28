@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-860 nodes (10%) are attached to their parents as `root`.
+1239 nodes (10%) are attached to their parents as `root`.
 
-860 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.49651162790698.
+1239 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.46973365617433.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (662; 77% instances), -<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (52; 6% instances), -<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (51; 6% instances), -<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (37; 4% instances), -<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (28; 3% instances), -<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (13; 2% instances), -<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (9; 1% instances), -<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (964; 78% instances), -<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (78; 6% instances), -<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (69; 6% instances), -<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (49; 4% instances), -<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (39; 3% instances), -<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (19; 2% instances), -<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (10; 1% instances), -<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), -<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="yrl_complin-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=4:6
 3	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	0	root	_	TokenRange=7:11
 4	upé	upé	ADP	ADP	_	3	case	_	TokenRange=12:15
-5	aikú	ikú	AUX	V	Number=Sing|Person=1|VerbForm=Fin	3	cop	_	SpaceAfter=No|TokenRange=16:20
+5	aikú	ikú	AUX	COP	Number=Sing|Person=1|VerbForm=Fin	3	cop	_	SpaceAfter=No|TokenRange=16:20
 6	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=20:21
 
 ~~~

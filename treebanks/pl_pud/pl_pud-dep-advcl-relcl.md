@@ -31,8 +31,8 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 7	czym	co	PRON	subst:sg:loc:n:ncol	Case=Loc|Gender=Neut|Number=Sing|PronType=Int	8	obl:arg	8:obl:arg	_
 8	świadczy	świadczyć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl:relcl	1:advcl:relcl	_
 9	niekompletność	niekompletność	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	8:nsubj	_
-10	wielu	wiele	DET	num:pl:gen:f:congr	Case=Gen|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	12	det:nummod	12:det:nummod	_
-11	jego	on	PRON	ppron3:sg:gen:m1:ter:akc:npraep	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	12	nmod	12:nmod	_
+10	wielu	wiele	DET	num:pl:gen:f:congr	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	12	det:nummod	12:det:nummod	_
+11	jego	on	PRON	ppron3:sg:gen:m1:ter:akc:npraep	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	12	nmod:poss	12:nmod:poss	_
 12	budowli	budowla	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	9	nmod	9:nmod	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 

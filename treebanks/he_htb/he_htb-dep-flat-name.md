@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hebrew-HTB: Relations: `flat:name`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="he_htb-dep-flat.html">flat</a></tt>.
 
 2683 nodes (2%) are attached to their parents as `flat:name`.
 

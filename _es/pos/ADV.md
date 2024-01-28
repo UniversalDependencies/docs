@@ -36,4 +36,4 @@ form are used as adverbs, such as _hablar <b>alto</b>_ (“speak loudly”) or _
 These are still tagged as [ADJ]() and not `ADV`; note that their adverbial function is captured by the relation
 [advmod]().
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:21 CET -->

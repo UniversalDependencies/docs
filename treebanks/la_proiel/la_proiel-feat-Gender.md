@@ -296,7 +296,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1791; 54%),
 <tt>VERB --[<tt><a href="la_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1320; 59%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (566; 86%),
-<tt>PROPN --[<tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (498; 94%),
+<tt>PROPN --[<tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (502; 94%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (450; 83%),
 <tt>NOUN --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (420; 60%),
 <tt>PROPN --[<tt><a href="la_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (417; 88%),

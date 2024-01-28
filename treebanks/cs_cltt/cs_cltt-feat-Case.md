@@ -139,7 +139,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 68 <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (68; 100%), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (68; 100%), <tt><a href="cs_cltt-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (57; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 66%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_cltt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (68; 100%), <tt><a href="cs_cltt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (68; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 66%).
 
 `NUM` tokens may have the following values of `Case`:
 

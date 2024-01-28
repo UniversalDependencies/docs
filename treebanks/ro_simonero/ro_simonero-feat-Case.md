@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 Some words have combined values of the feature; 2 combinations have been observed: `Acc|Nom`, `Dat|Gen`.
 
-63930 tokens (44%) have a non-empty value of `Case`.
+63929 tokens (44%) have a non-empty value of `Case`.
 9392 types (52%) occur at least once with a non-empty value of `Case`.
 5092 lemmas (48%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (28429; 19% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (20076; 14% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (6828; 5% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (4199; 3% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (4148; 3% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (28429; 19% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (20075; 14% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (6828; 5% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (4199; 3% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (4148; 3% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
 
 ### `NOUN`
 
@@ -36,13 +36,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADP`
 
-20076 <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
+20075 <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_simonero-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (20076; 100%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="ro_simonero-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (20075; 100%).
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Acc` (19775; 99% of non-empty `Case`): <em>de, în, la, cu, din, pentru, prin, pe, dintre, după</em>
+* `Acc` (19774; 99% of non-empty `Case`): <em>de, în, la, cu, din, pentru, prin, pe, dintre, după</em>
 * `Dat` (120; 1% of non-empty `Case`): <em>datorită, conform, potrivit, coform, grație</em>
 * `Gen` (181; 1% of non-empty `Case`): <em>asupra, înaintea, împotriva, deasupra</em>
 * `EMPTY` (3): <em>vs.</em>
@@ -161,9 +161,9 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5529; 54%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2491; 69%),
-<tt>ADP --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (539; 100%),
+<tt>ADP --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (533; 100%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (223; 89%),
-<tt>PRON --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (85; 100%),
+<tt>PRON --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (86; 100%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> PRON</tt> (49; 77%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-case.html">case</a></tt>]--> NOUN</tt> (39; 65%),
 <tt>PRON --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (37; 84%),

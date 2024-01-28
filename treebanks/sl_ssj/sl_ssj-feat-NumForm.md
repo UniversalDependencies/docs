@@ -32,7 +32,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NUM</tt> (410; 97%),
-<tt>NUM --[<tt><a href="sl_ssj-dep-flat.html">flat</a></tt>]--> NUM</tt> (141; 87%),
+<tt>NUM --[<tt><a href="sl_ssj-dep-flat.html">flat</a></tt>]--> NUM</tt> (143; 87%),
 <tt>NUM --[<tt><a href="sl_ssj-dep-list.html">list</a></tt>]--> NUM</tt> (33; 100%),
 <tt>NUM --[<tt><a href="sl_ssj-dep-appos.html">appos</a></tt>]--> NUM</tt> (15; 100%),
 <tt>NUM --[<tt><a href="sl_ssj-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (3; 100%),

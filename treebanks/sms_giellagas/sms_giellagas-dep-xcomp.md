@@ -8,29 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (2%) are attached to their parents as `xcomp`.
+47 nodes (2%) are attached to their parents as `xcomp`.
 
-33 instances of `xcomp` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+34 instances of `xcomp` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.48936170212766.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (22; 48% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (16; 35% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 9% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (23; 49% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (16; 34% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 9% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 xcomp	color:blue
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
-3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
-4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obj	_	GTtags=Sg,Gen
-5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Number=Sing|VerbForm=Vnoun	3	obj	_	GTtags=Sg,Acc
-6	da	da	CCONJ	CC	_	8	cc	_	_
-7	veeiʹn	veiʹnn	NOUN	N	Case=Gen|Number=Sing	8	obj	_	GTtags=Sg,Gen
-8	juukkmõõžž	juukkmõš	NOUN	N	Case=Acc|Number=Sing	5	conj	_	GTtags=Sg,Acc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 xcomp	color:blue
+1	Mutta	mutta	CCONJ	_	_	4	cc	_	GTtags=CC
+2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg1,Nom
+3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
+4	muuʹšt	muʹštted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
+5	mainsted	mainsted	VERB	V	VerbForm=Inf	4	xcomp	_	GTtags=Inf
+6	puârast	puârast	ADV	Adv	_	5	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

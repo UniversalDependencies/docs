@@ -55,9 +55,9 @@ The following 21 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	如果	如果	ADP	IN	_	12	case	_	SpaceAfter=No|Translit=rúguǒ|LTranslit=rúguǒ
 7	每個	每個	DET	DT	_	10	det	_	SpaceAfter=No|Translit=měigè|LTranslit=měigè
 8	標註	標註	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=biāo註|LTranslit=biāo註
-9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+9	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	點	點	NOUN	NN	_	12	nsubj	_	SpaceAfter=No|Translit=diǎn|LTranslit=diǎn
-11	都	都	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+11	都	都	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 12	在	在	VERB	VV	_	26	ccomp	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 13	100	100	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
 14	米	米	NOUN	NNB	_	16	nmod	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
@@ -68,10 +68,10 @@ The following 21 pairs of parts of speech are connected with `csubj`: <tt><a hre
 19	條	條	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=tiáo|LTranslit=tiáo
 20	線	線	NOUN	NN	_	21	nsubj	_	SpaceAfter=No|Translit=xiàn|LTranslit=xiàn
 21	代表	代表	VERB	VV	_	26	csubj	_	SpaceAfter=No|Translit=dàibiǎo|LTranslit=dàibiǎo
-22	的	的	PART	DEC	_	21	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+22	的	的	SCONJ	DEC	_	21	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 23	就是	是	AUX	VC	_	26	cop	_	SpaceAfter=No|Translit=jiùshì|LTranslit=shì
-24	100	100	NUM	CD	NumType=Card	25	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
-25	米	米	NOUN	NNB	_	26	clf	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
+24	100	100	NUM	CD	NumType=Card	26	nummod	_	SpaceAfter=No|Translit=100|LTranslit=100
+25	米	米	NOUN	NNB	_	24	clf	_	SpaceAfter=No|Translit=mǐ|LTranslit=mǐ
 26	海拔	海拔	NOUN	NN	_	4	ccomp	_	SpaceAfter=No|Translit=hǎibá|LTranslit=hǎibá
 27	。	。	PUNCT	.	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
@@ -87,16 +87,16 @@ The following 21 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	直接	直接	ADV	RB	_	3	advmod	_	SpaceAfter=No|Translit=zhíjiē|LTranslit=zhíjiē
 2	結晶	結晶	VERB	VV	_	3	advcl	_	SpaceAfter=No|Translit=jiéjīng|LTranslit=jiéjīng
 3	拆分	拆分	VERB	VV	_	6	csubj	_	SpaceAfter=No|Translit=chāifēn|LTranslit=chāifēn
-4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+4	的	的	SCONJ	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	方法	方法	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=fāngfǎ|LTranslit=fāngfǎ
 6	有	有	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
 7	很大	很大	ADJ	JJ	_	10	amod	_	SpaceAfter=No|Translit=hěndà|LTranslit=hěndà
-8	的	的	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+8	的	的	SCONJ	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 9	局限	局限	VERB	VV	_	10	compound	_	SpaceAfter=No|Translit=júxiàn|LTranslit=júxiàn
 10	性	性	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=xìng|LTranslit=xìng
 11	，	，	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 12	操作	操作	VERB	VV	_	15	csubj	_	SpaceAfter=No|Translit=cāozuò|LTranslit=cāozuò
-13	也	也	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+13	也	也	SCONJ	RB	_	15	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 14	比較	比較	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=bǐjiào|LTranslit=bǐjiào
 15	繁瑣	繁瑣	ADJ	JJ	_	6	parataxis	_	SpaceAfter=No|Translit=fánsuǒ|LTranslit=fánsuǒ
 16	。	。	PUNCT	.	_	6	punct	_	SpaceAfter=No|Translit=.|LTranslit=.

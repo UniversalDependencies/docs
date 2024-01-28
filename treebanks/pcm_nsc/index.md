@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Emmett Strickland, Marine Courtin, Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Chika Kennedy Ajede, Emeka Onwuegbuzia, Samson Tella.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 ## Features
 
-[Aspect](pcm_nsc-feat-Aspect.html) – [Case](pcm_nsc-feat-Case.html) – [Definite](pcm_nsc-feat-Definite.html) – [Degree](pcm_nsc-feat-Degree.html) – [Gender](pcm_nsc-feat-Gender.html) – [Mood](pcm_nsc-feat-Mood.html) – [Number](pcm_nsc-feat-Number.html) – [NumType](pcm_nsc-feat-NumType.html) – [PartType](pcm_nsc-feat-PartType.html) – [Person](pcm_nsc-feat-Person.html) – [Polarity](pcm_nsc-feat-Polarity.html) – [Poss](pcm_nsc-feat-Poss.html) – [PronType](pcm_nsc-feat-PronType.html) – [Reflex](pcm_nsc-feat-Reflex.html) – [Tense](pcm_nsc-feat-Tense.html) – [VerbForm](pcm_nsc-feat-VerbForm.html) – [VerbType](pcm_nsc-feat-VerbType.html) – [Voice](pcm_nsc-feat-Voice.html)
+[Aspect](pcm_nsc-feat-Aspect.html) – [Case](pcm_nsc-feat-Case.html) – [Definite](pcm_nsc-feat-Definite.html) – [Degree](pcm_nsc-feat-Degree.html) – [ExtPos](pcm_nsc-feat-ExtPos.html) – [Gender](pcm_nsc-feat-Gender.html) – [Mood](pcm_nsc-feat-Mood.html) – [Number](pcm_nsc-feat-Number.html) – [NumType](pcm_nsc-feat-NumType.html) – [PartType](pcm_nsc-feat-PartType.html) – [Person](pcm_nsc-feat-Person.html) – [Polarity](pcm_nsc-feat-Polarity.html) – [Poss](pcm_nsc-feat-Poss.html) – [PronType](pcm_nsc-feat-PronType.html) – [Reflex](pcm_nsc-feat-Reflex.html) – [Tense](pcm_nsc-feat-Tense.html) – [VerbForm](pcm_nsc-feat-VerbForm.html) – [VerbType](pcm_nsc-feat-VerbType.html) – [Voice](pcm_nsc-feat-Voice.html)
 
 ## Relations
 
@@ -252,7 +252,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: Champions', childs, guy, guy's, people's</li>
+      <li>NOUN: childs, guy, guy's, people's, Champions'</li>
       <li>PROPN: Africa's, God's, John's, Momo's, Zimbabwe's</li>
     </ul>
   </li>
@@ -624,6 +624,94 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: empty</li>
+          <li>AUX: no</li>
+          <li>VERB: clean</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADJ: close, more, due</li>
+          <li>ADP: on, for, as, up, out, inside, at, based</li>
+          <li>ADV: apart, instead</li>
+          <li>CCONJ: plus</li>
+          <li>NOUN: sake, courtesy</li>
+          <li>SCONJ: because, cause</li>
+          <li>VERB: base, according, based</li>
+          <li>VERB-Part: according, based</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: first, later</li>
+          <li>ADP: at, in, of, as</li>
+          <li>ADV: how</li>
+          <li>AUX: may</li>
+          <li>CCONJ: and</li>
+          <li>NOUN: step, upside</li>
+          <li>VERB: tay</li>
+          <li>X: per</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: and, but</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>AUX: na</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>ADP: by</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>AUX: na</li>
+        </ul>
+      </li>
+      <li>PROPN
+        <ul>
+          <li>ADJ: Federal, New, National, Cool, South, Nigerian, African, Big, Central, Good</li>
+          <li>ADP: On</li>
+          <li>ADV: All</li>
+          <li>INTJ: OK</li>
+          <li>NOUN: Port, Bronze, Minister, Radio, chief, Committee, General, House, Ministry, Senate</li>
+          <li>PRON: We</li>
+          <li>PROPN: Delta, Wazobia, Lagos, Nigeria, Edo, Bayelsa, Manchester, Osun, Etsako, Imo</li>
+          <li>X: Boko, Copa, Cup, La</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: like, as, in, of, unto, for, from, instead, on, upon</li>
+          <li>ADV: so, instead, apart, as, far</li>
+          <li>AUX: na, be</li>
+          <li>NOUN: sake</li>
+          <li>SCONJ: wey, so, because, if, dough, sey</li>
+          <li>VERB: base, following</li>
+          <li>VERB-Part: following</li>
+        </ul>
+      </li>
+      <li>VERB
+        <ul>
+          <li>ADJ: good, plenty, sweet, ready, cost, fine, thick, sick, big, hard</li>
+          <li>NOUN: dust</li>
+          <li>VERB: kick</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>PartType</a>

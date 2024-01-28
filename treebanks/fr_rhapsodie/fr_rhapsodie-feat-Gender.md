@@ -10,15 +10,15 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
 12434 tokens (28%) have a non-empty value of `Gender`.
-2698 types (59%) occur at least once with a non-empty value of `Gender`.
-2221 lemmas (65%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5092; 12% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (2842; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (2395; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1277; 3% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (715; 2% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (69; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (44; 0% instances).
+2697 types (59%) occur at least once with a non-empty value of `Gender`.
+2220 lemmas (65%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 7 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5092; 12% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (2843; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (2394; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1277; 3% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (715; 2% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (69; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (44; 0% instances).
 
 ### `NOUN`
 
 5092 <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3979; 78%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3980; 78%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
@@ -36,13 +36,13 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-2842 <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Gender`.
+2843 <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> tokens (64% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2828; 100%), <tt><a href="fr_rhapsodie-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2523; 89%), <tt><a href="fr_rhapsodie-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1756; 62%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2829; 100%), <tt><a href="fr_rhapsodie-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2523; 89%), <tt><a href="fr_rhapsodie-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1756; 62%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1241; 44% of non-empty `Gender`): <em>la, une, cette, sa, ma, toute, aucune, quelle, certaines, ta</em>
+* `Fem` (1242; 44% of non-empty `Gender`): <em>la, une, cette, sa, ma, toute, aucune, quelle, certaines, ta</em>
 * `Masc` (1601; 56% of non-empty `Gender`): <em>le, un, ce, cet, du, aucun, quel, certains, tel, tous</em>
 * `EMPTY` (1629): <em>les, l', des, mon, votre, son, notre, ces, ses, quelque</em>
 
@@ -53,20 +53,20 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `PRON`
 
-2395 <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Gender`.
+2394 <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (2369; 99%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2211; 92%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=3</tt> (2346; 98%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2209; 92%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (134; 6% of non-empty `Gender`): <em>elle, elles, une, la, celle, laquelle, celles, chacune, aucune, autre</em>
-* `Masc` (2261; 94% of non-empty `Gender`): <em>c', il, on, ça, ils, ce, le, -ce, lui, rien</em>
-* `EMPTY` (2966): <em>je, qui, vous, y, j', nous, se, tu, que, me</em>
+* `Fem` (132; 6% of non-empty `Gender`): <em>elle, elles, une, la, celle, laquelle, celles, chacune, aucune, elle-même</em>
+* `Masc` (2262; 94% of non-empty `Gender`): <em>c', il, on, ça, ils, ce, le, -ce, lui, rien</em>
+* `EMPTY` (2962): <em>je, qui, vous, y, j', nous, se, tu, que, me</em>
 
 <table>
-  <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>il, -il, -t-il</em></td><td><em>elle</em></td></tr>
-  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ils, -ils</em></td><td><em>elles</em></td></tr>
+  <tr><th>Paradigm <i>lui</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td><em>il</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>il, le, lui, -il, -t-il</em></td><td><em>elle, la</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -77,9 +77,9 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (510; 40% of non-empty `Gender`): <em>grande, petite, magique, bonne, autre, toutes, première, toute, seule, certaine</em>
-* `Masc` (767; 60% of non-empty `Gender`): <em>petit, tous, tout, vrai, droit, français, premier, sûr, bon, gros</em>
-* `EMPTY` (295): <em>jeune, même, difficile, tout, propre, deuxième, facile, jeunes, grave, incroyable</em>
+* `Fem` (511; 40% of non-empty `Gender`): <em>grande, petite, magique, autre, bonne, toutes, première, toute, seule, certaine</em>
+* `Masc` (766; 60% of non-empty `Gender`): <em>petit, tous, tout, vrai, droit, français, premier, sûr, bon, gros</em>
+* `EMPTY` (296): <em>jeune, même, difficile, tout, propre, deuxième, facile, jeunes, grave, incroyable</em>
 
 <table>
   <tr><th>Paradigm <i>tout</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -135,7 +135,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> NOUN</tt> (150; 60%),
 <tt>ADJ --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (97; 51%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (92; 69%),
-<tt>DET --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (80; 75%),
+<tt>DET --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (81; 75%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-appos.html">appos</a></tt>]--> NOUN</tt> (55; 79%),
 <tt>ADJ --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (37; 82%),
 <tt>PRON --[<tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (36; 90%),

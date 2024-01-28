@@ -22,4 +22,4 @@ Note that there is no `No` value. If the word is not connegative, the
 * [et] _ei <b>tea</b>_ "I don't <b>know</b>"
 * [et] _ära <b>mängi</b>!_ "Don't <b>play</b>!"
 * [et] _ta ei <b>loe</b> ega <b>kirjuta</b>_ "He doesn't <b>read</b> or <b>write</b>" 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:34 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:39 CET -->

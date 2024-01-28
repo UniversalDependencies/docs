@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>BİR</em> (<tt><a href="tr_tourism-po
 
 
 * <em>BİR</em>
-  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1903: <em>TEMİZ <b>BİR</b> TESİSTİ , PERSONEL .</em>
+  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 1903: <em>TEMİZ <b>BİR</b> TESİSTİ PERSONEL .</em>
   * <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> 22: <em>SADECE <b>BİR</b> DEFA GÖRDÜM .</em>
   * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 11: <em><b>BİR</b> DAHA GİTMEYİ ASLA DÜŞÜNMÜYORUM VE KİMSEYE DE TAVSİYE ETMİYORUM .</em>
   * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3: <em>HAVLU ÇARŞAF 3 GÜNDE <b>BİR</b> DEĞİŞTİRİLDİ .</em>
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>BİR</em> (<tt><a href="tr_tourism-po
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.196429 (the average of all parts of speech is 1.824721).
+The form / lemma ratio of `NUM` is 1.196429 (the average of all parts of speech is 1.825646).
 
 The 1st highest number of forms (3) was observed with the lemma “5”: <em>05., 5, 5.</em>.
 
@@ -67,15 +67,15 @@ Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="tr_to
 
 622 (79%) `NUM` nodes are leaves.
 
-140 (18%) `NUM` nodes have one child.
+139 (18%) `NUM` nodes have one child.
 
 17 (2%) `NUM` nodes have two children.
 
-5 (1%) `NUM` nodes have three or more children.
+6 (1%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 4.
 
-Children of `NUM` nodes are attached using 18 different relations: <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (48; 25% instances), <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (25; 13% instances), <tt><a href="tr_tourism-dep-punct.html">punct</a></tt> (24; 13% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (21; 11% instances), <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (20; 11% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (14; 7% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (7; 4% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (4; 2% instances), <tt><a href="tr_tourism-dep-aux.html">aux</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-goeswith.html">goeswith</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="tr_tourism-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 18 different relations: <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (48; 25% instances), <tt><a href="tr_tourism-dep-punct.html">punct</a></tt> (26; 14% instances), <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (25; 13% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (21; 11% instances), <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (20; 10% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (14; 7% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (7; 4% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (6; 3% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (4; 2% instances), <tt><a href="tr_tourism-dep-aux.html">aux</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-goeswith.html">goeswith</a></tt> (3; 2% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="tr_tourism-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (49; 26% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (44; 23% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (42; 22% instances), <tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (24; 13% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (19; 10% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 10 different parts of speech: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (49; 26% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (44; 23% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (42; 22% instances), <tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (26; 14% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (19; 10% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt> (3; 2% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

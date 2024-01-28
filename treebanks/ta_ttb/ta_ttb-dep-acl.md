@@ -41,13 +41,13 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4 2 acl	color:blue
 1	தற்கொலை	தற்கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	2	obj	2:obj	Translit=tarkolai|LTranslit=tarkolai
 2	செய்து	செய்	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	4	acl	4:acl	Translit=ceytu|LTranslit=cey
-3	கொண்டதற்க்	கொள்	AUX	VZDD3SNAA	Case=Dat|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	2	aux	2:aux	Translit=koṇṭatark|LTranslit=koḷ
-4	ஆன	ஆன	PART	Tg-------	_	5	nmod	5:nmod	Translit=āna|LTranslit=āna
+3	கொண்டதற்க்	கொள்	AUX	VZDD3SNAA	Case=Dat|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	2	aux	2:aux	LTranslit=koḷ|Translit=koṇṭatark
+4	ஆன	ஆன	PART	Tg-------	_	5	nmod	5:nmod	LTranslit=āna|Translit=āna
 5	காரணம்	காரணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	obj	8:obj	Translit=kāraṇam|LTranslit=kāraṇam
 6	எதுவும்	எது	PRON	RBN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Ind	5	nmod	5:nmod:nom	Translit=etuvum|LTranslit=etu
 7	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	8	nsubj	8:nsubj	Translit=avar|LTranslit=avar
-8	எழுதிவைக்கவ்	எழுதிவை	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=elutivaikkav|LTranslit=elutivai
-9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	Translit=illai|LTranslit=il
+8	எழுதிவைக்கவ்	எழுதிவை	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	LTranslit=elutivai|Translit=elutivaikkav
+9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	LTranslit=il|Translit=illai
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 ~~~
@@ -72,8 +72,8 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 11	போது	போது	PART	Tn-------	_	10	mark	10:mark	Translit=pōtu|LTranslit=pōtu
 12	பல்வேறு	பல்வேறு	ADJ	JJ-------	_	13	amod	13:amod	Translit=palvēru|LTranslit=palvēru
 13	மோசடிகள்	மோசடி	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	14	obj	14:obj	Translit=mōcaṭikaḷ|LTranslit=mōcaṭi
-14	செய்தத்	செய்	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	17	ccomp	17:ccomp	Translit=ceytat|LTranslit=cey
-15	ஆக	ஆக	PART	Tg-------	_	14	mark	14:mark	Translit=āka|LTranslit=āka
+14	செய்தத்	செய்	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	17	ccomp	17:ccomp	LTranslit=cey|Translit=ceytat
+15	ஆக	ஆக	PART	Tg-------	_	14	mark	14:mark	LTranslit=āka|Translit=āka
 16	புகார்	புகார்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nsubj	17:nsubj	Translit=pukār|LTranslit=pukār
 17	எழுந்தன	எழு	VERB	Vr-D3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=eluntana|LTranslit=elu
 18	.	.	PUNCT	Z#-------	PunctType=Peri	17	punct	17:punct	Translit=.|LTranslit=.

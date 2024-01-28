@@ -18,17 +18,17 @@ The following 4 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod:tmod	color:blue
-1	Mâiʹd	mâiʹd	PRON	Pron	Case=Acc|PronType=Int	2	obj	_	GTtags=Interr,Acc
-2	joordak	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg2
-3	što	što	SCONJ	CS	_	5	mark	_	_
-4	kuäʹss	kuäʹss	ADV	Adv	_	5	advmod:tmod	_	_
-5	piâzzčiǩ	piâssâd	VERB	V	Mood=Cnd|Number=Sing|Person=2	2	xcomp	_	GTtags=Cond,Sg2|SpaceAfter=No
-6	?	?	PUNCT	CLB	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod:tmod	color:blue
+1	teʹl	teʹl	ADV	Adv	_	2	advmod:tmod	_	_
+2	piʹjje	piijjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
+3	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	4	nummod	_	GTtags=Sg,Nom
+4	ekka	eeʹǩǩ	NOUN	N	Case=Ill|Number=Sing	2	obl:tmod	_	GTtags=Sg,Ill
+5	sluužba	sluuʹžb	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

@@ -23,4 +23,4 @@ The word "ein-" is also marked as nummod when it denotes the number one instead 
 Ich komme in einer Stunde . \n I will come in one hour .
 nummod(Stunde, einer)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:24 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:12 CET -->

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-463 tokens (0%) have a non-empty value of `Hyph`.
-33 types (0%) occur at least once with a non-empty value of `Hyph`.
-13 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (443; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
+464 tokens (0%) have a non-empty value of `Hyph`.
+34 types (0%) occur at least once with a non-empty value of `Hyph`.
+14 lemmas (0%) occur at least once with a non-empty value of `Hyph`.
+The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (443; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
@@ -36,11 +36,13 @@ The most frequent other feature values with which `X` and `Hyph` co-occurred: <t
 
 ### `ADJ`
 
-9 <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
+10 <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hyw_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `ADJ` and `Hyph` co-occurred: <tt><a href="hyw_armtdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (10; 100%).
 
 `ADJ` tokens may have the following values of `Hyph`:
 
-* `Yes` (9; 100% of non-empty `Hyph`): <em>Խորհրդա, առասպելա, հոգինոց, պատճառա, պրոլետ, օրեայ, Շուէտ, իրանա, ռուսա</em>
+* `Yes` (10; 100% of non-empty `Hyph`): <em>Խորհրդա, առասպելա, հոգինոց, պատճառա, պրոլետ, սոց, օրեայ, Շուէտ, իրանա, ռուսա</em>
+
+`Hyph` seems to be **lexical feature** of `ADJ`. 100% lemmas (10) occur only with one value of `Hyph`.
 

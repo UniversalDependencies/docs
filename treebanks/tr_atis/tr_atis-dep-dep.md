@@ -8,27 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `dep`.
+5 nodes (0%) are attached to their parents as `dep`.
 
-6 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.16666666666667.
+4 instances of `dep` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.8.
 
-The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (5; 83% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 17% instances).
+The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-DET.html">DET</a></tt> (3; 60% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 dep	color:blue
-1	yarın	yarın	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
-2	Kansas'tan	kansas	PROPN	_	Case=Abl|Number=Sing	3	nmod	_	_
-3	Newark'a	newark	PROPN	_	Case=Dat|Number=Sing	6	nmod	_	_
-4	sabah	sabah	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
-5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	dep	_	_
-6	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-7	istiyorum	iste	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 dep	color:blue
+1	11	11	NUM	_	NumType=Card	2	nummod	_	_
+2	Kasım	kasım	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
+3	10'dan	10	NOUN	_	Case=Abl|Number=Sing|Person=3	10	nmod:tmod	_	_
+4	önce	önce	ADP	_	_	3	case	_	_
+5	Boston	boston	PROPN	_	Case=Nom|Number=Sing	6	nmod	_	_
+6	Washington	washington	PROPN	_	Case=Nom|Number=Sing	8	nmod	_	_
+7	DC	dc	PROPN	_	Case=Nom|Number=Sing	6	flat	_	_
+8	arasındaki	ara	ADJ	_	_	10	amod	_	_
+9	tüm	tüm	DET	_	PronType=Art	10	dep	_	_
+10	uçuşlar	uç	NOUN	_	Case=Nom|Number=Plur|Person=3	0	root	_	_
 
 ~~~
 
@@ -50,6 +53,22 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 9	tüm	tüm	DET	_	PronType=Art	10	det	_	_
 10	uçuşları	uç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	11	obj	_	_
 11	göster	göster	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 dep	color:blue
+1	Memphis'ten	memphis	PROPN	_	Case=Abl|Number=Sing	2	nmod	_	_
+2	Tacoma'ya	tacoma	PROPN	_	Case=Dat|Number=Sing	3	obl	_	_
+3	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obj	_	_
+4	bul	bul	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	akşam	akşam	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
+6	yemeği	yemek	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	dep	_	_
 
 ~~~
 

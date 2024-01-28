@@ -13,9 +13,9 @@ The 10 most frequent `INTJ` lemmas: <em>fucking, please, ah, well, oh, okay, so,
 
 The 10 most frequent `INTJ` types:  <em>fucking, please, ah, well, So, oh, okay, uh, Ha, Welcome</em>
 
-The 10 most frequent ambiguous lemmas: <em>please</em> (<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> 1), <em>well</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 27, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 2), <em>so</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 29, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 3), <em>now</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 12, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2), <em>welcome</em> (<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 1), <em>right</em> (<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>please</em> (<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> 1), <em>well</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 27, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 2), <em>so</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 28, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1), <em>now</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 12, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2), <em>welcome</em> (<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 1), <em>right</em> (<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2), <em>So</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 8, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Welcome</em> (<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 1), <em>now</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 9, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 1), <em>right</em> (<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_gentle-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 16, <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2), <em>So</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 7, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1, <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 1), <em>Welcome</em> (<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 1), <em>now</em> (<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 9, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 1), <em>right</em> (<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 5, <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_gentle-pos-X.html">X</a></tt> 1)
 
 
 * <em>well</em>
@@ -23,8 +23,9 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gentle-pos
   * <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> 2: <em>He states he feels <b>well</b> .</em>
   * <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2: <em>If you resolve this issue quickly and efficiently I can guarantee you will not hear from me again ; if you do n't , <b>well</b> , you will be well known to the Citibank customers you are currently in litigation with in a very short amount of time .</em>
 * <em>So</em>
-  * <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 8: <em><b>So</b> that now , to still the beating of my heart , I stood repeating</em>
+  * <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> 7: <em><b>So</b> that now , to still the beating of my heart , I stood repeating</em>
   * <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 3: <em><b>So</b> you will be better off or I will do what ever it takes to have you in jail like me .</em>
+  * <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> 1: <em><b>So</b> that her highborn kinsman came And bore her away from me , To shut her up in a sepulchre In this kingdom by the sea .</em>
   * <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> 1: <em>( conjunctive ) <b>So</b> as to follow in time or sequence something previously mentioned .</em>
 * <em>Welcome</em>
   * <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> 2: <em><b>Welcome</b> to the Techtonica curriculum !</em>
@@ -41,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_gentle-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.144307).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.144106).
 
 The 1st highest number of forms (1) was observed with the lemma “-uːl”: <em>-uːl</em>.
 
@@ -56,7 +57,7 @@ The 3rd highest number of forms (1) was observed with the lemma “ah”: <em>ah
 
 `INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (46; 77% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (10; 17% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (2; 3% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-flat.html">flat</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (27; 45% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (14; 23% instances),  (10; 17% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (4; 7% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (26; 43% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (14; 23% instances),  (10; 17% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (4; 7% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
 40 (67%) `INTJ` nodes are leaves.
 

@@ -269,7 +269,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="el_gud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (604; 65%),
 <tt>VERB --[<tt><a href="el_gud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (544; 66%),
 <tt>VERB --[<tt><a href="el_gud-dep-obj.html">obj</a></tt>]--> PRON</tt> (501; 64%),
-<tt>VERB --[<tt><a href="el_gud-dep-conj.html">conj</a></tt>]--> VERB</tt> (487; 82%),
+<tt>VERB --[<tt><a href="el_gud-dep-conj.html">conj</a></tt>]--> VERB</tt> (488; 82%),
 <tt>VERB --[<tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (395; 94%),
 <tt>NOUN --[<tt><a href="el_gud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (380; 99%),
 <tt>VERB --[<tt><a href="el_gud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (333; 76%),

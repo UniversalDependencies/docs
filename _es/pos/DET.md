@@ -32,3 +32,4 @@ Stressed Possessives: _mío_, _mía_, _míos_, _mías_, "mine", _tuyo_, _tuya_, 
 
 * Stressed possessive: _Esa bicicleta es mía_ "That bicycle is mine."
 
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:24 CET -->

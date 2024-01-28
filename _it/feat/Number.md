@@ -25,4 +25,4 @@ A plural noun denotes several persons, animals or things.
 
 * _case_ "houses", _noi compriamo_ "we buy"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:41 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:53 CET -->

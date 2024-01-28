@@ -175,7 +175,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 56 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (56; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (56; 100%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (56; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (56; 100%), <tt><a href="cs_pdt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (56; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (56; 100%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (56; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (56; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
@@ -196,9 +196,9 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1460; 99%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (509; 68%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (503; 86%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (407; 67%),
+<tt>ADJ --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (410; 67%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (312; 91%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (117; 81%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (117; 80%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> NOUN</tt> (55; 51%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (32; 70%).
 

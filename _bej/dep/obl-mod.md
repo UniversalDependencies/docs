@@ -12,4 +12,4 @@ da / bʔeː =b eːjaː -n =heːb i- ni //
 text_en: Men came to me one day", he said.
 obl:mod(eːjaː, bʔeː) ("come", "day")
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:29 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:20 CET -->

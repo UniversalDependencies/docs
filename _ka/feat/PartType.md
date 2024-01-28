@@ -40,3 +40,4 @@ The `PartType` feature typically applies to [particles](_ka/pos/PART), [pronouns
 #### Examples
 
 * _აკი_ 'but', _მაშ_ 'surely' etc.
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->

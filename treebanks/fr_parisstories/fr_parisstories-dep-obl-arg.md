@@ -28,7 +28,7 @@ The following 27 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
 4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 5	peut-on	peut-on	ADV	_	_	0	root	_	_
-6	se	le	PRON	_	Person=3|PronType=Prs	7	obj	_	_
+6	se	soi	PRON	_	Person=3|PronType=Prs	7	obj	_	_
 7	mettre	mettre	VERB	_	VerbForm=Inf	5	xcomp	_	Subject=SubjRaising
 8	à	à	ADP	_	_	10	case	_	_
 9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -46,12 +46,12 @@ The following 27 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 obl:arg	color:blue
-1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	même	même	ADV	_	_	4	advmod	_	_
 4	plus	plus	ADV	_	_	2	advmod	_	_
 5	de	de	ADP	_	_	6	case	_	_
-6	quoi	quoi	PRON	_	Person=3|PronType=Int	9	obl:arg	_	_
+6	quoi	quoi	PRON	_	PronType=Int	9	obl:arg	_	_
 7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	9	nsubj	_	_
 8	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux:tense	_	_
 9	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	ccomp	_	_
@@ -68,8 +68,8 @@ The following 27 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 6 obl:arg	color:blue
 1	donc	donc	ADV	_	_	4	advmod	_	_
-2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-3	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	_
 4	rapproche	rapprocher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	Sanga	Sanga	PROPN	_	_	4	obl:arg	_	SpaceAfter=No

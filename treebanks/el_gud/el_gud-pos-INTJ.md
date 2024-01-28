@@ -49,7 +49,7 @@ Examples: <em>λοιπόν, Καλέ, Μα, Μπράβο, Καλά, Καλημέ
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="el_gud-dep-discourse.html">discourse</a></tt> (26; 59% instances), <tt><a href="el_gud-dep-root.html">root</a></tt> (7; 16% instances), <tt><a href="el_gud-dep-obj.html">obj</a></tt> (6; 14% instances), <tt><a href="el_gud-dep-fixed.html">fixed</a></tt> (2; 5% instances), <tt><a href="el_gud-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="el_gud-dep-discourse.html">discourse</a></tt> (28; 64% instances), <tt><a href="el_gud-dep-root.html">root</a></tt> (7; 16% instances), <tt><a href="el_gud-dep-obj.html">obj</a></tt> (6; 14% instances), <tt><a href="el_gud-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-dep.html">dep</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
 Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (32; 73% instances),  (7; 16% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

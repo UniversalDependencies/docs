@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (7%) are attached to their parents as `nsubj`.
+26 nodes (6%) are attached to their parents as `nsubj`.
 
 15 instances of `nsubj` (58%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.65384615384615.

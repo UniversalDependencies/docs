@@ -8,50 +8,46 @@ udver: '2'
 
 This relation is universal.
 
-1057 nodes (0%) are attached to their parents as `iobj`.
+1660 nodes (1%) are attached to their parents as `iobj`.
 
-766 instances of `iobj` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.59318826868496.
+1144 instances of `iobj` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.57349397590361.
 
-The following 9 pairs of parts of speech are connected with `iobj`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (590; 56% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (361; 34% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (60; 6% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (25; 2% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (17; 2% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 iobj	color:blue
-1	Osnovni	osnoven	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	NER=O
-2	nasvet	nasvet	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	NER=O|SpaceAfter=No
-3	:	:	PUNCT	Z	_	8	punct	_	NER=O
-4	Nihče	nihče	PRON	Pz-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	8	nsubj	_	NER=O
-5	drug	drug	ADJ	Mlpmsnn	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	4	amod	_	NER=O
-6	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	8	iobj	_	NER=O
-7	ne	ne	PART	Q	Polarity=Neg	8	advmod	_	NER=O
-8	piše	pisati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	NER=O
-9	urnika	urnik	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	8	obj	_	NER=O|SpaceAfter=No
-10	,	,	PUNCT	Z	_	12	punct	_	NER=O
-11	samo	samo	PART	Q	_	12	advmod	_	NER=O
-12	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	parataxis	_	NER=O
-13	sami	sam	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	orphan	_	NER=O|SpaceAfter=No
-14	.	.	PUNCT	Z	_	2	punct	_	NER=O
-
-~~~
+The following 16 pairs of parts of speech are connected with `iobj`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (897; 54% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (526; 32% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (101; 6% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (39; 2% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (33; 2% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (28; 2% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 iobj	color:blue
-1	Posebno	poseben	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	NER=O
-2	skrb	skrb	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	NER=O
-3	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	4	aux	_	NER=O
-4	namenili	nameniti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	NER=O
-5	prehrani	prehrana	NOUN	Ncfsd	Case=Dat|Gender=Fem|Number=Sing	4	iobj	_	NER=O|SpaceAfter=No
-6	.	.	PUNCT	Z	_	4	punct	_	NER=O
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 iobj	color:blue
+1	Za	za	ADP	Sa	Case=Acc	3	case	_	NER=O
+2	to	ta	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	NER=O
+3	pomoč	pomoč	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	NER=O
+4	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	NER=O
+5	jim	on	PRON	Pp3mpd--y	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	8	iobj	_	NER=O
+6	seveda	seveda	PART	Q	_	8	advmod	_	NER=O
+7	tudi	tudi	PART	Q	_	8	advmod	_	NER=O
+8	plačali	plačati	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	NER=O|SpaceAfter=No
+9	.	.	PUNCT	Z	_	8	punct	_	NER=O
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 iobj	color:blue
+1	Poročajte	poročati	VERB	Vmpm2p	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	NER=O
+2	upravitelju	upravitelj	NOUN	Ncmsd	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	NER=O
+3	bazena	bazen	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	NER=O
+4	o	o	ADP	Sl	Case=Loc	6	case	_	NER=O
+5	morebitnih	morebiten	ADJ	Agpfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	NER=O
+6	nevšečnostih	nevšečnost	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	1	obl	_	NER=O|SpaceAfter=No
+7	.	.	PUNCT	Z	_	1	punct	_	NER=O
 
 ~~~
 

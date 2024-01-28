@@ -15,4 +15,4 @@ We annotate converbs affixes into subordinating conjunctions, affixes of the ver
 - Relativizer : _bak tʔi -it <b>=eːt</b> ʔiːbaːb / dh =eː ti- ki i- di eːn //_ a story like that happened to me", he said, they said.
 - Converb affixe: _hoː =b hoːsoː ʃʔag <b>-aː</b> =b =u uː= tak // ʔasal <b>-aː</b> =b iː- kti =jeːb /_ The man was carrying on his shoulder a lamb that he had grilled.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:30 CET -->

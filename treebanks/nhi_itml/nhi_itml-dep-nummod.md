@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	tlen	tleno	PRON	_	_	10	nsubj	10:nsubj	NormalizedForm=tlen|NormalizedLemma=tleno
 7	o	o	AUX	_	_	10	aux	10:aux	NormalizedForm=o|NormalizedLemma=o
 8	ticatcah	catqui	AUX	_	Aspect=Imp|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Past	10	cop	10:cop	NormalizedForm=tikatkah|NormalizedLemma=katki
-9	oc	oc	AUX	_	_	10	aux	10:aux	NormalizedForm=ok|NormalizedLemma=ok
+9	oc	oc	ADV	_	_	10	advmod	10:advmod	NormalizedForm=ok|NormalizedLemma=ok
 10	titzocotzitzin	tzocotzin	ADJ	_	Degree=Dim|Number=Plur	4	acl	4:acl	NormalizedForm=titsokotsitsin|NormalizedLemma=tsokotsin
 
 ~~~

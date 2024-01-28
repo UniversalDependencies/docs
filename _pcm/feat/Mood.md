@@ -78,4 +78,4 @@ The potential mood indicates the ability to carry out an action.
 
 * _why you no <b>fit</b> advise dese children?"._ "Why can't you advise these children?"
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:51 CET -->

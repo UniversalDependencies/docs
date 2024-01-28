@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kazakh-KTB: POS Tags: `X`
 
-There are 68 `X` lemmas (3%), 68 `X` types (1%) and 115 `X` tokens (1%).
+There are 67 `X` lemmas (3%), 67 `X` types (1%) and 114 `X` tokens (1%).
 Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>жүзеге, жұмыс, ие, пайда, іске, қол, ауыл, жауап, назар, өмір</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>жүзеге</em> (<tt><a href="kk_kt
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (1) was observed with the lemma “Біріккен”: <em>Біріккен</em>.
 
@@ -65,11 +65,11 @@ The 3rd highest number of forms (1) was observed with the lemma “Оңтүст�
 
 ## Relations
 
-`X` nodes are attached to their parents using 2 different relations: <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (114; 99% instances), <tt><a href="kk_ktb-dep-flat-name.html">flat:name</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 2 different relations: <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (113; 99% instances), <tt><a href="kk_ktb-dep-flat-name.html">flat:name</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (77; 67% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (16; 14% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (7; 6% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (76; 67% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (16; 14% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (7; 6% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-115 (100%) `X` nodes are leaves.
+114 (100%) `X` nodes are leaves.
 
 The highest child degree of a `X` node is 0.
 

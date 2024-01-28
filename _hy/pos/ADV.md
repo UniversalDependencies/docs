@@ -27,4 +27,4 @@ Note that in Armenian some adverbs inflect for [Degree](). Second degree specifi
 - interrogative adverbs: _որտեղ, ուր, երբ, ինչպես, ինչու, ինչքան, ինչչափ&nbsp;_ “where, where to, when, how, why, how many, how much”
 - demonstrative adverbs: _այստեղ, այնտեղ, այսպես, այնպես, այսքան, այնչափ&nbsp;_ “here, there, this way, that way, this many, so much”
 - indefinite adverbs: _երբևիցե, երբևէ&nbsp;_ “sometime”
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->

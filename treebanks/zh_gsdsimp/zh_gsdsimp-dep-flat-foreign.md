@@ -32,11 +32,11 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 7	游戏	游戏	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=yóuxì|LTranslit=yóuxì
 8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No|Translit=rìběn|LTranslit=rìběn
-10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+10	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 11	知名	知名	ADJ	JJ	_	12	compound	_	SpaceAfter=No|Translit=zhīmíng|LTranslit=zhīmíng
 12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No|Translit=dù|LTranslit=dù
 13	时	时	ADP	IN	_	6	mark	_	SpaceAfter=No|Translit=shí|LTranslit=shí
-14	甚至	甚至	ADV	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
+14	甚至	甚至	SCONJ	RB	_	15	mark	_	SpaceAfter=No|Translit=shénzhì|LTranslit=shénzhì
 15	说	说	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shuō|LTranslit=shuō
 16	“	“	PUNCT	``	_	21	punct	_	SpaceAfter=No|Translit=“|LTranslit=“
 17	四百万	四百万	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=sìbǎiwàn|LTranslit=sìbǎiwàn
@@ -57,10 +57,10 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 17 flat:foreign	color:blue
-1	1961	1961	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=1961|LTranslit=1961
-2	年	年	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
-3	11	11	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
-4	月	月	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	1961	1961	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=1961|LTranslit=1961
+2	年	年	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=nián|LTranslit=nián
+3	11	11	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=11|LTranslit=11
+4	月	月	NOUN	NNB	_	3	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 5	9	9	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=9|LTranslit=9
 6	日	日	NOUN	NNB	_	15	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -100,7 +100,7 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	高达	高达	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No|Translit=gāodá|LTranslit=gāodá
 12	10000	10000	NUM	CD	NumType=Card	11	obj	_	Translit=10000|LTranslit=10000
 13	K	K	X	FW	_	12	flat:foreign	_	SpaceAfter=No|Translit=K|LTranslit=K
-14	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+14	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 15	强烈	强烈	ADJ	JJ	_	17	amod	_	SpaceAfter=No|Translit=qiángliè|LTranslit=qiángliè
 16	恒星	恒星	NOUN	NN	_	17	compound	_	SpaceAfter=No|Translit=héngxīng|LTranslit=héngxīng
 17	风	风	PART	SFN	_	9	obj	_	SpaceAfter=No|Translit=fēng|LTranslit=fēng
@@ -116,7 +116,7 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 27	1千亿	1千亿	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No|Translit=1qiānyì|LTranslit=1qiānyì
 28	公里	公里	NOUN	NNB	_	29	obl	_	SpaceAfter=No|Translit=gōnglǐ|LTranslit=gōnglǐ
 29	高	高	ADJ	JJ	_	31	amod	_	SpaceAfter=No|Translit=gāo|LTranslit=gāo
-30	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+30	的	的	SCONJ	DEC	_	29	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 31	震波	震波	NOUN	NN	_	25	obj	_	SpaceAfter=No|Translit=zhènbō|LTranslit=zhènbō
 32	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

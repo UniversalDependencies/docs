@@ -9,54 +9,54 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-15394 tokens (28%) have a non-empty value of `Definite`.
-122 types (4%) occur at least once with a non-empty value of `Definite`.
-67 lemmas (3%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8326; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7055; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (13; 0% instances).
+15742 tokens (28%) have a non-empty value of `Definite`.
+123 types (4%) occur at least once with a non-empty value of `Definite`.
+68 lemmas (3%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8491; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7237; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (14; 0% instances).
 
 ### `PRON`
 
-8326 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Definite`.
+8491 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8326; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5425; 65%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5255; 63%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8491; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5553; 65%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5374; 63%).
 
 `PRON` tokens may have the following values of `Definite`:
 
-* `Def` (8326; 100% of non-empty `Definite`): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ
-* `EMPTY` (844): ⲡⲉ, ⲛⲓⲙ, ⲟⲩ, ⲧⲉ, ⲡ, ⲛⲉ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲁ
+* `Def` (8491; 100% of non-empty `Definite`): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ
+* `EMPTY` (863): ⲡⲉ, ⲛⲓⲙ, ⲟⲩ, ⲧⲉ, ⲡ, ⲛⲉ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲁ
 
 `Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (45) occur only with one value of `Definite`.
 
 ### `DET`
 
-7055 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
+7237 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5735; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5735; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5690; 81%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5644; 80%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5148; 73%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5882; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5882; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5833; 81%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5799; 80%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5272; 73%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (6127; 87% of non-empty `Definite`): ⲡ, ⲧ, ⲛ, ⲡⲉ, ⲡⲁ, ⲡⲉϥ, ⲛⲉ, ⲧⲉ, ⲡⲁⲓ, ⲛⲉϥ
-* `Ind` (928; 13% of non-empty `Definite`): ⲟⲩ, ϩⲉⲛ, ⲩ
-* `EMPTY` (133): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲙ, ⲛ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ
+* `Def` (6290; 87% of non-empty `Definite`): ⲡ, ⲧ, ⲛ, ⲡⲉ, ⲡⲁ, ⲡⲉϥ, ⲧⲉ, ⲡⲁⲓ, ⲛⲉ, ⲛⲉϥ
+* `Ind` (947; 13% of non-empty `Definite`): ⲟⲩ, ϩⲉⲛ, ⲩ
+* `EMPTY` (138): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲙ, ⲛ, ⲧ, ϩⲛ, ⲑ, ⲛⲉ
 
-`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (21) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (22) occur only with one value of `Definite`.
 
 ### `ADV`
 
-13 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Definite`.
+14 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (13; 100%).
+The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (14; 100%).
 
 `ADV` tokens may have the following values of `Definite`:
 
-* `Def` (13; 100% of non-empty `Definite`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
-* `EMPTY` (2192): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲛ, ⲉϩⲣⲁⲓ, ⲙⲙⲁⲩ, ⲧⲙ, ⲙⲡⲣ
+* `Def` (14; 100% of non-empty `Definite`): ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ
+* `EMPTY` (2247): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>DET --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> DET</tt> (20; 100%),
-<tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (17; 100%),
+<tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (19; 100%),
 <tt>PRON --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 67%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (12; 100%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> DET</tt> (9; 100%),

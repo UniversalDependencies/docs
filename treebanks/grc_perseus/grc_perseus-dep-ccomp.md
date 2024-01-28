@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1383 nodes (1%) are attached to their parents as `ccomp`.
+1384 nodes (1%) are attached to their parents as `ccomp`.
 
 1185 instances of `ccomp` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.95589298626175.
+Average distance between parent and child is 4.95303468208092.
 
-The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1381; 100% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1382; 100% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

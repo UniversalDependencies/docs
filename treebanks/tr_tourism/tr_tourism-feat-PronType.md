@@ -56,7 +56,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Ind` (66; 67% of non-empty `PronType`): <em>HEP</em>
 * `Int` (33; 33% of non-empty `PronType`): <em>NE, NASIL</em>
-* `EMPTY` (7182): <em>ÇOK, OLARAK, DAHA, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE</em>
+* `EMPTY` (7181): <em>ÇOK, OLARAK, DAHA, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE</em>
 
 ### `AUX`
 

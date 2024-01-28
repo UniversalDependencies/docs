@@ -55,20 +55,23 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 orphan	color:blue
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	vueʹsti	vuäʹstted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
-3	aaut	autt	NOUN	N	Case=Acc|Number=Sing	2	obj	_	GTtags=Sg,Acc
-4	da	da	CCONJ	CC	_	6	cc	_	_
-5	väʹst	väʹst	ADV	Adv	_	6	orphan	_	_
-6	viʹlljes	villj	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
-7	pâi	pâi	ADV	Adv	_	6	orphan	_	_
-8	tanccâmvuâjan	tanccâmvuâjan	NOUN	N	Case=Acc|Number=Sing	6	orphan	_	GTtags=Sg,Acc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 orphan	color:blue
+1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg3,Nom
+2	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
+3	pâi	pâi	ADV	Adv	_	4	advmod	_	_
+4	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3,@+FAUXV
+5	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
+6	teärmmaz	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	obl:lmod	_	GTtags=Sg,Nom
+7	årra	årra	ADP	Adp	Case=Ill	6	case	_	GTtags=Ill
+8	di	di	CCONJ	CC	_	9	cc	_	_
+9	tieʹrmes	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom
+10	heäppaž	heävaš	NOUN	N	Case=Gen|Number=Sing	9	orphan	_	GTtags=Sg,Gen
+11	ool	ool	ADP	Po	_	10	case	_	GTtags=<gen>|SpaceAfter=No
+12	...	...	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

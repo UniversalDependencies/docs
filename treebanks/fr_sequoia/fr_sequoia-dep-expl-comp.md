@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	réalisation	réalisation	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
-5	en	en	ADP	_	_	4	advmod	_	ExtPos=ADV|Idiom=Yes
+5	en	en	ADP	_	ExtPos=ADV	4	advmod	_	Idiom=Yes
 6	plus	plus	ADV	_	_	5	fixed	_	InIdiom=Yes
 7	d'	de	ADP	_	_	8	mark	_	SpaceAfter=No
 8	améliorer	améliorer	VERB	_	VerbForm=Inf	4	ccomp	_	Subject=Generic
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 10	dessertes	desserte	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
 11	de	de	ADP	_	_	12	case	_	_
 12	voiries	voirie	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
-13	cela	cela	PRON	_	Number=Sing|PronType=Dem	18	nsubj	_	_
+13	cela	cela	PRON	_	Number=Sing|Person=3|PronType=Dem	18	nsubj	_	_
 14	n'	ne	ADV	_	Polarity=Neg	18	advmod	_	SpaceAfter=No
 15	en	en	PRON	_	Person=3|PronType=Prs	18	expl:comp	_	_
 16	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	18	cop	_	_

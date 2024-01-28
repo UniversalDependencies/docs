@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="ca_ancora-dep-csubj
 2 nodes (0%) are attached to their parents as `csubj:pass`.
 
 2 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 27.
+Average distance between parent and child is 27.5.
 
 The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (2; 100% instances).
 

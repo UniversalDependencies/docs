@@ -102,4 +102,4 @@ punct(passed, .)
 ~~~
 
 We use [obl:agent]() for the agent of a passive verbs. Note, that the `obl` relation is used for the oblique arguments instead of [obj]() (i.e., prepositional objects, in Armenian grammar traditionally called _adpositional indirect objects_.) 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:16 CET -->

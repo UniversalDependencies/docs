@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (5060; 7% of non-empty `Degree`): <em>более, больше, менее, раньше, меньше, дальше, лучше, чаще, позже, выше</em>
 * `Pos` (71241; 93% of non-empty `Degree`): <em>так, уже, можно, еще, как, очень, где, однако, там, сейчас</em>
-* `EMPTY` (284): <em>несмотря, т., д., невзирая, а.к.а.</em>
+* `EMPTY` (286): <em>несмотря, т., д., невзирая, Потому, Прежде, а.к.а.</em>
 
 <table>
   <tr><th>Paradigm <i>много</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>

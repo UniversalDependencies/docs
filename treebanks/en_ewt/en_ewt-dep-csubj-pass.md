@@ -41,7 +41,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 16	must	must	AUX	MD	VerbForm=Fin	18	aux	18:aux	_
 17	sometimes	sometimes	ADV	RB	_	18	advmod	18:advmod	_
 18	lie	lie	VERB	VB	VerbForm=Inf	4	csubj:pass	4:csubj:pass	SpaceAfter=No
-19	,	,	PUNCT	,	_	18	punct	18:punct	_
+19	,	,	PUNCT	,	_	21	punct	21:punct	_
 20	as	as	ADP	IN	_	21	case	21:case	_
 21	part	part	NOUN	NN	Number=Sing	18	obl	18:obl:as	_
 22	of	of	ADP	IN	_	25	case	25:case	_
@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 12 csubj:pass	color:blue
 1	Finally	finally	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
-2	,	,	PUNCT	,	_	6	punct	6:punct	_
+2	,	,	PUNCT	,	_	1	punct	1:punct	_
 3	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	6:expl	_
 4	must	must	AUX	MD	VerbForm=Fin	6	aux	6:aux	_
 5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	6:aux:pass	_
@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 13	to	to	PART	TO	_	14	mark	14:mark	_
 14	work	work	VERB	VB	VerbForm=Inf	12	acl	12:acl:to	_
 15	with	with	ADP	IN	_	14	obl	14:obl	SpaceAfter=No
-16	,	,	PUNCT	,	_	14	punct	14:punct	_
+16	,	,	PUNCT	,	_	21	punct	21:punct	_
 17	because	because	ADP	IN	_	21	case	21:case	_
 18	of	of	ADP	IN	_	17	fixed	17:fixed	_
 19	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	21:nmod:poss	_

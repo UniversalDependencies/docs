@@ -30,8 +30,8 @@ The 1st highest number of forms (87) was observed with the lemma “_”: <em>af
 `VERB` occurs with 22 feature-value pairs: `Aspect=Perf`, `Case=Abl`, `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Pass`
 
 `VERB` occurs with 30 feature combinations.
-The most frequent feature combination is `_` (68 tokens).
-Examples: <em>pesnimu, taçez, etutu, kuvertu, purtiius, zeřef, etatu, persnimu, teřa, afiktu</em>
+The most frequent feature combination is `Mood=Imp|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin` (68 tokens).
+Examples: <em>fetu, feitu, ustentu, ustetu, aitu, sumtu, vetu, enetu, steplatu</em>
 
 
 ## Relations

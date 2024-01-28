@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>тяфтама</em> (<tt><a href="mdf
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.163462 (the average of all parts of speech is 1.535004).
+The form / lemma ratio of `ADJ` is 1.163462 (the average of all parts of speech is 1.540936).
 
 The 1st highest number of forms (3) was observed with the lemma “лямбе”: <em>лямбе, лямболь, лямбот</em>.
 

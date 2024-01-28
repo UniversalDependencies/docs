@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 9 tokens (2%) have a non-empty value of `Poss`.
-4 types (2%) occur at least once with a non-empty value of `Poss`.
+4 types (1%) occur at least once with a non-empty value of `Poss`.
 3 lemmas (1%) occur at least once with a non-empty value of `Poss`.
 The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (9; 2% instances).
 

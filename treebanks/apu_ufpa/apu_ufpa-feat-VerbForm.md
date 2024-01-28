@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Conv` (2; 20% of non-empty `VerbForm`): <em>sikasaaky, Ĩkanapyryãkasaaky</em>
 * `Vnoun` (8; 80% of non-empty `VerbForm`): <em>makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi, nykaminhi</em>
-* `EMPTY` (194): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, apukary, awama, kaiãapukury, kamary</em>
+* `EMPTY` (197): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, kamary, apukary, awama, kaiãapukury</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `VerbForm`.
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (2; 100% of non-empty `VerbForm`): <em>iũkatsupatinhi, ysãkirawatinhi</em>
-* `EMPTY` (282): <em>iãtã, awinhi, ximaky, awiri, aapuku, maky, yky, ywãtãa, kyky, sytu</em>
+* `EMPTY` (285): <em>iãtã, awinhi, ximaky, awiri, aapuku, maky, yky, ywãtãa, kyky, sytu</em>
 
 ## Relations with Agreement in `VerbForm`
 

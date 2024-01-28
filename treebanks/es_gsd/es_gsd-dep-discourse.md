@@ -85,10 +85,10 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	enviando	enviar	VERB	_	VerbForm=Ger	9	acl	_	_
 11	a	a	ADP	_	_	12	case	_	_
 12	Chipre	chipre	PROPN	_	_	10	obl	_	_
-13	40	40	NUM	_	NumType=Card	14	nummod	_	_
+13	40	40	NUM	_	NumForm=Digit|NumType=Card	14	nummod	_	_
 14	navíos	navío	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
 15	y	y	CCONJ	_	_	17	cc	_	_
-16	8.000	8000	NUM	_	NumType=Card	17	nummod	_	_
+16	8.000	8000	NUM	_	NumForm=Digit|NumType=Card	17	nummod	_	_
 17	mercenarios	mercenario	NOUN	_	Gender=Masc|Number=Plur	14	conj	_	_
 18	bajo	bajo	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -102,7 +102,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 27	líder	líder	NOUN	_	Number=Sing	20	conj	_	_
 28	chipriota	chipriota	ADJ	_	Number=Sing	27	amod	_	_
 29	Evágoras	evágoras	NOUN	_	_	27	appos	_	_
-30	II	ii	NUM	_	NumType=Card	29	nummod	_	SpaceAfter=No
+30	II	ii	NUM	_	NumForm=Roman|NumType=Card	29	nummod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

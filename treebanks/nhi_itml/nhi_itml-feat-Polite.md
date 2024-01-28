@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Form`.
 
-26 tokens (0%) have a non-empty value of `Polite`.
-18 types (1%) occur at least once with a non-empty value of `Polite`.
-17 lemmas (1%) occur at least once with a non-empty value of `Polite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (5; 0% instances).
+33 tokens (0%) have a non-empty value of `Polite`.
+25 types (1%) occur at least once with a non-empty value of `Polite`.
+22 lemmas (1%) occur at least once with a non-empty value of `Polite`.
+The feature is used with 3 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (23; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
 ### `VERB`
 
-16 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polite`.
+23 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (14; 88%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (14; 88%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (12; 75%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt> (10; 63%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (21; 91%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (19; 83%), <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 78%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (17; 74%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt> (17; 74%).
 
 `VERB` tokens may have the following values of `Polite`:
 
-* `Form` (16; 100% of non-empty `Polite`): <em>Ixnechonmaka, itconchiuas, itkonkowas, itkonniki, itkonnikis, ixcontlalili, mitzonwikak, nomechonnonots, nomotzonpahpachoz, nomoztonsobaroz</em>
-* `EMPTY` (1742): <em>katki, quihtoh, nauat, yah, mota, katka, niquihtoz, yuwi, nesi, niquihlnamiqui</em>
+* `Form` (23; 100% of non-empty `Polite`): <em>Ixnechonmaka, itconchiuas, itkonkowas, itkonniki, itkonnikis, ittechonmatlanis, ixcontlalili, ixtechonahua, ixtechonmatlani, mitzonwikak</em>
+* `EMPTY` (1753): <em>katki, quihtoh, nauat, yah, mota, katka, niquihtoz, peu, yuwi, nesi</em>
 
-`Polite` seems to be **lexical feature** of `VERB`. 100% lemmas (15) occur only with one value of `Polite`.
+`Polite` seems to be **lexical feature** of `VERB`. 100% lemmas (20) occur only with one value of `Polite`.
 
 ### `NOUN`
 

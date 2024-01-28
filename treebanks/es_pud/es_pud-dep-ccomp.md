@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 12	todavía	todavía	ADV	RB	_	13	advmod	_	_
 13	mejores	_	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
 14	en	en	ADP	IN	_	15	case	_	_
-15	2017	2017	NUM	CD	Gender=Masc|NumType=Card	13	obl	_	SpaceAfter=No
+15	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~

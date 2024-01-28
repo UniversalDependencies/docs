@@ -56,7 +56,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 9	tlen	tlenoh	PRON	_	_	5	appos	5:appos	Orig=tlēn|Gloss=REL~SUB|NormalizedForm=tlen|NormalizedLemma=tlenoh
 10	ya	ya	ADV	_	_	12	advmod	12:advmod	Orig=yōkitlahtlaneh|Gloss=already=PST-3S-3SG.O-require.APPL.PRF|NormalizedForm=ya|NormalizedLemma=ya
 11	o	o	AUX	_	_	12	aux	12:aux	NormalizedForm=o|NormalizedLemma=o
-12	kitlahtlaneh	tlahtlania	VERB	_	_	9	acl:relcl	9:acl:relcl	NormalizedForm=kitlahtlaneh|NormalizedLemma=tlahtlania
+12	kitlahtlaneh	tlahtlania	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	9	acl:relcl	9:acl:relcl	NormalizedForm=kitlahtlaneh|NormalizedLemma=tlahtlania
 13	n	in	DET	_	_	14	det	14:det	Orig=n|Gloss=DEF|NormalizedForm=n|NormalizedLemma=in
 14	ok	ok	ADV	_	_	12	nsubj	12:nsubj	Orig=ok|Gloss=still|NormalizedForm=ok|NormalizedLemma=ok
 15	se	se	DET	_	_	14	fixed	14:fixed	Orig=sē|Gloss=one|NormalizedForm=se|NormalizedLemma=se

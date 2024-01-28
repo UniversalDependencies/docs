@@ -32,4 +32,4 @@ punct(zoaz-2, ,-3)
 advmod(zoaz-2, Nora-1)
 punct(zoaz-2, ?-5)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:28 CET -->

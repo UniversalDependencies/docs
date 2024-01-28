@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-120 nodes (1%) are attached to their parents as `flat`.
+123 nodes (1%) are attached to their parents as `flat`.
 
-120 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.275.
+123 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26829268292683.
 
-The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (38; 32% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (35; 29% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (14; 12% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (14; 12% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (40; 33% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (36; 29% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (14; 11% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (14; 11% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt>-<tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt>-<tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

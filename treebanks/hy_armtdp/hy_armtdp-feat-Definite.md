@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.
 
 13075 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11132; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9958; 76%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11132; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9957; 76%).
 
 `NOUN` tokens may have the following values of `Definite`:
 

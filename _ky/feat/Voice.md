@@ -37,4 +37,4 @@ the verb cannot have a subject.
 * _Бул жерден бирөө жыг<b>ыл</b>ышы мүмкүн._ "One may fall from here" (impersonal, intransitive verb passivized)
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:52 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:13 CET -->

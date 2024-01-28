@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Add`.
 
-276 tokens (1%) have a non-empty value of `Clitic`.
-226 types (3%) occur at least once with a non-empty value of `Clitic`.
-188 lemmas (6%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 11 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (112; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (44; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+278 tokens (1%) have a non-empty value of `Clitic`.
+228 types (3%) occur at least once with a non-empty value of `Clitic`.
+190 lemmas (6%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 11 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (112; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (44; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -62,6 +62,18 @@ The most frequent other feature values with which `PRON` and `Clitic` co-occurre
 
 `Clitic` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Clitic`.
 
+### `PROPN`
+
+16 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Clitic`.
+
+The most frequent other feature values with which `PROPN` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15; 94%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 88%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 88%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 88%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (10; 63%).
+
+`PROPN` tokens may have the following values of `Clitic`:
+
+* `Add` (16; 100% of non-empty `Clitic`): <em>Рамкояк, Бертязгак, Браунгак, Ведеськак, Груняяк, Кечайгак, Кирёяк, Любаяк, Миколгак, Смиткак</em>
+
+`Clitic` seems to be **lexical feature** of `PROPN`. 100% lemmas (14) occur only with one value of `Clitic`.
+
 ### `ADJ`
 
 14 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Clitic`.
@@ -71,18 +83,6 @@ The most frequent other feature values with which `ADJ` and `Clitic` co-occurred
 `ADJ` tokens may have the following values of `Clitic`:
 
 * `Add` (14; 100% of non-empty `Clitic`): <em>арасельгак, араськак, Виевгак, Покштояк, Превеельгак, арасельтькак, беряньгак, достойноентькак, кувакаткак, манейдеяк</em>
-
-### `PROPN`
-
-14 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Clitic`.
-
-The most frequent other feature values with which `PROPN` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (13; 93%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 86%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 86%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (10; 71%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (8; 57%).
-
-`PROPN` tokens may have the following values of `Clitic`:
-
-* `Add` (14; 100% of non-empty `Clitic`): <em>Рамкояк, Бертязгак, Ведеськак, Груняяк, Кечайгак, Кирёяк, Любаяк, Миколгак, Стёпаяк, Цярданевгак</em>
-
-`Clitic` seems to be **lexical feature** of `PROPN`. 100% lemmas (12) occur only with one value of `Clitic`.
 
 ### `ADP`
 

@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>,</em> (<tt><a href="tr_penn-pos-PUNC
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.083333 (the average of all parts of speech is 2.011961).
+The form / lemma ratio of `PUNCT` is 1.083333 (the average of all parts of speech is 2.012465).
 
 The 1st highest number of forms (4) was observed with the lemma “,”: <em>", '', ,, :</em>.
 
@@ -42,7 +42,7 @@ The 3rd highest number of forms (4) was observed with the lemma “.”: <em>", 
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="tr_penn-dep-punct.html">punct</a></tt> (27427; 100% instances)
 
-Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (20623; 75% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (3380; 12% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (1489; 5% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (1265; 5% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (295; 1% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt> (203; 1% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt> (63; 0% instances), <tt><a href="tr_penn-pos-INTJ.html">INTJ</a></tt> (25; 0% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (23; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="tr_penn-pos-X.html">X</a></tt> (15; 0% instances), <tt><a href="tr_penn-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (20621; 75% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (3380; 12% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (1490; 5% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt> (1265; 5% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (295; 1% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt> (203; 1% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt> (63; 0% instances), <tt><a href="tr_penn-pos-INTJ.html">INTJ</a></tt> (25; 0% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (24; 0% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="tr_penn-pos-X.html">X</a></tt> (15; 0% instances), <tt><a href="tr_penn-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances)
 
 27427 (100%) `PUNCT` nodes are leaves.
 

@@ -18,16 +18,19 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 nsubj	color:blue
-1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
-3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 3 2 nsubj	color:blue
+1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
+2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	OrigLang=ru
+3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	таво	таво	ADV	Adv	_	3	advmod:tmod	_	_
+5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+6	районувса	районувса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	OrigLang=ru
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 
@@ -35,16 +38,16 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nsubj	color:blue
-1	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	заводитліс	заводітны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	OrigLang=ru
-3	чӧвтны	чӧвтны	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	куритчӧмсӧ	куритчӧм	NOUN	N	Case=Acc|Number=Sing	3	obj	_	OrigLang=ru
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj	color:blue
+1	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	вочасӧн	вочасӧн	ADV	Adv	Case=Ins	4	advmod	_	_
+3	пыр	пыр	ADV	Adv	_	4	advmod:tmod	_	_
+4	паськаліс	паськавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	да	да	CCONJ	CC	_	6	cc	_	_
-6	юӧмсӧ	юӧм	NOUN	N	Case=Acc|Number=Sing	4	conj	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
+6	лӧзӧдіс	лӧзӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 
@@ -55,11 +58,11 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj	color:blue
-1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	батьӧй	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	OrigLang=ru
-3	тэнад	тэ	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	батьсьыд	бать	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obl	_	OrigLang=ru
-5	бурджык	бур	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	SpaceAfter=No
+1	Кӧть	кӧть	SCONJ	CS	_	5	mark	_	OrigLang=ru
+2	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	_
+3	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	_
+4	зэв	зэв	ADV	Adv	_	5	advmod:deg	_	_
+5	мича	мича	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

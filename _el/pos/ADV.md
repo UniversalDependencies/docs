@@ -43,7 +43,7 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 ### Examples
 -	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edo*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *deksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
--	manner adverbs: *ακριβώς* / *akrivos* ‘precisely’, *γιατί* / *yiati* ‘why’  (when it is on its own/it introduces direct questions), *καλά* / *kala* ‘good/fine’, *κατανάγκη* / *katanagki* ‘necessarily’, *πώς* / *pos* ‘how’, *υπόψη* / *ipopsi* ‘care of’
+-	manner adverbs: *ακριβώς* / *akrivos* ‘precisely’, *γιατί* / *yiati* ‘why’  (when it is on its own/it introduces direct questions), *εντάξει* / *endaksi*, 'right, OK', *καλά* / *kala* ‘good/fine’, *κατανάγκη* / *katanagki* ‘necessarily’, *πώς* / *pos* ‘how’, *υπόψη* / *ipopsi* ‘care of’
 -	temporal adverbs: *αύριο* / *avrio* ‘tomorrow’, *κάποτε* / *kapote* ‘sometime’, *καταρχήν* / *katarchin* ‘first of all’, *πάντα* / *panta* ‘always’, *πέρσυ* / *persi* ‘last year’, *πότε* / *pote* ‘when’, *ποτέ* / *pote* ‘never’, *σήμερα* / *simera* ‘today’, *τότε* / *tote* ‘then’, *τώρα* / *tora* ‘now’, *χθες* / *chthes* ‘yesterday’
 -	quantity adverbs: *άπαξ* / *apaks* ‘once’, *καθόλου* / *katholou* ‘at all’, *λίγο* / *ligo* ‘a little’, *μόνο* / *mono* ‘only’, *τόσο* / *toso* ‘so’
 
@@ -62,4 +62,4 @@ Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of St
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:22 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:21 CET -->

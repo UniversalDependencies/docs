@@ -35,4 +35,4 @@ udver: '2'
 * _китептери_ "their books"
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:45 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:00 CET -->

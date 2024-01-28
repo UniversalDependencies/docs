@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 1	香港	香港	PROPN	NNP	_	3	nmod	_	SpaceAfter=No|Translit=xiānggǎng|LTranslit=xiānggǎng
 2	天文	天文	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=tiānwén|LTranslit=tiānwén
 3	台	台	PART	SFN	_	22	nsubj	_	SpaceAfter=No|Translit=tái|LTranslit=tái
-4	亦	亦	ADV	RB	_	8	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
+4	亦	亦	SCONJ	RB	_	8	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 5	随之	随之	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=suízhī|LTranslit=suízhī
 6	把	把	ADP	BB	_	7	case	_	SpaceAfter=No|Translit=bǎ|LTranslit=bǎ
 7	其	其	PRON	PRP	Person=3	8	obl:patient	_	SpaceAfter=No|Translit=qí|LTranslit=qí
@@ -35,12 +35,12 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 11	热带	热带	NOUN	NN	_	12	nmod	_	SpaceAfter=No|Translit=rèdài|LTranslit=rèdài
 12	风暴	风暴	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=fēngbào|LTranslit=fēngbào
 13	，	，	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-14	并	并	ADV	RB	_	22	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
+14	并	并	SCONJ	RB	_	22	mark	_	SpaceAfter=No|Translit=bìng|LTranslit=bìng
 15	在	在	ADP	IN	_	21	case	_	SpaceAfter=No|Translit=zài|LTranslit=zài
 16	当日	当日	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=dāngrì|LTranslit=dāngrì
 17	晚上	晚上	NOUN	NN	_	21	nmod	_	SpaceAfter=No|Translit=wǎnshàng|LTranslit=wǎnshàng
-18	7	7	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
-19	时	时	NOUN	NNB	_	21	clf	_	SpaceAfter=No|Translit=shí|LTranslit=shí
+18	7	7	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=7|LTranslit=7
+19	时	时	NOUN	NNB	_	18	clf	_	SpaceAfter=No|Translit=shí|LTranslit=shí
 20	15	15	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=15|LTranslit=15
 21	分	分	NOUN	NNB	_	22	obl	_	SpaceAfter=No|Translit=fēn|LTranslit=fēn
 22	发出	发出	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=fāchū|LTranslit=fāchū

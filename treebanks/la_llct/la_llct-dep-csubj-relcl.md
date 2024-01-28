@@ -12,9 +12,9 @@ There are also 1 other language-specific subtypes of `csubj`: <tt><a href="la_ll
 30 nodes (0%) are attached to their parents as `csubj:relcl`.
 
 20 instances of `csubj:relcl` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.7666666666667.
+Average distance between parent and child is 13.3.
 
-The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (18; 60% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (5; 17% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `csubj:relcl`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (18; 60% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (4; 13% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -27,11 +27,11 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 2	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	_
 3	hoc	hic	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	_
 4	facere	facio	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-5	neclexerit	neglego	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	csubj:relcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+5	neclexerit	neglego	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	csubj:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 6	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
 7	Deo	Deus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	10	obl:arg	_	_
-8	se	se	PRON	p|p|3|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	_
-9	sia	sum	AUX	v|v|3|s|p|s|a|-|-|-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+8	se	sui	PRON	p|p|3|s|-|-|-|m|a|-	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	_
+9	sia	sum	AUX	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 10	damnatum	damno	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 11	pro	pro	ADP	r|r|-|-|-|-|-|-|-|-	_	14	case	_	_
 12	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
@@ -45,9 +45,9 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 ~~~ conllu
 # visual-style 75	bgColor:blue
 # visual-style 75	fgColor:white
-# visual-style 72	bgColor:blue
-# visual-style 72	fgColor:white
-# visual-style 72 75 csubj:relcl	color:blue
+# visual-style 68	bgColor:blue
+# visual-style 68	fgColor:white
+# visual-style 68 75 csubj:relcl	color:blue
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	16	cc	_	_
 2	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	16	mark	_	_
 3	quiscunque	quicumque	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	16	nsubj	_	_
@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 13	causare	causor	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 14	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	15	cc	_	_
 15	disrumpere	disrumpo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	11	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-16	presumserit	praesumo	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+16	presumserit	praesumo	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 17	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	19	case	_	_
 18	quolibet	quilibet	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	19	det	_	_
 19	ingenio	ingenium	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
@@ -76,11 +76,11 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 26	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot	30	obl	_	_
 27	sic	sic	ADV	d|d|-|-|-|-|-|-|-|-	_	30	advmod	_	_
 28	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	30	advmod:neg	_	_
-29	permiserit	permitto	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	conj	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+29	permiserit	permitto	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	conj	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 30	permanere	permaneo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	29	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 31	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	33	mark	_	_
-32	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	_
-33	disposui	dispono	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	30	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
+32	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	33	nsubj	_	_
+33	disposui	dispono	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	30	advcl:cmp	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 34	,	,	PUNCT	Punc	_	35	punct	_	_
 35	conponat	compono	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 36	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	37	nmod	_	_
@@ -89,7 +89,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 39	,	,	PUNCT	Punc	_	42	punct	_	_
 40	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	42	nsubj	_	_
 41	temerator	temerator	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	42	xcomp	_	_
-42	existeris	exsisto	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	37	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+42	existeris	exsisto	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	37	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 43	hoc	hic	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	44	obj	_	_
 44	faciendo	facio	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	42	advcl	_	TraditionalMood=Gerundium
 45	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	48	case	_	_
@@ -115,14 +115,14 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 65	sub	sub	ADP	r|r|-|-|-|-|-|-|-|-	_	66	case	_	_
 66	extimationem	aestimatio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	35	obl	_	_
 67	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	68	case	_	_
-68	quibus	qui	PRON	p|p|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Rel	72	obl	_	_
+68	quibus	qui	PRON	p|p|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Rel	66	acl:relcl	_	_
 69	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	70	cc	_	_
 70	quales	qualis	DET	a|a|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	68	conj	_	_
-71	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	_	72	advmod	_	_
-72	fuerint	sum	AUX	v|v|3|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	66	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+71	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	68	advmod:tmod	_	_
+72	fuerint	sum	AUX	v|v|3|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	68	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 73	,	,	PUNCT	Punc	_	75	punct	_	_
 74	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	75	advmod:lmod	_	_
-75	agitur	ago	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	72	csubj:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+75	agitur	ago	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	68	csubj:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 76	.	.	PUNCT	Punc	_	16	punct	_	_
 
 ~~~
@@ -136,7 +136,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 # visual-style 68 72 csubj:relcl	color:blue
 1	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	2	advmod:lmod	_	_
 2	repromitto	repromitto	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	det	_	_
+3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	det	_	_
 4	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
 5	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	4	fixed	_	_
 6	Teudiprando	Teudiprandus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
@@ -157,15 +157,15 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 21	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	46	mark	_	SpaceAfter=No
 22	,	,	PUNCT	Punc	_	21	punct	_	_
 23	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	30	mark	_	_
-24	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	30	nsubj	_	_
+24	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Number=Plur|Person=1|PronType=Prs	30	nsubj	_	_
 25	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	30	obl:arg	_	_
 26	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	_
 27	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	30	obj	_	_
 28	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	29	cc	_	_
 29	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	27	conj	_	_
-30	intentionaverimus	intentiono	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	46	advcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+30	intentionaverimus	intentiono	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	46	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 31	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	32	cc	_	_
-32	subtraxerimus	subtraho	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	30	conj	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+32	subtraxerimus	subtraho	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	30	conj	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 33	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	35	case	_	_
 34	quolibet	quilibet	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	35	det	_	_
 35	ingenium	ingenium	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	30	obl	_	_
@@ -177,7 +177,7 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 41	homine	homo	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	42	obl	_	_
 42	defendere	defendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	44	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 43	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	44	advmod:neg	_	_
-44	potuerimus	possum	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	30	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+44	potuerimus	possum	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	30	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 45	,	,	PUNCT	Punc	_	30	punct	_	_
 46	spondeo	spondeo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 47	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	48	case	_	_
@@ -202,8 +202,8 @@ The following 6 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 66	sub	sub	ADP	r|r|-|-|-|-|-|-|-|-	_	67	case	_	_
 67	estimatione	aestimatio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	54	obl	_	_
 68	quales	qualis	DET	a|a|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	67	acl:relcl	_	_
-69	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	_	68	advmod	_	_
-70	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	68	cop	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+69	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	68	advmod:tmod	_	_
+70	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	68	cop	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 71	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	72	advmod:lmod	_	_
 72	agitur	ago	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	68	csubj:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 73	.	.	PUNCT	Punc	_	2	punct	_	_

@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>[--]</em> (<tt><a href="la_llct-pos-X
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.623697).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.623423).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>[--]</em>.
 
@@ -36,11 +36,11 @@ The 1st highest number of forms (1) was observed with the lemma “_”: <em>[--
 
 `X` nodes are attached to their parents using 2 different relations: <tt><a href="la_llct-dep-dep.html">dep</a></tt> (186; 99% instances), <tt><a href="la_llct-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (55; 29% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (54; 29% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (25; 13% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (13; 7% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (13; 7% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (12; 6% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (57; 30% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (55; 29% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (25; 13% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (13; 7% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (13; 7% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (12; 6% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances)
 
-186 (99%) `X` nodes are leaves.
+182 (97%) `X` nodes are leaves.
 
-0 (0%) `X` nodes have one child.
+4 (2%) `X` nodes have one child.
 
 0 (0%) `X` nodes have two children.
 
@@ -48,7 +48,7 @@ Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="la_llc
 
 The highest child degree of a `X` node is 6.
 
-Children of `X` nodes are attached using 2 different relations: <tt><a href="la_llct-dep-orphan-missing.html">orphan:missing</a></tt> (5; 83% instances), <tt><a href="la_llct-dep-punct.html">punct</a></tt> (1; 17% instances)
+Children of `X` nodes are attached using 2 different relations: <tt><a href="la_llct-dep-orphan-missing.html">orphan:missing</a></tt> (5; 50% instances), <tt><a href="la_llct-dep-punct.html">punct</a></tt> (5; 50% instances)
 
-Children of `X` nodes belong to 5 different parts of speech: <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (2; 33% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="la_llct-pos-PUNCT.html">PUNCT</a></tt> (1; 17% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1; 17% instances)
+Children of `X` nodes belong to 5 different parts of speech: <tt><a href="la_llct-pos-PUNCT.html">PUNCT</a></tt> (5; 50% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (2; 20% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1; 10% instances)
 

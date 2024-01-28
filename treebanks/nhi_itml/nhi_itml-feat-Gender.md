@@ -7,12 +7,26 @@ udver: '2'
 ## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Features: `Gender`
 
 This feature is universal.
-It occurs with 1 different values: `Masc`.
+It occurs with 2 different values: `Fem`, `Masc`.
 
-9 tokens (0%) have a non-empty value of `Gender`.
-6 types (0%) occur at least once with a non-empty value of `Gender`.
-5 lemmas (0%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 4 part-of-speech tags: <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+119 tokens (1%) have a non-empty value of `Gender`.
+95 types (4%) occur at least once with a non-empty value of `Gender`.
+94 lemmas (6%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 4 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (113; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+### `NOUN`
+
+113 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (113; 100%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (113; 100%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (113; 100%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (109; 96%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (109; 96%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (81; 72%).
+
+`NOUN` tokens may have the following values of `Gender`:
+
+* `Fem` (33; 29% of non-empty `Gender`): <em>figuras, costumbre, alfalfa, arpas, artesaniaj, barnis, bola, cajitas, col, cuerdas</em>
+* `Masc` (80; 71% of non-empty `Gender`): <em>burro, Rancho, karroh, libroh, mexicanos, pajaro, cristeros, dólar, mar, Dios</em>
+* `EMPTY` (1364): <em>ich, itich, atl, ica, ika, itzcuintli, pueblo, telpukatl, topueblo, tonal</em>
+
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (90) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -24,17 +38,6 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Masc` (3; 100% of non-empty `Gender`): <em>mexicano, chistoso</em>
 * `EMPTY` (133): <em>cualli, kwale, kwaltsih, weyi, igual, kwali, Nuevo, atrasado, chihchikichih, chikawak</em>
-
-### `NOUN`
-
-3 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (3; 100%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 100%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 100%).
-
-`NOUN` tokens may have the following values of `Gender`:
-
-* `Masc` (3; 100% of non-empty `Gender`): <em>mexicanos</em>
-* `EMPTY` (1474): <em>ich, itich, atl, ica, ika, itzcuintli, pueblo, telpukatl, topueblo, tonal</em>
 
 ### `PROPN`
 

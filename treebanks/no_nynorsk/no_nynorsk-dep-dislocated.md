@@ -50,7 +50,7 @@ The following 26 pairs of parts of speech are connected with `dislocated`: <tt><
 6	-	$-	PUNCT	<strek>	_	5	punct	_	_
 7	eg	eg	PRON	pron	Animacy=Hum|Case=Nom|Person=1|PronType=Prs	8	dislocated	_	_
 8	synest	synast	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	ikkje	ikkje	ADV	adv	_	8	advmod	_	_
+9	ikkje	ikkje	PART	adv	Polarity=Neg	8	advmod	_	_
 10	du	du	PRON	pron	Animacy=Hum|Case=Nom|Person=2|PronType=Prs	11	nsubj	_	_
 11	burde	burde	VERB	verb	Mood=Ind|Tense=Past|VerbForm=Fin	8	ccomp	_	SpaceAfter=No
 12	.	$.	PUNCT	clb	_	8	punct	_	SpaceAfter=No

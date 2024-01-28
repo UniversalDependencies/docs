@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 8	Grã	Grã	PROPN	NNP	Gender=Fem|Number=Sing	5	obl	_	_
 9	Bretanha	_	X	GW	_	8	compound	_	Proper=True
 10	de	de	ADP	INDT	_	5	case	_	_
-11	o	o	DET	_	Gender=Masc|Number=Sing	5	det	_	_
+11	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 12	que	_	ADP	IN	_	16	case	_	ToDo=ex-adp-child
 13	em	em	ADP	IN	_	16	case	_	_
 14	qualquer	_	DET	PDT	Gender=Masc|Number=Sing	16	det	_	_
@@ -78,10 +78,10 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
 2	Dupla	dupla	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	fez	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	uma	um	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	pegadinha	_	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	a	a	ADP	INDT	_	8	case	_	_
-7	o	o	DET	_	Gender=Masc|Number=Sing	8	det	_	_
+7	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	entrar	_	VERB	VB	_	3	xcomp	_	_
 9	em	em	ADP	INDT	_	11	case	_	_
 10	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_

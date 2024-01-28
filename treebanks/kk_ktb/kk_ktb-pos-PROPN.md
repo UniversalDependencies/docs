@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Темір</em> (<tt><a href="kk_ktb-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.301370 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `PROPN` is 1.301370 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (7) was observed with the lemma “Қазақстан”: <em>Қазақстан, Қазақстанда, Қазақстандағы, Қазақстанды, Қазақстанмен, Қазақстанның, Қазақстанға</em>.
 

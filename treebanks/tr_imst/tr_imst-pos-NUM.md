@@ -19,29 +19,29 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_imst-pos-DE
 
 
 * <em>bir</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 861: <em>Sabahtan beri seni gözetliyorum , hiç <b>bir</b> arabaya yanaşmadın .</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 209: <em>Erik ağaçları ile aralarında <b>bir</b> hendek engeli kalmıştı .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 43: <em>Şu üniversite işini <b>bir</b> türlü oturtamadık .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 861: <em>İçeriye gençten <b>bir</b> erkek girdi .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 209: <em>Kapının kenarında ki duvara dayanıp bize baktı <b>bir</b> an .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 43: <em>Ne kadar ürküt ücü ve <b>bir</b> o kadar da çekici bir yer orası .</em>
 * <em>iki</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 100: <em>Kahvesini hazırlamadan önce son <b>iki</b> cümleyi karaladı .</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 2: <em>Hep o benden <b>iki</b> yıl önce .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 100: <em>Hayır , yalnızca <b>iki</b> kez gittim .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 2: <em>Dosyamız esas olarak <b>iki</b> bölümden oluşuyor .</em>
 * <em>yüzde</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 39: <em>Yatırım indiriminde <b>yüzde</b> ondokuz.sekiz stopaj kaldırılsın .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 39: <em>Teknelerin kaptanlarına , getirdikleri müşterilerden <b>yüzde</b> veriyordu .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 2: <em>Muhalifleri , halkın <b>yüzde</b> kırk bir buçuğunun oy desteğine mazhar olmuşlarsa , bu sonuca asla razı olmuyorlar .</em>
 * <em>on</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 24: <em>NA'nın <b>on</b> iki basamağı da bu amaca yönelik .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 24: <em>Teyzemden <b>on</b> iki yaş büyük eniştem .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 2: <em>Rapor'un üçüncü sayfasında ise Takriben saat <b>on</b> .</em>
   * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 1: <em>Ama <b>on</b> suz olmaz .</em>
 * <em>altı</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 15: <em><b>altı</b> banka gecikme faizini düşürüyor .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 15: <em>Henüz iki saat tir yolda ydık ve ben <b>altı</b> kez düşmüştüm .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 1: <em>Tırnaklarının <b>altı</b> pespembe tıpkı şeker parçası gibi .</em>
 * <em>yüz</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 11: <em>Her gün <b>yüz</b> bin mi verecekler sana .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 11: <em>Memo elinde ki <b>yüz</b> bin liraya şaşkınlıkla bakıyordu .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 3: <em>Memo sürücünün hoşgörüsünden <b>yüz</b> bularak hafif çe şımarmıştı .</em>
   * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 1: <em>Alkolle ve memleket meselelerinin çözüm yollarıyla yüklü <b>yüz</b> .</em>
 * <em>biri</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 25: <em>O çocuklardan <b>biri</b> geçsin de onu görsün istiyor .</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 11: <em>Her <b>biri</b> binüçyüz dolar harcıyor .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 25: <em>Kriz nedeni bu yaşamsal sorunlardan <b>biri</b> olsa mesele yok .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 11: <em>Tunguzların on bir kolundan <b>biri</b> Evenler .</em>
 * <em>elli</em>
   * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 10: <em>Türkiye'ye Çin'den <b>elli</b> bin turist geleceğini öngörüyorum .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Tüketici Yasası'nda yapılacak düzenlemeyle , gecikme faizi kredi faizinin yüzde <b>elli</b> fazlasıyla sınırlandırılıyor .</em>
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_imst-pos-DE
   * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 11: <em>Avrupa'da aldığımız üç şirket ve altı markayla <b>ikibinüç</b> yılında daha da iyi sonuçlar elde edeceğimize inanıyoruz .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>" Arçelik , <b>ikibinüç</b> yılında ihracatını yüzde otuz'un üzerinde artırarak , beşyüzelli milyon çıtırlarla çıkarmayı hedefliyor .</em>
 * <em>yedi</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 7: <em>O da <b>yedi</b> yaşında .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 7: <em>Mantık <b>yedi</b> yaşından itibaren devreye girer .</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 2: <em>Ne kadar zengin olursan ol , diyor , seyirci olduktan sonra ( al işte Nurettin Bey ; sattı <b>yedi</b> , sattı <b>yedi</b> şimdi beş parasız , onun bunun eline bakıyor ) sıfırı tüketirsin .</em>
 
 ## Morphology

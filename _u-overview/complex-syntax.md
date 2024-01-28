@@ -1,11 +1,13 @@
 ---
 layout: base
-title:  'Basic Dependencies: Complex Clauses'
+title:  'Complex Clauses'
 permalink: u/overview/complex-syntax.html
 udver: '2'
 ---
 
 # Complex Clauses
+
+This section of the [syntax overview](syntax.html) is devoted to complex clauses, namely:
 
 * [Coordinated clauses](#coordination)
 * [Subordinate clauses](#subordination)
@@ -15,7 +17,7 @@ udver: '2'
 ## Coordination
 
 Complex clauses involving coordination arise when two main clauses or two subordinate clauses at the same level are
-linked in a coordinate structure, which may or may not involve an overt coordinating conjunction. We treat coordinate structures asymmetrically by taking the first conjunct as the head with all other conjuncts attached to it via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the immediately following conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
+linked in a coordinate structure, which may or may not involve an overt coordinating conjunction. Coordinate structures are in principle symmetrical, but the first clause is by convention treated as the parent (or “technical head”) of all subsequent coordinated clauses via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the associated conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .

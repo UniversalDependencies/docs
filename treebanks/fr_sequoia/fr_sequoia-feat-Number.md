@@ -11,24 +11,25 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt>, <tt><a href="fr_sequoia-feat-Number-psor.html">Number[psor]</a></tt>.
 
-38430 tokens (54%) have a non-empty value of `Number`.
-7688 types (82%) occur at least once with a non-empty value of `Number`.
-5044 lemmas (75%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14467; 21% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (10397; 15% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4219; 6% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (4189; 6% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1792; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1788; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1578; 2% instances).
+38437 tokens (54%) have a non-empty value of `Number`.
+7693 types (82%) occur at least once with a non-empty value of `Number`.
+5048 lemmas (75%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14466; 21% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (10397; 15% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4219; 6% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (4189; 6% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1800; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1788; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1578; 2% instances).
 
 ### `NOUN`
 
-14467 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
+14466 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (4093; 28% of non-empty `Number`): <em>patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</em>
-* `Sing` (10374; 72% of non-empty `Number`): <em>affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</em>
-* `EMPTY` (720): <em>%, mg, h, kg, ml, cours, cas, D, HLM, °C</em>
+* `Plur` (4094; 28% of non-empty `Number`): <em>patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</em>
+* `Sing` (10372; 72% of non-empty `Number`): <em>affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</em>
+* `EMPTY` (721): <em>%, mg, h, kg, ml, cours, cas, D, HLM, °C</em>
 
 <table>
   <tr><th>Paradigm <i>patient</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>patient</em></td><td><em>patients</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>patient</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>patiente</em></td><td><em>patientes</em></td></tr>
 </table>
 
@@ -46,7 +47,10 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le, l'</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt>|<tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>le</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la, l'</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Le</em></td><td></td></tr>
@@ -60,9 +64,9 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (1195; 28% of non-empty `Number`): <em>doivent, traités, atteints, peuvent, devons, ont, avez, veuillez, devez, présentent</em>
-* `Sing` (3024; 72% of non-empty `Number`): <em>doit, a, peut, eu, utilisé, faut, est, fait, administré, reçu</em>
-* `EMPTY` (1670): <em>voir, mis, faire, concernant, pris, prendre, avoir, utiliser, pu, dire</em>
+* `Plur` (1199; 28% of non-empty `Number`): <em>doivent, traités, atteints, peuvent, devons, ont, avez, veuillez, devez, présentent</em>
+* `Sing` (3020; 72% of non-empty `Number`): <em>doit, a, peut, eu, utilisé, faut, est, fait, administré, reçu</em>
+* `EMPTY` (1667): <em>voir, mis, faire, concernant, pris, prendre, avoir, utiliser, pu, dire</em>
 
 <table>
   <tr><th>Paradigm <i>devoir</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -86,8 +90,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (1387; 33% of non-empty `Number`): <em>autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</em>
-* `Sing` (2802; 67% of non-empty `Number`): <em>autre, politique, même, clinique, ancien, zolédronique, européenne, jeune, première, rénale</em>
+* `Plur` (1390; 33% of non-empty `Number`): <em>autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</em>
+* `Sing` (2799; 67% of non-empty `Number`): <em>autre, politique, même, clinique, ancien, zolédronique, européenne, jeune, première, rénale</em>
 * `EMPTY` (213): <em>français, osseux, nombreux, compris, faux, 3e, 1er, chinois, intraveineux, taïwanais</em>
 
 <table>
@@ -98,15 +102,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-1792 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Number`.
+1800 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1756; 98%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1332; 74%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (953; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1756; 98%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1340; 74%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1145; 64%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (509; 28% of non-empty `Number`): <em>nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</em>
-* `Sing` (1283; 72% of non-empty `Number`): <em>il, je, elle, ce, c', j', cela, on, un, le</em>
-* `EMPTY` (1016): <em>qui, se, s', y, que, dont, où, en, qu', -en</em>
+* `Plur` (511; 28% of non-empty `Number`): <em>nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</em>
+* `Sing` (1289; 72% of non-empty `Number`): <em>il, je, elle, ce, c', j', cela, on, un, le</em>
+* `EMPTY` (1008): <em>qui, se, s', y, que, dont, où, en, qu', -en</em>
 
 <table>
   <tr><th>Paradigm <i>lequel</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -124,7 +128,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (535; 30% of non-empty `Number`): <em>ont, sont, étaient, avaient, avez, avons, seront, soient, auraient, êtes</em>
 * `Sing` (1253; 70% of non-empty `Number`): <em>est, a, était, avait, sera, fut, ai, soit, aurait, fait</em>
-* `EMPTY` (528): <em>été, être, avoir, ayant, étant, faire, ETRE, faisant</em>
+* `EMPTY` (531): <em>été, être, avoir, ayant, étant, faire, ETRE, faisant</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -134,10 +138,13 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>suis</em></td><td><em>sommes</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>êtes</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>sera</em></td><td><em>seront</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>était</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>était</em></td><td><em>étaient, Etaient</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fut</em></td><td><em>furent</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>sont</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>est</em></td><td><em>sont</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sois</em></td><td><em>soyons</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_sequoia-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>soit</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>soit</em></td><td><em>soient</em></td></tr>
 </table>
 
@@ -149,9 +156,9 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (37; 2% of non-empty `Number`): <em>Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Frégates, Pays-Bas</em>
-* `Sing` (1541; 98% of non-empty `Number`): <em>Paris, Union, Jacques, France, Chirac, Taïwan, Francis, Michel, Paget, Didier</em>
-* `EMPTY` (1730): <em>Aclasta, Angiox, RPR, Halphen, Jean-Claude, Méry, Schuller, Thomson, Reuters, Éric</em>
+* `Plur` (38; 2% of non-empty `Number`): <em>Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Forges, Frégates</em>
+* `Sing` (1540; 98% of non-empty `Number`): <em>Paris, Union, Jacques, France, Chirac, Taïwan, Francis, Michel, Paget, Didier</em>
+* `EMPTY` (1740): <em>Aclasta, Angiox, RPR, Halphen, Jean-Claude, Méry, Schuller, Thomson, Reuters, Éric</em>
 
 <table>
   <tr><th>Paradigm <i>Paris</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -163,14 +170,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (9517; 99%),
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3456; 94%),
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2800; 57%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (895; 83%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (850; 50%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (9516; 99%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3465; 95%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2803; 57%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (896; 84%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (798; 79%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (750; 69%),
-<tt>NOUN --[<tt><a href="fr_sequoia-dep-acl.html">acl</a></tt>]--> VERB</tt> (628; 63%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (751; 69%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-acl.html">acl</a></tt>]--> VERB</tt> (633; 63%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (588; 65%),
-<tt>PROPN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (410; 80%).
+<tt>PROPN --[<tt><a href="fr_sequoia-dep-det.html">det</a></tt>]--> DET</tt> (411; 80%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (370; 91%).
 

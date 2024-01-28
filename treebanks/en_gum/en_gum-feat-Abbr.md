@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (433; 100% of non-empty `Abbr`): <em>US, U.S., NASA, NATO, Mr., USI, DH, St., DAB, UNESCO</em>
-* `EMPTY` (10812): <em>States, New, President, University, York, America, figure, north, Scientology, south</em>
+* `EMPTY` (10791): <em>States, President, University, York, New, America, figure, north, Scientology, south</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (157) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (38; 100% of non-empty `Abbr`): <em>e.g., i.e., c., ca., approx.</em>
-* `EMPTY` (8849): <em>so, just, when, then, also, how, now, more, here, really</em>
+* `EMPTY` (8798): <em>so, just, when, then, also, how, now, more, here, really</em>
 
 ### `X`
 
@@ -60,18 +60,18 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `X` tokens may have the following values of `Abbr`:
 
 * `Yes` (14; 100% of non-empty `Abbr`): <em>al., Mlle.</em>
-* `EMPTY` (329): <em>et, de, 1., 2., 1, in, situ, 2, 3, 4</em>
+* `EMPTY` (332): <em>et, de, 1, 1., 2., in, situ, 2, 3, 4</em>
 
 ### `VERB`
 
 9 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9; 100%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9; 100%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9; 100%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9; 100%), <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (9; 100%).
 
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>b., d., div., m.</em>
-* `EMPTY` (19868): <em>have, know, do, get, make, said, see, think, go, had</em>
+* `EMPTY` (19565): <em>have, know, get, do, make, said, see, think, go, had</em>
 
 ### `ADJ`
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>US, OK, Jr.</em>
-* `EMPTY` (12423): <em>other, first, many, new, good, little, different, more, last, same</em>
+* `EMPTY` (12464): <em>other, first, many, new, good, little, different, more, last, same</em>
 
 ### `INTJ`
 
@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `INTJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>OK</em>
-* `EMPTY` (1698): <em>like, yeah, oh, so, well, uh, um, no, okay, yes</em>
+* `EMPTY` (1695): <em>like, yeah, oh, so, well, uh, um, no, okay, yes</em>
 
 ### `ADP`
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>vs.</em>
-* `EMPTY` (17972): <em>of, in, to, for, on, with, at, from, by, as</em>
+* `EMPTY` (17991): <em>of, in, to, for, on, with, at, from, by, as</em>
 
 ## Relations with Agreement in `Abbr`
 

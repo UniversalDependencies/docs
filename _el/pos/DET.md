@@ -32,6 +32,10 @@ The label [DET]() is assigned to the two articles, certain traditional adjective
 *   relative pronouns when followed by a noun (<code>PronType=Rel</code>): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
 *   (<code>PronType=Emph</code>) _ίδιος_ / _idios_ "the same"
 
+The preposition *από* is sometimes used not as such but rather to ensure distributive readings; in these cases it is is assigned the PoS DET:
+*Για τις θέσεις 1 και 2 υπήρξε από ένας υποψήφιος* 
+ for the positions 1 and 2 existed from one.NOM candidate.NOM
+ `there was a different candidate for each of the positions 1 and 2'
 
 Most of Modern Greek determiners inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case](). They tend to inflect  like adjectives, in particular because they often have three genders. They agree in gender, number and case with the nouns they modify.  The determiners *κάτι* / *kati* "some",
  *κάθε* / *kathe* "every", *τίποτα/ε* / *tipota/e* "nothing/anything" do not inflect.
@@ -48,4 +52,4 @@ Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of St
 
 Τσοπανάκης, Αγαπητός Γ. (1994). *Νεοελληνική γραμματική*. Θεσσαλονίκη: Εκδοτικός Οίκος Αδελφών Κυριακίδη.
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:24 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:24 CET -->

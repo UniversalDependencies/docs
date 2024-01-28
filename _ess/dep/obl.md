@@ -13,4 +13,4 @@ obl(kaatuq, Sivungaghmeng)
 obl(he-arrived, from-Savoonga)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:26 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:15 CET -->

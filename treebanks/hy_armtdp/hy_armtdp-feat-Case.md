@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-18699 tokens (36%) have a non-empty value of `Case`.
+18696 tokens (36%) have a non-empty value of `Case`.
 8639 types (65%) occur at least once with a non-empty value of `Case`.
 4205 lemmas (60%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13312; 25% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1800; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1791; 3% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (690; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (669; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (437; 1% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> (13312; 25% instances), <tt><a href="hy_armtdp-pos-PROPN.html">PROPN</a></tt> (1800; 3% instances), <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> (1791; 3% instances), <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> (690; 1% instances), <tt><a href="hy_armtdp-pos-VERB.html">VERB</a></tt> (669; 1% instances), <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> (434; 1% instances).
 
 ### `NOUN`
 
 13312 <tt><a href="hy_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11284; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10125; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9069; 68%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (11284; 85%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10124; 76%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (9069; 68%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -126,9 +126,9 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `ADP`
 
-437 <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> tokens (27% of all `ADP` tokens) have a non-empty value of `Case`.
+434 <tt><a href="hy_armtdp-pos-ADP.html">ADP</a></tt> tokens (27% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (437; 100%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (434; 100%).
 
 `ADP` tokens may have the following values of `Case`:
 
@@ -136,8 +136,8 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Dat` (3; 1% of non-empty `Case`): <em>միջի</em>
 * `Gen` (3; 1% of non-empty `Case`): <em>վրայի, մոտի</em>
 * `Ins` (17; 4% of non-empty `Case`): <em>միջով, վրայով, տակով, առջևով, մոտով</em>
-* `Nom` (391; 89% of non-empty `Case`): <em>մեջ, վրա, առաջ, տակ, մոտ, առջև, վրան, առաջներս, դիմացը, մոտս</em>
-* `EMPTY` (1196): <em>համար, հետ, մասին, հետո, որպես, մինչև, պես, նկատմամբ, կողմից, ի</em>
+* `Nom` (388; 89% of non-empty `Case`): <em>մեջ, վրա, առաջ, տակ, մոտ, առջև, վրան, առաջներս, դիմացը, մոտս</em>
+* `EMPTY` (1199): <em>համար, հետ, մասին, հետո, որպես, մինչև, պես, նկատմամբ, կողմից, ի</em>
 
 <table>
   <tr><th>Paradigm <i>մեջ</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>

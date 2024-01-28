@@ -73,4 +73,4 @@ A numeral that is neither of the above.
 * _<b>подвійний, потрійний</b>&nbsp;_ (twofold, threefold; these are morphologically and syntactically adjectives)
 * _<b>вдвоє, втроє, вчетверо</b>&nbsp;_ (twofold, threefold, fourfold; these are morphologically and syntactically adverbs)
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:43 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:57 CET -->

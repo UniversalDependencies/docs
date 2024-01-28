@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Elvis de Souza, Cláudia Freitas, Aline Silveira, Tatiana Cavalcanti, Maria Clara Castro, Wograine Evelyn.
 
 Repository: [UD_Portuguese-PetroGold](https://github.com/UniversalDependencies/UD_Portuguese-PetroGold)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_petrogold213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,7 +65,7 @@ Changes should be made via pull request directly to `not-to-release/petrogold.co
 ```
 @inproceedings{souza2022polishing,
 title={Polishing the gold--how much revision do we need in treebanks?},
-author={De Souza, Elvis and Freitas, Cl{\'a}udia},
+author={de{ }Souza, Elvis and Freitas, Cl{\'a}udia},
 booktitle={Procedings of the Universal Dependencies Brazilian Festival},
 pages={1--11},
 year={2022}
@@ -625,7 +625,7 @@ year={2022}
         <ul>
           <li>ADJ: físico, t</li>
           <li>ADV: a</li>
-          <li>NOUN: produ, commons., meso, varia, www.gasprocessingnews, www.petrobras</li>
+          <li>NOUN: ,, produ, commons., meso, varia, www.gasprocessingnews, www.petrobras</li>
           <li>PRON: está</li>
           <li>PROPN: C, FPSO</li>
         </ul>
@@ -674,7 +674,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (11)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (79)</li>
-      <li>VERB-Part--PRON (22)</li>
+      <li>VERB-Part--PRON (23)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -688,7 +688,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (43)</li>
       <li>VERB-Fin--PRON-Acc (47)</li>
       <li>VERB-Ger--NOUN (928)</li>
-      <li>VERB-Ger--PRON (6)</li>
+      <li>VERB-Ger--PRON (5)</li>
       <li>VERB-Ger--PRON-Acc (13)</li>
       <li>VERB-Inf--NOUN (1499)</li>
       <li>VERB-Inf--PRON (11)</li>

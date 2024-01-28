@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -141,7 +141,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 
 ## Features
 
-[Case](gd_arcosg-feat-Case.html) – [Definite](gd_arcosg-feat-Definite.html) – [Degree](gd_arcosg-feat-Degree.html) – [Foreign](gd_arcosg-feat-Foreign.html) – [Form](gd_arcosg-feat-Form.html) – [Gender](gd_arcosg-feat-Gender.html) – [Mood](gd_arcosg-feat-Mood.html) – [Number](gd_arcosg-feat-Number.html) – [PartType](gd_arcosg-feat-PartType.html) – [Person](gd_arcosg-feat-Person.html) – [Polarity](gd_arcosg-feat-Polarity.html) – [Poss](gd_arcosg-feat-Poss.html) – [PronType](gd_arcosg-feat-PronType.html) – [Reflex](gd_arcosg-feat-Reflex.html) – [Tense](gd_arcosg-feat-Tense.html) – [Typo](gd_arcosg-feat-Typo.html) – [VerbForm](gd_arcosg-feat-VerbForm.html)
+[Case](gd_arcosg-feat-Case.html) – [Definite](gd_arcosg-feat-Definite.html) – [Degree](gd_arcosg-feat-Degree.html) – [Foreign](gd_arcosg-feat-Foreign.html) – [Form](gd_arcosg-feat-Form.html) – [Gender](gd_arcosg-feat-Gender.html) – [Mood](gd_arcosg-feat-Mood.html) – [Number](gd_arcosg-feat-Number.html) – [NumForm](gd_arcosg-feat-NumForm.html) – [NumType](gd_arcosg-feat-NumType.html) – [PartType](gd_arcosg-feat-PartType.html) – [Person](gd_arcosg-feat-Person.html) – [Polarity](gd_arcosg-feat-Polarity.html) – [Poss](gd_arcosg-feat-Poss.html) – [PronType](gd_arcosg-feat-PronType.html) – [Reflex](gd_arcosg-feat-Reflex.html) – [Tense](gd_arcosg-feat-Tense.html) – [Typo](gd_arcosg-feat-Typo.html) – [VerbForm](gd_arcosg-feat-VerbForm.html)
 
 ## Relations
 
@@ -489,6 +489,25 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
   </li>
 </ul>
 
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: aon, dà, deug, trì, fhichead, fichead, ceithir, seachd, dhà, mìle</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>NUM: chiad, cheud, dàrna, naodhamh, ochdamh, t-seachdamh, naoidheamh, treas, dara, ceathramh</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Poss</a></li>
@@ -601,6 +620,28 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
 </ul>
 
 <ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: 1751, 1674, 2, 1692, 1702, 1651, 1660, 1686, 1689, 1690</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: II</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: aon, dà, deug, trì, fhichead, fichead, ceithir, chiad, cheud, seachd</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>PartType</a>
     <ul>
       <li>Ad
@@ -610,7 +651,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       </li>
       <li>Cmpl
         <ul>
-          <li>PART: gun, gu, cha, gum, chan, nach, g', 'g, gan, gur</li>
+          <li>PART: gun, gu, gum, nach, g', 'g, gan, gur</li>
         </ul>
       </li>
       <li>Comp
@@ -635,7 +676,7 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
       </li>
       <li>Vb
         <ul>
-          <li>PART: a, an, am, nach, na, 'm, 'n, a', ‘n</li>
+          <li>PART: a, cha, chan, an, nach, am, na, 'm, 'n, a'</li>
         </ul>
       </li>
       <li>Voc
@@ -682,7 +723,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Dat (12)</li>
       <li>VERB--NOUN-Gen (2)</li>
       <li>VERB--NOUN-Nom (2470)</li>
-      <li>VERB--PRON (4037)</li>
+      <li>VERB--PRON (4036)</li>
     </ul>
   </li>
 </ul>

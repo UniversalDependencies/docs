@@ -177,7 +177,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 2368 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2367; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2367; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1402; 59%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1327; 56%), <tt><a href="cs_pdt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (1217; 51%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (2367; 100%), <tt><a href="cs_pdt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2367; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1402; 59%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1327; 56%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -205,7 +205,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (32367; 98%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> ADP</tt> (23540; 95%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (5335; 81%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4324; 94%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4329; 94%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> ADP</tt> (2787; 87%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2227; 99%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1598; 93%),

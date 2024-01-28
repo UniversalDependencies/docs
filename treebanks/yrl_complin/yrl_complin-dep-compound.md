@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `compound`.
+4 nodes (0%) are attached to their parents as `compound`.
 
-3 instances of `compound` (100%) are right-to-left (child precedes parent).
+3 instances of `compound` (75%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

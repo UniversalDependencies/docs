@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.000000 (the average of all parts of speech is 1.824721).
+The form / lemma ratio of `AUX` is 6.000000 (the average of all parts of speech is 1.825646).
 
 The 1st highest number of forms (9) was observed with the lemma “değil”: <em>DEĞİL, DEĞİLDİ, DEĞİLDİK, DEĞİLDİLER, DEĞİLDİM, DEĞİLDİR, DEĞİLLER, DEĞİLLERDİ, DEĞİLİM</em>.
 
@@ -40,7 +40,7 @@ Examples: <em>DEĞİLDİ, DEĞİLLERDİ</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="tr_tourism-dep-aux.html">aux</a></tt> (1281; 98% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (21; 2% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1171; 90% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (88; 7% instances),  (21; 2% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1172; 90% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (88; 7% instances),  (21; 2% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 1282 (98%) `AUX` nodes are leaves.
 

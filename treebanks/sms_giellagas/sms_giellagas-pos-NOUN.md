@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `NOUN`
 
-There are 148 `NOUN` lemmas (28%), 207 `NOUN` types (26%) and 401 `NOUN` tokens (14%).
+There are 148 `NOUN` lemmas (28%), 208 `NOUN` types (26%) and 402 `NOUN` tokens (14%).
 Out of 16 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 2 in number of types and 3 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>ooumaž, heävaš, nijdd, tueʹllj, ääkkaž, eʹčč, triâŋgg, kueʹtt, meäʹcc, päʹrnn</em>
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>jieʹllem</em> (<tt><a href="sms_giel
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.398649 (the average of all parts of speech is 1.467290).
+The form / lemma ratio of `NOUN` is 1.405405 (the average of all parts of speech is 1.472015).
 
 The 1st highest number of forms (5) was observed with the lemma “päʹrnn”: <em>paaʹrnines, pärnna, pärnnses, pääʹrn, päʹrnn</em>.
 
@@ -47,7 +47,7 @@ The 2nd highest number of forms (5) was observed with the lemma “villj”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “eʹčč”: <em>eeʹjjed, eččad, eččan, eʹčč</em>.
 
-`NOUN` occurs with 8 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (395; 99% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (376; 94% instances), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt> (105; 26% instances), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt> (42; 10% instances), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt> (42; 10% instances), <tt><a href="sms_giellagas-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`NOUN` occurs with 8 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (396; 99% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (377; 94% instances), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt> (105; 26% instances), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt> (42; 10% instances), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt> (42; 10% instances), <tt><a href="sms_giellagas-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-feat-Degree.html">Degree</a></tt> (1; 0% instances)
 
 `NOUN` occurs with 21 feature-value pairs: `Animacy=Hum`, `Case=Abe`, `Case=Acc`, `Case=Com`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Loc`, `Case=Nom`, `Case=Par`, `Clitic=Han`, `Clitic=QstA`, `Degree=Dim`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Typo=Yes`
 
@@ -58,11 +58,11 @@ Examples: <em>heävaš, stäʹlmmstääll, niõđâž, Peʹll, källsaž, tieʹr
 
 ## Relations
 
-`NOUN` nodes are attached to their parents using 20 different relations: <tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt> (128; 32% instances), <tt><a href="sms_giellagas-dep-obj.html">obj</a></tt> (89; 22% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (43; 11% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (23; 6% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (20; 5% instances), <tt><a href="sms_giellagas-dep-xcomp.html">xcomp</a></tt> (17; 4% instances), <tt><a href="sms_giellagas-dep-obl-tmod.html">obl:tmod</a></tt> (15; 4% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (13; 3% instances), <tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt> (10; 2% instances), <tt><a href="sms_giellagas-dep-vocative.html">vocative</a></tt> (8; 2% instances), <tt><a href="sms_giellagas-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-dep-nmod-poss.html">nmod:poss</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (5; 1% instances), <tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`NOUN` nodes are attached to their parents using 20 different relations: <tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt> (128; 32% instances), <tt><a href="sms_giellagas-dep-obj.html">obj</a></tt> (90; 22% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (43; 11% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (23; 6% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (20; 5% instances), <tt><a href="sms_giellagas-dep-xcomp.html">xcomp</a></tt> (17; 4% instances), <tt><a href="sms_giellagas-dep-obl-tmod.html">obl:tmod</a></tt> (15; 4% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (13; 3% instances), <tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt> (10; 2% instances), <tt><a href="sms_giellagas-dep-vocative.html">vocative</a></tt> (8; 2% instances), <tt><a href="sms_giellagas-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-dep-nmod-poss.html">nmod:poss</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (5; 1% instances), <tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-dep-obl-agent.html">obl:agent</a></tt> (2; 0% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `NOUN` nodes belong to 8 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (314; 78% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (40; 10% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (16; 4% instances),  (13; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (4; 1% instances)
+Parents of `NOUN` nodes belong to 8 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (315; 78% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (40; 10% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (16; 4% instances),  (13; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (4; 1% instances)
 
-237 (59%) `NOUN` nodes are leaves.
+238 (59%) `NOUN` nodes are leaves.
 
 109 (27%) `NOUN` nodes have one child.
 

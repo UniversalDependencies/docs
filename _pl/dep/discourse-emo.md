@@ -33,4 +33,4 @@ The `discourse:emo` relation is used in the Polish [PDB-UD](http://universaldepe
 10	news:pl.rec.kitchen	_	_	_	_	_	_	_	_
 11	:-)	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:51 CET -->

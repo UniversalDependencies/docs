@@ -29,8 +29,8 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 5	போது	போது	PART	Tn-------	_	3	mark	3:mark	Translit=pōtu|LTranslit=pōtu
 6	வீட்டில்	வீடு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	Translit=vīṭṭil|LTranslit=vīṭu
 7	யாரும்	யார்	PRON	RBN-3SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Ind	8	nsubj	8:nsubj	Translit=yārum|LTranslit=yār
-8	இருக்கவ்	இரு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=irukkav|LTranslit=iru
-9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	Translit=illai|LTranslit=il
+8	இருக்கவ்	இரு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	LTranslit=iru|Translit=irukkav
+9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	LTranslit=il|Translit=illai
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 ~~~
@@ -44,8 +44,8 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 4 3 advcl	color:blue
 1	இதுகுறித்து	இதுகுறித்து	ADV	AA-------	_	3	advmod	3:advmod	Translit=itukurittu|LTranslit=itukurittu
 2	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	3	nsubj	3:nsubj	Translit=avar|LTranslit=avar
-3	வெளியிட்ட்	வெளியிடு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	4	advcl	4:advcl	Translit=veḷiyiṭṭ|LTranslit=veḷiyiṭu
-4	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	5	amod	5:amod	Translit=uḷḷa|LTranslit=uḷ
+3	வெளியிட்ட்	வெளியிடு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	4	advcl	4:advcl	LTranslit=veḷiyiṭu|Translit=veḷiyiṭṭ
+4	உள்ள	உள்	ADJ	Jd-T----A	Polarity=Pos|VerbForm=Part	5	amod	5:amod	LTranslit=uḷ|Translit=uḷḷa
 5	அறிக்கை	அறிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=arikkai|LTranslit=arikkai
 6	:	:	PUNCT	Z:-------	PunctType=Comm	5	punct	5:punct	SpaceAfter=No|Translit=:|LTranslit=:
 7	.	.	PUNCT	Z#-------	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
@@ -64,8 +64,8 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 3	கொடுப்பவர்கள்	கொடு	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	8	obl	8:obl:மீது:nom	Translit=koṭuppavarkaḷ|LTranslit=koṭu
 4	மீது	மீது	ADP	PP-------	AdpType=Post	3	case	3:case	Translit=mītu|LTranslit=mītu
 5	எவ்வித	எவ்விதம்	ADJ	JJ-------	_	6	amod	6:amod	Translit=evvita|LTranslit=evvitam
-6	நடவடிக்கைய்	நடவடிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	Translit=naṭavaṭikkaiy|LTranslit=naṭavaṭikkai
-7	உம்	உம்	PART	Tv-------	_	6	advmod:emph	6:advmod:emph	Translit=um|LTranslit=um
+6	நடவடிக்கைய்	நடவடிக்கை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	LTranslit=naṭavaṭikkai|Translit=naṭavaṭikkaiy
+7	உம்	உம்	PART	Tv-------	_	6	advmod:emph	6:advmod:emph	LTranslit=um|Translit=um
 8	எடுக்கப்	எடு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=eṭukkap|LTranslit=eṭu
 9	படாது	படு	AUX	VR-T3SN-N	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	8	aux	8:aux	SpaceAfter=No|Translit=paṭātu|LTranslit=paṭu
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.

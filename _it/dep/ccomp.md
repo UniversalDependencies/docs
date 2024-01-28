@@ -94,4 +94,4 @@ mark(risolvere, a)
 ~~~
 
 **NB** Note that if the subject of the clausal complement is controlled (that is, it is the same as the higher subject, object or indirect object, with no other possible interpretation) the appropriate relation is [xcomp]().
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:04 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:34 CET -->

@@ -27,4 +27,4 @@ Verbal noun is tagged `NOUN`.
 - _լող_&nbsp; “swimming”
 - _վազք_&nbsp; “run”
 - _վազելը_&nbsp; “running”
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:26 CET -->

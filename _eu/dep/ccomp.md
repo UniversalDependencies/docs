@@ -26,4 +26,4 @@ advcl(daudela-4, bermatzeko-10)
 punct(da-2, .-11)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:03 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:34 CET -->

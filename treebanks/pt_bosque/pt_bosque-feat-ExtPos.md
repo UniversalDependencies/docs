@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 10 different values: `ADJ`, `ADP`, `ADV`, `AUX`, `CCONJ`, `INTJ`, `NOUN`, `NUM`, `PROPN`, `SCONJ`.
 
-5943 tokens (3%) have a non-empty value of `ExtPos`.
+5941 tokens (3%) have a non-empty value of `ExtPos`.
 2232 types (9%) occur at least once with a non-empty value of `ExtPos`.
 2093 lemmas (12%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 14 part-of-speech tags: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (4103; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (573; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (418; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (392; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (272; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (66; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (4103; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (573; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (418; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (392; 0% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (272; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (66; 0% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (33; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
@@ -130,14 +130,14 @@ The most frequent other feature values with which `X` and `ExtPos` co-occurred: 
 
 ### `AUX`
 
-35 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `ExtPos`.
+33 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (34; 97%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (34; 97%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (34; 97%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (34; 97%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (34; 97%).
+The most frequent other feature values with which `AUX` and `ExtPos` co-occurred: <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (32; 97%), <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (32; 97%).
 
 `AUX` tokens may have the following values of `ExtPos`:
 
 * `AUX` (1; 3% of non-empty `ExtPos`): <em>tem</em>
-* `INTJ` (34; 97% of non-empty `ExtPos`): <em>é</em>
+* `INTJ` (32; 97% of non-empty `ExtPos`): <em>é</em>
 
 ### `CCONJ`
 

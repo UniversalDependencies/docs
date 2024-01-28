@@ -26,4 +26,4 @@ The `obj` is a link used for a direct object.
 
 ~~~
 'He made a water of this dust'.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:13 CET -->

@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-csubj.ht
 34 nodes (0%) are attached to their parents as `csubj:pass`.
 
 34 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.11764705882353.
+Average distance between parent and child is 6.02941176470588.
 
-The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (26; 76% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (29; 85% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -35,41 +35,6 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 11	lois	loi	NOUN	_	Gender=Fem|Number=Plur	8	obl:arg	_	_
 12	françaises	français	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 csubj:pass	color:blue
-1	Étant	être	AUX	_	Tense=Pres|VerbForm=Part	20	dep	_	ExtPos=ADP|Idiom=Yes|wordform=étant
-2	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	fixed	_	InIdiom=Yes
-3	que	que	SCONJ	_	_	6	mark	_	_
-4	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	_
-5	composition	composition	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
-6	reflète	refléter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	csubj:pass	_	_
-7	celle	celui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Dem	6	obj	_	_
-8	de	de	ADP	_	_	10	case	_	_
-9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	Congrès	congrès	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	wordform=congrès
-11	et	et	CCONJ	_	_	13	cc	_	_
-12	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	13	det	_	_
-13	mode	mode	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
-14	de	de	ADP	_	_	15	case	_	_
-15	fonctionnement	fonctionnement	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	1	punct	_	_
-17	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj:pass	_	_
-18	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	_
-19	parfois	parfois	ADV	_	_	20	advmod	_	_
-20	appelé	appeler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-21	«	«	PUNCT	_	_	22	punct	_	_
-22	gouvernement	gouvernement	NOUN	_	Gender=Masc|Number=Sing	20	xcomp	_	_
-23	collégial	collégial	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	_
-24	»	»	PUNCT	_	_	22	punct	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	20	punct	_	_
 
 ~~~
 
@@ -98,6 +63,44 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
 17	compétiteurs	compétiteur	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 csubj:pass	color:blue
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	wordform=il
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
+3	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:pass	_	_
+4	démontré	démontrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	que	que	SCONJ	_	_	9	mark	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	centrosaure	centrosaure	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+9	capable	capable	ADJ	_	Gender=Masc|Number=Sing	4	csubj:pass	_	_
+10	de	de	ADP	_	_	12	mark	_	_
+11	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
+12	tenir	tenir	VERB	_	VerbForm=Inf	9	xcomp	_	Subject=SubjRaising
+13	debout	debout	ADV	_	_	12	advmod	_	_
+14	sur	sur	ADP	_	_	16	case	_	_
+15	deux	deux	NUM	_	Number=Plur	16	nummod	_	_
+16	pattes	patte	NOUN	_	Gender=Fem|Number=Plur	12	obl:mod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	25	punct	_	_
+18	mais	mais	CCONJ	_	_	25	cc	_	_
+19	à	à	ADP	_	_	21	case	_	_
+20	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
+21	jour	jour	NOUN	_	Gender=Masc|Number=Sing	25	obl:mod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	personne	personne	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	25	nsubj	_	_
+24	ne	ne	ADV	_	Polarity=Neg	25	advmod	_	_
+25	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+26	exactement	exactement	ADV	_	_	25	advmod	_	_
+27	comment	comment	ADV	_	PronType=Int	25	obj	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

@@ -65,7 +65,7 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 4	for	for	ADP	prep	_	9	case	_	_
 5	at	at	SCONJ	sbu	_	9	mark	_	_
 6	ho	ho	PRON	pron	Case=Nom|Gender=Fem|Person=3|PronType=Prs	9	nsubj	_	_
-7	ikkje	ikkje	ADV	adv	_	9	advmod	_	_
+7	ikkje	ikkje	PART	adv	Polarity=Neg	9	advmod	_	_
 8	var	vere	AUX	verb	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	merksam	merksam	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Fem,Masc	3	advcl	_	_
 10	på	på	ADP	prep	_	11	case	_	_
@@ -78,7 +78,7 @@ The following 14 pairs of parts of speech are connected with `reparandum`: <tt><
 17	som	som	SCONJ	sbu	_	19	mark	_	_
 18	vart	verte	AUX	verb	Mood=Ind|Tense=Past|VerbForm=Fin	19	aux:pass	_	_
 19	gjort	gjere	ADJ	adj	Definite=Ind|Gender=Neut|VerbForm=Part	16	acl:relcl	_	_
-20	ikkje	ikkje	ADV	adv	_	22	advmod	_	_
+20	ikkje	ikkje	PART	adv	Polarity=Neg	22	advmod	_	_
 21	er	vere	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	3	reparandum	_	_
 22	lenger	lenge	ADJ	adj	Degree=Cmp	24	advmod	_	_
 23	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	24	cop	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Peng Qi, Koichi Yasuoka.
 
 Repository: [UD_Chinese-GSDSimp](https://github.com/UniversalDependencies/UD_Chinese-GSDSimp)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsdsimp212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsdsimp213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -55,7 +55,7 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 
 ## POS Tags
 
-[ADJ](zh_gsdsimp-pos-ADJ.html) – [ADP](zh_gsdsimp-pos-ADP.html) – [ADV](zh_gsdsimp-pos-ADV.html) – [AUX](zh_gsdsimp-pos-AUX.html) – [CCONJ](zh_gsdsimp-pos-CCONJ.html) – [DET](zh_gsdsimp-pos-DET.html) – [NOUN](zh_gsdsimp-pos-NOUN.html) – [NUM](zh_gsdsimp-pos-NUM.html) – [PART](zh_gsdsimp-pos-PART.html) – [PRON](zh_gsdsimp-pos-PRON.html) – [PROPN](zh_gsdsimp-pos-PROPN.html) – [PUNCT](zh_gsdsimp-pos-PUNCT.html) – [SYM](zh_gsdsimp-pos-SYM.html) – [VERB](zh_gsdsimp-pos-VERB.html) – [X](zh_gsdsimp-pos-X.html)
+[ADJ](zh_gsdsimp-pos-ADJ.html) – [ADP](zh_gsdsimp-pos-ADP.html) – [ADV](zh_gsdsimp-pos-ADV.html) – [AUX](zh_gsdsimp-pos-AUX.html) – [CCONJ](zh_gsdsimp-pos-CCONJ.html) – [DET](zh_gsdsimp-pos-DET.html) – [NOUN](zh_gsdsimp-pos-NOUN.html) – [NUM](zh_gsdsimp-pos-NUM.html) – [PART](zh_gsdsimp-pos-PART.html) – [PRON](zh_gsdsimp-pos-PRON.html) – [PROPN](zh_gsdsimp-pos-PROPN.html) – [PUNCT](zh_gsdsimp-pos-PUNCT.html) – [SCONJ](zh_gsdsimp-pos-SCONJ.html) – [SYM](zh_gsdsimp-pos-SYM.html) – [VERB](zh_gsdsimp-pos-VERB.html) – [X](zh_gsdsimp-pos-X.html)
 
 ## Features
 
@@ -92,8 +92,8 @@ This is a simplified Chinese version of the UD Chinese GSD treebank. It is initi
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: SCONJ, INTJ</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: INTJ</li>
 </ul>
 
 <ul>

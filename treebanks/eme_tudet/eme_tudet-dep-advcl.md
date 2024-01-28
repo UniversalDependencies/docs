@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (1%) are attached to their parents as `advcl`.
+54 nodes (2%) are attached to their parents as `advcl`.
 
-22 instances of `advcl` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.03703703703704.
+42 instances of `advcl` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.87037037037037.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (16; 59% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (8; 30% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (36; 67% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (11; 20% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -52,13 +52,14 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 advcl	color:blue
-1	naninam	nan	ADV	adv	Subord=Yes	4	advcl	_	_
-2	,	,	PUNCT	punct	_	4	punct	_	_
-3	ijɨrehewe	jɨ	NOUN	n	Also=Yes|Nmzr=Rel|Rel=NCont	4	obl	_	_
-4	okaʔu	kaʔu	VERB	v	Person=3	0	root	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 advcl	color:blue
+1	naninam	nan	ADV	adv	Subord=Yes	5	advcl	_	_
+2	,	,	PUNCT	punct	_	5	punct	_	_
+3	ijɨ	jɨ	NOUN	n	Rel=NCont	5	obl	_	_
+4	rehewe	ehe	ADP	posp	Also=Yes|VerbForm=Ger	3	case	_	_
+5	okaʔu	kaʔu	VERB	v	Person=3	0	root	_	_
 
 ~~~
 

@@ -18,23 +18,21 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 aux	color:blue
-1	Ve	ve	CCONJ	Conj	_	4	cc	_	_
-2	dil	dil	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-3	varlığın	varlık	NOUN	Noun	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
-4	evi	ev	NOUN	Noun	Case=Acc|Number=Sing|Person=3	0	root	_	_
-5	ise	i	AUX	Postp	Mood=Cnd|Number=Sing|Person=3	4	aux	_	SpaceAfter=No
-6	,	,	PUNCT	Punc	_	10	punct	_	_
-7	ev	ev	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
-8	de	de	CCONJ	Conj	_	7	advmod:emph	_	_
-9	dilin	dil	NOUN	Noun	Case=Gen|Number=Sing|Person=3	10	nmod:poss	_	_
-10	doğumevi	doğumevi	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	conj	_	_
-11	dir	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	10	cop	_	_
-12	.	.	PUNCT	Punc	_	10	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 aux	color:blue
+1	Keşke	keşke	ADV	Adverb	_	6	advmod	_	_
+2	benim	ben	PRON	Pers	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
+3	de	de	CCONJ	Conj	_	2	advmod:emph	_	_
+4	böyle	böyle	ADV	Adverb	_	6	amod	_	_
+5	bir	bir	DET	ANum	_	6	det	_	_
+6	evim	ev	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	0	root	_	_
+7	olsa	ol	AUX	Verb	Aspect=Perf|Mood=Des|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	6	aux	_	_
+8	başımı	baş	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	6	acl	_	_
+9	sokacak	sok	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Fut|VerbForm=Part	8	compound	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

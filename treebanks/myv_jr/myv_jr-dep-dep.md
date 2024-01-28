@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `dep`.
+4 nodes (0%) are attached to their parents as `dep`.
 
-2 instances of `dep` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33333333333333.
+3 instances of `dep` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 33% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 33% instances).
+The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 dep	color:blue
+1	Илыкем	илык	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	nsubj	_	CGdephead=#1-&gt;2|CGdeprel=@SUBJ&gt;|CGdephead=#1-&gt;2|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,PxSg1
+2	эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	3	aux:neg	_	CGdephead=#2-&gt;0|CGdeprel=@FAUX|CGdephead=#2-&gt;0|CGdeprel=@FAUX|GTtags=Aux,Neg,Ind,Prt1,ScSg3
+3	сатот	сатомс	VERB	V	Connegative=Yes	0	root	_	CGdephead=#3-&gt;2|CGdeprel=@IMV|CGdephead=#3-&gt;2|CGdeprel=@IMV|GTtags=ConNeg
+4	сонзэ	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obj	_	CGdephead=#4-&gt;5|CGdeprel=@-FOBJ&gt;|CGdephead=#4-&gt;5|CGdeprel=@-FOBJ&gt;|GTtags=Pers,Sg3,Gen
+5	сасамс	сасамс	VERB	V	VerbForm=Inf	3	ccomp	_	CGdephead=#5-&gt;2|CGdeprel=@IMV|CGdephead=#5-&gt;2|CGdeprel=@IMV|GTtags=Inf|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	10	punct	_	CGdephead=#6-&gt;5|CGdeprel=@X|CGdephead=#6-&gt;5|CGdeprel=@X|GTtags=CLB
+7	пек	пек	ADV	Adv	AdvType=Deg	8	dep	_	CGdephead=#7-&gt;8|CGdeprel=@&gt;ADVL|CGdephead=#7-&gt;8|CGdeprel=@&gt;ADVL|GTtags=Deg
+8	уш	уш	ADV	Adv	_	10	advmod	_	CGdephead=#8-&gt;10|CGdeprel=@ADVL&gt;|CGdephead=#8-&gt;10|CGdeprel=@ADVL&gt;|GTtags=
+9	бойкасто	бойка	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	10	obl	_	CGdephead=#9-&gt;10|CGdeprel=@ADVL&gt;|CGdephead=#9-&gt;10|CGdeprel=@ADVL&gt;|GTtags=SP,Ela,Indef
+10	чийсь	чиемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	5	conj	_	CGdephead=#10-&gt;2|CGdeprel=@FMV|CGdephead=#10-&gt;2|CGdeprel=@FMV|GTtags=Ind,Prt1,ScSg3|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	3	punct	_	CGdephead=#11-&gt;2|CGdeprel=@X|CGdephead=#11-&gt;2|CGdeprel=@X|GTtags=CLB
+
+~~~
 
 
 ~~~ conllu
@@ -53,21 +74,6 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	Христозонть	Христоз	PROPN	PROPN	Case=Gen|Definite=Def|NameType=Oth|Number=Sing	11	nmod	_	GTtags=Sem/Ant_Mal,Sg,Gen,Def
 11	судозо	судо	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 12	.	.	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 dep	color:blue
-1	Эсест	сонсь	PRON	Pron	Case=Gen|Number=Plur|Person=3|PronType=Prs|Reflex=Yes|Variant=Short	2	det	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Refl,Pl3,Gen,Short
-2	кудов	кудо	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	4	obl:lmod	_	CGdephead=#2-&gt;4|CGdeprel=@ADVL&gt;|GTtags=SP,Lat,Indef
-3	Валдаж	Валдаж	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	4	dep	_	CGdephead=#3-&gt;0|CGdeprel=@X|GTtags=?
-4	пачкодсь	пачкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
-5	...	...	PUNCT	CLB	_	4	punct	_	CGdephead=#5-&gt;4|CGdeprel=@CLB|GTtags=CLB
 
 ~~~
 

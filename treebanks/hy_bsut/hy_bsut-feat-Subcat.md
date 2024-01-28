@@ -58,7 +58,7 @@ The 10 most frequent relations where parent and child node agree in `Subcat`:
 <tt>VERB --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> VERB</tt> (558; 68%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (178; 58%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (139; 55%),
-<tt>VERB --[<tt><a href="hy_bsut-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (102; 56%),
+<tt>VERB --[<tt><a href="hy_bsut-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (103; 57%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-obl.html">obl</a></tt>]--> VERB</tt> (57; 60%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (15; 52%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (15; 60%),

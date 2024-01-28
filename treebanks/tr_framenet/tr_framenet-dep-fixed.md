@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `fixed`.
+7 nodes (0%) are attached to their parents as `fixed`.
 
-8 instances of `fixed` (100%) are left-to-right (parent precedes child).
+7 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (3; 38% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (2; 25% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (1; 13% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (1; 13% instances).
+The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (3; 43% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (2; 29% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-SCONJ.html">SCONJ</a></tt> (1; 14% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt>-<tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

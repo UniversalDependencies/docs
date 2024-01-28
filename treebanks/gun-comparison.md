@@ -1415,7 +1415,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 5 relation subtypes: <a>compound:svc</a>, <a>dep:mod</a>, <a>dislocated:cleft</a>, <a>obl:sentcon</a>, <a>parataxis:rep</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>dep</a></li>
-      <li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>flat</a>, <a>orphan</a>, <a>goeswith</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a></li>
       </ul>
     </td>
   </tr>

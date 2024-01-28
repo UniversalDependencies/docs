@@ -23,7 +23,7 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 5 advcl	color:blue
 1	Tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
-2	trì	trì	NUM	Mc	_	3	nummod	_	_
+2	trì	trì	NUM	Mc	NumForm=Word|NumType=Card	3	nummod	_	_
 3	ràithean	ràith	NOUN	Ncpfn	Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	_
 4	o	o	SCONJ	Cs	_	5	mark	_	_
 5	thàna	tàna	VERB	V-s	Tense=Past	1	advcl	_	_

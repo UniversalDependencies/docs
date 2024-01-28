@@ -47,10 +47,10 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 22	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	23	case	_	_
 23	res	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	20	nmod	_	_
 24	illa	ille	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	_
-25	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	26	nsubj	_	_
-26	fuit	sum	AUX	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+25	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	28	nsubj	_	_
+26	fuit	sum	AUX	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 27	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	28	case	_	_
-28	iura	ius	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	26	obl	_	_
+28	iura	ius	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	20	acl:relcl	_	_
 29	parentorum	parens	NOUN	n|n|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
 30	suorum	suus	DET	a|a|3|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	29	det	_	SpaceAfter=No
 31	,	,	PUNCT	Punc	_	32	punct	_	_

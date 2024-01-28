@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 8	Clube	Clube	PROPN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 9	Metropolitano	Metropolitano	PROPN	JJ	Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	12	punct	_	_
-11	um	um	DET	_	Gender=Masc|Number=Sing	12	det	_	_
+11	um	um	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	clube	clube	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
 13	privado	privado	ADJ	JJ	Gender=Masc|Number=Sing	12	amod	_	Proper=True
 14	de	de	ADP	IN	_	15	case	_	_

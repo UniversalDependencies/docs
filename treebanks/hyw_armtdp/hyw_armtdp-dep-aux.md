@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="hyw_armtdp-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="hyw_armtdp-dep-aux-ex.html">aux:ex</a></tt>.
 
-6761 nodes (6%) are attached to their parents as `aux`.
+6758 nodes (5%) are attached to their parents as `aux`.
 
-5003 instances of `aux` (74%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06404378050584.
+5004 instances of `aux` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06392423794022.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (6633; 98% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (79; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (30; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (6634; 98% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (76; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

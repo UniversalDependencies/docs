@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>.
 
-130 nodes (0%) are attached to their parents as `flat:foreign`.
+131 nodes (0%) are attached to their parents as `flat:foreign`.
 
-130 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.44615384615385.
+131 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.42748091603053.
 
-The following 10 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (114; 88% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (115; 88% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 5 6 flat:foreign	color:blue
 1	Brauc	braukt	VERB	vmnipt130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d29-p82s4w1
 2	ar	ar	ADP	sppd	_	5	case	5:case	LvtbNodeId=a-d29-p82s4w2
-3	gaiši	gaiši	ADV	rpmn	Degree=Pos	4	advmod	4:advmod	LvtbNodeId=a-d29-p82s4w3
+3	gaiši	gaiši	ADV	rpn	Degree=Pos	4	advmod	4:advmod	LvtbNodeId=a-d29-p82s4w3
 4	zilu	zils	ADJ	afmsanp	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	5:amod	LvtbNodeId=a-d29-p82s4w4
 5	Ford	Ford	X	xf	Foreign=Yes	1	iobj	1:iobj	LvtbNodeId=a-d29-p82s4w5
 6	Sierra	Sierra	X	xf	Foreign=Yes	5	flat:foreign	5:flat:foreign	LvtbNodeId=a-d29-p82s4w6|SpaceAfter=No
@@ -86,7 +86,7 @@ The following 10 pairs of parts of speech are connected with `flat:foreign`: <tt
 38	)	)	PUNCT	zb	_	36	punct	36:punct	LvtbNodeId=a-p8931-p4s2w38|SpaceAfter=No
 39	,	,	PUNCT	zc	_	43	punct	43:punct	LvtbNodeId=a-p8931-p4s2w39
 40	kuru	kura	PRON	pr0fsan	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	43	obj	43:obj	LvtbNodeId=a-p8931-p4s2w40
-41	noteikti	noteikti	ADV	rpmn	Degree=Pos	43	advmod	43:advmod	LvtbNodeId=a-p8931-p4s2w41
+41	noteikti	noteikti	ADV	rpn	Degree=Pos	43	advmod	43:advmod	LvtbNodeId=a-p8931-p4s2w41
 42	esiet	būt	AUX	vcnm0ii2pan	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	43	aux	43:aux	LvtbNodeId=a-p8931-p4s2w42
 43	ievērojuši	ievērot	VERB	vmnpdmpnasnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	33	acl	33:acl	LvtbNodeId=a-p8931-p4s2w43
 44	tādos	tāds	DET	pd0mpln	Case=Loc|Gender=Masc|Number=Plur|PronType=Dem	45	det	45:det	LvtbNodeId=a-p8931-p4s2w44
@@ -126,7 +126,7 @@ The following 10 pairs of parts of speech are connected with `flat:foreign`: <tt
 8	veidoti	veidot	VERB	vmnpdmpnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	LvtbNodeId=a-p7249-p3s1w8|SpaceAfter=No
 9	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-p7249-p3s1w9
 10	ņemot	ņemt	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	8	advcl	8:advcl	LvtbNodeId=a-p7249-p3s1w10
-11	vērā	vērā	ADV	r0mn	_	10	advmod	10:advmod	LvtbNodeId=a-p7249-p3s1w11
+11	vērā	vērā	ADV	r0n	_	10	advmod	10:advmod	LvtbNodeId=a-p7249-p3s1w11
 12	aktuālās	aktuāls	ADJ	affpayp	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	13	amod	13:amod	LvtbNodeId=a-p7249-p3s1w12
 13	modes	mode	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod:gen	LvtbNodeId=a-p7249-p3s1w13
 14	tendences	tendence	NOUN	ncfpa5	Case=Acc|Gender=Fem|Number=Plur	10	obj	10:obj	LvtbNodeId=a-p7249-p3s1w14|SpaceAfter=No

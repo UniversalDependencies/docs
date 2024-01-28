@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#Clau">Clau</a></td>
+  <td><a href="#Loc">Loc</a></td>
   
   
 </tr>
@@ -28,7 +29,10 @@ udver: '2'
 #### Example
 
 
+### <a name="Loc">`Loc`</a>: Loc
 
+
+#### Example
 
 
 
@@ -38,4 +42,4 @@ udver: '2'
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:41 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:52 CET -->

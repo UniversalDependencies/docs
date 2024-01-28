@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-79 tokens (20%) have a non-empty value of `Person`.
-57 types (21%) occur at least once with a non-empty value of `Person`.
-37 lemmas (18%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (27; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 6% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+80 tokens (20%) have a non-empty value of `Person`.
+58 types (22%) occur at least once with a non-empty value of `Person`.
+38 lemmas (18%) occur at least once with a non-empty value of `Person`.
+The feature is used with 5 part-of-speech tags: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-27 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Person`.
+28 <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (25; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23; 85%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (23; 85%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (20; 74%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sga_dipsgg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (26; 93%), <tt><a href="sga_dipsgg-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (21; 75%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (6; 22% of non-empty `Person`): <em>cél, epur, samlar, scríbaimm, tiach, ágor</em>
+* `1` (7; 25% of non-empty `Person`): <em>braigim, cél, epur, samlar, scríbaimm, tiach, ágor</em>
 * `2` (2; 7% of non-empty `Person`): <em>Gaib, róis</em>
-* `3` (19; 70% of non-empty `Person`): <em>chain, cóima, ecmoṅgat, farcai, fuasna, giuil, llega, maraith, mardda, roib</em>
+* `3` (19; 68% of non-empty `Person`): <em>chain, cóima, ecmoṅgat, farcai, fuasna, giuil, llega, maraith, mardda, roib</em>
 * `EMPTY` (1): <em>adest</em>
 
 <table>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="sga_dipsgg-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sga_dipsgg-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>scríbaimm</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 94% lemmas (17) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 95% lemmas (18) occur only with one value of `Person`.
 
 ### `PRON`
 

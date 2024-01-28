@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Croatian-SET: POS Tags: `PROPN`
 
-There are 4331 `PROPN` lemmas (22%), 5459 `PROPN` types (15%) and 12849 `PROPN` tokens (6%).
+There are 4330 `PROPN` lemmas (22%), 5458 `PROPN` types (15%) and 12848 `PROPN` tokens (6%).
 Out of 17 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>EU, Hrvatska, Kosovo, Srbija, BiH, Makedonija, Turska, Europa, SETimes, NATO</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>BiH</em> (<tt><a href="hr_set-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.260448 (the average of all parts of speech is 1.848266).
+The form / lemma ratio of `PROPN` is 1.260508 (the average of all parts of speech is 1.848309).
 
 The 1st highest number of forms (6) was observed with the lemma “Gora”: <em>Gora, Gore, Gori, Gorin, Gorom, Goru</em>.
 
@@ -59,22 +59,22 @@ The 2nd highest number of forms (6) was observed with the lemma “Hrvatska”: 
 
 The 3rd highest number of forms (6) was observed with the lemma “Windows”: <em>Windows, Windowsa, Windowse, Windowsi, Windowsima, Windowsu</em>.
 
-`PROPN` occurs with 4 features: <tt><a href="hr_set-feat-Case.html">Case</a></tt> (12826; 100% instances), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt> (12826; 100% instances), <tt><a href="hr_set-feat-Number.html">Number</a></tt> (12826; 100% instances), <tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt> (644; 5% instances)
+`PROPN` occurs with 4 features: <tt><a href="hr_set-feat-Case.html">Case</a></tt> (12825; 100% instances), <tt><a href="hr_set-feat-Gender.html">Gender</a></tt> (12825; 100% instances), <tt><a href="hr_set-feat-Number.html">Number</a></tt> (12825; 100% instances), <tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt> (644; 5% instances)
 
 `PROPN` occurs with 14 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 33 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (4661 tokens).
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (4660 tokens).
 Examples: <em>Windows, EU, Bog, Sanader, Zagreb, Nikola, Crvenkovski, Erdogan, HDZ, May</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 21 different relations: <tt><a href="hr_set-dep-flat.html">flat</a></tt> (4248; 33% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (2980; 23% instances), <tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt> (2393; 19% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (1143; 9% instances), <tt><a href="hr_set-dep-obl.html">obl</a></tt> (1038; 8% instances), <tt><a href="hr_set-dep-obj.html">obj</a></tt> (314; 2% instances), <tt><a href="hr_set-dep-appos.html">appos</a></tt> (217; 2% instances), <tt><a href="hr_set-dep-amod.html">amod</a></tt> (188; 1% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (182; 1% instances), <tt><a href="hr_set-dep-iobj.html">iobj</a></tt> (48; 0% instances), <tt><a href="hr_set-dep-root.html">root</a></tt> (47; 0% instances), <tt><a href="hr_set-dep-acl.html">acl</a></tt> (10; 0% instances), <tt><a href="hr_set-dep-xcomp.html">xcomp</a></tt> (10; 0% instances), <tt><a href="hr_set-dep-orphan.html">orphan</a></tt> (7; 0% instances), <tt><a href="hr_set-dep-flat-foreign.html">flat:foreign</a></tt> (6; 0% instances), <tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="hr_set-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="hr_set-dep-vocative.html">vocative</a></tt> (4; 0% instances), <tt><a href="hr_set-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="hr_set-dep-list.html">list</a></tt> (2; 0% instances), <tt><a href="hr_set-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 20 different relations: <tt><a href="hr_set-dep-flat.html">flat</a></tt> (4248; 33% instances), <tt><a href="hr_set-dep-nmod.html">nmod</a></tt> (2980; 23% instances), <tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt> (2393; 19% instances), <tt><a href="hr_set-dep-conj.html">conj</a></tt> (1143; 9% instances), <tt><a href="hr_set-dep-obl.html">obl</a></tt> (1038; 8% instances), <tt><a href="hr_set-dep-obj.html">obj</a></tt> (314; 2% instances), <tt><a href="hr_set-dep-appos.html">appos</a></tt> (217; 2% instances), <tt><a href="hr_set-dep-amod.html">amod</a></tt> (188; 1% instances), <tt><a href="hr_set-dep-parataxis.html">parataxis</a></tt> (182; 1% instances), <tt><a href="hr_set-dep-iobj.html">iobj</a></tt> (48; 0% instances), <tt><a href="hr_set-dep-root.html">root</a></tt> (47; 0% instances), <tt><a href="hr_set-dep-acl.html">acl</a></tt> (10; 0% instances), <tt><a href="hr_set-dep-xcomp.html">xcomp</a></tt> (10; 0% instances), <tt><a href="hr_set-dep-orphan.html">orphan</a></tt> (7; 0% instances), <tt><a href="hr_set-dep-flat-foreign.html">flat:foreign</a></tt> (6; 0% instances), <tt><a href="hr_set-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="hr_set-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="hr_set-dep-vocative.html">vocative</a></tt> (4; 0% instances), <tt><a href="hr_set-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="hr_set-dep-list.html">list</a></tt> (2; 0% instances)
 
-Parents of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (5218; 41% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3680; 29% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (3161; 25% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (512; 4% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (79; 1% instances),  (47; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (46; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt> (46; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (2; 0% instances)
+Parents of `PROPN` nodes belong to 13 different parts of speech: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (5217; 41% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (3680; 29% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (3161; 25% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (512; 4% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (79; 1% instances),  (47; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (46; 0% instances), <tt><a href="hr_set-pos-X.html">X</a></tt> (46; 0% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (22; 0% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (18; 0% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="hr_set-pos-PART.html">PART</a></tt> (2; 0% instances)
 
-6254 (49%) `PROPN` nodes are leaves.
+6253 (49%) `PROPN` nodes are leaves.
 
 4426 (34%) `PROPN` nodes have one child.
 

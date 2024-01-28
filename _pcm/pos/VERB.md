@@ -18,4 +18,4 @@ Note that the `VERB` tag covers main verbs _(content verbs)_ but it does not cov
 - Im <b>dey</b> very unfortunate.
 - Naim im phone just <b>ring</b>.
 - We <b>see</b> di man.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:29 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:32 CET -->

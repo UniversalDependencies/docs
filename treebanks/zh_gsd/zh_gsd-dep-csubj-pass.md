@@ -27,10 +27,10 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	肥田	肥田	VERB	VV	_	16	csubj:pass	_	SpaceAfter=No|Translit=féitián|LTranslit=féitián
 4	」	」	PUNCT	''	_	3	punct	_	SpaceAfter=No|Translit=’|LTranslit=’
 5	是	是	AUX	VC	_	11	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
-6	一	一	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-7	種	種	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
+6	一	一	NUM	CD	NumType=Card	11	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+7	種	種	NOUN	NNB	_	6	clf	_	SpaceAfter=No|Translit=zhǒng|LTranslit=zhǒng
 8	原始	原始	ADJ	JJ	_	11	amod	_	SpaceAfter=No|Translit=yuánshǐ|LTranslit=yuánshǐ
-9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+9	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	農業	農業	NOUN	NN	_	11	nmod	_	SpaceAfter=No|Translit=nóngyè|LTranslit=nóngyè
 11	技術	技術	NOUN	NN	_	16	advcl	_	SpaceAfter=No|Translit=jìshù|LTranslit=jìshù
 12	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=,|LTranslit=,

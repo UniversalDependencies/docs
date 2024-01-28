@@ -18,6 +18,8 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADJ.htm
 
 210 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (191; 91%).
+
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (168; 80% of non-empty `Degree`): <em>better, more, later, younger, less, elder, higher, Lighter, beta, earlier</em>

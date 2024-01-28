@@ -41,4 +41,4 @@ Certain Pomak determiners and adverbs that are tagged with 'PronType=Int' are co
 - *sǽ kadé* "everywhere"  
 - *sǽ kugá* "always"   
 - *sǽ kak* "anyway"  
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:44 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->

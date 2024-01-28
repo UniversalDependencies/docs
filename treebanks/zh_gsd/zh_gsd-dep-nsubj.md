@@ -34,7 +34,7 @@ The following 50 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -67,9 +67,9 @@ The following 50 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 6	撤下	撤下	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=chèxià|LTranslit=chèxià
 7	櫃檯	櫃檯	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=櫃檯|LTranslit=櫃檯
 8	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-9	而	而	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
+9	而	而	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit='ér|LTranslit='ér
 10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No|Translit=mǎshì|LTranslit=mǎshì
-11	則	則	ADV	RB	_	12	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
+11	則	則	SCONJ	RB	_	12	mark	_	SpaceAfter=No|Translit=zé|LTranslit=zé
 12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No|Translit=zhōngduàn|LTranslit=zhōngduàn
 13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No|Translit=le|LTranslit=le
 14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No|Translit=shēngchǎn|LTranslit=shēngchǎn
