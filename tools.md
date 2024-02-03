@@ -33,6 +33,7 @@ You may also want to announce your tool in the
     * [ConlluEditor](#conllueditor)
     * [Palmyra](#palmyra)
     * [BoAT](#boat)
+    * [ConlluVisualiser](#conlluvisualiser)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
@@ -269,7 +270,7 @@ The editor provides the following functionalities:
 
 #### BoAT
 
-BoAT (Boğaziçi University Annotation Tool) is a collaborative grammatical annotation tool. It supports annotating CoNLL-U files. Some of its features are autocompletion, UD validation, visualization of dependency graphs and advanced search. It's capable of serving multiple treebanks and annotators. 
+BoAT (Boğaziçi University Annotation Tool) is a collaborative grammatical annotation tool. It supports annotating CoNLL-U files. Some of its features are autocompletion, UD validation, visualization of dependency graphs and advanced search. It's capable of serving multiple treebanks and annotators.
 
 * Category: manual annotation tool
 * Platform: any (browser-based)
@@ -278,6 +279,18 @@ BoAT (Boğaziçi University Annotation Tool) is a collaborative grammatical anno
 * Homepage: <https://github.com/BOUN-TABILab-TULAP/Web-Annotation-Tool>
 * References: [Akkurt et al. (2022)](https://ceur-ws.org/Vol-3315/paper01.pdf)
 * Contact: Furkan Akkurt (furkan.akkurt at boun dot edu dot tr)
+
+#### ConlluVisualiser
+
+ConlluVisualiser is a tree visualizer and editor inspired by TrEd but developed directly for CoNLL-U.
+
+* Category: manual annotation tool
+* Platform: Microsoft Windows
+* Implementation: C#
+* Homepage: <https://github.com/ufal/conllu-visualiser>
+* References: [Storzerová (2019)](http://hdl.handle.net/20.500.11956/108320)
+* Author: Tereza Storzerová
+* Contact: Dan Zeman (zeman@ufal.mff.cuni.cz)
 
 ### Editor modes
 
