@@ -275,9 +275,9 @@ BoAT (Boğaziçi University Annotation Tool) is a collaborative grammatical anno
 * Platform: any (browser-based)
 * Implementation: Python (server), JavaScript (client)
 * License: MIT (open source)
-* Homepage: <https://github.com/BOUN-TABILab-TULAP/Web-Annotation-Tool>
+* Homepage: [github.com/furkanakkurt1335/boat](https://github.com/furkanakkurt1335/boat)
 * References: [Akkurt et al. (2022)](https://ceur-ws.org/Vol-3315/paper01.pdf)
-* Contact: Furkan Akkurt (furkan.akkurt at boun dot edu dot tr)
+* Contact: Furkan Akkurt (furkan.akkurt@bogazici.edu.tr)
 
 ### Editor modes
 
