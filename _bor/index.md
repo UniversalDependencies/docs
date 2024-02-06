@@ -49,7 +49,7 @@ The `gender of nouns in Bororo follow the natural gender of the animate nouns, i
 
 #### Number
 
-There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -*edu*, substituting the last vowel by -*e*, adding *e* to the singular form, adding -*doge* to the stem, adding -*ge* to nouns ending in -*rewy*, -*wy*, -*epa*, -*are*. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural.
+There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -*edu*, substituting the last vowel by -*e*, adding *e* to the singular form, adding -*doge* to the stem, adding -*ge* to nouns ending in -*rewy*, -*wy*, -*epa*, -*are*. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural. What all plural forms have in common, is the ending -_e_ of all plural forms.
 
 ### Tags
 
@@ -124,13 +124,15 @@ Bororo has no copula and no auxiliary verbs.
 
 ## Syntax
 
-Bororo is an ergative language. S, A, and O are marked by the same set of bound indexes. But the construction where S and O appear are the same, i.e, they attach to the predicate.
-A is always marked by a bound index which carries TMA and negation markers, detached from the predicate. 
+Bororo is an ergative language. S, A, and O are marked by the same set of bound indexes. But the construction where S and O appear are the same, i.e, they attach to the predicate. 
+
+S is always marked by a bound index which carries TMA and negation markers, detached from the predicate. 
 
 ```
 Imaragodyre
 i-maragody=re
-1SG-work=ASS
+1SG-work=IND
+I worked
 ```
 
 The A argument of transitive verbs is indexed on the mood or aspect marker, and the O argumend is bound to verb. 
@@ -149,6 +151,7 @@ jaguar=IND 3.PL=kill
 The jaguar killed them
 ```
 
+
 ```
 Ure ewido
 u=re e=bito
@@ -156,13 +159,16 @@ u=re e=bito
 The jaguar killed them
 ```
 
-In transitive clauses, nothing may intervene between the A argument and the O-predicate slot. Adjuncts follow the predicate and if they are fronted, the are morphologically marked.
+Note, from the 3 previous examples above, that S as well as O are cliticized to the predicate, only A isn't. This is the reason why Bororo is considered an ergative language.
 
-There is a clear preference for subordinate clauses to precede main clauses, although this is not obbligatory.
+
+In transitive clauses, nothing may intervene between the A argument and the O-predicate slot. Adjuncts follow the predicate and if they are fronted, they are morphologically marked, they have their own mood/illocutionary force.
+
+There is a clear preference for subordinate clauses to precede main clauses, as one would expect from a head-final language, although this is not obbligatory.
 
 
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
 
 * Nonverbal predication distinguish the following semantic types:
 
