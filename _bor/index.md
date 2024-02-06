@@ -45,7 +45,36 @@ Mapping UPOS to XPOS Akuntsú
 
 #### Gender
 
-The `gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males take masculine gender and females take feminine gender or the word 'female,woman'. Inanimate nouns are genderless but morphologically they follow the masculine pattern. Based on natural gender, some nouns may be marked as feminine. Modifiers may take gender mark (agreement) only in the feminine singular.
+The gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males are masculine and females are feminine, but this is not morphologically marked. Inanimate nouns are genderless but morphologically they follow the masculine pattern (in case there are modifiers). Modifiers mark gender (by agreement), but only the feminine singular is marked.
+
+```
+Imedy koadyrewy
+imedy koady-re-wy
+man single-IND-REL
+Single man
+```
+
+```
+Aredy koadyrewydo
+aredy koady-re-wy-do
+woman single-IND-REL-F
+Single woman
+```
+
+```
+Ime koadyrewyge
+ime koady-re-wy-ge
+men single-IND-REL-PL
+Single men
+```
+
+```
+Are koadyrewyge
+are koady-re-wy-ge
+women single-IND-REL-PL
+Single women
+```
+
 
 #### Number
 
