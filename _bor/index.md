@@ -108,7 +108,7 @@ I ran/there is my running/My running exists
 
 
 
-Bororo has no copula an no auxiliary verbs.
+Bororo has no copula and no auxiliary verbs.
 
 
 ---
