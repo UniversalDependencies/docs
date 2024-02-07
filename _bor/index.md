@@ -14,7 +14,7 @@ udver: '2'
 * Words are delimited by whitespace characters. .
 * According to typographical rules, many punctuation marks are attached to a neighboring word. These are tokenized as separate tokens (words).
 
-Mapping UPOS to XPOS Akuntsú
+Mapping UPOS to XPOS Bororo
 
  UPOS | XPOS |
 :----: | :------: |
@@ -41,7 +41,23 @@ Mapping UPOS to XPOS Akuntsú
 
 ## Morphology
 
-### Nouns
+### POS
+
+Bororo POS is a straight forward question if one bear in mind a tyological approach, for example, as in Croft (2022: chap. 2). The basic princple is that either roots function work as predicates or as arguments. Depending on the function, they will appear in a specifi slot and combine with specific morphology. This issue is made simpler if one considers that different types of predication are collapsed in Bororo into a single construction. In the example below, the predication could be takes as possessive or existential.
+
+```
+Imugare
+i=muga-re
+1.SG=mother=IND
+I have a mother/there is my mother/My mother exists
+```
+The same with an activity predicate, which could be taken as a possessive or existential predications.
+```
+Irekodyre
+i=rekody-re
+1.SG=run=IND
+I ran/there is my running/My running exists
+```
 
 #### Gender
 
@@ -98,7 +114,7 @@ Person  |       Before consonant       | Before vowel          |
 
 The first plural of person indexes distinguish between the values `Ex` (exclusive) and `In` (inclusive) for the feature `Clusivity`
 
-* Nouns are either possessed or unpossessed. Possessed nouns are either alienably o inalienably possessed. Inalienably possessed nouns in Bororo are kinship terms and body parts.
+* Nouns are either possessed or unpossessed. Possessed nouns are either alienably o inalienably possessed. Inalienably possessed nouns in Bororo are kinship terms, body parts and natural phaenomena.
 
 ```
 Iia
@@ -121,21 +137,7 @@ Your axe
 
 PART is used for a conditional particle `ma`, for a focal particle `na` 
 
-Bororo POS is a straight forward question if one bear in mind a tyological approach, for example, as in Croft (2022: chap. 2). The basic princple is that either roots function work as predicates or as arguments. Depending on the function, they will appear in a specifi slot and combine with specific morphology. This issue is made simpler if one considers that different types of predication are collapsed in Bororo into a single construction. In the example below, the predication could be takes as possessive or existential.
 
-```
-Imugare
-i=muga-re
-1.SG=mother=IND
-I have a mother/there is my mother/My mother exists
-```
-The same with an activity predicate, which could be taken as a possessive or existential predications.
-```
-Irekodyre
-i=rekody-re
-1.SG=run=IND
-I ran/there is my running/My running exists
-```
 
 
 
