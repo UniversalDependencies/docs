@@ -2,7 +2,7 @@
 udver: '2'
 layout: relation
 title: 'parataxis:shared'
-shortdef: 'reported shared'
+shortdef: 'parataxis with shared arguments'
 ---
 
 The `parataxis:shared` subtype of the [parataxis]() relation is used to attach two clauses which
