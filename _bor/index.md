@@ -223,7 +223,7 @@ He said you would arrive
 
 ### Voice
 
-Whily the active voice is unmarked, the passive voice is marked by -_dy_
+While the active voice is unmarked, the passive voice is marked by -_dy_
 
 ```
 Makydyre
