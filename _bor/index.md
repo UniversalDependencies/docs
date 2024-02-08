@@ -153,6 +153,95 @@ Bororo has no copula and no auxiliary verbs.
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
+
+Roots fuctioning as predicates may combine with the following sufixes:
+
+### Aspect
+
+The `progressive aspect` is marked by -_nu_, which is always followed that the `indicative mood` marker -_re_
+
+```
+bybytynure
+bybyte-nu-re
+rain-PROG-IND
+It is raining
+```
+
+### Mood
+
+The `indicative mood` (declarative + realis) marker -_re_ is used with any lexical root in predicative functions
+
+```
+ityre
+i=ty-re
+1.SG=go-IND
+I went
+```
+
+```
+Are boe maky
+a=re boe ∅-maky
+2.SG-IND thing 3.SG-give
+You gave something
+```
+
+The `subjunctive mood` is marked by -_wo_.
+
+```
+Padywo
+pa=ty-wo
+1.PL.IN=go-SUBJ
+Let's go!
+```
+
+### Status (Tense)
+
+Bororo does not have a tense marker, but the future is expressed by the irrealis status marker -_mody_ followed by the indicative marker, resulting in -_mode_. The negation intervenes between status and mood.
+
+```
+Imode arego
+i=mody-re a=reko
+1.SG=IRR-IND 2.SG-run
+I will take you
+```
+
+```
+Emodykare
+e=mody-ka-re
+3.PL=IRR-NEG-IND
+The won't go
+```
+
+The reason why -_mody_ cannot be a tense marker is that it is also used with non-future conditional clauses.
+
+```
+Akore akaregodymodyie
+∅-ako-re a=aregody-mody-ie
+3.SG-speak-IND 2.SG=arrive-IRR-RS
+He said you would arrive
+```
+
+### Voice
+
+Whily the active voice is unmarked, the passive voice is marked by -_dy_
+
+```
+Makydyre
+maky-dy-re
+give-PASS-IND
+Was given
+```
+
+```
+Akaiwododyre
+a=aiwo-do-dy-re
+2.SG-look-CAUS-PASS-IND
+I was made to look
+```
+
+
+
+
 ---
 
 ## Syntax
