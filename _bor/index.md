@@ -223,7 +223,7 @@ He said you would arrive
 
 ### Voice
 
-While the active voice is unmarked, the passive voice is marked by -_dy_
+While the `active voice` is unmarked, the `passive voice` is marked by -_dy_
 
 ```
 Makydyre
@@ -237,6 +237,15 @@ Akaiwododyre
 a=aiwo-do-dy-re
 2.SG-look-CAUS-PASS-IND
 I was made to look
+```
+
+The cuasative voice is marked by -_do_.
+
+```
+ure imaragodydo
+u=re i=maragody-do
+3.SG=IND 1.SG=work-CAUS
+He made me work
 ```
 
 
