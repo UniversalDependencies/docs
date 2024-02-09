@@ -96,6 +96,13 @@ Single women
 
 There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -*edu*, substituting the last vowel by -*e*, adding *e* to the singular form, adding -*doge* to the stem, adding -*ge* to nouns ending in -*rewy*, -*wy*, -*epa*, -*are*. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural. What all plural forms have in common, is the ending -_e_ of all plural forms.
 
+
+There are words which have irregular plural forms, bein shorter in the plural that in the singular.
+
+_imedy_ 'man'     _ime_ 'men'
+_aredy_ 'woman'   _are_ 'women'
+
+
 ### Tags
 
 ## Person indexes
