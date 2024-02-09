@@ -21,4 +21,10 @@ For Verbs, we always use the layered Animacy features. For Nouns and Adjectives,
 
 * [nci] 
 
+### <a name="Nhum">`Nhum`</a>: non-human
+
+#### Examples
+
+* [nci] 
+
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:55 CET -->
