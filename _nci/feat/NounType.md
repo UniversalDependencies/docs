@@ -5,7 +5,7 @@ shortdef: 'nominal type'
 udver: '2'
 ---
 
-In Classical Nahuatl, this feature applies to [numerals](nci-pos/NOUN).
+In Classical Nahuatl, this feature applies to [nouns](nci-pos/NOUN) and [numerals](nci-pos/NOUN).
 
 ### <a name="Relat">`Relat`</a>: relational
 
