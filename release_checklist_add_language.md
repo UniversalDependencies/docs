@@ -86,9 +86,7 @@ chmod 666 evaluation-report.txt</pre>
 8.  Go to the `tools` repository to the Perl module `udlib.pm` and locate the function `check_metadata()`.
     There is a back up list of treebanks and their "Data available since" metadata. Replace `UD_Czech` with `UD_Czech-PDT`,
     keeping it in the list for the release where `UD_Czech` appeared for the first time. (We will probably change the way how this is checked in the future.)
-9.  Go to the `docs-automation` repository to the script `valdan/update-validation-report.pl`.
-    Inspect the two lists of treebanks in the `BEGIN` block and replace each occurrence of `UD_Czech` with `UD_Czech-PDT`. (We will probably change the way how this is done in the future.)
-    <strong>CHANGE:</strong>
+9.  Go to the `docs-automation` repository.
     Open the file `valdan/releases.json`. In the line of the release where the new name will appear for the first time,
     we need this at the end of the release record:
     <pre>, "renamed": [["UD_Czech", "UD_Czech-PDT"]]</pre>
