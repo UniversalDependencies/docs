@@ -15,7 +15,7 @@ In general, words are delimited by whitespace characters and punctuation is sepa
 * In Latvian ordinal numerals are written with punctuation mark without whitespace like abbreviations (_1._), so we tokenize ordinal numeral together with punctuation mark as one token.
 * Multiple dots (_..._ and _.._ ) are considered as one token. Multiple _?!_ are considered one token, _?!..._ is considered to be two tokens (_?!_ and _..._).
 
-Paragraph borders from the original text is indicated by comment line `# newpar` in cases when paragraph borders aligns sentence borders and `MISC` value `NewPar=Yes` for the token following mid-sentece paragraph break. `MISC` value `SpaceAfter=No` is used to note tokens lacking any whitespace after.
+Paragraph borders from the original text is indicated by comment line `# newpar` in cases when paragraph borders aligns sentence borders and `MISC` value `NewPar=Yes` for the token following mid-sentence paragraph break. `MISC` value `SpaceAfter=No` is used to note tokens lacking any whitespace after.
 
 
 ## Morphology
@@ -30,7 +30,7 @@ Latvian uses all 17 universal POS categories.
 
 Particles can be homonymous with other POS, most notably, conjunctions [CCONJ]() and [SCONJ](), interjections [INTJ](), and adjectives [ADJ](), correct POS is assigned based on sentence context.
 
-#### Pronouns and Determiniers
+#### Pronouns and Determiners
 
 Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very hard as words used as `DET` can also be used as `PRON`, and, thus, traditional Latvian grammar does not define determiners as a distinct POS. The pronoun (`PRON`) vs. determiner (`DET`) distinction is based on the role of the word in the UD tree: if the role in current sentence is [det]() the word is tagged as `DET`. In turn the role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. If these words are used independently in a given sentence, they are tagged as [PRON](). Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET` as well if they modify the noun in the sentence, however in Latvian grammar they are described as adjectives.
 
@@ -141,7 +141,7 @@ The following relation types are not used for Latvian: [clf](), [dislocated](), 
 
 ## Annotating Textual Errors
 
-Following `MISC` values can be used to annotate errors in the source text interferring with treebank annotation:
+Following `MISC` values can be used to annotate errors in the source text interfering with treebank annotation:
 * `CorrectionType=Spelling` for typos (`FORM` is given as in text, while `LEMMA`, `UPOS`, `XPOS` and `FEATS` as for word without the error)
 * `CorrectionType=Spacing` for missing or unnecessary whitespaces
 * `CorrectionType=InsertedPunctAfter` for cases when there is missing punctuation mark (usually comma) after this token

@@ -47,7 +47,7 @@ nsubj(fun, course)
 
 The style of syntactic analysis used in UD is [dependency grammar](). This simply means that, for each word,
 you indicate which other word it modifies or is an argument of, and then indicate the type of relationship
-with a grammatical relation label. Here’s a full example of UD analyses of paralle sentences in Russian and English.
+with a grammatical relation label. Here’s a full example of UD analyses of parallel sentences in Russian and English.
 Note how UD gives the same analysis of the same grammatical relationships, while also showing the differences
 between Russian and English.
 
