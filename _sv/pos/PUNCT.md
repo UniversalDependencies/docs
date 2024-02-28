@@ -2,7 +2,7 @@
 layout: postag
 title: 'PUNCT'
 shortdef: 'punctuation'
-udver: 2
+udver: '2'
 ---
 
 ### Definition
