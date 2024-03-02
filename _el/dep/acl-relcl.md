@@ -43,7 +43,7 @@ aux(περιέχει, να)
 ~~~~
 
 
-In GUD, the relativer που is marked with a proper dependency (such as [nsubj](), [obj](), etc).
+In GUD, the relativer *που* is marked with a proper dependency (such as [nsubj](), [obj](), etc).
 
 ~~~ sdparse
 μια έκθεση που να μην περιέχει λάθη
@@ -53,12 +53,9 @@ mark(περιέχει, να)
 advmod(περιέχει, μην)
 ~~~
 
- που may not depend on the verb of the relative clause:
+*που* may not depend on the verb of the relative clause:
  
 ~~~ conllu
-# user_id = stellamarks
-# timestamp = 1702809315198
-# sent_id = 1263
 # text = « Εσείς διαλευκάνατε ένα έγκλημα που , για να είμαστε ειλικρινείς , τη λύση του σας τη σέρβιραν σ το πιάτο ».
 1	«	«	PUNCT	OPUNCT	PunctType=Quot	3	punct	_	_
 2	Εσείς	εγώ	PRON	PnPe	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
@@ -85,6 +82,21 @@ advmod(περιέχει, μην)
 23	.	.	PUNCT	PTERMP	PunctType=Peri	3	punct	_	_
 ~~~
 
+The relative pronoun *όσος* may introduce clauses that depend on a verb with the [ccomp]() function as in the example in CONLLU form  below. This example could be paraphrased to the fully synonymous *στο μάτι έβαλε η Τρόϊκα* </b>όλους όσους</> *είναι κάτω από 62* "Troika targets those who are less than 62 years old" where the object *όλους" is explicit and the pronoun *όσους* has it as an explicit target.
+
+~~~conllu
+# text = Στο μάτι έβαλε η τρόικα όσους είναι κάτω από 62
+1	Στο	στου	ADP	AsPpSp	_	2	case	_	mwe=1|None=Yes
+2	μάτι	μάτι	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	3	obl	_	mwe=1
+3	έβαλε	βάζω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	mwe=1:VID
+4	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	τρόικα	τρόικα	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+6	όσους	όσος	PRON	PnDm	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
+7	είναι	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pas	10	cop	_	_
+8	κάτω	κάτω	ADV	AdBa	_	9	advmod	_	None=Yes
+9	από	από	ADP	AsPpSp	_	10	case	_	None=Yes
+10	62	62	NUM	DIG	Case=Gen|Gender=Masc|Number=Plur	3	ccomp	_	_
+~~~
 
 <!---
 TODO: Revisit arguments for pou being a marker or a relative pronoun
