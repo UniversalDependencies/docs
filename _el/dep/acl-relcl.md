@@ -82,7 +82,7 @@ advmod(περιέχει, μην)
 23	.	.	PUNCT	PTERMP	PunctType=Peri	3	punct	_	_
 ~~~
 
-The relative pronoun *όσος* may introduce clauses that depend on a verb with the [ccomp]() function as in the example in CONLLU form  below. This example could be paraphrased to the fully synonymous *στο μάτι έβαλε η Τρόϊκα* όλους όσους *είναι κάτω από 62* "Troika targets those who are less than 62 years old" where the object *όλους" is explicit and the pronoun *όσους* has it as an explicit target.
+The relative pronoun *όσος* may introduce clauses that depend on a verb with the [ccomp]() function as in the example in CONLLU format below. This example could be paraphrased to the fully synonymous *στο μάτι έβαλε η Τρόϊκα* όλους όσους *είναι κάτω από 62* "Troika targets those who are less than 62 years old" where the object *όλους" is explicit and the pronoun *όσους* has it as an explicit target.
 
 ~~~conllu
 # text = Στο μάτι έβαλε η τρόικα όσους είναι κάτω από 62
