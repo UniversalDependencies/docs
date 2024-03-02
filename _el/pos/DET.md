@@ -32,7 +32,7 @@ The label [DET]() is assigned to the two articles, certain traditional adjective
 *   relative pronouns when followed by a noun (<code>PronType=Rel</code>): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
 *   (<code>PronType=Emph</code>) _ίδιος_ / _idios_ "the same"
 
-The preposition *από* is sometimes used not as such but rather to ensure distributive readings; in these cases it is is assigned the PoS DET:
+The preposition *από* is sometimes used not as such but rather to ensure distributive readings; in these cases it is assigned the PoS DET:
 *Για τις θέσεις 1 και 2 υπήρξε από ένας υποψήφιος* 
  for the positions 1 and 2 existed from one.NOM candidate.NOM
  `there was a different candidate for each of the positions 1 and 2'
