@@ -43,7 +43,7 @@ aux(περιέχει, να)
 ~~~~
 
 
-In GUD, the relativer που is marked with a proper dependency.
+In GUD, the relativer που is marked with a proper dependency (such as [nsubj](), [obj](), etc).
 
 ~~~ sdparse
 μια έκθεση που να μην περιέχει λάθη
