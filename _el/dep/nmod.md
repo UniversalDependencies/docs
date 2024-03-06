@@ -61,11 +61,6 @@ iobj(Ζήτησε, Ελένη)
 obj(Ζήτησε, κούκλα)
 ~~~
 
-`nmod` is also used for nominal modifiers indicating time, cause, amount etc.:
 
-~~~ sdparse
-Θα σε δω την Κυριακή
-nmod(δω, Κυριακή)
-~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:02 CET -->
