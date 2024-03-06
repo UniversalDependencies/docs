@@ -42,7 +42,12 @@ See [here](release_checklist.html) for the checklist for data contributors.
   CamelCase, no digits or special characters). Example: "UD_Ancient_Greek-PROIEL".
 * Populate README.md, CONTRIBUTING.md and LICENSE.txt with default values.
 * Create two branches, "master" and "dev". Protect the master branch so that only the core group
-  can push to it.
+  can push to it. Protect the dev branch, too – not against pushing by ordinary members, but
+  simply marking the branch as protected means that people with push access will not be able to
+  perform force pushes and alter the history on Github (which would be destructive for our
+  validation infrastructure).
+  * (Note that these steps can be automated with a script that uses the Github API.
+    It is not ready yet but a prototype exists in `docs-automation/ghapi`.)
 * Make the dev branch writable by the Contributors team (by default they cannot push to the repository
   at all).
 * Clone the repository to Dan's local system.
