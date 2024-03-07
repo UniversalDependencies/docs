@@ -40,6 +40,12 @@ See [here](release_checklist.html) for the checklist for data contributors.
   English name of the language (if it consists of multiple words, replace spaces by underscores)
   and ${treebank} is an acronym or a short word identifying the treebank (only English letters,
   CamelCase, no digits or special characters). Example: "UD_Ancient_Greek-PROIEL".
+
+```
+# If you have the gh tool, run:
+gh repo create UniversalDependencies/UD_Ancient_Greek-PROIEL --public --add-readme --team Contributors --clone
+```
+
 * Populate README.md, CONTRIBUTING.md and LICENSE.txt with default values.
 * Create two branches, "master" and "dev". Protect the master branch so that only the core group
   can push to it. Protect the dev branch, too – not against pushing by ordinary members, but
