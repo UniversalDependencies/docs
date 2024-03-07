@@ -41,9 +41,14 @@ See [here](release_checklist.html) for the checklist for data contributors.
   and ${treebank} is an acronym or a short word identifying the treebank (only English letters,
   CamelCase, no digits or special characters). Example: "UD_Ancient_Greek-PROIEL".
 
-```
+```Shell
 # If you have the gh tool, run:
 gh repo create UniversalDependencies/UD_Ancient_Greek-PROIEL --public --add-readme --team Contributors --clone
+cd UD_Tuwari-Autogramm
+copy ..\UD_ZZZ-Template\README.md .
+copy ..\UD_ZZZ-Template\CONTRIBUTING.md .
+copy ..\UD_ZZZ-Template\LICENSE.txt .
+git add CONTRIBUTING.md LICENSE.txt
 ```
 
 * Populate README.md, CONTRIBUTING.md and LICENSE.txt with default values.
