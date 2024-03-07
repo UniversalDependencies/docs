@@ -434,6 +434,8 @@ collections:
     output: true
   tn:
     output: true
+  tww:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
