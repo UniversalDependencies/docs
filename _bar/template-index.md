@@ -6,34 +6,50 @@ udver: '2'
 
 # UD for Bavarian <span class="flagspan"><img class="flag" src="../../flags/svg/DE-BY.svg" /></span>
 
+We mostly follow the [German guidelines](https://universaldependencies.org/de/) but describe differences to those guidelines here.
+
 ## Tokenization and Word Segmentation
 
-*
+We mostly delimit based on whitespace and punctuation. 
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+### Multi-word tokens
 
----
+We treat fused prepositions and determiners as multi-word tokens (following the German UD annotation guidelines). Since there is both phonetic and orthographic variation in the forms of the determiners, we do *not* normalize them, and instead simply split the tokens into substrings (even if this occasionally results in slightly awkward tokenizations, see the last example):
+
+* *zum* "to the" -> *zu* (ADP) + *m* (DET)
+* *aus'n* "from the" -> *aus* (ADP) + *'n* (DET)
+* *im* "in the" -> *i* (ADP) + *m* (DET)
+
+We similarly handle *zum (zun, zan, ...)* when used in infinitive constructions (*Ludwig van Beethoven hod de Gwohnheit ghobt, genau 60 Kafääbaunan zum oozöön [...]* "Ludwig van Beethoven had a habit of counting exactly 60 coffee beans"; sentence via the Wikipedia article [Kafää](https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4)):
+
+* *zum* -> *zu* (PART) + *m* (DET)
+
+### Tokens split with SpaceAfter=No
+
+We split off shortened determiners and adpositions in noun phrases, but use the `SpaceAfter=No` MISC attribute:
+
+* *z'Minga* "in Munich" -> *z'* (ADP) *Minga* (PROPN)
+* *d'neie* "the new [one]" -> *d'* (DET) *neie* (ADJ)
+
+In sentences where a verb or conjunction is immediately followed by one or more pronouns, we use `SpaceAfter=No` to split them:
+
+* *gibts* "there is" -> *gibt* (VERB) *s* (PRON)
+* *håmas* "we have it" -> *hå* (VERB) *ma* (PRON) *s* (PRON)
+
+We do *not* split off 2nd person morphemes attached to complementizers and instead treat such cases as inflection. E.g., *wennsd kimmsd* "when.2SG come.2SG.PRES" contains two words and *wennsd du kimmsd* "when.2SG you.SG come.2SG.PRES" contains three.
 
 ## Morphology
 
 ### Tags
 
-*
+We use all tags and follow the German guidelines, with the following exceptions/extensions:
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* We tag the relative marker *wo (wos, wej, ...)* as SCONJ.
+* We consider *tua (doa, ...)* "do" an AUXiliary when used accordingly.
 
 ### Features
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+We currently do not use features.
 
 ## Syntax
 
@@ -46,14 +62,7 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/bar-comparison.html) Bavarian UD treebanks:
+There is [one](../treebanks/bar-comparison.html) Bavarian UD treebank:
 
-  * [Bavarian-A](../treebanks/bar_a/index.html)
-  * [Bavarian-B](../treebanks/bar_b/index.html)
+  * [UD_Bavarian-MaiBaam](../treebanks/bar_maibaam)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
