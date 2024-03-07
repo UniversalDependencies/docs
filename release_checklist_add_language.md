@@ -43,8 +43,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 ```Shell
 # If you have the gh tool, run:
-gh repo create UniversalDependencies/UD_Ancient_Greek-PROIEL --public --add-readme --team Contributors --clone
-cd UD_Tuwari-Autogramm
+gh repo create UniversalDependencies/UD_Ancient_Greek-PROIEL --public --add-readme --team Contributors
+git clone git@github.com:UniversalDependencies/UD_Ancient_Greek-PROIEL.git
+cd UD_Ancient_Greek-PROIEL
 copy ..\UD_ZZZ-Template\README.md .
 copy ..\UD_ZZZ-Template\CONTRIBUTING.md .
 copy ..\UD_ZZZ-Template\LICENSE.txt .
@@ -59,6 +60,14 @@ git add CONTRIBUTING.md LICENSE.txt
   validation infrastructure).
   * (Note that these steps can be automated with a script that uses the Github API.
     It is not ready yet but a prototype exists in `docs-automation/ghapi`.)
+
+```Shell
+git commit -a -m "Initialization and the last commit to the master branch; switching to dev now."
+git checkout -b dev
+git push --all --set-upstream
+perl docs-automation\ghapi\ghapi.pl --protect UD_Ancient_Greek-PROIEL
+```
+
 * Make the dev branch writable by the Contributors team (by default they cannot push to the repository
   at all).
 * Clone the repository to Dan's local system.
