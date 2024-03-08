@@ -13,7 +13,8 @@ UD specifies a complete morpho-syntactic representation that can be applied cros
 * A _part-of-speech tag_ representing the abstract lexical category associated with the word.
 * A set of _features_ representing lexical and grammatical properties that are associated with the particular word form.
 
-Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the part-of-speech tags and grammatical properties are taken from two universal inventories defined below.
+Lemmas are typically determined by language-specific dictionaries and lexica. In contrast, the
+part-of-speech tags and grammatical properties are taken from two universal inventories defined below.
 
 Unlike in various language-specific tagsets, the universal tags and features do not
 include means to mark _fused words_ (a word that is result of
@@ -176,8 +177,9 @@ for locating the form in a slot of a morphological paradigm, and are canonical
 labels for the slot. Thus, for example, the [Voice]() feature is used in Czech
 to distinguish passive participles (_prodán_ “sold” `Voice=Pass`), which are
 morphologically distinct from active participles (_prodal_ “sold” `Voice=Act`);
-however, the feature is not used in English, where the same form is used in
-active and passive constructions alike (cf. _he has sold it_ vs. _it was sold_).
+however, the feature is not used with participles in German, where the same
+form is used in active and passive constructions alike (cf. _Er hat es
+verkauft_ “He has sold it” vs. _Es wurde verkauft_ “It was sold”).
 On the other hand, some word forms are homonymous and context must be used to
 identify the paradigm slot to which they belong. For example, the morphological
 paradigm of Czech nouns distinguishes nominative and accusative (among other

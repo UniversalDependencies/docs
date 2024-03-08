@@ -22,7 +22,7 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
 ### Examples
 
 *	interrogative pronouns in direct questions: *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what", e.g., Direct questions: *Ποιο/Πόσο/Τι θέλεις;* / *Pio/Poso/What want.2SG*  "which/how much/what do you want?" 
-* personal pronouns: both strong and weak types (clitics), e.g., the weak types *του το* in *του το έδωσα* / *tou to edosa* "I gave it to him"
+* personal pronouns: both strong and weak types (clitics), e.g., the weak types *του το* in *του το έδωσα* / *tou to edosa* "I gave it to him"; however, *αυτός* and its inflectional paradigm are  always assigned the PoS [DET]() while its weak types *του της το" etc, are assigned the PoS [PRON]()
 *	possessive pronouns: weak types, e.g., *μου* in *το σπίτι μου* / *to spiti mou* "my house"
 * reflexive pronouns: *εαυτός* / *eaftos* "self"
 *	relative pronouns <code>PronType=Rel</code>: *οποίος* / *opios* "who"

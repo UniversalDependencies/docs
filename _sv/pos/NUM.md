@@ -2,6 +2,7 @@
 layout: postag
 title: 'NUM'
 shortdef: 'numeral'
+udver: '2'
 ---
 
 ### Definition

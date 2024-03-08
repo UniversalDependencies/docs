@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Bavarian UD'
+title:  'Torwali UD'
 udver: '2'
 ---
 
-# UD for Bavarian <span class="flagspan"><img class="flag" src="../../flags/svg/DE-BY.svg" /></span>
+# UD for Torwali <span class="flagspan"><img class="flag" src="../../flags/svg/PK.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/bar-comparison.html) Bavarian UD treebanks:
+There are [N](../treebanks/trw-comparison.html) Torwali UD treebanks:
 
-  * [Bavarian-A](../treebanks/bar_a/index.html)
-  * [Bavarian-B](../treebanks/bar_b/index.html)
+  * [Torwali-A](../treebanks/trw_a/index.html)
+  * [Torwali-B](../treebanks/trw_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
