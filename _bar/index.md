@@ -14,10 +14,9 @@ We mostly delimit based on whitespace and punctuation.
 
 ### Multi-word tokens
 
-We treat fused prepositions and determiners as multi-word tokens (following the German UD annotation guidelines). Since there is both phonetic and orthographic variation in the forms of the determiners, we do *not* normalize them, and instead simply split the tokens into substrings (even if this occasionally results in slightly awkward tokenizations, see the last example):
+We treat fused prepositions and determiners as multi-word tokens (following the German UD annotation guidelines). Since there is both phonetic and orthographic variation in the forms of the determiners, we do *not* normalize them, and instead simply split the tokens into substrings (even if this occasionally results in slightly awkward tokenizations, see the second example):
 
 * *zum* “to the” -> *zu* (ADP) + *m* (DET)
-* *aus'n* “from the” -> *aus* (ADP) + *'n* (DET)
 * *im* “in the” -> *i* (ADP) + *m* (DET)
 
 We similarly handle *zum (zun, zan, ...)* when used in infinitive constructions (*Ludwig van Beethoven hod de Gwohnheit ghobt, genau 60 Kafääbaunan zum oozöön [...]* “Ludwig van Beethoven had a habit of counting exactly 60 coffee beans”; sentence via the Wikipedia article [Kafää](https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4)):
@@ -98,7 +97,7 @@ Below is a copy of the German guidelines, adjusted for Bavarian:
   * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
     are adjuncts.
 * Extra attention has to be paid to the reflexive pronoun _si_. It can function as:
-  * Core object ([obj]()): _ea hod si im Spiegl gsehn_ lit. “he has sighted himself in the mirror.”
+  * Core object ([obj]()): _ea hod si im Spiegl gseng_ lit. “he has sighted himself in the mirror.”
   * Reciprocal core objects (`obj`): _sie hom si kissd_ “they were kissing each other.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase.
