@@ -5,7 +5,7 @@ shortdef : 'relative clause modifier'
 udver: '2'
 ---
 
-A relative clause modifier of an noun is a finite clause that modifies the noun and is introduced by *που* or a (structure including) an *οποίος*-relative pronoun. The relation points from the noun that is modified to the head of the relative clause. *οποίος*-relative pronoun are assigned typical nominal relations like  [dobj](obj), [nsubj](nsubj) and [nmod](nmod). A [det](det) relation is also possible.
+A relative clause modifier of an noun is a finite clause that modifies the noun and is introduced by *που* or a (structure including) an *οποίος* or *όσος* relative pronoun. The relation points from the noun that is modified to the head of the relative clause. *οποίος*-relative pronoun are assigned typical nominal relations like  [dobj](obj), [nsubj](nsubj) and [nmod](nmod). A [det](det) relation is also possible.
 
 ~~~ sdparse
 το Όσκαρ με το οποίο τιμήθηκε
@@ -82,20 +82,22 @@ advmod(περιέχει, μην)
 23	.	.	PUNCT	PTERMP	PunctType=Peri	3	punct	_	_
 ~~~
 
-The relative pronoun *όσος* may introduce clauses that depend on a verb with the [ccomp]() function as in the example in CONLLU format below. This example could be paraphrased to the fully synonymous *στο μάτι έβαλε η Τρόϊκα* όλους όσους *είναι κάτω από 62* "Troika targets those who are less than 62 years old" where the object *όλους" is explicit and the pronoun *όσους* has it as an explicit target.
+The relative pronoun *όσος* may function as the object of a verb and at the same time introduce a clause modifying this object as in the example in CONLLU format below.  
 
 ~~~conllu
-# text = Στο μάτι έβαλε η τρόικα όσους είναι κάτω από 62
-1	Στο	στου	ADP	AsPpSp	_	2	case	_	mwe=1|None=Yes
-2	μάτι	μάτι	NOUN	NoCm	Case=Nom|Gender=Neut|Number=Sing	3	obl	_	mwe=1
-3	έβαλε	βάζω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	mwe=1:VID
-4	η	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	τρόικα	τρόικα	NOUN	NoCm	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-6	όσους	όσος	PRON	PnDm	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	_
-7	είναι	είμαι	AUX	VbMn	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pas	10	cop	_	_
-8	κάτω	κάτω	ADV	AdBa	_	9	advmod	_	None=Yes
-9	από	από	ADP	AsPpSp	_	10	case	_	None=Yes
-10	62	62	NUM	DIG	Case=Gen|Gender=Masc|Number=Plur	3	ccomp	_	_
+# text = Ο Λ. έβγαλε στο δρόμο όσους δεν έβγαλε ο σεισμός .
+# sent_id = output6__33
+1	Ο	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Λ. Λ.	PROPN	NoPr	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+3	έβγαλε	βγάζω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	mwe=1:VID
+4	στο	στου	ADP	AsPpSp	_	5	case	_	mwe=1,2|None=Yes
+5	δρόμο	δρόμος	NOUN	NoCm	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	mwe=1,2
+6	όσους	όσος	PRON	PnRi	Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	3	obj	_	_
+7	δεν	δεν	PART	PtNg	Polarity=Neg	8	advmod	_	_
+8	έβγαλε	βγάζω	VERB	VbMn	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl:relcl	_	mwe=2:VID|mwe_el=δρόμο
+9	ο	ο	DET	AtDf	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	σεισμός	σεισμός	NOUN	NoCm	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
+11	.	.	PUNCT	PTERMP	PunctType=Peri	3	punct	_	_
 ~~~
 
 <!---
