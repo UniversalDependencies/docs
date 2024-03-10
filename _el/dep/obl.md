@@ -69,7 +69,7 @@ obj(βάφτισε, παιδί)
 obl(βάφτισε, της)
 obj(βάφτισε, παιδί)
 
-The same approach holds with multiword expressions.
+[obl]() is used with multiword expressions (where it is not clear whether the dative genitive stands for an original olique or for a genitive denoting inalienable possession.)
 
 ~~~ sdparse
 Tης έκαψε την καρδιά.
