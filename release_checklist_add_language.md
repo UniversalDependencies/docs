@@ -98,7 +98,8 @@ mv /tmp/newreport.txt evaluation-report.txt
 chmod 666 evaluation-report.txt
 setfacl -m u:zeman:rw,u:www-data:rw evaluation-report.txt</pre>
 3.  Call
-    <pre>docs-automation/valdan/clone_one.sh $newrepo</pre>
+    <pre>docs-automation/valdan/clone_one.sh $newrepo
+./update-validation-report.pl $newrepo</pre>
 4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
     Create a new clone under the new name. Check out the dev branch.
 5.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
