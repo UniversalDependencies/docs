@@ -80,7 +80,7 @@ Nested coordination.
 
 COORIDNATION IN MULTIWORD EXPRESSIONS (MWEs)
 
-In general, we try to highlight the presence of a MWE when it exists. In the example below, there are two conjoined verb MWEs which are lexical variants *αφήνω ρέστο*, *αφήνω ταπί*: they share the verb head and they are synonymous. 
+In general, we try to highlight the presence of a MWE when it exists. In the example below, there are two conjoined verb MWEs which are lexical variants: the synonyms *αφήνω ρέστο* and *αφήνω ταπί*  share a verb head. 
 
 ~~~connlu
 # text = Αλλά έτσι είναι , όταν χτίσεις , λίγο ο εργολάβος , λίγο ο μπετατζής , λίγο ο καγκελάς , σε ξεψαχνίζουν και σε αφήνουν ρέστο και ταπί .
