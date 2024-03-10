@@ -69,6 +69,14 @@ obj(βάφτισε, παιδί)
 obl(βάφτισε, της)
 obj(βάφτισε, παιδί)
 
+The same approach holds with multiword expressions.
+
+~~~ sdparse
+Tης έκαψε την καρδιά.
+obl(έκαψε, της)
+obj(έκαψε, καρδιά)
+root(έκαψε)
+~~~
 
 `
 - [obl]() is also used for temporal and locational nominal modifiers:
