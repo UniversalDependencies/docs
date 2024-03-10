@@ -85,7 +85,8 @@ at least the following steps:
 2.  Go to the server where the automatic validation and evaluation runs (currently quest.ms.mff.cuni.cz, operated by Dan).
     Remove the old clone of the repository and the reports from validation and evaluation.
     <pre>oldrepo=UD_Czech
-rm -rf $oldrepo
+newrepo=UD_Czech-PDT</pre>
+    <pre>rm -rf $oldrepo
 rm log/$oldrepo.log
 rm log/$oldrepo.eval.log
 grep -v -P '^'$oldrepo':' validation-report.txt > /tmp/newreport.txt
@@ -96,7 +97,8 @@ grep -v -P '^'$oldrepo'\t' evaluation-report.txt > /tmp/newreport.txt
 mv /tmp/newreport.txt evaluation-report.txt
 chmod 666 evaluation-report.txt
 setfacl -m u:zeman:rw,u:www-data:rw evaluation-report.txt</pre>
-3.  Call docs-automation/valdan/clone_one.sh UD_Czech-PDT.
+3.  Call
+    <pre>docs-automation/valdan/clone_one.sh $newrepo</pre>
 4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
     Create a new clone under the new name. Check out the dev branch.
 5.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
