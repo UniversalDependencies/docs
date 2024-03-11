@@ -4,7 +4,7 @@ title:  'Bavarian UD'
 udver: '2'
 ---
 
-# UD for Bavarian <span class="flagspan"><img class="flag” src="../../flags/svg/DE-BY.svg” /></span>
+# UD for Bavarian <span class="flagspan"><img class="flag" src="../../flags/svg/DE-BY.svg" /></span>
 
 We mostly follow the [German guidelines](https://universaldependencies.org/de/) but describe differences to those guidelines here.
 
@@ -19,7 +19,7 @@ We treat fused prepositions and determiners as multi-word tokens (following the 
 * *zum* “to the” -> *zu* (ADP) + *m* (DET)
 * *im* “in the” -> *i* (ADP) + *m* (DET)
 
-We similarly handle *zum (zun, zan, ...)* when used in infinitive constructions (*Ludwig van Beethoven hod de Gwohnheit ghobt, genau 60 Kafääbaunan zum oozöön [...]* “Ludwig van Beethoven had a habit of counting exactly 60 coffee beans”; sentence via the Wikipedia article [Kafää](https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4)):
+When *zum (zun, zan, ...)* is used in infinitive constructions (*Ludwig van Beethoven hod de Gwohnheit ghobt, genau 60 Kafääbaunan zum oozöön [...]* “Ludwig van Beethoven had a habit of counting exactly 60 coffee beans”; sentence via the Wikipedia article [Kafää](https://bar.wikipedia.org/wiki/Kaf%C3%A4%C3%A4)), we handle it similarly (although note the different parts of speech):
 
 * *zum* -> *zu* (PART) + *m* (DET)
 
@@ -98,7 +98,7 @@ Below is a copy of the German guidelines, adjusted for Bavarian:
     are adjuncts.
 * Extra attention has to be paid to the reflexive pronoun _si_. It can function as:
   * Core object ([obj]()): _ea hod si im Spiegl gseng_ lit. “he has sighted himself in the mirror.”
-  * Reciprocal core objects (`obj`): _sie hom si kissd_ “they were kissing each other.”
+  * Reciprocal core objects (`obj`): _sie hom si kissd_ “they kissed each other.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase.
     In accord with the UD guidelines, we label the relation
@@ -152,10 +152,13 @@ punct(cheeky, ,-9)
 Many infinitive constructions either use the cliticized infinitive marker *z* followed by a verbal infinitive or the marker *zu (za)* combined with a clitized dative determiner *m (n)* and a nominalized infinitive. We annotate such cases as follows, re-using the example sentence from above: _Ludwig van Beethoven hod de Gwohnheit ghobt, genau 60 Kafääbaunan zum oozöön, um si draus a Schalal Mokka zmochn._ “Ludwig van Beethoven had a habit of counting exactly 60 coffee beans in order to brew a cup of coffee from them”
 
 ~~~ sdparse
-[...] genau 60 Kafääbaunan zu/PART m/DET oozöön/NOUN , um si draus a Schalal Mokka z/PART mochn/VERB
+[...] genau 60 Kafääbaunan zu/PART m/DET oozöön/NOUN , um si draus a Schalal Mokka z/PART mochn/VERB  \n [...] exactly 60 coffee.beans to/PART the/DET counting/NOUN , in.order.to himself out.of.it a cup coffee to/PART make/VERB
 mark(oozöön, zu)
 det(oozöön, m)
 mark(mochn, z)
+mark(counting, to)
+det(counting, the)
+mark(make, to-32)
 ~~~
 
 #### Relative markers
