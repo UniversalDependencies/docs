@@ -52,7 +52,7 @@ The iterative aspect, indicating that the event frequently happens is coded by t
 
 `Imi` Imminent
 
-### <a name="Inc">`Imi`</a>: Incipient
+### <a name="Inc">`Inc`</a>: Incipient
 
 The incipient aspect is coded by the suffix -_gody_ and indicates that an action starts to happen.
 
