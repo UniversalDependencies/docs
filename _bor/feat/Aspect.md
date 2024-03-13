@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#IncProg">IncProg</a></td>
   <td><a href="#Iter">Iter</a></td>
-  <td><a href="#Imi">Imi</a></td>
+  <td><a href="#Inc">Inc</a></td>
   
 </tr>
 </table>
@@ -52,9 +52,9 @@ The iterative aspect, indicating that the event frequently happens is coded by t
 
 `Imi` Imminent
 
-### <a name="Imi">`Imi`</a>: Imminent
+### <a name="Inc">`Imi`</a>: Incipient
 
-The imminent aspect, indicating that the event is imminent is coded by the suffix -_gody_.
+The incipient aspect is coded by the suffix -_gody_ and indicates that an action starts to happen.
 
 #### Example
 
