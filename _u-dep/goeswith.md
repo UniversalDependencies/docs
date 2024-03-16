@@ -18,18 +18,18 @@ does have features, then [Typo]()`=Yes` must be used with the `goeswith` head.
 Note also that only the last word part may be annotated with `SpaceAfter=No`.
 
 ~~~ sdparse
-They come here with out legal permission
+They come here with/ADP[Typo=Yes] out/X legal permission
 goeswith(with-4, out-5)
 ~~~
 
 ~~~ sdparse
-never the less/[SpaceAfter=No] ,
+never/ADV[Typo=Yes] the/X less/X[SpaceAfter=No] ,
 goeswith(never, the)
 goeswith(never, less)
 ~~~
 
 ~~~ sdparse
-For get that !
+For/VERB[Mood=Imp|Typo=Yes|VerbForm=Fin] get/X that !
 goeswith(For, get)
 obj(For, that)
 punct(For, !)
