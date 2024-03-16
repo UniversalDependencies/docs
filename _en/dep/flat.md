@@ -5,6 +5,9 @@ shortdef: 'flat'
 udver: '2'
 ---
 
+Up-to-date guidelines for `flat`, including English examples, can be found under the [universal `flat` guidelines](/u/dep/flat).
+
+<!--
 `flat` is one of the three relations for compounding in UD (together
 with [compound]() and [fixed]()).
 It is used for proper nouns constituted of multiple nominal
@@ -79,4 +82,5 @@ flat(Miguel, Saavedra)
 San Francisco
 flat(San, Francisco)
 ~~~
+-->
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:55 CET -->
