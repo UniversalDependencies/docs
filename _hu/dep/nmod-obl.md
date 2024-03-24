@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'nmod'
+title: 'nmod:obl'
 shortdef: 'nominal modifier in oblique case'
 udver: '2'
 ---

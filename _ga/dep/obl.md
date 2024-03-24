@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'oblique'
+title: 'obl'
 shortdef: 'oblique'
 udver: '2'
 ---
