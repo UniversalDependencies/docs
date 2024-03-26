@@ -52,6 +52,12 @@ copy ..\UD_ZZZ-Template\LICENSE.txt .
 git add CONTRIBUTING.md LICENSE.txt
 ```
 
+or
+
+```Shell
+perl docs-automation\ghapi\ghapi.pl --create UD_Ancient_Greek-PROIEL
+```
+
 * Populate README.md, CONTRIBUTING.md and LICENSE.txt with default values.
 * Create two branches, "master" and "dev". Protect the master branch so that only the core group
   can push to it. Protect the dev branch, too – not against pushing by ordinary members, but
@@ -66,6 +72,12 @@ git commit -a -m "Initialization and the last commit to the master branch; switc
 git checkout -b dev
 git push --all --set-upstream
 perl docs-automation\ghapi\ghapi.pl --protect UD_Ancient_Greek-PROIEL
+```
+
+or
+
+```Shell
+perl docs-automation\ghapi\ghapi.pl --finalize UD_Ancient_Greek-PROIEL
 ```
 
 * Make the dev branch writable by the Contributors team (by default they cannot push to the repository
