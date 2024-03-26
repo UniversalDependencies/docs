@@ -446,6 +446,8 @@ collections:
     output: true
   xpg:
     output: true
+  ang:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
