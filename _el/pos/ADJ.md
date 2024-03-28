@@ -75,7 +75,6 @@ Modern Greek has periphrastic comparatives too.  _πιο_ is used with adjective
 
 ### Diminutives and augmentatives 
 
-Modern Greek expresses degree modification of adjectives with a variety of morphological (and syntactic) means:
 
 * Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–ούτσικος* / *-outsikos*,  *–ούλης* / *-oulis*,  like *μικρούτσικος* / *mikroutsikos* "smallish", *κιτρινούλης* / *kitrinoulis* "a bit yellow": they are assigned the lemma of the original adjective and the feature [Degree]() takes the value [Dim](). 
 * Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original adjective and the feature [Degree]()  takes the value [Aug]().
