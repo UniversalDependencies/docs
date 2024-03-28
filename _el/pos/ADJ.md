@@ -62,14 +62,14 @@ Modern Greek has periphrastic comparatives too.  _πιο_ is used with adjective
 # sent_id = 1055
 # text = Οι άλλες τράπεζες είναι πολύ πιο συντηρητικές.
 # en_translation = The other banks are much more conservatie.
-1	Οι	ο	DET	_	_	3	det	_	_
-2	άλλες	άλλος	DET	_	_
-3	τράπεζες	τράπεζα	NOUN	  _	_	7	nsubj	_	_
-4	είναι	είμαι	AUX	_	_	7	cop	_	_
-5	πολύ	πολύ	ADV	_	_	6	advmod	_	_
-6	πιο	πιο	ADV	_	<b>Degree=Cmp<\b>		7	advmod	_	_
-7	συντηρητικές	συντηρητικός	ADJ	_	_	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	__
+1	Οι	ο	DET	_	_	_	3	det	_	_
+2	άλλες	άλλος	DET	_	_	_	3	det	_	_
+3	τράπεζες	τράπεζα	NOUN	_	_	_	7	nsubj	_	_
+4	είναι	είμαι	AUX		_	_	_	7	cop	_	_
+5	πολύ	πολύ	ADV	_	_	_	6	advmod	_	_
+6	πιο	πιο	ADV	_	_	<b>Degree=Cmp<\b>		7	advmod	_	_
+7	συντηρητικές	συντηρητικός	ADJ	_	_	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	7	punct	_	__
 
 ~~~
 
