@@ -20,10 +20,6 @@ udver: '2'
   * Univerbation due to main verb with verb particle. (Example: _opzehalen = ze + ophalen_ "to stop".)
 
 
----
-
----
-
 ## Morphology
 
 ### Tags
@@ -39,20 +35,10 @@ udver: '2'
   * modal verbs _kënnen_ “can”, _mussen_ “must”, _sollen_ “shall”, _däerfen_ “may”, _wollen_ “want”.
   * The verbs _sinn, hunn, goen, ginn_, and _kréien_ can also occur as normal verbs ([VERB]()), meaning “be, have, go, give, and get”.
 
----
-
-
----
-
 ### Features
 
 * clitic
 * negation
-
----
-
-
----
 
 ## Syntax
 
@@ -62,16 +48,8 @@ udver: '2'
   * [det:poss]() for possessive determiners
   * [nmod:poss]() for possessive modifier phrases
 
----
-
-
----
-
 ## Treebanks
 
 There is [1](../treebanks/lb-comparison.html) Luxembourgish UD treebank:
 
   * [LuxBank](../treebanks/_lb/index.html)
-
-
----
