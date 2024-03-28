@@ -26,12 +26,12 @@ udver: '2'
 
 * Luxembourgish uses all 17 universal POS categories, including particles ([PART]()).
 * Luxembourgish auxiliary verbs ([AUX]()) are:
-  * _hunn_
-  * _sinn_
-  * _goen_
-  * _ginn_
-  * _kréien_
-  * _wäerten_ 
+  * _sinn_ for perfect tenses of certain verbs (_Si [ass]() zu Paräis opgewuess._ "She grew up in Paris") and passive constructions (_D'Haus [ass]() gebaut._ "The house is built").
+  * _hunn_ for perfect tenses of certain verbs (_D'Meedchen [huet]() e Bréif u säi Frënd geschriwwen_ "The girl wrote a letter to her friend.")
+  * _goen_ for subjunctive constructions (_Ech [géing]() heem goen._ "I would go home.").
+  * _ginn_ for subjunctive  (_Et [gouf]() gëschter zougestallt._ "It was delivered yesterday") and passive constructions (_Ech [géif]() gär mat him schwätzen._ "I would like to talk to her").
+  * _kréien_ for passive constructions (_Ech [kréie]() gehollef._ "I am being helped").
+  * _wäerten_ for subjunctive constructions (_Dat [wäert]() sech änneren._ "That will change.")
   * modal verbs _kënnen_ “can”, _mussen_ “must”, _sollen_ “shall”, _däerfen_ “may”, _wollen_ “want”.
   * The verbs _sinn, hunn, goen, ginn_, and _kréien_ can also occur as normal verbs ([VERB]()), meaning “be, have, go, give, and get”.
 
@@ -53,4 +53,4 @@ udver: '2'
 
 There is [1](../treebanks/lb-comparison.html) Luxembourgish UD treebank:
 
-  * [LuxBank](../treebanks/_lb/index.html)
+  * [LuxBank](treebanks/lb/index.html)
