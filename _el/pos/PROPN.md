@@ -24,7 +24,9 @@ The words *κύριος, κυρία* / *kirios, kiria* 'mister, madam'  and thei
 
 The adjective *Άγιος* 'Saint' (all genders) and its shortened version *Αη* receive the same lemma  *Άγιος*, are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun it modifies, e.g. *ο*.DET *Αγιος*.ADJ *Νικόλαος*.PROPN, *ο*.DET *Άη*.ADJ *Νικόλας*.PROPN. 
 
-The noun *παππάς* 'priest' and the adjective "γέρος" 'old' normally receive the respective PoS tag and syntactic dependency. Their  shortened versions *παππα-, γερο-* are  attached to nouns or proper nouns with or without a *-*, e.g., *παπα-Νικόλας*, *γεροναύτης* 'old sailor'. Sometimes the shortened versions *κυρ΄, κυρα* and *Άη, Αγια-* are also spelled in the same way (phonoligally they form units with the nouns they modify). These are productive structures. 
+The noun *παππάς* 'priest' and the adjective "γέρος" 'old' normally receive the respective PoS tag and syntactic dependency. Their  shortened versions *παππα-, γερο-* are  attached to nouns or proper nouns with or without a *-*, e.g., *παπα-Νικόλας*, *γεροναύτης* 'old sailor'. Sometimes the shortened versions *κυρ΄, κυρα* and *Άη, Αγια-* are also spelled in the same way (phonoligally they form units with the nouns they modify). At annotation they are split into their two components and annotated like their full forms. 
+
+### Acronyms
 
 Acronyms of proper nouns, such as *OHE* / *OIE* "UN" and NATO are assigned the tag PROPN. If they contain numbers (as in various product names) but still consist of one token, they are tagged PROPN and not <code>SYM</code>. However, if a token in a multitoken PROPN consists entirely of digits or an independent word (like *7* in *Windows 7*, *Τρείς Γέφυρες* / *Tris Gefires* "Three Bridges"), it is tagged <code>NUM</code>.
 Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of the acronym MME) *Μπε-εμ-βε* "BMW", they are assigned the tag PROPN. 
