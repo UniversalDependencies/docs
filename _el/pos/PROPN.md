@@ -18,8 +18,13 @@ When a PROPN is formed by an <code>ADJ</code> and a noun, such as *Μεγάλη 
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in *Δίωξη ναρκωτικών* / *Dioxi narkotikon* "Drug Enforcement  Agency", both *Δίωξη* and  *ναρκωτικών* are assigned the tag NOUN.
 
-The word *κύριος* / *kirios* 'mister' is assigned the tag <code>ADJ</code>; however, when it is used with the meaning "the Lord" (see examples), it is assigned the tag <code>PROPN</code>, e.g.,  *ο*.DET *κύριος*.ADJ *Χαρδάκος*.PROPN, *ένας*.DET *κύριος*.ADJ
+### Τypical modifiers of propern nouns with shortened versions
 
+The words *κύριος, κυρία* / *kirios, kiria* 'mister, madam'  and their shortened version *κυρ΄, κυρα*  receive the same lemma *κύριος, κυρία*,  are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun they modify; however, when *Κύριος* is used with the meaning "the Lord" (see examples), it is assigned the tag <code>PROPN</code>, e.g.,  *ο*.DET *κύριος*.ADJ *Χαρδάκος*.PROPN, *ένας*.DET *κύριος*.ADJ
+
+The adjective *Άγιος* 'Saint' (all genders) and its shortened version *Αη* receive the same lemma  *Άγιος*, are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun it modifies, e.g. *ο*.DET *Αγιος*.ADJ *Νικόλαος*.PROPN, *ο*.DET *Άη*.ADJ *Νικόλας*.PROPN. 
+
+The noun *παππάς* 'priest' and the adjective "γέρος" 'old' normally receive the respective PoS tag and syntactic dependency. Their  shortened versions *παππα-, γερο-* are  attached to nouns or proper nouns with or without a *-*, e.g., *παπα-Νικόλας*, *γεροναύτης* 'old sailor'. Sometimes the shortened versions *κυρ΄, κυρα* and *Άη, Αγια-* are also spelled in the same way (phonoligally they form units with the nouns they modify). These are productive structures. 
 
 Acronyms of proper nouns, such as *OHE* / *OIE* "UN" and NATO are assigned the tag PROPN. If they contain numbers (as in various product names) but still consist of one token, they are tagged PROPN and not <code>SYM</code>. However, if a token in a multitoken PROPN consists entirely of digits or an independent word (like *7* in *Windows 7*, *Τρείς Γέφυρες* / *Tris Gefires* "Three Bridges"), it is tagged <code>NUM</code>.
 Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of the acronym MME) *Μπε-εμ-βε* "BMW", they are assigned the tag PROPN. 
