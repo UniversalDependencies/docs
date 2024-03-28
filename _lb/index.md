@@ -53,4 +53,4 @@ udver: '2'
 
 There is [1](../treebanks/lb-comparison.html) Luxembourgish UD treebank:
 
-  * [LuxBank](../../treebanks/luxbank/index.html)
+  * [LuxBank](../../treebanks/lb_luxbank/index.html)
