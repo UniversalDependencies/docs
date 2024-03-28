@@ -37,16 +37,17 @@ udver: '2'
 
 ### Features
 
-* clitic
-* negation
+* For s clitics in subordinated clauses the feature _clitic_ will be used (currently under misc.)
+* For negation particles the feature _negation_ will be used (currently under misc.)
 
 ## Syntax
 
 * The copula verb _sinn_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-* The following relation subtypes are used in German:
+* The following relation subtypes are used in Luxembourgish:
   * [expl:pv]() for reflexive clitics of inherently reflexive verbs
   * [det:poss]() for possessive determiners
   * [nmod:poss]() for possessive modifier phrases
+  * (more to come, currently incomplete)
 
 ## Treebanks
 
