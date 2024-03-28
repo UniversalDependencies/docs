@@ -42,6 +42,9 @@ Certain proper nouns [PROPN]() are directly related with adjectives:
 	
 Ancient Greek adverbs that are used as adjectives in EL: *νυν* / *nin* "current", *τέως* / *teos* "past"; also, pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word nowadays).
 
+### Morphological and Periphrastic Gradation
+
+
 Degree of comparison is an inflectional feature of adjectives and some adverbs. EL marks morphologically the positive, comparative and absolute superlative degree.  Non-periphrastic comparative and absolute superlative degrees  of Greek adjectives are formed with a small set of suffixes or they have irregular forms [Degree](el-feat/Degree):
 -	(regular) *ταχύς – ταχύτερος – ταχύτατος* / *tachis - tachiteros - tachitatos* "fast - faster -fastest"
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
@@ -50,11 +53,33 @@ Degree of comparison is an inflectional feature of adjectives and some adverbs. 
 The comparative (most of the times) and the superlative degree (always) of adjectives is composite:
 -	_Ο Γιάννης είναι πιο ψηλός/ψηλότερος από τον Κώστα_ / _o Gianis ine pio psilos/psiloteros apo ton Kosta_ "Giannis is taller than Kostas"
 -	_το πιο ψηλό/ψηλότερο παιδί της γειτονιάς_ / _to pio psilo/psilotero pedi tis gitonias_ "the tallest boy in the neighborhood"
-	
+
+Modern Greek has periphrastic comparatives too.  _πιο_ is used with adjectives to form periphrastic comparatives. The Degree feature will be encoded on _πιο_.
+
+~~~ conllu
+# user_id = stellamarks
+# timestamp = 1702746962656
+# sent_id = 1055
+# text = Οι άλλες τράπεζες είναι πολύ πιο συντηρητικές.
+1	Οι	ο	DET	_	_	3	det	_	_
+2	άλλες	άλλος	DET	_	_
+3	τράπεζες	τράπεζα	NOUN	  _	_	7	nsubj	_	_
+4	είναι	είμαι	AUX	_	_	7	cop	_	_
+5	πολύ	πολύ	ADV	_	_	6	advmod	_	_
+6	πιο	πιο	ADV	_	<b>Degree=Cmp<\b>		7	advmod	_	_
+7	συντηρητικές	συντηρητικός	ADJ	_	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	__
+
+~~~
+
+### Diminutives and augmentatives 
+
 Modern Greek expresses degree modification of adjectives with a variety of morphological (and syntactic) means:
 
 * Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–ούτσικος* / *-outsikos*,  *–ούλης* / *-oulis*,  like *μικρούτσικος* / *mikroutsikos* "smallish", *κιτρινούλης* / *kitrinoulis* "a bit yellow": they are assigned the lemma of the original adjective and the feature [Degree]() takes the value [Dim](). 
 * Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original adjective and the feature [Degree]()  takes the value [Aug]().
+
+### The participles
 
 Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB](), the lemma ending in *-μένος*  and *-θείς*   and the relevant features Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
 Ηowever, there are formations ending in *-μένος* not related with a verb in use in Modern Greek, e.g. *χιλιοτραγουδισμένος* / _chiliotragoudismenos_ “storied”, *ξακουσμένος* / _ksakousmenos_ “famous”, etc; these are assigned the  tag [ADJ]().  
