@@ -44,23 +44,24 @@ Ancient Greek adverbs that are used as adjectives in EL: *νυν* / *nin* "curre
 
 ### Morphological and Periphrastic Gradation
 
+Modern Greek has both morphological and periphrastic comparatives.
 
 Degree of comparison is an inflectional feature of adjectives and some adverbs. EL marks morphologically the positive, comparative and absolute superlative degree.  Non-periphrastic comparative and absolute superlative degrees  of Greek adjectives are formed with a small set of suffixes or they have irregular forms [Degree](el-feat/Degree):
 -	(regular) *ταχύς – ταχύτερος – ταχύτατος* / *tachis - tachiteros - tachitatos* "fast - faster -fastest"
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
 -	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / *megalos - megaliteros - megistos* "big - bigger - biggest"
 
-The comparative (most of the times) and the superlative degree (always) of adjectives is composite:
+Modern Greek has periphrastic comparatives too.  _πιο_ is used with adjectives to form periphrastic comparatives. The Degree feature will be encoded on _πιο_.
 -	_Ο Γιάννης είναι πιο ψηλός/ψηλότερος από τον Κώστα_ / _o Gianis ine pio psilos/psiloteros apo ton Kosta_ "Giannis is taller than Kostas"
 -	_το πιο ψηλό/ψηλότερο παιδί της γειτονιάς_ / _to pio psilo/psilotero pedi tis gitonias_ "the tallest boy in the neighborhood"
 
-Modern Greek has periphrastic comparatives too.  _πιο_ is used with adjectives to form periphrastic comparatives. The Degree feature will be encoded on _πιο_.
 
 ~~~ conllu
 # user_id = stellamarks
 # timestamp = 1702746962656
 # sent_id = 1055
 # text = Οι άλλες τράπεζες είναι πολύ πιο συντηρητικές.
+# en_translation = The other banks are much more conservatie.
 1	Οι	ο	DET	_	_	3	det	_	_
 2	άλλες	άλλος	DET	_	_
 3	τράπεζες	τράπεζα	NOUN	  _	_	7	nsubj	_	_
