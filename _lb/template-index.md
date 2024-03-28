@@ -37,10 +37,18 @@ udver: '2'
 
 ## Syntax
 
-*
+* The copula verb _sinn_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+* The following relation subtypes are used in German:
+  * [expl:pv]() for reflexive clitics of inherently reflexive verbs
+  * [det:poss]() for possessive determiners
+  * [nmod:poss]() for possessive modifier phrases
+  * [adp]() for verbal particles
+  * [remnant]() for stripping and gapping elipsis 
+  * [neg]() for negation words
+  * [clitic]() for s clitics in subordinated clauses
 
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+
 
 ---
 
