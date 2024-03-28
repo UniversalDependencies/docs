@@ -24,7 +24,7 @@ The words *κύριος, κυρία* / *kirios, kiria* 'mister, madam'  and thei
 
 The adjective *Άγιος* 'Saint' (all genders) and its shortened version *Αη* receive the same lemma  *Άγιος*, are assigned the tag <code>ADJ</code> and depend with the [amod]() dependency on the proper noun it modifies, e.g. *ο*.DET *Αγιος*.ADJ *Νικόλαος*.PROPN, *ο*.DET *Άη*.ADJ *Νικόλας*.PROPN. 
 
-The noun *παπάς* 'priest' and the adjective "γέρος" 'old' normally receive the respective PoS tag and syntactic dependency. Their  shortened versions *παπα-, γερο-* are  attached to nouns or proper nouns with or without a *-*, e.g., *παπα-Νικόλας*, *γεροναύτης* 'old sailor'. Similarly, the shortened versions *κυρ΄, κυρα* and *Άη, Αγια-* are sometimes spelled in this way (phonoligally they form units with the nouns they modify); such spellings are split into their two components and annotated like their full forms. 
+The noun *παπάς* 'priest' and the adjective "γέρος" 'old' and *παλιός* 'old, bad' normally receive the respective PoS tag and syntactic dependency. Their  shortened versions *παπα-, γερο-, παλιο-* are  attached to nouns or proper nouns with or without a *-*, e.g., *παπα-Νικόλας*, *γεροναύτης* 'old sailor'. Similarly, the shortened versions *κυρ΄, κυρα* and *Άη, Αγια-* are sometimes spelled in this way (phonoligally they form units with the nouns they modify); such spellings are split into their two components and annotated like their full forms. 
 
 ### Acronyms
 
