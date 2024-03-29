@@ -119,6 +119,7 @@ All affixation cases are assigned the lemma of the original word and the feature
 * <b>Verbs</b> (prefixation)
 	* _πολυ-έρχομαι_ / _poli-erchome_ "to come very often (temporal)"
 	* _πολυ-λέω_ / _poli-leo_ "to say very often (temporal)"
+	* _πολυ-νοιάζομαι_ / _poli-niazome_ "to care intensively (intensity)"
 	
 * <b>Passive participles</b> (prefixation)
 	* _κατα-κουρασμένος_ / _katakourasmenos_ "very tired"
