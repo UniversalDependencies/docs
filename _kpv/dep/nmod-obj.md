@@ -9,8 +9,8 @@ udver: '2'
 is in parallel to nominative subjects [nmod:subj]().
 
 ~~~ sdparse
-мӧдӧдчисны нин зорӧдъяс чӧвтанінӧ ... \n they set of already for the place where you make hay stacks...
-advcl:lto(мӧдӧдчисны-1, чӧвтанінӧ-4)
+мӧдӧдчисны нин зорӧдъяс чӧвтанінӧ ... \n they already set off for the place where hay stacks are made...
+advcl:lmod(мӧдӧдчисны-1, чӧвтанінӧ-4)
 advmod:tmod(мӧдӧдчисны-1, нин-2)
 nmod:obj(чӧвтанінӧ-4, зорӧдъяс-3)
 punct(мӧдӧдчисны-1, ...-5)
