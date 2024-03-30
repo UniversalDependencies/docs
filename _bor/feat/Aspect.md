@@ -32,7 +32,7 @@ The progressive aspect is marked by the suffix -_nu_
 
 ### <a name="IncProg">`IncProg`</a>: IncProg
 
-Incipient progressive is a combination of a aspectual notion with a one of _Aktionsart_. The suffix -_gody_ indicates that something becomes, begins to be something.
+Incipient progressive is a combination of the incipient aspect (_gody_) with the progressive aspect (_nu_) indicates that an event is beginning to happen.
 
 #### Example
 
