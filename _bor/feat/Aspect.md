@@ -36,7 +36,7 @@ Incipient progressive is a combination of the incipient aspect (_gody_) with the
 
 #### Example
 
-* _Ikodo torigody<b>nu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy”
+* _Ikodo tori<b>godynu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy”
 
 
 
