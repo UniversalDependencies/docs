@@ -26,6 +26,13 @@ The progressive aspect is marked by the suffix -_nu_
 * _boe<b>nu</b>re imi&nbsp;_ “I am Bororo” 
 
 
+### <a name="Inc">`Inc`</a>: Incipient
+
+The incipient aspect is coded by the suffix -_gody_ and indicates that an action starts to happen.
+
+#### Example
+
+* _Iroiwa bokwa<b>gody</b>re awy mygyre ikanaora kejeboe tabo imi&nbsp;_ “It's becoming impossible to carry this sitting on my shoulder”
 
 
 `IncProg` Incipient progressive 
@@ -52,13 +59,6 @@ The iterative aspect, indicating that the event frequently happens is coded by t
 
 `Imi` Imminent
 
-### <a name="Inc">`Inc`</a>: Incipient
-
-The incipient aspect is coded by the suffix -_gody_ and indicates that an action starts to happen.
-
-#### Example
-
-* _Iroiwa bokwa<b>gody</b>re awy mygyre ikanaora kejeboe tabo imi&nbsp;_ “It's becoming impossible to carry this sitting on my shoulder”
 
 
 
