@@ -15,7 +15,7 @@ This is a **work-in-progress** overview of the UD annotation for Georgian.
 * Due to rich agglutinating type of morphology, clitics can be treated as multi-word tokens and segmented to individual syntactic words in the following cases: 
   a) auxiliary verbs (AUX) attached to the nominal paradigm, which add functional and grammatical meaning to the sentence, expressing tense, aspect, mood, etc.: სახლია = სახლი+ა 'is a house';
   b) postpositions  represented by a suffix attached to an inflected nominal (noun, adjective, numeral and pronoun): სახლში = სახლ+ში 'in the house';
-  c) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: სახლიო = სახლი+ო 'a house as it was said', წერსო = წერს+ო 'he writes as it was said'.
+  c) the indirect speech particle represented by a suffix attached to an inflected nominal or verb: სახლიო = სახლი+ო 'a house as smb. said', წერსო = წერს+ო 'he writes as smb. said'.
 
 ## Nominal Multiword expressions (MWEs)
 
