@@ -5,47 +5,48 @@ shortdef: 'name'
 udver: '2'
 ---
 
-We use the `flat` relation for proper nouns constituted of more than one words.
+We use the [flat]() relation for proper nouns constituted of more than one words.
 The first (leftmost) word is the head, and the other words are direct dependents of the head.
 
 ~~~ sdparse
 Τάκης Παπαδόπουλος
-name(Τάκης, Παπαδόπουλος)
+flat(Τάκης, Παπαδόπουλος)
 ~~~
 
 ~~~ sdparse
 Ρωμανός Δ' Διογένης
-name(Ρωμανός, Δ')
-name(Ρωμανός, Διογένης)
+flat(Ρωμανός, Δ')
+flat(Ρωμανός, Διογένης)
 ~~~
 
 ~~~ sdparse
 Μάο Τσε Τουνγκ
-name(Μάο, Τσε)
-name(Μάο, Τουνγκ)
+flat(Μάο, Τσε)
+flat(Μάο, Τουνγκ)
 ~~~
 
-Regular syntactic relations are used for Greek:
-(i) for a modifier word including determiners, adjectives and adverbs
-(ii) to connect together the words of a description or name which involve embedded prepositional phrases, sentences, etc.
+[flat]() is used to connect all the parts of a proper names denoting places in Modern Greek:
+
 
 ~~~ sdparse
 την Παλιά Κοκκινιά
-amod(Κοκκινιά, Παλιά)
+flat(Κοκκινιά, Παλιά)
 det(Κοκκινιά, την)
 ~~~
 
 ~~~ sdparse
 της Νέας Υόρκης
-amod(Υόρκης, Νέας)
+flat(Υόρκης, Νέας)
 det(Υόρκης, της)
 ~~~
 
 ~~~ sdparse
 Τα Άνω Δολιανά
 det(Δολιανά, Τα)
-advmod(Δολιανά, Άνω)
+flat(Δολιανά, Άνω)
 ~~~
+
+For other proper names such as titles, organization names, etc normal syntactic relations are used.
 
 ~~~ sdparse
 Ο Βασιλιάς της Αγγλίας
@@ -54,7 +55,6 @@ nmod(Βασιλιάς, Αγγλίας)
 det(Αγγλίας, της)
 ~~~
 
-This also holds for organization names with clear syntactic modification structure as in:
 
 ~~~ sdparse
 Γενική Γραμματεία Εκπαίδευσης Ενηλίκων
@@ -68,26 +68,26 @@ which all words in the name modify the first one using the `flat` label.
 
 ~~~ sdparse
 Σαν Σεμπαστιάν
-name(Σαν, Σεμπαστιάν)
+flat(Σαν, Σεμπαστιάν)
 ~~~
 
 ~~~ sdparse
 Στράτφορντ απόν Έιβον
-name(Στράτφορντ, απόν)
-name(Στράτφορντ, Έιβον)
+flat(Στράτφορντ, απόν)
+flat(Στράτφορντ, Έιβον)
 ~~~
 
 ~~~ sdparse
 Río de la Plata
-name(Río, de)
-name(Río, la)
-name(Río, Plata)
+flat(Río, de)
+flat(Río, la)
+flat(Río, Plata)
 ~~~
 
 ~~~ sdparse
 Ζαν ντ' Αρκ
-name(Ζαν, ντ')
-name(Ζαν, Αρκ)
+flat(Ζαν, ντ')
+flat(Ζαν, Αρκ)
 ~~~
 
 ~~~ sdparse
