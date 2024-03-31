@@ -30,7 +30,7 @@ Art (article) marks the identifiability of the referents of the noun phrases.
 
 #### Example
 
-* _<b>ia</b> ariago imi&nbsp;_ “A dog” 
+* _<b>ia</b> arigao imi&nbsp;_ “A dog” 
 
 ### <a name="Bi">`Bi`</a>: Bi
 
