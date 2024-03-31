@@ -18,6 +18,13 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
    * it introduces a temporal clause together with the [ADP]() *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφού* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced." *μετά* depends on *που* with the dependency relation [fixed]().
    *  it  introduces an etiological or a result clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery.", *Ήταν τόσο σκελετωμένο που δεν είχε τη δύναμη να ψάξει για φαγητό.* "It was so skinny that it had no strength to look for food". 
    *  In the MWE _μόνο που_ "only that" where _μόνο_ is assigned the tag [ADV]() and *που* depends on _μόνο_ with the dependency [fixed](). The MWE functions as a [CCONJ](), e.g., _Μόνο που τώρα δεν υπάρχει η τρόικα για να επιβάλει περικοπές μισθών._ "However, now there is no troika to impose wages cuts."
+
+
+*που* is assigned the tag <code>ADV/code> when it refers to an expression that denotes location or time; in this case, the feature [PronType]() takes the value [Rel]:
+
+
+*την επόμενη φορά* <b>που<\b> την επισκέφθηκαν άργησαν* "The next time when they visited her, they were late."
+
  
 ### Examples
 
