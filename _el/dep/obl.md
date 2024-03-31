@@ -36,8 +36,9 @@ obj(βάφτισε, παιδί)
 Της βάφτισε το παιδί. 
 obl(βάφτισε, της)
 obj(βάφτισε, παιδί)
+~~~
 
-[obl]() is used with multiword expressions (where it is not clear whether the dative genitive stands for an original olique or for a genitive denoting inalienable possession.)
+[obl]()  is used with multiword expressions (because sometimes it is not clear whether the dative genitive stands for an [iobj]() or for a genitive denoting inalienable possession.)
 
 ~~~ sdparse
 Tης έκαψε την καρδιά.
