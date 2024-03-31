@@ -92,16 +92,16 @@ flat(Ζαν, Αρκ)
 
 ~~~ sdparse
 Ludwig van Beethoven
-name(Ludwig, van)
-name(Ludwig, Beethoven)
+flat(Ludwig, van)
+flat(Ludwig, Beethoven)
 ~~~
 
 ~~~ sdparse
 Miguel de Cervantes y Saavedra
-name(Miguel, de)
-name(Miguel, y)
-name(Miguel, Cervantes)
-name(Miguel, Saavedra)
+flat(Miguel, de)
+flat(Miguel, y)
+flat(Miguel, Cervantes)
+flat(Miguel, Saavedra)
 ~~~
 
 
