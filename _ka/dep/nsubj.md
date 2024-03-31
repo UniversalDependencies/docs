@@ -20,7 +20,7 @@ nsubj(უყივლა, ენამ)
 nsubj(მაჩუქა, ძვირფასმა)
 ~~~
 ~~~ sdparse
-ქუჩები და მოედნები უზრუნველად მოსეირნე გოგო-ბიჭებს/NOUN აევსო. \n 'Streets and squares were filled with carefree walking girls and boys.' 
+ქუჩები და მოედნები უზრუნველად მოსეირნე გოგო-ბიჭებს/NOUN აევსო. \n 'Carefree walking girls and boys filled streets and squares.' 
 nsubj(აევსო, გოგო-ბიჭებს)
 ~~~
 
