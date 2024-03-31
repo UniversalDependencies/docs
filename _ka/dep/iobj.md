@@ -11,4 +11,8 @@ The indirect object of a verb (`iobj`) is a pronominal complement which correspo
 სიცხით დახეთქილ კლდეთა ბილიკს მზე ჩამოჰყვება. \n 'The sun follows the path of heat-cracked rocks.'
 iobj(ჩამოჰყვება, ბილიკს)
 ~~~
+მასწავლებელი რეალურად დაუმსახურებლად დაბალ ნიშანს უწერს მოსწავლეს. \n 'The teacher actually gives the student an undeservedly low grade.'
+obj(უწერს, ნიშანს)
+iobj(უწერს, მოსწავლეს)
+~~~
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:59 CET -->
