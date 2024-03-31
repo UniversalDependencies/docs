@@ -23,7 +23,7 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
 *που* is assigned the tag <code>ADV/code> when it refers to an expression that denotes location or time; in this case, the feature [PronType]() takes the value [Rel]:
 
 
-*την επόμενη φορά* <b>που<\b> την επισκέφθηκαν άργησαν* "The next time when they visited her, they were late."
+*την επόμενη φορά* <b>που</b> *την επισκέφθηκαν άργησαν* "The next time when they visited her, they were late."
 
  
 ### Examples
