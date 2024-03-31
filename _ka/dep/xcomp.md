@@ -10,5 +10,5 @@ An open clausal complement (<code>xcomp</code>) of a verb, or an adjective, is a
 ~~~ sdparse
 ეს საშუალებას იძლევა გადაწყდეს/VERB მნიშვნელოვანი პრობლემები განსაკუთრებული ძალების და სახსრების დახარჯვის გარეშე. \n 'This allows solving important problems without spending special efforts and funds.'
 xcomp(იძლევა, გადაწყდეს)
-
+~~~
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:29 CET -->
