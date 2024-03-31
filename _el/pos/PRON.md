@@ -20,7 +20,7 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
    *  In the MWE _μόνο που_ "only that" where _μόνο_ is assigned the tag [ADV]() and *που* depends on _μόνο_ with the dependency [fixed](). The MWE functions as a [CCONJ](), e.g., _Μόνο που τώρα δεν υπάρχει η τρόικα για να επιβάλει περικοπές μισθών._ "However, now there is no troika to impose wages cuts."
 
 
-*που* is assigned the tag <code>ADV</code> when it refers to an expression that denotes location or time; in this case, the feature [PronType]() takes the value [Rel], e.g., *Tην επόμενη φορά* <b>που</b> *την επισκέφθηκαν έφεραν δώρα* "The next time  they visited her, they brought gifts."
+*που* is assigned the tag <code>ADV</code> when it refers to an expression that denotes location or time; in this case, the feature [PronType]() takes the value [Rel](), e.g., *Tην επόμενη φορά* <b>που</b> *την επισκέφθηκαν έφεραν δώρα* "The next time  they visited her, they brought gifts."
 
  
 ### Examples
