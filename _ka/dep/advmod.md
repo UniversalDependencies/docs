@@ -11,11 +11,13 @@ Adverbials realized by noun phrases or adpositional phrases are covered by the r
 <code>advmod</code> is used in the following cases:
 
 ~~~ sdparse
-გარეთ/ADV ცხენები ხვიხვინებდნენ/VERB. /n 'Horses neigh outside.'
+გარეთ/ADV ცხენები ხვიხვინებდნენ/VERB.
+'Horses neigh outside.'
 advmod(ხვიხვინებდნენ, გარეთ)
 ~~~
 ~~~ sdparse
-ბარად/NOUN დავდიოდი/VERB სადავლოდ. /n ''.
+ბარად/NOUN დავდიოდი/VERB სადავლოდ.
+'I used to go to the valley for hunting'.
 advmod(ბარად, დავდიოდი)
 ~~~
 
