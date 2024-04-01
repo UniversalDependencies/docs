@@ -45,15 +45,15 @@ det(Νέας, της)
 det(Δολιανά, Τα)
 flat(Δολιανά, Άνω)
 ~~~
-<!-- 
+
 ~~~ sdparse
 η κίνηση στην Αθηνών-Πειραιώς
-flat(Αθηνών, -)
+punct(Αθηνών, -)
 flat(Αθηνών, Πειραιώς)
 case(Aθηνών, στη)
 nmod(κίνηση, Αθηνών)
 ~~~
--->
+
 ~~~
 For other proper names such as titles, organization names, etc normal syntactic relations are used.
 
