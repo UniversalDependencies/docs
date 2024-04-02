@@ -15,7 +15,10 @@ udver: '2'
 </tr>
 </table>
 
-Polarity
-
 In Tswana [Polarity]() is only indicated for negative values as `Neg` and applies to morphemes tagged [ADV]() in UPOS and MNEG in XPOS.
+
+### <a name="Neg">`Neg`</a>: negative
+
+#### Examples
+* _<b>Ga</b>_ ba na kakanyo epe gore e kwadilwe ke mang. “They have no idea who wrote it.”
 

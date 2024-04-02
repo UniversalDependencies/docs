@@ -5,239 +5,190 @@ shortdef: 'noun class'
 udver: '2'
 ---
 
-Tswana uses the Noun class system where all Nouns are assigned to one of 20 possible classses [nouns](en-pos/NOUN). The class system is also used with [adjectives](en-pos/ADJ), and subject and object concords, which also agree with the class of the Noun they are associated with.
+Tswana uses the Noun class system where all Nouns are assigned to one of 23 possible [nouns](en-pos/NOUN) classes. The class system is also used with [adjectives](en-pos/ADJ), and subject and object concords, which also agree with the class of the Noun they are associated with.
 
-Tswana uses 18 of these classes, with classes 12 and 13 not in use.
-The noun class is primarily determined by the prefix associated with the noun, and are indicative of singular or plural, with odd numbered classes (1, 3, 5, 7, 9, 11) indicating singular forms. Even numbered classes (2, 4, 6, 8, 10) are generally the associated plural forms of the odd numbered classes.
+Tswana uses 18 of these classes, with classes 12, 13 and 21-23 not in use.
+The noun class is primarily determined by the prefix associated with the noun, and is indicative of singular or plural. Odd numbered classes (1, 3, 5, 7, 9, 11) indicate singular forms and even numbered classes (2, 4, 6, 8, 10) generally indicate the associated plural forms of the odd numbered classes.
+
 
 <table class="typeindex" border="1">
 <tr>
-  <td style="background-color:</strong>cornflowerblue;color:</strong>white"><strong>Class (Sg):</strong> Example </td>
-  <td style="background-color:</strong>cornflowerblue;color:</strong>white"><strong>Class (Pl):</strong> Example </td>
-  <td style="background-color:</strong>cornflowerblue;color:</strong>white"><strong>English </td>
-</tr>
-
-<tr>
-  <td ><strong>Bantu1:  </strong> monna </td>
-  <td ><strong>Bantu2:  </strong> banna </td>
-  <td >man/men </td>
-</tr>
-<tr>
-  <td ><strong>Bantu3:</strong> mofuta </td>
-  <td ><strong>Bantu4:</strong> mefuta </td>
-  <td >type, species/types, species </td>
+  <td rowspan="5" style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Bantu1">Bantu1</a></td>
+  <td><a href="#Bantu2">Bantu2</a></td>
+  <td><a href="#Bantu3">Bantu3</a></td>
+  <td><a href="#Bantu4">Bantu4</a></td>
+  <td><a href="#Bantu5">Bantu5</a></td>
+  <td><a href="#Bantu6">Bantu6</a></td>
+  <td><a href="#Bantu7">Bantu7</a></td>
+  <td><a href="#Bantu8">Bantu8</a></td>
+  <td><a href="#Bantu9">Bantu9</a></td>
+  <td><a href="#Bantu10">Bantu10</a></td>
 </tr>
 <tr>
-  <td ><strong>Bantu5:</strong> lelapa </td>
-  <td ><strong>Bantu6:</strong> malapa </td>
-  <td >homestead, dwelling/homesteads, dwellings </td>
+  <td><a href="#Bantu11">Bantu11</a></td>
+  <td><a href="#Bantu12">Bantu12</a></td>
+  <td><a href="#Bantu13">Bantu13</a></td>
+  <td><a href="#Bantu14">Bantu14</a></td>
+  <td><a href="#Bantu15">Bantu15</a></td>
+  <td><a href="#Bantu16">Bantu16</a></td>
+  <td><a href="#Bantu17">Bantu17</a></td>
+  <td><a href="#Bantu18">Bantu18</a></td>
+  <td><a href="#Bantu19">Bantu19</a></td>
+  <td><a href="#Bantu20">Bantu20</a></td>
 </tr>
 <tr>
-  <td ><strong>Bantu7:</strong> sediriswa </td>
-  <td ><strong>Bantu8:</strong> didiriswa </td>
-  <td >tool/tools </td>
-</tr>
-<tr>
-  <td ><strong>Bantu9:</strong> tau </td>
-  <td ><strong>Bantu10:</strong> ditau </td>
-  <td >lion/lions </td>
-</tr>
-<tr>
-  <td ><strong>Bantu11:</strong> lonao </td>
-  <td ><strong>Bantu12:</strong> N/A </td>
-  <td >foot </td>
-</tr>
-<tr>
-  <td ><strong>Bantu13:</strong> N/A </td>
-  <td ><strong>Bantu14:</strong> bodilo </td>
-  <td >floor/ </td>
-</tr>
-<tr>
-  <td ><strong>Bantu15:</strong> go (dira) </td>
-  <td ><strong>Bantu16:</strong> fatshe </td>
-  <td >to (work)/down, on the ground </td>
-</tr>
-<tr>
-  <td ><strong>Bantu17:</strong> godimo </td>
-  <td ><strong>Bantu18:</strong> morago </td>
-  <td >above/behind, after </td>
-</tr>
-<tr>
-  <td ><strong>Bantu19:</strong> gaufi </td>
-  <td ><strong>Bantu20:</strong> teng </td>
-  <td >near, nearby/inside, here </td>
+  <td><a href="#Bantu21">Bantu21</a></td>
+  <td><a href="#Bantu22">Bantu22</a></td>
+  <td><a href="#Bantu23">Bantu23</a></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 </table>
 
-
-
-### <a name="Bantu1">`Bantu1`</a>: singular, persons
+### <a name="Bantu1">`Bantu1`</a>: singular, persons, proper nouns, terms of kinship and personified names
 
 The corresponding plural class is `Bantu2`.
 
 #### Examples
 
-* [sw] _<b>mtoto</b>_ “child”
+* _<b>monna</b>_ “man”
 
-### <a name="Bantu2">`Bantu2`</a>: plural, persons
+### <a name="Bantu2">`Bantu2`</a>: plural, persons, proper nouns, terms of kinship and personified names
 
 The corresponding singular class is `Bantu1`.
 
 #### Examples
 
-* [sw] _<b>watoto</b>_ “children”
+* _<b>banna</b>_ “men”
 
-### <a name="Bantu3">`Bantu3`</a>: singular, plants, thin objects
+### <a name="Bantu3">`Bantu3`</a>: singular, impersonal nouns, body parts, tools, instruments, trees, and plants
 
 The corresponding plural class is `Bantu4`.
 
 #### Examples
 
-* [sw] _<b>mti</b>_ “tree”
+* _<b>mofuta</b>_ “type”
 
-### <a name="Bantu4">`Bantu4`</a>: plural, plants, thin objects
+### <a name="Bantu4">`Bantu4`</a>: plural, impersonal nouns, body parts, tools, instruments, trees, and plants
 
 The corresponding singular class is `Bantu3`.
 
 #### Examples
 
-* [sw] _<b>miti</b>_ “trees”
+* _<b>mefuta</b>_ “types”
 
-### <a name="Bantu5">`Bantu5`</a>: singular, fruits, round objects, paired things
+### <a name="Bantu5">`Bantu5`</a>: singular, body parts, some animals, plants, collective nouns, strangers, regions, natural phenomena, and a few personal nouns
 
 The corresponding plural class is `Bantu6`.
 
 #### Examples
 
-* [sw] _<b>jiwe</b>_ “stone”
+* _<b>lelapa</b>_ “homestead, dwelling”
 
-### <a name="Bantu6">`Bantu6`</a>: plural, fruits, round objects, paired things
+### <a name="Bantu6">`Bantu6`</a>: plural, body parts, some animals, plants, collective nouns, strangers, regions, natural phenomena, and a few personal nouns
 
-The corresponding singular class is `Bantu5`, also `Bantu9`, `Bantu11`, seldomly `Bantu1`.
+The corresponding singular class is `Bantu5`, also `Bantu14`.
 
 #### Examples
 
-* [sw] _<b>mawe</b>_ “stones”
+* _<b>malapa</b>_ “homesteads, dwellings”
 
-### <a name="Bantu7">`Bantu7`</a>: singular, things, diminutives
+### <a name="Bantu7">`Bantu7`</a>: singular, body parts, tools, instruments, some animals, languages, characteristics, and some personal nouns
 
 The corresponding plural class is `Bantu8`.
 
 #### Examples
 
-* [sw] _<b>kitabu</b>_ “book”
+* _<b>sediriswa</b>_ “tool”
 
-### <a name="Bantu8">`Bantu8`</a>: plural, things, diminutives
+### <a name="Bantu8">`Bantu8`</a>: plural, body parts, tools, instruments, some animals, languages, characteristics, and some personal nouns
 
 The corresponding singular class is `Bantu7`.
 
 #### Examples
 
-* [sw] _<b>vitabu</b>_ “books”
+* _<b>didiriswa</b>_ “tools”
 
-### <a name="Bantu9">`Bantu9`</a>: singular, animals, things
+### <a name="Bantu9">`Bantu9`</a>: singular, animals, body parts, tools, instruments, and a few personal nouns
 
-The corresponding plural class is `Bantu10` or `Bantu6`.
-
-#### Examples
-
-* [sw] _<b>ndege</b>_ “bird”
-
-### <a name="Bantu10">`Bantu10`</a>: plural, animals, things
-
-The corresponding singular class is `Bantu9`.
+The corresponding plural class is `Bantu10`.
 
 #### Examples
 
-* [sw] _<b>ndege</b>_ “birds” (plural of the noun is identical to singular; however, verbs agree with the _<b>zi-</b>_ prefix in plural and with _i-_ in singular)
+* _<b>tau</b>_ “lion”
 
-### <a name="Bantu11">`Bantu11`</a>: long thin objects, natural phenomena, abstracts
+### <a name="Bantu10">`Bantu10`</a>: plural, animals, body parts, tools, instruments, and a few personal nouns
 
-#### Examples
-
-* [sw] _<b>utoto</b>_ “childhood”
-
-### <a name="Bantu12">`Bantu12`</a>: singular, small things, diminutives
-
-The corresponding plural class is `Bantu13` or `Bantu14`.
+The corresponding singular class is `Bantu9`, also `Bantu11`.
 
 #### Examples
 
-* [lg] _embwa_ “dog” → _<b>akabwa</b>_ “puppy”
+* _<b>ditau</b>_ “lions”
 
-### <a name="Bantu13">`Bantu13`</a>: plural or mass, small amount of mass
+### <a name="Bantu11">`Bantu11`</a>: singular limited nouns – body parts, tools, instruments, collective nouns
 
-#### Examples
-
-* [lg] _mazzi_ “water” → _<b>otuzzi</b>_ “drop of water”
-
-### <a name="Bantu14">`Bantu14`</a>: plural, diminutives
-
-In Ganda, this is the plural counterpart of `Bantu12`.
+The corresponding plural class is `Bantu10`.
 
 #### Examples
 
-* [lg] _<b>obubwa</b>_ “puppies”
+* _<b>lonao</b>_ “foot”
+
+### <a name="Bantu12">`Bantu12`</a>: Not applicable to Tswana
+
+### <a name="Bantu13">`Bantu13`</a>: Not applicable to Tswana
+
+### <a name="Bantu14">`Bantu14`</a>: singular, collective, abstract, and locative nouns
+
+The corresponding plural class is `Bantu6`, although some nouns in this class do not have plurals.
+
+#### Examples
+
+* _<b>bodilo</b>_ “floor”
 
 ### <a name="Bantu15">`Bantu15`</a>: verbal nouns, infinitives
 
 #### Examples
 
-* [sw] _-soma_ “read” → _<b>kusoma</b>_ “reading; to read”
+* _dira_ “work” → _<b>go</b>_ _dira_ “working; to work”
 
-### <a name="Bantu16">`Bantu16`</a>: definite location, close to something
-
-#### Examples
-
-* [sw] _<b>pahali</b>_ “place”
-
-### <a name="Bantu17">`Bantu17`</a>: indefinite location, direction, movement
+### <a name="Bantu16">`Bantu16`</a>: place or locality
 
 #### Examples
 
-* [sw] _<b>kule</b>_ “there”
+* _<b>fatshe</b>_ “on the ground”
 
-### <a name="Bantu18">`Bantu18`</a>: definite location, inside something
-
-#### Examples
-
-* [sw] _<b>mule</b>_ “in there”
-
-### <a name="Bantu19">`Bantu19`</a>: little bit of, pejorative plural
-
-Bantu class 19 may signify “a little bit of” or a plural with a pejorative nuance, as in Hunde.
+### <a name="Bantu17">`Bantu17`</a>: place or locality
 
 #### Examples
 
-* [hke] _<b>hyùndù</b>_ “a bit of porridge”
-* [hke] _<b>hìkátsì</b>_ “frail females”
-* [hke] _<b>hyábánà</b>_ “thin children”
+* _<b>godimo</b>_ “above/behind”
 
-### <a name="Bantu20">`Bantu20`</a>: singular, augmentatives
-
-In Ganda, the corresponding plural class is `Bantu6` or `Bantu22`.
+### <a name="Bantu18">`Bantu18`</a>: place or locality
 
 #### Examples
 
-* [lg] _musajja_ “man” → _<b>ogusajja</b>_ “giant”
+* _<b>morago</b>_ “after”
 
-### <a name="Bantu21">`Bantu21`</a>: singular, augmentatives, derogatives
-
-#### Examples
-
-* [ve] _<b>ḓinga</b>_ “large lump of earth”
-* [ve] _<b>ḓanḓa</b>_ “big clumsy hand”
-
-### <a name="Bantu22">`Bantu22`</a>: plural, augmentatives
-
-The corresponding singular class is `Bantu20`.
+### <a name="Bantu19">`Bantu19`</a>: place or locality
 
 #### Examples
 
-* [lg] _<b>agasajja</b>_ “giants”
+* _<b>gaufi</b>_ “near, nearby”
 
-### <a name="Bantu23">`Bantu23`</a>: location with place names
+### <a name="Bantu20">`Bantu20`</a>: place or locality
 
 #### Examples
 
-* [lg] _<b>elugala</b>_ “at Lugala”
+*  _<b>teng</b>_ “here”
+
+### <a name="Bantu21">`Bantu21`</a>: Not applicable to Tswana
+
+### <a name="Bantu22">`Bantu22`</a>: Not applicable to Tswana
+
+### <a name="Bantu23">`Bantu23`</a>: Not applicable to Tswana
