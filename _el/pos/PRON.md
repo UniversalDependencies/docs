@@ -22,9 +22,6 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
 
 *που* is assigned the tag <code>ADV</code> when it refers to an expression that denotes location or time; in this case, the feature [PronType]() takes the value [Rel](), e.g., *Tην επόμενη φορά* <b>που</b> *την επισκέφθηκαν έφεραν δώρα* "The next time  they visited her, they brought gifts."
 
-<!--
-*που* is assigned the tag <code>CCONJ</code> when it introduces a clause that refers to an NP in the previous clause that it is distanced from που. In this case, the feature [PronType]() takes the value [Rel](), e.g., *<b>τι</b> κρύβεται πίσω από τα ναυάγια και τη δολοφονία του Χαρδάκου , <b>που</b> δεν πρέπει να αποκαλυφθεί;* "what is behind the shipwrecks and Chardakos' assassination and should not be revealed?"
- -->
  
 ### Examples
 
