@@ -19,3 +19,8 @@ Polarity
 
 In Tswana [Polarity]() is only indicated for negative values as `Neg` and applies to morphemes tagged [ADV]() in UPOS and MNEG in XPOS.
 
+### <a name="Neg">`Neg`</a>: negative
+
+#### Examples
+
+* _<b>nepřišel</b>&nbsp;_ “he did not come”
