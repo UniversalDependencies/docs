@@ -11,7 +11,7 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
 
 *που* is assigned the tag <code>PRON</code> if:
   *  it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* "we have much information that, however, leads to nowhere".
-  *   it introduces a clausal modifier of a deictic adverb, e.g., _εκεί, που δεν κινδυνεύει ο ίδιος_ "there, where himself is not under some risk_", _σήμερα, που πήραμε αύξηση_ "today that we got a wage rise".
+  *   it introduces a clausal modifier of an adverbial expression, e.g., _εκεί, που δεν κινδυνεύει ο ίδιος_ "there, where himself is not under some risk_", _σήμερα, που πήραμε αύξηση_ "today that we got a wage rise".
 * *που* is assigned the tag <code>SCONJ</code> when: 
    * it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?" 
    * it introduces the sentential complement of an impersonal verb, e.g., *Φτάνει που την είδα να φεύγει.* "It suffices that I saw her leaving."
@@ -22,9 +22,6 @@ Pronouns are words that substitute for nouns  or noun phrases, whose meaning is 
 
 *που* is assigned the tag <code>ADV</code> when it refers to an expression that denotes location or time; in this case, the feature [PronType]() takes the value [Rel](), e.g., *Tην επόμενη φορά* <b>που</b> *την επισκέφθηκαν έφεραν δώρα* "The next time  they visited her, they brought gifts."
 
-<!--
-*που* is assigned the tag <code>CCONJ</code> when it introduces a clause that refers to an NP in the previous clause that it is distanced from που. In this case, the feature [PronType]() takes the value [Rel](), e.g., *<b>τι</b> κρύβεται πίσω από τα ναυάγια και τη δολοφονία του Χαρδάκου , <b>που</b> δεν πρέπει να αποκαλυφθεί;* "what is behind the shipwrecks and Chardakos' assassination and should not be revealed?"
- -->
  
 ### Examples
 
