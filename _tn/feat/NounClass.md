@@ -27,8 +27,6 @@ The noun class is primarily determined by the prefix associated with the noun, a
 </tr>
 <tr>
   <td><a href="#Bantu11">Bantu11</a></td>
-  <td><a href="#Bantu12">Bantu12</a></td>
-  <td><a href="#Bantu13">Bantu13</a></td>
   <td><a href="#Bantu14">Bantu14</a></td>
   <td><a href="#Bantu15">Bantu15</a></td>
   <td><a href="#Bantu16">Bantu16</a></td>
@@ -36,18 +34,6 @@ The noun class is primarily determined by the prefix associated with the noun, a
   <td><a href="#Bantu18">Bantu18</a></td>
   <td><a href="#Bantu19">Bantu19</a></td>
   <td><a href="#Bantu20">Bantu20</a></td>
-</tr>
-<tr>
-  <td><a href="#Bantu21">Bantu21</a></td>
-  <td><a href="#Bantu22">Bantu22</a></td>
-  <td><a href="#Bantu23">Bantu23</a></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr>
 </table>
 
@@ -139,10 +125,6 @@ The corresponding plural class is `Bantu10`.
 
 * _<b>lonao</b>_ “foot”
 
-### <a name="Bantu12">`Bantu12`</a>: Not applicable to Tswana
-
-### <a name="Bantu13">`Bantu13`</a>: Not applicable to Tswana
-
 ### <a name="Bantu14">`Bantu14`</a>: singular, collective, abstract, and locative nouns
 
 The corresponding plural class is `Bantu6`, although some nouns in this class do not have plurals.
@@ -186,9 +168,3 @@ The corresponding plural class is `Bantu6`, although some nouns in this class do
 #### Examples
 
 *  _<b>teng</b>_ “here”
-
-### <a name="Bantu21">`Bantu21`</a>: Not applicable to Tswana
-
-### <a name="Bantu22">`Bantu22`</a>: Not applicable to Tswana
-
-### <a name="Bantu23">`Bantu23`</a>: Not applicable to Tswana
