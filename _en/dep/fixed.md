@@ -5,12 +5,14 @@ shortdef: 'fixed multiword expression'
 udver: '2'
 ---
 
-The `fixed` relation is one of the three relations for multiword expressions (MWEs)
-(the other two being [flat]() and [compound]()). 
-It is used for certain fixed grammaticized expressions that behave
-like function words or short adverbials.
+The `fixed` relation is used for certain fixed grammaticized expressions that behave
+like function words or short adverbials, and for which a unique head cannot be identified.
+These are a _subset_ of multiword expressions that are morphosyntactically "fixed"
+in that they resist internal modification and inflection.
+(Compare: [flat]() for headless expressions not behaving like function words; 
+[compound]() for headed expressions that morphosyntactically resemble single words; 
+and [goeswith]() for words that contain improper spacing.)
 
-The fixed relation is used for certain fixed grammaticized expressions with function words that behave like a single function word. 
 Fixed expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the
 `fixed` label.
 

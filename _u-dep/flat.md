@@ -306,7 +306,7 @@ flat(1., 2.)
 flat(1., Nc3)
 ~~~
 
-Note that foreign word status (with or without `flat`) should be indicated with the morphological feature [Foreign]()`=Yes`.
+See further discussion at [Foreign Expressions and Code-Switching](/foreign.html).
 
 **History:** UD v1 had a `foreign` relation, but this is no longer part of the relation taxonomy and has been subsumed under `flat`.
 

@@ -18,7 +18,7 @@ A subordinating conjunction is a conjunction that links constructions by making 
   *   it introduces a clausal modifier of a deictic adverb, e.g., _εκεί, που δεν κινδυνεύει ο ίδιος_ "there, where himself is not under some risk_", _σήμερα, που πήραμε αύξηση_ "today that we got a wage rise".
 * *που* is assigned the tag <code>SCONJ</code> when: 
    * it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?"  
-   * it introduces a temporal clause together with the [ADP]() *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφο΄ύ* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced." *μετά* depends on *που* with the dependency relation [fixed]().
+   * it introduces a temporal clause together with the [ADP]() *μετά*  (criterion: in this case, the multiword conjunction *μετά που* can be replaced with the [ADP]() *αφού* resulting into different style probably), e.g., *Τον είδα μετά που χώρισε.* "I met him after he got divorced." *μετά* depends on *που* with the dependency relation [fixed]().
    * it  introduces an etiological or a result clause  (criterion: in this case, it can be replaced with the word *γιατί* resulting into different style probably), e.g., *Δεν σε χωνεύει που έρχεσαι τακτικά στο Μοναστήρι.* "He does not like you because you are regular to the Monastery.", *Ήταν τόσο σκελετωμένο που δεν είχε τη δύναμη να ψάξει για φαγητό.* "It was so skinny that it had no strength to look for food". 
   
     	
@@ -39,7 +39,7 @@ For coordinating conjunctions, see [CCONJ]().
 
 ## Examples
 
-- complementizers, like *αν* / *an* "if", *άρα, αφού* / *ara, afou* "since/therefore", *γιατί* / *giati* "why/because", *ενώ* / *eno* "while", *καθώς* / *kathos* "as/while", *μήπως, ότι, πως* / *mipos, oti, pos* "that", *ώστε* / *oste* "so as", *ώσπου* / *ospou* "until"
+- complementizers, like *αν* / *an* "if", *αφού* / *ara, afou* "since/therefore", *γιατί* / *giati* "why/because", *ενώ* / *eno* "while", *καθώς* / *kathos* "as/while", *μήπως, ότι, πως* / *mipos, oti, pos* "that", *ώστε* / *oste* "so as", *ώσπου* / *ospou* "until"
 -	adverbial clause introducers, like *όταν* / *otan* "when", *αφότου* / *afotou* "since", *πριν* / *prin* "before", *μόλις* / *molis* "just, as soon as" (when introducing a clause, not a nominal), *μια και* / *mia.SCONJ ke.CCONJ* (with the dependency _fixed_  between them) "since" 
 -	interrogative pronouns *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what kind of" that introduce an indirect question that serves as an argument of a verb or as a clausal modifier of a deverbal noun, e.g., VERB: *ρώτησα ποιο/πόσο/τι θέλεις;* / *rotisa pio/poso/ti theleis* "I asked which/how much/what do you want?", NOUN:  *έχω μείνει με την* <b>απορία τί</b> *στο καλό της είπες* "I am left with the <b>question what</b> on earth you told her". In particular, *τι* may introduce direct questions, e.g., *Τι τα κάνατε τα κινητά σας;* "what have you done with your mobile phones?",  *Τι κάνεις έτσι;* "Why are you reacting like that?". In this case it is considered an interrogative adverb (see [ADV]()) assinged the [PronType]() feature with value [Int]().
 

@@ -10,7 +10,7 @@ The `fixed` relation is used for a small set of multiword expressions, largely t
 These fall into the following categories:
 * adverbs, like _an ear_ or _a chaoidh_
 * compound conjunctions like _o chionn 's_
-* compound prepositions like _am broinn_ and especially ones that are often spelt with a hyphen like  _a rèir_
+* compound prepositions like _am broinn_ and especially ones that are often spelt with a hyphen but have been written with a space instead like  _a rèir_
 * copulae, like _'s e_ or _gur e_
 
 #### Examples

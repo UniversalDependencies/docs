@@ -1,17 +1,13 @@
 ---
 layout: relation
-title: 'nmod:appos'
-shortdef: 'nominal modifier apposition'
+title: 'compound:nn'
+shortdef: 'noun compound modifier'
 udver: '2'
 ---
 
-TODO: check this page !!!
 
-
-The `nmod:appos` relation is used for apposition-like support nouns which modify nominal elements.
-The nominal modifier is not introduced by an adposition (otherwise we use the [nmod]() relation).
-Contrary to the [appos]() relation, the `nmod:appos` relation can also go right to left.
-This not the `compound:nn` found in the Finnish treebanks.
+The dependency type `compound:nn`, which stands for _noun compound modifier_ has one use in the Komi Zyrian UD scheme. It is used for linking non-inflecting proper nouns to their inflecting appellations. Appellations may be titles or even concepts, e.g., 'professor', 'fellow', 'town', 'river', 'event', etc.
+Contrary to the [appos]() relation, the `compound:nn` relation goes right to left, and only the second element declines.
 
 Here is the first example:
 

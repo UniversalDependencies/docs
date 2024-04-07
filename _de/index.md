@@ -4,7 +4,7 @@ title:  'German UD'
 udver: '2'
 ---
 
-# UD for German <span class="flagspan"><img class="flag" src="../../flags/svg/DE.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AT.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LI.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CH.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LU.svg" /></span>
+# UD for German <span class="flagspan"><img class="flag" src="../../flags/svg/DE.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AT.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LI.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CH.svg" /></span>
 
 ## Tokenization and Word Segmentation
 

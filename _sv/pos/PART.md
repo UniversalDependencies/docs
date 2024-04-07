@@ -2,6 +2,7 @@
 layout: postag
 title: 'PART'
 shortdef: 'particle'
+udver: '2'
 ---
 
 Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g. adpositions, coordinating conjunctions, subordinating conjunctions or auxiliary verbs).

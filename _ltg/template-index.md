@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Bavarian UD'
+title:  'Latgalian UD'
 udver: '2'
 ---
 
-# UD for Bavarian <span class="flagspan"><img class="flag" src="../../flags/svg/DE-BY.svg" /></span>
+# UD for Latgalian <span class="flagspan"><img class="flag" src="../../flags/svg/LV-LTG.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/bar-comparison.html) Bavarian UD treebanks:
+There are [N](../treebanks/ltg-comparison.html) Latgalian UD treebanks:
 
-  * [Bavarian-A](../treebanks/bar_a/index.html)
-  * [Bavarian-B](../treebanks/bar_b/index.html)
+  * [Latgalian-A](../treebanks/ltg_a/index.html)
+  * [Latgalian-B](../treebanks/ltg_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

@@ -30,6 +30,9 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 -	*τρέχω, τρώει* / *trecho, troi* "I run/am running, he/she/it eats, is eating"
 -	*τρέχοντας, τρώγοντας* / *trechodas, trogodas* "running, eating"
 
+Occassionally, only a few or unique members of the inflectional paradigm of a verb are used, e.g.
+- *άει* in many fixed and productive expressions, e.g., *άει πάγαινε*, *άει στο καλό*, *άει στο διάολο*, etc. It is assigned the lemma "άει".
+  
 ### References
  
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.

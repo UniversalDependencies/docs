@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Art">Art</a></td>
   <td><a href="#Bi">Bi</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Int">Int</a></td>
@@ -21,6 +22,15 @@ udver: '2'
 </table>
 
 `PronType`  
+
+### <a name="Art">`Art`</a>: Art
+
+Art (article) marks the identifiability of the referents of the noun phrases. 
+
+
+#### Example
+
+* _<b>ia</b> arigao &nbsp;_ “A dog” 
 
 ### <a name="Bi">`Bi`</a>: Bi
 

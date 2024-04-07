@@ -18,7 +18,7 @@ As a special case of interjection, we recognize feedback particles such as *yes*
 ### Examples
 
 -	*αμήν* "amen"
--	*άντε* 
+-	*άντε*, *άει* 
 -	*βρε*
 -	*καλέ*
 -	*ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos]()

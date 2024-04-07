@@ -20,40 +20,8 @@ case(Έλληνες, με)
 nsubj(πολέμησαν, Έλληνες)
 ~~~
 
-- The dative alternation where the prepositional construction gets a similar analysis to the double object construction:
-
-~~~ sdparse
-έδωσε του μωρού γάλα
-obj(έδωσε, γάλα)
-iobj(έδωσε, μωρού)
-~~~
 
 
-~~~ sdparse
-του έδωσε  γάλα
-obj(έδωσε, γάλα)
-obl(έδωσε, του)
-~~~
-
-~~~ sdparse
-έδωσε γάλα σε το μωρό
-obj(έδωσε, γάλα)
-obl(έδωσε, μωρό)
-case(μωρό, σε)
-~~~
-
-~~~ sdparse
-δόθηκε γάλα σε το μωρό
-nusbj:pass(δόθηκε, γάλα)
-obl(δόθηκε, μωρό)
-case(μωρό, σε)
-~~~
-
-~~~ sdparse
-του δόθηκε γάλα
-nusbj:pass(δόθηκε, γάλα)
-obl(δόθηκε, του)
-~~~
 - Modern Greek has the so-called Dative Genitive that is assigned the dependency [obl](). 
 
 ~~~ sdparse
@@ -68,10 +36,19 @@ obj(βάφτισε, παιδί)
 Της βάφτισε το παιδί. 
 obl(βάφτισε, της)
 obj(βάφτισε, παιδί)
+~~~
 
+[obl]()  is used with multiword expressions (because sometimes it is not clear whether the dative genitive stands for an [iobj]() or for a genitive denoting inalienable possession.)
+
+~~~ sdparse
+Tης έκαψε την καρδιά.
+obl(έκαψε, της)
+obj(έκαψε, καρδιά)
+root(έκαψε)
+~~~
 
 `
-- [obl]() is also used for temporal and locational nominal modifiers:
+- [obl]() is also used for temporal and locational nominal modifiers introduced with an adposition or just bare:
 
 ~~~ sdparse
 Οι Έλληνες πολέμησαν με τους Πέρσες σε τον Μαραθώνα.
@@ -81,6 +58,15 @@ nsubj(πολέμησαν, Έλληνες)
 obl(πολέμησαν, Μαραθώνα)
 case(Μαραθώνα, σε)
 ~~~
+
+
+~~~ sdparse
+## trans = “I go to school”
+Πάω σχολείο 
+obl(πάω, σχολείο)
+~~~
+
+In the second example, the word *σχολείο* cannot be inflected or modified.
 
 - The agent of a passive verb (with the optional subtype obl:agent):
 

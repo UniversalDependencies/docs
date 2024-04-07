@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#IncProg">IncProg</a></td>
   <td><a href="#Iter">Iter</a></td>
-  <td><a href="#Imi">Imi</a></td>
+  <td><a href="#Inc">Inc</a></td>
   
 </tr>
 </table>
@@ -26,17 +26,24 @@ The progressive aspect is marked by the suffix -_nu_
 * _boe<b>nu</b>re imi&nbsp;_ “I am Bororo” 
 
 
+### <a name="Inc">`Inc`</a>: Incipient
+
+The incipient aspect is coded by the suffix -_gody_ and indicates that an action starts to happen.
+
+#### Example
+
+* _Iroiwa bokwa<b>gody</b>re awy mygyre ikanaora kejeboe tabo imi&nbsp;_ “It's becoming impossible to carry this sitting on my shoulder”
 
 
 `IncProg` Incipient progressive 
 
 ### <a name="IncProg">`IncProg`</a>: IncProg
 
-Incipient progressive is a combination of a aspectual notion with a one of _Aktionsart_. The suffix -_gody_ indicates that something becomes, begins to be something.
+Incipient progressive is a combination of the incipient aspect (_gody_) with the progressive aspect (_nu_) indicates that an event is beginning to happen.
 
 #### Example
 
-* _Ikodo torigody<b>nu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy”
+* _Ikodo tori<b>godynu</b>re imi&nbsp;_ “My basket is starting to be(come) heavy”
 
 
 
@@ -52,13 +59,6 @@ The iterative aspect, indicating that the event frequently happens is coded by t
 
 `Imi` Imminent
 
-### <a name="Imi">`Imi`</a>: Imminent
-
-The imminent aspect, indicating that the event is imminent is coded by the suffix -_gody_.
-
-#### Example
-
-* _Iroiwa bokwa<b>gody</b>re awy mygyre ikanaora kejeboe tabo imi&nbsp;_ “It's becoming impossible to carry this sitting on my shoulder”
 
 
 

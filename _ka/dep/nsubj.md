@@ -5,7 +5,7 @@ shortdef: 'nominal subject'
 udver: '2'
 ---
 
-A nominal subject (<code>nsubj</code>) is a nominal which is the syntactic subject of a clause. In Georgian a nominal subject is a nominal which is the (ergative, nominative or dative) subject of the verbal predicate. The governor of this relation is typically a verb with an exceptions: when the verb is a copular verb, the <code>nsubj</code> relation is headed by the complement of the copular verb, which can be an adjective or a noun. E.g.
+A nominal subject (<code>nsubj</code>) is a nominal which is the syntactic subject of a clause. In Georgian a nominal subject is a nominal which is the (ergative, nominative or dative) subject of the verbal predicate. The governor of this relation is typically a verb with the following exceptions: when the verb is a copular verb, the <code>nsubj</code> relation is headed by the complement of the copular verb, which can be an adjective or a noun. E.g.
 
 ~~~ sdparse
 თეთრ მარმარილოს კიბეებზე ყვაოდა დილა/NOUN. \n 'Morning was blooming on the white marble stairs.'
@@ -20,7 +20,7 @@ nsubj(უყივლა, ენამ)
 nsubj(მაჩუქა, ძვირფასმა)
 ~~~
 ~~~ sdparse
-ქუჩები და მოედნები უზრუნველად მოსეირნე გოგო-ბიჭებს/NOUN აევსო. \n 'Streets and squares were filled with carefree walking girls and boys.' 
+ქუჩები და მოედნები უზრუნველად მოსეირნე გოგო-ბიჭებს/NOUN აევსო. \n 'Carefree walking girls and boys filled streets and squares.' 
 nsubj(აევსო, გოგო-ბიჭებს)
 ~~~
 

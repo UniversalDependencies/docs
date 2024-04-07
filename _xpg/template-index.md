@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Luxembourgish UD'
+title:  'Phrygian UD'
 udver: '2'
 ---
 
-# UD for Luxembourgish <span class="flagspan"><img class="flag" src="../../flags/svg/LU.svg" /></span>
+# UD for Phrygian <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/lb-comparison.html) Luxembourgish UD treebanks:
+There are [N](../treebanks/xpg-comparison.html) Phrygian UD treebanks:
 
-  * [Luxembourgish-A](../treebanks/lb_a/index.html)
-  * [Luxembourgish-B](../treebanks/lb_b/index.html)
+  * [Phrygian-A](../treebanks/xpg_a/index.html)
+  * [Phrygian-B](../treebanks/xpg_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

@@ -23,7 +23,7 @@ udver: '2'
 
 #### Example
 
-### <a name="Clau">`Clau`</a>: Rel
+### <a name="Clau">`Clau`</a>: Clau
 
 
 #### Example
