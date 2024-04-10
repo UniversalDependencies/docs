@@ -12,7 +12,6 @@ The verb *έχω* / *echo* "have" and the particles *θα* and *ας* are assign
 
 *να* is tagged [AUX]() when:	
 * It introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
-* it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Δεν υπάρχει τίποτα παραπάνω* <b>που</b>.[PRON]() <b>να</b>.[AUX]() έχει ανακαλύψει η άλλη δυάδα "there is nothing more that.[PRON]()  the other couple would have discovered",  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
 
 The verb *είμαι* /ime “to be” is assigned the tag [AUX]():
 * when a participle depends on it; the participle is assigned the tag [VERB]() and bears values for the feature [Voice](). 
