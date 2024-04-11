@@ -57,14 +57,6 @@ Dative marks indirect objects or recipients of verbs. Beja has a dative set of p
 - _<b>dhaːj</b> jʔ -an =hoːb oː= tak / meːk dh# ## eːja =ajt oː= gaw / tam -ja eːn //_ "When I went to visit him, a man, a donkey, hum, came and ate his tent, they said."
 
 
-### <a name="Dis">`Dis`</a>: distributive
-
-The distributive case conveys that something happened to every member of a set, one in a time. Or it may express frequency.
-
-#### Examples
-- _i- ki sar -oːj <b>=ka</b> / w= hanʤar sallam -an /_ "Anyway, I gave her the dagger"
-
-
 ### <a name="Gen">`Gen`</a>: genitive
 
 In Beja the genitive relation between a head noun and a dependent noun is marked by a suffix on the dependent noun.
