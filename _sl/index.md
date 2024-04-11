@@ -48,7 +48,6 @@ For more details on all other morphological features see the language-specific g
 * The copula ([cop]()) label is used for verb *biti* (be) in all non-existential uses. The only exception are *biti*-constructions with prepositional phrases, which are currently always labelled as obliques, even in attributive role (e.g. *biti v škripcih* "to be in trouble").
 * The following subtypes are used in Slovenian treebanks:
   * [cc:preconj]() for preconjuncts (e.g. *tako* in *tako X kot Y* "both X and Y")
-  * [conj:extend]() for general extenders (e.g. *in tako naprej* "and so on")
   * [discourse:filler]() for filled pauses (e.g. *eee* "uhm")
   * [flat:foreign]() for non-first words in quoted foreign phrases (e.g. *Chamber of torture*)
   * [flat:name]() for exocentric complex names (e.g. *Novak* in *Janez Novak*)
