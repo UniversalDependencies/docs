@@ -21,6 +21,12 @@ The feature marks the mood of the verb.
 
 * [ab] _и-с-фа-п_ [3.OBJ-1SG.SUBJ-eat-FUT1] ‘I will eat it’ `Tense=Fut1`
 
+### <a name="Int">`Int`</a>: Interrogative
+
+#### Examples
+
+* [ab] _и-с-фа-п_ [3.OBJ-1SG.SUBJ-eat-FUT1] ‘I will eat it’ `Tense=Fut1`
+
 ### <a name="Sub">`Sub`</a>: Subjunctive
 
 #### Examples
