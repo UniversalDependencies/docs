@@ -27,7 +27,7 @@ The feature marks the mood of the verb.
 
 * [ab] _и-р-фа-ша_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Fut2`
 
-### <a name="Opt">`Optative`</a>: Past of static verbs or Past Indefinite of dynamic verbs
+### <a name="Opt">`Opt`</a>: Optative
 
 #### Examples
 
