@@ -1,11 +1,11 @@
 ---
 layout: relation
-title: 'ccomp:lo'
-shortdef: 'local object complement'
+title: 'ccomp:ro'
+shortdef: 'relational object complement'
 udver: '2'
 ---
 
-The `ccomp:lo` relation marks an a sentence complement referenced by a local object marker.
+The `ccomp:ro` relation marks an a sentence complement referenced by a relational object marker.
 
 ~~~ sdparse
 ауи чвгьата йыугiватiитi йыугiватiиті \n You strongly stir stir
