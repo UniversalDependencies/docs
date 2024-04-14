@@ -13,10 +13,7 @@ The verb *έχω* / *echo* "have" and the particles *θα* and *ας* are assign
 *να* is tagged [AUX]() when:	
 * It introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
 
-The verb *είμαι* /ime “to be” is assigned the tag [AUX]():
-* when a participle depends on it; the participle is assigned the tag [VERB]() and bears values for the feature [Voice](). 
-* when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall". 
-Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμαι στο σπίτι μου* "I am at my place". 
+The verb *είμαι* /ime “to be” is assigned the tag [AUX]().
 
 
 
@@ -27,6 +24,8 @@ Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμα�
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful."
 -	Auxiliary use of *ας*¨*Καλύτερα ας έχουμε το κεφάλι μας ήσυχο."
 
+### Important note
+There are two treebanks of Modern Greek and differ with respect to [AUX]() assignment. 
 
 ### References
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->
