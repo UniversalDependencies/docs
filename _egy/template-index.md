@@ -25,10 +25,10 @@ Brackets () indicate the omission of an element in the text and square brackets 
 ### Tags and Features
 
 The 17 universal POS categories are found in Egyptian.
-Adjective (ADJ): 
-	Old Egyptian and Middle Egyptian: There are a few primary adjectives, for example nb “every”, “all”. Most of them are deverbal adjectives such as nfr “good” and nisba adjectives such as n.i҆ “belonging to”, derived from the preposition n “for”. In attributive use, adjectives usually agree in gender and number with the noun they follow.
-	Late Egyptian: Primary adjectives increase, while nisba adjectives are no more productive than in earlier stages. Late Egyptian adjectives are usually derived from verbs. In attributive use, they no longer agree with their antecedents.
-	Demotic: The number of adjectives is smaller than in earlier stages of Egyptian. They are often replaced by a genitive construction. Demotic adjectives usually have the same gender as the noun they follow. Agreement in number between nouns and adjectives is rare.
+1) Adjective (ADJ):
+a) Old Egyptian and Middle Egyptian: There are a few primary adjectives, for example nb “every”, “all”. Most of them are deverbal adjectives such as nfr “good” and nisba adjectives such as n.i҆ “belonging to”, derived from the preposition n “for”. In attributive use, adjectives usually agree in gender and number with the noun they follow.
+b) Late Egyptian: Primary adjectives increase, while nisba adjectives are no more productive than in earlier stages. Late Egyptian adjectives are usually derived from verbs. In attributive use, they no longer agree with their antecedents.
+c) Demotic: The number of adjectives is smaller than in earlier stages of Egyptian. They are often replaced by a genitive construction. Demotic adjectives usually have the same gender as the noun they follow. Agreement in number between nouns and adjectives is rare.
 Adverb (ADV): 
 	Old Egyptian, Middle Egyptian and Late Egyptian: The use of adverbs such as i҆m “there” is rare. Instead, adpositions (ADPs) are usually used, consisting of a preposition and a noun phrase. Adverbs generally occur at the end of a sentence.
 	Demotic: The use of adverbs is more common than in earlier stages of Egyptian. Demotic adverbs fall into three general categories: quality, place and time.
