@@ -25,7 +25,7 @@ The verb *είμαι* /ime “to be” is assigned the tag [AUX]().
 -	Auxiliary use of *ας*¨*Καλύτερα ας έχουμε το κεφάλι μας ήσυχο."
 
 ### Important note
-There are two treebanks of Modern Greek that differ with respect to [AUX]() assignment. GDT considers as auxiliaries a larger set of verbs than GUD. 
+There are two treebanks of Modern Greek and differ with respect to [AUX]() assignment. GDT considers as auxiliaries a larger set of verbs than GUD. 
 
 ### References
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->
