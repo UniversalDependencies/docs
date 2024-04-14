@@ -6,14 +6,19 @@ udver: '2'
 
 # UD for Egyptian <span class="flagspan"><img class="flag" src="../../flags/svg/EG.svg" /></span>
 
+This is an overview based on the works cited in the README bibliography. Please note that this is a work in progress. It is planned to publish a detailed description for each stage of Egyptian.
+
 ## Tokenization and Word Segmentation
 
-*
+Egyptian is divided into two main stages, Earlier Egyptian, which includes Old Egyptian and Middle Egyptian, and Later Egyptian, which includes Late Egyptian, Demotic and Coptic (for the latter see the language page for Coptic in UD). Earlier Egyptian is characterized by a synthetic syntax and Later Egyptian by an analytic syntax. In general, hieroglyphic and hieratic script is used for Old Egyptian, Middle Egyptian and Late Egyptian, while Demotic is written in demotic script. No whitespace is used to separate word in these scripts. 
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+Egyptian texts are annotated with Transcription characters. The Tübingen transcription system is used in the UD_Egyptian-UJaen treebank (see README). Classifiers are not annotated in the transcription of Egyptian texts because they have no phonetic value or because they repeat sounds expressed in the word, as phonetic classifiers do.
 
----
+Words are separated by a whitespace in the transcription of Egyptian texts. A dot is used to separate the ending of a word from its stem, cf: nb.t "mistress" and nb "lord".
+Suffix pronouns are attached to the word they follow by means of two diagonal parallel lines (⸗), for example: nb.t ⸗f "his mistress".
+Compounds and fixed multiword expressions are connected by a hyphen, for example titles such as ẖri҆-ḥꜣb.t "lector priest" and complex prepositions, for example m-ḫt “behind”. A hyphen is also used to separate the man-impersonal noun ti҆/tw from a verb form, for example: pr-tw “one shall go”.
+Brackets () indicate the omission of an element in the text and square brackets [] the restoration of the text. Curly brackets {} enclose typographical errors in the text and <> indicate an emended element in the text.
+
 
 ## Morphology
 
@@ -46,10 +51,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/egy-comparison.html) Egyptian UD treebanks:
+There is [1](../treebanks/egy-comparison.html) Egyptian UD treebank:
 
-  * [Egyptian-A](../treebanks/egy_a/index.html)
-  * [Egyptian-B](../treebanks/egy_b/index.html)
+  * [Egyptian-UJaen](../treebanks/egy_a/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
