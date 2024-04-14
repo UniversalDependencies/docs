@@ -93,6 +93,7 @@ The following universal syntactic relations are found in Egyptian:
      * It is a dependent pronoun in adjectival sentences.
      * It is a dependent pronoun after particles such as m ⸗k in adverbial sentences.
      * It is a suffix pronoun after particles such as i҆w in adverbial sentences.
+
 The subject is _ti҆_ / _tw_ “one” in impersonal SPC verb forms.
   - Late Egyptian: The subject is a noun phrase or a pronoun. If it is a pronoun, its form varies according to these cases:
 o	It is a suffix pronoun in verbal sentences with SPC verb forms.
