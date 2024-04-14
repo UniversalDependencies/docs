@@ -49,35 +49,35 @@ The Early Egyptian verb system has an imperative (Imp) and infinite verb forms, 
 The OSSC or Stative tends to lose its personal endings. It is used in the First Present. The infinitive became the most common verb form in Late Egyptian. It was not only used in the First Present, but also in the Third Future.
  * Demotic: The SPC consists of a past _śč̣m ⸗f_, a present _śč̣m ⸗f_ and a future _śč̣m ⸗f_. The Egyptian impersonal construction (Man-Imp) and the passive _śč̣m.w ⸗f_ are lost in Demotic. They are replaced by an active construction using the third person plural pronoun _⸗w_. The OSSC or Stative, which lost most of the endings, indicates the state resulted from an action. As in Late Egyptian, the Infinitive is used in the First Present and in the Third Future.
 7. Adposition ([ADP](https://universaldependencies.org/u/pos/ADP.html)):
-* All stages of Egyptian: Adpositions are usually prepositions because they are used before a noun phrase. Prepositions occasionally show different forms in status pronominalis (Pron.st) and status constructus (Cons.st.) Complex prepositions (CPs) such as m-śꜣ “in the back” i.e. “behind” are considered multiword expressions (MWE) and they are common in Egyptian. On the contrary, the use of postpositions such as the Old Egyptian one i҆ś “like” is rare in Egyptian.
-Auxiliary (AUX):
-	Old Egyptian and Middle Egyptian: The verb wnn “exist” is an auxiliary when it is used to express the tense of an adverbial sentence. The particle i҆w is also considered an auxiliary as it is used to express the present perfect in combination with the past II śč̣m.n ⸗f.
-	Late Egyptian and Demotic: There are also auxiliary verbs in Late Egyptian and Demotic, for example the Late Egyptian verb ḫpr followed by the infinitive is used to express iterativity and the Demotic verb wꜣḥ ⸗f followed by the infinitive is used to express the perfective aspect.
-Coordinating conjunction (CCONJ):
-	Old Egyptian and Middle Egyptian: CCONJs are exceptional in Earlier Egyptian, for example rʾ-pw “or”. It should be noted that the Old Egyptian particle i҆śč and the preposition ḥr are occasionally used as a coordinating conjunction in Old Egyptian a preposition.
-	Late Egyptian and Demotic: CCONJs are also rare in later stages of Egyptian. The CCONJ rʾ-pw “or” became m rʾ-pw in Late Egyptian. Particles are also used as CCONJs in Late Egyptian, for example ḫr. The Demotic preposition i҆rm is used as a CCONJ meaning “and”.
-Determiner (DET):
-	Old Egyptian and Middle Egyptian: There are four types of demonstrative pro-adjectives (Dem) with three genders, masculine, feminine and neutral. No article is used in Old Egyptian. The definite article is derived from the demonstrative pꜣ, tꜣ, nꜣ and is first attested in Middle Egyptian documentary texts. The first occurrences of the possessive article pꜣy, ⸗f, tꜣy, ⸗f, nꜣy, ⸗f are also found in those texts.
-	Late Egyptian: The definite article, the indefinite article and the possessive article are usual in Late Egyptian. Earlier Egyptian demonstrative pro-adjectives are only used in high registers and they are replaced by a new type of demonstratives.
-	Demotic: It knows the same determiners as in Late Egyptian, the definite article, the indefinite article, the Late Egyptian type of demonstratives and the possessive article.
-Numeral (NUM):
-	Old Egyptian and Middle Egyptian: There are ordinal and cardinal numbers. While “1” and “2” are adjectives, the other cardinals are nouns. Ordinal numbers usually follow a noun in attributive use.
-	Late Egyptian: The number one precedes the item counted, while the number two follows it. Other cardinals are considered to be nouns as they precede the item counted in a genitive construction. Ordinal numbers are formed with the prefix mḥ before the cardinal number.
-	Demotic: As in Late Egyptian, cardinals precede the item counted except the number two. The numbers from 1 to 10 and 20 also have a feminine form. Ordinals consist of mḥ + the cardinal number and they follow the counted item.
-Particle (PART): 
-	Old Egyptian, Middle Egyptian, Late Egyptian and Demotic: Particles are common in all stages of Egyptian. A list of particles can be found in Egyptian grammars.
-Pronouns (PRON):
-	Old Egyptian and Middle Egyptian: There are three types of personal pronouns, the independent pronouns (IndPron), dependent pronouns (DepPron) and Suffixpronouns (SFP).
-	Late Egyptian: The three types of Earlier Egyptian personal pronouns are also found in Late Egyptian, although the forms of the independent pronouns are different. In addition, Late Egyptian has a new type of personal pronoun called the proclitic pronoun (ProcPron) used only in the First Present. 
-	Demotic: The types of Late Egyptian pronouns are also used in Demotic, although usually in a different form.
-Subordinating conjunction (SCONJ):
-	Old Egyptian and Middle Egyptian: n.tt and wn.t are considered to be subordinating conjunctions as they are used to subordinate sentences.
-	Late Egyptian and Demotic: The converter i҆w is used as a subordinating conjunction because it circumstantially subordinates a sentence.
-Punctuation (PUNCT):
-	Old Egyptian and Middle Egyptian: The use of a red structuring point (“Gliederungspunkt”) to separate sentences first appears in hieratic texts from the end of the Middle Kingdom (ca. 1700 BC). 
-	Late Egyptian: The red structuring point is usually used in New Kingdom hieratic texts. 
-Symbol (SYM):
-	Old Egyptian and Middle Egyptian: Some signs were probably used as symbols, for example   (śrḫ) could symbolize the king’s palace or his tomb.
+* All stages of Egyptian: Adpositions are usually prepositions because they are used before a noun phrase. Prepositions occasionally show different forms in status pronominalis (Pron.st) and status constructus (Cons.st.) Complex prepositions (CPs) such as _m-śꜣ_ “in the back” i.e. “behind” are considered multiword expressions (MWE) and they are common in Egyptian. On the contrary, the use of postpositions such as the Old Egyptian one _i҆ś_ “like” is rare in Egyptian.
+8. Auxiliary ([AUX](https://universaldependencies.org/u/pos/AUX_.html)):
+* Old Egyptian and Middle Egyptian: The verb _wnn_ “exist” is an auxiliary when it is used to express the tense of an adverbial sentence. The particle _i҆w_ is also considered an auxiliary as it is used to express the present perfect in combination with the past II _śč̣m.n ⸗f_.
+ * Late Egyptian and Demotic: There are also auxiliary verbs in Late Egyptian and Demotic, for example the Late Egyptian verb _ḫpr_ followed by the infinitive is used to express iterativity and the Demotic verb _wꜣḥ ⸗f_ followed by the infinitive is used to express the perfective aspect.
+9. Coordinating conjunction ([CCONJ](https://universaldependencies.org/u/pos/CCONJ.html)):
+ * Old Egyptian and Middle Egyptian: Coordinating Conjunctions are exceptional in Earlier Egyptian, for example _rʾ-pw_ “or”. It should be noted that the Old Egyptian particle _i҆śč_ and the preposition _ḥr_ are occasionally used as a coordinating conjunction in Old Egyptian.
+ * Late Egyptian and Demotic: Coordinating conjunctions are also rare in later stages of Egyptian. The conjunction _rʾ-pw_ “or” became _m rʾ-pw_ in Late Egyptian. Particles are also used as coordinating conjunctions in Late Egyptian, for example _ḫr_. The Demotic preposition _i҆rm_ is used as a coordinating conjunction meaning “and”.
+10. Determiner ([DET](https://universaldependencies.org/u/pos/DET.html)):
+ * Old Egyptian and Middle Egyptian: There are four types of demonstrative pro-adjectives (Dem) with three genders, masculine, feminine and neutral. No article is used in Old Egyptian. The definite article is derived from the demonstrative _pꜣ_, _tꜣ_, _nꜣ_ and is first attested in Middle Egyptian documentary texts. The first occurrences of the possessive article _pꜣy ⸗f_, _tꜣy ⸗f_, _nꜣy ⸗f_ are also found in those texts.
+ * Late Egyptian: The definite article, the indefinite article and the possessive article are usual in Late Egyptian. Earlier Egyptian demonstrative pro-adjectives are only used in high registers and they are replaced by a new type of demonstratives.
+ * Demotic: It knows the same determiners as in Late Egyptian, the definite article, the indefinite article, the Late Egyptian type of demonstratives and the possessive article.
+11. Numeral ([NUM](https://universaldependencies.org/u/pos/NUM.html)):
+ * Old Egyptian and Middle Egyptian: There are ordinal and cardinal numbers. While “1” and “2” are adjectives, the other cardinals are nouns. Ordinal numbers usually follow a noun in attributive use.
+ * Late Egyptian: The number one precedes the item counted, while the number two follows it. Other cardinals are considered to be nouns as they precede the item counted in a genitive construction. Ordinal numbers are formed with the prefix _mḥ_ before the cardinal number.
+ * Demotic: As in Late Egyptian, cardinals precede the item counted except the number two. The numbers from 1 to 10 and 20 also have a feminine form. Ordinals consist of _mḥ_ + the cardinal number and they follow the counted item.
+12. Particle ([PART](https://universaldependencies.org/u/pos/PART.html)): 
+ * Old Egyptian, Middle Egyptian, Late Egyptian and Demotic: Particles are common in all stages of Egyptian. A list of particles can be found in Egyptian grammars.
+13. Pronouns ([PRON](https://universaldependencies.org/u/pos/PRON.html)):
+ * Old Egyptian and Middle Egyptian: There are three types of personal pronouns, the independent pronouns (IndPron), dependent pronouns (DepPron) and Suffixpronouns (SFP).
+ * Late Egyptian: The three types of Earlier Egyptian personal pronouns are also found in Late Egyptian, although the forms of the independent pronouns are different. In addition, Late Egyptian has a new type of personal pronoun called the proclitic pronoun (ProcPron) used only in the First Present. 
+ * Demotic: The types of Late Egyptian pronouns are also used in Demotic, although usually in a different form.
+14. Subordinating conjunction ([SCONJ](https://universaldependencies.org/u/pos/SCONJ.html)):
+ * Old Egyptian and Middle Egyptian: _n.tt_ and _wn.t_ are considered to be subordinating conjunctions as they are used to subordinate sentences.
+ * Late Egyptian and Demotic: The converter _i҆w_ is used as a subordinating conjunction because it circumstantially subordinates a sentence.
+15. Punctuation ([PUNCT](https://universaldependencies.org/u/pos/PUNCT.html)):
+ * Old Egyptian and Middle Egyptian: The use of a red structuring point (“Gliederungspunkt”) to separate sentences first appears in hieratic texts from the end of the Middle Kingdom (ca. 1700 BC). 
+ * Late Egyptian: The red structuring point is usually used in New Kingdom hieratic texts. 
+16. Symbol ([SYM](https://universaldependencies.org/u/pos/SYM.html)):
+* Old Egyptian and Middle Egyptian: Some signs were probably used as symbols, for example   (śrḫ) could symbolize the king’s palace or his tomb.
 Other (X):
 	All stages of Egyptian: Some words of unclear meaning and grammatical function are annotated with the tag X.
 
