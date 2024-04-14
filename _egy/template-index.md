@@ -30,7 +30,7 @@ The 17 [Universal POS](https://universaldependencies.org/u/pos/index.html) categ
   * Late Egyptian: Primary adjectives increase, while nisba adjectives are no more productive than in earlier stages. Late Egyptian adjectives are usually derived from verbs. In attributive use, they no longer agree with their antecedents.
  * Demotic: The number of adjectives is smaller than in earlier stages of Egyptian. They are often replaced by a genitive construction. Demotic adjectives usually have the same gender as the noun they follow. Agreement in number between nouns and adjectives is rare.
 2. Adverb ([ADV](https://universaldependencies.org/u/pos/ADV.html)): 
-	Old Egyptian, Middle Egyptian and Late Egyptian: The use of adverbs such as i҆m “there” is rare. Instead, adpositions (ADPs) are usually used, consisting of a preposition and a noun phrase. Adverbs generally occur at the end of a sentence.
+ * Old Egyptian, Middle Egyptian and Late Egyptian: The use of adverbs such as _i҆m_ “there” is rare. Instead, adpositions ([ADP]s(https://universaldependencies.org/u/pos/ADP.html)) are usually used, consisting of a preposition and a noun phrase. Adverbs generally occur at the end of a sentence.
 	Demotic: The use of adverbs is more common than in earlier stages of Egyptian. Demotic adverbs fall into three general categories: quality, place and time.
 Interjection (INTJ):
 	All stages of Egyptian: The number of interjections is small in Egyptian texts. The most used interjections in Earlier Egyptian are i҆ and hꜣ, which usually accompany the vocative. In Demotic, i҆ is also used to introduce the vocative. In Late Egyptian, the interjection i҆ꜣ has the meaning “truly”.
