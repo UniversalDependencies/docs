@@ -77,7 +77,7 @@ The OSSC or Stative tends to lose its personal endings. It is used in the First 
  * Old Egyptian and Middle Egyptian: The use of a red structuring point (“Gliederungspunkt”) to separate sentences first appears in hieratic texts from the end of the Middle Kingdom (ca. 1700 BC). 
  * Late Egyptian: The red structuring point is usually used in New Kingdom hieratic texts. 
 16. Symbol ([SYM](https://universaldependencies.org/u/pos/SYM.html)):
- * Old Egyptian and Middle Egyptian: Some signs were probably used as symbols, for example   (_śrḫ_) could symbolize the king’s palace or his tomb.
+ * Old Egyptian and Middle Egyptian: Some signs were probably used as symbols, for example ![path132](https://github.com/UniversalDependencies/docs/assets/159358649/d9493c5b-3e5d-4020-90a0-043fc4ba1bde) (_śrḫ_) could symbolize the king’s palace or his tomb.
 17. Other ([X](https://universaldependencies.org/u/pos/X.html)):
  * All stages of Egyptian: Some words of unclear meaning and grammatical function are annotated with the tag [X](https://universaldependencies.org/u/pos/X.html).
 
