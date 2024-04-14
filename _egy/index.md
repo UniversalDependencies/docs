@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Egyptian <span class="flagspan"><img class="flag" src="../../flags/svg/EG.svg" /></span>
 
-This is an overview based on the works cited in the README bibliography. Please note that this is a work in progress. It is planned to publish a detailed description for each stage of Egyptian.
+This is an overview based on the works cited in the [README](https://github.com/UniversalDependencies/UD_Egyptian-UJaen/blob/dev/README.md) bibliography. Please note that this is a work in progress. It is planned to publish a detailed description for each stage of Egyptian.
 
 ## Tokenization and Word Segmentation
 
@@ -180,9 +180,3 @@ There is [1](../treebanks/egy-comparison.html) Egyptian UD treebank:
 
   * [Egyptian-UJaen](../treebanks/egy_a/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
