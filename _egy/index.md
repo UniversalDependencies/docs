@@ -91,8 +91,8 @@ The following universal syntactic relations are found in Egyptian:
      * It is a suffix pronoun in verbal sentences with SPC verb forms.
      * It is an independent pronoun in nominal sentences.
      * It is a dependent pronoun in adjectival sentences.
-     * It is a dependent pronoun after particles such as m ⸗k in adverbial sentences.
-     * It is a suffix pronoun after particles such as i҆w in adverbial sentences.
+     * It is a dependent pronoun after particles such as _m ⸗k_ in adverbial sentences.
+     * It is a suffix pronoun after particles such as _i҆w_ in adverbial sentences.
   - Late Egyptian: The subject is a noun phrase or a pronoun. It is _tw_ “one” in impersonal SPC verb forms. If it is a pronoun, its form varies according to these cases:
      * It is a suffix pronoun in verbal sentences with SPC verb forms.
      * It is an independent pronoun in nominal sentences.
@@ -102,58 +102,58 @@ The following universal syntactic relations are found in Egyptian:
      * It is a suffix pronoun in verbal sentences with SPC verb forms.
      * It is an independent pronoun in nominal sentences.
      * It is a proclitic pronoun in adverbial sentences (First Present).
-* Object (obj): 
-	All stages of Egyptian: The object of a verb is expressed by a dependent pronoun.
-Indirect object (iobj):
-	All stages of Egyptian: The indirect object of a verb is expressed by the preposition n + a noun or suffix pronoun.
-Oblique nominal (obl):
-	All stages of Egyptian: The obl relation is given between the noun of an ADP and its root.
-Vocative (vocative):
-	All stages of Egyptian: The vocative is usually used in religious texts and hymns.
-Expletive (expl):
-	All stages of Egyptian: The expletive relation is given between dependent pronouns used as reflexive pronouns and the verb forms (expl:pv).
-Dislocated elements (dislocated):
-	All stages of Egyptian: Noun phrases introducing the topic of a sentence usually precede a verb form.
-Nominal modifier (nmod):
-	Old Egyptian and Middle Egyptian: A nmod relation usually occurs in three cases:
-o	the direct genitive between the two nouns. 
-o	the indirect genitive between the noun following n(.i҆) and the first noun.
-o	the relationship of possession between the suffix pronoun and the noun it follows, for example pr ⸗f “his house”.
-	Late Egyptian and Demotic: A nmod relation usually occurs in the following cases:
-o	the direct genitive between the two nouns (less often than in earlier stages).
-o	the indirect genitive between the noun following n(.i҆) and the first noun.
-o	the relationship of possession between the suffix pronoun and the noun it follows (less often than in earlier stages).
-o	the relationship of possession between the possessive article and the noun it precedes, for example tꜣy ⸗f sn.t “his sister”. 
-Appositional modifier (appos):
-	All stages of Egyptian: It is a common syntactic relation in Egyptian texts.
-Numeric modifier (nummod):
-	All stages of Egyptian: The nummod relation is characterized by the fact that most cardinals are considered to be nouns (see NUM, above).
-Clausal subject (csubj):
-	All stages of Egyptian: Nominal finite verb forms (Abstrel) can be used with a subject-noun function.
-Clausal complement (ccomp):
-	All stages of Egyptian: Object clauses are usually used in Egyptian texts.
-Adverbial clause modifier (advcl):
-Old Egyptian and Middle Egyptian: Predicative verb forms and the OSSC can usually have an adverbial function. The OSSC are occasionally used as converbs (Conv).
-	Late Egyptian and Demotic: Circumstantial clauses can be made by adding i҆w to a main sentence (see SCONJ, above).
-Clausal modifier of noun (acl):
-	All stages of Egyptian: Relative forms are used to modify a nominal in an adnominal clause.
- Adverbial modifier (advmod):
-	All stages of Egyptian: Adverbs are characterized by an advmod relation.
-Discourse element (discourse):
-	All stages of Egyptian: Interjections and particles usually have a discourse function.
-Adjectival modifier (amod):
-	All stages of Egyptian: Adjectives, nisba adjectives and participles have an amod relation to the noun they modify.
-Auxiliary (aux):
-	All stages of Egyptian: Auxiliaries are characterized by an aux relation (see AUX, above).
-Copula (cop):
-	Old Egyptian and Middle Egyptian: pw is used as a copula in the nominal sentence type A pw B.  
-	Late Egyptian and Demotic: No known word with a copula function.
-Marker (mark):
-	All stages of Egyptian: Complement clauses and adverbial clauses can be formed using conjunctions or words with a conjunction function.
-Determiner (det):
-	All stages of Egyptian: The det relation is given between the determiners and the words they accompany (see DET, above).
-Case marking (case):
-	All stages of Egyptian: Case relation indicates the syntactic dependency between adpositions and the nouns they accompany (for the prepositional cases in Egyptian see the list of specific features for this language).
+* Object ([obj](https://universaldependencies.org/u/dep/obj.html)): 
+  - All stages of Egyptian: The object of a verb is expressed by a dependent pronoun.
+* Indirect object ([iobj](https://universaldependencies.org/u/dep/iobj.html)):
+  - All stages of Egyptian: The indirect object of a verb is expressed by the preposition _n_ + a noun or suffix pronoun.
+* Oblique nominal ([obl](https://universaldependencies.org/u/dep/obl.html)):
+  - All stages of Egyptian: The obl relation is given between the noun of an ADP and its root.
+* Vocative ([vocative](https://universaldependencies.org/u/dep/vocative.html)):
+  - All stages of Egyptian: The vocative is usually used in religious texts and hymns.
+* Expletive ([expl](https://universaldependencies.org/u/dep/expl.html)):
+  - All stages of Egyptian: The expletive relation is given between dependent pronouns used as reflexive pronouns and the verb forms ([expl:pv](https://universaldependencies.org/u/dep/expl-pv.html)).
+* Dislocated elements ([dislocated](https://universaldependencies.org/u/dep/dislocated.html)):
+  - All stages of Egyptian: Noun phrases introducing the topic of a sentence usually precede a verb form.
+* Nominal modifier ([nmod](https://universaldependencies.org/u/dep/nmod.html)):
+  - Old Egyptian and Middle Egyptian: A nmod relation usually occurs in three cases:
+     * the direct genitive between the two nouns. 
+     * the indirect genitive between the noun following _n(.i҆)_ and the first noun.
+     * the relationship of possession between the suffix pronoun and the noun it follows, for example _pr ⸗f_ “his house”.
+  - Late Egyptian and Demotic: A nmod relation usually occurs in the following cases:
+     * the direct genitive between the two nouns (less often than in earlier stages).
+     * the indirect genitive between the noun following _n(.i҆)_ and the first noun.
+     * the relationship of possession between the suffix pronoun and the noun it follows (less often than in earlier stages).
+     * the relationship of possession between the possessive article and the noun it precedes, for example _tꜣy ⸗f sn.t_ “his sister”. 
+* Appositional modifier ([appos](https://universaldependencies.org/u/dep/appos.html)):
+  - All stages of Egyptian: It is a common syntactic relation in Egyptian texts.
+* Numeric modifier ([nummod](https://universaldependencies.org/u/dep/nummod.html)):
+  - All stages of Egyptian: The nummod relation is characterized by the fact that most cardinals are considered to be nouns (see NUM, above).
+* Clausal subject ([csubj](https://universaldependencies.org/u/dep/csubj.html)):
+  - All stages of Egyptian: Nominal finite verb forms (Abstrel) can be used with a subject-noun function.
+* Clausal complement ([ccomp](https://universaldependencies.org/u/dep/ccomp.html)):
+  - All stages of Egyptian: Object clauses are usually used in Egyptian texts.
+* Adverbial clause modifier ([advcl](https://universaldependencies.org/u/dep/advcl.html)):
+  - Old Egyptian and Middle Egyptian: Predicative verb forms and the OSSC can usually have an adverbial function. The OSSC are occasionally used as converbs ([Conv](https://universaldependencies.org/u/feat/VerbForm.html)).
+  - Late Egyptian and Demotic: Circumstantial clauses can be made by adding _i҆w_ to a main sentence (see SCONJ, above).
+* Clausal modifier of noun ([acl](https://universaldependencies.org/u/dep/acl.html)):
+  - All stages of Egyptian: Relative forms are used to modify a nominal in an adnominal clause.
+* Adverbial modifier ([advmod](https://universaldependencies.org/u/dep/advmod.html)):
+  - All stages of Egyptian: Adverbs are characterized by an advmod relation.
+* Discourse element ([discourse](https://universaldependencies.org/u/dep/discourse.html)):
+  - All stages of Egyptian: Interjections and particles usually have a discourse function.
+* Adjectival modifier ([amod](https://universaldependencies.org/u/dep/amod.html)):
+  - All stages of Egyptian: Adjectives, nisba adjectives and participles have an amod relation to the noun they modify.
+* Auxiliary ([aux](https://universaldependencies.org/u/dep/aux_.html)):
+  - All stages of Egyptian: Auxiliaries are characterized by an aux relation (see AUX, above).
+* Copula ([cop](https://universaldependencies.org/u/dep/cop.html)):
+  - Old Egyptian and Middle Egyptian: _pw_ is used as a copula in the nominal sentence type A _pw_ B.  
+  - Late Egyptian and Demotic: No known word with a copula function.
+Marker ([mark](https://universaldependencies.org/u/dep/mark.html)):
+  - All stages of Egyptian: Complement clauses and adverbial clauses can be formed using conjunctions or words with a conjunction function.
+* Determiner ([det](https://universaldependencies.org/u/dep/det.html)):
+  - All stages of Egyptian: The det relation is given between the determiners and the words they accompany (see DET, above).
+* Case marking ([case](https://universaldependencies.org/u/dep/case.html)):
+  - All stages of Egyptian: Case relation indicates the syntactic dependency between adpositions and the nouns they accompany (for the prepositional cases in Egyptian see the list of [specific features](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl?lcode=egy&feature=Case) for this language).
 Conjunct (conj):
 	All stages of Egyptian: As conjunctions are rare in Egyptian, the conj relation between two elements is usually asyndetic without a coordinating conjunction. 
 Coordinating conjunction (cc):
