@@ -87,24 +87,22 @@ The OSSC or Stative tends to lose its personal endings. It is used in the First 
 
 The following universal syntactic relations are found in Egyptian:
 * Nominal subject ([nsubj](https://universaldependencies.org/u/dep/nsubj.html)):
-  - Old Egyptian and Middle Egyptian: The subject is a noun phrase or a pronoun. If it is a pronoun, its form varies according to these cases:
+  - Old Egyptian and Middle Egyptian: The subject is a noun phrase or a pronoun. It is _ti҆_ / _tw_ “one” in impersonal SPC verb forms. If it is a pronoun, its form varies according to these cases:
      * It is a suffix pronoun in verbal sentences with SPC verb forms.
      * It is an independent pronoun in nominal sentences.
      * It is a dependent pronoun in adjectival sentences.
      * It is a dependent pronoun after particles such as m ⸗k in adverbial sentences.
      * It is a suffix pronoun after particles such as i҆w in adverbial sentences.
-  The subject is _ti҆_ / _tw_ “one” in impersonal SPC verb forms.     
-  - Late Egyptian: The subject is a noun phrase or a pronoun. If it is a pronoun, its form varies according to these cases:
-o	It is a suffix pronoun in verbal sentences with SPC verb forms.
-o	It is an independent pronoun in nominal sentences.
-o	It is a dependent pronoun in adjectival sentences.
-o	It is a proclitic pronoun in adverbial sentences (First Present).
-The subject is tw “one” in impersonal SPC verb forms.
-	Demotic: The subject is a noun phrase or a pronoun. If it is a pronoun, its form varies according to these cases:
-o	It is a suffix pronoun in verbal sentences with SPC verb forms.
-o	It is an independent pronoun in nominal sentences.
-o	It is a proclitic pronoun in adverbial sentences (First Present).
-Object (obj): 
+  - Late Egyptian: The subject is a noun phrase or a pronoun. It is _tw_ “one” in impersonal SPC verb forms. If it is a pronoun, its form varies according to these cases:
+     * It is a suffix pronoun in verbal sentences with SPC verb forms.
+     * It is an independent pronoun in nominal sentences.
+     * It is a dependent pronoun in adjectival sentences.
+     * It is a proclitic pronoun in adverbial sentences (First Present).
+  - Demotic: The subject is a noun phrase or a pronoun. If it is a pronoun, its form varies according to these cases:
+     * It is a suffix pronoun in verbal sentences with SPC verb forms.
+     * It is an independent pronoun in nominal sentences.
+     * It is a proclitic pronoun in adverbial sentences (First Present).
+* Object (obj): 
 	All stages of Egyptian: The object of a verb is expressed by a dependent pronoun.
 Indirect object (iobj):
 	All stages of Egyptian: The indirect object of a verb is expressed by the preposition n + a noun or suffix pronoun.
