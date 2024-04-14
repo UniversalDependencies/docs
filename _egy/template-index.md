@@ -34,8 +34,8 @@ The 17 [Universal POS](https://universaldependencies.org/u/pos/index.html) categ
  * Demotic: The use of adverbs is more common than in earlier stages of Egyptian. Demotic adverbs fall into three general categories: quality, place and time.
 3. Interjection ([INTJ](https://universaldependencies.org/u/pos/INTJ.html)):
  * All stages of Egyptian: The number of interjections is small in Egyptian texts. The most used interjections in Earlier Egyptian are _i҆_ and _hꜣ_, which usually accompany the vocative. In Demotic, _i҆_ is also used to introduce the vocative. In Late Egyptian, the interjection _i҆ꜣ_ has the meaning “truly”.
-Noun (NOUN):
-	Old Egyptian and Middle Egyptian: Nouns have no cases. There are two genders, masculine and feminine. The ending t is used not only to mark the feminine gender but also to form the neuter gender, especially in participles and relative forms, for example nfr.t “that which is good” i.e. “(the) good”. In addition, there are three numbers, singular, plural, and dual.
+4. Noun ([NOUN](https://universaldependencies.org/u/pos/NOUN.html)):
+ * Old Egyptian and Middle Egyptian: Nouns have no cases. There are two genders, masculine and feminine. The ending t is used not only to mark the feminine gender but also to form the neuter gender, especially in participles and relative forms, for example nfr.t “that which is good” i.e. “(the) good”. In addition, there are three numbers, singular, plural, and dual.
 	Late Egyptian: As in Earlier Egyptian, the noun has two genders, masculine and feminine and the ending t is used to mark the feminine gender. Contrary to Earlier Egyptian, the neuter gender is expressed in the masculine form. The Late Egyptian noun has only two numbers, singular and plural. The dual forms are rare and they are used in the plural.
 	Demotic: As in earlier stages of Egyptian, the noun has two genders, masculine and feminine. Although the ending t is usually used in feminine nouns, it is only a graphic convention as it was not pronounced. The neuter gender is usually realised in the feminine form. The Demotic noun has only two numbers, singular and plural.
 Proper Noun (PROPN): 
