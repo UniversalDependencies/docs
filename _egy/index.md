@@ -154,24 +154,24 @@ Marker ([mark](https://universaldependencies.org/u/dep/mark.html)):
   - All stages of Egyptian: The det relation is given between the determiners and the words they accompany (see DET, above).
 * Case marking ([case](https://universaldependencies.org/u/dep/case.html)):
   - All stages of Egyptian: Case relation indicates the syntactic dependency between adpositions and the nouns they accompany (for the prepositional cases in Egyptian see the list of [specific features](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl?lcode=egy&feature=Case) for this language).
-Conjunct (conj):
-	All stages of Egyptian: As conjunctions are rare in Egyptian, the conj relation between two elements is usually asyndetic without a coordinating conjunction. 
-Coordinating conjunction (cc):
-	All stages of Egyptian: It is unusual due to the rare use of coordinating conjunctions in Egyptian (see CONJ, above).
-Fixed multiword expression (fixed):
-	All stages of Egyptian: A fixed relation is given especially in complex prepositions.
-Flat expression (flat):
-	All stages of Egyptian: Royal names are usually connected by a flat relation.
-List (list):
-	All stages of Egyptian: Chains of comparable items in a list relation are found in Egyptian inventories.
-Parataxis (parataxis):
-	All stages of Egyptian: Examples of the parataxis relation can be found in the direct speech.
-Compound (compound):
-	All stages of Egyptian: Egyptian titles are usually combination of lexemes in a compound relation.
-Root (root):
-	All stages of Egyptian: The root is usually a noun in the predicates of a nominal sentence and an adverbial sentence, an adjective in an adjectival sentence or phrase, an adverb in an adverbial sentence and a verb in a verbal sentence.
-Unspecified dependency (dep):
-	All stages of Egyptian: Words of unclear meaning and grammatical function are annotated in a dep relation.
+* Conjunct ([conj](https://universaldependencies.org/u/dep/conj.html)):
+  - All stages of Egyptian: As conjunctions are rare in Egyptian, the conj relation between two elements is usually asyndetic without a coordinating conjunction. 
+* Coordinating conjunction ([cc](https://universaldependencies.org/u/dep/cc.html)):
+  - All stages of Egyptian: It is unusual due to the rare use of coordinating conjunctions in Egyptian (see CONJ, above).
+* Fixed multiword expression ([fixed](https://universaldependencies.org/u/dep/fixed.html)):
+  - All stages of Egyptian: A fixed relation is given especially in complex prepositions.
+* Flat expression ([flat](https://universaldependencies.org/u/dep/flat.html)):
+  - All stages of Egyptian: Royal names are usually connected by a flat relation.
+* List ([list](https://universaldependencies.org/u/dep/list.html)):
+  - All stages of Egyptian: Chains of comparable items in a list relation are found in Egyptian inventories.
+* Parataxis ([parataxis](https://universaldependencies.org/u/dep/parataxis.html)):
+  - All stages of Egyptian: Examples of the parataxis relation can be found in the direct speech.
+* Compound ([compound](https://universaldependencies.org/u/dep/compound.html)):
+  - All stages of Egyptian: Egyptian titles are usually combination of lexemes in a compound relation.
+* Root ([root](https://universaldependencies.org/u/dep/root.html)):
+   - All stages of Egyptian: The root is usually a noun in the predicates of a nominal sentence and an adverbial sentence, an adjective in an adjectival sentence or phrase, an adverb in an adverbial sentence and a verb in a verbal sentence.
+* Unspecified dependency ([dep](https://universaldependencies.org/u/dep/dep.html)):
+  - All stages of Egyptian: Words of unclear meaning and grammatical function are annotated in a dep relation.
 
 
 ## Treebanks
