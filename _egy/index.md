@@ -16,7 +16,9 @@ Egyptian texts are annotated with Transcription characters. The Tübingen transc
 
 Words are separated by a whitespace in the transcription of Egyptian texts. A dot is used to separate the ending of a word from its stem, cf: _nb.t_ "mistress" and _nb_ "lord".
 Suffix pronouns are attached to the word they follow by means of two diagonal parallel lines (⸗), for example: _nb.t ⸗f_ "his mistress".
-Compounds and fixed multiword expressions are connected by a hyphen, for example titles such as _ẖri҆-ḥꜣb.t_ "lector priest" and complex prepositions, for example _m-ḫt_ “behind”. A hyphen is also used to separate the man-impersonal noun _ti҆/tw_ from a verb form, for example: _pr-tw_ “one shall go”.
+
+Compounds and fixed multiword expressions are connected by a hyphen, for example titles such as _ẖri҆-ḥꜣb.t_ "lector priest" and complex prepositions, for example _m-ḫt_ “behind”. A hyphen is also used to separate the man-impersonal noun _ti҆ / tw_ from a verb form, for example: _pr-tw_ “one shall go”.
+
 Brackets () indicate the omission of an element in the text and square brackets [] the restoration of the text. Curly brackets {} enclose typographical errors in the text and <> indicate an emended element in the text.
 
 
