@@ -31,9 +31,9 @@ The 17 [Universal POS](https://universaldependencies.org/u/pos/index.html) categ
  * Demotic: The number of adjectives is smaller than in earlier stages of Egyptian. They are often replaced by a genitive construction. Demotic adjectives usually have the same gender as the noun they follow. Agreement in number between nouns and adjectives is rare.
 2. Adverb ([ADV](https://universaldependencies.org/u/pos/ADV.html)): 
  * Old Egyptian, Middle Egyptian and Late Egyptian: The use of adverbs such as _i҆m_ “there” is rare. Instead, adpositions ([ADP](https://universaldependencies.org/u/pos/ADP.html)s) are usually used, consisting of a preposition and a noun phrase. Adverbs generally occur at the end of a sentence.
-	Demotic: The use of adverbs is more common than in earlier stages of Egyptian. Demotic adverbs fall into three general categories: quality, place and time.
-Interjection (INTJ):
-	All stages of Egyptian: The number of interjections is small in Egyptian texts. The most used interjections in Earlier Egyptian are i҆ and hꜣ, which usually accompany the vocative. In Demotic, i҆ is also used to introduce the vocative. In Late Egyptian, the interjection i҆ꜣ has the meaning “truly”.
+ * Demotic: The use of adverbs is more common than in earlier stages of Egyptian. Demotic adverbs fall into three general categories: quality, place and time.
+3. Interjection ([INTJ](https://universaldependencies.org/u/pos/INTJ.html)):
+ * All stages of Egyptian: The number of interjections is small in Egyptian texts. The most used interjections in Earlier Egyptian are _i҆_ and _hꜣ_, which usually accompany the vocative. In Demotic, _i҆_ is also used to introduce the vocative. In Late Egyptian, the interjection _i҆ꜣ_ has the meaning “truly”.
 Noun (NOUN):
 	Old Egyptian and Middle Egyptian: Nouns have no cases. There are two genders, masculine and feminine. The ending t is used not only to mark the feminine gender but also to form the neuter gender, especially in participles and relative forms, for example nfr.t “that which is good” i.e. “(the) good”. In addition, there are three numbers, singular, plural, and dual.
 	Late Egyptian: As in Earlier Egyptian, the noun has two genders, masculine and feminine and the ending t is used to mark the feminine gender. Contrary to Earlier Egyptian, the neuter gender is expressed in the masculine form. The Late Egyptian noun has only two numbers, singular and plural. The dual forms are rare and they are used in the plural.
