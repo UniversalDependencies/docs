@@ -25,7 +25,7 @@ Brackets () indicate the omission of an element in the text and square brackets 
 ### Tags and Features
 
 The 17 universal POS categories are found in Egyptian.
-1) Adjective (ADJ):
+1) Adjective ([ADJ](https://universaldependencies.org/u/pos/ADJ.html)):
 
 a) Old Egyptian and Middle Egyptian: There are a few primary adjectives, for example nb “every”, “all”. Most of them are deverbal adjectives such as _nfr_ “good” and nisba adjectives such as n.i҆ “belonging to”, derived from the preposition n “for”. In attributive use, adjectives usually agree in gender and number with the noun they follow.
 
