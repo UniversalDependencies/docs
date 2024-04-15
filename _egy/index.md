@@ -6,11 +6,15 @@ udver: '2'
 
 # UD for Egyptian <span class="flagspan"><img class="flag" src="../../flags/svg/EG.svg" /></span>
 
-This is an overview based on the works cited in the README bibliography. Please note that this is a work in progress. It is planned to publish a detailed description for each stage of Egyptian.
+This is an overview based on the works cited in the README bibliography. Please note that this is a work in progress. A detailed description of each stage of Egyptian is planned to be published.
 
-## Tokenization and Word Segmentation
 
-Egyptian is divided into two main stages, Earlier Egyptian, which includes Old Egyptian and Middle Egyptian, and Later Egyptian, which includes Late Egyptian, Demotic and Coptic (for the latter see the language page for [Coptic](https://universaldependencies.org/cop/index.html) in UD). Earlier Egyptian is characterized by a synthetic syntax and Later Egyptian by an analytic syntax. In general, hieroglyphic and hieratic script is used for Old Egyptian, Middle Egyptian and Late Egyptian, while Demotic is written in demotic script. No whitespace is used to separate word in these scripts. 
+## Introduction
+
+Egyptian comprises two main stages, Earlier Egyptian, which includes Old Egyptian and Middle Egyptian, and Later Egyptian, which includes Late Egyptian, Demotic and Coptic (for the latter see the Language Page for [Coptic](https://universaldependencies.org/cop/index.html) in UD). Earlier Egyptian is characterized by a synthetic syntax and Later Egyptian by an analytic syntax. In general, hieroglyphic and hieratic script were used for Old Egyptian, Middle Egyptian and Late Egyptian, while Demotic was written in demotic. In these scripts no blanks were used between words.
+
+
+## Tokenization and Word Segmentation 
 
 Egyptian texts are annotated with Transcription characters. The Tübingen transcription system is used in the UD_Egyptian-UJaen treebank (see README). Classifiers are not annotated in the transcription of Egyptian texts because they have no phonetic value or because they repeat sounds expressed in the word, as phonetic classifiers do.
 
