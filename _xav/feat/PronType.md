@@ -8,7 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Gen">Gen</a></td>
+  <td><a href="#Gnc">Gnc</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Prs">Prs</a></td>
   
@@ -18,7 +18,7 @@ udver: '2'
 
 `Plur` is a 
 
-### <a name="Gen">`Gen`</a>: Generic
+### <a name="Gnc">`Gnc`</a>: Generic
 
 
 
