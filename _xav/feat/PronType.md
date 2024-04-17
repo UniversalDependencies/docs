@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Prs">Prs</a></td>
   
   
 </tr>
@@ -27,6 +28,15 @@ udver: '2'
 
 
 ### <a name="Ind">`Ind`</a>: Indefinite
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+### <a name="Prs">`Prs`</a>: Personal
 
 
 
