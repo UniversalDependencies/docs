@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Gen'
+title: 'Gnc'
 shortdef: 'Generic'
 udver: '2'
 ---
@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Gen` 
+`Gnc` 
 
 ### <a name="Yes">`Yes`</a>: Yes
 
