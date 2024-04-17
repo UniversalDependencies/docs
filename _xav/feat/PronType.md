@@ -24,7 +24,7 @@ udver: '2'
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
+* _<b>da</b>&nbsp;_ “”
 
 
 ### <a name="Ind">`Ind`</a>: Indefinite
