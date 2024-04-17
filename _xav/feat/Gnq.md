@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Gnq'
-shortdef: 'Genericity'
+title: 'Gen'
+shortdef: 'Generic'
 udver: '2'
 ---
 
@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Gnq` 
+`Gen` 
 
 ### <a name="Yes">`Yes`</a>: Yes
 
