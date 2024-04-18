@@ -154,6 +154,7 @@ Following `MISC` values can be used to annotate errors in the source text interf
 
 ## Treebanks
 
-There is [1](../treebanks/lv-comparison.html) Latvian UD treebank:
+There are [2](../treebanks/lv-comparison.html) Latvian UD treebanks:
 
   * [Latvian-LVTB](../treebanks/lv_lvtb/index.html)
+  * [Latvian-Cairo](../treebanks/lv_cairo/index.html)
