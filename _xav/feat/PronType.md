@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Dem">Dem</a></td>
   
   
 </tr>
@@ -66,6 +67,14 @@ udver: '2'
 #### Examples
 
 * _<b></b>&nbsp;_ “”
+
+### <a name="Dem">`Dem`</a>: Demonstrative
+
+
+
+#### Examples
+
+* _<b>da</b>&nbsp;_ “”
 
  
 
