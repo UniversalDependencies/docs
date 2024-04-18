@@ -10,7 +10,7 @@ udver: '2'
 
 In general, words are delimited by whitespace characters and punctuation is separated. Description of exceptions follows:
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ ("1,000,000" by English rules) is one token.
-* Abbreviations without spaces are treated as single words and may contain punctuation (_utt._ "etc."). In following cases we treat abbreviation as a single token even if whitespace is used between part of abbreviation and punctuation mark: _u.t.jpr._, _u.c._, _u.tml._, _v.tml_, _u.t.t._, _N.B._, _P.S._ and _P.P.S._
+* Abbreviations without spaces are treated as single words and may contain punctuation (_utt._ "etc."). In following cases we treat abbreviation as a single token even if whitespace is used between part of abbreviation and punctuation mark: _u.t.jpr._, _u.c._, _u.tml._, _v.tml._, _u.t.t._, _N.B._, _P.S._ and _P.P.S._
 * Double surnames such as _Vīķe-Freiberga_ and words abbreviated with dashes such as _e-pasts_ "e-mail", _k-dze_ "Ms." are tokenized as a single token.
 * In Latvian ordinal numerals are written with punctuation mark without whitespace like abbreviations (_1._), so we tokenize ordinal numeral together with punctuation mark as one token.
 * Multiple dots (_..._ and _.._ ) are considered as one token. Multiple _?!_ are considered one token, _?!..._ is considered to be two tokens (_?!_ and _..._).
