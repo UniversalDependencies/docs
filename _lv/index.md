@@ -36,11 +36,11 @@ Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very ha
 
 #### Auxiliary Verbs
 
-* Latvian has dour auxiliary verbs [AUX](): _būt_ "to be", _kļūt_ "to become", _tikt_ "to get", and _tapt_ "to become" (obsolete). The auxiliary verb is used in several types of constructions:
+* Latvian has three auxiliary verbs [AUX](): _būt_ "to be", _tikt_ "to get", and _tapt_ "to become" (obsolete). The auxiliary verb is used in several types of constructions:
     * Analytic word forms of verbs (_būt_, _tikt_).
-    * The copula in non-verbal predicates (_būt_, _kļūt_) .
+    * The copula in non-verbal predicates (_būt_).
     * The copula in infinitive predicates (_būt_).
-* _Būt_, _tikt_ and _tapt_ may still occur as normal [VERB]() if they are used in purely existential sentences or indicate location. Word _kļūt_ always is tagged as [AUX]().
+* _Būt_, _tikt_ and _tapt_ may still occur as normal [VERB]() if they are used in purely existential sentences or indicate location.
 * Verbs with modal meaning are not considered auxiliary in Latvian.
 * Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
 
