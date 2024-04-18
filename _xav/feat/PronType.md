@@ -11,6 +11,8 @@ udver: '2'
   <td><a href="#Gnc">Gnc</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Int">Int</a></td>
+  <td><a href="#Tot">Tot</a></td>
   
   
 </tr>
@@ -44,7 +46,20 @@ udver: '2'
 
 * _<b></b>&nbsp;_ “”
 
-### <a name="Dem">`Dem`</a>: Personal
+### <a name="Int">`Int`</a>: Interrogative
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+### <a name="Tot">`Tot`</a>: Total
 
 
 
