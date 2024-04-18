@@ -128,7 +128,7 @@ Features not applicable for Latvian:
 
 ### Non-verbal Clauses
 
-The copula verbs _būt_ "be" and _kļūt_ "become" is used in equational and attributional nonverbal clauses. Purely existential clauses (also indicating location) use būt as well, but it is treated as the head of the clause and tagged [VERB]().
+The copula verb _būt_ "be" is used in equational and attributional nonverbal clauses. Purely existential clauses (also indicating location) use būt as well, but it is treated as the head of the clause and tagged [VERB]().
 
 ### Relations Overview
 
