@@ -1,32 +1,87 @@
 ---
 layout: feature
 title: 'PronType'
-shortdef: 'PronType'
+shortdef: 'pronominal type'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Yes">Ana</a></td>
+  <td><a href="#Gnc">Gnc</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Int">Int</a></td>
+  <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Dem">Dem</a></td>
+  
+  
 </tr>
 </table>
 
-`Hon` 
+`Plur` is a 
 
-### <a name="Ana">`Ana`</a>: Anaphoric
+### <a name="Gnc">`Gnc`</a>: Generic
 
 
 
 #### Examples
 
-* _emõdura<b>wĩ</b> duriam epe_&nbsp; “Give me a bit of rice.”
-* _takuru<b>ũwĩ</b> otuiomãʔẽrehe owur_&nbsp; “He climbs on a small rock that is there.”
+* _<b>da</b>&nbsp;_ “”
+
+
+### <a name="Ind">`Ind`</a>: Indefinite
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+### <a name="Prs">`Prs`</a>: Personal
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+### <a name="Int">`Int`</a>: Interrogative
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+### <a name="Tot">`Tot`</a>: Total
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+### <a name="Dem">`Dem`</a>: Demonstrative
+
+
+
+#### Examples
+
+* _<b>da</b>&nbsp;_ “”
+
+ 
+
 
 
 ## Diffs
 
 ### Prague Dependency Treebank
 
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
+
