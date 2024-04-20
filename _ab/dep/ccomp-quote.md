@@ -5,7 +5,7 @@ shortdef: 'a clausal complement consisting of direct speech'
 udver: '2'
 ---
 
-The dependent of an `ccomp:quote` is direct speech, introduced by a verb of saying or the particle ҳәа.
+The dependent of an `ccomp:quote` is a direct speech clause, cross-referenced by the direct object marker of a verb of saying and introduced by the particle *ҳәа*.
 
 ~~~ conllu
 Измааноузеи иҟауҵо? – аҳәеит. \n Whose trick was it you did? it asked.

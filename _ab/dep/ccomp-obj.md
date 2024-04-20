@@ -5,7 +5,7 @@ shortdef: 'direct object complement'
 udver: '2'
 ---
 
-The `ccomp:obj` relation marks an a sentence complement referenced by a direct object marker.
+The `ccomp:obj` relation marks an a clausal complement cross-referenced by a direct object marker.
 
 ~~~ sdparse
 ауи чвгьата йыугiватiитi йыугiватiиті \n You strongly stir stir
