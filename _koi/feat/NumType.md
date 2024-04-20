@@ -50,5 +50,13 @@ This is a subtype of adverb but in Komi-Permyak it is a regular inflection of vi
 
 * [koi] _куимисьӧн, нёлисьӧн, витісьӧн_ "_three times each, four times each, five times each_"
 
+### <a name="Sets">`Sets`</a>: Sets is a numeral subtype indicating a collection both, the three of them, you, us
+
+This is a subtype of pronoun and determiner in Komi-Permyak 
+
+#### Examples
+
+* [koi] _Окаліс Митя кыкнаннысӧ да пуксьӧтіс пызан сайӧ._ "_Mitya kissed the two of them and had them sit down at the table_"
+
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->
