@@ -19,7 +19,7 @@ This feature marks number of a nominal.
 
 * [ab] _д-гIа-<b>ра</b>-з-цIгIа-тI_ [3SG.H.ABS-CSL-<b>3PL.IO</b>-BEN-ask-DCL] ‘he asked <b>them</b>’ `Gender[abs]=Com|Number[abs]=Sing|Number[io]=Plur|Person[abs]=3|Person[io]=3|Tense=Aor|VerbForm=Fin`
 
-### <a name="Plur">`Card`</a>: Cardinal
+### <a name="Card">`Card`</a>: Cardinal
 
 #### Examples
 
