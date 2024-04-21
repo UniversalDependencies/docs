@@ -18,7 +18,7 @@ udver: '2'
 ### Lemmatisation
 
 * The lemma forms are the tranditional dictionary entry forms for Abkhaz, viz. the form with the generic article *а-* for nouns and adjectives, and the verbal noun (masdar, with generic article) for verbs. All lemmas are marked by stress, which is a distinctive feature in Abkhaz (with many minimal pairs that differ only in stress position).
-There is limited morpheme segmentation, separating the generic article from the stem, and for verbs, segmentation into article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), masdar ending (*-ра*), as: *а-(PV-)(р:)STEM-(заа-)ра*.
+There is limited morpheme segmentation, separating the generic article from the stem, and for verbs, segmentation into article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), masdar ending (*-ра*), as: *а-(PV·)(р:)STEM-(заа-)ра*.
 
 ### Tags
 
@@ -74,6 +74,9 @@ Person, Number and Gender are marked in the verb for a variety of syntactic func
 * Evident: `Nfh`.
 * Animacy: `Hum`, `Nhum`. Animacy is a verbal feature when the verb is a predicate derived from a noun.
 
+### Numbers
+
+Cardinal numbers in Abkhaz can optionally be prefixed to a noun. This is reflected by the nominal feature `NumType` with value `Prefix`.
 
 ### Pronouns, Determiners, Quantifiers
 

@@ -8,8 +8,9 @@ udver: '2'
 The `obj:po` relation marks an an object referenced by a potential(is) object marker.
 
 ~~~ conllu
-# text = Уи амши асааҭи ртәы аӡәгьы издырам .
-# text-transcription = Ui amši asaati rṭʷə aʒʷg’ə izdəram .
+# text = Уи амши асааҭи ртәы аӡәгьы издырам.
+# text-transcription = Ui amši asaati rṭʷə aʒʷg’ə izdəram.
+# translation = About that day or hour no one can know.
 1	Уи	уи́	PRON	_	Number=Sing|PronType=Dem	2	det	_	_
 2	амши	а́-мш	NOUN	_	Animacy=Nhum|Definite=Def|Number=Sing	6	obl	_	_
 3	асааҭи	а-саа́ҭ	NOUN	_	Animacy=Nhum|Definite=Def|Number=Sing	2	conj	_	_
