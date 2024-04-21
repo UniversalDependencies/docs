@@ -5,9 +5,12 @@ shortdef: 'indirect object complement'
 udver: '2'
 ---
 
-The `ccomp:ro` relation marks an a sentence complement referenced by a relational object marker.
+The `ccomp:iobj` relation marks an a sentence complement referenced by an indirect object marker.
 
 ~~~ conllu
+# text = Иузымдыруа уазҵаар – ҧхашьараӡам …
+# text-transcription = Iuzəmdərua uazc̣aar – pxaš’araʒam …
+# translation = If you ask what you don’t understand, it’s no shame …
 1       Иузымдыруа      а-ды́р-ра        VERB    V_Dyn_Tr_NonFin_Pot_Pres_Neg_S:Rel_Rel_Reln:Pot_PO:2SgM Dyn=Yes|Gender[po]=Masc|Number[po]=Sing|Person[po]=2|Person[subj]=Rel|Polarity=Neg|Reln=Pot|Tense=Pres|Trans=Yes|VerbForm=Non\
 Fin        2       ccomp:iobj      _       _
 2       уазҵаар а́зҵаа-ра        VERB    V_Dyn_Intr_NonFin_Conj-I_S:2SgM_IO:3SgNH        Dyn=Yes|Gender[io]=Neut|Gender[subj]=Masc|Mood=Conj1|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=2|Trans=No|VerbForm=NonFin  \

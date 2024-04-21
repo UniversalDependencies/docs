@@ -8,7 +8,12 @@ udver: '2'
 The `obj:lo` relation marks an an object referenced by a local object marker.
 
 ~~~ conllu
-апартиа далалеит \n he entered the party
-1	апартиа	а-па́ртиа	NOUN	_	Animacy=Nhum|Definite=Def|Number=Sing	2	obj:lo	_	_
-2	далалеит	а́-ла·ла-ра	VERB	_	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Tense=Aor|Trans=No|VerbForm=Fin	0	root	_	_
+# text = Аруаа ақыҭа иалалоит .
+# text-transcription = Aruaa akəta ialaloiṭ .
+# translation = The soldiers are entering the village.
+1	Аруаа	а́-руаҩ	NOUN	_	Animacy=Hum|Definite=Def|Number=Plur	3	nsubj	_	_
+2	ақыҭа	а-қы́ҭа	NOUN	_	Animacy=Nhum|Definite=Def|Number=Sing	3	obj:lo	_	_
+3	иалалоит	а́-ла·ла-ра	VERB	_	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
 ~~~

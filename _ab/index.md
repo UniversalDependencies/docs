@@ -17,7 +17,8 @@ udver: '2'
 
 ### Lemmatisation
 
-* The lemma forms are the tranditional dictionary entry forms for Abkhaz, viz. the form with the generic article *а-* for nouns and adjectives, and the verbal noun (masdar, with generic article) for verbs. All lemmas are marked by stress, which is a distinctive feature in Abkhaz (with many minimal pairs that differ only in stress position).
+* The lemma forms are the tranditional dictionary entry forms for Abkhaz, viz. the form with the generic article *а-* for nouns and adjectives, and the verbal noun (masdar, with generic article) for verbs. The lemma form of a predicate derived from a noun or an adjective is the underlying noun or adjective.
+All lemmas are marked by stress, which is a distinctive feature in Abkhaz (with many minimal pairs that differ only in stress position).
 There is limited morpheme segmentation, separating the generic article from the stem, and for verbs, segmentation into article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), masdar ending (*-ра*), as: *а-(PV·)(р:)STEM-(заа-)ра*.
 
 ### Tags
@@ -82,8 +83,7 @@ Cardinal numbers in Abkhaz can optionally be prefixed to a noun. This is reflect
 
 ### Other Features
 
-
-*
+* The features `Clusivity,`, `Degree,`, `Foreign,`, `NounClass,`, `Polite,`, `Reflex,`, `Typo` are not in use.
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
