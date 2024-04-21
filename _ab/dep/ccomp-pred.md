@@ -1,11 +1,11 @@
 ---
 layout: relation
 title: 'ccomp:pred'
-shortdef: 'a clausal complement which is the predicate of a copula construction'
+shortdef: 'a clausal complement which is the predicative complement of the main verb'
 udver: '2'
 ---
 
-The dependent of an `ccomp:pred` is clausal complement which is the predicate of a copula construction.
+The dependent of an `ccomp:pred` is clausal complement which is the predicative complement of the main verb.
 
 ~~~ conllu
 # text = Сара соума хәарҭара злам ҳәа иуҧхьаӡо?
