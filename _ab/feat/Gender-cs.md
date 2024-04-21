@@ -11,16 +11,16 @@ This feature marks gender agreement of the verb with the indirect object or of p
 
 #### Examples
 
-* [ab] _хI-<b>и</b>-цIгIа-пI_ [1PL.ABS-<b>3SG.M.IO</b>-ask-NPST.DCL] ‘we'll ask <b>him</b>’ `Gender[io]=Masc|Number[abs]=Plur|Number[io]=Sing|Person[abs]=1|Person[io]=3|Tense=Fut2|VerbForm=Fin`
+* [ab] _и-<b>у</b>-сы-р:ба-п_ [DO.3-<b>Causee.2SgM</b>-Subj.1Sg-CAUS.see-Fut1] ‘I will show it to you.Masc’ `Dyn=Yes|Gender[cs]=Masc|Number[cs]=Sing|Number[subj]=Sing|Person[cs]=2|Person[obj]=3|Person[subj]=1|Tense=Fut|Trans=Yes|VerbForm=Fin|Voice=Cau`
 
 ### <a name="Fem">`Fem`</a>: Feminine
 
 #### Examples
 
-* [ab] _й-<b>л</b>-а-с-хIв-д_ [3SG.N.ABS-<b>3SG.F.IO</b>-DAT-1SG.ERG-say-DCL] ‘I said <b>to her</b>’ `Gender[abs]=Neut|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=3|Tense=Aor|VerbForm=Fin`
+* [ab] _и-<b>б</b>-сы-р:ба-п_ [DO.3Sg-<b>Causee.2SgF</b>-Subj.1Sg-CAUS.see-Fut1] ‘I will show it to you.Fem’ `Dyn=Yes|Gender[cs]=Masc|Number[cs]=Sing|Number[subj]=Sing|Person[cs]=2|Person[obj]=3|Person[subj]=1|Tense=Fut|Trans=Yes|VerbForm=Fin|Voice=Cau`
 
 ### <a name="Neut">`Neut`</a>: Neuter = Non-human
 
 #### Examples
 
-* [ab] _й-<b>л</b>-а-с-хIв-д_ [3SG.N.ABS-<b>3SG.F.IO</b>-DAT-1SG.ERG-say-DCL] ‘I said <b>to her</b>’ `Gender[abs]=Neut|Gender[io]=Fem|Number[abs]=Sing|Number[erg]=Sing|Number[io]=Sing|Person[abs]=3|Person[erg]=1|Person[io]=3|Tense=Aor|VerbForm=Fin`
+* [ab] _и-<b>а</b>-сы-р:ба-п_ [DO.3Sg-<b>Causee.3SgNH</b>-Subj.1Sg-CAUS.see-Fut1] ‘I will show it to it.NHum’ `Dyn=Yes|Gender[cs]=Neut|Number[cs]=Sing|Number[subj]=Sing|Person[cs]=3|Person[obj]=3|Person[subj]=1|Tense=Fut|Trans=Yes|VerbForm=Fin|Voice=Cau`
