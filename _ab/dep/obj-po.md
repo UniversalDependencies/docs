@@ -5,7 +5,7 @@ shortdef: 'potential object'
 udver: '2'
 ---
 
-The `obj:po` relation marks an an object referenced by a potential(is) object marker.
+The `obj:po` relation marks an an object referenced by a potential(is) or involuntative object marker.
 
 ~~~ conllu
 # text = Уи амши асааҭи ртәы аӡәгьы издырам.

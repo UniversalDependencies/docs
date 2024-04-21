@@ -8,7 +8,9 @@ udver: '2'
 The `obj:ro` relation marks an an object referenced by a relational object marker.
 
 ~~~ conllu
-Аҵысҕра иаҳәаз ажәақәа иаарызхәыцит Абгахәыҷы. \n The Fox thought about the words the Chaffinch had said. 
+# text = Аҵысҕра иаҳәаз ажәақәа иаарызхәыцит Абгахәыҷы.
+# text-transcription = Ac̣əsγra iaḥʷaz ažʷakʷa iaarəzxʷəciṭ Abgaxʷəć̣ə.
+# translation = The Fox thought about the words the Chaffinch had said. 
 1       Аҵысҕра а-ҵы́сҕра        NOUN    Noun_NH_Sg_Det  Animacy=Nhum|Definite=Def|Number=Sing   2       nsubj   _       _
 2       иаҳәаз  а-ҳәа-ра́        VERB    V_Dyn_Tr_NonFin_PastIndef_S:3SgNH_DO:Rel_Rel    Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=Rel|Person[subj]=3|Tense=Past|Trans=Yes|VerbForm=NonFin 3       acl:relcl       _    \
    _
