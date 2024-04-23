@@ -79,7 +79,7 @@ cc(you-injure,and)
 By agreement, the `conj` relation is also used for general extenders, such as _in tako naprej_ 'and so forth', and their abbreviations, such as _itd._ 'etc.'. The expressions _in tako dalje_ 'and so forth' and _in tako naprej_ 'and so on' are analyzed as [fixed](https://universaldependencies.org/sl/dep/fixed.html) multi-word expressions.
 
 ~~~ sdparse
-preveč organske snovi pomeni gnitje , slabše prezimovanje in podobno \n Too-much organic matter means rotting , poor overwintering, and similar .
+preveč organske snovi pomeni gnitje , slabše prezimovanje in podobno \n Too-much organic matter means rotting , poor overwintering , and similar .
 conj(gnitje,prezimovanje)
 conj(gnitje,podobno)
 cc(podobno,in)
