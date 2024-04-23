@@ -36,6 +36,10 @@ orphan(we-will,speci-)
 
 ~~~ sdparse
 gre za gre za postopek \n it-is about it-is about procedure
+reparandum(gre-3,gre-1)
+orphan(gre-1,za-2)
+obl(gre-3,postopek)
+case(postopek,za-4)
 reparandum(it-is-9,it-is-7)
 orphan(it-is-7,about-8)
 obl(it-is-9,procedure)
