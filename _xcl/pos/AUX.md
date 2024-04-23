@@ -17,7 +17,7 @@ Classical Armenian has the following auxiliary verbs: _եմ_/_em_ “to be”, i
       * Pluperfect: imperfect form of _եմ_ plus past participle, aorist form of _լինիմ_ plus past participle of the main verb;
       * Future perfect: present subjunctive form of _եմ_ plus past participle, present subjunctive form of _լինիմ_ plus past participle, aorist subjunctive form of _լինիմ_ plus past participle of the main verb.
 - The auxiliary _չիք_ is used as a negated copula with non-verbal predicates.
-- The auxiliary _տամ_ is used to form periphrastc causative: any form of _տամ_, including periphrastic forms, plus infinitve of the main verb (Kocharov 2023).
+- The auxiliary _տամ_ is used to form periphrastc causative: any form of _տամ_, including periphrastic forms, plus infinitve of the main verb (see Kocharov 2023).
 
 ### Examples
 
