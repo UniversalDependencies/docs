@@ -25,7 +25,7 @@ udver: '2'
 
 ### Tags
 
-This is an overview only.
+This is an overview only. For more detailed discussion and examples, see the list of [Classical Armenian POS tags](pos/index.html).
 
 * Classical Armenian currently uses 16 UPOS tags; the tag [SYM]() does not occur in the UD_Classical_Armenian-CAVaL treebank.
 * The complete list of Classical Armenian words, which must be tagged [PART]() in UD, has to be worked out. At present, the tag is used restrictively and is applied to four lexemes:
