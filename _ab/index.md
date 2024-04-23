@@ -95,9 +95,9 @@ Abkhaz is a polysynthetic, head-marking language; all core arguments (subject, d
 
 There are four argument-changing alterations a verb can undergo: passive, causative, potentialis and involuntative.
 
-Passive and causative behave as expected. The potentialis alteration, introduced by the potential marker `-з-`, changes the subject of a transitive verb into a potential object (`po`), whereas the direct object becomes the subject. Example: *и-ҟа-сы-м-ҵе-ит* (do:3-PV-subj:1sg-Neg-ROOT-Aor) `I did not do it` vs. *и-с-зы-ҟа-м-ҵе-ит* (subj:3-po:1sg-POT-PV-Neg-ROOT-Aor) `I could not do it`. In intransitive verbs, no arguments are changed.
+Passive and causative behave as expected. The potentialis alteration, introduced by the potential marker *-з-*, changes the subject of a transitive verb into a potential object (`po`), whereas the direct object becomes the subject. Example: *и-ҟа-сы-м-ҵе-ит* (do:3-PV-subj:1sg-Neg-ROOT-Aor) `I did not do it` vs. *и-с-зы-ҟа-м-ҵе-ит* (subj:3-po:1sg-POT-PV-Neg-ROOT-Aor) `I could not do it`. In intransitive verbs, no arguments are changed.
 
-The involuntative behaves in the same way, it describes an action that happens inadvertently, unintentionally: *и-с-амха-фе-ит* (subj:3-po:1sg-INVOL-ROOT-Aor) `I ate it by accident/mistake`.
+The involuntative, marked by *-амха-*, behaves in the same way. It describes an action that happens inadvertently, unintentionally: *и-с-амха-фе-ит* (subj:3-po:1sg-INVOL-ROOT-Aor) `I ate it by accident/mistake`.
 
 ### Relations Overview
 
