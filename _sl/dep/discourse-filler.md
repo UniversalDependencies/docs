@@ -15,8 +15,10 @@ discourse:filler(clear,err)
 
 ~~~ sdparse
 eee danes bom predstavil predavanje eee skupaj z očetom \n err today I-will give talk err togeter with father
-discourse:filler(give,err-1)
-discourse:filler(give,err-6)
+discourse:filler(predstavil,eee-1)
+discourse:filler(predstavil,eee-6)
+discourse:filler(give,err-10)
+discourse:filler(give,err-15)
 ~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:51 CET -->
