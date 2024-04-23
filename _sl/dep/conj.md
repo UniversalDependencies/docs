@@ -75,4 +75,29 @@ cc(poškoduješ,in)
 conj(you-are,you-injure)
 cc(you-injure,and)
 ~~~
+
+By agreement, the `conj` relation is also used for general extenders, such as _in tako naprej_ 'and so forth', and their abbreviations, such as _itd._ 'etc.'. The expressions _in tako dalje_ 'and so forth' and _in tako naprej_ 'and so on' are analyzed as [fixed](https://universaldependencies.org/sl/dep/fixed.html) multi-word expressions.
+
+~~~ sdparse
+preveč organske snovi pomeni gnitje , slabše prezimovanje in podobno \n Too-much organic matter means rotting , poor overwintering, and similar .
+conj(gnitje,prezimovanje)
+conj(gnitje,podobno)
+cc(podobno,in)
+conj(rotting,overwintering)
+conj(rotting,overwintering)
+cc(similar,and)
+~~~
+~~~ sdparse
+že se pripravljamo na pust , veliko noč in tako dalje \n Already REFLEX we-prepare for Carnival , Easter , and so on .
+conj(pust,noč)
+conj(pust,in)
+fixed(in,tako)
+fixed(and,on)
+conj(Carnival,Easter)
+conj(Carnival,and)
+fixed(and,so)
+fixed(and,on)
+~~~
+
+
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:41 CET -->
