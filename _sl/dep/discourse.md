@@ -30,8 +30,8 @@ These expressions are particularly frequent in speech. If an utterance consists 
 aja ja dobro \n oh yes alright
 discourse(dobro,aja)
 discourse(dobro,ja)
-discourse(good,oh)
-discourse(good,yes)
+discourse(alright,oh)
+discourse(alright,yes)
 ~~~
 
 ~~~ sdparse
