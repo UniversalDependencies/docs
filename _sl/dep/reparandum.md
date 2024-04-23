@@ -35,4 +35,30 @@ cc(something,or)
 ~~~
 
 
+In case of sequence of self-repairs, for example when a speaker keeps restarting their intended verbalization, all reparandums attach to the same head, i.e. the head of the final repair.
+
+~~~ sdparse
+iskalnik je po krajih po imenih po po po ukrepih ne \n you can browse by places by names and by by by measures
+reparandum(po-9,po-8)
+reparandum(po-9,po-7)
+case(ukrepih,po-9)
+reparandum(by-11,by-9)
+reparandum(by-11,by-10)
+case(measures,by-11)
+~~~
+
+
+~~~ sdparse
+kako k- kako hodiš \n how h- how do-you-walk
+advmod(hodiš,kako-3)
+reparandum(kako-3,kako-1)
+reparandum(kako-3,k-)
+advmod(do-you-walk,how-3)
+reparandum(how-3,how-1)
+reparandum(how-3,h-)
+~~~
+
+
+
+
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:27 CET -->
