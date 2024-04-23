@@ -456,6 +456,8 @@ collections:
     output: true
   az:
     output: true
+  gwi:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
