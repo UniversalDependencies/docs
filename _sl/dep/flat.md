@@ -44,6 +44,9 @@ Finally, the 'flat' relation is also used for some verbatim transcriptions in sp
 
 ~~~ sdparse
 dva cela pet odstotka \n two point five percent
+flat(dva,cela)
+flat(dva,pet)
+nummod(odstotka,dva)
 flat(two,point)
 flat(two,five)
 nummod(percent,two)
