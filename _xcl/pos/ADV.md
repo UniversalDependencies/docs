@@ -9,7 +9,7 @@ udver: '2'
 
 Adverbs are words that typically modify [verbs](VERB) for time, place, direction or manner. They may also modify [adjectives](ADJ) and other adverbs. 
 
-Complex adverbs form multiword expressions. The status of component words as multiword expressions is accounted for in the syntactic annotation ([fixed]()). 
+Complex adverbs form multiword expression. The status of component words is accounted for in the syntactic annotation: the subsequent word is linked to the first one by the <code>fixed</code> relation. All component words are tagged as `ADV` (even in the case of foscilized prepositional phrases).
 
 There is a subclass of demonstrative, relative and interrogative adverbs, which inflect for [PronType](). Demonstrative adverbs also inflect for [Deixis]().
 
