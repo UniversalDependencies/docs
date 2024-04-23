@@ -28,12 +28,16 @@ These expressions are particularly frequent in speech. If an utterance consists 
 
 ~~~ sdparse
 aja ja dobro \n oh yes alright
+discourse(dobro,aja)
+discourse(dobro,ja)
 discourse(good,oh)
-discourse(god,yes)
+discourse(good,yes)
 ~~~
 
 ~~~ sdparse
 ja ja ja \n yes yes yes
+discourse(ja-1,ja-2)
+discourse(ja-1,ja-3)
 discourse(yes-1,yes-2)
 discourse(yes-1,yes-3)
 ~~~
