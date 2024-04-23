@@ -18,23 +18,18 @@ udver: '2'
 ### Lemmatisation
 
 * The lemma forms are the tranditional dictionary entry forms for Abkhaz, viz. the form with the generic article *а-* for nouns and adjectives, and the verbal noun (masdar, with generic article) for verbs. The lemma form of a predicate derived from a noun or an adjective is the underlying noun or adjective.
-All lemmas are marked by stress, which is a distinctive feature in Abkhaz (with many minimal pairs that differ only in stress position).
-There is limited morpheme segmentation, separating the generic article from the stem, and for verbs, segmentation into article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), masdar ending (*-ра*), as: *а-(PV·)(р:)STEM-(заа-)ра*.
+* All lemmas are marked by stress, which is a distinctive feature in Abkhaz (with many minimal pairs that differ only in stress position).
+* There is limited morpheme segmentation, separating the generic article from the stem, and for verbs, segmentation into article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), masdar ending (*-ра*), as: *а-(PV·)(р:)STEM-(заа-)ра*.
 
 ### Tags
 
-* The Abkhaz treebank uses all universal POS tags except X.
+* The Abkhaz treebank uses all universal POS tags except `X`.
 
-* The POS tag VERB is used for genuine verbs including verbal nouns (masdars), and for predicates derived from other word classes (adjectives, nouns).
+* The POS tag `VERB` is used for genuine verbs including verbal nouns (masdars), and for predicates derived from other word classes (adjectives, nouns).
 
-* The POS tag PART is used for the words *ҳәа*, *уҳәа* (direct speech/quote particles).
+* The POS tag `PART` is used for the words *ҳәа*, *уҳәа* (direct speech/quote particles).
 
-* There are two copula verbs, *а́кә-заа-ра* and *а́кә-ха-ра*. The first one is static and the second dynamic, roughly corresponding to German `sein` and `werden`. No other verb is tagged as AUX.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+* There are two copula verbs, *а́кә-заа-ра* and *а́кә-ха-ра*. The first one is static and the second dynamic, roughly corresponding to German `sein` and `werden`. No other verb is tagged as `AUX`.
 
 ### Features
 
@@ -109,7 +104,6 @@ The involuntative behaves in the same way, it describes an action that happens i
   * [obj:ro]() relational object.
   * [obj:po]() potential object.
   * [obj:poss]() possessive object, cross-referenced by a possessive marker.
-  * [iobj:pred]() predicative cross-referenced by an indirect object marker.
   * [ccomp:obj]() clausal complement cross-referenced by a direct object marker.
   * [ccomp:lo]()  clausal complement cross-referenced by a local object marker.
   * [ccomp:ro]() clausal complement cross-referenced by a relational object marker.
@@ -125,6 +119,8 @@ The involuntative behaves in the same way, it describes an action that happens i
   * [compound:prt]() particle compound.
   * [compound:pred]() connects two (or more) parts of a multi-word predicate.
 
+
+
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
@@ -135,10 +131,3 @@ The involuntative behaves in the same way, it describes an action that happens i
 There is one Abkhaz UD treebank:
 
   * [Abkhaz](../treebanks/ab/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
