@@ -36,10 +36,10 @@ orphan(we-will,speci-)
 
 ~~~ sdparse
 gre za gre za postopek \n it-is about it-is about procedure
-reparandum(it-is-3,it-is-1)
-orphan(it-is-1,about-2)
-obl(it-is-3,procedure)
-case(procedure,about-4)
+reparandum(it-is-9,it-is-7)
+orphan(it-is-7,about-8)
+obl(it-is-9,procedure)
+case(procedure,about-10)
 ~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:23 CET -->
