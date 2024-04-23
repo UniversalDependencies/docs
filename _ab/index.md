@@ -58,6 +58,8 @@ Person, Number and Gender are marked in the verb for a variety of syntactic func
 * `refl`: inner reflexive.
 * `cs`: causee.
 
+The following verbal features are used:
+
 * Gender[subj], Gender[obj], Gender[io], Gender[lo], Gender[ro], Gender[po], Gender[refl], Gender[cs]: `Fem`, `Masc`, `Neut`.
 * Number[subj], Number[obj], Number[io], Number[lo], Number[ro], Number[po], Number[refl], Number[cs]: `Sing`, `Plur`.
 * Person[subj], Person[obj], Person[io], Person[lo], Person[ro], Person[po], Person[refl], Person[cs]: `1`, `2`, `3`, `Rel`, `Rec`.
@@ -74,7 +76,7 @@ Person, Number and Gender are marked in the verb for a variety of syntactic func
 
 ### Numbers
 
-Cardinal numbers in Abkhaz can optionally be prefixed to a noun. This is reflected by the nominal feature `NumType` with value `Prefix`.
+Cardinal numbers in Abkhaz can optionally be prefixed to a noun. In such cases, the noun has the feature Number: `Card`.
 
 ### Pronouns, Determiners, Quantifiers
 
@@ -118,11 +120,6 @@ The involuntative behaves in the same way, it describes an action that happens i
   * [acl:relcl]() relative clause complement.
   * [compound:prt]() particle compound.
   * [compound:pred]() connects two (or more) parts of a multi-word predicate.
-
-
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
 ---
 
