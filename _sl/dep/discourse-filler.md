@@ -5,15 +5,18 @@ shortdef: 'filler sound in spoken data'
 udver: '2'
 ---
 
-The `discourse:filler` subtype of the [discourse]() relation is used in spoken data for sounds
-that have no syntactic or semantic function (they correspond to a pause rather than a real word).
-The filler is attached to the head of the phrase in which it occurs.
+The `discourse:filler` subtype of the [discourse]() relation is used in spoken data for speaker sounds acting as filled pauses to prolong planning time (they correspond to a pause rather than a real word).
+The filler is attached to the head of the most relevant clause (usually the root of the sentence), even if this causes non-projectivity. 
 
 ~~~ sdparse
-og køyrde # ko- e kombinert rute til Oslo . \n and drove the # ko- e combined route to Oslo .
-discourse:filler(kombinert, e-5)
-reparandum(kombinert, ko--4)
-punct(kombinert, #-3)
+tukaj je so stvari eee zelo jasne ne \n here is are things err very clear right
+discourse:filler(clear,err)
+~~~
+
+~~~ sdparse
+eee danes bom predstavil predavanje eee skupaj z očetom \n err today I-will give talk err togeter with father
+discourse:filler(give,err-1)
+discourse:filler(give,err-6)
 ~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:51 CET -->
