@@ -38,8 +38,8 @@ discourse(alright,yes)
 ja ja ja \n yes yes yes
 discourse(ja-1,ja-2)
 discourse(ja-1,ja-3)
-discourse(yes-1,yes-2)
-discourse(yes-1,yes-3)
+discourse(yes-5,yes-6)
+discourse(yes-5,yes-6)
 ~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:50 CET -->
