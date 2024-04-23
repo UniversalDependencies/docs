@@ -24,9 +24,13 @@ The `orphan` relation is currently also used for the unfinished words or phrases
 
 ~~~ sdparse
 ja to pa bova z- \n yes this PART we-will speci-
+discourse(bova,ja)
+obj(bova,to)
+advmod(bova,pa)
+orphan(bova,z-)
 discourse(we-will,yes)
 obj(we-will,this)
-advmod(we-will,pa)
+advmod(we-will,PART)
 orphan(we-will,speci-)
 ~~~
 
