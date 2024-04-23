@@ -84,7 +84,7 @@ conj(gnitje,prezimovanje)
 conj(gnitje,podobno)
 cc(podobno,in)
 conj(rotting,overwintering)
-conj(rotting,overwintering)
+conj(rotting,similar)
 cc(similar,and)
 ~~~
 ~~~ sdparse
