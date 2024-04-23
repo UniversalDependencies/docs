@@ -5,7 +5,7 @@ shortdef: 'person of indirect object'
 udver: '2'
 ---
 
-This feature marks person agreement of the verb with the indirect object or of postposition with its noun.
+This feature marks person agreement of the verb with the indirect object.
 
 ### <a name="1">`1`</a>: First Person
 

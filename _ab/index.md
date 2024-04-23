@@ -23,11 +23,13 @@ There is limited morpheme segmentation, separating the generic article from the 
 
 ### Tags
 
-* The Abkhaz treebank uses all universal POS tags except AUX and X.
+* The Abkhaz treebank uses all universal POS tags except X.
 
-* The POS tag VERB is used for genuine verbs including verbal nouns (masdars) and predicates derived from other word classes (adjectives, nouns).
+* The POS tag VERB is used for genuine verbs including verbal nouns (masdars), and for predicates derived from other word classes (adjectives, nouns).
 
 * The POS tag PART is used for the words *ҳәа*, *уҳәа* (direct speech/quote particles).
+
+* There are two copula verbs, *а́кә-заа-ра* and *а́кә-ха-ра*. The first one is static and the second dynamic, roughly corresponding to German `sein` and `werden`. No other verb is tagged as AUX.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -43,7 +45,7 @@ The morphological features are automatically derived from the feature set used i
 * Definite: `Def`, `Ind`.
 * Number: `Sing`, `Plur`.
 * Gender: `Masc`, `Fem`, used for PRON and PROPN.
-* Gender[psor]: `Fem`, `Masc`, `Neut`, used for ADV, ADP, PRON, NOUN and VERB. The value `Neut` is used for affixes that agree with non-human posessors, which traditionally are not called Neuter.
+* Gender[psor]: `Fem`, `Masc`, `Neut`, used for ADV, ADP, PRON, NOUN and VERB. The value `Neut` is used for affixes that agree with non-human possessors, which traditionally are not called Neuter.
 * Number[psor]: `Sing`, `Plur`.
 * Person[psor]: `1`, `2`, `3`, `Rel`. The relative marker behaves in many respects (both morphologically and syntactically) like a person marker, so it is included here.
 * Animacy: `Hum`, `Nhum`.
@@ -52,9 +54,9 @@ The morphological features are automatically derived from the feature set used i
 
 Person, Number and Gender are marked in the verb for a variety of syntactic functions. Since Abkhaz has no case marking the features are qualified by those syntactic functions, which are:
 
-* `subj`: subject.
-* `obj`: direct object.
-* `io`: indirect object.
+* `subj`: subject, Column-I marker in intransitive verbs, and Column-III marker in transitive verbs.
+* `obj`: direct object, Column-I marker in transitive verbs.
+* `io`: indirect object, Column-II marker. Also used for the Column-II marker of the copula verb cross-indexing the predicative.
 * `lo`: local object, whose marker is attached to a local preverb in the verbal complex.
 * `ro`: relational object, whose marker is attached to a relational marker in the verbal complex.
 * `po`: potential(is) object, whose marker is attached to the potential or the unvoluntary marker in the verbal complex.
@@ -65,7 +67,7 @@ Person, Number and Gender are marked in the verb for a variety of syntactic func
 * Number[subj], Number[obj], Number[io], Number[lo], Number[ro], Number[po], Number[refl], Number[cs]: `Sing`, `Plur`.
 * Person[subj], Person[obj], Person[io], Person[lo], Person[ro], Person[po], Person[refl], Person[cs]: `1`, `2`, `3`, `Rel`, `Rec`.
 * VerbForm: `Fin`, `NonFin`, `Conv`, `Vnoun`.
-* VerbType: `Aux`, `Cop` ??.
+* VerbType: `Cop`.
 * Dyn: `Yes`, `No`.
 * Voice: `Cau`, `Inv`, `Pass`.
 * Aspect: `Iter`, `Perf`.
