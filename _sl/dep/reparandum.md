@@ -42,9 +42,9 @@ iskalnik je po krajih po imenih po po po ukrepih ne \n you can browse by places 
 reparandum(po-9,po-8)
 reparandum(po-9,po-7)
 case(ukrepih,po-9)
-reparandum(by-11,by-9)
-reparandum(by-11,by-10)
-case(measures,by-11)
+reparandum(by-23,by-21)
+reparandum(by-23,by-22)
+case(measures,by-23)
 ~~~
 
 
@@ -53,9 +53,9 @@ kako k- kako hodiš \n how h- how do-you-walk
 advmod(hodiš,kako-3)
 reparandum(kako-3,kako-1)
 reparandum(kako-3,k-)
-advmod(do-you-walk,how-3)
-reparandum(how-3,how-1)
-reparandum(how-3,h-)
+advmod(do-you-walk,how-8)
+reparandum(how-8,how-6)
+reparandum(how-8,h-)
 ~~~
 
 
