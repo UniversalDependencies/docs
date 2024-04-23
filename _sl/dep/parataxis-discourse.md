@@ -9,8 +9,10 @@ This relation is used for clausal discourse markers, i.e. parenthetical clauses 
 
 ~~~ sdparse
 mislim imamo zajtrk in imamo večerjo ne \n I-mean we-have breakfast and we-have dinner right
-parataxis:discourse(we-have-1, I-mean)
-discourse(we-have-1,right)
+parataxis:discourse(imamo-1, mislim)
+discourse(imamo-1,ne)
+parataxis:discourse(we-have-9, I-mean)
+discourse(we-have-9,right)
 ~~~
 
 
