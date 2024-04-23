@@ -39,4 +39,15 @@ nmod(Angry-1,Birds-2)
 nsubj(a-franchise,Angry-8)
 nmod(Angry-8,Birds-9)
 ~~~
+
+Finally, the 'flat' relation is also used for some verbatim transcriptions in speech, such as spelled-out numbers, acronyms, or URL addresses, which would typically be written with different symbols in writing.
+
+~~~ sdparse
+dva cela pet odstotka \n two point five percent
+flat(two,point)
+flat(two,five)
+nummod(percent,two)
+~~~
+
+
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:56 CET -->
