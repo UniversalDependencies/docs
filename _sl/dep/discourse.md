@@ -39,7 +39,7 @@ ja ja ja \n yes yes yes
 discourse(ja-1,ja-2)
 discourse(ja-1,ja-3)
 discourse(yes-5,yes-6)
-discourse(yes-5,yes-6)
+discourse(yes-5,yes-7)
 ~~~
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:50 CET -->
