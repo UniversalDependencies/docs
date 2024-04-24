@@ -25,7 +25,7 @@ Causative forms of verbs.
 
 ### <a name="Stat">`Stat`</a>: stative voice
 
-TODO
+The stative participle of a verb functions as an adverb.
 
 #### Examples
 
