@@ -22,25 +22,19 @@ It is kept in FEATS in the UD conversion.
 
 #### Examples
 
-* _zaːkà gan tà <b>à</b> geːfèn tiːtìː maː //_ "You will see it by the roadside."
+* _zaːkà gan tà <b>à geːfèn</b> tiːtìː maː //_ "You will see it by the roadside."
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
-* _<b>sai</b> dà akà ƙaːràƙè aikìn nan dà dàddareː //_ "sai dà akà ƙaːràƙè aikìn nan dà dàddareː //"
-
-### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
-
-#### Examples
-
-* _<b>àmmaː</b> niː sùmoːgàr naː niy yi //_ "But I was a smuggler."
+* _<b>sai dà</b> akà ƙaːràƙè aikìn nan dà dàddareː //_ "sai dà akà ƙaːràƙè aikìn nan dà dàddareː //"
 
 ### <a name="INTJ">`INTJ`</a>: interjection-like expression
 
 #### Examples
 
-* _kâi < Allàː hù âkabar̃ < Allàː ji kân wandà sukà rigaː mù //_ "My, God almighty, May God have pity on those who have departed."
+* _kâi < <b>Allàː hù âkabar̃</b> < Allàː ji kân wandà sukà rigaː mù //_ "My, God almighty, May God have pity on those who have departed."
 
 ### <a name="NOUN">`NOUN`</a>: noun-like expression
 
@@ -52,18 +46,18 @@ It is kept in FEATS in the UD conversion.
 
 #### Examples
 
-* _kàːkin kà isoː < <b>dus</b> sun kaːc'èː_ "Before you arrived, they were completely worn out."
+* _yànzu munàː dà gàrmaː <b>wandà yakèː</b> munàː haɗàːwaː dà shaːnuː_ "Now, we have a plough that we use with cows."
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
-* _mazàunin gàrin Pallàːdân <b>kàman</b> yandà na taɓà faɗìn makà à farkoː_ "I live in Palladan as I told you at first."
+* _mazàunin gàrin Pallàːdân <b>kàman yandà</b> na taɓà faɗìn makà à farkoː_ "I live in Palladan as I told you at first."
 
-### <a name="VERB">`VERB`</a>: subordinator-like expression
+### <a name="VERB">`VERB`</a>: verb-like expression
 
 #### Examples
 
-* _tòː yà <b>ci</b> gàba mànà !//_ "Well, let him continue!"
+* _tòː yà <b>ci gàba</b> mànà !//_ "Well, let him continue!"
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:44 CET -->
