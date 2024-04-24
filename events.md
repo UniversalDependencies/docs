@@ -9,6 +9,7 @@ udver: '2'
 ## 2024
 
   * [MWE-UD at LREC-COLING: 7th Workshop on Universal Dependencies (UDW) and 20th Workshop on Multi-Word Expressions](https://multiword.org/mweud2024/)
+  * [UniDive training school UD/SUD/PARSEME in Chișinău](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school)
 
 ## 2023
 
@@ -18,6 +19,7 @@ udver: '2'
 ## 2022
 
   * [UniDive COST Action](https://www.cost.eu/actions/CA21167/) is a joint project of Universal Dependencies and PARSEME, seeking to reach to other communities, such as UniMorph
+    * [UniDive home page](https://unidive.lisn.upsaclay.fr/)
 
 ## 2021
 
