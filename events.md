@@ -6,6 +6,10 @@ udver: '2'
 
 # UD Events
 
+## 2024
+
+  * [MWE-UD at LREC-COLING: 7th Workshop on Universal Dependencies (UDW) and 20th Workshop on Multi-Word Expressions](https://multiword.org/mweud2024/)
+
 ## 2023
 
   * [Workshop on UD treebanks for Turkic Languages](https://ud-turkic.github.io/udtw23/)
