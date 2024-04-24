@@ -31,7 +31,7 @@ the sentence.
 - _bà <b>zaːkà</b> ganiː ba //_ “You won't see any.”
 
 
-### <a name="Pred">`Imp`</a>: predictive
+### <a name="Pred">`Pred`</a>: predictive tense
 
 TODO
 
