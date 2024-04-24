@@ -13,11 +13,11 @@ In Classical Armenian, there is _infixed punctuation_ (question, exclamation, em
 
 ### Examples
 
-- Period: _<b>։</b>_
-- Comma: _<b>,</b>_
-- Exclamation mark: _<b>՜</b>_
-- Question mark։ _<b>՞</b>_
-- Emphasis mark: _<b>՛</b>_
+- Period: <<b>։</b>>
+- Comma: <<b>,</b>>
+- Exclamation mark: <<b>՜</b>>
+- Question mark։ <<b>՞</b>>
+- Emphasis mark: <<b>՛</b>>
 
 ### References
 
