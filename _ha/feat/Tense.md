@@ -33,11 +33,12 @@ the sentence.
 
 ### <a name="Pred">`Pred`</a>: predictive tense
 
-TODO
+The predictive is a future tense that denotes actions that are predicted by the speaker to happen after a reference point; in the prototypical case, the reference point is the moment of producing
+the sentence.
 
 #### Examples
 
-- <b>_tâː</b> bar̃ mâː kunyàː à gidaː //_ "She will bring shame on your house."
+- _<b>tâː</b> bar̃ mâː kunyàː à gidaː //_ "She will bring shame on your house."
 
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:10 CET -->
