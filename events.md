@@ -58,4 +58,4 @@ udver: '2'
 
 ## 2014
 
-  * UD kick-off meeting in Göteborg (June)
+  * UD kick-off meeting in Göteborg (April 26-27, collocated with [EACL](https://mirror.aclweb.org/eacl2014/workshops.html))
