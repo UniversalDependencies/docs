@@ -56,6 +56,6 @@ English simple present has this aspect.
 Denotes repeated action.
 
 #### Examples
-- _munàː ta kaucè hanyàː //_ " We kept straying from the path."
+- _munàː <b>ta</b> kaucè hanyàː //_ " We kept straying from the path."
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:36 CET -->
