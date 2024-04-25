@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Conc">Conc</a></td>
   <td><a href="#Inch">Inch</a></td>
   <td><a href="#Imp">Imp</a></td>
-  <td><a href="#ImpIter">Impiter</a></td>
+  <td><a href="#Imp-Iter">Imp-Iter</a></td>
   <td><a href="#Iter">Iter</a></td>
   <td><a href="#Perf">Perf</a></td>
   <td><a href="#Prog">Prog</a></td>
@@ -56,7 +56,7 @@ Zaar: The imperfect denotes a state or an unbounded process. It can be used in a
 
 * _<b>ʧáː</b> pol =əm á Kámʃâk fáː !//_  "<b>I like</b> Kamshak I do!"
 
-### <a name="ImpIter">`ImpIter`</a>: iterative imperfect
+### <a name="Imp-Iter">`Imp-Iter`</a>: iterative imperfect
 
 Zaar: The iterative imperfect is the combination of the imperfect and iterative aspects in the corresponding AUX. The inflection follows the pattern "pronoun+_yǎː_+_yi_".
 
