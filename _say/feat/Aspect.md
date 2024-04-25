@@ -56,7 +56,7 @@ Zaar: The imperfect denotes a state or an unbounded process. It can be used in a
 
 * _<b>ʧáː</b> pol =əm á Kámʃâk fáː !//_  "<b>I like</b> Kamshak I do!"
 
-### <a name="Imp-Iter">`Imp-Iter`</a>: iterative imperfect
+### <a name="ImpIter">`ImpIter`</a>: iterative imperfect
 
 Zaar: The iterative imperfect is the combination of the imperfect and iterative aspects in the corresponding AUX. The inflection follows the pattern "pronoun+_yǎː_+_yi_".
 
