@@ -12,6 +12,10 @@ Most often it is a direct object is in the [accusative case](ru-feat/Case), a no
 Я купил машину . \n I have-bought car .
 obj(купил, машину)
 obj(have-bought, car)
+nsubj(купил, Я)
+nsubj(have-bought, I)
+punct(купил, .-4)
+punct(have-bought, .-9)
 ~~~
 
 Many Russian verbs license arguments in other cases (genitive, dative, instrumental)
