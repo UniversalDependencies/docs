@@ -29,7 +29,7 @@ udver: '2'
 
 * The POS tag `PART` is used for the words *ҳәа*, *уҳәа* (direct speech/quote particles).
 
-* There are two copula verbs, *а́кә-заа-ра* and *а́кә-ха-ра*. The first one is static and the second dynamic, roughly corresponding to German `sein` and `werden`. No other verb is tagged as `AUX`.
+* The copula verb *а́кә-заа-ра* is tagged as `AUX`. There are no (other) auxiliary verbs in Abkhaz.
 
 ### Features
 
@@ -111,10 +111,9 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [ccomp:ro]() clausal complement cross-referenced by a relational object marker.
   * [ccomp:quote]() direct speech clause introduced by *ҳәа* and cross-referenced by the direct object marker of a speech verb
   * [ccomp:purp]() purposive clausal complement.
-  * [ccomp:pred]() clausal predicative.
   * [advcl:cond]() conditional adverbial clause.
   * [advcl:conv]() dependent clause headed by a converb.
-  * [advcl:compar]() dependent clause headed by a nonfinite verb with the AsIf-marker.
+  * [advcl:compar]() dependent clause headed by a nonfinite verb with the AsIf marker.
   * [advcl:quote]() dependent direct speech clause introduced by *ҳәа* but not cross-referenced in the verb.
   * [advcl:seq]() sequential construction with a dependent clause headed by a verb in the past indefinite (`Past`) attached to a finite aorist.
   * [acl:relcl]() relative clause complement.
