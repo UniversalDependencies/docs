@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Intens'
-shortdef: 'interrogative'
+shortdef: 'intensifier'
 udver: '2'
 ---
 
@@ -15,15 +15,15 @@ udver: '2'
 </tr>
 </table>
 
-`Int` indicates interrogation and is defined in Xavante as the particle _`-e`_.
+`Intens` indicates interrogation and is defined in Xavante as the particle _`-e`_.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Examples
 
-* _<b>E</b> marĩ dzô ma wei wi?_&nbsp; “What did he come for?”
-* _<b>E</b> te dza apö mo?_&nbsp; “Will he come back?”
+* Awẽm hã wa za aiʔabaʔré ni mararé romhuri hã wate wasiwi ʔrãsutu_<b>wẽ</b>_ da&nbsp; “Tomorrow we'll go early and finish the work together”
+
 
 
 ## Diffs
