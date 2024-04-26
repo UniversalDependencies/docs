@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Nmzr'
-shortdef: 'nominalizer'
+title: 'Intens'
+shortdef: 'intensifier'
 udver: '2'
 ---
 
@@ -9,18 +9,21 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
+  
+
+  
 </tr>
 </table>
 
-`Nmzr` is a morpheme that transformes another part of speech to a noun. 
+`Intens` indicates interrogation and is defined in Xavante as the particle _`-e`_.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
-`Yes` is
 
 #### Examples
 
-* _okuwapa omanõ<b>mãʔẽ</b>&nbsp;_ “He knows all the dead.”
+* _Awẽm hã wa za aiʔabaʔré ni mararé romhuri hã wate wasiwi ʔrãsutu<b>wẽ</b>_ da&nbsp; “Tomorrow we'll go early and finish the work together”
+
 
 
 ## Diffs
@@ -29,4 +32,4 @@ udver: '2'
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:52 CET -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:49 CET -->

@@ -6,6 +6,11 @@ udver: '2'
 
 # UD Events
 
+## 2024
+
+  * [MWE-UD at LREC-COLING: 7th Workshop on Universal Dependencies (UDW) and 20th Workshop on Multi-Word Expressions](https://multiword.org/mweud2024/)
+  * [UniDive training school UD/SUD/PARSEME in Chișinău](https://unidive.lisn.upsaclay.fr/doku.php?id=meetings:other-events:1st_unidive_training_school)
+
 ## 2023
 
   * [Workshop on UD treebanks for Turkic Languages](https://ud-turkic.github.io/udtw23/)
@@ -14,6 +19,7 @@ udver: '2'
 ## 2022
 
   * [UniDive COST Action](https://www.cost.eu/actions/CA21167/) is a joint project of Universal Dependencies and PARSEME, seeking to reach to other communities, such as UniMorph
+    * [UniDive home page](https://unidive.lisn.upsaclay.fr/)
 
 ## 2021
 
@@ -52,4 +58,4 @@ udver: '2'
 
 ## 2014
 
-  * UD kick-off meeting in Göteborg (June)
+  * UD kick-off meeting in Göteborg (2014-04-26, collocated with [EACL](https://mirror.aclweb.org/eacl2014/workshops.html))
