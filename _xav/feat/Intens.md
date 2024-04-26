@@ -22,7 +22,7 @@ udver: '2'
 
 #### Examples
 
-* Awẽm hã wa za aiʔabaʔré ni mararé romhuri hã wate wasiwi ʔrãsutu_<b>wẽ</b>_ da&nbsp; “Tomorrow we'll go early and finish the work together”
+* _Awẽm hã wa za aiʔabaʔré ni mararé romhuri hã wate wasiwi ʔrãsutu<b>wẽ</b>_ da&nbsp; “Tomorrow we'll go early and finish the work together”
 
 
 
