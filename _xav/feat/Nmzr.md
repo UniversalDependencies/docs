@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Nmzr'
+title: 'Nomzr'
 shortdef: 'nominalizer'
 udver: '2'
 ---
@@ -14,13 +14,13 @@ udver: '2'
 
 `Nmzr` is a morpheme that transformes another part of speech to a noun. 
 
-### <a name="Yes">`Yes`</a>: Yes
+### <a name="Ag">`Ag`</a>: Agentive
 
 `Yes` is
 
 #### Examples
 
-* _okuwapa omanõ<b>mãʔẽ</b>&nbsp;_ “He knows all the dead.”
+* _Wahã dawi robʔré<b>ʔwa</b>&nbsp;_ “I am (someone) who shuts people up..”
 
 
 ## Diffs
