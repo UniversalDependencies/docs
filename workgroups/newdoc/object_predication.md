@@ -301,7 +301,25 @@ punct(Ni-tīcitl, .-2)
 punct(1SG-doctor, .-5)
 ~~~
 
+Language-specific word segmentation may play a role in distinguishing the
+verbal strategy from verbal copulas. In Turkish [tr], the surface
+representation looks either like the zero strategy (in present tense) or like
+the verbal strategy (when past-tense suffix _-DI_ is attached to the nominal
+predicate). But as of UD v2, the suffix is analyzed as a form of encliticized
+copula _i_ and is treated as a separate syntactic word. Consequently, the
+sentence is analyzed as using the verbal copula strategy.
+
+~~~ sdparse
+Necla öğretmen =di . \n Necla teacher was .
+nsubj(öğretmen, Necla-1)
+nsubj(teacher, Necla-6)
+cop(öğretmen, =di)
+cop(teacher, was)
+punct(öğretmen, .-4)
+punct(teacher, .-9)
+~~~
+
+
 # Other Remarks: Property predication, clause as a predicate...
 
-Is the Turkish strategy Verbal, or Verbal Copula?
 In languages like Chinese it may be difficult to decide that the copula is verbal because the Chinese verbs do not inflect.
