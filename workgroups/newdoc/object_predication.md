@@ -6,15 +6,15 @@ udver: '2'
 
 # Clauses with Predication of Object Concepts and Equational Clauses
 
-Prototypical predication is predication of action concepts, where the 
-predicate is a verb. Here we consider one type of nonprototypical 
-predication, namely predication of an object (entity) concept. One entity 
-(typically, but not necessarily, denoted by a definite nominal) is predicated 
-to belong to a category of entities (typically denoted by an indefinite 
+Prototypical predication is predication of action concepts, where the
+predicate is a verb. Here we consider one type of nonprototypical
+predication, namely predication of an object (entity) concept. One entity
+(typically, but not necessarily, denoted by a definite nominal) is predicated
+to belong to a category of entities (typically denoted by an indefinite
 noun). Example: _Ivan is a dancer._
 
-This construction is similar but not necessarily identical to equational 
-clauses where two definite nominals are said to refer to the same entity. 
+This construction is similar but not necessarily identical to equational
+clauses where two definite nominals are said to refer to the same entity.
 Example: _Ivan is the winner of this dancing competition._
 
 The exact UD analysis of the construction depends on the strategy used by the
@@ -26,9 +26,9 @@ nominal is the subject.
 
 ## Zero Strategy
 
-In some languages, the subject and the categorial predicate are simply 
-juxtaposed. “Zero” refers to the absence of any verbal inflection and any 
-linking morpheme between the subject and the predicate. 
+In some languages, the subject and the categorial predicate are simply
+juxtaposed. “Zero” refers to the absence of any verbal inflection and any
+linking morpheme between the subject and the predicate.
 
 Waskia [wsk] (Ross and Natu Paol 1978:10; Stassen 1997:144; Croft 2022:299)
 
@@ -54,13 +54,13 @@ punct(tancor, .-7)
 punct(dancer, .-11)
 ~~~
 
-The same strategy may be used in equational constructions. The main 
-difference is that, due to the symmetrical nature of these constructions, it 
-may not be clear which of the nominals should be the predicate and which one 
-is the subject (one can say either _Ivan is the winner_ or _The winner is 
-Ivan_). Language-specific documentation should say whether there are any 
-criteria to make this distinction consistently; if no such criteria are 
-available, the first nominal should be subject and the second one is 
+The same strategy may be used in equational constructions. The main
+difference is that, due to the symmetrical nature of these constructions, it
+may not be clear which of the nominals should be the predicate and which one
+is the subject (one can say either _Ivan is the winner_ or _The winner is
+Ivan_). Language-specific documentation should say whether there are any
+criteria to make this distinction consistently; if no such criteria are
+available, the first nominal should be subject and the second one is
 predicate.
 
 Maltese [mt] (Borg 1987/88:63; Stassen 1997:211; Croft 2022:298)
@@ -77,13 +77,13 @@ punct(examiner, .-9)
 
 ## Nonverbal Copula Strategy
 
-Some languages use a word or morpheme that signals the predication and/or 
-links the subject to the predicate. This linking element may be a special 
-verb (see Verbal Copula below) or it may lack verbal inflection. In the 
-latter case we call it ‘nonverbal copula’. In good many languages a personal 
-or demonstrative pronoun is used for this purpose and then it keeps the UPOS 
-tag that it uses in other functions (that is, [PRON]() or [DET]()). Otherwise 
-it is tagged [AUX](). Its relation to the predicate is [cop](). 
+Some languages use a word or morpheme that signals the predication and/or
+links the subject to the predicate. This linking element may be a special
+verb (see Verbal Copula below) or it may lack verbal inflection. In the
+latter case we call it ‘nonverbal copula’. In good many languages a personal
+or demonstrative pronoun is used for this purpose and then it keeps the UPOS
+tag that it uses in other functions (that is, [PRON]() or [DET]()). Otherwise
+it is tagged [AUX](). Its relation to the predicate is [cop]().
 
 Maltese [mt] optionally uses a personal pronoun as copula (Borg 1987/88:63;
 Stassen 1997:211; Croft 2022:298):
@@ -147,7 +147,7 @@ punct(akt, .-17)
 punct(act, .-26)
 ~~~
 
-Awtuw [kmn] (Osborne 1974:60; Stassen 1997:144; Croft 2022:295) uses a 
+Awtuw [kmn] (Osborne 1974:60; Stassen 1997:144; Croft 2022:295) uses a
 nonverbal copula that originates in a focus marker rather than a pronoun:
 
 ~~~ sdparse
@@ -162,10 +162,10 @@ punct(human-being, .-9)
 
 ## Verbal Copula Strategy
 
-In many languages the copula has verb-like inflection and behavior (it may be 
-even used as a main verb in other contexts). In UD we treat such copulas as 
-auxiliaries whose function is to provide verbal features (e.g., [Tense]()) to 
-the nominal predicate. They are tagged [AUX]() and attached to the nominal 
+In many languages the copula has verb-like inflection and behavior (it may be
+even used as a main verb in other contexts). In UD we treat such copulas as
+auxiliaries whose function is to provide verbal features (e.g., [Tense]()) to
+the nominal predicate. They are tagged [AUX]() and attached to the nominal
 predicate as [cop]().
 
 English [en]
@@ -176,12 +176,12 @@ nsubj(dancer, Ivan)
 cop(dancer, is)
 det(dancer, a)
 punct(dancer, .)
-~~~ 
+~~~
 
-Russian [ru] uses the zero strategy (or a nonverbal copula) in the present 
-indicative, but it uses a verbal copula in other tenses and moods. It also 
-marks the nominal predicate with the instrumental case, while the subject 
-stays in the nominative and the copula agrees with it in [Number]() and 
+Russian [ru] uses the zero strategy (or a nonverbal copula) in the present
+indicative, but it uses a verbal copula in other tenses and moods. It also
+marks the nominal predicate with the instrumental case, while the subject
+stays in the nominative and the copula agrees with it in [Number]() and
 [Gender]().
 
 ~~~ sdparse
@@ -312,7 +312,7 @@ copula _i_ and is treated as a separate syntactic word. Consequently, the
 sentence is analyzed as using the verbal copula strategy.
 
 ~~~ sdparse
-Necla öğretmen =di . \n Necla teacher was .
+Necla/PROPN öğretmen/NOUN =di/AUX ./PUNCT \n Necla teacher was .
 nsubj(öğretmen, Necla-1)
 nsubj(teacher, Necla-6)
 cop(öğretmen, =di)
