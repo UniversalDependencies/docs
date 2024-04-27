@@ -295,7 +295,7 @@ MISC column can optionally carry information about the verb being derived
 from a noun, but this is neither required nor regulated by the UD
 guidelines.)
 
-Classical Nahuatl [nci] “I am a doctor” (compare to _Ni-chōca_ “I am crying”):
+Classical Nahuatl [nci] “I am a doctor” (Croft 2022:294; compare to _Ni-chōca_ “I am crying”):
 
 ~~~ sdparse
 Ni-tīcitl/VERB ./PUNCT \n 1SG-doctor .
