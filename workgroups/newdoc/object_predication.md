@@ -17,10 +17,12 @@ This construction is similar but not necessarily identical to equational
 clauses where two definite nominals are said to refer to the same entity. 
 Example: _Ivan is the winner of this dancing competition._
 
-The exact UD analysis of the construction depends on the strategy used by the 
-language to express it. What the analyses have in common is that the category 
-being predicated (e.g., _dancer_) is the root of the clause, while the entity 
-said to belong to that category is attached to it as the subject.
+The exact UD analysis of the construction depends on the strategy used by the
+language to express it. What the analyses have in common is that the category
+being predicated (e.g., _dancer_) is the root of the clause, while the entity
+said to belong to that category is attached to it as the subject. Equational
+constructions are analyzed analogously but see below on how to decide which
+nominal is the subject.
 
 ## Zero Strategy
 
