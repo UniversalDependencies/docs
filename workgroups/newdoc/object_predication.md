@@ -149,7 +149,7 @@ Awtuw [kmn] (Osborne 1974:60; Stassen 1997:144; Croft 2022:295) uses a
 nonverbal copula that originates in a focus marker rather than a pronoun:
 
 ~~~ sdparse
-Wan/PRON po/PART rumeyæn/NOUN ./PUNCT \n I FOC human-being .
+Wan/PRON po/AUX rumeyæn/NOUN ./PUNCT \n I FOC human-being .
 nsubj(rumeyæn, Wan)
 nsubj(human-being, I)
 cop(rumeyæn, po)
