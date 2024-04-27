@@ -195,6 +195,53 @@ punct(tancorom, .-9)
 punct(dancer, .-14)
 ~~~
 
+### Multiple Copular Verbs?
+
+By default the guidelines assume that at most one lemma can serve as copula 
+in a language; but there are exceptions.
+
+Some languages that have verbal copulas also have other verbs where “being X”
+is part of the predication, but it is accompanied by some other bit of
+meaning, for example dynamic (“to become X”, “to stop being X”) or
+relativizing (“to resemble X”, “to be considered X”). Some grammatical
+descriptions regard some of these verbs as copulas but UD does not. Instead,
+UD analyzes them as instances of secondary predication where the verb heads
+the main clause and the nominal predicate is attached as its open complement
+([xcomp]()). Note that an additional [nsubj]() relation between the nominal
+predicate and a nominal in the main clause can be added in the [enhanced UD
+representation](/u/overview/enhanced-syntax.html).
+
+~~~ sdparse
+Ivan/PROPN became/VERB a/DET dancer/NOUN ./PUNCT
+nsubj(became, Ivan)
+xcomp(became, dancer)
+det(dancer, a)
+punct(became, .)
+~~~
+
+
+<table id="rc-example1"> <!--I saw the man you love . -->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+1 Ivan   _ PROPN _ _ 2 nsubj _ _
+2 became _ VERB  _ _ 0 root _ _
+3 a      _ DET   _ _ 4 det _ _
+4 dancer _ NOUN  _ _ 2 xcomp _ _
+5 .      _ PUNCT _ _ 2 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 4 1 nsubj color:blue
+1 Ivan   _ PROPN _ _ 2 nsubj 4:nsubj _
+2 became _ VERB  _ _ 0 root _ _
+3 a      _ DET   _ _ 4 det _ _
+4 dancer _ NOUN  _ _ 2 xcomp _ _
+5 .      _ PUNCT _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+
 ## Verbal Strategy
 
 Finally, some languages will treat the object predicate as a verb rather than 
@@ -217,4 +264,3 @@ punct(1SG-doctor, .-5)
 
 Is the Turkish strategy Verbal, or Verbal Copula?
 In languages like Chinese it may be difficult to decide that the copula is verbal because the Chinese verbs do not inflect.
-
