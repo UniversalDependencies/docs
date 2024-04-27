@@ -99,6 +99,7 @@ punct(examiner, .-11)
 ~~~
 
 Polish [pl] uses a demonstrative pronoun instead:
+<!-- In fact, as of UD 2.13, the Polish treebanks tag _to_ as `AUX` but I believe that it is a mistake. -->
 
 ~~~ sdparse
 Moja/DET miesięczna/ADJ pensja/NOUN to/DET czterysta/NUM peso/NOUN ./PUNCT \n My monthly salary that four-hundred pesos .
@@ -117,6 +118,7 @@ punct(pesos, .-15)
 ~~~
 
 Russian [ru] can also use a demonstrative pronoun instead of the zero strategy:
+<!-- In fact, as of UD 2.13, the Russian treebanks attach _это_ as `expl` but I believe that it is a mistake. -->
 
 ~~~ sdparse
 Отмена/NOUN недействующих/ADJ функций/NOUN –/PUNCT это/DET формальный/ADJ акт/NOUN ./PUNCT \n Otmena nedejstvujuščix funkcij – èto formal'nyj akt . \n Canceling inactive functions – that formal act .
@@ -143,9 +145,47 @@ punct(akt, .-17)
 punct(act, .-26)
 ~~~
 
-
 ## Verbal Copula Strategy
+
+In many languages the copula has verb-like inflection and behavior (it may be 
+even used as a main verb in other contexts). In UD we treat such copulas as 
+auxiliaries whose function is to provide verbal features (e.g., [Tense]()) to 
+the nominal predicate. They are tagged [AUX]() and attached to the nominal 
+predicate as [cop]().
+
+English [en]
+
+~~~ sdparse
+Ivan/PROPN is/AUX a/DET dancer/NOUN ./PUNCT
+nsubj(dancer, Ivan)
+cop(dancer, is)
+det(dancer, a)
+punct(dancer, .)
+~~~ 
+
+Russian [ru] uses the zero strategy (or a nonverbal copula) in the present 
+indicative, but it uses a verbal copula in other tenses and moods. It also 
+marks the nominal predicate with the instrumental case, while the subject 
+stays in the nominative and the copula agrees with it in [Number]() and 
+[Gender]().
+
+~~~ sdparse
+Иван/PROPN был/AUX танцором/NOUN ./PUNCT \n Ivan byl tancorom . \n Ivan was dancer .
+nsubj(танцором, Иван)
+nsubj(tancorom, Ivan-6)
+nsubj(dancer, Ivan-11)
+cop(танцором, был)
+cop(tancorom, byl)
+cop(dancer, was)
+punct(танцором, .-4)
+punct(tancorom, .-9)
+punct(dancer, .-14)
+~~~
 
 ## Verbal Strategy
 
 # Other Remarks: Secondary predication, deficient paradigms, property predication, clause as a predicate...
+
+Is the Turkish strategy Verbal, or Verbal Copula?
+In languages like Chinese it may be difficult to decide that the copula is verbal because the Chinese verbs do not inflect.
+
