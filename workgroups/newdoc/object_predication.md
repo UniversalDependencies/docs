@@ -211,16 +211,10 @@ the main clause and the nominal predicate is attached as its open complement
 predicate and a nominal in the main clause can be added in the [enhanced UD
 representation](/u/overview/enhanced-syntax.html).
 
-~~~ sdparse
-Ivan/PROPN became/VERB a/DET dancer/NOUN ./PUNCT
-nsubj(became, Ivan)
-xcomp(became, dancer)
-det(dancer, a)
-punct(became, .)
-~~~
+English [en] secondary predication: basic representation on the left,
+enhanced representation on the right.
 
-
-<table id="rc-example1"> <!--I saw the man you love . -->
+<table id="rc-example1"> <!--Ivan became a dancer . -->
 <tbody><tr><td width="480">
 <div class="conllu-parse">
 1 Ivan   _ PROPN _ _ 2 nsubj _ _
@@ -241,6 +235,30 @@ punct(became, .)
 </td></tr></tbody>
 </table>
 
+<table id="rc-example1"> <!--The president appointed him a general . -->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+1 The       _ DET   _ _ 2 det _ _
+2 president _ NOUN  _ _ 3 nsubj _ _
+3 appointed _ VERB  _ _ 0 root _ _
+4 him       _ PRON  _ _ 3 obj _ _
+5 a         _ DET   _ _ 6 det _ _
+6 general   _ NOUN  _ _ 3 xcomp _ _
+7 .         _ PUNCT _ _ 3 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 6 4 nsubj color:blue
+1 The       _ DET   _ _ 2 det _ _
+2 president _ NOUN  _ _ 3 nsubj _ _
+3 appointed _ VERB  _ _ 0 root _ _
+4 him       _ PRON  _ _ 3 obj 6:nsubj _
+5 a         _ DET   _ _ 6 det _ _
+6 general   _ NOUN  _ _ 3 xcomp _ _
+7 .         _ PUNCT _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
 
 ## Verbal Strategy
 
