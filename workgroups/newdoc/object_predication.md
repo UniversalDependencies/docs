@@ -4,7 +4,7 @@ title:  'Object Predication'
 udver: '2'
 ---
 
-# Clauses with Predication of Object Concepts
+# Clauses with Predication of Object Concepts and Equational Clauses
 
 Prototypical predication is predication of action concepts, where the 
 predicate is a verb. Here we consider one type of nonprototypical 
@@ -38,4 +38,25 @@ nsubj(taleng-duap, bawa)
 nsubj(policeman, brother)
 punct(taleng-duap, .-4)
 punct(policeman, .-9)
+~~~
+
+The same strategy may be used in equational constructions. The main 
+difference is that, due to the symmetrical nature of these constructions, it 
+may not be clear which of the nominals should be the predicate and which one 
+is the subject (one can say either _Ivan is the winner_ or _The winner is 
+Ivan_). Language-specific documentation should say whether there are any 
+criteria to make this distinction consistently; if no such criteria are 
+available, the first nominal should be subject and the second one is 
+predicate.
+
+Maltese [mt] (Borg 1987/88:63; Stassen 1997:211; Croft 2022:298)
+
+~~~ sdparse
+Pietru/PROPN l-/DET eżaminatur/NOUN ./PUNCT \n Pietru the examiner .
+nsubj(eżaminatur, Pietru-1)
+nsubj(examiner, Pietru-6)
+det(eżaminatur, l-)
+det(examiner, the)
+punct(eżaminatur, .-4)
+punct(examiner, .-9)
 ~~~
