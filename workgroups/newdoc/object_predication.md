@@ -77,11 +77,30 @@ Stassen 1997:211; Croft 2022:298):
 ~~~ sdparse
 Pietru/PROPN hu/PRON l-/DET eżaminatur/NOUN ./PUNCT \n Pietru he the examiner .
 nsubj(eżaminatur, Pietru-1)
-nsubj(examiner, Pietru-6)
+nsubj(examiner, Pietru-7)
 cop(eżaminatur, hu)
 cop(examiner, he)
 det(eżaminatur, l-)
 det(examiner, the)
 punct(eżaminatur, .-4)
-punct(examiner, .-9)
+punct(examiner, .-10)
 ~~~
+
+Polish [pl] uses a demonstrative pronoun instead:
+
+~~~ sdparse
+Moja/DET miesięczna/ADJ pensja/NOUN to/DET czterysta/NUM peso/NOUN ./PUNCT \n My monthly salary that four-hundred pesos .
+det(pensja, Moja)
+det(salary, My)
+amod(pensja, miesięczna)
+amod(salary, monthly)
+nsubj(peso, pensja)
+nsubj(pesos, salary)
+cop(peso, to)
+cop(pesos, that)
+nummod(peso, czterysta)
+nummod(pesos, four-hundred)
+punct(peso, .-7)
+punct(pesos, .-15)
+~~~
+
