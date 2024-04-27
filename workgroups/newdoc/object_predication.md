@@ -82,8 +82,8 @@ cop(eżaminatur, hu)
 cop(examiner, he)
 det(eżaminatur, l-)
 det(examiner, the)
-punct(eżaminatur, .-4)
-punct(examiner, .-10)
+punct(eżaminatur, .-5)
+punct(examiner, .-11)
 ~~~
 
 Polish [pl] uses a demonstrative pronoun instead:
@@ -102,5 +102,32 @@ nummod(peso, czterysta)
 nummod(pesos, four-hundred)
 punct(peso, .-7)
 punct(pesos, .-15)
+~~~
+
+Russian [ru] can also use a demonstrative pronoun instead of the zero strategy:
+
+~~~ sdparse
+Отмена недействующих функций - это формальный акт . \n Otmena nedejstvujuščix funkcij - èto formal'nyj akt . \n Canceling inactive functions - that formal act .
+nmod(Отмена, функций)
+nmod(Otmena, funkcij)
+nmod(Canceling, functions)
+amod(функций, недействующих)
+amod(funkcij, nedejstvujuščix)
+amod(functions, inactive)
+punct(Отмена, --4)
+punct(Otmena, --13)
+punct(Canceling, --22)
+nsubj(акт, Отмена)
+nsubj(akt, Otmena)
+nsubj(act, Canceling)
+cop(акт, это)
+cop(akt, èto)
+cop(act, that)
+amod(акт, формальный)
+amod(akt, formal'nyj)
+amod(act, formal)
+punct(акт, .-8)
+punct(akt, .-17)
+punct(act, .-26)
 ~~~
 
