@@ -197,6 +197,22 @@ punct(dancer, .-14)
 
 ## Verbal Strategy
 
+Finally, some languages will treat the object predicate as a verb rather than 
+a noun, and apply verbal inflection to it. As a consequence, the predicate 
+will be analyzed in UD as a [VERB]() and the construction will be 
+unrecognizable from normal predication of action concepts. (Note that the 
+MISC column can optionally carry information about the verb being derived 
+from a noun, but this is neither required nor regulated by the UD 
+guidelines.) 
+
+Classical Nahuatl [nci] “I am a doctor” (compare to _Ni-chōca_ “I am crying”):
+
+~~~ sdparse
+Ni-tīcitl/VERB ./PUNCT \n 1SG-doctor .
+punct(Ni-tīcitl, .-2)
+punct(1SG-doctor, .-5)
+~~~
+
 # Other Remarks: Secondary predication, deficient paradigms, property predication, clause as a predicate...
 
 Is the Turkish strategy Verbal, or Verbal Copula?
