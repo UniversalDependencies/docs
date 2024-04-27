@@ -40,6 +40,18 @@ punct(taleng-duap, .-4)
 punct(policeman, .-9)
 ~~~
 
+Russian [ru]
+
+~~~ sdparse
+Иван/PROPN танцор/NOUN ./PUNCT \n Ivan tancor . \n Ivan dancer .
+nsubj(танцор, Иван)
+nsubj(tancor, Ivan-5)
+nsubj(dancer, Ivan-9)
+punct(танцор, .-3)
+punct(tancor, .-7)
+punct(dancer, .-11)
+~~~
+
 The same strategy may be used in equational constructions. The main 
 difference is that, due to the symmetrical nature of these constructions, it 
 may not be clear which of the nominals should be the predicate and which one 
@@ -107,16 +119,16 @@ punct(pesos, .-15)
 Russian [ru] can also use a demonstrative pronoun instead of the zero strategy:
 
 ~~~ sdparse
-Отмена недействующих функций - это формальный акт . \n Otmena nedejstvujuščix funkcij - èto formal'nyj akt . \n Canceling inactive functions - that formal act .
+Отмена/NOUN недействующих/ADJ функций/NOUN –/PUNCT это/DET формальный/ADJ акт/NOUN ./PUNCT \n Otmena nedejstvujuščix funkcij – èto formal'nyj akt . \n Canceling inactive functions – that formal act .
 nmod(Отмена, функций)
 nmod(Otmena, funkcij)
 nmod(Canceling, functions)
 amod(функций, недействующих)
 amod(funkcij, nedejstvujuščix)
 amod(functions, inactive)
-punct(Отмена, --4)
-punct(Otmena, --13)
-punct(Canceling, --22)
+punct(Отмена, –-4)
+punct(Otmena, –-13)
+punct(Canceling, –-22)
 nsubj(акт, Отмена)
 nsubj(akt, Otmena)
 nsubj(act, Canceling)
@@ -131,3 +143,9 @@ punct(akt, .-17)
 punct(act, .-26)
 ~~~
 
+
+## Verbal Copula Strategy
+
+## Verbal Strategy
+
+# Other Remarks: Secondary predication, deficient paradigms, property predication, clause as a predicate...
