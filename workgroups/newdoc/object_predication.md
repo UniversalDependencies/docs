@@ -31,7 +31,7 @@ linking morpheme between the subject and the predicate.
 Waskia [wsk] (Ross and Natu Paol 1978:10; Stassen 1997:144; Croft 2022:299)
 
 ~~~ sdparse
-Aga bawa taleng-duap . \n My brother policeman .
+Aga/PRON bawa/NOUN taleng-duap/NOUN ./PUNCT \n My brother policeman .
 nmod(bawa, Aga)
 nmod(brother, My)
 nsubj(taleng-duap, bawa)
