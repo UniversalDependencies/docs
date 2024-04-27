@@ -18,6 +18,7 @@ udver: '2'
   * Expletives, multiple realizations of arguments
   * Nonprototypical clauses
     * [Clauses with object predication](object_predication.html)
+    * [Clauses with property predication](property_predication.html)
     * Existential clauses
   * Complex predicates
     * Auxiliaries
