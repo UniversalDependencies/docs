@@ -197,7 +197,7 @@ punct(dancer, .-14)
 
 ### Multiple Copular Verbs?
 
-By default the guidelines assume that at most one lemma can serve as copula 
+By default the guidelines assume that at most one lemma can serve as copula
 in a language; but there are exceptions.
 
 Some languages that have verbal copulas also have other verbs where “being X”
@@ -260,15 +260,38 @@ enhanced representation on the right.
 </td></tr></tbody>
 </table>
 
+Nevertheless, there are situations where a language should exceptionally be
+allowed more than one verbal copula. Typically there is some kind of
+deficient paradigm where one stem has only past tense forms and the other
+only present tense; or one has affirmative and the other negative forms; or
+one is in default imperfective aspect while the other is iterative. Depending
+on the language-specific lemmatization rules, the forms may or may not be
+grouped under one lemma. If each of them has its own lemma, both/all such
+lemmas can be registered as copulas.
+
+The boundaries here are somewhat blurry and must be specified at the
+language-specific level (while maximizing parallelism at least between
+closely related languages). For example, one could claim that the difference
+between English _to be_ and _to become_ is aspectual and they qualify to be
+two deficient parts of one verbal paradigm; but as English verbs do not
+normally have such an opposition in their paradigms, it would be misguided to
+pretend that _to become_ is just an aspect-marked form of the copula _to be_.
+On the other hand, the same could be said about the opposition between _ser_
+and _estar_ in Spanish (and their cognates in other Romance languages): the
+former is used for permanent, the latter for temporary state. Nevertheless,
+the UD guidelines explicitly say that both these verbs are allowed as
+copulas, as both of them mean just “to be” and it would not be practical to
+arbitrarily pick one of them as THE copula.
+
 ## Verbal Strategy
 
-Finally, some languages will treat the object predicate as a verb rather than 
-a noun, and apply verbal inflection to it. As a consequence, the predicate 
-will be analyzed in UD as a [VERB]() and the construction will be 
-unrecognizable from normal predication of action concepts. (Note that the 
-MISC column can optionally carry information about the verb being derived 
-from a noun, but this is neither required nor regulated by the UD 
-guidelines.) 
+Finally, some languages will treat the object predicate as a verb rather than
+a noun, and apply verbal inflection to it. As a consequence, the predicate
+will be analyzed in UD as a [VERB]() and the construction will be
+unrecognizable from normal predication of action concepts. (Note that the
+MISC column can optionally carry information about the verb being derived
+from a noun, but this is neither required nor regulated by the UD
+guidelines.)
 
 Classical Nahuatl [nci] “I am a doctor” (compare to _Ni-chōca_ “I am crying”):
 
@@ -278,7 +301,7 @@ punct(Ni-tīcitl, .-2)
 punct(1SG-doctor, .-5)
 ~~~
 
-# Other Remarks: Secondary predication, deficient paradigms, property predication, clause as a predicate...
+# Other Remarks: Property predication, clause as a predicate...
 
 Is the Turkish strategy Verbal, or Verbal Copula?
 In languages like Chinese it may be difficult to decide that the copula is verbal because the Chinese verbs do not inflect.
