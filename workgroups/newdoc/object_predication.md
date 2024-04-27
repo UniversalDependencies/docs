@@ -60,3 +60,28 @@ det(examiner, the)
 punct(eżaminatur, .-4)
 punct(examiner, .-9)
 ~~~
+
+## Nonverbal Copula Strategy
+
+Some languages use a word or morpheme that signals the predication and/or 
+links the subject to the predicate. This linking element may be a special 
+verb (see Verbal Copula below) or it may lack verbal inflection. In the 
+latter case we call it ‘nonverbal copula’. In good many languages a personal 
+or demonstrative pronoun is used for this purpose and then it keeps the UPOS 
+tag that it uses in other functions (that is, [PRON]() or [DET]()). Otherwise 
+it is tagged [AUX](). Its relation to the predicate is [cop](). 
+
+Maltese [mt] optionally uses a personal pronoun as copula (Borg 1987/88:63;
+Stassen 1997:211; Croft 2022:298):
+
+~~~ sdparse
+Pietru/PROPN hu/PRON l-/DET eżaminatur/NOUN ./PUNCT \n Pietru he the examiner .
+nsubj(eżaminatur, Pietru-1)
+nsubj(examiner, Pietru-6)
+cop(eżaminatur, hu)
+cop(examiner, he)
+det(eżaminatur, l-)
+det(examiner, the)
+punct(eżaminatur, .-4)
+punct(examiner, .-9)
+~~~
