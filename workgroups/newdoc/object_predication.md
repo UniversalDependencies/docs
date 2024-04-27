@@ -320,6 +320,15 @@ punct(teacher, .-9)
 ~~~
 
 
-# Other Remarks: Property predication, clause as a predicate...
+# TO DO:
 
-In languages like Chinese it may be difficult to decide that the copula is verbal because the Chinese verbs do not inflect.
+Perhaps each of the following should have its own page in the documentation. Or at least location+existence+possession should be separate.
+
+* Property predication: Not at the same level of detail. Refer to object predication, quickly show examples where property predication works the same.
+  * Some languages (Chinese) may use different strategies for property predication (zero) vs. object predication (copula).
+  * In Chinese it may be difficult to establish whether the copula is verbal, as there is no verbal morphology.
+  * The property can be a numeral.
+  * The property can be a case-marked nominal ("for him", "in shape").
+* Object-like predication with a clause instead of the object nominal (_the problem is that he is missing_).
+* Location + existence.
+* Possession + existence.
