@@ -24,6 +24,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 | &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
 |:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
+|14 | 2024-Apr     | 2.14              | CLARIFICATION            | [List Item Markers](#list-item-markers) |
 |13 | 2023-Dec     | 2.14              | CLARIFICATION            | [Foreign Expressions and Code-Switching](#foreign-expressions-and-code-switching) |
 |12 | 2023-Nov     | 2.14              | CLARIFICATION            | [Multiword Expressions](#multiword-expressions)   |
 |11 | 2023-Nov     | 2.14              | CLARIFICATION            | [Semi-mandatory Relation Subtypes](#semi-mandatory-relation-subtypes)  |
@@ -38,6 +39,12 @@ But some updates have been necessary to clarify how they should be applied to pa
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
+
+### List Item Markers
+
+The [discourse]() page has been updated to include enumerators introducing a list item.
+(Some corpora were using [nummod]() for this purpose, but it is inconsistent with the [nummod]() definition.)
+Bullets are (still) [PUNCT]() and thus must attach as [punct](). ([issue 1027](https://github.com/UniversalDependencies/docs/issues/1027))
 
 ### Foreign Expressions and Code-Switching
 
