@@ -21,7 +21,7 @@ Causative forms of verbs.
 
 #### Examples
 
-- _kullun shì zakà |c shì <b>jèːwàyès</b> shi //_ "He kept going to inspect it."
+- _koː naː yi kwaːnaː kà <b>tassheː</b> ni //_ "Even if I am sleeping, wake me up." [lit: "<b>make</b> me <b>get up</b>"]
 
 ### <a name="Stat">`Stat`</a>: stative voice
 
@@ -29,7 +29,7 @@ The stative participle of a verb functions as an adverb.
 
 #### Examples
 
-- _giːwàːyeː sunàː <b>tsàye</b> suː dà yawàː //_ "There were many elephants standing there"
+- _giːwàːyeː sunàː <b>tsàye</b> suː dà yawàː //_ "There were many elephants <b>standing</b> there"
 
 
 
