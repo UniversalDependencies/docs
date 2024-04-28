@@ -6,16 +6,15 @@ udver: '2'
 
 # UD for Ottoman Turkish <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
 
+This is a short introduction of the UD annotation for Ottoman Turkish.
+
 ## Tokenization and Word Segmentation
 
-*
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+* In general, words are delimited by whitespace characters and punctuation.
 
 ## Morphology
+
+
 
 ### Tags
 
