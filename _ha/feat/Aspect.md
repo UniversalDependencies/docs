@@ -47,17 +47,31 @@ The backgrounded perfect aspect occurs in contexts where the process is subordin
 
 ### <a name="PerfNeg">`PerfNeg`</a>: negative perfect aspect
 
-The negative perfect aspect is the negative equivalent of the . 
+The negative perfect aspect replaces the perfect aspect to express negative polarity. 
 
 #### Examples
 - _<b>bài</b> daɗèː ba //_ "He did not stay long."
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-The progressive aspect is used to indicate ongoing processes.
+The progressive aspect is used to indicate ongoing processes. In a backgrounded context, it is replaced by the backgrounded progressive aspect (ProgfBkg), and by the negative progressive (ProgfNeg) to express negative polarity. 
 
 #### Examples
 - _aikìn màːshîn <b>yakèː</b> yîː //_ "He drives a motorcycle."
+
+### <a name="ProgBkg">`ProgBkg`</a>: backgrounded progressive aspect
+
+The backgrounded progressive aspect (ProgfBkg) occurs in contexts where the process is subordinated to a another process, or to a focused item, e.g in a subordinate clause, a cleft or a content question.
+
+#### Examples
+- _tôː ƙasà >+ 	<b>mukà</b> tohoːwàː //_ "Well, we travelled ON FOOT."
+
+### <a name="ProgNeg">`ProgNeg`</a>: negative progressive aspect
+
+The negative progressive aspect replaces the progressive aspect to express negative polarity. 
+
+#### Examples
+- _<b>baː'àː</b> cêːwaː koːmiː //  //_ "We don't say anything."
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
@@ -68,7 +82,7 @@ The habitual aspect expresses a process that tends to occur frequently.
 
 ### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
-Teh iterative / frequentative aspect denotes repeated action.
+The iterative / frequentative aspect is combined with the progressive aspect to denote a repeated action.
 
 #### Examples
 - _munàː <b>ta</b> kaucè hanyàː //_ " We kept straying from the path."
