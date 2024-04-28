@@ -17,11 +17,11 @@ Voice is typically a feature of [verbs](u-pos/VERB).
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
-Causative forms of verbs.
+The causative form of a verb adds a participant to its dependency frame. 
 
 #### Examples
 
-- _koː naː yi kwaːnaː kà <b>tassheː</b> ni //_ "Even if I am sleeping, wake me up." [lit: "<b>make</b> me <b>get up</b>"]
+- _koː naː yi kwaːnaː kà <b>tassheː</b> ni //_ "Even if I am sleeping, wake me up." (lit: "<b>make</b> me <b>get up</b>")
 
 ### <a name="Stat">`Stat`</a>: stative voice
 
