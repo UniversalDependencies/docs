@@ -26,7 +26,7 @@ or using some more descriptive coding such as _[:pause]_.
 - Period: _<b>.</b>_
 - Comma: _<b>,</b>_
 - Parentheses: _<b>()</b>_
-- Bullets in itemized lists: _<b>•<b>_, _<b>‣</b>_
+- Bullets in itemized lists: _<b>•</b>_, _<b>‣</b>_
 
 ### References
 
