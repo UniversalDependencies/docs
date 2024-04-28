@@ -197,6 +197,33 @@ punct(tancorom, .-9)
 punct(dancer, .-14)
 ~~~
 
+Chinese [zh] uses a copula for object predication but not for [property
+predication](property_predication.html) (Li and Thompson 1981:148,143; Croft
+2022:300). Note that it is not clear that the copula is verbal, as there is
+no verb-specific inflection in Chinese. The UD analysis is the same for
+verbal and nonverbal nonpronominal copulas—the only way to search for verbal
+copulas is to look for morphological features such as [VerbForm](), [Mood](),
+[Tense]() or [Aspect]().
+
+~~~ sdparse
+她/PRON 是/AUX 一/NUM 名/NOUN 護士/NOUN 。/PUNCT \n Tā shì yī míng hùshì . \n She be one CLF nurse .
+nsubj(護士, 她)
+nsubj(hùshì, Tā)
+nsubj(nurse, She)
+cop(護士, 是)
+cop(hùshì, shì)
+cop(nurse, be)
+nummod(護士, 一)
+nummod(hùshì, yī)
+nummod(nurse, one)
+clf(一, 名)
+clf(yī, míng)
+clf(one, CLF)
+punct(護士, 。)
+punct(hùshì, .-13)
+punct(nurse, .-20)
+~~~
+
 ### Multiple Copular Verbs?
 
 By default the guidelines assume that at most one lemma can serve as copula
