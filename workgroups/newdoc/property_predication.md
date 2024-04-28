@@ -79,7 +79,10 @@ punct(intelligent, .-9)
 
 Contemporary Chinese [zh] has come to use 很 / _hěn_ “very” in a copula-like
 function with properties (i.e., intensive meaning is not always entailed; Li
-and Thompson 1981:143–144; Croft 2022:300).
+and Thompson 1981:143–144; Croft 2022:300). In the copular function, 很 should
+be tagged [AUX]() and attached as [cop](); however, it may be difficult for
+the annotators to distinguish the copular function from a normal [advmod]()
+function.
 
 ~~~ sdparse
 她/PRON 很/AUX 胖/ADJ 。/PUNCT \n Tā hěn pàng . \n She very fat .
@@ -96,35 +99,37 @@ punct(fat, .-14)
 
 ## Verbal Copula Strategy
 
-German [de]: predicative form _klein_ vs. attributive _das kleine Auto, ein kleines Auto_
-
-English [en]
+German [de] uses an uninflected form of adjectives when they are used
+predicatively (cf. _Das auto ist klein_ “The car is small” with attributive
+_das kleine Auto, ein kleines Auto_ “the small car, a small car”).
 
 ~~~ sdparse
-Ivan/PROPN is/AUX a/DET dancer/NOUN ./PUNCT
-nsubj(dancer, Ivan)
-cop(dancer, is)
-det(dancer, a)
-punct(dancer, .)
+Das/DET Auto/NOUN ist/AUX klein/ADJ ./PUNCT \n The car is small .
+det(Auto, Das)
+det(car, the)
+nsubj(klein, Auto)
+nsubj(small, car)
+cop(klein, ist)
+cop(small, is)
+punct(klein, .-5)
+punct(small, .-11)
 ~~~
 
-Russian [ru] uses the zero strategy (or a nonverbal copula) in the present
-indicative, but it uses a verbal copula in other tenses and moods. It also
-marks the nominal predicate with the instrumental case, while the subject
-stays in the nominative and the copula agrees with it in [Number]() and
-[Gender]().
+Russian [ru] uses the zero strategy in the present indicative, but it uses a
+verbal copula in other tenses and moods. It also marks the adjective with the
+instrumental case.
 
 ~~~ sdparse
-Иван/PROPN был/AUX танцором/NOUN ./PUNCT \n Ivan byl tancorom . \n Ivan was dancer .
-nsubj(танцором, Иван)
-nsubj(tancorom, Ivan-6)
-nsubj(dancer, Ivan-11)
-cop(танцором, был)
-cop(tancorom, byl)
-cop(dancer, was)
-punct(танцором, .-4)
-punct(tancorom, .-9)
-punct(dancer, .-14)
+Иван/PROPN был/AUX умным/ADJ ./PUNCT \n Ivan byl umnym . \n Ivan was smart .
+nsubj(умным, Иван)
+nsubj(umnym, Ivan-6)
+nsubj(smart, Ivan-11)
+cop(умным, был)
+cop(umnym, byl)
+cop(smart, was)
+punct(умным, .-4)
+punct(umnym, .-9)
+punct(smart, .-14)
 ~~~
 
 ## Verbal Strategy
