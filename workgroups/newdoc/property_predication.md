@@ -139,7 +139,7 @@ separate **locational strategy** while admitting that Stassen calls it a
 verbal copula strategy. Example: “He is well.”
 
 ~~~ sdparse
-Uqa me bilia . \n He good sits .
+Uqa/PRON me/ADJ bilia/AUX ./PUNCT \n He good sits .
 nsubj(me, Uqa)
 nsubj(good, He)
 cop(me, bilia)
@@ -165,3 +165,21 @@ verbal inflections. The boundary is also blurred in Chinese where, due to
 lack of inflectional morphology, the zero strategy could be seen as verbal
 strategy (except that then the property would have to change the UPOS tag
 from [ADJ]() to [VERB]()).
+
+Guaraní [gn] “I am warm” (Gregores and Suárez 1967:107,137; Stassen
+1997:134–135; Croft 2022:299):
+
+~~~ sdparse
+Śe-raku/VERB ./PUNCT \n 1OBJ-warm .
+punct(Śe-raku, .-2)
+punct(1OBJ-warm, .-5)
+~~~
+
+Guaraní [gn] “He laughs” (Gregores and Suárez 1967:107,137; Stassen
+1997:134–135; Croft 2022:299):
+
+~~~ sdparse
+O-puká/VERB ./PUNCT \n 3SBJ-laugh .
+punct(O-puká, .-2)
+punct(3SBJ-laugh, .-5)
+~~~
