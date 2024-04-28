@@ -29,7 +29,7 @@ The aorist expresses semantic values of habituality, repetition, general truth a
 
 #### Example
 
-- _<b>baːkà</b> mânceːwà //_ "You won't forget."
+- _kaː matsàː mîn <b>ìn</b> jeː <b>ìn</b> saːmoː // _ "You forced me <b>to</b> go and get some."
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
@@ -54,7 +54,7 @@ The negative perfect aspect replaces the perfect aspect to express negative pola
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-The progressive aspect is used to indicate ongoing processes. In a backgrounded context, it is replaced by the backgrounded progressive aspect (ProgfBkg), and by the negative progressive (ProgfNeg) to express negative polarity. 
+The progressive aspect is used to indicate ongoing processes, irrespective of time reference. In a backgrounded context, it is replaced by the backgrounded progressive aspect (ProgfBkg), and by the negative progressive (ProgfNeg) to express negative polarity. 
 
 #### Examples
 - _aikìn màːshîn <b>yakèː</b> yîː //_ "He drives a motorcycle."
@@ -71,7 +71,7 @@ The backgrounded progressive aspect (ProgfBkg) occurs in contexts where the proc
 The negative progressive aspect replaces the progressive aspect to express negative polarity. 
 
 #### Examples
-- _<b>baː'àː</b> cêːwaː koːmiː //  //_ "We don't say anything."
+- _<b>baːkà</b> mânceːwà //_ "You won't forget."
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
