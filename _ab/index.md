@@ -107,13 +107,16 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [obj:po]() potential object.
   * [obj:poss]() possessive object, cross-referenced by a possessive marker.
   * [ccomp:obj]() clausal complement cross-referenced by a direct object marker.
-  * [ccomp:lo]()  clausal complement cross-referenced by a local object marker.
+  * [ccomp:lo]() clausal complement cross-referenced by a local object marker.
   * [ccomp:ro]() clausal complement cross-referenced by a relational object marker.
   * [ccomp:quote]() direct speech clause introduced by *ҳәа* and cross-referenced by the direct object marker of a speech verb
   * [ccomp:purp]() purposive clausal complement.
+  * [xcomp:obj]() open clausal complement cross-referenced by a direct object marker.
+  * [xcomp:lo]() open clausal complement cross-referenced by a local object marker.
   * [advcl:cond]() conditional adverbial clause.
   * [advcl:conv]() dependent clause headed by a converb.
   * [advcl:compar]() dependent clause headed by a nonfinite verb with the AsIf marker.
+  * [advcl:compar]() dependent purposive clause.
   * [advcl:quote]() dependent direct speech clause introduced by *ҳәа* but not cross-referenced in the verb.
   * [advcl:seq]() sequential construction with a dependent clause headed by a verb in the past indefinite (`Past`) attached to a finite aorist.
   * [acl:relcl]() relative clause complement.
