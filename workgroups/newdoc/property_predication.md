@@ -132,6 +132,22 @@ punct(umnym, .-9)
 punct(smart, .-14)
 ~~~
 
+Amele [aey] (Roberts 1987:186,65; Stassen 1997:149) predicates properties
+with the help of a verbal copula that originates in location predication and
+its original meaning is “to sit”. Croft (2022:295) describes this as a
+separate **locational strategy** while admitting that Stassen calls it a
+verbal copula strategy. Example: “He is well.”
+
+~~~ sdparse
+Uqa me bilia . \n He good sits .
+nsubj(me, Uqa)
+nsubj(good, He)
+cop(me, bilia)
+cop(good, sits)
+punct(me, .-4)
+punct(good, .-9)
+~~~
+
 ## Verbal Strategy
 
 Classical Nahuatl [nci] “I am good” (Croft 2022:294; compare to _Ni-chōca_ “I
