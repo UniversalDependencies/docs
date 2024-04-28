@@ -48,6 +48,21 @@ punct(umnyj, .-7)
 punct(smart, .-11)
 ~~~
 
+Chinese [zh] uses a verbal copula for object predication but that copula is
+not used for property predication. Properties use either zero strategy (Li
+and Thompson 1981:148,143; Croft 2022:300) or a new nonverbal copula (see
+below).
+
+~~~ sdparse
+她/PRON 胖/ADJ 。/PUNCT \n Tā pàng . \n She fat .
+nsubj(胖, 她)
+nsubj(pàng, Tā)
+nsubj(fat, She)
+punct(胖, 。)
+punct(pàng, .-13)
+punct(fat, .-20)
+~~~
+
 ## Nonverbal Copula Strategy
 
 Maltese [mt]
@@ -55,11 +70,28 @@ Maltese [mt]
 ~~~ sdparse
 Pietru/PROPN huwa/PRON intelliġenti/ADJ ./PUNCT \n Pietru he intelligent .
 nsubj(intelliġenti, Pietru-1)
-nsubj(intelligent, Pietru-7)
+nsubj(intelligent, Pietru-6)
 cop(intelliġenti, huwa)
 cop(intelligent, he)
 punct(intelliġenti, .-4)
 punct(intelligent, .-9)
+~~~
+
+Contemporary Chinese [zh] has come to use 很 / _hěn_ “very” in a copula-like
+function with properties (i.e., intensive meaning is not always entailed; Li
+and Thompson 1981:143–144; Croft 2022:300).
+
+~~~ sdparse
+她/PRON 很/AUX 胖/ADJ 。/PUNCT \n Tā hěn pàng . \n She very fat .
+nsubj(胖, 她)
+nsubj(pàng, Tā)
+nsubj(fat, She)
+cop(胖, 很)
+cop(pàng, hěn)
+cop(fat, very)
+punct(胖, 。)
+punct(pàng, .-13)
+punct(fat, .-20)
 ~~~
 
 ## Verbal Copula Strategy

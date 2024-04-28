@@ -201,7 +201,7 @@ Chinese [zh] uses a copula for object predication but not for [property
 predication](property_predication.html) (Li and Thompson 1981:148,143; Croft
 2022:300). Note that it is not clear that the copula is verbal, as there is
 no verb-specific inflection in Chinese. The UD analysis is the same for
-verbal and nonverbal nonpronominal copulas—the only way to search for verbal
+verbal and nonpronominal nonverbal copulas—the only way to search for verbal
 copulas is to look for morphological features such as [VerbForm](), [Mood](),
 [Tense]() or [Aspect]().
 
