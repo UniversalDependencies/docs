@@ -13,28 +13,22 @@ udver: '2'
 </tr>
 </table>
 
-Tense is typically a feature of [verbs](u-pos/VERB).
+In Hausa, tense is a feature of the [Auxiliary](u-pos/AUX).
 
 Tense is a feature that specifies the time when the action took /
 takes / will take place, in relation to a reference point.
-The reference is often the moment of producing the sentence,
-but it can be also another event in the context.
 
 ### <a name="Fut">`Fut`</a>: future tense
 
-The future tense denotes actions that will happen after a reference point;
-in the prototypical case, the reference point is the moment of producing
-the sentence.
+The default future tense denotes actions that will happen after the moment of producing the sentence, or the reference point of the text. 
 
 #### Examples
 
 - _bà <b>zaːkà</b> ganiː ba //_ “You won't see any.”
 
-
 ### <a name="Pred">`Pred`</a>: predictive tense
 
-The predictive is a future tense that denotes actions that are predicted by the speaker to happen after a reference point; in the prototypical case, the reference point is the moment of producing
-the sentence.
+In comparison to the default future tense, the predictive future adds an extra illocutionary force on the part of the speaker concerning the reality of the process. 
 
 #### Examples
 
