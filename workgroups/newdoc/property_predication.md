@@ -59,8 +59,8 @@ nsubj(胖, 她)
 nsubj(pàng, Tā)
 nsubj(fat, She)
 punct(胖, 。)
-punct(pàng, .-13)
-punct(fat, .-20)
+punct(pàng, .-7)
+punct(fat, .-11)
 ~~~
 
 ## Nonverbal Copula Strategy
@@ -90,8 +90,8 @@ cop(胖, 很)
 cop(pàng, hěn)
 cop(fat, very)
 punct(胖, 。)
-punct(pàng, .-13)
-punct(fat, .-20)
+punct(pàng, .-9)
+punct(fat, .-14)
 ~~~
 
 ## Verbal Copula Strategy
