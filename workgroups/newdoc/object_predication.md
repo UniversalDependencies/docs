@@ -322,7 +322,8 @@ MISC column can optionally carry information about the verb being derived
 from a noun, but this is neither required nor regulated by the UD
 guidelines.)
 
-Classical Nahuatl [nci] “I am a doctor” (Croft 2022:294; compare to _Ni-chōca_ “I am crying”):
+Classical Nahuatl [nci] “I am a doctor” (Croft 2022:294; compare to
+_Ni-chōca_ “I am crying”):
 
 ~~~ sdparse
 Ni-tīcitl/VERB ./PUNCT \n 1SG-doctor .
@@ -354,8 +355,6 @@ punct(teacher, .-9)
 Perhaps each of the following should have its own page in the documentation. Or at least location+existence+possession should be separate.
 
 * Property predication: Not at the same level of detail. Refer to object predication, quickly show examples where property predication works the same.
-  * Some languages (Chinese) may use different strategies for property predication (zero) vs. object predication (copula).
-  * In Chinese it may be difficult to establish whether the copula is verbal, as there is no verbal morphology.
   * The property can be a numeral.
   * The property can be a case-marked nominal ("for him", "in shape").
 * Object-like predication with a clause instead of the object nominal (_the problem is that he is missing_).

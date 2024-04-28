@@ -106,7 +106,7 @@ _das kleine Auto, ein kleines Auto_ “the small car, a small car”).
 ~~~ sdparse
 Das/DET Auto/NOUN ist/AUX klein/ADJ ./PUNCT \n The car is small .
 det(Auto, Das)
-det(car, the)
+det(car, The)
 nsubj(klein, Auto)
 nsubj(small, car)
 cop(klein, ist)
@@ -134,50 +134,18 @@ punct(smart, .-14)
 
 ## Verbal Strategy
 
-Finally, some languages will treat the object predicate as a verb rather than
-a noun, and apply verbal inflection to it. As a consequence, the predicate
-will be analyzed in UD as a [VERB]() and the construction will be
-unrecognizable from normal predication of action concepts. (Note that the
-MISC column can optionally carry information about the verb being derived
-from a noun, but this is neither required nor regulated by the UD
-guidelines.)
-
-Classical Nahuatl [nci] “I am a doctor” (Croft 2022:294; compare to _Ni-chōca_ “I am crying”):
+Classical Nahuatl [nci] “I am good” (Croft 2022:294; compare to _Ni-chōca_ “I
+am crying”):
 
 ~~~ sdparse
-Ni-tīcitl/VERB ./PUNCT \n 1SG-doctor .
-punct(Ni-tīcitl, .-2)
-punct(1SG-doctor, .-5)
+Ni-cualli/VERB ./PUNCT \n 1SG-good .
+punct(Ni-cualli, .-2)
+punct(1SG-good, .-5)
 ~~~
 
-Language-specific word segmentation may play a role in distinguishing the
-verbal strategy from verbal copulas. In Turkish [tr], the surface
-representation looks either like the zero strategy (in present tense) or like
-the verbal strategy (when past-tense suffix _-DI_ is attached to the nominal
-predicate). But as of UD v2, the suffix is analyzed as a form of encliticized
-copula _i_ and is treated as a separate syntactic word. Consequently, the
-sentence is analyzed as using the verbal copula strategy.
-
-~~~ sdparse
-Necla/PROPN öğretmen/NOUN =di/AUX ./PUNCT \n Necla teacher was .
-nsubj(öğretmen, Necla-1)
-nsubj(teacher, Necla-6)
-cop(öğretmen, =di)
-cop(teacher, was)
-punct(öğretmen, .-4)
-punct(teacher, .-9)
-~~~
-
-
-# TO DO:
-
-Perhaps each of the following should have its own page in the documentation. Or at least location+existence+possession should be separate.
-
-* Property predication: Not at the same level of detail. Refer to object predication, quickly show examples where property predication works the same.
-  * Some languages (Chinese) may use different strategies for property predication (zero) vs. object predication (copula).
-  * In Chinese it may be difficult to establish whether the copula is verbal, as there is no verbal morphology.
-  * The property can be a numeral.
-  * The property can be a case-marked nominal ("for him", "in shape").
-* Object-like predication with a clause instead of the object nominal (_the problem is that he is missing_).
-* Location + existence.
-* Possession + existence.
+There are languages that make almost no difference between adjectives and
+intransitive stative verbs. For example, Japanese adjectives regularly take
+verbal inflections. The boundary is also blurred in Chinese where, due to
+lack of inflectional morphology, the zero strategy could be seen as verbal
+strategy (except that then the property would have to change the UPOS tag
+from [ADJ]() to [VERB]()).
