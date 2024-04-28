@@ -148,6 +148,23 @@ punct(me, .-4)
 punct(good, .-9)
 ~~~
 
+Bribri [bzd] (Pittier de Fabrega 1898:144; Lehmann 1920:291; Stassen 1997:84;
+Croft 2022:300) has a verbal copula whose etymological source was the pronoun
+_i_ “he/this” combined with verbal affixes for voice and tense. Example: “He
+is tall and strong.”
+
+~~~ sdparse
+Taĩń/ADJ inan/CCONJ de̥ríri/ADJ irir/AUX ./PUNCT \n Tall and strong COP.PRS .
+cop(Taĩń, irir)
+cop(Tall, COP.PRS)
+conj(Taĩń, de̥ríri)
+conj(Tall, strong)
+cc(de̥ríri, inan)
+cc(strong, and)
+punct(Taĩń, .-5)
+punct(Tall, .-11)
+~~~
+
 ## Verbal Strategy
 
 Classical Nahuatl [nci] “I am good” (Croft 2022:294; compare to _Ni-chōca_ “I
