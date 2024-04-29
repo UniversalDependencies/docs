@@ -12,7 +12,7 @@ This is a, work-in-progress, short introduction of the UD annotation for Ottoman
 
 * In general, words are delimited by whitespace characters and punctuation.
 * Whitespaces or punctuation may appear in some abbreviations or numeric expressions.
-* Arabic noun phrases that are transcribed without any space (e.g. ‘nizâmü’l-mülk’) are treated as two separate words. However, Idiomatic expressions such as ‘ve’s-selâm) have been considered as an exception to this rule.
+* Arabic noun phrases that are transcribed without any space (e.g. "nizâmü’l-mülk") are treated as two separate words. However, Idiomatic expressions such as "ve’s-selâm" are considered as an exception to this rule and represented via only one token.
 * Clitics are treated as a separate words. This includes
     the clitics that follow word-internal processes (e.g., vowel
     harmony) such as question clitic  _mI_ and  adverbial _DA_.
