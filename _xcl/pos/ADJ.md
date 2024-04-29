@@ -15,9 +15,9 @@ Although participles have adjectival features they are treated as forms of the v
 
 ### Examples
 
-- _ուրախ_/_owrax_ “glad”
-- _լսելի_/_lseli_ “audible”
-- _առաջին_/_aṙaǰin_ “first”, _երկրորդ_/_erkrord_ “second”, _չորրորդ_/_čʻorrord_ “forth”
+- _ուրախ_/_owrax_ ‘glad’
+- _լսելի_/_lseli_ ‘audible’
+- _առաջին_/_aṙaǰin_ ‘first’, _երկրորդ_/_erkrord_ ‘second’, _չորրորդ_/_čʻorrord_ ‘forth’
 
 ### Declension of adjectives
 
@@ -25,15 +25,15 @@ In Classical Armenian, adjectives are declined like nouns in case and number. As
 
 ### Degrees of comparison
 
-Classical Armenian does not have dedicated forms of the comparative and superlative degrees of the adjective. The comparative degree can be expressed by the positive form of an adjective along with _քան_/_kʻan_ plus the etalon of comparison in the definite accusative form. The adjectival suffix _-ագոյն_/_-agoyn_ can express either the intensive or the comparative meaning. An adjective in _-ագոյն_ can express the comparative alone or as part of the comparative construction with _քան_.
+Classical Armenian does not have dedicated forms of the comparative and superlative degrees of the adjective. The comparative degree can be expressed by the positive form of an adjective along with _քան_/_kʻan_ ‘than’ plus the etalon of comparison in the definite accusative form. The adjectival suffix _-ագոյն_/_-agoyn_ can express either the intensive or the comparative meaning. An adjective in _-ագոյն_ can express the comparative alone or as part of the comparative construction with _քան_.
 
-The superlative degree can be expressed by compounds with _ամենա-_/_amena-_, cf. _ամենա-բարի_/_amena-bari_ “the best”.
+The superlative degree can be expressed by compounds with _ամենա-_/_amena-_, cf. _ամենա-բարի_/_amena-bari_ ‘the best’ next to _բարի_/_bari_ ‘good’.
 
 ### Examples
 
 - _<b>չար քան զ</b>առաջինն_ / _<b>čʻar kʻan z</b>=aṙaǰin=n_ “<b>worse than</b> the first one” (Lk. 11:26)
 - _ապա թե ոչ մինչդեռ <b>հեռագոյն</b> իցէ_ / _apa tʻe očʻ minčʻdeṙ <b>heṙagoyn</b> icʻē_ “while the other is yet <b>further</b> off” (Lk. 14:32).
-- _զի՞նչ իցէ <b>մեծագոյն քան զ</b>իմաստութիւն_ / _zi՞nčʻ icʻē <b>mecagoyn kʻan z</b>imastowtʻiwn_ “what is richer than wisdom?” (Wis. 8:5).
+- _զի՞նչ իցէ <b>մեծագոյն քան զ</b>իմաստութիւն_ / _zi՞nčʻ icʻē <b>mecagoyn kʻan z</b>=imastowtʻiwn_ “what is richer than wisdom?” (Wis. 8:5).
 
 ### References
 

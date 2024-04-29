@@ -17,13 +17,15 @@ Note that _verbal nouns_ and _participles_ share properties of nouns and verbs i
 
 ### Examples
 
-- _աղջիկ_/_ałǰik_ “girl”
-- _ծառ_/_caṙ_ “tree”
-- _աւդ_/_awd_ “air”
+- _աղջիկ_/_ałǰik_ ‘girl’
+- _ծառ_/_caṙ_ ‘tree’
+- _աւդ_/_awd_ ‘air’
 
 ### References
 
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
+
+Matzinger, Joachim. 2005. _Untersuchungen zum altarmenischen Nomen: die Flexion des Substantivs._ Dettelbach: Röll, 2005.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 

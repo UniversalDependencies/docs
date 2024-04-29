@@ -45,7 +45,7 @@ _Būt_, _tikt_ and _tapt_ may still occur as normal [VERB]() if they are used in
 
 #### Deverbal Nouns, Participles, Coverbs
 
-Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
+Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _dama_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
 
 
 ### Features
@@ -80,9 +80,9 @@ Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are ta
 * [Tense]() is used for verbs and participles:
     * Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`.
     * Infinitive, imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
-    * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable") and past participles (_darījis_ "[he has] been doing" and _pateikts_ “[it is] said”).
+    * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable") and past participles (_darījis_ "[he has] been doing" and _pateikts_ “[it has] been said”).
 * There are two values used for the [Voice() feature: `Act` and `Pass`:
-    * Passive participles (_lasāms_ "[it is] readable" and _pateikts_ “[it is] said”) has `Voice=Pass`.
+    * Passive participles (_lasāms_ "[it is] readable" and _pateikts_ “[it has] been said”) has `Voice=Pass`.
     * Finite verb forms and active participles (_ziedošs_ "[it is] flowering" and _darījis_ "[he has] been doing") have `Voice=Act`.
 * [Evident]() applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
 
@@ -91,12 +91,12 @@ Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are ta
 * [PronType]() is used with pronouns [PRON](), determiners [DET]() and pronominal adverbs [ADV]() with 8 permissible values: `Prs`, `Rcp`, `Int`, `Rel`, `Dem`, `Tot`, `Neg`, `Ind`.
 * [NumType]() is used with numerals (also cardinal numbers) NUM[](), ordinal numbers [ADJ](), and some adverbs [ADV]():
     * Numerals and ordinal numbers has one of three possible values: `Card`, `Ord` or `Frac`.
-    * Adverbs _vienreiz_ "once", _divreiz_ "twice", _trīsreiz_ "thrice", _četreiz_, _piecreiz_, _sešreiz_, _septiņreiz_, _astoņreiz_, _deviņreiz_, _desmitreiz_ "ten times", _pusotrreiz_ "one and a half times" has `NumType=Mult`.
+    * Adverbs _vienreiz_ "once", _divreiz_ "twice", _trīsreiz_ "thrice", _četrreiz_, _piecreiz_, _sešreiz_, _septiņreiz_, _astoņreiz_, _deviņreiz_, _desmitreiz_ "ten times", _pusotrreiz_ "one and a half times" has `NumType=Mult`.
 * The [Poss]() feature marks possessive personal pronouns and determiners (e.g., _mans_ "my") and possessive adjectives (e.g., _tavējais_ "yours") with value `Yes`.
 * The [Reflex]() feature marks reflexive pronoun _sevis_.
     * Reflexivity is also marked on reflexive verbs and participles ([VERB](), e.g., _mazgāties_, _pusapģērbusies_).
 * [Person]() is marked for pronouns and finite verbs and has three values: `1`, `2` and `3`.
-    * It is a lexical feature of personal pronouns `PRON` like _es_ "I", _tu_ "you", _viņš_ "he", _viņa_ "she", _viņi_ "they" (plural, masculine), _viņas_ "they" (plural, feminine).
+    * It is a lexical feature of personal pronouns `PRON` like _es_ "I", _tu_ "you" (singular), _viņš_ "he", _viņa_ "she", _mēs_ "we", _jūs_ "you" (plural), _viņi_ "they" (plural, masculine), _viņas_ "they" (plural, feminine).
     * It is a lexical feature of personal possessives `DET`/`PRON` _mans_, _manējais_ "my/mine", _tavs_, _tavējais_ "your/yours" (singular), _mūsējais_ "our/ours", _jūsējais_ "your/yours" (plural), _viņējais_ "his/hers/theirs".
     * `Person` is also marked on some demonstrative pronouns with value `3`.
     * As a cross-reference to subject, person is also marked on finite verbs (`VERB`, [AUX]()).
@@ -118,7 +118,7 @@ Features not applicable for Latvian:
 
 * Nominal subject ([nsubj]()) is a noun phrase usually in the nominative case. However:
     * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier.
-    * With predicates _nebūt_, _trūkt_, _pietikt_, _netrūkt_, _nepietiek_ noun phrase can be in genitive.
+    * With predicates _nebūt_, _trūkt_, _pietikt_, _netrūkt_, _nepietikt_ noun phrase can be in genitive.
     * A finite subordinate clause may serve as the subject and is labeled [csubj]().
     * The noun phrase may be in the dative, if the predicate is in the necessitative mood (_man jāskatās spēle_ "I have to watch the game") or if the predicate is with modal meaning and has subordinated infinitive (_viņam vajadzētu pasteigties_ "he should hurry").
 * Objects as defined in the Latvian grammar may be either bare noun phrases in accusative, dative, or genitive, or prepositional phrases in accusative, dative, genitive. All objects are labeled as [obj]() or [iobj]().

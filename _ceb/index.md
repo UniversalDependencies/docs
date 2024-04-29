@@ -83,10 +83,10 @@ udver: '2'
 ## Treebanks
 
 
-There is [1](../treebanks/ceb-comparison.html) Cebuano UD treebank:
+There is 1 Cebuano UD treebank:
 
-  * [Cebuano-GJA](../treebanks/ceb_a/index.html)
+  * [Cebuano-GJA](https://universaldependencies.org/treebanks/ceb_gja/index.html)
 
-## Treebanks
+## References
 * Nikolaus P. Himmelmann (2005). Typological characteristics. In Alexander Adelaar and Nikolaus P. Himmelmann (eds.): The Austronesian Languages of Asia and Madagascar. Routledge, London and New York.
 * Tanangkinsing, Michael (2011). A functional reference grammar of Cebuano: from a discourse perspective. Vol 1 & 2. Lambert Academic Publishing: Saarbrücken, Germany. ISBN: 978-3-8465-1024-7 / 978-3-8465-9150-5

@@ -15,12 +15,12 @@ There is a subclass of demonstrative, relative and interrogative adverbs, which 
 
 ### Examples
 
-- _արտաքոյ_/_artakʻoy_ “outside”, _կարի_/_kari_ “very”, _ի ծածուկ_/_i cacowk_ “secretly”
+- _արտաքոյ_/_artakʻoy_ ‘outside’, _կարի_/_kari_ ‘very’, _ի ծածուկ_/_i cacowk_ ‘secretly’
 
 Pronominal adverbs
-- Demostrative adverbs: _նոյնպէս_/_noynpēs_ “in that way”
-- Interrogative adverbs: _զիարդ_/_ziard_ “why”
-- Relative adverbs: _որպէս_/_orpēs_ “in which way”
+- Demostrative adverbs: _նոյնպէս_/_noynpēs_ ‘in that way’
+- Interrogative adverbs: _զիարդ_/_ziard_ ‘why’
+- Relative adverbs: _որպէս_/_orpēs_ ‘in which way’
 
 ### References
 
