@@ -83,9 +83,9 @@ udver: '2'
 ## Treebanks
 
 
-There is [1](../treebanks/ceb-comparison.html) Cebuano UD treebank:
+There is 1 Cebuano UD treebank:
 
-  * [Cebuano-GJA](../treebanks/ceb_a/index.html)
+  * [Cebuano-GJA](https://universaldependencies.org/treebanks/ceb_gja/index.html)
 
 ## References
 * Nikolaus P. Himmelmann (2005). Typological characteristics. In Alexander Adelaar and Nikolaus P. Himmelmann (eds.): The Austronesian Languages of Asia and Madagascar. Routledge, London and New York.
