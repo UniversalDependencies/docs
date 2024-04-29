@@ -17,9 +17,9 @@ Note that _verbal nouns_ and _participles_ share properties of nouns and verbs i
 
 ### Examples
 
-- _աղջիկ_/_ałǰik_ “girl”
-- _ծառ_/_caṙ_ “tree”
-- _աւդ_/_awd_ “air”
+- _աղջիկ_/_ałǰik_ ‘girl’
+- _ծառ_/_caṙ_ ‘tree’
+- _աւդ_/_awd_ ‘air’
 
 ### References
 
