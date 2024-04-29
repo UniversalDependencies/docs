@@ -13,12 +13,12 @@ Cardinal numbers are tagged as `NUM` whether they are expressed by words (_չո�
 
 ### Examples
 
--	_մի_/_mi_ “one”
--	_Ա_ “one”
+-	_մի_/_mi_ ‘one’
+-	_Ա_ ‘one’
 
 ### Counterexamples
 
-- _առաջին_/_aṙaǰin_ “first” (ordinal numeral, tagged [ADJ]()).
+- _առաջին_/_aṙaǰin_ ‘first’ (ordinal numeral, tagged [ADJ]()).
 
 ### References
 
