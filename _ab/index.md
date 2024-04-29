@@ -44,6 +44,7 @@ The morphological features are automatically derived from the feature set used i
 * Number[psor]: `Sing`, `Plur`.
 * Person[psor]: `1`, `2`, `3`, `Rel`. The relative marker behaves in many respects (both morphologically and syntactically) like a person marker, so it is included here.
 * Animacy: `Hum`, `Nhum`.
+* Case: `Abe`, `Ben`, `Ess`, `Ine`, `Ins`, `Lat`, `Loc`, `Ter`. All cases except `Ess` are fused postpositions that could alternatively be analyzed as clitics. This would however make it necessary to split them off.
 
 ### Verbal Features
 
