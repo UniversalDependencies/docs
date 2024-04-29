@@ -30,11 +30,19 @@ indicates impersonal passive.
 The verb's valency is reduced to zero with impersonal passives constructions,
 the verb cannot have a subject.
 
-
 #### Examples
 
 * _ Үй сыр<b>дал</b>ган._  "The house was painted"
 * _Бул жерден бирөө жыг<b>ыл</b>ышы мүмкүн._ "One may fall from here" (impersonal, intransitive verb passivized)
+
+
+### <a name="Cau">`Cau`</a>: causative voice
+
+In causative constructions the subject is the entity "causing" the action. It generally translate to English as 'cause/make/have/let/allow' someone to perform action described by the main verb.
+
+#### Examples
+
+* _ Дениз уктатылды._  "Deniz was made to sleep."
 
 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:13 CET -->
