@@ -14,7 +14,7 @@ It is important to note that currently UD guidelines for annotating Latgalian is
 In general, words are delimited by whitespace characters and punctuation is separated. Description of exceptions follows:
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ ("1,000,000" by English rules) is one token.
 * Abbreviations without spaces are treated as single words and may contain punctuation (_v.tml._ "etc."). In following cases we treat abbreviation as a single token even if whitespace is used between part of abbreviation and punctuation mark: _v.tml._, _N.B._, _P.S._ and _P.P.S._
-* Double surnames such as _Vīķe-Freiberga_ and words abbreviated with dashes such as _e-posts_ "e-mail", _k-dze_ "Ms." are tokenized as a single token.
+* Double surnames such as _Vīke-Freiberga_ and words abbreviated with dashes such as _e-posts_ "e-mail", _k-dze_ "Ms." are tokenized as a single token.
 * In Latgalian ordinal numerals are written with punctuation mark without whitespace like abbreviations (_1._), so we tokenize ordinal numeral together with punctuation mark as one token.
 * Multiple dots (_..._ and _.._ ) are considered as one token. Multiple _?!_ are considered one token, _?!..._ is considered to be two tokens (_?!_ and _..._).
 
@@ -28,7 +28,7 @@ Latgalian uses all 17 universal POS categories.
 
 #### Particles
 
-[PART]() tag is used for following function words: _ar_, _ari_, _až_, _ba_, _da_, _dīvamžāļ_, _dīz_, _gon_, _ik_, _it_, _kab_, _kazyn_, _konče_, _koč_, _kuo_, _lai_, _laikam_, _mošeit_, _mož_, _na_, _nabejs_, _naviņ_, _naz_, _nazyn_, _nui_, _nā_, _pat_, _prūtams_, _rikti_, _ta_, _tak_, _tik_, _tikai_, _to_, _tok_, _tože_, _varbyut_, _viņ_, _vys_, _vīneigi_. This list might be expanded in future.
+[PART]() tag is used for following function words: _ar_, _ari_, _až_, _ba_, _da_, _dīvamžāļ_, _dīz_, _gon_, _ik_, _it_, _kab_, _kazyn_, _konče_, _koč_, _kod_, _kuo_, _lai_, _laikam_, _mošeit_, _mož_, _na_, _nabejs_, _naviņ_, _naz_, _nazyn_, _nui_, _nā_, _pat_, _prūtams_, _rikti_, _ta_, _tak_, _tik_, _tikai_, _to_, _tok_, _tože_, _varbyut_, _viņ_, _vys_, _vīneigi_. This list might be expanded in future.
 
 #### Pronouns and Determiners
 
@@ -47,15 +47,8 @@ Verbs with modal meaning are not considered auxiliary in Latgalian.
 
 #### Deverbal Nouns, Participles, Coverbs **TODO**
 
-Latgalian features rich set of deverbal derivations and not everything has been analized to align with UD guidelines yet. However, deverbal nouns with endings _-šona_, _-šonuos_ (_skrīšona_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-damies_, _-damās_ are tagged as `VERB` or `AUX`. Most adjectival participles (_redzams_, _aizgājis_, _negaidīts_, _velkošs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _protams_ "of course", _acīmredzot_ "obvious", which are tagged as `PART`, and _iespējams_ "possible", which is tagged as `ADJ`.
+Latgalian features rich set of deverbal derivations and not everything has been analized to align with UD guidelines yet. However, deverbal nouns with endings _-šona_, _-šonuos_ (_skrīšona_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-dama_, _-dami_, _-damys_, _-damīs_, _-damuos_ are tagged as `VERB` or `AUX`. Most adjectival participles (_radzams_, _aizguojs_, _nagaideits_, _valkūšs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _prūtams_ "of course", _acimredzūt_ "obvious", which are tagged as `PART`, and _īspiejams_ "possible", which is tagged as `ADJ`.
 
-
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
@@ -65,14 +58,15 @@ Latgalian features rich set of deverbal derivations and not everything has been 
 * The following parts of speech inflect for `Gender` as they must agree with nouns: [ADJ](), [DET](), [NUM](), [VERB](), [AUX](). For verbs (including auxiliaries), only participles inflect for `Gender`. Finite verbs don’t.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number: `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `VERB`and `AUX` (finite, participles and verbal nouns), marginally `NUM`. Selected nouns are plurale tantum `Ptan` or singulare tantum `Coll`.
 * [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Loc`, `Voc`. It occurs with the nominal words, i.e., `NOUN`, `PROPN`, `PRON`, `ADJ`, `DET`, `NUM`, `VERB` and `AUX` (participles and verbal nouns).
-* [Definite]() has 2 possible values: `Ind` and `Def`. The following parts of speech inflect for definitnes: `ADJ`, `VERB` and `AUX` (participles).
+* [Definite]() has 2 possible values: `Ind` and `Def`. The following parts of speech inflect for definitnes: `ADJ`, `NUM`, `VERB` and `AUX` (participles).
 
 
-#### Verbal Features **TODO**
+#### Verbal Features
 
 * There are five main (de)verbal form types, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
     * Infinitive `Inf`, tagged [VERB]() or [AUX]().
     * Finite verb `Fin`, tagged `VERB` or `AUX`.
+    * Supine form `Sup`, tagged `VERB` or `AUX`,
     * Participle `Part`, tagged `VERB` or `AUX`.
     * Converb `Conv`, tagged `VERB` or `AUX`.
     * Verbal noun `Vnoun`, tagged `NOUN`.
@@ -81,18 +75,12 @@ Latgalian features rich set of deverbal derivations and not everything has been 
 * [Tense]() is used for verbs and participles:
     * Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`.
     * Infinitive, imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
-    * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_ziedošs_ "[it is] flowering" and _lasāms_ "[it is] readable") and past participles (_darījis_ "[he has] been doing" and _pateikts_ “[it is] said”).
+    * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_zīdūšs_ "[it is] flowering" and _skaitams_ "[it is] readable") and past participles (_darejs_ "[he has] been doing" and _pasaceits_ “[it has] been said”).
 * There are two values used for the [Voice() feature: `Act` and `Pass`:
-    * Passive participles (_lasāms_ "[it is] readable" and _pateikts_ “[it is] said”) has `Voice=Pass`.
-    * Finite verb forms and active participles (_ziedošs_ "[it is] flowering" and _darījis_ "[he has] been doing") have `Voice=Act`.
+    * Passive participles (_skaitams_ "[it is] readable" and _pasaceits_ “[it has] been said”) has `Voice=Pass`.
+    * Finite verb forms and active participles (_zīdūšs_ "[it is] flowering" and _darejs_ "[he has] been doing") have `Voice=Act`.
 * [Evident]() applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
 
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax **TODO**
 
