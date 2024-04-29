@@ -47,7 +47,7 @@ Verbs with modal meaning are not considered auxiliary in Latgalian.
 
 #### Deverbal Nouns, Participles, Coverbs
 
-Latgalian features rich set of deverbal derivations and not everything has been analized to align with UD guidelines yet. However, deverbal nouns with endings _-šona_, _-šonuos_ (_skrīšona_ "running") are tagged as [NOUN](). Most converbs with endings _-ūt_,  _-ūts_, _-ūte_, _-ūtīs_, _-om_, _-omīs_, _-dams_, _-dama_, _-damīs_, _-damuos_ are tagged as `VERB` or `AUX`. Most adjectival participles (_radzams_, _aizguojs_, _nagaideits_, _valkūšs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _prūtams_ "of course", _acimredzūt_ "obvious", which are tagged as `PART`, and _īspiejams_ "possible", which is tagged as `ADJ`.
+Latgalian features rich set of deverbal derivations and not everything has been analized to align with UD guidelines yet. However, deverbal nouns with endings _-šona_, _-šonuos_ (_skrīšona_ "running") are tagged as [NOUN](). Most converbs with endings _-ūt_,  _-ūts_, _-ūte_, _-ūtīs_, _-om_, _-omīs_, _-dams_, _-dama_, _-damīs_, _-damuos_ are tagged as `VERB` or `AUX`. Most adjectival participles (_radzams_, _aizguojs_, _nagaideits_, _valkūšs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _prūtams_ "of course", _acimradzūt_ "obvious", which are tagged as `PART`, and _īspiejams_ "possible", which is tagged as `ADJ`.
 
 
 ### Features
@@ -76,7 +76,7 @@ Latgalian features rich set of deverbal derivations and not everything has been 
     * Verbs in the indicative mood always have one of three `Tense` values: `Past`, `Pres` or `Fut`.
     * Infinitive, imperative, conditional, quotative, and necessitative forms do not have the `Tense` feature.
     * The `Tense` feature is also used to distinguish declinable participles (tagged `VERB` or `AUX`) into two groups: present participles (_zīdūšs_ "[it is] flowering" and _skaitams_ "[it is] readable") and past participles (_darejs_ "[he has] been doing" and _pasaceits_ “[it has] been said”).
-* There are two values used for the [Voice() feature: `Act` and `Pass`:
+* There are two values used for the [Voice]() feature: `Act` and `Pass`:
     * Passive participles (_skaitams_ "[it is] readable" and _pasaceits_ “[it has] been said”) has `Voice=Pass`.
     * Finite verb forms and active participles (_zīdūšs_ "[it is] flowering" and _darejs_ "[he has] been doing") have `Voice=Act`.
 * [Evident]() applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
