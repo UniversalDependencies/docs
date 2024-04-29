@@ -99,6 +99,14 @@ Latgalian features rich set of deverbal derivations and not everything has been 
 * [Foreign]() is annotated `Yes` for foreign words [X]().
 * [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_gūd._ "honored"), `VERB` (_sal._ "compare"), `ADV` (_p.Kr._ "anno Domini"), `SYM` (_v.tml._ "etc.").
 
+#### Unused Features
+
+Features not applicable for Latvian:
+* [Animacy](),
+* [Clusivity](),
+* [NounClass](),
+* [Polite]().
+
 
 ## Syntax
 
