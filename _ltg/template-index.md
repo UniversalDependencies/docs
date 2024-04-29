@@ -82,23 +82,23 @@ Latgalian features rich set of deverbal derivations and not everything has been 
 * [Evident]() applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
 
 
-## Syntax **TODO**
+## Syntax
 
 ### Core Arguments
 
 * Nominal subject ([nsubj]()) is a noun phrase usually in the nominative case. However:
     * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier.
-    * With predicates _nebūt_, _trūkt_, _pietikt_, _netrūkt_, _nepietiek_ noun phrase can be in genitive.
+    * With predicates _nabyut_, _tryukt_, _pītikt_, _natryukt_, _napītikt_ noun phrase can be in genitive.
     * A finite subordinate clause may serve as the subject and is labeled [csubj]().
-    * The noun phrase may be in the dative, if the predicate is in the necessitative mood (_man jāskatās spēle_ "I have to watch the game") or if the predicate is with modal meaning and has subordinated infinitive (_viņam vajadzētu pasteigties_ "he should hurry").
+    * The noun phrase may be in the dative, if the predicate is in the necessitative mood (_maņ juosaver spēle_ "I have to watch the game") or if the predicate is with modal meaning and has subordinated infinitive (_jam vajadzātu pasasteigt_ "he should hurry").
 * Objects as defined in the Latgalian grammar may be either bare noun phrases in accusative, dative, or genitive, or prepositional phrases in accusative, dative, genitive. All objects are labeled as [obj]() or [iobj]().
-    * However, if the predicate is in the necessitative mood, object may be in nominative (_zēnam jāuzraksta mājasdarbs_ "the boy has to write a homework."), and it is labeled as `obj`.
+    * However, if the predicate is in the necessitative mood, object may be in nominative (_puikam juoatnas iudiņs_ "the boy has to bring the water."), and it is labeled as `obj`.
     * Accusative objects are considered `obj`.
     * Objects in dative and genitive cases and prepositional objects are considered `iobj`.
 
 ### Non-verbal Clauses
 
-The copula verb _būt_ "be" is used in equational and attributional nonverbal clauses. Purely existential clauses (also indicating location) use būt as well, but it is treated as the head of the clause and tagged [VERB]().
+The copula verb _byut_ "be" is used in equational and attributional nonverbal clauses. Purely existential clauses (also indicating location) use būt as well, but it is treated as the head of the clause and tagged [VERB]().
 
 ### Relations Overview
 
@@ -111,12 +111,7 @@ The following relation subtypes are used in Latgalian:
 
 The following relation types are not used for Latgalian: [clf](), [dislocated](), [list](), [reparandum](). However, `reparandum` should be introduced in future, as appropriate speech texts are annotated.
 
-*
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
