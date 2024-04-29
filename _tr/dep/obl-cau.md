@@ -8,8 +8,10 @@ udver: '2'
 This subtype of [obl]() is used for marking the performer of the real action,
 "causee", in a causative predicate.
 The subject of the causative predicate is the actor
-who _causes_ the action to be taken.
-It is related to [obl-agent](),
+who _causes_ the action to be taken,
+while actor (the "causee") is optinally specified by an oblique.
+
+This is related to [obl-agent](),
 marking the agent of a passive predicte.
 However, ths subtype is needed (if one wishes to mark the "causee")
 since passive and causative can be combined in Turkish.
