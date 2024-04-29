@@ -17,9 +17,9 @@ udver: '2'
 
 ### Lemmatisation
 
-* The lemma forms are the tranditional dictionary entry forms for Abkhaz, viz. the form with the generic article *а-* for nouns and adjectives, and the verbal noun (masdar, with generic article) for verbs. The lemma form of a predicate derived from a noun or an adjective is the underlying noun or adjective.
+* The lemma forms are the tranditional dictionary entry forms for Abkhaz, viz. the form with the generic article *а-* for nouns and adjectives, and the verbal noun (masdar, with generic article) for verbs. The lemma form of a predicate derived from a noun or an adjective is the underlying noun or adjective. As is customary in Abkhaz dictionaries, the generic article is set off by a hyphen.
 * All lemmas are marked by stress, which is a distinctive feature in Abkhaz (with many minimal pairs that differ only in stress position).
-* There is limited morpheme segmentation, separating the generic article from the stem, and for verbs, segmentation into article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), masdar ending (*-ра*), as: *а-(PV·)(р:)STEM-(заа-)ра*.
+* For verb lemmas, limited morpheme segmentation is available in the MISC column, marked with the feature LMSeg. Verb lemmas are segmented into generic article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), and masdar ending (*-ра*), as: *а-(PV·)(р:)STEM-(заа-)ра*. (Example: *а-ҽ·а·зы́·ҟа·ҵа-ра*, *а-р:ба-ра́*).
 
 ### Tags
 
@@ -84,11 +84,6 @@ Cardinal numbers in Abkhaz can optionally be prefixed to a noun. In such cases, 
 
 * The features `Clusivity,`, `Degree,`, `Foreign,`, `NounClass,`, `Polite,`, `Reflex,`, `Typo` are not in use.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 Abkhaz is a polysynthetic, head-marking language; all core arguments (subject, direct, indirect, locational, relational objects, causee), in addition to inner reflexives and reciprocals, are cross-referenced in the verb by prefixes. The language is morphologically ergative, which is apparent from the function of the argument prefixes (e.g., the column-I prefix marks the subject in intransitive verbs, but the direct object in transitive verbs). Case-marking is lacking, but the prefixes agree in person, number, gender and animacy with their arguments.
@@ -107,13 +102,12 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [obj:po]() potential object.
   * [obj:poss]() possessive object, cross-referenced by a possessive marker.
   * [ccomp:obj]() clausal complement cross-referenced by a direct object marker.
-  * [ccomp:lo]() clausal complement cross-referenced by a local object marker.
-  * [ccomp:ro]() clausal complement cross-referenced by a relational object marker.
   * [ccomp:quote]() direct speech clause introduced by *ҳәа* and cross-referenced by the direct object marker of a speech verb
   * [ccomp:purp]() purposive clausal complement.
   * [xcomp:obj]() open clausal complement cross-referenced by a direct object marker.
   * [xcomp:lo]() open clausal complement cross-referenced by a local object marker.
   * [advcl:cond]() conditional adverbial clause.
+  * [advcl:purp]() purposive adverbial clause.
   * [advcl:conv]() dependent clause headed by a converb.
   * [advcl:compar]() dependent clause headed by a nonfinite verb with the AsIf marker.
   * [advcl:compar]() dependent purposive clause.
@@ -122,8 +116,6 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [acl:relcl]() relative clause complement.
   * [compound:prt]() particle compound.
   * [compound:pred]() connects two (or more) parts of a multi-word predicate.
-
----
 
 ## Treebanks
 

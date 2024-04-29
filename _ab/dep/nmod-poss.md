@@ -15,7 +15,7 @@ The `nmod:poss` relation marks a nominal modifier that is referenced by a posses
 2	агыгшәыгқәа	а-гыгшәы́г	NOUN	_	Animacy=Nhum|Definite=Def|Number=Plur	3	nmod:poss	_	_
 3	руак	руакы́	PRON	_	Animacy=Nhum|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Ind	4	nsubj	_	_
 4	Алым	Алым	PROPN	_	NameType=Geo	0	root	_	_
-5	акәын	а́кә-заа-ра	AUX	_	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+5	акәын	а́кәзаара	AUX	_	Dyn=No|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
