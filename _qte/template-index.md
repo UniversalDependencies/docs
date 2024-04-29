@@ -6,54 +6,39 @@ udver: '2'
 
 # UD for Telugu English <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
+In genral, the Telugu-English code-switched treebank follows the guidelines of invidiual Telugu and English treebanks. 
+
+## Language IDs
+- All sentences in the treebank include at least one code-switch. The language information of tokens are represented in the `MISC` column. 
+- The values in the `MISC` column are: te for Telugu, en for English, and univ for punctuation and symbols.
+
 ## Tokenization and Word Segmentation
+- In general, words are delimeted by whitespace characters or punctuation. 
+- Puncuation are tokenized as separate tokens, with the exception of abbreviations and hyphenated compounds. 
+- There are no multiword tokens. 
 
-*
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
+- Telugu uses 14 of the 17 universal POS tags. There are no auxiliary verbs, symbols, and unknown words. 
+- English uses all 17 universal POS tags. 
+- The Telugu `PRON` vs `DET` distinction is based on word lists. 
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
-*
+- The treebank uses the features of inidividual [Telugu](https://github.com/UniversalDependencies/docs/blob/pages-source/_te/index.md) and [English](https://github.com/UniversalDependencies/docs/blob/pages-source/_en/index.md) treebanks.
+- The new features in this treebank are `Lang`, as described in the Language IDs section.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
-*
+- The treebank uses the standard syntax of inidividual [Telugu](https://github.com/UniversalDependencies/docs/blob/pages-source/_te/index.md) and [English](https://github.com/UniversalDependencies/docs/blob/pages-source/_en/index.md) treebanks.
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
-There are [N](../treebanks/qte-comparison.html) Telugu English UD treebanks:
+There is [1](../treebanks/qte-comparison.html) Telugu English UD treebank:
 
-  * [Telugu English-A](../treebanks/qte_a/index.html)
-  * [Telugu English-B](../treebanks/qte_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Telugu-English](../treebanks/qte_a/index.html)
