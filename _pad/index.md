@@ -10,9 +10,6 @@ udver: '2'
 
 *
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
 - In general, words are delimited by whitespace characters.
 - Every sentence has a special line in the comment section named 'text_seg' that states morpheme boundaries within words. This layer is taken from the article on Paumari by Chapman and Derbyshire in the Handbook of Amazonian Languages (1991), Vol.3 (https://doi.org/10.1515/9783110854374).
 
