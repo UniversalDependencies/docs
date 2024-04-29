@@ -9,7 +9,7 @@ udver: '2'
 
 ### Definition
 
-Classical Armenian has the following auxiliary verbs: _եմ_/_em_ “to be”, its perfective counterpart _լինիմ_/_linim_ (“to become”), the negated copula _չիք_/_čʽikʽ_ (“there is no”), and the causative auxiliary _տամ_ (“to give”).
+Classical Armenian has the following auxiliary verbs: _եմ_/_em_ ‘to be’, its perfective counterpart _լինիմ_/_linim_ (‘to become’), the negated copula _չիք_/_čʽikʽ_ (‘there is no’), and the causative auxiliary _տամ_ (‘to give’).
 -  The auxiliaries _եմ_ and _լինիմ_ are used in the following constructions:
    * The copula with non-verbal predicates, including predicates of location.
    * Periphrastic perfect/resultative (see Meyer 2023 with bibliography):
@@ -21,10 +21,10 @@ Classical Armenian has the following auxiliary verbs: _եմ_/_em_ “to be”, i
 
 ### Examples
 
-- Copula: _եին արդարք_ / _ein ardarkʻ_ “they were righteous”
+- Copula: _եին արդարք_ / _ein ardarkʻ_ “they were righteous” (Luke 1:6)
 - Negated copula: _չիք ոք բարի_ / _čʻikʻ okʻ bari_ “none is good” (Luke 18:19)
-- Periphrastic tenses: _զայն նշան տուեալ էր նոցա_ / _zayn nšan toweal ēr nocʻa_ "this sign was given to them" (Luke 22:47)
-- Periphrastic causative: _ետ տանել զնա առ Հէրովդէս_ / _et tanel zna aṙ Hērovdēs_ "he sent him to Herod" (Luke 23:7)
+- Periphrastic tenses: _զայն նշան տուեալ էր նոցա_ / _zayn nšan toweal ēr nocʻa_ “this sign was given to them” (Luke 22:47)
+- Periphrastic causative: _ետ տանել զնա առ Հէրովդէս_ / _et tanel zna aṙ Hērovdēs_ “he sent him to Herod” (Luke 23:7)
 
 ### References
 
