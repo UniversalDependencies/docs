@@ -10,20 +10,16 @@ udver: '2'
 Determiners are words that modify [nouns](NOUN) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc. Under this definition, determiners include _articles_ and _pronominal adjectives_. 
 In Classical Armenian, the tag [DET]() is used for: 
 - demonstrative/possessive particles;
-- determinate direct object proclitic _զ_=/_z_= (tradictionally called _nota accusativi_);
 - pronominal adjectives, including indefinite pronominal adjectives;
 - quantifiers.
   
 Adjectival pronouns and pronominal quantifiers are traditionally included into pronouns. However, the tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase in UD. Pronominal adjectives of animate and inanimate indefinite pronouns inflect for [Animacy]() and [Definite]() morphological features.
 
-When the proclitic _զ_=/_z_= is used with other cases than the accusative, it does not have a clear determiner function and is tagged [ADP]() with the [case]() relation.
-
 ### Examples
 
 - demonstrative/possessive particles: =_ս_/=_s_, =_դ_/=_d_, =_ն_/=_n_
-- determinate direct object proclitic: _զ_=/_z_=
-- pronominal adjectives, including indefinite pronominal adjectives: _իմ_/_im_ “my”, _ոմն_/_omn_ “certain”
-- quantifiers: _մի_/_mi_ “certain”, _ամենայն_/_amenayn_ “every”, _բազում_/_bazowm_ “many”
+- pronominal adjectives, including indefinite pronominal adjectives: _իմ_/_im_ ‘my’, _ոմն_/_omn_ ‘certain’
+- quantifiers: _մի_/_mi_ ‘certain’, _ամենայն_/_amenayn_ ‘every’, _բազում_/_bazowm_ ‘many’
 
 ### References
 
