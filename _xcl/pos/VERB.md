@@ -26,11 +26,11 @@ Finite verbs can be marked for: [Person](), [Number](), [Aspect](), [Mood](), [P
 
 ### Examples
 
-- Finate verb: _գրեմ_/_grem_ “I write”
-- Infinitive: _գրել_/_grel_ “to write”
-- Converb: _գալոց_/_galocʽ_ “for coming”
-- Participle: _մտեալ_/_mteal_ “entering”
-- Verbal noun: _գրել_/_grel_ “writing”
+- Finate verb: _գրեմ_/_grem_ ‘I write’
+- Infinitive: _գրել_/_grel_ ‘to write’
+- Converb: _գալոց_/_galocʽ_ ‘for coming’
+- Participle: _մտեալ_/_mteal_ ‘entering’
+- Verbal noun: _գրել_/_grel_ ‘writing’
 
 ### References
 
