@@ -82,6 +82,24 @@ Latgalian features rich set of deverbal derivations and not everything has been 
 * [Evident]() applies to finite verb forms (`VERB`, `AUX`) and depends on value of `Mood`: quotatives have value `Nfh`, but indicative have value `Fh`.
 
 
+#### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns [PRON](), determiners [DET]() and pronominal adverbs [ADV]() with 8 permissible values: `Prs`, `Rcp`, `Int`, `Rel`, `Dem`, `Tot`, `Neg`, `Ind`.
+* [NumType]() is used with numerals (also cardinal numbers) NUM[](), ordinal numbers [ADJ](), and some adverbs [ADV]():
+    * Numerals and ordinal numbers has one of three possible values: `Card`, `Ord` or `Frac`.
+    * Adverbs _vīnreiz_ "once", _divreiz_ "twice", _treisreiz_ "thrice", _četrreiz_, _pīcreiz_, _sešreiz_, _septeņreiz_, _ostoņreiz_, _deveņreiz_, _desmitreiz_ "ten times" has `NumType=Mult`.
+* The [Poss]() feature marks possessive personal pronouns and determiners (e.g., _muns_ "my") and possessive adjectives (e.g., _tovejs_ "yours") with value `Yes`.
+* The [Reflex]() feature marks reflexive pronouns _seve_, _sevi_.
+    * Reflexivity is also marked on reflexive verbs and participles ([VERB](), e.g., _apsamozguot_, _mozguotīs_, _apsavāruse_, _vārusīs_).
+* [Person]() is marked for pronouns and finite verbs and has three values: `1`, `2` and `3`.
+    * It is a lexical feature of personal pronouns `PRON` like _es_ "I", _tu_ "you" (singular), _jis_ "he", _jei_ "she", _mes_ "we", _jius_ "you" (plural), _jī_ "they" (plural, masculine), _juos_ "they" (plural, feminine).
+    * It is a lexical feature of personal possessives `DET`/`PRON` _muns_, _munejs_, _munejais_ "my/mine", _tovs_, _tovejs_, _tovejais_ "your/yours" (singular), _myusejs_, _myusejais_ "our/ours", _jiusejs_, _jiusejais_ "your/yours" (plural).
+    * `Person` is also marked on some demonstrative pronouns with value `3`.
+    * As a cross-reference to subject, person is also marked on finite verbs (`VERB`, [AUX]()).
+* [Foreign]() is annotated `Yes` for foreign words [X]().
+* [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_gūd._ "honored"), `VERB` (_sal._ "compare"), `ADV` (_p.Kr._ "anno Domini"), `SYM` (_v.tml._ "etc.").
+
+
 ## Syntax
 
 ### Core Arguments
@@ -112,16 +130,15 @@ The following relation subtypes are used in Latgalian:
 The following relation types are not used for Latgalian: [clf](), [dislocated](), [list](), [reparandum](). However, `reparandum` should be introduced in future, as appropriate speech texts are annotated.
 
 
-
 ## Treebanks
 
 There is [1](../treebanks/ltg-comparison.html) Latgalian UD treebank:
 
   * [Latgalian-Cairo](../treebanks/ltg_cairo/index.html)
 
----
+[---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
 from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
 and the treebank code in the file name.
 
----
+---](url)
