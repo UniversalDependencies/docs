@@ -12,12 +12,12 @@ This is a, work-in-progress, short introduction of the UD annotation for Ottoman
 
 * In general, words are delimited by whitespace characters and punctuation.
 * Whitespaces or punctuation may appear in some abbreviations or numeric expressions.
-* Arabic noun phrases that are transcribed without any space (e.g. "nizâmü’l-mülk") are treated as two separate words. However, Idiomatic expressions such as "ve’s-selâm" are considered as an exception to this rule and represented via only one token.
+* Arabic noun phrases that are transcribed without any space (e.g. "_nizâmü’l-mülk_") are treated as two separate words. The cutoff is based on the common orthographic pattern such that "_nizâm_ / _ü'l-mülk_". However, Idiomatic expressions such as "_ve’s-selâm_" are considered as an exception for this rule and represented via only one token.
 * Clitics are treated as a separate words. This includes
     the clitics that follow word-internal processes (e.g., vowel
     harmony) such as question clitic  _mI_ and  adverbial _DA_.
     The rule applies even if the clitic is written together with the last morpheme
-   without any space and multitoken words have been introduced for such cases.
+   without any space. For such cases, multitoken words have been used for tokenization.
 * Due to the interaction of syntax and rich morphology,
     the following list  affixes introduce new "syntactic words".
         - Copular suffix attached to nouns or adverbs (if not null),
