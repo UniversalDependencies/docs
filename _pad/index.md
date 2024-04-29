@@ -8,8 +8,6 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
-
 - In general, words are delimited by whitespace characters.
 - Every sentence has a special line in the comment section named 'text_seg' that states morpheme boundaries within words. This layer is taken from the article on Paumari by Chapman and Derbyshire in the Handbook of Amazonian Languages (1991), Vol.3 (https://doi.org/10.1515/9783110854374).
 
@@ -18,11 +16,6 @@ udver: '2'
 ## Morphology
 
 ### Tags
-
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
 - CCONJ is not used. According to the glosses used in Chapman and Derbyshire (1991), conjunctions are not overtly expressed but rather inferred from context.
 - Moreover, no word is tagged as PART, SYM or X.
@@ -37,11 +30,6 @@ udver: '2'
 ---
 
 ### Features
-
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
 - At its current state, this treebank does not have any annotation of morphological features other than indicated via the information provided in the lines 'text_seg' and 'hb_glosses' in the comment section of each conllu representation.
 
