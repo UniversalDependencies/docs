@@ -7,16 +7,15 @@ udver: '2'
 
 ### Definition
 
-Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g.  [adpositions](ADP), [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
-or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense etc.
+Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech. Particles may encode grammatical categories such as negation, mood, tense etc.
  
 In UD_Classical_Armenian-CAVaL, the tag is used restrictively when no other tag is applicable. Other words, which are termed as particles in the tranditional grammar of Classical Armenian are tageed as adverbs, determiners, and conjunctions.
 
 ### Examples
 
-- Emphatic particle: _իսկ_
-- Negation particle: _ոչ_ (and its proclitic variant _չ=_), _մի_
-- Mood particle: _գուցէ_, _եթե_ (and its variant _թե_)
+- Emphatic particle: _իսկ_/_isk_
+- Negation particle: _ոչ_/_očՙ_ (and its proclitic variant _չ=_/_čՙ_), _մի_/_mi_
+- Mood particle: _գուցէ_/_gowcՙē_, _եթե_/_etՙe_ (and its variant _թե_/_tՙe_)
 
 ### References
 
