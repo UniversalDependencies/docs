@@ -272,7 +272,7 @@ He made me work
 
 ## Syntax
 
-Bororo is an ergative language. S, A, and O are marked by the same set of bound indexes. But the construction where S and O appear are the same, i.e, they attach to the predicate. 
+Bororo is an ergative language. S, A, and O are marked by the same set of bound indexes. But the construction where S and O appear are the same, i.e, they attach to the predicate.
 
 S is always marked by a bound index which carries TMA and negation markers, detached from the predicate. 
 
