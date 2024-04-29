@@ -9,16 +9,15 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 
-* Bororo uses all 18 [UPOS](https://universaldependencies.org/u/pos/index.html).
+* Bororo uses 17 [UPOS](https://universaldependencies.org/u/pos/index.html), `adj` is not used.
 * Tokenization and semgmentatoin in Bororo is straightforward. There are no multiwords that require spaces or dashes.
-* Words are delimited by whitespace characters. .
+* Words are delimited by whitespace characters.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. These are tokenized as separate tokens (words).
 
 Mapping UPOS to XPOS Bororo
 
  UPOS | XPOS |
 :----: | :------: |
- ADJ   | adj      |
  ADV   | adv      |
  INTJ  | intj     |
  NOUN  | n        |
@@ -30,7 +29,7 @@ Mapping UPOS to XPOS Bororo
  DET   | det      |
  NUM   | num      |
  PART  | pcl      |
- PRON  | pron, bi |
+ PRON  | pron, bi (bound index) |
  SCONJ | sc       |
  PUNCT | punct    |
  SYM   | sym      |
@@ -43,8 +42,14 @@ Mapping UPOS to XPOS Bororo
 
 ### POS
 
-Bororo POS is a straight forward question if one bear in mind a tyological approach, for example, as in Croft (2022: chap. 2). The basic princple is that either roots function work as predicates or as arguments. Depending on the function, they will appear in a specifi slot and combine with specific morphology. This issue is made simpler if one considers that different types of predication are collapsed in Bororo into a single construction. In the example below, the predication could be takes as possessive or existential.
+Bororo POS is a straight forward question: lexical roots are not marked if used referentially, but marked in case they function as predicates, independent of semantics (object-, property-, or action-word). Depending on the function Croft (2022: chap. 2).
 
+```
+Imuga
+i=muga
+1.SG=mother
+My mother
+```
 ```
 Imugare
 i=muga-re
@@ -94,7 +99,7 @@ Single women
 
 #### Number
 
-There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -*edu*, substituting the last vowel by -*e*, adding *e* to the singular form, adding -*doge* to the stem, adding -*ge* to nouns ending in -*rewy*, -*wy*, -*epa*, -*are*. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural. What all plural forms have in common, is the ending -_e_ of all plural forms.
+There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -*edu*, substituting the last vowel by -*e*, adding *e* to the singular form, adding -*doge* to the stem, adding -*ge* to nouns ending in -*rewy*, -*wy*, -*epa*, -*are*, adding -_mage_ to some kinship terms. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural. What all plural forms have in common, is the ending -_e_ of all plural forms.
 
 
 There are words which have irregular plural forms, bein shorter in the plural that in the singular.
@@ -137,18 +142,33 @@ a=paro
 Your axe
 ```
 
+A set of nouns are used in classifier functions in order to make unpossessed nouns possessed:  
+
+_o_ ‘property’ 
+
+_ke_ ‘food’
+
+_aku_ ‘domestic animal’
+
+_imo_ ‘ornament’
+
+_kuie_ ‘necklace’
+
+_kudawy_ ‘rug, clothe’
 
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+```
+Ike pobo
+i=ke pobo
+1SG=food water
+My water
+```
+
+
 
 PART is used for a conditional particle `ma`, for a focal particle `na` 
 
 
-
-
-
-Bororo has no copula and no auxiliary verbs.
 
 
 ---
