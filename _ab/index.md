@@ -9,8 +9,11 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * All punctuation from the original text is kept.
+
 * Tokenization is based on whitespace and punctuation.
+
 * No words with spaces or multiword tokens do occur.
+
 * No clitics are split off.
 
 ## Morphology
