@@ -135,10 +135,3 @@ The following relation types are not used for Latgalian: [clf](), [dislocated]()
 There is [1](../treebanks/ltg-comparison.html) Latgalian UD treebank:
 
   * [Latgalian-Cairo](../treebanks/ltg_cairo/index.html)
-
-[---
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----](url)
