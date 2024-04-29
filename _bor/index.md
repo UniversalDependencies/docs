@@ -201,6 +201,16 @@ pa=ty-wo
 Let's go!
 ```
 
+The `optative mood` is marked by -_ia_
+
+```
+Taregodyia
+ta=aregody-ia
+2.PL=arrive-OPT
+'May you come'
+```
+
+
 ### Status (Tense)
 
 Bororo does not have a tense marker, but the future is expressed by the irrealis status marker -_mody_ followed by the indicative marker, resulting in -_mode_. The negation intervenes between status and mood.
