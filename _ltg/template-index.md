@@ -45,9 +45,9 @@ _Byut_ may still occur as normal [VERB]() if it is used in purely existential se
 
 Verbs with modal meaning are not considered auxiliary in Latgalian.
 
-#### Deverbal Nouns, Participles, Coverbs **TODO**
+#### Deverbal Nouns, Participles, Coverbs
 
-Latgalian features rich set of deverbal derivations and not everything has been analized to align with UD guidelines yet. However, deverbal nouns with endings _-šona_, _-šonuos_ (_skrīšona_ "running") are tagged as [NOUN](). Most converbs with endings _-ot_, _-oties_, _-am_, _-ām_, _-amies_, _-āmies_, _-dams_, _-dama_, _-dami_, _-damys_, _-damīs_, _-damuos_ are tagged as `VERB` or `AUX`. Most adjectival participles (_radzams_, _aizguojs_, _nagaideits_, _valkūšs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _prūtams_ "of course", _acimredzūt_ "obvious", which are tagged as `PART`, and _īspiejams_ "possible", which is tagged as `ADJ`.
+Latgalian features rich set of deverbal derivations and not everything has been analized to align with UD guidelines yet. However, deverbal nouns with endings _-šona_, _-šonuos_ (_skrīšona_ "running") are tagged as [NOUN](). Most converbs with endings _-ūt_,  _-ūts_, _-ūte_, _-ūtīs_, _-om_, _-omīs_, _-dams_, _-dama_, _-damīs_, _-damuos_ are tagged as `VERB` or `AUX`. Most adjectival participles (_radzams_, _aizguojs_, _nagaideits_, _valkūšs_) are tagged as `VERB`.  Exceptions are lexicalized uses with separate meaning, like _prūtams_ "of course", _acimredzūt_ "obvious", which are tagged as `PART`, and _īspiejams_ "possible", which is tagged as `ADJ`.
 
 
 ### Features
