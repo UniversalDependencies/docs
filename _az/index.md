@@ -61,7 +61,6 @@ marker) + (Mood marker) + {(Imperfective Aspect marker) + (Perfective Aspect mar
     
 ### Relations Overview
 * The following relation subtypes are used in Azerbaijani:
-  * `nmod:loc` for locative nominals
   * `compound:redup` for reduplicated compounds
   * `csubj:outer` for outer clause clausal subject
   * `nsubj:outer` outer clause nominal subject
