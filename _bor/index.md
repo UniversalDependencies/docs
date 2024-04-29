@@ -64,6 +64,9 @@ i=rekody-re
 I ran/there is my running/My running exists
 ```
 
+PART is used for some morphemes, such as the conditional particle _ma_, the focal particle _na_ 
+
+
 #### Gender
 
 The gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males are masculine and females are feminine, but this is not morphologically marked. Inanimate nouns are genderless but morphologically they follow the masculine pattern (in case there are modifiers). Modifiers mark gender (by agreement), but only the feminine singular is marked.
@@ -163,11 +166,6 @@ i=ke pobo
 1SG=food water
 My water
 ```
-
-
-
-PART is used for a conditional particle `ma`, for a focal particle `na` 
-
 
 
 
