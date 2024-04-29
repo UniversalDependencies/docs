@@ -25,4 +25,14 @@ The speaker has first-hand evidence for the statement/event.
 * _үйгө кетиши керек_ 'she/he has to go home'
 * _үйүнө кеткен болчу_ 'she/he had gone home'
 
+### <a name="Nfh">`Nfh`</a>: non-first hand
+
+This is the default.
+The speaker has first-hand evidence for the statement/event.
+
+#### Examples
+(cf. the same examples below for `Nfh`)
+
+* _жамгыр жааптыр_ '(evidently) it was raining'
+
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:44 CET -->
