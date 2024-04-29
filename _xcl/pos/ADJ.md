@@ -15,9 +15,9 @@ Although participles have adjectival features they are treated as forms of the v
 
 ### Examples
 
-- _ուրախ_/_owrax_ “glad”
-- _լսելի_/_lseli_ “audible”
-- _առաջին_/_aṙaǰin_ “first”, _երկրորդ_/_erkrord_ “second”, _չորրորդ_/_čʻorrord_ “forth”
+- _ուրախ_/_owrax_ ‘glad’
+- _լսելի_/_lseli_ ‘audible’
+- _առաջին_/_aṙaǰin_ ‘first’, _երկրորդ_/_erkrord_ ‘second’, _չորրորդ_/_čʻorrord_ ‘forth’
 
 ### Declension of adjectives
 
