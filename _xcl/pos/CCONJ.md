@@ -13,9 +13,9 @@ For _subordinating conjunctions,_ see [SCONJ]().
 
 ### Examples
 
-- _եւ_/_ew_ “and”
-- _կամ_/_kam_ “or”
-- _բայց_/_baycʻ_ “but”
+- _եւ_/_ew_ ‘and’
+- _կամ_/_kam_ ‘or’
+- _բայց_/_baycʻ_ ‘but’
 
 ### References
 
