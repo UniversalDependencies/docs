@@ -106,7 +106,7 @@ This is an overview only.
 ### Non-verbal Clauses
 * The copula (_եմ_/_լինիմ_) and it's negated variant (_չիք_) are used in the following non-verbal clauses:
 	* equational (_ես <b>եմ</b> Գաբրիէղ_ / _es <b>em</b> Gabriēł_ "I am Gabriel", Luke 1:19)
-	* attributional (_նա քաղցր <b>է</b> ի վերայ չարաց_ / _na k῾ałc῾r <b>ē</b> i veray č῾arac῾_ "he is kind unto the evil", Luke 6:35; _<b>չիք</b> ինչ ծածուկ. որ ոչ յայտ լիցի_ / _<b>č῾ik῾</b> inč῾ cacowk. or oč῾ yayt lic῾i_ "for nothing is secret that shall not be made manifest", Luke 8:17)
+	* attributional (_նա քաղցր <b>է</b> ի վերայ չարաց_ / _na k῾ałc῾r <b>ē</b> i veray č῾arac῾_ "he is kind unto the evil", Luke 6:35; _<b>չիք</b> ինչ ծածուկ. որ ոչ յայտ լիցի_ / _<b>č῾ik῾</b> inč῾ cacowk, or oč῾ yayt lic῾i_ "for nothing is secret that shall not be made manifest", Luke 8:17)
 	* locative (_եւ <b>էր</b> յանապատս մինչեւ յաւր երեւելոյն նորա Իսրայեղի_ / _ew <b>ēr</b> yanapats minč῾ew yawr ereweloyn nora Israyełi_ "and was in the deserts till the day of his shewing unto Israel", Luke 1:80)
 	* possessive (_եւ նորա <b>էր</b> քոյր մի որում անուն էր Մարիամ_ / _ew nora <b>ēr</b> k῾oyr mi orowm anown ēr Mariam_ "and she had a sister called Mary", Luke 10:39)
 	* benefactory (_եւ սպանցէ զնոխազն զվասն մեղաց, որ վասն ժողովրդեանն <b>իցէ</b>_ / _ew spanc῾ē znoxazn zvasn mełac῾, or vasn žołovrdeann <b>ic῾ē</b>_ “then he shall slaughter the goat of the sin offering, which is for the people", Lev. 16:15)
