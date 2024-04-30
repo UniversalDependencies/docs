@@ -5,7 +5,7 @@ shortdef: 'gender of causee'
 udver: '2'
 ---
 
-This feature marks gender agreement of the verb with the indirect object or of postposition with its noun.
+This feature marks gender agreement of a causative verb with the causee.
 
 ### <a name="Masc">`Masc`</a>: Masculine
 
