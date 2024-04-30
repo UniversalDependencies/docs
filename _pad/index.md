@@ -47,13 +47,13 @@ udver: '2'
 - Core arguments, such as subjects and objects, were mainly identified via the provided glosses from [Chapman and Derbyshire (1991)](#chapman_derbyshire).
 	- Paumari is a pro-drop language, thus, there are many sentenecs without an overtly expressed subject.
  - The following subtypes are used in Paumari:
-	- acl:relcl for a relative clause modifier of a nominal
-	- advmod:emph for the particle 'vani' that expresses a contrast
-   	- advmod:lmod for an adverbial modifier specifying a location
-   	- aux:pass for the auxiliary in passive constructions
-   	- nmod:poss for a possessive nominal modifier
-   	- nsubj:pass for a passive nominal subject
-   	- obl:agent for the agent of a passive verb
+	- [acl:relcl](https://universaldependencies.org/u/dep/acl-relcl.html) for a relative clause modifier of a nominal
+	- [advmod:emph](https://universaldependencies.org/u/dep/advmod-emph.html) for the particle 'vani' that expresses a contrast
+   	- [advmod:lmod](https://universaldependencies.org/u/dep/advmod-lmod.html) for an adverbial modifier specifying a location
+   	- [aux:pass](https://universaldependencies.org/u/dep/aux-pass.html) for the auxiliary in passive constructions
+   	- [nmod:poss](https://universaldependencies.org/u/dep/nmod-poss.html) for a possessive nominal modifier
+   	- [nsubj:pass](https://universaldependencies.org/u/dep/nsubj-pass.html) for a passive nominal subject
+   	- [obl:agent](https://universaldependencies.org/u/dep/obl-agent.html) for the agent of a passive verb
    	
  - copula in nonverbal clauses?!
 
