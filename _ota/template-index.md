@@ -1,3 +1,4 @@
+
 ---
 layout: base
 title:  'Ottoman Turkish UD'
@@ -5,65 +6,45 @@ udver: '2'
 ---
 
 # UD for Ottoman Turkish <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
-
-This is a, work-in-progress, short introduction of the UD annotation for Ottoman Turkish.
+---
+This is a short introduction of the UD annotation for Ottoman Turkish.
 
 ## Tokenization and Word Segmentation
+---
+In general, tokens are delimited by whitespace characters and punctuation. This includes clitics and grammatical particles such as the ezafeh, “ki,” and the question clitic “mI.” Copulas can either be adjoined to words or be separate words, which determines whether they’re seen as distinct tokens or not.
 
-* In general, words are delimited by whitespace characters and punctuation.
-* Whitespaces or punctuation may appear in some abbreviations or numeric expressions.
-* Arabic noun phrases that are transcribed without any space (e.g. "_nizâmü’l-mülk_") are treated as two separate words. The cutoff is based on the common orthographic pattern such that "_nizâm_ / _ü'l-mülk_". However, Idiomatic expressions such as "_ve’s-selâm_" are considered as an exception for this rule and represented via only one token.
-* Clitics are treated as a separate words. This includes
-    the clitics that follow word-internal processes (e.g., vowel
-    harmony) such as question clitic  _mI_ and  adverbial _DA_.
-    The rule applies even if the clitic is written together with the last morpheme
-   without any space. For such cases, multitoken words have been used for tokenization.
-* Due to the interaction of syntax and rich morphology,
-    the following list  affixes introduce new "syntactic words".
-        - Copular suffix attached to nouns or adverbs (if not null),
-            including the conditional _-(y)sA_ and converbial _-(y)ken_
-        - _-ki_
 ## Morphology
-
-
-
+---
 ### Tags
 
-*
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
+The PART tag is used for the clitic “ki,” the particles “dA” and its archaic counterpart “dahi,” the comitative / instrumental particle “-(y)lA” and the conditional particle “-(y)sA” when they are separated from the word, and the ezafeh. The question particle “mI,” the nominal negation marker “değil,” the copular clitic “i-,” and occasionally, the verb “olmak,” which means “to be,” are tagged as AUX while other verbs are tagged as VERB. Quantifiers such as “bu,” “bir,” “o,” “hiçbir,” “bütün” are tagged as DET in prenominal positions while they are tagged as PRO when they act as standalone units. Personal pronouns, interrogative pronouns, and the reflexive pronoun “kendi” are tagged as PRO as well. Deverbal adjectives, which are commonplace due to the effect of Arabic triconsonantal root system on Ottoman Turkish, are sometimes tagged as NOUN.
 
 ### Features
 
-*
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+Nouns have the main inflectional features of Case, Number, and Person while the notable inflectional features of verbs are Aspect, Case (if nominalized), Evident, Mood, Number, Person, Polarity (negative or positive depending on the semantic content), Tense, VerbForm, and Voice. Subject-verb agreement through Number and Person are accurately reflected in the morphological features of nouns and verbs. One thing to note is that the feature Voice has two values (Cau and Pass) although a verb can carry both of those, which is not reflected in the features.
 
 ## Syntax
-
-*
-
 ---
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+The following relation subtypes are used in Ottoman Turkish:
+[advmod:emph]()
+[cc:preconj]()
+[compound:lvc]()
+[compound:redup]()
+[csubj:pass]()
+[dep:der]()
+[discourse:q]()
+[nmod:part]()
+[nmod:poss]()
+[nsubj:pass]()
+[obl:agent]()
+[obl:cau]()
 
----
 
 ## Treebanks
-
-There are [N](../treebanks/ota-comparison.html) Ottoman Turkish UD treebanks:
-
-  * [Ottoman Turkish-A](../treebanks/ota_a/index.html)
-  * [Ottoman Turkish-B](../treebanks/ota_b/index.html)
-
 ---
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
+As of UD 2.14, there is only one Ottoman Turkish UD treebank:
 
+  * [Ottoman Turkish-BOUN](../treebanks/ota_boun/index.html)
+  
 ---
