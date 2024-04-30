@@ -54,8 +54,6 @@ udver: '2'
    	- [nmod:poss](https://universaldependencies.org/u/dep/nmod-poss.html) for a possessive nominal modifier
    	- [nsubj:pass](https://universaldependencies.org/u/dep/nsubj-pass.html) for a passive nominal subject
    	- [obl:agent](https://universaldependencies.org/u/dep/obl-agent.html) for the agent of a passive verb
-   	
- - copula in nonverbal clauses?!
 
 ---
 
