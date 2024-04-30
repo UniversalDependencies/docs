@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 - In general, words are delimited by whitespace characters.
-- Every sentence has a special line in the comment section named 'text_seg' that states morpheme boundaries within words. This layer is directly taken from the article on Paumari by Chapman and Derbyshire in the [Handbook of Amazonian Languages](https://doi.org/10.1515/9783110854374) (1991), Vol.3 .
+- Every sentence has a special line in the comment section named 'text_seg' that states morpheme boundaries within words. This layer is directly taken from the article on Paumari by Chapman and Derbyshire in the <a id='chapman_derbyshire'></a>[Handbook of Amazonian Languages](https://doi.org/10.1515/9783110854374) (1991), Vol.3 .
 
 ---
 
@@ -17,7 +17,7 @@ udver: '2'
 
 ### Tags
 
-- CCONJ is not used. According to the glosses used in Chapman and Derbyshire (1991), conjunctions are not overtly expressed but rather inferred from context.
+- CCONJ is not used. According to the glosses used in [Chapman and Derbyshire (1991)](#chapman_derbyshire), conjunctions are not overtly expressed but rather inferred from context.
 - Moreover, no word is tagged as PART, SYM or X.
 - The remaining other 13 universal tags are used.
 - All words tagged AUX are verbal and can be divided into two categories:
