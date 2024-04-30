@@ -171,13 +171,7 @@ My water
 
 ---
 
-### Features
-
-*
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
+## Verbal morphology
 
 Roots fuctioning as predicates may combine with the following sufixes:
 
