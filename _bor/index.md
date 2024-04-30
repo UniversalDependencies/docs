@@ -167,11 +167,7 @@ i=ke pobo
 My water
 ```
 
-
-
 ---
-
-## Verbal morphology
 
 Roots fuctioning as predicates may combine with the following sufixes:
 
