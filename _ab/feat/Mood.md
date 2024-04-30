@@ -57,6 +57,12 @@ The feature marks the mood of the verb.
 
 * [ab] _саҳахьан_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Pqp`
 
+### <a name="Nec">`Nec`</a>: Necessitative
+
+#### Examples
+
+* [ab] _и-ҳ-а-у-ҳәа-<b>р.оуп</b>_ [Obj.3-LO.1Pl-Pv-Subj.2SgM-tell-Necess] ‘you have to tell it to us’ `Dyn=Yes|Gender[subj]=Masc|Mood=Nec|Number[lo]=Plur|Number[subj]=Sing|Person[lo]=1|Person[obj]=3|Person[subj]=2|Trans=Yes|VerbForm=Fin`
+
 ### <a name="Conj2">`Conj2`</a>: Conjunctive II
 
 #### Examples
