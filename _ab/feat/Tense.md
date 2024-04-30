@@ -45,11 +45,11 @@ The feature marks the tense of the verb.
 
 * [ab] _иҟалаз_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Imp`
 
-### <a name="Perf">`Perf`</a>: Perfect
+### <a name="Prf">`Prf`</a>: Perfect
 
 #### Examples
 
-* [ab] _с-аҳа-хье.ит_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘I have heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Perf|Trans=Yes|VerbForm=Fin`
+* [ab] _с-аҳа-хье.ит_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘I have heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Prf|Trans=Yes|VerbForm=Fin`
 
 ### <a name="Pqp">`Pqp`</a>: Plusquamperfect
 
