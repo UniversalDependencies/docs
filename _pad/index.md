@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 - In general, words are delimited by whitespace characters.
-- Every sentence has a special line in the comment section named 'text_seg' that states morpheme boundaries within words. This layer is directly taken from the article on Paumari by Chapman and Derbyshire in the Handbook of Amazonian Languages (1991), Vol.3 (https://doi.org/10.1515/9783110854374).
+- Every sentence has a special line in the comment section named 'text_seg' that states morpheme boundaries within words. This layer is directly taken from the article on Paumari by Chapman and Derbyshire in the [Handbook of Amazonian Languages](https://doi.org/10.1515/9783110854374) (1991), Vol.3 .
 
 ---
 
