@@ -44,10 +44,18 @@ udver: '2'
 
 ## Syntax
 
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+- Core arguments, such as subjects and objects, were mainly identified via the provided glosses from Chapman and Derbyshire (1991).
+	- Paumari is a pro-drop language, thus, there are many sentenecs without an overtly expressed subject.
+ - The following subtypes are used in Paumari:
+	- acl:relcl for a relative clause modifier of a nominal
+	- advmod:emph for the particle 'vani' that expresses a contrast
+   	- advmod:lmod for an adverbial modifier specifying a location
+   	- aux:pass for the auxiliary in passive constructions
+   	- nmod:poss for a possessive nominal modifier
+   	- nsubj:pass for a passive nominal subject
+   	- obl:agent for the agent of a passive verb
+   	
+ - copula in nonverbal clauses?!
 
 ---
 
