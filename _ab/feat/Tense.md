@@ -11,48 +11,48 @@ The feature marks the tense of the verb.
 
 #### Examples
 
-* [ab] _з-къвырман-<b>у</b>_ [REL.PR-sacrifice-<b>PRS.NFIN</b>] ‘whose sacrifice <b>is</b> ...’ `RelType=Pr|Tense=Pres|VerbForm=NonFin`
-
-* [ab] _р-чпа-<b>уа</b>_ [3Pl.ERG-do-<b>IPF</b>] ‘they are making’ `Number[erg]=Plur|Person[erg]=3|Tense=Pres|VerbForm=NonFin`
+* [ab] _с-у-фо-<b>ма</b>_ [DO.1Sg-Subj.2SgM-eat-<b>Pres.NonFin.Q</b>] ‘do you eat me?’ `Dyn=Yes|Gender[subj]=Masc|Mood=Int|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Tense=Pres|Trans=Yes|VerbForm=NonFin`
 
 ### <a name="Fut">`Fut`</a>: Future 1
 
 #### Examples
 
-* [ab] _и-с-фа-п_ [3.OBJ-1SG.SUBJ-eat-FUT1] ‘I will eat it’ `Tense=Fut1`
+* [ab] _и-с-фа-п_ [DO.3-Subj.1Sg-eat-<b>Fut1</b>] ‘I will eat it’ `Dyn=Yes|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Fut|Trans=Yes|VerbForm=Fin`
 
 ### <a name="Fut2">`Fut2`</a>: Future 2
 
 #### Examples
 
-* [ab] _и-р-фа-ша_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Fut2`
+* [ab] _и-р-фа-ша_ [DO.Rel-Subj.3Pl-eat-Fut2.NonFin] ‘what they are going to eat’ `Dyn=Yes|Number[subj]=Plur|Person[obj]=Rel|Person[subj]=3|Tense=Fut2|Trans=Yes|VerbForm=NonFin`
 
 ### <a name="Past">`Past`</a>: Past of static verbs or Past Indefinite of dynamic verbs
 
 #### Examples
 
-* [ab] _с-ца-н_ [1Sg.SUBJ-go-PAST] ‘they will eat it’ `Tense=Past`
+Dyn=Yes|Mood=Sub|Person[subj]=3|Tense=Past|Trans=No|VerbForm=Fin
+
+* [ab] _с-ца-<b>н</b>_ [Subj.1Sg-go-<b>Past</b>] ‘I went and …’ `Dyn=Yes|Number[subj]=Sing|Person[subj]=1|Tense=Past|Trans=No|VerbForm=Fin`
 
 ### <a name="Aor">`Aor`</a>: Aorist
 
 #### Examples
 
-* [ab] _иҳәеит_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Aor`
+* [ab] _и-л-ҳәе-<b>ит</b>_ [DO.3-Subj.3SgF-say-<b>Aor</b>] ‘she said it’ `Dyn=Yes|Gender[subj]=Fem|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
 
 ### <a name="Imp">`Imp`</a>: Imperfect
 
 #### Examples
 
-* [ab] _иҟалаз_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘they will eat it’ `Tense=Imp`
+* [ab] _с-ц<b>о-н</b>_ [Subj.1Sg-go-<b>Imp</b>] ‘I was going’ `Dyn=Yes|Number[subj]=Sing|Person[subj]=1|Tense=Imp|Trans=No|VerbForm=Fin`
 
 ### <a name="Prf">`Prf`</a>: Perfect
 
 #### Examples
 
-* [ab] _с-аҳа-хье.ит_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘I have heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Prf|Trans=Yes|VerbForm=Fin`
+* [ab] _ø-с-аҳа-<b>хье.ит</b>_ [Subj.3-IO.1Sg-hear-Perfect] ‘I have heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Prf|Trans=Yes|VerbForm=Fin`
 
 ### <a name="Pqp">`Pqp`</a>: Plusquamperfect
 
 #### Examples
 
-* [ab] _с-аҳа-хьа.н_ [3.OBJ-3Pl.SUBJ-eat-FUT2] ‘I had heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Pqp|Trans=Yes|VerbForm=Fin`
+* [ab] _ø-с-аҳа-<b>хьа.н</b>_ [Subj.3-IO.1Sg-hear-Pluperf] ‘I had heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Pqp|Trans=Yes|VerbForm=Fin`
