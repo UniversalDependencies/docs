@@ -10,7 +10,7 @@ udver: '2'
 
 
 * Bororo uses 17 [UPOS](https://universaldependencies.org/u/pos/index.html), `adj` is not used.
-* Tokenization and semgmentatoin in Bororo is straightforward. There are no multiwords that require spaces or dashes.
+* Tokenization and segmentation in Bororo is straightforward. There are no multiwords that require spaces or dashes.
 * Words are delimited by whitespace characters.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. These are tokenized as separate tokens (words).
 
@@ -69,7 +69,7 @@ PART is used for some morphemes, such as the conditional particle _ma_, the foca
 
 #### Gender
 
-The gender of nouns in Bororo follow the natural gender of the animate nouns, i.e., males are masculine and females are feminine, but this is not morphologically marked. Inanimate nouns are genderless but morphologically they follow the masculine pattern (in case there are modifiers). Modifiers mark gender (by agreement), but only the feminine singular is marked.
+The gender of nouns in Bororo follows the natural gender of the animate nouns, i.e., males are masculine and females are feminine, but this is not morphologically marked. Inanimate nouns are genderless but morphologically they follow the masculine pattern (in case there are modifiers). Modifiers mark gender (by agreement), but only the feminine singular is marked.
 
 ```
 Imedy koadyrewy
@@ -105,7 +105,7 @@ Single women
 There are different ways of forming the `plural` of nouns in Bororo: deleting the last syllables of nouns ending in -*edu*, substituting the last vowel by -*e*, adding *e* to the singular form, adding -*doge* to the stem, adding -*ge* to nouns ending in -*rewy*, -*wy*, -*epa*, -*are*, adding -_mage_ to some kinship terms. There are also instances of irregular plural forms, ablaut with change of final vowel, and some forms that do not vary in the plural. What all plural forms have in common, is the ending -_e_ of all plural forms.
 
 
-There are words which have irregular plural forms, bein shorter in the plural that in the singular.
+There are words which have irregular plural forms, being shorter in the plural than in the singular.
 
 _imedy_ 'man'     _ime_ 'men'
 _aredy_ 'woman'   _are_ 'women'
@@ -127,7 +127,7 @@ Person  |       Before consonant       | Before vowel          |
 3PL     | _e-_    | _et-_, _en-_, _ek-_       |
 3Anaf   |_tu-_, _pu-_ |_t-_, _tud-_, _pud-_,    |
 
-The first plural of person indexes distinguish between the values `Ex` (exclusive) and `In` (inclusive) for the feature `Clusivity`
+The first plural of person indexes distinguishes between the values `Ex` (exclusive) and `In` (inclusive) for the feature `Clusivity`
 
 * Nouns are either possessed or unpossessed. Possessed nouns are either alienably o inalienably possessed. Inalienably possessed nouns in Bororo are kinship terms, body parts and natural phaenomena.
 
@@ -274,7 +274,7 @@ a=aiwo-do-dy-re
 I was made to look
 ```
 
-The cuasative voice is marked by -_do_.
+The causative voice is marked by -_do_.
 
 ```
 ure imaragodydo
@@ -301,7 +301,7 @@ i-maragody=re
 I worked
 ```
 
-The A argument of transitive verbs is indexed on the mood or aspect marker, and the O argumend is bound to verb. 
+The A argument of transitive verbs is indexed on the mood or aspect marker, and the O argument is bound to the verb. 
 
 ```
 adygore emage ewido
@@ -327,7 +327,6 @@ The jaguar killed them
 
 Note, from the 3 previous examples above, that S as well as O are cliticized to the predicate, only A isn't. This is the reason why Bororo is considered an ergative language.
 
-
 In transitive clauses, nothing may intervene between the A argument and the O-predicate slot. Adjuncts follow the predicate and if they are fronted, they are morphologically marked, they have their own mood/illocutionary force.
 
 There is a clear preference for subordinate clauses to precede main clauses, as one would expect from a head-final language, although this is not obbligatory.
@@ -335,8 +334,36 @@ There is a clear preference for subordinate clauses to precede main clauses, as 
 
 ---
 
-
 * Nonverbal predication distinguish the following semantic types:
+
+Attributive: formed by juxtaposition of a Verbless Clause Complement VCC, a modifying word, combined with the declarative speech-act marker followed by a Verbless Clause Subject VCS.
+
+```
+Ekurire
+e=kuri-re
+3.pl-big=decl
+They are big
+```
+
+Identificational / specificational:  requires the aspectual nu and the indicative marker attached to the predicating element followed by the subject
+
+```
+Boenure imi
+boe-nu-re imi
+person-prog=ind I
+I am Bororo
+```
+
+Equational: subtype of identificational predication. 
+
+Existential: IF morpheme is attached to the predicating element. 
+
+```
+Karere
+kare-re
+fish=decl
+There is fish
+```
 
 ---
 
