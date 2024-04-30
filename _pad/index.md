@@ -17,7 +17,7 @@ udver: '2'
 
 ### Tags
 
-- CCONJ is not used. According to the glosses used in [Chapman and Derbyshire (1991)](#chapman_derbyshire), conjunctions are not overtly expressed but rather inferred from context.
+- `CCONJ` is not used. According to the glosses used in [Chapman and Derbyshire (1991)](#chapman_derbyshire), conjunctions are not overtly expressed but rather inferred from context.
 - Moreover, no word is tagged as PART, SYM or X.
 - The remaining other 13 universal tags are used.
 - All words tagged AUX are verbal and can be divided into two categories:
