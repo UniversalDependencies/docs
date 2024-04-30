@@ -61,14 +61,8 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/pad-comparison.html) Paumari UD treebanks:
+There is [one](../treebanks/pad-comparison.html) Paumari UD treebanks:
 
-  * [Paumari-A](../treebanks/pad_a/index.html)
-  * [Paumari-B](../treebanks/pad_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
+  * [Paumari-TueCL](../treebanks/pad_tucl/index.html)
 
 ---
