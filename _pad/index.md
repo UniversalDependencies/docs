@@ -29,7 +29,7 @@ udver: '2'
 	- 'baranahi' (e.g. HB_1.36) where the suffix 'hi' is used to turn the verb stem 'barana' (calling) into an adverb. The same is true for 'ki'darahihia' (e.g. HB_1.37) where the verb 'ki'daraha' (run) is adverbialised via the same suffix.
  	- 'afosiaga' (e.g. HB_3.53) where the adverbialiser prefix 'afo' prepends the verbal suffix 'siaga' (follow).
   	- The information on deriving adverbs from other word forms is taken from chapter 20 in Chapman and Derbyshire (1991).
-- Deverbal forms of a NOUN are commonly built with the suffix 'ha' (action) such as in
+- Deverbal forms of a NOUN are commonly built with the suffix 'ha' (action) such as in:
 	- 'ikapahahamaniki'i' (HB_3.55) where the noun 'paha' (water) is turned into a verb and translated as 'fetch water' (another example with the same pattern can be found in sentence HB_3.56). Similary, 'vaakairaha'aha' (HB_1.4), including the noun 'kaira' (guava), means 'fetch guava'.
 	- 'o-ka-va-pavakari-ha-vini' (HB_4.61) where the noun 'pavakari' (an article that is on sale) is verbalised and translated as 'buy'.
 	- 'vakanahahaniha'aha' (HB_4.63) where the noun 'hahani' (laugh) is used as a verb meaning '(to) laugh'.
