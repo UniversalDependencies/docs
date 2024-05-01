@@ -11,10 +11,10 @@ The feature marks whether a verb form is dynamic or static.
 
 #### Examples
 
-* [ab] _с-гыле-ит_ [1SG.SUBJ-stand.up-<b>AOR.DYN.FIN</b>] ‘I stood up’ `RelType=Pr|Tense=Pres|VerbForm=NonFin`
+* [ab] _с-гыле-<b>ит</b>_ [Subj.1Sg-stand.up-<b>Aor.Dyn.Fin</b>] ‘I stood up’ `Dyn=Yes|Number[subj]=Sing|Person[subj]=1|Tense=Aor|Trans=No|VerbForm=Fin`
 
 ### <a name="No">`No`</a>: No
 
 #### Examples
 
-* [ab] _с-гыло-уп_ [1SG.SUBJ-stand-<b>PRES.STAT.FIN</b>] ‘I am standing’ `Tense=Fut1`
+* [ab] _с-гыло-<b>уп</b>_ [Subj.1Sg-stand-<b>Pres.Stat.Fin</b>] ‘I am standing’ `Dyn=No|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin`

@@ -64,15 +64,16 @@ Person, Number and Gender are marked in the verb for a variety of syntactic func
 
 The following verbal features are used:
 
-* Gender[subj], Gender[obj], Gender[io], Gender[lo], Gender[ro], Gender[po], Gender[refl], Gender[cs]: `Fem`, `Masc`, `Neut`.
+* Gender[subj], Gender[obj]: `Fem`, `Masc`, `Com`, `Neut`.
+* Gender[io], Gender[lo], Gender[ro], Gender[po], Gender[refl], Gender[cs]: `Fem`, `Masc`, `Neut`.
 * Number[subj], Number[obj], Number[io], Number[lo], Number[ro], Number[po], Number[refl], Number[cs]: `Sing`, `Plur`.
 * Person[subj], Person[obj], Person[io], Person[lo], Person[ro], Person[po], Person[refl], Person[cs]: `1`, `2`, `3`, `Rel`, `Rec`.
 * VerbForm: `Fin`, `NonFin`, `Conv`, `Vnoun`.
 * VerbType: `Cop`.
 * Dyn: `Yes`, `No`.
 * Voice: `Cau`, `Inv`, `Pass`.
-* Aspect: `Iter`, `Perf`.
-* Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Pqp`.
+* Aspect: `Iter`.
+* Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Perf`, `Pqp`.
 * Mood: `Imp`, `Int`, `Opt`, `Prp`, `Sub`, `Cnd1`, `Cnd2`, `Conj1`, `Conj2`.
 * Polarity: `Neg`.
 * Evident: `Nfh`.
@@ -86,7 +87,7 @@ Cardinal numbers in Abkhaz can optionally be prefixed to a noun. In such cases, 
 
 ### Other Features
 
-* The features `Clusivity,`, `Degree,`, `Foreign,`, `NounClass,`, `Polite,`, `Reflex,`, `Typo` are not in use.
+* The features `Clusivity`, `Degree`, `Foreign`, `NounClass`, `Polite`, `Reflex`, `Typo` are not in use.
 
 ## Syntax
 

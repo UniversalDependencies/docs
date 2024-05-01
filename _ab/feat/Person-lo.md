@@ -11,28 +11,28 @@ This feature marks person agreement of the verb with the indirect object or of p
 
 #### Examples
 
-* [ab] _д-<b>сы</b>-з-гIа-р-г-х-тI_ [3SG.H.ABS-<b>1SG.IO</b>-BEN-CSL-3PL.ERG-carry-RE-DCL] ‘they carried him <b>to me</b>’ `Gender[abs]=Com|Number[abs]=Sing|Number[erg]=Plur|Number[io]=Sing|Person[abs]=3|Person[erg]=3|Person[io]=1|Tense=Aor|VerbForm=Fin`
+[ab] _и-ҳ-а-у-ҳәа-<b>р.оуп</b>_ [Obj.3-LO.1Pl-Pv-Subj.2SgM-tell-<b>Nec</b>] ‘you have to tell it to us’ `Dyn=Yes|Gender[subj]=Masc|Mood=Nec|Number[lo]=Plur|Number[subj]=Sing|Person[lo]=1|Person[obj]=3|Person[subj]=2|Trans=Yes|VerbForm=Fin`
 
 ### <a name="2">`2`</a>: Second Person
 
 #### Examples
 
-* [ab] _<b>швы</b>-з-гIа-з-г-х-пI_ [2PL.IO-BEN-CSL-1SG.ERG-carry-RE-NPST.DCL] ‘I carried <b>to you</b>’ `Number[erg]=Sing|Number[io]=Plur|Person[erg]=1|Person[io]=2|Tense=Fut2|VerbForm=Fin`
+* [ab] _(ø-)<b>у-наа</b>-ло-м_ [] ‘you cannot reconcile yourself <b>with it</b>’ `Dyn=Yes|Gender[lo]=Masc|Number[lo]=Sing|Person[lo]=2|Person[subj]=3|Polarity=Neg|Tense=Pres|Trans=No|VerbForm=Fin`
 
 ### <a name="3">`3`</a>: Third Person
 
 #### Examples
 
-* [ab] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`
+[ab] _д-<b>а</b>-ла-ло-ит_ [Subj.3Sg.Hum-<b>LO.3Sg.NonHum</b>-go.into-Pres.Fin] ‘he/she goes into <b>it</b>’ `Dyn=Yes|Gender[lo]=Neut|Gender[subj]=Com|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`
 
 ### <a name="Rel">`Rel`</a>: Relative Person marker
 
 #### Examples
 
-* [ab] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`
+* [ab] _у-<b>з</b>-ҿ-узеи_ [] ‘in what are you?’ `Dyn=No|Gender[subj]=Masc|Number[subj]=Sing|Person[lo]=Rel|Person[subj]=2|Tense=Pres|VerbForm=NonFin`
 
-### <a name="Rec">`Rec`</a>: Recursive Person marker
+### <a name="Rec">`Rec`</a>: Reciprocal Person marker
 
 #### Examples
 
-* [ab] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`
+* [ab] _(и-)еи-ды-р-кыло-з_ [] ‘which they compared to one another’ `Dyn=Yes|Number[subj]=Plur|Person[lo]=Rec|Person[obj]=Rel|Person[subj]=3|Tense=Imp|Trans=Yes|VerbForm=NonFin`
