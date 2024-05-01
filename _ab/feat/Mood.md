@@ -40,11 +40,14 @@ The feature marks the mood of the verb.
 * [ab] _д-хын.ҳәы-<b>ндаз</b>_ [Subj.3SgH-Pv.return-Opt] ‘may (s)he return’ `Dyn=Yes|Gender[subj]=Com|Mood=Opt|Number[subj]=Sing|Person[subj]=3|Tense=Aor|Trans=No|VerbForm=NonFin`
 
 
-### <a name="Conj">`Conj`</a>: Conjunctive I
+### <a name="Cnd">`Cnd`</a>: Conditional 1
+
+The Conditional 1 is used to form real or unreal conditions.
+It is different from the Conditional 1 Tense.
 
 #### Examples
 
-* [ab] _сы-ҟа-м-<b>зар</b>_ [Subj.1Sg-exist-Neg-<b>Conj</b>] ‘if I would not exist’ `Dyn=No|Mood=Conj|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Pres|VerbForm=NonFin`
+* [ab] _сы-ҟа-м-<b>зар</b>_ [Subj.1Sg-exist-Neg-<b>Cnd</b>] ‘if I would not exist’ `Dyn=No|Mood=Cnd|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Pres|VerbForm=NonFin`
 
 ### <a name="Nec">`Nec`</a>: Necessitative
 
@@ -52,9 +55,12 @@ The feature marks the mood of the verb.
 
 * [ab] _и-ҳ-а-у-ҳәа-<b>р.оуп</b>_ [Obj.3-LO.1Pl-Pv-Subj.2SgM-tell-<b>Nec</b>] ‘you have to tell it to us’ `Dyn=Yes|Gender[subj]=Masc|Mood=Nec|Number[lo]=Plur|Number[subj]=Sing|Person[lo]=1|Person[obj]=3|Person[subj]=2|Trans=Yes|VerbForm=Fin`
 
-### <a name="Conj2">`Conj2`</a>: Conjunctive II
+### <a name="Cnd2">`Cnd2`</a>: Conditional 2
+
+The Conditional 2 is used to form real or unreal conditions.
+It is different from the Conditional 2 Tense.
 
 #### Examples
 
-* [ab] _у-ҧш-<b>уазҭ.гьы</b>_ [Subj.2SgM-look-<b>Conj2</b>] ‘(even) if you look’ `Dyn=Yes|Gender[subj]=Masc|Mood=Conj2|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Trans=No|VerbForm=NonFin`
+* [ab] _у-ҧш-<b>уазҭ.гьы</b>_ [Subj.2SgM-look-<b>Cnd2</b>] ‘(even) if you look’ `Dyn=Yes|Gender[subj]=Masc|Mood=Cnd2|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Trans=No|VerbForm=NonFin`
 
