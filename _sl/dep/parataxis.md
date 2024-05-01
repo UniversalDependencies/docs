@@ -48,17 +48,7 @@ parataxis(victims,it-seems)
 cop(victims,will-be)
 ~~~
 
-The `parataxis` relation is also used for linking together the reported clause and the reporting clause in **reported speech**. Regardless of the order in which the reported clause and the reporting clause appear, the head of the relation is always the first clause in the sequence. 
-~~~ sdparse
-Takole se je glasil : " Ali mora kmet res vedno le ubogati ? " \n This REFLEX aux-PAST it-said : " Does have-to a-farmer really always only obey ? "
-parataxis(glasil,mora)
-parataxis(it-said,have-to)
-~~~
-~~~ sdparse
-" To je Victor , " je pojasnil Victor Riccio . \n " This is Victor , " aux-PAST explained Victor Riccio .
-parataxis(Victor-4,pojasnil)
-parataxis(Victor-16,explained)
-~~~
+The `parataxis` relation is also used for cases of **reported speech** where the reporting clause occurs in between two related parts of the reported clause. These cases are treated in the same way as parenthetical clauses.
 ~~~ sdparse
 " Nimam časa , " sem butasto bleknila , " ker moram na postajo . \n " I-do-not-have time , " aux-PAST stupidly I-said , " because I-have-to-go to station .
 parataxis(Nimam,bleknila)
@@ -74,5 +64,5 @@ parataxis(končali,Postojna-1)
 parataxis(ended,Postojna-12)
 ~~~
 
-Only parenthetical clauses with verbs receive the `parataxis` relation. See the discourse relation for more on parenthetical interjections (e.g., *Že vidimo, kajne, kako nam Kajn postaja bližji*). If an element is set off from the rest of the sentence by some type of punctuation mainly for adding stylistic emphasis—that is to say, it could function just as well within the sentence without the punctuation (for example, *Kolikor vem, ima ta beseda, vsaj pri večini ljudi, negativen prizvok* or *V minulih dveh tednih smo, res ne pretirano javno, pripravljali ukrepe*)—then the element is analyzed as an ordinary internal element, not as `parataxis`. 
+Only parenthetical clauses with verbs receive the `parataxis` relation. See the `discourse` relation for more on parenthetical interjections (e.g., *Že vidimo, kajne, kako nam Kajn postaja bližji*). If an element is set off from the rest of the sentence by some type of punctuation mainly for adding stylistic emphasis—that is to say, it could function just as well within the sentence without the punctuation (for example, *Kolikor vem, ima ta beseda, vsaj pri večini ljudi, negativen prizvok* or *V minulih dveh tednih smo, res ne pretirano javno, pripravljali ukrepe*)—then the element is analyzed as an ordinary internal element, not as `parataxis`. 
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:23 CET -->
