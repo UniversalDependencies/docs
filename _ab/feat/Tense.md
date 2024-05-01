@@ -25,6 +25,23 @@ The feature marks the tense of the verb.
 
 * [ab] _и-р-фа-ша_ [DO.Rel-Subj.3Pl-eat-Fut2.NonFin] ‘what they are going to eat’ `Dyn=Yes|Number[subj]=Plur|Person[obj]=Rel|Person[subj]=3|Tense=Fut2|Trans=Yes|VerbForm=NonFin`
 
+### <a name="Cnd">`Cnd`</a>: Conditional 1
+
+Past equivalent to Future 1.
+The Cnd is used in the apodosis for contrary-to-fact condictions.
+
+#### Examples
+
+* [ab] _и-з-л-и-х-<b>рыз</b>_ [DO.3-LO.Rel-Pv-Subj.3SgM-take.out-<b>Cnd1.NonFin</b>] ‘which he would take out’ `Dyn=Yes|Gender[subj]=Masc|Tense=Cnd|Number[subj]=Sing|Person[lo]=Rel|Person[obj]=3|Person[subj]=3|Tense=Cnd|Trans=Yes|VerbForm=NonFin`
+
+### <a name="Cnd2">`Cnd2`</a>: Conditional 2
+
+Past equivalent to Future 2.
+
+#### Examples
+
+* [ab] _д-ца-<b>ша</b>.м.<b>ызт</b>_ [Subj.3SgH-go-Neg.<b>Cnd2</b>] ‘(s)he would not have gone’ `Dyn=Yes|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Cnd2|Trans=No|VerbForm=Fin`
+
 ### <a name="Past">`Past`</a>: Past of static verbs or Past Indefinite of dynamic verbs
 
 #### Examples
@@ -56,3 +73,4 @@ Dyn=Yes|Mood=Sub|Person[subj]=3|Tense=Past|Trans=No|VerbForm=Fin
 #### Examples
 
 * [ab] _ø-с-аҳа-<b>хьа.н</b>_ [Subj.3-IO.1Sg-hear-Pluperf] ‘I had heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Pqp|Trans=Yes|VerbForm=Fin`
+
