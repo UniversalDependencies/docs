@@ -13,6 +13,8 @@ This feature marks person agreement of the verb with the inner reflexive object.
 
 * [ab] _с-ҽы-с-кәабо-ит_ [Refl.1Sg-Refl-Subj.1Sg-bathe.Pres] ‘I am bathing (myself)’ `Dyn=Yes|Number[refl]=Sing|Number[subj]=Sing|Person[refl]=1|Person[subj]=1|Tense=Pres|Trans=Yes|VerbForm=Fin`
 
+### <a name="2">`2`</a>: Second Person
+
 #### Examples
 
 * [ab] _<b>шә-ҽ</b>-аа-ны-шә-кыл(-ø)_ [<b>Refl.2Pl-Refl</b>-Mod-Pv-Subj.2Pl-restrain-Impv] ‘restrain <b>yourself.Pl</b>!’ `Dyn=Yes|Gender[lo]=Neut|Mood=Imp|Number[lo]=Sing|Number[refl]=Plur|Number[subj]=Plur|Person[lo]=3|Person[refl]=2|Person[subj]=2|Trans=Yes|VerbForm=Fin`
