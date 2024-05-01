@@ -21,7 +21,9 @@ udver: '2'
 ### Lemmatisation
 
 * The lemma forms are the tranditional dictionary entry forms for Abkhaz, viz. the form with the generic article *а-* for nouns and adjectives, and the verbal noun (masdar, with generic article) for verbs. The lemma form of a predicate derived from a noun or an adjective is the underlying noun or adjective. As is customary in Abkhaz dictionaries, the generic article is set off by a hyphen.
+
 * All lemmas are marked by stress, which is a distinctive feature in Abkhaz (with many minimal pairs that differ only in stress position).
+
 * For verb lemmas, limited morpheme segmentation is available in the MISC column, marked with the feature LMSeg. Verb lemmas are segmented into generic article, preverb(s), causative prefix (*р:*), stem, static suffix (*-заа-*), and masdar ending (*-ра*), as: *а-(PV·)(р:)STEM-(заа-)ра*. (Example: *а-ҽ·а·зы́·ҟа·ҵа-ра*, *а-р:ба-ра́*).
 
 ### Tags
@@ -68,22 +70,27 @@ The following verbal features are used:
 * Gender[io], Gender[lo], Gender[ro], Gender[po], Gender[refl], Gender[cs]: `Fem`, `Masc`, `Neut`.
 * Number[subj], Number[obj], Number[io], Number[lo], Number[ro], Number[po], Number[refl], Number[cs]: `Sing`, `Plur`.
 * Person[subj], Person[obj], Person[io], Person[lo], Person[ro], Person[po], Person[refl], Person[cs]: `1`, `2`, `3`, `Rel`, `Rec`.
-* VerbForm: `Fin`, `NonFin`, `Conv`, `Vnoun`.
-* VerbType: `Cop`.
+* VerbForm: `Fin`, `NonFin`, `Vnoun`.
 * Dyn: `Yes`, `No`.
 * Voice: `Cau`, `Inv`, `Pass`.
 * Aspect: `Iter`.
-* Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Perf`, `Pqp`.
-* Mood: `Imp`, `Int`, `Opt`, `Prp`, `Sub`, `Cnd1`, `Cnd2`, `Conj1`, `Conj2`.
+* Tense: `Pres`, `Aor`, `Imp`, `Past`, `Fut`, `Fut2`, `Prf`, `Pqp`, `Cnd`, `Cnd2`.
+* Mood: `Imp`, `Int`, `Opt`, `Prp`, `Sub`, `Cnd`, `Cnd2`, `Nec`.
 * Polarity: `Neg`.
-* Evident: `Nfh`.
+* Evident: `Nfh`, `Nfh2`. Those are present and past evidential.
 * Animacy: `Hum`, `Nhum`. Animacy is a verbal feature when the verb is a predicate derived from a noun.
+
+The Perfect tense, `Prf` is a tense on its own and not equal to Aspect=`Perf`, since other tenses (`Aor`) may have perfective aspect.
+
+There are two Conditional tenses, `Cnd`, `Cnd2`, and two Conditional moods `Cnd`, `Cnd2` that combine with tenses.
 
 ### Numbers
 
 Cardinal numbers in Abkhaz can optionally be prefixed to a noun. In such cases, the noun has the feature Number: `Card`.
 
 ### Pronouns, Determiners, Quantifiers
+
+(To be added.)
 
 ### Other Features
 
@@ -107,6 +114,7 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [obj:po]() potential object.
   * [obj:poss]() possessive object, cross-referenced by a possessive marker.
   * [ccomp:obj]() clausal complement cross-referenced by a direct object marker.
+  * [ccomp:iobj]() clausal complement cross-referenced by an indirect object marker.
   * [ccomp:quote]() direct speech clause introduced by *ҳәа* and cross-referenced by the direct object marker of a speech verb
   * [ccomp:purp]() purposive clausal complement.
   * [xcomp:obj]() open clausal complement cross-referenced by a direct object marker.
@@ -115,7 +123,6 @@ The involuntative, marked by *-амха-*, behaves in the same way. It describes
   * [advcl:purp]() purposive adverbial clause.
   * [advcl:conv]() dependent clause headed by a converb.
   * [advcl:compar]() dependent clause headed by a nonfinite verb with the AsIf marker.
-  * [advcl:compar]() dependent purposive clause.
   * [advcl:quote]() dependent direct speech clause introduced by *ҳәа* but not cross-referenced in the verb.
   * [advcl:seq]() sequential construction with a dependent clause headed by a verb in the past indefinite (`Past`) attached to a finite aorist.
   * [acl:relcl]() relative clause complement.
