@@ -66,11 +66,11 @@ Dyn=Yes|Mood=Sub|Person[subj]=3|Tense=Past|Trans=No|VerbForm=Fin
 
 #### Examples
 
-* [ab] _ø-с-аҳа-<b>хье.ит</b>_ [Subj.3-IO.1Sg-hear-Perfect] ‘I have heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Prf|Trans=Yes|VerbForm=Fin`
+* [ab] _ø-с-аҳа-<b>хье.ит</b>_ [Subj.3-IO.1Sg-hear-Perfect] ‘I have heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Prf|Trans=No|VerbForm=Fin`
 
 ### <a name="Pqp">`Pqp`</a>: Plusquamperfect
 
 #### Examples
 
-* [ab] _ø-с-аҳа-<b>хьа.н</b>_ [Subj.3-IO.1Sg-hear-Pluperf] ‘I had heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Tense=Pqp|Trans=Yes|VerbForm=Fin`
+* [ab] _ø-с-аҳа-<b>хьа.н</b>_ [Subj.3-IO.1Sg-hear-Pluperf] ‘I had heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Pqp|Trans=No|VerbForm=Fin`
 

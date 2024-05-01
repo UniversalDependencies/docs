@@ -17,17 +17,12 @@ This feature marks the form of the verb
 
 #### Examples
 
-* [ab] __ [] ‘’ ``
-
-### <a name="Conv">`Conv`</a>: Converb
-
-#### Examples
-
-* [ab] __ [] ‘’ ``
+* [ab] _и-р-фа-ша_ [DO.Rel-Subj.3Pl-eat-Fut2.NonFin] ‘what they are going to eat’ `Dyn=Yes|Number[subj]=Plur|Person[obj]=Rel|Person[subj]=3|Tense=Fut2|Trans=Yes|VerbForm=NonFin`
 
 ### <a name="Vnoun">`Vnoun`</a>: Verbal noun
 
 #### Examples
 
-* [ab] __ [] ‘’ ``
+* [ab] _а-шь-ра_ [Det.kill.VN] ‘killing’ `Definite=Def|Dyn=Yes|Number=Sing|Trans=Yes|VerbForm=Vnoun`
+
 
