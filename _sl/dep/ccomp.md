@@ -26,4 +26,16 @@ ccomp(they-are-warning,take)
 ~~~
 
 In predicative constructions with the copula **_biti_** '_to be_', such as in the sentence _Pomembno je, da ostanemo mirni_ 'It is important that we stay calm.', the Slovenian treebanks currently analyse such clauses as clausal subjects ([csubj]()) rather than clausal complements (`ccomp`).
+
+The `ccomp` relation is also used for linking together the reported clause and the reporting clause in **reported speech**. Regardless of the order in which the two clauses appera, the head of the relation is always the reporting clause, while the reported clause is the dependent.
+~~~ sdparse
+Takole se je glasil : " Ali mora kmet res vedno le ubogati ? " \n This REFLEX aux-PAST it-said : " Does have-to a-farmer really always only obey ? "
+ccomp(glasil,mora)
+ccomp(it-said,have-to)
+~~~
+~~~ sdparse
+" To je Victor , " je pojasnil Victor Riccio . \n " This is Victor , " aux-PAST explained Victor Riccio .
+ccomp(pojasnil,Victor-4)
+ccomp(explained,Victor-16)
+~~~
 <!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:34 CET -->
