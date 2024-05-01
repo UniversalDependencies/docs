@@ -12,7 +12,7 @@ v vrste prostovoljnega gasilskega društva Dolga vas \n into ranks of-volunteer 
 amod(društva,prostovoljnega)
 amod(društva,gasilskega)
 amod(vas-7,Dolga-6)
-amod(brigade,volunteer)
+amod(brigade,of-volunteer)
 amod(brigade,fire)
 amod(vas-15,Dolga-14)
 ~~~
