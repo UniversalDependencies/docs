@@ -57,7 +57,7 @@ Kaldenove oči so se jezno zožile , vendar je spregovoril z mirnim glasom . \n 
 conj(zožile,spregovoril)
 cc(spregovoril,vendar)
 conj(contracted,he-spoke)
-cc(spoke,but)
+cc(he-spoke,but)
 ~~~
 ~~~ sdparse
 Prvenstvo bo zelo izenačeno , saj lahkega tekmeca tokrat ne bo . \n Competition will-be very close , since easy opponent this-time not will-be .
@@ -65,8 +65,8 @@ conj(izenačeno,bo-11)
 cc(bo-11,saj)
 cop(izenačeno,bo-2)
 conj(close,will-be-24)
-cc(will-be,since)
-cop(close,will-be-14)
+cc(will-be-24,since)
+cop(close,will-be-15)
 ~~~
 ~~~ sdparse
 Ko si enkrat na vrhu in se poškoduješ , se je težko vrniti . \n When you-are once on top and REFLEX you-injure , REFLEX is hard to-get-back . 
