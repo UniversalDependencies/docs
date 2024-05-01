@@ -27,7 +27,7 @@ nmod(television,BBC)
 case(television,on)
 ~~~
 ~~~ sdparse
-prilagajanje evropskim merilom \ n adapting-to European standards
+prilagajanje evropskim merilom \n adapting-to European standards
 nmod(prilagajanje,merilom)
 nmod(adapting-to,standards)
 ~~~
