@@ -10,37 +10,35 @@ Gujarati is an Indo-Aryan language originating from the western Indian state of 
 
 ## Tokenization and Word Segmentation
 Words are generally delimited by whitespace or punctuation in Gujarati.
+We plan to update this documentation with more details on tokenization and word segmentation in Gujarati in the upcoming release.
 
-
----
 
 [//]: # (**Instruction**: Coming soon.)
 
----
-
 ## Morphology
 Gujarati morphology is agglutinative and has a rich system of inflectional and derivational morphology. The language has a complex system of verb conjugation, noun declension, and postpositions.
+We plan to update this documentation with more details on morphology in Gujarati in the upcoming release.
+
 
 [//]: # (### Tags)
 
 [//]: # ()
 [//]: # (*)
 
----
-
 [//]: # (**Instruction**: Coming soon.)
 
----
 
 ### Features
 
 * Morphological features are currently only partially included in the treebank. We plan to update the treebank with proper morphological annotations and features in the upcoming release.
 
----
+We plan to update this documentation with more details on features in Gujarati in the upcoming release.
+
+[//]: # (---)
 
 [//]: # (**Instruction**: Coming soon.)
 
----
+[//]: # (---)
 
 ## Syntax
 
@@ -50,18 +48,17 @@ Standard deprels are used, except for `clf` which is not used in any treebank.
 * Adjectives precede nouns, direct objects come before verbs, and there are postpositions. 
 * The word order of Gujarati is SOV, and there are three genders and two numbers.
 
----
+More details on syntax in Gujarati will be added in the upcoming release.
 
 [//]: # (**Instruction**: Give criteria for identifying core arguments &#40;subjects and objects&#41;, and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.)
-
----
 
 ## Treebanks
 
 There is 1 Gujarati UD treebanks:
 
   * [GujTB](https://github.com/UniversalDependencies/UD_Gujarati-GujTB)
----
+
+[//]: # (---)
 
 [//]: # (**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and)
 
@@ -69,4 +66,4 @@ There is 1 Gujarati UD treebanks:
 
 [//]: # (and the treebank code in the file name.)
 
----
+[//]: # (---)
