@@ -27,7 +27,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   In the examples here we assume that we are going to build release 1.13 in November 2020.
   Besides batch-replacing the previous release number to the new release number (replace all
   occurrences of 1.12 with 1.13), the pre-previous release is occasionally mentioned (replace 1.11
-  with 1.12). Furthermore, the next step mentiones the month when the next release is expected
+  with 1.12). Furthermore, the next step mentions the month when the next release is expected
   (replace November 2020 with May 2021) and one of the steps below mentions the current release
   date (replace 2020-05-15 with 2020-11-15).
 * Run `tools/check_release.pl --release 2.14 --next-expected 'November 2024' --oldpath /net/data/universal-dependencies-2.13 |& tee release-2.14-report.txt | less`.
