@@ -6,12 +6,14 @@ udver: '2'
 
 # UD for Gujarati <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
+Gujarati is an Indo-Aryan language originating from the western Indian state of Gujarat. The language is widely spoken by over 56 million speakers and is one of the 22 languages with official status in India. Yet, the Gujarati Computational Linguistics community is still in its infancy. Earlier literature classifies Gujarati in the "Scraping-Bys" category (category 1) in their taxonomy indicating a scant availability of labeled datasets.
+
 ## Tokenization and Word Segmentation
 
 *
 
 ---
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
+**Instruction**: Coming soon.
 
 ---
 
@@ -22,7 +24,7 @@ udver: '2'
 *
 
 ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+**Instruction**: Coming soon.
 
 ---
 
@@ -31,7 +33,7 @@ udver: '2'
 *
 
 ---
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+**Instruction**: Coming soon.
 
 ---
 
@@ -46,14 +48,15 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/gu-comparison.html) Gujarati UD treebanks:
+There is 1 Gujarati UD treebanks:
 
-  * [Gujarati-A](../treebanks/gu_a/index.html)
-  * [Gujarati-B](../treebanks/gu_b/index.html)
-
+  * [GujTB](https://github.com/UniversalDependencies/UD_Gujarati-GujTB)
 ---
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
+
+[//]: # (**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and)
+
+[//]: # (from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code)
+
+[//]: # (and the treebank code in the file name.)
 
 ---
