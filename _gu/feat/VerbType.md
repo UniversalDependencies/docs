@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'VerbType
+title: 'VerbType'
 shortdef: 'type of verb'
 udver: '2'
 ---
