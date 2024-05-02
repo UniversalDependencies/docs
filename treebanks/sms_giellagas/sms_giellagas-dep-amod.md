@@ -17,18 +17,20 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 3 amod	color:blue
-1	Lij-a	leeʹd	AUX	V	Clitic=QstA|Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	GTtags=IV,Ind,Prs,Sg3,Qst/a
-2	Iguazu	Iguazu	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sg,Nom
-3	jõnn	jõnn	ADJ	A	_	6	amod	_	GTtags=Attr
-4	avi	avi	CCONJ	CC	_	5	cc	_	_
-5	uʹcc	uʹcc	ADJ	A	_	3	conj	_	GTtags=Attr
-6	jânnam	jânnam	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
-7	?	?	PUNCT	CLB	_	6	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 amod	color:blue
+1	Mâŋŋa	mâŋŋa	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
+2	dââʹst	dât	PRON	Pron	Case=Loc|Number=Sing	1	nmod	_	GTtags=Sg,Loc
+3	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
+4	...	...	PUNCT	CLB	_	8	punct	_	_
+5	vitmlo	vitmlo	NUM	Num	_	6	nummod	_	_
+6	ekksaž	ekksaž	ADJ	A	_	7	amod	_	GTtags=Attr
+7	päʹrnn	päʹrnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	8	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom
+8	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

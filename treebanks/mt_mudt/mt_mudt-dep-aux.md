@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `aux`: <tt><a href="mt_mudt-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="mt_mudt-dep-aux-part.html">aux:part</a></tt>, <tt><a href="mt_mudt-dep-aux-pass.html">aux:pass</a></tt>.
 
-642 nodes (1%) are attached to their parents as `aux`.
+643 nodes (1%) are attached to their parents as `aux`.
 
-641 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21028037383178.
+642 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2099533437014.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (630; 98% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (631; 98% instances), <tt><a href="mt_mudt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-AUX.html">AUX</a></tt> (6; 1% instances).
 
 
 ~~~ conllu

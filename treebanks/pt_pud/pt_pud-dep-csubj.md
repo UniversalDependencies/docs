@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 5 csubj	color:blue
 1	Em	em	ADP	INDT	_	3	case	_	_
-2	este	este	DET	_	Gender=Masc|Number=Sing	3	det	_	_
+2	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	contexto	contexto	NOUN	NN	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	fazer	_	VERB	VB	_	10	csubj	_	_

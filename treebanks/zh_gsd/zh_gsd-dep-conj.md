@@ -33,7 +33,7 @@ The following 47 pairs of parts of speech are connected with `conj`: <tt><a href
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -64,7 +64,7 @@ The following 47 pairs of parts of speech are connected with `conj`: <tt><a href
 4	真相	真相	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=zhēnxiāng|LTranslit=zhēnxiāng
 5	後	後	ADP	IN	_	3	mark	_	SpaceAfter=No|Translit=hòu|LTranslit=hòu
 6	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-7	也	也	ADV	RB	_	14	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+7	也	也	SCONJ	RB	_	14	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 8	為	為	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=wèi|LTranslit=wèi
 9	法魯克	法魯克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No|Translit=fǎlǔkè|LTranslit=fǎlǔkè
 10	與	與	CCONJ	CC	_	11	cc	_	SpaceAfter=No|Translit=yǔ|LTranslit=yǔ

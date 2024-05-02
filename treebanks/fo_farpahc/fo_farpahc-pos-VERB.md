@@ -59,8 +59,8 @@ The 1st highest number of forms (1171) was observed with the lemma “_”: <em>
 
 `VERB` occurs with 10 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbForm=Part`
 
-`VERB` occurs with 14 feature combinations.
-The most frequent feature combination is `Mood=Ind|Tense=Past` (2136 tokens).
+`VERB` occurs with 13 feature combinations.
+The most frequent feature combination is `Mood=Ind|Tense=Past` (2138 tokens).
 Examples: <em>segði, sögdu, fór, kom, svaraði, fóru, komu, sá, sendi, tók</em>
 
 

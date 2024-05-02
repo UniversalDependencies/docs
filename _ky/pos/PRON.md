@@ -22,4 +22,4 @@ these words are always marked according to their usage (`PRON` or
 - interrogative pronouns: _ким, эмне_ "who, what"
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:27 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:28 CET -->

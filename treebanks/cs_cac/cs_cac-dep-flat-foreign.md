@@ -63,16 +63,16 @@ The following 25 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat:foreign	color:blue
 1	Všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	nmod	2:nmod:nom	_
-2	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	4	nsubj	4:nsubj	LId=druh-1|LGloss=(typ)
+2	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	8	nsubj	8:nsubj	LId=druh-1|LGloss=(typ)
 3	jedenáctistovek	jedenáctistovka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	2:nmod:gen	_
-4	byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-5	vždy	vždy	ADV	Db-------------	PronType=Tot	4	advmod	4:advmod	_
+4	byly	být	AUX	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	8	cop	8:cop	_
+5	vždy	vždy	ADV	Db-------------	PronType=Tot	8	advmod	8:advmod	_
 6	jen	jen	PART	TT-------------	_	8	advmod:emph	8:advmod:emph	LId=jen-1|LGloss=(pouze)
 7	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
-8	provedení	provedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	4	obl	4:obl:v:loc	LDeriv=provést
+8	provedení	provedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	0	root	0:root	LDeriv=provést
 9	de	de	ADP	RR--X----------	AdpType=Prep|Foreign=Yes	8	nmod	8:nmod	_
 10	luxe	luxe	NOUN	NNXXX-----A----	Foreign=Yes|Polarity=Pos	9	flat:foreign	9:flat:foreign	_
-11	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
+11	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
 

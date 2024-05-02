@@ -65,7 +65,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4 7 xcomp	color:blue
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
-3	n’t	n’t	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
+3	n’t	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
 4	call	call	VERB	VB	VerbForm=Inf	0	root	0:root	_
 5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj|7:nsubj:xsubj	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_

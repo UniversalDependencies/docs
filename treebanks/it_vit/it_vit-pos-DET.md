@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="it_vit-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.420000 (the average of all parts of speech is 1.501634).
+The form / lemma ratio of `DET` is 2.420000 (the average of all parts of speech is 1.501662).
 
 The 1st highest number of forms (7) was observed with the lemma “il”: <em>gli, i, il, l', la, le, lo</em>.
 
@@ -82,7 +82,7 @@ Examples: <em>il, lo, un, gli, i, l'</em>
 
 `DET` nodes are attached to their parents using 7 different relations: <tt><a href="it_vit-dep-det.html">det</a></tt> (42271; 96% instances), <tt><a href="it_vit-dep-det-poss.html">det:poss</a></tt> (1276; 3% instances), <tt><a href="it_vit-dep-det-predet.html">det:predet</a></tt> (359; 1% instances), <tt><a href="it_vit-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="it_vit-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-flat-foreign.html">flat:foreign</a></tt> (1; 0% instances), <tt><a href="it_vit-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (38249; 87% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2927; 7% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1035; 2% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (535; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (394; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (390; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (136; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (114; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (73; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (31; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (38250; 87% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2928; 7% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1035; 2% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (535; 1% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (394; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (390; 1% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (135; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt> (114; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (72; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (31; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt> (26; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
 
 43800 (100%) `DET` nodes are leaves.
 

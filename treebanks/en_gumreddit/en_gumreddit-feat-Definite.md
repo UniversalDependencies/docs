@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (557; 58% of non-empty `Definite`): <em>_</em>
 * `Ind` (406; 42% of non-empty `Definite`): <em>_</em>
-* `EMPTY` (272): <em>_</em>
+* `EMPTY` (273): <em>_</em>
 

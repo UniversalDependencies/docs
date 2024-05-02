@@ -45,14 +45,14 @@ The following 10 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 7	fgColor:white
 # visual-style 7 5 nsubj:pass	color:blue
 1	Durante	_	ADP	IN	_	3	case	_	_
-2	um	um	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
+2	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	episódio	episódio	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	_	_
 6	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	aux:pass	_	_
 7	mostrado	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 8	como	como	ADP	IN	_	11	case	_	_
-9	um	um	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+9	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 10	exímio	exímio	ADJ	JJ	Gender=Masc|Number=Sing	11	amod	_	_
 11	guitarrista	guitarrista	NOUN	NN	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_

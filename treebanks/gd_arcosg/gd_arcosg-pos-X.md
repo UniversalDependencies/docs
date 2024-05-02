@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: POS Tags: `X`
 
 There are 152 `X` lemmas (2%), 152 `X` types (2%) and 392 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `X` is: 6 in number of lemmas, 8 in number of types and 16 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>[?], the, a, and, i, in, na, on, poverty, well</em>
 
@@ -73,7 +73,7 @@ The 10 most frequent ambiguous types:  <em>[?]</em> (<tt><a href="gd_arcosg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.299830).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.302045).
 
 The 1st highest number of forms (1) was observed with the lemma “<english_text>”: <em><English_text></em>.
 

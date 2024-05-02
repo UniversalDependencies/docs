@@ -27,7 +27,7 @@ nmod(television,BBC)
 case(television,on)
 ~~~
 ~~~ sdparse
-prilagajanje evropskim merilom \ n adapting-to European standards
+prilagajanje evropskim merilom \n adapting-to European standards
 nmod(prilagajanje,merilom)
 nmod(adapting-to,standards)
 ~~~
@@ -82,4 +82,4 @@ Genska tehnologija pa je šla v tem smislu še korak dlje . \n Genetic technolog
 nmod(dlje,korak)
 nmod(further,step)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:20 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:03 CET -->

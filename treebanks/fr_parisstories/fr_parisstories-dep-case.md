@@ -41,8 +41,8 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 case	color:blue
 1	donc	donc	ADV	_	_	4	advmod	_	_
-2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-3	me	le	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	obj	_	_
 4	rapproche	rapprocher	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	Sanga	Sanga	PROPN	_	_	4	obl:arg	_	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
 4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 5	peut-on	peut-on	ADV	_	_	0	root	_	_
-6	se	le	PRON	_	Person=3|PronType=Prs	7	obj	_	_
+6	se	soi	PRON	_	Person=3|PronType=Prs	7	obj	_	_
 7	mettre	mettre	VERB	_	VerbForm=Inf	5	xcomp	_	Subject=SubjRaising
 8	à	à	ADP	_	_	10	case	_	_
 9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_

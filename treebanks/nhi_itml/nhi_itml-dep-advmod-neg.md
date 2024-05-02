@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 8	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
 9	wan	wan	CCONJ	_	_	11	cc	11:cc	NormalizedForm=wan|NormalizedLemma=wan
 10	amo	amo	ADV	_	Polarity=Neg	11	advmod:neg	11:advmod:neg	NormalizedForm=amo|NormalizedLemma=amo
-11	pinawaj	pinawa	VERB	_	_	5	conj	5:conj	NormalizedForm=pinawah|NormalizedLemma=pinawa
+11	pinawaj	pinawa	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	5	conj	5:conj	NormalizedForm=pinawah|NormalizedLemma=pinawa
 12	nik	nik	SCONJ	_	_	13	mark	13:mark	NormalizedForm=nik|NormalizedLemma=nik
 13	tlajtowaj	tlajtowa	VERB	_	Animacy[obj]=Nhum|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	11	advcl	11:advcl	NormalizedForm=tlahtowah|NormalizedLemma=tlahtowa
 14	Otomí	otomí	PROPN	_	_	13	obj	13:obj	NormalizedForm=otomí|NormalizedLemma=otomí

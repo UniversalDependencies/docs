@@ -103,6 +103,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2117; 86%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (163; 56%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-ccomp-pmod.html">ccomp:pmod</a></tt>]--> VERB</tt> (91; 51%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (59; 67%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (57; 72%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> VERB</tt> (13; 87%).
 

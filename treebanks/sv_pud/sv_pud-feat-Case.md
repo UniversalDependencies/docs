@@ -12,7 +12,7 @@ It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 7485 tokens (39%) have a non-empty value of `Case`.
 4784 types (77%) occur at least once with a non-empty value of `Case`.
 3956 lemmas (79%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3921; 21% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1539; 8% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1204; 6% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (430; 2% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (387; 2% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3921; 21% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1540; 8% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1203; 6% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (430; 2% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (387; 2% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -38,26 +38,26 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-1539 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
+1540 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1281; 83%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1281; 83%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1116; 73%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1028; 67%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (804; 52%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1282; 83%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1282; 83%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1116; 72%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1029; 67%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (804; 52%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Gen` (1; 0% of non-empty `Case`): <em>ofattbaras</em>
-* `Nom` (1538; 100% of non-empty `Case`): <em>första, andra, nya, många, flera, stora, stor, hela, senaste, sista</em>
+* `Nom` (1539; 100% of non-empty `Case`): <em>första, andra, nya, många, flera, stora, stor, hela, senaste, sista</em>
 * `EMPTY` (20): <em>St., American, National, Civil, Environmental, First, Golden, Independent, New, Royal</em>
 
-`Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (745) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (746) occur only with one value of `Case`.
 
 ### `PROPN`
 
-1204 <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
+1203 <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Gen` (102; 8% of non-empty `Case`): <em>USA:s, Kinas, Kongs, Australiens, Clintons, Disneys, Doss, Hitchcocks, Medelhavets, Rysslands</em>
-* `Nom` (1102; 92% of non-empty `Case`): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, Albanien, Donald</em>
+* `Nom` (1101; 92% of non-empty `Case`): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, Albanien, Donald</em>
 * `EMPTY` (12): <em>Mps, North, Punta, Carolina, RHS, Rasa, Victorias, de, del</em>
 
 <table>

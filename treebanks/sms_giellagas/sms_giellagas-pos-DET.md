@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>tõn</em> (<tt><a href="sms_giellagas
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.125000 (the average of all parts of speech is 1.467290).
+The form / lemma ratio of `DET` is 1.125000 (the average of all parts of speech is 1.472015).
 
 The 1st highest number of forms (2) was observed with the lemma “tõt”: <em>Tõt, tõn</em>.
 

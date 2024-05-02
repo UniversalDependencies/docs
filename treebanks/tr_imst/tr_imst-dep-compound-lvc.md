@@ -18,38 +18,33 @@ The following 15 pairs of parts of speech are connected with `compound:lvc`: <tt
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 compound:lvc	color:blue
-1	Kerem	Kerem	PROPN	Prop	Case=Nom|Number=Sing|Person=3	8	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	Punc	_	8	punct	_	_
-3	özgürlüğünü	özgürlük	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	obj	_	_
-4	teslim	teslim	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	obl	_	_
-5	ettiği	et	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	compound:lvc	_	_
-6	için	için	ADP	PCNom	_	4	case	_	_
-7	sanki	sanki	ADV	Adverb	_	8	advmod	_	_
-8	rahatlamıştı	rahatla	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 compound:lvc	color:blue
-1	Sakın	sakın	INTJ	Interj	_	6	discourse	_	_
-2	ha	ha	INTJ	Interj	_	6	discourse	_	SpaceAfter=No
-3	,	,	PUNCT	Punc	_	6	punct	_	_
-4	sana	sen	PRON	Pers	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
-5	da	da	CCONJ	Conj	_	4	advmod:emph	_	_
-6	musallat	musallat	ADJ	Adj	_	0	root	_	_
-7	olur	ol	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	6	compound:lvc	_	SpaceAfter=No
+1	Çok	çok	ADV	Adverb	_	2	advmod:emph	_	_
+2	yakışıklı	yakışıklı	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
+3	ydı	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	_
+4	,	,	PUNCT	Punc	_	6	punct	_	_
+5	hemen	hemen	ADV	Adverb	_	6	advmod	_	_
+6	fark	fark	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+7	etmiştim	et	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pqp	6	compound:lvc	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound:lvc	color:blue
+1	Sakin	sakin	ADJ	Adj	_	3	amod	_	_
+2	olmaya	ol	VERB	Verb	Aspect=Perf|Case=Dat|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	1	compound:lvc	_	_
+3	çalışın	çalış	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

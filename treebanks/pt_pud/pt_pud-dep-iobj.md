@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 19	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	bancos	banco	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
 21	em	em	ADP	PRP	_	23	iobj	_	_
-22	os	o	DET	_	Case=Dat|Number=Plur|Person=1	21	det	_	_
+22	os	o	DET	_	Case=Dat|Definite=Def|Number=Plur|Person=1|PronType=Art	21	det	_	_
 23	demonstraram	demonstrar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	14	acl:relcl	_	SpaceAfter=No
 24	"	"	PUNCT	''	_	14	punct	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	3	punct	_	_

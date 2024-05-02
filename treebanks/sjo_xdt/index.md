@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: He Zhou, Juyeon Chung, Elena Klyachko, Francis Tyers, Sandra Kübler.
 
 Repository: [UD_Xibe-XDT](https://github.com/UniversalDependencies/UD_Xibe-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 3.0
 

@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 15	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	production	production	NOUN	S	Gender=Fem|Number=Sing	13	nmod	_	_
 17	de	de	ADP	E	_	18	case	_	_
-18	sol	sol	ADJ	A	Number=Sing	16	nmod	_	SpaceAfter=No
+18	sol	sol	NOUN	S	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~

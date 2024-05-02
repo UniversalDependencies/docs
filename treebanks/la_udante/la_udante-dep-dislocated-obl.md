@@ -112,13 +112,13 @@ The following 3 pairs of parts of speech are connected with `dislocated:obl`: <t
 # visual-style 6 24 dislocated:obl	color:blue
 1	Et	et	CCONJ	co	_	6	cc	_	_
 2	ex	ex	ADP	e	_	3	case	_	_
-3	hinc	hinc	ADV	r	AdvType=Loc|Case=Loc|PronType=Dem	6	obl	_	_
+3	hinc	hinc	ADV	r	AdvType=Loc|PronType=Dem	6	obl	_	_
 4	continuato	continuo	VERB	vp1prsnb	Aspect=Perf|Case=Abl|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	6	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 5	colloquio	colloquium	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	4	nsubj:pass	_	_
 6	venit	uenio	VERB	va4irs3	Aspect=Perf|InflClass=LatI|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 7	ad	ad	ADP	e	_	8	case	_	_
 8	hec	hic	DET	ddipna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem	6	obl	_	SpaceAfter=No
-9	:	:	PUNCT	Pu	_	6	punct	_	_
+9	:	:	PUNCT	Pu	_	24	punct	_	_
 10	«	«	PUNCT	Pu	_	24	punct	_	SpaceAfter=No
 11	Quando	quando	ADV	r	AdvType=Tim|PronType=Rel	12	advmod:tmod	_	_
 12	misi	mitto	VERB	va3irs1	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -129,7 +129,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:obl`: <t
 17	pera	pera	NOUN	sfs1b	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	15	conj	_	_
 18	et	et	CCONJ	co	_	19	cc	_	_
 19	calciamentis	calciamentum	NOUN	snp2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur	15	conj	_	SpaceAfter=No
-20	,	,	PUNCT	Pu	_	24	punct	_	_
+20	,	,	PUNCT	Pu	_	12	punct	_	_
 21	num	num	PART	rt	PartType=Int	24	discourse	_	_
 22	quid	quid	ADV	rt	PronType=Int	24	advmod	_	_
 23	aliquid	aliquis	PRON	dinsnn	Case=Nom|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	24	nsubj	_	_

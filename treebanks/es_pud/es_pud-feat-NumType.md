@@ -18,11 +18,11 @@ The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-NUM.html
 
 435 <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (375; 86%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (375; 86%), <tt><a href="es_pud-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (313; 72%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (435; 100% of non-empty `NumType`): <em>dos, tres, cuatro, 1, 10, 3, mil, seis, 70, 100</em>
+* `Card` (435; 100% of non-empty `NumType`): <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (212) occur only with one value of `NumType`.
 

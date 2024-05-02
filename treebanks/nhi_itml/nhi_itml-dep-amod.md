@@ -50,13 +50,13 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	kkajkaua	kajkaua	VERB	_	_	2	ccomp	2:ccomp	NormalizedForm=kkahkawa|NormalizedLemma=kahkawa
 7	se	se	DET	_	_	9	det	9:det	Orig=se|NormalizedForm=se|NormalizedLemma=se
 8	n	nakin	DET	_	_	9	det	9:det	Orig=nakin|NormalizedForm=n|NormalizedLemma=nakin
-9	akin	_	PRON	_	_	6	obj	6:obj	NormalizedForm=akin|NormalizedLemma=_
+9	akin	akin	PRON	_	_	6	obj	6:obj	NormalizedForm=akin|NormalizedLemma=_
 10	tzakwtok	tzakwtok	ADJ	_	_	9	amod	9:amod	Orig=tzakwtok,|SpaceAfter=No|NormalizedForm=tsakwtok|NormalizedLemma=tsakwtok
 11	,	,	PUNCT	_	_	15	punct	15:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
 12	ojkon	ohkon	ADV	_	_	15	advmod	15:advmod	Orig=ojkon|NormalizedForm=ohkon|NormalizedLemma=ohkon
 13	ken	ken	ADV	_	_	14	advmod	14:advmod	Orig=ken|NormalizedForm=ken|NormalizedLemma=ken
 14	nochipa	nochipa	ADV	_	_	15	advmod	15:advmod	Orig=nochipa|NormalizedForm=nochipa|NormalizedLemma=nochipa
-15	walchiwtiwitz	chiwa	VERB	_	_	6	advcl	6:advcl	Orig=walchiwtiwitz|SpaceAfter=No|NormalizedForm=walchiwtiwits|NormalizedLemma=chiwa
+15	walchiwtiwitz	chiwa	VERB	_	Movement=Ven|Number[subj]=Sing|Person[subj]=3|Subcat=Tran	6	advcl	6:advcl	Orig=walchiwtiwitz|SpaceAfter=No|NormalizedForm=walchiwtiwits|NormalizedLemma=chiwa
 16	.	.	PUNCT	_	_	2	punct	2:punct	Orig=.|NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -70,10 +70,10 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 11 12 amod	color:blue
 1	Dios	dios	PROPN	_	_	3	nsubj	3:nsubj	NormalizedForm=dios|NormalizedLemma=dios
 2	o	o	AUX	_	_	3	aux	3:aux	NormalizedForm=o|NormalizedLemma=o
-3	cnanquilih	nanquilia	VERB	_	_	0	root	0:root	_
+3	cnanquilih	nanquilia	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	:	:	PUNCT	_	_	9	punct	9:punct	NormalizedForm=:|NormalizedLemma=:
-5	-	_	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No|NormalizedForm=-|NormalizedLemma=_
-6	-	_	PUNCT	_	_	9	punct	9:punct	NormalizedForm=-|NormalizedLemma=_
+5	-	-	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No|NormalizedForm=-|NormalizedLemma=_
+6	-	-	PUNCT	_	_	9	punct	9:punct	NormalizedForm=-|NormalizedLemma=_
 7	¡	¡	PUNCT	_	_	9	punct	9:punct	SpaceAfter=No|NormalizedForm=¡|NormalizedLemma=¡
 8	Amo	amo	ADV	_	Polarity=Neg	9	advmod	9:advmod	NormalizedForm=amo|NormalizedLemma=amo
 9	ixtlaocoya	tlaocoya	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Subcat=Intr	3	parataxis	3:parataxis	SpaceAfter=No

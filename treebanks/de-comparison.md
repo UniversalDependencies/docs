@@ -2248,6 +2248,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
+            <li>ADV: nie</li>
             <li>DET: keine, kein, keinen, keiner, keins, keinem, keines</li>
             <li>PRON: nichts, niemand, niemanden</li>
           </ul>

@@ -31,7 +31,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 2808 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2467; 88%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1904; 68%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2459; 88%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1898; 68%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=3</tt> (1569; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -44,7 +44,8 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>qui</em></td><td><em>qui</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>qui</em></td><td><em>qui</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt></tt></td><td></td><td><em>qui</em></td></tr>
 </table>
 
 ### `ADV`

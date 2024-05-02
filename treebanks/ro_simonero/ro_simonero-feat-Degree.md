@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 20420 tokens (14%) have a non-empty value of `Degree`.
-5105 types (28%) occur at least once with a non-empty value of `Degree`.
+5106 types (28%) occur at least once with a non-empty value of `Degree`.
 3055 lemmas (29%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (17043; 12% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (3377; 2% instances).
 

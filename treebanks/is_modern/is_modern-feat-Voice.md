@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.
 
 8994 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4717; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4681; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 

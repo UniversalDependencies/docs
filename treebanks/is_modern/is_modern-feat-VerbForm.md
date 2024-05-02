@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4717; 51% of non-empty `VerbForm`): <em>hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, eigum</em>
-* `Inf` (2739; 30% of non-empty `VerbForm`): <em>gera, fara, taka, koma, segja, vinna, sjá, fá, spyrja, ræða</em>
+* `Fin` (4681; 51% of non-empty `VerbForm`): <em>hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, eigum</em>
+* `Inf` (2775; 30% of non-empty `VerbForm`): <em>gera, fara, taka, koma, segja, vinna, sjá, fá, spyrja, ræða</em>
 * `Part` (987; 11% of non-empty `VerbForm`): <em>varðandi, gert, farið, keppt, gripið, sagt, tekið, komin, sett, búið</em>
 * `Sup` (759; 8% of non-empty `VerbForm`): <em>sagt, tekið, komið, gert, farið, orðið, séð, átt, reynt, gerst</em>
 * `EMPTY` (93): <em>þakka, búið, leið, fer, heldur, ræður, Falli, Réði, Tilkynnt, afmörkuð</em>
@@ -158,8 +158,8 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (521; 64%),
-<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (82; 55%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (523; 64%),
+<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (85; 57%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (44; 64%),
 <tt>VERB --[<tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (26; 54%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 55%),

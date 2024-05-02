@@ -53,4 +53,4 @@ To denote transition/return to a fixed point or previous condition/situation (ma
 
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:48 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:06 CET -->

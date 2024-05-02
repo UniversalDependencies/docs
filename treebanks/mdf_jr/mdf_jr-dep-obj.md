@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-179 nodes (4%) are attached to their parents as `obj`.
+183 nodes (4%) are attached to their parents as `obj`.
 
-130 instances of `obj` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.68156424581006.
+131 instances of `obj` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.68306010928962.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (153; 85% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (16; 9% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (156; 85% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (16; 9% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,19 +52,15 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 obj	color:blue
-1	Комендантсь	комендант	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
-2	васенце	васенце	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|NumType=Ord	3	amod	_	GTtags=Der/Ord,A,Ord,Sg,Nom,Indef
-3	рабочайти	рабочай	NOUN	N	Case=Dat|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Dat,Def
-4	указовась	указовамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
-5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	омбоцеть	омбоце	ADJ	A	Case=Gen|Definite=Def|Number=Sing|NumType=Ord	7	obj	_	GTtags=Der/Ord,A,Ord,Sg,Gen,Def
-7	шназе	шнамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	4	conj	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 obj	color:blue
+1	Кундафнень	кундамс	VERB	V	Case=Gen|Definite=Def|Number=Plur|PartForm=Past|VerbForm=Part	2	obj	_	CGdephead=#1-&gt;2|CGdeprel=@-FOBJ&gt;|CGdephead=#1-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Der/f,PrfPrc,Pl,Gen,Def
+2	вятезь	вятемс	VERB	V	VerbForm=Conv	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@SPRED|CGdephead=#2-&gt;0|CGdeprel=@SPRED|GTtags=Der/Ozj,Ger
+3	вели	веле	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|CGdephead=#3-&gt;3|CGdeprel=@&lt;ADVL|GTtags=SP,Lat,Indef|SpaceAfter=No
+4	.	.	PUNCT	CLB	_	2	punct	_	CGdephead=#4-&gt;2|CGdeprel=@X|CGdephead=#4-&gt;2|CGdeprel=@X|GTtags=CLB
 
 ~~~
 

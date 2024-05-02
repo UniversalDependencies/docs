@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="hy_bsut-dep-aux-ex.html">aux:ex</a></tt>.
 
-1934 nodes (5%) are attached to their parents as `aux`.
+1933 nodes (5%) are attached to their parents as `aux`.
 
 1156 instances of `aux` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14994829369183.
+Average distance between parent and child is 1.14899120538024.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (1901; 98% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="hy_bsut-pos-VERB.html">VERB</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (1900; 98% instances), <tt><a href="hy_bsut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="hy_bsut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="hy_bsut-pos-PRON.html">PRON</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="hy_bsut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hy_bsut-pos-ADV.html">ADV</a></tt>-<tt><a href="hy_bsut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

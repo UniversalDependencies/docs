@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `orphan`.
+2 nodes (0%) are attached to their parents as `orphan`.
 
-2 instances of `orphan` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.33333333333333.
+2 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (2; 67% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (1; 33% instances).
+The following 1 pairs of parts of speech are connected with `orphan`: <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (2; 100% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 orphan	color:blue
-1	çarşamba	çarşamba	PROPN	_	Case=Nom|Number=Sing	7	obl	_	_
+1	çarşamba	çarşamba	PROPN	_	Case=Nom|Number=Sing	7	obl:tmod	_	_
 2	beni	ben	PRON	_	PronType=Prs	7	obj	_	_
 3	burada	burada	ADV	_	_	4	advmod	_	_
 4	Washington	washington	PROPN	_	Case=Nom|Number=Sing	7	obl	_	_
@@ -38,22 +38,6 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 14	diğeri	diğer	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	16	nsubj	_	_
 15	Miami'de	miami	PROPN	_	Case=Loc|Number=Sing	16	obl	_	_
 16	yaşıyor	yaşa	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 orphan	color:blue
-1	Bana	ben	PRON	_	PronType=Prs	6	orphan	_	_
-2	Philadelphia'dan	philadelphia	PROPN	_	Case=Abl|Number=Sing	3	nmod	_	_
-3	Boston'a	boston	PROPN	_	Case=Dat|Number=Sing	4	obl	_	_
-4	olan	ol	ADJ	_	_	5	acl	_	_
-5	uçuşları	uç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	6	obj	_	_
-6	gösterin	göster	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 
 ~~~
 

@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="es_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.503245).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.505634).
 
 The 1st highest number of forms (1) was observed with the lemma “No”: <em>No</em>.
 

@@ -8,77 +8,82 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `csubj`.
+14 nodes (0%) are attached to their parents as `csubj`.
 
-4 instances of `csubj` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.125.
+12 instances of `csubj` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.5.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2; 25% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 13% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 13% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 21% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2; 14% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 16 csubj	color:blue
-1	Maita	maita	ADV	ADVRA	AdvType=Man|PronType=Int	4	advmod	_	TokenRange=0:5
-2	iwasuíma	iwasuíma	ADJ	A	_	0	root	_	TokenRange=6:14
-3	xinga	xinga	ADV	ADVS	_	2	advmod	_	TokenRange=15:20
-4	ambeú	mbeú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	2	csubj	_	SpaceAfter=No|TokenRange=21:26
-5	:	:	PUNCT	PUNCT	_	7	punct	_	TokenRange=26:27
-6	"	"	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No|TokenRange=27:28
-7	Amburi	mburi	VERB	V	Number=Sing|Person=1|VerbForm=Fin	4	ccomp	_	TokenRange=29:35
-8	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	obl	_	TokenRange=36:38
-9	suí	suí	ADP	ADP	_	8	case	_	TokenRange=39:42
-10	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=43:45
-11	pekadu	pekado	NOUN	N	Number=Sing	7	obj	_	Orig=pecado|OrigLang=pt|SpaceAfter=No|TokenRange=46:52
-12	"	"	PUNCT	PUNCT	_	7	punct	_	TokenRange=52:53
-13	u	u	CCONJ	CCONJ	_	14	cc	_	TokenRange=54:55
-14	iwasuíma	iwasuíma	ADJ	A	_	2	conj	_	TokenRange=56:64
-15	xinga	xinga	ADV	ADVS	_	14	advmod	_	TokenRange=65:70
-16	ambeú	mbeú	VERB	V	Number=Sing|Person=1|VerbForm=Fin	14	csubj	_	TokenRange=71:76
-17	"	"	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No|TokenRange=76:77
-18	Repuãmu	puãmu	VERB	V	Number=Sing|Person=2|VerbForm=Fin	16	ccomp	_	SpaceAfter=No|TokenRange=78:85
-19	,	,	PUNCT	PUNCT	_	20	punct	_	TokenRange=85:86
-20	rewatá	watá	VERB	V	Number=Sing|Person=2|VerbForm=Fin	18	parataxis	_	SpaceAfter=No|TokenRange=87:93
-21	"	"	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No|TokenRange=93:94
-22	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=94:95
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 csubj	color:blue
+1	Yawaité	yawaité	ADJ	A	_	0	root	_	TokenRange=0:7
+2	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=8:10
+3	rangawa	sangawa	NOUN	N	Number=Sing|Rel=Cont	4	nsubj	_	TokenRange=11:18
+4	usasawa	sasawa	VERB	V	Person=3|VerbForm=Fin	1	csubj	_	TokenRange=19:26
+5	rewiké	wiké	VERB	V	Number=Sing|Person=2|VerbForm=Fin	3	acl	_	TokenRange=27:33
+6	arama	arama	SCONJ	SCONJ	_	5	mark	_	TokenRange=34:39
+7	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obl	_	TokenRange=40:41
+8	piri	piri	ADP	ADP	_	7	case	_	SpaceAfter=No|TokenRange=42:46
+9	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=46:47
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 6 csubj	color:blue
-1	Puranga	puranga	ADJ	A	_	0	root	_	SpaceAfter=No|TokenRange=0:7
-2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=7:8
-3	eré	eré	PART	CONS	PartType=Mod|Polarity=Pos	1	advmod	_	SpaceAfter=No|TokenRange=9:12
-4	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=12:13
-5	peikú	ikú	AUX	COP	Number=Plur|Person=2|VerbForm=Fin	6	cop	_	TokenRange=14:19
-6	iké	iké	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	1	csubj	_	SpaceAfter=No|TokenRange=20:23
-7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=23:24
+# visual-style 1 2 csubj	color:blue
+1	Aiwana	aiwana	ADV	ADVT	AdvType=Tim	0	root	_	TokenRange=0:6
+2	usú	sú	VERB	V	Person=3|VerbForm=Fin	1	csubj	_	TokenRange=7:10
+3	arama	arama	SCONJ	SCONJ	_	2	mark	_	TokenRange=11:16
+4	maíwa-itá	maíwa	NOUN	N	Number=Plur	5	nmod:poss	_	TokenRange=17:26
+5	rapé	pé	NOUN	N	Number=Sing|Rel=Cont	2	obl	_	TokenRange=27:31
+6	rupí	rupí	ADP	ADP	_	5	case	_	SpaceAfter=No|TokenRange=32:36
+7	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=36:37
+8	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	TokenRange=38:39
+9	piaíwa	piaíwa	VERB	A2	_	2	advcl	_	TokenRange=40:46
+10	resé	resé	SCONJ	SCONJ	_	9	mark	_	TokenRange=47:51
+11	taína-itá	taína	NOUN	N	Number=Plur	9	obl	_	TokenRange=52:61
+12	irumu	irumu	ADP	ADP	_	11	case	_	SpaceAfter=No|TokenRange=62:67
+13	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=67:68
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 csubj	color:blue
-1	Yawé	yawé	ADV	ADVA	AdvType=Man	3	csubj	_	TokenRange=0:4
-2	waá-itá	waá	PRON	REL	Number=Plur|PronType=Rel	1	nsubj	_	TokenRange=5:12
-3	aikwewara	aikwé	PART	EXST	Aspect=Freq|PartType=Exs|Tense=Pres	0	root	_	TokenRange=13:22
-4	mairamé	mairamé	SCONJ	SCONJR	_	5	mark	_	TokenRange=23:30
-5	yakuntari	kuntari	VERB	V	Number=Plur|Person=1|VerbForm=Fin	3	advcl	_	TokenRange=31:40
-6	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	7	det	_	TokenRange=41:44
-7	nheengatú	nheengatú	NOUN	N	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=45:54
-8	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=54:55
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 csubj	color:blue
+1	Kunhã	kunhã	NOUN	N	Number=Sing	6	vocative	_	SpaceAfter=No|TokenRange=0:5
+2	,	,	PUNCT	PUNCT	_	1	punct	_	TokenRange=5:6
+3	amú-wirandé	amú-wirandé	ADV	ADVT	AdvType=Tim	6	advmod	_	TokenRange=7:18
+4	yasú	sú	AUX	AUXFR	Number=Plur|Person=1|VerbForm=Fin	6	aux	_	TokenRange=19:23
+5	arama	arama	PART	FUT	Tense=Fut	6	advmod	_	TokenRange=24:29
+6	yasapí	sapí	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=30:36
+7	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=37:41
+8	kupixawa	kupixawa	NOUN	N	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=42:50
+9	,	,	PUNCT	PUNCT	_	11	punct	_	TokenRange=50:51
+10	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	expl	_	TokenRange=52:53
+11	katú	katú	VERB	A2	_	6	parataxis	_	TokenRange=54:58
+12	renheẽ	nheẽ	VERB	V	Number=Sing|Person=2|VerbForm=Fin	11	csubj	_	TokenRange=59:65
+13	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=66:68
+14	manha	manha	NOUN	N	Number=Sing	12	iobj	_	TokenRange=69:74
+15	supé	supé	ADP	ADP	_	14	case	_	SpaceAfter=No|TokenRange=75:79
+16	,	,	PUNCT	PUNCT	_	18	punct	_	TokenRange=79:80
+17	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=81:83
+18	paya	paya	NOUN	N	Number=Sing	14	conj	_	TokenRange=84:88
+19	supé	supé	ADP	ADP	_	18	case	_	SpaceAfter=No|TokenRange=89:93
+20	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=93:94
 
 ~~~
 

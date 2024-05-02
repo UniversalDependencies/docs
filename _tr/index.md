@@ -90,9 +90,14 @@ see the list of [relations](dep/index.html),
 
 ## Treebanks
 
-As of UD 2.7, there are [four](../treebanks/tr-comparison.html) Turkish UD treebanks, more treebanks are in progress.
+As of UD 2.13, there are [nine](../treebanks/tr-comparison.html) Turkish UD treebanks, with more treebanks in progress.
 
+  * [Turkish-ATIS](../treebanks/tr_atis/index.html)
   * [Turkish-BOUN](../treebanks/tr_boun/index.html)
+  * [Turkish-FrameNet](../treebanks/tr_framenet/index.html)
   * [Turkish-GB](../treebanks/tr_gb/index.html)
   * [Turkish-IMST](../treebanks/tr_imst/index.html)
+  * [Turkish-Kenet](../treebanks/tr_kenet/index.html)
   * [Turkish-PUD](../treebanks/tr_pud/index.html)
+  * [Turkish-Penn](../treebanks/tr_penn/index.html)
+  * [Turkish-Tourism](../treebanks/tr_tourism/index.html)

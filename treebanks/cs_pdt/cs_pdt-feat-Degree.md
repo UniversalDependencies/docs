@@ -103,7 +103,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1078; 83%),
-<tt>ADV --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (81; 84%),
+<tt>ADV --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (81; 81%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (28; 65%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-obl.html">obl</a></tt>]--> ADJ</tt> (20; 53%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15; 65%),

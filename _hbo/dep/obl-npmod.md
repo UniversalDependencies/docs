@@ -12,3 +12,4 @@ used as an adverbial modifier in a sentence. This primarily covers the construct
 לא מות תמתון
 obl:npmod(תמתון, מות)
 ~~~
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:20 CET -->

@@ -32,4 +32,4 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 * possesive adjectives:
     * _bubájkov "of the father / father's", brátov / bátev "of the brother / brother's", dǽdov "of the grandfahter / grandfather's", kalékov "of the uncle / uncle's", újkov "of the uncle / uncle's", amíǧev "of the uncle / uncle's", májčin "of the mother / mother's", séstrin / búlin "of the sister / sister's", nevǽstin "of the daughter in law", bábin "of the grandmother / grandmother's" , lélin "of the aunt / aunt's", účinin "of the aunt / aunt's", starčinín "of the aunt / aunt's"_
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:46 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:02 CET -->

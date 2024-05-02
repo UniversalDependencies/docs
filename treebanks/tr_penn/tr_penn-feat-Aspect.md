@@ -18,14 +18,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.ht
 
 14331 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14297; 100%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (13578; 95%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13287; 93%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 90%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12456; 87%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12305; 86%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 56%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14297; 100%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (13578; 95%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13287; 93%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 90%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12455; 87%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12301; 86%), <tt><a href="tr_penn-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8045; 56%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Hab` (1184; 8% of non-empty `Aspect`): <em>olabilir, eder, olursa, edebilir, olur, gerekir, içerir, dayanır, kıyaslanır, sanırım</em>
 * `Perf` (9175; 64% of non-empty `Aspect`): <em>söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</em>
 * `Prog` (3972; 28% of non-empty `Aspect`): <em>ediyor, diyor, söylüyor, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor, geliyor</em>
-* `EMPTY` (1657): <em>ise, sahiptir, vardır, olsa, şirketidir, olsun, biridir, dolardır, nedir, varsa</em>
+* `EMPTY` (1654): <em>ise, sahiptir, vardır, olsa, şirketidir, olsun, biridir, dolardır, nedir, varsa</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th><th><tt>Hab</tt></th></tr>
@@ -112,7 +112,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Perf` (62; 100% of non-empty `Aspect`): <em>değildi, değillerdi, değildik, değildim, değilmiş</em>
-* `EMPTY` (483): <em>değil, değildir, mi, mı, mu, değilim, değiller, değiliz, değilse, mıydı</em>
+* `EMPTY` (484): <em>değil, değildir, mi, mı, mu, değilim, değiller, değiliz, değilse, mıydı</em>
 
 ## Relations with Agreement in `Aspect`
 

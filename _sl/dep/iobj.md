@@ -30,5 +30,25 @@ iobj(relieve,the-court)
 obj(relieve,of-the-case)
 ~~~
 
-In accordance with the general guidelines, the SSJ-UD treebank also follows the following strict rule: if the sentence contains only one non-clausal object, this object is always marked as a direct object, regardless of its grammatical case or semantic role (it receives the obj or ccomp relation). If there is more than one phrasal (**obj**) or clausal object (**ccomp**), the **iobj** relation is used for all subsequent objects. 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:17 CEST -->
+If a clause contains only one non-clausal object (i.e. an object tat is not ccomp), this object can be marked either as a direct object (`obj`) or an indirect object (`iobj`). Potential reasons to consider a sole object in a clause as an `iobj` include:
+
+- It has case marking distinct from that of a prototypical obj, e.g. dative rather than accusative
+- Another, more patient-like object may be inserted into the clause without affecting the morphosyntax of the object in question
+- The verb licenses the object in combination with a ccomp (the ccomp may be analyzed as taking the place of an obj)
+~~~ sdparse
+Suho listje jima je šelestelo pod čevlji \n Dry leaves to-them aux-PAST rustled beneath shoes
+obj(šelestelo,jima)
+obj(rustled,to-them)
+~~~
+~~~ sdparse
+Ni mu še pojasnil \n He-did-not to-him yet explain
+iobj(pojasnil,mu)
+iobj(explain,to-him)
+~~~
+~~~ sdparse
+Županja se je odločila , da jim bo občina po svojih močeh pomagala \n The mayor decided , that the municipality will help them as much as it could
+iobj(pomagala,jim)
+iobj(help,them) 
+~~~
+
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:59 CET -->

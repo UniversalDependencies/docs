@@ -44,12 +44,12 @@ The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 # visual-style 4 5 nmod:tmod	color:blue
 1	From	from	ADP	IN	_	4	case	4:case	_
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
-3	9th	9th	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	4:amod	_
+3	9th	9th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	century	century	NOUN	NN	Number=Sing	11	obl	11:obl:from	_
 5	BC	BC	NOUN	NNP	Number=Sing	4	nmod:tmod	4:nmod:tmod	SpaceAfter=No
 6	,	,	PUNCT	,	_	11	punct	11:punct	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
-8	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	10:amod	_
+8	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	10:amod	_
 9	Greek	Greek	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
 10	texts	text	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj|13:nsubj:xsubj	_
 11	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
@@ -69,9 +69,9 @@ The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	3:expl	_
 2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	3:cop	_
 3	August	August	PROPN	NNP	Number=Sing	0	root	0:root	_
-4	30	30	NUM	CD	NumType=Card	3	nummod	3:nummod	SpaceAfter=No
+4	30	30	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	3:punct	_
-6	2015	2015	NUM	CD	NumType=Card	3	nmod:tmod	3:nmod:tmod	SpaceAfter=No
+6	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	3	nmod:tmod	3:nmod:tmod	SpaceAfter=No
 7	,	,	PUNCT	,	_	3	punct	3:punct	_
 8	as	as	SCONJ	IN	_	13	mark	13:mark	_
 9	an	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek, Daniel Zeman.
 
 Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -83,7 +83,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 
 ## Features
 
-[Abbr](cs_fictree-feat-Abbr.html) – [AdpType](cs_fictree-feat-AdpType.html) – [Animacy](cs_fictree-feat-Animacy.html) – [Aspect](cs_fictree-feat-Aspect.html) – [Case](cs_fictree-feat-Case.html) – [ConjType](cs_fictree-feat-ConjType.html) – [Degree](cs_fictree-feat-Degree.html) – [Gender](cs_fictree-feat-Gender.html) – [Gender[psor]](cs_fictree-feat-Gender-psor.html) – [Hyph](cs_fictree-feat-Hyph.html) – [Mood](cs_fictree-feat-Mood.html) – [NameType](cs_fictree-feat-NameType.html) – [Number](cs_fictree-feat-Number.html) – [Number[psor]](cs_fictree-feat-Number-psor.html) – [NumForm](cs_fictree-feat-NumForm.html) – [NumType](cs_fictree-feat-NumType.html) – [NumValue](cs_fictree-feat-NumValue.html) – [Person](cs_fictree-feat-Person.html) – [Polarity](cs_fictree-feat-Polarity.html) – [Poss](cs_fictree-feat-Poss.html) – [PrepCase](cs_fictree-feat-PrepCase.html) – [PronType](cs_fictree-feat-PronType.html) – [Reflex](cs_fictree-feat-Reflex.html) – [Style](cs_fictree-feat-Style.html) – [Tense](cs_fictree-feat-Tense.html) – [Variant](cs_fictree-feat-Variant.html) – [VerbForm](cs_fictree-feat-VerbForm.html) – [Voice](cs_fictree-feat-Voice.html)
+[Abbr](cs_fictree-feat-Abbr.html) – [AdpType](cs_fictree-feat-AdpType.html) – [Animacy](cs_fictree-feat-Animacy.html) – [Aspect](cs_fictree-feat-Aspect.html) – [Case](cs_fictree-feat-Case.html) – [ConjType](cs_fictree-feat-ConjType.html) – [Degree](cs_fictree-feat-Degree.html) – [Gender](cs_fictree-feat-Gender.html) – [Gender[psor]](cs_fictree-feat-Gender-psor.html) – [Hyph](cs_fictree-feat-Hyph.html) – [Mood](cs_fictree-feat-Mood.html) – [NameType](cs_fictree-feat-NameType.html) – [Number](cs_fictree-feat-Number.html) – [Number[psor]](cs_fictree-feat-Number-psor.html) – [NumForm](cs_fictree-feat-NumForm.html) – [NumType](cs_fictree-feat-NumType.html) – [Person](cs_fictree-feat-Person.html) – [Polarity](cs_fictree-feat-Polarity.html) – [Poss](cs_fictree-feat-Poss.html) – [PrepCase](cs_fictree-feat-PrepCase.html) – [PronType](cs_fictree-feat-PronType.html) – [Reflex](cs_fictree-feat-Reflex.html) – [Style](cs_fictree-feat-Style.html) – [Tense](cs_fictree-feat-Tense.html) – [Variant](cs_fictree-feat-Variant.html) – [VerbForm](cs_fictree-feat-VerbForm.html) – [Voice](cs_fictree-feat-Voice.html)
 
 ## Relations
 
@@ -1046,32 +1046,8 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-  <li><a>NumValue</a>
-    <ul>
-      <li>1
-        <ul>
-          <li>ADJ: jedny, jedněch</li>
-        </ul>
-      </li>
-      <li>1,2,3
-        <ul>
-          <li>NUM: jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři, jedné</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Style</a>
     <ul>
-      <li>Arch
-        <ul>
-          <li>ADV: raděj</li>
-          <li>NOUN: léta, léty, koleni, létech, včerejška</li>
-          <li>PRON: jej</li>
-        </ul>
-      </li>
       <li>Coll
         <ul>
           <li>ADJ: dobrý, jednoduchý, Filipově, Milí, bystrý, chytrej, cílevědomej, dlouhý, dobrým, druhým</li>
@@ -1134,24 +1110,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Acc (16)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1128)</li>
+      <li>VERB-Fin--NOUN-Acc (1147)</li>
       <li>VERB-Fin--NOUN-Gen (49)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (731)</li>
+      <li>VERB-Fin--PRON-Acc (767)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN-Acc (678)</li>
+      <li>VERB-Inf--NOUN-Acc (684)</li>
       <li>VERB-Inf--NOUN-Gen (19)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (467)</li>
+      <li>VERB-Inf--PRON-Acc (475)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (2700)</li>
-      <li>VERB-Part--NOUN-Gen (77)</li>
+      <li>VERB-Part--NOUN-Acc (2738)</li>
+      <li>VERB-Part--NOUN-Gen (79)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (7)</li>
-      <li>VERB-Part--PRON-Acc (1316)</li>
+      <li>VERB-Part--PRON-Acc (1350)</li>
       <li>VERB-Part--PRON-Gen (3)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -1162,13 +1138,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Acc (21)</li>
-      <li>VERB-Fin--PRON-Acc (46)</li>
-      <li>VERB-Inf--NOUN-Acc (10)</li>
-      <li>VERB-Inf--PRON-Acc (13)</li>
-      <li>VERB-Part--NOUN-Acc (57)</li>
-      <li>VERB-Part--NOUN-Gen (3)</li>
-      <li>VERB-Part--PRON-Acc (79)</li>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
+      <li>VERB-Fin--PRON-Acc (10)</li>
+      <li>VERB-Inf--NOUN-Acc (4)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Part--NOUN-Acc (19)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
+      <li>VERB-Part--PRON-Acc (45)</li>
     </ul>
   </li>
 </ul>

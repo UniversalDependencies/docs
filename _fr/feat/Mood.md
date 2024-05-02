@@ -46,4 +46,4 @@ otherwise uncertain.
 
 * _Je veux que tu le <b>fasses</b>._ "I want you to do it." lit. _I want that you it do._
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:40 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:50 CET -->

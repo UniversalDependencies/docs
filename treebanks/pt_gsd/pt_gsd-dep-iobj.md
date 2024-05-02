@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-518 nodes (0%) are attached to their parents as `iobj`.
+478 nodes (0%) are attached to their parents as `iobj`.
 
-429 instances of `iobj` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.62548262548263.
+394 instances of `iobj` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.68828451882845.
 
-The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (274; 53% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (119; 23% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (115; 22% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (264; 55% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (109; 23% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (99; 21% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,20 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 7	de	de	ADP	ADP	_	8	case	_	_
 8	Roniere	_	PROPN	PNOUN	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 iobj	color:blue
+1	Trabalhou	trabalhar	VERB	VERB	_	0	root	_	_
+2	com	com	ADP	_	_	3	nmod	_	_
+3	mim	eu	PRON	_	Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+4	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
@@ -57,20 +71,6 @@ The following 10 pairs of parts of speech are connected with `iobj`: <tt><a href
 14	a	o	DET	DET	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	decisão	decisão	NOUN	NOUN	_	12	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 iobj	color:blue
-1	Trabalhou	trabalhar	VERB	VERB	_	0	root	_	_
-2	com	com	ADP	_	_	3	nmod	_	_
-3	mim	eu	PRON	_	Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
-4	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 

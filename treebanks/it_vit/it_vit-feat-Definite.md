@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Ind` (7; 100% of non-empty `Definite`): <em>altro, Tutti, altri, ognuna, qualcosa, una</em>
-* `EMPTY` (9797): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
+* `EMPTY` (9796): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
 
 ### `NUM`
 

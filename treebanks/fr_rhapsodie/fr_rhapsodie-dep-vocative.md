@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	Sara	Sara	PROPN	_	_	7	vocative	_	_
 3	Ghibaudo	Ghibaudo	PROPN	_	_	2	flat:name	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
-5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+5	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 6	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_
 7	pourra	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 8	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	_
@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 vocative	color:blue
-1	bonjour	bonjour	NOUN	_	_	0	root	_	ExtPos=INTJ
+1	bonjour	bonjour	NOUN	_	ExtPos=INTJ	0	root	_	_
 2	Eric	Eric	PROPN	_	_	1	vocative	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	_
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Kristján Rúnarsson, Þórunn Arnardóttir, Hinrik Hafsteinsson, Starkaður Barkarson, Hildur Jónsdóttir, Steinþór Steingrímsson, Einar Freyr Sigurðsson.
 
 Repository: [UD_Icelandic-Modern](https://github.com/UniversalDependencies/UD_Icelandic-Modern)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -53,7 +53,7 @@ The conversion was done using [UDConverter](https://github.com/thorunna/UDConver
 
 Note that the treebank data in versions 2.8-2.10 is flawed in that various sentences are duplicated, resulting in an overlap between train / dev / test. This issue has been fixed as of version 2.11.
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a corpus which includes texts from the 21st century, NOT found in the original IcePaHC. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme as used for IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The corpus consists of 80,395 tokens in total. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news texts from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016 and – as of version 2.11 – from 2017. These 21st-century additions are not found in the original IcePaHC (which, however, contains two narrative texts from the 21st century).
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a corpus which includes 21st-century texts NOT found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62). These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme as used for IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The corpus consists of 80,395 tokens in total. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news texts from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016 and – as of version 2.11 – from 2017. These 21st-century additions are not found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62) (which, however, contains two narrative texts from the 21st century).
 
 Each sentence ID (`sent_id`) in UD_Icelandic-Modern carries the following information:
 
@@ -543,7 +543,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>AUX: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
       <li>AUX-Fin: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
       <li>NOUN-Fin: bönnum, leiðir</li>
-      <li>VERB: hringir, held, kemur, á, þakka, finnst, þarf, verður, sagði, segir</li>
+      <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</li>
       <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, kom</li>
     </ul>
   </li>
@@ -588,7 +588,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>AUX: er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</li>
       <li>AUX-Fin: er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</li>
       <li>NOUN-Fin: Innheimtu, bönnum, leiðir</li>
-      <li>VERB: hringir, held, kemur, á, þakka, finnst, þarf, verður, eigum, verði</li>
+      <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, eigum, verði</li>
       <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, verður, þakka, eigum, verði</li>
       <li>VERB-Part: fljótandi, bindandi, farandi, fræðandi, komandi, ríkjandi, varðandi, vaxandi</li>
     </ul>
@@ -624,7 +624,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
   <li>Mid
     <ul>
       <li>VERB-Fin: finnst, virðist, hefst, komst, gerist, komist, snýst, fannst, sýnist, komust</li>
-      <li>VERB-Inf: komast, fylgjast, horfast, gerast, nálgast, búast, breytast, kljást, minnast, myndast</li>
+      <li>VERB-Inf: komast, fylgjast, horfast, gerast, nálgast, búast, breytast, hefjast, kljást, minnast</li>
       <li>VERB-Part: hafist, komist, ráðist, ætlast, búist, forðast</li>
       <li>VERB-Sup: gerst, komist, fundist, þróast, aukist, borist, breyst, búist, hugnast, kynnst</li>
     </ul>
@@ -794,20 +794,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (22)</li>
       <li>VERB-Fin--NOUN-Dat (42)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (963)</li>
+      <li>VERB-Fin--NOUN-Nom (960)</li>
       <li>VERB-Fin--PRON (47)</li>
       <li>VERB-Fin--PRON-Acc (73)</li>
       <li>VERB-Fin--PRON-Dat (155)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Fin--PRON-Nom (1823)</li>
+      <li>VERB-Fin--PRON-Nom (1821)</li>
       <li>VERB-Inf--NOUN-Acc (22)</li>
       <li>VERB-Inf--NOUN-Dat (3)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Nom (118)</li>
+      <li>VERB-Inf--NOUN-Nom (121)</li>
       <li>VERB-Inf--PRON (5)</li>
       <li>VERB-Inf--PRON-Acc (9)</li>
       <li>VERB-Inf--PRON-Dat (3)</li>
-      <li>VERB-Inf--PRON-Nom (280)</li>
+      <li>VERB-Inf--PRON-Nom (282)</li>
       <li>VERB-Part--NOUN-Acc (9)</li>
       <li>VERB-Part--NOUN-Dat (30)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
@@ -837,23 +837,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (3)</li>
       <li>VERB--PRON-Dat (3)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Acc (622)</li>
-      <li>VERB-Fin--NOUN-Dat (135)</li>
+      <li>VERB-Fin--NOUN-Acc (614)</li>
+      <li>VERB-Fin--NOUN-Dat (132)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(á) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(í) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (16)</li>
-      <li>VERB-Fin--NOUN-Nom (62)</li>
+      <li>VERB-Fin--NOUN-Gen (14)</li>
+      <li>VERB-Fin--NOUN-Nom (61)</li>
       <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (172)</li>
-      <li>VERB-Fin--PRON-Dat (74)</li>
+      <li>VERB-Fin--PRON-Acc (170)</li>
+      <li>VERB-Fin--PRON-Dat (73)</li>
       <li>VERB-Fin--PRON-Gen (7)</li>
       <li>VERB-Fin--PRON-Nom (84)</li>
-      <li>VERB-Inf--NOUN-Acc (636)</li>
-      <li>VERB-Inf--NOUN-Dat (161)</li>
-      <li>VERB-Inf--NOUN-Gen (26)</li>
-      <li>VERB-Inf--NOUN-Nom (26)</li>
-      <li>VERB-Inf--PRON-Acc (165)</li>
-      <li>VERB-Inf--PRON-Dat (65)</li>
+      <li>VERB-Inf--NOUN-Acc (644)</li>
+      <li>VERB-Inf--NOUN-Dat (164)</li>
+      <li>VERB-Inf--NOUN-Gen (28)</li>
+      <li>VERB-Inf--NOUN-Nom (27)</li>
+      <li>VERB-Inf--PRON-Acc (167)</li>
+      <li>VERB-Inf--PRON-Dat (66)</li>
       <li>VERB-Inf--PRON-Gen (5)</li>
       <li>VERB-Inf--PRON-Nom (29)</li>
       <li>VERB-Part--NOUN-Acc (62)</li>
@@ -884,7 +884,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (26)</li>
       <li>VERB-Fin--NOUN-Nom (6)</li>
       <li>VERB-Fin--PRON-Acc (10)</li>
-      <li>VERB-Fin--PRON-Dat (40)</li>
+      <li>VERB-Fin--PRON-Dat (38)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (18)</li>
       <li>VERB-Inf--NOUN-Dat (26)</li>
@@ -892,7 +892,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
-      <li>VERB-Inf--PRON-Dat (29)</li>
+      <li>VERB-Inf--PRON-Dat (31)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Dat (3)</li>

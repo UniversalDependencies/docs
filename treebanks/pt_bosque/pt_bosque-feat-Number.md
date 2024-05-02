@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-133184 tokens (58%) have a non-empty value of `Number`.
+133186 tokens (58%) have a non-empty value of `Number`.
 25491 types (99%) occur at least once with a non-empty value of `Number`.
 17734 lemmas (98%) occur at least once with a non-empty value of `Number`.
-The feature is used with 14 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (41339; 18% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (34596; 15% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (18752; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (15571; 7% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11394; 5% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (7076; 3% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4210; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (183; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (32; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (41339; 18% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (34596; 15% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (18752; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (15571; 7% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (11394; 5% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (7076; 3% instances), <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (4212; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (183; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (32; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -182,15 +182,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-4210 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Number`.
+4212 <tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4110; 98%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4036; 96%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3761; 89%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2450; 58%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4112; 98%), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt><tt>=3</tt> (4038; 96%), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3763; 89%), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2452; 58%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (1051; 25% of non-empty `Number`): <em>são, foram, estão, vão, serão, têm, eram, serem, estavam, estamos</em>
-* `Sing` (3159; 75% of non-empty `Number`): <em>é, foi, está, vai, era, será, tem, seria, estava, seja</em>
-* `EMPTY` (817): <em>ser, ter, sido, sendo, estar, é, tendo, estando, ir, estado</em>
+* `Sing` (3161; 75% of non-empty `Number`): <em>é, foi, está, vai, era, será, tem, seria, estava, seja</em>
+* `EMPTY` (815): <em>ser, ter, sido, sendo, estar, é, tendo, estando, ir, estado</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

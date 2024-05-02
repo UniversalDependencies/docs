@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `mark`: <tt><a href="zh_gsd
 2427 instances of `mark:rel` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.18252987227029.
 
-The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (1662; 68% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (731; 30% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (15; 1% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1662; 68% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (731; 30% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="zh_gsdsimp-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="zh_gsdsimp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsdsimp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 mark:rel	color:blue
-1	五	五	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
-2	月	月	NOUN	NNB	_	4	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
+1	五	五	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=wǔ|LTranslit=wǔ
+2	月	月	NOUN	NNB	_	1	clf	_	SpaceAfter=No|Translit=yuè|LTranslit=yuè
 3	二十一	二十一	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit='èrshíyī|LTranslit='èrshíyī
 4	日	日	NOUN	NNB	_	8	nmod:tmod	_	SpaceAfter=No|Translit=rì|LTranslit=rì
 5	，	，	PUNCT	,	_	4	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -33,7 +33,7 @@ The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 8	迎接	迎接	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=yíngjiē|LTranslit=yíngjiē
 9	前来	前来	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=qiánlái|LTranslit=qiánlái
 10	沈阳	沈阳	PROPN	NNP	_	9	obj	_	SpaceAfter=No|Translit=沈yáng|LTranslit=沈yáng
-11	的	的	PART	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+11	的	的	SCONJ	DEC	_	9	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 12	科尔沁	科尔沁	PROPN	NNP	_	13	compound	_	SpaceAfter=No|Translit=kē'ěr沁|LTranslit=kē'ěr沁
 13	部	部	PART	SFN	_	15	nmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 14	奥巴	奥巴	PROPN	NNP	_	15	nmod	_	SpaceAfter=No|Translit='àoba|LTranslit='àoba
@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 9	会	会	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	设置	设置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂贵	昂贵	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音频	音频	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	设备	设备	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -93,7 +93,7 @@ The following 7 pairs of parts of speech are connected with `mark:rel`: <tt><a h
 6	面积	面积	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=miànjī|LTranslit=miànjī
 7	11265	11265	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=11265|LTranslit=11265
 8	平方米	平方米	NOUN	NNB	_	15	acl:relcl	_	SpaceAfter=No|Translit=píngfāngmǐ|LTranslit=píngfāngmǐ
-9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+9	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	三元	三元	PROPN	NNP	_	11	compound	_	SpaceAfter=No|Translit=sānyuán|LTranslit=sānyuán
 11	里	里	PART	SFN	_	15	nmod	_	SpaceAfter=No|Translit=lǐ|LTranslit=lǐ
 12	抗	抗	VERB	VV	_	15	amod	_	SpaceAfter=No|Translit=kàng|LTranslit=kàng

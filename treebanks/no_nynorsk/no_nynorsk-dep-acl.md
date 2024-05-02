@@ -49,7 +49,7 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 5 7 acl	color:blue
 1	Dette	dette	PRON	pron	Gender=Neut|Person=3|PronType=Prs	5	nsubj	_	_
 2	kan	kunne	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	ikkje	ikkje	ADV	adv	_	5	advmod	_	_
+3	ikkje	ikkje	PART	adv	Polarity=Neg	5	advmod	_	_
 4	vere	vere	AUX	verb	VerbForm=Inf	5	cop	_	_
 5	noko	noko	PRON	pron	Gender=Neut|Person=3|PronType=Prs	0	root	_	_
 6	å	å	PART	inf-merke	_	7	mark	_	_
@@ -73,7 +73,7 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	om	om	ADP	prep	_	10	case	_	_
 6	at	at	SCONJ	sbu	_	10	mark	_	_
 7	jentene	jente	NOUN	subst	Gender=Fem|Number=Plur	10	nsubj	_	_
-8	ikkje	ikkje	ADV	adv	_	10	advmod	_	_
+8	ikkje	ikkje	PART	adv	Polarity=Neg	10	advmod	_	_
 9	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	gode	god	ADJ	adj	Degree=Pos|Number=Plur	4	acl	_	_
 11	nok	nok	ADV	adv	_	10	advmod	_	SpaceAfter=No

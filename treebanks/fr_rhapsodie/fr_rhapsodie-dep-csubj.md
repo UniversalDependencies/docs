@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 12 csubj	color:blue
-1	XXX	XXX	X	_	_	3	dep	_	ExtPos=X|Overlap=Rhap_D2007-84|Scrap=Yes|SpaceAfter=No
+1	XXX	XXX	X	_	_	3	dep	_	Overlap=Rhap_D2007-84|Scrap=Yes|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Overlap=Rhap_D2007-84
 3	ah	ah	INTJ	_	_	8	discourse	_	Overlap=Rhap_D2007-84|SpaceAfter=No
 4	,	,	PUNCT	_	_	8	punct	_	Overlap=Rhap_D2007-84
@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	reparandum	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	expl:subj	_	SpaceAfter=No
-7	est	être	AUX	conj:reform	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 9	que	que	SCONJ	_	_	13	mark	_	_
 10	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	SpaceAfter=No
@@ -74,10 +74,10 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 25	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	reparandum	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	28	punct	_	_
 27	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	28	nsubj	_	SpaceAfter=No
-28	est	être	VERB	conj:reform	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
+28	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
 29	comme	comme	SCONJ	_	_	32	mark	_	_
 30	si	si	SCONJ	_	_	32	mark	_	_
-31	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	32	nsubj	_	_
+31	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	32	nsubj	_	_
 32	faisais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	28	ccomp	_	_
 33	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	spectacle	spectacle	NOUN	_	Gender=Masc|Number=Sing	32	obj	_	SpaceAfter=No
@@ -96,12 +96,12 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	euh	euh	INTJ	_	_	8	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	et	et	CCONJ	conj:reform	_	8	cc	_	_
+5	et	et	CCONJ	_	_	8	cc	_	_
 6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	expl:subj	_	SpaceAfter=No
 7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	vrai	vrai	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 9	que	que	SCONJ	_	_	14	mark	_	_
-10	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+10	elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 12	peut-être	peut-être	ADV	_	_	14	advmod	_	_
 13	pas	pas	ADV	_	Polarity=Neg	14	advmod	_	_

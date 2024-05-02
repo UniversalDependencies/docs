@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ya</em> (<tt><a href="tr_atis-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.748764).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.744205).
 
 The 1st highest number of forms (1) was observed with the lemma “ya”: <em>ya</em>.
 
@@ -33,7 +33,7 @@ The 1st highest number of forms (1) was observed with the lemma “ya”: <em>ya
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (3; 38% instances), <tt><a href="tr_atis-dep-discourse.html">discourse</a></tt> (2; 25% instances), <tt><a href="tr_atis-dep-fixed.html">fixed</a></tt> (2; 25% instances), <tt><a href="tr_atis-dep-conj.html">conj</a></tt> (1; 13% instances)
+`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="tr_atis-dep-fixed.html">fixed</a></tt> (4; 50% instances), <tt><a href="tr_atis-dep-compound.html">compound</a></tt> (2; 25% instances), <tt><a href="tr_atis-dep-discourse.html">discourse</a></tt> (2; 25% instances)
 
 Parents of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (6; 75% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (1; 13% instances)
 

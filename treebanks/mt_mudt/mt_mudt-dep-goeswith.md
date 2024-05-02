@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="mt_mudt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="mt_mudt-pos-ADV.html">ADV</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="mt_mudt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="mt_mudt-pos-VERB.html">VERB</a></tt>-<tt><a href="mt_mudt-pos-X.html">X</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 18	meta	_	SCONJ	CONJ_SUB	_	29	mark	_	_
 19	fuq	_	ADP	PREP	_	20	case	_	_
 20	quddiem	_	ADV	ADV	_	29	advmod	_	_
-21	nett	_	ADV	ADV	_	20	goeswith	_	_
+21	nett	_	X	X_BOR	_	20	goeswith	_	_
 22	fit-	_	ADP	PREP_DEF	_	23	case:det	_	SpaceAfter=No
 23	twaqqif	_	NOUN	NOUN	_	29	obl	_	_
 24	mill-	_	ADP	PREP_DEF	_	25	case:det	_	SpaceAfter=No
@@ -130,7 +130,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 21	fuqhom	_	PRON	PREP_PRON	_	20	obl:arg	_	_
 22	ta'	_	ADP	GEN	_	23	case	_	_
 23	gonzi-	_	PROPN	NOUN_PROP	_	20	nsubj	_	_
-24	pn	_	NOUN	X_ABV	_	23	goeswith	_	_
+24	pn	_	X	X_BOR	_	23	goeswith	_	_
 25	biex	_	SCONJ	CONJ_SUB	_	26	mark	_	_
 26	jagħmlulhom	_	VERB	VERB	_	20	advcl	_	_
 27	xogħol	_	NOUN	NOUN	_	26	obj	_	_

@@ -16,4 +16,4 @@ Pronoun can also be clitics, affixes.
 - _hoː_ 1SG
 - _=heːb_ 1SG  
 - _-na_ 1PL
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:27 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:27 CET -->

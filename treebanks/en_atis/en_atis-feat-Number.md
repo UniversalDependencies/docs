@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 29629 tokens (48%) have a non-empty value of `Number`.
 468 types (50%) occur at least once with a non-empty value of `Number`.
-422 lemmas (54%) occur at least once with a non-empty value of `Number`.
+421 lemmas (54%) occur at least once with a non-empty value of `Number`.
 The feature is used with 6 part-of-speech tags: <tt><a href="en_atis-pos-PROPN.html">PROPN</a></tt> (14775; 24% instances), <tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (10930; 18% instances), <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (2640; 4% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (914; 1% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (335; 1% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt> (35; 0% instances).
 
 ### `PROPN`
@@ -73,7 +73,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 * `Sing` (335; 100% of non-empty `Number`): <em>is, leaves, arrives, serves, goes, has, flies, stops, makes, uses</em>
 * `EMPTY` (5542): <em>show, list, like, leaving, fly, need, arriving, have, give, leave</em>
 
-`Number` seems to be **lexical feature** of `VERB`. 100% lemmas (28) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `VERB`. 100% lemmas (27) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -90,11 +90,11 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>PROPN --[<tt><a href="en_atis-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2731; 89%),
+<tt>PROPN --[<tt><a href="en_atis-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2736; 89%),
 <tt>NOUN --[<tt><a href="en_atis-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1279; 73%),
 <tt>NOUN --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (540; 63%),
 <tt>PROPN --[<tt><a href="en_atis-dep-conj.html">conj</a></tt>]--> PROPN</tt> (456; 100%),
-<tt>PROPN --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (277; 99%),
+<tt>PROPN --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (278; 99%),
 <tt>PROPN --[<tt><a href="en_atis-dep-appos.html">appos</a></tt>]--> PROPN</tt> (218; 100%),
 <tt>NOUN --[<tt><a href="en_atis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (142; 90%),
 <tt>NOUN --[<tt><a href="en_atis-dep-cop.html">cop</a></tt>]--> AUX</tt> (92; 65%),

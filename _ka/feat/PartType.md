@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-The `PartType` feature typically applies to [particles](_ka/pos/PART).
+The `PartType` feature typically applies to [particles](_ka/pos/PART), [pronouns](_ka/pos/PRON), [adpositions](_ka/pos/ADP), [nouns](_ka/pos/NOUN), [proper nouns](_ka/pos/PROPN) [adverbs](_ka/pos/ADV), [adjectives](_ka/pos/ADJ), [numerals](_ka/pos/NUM).
 
 ### <a name="Int">`Int`</a>: question particle
 
@@ -40,3 +40,4 @@ The `PartType` feature typically applies to [particles](_ka/pos/PART).
 #### Examples
 
 * _აკი_ 'but', _მაშ_ 'surely' etc.
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->

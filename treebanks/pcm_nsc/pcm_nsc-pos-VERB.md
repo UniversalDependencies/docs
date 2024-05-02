@@ -61,12 +61,12 @@ The 2nd highest number of forms (5) was observed with the lemma “tink”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “come”: <em>came, come, comes, coming</em>.
 
-`VERB` occurs with 9 features: <tt><a href="pcm_nsc-feat-VerbType.html">VerbType</a></tt> (912; 5% instances), <tt><a href="pcm_nsc-feat-VerbForm.html">VerbForm</a></tt> (406; 2% instances), <tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt> (394; 2% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (276; 2% instances), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt> (109; 1% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-feat-Voice.html">Voice</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt> (5; 0% instances)
+`VERB` occurs with 10 features: <tt><a href="pcm_nsc-feat-VerbType.html">VerbType</a></tt> (912; 5% instances), <tt><a href="pcm_nsc-feat-VerbForm.html">VerbForm</a></tt> (406; 2% instances), <tt><a href="pcm_nsc-feat-Tense.html">Tense</a></tt> (394; 2% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (276; 2% instances), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt> (109; 1% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (68; 0% instances), <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (37; 0% instances), <tt><a href="pcm_nsc-feat-Voice.html">Voice</a></tt> (8; 0% instances), <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt> (5; 0% instances)
 
-`VERB` occurs with 13 feature-value pairs: `Aspect=Imp`, `Mood=Ind`, `Mood=Opt`, `Number=Sing`, `PartType=Cop`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Part`, `VerbType=Cop`, `Voice=Pass`
+`VERB` occurs with 18 feature-value pairs: `Aspect=Imp`, `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=SCONJ`, `ExtPos=VERB`, `Mood=Ind`, `Mood=Opt`, `Number=Sing`, `PartType=Cop`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Part`, `VerbType=Cop`, `Voice=Pass`
 
-`VERB` occurs with 21 feature combinations.
-The most frequent feature combination is `_` (16167 tokens).
+`VERB` occurs with 29 feature combinations.
+The most frequent feature combination is `_` (16150 tokens).
 Examples: <em>go, do, get, say, come, know, see, tell, wan, talk</em>
 
 

@@ -36,7 +36,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_tourism-pos-NUM.
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (4; 100% of non-empty `NumType`): <em>BEŞLİK, KAÇ</em>
-* `EMPTY` (10067): <em>İYİ, MEMNUN, GÜZEL, TEMİZ, GENEL, İLGİLİ, UYGUN, FAZLA, ÇOCUKLU, YOK</em>
+* `EMPTY` (10064): <em>İYİ, MEMNUN, GÜZEL, TEMİZ, GENEL, İLGİLİ, UYGUN, FAZLA, ÇOCUKLU, YOK</em>
 
 ## Relations with Agreement in `NumType`
 

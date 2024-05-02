@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Fut">Fut</a></td>
+  <td><a href="#Imp">Imp</a></td>
   <td><a href="#Past">Past</a></td>
   <td><a href="#Pres">Pres</a></td>
 </tr>
@@ -29,11 +30,27 @@ and stands alone in the third person.
 The auxiliary (if any) is in its present form, so it will have `Tense=Pres`.
 The participle has `Tense=Past`, even though it can also be used to form present conditional.
 
+In Old Czech, `Tense=Past` is also used with `VerbForm=Fin` (finite verb) and denotes the
+aorist (simple past tense, used typically but not exclusively with perfective verbs). This
+form vanished from the language during the 15th century.
+
 #### Examples
 
 * _<b>Šel</b> jsem domů.&nbsp;_ “I have <b>gone</b> home.”
 * _<b>Šel</b> jsi domů.&nbsp;_ “You have <b>gone</b> home.”
 * _<b>Šel</b> domů.&nbsp;_ “He has <b>gone</b> home.”
+* _An vstav i <b>jide</b> do svého domu.&nbsp;_ “And he arose, and <b>went</b> to his house.” (Old Czech aorist)
+* _Tehdy ona <b>jidesta</b> po něm.&nbsp;_ “Then they <b>followed</b> him.” (lit. “Then they <b>went</b> after him.” Old Czech aorist, dual number)
+
+### <a name="Imp">`Imp`</a>: imperfect tense
+
+Another simple past tense form that was used in Old Czech and disappeared during the 15th century.
+Used typically, but not exclusively, with imperfective verbs.
+
+#### Examples
+
+* _A vstav Ježíš, <b>jdieše</b> po něm i jeho mlazší.&nbsp;_ “And Jesus arose, and his disciples <b>followed</b> him.” (lit. “<b>went</b> after him”)
+* _A když odtud <b>jdieše</b> Ježíš, <b>jdiešta</b> po něm dva slepcě.&nbsp;_ “And when Jesus <b>departed</b> thence, two blind men <b>followed</b> him.” (lit. “And when Jesus <b>went</b> from here, two blind men <b>went</b> after him.”; dual number)
 
 ### <a name="Pres">`Pres`</a>: present tense
 
@@ -69,4 +86,4 @@ moment. Future tense in Czech is formed in one of three ways, depending of the v
 * _<b>Půjdu</b> domů.&nbsp;_ “I <b>will go</b> home.” (_Jít&nbsp;_ is an imperfective verb, phonological rule transformed the prefix
   _po-_ to _pů-._)
 * _<b>Budu</b> přicházet domů.&nbsp;_ “I <b>will</b> be coming home.” (_Přicházet&nbsp;_ is an imperfective verb and it forms future periphrastically.)
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:49 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:09 CET -->

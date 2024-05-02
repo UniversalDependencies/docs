@@ -34,6 +34,13 @@ amod(σπόρος, οργανικός)
 amod(σπόρος, ξεφλουδισμένος)
 ~~~
 
+Αdverbs occurring in typical adjectival positions, such as between a determiner and a noun, depend on the noun with the [amod]() relation in order to keep uniformity across languages.
+
+~~~ sdparse
+## trans = “The bottom shelf opens with some difficulty.”
+Το κάτω.ADV ράφι ανοίγει δύσκολα. 
+amod(ράφι, κάτω)
+~~~
 
 <!--
 TODO
@@ -61,4 +68,4 @@ Sam took out  a $ 3 million loan
 amod(loan, $)
 ~~~
 -->
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:58 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:25 CET -->

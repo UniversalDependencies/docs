@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `cc`.
+8 nodes (0%) are attached to their parents as `cc`.
 
-6 instances of `cc` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28571428571429.
+7 instances of `cc` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375.
 
-The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (4; 57% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (3; 43% instances).
+The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (5; 63% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-CCONJ.html">CCONJ</a></tt> (3; 38% instances).
 
 
 ~~~ conllu

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-9649 tokens (12%) have a non-empty value of `Tense`.
-1261 types (12%) occur at least once with a non-empty value of `Tense`.
-467 lemmas (8%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 5 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4958; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4672; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+9613 tokens (12%) have a non-empty value of `Tense`.
+1250 types (12%) occur at least once with a non-empty value of `Tense`.
+464 lemmas (8%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 5 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (4922; 6% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4672; 6% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-4958 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Tense`.
+4922 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4717; 95%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4276; 86%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4092; 83%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3474; 70%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3287; 66%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4681; 95%), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4242; 86%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4056; 82%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3469; 70%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3255; 66%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (1421; 29% of non-empty `Tense`): <em>sagði, kom, ætti, fór, tók, vann, varð, átti, velti, nefndi</em>
-* `Pres` (3537; 71% of non-empty `Tense`): <em>hringir, held, kemur, á, þakka, finnst, þarf, verður, eigum, verði</em>
-* `EMPTY` (4337): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
+* `Pres` (3501; 71% of non-empty `Tense`): <em>hringir, held, kemur, á, finnst, þakka, þarf, verður, eigum, verði</em>
+* `EMPTY` (4373): <em>gera, fara, taka, koma, varðandi, segja, gert, vinna, sjá, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (387; 54%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (385; 54%),
 <tt>VERB --[<tt><a href="is_modern-dep-obl.html">obl</a></tt>]--> AUX</tt> (4; 57%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),

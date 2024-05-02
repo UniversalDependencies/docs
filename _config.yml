@@ -414,6 +414,52 @@ collections:
     output: true
   pap:
     output: true
+  uz:
+    output: true
+  sei:
+    output: true
+  cux:
+    output: true
+  huv:
+    output: true
+  usp:
+    output: true
+  ota:
+    output: true
+  ht:
+    output: true
+  bar:
+    output: true
+  ab:
+    output: true
+  tn:
+    output: true
+  tww:
+    output: true
+  egy:
+    output: true
+  pln:
+    output: true
+  trw:
+    output: true
+  kv:
+    output: true
+  xpg:
+    output: true
+  ang:
+    output: true
+  ltg:
+    output: true
+  gya:
+    output: true
+  qte:
+    output: true
+  az:
+    output: true
+  gwi:
+    output: true
+  pad:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

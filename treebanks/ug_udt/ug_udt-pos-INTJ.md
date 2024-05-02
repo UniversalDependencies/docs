@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: _، پاھ، ھەي، ياق، ۋاي، رە
 
 The 10 most frequent `INTJ` types:  نەقەدەر، نېمىدېگەن، پاھ، ھەي، ياق، ۋاي، رەھمەت، بولسۇن، ۋۇي، ھا
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 4560, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 4224, <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 479, <tt><a href="ug_udt-pos-PUNCT.html">PUNCT</a></tt> 434, <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> 326, <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 185, <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> 157, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 119, <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> 75, <tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> 72, <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> 52, <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 47, <tt><a href="ug_udt-pos-DET.html">DET</a></tt> 28, <tt><a href="ug_udt-pos-X.html">X</a></tt> 27), ياق (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 6)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 4560, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 4224, <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> 479, <tt><a href="ug_udt-pos-PUNCT.html">PUNCT</a></tt> 434, <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> 326, <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 185, <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> 157, <tt><a href="ug_udt-pos-PART.html">PART</a></tt> 119, <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> 75, <tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> 72, <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> 51, <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 47, <tt><a href="ug_udt-pos-DET.html">DET</a></tt> 28, <tt><a href="ug_udt-pos-X.html">X</a></tt> 27), ياق (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 6)
 
 The 10 most frequent ambiguous types:  ياق (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 1), بولسۇن (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> 5), ئاھ (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1), ئاپلا (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> 1), جۈپ (<tt><a href="ug_udt-pos-DET.html">DET</a></tt> 4, <tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> 1), نېمىدىگەن (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1), ۋايجان (<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  ياق (<tt><a href="ug_udt-pos-INTJ.html
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 2.250000 (the average of all parts of speech is 4.089932).
+The form / lemma ratio of `INTJ` is 2.250000 (the average of all parts of speech is 4.088599).
 
 The 1st highest number of forms (16) was observed with the lemma “_”: ئاپلا, ئاھ, جىرىڭ, جۈپ, خۇدايىمەي, خەپ, نېمىدىگەن, نېمىدېگەن, نەقەدەر, پىخ, چىكىلداپ, ھا, ھەببەللى, ۋاي-ۋۇي, ۋايجان, ۋۇي.
 

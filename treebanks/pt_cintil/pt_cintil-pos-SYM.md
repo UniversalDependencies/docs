@@ -43,7 +43,7 @@ The 3rd highest number of forms (1) was observed with the lemma “/”: <em>/</
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 5 different relations: <tt><a href="pt_cintil-dep-flat.html">flat</a></tt> (45; 68% instances), <tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt> (9; 14% instances), <tt><a href="pt_cintil-dep-dep.html">dep</a></tt> (8; 12% instances), <tt><a href="pt_cintil-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="pt_cintil-dep-root.html">root</a></tt> (1; 2% instances)
+`SYM` nodes are attached to their parents using 5 different relations: <tt><a href="pt_cintil-dep-flat.html">flat</a></tt> (50; 76% instances), <tt><a href="pt_cintil-dep-dep.html">dep</a></tt> (8; 12% instances), <tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt> (4; 6% instances), <tt><a href="pt_cintil-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="pt_cintil-dep-root.html">root</a></tt> (1; 2% instances)
 
 Parents of `SYM` nodes belong to 7 different parts of speech: <tt><a href="pt_cintil-pos-PROPN.html">PROPN</a></tt> (49; 74% instances), <tt><a href="pt_cintil-pos-NOUN.html">NOUN</a></tt> (10; 15% instances), <tt><a href="pt_cintil-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="pt_cintil-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="pt_cintil-pos-ADV.html">ADV</a></tt> (1; 2% instances),  (1; 2% instances), <tt><a href="pt_cintil-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

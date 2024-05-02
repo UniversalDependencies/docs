@@ -7,30 +7,35 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-Ruthenian: Relations: `nsubj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `nsubj`: <tt><a href="orv_ruthenian-dep-nsubj-pass.html">nsubj:pass</a></tt>.
+There are 2 language-specific subtypes of `nsubj`: <tt><a href="orv_ruthenian-dep-nsubj-outer.html">nsubj:outer</a></tt>, <tt><a href="orv_ruthenian-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-362 nodes (4%) are attached to their parents as `nsubj`.
+3529 nodes (4%) are attached to their parents as `nsubj`.
 
-287 instances of `nsubj` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.29834254143646.
+2770 instances of `nsubj` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.46557098328138.
 
-The following 26 pairs of parts of speech are connected with `nsubj`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (128; 35% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (118; 33% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (30; 8% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (19; 5% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 42 pairs of parts of speech are connected with `nsubj`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1530; 43% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1063; 30% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (209; 6% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (184; 5% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (114; 3% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (83; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (65; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (52; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (52; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (28; 1% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (23; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt>-<tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nsubj	color:blue
-1	А	а	CCONJ	_	_	7	cc	_	wf="А"
-2	к	къ	ADP	_	_	3	case	_	wf="к"
-3	тои	тотъ	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	wf="тои"
-4	реце	рѣка	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	wf="реце"
-5	никому	никто	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Neg	7	iobj	_	wf="никому"
-6	прихода	приходъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nsubj	_	wf="прихода"
-7	нетъ	нѣтъ	VERB	_	Polarity=Neg	0	root	_	wf="нетъ"|SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 6 5 nsubj	color:blue
+1	Ино	ино	CCONJ	СС	_	6	cc	_	wf="Ино"
+2	к	къ	ADP	IN	_	3	case	_	wf="к"
+3	нам	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl	_	wf="нам"
+4	наших	нашъ	DET	PRP$	Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	wf="наших"
+5	пословъ	посолъ	NOUN	NNA	Case=Gen|Gender=Masc|Number=Plur	6	nsubj	_	wf="пословъ"
+6	нѣтъ	нетъ	VERB	PRED	Polarity=Neg	0	root	_	wf="нѣтъ"|SpaceAfter=No
+7	,	,	PUNCT	-COMMA-	_	11	punct	_	_
+8	а	а	CCONJ	СС	_	11	cc	_	wf="а"
+9	нам	мы	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	iobj	_	wf="нам"
+10	не	не	PART	NEG	Polarity=Neg	11	advmod	_	wf="не"
+11	ѡткажете	отказати	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	wf="ѡткажете"
+12	ничем	ништо	PRON	NEG	Case=Ins|Gender=Neut|Number=Sing|PronType=Neg	11	iobj	_	wf="ничем"|SpaceAfter=No
+13	.	.	PUNCT	-PERIOD-	_	6	punct	_	_
 
 ~~~
 
@@ -38,47 +43,39 @@ The following 26 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nsubj	color:blue
-1	А	а	CCONJ	_	_	3	cc	_	wf="А"
-2	ѧзъ	азъ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wf="ѧзъ"
-3	кланѧюсѧ	кланятися	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	wf="кланѧюсѧ"
-4	и	и	CCONJ	_	_	5	cc	_	wf="и"
-5	бласловлѧю	благословляти	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	wf="бласловлѧю"
-6	і	и	CCONJ	_	_	8	cc	_	wf="і"
-7	Бога	богъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	8	obj	_	wf="Бога"
-8	молю	молити	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	wf="молю"
-9	за	за	ADP	_	_	10	case	_	wf="за"
-10	васъ	вы	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	8	obl	_	wf="васъ"|SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	дѣти	дѣтя	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	10	appos	_	wf="дѣти"
-13	своѣ	свой	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	12	det	_	wf="своѣ"|SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 nsubj	color:blue
+1	А	а	CCONJ	СС	_	6	cc	_	wf="А"
+2	мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	wf="мы"
+3	вамъ	вы	PRON	PRP	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	wf="вамъ"
+4	також	также	ADV	RB	Degree=Pos	6	advmod	_	wf="також"
+5	противу	противу	ADV	RB	Degree=Pos	6	advmod	_	wf="противу"
+6	хочем	хотети	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="хочем"
+7	приѧти	прияти	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	wf="приѧти"|SpaceAfter=No
+8	.	.	PUNCT	-PERIOD-	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 3 nsubj	color:blue
-1	А	а	CCONJ	_	_	11	cc	_	wf="А"
-2	тот	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	wf="тот"
-3	Васил(ь)	Василь	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	11	nsubj	_	wf="Василь"|SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	Иванов	ивановъ	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6	amod	_	wf="Иванов"
-6	брат	братъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	wf="брат"|SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	в	въ	ADP	_	_	10	case	_	wf="в"
-9	Ризком	рижский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	wf="Ризком"
-10	месте	мѣсто	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	wf="месте"
-11	загиб	загибнути	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="загиб"
-12	без	безъ	ADP	_	_	13	case	_	wf="без"
-13	ведома	вѣдомъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	wf="ведома"|SpaceAfter=No
-14	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 3 5 nsubj	color:blue
+1	А	а	CCONJ	СС	_	11	cc	_	wf="А"
+2	што	што	PRON	WP	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	6	obj	_	wf="што"
+3	иметь	яти	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	wf="иметь"
+4	вамь	вы	PRON	PRP	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	wf="вамь"
+5	Коурило	Курило	PROPN	NPA	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	wf="Коурило"
+6	говорити	говорити	VERB	VB	VerbForm=Inf|Voice=Act	3	xcomp	_	wf="говорити"|SpaceAfter=No
+7	,	,	PUNCT	-COMMA-	_	6	punct	_	_
+8	и	и	CCONJ	СС	_	11	cc	_	wf="и"
+9	вы	вы	PRON	PRP	Case=Nom|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	wf="вы"
+10	томоу	то	PRON	DT	Case=Dat|Gender=Neut|Number=Sing|PronType=Dem	11	iobj	_	wf="томоу"
+11	вѣрьте	верити	VERB	VBC	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="вѣрьте"|SpaceAfter=No
+12	.	.	PUNCT	-PERIOD-	_	11	punct	_	_
 
 ~~~
 

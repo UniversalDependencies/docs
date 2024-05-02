@@ -17,9 +17,9 @@ Quick links:
 We use a revised version of [the CoNLL-X format](http://anthology.aclweb.org/W/W06/W06-2920.pdf) called CoNLL-U.
 Annotations are encoded in plain text files (UTF-8, [normalized to NFC](http://unicode.org/reports/tr15/), using only the LF character as line break, including an LF character at the end of file) with three types of lines:
 
- 1. Word lines containing the annotation of a word/token in 10 fields separated by single tab characters; see below.
- 2. Blank lines marking sentence boundaries.
- 3. Comment lines starting with hash (#).
+ 1. Word lines containing the annotation of a word/token/node in 10 fields separated by single tab characters; see below.
+ 2. Blank lines marking sentence boundaries. The last line of each sentence is a blank line.
+ 3. Sentence-level comments starting with hash (#). Comment lines occur at the beginning of sentences, before word lines.
 
 Sentences consist of one or more word lines, and word lines contain the following fields:
 
@@ -27,7 +27,7 @@ Sentences consist of one or more word lines, and word lines contain the followin
  2. FORM: Word form or punctuation symbol.
  3. LEMMA: Lemma or stem of word form.
  4. UPOS: [Universal part-of-speech tag](u/pos/index.html).
- 5. XPOS: Language-specific part-of-speech tag; underscore if not available.
+ 5. XPOS: Optional language-specific (or treebank-specific) part-of-speech / morphological tag; underscore if not available.
  6. FEATS: List of morphological features from the [universal feature inventory](u/feat/index.html) or from a defined [language-specific extension](ext-feat-index.html); underscore if not available.
  7. HEAD: Head of the current word, which is either a value of ID or zero (0).
  8. DEPREL: [Universal dependency relation](u/dep/index.html) to the HEAD ([root](u-dep/root) iff HEAD = 0) or a defined language-specific subtype of one.
@@ -129,8 +129,12 @@ invalid (and so would be 7 8-9 8.1 8 9).
 
 # Morphological Annotation
 
-The UPOS field contains a part-of-speech tag from the [universal POS tag](u/pos/index.html) set, while the XPOS optionally contains a language-specific part-of-speech tag, normally from a traditional, more fine-grained tagset. If the XPOS field is used, the treebank-specific documentation should define a mapping from XPOS to UPOS values (which may be context-sensitive
-and refer to other fields as well). If no language-specific tags are available, the XPOS field should contain an underscore for all words.
+The UPOS field contains a part-of-speech tag from the [universal POS tag](u/pos/index.html) set,
+while the XPOS optionally contains a language-specific (or even treebank-specific) part-of-speech
+/ morphological tag, normally from a traditional, more fine-grained tagset. If the XPOS field is
+used, the README file of the treebank should define a mapping from XPOS to UPOS values (which may
+be context-sensitive and refer to other fields as well). If no language-specific tags are available,
+the XPOS field should contain an underscore for all words.
 
 The FEATS field contains a list
 of morphological features, with vertical bar (\|) as list separator and with underscore to represent the empty list.
@@ -163,7 +167,7 @@ Note that the DEPS field should be a self-contained representation of the enhanc
 
     1    They     they    PRON    PRP    Case=Nom|Number=Plur               2    nsubj    2:nsubj|4:nsubj
     2    buy      buy     VERB    VBP    Number=Plur|Person=3|Tense=Pres    0    root     0:root
-    3    and      and     CONJ    CC     _                                  4    cc       4:cc
+    3    and      and     CCONJ   CC     _                                  4    cc       4:cc
     4    sell     sell    VERB    VBP    Number=Plur|Person=3|Tense=Pres    2    conj     0:root|2:conj
     5    books    book    NOUN    NNS    Number=Plur                        2    obj      2:obj|4:obj
     6    .        .       PUNCT   .      _                                  2    punct    2:punct
@@ -269,7 +273,7 @@ Example:
     # text = They buy and sell books.
     1   They     they    PRON    PRP    Case=Nom|Number=Plur               2   nsubj   2:nsubj|4:nsubj   _
     2   buy      buy     VERB    VBP    Number=Plur|Person=3|Tense=Pres    0   root    0:root            _
-    3   and      and     CONJ    CC     _                                  4   cc      4:cc              _
+    3   and      and     CCONJ   CC     _                                  4   cc      4:cc              _
     4   sell     sell    VERB    VBP    Number=Plur|Person=3|Tense=Pres    2   conj    0:root|2:conj     _
     5   books    book    NOUN    NNS    Number=Plur                        2   obj     2:obj|4:obj       SpaceAfter=No
     6   .        .       PUNCT   .      _                                  2   punct   2:punct           _

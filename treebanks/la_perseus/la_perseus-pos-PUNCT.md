@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>similiter</em> (<tt><a href="la_perse
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.102007).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.102233).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (4507; 100% instances)
 
-Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (3402; 75% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (364; 8% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (220; 5% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (214; 5% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (141; 3% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (46; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (23; 1% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 13 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (3405; 76% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (364; 8% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (221; 5% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (214; 5% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (141; 3% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (46; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (43; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (17; 0% instances), <tt><a href="la_perseus-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 4507 (100%) `PUNCT` nodes are leaves.
 

@@ -61,7 +61,7 @@ The 3rd highest number of forms (6) was observed with the lemma “Россия�
 
 `PROPN` occurs with 8 features: <tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt> (4444; 100% instances), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt> (3793; 85% instances), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt> (3793; 85% instances), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt> (3793; 85% instances), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt> (3792; 85% instances), <tt><a href="ru_taiga-feat-Abbr.html">Abbr</a></tt> (411; 9% instances), <tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt> (41; 1% instances), <tt><a href="ru_taiga-feat-Foreign.html">Foreign</a></tt> (17; 0% instances)
 
-`PROPN` occurs with 26 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Geo`, `NameType=Giv`, `NameType=Oth`, `NameType=Patrn`, `NameType=Pro`, `NameType=Prs`, `NameType=Sur`, `NameType=Zoo`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`PROPN` occurs with 26 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Geo`, `NameType=Giv`, `NameType=Oth`, `NameType=Pat`, `NameType=Pro`, `NameType=Prs`, `NameType=Sur`, `NameType=Zoo`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
 
 `PROPN` occurs with 198 feature combinations.
 The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing` (370 tokens).

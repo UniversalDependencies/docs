@@ -37,4 +37,4 @@ nsubj(қарайды-5, Айгүл-1)
 punct(қарайды-5, .-6)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:14 CET -->

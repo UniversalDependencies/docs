@@ -20,4 +20,4 @@ Nous avons testé le restaurant ce week end \n We tested this restaurant this we
 goeswith(week,end)
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:17 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:58 CET -->

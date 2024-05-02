@@ -63,12 +63,12 @@ The 2nd highest number of forms (20) was observed with the lemma “taka”: <em
 
 The 3rd highest number of forms (17) was observed with the lemma “leggja”: <em>lagið, lagst, lagt, lagðar, lagði, lagðist, legg, leggi, leggja, leggjast, leggjum, leggst, leggur, legði, lögð, lögðu, lögðum</em>.
 
-`VERB` occurs with 10 features: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (9202; 99% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (8994; 97% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (5461; 59% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (4958; 53% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (4800; 52% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (4717; 51% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (758; 8% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (744; 8% instances), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (10; 0% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (8; 0% instances)
+`VERB` occurs with 10 features: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (9202; 99% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (8994; 97% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (5425; 58% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (4922; 53% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (4764; 51% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (4681; 50% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (758; 8% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (744; 8% instances), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (10; 0% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (8; 0% instances)
 
 `VERB` occurs with 26 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`, `Voice=Mid`
 
 `VERB` occurs with 66 feature combinations.
-The most frequent feature combination is `VerbForm=Inf|Voice=Act` (2550 tokens).
+The most frequent feature combination is `VerbForm=Inf|Voice=Act` (2584 tokens).
 Examples: <em>gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</em>
 
 

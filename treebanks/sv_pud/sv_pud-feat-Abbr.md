@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>Mps, RHS, AKP:s, ECB:s, RSPB:s</em>
-* `EMPTY` (1210): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
+* `EMPTY` (1209): <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>St.</em>
-* `EMPTY` (1556): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
+* `EMPTY` (1557): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
 
 ### `CCONJ`
 

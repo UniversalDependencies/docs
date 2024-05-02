@@ -28,4 +28,4 @@ conj(tauti-4, haluan-6)
 ### Turku Dependency Treebank
 
 `Conj` is used also for implicit coordinations without a coordinating conjunction when the coordinated elements are not separated by a colon, semicolon or dash.
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:07 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:40 CET -->

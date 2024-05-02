@@ -22,13 +22,13 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 acl	color:blue
-1	ئاڭلىسام	ئاڭلى	VERB	V	Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv	6	advcl	_	Translit=anglisam
-2	سەن	سەن	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=sen
-3	ئىشلەيدىغان	_	VERB	V	_	4	acl	_	Translit=ishleydighan|Morf=Unknown
-4	زاۋۇت	زاۋۇت	NOUN	N	Case=Nom	6	nsubj	_	Translit=zawut
-5	ۋەيران	ۋەيران	ADJ	N	_	6	compound	_	Translit=weyran
-6	بوپتۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=boptu|Morf=Unknown
-7	،	،	PUNCT	Y	_	6	punct	_	Translit=,
+1	ئاڭلىسام	ئاڭلى	VERB	V	Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv	6	advcl	_	Translit=anglisam|LTranslit=angli
+2	سەن	سەن	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=sen|LTranslit=sen
+3	ئىشلەيدىغان	_	VERB	V	_	4	acl	_	Morf=Unknown|Translit=ishleydighan
+4	زاۋۇت	زاۋۇت	NOUN	N	Case=Nom	6	nsubj	_	Translit=zawut|LTranslit=zawut
+5	ۋەيران	ۋەيران	ADJ	N	_	6	compound	_	Translit=weyran|LTranslit=weyran
+6	بوپتۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Morf=Unknown|Translit=boptu
+7	،	،	PUNCT	Y	_	6	punct	_	Translit=,|LTranslit=,
 
 ~~~
 
@@ -39,15 +39,15 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 acl	color:blue
-1	باشلانغۇچ	باشلانغۇچ	ADJ	N	_	2	amod	_	Translit=bashlanghuch
-2	مەكتەپتە	مەكتەپ	NOUN	N	Case=Loc	3	nmod	_	Translit=mektepte
-3	ئوقۇۋاتقان	_	NOUN	N	_	4	acl	_	Translit=oquwatqan|Morf=Unknown
-4	چېغىمدا	_	NOUN	N	_	7	obl	_	SpaceAfter=No|Translit=chëghimda|Morf=Unknown
-5	،	،	PUNCT	Y	_	4	punct	_	Translit=,
-6	مومام	موما	NOUN	N	Case=Nom|Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Translit=momam
-7	تۈگەپ	_	VERB	V	_	0	root	_	Translit=tügep|Morf=Unknown
-8	كەتتى	كەت	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=ketti
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+1	باشلانغۇچ	باشلانغۇچ	ADJ	N	_	2	amod	_	Translit=bashlanghuch|LTranslit=bashlanghuch
+2	مەكتەپتە	مەكتەپ	NOUN	N	Case=Loc	3	nmod	_	Translit=mektepte|LTranslit=mektep
+3	ئوقۇۋاتقان	_	NOUN	N	_	4	acl	_	Morf=Unknown|Translit=oquwatqan
+4	چېغىمدا	_	NOUN	N	_	7	obl	_	SpaceAfter=No|Morf=Unknown|Translit=chëghimda
+5	،	،	PUNCT	Y	_	4	punct	_	Translit=,|LTranslit=,
+6	مومام	موما	NOUN	N	Case=Nom|Number[psor]=Sing|Person[psor]=1	7	nsubj	_	Translit=momam|LTranslit=moma
+7	تۈگەپ	_	VERB	V	_	0	root	_	Morf=Unknown|Translit=tügep
+8	كەتتى	كەت	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=ketti|LTranslit=ket
+9	.	.	PUNCT	Y	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -58,16 +58,16 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 4 acl	color:blue
-1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	7	nsubj	_	Translit=bu
-2	مەن	مەن	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=men
-3	يولۇقۇپ	يولۇق	VERB	V	Aspect=Perf|VerbForm=Conv	4	compound	_	Translit=yoluqup
-4	باقمىغان	باق	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	7	acl	_	Translit=baqmighan
-5	بىر	بىر	DET	M	Case=Nom|NumType=Ord	7	det	_	Translit=bir
-6	قورقۇنچلۇق	قورقۇنچلۇق	ADJ	A	_	7	amod	_	Translit=qorqunchluq
-7	ئىش	ئىش	VERB	N	Mood=Imp|VerbForm=Fin	0	root	_	Translit=ish
-8	بولدى	بول	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=boldi
-9	.	.	PUNCT	Y	_	7	punct	_	SpaceAfter=No|Translit=.
-10	»	»	PUNCT	Y	_	7	punct	_	Translit=»
+1	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	7	nsubj	_	Translit=bu|LTranslit=bu
+2	مەن	مەن	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=men|LTranslit=men
+3	يولۇقۇپ	يولۇق	VERB	V	Aspect=Perf|VerbForm=Conv	4	compound	_	Translit=yoluqup|LTranslit=yoluq
+4	باقمىغان	باق	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	7	acl	_	Translit=baqmighan|LTranslit=baq
+5	بىر	بىر	DET	M	Case=Nom|NumType=Ord	7	det	_	Translit=bir|LTranslit=bir
+6	قورقۇنچلۇق	قورقۇنچلۇق	ADJ	A	_	7	amod	_	Translit=qorqunchluq|LTranslit=qorqunchluq
+7	ئىش	ئىش	VERB	N	Mood=Imp|VerbForm=Fin	0	root	_	Translit=ish|LTranslit=ish
+8	بولدى	بول	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=boldi|LTranslit=bol
+9	.	.	PUNCT	Y	_	7	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+10	»	»	PUNCT	Y	_	7	punct	_	Translit=»|LTranslit=»
 
 ~~~
 

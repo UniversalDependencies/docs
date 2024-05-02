@@ -40,7 +40,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 16	música	_	NOUN	NN	Gender=Fem|Number=Sing	15	obj	_	_
 17	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	20	cop	_	_
 18	principalmente	principalmente	ADV	RB	_	20	advmod	_	_
-19	uma	um	DET	DT	Gender=Fem|Number=Sing	20	det	_	_
+19	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	atividade	atividade	NOUN	NN	Gender=Fem|Number=Sing	11	conj	_	_
 21	comunitária	comunitário	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	11	punct	_	_
@@ -113,7 +113,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 24	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	espectáculo	espectáculo	NOUN	NN	Gender=Masc|Number=Sing	28	nsubj	_	_
 26	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	28	cop	_	_
-27	uma	um	DET	DT	Gender=Fem|Number=Sing	28	det	_	_
+27	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	oportunidade	oportunidade	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 29	para	para	ADP	IN	_	31	case	_	_
 30	Pequim	Pequim	PROPN	NNP	Gender=Fem|Number=Sing	31	nsubj	_	_

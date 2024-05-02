@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Perf` (32; 100% of non-empty `Aspect`): <em>teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, čõnnum, šõddâm, hoʹhssjam, jeällam</em>
-* `EMPTY` (608): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, mõõnnâd</em>
+* `EMPTY` (610): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, mõõnnâd</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (23) occur only with one value of `Aspect`.
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): <em>leämmaž, õlggâm</em>
-* `EMPTY` (157): <em>lij, ij, leäi, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</em>
+* `EMPTY` (158): <em>lij, ij, leäi, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</em>
 

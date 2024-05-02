@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `csubj:outer`: <tt><
 16	cuimis	cuimis	NOUN	Ncsfn	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	SpaceAfter=No
 17	,	,	PUNCT	Fi	_	20	punct	_	_
 18	agus	agus	CCONJ	Cc	_	20	cc	_	_
-19	chan	chan	PART	Qn	PartType=Cmpl|Polarity=Neg	20	mark:prt	_	_
+19	chan	cha	PART	Qn	PartType=Vb|Polarity=Neg	20	mark:prt	_	_
 20	eil	bi	VERB	V-p--d	Tense=Pres	9	conj	_	_
 21	agads'	aig	ADP	Sp	_	22	case	_	_
 22	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2	20	xcomp:pred	_	_
@@ -108,7 +108,7 @@ The following 4 pairs of parts of speech are connected with `csubj:outer`: <tt><
 51	fheadan	feadan	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	47	conj	_	_
 52	agus	agus	CCONJ	Cc	_	53	cc	_	_
 53	faodaidh	faod	VERB	V-f	Tense=Fut	44	conj	_	_
-54	gun	gun	PART	Qa	PartType=Cmpl	55	mark:prt	_	_
+54	gun	gu	PART	Qa	PartType=Cmpl	55	mark:prt	_	_
 55	dèan	dèan	VERB	V-f--d	Tense=Fut	53	ccomp	_	_
 56	iad	iad	PRON	Pp3p	Number=Plur|Person=3	55	nsubj	_	_
 57	mór	mór	ADJ	Ar	_	58	amod	_	_
@@ -126,7 +126,7 @@ The following 4 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 18 csubj:outer	color:blue
-1	cha	cha	PART	Qn	PartType=Cmpl|Polarity=Neg	2	mark:prt	_	_
+1	cha	cha	PART	Qn	PartType=Vb|Polarity=Neg	2	mark:prt	_	_
 2	thachair	tachair	VERB	V-f--d	Tense=Fut	0	root	_	_
 3	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 4	a	a	ADV	Rt	_	2	advmod	_	_

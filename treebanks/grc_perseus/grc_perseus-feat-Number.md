@@ -279,14 +279,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (10271; 97%),
+<tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (10272; 97%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-det.html">det</a></tt>]--> DET</tt> (8963; 99%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (7135; 81%),
-<tt>VERB --[<tt><a href="grc_perseus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7047; 90%),
+<tt>VERB --[<tt><a href="grc_perseus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7045; 90%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-obj.html">obj</a></tt>]--> NOUN</tt> (6016; 55%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4405; 51%),
 <tt>NOUN --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4099; 72%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (4002; 87%),
-<tt>VERB --[<tt><a href="grc_perseus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2910; 85%),
+<tt>VERB --[<tt><a href="grc_perseus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2909; 85%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-obj.html">obj</a></tt>]--> PRON</tt> (2533; 62%).
 

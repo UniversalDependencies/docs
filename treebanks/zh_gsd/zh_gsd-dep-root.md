@@ -33,7 +33,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
@@ -83,12 +83,12 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	同樣	同樣	ADV	RB	_	12	advmod	_	SpaceAfter=No|Translit=tóngyàng|LTranslit=tóngyàng
 2	，	，	PUNCT	,	_	1	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 3	施力	施力	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No|Translit=shīlì|LTranslit=shīlì
-4	的	的	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+4	的	的	SCONJ	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 5	大小	大小	NOUN	NN	_	6	nsubj	_	SpaceAfter=No|Translit=dàxiǎo|LTranslit=dàxiǎo
 6	不同	不同	ADJ	JJ	_	8	csubj	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
 7	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 8	引起	引起	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=yǐnqǐ|LTranslit=yǐnqǐ
-9	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+9	的	的	SCONJ	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 10	加速	加速	VERB	VV	_	11	compound	_	SpaceAfter=No|Translit=jiāsù|LTranslit=jiāsù
 11	度	度	PART	SFN	_	12	nsubj	_	SpaceAfter=No|Translit=dù|LTranslit=dù
 12	不同	不同	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=bùtóng|LTranslit=bùtóng
@@ -96,18 +96,18 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 14	最終	最終	NOUN	NN	_	16	nmod	_	SpaceAfter=No|Translit=zuìzhōng|LTranslit=zuìzhōng
 15	的	的	PART	DEC	Case=Gen	14	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 16	結果	結果	NOUN	NN	_	29	nsubj	_	SpaceAfter=No|Translit=jiéguǒ|LTranslit=jiéguǒ
-17	也	也	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
+17	也	也	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit=yě|LTranslit=yě
 18	不	不	ADV	RB	Polarity=Neg	19	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
 19	一樣	一樣	ADJ	JJ	_	29	advcl	_	SpaceAfter=No|Translit=yīyàng|LTranslit=yīyàng
 20	，	，	PUNCT	,	_	19	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
-21	亦	亦	ADV	RB	_	29	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
+21	亦	亦	SCONJ	RB	_	29	mark	_	SpaceAfter=No|Translit=yì|LTranslit=yì
 22	可以	可以	AUX	MD	_	29	aux	_	SpaceAfter=No|Translit=kěyǐ|LTranslit=kěyǐ
 23	從	從	ADP	IN	_	27	case	_	SpaceAfter=No|Translit=cóng|LTranslit=cóng
 24	向量	向量	NOUN	NN	_	27	nmod	_	SpaceAfter=No|Translit=xiàngliàng|LTranslit=xiàngliàng
 25	的	的	PART	DEC	Case=Gen	24	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 26	加成	加成	VERB	VV	_	27	compound	_	SpaceAfter=No|Translit=jiāchéng|LTranslit=jiāchéng
 27	性	性	PART	SFN	_	29	obl	_	SpaceAfter=No|Translit=xìng|LTranslit=xìng
-28	來	來	ADV	RB	_	29	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
+28	來	來	SCONJ	RB	_	29	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 29	看	看	VERB	VV	_	12	parataxis	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
 30	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 

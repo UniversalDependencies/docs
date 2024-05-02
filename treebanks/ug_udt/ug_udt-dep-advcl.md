@@ -23,14 +23,14 @@ The following 17 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 advcl	color:blue
-1	ھايات	ھايات	NOUN	N	Case=Nom	2	nmod:poss	_	Translit=hayat
-2	توغرىقىڭنىڭ	_	NOUN	N	_	4	nmod:poss	_	Translit=toghriqingning|Morf=Unknown
-3	ئۆمۈر	ئۆمۈر	NOUN	N	Case=Nom	4	nmod	_	Translit=ömür
-4	يىلتىزىنى	يىلتىز	NOUN	N	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	7	obj	_	Translit=yiltizini
-5	قۇرتتەك	_	NOUN	N	_	7	obl	_	Translit=qurttek|Morf=Unknown
-6	ئاۋايلاپ	_	VERB	V	_	7	advcl	_	Translit=awaylap|Morf=Unknown
-7	يەيمەن	يە	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=yeymen
-8	.	.	PUNCT	Y	_	7	punct	_	Translit=.
+1	ھايات	ھايات	NOUN	N	Case=Nom	2	nmod:poss	_	Translit=hayat|LTranslit=hayat
+2	توغرىقىڭنىڭ	_	NOUN	N	_	4	nmod:poss	_	Morf=Unknown|Translit=toghriqingning
+3	ئۆمۈر	ئۆمۈر	NOUN	N	Case=Nom	4	nmod	_	Translit=ömür|LTranslit=ömür
+4	يىلتىزىنى	يىلتىز	NOUN	N	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	7	obj	_	Translit=yiltizini|LTranslit=yiltiz
+5	قۇرتتەك	_	NOUN	N	_	7	obl	_	Morf=Unknown|Translit=qurttek
+6	ئاۋايلاپ	_	VERB	V	_	7	advcl	_	Morf=Unknown|Translit=awaylap
+7	يەيمەن	يە	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=yeymen|LTranslit=ye
+8	.	.	PUNCT	Y	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -41,12 +41,12 @@ The following 17 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 advcl	color:blue
-1	ئىشلىگەن	_	NOUN	N	_	2	nmod	_	Translit=ishligen|Morf=Unknown
-2	ماللىرى	مال	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	3	nsubj	_	Translit=malliri
-3	سېتىلماي	_	NOUN	N	_	5	advcl	_	Translit=sëtilmay|Morf=Unknown
-4	تاقىلىپ	_	VERB	V	_	5	xcomp	_	Translit=taqilip|Morf=Unknown
-5	قاپتۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=qaptu|Morf=Unknown
-6	،	،	PUNCT	Y	_	5	punct	_	Translit=,
+1	ئىشلىگەن	_	NOUN	N	_	2	nmod	_	Morf=Unknown|Translit=ishligen
+2	ماللىرى	مال	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	3	nsubj	_	Translit=malliri|LTranslit=mal
+3	سېتىلماي	_	NOUN	N	_	5	advcl	_	Morf=Unknown|Translit=sëtilmay
+4	تاقىلىپ	_	VERB	V	_	5	xcomp	_	Morf=Unknown|Translit=taqilip
+5	قاپتۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Morf=Unknown|Translit=qaptu
+6	،	،	PUNCT	Y	_	5	punct	_	Translit=,|LTranslit=,
 
 ~~~
 
@@ -57,14 +57,14 @@ The following 17 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 advcl	color:blue
-1	مانا	_	PART	T	_	7	mark	_	Translit=mana|Morf=Missing,1
-2	ئەمدى	ئەمدى	NOUN	D	Case=Nom	7	obl	_	Translit=emdi
-3	سەنمۇ	سەنمۇ	NOUN	P	Case=Nom	7	nsubj	_	Translit=senmu
-4	بويۇن	بويۇن	NOUN	N	Case=Nom	5	compound	_	Translit=boyun
-5	قىسىپ	قىس	VERB	V	Aspect=Perf|VerbForm=Conv	7	advcl	_	Translit=qisip
-6	ئالدىمغا	_	VERB	V	_	7	obl	_	Translit=aldimgha|Morf=Unknown
-7	كەپسەن	كەپسەن	NOUN	V	Case=Nom	0	root	_	SpaceAfter=No|Translit=kepsen
-8	.	.	PUNCT	Y	_	7	punct	_	Translit=.
+1	مانا	_	PART	T	_	7	mark	_	Morf=Missing,1|Translit=mana
+2	ئەمدى	ئەمدى	NOUN	D	Case=Nom	7	obl	_	Translit=emdi|LTranslit=emdi
+3	سەنمۇ	سەنمۇ	NOUN	P	Case=Nom	7	nsubj	_	Translit=senmu|LTranslit=senmu
+4	بويۇن	بويۇن	NOUN	N	Case=Nom	5	compound	_	Translit=boyun|LTranslit=boyun
+5	قىسىپ	قىس	VERB	V	Aspect=Perf|VerbForm=Conv	7	advcl	_	Translit=qisip|LTranslit=qis
+6	ئالدىمغا	_	VERB	V	_	7	obl	_	Morf=Unknown|Translit=aldimgha
+7	كەپسەن	كەپسەن	NOUN	V	Case=Nom	0	root	_	SpaceAfter=No|Translit=kepsen|LTranslit=kepsen
+8	.	.	PUNCT	Y	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

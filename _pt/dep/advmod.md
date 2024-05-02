@@ -33,4 +33,4 @@ advmod(barulho, talvez)
 Note that in the last example, the relation hold between the adverb
 ("talvez") and the head of the main clause ("barulho", since it is a
 copular clause).
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:56 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:20 CET -->

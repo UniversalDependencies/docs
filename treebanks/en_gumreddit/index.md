@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUMReddit](https://github.com/UniversalDependencies/UD_English-GUMReddit)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -52,7 +52,7 @@ Universal Dependencies syntax annotations from the Reddit portion of the GUM cor
 
 In order to obtain the underlying text, you will need to use the script `get_text.py`. For more information on the underlying Reddit text see [this page](https://github.com/amir-zeldes/gum/blob/master/README_reddit.md). For Universal Dependencies annotations of other genres from GUM, see https://github.com/UniversalDependencies/UD_English-GUM
 
-GUM, the Georgetown University Multilayer corpus, is an open source collection of richly annotated texts from multiple text types. The corpus is collected and expanded by students as part of the curriculum in the course LING-367 "Computational Corpus Linguistics" at Georgetown University. The selection of text types is meant to represent different communicative purposes, while coming from sources that are readily and openly available (usually Creative Commons licenses), so that new texts can be annotated and published with ease.
+GUM, the Georgetown University Multilayer corpus, is an open source collection of richly annotated texts from multiple text types. The corpus is collected and expanded by students as part of the curriculum in the course LING-4427 "Computational Corpus Linguistics" at Georgetown University. The selection of text types is meant to represent different communicative purposes, while coming from sources that are readily and openly available (usually Creative Commons licenses), so that new texts can be annotated and published with ease.
 
 The dependencies in the corpus up to GUM version 5 were originally annotated using Stanford Typed Depenencies (de Marneffe & Manning 2013) and converted automatically to UD using DepEdit (https://gucorpling.org/depedit/). The rule-based conversion took into account gold entity annotations found in other annotation layers of the GUM corpus (e.g. entity annotations), and has since been corrected manually in native UD. The original conversion script used can found in the GUM build bot code from version 5, available from the (non-UD) GUM repository. Documents from version 6 of GUM onwards were annotated directly in UD, and subsequent manual error correction to all GUM data has also been done directly using the UD guidelines. Enhanced dependencies were added semi-automatically from version 7.1 of the corpus. For more details see the [corpus website](https://gucorpling.org/gum/).
 
@@ -116,11 +116,11 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 
 <ul>
-<li>This corpus contains 895 sentences, 15992 tokens and 16364 syntactic words.</li>
+<li>This corpus contains 895 sentences, 15960 tokens and 16364 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1954 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 1922 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -132,7 +132,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
-<li>This corpus contains 372 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 404 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 1 types of multi-word tokens. Examples: __.</li>
 </ul>
 
@@ -342,7 +342,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>ADJ: _</li>
       <li>ADV: _</li>
-      <li>SCONJ: _</li>
     </ul>
   </li>
 </ul>
@@ -494,6 +493,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Neg
     <ul>
+      <li>DET: _</li>
       <li>PRON: _</li>
     </ul>
   </li>
@@ -511,6 +511,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Rel
     <ul>
       <li>ADV: _</li>
+      <li>DET: _</li>
       <li>PRON: _</li>
     </ul>
   </li>
@@ -647,6 +648,11 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li><a>NumForm</a>
     <ul>
+      <li>Combi
+        <ul>
+          <li>ADJ: _</li>
+        </ul>
+      </li>
       <li>Digit
         <ul>
           <li>NUM: _</li>
@@ -654,6 +660,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       </li>
       <li>Word
         <ul>
+          <li>ADJ: _</li>
           <li>ADV: _</li>
           <li>NOUN: _</li>
           <li>NUM: _</li>
@@ -713,16 +720,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (199)</li>
-      <li>VERB-Fin--PRON (96)</li>
-      <li>VERB-Fin--PRON-Nom (376)</li>
+      <li>VERB-Fin--NOUN (187)</li>
+      <li>VERB-Fin--PRON (93)</li>
+      <li>VERB-Fin--PRON-Nom (365)</li>
       <li>VERB-Ger--NOUN (5)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (57)</li>
-      <li>VERB-Inf--PRON (33)</li>
-      <li>VERB-Inf--PRON-Nom (187)</li>
-      <li>VERB-Part--NOUN (22)</li>
+      <li>VERB-Inf--NOUN (55)</li>
+      <li>VERB-Inf--PRON (31)</li>
+      <li>VERB-Inf--PRON-Nom (185)</li>
+      <li>VERB-Part--NOUN (23)</li>
       <li>VERB-Part--PRON (15)</li>
       <li>VERB-Part--PRON-Nom (120)</li>
     </ul>
@@ -732,19 +739,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (239)</li>
-      <li>VERB-Fin--PRON (35)</li>
+      <li>VERB-Fin--NOUN (234)</li>
+      <li>VERB-Fin--PRON (37)</li>
       <li>VERB-Fin--PRON-Acc (44)</li>
       <li>VERB-Ger--NOUN (55)</li>
       <li>VERB-Ger--PRON (7)</li>
-      <li>VERB-Ger--PRON-Acc (12)</li>
-      <li>VERB-Inf--NOUN (206)</li>
-      <li>VERB-Inf--PRON (43)</li>
+      <li>VERB-Ger--PRON-Acc (13)</li>
+      <li>VERB-Inf--NOUN (212)</li>
+      <li>VERB-Inf--PRON (44)</li>
       <li>VERB-Inf--PRON-Acc (56)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Part--NOUN (53)</li>
-      <li>VERB-Part--PRON (10)</li>
-      <li>VERB-Part--PRON-Acc (9)</li>
+      <li>VERB-Part--PRON (12)</li>
+      <li>VERB-Part--PRON-Acc (11)</li>
     </ul>
   </li>
 </ul>

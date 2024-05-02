@@ -11,7 +11,7 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 3860 tokens (6%) have a non-empty value of `Tense`.
 116 types (12%) occur at least once with a non-empty value of `Tense`.
-70 lemmas (9%) occur at least once with a non-empty value of `Tense`.
+69 lemmas (9%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (2411; 4% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (1449; 2% instances).
 
 ### `VERB`

@@ -11,16 +11,16 @@ It occurs with 2 different values: `1`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt>, <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt>.
 
-65 tokens (7%) have a non-empty value of `Person[obj]`.
-29 types (9%) occur at least once with a non-empty value of `Person[obj]`.
-26 lemmas (10%) occur at least once with a non-empty value of `Person[obj]`.
-The feature is used with 3 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (59; 6% instances), <tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+67 tokens (7%) have a non-empty value of `Person[obj]`.
+30 types (9%) occur at least once with a non-empty value of `Person[obj]`.
+26 lemmas (9%) occur at least once with a non-empty value of `Person[obj]`.
+The feature is used with 3 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (61; 6% instances), <tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-59 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Person[obj]`.
+61 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Person[obj]`.
 
-The most frequent other feature values with which `VERB` and `Person[obj]` co-occurred: <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (56; 95%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (55; 93%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt> (53; 90%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (53; 90%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (53; 90%).
+The most frequent other feature values with which `VERB` and `Person[obj]` co-occurred: <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (58; 95%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (56; 92%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt> (54; 89%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (54; 89%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (54; 89%).
 
 `VERB` tokens may have the following values of `Person[obj]`:
 

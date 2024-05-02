@@ -166,10 +166,10 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="lij_glt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (125; 98%),
 <tt>PROPN --[<tt><a href="lij_glt-dep-det.html">det</a></tt>]--> DET</tt> (60; 98%),
 <tt>NOUN --[<tt><a href="lij_glt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 57%),
-<tt>NOUN --[<tt><a href="lij_glt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (22; 51%),
 <tt>NOUN --[<tt><a href="lij_glt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (16; 73%),
 <tt>PRON --[<tt><a href="lij_glt-dep-det.html">det</a></tt>]--> DET</tt> (15; 68%),
 <tt>NOUN --[<tt><a href="lij_glt-dep-expl.html">expl</a></tt>]--> PRON</tt> (13; 72%),
 <tt>ADJ --[<tt><a href="lij_glt-dep-det.html">det</a></tt>]--> DET</tt> (11; 100%),
-<tt>ADJ --[<tt><a href="lij_glt-dep-expl.html">expl</a></tt>]--> PRON</tt> (11; 92%).
+<tt>ADJ --[<tt><a href="lij_glt-dep-expl.html">expl</a></tt>]--> PRON</tt> (11; 92%),
+<tt>PROPN --[<tt><a href="lij_glt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (11; 55%).
 

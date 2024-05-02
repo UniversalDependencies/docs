@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Jack Rueter, Markus Juutinen, Francis Tyers, Tommi A Pirinen, Mika Hämäläinen.
 
 Repository: [UD_Skolt_Sami-Giellagas](https://github.com/UniversalDependencies/UD_Skolt_Sami-Giellagas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,6 +76,7 @@ however, we would be no where…
 
 ## References
 
+* Markus Juutinen 2023: Koltansaamen kielikontaktit, Vähemmistökieli muuttuvassa kieliympäristössä. Oulun yliopiston tutukijakoulu; Oulun yliopisto, Humanistinen tiedekunta, Giellagas-Instituutti.
 * Eino Koponen, Jouni Moshnikoff & Satu Moshnikoff. 2010: Sääʹmǩiõll, äʹrbbǩiõll.Helsinki: (Kotimaisten kielten keskus) Institute for the Languages of Finland. Dommjânnmlaž ǩiõli tuʹtǩǩeemkõõskõs. Online publications of the Institute for the Languages of Finland, 14. ISSN 1796-041X. URL: http://scripta.kotus.fi/www/verkkojulkaisut/julk14/
 * Pekka Sammallahti, Jouni Moshnikoff. 1991: Suomi-Koltansaame sanakirja / Lääʹdd-sääʹm sääʹnnǩeʹrjj [Finnish-Skolt Sámi Dictionary]. Girjegiisá Oy. Ohcejohka.
 * Satu da Jouni Moshnikoff, Eino Koponen, Miika Lehtinen. 2020: Sääʹmǩiõl ǩiõllvueʹppes / Koltansaamen kielioppi. Sääʹmteʹǧǧ-Saamelaiskäräjät.
@@ -102,11 +103,11 @@ however, we would be no where…
 
 
 <ul>
-<li>This corpus contains 244 sentences and 2896 tokens.</li>
+<li>This corpus contains 245 sentences and 2902 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 663 tokens (23%) that are not followed by a space.</li>
+<li>This corpus contains 664 tokens (23%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -114,7 +115,7 @@ however, we would be no where…
 </ul>
 
 <ul>
-<li>This corpus contains 26 types of words that contain both letters and punctuation. Examples: tõt-i, i-ǥõl, dõõzz-e, koll’je, leäk-a, lij-a, nuʹt-i, tok-i, võʹll’ji, Haaʹlääk-a, Jeänn’jam, aalmi-han, eʹpet-i, jeänn’jad, jiânnai-a, koozz-a, miõtt-talkknid, nåkkam-a, olgglab-a, puk-i, pâi-i, ton-õs, tõzz-e, vueʹljžiǩ-a, võʹll’jam, Šurr-a</li>
+<li>This corpus contains 27 types of words that contain both letters and punctuation. Examples: tõt-i, i-ǥõl, dõõzz-e, koll’je, leäk-a, lij-a, nuʹt-i, tok-i, võʹll’ji, Haaʹlääk-a, Ij-ǥo, Jeänn’jam, aalmi-han, eʹpet-i, jeänn’jad, jiânnai-a, koozz-a, miõtt-talkknid, nåkkam-a, olgglab-a, puk-i, pâi-i, ton-õs, tõzz-e, vueʹljžiǩ-a, võʹll’jam, Šurr-a</li>
 </ul>
 
 <ul>
@@ -169,7 +170,7 @@ however, we would be no where…
   <li>Inf
   <ul>
     <li>AUX: leeʹd</li>
-    <li>VERB: jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted</li>
+    <li>VERB: jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, mainsted, njuiʹǩǩeed, ǩiččâd, jälsted</li>
   </ul>
   </li>
 </ul>
@@ -386,7 +387,7 @@ however, we would be no where…
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ij, jiõk, jiõm, jeäʹp, iʹlla, iʹlleäk, jiâ, Jeäʹled, jeäʹla</li>
+      <li>AUX: ij, jiõk, jiõm, jeäʹp, iʹlla, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled, jeäʹla</li>
       <li>INTJ: ij</li>
       <li>PART: ni</li>
     </ul>
@@ -417,7 +418,7 @@ however, we would be no where…
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: õõlǥči, kååddče, leʹčče, piâzzčiǩ, vuäđče</li>
+      <li>VERB: õõlǥči, kååddče, leʹčče, piâzzčiǩ, siltteʹče, vuäđče</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +505,7 @@ however, we would be no where…
   <li>Int
     <ul>
       <li>ADV: Koozz</li>
-      <li>PRON: mâiʹd, Mii</li>
+      <li>PRON: mâiʹd, Mii, ǩii</li>
     </ul>
   </li>
 </ul>
@@ -588,7 +589,7 @@ however, we would be no where…
 <ul>
   <li>3
     <ul>
-      <li>AUX: lij, ij, leäi, liâ, iʹlla, iʹlleäk, jeäʹla, jiâ, lij-a, feʹrttji</li>
+      <li>AUX: lij, ij, leäi, liâ, iʹlla, iʹlleäk, jeäʹla, jiâ, lij-a, Ij-ǥo</li>
       <li>DET: jiijjâs</li>
       <li>PRON: son, suu, seeʹst, suʹst, sij, suäna, suännast</li>
       <li>VERB: ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, vuõʹlji</li>
@@ -803,7 +804,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (95)</li>
       <li>VERB--NOUN-Par (1)</li>
       <li>VERB--PRON-Gen (1)</li>
-      <li>VERB--PRON-Nom (119)</li>
+      <li>VERB--PRON-Nom (120)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN-Nom (8)</li>
@@ -824,7 +825,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (25)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Acc (5)</li>
+      <li>VERB-Inf--NOUN-Acc (6)</li>
       <li>VERB-Inf--NOUN-Ill (1)</li>
       <li>VERB-Inf--PRON-Acc (4)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>

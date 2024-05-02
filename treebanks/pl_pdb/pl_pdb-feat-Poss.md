@@ -16,14 +16,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pdb-pos-DET.html
 
 ### `DET`
 
-1712 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (19% of all `DET` tokens) have a non-empty value of `Poss`.
+1712 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1712; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1700; 99%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1185; 69%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (984; 57%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1700; 99%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1185; 69%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (984; 57%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1712; 100% of non-empty `Poss`): <em>swoje, swoich, swoją, swoim, naszych, swój, nasze, mój, naszym, moim</em>
-* `EMPTY` (7541): <em>które, ten, który, tej, tym, tego, te, tych, która, którzy</em>
+* `EMPTY` (7636): <em>które, ten, który, tym, tej, tego, te, tych, która, którzy</em>
 
 ## Relations with Agreement in `Poss`
 

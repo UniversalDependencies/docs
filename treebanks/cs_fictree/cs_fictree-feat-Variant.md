@@ -53,5 +53,6 @@ The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> DET</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>DET --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

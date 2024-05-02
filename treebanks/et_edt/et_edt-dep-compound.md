@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt>.
 
-434 nodes (0%) are attached to their parents as `compound`.
+427 nodes (0%) are attached to their parents as `compound`.
 
-405 instances of `compound` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08294930875576.
+373 instances of `compound` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11475409836066.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (377; 87% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (26; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (347; 81% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (45; 11% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,18 +45,13 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
-1	Sinapiini	sinapiin	NOUN	S	Case=Par|Number=Sing	6	nsubj:cop	6:nsubj	_
-2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
-3	rapsiseemnetes	rapsi_seeme	NOUN	S	Case=Ine|Number=Plur	6	obl	6:obl	_
-4	umbes	umbes	ADV	D	_	5	advmod	5:advmod	_
-5	1,5	1,5	NUM	N	NumForm=Digit|NumType=Card	6	compound	6:compound	_
-6	%	%	SYM	X	_	0	root	0:root	_
-7	(	(	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
-8	Tulisalo	Tulisalo	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	NE=B-Per|SpaceAfter=No
-9	,	,	PUNCT	Z	_	8	punct	8:punct	_
-10	1984	1984	NUM	N	NumForm=Digit|NumType=Card	8	parataxis	8:parataxis	SpaceAfter=No
-11	)	)	PUNCT	Z	_	8	punct	8:punct	SpaceAfter=No
-12	.	.	PUNCT	Z	_	6	punct	6:punct	_
+1	DVD	DVD	NOUN	Y	Abbr=Yes	2	nmod	2:nmod	_
+2	loojate	looja	NOUN	S	Case=Gen|Number=Plur	3	nmod	3:nmod	_
+3	murest	mure	NOUN	S	Case=Ela|Number=Sing	6	obl	6:obl	_
+4	võib	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
+5	aru	aru	NOUN	S	Case=Par|Number=Sing	6	compound	6:compound	_
+6	saada	saama	VERB	V	VerbForm=Inf	0	root	0:root	SpaceAfter=No
+7	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
 

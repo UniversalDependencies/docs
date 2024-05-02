@@ -726,7 +726,7 @@ udver: '2'
             <li>AUX: היה, היו, הייתה, להיות, תהיה, יהיה, הייתי, יהיו, היינו, תהיינה</li>
             <li>AUX-Inf: להיות</li>
             <li>PRON: הוא, היא, הם, הן, י, ם</li>
-            <li>VERB: יש, היו, היה, הייתה, ישנם, ישנה, ישנו, ישנן, להיות, יהיו</li>
+            <li>VERB: יש, היו, היה, הייתה, ישנם, ישנה, ישנו, ישנן, יהיו, להיות</li>
             <li>VERB-Inf: להיות</li>
           </ul>
         </li>
@@ -834,7 +834,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>AUX: יהיה, תהיה, יהיו, תוכל, יוכל, יוכלו, תהא, יָוכְלוּ, יהא, יכלו</li>
+            <li>AUX: יהיה, תהיה, יהיו, תוכל, יוכל, יוכלו, תהא, אהיה, יָוכְלוּ, יהא</li>
             <li>AUX-Part: תוכל</li>
             <li>VERB: יהיה, תשלם, יאפשר, יהיו, ייתכן, יקבלו, ישלמו, תוביל, תכניס, יפעיל</li>
             <li>VERB-Part: תלויה</li>
@@ -1242,7 +1242,7 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX: הייתי, איננו, היינו, נהיה</li>
+            <li>AUX: הייתי, איננו, אהיה, היינו, נהיה</li>
             <li>PRON: י, נו, אני, אנחנו, ני, אנו, אנוכי, עצמי, עצמנו</li>
             <li>VERB: טענו, אוהב, מרגיש, נתנו, רואה, אהבנו, אמרתי, הלכתי, יצאנו, כיהנו</li>
             <li>VERB-Part: אוהב, מרגיש, רואה, מתגעגע, עומדת, רוצים, אוכלים, זוכרים, מאירה, מבין</li>
@@ -1508,7 +1508,7 @@ udver: '2'
                 <li>AUX: היה, היו, הייתה, להיות, יהיה, תהיה, הייתי, יהיו, היות, תהא</li>
                 <li>AUX-Inf: להיות</li>
                 <li>VERB: כתב, יצא, זכה, היו, כולל, כלל, היה, שר, אמר, טען</li>
-                <li>VERB-Inf: לגרום, למנוע, ליצור, לתת, למצוא, לדון, להיות, לעמוד, לעשות, לכתוב</li>
+                <li>VERB-Inf: לגרום, למנוע, ליצור, לתת, למצוא, לדון, לעמוד, לעשות, לכתוב, לפגוע</li>
                 <li>VERB-Part: כולל, עולה, גורם, כוללים, סובלים, פוגע, גורמת, טוענים, קובע, חוזר</li>
               </ul>
             </li>
@@ -1711,7 +1711,8 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (2265)</li>
+            <li>VERB--NOUN (2264)</li>
+            <li>VERB--NOUN-ADP(את) (3)</li>
             <li>VERB--NOUN-ADP(מ) (1)</li>
             <li>VERB--NOUN-ADP(משום) (1)</li>
             <li>VERB--PRON (217)</li>
@@ -1751,9 +1752,9 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (759)</li>
+            <li>VERB--NOUN (758)</li>
             <li>VERB--NOUN-ADP(אֶת) (1)</li>
-            <li>VERB--NOUN-ADP(את) (574)</li>
+            <li>VERB--NOUN-ADP(את) (571)</li>
             <li>VERB--NOUN-ADP(ב) (1)</li>
             <li>VERB--NOUN-ADP(יותר) (1)</li>
             <li>VERB--NOUN-ADP(כמו)-ADP(את) (1)</li>
@@ -1764,7 +1765,7 @@ udver: '2'
             <li>VERB--PRON-Acc (7)</li>
             <li>VERB--PRON-Acc-ADP(יד) (1)</li>
             <li>VERB--PRON-Gen-ADP(את) (2)</li>
-            <li>VERB-Inf--NOUN (356)</li>
+            <li>VERB-Inf--NOUN (354)</li>
             <li>VERB-Inf--NOUN-ADP(את) (349)</li>
             <li>VERB-Inf--NOUN-ADP(את)-ADP(כ) (1)</li>
             <li>VERB-Inf--PRON (21)</li>
@@ -1837,7 +1838,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
       <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

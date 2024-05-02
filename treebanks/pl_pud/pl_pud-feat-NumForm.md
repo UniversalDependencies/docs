@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-449 tokens (2%) have a non-empty value of `NumForm`.
-247 types (3%) occur at least once with a non-empty value of `NumForm`.
-222 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (235; 1% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (193; 1% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt> (21; 0% instances).
+438 tokens (2%) have a non-empty value of `NumForm`.
+242 types (3%) occur at least once with a non-empty value of `NumForm`.
+221 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (235; 1% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (182; 1% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt> (21; 0% instances).
 
 ### `ADJ`
 
@@ -29,22 +29,22 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 
 ### `NUM`
 
-193 <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+182 <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (189; 98%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (151; 78%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (114; 59%), <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (100; 52%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (178; 98%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (145; 80%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (112; 62%), <tt><a href="pl_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (100; 55%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (100; 52% of non-empty `NumForm`): <em>3, 100, 5, 1,5, 10, 2, 20, 1,4, 10000, 14</em>
-* `Word` (93; 48% of non-empty `NumForm`): <em>dwa, dwóch, trzy, obu, czterech, cztery, dwie, dziesięć, obie, osiem</em>
+* `Digit` (100; 55% of non-empty `NumForm`): <em>3, 100, 5, 1,5, 10, 2, 20, 1,4, 10000, 14</em>
+* `Word` (82; 45% of non-empty `NumForm`): <em>dwa, dwóch, trzy, czterech, cztery, dwie, dziesięć, osiem, sześciu, sześć</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (87) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (86) occur only with one value of `NumForm`.
 
 ### `X`
 
-21 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `NumForm`.
+21 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (27% of all `X` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `X` and `NumForm` co-occurred: <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="pl_pud-feat-Pun.html">Pun</a></tt><tt>=EMPTY</tt> (21; 100%).
+The most frequent other feature values with which `X` and `NumForm` co-occurred: <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (21; 100%).
 
 `X` tokens may have the following values of `NumForm`:
 

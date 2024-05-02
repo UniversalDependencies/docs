@@ -14,19 +14,19 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 111248 tokens (51%) have a non-empty value of `Number`.
 27650 types (88%) occur at least once with a non-empty value of `Number`.
 13242 lemmas (77%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (52270; 24% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (15188; 7% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (14770; 7% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (11218; 5% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (6951; 3% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (5533; 3% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (4996; 2% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (322; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (52271; 24% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (15188; 7% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (14769; 7% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (11218; 5% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (6951; 3% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (5533; 3% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (4996; 2% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (322; 0% instances).
 
 ### `NOUN`
 
-52270 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
+52271 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (32471; 62%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (28805; 55%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (27198; 52%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (13678; 26% of non-empty `Number`): <em>ani, membre, statele, date, pacienții, informații, zile, ori, ore, condițiile</em>
-* `Sing` (38592; 74% of non-empty `Number`): <em>timp, cazul, conformitate, loc, timpul, mod, acord, Comisia, parte, b</em>
-* `EMPTY` (1986): <em>art., a., ianuarie, nr., CE, decembrie, b., mg, lit., alin.</em>
+* `Sing` (38593; 74% of non-empty `Number`): <em>timp, cazul, conformitate, loc, timpul, mod, acord, Comisia, parte, b</em>
+* `EMPTY` (1987): <em>art., a., ianuarie, nr., CE, decembrie, b., mg, lit., alin.</em>
 
 <table>
   <tr><th>Paradigm <i>an</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -64,14 +64,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-14770 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
+14769 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14730; 100%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (13876; 94%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9158; 62%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (8967; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14729; 100%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (13875; 94%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9157; 62%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (8967; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (4949; 34% of non-empty `Number`): <em>necesare, mari, mici, chimice, diferite, disponibile, specifice, suplimentare, contractante, noi</em>
-* `Sing` (9821; 66% of non-empty `Number`): <em>mare, prezentul, nou, prezenta, europene, europeană, european, prezentului, mică, general</em>
+* `Sing` (9820; 66% of non-empty `Number`): <em>mare, prezentul, nou, prezenta, europene, europeană, european, prezentului, mică, general</em>
 * `EMPTY` (529): <em>asemenea, standard, corespunzătoare, următoare, referitoare, anume, viitoare, așa, n., asemănătoare</em>
 
 <table>
@@ -198,21 +198,21 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (15; 5% of non-empty `Number`): <em>Carpaților, Iașilor, Iașii, Carpații, Nibelungilor, Subcarpații</em>
 * `Sing` (307; 95% of non-empty `Number`): <em>României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</em>
-* `EMPTY` (5564): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
+* `EMPTY` (5563): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (104) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ro_rrt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11851; 96%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9954; 59%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-det.html">det</a></tt>]--> DET</tt> (8600; 83%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11857; 96%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9963; 59%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-det.html">det</a></tt>]--> DET</tt> (8599; 83%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3309; 59%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-acl.html">acl</a></tt>]--> VERB</tt> (2816; 67%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2727; 81%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-aux.html">aux</a></tt>]--> AUX</tt> (2497; 59%),
-<tt>NOUN --[<tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1928; 53%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1929; 53%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1381; 70%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1230; 72%).
 

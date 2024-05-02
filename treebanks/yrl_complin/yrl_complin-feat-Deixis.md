@@ -9,48 +9,43 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Prox`, `Remt`.
 
-239 tokens (3%) have a non-empty value of `Deixis`.
-17 types (1%) occur at least once with a non-empty value of `Deixis`.
-9 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (157; 2% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (47; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (35; 0% instances).
+345 tokens (3%) have a non-empty value of `Deixis`.
+19 types (1%) occur at least once with a non-empty value of `Deixis`.
+10 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
+The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (214; 2% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (78; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (53; 0% instances).
 
 ### `DET`
 
-157 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (55% of all `DET` tokens) have a non-empty value of `Deixis`.
+214 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (52% of all `DET` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (157; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (157; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (140; 89%).
+The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (214; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (214; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (197; 92%).
 
 `DET` tokens may have the following values of `Deixis`:
 
-* `Prox` (107; 68% of non-empty `Deixis`): <em>kwá, kwá-itá, kwaá</em>
-* `Remt` (50; 32% of non-empty `Deixis`): <em>nhaã, aé, nhaã-itá</em>
-
-### `PRON`
-
-47 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Deixis`.
-
-The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (47; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 74%).
-
-`PRON` tokens may have the following values of `Deixis`:
-
-* `Prox` (29; 62% of non-empty `Deixis`): <em>kwá, kwá-itá</em>
-* `Remt` (18; 38% of non-empty `Deixis`): <em>nhaã, nhaã-itá, aé</em>
+* `Prox` (134; 63% of non-empty `Deixis`): <em>kwá, kwá-itá, kwaá</em>
+* `Remt` (80; 37% of non-empty `Deixis`): <em>nhaã, aé, nhaã-itá</em>
 
 ### `ADV`
 
-35 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Deixis`.
+78 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (9% of all `ADV` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (35; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (35; 100%).
+The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (78; 100%), <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (71; 91%).
 
 `ADV` tokens may have the following values of `Deixis`:
 
-* `Prox` (25; 71% of non-empty `Deixis`): <em>iké, kwá, ape</em>
-* `Remt` (10; 29% of non-empty `Deixis`): <em>ape, akití, Mimi, aape</em>
+* `Prox` (46; 59% of non-empty `Deixis`): <em>iké, kwá, kí</em>
+* `Remt` (32; 41% of non-empty `Deixis`): <em>ape, akití, Mimi, aape</em>
 
-<table>
-  <tr><th>Paradigm <i>ape</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ape</em></td><td><em>ape</em></td></tr>
-</table>
+### `PRON`
+
+53 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Deixis`.
+
+The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (53; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (53; 100%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (53; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (53; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 68%).
+
+`PRON` tokens may have the following values of `Deixis`:
+
+* `Prox` (32; 60% of non-empty `Deixis`): <em>kwá, kwá-itá, Kwaá</em>
+* `Remt` (21; 40% of non-empty `Deixis`): <em>nhaã, nhaã-itá, aé</em>
 
 ## Relations with Agreement in `Deixis`
 

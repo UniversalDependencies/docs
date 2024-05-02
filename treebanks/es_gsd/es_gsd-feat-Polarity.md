@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1764 tokens (0%) have a non-empty value of `Polarity`.
+1763 tokens (0%) have a non-empty value of `Polarity`.
 18 types (0%) occur at least once with a non-empty value of `Polarity`.
 11 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (1724; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (28; 0% instances), <tt><a href="es_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (1723; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt> (28; 0% instances), <tt><a href="es_gsd-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-1724 <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Polarity`.
+1723 <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1724; 100%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="es_gsd-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1723; 100%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (1724; 100% of non-empty `Polarity`): <em>no, nunca, tampoco, jamás, ni, o, sino</em>
+* `Neg` (1723; 100% of non-empty `Polarity`): <em>no, nunca, tampoco, jamás, ni, o, sino</em>
 * `EMPTY` (10775): <em>más, también, muy, donde, ya, además, así, después, sólo, bien</em>
 
 ### `CCONJ`
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>ni</em>
-* `EMPTY` (13761): <em>y, o, pero, que, e, como, ni, sino, mientras, si</em>
+* `EMPTY` (13760): <em>y, o, pero, que, e, como, ni, sino, mientras, si</em>
 
 ### `PART`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (39247): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
+* `EMPTY` (39242): <em>san, España, Estados, Unidos, Juan, madrid, José, septiembre, julio, enero</em>
 
 ### `X`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>gran</em>
-* `EMPTY` (24985): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
+* `EMPTY` (24989): <em>primera, gran, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
 
 ### `ADP`
 
@@ -83,5 +83,5 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADP` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>para</em>
-* `EMPTY` (71078): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
+* `EMPTY` (71082): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
 

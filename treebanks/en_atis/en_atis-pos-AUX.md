@@ -13,7 +13,7 @@ The 10 most frequent `AUX` lemmas: <em>be, will, do, would, can, may, should, ha
 
 The 10 most frequent `AUX` types:  <em>is, are, would, 'd, does, can, do, 's, could, 'm</em>
 
-The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1161, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 208, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5), <em>do</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 309, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>have</em> (<tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 216, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1161, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 209, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5), <em>do</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 309, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>have</em> (<tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 216, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 606, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 93), <em>are</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 379, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 111), <em>do</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 93, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>'s</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 91, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5), <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 22, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 5), <em>may</em> (<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> 39, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 14), <em>am</em> (<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> 133, <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 8)
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_atis-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.222222 (the average of all parts of speech is 1.143493).
+The form / lemma ratio of `AUX` is 2.222222 (the average of all parts of speech is 1.144766).
 
 The 1st highest number of forms (8) was observed with the lemma “be”: <em>'m, 're, 's, am, are, be, being, is</em>.
 

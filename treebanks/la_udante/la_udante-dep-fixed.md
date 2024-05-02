@@ -8,43 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-131 nodes (0%) are attached to their parents as `fixed`.
+45 nodes (0%) are attached to their parents as `fixed`.
 
-131 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00763358778626.
+45 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 25 pairs of parts of speech are connected with `fixed`: <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (37; 28% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 12% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (13; 10% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (11; 8% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (9; 7% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 6% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 4% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 fixed	color:blue
-1	Ex	ex	ADP	e	_	2	case	_	_
-2	quo	qui	PRON	presnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	3	obl	_	_
-3	patet	pateo	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-4	quod	quod	SCONJ	cs	PronType=Rel	9	mark	_	_
-5	Imperator	imperator	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	nsubj	_	_
-6	ipsam	ipse	DET	ddesfa	Case=Acc|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	7	obl	_	_
-7	permutare	permuto	VERB	va1fp	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-8	non	non	PART	r	Polarity=Neg	9	advmod:neg	_	_
-9	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-10	in	in	ADP	e	_	12	mark	_	_
-11	quantum	quantus	DET	dinsna	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Rel	10	fixed	_	_
-12	Imperator	imperator	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	advcl	_	SpaceAfter=No
-13	,	,	PUNCT	Pu	_	17	punct	_	_
-14	cum	cum	SCONJ	cs	PronType=Rel	17	mark	_	_
-15	ab	ab	ADP	e	_	16	case	_	_
-16	ea	is	PRON	ddesfb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
-17	recipiat	recipio	VERB	va3cps3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-18	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	17	obj	_	TraditionalTense=Praesens
-19	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	18	acl:relcl	_	_
-20	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-21	.	.	PUNCT	Pu	_	3	punct	_	_
-
-~~~
+The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 36% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (13; 29% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 18% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (4; 9% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (2; 4% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances).
 
 
 ~~~ conllu
@@ -107,6 +76,36 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 19	memorabili	memorabilis	ADJ	afs2b	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	15	conj	_	_
 20	castigavit	castigo	VERB	va1irs3	Aspect=Perf|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 21	.	.	PUNCT	Pu	_	20	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 fixed	color:blue
+1	Patet	pateo	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+2	ergo	ergo	ADV	co	AdvType=Loc	1	discourse	_	_
+3	quomodo	quomodo	ADV	rt	Compound=Yes|PronType=Rel	5	advmod	_	_
+4	ratio	ratio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	5	nsubj	_	_
+5	manifestat	manifesto	VERB	va1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+6	divinum	diuinus	ADJ	ans1a	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	7	amod	_	_
+7	lumen	lumen	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	18	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	Pu	_	12	punct	_	_
+9	id	is	PRON	ddesnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	12	cc	_	_
+10	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+11	divinam	diuinus	ADJ	afs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	12	amod	_	_
+12	bonitatem	bonitas	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	7	conj:expl	_	SpaceAfter=No
+13	,	,	PUNCT	Pu	_	14	punct	_	_
+14	sapientiam	sapientia	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	12	conj	_	_
+15	et	et	CCONJ	co	_	16	cc	_	_
+16	virtutem	uirtus	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	12	conj	_	SpaceAfter=No
+17	,	,	PUNCT	Pu	_	7	punct	_	_
+18	resplendere	resplendeo	VERB	va2fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+19	ubique	ubique	ADV	r	AdvType=Loc|Form=Emp|PronType=Rel	18	advmod:lmod	_	SpaceAfter=No
+20	.	.	PUNCT	Pu	_	1	punct	_	_
 
 ~~~
 

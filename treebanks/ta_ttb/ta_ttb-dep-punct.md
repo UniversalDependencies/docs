@@ -23,8 +23,8 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 4 punct	color:blue
 1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nsubj	2:nsubj	Translit=avar|LTranslit=avar
-2	பேசியத்	பேசு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	0	root	0:root	Translit=pēciyat|LTranslit=pēcu
-3	ஆவது	ஆவது	PART	Tl-------	_	2	advmod:emph	2:advmod:emph	Translit=āvatu|LTranslit=āvatu
+2	பேசியத்	பேசு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	0	root	0:root	LTranslit=pēcu|Translit=pēciyat
+3	ஆவது	ஆவது	PART	Tl-------	_	2	advmod:emph	2:advmod:emph	LTranslit=āvatu|Translit=āvatu
 4	:	:	PUNCT	Z:-------	PunctType=Comm	2	punct	2:punct	SpaceAfter=No|Translit=:|LTranslit=:
 5	.	.	PUNCT	Z#-------	PunctType=Peri	2	punct	2:punct	Translit=.|LTranslit=.
 

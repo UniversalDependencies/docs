@@ -41,4 +41,4 @@ The `aux:cnd` relation is used in the Polish [PDB-UD](http://universaldependenci
 13	museum	_	_	_	_	_	_	_	_
 14	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:00 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:29 CET -->

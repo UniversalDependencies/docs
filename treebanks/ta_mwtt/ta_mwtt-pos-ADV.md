@@ -60,11 +60,11 @@ The 2nd highest number of forms (3) was observed with the lemma “நேற்�
 
 The 3rd highest number of forms (2) was observed with the lemma “அழகு”: அழகாக, அழகாய்.
 
-`ADV` occurs with 6 features: <tt><a href="ta_mwtt-feat-Number.html">Number</a></tt> (42; 26% instances), <tt><a href="ta_mwtt-feat-Case.html">Case</a></tt> (36; 22% instances), <tt><a href="ta_mwtt-feat-Person.html">Person</a></tt> (31; 19% instances), <tt><a href="ta_mwtt-feat-Polarity.html">Polarity</a></tt> (5; 3% instances), <tt><a href="ta_mwtt-feat-VerbForm.html">VerbForm</a></tt> (5; 3% instances), <tt><a href="ta_mwtt-feat-Gender.html">Gender</a></tt> (2; 1% instances)
+`ADV` occurs with 5 features: <tt><a href="ta_mwtt-feat-Number.html">Number</a></tt> (42; 26% instances), <tt><a href="ta_mwtt-feat-Case.html">Case</a></tt> (36; 22% instances), <tt><a href="ta_mwtt-feat-Person.html">Person</a></tt> (31; 19% instances), <tt><a href="ta_mwtt-feat-Polarity.html">Polarity</a></tt> (5; 3% instances), <tt><a href="ta_mwtt-feat-VerbForm.html">VerbForm</a></tt> (5; 3% instances)
 
-`ADV` occurs with 7 feature-value pairs: `Case=Dat`, `Case=Nom`, `Gender=Com`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `VerbForm=Conv`
+`ADV` occurs with 6 feature-value pairs: `Case=Dat`, `Case=Nom`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `VerbForm=Conv`
 
-`ADV` occurs with 7 feature combinations.
+`ADV` occurs with 6 feature combinations.
 The most frequent feature combination is `_` (114 tokens).
 Examples: இப்போது, இங்கே, இன்று, மட்டும், அங்கே, நன்றாக, மிகவும், வேகமாக, இவ்வளவு, எப்போது
 

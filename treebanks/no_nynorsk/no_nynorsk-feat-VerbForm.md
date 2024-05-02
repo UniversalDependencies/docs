@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>hende</em>
-* `EMPTY` (14914): <em>ikkje, så, også, no, opp, ut, her, berre, slik, fram</em>
+* `EMPTY` (12387): <em>så, også, no, opp, ut, her, berre, slik, fram, då</em>
 
 ## Relations with Agreement in `VerbForm`
 

@@ -10,15 +10,15 @@ This feature is universal but the values `CndGen`, `CndGenPot`, `Gen`, `GenNec`,
 It occurs with 12 different values: `Cnd`, `CndGen`, `CndGenPot`, `Des`, `Gen`, `GenNec`, `GenPot`, `Imp`, `Ind`, `Nec`, `Opt`, `Pot`.
 
 3338 tokens (17%) have a non-empty value of `Mood`.
-2138 types (27%) occur at least once with a non-empty value of `Mood`.
-978 lemmas (25%) occur at least once with a non-empty value of `Mood`.
+2137 types (27%) occur at least once with a non-empty value of `Mood`.
+975 lemmas (25%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3336; 17% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `VERB`
 
 3336 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3332; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3005; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2892; 87%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2486; 75%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2411; 72%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2168; 65%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3332; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3007; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2891; 87%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2485; 74%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2412; 72%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2168; 65%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -26,13 +26,13 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `CndGen` (27; 1% of non-empty `Mood`): <em>olursa, çabalarsan, Yetmezse, alırsan, azaltırsan, bakılırsa, büyütmezsek, ederse, edersen, ederseniz</em>
 * `CndGenPot` (1; 0% of non-empty `Mood`): <em>çoğaltabilirsek</em>
 * `Des` (24; 1% of non-empty `Mood`): <em>olsa, kalkışsa, atsa, bıraksak, demese, gelse, getirsek, geçirse, gitmesek, gitse</em>
-* `Gen` (204; 6% of non-empty `Mood`): <em>eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, yapar</em>
+* `Gen` (203; 6% of non-empty `Mood`): <em>eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, yapar</em>
 * `GenNec` (1; 0% of non-empty `Mood`): <em>olmalıdır</em>
 * `GenPot` (23; 1% of non-empty `Mood`): <em>kotaramam, alabiliriz, alabilirsin, alabilirsiniz, açabilir, bakamaz, benzetilebilir, beğendiremezdik, değiştirebiliriz, gelemezdi</em>
-* `Imp` (168; 5% of non-empty `Mood`): <em>et, bırak, aç, değiştir, al, dinle, gel, geç, olsun, çabala</em>
+* `Imp` (168; 5% of non-empty `Mood`): <em>et, bırak, aç, değiştir, geç, al, dinle, gel, olsun, çabala</em>
 * `Ind` (2731; 82% of non-empty `Mood`): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</em>
 * `Nec` (19; 1% of non-empty `Mood`): <em>etmeliyiz, beklemeliyiz, biçmeliyiz, bırakmamalısın, değiştirmelisin, etmelisiniz, getirmelisin, geçmeliydim, incelemeliyim, kazanmalıydım</em>
-* `Opt` (76; 2% of non-empty `Mood`): <em>sallaya, gide, havlaya, edelim, açalım, bırakalım, bırakayım, geçelim, kaldıralım, kaynaya</em>
+* `Opt` (77; 2% of non-empty `Mood`): <em>sallaya, gide, havlaya, edelim, açalım, bırakalım, bırakayım, geçelim, kaldıralım, kaynaya</em>
 * `Pot` (51; 2% of non-empty `Mood`): <em>alamadı, alamıyordu, açamıyorum, başaramadı, edememiş, edemiyorum, alabiliyordu, alamadım, alamıyorum, açınsayabildi</em>
 * `EMPTY` (1): <em>Neler</em>
 
@@ -86,8 +86,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (275; 74%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (274; 74%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> VERB</tt> (59; 86%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> VERB</tt> (24; 73%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> VERB</tt> (25; 74%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (6; 60%).
 

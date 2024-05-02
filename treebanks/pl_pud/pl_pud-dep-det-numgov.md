@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `det:numgov`: <tt><a
 6	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
 7	że	że	SCONJ	comp	_	8	mark	8:mark	_
 8	potrzeba	potrzeba	VERB	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	5	ccomp	5:ccomp	_
-9	więcej	więcej	DET	num:pl:acc:m1:rec	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	10	det:numgov	10:det:numgov	_
+9	więcej	więcej	DET	num:pl:acc:m1:rec	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|PronType=Ind	10	det:numgov	10:det:numgov	_
 10	dawców	dawca	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	8	iobj	8:iobj	SpaceAfter=No
 11	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_
 
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `det:numgov`: <tt><a
 4	zdarzenia	zdarzenie	NOUN	subst:pl:nom:n:ncol	Case=Nom|Gender=Neut|Number=Plur	8	nsubj	8:nsubj	SpaceAfter=No
 5	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	4	punct	4:punct	_
 6	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	8	cop	8:cop	_
-7	prawdopodobnie	prawdopodobnie	ADV	adv:pos	Degree=Pos	8	parataxis:insert	8:parataxis:insert	_
+7	prawdopodobnie	prawdopodobnie	PART	part	_	8	advmod:emph	8:advmod:emph	_
 8	ataki	atak	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 9	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Gen
 10	21	21	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	8	nmod	8:nmod	_
@@ -70,7 +70,7 @@ The following 2 pairs of parts of speech are connected with `det:numgov`: <tt><a
 24	,	,	PUNCT	interp	PunctType=Comm	25	punct	25:punct	_
 25	Spotify	Spotify	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	19:obl:cmpr|21:conj	_
 26	i	i	CCONJ	conj	_	28	cc	28:cc	_
-27	wiele	wiele	DET	num:pl:nom:f:rec	Case=Nom|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	28	det:numgov	28:det:numgov	_
+27	wiele	wiele	DET	num:pl:nom:f:rec	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	28	det:numgov	28:det:numgov	_
 28	innych	inny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	21	conj	19:obl:cmpr|21:conj	SpaceAfter=No
 29	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
 

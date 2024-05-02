@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-43649 tokens (48%) have a non-empty value of `Number`.
-17160 types (84%) occur at least once with a non-empty value of `Number`.
-9193 lemmas (79%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (17680; 20% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (6633; 7% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (5234; 6% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (4641; 5% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (3653; 4% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3296; 4% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2125; 2% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (383; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances).
+43618 tokens (48%) have a non-empty value of `Number`.
+17158 types (84%) occur at least once with a non-empty value of `Number`.
+9188 lemmas (79%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (17675; 20% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (6571; 7% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (5206; 6% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (4621; 5% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (3651; 4% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (3323; 4% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2184; 2% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (383; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-17680 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+17675 <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (3776; 21% of non-empty `Number`): <em>inimesed, inimesi, asju, asjad, inimeste, autosid, teemad, naised, mehed, tulemused</em>
-* `Sing` (13904; 79% of non-empty `Number`): <em>asi, aasta, teema, aru, auto, inimene, aastat, raha, aega, osa</em>
-* `EMPTY` (409): <em>a, ATP, b, p, z, cm, k, km, l/ha, TT</em>
+* `Sing` (13899; 79% of non-empty `Number`): <em>asi, aasta, teema, aru, auto, inimene, aastat, raha, aega, osa</em>
+* `EMPTY` (400): <em>a, ATP, b, p, z, cm, k, km, l/ha, TT</em>
 
 <table>
   <tr><th>Paradigm <i>inimene</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -42,15 +42,14 @@ The feature is used with 10 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.ht
 
 ### `PRON`
 
-6633 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+6571 <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4049; 61%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3988; 61%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1294; 20% of non-empty `Number`): <em>nad, kes, neid, meie, need, me, meil, mis, nende, kõik</em>
-* `Sing` (5339; 80% of non-empty `Number`): <em>ma, see, mis, seda, oma, ta, sa, midagi, mida, kes</em>
-* `EMPTY` (1): <em>ise</em>
+* `Plur` (1271; 19% of non-empty `Number`): <em>nad, kes, neid, meie, need, me, meil, mis, nende, kõik</em>
+* `Sing` (5300; 81% of non-empty `Number`): <em>ma, see, mis, seda, oma, ta, sa, midagi, mida, kes</em>
 
 <table>
   <tr><th>Paradigm <i>mina</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -75,15 +74,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `VERB`
 
-5234 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Number`.
+5206 <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5234; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5234; 100%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5215; 100%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4793; 92%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3915; 75%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (3230; 62%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5206; 100%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5206; 100%), <tt><a href="et_ewt-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (5187; 100%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4768; 92%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3890; 75%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (3218; 62%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (1074; 21% of non-empty `Number`): <em>lähevad, on, saavad, tulevad, teevad, jäävad, teeme, elame, käivad, olid</em>
-* `Sing` (4160; 79% of non-empty `Number`): <em>on, tuleb, saab, läheb, tuli, läks, sain, arvan, teeb, oli</em>
-* `EMPTY` (5651): <em>teha, saada, tea, minna, pole, saa, saanud, teada, olemas, öelda</em>
+* `Plur` (1063; 20% of non-empty `Number`): <em>lähevad, tulevad, on, saavad, teevad, jäävad, teeme, elame, käivad, tahavad</em>
+* `Sing` (4143; 80% of non-empty `Number`): <em>on, tuleb, saab, läheb, tuli, läks, sain, arvan, teeb, teab</em>
+* `EMPTY` (5647): <em>teha, saada, tea, pole, minna, saa, saanud, teada, olemas, öelda</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -101,15 +100,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-4641 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Number`.
+4621 <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4153; 89%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4152; 89%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4152; 89%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3858; 83%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2528; 54%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4132; 89%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4132; 89%), <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (4132; 89%), <tt><a href="et_ewt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3839; 83%), <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2519; 55%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (1001; 22% of non-empty `Number`): <em>head, vanad, erinevaid, suured, häid, uusi, erinevate, suurte, uued, mustad</em>
-* `Sing` (3640; 78% of non-empty `Number`): <em>hea, suur, võimalik, õige, huvitav, parem, vana, uus, esimene, lihtne</em>
-* `EMPTY` (622): <em>antud, inglise, eesti, teatud, valmis, vene, 3., ülejäänud, 27., kasutatud</em>
+* `Plur` (1002; 22% of non-empty `Number`): <em>head, vanad, erinevaid, suured, häid, uusi, erinevate, suurte, uued, mustad</em>
+* `Sing` (3619; 78% of non-empty `Number`): <em>hea, suur, võimalik, õige, huvitav, parem, vana, uus, esimene, lihtne</em>
+* `EMPTY` (614): <em>antud, inglise, eesti, teatud, vene, 3., ülejäänud, 27., kasutatud, päris</em>
 
 <table>
   <tr><th>Paradigm <i>hea</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -126,15 +125,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-3653 <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Number`.
+3651 <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> tokens (92% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2301; 63%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2302; 63%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (61; 2% of non-empty `Number`): <em>pasid, Paside, Pasidega, sepapoisid, vasurite, Abramseid, Alekukke, Arstiteadusüliõpilaste, BTR-d, BTR-ide</em>
-* `Sing` (3592; 98% of non-empty `Number`): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, tartu, d2xz, tallinna, vasur</em>
-* `EMPTY` (301): <em>le, a., oh, ja, YOU, |=X=|, BMW, rs1, usa, NATO</em>
+* `Sing` (3590; 98% of non-empty `Number`): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, tartu, d2xz, tallinna, vasur</em>
+* `EMPTY` (302): <em>le, a., oh, ja, YOU, |=X=|, BMW, rs1, usa, NATO</em>
 
 <table>
   <tr><th>Paradigm <i>Vasur</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -148,15 +147,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `AUX`
 
-3296 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (54% of all `AUX` tokens) have a non-empty value of `Number`.
+3323 <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> tokens (54% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3296; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3295; 100%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3270; 99%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3159; 96%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2816; 85%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2778; 84%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="et_ewt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3323; 100%), <tt><a href="et_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3322; 100%), <tt><a href="et_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3297; 99%), <tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3183; 96%), <tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2840; 85%), <tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt> (2789; 84%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (532; 16% of non-empty `Number`): <em>on, olid, oleme, võivad, peavad, peaksid, võiksid, olete, oleksid, olime</em>
-* `Sing` (2764; 84% of non-empty `Number`): <em>on, oli, olen, võib, saab, peab, oled, ongi, sai, olin</em>
-* `EMPTY` (2816): <em>ei, pole, oleks, ole, olla, peaks, olema, olnud, võiks, saa</em>
+* `Plur` (542; 16% of non-empty `Number`): <em>on, olid, oleme, võivad, peavad, olete, peaksid, võiksid, oleksid, olime</em>
+* `Sing` (2781; 84% of non-empty `Number`): <em>on, oli, olen, võib, saab, peab, oled, ongi, sai, olin</em>
+* `EMPTY` (2819): <em>ei, pole, oleks, ole, olla, peaks, olema, olnud, võiks, saa</em>
 
 <table>
   <tr><th>Paradigm <i>olema</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -178,25 +177,26 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>oli, oligi</em></td><td><em>olid</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>ple, pn</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>on, ongi, ole, ons</em></td><td><em>on, ongi</em></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="et_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olen</em></td><td></td></tr>
 </table>
 
 ### `DET`
 
-2125 <tt><a href="et_ewt-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
+2184 <tt><a href="et_ewt-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1134; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="et_ewt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (1142; 52%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (511; 24% of non-empty `Number`): <em>need, kõik, neid, mingid, nende, mingeid, mõned, sellised, selliste, teised</em>
-* `Sing` (1614; 76% of non-empty `Number`): <em>see, mingi, selle, seda, iga, üks, selline, sama, mingit, sellest</em>
-* `EMPTY` (51): <em>kogu, igast, kõiksugu</em>
+* `Plur` (535; 24% of non-empty `Number`): <em>need, kõik, neid, nende, mingid, paljud, mingeid, mõned, sellised, selliste</em>
+* `Sing` (1649; 76% of non-empty `Number`): <em>see, mingi, selle, seda, iga, üks, selline, sama, mingit, sellest</em>
+* `EMPTY` (52): <em>kogu, igast, igasugu, kõiksugu</em>
 
 <table>
   <tr><th>Paradigm <i>see</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>sellelt</em></td><td><em>nendelt</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>sel, sellel</em></td><td><em>neil, nendel</em></td></tr>
-  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td><em>sellele</em></td><td><em>nendele</em></td></tr>
+  <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td><em>sellele</em></td><td><em>nendele, Neile</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="et_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>sellel</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td><em>sellest</em></td><td><em>neist, nendest</em></td></tr>
   <tr><td><tt><tt><a href="et_ewt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>selle</em></td><td><em>nende</em></td></tr>
@@ -213,13 +213,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 383 <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> tokens (27% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="et_ewt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (355; 93%), <tt><a href="et_ewt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (329; 86%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="et_ewt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (354; 92%), <tt><a href="et_ewt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (330; 86%).
 
 `NUM` tokens may have the following values of `Number`:
 
 * `Plur` (28; 7% of non-empty `Number`): <em>tuhandeid, sadu, kümneid, pooled, miljarditest, 2-de, 3'si, 5'si, 5-si, kümnetes</em>
-* `Sing` (355; 93% of non-empty `Number`): <em>kaks, paar, ühe, üks, kahe, kolm, miljonit, paari, miljoni, poole</em>
-* `EMPTY` (1019): <em>2, 10, 3, 1, 100, 4, 20, 5, 15, 90</em>
+* `Sing` (355; 93% of non-empty `Number`): <em>kaks, paar, ühe, üks, kahe, kolm, miljonit, paari, poole, miljoni</em>
+* `EMPTY` (1017): <em>2, 10, 3, 1, 100, 4, 20, 5, 15, 90</em>
 
 <table>
   <tr><th>Paradigm <i>2</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -238,7 +238,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (1; 33% of non-empty `Number`): <em>S3'med</em>
 * `Sing` (2; 67% of non-empty `Number`): <em>@, S3-el</em>
-* `EMPTY` (351): <em>@, %, :), :D, ;), :s, :/, =), :(, :lol:</em>
+* `EMPTY` (355): <em>@, %, :), :D, ;), :s, :/, =), :(, :lol:</em>
 
 <table>
   <tr><th>Paradigm <i>S3</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -255,19 +255,19 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 `X` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>South</em>
-* `EMPTY` (280): <em>to, 000, s, my, of, or, the, u, a, from</em>
+* `EMPTY` (290): <em>to, 000, s, a, my, of, or, the, u, from</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="et_ewt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2384; 90%),
-<tt>NOUN --[<tt><a href="et_ewt-dep-det.html">det</a></tt>]--> DET</tt> (1869; 95%),
-<tt>NOUN --[<tt><a href="et_ewt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1526; 65%),
-<tt>VERB --[<tt><a href="et_ewt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1288; 63%),
-<tt>VERB --[<tt><a href="et_ewt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1278; 61%),
-<tt>NOUN --[<tt><a href="et_ewt-dep-cop.html">cop</a></tt>]--> AUX</tt> (744; 64%),
-<tt>NOUN --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (742; 79%),
-<tt>NOUN --[<tt><a href="et_ewt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (663; 73%),
-<tt>ADJ --[<tt><a href="et_ewt-dep-cop.html">cop</a></tt>]--> AUX</tt> (605; 69%),
-<tt>NOUN --[<tt><a href="et_ewt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (479; 75%).
+<tt>NOUN --[<tt><a href="et_ewt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2347; 91%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-det.html">det</a></tt>]--> DET</tt> (1923; 95%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1525; 65%),
+<tt>VERB --[<tt><a href="et_ewt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1289; 63%),
+<tt>VERB --[<tt><a href="et_ewt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1274; 61%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (744; 79%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-cop.html">cop</a></tt>]--> AUX</tt> (743; 64%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (621; 72%),
+<tt>ADJ --[<tt><a href="et_ewt-dep-cop.html">cop</a></tt>]--> AUX</tt> (606; 69%),
+<tt>NOUN --[<tt><a href="et_ewt-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (478; 76%).
 

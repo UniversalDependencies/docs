@@ -39,9 +39,8 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 1	TEMİZ	temiz	ADJ	_	_	3	amod	_	_
 2	BİR	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
 3	TESİSTİ	tesis	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	PERSONEL	personel	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
+4	PERSONEL	personel	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

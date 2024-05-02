@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4092 nodes (16%) are attached to their parents as `det`.
+4093 nodes (16%) are attached to their parents as `det`.
 
-4088 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17033235581623.
+4089 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1702907402883.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3387; 83% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (480; 12% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (99; 2% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (63; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3387; 83% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (481; 12% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (99; 2% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (63; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

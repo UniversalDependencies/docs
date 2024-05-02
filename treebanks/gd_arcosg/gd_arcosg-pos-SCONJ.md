@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.031746 (the average of all parts of speech is 1.299830).
+The form / lemma ratio of `SCONJ` is 1.031746 (the average of all parts of speech is 1.302045).
 
 The 1st highest number of forms (2) was observed with the lemma “'ar”: <em>'ar, ‘ar</em>.
 

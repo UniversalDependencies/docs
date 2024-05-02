@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EWT: POS Tags: `INTJ`
 
-There are 171 `INTJ` lemmas (1%), 175 `INTJ` types (1%) and 457 `INTJ` tokens (1%).
+There are 171 `INTJ` lemmas (1%), 175 `INTJ` types (1%) and 458 `INTJ` tokens (1%).
 Out of 16 observed tags, the rank of `INTJ` is: 7 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>no, noh, aitäh, tere, hmm, kurat, ah, irw, oot, vot</em>
+The 10 most frequent `INTJ` lemmas: <em>no, noh, aitäh, hmm, tere, kurat, ah, irw, oot, vot</em>
 
 The 10 most frequent `INTJ` types:  <em>no, noh, aitäh, Tere, hmm, kurat, irw, vot, ah, oot</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 64, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="et_ewt-pos-X.html">X</a></tt> 1), <em>noh</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 41, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1), <em>tere</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 12, <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 1), <em>hmm</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 11, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1), <em>kurat</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 11, <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 4), <em>vot</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 10, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> 1), <em>ok</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 2), <em>okei</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> 1), <em>:)</em> (<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> 25, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>krt</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 64, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="et_ewt-pos-X.html">X</a></tt> 1), <em>noh</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 41, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1), <em>tere</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 12, <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 1), <em>kurat</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 11, <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 4), <em>vot</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 10, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> 1), <em>ok</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 2), <em>okei</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> 1), <em>:)</em> (<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> 25, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>krt</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 3), <em>oh</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 35, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="et_ewt-pos-X.html">X</a></tt> 1), <em>noh</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 30, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1), <em>Tere</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 12, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 1), <em>kurat</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 1), <em>vot</em> (<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> 1), <em>ok</em> (<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 2), <em>okei</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> 1), <em>:)</em> (<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> 25, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>oh</em> (<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 18, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>jaa</em> (<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="et_ewt-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.023392 (the average of all parts of speech is 1.731541).
+The form / lemma ratio of `INTJ` is 1.023392 (the average of all parts of speech is 1.732282).
 
 The 1st highest number of forms (3) was observed with the lemma “aitäh”: <em>Aitah, aitäh, aitähh</em>.
 
@@ -63,32 +63,32 @@ The 2nd highest number of forms (2) was observed with the lemma “:D”: <em>:-
 
 The 3rd highest number of forms (2) was observed with the lemma “ah”: <em>-ah, ah</em>.
 
-`INTJ` occurs with 3 features: <tt><a href="et_ewt-feat-Foreign.html">Foreign</a></tt> (15; 3% instances), <tt><a href="et_ewt-feat-Typo.html">Typo</a></tt> (9; 2% instances), <tt><a href="et_ewt-feat-Abbr.html">Abbr</a></tt> (5; 1% instances)
+`INTJ` occurs with 3 features: <tt><a href="et_ewt-feat-Foreign.html">Foreign</a></tt> (15; 3% instances), <tt><a href="et_ewt-feat-Typo.html">Typo</a></tt> (9; 2% instances), <tt><a href="et_ewt-feat-Abbr.html">Abbr</a></tt> (4; 1% instances)
 
 `INTJ` occurs with 3 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Typo=Yes`
 
 `INTJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (430 tokens).
+The most frequent feature combination is `_` (432 tokens).
 Examples: <em>no, noh, aitäh, Tere, hmm, kurat, irw, vot, ah, oot</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 8 different relations: <tt><a href="et_ewt-dep-discourse.html">discourse</a></tt> (359; 79% instances), <tt><a href="et_ewt-dep-root.html">root</a></tt> (85; 19% instances), <tt><a href="et_ewt-dep-conj.html">conj</a></tt> (8; 2% instances), <tt><a href="et_ewt-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 8 different relations: <tt><a href="et_ewt-dep-discourse.html">discourse</a></tt> (358; 78% instances), <tt><a href="et_ewt-dep-root.html">root</a></tt> (87; 19% instances), <tt><a href="et_ewt-dep-conj.html">conj</a></tt> (8; 2% instances), <tt><a href="et_ewt-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (219; 48% instances),  (85; 19% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (49; 11% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (30; 7% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (26; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (25; 5% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (11; 2% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (219; 48% instances),  (87; 19% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (48; 10% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (29; 6% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (28; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (25; 5% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (11; 2% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances)
 
-342 (75%) `INTJ` nodes are leaves.
+343 (75%) `INTJ` nodes are leaves.
 
-74 (16%) `INTJ` nodes have one child.
+73 (16%) `INTJ` nodes have one child.
 
 30 (7%) `INTJ` nodes have two children.
 
-11 (2%) `INTJ` nodes have three or more children.
+12 (3%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 6.
+The highest child degree of a `INTJ` node is 7.
 
-Children of `INTJ` nodes are attached using 15 different relations: <tt><a href="et_ewt-dep-punct.html">punct</a></tt> (103; 60% instances), <tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt> (27; 16% instances), <tt><a href="et_ewt-dep-cc.html">cc</a></tt> (9; 5% instances), <tt><a href="et_ewt-dep-conj.html">conj</a></tt> (8; 5% instances), <tt><a href="et_ewt-dep-advmod.html">advmod</a></tt> (6; 4% instances), <tt><a href="et_ewt-dep-discourse.html">discourse</a></tt> (5; 3% instances), <tt><a href="et_ewt-dep-flat-foreign.html">flat:foreign</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="et_ewt-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="et_ewt-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="et_ewt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 1% instances), <tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 16 different relations: <tt><a href="et_ewt-dep-punct.html">punct</a></tt> (105; 59% instances), <tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt> (27; 15% instances), <tt><a href="et_ewt-dep-cc.html">cc</a></tt> (9; 5% instances), <tt><a href="et_ewt-dep-conj.html">conj</a></tt> (8; 5% instances), <tt><a href="et_ewt-dep-advmod.html">advmod</a></tt> (6; 3% instances), <tt><a href="et_ewt-dep-discourse.html">discourse</a></tt> (5; 3% instances), <tt><a href="et_ewt-dep-mark.html">mark</a></tt> (3; 2% instances), <tt><a href="et_ewt-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-flat-foreign.html">flat:foreign</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="et_ewt-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="et_ewt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 1% instances), <tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (103; 60% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (29; 17% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (11; 6% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (9; 5% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 12 different parts of speech: <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (105; 59% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (29; 16% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (11; 6% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (9; 5% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

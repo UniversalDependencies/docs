@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (33; 100% of non-empty `Polite`): دەمسىز، كىردىڭىز، بىلدىڭىز، قىلىسىز، كۆردىڭىزمۇ، ئىشىنىسىز، بولدىڭىز، بولدىڭىزمۇ، بىلىندىڭىز، بېرىسىز
-* `EMPTY` (8295): دەپ، دېدى، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، دېگەن، كېلىپ
+* `EMPTY` (8294): دەپ، دېدى، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، دېگەن، كېلىپ
 
 `Polite` seems to be **lexical feature** of `VERB`. 100% lemmas (16) occur only with one value of `Polite`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (3; 100% of non-empty `Polite`): بولدىڭىز، بولىسىز، قالدىڭىز
-* `EMPTY` (907): ئىدى، بولۇپ، ئىكەن، كەتتى، قالدى، بولسا، بولدى، ئەمەس، بولىدۇ، قالدىم
+* `EMPTY` (908): ئىدى، بولۇپ، ئىكەن، كەتتى، قالدى، بولسا، بولدى، ئەمەس، بولىدۇ، قالدىم
 
 ## Relations with Agreement in `Polite`
 

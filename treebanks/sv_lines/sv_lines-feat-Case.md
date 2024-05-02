@@ -173,7 +173,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2116; 98%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1128; 97%),
 <tt>NOUN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (345; 99%),
-<tt>PROPN --[<tt><a href="sv_lines-dep-flat.html">flat</a></tt>]--> PROPN</tt> (330; 89%),
+<tt>PROPN --[<tt><a href="sv_lines-dep-flat.html">flat</a></tt>]--> PROPN</tt> (332; 89%),
 <tt>PROPN --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (299; 91%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> ADJ</tt> (238; 99%),
 <tt>ADJ --[<tt><a href="sv_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (235; 98%),

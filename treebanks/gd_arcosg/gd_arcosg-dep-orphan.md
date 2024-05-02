@@ -64,7 +64,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	TNG	TNG	NOUN	Y	_	4	nmod	_	_
 6	gu	gu	ADP	Sp	_	7	case	_	_
 7	BBC	BBC	NOUN	Y	_	1	obl	_	_
-8	2	2	NUM	Mn	_	7	nummod	_	_
+8	2	2	NUM	Mn	NumForm=Digit|NumType=Card	7	nummod	_	_
 9	agus	agus	CCONJ	Cc	_	10	cc	_	_
 10	Tacsi	Tacsi	PROPN	Nn	_	4	conj	_	_
 11	gu	gu	ADP	Sp	_	12	case	_	_

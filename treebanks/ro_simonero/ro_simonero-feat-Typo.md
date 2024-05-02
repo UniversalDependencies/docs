@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-5 tokens (0%) have a non-empty value of `Typo`.
+6 tokens (0%) have a non-empty value of `Typo`.
 5 types (0%) occur at least once with a non-empty value of `Typo`.
-5 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 0% instances).
+6 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -26,13 +26,13 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 ### `ADV`
 
-1 <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="ro_simonero-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="ro_simonero-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>comparativ</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>comparativ, de</em>
 
 ### `NOUN`
 

@@ -16,23 +16,23 @@ The feature is used with 2 part-of-speech tags: <tt><a href="la_llct-pos-DET.htm
 
 ### `DET`
 
-702 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Reflex`.
+702 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Reflex`.
 
 The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (702; 100%), <tt><a href="la_llct-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (702; 100%), <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (702; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (702; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt> (434; 62%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (369; 53%).
 
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (702; 100% of non-empty `Reflex`): <em>suis, suas, suo, sua, suos, suam, suum, sue, suorum, sui</em>
-* `EMPTY` (19311): <em>ipsa, qui, mea, suprascripta, nostro, ipsius, tuis, omnia, hanc, meis</em>
+* `EMPTY` (19363): <em>ipsa, qui, mea, suprascripta, nostro, ipsius, tuis, omnia, hanc, meis</em>
 
 ### `PRON`
 
 67 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (67; 100%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (58; 87%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (44; 66%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 60%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (67; 100%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (67; 100%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt> (58; 87%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 60%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (67; 100% of non-empty `Reflex`): <em>se, sibi, sivi</em>
-* `EMPTY` (18243): <em>ego, me, nos, tibi, qui, eius, mihi, vobis, quas, id</em>
+* `EMPTY` (18212): <em>ego, me, nos, tibi, qui, eius, mihi, vobis, quas, id</em>
 

@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>muchísimos</em>
-* `EMPTY` (25205): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
+* `EMPTY` (25206): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
 
 ## Relations with Agreement in `Degree`
 

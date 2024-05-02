@@ -42,8 +42,8 @@ The following 2 pairs of parts of speech are connected with `advcl:cond`: <tt><a
 3	பரிசு	பரிசு	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obj	_	Translit=paricu|LTranslit=paricu
 4	கொடுத்தால்	கொடு	VERB	_	VerbForm=Fin	6	advcl:cond	_	Translit=koṭuttāl|LTranslit=koṭu
 5	அது	அது	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj	_	Translit=atu|LTranslit=atu
-6	சந்தோஷ	சந்தோஷம்	NOUN	_	Number=Sing|Person=3	0	root	_	Translit=cantōṣa|LTranslit=cantōṣam
-7	படுகிறது	படு	AUX	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	6	aux	_	Translit=paṭukiṟatu|LTranslit=paṭu
+6	சந்தோஷ	சந்தோஷம்	NOUN	_	Number=Sing|Person=3	0	root	_	LTranslit=cantōṣam|Translit=cantōṣa
+7	படுகிறது	படு	AUX	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	6	aux	_	LTranslit=paṭu|Translit=paṭukiṟatu
 8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
 ~~~

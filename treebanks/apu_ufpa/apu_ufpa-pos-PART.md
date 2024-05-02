@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `PART`
 
 There are 1 `PART` lemmas (0%), 2 `PART` types (1%) and 13 `PART` tokens (1%).
-Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 13 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 14 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>kuna</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.228873).
+The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.231034).
 
 The 1st highest number of forms (2) was observed with the lemma “kuna”: <em>kene, kuna</em>.
 

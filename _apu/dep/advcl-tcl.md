@@ -9,8 +9,8 @@ The _advcl:tcl_ relation is used for adverbal clause with temporal modality.
 
 ~~~ sdparse
 Pupỹkary ithupa sikasaaky atamatary erẽkatxi . \n When he came to the forest, the Indian saw blood .
-advcl:tmod(atamatary, sikasaaky)
+advcl:tcl(atamatary, sikasaaky)
 
 ~~~
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:55 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:19 CET -->

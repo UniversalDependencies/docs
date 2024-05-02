@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (258; 100% of non-empty `VerbForm`): <em>betydande, följande, kända, sett, allierade, känd, levande, omfattande, regisserad, anställd</em>
-* `EMPTY` (1301): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
+* `EMPTY` (1302): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (208) occur only with one value of `VerbForm`.
 

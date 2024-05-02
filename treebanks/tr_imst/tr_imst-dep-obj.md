@@ -17,49 +17,49 @@ The following 44 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 obj	color:blue
-1	Bir	bir	DET	ANum	_	2	det	_	_
-2	ihtimal	ihtimal	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	obl	_	_
-3	olarak	olarak	ADP	PCNom	_	2	case	_	_
-4	bu	bu	DET	Det	_	5	det	_	_
-5	hususu	husus	NOUN	Noun	Case=Acc|Number=Sing|Person=3	6	obj	_	_
-6	belirtiyorlar	belir	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 obj	color:blue
-1	Kendisini	kendi	PRON	Reflex	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Reflex=Yes	6	obj	_	_
-2	ağlayarak	ağla	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	3	advcl	_	_
-3	değil	değil	CCONJ	Conj	_	6	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	Punc	_	5	punct	_	_
-5	gülerek	gül	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	3	conj	_	_
-6	uğurlamamızı	uğurla	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Plur|Person[psor]=1|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	7	obj	_	_
-7	istedi	iste	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	Punc	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 obj	color:blue
-1	Ne	ne	PRON	Ques	Case=Nom|Number=Sing|Person=3	2	obj	_	_
-2	anlatacaktın	anlat	VERB	Verb	Aspect=Prosp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	Punc	_	2	punct	_	_
+1	İzini	iz	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	obj	_	_
+2	bulursanız	bul	VERB	Verb	Aspect=Hab|Mood=Cnd|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	9	ccomp	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	6	punct	_	_
+4	bu	bu	DET	Det	_	5	det	_	_
+5	numaraya	numara	NOUN	Noun	Case=Dat|Number=Sing|Person=3	6	nmod	_	_
+6	haber	haber	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	conj	_	_
+7	verirsiniz	ver	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	6	compound	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	6	punct	_	_
+9	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 obj	color:blue
+1	Nereye	nere	PRON	Ques	Case=Dat|Number=Sing|Person=3	2	obl	_	_
+2	gitmiş	git	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	3	obj	_	_
+3	olabilir	ol	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+4	Osman	Osman	PROPN	Prop	Case=Nom|Number=Sing|Person=3	3	nsubj	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 obj	color:blue
+1	Bulabilirler	bul	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Plur|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
+2	onu	o	PRON	Pers	Case=Acc|Number=Sing|Person=3|PronType=Prs	1	obj	_	SpaceAfter=No
+3	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 

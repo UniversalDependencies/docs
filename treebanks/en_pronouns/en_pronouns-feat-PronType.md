@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_English-Pronouns: Features: `PronType`
 
 This feature is universal.
-It occurs with 3 different values: `Art`, `Ind`, `Prs`.
+It occurs with 4 different values: `Art`, `Ind`, `Prs`, `Tot`.
 
-505 tokens (30%) have a non-empty value of `PronType`.
-15 types (19%) occur at least once with a non-empty value of `PronType`.
-8 lemmas (13%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (320; 19% instances), <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> (185; 11% instances).
+515 tokens (30%) have a non-empty value of `PronType`.
+16 types (21%) occur at least once with a non-empty value of `PronType`.
+9 lemmas (14%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (320; 19% instances), <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> (195; 11% instances).
 
 ### `PRON`
 
@@ -27,15 +27,15 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-185 <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `PronType`.
+195 <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_pronouns-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (180; 97%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_pronouns-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (180; 92%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (180; 97% of non-empty `PronType`): <em>the</em>
+* `Art` (180; 92% of non-empty `PronType`): <em>the</em>
 * `Ind` (5; 3% of non-empty `PronType`): <em>Any</em>
-* `EMPTY` (10): <em>all</em>
+* `Tot` (10; 5% of non-empty `PronType`): <em>all</em>
 
 ## Relations with Agreement in `PronType`
 

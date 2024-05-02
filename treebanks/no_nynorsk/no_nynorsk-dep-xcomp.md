@@ -64,7 +64,7 @@ The following 43 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2 4 xcomp	color:blue
 1	Grekarane	grekar	NOUN	subst	Gender=Masc|Number=Plur	2	nsubj	_	_
 2	vert	verte	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ikkje	ikkje	ADV	adv	_	2	advmod	_	_
+3	ikkje	ikkje	PART	adv	Polarity=Neg	2	advmod	_	_
 4	tyskarar	tyskar	NOUN	subst	Definite=Ind|Gender=Masc|Number=Plur	2	xcomp	_	_
 5	same	same	DET	det	PronType=Dem	6	obl	_	_
 6	kor	kor	ADV	adv	_	7	advmod	_	_

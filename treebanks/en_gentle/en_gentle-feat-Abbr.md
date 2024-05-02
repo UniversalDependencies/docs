@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>e.g.</em>
-* `EMPTY` (725): <em>then, just, so, here, also, thus, well, how, where, now</em>
+* `EMPTY` (723): <em>then, just, so, here, also, thus, well, how, where, now</em>
 
 ### `ADJ`
 
@@ -58,5 +58,5 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>U.S.</em>
-* `EMPTY` (1237): <em>next, other, first, old, open, more, straight, chronic, right, third</em>
+* `EMPTY` (1245): <em>next, other, first, old, open, more, straight, chronic, right, such</em>
 

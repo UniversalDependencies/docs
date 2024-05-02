@@ -22,16 +22,16 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 xcomp	color:blue
-1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	me	se	PRON	_	_	4	expl:comp	_	_
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	expl:comp	_	_
 3	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	aperçue	apercevoir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	que	que	SCONJ	_	_	8	mark	_	_
 6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	SpaceAfter=No
 7	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	ccomp	_	_
-9	qui	qui	PRON	_	_	11	nsubj	_	_
-10	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	11	obj	_	_
+9	qui	qui	PRON	_	PronType=Rel	11	nsubj	_	_
+10	les	eux	PRON	_	Number=Plur|Person=3|PronType=Prs	11	obj	_	_
 11	empêchait	empêcher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl:cleft	_	_
 12	de	de	ADP	_	_	13	mark	_	_
 13	gonfler	gonfler	VERB	_	VerbForm=Inf	11	xcomp	_	SpaceAfter=No|Subject=ObjRaising
@@ -48,7 +48,7 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4 6 xcomp	color:blue
 1	euh	euh	INTJ	_	_	4	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	pas	pas	ADV	_	_	4	advmod	_	_
 6	professionnel	professionnel	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	_

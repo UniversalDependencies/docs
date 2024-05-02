@@ -12,19 +12,19 @@ It occurs with 2 different values: `Def`, `Ind`.
 69060 tokens (32%) have a non-empty value of `Definite`.
 22191 types (70%) occur at least once with a non-empty value of `Definite`.
 10814 lemmas (63%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (52850; 24% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (15011; 7% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (470; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (407; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (322; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (52851; 24% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (15010; 7% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (470; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (407; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (322; 0% instances).
 
 ### `NOUN`
 
-52850 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Definite`.
+52851 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38592; 73%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (32519; 62%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (28805; 55%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38593; 73%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (32519; 62%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (28805; 55%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
 * `Def` (27198; 51% of non-empty `Definite`): <em>cazul, timpul, statele, Comisia, cadrul, partea, fața, comisiei, anul, articolul</em>
-* `Ind` (25652; 49% of non-empty `Definite`): <em>ani, timp, conformitate, loc, membre, mod, acord, parte, b, lucru</em>
-* `EMPTY` (1406): <em>art., a., nr., CE, b., mg, lit., alin., ml, CEE</em>
+* `Ind` (25653; 49% of non-empty `Definite`): <em>ani, timp, conformitate, loc, membre, mod, acord, parte, b, lucru</em>
+* `EMPTY` (1407): <em>art., a., nr., CE, b., mg, lit., alin., ml, CEE</em>
 
 <table>
   <tr><th>Paradigm <i>an</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -38,14 +38,14 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `ADJ`
 
-15011 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Definite`.
+15010 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14971; 100%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9821; 65%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9399; 63%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (9207; 61%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (14970; 100%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9820; 65%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9398; 63%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (9207; 61%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Def` (894; 6% of non-empty `Definite`): <em>prezentul, prezenta, prezentului, prezentei, întreaga, următoarele, noul, noua, fosta, principalele</em>
-* `Ind` (14117; 94% of non-empty `Definite`): <em>mare, europene, nou, necesare, europeană, mari, european, mică, naționale, general</em>
+* `Ind` (14116; 94% of non-empty `Definite`): <em>mare, europene, nou, necesare, europeană, mari, european, mică, naționale, general</em>
 * `EMPTY` (288): <em>asemenea, standard, anume, așa, n., aparte, atare, eficace, roz, e-</em>
 
 <table>
@@ -107,7 +107,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (314; 98% of non-empty `Definite`): <em>României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</em>
 * `Ind` (8; 2% of non-empty `Definite`): <em>Britanii, Americi, Eladă, Făt-frumos, Iugoslavie, Mediterane, Napoleon</em>
-* `EMPTY` (5564): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
+* `EMPTY` (5563): <em>România, Winston, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien, Moldova</em>
 
 <table>
   <tr><th>Paradigm <i>Iugoslavia</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -120,7 +120,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9456; 56%),
+<tt>NOUN --[<tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9461; 56%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3042; 89%),
 <tt>ADJ --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (713; 99%),
 <tt>NOUN --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (278; 51%),

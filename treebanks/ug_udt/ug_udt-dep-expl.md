@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 expl	color:blue
-1	_	_	PUNCT	Y	_	5	punct	_	Translit=_|Morf=Unknown
-2	ئاشۇ	ئاشۇ	PRON	P	Case=Nom|PronType=Dem	3	det	_	Translit=ashu
-3	ئايال	ئايال	NOUN	N	Case=Nom	5	nsubj	_	Translit=ayal
-4	سادىقنىڭ	سادىق	PROPN	N	Case=Gen	5	nmod:poss	_	Translit=sadiqning
-5	ئانىسى	ئانا	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	9	ccomp	_	Translit=anisi
-6	شۇ	شۇ	PRON	P	Case=Nom|PronType=Dem	5	expl	_	SpaceAfter=No|Translit=shu
-7	،	،	PUNCT	Y	_	5	punct	_	Translit=,
-8	_	_	PUNCT	Y	_	5	punct	_	Translit=_|Morf=Unknown
-9	دېدى	دې	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=dëdi
-10	ھارۋىكەش	ھارۋىكەش	NOUN	N	Case=Nom	9	nsubj	_	SpaceAfter=No|Translit=harwikesh
-11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
+1	_	_	PUNCT	Y	_	5	punct	_	Morf=Unknown
+2	ئاشۇ	ئاشۇ	PRON	P	Case=Nom|PronType=Dem	3	det	_	Translit=ashu|LTranslit=ashu
+3	ئايال	ئايال	NOUN	N	Case=Nom	5	nsubj	_	Translit=ayal|LTranslit=ayal
+4	سادىقنىڭ	سادىق	PROPN	N	Case=Gen	5	nmod:poss	_	Translit=sadiqning|LTranslit=sadiq
+5	ئانىسى	ئانا	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	9	ccomp	_	Translit=anisi|LTranslit=ana
+6	شۇ	شۇ	PRON	P	Case=Nom|PronType=Dem	5	expl	_	SpaceAfter=No|Translit=shu|LTranslit=shu
+7	،	،	PUNCT	Y	_	5	punct	_	Translit=,|LTranslit=,
+8	_	_	PUNCT	Y	_	5	punct	_	Morf=Unknown
+9	دېدى	دې	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=dëdi|LTranslit=dë
+10	ھارۋىكەش	ھارۋىكەش	NOUN	N	Case=Nom	9	nsubj	_	SpaceAfter=No|Translit=harwikesh|LTranslit=harwikesh
+11	.	.	PUNCT	Y	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

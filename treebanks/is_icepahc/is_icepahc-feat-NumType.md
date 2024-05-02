@@ -12,17 +12,17 @@ It occurs with 3 different values: `Card`, `Frac`, `Ord`.
 5737 tokens (1%) have a non-empty value of `NumType`.
 431 types (1%) occur at least once with a non-empty value of `NumType`.
 389 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 12 part-of-speech tags: <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (3437; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (1857; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (213; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (91; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (87; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (3438; 0% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (1857; 0% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (212; 0% instances), <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (91; 0% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (87; 0% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (21; 0% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-3437 <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> tokens (78% of all `NUM` tokens) have a non-empty value of `NumType`.
+3438 <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> tokens (78% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2256; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2257; 66%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (3370; 98% of non-empty `NumType`): <em>tólf, tveir, tvo, fimm, sex, tvö, 3, þrír, 2, sjö</em>
+* `Card` (3371; 98% of non-empty `NumType`): <em>tólf, tveir, tvo, fimm, sex, tvö, 3, þrír, 2, sjö</em>
 * `Frac` (1; 0% of non-empty `NumType`): <em>ij</em>
 * `Ord` (66; 2% of non-empty `NumType`): <em>tvö, fjögur, þrjú, fimm, tólf, hundruð, tuttugu, þrjá, fjörutíu, níu</em>
 * `EMPTY` (974): <em>ij, ii, iij, hálft, tvisvar, hvorirtveggju, þrisvar, iiij, hvorttveggja, hálfan</em>
@@ -56,19 +56,19 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 * `Card` (1856; 100% of non-empty `NumType`): <em>einn, eitt, einum, ein, eina, einu, einni, eins, einnar, 1</em>
 * `Ord` (1; 0% of non-empty `NumType`): <em>hvaða</em>
-* `EMPTY` (43081): <em>þetta, sá, allt, það, þeim, þessi, þann, allir, þá, öllum</em>
+* `EMPTY` (43072): <em>þetta, sá, allt, það, þeim, þessi, þann, allir, þá, öllum</em>
 
 ### `ADJ`
 
-213 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
+212 <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (213; 100%), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (213; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (173; 81%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (173; 81%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (173; 81%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (212; 100%), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (212; 100%), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (173; 82%), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (173; 82%), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (173; 82%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Card` (212; 100% of non-empty `NumType`): <em>5., 1., 7., 10., 4., 3., 9., átta, 16., 2.</em>
+* `Card` (211; 100% of non-empty `NumType`): <em>5., 1., 7., 10., 4., 3., 9., átta, 16., 2.</em>
 * `Frac` (1; 0% of non-empty `NumType`): <em>vǫn</em>
-* `EMPTY` (36961): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
+* `EMPTY` (36960): <em>sama, gott, góða, satt, góður, sömu, stór, fyrsta, góð, fyrstu</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (74) occur only with one value of `NumType`.
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 * `Card` (77; 85% of non-empty `NumType`): <em>hundruð, hundrað, móti, þúsund, brautu, hndr, sex, vj, ד, Bræður</em>
 * `Frac` (2; 2% of non-empty `NumType`): <em>ui, xx</em>
 * `Ord` (12; 13% of non-empty `NumType`): <em>hundruð, þúsund</em>
-* `EMPTY` (145799): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
+* `EMPTY` (145796): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>
 
 <table>
   <tr><th>Paradigm <i>hundrað</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -139,7 +139,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 
 * `Card` (9; 90% of non-empty `NumType`): <em>1, 4., 3., I, If, Jesaja, Tyrkjaskipið</em>
 * `Ord` (1; 10% of non-empty `NumType`): <em>Tvö</em>
-* `EMPTY` (41376): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
+* `EMPTY` (41377): <em>guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</em>
 
 ### `VERB`
 
@@ -181,7 +181,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>hvörri, ór</em>
-* `EMPTY` (120323): <em>hann, það, þeir, því, þú, eg, ég, honum, hans, hún</em>
+* `EMPTY` (120334): <em>hann, það, þeir, því, þú, eg, ég, honum, hans, hún</em>
 
 ### `INTJ`
 

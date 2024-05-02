@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_ancora-pos-
   * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 412: <em>En fin , un paraíso <b>donde</b> ni la inflación tiene presencia .</em>
   * <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> 6: <em>" No se trata de jugar <b>donde</b> a uno le guste , sino <b>donde</b> más te necesite el equipo .</em>
 * <em>aun</em>
-  * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 13: <em>Gracias a que poseía el 28,6% de las acciones , De Mol ganó 261.000 millones , pero <b>aun</b> así sigue trabajando como director creativo en la firma .</em>
+  * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 13: <em>Gracias a que poseía el 28,6 % de las acciones , De Mol ganó 261.000 millones , pero <b>aun</b> así sigue trabajando como director creativo en la firma .</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 3: <em>Más <b>aun</b> , para algunos es fuente de marginación , en la medida en que la sociedad clasifica a las personas según lo que hacen .</em>
   * <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> 2: <em>En todo caso , se considera prácticamente imposible que , <b>aun</b> procediendo de ETA la extorsión , la banda esté en condiciones de materializar sus amenazas : - Ni nos consta ni tenemos indicios de que ETA haya logrado reconstruir un aparato de cobro como los desarticulados en enero de el 92 y en agosto de el año pasado - .</em>
 * <em>Apenas</em>
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="es_ancora-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.933333 (the average of all parts of speech is 1.503245).
+The form / lemma ratio of `SCONJ` is 0.933333 (the average of all parts of speech is 1.505634).
 
 The 1st highest number of forms (1) was observed with the lemma “adonde”: <em>adonde</em>.
 
@@ -82,7 +82,7 @@ Examples: <em>que, como, si, porque, cuando, aunque, según, mientras, pues, don
 
 `SCONJ` nodes are attached to their parents using 11 different relations: <tt><a href="es_ancora-dep-mark.html">mark</a></tt> (11019; 88% instances), <tt><a href="es_ancora-dep-fixed.html">fixed</a></tt> (988; 8% instances), <tt><a href="es_ancora-dep-cc.html">cc</a></tt> (399; 3% instances), <tt><a href="es_ancora-dep-case.html">case</a></tt> (30; 0% instances), <tt><a href="es_ancora-dep-obj.html">obj</a></tt> (16; 0% instances), <tt><a href="es_ancora-dep-advmod.html">advmod</a></tt> (14; 0% instances), <tt><a href="es_ancora-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="es_ancora-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="es_ancora-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="es_ancora-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 17 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (8038; 64% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1932; 15% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (868; 7% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (509; 4% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (251; 2% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (226; 2% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (209; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (158; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (156; 1% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (94; 1% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 17 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (8039; 64% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1932; 15% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (866; 7% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (509; 4% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (251; 2% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (226; 2% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (209; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (162; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (152; 1% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (95; 1% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (1; 0% instances)
 
 12379 (99%) `SCONJ` nodes are leaves.
 

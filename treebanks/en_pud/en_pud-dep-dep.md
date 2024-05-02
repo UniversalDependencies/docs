@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 dep	color:blue
-1	Two	two	NUM	CD	NumType=Card	2	nsubj	2:nsubj	_
+1	Two	two	NUM	CD	NumForm=Word|NumType=Card	2	nsubj	2:nsubj	_
 2	measure	measure	NOUN	NN	Number=Sing	0	root	0:root	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 4	lengths	length	NOUN	NNS	Number=Plur	2	dep	2:dep	_

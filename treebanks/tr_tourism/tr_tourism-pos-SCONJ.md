@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-Tourism: POS Tags: `SCONJ`
 
 There are 2 `SCONJ` lemmas (0%), 2 `SCONJ` types (0%) and 32 `SCONJ` tokens (0%).
-Out of 15 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ki, eğer</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Kİ</em> (<tt><a href="tr_tourism-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.824721).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.825646).
 
 The 1st highest number of forms (1) was observed with the lemma “eğer”: <em>EĞER</em>.
 

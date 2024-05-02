@@ -22,5 +22,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_penn-pos-ADV.htm
 
 * `Cmp` (1037; 67% of non-empty `Degree`): <em>daha, dağa</em>
 * `Sup` (511; 33% of non-empty `Degree`): <em>en</em>
-* `EMPTY` (8418): <em>olarak, çok, ancak, ayrıca, sonra, sadece, tarafından, yeniden, önce, artarak</em>
+* `EMPTY` (8421): <em>olarak, çok, ancak, ayrıca, sonra, tarafından, sadece, yeniden, önce, artarak</em>
 

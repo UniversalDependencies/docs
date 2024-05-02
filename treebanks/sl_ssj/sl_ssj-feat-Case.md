@@ -196,13 +196,13 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sl_ssj-dep-amod.html">amod</a></tt>]--> ADJ</tt> (21257; 99%),
-<tt>NOUN --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (18962; 99%),
+<tt>NOUN --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (18929; 99%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-det.html">det</a></tt>]--> DET</tt> (4983; 88%),
 <tt>NOUN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4345; 96%),
 <tt>PROPN --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (1968; 99%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1661; 99%),
 <tt>PROPN --[<tt><a href="sl_ssj-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1561; 100%),
 <tt>ADJ --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1256; 96%),
-<tt>DET --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (1165; 99%),
+<tt>DET --[<tt><a href="sl_ssj-dep-case.html">case</a></tt>]--> ADP</tt> (1145; 99%),
 <tt>PROPN --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> PROPN</tt> (833; 99%).
 

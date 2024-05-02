@@ -37,4 +37,4 @@ Gender is a lexical feature of [nouns](NOUN) and [proper nouns](PROPN), and an i
 ### Conversion from JOS
 
 All tokens with feature Gender=masculine are converted to `Gender=Masc`, all tokens with feature Gender=feminine are converted to `Gender=Fem` and all tokens with feature Gender=neuter are converted to `Gender=Neut`.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:37 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:46 CET -->

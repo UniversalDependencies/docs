@@ -35,7 +35,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 11	Antonio	Antonio	PROPN	NNP	Gender=Masc|Number=Sing	13	nsubj	_	_
 12	Gaudí	Gaudí	PROPN	NNP	Gender=Masc|Number=Sing	11	flat:name	_	_
 13	promoveu	promover	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-14	uma	um	DET	DT	Gender=Fem|Number=Sing	15	det	_	_
+14	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	reforma	reforma	NOUN	NN	Gender=Fem|Number=Sing	13	obj	_	_
 16	que	_	PRON	WP	_	17	nsubj	_	_
 17	durou	durar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	acl:relcl	_	_
@@ -54,7 +54,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 11 12 obl:tmod	color:blue
 1	Ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 2	obteve	obter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	um	um	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Mestrado	mestrado	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	(	(	PUNCT	(	_	7	punct	_	SpaceAfter=No
 6	em	em	ADP	IN	_	7	case	_	_

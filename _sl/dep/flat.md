@@ -31,12 +31,17 @@ flat:foreign(You,Your)
 flat:foreign(You,Life)
 ~~~
 
-Foreign language expressions made up of **proper names** (personal names, names of places, cities, etc.) are also analyzed as flat structures where the first element is the head of a relation ending in every subsequent element,  except that the `nmod` relation is used instead.
+Finally, the 'flat' relation is also used for some verbatim transcriptions in speech, such as spelled-out numbers, acronyms, or URL addresses, which would typically be written with different symbols in writing.
+
 ~~~ sdparse
-Angry Birds je franšiza videoiger . \n Angry Birds is a-franchise of-video-games .
-nsubj(franšiza,Angry-1)
-nmod(Angry-1,Birds-2)
-nsubj(a-franchise,Angry-8)
-nmod(Angry-8,Birds-9)
+dva cela pet odstotka \n two point five percent
+flat(dva,cela)
+flat(dva,pet)
+nummod(odstotka,dva)
+flat(two,point)
+flat(two,five)
+nummod(percent,two)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:16 CEST -->
+
+
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:56 CET -->

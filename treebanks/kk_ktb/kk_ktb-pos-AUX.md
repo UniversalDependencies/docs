@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>болып</em> (<tt><a href="kk_ktb-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.200000 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `AUX` is 12.200000 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (30) was observed with the lemma “бол”: <em>бола, болады, болайын, болатын, болатыны, болды, болдым, болмаса, болмасымды, болмақ, болса, болсам, болсаң, болсын, болу, болушы, болуы, болуға, болып, болыпты, болғалы, болған, болған емес, болған жоқ, болғанда, болғандықтан, болғаныма, болғанымды, болғанын, боп</em>.
 

@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 3540 <tt><a href="pt_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2730; 77%), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1879; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3220; 91%), <tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3040; 86%), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1879; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -41,14 +41,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="pt_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pt_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pt_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>o</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>a</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>os</em></td></tr>
+  <tr><td><tt><tt><a href="pt_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>os</em></td></tr>
+  <tr><td><tt><tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
+  <tr><td><tt><tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td><em>as, os</em></td></tr>
   <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td><em>as, os</em></td></tr>
-  <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
+  <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -131,12 +129,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 * `Plur` (2; 18% of non-empty `Number`): <em>Aqueles, nestes</em>
 * `Sing` (9; 82% of non-empty `Number`): <em>a, nessa, nesse, consigo, daquela</em>
-* `EMPTY` (3808): <em>de, em, a, para, por, com, como, que, durante, entre</em>
+* `EMPTY` (3806): <em>de, em, a, para, por, com, como, que, durante, entre</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="pt_pud-dep-det.html">det</a></tt>]--> DET</tt> (3044; 100%),
+<tt>NOUN --[<tt><a href="pt_pud-dep-det.html">det</a></tt>]--> DET</tt> (3040; 100%),
 <tt>NOUN --[<tt><a href="pt_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1277; 100%),
 <tt>NOUN --[<tt><a href="pt_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (728; 60%),
 <tt>VERB --[<tt><a href="pt_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (431; 83%),

@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (1; 100% of non-empty `Degree`): <em>vuõddjez</em>
-* `EMPTY` (400): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
+* `EMPTY` (401): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
 

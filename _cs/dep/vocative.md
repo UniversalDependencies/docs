@@ -16,4 +16,4 @@ vocative(a-fool, Sir)
 cop(blázen, jste)
 cop(a-fool, you-are)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:28 CET -->

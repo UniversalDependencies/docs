@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (0%), 76 `AUX` types (1%) and 338 `AUX` tokens (1%).
+There are 1 `AUX` lemmas (0%), 126 `AUX` types (1%) and 338 `AUX` tokens (1%).
 Out of 15 observed tags, the rank of `AUX` is: 14 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>היה</em>
 
-The 10 most frequent `AUX` types:  <em>היה, יִהְיֶ֣ה, הָיָ֥ה, הָיָ֖ה, הָיָ֔ה, יְהִ֥י, הָי֥וּ, הָיְתָ֥ה, הָיוּ֙, יִהְיֶ֖ה</em>
+The 10 most frequent `AUX` types:  <em>יְהִי, יְהִ֗י, יְהִ֥י, יְהִ֣י, יְהִי֙, הָיָ֥ה, יְהִ֤י, יְהִ֕י, יְהִ֖י, הָיָ֤ה</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,9 +21,9 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 76.000000 (the average of all parts of speech is 3.177604).
+The form / lemma ratio of `AUX` is 126.000000 (the average of all parts of speech is 5.381405).
 
-The 1st highest number of forms (76) was observed with the lemma “היה”: <em>אֶֽהְיֶ֔ה, הֱוֵ֤ה, הֱיֹ֣ות, הֱיֹ֥ות, הֲיִ֖י, הָ֑יוּ, הָ֣יָה, הָ֥יָה, הָ֨יָה, הָֽיְתָ֔ה, הָֽיְתָ֖ה, הָֽיְתָה, הָי֔וּ, הָי֖וּ, הָי֗וּ, הָי֛וּ, הָי֣וּ, הָי֤וּ, הָי֥וּ, הָיְתָ֖ה, הָיְתָ֣ה, הָיְתָ֥ה, הָיְתָה, הָיִ֖ינוּ, הָיִ֖ית, הָיִ֖יתִי, הָיִ֖יתָ, הָיִ֤יתִי, הָיִ֧יתִי, הָיָ֑ה, הָיָ֔ה, הָיָ֖ה, הָיָ֣ה, הָיָ֤ה, הָיָ֥ה, הָיָ֧ה, הָיָ֨ה, הָיָה֙, הָיֹ֧ו, הָיוּ֙, היה, יְהִ֣י, יְהִ֤י, יְהִ֥י, יְהִי, יִּהְי֖וּ, יִֽהְיֶ֔ה, יִֽהְיֶ֖ה, יִֽהְיֶ֛ה, יִֽהְיֶ֣ה, יִֽהְיֶ֥ה, יִֽהְיֶ֨ה, יִֽהְיֽוּ, יִֽהְיוּ, יִהְי֑וּ, יִהְי֕וּ, יִהְיֶ֖ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יִהְיֶ֨ה, יִהְיֶֽה, יִהְיֶה, יִהְיֶה֙, יִהְיֽוּ, נִֽהְיֶ֥ה, נִהְיֶ֣ה, תְּהִ֨י, תְּהִי, תְהִ֤י, תִּֽהְיֶ֥ה, תִּֽהְיֶ֨ין֙, תִּֽהְיֶה, תִּהְי֣וּ, תִּהְי֥וּ, תִּהְיֶ֖יןָ, תִּהְיֶ֣ה</em>.
+The 1st highest number of forms (126) was observed with the lemma “היה”: <em>אֶֽהְיֶ֔ה, אֶֽהְיֶ֖ה, אֶֽהְיֶ֥ה, הְיִיתֶם֙, הְיֵ֖ה, הְיֵ֥ה, הְיֹ֖ות, הְיֹ֣ות, הְיֹ֤ות, הְיֹ֥ות, הְיֹותָ֣, הֱוֵ֤ה, הֱיֹ֣ות, הֱיֹ֥ות, הֲיִ֖י, הָ֑יוּ, הָ֣יָה, הָ֤יָה, הָ֥יָה, הָ֨יָה, הָֽיְתָ֔ה, הָֽיְתָ֖ה, הָֽיְתָ֣ה, הָֽיְתָה, הָֽיְתָה֙, הָי֔וּ, הָי֖וּ, הָי֗וּ, הָי֛וּ, הָי֣וּ, הָי֤וּ, הָי֥וּ, הָיְתָ֖ה, הָיְתָ֣ה, הָיְתָ֥ה, הָיְתָ֧ה, הָיְתָה, הָיִ֕יתָ, הָיִ֖ינוּ, הָיִ֖ית, הָיִ֖יתִי, הָיִ֖יתָ, הָיִ֜יתִי, הָיִ֤יתִי, הָיִ֤יתָ, הָיִ֥ינוּ, הָיִ֥יתִי, הָיִ֥יתָ, הָיִ֧יתִי, הָיָ֑ה, הָיָ֔ה, הָיָ֕ה, הָיָ֖ה, הָיָ֗ה, הָיָ֛ה, הָיָ֞ה, הָיָ֣ה, הָיָ֤ה, הָיָ֥ה, הָיָ֧ה, הָיָ֨ה, הָיָה֙, הָיֹ֧ו, הָיוּ֙, יְהִ֕י, יְהִ֖י, יְהִ֗י, יְהִ֛י, יְהִ֞י, יְהִ֡י, יְהִ֣י, יְהִ֤י, יְהִ֥י, יְהִ֧י, יְהִי, יְהִי֙, יְהִי֩, יִּֽהְי֖וּ, יִּֽהְי֞וּ, יִּֽהְי֣וּ, יִּֽהְי֤וּ, יִּֽהְי֥וּ, יִּֽהְיוּ, יִּֽהְיוּ֙, יִּהְי֖וּ, יִּהְי֣וּ, יִּהְי֤וּ, יִּהְי֥וּ, יִּהְיוּ֙, יִֽהְיֶ֔ה, יִֽהְיֶ֖ה, יִֽהְיֶ֛ה, יִֽהְיֶ֣ה, יִֽהְיֶ֥ה, יִֽהְיֶ֨ה, יִֽהְיֽוּ, יִֽהְיוּ, יִהְי֑וּ, יִהְי֕וּ, יִהְיֶ֖ה, יִהְיֶ֣ה, יִהְיֶ֥ה, יִהְיֶ֨ה, יִהְיֶֽה, יִהְיֶה, יִהְיֶה֙, יִהְיֽוּ, יהִ֣י, יהִ֤י, יהִ֥י, נִֽהְיֶ֞ה, נִֽהְיֶ֥ה, נִהְיֶ֣ה, תְּהִ֖י, תְּהִ֥י, תְּהִ֨י, תְּהִי, תְהִ֤י, תְהִ֨י, תִּֽהְיֶ֥ה, תִּֽהְיֶ֨ין֙, תִּֽהְיֶה, תִּהְי֣וּ, תִּהְי֥וּ, תִּהְיֶ֖יןָ, תִּהְיֶ֣ה</em>.
 
 `AUX` occurs with 8 features: <tt><a href="hbo_ptnk-feat-HebBinyan.html">HebBinyan</a></tt> (338; 100% instances), <tt><a href="hbo_ptnk-feat-VerbForm.html">VerbForm</a></tt> (338; 100% instances), <tt><a href="hbo_ptnk-feat-Mood.html">Mood</a></tt> (327; 97% instances), <tt><a href="hbo_ptnk-feat-Number.html">Number</a></tt> (327; 97% instances), <tt><a href="hbo_ptnk-feat-Person.html">Person</a></tt> (327; 97% instances), <tt><a href="hbo_ptnk-feat-Gender.html">Gender</a></tt> (293; 87% instances), <tt><a href="hbo_ptnk-feat-Aspect.html">Aspect</a></tt> (165; 49% instances), <tt><a href="hbo_ptnk-feat-Tense.html">Tense</a></tt> (158; 47% instances)
 
@@ -31,7 +31,7 @@ The 1st highest number of forms (76) was observed with the lemma “היה”: <
 
 `AUX` occurs with 23 feature combinations.
 The most frequent feature combination is `Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin` (127 tokens).
-Examples: <em>היה</em>
+Examples: <em>יְהִי, יְהִ֗י, יְהִי֙, יְהִ֣י, יְהִ֕י, יְהִ֤י, יְהִ֥י, יְהִ֖י, יְהִ֞י, יְהִי֩</em>
 
 
 ## Relations

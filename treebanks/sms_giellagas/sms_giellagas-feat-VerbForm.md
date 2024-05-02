@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Vnoun` are language-specific.
 It occurs with 4 different values: `Ger`, `Inf`, `Part`, `Vnoun`.
 
-84 tokens (3%) have a non-empty value of `VerbForm`.
+85 tokens (3%) have a non-empty value of `VerbForm`.
 52 types (7%) occur at least once with a non-empty value of `VerbForm`.
 49 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (80; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (81; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-80 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+81 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (79; 99%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (81; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (81; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (81; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (80; 99%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 1% of non-empty `VerbForm`): <em>vaʹlljeeǩâni</em>
-* `Inf` (46; 57% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted</em>
+* `Inf` (47; 58% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, mainsted, njuiʹǩǩeed, ǩiččâd, jälsted</em>
 * `Part` (32; 40% of non-empty `VerbForm`): <em>teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, čõnnum, šõddâm, hoʹhssjam, jeällam</em>
 * `Vnoun` (1; 1% of non-empty `VerbForm`): <em>puälddmõõžž</em>
-* `EMPTY` (560): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, vuõʹlji</em>
+* `EMPTY` (561): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, vuõʹlji</em>
 
 <table>
   <tr><th>Paradigm <i>väʹldded</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Inf` (2; 50% of non-empty `VerbForm`): <em>leeʹd</em>
 * `Part` (2; 50% of non-empty `VerbForm`): <em>leämmaž, õlggâm</em>
-* `EMPTY` (155): <em>lij, ij, leäi, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</em>
+* `EMPTY` (156): <em>lij, ij, leäi, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>

@@ -66,11 +66,11 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 9 parataxis	color:blue
 1	Quince	quince	NUM	_	Foreign=Yes	2	nummod	2:nummod	NormalizedForm=quince|NormalizedLemma=quince
-2	días	_	NOUN	_	Foreign=Yes|Number=Plur	0	root	0:root	NormalizedForm=días|NormalizedLemma=_
+2	días	día	NOUN	_	Foreign=Yes|Number=Plur	0	root	0:root	NormalizedForm=días|NormalizedLemma=_
 3	cada	cada	DET	_	Foreign=Yes	4	det	4:det	NormalizedForm=cada|NormalizedLemma=cada
 4	mardomo	mardomo	NOUN	_	Foreign=Yes|Number=Sing	2	nmod	2:nmod	SpaceAfter=No|NormalizedForm=mardomo|NormalizedLemma=mardomo
 5	,	,	PUNCT	_	_	9	punct	9:punct	NormalizedForm=,|NormalizedLemma=,
-6	ohkóh	_	ADV	_	_	9	advmod	9:advmod	NormalizedForm=ohkóh|NormalizedLemma=_
+6	ohkóh	ohkon	ADV	_	_	9	advmod	9:advmod	NormalizedForm=ohkóh|NormalizedLemma=_
 7	mostla	mostla	ADV	_	_	9	advmod	9:advmod	NormalizedForm=mostla|NormalizedLemma=mostla
 8	mostla	mostla	ADV	_	_	7	compound	7:compound	NormalizedForm=mostla|NormalizedLemma=mostla
 9	kateh	katki	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	NormalizedForm=kateh|NormalizedLemma=katki

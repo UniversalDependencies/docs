@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-det.html">det</a></tt>.
 
-1738 nodes (1%) are attached to their parents as `det:poss`.
+1723 nodes (1%) are attached to their parents as `det:poss`.
 
-1730 instances of `det:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4361334867664.
+1715 instances of `det:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43528728961114.
 
-The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1706; 98% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1692; 98% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

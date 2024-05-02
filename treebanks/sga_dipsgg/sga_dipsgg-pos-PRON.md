@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `PRON`
 
-There are 11 `PRON` lemmas (5%), 14 `PRON` types (5%) and 22 `PRON` tokens (6%).
+There are 11 `PRON` lemmas (5%), 14 `PRON` types (5%) and 22 `PRON` tokens (5%).
 Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>a, m, mo, so, do, mé, sa, som, sí, t</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sga_dipsgg-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.272727 (the average of all parts of speech is 1.264574).
+The form / lemma ratio of `PRON` is 1.272727 (the average of all parts of speech is 1.261062).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, ᚐ</em>.
 

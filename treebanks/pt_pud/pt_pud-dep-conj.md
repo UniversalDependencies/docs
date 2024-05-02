@@ -44,7 +44,7 @@ The following 34 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2 8 conj	color:blue
 1	Ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 2	tem	ter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	um	um	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	jogo	jogo	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	_
 5	duro	duro	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 6	mas	_	CCONJ	CC	_	8	cc	_	_

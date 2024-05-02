@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Exc` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Exc`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`.
 
-6412 tokens (22%) have a non-empty value of `PronType`.
-162 types (4%) occur at least once with a non-empty value of `PronType`.
+6415 tokens (22%) have a non-empty value of `PronType`.
+163 types (4%) occur at least once with a non-empty value of `PronType`.
 68 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4784; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1611; 6% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (17; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4780; 17% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1618; 6% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (17; 0% instances).
 
 ### `DET`
 
-4784 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+4780 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3366; 70%), <tt><a href="fr_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3343; 70%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3362; 70%), <tt><a href="fr_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3340; 70%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (3966; 83% of non-empty `PronType`): <em>le, les, la, l', une, un, des, d', de, du</em>
-* `Dem` (302; 6% of non-empty `PronType`): <em>ce, cette, ces, cet, de, d', Des, telles</em>
+* `Art` (3963; 83% of non-empty `PronType`): <em>le, les, la, l', une, un, des, d', de, du</em>
+* `Dem` (301; 6% of non-empty `PronType`): <em>ce, cette, ces, cet, de, d', Des, telles</em>
 * `Exc` (1; 0% of non-empty `PronType`): <em>quel</em>
 * `Ind` (234; 5% of non-empty `PronType`): <em>toute, tous, tout, certains, aucune, toutes, chaque, quelques, aucun, autres</em>
 * `Int` (3; 0% of non-empty `PronType`): <em>quel, quelle</em>
@@ -44,17 +44,17 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-1611 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1618 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1164; 72%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1171; 72%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (212; 13% of non-empty `PronType`): <em>c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</em>
+* `Dem` (213; 13% of non-empty `PronType`): <em>c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</em>
 * `Ind` (69; 4% of non-empty `PronType`): <em>chacun, tous, l'on, Nul, autres, beaucoup, un, Quiconque, aucune, autre</em>
 * `Int` (5; 0% of non-empty `PronType`): <em>quelle, Quel, Quels, quelles</em>
-* `Prs` (1004; 62% of non-empty `PronType`): <em>nous, il, je, vous, s', y, se, on, en, ils</em>
-* `Rel` (321; 20% of non-empty `PronType`): <em>qui, que, qu', dont, où, laquelle, quoi, lequel, auxquelles, lesquels</em>
+* `Prs` (1009; 62% of non-empty `PronType`): <em>nous, il, je, vous, s', y, se, on, en, ils</em>
+* `Rel` (322; 20% of non-empty `PronType`): <em>qui, que, qu', dont, où, laquelle, quoi, lequel, auxquelles, lesquels</em>
 
 <table>
   <tr><th>Paradigm <i>ce</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>

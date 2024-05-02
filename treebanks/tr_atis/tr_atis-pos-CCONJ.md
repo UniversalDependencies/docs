@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ile</em> (<tt><a href="tr_atis-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.748764).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.744205).
 
 The 1st highest number of forms (1) was observed with the lemma “ama”: <em>ama</em>.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “da”: <em>da
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="tr_atis-dep-cc.html">cc</a></tt> (878; 97% instances), <tt><a href="tr_atis-dep-advmod.html">advmod</a></tt> (14; 2% instances), <tt><a href="tr_atis-dep-case.html">case</a></tt> (11; 1% instances), <tt><a href="tr_atis-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="tr_atis-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-amod.html">amod</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="tr_atis-dep-cc.html">cc</a></tt> (884; 97% instances), <tt><a href="tr_atis-dep-case.html">case</a></tt> (11; 1% instances), <tt><a href="tr_atis-dep-advmod.html">advmod</a></tt> (8; 1% instances), <tt><a href="tr_atis-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="tr_atis-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="tr_atis-dep-amod.html">amod</a></tt> (1; 0% instances)
 
 Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (465; 51% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (212; 23% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (106; 12% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (69; 8% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt> (44; 5% instances), <tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="tr_atis-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

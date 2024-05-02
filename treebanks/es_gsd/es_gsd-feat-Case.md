@@ -13,23 +13,23 @@ Some words have combined values of the feature; 2 combinations have been observe
 9963 tokens (2%) have a non-empty value of `Case`.
 54 types (0%) occur at least once with a non-empty value of `Case`.
 8 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9960; 2% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9963; 2% instances).
 
 ### `PRON`
 
-9960 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Case`.
+9963 <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9960; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (8971; 90%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8232; 83%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7096; 71%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5392; 54%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5294; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="es_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9963; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (8974; 90%), <tt><a href="es_gsd-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (8232; 83%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7099; 71%), <tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (5395; 54%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5297; 53%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2216; 22% of non-empty `Case`): <em>lo, la, los, las, sí, mí, ti, Me, em</em>
-* `Acc,Dat` (5521; 55% of non-empty `Case`): <em>se, me, nos, te, os</em>
+* `Acc` (2222; 22% of non-empty `Case`): <em>lo, la, los, las, sí, mí, ti, se, Me, em</em>
+* `Acc,Dat` (5518; 55% of non-empty `Case`): <em>se, me, nos, te, os</em>
 * `Acc,Nom` (697; 7% of non-empty `Case`): <em>él, ellos, ella, ello, ellas, nosotros, usted, vosotros, ustedes</em>
 * `Com` (8; 0% of non-empty `Case`): <em>consigo, conmigo, contigo</em>
 * `Dat` (1419; 14% of non-empty `Case`): <em>le, me, les, nos, te, os, la, lo</em>
 * `Nom` (99; 1% of non-empty `Case`): <em>yo, tú, I, You, él</em>
-* `EMPTY` (4063): <em>que, uno, cual, una, quien, esto, todo, tanto, algo, nada</em>
+* `EMPTY` (4070): <em>que, uno, cual, una, quien, esto, todo, tanto, algo, nada</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Acc,Dat</tt></th><th><tt>Acc,Nom</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Com</tt></th></tr>
@@ -41,17 +41,8 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>le</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td></td><td><em>lo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>les</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>se</em></td><td></td><td></td><td><em>sí</em></td><td></td><td><em>consigo</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td><em>se</em></td><td></td><td></td><td><em>sí, se</em></td><td></td><td><em>consigo</em></td></tr>
 </table>
-
-### `INTJ`
-
-3 <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> tokens (8% of all `INTJ` tokens) have a non-empty value of `Case`.
-
-`INTJ` tokens may have the following values of `Case`:
-
-* `Acc` (3; 100% of non-empty `Case`): <em>sí</em>
-* `EMPTY` (36): <em>sí, Salve</em>
 
 ## Relations with Agreement in `Case`
 

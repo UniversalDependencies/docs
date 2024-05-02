@@ -69,7 +69,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	Colonies	colonie	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
 9	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	à	à	ADP	_	_	5	advmod	_	ExtPos=ADV|Idiom=Yes
+10	à	à	ADP	_	ExtPos=ADV	5	advmod	_	Idiom=Yes
 11	partir	partir	VERB	_	VerbForm=Inf	10	fixed	_	InIdiom=Yes|Subject=Generic
 12	de	de	ADP	_	_	13	case	_	_
 13	1950	1950	NUM	_	NumType=Card	10	obl:arg	_	SpaceAfter=No

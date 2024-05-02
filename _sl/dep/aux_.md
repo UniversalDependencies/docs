@@ -33,7 +33,7 @@ aux(run,have)
 Zaradi njegovega polhastega spanja je/AUX bila/AUX večkrat jezna . \n Because-of his deep sleep she-aux-PAST/AUX was/AUX often angry . 
 aux(jezna,je)
 cop(jezna,bila)
-aux(angry,ahe-aux-PAST)
+aux(angry,she-aux-PAST)
 cop(angry,was)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:00 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:28 CET -->

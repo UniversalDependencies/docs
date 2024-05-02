@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
 5 tokens (1%) have a non-empty value of `Typo`.
-4 types (2%) occur at least once with a non-empty value of `Typo`.
+4 types (1%) occur at least once with a non-empty value of `Typo`.
 3 lemmas (1%) occur at least once with a non-empty value of `Typo`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (1; 0% instances).
 

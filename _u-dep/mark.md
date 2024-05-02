@@ -30,4 +30,4 @@ mark(bringen, zu-10)
 mark(bring, so-that)
 mark(bring, to-22)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:18 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:01 CET -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-212 nodes (23%) are attached to their parents as `punct`.
+216 nodes (23%) are attached to their parents as `punct`.
 
-156 instances of `punct` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.13207547169811.
+160 instances of `punct` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.10185185185185.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (165; 78% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (32; 15% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="apu_ufpa-pos-INTJ.html">INTJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (168; 78% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (33; 15% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="apu_ufpa-pos-INTJ.html">INTJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

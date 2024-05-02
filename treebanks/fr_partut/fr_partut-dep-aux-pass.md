@@ -54,10 +54,10 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 12	quantité	quantité	NOUN	S	Gender=Fem|Number=Sing	9	obl	_	_
 13	excédant	excéder	VERB	V	Tense=Pres|VerbForm=Part	12	acl	_	_
 14	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	report	report	ADJ	A	Number=Sing	13	obj	_	_
+15	report	report	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
 16	normal	normal	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	_
 17	de	de	ADP	E	_	18	case	_	_
-18	stocks	stock	ADJ	A	Number=Plur	15	obl	_	SpaceAfter=No
+18	stocks	stock	NOUN	S	Gender=Masc|Number=Plur	15	obl	_	SpaceAfter=No
 19	.	.	PUNCT	FS	_	9	punct	_	_
 
 ~~~

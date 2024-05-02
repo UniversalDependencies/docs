@@ -27,8 +27,8 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	oro	oro	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	LId=oro1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 4	,	,	PUNCT	u--------	_	3	punct	_	LId=comma1
 5	curre	curro	VERB	v2spma---	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=curro1|TraditionalMood=Imperativus|TraditionalTense=Praesens
-6	que	que	CCONJ	c--------	_	8	cc	_	LId=que1
-7	fugam	fuga	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	LId=fuga1
+6	fugam	fuga	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
+7	que	que	CCONJ	c--------	_	6	cc	_	LId=que1
 8	inhibe	inhibeo	VERB	v2spma---	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	LId=inhibeo1|SpaceAfter=No|TraditionalMood=Imperativus|TraditionalTense=Praesens
 9	;	;	PUNCT	u--------	_	5	punct	_	LId=punc1
 

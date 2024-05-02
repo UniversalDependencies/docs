@@ -261,7 +261,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (673; 98%),
 <tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (663; 58%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (514; 94%),
-<tt>PROPN --[<tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (492; 93%),
+<tt>PROPN --[<tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (496; 93%),
 <tt>NOUN --[<tt><a href="la_proiel-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (491; 56%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (476; 95%).
 

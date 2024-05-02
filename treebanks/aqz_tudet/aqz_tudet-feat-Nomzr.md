@@ -9,7 +9,7 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Circ`, `Obj`.
 
-21 tokens (2%) have a non-empty value of `Nomzr`.
+21 tokens (1%) have a non-empty value of `Nomzr`.
 16 types (3%) occur at least once with a non-empty value of `Nomzr`.
 12 lemmas (4%) occur at least once with a non-empty value of `Nomzr`.
 The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (18; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances).

@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_English-GUMReddit: Features: `NumForm`
 
 This feature is language-specific.
-It occurs with 2 different values: `Digit`, `Word`.
+It occurs with 3 different values: `Combi`, `Digit`, `Word`.
 
-113 tokens (1%) have a non-empty value of `NumForm`.
+135 tokens (1%) have a non-empty value of `NumForm`.
 1 types (0) occur at least once with a non-empty value of `NumForm`.
 1 lemmas (0) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (107; 1% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (107; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -22,18 +22,29 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (51; 48% of non-empty `NumForm`): <em>_</em>
-* `Word` (56; 52% of non-empty `NumForm`): <em>_</em>
+* `Digit` (55; 51% of non-empty `NumForm`): <em>_</em>
+* `Word` (52; 49% of non-empty `NumForm`): <em>_</em>
+
+### `ADJ`
+
+16 <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `NumForm`.
+
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16; 100%).
+
+`ADJ` tokens may have the following values of `NumForm`:
+
+* `Combi` (2; 13% of non-empty `NumForm`): <em>_</em>
+* `Word` (14; 88% of non-empty `NumForm`): <em>_</em>
 
 ### `ADV`
 
-4 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NumForm`.
+10 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADV` and `NumForm` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `ADV` and `NumForm` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6; 60%).
 
 `ADV` tokens may have the following values of `NumForm`:
 
-* `Word` (4; 100% of non-empty `NumForm`): <em>_</em>
+* `Word` (10; 100% of non-empty `NumForm`): <em>_</em>
 
 ### `NOUN`
 

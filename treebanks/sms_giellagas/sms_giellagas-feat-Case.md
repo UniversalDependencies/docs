@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 9 different values: `Abe`, `Acc`, `Com`, `Ess`, `Gen`, `Ill`, `Loc`, `Nom`, `Par`.
 
-764 tokens (26%) have a non-empty value of `Case`.
-333 types (45%) occur at least once with a non-empty value of `Case`.
+766 tokens (26%) have a non-empty value of `Case`.
+335 types (45%) occur at least once with a non-empty value of `Case`.
 198 lemmas (39%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (395; 14% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (292; 10% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (5; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (396; 14% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (293; 10% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="sms_giellagas-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
-395 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+396 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (353; 89%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (353; 89%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (334; 85%), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (290; 73%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (354; 89%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (354; 89%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (335; 85%), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (291; 73%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abe` (1; 0% of non-empty `Case`): <em>čääʹʒʒtää</em>
-* `Acc` (103; 26% of non-empty `Case`): <em>tueʹllj, niõđ, muõrid, čääʹʒʒ, kåʹddtueʹllj, kooʹddid, kåʹllkåʹđđnjõõzzid, peäʹl, vuâra, ääušas</em>
+* `Acc` (104; 26% of non-empty `Case`): <em>tueʹllj, niõđ, muõrid, čääʹʒʒ, kåʹddtueʹllj, kooʹddid, kåʹllkåʹđđnjõõzzid, peäʹl, vuâra, ääušas</em>
 * `Com` (9; 2% of non-empty `Case`): <em>mannuin, peeiʹvin, heäppšines, jieʹlličaaʹʒʒin, kaarbivuiʹm, paaʹrnines, peeʹlljin</em>
 * `Ess` (18; 5% of non-empty `Case`): <em>kämmǥižžen, triâŋggân, kaavân, kueʹllen, näuʹdden, heäppšen, låʹdden, ooumžen, säldten</em>
 * `Gen` (39; 10% of non-empty `Case`): <em>ääkka, heäppaž, suõv, tueʹllj, kuäʹđ, kämmǥa, ääiʹj, Peter, Siõm, caar</em>
 * `Ill` (28; 7% of non-empty `Case`): <em>pärnna, kuätta, põʹrtte, äitta, Pella, aaiʹtid, ekka, heävašstallju, kuättses, kuäʹttnjälmma</em>
 * `Loc` (20; 5% of non-empty `Case`): <em>mieʹccest, oummust, ääiʹtest, luândstes, lõõnjâst, põõrtâst, tuõddrest, vueiʹvvgåårdest, škooulâst, ǩeeʹrjteeʹjest</em>
-* `Nom` (176; 45% of non-empty `Case`): <em>ooumaž, heävaš, nijdd, stäʹlmmstääll, eččad, niõđâž, Peʹll, källsaž, tieʹrmes, triâŋgg</em>
+* `Nom` (176; 44% of non-empty `Case`): <em>ooumaž, heävaš, nijdd, stäʹlmmstääll, eččad, niõđâž, Peʹll, källsaž, tieʹrmes, triâŋgg</em>
 * `Par` (1; 0% of non-empty `Case`): <em>eeʹǩǩed</em>
 * `EMPTY` (6): <em>vuâra, njikkõnj, vueʹppes, årra</em>
 
@@ -42,9 +42,9 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-292 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Case`.
+293 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (256; 88%), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (154; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (257; 88%), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (154; 53%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (28; 10% of non-empty `Case`): <em>tõn, suu, dõõn, tuu, Mij, mõõn, nuuʹbb, tän</em>
 * `Ill` (8; 3% of non-empty `Case`): <em>miʹjjid, muʹnne, tõid, ǩeäzz</em>
 * `Loc` (13; 4% of non-empty `Case`): <em>seeʹst, suʹst, dââʹst, muʹst, suännast, tõʹst</em>
-* `Nom` (195; 67% of non-empty `Case`): <em>son, tõt, ton, mon, mii, puk, tõt-i, dõõt, kååʹtt, nåkkam</em>
+* `Nom` (196; 67% of non-empty `Case`): <em>son, tõt, ton, mon, mii, puk, tõt-i, dõõt, kååʹtt, nåkkam</em>
 * `EMPTY` (12): <em>mâiʹd, måttam, jiânnai-a, mõõn</em>
 
 <table>
@@ -144,7 +144,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Acc` (1; 10% of non-empty `Case`): <em>puälddmõõžž</em>
 * `Ess` (7; 70% of non-empty `Case`): <em>vueʹtǩǩmen, håiddmen, jieʹllmen, jååʹttmen, viikkmen</em>
 * `Nom` (1; 10% of non-empty `Case`): <em>älgg</em>
-* `EMPTY` (630): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, mõõnnâd</em>
+* `EMPTY` (632): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, mõõnnâd</em>
 
 ### `DET`
 

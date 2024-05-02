@@ -7,7 +7,7 @@ udver: '2'
 
 We use the `compound` relation for
 
-- the few noun noun compounds of Modern Greek:
+- The NOUN-NOUN compounds of Modern Greek (they may be spelled with or without an '_'):
 
 ~~~ sdparse
 κράτος μέλος
@@ -25,7 +25,24 @@ punct(απόφαση, -)
 compound(λέξης, κλειδί)
 ~~~
 
-- for combinations of numbers:
+- For combinations with the forms *γερο* and *παπα* as a first member and a PROPN or a NOUN as a second one; these combinations may be spelled with or without an '-'. The overall construct is "visible" with the PoS of the head of the compound  and this is the reason why the [flat]() dependency was not preferred because the construct would be visible with the PoS of the first member. Another reason is that these combinations may be spelled as one word, e.g., *γεροναύτης* 'old sailor', in which case they are assigned the PoS of the head of the compound.
+
+~~~ sdparse
+ο γερο-Αρτέμης
+compound(Αρτέμης, -)
+compound(Αρτέμης, γέρο)
+det(Αρτέμης, ο)
+~~~
+
+~~~ sdparse
+ο γερο Μαθιός
+compound(Μαθιός, γέρο)
+det(Μαθιός, ο)
+~~~
+
+
+
+- For combinations of numbers:
 
 ~~~ sdparse
 Είκοσι χιλιάδες λεύγες
@@ -43,4 +60,4 @@ The two other compounding relations are:
 
 - [fixed]() for fixed grammaticized expressions with function words
 - [flat]() for proper nouns constituted of multiple nominal elements
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:05 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:36 CET -->

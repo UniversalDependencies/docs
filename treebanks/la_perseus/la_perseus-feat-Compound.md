@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_perseus-pos-PRON
 
 4 <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Compound`.
 
-The most frequent other feature values with which `PRON` and `Compound` co-occurred: <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (4; 100%).
+The most frequent other feature values with which `PRON` and `Compound` co-occurred: <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (4; 100%).
 
 `PRON` tokens may have the following values of `Compound`:
 

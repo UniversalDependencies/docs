@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Prep`.
 
-20672 tokens (14%) have a non-empty value of `AdpType`.
+20671 tokens (14%) have a non-empty value of `AdpType`.
 69 types (0%) occur at least once with a non-empty value of `AdpType`.
 42 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (20076; 14% instances), <tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (596; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (20075; 14% instances), <tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (596; 0% instances).
 
 ### `ADP`
 
-20076 <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+20075 <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Acc</tt> (19775; 99%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Acc</tt> (19774; 99%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (20076; 100% of non-empty `AdpType`): <em>de, în, la, cu, din, pentru, prin, pe, dintre, după</em>
+* `Prep` (20075; 100% of non-empty `AdpType`): <em>de, în, la, cu, din, pentru, prin, pe, dintre, după</em>
 
 `AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (40) occur only with one value of `AdpType`.
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (539; 100%),
+<tt>ADP --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (533; 100%),
 <tt>ADP --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADP</tt> (13; 100%),
 <tt>ADP --[<tt><a href="ro_simonero-dep-mark.html">mark</a></tt>]--> ADP</tt> (2; 100%),
 <tt>ADP --[<tt><a href="ro_simonero-dep-advmod.html">advmod</a></tt>]--> ADP</tt> (1; 100%),

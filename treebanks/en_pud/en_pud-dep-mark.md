@@ -69,7 +69,7 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9 1 mark	color:blue
 1	Because	because	SCONJ	IN	_	9	mark	9:mark	_
 2	series	series	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
-3	1	1	NUM	CD	NumType=Card	2	nummod	2:nummod	_
+3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	6:advmod	_
 6	longer	longer	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
@@ -81,7 +81,7 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 12	users	user	NOUN	NNS	Number=Plur	14	nsubj	14:nsubj	_
 13	can	can	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
 14	save	save	VERB	VB	VerbForm=Inf	0	root	0:root	_
-15	100	100	NUM	CD	NumType=Card	16	nummod	16:nummod	_
+15	100	100	NUM	CD	NumForm=Digit|NumType=Card	16	nummod	16:nummod	_
 16	euros	euro	NOUN	NNS	Number=Plur	14	obj	14:obj	SpaceAfter=No
 17	.	.	PUNCT	.	_	14	punct	14:punct	_
 

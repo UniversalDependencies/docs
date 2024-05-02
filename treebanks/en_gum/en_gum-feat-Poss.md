@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (2614; 100% of non-empty `Poss`): <em>his, my, your, their, our, its, her, whose, theirs, yours</em>
-* `EMPTY` (12725): <em>i, it, you, that, we, he, they, this, what, she</em>
+* `EMPTY` (12737): <em>i, it, you, that, we, he, they, this, what, she</em>
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Poss`.
 

@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nsubj	_	_
 6	deu	dar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-7	um	um	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+7	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	concerto	concerto	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
 9	lá	lá	ADV	RB	_	6	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	14	punct	_	_

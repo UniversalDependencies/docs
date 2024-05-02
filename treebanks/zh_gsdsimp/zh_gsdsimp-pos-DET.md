@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: POS Tags: `DET`
 
 There are 135 `DET` lemmas (1%), 135 `DET` types (1%) and 1329 `DET` tokens (1%).
-Out of 15 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 10 in number of types and 14 in number of tokens.
 
 The 10 most frequent `DET` lemmas: 这、 该、 这些、 其他、 此、 所有、 各、 另、 任何、 每
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  这 (<tt><a href="zh_gsdsimp-pos-DET.html
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.004662).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.004660).
 
 The 1st highest number of forms (1) was observed with the lemma “$5,000”: $5,000.
 

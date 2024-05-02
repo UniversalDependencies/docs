@@ -50,7 +50,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 25	along	along	ADV	_	_	22	advmod	_	SpaceAfter=No
 26	,	,	PUNCT	Comma	_	30	punct	_	_
 27	and	and	CCONJ	_	_	30	cc	_	_
-28	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	SpaceAfter=No
+28	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	30	nsubj	_	_
 29	'll	will	AUX	PRES-AUX	VerbForm=Fin	30	aux	_	_
 30	say	say	VERB	INF	VerbForm=Inf	13	conj	_	_
 31	it	it	PRON	PERS-SG	_	30	obj	_	_
@@ -58,7 +58,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 33	as	as	ADV	_	_	34	advmod	_	_
 34	loud	loud	ADJ	POS	Case=Nom	30	advmod	_	_
 35	as	as	SCONJ	_	_	38	mark	_	_
-36	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	38	nsubj	_	SpaceAfter=No
+36	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	38	nsubj	_	_
 37	'd	will	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin	38	aux	_	_
 38	say	say	VERB	INF	VerbForm=Inf	34	acl	_	_
 39	it	it	PRON	PERS-SG	_	38	obj	_	_

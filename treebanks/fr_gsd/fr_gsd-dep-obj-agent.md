@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 8	largement	largement	ADV	_	_	7	advmod	_	_
 9	autour	autour	ADV	_	_	7	advmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
-11	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	9	obl:arg	_	_
+11	vous	vous	PRON	_	Emph=Yes|Number=Plur|Person=2|PronType=Prs	9	obl:arg	_	_
 12	!	!	PUNCT	_	_	2	punct	_	_
 
 ~~~

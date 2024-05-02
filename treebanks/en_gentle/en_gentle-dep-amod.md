@@ -22,8 +22,8 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:3->4:2|Entity=(3-abstract-new-cf1-2-sgl|XML=<hi rend:::"bold">
-2	forms	form	NOUN	NNS	Number=Plur	0	root	0:root	Entity=3)|XML=</hi>
+1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:3->4:2:_|Entity=(3-abstract-new-cf1-2-sgl|XML=<hi rend:::"bold">
+2	forms	form	NOUN	NNS	Number=Plur	0	root	0:root	Entity=3)|MSeg=form-s|XML=</hi>
 
 ~~~
 
@@ -34,13 +34,13 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 amod	color:blue
-1	On	on	ADP	IN	_	2	case	2:case	Discourse=joint-list_m:59->58:0|XML=<hi rend:::"italic">
+1	On	on	ADP	IN	_	2	case	2:case	Discourse=joint-list_m:59->58:0:_|XML=<hi rend:::"italic">
 2	Wednesday	Wednesday	PROPN	NNP	Number=Sing	7	obl	7:obl:on	Entity=(83-time-acc:com-cf2-1-sgl
 3	next	next	ADJ	JJ	Degree=Pos	2	amod	2:amod	Entity=83)|SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	2:punct	_
 5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	Entity=(84-person-acc:com-cf1-1-sgl)
 6	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
-7	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
+7	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=go-ing
 8	to	to	ADP	IN	_	9	case	9:case	_
 9	Spain	Spain	PROPN	NNP	Number=Sing	7	obl	7:obl:to	Entity=(85-place-new-cf3-1-sgl-Spain)|SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	7:punct	XML=</hi>
@@ -54,8 +54,8 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Derived	derive	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	2:amod	Discourse=organization-heading:76->77:0|Entity=(110-abstract-new-cf1-2-coref|XML=<hi rend:::"bold">
-2	terms	term	NOUN	NNS	Number=Plur	0	root	0:root	Entity=110)|XML=</hi>
+1	Derived	derive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	amod	2:amod	Discourse=organization-heading:76->77:0:_|Entity=(110-abstract-new-cf1-2-coref|XML=<hi rend:::"bold">
+2	terms	term	NOUN	NNS	Number=Plur	0	root	0:root	Entity=110)|MSeg=term-s|XML=</hi>
 
 ~~~
 

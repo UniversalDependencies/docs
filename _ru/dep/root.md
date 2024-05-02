@@ -16,30 +16,6 @@ root(ROOT-7, I-love)
 ~~~
 
 There is just one node with the `root` dependency relation in every
-tree. If the main predicate is not present (due to
-[ellipsis](http://universaldependencies.org/cs/overview/specific-syntax.html#ellipsis))
-and there are
-multiple orphaned dependents, the leftmost dependent is promoted to
-the head (root) position and the other orphans are attached to it.
+tree. 
 
-An example sentence-like segment that lacks the main verb:
-_И что он на это ?_
-“And what [does] he [say] to it?”
-
-~~~ sdparse
-ROOT И что он на это ? \n ROOT And what he to it ?
-root(ROOT-1, И)
-root(ROOT-9, And)
-obj(И, что)
-obj(And, what)
-nmod(И, это)
-nmod(And, it)
-case(это, на)
-case(it, to)
-nsubj(И, он)
-nsubj(And, he)
-punct(И, ?-7)
-punct(And, ?-15)
-~~~
-
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:33 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:28 CET -->

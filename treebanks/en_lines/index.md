@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -86,11 +86,11 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 
 <ul>
-<li>This corpus contains 5243 sentences and 94217 tokens.</li>
+<li>This corpus contains 5243 sentences, 93200 tokens and 94217 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 12250 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 11233 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -102,6 +102,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
+<li>This corpus contains 1017 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 256 types of multi-word tokens. Examples: don't, it's, I'm, didn't, that's, Harry's, I've, can't, there's, he's, wasn't, wouldn't, you're, hadn't, couldn't, I'll, you've, Stillman's, doesn't, he'd, isn't, won't, Mweta's, Ron's, they'll, I'd, haven't, they're, Commission's, Auster's, we'll, weren't, hasn't, you'll, Europe's, father's, mother's, we'd, we've, what's, Dando's, Quinn's, Vernon's, company's, we're, Weasley's, aren't, cannot, she's, shouldn't.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -207,7 +209,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Plur
     <ul>
-      <li>DET: these, those, both</li>
+      <li>DET: these, those</li>
       <li>NOUN: people, eyes, fields, men, years, things, items, women, hands, words</li>
       <li>NUM: fifteen, forty-one</li>
       <li>PRON: they, we, them, us, our, themselves, these, those, ourselves, 's</li>
@@ -258,7 +260,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>INTJ: Ave, Er</li>
       <li>NOUN: garden, Jews, sir, smile, faces, Americans, Mr., bush, fellow, objects</li>
       <li>NUM: n, U</li>
-      <li>PRON: he, I, they, we, she, all, other, each, others, some</li>
+      <li>PRON: he, I, they, we, she, all, others, some, no, another</li>
       <li>PROPN: Access, Windows, Internet, NT, Other, Drive, Orders, Help, Salesperson, Fixed</li>
       <li>SCONJ: when, whenever, even, ever</li>
       <li>VERB: filter, group, burst, shut, edit, pleased, 'm, crossing, copying, laid</li>
@@ -275,7 +277,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Def
     <ul>
-      <li>DET: the</li>
+      <li>DET: the, Le</li>
       <li>PRON: her</li>
     </ul>
   </li>
@@ -420,7 +422,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Art
     <ul>
-      <li>DET: the, a, an, what, Tha</li>
+      <li>DET: the, a, an, Le, what, Tha</li>
     </ul>
   </li>
 </ul>
@@ -438,6 +440,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Ind
     <ul>
+      <li>DET: some, any, either</li>
       <li>PRON: either, one, ones</li>
     </ul>
   </li>
@@ -484,8 +487,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Tot
     <ul>
-      <li>DET: both</li>
-      <li>PRON: both</li>
+      <li>DET: all, each, every, both</li>
+      <li>PRON: each, both</li>
     </ul>
   </li>
 </ul>
@@ -607,8 +610,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1057)</li>
       <li>VERB-Fin--NOUN-ADP(of) (1)</li>
       <li>VERB-Fin--NOUN-Nom (39)</li>
-      <li>VERB-Fin--PRON (819)</li>
-      <li>VERB-Fin--PRON-Nom (1794)</li>
+      <li>VERB-Fin--PRON (820)</li>
+      <li>VERB-Fin--PRON-Nom (1793)</li>
       <li>VERB-Fin--PRON-Nom-ADP(as) (1)</li>
       <li>VERB-Inf--NOUN (191)</li>
       <li>VERB-Inf--NOUN-Nom (6)</li>
@@ -616,10 +619,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(for) (1)</li>
       <li>VERB-Inf--PRON-Acc (9)</li>
       <li>VERB-Inf--PRON-Nom (514)</li>
-      <li>VERB-Inf--PRON-Nom-ADP(for) (1)</li>
       <li>VERB-Part--NOUN (258)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
-      <li>VERB-Part--PRON (152)</li>
+      <li>VERB-Part--PRON (153)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Nom (328)</li>
     </ul>
@@ -633,8 +635,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON (8)</li>
       <li>VERB--PRON-ADP(into) (1)</li>
       <li>VERB--PRON-Acc (22)</li>
-      <li>VERB--PRON-Nom (3)</li>
-      <li>VERB-Fin--NOUN (1255)</li>
+      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN (1254)</li>
       <li>VERB-Fin--NOUN-ADP(for) (1)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
       <li>VERB-Fin--NOUN-ADP(on) (1)</li>
@@ -646,20 +648,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-ADP(to) (1)</li>
       <li>VERB-Fin--PRON-Acc (232)</li>
       <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
-      <li>VERB-Fin--PRON-Nom (14)</li>
+      <li>VERB-Fin--PRON-Nom (12)</li>
       <li>VERB-Inf--NOUN (862)</li>
       <li>VERB-Inf--NOUN-Nom (16)</li>
       <li>VERB-Inf--PRON (222)</li>
       <li>VERB-Inf--PRON-ADP(as) (1)</li>
       <li>VERB-Inf--PRON-Acc (142)</li>
-      <li>VERB-Inf--PRON-Nom (11)</li>
+      <li>VERB-Inf--PRON-Nom (10)</li>
       <li>VERB-Part--NOUN (669)</li>
       <li>VERB-Part--NOUN-ADP(through) (1)</li>
       <li>VERB-Part--NOUN-ADP(to) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (98)</li>
       <li>VERB-Part--PRON-Acc (91)</li>
-      <li>VERB-Part--PRON-Nom (7)</li>
+      <li>VERB-Part--PRON-Nom (4)</li>
     </ul>
   </li>
 </ul>

@@ -29,4 +29,4 @@ nmod(absolvit, anul)
 În 2000 am absolvit facultatea .
 nmod(absolvit, 2000)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:25 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:12 CET -->

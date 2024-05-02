@@ -16,10 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="aqz_tudet-pos-ADV.h
 
 ### `ADV`
 
-30 <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> tokens (48% of all `ADV` tokens) have a non-empty value of `Polarity`.
+30 <tt><a href="aqz_tudet-pos-ADV.html">ADV</a></tt> tokens (45% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (30; 100% of non-empty `Polarity`): <em>nom, nõm, erom, rom, om</em>
-* `EMPTY` (33): <em>nom, erom, ãka, ebapa, erape, jõ, kete, kojõpi, kɨrẽ, rom</em>
+* `EMPTY` (36): <em>nom, erom, ãka, ebapa, erape, jõ, kete, kojõpi, kɨrẽ, rom</em>
 

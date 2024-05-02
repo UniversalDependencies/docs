@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  不 (<tt><a href="lzh_kyoto-pos-ADV.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.014252 (the average of all parts of speech is 1.012984).
+The form / lemma ratio of `ADV` is 1.014252 (the average of all parts of speech is 1.013130).
 
 The 1st highest number of forms (2) was observed with the lemma “俱”: 俱, 倶.
 

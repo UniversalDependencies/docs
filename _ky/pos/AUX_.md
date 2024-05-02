@@ -15,8 +15,8 @@ The dependency label indicates their use (auxiliary, copula or content verb).
 
 ### Examples
 
-* _мектептердин курулушу кандай жүрүп жатат? "
-* _Жамгыр жаап жатат деп ойлойм."
-* _Караколдо жашы жете элек 12 бала эмгекке тартылган?"
+* _мектептердин курулушу кандай жүрүп <b>жатат</b>?_
+* _Жамгыр жаап <b>жатат</b> деп ойлойм._
+* _Караколдо жашы жете элек 12 бала эмгекке тартылган?_
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->

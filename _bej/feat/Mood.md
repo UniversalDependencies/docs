@@ -30,4 +30,4 @@ In Beja the negative optative is compulsory in dependent clauses.
 
 #### Examples
 - _harʔiːsiːsi <b>bi=</b> t- jʔ <b>-a</b> =heːb =aj_ "It must not come to me from behind!"
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:39 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:50 CET -->

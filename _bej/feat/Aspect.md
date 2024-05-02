@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-In Beja, aspect is an inflexionnal feature of [verbs](_bej/pos/VERB), [auxiliaries](_bej/pos/AUX) and verbal affixes/clitics (see [SCONJ](_bej/pos/SCONJ), [PART](_bej/pos/PART)) that specifies the duration and completion of processes in time.
+In Beja, aspect is an inflexionnal feature of [verbs](../pos/VERB), [auxiliaries](../pos/AUX) and verbal affixes/clitics (see [SCONJ](../pos/SCONJ), [PART](../pos/PART)) that specifies the duration and completion of processes in time.
 
 
 ### <a name="Aor">`Aor`</a>: aorist
@@ -49,4 +49,4 @@ The perfective marks a bounded process or state, independently of any temporal b
 #### Example
 
 -  _tak / kaːm =i / hoː kʷiɖ -ja i- <b>ni</b> //_ "A man said: 'My camel disappeared.' "
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:31 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:35 CET -->

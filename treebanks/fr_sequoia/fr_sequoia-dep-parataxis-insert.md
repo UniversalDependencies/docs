@@ -60,7 +60,7 @@ The following 15 pairs of parts of speech are connected with `parataxis:insert`:
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 parataxis:insert	color:blue
-1	À	à	ADP	_	_	6	advmod	_	ExtPos=ADV|Idiom=Yes
+1	À	à	ADP	_	ExtPos=ADV	6	advmod	_	Idiom=Yes
 2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	InIdiom=Yes
 3	moins	moins	ADV	_	_	1	fixed	_	InIdiom=Yes
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_

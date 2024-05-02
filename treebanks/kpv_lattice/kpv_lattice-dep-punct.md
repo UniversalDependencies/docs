@@ -17,55 +17,57 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 punct	color:blue
-1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
-3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 3 8 punct	color:blue
+1	Бур	бур	ADJ	A	Case=Nom|Number=Sing	2	amod	_	_
+2	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	OrigLang=ru
+3	воис	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	таво	таво	ADV	Adv	_	3	advmod:tmod	_	_
+5	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
+6	районувса	районувса	ADJ	A	Case=Nom|Number=Sing	7	amod	_	OrigLang=ru
+7	колхозъясын	колхоз	NOUN	N	Case=Ine|Number=Plur	3	obl:lmod	_	OrigLang=ru|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 punct	color:blue
-1	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	OrigLang=ru
-2	шедӧдіс	шедӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	бронза	бронза	NOUN	N	Case=Nom|Number=Sing	2	obj	_	OrigLang=ru|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	2	conj	_	OrigLang=ru
-6	-	-	PUNCT	PUNCT	_	7	punct	_	_
-7	эзысь	эзысь	NOUN	N	Case=Nom|Number=Sing	5	orphan	_	SpaceAfter=No
-8	,	,	PUNCT	CLB	_	10	punct	_	_
-9	а	а	CCONJ	CC	_	10	cc	_	_
-10	Джейн	Джейн	NOUN	N	Case=Nom|Number=Sing	2	conj	_	OrigLang=ru
-11	-	-	PUNCT	PUNCT	_	12	punct	_	_
-12	зарни	зарни	NOUN	N	Case=Nom|Number=Sing	10	orphan	_	SpaceAfter=No
-13	.	.	PUNCT	CLB	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 punct	color:blue
-1	Менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	батьӧй	бать	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	OrigLang=ru
-3	тэнад	тэ	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	батьсьыд	бать	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	obl	_	OrigLang=ru
-5	бурджык	бур	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 6 5 punct	color:blue
+1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+2	Выль	выль	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
+3	олӧм	олӧм	NOUN	N	Case=Nom|Number=Sing	2	flat:name	_	_
+4	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	3	flat:name	_	OrigLang=ru|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	председательыс	председатель	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	appos	_	OrigLang=ru
+7	Калинин	Калинин	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	OrigLang=ru|SpaceAfter=No
+8	)	)	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 punct	color:blue
+1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+2	Выль	выль	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
+3	олӧм	олӧм	NOUN	N	Case=Nom|Number=Sing	2	flat:name	_	_
+4	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	3	flat:name	_	OrigLang=ru|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	председательыс	председатель	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	appos	_	OrigLang=ru
+7	Калинин	Калинин	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	OrigLang=ru|SpaceAfter=No
+8	)	)	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

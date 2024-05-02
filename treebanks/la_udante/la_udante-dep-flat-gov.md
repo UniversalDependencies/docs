@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-UDante: Relations: `flat:gov`
 
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-flat.html">flat</a></tt>.
-There are also 2 other language-specific subtypes of `flat`: <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="la_udante-dep-flat-name.html">flat:name</a></tt>.
+There are also 3 other language-specific subtypes of `flat`: <tt><a href="la_udante-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="la_udante-dep-flat-name.html">flat:name</a></tt>, <tt><a href="la_udante-dep-flat-redup.html">flat:redup</a></tt>.
 
 1 nodes (0%) are attached to their parents as `flat:gov`.
 

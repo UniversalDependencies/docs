@@ -98,7 +98,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (2054; 100% of non-empty `VerbForm`): <em>održana, otvorena, održan, povećana, objavljenom, održano, otvoren, rođen, postignut, usmjerene</em>
-* `EMPTY` (22084): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
+* `EMPTY` (22085): <em>novi, prvi, drugi, sve, svi, vanjskih, glavni, novih, nove, prošle</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (636) occur only with one value of `VerbForm`.
 

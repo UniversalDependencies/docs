@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2344; 100% of non-empty `Foreign`): <em>MBA, FIA, ButtKicker, PM, RoboCup, FOXP2, Weta, XGR, Bazelevs, FAI</em>
-* `EMPTY` (53414): <em>России, США, СССР, Россия, Москве, Путин, В., А., Владимир, Москвы</em>
+* `EMPTY` (53411): <em>России, США, СССР, Россия, Москве, Путин, В., А., Владимир, Москвы</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1321) occur only with one value of `Foreign`.
 

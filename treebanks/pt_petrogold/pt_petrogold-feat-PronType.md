@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-41957 tokens (17%) have a non-empty value of `PronType`.
+41956 tokens (17%) have a non-empty value of `PronType`.
 176 types (1%) occur at least once with a non-empty value of `PronType`.
 54 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36345; 15% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (5398; 2% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (214; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (36345; 15% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (5398; 2% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (213; 0% instances).
 
 ### `DET`
 
@@ -68,11 +68,11 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-214 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
+213 <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Rel` (214; 100% of non-empty `PronType`): <em>onde</em>
+* `Rel` (213; 100% of non-empty `PronType`): <em>onde</em>
 * `EMPTY` (6230): <em>mais, não, também, através, já, muito, assim, bem, ainda, além</em>
 
 ## Relations with Agreement in `PronType`

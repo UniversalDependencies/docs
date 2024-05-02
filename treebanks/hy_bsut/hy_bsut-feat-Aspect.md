@@ -72,7 +72,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="hy_bsut-dep-aux.html">aux</a></tt>]--> AUX</tt> (1069; 56%),
+<tt>VERB --[<tt><a href="hy_bsut-dep-aux.html">aux</a></tt>]--> AUX</tt> (1068; 56%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> VERB</tt> (559; 81%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (19; 66%),
 <tt>VERB --[<tt><a href="hy_bsut-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (7; 88%),

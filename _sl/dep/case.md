@@ -26,9 +26,9 @@ case(five,to)
 ~~~ sdparse
 bodice , ki pri hranjenju delujejo kot filter \n thorns , which during feeding act as filter
 case(hranjenju,pri)
-case(filter,kot)
+case(filter-8,kot)
 case(feeding,during)
-case(filter,as)
+case(filter-17,as)
 ~~~
 
 ~~~ sdparse
@@ -38,4 +38,4 @@ case(filharmoniji,V)
 case(director,as)
 case(Philharmonic-Orchestra,In)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:02 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:31 CET -->

@@ -11,7 +11,7 @@ This relation is universal.
 2273 nodes (8%) are attached to their parents as `root`.
 
 2273 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.86317641882974.
+Average distance between parent and child is 5.8702155741311.
 
 The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (2082; 92% instances), -<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (91; 4% instances), -<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (71; 3% instances), -<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (16; 1% instances), -<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (8; 0% instances), -<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 

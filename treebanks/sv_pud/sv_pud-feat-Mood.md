@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 `ADJ` tokens may have the following values of `Mood`:
 
 * `Ind` (89; 100% of non-empty `Mood`): <em>betydande, följande, levande, omfattande, beroende, dominerande, omgivande, sittande, självstyrande, växande</em>
-* `EMPTY` (1470): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
+* `EMPTY` (1471): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
 
 `Mood` seems to be **lexical feature** of `ADJ`. 100% lemmas (70) occur only with one value of `Mood`.
 

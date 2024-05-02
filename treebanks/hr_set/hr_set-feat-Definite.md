@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 * `Def` (20684; 93% of non-empty `Definite`): <em>novi, sve, svi, vanjskih, glavni, novih, nove, prošle, hrvatski, moguće</em>
 * `Ind` (1452; 7% of non-empty `Definite`): <em>velik, sam, dobar, važan, poznat, održan, otvoren, postignut, rođen, siguran</em>
-* `EMPTY` (2002): <em>prvi, drugi, druge, drugih, 1., prva, 2004., 2008., 2007., 2009.</em>
+* `EMPTY` (2003): <em>prvi, drugi, druge, drugih, 1., prva, 2004., 2008., 2007., 2009.</em>
 
 <table>
   <tr><th>Paradigm <i>velik</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `PRON`
 
-There are 20 `PRON` lemmas (4%), 51 `PRON` types (6%) and 304 `PRON` tokens (10%).
+There are 20 `PRON` lemmas (4%), 52 `PRON` types (7%) and 305 `PRON` tokens (11%).
 Out of 16 observed tags, the rank of `PRON` is: 4 in number of lemmas, 4 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>son, tõt, mon, ton, mii, dõõt, mâiʹd, puk, tut, nåkkam</em>
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>tõn</em> (<tt><a href="sms_giellagas
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.550000 (the average of all parts of speech is 1.467290).
+The form / lemma ratio of `PRON` is 2.600000 (the average of all parts of speech is 1.472015).
 
 The 1st highest number of forms (7) was observed with the lemma “mon”: <em>mij, miʹjjid, mon, muu, muännaid, muʹnne, muʹst</em>.
 
@@ -50,7 +50,7 @@ The 2nd highest number of forms (7) was observed with the lemma “son”: <em>s
 
 The 3rd highest number of forms (7) was observed with the lemma “tõt”: <em>tõid, tõin, tõk, tõn, tõt, tõt-i, tõʹst</em>.
 
-`PRON` occurs with 6 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (292; 96% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (291; 96% instances), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt> (272; 89% instances), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt> (150; 49% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-feat-Reflex.html">Reflex</a></tt> (4; 1% instances)
+`PRON` occurs with 6 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (293; 96% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (292; 96% instances), <tt><a href="sms_giellagas-feat-PronType.html">PronType</a></tt> (273; 90% instances), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt> (150; 49% instances), <tt><a href="sms_giellagas-feat-Clitic.html">Clitic</a></tt> (8; 3% instances), <tt><a href="sms_giellagas-feat-Reflex.html">Reflex</a></tt> (4; 1% instances)
 
 `PRON` occurs with 21 feature-value pairs: `Case=Acc`, `Case=Com`, `Case=Gen`, `Case=Ill`, `Case=Loc`, `Case=Nom`, `Clitic=AddI`, `Clitic=Os`, `Clitic=QstA`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
@@ -61,11 +61,11 @@ Examples: <em>son</em>
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 21 different relations: <tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt> (138; 45% instances), <tt><a href="sms_giellagas-dep-det.html">det</a></tt> (52; 17% instances), <tt><a href="sms_giellagas-dep-obj.html">obj</a></tt> (44; 14% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (16; 5% instances), <tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt> (13; 4% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (9; 3% instances), <tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-dep-expl.html">expl</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 21 different relations: <tt><a href="sms_giellagas-dep-nsubj.html">nsubj</a></tt> (139; 46% instances), <tt><a href="sms_giellagas-dep-det.html">det</a></tt> (52; 17% instances), <tt><a href="sms_giellagas-dep-obj.html">obj</a></tt> (44; 14% instances), <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt> (16; 5% instances), <tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt> (13; 4% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (9; 3% instances), <tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-dep-expl.html">expl</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="sms_giellagas-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-orphan.html">orphan</a></tt> (2; 1% instances), <tt><a href="sms_giellagas-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="sms_giellagas-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (208; 68% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (72; 24% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 1% instances),  (3; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (209; 69% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (72; 24% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 1% instances),  (3; 1% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-261 (86%) `PRON` nodes are leaves.
+262 (86%) `PRON` nodes are leaves.
 
 22 (7%) `PRON` nodes have one child.
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (62; 100% of non-empty `Polite`): <em>գիտէք, ըսէք, խօսիք, կարծէք, հասկնաք, հետեւիք, հրամմեցէք, ներէք, նստեցէք, ուզէք</em>
-* `EMPTY` (15424): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, եղած, կրնար, ըլլայ, ունեցած, գիտեր</em>
+* `EMPTY` (15429): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, եղած, ըլլայ, կրնար, ունեցած, գիտեր</em>
 
 `Polite` seems to be **lexical feature** of `VERB`. 100% lemmas (39) occur only with one value of `Polite`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (34; 100% of non-empty `Polite`): <em>ձեզ, դուք, ձեզի, ձեզմէ, ձեր, զձեզ</em>
-* `EMPTY` (3988): <em>որ, ինչ, որոնք, ան, որուն, ես, անոնք, անոր, իրեն, մենք</em>
+* `EMPTY` (4008): <em>որ, ինչ, որոնք, ան, որուն, անոր, ես, անոնք, իրեն, մենք</em>
 
 ### `AUX`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (23; 100% of non-empty `Polite`): <em>էք, չէք, չէիք</em>
-* `EMPTY` (8947): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
+* `EMPTY` (8943): <em>կը, է, կ՚, էր, պիտի, են, էին, չէ, եմ, կու</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Polite` co-occurred
 `DET` tokens may have the following values of `Polite`:
 
 * `Form` (8; 100% of non-empty `Polite`): <em>ձեր</em>
-* `EMPTY` (6711): <em>մը, իր, այս, այդ, մեր, իրենց, ամէն, այն, բոլոր, մըն</em>
+* `EMPTY` (6690): <em>մը, իր, այս, այդ, մեր, իրենց, ամէն, այն, բոլոր, մըն</em>
 
 ## Relations with Agreement in `Polite`
 

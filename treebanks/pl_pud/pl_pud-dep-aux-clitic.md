@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `aux:clitic`: <tt><a
 # visual-style 2 3 aux:clitic	color:blue
 1	–	–	PUNCT	interp	PunctType=Dash	7	punct	7:punct	_
 2	Uwielbiał	uwielbiać	VERB	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	parataxis:obj	7:parataxis:obj	_
-3	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	2	aux:clitic	2:aux:clitic	_
+3	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	2	aux:clitic	2:aux:clitic	_
 4	tropikalne	tropikalny	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	5:amod	_
 5	kolory	kolor	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	2	obj	2:obj	_
 6	–	–	PUNCT	interp	PunctType=Dash	7	punct	7:punct	_
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `aux:clitic`: <tt><a
 9	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
 10	czy	czy	PART	part	PartType=Int	11	advmod	11:advmod	_
 11	znał	znać	VERB	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	2:ccomp	_
-12	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	11	aux:clitic	11:aux:clitic	_
+12	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	11	aux:clitic	11:aux:clitic	_
 13	pisarza	pisarz	NOUN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	11	obj	11:obj	_
 14	Güntera	Günter	PROPN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	13	appos	13:appos	_
 15	de	de	X	frag	Foreign=Yes	14	flat	14:flat	_
@@ -60,7 +60,7 @@ The following 3 pairs of parts of speech are connected with `aux:clitic`: <tt><a
 17	i	i	CCONJ	conj	_	22	cc	22:cc	_
 18	czy	czy	PART	part	PartType=Int	22	advmod	22:advmod	_
 19	byli	być	AUX	praet:pl:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	22	cop	22:cop	_
-20	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Clitic=Yes|Number=Plur|Person=1|Variant=Short	22	aux:clitic	22:aux:clitic	_
+20	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Number=Plur|Person=1|Variant=Short	22	aux:clitic	22:aux:clitic	_
 21	intelektualnie	intelektualnie	ADV	adv:pos	Degree=Pos	22	advmod	22:advmod	_
 22	spokrewnieni	spokrewnić	ADJ	ppas:pl:nom:m1:perf:aff	Animacy=Hum|Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	11	conj	2:ccomp|11:conj	SpaceAfter=No
 23	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `aux:clitic`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 2 aux:clitic	color:blue
 1	Był	być	AUX	praet:sg:m1:imperf	Animacy=Hum|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
-2	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	4	aux:clitic	4:aux:clitic	_
+2	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	4	aux:clitic	4:aux:clitic	_
 3	zwykłym	zwykły	ADJ	adj:sg:inst:m1:pos	Animacy=Hum|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	_
 4	chłopcem	chłopiec	NOUN	subst:sg:inst:m1	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
 5	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	7	case	7:case	Case=Loc

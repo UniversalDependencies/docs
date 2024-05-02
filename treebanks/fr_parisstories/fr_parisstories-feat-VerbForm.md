@@ -50,13 +50,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 2103 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2004; 95%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1957; 93%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1539; 73%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1416; 67%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2001; 95%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1957; 93%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1536; 73%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1414; 67%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2036; 97% of non-empty `VerbForm`): <em>est, était, a, ai, suis, étais, avait, avais, sont, étaient</em>
+* `Fin` (2033; 97% of non-empty `VerbForm`): <em>est, était, a, ai, suis, étais, avait, avais, sont, étaient</em>
 * `Inf` (32; 2% of non-empty `VerbForm`): <em>être, faire, avoir, refaire</em>
-* `Part` (35; 2% of non-empty `VerbForm`): <em>été, fait, eu</em>
+* `Part` (38; 2% of non-empty `VerbForm`): <em>été, fait, eu</em>
 * `EMPTY` (1): <em>ai</em>
 
 <table>

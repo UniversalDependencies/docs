@@ -19,35 +19,17 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 acl	color:blue
-1	Yüzüstü	yüzüst	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	nmod	_	_
-2	bırakınca	bırak	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	1	compound	_	_
-3	bayıldığı	bayıl	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	acl	_	_
-4	avukat	avukat	NOUN	Noun	Case=Nom|Number=Sing|Person=3	1	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	Punc	_	6	punct	_	_
-6	yoldan	yol	NOUN	Noun	Case=Abl|Number=Sing|Person=3	0	root	_	_
-7	çıkmış	çık	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	6	compound	_	_
-8	kızcağız	kızcağız	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	nsubj	_	SpaceAfter=No
-9	...	...	PUNCT	Punc	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 acl	color:blue
-1	Ve	ve	CCONJ	Conj	_	5	cc	_	_
-2	kendi	kendi	PRON	Reflex	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Reflex=Yes	3	nmod	_	_
-3	merceklerinden	mercek	NOUN	Noun	Case=Abl|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	obl	_	_
-4	bakıldığında	bak	VERB	Verb	Aspect=Perf|Case=Loc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
-5	haklı	haklı	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	lar	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	_
-7	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 5 3 acl	color:blue
+1	Yeşilden	yeşil	ADJ	NAdj	Case=Abl|Number=Sing|Person=3	2	nmod	_	_
+2	maviye	mavi	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	3	nmod	_	_
+3	dönüşen	dönüş	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	acl	_	_
+4	iri	iri	ADJ	Adj	_	5	amod	_	_
+5	gözlerini	göz	NOUN	Noun	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	7	obj	_	_
+6	bize	biz	PRON	Pers	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
+7	çevirmişti	çevir	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 
@@ -55,19 +37,38 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 3 acl	color:blue
-1	Güneş	güneş	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
-2	tepeye	tepe	NOUN	Noun	Case=Dat|Number=Sing|Person=3	3	obl	_	_
-3	vardığında	var	VERB	Verb	Aspect=Perf|Case=Loc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	9	acl	_	_
-4	evin	ev	NOUN	Noun	Case=Gen|Number=Sing|Person=3	5	nmod:poss	_	_
-5	etrafında	etraf	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod	_	_
-6	ki	ki	ADP	Rel	_	5	case	_	_
-7	hareket	hareket	NOUN	Noun	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-8	de	de	CCONJ	Conj	_	7	advmod:emph	_	_
-9	artıyor	art	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 acl	color:blue
+1	Hepimiz	hep	PRON	Quant	Case=Nom|Number=Plur|Number[psor]=Plur|Person=1|Person[psor]=1|PronType=Ind	7	nsubj	_	_
+2	kıraathaneye	kıraathane	NOUN	Noun	Case=Dat|Number=Sing|Person=3	3	obl	_	_
+3	gelen	gel	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	acl	_	_
+4	bu	bu	DET	Det	_	5	det	_	_
+5	yabancıya	yabancı	ADJ	NAdj	Case=Dat|Number=Sing|Person=3	7	amod	_	_
+6	dikkatle	dikkat	NOUN	Noun	Case=Ins|Number=Sing|Person=3	7	obl	_	_
+7	bakıyorduk	bak	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Polite=Infm|Tense=Past	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	Punc	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 acl	color:blue
+1	İçine	iç	ADJ	NAdj	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	amod	_	_
+2	giren	gir	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	7	acl	_	_
+3	bir	bir	ADV	Adverb	_	4	advmod	_	_
+4	daha	daha	ADV	Adverb	_	7	advmod	_	_
+5	kolay	kolay	ADJ	Adj	_	7	amod	_	_
+6	kolay	kolay	ADJ	Adj	_	5	compound:redup	_	_
+7	kurtulamaz	kurtul	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	9	punct	_	_
+9	çıkamaz	çık	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	7	conj	_	_
+10	oradan	ora	NOUN	Noun	Case=Abl|Number=Sing|Person=3	9	obl	_	SpaceAfter=No
+11	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 

@@ -59,11 +59,11 @@ The 2nd highest number of forms (3) was observed with the lemma “Amerika”: <
 
 The 3rd highest number of forms (3) was observed with the lemma “Andy”: <em>Andy, Andyho, Andymu</em>.
 
-`PROPN` occurs with 9 features: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt> (1091; 100% instances), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt> (1078; 99% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (966; 89% instances), <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (903; 83% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (877; 80% instances), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt> (612; 56% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (111; 10% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (40; 4% instances), <tt><a href="cs_pud-feat-Style.html">Style</a></tt> (9; 1% instances)
+`PROPN` occurs with 9 features: <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt> (1091; 100% instances), <tt><a href="cs_pud-feat-NameType.html">NameType</a></tt> (1078; 99% instances), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt> (966; 89% instances), <tt><a href="cs_pud-feat-Number.html">Number</a></tt> (903; 83% instances), <tt><a href="cs_pud-feat-Case.html">Case</a></tt> (877; 80% instances), <tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt> (612; 56% instances), <tt><a href="cs_pud-feat-Foreign.html">Foreign</a></tt> (111; 10% instances), <tt><a href="cs_pud-feat-Abbr.html">Abbr</a></tt> (40; 4% instances), <tt><a href="cs_pud-feat-Style.html">Style</a></tt> (6; 1% instances)
 
-`PROPN` occurs with 29 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Com,Geo`, `NameType=Com,Pro`, `NameType=Geo`, `NameType=Geo,Giv`, `NameType=Giv`, `NameType=Giv,Sur`, `NameType=Nat`, `NameType=Oth`, `NameType=Pro`, `NameType=Sur`, `Number=Plur`, `Number=Sing`, `Polarity=Pos`, `Style=Arch`, `Style=Rare`
+`PROPN` occurs with 28 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NameType=Com`, `NameType=Com,Geo`, `NameType=Com,Pro`, `NameType=Geo`, `NameType=Geo,Giv`, `NameType=Giv`, `NameType=Giv,Sur`, `NameType=Nat`, `NameType=Oth`, `NameType=Pro`, `NameType=Sur`, `Number=Plur`, `Number=Sing`, `Polarity=Pos`, `Style=Rare`
 
-`PROPN` occurs with 144 feature combinations.
+`PROPN` occurs with 143 feature combinations.
 The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos` (162 tokens).
 Examples: <em>Trump, Mišima, Seagal, Winstone, Wright, Šen, Aldrin, Antonius, Disney, Dündar</em>
 

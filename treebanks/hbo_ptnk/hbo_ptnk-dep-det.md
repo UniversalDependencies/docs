@@ -17,73 +17,72 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	ב	ב	ADP	prep	_	2	case	_	Ref=GEN_1.1
-2	ראשׁית	ראשׁית	NOUN	subs	Gender=Fem|Number=Sing	3	obl	_	Ref=GEN_1.1
-3	בָּרָ֣א	ברא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_1.1
-4	אֱלֹהִ֑ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	3	nsubj	_	Ref=GEN_1.1
-5	אֵ֥ת	את	ADP	prep	_	7	case	_	Ref=GEN_1.1
-6	ה	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_1.1
-7	שׁמים	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	3	obj	_	Ref=GEN_1.1
-8	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_1.1
-9	את	את	ADP	prep	_	11	case	_	Ref=GEN_1.1
-10	ה	ה	DET	art	PronType=Art	11	det	_	Ref=GEN_1.1
-11	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	7	conj	_	Ref=GEN_1.1
-12	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_1.1
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	ו	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_2.12
-2	זהב	זהב	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_2.12
-3	ה	ה	DET	art	PronType=Art	4	det	_	Ref=GEN_2.12
-4	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	2	compound:smixut	_	Ref=GEN_2.12
-5	ה	ה	DET	art	PronType=Art	6	det	_	Ref=GEN_2.12
-6	היא	היא	PRON	prps	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	det	_	Ref=GEN_2.12
-7	טֹ֑וב	טוב	ADJ	adjv	Gender=Masc|Number=Sing	0	root	_	Ref=GEN_2.12
-8	שָׁ֥ם	שׁם	ADV	advb	_	7	parataxis	_	Ref=GEN_2.12
-9	ה	ה	DET	art	PronType=Art	10	det	_	Ref=GEN_2.12
-10	בדלח	בדלח	NOUN	subs	Gender=Masc|Number=Sing	8	nsubj	_	Ref=GEN_2.12
-11	ו	ו	CCONJ	conj	_	12	cc	_	Ref=GEN_2.12
-12	אבן	אבן	NOUN	subs	Gender=Fem|Number=Sing	10	conj	_	Ref=GEN_2.12
-13	ה	ה	DET	art	PronType=Art	14	det	_	Ref=GEN_2.12
-14	שׁהם	שׁהם	NOUN	subs	Gender=Masc|Number=Sing	12	compound:smixut	_	Ref=GEN_2.12
-15	׃	׃	PUNCT	punct	_	7	punct	_	Ref=GEN_2.12
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 det	color:blue
-1	ו	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_2.12
-2	זהב	זהב	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_2.12
-3	ה	ה	DET	art	PronType=Art	4	det	_	Ref=GEN_2.12
-4	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	2	compound:smixut	_	Ref=GEN_2.12
-5	ה	ה	DET	art	PronType=Art	6	det	_	Ref=GEN_2.12
-6	היא	היא	PRON	prps	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	det	_	Ref=GEN_2.12
-7	טֹ֑וב	טוב	ADJ	adjv	Gender=Masc|Number=Sing	0	root	_	Ref=GEN_2.12
-8	שָׁ֥ם	שׁם	ADV	advb	_	7	parataxis	_	Ref=GEN_2.12
-9	ה	ה	DET	art	PronType=Art	10	det	_	Ref=GEN_2.12
-10	בדלח	בדלח	NOUN	subs	Gender=Masc|Number=Sing	8	nsubj	_	Ref=GEN_2.12
-11	ו	ו	CCONJ	conj	_	12	cc	_	Ref=GEN_2.12
-12	אבן	אבן	NOUN	subs	Gender=Fem|Number=Sing	10	conj	_	Ref=GEN_2.12
-13	ה	ה	DET	art	PronType=Art	14	det	_	Ref=GEN_2.12
-14	שׁהם	שׁהם	NOUN	subs	Gender=Masc|Number=Sing	12	compound:smixut	_	Ref=GEN_2.12
-15	׃	׃	PUNCT	punct	_	7	punct	_	Ref=GEN_2.12
+# visual-style 4 3 det	color:blue
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_2.1
+2	יְכֻלּ֛וּ	כלה	VERB	verb	Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_2.1
+3	הַ	ה	DET	art	PronType=Art	4	det	_	Ref=GEN_2.1
+4	שָּׁמַ֥יִם	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Ref=GEN_2.1
+5	וְ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_2.1
+6	הָ	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_2.1
+7	אָ֖רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	4	conj	_	Ref=GEN_2.1
+8	וְ	ו	CCONJ	conj	_	9	cc	_	Ref=GEN_2.1
+9	כָל	כל	NOUN	subs	Gender=Masc|Number=Sing	4	conj	_	Ref=GEN_2.1
+10	־	־	PUNCT	punct	_	11	punct	_	Ref=GEN_2.1|SpaceAfter=No
+11	צְבָאָֽ	צבא	NOUN	subs	Gender=Masc|Number=Sing	9	compound:smixut	_	Ref=GEN_2.1
+12	ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	Ref=GEN_2.1
+13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_2.1
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 det	color:blue
+1	וַֽ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_44.6
+2	יַּשִּׂגֵ֑	נשׂג	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_44.6
+3	ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Ref=GEN_44.6
+4	וַ	ו	CCONJ	conj	_	5	cc	_	Ref=GEN_44.6
+5	יְדַבֵּ֣ר	דבר	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_44.6
+6	אֲלֵ	אל	ADP	prep	_	7	case	_	Ref=GEN_44.6
+7	הֶ֔ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obl	_	Ref=GEN_44.6
+8	אֶת	את	ADP	prep	_	11	case	_	Ref=GEN_44.6|SpaceAfter=No
+9	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_44.6|SpaceAfter=No
+10	הַ	ה	DET	art	PronType=Art	11	det	_	Ref=GEN_44.6
+11	דְּבָרִ֖ים	דבר	NOUN	subs	Gender=Masc|Number=Plur	5	obj	_	Ref=GEN_44.6
+12	הָ	ה	DET	art	PronType=Art	13	det	_	Ref=GEN_44.6
+13	אֵֽלֶּה	אלה	PRON	prde	Number=Plur|PronType=Dem	11	det	_	Ref=GEN_44.6
+14	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_44.6
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 det	color:blue
+1	וַֽ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_44.6
+2	יַּשִּׂגֵ֑	נשׂג	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_44.6
+3	ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obj	_	Ref=GEN_44.6
+4	וַ	ו	CCONJ	conj	_	5	cc	_	Ref=GEN_44.6
+5	יְדַבֵּ֣ר	דבר	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_44.6
+6	אֲלֵ	אל	ADP	prep	_	7	case	_	Ref=GEN_44.6
+7	הֶ֔ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obl	_	Ref=GEN_44.6
+8	אֶת	את	ADP	prep	_	11	case	_	Ref=GEN_44.6|SpaceAfter=No
+9	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_44.6|SpaceAfter=No
+10	הַ	ה	DET	art	PronType=Art	11	det	_	Ref=GEN_44.6
+11	דְּבָרִ֖ים	דבר	NOUN	subs	Gender=Masc|Number=Plur	5	obj	_	Ref=GEN_44.6
+12	הָ	ה	DET	art	PronType=Art	13	det	_	Ref=GEN_44.6
+13	אֵֽלֶּה	אלה	PRON	prde	Number=Plur|PronType=Dem	11	det	_	Ref=GEN_44.6
+14	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_44.6
 
 ~~~
 

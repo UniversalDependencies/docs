@@ -89,12 +89,12 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 17	puhastada	puhastama	VERB	V	VerbForm=Inf	12	advcl	12:advcl	SpaceAfter=No
 18	,	,	PUNCT	Z	_	20	punct	20:punct	_
 19	jààkainetest	jääk_aine	NOUN	S	Case=Ela|Number=Plur|Typo=Yes	20	obl	20:obl	CorrectForm=jääkainetest
-20	puhastada	puhastama	VERB	V	VerbForm=Inf	17	conj	17:conj	_
+20	puhastada	puhastama	VERB	V	VerbForm=Inf	17	conj	12:advcl|17:conj	_
 21	vòi	või	CCONJ	J	Typo=Yes	25	cc	25:cc	CorrectForm=või
 22	vòi	või	CCONJ	J	Typo=Yes	21	reparandum	21:reparandum	CorrectForm=või
 23	misiganes	mis_iganes	ADV	D	_	24	advmod	24:advmod	_
 24	eesmàrgil	ees_märk	NOUN	S	Case=Ade|Number=Sing|Typo=Yes	25	obl	25:obl	CorrectForm=eesmärgil
-25	paastume	paastuma	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	17:conj	SpaceAfter=No
+25	paastume	paastuma	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	12:advcl|17:conj	SpaceAfter=No
 26	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~

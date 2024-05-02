@@ -59,13 +59,13 @@ The 2nd highest number of forms (2) was observed with the lemma “berekete”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “beta”: <em>beta, better</em>.
 
-`ADJ` occurs with 5 features: <tt><a href="pcm_nsc-feat-Degree.html">Degree</a></tt> (210; 6% instances), <tt><a href="pcm_nsc-feat-NumType.html">NumType</a></tt> (108; 3% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (36; 1% instances), <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt> (36; 1% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (32; 1% instances)
+`ADJ` occurs with 6 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (382; 11% instances), <tt><a href="pcm_nsc-feat-Degree.html">Degree</a></tt> (210; 6% instances), <tt><a href="pcm_nsc-feat-NumType.html">NumType</a></tt> (108; 3% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (36; 1% instances), <tt><a href="pcm_nsc-feat-Poss.html">Poss</a></tt> (36; 1% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (32; 1% instances)
 
-`ADJ` occurs with 8 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Person=2`, `Person=3`, `Poss=Yes`
+`ADJ` occurs with 13 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=PROPN`, `ExtPos=VERB`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Person=2`, `Person=3`, `Poss=Yes`
 
-`ADJ` occurs with 8 feature combinations.
-The most frequent feature combination is `_` (3184 tokens).
-Examples: <em>small, own, good, kind, different, many, plenty, big, oder, last</em>
+`ADJ` occurs with 16 feature combinations.
+The most frequent feature combination is `_` (2829 tokens).
+Examples: <em>small, own, kind, different, good, many, oder, last, big, plenty</em>
 
 
 ## Relations

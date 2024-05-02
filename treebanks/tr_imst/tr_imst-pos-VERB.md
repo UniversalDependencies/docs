@@ -19,31 +19,31 @@ The 10 most frequent ambiguous types:  <em>olan</em> (<tt><a href="tr_imst-pos-V
 
 
 * <em>olan</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 127: <em>Biraz gülüşerek <b>olan</b> ları anlattık .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 127: <em>Lacivert takım elbise li , kır saç lı <b>olan</b> adam .</em>
   * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 1: <em>Çevresi gerçekten geniş <b>olan</b> bu genç kız , erkek arkadaş olarak hep hastalık lı , kendisine bakıcılık yapabileceği kültürlü ve bağımlı erkekleri seçiyor .</em>
 * <em>var</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 121: <em>Şimdi Allah'a şükür her mevsim <b>var</b> .</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 29: <em>Pamuğun <b>var</b> mı .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 121: <em>Heyecanlı ydı , çaresiz bir hali <b>var</b> dı .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 29: <em>Ne işin <b>var</b> kardeşim kız kurularıyla .</em>
 * <em>olacak</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 24: <em>İki bayram arası IMF CHP 'li <b>olacak</b> .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 24: <em>Arka tarafta <b>olacak</b> .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 3: <em>Bu arada erkekler , o gün ihtiyaçları <b>olacak</b> geyikleri kementleriyle yakalamaya başlamışlardı bile .</em>
 * <em>demek</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 23: <em>ev yapmak , hayatı biçimlendirmek <b>demek</b> tir .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 23: <em>O ne <b>demek</b> .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 4: <em>O dünyayı biliyorsunuz <b>demek</b> ...</em>
 * <em>olsa</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 19: <em>Nasıl <b>olsa</b> bir şey satamıyorsun .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 19: <em>Âdetim <b>olsa</b> bari .</em>
   * <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> 1: <em>Keşke benim de böyle bir evim <b>olsa</b> başımı sokacak .</em>
 * <em>alan</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 18: <em>Ancak Arınç'ın teyp kaydında da yer <b>alan</b> sözleri gazeteye aynen yansıdı .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 18: <em>Her <b>alan</b> soruyor .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>İki yaşlı çift ve torunlarının yaşadığı bu <b>alan</b> kasabaya yakınlığından dolayı daha sık ziyaret ediliyor .</em>
 * <em>bakın</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Araba beğenmeyen e <b>bakın</b> .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Dayanamadım , <b>bakın</b> .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Şimdi ; gidip günah çıkarsam - <b>bakın</b> , üstelik burada benim bir günahım yok aslında - , rahatlamaz mıyım ? Sana normal davranır hale gelmez miyim ? Belki .</em>
 * <em>savunma</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 3: <em>Bu benim son <b>savunma</b> silahım dı .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em>Okuyucunun , bu antik değeri olan ancak yeni ymiş gibi sunulan çürütülmüş felsefi dizgelere karşı <b>savunma</b> sız kalmaması gerekiyor .</em>
 * <em>eder</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 10: <em>Melek , sen bana yardım <b>eder</b> misin ?</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 10: <em>Merak <b>eder</b> , açar .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Evi terk <b>eder</b> im kaçarım uzaklara .</em>
 * <em>geçen</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 8: <em>Beğeni li bakışları üstümüzde gelip <b>geçen</b> in .</em>

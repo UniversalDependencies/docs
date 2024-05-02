@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-61 tokens (4%) have a non-empty value of `Trans`.
-51 types (11%) occur at least once with a non-empty value of `Trans`.
+62 tokens (4%) have a non-empty value of `Trans`.
+52 types (10%) occur at least once with a non-empty value of `Trans`.
 41 lemmas (13%) occur at least once with a non-empty value of `Trans`.
-The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (58; 4% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (3; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (59; 4% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (3; 0% instances).
 
 ### `VERB`
 
-58 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `Trans`.
+59 <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Trans`.
 
-The most frequent other feature values with which `VERB` and `Trans` co-occurred: <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=EMPTY</tt> (56; 97%), <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (30; 52%).
+The most frequent other feature values with which `VERB` and `Trans` co-occurred: <tt><a href="aqz_tudet-feat-Tv.html">Tv</a></tt><tt>=EMPTY</tt> (57; 97%), <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (31; 53%).
 
 `VERB` tokens may have the following values of `Trans`:
 
-* `Yes` (58; 100% of non-empty `Trans`): <em>erekka, jãjka, pɨtka, tʃãka, oerekwa, amkwa, apeka, atabaka, buhka, erekkwa</em>
+* `Yes` (59; 100% of non-empty `Trans`): <em>erekka, jãjka, pɨtka, tʃãka, oerekwa, amkwa, apeka, atabaka, buhka, erekkwa</em>
 
 `Trans` seems to be **lexical feature** of `VERB`. 100% lemmas (39) occur only with one value of `Trans`.
 

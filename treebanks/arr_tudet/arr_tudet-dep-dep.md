@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 3 dep	color:blue
 1	aʔwɑ̃ŋ	wɑ̃k	VERB	v	Number=Sing|Person=3	0	root	_	_
-2	naʔto	naʔto	NOUN	n	_	3	obj	_	_
+2	naʔto	naʔto	NOUN	n	_	3	obj	_	[naʔˈtɔ]
 3	wīn	wī	VERB	v	Decl=Assert	1	dep	_	_
 
 ~~~

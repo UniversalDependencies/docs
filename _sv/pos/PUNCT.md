@@ -2,6 +2,7 @@
 layout: postag
 title: 'PUNCT'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 ### Definition
@@ -14,4 +15,4 @@ They are tagged PUNCT regardless of their function.
 - Period: .
 - Comma: ,
 - Parentheses: ()
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:30 CET -->

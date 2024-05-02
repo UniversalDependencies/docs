@@ -25,4 +25,4 @@ Acronyms of proper nouns, such as _<b>UN</b>_ and _<b>NATO</b>_, are also tagged
 #### Conversion from JOS
 
 All JOS nouns with Type=proper are converted to `PROPN`.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:29 CET -->

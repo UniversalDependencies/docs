@@ -10,9 +10,9 @@ This feature is language-specific.
 It occurs with 2 different values: `A`, `Neg`.
 
 7 tokens (2%) have a non-empty value of `PronClass`.
-4 types (2%) occur at least once with a non-empty value of `PronClass`.
+4 types (1%) occur at least once with a non-empty value of `PronClass`.
 3 lemmas (1%) occur at least once with a non-empty value of `PronClass`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 

@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Coll`, `Priv`.
 
-10 tokens (0%) have a non-empty value of `Derivation`.
-10 types (1%) occur at least once with a non-empty value of `Derivation`.
-10 lemmas (1%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 2 part-of-speech tags: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
+12 tokens (0%) have a non-empty value of `Derivation`.
+12 types (1%) occur at least once with a non-empty value of `Derivation`.
+12 lemmas (1%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-6 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Derivation`.
+7 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Derivation`.
 
 `ADJ` tokens may have the following values of `Derivation`:
 
-* `Priv` (6; 100% of non-empty `Derivation`): <em>Adana-ima, ara-ima, kiinha-ima, sawa-ima, tĩ-ima, ximirikú-ima</em>
+* `Priv` (7; 100% of non-empty `Derivation`): <em>Adana-ima, ara-ima, kiinha-ima, santaíma, sawa-ima, tĩ-ima, ximirikú-ima</em>
 
 ### `NOUN`
 
@@ -31,6 +31,16 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 `NOUN` tokens may have the following values of `Derivation`:
 
 * `Coll` (4; 100% of non-empty `Derivation`): <em>itatiwa, kapĩtiwa, mirawasutiwa, sakaitiwa</em>
+
+### `VERB`
+
+1 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Derivation`.
+
+The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`VERB` tokens may have the following values of `Derivation`:
+
+* `Priv` (1; 100% of non-empty `Derivation`): <em>kiaíma</em>
 
 ## Relations with Agreement in `Derivation`
 

@@ -27,4 +27,4 @@ acl:relcl(Peter, gjorde)
 nsubj(gjorde, som)
 obj(gjorde, det)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:14 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:52 CET -->

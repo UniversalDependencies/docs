@@ -18,16 +18,20 @@ The following 16 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 obl	color:blue
-1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
-3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 obl	color:blue
+1	Техническӧй	Техническӧй	ADJ	A	Case=Nom|Number=Sing	2	amod	_	OrigLang=ru
+2	культураяс	культура	NOUN	N	Case=Nom|Number=Plur	5	nmod	_	OrigLang=ru
+3	план	план	NOUN	N	Case=Nom|Number=Sing	5	obl	_	OrigLang=ru
+4	дінӧ	дінын	ADP	Po	Case=Ill|Number=Sing	3	case	_	_
+5	идралӧма	идравны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+6	3	3	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	_
+7	прӧчент	прӧчент	NOUN	N	Case=Nom|Number=Sing	5	obl	_	OrigLang=ru
+8	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 
@@ -35,15 +39,18 @@ The following 16 pairs of parts of speech are connected with `obl`: <tt><a href=
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 obl	color:blue
-1	Меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	_
-2	кажитчӧ	кажитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	OrigLang=ru|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	5	punct	_	_
-4	мый	мый	SCONJ	CS	_	5	mark	_	_
-5	зэрӧ	зэрны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	csubj	_	SpaceAfter=No
-6	.	_	PUNCT	CLB	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obl	color:blue
+1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+2	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
+3	видзӧдігмоз	видзӧдны	VERB	V	Derivation=Igmoz|VerbForm=Conv	6	advcl	_	_
+4	весиг	весиг	PART	Pcle	_	6	advmod	_	_
+5	шуштӧм	шуштӧм	NOUN	N	Case=Abe|Number=Sing|Variant=Nomin	6	xcomp	_	_
+6	лолі	лолыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
+8	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

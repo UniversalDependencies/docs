@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-AU
 
 ### `AUX`
 
-340 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (36% of all `AUX` tokens) have a non-empty value of `VerbType`.
+340 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (35% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
 The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (314; 92%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (295; 87%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (261; 77%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (239; 70%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (229; 67%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (203; 60%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (182; 54%).
 

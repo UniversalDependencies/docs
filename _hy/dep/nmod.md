@@ -95,4 +95,4 @@ punct(president, ,)
 amod(president, the-first)
 appos(Levon, president)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:19 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:03 CET -->

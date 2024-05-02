@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Purposive'
-shortdef: 'Purposive'
+title: 'Purp'
+shortdef: 'Purp'
 udver: '2'
 ---
 
@@ -10,28 +10,27 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
   <td><a href="#Trans">Trans</a></td>
-  
-  
+    
 </tr>
 </table>
 
 `Purposive` is a 
 
-### <a name="Rep">`Yes`</a>: Yes
+### <a name="Yes">`Yes`</a>: Yes
 
 The purposive suffix _-wä_. 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” 
+ 
 
-### <a name="Rep">`Trans`</a>: Trans
+### <a name="Trans">`Trans`</a>: Trans
 
-The purposive suffix whic indicates the trasmission of _-iagu. 
+The purposive suffix whic indicates the trasmission of _-iagu_. 
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” 
+
 
 
 
@@ -43,4 +42,4 @@ The purposive suffix whic indicates the trasmission of _-iagu.
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:36 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:05 CET -->

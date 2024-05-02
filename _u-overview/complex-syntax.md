@@ -1,11 +1,13 @@
 ---
 layout: base
-title:  'Basic Dependencies: Complex Clauses'
+title:  'Complex Clauses'
 permalink: u/overview/complex-syntax.html
 udver: '2'
 ---
 
 # Complex Clauses
+
+This section of the [syntax overview](syntax.html) is devoted to complex clauses, namely:
 
 * [Coordinated clauses](#coordination)
 * [Subordinate clauses](#subordination)
@@ -15,7 +17,7 @@ udver: '2'
 ## Coordination
 
 Complex clauses involving coordination arise when two main clauses or two subordinate clauses at the same level are
-linked in a coordinate structure, which may or may not involve an overt coordinating conjunction. We treat coordinate structures asymmetrically by taking the first conjunct as the head with all other conjuncts attached to it via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the immediately following conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
+linked in a coordinate structure, which may or may not involve an overt coordinating conjunction. Coordinate structures are in principle symmetrical, but the first clause is by convention treated as the parent (or “technical head”) of all subsequent coordinated clauses via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the associated conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively.
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .
@@ -243,6 +245,18 @@ He was upset when I talked to him
 advcl(upset, talked)
 ~~~
 
+This relation is also used for optional depictives:
+
+~~~ sdparse
+She entered the room sad
+advcl(entered, sad)
+~~~
+
+~~~ sdparse
+He painted the model naked
+advcl(painted, naked)
+~~~
+
 ### Adnominal Clause Modifiers
 
 An adnominal clause modifier is a clause which modifies a nominal.
@@ -257,32 +271,18 @@ Cette affaire à suivre \n This case to follow
 acl(affaire, suivre)
 ~~~
 
-This relation is also used for optional depictives. The adjective is taken to modify the nominal of
-which it provides a secondary predication.
-
-~~~ sdparse
-She entered the room sad
-acl(She, sad)
-~~~
-
-~~~ sdparse
-He painted the model naked
-acl(model, naked)
-~~~
-
 A relative clause is a special type of adnominal clause, characterized by finiteness and usually omission of
-the modified noun in the embedded clause. Some languages use a language-particular subtype for
-the traditional class of relative clauses.
+the modified noun in the embedded clause. Some languages use the subtype [acl:relcl]() for relative clauses.
 
 ~~~ sdparse
 I saw the man you love
-acl(man, love)
+acl:relcl(man, love)
 ~~~
 
 Some languages allow finite clausal complements for nouns with
 a subset of nouns like *fact* or *report*. These look roughly like relative clauses, but do not have any
 omitted role in the dependent clause. This is the class of "content
-clauses" in Huddleston and Pullum 2002). These are also analyzed as `acl`.
+clauses" in Huddleston and Pullum (2002). These are also analyzed as `acl`.
 
 ~~~ sdparse
 the fact that nobody cares
@@ -411,7 +411,7 @@ xcomp(jmenovat, generálem)
 
 The relation `xcomp` is used for core arguments of clausal predicates,
 so it will not be used for some other instances of secondary predication.
-Optional depictives are analyzed as adjuncts, and made the [acl]() of the nominal that they semantically modify (if one is present).
+Optional depictives are analyzed as [advcl]() adjuncts.
 
 For instance, in _She entered the room sad_ we also have a double predication
 (she entered the room; she was sad).

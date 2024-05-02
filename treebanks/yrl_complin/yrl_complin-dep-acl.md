@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="yrl_complin-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-8 nodes (0%) are attached to their parents as `acl`.
+11 nodes (0%) are attached to their parents as `acl`.
 
-8 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+11 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.90909090909091.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (5; 63% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 25% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 13% instances).
+The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 18% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -54,21 +54,34 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 acl	color:blue
-1	Buburi	buburi	PROPN	PROPN	_	6	nsubj	_	SpaceAfter=No|TokenRange=0:6
-2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=6:7
-3	kirimbawa	kirimbawa	ADJ	A	_	1	acl	_	TokenRange=8:17
-4	piri	piri	ADV	ADVG	AdvType=Deg|Degree=Cmp	3	advmod	_	SpaceAfter=No|TokenRange=18:22
-5	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=22:23
-6	uwitá	witá	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=24:29
-7	amú	amú	DET	IND	Number=Sing|PronType=Ind	8	det	_	TokenRange=30:33
-8	ruaxara	suaxara	NOUN	N	Number=Sing|Rel=Cont	6	obl	_	TokenRange=34:41
-9	kití	kití	ADP	ADP	_	8	case	_	SpaceAfter=No|TokenRange=42:46
-10	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=46:47
+# visual-style 1 5 acl	color:blue
+1	Yandé	yandé	PRON	PRON	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=0:5
+2	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=5:6
+3	Kuse-itá	kuse-itá	PROPN	PROPN	_	1	nmod	_	SpaceAfter=No|TokenRange=7:15
+4	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=15:16
+5	tuixawa-itá	tuixawa	NOUN	N	Number=Plur|Rel=Abs	1	acl	_	TokenRange=17:28
+6	arama	arama	PART	FUT	Tense=Fut	5	advmod	_	SpaceAfter=No|TokenRange=29:34
+7	,	,	PUNCT	PUNCT	_	5	punct	_	TokenRange=34:35
+8	yayuri	yuri	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=36:42
+9	Makará	makará	PROPN	PROPN	_	10	nmod:poss	_	TokenRange=43:49
+10	kupé	kupé	NOUN	N	Number=Sing	8	obl	_	_
+11	pe	upé	ADP	ADP	Clitic=Yes	10	case	_	_
+12	,	,	PUNCT	PUNCT	_	19	punct	_	TokenRange=59:60
+13	Hinere-itá	hinere-itá	PROPN	PROPN	_	19	nsubj	_	SpaceAfter=No|TokenRange=61:71
+14	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=71:72
+15	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=73:77
+16	wiwa-itá	wiwa	NOUN	N	Number=Plur	13	acl	_	TokenRange=78:86
+17	arama	arama	PART	FUT	Tense=Fut	16	advmod	_	SpaceAfter=No|TokenRange=87:92
+18	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=92:93
+19	uri	yuri	VERB	V	Person=3|VerbForm=Fin	8	parataxis	_	TokenRange=94:97
+20	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=98:99
+21	marika	marika	NOUN	N	Number=Sing	19	obl	_	TokenRange=100:106
+22	rupí	rupí	ADP	ADP	_	21	case	_	SpaceAfter=No|TokenRange=107:111
+23	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=111:112
 
 ~~~
 

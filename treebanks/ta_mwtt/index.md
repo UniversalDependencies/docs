@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Sarveswaran Kengatharaiyer, Parameswari Krishnamurthy, Keerthana Balasubramani.
 
 Repository: [UD_Tamil-MWTT](https://github.com/UniversalDependencies/UD_Tamil-MWTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_mwtt212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_mwtt213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -183,7 +183,6 @@ Lehmann, T. (1993). A grammar of modern Tamil. Pondicherry Institute of Linguist
 <ul>
   <li>Com
     <ul>
-      <li>ADV: தானே</li>
       <li>AUX: வேண்டும், இருக்கிறார்கள், முடியும், வந்தார்கள், வரும், இருக்கிறார், இருக்கும், இருப்பார்கள், கூடும், போகும்</li>
       <li>NOUN: மாணவர்கள்</li>
       <li>PRON: நான், தன், தன்னை, நீ, என், எங்கள், என்னை, நீங்கள், அவர்கள், நாங்கள்</li>
@@ -196,7 +195,6 @@ Lehmann, T. (1993). A grammar of modern Tamil. Pondicherry Institute of Linguist
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: அழகியவள்</li>
       <li>PRON: அவள், இவள்</li>
       <li>VERB: இருக்கிறாள், பாடினாள், வெறுக்கிறாள்</li>
     </ul>
@@ -219,7 +217,6 @@ Lehmann, T. (1993). A grammar of modern Tamil. Pondicherry Institute of Linguist
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: நல்லது</li>
       <li>AUX: ஆயிற்று, முடிந்தது, இருக்கிறது, படுகிறது, போகிறது, வேண்டியது</li>
       <li>AUX-Fin: ஆயிற்று</li>
       <li>NOUN: கடிதம், கதவைத், நாய்கள், இட்லி, இட்லியைச், உடம்புக்கு, ஊருக்குப், கதவு, சாவி, சாவியால்</li>
@@ -268,7 +265,7 @@ Lehmann, T. (1993). A grammar of modern Tamil. Pondicherry Institute of Linguist
   <li>Sing
     <ul>
       <li>ADJ: அழகியவள், நல்லது</li>
-      <li>ADV: நேற்று, நாளைக்கு, வக்கீலாக, வக்கீலாய், அழகாய், தானே, வேகமாய், இன்றைக்கு, இப்போதே, கோபமாக</li>
+      <li>ADV: நேற்று, தானே, நாளைக்கு, வக்கீலாக, வக்கீலாய், அழகாய், வேகமாய், இன்றைக்கு, இப்போதே, கோபமாக</li>
       <li>AUX: இருக்கிறான், வேண்டும், விட்டான், வைத்தான், மாட்டேன், இருந்தான், இருப்பான், கொண்டான், பட்டான், மாட்டான்</li>
       <li>DET: இன்னொரு, அந்த</li>
       <li>NOUN: வீடு, பரிசு, வீட்டுக்கு, குழந்தைக்கு, மந்திரி, பையன், பணம், புத்தகம், பெண், மணிக்கு</li>

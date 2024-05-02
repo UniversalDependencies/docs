@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-26923 tokens (11%) have a non-empty value of `VerbForm`.
+26924 tokens (11%) have a non-empty value of `VerbForm`.
 4159 types (27%) occur at least once with a non-empty value of `VerbForm`.
 1072 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (20352; 8% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (6571; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (20353; 8% instances), <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> (6571; 3% instances).
 
 ### `VERB`
 
-20352 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+20353 <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (16106; 79%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13045; 64%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12960; 64%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12890; 63%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11573; 57%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10332; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="pt_petrogold-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (16107; 79%), <tt><a href="pt_petrogold-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13046; 64%), <tt><a href="pt_petrogold-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12961; 64%), <tt><a href="pt_petrogold-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12891; 63%), <tt><a href="pt_petrogold-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11573; 57%), <tt><a href="pt_petrogold-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10333; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (7393; 36% of non-empty `VerbForm`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
 * `Ger` (1561; 8% of non-empty `VerbForm`): <em>utilizando, podendo, formando, contendo, visando, apresentando, usando, permitindo, variando, reduzindo</em>
 * `Inf` (2560; 13% of non-empty `VerbForm`): <em>partir, observar, seguir, aumentar, obter, apresentar, ter, produzir, determinar, verificar</em>
-* `Part` (8838; 43% of non-empty `VerbForm`): <em>devido, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida, obtido, realizados</em>
+* `Part` (8839; 43% of non-empty `VerbForm`): <em>devido, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida, obtido, realizados</em>
 * `EMPTY` (6): <em>é, Dias-Brito, esperado, ilustrados</em>
 
 <table>
@@ -93,10 +93,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (905; 72%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (273; 51%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (34; 63%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (904; 72%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (273; 52%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (35; 64%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="pt_petrogold-dep-obl.html">obl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

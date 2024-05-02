@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Bamba Dione.
 
 Repository: [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,7 +72,7 @@ The treebank is developed by Cheikh Bamba Dione. The syntactic annotation was ch
 
 ## Relations
 
-[acl](wo_wtb-dep-acl.html) – [acl:relcl](wo_wtb-dep-acl-relcl.html) – [advcl](wo_wtb-dep-advcl.html) – [advmod](wo_wtb-dep-advmod.html) – [amod](wo_wtb-dep-amod.html) – [appos](wo_wtb-dep-appos.html) – [aux](wo_wtb-dep-aux.html) – [case](wo_wtb-dep-case.html) – [cc](wo_wtb-dep-cc.html) – [ccomp](wo_wtb-dep-ccomp.html) – [compound](wo_wtb-dep-compound.html) – [compound:prt](wo_wtb-dep-compound-prt.html) – [compound:svc](wo_wtb-dep-compound-svc.html) – [conj](wo_wtb-dep-conj.html) – [cop](wo_wtb-dep-cop.html) – [csubj](wo_wtb-dep-csubj.html) – [det](wo_wtb-dep-det.html) – [discourse](wo_wtb-dep-discourse.html) – [dislocated](wo_wtb-dep-dislocated.html) – [expl](wo_wtb-dep-expl.html) – [fixed](wo_wtb-dep-fixed.html) – [flat](wo_wtb-dep-flat.html) – [iobj](wo_wtb-dep-iobj.html) – [iobj:appl](wo_wtb-dep-iobj-appl.html) – [mark](wo_wtb-dep-mark.html) – [nmod](wo_wtb-dep-nmod.html) – [nmod:poss](wo_wtb-dep-nmod-poss.html) – [nsubj](wo_wtb-dep-nsubj.html) – [nummod](wo_wtb-dep-nummod.html) – [obj](wo_wtb-dep-obj.html) – [obj:appl](wo_wtb-dep-obj-appl.html) – [obj:caus](wo_wtb-dep-obj-caus.html) – [obl](wo_wtb-dep-obl.html) – [obl:appl](wo_wtb-dep-obl-appl.html) – [orphan](wo_wtb-dep-orphan.html) – [parataxis](wo_wtb-dep-parataxis.html) – [punct](wo_wtb-dep-punct.html) – [root](wo_wtb-dep-root.html) – [xcomp](wo_wtb-dep-xcomp.html)
+[acl](wo_wtb-dep-acl.html) – [acl:relcl](wo_wtb-dep-acl-relcl.html) – [advcl](wo_wtb-dep-advcl.html) – [advmod](wo_wtb-dep-advmod.html) – [amod](wo_wtb-dep-amod.html) – [appos](wo_wtb-dep-appos.html) – [aux](wo_wtb-dep-aux.html) – [case](wo_wtb-dep-case.html) – [cc](wo_wtb-dep-cc.html) – [ccomp](wo_wtb-dep-ccomp.html) – [compound](wo_wtb-dep-compound.html) – [compound:prt](wo_wtb-dep-compound-prt.html) – [compound:svc](wo_wtb-dep-compound-svc.html) – [conj](wo_wtb-dep-conj.html) – [cop](wo_wtb-dep-cop.html) – [csubj](wo_wtb-dep-csubj.html) – [csubj:outer](wo_wtb-dep-csubj-outer.html) – [det](wo_wtb-dep-det.html) – [discourse](wo_wtb-dep-discourse.html) – [dislocated](wo_wtb-dep-dislocated.html) – [expl](wo_wtb-dep-expl.html) – [fixed](wo_wtb-dep-fixed.html) – [flat](wo_wtb-dep-flat.html) – [iobj](wo_wtb-dep-iobj.html) – [iobj:appl](wo_wtb-dep-iobj-appl.html) – [mark](wo_wtb-dep-mark.html) – [nmod](wo_wtb-dep-nmod.html) – [nmod:poss](wo_wtb-dep-nmod-poss.html) – [nsubj](wo_wtb-dep-nsubj.html) – [nummod](wo_wtb-dep-nummod.html) – [obj](wo_wtb-dep-obj.html) – [obj:appl](wo_wtb-dep-obj-appl.html) – [obj:caus](wo_wtb-dep-obj-caus.html) – [obl](wo_wtb-dep-obl.html) – [obl:appl](wo_wtb-dep-obl-appl.html) – [orphan](wo_wtb-dep-orphan.html) – [parataxis](wo_wtb-dep-parataxis.html) – [punct](wo_wtb-dep-punct.html) – [root](wo_wtb-dep-root.html) – [xcomp](wo_wtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -860,6 +860,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>compound:svc</a>, <a>iobj:appl</a>, <a>nmod:poss</a>, <a>obj:appl</a>, <a>obj:caus</a>, <a>obl:appl</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>compound:svc</a>, <a>csubj:outer</a>, <a>iobj:appl</a>, <a>nmod:poss</a>, <a>obj:appl</a>, <a>obj:caus</a>, <a>obl:appl</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

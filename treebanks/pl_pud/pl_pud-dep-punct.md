@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2658 nodes (14%) are attached to their parents as `punct`.
+2654 nodes (14%) are attached to their parents as `punct`.
 
-1502 instances of `punct` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.62603461249059.
+1504 instances of `punct` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.63338357196684.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (1464; 55% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (467; 18% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (365; 14% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (151; 6% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (144; 5% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (21; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (1455; 55% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (570; 21% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (371; 14% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (156; 6% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (32; 1% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (17; 1% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="pl_pud-pos-PART.html">PART</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 8	–	–	PUNCT	interp	PunctType=Dash	12	punct	12:punct	_
 9	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	12	cop	12:cop	_
 10	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	12:aux	_
-11	właściwie	właściwie	ADV	adv:pos	Degree=Pos	12	advmod	12:advmod	_
+11	właściwie	właściwie	PART	part	_	12	advmod:emph	12:advmod:emph	_
 12	niewiarygodne	niewiarygodny	ADJ	adj:sg:nom:n:pos	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	12	punct	12:punct	_
 
@@ -40,13 +40,13 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 punct	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 punct	color:blue
 1	5	5	NUM	num:pl:nom:m3:congr	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
-2	tys	tysiąc	X	brev:pun	Abbr=Yes|Pun=Yes	1	flat	1:flat	SpaceAfter=No
+2	tys	tysiąc	NOUN	brev:pun	Abbr=Yes	1	flat	1:flat	SpaceAfter=No
 3	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 4	dolarów	dolar	NOUN	subst:pl:gen:m2	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	_
 5	na	na	ADP	prep:acc	AdpType=Prep	6	case	6:case	Case=Acc

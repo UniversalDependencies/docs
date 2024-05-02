@@ -9,16 +9,16 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-31 tokens (0%) have a non-empty value of `Typo`.
-29 types (1%) occur at least once with a non-empty value of `Typo`.
-29 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 9 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1; 0% instances).
+33 tokens (0%) have a non-empty value of `Typo`.
+30 types (1%) occur at least once with a non-empty value of `Typo`.
+30 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 9 part-of-speech tags: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `VERB`
 
 11 <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 73%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 73%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 73%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gentle-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9; 82%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 73%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 73%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 73%).
 
 `VERB` tokens may have the following values of `Typo`:
 
@@ -56,6 +56,16 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 * `Yes` (3; 100% of non-empty `Typo`): <em>justl, than, to</em>
 
+### `AUX`
+
+3 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3; 100%), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 67%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 67%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 67%).
+
+`AUX` tokens may have the following values of `Typo`:
+
+* `Yes` (3; 100% of non-empty `Typo`): <em>s, d</em>
+
 ### `NOUN`
 
 3 <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
@@ -75,16 +85,6 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 `ADJ` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>Africanner</em>
-
-### `AUX`
-
-1 <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gentle-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>d</em>
 
 ### `CCONJ`
 

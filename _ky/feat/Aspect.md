@@ -36,7 +36,7 @@ Action is in progress with respect to current or a reference time.
 * *ал үйүнө барат* 'she is going home (now)'
 * *ал үйгө бара жаткан* 'she was going home (when I saw her)'
 
-### <a name="Hab">`Hab`</a>: habitual aspect (**new proposal**)
+### <a name="Hab">`Hab`</a>: habitual aspect
 
 Verbal morphology in Kyrgyz may indicate an action that happens repeatedly at present or past.
 
@@ -46,4 +46,12 @@ _Күн сайын эртең менен 5 км чуркадым_ "I ran 5 km ev
 
 * *ал китептерди көп окуйт* 'she reads lots of books'
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:31 CEST -->
+### <a name="Imp">`Imp`</a>: imperfect aspect
+
+The imperfective marks an unbounded process or state, seen from the point of view of its unfolding and not as a bounded or completed event. It can be used in any temporal context, past, present or future.
+
+#### Examples
+
+Coming soon.
+
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:35 CET -->

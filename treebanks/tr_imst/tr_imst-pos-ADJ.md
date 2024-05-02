@@ -19,40 +19,40 @@ The 10 most frequent ambiguous types:  <em>var</em> (<tt><a href="tr_imst-pos-AD
 
 
 * <em>var</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 121: <em>Şimdi Allah'a şükür her mevsim <b>var</b> .</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 29: <em>Pamuğun <b>var</b> mı .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 121: <em>Heyecanlı ydı , çaresiz bir hali <b>var</b> dı .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 29: <em>Ne işin <b>var</b> kardeşim kız kurularıyla .</em>
 * <em>içinde</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 78: <em>Özer'lerin ? ithatpaşa'daki bahçe <b>içinde</b> ki evinde ydik .</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 6: <em>Bir yasaklamanın <b>içinde</b> ydik .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 4: <em>Acı <b>içinde</b> ydi .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 78: <em>Bir köle sinizdir artık o parkın <b>içinde</b> .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 6: <em>Korku <b>içinde</b> yim .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 4: <em>Kerem ter <b>içinde</b> ydi .</em>
 * <em>iyi</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 71: <em>Şu anda <b>iyi</b> bir işte çalışıyor .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 71: <em>Belki de ona karşı çok <b>iyi</b> olduğum için bıraktı beni .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>Akçaalan Mahallesinde ki ev <b>iyi</b> ydi hoş tu , ama hatta eş dost , hısım akraba hep orada ydı , ama devir değişiyordu .</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 1: <em>İyi , <b>iyi</b> yeter .</em>
 * <em>yok</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 64: <em>Tadı tuzu <b>yok</b> .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 45: <em>bir şey <b>yok</b> ki ! dedi adam .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 64: <em>Artık o parktan bir çıkış yolu <b>yok</b> tur .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 45: <em>Çiller , Karayalçın , Boyner de <b>yok</b> tu .</em>
 * <em>kadın</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 43: <em>Onun nasıl bir <b>kadın</b> olduğunu bilmiyor musun ?</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 43: <em>O kim ? Bir <b>kadın</b> , değil mi ? diye sordu İzzettin .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Hele bunlar erkek ve <b>kadın</b> sa ...</em>
 * <em>başka</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 37: <em>Onu elinden kaçırmış , bir <b>başka</b> erkeğe kaptırmıştı .</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 7: <em>Gece rüyamda bir melek gelip beni <b>başka</b> bir boyuta taşıdı .</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Uzatmaya , <b>başka</b> sözlerle tarif etmeye gerek yok .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 37: <em>Ne tuhaf , <b>başka</b> şeyler önem kazandı gibi ...</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 7: <em>Alaturkanın tadı da bir <b>başka</b> canım .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Evren denen bütünsel olgu içinde bir olay bir <b>başka</b> olayı izler .</em>
 * <em>bütün</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 31: <em>Kafalarında ki <b>bütün</b> soruların cevabı o dosyada yer alıyordu .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 31: <em>Gece zamanı , <b>bütün</b> dükkanlar kapı lı .</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 4: <em>Ama <b>bütün</b> gerçeklik - buna karşın - belli bir yere kadar dı ; başka bir yere gidildiğinde , gerçek olan şey , gerçek - olmayan a dönüşüyordu .</em>
 * <em>çok</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 121: <em>Oğlunun neden eroinman olduğunu anlayamaması <b>çok</b> doğal dı .</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>Orhan Zeynep hadi çabuk söyle <b>çok</b> merak ettim , dedi heyecanla .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 121: <em>Haber vermemesi <b>çok</b> tuhaf .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>Kokteyle CHP Genel Başkanı Deniz Baykal ile <b>çok</b> sayıda partili katıldı .</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 7: <em>Her iki olgu da , bilim için yeni bir başlangıçtan <b>çok</b> , bir dönemin kapanışına işaret etmektedir .</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Cumartesi geceleri <b>çok</b> kalabalık oluyormuş .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Ne kadar <b>çok</b> insan var değil mi ?</em>
 * <em>ilgili</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 37: <em>Sayın Erbakan'la <b>ilgili</b> söylediklerim , zaten geçmişten bu yana DHA ..</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 37: <em>Pantolon imalatıyla <b>ilgili</b> bütün tasarılar gerçek oldu .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>( on ) ; yalnızca , ev ile günlük yaşantı , hayat ilişkileriyle <b>ilgili</b> şeyler .</em>
 * <em>ilk</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>NA toplantılarında <b>ilk</b> kez başkalarına yöneldim .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 12: <em>Ben seni <b>ilk</b> gördüğümde öykünü merak ettim .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>Evet , <b>ilk</b> kocası .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 12: <em>Sanki <b>ilk</b> başta konuşmaya başlar benimle .</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 1: <em>Karşısına çıkan sese <b>ilk</b> sorduğu soru bu haberleri neye dayanarak yazdıkları ydı .</em>
 
 ## Morphology

@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “fajn”: <em>
 
 `INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="cs_cac-dep-root.html">root</a></tt> (7; 47% instances), <tt><a href="cs_cac-dep-conj.html">conj</a></tt> (2; 13% instances), <tt><a href="cs_cac-dep-dep.html">dep</a></tt> (2; 13% instances), <tt><a href="cs_cac-dep-discourse.html">discourse</a></tt> (2; 13% instances), <tt><a href="cs_cac-dep-nmod.html">nmod</a></tt> (1; 7% instances), <tt><a href="cs_cac-dep-obj.html">obj</a></tt> (1; 7% instances)
 
-Parents of `INTJ` nodes belong to 6 different parts of speech:  (7; 47% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 7% instances)
+Parents of `INTJ` nodes belong to 6 different parts of speech:  (7; 47% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (4; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-INTJ.html">INTJ</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 7% instances)
 
 4 (27%) `INTJ` nodes are leaves.
 

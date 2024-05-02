@@ -32,4 +32,4 @@ The new Pakistani general , he 's just been elected .
 dislocated(elected, general)
 nsubj(elected, he)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:13 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:52 CET -->

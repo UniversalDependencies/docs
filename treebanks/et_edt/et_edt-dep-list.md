@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `list`.
+11 nodes (0%) are attached to their parents as `list`.
 
-12 instances of `list` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.66666666666667.
+11 instances of `list` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.27272727272727.
 
-The following 6 pairs of parts of speech are connected with `list`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 58% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `list`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 64% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 9% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -93,28 +93,45 @@ The following 6 pairs of parts of speech are connected with `list`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 15 list	color:blue
-1	Ja	ja	CCONJ	J	_	2	cc	2:cc	_
-2	mõtlen	mõtlema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-3	,	,	PUNCT	Z	_	8	punct	8:punct	_
-4	et	et	SCONJ	J	_	8	mark	8:mark	_
-5	kui	kui	SCONJ	J	_	8	mark	8:mark	_
-6	käed	käsi	NOUN	S	Case=Nom|Number=Plur	8	obj	8:obj	_
-7	raudu	raud	NOUN	S	Case=Add|Number=Plur	8	obl	8:obl	_
-8	panevad	panema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	11:advcl	SpaceAfter=No
-9	,	,	PUNCT	Z	_	11	punct	11:punct	_
-10	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
-11	neil	tema	PRON	P	Case=Ade|Number=Plur|Person=3|PronType=Prs	2	ccomp	2:ccomp	_
-12	juba	juba	ADV	D	_	11	advmod	11:advmod	_
-13	2	2	NUM	N	NumForm=Digit|NumType=Card	16	nummod	16:nummod	SpaceAfter=No
-14	:	:	PUNCT	Z	_	15	punct	15:punct	_
-15	0	0	NUM	N	NumForm=Digit|NumType=Card	13	list	13:list	_
-16	edumaa	edu_maa	NOUN	S	Case=Nom|Number=Sing	11	nsubj:cop	11:nsubj	SpaceAfter=No
-17	.	.	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 27	bgColor:blue
+# visual-style 27	fgColor:white
+# visual-style 27 31 list	color:blue
+1	Kui	kui	SCONJ	J	_	8	mark	8:mark	_
+2	väiksema	väiksem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	3	amod	3:amod	_
+3	sissetulekuga	sisse_tulek	NOUN	S	Case=Com|Number=Sing	4	nmod	4:nmod	_
+4	elanike	elanik	NOUN	S	Case=Gen|Number=Plur	5	nmod	5:nmod	_
+5	sissetulekud	sisse_tulek	NOUN	S	Case=Nom|Number=Plur	8	nsubj:cop	8:nsubj	_
+6	oleksid	olema	AUX	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
+7	veidi	veidi	ADV	D	_	8	advmod	8:advmod	_
+8	suuremad	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	10	advcl	10:advcl	SpaceAfter=No
+9	,	,	PUNCT	Z	_	10	punct	10:punct	_
+10	kulutataks	kulutama	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+11	täiendav	täiendav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	12:acl	_
+12	sissetulek	sisse_tulek	NOUN	S	Case=Nom|Number=Sing	10	obj	10:obj	_
+13	tarbimisele	tarbimine	NOUN	S	Case=All|Number=Sing	10	obl	10:obl	SpaceAfter=No
+14	,	,	PUNCT	Z	_	23	punct	23:punct	_
+15	suurema	suurem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	16	amod	16:amod	_
+16	sissetulekuga	sisse_tulek	NOUN	S	Case=Com|Number=Sing	17	nmod	17:nmod	_
+17	elanike	elanik	NOUN	S	Case=Gen|Number=Plur	19	nmod	19:nmod	_
+18	täiendav	täiendav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	19:acl	_
+19	sissetulek	sisse_tulek	NOUN	S	Case=Nom|Number=Sing	23	obj	23:obj	_
+20	aga	aga	ADV	J	_	23	advmod	23:advmod	_
+21	suure	suur	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	22	amod	22:amod	_
+22	tõenäosusega	tõe_näosus	NOUN	S	Case=Com|Number=Sing	23	obl	23:obl	_
+23	säästetakse	säästma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	10	conj	0:root|10:conj	_
+24	(	(	PUNCT	Z	_	25	punct	25:punct	SpaceAfter=No
+25	Champernowne	Champernowne	PROPN	S	Case=Nom|Number=Sing	23	parataxis	23:parataxis	NE=B-Per
+26	ja	ja	CCONJ	J	_	27	cc	27:cc	_
+27	Cowell	Cowell	PROPN	S	Case=Nom|Number=Sing	25	conj	23:parataxis|25:conj	NE=B-Per|SpaceAfter=No
+28	,	,	PUNCT	Z	_	27	punct	27:punct	_
+29	1998	1998	NUM	N	NumForm=Digit|NumType=Card	27	parataxis	27:parataxis	SpaceAfter=No
+30	,	,	PUNCT	Z	_	27	punct	27:punct	_
+31	lk.	lk	NOUN	Y	Abbr=Yes	27	list	27:list	_
+32	15	15	NUM	N	NumForm=Digit|NumType=Card	31	nummod	31:nummod	SpaceAfter=No
+33	)	)	PUNCT	Z	_	25	punct	25:punct	SpaceAfter=No
+34	.	.	PUNCT	Z	_	10	punct	10:punct	_
 
 ~~~
 

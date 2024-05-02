@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-advcl.html">advcl</a></tt>.
 There are also 3 other language-specific subtypes of `advcl`: <tt><a href="la_udante-dep-advcl-abs.html">advcl:abs</a></tt>, <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>, <tt><a href="la_udante-dep-advcl-pred.html">advcl:pred</a></tt>.
 
-46 nodes (0%) are attached to their parents as `advcl:relcl`.
+101 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-27 instances of `advcl:relcl` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.39130434782609.
+59 instances of `advcl:relcl` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.2970297029703.
 
-The following 7 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (37; 80% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 18 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (55; 54% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (9; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9; 9% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (6; 6% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 6	,	,	PUNCT	Pu	_	5	punct	_	_
 7	adhuc	adhuc	ADV	r	AdvType=Tim|Compound=Yes	8	advmod:tmod	_	_
 8	restat	resto	VERB	va1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	inquirere	inquiro	VERB	va3fp	Aspect=Imp|VerbForm=Inf|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	inquirere	inquiro	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	in	in	ADP	e	_	11	case	_	_
 11	quod	qui	PRON	presna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	19	obl	_	SpaceAfter=No
 12	,	,	PUNCT	Pu	_	11	punct	_	_
@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 16	causam	causa	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	19	advcl:cmp	_	SpaceAfter=No
 17	,	,	PUNCT	Pu	_	16	punct	_	_
 18	habeat	habeo	VERB	va2cps3	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl:relcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-19	reduci	reduco	VERB	vp3fp	Aspect=Imp|VerbForm=Inf|Voice=Pass	18	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+19	reduci	reduco	VERB	vp3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	18	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 20	.	.	PUNCT	Pu	_	8	punct	_	_
 
 ~~~
@@ -95,45 +95,32 @@ The following 7 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 18 advcl:relcl	color:blue
-1	Ex	ex	ADP	e	_	4	case	_	_
-2	hac	hic	DET	dpfsb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	4	det	_	_
-3	itaque	itaque	PART	co	Form=Emp|PronType=Dem	6	discourse	_	_
-4	declaratione	declaratio	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	6	obl	_	_
-5	sic	sic	ADV	r	PronType=Dem	6	advmod	_	_
-6	arguatur	arguo	VERB	vp3cps3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-7	:	:	PUNCT	Pu	_	9	punct	_	_
-8	iustitia	iustitia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	9	nsubj	_	_
-9	potissima	potis	ADJ	afs2ns	Case=Nom|Degree=Abs|Gender=Fem|InflClass=IndEurI|Number=Sing	5	conj:expl	_	_
-10	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-11	in	in	ADP	e	_	12	case	_	_
-12	mundo	mundus	NOUN	sms2b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	9	obl	_	_
-13	quando	quando	ADV	r	AdvType=Tim|PronType=Rel	18	advmod:tmod	_	_
-14	volentissimo	uolo	VERB	ans2bs	Aspect=Imp|Case=Abl|Degree=Abs|Gender=Neut|InflClass=LatAnom|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Act	17	acl	_	TraditionalMood=Participium|TraditionalTense=Praesens
-15	et	et	CCONJ	co	_	16	cc	_	_
-16	potentissimo	possum	VERB	ans2sb	Aspect=Imp|Case=Abl|Degree=Abs|Gender=Neut|InflClass=LatAnom|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Act	14	conj	_	TraditionalMood=Participium|TraditionalTense=Praesens
-17	subiecto	subiectum	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	18	obl:lmod	_	_
-18	inest	insum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-19	;	;	PUNCT	Pu	_	22	punct	_	_
-20	huiusmodi	huiusmodi	DET	r	Compound=Yes|PronType=Dem	22	det	_	_
-21	solus	solus	DET	dpmsn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Con	22	det	_	_
-22	Monarcha	monarcha	NOUN	sms1n	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing	9	conj	_	_
-23	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-24	:	:	PUNCT	Pu	_	32	punct	_	_
-25	ergo	ergo	ADV	co	AdvType=Loc	32	discourse	_	_
-26	soli	solus	DET	dpmsd	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Con	27	det	_	_
-27	Monarche	monarcha	NOUN	sms1d	Case=Dat|Gender=Masc|InflClass=IndEurA|Number=Sing	28	obl	_	_
-28	insistens	insisto	VERB	va3ppsfn	Aspect=Imp|Case=Nom|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	29	acl	_	TraditionalMood=Participium|TraditionalTense=Praesens
-29	iustitia	iustitia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	32	nsubj	_	_
-30	in	in	ADP	e	_	31	case	_	_
-31	mundo	mundus	NOUN	sms2b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	32	obl	_	_
-32	potissima	potis	ADJ	afs2ns	Case=Nom|Degree=Abs|Gender=Fem|InflClass=IndEurI|Number=Sing	22	conj	_	_
-33	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-34	.	.	PUNCT	Pu	_	6	punct	_	_
+# visual-style 9 12 advcl:relcl	color:blue
+1	Ex	ex	ADP	e	_	2	case	_	_
+2	quo	qui	PRON	presnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	3	obl	_	_
+3	patet	pateo	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+4	quod	quod	SCONJ	cs	PronType=Rel	9	mark	_	_
+5	Imperator	imperator	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	nsubj	_	_
+6	ipsam	ipse	DET	ddesfa	Case=Acc|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	7	obl	_	_
+7	permutare	permuto	VERB	va1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	non	non	PART	r	Polarity=Neg	9	advmod:neg	_	_
+9	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+10	in	in	ADP	e	_	11	case	_	_
+11	quantum	quantus	DET	dinsna	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Rel	12	obl	_	_
+12	Imperator	imperator	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	advcl:relcl	_	SpaceAfter=No
+13	,	,	PUNCT	Pu	_	17	punct	_	_
+14	cum	cum	SCONJ	cs	PronType=Rel	17	mark	_	_
+15	ab	ab	ADP	e	_	16	case	_	_
+16	ea	is	PRON	ddesfb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+17	recipiat	recipio	VERB	va3cps3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+18	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	17	obj	_	TraditionalTense=Praesens
+19	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	18	acl:relcl	_	_
+20	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+21	.	.	PUNCT	Pu	_	3	punct	_	_
 
 ~~~
 

@@ -16,15 +16,15 @@ Family: Indo-European, Celtic
 
 This treebank has been part of Universal Dependencies since the UD v2.11 release.
 
-The following people have contributed to making this treebank part of UD: Kevin Scannell.
+The following people have contributed to making this treebank part of UD: Kevin Scannell, Theodorus Fransen.
 
 Repository: [UD_Irish-Cadhan](https://github.com/UniversalDependencies/UD_Irish-Cadhan)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_cadhan212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_cadhan213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: fiction, nonfiction, bible
+Genre: fiction, nonfiction, bible, poetry
 
 Questions, comments?
 General annotation questions (either Irish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).

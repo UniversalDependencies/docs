@@ -11,9 +11,9 @@ This relation is universal.
 6656 nodes (5%) are attached to their parents as `root`.
 
 6656 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.15354567307692.
+Average distance between parent and child is 6.15955528846154.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4775; 72% instances), -<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (992; 15% instances), -<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (524; 8% instances), -<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (142; 2% instances), -<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (91; 1% instances), -<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (82; 1% instances), -<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (26; 0% instances), -<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (8; 0% instances), -<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (8; 0% instances), -<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4774; 72% instances), -<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (992; 15% instances), -<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (524; 8% instances), -<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (141; 2% instances), -<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (91; 1% instances), -<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (82; 1% instances), -<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (26; 0% instances), -<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (8; 0% instances), -<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

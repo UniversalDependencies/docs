@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>s~</em> (<tt><a href="fr_rhapsodie-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.352226).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.352046).
 
 The 1st highest number of forms (1) was observed with the lemma “XXX”: <em>XXX</em>.
 
@@ -61,7 +61,13 @@ The 2nd highest number of forms (1) was observed with the lemma “a~”: <em>a~
 
 The 3rd highest number of forms (1) was observed with the lemma “b~”: <em>b~</em>.
 
-`X` does not occur with any features.
+`X` occurs with 1 features: <tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt> (10; 6% instances)
+
+`X` occurs with 3 feature-value pairs: `ExtPos=NOUN`, `ExtPos=PROPN`, `ExtPos=VERB`
+
+`X` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (152 tokens).
+Examples: <em>XXX, c~, s~, l~, a~, m~, d~, de~, f~, p~</em>
 
 
 ## Relations

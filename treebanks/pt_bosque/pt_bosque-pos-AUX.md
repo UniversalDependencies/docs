@@ -69,24 +69,24 @@ The 2nd highest number of forms (25) was observed with the lemma “estar”: <e
 
 The 3rd highest number of forms (24) was observed with the lemma “ter”: <em>tem, temos, tendo, tenha, tenham, tenhamos, tenho, ter, terem, teremos, teria, teriam, terá, terão, teve, tinha, tinham, tive, tiveram, tivesse, tivessem, tê, têm, tínhamos</em>.
 
-`AUX` occurs with 8 features: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt> (4988; 99% instances), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt> (4210; 84% instances), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt> (4197; 83% instances), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt> (4110; 82% instances), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt> (3900; 78% instances), <tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt> (35; 1% instances), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt> (9; 0% instances), <tt><a href="pt_bosque-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`AUX` occurs with 8 features: <tt><a href="pt_bosque-feat-VerbForm.html">VerbForm</a></tt> (4990; 99% instances), <tt><a href="pt_bosque-feat-Number.html">Number</a></tt> (4212; 84% instances), <tt><a href="pt_bosque-feat-Person.html">Person</a></tt> (4199; 84% instances), <tt><a href="pt_bosque-feat-Mood.html">Mood</a></tt> (4112; 82% instances), <tt><a href="pt_bosque-feat-Tense.html">Tense</a></tt> (3902; 78% instances), <tt><a href="pt_bosque-feat-ExtPos.html">ExtPos</a></tt> (33; 1% instances), <tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt> (9; 0% instances), <tt><a href="pt_bosque-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `AUX` occurs with 22 feature-value pairs: `ExtPos=AUX`, `ExtPos=INTJ`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
 `AUX` occurs with 48 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (1687 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (1689 tokens).
 Examples: <em>é, está, vai, tem, há, tá, eis, Sou</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (2749; 55% instances), <tt><a href="pt_bosque-dep-aux-pass.html">aux:pass</a></tt> (1210; 24% instances), <tt><a href="pt_bosque-dep-aux.html">aux</a></tt> (1019; 20% instances), <tt><a href="pt_bosque-dep-discourse.html">discourse</a></tt> (36; 1% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="pt_bosque-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="pt_bosque-dep-cop.html">cop</a></tt> (2751; 55% instances), <tt><a href="pt_bosque-dep-aux-pass.html">aux:pass</a></tt> (1210; 24% instances), <tt><a href="pt_bosque-dep-aux.html">aux</a></tt> (1019; 20% instances), <tt><a href="pt_bosque-dep-discourse.html">discourse</a></tt> (34; 1% instances), <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="pt_bosque-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="pt_bosque-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (2324; 46% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1174; 23% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1090; 22% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (185; 4% instances), <tt><a href="pt_bosque-pos-PROPN.html">PROPN</a></tt> (93; 2% instances), <tt><a href="pt_bosque-pos-NUM.html">NUM</a></tt> (65; 1% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (52; 1% instances), <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> (28; 1% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="pt_bosque-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-X.html">X</a></tt> (2; 0% instances)
 
-4974 (99%) `AUX` nodes are leaves.
+4976 (99%) `AUX` nodes are leaves.
 
-47 (1%) `AUX` nodes have one child.
+45 (1%) `AUX` nodes have one child.
 
 3 (0%) `AUX` nodes have two children.
 
@@ -94,7 +94,7 @@ Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="pt_b
 
 The highest child degree of a `AUX` node is 7.
 
-Children of `AUX` nodes are attached using 9 different relations: <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (38; 58% instances), <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (8; 12% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (5; 8% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (4; 6% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (3; 5% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="pt_bosque-dep-acl.html">acl</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 9 different relations: <tt><a href="pt_bosque-dep-fixed.html">fixed</a></tt> (36; 56% instances), <tt><a href="pt_bosque-dep-punct.html">punct</a></tt> (8; 13% instances), <tt><a href="pt_bosque-dep-conj.html">conj</a></tt> (5; 8% instances), <tt><a href="pt_bosque-dep-advmod.html">advmod</a></tt> (4; 6% instances), <tt><a href="pt_bosque-dep-mark.html">mark</a></tt> (3; 5% instances), <tt><a href="pt_bosque-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="pt_bosque-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="pt_bosque-dep-nsubj.html">nsubj</a></tt> (2; 3% instances), <tt><a href="pt_bosque-dep-acl.html">acl</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (39; 59% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (8; 12% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt> (37; 58% instances), <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> (8; 13% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="pt_bosque-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 2% instances)
 

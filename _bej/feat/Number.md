@@ -16,6 +16,13 @@ udver: '2'
 `Number` is usually an inflectional feature of [nouns](pos/NOUN) and other parts of speech ([pronouns](u-pos/PRON),
 [adposition](pos/ADJ), [determiners](pos/DET), [verbs](pos/VERB) and cases markers) that mark agreement with nouns.
 
+### <a name="Coll">`Coll`</a>: collective number
+
+A noun denotes a set of objects.
+
+#### Examples
+- _dhaj_ "people"
+
 ### <a name="Sing">`Sing`</a>: singular number
 
 A singular noun denotes one person, animal or thing.
@@ -29,4 +36,4 @@ A plural noun denotes several persons, animals or things.
 
 #### Examples
 - _jhalaka_ "clothes"
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:41 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:53 CET -->

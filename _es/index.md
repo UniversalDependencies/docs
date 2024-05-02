@@ -147,6 +147,13 @@ This is an overview only. For more detailed discussion and examples, see the lis
   marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
   and the relation [iobj]() has no use in Spanish. To distinguish them from temporal and local adjuncts, we
   use the relation [obl:arg]() for the recipients.
+  * Under certain circumstances, the dative pronoun _le_ may be used instead of the accusative pronoun _lo_
+    to denote the direct object. This is called _leísmo_ ([Erichsen, Gerald. "Leísmo and the Use of 'Le' in Spanish."
+    ThoughtCo, Apr. 5, 2023](https://www.thoughtco.com/leismo-and-related-variations-3079360)). The UD annotation
+    does not distinguish these cases from the standard usage of dative pronouns. They are still tagged as
+    `Case=Dat` and their dependency is `obl:arg`, not `obj`, despite the fact that _leísmo_ can occur also with
+    primary transitive verbs (e.g. in Spanish PUD: _la Revolución <b>le</b> derrocó en 1879_ “the Revolution overthrew
+    him in 1879”).
 
 ~~~conllu
 # text = Jorge mató al dragón.

@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (4%) are attached to their parents as `mark`.
+14 nodes (3%) are attached to their parents as `mark`.
 
 14 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.78571428571429.

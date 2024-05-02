@@ -62,12 +62,12 @@ The 2nd highest number of forms (2) was observed with the lemma “//”: <em>//
 
 The 3rd highest number of forms (2) was observed with the lemma “>”: <em><, ></em>.
 
-`X` occurs with 6 features: <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-feat-NumType.html">NumType</a></tt> (1; 0% instances)
+`X` occurs with 7 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-feat-NumType.html">NumType</a></tt> (1; 0% instances)
 
-`X` occurs with 9 feature-value pairs: `Case=Nom`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PartType=Cop`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Prs`
+`X` occurs with 11 feature-value pairs: `Case=Nom`, `ExtPos=ADV`, `ExtPos=PROPN`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PartType=Cop`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Prs`
 
-`X` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (40227 tokens).
+`X` occurs with 9 feature combinations.
+The most frequent feature combination is `_` (40220 tokens).
 Examples: <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 

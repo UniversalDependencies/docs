@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `ADP`
 
 There are 2 `ADP` lemmas (1%), 2 `ADP` types (1%) and 3 `ADP` tokens (0%).
-Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>ĩkapanhi, atuku</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.228873).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.231034).
 
 The 1st highest number of forms (1) was observed with the lemma “atuku”: <em>atuku</em>.
 

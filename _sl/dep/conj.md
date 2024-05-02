@@ -57,7 +57,7 @@ Kaldenove oči so se jezno zožile , vendar je spregovoril z mirnim glasom . \n 
 conj(zožile,spregovoril)
 cc(spregovoril,vendar)
 conj(contracted,he-spoke)
-cc(spoke,but)
+cc(he-spoke,but)
 ~~~
 ~~~ sdparse
 Prvenstvo bo zelo izenačeno , saj lahkega tekmeca tokrat ne bo . \n Competition will-be very close , since easy opponent this-time not will-be .
@@ -65,8 +65,8 @@ conj(izenačeno,bo-11)
 cc(bo-11,saj)
 cop(izenačeno,bo-2)
 conj(close,will-be-24)
-cc(will-be,since)
-cop(close,will-be-14)
+cc(will-be-24,since)
+cop(close,will-be-15)
 ~~~
 ~~~ sdparse
 Ko si enkrat na vrhu in se poškoduješ , se je težko vrniti . \n When you-are once on top and REFLEX you-injure , REFLEX is hard to-get-back . 
@@ -75,4 +75,29 @@ cc(poškoduješ,in)
 conj(you-are,you-injure)
 cc(you-injure,and)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:07 CEST -->
+
+By agreement, the `conj` relation is also used for general extenders, such as _in tako naprej_ 'and so forth', and their abbreviations, such as _itd._ 'etc.'. The expressions _in tako dalje_ 'and so forth' and _in tako naprej_ 'and so on' are analyzed as [fixed](https://universaldependencies.org/sl/dep/fixed.html) multi-word expressions.
+
+~~~ sdparse
+preveč organske snovi pomeni gnitje , slabše prezimovanje in podobno \n Too-much organic matter means rotting , poor overwintering , and similar .
+conj(gnitje,prezimovanje)
+conj(gnitje,podobno)
+cc(podobno,in)
+conj(rotting,overwintering)
+conj(rotting,similar)
+cc(similar,and)
+~~~
+~~~ sdparse
+že se pripravljamo na pust , veliko noč in tako dalje \n Already REFLEX we-prepare for Carnival , Easter , and so on .
+conj(pust,noč)
+conj(pust,in)
+fixed(in,tako)
+fixed(and,on)
+conj(Carnival,Easter)
+conj(Carnival,and)
+fixed(and,so)
+fixed(and,on)
+~~~
+
+
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:41 CET -->

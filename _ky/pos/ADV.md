@@ -14,8 +14,8 @@ They may also modify other adverbs and nouns (see examples below).
 - _<b>жалгыз</b> жүрдү_ "he/she has walked <b>alone</b>"
 - _үйүнө <b>чейин</b> жеткирди_ "delivered  <b>to</b> his home"
 электр жарыгы убактылуу өчүрүлөт
-- _электр жарыгы<b>убактылуу</b> өчүрүлөт_ "the electricity will be <b>temporarily </b> turned off "
+- _электр жарыгы <b>убактылуу</b> өчүрүлөт_ "the electricity will be <b>temporarily </b> turned off "
 
 
 
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:23 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:22 CET -->

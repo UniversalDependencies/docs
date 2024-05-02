@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 3	parlamentarnych	parlamentarny	ADJ	adj:pl:gen:n:pos	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	2	amod	2:amod	_
 4	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	6	case	6:case	Case=Loc
 5	2010	2010	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	6	amod:flat	6:amod:flat	_
-6	r	rok	X	brev:pun	Abbr=Yes|Pun=Yes	10	obl	10:obl	SpaceAfter=No
+6	r	rok	NOUN	brev:pun	Abbr=Yes	10	obl	10:obl	SpaceAfter=No
 7	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
 8	Partii	partia	NOUN	subst:sg:dat:f	Case=Dat|Gender=Fem|Number=Sing	10	iobj	10:iobj	_
 9	Pracy	praca	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	nmod:flat	8:nmod:flat	_

@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_rhapsodie-p
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 16.000000 (the average of all parts of speech is 1.352226).
+The form / lemma ratio of `AUX` is 16.000000 (the average of all parts of speech is 1.352046).
 
 The 1st highest number of forms (25) was observed with the lemma “être”: <em>es, est, fut, sera, serai, serais, serait, seras, serons, soient, sois, soit, sommes, sont, soyez, suis, étaient, étais, était, étant, étiez, étions, été, êtes, être</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (18) was observed with the lemma “avoir”: <e
 
 The 3rd highest number of forms (5) was observed with the lemma “faire”: <em>faire, fais, faisant, fait, font</em>.
 
-`AUX` occurs with 6 features: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt> (1642; 100% instances), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt> (1574; 96% instances), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt> (1569; 96% instances), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt> (1525; 93% instances), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt> (1525; 93% instances), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt> (44; 3% instances)
+`AUX` occurs with 7 features: <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt> (1642; 100% instances), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt> (1574; 96% instances), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt> (1569; 96% instances), <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt> (1525; 93% instances), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt> (1525; 93% instances), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt> (44; 3% instances), <tt><a href="fr_rhapsodie-feat-ExtPos.html">ExtPos</a></tt> (4; 0% instances)
 
-`AUX` occurs with 17 feature-value pairs: `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 18 feature-value pairs: `ExtPos=NOUN`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 27 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (916 tokens).
+`AUX` occurs with 30 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (914 tokens).
 Examples: <em>est, a, fait</em>
 
 

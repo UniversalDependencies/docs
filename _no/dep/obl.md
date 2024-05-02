@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'oblique'
+title: 'obl'
 shortdef: 'oblique nominal'
 udver: '2'
 ---
@@ -22,4 +22,4 @@ Stortinget ble mandag kveld enige \n Government agreed Monday evening
 nmod(ble-2,mandag-3)
 nmod(mandag-3,kveld-4)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:04:27 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:16 CET -->

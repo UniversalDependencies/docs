@@ -19,12 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: İbrahim Benli.
 
 Repository: [UD_Kyrgyz-KTMU](https://github.com/UniversalDependencies/UD_Kyrgyz-KTMU)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_ktmu212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_ktmu213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
-Genre: nonfiction, news
+Genre: news, fiction
 
 Questions, comments?
 General annotation questions (either Kyrgyz-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -41,14 +41,15 @@ Development of the treebank happens directly in the UD repository, so you may su
 | Relations | annotated manually, natively in UD style |
 
 ## Description
-UD_Kyrgyz-KTMU is dependency parsing based treebank in Kyrgyz language. Sentences were selected from Kyrgyz story and novel books, most of which were news headlines from Kyrgyz news websites.
+UD_Kyrgyz-KTMU is dependency parsing based treebank in Kyrgyz language. Sentences were selected
+partly from Kyrgyz story and novel books, partly from Kyrgyz news websites.
 
 
-The treebank consists of 6400 sentences (7.4K tokens) for now and its domain is mainly news headlines. Kyrgyz UD treebank follows the Universal Dependencies (UD) annotation standard.
+The treebank consists of 781 sentences (7.4K tokens) for now and its domain is mainly news headlines.
+Kyrgyz UD treebank follows the Universal Dependencies (UD) annotation standard.
 
 ## Acknowledgments
 We would like to thank all the people who contributed to this corpus: Assoc.Prof.Dr. Bakit Sharshembaev
-
 
 
 # Statistics of UD Kyrgyz KTMU

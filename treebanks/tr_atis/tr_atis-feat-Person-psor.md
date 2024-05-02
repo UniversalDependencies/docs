@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_atis-feat-Person.html">Person</a></tt>, <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt>.
 
-5782 tokens (13%) have a non-empty value of `Person[psor]`.
-400 types (20%) occur at least once with a non-empty value of `Person[psor]`.
-149 lemmas (16%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (5751; 13% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (31; 0% instances).
+5787 tokens (13%) have a non-empty value of `Person[psor]`.
+403 types (20%) occur at least once with a non-empty value of `Person[psor]`.
+151 lemmas (16%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (5756; 13% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (31; 0% instances).
 
 ### `NOUN`
 
-5751 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+5756 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_atis-feat-Person.html">Person</a></tt><tt>=3</tt> (5751; 100%), <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (5543; 96%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4041; 70%), <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3364; 58%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_atis-feat-Person.html">Person</a></tt><tt>=3</tt> (5756; 100%), <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (5544; 96%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4045; 70%), <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3366; 58%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>uçuşuna, ucuna, uçuşu</em></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>uçuşlarına</em></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>uçabilmemin</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>uçuşunun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>uçuşunun, uçmanın</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>uçuşunun</em></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>uçuşunuzun</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>uçuşlarının</em></td></tr>
@@ -85,6 +85,6 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="tr_atis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (55; 64%),
-<tt>NOUN --[<tt><a href="tr_atis-dep-list.html">list</a></tt>]--> NOUN</tt> (5; 100%).
+<tt>NOUN --[<tt><a href="tr_atis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (56; 64%),
+<tt>NOUN --[<tt><a href="tr_atis-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (4; 80%).
 

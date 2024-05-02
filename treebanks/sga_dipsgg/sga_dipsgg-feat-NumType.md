@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-2 tokens (1%) have a non-empty value of `NumType`.
+2 tokens (0%) have a non-empty value of `NumType`.
 2 types (1%) occur at least once with a non-empty value of `NumType`.
 2 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NUM.html">NUM</a></tt> (2; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `NUM`
 

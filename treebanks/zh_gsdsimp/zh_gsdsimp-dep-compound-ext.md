@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `compound:ext`: <tt>
 15	地区	地区	NOUN	NN	_	17	nmod	_	SpaceAfter=No|Translit=deqū|LTranslit=deqū
 16	的	的	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No|Translit=jiāoliú|LTranslit=jiāoliú
-18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No|Translit=cái|LTranslit=cái
+18	才	才	SCONJ	RB	_	19	mark	_	SpaceAfter=No|Translit=cái|LTranslit=cái
 19	开始	开始	VERB	VV	_	7	parataxis	_	SpaceAfter=No|Translit=kāishǐ|LTranslit=kāishǐ
 20	变	变	VERB	VV	_	19	xcomp	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
 21	得	得	PART	DEV	_	20	compound:ext	_	SpaceAfter=No|Translit=de|LTranslit=de
@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `compound:ext`: <tt>
 3	和	和	CCONJ	CC	_	4	cc	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 4	奥地利	奥地利	PROPN	NNP	_	2	conj	_	SpaceAfter=No|Translit='àodelì|LTranslit='àodelì
 5	新	新	ADJ	JJ	_	8	amod	_	SpaceAfter=No|Translit=xīn|LTranslit=xīn
-6	的	的	PART	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+6	的	的	SCONJ	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 7	齿轨	齿轨	NOUN	NN	_	8	nmod	_	SpaceAfter=No|Translit=chǐguǐ|LTranslit=chǐguǐ
 8	铁路	铁路	NOUN	NN	_	9	nsubj	_	SpaceAfter=No|Translit=tiělù|LTranslit=tiělù
 9	使用	使用	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shǐyòng|LTranslit=shǐyòng
@@ -74,10 +74,10 @@ The following 2 pairs of parts of speech are connected with `compound:ext`: <tt>
 17	机	机	PART	SFN	_	19	nsubj	_	SpaceAfter=No|Translit=jī|LTranslit=jī
 18	只	只	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=zhǐ|LTranslit=zhǐ
 19	需要	需要	VERB	VV	_	9	parataxis	_	SpaceAfter=No|Translit=xūyào|LTranslit=xūyào
-20	一	一	NUM	CD	NumType=Card	21	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-21	个	个	NOUN	NNB	_	22	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+20	一	一	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+21	个	个	NOUN	NNB	_	20	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 22	人	人	NOUN	NN	_	24	nsubj	_	SpaceAfter=No|Translit=rén|LTranslit=rén
-23	来	来	ADV	RB	_	24	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
+23	来	来	SCONJ	RB	_	24	mark	_	SpaceAfter=No|Translit=lái|LTranslit=lái
 24	运行	运行	VERB	VV	_	19	ccomp	_	SpaceAfter=No|Translit=yùnxíng|LTranslit=yùnxíng
 25	，	，	PUNCT	,	_	32	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
 26	比起	比起	ADP	IN	_	30	case	_	SpaceAfter=No|Translit=bǐqǐ|LTranslit=bǐqǐ

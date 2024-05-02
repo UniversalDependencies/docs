@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 1	En	en	ADP	IN	_	2	case	_	_
 2	julio	julio	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	1918	1918	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+4	1918	1918	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
@@ -80,12 +80,12 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 25	los	el	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
 26	inversores	_	NOUN	NN	Gender=Masc|Number=Plur	27	nsubj	_	_
 27	depositaron	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
-28	2	2	NUM	CD	Gender=Masc|NumType=Card	29	nummod	_	_
-29	mil	mil	NUM	CD	Gender=Masc|NumType=Card	30	nummod	_	_
+28	2	2	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	29	nummod	_	_
+29	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	30	nummod	_	_
 30	millones	_	NOUN	NN	Gender=Masc|Number=Plur	27	obj	_	_
 31	y	y	CCONJ	CC	_	34	cc	_	_
-32	1,4	1,4	NUM	CD	Gender=Masc|NumType=Card	33	nummod	_	_
-33	mil	mil	NUM	CD	Gender=Masc|NumType=Card	34	nummod	_	_
+32	1,4	1,4	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	33	nummod	_	_
+33	mil	mil	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	34	nummod	_	_
 34	millones	_	NOUN	NN	Gender=Masc|Number=Plur	30	conj	_	_
 35	de	de	ADP	IN	_	36	case	_	_
 36	libras	_	NOUN	NN	Gender=Fem|Number=Plur	34	nmod	_	_
@@ -104,7 +104,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 1	En	en	ADP	IN	_	2	case	_	_
 2	enero	enero	NOUN	NN	Gender=Masc|Number=Sing	9	obl	_	_
 3	de	de	ADP	IN	_	4	case	_	_
-4	2011	2011	NUM	CD	Gender=Masc|NumType=Card	2	nmod	_	SpaceAfter=No
+4	2011	2011	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	Blunt	Blunt	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	comenzó	comenzar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -143,7 +143,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 40	en	en	ADP	IN	_	41	case	_	_
 41	septiembre	septiembre	NOUN	NN	Gender=Masc|Number=Sing	39	obl	_	_
 42	de	de	ADP	IN	_	43	case	_	_
-43	2012	2012	NUM	CD	Gender=Masc|NumType=Card	41	nmod	_	SpaceAfter=No
+43	2012	2012	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	41	nmod	_	SpaceAfter=No
 44	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~

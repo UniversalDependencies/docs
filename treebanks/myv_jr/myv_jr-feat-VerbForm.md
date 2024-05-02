@@ -10,26 +10,26 @@ This feature is universal but the values `Conv`, `NomAg`, `Vnoun` are language-s
 It occurs with 5 different values: `Conv`, `Inf`, `NomAg`, `Part`, `Vnoun`.
 Some words have combined values of the feature; 1 combinations have been observed: `Conv|Part`.
 
-984 tokens (5%) have a non-empty value of `VerbForm`.
-714 types (11%) occur at least once with a non-empty value of `VerbForm`.
-426 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (925; 5% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (45; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (14; 0% instances).
+992 tokens (5%) have a non-empty value of `VerbForm`.
+720 types (11%) occur at least once with a non-empty value of `VerbForm`.
+428 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (933; 5% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (45; 0% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (14; 0% instances).
 
 ### `VERB`
 
-925 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+933 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (924; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (924; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (918; 99%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (897; 97%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (896; 97%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (797; 86%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (932; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (932; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (926; 99%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (905; 97%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (904; 97%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (805; 86%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (279; 30% of non-empty `VerbForm`): <em>чиезь, пелезь, ютазь, капшазь, оршазь, пурнавозь, чатьмонезь, аштезь, кадовозь, каразь</em>
 * `Conv,Part` (21; 2% of non-empty `VerbForm`): <em>ваязь, вешезь, кепедевезь, ливтязь, сундерьгадозь, уцорязь, эждязь, ютазь, Кортазь, Музгордезь</em>
-* `Inf` (437; 47% of non-empty `VerbForm`): <em>теемс, молемс, ваномс, капшамс, кортамо, лисемс, меремс, туемс, валомс, кекшемс</em>
+* `Inf` (443; 47% of non-empty `VerbForm`): <em>теемс, молемс, ваномс, капшамс, кортамо, лисемс, меремс, туемс, валомс, кекшемс</em>
 * `NomAg` (4; 0% of non-empty `VerbForm`): <em>миледицятнень, молицятнень, чарыцятнеяк, якицятне</em>
 * `Part` (105; 11% of non-empty `VerbForm`): <em>сэредиця, вечкевикс, касыця, молиця, аштиця, валгиця, вастневиця, кумболдыця, менчевиця, сыцятнень</em>
-* `Vnoun` (79; 9% of non-empty `VerbForm`): <em>Ярсамодо, вечкема, Ацирьгадоманть, Мадемадо, Нуема, Пейдемат, Чачома, аштемстэ, валаськавтомадо, вастнематне</em>
-* `EMPTY` (2768): <em>мерсь, лиссь, мольсь, ютась, ашти, неяви, совась, маряви, сась, ваны</em>
+* `Vnoun` (81; 9% of non-empty `VerbForm`): <em>Ярсамодо, вечкема, Ацирьгадоманть, Мадемадо, Нуема, Пейдемат, Чачома, аштемстэ, валаськавтомадо, вастнематне</em>
+* `EMPTY` (2795): <em>мерсь, лиссь, мольсь, ютась, ашти, неяви, совась, маряви, саизе, сась</em>
 
 <table>
   <tr><th>Paradigm <i>молемс</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>NomAg</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Conv,Part` (41; 91% of non-empty `VerbForm`): <em>апак</em>
 * `Inf` (4; 9% of non-empty `VerbForm`): <em>улемс, улеме</em>
-* `EMPTY` (746): <em>а, аволь, эзь, кармась, ульнесь, кармасть, иля, эряви, ули, кадык</em>
+* `EMPTY` (754): <em>а, аволь, эзь, кармась, ульнесь, кармасть, иля, эряви, ули, бу</em>
 
 ### `NOUN`
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 * `NomAg` (8; 57% of non-empty `VerbForm`): <em>моравтыцятне, азгондицят, ардыцятне, сёрмадыцятне, эрицятне, эрицятнеде</em>
 * `Vnoun` (6; 43% of non-empty `VerbForm`): <em>Удомань, коцькерямонть, сиземань, туемадо, удомазо, ёртнема</em>
-* `EMPTY` (5049): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5078): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 

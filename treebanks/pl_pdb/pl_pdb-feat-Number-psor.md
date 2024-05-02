@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pdb-pos-DET.html
 
 942 <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (942; 100%), <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (942; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (942; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=1</tt> (795; 84%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (693; 74%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (526; 56%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="pl_pdb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (942; 100%), <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (942; 100%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=1</tt> (795; 84%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (693; 74%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (526; 56%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

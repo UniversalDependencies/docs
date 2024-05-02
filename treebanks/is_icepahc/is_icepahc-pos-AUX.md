@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>var</em> (<tt><a href="is_icepahc-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 23.636364 (the average of all parts of speech is 1.839603).
+The form / lemma ratio of `AUX` is 23.636364 (the average of all parts of speech is 1.842490).
 
 The 1st highest number of forms (53) was observed with the lemma “vera”: <em>Váru, em, emk, en, er, ert, eru, erum, eruð, es, ru, sjá, sják, sé, séim, séið, sém, sénu, sér, sért, sérð, séu, séum, séuð, séð, var, varr, varst, vart, veit, ver, vera, verandi, veri, verir, verið, vert, verum, voru, vorum, vorust, voruð, várust, væra, væri, værim, værir, værið, væru, værum, væruð, vóru, vórum</em>.
 
@@ -72,11 +72,11 @@ The 2nd highest number of forms (42) was observed with the lemma “hafa”: <em
 
 The 3rd highest number of forms (31) was observed with the lemma “munu”: <em>man, mun, muna, munda, mundi, mundir, mundu, mundum, munduð, muni, munir, munið, munt, muntu, munu, munum, munuð, mynda, myndi, myndim, myndir, myndu, myndum, mynduð, myni, mynim, mynir, mynið, mǿndi, mȯn, mndi</em>.
 
-`AUX` occurs with 12 features: <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt> (49760; 97% instances), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt> (49754; 97% instances), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt> (45553; 89% instances), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt> (44612; 87% instances), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt> (44606; 87% instances), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt> (44577; 87% instances), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt> (976; 2% instances), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt> (976; 2% instances), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt> (833; 2% instances), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt> (116; 0% instances), <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt> (27; 0% instances), <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt> (18; 0% instances)
+`AUX` occurs with 12 features: <tt><a href="is_icepahc-feat-VerbForm.html">VerbForm</a></tt> (49772; 97% instances), <tt><a href="is_icepahc-feat-Voice.html">Voice</a></tt> (49766; 97% instances), <tt><a href="is_icepahc-feat-Number.html">Number</a></tt> (45555; 89% instances), <tt><a href="is_icepahc-feat-Mood.html">Mood</a></tt> (44624; 87% instances), <tt><a href="is_icepahc-feat-Tense.html">Tense</a></tt> (44618; 87% instances), <tt><a href="is_icepahc-feat-Person.html">Person</a></tt> (44589; 87% instances), <tt><a href="is_icepahc-feat-Case.html">Case</a></tt> (966; 2% instances), <tt><a href="is_icepahc-feat-Gender.html">Gender</a></tt> (966; 2% instances), <tt><a href="is_icepahc-feat-Definite.html">Definite</a></tt> (823; 2% instances), <tt><a href="is_icepahc-feat-Degree.html">Degree</a></tt> (114; 0% instances), <tt><a href="is_icepahc-feat-Foreign.html">Foreign</a></tt> (27; 0% instances), <tt><a href="is_icepahc-feat-PronType.html">PronType</a></tt> (18; 0% instances)
 
 `AUX` occurs with 33 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`, `Voice=Mid`
 
-`AUX` occurs with 118 feature combinations.
+`AUX` occurs with 117 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act` (13389 tokens).
 Examples: <em>var, hafði, vildi, mátti, gat, varð, mundi, fékk, mætti, skildi</em>
 

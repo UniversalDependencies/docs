@@ -31,4 +31,4 @@ udver: '2'
 ### Conversion from JOS
 
 `NumForm` is assigned to all numerals that are converted to UD `NUM`. Numerals with Form=digit are converted to `NumForm=Digit`, numerals with Form=roman are converted to `NumForm=Roman` and numerals with Form=letter are converted to `NumForm=Word`. Note, however, that (word) numerals that are converted to UD `ADJ`, do not have any `NumForm`.
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:43 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->

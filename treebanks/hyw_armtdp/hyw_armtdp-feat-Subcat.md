@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Intr`, `Tran`.
 
-15481 tokens (13%) have a non-empty value of `Subcat`.
-6871 types (27%) occur at least once with a non-empty value of `Subcat`.
+15487 tokens (13%) have a non-empty value of `Subcat`.
+6872 types (27%) occur at least once with a non-empty value of `Subcat`.
 1952 lemmas (16%) occur at least once with a non-empty value of `Subcat`.
-The feature is used with 1 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (15481; 13% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (15487; 13% instances).
 
 ### `VERB`
 
-15481 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Subcat`.
+15487 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Subcat`.
 
-The most frequent other feature values with which `VERB` and `Subcat` co-occurred: <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14176; 92%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13624; 88%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13606; 88%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8219; 53%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7872; 51%).
+The most frequent other feature values with which `VERB` and `Subcat` co-occurred: <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14180; 92%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13629; 88%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13611; 88%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8222; 53%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7876; 51%).
 
 `VERB` tokens may have the following values of `Subcat`:
 
-* `Intr` (7584; 49% of non-empty `Subcat`): <em>կայ, կրնայ, եղած, կրնար, ըլլայ, ըլլալ, կրնան, եկած, կան, կար</em>
-* `Tran` (7897; 51% of non-empty `Subcat`): <em>ըսէ, ըսաւ, ունի, ունեցած, գիտեր, ըսեմ, կարծես, ըսել, ունէր, ունին</em>
+* `Intr` (7586; 49% of non-empty `Subcat`): <em>կայ, կրնայ, եղած, ըլլայ, կրնար, ըլլալ, կրնան, եկած, կան, կար</em>
+* `Tran` (7901; 51% of non-empty `Subcat`): <em>ըսէ, ըսաւ, ունի, ունեցած, գիտեր, ըսեմ, կարծես, ըսել, ունէր, ունին</em>
 
 <table>
   <tr><th>Paradigm <i>ըսել</i></th><th><tt>Intr</tt></th><th><tt>Tran</tt></th></tr>
@@ -68,14 +68,14 @@ The most frequent other feature values with which `VERB` and `Subcat` co-occurre
 ## Relations with Agreement in `Subcat`
 
 The 10 most frequent relations where parent and child node agree in `Subcat`:
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1670; 62%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (576; 52%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (531; 51%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1668; 62%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (580; 52%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (526; 51%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-obl.html">obl</a></tt>]--> VERB</tt> (209; 54%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (59; 55%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (58; 55%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (27; 68%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (10; 63%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (8; 89%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (8; 73%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (7; 78%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (3; 100%).
 

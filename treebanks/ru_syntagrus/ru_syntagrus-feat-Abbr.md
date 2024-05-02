@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1217; 100% of non-empty `Abbr`): <em>СССР, США, РАН, С., РФ, А., НАТО, Б., В., ЕС</em>
-* `EMPTY` (54541): <em>России, США, Россия, СССР, Москве, Путин, Владимир, В., Москвы, Германии</em>
+* `EMPTY` (54538): <em>России, США, Россия, СССР, Москве, Путин, Владимир, В., Москвы, Германии</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (133) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (28; 100% of non-empty `Abbr`): <em>т., д., а.к.а.</em>
-* `EMPTY` (76557): <em>так, уже, можно, еще, как, более, очень, где, однако, там</em>
+* `EMPTY` (76559): <em>так, уже, можно, еще, как, более, очень, где, однако, там</em>
 
 ### `PRON`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (22; 100% of non-empty `Abbr`): <em>т.</em>
-* `EMPTY` (72922): <em>это, он, я, мы, что, они, его, она, все, которые</em>
+* `EMPTY` (72923): <em>это, он, я, мы, что, они, его, она, все, то</em>
 
 ### `VERB`
 

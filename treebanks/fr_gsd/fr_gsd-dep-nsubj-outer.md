@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	:	:	PUNCT	_	_	6	punct	_	_
 6	Peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|wordform=peut
-7	-on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	wordform=on
+7	-on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	nsubj	_	wordform=on
 8	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	9	obl:mod	_	_
 9	prendre	prendre	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
 10	épouse	épouse	NOUN	_	Gender=Fem|Number=Sing	9	obj:lvc	_	_
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 7 2 nsubj:outer	color:blue
 1	Est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No|wordform=est
 2	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj:outer	_	wordform=ce
-3	parce	parce	ADV	_	_	7	mark	_	ExtPos=SCONJ|Idiom=Yes
+3	parce	parce	ADV	_	ExtPos=SCONJ	7	mark	_	Idiom=Yes
 4	que	que	SCONJ	_	_	3	fixed	_	InIdiom=Yes
 5	vous	vous	PRON	_	Emph=No|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	_
 6	ne	ne	ADV	_	Polarity=Neg	7	advmod	_	_
@@ -81,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 11	vraiment	vraiment	ADV	_	_	12	advmod	_	_
 12	adhérente	adhérent	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 13	:	:	PUNCT	_	_	14	punct	_	_
-14	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	12	parataxis	_	_
+14	rien	rien	PRON	_	Gender=Masc|Number=Sing|PronType=Neg	12	parataxis	_	_
 15	à	à	ADP	_	_	16	mark	_	_
 16	voir	voir	VERB	_	VerbForm=Inf	14	acl	_	Subject=Generic
 17	avec	avec	ADP	_	_	19	case	_	_

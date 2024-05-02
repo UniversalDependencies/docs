@@ -41,7 +41,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 44029 sentences, 983672 tokens and 985050 syntactic words.</li>
+      <li>This corpus contains 44029 sentences, 983671 tokens and 985049 syntactic words.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -215,7 +215,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 91 lemmas tagged as pronouns (PRON): _, allur, annar, annars, annarstaðar, annaðhvort, báðir, einhver, einn, eitthvað, ekkert, enginn, flestallur, hann, hans, hinn, honum, hvatki, hvað, hvaða, hver, hvergi, hvern, hvert, hvor, hvort, hvortveggja, hvorugur, hví, hvílíkur, hvívetna, hún, lítill, maður, mer, minn, mit, miður, mér, neinn, nokkur, okkar, okkur, samur, sig, sinn, sjá, sjálfur, slíkur, sodda, soddan, soddur, sumur, svoddan, sá, sér, sérhver, vera, vettugi, við, viðlíka, viðlíkur, vor, vér, ykkar, yðar, yðarri, yður, yðvar, álíka, ég, ér, öðrumegin, ýmis, þ., þann, þar, þau, það, þeir, þeirra, þessi, þetta, þinn, því, þvílíka, þvílíkur, þær, þér, þórólfur, þú</li>
+      <li>This corpus contains 92 lemmas tagged as pronouns (PRON): _, allur, annar, annars, annarstaðar, annaðhvort, báðir, einhver, einn, eitthvað, ekkert, enginn, flestallur, hann, hans, hinn, honum, hvatki, hvað, hvaða, hver, hvergi, hvern, hvert, hvor, hvort, hvortveggja, hvorugur, hví, hvílíkur, hvívetna, hún, lítill, maður, mer, minn, mit, miður, mér, neinn, nokkur, okkar, okkur, samur, sig, sinn, sjá, sjálfur, slíkur, sodda, soddan, soddur, sumur, svoddan, sá, sér, sérhver, vera, vettugi, við, viðlíka, viðlíkur, vor, vér, ykkar, yðar, yðarri, yður, yðvar, álíka, ég, ér, öðrumegin, ýmis, þ., þann, þar, þau, það, þeir, þeirra, þessi, þetta, þinn, því, þvílíka, þvílíkur, þá, þær, þér, þórólfur, þú</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -259,7 +259,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>Out of the above, 41 lemmas occurred sometimes as PRON and sometimes as DET: allur, annar, annaðhvort, báðir, einhver, einn, eitthvað, ekkert, enginn, flestallur, hann, hinn, hvað, hvaða, hver, hvergi, hvert, hvor, hvort, hvortveggja, hvorugur, hvílíkur, hvívetna, hún, lítill, neinn, nokkur, sinn, sjá, sumur, sá, sérhver, vettugi, ýmis, þau, það, þeir, þessi, því, þvílíkur, þær</li>
+      <li>Out of the above, 42 lemmas occurred sometimes as PRON and sometimes as DET: allur, annar, annaðhvort, báðir, einhver, einn, eitthvað, ekkert, enginn, flestallur, hann, hinn, hvað, hvaða, hver, hvergi, hvert, hvor, hvort, hvortveggja, hvorugur, hvílíkur, hvívetna, hún, lítill, neinn, nokkur, sinn, sjá, sumur, sá, sérhver, vettugi, ýmis, þau, það, þeir, þessi, því, þvílíkur, þá, þær</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -622,7 +622,7 @@ udver: '2'
             <li>ADP: millum, sakir, eptir, fyr, handa, und, Kringum, fraraan, héreftir, innar</li>
             <li>ADV: þá, einnin, braut, hvörsu, einasta, mikla, fyrri, ein, þannin, Sannlega</li>
             <li>ADV-Part: einnin, festar, ofraðar, skorin, tíðkaðar</li>
-            <li>AUX: skyldu, vera, vóru, megu, vilda, höfð, skylda, hefir, hafðar, skyldum</li>
+            <li>AUX: skyldu, vera, vóru, vilda, höfð, skylda, hefir, hafðar, skyldum, Vil</li>
             <li>AUX-Part: höfð, hafðar, Munt, hafða, meguð, máttuð</li>
             <li>CCONJ: eður, bæði, annaðhvurt, eða</li>
             <li>DET: sú, þessa, þessi, allar, þeirri, þá, alla, eina, þær, þessari</li>
@@ -805,7 +805,7 @@ udver: '2'
             <li>NOUN-Part: orðið, liðið, náð, ráðið, talið, boðið, lokið, sætt, sótt, Okið</li>
             <li>NUM: tvö, þrjú, sex, fimm, fjögur, sjö, tólf, hálft, hundrað, tíu</li>
             <li>PART: einu, eitt</li>
-            <li>PRON: það, því, þess, hvað, þau, sitt, þeim, annað, sínu, þeirra</li>
+            <li>PRON: það, því, þess, hvað, þau, sitt, annað, þeim, sínu, þeirra</li>
             <li>PRON-Part: yðvart, eg, okkart, vor</li>
             <li>PROPN: Íslandi, Íslands, Skálholti, helvíti, alþingi, Barði, Kaupinhafn, helvítis, Skálholt, Englandi</li>
             <li>PROPN-Part: Mundt</li>
@@ -937,7 +937,7 @@ udver: '2'
             <li>CCONJ: bæði, hvörki, hverki, báðir, eða, hvörgi</li>
             <li>CCONJ-Fin: hverki</li>
             <li>CCONJ-Part: bæði</li>
-            <li>DET: allir, öllum, þeim, alla, allra, öll, þau, margir, allar, þeir</li>
+            <li>DET: allir, öllum, þeim, alla, allra, þau, öll, margir, allar, þessi</li>
             <li>DET-Fin: engi, öngum, fá, inna, minna, Nokkuru, báðu, hvörjum, þenna</li>
             <li>DET-Part: nokkora</li>
             <li>INTJ: du, Æ</li>
@@ -1282,10 +1282,10 @@ udver: '2'
             <li>ADJ: sama, góðum, góðu, sönnu, fyrstu, löngu, vísu, nýju, sömu, stórum</li>
             <li>ADP: millum, fyr, því, gögnum, Kringum, eptir, fá, miðli, sinnum, sökum</li>
             <li>ADV: aldri, því, einum, hvörsu, miklu, aldregi, braut, stórum, einu, miklum</li>
-            <li>AUX: mun, skyldu, vilja, vóru, vera, megu, muni, mætti, skyldum, vorum</li>
+            <li>AUX: mun, skyldu, vilja, vóru, vera, muni, mætti, skyldum, vorum, megu</li>
             <li>CCONJ: hvörki, hverki, hvatki, hvortki</li>
             <li>DET: þeim, þessu, öllum, því, þessum, öllu, þeirri, einu, einum, miklu</li>
-            <li>NOUN: mönnum, landi, manni, nafni, orðum, hendi, sinni, máli, stað, höndum</li>
+            <li>NOUN: mönnum, landi, manni, nafni, orðum, sinni, hendi, máli, stað, höndum</li>
             <li>NUM: tveimur, tveim, fjórum, fimm, þremur, tólf, þrem, sex, hvorirtveggju, sjö</li>
             <li>PART: einu</li>
             <li>PRON: því, honum, mér, sér, þeim, þér, sínum, henni, oss, yður</li>
@@ -1365,7 +1365,7 @@ udver: '2'
             <li>ADJ: heilagra, góðra, góðs, hægri, heilagrar, heilags, eilífs, ills, sæla, kristinna</li>
             <li>ADP: alls, fyr, handa, gagnvert, innar, jafnfram, sakir, Þá, ór</li>
             <li>ADV: eins, alls, forkunnar, samaleiðis, sæmiliga, aldregi, blíðliga, náliga, oftliga, ákafliga</li>
-            <li>AUX: vóru, vera, skyldu, mátta, vilja, Má, hefir, mega, megu, munda</li>
+            <li>AUX: vóru, vera, skyldu, mátta, vilja, Má, hefir, mega, munda, vilda</li>
             <li>CCONJ: eður, eða</li>
             <li>DET: allra, þess, þessa, hins, þeirra, alls, þeirrar, mikils, margra, þessarar</li>
             <li>NOUN: manna, konungs, biskups, kóngs, manns, föður, staðar, lífs, handa, guðs</li>
@@ -1574,7 +1574,7 @@ udver: '2'
             <li>ADJ: fyrsta, fyrstu, þriðja, næsta, betra, heilaga, sæla, góða, fyrri, gamla</li>
             <li>ADP: fraraan, fyr, fá</li>
             <li>ADV: fyrri, einnin, hverninn, einasta, eina, hvörnin, hvörninn, þannin, þanninn, næsta</li>
-            <li>AUX: vilið, hafið, vóru, vilda, verðið, væra, megu, myni, mynið, séið</li>
+            <li>AUX: vilið, hafið, vóru, vilda, verðið, væra, myni, mynið, séið, fingu</li>
             <li>CCONJ: hvörki, eður, hvortki</li>
             <li>DET: meira, meiri, fleiri, mesta, fleira, mikla, mesti, mestu, minna, eina</li>
             <li>NOUN: daginn, fólkið, veturinn, keisarinn, maðurinn, nóttina, borginni, málið, höfuðið, landið</li>
@@ -1788,7 +1788,7 @@ udver: '2'
             <li>ADJ: gott, satt, góða, góður, stór, góð, góðum, heilaga, þriðja, góðu</li>
             <li>ADP: fyr, eptir, Gagnvart, Kringum, eftur, fá, innar, tilbeðin, ór, þvert</li>
             <li>ADV: mikið, einasta, langt, mikill, eina, einn, hart, þá, eins, mikla</li>
-            <li>AUX: var, vilda, vóru, væra, vert, fær, hafða, fekk, megu, mætta</li>
+            <li>AUX: var, vilda, vóru, væra, vert, fær, hafða, fekk, mætta, skyldir</li>
             <li>CCONJ: Eður, hvörki</li>
             <li>DET: mikið, mikill, margir, miklu, margt, mikil, mikla, mörgum, mikinn, marga</li>
             <li>INTJ: Heill, ææææææ</li>
@@ -2065,7 +2065,7 @@ udver: '2'
             <li>AUX: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
             <li>AUX-Fin: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
             <li>NOUN-Fin: bönnum, leiðir</li>
-            <li>VERB: hringir, held, kemur, á, þakka, finnst, þarf, verður, sagði, segir</li>
+            <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</li>
             <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, kom</li>
           </ul>
         </li>
@@ -2279,7 +2279,7 @@ udver: '2'
             <li>AUX: er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</li>
             <li>AUX-Fin: er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</li>
             <li>NOUN-Fin: Innheimtu, bönnum, leiðir</li>
-            <li>VERB: hringir, held, kemur, á, þakka, finnst, þarf, verður, eigum, verði</li>
+            <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, eigum, verði</li>
             <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, verður, þakka, eigum, verði</li>
             <li>VERB-Part: fljótandi, bindandi, farandi, fræðandi, komandi, ríkjandi, varðandi, vaxandi</li>
           </ul>
@@ -2492,7 +2492,7 @@ udver: '2'
         <li>Mid
           <ul>
             <li>VERB-Fin: finnst, virðist, hefst, komst, gerist, komist, snýst, fannst, sýnist, komust</li>
-            <li>VERB-Inf: komast, fylgjast, horfast, gerast, nálgast, búast, breytast, kljást, minnast, myndast</li>
+            <li>VERB-Inf: komast, fylgjast, horfast, gerast, nálgast, búast, breytast, hefjast, kljást, minnast</li>
             <li>VERB-Part: hafist, komist, ráðist, ætlast, búist, forðast</li>
             <li>VERB-Sup: gerst, komist, fundist, þróast, aukist, borist, breyst, búist, hugnast, kynnst</li>
           </ul>
@@ -2591,7 +2591,7 @@ udver: '2'
             <li>ADV: þá, hvílík, sama, sjálfum, glöggvasta, hvorsu, hvílíka, sjálfa, öðruvís, því</li>
             <li>AUX: var, vóru</li>
             <li>DET: þetta, sá, þessi, þann, þessu, það, þeim, þessa, þessum, þá</li>
-            <li>NOUN: sá, þetta, okurið, sjálfa, sjálfan, strendli, Þessir, þessi, þá</li>
+            <li>NOUN: sá, þetta, okurið, sjálfa, sjálfan, strendli, þessi, þá</li>
             <li>NUM: þess</li>
             <li>PRON: sjálfur, það, þeim, þeir, sjálfum, slíkt, því, þeirra, sjálfan, þá</li>
             <li>PROPN: Þetta, Sjálfur, Sá, Sú, Þeir</li>
@@ -3243,7 +3243,7 @@ udver: '2'
                 <li>CCONJ: oc, et</li>
                 <li>DET: in, þenna, engi, ina, inu, mart, enu, Allan, Alt, Eina</li>
                 <li>INTJ: Hei, Jaaaá, hahaha, he, Vei, Bless, Blubbs, Eia, Hahahaha, O</li>
-                <li>NOUN: son, anno, dal, kap, Majestets, hold, hertug, leon, von, eyxn</li>
+                <li>NOUN: son, anno, dal, kap, Majestets, hold, hertug, leon, von, Lof</li>
                 <li>NUM: ij, iij, iiij, iiii, xii, vii, ccc, ix, xi, xiii</li>
                 <li>PRON: Oss, þaug, huer, þeira, Haun, Minn, Sitt, Soddan, Vor, Vort</li>
                 <li>PROPN: Erasmus, Metternich, Darius, Vali, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers</li>
@@ -3428,58 +3428,58 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (45)</li>
+            <li>VERB--NOUN (44)</li>
             <li>VERB--NOUN-Acc (148)</li>
             <li>VERB--NOUN-Dat (180)</li>
             <li>VERB--NOUN-Gen (15)</li>
             <li>VERB--NOUN-Nom (1057)</li>
-            <li>VERB--PRON (73)</li>
+            <li>VERB--PRON (68)</li>
             <li>VERB--PRON-Acc (73)</li>
-            <li>VERB--PRON-Dat (227)</li>
+            <li>VERB--PRON-Dat (226)</li>
             <li>VERB--PRON-Gen (11)</li>
-            <li>VERB--PRON-Nom (1767)</li>
-            <li>VERB-Fin--NOUN (89)</li>
-            <li>VERB-Fin--NOUN-Acc (655)</li>
-            <li>VERB-Fin--NOUN-Dat (551)</li>
+            <li>VERB--PRON-Nom (1770)</li>
+            <li>VERB-Fin--NOUN (86)</li>
+            <li>VERB-Fin--NOUN-Acc (618)</li>
+            <li>VERB-Fin--NOUN-Dat (545)</li>
             <li>VERB-Fin--NOUN-Gen (81)</li>
-            <li>VERB-Fin--NOUN-Nom (11906)</li>
-            <li>VERB-Fin--PRON (168)</li>
-            <li>VERB-Fin--PRON-Acc (844)</li>
-            <li>VERB-Fin--PRON-Dat (2299)</li>
-            <li>VERB-Fin--PRON-Gen (105)</li>
-            <li>VERB-Fin--PRON-Nom (28037)</li>
+            <li>VERB-Fin--NOUN-Nom (11820)</li>
+            <li>VERB-Fin--PRON (121)</li>
+            <li>VERB-Fin--PRON-Acc (828)</li>
+            <li>VERB-Fin--PRON-Dat (2281)</li>
+            <li>VERB-Fin--PRON-Gen (104)</li>
+            <li>VERB-Fin--PRON-Nom (27911)</li>
             <li>VERB-Fin--PRON-Nom-ADP(hjá) (1)</li>
             <li>VERB-Fin--PRON-Nom-ADP(til) (1)</li>
             <li>VERB-Inf--NOUN (23)</li>
-            <li>VERB-Inf--NOUN-Acc (497)</li>
-            <li>VERB-Inf--NOUN-Dat (38)</li>
-            <li>VERB-Inf--NOUN-Gen (30)</li>
-            <li>VERB-Inf--NOUN-Nom (1099)</li>
-            <li>VERB-Inf--PRON (126)</li>
-            <li>VERB-Inf--PRON-Acc (519)</li>
-            <li>VERB-Inf--PRON-Dat (358)</li>
-            <li>VERB-Inf--PRON-Gen (13)</li>
-            <li>VERB-Inf--PRON-Nom (4527)</li>
+            <li>VERB-Inf--NOUN-Acc (536)</li>
+            <li>VERB-Inf--NOUN-Dat (44)</li>
+            <li>VERB-Inf--NOUN-Gen (29)</li>
+            <li>VERB-Inf--NOUN-Nom (1188)</li>
+            <li>VERB-Inf--PRON (117)</li>
+            <li>VERB-Inf--PRON-Acc (538)</li>
+            <li>VERB-Inf--PRON-Dat (374)</li>
+            <li>VERB-Inf--PRON-Gen (14)</li>
+            <li>VERB-Inf--PRON-Nom (4710)</li>
             <li>VERB-Part--NOUN (20)</li>
             <li>VERB-Part--NOUN-Acc (108)</li>
             <li>VERB-Part--NOUN-Dat (280)</li>
-            <li>VERB-Part--NOUN-Gen (36)</li>
+            <li>VERB-Part--NOUN-Gen (35)</li>
             <li>VERB-Part--NOUN-Nom (1614)</li>
             <li>VERB-Part--PRON (21)</li>
             <li>VERB-Part--PRON-Acc (52)</li>
-            <li>VERB-Part--PRON-Dat (444)</li>
+            <li>VERB-Part--PRON-Dat (443)</li>
             <li>VERB-Part--PRON-Gen (56)</li>
-            <li>VERB-Part--PRON-Nom (1611)</li>
+            <li>VERB-Part--PRON-Nom (1612)</li>
             <li>VERB-Sup--NOUN (9)</li>
             <li>VERB-Sup--NOUN-Acc (65)</li>
             <li>VERB-Sup--NOUN-Dat (45)</li>
             <li>VERB-Sup--NOUN-Gen (10)</li>
             <li>VERB-Sup--NOUN-Nom (928)</li>
-            <li>VERB-Sup--PRON (10)</li>
+            <li>VERB-Sup--PRON (9)</li>
             <li>VERB-Sup--PRON-Acc (108)</li>
             <li>VERB-Sup--PRON-Dat (190)</li>
             <li>VERB-Sup--PRON-Gen (12)</li>
-            <li>VERB-Sup--PRON-Nom (3228)</li>
+            <li>VERB-Sup--PRON-Nom (3229)</li>
           </ul>
         </li>
       </ul>
@@ -3498,20 +3498,20 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc (22)</li>
             <li>VERB-Fin--NOUN-Dat (42)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
-            <li>VERB-Fin--NOUN-Nom (963)</li>
+            <li>VERB-Fin--NOUN-Nom (960)</li>
             <li>VERB-Fin--PRON (47)</li>
             <li>VERB-Fin--PRON-Acc (73)</li>
             <li>VERB-Fin--PRON-Dat (155)</li>
             <li>VERB-Fin--PRON-Gen (5)</li>
-            <li>VERB-Fin--PRON-Nom (1823)</li>
+            <li>VERB-Fin--PRON-Nom (1821)</li>
             <li>VERB-Inf--NOUN-Acc (22)</li>
             <li>VERB-Inf--NOUN-Dat (3)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
-            <li>VERB-Inf--NOUN-Nom (118)</li>
+            <li>VERB-Inf--NOUN-Nom (121)</li>
             <li>VERB-Inf--PRON (5)</li>
             <li>VERB-Inf--PRON-Acc (9)</li>
             <li>VERB-Inf--PRON-Dat (3)</li>
-            <li>VERB-Inf--PRON-Nom (280)</li>
+            <li>VERB-Inf--PRON-Nom (282)</li>
             <li>VERB-Part--NOUN-Acc (9)</li>
             <li>VERB-Part--NOUN-Dat (30)</li>
             <li>VERB-Part--NOUN-Gen (1)</li>
@@ -3625,44 +3625,44 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (41)</li>
+            <li>VERB--NOUN (40)</li>
             <li>VERB--NOUN-Acc (498)</li>
-            <li>VERB--NOUN-Dat (202)</li>
+            <li>VERB--NOUN-Dat (203)</li>
             <li>VERB--NOUN-Gen (88)</li>
-            <li>VERB--NOUN-Nom (263)</li>
+            <li>VERB--NOUN-Nom (261)</li>
             <li>VERB--PRON (35)</li>
-            <li>VERB--PRON-Acc (154)</li>
-            <li>VERB--PRON-Dat (89)</li>
+            <li>VERB--PRON-Acc (153)</li>
+            <li>VERB--PRON-Dat (88)</li>
             <li>VERB--PRON-Gen (23)</li>
             <li>VERB--PRON-Nom (149)</li>
-            <li>VERB-Fin--NOUN (163)</li>
-            <li>VERB-Fin--NOUN-Acc (9990)</li>
+            <li>VERB-Fin--NOUN (161)</li>
+            <li>VERB-Fin--NOUN-Acc (9882)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(og) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(á) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (2071)</li>
+            <li>VERB-Fin--NOUN-Dat (2040)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(af) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(fyrir) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(með) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(í) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (657)</li>
-            <li>VERB-Fin--NOUN-Nom (1492)</li>
-            <li>VERB-Fin--PRON (360)</li>
-            <li>VERB-Fin--PRON-Acc (3709)</li>
-            <li>VERB-Fin--PRON-Dat (1523)</li>
-            <li>VERB-Fin--PRON-Gen (301)</li>
-            <li>VERB-Fin--PRON-Nom (1622)</li>
-            <li>VERB-Inf--NOUN (70)</li>
-            <li>VERB-Inf--NOUN-Acc (4593)</li>
-            <li>VERB-Inf--NOUN-Dat (1086)</li>
+            <li>VERB-Fin--NOUN-Gen (638)</li>
+            <li>VERB-Fin--NOUN-Nom (1457)</li>
+            <li>VERB-Fin--PRON (354)</li>
+            <li>VERB-Fin--PRON-Acc (3677)</li>
+            <li>VERB-Fin--PRON-Dat (1502)</li>
+            <li>VERB-Fin--PRON-Gen (294)</li>
+            <li>VERB-Fin--PRON-Nom (1611)</li>
+            <li>VERB-Inf--NOUN (73)</li>
+            <li>VERB-Inf--NOUN-Acc (4702)</li>
+            <li>VERB-Inf--NOUN-Dat (1115)</li>
             <li>VERB-Inf--NOUN-Dat-ADP(í) (2)</li>
-            <li>VERB-Inf--NOUN-Gen (368)</li>
-            <li>VERB-Inf--NOUN-Nom (365)</li>
-            <li>VERB-Inf--PRON (83)</li>
-            <li>VERB-Inf--PRON-Acc (2091)</li>
-            <li>VERB-Inf--PRON-Dat (749)</li>
+            <li>VERB-Inf--NOUN-Gen (388)</li>
+            <li>VERB-Inf--NOUN-Nom (399)</li>
+            <li>VERB-Inf--PRON (89)</li>
+            <li>VERB-Inf--PRON-Acc (2127)</li>
+            <li>VERB-Inf--PRON-Dat (771)</li>
             <li>VERB-Inf--PRON-Dat-ADP(eftir) (1)</li>
-            <li>VERB-Inf--PRON-Gen (191)</li>
-            <li>VERB-Inf--PRON-Nom (354)</li>
+            <li>VERB-Inf--PRON-Gen (198)</li>
+            <li>VERB-Inf--PRON-Nom (362)</li>
             <li>VERB-Part--NOUN (3)</li>
             <li>VERB-Part--NOUN-Acc (126)</li>
             <li>VERB-Part--NOUN-Dat (63)</li>
@@ -3698,23 +3698,23 @@ udver: '2'
             <li>VERB--PRON-Acc (3)</li>
             <li>VERB--PRON-Dat (3)</li>
             <li>VERB--PRON-Nom (2)</li>
-            <li>VERB-Fin--NOUN-Acc (622)</li>
-            <li>VERB-Fin--NOUN-Dat (135)</li>
+            <li>VERB-Fin--NOUN-Acc (614)</li>
+            <li>VERB-Fin--NOUN-Dat (132)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(á) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(í) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (16)</li>
-            <li>VERB-Fin--NOUN-Nom (62)</li>
+            <li>VERB-Fin--NOUN-Gen (14)</li>
+            <li>VERB-Fin--NOUN-Nom (61)</li>
             <li>VERB-Fin--PRON (4)</li>
-            <li>VERB-Fin--PRON-Acc (172)</li>
-            <li>VERB-Fin--PRON-Dat (74)</li>
+            <li>VERB-Fin--PRON-Acc (170)</li>
+            <li>VERB-Fin--PRON-Dat (73)</li>
             <li>VERB-Fin--PRON-Gen (7)</li>
             <li>VERB-Fin--PRON-Nom (84)</li>
-            <li>VERB-Inf--NOUN-Acc (636)</li>
-            <li>VERB-Inf--NOUN-Dat (161)</li>
-            <li>VERB-Inf--NOUN-Gen (26)</li>
-            <li>VERB-Inf--NOUN-Nom (26)</li>
-            <li>VERB-Inf--PRON-Acc (165)</li>
-            <li>VERB-Inf--PRON-Dat (65)</li>
+            <li>VERB-Inf--NOUN-Acc (644)</li>
+            <li>VERB-Inf--NOUN-Dat (164)</li>
+            <li>VERB-Inf--NOUN-Gen (28)</li>
+            <li>VERB-Inf--NOUN-Nom (27)</li>
+            <li>VERB-Inf--PRON-Acc (167)</li>
+            <li>VERB-Inf--PRON-Dat (66)</li>
             <li>VERB-Inf--PRON-Gen (5)</li>
             <li>VERB-Inf--PRON-Nom (29)</li>
             <li>VERB-Part--NOUN-Acc (62)</li>
@@ -3825,23 +3825,23 @@ udver: '2'
             <li>VERB--PRON-Dat (117)</li>
             <li>VERB--PRON-Gen (2)</li>
             <li>VERB-Fin--NOUN (7)</li>
-            <li>VERB-Fin--NOUN-Acc (90)</li>
-            <li>VERB-Fin--NOUN-Dat (490)</li>
+            <li>VERB-Fin--NOUN-Acc (88)</li>
+            <li>VERB-Fin--NOUN-Dat (483)</li>
             <li>VERB-Fin--NOUN-Gen (17)</li>
             <li>VERB-Fin--NOUN-Nom (22)</li>
             <li>VERB-Fin--PRON (33)</li>
-            <li>VERB-Fin--PRON-Acc (234)</li>
-            <li>VERB-Fin--PRON-Dat (2677)</li>
+            <li>VERB-Fin--PRON-Acc (232)</li>
+            <li>VERB-Fin--PRON-Dat (2645)</li>
             <li>VERB-Fin--PRON-Gen (12)</li>
             <li>VERB-Fin--PRON-Nom (38)</li>
             <li>VERB-Inf--NOUN (5)</li>
-            <li>VERB-Inf--NOUN-Acc (30)</li>
-            <li>VERB-Inf--NOUN-Dat (223)</li>
+            <li>VERB-Inf--NOUN-Acc (32)</li>
+            <li>VERB-Inf--NOUN-Dat (230)</li>
             <li>VERB-Inf--NOUN-Gen (9)</li>
             <li>VERB-Inf--NOUN-Nom (4)</li>
             <li>VERB-Inf--PRON (10)</li>
-            <li>VERB-Inf--PRON-Acc (70)</li>
-            <li>VERB-Inf--PRON-Dat (1246)</li>
+            <li>VERB-Inf--PRON-Acc (72)</li>
+            <li>VERB-Inf--PRON-Dat (1278)</li>
             <li>VERB-Inf--PRON-Gen (10)</li>
             <li>VERB-Inf--PRON-Nom (11)</li>
             <li>VERB-Part--NOUN-Acc (2)</li>
@@ -3873,7 +3873,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat (26)</li>
             <li>VERB-Fin--NOUN-Nom (6)</li>
             <li>VERB-Fin--PRON-Acc (10)</li>
-            <li>VERB-Fin--PRON-Dat (40)</li>
+            <li>VERB-Fin--PRON-Dat (38)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN-Acc (18)</li>
             <li>VERB-Inf--NOUN-Dat (26)</li>
@@ -3881,7 +3881,7 @@ udver: '2'
             <li>VERB-Inf--NOUN-Gen (1)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Inf--PRON-Acc (7)</li>
-            <li>VERB-Inf--PRON-Dat (29)</li>
+            <li>VERB-Inf--PRON-Dat (31)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN-Acc (1)</li>
             <li>VERB-Part--NOUN-Dat (3)</li>

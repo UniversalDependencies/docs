@@ -14,8 +14,8 @@ appos(center,furnace)
 ~~~
 
 ~~~ sdparse
-Dianne se je sprla z Liso , svojo prijateljico , in se je odločila, da gre domov \n Dianne REFLEX she-aux-PAST fought with Lisa , her firend , and REFLEX she-aux-PAST decided , to go home
+Dianne se je sprla z Liso , svojo prijateljico , in se je odločila, da gre domov \n Dianne REFLEX she-aux-PAST fought with Lisa , her friend , and REFLEX she-aux-PAST decided , to go home
 appos(Liso,prijateljico)
 appos(Lisa,friend)
 ~~~
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:59 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:27 CET -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-791 nodes (0%) are attached to their parents as `iobj`.
+787 nodes (0%) are attached to their parents as `iobj`.
 
-790 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25790139064475.
+786 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26175349428208.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (591; 75% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (121; 15% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (76; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (587; 75% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (121; 15% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (76; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	call	call	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	_
 7	with	with	ADP	IN	_	10	case	10:case	_
-8	any	any	DET	DT	_	10	det	10:det	_
+8	any	any	DET	DT	PronType=Ind	10	det	10:det	_
 9	further	further	ADJ	JJ	Degree=Pos	10	amod	10:amod	_
 10	questions	question	NOUN	NNS	Number=Plur	6	obl	6:obl:with	SpaceAfter=No
 11	.	.	PUNCT	.	_	3	punct	3:punct	_

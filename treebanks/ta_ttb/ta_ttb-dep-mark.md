@@ -29,8 +29,8 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 5	போது	போது	PART	Tn-------	_	3	mark	3:mark	Translit=pōtu|LTranslit=pōtu
 6	வீட்டில்	வீடு	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	Translit=vīṭṭil|LTranslit=vīṭu
 7	யாரும்	யார்	PRON	RBN-3SA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Ind	8	nsubj	8:nsubj	Translit=yārum|LTranslit=yār
-8	இருக்கவ்	இரு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=irukkav|LTranslit=iru
-9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	Translit=illai|LTranslit=il
+8	இருக்கவ்	இரு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	LTranslit=iru|Translit=irukkav
+9	இல்லை	இல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	LTranslit=il|Translit=illai
 10	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 ~~~
@@ -65,8 +65,8 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 7	வைப்போம்	வை	VERB	Vr-F1P-AA	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	10	ccomp	10:ccomp	Translit=vaippōm|LTranslit=vai
 8	என்று	என்	PART	Tt-T----A	Polarity=Pos|VerbForm=Inf	7	mark	7:mark	Translit=enru|LTranslit=en
 9	இ-மெயிலில்	இ-மெயில்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	10	obl	10:obl:loc	Translit=i-meyilil|LTranslit=i-meyil
-10	இருந்தத்	இரு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	14	ccomp	14:ccomp	Translit=iruntat|LTranslit=iru
-11	ஆக	ஆக	PART	Tg-------	_	10	mark	10:mark	Translit=āka|LTranslit=āka
+10	இருந்தத்	இரு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	14	ccomp	14:ccomp	LTranslit=iru|Translit=iruntat
+11	ஆக	ஆக	PART	Tg-------	_	10	mark	10:mark	LTranslit=āka|Translit=āka
 12	போலீஸ்	போலீஸ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	13	nmod	13:nmod:nom	Translit=pōlīs|LTranslit=pōlīs
 13	வட்டாரங்கள்	வட்டாரம்	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	14	nsubj	14:nsubj	Translit=vaṭṭāraṅkaḷ|LTranslit=vaṭṭāram
 14	தெரிவித்தன	தெரிவி	VERB	Vr-D3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=terivittana|LTranslit=terivi

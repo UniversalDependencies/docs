@@ -47,5 +47,13 @@ This is subtype of adverb.
 
 * [fi] _медводзаысь, мӧдысь, коймӧдысь_ "_for the first time, for the second time, for the third time_"
 
+### <a name="Sets">`Sets`</a>: collective numeral or corresponding interrogative / relative / indefinite / demonstrative word
+
+This is subtype of numeral.
+
+#### Examples
+
+* [kpv] _куимнансэ; даснаныс_ "_all three of them; the ten of them_"
+
 (TODO: others from <http://universaldependencies.org/u/feat/NumType.html>?)
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:43 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->

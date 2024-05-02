@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “pitai”: <em
 `NUM` occurs with 3 feature-value pairs: `Degree=Dim`, `Polarity=Neg`, `Rel=NCont`
 
 `NUM` occurs with 3 feature combinations.
-The most frequent feature combination is `Polarity=Neg|Rel=NCont` (4 tokens).
-Examples: <em>naʔiruz</em>
+The most frequent feature combination is `_` (4 tokens).
+Examples: <em>mokoz, Mukuz, pitei</em>
 
 
 ## Relations

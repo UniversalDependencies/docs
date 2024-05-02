@@ -18,4 +18,4 @@ _§_, which are instead tagged as [SYM]().
 - Period: _<b>.</b>_
 - Comma: _<b>,</b>_
 - Parentheses: _<b>(</b>_, _<b>)</b>_
-<!-- Interlanguage links updated Út 9. května 2023, 20:03:28 CEST -->
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:29 CET -->

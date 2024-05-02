@@ -12,13 +12,13 @@ It occurs with 8 different values: `HIFIL`, `HITPAEL`, `HUFAL`, `NIFAL`, `NITPAE
 10853 tokens (8%) have a non-empty value of `HebBinyan`.
 3657 types (26%) occur at least once with a non-empty value of `HebBinyan`.
 1416 lemmas (15%) occur at least once with a non-empty value of `HebBinyan`.
-The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (10278; 7% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (575; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (10273; 7% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (580; 0% instances).
 
 ### `VERB`
 
-10278 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `HebBinyan`.
+10273 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `HebBinyan`.
 
-The most frequent other feature values with which `VERB` and `HebBinyan` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8587; 84%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6858; 67%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6148; 60%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6111; 59%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6032; 59%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5789; 56%).
+The most frequent other feature values with which `VERB` and `HebBinyan` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8586; 84%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6856; 67%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6146; 60%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6109; 59%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6030; 59%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5788; 56%).
 
 `VERB` tokens may have the following values of `HebBinyan`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `HebBinyan` co-occu
 * `HUFAL` (600; 6% of non-empty `HebBinyan`): הוקמה, הוקם, הוצגו, הושגו, הוחלט, הועברו, הוגשו, הועלה, הוקמו, מוטל
 * `NIFAL` (1538; 15% of non-empty `HebBinyan`): ניתן, נמצא, נקבע, נעשה, נערכה, נקרא, נערך, נראה, נחשב, נאמר
 * `NITPAEL` (17; 0% of non-empty `HebBinyan`): נתגלו, נתגלתה, נתקבלה, להתעניין, משתמע, נשתמר, נתברר, נתקבלו
-* `PAAL` (3348; 33% of non-empty `HebBinyan`): כתב, יצא, זכה, היו, כולל, כלל, היה, שר, אמר, טען
+* `PAAL` (3343; 33% of non-empty `HebBinyan`): כתב, יצא, זכה, היו, כולל, כלל, היה, שר, אמר, טען
 * `PIEL` (1642; 16% of non-empty `HebBinyan`): ניצח, לקבל, מהווה, קיבל, פרסם, קיבלו, שימש, לבצע, תיאר, ביצעה
 * `PUAL` (563; 5% of non-empty `HebBinyan`): מדובר, מכונה, בוצעו, בוצע, כונה, מונתה, פורסם, מונה, מיועדת, בוצעה
 
@@ -53,13 +53,13 @@ The most frequent other feature values with which `VERB` and `HebBinyan` co-occu
 
 ### `AUX`
 
-575 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `HebBinyan`.
+580 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `HebBinyan`.
 
-The most frequent other feature values with which `AUX` and `HebBinyan` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (545; 95%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (531; 92%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (492; 86%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (429; 75%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (394; 69%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (345; 60%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (314; 55%).
+The most frequent other feature values with which `AUX` and `HebBinyan` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (547; 94%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (532; 92%), <tt><a href="he_iahltwiki-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (493; 85%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (430; 74%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (396; 68%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (347; 60%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (319; 55%).
 
 `AUX` tokens may have the following values of `HebBinyan`:
 
-* `PAAL` (575; 100% of non-empty `HebBinyan`): היה, היו, הייתה, להיות, יהיה, תהיה, הייתי, יהיו, היות, תהא
+* `PAAL` (580; 100% of non-empty `HebBinyan`): היה, היו, הייתה, להיות, יהיה, תהיה, הייתי, יהיו, היות, תהא
 
 ## Relations with Agreement in `HebBinyan`
 

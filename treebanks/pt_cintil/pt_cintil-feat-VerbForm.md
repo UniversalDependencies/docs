@@ -129,5 +129,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="pt_cintil-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (458; 87%),
 <tt>VERB --[<tt><a href="pt_cintil-dep-obj.html">obj</a></tt>]--> VERB</tt> (130; 72%),
 <tt>VERB --[<tt><a href="pt_cintil-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (5; 63%),
-<tt>VERB --[<tt><a href="pt_cintil-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (3; 100%).
+<tt>VERB --[<tt><a href="pt_cintil-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (3; 100%),
+<tt>VERB --[<tt><a href="pt_cintil-dep-flat.html">flat</a></tt>]--> VERB</tt> (1; 100%).
 

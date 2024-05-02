@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 8	reinó	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
 9	de	de	ADP	INDT	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	830-846	830-846	NUM	CD	Gender=Masc|NumType=Card	8	obl	_	SpaceAfter=No
+11	830-846	830-846	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	8	obl	_	SpaceAfter=No
 12	)	)	PUNCT	)	_	8	punct	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	_	_
 

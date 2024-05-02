@@ -62,8 +62,8 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	quem	qui	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	7	obj	_	LId=qui1
 7	fugias	fugio	VERB	v2spsa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	LId=fugio1|SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 8	,	,	PUNCT	u--------	_	11	punct	_	LId=comma1
-9	que	que	CCONJ	c--------	_	11	cc	_	LId=que1
-10	ideo	ideo	ADV	d--------	_	11	advmod	_	LId=ideo1
+9	ideo	ideo	ADV	d--------	_	11	advmod	_	_
+10	que	que	CCONJ	c--------	_	9	cc	_	LId=que1
 11	fugis	fugio	VERB	v2spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	LId=fugio1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 12	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 

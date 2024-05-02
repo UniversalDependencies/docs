@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-flat.html">flat</a></tt>.
 There are also 3 other language-specific subtypes of `flat`: <tt><a href="hyw_armtdp-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hyw_armtdp-dep-flat-frac.html">flat:frac</a></tt>, <tt><a href="hyw_armtdp-dep-flat-name.html">flat:name</a></tt>.
 
-68 nodes (0%) are attached to their parents as `flat:range`.
+69 nodes (0%) are attached to their parents as `flat:range`.
 
-68 instances of `flat:range` (100%) are left-to-right (parent precedes child).
+69 instances of `flat:range` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.
 
-The following 5 pairs of parts of speech are connected with `flat:range`: <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (48; 71% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (13; 19% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances).
+The following 5 pairs of parts of speech are connected with `flat:range`: <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (48; 70% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (14; 20% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

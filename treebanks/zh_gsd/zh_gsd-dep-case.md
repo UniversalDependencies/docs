@@ -22,18 +22,18 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 case	color:blue
-1	但是	但是	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
+1	但是	但是	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=dànshì|LTranslit=dànshì
 2	迪士尼	迪士尼	PROPN	NNP	_	5	nmod	_	SpaceAfter=No|Translit=díshìní|LTranslit=díshìní
 3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No|Translit=de|LTranslit=de
 4	公主	公主	NOUN	NN	_	5	compound	_	SpaceAfter=No|Translit=gōngzhǔ|LTranslit=gōngzhǔ
 5	們	們	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No|Translit=men|LTranslit=men
 6	不會	會	AUX	MD	Polarity=Neg	9	aux	_	SpaceAfter=No|Translit=bùhuì|LTranslit=huì
-7	都	都	ADV	RB	_	9	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
+7	都	都	SCONJ	RB	_	9	mark	_	SpaceAfter=No|Translit=dōu|LTranslit=dōu
 8	太	太	ADV	RB	_	9	advmod	_	SpaceAfter=No|Translit=tài|LTranslit=tài
 9	侷限	侷限	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=侷xiàn|LTranslit=侷xiàn
 10	於	於	VERB	VV	_	9	mark	_	SpaceAfter=No|Translit=yú|LTranslit=yú
-11	一	一	NUM	CD	NumType=Card	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
-12	個	個	NOUN	NNB	_	13	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
+11	一	一	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	個	個	NOUN	NNB	_	11	clf	_	SpaceAfter=No|Translit=gè|LTranslit=gè
 13	範圍	範圍	NOUN	NN	_	9	obj	_	SpaceAfter=No|Translit=fànwéi|LTranslit=fànwéi
 14	之內	之內	ADP	IN	_	13	case	_	SpaceAfter=No|Translit=zhīnèi|LTranslit=zhīnèi
 15	了	了	PART	UH	_	9	discourse	_	SpaceAfter=No|Translit=le|LTranslit=le
@@ -82,7 +82,7 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No|Translit=huì|LTranslit=huì
 10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=shèzhì|LTranslit=shèzhì
 11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No|Translit='ángguì|LTranslit='ángguì
-12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+12	的	的	SCONJ	DEC	_	11	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No|Translit=yīnpín|LTranslit=yīnpín
 14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=shèbèi|LTranslit=shèbèi
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No|Translit=,|LTranslit=,

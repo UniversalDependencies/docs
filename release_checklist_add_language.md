@@ -40,9 +40,46 @@ See [here](release_checklist.html) for the checklist for data contributors.
   English name of the language (if it consists of multiple words, replace spaces by underscores)
   and ${treebank} is an acronym or a short word identifying the treebank (only English letters,
   CamelCase, no digits or special characters). Example: "UD_Ancient_Greek-PROIEL".
+
+```Shell
+# If you have the gh tool, run:
+gh repo create UniversalDependencies/UD_Ancient_Greek-PROIEL --public --add-readme --team Contributors
+git clone git@github.com:UniversalDependencies/UD_Ancient_Greek-PROIEL.git
+cd UD_Ancient_Greek-PROIEL
+copy ..\UD_ZZZ-Template\README.md .
+copy ..\UD_ZZZ-Template\CONTRIBUTING.md .
+copy ..\UD_ZZZ-Template\LICENSE.txt .
+git add CONTRIBUTING.md LICENSE.txt
+```
+
+or
+
+```Shell
+perl docs-automation\ghapi\ghapi.pl --create UD_Ancient_Greek-PROIEL
+```
+
 * Populate README.md, CONTRIBUTING.md and LICENSE.txt with default values.
 * Create two branches, "master" and "dev". Protect the master branch so that only the core group
-  can push to it.
+  can push to it. Protect the dev branch, too – not against pushing by ordinary members, but
+  simply marking the branch as protected means that people with push access will not be able to
+  perform force pushes and alter the history on Github (which would be destructive for our
+  validation infrastructure).
+  * (Note that these steps can be automated with a script that uses the Github API.
+    It is not ready yet but a prototype exists in `docs-automation/ghapi`.)
+
+```Shell
+git commit -a -m "Initialization and the last commit to the master branch; switching to dev now."
+git checkout -b dev
+git push --all --set-upstream
+perl docs-automation\ghapi\ghapi.pl --protect UD_Ancient_Greek-PROIEL
+```
+
+or
+
+```Shell
+perl docs-automation\ghapi\ghapi.pl --finalize UD_Ancient_Greek-PROIEL
+```
+
 * Make the dev branch writable by the Contributors team (by default they cannot push to the repository
   at all).
 * Clone the repository to Dan's local system.
@@ -60,20 +97,21 @@ at least the following steps:
 2.  Go to the server where the automatic validation and evaluation runs (currently quest.ms.mff.cuni.cz, operated by Dan).
     Remove the old clone of the repository and the reports from validation and evaluation.
     <pre>oldrepo=UD_Czech
-rm -rf $oldrepo
+newrepo=UD_Czech-PDT</pre>
+    <pre>rm -rf $oldrepo
 rm log/$oldrepo.log
 rm log/$oldrepo.eval.log
 grep -v -P '^'$oldrepo':' validation-report.txt > /tmp/newreport.txt
 mv /tmp/newreport.txt validation-report.txt
 chmod 666 validation-report.txt
+setfacl -m u:zeman:rw,u:www-data:rw validation-report.txt
 grep -v -P '^'$oldrepo'\t' evaluation-report.txt > /tmp/newreport.txt
 mv /tmp/newreport.txt evaluation-report.txt
-chmod 666 evaluation-report.txt</pre>
-    Instead of
-    <pre>chmod 666 validation-report.txt</pre>
-    we could do the more precise
-    <pre>setfacl -m u:zeman:rw,u:www-data:rw validation-report.txt</pre>
-3.  Call docs-automation/valdan/clone_one.sh UD_Czech-PDT.
+chmod 666 evaluation-report.txt
+setfacl -m u:zeman:rw,u:www-data:rw evaluation-report.txt</pre>
+3.  Call
+    <pre>docs-automation/valdan/clone_one.sh $newrepo
+./update-validation-report.pl $newrepo</pre>
 4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
     Create a new clone under the new name. Check out the dev branch.
 5.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
@@ -83,11 +121,15 @@ chmod 666 evaluation-report.txt</pre>
   * Repository renamed from UD_Czech to UD_Czech-PDT.</pre>
 7.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
     There will be a README error because the treebank is not recognized as previously released; see the next step.
-8.  Go to the `tools` repository to the script `check_files.pl` and locate the function `check_metadata()`.
+8.  Go to the `tools` repository to the Perl module `udlib.pm` and locate the function `check_metadata()`.
     There is a back up list of treebanks and their "Data available since" metadata. Replace `UD_Czech` with `UD_Czech-PDT`,
     keeping it in the list for the release where `UD_Czech` appeared for the first time. (We will probably change the way how this is checked in the future.)
-9.  Go to the `docs-automation` repository to the script `valdan/update-validation-report.pl`.
-    Inspect the two lists of treebanks in the `BEGIN` block and replace each occurrence of `UD_Czech` with `UD_Czech-PDT`. (We will probably change the way how this is done in the future.)
+9.  Go to the `docs-automation` repository.
+    Open the file `valdan/releases.json`. In the line of the release where the new name will appear for the first time,
+    we need this at the end of the release record:
+    <pre>, "renamed": [["UD_Czech", "UD_Czech-PDT"]]</pre>
+    <strong>The problem is that at the time of renaming the repository, the release process probably has not started and there
+    is no line for the next release yet.</strong>
 10. If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
 11. Finally, we want to regenerate the title page of Universal Dependencies.

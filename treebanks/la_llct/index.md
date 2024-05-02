@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Timo Korkiakangas, Flavio Massimiliano Cecchini, Marco Passarotti.
 
 Repository: [UD_Latin-LLCT](https://github.com/UniversalDependencies/UD_Latin-LLCT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct212)<br />
-Download all treebanks: [UD 2.12](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_llct213)<br />
+Download all treebanks: [UD 2.13](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,7 +67,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 
 ## Features
 
-[AdvType](la_llct-feat-AdvType.html) – [Aspect](la_llct-feat-Aspect.html) – [Case](la_llct-feat-Case.html) – [Degree](la_llct-feat-Degree.html) – [Form](la_llct-feat-Form.html) – [Gender](la_llct-feat-Gender.html) – [InflClass](la_llct-feat-InflClass.html) – [Mood](la_llct-feat-Mood.html) – [NameType](la_llct-feat-NameType.html) – [Number](la_llct-feat-Number.html) – [Number[psor]](la_llct-feat-Number-psor.html) – [NumType](la_llct-feat-NumType.html) – [NumValue](la_llct-feat-NumValue.html) – [Person](la_llct-feat-Person.html) – [Person[psor]](la_llct-feat-Person-psor.html) – [Polarity](la_llct-feat-Polarity.html) – [Poss](la_llct-feat-Poss.html) – [PronType](la_llct-feat-PronType.html) – [Proper](la_llct-feat-Proper.html) – [Reflex](la_llct-feat-Reflex.html) – [Tense](la_llct-feat-Tense.html) – [VerbForm](la_llct-feat-VerbForm.html) – [Voice](la_llct-feat-Voice.html)
+[AdvType](la_llct-feat-AdvType.html) – [Aspect](la_llct-feat-Aspect.html) – [Case](la_llct-feat-Case.html) – [Degree](la_llct-feat-Degree.html) – [Form](la_llct-feat-Form.html) – [Gender](la_llct-feat-Gender.html) – [InflClass](la_llct-feat-InflClass.html) – [Mood](la_llct-feat-Mood.html) – [NameType](la_llct-feat-NameType.html) – [Number](la_llct-feat-Number.html) – [Number[psor]](la_llct-feat-Number-psor.html) – [NumForm](la_llct-feat-NumForm.html) – [NumType](la_llct-feat-NumType.html) – [NumValue](la_llct-feat-NumValue.html) – [Person](la_llct-feat-Person.html) – [Person[psor]](la_llct-feat-Person-psor.html) – [Polarity](la_llct-feat-Polarity.html) – [Poss](la_llct-feat-Poss.html) – [PronType](la_llct-feat-PronType.html) – [Proper](la_llct-feat-Proper.html) – [Reflex](la_llct-feat-Reflex.html) – [Tense](la_llct-feat-Tense.html) – [VerbForm](la_llct-feat-VerbForm.html) – [Voice](la_llct-feat-Voice.html)
 
 ## Relations
 
@@ -77,7 +77,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 
 
 <ul>
-<li>This corpus contains 9023 sentences, 242410 tokens and 242411 syntactic words.</li>
+<li>This corpus contains 9023 sentences, 242391 tokens and 242411 syntactic words.</li>
 </ul>
 
 <ul>
@@ -93,8 +93,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
-<li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 1 types of multi-word tokens. Examples: eiusque.</li>
+<li>This corpus contains 20 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 2 types of multi-word tokens. Examples: nec, eiusque.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -107,15 +107,15 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
-<li>This corpus contains 6 word types tagged as particles (PART): autem, enim, nam, ne, non, quidem</li>
+<li>This corpus contains 11 word types tagged as particles (PART): autem, ecce, enim, hecce, igitur, itaque, nam, namque, ne, non, quidem</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as pronouns (PRON): _, aliquis, ego, egometipse, is, nihil, nos, nosmetipse, quandoque, qui, quis, quisquis, se, tu, tumetipse, uos</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): _, aliquis, ego, egometipse, is, nihil, nos, nosmetipse, quandoque, qui, quis, quisquis, sui, tu, tumetipse, uos</li>
 </ul>
 
 <ul>
-<li>This corpus contains 40 lemmas tagged as determiners (DET): aliquantus, aliqui, alius, alter, ambo, ceterus, cunctus, hic, idem, ille, ipse, iste, meus, multus, nonnullus, noster, nullus, omnis, praedictus, praefatus, qualis, qualiscumque, quantus, qui, quicumque, quidam, quilibet, quisque, reliquus, suprascriptus, suus, talis, tantus, totus, tuus, uester, ullus, unus, unusquisque, uterque</li>
+<li>This corpus contains 42 lemmas tagged as determiners (DET): aliquantus, aliqui, alius, alter, ambo, ceterus, cunctus, hic, idem, ille, ipse, iste, meus, multus, nonnullus, noster, nullus, omnis, praedictus, praefatus, qualis, qualiscumque, quantus, qui, quicumque, quidam, quilibet, quisque, quot, reliquus, suprascriptus, suus, talis, tantus, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uterque</li>
 </ul>
 
 <ul>
@@ -146,7 +146,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: esse, esset, essed, essem, essere, fuisset, phore, ese, fuisse, fuissent</li>
+    <li>AUX: esse, esset, essed, essem, fuisset, ese, essere, fuisse, fuissent, phore</li>
     <li>VERB: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
   </ul>
   </li>
@@ -176,7 +176,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>DET: ipsa, mea, suprascripta, hanc, illa, suprascripte, ipsius, una, omnibus, huius</li>
       <li>NOUN: ecclesie, manus, casa, terra, res, cartula, rebus, ecclesia, indictione, memorie</li>
       <li>NUM: duas, tres, due, dua, duae, duabus, dues, tre, tris</li>
-      <li>PRON: quas, eas, que, eam, quam, tibi, eius, ea, qua, ego</li>
+      <li>PRON: quas, eas, que, eam, quam, tibi, eius, ea, qua, cui</li>
       <li>PROPN: Luca, Marie, Italia, Langubardiam, Lunata, Langobardiam, Langubardia, Mariae, Verriana, Piscia</li>
       <li>VERB-Part: traditam, pertenentes, facta, sita, pegiorata, tradita, pertinentes, tenente, dicta, circumdata</li>
     </ul>
@@ -190,7 +190,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>DET: qui, nostro, tuis, meis, vestro, ipsius, ipso, ipse, suprascripto, tali</li>
       <li>NOUN: teste, filio, loco, notarius, presbitero, anno, domno, episcopus, presbiter, testis</li>
       <li>NUM: duo, tres, duos, ducentos, tricentos, duocentos, duobus, quatringentos, quingentos, ducentus</li>
-      <li>PRON: ego, me, nos, qui, tibi, eius, mihi, vobis, nobis, tu</li>
+      <li>PRON: qui, tibi, eius, vobis, tu, te, vos, cui, que, quo</li>
       <li>PROPN: Dei, Martini, Deo, Petri, Gherardus, Petrus, domini, Adalfridi, Fridiani, Andreas</li>
       <li>VERB-Part: rogatus, regnante, ingressus, coronatus, abitantes, facto, gubernans, dante, ordinatus, visu</li>
     </ul>
@@ -205,7 +205,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>DET: omnia, uno, alio, hec, omnibus, vestro, quolibet, suo, ipso, ipsum</li>
       <li>NOUN: signum, nomine, argentum, lato, caput, regni, imperii, tempore, mandato, capo</li>
       <li>NUM: duo, milia, duobus, tria</li>
-      <li>PRON: id, quod, que, aliquo, quibus, aliquid, quot, eo, quit, nihil</li>
+      <li>PRON: id, quod, que, aliquo, quibus, aliquid, eo, quit, quidquid, quo</li>
       <li>PROPN: Sexto, Castronovo, Vuamo, Suborbano, Feruniano, Paterno, Sugrominio, Tempaniano, Asulari, Turingo</li>
       <li>VERB-Part: actum, faciendum, conservata, designatas, abendi, usufructuandi, faciendi, adimpleta, gubernandi, adinpleta</li>
     </ul>
@@ -326,7 +326,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>DET: qui, ipse, hec, omnia, ille, ipsa, ipsi, suprascripta, quales, meis</li>
       <li>NOUN: signum, notarius, episcopus, presbiter, clericus, imperator, pars, missus, germani, schabinus</li>
       <li>NUM: duo, tres, due, duae, dues, quatringenti, tricenti, tris</li>
-      <li>PRON: ego, qui, nos, id, tu, quod, que, vos, quis, quot</li>
+      <li>PRON: ego, qui, nos, id, tu, quod, que, vos, quis, quidquid</li>
       <li>PROPN: Gherardus, Petrus, Andreas, Leo, Hludovuicus, Iohannes, Adalfridi, Alpertus, Teufridi, Ambrosius</li>
       <li>VERB-Part: rogatus, actum, conservata, pegiorata, ingressus, coronatus, adimpleta, circumdata, adinpleta, factum</li>
     </ul>
@@ -409,8 +409,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: est, sit, sint, sunt, erat, essent, esse, esset, es, sum</li>
-      <li>AUX-Inf: esse, esset, ese, essem</li>
+      <li>AUX-Fin: est, sum, sunt, sit, sint, sumus, es, erat, essent, esse</li>
+      <li>AUX-Inf: esse, esset, essed, essem, ese, essere</li>
       <li>AUX-Part: futura</li>
       <li>VERB-Fin: debeamus, legitur, tenet, dicitur, spondeo, videtur, videor, tene, abeo, offero</li>
       <li>VERB-Inf: scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</li>
@@ -434,6 +434,8 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Prosp
     <ul>
+      <li>AUX-Fin: abuerimus</li>
+      <li>AUX-Inf: phore</li>
       <li>VERB-Part: faciendum, abendi, usufructuandi, faciendi, gubernandi, perexolvendum, abitandum, meliorandum, gubernandum, inperandi</li>
     </ul>
   </li>
@@ -554,9 +556,10 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: taliter, tam, tantum, hic, ita, ecce, hecce, tantu, hinc, ic</li>
+      <li>ADV: taliter, tam, tantum, hic, ita, tantu, hinc, ic</li>
       <li>CCONJ: tam</li>
       <li>DET: ipsa, suprascripta, ipsius, hanc, ipse, illa, ipso, suprascripte, suprascripto, hec</li>
+      <li>PART: ecce, hecce</li>
     </ul>
   </li>
 </ul>
@@ -591,9 +594,9 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: ubi, ibi, quantum, unde, ubicumque, qualiter, ut, quamvis, quandoque, quantu</li>
+      <li>ADV: ibi, ubi, quantum, unde, ubicumque, qualiter, ut, quamvis, quandoque, quantu</li>
       <li>CCONJ: ut, ud</li>
-      <li>DET: quales, quale, quantas, qualis, quanta, quali, quante, quiscunque, qualem, quecumque</li>
+      <li>DET: quales, quot, quale, quantas, qualis, quanta, quali, quante, quiscunque, qualem</li>
       <li>PRON: qui, quas, que, quod, cui, quam, quo, quem, quibus, qua</li>
       <li>SCONJ: ut, quam, quando, ud, cum, quandoque, u, aut, cu, qualiter</li>
     </ul>
@@ -603,7 +606,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 <ul>
   <li>Tot
     <ul>
-      <li>DET: omnia, omnibus, omni, omnem, omnes, ambas, omne, omnis, ambo, homnia</li>
+      <li>DET: omnia, omnibus, omni, omnem, omnes, ambas, omne, omnis, universis, ambo</li>
     </ul>
   </li>
 </ul>
@@ -617,7 +620,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
     <ul>
       <li>ADV: tantum, tantu</li>
       <li>DET: uno, una, unum, ambas, unam, ambo, quantas, quanta, plures, unus</li>
-      <li>NUM: duas, viginti, triginta, quinquaginta, duo, decem, sex, quattuor, quinque, duodecim</li>
+      <li>NUM: duas, duo, viginti, triginta, tres, quinquaginta, decem, sex, quattuor, quinque</li>
     </ul>
   </li>
 </ul>
@@ -736,12 +739,12 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
     <ul>
       <li>Loc
         <ul>
-          <li>ADV: unde, hic, exinde, ubique, alibi, foras, foris, ibidem, hinc, ic</li>
+          <li>ADV: ubi, unde, ibidem, hic, foris, ubique, alibi, ubicumque, inde, exinde</li>
         </ul>
       </li>
       <li>Tim
         <ul>
-          <li>ADV: iam, semper, nunc, iterum, iteru, quandoque, senper, aduc, exinde, ia</li>
+          <li>ADV: tunc, iam, semper, nunc, iterum, postea, iteru, olim, quandoque, senper</li>
         </ul>
       </li>
     </ul>
@@ -784,6 +787,23 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
       <li>Nat
         <ul>
           <li>ADJ: Romanum, Romanus, Romana</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Roman
+        <ul>
+          <li>NUM: XIIII, XX</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: duas, duo, viginti, triginta, tres, quinquaginta, decem, sex, quattuor, quinque</li>
         </ul>
       </li>
     </ul>
@@ -850,7 +870,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: habeo, sum.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: sum, habeo.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: sum.</li>
 </ul>
 
@@ -872,7 +892,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Abl (1)</li>
       <li>VERB-Fin--PRON-Acc (70)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Nom (1537)</li>
+      <li>VERB-Fin--PRON-Nom (1535)</li>
       <li>VERB-Inf--NOUN-Abl (2)</li>
       <li>VERB-Inf--NOUN-Acc (13)</li>
       <li>VERB-Inf--NOUN-Dat (3)</li>
@@ -900,9 +920,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (2018)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (105)</li>
-      <li>VERB-Fin--PRON-Acc (1094)</li>
+      <li>VERB-Fin--PRON-Acc (1089)</li>
       <li>VERB-Fin--PRON-Nom (14)</li>
-      <li>VERB-Inf--NOUN-Acc (1530)</li>
+      <li>VERB-Inf--NOUN-Acc (1591)</li>
       <li>VERB-Inf--NOUN-Nom (98)</li>
       <li>VERB-Inf--PRON-Acc (322)</li>
       <li>VERB-Inf--PRON-Nom (11)</li>

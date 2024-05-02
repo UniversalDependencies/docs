@@ -7,7 +7,7 @@ udver: '2'
 
 # Nominals
 
-The UD annotation assumes the nominal, or noun phrase, as one of the basic structures that we expect to find in all languages. A nominal minimally consists of a noun, proper noun or pronoun.
+This section of the [syntax overview](syntax.html) is devoted to nominals. The UD annotation assumes the nominal, or noun phrase, as one of the basic structures that we expect to find in all languages. A nominal minimally consists of a noun, proper noun or pronoun.
 
 ~~~ sdparse
 hon såg filmen . \n she saw the-film

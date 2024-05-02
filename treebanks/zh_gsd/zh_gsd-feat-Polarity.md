@@ -16,12 +16,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="zh_gsd-pos-ADV.html
 
 ### `ADV`
 
-244 <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Polarity`.
+244 <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (244; 100% of non-empty `Polarity`): 不、 未、 沒、 別、 無
-* `EMPTY` (5508): 也、 並、 而、 但、 所、 都、 曾、 則、 就、 還
+* `EMPTY` (2837): 曾、 已、 最、 約、 只、 更、 共、 主要、 已經、 將
 
 ### `VERB`
 

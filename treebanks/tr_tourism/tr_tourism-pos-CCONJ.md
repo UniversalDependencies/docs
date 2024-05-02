@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>İLE</em> (<tt><a href="tr_tourism-po
   * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7: <em>ÇEŞİT VARDI <b>ANCAK</b> LEZZET YOKTU .</em>
 * <em>YA</em>
   * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 7: <em><b>YA</b> YAZMAYA KALKSAM SAATLERCE YAZABİLİRİM .</em>
-  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1: <em>ODAMIZLA İLGİLENEN PINAR KARACA <b>YA</b> , GÖL EVLERİ BARMENİ EROL , ANA RESTORANTTA BALIKLARI KIVAMINDA PİŞİREN AŞÇI BATUHAN VE GARSON ALİ KARDEŞİME AYRIYETEN TEŞEKKÜRLER .</em>
+  * <tt><a href="tr_tourism-pos-X.html">X</a></tt> 1: <em>ODAMIZLA İLGİLENEN PINAR KARACA <b>YA</b> GÖL EVLERİ BARMENİ EROL ANA RESTORANTTA BALIKLARI KIVAMINDA PİŞİREN AŞÇI BATUHAN VE GARSON ALİ KARDEŞİME AYRIYETEN TEŞEKKÜRLER .</em>
 * <em>NE</em>
   * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28: <em>ÇOK İYİ FATURAMI <b>NE</b> ZAMAN ALABİLİRİM .</em>
   * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>NE</b> İYİ <b>NE</b> KÖTÜ .</em>
@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>İLE</em> (<tt><a href="tr_tourism-po
   * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4: <em><b>HEM</b> LEZZET <b>HEM</b> ÇEŞİT AÇISINDAN BEĞENMEDİM .</em>
 * <em>İSE</em>
   * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4: <em>ODALAR <b>İSE</b> GERÇEKTEN GÜZEL .</em>
-  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 2: <em>ODAYI TEMİZLEYEN GÖREVLİYİ ARADIĞIMDA <b>İSE</b> HİÇ BİR SORUMLU KİMİN O KATLA SORUMLU OLDUĞUNU BİLMİYORDU .</em>
+  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 2: <em>PERSONELLER <b>İSE</b> TAMAMEN ASIK SURATLI YAVAŞ ÇÜNKÜ ÇOK İNSAN VAR ONLAR DA HAKLI YETİŞEMİYORLAR .</em>
   * <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 1: <em>AİLE İÇİN <b>İSE</b> BULUNMAZ OTEL .</em>
 * <em>BEYE</em>
   * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 42: <em>SAMET <b>BEYE</b> 5 PUAN VERİRİM .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>İLE</em> (<tt><a href="tr_tourism-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.190476 (the average of all parts of speech is 1.824721).
+The form / lemma ratio of `CCONJ` is 1.190476 (the average of all parts of speech is 1.825646).
 
 The 1st highest number of forms (3) was observed with the lemma “ile”: <em>İLE, İLGİLİ, İŞ</em>.
 

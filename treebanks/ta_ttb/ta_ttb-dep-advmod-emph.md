@@ -24,10 +24,10 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 3 4 advmod:emph	color:blue
 1	இதற்கு	இது	ADV	AA-------	_	7	advmod	7:advmod	Translit=itarku|LTranslit=itu
 2	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=tamilaka|LTranslit=tamilakam
-3	அரச்	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=arac|LTranslit=aracu
-4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
-5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	Translit=uṭantaiy|LTranslit=uṭantai
-6	ஆக	ஆகு	ADV	AA-------	_	7	advmod	7:advmod	Translit=āka|LTranslit=āku
+3	அரச்	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	LTranslit=aracu|Translit=arac
+4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	LTranslit=um|Translit=um
+5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	LTranslit=uṭantai|Translit=uṭantaiy
+6	ஆக	ஆகு	ADV	AA-------	_	7	advmod	7:advmod	LTranslit=āku|Translit=āka
 7	உள்ளது	உள்	VERB	Vr-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=uḷḷatu|LTranslit=uḷ
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
 
@@ -41,8 +41,8 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 2	fgColor:white
 # visual-style 2 3 advmod:emph	color:blue
 1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nsubj	2:nsubj	Translit=avar|LTranslit=avar
-2	பேசியத்	பேசு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	0	root	0:root	Translit=pēciyat|LTranslit=pēcu
-3	ஆவது	ஆவது	PART	Tl-------	_	2	advmod:emph	2:advmod:emph	Translit=āvatu|LTranslit=āvatu
+2	பேசியத்	பேசு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	0	root	0:root	LTranslit=pēcu|Translit=pēciyat
+3	ஆவது	ஆவது	PART	Tl-------	_	2	advmod:emph	2:advmod:emph	LTranslit=āvatu|Translit=āvatu
 4	:	:	PUNCT	Z:-------	PunctType=Comm	2	punct	2:punct	SpaceAfter=No|Translit=:|LTranslit=:
 5	.	.	PUNCT	Z#-------	PunctType=Peri	2	punct	2:punct	Translit=.|LTranslit=.
 

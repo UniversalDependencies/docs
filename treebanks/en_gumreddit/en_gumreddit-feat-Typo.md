@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-148 tokens (1%) have a non-empty value of `Typo`.
+147 tokens (1%) have a non-empty value of `Typo`.
 1 types (0) occur at least once with a non-empty value of `Typo`.
 1 lemmas (0) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 14 part-of-speech tags: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (21; 0% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -26,13 +26,13 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 ### `PRON`
 
-23 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
+21 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 91%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (20; 87%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (18; 78%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 74%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 65%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 90%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18; 86%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 76%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16; 76%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 62%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (23; 100% of non-empty `Typo`): <em>_</em>
+* `Yes` (21; 100% of non-empty `Typo`): <em>_</em>
 
 ### `PROPN`
 
@@ -46,19 +46,19 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 ### `AUX`
 
-15 <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Typo`.
+16 <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14; 93%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13; 87%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 80%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12; 80%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=3</tt> (10; 67%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 94%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14; 88%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 81%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13; 81%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 69%).
 
 `AUX` tokens may have the following values of `Typo`:
 
-* `Yes` (15; 100% of non-empty `Typo`): <em>_</em>
+* `Yes` (16; 100% of non-empty `Typo`): <em>_</em>
 
 ### `VERB`
 
 14 <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 86%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="en_gumreddit-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 93%).
 
 `VERB` tokens may have the following values of `Typo`:
 

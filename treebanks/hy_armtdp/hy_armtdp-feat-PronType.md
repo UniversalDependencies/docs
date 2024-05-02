@@ -25,8 +25,8 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (337; 17% of non-empty `PronType`): <em>դա, այն, սա, դրա, այդ, դրանք, դրանից, այս, այդպես, դրանց</em>
 * `Emp` (155; 8% of non-empty `PronType`): <em>իրեն, ինքը, իր, իրենց, ինքն, իրենք, իրենից, ինքներդ, ինքս, ինքներս</em>
 * `Exc` (5; 0% of non-empty `PronType`): <em>ինչ</em>
-* `Ind` (135; 7% of non-empty `PronType`): <em>մեկը, այլն, մեկի, ոք, մեկին, ուրիշ, մեկն, ոմանք, ուրիշների, մեկում</em>
-* `Int` (180; 9% of non-empty `PronType`): <em>ինչ, ով, ում, ինչի, ինչին, ինչով, որն, ուր, ինչը, ինչն</em>
+* `Ind` (136; 7% of non-empty `PronType`): <em>մեկը, այլն, մեկի, ոք, մեկին, ուրիշ, մեկն, ոմանք, ուրիշների, մեկում</em>
+* `Int` (179; 9% of non-empty `PronType`): <em>ինչ, ով, ում, ինչի, ինչին, ինչով, որն, ուր, ինչը, ինչն</em>
 * `Neg` (25; 1% of non-empty `PronType`): <em>ոչինչ, ոչնչով</em>
 * `Prs` (780; 40% of non-empty `PronType`): <em>նա, ես, մենք, ինձ, նրանք, նրան, նրանց, մեզ, քեզ, դու</em>
 * `Rcp` (26; 1% of non-empty `PronType`): <em>իրար, միմյանց, իրարից, իրարու, միմյանցից</em>
@@ -34,14 +34,14 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Tot` (66; 3% of non-empty `PronType`): <em>բոլորը, բոլորի, բոլորին, բոլորս, ամենից, ամենը, բոլորն, ամենին, ամենքիս, բոլորիս</em>
 
 <table>
-  <tr><th>Paradigm <i>ինչ</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Exc</tt></th></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչից</em></td><td><em>ինչից</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչին</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչի</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչով</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչը, ինչն</em></td><td><em>ինչը, ինչն</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչ</em></td><td><em>ինչ</em></td><td><em>ինչ</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ինչեր</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>ինչ</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th><th><tt>Exc</tt></th></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչից</em></td><td><em>ինչից</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչին</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչի</em></td><td></td><td><em>ինչի</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչով</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչը, ինչն</em></td><td><em>ինչը, ինչն</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ինչ</em></td><td><em>ինչ</em></td><td></td><td><em>ինչ</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ինչեր</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `DET`

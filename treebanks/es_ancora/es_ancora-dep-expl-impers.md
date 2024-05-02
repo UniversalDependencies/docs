@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 1	Se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pass	2:expl:pass	_
 2	establecieron	establecer	VERB	vmis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 3	también	también	ADV	rg	_	2	advmod	2:advmod	_
-4	tres	tres	NUM	dn0cp0	Number=Plur|NumType=Card	5	nummod	5:nummod	_
+4	tres	tres	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	5	nummod	5:nummod	_
 5	tipos	tipo	NOUN	ncmp000	Gender=Masc|Number=Plur	2	nsubj	2:nsubj	ArgTem=arg1:pat
 6	de	de	ADP	sps00	_	7	case	7:case	_
 7	duelo	duelo	NOUN	ncms000	Gender=Masc|Number=Sing	5	nmod	5:nmod	SpaceAfter=No

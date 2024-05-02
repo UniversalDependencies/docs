@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Abs">Abs</a></td>
   <td><a href="#Cmp">Cmp</a></td>
+  <td><a href="#Dim">Dim</a></td>
   <td><a href="#Sup">Sup</a></td>
 </tr>
 </table>
@@ -53,3 +54,19 @@ set of objects.
 #### Example:
 
 * _guapo_ "handsome"; _<b>guapísimo</b>_ "<b>indescribably handsome</b>"
+
+### <a name="Dim">`Dim`</a>: diminutive
+
+The diminutive degree in Spanish is used to express a lesser degree or a smaller version of something,
+either physically or in intensity. It often conveys feelings of affection, tenderness, or endearment.
+In nouns and adjectives this is commonly achieved by adding suffixes like _-ito, -ita, -illo, -illa._
+Additional regional suffixes also used for creating diminutive forms are _-ico, -ica, -ín,_ and _-ino._
+These suffixes can also be used in adverbs and verbs, especially in Latin American varieties and with various semantic implications.
+
+#### Example:
+
+* _casa_ "house"; <b>casita</b> "<b>little house</b>"
+* _triste_ "sad"; <b>tristecito</b> "<b>slightly sad</b>"
+
+
+<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:41 CET -->

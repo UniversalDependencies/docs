@@ -17,18 +17,18 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 xcomp	color:blue
-1	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	заводитліс	заводітны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	OrigLang=ru
-3	чӧвтны	чӧвтны	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	куритчӧмсӧ	куритчӧм	NOUN	N	Case=Acc|Number=Sing	3	obj	_	OrigLang=ru
-5	да	да	CCONJ	CC	_	6	cc	_	_
-6	юӧмсӧ	юӧм	NOUN	N	Case=Acc|Number=Sing	4	conj	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 3 6 xcomp	color:blue
+1	Водз	водз	ADV	Adv	_	2	advmod:tmod	_	_
+2	асылын	асыв	NOUN	N	Case=Ine|Number=Sing	3	obl:tmod	_	_
+3	лэччи	лэччыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
+4	Эжва	Эжва	PROPN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
+5	дорӧ	дорын	ADP	Po	Case=Ill|Number=Sing	4	case	_	_
+6	вуграсьны	вуграсьны	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -6,59 +6,58 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `NOUN`
 
-There are 793 `NOUN` lemmas (41%), 1898 `NOUN` types (31%) and 7350 `NOUN` tokens (19%).
-Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 1 in number of tokens.
+There are 793 `NOUN` lemmas (42%), 3641 `NOUN` types (36%) and 7350 `NOUN` tokens (19%).
+Out of 15 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>בן, כל, ארץ, אלהים, אב, אח, אישׁ, אשׁה, שׁנה, יום</em>
 
-The 10 most frequent `NOUN` types:  <em>ארץ, אב, כָּל, בן, אח, כל, אשׁה, פנה, אישׁ, שׁם</em>
+The 10 most frequent `NOUN` types:  <em>כָּל, כָל, בֶּן, שָׁנָ֑ה, אֶ֣רֶץ, אָֽרֶץ, אֱלֹהִ֖ים, אֶ֥רֶץ, אֲבִי, אָ֑רֶץ</em>
 
 The 10 most frequent ambiguous lemmas: <em>שׁנה</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 164, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>פנה</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 143, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 4), <em>שׁם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 127, <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 107, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 14), <em>עבד</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 90, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 21), <em>עין</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 84, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>דבר</em> (<tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 76, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 64), <em>זרע</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 60, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 6), <em>עיר</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 54, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>אדם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 48, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2), <em>עם</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 97, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 44)
 
-The 10 most frequent ambiguous types:  <em>פנה</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 100, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 3), <em>שׁם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 89, <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 25, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2), <em>עבד</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 67, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 12), <em>זרע</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 45, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2), <em>אדם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2), <em>דבר</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 44, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 39), <em>אדמה</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 38, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>עם</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 71, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 33), <em>אם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 25, <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 20), <em>ילד</em> (<tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 111, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 23)
+The 10 most frequent ambiguous types:  <em>שֵׁ֥ם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>שֵׁם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>עִ֖יר</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>שְׁנֵ֣י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4), <em>אֵ֑ל</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 1), <em>אָדָ֑ם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>אָדָם֙</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>מֹ֣ות</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>חַיִּֽים</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1), <em>מְאֹ֑ד</em> (<tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 6, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3)
 
 
-* <em>פנה</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 100: <em>ו אמר יְהוָ֖ה אֶל ־ קָ֑יִן לָ֚מָּה חָ֣רָה ל אתה ו למה נָפְל֥וּ <b>פנה</b> אתה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 3: <em>ו <b>פנה</b> מן שׁם ה אישׁ ו הלך סְדֹ֑מָה ו אברהם עוד הוא עֹמֵ֖ד ל פנה יְהוָֽה ׃</em>
-* <em>שׁם</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 89: <em>ו <b>שׁם</b> ־ ה נהר ה שׁני גִּיחֹ֑ון ה֣וּא ה סבב אֵ֖ת כָּל ־ אֶ֥רֶץ כּֽוּשׁ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 25: <em>ו פוץ יְהוָ֥ה את הם מן <b>שׁם</b> עַל ־ פְּנֵ֣י כָל ־ ה ארץ ו חדל ל בנה ה עיר ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2: <em>ו ל <b>שׁם</b> יֻלַּ֖ד גַּם ־ ה֑וּא אֲבִי֙ כָּל ־ בְּנֵי ־ עֵ֔בֶר אֲחִ֖י יֶ֥פֶת ה גדול ׃</em>
-* <em>עבד</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 67: <em>ו רוץ ה <b>עבד</b> ל קרא היא ו אמר גמא אני נָ֛א מְעַט ־ מַ֖יִם מן כד את ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 12: <em>ו אהב יַעֲקֹ֖ב אֶת ־ רָחֵ֑ל ו אמר <b>עבד</b> אתה שֶׁ֣בַע שָׁנִ֔ים ב רחל בת אתה ה קטן ׃</em>
-* <em>זרע</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 45: <em>ו גם אֶת ־ בֶּן ־ ה אמה ל גוי שׂים הוא כִּ֥י <b>זרע</b> אתה הֽוּא ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2: <em>ו <b>זרע</b> יִצְחָק֙ ב ה ארץ ה היא ו מצא ב ה שׁנה ה היא מֵאָ֣ה שְׁעָרִ֑ים ו ברך הוא יְהוָֽה ׃</em>
-* <em>אדם</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 44: <em>ו היה שׁנים הם עֲרוּמִּ֔ים ה <b>אדם</b> ו אשׁה הוא ו לא יִתְבֹּשָֽׁשׁוּ ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2: <em>ו אמר עֵשָׂ֜ו אֶֽל ־ יַעֲקֹ֗ב לעט אני נָא֙ מִן ־ ה <b>אדם</b> ה <b>אדם</b> ה זה כִּ֥י עָיֵ֖ף אָנֹ֑כִי עַל ־ כֵּ֥ן קָרָֽא ־ שׁם הוא אֱדֹֽום ׃</em>
-* <em>דבר</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 44: <em>ו היה כָל ־ ה ארץ שָׂפָ֣ה אֶחָ֑ת ו <b>דבר</b> אֲחָדִֽים ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 39: <em>ו <b>דבר</b> אֱלֹהִ֖ים אֶל ־ נֹ֥חַ לֵאמֹֽר ׃</em>
-* <em>אדמה</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 38: <em>ו אד יַֽעֲלֶ֣ה מִן ־ ה ארץ ו שׁקה אֶֽת ־ כָּל ־ פְּנֵֽי ־ ה <b>אדמה</b> ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>ו היה גְּב֤וּל ה כנעני מן צידון בוא אתה גְרָ֖רָה עַד ־ עַזָּ֑ה בוא אתה סְדֹ֧מָה ו עמרה ו <b>אדמה</b> ו צבאים עַד ־ לָֽשַׁע ׃</em>
-* <em>עם</em>
-  * <tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 71: <em>ו יתר יַעֲקֹ֖ב ל בד הוא ו אבק אִישׁ֙ <b>עם</b> הוא עַ֖ד עֲלֹ֥ות ה שׁחר ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 33: <em>ו קום אַבְרָהָ֛ם ו חוה ל <b>עם</b> ־ ה ארץ ל בן ־ חֵֽת ׃</em>
-* <em>אם</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 25: <em>ו רוץ ה נערה ו נגד ל בית <b>אם</b> היא כ ה דבר ה אלה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 20: <em>ו <b>אם</b> ־ לֹ֧א תִשְׁמְע֛וּ אל אנחנו ל מול ו לקח אֶת ־ בת אנחנו ו הלך ׃</em>
-* <em>ילד</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 111: <em>ו <b>ילד</b> עָדָ֖ה אֶת ־ יָבָ֑ל ה֣וּא הָיָ֔ה אֲבִ֕י יֹשֵׁ֥ב אֹ֖הֶל ו מקנה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 23: <em>ו כלה ה מים מִן ־ ה חמת ו שׁלך אֶת ־ ה <b>ילד</b> תַּ֖חַת אַחַ֥ד ה שׂיח ׃</em>
+* <em>שֵׁ֥ם</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 19: <em>וַ יִּמְלֹ֣ךְ בֶּ אֱדֹ֔ום בֶּ֖לַע בֶּן ־ בְּעֹ֑ור וְ <b>שֵׁ֥ם</b> עִירֹ֖ ו דִּנְהָֽבָה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>וּ לְ <b>שֵׁ֥ם</b> יֻלַּ֖ד גַּם ־ ה֑וּא אֲבִי֙ כָּל ־ בְּנֵי ־ עֵ֔בֶר אֲחִ֖י יֶ֥פֶת הַ גָּדֹֽול ׃</em>
+* <em>שֵׁם</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 9: <em>וַ יִּקְרָ֥א אֹתָ֖ הּ שִׁבְעָ֑ה עַל ־ כֵּ֤ן <b>שֵׁם</b> ־ הָ עִיר֙ בְּאֵ֣ר שֶׁ֔בַע עַ֖ד הַ יֹּ֥ום הַ זֶּֽה ׃ ס</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>בְּ עֶ֨צֶם הַ יֹּ֤ום הַ זֶּה֙ בָּ֣א נֹ֔חַ וְ <b>שֵׁם</b> ־ וְ חָ֥ם וָ יֶ֖פֶת בְּנֵי ־ נֹ֑חַ וְ אֵ֣שֶׁת נֹ֗חַ וּ שְׁלֹ֧שֶׁת נְשֵֽׁי ־ בָנָ֛י ו אִתָּ֖ ם אֶל ־ הַ תֵּבָֽה ׃ הֵ֜מָּה וְ כָל ־ הַֽ חַיָּ֣ה לְ מִינָ֗ הּ וְ כָל ־ הַ בְּהֵמָה֙ לְ מִינָ֔ הּ וְ כָל ־ הָ רֶ֛מֶשׂ הָ רֹמֵ֥שׂ עַל ־ הָ אָ֖רֶץ לְ מִינֵ֑ הוּ וְ כָל ־ הָ עֹ֣וף לְ מִינֵ֔ הוּ כֹּ֖ל צִפֹּ֥ור כָּל ־ כָּנָֽף ׃</em>
+* <em>עִ֖יר</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 7: <em>וַ יִּקַּ֞ח עֲשָׂרָ֧ה אֲנָשִׁ֛ים מִ זִּקְנֵ֥י הָ <b>עִ֖יר</b> וַ יֹּ֣אמֶר שְׁבוּ ־ פֹ֑ה וַ יֵּשֵֽׁבוּ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>מִן ־ הָ אָ֥רֶץ הַ הִ֖וא יָצָ֣א אַשּׁ֑וּר וַ יִּ֨בֶן֙ אֶת ־ נִ֣ינְוֵ֔ה וְ אֶת ־ רְחֹבֹ֥ת <b>עִ֖יר</b> וְ אֶת ־ כָּֽלַח ׃ וְֽ אֶת ־ רֶ֔סֶן בֵּ֥ין נִֽינְוֵ֖ה וּ בֵ֣ין כָּ֑לַח הִ֖וא הָ עִ֥יר הַ גְּדֹלָֽה ׃</em>
+* <em>שְׁנֵ֣י</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6: <em>וַ תַּ֣עַשׂ הָ אָ֔רֶץ בְּ שֶׁ֖בַע <b>שְׁנֵ֣י</b> הַ שָּׂבָ֑ע לִ קְמָצִֽים ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 4: <em>וַ יִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל <b>שְׁנֵ֣י</b> סָרִיסָ֑י ו עַ֚ל שַׂ֣ר הַ מַּשְׁקִ֔ים וְ עַ֖ל שַׂ֥ר הָ אֹופִֽים ׃</em>
+* <em>אֵ֑ל</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 5: <em>וַ יִּקְרָ֛א אֶת ־ שֵֽׁם ־ הַ מָּקֹ֥ום הַ ה֖וּא בֵּֽית ־ <b>אֵ֑ל</b> וְ אוּלָ֛ם ל֥וּז שֵׁם ־ הָ עִ֖יר לָ ה רִאשֹׁנָֽה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PRON.html">PRON</a></tt> 1: <em>וְ הִרְבֵּיתִ֤י אֶֽת ־ זַרְעֲ ךָ֙ כְּ כֹוכְבֵ֣י הַ שָּׁמַ֔יִם וְ נָתַתִּ֣י לְ זַרְעֲ ךָ֔ אֵ֥ת כָּל ־ הָ אֲרָצֹ֖ת הָ <b>אֵ֑ל</b> וְ הִתְבָּרֲכ֣וּ בְ זַרְעֲ ךָ֔ כֹּ֖ל גֹּויֵ֥י הָ אָֽרֶץ ׃</em>
+* <em>אָדָ֑ם</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4: <em>וַ יִּקְרָ֛א יְהוָ֥ה אֱלֹהִ֖ים אֶל ־ הָֽ <b>אָדָ֑ם</b> וַ יֹּ֥אמֶר לֹ֖ ו אַיֶּֽ כָּה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>זֶ֣ה סֵ֔פֶר תֹּולְדֹ֖ת <b>אָדָ֑ם</b> בְּ יֹ֗ום בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּ דְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֹֽ ו ׃</em>
+* <em>אָדָם֙</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4: <em>וַ יִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת ־ הָֽ <b>אָדָם֙</b> בְּ צַלְמֹ֔ ו בְּ צֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹתֹ֑ ו זָכָ֥ר וּ נְקֵבָ֖ה בָּרָ֥א אֹתָֽ ם ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>וַ יִּֽהְי֞וּ כָּל ־ יְמֵ֤י <b>אָדָם֙</b> אֲשֶׁר ־ חַ֔י תְּשַׁ֤ע מֵאֹות֙ שָׁנָ֔ה וּ שְׁלֹשִׁ֖ים שָׁנָ֑ה וַ יָּמֹֽת ׃ ס</em>
+* <em>מֹ֣ות</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4: <em>וַ יְהִ֗י אַחֲרֵי֙ <b>מֹ֣ות</b> אַבְרָהָ֔ם וַ יְבָ֥רֶךְ אֱלֹהִ֖ים אֶת ־ יִצְחָ֣ק בְּנֹ֑ ו וַ יֵּ֣שֶׁב יִצְחָ֔ק עִם ־ בְּאֵ֥ר לַחַ֖י רֹאִֽי ׃ ס</em>
+  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>וְ עַתָּ֗ה הָשֵׁ֤ב אֵֽשֶׁת ־ הָ אִישׁ֙ כִּֽי ־ נָבִ֣יא ה֔וּא וְ יִתְפַּלֵּ֥ל בַּֽעַדְ ךָ֖ וֶֽ חְיֵ֑ה וְ אִם ־ אֵֽינְ ךָ֣ מֵשִׁ֗יב דַּ֚ע כִּי ־ <b>מֹ֣ות</b> תָּמ֔וּת אַתָּ֖ה וְ כָל ־ אֲשֶׁר ־ לָֽ ךְ ׃</em>
+* <em>חַיִּֽים</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3: <em>וַ יָּבֹ֥אוּ אֶל ־ נֹ֖חַ אֶל ־ הַ תֵּבָ֑ה שְׁנַ֤יִם שְׁנַ֨יִם֙ מִ כָּל ־ הַ בָּשָׂ֔ר אֲשֶׁר ־ בֹּ֖ ו ר֥וּחַ <b>חַיִּֽים</b> ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1: <em>וַ יַּחְפְּר֥וּ עַבְדֵֽי ־ יִצְחָ֖ק בַּ ה נָּ֑חַל וַ יִּ֨מְצְאוּ ־ שָׁ֔ם בְּאֵ֖ר מַ֥יִם <b>חַיִּֽים</b> ׃</em>
+* <em>מְאֹ֑ד</em>
+  * <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 6: <em>וְ אַבְרָ֖ם כָּבֵ֣ד <b>מְאֹ֑ד</b> בַּ ה מִּקְנֶ֕ה בַּ ה כֶּ֖סֶף וּ בַ ה זָּהָֽב ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3: <em>כִּ שְׁמֹ֤עַ עֵשָׂו֙ אֶת ־ דִּבְרֵ֣י אָבִ֔י ו וַ יִּצְעַ֣ק צְעָקָ֔ה גְּדֹלָ֥ה וּ מָרָ֖ה עַד ־ <b>מְאֹ֑ד</b> וַ יֹּ֣אמֶר לְ אָבִ֔י ו בָּרֲכֵ֥ נִי גַם ־ אָ֖נִי אָבִֽ י ׃</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.393443 (the average of all parts of speech is 3.177604).
+The form / lemma ratio of `NOUN` is 4.591425 (the average of all parts of speech is 5.381405).
 
-The 1st highest number of forms (32) was observed with the lemma “בן”: <em>בְּנִ֣י, בְּנֵ֖י, בְּנֵ֣י, בְּנֵ֤י, בְּנֵ֥י, בְּנֵ֨י, בְּנֵֽי, בְּנֵי, בְנֵֽי, בְנֵי, בֵ֖ן, בֵּ֑ן, בֵּ֔ן, בֵּ֖ן, בֵּ֗ן, בֵּ֤ן, בֵּ֥ן, בֵּֽן, בֵּן, בֵּן֒, בֵֽן, בֵן֙, בֶּן, בֶן, בָּנִ֖ים, בָּנִֽים, בָנִ֑ים, בָנִ֔ים, בָנִ֖ים, בָנִֽים, בָנִים֙, בן</em>.
+The 1st highest number of forms (103) was observed with the lemma “בן”: <em>בְּנִ֑, בְּנִ֔, בְּנִ֖, בְּנִ֗, בְּנִ֛, בְּנִ֣, בְּנִ֣י, בְּנִ֥, בְּנִֽ, בְּנֵ֖י, בְּנֵ֣י, בְּנֵ֤י, בְּנֵ֥י, בְּנֵ֨י, בְּנֵֽ, בְּנֵֽי, בְּנֵי, בְּנָ֑, בְּנָ֖, בְּנָ֣, בְּנָ֤, בְּנָ֥, בְּנָֽ, בְּנֹ, בְּנֹ֑, בְּנֹ֔, בְּנֹ֖, בְּנֹ֗, בְּנֹ֛, בְּנֹ֣, בְּנֹ֥, בְּנֹ֧, בְּנֹֽ, בְנִ, בְנִ֑, בְנִ֔, בְנִ֖, בְנִ֥, בְנִֽ, בְנֵ֖י, בְנֵ֣י, בְנֵ֤י, בְנֵ֥י, בְנֵ֨י, בְנֵֽ, בְנֵֽי, בְנֵי, בְנֹ֣, בְנֹֽ, בִּנְ, בֵ֖ן, בֵּ֑ן, בֵּ֔ן, בֵּ֖ן, בֵּ֗ן, בֵּ֤ן, בֵּ֥ן, בֵּֽן, בֵּן, בֵּן֒, בֵֽן, בֵן֙, בֶ֤ן, בֶּן, בֶן, בָּנִ֖ים, בָּנִ֤ים, בָּנִֽים, בָּנִים֙, בָּנַ, בָּנַ֣, בָּנָ֑י, בָּנָ֔י, בָּנָ֖י, בָּנָ֛י, בָּנָ֞י, בָּנָ֣י, בָּנָ֤י, בָּנָ֥י, בָּנָ֨י, בָּנָֽי, בָנִ֑ים, בָנִ֔ים, בָנִ֖ים, בָנִֽים, בָנִים֙, בָנֵ֑י, בָנֶ֑י, בָנֶ֖י, בָנֶ֛י, בָנֶ֣י, בָנֶ֥י, בָנֶֽי, בָנֶי, בָנַ, בָנַ֖, בָנָ֑י, בָנָ֔י, בָנָ֖י, בָנָ֛י, בָנָ֣י, בָנָֽי, בָנָי</em>.
 
-The 2nd highest number of forms (28) was observed with the lemma “שׁנה”: <em>שְׁנֵ֖י, שְׁנֵ֣י, שְׁנֵ֤י, שְׁנֵ֥י, שְׁנֵֽי, שְׁנֵי֙, שְׁנַ֣ת, שְׁנָתַ֖יִם, שְׁנָתַ֣יִם, שְׁנָתַ֥יִם, שָׁנִ֑ים, שָׁנִ֔ים, שָׁנִ֖ים, שָׁנִ֗ים, שָׁנִ֥ים, שָׁנִֽים, שָׁנִים֙, שָׁנָ֑ה, שָׁנָ֔ה, שָׁנָ֖ה, שָׁנָ֗ה, שָׁנָ֛ה, שָׁנָ֜ה, שָׁנָ֤ה, שָׁנָֽה, שָׁנָה֙, שָׁנָה֮, שׁנה</em>.
+The 2nd highest number of forms (59) was observed with the lemma “בת”: <em>בְּנֹ֣ות, בְּנֹ֥ות, בְּנֹֽות, בְּנֹֽתֵי, בְּנֹות֙, בְּנֹותֶ֖י, בְּנֹתֵ֖י, בְּנֹתֵ֨י, בְּנֹתֵי, בְּנֹתַ֔, בְּנֹתַ֗, בְּנֹתַ֜, בְּנֹתָ, בְּנֹתָ֛י, בְּנֹתָ֜י, בְּנֹתָי, בְנֹ֥ות, בְנֹֽות, בְנֹות֙, בְנֹותָ֖י, בְנֹתֶ֔י, בְנֹתֶ֨י, בְנֹתַ, בְנֹתַ֔, בְנֹתַ֞, בְנֹתָ֑, בְנֹתָ֔י, בְנֹתָ֗י, בְנֹתָֽי, בְנֹתָי, בִּתְּ, בִּתִּ, בִּתִּ֑, בִּתִּ֔, בִּתִּ֗, בִּתִּ֞, בִּתֵּ֖, בִּתֹּ֑, בִּתֹּ֔, בִּתֹּ֖, בִתְּ, בִתִּ֔, בִתִּֽ, בִתֹּ֑, בִתֹּ֔, בִתֹּ֖, בַּ֑ת, בַּ֖ת, בַּֽת, בַּת, בַֽת, בַת, בָּנֹ֑ות, בָּנֹ֕ות, בָּנֹ֨ות, בָנֹ֑ות, בָנֹ֖ות, בָנֹ֗ות, בָנֹֽות</em>.
 
-The 3rd highest number of forms (26) was observed with the lemma “אישׁ”: <em>אֲנָשִׁ֑ים, אֲנָשִׁ֔ים, אֲנָשִׁ֖ים, אֲנָשִׁ֛ים, אֲנָשִׁ֥ים, אֲנָשִׁ֨ים, אִ֑ישׁ, אִ֔ישׁ, אִ֕ישׁ, אִ֖ישׁ, אִ֗ישׁ, אִ֚ישׁ, אִ֛ישׁ, אִ֜ישׁ, אִ֣ישׁ, אִ֤ישׁ, אִ֥ישׁ, אִ֧ישׁ, אִישׁ, אִישׁ֙, אַנְשֵׁ֣י, אַנְשֵׁ֤י, אַנְשֵׁ֥י, אַנְשֵׁ֨י, אַנְשֵׁי, אישׁ</em>.
+The 3rd highest number of forms (54) was observed with the lemma “יד”: <em>יְדֵ֣י, יְדֵ֥י, יֶדְ, יַ֖ד, יַ֣ד, יַ֥ד, יַּ֖ד, יַּ֣ד, יַּ֥ד, יַּד֙, יַד, יַד֙, יָ֑ד, יָ֖ד, יָּדִ֑, יָּדִ֖, יָּדֶֽ, יָּדַ֖יִם, יָּדָ֑, יָּדָ֔, יָּדֹ֡ת, יָֽדְ, יָדְ, יָדִ֑, יָדִ֔, יָדִ֤, יָדִֽ, יָדֵ֔, יָדֵ֔י, יָדֵ֖, יָדֵ֨, יָדֵֽ, יָדֶ֑, יָדֶ֔י, יָדֶֽי, יָדַ֖יִם, יָדָ֑, יָדָ֑י, יָדָ֔, יָדָ֔י, יָדָ֖, יָדָ֗י, יָדֹ, יָדֹ֑, יָדֹ֑ות, יָדֹ֔, יָדֹ֖, יָדֹ֗, יָדֹ֛, יָדֹ֣, יָדֹ֤, יָדֹֽ, ידֵ֛י, ידֵי֙</em>.
 
 `NOUN` occurs with 5 features: <tt><a href="hbo_ptnk-feat-Number.html">Number</a></tt> (7350; 100% instances), <tt><a href="hbo_ptnk-feat-Gender.html">Gender</a></tt> (7256; 99% instances), <tt><a href="hbo_ptnk-feat-HebBinyan.html">HebBinyan</a></tt> (129; 2% instances), <tt><a href="hbo_ptnk-feat-VerbForm.html">VerbForm</a></tt> (129; 2% instances), <tt><a href="hbo_ptnk-feat-Voice.html">Voice</a></tt> (18; 0% instances)
 
@@ -66,7 +65,7 @@ The 3rd highest number of forms (26) was observed with the lemma “אישׁ”:
 
 `NOUN` occurs with 26 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (3605 tokens).
-Examples: <em>אב, כָּל, כל, בן, שׁם, אח, בית, יום, אישׁ, אדון</em>
+Examples: <em>כָּל, כָל, בֶּן, אֲבִי, שְׁמֹ֖, אָבִ֑י, זַרְעֲ, אָבִ֖י, בֵּ֣ית, אִ֣ישׁ</em>
 
 
 ## Relations
@@ -77,9 +76,9 @@ Parents of `NOUN` nodes belong to 12 different parts of speech: <tt><a href="hbo
 
 753 (10%) `NOUN` nodes are leaves.
 
-2748 (37%) `NOUN` nodes have one child.
+2749 (37%) `NOUN` nodes have one child.
 
-2516 (34%) `NOUN` nodes have two children.
+2515 (34%) `NOUN` nodes have two children.
 
 1333 (18%) `NOUN` nodes have three or more children.
 

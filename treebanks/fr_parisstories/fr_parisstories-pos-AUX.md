@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_parisstorie
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 9.500000 (the average of all parts of speech is 1.324273).
+The form / lemma ratio of `AUX` is 9.500000 (the average of all parts of speech is 1.329287).
 
 The 1st highest number of forms (20) was observed with the lemma “être”: <em>es, est, sera, seraient, serait, soient, sois, soit, sommes, sont, soyez, suis, étaient, étais, était, étiez, été, êtes, êtez, être</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (14) was observed with the lemma “avoir”: <e
 
 The 3rd highest number of forms (3) was observed with the lemma “faire”: <em>faire, fais, fait</em>.
 
-`AUX` occurs with 6 features: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt> (2103; 100% instances), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt> (2071; 98% instances), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt> (2070; 98% instances), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt> (2037; 97% instances), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt> (2034; 97% instances), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt> (35; 2% instances)
+`AUX` occurs with 6 features: <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt> (2103; 100% instances), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt> (2071; 98% instances), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt> (2070; 98% instances), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt> (2034; 97% instances), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt> (2031; 97% instances), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt> (38; 2% instances)
 
 `AUX` occurs with 17 feature-value pairs: `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
 `AUX` occurs with 24 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (951 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (949 tokens).
 Examples: <em>est, a, fait, ait</em>
 
 

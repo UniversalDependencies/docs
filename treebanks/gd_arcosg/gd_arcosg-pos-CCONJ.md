@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>agus</em> (<tt><a href="gd_arcosg-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.086957 (the average of all parts of speech is 1.299830).
+The form / lemma ratio of `CCONJ` is 1.086957 (the average of all parts of speech is 1.302045).
 
 The 1st highest number of forms (3) was observed with the lemma “'s”: <em>'s, ‘s, ’s</em>.
 
@@ -86,7 +86,7 @@ Examples: <em>agus, 's, ach, is, no, ’s, oir, neo, ‘s, na</em>
 
 `CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="gd_arcosg-dep-cc.html">cc</a></tt> (3347; 98% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (38; 1% instances), <tt><a href="gd_arcosg-dep-conj.html">conj</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1812; 53% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1001; 29% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (203; 6% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (156; 5% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (72; 2% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (52; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (32; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1812; 53% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1001; 29% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (203; 6% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (155; 5% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (73; 2% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (52; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (45; 1% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (32; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances)
 
 3390 (100%) `CCONJ` nodes are leaves.
 

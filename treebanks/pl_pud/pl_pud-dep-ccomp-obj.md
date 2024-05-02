@@ -29,7 +29,7 @@ The following 6 pairs of parts of speech are connected with `ccomp:obj`: <tt><a 
 4	że	że	SCONJ	comp	_	6	mark	6:mark	_
 5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	6:advmod:neg	_
 6	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp:obj	1:ccomp:obj	_
-7	racji	racja	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	SpaceAfter=No
+7	racji	racja	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	6	iobj	6:iobj	SpaceAfter=No
 8	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

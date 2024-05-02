@@ -19,7 +19,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_pdt-pos-NUM.html
 
 8531 <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7565; 89%), <tt><a href="cs_pdt-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (7321; 86%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6163; 72%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6163; 72%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (6033; 71%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7565; 89%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6163; 72%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6163; 72%), <tt><a href="cs_pdt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (6033; 71%).
 
 `NUM` tokens may have the following values of `NumType`:
 

@@ -62,7 +62,7 @@ Used in conjunction with [Entity](#Entity) to indicate bridging anaphora, by cre
 
 ```CoNLL-U
 # sent_id = GUM_bio_gordon-32
-1	An	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Entity=(abstract-142
+1	An	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Entity=(142-abstract
 2	incomplete	incomplete	ADJ	JJ	Degree=Pos|Polarity=Neg	6	amod	_	_
 3	and	and	CCONJ	CC	_	4	cc	_	_
 4	faulty	faulty	ADJ	JJ	Degree=Pos	2	conj	_	_
@@ -71,11 +71,11 @@ Used in conjunction with [Entity](#Entity) to indicate bridging anaphora, by cre
 7	,	,	PUNCT	,	_	8	punct	_	_
 8	edited	edit	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	_
 9	by	by	ADP	IN	_	10	case	_	_
-10	Dr	Dr	PROPN	NNP	Number=Sing	8	obl	_	Entity=(person-143
+10	Dr	Dr	PROPN	NNP	Number=Sing	8	obl	_	Entity=(143-person
 11	Moritz	Moritz	PROPN	NNP	Number=Sing	10	flat	_	_
 12	Posselt	Posselt	PROPN	NNP	Number=Sing	10	flat	_	Entity=142)143)
 13	(	(	PUNCT	-LRB-	_	18	punct	_	SpaceAfter=No
-14	Tagebuch	Tagebuch	X	FW	_	18	compound	_	Entity=(abstract-142
+14	Tagebuch	Tagebuch	X	FW	_	18	compound	_	Entity=(142-abstract
 15	des	des	X	FW	_	18	compound	_	_
 16	Generals	Generals	X	FW	_	18	compound	_	_
 17	Patrick	Patrick	PROPN	NNP	Number=Sing	18	compound	_	_
@@ -84,18 +84,18 @@ Used in conjunction with [Entity](#Entity) to indicate bridging anaphora, by cre
 20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux:pass	_	_
 21	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	25	punct	_	_
-23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	Entity=(abstract-144|Bridge=142<144
+23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	Entity=(144-abstract|Bridge=142<144
 24	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	25	amod	_	_
 25	volume	volume	NOUN	NN	Number=Sing	21	parataxis	_	Entity=144)
 26	at	at	ADP	IN	_	27	case	_	_
-27	Moscow	Moscow	PROPN	NNP	Number=Sing	25	orphan	_	Entity=(place-95)
+27	Moscow	Moscow	PROPN	NNP	Number=Sing	25	orphan	_	Entity=(95-place)
 28	in	in	ADP	IN	_	29	case	_	_
-29	1849	1849	NUM	CD	NumType=Card	25	orphan	_	Entity=(time-145)|SpaceAfter=No
+29	1849	1849	NUM	CD	NumType=Card	25	orphan	_	Entity=(145-time)|SpaceAfter=No
 30	,	,	PUNCT	,	_	32	punct	_	_
-31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	_	Entity=(abstract-146|Bridge=142<146
+31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	_	Entity=(146-abstract|Bridge=142<146
 32	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	25	conj	_	Entity=146)
 33	at	at	ADP	IN	_	34	case	_	_
-34	St	St	PROPN	NNP	Number=Sing	32	orphan	_	Entity=(place-147
+34	St	St	PROPN	NNP	Number=Sing	32	orphan	_	Entity=(147-place
 35	Petersburg	Petersburg	PROPN	NNP	Number=Sing	34	flat	_	Entity=147)
 ```
 
@@ -204,48 +204,48 @@ The unique ROOT node of the discourse tree has no arrow notation, e.g. `Discours
 
 ### Entity
 
-This annotation is used to encode entity types and, if available, entity linking, coreference information, and other information about entities as well. The span of tokens encompassed by each entity mention is indicated by a pair of `Entity` annotations in the MISC field, which begin and end the entity span using opening and closing round brackets (or both, for single token entities). The values of each entity annotation, in cases where multiple pieces of information are given for each entity, are separated by `-`, and the key names for these annotations are specified once in a `# Global.Entity` comment at the beginning of the document, in the order in which they appear for each entity. A basic example can look like this, with three keys declared - the entity type `entity`, a coreference group ID `GRP` and an entity linking identifier `identity`:
+This annotation is used to encode entity types and, if available, entity linking, coreference information, and other information about entities as well. The span of tokens encompassed by each entity mention is indicated by a pair of `Entity` annotations in the MISC field, which begin and end the entity span using opening and closing round brackets (or both, for single token entities). The values of each entity annotation, in cases where multiple pieces of information are given for each entity, are separated by `-`, and the key names for these annotations are specified once in a `# Global.Entity` comment at the beginning of the document, in the order in which they appear for each entity. A basic example can look like this, with three keys declared - a coreference group ID `GRP`, the entity type `entity` and an entity linking identifier `identity`:
 
 ```CoNLL-U
 # newdoc id = GUM_voyage_tulsa
-# global.Entity = entity-GRP-identity
-1	Tulsa	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
-2	Tulsa	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
+# global.Entity = GRP-entity-identity
+1	Tulsa	_	_	_	_	_	_	_	Entity=(1-place-Tulsa)
+2	Tulsa	_	_	_	_	_	_	_	Entity=(1-place-Tulsa)
 3	is	_	_	_	_	_	_	_	_
 4	in	_	_	_	_	_	_	_	_
-5	the	_	_	_	_	_	_	_	Entity=(place-2-Green_Country
+5	the	_	_	_	_	_	_	_	Entity=(2-place-Green_Country
 6	Green	_	_	_	_	_	_	_	_
 7	Country	_	_	_	_	_	_	_	_
 8	region	_	_	_	_	_	_	_	_
 9	of	_	_	_	_	_	_	_	_
-10	Oklahoma	_	_	_	_	_	_	_	Entity=(place-3-Oklahoma)2)
+10	Oklahoma	_	_	_	_	_	_	_	Entity=(3-place-Oklahoma)2)
 11	.	_	_	_	_	_	_	_	_
-12	It	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
+12	It	_	_	_	_	_	_	_	Entity=(1-place-Tulsa)
 13	is	_	_	_	_	_	_	_	_
 14	also	_	_	_	_	_	_	_	_
 15	called	_	_	_	_	_	_	_	_
 16	“	_	_	_	_	_	_	_	_
-17	T-town	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
+17	T-town	_	_	_	_	_	_	_	Entity=(1-place-Tulsa)
 18	”	_	_	_	_	_	_	_	_
 ```
 
 Note that key-value annotations aside from the group ID are not repeated at closing brackets, and that multiple entities can open or close at the same line (see token 10 in the example). A more complex example indicating actual usage in the GUM corpus is as follows:
 
 ```CoNLL-U
-# global.Entity = entity-GRP-infstat-MIN-coref_type-identity
+# global.Entity = GRP-entity-infstat-MIN-coref_type-identity
 ...
 # text = He is said to have had a bad relationship with his father.
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass|6:nsubj:xsubj	Entity=(person-1-giv:act-1-ana-Daniel_Bernoulli)
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass|6:nsubj:xsubj	Entity=(1-person-giv:act-1-ana-Daniel_Bernoulli)
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
 3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
 4	to	to	PART	TO	_	6	mark	6:mark	_
 5	have	have	AUX	VB	VerbForm=Inf	6	aux	6:aux	_
 6	had	have	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	3:xcomp	_
-7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	Entity=(abstract-54-new-3-sgl
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	Entity=(54-abstract-new-3-sgl
 8	bad	bad	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	relationship	relationship	NOUN	NN	Number=Sing	6	obj	6:obj	_
 10	with	with	ADP	IN	_	12	case	12:case	_
-11	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	Entity=(person-45-giv:inact-2-coref-Johann_Bernoulli(person-1-giv:act-1-ana-Daniel_Bernoulli)
+11	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	Entity=(45-person-giv:inact-2-coref-Johann_Bernoulli(1-person-giv:act-1-ana-Daniel_Bernoulli)
 12	father	father	NOUN	NN	Number=Sing	9	nmod	9:nmod:with	Entity=45)54)|SpaceAfter=No
 13	.	.	PUNCT	.	_	3	punct	3:punct	_
 ```
@@ -292,6 +292,8 @@ is one of the very few MISC attributes that are considered during
 Note that annotation following the foreign language rules is optional. The alternative is that
 the annotators tag the foreign words with UPOS [X]() and `Foreign=Yes`, and they connect them
 using the [flat]()`:foreign` relation. In such cases, no `Lang` attribute is placed in MISC.
+
+See discussion at [Foreign Expressions and Code-Switching](/foreign.html).
 See also [issue #776](https://github.com/UniversalDependencies/docs/issues/776).
 
     # sent_id = de.01
@@ -707,6 +709,7 @@ Similarly to the `Lang` attribute, the value is the (lowercase) ISO 639 language
 `OrigLang` does not switch the validator to the other language, i.e., the token must still
 adhere to the guidelines specific for the main language of the file.
 
+See discussion at [Foreign Expressions and Code-Switching](/foreign.html).
 See also [issue #776](https://github.com/UniversalDependencies/docs/issues/776).
 
 Attested e.g. in Coptic or Komi Zyrian.
@@ -759,6 +762,49 @@ Italian, Korean, Portuguese, Russian, Spanish, Thai, Turkish.
     6   ,            ,            PUNCT   _   _   15   punct   _   _
 
 <a href="http://tables.grew.fr/?data=ud_feats/MISC&cols=^Proper$"><button>Table for <code>Proper</code> feature</button></a>
+
+### Reduplication
+
+This attribute is used in conjunction with the relation [flat:redup](la-dep/flat-redup). It is annotated on the second (or last) element receiving the relation and expresses in terms of UD morphological features the value of the reduplication, with the syntax `<Feature>:<Value>` (since the `=` sign is already used).
+
+It is attested experimentally in the Latin treebanks IT-TB, LLCT and UDante.
+
+```CoNLL-U
+# sent_id = DVE-71
+# text = Quot quot autem exercitii varietates tendebant ad opus, tot tot ydiomatibus tunc genus humanum disiungitur; et quanto excellentius exercebant, tanto rudius nunc barbariusque locuntur.
+# citation_hierarchy = Liber_Primus,vii,Paragraphus_7
+1	Quot	quot	DET	ai	NumType=Card|PronType=Rel	5	det	_	_
+2	quot	quot	DET	ai	NumType=Card|PronType=Rel	1	flat:redup	_	Reduplication=NumType:Dist
+3	autem	autem	PART	co	_	6	discourse	_	_
+4	exercitii	exercitium	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	5	nmod	_	_
+5	varietates	uarietas	NOUN	sfp3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur	6	nsubj	_	_
+6	tendebant	tendo	VERB	va3iip3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
+7	ad	ad	ADP	e	_	8	case	_	_
+8	opus	opus	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	6	obl:arg	_	SpaceAfter=No
+9	,	,	PUNCT	Pu	_	6	punct	_	_
+10	tot	tot	DET	yuip	NumType=Card|PronType=Dem	12	det	_	_
+11	tot	tot	DET	yuip	NumType=Card|PronType=Dem	10	flat:redup	_	Reduplication=NumType:Dist
+12	ydiomatibus	idioma	NOUN	snp3b	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Plur	16	obl	_	_
+13	tunc	tunc	ADV	r	PronType=Dem	16	advmod	_	_
+14	genus	genus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	16	nsubj:pass	_	_
+15	humanum	humanus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	14	amod	_	_
+16	disiungitur	disiungo	VERB	vp3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+17	;	;	PUNCT	Pu	_	18	punct	_	_
+18	et	et	CCONJ	co	_	28	cc	_	_
+19	quanto	quanto	SCONJ	r	PronType=Rel	21	mark	_	_
+20	excellentius	excellenter	ADV	r+	Degree=Cmp|VerbForm=Part	21	advmod	_	_
+21	exercebant	exerceo	VERB	va2iip3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	advcl:cmp	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
+22	,	,	PUNCT	Pu	_	21	punct	_	_
+23	tanto	tanto	ADV	r	PronType=Dem	24	advmod	_	_
+24	rudius	rude	ADV	r+	Degree=Cmp	28	advmod	_	_
+25	nunc	nunc	ADV	r	AdvType=Tim	28	advmod:tmod	_	_
+26-27	barbariusque	_	_	_	_	_	_	_	_
+26	barbarius	barbare	ADV	r+	Degree=Cmp	24	conj	_	_
+27	que	que	CCONJ	co9	_	26	cc	_	_
+28	locuntur	loquor	VERB	vd3ipp3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	16	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+29	.	.	PUNCT	Pu	_	16	punct	_	_
+```
+
 
 ### Ref
 
@@ -881,20 +927,20 @@ UD treebanks, e.g., Belarusian HSE.
 Used in conjunction with [Entity](#Entity) to indicate split antecedent anaphora, by creating a pointing relation between multiple entity GRP identifiers and the ID of an anaphor pointing back to them:
 
 ```CoNLL-U
-15	Padalecki	Padalecki	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	Entity=(person-1-giv:act-1-coref-Jared_Padalecki)
+15	Padalecki	Padalecki	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	Entity=(1-person-giv:act-1-coref-Jared_Padalecki)
 16	partnered	partner	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 17	with	with	ADP	IN	_	18	case	18:case	_
-18	co-star	co-star	NOUN	NN	Number=Sing	16	obl	16:obl:with	Entity=(person-97-giv:inact-1,3-coref-Jensen_Ackles
+18	co-star	co-star	NOUN	NN	Number=Sing	16	obl	16:obl:with	Entity=(97-person-giv:inact-1,3-coref-Jensen_Ackles
 19	Jensen	Jensen	PROPN	NNP	Number=Sing	18	appos	18:appos	XML=<ref target:::"https://en.wikipedia.org/wiki/Jensen_Ackles">
 20	Ackles	Ackles	PROPN	NNP	Number=Sing	19	flat	19:flat	Entity=97)|XML=</ref>
 21	to	to	PART	TO	_	22	mark	22:mark	Discourse=purpose:105->104:0
 22	release	release	VERB	VB	VerbForm=Inf	16	advcl	16:advcl:to	_
-23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	Entity=(object-190-new-2-coref
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	Entity=(190-object-new-2-coref
 24	shirt	shirt	NOUN	NN	Number=Sing	22	obj	22:obj	Entity=190)
 25	featuring	feature	VERB	VBG	VerbForm=Ger	24	acl	24:acl	Discourse=elaboration:106->105:0
-26	both	both	DET	DT	_	25	obj	25:obj	Entity=(object-191-new-1-sgl
+26	both	both	DET	DT	_	25	obj	25:obj	Entity=(191-object-new-1-sgl
 27	of	of	ADP	IN	_	29	case	29:case	_
-28	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	Entity=(person-192-acc:aggr-1-coref)|Split=1<192,97<192
+28	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	Entity=(192-person-acc:aggr-1-coref)|Split=1<192,97<192
 29	faces	face	NOUN	NNS	Number=Plur	26	nmod	26:nmod:of	Entity=191)|SpaceAfter=No
 ```
 

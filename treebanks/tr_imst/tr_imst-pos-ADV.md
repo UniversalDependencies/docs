@@ -19,40 +19,40 @@ The 10 most frequent ambiguous types:  <em>çok</em> (<tt><a href="tr_imst-pos-A
 
 
 * <em>çok</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 121: <em>Oğlunun neden eroinman olduğunu anlayamaması <b>çok</b> doğal dı .</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>Orhan Zeynep hadi çabuk söyle <b>çok</b> merak ettim , dedi heyecanla .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 121: <em>Haber vermemesi <b>çok</b> tuhaf .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 36: <em>Kokteyle CHP Genel Başkanı Deniz Baykal ile <b>çok</b> sayıda partili katıldı .</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 7: <em>Her iki olgu da , bilim için yeni bir başlangıçtan <b>çok</b> , bir dönemin kapanışına işaret etmektedir .</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Cumartesi geceleri <b>çok</b> kalabalık oluyormuş .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 5: <em>Ne kadar <b>çok</b> insan var değil mi ?</em>
 * <em>hiç</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 51: <em>Sabahtan beri seni gözetliyorum , <b>hiç</b> bir arabaya yanaşmadın .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 51: <em>Belki bir daha <b>hiç</b> giremeyeceğim oraya .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 3: <em>Hele benim <b>hiç</b> yok .</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 1: <em>Şimdiye kadar <b>hiç</b> bir köpekte görmediğim yeşil gözleri , gözünün üstüne düşen alaca lı tüyleri var .</em>
 * <em>şimdi</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 29: <em>Neyse <b>şimdi</b> büyüklük vakti ydi .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 29: <em>Aç <b>şimdi</b> .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>O böyle ölmeseydi hayatın başka türlü mü olurdu , <b>şimdi</b> ki gibi mi .</em>
 * <em>nasıl</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 38: <em>Tanrım <b>nasıl</b> yaptın böyle bir şeyi ?</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 38: <em>Baksana çocuk <b>nasıl</b> çırpınıyor .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 3: <em>Onlarla aran <b>nasıl</b> .</em>
 * <em>sonra</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 83: <em>Eksik sayfaları tamamlanan raporlar bir süre <b>sonra</b> gönderildi .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 41: <em>İyi , gidin de iskeleyi bir yıkayın , <b>sonra</b> dinlenirsiniz , dedi .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 83: <em>Benden <b>sonra</b> aşık olduğu adamı gece gündüz izledim .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 41: <em>Gidersiniz , <b>sonra</b> geri gidersiniz Erkekler Parkı'na .</em>
 * <em>bile</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 52: <em>Babam <b>bile</b> gecenin en şık bayanı buldu beni .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 52: <em>Gördün mü el konulduk <b>bile</b> .</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 1: <em>Nedenini anlayamadığım bu terk edilme korkusu ve kendime itiraf etmekten bile utandığım hırpala yıcı kıskançlığımla , aptal ca olduğunu bile <b>bile</b> daha çok kadınla birlikte oluyor ve sonunda korktuğuma uğrayıp bir başka erkek için terk ediliyordum .</em>
 * <em>böyle</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 47: <em>Ederim ben <b>böyle</b> yaşamanın içine !</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 16: <em>Niye <b>böyle</b> oldu anlayamadım diyor bir anne .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 47: <em>Bu ilişkiyi bitirelim , <b>böyle</b> yürütemeyeceğim , dedi .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 16: <em>Şimdi nasıl olur <b>böyle</b> bir şey , inanamıyorum .</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 2: <em>Tanrım nasıl yaptın <b>böyle</b> bir şeyi ?</em>
 * <em>bir</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 861: <em>Sabahtan beri seni gözetliyorum , hiç <b>bir</b> arabaya yanaşmadın .</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 209: <em>Erik ağaçları ile aralarında <b>bir</b> hendek engeli kalmıştı .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 43: <em>Şu üniversite işini <b>bir</b> türlü oturtamadık .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 861: <em>İçeriye gençten <b>bir</b> erkek girdi .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 209: <em>Kapının kenarında ki duvara dayanıp bize baktı <b>bir</b> an .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 43: <em>Ne kadar ürküt ücü ve <b>bir</b> o kadar da çekici bir yer orası .</em>
 * <em>yok</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 64: <em>Tadı tuzu <b>yok</b> .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 45: <em>bir şey <b>yok</b> ki ! dedi adam .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 64: <em>Artık o parktan bir çıkış yolu <b>yok</b> tur .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 45: <em>Çiller , Karayalçın , Boyner de <b>yok</b> tu .</em>
 * <em>biraz</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 34: <em>Sakinleştin mi <b>biraz</b> .</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 5: <em>Ve hüzün yüzünde ki kırışıklıkları <b>biraz</b> daha oyarak derinleştiriyor .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 34: <em>Durun , oturun <b>biraz</b> .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 5: <em>Belki <b>biraz</b> zaman gerekli .</em>
   * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 3: <em>Bu sav <b>biraz</b> düzeltmeyle doğru bir biçem kazanabilir .</em>
 
 ## Morphology

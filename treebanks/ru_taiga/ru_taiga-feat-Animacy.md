@@ -75,7 +75,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 <table>
   <tr><th>Paradigm <i>Петрович</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Patrn</tt></tt></td><td></td><td><em>Петрович</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Pat</tt></tt></td><td></td><td><em>Петрович</em></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Prs</tt></tt></td><td><em>Петровича</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Prs</tt></tt></td><td><em>Петровичу</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Prs</tt></tt></td><td><em>Петровича</em></td><td></td></tr>

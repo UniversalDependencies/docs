@@ -83,9 +83,9 @@ Examples: <em>a, do, noch, ro</em>
 
 Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (224; 72% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (53; 17% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (20; 6% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="ga_cadhan-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-301 (96%) `PART` nodes are leaves.
+300 (96%) `PART` nodes are leaves.
 
-8 (3%) `PART` nodes have one child.
+9 (3%) `PART` nodes have one child.
 
 2 (1%) `PART` nodes have two children.
 
@@ -93,7 +93,7 @@ Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="ga_c
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 7 different relations: <tt><a href="ga_cadhan-dep-flat-name.html">flat:name</a></tt> (5; 33% instances), <tt><a href="ga_cadhan-dep-fixed.html">fixed</a></tt> (4; 27% instances), <tt><a href="ga_cadhan-dep-nmod.html">nmod</a></tt> (2; 13% instances), <tt><a href="ga_cadhan-dep-advmod.html">advmod</a></tt> (1; 7% instances), <tt><a href="ga_cadhan-dep-case.html">case</a></tt> (1; 7% instances), <tt><a href="ga_cadhan-dep-mark.html">mark</a></tt> (1; 7% instances), <tt><a href="ga_cadhan-dep-punct.html">punct</a></tt> (1; 7% instances)
+Children of `PART` nodes are attached using 7 different relations: <tt><a href="ga_cadhan-dep-fixed.html">fixed</a></tt> (5; 31% instances), <tt><a href="ga_cadhan-dep-flat-name.html">flat:name</a></tt> (5; 31% instances), <tt><a href="ga_cadhan-dep-nmod.html">nmod</a></tt> (2; 13% instances), <tt><a href="ga_cadhan-dep-advmod.html">advmod</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-dep-case.html">case</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-dep-mark.html">mark</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-dep-punct.html">punct</a></tt> (1; 6% instances)
 
-Children of `PART` nodes belong to 8 different parts of speech: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (4; 27% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (4; 27% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 7% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="ga_cadhan-pos-PUNCT.html">PUNCT</a></tt> (1; 7% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances)
+Children of `PART` nodes belong to 8 different parts of speech: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (4; 25% instances), <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-pos-PUNCT.html">PUNCT</a></tt> (1; 6% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances)
 

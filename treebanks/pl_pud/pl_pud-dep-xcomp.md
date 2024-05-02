@@ -12,9 +12,9 @@ There are 2 language-specific subtypes of `xcomp`: <tt><a href="pl_pud-dep-xcomp
 198 nodes (1%) are attached to their parents as `xcomp`.
 
 195 instances of `xcomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.84343434343434.
+Average distance between parent and child is 1.85858585858586.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (172; 87% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (169; 85% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (12; 6% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	a	a	CCONJ	conj	_	8	cc	8:cc	_
 7	ja	ja	PRON	ppron12:sg:nom:m1:pri	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
 8	zdecydował	zdecydować	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	_
-9	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	8	aux:clitic	8:aux:clitic	_
+9	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	8	aux:clitic	8:aux:clitic	_
 10	się	się	PRON	part	PronType=Prs|Reflex=Yes	8	expl:pv	8:expl:pv	_
 11	nie	nie	PART	part	Polarity=Neg	12	advmod:neg	12:advmod:neg	_
 12	być	być	AUX	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	13	cop	13:cop	_

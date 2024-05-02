@@ -35,7 +35,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (79; 100% of non-empty `NumType`): <em>multa, paucis, multarum, plura, plus, multi, multis, multos, aliquot, multum</em>
-* `EMPTY` (1642): <em>haec, hoc, illa, ille, illi, mea, ipse, omnia, suis, illum</em>
+* `EMPTY` (1643): <em>haec, hoc, illa, ille, illi, mea, ipse, omnia, suis, illum</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (12; 17% of non-empty `NumType`): <em>singulas, singulos, binas, binos, quaternum, singula, singuli, singulis</em>
 * `Ord` (59; 83% of non-empty `NumType`): <em>prima, primus, primo, quintum, secundum, primis, quartum, secunda, secundae, sextum</em>
-* `EMPTY` (2063): <em>magna, publicae, publicam, magno, magnum, publica, magnam, mala, p, summa</em>
+* `EMPTY` (2062): <em>magna, publicae, publicam, magno, magnum, publica, magnam, mala, p, summa</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `NumType`.
 

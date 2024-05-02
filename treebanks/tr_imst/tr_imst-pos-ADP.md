@@ -19,33 +19,33 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_imst-pos-ADP
 
 
 * <em>ki</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 292: <em>Orada <b>ki</b> tartışma hayli zengin .</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 121: <em>Ama fark ettim <b>ki</b> , onu çok yazmamışım .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 292: <em>Kapının kenarında <b>ki</b> duvara dayanıp bize baktı bir an .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 121: <em>Öyle kolay gelmez <b>ki</b> o .</em>
 * <em>için</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 232: <em>Kerem , özgürlüğünü teslim ettiği <b>için</b> sanki rahatlamıştı .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 232: <em>Onu görmek <b>için</b> , tüm zamanınızı o parkta geçirmeye başlarsınız .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 1: <em>Onun <b>için</b> dir ki , askeri darbelerin hakkını yemeyelim .</em>
 * <em>diye</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 169: <em>Heybeye erik koyunca kitapları , defterleri ne yaparım <b>diye</b> düşünüyorum .</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 3: <em>Bu soruyu , imam niye bayılmış ? <b>diye</b> sorun .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 169: <em>Sen ? eredesin <b>diye</b> sordum .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 3: <em>? erdeydin ? <b>diye</b> bağırdı .</em>
 * <em>sonra</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 83: <em>Eksik sayfaları tamamlanan raporlar bir süre <b>sonra</b> gönderildi .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 41: <em>İyi , gidin de iskeleyi bir yıkayın , <b>sonra</b> dinlenirsiniz , dedi .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 83: <em>Benden <b>sonra</b> aşık olduğu adamı gece gündüz izledim .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 41: <em>Gidersiniz , <b>sonra</b> geri gidersiniz Erkekler Parkı'na .</em>
 * <em>önce</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 58: <em>Kahvesini hazırlamadan <b>önce</b> son iki cümleyi karaladı .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 30: <em>Hep o benden iki yıl <b>önce</b> .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 58: <em>Geyiklerin yavrulamaya başlamasından hemen <b>önce</b> bayram yapıyor Evenler .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 30: <em>İki yıl <b>önce</b> bir kabadayı , tabancasını havaya sıka sıka kaçabilmiş .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 8: <em>Dizinin bir sonraki öğesi bir <b>önce</b> kinden daha iyi dir .</em>
 * <em>doğru</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 32: <em>Parktan çıkıp buraya <b>doğru</b> koşarken hepsi aklımda ydı .</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 25: <em>Önce biz terör örgütü olarak kabul edip <b>doğru</b> başlık atalım .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 32: <em>Fevzi yavaş ça bana <b>doğru</b> eğildi .</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 25: <em>Doğruları bilmek zorunda yız , bu <b>doğru</b> ...</em>
 * <em>ile</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 93: <em>Erik ağaçları <b>ile</b> aralarında bir hendek engeli kalmıştı .</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Görüşmede ATO'nun , Vergi Yasası <b>ile</b> görüşleri de beş başlıkta sunuldu .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 93: <em>Türkiye'yi AB yolunda Yunanistan <b>ile</b> Rum tarafı birlikte engeller .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Park kurşun sesleri <b>ile</b> yankılanmış .</em>
 * <em>siz</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Sana boşal , at kurtul der , o ses <b>siz</b> duruşuyla .</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 13: <em>Duyun da şaşın <b>siz</b> .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Bir süre ses <b>siz</b> yürüdük .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 13: <em>- Galiba <b>siz</b> insanları yönlendiren takımından sınız .</em>
 * <em>birlikte</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 18: <em>Babası her hafta düzenli olarak kardeşleriyle <b>birlikte</b> tıraş ederdi onu .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 17: <em>Onunla daha fazla <b>birlikte</b> olabilmek .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 18: <em><b>birlikte</b> , barın yakınına kadar sokulabildik .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 17: <em>Seninle <b>birlikte</b> gideceğim .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Bilimde bu tür mucizevi elatmalara yer olmadığı gibi , varlığı , Tanrı'ya inanan lar için tehlike yaratır : diferansiyel eşitliklerinizde ki matematiksel tekillikleri daha iyi bir modelle ortadan kaldırdığınızda Tanrınız da tekillikle <b>birlikte</b> ortadan kalkar .</em>
 * <em>karşı</em>
   * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 15: <em>Bu madde kırkaltı Benokan <b>karşı</b> dörtyüzkırkdört oyla kabul edildi .</em>

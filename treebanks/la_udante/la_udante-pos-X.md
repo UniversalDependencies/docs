@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>amor</em> (<tt><a href="la_udante-pos
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.021127 (the average of all parts of speech is 2.128289).
+The form / lemma ratio of `X` is 1.021127 (the average of all parts of speech is 2.129200).
 
 The 1st highest number of forms (3) was observed with the lemma “l”: <em>'l, l, l'</em>.
 
@@ -75,9 +75,9 @@ Examples: <em>che, amor, per, lo, de, amore, non, donna, sì, d'</em>
 
 Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="la_udante-pos-X.html">X</a></tt> (406; 79% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (45; 9% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (23; 4% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (8; 2% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (3; 1% instances)
 
-372 (73%) `X` nodes are leaves.
+371 (72%) `X` nodes are leaves.
 
-54 (11%) `X` nodes have one child.
+55 (11%) `X` nodes have one child.
 
 10 (2%) `X` nodes have two children.
 

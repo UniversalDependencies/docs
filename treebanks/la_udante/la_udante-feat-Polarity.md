@@ -16,14 +16,14 @@ The feature is used with 9 part-of-speech tags: <tt><a href="la_udante-pos-PART.
 
 ### `PART`
 
-737 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (49% of all `PART` tokens) have a non-empty value of `Polarity`.
+737 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (50% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (737; 100%).
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (737; 100% of non-empty `Polarity`): <em>non, ni, ne</em>
-* `EMPTY` (756): <em>nam, enim, autem, igitur, quidem, quoque, etenim, itaque, ne, o</em>
+* `EMPTY` (751): <em>nam, enim, autem, igitur, quidem, quoque, etenim, itaque, ne, o</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (188; 100% of non-empty `Polarity`): <em>inpossibile, impossibile, iniustum, inmeritus, inconveniens, ignari, impari, impius, incorruptibilis, inopina</em>
-* `EMPTY` (3789): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
+* `EMPTY` (3788): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (79) occur only with one value of `Polarity`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `SCONJ` and `Polarity` co-occu
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (111; 100% of non-empty `Polarity`): <em>nisi, ne, quin, ni, necubi</em>
-* `EMPTY` (2415): <em>ut, quod, cum, si, quia, quam, sicut, tanquam, quantum, quemadmodum</em>
+* `EMPTY` (2399): <em>ut, quod, cum, si, quia, quam, sicut, tanquam, quemadmodum, licet</em>
 
 ### `DET`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (84; 100% of non-empty `Polarity`): <em>nulla, nullo, nullum, nulli, nullus, nullius, nullam, nullos, nullis, neutrum</em>
-* `EMPTY` (3560): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, sua, quedam</em>
+* `EMPTY` (3563): <em>hoc, illa, illud, unum, hec, ipsum, omnes, aliud, sua, quedam</em>
 
 ### `PRON`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (64; 100% of non-empty `Polarity`): <em>nichil, nemo, nil, neminem, nemini, nihil</em>
-* `EMPTY` (2611): <em>quod, que, qui, se, quo, eius, quam, quid, nobis, sibi</em>
+* `EMPTY` (2623): <em>quod, que, qui, se, quo, eius, quam, quid, nobis, sibi</em>
 
 ### `ADV`
 
@@ -97,12 +97,12 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 17 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 82%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (12; 71%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12; 71%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatI</tt> (9; 53%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9; 53%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9; 53%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 82%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (12; 71%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (12; 71%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12; 71%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10; 59%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatI</tt> (9; 53%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9; 53%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9; 53%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (17; 100% of non-empty `Polarity`): <em>nescio, nescit, ignoscendum, ignoscet, indignata, infirmari, insanisse, insperate, invidere, nesciens</em>
-* `EMPTY` (8206): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
+* `EMPTY` (8207): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 
 ### `NOUN`
 

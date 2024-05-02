@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.958333 (the average of all parts of speech is 2.042545).
+The form / lemma ratio of `PUNCT` is 0.958333 (the average of all parts of speech is 2.043120).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>,, ։, ՝, ., «, », ՞, -, ՛, –</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="hyw_armtdp-dep-punct.html">punct</a></tt> (22576; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (12152; 54% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5389; 24% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1758; 8% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1024; 5% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (580; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (562; 2% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (244; 1% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (217; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (194; 1% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (137; 1% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (127; 1% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (112; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (40; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (24; 0% instances), <tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (12157; 54% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5388; 24% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1758; 8% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1024; 5% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (578; 3% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (560; 2% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (244; 1% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (220; 1% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (193; 1% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (137; 1% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (126; 1% instances), <tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (111; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (40; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (24; 0% instances), <tt><a href="hyw_armtdp-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances)
 
 22576 (100%) `PUNCT` nodes are leaves.
 

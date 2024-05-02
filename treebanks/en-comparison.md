@@ -82,32 +82,32 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 16622 sentences, 251487 tokens and 254819 syntactic words.</li>
+      <li>This corpus contains 16622 sentences, 251492 tokens and 254820 syntactic words.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 1334 sentences, 17634 tokens and 17797 syntactic words.</li>
+      <li>This corpus contains 1334 sentences, 17617 tokens and 17797 syntactic words.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 10761 sentences, 184653 tokens and 187416 syntactic words.</li>
+      <li>This corpus contains 10761 sentences, 184373 tokens and 187417 syntactic words.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 895 sentences, 15992 tokens and 16364 syntactic words.</li>
+      <li>This corpus contains 895 sentences, 15960 tokens and 16364 syntactic words.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 5243 sentences and 94217 tokens.</li>
+      <li>This corpus contains 5243 sentences, 93200 tokens and 94217 syntactic words.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences and 21176 tokens.</li>
+      <li>This corpus contains 1000 sentences, 21051 tokens and 21180 syntactic words.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -134,32 +134,32 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 31022 tokens (12%) that are not followed by a space.</li>
+      <li>This corpus contains 31027 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 2638 tokens (15%) that are not followed by a space.</li>
+      <li>This corpus contains 2621 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 26411 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 26131 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 1954 tokens (12%) that are not followed by a space.</li>
+      <li>This corpus contains 1922 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 12250 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 11233 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 2746 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 2621 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -288,34 +288,38 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 3330 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 611 types of multi-word tokens. Examples: don't, i'm, it's, i've, didn't, can't, its, i'll, you'll, you're, cannot, doesn't, he's, that's, dont, won't, they're, wouldn't, there's, haven't, isn't, bush's, i'd, wasn't, couldn't, we've, China's, we're, im, here's, what's, aren't, you've, we'll, ive, wont, let's, she's, weren't, your, cant, they'll, world's, you'd, Enron's, Iran's, thats, India's, Qaeda's, he'd.</li>
+      <li>This corpus contains 3326 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 606 types of multi-word tokens. Examples: don't, i'm, it's, i've, didn't, can't, its, i'll, you'll, you're, cannot, doesn't, he's, that's, dont, won't, they're, wouldn't, there's, haven't, isn't, bush's, i'd, wasn't, couldn't, we've, China's, im, we're, here's, what's, aren't, you've, we'll, ive, wont, let's, she's, weren't, your, cant, they'll, world's, you'd, Enron's, Iran's, thats, India's, Qaeda's, he'd.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 163 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 56 types of multi-word tokens. Examples: gonna, I'm, don't, it's, he's, Company's, can't, that's, I'll, I've, cannot, party's, woman's, you've, Court's, Does', Night's, didn't, doesn't, mother's, one's, thats, today's, wasn't, we've, won't, wouldn't, Ashley's, Here's, Horses', I'd, Ii'll, JarkoS', Roe's, Techtonica’s, We'll, What's, Which's, appellee's, aren't, bosom's, cushion's, demon's, episodes's, hasn't, people's, plaintiffs', sister's, student’s, there's.</li>
+      <li>This corpus contains 180 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 62 types of multi-word tokens. Examples: gonna, I'm, don't, it's, he's, Company's, can't, that's, we're, 'tis, I'll, I've, cannot, party's, woman's, you're, you've, Court's, Does', Night's, didn't, doesn't, mother's, one's, thats, they're, today's, wasn't, we've, won't, wouldn't, Ashley's, Here's, Horses', I'd, Ii'll, JarkoS', Roe's, Techtonica’s, We'll, We’re, What's, Which's, appellee's, aren't, bosom's, cushion's, demon's, episodes's, hasn't.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 2763 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 510 types of multi-word tokens. Examples: it's, don't, I'm, that's, gonna, didn't, it’s, I've, there's, can't, don’t, let's, I'll, he's, doesn't, I’m, cannot, what's, she's, that’s, won't, you'll, city's, haven't, wasn't, you'd, couldn't, she’s, we've, didn’t, isn't, wanna, who's, world's, I'd, can’t, wouldn't, you've, you’ve, let’s, Galois', aren't, Dalton’s, Warhol's, doesn’t, we'd, won’t, I’d, I’ve, he’s.</li>
+      <li>This corpus contains 3044 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 515 types of multi-word tokens. Examples: it's, don't, I'm, that's, you're, gonna, they're, didn't, it’s, we're, I've, there's, can't, don’t, let's, I'll, he's, doesn't, I’m, cannot, what's, she's, that’s, won't, you'll, city's, haven't, wasn't, we’re, you'd, couldn't, she’s, we've, you’re, didn’t, isn't, wanna, who's, world's, I'd, can’t, wouldn't, you've, you’ve, let’s, Galois', aren't, Dalton’s, Warhol's, doesn’t.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 372 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>This corpus contains 404 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 1 types of multi-word tokens. Examples: __.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
+      <li>This corpus contains 1017 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 256 types of multi-word tokens. Examples: don't, it's, I'm, didn't, that's, Harry's, I've, can't, there's, he's, wasn't, wouldn't, you're, hadn't, couldn't, I'll, you've, Stillman's, doesn't, he'd, isn't, won't, Mweta's, Ron's, they'll, I'd, haven't, they're, Commission's, Auster's, we'll, weren't, hasn't, you'll, Europe's, father's, mother's, we'd, we've, what's, Dando's, Quinn's, Vernon's, company's, we're, Weasley's, aren't, cannot, she's, shouldn't.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
+      <li>This corpus contains 129 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 93 types of multi-word tokens. Examples: it's, that's, city's, China's, didn't, don't, Disney's, Earth's, Hitchcock's, Kong's, Russia's, Years', can't, company's, director's, doesn't, isn't, there's, town's, world's, AKP's, Addenbrooke's, Alvarez's, Apple's, Australia's, Bangkok's, Beria's, Bogart's, Brisbane's, Carangi's, Clinton's, Comey's, Darius's, Duffy's, Edgar's, Erdogan's, Germaine's, Grafton's, He'd, Hitchhiker's, I'm, Institute's, Kingdom's, Kipling's, Knightley's, LaBeouf's, Lamarr's, Motors', Negan's, Nevada's.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -516,7 +520,7 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 28 lemmas tagged as pronouns (PRON): 'ya, I, he, herself, himself, it, its, itself, my, one, she, that, themselves, there, these, they, this, those, us, we, what, where, which, who, whoever, whom, whose, you</li>
+      <li>This corpus contains 27 lemmas tagged as pronouns (PRON): 'ya, I, he, herself, himself, it, its, itself, my, one, she, that, themselves, there, these, they, this, those, we, what, where, which, who, whoever, whom, whose, you</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -808,7 +812,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: is, will, can, would, was, are, could, do, should, have</li>
-          <li>VERB: have, had, said, has, is, want, need, let, are, think</li>
+          <li>VERB: have, had, said, has, want, need, let, is, think, are</li>
         </ul>
         </li>
       </ul>
@@ -818,7 +822,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: is, will, can, was, are, has, 's, would, may, could</li>
-          <li>VERB: has, let, is, have, said, Suppose, follows, know, had, see</li>
+          <li>VERB: has, let, have, said, Suppose, follows, is, know, had, see</li>
         </ul>
         </li>
       </ul>
@@ -828,7 +832,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: is, was, can, are, will, 's, would, do, were, should</li>
-          <li>VERB: have, know, said, are, has, is, had, think, want, get</li>
+          <li>VERB: have, know, said, has, think, had, are, want, get, let</li>
         </ul>
         </li>
       </ul>
@@ -896,9 +900,8 @@ udver: '2'
       <ul>
         <li>Ger
         <ul>
-          <li>AUX: being, getting, having, been</li>
-          <li>SCONJ: depending, regarding, concerning</li>
-          <li>VERB: going, looking, getting, following, including, taking, using, doing, having, regarding</li>
+          <li>AUX: being, getting, having, doing, been</li>
+          <li>VERB: going, looking, getting, following, including, taking, using, having, doing, regarding</li>
         </ul>
         </li>
       </ul>
@@ -917,8 +920,7 @@ udver: '2'
       <ul>
         <li>Ger
         <ul>
-          <li>AUX: being, having, getting</li>
-          <li>SCONJ: including, regarding</li>
+          <li>AUX: being, having, getting, doing</li>
           <li>VERB: using, including, following, making, doing, according, growing, taking, going, getting</li>
         </ul>
         </li>
@@ -1080,8 +1082,7 @@ udver: '2'
         <li>Part
         <ul>
           <li>AUX: been, getting</li>
-          <li>SCONJ: given, Based, PROVIDED, geiven</li>
-          <li>VERB: going, had, attached, done, made, used, called, based, doing, looking</li>
+          <li>VERB: going, had, attached, done, made, used, based, called, doing, looking</li>
         </ul>
         </li>
       </ul>
@@ -1100,8 +1101,8 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>AUX: been</li>
-          <li>VERB: united, gon, going, called, known, used, based, made, doing, done</li>
+          <li>AUX: been, done, doing, had</li>
+          <li>VERB: united, gon, going, called, known, used, based, made, doing, given</li>
         </ul>
         </li>
       </ul>
@@ -1629,7 +1630,7 @@ udver: '2'
             <li>NOUN: people, years, days, things, questions, times, months, guys, friends, places</li>
             <li>PRON: they, we, their, our, them, us, those, these, themselves, there</li>
             <li>PROPN: states, americans, Beatles, Iraqis, Palestinians, Islands, Tigers, Shiites, Nations, Seas</li>
-            <li>VERB-Fin: have, are, had, need, do, want, know, took, got, came</li>
+            <li>VERB-Fin: have, are, had, need, want, do, know, took, got, came</li>
           </ul>
         </li>
       </ul>
@@ -1638,12 +1639,12 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>AUX-Fin: are, 're, were, have, 've, do, must, will, Can, art</li>
+            <li>AUX-Fin: are, 're, were, have, do, 've, must, will, did, Can</li>
             <li>DET: these, those</li>
             <li>NOUN: days, fees, people, weeks, Structures, players, tools, Algorithms, Pp., angels</li>
             <li>PRON: we, they, our, them, you, their, us, those, these, Ourselves</li>
             <li>PROPN: Does, Champions, Services, Antonyms, Reversals, Tools, Americans, Disputes, Europeans, Expressions</li>
-            <li>VERB-Fin: have, are, know, need, had, name, passed, brought, did, do</li>
+            <li>VERB-Fin: have, know, are, need, had, name, passed, brought, get, meet</li>
           </ul>
         </li>
       </ul>
@@ -1652,12 +1653,12 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>AUX-Fin: are, were, have, 're, do, will, did, had, can, ’re</li>
+            <li>AUX-Fin: are, were, have, 're, do, did, had, will, can, ’re</li>
             <li>DET: these, those</li>
             <li>NOUN: people, years, things, guys, data, days, studies, minutes, children, months</li>
             <li>PRON: we, they, their, our, them, us, you, those, these, 's</li>
             <li>PROPN: States, Americans, Nations, skittles, Chathams, Mets, Netherlands, Sox, Democrats, Olmec</li>
-            <li>VERB-Fin: have, are, had, know, need, did, were, want, got, do</li>
+            <li>VERB-Fin: have, are, had, know, need, want, got, did, make, see</li>
           </ul>
         </li>
       </ul>
@@ -1680,7 +1681,7 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>DET: these, those, both</li>
+            <li>DET: these, those</li>
             <li>NOUN: people, eyes, fields, men, years, things, items, women, hands, words</li>
             <li>NUM: fifteen, forty-one</li>
             <li>PRON: they, we, them, us, our, themselves, these, those, ourselves, 's</li>
@@ -1753,15 +1754,13 @@ udver: '2'
           <ul>
             <li>ADJ: Central, Global, Modern, Pakistani, middle, red, 17th</li>
             <li>ADV: mid</li>
-            <li>AUX-Fin: is, was, has, 's, do, have, am, 'm, are, did</li>
-            <li>DET: this, that</li>
-            <li>INTJ: appetit</li>
+            <li>AUX-Fin: is, was, has, 's, do, have, am, 'm, did, are</li>
+            <li>DET: this, that, Thi$, dthat</li>
             <li>NOUN: time, service, place, thanks, food, way, year, day, number, pm</li>
             <li>PRON: i, it, my, he, me, this, his, that, him, she</li>
             <li>PROPN: bush, US, al, Iraq, enron, Iran, China, Qaeda, John, india</li>
             <li>SYM: #, %, 1%P701!.doc</li>
             <li>VERB-Fin: have, said, has, had, is, want, think, need, know, got</li>
-            <li>VERB-Part: compared</li>
             <li>X: .doc, Guaranty.doc, 20.doc, -2-F.doc, -FINAL.doc, 02-05-02.doc, 4_28_00.doc, URSULA, 0308.doc, 050901.doc</li>
           </ul>
         </li>
@@ -1772,15 +1771,14 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: Old, Middle, Open, High, Northern, Academic, Danish, English, Mathematical, Oriented</li>
-            <li>AUX-Fin: is, was, has, 's, 'm, will, are, do, 've, had</li>
+            <li>AUX-Fin: is, was, has, 's, 'm, will, do, are, 've, had</li>
             <li>DET: this, that, n</li>
             <li>NOUN: x, week, T, project, S, school, y, time, party, trust</li>
             <li>PRON: I, you, he, it, his, my, your, me, that, this</li>
             <li>PROPN: Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</li>
             <li>PUNCT: ,</li>
             <li>SYM: %</li>
-            <li>VERB-Fin: has, is, said, follows, think, Quoth, came, had, heard, took</li>
-            <li>VERB-Inf: act</li>
+            <li>VERB-Fin: has, said, follows, is, think, Quoth, came, had, heard, took</li>
           </ul>
         </li>
       </ul>
@@ -1789,7 +1787,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: national, International, Democratic, New, American, Creative, Red, Civic, Main, Open</li>
+            <li>ADJ: New, national, International, Democratic, American, Creative, Red, Civic, Main, Open</li>
             <li>ADV: Always, Little, Loud, Out, Too, Truly, northwest, south</li>
             <li>AUX: is, was, 's, has, do, 'm, did, had, ’s, 're</li>
             <li>AUX-Fin: is, was, 's, has, do, 'm, did, had, ’s, 're</li>
@@ -1797,10 +1795,11 @@ udver: '2'
             <li>NOUN: time, day, way, city, world, year, today, life, work, example</li>
             <li>NUM: half, Seven, Three</li>
             <li>PRON: i, it, you, he, his, my, your, that, this, she</li>
-            <li>PROPN: New, President, University, York, America, figure, north, Scientology, south, Warhol</li>
+            <li>PROPN: President, University, York, New, America, figure, north, Scientology, south, Warhol</li>
             <li>PUNCT: point</li>
             <li>SYM: %</li>
-            <li>VERB-Fin: said, know, has, is, have, think, had, 's, was, want</li>
+            <li>VERB: said, know, has, have, think, had, want, is, mean, 's</li>
+            <li>VERB-Fin: said, know, has, have, think, had, want, is, mean, 's</li>
             <li>VERB-Ger: Concerning, Talking</li>
             <li>VERB-Inf: Avoid, Ditch, Hydrodynamica, Talk, Write</li>
             <li>VERB-Part: United, Combined, Protected, Rated</li>
@@ -1932,9 +1931,7 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-      <ul>
-        <li><a>Case</a></li>
-      </ul>
+
     </td>
   </tr>
   <tr>
@@ -2102,7 +2099,7 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>PRON: i, you, it, we, he, they, she, me, them, him</li>
+            <li>PRON: i, you, it, we, he, they, she, me, him, s/he</li>
           </ul>
         </li>
       </ul>
@@ -2129,7 +2126,7 @@ udver: '2'
             <li>INTJ: Ave, Er</li>
             <li>NOUN: garden, Jews, sir, smile, faces, Americans, Mr., bush, fellow, objects</li>
             <li>NUM: n, U</li>
-            <li>PRON: he, I, they, we, she, all, other, each, others, some</li>
+            <li>PRON: he, I, they, we, she, all, others, some, no, another</li>
             <li>PROPN: Access, Windows, Internet, NT, Other, Drive, Orders, Help, Salesperson, Fixed</li>
             <li>SCONJ: when, whenever, even, ever</li>
             <li>VERB: filter, group, burst, shut, edit, pleased, 'm, crossing, copying, laid</li>
@@ -2151,13 +2148,7 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-      <ul>
-        <li>Nom
-          <ul>
-            <li>DET: all</li>
-          </ul>
-        </li>
-      </ul>
+
     </td>
   </tr>
   <tr>
@@ -2251,7 +2242,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: the, to, tttthhhhh</li>
+            <li>DET: the, teh, he, te, then, ther, thes, to, tttthhhhh</li>
           </ul>
         </li>
       </ul>
@@ -2287,7 +2278,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: the</li>
+            <li>DET: the, Le</li>
             <li>PRON: her</li>
           </ul>
         </li>
@@ -2332,7 +2323,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: a, an</li>
+            <li>DET: a, an, and, aa</li>
           </ul>
         </li>
       </ul>
@@ -2586,7 +2577,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: good, great, new, other, many, last, same, few, little, sure</li>
-            <li>ADV: well, far, soon, long, hard, early, late, close, little, high</li>
+            <li>ADV: well, far, soon, long, hard, early, late, little, close, high</li>
             <li>INTJ: Bon</li>
           </ul>
         </li>
@@ -2596,10 +2587,10 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: next, other, open, straight, chronic, right, old, transitive, good, final</li>
+            <li>ADJ: next, other, open, straight, chronic, right, old, such, transitive, good</li>
             <li>ADV: well, still, back, ever, nevermore, Therefore, above, down, again, away</li>
             <li>DET: all, many, such</li>
-            <li>SCONJ: such, too, whereby</li>
+            <li>SCONJ: too</li>
           </ul>
         </li>
       </ul>
@@ -2608,11 +2599,10 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: other, many, new, good, little, first, different, same, last, own</li>
+            <li>ADJ: other, many, new, good, little, first, different, same, such, last</li>
             <li>ADV: really, well, back, still, too, again, away, much, all, probably</li>
-            <li>DET: all, Some</li>
+            <li>DET: all</li>
             <li>PUNCT: —</li>
-            <li>SCONJ: such, like</li>
           </ul>
         </li>
       </ul>
@@ -2623,7 +2613,6 @@ udver: '2'
           <ul>
             <li>ADJ: _</li>
             <li>ADV: _</li>
-            <li>SCONJ: _</li>
           </ul>
         </li>
       </ul>
@@ -2872,7 +2861,6 @@ udver: '2'
         <li>Neg
           <ul>
             <li>ADV: not, no, n’t, never, n't</li>
-            <li>DET: no</li>
             <li>PART: not, n't, n’t</li>
           </ul>
         </li>
@@ -3056,7 +3044,6 @@ udver: '2'
         <li>Imp
           <ul>
             <li>AUX-Fin: do, be, get</li>
-            <li>AUX-Inf: get</li>
             <li>VERB-Fin: let, go, see, take, try, get, make, give, call, put</li>
           </ul>
         </li>
@@ -3076,7 +3063,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: be</li>
+            <li>AUX-Fin: be, Do</li>
             <li>VERB-Fin: let, see, look, make, get, use, add, try, place, take</li>
           </ul>
         </li>
@@ -3144,9 +3131,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: is, was, are, have, do, has, were, 's, am, 'm</li>
-            <li>VERB-Fin: have, had, said, has, is, want, need, are, know, think</li>
-            <li>VERB-Part: compared</li>
+            <li>AUX-Fin: is, was, are, do, have, has, were, 's, am, did</li>
+            <li>VERB-Fin: have, had, said, has, want, need, is, are, know, think</li>
           </ul>
         </li>
       </ul>
@@ -3155,8 +3141,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: is, was, are, has, 's, 'm, do, 're, 've, have</li>
-            <li>VERB-Fin: has, is, have, said, follows, know, had, took, are, did</li>
+            <li>AUX-Fin: is, was, are, has, 's, do, 'm, 're, 've, have</li>
+            <li>VERB-Fin: has, have, said, follows, is, know, had, took, think, Quoth</li>
           </ul>
         </li>
       </ul>
@@ -3166,7 +3152,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: is, was, are, 's, do, were, has, have, 're, 'm</li>
-            <li>VERB-Fin: have, know, said, are, has, is, had, think, want, 's</li>
+            <li>VERB-Fin: have, know, said, has, had, think, are, want, is, mean</li>
           </ul>
         </li>
       </ul>
@@ -3362,9 +3348,8 @@ udver: '2'
           <ul>
             <li>AUX-Fin: was, were, did, had, got, 'd, where, wase, we</li>
             <li>AUX-Part: been</li>
-            <li>SCONJ-Part: given, Based, PROVIDED, geiven</li>
-            <li>VERB-Fin: had, said, got, took, came, went, did, told, called, made</li>
-            <li>VERB-Part: had, attached, done, made, used, called, based, given, seen, sent</li>
+            <li>VERB-Fin: had, said, got, took, came, went, told, called, made, did</li>
+            <li>VERB-Part: had, attached, done, made, used, based, called, given, seen, sent</li>
           </ul>
         </li>
       </ul>
@@ -3373,9 +3358,9 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>AUX-Fin: was, had, were, did</li>
+            <li>AUX-Fin: was, did, had, were</li>
             <li>AUX-Part: been</li>
-            <li>VERB-Fin: said, had, took, did, came, heard, got, held, passed, thought</li>
+            <li>VERB-Fin: said, had, took, came, heard, did, got, held, passed, thought</li>
             <li>VERB-Part: done, noted, given, applied, assigned, charged, connected, colored, considered, diagnosed</li>
           </ul>
         </li>
@@ -3386,9 +3371,9 @@ udver: '2'
         <li>Past
           <ul>
             <li>AUX-Fin: was, were, did, had, 'd, ’d, got, where</li>
-            <li>AUX-Part: been</li>
-            <li>VERB-Fin: said, had, was, got, came, did, made, took, went, wanted</li>
-            <li>VERB-Part: united, called, known, used, based, made, done, given, seen, taken</li>
+            <li>AUX-Part: been, done, had</li>
+            <li>VERB-Fin: said, had, got, came, made, took, went, wanted, thought, did</li>
+            <li>VERB-Part: united, called, known, used, based, made, given, done, seen, taken</li>
           </ul>
         </li>
       </ul>
@@ -3474,9 +3459,9 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: is, are, have, do, has, 's, am, 'm, does, 've</li>
+            <li>AUX-Fin: is, are, do, have, has, 's, am, 'm, does, 've</li>
             <li>AUX-Part: getting</li>
-            <li>VERB-Fin: have, has, is, want, need, are, know, think, thank, get</li>
+            <li>VERB-Fin: have, has, want, need, is, are, know, think, thank, get</li>
             <li>VERB-Part: going, doing, looking, working, trying, having, getting, coming, making, planning</li>
           </ul>
         </li>
@@ -3486,8 +3471,8 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: is, are, has, 's, 'm, do, 're, 've, have, does</li>
-            <li>VERB-Fin: has, is, have, follows, know, are, think, Quoth, do, need</li>
+            <li>AUX-Fin: is, are, has, 's, do, 'm, 're, 've, have, does</li>
+            <li>VERB-Fin: has, have, follows, is, know, think, Quoth, need, are, continues</li>
             <li>VERB-Part: gon, going, playing, having, looking, making, sitting, trying, building, checking</li>
           </ul>
         </li>
@@ -3498,7 +3483,8 @@ udver: '2'
         <li>Pres
           <ul>
             <li>AUX-Fin: is, are, 's, do, has, have, 're, 'm, ’s, 've</li>
-            <li>VERB-Fin: have, know, are, has, is, think, want, 's, mean, need</li>
+            <li>AUX-Part: doing</li>
+            <li>VERB-Fin: have, know, has, think, are, want, is, mean, need, get</li>
             <li>VERB-Part: gon, going, doing, trying, getting, coming, looking, working, taking, talking</li>
           </ul>
         </li>
@@ -3618,7 +3604,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Part: attached, made, used, told, done, sent, called, born, appreciated, given</li>
+            <li>VERB-Part: attached, made, based, done, used, called, sent, given, told, known</li>
           </ul>
         </li>
       </ul>
@@ -3627,7 +3613,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Part: applied, assigned, connected, given, colored, done, expected, noted, allowed, caught</li>
+            <li>VERB-Part: done, noted, applied, assigned, charged, connected, given, colored, considered, diagnosed</li>
           </ul>
         </li>
       </ul>
@@ -3636,7 +3622,7 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Part: used, called, known, made, found, taken, born, considered, done, allowed</li>
+            <li>VERB-Part: known, called, based, used, made, given, born, found, done, taken</li>
           </ul>
         </li>
       </ul>
@@ -3801,7 +3787,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: the, a, an, to, tttthhhhh</li>
+            <li>DET: the, a, an, and, teh, aa, he, te, then, ther</li>
           </ul>
         </li>
       </ul>
@@ -3810,7 +3796,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: the, a, an, no, another, both, either, n, ∀, know</li>
+            <li>DET: the, a, an</li>
           </ul>
         </li>
       </ul>
@@ -3819,7 +3805,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: the, a, an, another, no, both, either, neither, Mat, and</li>
+            <li>DET: the, a, an</li>
           </ul>
         </li>
       </ul>
@@ -3837,7 +3823,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: the, a, an, what, Tha</li>
+            <li>DET: the, a, an, Le, what, Tha</li>
           </ul>
         </li>
       </ul>
@@ -3888,7 +3874,7 @@ udver: '2'
         <li>Dem
           <ul>
             <li>ADV: then, there, here</li>
-            <li>DET: this, that, these, those</li>
+            <li>DET: this, that, these, those, Thi$, dthat</li>
             <li>PRON: this, that, those, these</li>
           </ul>
         </li>
@@ -3910,7 +3896,7 @@ udver: '2'
         <li>Dem
           <ul>
             <li>ADV: then, here, there</li>
-            <li>DET: this, these, that, those, such</li>
+            <li>DET: this, these, that, those, such, yonder</li>
             <li>PRON: there, that, this, those, these</li>
           </ul>
         </li>
@@ -4031,6 +4017,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
+            <li>DET: some, any, another, such, quite, either, half, many, $ome, anothers</li>
             <li>PRON: anyone, something, anything, someone, anybody, somebody, any, any1, some, someon</li>
           </ul>
         </li>
@@ -4040,7 +4027,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: any, some, many</li>
+            <li>DET: any, some, all, every, another, each, both, many, n, ∀</li>
             <li>PRON: something, anything, anyone, someone, somebody</li>
           </ul>
         </li>
@@ -4050,7 +4037,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: some, any, half</li>
+            <li>DET: some, all, any, every, another, each, both, half, Mat, and</li>
             <li>PRON: something, anything, someone, anyone, somebody, anybody</li>
           </ul>
         </li>
@@ -4070,13 +4057,20 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
+            <li>DET: some, any, either</li>
             <li>PRON: either, one, ones</li>
           </ul>
         </li>
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: some, another, any, such, either, half</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -4109,7 +4103,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: when, how, why, where, whenever, Wherever, however, were, who, y</li>
+            <li>ADV: when, how, why, where, whenever, Wherever, however, who, y</li>
             <li>DET: what, which, whatever</li>
             <li>PRON: what, who, which, whatever, whom, Wtf, waht, whoooooo, wht</li>
           </ul>
@@ -4120,7 +4114,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: when, how, where</li>
+            <li>ADV: when, how, where, whereby</li>
             <li>DET: what, which</li>
             <li>PRON: what, Which, who, whose</li>
           </ul>
@@ -4132,7 +4126,7 @@ udver: '2'
         <li>Int
           <ul>
             <li>ADV: when, how, why, where, whither, whenever</li>
-            <li>DET: what, which, whatever</li>
+            <li>DET: which, what, whatever</li>
             <li>PRON: what, who, which, whatever, Whoever, whose</li>
           </ul>
         </li>
@@ -4237,7 +4231,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>DET: half</li>
+            <li>DET: no, neither</li>
             <li>PRON: nothing, one, nobody, noone</li>
           </ul>
         </li>
@@ -4247,6 +4241,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
+            <li>DET: no, know</li>
             <li>PRON: nothing, one</li>
           </ul>
         </li>
@@ -4256,6 +4251,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
+            <li>DET: no, neither</li>
             <li>PRON: nothing, one, nobody</li>
           </ul>
         </li>
@@ -4265,6 +4261,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
+            <li>DET: _</li>
             <li>PRON: _</li>
           </ul>
         </li>
@@ -4281,7 +4278,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: no, nary</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -4448,7 +4451,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADV: where, when, why, how, were, wherein, wherever, where-ever</li>
-            <li>DET: whatever, which</li>
+            <li>DET: which, whatever</li>
             <li>PRON: that, which, who, what, whom, whatever, whose, who's, whoever, whomever</li>
           </ul>
         </li>
@@ -4469,8 +4472,8 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADV: where, how, why, when, whenever, wherever, however</li>
+            <li>DET: what, whatever</li>
             <li>PRON: that, which, who, what, whom, whose, whatever, Whosoever, whoever, wish</li>
-            <li>SCONJ: that</li>
           </ul>
         </li>
       </ul>
@@ -4480,6 +4483,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADV: _</li>
+            <li>DET: _</li>
             <li>PRON: _</li>
           </ul>
         </li>
@@ -4502,7 +4506,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADV: where, when, why</li>
-            <li>DET: that, which</li>
+            <li>DET: which</li>
             <li>PRON: which, that, who</li>
             <li>SCONJ: that</li>
           </ul>
@@ -4534,6 +4538,7 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
+            <li>DET: all, every, each, both</li>
             <li>PRON: everything, everyone, everybody, everbody</li>
           </ul>
         </li>
@@ -4543,7 +4548,7 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: all, each, every</li>
+            <li>DET: all, each, both</li>
             <li>PRON: everything, everyone</li>
           </ul>
         </li>
@@ -4553,7 +4558,7 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: all, every, each, Alright</li>
+            <li>DET: all, both, each</li>
             <li>PRON: everything, everyone, everybody</li>
           </ul>
         </li>
@@ -4573,14 +4578,20 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: both</li>
-            <li>PRON: both</li>
+            <li>DET: all, each, every, both</li>
+            <li>PRON: each, both</li>
           </ul>
         </li>
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: all, each, both, every</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -4592,7 +4603,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: all</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -4663,7 +4680,7 @@ udver: '2'
         <li>Card
           <ul>
             <li>NOUN: 1960s, 1980s, 1990s, 22s</li>
-            <li>NUM: one, two, 2, 3, 5, 1, 10, 4, three, 20</li>
+            <li>NUM: one, two, 2, 1, 3, 5, 4, 10, three, 20</li>
           </ul>
         </li>
       </ul>
@@ -4711,7 +4728,7 @@ udver: '2'
         <li>Card
           <ul>
             <li>NUM: one, two, three, million, 10, four, 1, six, 3, 2014</li>
-            <li>PROPN: I, I., V, VI, X</li>
+            <li>PROPN: I.</li>
           </ul>
         </li>
       </ul>
@@ -4750,6 +4767,7 @@ udver: '2'
             <li>ADV: half</li>
             <li>DET: half</li>
             <li>NOUN: half, third, fifth, fourth, tenth, thirds</li>
+            <li>NUM: 1.5, 20.000, 3.5, 1.00, 4.6, 6.00, 6.1, 1.1, 10.0, 10.2</li>
           </ul>
         </li>
       </ul>
@@ -4790,7 +4808,13 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Frac
+          <ul>
+            <li>DET: half</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
@@ -4885,7 +4909,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: first, second, third, 17th, fourth, 21st, 5th, 10th, 14th, 19th</li>
+            <li>ADJ: first, second, third, 17th, fourth, 5th, 19th, 21st, 2nd, 7th</li>
             <li>ADV: first, second, Third, fifth</li>
             <li>NOUN: 23rd, 26th, 30th, 15th, 20th, 22nd, 13th, 1st, 29th, 4th</li>
           </ul>
@@ -5282,9 +5306,9 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: 'm, 've, do, 're, am, was, had, are, did, have</li>
+            <li>AUX-Fin: 'm, do, 've, 're, am, was, did, had, are, have</li>
             <li>PRON: I, we, my, me, our, us, myself, mine, Ourselves</li>
-            <li>VERB-Fin: said, have, heard, need, did, had, implore, passed, stood, thought</li>
+            <li>VERB-Fin: said, have, heard, need, had, implore, passed, stood, thought, want</li>
           </ul>
         </li>
       </ul>
@@ -5293,7 +5317,7 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: 'm, do, was, have, 've, did, are, am, 're, were</li>
+            <li>AUX-Fin: 'm, do, was, have, are, did, 've, am, 're, were</li>
             <li>PRON: i, we, my, our, me, us, 's, myself, ’s, mine</li>
             <li>VERB-Fin: have, think, mean, know, thank, had, got, want, said, wanted</li>
           </ul>
@@ -5374,7 +5398,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: are, do, 're, have, did, were, 've, r, re, be</li>
             <li>PRON: you, your, yourself, u, Yo, ur, yours, thy, ya, ye</li>
-            <li>VERB-Fin: have, want, need, get, know, think, go, got, do, take</li>
+            <li>VERB-Fin: have, want, need, get, know, think, go, got, take, use</li>
           </ul>
         </li>
       </ul>
@@ -5386,7 +5410,7 @@ udver: '2'
             <li>AUX-Fin: are, do, 're, 've, have, be, ’re</li>
             <li>PRON: you, your, yourself, thou, yours</li>
             <li>VERB-Fin: let, Suppose, see, get, tell, consider, know, take, think, Call</li>
-            <li>VERB-Inf: have, see, Let, give, rely, believe, confide, do, drop, quaff</li>
+            <li>VERB-Inf: Let, see, do, drop, have, quaff, use, Articulate, Become, Demonstrate</li>
           </ul>
         </li>
       </ul>
@@ -5395,10 +5419,10 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>AUX-Fin: 're, do, are, did, have, be, were, ’re, 've, ’ve</li>
+            <li>AUX-Fin: do, 're, are, did, have, be, were, ’re, 've, ’ve</li>
             <li>PRON: you, your, yourself, yours, ya, y', ye</li>
-            <li>VERB-Fin: know, let, have, get, see, want, look, make, do, use</li>
-            <li>VERB-Inf: see, let, get, Describe, go, make, use, Discuss, Do, Explain</li>
+            <li>VERB-Fin: know, let, have, get, see, want, look, make, use, take</li>
+            <li>VERB-Inf: see, let, Describe, get, go, use, Discuss, Do, Explain, continue</li>
           </ul>
         </li>
       </ul>
@@ -5475,10 +5499,9 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX-Fin: is, was, are, has, 's, were, have, does, do, did</li>
+            <li>AUX-Fin: is, was, are, has, 's, were, have, does, did, do</li>
             <li>PRON: it, they, he, their, his, them, him, she, her, its</li>
-            <li>VERB-Fin: said, has, is, are, had, have, came, took, told, says</li>
-            <li>VERB-Part: compared</li>
+            <li>VERB-Fin: said, has, is, had, have, are, came, took, told, says</li>
           </ul>
         </li>
       </ul>
@@ -5489,7 +5512,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: is, was, are, has, 's, will, were, have, can, does</li>
             <li>PRON: he, it, his, they, its, him, her, them, their, she</li>
-            <li>VERB-Fin: has, is, follows, are, Quoth, continues, had, held, precedes, took</li>
+            <li>VERB-Fin: has, follows, is, Quoth, are, continues, had, held, precedes, took</li>
           </ul>
         </li>
       </ul>
@@ -5500,7 +5523,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: is, was, are, 's, were, has, had, have, ’s, will</li>
             <li>PRON: it, he, they, his, she, their, her, them, its, him</li>
-            <li>VERB-Fin: said, has, is, are, have, had, 's, was, says, came</li>
+            <li>VERB-Fin: said, has, are, have, had, is, 's, says, came, makes</li>
           </ul>
         </li>
       </ul>
@@ -5705,12 +5728,12 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: gud, lil</li>
-                <li>ADP: o, thru, w, ta, vs, f, a, b/c, w/, 2</li>
-                <li>ADV: 4-ever, Def, aka, deffly, ovr, prolly, y</li>
+                <li>ADJ: eg, gud, lil</li>
+                <li>ADP: o, thru, vs, w, ta, f, a, b/c, w/, 2</li>
+                <li>ADV: 4-ever, Def, aka, deffly, ie, ovr, prolly, y</li>
                 <li>AUX-Fin: ar, r, re, shal, v, wud</li>
                 <li>AUX-Inf: b</li>
-                <li>CCONJ: n, 'n, VS</li>
+                <li>CCONJ: n, 'n</li>
                 <li>DET: da, dat, sm</li>
                 <li>INTJ: wel, plllz</li>
                 <li>NOUN: etc, etc., mins, No., b, luv, ppl, thanx, yrs, UV</li>
@@ -5721,7 +5744,7 @@ udver: '2'
                 <li>SCONJ: b/c, 4, bc, cos, cus, tho, w/out, coz</li>
                 <li>VERB-Fin: wan, c'm, hav</li>
                 <li>VERB-Ger: findin, goin, playin</li>
-                <li>VERB-Inf: hav, wan</li>
+                <li>VERB-Inf: hav, Arrv., wan</li>
                 <li>VERB-Part: gon, b., est, wagin</li>
               </ul>
             </li>
@@ -5816,6 +5839,7 @@ udver: '2'
               <ul>
                 <li>ADJ: more, less</li>
                 <li>ADP: of, at, A</li>
+                <li>DET: all</li>
                 <li>NOUN: kind, sort</li>
               </ul>
             </li>
@@ -5873,7 +5897,9 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>X: la, a, de, del, guerre, hoc, non, Acedraz, Déjà, Hochrenaissance</li>
+                <li>INTJ: Bon</li>
+                <li>NOUN: empanadas, arabes, cordobes, empanada</li>
+                <li>X: de, la, a, del, guerre, hoc, non, Acedraz, Déjà, Hochrenaissance</li>
               </ul>
             </li>
           </ul>
@@ -5951,23 +5977,29 @@ udver: '2'
       <ul>
         <li><a>NumForm</a>
           <ul>
+            <li>Combi
+              <ul>
+                <li>ADJ: 17th, 5th, 19th, 21st, 2nd, 7th, 10th, 14th, 1st, 20th</li>
+                <li>NOUN: 23rd, 26th, 30th, 15th, 20th, 22nd, 13th, 1st, 29th, 4th</li>
+              </ul>
+            </li>
             <li>Digit
               <ul>
                 <li>NOUN: 1960s, 1980s, 1990s, 22s</li>
-                <li>NUM: 2, 3, 5, 1, 10, 4, 20, 6, 2005, 2003</li>
+                <li>NUM: 2, 1, 3, 5, 4, 10, 20, 6, 2005, 2003</li>
               </ul>
             </li>
             <li>Roman
               <ul>
-                <li>NUM: ii, i, iii, VI, XIII, VII, iv, v</li>
+                <li>NUM: ii, VI, iii, i, v, XIII, iv, VII, VIII</li>
               </ul>
             </li>
             <li>Word
               <ul>
-                <li>ADJ: half</li>
-                <li>ADV: half</li>
+                <li>ADJ: first, second, third, fourth, half, sixth, fifth</li>
+                <li>ADV: first, once, twice, second, Third, fifth, half</li>
                 <li>DET: half</li>
-                <li>NOUN: half, third, fifth, fourth, tenth, thirds</li>
+                <li>NOUN: half, first, third, fifteenth, fifth, fourth, sixth, tenth, thirds</li>
                 <li>NUM: one, two, three, four, m, million, five, six, k, billion</li>
               </ul>
             </li>
@@ -5979,6 +6011,11 @@ udver: '2'
       <ul>
         <li><a>NumForm</a>
           <ul>
+            <li>Combi
+              <ul>
+                <li>ADJ: 11th, 14th, 1st, 24th, 25th, 27th, 4th, 9th</li>
+              </ul>
+            </li>
             <li>Digit
               <ul>
                 <li>NUM: 1, 5, 2, 4, 3, 10, 15, 20, 30, 6</li>
@@ -5991,9 +6028,10 @@ udver: '2'
             </li>
             <li>Word
               <ul>
-                <li>ADV: twice, once, half</li>
+                <li>ADJ: first, third, second, fifth, sixth, Ninth</li>
+                <li>ADV: first, twice, once, half</li>
                 <li>NOUN: half</li>
-                <li>NUM: one, two, three, five, four, six, million, nil, thousand, 08/19/2019</li>
+                <li>NUM: one, two, three, five, four, six, million, nil, thousand, eight</li>
               </ul>
             </li>
           </ul>
@@ -6004,6 +6042,12 @@ udver: '2'
       <ul>
         <li><a>NumForm</a>
           <ul>
+            <li>Combi
+              <ul>
+                <li>ADJ: 19th, 20th, 10th, 30th, 17th, 21st, 2nd, 33rd, 3rd, 50th</li>
+                <li>ADV: 135th, 15th</li>
+              </ul>
+            </li>
             <li>Digit
               <ul>
                 <li>NUM: 1, 2, 3, 10, 4, 6, 5, 15, 7, 20</li>
@@ -6016,7 +6060,8 @@ udver: '2'
             </li>
             <li>Word
               <ul>
-                <li>ADV: once, twice, half</li>
+                <li>ADJ: first, second, third, fourth, fifth, seventh, ninth, sixth, tenth</li>
+                <li>ADV: first, once, second, twice, half, third, sixth</li>
                 <li>DET: half</li>
                 <li>NOUN: half, quarter, third, thirds, quarters, fifths, halves, hundredths, millionth, tenth</li>
                 <li>NUM: one, two, three, four, five, six, million, ten, eight, seven</li>
@@ -6031,6 +6076,11 @@ udver: '2'
       <ul>
         <li><a>NumForm</a>
           <ul>
+            <li>Combi
+              <ul>
+                <li>ADJ: _</li>
+              </ul>
+            </li>
             <li>Digit
               <ul>
                 <li>NUM: _</li>
@@ -6038,6 +6088,7 @@ udver: '2'
             </li>
             <li>Word
               <ul>
+                <li>ADJ: _</li>
                 <li>ADV: _</li>
                 <li>NOUN: _</li>
                 <li>NUM: _</li>
@@ -6052,7 +6103,35 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>NumForm</a>
+          <ul>
+            <li>Combi
+              <ul>
+                <li>ADJ: 8th, 16th, 20th, 3rd, 5th, 13th, 14th, 15th, 1st, 45th</li>
+              </ul>
+            </li>
+            <li>Digit
+              <ul>
+                <li>NUM: 10, 1, 3, 2014, 2015, 100, 1492, 20, 2010, 2012</li>
+              </ul>
+            </li>
+            <li>Roman
+              <ul>
+                <li>NUM: I, III, IV, II, V, VI, X</li>
+              </ul>
+            </li>
+            <li>Word
+              <ul>
+                <li>ADJ: first, second, third, fourth</li>
+                <li>ADV: once, twice</li>
+                <li>DET: half</li>
+                <li>NUM: one, two, three, million, four, six, bn, five, seven, ten</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
@@ -6148,22 +6227,22 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ: over, rediculous, accomodating, Arial, afore, knowledgable, unic, 0nside, Aweesome, Awsome</li>
-                <li>ADP: a, then, and, in, int, of, the, aboout, abou, admidst</li>
-                <li>ADV: to, definately, aboard, all, any, completly, every, half, on, realy</li>
-                <li>AUX-Fin: s, re, where, have, r, ve, woud, ',, `s, a</li>
+                <li>ADP: a, then, of, and, in, int, the, aboout, abou, admidst</li>
+                <li>ADV: to, definately, were, aboard, all, any, completly, every, half, on</li>
+                <li>AUX-Fin: s, m, r, ve, `s, re, where, d, ll, have</li>
                 <li>AUX-Ger: been</li>
                 <li>AUX-Inf: by</li>
                 <li>CCONJ: an, adn, a, ad=nd, afnd, amd, ans, at, of</li>
-                <li>DET: and, teh, $ome, Thi$, aa, dthat, he, ssome, te, then</li>
-                <li>INTJ: Ye$, Υes</li>
-                <li>NOUN: MEH-risk, Compaq.com, catagory, chnages, collages, e, hamburguers, mid, resturant, $ervice</li>
-                <li>PART: s, nt, too, ot, the</li>
+                <li>DET: and, teh, $ome, Thi$, aa, anothers, dthat, he, ssome, te</li>
+                <li>INTJ: Ye$, high, Υes</li>
+                <li>NOUN: MEH-risk, Compaq.com, area's, catagory, chnages, collages, e, ect, hamburguers, mid</li>
+                <li>NUM: on</li>
+                <li>PART: s, nt, ', too, -s, `s, ot, the</li>
                 <li>PRON: you, there, it's, the, their, s, out, they, who's, any</li>
                 <li>PROPN: Sear's, penines, U$, A, Bramen, Deutsched, Dinners, Fudruckers, Guiness, Hirsohima</li>
                 <li>PUNCT: 1?!?!?, =</li>
                 <li>SCONJ: becuse, then, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse</li>
-                <li>SCONJ-Part: geiven</li>
-                <li>VERB-Fin: taste, new, know, reccomend, recieved, see, want, where, For, Loose</li>
+                <li>VERB-Fin: s, taste, new, know, reccomend, recieved, see, want, For, Loose</li>
                 <li>VERB-Ger: ASWERING, EATTING, developiong, drive, drving, hireing, loosing, usint</li>
                 <li>VERB-Inf: loose, reccommend, recieve, recomend, accomodate, answers, bare, charger, co$t, critisize</li>
                 <li>VERB-Part: excepted, name, suppose, Compare, Rcommended, U, amplifiaed, botn, buring, charge</li>
@@ -6182,7 +6261,7 @@ udver: '2'
               <ul>
                 <li>ADJ: Africanner</li>
                 <li>ADV: justl, than, to</li>
-                <li>AUX-Fin: d</li>
+                <li>AUX-Fin: s, d</li>
                 <li>CCONJ: an</li>
                 <li>DET: all</li>
                 <li>NOUN: p, principal</li>
@@ -6208,22 +6287,23 @@ udver: '2'
                 <li>ADJ: residential, I.=, Water, completed, digital, first, flashest, luxerious, non-Muslim, northeastern</li>
                 <li>ADP: on, to, of, With, a, as, fro, from, in, than</li>
                 <li>ADV: aka, all, before, Non, really, them, then, alr-, any, for</li>
-                <li>AUX-Fin: are, is, can, was, get, has, ll, s, were, where</li>
+                <li>AUX-Fin: are, is, can, ll, was, get, has, s, were, where</li>
                 <li>AUX-Inf: be</li>
+                <li>AUX-Part: been</li>
                 <li>DET: a, an, on, some, the, to</li>
                 <li>INTJ: y-, Ca-, Ro-, T-, alreet, alroot, f-, n-, plo-, reve-</li>
                 <li>NOUN: lotos, etc, per, type, dodge, fisherman, kind, order, thing, while</li>
-                <li>NUM: five, one</li>
+                <li>NUM: 6:00, five, one</li>
                 <li>PART: s, 's, do, the, not</li>
                 <li>PRON: em, it, you, i, it's, we, ya, She, Who, he</li>
                 <li>PROPN: sea, skittles, Chatnam, Hutter, JOHN, Tale, Trump, bd, june, petri</li>
                 <li>PUNCT: ", -, ., [, |, ’</li>
                 <li>SCONJ: cuz, cause, despite, that</li>
-                <li>VERB: dwibbling, Pre, got, set, understand, 's, United, Untied, address, be</li>
-                <li>VERB-Fin: set, 's, address, begun, cause, counteracts, cross-breeded, get, gives, got</li>
+                <li>VERB: dwibbling, Pre, got, set, understand, United, Untied, address, begun, breath</li>
+                <li>VERB-Fin: set, address, begun, cause, counteracts, cross-breeded, get, gives, got, has</li>
                 <li>VERB-Ger: dwibbling, deeping, exper-, going, knowing, leading, recurring</li>
-                <li>VERB-Inf: understand, be, breath, contribute, experience, loose, to, understan-, very</li>
-                <li>VERB-Part: United, Untied, been, disappeared, dwibbling, food, got, know, motivated, raise</li>
+                <li>VERB-Inf: understand, breath, contribute, experience, loose, to, understan-, very</li>
+                <li>VERB-Part: United, Untied, disappeared, dwibbling, food, got, know, motivated, raise, reach</li>
               </ul>
             </li>
           </ul>
@@ -6393,7 +6473,7 @@ udver: '2'
     <td width="10%" valign="top">
       <ul>
       <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, do, can, would, could, should, may, might, must, shall.</li>
-      <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get, have, would.</li>
+      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -6453,7 +6533,7 @@ udver: '2'
             <li>VERB-Inf--NOUN (234)</li>
             <li>VERB-Inf--NOUN-ADP(of) (2)</li>
             <li>VERB-Inf--PRON (32)</li>
-            <li>VERB-Inf--PRON-Nom (629)</li>
+            <li>VERB-Inf--PRON-Nom (628)</li>
             <li>VERB-Part--NOUN (50)</li>
             <li>VERB-Part--NOUN-ADP(for) (1)</li>
             <li>VERB-Part--PRON (3)</li>
@@ -6483,23 +6563,24 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1820)</li>
-            <li>VERB-Fin--PRON (760)</li>
-            <li>VERB-Fin--PRON-Acc (3)</li>
-            <li>VERB-Fin--PRON-Nom (4722)</li>
+            <li>VERB-Fin--NOUN (1795)</li>
+            <li>VERB-Fin--NOUN-ADP(in) (1)</li>
+            <li>VERB-Fin--PRON (753)</li>
+            <li>VERB-Fin--PRON-Acc (2)</li>
+            <li>VERB-Fin--PRON-Nom (4662)</li>
             <li>VERB-Ger--NOUN (84)</li>
             <li>VERB-Ger--PRON (10)</li>
             <li>VERB-Ger--PRON-Acc (8)</li>
-            <li>VERB-Ger--PRON-Gen (10)</li>
-            <li>VERB-Ger--PRON-Nom (186)</li>
-            <li>VERB-Inf--NOUN (628)</li>
+            <li>VERB-Ger--PRON-Gen (11)</li>
+            <li>VERB-Ger--PRON-Nom (187)</li>
+            <li>VERB-Inf--NOUN (629)</li>
             <li>VERB-Inf--PRON (282)</li>
             <li>VERB-Inf--PRON-Acc (29)</li>
-            <li>VERB-Inf--PRON-Nom (2609)</li>
-            <li>VERB-Part--NOUN (447)</li>
-            <li>VERB-Part--PRON (146)</li>
-            <li>VERB-Part--PRON-Acc (3)</li>
-            <li>VERB-Part--PRON-Nom (1272)</li>
+            <li>VERB-Inf--PRON-Nom (2599)</li>
+            <li>VERB-Part--NOUN (416)</li>
+            <li>VERB-Part--PRON (139)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
+            <li>VERB-Part--PRON-Nom (1255)</li>
           </ul>
         </li>
       </ul>
@@ -6511,9 +6592,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (124)</li>
+            <li>VERB-Fin--NOUN (122)</li>
             <li>VERB-Fin--PRON (36)</li>
-            <li>VERB-Fin--PRON-Nom (234)</li>
+            <li>VERB-Fin--PRON-Nom (226)</li>
             <li>VERB-Ger--NOUN (10)</li>
             <li>VERB-Ger--NOUN-ADP(as) (1)</li>
             <li>VERB-Ger--PRON-Nom (2)</li>
@@ -6534,19 +6615,18 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1816)</li>
-            <li>VERB-Fin--PRON (670)</li>
-            <li>VERB-Fin--PRON-ADP(to) (1)</li>
-            <li>VERB-Fin--PRON-Nom (3359)</li>
-            <li>VERB-Ger--NOUN (60)</li>
+            <li>VERB-Fin--NOUN (1779)</li>
+            <li>VERB-Fin--PRON (651)</li>
+            <li>VERB-Fin--PRON-Nom (3217)</li>
+            <li>VERB-Ger--NOUN (51)</li>
             <li>VERB-Ger--PRON-Gen (1)</li>
-            <li>VERB-Ger--PRON-Nom (22)</li>
-            <li>VERB-Inf--NOUN (404)</li>
-            <li>VERB-Inf--PRON (149)</li>
-            <li>VERB-Inf--PRON-Nom (1349)</li>
+            <li>VERB-Ger--PRON-Nom (15)</li>
+            <li>VERB-Inf--NOUN (393)</li>
+            <li>VERB-Inf--PRON (139)</li>
+            <li>VERB-Inf--PRON-Nom (1331)</li>
             <li>VERB-Part--NOUN (292)</li>
-            <li>VERB-Part--PRON (94)</li>
-            <li>VERB-Part--PRON-Nom (877)</li>
+            <li>VERB-Part--PRON (93)</li>
+            <li>VERB-Part--PRON-Nom (865)</li>
           </ul>
         </li>
       </ul>
@@ -6558,16 +6638,16 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (199)</li>
-            <li>VERB-Fin--PRON (96)</li>
-            <li>VERB-Fin--PRON-Nom (376)</li>
+            <li>VERB-Fin--NOUN (187)</li>
+            <li>VERB-Fin--PRON (93)</li>
+            <li>VERB-Fin--PRON-Nom (365)</li>
             <li>VERB-Ger--NOUN (5)</li>
             <li>VERB-Ger--PRON (1)</li>
             <li>VERB-Ger--PRON-Nom (1)</li>
-            <li>VERB-Inf--NOUN (57)</li>
-            <li>VERB-Inf--PRON (33)</li>
-            <li>VERB-Inf--PRON-Nom (187)</li>
-            <li>VERB-Part--NOUN (22)</li>
+            <li>VERB-Inf--NOUN (55)</li>
+            <li>VERB-Inf--PRON (31)</li>
+            <li>VERB-Inf--PRON-Nom (185)</li>
+            <li>VERB-Part--NOUN (23)</li>
             <li>VERB-Part--PRON (15)</li>
             <li>VERB-Part--PRON-Nom (120)</li>
           </ul>
@@ -6588,8 +6668,8 @@ udver: '2'
             <li>VERB-Fin--NOUN (1057)</li>
             <li>VERB-Fin--NOUN-ADP(of) (1)</li>
             <li>VERB-Fin--NOUN-Nom (39)</li>
-            <li>VERB-Fin--PRON (819)</li>
-            <li>VERB-Fin--PRON-Nom (1794)</li>
+            <li>VERB-Fin--PRON (820)</li>
+            <li>VERB-Fin--PRON-Nom (1793)</li>
             <li>VERB-Fin--PRON-Nom-ADP(as) (1)</li>
             <li>VERB-Inf--NOUN (191)</li>
             <li>VERB-Inf--NOUN-Nom (6)</li>
@@ -6597,10 +6677,9 @@ udver: '2'
             <li>VERB-Inf--PRON-ADP(for) (1)</li>
             <li>VERB-Inf--PRON-Acc (9)</li>
             <li>VERB-Inf--PRON-Nom (514)</li>
-            <li>VERB-Inf--PRON-Nom-ADP(for) (1)</li>
             <li>VERB-Part--NOUN (258)</li>
             <li>VERB-Part--NOUN-Nom (13)</li>
-            <li>VERB-Part--PRON (152)</li>
+            <li>VERB-Part--PRON (153)</li>
             <li>VERB-Part--PRON-Acc (2)</li>
             <li>VERB-Part--PRON-Nom (328)</li>
           </ul>
@@ -6711,20 +6790,20 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3478)</li>
-            <li>VERB-Fin--PRON (319)</li>
-            <li>VERB-Fin--PRON-Acc (781)</li>
+            <li>VERB-Fin--NOUN (3492)</li>
+            <li>VERB-Fin--PRON (320)</li>
+            <li>VERB-Fin--PRON-Acc (785)</li>
             <li>VERB-Fin--PRON-Nom (66)</li>
-            <li>VERB-Ger--NOUN (1036)</li>
+            <li>VERB-Ger--NOUN (1038)</li>
             <li>VERB-Ger--PRON (43)</li>
             <li>VERB-Ger--PRON-Acc (111)</li>
             <li>VERB-Ger--PRON-Nom (10)</li>
-            <li>VERB-Inf--NOUN (3188)</li>
+            <li>VERB-Inf--NOUN (3190)</li>
             <li>VERB-Inf--NOUN-ADP('s) (1)</li>
-            <li>VERB-Inf--PRON (333)</li>
-            <li>VERB-Inf--PRON-Acc (735)</li>
+            <li>VERB-Inf--PRON (336)</li>
+            <li>VERB-Inf--PRON-Acc (736)</li>
             <li>VERB-Inf--PRON-Nom (89)</li>
-            <li>VERB-Part--NOUN (769)</li>
+            <li>VERB-Part--NOUN (767)</li>
             <li>VERB-Part--PRON (110)</li>
             <li>VERB-Part--PRON-Acc (82)</li>
             <li>VERB-Part--PRON-Nom (6)</li>
@@ -6736,13 +6815,13 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (201)</li>
-            <li>VERB-Fin--PRON (19)</li>
+            <li>VERB-Fin--NOUN (199)</li>
+            <li>VERB-Fin--PRON (18)</li>
             <li>VERB-Fin--PRON-Acc (35)</li>
             <li>VERB-Ger--NOUN (82)</li>
             <li>VERB-Ger--PRON (4)</li>
             <li>VERB-Ger--PRON-Acc (6)</li>
-            <li>VERB-Inf--NOUN (164)</li>
+            <li>VERB-Inf--NOUN (166)</li>
             <li>VERB-Inf--PRON (12)</li>
             <li>VERB-Inf--PRON-Acc (45)</li>
             <li>VERB-Part--NOUN (37)</li>
@@ -6756,20 +6835,20 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (2713)</li>
+            <li>VERB-Fin--NOUN (2719)</li>
             <li>VERB-Fin--PRON (219)</li>
-            <li>VERB-Fin--PRON-Acc (520)</li>
+            <li>VERB-Fin--PRON-Acc (526)</li>
             <li>VERB-Fin--PRON-Gen (2)</li>
-            <li>VERB-Ger--NOUN (881)</li>
-            <li>VERB-Ger--PRON (27)</li>
-            <li>VERB-Ger--PRON-Acc (80)</li>
-            <li>VERB-Inf--NOUN (1877)</li>
-            <li>VERB-Inf--PRON (280)</li>
-            <li>VERB-Inf--PRON-Acc (384)</li>
+            <li>VERB-Ger--NOUN (882)</li>
+            <li>VERB-Ger--PRON (28)</li>
+            <li>VERB-Ger--PRON-Acc (82)</li>
+            <li>VERB-Inf--NOUN (1886)</li>
+            <li>VERB-Inf--PRON (281)</li>
+            <li>VERB-Inf--PRON-Acc (389)</li>
             <li>VERB-Inf--PRON-Gen (1)</li>
-            <li>VERB-Part--NOUN (465)</li>
-            <li>VERB-Part--PRON (74)</li>
-            <li>VERB-Part--PRON-Acc (72)</li>
+            <li>VERB-Part--NOUN (459)</li>
+            <li>VERB-Part--PRON (77)</li>
+            <li>VERB-Part--PRON-Acc (74)</li>
           </ul>
         </li>
       </ul>
@@ -6778,19 +6857,19 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (239)</li>
-            <li>VERB-Fin--PRON (35)</li>
+            <li>VERB-Fin--NOUN (234)</li>
+            <li>VERB-Fin--PRON (37)</li>
             <li>VERB-Fin--PRON-Acc (44)</li>
             <li>VERB-Ger--NOUN (55)</li>
             <li>VERB-Ger--PRON (7)</li>
-            <li>VERB-Ger--PRON-Acc (12)</li>
-            <li>VERB-Inf--NOUN (206)</li>
-            <li>VERB-Inf--PRON (43)</li>
+            <li>VERB-Ger--PRON-Acc (13)</li>
+            <li>VERB-Inf--NOUN (212)</li>
+            <li>VERB-Inf--PRON (44)</li>
             <li>VERB-Inf--PRON-Acc (56)</li>
             <li>VERB-Inf--PRON-Gen (1)</li>
             <li>VERB-Part--NOUN (53)</li>
-            <li>VERB-Part--PRON (10)</li>
-            <li>VERB-Part--PRON-Acc (9)</li>
+            <li>VERB-Part--PRON (12)</li>
+            <li>VERB-Part--PRON-Acc (11)</li>
           </ul>
         </li>
       </ul>
@@ -6803,8 +6882,8 @@ udver: '2'
             <li>VERB--PRON (8)</li>
             <li>VERB--PRON-ADP(into) (1)</li>
             <li>VERB--PRON-Acc (22)</li>
-            <li>VERB--PRON-Nom (3)</li>
-            <li>VERB-Fin--NOUN (1255)</li>
+            <li>VERB--PRON-Nom (1)</li>
+            <li>VERB-Fin--NOUN (1254)</li>
             <li>VERB-Fin--NOUN-ADP(for) (1)</li>
             <li>VERB-Fin--NOUN-ADP(in) (1)</li>
             <li>VERB-Fin--NOUN-ADP(on) (1)</li>
@@ -6816,20 +6895,20 @@ udver: '2'
             <li>VERB-Fin--PRON-ADP(to) (1)</li>
             <li>VERB-Fin--PRON-Acc (232)</li>
             <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
-            <li>VERB-Fin--PRON-Nom (14)</li>
+            <li>VERB-Fin--PRON-Nom (12)</li>
             <li>VERB-Inf--NOUN (862)</li>
             <li>VERB-Inf--NOUN-Nom (16)</li>
             <li>VERB-Inf--PRON (222)</li>
             <li>VERB-Inf--PRON-ADP(as) (1)</li>
             <li>VERB-Inf--PRON-Acc (142)</li>
-            <li>VERB-Inf--PRON-Nom (11)</li>
+            <li>VERB-Inf--PRON-Nom (10)</li>
             <li>VERB-Part--NOUN (669)</li>
             <li>VERB-Part--NOUN-ADP(through) (1)</li>
             <li>VERB-Part--NOUN-ADP(to) (1)</li>
             <li>VERB-Part--NOUN-Nom (13)</li>
             <li>VERB-Part--PRON (98)</li>
             <li>VERB-Part--PRON-Acc (91)</li>
-            <li>VERB-Part--PRON-Nom (7)</li>
+            <li>VERB-Part--PRON-Nom (4)</li>
           </ul>
         </li>
       </ul>
@@ -6839,7 +6918,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB-Fin--NOUN (297)</li>
-            <li>VERB-Fin--PRON (3)</li>
+            <li>VERB-Fin--PRON (5)</li>
             <li>VERB-Fin--PRON-Acc (29)</li>
             <li>VERB-Ger--NOUN (109)</li>
             <li>VERB-Ger--PRON (3)</li>
@@ -6848,7 +6927,7 @@ udver: '2'
             <li>VERB-Inf--PRON (7)</li>
             <li>VERB-Inf--PRON-Acc (14)</li>
             <li>VERB-Part--NOUN (72)</li>
-            <li>VERB-Part--PRON (2)</li>
+            <li>VERB-Part--PRON (3)</li>
             <li>VERB-Part--PRON-Acc (6)</li>
           </ul>
         </li>
@@ -6913,7 +6992,7 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (59)</li>
             <li>VERB-Fin--PRON (3)</li>
-            <li>VERB-Fin--PRON-Acc (282)</li>
+            <li>VERB-Fin--PRON-Acc (278)</li>
             <li>VERB-Fin--PRON-Nom (5)</li>
             <li>VERB-Ger--NOUN (15)</li>
             <li>VERB-Ger--PRON (1)</li>
@@ -6950,13 +7029,13 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN (33)</li>
-            <li>VERB-Fin--PRON-Acc (125)</li>
+            <li>VERB-Fin--PRON-Acc (124)</li>
             <li>VERB-Ger--NOUN (8)</li>
             <li>VERB-Ger--PRON (2)</li>
             <li>VERB-Ger--PRON-Acc (12)</li>
             <li>VERB-Inf--NOUN (41)</li>
             <li>VERB-Inf--PRON (1)</li>
-            <li>VERB-Inf--PRON-Acc (61)</li>
+            <li>VERB-Inf--PRON-Acc (62)</li>
             <li>VERB-Part--NOUN (6)</li>
             <li>VERB-Part--PRON (1)</li>
             <li>VERB-Part--PRON-Acc (10)</li>
@@ -7136,7 +7215,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 65 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find yourself, find himself, call themselves, force yourself, give yourself, proclaim himself, teach himself, ask yourself, assert himself, associate itself, attach itself, better myself, bind ourselves, bring myself, bring themselves, buy myself, call myself, coin myself, comfort yourself, declare himself, declare myself, devote himself, discover herself, distinguish himself, distinguish itself, establish herself, exalt itself, expose yourself, feel himself, find themselves, fling themselves, get themselves, give themselves, go yourself, good yourself, govern himself, haul themselves, infect themselves, introduce themselves, maintain himself, make herself, make themselves, make yourself, pick herself, pledge ourselves, prepare yourself, pride themselves, prove itself, prove themselves, punish himself</li>
+        <li>This corpus contains 66 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find yourself, find himself, call themselves, force yourself, give yourself, proclaim himself, teach himself, ask yourself, assert himself, associate itself, attach itself, better myself, bind ourselves, bring myself, bring themselves, buy myself, call myself, coin myself, comfort yourself, declare himself, declare myself, devote himself, discover herself, distinguish himself, distinguish itself, establish herself, exalt itself, expose yourself, feel himself, find myself, find themselves, fling themselves, get themselves, give themselves, go yourself, good yourself, govern himself, haul themselves, infect themselves, introduce themselves, maintain himself, make herself, make themselves, make yourself, pick herself, pledge ourselves, prepare yourself, pride themselves, prove itself, prove themselves</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -7191,7 +7270,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:foreign</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:outer</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:desc</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
       <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
       </ul>
     </td>

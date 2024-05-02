@@ -8,83 +8,78 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `discourse`.
+113 nodes (0%) are attached to their parents as `discourse`.
 
-8 instances of `discourse` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.58333333333333.
+77 instances of `discourse` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.49557522123894.
 
-The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (3; 25% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (3; 25% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 17% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt> (1; 8% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 discourse	color:blue
-1	Ино	ино	CCONJ	_	_	2	discourse	_	wf="Ино"
-2	прошю	просити	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="прошю"
-3	васъ	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	2	obj	_	wf="васъ"|SpaceAfter=No
-4	,	,	PUNCT	_	_	2	punct	_	_
-5	штобы	чтобы	SCONJ	_	Mood=Cnd	9	mark	_	wf="штобы"
-6	есте	быти	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	wf="есте"
-7	мене	я	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	obl	_	wf="мене"
-8	делѧ	дѣля	ADP	_	_	7	case	_	wf="делѧ"
-9	досъмотрели	досмотрѣти	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	2	advcl	_	wf="досъмотрели"
-10	правды	правда	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	9	iobj	_	wf="правды"|SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
+The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (87; 77% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (8; 7% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (8; 7% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 discourse	color:blue
-1	На	на	ADP	_	_	2	case	_	wf="На"
-2	то	то	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obl	_	wf="то"
-3	жь	же	PART	_	_	4	discourse	_	wf="жь"
-4	дали	дати	VERB	_	Number=Plur|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="дали"
-5	есмы	быти	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	wf="есмы"
-6	сю	сей	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	wf="сю"
-7	грамоту	грамота	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	wf="грамоту"
-8	и	и	CCONJ	_	_	11	cc	_	wf="и"
-9	под	подъ	ADP	_	_	11	case	_	wf="под"
-10	нашею	нашъ	DET	_	Case=Ins|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	wf="нашею"
-11	печатью	печать	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	nmod	_	wf="печатью"
-12	завеситою	завесиcтый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	wf="завеситою"|SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3 8 discourse	color:blue
+1	И	и	CCONJ	СС	_	3	cc	_	wf="И"
+2	Евлашко	Евлашко	PROPN	NPA	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	wf="Евлашко"
+3	молыть	молити	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="молыть"|SpaceAfter=No
+4	:	:	PUNCT	-COLON-	_	3	punct	_	_
+5	«	«	PUNCT	-QUOT-	_	3	punct	_	SpaceAfter=No
+6	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	wf="То"|SpaceAfter=No
+7	,	,	PUNCT	-COMMA-	_	8	punct	_	_
+8	деи	деи	PART	RP	_	3	discourse	_	wf="деи"|SpaceAfter=No
+9	,	,	PUNCT	-COMMA-	_	10	punct	_	_
+10	рубежи	рубежъ	NOUN	NNI	Case=Nom|Gender=Masc|Number=Plur	8	conj	_	wf="рубежи"
+11	неправыи	неправый	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	wf="неправыи"|SpaceAfter=No
+12	»	»	PUNCT	-QUOT-	_	8	punct	_	_
+13	.	.	PUNCT	-PERIOD-	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 discourse	color:blue
-1	Также	также	CCONJ	_	_	5	cc	_	wf="Также"
-2	оу	въ	ADP	_	_	3	case	_	wf="оу"
-3	Полоцку	Полоцкъ	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	5	obl	_	wf="Полоцку"
-4	соль	соль	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	wf="соль"
-5	вѣсити	вѣсити	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	wf="вѣсити"
-6	на	на	ADP	_	_	7	case	_	wf="на"
-7	скалвахъ	скалва	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	5	obl	_	wf="скалвахъ"
-8	тым	тотъ	DET	_	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	wf="тым"
-9	же	же	PART	_	_	8	discourse	_	wf="же"
-10	вѣсомъ	вѣсъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	5	obl	_	wf="вѣсомъ"|SpaceAfter=No
-11	,	,	PUNCT	_	_	14	punct	_	_
-12	што	что	SCONJ	_	_	14	mark	_	wf="што"
-13	воскъ	воскъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	wf="воскъ"
-14	вѣсѧть	вѣсити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	wf="вѣсѧть"|SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	_
-16	тыми	тотъ	DET	_	Case=Ins|Gender=Masc|Number=Plur|PronType=Dem	18	det	_	wf="тыми"
-17	же	же	PART	_	_	16	discourse	_	wf="же"
-18	колоколы	колоколъ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	14	obl	_	wf="колоколы"|SpaceAfter=No
-19	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 discourse	color:blue
+1	Во	въ	ADP	IN	_	2	case	_	wf="Во"
+2	имѧ	имя	NOUN	NNI	Case=Acc|Gender=Neut|Number=Sing	0	root	_	wf="имѧ"
+3	всесил(ь)ного	всесильный	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	wf="всесильного"
+4	Бога	богъ	NOUN	NNA	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	wf="Бога"|SpaceAfter=No
+5	,	,	PUNCT	-COMMA-	_	2	punct	_	_
+6	амин(ь)	аминь	INTJ	UH	_	2	discourse	_	wf="аминь"|SpaceAfter=No
+7	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 discourse	color:blue
+1	А	а	CCONJ	СС	_	4	cc	_	wf="А"
+2	граница	граница	NOUN	NNI	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	wf="граница"|SpaceAfter=No
+3	,	,	PUNCT	-COMMA-	_	2	punct	_	_
+4	деи	деи	PART	RP	_	2	discourse	_	wf="деи"|SpaceAfter=No
+5	,	,	PUNCT	-COMMA-	_	4	punct	_	_
+6	тым	той	DET	DT	Case=Dat|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	wf="тым"
+7	землѧм	земля	NOUN	NNI	Case=Dat|Gender=Fem|Number=Plur	2	nmod	_	wf="землѧм"
+8	по	по	ADP	IN	_	9	case	_	wf="по"
+9	реку	река	NOUN	NNI	Case=Acc|Gender=Fem|Number=Sing	0	root	_	wf="реку"
+10	по	по	ADP	IN	_	11	case	_	wf="по"
+11	Переслову	Переслова	PROPN	NPI	Case=Acc|Gender=Fem|NameType=Geo|Number=Sing	9	appos	_	wf="Переслову"|SpaceAfter=No
+12	,	,	PUNCT	-COMMA-	_	14	punct	_	_
+13	котораѧ	который	DET	WDT	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj	_	wf="котораѧ"
+14	бежить	бежати	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	9	acl:relcl	_	wf="бежить"
+15	по	по	ADP	IN	_	17	case	_	wf="по"
+16	Туринскои	туринский	ADJ	JJL	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	17	amod	_	wf="Туринскои"
+17	стороне	сторона	NOUN	NNI	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	wf="стороне"|SpaceAfter=No
+18	.	.	PUNCT	-PERIOD-	_	9	punct	_	_
 
 ~~~
 

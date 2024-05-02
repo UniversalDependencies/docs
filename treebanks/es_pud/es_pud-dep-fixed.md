@@ -48,7 +48,7 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	de	de	ADP	IN	_	4	case	_	_
 4	más	_	ADV	RBR	Degree=Cmp	2	xcomp	_	_
 5	de	de	ADP	IN	_	7	case	_	_
-6	330	_	NUM	CD	Gender=Fem|NumType=Card	7	nummod	_	_
+6	330	_	NUM	CD	Gender=Fem|NumForm=Digit|NumType=Card	7	nummod	_	_
 7	personas	_	NOUN	NN	Gender=Fem|Number=Plur	4	obl	_	_
 8	está	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	a	a	ADP	IN	_	13	case	_	_

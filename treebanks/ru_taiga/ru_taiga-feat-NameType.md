@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-Taiga: Features: `NameType`
 
 This feature is language-specific.
-It occurs with 9 different values: `Com`, `Geo`, `Giv`, `Oth`, `Patrn`, `Pro`, `Prs`, `Sur`, `Zoo`.
+It occurs with 9 different values: `Com`, `Geo`, `Giv`, `Oth`, `Pat`, `Pro`, `Prs`, `Sur`, `Zoo`.
 
 4444 tokens (2%) have a non-empty value of `NameType`.
 2618 types (7%) occur at least once with a non-empty value of `NameType`.
@@ -26,14 +26,14 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 * `Geo` (1390; 31% of non-empty `NameType`): <em>россии, сша, Россия, сочи, СССР, Москве, РФ, Убейд, москвы, М.</em>
 * `Giv` (851; 19% of non-empty `NameType`): <em>Ирина, Генрих, Катя, Петя, александр, Елена, Женя, Надя, андрей, А.</em>
 * `Oth` (60; 1% of non-empty `NameType`): <em>E, М, Стереолето, Хаджи-Мухаммед, инете, 0А, АА, АВ, Гелиодор, Н-209</em>
-* `Patrn` (140; 3% of non-empty `NameType`): <em>Александровна, Владимировна, А., Дмитриевич, Анатольевна, В., С., Владимирович, И., Леонидович</em>
+* `Pat` (140; 3% of non-empty `NameType`): <em>Александровна, Владимировна, А., Дмитриевич, Анатольевна, В., С., Владимирович, И., Леонидович</em>
 * `Pro` (102; 2% of non-empty `NameType`): <em>инсте, 1000д, 90пц10, PS4, А5, Запорожца, К, КАМАЗа, ПЦР, бат</em>
 * `Prs` (449; 10% of non-empty `NameType`): <em>@xxxxxx, Петрович, @Zhirinovskiy, Петровича, @screened-200, Петровичу, жирик, @screened-18, @screened-134, @screened-15</em>
 * `Sur` (831; 19% of non-empty `NameType`): <em>жириновский, жириновского, Путина, Леонов, Явлинский, путин, Петров, Тихонов, Александров, Бернардацци</em>
 * `Zoo` (7; 0% of non-empty `NameType`): <em>полкан, Волк, Волка, Граф, Лев</em>
 
 <table>
-  <tr><th>Paradigm <i>И.</i></th><th><tt>Giv</tt></th><th><tt>Patrn</tt></th><th><tt>Prs</tt></th></tr>
+  <tr><th>Paradigm <i>И.</i></th><th><tt>Giv</tt></th><th><tt>Pat</tt></th><th><tt>Prs</tt></th></tr>
   <tr><td><tt></tt></td><td><em>И.</em></td><td><em>И.</em></td><td><em>И.</em></td></tr>
 </table>
 

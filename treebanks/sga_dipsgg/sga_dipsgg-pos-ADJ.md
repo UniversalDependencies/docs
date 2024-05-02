@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `ADJ`
 
 There are 23 `ADJ` lemmas (10%), 26 `ADJ` types (9%) and 29 `ADJ` tokens (7%).
-Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
+Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>már, gann, mall, menn, nóib, aicher, aile, becc, caín, dorchae</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.130435 (the average of all parts of speech is 1.264574).
+The form / lemma ratio of `ADJ` is 1.130435 (the average of all parts of speech is 1.261062).
 
 The 1st highest number of forms (2) was observed with the lemma “mall”: <em>mall, mmall</em>.
 

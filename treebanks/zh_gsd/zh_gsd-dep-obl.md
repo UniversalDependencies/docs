@@ -43,7 +43,7 @@ The following 22 pairs of parts of speech are connected with `obl`: <tt><a href=
 18	和	和	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=hé|LTranslit=hé
 19	隨機	隨機	ADV	RB	_	20	advmod	_	SpaceAfter=No|Translit=suíjī|LTranslit=suíjī
 20	遇到	遇到	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No|Translit=yùdào|LTranslit=yùdào
-21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
+21	的	的	SCONJ	DEC	_	20	mark:rel	_	SpaceAfter=No|Translit=de|LTranslit=de
 22	敵人	敵人	NOUN	NN	_	23	obl	_	SpaceAfter=No|Translit=dírén|LTranslit=dírén
 23	作戰	作戰	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=zuòzhàn|LTranslit=zuòzhàn
 24	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No|Translit=.|LTranslit=.

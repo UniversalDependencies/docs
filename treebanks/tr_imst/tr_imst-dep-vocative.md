@@ -17,21 +17,23 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 vocative	color:blue
-1	Hayır	hayır	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	discourse	_	_
-2	oğlum	oğul	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	5	vocative	_	SpaceAfter=No
-3	,	,	PUNCT	Punc	_	2	punct	_	_
-4	şimdi	şimdi	ADV	Adverb	_	5	advmod	_	_
-5	olmaz	ol	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	9	ccomp	_	SpaceAfter=No
-6	,	,	PUNCT	Punc	_	5	punct	_	_
-7	ayıp	ayıp	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	obj	_	SpaceAfter=No
-8	,	,	PUNCT	Punc	_	9	punct	_	_
-9	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Punc	_	9	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 vocative	color:blue
+1	Muammer	Muammer	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	Punc	_	6	punct	_	_
+3	yarım	yarım	ADJ	Adj	_	4	amod	_	_
+4	şişe	şişe	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
+5	viski	viski	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+6	olacaktı	ol	VERB	Verb	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+7	dolapta	dolap	NOUN	Noun	Case=Loc|Number=Sing|Person=3	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	6	punct	_	_
+9	getir	getir	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	6	conj	_	_
+10	onu	o	PRON	Demons	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	obj	_	_
+11	oğlum	oğul	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	9	vocative	_	SpaceAfter=No
+12	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 
@@ -39,17 +41,21 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 vocative	color:blue
-1	Melek	Melek	PROPN	Prop	Case=Nom|Number=Sing|Person=3	5	vocative	_	_
-2	sana	sen	PRON	Pers	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
-3	bir	bir	DET	ANum	_	4	det	_	_
-4	döner	döner	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	5	obj	_	_
-5	ısmarlayayım	ısmarla	VERB	Verb	Aspect=Perf|Mood=Opt|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	_
-6	mı	mi	AUX	Ques	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux:q	_	SpaceAfter=No
-7	?	?	PUNCT	Punc	_	5	punct	_	SpaceAfter=No
-8	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 vocative	color:blue
+1	Muammer	Muammer	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	Punc	_	6	punct	_	_
+3	yarım	yarım	ADJ	Adj	_	4	amod	_	_
+4	şişe	şişe	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
+5	viski	viski	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+6	olacaktı	ol	VERB	Verb	Aspect=Prosp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+7	dolapta	dolap	NOUN	Noun	Case=Loc|Number=Sing|Person=3	6	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Punc	_	6	punct	_	_
+9	getir	getir	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	6	conj	_	_
+10	onu	o	PRON	Demons	Case=Acc|Number=Sing|Person=3|PronType=Dem	9	obj	_	_
+11	oğlum	oğul	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	9	vocative	_	SpaceAfter=No
+12	.	.	PUNCT	Punc	_	9	punct	_	_
 
 ~~~
 

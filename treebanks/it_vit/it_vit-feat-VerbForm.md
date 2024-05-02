@@ -120,7 +120,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (2; 18% of non-empty `VerbForm`): <em>dice, vedo</em>
 * `Ger` (1; 9% of non-empty `VerbForm`): <em>lenendo</em>
 * `Part` (8; 73% of non-empty `VerbForm`): <em>redigente, controllanti, cauzionante</em>
-* `EMPTY` (57735): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57736): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `ADJ`
 
@@ -162,7 +162,7 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 `PRON` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>adattate</em>
-* `EMPTY` (9803): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
+* `EMPTY` (9802): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
 
 ## Relations with Agreement in `VerbForm`
 

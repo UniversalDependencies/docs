@@ -6,58 +6,58 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `ADJ`
 
-There are 81 `ADJ` lemmas (4%), 230 `ADJ` types (4%) and 382 `ADJ` tokens (1%).
-Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 5 in number of types and 12 in number of tokens.
+There are 81 `ADJ` lemmas (4%), 289 `ADJ` types (3%) and 382 `ADJ` tokens (1%).
+Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 6 in number of types and 12 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>טוב, גדול, חי, רע, קטן, אחר, רב, זכר, צדיק, חתי</em>
 
-The 10 most frequent `ADJ` types:  <em>קטן, טוב, גדול, חתי, רע, צעיר, ארמי, מואבי, גָּדֹ֖ול, חַיָּ֖ה</em>
+The 10 most frequent `ADJ` types:  <em>טֹ֣וב, קָּטֹ֖ן, גָּדֹ֖ול, גָּדֹֽול, חַיָּ֖ה, כָבֵ֥ד, רָֽע, אַחֵ֔ר, זָכָ֥ר, חַ֔י</em>
 
 The 10 most frequent ambiguous lemmas: <em>טוב</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 33, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 7, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6), <em>גדול</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>חי</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3), <em>רע</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 14), <em>קטן</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>אחר</em> (<tt><a href="hbo_ptnk-pos-ADP.html">ADP</a></tt> 87, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 7, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 3), <em>רב</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 5), <em>זכר</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 10, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4), <em>כבד</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 3), <em>זקן</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 7, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6)
 
-The 10 most frequent ambiguous types:  <em>קטן</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>טוב</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>גדול</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>רע</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 11, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 8), <em>חַיָּ֖ה</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>טהר</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>מצרי</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4), <em>בריא</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>זקן</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>חַ֔י</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>חַיָּ֖ה</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>חַ֔י</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2), <em>חַיָּ֔ה</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>חָ֑י</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>רָעָ֖ה</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3), <em>חָֽי</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>כְּנַעֲנִ֖י</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>אֱמֹרִ֔י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1), <em>בְּרִיאֹ֥ות</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>גְּדֹלָה֙</em> (<tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* <em>קטן</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 17: <em>ו יקץ נֹ֖חַ מן יין הוא ו ידע אֵ֛ת אֲשֶׁר ־ עָ֥שָׂה ־ ל הוא בן הוא ה <b>קטן</b> ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>ו ל לבן שְׁתֵּ֣י בָנֹ֑ות שֵׁ֤ם ה גדול לֵאָ֔ה ו שׁם ה <b>קטן</b> רָחֵֽל ׃</em>
-* <em>טוב</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 13: <em>ו אמר אֲבִימֶ֔לֶךְ הִנֵּ֥ה ארץ אני ל פנה אתה ב ה <b>טוב</b> ב עין אתה שֵֽׁב ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו ל אב הוא שָׁלַ֤ח כ זאת עֲשָׂרָ֣ה חֲמֹרִ֔ים נֹשְׂאִ֖ים מן <b>טוב</b> מִצְרָ֑יִם ו עשׂר אֲתֹנֹ֡ת נֹֽ֠שְׂאֹת בָּ֣ר ו לחם ו מזון ל אב הוא ל ה דרך ׃</em>
-* <em>גדול</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 11: <em>ו חפשׂ ב ה <b>גדול</b> הֵחֵ֔ל ו ב ה קטן כִּלָּ֑ה ו מצא ה גביע ב אמתחת בִּנְיָמִֽן ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו ל לבן שְׁתֵּ֣י בָנֹ֑ות שֵׁ֤ם ה <b>גדול</b> לֵאָ֔ה ו שׁם ה קטן רָחֵֽל ׃</em>
-* <em>רע</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 11: <em>ו ישׁב ל פנה הוא ה בכר כ בכרה הוא ו ה צעיר כ צעירה הוא ו תמה ה אישׁ אִ֥ישׁ אֶל ־ <b>רע</b> הוא ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 8: <em>ו אכל ה פרה ה רק ו ה <b>רע</b> אֵ֣ת שֶׁ֧בַע ה פרה ה ראשׁון ה בריא ׃</em>
 * <em>חַיָּ֖ה</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4: <em>ה פלא מן יהוה דָּבָ֑ר ל ה מועד אָשׁ֥וּב אל אתה כ ה עת <b>חַיָּ֖ה</b> ו ל שׂרה בֵֽן ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>ו אך אֶת ־ דם אתם ל נפשׁ אתם אֶדְרֹ֔שׁ מן יד כָּל ־ <b>חַיָּ֖ה</b> דרשׁ הוא ו מן יד ה אדם מן יד אִ֣ישׁ אח הוא אֶדְרֹ֖שׁ אֶת ־ נֶ֥פֶשׁ ה אדם ׃</em>
-* <em>טהר</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4: <em>ו בנה נֹ֛חַ מִזְבֵּ֖חַ ל יהוה ו לקח מן כל ׀ ה בהמה ה <b>טהר</b> ו מן כל ה עוף ה <b>טהר</b> ו עלה עֹלֹ֖ת ב ה מזבח ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>ו אמר יַעֲקֹב֙ אֶל ־ בית הוא ו אל כָּל ־ אֲשֶׁ֣ר עם הוא הָסִ֜רוּ אֶת ־ אֱלֹהֵ֤י ה נכר אֲשֶׁ֣ר ב תוך אתם ו <b>טהר</b> ו חלף שׂמלה אתם ׃</em>
-* <em>מצרי</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 5: <em>ו היה כ בוא אַבְרָ֖ם מִצְרָ֑יְמָה ו ראה ה <b>מצרי</b> אֶת ־ ה אשׁה כִּֽי ־ יָפָ֥ה הִ֖וא מְאֹֽד ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4: <em>ו היה יְהוָה֙ אֶת ־ יֹוסֵ֔ף ו היה אִ֣ישׁ מַצְלִ֑יחַ ו היה ב בית אדון הוא ה <b>מצרי</b> ׃</em>
-* <em>בריא</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3: <em>ו אכל ה פרה ה רק ו ה רע אֵ֣ת שֶׁ֧בַע ה פרה ה ראשׁון ה <b>בריא</b> ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו הנה מִן ־ ה יאר עֹלֹת֙ שֶׁ֣בַע פָּרֹ֔ות יְפֹ֥ות מַרְאֶ֖ה ו <b>בריא</b> בָּשָׂ֑ר ו רעה ב ה אחו ׃</em>
-* <em>זקן</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3: <em>ו שׁאל ל הם ל שׁלום ו אמר ה שׁלום אב אתם ה <b>זקן</b> אֲשֶׁ֣ר אֲמַרְתֶּ֑ם ה עוד הוא חָֽי ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>ו לקח עֲשָׂרָ֧ה אֲנָשִׁ֛ים מן <b>זקן</b> ה עיר ו אמר שְׁבוּ ־ פֹ֑ה ו ישׁב ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 4: <em>הֲ יִפָּלֵ֥א מֵ יְהוָ֖ה דָּבָ֑ר לַ ה מֹּועֵ֞ד אָשׁ֥וּב אֵלֶ֛י ךָ כָּ ה עֵ֥ת <b>חַיָּ֖ה</b> וּ לְ שָׂרָ֥ה בֵֽן ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>וְ אַ֨ךְ אֶת ־ דִּמְ כֶ֤ם לְ נַפְשֹֽׁתֵי כֶם֙ אֶדְרֹ֔שׁ מִ יַּ֥ד כָּל ־ <b>חַיָּ֖ה</b> אֶדְרְשֶׁ֑ נּוּ וּ מִ יַּ֣ד הָֽ אָדָ֗ם מִ יַּד֙ אִ֣ישׁ אָחִ֔י ו אֶדְרֹ֖שׁ אֶת ־ נֶ֥פֶשׁ הָֽ אָדָֽם ׃</em>
 * <em>חַ֔י</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3: <em>כָּל ־ רֶ֨מֶשׂ֙ אֲשֶׁ֣ר הוּא ־ <b>חַ֔י</b> ל אתם יִהְיֶ֖ה ל אכלה כ ירק עֵ֔שֶׂב נָתַ֥תִּי ל אתם אֶת ־ כֹּֽל ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2: <em>ו ארפכשׁד <b>חַ֔י</b> חָמֵ֥שׁ ו שׁלשׁ שָׁנָ֑ה ו ילד אֶת ־ שָֽׁלַח ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3: <em>כָּל ־ רֶ֨מֶשׂ֙ אֲשֶׁ֣ר הוּא ־ <b>חַ֔י</b> לָ כֶ֥ם יִהְיֶ֖ה לְ אָכְלָ֑ה כְּ יֶ֣רֶק עֵ֔שֶׂב נָתַ֥תִּי לָ כֶ֖ם אֶת ־ כֹּֽל ׃</em>
+  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2: <em>וְ אַרְפַּכְשַׁ֣ד <b>חַ֔י</b> חָמֵ֥שׁ וּ שְׁלֹשִׁ֖ים שָׁנָ֑ה וַ יֹּ֖ולֶד אֶת ־ שָֽׁלַח ׃</em>
+* <em>חַיָּ֔ה</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3: <em>וַ יֹּ֗אמֶר שֹׁ֣וב אָשׁ֤וּב אֵלֶ֨י ךָ֙ כָּ ה עֵ֣ת <b>חַיָּ֔ה</b> וְ הִנֵּה ־ בֵ֖ן לְ שָׂרָ֣ה אִשְׁתֶּ֑ ךָ וְ שָׂרָ֥ה שֹׁמַ֛עַת פֶּ֥תַח הָ אֹ֖הֶל וְ ה֥וּא אַחֲרָֽי ו ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וַ יִּגְוַ֞ע כָּל ־ בָּשָׂ֣ר ׀ הָ רֹמֵ֣שׂ עַל ־ הָ אָ֗רֶץ בָּ ה עֹ֤וף וּ בַ ה בְּהֵמָה֙ וּ בַ֣ ה <b>חַיָּ֔ה</b> וּ בְ כָל ־ הַ שֶּׁ֖רֶץ הַ שֹּׁרֵ֣ץ עַל ־ הָ אָ֑רֶץ וְ כֹ֖ל הָ אָדָֽם ׃</em>
+* <em>חָ֑י</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3: <em>וַ יֹּ֨אמֶר֙ יִשְׂרָאֵ֔ל רַ֛ב עֹוד ־ יֹוסֵ֥ף בְּנִ֖ י <b>חָ֑י</b> אֵֽלְכָ֥ה וְ אֶרְאֶ֖ נּוּ בְּ טֶ֥רֶם אָמֽוּת ׃</em>
+  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>וְ אֵ֗לֶּה יְמֵ֛י שְׁנֵֽי ־ חַיֵּ֥י אַבְרָהָ֖ם אֲשֶׁר ־ <b>חָ֑י</b> מְאַ֥ת שָׁנָ֛ה וְ שִׁבְעִ֥ים שָׁנָ֖ה וְ חָמֵ֥שׁ שָׁנִֽים ׃</em>
+* <em>רָעָ֖ה</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 3: <em>וַ יַּכִּירָ֤ הּ וַ יֹּ֨אמֶר֙ כְּתֹ֣נֶת בְּנִ֔ י חַיָּ֥ה <b>רָעָ֖ה</b> אֲכָלָ֑תְ הוּ טָרֹ֥ף טֹרַ֖ף יֹוסֵֽף ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3: <em>וּ לְקַחְתֶּ֧ם גַּם ־ אֶת ־ זֶ֛ה מֵ עִ֥ם פָּנַ֖ י וְ קָרָ֣ הוּ אָסֹ֑ון וְ הֹֽורַדְתֶּ֧ם אֶת ־ שֵׂיבָתִ֛ י בְּ <b>רָעָ֖ה</b> שְׁאֹֽלָה ׃</em>
+* <em>חָֽי</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2: <em>וַ יֹּ֧אמֶר יִשְׂרָאֵ֛ל אֶל ־ יֹוסֵ֖ף אָמ֣וּתָה הַ פָּ֑עַם אַחֲרֵי֙ רְאֹותִ֣ י אֶת ־ פָּנֶ֔י ךָ כִּ֥י עֹודְ ךָ֖ <b>חָֽי</b> ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וַ יִּקְרָ֧א הָֽ אָדָ֛ם שֵׁ֥ם אִשְׁתֹּ֖ ו חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כָּל ־ <b>חָֽי</b> ׃</em>
+* <em>כְּנַעֲנִ֖י</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2: <em>וַ יַּרְא ־ שָׁ֧ם יְהוּדָ֛ה בַּת ־ אִ֥ישׁ <b>כְּנַעֲנִ֖י</b> וּ שְׁמֹ֣ ו שׁ֑וּעַ וַ יִּקָּחֶ֖ הָ וַ יָּבֹ֥א אֵלֶֽי הָ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וַ יַּעֲבֹ֤ר אַבְרָם֙ בָּ ה אָ֔רֶץ עַ֚ד מְקֹ֣ום שְׁכֶ֔ם עַ֖ד אֵלֹ֣ון מֹורֶ֑ה וְ הַֽ <b>כְּנַעֲנִ֖י</b> אָ֥ז בָּ ה אָֽרֶץ ׃</em>
+* <em>אֱמֹרִ֔י</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>וַ אֲנִ֞י נָתַ֧תִּֽי לְ ךָ֛ שְׁכֶ֥ם אַחַ֖ד עַל ־ אַחֶ֑י ךָ אֲשֶׁ֤ר לָקַ֨חְתִּי֙ מִ יַּ֣ד הָֽ <b>אֱמֹרִ֔י</b> בְּ חַרְבִּ֖ י וּ בְ קַשְׁתִּֽ י ׃ פ</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1: <em>וַ֠ יָּשֻׁבוּ וַ יָּבֹ֜אוּ אֶל ־ עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ וַ יַּכּ֕וּ אֶֽת ־ כָּל ־ שְׂדֵ֖ה הָ עֲמָלֵקִ֑י וְ גַם֙ אֶת ־ הָ֣ <b>אֱמֹרִ֔י</b> הַ יֹּשֵׁ֖ב בְּ חַֽצְצֹ֥ן תָּמָֽר ׃</em>
+* <em>בְּרִיאֹ֥ות</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1: <em>וַ יִּישָׁ֕ן וַֽ יַּחֲלֹ֖ם שֵׁנִ֑ית וְ הִנֵּ֣ה ׀ שֶׁ֣בַע שִׁבֳּלִ֗ים עֹלֹ֛ות בְּ קָנֶ֥ה אֶחָ֖ד <b>בְּרִיאֹ֥ות</b> וְ טֹבֹֽות ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וְ הִנֵּ֣ה מִן ־ הַ יְאֹ֗ר עֹלֹת֙ שֶׁ֣בַע פָּרֹ֔ות <b>בְּרִיאֹ֥ות</b> בָּשָׂ֖ר וִ יפֹ֣ת תֹּ֑אַר וַ תִּרְעֶ֖ינָה בָּ ה אָֽחוּ ׃</em>
+* <em>גְּדֹלָה֙</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1: <em>אֵינֶ֨ נּוּ גָדֹ֜ול בַּ ה בַּ֣יִת הַ זֶּה֮ מִמֶּ נִּי֒ וְ לֹֽא ־ חָשַׂ֤ךְ מִמֶּ֨ נִּי֙ מְא֔וּמָה כִּ֥י אִם ־ אֹותָ֖ ךְ בַּ אֲשֶׁ֣ר אַתְּ ־ אִשְׁתֹּ֑ ו וְ אֵ֨יךְ אֶֽעֱשֶׂ֜ה הָ רָעָ֤ה הַ <b>גְּדֹלָה֙</b> הַ זֹּ֔את וְ חָטָ֖אתִי לֵֽ אלֹהִֽים ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וּ לְ לָבָ֖ן שְׁתֵּ֣י בָנֹ֑ות שֵׁ֤ם הַ <b>גְּדֹלָה֙</b> לֵאָ֔ה וְ שֵׁ֥ם הַ קְּטַנָּ֖ה רָחֵֽל ׃</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.839506 (the average of all parts of speech is 3.177604).
+The form / lemma ratio of `ADJ` is 3.567901 (the average of all parts of speech is 5.381405).
 
-The 1st highest number of forms (17) was observed with the lemma “טוב”: <em>טֹ֑וב, טֹ֔וב, טֹ֖וב, טֹ֚וב, טֹ֛וב, טֹ֣וב, טֹ֣ובָה, טֹ֥וב, טֹֽוב, טֹבִ֑ים, טֹבֹ֖ת, טֹוב֒, טֹוב֙, טֹוב֩, טֹובָ֖ה, טֹובָֽה, טוב</em>.
+The 1st highest number of forms (23) was observed with the lemma “טוב”: <em>טֹ֑וב, טֹ֔וב, טֹ֖וב, טֹ֚וב, טֹ֛וב, טֹ֣וב, טֹ֣ובָה, טֹ֥וב, טֹּ֖וב, טֹּ֣וב, טֹּ֥וב, טֹּבֹ֑ות, טֹּבֹ֔ת, טֹּבֹ֗ת, טֹֽוב, טֹבִ֑ים, טֹבֹ֖ת, טֹבֹֽות, טֹוב֒, טֹוב֙, טֹוב֩, טֹובָ֖ה, טֹובָֽה</em>.
 
-The 2nd highest number of forms (15) was observed with the lemma “גדול”: <em>גְּדֹלִ֖ים, גְּדֹלָ֖ה, גְּדֹלָ֣ה, גְּדֹלָ֥ה, גְּדֹלָֽה, גְדֹלָ֑ה, גְדֹלָ֖ה, גָּדֹ֑ול, גָּדֹ֔ול, גָּדֹ֖ול, גָּדֹ֥ול, גָּדֹֽול, גָדֹ֔ול, גָדֹ֜ול, גדול</em>.
+The 2nd highest number of forms (21) was observed with the lemma “גדול”: <em>גְּדֹלִ֑ים, גְּדֹלִ֖ים, גְּדֹלָ֖ה, גְּדֹלָ֣ה, גְּדֹלָ֥ה, גְּדֹלָֽה, גְּדֹלָה֙, גְדֹלָ֑ה, גְדֹלָ֖ה, גָּדֹ֑ול, גָּדֹ֑ל, גָּדֹ֔ול, גָּדֹ֖ול, גָּדֹ֖ל, גָּדֹ֗ל, גָּדֹ֣ול, גָּדֹ֥ול, גָּדֹֽול, גָּדֹל֙, גָדֹ֔ול, גָדֹ֜ול</em>.
 
-The 3rd highest number of forms (14) was observed with the lemma “חי”: <em>חֵ֣י, חֵ֤י, חַ֔י, חַי, חַי֙, חַיִּֽים, חַיָּ֑ה, חַיָּ֔ה, חַיָּ֖ה, חַיָּֽה, חַיָּה֙, חָ֑י, חָֽי, חי</em>.
+The 3rd highest number of forms (15) was observed with the lemma “חי”: <em>חֵ֣י, חֵ֤י, חַ֔י, חַי, חַי֙, חַיִּ֖ים, חַיִּֽים, חַיָּ֑ה, חַיָּ֔ה, חַיָּ֖ה, חַיָּ֣ה, חַיָּֽה, חַיָּה֙, חָ֑י, חָֽי</em>.
 
 `ADJ` occurs with 2 features: <tt><a href="hbo_ptnk-feat-Gender.html">Gender</a></tt> (382; 100% instances), <tt><a href="hbo_ptnk-feat-Number.html">Number</a></tt> (382; 100% instances)
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (14) was observed with the lemma “חי”: <em
 
 `ADJ` occurs with 4 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (225 tokens).
-Examples: <em>קטן, חתי, גדול, טוב, ארמי, רע, גָּדֹ֖ול, טֹ֣וב, כָבֵ֥ד, אַחֵ֔ר</em>
+Examples: <em>טֹ֣וב, קָּטֹ֖ן, גָּדֹ֖ול, גָּדֹֽול, כָבֵ֥ד, רָֽע, אַחֵ֔ר, זָכָ֥ר, חַ֔י, חָ֑י</em>
 
 
 ## Relations

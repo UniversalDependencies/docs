@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `vocative`.
+59 nodes (0%) are attached to their parents as `vocative`.
 
-12 instances of `vocative` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.61111111111111.
+35 instances of `vocative` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.38983050847458.
 
-The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (10; 56% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 11% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (2; 11% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (45; 76% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (6; 10% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,67 +22,64 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 vocative	color:blue
-1	А	а	CCONJ	CC	_	9	cc	_	_
-2	естли	естли	SCONJ	IN	_	4	mark	_	_
-3	не	не	PART	NEG	Polarity=Neg	4	advmod	_	_
-4	справедъливе	справедливе	ADV	VBC	Degree=Pos	9	advcl	_	_
-5	-	-	PUNCT	PUNCT	_	4	punct	_	_
-6	боже	богъ	NOUN	VBC	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	6	punct	_	_
-8	ме	я	PRON	PRP	Case=Acc|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	obj	_	_
-9	убий	убити	VERB	VBC	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-10	"	"	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
-11	.	.	PUNCT	PUNCT	_	9	punct	_	SpacesAfter=\r\n
+1	А	а	CCONJ	CC	_	9	cc	_	wf="А"
+2	естли	естли	SCONJ	IN	_	4	mark	_	wf="естли"
+3	не	не	PART	NEG	Polarity=Neg	4	advmod	_	wf="не"
+4	справедъливе	справедливе	ADV	VBC	Degree=Pos	9	advcl	_	wf="справедъливе"
+5	-	-	PUNCT	-DASH-	_	4	punct	_	_
+6	боже	богъ	NOUN	NNA	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	wf="боже"|SpaceAfter=No
+7	,	,	PUNCT	-COMMA-	_	6	punct	_	_
+8	ме	я	PRON	PRP	Case=Acc|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	obj	_	wf="ме"
+9	убий	убити	VERB	VBC	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="убий"|SpaceAfter=No
+10	"	"	PUNCT	-QUOT-	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	-PERIOD-	_	9	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 vocative	color:blue
-1	Також	также	ADV	_	Degree=Pos	2	advmod	_	wf="Також"
-2	хочем	хотѣти	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="хочем"
-3	с	съ	ADP	_	_	4	case	_	wf="с"
-4	вам(и)	вы	PRON	_	Case=Ins|Number=Plur|Person=2|PronType=Prs	2	obl	_	wf="вами"|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	ризькии	рижский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	wf="ризькии"
-7	ратьмѧне	ратманъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	vocative	_	wf="ратьмѧне"|SpaceAfter=No
-8	,	,	PUNCT	_	_	13	punct	_	_
-9	и	и	CCONJ	_	_	13	cc	_	wf="и"
-10	со	съ	ADP	_	_	13	case	_	wf="со"
-11	всем(и)	весь	DET	_	Case=Ins|Gender=Masc|Number=Plur|PronType=Tot	13	det	_	wf="всеми"
-12	ризькии	рижский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	wf="ризькии"
-13	купьци	купецъ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	4	conj	_	wf="купьци"|SpaceAfter=No
-14	,	,	PUNCT	_	_	18	punct	_	_
-15	межи	межу	ADP	_	_	16	case	_	wf="межи"
-16	себе	себя	PRON	_	Case=Gen|PronType=Prs|Reflex=Yes	18	obl	_	wf="себе"
-17	приѧзньство	приязньство	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	wf="приѧзньство"
-18	держат(и)	держати	VERB	_	VerbForm=Inf|Voice=Act	2	conj	_	wf="держати"
-19	и	и	CCONJ	_	_	18	cc	_	wf="и"
-20	любовь	любовь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	conj	_	wf="любовь"
-21	на	на	ADP	_	_	23	case	_	wf="на"
-22	обѣ	оба	NUM	_	Case=Acc|Gender=Fem|NumForm=Word|NumType=Sets	23	nummod	_	wf="обѣ"
-23	сторон(е)	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Dual	20	nmod	_	wf="стороне"
-24	крѣпко	крѣпко	ADV	_	Degree=Pos	23	advmod	_	wf="крѣпко"|SpaceAfter=No
-25	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 vocative	color:blue
-1	С[е]	се	PART	_	_	2	vocative	_	wf="Се"
-2	азъ	азъ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	wf="азъ"|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	Андрѣи	Андрѣй	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	2	appos	_	wf="Андрѣи"
-5	Данильѥвичь	Данильевичь	PROPN	_	Case=Nom|Gender=Masc|NameType=Pat|Number=Sing	4	flat:name	_	wf="Данильѥвичь"
+# visual-style 1 3 vocative	color:blue
+1	Ѡ	о	PRON	WP	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	0	root	_	wf="Ѡ"
+2	Ѡдамовъ	одамовъ	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	vocative	_	wf="Ѡдамовъ"
+3	сꙋд	судъ	NOUN	NNI	Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	wf="сꙋд"
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 3 vocative	color:blue
+1	Такоже	также	CCONJ	СС	_	10	cc	_	wf="Такоже"|SpaceAfter=No
+2	,	,	PUNCT	-COMMA-	_	3	punct	_	_
+3	дѣти	детя	NOUN	NNA	Case=Nom|Gender=Neut|Number=Plur	10	vocative	_	wf="дѣти"|SpaceAfter=No
+4	,	,	PUNCT	-COMMA-	_	3	punct	_	_
+5	была	быти	AUX	VBC	Gender=Fem|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	10	cop	_	wf="была"
+6	любовь	любовъ	NOUN	NNI	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	wf="любовь"
+7	ваша	вашъ	DET	PRP$	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	wf="ваша"
+8	перваѧ	первый	ADJ	ORD	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	6	amod	_	wf="перваѧ"
+9	с	съ	ADP	IN	_	10	case	_	wf="с"
+10	полочаны	полочанинъ	NOUN	NNA	Case=Ins|Gender=Masc|Number=Plur	0	root	_	wf="полочаны"|SpaceAfter=No
+11	,	,	PUNCT	-COMMA-	_	13	punct	_	_
+12	съ	съ	ADP	IN	_	13	case	_	wf="съ"
+13	дѣтми	детя	NOUN	NNA	Case=Ins|Gender=Neut|Number=Plur	10	appos	_	wf="дѣтми"
+14	моими	мой	DET	PRP$	Case=Ins|Gender=Neut|Number=Plur|Poss=Yes|PronType=Prs	13	det	_	wf="моими"|SpaceAfter=No
+15	:	:	PUNCT	-COLON-	_	23	punct	_	_
+16	што	што	PRON	WP	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	19	nsubj	_	wf="што"
+17	вамъ	вы	PRON	PRP	Case=Dat|Number=Plur|Person=2|PronType=Prs	19	iobj	_	wf="вамъ"
+18	было	быти	AUX	VBC	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	19	cop	_	wf="было"
+19	надобѣ	надобе	VERB	PRED	_	21	acl:relcl	_	wf="надобѣ"|SpaceAfter=No
+20	,	,	PUNCT	-COMMA-	_	19	punct	_	_
+21	то	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	23	nsubj	_	wf="то"
+22	было	быти	AUX	VBC	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	23	cop	_	wf="было"
+23	ваше	вашъ	DET	PRP$	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	10	parataxis	_	wf="ваше"|SpaceAfter=No
+24	.	.	PUNCT	-PERIOD-	_	10	punct	_	_
 
 ~~~
 
