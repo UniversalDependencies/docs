@@ -10,26 +10,23 @@ Locational clauses are one of the types of nonprototypical clauses. Some of
 the strategies they use are similar to [object](object_predication.html) and
 [property predication](property_predication.html).
 
+In locative predication, an entity (typically, but not necessarily, denoted
+by a definite nominal) is predicated to be at a particular location
+(typically denoted by a cased nominal or an adverb). Example: _The food is in
+the fridge._ (Presumably the _food_ has already been introduced to the
+discourse and now its location is specified.)
 
-
-
-Prototypical predication is predication of action concepts, where the
-predicate is a verb. Here we consider one type of nonprototypical
-predication, namely predication of an object (entity) concept. One entity
-(typically, but not necessarily, denoted by a definite nominal) is predicated
-to belong to a category of entities (typically denoted by an indefinite
-noun). Example: _Ivan is a dancer._
-
-This construction is similar but not necessarily identical to equational
-clauses where two definite nominals are said to refer to the same entity.
-Example: _Ivan is the winner of this dancing competition._
+The strategies used by locative predication may also overlap with
+presentational location, which is a separate construction (and in some
+languages it will use strategies that differ significantly from predication).
+Example: _There is food in the fridge._ (Both the food and its location are
+new concepts in the discourse.)
 
 The exact UD analysis of the construction depends on the strategy used by the
-language to express it. What the analyses have in common is that the category
-being predicated (e.g., _dancer_) is the root of the clause, while the entity
-said to belong to that category is attached to it as the subject. Equational
-constructions are analyzed analogously but see below on how to decide which
-nominal is the subject.
+language to express it. In some cases, the phrase denoting the location will
+be treated as the main predicate and the entity that is at that location will
+be attached as the subject. In other cases though, the phrase denoting the
+location will be just a modifier of another predicate.
 
 ## Zero Strategy
 
