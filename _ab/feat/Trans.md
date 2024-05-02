@@ -11,13 +11,14 @@ The feature marks transitivity of the verb.
 
 #### Examples
 
-* [ab] _с-цо-ит_ [Subj.1Sg-go-Prrs.Fin] ‘I am going’ `Tense=Pres|VerbForm=Fin|Trans=No`
+* [ab] _с-цо-ит_ [Subj.1Sg-go-Prs.Fin] ‘I am going’ `Dyn=Yes|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Trans=No|VerbForm=Fin`
 
 ### <a name="No">`No`</a>: No
 
 #### Examples
 
-* [ab] _и-ҟа-с-ҵо-ит_ [DO.3-Pv-Subj.1Sg-make-Pres.Fin] ‘I am making it’ `Tense=Pres|VerbForm=Fin|Trans=Yes`
+* [ab] _и-ҟа-с-ҵо-ит_ [DO.3-Pv-Subj.1Sg-make-Pres.Fin] ‘I am making it’ `Dyn=Yes|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres|Trans=Yes|VerbForm=Fin`
+
 
 
 

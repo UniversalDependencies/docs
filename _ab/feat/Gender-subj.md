@@ -23,11 +23,11 @@ The feature marks the gender of the Subject in the verb.
 
 #### Examples
 
-* [ab] _<b>д</b>-а-ла-ло-ит_ [<b>Subj.3Sg.Hum</b>-LO.3Sg.NonHum-go.into-Pres.Fin] ‘<b>he/she</b> goes into it’ `Dyn=Yes|Gender[lo]=Neut|Gender[subj]=Com|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`
+* [ab] _<b>д</b>-а-ла-ло-ит_ [<b>Subj.3SgH</b>-LO.3SgNH-go.into-Pres.Fin] ‘<b>he/she</b> goes into it’ `Dyn=Yes|Gender[lo]=Neut|Gender[subj]=Com|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`
 
 ### <a name="Neut">`Neut`</a>: Neuter = Non-human
 
 #### Examples
 
-* [ab] _и-ҟа-<b>на</b>ҵе-ит_ [DO.3Sg-PFX-<b>Subj.3Sg.NonHum</b>-make-Pres.Fin] ‘it is making it’ `Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
+* [ab] _и-ҟа-<b>на</b>ҵе-ит_ [DO.3Sg-PFX-<b>Subj.3SgNH</b>-make-Pres.Fin] ‘it is making it’ `Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
 

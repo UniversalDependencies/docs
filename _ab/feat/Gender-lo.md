@@ -11,16 +11,16 @@ This feature marks gender agreement of the verb with a local object.
 
 #### Examples
 
-* [ab] _и-у-гәа-ҧхо-ит_ [] ‘<b>you (Masc)</b> like it’ `Gender[lo]=Masc|Number[abs]=Plur|Number[lo]=Sing|Person[abs]=1|Person[lo]=3|Tense=Fut2|VerbForm=Fin`
+* [ab] _и-у-гәа-ҧхо.ит_ [Subj.3-LO.2SgM-Pv-like.Pres] ‘<b>you (Masc)</b> like it’ `Dyn=Yes|Gender[lo]=Masc|Number[lo]=Sing|Person[lo]=2|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`
 
 ### <a name="Fem">`Fem`</a>: Feminine
 
 #### Examples
 
-* [ab] _ибгәаҧхоит_ [] ‘<b>you (Fem)</b> like it’ `Dyn=Yes|Gender[io]=Fem|Gender[subj]=Fem|Number[io]=Sing|Number[subj]=Sing|Person[io]=2|Person[obj]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
+* [ab] _и-б-гәа-ҧхо.ит_ [Subj.3-LO.2SgF-Pv-like.Pres] ‘<b>you (Fem)</b> like it’ `Dyn=Yes|Gender[lo]=Fem|Number[lo]=Sing|Person[lo]=2|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`
 
 ### <a name="Neut">`Neut`</a>: Neuter = Non-human
 
 #### Examples
 
-* [ab] _д-а-ла-ло-ит_ [] ‘he went <b>into it</b>’ `Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`
+* [ab] _д-а-ла-ло.ит_ [Subj.3SgH-LO.3SgNH-Pv-enter.Pres] ‘he is going <b>into it</b>’ `Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`

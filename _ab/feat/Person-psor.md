@@ -11,23 +11,23 @@ This feature marks person agreement of the verb with the indirect object or of p
 
 #### Examples
 
-* [ab] __ [] ‘’ ``
+* [ab] _ҳа-ҩны_ [Poss.1Pl-house] ‘our house’ `Animacy=Nhum|Number=Sing|Number[psor]=Plur|Person[psor]=1`
 
 ### <a name="2">`2`</a>: Second Person
 
 #### Examples
 
-* [ab] __ [] ‘’ ``
+* [ab] _бы-ҩны_ [Poss.2SgF-house] ‘your house’ `Animacy=Nhum|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2`
 
 ### <a name="3">`3`</a>: Third Person
 
 #### Examples
 
-* [ab] __ [] ‘’ ``
+* [ab] _и-ла_ [Poss.3SgM-dog] ‘his dog’ `Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3`
 
 ### <a name="Rel">`Rel`</a>: Relative Person marker
 
 #### Examples
 
-* [ab] __ [] ‘’ ``
+* [ab] _зы-ӡҕаб-цәа_ [Poss.Rel-girl-Pl] ‘whose girls’ `Animacy=Hum|Number=Plur|Person[psor]=Rel`
 
