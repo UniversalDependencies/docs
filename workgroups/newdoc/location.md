@@ -256,39 +256,38 @@ punct(is.located, .-15)
 
 ## Verbal Strategy
 
-Finally, some languages will treat the object predicate as a verb rather than
-a noun, and apply verbal inflection to it. As a consequence, the predicate
-will be analyzed in UD as a [VERB]() and the construction will be
+Finally, some languages will treat the locative predicate as a verb rather
+than a noun, and apply verbal inflection to it. As a consequence, the
+predicate will be analyzed in UD as a [VERB]() and the construction will be
 unrecognizable from normal predication of action concepts. (Note that the
 MISC column can optionally carry information about the verb being derived
 from a noun, but this is neither required nor regulated by the UD
 guidelines.)
 
-Classical Nahuatl [nci] “I am a doctor” (Croft 2022:294; compare to
-_Ni-chōca_ “I am crying”):
+Kalispel [fla] “I am here” (Vogt 1940:69; Stassen 1997:143; Croft 2022:305):
 
 ~~~ sdparse
-Ni-tīcitl/VERB ./PUNCT \n 1SG-doctor .
-punct(Ni-tīcitl, .-2)
-punct(1SG-doctor, .-5)
+Čin-es-əlʹéi/VERB ./PUNCT \n 1SG-CONT-here .
+punct(Čin-es-əlʹéi, .-2)
+punct(1SG-CONT-here, .-5)
 ~~~
 
 Language-specific word segmentation may play a role in distinguishing the
 verbal strategy from verbal copulas. In Turkish [tr], the surface
 representation looks either like the zero strategy (in present tense) or like
-the verbal strategy (when past-tense suffix _-DI_ is attached to the nominal
+the verbal strategy (when past-tense suffix _-DI_ is attached to the locative
 predicate). But as of UD v2, the suffix is analyzed as a form of encliticized
 copula _i_ and is treated as a separate syntactic word. Consequently, the
 sentence is analyzed as using the verbal copula strategy.
 
 ~~~ sdparse
-Necla/PROPN öğretmen/NOUN =di/AUX ./PUNCT \n Necla teacher was .
-nsubj(öğretmen, Necla-1)
-nsubj(teacher, Necla-6)
-cop(öğretmen, =di)
-cop(teacher, was)
-punct(öğretmen, .-4)
-punct(teacher, .-9)
+Murat/PROPN banyoda/NOUN =ydı/AUX ./PUNCT \n Murat bathroom-in was .
+nsubj(banyoda, Murat-1)
+nsubj(bathroom, Murat-6)
+cop(banyoda, =ydı)
+cop(bathroom-in, was)
+punct(banyoda, .-4)
+punct(bathroom-in, .-9)
 ~~~
 
 
