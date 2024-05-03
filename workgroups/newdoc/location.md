@@ -216,7 +216,8 @@ For example the Czech [cs] lemmas _být, bývat, bývávat_ are all variants of
 “to be”, the longer forms being iterative or habitual alternatives. The
 morphological proces from the shorter to the longer forms is considered
 derivation, therefore each has its own lemma but all three are treated as
-copulas.
+copulas. All three are also used in property predication and object
+predication.
 
 ~~~ sdparse
 V/ADP pondělí/NOUN bývám/AUX v/ADP kanceláři/NOUN ./PUNCT \n On Monday I.(usually).am in office .
@@ -252,10 +253,6 @@ amod(Bohemia, southern)
 punct(nachází, .-7)
 punct(is.located, .-15)
 ~~~
-
-TODO: Multiple adverbial modifiers? Which one is the predicate?
-
-TODO: More comparison to presentational constructions.
 
 ## Verbal Strategy
 
@@ -297,12 +294,7 @@ punct(teacher, .-9)
 
 # TO DO:
 
-Each of the following should have its own page in the documentation.
 
-* Location + existence.
-* Possession + existence.
-* Other types of noncanonical predication.
-  * The property can be a numeral.
-  * The property can be a case-marked nominal ("for him", "in shape").
-  * "Location" can be on time axis ("the concert was on Monday" vs. "the concert was in Paris on Monday" vs. "he was tired on Monday")
-  * Object-like predication with a clause instead of the object nominal (_the problem is that he is missing_).
+TODO: Multiple adverbial modifiers? Which one is the predicate?
+
+TODO: More comparison to presentational constructions.
