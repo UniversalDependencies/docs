@@ -283,7 +283,7 @@ sentence is analyzed as using the verbal copula strategy.
 ~~~ sdparse
 Murat/PROPN banyoda/NOUN =ydı/AUX ./PUNCT \n Murat bathroom-in was .
 nsubj(banyoda, Murat-1)
-nsubj(bathroom, Murat-6)
+nsubj(bathroom-in, Murat-6)
 cop(banyoda, =ydı)
 cop(bathroom-in, was)
 punct(banyoda, .-4)
