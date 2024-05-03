@@ -146,7 +146,7 @@ predicate. We analyze the posture verb as the head of the clause in all
 contexts.
 
 ~~~ sdparse
-Het boek ligt op de tafel . \n The book lies on the table .
+Het/DET boek/NOUN ligt/VERB op/ADP de/DET tafel/NOUN ./PUNCT \n The book lies on the table .
 det(boek, Het)
 det(book, The)
 nsubj(ligt, boek)
@@ -181,9 +181,29 @@ punct(jo, .-5)
 punct(house, .-11)
 ~~~
 
-cs: nacházet se vs. být, bývat, bývávat
+The circumstances to consider when deciding whether a verb is a copula
+include:
 
-Nevertheless, there are situations where a language should exceptionally be
+* Does the language employ the zero strategy in one tense and is this the
+default verb that will be used to signal other tenses? If yes, then it could
+be the copula.
+
+* Is this the semantically most neutral verb available for location
+predication in the language, such that does not add meaning to the
+predication? If yes, then it could be the copula. (Posture verbs deserve
+special attention. Even if the verb can be used purely locatively, are there
+also other uses where the posture plays a role – e.g. “the book lies on the
+table” vs. “the man lies on the floor”? If so, then it may be better not to
+treat the verb as copula.)
+
+* Is this verb also used as copula in other nonprototypical predications,
+such as object predication or property predication? If yes, then the verb may
+have grammaticalized as copula even if it is historically a posture verb. If
+no, then maybe the language does not use a copula strategy for locations? A
+possible solution in such cases is to always treat locative expressions as
+modifiers of a main verb.
+
+Finally, there are situations where a language should exceptionally be
 allowed more than one verbal copula. Typically there is some kind of
 deficient paradigm where one stem has only past tense forms and the other
 only present tense; or one has affirmative and the other negative forms; or
@@ -192,19 +212,46 @@ on the language-specific lemmatization rules, the forms may or may not be
 grouped under one lemma. If each of them has its own lemma, both/all such
 lemmas can be registered as copulas.
 
-The boundaries here are somewhat blurry and must be specified at the
-language-specific level (while maximizing parallelism at least between
-closely related languages). For example, one could claim that the difference
-between English _to be_ and _to become_ is aspectual and they qualify to be
-two deficient parts of one verbal paradigm; but as English verbs do not
-normally have such an opposition in their paradigms, it would be misguided to
-pretend that _to become_ is just an aspect-marked form of the copula _to be_.
-On the other hand, the same could be said about the opposition between _ser_
-and _estar_ in Spanish (and their cognates in other Romance languages): the
-former is used for permanent, the latter for temporary state. Nevertheless,
-the UD guidelines explicitly say that both these verbs are allowed as
-copulas, as both of them mean just “to be” and it would not be practical to
-arbitrarily pick one of them as THE copula.
+For example the Czech [cs] lemmas _být, bývat, bývávat_ are all variants of
+“to be”, the longer forms being iterative or habitual alternatives. The
+morphological proces from the shorter to the longer forms is considered
+derivation, therefore each has its own lemma but all three are treated as
+copulas.
+
+~~~ sdparse
+V/ADP pondělí/NOUN bývám/AUX v/ADP kanceláři/NOUN ./PUNCT \n On Monday I.(usually).am in office .
+case(pondělí, V)
+case(Monday, On)
+obl(kanceláři, pondělí)
+obl(office, Monday)
+cop(kanceláři, bývám)
+cop(office, I.(usually).am)
+case(kanceláři, v)
+case(office, in)
+punct(kanceláři, .-6)
+punct(office, .-13)
+~~~
+
+On the other hand, Czech also has the verb _nacházet se_ “to be found”, which
+is still fairly neutral with respect to locative predication. But it is not
+the canonical “be”-copula (it is derived from _nacházet_ “to find”) and it is
+treated as normal verb:
+
+~~~ sdparse
+Třeboň se nachází v jižních Čechách . \n Třeboň REFL is.located in southern Bohemia .
+nsubj(nachází, Třeboň-1)
+nsubj(is.located, Třeboň-9)
+expl:pv(nachází, se)
+expl:pv(is.located, REFL)
+obl(nachází, Čechách)
+obl(is.located, Bohemia)
+case(Čechách, v)
+case(Bohemia, in)
+amod(Čechách, jižních)
+amod(Bohemia, southern)
+punct(nachází, .-7)
+punct(is.located, .-15)
+~~~
 
 TODO: Multiple adverbial modifiers? Which one is the predicate?
 
