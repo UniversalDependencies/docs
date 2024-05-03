@@ -73,9 +73,9 @@ punct(Iran, .-20)
 
 ## Verbal Copula Strategy
 
-Many languages use a verb to link the subject with the predicated location
-and to add verbal features (e.g., [Tense]()) where needed. In UD we treat
-such copulas as auxiliaries ([AUX]()) and attach them to the locative
+Many languages use a verbal copula to link the subject with the predicated
+location and to add verbal features (e.g., [Tense]()) where needed. In UD we
+treat such copulas as auxiliaries ([AUX]()) and attach them to the locative
 predicate as [cop]().
 
 Russian [ru] uses the zero strategy (or a nonverbal copula) in the present
