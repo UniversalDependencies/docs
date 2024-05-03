@@ -161,9 +161,27 @@ punct(ligt, .-7)
 punct(lies, .-15)
 ~~~
 
-cs: nacházet se vs. být, bývat, bývávat
+On the other hand, it is possible that one of the posture verbs
+grammaticalizes as the neutral copula. This is the case of Amele [aey]
+(Roberts 1987:186,65; Stassen 1997:149), where the verb whose original
+meaning is “to sit” became a copula that is used not only with locative
+predicates but also for [property predication](property_predication.html).
+Example: _Uqa jo na bilia._ “He is in the house.” (Compare with _Uqa me
+bilia._ “He is well.”)
 
-a nějaký ten příklad, kde se sloveso "sedět" stalo sponou i pro adjektiva
+~~~ sdparse
+Uqa/PRON jo/NOUN na/ADP bilia/AUX ./PUNCT \n He house in sits .
+nsubj(jo, Uqa)
+nsubj(house, He)
+case(jo, na)
+case(house, in)
+cop(jo, bilia)
+cop(house, sits)
+punct(jo, .-5)
+punct(house, .-11)
+~~~
+
+cs: nacházet se vs. být, bývat, bývávat
 
 Nevertheless, there are situations where a language should exceptionally be
 allowed more than one verbal copula. Typically there is some kind of
