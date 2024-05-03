@@ -239,7 +239,7 @@ the canonical “be”-copula (it is derived from _nacházet_ “to find”) and
 treated as normal verb:
 
 ~~~ sdparse
-Třeboň se nachází v jižních Čechách . \n Třeboň REFL is.located in southern Bohemia .
+Třeboň/PROPN se/PRON nachází/VERB v/ADP jižních/ADJ Čechách/PROPN ./PUNCT \n Třeboň REFL is.located in southern Bohemia .
 nsubj(nachází, Třeboň-1)
 nsubj(is.located, Třeboň-9)
 expl:pv(nachází, se)
