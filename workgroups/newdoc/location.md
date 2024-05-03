@@ -49,7 +49,27 @@ punct(Moskve, .-9)
 punct(Moscow, .-14)
 ~~~
 
-ADD THE ARABIC EXAMPLE FROM PDT (DELEGATION IN IRAN)?
+Arabic [ar]: Here the construction is rather presentational because the
+subject nominal is indefinite.
+
+~~~ sdparse
+وَفدٌ/NOUN مِن/ADP اَلوَكَالَةِ/NOUN فِي/ADP إِيرَانَ/PROPN ./PUNCT \n wafdun min al-wakālati fī ʾīrāna . \n A.delegation from the-agency in Iran .
+nmod(وَفدٌ, اَلوَكَالَةِ)
+nmod(wafdun, al-wakālati)
+nmod(A.delegation, the-agency)
+case(اَلوَكَالَةِ, مِن)
+case(al-wakālati, min)
+case(the-agency, from)
+nsubj(إِيرَانَ, وَفدٌ)
+nsubj(ʾīrāna, wafdun)
+nsubj(Iran, A.delegation)
+case(إِيرَانَ, فِي)
+case(ʾīrāna, fī)
+case(Iran, in)
+punct(إِيرَانَ, .-6)
+punct(ʾīrāna, .-13)
+punct(Iran, .-20)
+~~~
 
 ## Verbal Copula Strategy
 
