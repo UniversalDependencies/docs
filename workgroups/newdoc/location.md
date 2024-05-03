@@ -78,8 +78,8 @@ location and to add verbal features (e.g., [Tense]()) where needed. In UD we
 treat such copulas as auxiliaries ([AUX]()) and attach them to the locative
 predicate as [cop]().
 
-Russian [ru] uses the zero strategy (or a nonverbal copula) in the present
-indicative, but it uses a verbal copula in other tenses and moods:
+Russian [ru] uses the zero strategy in the present indicative, but it uses a
+verbal copula in other tenses and moods:
 
 ~~~ sdparse
 Иван/PROPN был/AUX в/ADP Москве/PROPN ./PUNCT \n Ivan byl v Moskve . \n Ivan was in Moscow .
