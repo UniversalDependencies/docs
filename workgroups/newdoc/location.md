@@ -73,66 +73,52 @@ punct(Iran, .-20)
 
 ## Verbal Copula Strategy
 
-In many languages the copula has verb-like inflection and behavior (it may be
-even used as a main verb in other contexts). In UD we treat such copulas as
-auxiliaries whose function is to provide verbal features (e.g., [Tense]()) to
-the nominal predicate. They are tagged [AUX]() and attached to the nominal
+Many languages use a verb to link the subject with the predicated location
+and to add verbal features (e.g., [Tense]()) where needed. In UD we treat
+such copulas as auxiliaries ([AUX]()) and attach them to the locative
 predicate as [cop]().
+
+Russian [ru] uses the zero strategy (or a nonverbal copula) in the present
+indicative, but it uses a verbal copula in other tenses and moods:
+
+~~~ sdparse
+Иван/PROPN был/AUX в/ADP Москве/PROPN ./PUNCT \n Ivan byl v Moskve . \n Ivan was in Moscow .
+nsubj(Москве, Иван)
+nsubj(Moskve, Ivan-7)
+nsubj(Moscow, Ivan-13)
+cop(Москве, был)
+cop(Moskve, byl)
+cop(Moscow, was)
+case(Москве, в)
+case(Moskve, v)
+case(Moscow, in)
+punct(Москве, .-5)
+punct(Moskve, .-11)
+punct(Moscow, .-17)
+~~~
 
 English [en]
 
 ~~~ sdparse
-Ivan/PROPN is/AUX a/DET dancer/NOUN ./PUNCT
-nsubj(dancer, Ivan)
-cop(dancer, is)
-det(dancer, a)
-punct(dancer, .)
+Ivan/PROPN is/AUX in/ADP Moscow/PROPN ./PUNCT
+nsubj(Moscow, Ivan)
+cop(Moscow, is)
+case(Moscow, in)
+punct(Moscow, .)
 ~~~
 
-Russian [ru] uses the zero strategy (or a nonverbal copula) in the present
-indicative, but it uses a verbal copula in other tenses and moods. It also
-marks the nominal predicate with the instrumental case, while the subject
-stays in the nominative and the copula agrees with it in [Number]() and
-[Gender]().
+This way the zero strategy and the verbal copula strategy receive parallel
+annotations both within a language (e.g., Russian) and between languages
+(Russian vs. English). However, the copula analysis is quite different from
+constructions with non-copular verbs. Here, the location is attached to the
+verb as [obl]() or [advmod]():
 
 ~~~ sdparse
-Иван/PROPN был/AUX танцором/NOUN ./PUNCT \n Ivan byl tancorom . \n Ivan was dancer .
-nsubj(танцором, Иван)
-nsubj(tancorom, Ivan-6)
-nsubj(dancer, Ivan-11)
-cop(танцором, был)
-cop(tancorom, byl)
-cop(dancer, was)
-punct(танцором, .-4)
-punct(tancorom, .-9)
-punct(dancer, .-14)
-~~~
-
-Chinese [zh] uses a copula for object predication but not for [property
-predication](property_predication.html) (Li and Thompson 1981:148,143; Croft
-2022:300). Note that it is not clear that the copula is verbal, as there is
-no verb-specific inflection in Chinese. The UD analysis is the same for
-verbal and nonpronominal nonverbal copulas—the only way to search for verbal
-copulas is to look for morphological features such as [VerbForm](), [Mood](),
-[Tense]() or [Aspect]().
-
-~~~ sdparse
-她/PRON 是/AUX 一/NUM 名/NOUN 護士/NOUN 。/PUNCT \n Tā shì yī míng hùshì . \n She be one CLF nurse .
-nsubj(護士, 她)
-nsubj(hùshì, Tā)
-nsubj(nurse, She)
-cop(護士, 是)
-cop(hùshì, shì)
-cop(nurse, be)
-nummod(護士, 一)
-nummod(hùshì, yī)
-nummod(nurse, one)
-clf(一, 名)
-clf(yī, míng)
-clf(one, CLF)
-punct(護士, 。)
-punct(hùshì, .-13)
-punct(nurse, .-20)
+Ivan/PROPN dances/VERB in/ADP Moscow/PROPN ./PUNCT
+nsubj(dances, Ivan)
+obl(dances, Moscow)
+case(Moscow, in)
+punct(dances, .)
 ~~~
 
 ### Multiple Copular Verbs?
@@ -222,6 +208,10 @@ former is used for permanent, the latter for temporary state. Nevertheless,
 the UD guidelines explicitly say that both these verbs are allowed as
 copulas, as both of them mean just “to be” and it would not be practical to
 arbitrarily pick one of them as THE copula.
+
+TODO: Multiple adverbial modifiers? Which one is the predicate?
+
+TODO: More comparison to presentational constructions.
 
 ## Verbal Strategy
 
