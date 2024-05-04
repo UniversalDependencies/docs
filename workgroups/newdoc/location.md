@@ -386,6 +386,33 @@ det(fridge, the)
 punct(are, .)
 ~~~
 
+Welsh [cy] does not even change the word order to distinguish presentation
+from predication. The only signal that the first example is predicational is
+the definite article of the subject (Feuillet 1998:691; Creissels 2019:51;
+Croft 2022:318):
+
+~~~ sdparse
+Mae/AUX 'r/DET car/NOUN yma/ADV ./PUNCT \n Is the car here .
+cop(yma, Mae)
+cop(here, Is)
+det(car-3, 'r)
+det(car-9, the)
+nsubj(yma, car-3)
+nsubj(here, car-9)
+punct(yma, .-5)
+punct(here, .-11)
+~~~
+
+~~~ sdparse
+Mae/AUX car/NOUN yma/ADV ./PUNCT \n Is car here .
+cop(yma, Mae)
+cop(here, Is)
+nsubj(yma, car-2)
+nsubj(here, car-7)
+punct(yma, .-4)
+punct(here, .-9)
+~~~
+
 
 ## Multiple Adverbial Predicates/Modifiers?
 
