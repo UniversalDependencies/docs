@@ -371,6 +371,20 @@ punct(nejsou, .-4)
 punct(are.not, .-9)
 ~~~
 
+In contrast, English has different analyses for predicational and
+presentational location on the ground that the latter has specific syntax
+(despite still using the verb _to be_).
+
+~~~ sdparse
+There/PRON are/VERB tangerines/NOUN in/ADP the/DET fridge/NOUN ./PUNCT
+expl(are, There)
+nsubj(are, tangerines)
+obl(are, fridge)
+case(fridge, in)
+det(fridge, the)
+punct(are, .)
+~~~
+
 
 # TO DO:
 
