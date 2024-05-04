@@ -290,6 +290,29 @@ punct(banyoda, .-4)
 punct(bathroom-in, .-9)
 ~~~
 
+## Presentational or Existential Constructions
+
+In some languages, predication of location is very similar to presentational
+constructions where a new entity is introduced to the discourse together with
+its location. The presentational constructions, in turn, overlap with
+existential ones (where the mere existence of an entity is asserted). The
+entity being introduced may be accompanied by its location, by some other bit
+of information, or by nothing at all.
+
+Czech [cs] can distinguish predicational and presentational location by word
+order in otherwise identical clauses. Word order is a standard means for
+pragmatic distinctions of known vs. new information in Czech (while from the
+syntactic perspective the word order is quite free).
+
+_Mandarinky jsou v ledničce._ “The tangerines are in the fridge.”
+
+_V ledničce jsou mandarinky._ “There are tangerines in the fridge.”
+
+_Jsou mandarinky, které nemají jadérka._ “There are tangerines that do not
+have seeds.”
+
+_Mandarinky už nejsou._  “There are no more tangerines.”
+
 
 # TO DO:
 
