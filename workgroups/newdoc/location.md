@@ -304,19 +304,74 @@ order in otherwise identical clauses. Word order is a standard means for
 pragmatic distinctions of known vs. new information in Czech (while from the
 syntactic perspective the word order is quite free).
 
-_Mandarinky jsou v ledničce._ “The tangerines are in the fridge.”
+* _Mandarinky jsou v ledničce._ “The tangerines are in the fridge.”
 
-_V ledničce jsou mandarinky._ “There are tangerines in the fridge.”
+* _V ledničce jsou mandarinky._ “There are tangerines in the fridge.”
 
-_Jsou mandarinky, které nemají jadérka._ “There are tangerines that do not
+* _Jsou mandarinky, které nemají jadérka._ “There are tangerines that do not
 have seeds.”
 
-_Mandarinky už nejsou._  “There are no more tangerines.”
+* _Mandarinky už nejsou._  “There are no more tangerines.”
+
+Since the same verb is used in all these examples and there are no
+significant syntactic differences, we do not distinguish them by different
+tags. The verb _být_ “be” is always tagged [AUX](). However, in the third and
+fourth example it must be promoted to the head position because there is no
+location that could serve as the main predicate (it is the same analysis that
+would be used if a locational predicate was elided: “Are they in the fridge?
+Yes, they are.”)
+
+~~~ sdparse
+Mandarinky/NOUN jsou/AUX v/ADP ledničce/NOUN ./PUNCT \n Tangerines are in fridge .
+nsubj(ledničce, Mandarinky)
+nsubj(fridge, Tangerines)
+cop(ledničce, jsou)
+cop(fridge, are)
+case(ledničce, v)
+case(fridge, in)
+punct(ledničce, .-5)
+punct(fridge, .-11)
+~~~
+
+~~~ sdparse
+V/ADP ledničce/NOUN jsou/AUX mandarinky/NOUN ./PUNCT \n In fridge are tangerines .
+nsubj(ledničce, mandarinky)
+nsubj(fridge, tangerines)
+cop(ledničce, jsou)
+cop(fridge, are)
+case(ledničce, V)
+case(fridge, In)
+punct(ledničce, .-5)
+punct(fridge, .-11)
+~~~
+
+~~~ sdparse
+Jsou/AUX mandarinky/NOUN ,/PUNCT které/DET nemají/VERB jadérka/NOUN ./PUNCT \n Are tangerines , that do.not.have seeds .
+nsubj(Jsou, mandarinky)
+nsubj(Are, tangerines)
+acl:relcl(mandarinky, nemají)
+acl:relcl(tangerines, do.not.have)
+punct(nemají, ,-3)
+punct(do.not.have, ,-11)
+nsubj(nemají, které)
+nsubj(do.not.have, that)
+obj(nemají, jadérka)
+obj(do.not.have, seeds)
+punct(Jsou, .-7)
+punct(Are, .-15)
+~~~
+
+~~~ sdparse
+Mandarinky/NOUN už/ADV nejsou/AUX ./PUNCT \n Tangerines already are.not .
+nsubj(nejsou, Mandarinky)
+nsubj(are.not, Tangerines)
+advmod(nejsou, už)
+advmod(are.not, already)
+punct(nejsou, .-4)
+punct(are.not, .-9)
+~~~
 
 
 # TO DO:
 
-
 TODO: Multiple adverbial modifiers? Which one is the predicate?
-
-TODO: More comparison to presentational constructions.
