@@ -373,7 +373,8 @@ punct(are.not, .-9)
 
 In contrast, English has different analyses for predicational and
 presentational location on the ground that the latter has specific syntax
-(despite still using the verb _to be_).
+(despite still using the verb _to be_ — which is tagged [VERB]() in
+presentational constructions).
 
 ~~~ sdparse
 There/PRON are/VERB tangerines/NOUN in/ADP the/DET fridge/NOUN ./PUNCT
@@ -386,6 +387,51 @@ punct(are, .)
 ~~~
 
 
-# TO DO:
+## Multiple Adverbial Predicates/Modifiers?
 
-TODO: Multiple adverbial modifiers? Which one is the predicate?
+Besides location, temporal and other circumstances may be predicated in a
+similar fashion. Compare English [en]:
+
+~~~ sdparse
+The/DET event/NOUN is/AUX here/ADV ./PUNCT
+det(event, The)
+nsubj(here, event)
+cop(here, is)
+punct(here, .)
+~~~
+
+~~~ sdparse
+The/DET event/NOUN is/AUX today/ADV ./PUNCT
+det(event, The)
+nsubj(today, event)
+cop(today, is)
+punct(today, .)
+~~~
+
+If multiple circumstances are predicated at the same time, one of them has to
+be selected as the main predicate and the others will be analyzed as its
+adverbial / oblique modifiers. Typically, location gets precedence over time:
+
+~~~ sdparse
+The/DET concert/NOUN will/AUX be/AUX here/ADV on/ADP Sunday/PROPN ./PUNCT
+det(concert, The)
+nsubj(here, concert)
+aux(here, will)
+cop(here, be)
+obl(here, Sunday)
+case(Sunday, on)
+punct(here, .)
+~~~
+
+Another possible strategy is that the two predications are coordinated. The
+UD analysis will then follow the guidelines for coordination:
+
+~~~ sdparse
+The/DET event/NOUN is/AUX here/ADV and/CCONJ now/ADV ./PUNCT
+det(event, The)
+nsubj(here, event)
+cop(here, is)
+conj(here, now)
+cc(now, and)
+punct(here, .)
+~~~
