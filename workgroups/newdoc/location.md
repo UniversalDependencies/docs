@@ -311,7 +311,7 @@ syntactic perspective the word order is quite free).
 * _Jsou mandarinky, které nemají jadérka._ “There are tangerines that do not
 have seeds.”
 
-* _Mandarinky už nejsou._  “There are no more tangerines.”
+* _Mandarinky už nejsou._ “There are no more tangerines.”
 
 Since the same verb is used in all these examples and there are no
 significant syntactic differences, we do not distinguish them by different
@@ -387,9 +387,9 @@ punct(are, .)
 ~~~
 
 Welsh [cy] does not even change the word order to distinguish presentation
-from predication. The only signal that the first example is predicational is
-the definite article of the subject (Feuillet 1998:691; Creissels 2019:51;
-Croft 2022:318):
+from predication. The only signal that the first of the following two
+examples is predicational is the definite article of the subject (Feuillet
+1998:691; Creissels 2019:51; Croft 2022:318):
 
 ~~~ sdparse
 Mae/AUX 'r/DET car/NOUN yma/ADV ./PUNCT \n Is the car here .
@@ -411,6 +411,35 @@ nsubj(yma, car-2)
 nsubj(here, car-7)
 punct(yma, .-4)
 punct(here, .-9)
+~~~
+
+In other languages, presentational constructions use strategies that have
+nothing in common with copular predication (they use a verb or other
+predicator that cannot function as a copula in the language). Consequently,
+their UD analysis is different, too. German [de] and Spanish [es] are such
+languages. We show just two examples here; for more details, see
+[presentational clauses](presentational_clauses.html).
+
+German [de]: _Es gibt Unterschiede._ “There are differences.”
+
+~~~ sdparse
+Es/PRON gibt/VERB Unterschiede/NOUN ./PUNCT \n It gives differences .
+expl(gibt, Es)
+expl(gives, It)
+obj(gibt, Unterschiede)
+obj(gives, differences)
+punct(gibt, .-4)
+punct(gives, .-9)
+~~~
+
+Spanish [es]: _Hay diferencias._ “There are differences.”
+
+~~~ sdparse
+Hay/VERB diferencias/NOUN ./PUNCT \n Has differences .
+obj(Hay, diferencias)
+obj(Has, differences)
+punct(Hay, .-3)
+punct(Has, .-7)
 ~~~
 
 
