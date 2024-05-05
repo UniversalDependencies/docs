@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 1 5 amod	color:blue
 1	Dako	dako	ADJ	_	Degree=Pos	0	root	_	Gloss=big
 2	ang	ang	ADP	_	Case=Nom	5	case	_	_
-3	iya	iya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his
+3	iya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=his
 4	-ng	nga	PART	_	_	3	mark	_	Gloss=LINK
 5	balay	balay	NOUN	_	_	1	amod	_	Gloss=house|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.

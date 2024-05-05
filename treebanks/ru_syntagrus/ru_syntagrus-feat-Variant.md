@@ -59,5 +59,6 @@ The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-flat.html">flat</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-csubj-pass.html">csubj:pass</a></tt>]--> ADJ</tt> (1; 100%).
 

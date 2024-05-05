@@ -13,7 +13,7 @@ This relation is universal.
 76 instances of `iobj` (58%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.43846153846154.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (77; 59% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (29; 22% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (20; 15% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (78; 60% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (39; 30% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (10; 8% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 9 iobj	color:blue
 1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	BNG	bng	PROPN	Zgms	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	solicitou	solicitar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -88,7 +88,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 18	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	expl	_	_
 19	flores	flor	NOUN	Scfp	Gender=Fem|Number=Plur	17	obj	_	_
 20	a	a	ADP	P	AdpType=Prep	21	case	_	_
-21	Buda	Buda	PROPN	Spm0	Gender=Masc	17	iobj	_	SpaceAfter=No
+21	Buda	buda	PROPN	Sp00	_	17	iobj	_	SpaceAfter=No
 22	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~

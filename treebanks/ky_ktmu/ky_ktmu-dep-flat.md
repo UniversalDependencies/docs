@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (0%) are attached to their parents as `flat`.
+42 nodes (1%) are attached to their parents as `flat`.
 
-22 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+42 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04761904761905.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (21; 95% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (39; 93% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -33,21 +33,42 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat	color:blue
-1	Кулубаев	Кулубаев	PROPN	PROP	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-2	Түрк	Түрк	PROPN	PROP	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
-3	мамлекетинин	мамлекет	NOUN	NN	Case=Acc,Gen|Number=Sing|Person=3	4	nmod	_	_
-4	негиздөөчүсү	негизде	VERB	VB	Polarity=Pos|Tense=Pres|VerbForm=Vnoun	5	nmod	_	_
-5	Мустафа	Мустафа	PROPN	PROP	Case=Nom|Number=Sing	8	nmod	_	_
-6	Кемал	Кемал	PROPN	PROP	Case=Nom|Number=Sing|Person=3	5	flat	_	_
-7	Ататүрктүн	Ататүрк	NOUN	NN	Case=Gen|Number=Sing|Person=3	6	flat	_	_
-8	күмбөзүнө	күмбөз	NOUN	NN	Case=Acc,Gen|Number=Sing|Person=3	9	obl	_	_
-9	барды	бар	VERB	VB	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	PCT	_	9	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat	color:blue
+1	Азамат	Азамат	PROPN	PROP	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
+2	Жаманкулов	жаманкулов	NOUN	PROP	Case=Nom|Number=Sing|Person=3	1	flat	_	_
+3	Венгриянын	Венгрия	PROPN	PROP	Case=Gen|Number=Sing|Person=3	4	nmod	_	_
+4	парламентинде	парламент	ADJ	YADJ	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nmod	_	_
+5	өткөн	өт	VERB	VB	VerbForm=Part	6	acl	_	_
+6	Курултайда	Курултай	NOUN	NN	Case=Loc|Number=Sing|Person=3	8	obl	_	_
+7	сөз	сөз	NOUN	NN	Case=Nom|Number=Sing|Person=3	8	obj	_	_
+8	сүйлөдү	сүйлө	VERB	VB	Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	PCT	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 flat	color:blue
+1	'	'	PUNCT	PCT	_	2	punct	_	SpaceAfter=No
+2	Жаз-Деми	Жаз-Деми	PROPN	PROP	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
+3	–	–	PUNCT	PCT	_	2	punct	_	_
+4	2022	2022	NUM	NUM	NumType=Card	2	flat	_	SpaceAfter=No
+5	'	'	PUNCT	PCT	_	4	punct	_	_
+6	жарышында	жарыш	NOUN	NN	Case=Loc|Number=Sing|Person=3	11	obl	_	_
+7	балдарга	балдар	NOUN	NN	Case=Dat|Number=Plur|Person=3	11	obl	_	_
+8	угуучу	угуучу	ADJ	ADJ	_	9	amod	_	_
+9	аппарат	аппарат	NOUN	NN	Case=Nom|Number=Sing|Person=3	11	nsubj	_	_
+10	алып	ал	VERB	VB	Polarity=Pos|Tense=Pres|VerbForm=Conv	11	advcl	_	_
+11	беребиз	бер	VERB	VB	Aspect=Prog|Mood=Ind|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	PCT	_	11	punct	_	_
 
 ~~~
 

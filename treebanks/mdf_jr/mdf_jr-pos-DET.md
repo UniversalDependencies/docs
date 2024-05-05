@@ -7,15 +7,15 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `DET`
 
 There are 17 `DET` lemmas (1%), 19 `DET` types (1%) and 37 `DET` tokens (1%).
-Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 9 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>лама, эрь, ня, сембе, кафцьке, тя, мзяра, ся, иля, кодама-бди</em>
 
 The 10 most frequent `DET` types:  <em>эрь, лама, ня, сембе, Тя, кафцьке, ся, Мъзяра, Сяка, иля</em>
 
-The 10 most frequent ambiguous lemmas: <em>лама</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 2), <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>ня</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сембе</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 8, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 20, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 9, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2), <em>иля</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>лия</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>лама</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 2), <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>ня</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сембе</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 9, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 21, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 11, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2), <em>иля</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>лия</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>сембе</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>Тя</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 3), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 5, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>ламос</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>тяфтама</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>сембе</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>Тя</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 3), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 7, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>ламос</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>тяфтама</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>эсь</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>сембе</em>
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>сембе</em> (<tt><a href="mdf_jr-
   * <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2: <em>Фкя урокта меле учительскяи сувасть <b>кафцьке</b> стирнятне .</em>
   * <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1: <em>Сон повфтазе лафтубрязонза сумканц , и <b>кафцьке</b> лиссть кудста .</em>
 * <em>ся</em>
-  * <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 5: <em>Козя <b>ся</b> колхозсь и сёроса , и ярмакса .</em>
+  * <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 7: <em>Козя <b>ся</b> колхозсь и сёроса , и ярмакса .</em>
   * <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1: <em>Сондеенза эрявсть тиемс шяяренза , аньцек <b>ся</b> шиня сонь ашель мялец .</em>
 * <em>кой-кона</em>
   * <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1: <em>Аньцек <b>кой-кона</b> куттнень ваксса няевсть ават .</em>
@@ -40,10 +40,13 @@ The 10 most frequent ambiguous types:  <em>сембе</em> (<tt><a href="mdf_jr-
 * <em>тяфтама</em>
   * <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 3: <em>Вов вдь мянь коза пачфти <b>тяфтама</b> ётафтысь .</em>
   * <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1: <em>Пачкодсть <b>тяфтама</b> оцю вирь кучкас , што шись аф токай козовок алу .</em>
+* <em>эсь</em>
+  * <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 1: <em>Мярьгсть , бабай , архт <b>эсь</b> кигат и архт ...</em>
+  * <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1: <em>Мзярда кулезе <b>эсь</b> фамилиянц , Тумкин тись аськолкс инголи .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.117647 (the average of all parts of speech is 1.540936).
+The form / lemma ratio of `DET` is 1.117647 (the average of all parts of speech is 1.550071).
 
 The 1st highest number of forms (2) was observed with the lemma “лама”: <em>лама, ламос</em>.
 

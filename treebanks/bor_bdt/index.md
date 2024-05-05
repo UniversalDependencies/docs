@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi, Carolina Aragon.
 
 Repository: [UD_Bororo-BDT](https://github.com/UniversalDependencies/UD_Bororo-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbor_bdt213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbor_bdt214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,11 +42,11 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD_Bororo-BDT is a collection of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). All known sources in this language are being annotated: grammar examples, myths, and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io) and Carolina C. Aragon.
+UD_Bororo-BDT is a compilation of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). The corpus encompasses sentences derived from diverse sources: grammar examples, mythological narratives, fieldwork material, and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io).
 
 
 
-UD_Bororo-BDT is a collection of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). All known sources in this language are being annotated: grammar examples, myths, and other sources. The project is work-in-progress and the treebank is being updated on a regular basis.
+UD_Bororo-BDT stands as a comprehensive compilation of annotated sentences in [Bororo](https://glottolog.org/resource/languoid/id/boro1282). The corpus encompasses sentences derived from diverse sources, including grammar examples, mythological narratives, fieldwork material (elicited and spontaneous discourse), and other sources. Sentence annotation and documentation by [Fabrício Ferraz Gerardi](https://languagestructure.github.io). The project is work-in-progress and the treebank is being updated on a regular basis.
 
 ## Acknowledgments
 
@@ -67,7 +67,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 
 * Ferraz Gerardi, Fabrício (in preparation) _A grammar of Bororo_. (FGGB)
 
-* Ferraz Gerardi, Fabrício (2022-2023) Fieldwork material
+* Ferraz Gerardi, Fabrício (2022-2023) Fieldwork data (FWFFG)
 
 * Ure Towujewu, Antônio K. and Enaureu Apo, Mário B. (2020) Boe enogiegidae barege eie. Campo Grande: Missão Salesiana do Mato Grosso. (BEBE)
 
@@ -81,21 +81,21 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 
 ## Features
 
-[Aspect](bor_bdt-feat-Aspect.html) – [Class](bor_bdt-feat-Class.html) – [Clusivity](bor_bdt-feat-Clusivity.html) – [Definite](bor_bdt-feat-Definite.html) – [Degree](bor_bdt-feat-Degree.html) – [Evident](bor_bdt-feat-Evident.html) – [Foc](bor_bdt-feat-Foc.html) – [Gender](bor_bdt-feat-Gender.html) – [Int](bor_bdt-feat-Int.html) – [Intens](bor_bdt-feat-Intens.html) – [Mood](bor_bdt-feat-Mood.html) – [Nomzr](bor_bdt-feat-Nomzr.html) – [Number](bor_bdt-feat-Number.html) – [Number[obj]](bor_bdt-feat-Number-obj.html) – [Number[psor]](bor_bdt-feat-Number-psor.html) – [Number[subj]](bor_bdt-feat-Number-subj.html) – [Person](bor_bdt-feat-Person.html) – [Person[obj]](bor_bdt-feat-Person-obj.html) – [Person[psor]](bor_bdt-feat-Person-psor.html) – [Person[subj]](bor_bdt-feat-Person-subj.html) – [Polarity](bor_bdt-feat-Polarity.html) – [Poss](bor_bdt-feat-Poss.html) – [Pred](bor_bdt-feat-Pred.html) – [PronType](bor_bdt-feat-PronType.html) – [Purp](bor_bdt-feat-Purp.html) – [Reflex](bor_bdt-feat-Reflex.html) – [Speech](bor_bdt-feat-Speech.html) – [Subord](bor_bdt-feat-Subord.html) – [Tense](bor_bdt-feat-Tense.html) – [VerbForm](bor_bdt-feat-VerbForm.html) – [Voice](bor_bdt-feat-Voice.html)
+[AdvType](bor_bdt-feat-AdvType.html) – [Aspect](bor_bdt-feat-Aspect.html) – [Class](bor_bdt-feat-Class.html) – [Clusivity](bor_bdt-feat-Clusivity.html) – [Definite](bor_bdt-feat-Definite.html) – [Degree](bor_bdt-feat-Degree.html) – [Deixis](bor_bdt-feat-Deixis.html) – [Evident](bor_bdt-feat-Evident.html) – [Foc](bor_bdt-feat-Foc.html) – [Gender](bor_bdt-feat-Gender.html) – [Int](bor_bdt-feat-Int.html) – [Intens](bor_bdt-feat-Intens.html) – [Mood](bor_bdt-feat-Mood.html) – [Nomzr](bor_bdt-feat-Nomzr.html) – [Number](bor_bdt-feat-Number.html) – [Number[obj]](bor_bdt-feat-Number-obj.html) – [Number[psor]](bor_bdt-feat-Number-psor.html) – [Number[subj]](bor_bdt-feat-Number-subj.html) – [Person](bor_bdt-feat-Person.html) – [Person[obj]](bor_bdt-feat-Person-obj.html) – [Person[psor]](bor_bdt-feat-Person-psor.html) – [Person[subj]](bor_bdt-feat-Person-subj.html) – [Polarity](bor_bdt-feat-Polarity.html) – [Poss](bor_bdt-feat-Poss.html) – [Pred](bor_bdt-feat-Pred.html) – [PronType](bor_bdt-feat-PronType.html) – [Purp](bor_bdt-feat-Purp.html) – [Reflex](bor_bdt-feat-Reflex.html) – [Speech](bor_bdt-feat-Speech.html) – [Subord](bor_bdt-feat-Subord.html) – [Tense](bor_bdt-feat-Tense.html) – [VerbForm](bor_bdt-feat-VerbForm.html) – [Voice](bor_bdt-feat-Voice.html)
 
 ## Relations
 
-[acl](bor_bdt-dep-acl.html) – [advcl](bor_bdt-dep-advcl.html) – [advmod](bor_bdt-dep-advmod.html) – [amod](bor_bdt-dep-amod.html) – [appos](bor_bdt-dep-appos.html) – [case](bor_bdt-dep-case.html) – [cc](bor_bdt-dep-cc.html) – [ccomp](bor_bdt-dep-ccomp.html) – [clf](bor_bdt-dep-clf.html) – [compound](bor_bdt-dep-compound.html) – [conj](bor_bdt-dep-conj.html) – [cop](bor_bdt-dep-cop.html) – [csubj](bor_bdt-dep-csubj.html) – [dep](bor_bdt-dep-dep.html) – [det](bor_bdt-dep-det.html) – [discourse](bor_bdt-dep-discourse.html) – [fixed](bor_bdt-dep-fixed.html) – [flat](bor_bdt-dep-flat.html) – [iobj](bor_bdt-dep-iobj.html) – [mark](bor_bdt-dep-mark.html) – [nmod](bor_bdt-dep-nmod.html) – [nsubj](bor_bdt-dep-nsubj.html) – [nummod](bor_bdt-dep-nummod.html) – [obj](bor_bdt-dep-obj.html) – [obl](bor_bdt-dep-obl.html) – [parataxis](bor_bdt-dep-parataxis.html) – [punct](bor_bdt-dep-punct.html) – [root](bor_bdt-dep-root.html) – [vocative](bor_bdt-dep-vocative.html) – [xcomp](bor_bdt-dep-xcomp.html)
+[acl](bor_bdt-dep-acl.html) – [advcl](bor_bdt-dep-advcl.html) – [advmod](bor_bdt-dep-advmod.html) – [amod](bor_bdt-dep-amod.html) – [appos](bor_bdt-dep-appos.html) – [case](bor_bdt-dep-case.html) – [cc](bor_bdt-dep-cc.html) – [ccomp](bor_bdt-dep-ccomp.html) – [clf](bor_bdt-dep-clf.html) – [compound](bor_bdt-dep-compound.html) – [conj](bor_bdt-dep-conj.html) – [cop](bor_bdt-dep-cop.html) – [csubj](bor_bdt-dep-csubj.html) – [dep](bor_bdt-dep-dep.html) – [det](bor_bdt-dep-det.html) – [discourse](bor_bdt-dep-discourse.html) – [dislocated](bor_bdt-dep-dislocated.html) – [flat](bor_bdt-dep-flat.html) – [iobj](bor_bdt-dep-iobj.html) – [mark](bor_bdt-dep-mark.html) – [nmod](bor_bdt-dep-nmod.html) – [nsubj](bor_bdt-dep-nsubj.html) – [nsubj:outer](bor_bdt-dep-nsubj-outer.html) – [nummod](bor_bdt-dep-nummod.html) – [obj](bor_bdt-dep-obj.html) – [obl](bor_bdt-dep-obl.html) – [parataxis](bor_bdt-dep-parataxis.html) – [punct](bor_bdt-dep-punct.html) – [reparandum](bor_bdt-dep-reparandum.html) – [root](bor_bdt-dep-root.html) – [vocative](bor_bdt-dep-vocative.html) – [xcomp](bor_bdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 371 sentences and 1905 tokens.</li>
+<li>This corpus contains 881 sentences and 6993 tokens.</li>
 </ul>
 
 <ul>
-<li>All tokens in this corpus are followed by a space.</li>
+<li>This corpus contains 2 tokens (0%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -119,23 +119,23 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 </ul>
 
 <ul>
-<li>This corpus contains 10 word types tagged as particles (PART): U, Uw, dy, ekare, kaegae, kana, karega, na, ty, ure</li>
+<li>This corpus contains 17 word types tagged as particles (PART): U, Uw, Uwy, bokware, boroie, ca, dy, dyji, ekare, kaegae, kana, karega, ma, na, rema, ty, ure</li>
 </ul>
 
 <ul>
-<li>This corpus contains 32 lemmas tagged as pronouns (PRON): Kodi, _, a, aki, ce, cere, e, ema, emage, i, ime, imi, inoba, iogudy, jamedu, jamedy, kabo, kaboba, kai, mage, pa, pagi, pare, pron, pu, pudumi, pui, re, ta, tu, ty, u</li>
+<li>This corpus contains 52 lemmas tagged as pronouns (PRON): Bakurebo, Kodi, _, a, aki, awy, bure, byty, ce, cere, duji, e, ecewy, ema, emage, ere, erydy, i, ia, iagu, iaguduba, iagudubá, ime, imi, inoba, iogudy, jamedu, jamedy, jiboe, kaba, kabo, kaboba, kai, kurire, mage, makaguraga, nowy, pa, pagi, pare, pega, pron, pu, pudumi, pui, re, ro, ta, tagi, ty, u, ure</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as determiners (DET): _, awu, awy, cewu, cewy, cowu, ia, nowu</li>
+<li>This corpus contains 8 lemmas tagged as determiners (DET): _, awy, cewy, cowu, ecewy, ia, mowy, nowy</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: _, awy, ecewy, ia, nowy</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): rema</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): bokware, rema</li>
 </ul>
 
 <ul>
@@ -148,7 +148,8 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Ger
   <ul>
-    <li>VERB: amagoi, makoi, Tamaragädyi, Taregodui, amaragädui, arerui, ereruidy, imagoi, turoi</li>
+    <li>PRON: Tui</li>
+    <li>VERB: amagoi, makoi, maragodyi, roi, tagagoi, tagoi, Tamaragodyi, Taregodui, akoi, amaragodui</li>
   </ul>
   </li>
 </ul>
@@ -172,7 +173,8 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
   <li>Fem
     <ul>
       <li>ADJ: kurireudo</li>
-      <li>NOUN: Aredu, Areme, maiwydä</li>
+      <li>ADP: kejewydo, kejewyge</li>
+      <li>NOUN: Aredu, Areme, maiwydo</li>
     </ul>
   </li>
 </ul>
@@ -194,14 +196,14 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
   <li>Plur
     <ul>
       <li>ADJ: kurireuge, kurireudo</li>
-      <li>ADP: ji, ebo, i, bagaiwyge, ei, etae, kae</li>
+      <li>ADP: ji, ei, tabo, ebo, ewogai, ekujiagi, etae, tai, eigoiare, eiogi</li>
       <li>DET: Iage</li>
-      <li>NOUN: areme, ime, arigaodoge, kare, ewadaru, Adugodoge, Aroe, Ipere, apoe, awagoe</li>
-      <li>PART: ure, ekare</li>
-      <li>PRON: ere, emage, emode, enure, Cere, Pamode, Pare, cekigodyre, eiamedu, pagi</li>
-      <li>VERB: to, erore, egore, ewido, etaregodyre, ewogyre, towuje, Aregodyre, Cedaiwore, Eragodyre</li>
-      <li>VERB-Ger: Tamaragädyi</li>
-      <li>X: emode, Tare, ceno, duwugere, emodykare, pamode, wyge</li>
+      <li>NOUN: boe, areme, kare, ime, kugure, arigaodoge, ewadary, ipare, cimo, ereru</li>
+      <li>PART: ekare</li>
+      <li>PRON: ere, ure, pamode, enure, emode, Tamode, pawo, tare, emage, ewo</li>
+      <li>VERB: egore, emagore, etyre, etaregodyre, to, erore, eerydykare, padyre, ererure, emagare</li>
+      <li>VERB-Ger: tagagoi, tagoi, Tamaragodyi</li>
+      <li>X: emode, mage, Bore, Tare, ceno, duwugere, emodykare, pamode, wyge</li>
     </ul>
   </li>
 </ul>
@@ -209,15 +211,15 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Sing
     <ul>
-      <li>ADP: ji, ii, kae, ai, inai, awogai, iji, tapo, awugeje, bagai</li>
-      <li>NOUN: imedu, imedy, aredy, iere, ake, akeragu, barogo, iiodore, ike, ime</li>
-      <li>PART: ure</li>
-      <li>PRON: ure, imi, are, ire, imode, Inure, aki, umode, ado, Awo</li>
-      <li>SCONJ: iwo</li>
-      <li>VERB: akore, bito, Imearudyre, kowuje, to, aregodyre, maky, iwogure, makore, amagore</li>
-      <li>VERB-Ger: amagoi, Taregodui, amaragädui, arerui, imagoi, makoi</li>
+      <li>ADP: ji, to, tabo, kae, keje, ii, ai, bogai, piji, apo</li>
+      <li>DET: awy, nowy, awu, cowu, ce, cewy, no</li>
+      <li>NOUN: imedy, arigao, iere, joru, ioga, aredy, imedu, imuga, karo, moto</li>
+      <li>PRON: ure, awo, imi, imode, ire, are, ukare, umode, inure, amode</li>
+      <li>SCONJ: iwo, keje</li>
+      <li>VERB: akore, bito, makore, kabi, maky, aregodyre, to, barigu, Imearudyre, kowuje</li>
+      <li>VERB-Ger: amagoi, roi, Taregodui, akoi, amaragodui, arerui, imagoi, makoi</li>
       <li>VERB-Inf: iwogukaidy, iwogyi</li>
-      <li>X: amode, ure, Are, Ire, iie, ikare, maky</li>
+      <li>X: amode, ure, Are, Ire, iie, ikare, maky, unure</li>
     </ul>
   </li>
 </ul>
@@ -231,7 +233,8 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Ind
     <ul>
-      <li>DET: ia, Iage</li>
+      <li>DET: ia, aia, Iage</li>
+      <li>PRON: Ia</li>
     </ul>
   </li>
 </ul>
@@ -246,7 +249,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Dim
     <ul>
-      <li>NOUN: kiogorogu, boetugurogu, bukerogu</li>
+      <li>NOUN: kiogorogu, karorogu, aredyrogu, boetugurogu, bukerogu, mearogu, nogedyrogu, oredyrogu, Iogarogy, Iwierogu</li>
     </ul>
   </li>
 </ul>
@@ -258,13 +261,15 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: karega, kurikare</li>
-      <li>NOUN: boekare, ibaimodykare</li>
-      <li>PART: kaegae, karega, ekare</li>
-      <li>PRON: ukare, ikadykigodykare, umodykare</li>
-      <li>VERB: rokare, bokwarewu, Imaragodymodykare, Itaregodymodykare, Makydykaiagu, Makydykarewu, Makydykawä, Makydymodykare, Maragädydädykare, Maragädydädykarewu</li>
+      <li>ADV: karega, Boro, bokwa, roga, Kajao, bokwagodyre, jokodykare, kurikare</li>
+      <li>AUX: bokware</li>
+      <li>INTJ: boro</li>
+      <li>NOUN: jurekaie, boekare, bokwarewy, etaregodykare, ibaimodykare, pegakare, pemegakare, rakakare</li>
+      <li>PART: kaegae, karega, bokware, ekare</li>
+      <li>PRON: ukare, ikare, Tagaba, Akaba, ikadykigodykare, imodykare, pamodykare, pegakaba, umodykare</li>
+      <li>VERB: eerydykare, rokare, akodukaba, bokwarewu, erydykare, imaragodymodykare, iorydykare, iorydywakare, Atugukaba, Awiagodykaba</li>
       <li>VERB-Inf: iwogukaidy</li>
-      <li>X: bokwarewu, emodykare, ikare</li>
+      <li>X: karega, bokwarewu, bokware, emodykare, ikare, kare, kareganure, modykare</li>
     </ul>
   </li>
 </ul>
@@ -278,10 +283,20 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 </ul>
 
 <ul>
-  <li>Hab
+  <li>Inc
     <ul>
-      <li>PRON: cekigodyre, ikadykigodykare, takigodyre</li>
-      <li>VERB: iwogukidogyre</li>
+      <li>PRON: cekigodyre, takigodyre</li>
+      <li>VERB: akogodyre, etaregodyre, aregodyre, ikiarigodyre, Akaregodyre, beregodyre, kugudugodyre, pabagudugodyre, tugodyre</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>IncProg
+    <ul>
+      <li>ADV: bokwagodyre</li>
+      <li>PRON: ikadykigodykare</li>
+      <li>VERB: Boigodynure, Ikogodynure, Itamodugodynure, beregodygodynure, beregodynure, erogodynure, itajiagodynure, itowearigodynure, iwadarygodynure, iwogukidogyre</li>
     </ul>
   </li>
 </ul>
@@ -289,7 +304,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Iter
     <ul>
-      <li>VERB: tygu</li>
+      <li>VERB: tugutugu</li>
     </ul>
   </li>
 </ul>
@@ -297,9 +312,10 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Prog
     <ul>
-      <li>PRON: Inure</li>
-      <li>VERB: etunure, itykadyre, makydynure, utyre</li>
-      <li>X: nure</li>
+      <li>NOUN: Boerunure, Itygynure, boenure, imedynure, jokunure, kejewygenure, kurinure, marenaryrogunure, renure, rikirewynure</li>
+      <li>PRON: inure, enure, unure</li>
+      <li>VERB: eejiwunure, akaiwonure, eegureanure, ekujagunure, imaragodynure, rogodynure, Iroredynure, akedynure, binure, eibagiunure</li>
+      <li>X: nure, kareganure</li>
     </ul>
   </li>
 </ul>
@@ -319,7 +335,8 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: akaiwo, Atudo, Tawiapagado, awiado, awogudä, maky</li>
+      <li>PRON: Tagaba, akaba, pegakaba</li>
+      <li>VERB: Aebu, akodukaba, amagodo, bito, Akaiwodo, Akore, Aremo, Atudo, Atugukaba, Awiagodykaba</li>
     </ul>
   </li>
 </ul>
@@ -328,13 +345,17 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
   <li>Ind
     <ul>
       <li>ADJ: pemegaguragare</li>
-      <li>ADP: kejere, tabore</li>
-      <li>ADV: oinore, pemegare, nonore, kimore, merijire, motyre, rakaguragare, remawure, woere, kurikare</li>
-      <li>NOUN: boere, imedyre, iere, iiodore, Jukore, adugore, eimejeramode, karore, kuricigore, käwydyre</li>
-      <li>PART: ure, ekare</li>
-      <li>PRON: ure, ire, ere, are, imode, Inure, emode, Cere, Pamode, Pare</li>
-      <li>VERB: akore, Itaidure, Imearudyre, aregodyre, makore, iwogure, erore, pemegare, akaregodyre, amagore</li>
-      <li>X: ure, nure, amode, emode, kejere, Are, Ire, Tare, duwugere, emodykare</li>
+      <li>ADP: koiare, kejere, kaere, tabore, apore, eigoiare, jire, tadare, aire, kajere</li>
+      <li>ADV: oinore, icare, dytabore, dykejere, kimore, pegare, pemegare, kodire, maere, nonore</li>
+      <li>AUX: bokware</li>
+      <li>DET: Awyre</li>
+      <li>NOUN: boere, iere, core, kugure, pemegare, boire, imedyre, adugore, karore, kuiadare</li>
+      <li>PART: bokware, ekare</li>
+      <li>PRON: ure, ere, ire, imode, are, ukare, inure, emode, pamode, umode</li>
+      <li>PROPN: Pemore, Tadugore</li>
+      <li>SCONJ: kodire, dykejere, Dykaere, Dytabore, dykoiare, kejere</li>
+      <li>VERB: akore, makore, egore, emagore, aregodyre, etaregodyre, etyre, Itaidure, padyre, Imearudyre</li>
+      <li>X: ure, nure, emode, amode, dupijire, Are, Bore, Ire, Tare, bokware</li>
     </ul>
   </li>
 </ul>
@@ -343,7 +364,25 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
   <li>Irr
     <ul>
       <li>PRON: iia, tumodyie</li>
-      <li>VERB: Imaragädyia, arerumodyie, iordywaia</li>
+      <li>VERB: Imaragodyia, arerumodyie, iordywaia</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Opt
+    <ul>
+      <li>VERB: Taregodyia</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>NOUN: kodywo, imerywo</li>
+      <li>PRON: awo, pawo, ewo, iwo, tuwo, uwo, Ere, Imode, Ure</li>
+      <li>VERB: aerydywo, awadywo, awaduwo, etuwo, etyre, oragudure, padywo, Imygywo, Paregodywo, Taragodywo</li>
     </ul>
   </li>
 </ul>
@@ -355,10 +394,11 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Fut
     <ul>
-      <li>NOUN: eimejeramode, Boerumode, boimode, ibaimodykare</li>
-      <li>PRON: imode, umode, Pamode, amode, emode, Cemode, tumodyie, umodykare</li>
-      <li>VERB: Imaragädymode, akagomode, akodumode, iwogumode, kodumode, makomodewy, Akaregodumodedu, Ikodumode, Imaragodymodykare, Imearudymode</li>
-      <li>X: emode, amode, pamode</li>
+      <li>ADV: Boecomode</li>
+      <li>NOUN: boimode, eimejeramode, Boerumode, Itygimomode, ibaimodykare, iemode</li>
+      <li>PRON: imode, pamode, umode, amode, emode, Tamode, Cemode, cemodykare, pamodykare, tumode</li>
+      <li>VERB: atumode, ikodymode, itymode, Imaragodymode, akagomode, akodumode, eragodumode, imaragodymodykare, itumode, iwogumode</li>
+      <li>X: emode, amode, modykare, pamode</li>
     </ul>
   </li>
 </ul>
@@ -368,19 +408,29 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 </ul>
 
 <ul>
-  <li>Antip
+  <li>Cau
     <ul>
-      <li>VERB: etaregody, etaregodyre, pabagudugodyre, parekodyre</li>
+      <li>ADV: pemegado</li>
+      <li>NOUN: codo, kurido, kurodo, kurudo, mototody, akeragu, etupegago, ibaidogedo</li>
+      <li>PRON: udo, ado, edo, Tado, ido, pado, tywo, ure</li>
+      <li>VERB: bito, pemegado, kododydo, parudo, bytydo, iado, ebito, baiado, etagedydo, iorydywado</li>
     </ul>
   </li>
 </ul>
 
 <ul>
-  <li>Cau
+  <li>CauInc
     <ul>
-      <li>NOUN: kuridä, kurodo, mototody, akeragu, ibaidogedä</li>
-      <li>PRON: ado, ido, udo, ure</li>
-      <li>VERB: bito, bytydo, ebito, kuridä, aiwodä, amaragädydo, atugodo, boedo, jado, okwagedo</li>
+      <li>VERB: Boigodynure, iririgo, rirygodynure</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CauPass
+    <ul>
+      <li>NOUN: rodody, aogwadodyrewy, itaiwodody</li>
+      <li>VERB: Maragodydodyre, akudody, badody, epadody, kododyre, Badodymodykare, Cedaiwoiadody, Inagoridody, Maragodydodykare, Maragodydodykarewu</li>
     </ul>
   </li>
 </ul>
@@ -388,7 +438,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: Makydy, Makydyiagu, Makydykaiagu, Makydykarewu, Makydykawä, Makydymode, Makydymodykare, Makydyrewu, Makydywä, Maragädydädyre</li>
+      <li>VERB: Makydy, Makydyiagu, Makydykaiagu, Makydykarewu, Makydykawo, Makydymode, Makydymodykare, Makydyrewu, Makydywo, makudure</li>
     </ul>
   </li>
 </ul>
@@ -415,13 +465,39 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: ia, aia</li>
+      <li>PRON: Ia</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Bi
     <ul>
       <li>ADP: itabowy</li>
-      <li>NOUN: ewadaru, itaimo, iwai</li>
-      <li>PRON: ure, ire, Inure, are, ere, emode, enure, Cere, Imode, Pamode</li>
+      <li>NOUN: ewadary, itaimo, iwai, uke</li>
+      <li>PRON: ure, ere, are, ire, Inure, emode, enure, imode, pamode, umode</li>
       <li>SCONJ: iwo</li>
-      <li>VERB: Imaragädymode, Itaidure, imaragädywy, Aregodyre, Imaragädyia, iordywaia, ioruduwawo, pumaky, tumaragädywy</li>
+      <li>VERB: Imaragodymode, Itaidure, imaragodywy, Aregodyre, Imaragodyia, iordywaia, ioruduwawo, pumaky, tumaragodywy</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: awy, nowy, awu, cowu, ce, cewy, no</li>
+      <li>PRON: awygere, nowyge, ecewy</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: makaguraga</li>
     </ul>
   </li>
 </ul>
@@ -429,8 +505,8 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Int
     <ul>
-      <li>ADV: kaba, kaiba</li>
-      <li>PRON: kaboba, inoba, Ioguduba, iogudyba, Kaiba, Kodiba</li>
+      <li>ADV: inoba, kaiba, kaba, Kaibá</li>
+      <li>PRON: kaboba, inoba, Ioguduba, iogudyba, Kaiba, Iagudubá, Kabajiba, Kodiba</li>
     </ul>
   </li>
 </ul>
@@ -438,7 +514,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: imi, pagi, aki, emage, Pare, are, ema, pudumi</li>
+      <li>PRON: imi, pagi, aki, ema, emage, tagi, Pare, are, emagere, emare</li>
       <li>VERB: Cedaiwore</li>
     </ul>
   </li>
@@ -447,7 +523,17 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: pui</li>
+      <li>ADP: pudabo</li>
+      <li>NOUN: pujoku</li>
+      <li>PRON: pui, pu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: duji</li>
     </ul>
   </li>
 </ul>
@@ -455,7 +541,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: Tuiamedu, eiamedu</li>
+      <li>PRON: Tuiamedu, eiamedy, jamedy, eiamedu</li>
     </ul>
   </li>
 </ul>
@@ -468,7 +554,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Yes
     <ul>
-      <li>NOUN: ako, eno, okoge, tuge</li>
+      <li>NOUN: jorybo, erybo, biri, Jorubo, akemore, batary, erybore, o, ako, eno</li>
       <li>X: ceno</li>
     </ul>
   </li>
@@ -481,11 +567,12 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>Yes
     <ul>
-      <li>ADP: tabo, puae, pudyi, pui, tugeje, pudai</li>
-      <li>NOUN: toredyje, tuge, tonaregedu, tonaregedy, tubaiga, tugana, tumuga</li>
-      <li>PRON: pudumi, Tui, pu, tumodyie, ture, tuwo</li>
-      <li>VERB: pubarigu, tamudä, tugirimi, tumaragodywo, tumorido, cetaimo, itaregodyie, pumaky, taiado, taimo</li>
-      <li>VERB-Ger: turoi</li>
+      <li>ADP: tabo, pui, puae, pudabo, pudogi, pudyi, tugeje, tuiagajejewy, ji, pudai</li>
+      <li>NOUN: tuge, cimo, tuo, tugera, pujoku, tonaregedy, toredyje, tuwadary, tagedy, tao</li>
+      <li>PRON: pudumi, pu, Tui, tuiagu, tuwo, pui, tumode, tumodyie, ture, tywo</li>
+      <li>PRON-Ger: Tui</li>
+      <li>VERB: tumugudo, tugirimi, akowarudo, tubemegado, pubarigu, tagoi, tamudo, taredo, togwage, tudugu</li>
+      <li>VERB-Ger: tagoi, tubadui, turoi</li>
     </ul>
   </li>
 </ul>
@@ -497,11 +584,11 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>1
     <ul>
-      <li>ADP: ii, inai, iji, kae, cenai, iwagai, iwogai</li>
-      <li>NOUN: iiodore, ike, Ikimopariko, Iwiri, Pagaguarigao, aroia, ibai, iegare, ikie, imanamage</li>
-      <li>PRON: imi, ire, imode, Inure, Cere, Pamode, Pare, aki, cekigodyre, ido</li>
+      <li>ADP: ii, inai, itabo, iji, kae, pagabo, Pagudawy, cedabo, cedododai, cenai</li>
+      <li>NOUN: imuga, ike, ioga, iogwa, pawadary, cimo, iwadary, iwie, Imana, ikie</li>
+      <li>PRON: imi, ire, imode, inure, pamode, ikare, pawo, iwo, pagi, pare</li>
       <li>SCONJ: iwo</li>
-      <li>VERB: Imearudyre, iwogure, Iorudyware, Imaragädymode, Iorydyre, Itaidure, ikodure, imaragädy, imaragädywy, iorudiwawo</li>
+      <li>VERB: Imearudyre, iorydyre, iwogure, ityre, ikodymode, itaidyre, padyre, padywo, Iorudyware, Irore</li>
       <li>VERB-Ger: imagoi</li>
       <li>VERB-Inf: iwogukaidy, iwogyi</li>
       <li>X: Are, Ire, ceno, iie, ikare, pamode</li>
@@ -512,11 +599,11 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>2
     <ul>
-      <li>ADP: ai, awogai, awugeje, inaidy, tagai</li>
-      <li>NOUN: ake, akeragu, Akeamirewy, akiere, ako</li>
-      <li>PRON: are, ado, aki, Awo, ak, amode</li>
-      <li>VERB: arydyre, akaregodyre, akore, amagoi, amagore, amearydure, akaiwo, akuno, amaragädydo, Akaiwodo</li>
-      <li>VERB-Ger: amagoi, Tamaragädyi, amaragädui, arerui</li>
+      <li>ADP: ai, awogai, tai, tagabo, tagae, Aigoia, aire, akabo, atogi, awugeje</li>
+      <li>NOUN: akera, ake, akeragu, akiguru, amearydy, awadary, taro, tawadary, Akeamirewy, Akeno</li>
+      <li>PRON: awo, are, Tamode, amode, tare, tagi, Tagaba, ado, akaba, aki</li>
+      <li>VERB: Aebu, amagore, arydyre, akaregodyre, akore, akowarudo, amagoi, amearydure, amugure, atumode</li>
+      <li>VERB-Ger: amagoi, tagagoi, tagoi, Tamaragodyi, amaragodui, arerui</li>
       <li>X: amode, Tare</li>
     </ul>
   </li>
@@ -525,13 +612,14 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <ul>
   <li>3
     <ul>
-      <li>ADP: ji, kae, ebo, i, pudyi, tapo, ai, bagai, bagaidy, bagaiwy</li>
-      <li>NOUN: ewadaru, iere, ebataru, eimejeramode, ji, tubai, Biajarewu, Ukuiepowari, aidy, eioku</li>
-      <li>PART: ure, ekare</li>
-      <li>PRON: ure, ere, emage, emode, enure, umode, eiamedu, ema, ture, udo</li>
-      <li>VERB: to, bito, akore, kowuje, maky, aregodyre, erore, makore, egore, kado</li>
-      <li>VERB-Ger: Taregodui, makoi</li>
-      <li>X: emode, ure, emodykare, maky</li>
+      <li>ADP: ji, to, tabo, kae, keje, bogai, piji, apo, tada, ei</li>
+      <li>NOUN: ewadary, iere, ereru, tuge, tuo, erybo, ji, uke, uo, uwai</li>
+      <li>PART: ekare</li>
+      <li>PRON: ure, ere, ukare, umode, emode, enure, bure, kudugodure, padure, udo</li>
+      <li>SCONJ: keje</li>
+      <li>VERB: akore, egore, bito, emagore, to, makore, kabi, maky, etyre, etaregodyre</li>
+      <li>VERB-Ger: roi, Taregodui, akoi, makoi</li>
+      <li>X: emode, ure, Bore, emodykare, maky, unure</li>
     </ul>
   </li>
 </ul>
@@ -543,15 +631,50 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 </ul>
 
 <ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: ewadary, pawadary, pawobe, emearydae, etore, pagore, pawobedoge, tawadary, Itygy, Tagera</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Sing
     <ul>
-      <li>NOUN: ibai, ibaidoge, ibaidogedä, ibaimodykare, iiodore, tugerago</li>
+      <li>NOUN: imuga, ioga, iogwa, iere, ike, iwadary, Imana, iwie, uwai, ake</li>
     </ul>
   </li>
 </ul>
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>AdvType</a>
+    <ul>
+      <li>Loc
+        <ul>
+          <li>ADV: woe</li>
+        </ul>
+      </li>
+      <li>Man
+        <ul>
+          <li>ADV: oino, paga, tyjé</li>
+        </ul>
+      </li>
+      <li>Mod
+        <ul>
+          <li>ADV: oino</li>
+        </ul>
+      </li>
+      <li>Tim
+        <ul>
+          <li>ADV: roga, Kajao</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Class</a>
@@ -585,19 +708,45 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
     <ul>
       <li>Ex
         <ul>
-          <li>ADP: cenai</li>
-          <li>PRON: Cere, Cemode</li>
-          <li>VERB: Cedaiwore, Cewogure, cetaimo</li>
+          <li>ADP: cedabo, cedododai, cenai</li>
+          <li>NOUN: cimo, Cegimejera, cegimejerage, cemedage</li>
+          <li>PRON: Cemode, Cere, Cenure, cemodykare</li>
+          <li>VERB: cedaregodyre, cedyre, Cedaiwoiadody, Cedaiwore, Cegodure, Cerore, Cewogure, cedu, cenogwato, ceroino</li>
           <li>X: ceno</li>
         </ul>
       </li>
       <li>In
         <ul>
-          <li>ADP: kae</li>
-          <li>NOUN: Pagaguarigao, pabai</li>
-          <li>PRON: pagi, Pamode, Pare, cekigodyre</li>
-          <li>VERB: pabagudugodyre, pabito, pagodure, papagudugo, parego, parekodyre, patuwo</li>
+          <li>ADP: pagabo, Pagudawy, kae, pai</li>
+          <li>NOUN: pawadary, page, pajemage, pawobe, pagimejera, pagore, pao, pawobedoge, Pagaguarigao, pabai</li>
+          <li>PRON: pamode, pagi, pare, pawo, cekigodyre, pado, pamodykare</li>
+          <li>VERB: padyre, padywo, paiorydywa, Paregodywo, epadyre, pabagudugodyre, pabito, pagaiwo, pagodymode, pagodyre</li>
           <li>X: pamode</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Deixis</a>
+    <ul>
+      <li>Med
+        <ul>
+          <li>ADV: nono</li>
+          <li>DET: nowy, no</li>
+        </ul>
+      </li>
+      <li>Prox
+        <ul>
+          <li>ADV: woe</li>
+          <li>DET: awy, awu</li>
+        </ul>
+      </li>
+      <li>Remt
+        <ul>
+          <li>ADV: toro</li>
+          <li>DET: nowy, ecewy, cewy, ce</li>
         </ul>
       </li>
     </ul>
@@ -657,11 +806,12 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       <li>Rel
         <ul>
           <li>ADJ: akorewu, kurireu, kurireuge, moturewu, kurireudo</li>
-          <li>ADP: dyji, dytabo, kaewy, pijiwy, tadawu, bagaiwyge, inaidy, itabowy</li>
-          <li>NOUN: kowujedy, Boetojiwy, bitowu, eiadadawu, käwydyre, rawujedy, tadawu, Biajarewu, Pemegarewu, enogwagewu</li>
+          <li>ADP: kejewy, apowu, cebojewy, dyji, dytabo, gejewy, jiwy, jiwyji, kaewy, kejewyge</li>
+          <li>ADV: maerewy</li>
+          <li>NOUN: kowujedy, kurirewu, pegarewy, gejewy, kurirewy, aiarewy, birewy, kujagurewy, pemegarewy, Boetojiwy</li>
           <li>PART: dy</li>
-          <li>PRON: Awo, tuwo</li>
-          <li>VERB: muguwo, Pegareure, Roiwarewu, imaragädywy, joryduwarewu, makomodewy, makorewy, mearydaerewu, mugure, Akaregodumodedu</li>
+          <li>PRON: Awo, iwo, tuwo</li>
+          <li>VERB: muguwo, Pegareure, Roiwarewu, imaragodywy, joryduwarewu, makomodewy, makorewy, mearydaerewu, mugure, Aidyrewyge</li>
           <li>VERB-Ger: ereruidy</li>
           <li>X: dywu, duwugere, wyge</li>
         </ul>
@@ -676,12 +826,12 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       <li>Plur
         <ul>
           <li>PRON: pagi</li>
-          <li>VERB: ebito, ebitä, epagududo, etudo, ewito, pabito</li>
+          <li>VERB: ebito, epagududo, etudo, ewito, pabito</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB: arududo, etowuje, ko</li>
+          <li>VERB: arududo, etowuje, ko, tagogududo, taiagududo</li>
         </ul>
       </li>
     </ul>
@@ -694,13 +844,13 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       <li>Plur
         <ul>
           <li>PRON: Pagi, Cemode, Ere, Pamode, Pare, tare</li>
-          <li>VERB: emerure, Cewogure, ebitodyre, etaregody, etaregodyre, ewogu, pagodure, papagudugo, parego</li>
+          <li>VERB: emerure, Cewogure, ebitodyre, etaregody, etaregodyre, ewogu, pagodyre, papagudugo, parego</li>
         </ul>
       </li>
       <li>Sing
         <ul>
           <li>PRON: Inure, imi, ire, Are</li>
-          <li>VERB: Itaidure, imuguwo, iwogumode, Akaregodyre, Ikodumode, Imagore, Uture, akodumode, iiemarure, iorydyre</li>
+          <li>VERB: Itaidure, imuguwo, iwogumode, Akaregodyre, Ikodumode, Imagore, akodumode, iiemarure, iorydyre, itaragydy</li>
         </ul>
       </li>
     </ul>
@@ -713,7 +863,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       <li>1
         <ul>
           <li>PRON: pagi</li>
-          <li>VERB: etowuje, pabito</li>
+          <li>VERB: etowuje, pabito, tagogududo, taiagududo</li>
         </ul>
       </li>
       <li>2
@@ -723,7 +873,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       </li>
       <li>3
         <ul>
-          <li>VERB: ebito, ebitä, epagududo, etudo, ewito, ko</li>
+          <li>VERB: ebito, epagududo, etudo, ewito, ko</li>
         </ul>
       </li>
     </ul>
@@ -735,12 +885,12 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
     <ul>
       <li>1
         <ul>
-          <li>NOUN: ibai, ibaidoge, ibaidogedä, ibaimodykare, iiodore</li>
+          <li>NOUN: ibai, ibaidoge, ibaidogedo, ibaimodykare, iiodore</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>NOUN: tugerago</li>
+          <li>NOUN: Etore, tugerago</li>
         </ul>
       </li>
     </ul>
@@ -753,7 +903,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       <li>1
         <ul>
           <li>PRON: Inure, Pagi, imi, ire, Cemode, Pamode, Pare</li>
-          <li>VERB: Itaidure, imuguwo, iwogumode, Imagore, iiemarure, iorydyre, itaragydy, iture, iwogure, pagodure</li>
+          <li>VERB: Itaidure, imuguwo, iwogumode, Imagore, iiemarure, iorydyre, itaragydy, ityre, iwogure, pagodyre</li>
         </ul>
       </li>
       <li>2
@@ -765,7 +915,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       <li>3
         <ul>
           <li>PRON: Ere</li>
-          <li>VERB: emerure, Uture, ebitodyre, etaregody, etaregodyre, ewogu, rorewyge, turemo</li>
+          <li>VERB: emerure, ebitodyre, etaregody, etaregodyre, ewogu, rorewyge, turemo, utyre</li>
         </ul>
       </li>
     </ul>
@@ -777,7 +927,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
     <ul>
       <li>AtrEq
         <ul>
-          <li>X: rema</li>
+          <li>AUX: rema</li>
         </ul>
       </li>
     </ul>
@@ -794,7 +944,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
       </li>
       <li>Yes
         <ul>
-          <li>VERB: Makydykawä, Makydywä, Maragädydädykawä, Maragädydädywä</li>
+          <li>VERB: Makydykawo, Makydywo, Maragodydodykawo, Maragodydodywo</li>
         </ul>
       </li>
     </ul>
@@ -806,8 +956,19 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
     <ul>
       <li>Ind
         <ul>
+          <li>ADP: koiaie</li>
+          <li>ADV: dytaboie, koiaie</li>
+          <li>NOUN: boejie, boie, jureie, jurekaie, tugodyie</li>
           <li>PART: kaegae</li>
-          <li>VERB: arerumodyie, tumaragädymodyie</li>
+          <li>SCONJ: dykodyie, kodie</li>
+          <li>VERB: koduie, arerumodyie, tawimodyie, tumaragodymodyie</li>
+        </ul>
+      </li>
+      <li>IndOpt
+        <ul>
+          <li>NOUN: tuoiagu</li>
+          <li>PRON: aiagu</li>
+          <li>VERB: enogwageiagu</li>
         </ul>
       </li>
     </ul>
@@ -821,7 +982,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
         <ul>
           <li>ADP: bagaidy, bagaiwy</li>
           <li>PRON: ikadykigodykare</li>
-          <li>VERB: kowujewy, imuguwo, iorudiwawo, amuguwo, erudiwawo, iorydyiwamodedydä, itykadyre, iwogukaidy, rorewy, rorewyge</li>
+          <li>VERB: kowujewy, imuguwo, iorudiwawo, amuguwo, erudiwawo, iorydyiwamodedydo, itykadyre, iwogukaidy, rorewy, rorewyge</li>
           <li>VERB-Inf: iwogukaidy</li>
         </ul>
       </li>
@@ -834,7 +995,7 @@ teoria de caso e concordância_. UNICAMP. Unpublished master's thesis. (ABG)
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: rema.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: bokware, rema.</li>
 </ul>
 
 <ul>
@@ -847,9 +1008,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (103)</li>
-      <li>VERB--PRON (88)</li>
-      <li>VERB-Ger--NOUN (1)</li>
+      <li>VERB--NOUN (336)</li>
+      <li>VERB--NOUN-ADP(apo) (1)</li>
+      <li>VERB--PRON (342)</li>
+      <li>VERB-Ger--NOUN (4)</li>
     </ul>
   </li>
 </ul>
@@ -857,10 +1019,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (90)</li>
+      <li>VERB--NOUN (241)</li>
       <li>VERB--NOUN-ADP(bagai) (1)</li>
-      <li>VERB--NOUN-ADP(ji) (1)</li>
-      <li>VERB--PRON (14)</li>
+      <li>VERB--NOUN-ADP(ji) (2)</li>
+      <li>VERB--PRON (20)</li>
       <li>VERB-Inf--NOUN-ADP(bagaidy) (1)</li>
     </ul>
   </li>
@@ -869,6 +1031,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-ADP(ji) (4)</li>
     </ul>
   </li>
@@ -879,12 +1042,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 4 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ tonaregedy, _ toredyje, _ tuge, jado tugana</li>
+  <li>This corpus contains 11 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ tuge, bu tugera, jado tugana, jedo tore, jegogu tuiba, kogu tugera, okwage tonaregedy, okwage toredyje, pemeg tugera, rodo tuge, to togwa</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>aux</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

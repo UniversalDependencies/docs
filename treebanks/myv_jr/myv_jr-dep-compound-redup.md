@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `compound:redup`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-compound.html">compound</a></tt>.
-There are also 1 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-prt.html">compound:prt</a></tt>.
+There are also 2 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-nn.html">compound:nn</a></tt>, <tt><a href="myv_jr-dep-compound-prt.html">compound:prt</a></tt>.
 
 2 nodes (0%) are attached to their parents as `compound:redup`.
 
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	7	nsubj	_	GTtags=Tot,Sg,Nom,Indef
 7	скокаесть	скокаемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	2	parataxis	_	GTtags=IV,Ind,Prt1,ScPl3
 8	кенкшенть	кенкш	NOUN	N	Case=Gen|Definite=Def|Number=Sing	7	obl	_	GTtags=Sg,Gen,Def
-9	икеле	икеле	ADP	Adp	AdvType=Loc|Case=Loc	8	case	_	GTtags=Relator,Spat,Loc|SpaceAfter=No
+9	икеле	икеле	ADP	Po	AdpType=Post|AdvType=Loc|Case=Loc	8	case	_	GTtags=Relator,Spat,Loc|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	11	punct	_	_
 11	кутморясть	кутморямс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	7	conj	_	GTtags=TV,Ind,Prt1,ScPl3|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	15	punct	_	_

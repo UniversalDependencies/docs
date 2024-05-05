@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	s~	s~	X	_	_	7	reparandum	_	AlignBegin=58590|AlignEnd=58963|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=58963|AlignEnd=58963
 4	euh	euh	INTJ	_	_	2	discourse	_	AlignBegin=58963|AlignEnd=59337|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	AlignBegin=59337|AlignEnd=59337
+5	,	,	PUNCT	_	_	2	punct	_	AlignBegin=59337|AlignEnd=59337
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=59337|AlignEnd=59710
 7	génération	génération	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=59710|AlignEnd=60083|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=60083|AlignEnd=60083

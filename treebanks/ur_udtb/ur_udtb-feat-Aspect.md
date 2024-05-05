@@ -11,7 +11,7 @@ It occurs with 2 different values: `Imp`, `Perf`.
 
 10146 tokens (7%) have a non-empty value of `Aspect`.
 507 types (5%) occur at least once with a non-empty value of `Aspect`.
-244 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
+258 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 11 part-of-speech tags: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (7067; 5% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (3049; 2% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `EMPTY` (5628): کر، کرنے، ہو، ہے، ہونے، کرنا، کریں، دینے، ہوگا، رکھنے
 
 <table>
-  <tr><th>Paradigm <i>کر</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
+  <tr><th>Paradigm <i>کرنا</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>کیے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>کئے, کیے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>کی</td></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 * `EMPTY` (6072): ہے، ہیں، تھا، ہےں، جا، تھی، کر، تھے، جانے، جائے
 
 <table>
-  <tr><th>Paradigm <i>جا</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
+  <tr><th>Paradigm <i>جانا</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td>جانے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>جاتے</td><td>گئے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>جاتا, جاتے</td><td>گیا, گئے, جائے, جاتا, جایا</td></tr>

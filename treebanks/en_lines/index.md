@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -119,7 +119,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): I, Much, a, all, another, any, anybody, anyone, anything, both, each, either, else, everybody, everyone, everything, half, he, her, herself, it, many, neither, no, nobody, none, nothing, one, other, own, she, some, somebody, someone, something, such, te, that, there, they, this, we, what, whatever, whatnot, which, who, whoever, you</li>
+<li>This corpus contains 55 lemmas tagged as pronouns (PRON): I, Much, a, all, another, any, anybody, anyone, anything, both, each, either, else, everybody, everyone, everything, half, he, her, herself, his, it, its, many, my, neither, no, nobody, none, nothing, one, other, our, own, she, some, somebody, someone, something, such, te, that, their, there, they, this, we, what, whatever, whatnot, which, who, whoever, you, your</li>
 </ul>
 
 <ul>
@@ -212,7 +212,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>DET: these, those</li>
       <li>NOUN: people, eyes, fields, men, years, things, items, women, hands, words</li>
       <li>NUM: fifteen, forty-one</li>
-      <li>PRON: they, we, them, us, our, themselves, these, those, ourselves, 's</li>
+      <li>PRON: they, we, them, their, us, our, themselves, these, those, ourselves</li>
       <li>PROPN: Dursleys, Hogwarts, Weasleys, Mets, States, Beatles, Bayleys, Cloughs, Pettigrews, Masons</li>
       <li>VERB-Fin: mix</li>
     </ul>
@@ -243,7 +243,15 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: him, her, me, them, himself, us, myself, themselves, itself, herself</li>
+      <li>PRON: him, me, them, himself, her, us, myself, themselves, itself, herself</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>PRON: his, her, my, their, its, your, our</li>
     </ul>
   </li>
 </ul>
@@ -529,7 +537,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Yes
     <ul>
       <li>DET: whose</li>
-      <li>PRON: his, my, your, its, our, whose, her</li>
+      <li>PRON: his, my, her, their, your, its, our, whose, hers, mine</li>
     </ul>
   </li>
 </ul>
@@ -554,7 +562,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>1
     <ul>
       <li>AUX-Fin: was, am</li>
-      <li>PRON: I, my, we, me, us, our, myself, ourselves, 's</li>
+      <li>PRON: I, my, we, me, us, our, myself, ourselves, 's, mine</li>
       <li>VERB-Fin: was, am</li>
     </ul>
   </li>
@@ -572,7 +580,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>3
     <ul>
       <li>AUX-Fin: is, 's, has, does</li>
-      <li>PRON: he, his, they, him, her, she, them, himself, its, themselves</li>
+      <li>PRON: he, his, they, him, her, she, them, himself, their, its</li>
       <li>VERB-Fin: is, 's, has, says, goes, makes, knows, means, contains, appears</li>
     </ul>
   </li>
@@ -617,7 +625,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Nom (6)</li>
       <li>VERB-Inf--PRON (338)</li>
       <li>VERB-Inf--PRON-ADP(for) (1)</li>
-      <li>VERB-Inf--PRON-Acc (9)</li>
+      <li>VERB-Inf--PRON-Acc (7)</li>
+      <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (514)</li>
       <li>VERB-Part--NOUN (258)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
@@ -646,21 +655,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (30)</li>
       <li>VERB-Fin--PRON (285)</li>
       <li>VERB-Fin--PRON-ADP(to) (1)</li>
-      <li>VERB-Fin--PRON-Acc (232)</li>
+      <li>VERB-Fin--PRON-Acc (221)</li>
       <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
+      <li>VERB-Fin--PRON-Gen (11)</li>
       <li>VERB-Fin--PRON-Nom (12)</li>
       <li>VERB-Inf--NOUN (862)</li>
       <li>VERB-Inf--NOUN-Nom (16)</li>
       <li>VERB-Inf--PRON (222)</li>
       <li>VERB-Inf--PRON-ADP(as) (1)</li>
-      <li>VERB-Inf--PRON-Acc (142)</li>
+      <li>VERB-Inf--PRON-Acc (131)</li>
+      <li>VERB-Inf--PRON-Gen (11)</li>
       <li>VERB-Inf--PRON-Nom (10)</li>
       <li>VERB-Part--NOUN (669)</li>
       <li>VERB-Part--NOUN-ADP(through) (1)</li>
       <li>VERB-Part--NOUN-ADP(to) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (98)</li>
-      <li>VERB-Part--PRON-Acc (91)</li>
+      <li>VERB-Part--PRON-Acc (83)</li>
+      <li>VERB-Part--PRON-Gen (8)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
     </ul>
   </li>
@@ -672,7 +684,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (37)</li>
+      <li>VERB-Fin--PRON-Acc (35)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Inf--NOUN (4)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON (7)</li>

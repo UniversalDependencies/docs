@@ -36,7 +36,7 @@ The following 19 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 1 compound	color:blue
 1	Harvard	Harvard	PROPN	NNP	Number=Sing	2	compound	2:compound	Discourse=joint-list_m:102->101:0:_|Entity=(127-organization-new-cf1-1,2-coref-Harvard_University
-2	University	University	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	Entity=127)
+2	University	University	PROPN	NNP	Number=Sing	8	nsubj	8:nsubj	Entity=127)|MSeg=Univers-ity
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	Entity=(127-organization-giv:act-cf1-5-pred-Harvard_University
 5	famous	famous	ADJ	JJ	Degree=Pos	8	amod	8:amod	MSeg=fam-ous

@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Low_Saxon-LSDC: Relations: `csubj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `csubj`: <tt><a href="nds_lsdc-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-6 nodes (0%) are attached to their parents as `csubj`.
+15 nodes (0%) are attached to their parents as `csubj`.
 
-4 instances of `csubj` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 11.
+12 instances of `csubj` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.53333333333333.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (4; 67% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 17% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 17% instances).
+The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (8; 53% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (3; 20% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -39,46 +40,26 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 27 csubj	color:blue
-1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	lemma_gml=dat
-2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop	4	cop	_	lemma_gml=wēsen²
-3	ouk	ouk	ADV	_	_	4	advmod	_	lemma_gml=ôk
-4	wår	wår	ADJ	_	Degree=Pos	0	root	_	lemma_gml=wâr¹
-5	un	un	CCONJ	_	_	10	cc	_	lemma_gml=unde²
-6	is	weasen	AUX	_	Number=Sing|Person=3|VerbType=Aux	10	aux:pass	_	lemma_gml=wēsen²
-7	döär	döär	ADP	_	AdpType=Prep	9	case	_	lemma_gml=dȫr¹
-8	veale	veale	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	lemma_gml=vēle¹
-9	teyken	teyken	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	10	obl:agent	_	lemma_gml=têⁱken¹
-10	bewysd	bewysen	VERB	_	Aspect=Perf|VerbForm=Part	4	conj	_	lemma_gml=bewîsen|SpaceAfter=No
-11	,	,	PUNCT	_	_	27	punct	_	_
-12	dat	dat	SCONJ	_	_	27	mark	_	lemma_gml=dat
-13	düslike	düslik	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	lemma_gml=düslĩk
-14	vordamde	vordammen	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	15	amod	_	lemma_gml=vordammen
-15	saelen	saele	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	27	nsubj:pass	_	lemma_gml=sêle⁴|SpaceAfter=No
-16	,	,	PUNCT	_	_	23	punct	_	_
-17	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	23	nsubj	_	lemma_gml=dê¹
-18	in	in	ADP	_	AdpType=Prep	20	case	_	lemma_gml=in²
-19	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	lemma_gml=dê¹
-20	grav	grav	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=graf
-21	keyne	keyn	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	22	det	_	lemma_gml=kêⁱn²
-22	rouwe	rouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	lemma_gml=rouwe¹
-23	hebben	hebben	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	acl	_	lemma_gml=hebben|SpaceAfter=No
-24	,	,	PUNCT	_	_	27	punct	_	_
-25	van	van	ADP	_	AdpType=Prep	26	case	_	lemma_gml=van¹
-26	god	god	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	27	obl:agent	_	lemma_gml=got¹
-27	bruked	bruken	VERB	_	Aspect=Perf|VerbForm=Part	4	csubj	_	lemma_gml=brûken
-28	warden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux	27	aux:pass	_	lemma_gml=wērden¹
-29	de	de	DET	_	Case=Acc|Definite=Def|Number=Plur|PronType=Art	30	det	_	lemma_gml=dê¹
-30	slimmen	slim	ADJ	_	Case=Acc|Number=Plur	34	obj	_	lemma_gml=slim¹
-31	in	in	ADP	_	AdpType=Prep	32	case	_	lemma_gml=in²
-32	tucht	tucht	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	34	obl	_	lemma_gml=tucht¹
-33	to	to	PART	_	PartType=Inf	34	mark	_	lemma_gml=tô⁵
-34	holden	holden	VERB	_	VerbForm=Inf	27	ccomp	_	lemma_gml=hōlden|SpaceAfter=No
-35	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 14 csubj	color:blue
+1	Vrouwe	vrouwe	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	vocative	_	lemma_gml=vrouwe
+2	Harder	Harder	PROPN	_	Number=Sing	1	flat	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	cop	_	lemma_gml=wēsen
+5	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	expl	_	lemma_gml=dê,dê,dat
+6	wår	wår	ADJ	_	Degree=Pos	0	root	_	lemma_gml=wâr|SpaceAfter=No
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	dat	dat	SCONJ	_	_	14	mark	_	lemma_gml=dat
+9	See	see	PRON	_	Case=Nom|Number=Plur,Sing|Person=2,3|Polite=Form|PronType=Prs	14	nsubj	_	lemma_gml=sê
+10	al	al	ADV	_	_	14	advmod	_	lemma_gml=al
+11	veer	veer	NUM	_	NumType=Card	12	nummod	_	lemma_gml=vêr
+12	manslüde	man	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	lemma_gml=man
+13	doud	doud	ADJ	_	Degree=Pos	14	xcomp	_	lemma_gml=dôt
+14	hebbet	hebben	VERB	_	Mood=Ind|Number=Plur,Sing|Person=2,3|Polite=Form|Tense=Pres	6	csubj	_	lemma_gml=hebben|SpaceAfter=No
+15	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	600	600	NUM	_	NumType=Card	2	nummod	_	_
 2	Brugser	brugs	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	5	nsubj	_	_
 3	har	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-4	ikke	ikke	ADV	_	_	5	advmod	_	_
+4	ikke	ikke	ADV	Polarity=Neg	_	5	advmod	_	_
 5	fået	få	VERB	_	Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	lov	lov	NOUN	_	_	5	obj	_	_
 7	at	at	PART	_	PartType=Inf	8	mark	_	_

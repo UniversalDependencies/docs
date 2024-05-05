@@ -37,7 +37,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 12	quod	qui	PRON	presna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	15	obj	_	_
 13	ex	ex	ADP	e	_	14	case	_	_
 14	illa	ille	DET	ddisfb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	15	obl	_	_
-15	inferre	infero	VERB	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	inferre	infero	VERB	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	conantur	conor	VERB	vd1ipp3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	ccomp:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	interimo	interimo	VERB	va3ips1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 18	.	.	PUNCT	Pu	_	9	punct	_	_
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 5	genus	genus	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	8	nsubj:pass	_	_
 6	per	per	ADP	e	_	7	case	_	_
 7	unum	unus	DET	aunsa	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	8	obl:arg	_	_
-8	regi	rego	VERB	vp3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	2	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	regi	rego	VERB	vp3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	2	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	quam	quam	SCONJ	c	PronType=Rel	11	mark	_	_
 10	per	per	ADP	e	_	11	case	_	_
 11	plura	multus	DET	anp1ac	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur|NumType=Card|PronType=Ind	2	obl:cmp	_	SpaceAfter=No
@@ -114,7 +114,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 15	quia	quia	SCONJ	cs	PronType=Rel	17	mark	_	_
 16	nil	nihil	PRON	dinsna	Polarity=Neg|PronType=Ind	17	nsubj	_	_
 17	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-18	efficere	efficio	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	17	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+18	efficere	efficio	VERB	va3fp	Aspect=Imp|InflClass=LatI2|VerbForm=Inf|Voice=Act	17	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 19	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	18	ccomp:relcl	_	_
 20	non	non	PART	r	Polarity=Neg	19	advmod:neg	_	_
 21	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens

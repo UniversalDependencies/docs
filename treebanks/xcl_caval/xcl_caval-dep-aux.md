@@ -7,122 +7,94 @@ udver: '2'
 ## Treebank Statistics: UD_Classical_Armenian-CAVaL: Relations: `aux`
 
 This relation is universal.
+There are 1 language-specific subtypes of `aux`: <tt><a href="xcl_caval-dep-aux-caus.html">aux:caus</a></tt>.
 
-71 nodes (1%) are attached to their parents as `aux`.
+410 nodes (1%) are attached to their parents as `aux`.
 
-60 instances of `aux` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28169014084507.
+313 instances of `aux` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31463414634146.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (68; 96% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 aux	color:blue
-1	Եւ	եւ	CCONJ	_	_	2	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ēr|LTranslit=em|Gloss=be
-3	ժողով	ժողովուրդ	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=žołov|LTranslit=žołovowrd|Gloss=people
-4	բազում	բազում	DET	_	Case=Nom|Number=Sing|PronType=Tot	3	det	_	Translit=bazowm|LTranslit=bazowm|Gloss=many
-5	մաքսաւորաց	մաքսաւոր	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	SpaceAfter=No|Translit=makʻsaworacʻ|LTranslit=makʻsawor|Gloss=publican
-6	՝	՝	PUNCT	_	_	8	punct	_	Translit=;|LTranslit=;
-7	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-8	այլոց	այլ	ADJ	_	Case=Gen|Number=Plur	5	conj	_	Translit=aylocʻ|LTranslit=ayl|LId=այլ-1|Gloss=another
-9	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	11	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
-10	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	aux	_	Translit=ein|LTranslit=em|Gloss=be
-11	բազմեալ	բազմիմ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	8	acl	_	Translit=bazmeal|LTranslit=bazmim|Gloss=sit
-12	ընդ	ընդ	ADP	_	_	13	case	_	Translit=ənd|LTranslit=ənd|LId=ընդ-1|Gloss=with/during/for
-13	նոսա	նա	PRON	_	Case=Loc|Number=Plur|PronType=Dem	11	obl	_	SpaceAfter=No|Translit=nosa|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-14	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (402; 98% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 aux	color:blue
-1	Վայ	վայ	INTJ	_	_	0	root	_	Translit=Vay|LTranslit=vay|Gloss=woe
-2	քեզ	դու	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	iobj	_	Translit=kʻez|LTranslit=dow|Gloss=you_(sg.)
-3	Քորազին	Քորազին	PROPN	_	Case=Nom|Number=Sing	2	appos	_	SpaceAfter=No|Translit=Kʻorazin|LTranslit=Kʻorazin|Gloss=Kʻorazin
-4	՝	՝	PUNCT	_	_	1	punct	_	Translit=;|LTranslit=;
-5	վայ	վայ	INTJ	_	_	1	conj	_	Translit=vay|LTranslit=vay|Gloss=woe
-6	քեզ	դու	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	5	iobj	_	Translit=kʻez|LTranslit=dow|Gloss=you_(sg.)
-7	Բէթսայիդա	Բէթսայիդա	PROPN	_	Case=Nom|Number=Sing	6	appos	_	SpaceAfter=No|Translit=Bētʻsayida|LTranslit=Bētʻsayida|Gloss=Bētʻsayida
-8	՝	՝	PUNCT	_	_	5	punct	_	Translit=;|LTranslit=;
-9	զի	զի	SCONJ	_	_	33	mark	_	Translit=zi|LTranslit=zi|LId=զի-1|Gloss=because
-10	եթե	եթե	SCONJ	_	_	16	mark	_	Translit=etʻe|LTranslit=etʻē|LId=եթե-1|Gloss=whether
-11	ի	ի	ADP	_	_	12	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-12	Տիւրոս	Տիւրոս	PROPN	_	Case=Loc|Number=Sing	16	obl	_	Translit=Tiwros|LTranslit=Tiwros|Gloss=Tiwros
-13	եւ	եւ	CCONJ	_	_	15	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-14	ի	ի	ADP	_	_	15	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-15	Սիդովն	Սիդովն	PROPN	_	Case=Loc|Number=Sing	12	conj	_	Translit=Sidovn|LTranslit=Sidovn|Gloss=Sidon
-16	եղեալ	լինիմ	AUX	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	33	advcl	_	Translit=ełeal|LTranslit=linim|Gloss=be
-17	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	Translit=ein|LTranslit=em|Gloss=be
-18	զաւրութիւնք	զաւրութիւն	NOUN	_	Case=Nom|Number=Plur	16	nsubj	_	SpaceAfter=No|Translit=zawrowtʻiwnkʻ|LTranslit=zawrowtʻiwn|Gloss=power
-19	ն	ն	DET	_	Definite=Def|PronType=Dem	18	det	_	Translit=n|LTranslit=n|Gloss=that
-20	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	21	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
-21	եղեն	լինիմ	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	18	acl	_	Translit=ełen|LTranslit=linim|Gloss=be
-22	ի	ի	ADP	_	_	23	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-23	ձեզ	դուք	PRON	_	Case=Loc|Number=Plur|Person=2|PronType=Prs	21	obl	_	SpaceAfter=No|Translit=jez|LTranslit=dowkʻ|Gloss=you_(pl)
-24	՝	՝	PUNCT	_	_	16	punct	_	Translit=;|LTranslit=;
-25	վաղուց	վաղուց	ADV	_	_	33	advmod	_	Translit=vałowcʻ|LTranslit=vałowcʻ|Gloss=early
-26	եւս	եւս	ADV	_	_	33	advmod	_	Translit=ews|LTranslit=ews|Gloss=again
-27	արդեւք	արդեւք	ADV	_	_	33	advmod	_	Translit=ardewkʻ|LTranslit=ardewkʻ|Gloss=perhaps
-28	ի	ի	ADP	_	_	29	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-29	խորգ	խորգ	NOUN	_	Case=Loc|Number=Sing	33	obl	_	Translit=xorg|LTranslit=xorg|Gloss=sack-cloth
-30	եւ	եւ	CCONJ	_	_	32	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-31	ի	ի	ADP	_	_	32	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-32	մոխիր	մոխիր	NOUN	_	Case=Loc|Number=Sing	29	obl	_	Translit=moxir|LTranslit=moxir|Gloss=ash
-33	նստեալ	նստիմ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	Translit=nsteal|LTranslit=nstim|Gloss=sit
-34	եւ	եւ	CCONJ	_	_	35	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-35	ապաշխարեալ	ապաշխարեմ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	33	conj	_	Translit=apašxareal|LTranslit=apašxarem|Gloss=do_penance
-36	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	aux	_	SpaceAfter=No|Translit=ēr|LTranslit=em|Gloss=be
-37	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 8 aux	color:blue
-1	Իսկ	իսկ	PART	_	_	13	discourse	_	Translit=Isk|LTranslit=isk|Gloss=but
-2	Պետրոս	Պետրոս	PROPN	_	Case=Nom|Number=Sing	13	nsubj	_	Translit=Petros|LTranslit=Petros|Gloss=Petros
-3	եւ	եւ	CCONJ	_	_	6	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-4	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	6	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
-5	ընդ	ընդ	ADP	_	_	6	case	_	Translit=ənd|LTranslit=ənd|LId=ընդ-1|Gloss=with/during/for
-6	նըմայ	նա	PRON	_	Case=Loc|Number=Sing|PronType=Dem	2	conj	_	SpaceAfter=No|Translit=nəmay|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-7	ն	ն	DET	_	Definite=Def|PronType=Dem	6	det	_	Translit=n|LTranslit=n|Gloss=that
-8	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	Translit=ein|LTranslit=em|Gloss=be
-9	ծանրացեալք	ծանրանամ	VERB	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	Translit=canracʻealkʻ|LTranslit=canranam|Gloss=weigh_down
-10	ի	ի	ADP	_	_	11	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-11	քնոյ	քուն	NOUN	_	Case=Abl|Number=Sing	9	obl	_	SpaceAfter=No|Translit=kʻnoy|LTranslit=kʻown|Gloss=sleep
-12	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
-13	զարթեան	զարթնում	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=zartʻean|LTranslit=zartʻnowm|Gloss=awaken
-14	՝	՝	PUNCT	_	_	15	punct	_	Translit=;|LTranslit=;
-15	տեսին	տեսանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	Translit=tesin|LTranslit=tesanem|Gloss=see
-16	զ	զ	DET	_	Definite=Def	17	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-17	փառս	փառք	NOUN	_	Case=Acc|Number=Plur	15	obj	_	SpaceAfter=No|Translit=pʻaṙs|LTranslit=pʻaṙkʻ|Gloss=glory
-18	ն	ն	DET	_	Definite=Def|PronType=Dem	17	det	_	Translit=n|LTranslit=n|Gloss=that
-19	նորա	նա	PRON	_	Case=Gen|Number=Sing|PronType=Dem	17	nmod	_	SpaceAfter=No|Translit=nora|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-20	.	.	PUNCT	_	_	24	punct	_	Translit=:|LTranslit=:
-21	եւ	եւ	CCONJ	_	_	24	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-22	զ	զ	DET	_	Definite=Def	24	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-23	երկուս	երկու	NUM	_	Case=Acc|Number=Plur|NumType=Card	24	nummod	_	Translit=erkows|LTranslit=erkow|Gloss=two
-24	արս	այր	NOUN	_	Case=Acc|Number=Plur	17	conj	_	SpaceAfter=No|Translit=ars|LTranslit=ayr|LId=այր-1|Gloss=man
-25	ն	ն	DET	_	Definite=Def|PronType=Dem	24	det	_	Translit=n|LTranslit=n|Gloss=that
-26	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	27	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
-27	կային	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	24	acl	_	Translit=kayin|LTranslit=kam|LId=կամ-1|Gloss=stand
-28	առ	առ	ADP	_	_	29	case	_	Translit=aṙ|LTranslit=aṙ|LId=առ-1|Gloss=by
-29	նմա	նա	PRON	_	Case=Loc|Number=Sing|PronType=Dem	27	obl	_	SpaceAfter=No|Translit=nma|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-30	:	:	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 aux	color:blue
+1	Երանի	երանի	ADJ	_	Case=Nom|Number=Sing	0	root	_	Translit=Erani|LTranslit=erani|Gloss=blessed
+2	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	3	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
+3	քաղցեալ	քաղցնում	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	1	advcl	_	Translit=kʻałcʻeal|LTranslit=kʻałcʻnowm|Gloss=be_hungry
+4	եւ	եւ	CCONJ	_	_	5	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+5	ծարաւի	ծարաւի	ADJ	_	Case=Nom|Number=Sing	3	conj	_	Translit=carawi|LTranslit=carawi|Gloss=thirsty
+6	իցեն	եմ	AUX	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	3	aux	_	Translit=icʻen|LTranslit=em|Gloss=be
+7	արդարութեան	արդարութիւն	NOUN	_	Case=Gen|Number=Sing	3	conj	_	SpaceAfter=No|Translit=ardarowtʻean|LTranslit=ardarowtʻiwn|Gloss=justice
+8	.	.	PUNCT	_	_	11	punct	_	Translit=:|LTranslit=:
+9	զի	զի	SCONJ	_	_	11	mark	_	Translit=zi|LTranslit=zi|LId=զի-1|Gloss=because
+10	նոքա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Plur|PronType=Dem	11	nsubj	_	Translit=nokʻa|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
+11	յագեսցին	յագիմ	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|VerbForm=Fin|Voice=Pass	1	advcl	_	SpaceAfter=No|Translit=yagescʻin|LTranslit=yagim|Gloss=be_satisfied
+12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 aux	color:blue
+1	եւ	եւ	CCONJ	_	_	4	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+2	նա	նա	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	4	nsubj	_	Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
+3	երթեալ	երթամ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	Translit=ertʻeal|LTranslit=ertʻam|Gloss=go
+4	պատմեաց	պատմեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=patmeacʻ|LTranslit=patmem|Gloss=tell
+5	այնոցիկ	այն	DET	_	Case=Dat|Deixis=Remt|Number=Plur|PronType=Dem	4	iobj	_	Translit=aynocʻik|LTranslit=ayn|LId=այն-1|Gloss=that
+6	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	10	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
+7	ընդ	ընդ	ADP	_	_	8	case	_	Translit=ənd|LTranslit=ənd|LId=ընդ-1|Gloss=with/during/for
+8	նմայ	նա	PRON	_	Case=Loc|Deixis=Remt|Number=Sing|PronType=Dem	10	obl	_	SpaceAfter=No|Translit=nmay|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
+9	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Dem	8	det	_	Translit=n|LTranslit=n|Gloss=that
+10	լիեալ	լինիմ	AUX	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	5	acl	_	Translit=lieal|LTranslit=linim|Gloss=be
+11	եին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	SpaceAfter=No|Translit=ein|LTranslit=em|Gloss=be
+12	՝	՝	PUNCT	_	_	14	punct	_	Translit=;|LTranslit=;
+13	մինչդեռ	մինչդեռ	SCONJ	_	_	14	mark	_	Translit=minčʻdeṙ|LTranslit=minčʻdeṙ|Gloss=while
+14	լային	լամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	Translit=layin|LTranslit=lam|Gloss=cry
+15	եւ	եւ	CCONJ	_	_	16	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+16	սգային	սգամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	SpaceAfter=No|Translit=sgayin|LTranslit=sgam|Gloss=mourn
+17	՝	՝	PUNCT	_	_	4	punct	_	Translit=;|LTranslit=;
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 aux	color:blue
+1	եւ	եւ	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+2	թե	թե	SCONJ	_	_	3	mark	_	Translit=tʻe|LTranslit=tʻe|LId=թե-1|Gloss=whether
+3	սիրեիք	սիրեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	7	acl	_	Translit=sireikʻ|LTranslit=sirem|Gloss=love
+4	զ	զ	ADP	_	Definite=Def	5	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+5	իս	ես	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Translit=is|LTranslit=es|Gloss=I
+6	ապա	ապա	ADV	_	_	7	advmod	_	Translit=apa|LTranslit=apa|Gloss=then
+7	ուրախ	ուրախ	ADJ	_	Case=Nom|Number=Sing	0	root	_	Translit=owrax|LTranslit=owrax|Gloss=glad
+8	լիեալ	լինիմ	AUX	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	7	cop	_	Translit=lieal|LTranslit=linim|Gloss=be
+9	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	Translit=ēr|LTranslit=em|Gloss=be
+10	ձեր	դուք	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	conj	_	Translit=jer|LTranslit=dowkʻ|Gloss=you_(pl)
+11	թե	թե	SCONJ	_	_	15	mark	_	Translit=tʻe|LTranslit=tʻe|LId=թե-1|Gloss=whether
+12	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Translit=es|LTranslit=es|Gloss=I
+13	առ	առ	ADP	_	_	14	case	_	Translit=aṙ|LTranslit=aṙ|LId=առ-1|Gloss=by
+14	հայր	հայր	NOUN	_	Case=Acc|Number=Sing	15	obl	_	Translit=hayr|LTranslit=hayr|Gloss=father
+15	երթամ	երթամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	_	Translit=ertʻam|LTranslit=ertʻam|Gloss=go
+16	զի	զի	SCONJ	_	_	19	mark	_	Translit=zi|LTranslit=zi|LId=զի-1|Gloss=because
+17	հայր	հայր	NOUN	_	Case=Nom|Number=Sing	19	nsubj	_	Translit=hayr|LTranslit=hayr|Gloss=father
+18	իմ	ես	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	nmod	_	Translit=im|LTranslit=es|Gloss=I
+19	մեծ	մեծ	ADJ	_	Case=Nom|Number=Sing	7	advcl	_	Translit=mec|LTranslit=mec|Gloss=great
+20	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	Translit=ē|LTranslit=em|Gloss=be
+21	քան	քան	ADP	_	_	23	case	_	Translit=kʻan|LTranslit=kʻan|LId=քան-1|Gloss=than
+22	զ	զ	ADP	_	Definite=Def	23	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+23	իս	ես	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	19	obl	_	Translit=is|LTranslit=es|Gloss=I
 
 ~~~
 

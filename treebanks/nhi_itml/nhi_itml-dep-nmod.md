@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-292 nodes (3%) are attached to their parents as `nmod`.
+296 nodes (3%) are attached to their parents as `nmod`.
 
-271 instances of `nmod` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.89383561643836.
+271 instances of `nmod` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.88175675675676.
 
-The following 18 pairs of parts of speech are connected with `nmod`: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (214; 73% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (21; 7% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (14; 5% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `nmod`: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (218; 74% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (21; 7% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (14; 5% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,13 +24,13 @@ The following 18 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2 4 nmod	color:blue
 1	Nikah	nikah	ADV	_	_	2	advmod	2:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
 2	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	7	obl	7:obl	NormalizedForm=itich|NormalizedLemma=tich
-3	n	n	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=n
-4	pueblo	pueblo	NOUN	_	Foreign=Yes|Number=Sing	2	nmod	2:nmod	SpaceAfter=No|NormalizedForm=pueblo|NormalizedLemma=pueblo
+3	n	in	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=n
+4	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	2	nmod	2:nmod	SpaceAfter=No|NormalizedForm=pueblo|NormalizedLemma=pueblo
 5	,	,	PUNCT	_	_	2	punct	2:punct	NormalizedForm=,|NormalizedLemma=,
 6	mikeh	miak	PRON	_	_	7	det	7:det	NormalizedForm=mikeh|NormalizedLemma=miak
-7	timanimaroa	animaroa	VERB	_	Number[subj]=Plur|Person[subj]=1|Reflex=Yes|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=timanimaroa|NormalizedLemma=animaroa
+7	timanimaroa	animaroa	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Reflex=Yes|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=timanimaroa|NormalizedLemma=animaroa
 8	para	para	SCONJ	_	_	9	mark	9:mark	NormalizedForm=para|NormalizedLemma=para
-9	tiyaskeh	yowi	VERB	_	Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Fut	7	advcl	7:advcl	NormalizedForm=tiyaskeh|NormalizedLemma=yowi
+9	tiyaskeh	yowi	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Fut|VerbForm=Fin	7	advcl	7:advcl	NormalizedForm=tiyaskeh|NormalizedLemma=yowi
 10	canadá	canada	PROPN	_	_	9	obl	9:obl	SpaceAfter=No|NormalizedForm=canadá|NormalizedLemma=canada
 11	.	.	PUNCT	_	_	7	punct	7:punct	NormalizedForm=.|NormalizedLemma=.
 
@@ -58,7 +58,7 @@ The following 18 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 4 nmod	color:blue
 1	Iwah	wah	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Plur|Person[psor]=3	2	obl	2:obl	Orig=Īwah|Gloss=3SG.P-with|Morf=ı̄-wān|NormalizedForm=iwah|NormalizedLemma=wah
-2	tiyas	yuwi	VERB	_	Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Fut	0	root	0:root	Orig=tiyās|Gloss=2SG.S-go-FUT|Morf=ti-yā-s|NormalizedForm=tiyas|NormalizedLemma=yuwi
+2	tiyas	yuwi	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Fut|VerbForm=Fin	0	root	0:root	Orig=tiyās|Gloss=2SG.S-go-FUT|Morf=ti-yā-s|NormalizedForm=tiyas|NormalizedLemma=yuwi
 3	n	in	DET	_	_	4	det	4:det	Orig=n|Gloss=DEF|Morf=n|NormalizedForm=n|NormalizedLemma=in
 4	Luis	Luis	PROPN	_	_	1	nmod	1:nmod	Gloss=Luis|Morf=LUIS|Orig=Lwı̄s|SpaceAfter=No|NormalizedForm=lwis|NormalizedLemma=lwis
 5	?	?	PUNCT	_	_	2	punct	2:punct	Orig=?|Gloss=?|Morf=?|NormalizedForm=?|NormalizedLemma=?

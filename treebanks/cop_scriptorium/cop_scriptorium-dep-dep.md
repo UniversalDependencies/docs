@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 3	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
 5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	Orig=ⲙ̇ⲙⲟ
-6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 7	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=·
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	11	mark	_	_
 9	ⲉ	ⲉⲣⲉ	PART	CFOC	_	11	mark	_	_
@@ -35,7 +35,7 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 11	ⲟⲩⲱϣ	ⲟⲩⲱϣ	VERB	V	VerbForm=Fin	4	ccomp	_	_
 12	ⲉ	ⲉ	PART	PREP	_	13	mark	_	Orig=ⲉ̇
 13	ⲧⲟⲩϫⲉ	ⲧⲟⲩϫⲟ	VERB	V	VerbForm=Inf	11	xcomp	_	_
-14	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	Entity=(abstract
+14	ⲧⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	Entity=(abstract
 15	ⲯⲩⲭⲏ	ⲯⲩⲭⲏ	NOUN	N	Foreign=Yes	13	obj	_	Entity=abstract)|OrigLang=grc
 16	.	.	PUNCT	PUNCT	_	4	punct	_	Orig=ⲻ
 
@@ -54,7 +54,7 @@ The following 7 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	·	·	PUNCT	PUNCT	_	8	punct	_	_
 5	ⲉ[.....]	UNKNOWN	X	UNKNOWN	_	8	dep	_	Orig=ⲉ̣[.....]
 6	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	8	case	_	Orig=ⲛ̄ⲥⲁ
-7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	Entity=(abstract
+7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	Entity=(abstract
 8	[.....]	[.....]	NOUN	N	_	2	parataxis	_	Entity=abstract)
 
 ~~~

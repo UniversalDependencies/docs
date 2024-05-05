@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="yrl_complin-dep-advcl.html">advcl</a></tt>.
 
-20 nodes (0%) are attached to their parents as `advcl:relcl`.
+21 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-20 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.05.
+21 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (16; 80% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (16; 76% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -62,10 +62,10 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
 2	upitá	pitá	VERB	V	Person=3|VerbForm=Fin	0	root	_	_
 3	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	2	aux	_	_
-4	mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	2	advmod	_	TokenRange=17:21
-5	puranga	puranga	ADJ	A	_	4	advcl:relcl	_	TokenRange=22:29
-6	waá	waá	PRON	REL	Number=Sing|PronType=Rel	5	nsubj	_	SpaceAfter=No|TokenRange=30:33
-7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=33:34
+4	mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	2	advmod	_	TokenRange=16:20
+5	puranga	puranga	ADJ	A	_	4	advcl:relcl	_	TokenRange=21:28
+6	waá	waá	PRON	REL	Number=Sing|PronType=Rel	5	nsubj	_	SpaceAfter=No|TokenRange=29:32
+7	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=32:33
 
 ~~~
 

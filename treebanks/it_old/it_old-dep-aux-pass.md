@@ -8,28 +8,36 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_old-dep-aux.html">aux</a></tt>.
 
-135 nodes (0%) are attached to their parents as `aux:pass`.
+276 nodes (0%) are attached to their parents as `aux:pass`.
 
-126 instances of `aux:pass` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.62222222222222.
+246 instances of `aux:pass` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.7463768115942.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (134; 99% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (275; 100% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 aux:pass	color:blue
-1	Indi	indi	ADV	b	_	7	advmod:lmod	_	Canto=19|Verso=133
-2	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Canto=19|Verso=133
-3	altro	altro	DET	pi	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	Canto=19|Verso=133
-4	vallon	vallone	NOUN	sm3ms	Gender=Masc|Number=Sing	7	nsubj:pass	_	Canto=19|Verso=133
-5	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	Canto=19|Verso=133
-6	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	Canto=19|Verso=133
-7	scoperto	scoprire	VERB	vta3pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Canto=19|SpaceAfter=No|Verso=133
-8	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 aux:pass	color:blue
+1	Per	per	ADP	epskr	_	3	case	_	Canto=33|Verso=118
+2	cotal	cotale	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	Canto=33|Verso=118
+3	priego	prego	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl	_	Canto=33|Verso=118
+4	detto	dire	VERB	vtp*3irs3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Canto=33|Verso=118
+5	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	4	iobj	_	Canto=33|Verso=118
+6	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	Canto=33|SpaceAfter=No|Verso=118
+7	:	:	PUNCT	_	_	9	punct	_	_
+8	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Priega	pregare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp:reported	_	Canto=33|Verso=118
+10	Matelda	Matelda	PROPN	np	_	9	obj	_	Canto=33|Verso=119
+11	che	che	SCONJ	cssb	_	14	mark	_	Canto=33|Verso=119
+12	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	Canto=33|Verso=119
+13	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	14	iobj	_	Canto=33|Verso=119
+14	dica	dire	VERB	vta3cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	Canto=33|SpaceAfter=No|Verso=119
+15	»	»	PUNCT	_	_	9	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
@@ -81,7 +89,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 39	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Canto=13|Verso=38
 40	tua	tuo	DET	as1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	41	det:poss	_	Canto=13|Verso=38
 41	man	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	43	nsubj	_	Canto=13|Verso=38
-42	più	più	ADV	b	Degree=Cmp	43	advmod	_	Canto=13|Verso=38
+42	più	più	ADV	b	_	43	advmod	_	Canto=13|Verso=38
 43	pia	pio	ADJ	a1fsc+	Gender=Fem|Number=Sing	17	parataxis	_	Canto=13|SpaceAfter=No|Verso=38
 44	,	,	PUNCT	_	_	48	punct	_	_
 45	se	se	SCONJ	cssv	_	48	mark	_	Canto=13|Verso=39

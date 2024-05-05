@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="es_pud-dep-cc.html"
 12 nodes (0%) are attached to their parents as `cc:preconj`.
 
 12 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16666666666667.
+Average distance between parent and child is 2.08333333333333.
 
-The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (5; 42% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 25% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 17% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (5; 42% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 25% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 17% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -27,11 +27,11 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 3	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 4	como	como	ADP	IN	_	6	cc	_	_
 5	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
-6	expediciones	_	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
+6	expediciones	expedición	NOUN	NN	Gender=Fem|Number=Plur	3	conj	_	_
 7	a	a	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	isla	isla	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
-10	continúan	_	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	continúan	continuar	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
@@ -44,18 +44,18 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 7 cc:preconj	color:blue
 1	Nicolai	Nicolai	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	colabora	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	colabora	colaborar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	IN	_	5	case	_	_
-4	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
-5	pistas	_	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
-6	cinematográficas	_	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
+4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
+5	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
+6	cinematográficas	cinematográfico	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
 7	tanto	tanto	ADV	RB	_	9	cc:preconj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 10	como	como	ADP	IN	_	11	cc	_	_
 11	Metti	Metti	PROPN	NNP	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
-13	juntos	_	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
+13	juntos	junto	ADJ	JJ	Gender=Masc|Number=Plur	9	amod	_	_
 14	en	en	ADP	IN	_	16	case	_	_
 15	una	uno	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	noche	noche	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	_
@@ -63,11 +63,11 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 18	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	cena	cena	NOUN	NN	Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 20	;	;	PUNCT	:	_	23	punct	_	_
-21	algunas	_	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
+21	algunas	alguno	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
-23	escritas	_	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
+23	escritas	escribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
-25	ambos	_	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
+25	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -89,7 +89,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 8	de	de	ADP	IN	_	9	case	_	_
 9	pago	pago	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
 10	anticipado	anticipado	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
-11	cara	_	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
+11	cara	caro	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
 12	?	?	PUNCT	.	_	5	punct	_	_
 
 ~~~

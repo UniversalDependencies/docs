@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 7	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	Lem=be|Len=2
 8	_	_	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(3-abstract-new-cf5-3-sgl|Lem=_|Len=3
 9	_	_	ADJ	JJS	Degree=Sup	10	amod	10:amod	Lem=weird|Len=8|MSeg=weird-est
-10	_	_	NOUN	NN	Number=Sing	0	root	0:root	Cxn=Interrogative-Wh|Lem=_|Len=5
+10	_	_	NOUN	NN	Number=Sing	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|Lem=_|Len=5
 11	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	13	nsubj	13:nsubj	Discourse=elaboration-attribute:2->1:0:syn-mdf-10+syn-relcl-13|Entity=(1-person-giv:act-cf1-1-ana)|Lem=_|Len=3
 12	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	aux	13:aux	Lem=have|Len=3
 13	_	_	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	10:acl:relcl	Lem=see|Len=4|MSeg=see-n
@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	aux	6:aux	Lem=_|Len=2
 4	_	_	PART	RB	Polarity=Neg	6	advmod	6:advmod	Lem=not|Len=3
 5	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(78-organization-acc:com-cf2-1-ana)|Lem=_|Len=3
-6	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Wh|Lem=_|Len=4
+6	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|Lem=_|Len=4
 7	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	6:obj	Entity=(76-abstract-giv:act-cf1*-1-ana)|Lem=_|Len=2
 8	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	10	discourse	10:discourse	Discourse=evaluation-comment:70->69:0:lex-indwd-450|Entity=(78-organization-giv:act-cf2-3-coref|Lem=_|Len=3
 9	_	_	ADJ	JJ	Degree=Pos	10	amod	10:amod	Lem=_|Len=5

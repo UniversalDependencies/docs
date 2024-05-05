@@ -61,7 +61,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	председатёлькс	председатель	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	advcl	_	GTtags=SP,Tra,Indef
 5	аравтызь	аравтомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3
 6	Иванонь	Иван	PROPN	N	Animacy=Hum|Case=Gen|Definite=Ind|NameType=Giv|Number=Plur,Sing	5	obl	_	GTtags=Prop,Ant_Mal,SP,Gen,Indef
-7	таркас	таркас	ADP	Adp	AdvType=Loc|Case=Ill	6	case	_	GTtags=Spat,Ill|SpaceAfter=No
+7	таркас	таркас	ADP	Po	AdpType=Post|AdvType=Loc|Case=Ill	6	case	_	GTtags=Spat,Ill|SpaceAfter=No
 8	?	?	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

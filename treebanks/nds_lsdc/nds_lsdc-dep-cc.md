@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-208 nodes (4%) are attached to their parents as `cc`.
+986 nodes (4%) are attached to their parents as `cc`.
 
-208 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.36538461538462.
+985 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.58215010141988.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (131; 63% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (34; 16% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (20; 10% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (625; 63% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (173; 18% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (75; 8% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (28; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (28; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (27; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,16 +23,16 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê¹
-2	vorwündert	vorwunderen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	lemma_gml=vorwunderen
+2	vorwündert	vorwunderen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=vorwunderen
 3	sik	sik	PRON	_	Case=Acc,Dat|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	lemma_gml=sik¹
 4	un	un	CCONJ	_	_	5	cc	_	lemma_gml=unde²
-5	vrågt	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	lemma_gml=vrâgen
+5	vrågt	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=vrâgen
 6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê¹
 7	waerd	waerd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	iobj	_	lemma_gml=wērt¹|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	hwat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	11	obj	_	lemma_gml=wat(te)³
 10	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	lemma_gml=dat
-11	bedüdde	bedüden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	lemma_gml=bedü̂den|SpaceAfter=No
+11	bedüdde	bedüden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	ccomp	_	lemma_gml=bedü̂den|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

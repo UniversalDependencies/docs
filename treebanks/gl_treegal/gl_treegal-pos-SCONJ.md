@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="gl_treegal-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.372032).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.384861).
 
 The 1st highest number of forms (1) was observed with the lemma “ca”: <em>ca</em>.
 
@@ -53,7 +53,7 @@ The 3rd highest number of forms (1) was observed with the lemma “como”: <em>
 
 `SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (422; 75% instances), <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (74; 13% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (37; 7% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (32; 6% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (381; 67% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (77; 14% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (34; 6% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (30; 5% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (381; 67% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (81; 14% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (34; 6% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (30; 5% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (9; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 560 (99%) `SCONJ` nodes are leaves.
 

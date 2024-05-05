@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-5 tokens (0%) have a non-empty value of `Poss`.
-5 types (1%) occur at least once with a non-empty value of `Poss`.
-4 lemmas (1%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (1; 0% instances).
+24 tokens (0%) have a non-empty value of `Poss`.
+16 types (1%) occur at least once with a non-empty value of `Poss`.
+11 lemmas (1%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 2 part-of-speech tags: <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `NOUN` and `Poss` co-occurred: <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (3; 75%).
+23 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Poss`.
 
 `NOUN` tokens may have the following values of `Poss`:
 
-* `Yes` (4; 100% of non-empty `Poss`): <em>ako, eno, okoge, tuge</em>
-* `EMPTY` (460): <em>boe, karo, pobo, Deu, baru, imedu, imedy, adugo, kuru, boere</em>
+* `Yes` (23; 100% of non-empty `Poss`): <em>jorybo, erybo, biri, Jorubo, akemore, batary, erybore, o, ako, eno</em>
+* `EMPTY` (1804): <em>boe, kuiada, karo, pobo, imedy, aroe, bai, baru, areme, iere</em>
+
+`Poss` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Poss`.
 
 ### `X`
 
@@ -34,5 +34,10 @@ The most frequent other feature values with which `X` and `Poss` co-occurred: <t
 `X` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>ceno</em>
-* `EMPTY` (70): <em>du, dy, jiboe, br, nure, ure, emode, amode, dykeje, jity</em>
+* `EMPTY` (159): <em>dyji, hm, kui, dy, karega, jiboe, Kao, br, nure, ure</em>
+
+## Relations with Agreement in `Poss`
+
+The 10 most frequent relations where parent and child node agree in `Poss`:
+<tt>NOUN --[<tt><a href="bor_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 67%).
 

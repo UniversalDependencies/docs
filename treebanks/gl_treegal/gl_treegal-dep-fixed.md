@@ -56,7 +56,7 @@ The following 36 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 5 6 fixed	color:blue
 1	Como	como	ADV	Wr	PronType=Rel	2	advmod	_	_
 2	facía	facer	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	Picasso	Picasso	PROPN	Sp00	_	2	nsubj	_	SpaceAfter=No
+3	Picasso	picasso	PROPN	Sp00	_	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	Q,	_	2	punct	_	_
 5	aínda	aínda	ADV	Wn	_	7	mark	_	_
 6	que	que	SCONJ	Cs	_	5	fixed	_	_

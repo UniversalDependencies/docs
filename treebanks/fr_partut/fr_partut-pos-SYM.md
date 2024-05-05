@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.456181).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.455030).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -46,5 +46,5 @@ The highest child degree of a `SYM` node is 4.
 
 Children of `SYM` nodes are attached using 5 different relations: <tt><a href="fr_partut-dep-nummod.html">nummod</a></tt> (10; 43% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (6; 26% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (5; 22% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="fr_partut-dep-punct.html">punct</a></tt> (1; 4% instances)
 
-Children of `SYM` nodes belong to 6 different parts of speech: <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (10; 43% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (5; 22% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (5; 22% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 4% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 4% instances)
+Children of `SYM` nodes belong to 5 different parts of speech: <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (10; 43% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (6; 26% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (5; 22% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="fr_partut-pos-PUNCT.html">PUNCT</a></tt> (1; 4% instances)
 

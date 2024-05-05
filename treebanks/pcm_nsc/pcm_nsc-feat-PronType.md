@@ -50,7 +50,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (534; 100% of non-empty `PronType`): <em>how, where, why, when</em>
-* `EMPTY` (5625): <em>so, now, just, even, well, when, dere, den, still, very</em>
+* `EMPTY` (5626): <em>so, now, just, even, well, when, dere, den, still, very</em>
 
 ### `PART`
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 
 * `Dem` (1; 14% of non-empty `PronType`): <em>}</em>
 * `Prs` (6; 86% of non-empty `PronType`): <em>>+, [, de, {, ||, }</em>
-* `EMPTY` (40232): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40241): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 <table>
   <tr><th>Paradigm <i>}</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `AUX` and `PronType` co-occurr
 `AUX` tokens may have the following values of `PronType`:
 
 * `Prs` (4; 100% of non-empty `PronType`): <em>'m, Don, be</em>
-* `EMPTY` (13718): <em>dey, go, na, no, con, don, be, make, fit, come</em>
+* `EMPTY` (13720): <em>dey, go, na, no, con, don, be, make, fit, come</em>
 
 ### `SCONJ`
 

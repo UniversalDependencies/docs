@@ -22,9 +22,9 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 ccomp	color:blue
-1	Nikuilita	kuilita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=Nikwilita
+1	Nikuilita	kuilita	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Nikwilita
 2	ma	ma	AUX	_	_	3	aux	3:aux	NormalizedForm=ma
-3	nechtokaytikan	tokaitia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	1	ccomp	1:ccomp	NormalizedForm=nechtokaitikan
+3	nechtokaytikan	tokaitia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	1	ccomp	1:ccomp	NormalizedForm=nechtokaitikan
 4	Roberto	roberto	PROPN	_	_	3	obj	3:obj	NormalizedForm=Roberto|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 
@@ -37,7 +37,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 ccomp	color:blue
-1	Nikixejekoua	xejekohua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=Nikixehekowa
+1	Nikixejekoua	xejekohua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Nikixehekowa
 2	ne	ne	ADV	_	_	3	advmod	3:advmod	NormalizedForm=ne
 3	sesek	sesek	ADJ	_	Number[subj]=Sing|Person[subj]=3	1	ccomp	1:ccomp	NormalizedForm=sesek|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 4	ki...	ki	X	_	_	7	reparandum	7:reparandum	NormalizedForm=ki...|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,
 6	se	se	PRON	_	_	7	nsubj	7:nsubj	NormalizedForm=se
-7	kiita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kiita
+7	kiita	ita	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kiita
 8	ya	ya	ADV	_	_	11	mark	11:mark	NormalizedForm=ya
 9	que	que	SCONJ	_	_	8	fixed	8:fixed	NormalizedForm=que
 10	nochi	nochi	PRON	_	_	11	nsubj	11:nsubj	NormalizedForm=nochi

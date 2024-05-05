@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` lemmas: <em>Kina, USA, Storbritannien, Trump, Frank
 
 The 10 most frequent `PROPN` types:  <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, North, Medelhavet, Albanien</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 82, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Papua</em> (<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1), <em>El</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>New</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>del</em> (<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 113, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 83, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Papua</em> (<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1), <em>El</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>New</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>del</em> (<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 30, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 96, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 60, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 2), <em>Papua</em> (<tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1), <em>El</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Hans</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>New</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Nya</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Qing-dynastins</em> (<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Royal</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Segel</em> (<tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Tre</em> (<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sv_pud-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.041570 (the average of all parts of speech is 1.239021).
+The form / lemma ratio of `PROPN` is 1.041570 (the average of all parts of speech is 1.240849).
 
 The 1st highest number of forms (2) was observed with the lemma “Albanien”: <em>Albanien, Albaniens</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (2) was observed with the lemma “Amerika”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “Australien”: <em>Australien, Australiens</em>.
 
-`PROPN` occurs with 6 features: <tt><a href="sv_pud-feat-Case.html">Case</a></tt> (1203; 99% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (15; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (6; 0% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (5; 0% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (3; 0% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (3; 0% instances)
+`PROPN` occurs with 6 features: <tt><a href="sv_pud-feat-Case.html">Case</a></tt> (1201; 99% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (15; 1% instances), <tt><a href="sv_pud-feat-Abbr.html">Abbr</a></tt> (8; 1% instances), <tt><a href="sv_pud-feat-Foreign.html">Foreign</a></tt> (5; 0% instances), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (3; 0% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (3; 0% instances)
 
 `PROPN` occurs with 10 feature-value pairs: `Abbr=Yes`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Foreign=Yes`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 14 feature combinations.
-The most frequent feature combination is `Case=Nom` (1092 tokens).
+The most frequent feature combination is `Case=Nom` (1090 tokens).
 Examples: <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelhavet, Albanien, Donald</em>
 
 
@@ -74,7 +74,7 @@ Examples: <em>Kina, Storbritannien, Trump, USA, Frankrike, Hong, Italien, Medelh
 
 `PROPN` nodes are attached to their parents using 22 different relations: <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (258; 21% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (199; 16% instances), <tt><a href="sv_pud-dep-flat-name.html">flat:name</a></tt> (189; 16% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (178; 15% instances), <tt><a href="sv_pud-dep-nmod-poss.html">nmod:poss</a></tt> (94; 8% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (77; 6% instances), <tt><a href="sv_pud-dep-obj.html">obj</a></tt> (56; 5% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (37; 3% instances), <tt><a href="sv_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (34; 3% instances), <tt><a href="sv_pud-dep-appos.html">appos</a></tt> (33; 3% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (11; 1% instances), <tt><a href="sv_pud-dep-obl-agent.html">obl:agent</a></tt> (11; 1% instances), <tt><a href="sv_pud-dep-acl.html">acl</a></tt> (9; 1% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (7; 1% instances), <tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (476; 39% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (365; 30% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (307; 25% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (40; 3% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (9; 1% instances),  (7; 1% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (476; 39% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (365; 30% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (307; 25% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (41; 3% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (9; 1% instances),  (7; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 533 (44%) `PROPN` nodes are leaves.
 

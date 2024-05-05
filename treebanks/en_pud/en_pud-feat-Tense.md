@@ -11,19 +11,19 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 2199 tokens (10%) have a non-empty value of `Tense`.
 762 types (14%) occur at least once with a non-empty value of `Tense`.
-572 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1451; 7% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (747; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+568 lemmas (12%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (1450; 7% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (748; 4% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-1451 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
+1450 <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (871; 60%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (871; 60%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (870; 60%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (870; 60%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (1092; 75% of non-empty `Tense`): <em>said, used, took, began, had, became, made, allowed, released, told</em>
-* `Pres` (359; 25% of non-empty `Tense`): <em>has, are, is, says, have, include, makes, helps, say, seems</em>
+* `Pres` (358; 25% of non-empty `Tense`): <em>has, are, is, says, have, include, makes, helps, say, seems</em>
 * `EMPTY` (699): <em>have, according, take, do, following, go, including, keep, help, make</em>
 
 <table>
@@ -35,13 +35,13 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-747 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Tense`.
+748 <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> tokens (74% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (698; 93%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (698; 93%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (435; 58%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (433; 58%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="en_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (699; 93%), <tt><a href="en_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (699; 93%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (436; 58%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (434; 58%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (368; 49% of non-empty `Tense`): <em>was, were, had, been, did, got</em>
+* `Past` (369; 49% of non-empty `Tense`): <em>was, were, had, been, did, got</em>
 * `Pres` (379; 51% of non-empty `Tense`): <em>is, are, has, have, 's, do, ’s, does, am, ’m</em>
 * `EMPTY` (267): <em>be, would, will, can, could, being, have, may, having, might</em>
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>hit</em>
-* `EMPTY` (4035): <em>time, people, years, year, government, city, state, war, century, world</em>
+* `EMPTY` (4032): <em>time, people, years, year, government, city, state, century, world, day</em>
 
 ## Relations with Agreement in `Tense`
 

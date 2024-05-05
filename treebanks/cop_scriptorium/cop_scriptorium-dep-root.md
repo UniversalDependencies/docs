@@ -58,11 +58,11 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 7	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Entity=(object
 8	ϩⲏⲃⲥ	ϩⲏⲃⲥ	NOUN	N	_	5	ccomp	_	Orig=ϩⲏⲃ︤ⲥ︥
 9	ⲛ	ⲛ	ADP	PREP	_	11	case	_	Orig=ⲛ̄
-10	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	Entity=(object
+10	ⲛⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	Entity=(object
 11	ⲟⲩⲉⲣⲏⲧⲉ	ⲟⲩⲉⲣⲏⲧⲉ	NOUN	N	_	8	nmod	_	Entity=object)object)
 12	:	:	PUNCT	PUNCT	_	5	punct	_	_
 13	ⲉ	ⲉ	ADP	PREP	_	3	case	_	_
-14	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract
+14	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	Entity=(abstract
 15	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	5	obl	_	Entity=abstract)
 
 ~~~
@@ -82,7 +82,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 6	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
 7	ϩⲣⲁⲓ	ϩⲣⲁⲓ	ADV	ADV	_	5	advmod	_	Orig=ϩⲣⲁⲓ̈
 8	ϩⲙ	ϩⲛ	ADP	PREP	_	10	case	_	Orig=ϩ︤ⲙ︥
-9	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(substance
+9	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	Entity=(substance
 10	ⲥⲛⲟϥ	ⲥⲛⲟϥ	NOUN	N	_	5	obl	_	_
 11	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	12	mark	_	_
 12	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	10	acl:relcl	_	Entity=substance)person)

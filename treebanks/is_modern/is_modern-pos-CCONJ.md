@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>og</em> (<tt><a href="is_modern-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.734405).
+The form / lemma ratio of `CCONJ` is 1.250000 (the average of all parts of speech is 1.734760).
 
 The 1st highest number of forms (2) was observed with the lemma “og”: <em>o., og</em>.
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `ADJ`
 
 There are 25 `ADJ` lemmas (6%), 27 `ADJ` types (6%) and 34 `ADJ` tokens (3%).
-Out of 14 observed tags, the rank of `ADJ` is: 6 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 14 observed tags, the rank of `ADJ` is: 5 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>gwapa, taas, adis, ayo, bag-o, hawod, busog, buutan, dako, dali</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.080000 (the average of all parts of speech is 1.142523).
+The form / lemma ratio of `ADJ` is 1.080000 (the average of all parts of speech is 1.172662).
 
 The 1st highest number of forms (2) was observed with the lemma “gwapa”: <em>Guwapa, gwapa</em>.
 

@@ -23,7 +23,7 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
 1	Amo	amo	ADV	_	_	2	advmod	2:advmod	NormalizedForm=Amo
-2	moyekohua	ohhua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=moyekowa
+2	moyekohua	ohhua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=moyekowa
 3	ok	ok	ADV	_	_	2	advmod	2:advmod	NormalizedForm=ok|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
@@ -37,7 +37,7 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 8	fgColor:white
 # visual-style 8 7 advmod	color:blue
 1	Se	se	PRON	_	_	2	nsubj	2:nsubj	NormalizedForm=Se
-2	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kikwa
+2	kikua	kua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kikwa
 3	in	in	DET	_	_	4	det	4:det	NormalizedForm=in
 4	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	2	obj	2:obj	NormalizedForm=itakka|SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,

@@ -28,14 +28,14 @@ The following 1 pairs of parts of speech are connected with `det:predet`: <tt><a
 4	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	all	all	DET	RB	Degree=Pos|PronType=Tot	7	det:predet	7:det:predet	Entity=(135-abstract-new-cf3-3-sgl
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
-7	seeming	seeming	NOUN	NN	Number=Sing	4	obj	4:obj	_
+7	seeming	seeming	NOUN	NN	Number=Sing	4	obj	4:obj	MSeg=seem-ing
 8	of	of	ADP	IN	_	10	case	10:case	_
 9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(136-person-new-cf4-2-sgl
 10	demon	demon	NOUN	NN	Number=Sing	7	nmod	7:nmod:of|14:nsubj	_
 11	's	's	PART	POS	_	10	case	10:case	_
 12	that	that	PRON	WDT	PronType=Rel	14	nsubj	10:ref	Discourse=elaboration-attribute:203->202:0:_
 13	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	14:aux	_
-14	dreaming	dream	VERB	VBG	Tense=Pres|VerbForm=Part	10	acl:relcl	10:acl:relcl	Entity=136)135)
+14	dreaming	dream	VERB	VBG	Tense=Pres|VerbForm=Part	10	acl:relcl	10:acl:relcl	Entity=136)135)|MSeg=dream-ing
 
 ~~~
 

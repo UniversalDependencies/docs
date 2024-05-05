@@ -97,12 +97,12 @@ The most frequent other feature values with which `NUM` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5567; 99%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> ADV</tt> (4438; 84%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3294; 85%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3295; 85%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3135; 80%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1161; 100%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> ADV</tt> (1112; 98%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-compound.html">compound</a></tt>]--> ADJ</tt> (780; 98%),
-<tt>ADJ --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (724; 91%),
+<tt>ADJ --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (723; 90%),
 <tt>ADV --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (319; 92%),
 <tt>ADJ --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (256; 92%).
 

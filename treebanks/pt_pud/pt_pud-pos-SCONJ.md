@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="pt_pud-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 4.000000 (the average of all parts of speech is 1.570742).
+The form / lemma ratio of `SCONJ` is 4.000000 (the average of all parts of speech is 1.570488).
 
 The 1st highest number of forms (16) was observed with the lemma “_”: <em>Após, a, até, como, conforme, desde, embora, enquanto, para, pois, por, porque, quando, quanto, que, se</em>.
 

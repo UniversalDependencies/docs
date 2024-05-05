@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:obj`: <t
 3	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	13	advmod:tmod	_	_
 4	humanum	humanus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	_	_
 5	genus	genus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	7	nsubj	_	_
-6	fuerit	sum	AUX	va5crs3	Aspect=Perf|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
+6	fuerit	sum	AUX	va5crs3	Aspect=Perf|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
 7	felix	felix	ADJ	ans2n	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	13	dislocated:obj	_	_
 8	in	in	ADP	e	_	11	case	_	_
 9	pacis	pax	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	11	nmod	_	_
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:obj`: <t
 22	scriba	scriba	NOUN	sms1n	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing	26	nsubj	_	_
 23	mansuetudinis	mansuetudo	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	22	nmod	_	_
 24	Cristi	christus	PROPN	Sms2g	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Sur|Number=Sing	23	nmod	_	_
-25	testari	testor	VERB	vd1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	26	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+25	testari	testor	VERB	vd1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	26	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 26	dignatus	dignor	VERB	vd1irs3	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	13	conj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 27	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 28	;	;	PUNCT	Pu	_	39	punct	_	_

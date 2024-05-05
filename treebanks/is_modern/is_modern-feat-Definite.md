@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
 19524 tokens (24%) have a non-empty value of `Definite`.
-7271 types (71%) occur at least once with a non-empty value of `Definite`.
-4192 lemmas (71%) occur at least once with a non-empty value of `Definite`.
+7270 types (71%) occur at least once with a non-empty value of `Definite`.
+4191 lemmas (71%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 9 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13613; 17% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3368; 4% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (378; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -72,8 +72,8 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 `PROPN` tokens may have the following values of `Definite`:
 
-* `Def` (292; 14% of non-empty `Definite`): <em>Ólympíuleikunum, Chusovitina, Evrópusambandinu, Ólympíuleikarnir, Evrópusambandið, Evrópumótinu, Ólympíuleikana, Bandaríkjunum, EES-samningnum, Sjálfstæðisflokksins</em>
-* `Ind` (1744; 86% of non-empty `Definite`): <em>Íslands, Hrafnhildur, Ríó, Ísland, Alþingi, Íslandi, Blöndal, Íslendingar, Bryndís, Frakklandi</em>
+* `Def` (293; 14% of non-empty `Definite`): <em>Ólympíuleikunum, Chusovitina, Evrópusambandinu, Ólympíuleikarnir, Evrópusambandið, Evrópumótinu, Ólympíuleikana, Bandaríkjunum, EES-samningnum, Sjálfstæðisflokksins</em>
+* `Ind` (1743; 86% of non-empty `Definite`): <em>Íslands, Hrafnhildur, Ríó, Ísland, Alþingi, Íslandi, Blöndal, Íslendingar, Bryndís, Frakklandi</em>
 * `EMPTY` (707): <em>þm., RÚV, EM, London, H., HM, Collins, KSÍ, United, KR</em>
 
 <table>
@@ -84,7 +84,7 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Ólympíuleikar</em></td><td><em>Ólympíuleikarnir</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `PROPN`. 96% lemmas (633) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `PROPN`. 96% lemmas (632) occur only with one value of `Definite`.
 
 ### `DET`
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (165; 44% of non-empty `Definite`): <em>meiri, meira, fleiri, eina, eini, mesta, einu, fleira, miklu, minna</em>
 * `Ind` (213; 56% of non-empty `Definite`): <em>mikið, margir, mikil, miklu, margt, mörgu, einu, marga, margra, mörgum</em>
-* `EMPTY` (3325): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
+* `EMPTY` (3324): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
 
 <table>
   <tr><th>Paradigm <i>mikill</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -175,7 +175,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Ind` (8; 100% of non-empty `Definite`): <em>maður, manni</em>
-* `EMPTY` (7725): <em>það, ég, við, því, þess, hann, mér, hún, hvað, sér</em>
+* `EMPTY` (7726): <em>það, ég, við, því, þess, hann, mér, hún, hvað, sér</em>
 
 ### `VERB`
 
@@ -199,7 +199,7 @@ The most frequent other feature values with which `X` and `Definite` co-occurred
 
 * `Def` (1; 33% of non-empty `Definite`): <em>skyttunar</em>
 * `Ind` (2; 67% of non-empty `Definite`): <em>final-four, nýafstöðu</em>
-* `EMPTY` (88): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (87): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ### `NUM`
 

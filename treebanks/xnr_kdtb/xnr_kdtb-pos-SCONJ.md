@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kangri-KDTB: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (7%), 6 `SCONJ` types (1%) and 11 `SCONJ` tokens (0%).
-Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
+There are 6 `SCONJ` lemmas (1%), 6 `SCONJ` types (1%) and 11 `SCONJ` tokens (0%).
+Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>_</em>
+The 10 most frequent `SCONJ` lemmas: <em>जे, के, कैंहजे, तां, दा, यानिकि</em>
 
 The 10 most frequent `SCONJ` types:  <em>जे, के, कैंहजे, तां, दा, यानिकि</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 553, <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 315, <tt><a href="xnr_kdtb-pos-PUNCT.html">PUNCT</a></tt> 310, <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> 305, <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> 285, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 208, <tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt> 130, <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 95, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 92, <tt><a href="xnr_kdtb-pos-PROPN.html">PROPN</a></tt> 89, <tt><a href="xnr_kdtb-pos-DET.html">DET</a></tt> 49, <tt><a href="xnr_kdtb-pos-NUM.html">NUM</a></tt> 41, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="xnr_kdtb-pos-INTJ.html">INTJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>जे</em> (<tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 1), <em>के</em> (<tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="xnr_kdtb-pos-PROPN.html">PROPN</a></tt> 1), <em>तां</em> (<tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>दा</em> (<tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 37, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>जे</em> (<tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 1), <em>के</em> (<tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 10, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-PROPN.html">PROPN</a></tt> 1), <em>तां</em> (<tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 10, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>दा</em> (<tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 37, <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> 4, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>जे</em> (<tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 1), <em>के</em> (<tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 10, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-PROPN.html">PROPN</a></tt> 1), <em>तां</em> (<tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 10, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>दा</em> (<tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 37, <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> 4, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>जे</em>
@@ -33,14 +33,18 @@ The 10 most frequent ambiguous types:  <em>जे</em> (<tt><a href="xnr_kdtb-po
   * <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>चाह् बणी गेइयो है <b>तां</b> लेई ओआ ।</em>
 * <em>दा</em>
   * <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 37: <em>काळुए <b>दा</b> एह पहला पक्का घर है ।</em>
-  * <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> 4: <em>सैह झटपट लिखा <b>दा</b> था ।</em>
+  * <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> 4: <em>सैह झटपट लिखा <b>दा</b> था ।</em>
   * <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>तिन्नी मेरे जवान होणे <b>दा</b> फायदा लेया ।</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 6.000000 (the average of all parts of speech is 76.666667).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.115727).
 
-The 1st highest number of forms (6) was observed with the lemma “_”: <em>के, कैंहजे, जे, तां, दा, यानिकि</em>.
+The 1st highest number of forms (1) was observed with the lemma “के”: <em>के</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “कैंहजे”: <em>कैंहजे</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “जे”: <em>जे</em>.
 
 `SCONJ` does not occur with any features.
 

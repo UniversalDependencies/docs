@@ -53,21 +53,21 @@ The 3rd highest number of forms (1) was observed with the lemma “ach”: <em>A
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 6 different relations: <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (46; 42% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (44; 40% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (8; 7% instances), <tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt> (7; 6% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (3; 3% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (2; 2% instances)
+`INTJ` nodes are attached to their parents using 5 different relations: <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (46; 42% instances), <tt><a href="cs_fictree-dep-root.html">root</a></tt> (44; 40% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (10; 9% instances), <tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt> (7; 6% instances), <tt><a href="cs_fictree-dep-obj.html">obj</a></tt> (3; 3% instances)
 
 Parents of `INTJ` nodes belong to 9 different parts of speech:  (44; 40% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (44; 40% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (3; 3% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1; 1% instances)
 
-46 (42%) `INTJ` nodes are leaves.
+48 (44%) `INTJ` nodes are leaves.
 
-18 (16%) `INTJ` nodes have one child.
+21 (19%) `INTJ` nodes have one child.
 
-14 (13%) `INTJ` nodes have two children.
+12 (11%) `INTJ` nodes have two children.
 
-32 (29%) `INTJ` nodes have three or more children.
+29 (26%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 7.
 
-Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (130; 80% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (12; 7% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (10; 6% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="cs_fictree-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="cs_fictree-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 6 different relations: <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (126; 83% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (17; 11% instances), <tt><a href="cs_fictree-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="cs_fictree-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="cs_fictree-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (130; 80% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (12; 7% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (126; 83% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

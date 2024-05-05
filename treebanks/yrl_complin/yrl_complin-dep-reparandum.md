@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 6	ayuíri	yuíri	VERB	V	Number=Sing|Person=1|VerbForm=Fin	0	root	_	TokenRange=25:31
 7	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=32:34
 8	retama	tetama	NOUN	N	Number=Sing|Rel=Cont	6	obl	_	TokenRange=35:41
-9	suí	suí	ADP	ADP	_	8	case	_	SpaceAfter=No|TokenRange=42:45
+9	suí	suí	ADP	ADP	AdpType=Post	8	case	_	SpaceAfter=No|TokenRange=42:45
 10	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=45:46
 
 ~~~

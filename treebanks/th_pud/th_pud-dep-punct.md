@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 5	เจอโรนิโม	_	PROPN	NNP	_	0	root	_	SpaceAfter=No|Translit=čóérónimó
 6	”	_	PUNCT	''	_	5	punct	_	Translit=”
 7	โดย	_	ADP	IN	_	8	case	_	SpaceAfter=No|Translit=dóy
-8	เชพเพิร์ด	_	PROPN	NNP	_	5	nmod	_	ToDo=nmod|Translit=ćʰébʰbʰéิrd
+8	เชพเพิร์ด	_	PROPN	NNP	_	5	nmod	_	ToDo=nmod|Translit=ćʰébʰbʰéird
 
 ~~~
 

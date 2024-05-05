@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>s~</em> (<tt><a href="fr_rhapsodie-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.352046).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.352795).
 
 The 1st highest number of forms (1) was observed with the lemma “XXX”: <em>XXX</em>.
 
@@ -76,17 +76,17 @@ Examples: <em>XXX, c~, s~, l~, a~, m~, d~, de~, f~, p~</em>
 
 Parents of `X` nodes belong to 15 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (43; 27% instances),  (34; 21% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (27; 17% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (13; 8% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (11; 7% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (8; 5% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 
-85 (52%) `X` nodes are leaves.
+61 (38%) `X` nodes are leaves.
 
-47 (29%) `X` nodes have one child.
+57 (35%) `X` nodes have one child.
 
-9 (6%) `X` nodes have two children.
+29 (18%) `X` nodes have two children.
 
-21 (13%) `X` nodes have three or more children.
+15 (9%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 9.
+The highest child degree of a `X` node is 6.
 
-Children of `X` nodes are attached using 14 different relations: <tt><a href="fr_rhapsodie-dep-punct.html">punct</a></tt> (67; 46% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (16; 11% instances), <tt><a href="fr_rhapsodie-dep-case.html">case</a></tt> (11; 7% instances), <tt><a href="fr_rhapsodie-dep-det.html">det</a></tt> (11; 7% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (11; 7% instances), <tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt> (8; 5% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="fr_rhapsodie-dep-obl-mod.html">obl:mod</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-dep-aux-tense.html">aux:tense</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-dep-dislocated.html">dislocated</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 14 different relations: <tt><a href="fr_rhapsodie-dep-punct.html">punct</a></tt> (95; 54% instances), <tt><a href="fr_rhapsodie-dep-reparandum.html">reparandum</a></tt> (16; 9% instances), <tt><a href="fr_rhapsodie-dep-case.html">case</a></tt> (11; 6% instances), <tt><a href="fr_rhapsodie-dep-det.html">det</a></tt> (11; 6% instances), <tt><a href="fr_rhapsodie-dep-discourse.html">discourse</a></tt> (11; 6% instances), <tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt> (8; 5% instances), <tt><a href="fr_rhapsodie-dep-cc.html">cc</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-dep-cop.html">cop</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-dep-dep.html">dep</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="fr_rhapsodie-dep-obl-mod.html">obl:mod</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-dep-aux-tense.html">aux:tense</a></tt> (1; 1% instances), <tt><a href="fr_rhapsodie-dep-dislocated.html">dislocated</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 13 different parts of speech: <tt><a href="fr_rhapsodie-pos-PUNCT.html">PUNCT</a></tt> (67; 46% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (13; 9% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (11; 7% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (11; 7% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (9; 6% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (8; 5% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 13 different parts of speech: <tt><a href="fr_rhapsodie-pos-PUNCT.html">PUNCT</a></tt> (95; 54% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (12; 7% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (12; 7% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (11; 6% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (9; 5% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (8; 5% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (6; 3% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

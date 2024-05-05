@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 # visual-style 20 22 nmod:npmod	color:blue
 1	Consider	consider	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=organization-preparation:84->86:2:_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Entity=(76-abstract-new-cf2-2-coref
-3	mapping	mapping	NOUN	NN	Number=Sing	1	obj	1:obj	Entity=76)|SpaceAfter=No
+3	mapping	mapping	NOUN	NN	Number=Sing	1	obj	1:obj	Entity=76)|MSeg=mapp-ing|SpaceAfter=No
 4	:	:	PUNCT	:	_	5	punct	5:punct	_
 5	k	k	NOUN	NN	Number=Sing	3	appos	3:appos	Discourse=organization-preparation:85->86:1:_|Entity=(76-abstract-giv:act-cf2-1-appos)|SpaceAfter=No
 6	:	:	PUNCT	:	_	8	punct	8:punct	_
@@ -82,7 +82,7 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 3	months	month	NOUN	NNS	Number=Plur	4	nmod:npmod	4:nmod:npmod	Entity=3)|MSeg=mon-th-s
 4	status	status	NOUN	NN	Number=Sing	0	root	0:root	_
 5	post	post	ADP	IN	_	8	case	8:case	_
-6	percutaneous	percutaneous	ADJ	JJ	Degree=Pos	8	amod	8:amod	Entity=(4-event-giv:inact-cf3-3,8-coref(5-object-giv:inact-cf7-2-coref
+6	percutaneous	percutaneous	ADJ	JJ	Degree=Pos	8	amod	8:amod	Entity=(4-event-giv:inact-cf3-3,8-coref(5-object-giv:inact-cf7-2-coref|MSeg=per-cutan-eous
 7	screw	screw	NOUN	NN	Number=Sing	8	compound	8:compound	Entity=5)
 8	fixation	fixation	NOUN	NN	Number=Sing	4	nmod	4:nmod:post	_
 9	of	of	ADP	IN	_	16	case	16:case	_
@@ -97,9 +97,9 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 18	second	second	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	23	amod	23:amod	Entity=(8-event-giv:inact-cf5-6-coref
 19	through	through	ADP	IN	_	20	case	20:case	_
 20	fifth	fifth	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	18	obl	18:obl:through	Entity=(9-object-giv:inact-cf8-3-coref|MSeg=fif-th
-21	metatarsal	metatarsal	ADJ	JJ	Degree=Pos	22	amod	22:amod	_
+21	metatarsal	metatarsal	ADJ	JJ	Degree=Pos	22	amod	22:amod	MSeg=meta-tars-al
 22	head	head	NOUN	NN	Number=Sing	23	compound	23:compound	Entity=9)
-23	fractures	fracture	NOUN	NNS	Number=Plur	16	conj	8:nmod:of|16:conj:and	Entity=8)
+23	fractures	fracture	NOUN	NNS	Number=Plur	16	conj	8:nmod:of|16:conj:and	Entity=8)|MSeg=fract-ure-s
 24	treated	treat	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	acl	23:acl	Discourse=elaboration-attribute:6->5:0:_|MSeg=treat-ed
 25	nonoperatively	nonoperatively	ADV	RB	Degree=Pos	24	advmod	24:advmod	MSeg=non-operat-ive-ly|SpaceAfter=No
 26	.	.	PUNCT	.	_	4	punct	4:punct	_

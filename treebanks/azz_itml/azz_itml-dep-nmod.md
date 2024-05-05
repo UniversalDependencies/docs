@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod	color:blue
 1	Ne	ne	PRON	_	_	2	nsubj	2:nsubj	NormalizedForm=Ne
-2	nimoskalti	moskaltia	VERB	_	Movement=And|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	0:root	NormalizedForm=nimoskalti
+2	nimoskalti	moskaltia	VERB	_	Mood=Prp|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	0:root	NormalizedForm=nimoskalti
 3	ihuan	huan	NOUN	_	_	2	obl	2:obl	NormalizedForm=iwan
 4	nochanka	nochank	NOUN	_	_	3	nmod	3:nmod	NormalizedForm=nochanka
 5	huan	hhuan	CCONJ	_	_	2	cc	2:cc	NormalizedForm=wan
@@ -56,13 +56,13 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	Nikauín	nikahuin	ADV	_	_	4	advmod	4:advmod	NormalizedForm=Nikawín
 2	amo	amo	ADV	_	_	4	advmod	4:advmod	NormalizedForm=amo
 3	semi	semi	ADV	_	_	4	advmod	4:advmod	NormalizedForm=semi
-4	onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	NormalizedForm=onkak|SpaceAfter=No
+4	onkak	onka	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=onkak|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 6	tel	tel	ADV	_	_	7	advmod	7:advmod	NormalizedForm=tel|Incorporated=Tel
-7	onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	4	parataxis	4:parataxis	NormalizedForm=onkak
+7	onkak	onka	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin	4	parataxis	4:parataxis	NormalizedForm=onkak
 8	ne	ne	ADV	_	_	7	advmod	7:advmod	NormalizedForm=ne
 9	Tonalix	Tonalix	PROPN	_	_	10	nmod	10:nmod	NormalizedForm=Tonalix
-10	kopa	kopa	NOUN	_	NounType=Relat	8	appos	8:appos	NormalizedForm=kopa
+10	kopa	kopa	NOUN	_	NounType=Relat	8	obl	8:obl	NormalizedForm=kopa
 11	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.
 
 ~~~

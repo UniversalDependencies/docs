@@ -13,7 +13,7 @@ The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, :, „, “, ;, -, !, (</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, ?, :, „, “, ;, -, !, (</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> 2, <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> 1, <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="is_modern-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="is_modern-pos-ADV.html">ADV</a></tt> 2, <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> 1, <tt><a href="is_modern-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="is_modern-pos-PUNCT.html">PUNCT</a></tt> 9, <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="is_modern-pos-PU
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.734405).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.734760).
 
 The 1st highest number of forms (2) was observed with the lemma “;”: <em>;, ”</em>.
 

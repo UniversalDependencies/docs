@@ -11,7 +11,7 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
 52633 tokens (15%) have a non-empty value of `VerbForm`.
 1923 types (10%) occur at least once with a non-empty value of `VerbForm`.
-541 lemmas (3%) occur at least once with a non-empty value of `VerbForm`.
+548 lemmas (4%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 10 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (30137; 9% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (22479; 6% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `EMPTY` (5822): कर, हो, दे, ले, चल, आ, मिल, लगा, बन, पहुंच
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td>करने</td><td></td><td>करके, कर, करवाकर, कराके</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td></td><td>करते</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>करते</td><td></td></tr>
@@ -183,7 +183,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `EMPTY` (1277): जा, चाहिए, कर, हो, पड़, पा, हों, गई, हैं, रह
 
 <table>
-  <tr><th>Paradigm <i>जा</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><th>Paradigm <i>जाना</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td>जाने, जाना</td><td></td><td>जाकर</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>जाता</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>जाता</td><td></td></tr>

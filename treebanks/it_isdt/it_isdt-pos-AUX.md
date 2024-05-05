@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Italian-ISDT: POS Tags: `AUX`
 
 There are 10 `AUX` lemmas (0%), 193 `AUX` types (1%) and 11704 `AUX` tokens (4%).
-Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 8 in number of types and 8 in number of tokens.
+Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>essere, avere, potere, dovere, venire, volere, stare, andare, fare, sapere</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>è</em> (<tt><a href="it_isdt-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.481226).
+The form / lemma ratio of `AUX` is 19.300000 (the average of all parts of speech is 1.481549).
 
 The 1st highest number of forms (41) was observed with the lemma “essere”: <em>E`, E’, Fui, e', era, erano, eravamo, eravate, ero, essendo, esser, essere, fosse, fossero, fossi, fossimo, fu, furono, sarai, saranno, sarebbe, sarebbero, sarei, saremmo, saremo, sarà, sarò, sei, sia, siamo, siano, siete, sii, son, sono, stata, state, stati, stato, É, è</em>.
 

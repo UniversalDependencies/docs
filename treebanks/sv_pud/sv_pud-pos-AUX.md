@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>är</em> (<tt><a href="sv_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.461538 (the average of all parts of speech is 1.239021).
+The form / lemma ratio of `AUX` is 2.461538 (the average of all parts of speech is 1.240849).
 
 The 1st highest number of forms (4) was observed with the lemma “bli”: <em>blev, bli, blir, blivit</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>är, har, kan, kommer, måste, ska, vill, bör, blir, får</em>
 
 `AUX` nodes are attached to their parents using 7 different relations: <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (369; 50% instances), <tt><a href="sv_pud-dep-cop.html">cop</a></tt> (343; 47% instances), <tt><a href="sv_pud-dep-aux-pass.html">aux:pass</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (340; 46% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (168; 23% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (167; 23% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 2% instances),  (8; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (338; 46% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (169; 23% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (168; 23% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 2% instances),  (8; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
 
 720 (98%) `AUX` nodes are leaves.
 

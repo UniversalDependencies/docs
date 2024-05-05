@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>Ibex-35</em> (<tt><a href="es_ancora-
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.021739 (the average of all parts of speech is 1.505634).
+The form / lemma ratio of `SYM` is 1.021739 (the average of all parts of speech is 1.505790).
 
 The 1st highest number of forms (2) was observed with the lemma “23”: <em>23, sub`23</em>.
 

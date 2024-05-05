@@ -9,35 +9,37 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 
-1580 tokens (16%) have a non-empty value of `Tense`.
-598 types (32%) occur at least once with a non-empty value of `Tense`.
-270 lemmas (20%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> (1554; 15% instances), <tt><a href="azz_itml-pos-AUX.html">AUX</a></tt> (26; 0% instances).
+1579 tokens (16%) have a non-empty value of `Tense`.
+597 types (32%) occur at least once with a non-empty value of `Tense`.
+269 lemmas (20%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> (1553; 15% instances), <tt><a href="azz_itml-pos-AUX.html">AUX</a></tt> (26; 0% instances).
 
 ### `VERB`
 
-1554 <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Tense`.
+1553 <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1348; 87%), <tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1228; 79%), <tt><a href="azz_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1088; 70%), <tt><a href="azz_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (804; 52%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="azz_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1553; 100%), <tt><a href="azz_itml-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1547; 100%), <tt><a href="azz_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1384; 89%), <tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1347; 87%), <tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1227; 79%), <tt><a href="azz_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1087; 70%), <tt><a href="azz_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (804; 52%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (53; 3% of non-empty `Tense`): <em>tayis, kisas, onkas, kikuas, kinemilis, tikmatis, timitstahtaniskeh, Nimitspalehuis, chijchiujtoskej, kiajsikamatis</em>
 * `Past` (127; 8% of non-empty `Tense`): <em>onkak, nikitak, nikitani, oksik, peuak, techpaleuij, tekokoj, Kinamakaj, TEKITIKEJ, kiijkuilojkej</em>
 * `Pqp` (1; 0% of non-empty `Tense`): <em>kipijpixka</em>
-* `Pres` (1373; 88% of non-empty `Tense`): <em>mochiua, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa, kitokaj</em>
+* `Pres` (1372; 88% of non-empty `Tense`): <em>mochiua, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa, kitokaj</em>
 * `EMPTY` (72): <em>nikmatia, Tikihtowaya, kitaliayah, tikixnextikan, 'technohnotsa, Chikawayati, Niknekiskia, Ponyo, Tikmatiya, ijkaya</em>
 
 <table>
   <tr><th>Paradigm <i>chihua</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="azz_itml-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>mochiuakej</em></td></tr>
+  <tr><td><tt><tt><a href="azz_itml-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>mochiuak, mochiuj</em></td></tr>
   <tr><td><tt><tt><a href="azz_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="azz_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt></tt></td><td><em>tikchiwah</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="azz_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="azz_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>kichiwah, kichiuaj, kichi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="azz_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt></tt></td><td><em>nikchiwa</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="azz_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>kichiua, kichiwa</em></td><td><em>kichiwas</em></td><td></td></tr>
   <tr><td><tt><tt><a href="azz_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>sekichiuas</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>mochiuaj</em></td><td></td><td><em>mochiuakej</em></td></tr>
-  <tr><td><tt><tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>mochiua, mochiwa, Moyekchiua</em></td><td><em>mochiuas</em></td><td><em>mochiuak, mochiuj</em></td></tr>
+  <tr><td><tt><tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>mochiuaj</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="azz_itml-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>Nochiua</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>mochiua, mochiwa, Moyekchiua</em></td><td><em>mochiuas</em></td><td></td></tr>
 </table>
 
 ### `AUX`

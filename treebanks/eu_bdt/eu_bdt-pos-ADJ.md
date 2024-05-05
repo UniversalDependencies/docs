@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `ADJ`
 
-There are 1281 `ADJ` lemmas (11%), 2662 `ADJ` types (11%) and 7021 `ADJ` tokens (6%).
+There are 1281 `ADJ` lemmas (11%), 2661 `ADJ` types (11%) and 7021 `ADJ` tokens (6%).
 Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>handi, azken, lehen, on, nagusi, berri, bigarren, bakar, politiko, oso</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>lehen</em> (<tt><a href="eu_bdt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.078064 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `ADJ` is 2.077283 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (41) was observed with the lemma “handi”: <em>handi, handia, handiagatik, handiagoa, handiagoak, handiagoarekin, handiagoaren, handiagoetan, handiagoko, handiagora, handiak, handian, handiarekin, handiegi, handiegia, handiek, handiekin, handien, handiena, handienak, handienaz, handienek, handieneko, handienetariko, handiengatik, handietako, handietan, handiko, handikoak, handikoen, handikotzat, handirentzat, handirik, handitan, handitarako, handiz, haundi, haundia, haundiagoa, haundiagoak, haundirik</em>.
 

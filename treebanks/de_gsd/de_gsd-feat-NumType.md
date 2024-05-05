@@ -101,7 +101,7 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 `ADV` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>2x</em>
-* `EMPTY` (14975): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14978): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="de_pud-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-20 nodes (0%) are attached to their parents as `acl`.
+18 nodes (0%) are attached to their parents as `acl`.
 
-17 instances of `acl` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.25.
+15 instances of `acl` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.72222222222222.
 
-The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (7; 35% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4; 20% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 15% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="de_pud-pos-X.html">X</a></tt>-<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (7; 39% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="de_pud-pos-X.html">X</a></tt>-<tt><a href="de_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -51,30 +51,6 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 acl	color:blue
-1	Doch	doch	CCONJ	CC	_	6	cc	_	_
-2	die	der	DET	DT	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	neugegründete	neugegründet	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	InflectionType=Weak
-4	Republik	Republik	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	Proper=True
-5	China	China	PROPN	NNP	Case=Nom|Gender=Neut|Number=Sing	4	appos	_	_
-6	betrachtete	betrachten	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-7	die	der	DET	DT	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Mongolei	Mongolei	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
-9	als	als	CCONJ	CC	_	10	cc	_	_
-10	Teil	Teil	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	8	acl	_	_
-11	ihres	ihr	DET	DTP$	Case=Gen|Gender=Neut|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det:poss	_	_
-12	eigenen	eigen	ADJ	JJ	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	13	amod	_	InflectionType=Mixed
-13	Territoriums	Territorium	NOUN	NN	Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
@@ -88,6 +64,29 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 6	oft	oft	ADV	RB	Degree=Pos	7	advmod	_	_
 7	tief	tief	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 acl	color:blue
+1	Als	als	SCONJ	CC	_	3	case	_	_
+2	leidenschaftlicher	leidenschaftlich	ADJ	JJ	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	InflectionType=Strong
+3	Gitarrist	Gitarrist	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	5	acl	_	_
+4	gab	geben	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+5	er	er	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+6	dort	dort	ADV	RB	Degree=Pos	4	advmod	_	_
+7	in	in	ADP	APPR	_	10	case	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	_
+9	selben	selb	ADJ	JJ	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	InflectionType=Weak
+10	Jahr	Jahr	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	_
+11	ein	ein	DET	DT	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	12	det	_	_
+12	Konzert	Konzert	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

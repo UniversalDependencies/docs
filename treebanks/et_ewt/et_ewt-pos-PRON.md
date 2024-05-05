@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>see</em> (<tt><a href="et_ewt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 6.094340 (the average of all parts of speech is 1.732282).
+The form / lemma ratio of `PRON` is 6.094340 (the average of all parts of speech is 1.732342).
 
 The 1st highest number of forms (34) was observed with the lemma “see”: <em>asee, need, neeed, neid, neidki, neidt, neil, neile, neist, nende, nendega, nendegagi, nendelt, nendest, se, seda, sedagi, see, seed, seegi, sel, selle, sellega, selleks, sellel, sellele, sellelt, selleni, selles, sellesse, sellest, sellestki, selleta, sest</em>.
 

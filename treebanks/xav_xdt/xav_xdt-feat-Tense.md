@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-153 tokens (10%) have a non-empty value of `Tense`.
-5 types (1%) occur at least once with a non-empty value of `Tense`.
-3 lemmas (1%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (153; 10% instances).
+157 tokens (9%) have a non-empty value of `Tense`.
+6 types (1%) occur at least once with a non-empty value of `Tense`.
+4 lemmas (1%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 1 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (157; 9% instances).
 
 ### `PART`
 
-153 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (44% of all `PART` tokens) have a non-empty value of `Tense`.
+157 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (42% of all `PART` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (153; 100%), <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=Yes</tt> (140; 92%).
+The most frequent other feature values with which `PART` and `Tense` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (157; 100%), <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=Yes</tt> (141; 90%).
 
 `PART` tokens may have the following values of `Tense`:
 
-* `Fut` (13; 8% of non-empty `Tense`): <em>dza</em>
-* `Past` (31; 20% of non-empty `Tense`): <em>ma</em>
-* `Pres` (109; 71% of non-empty `Tense`): <em>te</em>
-* `EMPTY` (196): <em>dza'ra, e, norĩ, wa, norĩhã, õ, hã, tô, aba, wa'aba</em>
+* `Fut` (15; 10% of non-empty `Tense`): <em>dza, za</em>
+* `Past` (32; 20% of non-empty `Tense`): <em>ma</em>
+* `Pres` (110; 70% of non-empty `Tense`): <em>te</em>
+* `EMPTY` (221): <em>dza'ra, e, hã, wa, norĩ, õ, norĩhã, tô, aba, te</em>
 

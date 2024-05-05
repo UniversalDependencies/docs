@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advmod.html">advmod</a></tt>.
 There are also 8 other language-specific subtypes of `advmod`: <tt><a href="mdf_jr-dep-advmod-cmp.html">advmod:cmp</a></tt>, <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="mdf_jr-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="mdf_jr-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="mdf_jr-dep-advmod-freq.html">advmod:freq</a></tt>, <tt><a href="mdf_jr-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-4 nodes (0%) are attached to their parents as `advmod:cau`.
+5 nodes (0%) are attached to their parents as `advmod:cau`.
 
-4 instances of `advmod:cau` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.25.
+5 instances of `advmod:cau` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `advmod:cau`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 100% instances).
+The following 1 pairs of parts of speech are connected with `advmod:cau`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (5; 100% instances).
 
 
 ~~~ conllu

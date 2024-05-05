@@ -22,19 +22,19 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 4 iobj	color:blue
-1	इसके	यह	PRON	PRP	Case=Acc,Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	obl	_	Vib=0_अलावा|Tam=ke|ChunkId=NP|ChunkType=head|Translit=isake
-2	अलावा	अलावा	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=alāvā
-3	टेक्सटाइल	टेक्सटाइल	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=ṭeksaṭāila
-4	क्षेत्र	क्षेत्र	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	iobj	_	Vib=0_को|Tam=0|ChunkId=NP2|ChunkType=head|Translit=kṣetra
-5	को	को	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP2|ChunkType=child|Translit=ko
-6	भी	भी	PART	RP	_	4	dep	_	ChunkId=NP2|ChunkType=child|Translit=bhī
-7	कुछ	कुछ	DET	QF	PronType=Ind	9	det	_	ChunkId=NP3|ChunkType=child|Translit=kucha
-8	टैक्स	टैक्स	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child|Translit=ṭaiksa
-9	राहत	राहत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rāhata
-10	मिल	मिल	VERB	VM	Gender=Fem|Number=Sing|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=mila|Vib=0_सक+ता_है
-11	सकती	सक	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	10	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=sakatī
-12	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
-13	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
+1	इसके	यह	PRON	PRP	Case=Acc,Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	obl	_	Vib=0_अलावा|Tam=ke|ChunkId=NP|ChunkType=head|Translit=isake|LTranslit=yaha
+2	अलावा	अलावा	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=alāvā|LTranslit=alāvā
+3	टेक्सटाइल	टेक्सटाइल	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=ṭeksaṭāila|LTranslit=ṭeksaṭāila
+4	क्षेत्र	क्षेत्र	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	iobj	_	Vib=0_को|Tam=0|ChunkId=NP2|ChunkType=head|Translit=kṣetra|LTranslit=kṣetra
+5	को	को	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP2|ChunkType=child|Translit=ko|LTranslit=ko
+6	भी	भी	PART	RP	_	4	dep	_	ChunkId=NP2|ChunkType=child|Translit=bhī|LTranslit=bhī
+7	कुछ	कुछ	DET	QF	PronType=Ind	9	det	_	ChunkId=NP3|ChunkType=child|Translit=kucha|LTranslit=kucha
+8	टैक्स	टैक्स	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child|Translit=ṭaiksa|LTranslit=ṭaiksa
+9	राहत	राहत	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rāhata|LTranslit=rāhata
+10	मिल	मिलना	VERB	VM	Gender=Fem|Number=Sing|Person=3|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|LTranslit=milanā|Stype=declarative|Tam=0|Translit=mila|Vib=0_सक+ता_है
+11	सकती	सकना	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	10	aux	_	ChunkId=VGF|ChunkType=child|LTranslit=sakanā|Tam=wA|Translit=sakatī|Vib=ता
+12	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai|LTranslit=hai
+13	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
 
 ~~~
 
@@ -45,18 +45,18 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 4 iobj	color:blue
-1	राजग	राजग	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Vib=0_ने|Tam=0|ChunkId=NP|ChunkType=head|Translit=rājaga
-2	ने	ने	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=ne
-3	सोमवार	सोमवार	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=somavāra
-4	राष्ट्रपति	राष्ट्रपति	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	iobj	_	Vib=0_को|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rāṣṭrapati
-5	को	को	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP3|ChunkType=child|Translit=ko
-6	भी	भी	PART	RP	_	4	dep	_	ChunkId=NP3|ChunkType=child|Translit=bhī
-7	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	det	_	ChunkId=NP4|ChunkType=child|Translit=isa
-8	संबंध	संबंध	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0_में|Tam=0|ChunkId=NP4|ChunkType=head|Translit=saṁbaṁdha
-9	में	में	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP4|ChunkType=child|Translit=meṁ
-10	ज्ञापन	ज्ञापन	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=jñāpana
-11	सौंपा	सौंप	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=yA|Translit=sauṁpā|Vib=या
-12	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
+1	राजग	राजग	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Vib=0_ने|Tam=0|ChunkId=NP|ChunkType=head|Translit=rājaga|LTranslit=rājaga
+2	ने	ने	ADP	PSP	AdpType=Post	1	case	_	ChunkId=NP|ChunkType=child|Translit=ne|LTranslit=ne
+3	सोमवार	सोमवार	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=somavāra|LTranslit=somavāra
+4	राष्ट्रपति	राष्ट्रपति	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	iobj	_	Vib=0_को|Tam=0|ChunkId=NP3|ChunkType=head|Translit=rāṣṭrapati|LTranslit=rāṣṭrapati
+5	को	को	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP3|ChunkType=child|Translit=ko|LTranslit=ko
+6	भी	भी	PART	RP	_	4	dep	_	ChunkId=NP3|ChunkType=child|Translit=bhī|LTranslit=bhī
+7	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	8	det	_	ChunkId=NP4|ChunkType=child|Translit=isa|LTranslit=yaha
+8	संबंध	संबंध	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0_में|Tam=0|ChunkId=NP4|ChunkType=head|Translit=saṁbaṁdha|LTranslit=saṁbaṁdha
+9	में	में	ADP	PSP	AdpType=Post	8	case	_	ChunkId=NP4|ChunkType=child|Translit=meṁ|LTranslit=meṁ
+10	ज्ञापन	ज्ञापन	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=jñāpana|LTranslit=jñāpana
+11	सौंपा	सौंपना	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|LTranslit=sauṁpanā|Stype=declarative|Tam=yA|Translit=sauṁpā|Vib=या
+12	।	।	PUNCT	SYM	_	11	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
 
 ~~~
 
@@ -67,20 +67,20 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 8 iobj	color:blue
-1	जबकि	जबकि	CCONJ	CC	_	12	cc	_	ChunkId=CCP|ChunkType=head|Translit=jabaki
-2	ससुर	ससुर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obj	_	Vib=0_को|Tam=0|ChunkId=NP|ChunkType=head|Translit=sasura
-3	को	को	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=ko
-4	कोई	कोई	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	det	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=koī
-5	सजा	सजा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=sajā
-6	तो	तो	PART	RP	_	5	dep	_	ChunkId=NP2|ChunkType=child|Translit=to
-7	दूर	दूर	ADV	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	12	advmod	_	AltTag=ADV-NOUN|ChunkId=NP3|ChunkType=head|Translit=dūra
-8	उसे	वह	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	12	iobj	_	Vib=को|Tam=ko|ChunkId=NP4|ChunkType=head|Translit=use
-9	'	'	PUNCT	SYM	_	10	punct	_	SpaceAfter=No|ChunkId=NP5|ChunkType=child|Translit='
-10	आजादी	आजादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	acl	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=ājādī
-11	'	'	PUNCT	SYM	_	10	punct	_	ChunkId=NP5|ChunkType=child|Translit='
-12	बख्श	बख्श	VERB	VM	Number=Sing|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|Stype=declarative|Tam=0|Translit=bakhśa|Vib=0_दे+या
-13	दी	दे	VERB	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	compound	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=child|Translit=dī
-14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
+1	जबकि	जबकि	CCONJ	CC	_	12	cc	_	ChunkId=CCP|ChunkType=head|Translit=jabaki|LTranslit=jabaki
+2	ससुर	ससुर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	obj	_	Vib=0_को|Tam=0|ChunkId=NP|ChunkType=head|Translit=sasura|LTranslit=sasura
+3	को	को	ADP	PSP	AdpType=Post	2	case	_	ChunkId=NP|ChunkType=child|Translit=ko|LTranslit=ko
+4	कोई	कोई	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	det	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=koī|LTranslit=koī
+5	सजा	सजा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=sajā|LTranslit=sajā
+6	तो	तो	PART	RP	_	5	dep	_	ChunkId=NP2|ChunkType=child|Translit=to|LTranslit=to
+7	दूर	दूर	ADV	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	12	advmod	_	AltTag=ADV-NOUN|ChunkId=NP3|ChunkType=head|Translit=dūra|LTranslit=dūra
+8	उसे	वह	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	12	iobj	_	Vib=को|Tam=ko|ChunkId=NP4|ChunkType=head|Translit=use|LTranslit=vaha
+9	'	'	PUNCT	SYM	_	10	punct	_	SpaceAfter=No|ChunkId=NP5|ChunkType=child|Translit='|LTranslit='
+10	आजादी	आजादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	acl	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=ājādī|LTranslit=ājādī
+11	'	'	PUNCT	SYM	_	10	punct	_	ChunkId=NP5|ChunkType=child|Translit='|LTranslit='
+12	बख्श	बख्शना	VERB	VM	Number=Sing|Voice=Act	0	root	_	ChunkId=VGF|ChunkType=head|LTranslit=bakhśanā|Stype=declarative|Tam=0|Translit=bakhśa|Vib=0_दे+या
+13	दी	देना	VERB	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	compound	_	ChunkId=VGF|ChunkType=child|LTranslit=denā|Tam=yA|Translit=dī|Vib=या
+14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.|LTranslit=.
 
 ~~~
 

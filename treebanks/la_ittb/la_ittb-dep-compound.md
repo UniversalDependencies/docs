@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 1	quod	quod	SCONJ	O4	_	3	mark	_	_
 2	matrimonium	matrimonium	NOUN	B1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	3	nsubj	_	_
 3	debeat	debeo	VERB	K3|modB|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	5	cop	_	_
+4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	5	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	unius	unus	DET	F1|grn1|casB|gen1|vgr2	Case=Gen|Gender=Masc|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	3	xcomp	_	_
 6	ad	ad	ADP	S4	_	7	case	_	_
 7	unam	unus	DET	F1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	5	compound	_	SpaceAfter=No

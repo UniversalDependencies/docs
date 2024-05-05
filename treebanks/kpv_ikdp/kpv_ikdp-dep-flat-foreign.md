@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Но	но	CCONJ	CC	_	6	cc	_	_
 2	вот	вот	ADV	Adv	_	6	discourse	_	GTtags=Parenthetic
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
-4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lfrom	_	GTtags=Ela
+4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lmod	_	GTtags=Ela
 5	и	и	ADV	Adv	_	6	advmod	_	_
 6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Но	но	CCONJ	CC	_	6	cc	_	_
 2	вот	вот	ADV	Adv	_	6	discourse	_	GTtags=Parenthetic
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
-4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lfrom	_	GTtags=Ela
+4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lmod	_	GTtags=Ela
 5	и	и	ADV	Adv	_	6	advmod	_	_
 6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
@@ -105,7 +105,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 16	университет	университет	NOUN	N	Case=Nom|Number=Sing	13	obj	_	GTtags=Sg,Nom|SpaceAfter=No
 17	,	,	PUNCT	PUNCT	_	19	punct	_	_
 18	«	_	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
-19	международные	международные	X	_	_	22	nmod:appos	_	_
+19	международные	международные	X	_	_	22	compound:nn	_	_
 20	отношения	отношения	X	_	_	19	flat:foreign	_	SpaceAfter=No
 21	»	_	PUNCT	PUNCT	_	19	punct	_	_
 22	специальность	специальность	NOUN	N	Case=Nom|Number=Sing	16	appos	_	GTtags=Sg,Nom|SpaceAfter=No

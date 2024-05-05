@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`.
 
-5627 tokens (22%) have a non-empty value of `PronType`.
+5628 tokens (22%) have a non-empty value of `PronType`.
 165 types (3%) occur at least once with a non-empty value of `PronType`.
 55 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (4118; 16% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1372; 5% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (137; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (4119; 16% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1372; 5% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (137; 1% instances).
 
 ### `DET`
 
-4118 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+4119 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3181; 77%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2988; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 53%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3181; 77%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2989; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2176; 53%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (3459; 84% of non-empty `PronType`): <em>o, a, os, as, un, unha, lo, la, los, uns</em>
+* `Art` (3460; 84% of non-empty `PronType`): <em>o, a, os, as, un, unha, lo, la, los, uns</em>
 * `Dem` (156; 4% of non-empty `PronType`): <em>esta, este, ese, esa, estes, estas, aqueles, esas, eses, aquel</em>
 * `Ind` (264; 6% of non-empty `PronType`): <em>todo, todos, mesmo, outra, outro, outros, outras, toda, cada, calquera</em>
 * `Int` (6; 0% of non-empty `PronType`): <em>que</em>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-137 <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `PronType`.
+137 <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> tokens (11% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="gl_treegal-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (137; 100%).
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (11; 8% of non-empty `PronType`): <em>como, cómo, onde</em>
 * `Rel` (126; 92% of non-empty `PronType`): <em>como, cando, onde</em>
-* `EMPTY` (1051): <em>non, máis, tamén, xa, así, aínda, agora, moi, só, despois</em>
+* `EMPTY` (1055): <em>non, máis, tamén, xa, así, aínda, agora, moi, só, despois</em>
 
 <table>
   <tr><th>Paradigm <i>como</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

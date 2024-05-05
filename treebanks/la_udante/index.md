@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Flavio Massimiliano Cecchini, Giovanni Moretti, Marco Passarotti, Rachele Sprugnoli, Daniela Corbetta, Federica Favero, Federica Gamba, Martina de Laurentiis, Giulia Pedonese, Andrea Peverelli, Elena Vagnoni, Mirko Tavoni.
 
 Repository: [UD_Latin-UDante](https://github.com/UniversalDependencies/UD_Latin-UDante)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -505,9 +505,9 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Inch
     <ul>
-      <li>VERB-Fin: deposco, innotescet, innotescit, arescant, asciscunt, calescunt, cognosceres, contabescunt, crebrescunt, crescebat</li>
-      <li>VERB-Inf: innotescere, asciscere, consciscere, exolescere, flavescere, mollescere, obstupescere, pavescere, plebescere, poscere</li>
-      <li>VERB-Part: allubescentes, gliscentem, inardescens, pavescentes, poscente, tabescentes</li>
+      <li>VERB-Fin: deposco, cognoscat, cognoscitur, innotescet, innotescit, arescant, asciscunt, calescunt, cognoscant, cognoscebant</li>
+      <li>VERB-Inf: innotescere, cognoscere, asciscere, consciscere, exolescere, flavescere, mollescere, noscere, obstupescere, pascere</li>
+      <li>VERB-Part: allubescentes, coruscantis, discens, gliscentem, inardescens, pavescentes, poscente, tabescentes</li>
     </ul>
   </li>
 </ul>
@@ -517,7 +517,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
     <ul>
       <li>AUX-Fin: fuit, fuisset, fuerit, fuerunt, fuerat, fuerint, fuistis, fueram, fuere, fueritis</li>
       <li>AUX-Inf: fuisse, fore</li>
-      <li>AUX-Part: futura</li>
       <li>VERB-Fin: fecit, inquit, dixit, potuit, diximus, persuasit, vidit, dedit, cepit, dixi</li>
       <li>VERB-Inf: dixisse, cecinisse, poetasse, transcendisse, vidisse, cognovisse, divertisse, intendisse, obtinuisse, remansisse</li>
       <li>VERB-Part: dictum, converso, dicta, factum, facta, datum, diversa, causatum, factus, usi</li>
@@ -574,7 +573,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
     <ul>
       <li>AUX-Fin: erit, eris, erunt, fueritis, fuero</li>
       <li>VERB-Fin: patebit, apparebit, movebitur, ostendetur, poterit, videbimus, constabit, demonstrabitur, Videbitis, conveniet</li>
-      <li>VERB-Inf: adfore</li>
     </ul>
   </li>
 </ul>
@@ -582,18 +580,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: fuit, esset, erat, fuerit, essent, fuerunt, erant, fuerint, foret, essemus</li>
-      <li>AUX-Inf: fuisse, fore</li>
+      <li>AUX-Fin: esset, erat, fuisset, essent, fuerat, erant, foret, essemus, eram, eramus</li>
       <li>VERB-Fin: posset, dicebatur, sequeretur, poterat, dicebat, diceret, haberet, vellet, loqueretur, arguebatur</li>
-      <li>VERB-Inf: dixisse, cecinisse, poetasse, transcendisse, vidisse, cognovisse, divertisse, intendisse, obtinuisse, remansisse</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Pqp
-    <ul>
-      <li>AUX-Fin: fuisset, fuerat, fueram, fuissetis</li>
     </ul>
   </li>
 </ul>
@@ -601,10 +589,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: est, sunt, sit, sint, es, sum, sumus, estis, sim, sis</li>
-      <li>AUX-Inf: esse</li>
+      <li>AUX-Fin: est, sunt, sit, fuit, sint, fuerit, es, sum, fuerunt, sumus</li>
       <li>VERB-Fin: potest, patet, habet, dicimus, videtur, dicit, dico, oportet, dicitur, dicunt</li>
-      <li>VERB-Inf: habere, facere, fieri, dici, dicere, posse, solvere, uti, velle, reduci</li>
     </ul>
   </li>
 </ul>
@@ -998,34 +984,39 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>LatA
         <ul>
           <li>VERB-Fin: vocamus, restat, dubitat, appellamus, constat, probatur, dedit, consideremus, consideretur, probat</li>
-          <li>VERB-Inf: armasse</li>
+          <li>VERB-Inf: ligare, distare, operari, superare, arbitrari, explicare, amare, dare, elevari, imitari</li>
           <li>VERB-Part: causatum, datum, probatum, considerata, poetati, notandum, ordinatus, probandum, adiuta, affirmando</li>
         </ul>
       </li>
       <li>LatAnom
         <ul>
           <li>AUX-Fin: est, sunt, sit, fuit, esset, sint, erat, erit, fuisset, fuerit</li>
+          <li>AUX-Inf: esse, fuisse, fore</li>
           <li>AUX-Part: futura, ens, ente, futuram, futuris, futuro, futurum</li>
           <li>PRON: se, nobis, sibi, me, te, nos, vobis, vos, tibi, tu</li>
           <li>VERB-Fin: potest, possit, possunt, posset, vult, possumus, potuit, poterat, possint, refert</li>
+          <li>VERB-Inf: posse, velle, adesse, inesse, nolle, ire, preesse, conferre, differre, ferri</li>
           <li>VERB-Part: presens, volentes, volentem, volens, illata, inferenti, nolentem, offerentes, redeuntes, transferendi</li>
         </ul>
       </li>
       <li>LatE
         <ul>
           <li>VERB-Fin: patet, habet, videtur, oportet, debet, videntur, habeat, habent, videmus, apparet</li>
+          <li>VERB-Inf: habere, videre, dependere, patere, haberi, retinere, moveri, videri, debere, intueri</li>
           <li>VERB-Part: habens, videndum, viso, intuenti, visum, cavendum, contenta, contentum, continens, merendo</li>
         </ul>
       </li>
       <li>LatI
         <ul>
           <li>VERB-Fin: convenit, invenimus, reperitur, audiant, invenitur, venit, nescio, nescit, veni, audiat</li>
+          <li>VERB-Inf: invenire, venire, sentire, inveniri, audire, devenire, pervenire, convenire, devincire, facere</li>
           <li>VERB-Part: sciendum, sanctum, inventa, Sancto, conveniens, inventum, puniendi, sancta, sancte, sanctissimo</li>
         </ul>
       </li>
       <li>LatI2
         <ul>
           <li>VERB-Fin: fit, ait, fecit, inquit, recipit, facit, fiat, incipit, faciunt, accipiunt</li>
+          <li>VERB-Inf: facere, fieri, accipere, recipere, preterire, accipi, efficere, elicere, elici, interire</li>
           <li>VERB-Part: factum, facta, factus, subiciendo, incipientes, efficiens, inspicienti, accepti, accipiendo, capta</li>
         </ul>
       </li>
@@ -1038,6 +1029,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>LatX
         <ul>
           <li>VERB-Fin: dicimus, dicit, dico, dicitur, dicunt, sequitur, dixit, dicebatur, intendit, contingit</li>
+          <li>VERB-Inf: dici, dicere, solvere, uti, reduci, agere, loqui, sequi, ostendere, intendere</li>
           <li>VERB-Part: consequens, dictum, existente, dicendum, converso, dicens, dicta, existens, consequentis, diversa</li>
         </ul>
       </li>
@@ -1286,15 +1278,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (11)</li>
       <li>VERB-Fin--PRON-Nom (391)</li>
       <li>VERB-Fin--PRON-Voc (1)</li>
-      <li>VERB-Inf--NOUN (7)</li>
-      <li>VERB-Inf--NOUN-Acc (78)</li>
-      <li>VERB-Inf--NOUN-Nom (15)</li>
+      <li>VERB-Inf--NOUN (5)</li>
+      <li>VERB-Inf--NOUN-Acc (75)</li>
+      <li>VERB-Inf--NOUN-Nom (14)</li>
       <li>VERB-Inf--PRON-Acc (28)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
-      <li>VERB-Part--NOUN (4)</li>
+      <li>VERB-Part--NOUN (6)</li>
       <li>VERB-Part--NOUN-Abl (54)</li>
-      <li>VERB-Part--NOUN-Acc (13)</li>
-      <li>VERB-Part--NOUN-Nom (36)</li>
+      <li>VERB-Part--NOUN-Acc (16)</li>
+      <li>VERB-Part--NOUN-Nom (37)</li>
       <li>VERB-Part--PRON-Abl (7)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
       <li>VERB-Part--PRON-Nom (19)</li>
@@ -1318,17 +1310,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (239)</li>
+      <li>VERB-Inf--NOUN-Acc (238)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Abl (1)</li>
-      <li>VERB-Inf--PRON-Acc (78)</li>
+      <li>VERB-Inf--PRON-Acc (77)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
-      <li>VERB-Part--NOUN-Acc (174)</li>
+      <li>VERB-Part--NOUN-Acc (175)</li>
       <li>VERB-Part--NOUN-Nom (3)</li>
       <li>VERB-Part--PRON (3)</li>
-      <li>VERB-Part--PRON-Acc (20)</li>
+      <li>VERB-Part--PRON-Acc (21)</li>
     </ul>
   </li>
 </ul>

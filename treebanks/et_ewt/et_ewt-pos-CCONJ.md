@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="et_ewt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.388889 (the average of all parts of speech is 1.732282).
+The form / lemma ratio of `CCONJ` is 1.388889 (the average of all parts of speech is 1.732342).
 
 The 1st highest number of forms (5) was observed with the lemma “või”: <em>ja/või, v, voi, vòi, või</em>.
 
@@ -78,7 +78,7 @@ Examples: <em>ja, aga, või, ning, kuid, ehk, vaid, kui, ent, &</em>
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="et_ewt-dep-cc.html">cc</a></tt> (3377; 100% instances), <tt><a href="et_ewt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="et_ewt-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="et_ewt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1657; 49% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (907; 27% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (304; 9% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (211; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (134; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (120; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1657; 49% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (906; 27% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (304; 9% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (211; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (134; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (120; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 3381 (100%) `CCONJ` nodes are leaves.
 

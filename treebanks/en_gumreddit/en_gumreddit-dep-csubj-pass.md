@@ -55,7 +55,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 31	_	_	CCONJ	CC	_	43	cc	43:cc	Discourse=adversative-antithesis:15->14:0:_;joint-list:15->14:2:0:orp-and-158|Lem=_|Len=3
 32	_	_	SCONJ	IN	_	34	mark	34:mark	Discourse=contingency-condition:16->19:1:dm-if-159+mrf-md-169|Lem=_|Len=2
 33	_	_	PRON	EX	PronType=Dem	34	expl	34:expl	Lem=_|Len=5
-34	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	43	advcl	43:advcl:if	Cxn=Existential-There|Lem=be|Len=4
+34	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	43	advcl	43:advcl:if	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=4
 35	_	_	ADJ	JJ	Degree=Pos	36	amod	36:amod	Entity=(10-organization-giv:inact-cf2-2-coref|Lem=_|Len=5
 36	_	_	NOUN	NNS	Number=Plur	34	nsubj	34:nsubj	Entity=10)|Lem=company|Len=9|MSeg=companie-s
 37	_	_	VERB	VBG	VerbForm=Ger	36	acl	36:acl	Discourse=elaboration-attribute:17->16:0:syn-mdf-163+syn-nmn-164|Lem=use|Len=5|MSeg=us-ing
@@ -64,7 +64,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 40	_	_	PUNCT	,	_	34	punct	34:punct	Lem=_|Len=1
 41	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	43	nsubj	43:nsubj	Discourse=attribution-positive:18->19:0:sem-atsrc-168+lex-indwd-170|Entity=(24-person-acc:com-cf4-1-ana)|Lem=_|Len=3
 42	_	_	AUX	MD	VerbForm=Fin	43	aux	43:aux	Lem=_|Len=5
-43	_	_	VERB	VB	VerbForm=Inf	19	conj	7:ccomp|19:conj:and	Lem=_|Len=5
+43	_	_	VERB	VB	VerbForm=Inf	19	conj	7:ccomp|19:conj:and	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|Lem=_|Len=5
 44	_	_	PRON	DT	Number=Sing|PronType=Dem	47	nsubj	47:nsubj	Discourse=same-unit_m:19->15:0:_|Entity=(17-event-giv:act-cf1-1-coref)|Lem=_|Len=4
 45	_	_	AUX	MD	VerbForm=Fin	47	aux	47:aux	Lem=_|Len=5
 46	_	_	AUX	VB	VerbForm=Inf	47	aux	47:aux	Lem=_|Len=4
@@ -72,8 +72,8 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 48	_	_	ADP	IN	_	47	obl	47:obl	Lem=_|Len=6
 49	_	_	CCONJ	CC	_	52	cc	52:cc	Discourse=causal-result:20->15:1:dm-and-176|Lem=_|Len=3
 50	_	_	PRON	EX	PronType=Dem	52	expl	52:expl	Lem=_|Len=5
-51	_	_	AUX	MD	Number=Plur|Person=3|VerbForm=Fin	52	aux	52:aux	Lem=_|Len=5
-52	_	_	VERB	VB	VerbForm=Inf	47	conj	43:ccomp|47:conj:and	Cxn=Existential-There|Lem=_|Len=2
+51	_	_	AUX	MD	VerbForm=Fin	52	aux	52:aux	Lem=_|Len=5
+52	_	_	VERB	VB	VerbForm=Inf	47	conj	43:ccomp|47:conj:and	Cxn=Existential-CopPred-ThereExpl|Lem=_|Len=2
 53	_	_	NOUN	NNS	Number=Plur	52	nsubj	52:nsubj	Entity=(25-abstract-new-cf6-1-sgl|Lem=protocol|Len=9|MSeg=protocol-s
 54	_	_	ADP	IN	_	55	case	55:case	Lem=_|Len=3
 55	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	53	nmod	53:nmod:for	Entity=(17-event-giv:act-cf1-1-ana)25)|Lem=_|Len=2|SpaceAfter=No

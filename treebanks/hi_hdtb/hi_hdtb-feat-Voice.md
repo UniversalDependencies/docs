@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `EMPTY` (13377): करने, दिया, होने, देने, दी, लेकर, कहना, करते, कर, लिया
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
   <tr><td><tt>_</tt></td><td>कर</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>करता</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>करते</td><td></td></tr>

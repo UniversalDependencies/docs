@@ -8,39 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-668 nodes (2%) are attached to their parents as `cop`.
+1271 nodes (2%) are attached to their parents as `cop`.
 
-504 instances of `cop` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94311377245509.
+942 instances of `cop` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.92840283241542.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (227; 34% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (191; 29% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (101; 15% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (54; 8% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (39; 6% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (33; 5% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (17; 3% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (6; 1% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (450; 35% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (356; 28% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (175; 14% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (112; 9% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (84; 7% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (57; 4% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 15 cop	color:blue
-1	E	e	CCONJ	cscc	_	2	cc	_	Canto=22|Verso=66
-2	quelli	quello	PRON	pd1ms	Gender=Masc|Number=Sing|Person=1|PronType=Dem	0	root	_	Canto=22|SpaceAfter=No|Verso=66
-3	:	:	PUNCT	_	_	7	punct	_	_
-4	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
-5	I'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Canto=22|Verso=66
-6	mi	mi	PRON	pf1syle	Clitic=Yes|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	expl:pv	_	Canto=22|Verso=66
-7	partii	partire	VERB	vi+3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp:reported	_	Canto=22|SpaceAfter=No|Verso=66
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	poco	poco	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	advcl	_	Canto=22|Verso=67
-10	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Canto=22|SpaceAfter=No|Verso=67
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	da	da	ADP	epska	_	13	case	_	Canto=22|Verso=67
-13	un	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	Canto=22|Verso=67
-14	che	che	PRON	pr	PronType=Rel	18	nsubj	_	Canto=22|Verso=67
-15	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	Canto=22|Verso=67
-16	di	di	ADP	_	_	17	case	_	Canto=22|Verso=67
-17	là	là	ADV	_	_	18	advmod:lmod	_	Canto=22|Verso=67
-18	vicino	vicino	ADJ	a1msxc5	Gender=Masc|Number=Sing	13	acl:relcl	_	Canto=22|SpaceAfter=No|Verso=67
-19	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 cop	color:blue
+1	E	e	CCONJ	cscc	_	6	cc	_	Canto=33|Verso=149
+2	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Canto=33|Verso=149
+3	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	Canto=33|Verso=149
+4	li	li	PRON	pp3mpxda	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	iobj	_	Canto=33|Verso=149
+5	li	li	PRON	pp3mpxac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	Canto=33|Verso=149
+6	apersi	aprire	VERB	vta3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=33|SpaceAfter=No|Verso=149
+7	;	;	PUNCT	_	_	9	punct	_	_
+8	e	e	CCONJ	cscc	_	9	cc	_	Canto=33|Verso=150
+9	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	6	conj	_	Canto=33|Verso=150
+10	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	Canto=33|Verso=150
+11	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	Canto=33|Verso=150
+12	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	13	cop	_	Canto=33|Verso=150
+13	villano	villano	ADJ	a1msxo	Gender=Masc|Number=Sing	9	csubj	_	Canto=33|SpaceAfter=No|Verso=150
+14	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -66,30 +61,22 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 cop	color:blue
-1	E	e	CCONJ	cscc	_	2	cc	_	Canto=22|Verso=66
-2	quelli	quello	PRON	pd1ms	Gender=Masc|Number=Sing|Person=1|PronType=Dem	0	root	_	Canto=22|SpaceAfter=No|Verso=66
-3	:	:	PUNCT	_	_	7	punct	_	_
-4	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
-5	I'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Canto=22|Verso=66
-6	mi	mi	PRON	pf1syle	Clitic=Yes|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	expl:pv	_	Canto=22|Verso=66
-7	partii	partire	VERB	vi+3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp:reported	_	Canto=22|SpaceAfter=No|Verso=66
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	poco	poco	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	advcl	_	Canto=22|Verso=67
-10	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Canto=22|SpaceAfter=No|Verso=67
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	da	da	ADP	epska	_	13	case	_	Canto=22|Verso=67
-13	un	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	Canto=22|Verso=67
-14	che	che	PRON	pr	PronType=Rel	18	nsubj	_	Canto=22|Verso=67
-15	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	Canto=22|Verso=67
-16	di	di	ADP	_	_	17	case	_	Canto=22|Verso=67
-17	là	là	ADV	_	_	18	advmod:lmod	_	Canto=22|Verso=67
-18	vicino	vicino	ADJ	a1msxc5	Gender=Masc|Number=Sing	13	acl:relcl	_	Canto=22|SpaceAfter=No|Verso=67
-19	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 cop	color:blue
+1	Rispuose	rispondere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=8|SpaceAfter=No|Verso=36
+2	:	:	PUNCT	_	_	4	punct	_	_
+3	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
+4	Vedi	vedere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp:reported	_	Canto=8|Verso=36
+5	che	che	SCONJ	pr	PronType=Rel	7	mark	_	Canto=8|Verso=36
+6	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	Canto=8|Verso=36
+7	un	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	4	ccomp	_	Canto=8|Verso=36
+8	che	che	PRON	pr	PronType=Rel	9	nsubj	_	Canto=8|Verso=36
+9	piango	piangere	VERB	vi2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	Canto=8|SpaceAfter=No|Verso=36
+10	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

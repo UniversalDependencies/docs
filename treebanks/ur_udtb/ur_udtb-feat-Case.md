@@ -12,7 +12,7 @@ Some words have combined values of the feature; 4 combinations have been observe
 
 75764 tokens (55%) have a non-empty value of `Case`.
 9226 types (85%) occur at least once with a non-empty value of `Case`.
-8468 lemmas (89%) occur at least once with a non-empty value of `Case`.
+8530 lemmas (89%) occur at least once with a non-empty value of `Case`.
 The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32674; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17052; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10578; 8% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (5933; 4% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (5187; 4% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1954; 1% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1611; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (475; 0% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (135; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (94; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (55; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (4; 0% instances).
 
 ### `NOUN`
@@ -187,7 +187,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `EMPTY` (11084): کیا، کہا، کر، کی، ہو، دیا، کرتے، ہے، دی، بتایا
 
 <table>
-  <tr><th>Paradigm <i>کر</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><th>Paradigm <i>کرنا</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td>کر, کی</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>کیے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>کئے, کیے</td></tr>
@@ -242,7 +242,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `EMPTY` (8986): ہے، ہیں، ہوئے، گیا، تھا، ہےں، جا، گئی، گئے، تھی
 
 <table>
-  <tr><th>Paradigm <i>جا</i></th><th><tt>Acc,Erg</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><th>Paradigm <i>جانا</i></th><th><tt>Acc,Erg</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt>_</tt></td><td>جانے</td><td>جا</td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td>جانے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>جا</td><td></td></tr>

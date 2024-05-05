@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ht_autogramm-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="ht_autogramm-dep-obl-mod.html">obl:mod</a></tt>.
 
-17 nodes (1%) are attached to their parents as `obl:arg`.
+18 nodes (1%) are attached to their parents as `obl:arg`.
 
-17 instances of `obl:arg` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.23529411764706.
+18 instances of `obl:arg` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.27777777777778.
 
-The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (10; 59% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (2; 12% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 12% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (10; 56% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 17% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -23,11 +23,11 @@ The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 obl:arg	color:blue
-1	Yon	Yon	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=Un
+1	Yon	yon	DET	_	Definite=Ind|Number=Sing	2	det	_	Gloss=un
 2	pòt	pòt	NOUN	_	_	9	nsubj	_	Gloss=porte
-3	pawòl	pawòl	NOUN	_	_	2	obj	_	Gloss=parole
-4	polis	polis	NOUN	_	_	3	obj	_	Gloss=police
-5	nasyonal	nasyonal	ADJ	_	_	4	amod	_	Gloss=nationale
+3	pawòl	pawòl	NOUN	_	_	2	nmod	_	Gloss=parole
+4	polis	polis	NOUN	_	_	3	nmod	_	Gloss=police
+5	nasyonal	nasyonal	ADJ	_	_	4	amod	_	Gloss=national
 6	Ayiti	Ayiti	PROPN	_	_	4	nmod	_	Gloss=Haïti
 7	pa	pa	ADV	_	Polarity=Neg	9	advmod	_	Gloss=NEG|SpaceAfter=No
 8	t	te	AUX	_	Tense=Past	9	aux	_	Gloss=PAST
@@ -44,34 +44,25 @@ The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 12 obl:arg	color:blue
-1	Pòtpawòl	Pòtpawòl	NOUN	_	_	5	nsubj	_	Gloss=Porte parole
-2	Depatman	Depatman	NOUN	_	_	1	obj	_	Gloss=département
-3	d	de	NOUN	_	Typo=Yes	2	obj	_	Gloss=d'Etat
-4	Eta	_	X	_	_	3	goeswith	_	_
-5	di	di	VERB	_	_	0	root	_	Gloss=dire|SpaceAfter=No
-6	:	:	PUNCT	_	_	5	punct	_	_
-7	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
-8	Nou	Nou	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	Gloss=1PL
-9	o	o	ADJ	_	Typo=Yes	5	obj	_	Gloss=au courant
-10	kouran	_	X	_	_	9	goeswith	_	_
-11	de	de	ADP	_	_	12	case	_	Gloss=du
-12	rapò	rapò	NOUN	_	_	9	obl:arg	_	Gloss=rapport
-13	ki	ki	PRON	_	_	14	nsubj	_	Gloss=qui
-14	di	di	VERB	_	_	12	acl:relcl	_	Gloss=dire
-15	gen	gen	VERB	_	_	14	ccomp	_	Gloss=avoir
-16	2	2	NUM	_	_	17	nummod	_	Gloss=deux
-17	sitwayen	sitwayen	NOUN	_	_	15	obj	_	Gloss=citoyens
-18	Ameriken	ameriken	ADJ	_	_	17	amod	_	Gloss=américains
-19	ki	ki	PRON	_	_	20	nsubj	_	Gloss=qui
-20	disparèt	disparèt	VERB	_	_	17	acl:relcl	_	Gloss=disparaittre
-21	an	an	ADP	_	_	22	case	_	Gloss=en
-22	Ayiti	Ayiti	PROPN	_	_	20	obl	_	Gloss=Haiti|SpaceAfter=No
-23	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 obl:arg	color:blue
+1	Li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Gloss=3SG
+2	pa	pa	ADV	_	Polarity=Neg	4	advmod	_	Gloss=NEG
+3	t	te	AUX	_	Tense=Past	4	aux	_	Gloss=PAST
+4	lòt	lòt	ADJ	_	_	0	root	_	Gloss=autre
+5	ke	ke	SCONJ	_	_	7	case	_	Gloss=que
+6	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Gloss=un
+7	enkoni	enkoni	NOUN	_	_	4	obl:arg	_	Gloss=inconnu
+8	ki	ki	PRON	_	PronType=Rel	12	nsubj	_	Gloss=qui
+9	te	te	AUX	_	Tense=Past	12	aux	_	Gloss=PAST
+10	nan	nan	ADP	_	_	12	case	_	Gloss=dans
+11	dezyèm	dezyèm	ADJ	_	_	12	amod	_	Gloss=deuxième
+12	ane	ane	NOUN	_	_	7	acl:relcl	_	Gloss=année
+13	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	Gloss=le|SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -94,14 +85,14 @@ The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 10	t	te	AUX	_	Tense=Past	11	aux	_	Gloss=PAST|wordform=pat
 11	atann	atann	VERB	_	_	5	acl:relcl	_	Gloss=attendre
 12	a	a	ADP	_	_	13	case	_	Gloss=à
-13	sa	sa	PRON	_	Number=Sing|PronType=Dem	11	obl:arg	_	Gloss=cela
+13	sa	sa	PRON	_	Number=Sing|PronType=Dem	11	obl:arg	_	Gloss=ça
 14	non	non	DET	_	_	13	det	_	Gloss=DET|SpaceAfter=No
-15	,	,	PUNCT	_	_	19	punct	_	_
-16	men	men	CCONJ	_	_	19	cc	_	Gloss=mais
-17	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	19	nsubj	_	Gloss=1SG
-18	pa	pa	ADV	_	Polarity=Neg	19	advmod	_	Gloss=NEG
-19	ka	ka	VERB	_	_	11	conj	_	Gloss=pouvoir
-20	fòse	fòse	VERB	_	_	19	ccomp	_	Gloss=forcer
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	men	men	CCONJ	_	_	20	cc	_	Gloss=mais
+17	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	20	nsubj	_	Gloss=1SG
+18	pa	pa	ADV	_	Polarity=Neg	20	advmod	_	Gloss=NEG
+19	ka	ka	AUX	_	_	20	aux	_	Gloss=pouvoir
+20	fòse	fòse	VERB	_	_	11	conj	_	Gloss=forcer
 21	w	ou	PRON	_	Number=Sing|Person=2|PronType=Prs	20	obj	_	Gloss=2SG|SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 

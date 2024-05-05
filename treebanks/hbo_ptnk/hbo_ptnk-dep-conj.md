@@ -22,16 +22,16 @@ The following 41 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 conj	color:blue
-1	וְ	ו	CCONJ	conj	_	3	cc	_	Ref=GEN_11.14
-2	שֶׁ֥לַח	שׁלח	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Ref=GEN_11.14
-3	חַ֖י	חיה	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_11.14
-4	שְׁלֹשִׁ֣ים	שׁלשׁ	NUM	subs	Gender=Masc|Number=Plur|NumType=Card	5	nummod	_	Ref=GEN_11.14
-5	שָׁנָ֑ה	שׁנה	NOUN	subs	Gender=Fem|Number=Sing	3	obl	_	Ref=GEN_11.14
-6	וַ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_11.14
-7	יֹּ֖ולֶד	ילד	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	Ref=GEN_11.14
-8	אֶת	את	ADP	prep	_	10	case	_	Ref=GEN_11.14|SpaceAfter=No
+1	וְ	ו	CCONJ	conj	_	3	cc	_	Gloss=and|Ref=GEN_11.14
+2	שֶׁ֥לַח	שׁלח	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Shelah|Ref=GEN_11.14
+3	חַ֖י	חיה	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=be alive|Ref=GEN_11.14
+4	שְׁלֹשִׁ֣ים	שׁלשׁ	NUM	subs	Gender=Masc|Number=Plur|NumType=Card	5	nummod	_	Gloss=three|Ref=GEN_11.14
+5	שָׁנָ֑ה	שׁנה	NOUN	subs	Gender=Fem|Number=Sing	3	obl	_	Gloss=year|Ref=GEN_11.14
+6	וַ	ו	CCONJ	conj	_	7	cc	_	Gloss=and|Ref=GEN_11.14
+7	יֹּ֖ולֶד	ילד	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	Gloss=bear|Ref=GEN_11.14
+8	אֶת	את	ADP	prep	_	10	case	_	Gloss=<object marker>|Ref=GEN_11.14|SpaceAfter=No
 9	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_11.14|SpaceAfter=No
-10	עֵֽבֶר	עבר	PROPN	nmpr	Gender=Masc|Number=Sing	7	obj	_	Ref=GEN_11.14|SpaceAfter=No
+10	עֵֽבֶר	עבר	PROPN	nmpr	Gender=Masc|Number=Sing	7	obj	_	Gloss=Eber|Ref=GEN_11.14|SpaceAfter=No
 11	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_11.14
 
 ~~~
@@ -43,17 +43,17 @@ The following 41 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 conj	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_2.1
-2	יְכֻלּ֛וּ	כלה	VERB	verb	Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_2.1
-3	הַ	ה	DET	art	PronType=Art	4	det	_	Ref=GEN_2.1
-4	שָּׁמַ֥יִם	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Ref=GEN_2.1
-5	וְ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_2.1
-6	הָ	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_2.1
-7	אָ֖רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	4	conj	_	Ref=GEN_2.1
-8	וְ	ו	CCONJ	conj	_	9	cc	_	Ref=GEN_2.1
-9	כָל	כל	NOUN	subs	Gender=Masc|Number=Sing	4	conj	_	Ref=GEN_2.1
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_2.1
+2	יְכֻלּ֛וּ	כלה	VERB	verb	Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=be complete|Ref=GEN_2.1
+3	הַ	ה	DET	art	PronType=Art	4	det	_	Gloss=the|Ref=GEN_2.1
+4	שָּׁמַ֥יִם	שׁמים	NOUN	subs	Gender=Masc|Number=Plur	2	nsubj	_	Gloss=heavens|Ref=GEN_2.1
+5	וְ	ו	CCONJ	conj	_	7	cc	_	Gloss=and|Ref=GEN_2.1
+6	הָ	ה	DET	art	PronType=Art	7	det	_	Gloss=the|Ref=GEN_2.1
+7	אָ֖רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	4	conj	_	Gloss=earth|Ref=GEN_2.1
+8	וְ	ו	CCONJ	conj	_	9	cc	_	Gloss=and|Ref=GEN_2.1
+9	כָל	כל	NOUN	subs	Gender=Masc|Number=Sing	4	conj	_	Gloss=whole|Ref=GEN_2.1
 10	־	־	PUNCT	punct	_	11	punct	_	Ref=GEN_2.1|SpaceAfter=No
-11	צְבָאָֽ	צבא	NOUN	subs	Gender=Masc|Number=Sing	9	compound:smixut	_	Ref=GEN_2.1
+11	צְבָאָֽ	צבא	NOUN	subs	Gender=Masc|Number=Sing	9	compound:smixut	_	Gloss=service|Ref=GEN_2.1
 12	ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	Ref=GEN_2.1
 13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_2.1
 
@@ -66,14 +66,14 @@ The following 41 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
-1	וּ	ו	CCONJ	conj	_	4	cc	_	Ref=GEN_10.3
-2	בְנֵ֖י	בן	NOUN	subs	Gender=Masc|Number=Plur	4	nsubj	_	Ref=GEN_10.3
-3	גֹּ֑מֶר	גמר	PROPN	nmpr	Gender=Masc|Number=Sing	2	compound:smixut	_	Ref=GEN_10.3
-4	אַשְׁכֲּנַ֥ז	אשׁכנז	PROPN	nmpr	Number=Sing	0	root	_	Ref=GEN_10.3
-5	וְ	ו	CCONJ	conj	_	6	cc	_	Ref=GEN_10.3
-6	רִיפַ֖ת	ריפת	PROPN	nmpr	Number=Sing	4	conj	_	Ref=GEN_10.3
-7	וְ	ו	CCONJ	conj	_	8	cc	_	Ref=GEN_10.3
-8	תֹגַרְמָֽה	תוגרמה	PROPN	nmpr	Number=Sing	4	conj	_	Ref=GEN_10.3
+1	וּ	ו	CCONJ	conj	_	4	cc	_	Gloss=and|Ref=GEN_10.3
+2	בְנֵ֖י	בן	NOUN	subs	Gender=Masc|Number=Plur	4	nsubj	_	Gloss=son|Ref=GEN_10.3
+3	גֹּ֑מֶר	גמר	PROPN	nmpr	Gender=Masc|Number=Sing	2	compound:smixut	_	Gloss=Gomer|Ref=GEN_10.3
+4	אַשְׁכֲּנַ֥ז	אשׁכנז	PROPN	nmpr	Number=Sing	0	root	_	Gloss=Ashkenaz|Ref=GEN_10.3
+5	וְ	ו	CCONJ	conj	_	6	cc	_	Gloss=and|Ref=GEN_10.3
+6	רִיפַ֖ת	ריפת	PROPN	nmpr	Number=Sing	4	conj	_	Gloss=Riphath|Ref=GEN_10.3
+7	וְ	ו	CCONJ	conj	_	8	cc	_	Gloss=and|Ref=GEN_10.3
+8	תֹגַרְמָֽה	תוגרמה	PROPN	nmpr	Number=Sing	4	conj	_	Gloss=Togarmah|Ref=GEN_10.3
 9	׃	׃	PUNCT	punct	_	4	punct	_	Ref=GEN_10.3
 
 ~~~

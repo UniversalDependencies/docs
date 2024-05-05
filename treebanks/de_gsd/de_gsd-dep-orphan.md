@@ -81,7 +81,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 10	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	Babenberger	Babenberger	PROPN	ADJA	Case=Dat|Gender=Masc|Number=Sing	6	orphan	_	NamedEntity=Yes
 12	Leopold	Leopold	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	11	flat	_	NamedEntity=Yes
-13	VI	VI	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	12	flat	_	NamedEntity=Yes|SpaceAfter=No
+13	VI	VI	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	11	flat	_	NamedEntity=Yes|SpaceAfter=No
 14	.	.	PUNCT	$.	_	13	punct	_	_
 
 ~~~

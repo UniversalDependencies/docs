@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Miguel Ballesteros, Héctor Martínez Alonso, Ryan McDonald, Elena Pascual, Natalia Silveira, Daniel Zeman, Joakim Nivre.
 
 Repository: [UD_Spanish-GSD](https://github.com/UniversalDependencies/UD_Spanish-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -860,7 +860,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (2)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Fin--NOUN (6550)</li>
+      <li>VERB-Fin--NOUN (6555)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
@@ -898,7 +898,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6109)</li>
+      <li>VERB-Fin--NOUN (6108)</li>
       <li>VERB-Fin--NOUN-ADP(a) (388)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (8)</li>
@@ -917,7 +917,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc,Nom (2)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(a) (14)</li>
-      <li>VERB-Fin--PRON-Dat (86)</li>
+      <li>VERB-Fin--PRON-Dat (14)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Ger--NOUN (696)</li>
       <li>VERB-Ger--NOUN-ADP(a) (62)</li>
@@ -925,7 +925,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-ADP(a) (4)</li>
       <li>VERB-Ger--PRON-Acc (84)</li>
       <li>VERB-Ger--PRON-Acc,Dat (3)</li>
-      <li>VERB-Ger--PRON-Dat (6)</li>
+      <li>VERB-Ger--PRON-Dat (3)</li>
       <li>VERB-Inf--NOUN (2611)</li>
       <li>VERB-Inf--NOUN-ADP(a) (243)</li>
       <li>VERB-Inf--NOUN-ADP(baer) (1)</li>
@@ -936,7 +936,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc,Dat (25)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON-Dat (29)</li>
+      <li>VERB-Inf--PRON-Dat (11)</li>
       <li>VERB-Part--NOUN (520)</li>
       <li>VERB-Part--NOUN-ADP(a) (38)</li>
       <li>VERB-Part--PRON (33)</li>
@@ -945,7 +945,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc,Dat (15)</li>
       <li>VERB-Part--PRON-Acc,Nom (1)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(a) (1)</li>
-      <li>VERB-Part--PRON-Dat (12)</li>
+      <li>VERB-Part--PRON-Dat (3)</li>
     </ul>
   </li>
 </ul>
@@ -967,7 +967,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 5 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: advertir se, comer se, convertir se, decir se, hacer se</li>
+  <li>This corpus contains 6 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: acordar se, advertir se, comer se, convertir se, decir se, hacer se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>

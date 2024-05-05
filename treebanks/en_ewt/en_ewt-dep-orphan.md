@@ -58,9 +58,9 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 7	but	but	CCONJ	CC	_	10	cc	7.1:cc	_
 8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 9	wine	wine	NOUN	NN	Number=Sing	10	compound	10:compound	_
-10	flight	flight	NOUN	NN	Number=Sing	2	conj	7.1:obj|16:nsubj:xsubj	_
+10	flight	flight	NOUN	NN	Number=Sing	2	conj	7.1:obj|12:obj|16:nsubj:xsubj	_
 11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	_
-12	chose	choose	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	acl:relcl	10:acl:relcl	_
+12	chose	choose	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	acl:relcl	10:acl:relcl	Cxn=rc-red-obj
 13	to	to	PART	TO	_	16	mark	16:mark	_
 14	be	be	AUX	VB	VerbForm=Inf	16	aux:pass	16:aux:pass	_
 15	poorly	poorly	ADV	RB	_	16	advmod	16:advmod	_

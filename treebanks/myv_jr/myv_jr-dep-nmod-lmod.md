@@ -48,9 +48,9 @@ The following 2 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 4	бандазо	банда	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	GTtags=Sg,Nom,PxSg3
 5	лоткакшнось	лоткамс	VERB	V	Derivation=OkshnOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Der/ОкшнОмс,V,IV,Ind,Prt1,ScSg3
 6	минек	мон	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	9	nmod:lmod	_	GTtags=Pers,Pl1,Gen
-7	вакснэ	вакссо	ADP	Adp	Case=Ine	6	case	_	GTtags=Pl,Nom,Def
-8	Бессоновка	Бессоновка	PROPN	N	Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	9	compound	_	GTtags=Prop,Sg,Nom,Indef
-9	велес	веле	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=Sem/Plc,SP,Ill,Indef|SpaceAfter=No
+7	вакснэ	вакссо	ADP	Po	AdpType=Post|Case=Ine	6	case	_	GTtags=Pl,Nom,Def
+8	Бессоновка	Бессоновка	PROPN	N	Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	9	compound:nn	_	GTtags=Prop,Sg,Nom,Indef
+9	велес	веле	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	5	obl:lmod	_	GTtags=Sem/Plc,SP,Ill,Indef|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

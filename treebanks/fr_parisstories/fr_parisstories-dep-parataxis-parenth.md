@@ -35,7 +35,7 @@ The following 11 pairs of parts of speech are connected with `parataxis:parenth`
 11	que	que	PRON	_	PronType=Rel	10	acl:relcl	_	AlignBegin=89351|AlignEnd=89492
 12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	AlignBegin=89492|AlignEnd=89634|SpaceAfter=No
 13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	AlignBegin=89634|AlignEnd=89775|SpaceAfter=No
-14	,	,	PUNCT	_	_	16	punct	_	AlignBegin=89775|AlignEnd=89775
+14	,	,	PUNCT	_	_	4	punct	_	AlignBegin=89775|AlignEnd=89775
 15	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	AlignBegin=89775|AlignEnd=89916
 16	génération	génération	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=89916|AlignEnd=90058|SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	AlignBegin=90058|AlignEnd=90058
@@ -84,7 +84,7 @@ The following 11 pairs of parts of speech are connected with `parataxis:parenth`
 3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	_
 4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	reparandum	_	_
 5	tellement	tellement	ADV	_	_	4	advmod	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	12	punct	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
 7	euh	euh	INTJ	_	_	12	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-793 nodes (3%) are attached to their parents as `obj`.
+785 nodes (3%) are attached to their parents as `obj`.
 
-713 instances of `obj` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.94577553593947.
+712 instances of `obj` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.98471337579618.
 
-The following 12 pairs of parts of speech are connected with `obj`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (661; 83% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (96; 12% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (662; 84% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (90; 11% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3 4 obj	color:blue
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	programa	programa	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	gana	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	gana	ganar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	dinero	dinero	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 5	mediante	mediante	ADP	IN	_	7	case	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -43,7 +43,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 obj	color:blue
-1	No	_	ADV	RB	Polarity=Neg	4	advmod	_	_
+1	No	no	ADV	RB	Polarity=Neg	4	advmod	_	_
 2	todo	todo	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	4	det	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -62,8 +62,8 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 10 obj	color:blue
 1	De	de	ADP	IN	_	7	discourse	_	_
-2	todas	_	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
-3	maneras	_	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
+2	todas	todo	DET	DT	Gender=Fem|Number=Plur|PronType=Tot	1	fixed	_	_
+3	maneras	manera	NOUN	NN	Gender=Fem|Number=Plur	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	,	_	1	punct	_	_
 5	Pyrrhus	Pyrrhus	PROPN	NNP	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 6	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
@@ -74,7 +74,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 11	para	para	ADP	IN	_	12	case	_	_
 12	atender	atender	VERB	VB	VerbForm=Inf	9	xcomp	_	_
 13	unos	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-14	negocios	_	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
+14	negocios	negocio	NOUN	NN	Gender=Masc|Number=Plur	12	obj	_	_
 15	en	en	ADP	IN	_	17	case	_	_
 16	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	sur	sur	NOUN	NN	Gender=Masc|Number=Sing	12	obl	_	_

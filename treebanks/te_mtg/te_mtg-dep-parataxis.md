@@ -22,15 +22,15 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 parataxis	color:blue
-1	మీ	_	PRON	PRON	_	2	nmod:poss	_	Translit=mī|LTranslit=_
-2	కలంలో	_	NOUN	NOUN	_	4	obl	_	Translit=kalaṁlo|LTranslit=_
-3	సిరా	_	NOUN	NOUN	_	4	nsubj	_	Translit=sirā|LTranslit=_
-4	ఉన్నది	_	VERB	VERB	_	0	root	_	Translit=unnadi|LTranslit=_
-5	;	_	PUNCT	PUNCT	_	4	punct	_	Translit=;|LTranslit=_
-6	నా	_	PRON	PRON	_	7	nmod:poss	_	Translit=nā|LTranslit=_
-7	దాంట్లో	_	PRON	PRON	_	8	obl	_	Translit=dāṁṭlo|LTranslit=_
-8	లేదు	_	VERB	VERB	_	4	parataxis	_	Translit=ledu|LTranslit=_
-9	.	_	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=_
+1	మీ	_	PRON	PRON	_	2	nmod:poss	_	Translit=mī
+2	కలంలో	_	NOUN	NOUN	_	4	obl	_	Translit=kalaṁlō
+3	సిరా	_	NOUN	NOUN	_	4	nsubj	_	Translit=sirā
+4	ఉన్నది	_	VERB	VERB	_	0	root	_	Translit=unnadi
+5	;	_	PUNCT	PUNCT	_	4	punct	_	Translit=;
+6	నా	_	PRON	PRON	_	7	nmod:poss	_	Translit=nā
+7	దాంట్లో	_	PRON	PRON	_	8	obl	_	Translit=dāṁṭlō
+8	లేదు	_	VERB	VERB	_	4	parataxis	_	Translit=lēdu
+9	.	_	PUNCT	PUNCT	_	8	punct	_	Translit=.
 
 ~~~
 
@@ -41,13 +41,13 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 parataxis	color:blue
-1	ఇది	_	PRON	PRON	_	6	nsubj	_	Translit=idi|LTranslit=_
-2	సగం	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=sagaṁ|LTranslit=_
-3	పాలు	_	NOUN	NOUN	_	6	parataxis	_	Translit=pālu|LTranslit=_
-4	,	_	PUNCT	PUNCT	_	3	punct	_	Translit=,|LTranslit=_
-5	సగం	_	NUM	NUM	NumType=Card	6	nummod	_	Translit=sagaṁ|LTranslit=_
-6	నీళ్ళు	_	NOUN	NOUN	_	0	root	_	Translit=nīḷḷu|LTranslit=_
-7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
+1	ఇది	_	PRON	PRON	_	6	nsubj	_	Translit=idi
+2	సగం	_	NUM	NUM	NumType=Card	3	nummod	_	Translit=sagaṁ
+3	పాలు	_	NOUN	NOUN	_	6	parataxis	_	Translit=pālu
+4	,	_	PUNCT	PUNCT	_	3	punct	_	Translit=,
+5	సగం	_	NUM	NUM	NumType=Card	6	nummod	_	Translit=sagaṁ
+6	నీళ్ళు	_	NOUN	NOUN	_	0	root	_	Translit=nīḷḷu
+7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.
 
 ~~~
 
@@ -58,14 +58,14 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 parataxis	color:blue
-1	రాము	_	PROPN	PROPN	_	3	nsubj	_	Translit=rāmu|LTranslit=_
-2	వాళ్ళలో	_	PRON	PRON	_	3	obl	_	Translit=vāḷḷalo|LTranslit=_
-3	మొదటివాడు	_	NOUN	NOUN	_	0	root	_	Translit=mòdaṭivāḍu|LTranslit=_
-4	;	_	PUNCT	PUNCT	_	3	punct	_	Translit=;|LTranslit=_
-5	నేను	_	PRON	PRON	_	7	nsubj	_	Translit=nenu|LTranslit=_
-6	మొదటివాణ్ణి	_	NOUN	NOUN	_	7	obj	_	Translit=mòdaṭivāṇṇi|LTranslit=_
-7	పిలిచేను	_	VERB	VERB	_	3	parataxis	_	Translit=pilicenu|LTranslit=_
-8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=_
+1	రాము	_	PROPN	PROPN	_	3	nsubj	_	Translit=rāmu
+2	వాళ్ళలో	_	PRON	PRON	_	3	obl	_	Translit=vāḷḷalō
+3	మొదటివాడు	_	NOUN	NOUN	_	0	root	_	Translit=modaṭivāḍu
+4	;	_	PUNCT	PUNCT	_	3	punct	_	Translit=;
+5	నేను	_	PRON	PRON	_	7	nsubj	_	Translit=nēnu
+6	మొదటివాణ్ణి	_	NOUN	NOUN	_	7	obj	_	Translit=modaṭivāṇṇi
+7	పిలిచేను	_	VERB	VERB	_	3	parataxis	_	Translit=pilicēnu
+8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.
 
 ~~~
 

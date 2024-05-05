@@ -23,11 +23,11 @@ The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obl	color:blue
-1	నిన్న	_	ADV	ADV	_	4	obl:tmod	_	Translit=ninna|LTranslit=_
-2	మేము	_	PRON	PRON	_	4	nsubj	_	Translit=memu|LTranslit=_
-3	ఊళ్ళో	_	NOUN	NOUN	_	4	obl	_	Translit=ūḷḷo|LTranslit=_
-4	లేము	_	VERB	VERB	_	0	root	_	Translit=lemu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	నిన్న	_	ADV	ADV	_	4	obl:tmod	_	Translit=ninna
+2	మేము	_	PRON	PRON	_	4	nsubj	_	Translit=mēmu
+3	ఊళ్ళో	_	NOUN	NOUN	_	4	obl	_	Translit=ūḷḷō
+4	లేము	_	VERB	VERB	_	0	root	_	Translit=lēmu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obl	color:blue
-1	నాలాగా	_	PRON	PRON	_	3	obl	_	Translit=nālāgā|LTranslit=_
-2	జన్మంతా	_	NOUN	NOUN	_	3	nsubj	_	Translit=janmaṁtā|LTranslit=_
-3	బాధపడాలి	_	VERB	VERB	_	4	ccomp	_	Translit=bādhapaḍāli|LTranslit=_
-4	అనుకొన్నావా	_	VERB	VERB	_	0	root	_	Translit=anukònnāvā|LTranslit=_
-5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
+1	నాలాగా	_	PRON	PRON	_	3	obl	_	Translit=nālāgā
+2	జన్మంతా	_	NOUN	NOUN	_	3	nsubj	_	Translit=janmaṁtā
+3	బాధపడాలి	_	VERB	VERB	_	4	ccomp	_	Translit=bādhapaḍāli
+4	అనుకొన్నావా	_	VERB	VERB	_	0	root	_	Translit=anukonnāvā
+5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?
 
 ~~~
 
@@ -53,11 +53,11 @@ The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl	color:blue
-1	రాముడు	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmuḍu|LTranslit=_
-2	సీతతో	_	PROPN	PROPN	_	4	obl	_	Translit=sītato|LTranslit=_
-3	అడవికి	_	NOUN	NOUN	_	4	obl	_	Translit=aḍaviki|LTranslit=_
-4	వెళ్ళేడు	_	VERB	VERB	_	0	root	_	Translit=vèḷḷeḍu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	రాముడు	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmuḍu
+2	సీతతో	_	PROPN	PROPN	_	4	obl	_	Translit=sītatō
+3	అడవికి	_	NOUN	NOUN	_	4	obl	_	Translit=aḍaviki
+4	వెళ్ళేడు	_	VERB	VERB	_	0	root	_	Translit=veḷḷēḍu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 

@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>на</em> (<tt><a href="kpv_lattice-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.064151 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `ADV` is 1.064151 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (5) was observed with the lemma “ёна”: <em>медъёна, ёна, ёнакодь, ёнасӧ, ёнджыкасӧ</em>.
 

@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 6	:	:	PUNCT	:	_	3	punct	_	_
 7	it	it	PRON	VBZ	_	9	nsubj	_	_
 8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
-9	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
+9	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~

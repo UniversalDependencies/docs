@@ -12,18 +12,18 @@ It occurs with 2 different values: `Plur`, `Sing`.
 13839 tokens (58%) have a non-empty value of `Number`.
 2981 types (71%) occur at least once with a non-empty value of `Number`.
 2417 lemmas (66%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3815; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3734; 16% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1444; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (986; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (670; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3813; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3734; 16% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1444; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (986; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (672; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `DET`
 
-3815 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+3813 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3134; 82%), <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2759; 72%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3132; 82%), <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2759; 72%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (481; 13% of non-empty `Number`): <em>les, des, mes, quelles, de, ses, quels, vos, ces, d'</em>
-* `Sing` (3334; 87% of non-empty `Number`): <em>le, la, l', quelle, quel, un, une, mon, sa, ma</em>
+* `Sing` (3332; 87% of non-empty `Number`): <em>le, la, l', quelle, quel, un, une, mon, sa, ma</em>
 * `EMPTY` (21): <em>la, l', 17 451, quelqu', un</em>
 
 <table>
@@ -126,15 +126,15 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `PRON`
 
-670 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (40% of all `PRON` tokens) have a non-empty value of `Number`.
+672 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (642; 96%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (467; 70%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (642; 96%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (469; 70%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (65; 10% of non-empty `Number`): <em>-ils, vous, -elles, -vous, les, ceux, elles, eux, lesquelles, nous</em>
-* `Sing` (605; 90% of non-empty `Number`): <em>-t-il, -il, -je, -t-elle, je, -t-on, -elle, -on, j', il</em>
-* `EMPTY` (988): <em>qui, qu', -ce, se, que, s', y, quoi, dont, Quels</em>
+* `Sing` (607; 90% of non-empty `Number`): <em>-t-il, -il, -je, -t-elle, je, -t-on, -elle, -on, j', il</em>
+* `EMPTY` (986): <em>qui, qu', -ce, se, que, s', y, quoi, dont, Quels</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -166,5 +166,5 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (394; 87%),
 <tt>VERB --[<tt><a href="fr_fqb-dep-obj.html">obj</a></tt>]--> NOUN</tt> (311; 53%),
 <tt>VERB --[<tt><a href="fr_fqb-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (294; 93%),
-<tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (248; 58%).
+<tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (249; 58%).
 

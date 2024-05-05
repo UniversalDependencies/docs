@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-282 nodes (2%) are attached to their parents as `cop`.
+277 nodes (2%) are attached to their parents as `cop`.
 
-276 instances of `cop` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.23758865248227.
+271 instances of `cop` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.24909747292419.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (115; 41% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (110; 39% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (14; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (13; 5% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (12; 4% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (10; 4% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (114; 41% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (110; 40% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (15; 5% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (12; 4% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (10; 4% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

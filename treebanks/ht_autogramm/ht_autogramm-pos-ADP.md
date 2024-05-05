@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Haitian_Creole-Autogramm: POS Tags: `ADP`
 
 There are 37 `ADP` lemmas (4%), 37 `ADP` types (4%) and 342 `ADP` tokens (10%).
-Out of 16 observed tags, the rank of `ADP` is: 6 in number of lemmas, 6 in number of types and 3 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 6 in number of lemmas, 6 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>nan, pou, ak, sou, an, pandan, apre, de, akoz, a</em>
 
 The 10 most frequent `ADP` types:  <em>nan, pou, ak, sou, an, pandan, apre, de, akoz, a</em>
 
-The 10 most frequent ambiguous lemmas: <em>nan</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 84, <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 7), <em>pou</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 80, <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 1), <em>ak</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 41, <tt><a href="ht_autogramm-pos-CCONJ.html">CCONJ</a></tt> 20), <em>an</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 19, <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 17), <em>pandan</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 13, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>apre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 10, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>de</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> 1), <em>akoz</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>a</em> (<tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 48, <tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 3), <em>san</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>pou</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 80, <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 1), <em>ak</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 41, <tt><a href="ht_autogramm-pos-CCONJ.html">CCONJ</a></tt> 20), <em>pandan</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 13, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>apre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 10, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>de</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 7, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> 1), <em>akoz</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 4, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>san</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 1), <em>anba</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 1), <em>anvan</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 1), <em>dapre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>nan</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 82, <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 7), <em>pou</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 80, <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 1), <em>ak</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 40, <tt><a href="ht_autogramm-pos-CCONJ.html">CCONJ</a></tt> 20), <em>an</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 17, <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 17), <em>pandan</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 13, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>apre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 10, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>a</em> (<tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 48, <tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 3), <em>san</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 3, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 1), <em>anba</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 1), <em>anvan</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -52,13 +52,13 @@ The 10 most frequent ambiguous types:  <em>nan</em> (<tt><a href="ht_autogramm-p
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.018653).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.032770).
 
-The 1st highest number of forms (2) was observed with the lemma “an”: <em>an, ann</em>.
+The 1st highest number of forms (1) was observed with the lemma “Pandan”: <em>Pandan</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Pandan”: <em>Pandan</em>.
+The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
+The 3rd highest number of forms (1) was observed with the lemma “ak”: <em>ak</em>.
 
 `ADP` does not occur with any features.
 

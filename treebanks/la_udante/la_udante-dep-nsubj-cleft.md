@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:cleft`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 nsubj:cleft	color:blue
-1	Fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+1	Fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 2	ergo	ergo	ADV	co	AdvType=Loc	4	discourse	_	_
 3	hebraicum	hebraicus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	4	amod	_	_
 4	ydioma	idioma	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	0	root	_	_

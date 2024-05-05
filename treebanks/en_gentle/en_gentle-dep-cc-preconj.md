@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	to	to	PART	TO	_	6	mark	6:mark	_
 5	have	have	AUX	VB	VerbForm=Inf	6	aux	6:aux	_
 6	become	become	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	3:xcomp	MSeg=be-come
-7	disoriented	disoriented	ADJ	JJ	Degree=Pos	6	xcomp	6:xcomp	_
+7	disoriented	disoriented	ADJ	JJ	Degree=Pos	6	xcomp	6:xcomp	MSeg=dis-orient-ed
 8	either	either	CCONJ	CC	_	9	cc:preconj	9:cc:preconj	_
 9	secondary	secondary	ADJ	JJ	Degree=Pos	7	advmod	7:advmod	MSeg=second-ary
 10	to	to	ADP	IN	_	11	case	11:case	_
@@ -68,10 +68,10 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 34	bgColor:blue
 # visual-style 34	fgColor:white
 # visual-style 34 32 cc:preconj	color:blue
-1	Submission	submission	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	Discourse=organization-preparation:181->183:3:_|Entity=(270-abstract-new-cf3-1-sgl
+1	Submission	submission	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	Discourse=organization-preparation:181->183:3:_|Entity=(270-abstract-new-cf3-1-sgl|MSeg=Submiss-ion
 2	of	of	ADP	IN	_	4	case	4:case	_
 3	any	any	DET	DT	PronType=Ind	4	det	4:det	Entity=(271-abstract-new-cf12-2-sgl
-4	assignment	assignment	NOUN	NN	Number=Sing	1	nmod	1:nmod:of|8:nsubj	_
+4	assignment	assignment	NOUN	NN	Number=Sing	1	nmod	1:nmod:of|8:nsubj	MSeg=assign-ment
 5	that	that	PRON	WDT	PronType=Rel	8	nsubj	4:ref	Discourse=elaboration-attribute:182->181:0:_
 6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	8:cop	_
 7	in	in	ADP	IN	_	8	case	8:case	_
@@ -79,10 +79,10 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 9	of	of	ADP	IN	_	11	case	11:case	_
 10	this	this	DET	DT	Number=Sing|PronType=Dem	11	det	11:det	Entity=(263-abstract-giv:act-cf1*-2-coref
 11	policy	policy	NOUN	NN	Number=Sing	8	nmod	8:nmod:of	Entity=263)271)270)
-12	will	will	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	13	aux	13:aux	_
+12	will	will	AUX	MD	VerbForm=Fin	13	aux	13:aux	_
 13	result	result	VERB	VB	VerbForm=Inf	0	root	0:root	_
 14	in	in	ADP	IN	_	21	case	21:case	_
-15	(1)	(1)	X	LS	_	21	dep	21:dep	Discourse=adversative-contrast_m:183->177:2:_
+15	(1)	(1)	X	LS	_	21	discourse	21:discourse	Discourse=adversative-contrast_m:183->177:2:_
 16	an	a	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	Entity=(272-abstract-new-cf13-6-sgl
 17	academic	academic	ADJ	JJ	Degree=Pos	21	amod	21:amod	MSeg=academ-ic
 18	(	(	PUNCT	-LRB-	_	19	punct	19:punct	Discourse=elaboration-additional:184->183:0:_|SpaceAfter=No
@@ -90,14 +90,14 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 20	)	)	PUNCT	-RRB-	_	19	punct	19:punct	_
 21	penalty	penalty	NOUN	NN	Number=Sing	13	obl	13:obl:in	Discourse=same-unit_m:185->183:1:_|Entity=272)
 22	and	and	CCONJ	CC	_	24	cc	24:cc	Discourse=joint-list_m:186->183:2:_
-23	(2)	(2)	X	LS	_	24	dep	24:dep	_
-24	reporting	report	VERB	VBG	VerbForm=Ger	21	conj	13:obl:in|21:conj:and	MSeg=re-port-ing
+23	(2)	(2)	X	LS	_	24	discourse	24:discourse	_
+24	reporting	report	VERB	VBG	Tense=Pres|VerbForm=Part	21	conj	13:obl:in|21:conj:and	MSeg=report-ing
 25	to	to	ADP	IN	_	27	case	27:case	_
 26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	Entity=(274-person-new-cf4-2,4,5-sgl
 27	Dean	Dean	PROPN	NNP	Number=Sing	24	obl	24:obl:to	_
 28	of	of	ADP	IN	_	30	case	30:case	_
-29	Academic	Academic	ADJ	NNP	Degree=Pos|Number=Sing	30	amod	30:amod	Entity=(275-abstract-new-cf10-1,2-sgl
-30	Affairs	Affair	PROPN	NNP	Number=Sing	27	nmod	27:nmod:of	Entity=275)274)
+29	Academic	Academic	ADJ	NNP	Degree=Pos	30	amod	30:amod	Entity=(275-abstract-new-cf10-1,2-sgl
+30	Affairs	Affair	PROPN	NNPS	Number=Plur	27	nmod	27:nmod:of	Entity=275)274)|MSeg=Affair-s
 31	and	and	CCONJ	CC	_	34	cc	34:cc	_
 32	either	either	CCONJ	CC	_	34	cc:preconj	34:cc:preconj	_
 33	the	the	DET	DT	Definite=Def|PronType=Art	34	det	34:det	Entity=(276-person-new-cf5-2,4,7,11,13,14-sgl(277-person-new-cf6-2,4-sgl
@@ -116,7 +116,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 46	Education	Education	PROPN	NNP	Number=Sing	43	nmod	43:nmod:of	Entity=281)280)|MSeg=Educat-ion
 47	(	(	PUNCT	-LRB-	_	50	punct	50:punct	Discourse=elaboration-additional:189->188:0:_|SpaceAfter=No
 48	for	for	ADP	IN	_	50	case	50:case	_
-49	Graduate	Graduate	ADJ	NNP	Degree=Pos|Number=Sing	50	amod	50:amod	Entity=(256-person-giv:inact-cf2-2-coref
+49	Graduate	Graduate	ADJ	NNP	Degree=Pos	50	amod	50:amod	Entity=(256-person-giv:inact-cf2-2-coref
 50	students	student	NOUN	NNS	Number=Plur	43	orphan	43:orphan	Entity=256)|MSeg=stud-ent-s|SpaceAfter=No
 51	)	)	PUNCT	-RRB-	_	50	punct	50:punct	Entity=276)|SpaceAfter=No
 52	.	.	PUNCT	.	_	13	punct	13:punct	_

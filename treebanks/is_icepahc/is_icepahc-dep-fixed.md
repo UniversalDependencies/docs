@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-712 nodes (0%) are attached to their parents as `fixed`.
+713 nodes (0%) are attached to their parents as `fixed`.
 
-712 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00280898876405.
+713 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00280504908836.
 
-The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (530; 74% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (173; 24% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (530; 74% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (173; 24% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

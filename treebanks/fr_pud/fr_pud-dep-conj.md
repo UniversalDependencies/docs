@@ -72,7 +72,7 @@ The following 27 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 14 16 conj	color:blue
 1	Parmi	parmi	ADP	IN	_	2	case	_	wordform=parmi
 2	eux	soi	PRON	PRP	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	_
-3	se	se	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	se	se	PRON	PRP	Person=3|PronType=Prs	4	obj	_	_
 4	trouve	trouver	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	l'	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 6	ancien	ancien	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_

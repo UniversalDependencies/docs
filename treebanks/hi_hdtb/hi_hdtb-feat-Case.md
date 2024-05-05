@@ -12,7 +12,7 @@ Some words have combined values of the feature; 5 combinations have been observe
 
 189511 tokens (54%) have a non-empty value of `Case`.
 16016 types (84%) occur at least once with a non-empty value of `Case`.
-13953 lemmas (90%) occur at least once with a non-empty value of `Case`.
+14023 lemmas (90%) occur at least once with a non-empty value of `Case`.
 The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (78053; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (42541; 12% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (26352; 7% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (14784; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (14042; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (6557; 2% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4933; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1386; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (535; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (288; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (29; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -178,7 +178,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `EMPTY` (29402): कहा, किया, कर, की, दिया, हो, है, बताया, दी, हुई
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Acc,Gen</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td>कर</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td>करते</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td>करते</td></tr>
@@ -266,7 +266,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `EMPTY` (23221): है, हैं, गया, था, गई, हुए, गए, थी, जा, रहे
 
 <table>
-  <tr><th>Paradigm <i>जा</i></th><th><tt>Acc,Erg</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><th>Paradigm <i>जाना</i></th><th><tt>Acc,Erg</tt></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
   <tr><td><tt>_</tt></td><td>जाने</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td></td><td>जाने</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td></td><td>जाने</td></tr>

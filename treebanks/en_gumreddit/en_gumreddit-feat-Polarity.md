@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1083): <em>_</em>
+* `EMPTY` (1080): <em>_</em>
 
 ### `DET`
 
@@ -58,12 +58,12 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 ### `INTJ`
 
-9 <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> tokens (15% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+9 <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> tokens (16% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (50): <em>_</em>
+* `EMPTY` (49): <em>_</em>
 
 ### `PRON`
 
@@ -85,5 +85,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (2661): <em>_</em>
+* `EMPTY` (2657): <em>_</em>
 

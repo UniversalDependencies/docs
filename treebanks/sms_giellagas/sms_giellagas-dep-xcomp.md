@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 xcomp	color:blue
-1	Mutta	mutta	CCONJ	_	_	4	cc	_	GTtags=CC
+1	Mutta	mutta	CCONJ	CC	_	4	cc	_	GTtags=CC
 2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	GTtags=Pers,Sg1,Nom
 3	jiõm	ij	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	4	aux:neg	_	GTtags=Neg,Ind,Sg1,@+FAUXV
 4	muuʹšt	muʹštted	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	0	root	_	GTtags=Ind,Prs,ConNeg,@+FMAINV
@@ -39,11 +39,11 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 xcomp	color:blue
-1	Kueʹllen	kueʹll	NOUN	_	Case=Ess	2	xcomp	_	GTtags=Ess
-2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
-3	ja	ja	CCONJ	_	_	5	cc	_	_
-4	låʹdden	låʹdd	NOUN	_	Case=Ess	5	xcomp	_	GTtags=Ess
-5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+1	Kueʹllen	kueʹll	NOUN	N	Case=Ess	2	xcomp	_	GTtags=Ess
+2	vuâjj	vuõjjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
+3	ja	ja	CCONJ	CC	_	5	cc	_	_
+4	låʹdden	låʹdd	NOUN	N	Case=Ess	5	xcomp	_	GTtags=Ess
+5	ǩeârdd	ǩeʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

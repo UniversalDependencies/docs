@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-273 nodes (1%) are attached to their parents as `cop`.
+239 nodes (1%) are attached to their parents as `cop`.
 
-248 instances of `cop` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.91575091575092.
+214 instances of `cop` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.96652719665272.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (134; 49% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (127; 47% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (123; 51% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (104; 44% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 cop	color:blue
-1	Tenemos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Tenemos	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	equipo	equipo	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-7	nuestra	_	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+7	nuestra	nuestro	PRON	DTP$	Gender=Fem|Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
 8	oportunidad	oportunidad	NOUN	NN	Gender=Fem|Number=Sing	1	conj	_	_
 9	para	para	ADP	IN	_	10	case	_	_
 10	progresar	progresar	VERB	VB	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 8	volviendo	volver	VERB	VBG	VerbForm=Ger	7	xcomp	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	por	por	ADP	IN	_	11	case	_	_
-11	más	_	ADV	RBR	Degree=Cmp	8	advmod	_	SpaceAfter=No
+11	más	más	ADV	RBR	Degree=Cmp	8	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~

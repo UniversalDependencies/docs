@@ -8,56 +8,54 @@ udver: '2'
 
 This relation is universal.
 
-181 nodes (1%) are attached to their parents as `nummod`.
+1590 nodes (1%) are attached to their parents as `nummod`.
 
-175 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22651933701657.
+1514 instances of `nummod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22075471698113.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (149; 82% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (16; 9% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (12; 7% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (4; 2% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (1383; 87% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (108; 7% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (46; 3% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (32; 2% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt> (10; 1% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 nummod	color:blue
-1	sādaya	sāday	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
-2	yoniṣu	yoni	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	1	obl	_	_
-3	triṣu	tri	NUM	_	Case=Loc|Gender=Masc|Number=Plur	2	nummod	_	_
+# visual-style 2 1 nummod	color:blue
+1	ekaviṃśatim	ekaviṃśati	NUM	_	Case=Acc|Gender=Fem|Number=Sing	2	nummod	_	LemmaId=39392|OccId=4794333|Unsandhied=ekaviṃśatim|Annotator=Sv
+2	śarkarāḥ	śarkarā	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	LemmaId=116207|OccId=4794380|Unsandhied=śarkarāḥ|Annotator=Sv
+3	catuṣpathe	catuṣpatha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	4	obl	_	LemmaId=164274|OccId=4794381|Unsandhied=catuṣpathe|Annotator=Au
+4	avakṣipya	avakṣip	VERB	_	VerbForm=Conv	5	advcl	_	LemmaId=159449|OccId=4794334|Unsandhied=avakṣipya|Annotator=Sv
+5	avakirati	avakṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=159438|OccId=4794335|Unsandhied=avakirati|Annotator=Au|Punctuation=fullStop
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nummod	color:blue
-1	apaśyam	paś	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	7	ccomp	_	_
-2	gopām	gopā	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
-3	a	a	PART	_	_	4	advmod	_	_
-4	nipadyamānam	nipad	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	2	amod	_	_
-5	iti	iti	PART	_	_	1	mark	_	_
-6	catasraḥ	catur	NUM	_	Case=Nom|Gender=Fem|Number=Plur	7	nummod	_	_
-7	ekapātinyaḥ	ekapātin	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 nummod	color:blue
-1	tāsām	tad	PRON	_	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	_
-2	tris	tris	NUM	_	_	4	nummod	_	_
-3	prathamām	prathama	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
-4	anvāha	anvah	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-5	tris	tris	ADV	_	_	6	advmod	_	_
-6	uttamām	uttama	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	ekaḥ	eka	NUM	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=39102|OccId=5490636|Unsandhied=ekaḥ|Annotator=Au
+2	eṣa	etad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=163744|OccId=5490637|Unsandhied=eṣa|Annotator=Au
+3	bhavati	bhū	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	cop	_	LemmaId=157250|OccId=5490638|Unsandhied=bhavati|Annotator=Au|Punctuation=comma
+4	eka	eka	NUM	_	Compound=Yes	5	nummod	_	LemmaId=39102|OccId=5490639|Unsandhied=eka|Annotator=Au
+5	devatyaḥ	devatya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	LemmaId=87132|OccId=5490640|Unsandhied=devatyaḥ|Annotator=Sv|Punctuation=fullStop
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nummod	color:blue
+1	tāni	tad	PRON	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	LemmaId=37875|OccId=3541178|Unsandhied=tāni|Annotator=Au
+2	_	eka	NUM	_	Compound=Yes	3	nummod	_	LemmaId=39102|OccId=3541179|Unsandhied=_|Annotator=Au
+3	śatam	śata	NUM	_	Case=Nom|Gender=Neut|Number=Sing	4	xcomp:result	_	LemmaId=116433|OccId=3541180|Unsandhied=śatam|Annotator=Ol
+4	saṃpeduḥ	sampad	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=165414|OccId=3541181|Unsandhied=saṃpeduḥ|Annotator=Au
 
 ~~~
 

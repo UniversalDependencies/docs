@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	,	,	PUNCT	Z	_	11	punct	11:punct	_
 8	ktorí	ktorý	DET	PAmp1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|PronType=Int,Rel	11	nsubj:pass	6:ref	_
 9	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	11	expl:pass	11:expl:pass	_
-10	mu	on	PRON	PFms3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl:arg	11:obl:arg:dat|12:nsubj	_
+10	mu	on	PRON	PFms3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl:arg	11:obl:arg:dat|12:nsubj:xsubj	_
 11	dali	dať	VERB	VLdpcm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	6	acl:relcl	6:acl:relcl	_
 12	zviesť	zviesť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	11	xcomp	11:xcomp	SpaceAfter=No
 13	.	.	PUNCT	Z	_	2	punct	2:punct	_

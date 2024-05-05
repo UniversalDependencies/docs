@@ -74,13 +74,13 @@ The following 4 pairs of parts of speech are connected with `nmod:gsubj`: <tt><a
 14	седе	седе	ADV	Adv	Degree=Cmp	15	advmod:deg	_	GTtags=Comp
 15	курок	курок	ADV	Adv	AdvType=Tim	16	advmod:tmod	_	GTtags=Temp
 16	маштовомаст	маштовома	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	11	conj	_	GTtags=Sg,Gen,PxPl3
-17	кис	кис	ADP	Adp	_	16	case	_	_
+17	кис	кис	ADP	Po	AdpType=Post	16	case	_	_
 18	ды	ды	CCONJ	CC	_	22	cc	_	_
 19	Колчаконь	Колчак	PROPN	N	Case=Gen|Definite=Ind|NameType=Sur|Number=Plur,Sing	20	nmod:poss	_	GTtags=Prop,Sem/Sur,SP,Gen,Indef
 20	армиянть	армия	NOUN	N	Case=Gen|Definite=Def|Number=Sing	22	nmod:poss	_	GTtags=Sg,Gen,Def
 21	шумбра	шумбра	ADJ	A	_	22	compound	_	_
 22	чинзэ	чи	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	conj	_	GTtags=Sg,Gen,PxSg3
-23	кис	кис	ADP	Adp	_	22	case	_	GTtags=|SpaceAfter=No
+23	кис	кис	ADP	Po	AdpType=Post	22	case	_	GTtags=|SpaceAfter=No
 24	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

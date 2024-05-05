@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 165600 tokens (57%) have a non-empty value of `Number`.
 44158 types (87%) occur at least once with a non-empty value of `Number`.
 37055 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (51449; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (40923; 14% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (27173; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14243; 5% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12496; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9838; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (9203; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (108; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (97; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (61; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (51449; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (40923; 14% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (27173; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14243; 5% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12459; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9875; 3% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (9203; 3% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (108; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (97; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (61; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances).
 
 ### `NOUN`
 
@@ -128,15 +128,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `VERB`
 
-12496 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
+12459 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12496; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12274; 98%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (12063; 97%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6479; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12459; 100%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12241; 98%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (12026; 97%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6472; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (2664; 21% of non-empty `Number`): <em>haben, stehen, gehören, sind, hatten, kamen, kommen, fanden, finden, waren</em>
-* `Sing` (9832; 79% of non-empty `Number`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
-* `EMPTY` (8190): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
+* `Plur` (2658; 21% of non-empty `Number`): <em>haben, stehen, gehören, hatten, kamen, kommen, sind, fanden, finden, liegen</em>
+* `Sing` (9801; 79% of non-empty `Number`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (8188): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
 
 <table>
   <tr><th>Paradigm <i>haben</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -152,15 +152,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-9838 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
+9875 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9838; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9326; 95%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9261; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7342; 75%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5587; 57%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9875; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9363; 95%), <tt><a href="de_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9294; 94%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7379; 75%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5617; 57%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (2545; 26% of non-empty `Number`): <em>sind, wurden, werden, waren, haben, können, sollen, hatten, konnten, müssen</em>
-* `Sing` (7293; 74% of non-empty `Number`): <em>ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</em>
-* `EMPTY` (785): <em>werden, sein, worden, können, gewesen, haben, müssen, is, wollen, dürfen</em>
+* `Plur` (2551; 26% of non-empty `Number`): <em>sind, wurden, werden, waren, haben, können, sollen, hatten, konnten, müssen</em>
+* `Sing` (7324; 74% of non-empty `Number`): <em>ist, wurde, war, wird, kann, hat, hatte, konnte, habe, sei</em>
+* `EMPTY` (787): <em>werden, sein, worden, können, gewesen, haben, müssen, is, wollen, dürfen</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -252,7 +252,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 * `Plur` (7; 11% of non-empty `Number`): <em>Katzelmacher, Wenige, aufgetretene, leibeigene, längerer, mehrere, verbundenen</em>
 * `Sing` (54; 89% of non-empty `Number`): <em>ca, was, super, SEHR, anderem, lange, vorallem, Abends, Allzeit, Anfangs</em>
-* `EMPTY` (14915): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14918): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 <table>
   <tr><th>Paradigm <i>lang</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -278,10 +278,10 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (30588; 98%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12324; 93%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (6372; 62%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5488; 93%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5486; 93%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (5210; 92%),
-<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4475; 79%),
-<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3874; 74%),
+<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4449; 79%),
+<tt>VERB --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3870; 74%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (3055; 72%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3010; 73%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2680; 83%).

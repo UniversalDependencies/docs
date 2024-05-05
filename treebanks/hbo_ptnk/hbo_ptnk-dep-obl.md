@@ -23,13 +23,13 @@ The following 29 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 obl	color:blue
-1	וְ	ו	CCONJ	conj	_	3	cc	_	Ref=GEN_6.8
-2	נֹ֕חַ	נח	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Ref=GEN_6.8
-3	מָ֥צָא	מצא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_6.8
-4	חֵ֖ן	חן	NOUN	subs	Gender=Masc|Number=Sing	3	obj	_	Ref=GEN_6.8
-5	בְּ	ב	ADP	prep	_	6	case	_	Ref=GEN_6.8
-6	עֵינֵ֥י	עין	NOUN	subs	Gender=Fem|Number=Dual	3	obl	_	Ref=GEN_6.8
-7	יְהוָֽה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	6	compound:smixut	_	Ref=GEN_6.8|SpaceAfter=No
+1	וְ	ו	CCONJ	conj	_	3	cc	_	Gloss=and|Ref=GEN_6.8
+2	נֹ֕חַ	נח	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Noah|Ref=GEN_6.8
+3	מָ֥צָא	מצא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=find|Ref=GEN_6.8
+4	חֵ֖ן	חן	NOUN	subs	Gender=Masc|Number=Sing	3	obj	_	Gloss=grace|Ref=GEN_6.8
+5	בְּ	ב	ADP	prep	_	6	case	_	Gloss=in|Ref=GEN_6.8
+6	עֵינֵ֥י	עין	NOUN	subs	Gender=Fem|Number=Dual	3	obl	_	Gloss=eye|Ref=GEN_6.8
+7	יְהוָֽה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	6	compound:smixut	_	Gloss=YHWH|Ref=GEN_6.8|SpaceAfter=No
 8	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_6.8
 9	פ	פ	PUNCT	punct	_	3	punct	_	Ref=GEN_6.8
 
@@ -42,14 +42,14 @@ The following 29 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 obl	color:blue
-1	וַ	ו	CCONJ	conj	_	4	cc	_	Ref=GEN_11.30
-2	תְּהִ֥י	היה	AUX	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Ref=GEN_11.30
-3	שָׂרַ֖י	שׂרי	PROPN	nmpr	Gender=Fem|Number=Sing	4	nsubj	_	Ref=GEN_11.30
-4	עֲקָרָ֑ה	עקר	ADJ	adjv	Gender=Fem|Number=Sing	0	root	_	Ref=GEN_11.30
-5	אֵ֥ין	אין	VERB	subs	Mood=Ind|VerbForm=Fin	4	parataxis	_	Ref=GEN_11.30
-6	לָ֖	ל	ADP	prep	_	7	case	_	Ref=GEN_11.30
+1	וַ	ו	CCONJ	conj	_	4	cc	_	Gloss=and|Ref=GEN_11.30
+2	תְּהִ֥י	היה	AUX	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	Gloss=be|Ref=GEN_11.30
+3	שָׂרַ֖י	שׂרי	PROPN	nmpr	Gender=Fem|Number=Sing	4	nsubj	_	Gloss=Sarai|Ref=GEN_11.30
+4	עֲקָרָ֑ה	עקר	ADJ	adjv	Gender=Fem|Number=Sing	0	root	_	Gloss=barren|Ref=GEN_11.30
+5	אֵ֥ין	אין	VERB	subs	Mood=Ind|VerbForm=Fin	4	parataxis	_	Gloss=<NEG>|Ref=GEN_11.30
+6	לָ֖	ל	ADP	prep	_	7	case	_	Gloss=to|Ref=GEN_11.30
 7	הּ	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Ref=GEN_11.30
-8	וָלָֽד	ולד	NOUN	subs	Gender=Masc|Number=Sing	5	nsubj	_	Ref=GEN_11.30|SpaceAfter=No
+8	וָלָֽד	ולד	NOUN	subs	Gender=Masc|Number=Sing	5	nsubj	_	Gloss=child|Ref=GEN_11.30|SpaceAfter=No
 9	׃	׃	PUNCT	punct	_	4	punct	_	Ref=GEN_11.30
 
 ~~~
@@ -61,16 +61,16 @@ The following 29 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 obl	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_4.13
-2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_4.13
-3	קַ֖יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_4.13
-4	אֶל	אל	ADP	prep	_	6	case	_	Ref=GEN_4.13|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_4.13
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_4.13
+3	קַ֖יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Kain|Ref=GEN_4.13
+4	אֶל	אל	ADP	prep	_	6	case	_	Gloss=to|Ref=GEN_4.13|SpaceAfter=No
 5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_4.13|SpaceAfter=No
-6	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_4.13
-7	גָּדֹ֥ול	גדול	ADJ	adjv	Gender=Masc|Number=Sing	2	ccomp	_	Ref=GEN_4.13
-8	עֲוֹנִ֖	עון	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_4.13
+6	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=YHWH|Ref=GEN_4.13
+7	גָּדֹ֥ול	גדול	ADJ	adjv	Gender=Masc|Number=Sing	2	ccomp	_	Gloss=great|Ref=GEN_4.13
+8	עֲוֹנִ֖	עון	NOUN	subs	Gender=Masc|Number=Sing	7	nsubj	_	Gloss=sin|Ref=GEN_4.13
 9	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	Ref=GEN_4.13
-10	מִ	מן	ADP	prep	_	11	case	_	Ref=GEN_4.13
+10	מִ	מן	ADP	prep	_	11	case	_	Gloss=from|Ref=GEN_4.13
 11	נְּשֹֽׂא	נשׂא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	7	advcl	_	Gloss=lift|Ref=GEN_4.13
 12	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_4.13
 

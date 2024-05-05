@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>aller, peut, fait, rester</em>
-* `EMPTY` (3096): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>era, is, sommes</em>
-* `EMPTY` (2490): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
+* `EMPTY` (2489): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
 
 ### `ADV`
 

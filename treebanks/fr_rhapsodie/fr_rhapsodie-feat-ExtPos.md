@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 11 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `NOUN`, `PRON`, `PROPN`, `SCONJ`, `VERB`.
 
-609 tokens (1%) have a non-empty value of `ExtPos`.
+623 tokens (1%) have a non-empty value of `ExtPos`.
 65 types (1%) occur at least once with a non-empty value of `ExtPos`.
-60 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 14 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (176; 0% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (154; 0% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (81; 0% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (79; 0% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (44; 0% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (18; 0% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (16; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (11; 0% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+59 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 14 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (176; 0% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (167; 0% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (81; 0% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (80; 0% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (44; 0% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (18; 0% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (16; 0% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (11; 0% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `ADV`
 
@@ -36,13 +36,14 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `ADP`
 
-154 <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+167 <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (28; 18% of non-empty `ExtPos`): <em>d', à, en, pour</em>
-* `ADV` (95; 62% of non-empty `ExtPos`): <em>en, à, de, par, a, d', sur</em>
-* `DET` (26; 17% of non-empty `ExtPos`): <em>de</em>
+* `ADJ` (1; 1% of non-empty `ExtPos`): <em>à</em>
+* `ADP` (37; 22% of non-empty `ExtPos`): <em>d', en, à, pour</em>
+* `ADV` (98; 59% of non-empty `ExtPos`): <em>en, à, de, par, a, d', sur</em>
+* `DET` (26; 16% of non-empty `ExtPos`): <em>de</em>
 * `NOUN` (5; 3% of non-empty `ExtPos`): <em>pour</em>
 
 <table>
@@ -67,13 +68,13 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `DET`
 
-79 <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `ExtPos`.
+80 <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="fr_rhapsodie-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (79; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (79; 100%), <tt><a href="fr_rhapsodie-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (79; 100%), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (77; 97%).
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="fr_rhapsodie-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (80; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (80; 100%), <tt><a href="fr_rhapsodie-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (80; 100%), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (77; 96%).
 
 `DET` tokens may have the following values of `ExtPos`:
 
-* `ADV` (78; 99% of non-empty `ExtPos`): <em>un, une</em>
+* `ADV` (79; 99% of non-empty `ExtPos`): <em>un, une</em>
 * `SCONJ` (1; 1% of non-empty `ExtPos`): <em>une</em>
 
 <table>

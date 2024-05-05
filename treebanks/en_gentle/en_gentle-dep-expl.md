@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 expl	color:blue
 1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=joint-list_m:44->39:0:_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-There
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl
 3	mild	mild	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(79-abstract-new-cf1-2-sgl
 4	pallor	pallor	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	Entity=79)
 5	noted	note	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	Discourse=elaboration-attribute:45->44:0:_|MSeg=not-ed|SpaceAfter=No

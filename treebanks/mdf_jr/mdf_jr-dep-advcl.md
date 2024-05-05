@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-cau.html">advcl:cau</a></tt>, <tt><a href="mdf_jr-dep-advcl-eval.html">advcl:eval</a></tt>, <tt><a href="mdf_jr-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
-71 nodes (2%) are attached to their parents as `advcl`.
+72 nodes (2%) are attached to their parents as `advcl`.
 
-48 instances of `advcl` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.38028169014085.
+48 instances of `advcl` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.44444444444444.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (46; 65% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (15; 21% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (47; 65% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (15; 21% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -54,21 +54,16 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 advcl	color:blue
-1	Вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Def
-2	лоткась	лоткамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-3	варьхмодема	варьхмодема	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	2	obl:lmod	_	GTtags=Sg,Nom,Indef
-4	лангс	ланга	ADP	Adp	Case=Ill|NounType=Relat	3	case	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
-5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	Волгась	Волга	NOUN	N	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	GTtags=Prop,Sem/Plc,Sg,Nom,Def
-7	сетьмось	сетьмомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	2	conj	_	GTtags=IV,Ind,Prt1,ScSg3
-8	валдашкодомда	валдашкодомс	VERB	V	Case=Abl|VerbForm=Inf	9	advcl	_	GTtags=IV,Inf,Abl
-9	меле	меле	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 advcl	color:blue
+1	Улендяряль	улемс	AUX	V	Derivation=Cond|Mood=Sub|Number[subj]=Sing|Person[subj]=3	2	cop	_	GTtags=Cond,Conj,ScSg3
+2	кудса	куд	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	advcl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	нолдалезе	нолдамс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

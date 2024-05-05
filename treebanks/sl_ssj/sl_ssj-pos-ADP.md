@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>za</em> (<tt><a href="sl_ssj-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.071429 (the average of all parts of speech is 1.935546).
+The form / lemma ratio of `ADP` is 1.071429 (the average of all parts of speech is 1.932008).
 
 The 1st highest number of forms (2) was observed with the lemma “k”: <em>h, k</em>.
 
@@ -73,21 +73,21 @@ Examples: <em>v, na, po, pri, o, ob</em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 12 different relations: <tt><a href="sl_ssj-dep-case.html">case</a></tt> (24053; 99% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (55; 0% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (50; 0% instances), <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (40; 0% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (22; 0% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="sl_ssj-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="sl_ssj-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="sl_ssj-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 11 different relations: <tt><a href="sl_ssj-dep-case.html">case</a></tt> (24051; 99% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (56; 0% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (50; 0% instances), <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (40; 0% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (23; 0% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="sl_ssj-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="sl_ssj-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="sl_ssj-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 16 different parts of speech: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (19239; 79% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1993; 8% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1160; 5% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (788; 3% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (468; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (265; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (160; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (62; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (33; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (31; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (21; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 16 different parts of speech: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (19236; 79% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1980; 8% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1158; 5% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (788; 3% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (469; 2% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (265; 1% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (160; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (63; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (46; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (33; 0% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (22; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
 
-24103 (99%) `ADP` nodes are leaves.
+24102 (99%) `ADP` nodes are leaves.
 
-99 (0%) `ADP` nodes have one child.
+98 (0%) `ADP` nodes have one child.
 
-16 (0%) `ADP` nodes have two children.
+18 (0%) `ADP` nodes have two children.
 
 17 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (128; 70% instances), <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (38; 21% instances), <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (6; 3% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (4; 2% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="sl_ssj-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (130; 70% instances), <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (39; 21% instances), <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (6; 3% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="sl_ssj-dep-appos.html">appos</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 11 different parts of speech: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (89; 49% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (38; 21% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (22; 12% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (14; 8% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (89; 48% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (39; 21% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (23; 12% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (15; 8% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (6; 3% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 1% instances)
 

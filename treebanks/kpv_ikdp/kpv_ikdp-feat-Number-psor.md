@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt>, <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="kpv_ikdp-feat-Number-subj.html">Number[subj]</a></tt>.
 
-146 tokens (6%) have a non-empty value of `Number[psor]`.
-122 types (12%) occur at least once with a non-empty value of `Number[psor]`.
-94 lemmas (13%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 8 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (122; 5% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+145 tokens (6%) have a non-empty value of `Number[psor]`.
+121 types (12%) occur at least once with a non-empty value of `Number[psor]`.
+93 lemmas (13%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 8 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (122; 5% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -44,15 +44,6 @@ The most frequent other feature values with which `ADP` and `Number[psor]` co-oc
 `ADP` tokens may have the following values of `Number[psor]`:
 
 
-### `PRON`
-
-5 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 60%).
-
-`PRON` tokens may have the following values of `Number[psor]`:
-
-
 ### `VERB`
 
 5 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
@@ -60,6 +51,15 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
 The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="kpv_ikdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (3; 60%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
+
+
+### `PRON`
+
+4 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%).
+
+`PRON` tokens may have the following values of `Number[psor]`:
 
 
 ### `ADJ`

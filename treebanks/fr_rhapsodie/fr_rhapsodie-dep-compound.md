@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 15	philosophe	philosophe	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
 16	anglo	anglo	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
 17	aus~	aus~	ADJ	_	_	19	reparandum	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	19	punct	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
 19	autrichien	autrichien	ADJ	_	Gender=Masc|Number=Sing	16	compound	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	euh	euh	INTJ	_	_	19	discourse	_	SpaceAfter=No
@@ -103,7 +103,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 35	comme	comme	ADP	_	_	36	case	_	_
 36	concept	concept	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	_
 37	flou	flou	ADJ	_	Gender=Masc|Number=Sing	36	amod	_	SpaceAfter=No
-38	,	,	PUNCT	_	_	42	punct	_	_
+38	,	,	PUNCT	_	_	34	punct	_	_
 39	c'est-à-dire	c'est-à-dire	CCONJ	_	_	41	cc	_	_
 40	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 41	art	art	NOUN	_	Gender=Masc|Number=Sing	42	reparandum	_	_

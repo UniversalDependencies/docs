@@ -9,103 +9,101 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-453 tokens (38%) have a non-empty value of `Gender`.
-161 types (42%) occur at least once with a non-empty value of `Gender`.
+2205 tokens (37%) have a non-empty value of `Gender`.
+491 types (44%) occur at least once with a non-empty value of `Gender`.
 1 lemmas (0) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (175; 15% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (120; 10% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (118; 10% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (25; 2% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (930; 16% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (685; 12% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (444; 8% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (92; 2% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-175 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
+930 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (153; 87%), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (153; 87%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (102; 58%), <tt><a href="bej_nsc-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (98; 56%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (804; 86%), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (801; 86%), <tt><a href="bej_nsc-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (553; 59%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (502; 54%), <tt><a href="bej_nsc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (475; 51%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (53; 30% of non-empty `Gender`): <em>=t, ti=, t=, toː=, eːt, toːt</em>
-* `Masc` (122; 70% of non-empty `Gender`): <em>=b, i=, oː=, uː=, oːn, uːn, w=, eː=, aːn, eːn</em>
-* `EMPTY` (1): <em>kass</em>
-
-### `VERB`
-
-120 <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (120; 100%), <tt><a href="bej_nsc-feat-VerbClass.html">VerbClass</a></tt><tt>=1</tt> (89; 74%), <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (64; 53%).
-
-`VERB` tokens may have the following values of `Gender`:
-
-* `Fem` (24; 20% of non-empty `Gender`): <em>tini, ʔabkin, sallamta, fidini, galeːlin, galeːltan, sallamamta, theː, tidi, tifidin</em>
-* `Masc` (96; 80% of non-empty `Gender`): <em>ini, indi, iniːw, iːfi, id, idi, sallamja, eːja, ikan, iːkti</em>
-* `EMPTY` (122): <em>sallamaman, eːn, adi, ameːsa~sʔeː, ani, eːjaːn, moːkeː, aakaj, adir, akati</em>
+* `Fem` (301; 32% of non-empty `Gender`): <em>=t, ti=, t=, toː=, tuː=, oːt, toːt, tuːt, taː=, uːt</em>
+* `Masc` (629; 68% of non-empty `Gender`): <em>i=, oː=, =b, uː=, w=, oːn, uːn, j=, eː=, eːn</em>
+* `EMPTY` (3): <em>=eː, deː, mhasi</em>
 
 ### `NOUN`
 
-118 <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> tokens (70% of all `NOUN` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (104; 88%).
+685 <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> tokens (77% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (27; 23% of non-empty `Gender`): <em>ʃartijaː, ʔalaːma, ʔarabijaːj, biri, hawat, iːjʔaː, koːba, mindikʷijaːj, na, naː</em>
-* `Masc` (91; 77% of non-empty `Gender`): <em>tak, jhaːm, mhiːn, biri, doːr, finʤaːn, gaw, buːn, finʤan, hanʤar</em>
-* `EMPTY` (50): <em>kaːm, meːk, na, kaːmi, ʔajaːj, ʔaraːw, ʔoːr, dʔiti, gahwat, hamoː</em>
+* `Fem` (171; 25% of non-empty `Gender`): <em>naː, na, ʔabaː, takat, ʔaba, ʔalba, ʤoːharaaːji, karaːma, tji, ʃabaka</em>
+* `Masc` (514; 75% of non-empty `Gender`): <em>tak, mhiːn, doːr, jhaːm, mijʔat, jam, bhar, heːlaj, gaw, handi</em>
+* `EMPTY` (209): <em>meːk, ʔoːr, kaːm, ʔar, =na, tʔiit, na, =naː, duːr, ʔaraːw</em>
+
+### `VERB`
+
+444 <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (441; 99%), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (432; 97%), <tt><a href="bej_nsc-feat-VerbClass.html">VerbClass</a></tt><tt>=1</tt> (286; 64%).
+
+`VERB` tokens may have the following values of `Gender`:
+
+* `Fem` (66; 15% of non-empty `Gender`): <em>tini, tiːfi, ʔabkin, tifirʔa, tikati, tiki, geːdti, sallamta, tifirʔi, titdʔaːr</em>
+* `Masc` (378; 85% of non-empty `Gender`): <em>ini, indi, iːfi, jʔi, id, ʔeːja, isni, iːbri, idi, ihi</em>
+* `EMPTY` (653): <em>eːn, ani, manri, rhan, jʔeːtiːt, sallamaman, akajeː, iːfiina, jʔan, jʔi</em>
 
 ### `SCONJ`
 
-25 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (37% of all `SCONJ` tokens) have a non-empty value of `Gender`.
+92 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (31% of all `SCONJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `SCONJ` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (18; 72%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 52%).
+The most frequent other feature values with which `SCONJ` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (75; 82%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (58; 63%).
 
 `SCONJ` tokens may have the following values of `Gender`:
 
-* `Fem` (13; 52% of non-empty `Gender`): <em>=eːt, =jeːt, =t, ti=</em>
-* `Masc` (12; 48% of non-empty `Gender`): <em>=eːb, =jeːb, ji=, w=</em>
-* `EMPTY` (43): <em>=hoːb, =it, =aj, =jeːk, =ajt, =eː, =i, =jeː, =ji, =t</em>
-
-### `AUX`
-
-10 <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> tokens (26% of all `AUX` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 100%), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="bej_nsc-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (8; 80%).
-
-`AUX` tokens may have the following values of `Gender`:
-
-* `Masc` (10; 100% of non-empty `Gender`): <em>iːkti, =wa, iːha, bʔijan, ihi, iki</em>
-* `EMPTY` (28): <em>=u, =i, ba=, -iːtiːt, -tiːt, =a, akajeː, aniːw, bi=, diːt</em>
+* `Fem` (31; 34% of non-empty `Gender`): <em>=eːt, =jeːt, ti=, =t</em>
+* `Masc` (61; 66% of non-empty `Gender`): <em>=eːb, =jeːb, wi=, w=, =b, i=, ji=, wʔi=</em>
+* `EMPTY` (206): <em>=hoːb, =ajt, =it, =jeː, =eː, =aj, =eːk, =i, =jeːk, =ji</em>
 
 ### `PRON`
 
-4 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Gender`.
+28 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="bej_nsc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (26; 93%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 71%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Masc` (4; 100% of non-empty `Gender`): <em>umbaruːk, beːn, oːn</em>
-* `EMPTY` (102): <em>=heːb, hoːj, =i, =oː, ani, =eː, =oːn, =hoːk, kina, =isi</em>
+* `Fem` (2; 7% of non-empty `Gender`): <em>=t, ti=</em>
+* `Masc` (26; 93% of non-empty `Gender`): <em>umbaruːk, baruːk, barjoː, baruː, i=, jhaː, wi=, =b, =oːn, baroːk</em>
+* `EMPTY` (367): <em>=heːb, =i, =oː, ani, =eː, kna, =hoːk, =oːk, =joː, =ji</em>
 
-### `ADP`
+### `AUX`
 
-1 <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> tokens (3% of all `ADP` tokens) have a non-empty value of `Gender`.
+25 <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADP` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 100%), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (22; 88%), <tt><a href="bej_nsc-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (20; 80%), <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (13; 52%).
 
-`ADP` tokens may have the following values of `Gender`:
+`AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 100% of non-empty `Gender`): <em>=iːt</em>
-* `EMPTY` (38): <em>=iːb, geːb, =ka, dh, =da, =iː, dhaːj, haːj, =eːb, baːji</em>
+* `Fem` (2; 8% of non-empty `Gender`): <em>tirib, tiːkti</em>
+* `Masc` (23; 92% of non-empty `Gender`): <em>iːkti, =wa, iki, indi, ini, irib, iːha, bʔijan, ihi, iniːn</em>
+* `EMPTY` (100): <em>=u, =i, =a, akajeː, aki, andi, =ju, ani, arib, ba=</em>
+
+### `INTJ`
+
+1 <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> tokens (4% of all `INTJ` tokens) have a non-empty value of `Gender`.
+
+`INTJ` tokens may have the following values of `Gender`:
+
+* `Masc` (1; 100% of non-empty `Gender`): <em>jhaː</em>
+* `EMPTY` (27): <em>iraːnaj, iraːni, əəə, ahaː, nʔalla, wuː, hisik, jaːbi, miaːw, mmm</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="bej_nsc-dep-det.html">det</a></tt>]--> DET</tt> (85; 73%),
-<tt>VERB --[<tt><a href="bej_nsc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (18; 55%),
+<tt>NOUN --[<tt><a href="bej_nsc-dep-det.html">det</a></tt>]--> DET</tt> (593; 81%),
+<tt>NOUN --[<tt><a href="bej_nsc-dep-acl-relcl.html">acl:relcl</a></tt>]--> SCONJ</tt> (33; 75%),
+<tt>VERB --[<tt><a href="bej_nsc-dep-dep-conj.html">dep:conj</a></tt>]--> VERB</tt> (29; 51%),
 <tt>SCONJ --[<tt><a href="bej_nsc-dep-fixed.html">fixed</a></tt>]--> DET</tt> (5; 100%),
-<tt>NOUN --[<tt><a href="bej_nsc-dep-acl-relcl.html">acl:relcl</a></tt>]--> SCONJ</tt> (4; 67%),
+<tt>VERB --[<tt><a href="bej_nsc-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (4; 57%),
+<tt>VERB --[<tt><a href="bej_nsc-dep-dislocated-subj.html">dislocated:subj</a></tt>]--> PRON</tt> (3; 100%),
+<tt>NOUN --[<tt><a href="bej_nsc-dep-acl-relcl.html">acl:relcl</a></tt>]--> NOUN</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="bej_nsc-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="bej_nsc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>VERB --[<tt><a href="bej_nsc-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="bej_nsc-dep-dislocated-det.html">dislocated:det</a></tt>]--> DET</tt> (1; 100%),
-<tt>SCONJ --[<tt><a href="bej_nsc-dep-compound.html">compound</a></tt>]--> SCONJ</tt> (1; 100%),
-<tt>SCONJ --[<tt><a href="bej_nsc-dep-dep-comp.html">dep:comp</a></tt>]--> SCONJ</tt> (1; 100%),
-<tt>VERB --[<tt><a href="bej_nsc-dep-dep-conj.html">dep:conj</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>SCONJ --[<tt><a href="bej_nsc-dep-dep-comp.html">dep:comp</a></tt>]--> SCONJ</tt> (2; 100%).
 

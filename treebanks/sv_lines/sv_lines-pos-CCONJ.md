@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>och</em> (<tt><a href="sv_lines-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.416904).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.414549).
 
 The 1st highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
 
@@ -81,7 +81,7 @@ The 3rd highest number of forms (1) was observed with the lemma “både”: <em
 
 `CCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (3409; 98% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (51; 1% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="sv_lines-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1813; 52% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (992; 28% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (307; 9% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (134; 4% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (124; 4% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (56; 2% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (5; 0% instances),  (3; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1802; 52% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (993; 28% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (318; 9% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (135; 4% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (124; 4% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (54; 2% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (5; 0% instances),  (3; 0% instances), <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
 3466 (99%) `CCONJ` nodes are leaves.
 

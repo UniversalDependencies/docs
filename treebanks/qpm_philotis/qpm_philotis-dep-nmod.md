@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Pomak-Philotis: Relations: `nmod`
 
 This relation is universal.
+There are 1 language-specific subtypes of `nmod`: <tt><a href="qpm_philotis-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-1533 nodes (2%) are attached to their parents as `nmod`.
+256 nodes (1%) are attached to their parents as `nmod`.
 
-1525 instances of `nmod` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.36464448793216.
+213 instances of `nmod` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.93359375.
 
-The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (996; 65% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (183; 12% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (100; 7% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (61; 4% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (32; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (27; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (25; 2% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (21; 1% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (18; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (14; 1% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (163; 64% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (22; 9% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (10; 4% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (10; 4% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,15 +63,18 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 nmod	color:blue
-1	–	–	PUNCT	_	_	4	punct	_	_
-2	Óti	óti	SCONJ	_	_	4	mark	_	_
-3	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
-4	Mára	Mára	PROPN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
-5	Pepelívka	Pepelívka	PROPN	_	Case=Nom|Definite=Ind|Degree=Dim|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 nmod	color:blue
+1	Alí	Alí	PROPN	_	Case=Nom|Gender=Masc	6	nsubj	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	SpaceAfter=No
+3	Ají	Ají	PROPN	_	Case=Nom|Gender=Masc	6	dep	_	_
+4	sas	sas	ADP	_	_	5	case	_	_
+5	Iséna	Isén	NOUN	_	Case=Acc|Gender=Masc	3	nmod	_	_
+6	otišlíli	ídom	VERB	_	Animacy=Hum|Aspect=Perf|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+7	na	na	ADP	_	_	8	case	_	_
+8	áva	av	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	6	iobj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

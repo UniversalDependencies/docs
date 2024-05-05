@@ -202,13 +202,13 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (432; 75%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (159; 81%),
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (160; 81%),
 <tt>VERB --[<tt><a href="ky_ktmu-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (99; 54%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-amod.html">amod</a></tt>]--> NOUN</tt> (56; 64%),
 <tt>VERB --[<tt><a href="ky_ktmu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (36; 65%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NOUN</tt> (34; 77%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-flat.html">flat</a></tt>]--> PROPN</tt> (34; 87%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (30; 59%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (29; 74%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24; 80%),
-<tt>PROPN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (22; 88%).
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (24; 80%).
 

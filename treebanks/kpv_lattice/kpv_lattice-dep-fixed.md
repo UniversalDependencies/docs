@@ -67,7 +67,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	12	punct	_	_
 9	«	«	PUNCT	PUNCT	_	10	punct	_	GTtags=LEFT|SpaceAfter=No
-10	ура	ура	INTJ	Interj	_	12	nmod:appos	_	SpaceAfter=No
+10	ура	ура	INTJ	Interj	_	12	compound:nn	_	SpaceAfter=No
 11	»	»	PUNCT	PUNCT	_	10	punct	_	GTtags=RIGHT
 12	сорӧн	сор	NOUN	N	Case=Ins|Number=Sing	7	obl	_	GTtags=Sg,Ins|SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	7	punct	_	_

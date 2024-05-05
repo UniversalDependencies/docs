@@ -85,7 +85,7 @@ The following 2 pairs of parts of speech are connected with `parataxis:rep`: <tt
 28	,	,	PUNCT	Punc	_	29	punct	_	_
 29	unum	unus	DET	F1|grn1|casD|gen3|comQ	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	23	conj	_	_
 30	que	que	CCONJ	O4	_	29	cc	_	_
-31	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	29	cop	_	_
+31	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	29	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 32	christum	christus	ADJ	B1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	29	nsubj	_	_
 33	cum	cum	ADP	S4|vgr1	_	35	case	_	_
 34	sua	suus	DET	A1|grn1|casF|gen2	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	35	det	_	_

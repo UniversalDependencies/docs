@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>ome, quince, yeyi, caxtol, ce, o, cuatro,
 
 The 10 most frequent `NUM` types:  <em>quince, ome, yeyi, caxtol, ocho, ce, cuatro, dieciocho, omi, tres</em>
 
-The 10 most frequent ambiguous lemmas: <em>ce</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 18, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 1), <em>o</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 686, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1), <em>se</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 115, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 5, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1), <em>semeh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ce</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 18, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 1), <em>o</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 689, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1), <em>se</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 115, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 5, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1), <em>semeh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ce</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 16, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 1), <em>millones</em> (<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1), <em>se</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 106, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1), <em>semeh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1)
 
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>ce</em> (<tt><a href="nhi_itml-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.064516 (the average of all parts of speech is 1.458263).
+The form / lemma ratio of `NUM` is 1.064516 (the average of all parts of speech is 1.474576).
 
 The 1st highest number of forms (3) was observed with the lemma “yeyi”: <em>yeyen, yeyi, yeyin</em>.
 

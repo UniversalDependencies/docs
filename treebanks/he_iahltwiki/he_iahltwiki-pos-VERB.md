@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  ניתן (<tt><a href="he_iahltwiki-pos-V
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.543884 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `VERB` is 2.543884 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (15) was observed with the lemma “בא”: בָּאוּ, בא, באה, באו, באת, בואו, בואי, יָבוֹא, יבוא, יבואו, לבוא, נבוא, תָבוֹא, תבוא, תבואי.
 

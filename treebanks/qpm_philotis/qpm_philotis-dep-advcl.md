@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1465 nodes (2%) are attached to their parents as `advcl`.
+732 nodes (2%) are attached to their parents as `advcl`.
 
-817 instances of `advcl` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.95631399317406.
+512 instances of `advcl` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.12431693989071.
 
-The following 16 pairs of parts of speech are connected with `advcl`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1346; 92% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (28; 2% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `advcl`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (683; 93% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (14; 2% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,49 +41,48 @@ The following 16 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 advcl	color:blue
-1	Razý	razý	ADJ	_	Definite=Ind	0	root	_	_
-2	li	li	PART	_	_	1	discourse	_	_
-3	si	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
-4	da	da	AUX	_	_	7	aux	_	_
-5	mú	ja	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
-6	jé	ja	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
-7	dadéš	dam	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
-8	za	za	ADP	_	_	9	case	_	_
-9	žóno	žaná	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	iobj	_	SpaceAfter=No
-10	?	?	PUNCT	_	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 5 advcl	color:blue
+1	–	–	PUNCT	_	_	5	punct	_	_
+2	Óti	óti	PART	_	_	5	mark	_	_
+3	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	kopáčen	kopáč	NOUN	_	Case=Nom|Definite=Def|Deixis=Remt|Gender=Masc|Number=Sing	5	nsubj	_	_
+5	tǿšak	tǿšak	ADJ	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	10	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	pak	pak	CCONJ	_	_	10	cc	_	_
+8	ja	ja	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	na	na	PART	_	Polarity=Neg	10	advmod	_	_
+10	býva	bývom	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+11	da	da	AUX	_	_	12	aux	_	_
+12	vdígom	vdígom	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	_
+13	tǿšky	tǿšak	ADJ	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	14	amod	_	_
+14	rábaty	rábata	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 12 advcl	color:blue
-1	I	i	CCONJ	_	_	7	cc	_	_
-2	toj	ja	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dep	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	7	punct	_	_
-4	agý	agá	SCONJ	_	_	7	mark	_	_
-5	mo	ja	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
-6	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
-7	rekól	réčem	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-8	inýj	inýj	ADV	_	Deixis=Remt|PronType=Dem	7	advmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	12	punct	_	_
-10	óti	óti	SCONJ	_	_	12	mark	_	_
-11	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	_
-12	kumánda	kumánda	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	advcl	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	17	punct	_	_
-14	toj	ja	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
-15	go	ja	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	_
-16	le	le	ADV	_	_	17	advmod	_	_
-17	zamína	zamínom	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 advcl	color:blue
+1	Kilímos	kilím	NOUN	_	Case=Nom|Definite=Def|Deixis=Prox|DeixisRef=1|Gender=Masc|Number=Sing	8	advcl	_	_
+2	pak	pak	SCONJ	_	_	1	cc	_	_
+3	akú	akú	SCONJ	_	_	1	mark	_	_
+4	be	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	aux	_	_
+5	ne	ne	PART	_	Polarity=Neg	1	advmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	na	na	PART	_	Polarity=Neg	8	advmod	_	_
+8	imǽ	ímom	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	da	da	AUX	_	_	10	aux	_	_
+10	dójdete	dójdom	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	csubj	_	_
+11	bórško	bóržo	ADV	_	Degree=Dim	10	advmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

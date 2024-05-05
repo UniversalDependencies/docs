@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (251; 22% of non-empty `Person`): <em>voudrais, pense, devons, devrions, espérons, tiens, allons, crois, pouvons, avons</em>
 * `2` (81; 7% of non-empty `Person`): <em>pouvez, choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez</em>
 * `3` (814; 71% of non-empty `Person`): <em>a, peut, doit, est, devrait, convient, ont, peuvent, fait, concerne</em>
-* `EMPTY` (1595): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
+* `EMPTY` (1590): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

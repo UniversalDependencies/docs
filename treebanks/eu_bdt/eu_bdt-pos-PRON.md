@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>zuen</em> (<tt><a href="eu_bdt-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.153846 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `PRON` is 4.153846 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (15) was observed with the lemma “ni”: <em>Nere, Niregatik, ene, ni, nigan, nik, nire, nirea, niregan, niregana, nirekin, niretzako, niretzat, niri, nitaz</em>.
 

@@ -28,7 +28,7 @@ The following 29 pairs of parts of speech are connected with `reparandum`: <tt><
 4	ki...	ki	X	_	_	7	reparandum	7:reparandum	NormalizedForm=ki...|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,
 6	se	se	PRON	_	_	7	nsubj	7:nsubj	NormalizedForm=se
-7	kiita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kiita
+7	kiita	ita	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kiita
 8	ya	ya	ADV	_	_	11	mark	11:mark	NormalizedForm=ya
 9	que	que	SCONJ	_	_	8	fixed	8:fixed	NormalizedForm=que
 10	nochi	nochi	PRON	_	_	11	nsubj	11:nsubj	NormalizedForm=nochi
@@ -46,7 +46,7 @@ The following 29 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 9	fgColor:white
 # visual-style 9 7 reparandum	color:blue
 1	Wan	huan	CCONJ	_	_	2	cc	2:cc	NormalizedForm=Wan
-2	kwaltia	kualtia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	NormalizedForm=kwaltia
+2	kwaltia	kualtia	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kwaltia
 3	para	para	ADP	_	_	5	case	5:case	NormalizedForm=para
 4	se	se	DET	_	_	5	det	5:det	NormalizedForm=se
 5	ichantsin	chanti	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=3	2	obl	2:obl	NormalizedForm=ichantsin|SpaceAfter=No
@@ -70,10 +70,10 @@ The following 29 pairs of parts of speech are connected with `reparandum`: <tt><
 3	kan	kan	ADV	_	_	5	reparandum	5:reparandum	NormalizedForm=kan|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	3:punct	NormalizedForm=,
 5	kan	kan	ADV	_	_	6	advmod	6:advmod	NormalizedForm=kan
-6	kikwah	kua	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kikwah|SpaceAfter=No
+6	kikwah	kua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kikwah|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	9:punct	NormalizedForm=,
 8	amo	amo	ADV	_	_	9	advmod	9:advmod	NormalizedForm=amo
-9	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	parataxis	6:parataxis	NormalizedForm=kikwa|SpaceAfter=No
+9	kikwa	kua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	6	parataxis	6:parataxis	NormalizedForm=kikwa|SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,
 11	mm	mm	INTJ	_	_	6	discourse	6:discourse	NormalizedForm=mm|SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	6:punct	NormalizedForm=.

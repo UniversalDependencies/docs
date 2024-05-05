@@ -72,14 +72,14 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (695; 100%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (699; 100%),
 <tt>NUM --[<tt><a href="cs_pdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (442; 100%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (19; 100%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (17; 55%),
 <tt>NUM --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NUM</tt> (17; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (14; 70%),
 <tt>NUM --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (11; 100%),
-<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 100%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (11; 100%),
+<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (5; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> NUM</tt> (1; 100%).
 

@@ -22,12 +22,12 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
-1	ఏమిటో	_	PART	PART	_	5	discourse	_	Translit=emiṭo|LTranslit=_
-2	ఇక్కడ	_	ADV	ADV	_	5	advmod	_	Translit=ikkaḍa|LTranslit=_
-3	కొంత	_	DET	DET	_	4	det	_	Translit=kòṁta|LTranslit=_
-4	కాలం	_	NOUN	NOUN	_	5	obl:tmod	_	Translit=kālaṁ|LTranslit=_
-5	ఉండాలనిపించింది	_	VERB	VERB	_	0	root	_	Translit=uṁḍālanipiṁciṁdi|LTranslit=_
-6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
+1	ఏమిటో	_	PART	PART	_	5	discourse	_	Translit=ēmiṭō
+2	ఇక్కడ	_	ADV	ADV	_	5	advmod	_	Translit=ikkaḍa
+3	కొంత	_	DET	DET	_	4	det	_	Translit=koṁta
+4	కాలం	_	NOUN	NOUN	_	5	obl:tmod	_	Translit=kālaṁ
+5	ఉండాలనిపించింది	_	VERB	VERB	_	0	root	_	Translit=uṁḍālanipiṁciṁdi
+6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.
 
 ~~~
 
@@ -38,9 +38,9 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	నమస్కారం	_	NOUN	NOUN	_	0	root	_	Translit=namaskāraṁ|LTranslit=_
-2	అండి	_	PART	PART	_	1	discourse	_	Translit=aṁḍi|LTranslit=_
-3	!	_	PUNCT	PUNCT	_	1	punct	_	Translit=!|LTranslit=_
+1	నమస్కారం	_	NOUN	NOUN	_	0	root	_	Translit=namaskāraṁ
+2	అండి	_	PART	PART	_	1	discourse	_	Translit=aṁḍi
+3	!	_	PUNCT	PUNCT	_	1	punct	_	Translit=!
 
 ~~~
 
@@ -51,9 +51,9 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	ఏం	_	PRON	PRON	_	0	root	_	Translit=eṁ|LTranslit=_
-2	రా	_	PART	PART	_	1	discourse	_	Translit=rā|LTranslit=_
-3	!	_	PUNCT	PUNCT	_	1	punct	_	Translit=!|LTranslit=_
+1	ఏం	_	PRON	PRON	_	0	root	_	Translit=ēṁ
+2	రా	_	PART	PART	_	1	discourse	_	Translit=rā
+3	!	_	PUNCT	PUNCT	_	1	punct	_	Translit=!
 
 ~~~
 

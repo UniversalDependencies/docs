@@ -44,7 +44,7 @@ The following 23 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1 5 ccomp	color:blue
 1	uidemus	uideo	VERB	K3|modA|tem1|gen7|vgr1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 2	aliquid	aliquis	PRON	F1|grn1|casD|gen3	Case=Acc|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	5	nsubj	_	_
-3	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	5	cop	_	_
+3	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	5	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	in	in	ADP	S4	_	5	case	_	_
 5	mundo	mundus	NOUN	B1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	1	ccomp	_	_
 6	quod	qui	PRON	F1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	7	nsubj	_	_
@@ -67,7 +67,7 @@ The following 23 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	deo	deus	NOUN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	5	obl	_	_
 2	autem	autem	PART	O4	_	9	discourse	_	_
 3	nihil	nihil	PRON	G1|casD|gen3|vgr1	Polarity=Neg|PronType=Ind	5	nsubj	_	_
-4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	5	cop	_	_
+4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	5	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	maius	magnus	ADJ	C1|grn2|casD|gen3|vgr2	Case=Acc|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	9	ccomp	_	_
 6	ipsa	ipse	DET	F1|grn1|casA|gen2	Case=Nom|Form=Emp|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	8	det	_	_
 7	nominis	nomen	NOUN	C1|grn1|casB|gen3	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	8	nmod	_	_

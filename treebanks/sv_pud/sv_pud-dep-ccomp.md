@@ -22,14 +22,14 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 ccomp	color:blue
-1	De	den	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur	3	det	3:det	_
-2	nya	ny	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	3	amod	3:amod	_
+1	De	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	3	det	3:det	_
+2	nya	ny	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	3	amod	3:amod	_
 3	riktlinjerna	riktlinje	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	6	nsubj	6:nsubj	_
 4	för	för	ADP	PP	_	5	case	5:case	_
 5	järn	järn	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	nmod	3:nmod:för	_
 6	innebär	innebära	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	att	att	SCONJ	SN	_	10	mark	10:mark	_
-8	fler	fler	ADJ	JJ|POS|UTR/NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	9	amod	9:amod	_
+8	fler	fler	ADJ	JJ|POS|UTR/NEU|PLU|IND|NOM	Case=Nom|Degree=Pos|Number=Plur	9	amod	9:amod	_
 9	donatorer	donator	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	10	nsubj:pass	10:nsubj:pass	_
 10	behövs	behöva	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	6	ccomp	6:ccomp	SpaceAfter=No
 11	.	.	PUNCT	MAD	_	6	punct	6:punct	_
@@ -47,8 +47,8 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	Sánchez	Sánchez	PROPN	PM|NOM	Case=Nom	1	flat:name	1:flat:name	SpaceAfter=No
 3	,	,	PUNCT	MID	_	7	punct	7:punct	_
 4	liksom	liksom	ADP	PP	_	7	mark	7:mark	_
-5	många	mången	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	7	amod	7:amod	_
-6	andra	annan	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	7	amod	7:amod	_
+5	många	mången	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	7	amod	7:amod	_
+6	andra	annan	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	7	amod	7:amod	_
 7	socialister	socialist	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	1	acl	1:acl:liksom	SpaceAfter=No
 8	,	,	PUNCT	MID	_	7	punct	7:punct	_
 9	sade	säga	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -80,10 +80,10 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	ändå	ändå	ADV	AB	_	2	advmod	2:advmod	SpaceAfter=No
 6	,	,	PUNCT	MID	_	7	punct	7:punct	_
 7	hoppas	hoppas	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	2	parataxis	2:parataxis	_
-8	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	_
+8	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	10	nsubj	10:nsubj	_
 9	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
 10	värt	värd	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	ccomp	7:ccomp	_
-11	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	10	obl	10:obl	SpaceAfter=No
+11	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	10	obl	10:obl	SpaceAfter=No
 12	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 
 ~~~

@@ -60,7 +60,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 5 9 ccomp	color:blue
 1	En	en	ADP	P	AdpType=Prep	3	case	_	_
 2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	5	obl	_	_
+3	BNG	bng	PROPN	Zgms	Gender=Masc|Number=Sing	5	obl	_	_
 4	tamén	tamén	ADV	Wn	_	5	advmod	_	_
 5	pensan	pensar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	Cs	_	9	mark	_	_

@@ -8,12 +8,46 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `fixed`.
+16 nodes (0%) are attached to their parents as `fixed`.
 
-5 instances of `fixed` (100%) are left-to-right (parent precedes child).
+16 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (3; 60% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (5; 31% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (3; 19% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (2; 13% instances), <tt><a href="it_old-pos-ADP.html">ADP</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 fixed	color:blue
+1	Euripide	Euripide	PROPN	np	_	3	nsubj	_	Canto=22|Verso=106
+2	v'	ivi	ADV	b	_	3	advmod:lmod	_	Canto=22|Verso=106
+3	è	essere	VERB	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Canto=22|Verso=106
+4	nos	noi	PRON	pp1pico	Number=Plur|Person=1|PronType=Prs	3	obl	_	Canto=22|Verso=106
+5	co	con	ADP	eps	_	4	case	_	Canto=22|Verso=106
+6	e	e	CCONJ	cscr	_	7	cc	_	Canto=22|Verso=106
+7	Antifonte	Antifonte	PROPN	np	_	1	conj	_	Canto=22|SpaceAfter=No|Verso=106
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	Simonide	Simonide	PROPN	np	_	1	conj	_	Canto=22|SpaceAfter=No|Verso=107
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	Agatone	Agatone	PROPN	np	_	1	conj	_	Canto=22|Verso=107
+12	e	e	CCONJ	cscr	_	16	cc	_	Canto=22|Verso=107
+13	altri	altro	DET	pi	Gender=Masc|Number=Plur|PronType=Ind	16	det	_	Canto=22|Verso=107
+14	più	più	ADV	b	_	16	advmod	_	Canto=22|Verso=107
+15	e	e	CCONJ	cc	_	14	fixed	_	Canto=22|Verso=107
+16	Greci	greco	NOUN	sm2mp	Gender=Masc|Number=Plur	1	conj	_	Canto=22|Verso=108
+17	che	che	PRON	pr	PronType=Rel	21	nsubj	_	Canto=22|Verso=108
+18	già	già	ADV	b	_	21	advmod:tmod	_	Canto=22|Verso=108
+19	di	di	ADP	epskw	_	20	case	_	Canto=22|Verso=108
+20	lauro	lauro	NOUN	sm2ms	Gender=Masc|Number=Sing	21	obl	_	Canto=22|Verso=108
+21	ornar	ornare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	acl:relcl	_	Canto=22|Verso=108
+22	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Canto=22|Verso=108
+23	fronte	fronte	NOUN	sf3fs	Gender=Fem|Number=Sing	21	obj	_	Canto=22|SpaceAfter=No|Verso=108
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -53,53 +87,64 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 19 fixed	color:blue
-1	Mentre	mentre	SCONJ	_	_	7	mark	_	Canto=5|Verso=139
-2	che	che	SCONJ	_	_	7	mark	_	Canto=5|Verso=139
-3	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Canto=5|SpaceAfter=No|Verso=139
-4	uno	uno	DET	ai1ms	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	Canto=5|Verso=139
-5	spirto	spirito	NOUN	sm2ms	Gender=Masc|Number=Sing	7	nsubj	_	Canto=5|Verso=139
-6	questo	questo	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	Canto=5|Verso=139
-7	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	_	Canto=5|SpaceAfter=No|Verso=139
-8	,	,	PUNCT	_	_	7	punct	_	_
-9	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Canto=5|SpaceAfter=No|Verso=140
-10	altro	altro	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	11	nsubj	_	Canto=5|Verso=140
-11	piangea	piangere	VERB	vi2iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Canto=5|SpaceAfter=No|Verso=140
-12	;	;	PUNCT	_	_	18	punct	_	_
-13	sì	sì	ADV	_	_	18	advmod	_	Canto=5|Verso=140
-14	che	che	SCONJ	_	_	18	mark	_	Canto=5|Verso=140
-15	di	di	ADP	epskr	_	16	case	_	Canto=5|Verso=140
-16	pietade	pietà	NOUN	sf3fs	Gender=Fem|Number=Sing	18	obl	_	Canto=5|Verso=140
-17	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	Canto=5|Verso=141
-18	venni	venire	VERB	vi3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	11	advcl	_	Canto=5|Verso=141
-19	men	meno	ADV	b	_	18	fixed	_	Canto=5|Verso=141
-20	così	così	ADV	bl	_	18	xcomp	_	Canto=5|Verso=141
-21	com'	come	ADV	bl	_	23	mark	_	Canto=5|SpaceAfter=No|Verso=141
-22	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	23	nsubj	_	Canto=5|Verso=141
-23	morisse	morire	VERB	vi3cip3	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	advcl:cmp	_	Canto=5|SpaceAfter=No|Verso=141
-24	.	.	PUNCT	_	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	Qui	qui	ADV	b	_	2	advmod:lmod	_	Canto=6|Verso=76
-2	puose	porre	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=6|Verso=76
-3	fine	fine	NOUN	sm3ms	Gender=Masc|Number=Sing	2	fixed	_	Canto=6|Verso=76
-4	a	a	ADP	_	_	7	case	_	Canto=6|Comment=a-l|Verso=76
-5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Canto=6|Comment=a-l|Verso=76
-6	lagrimabil	lagrimabile	ADJ	a2ms	Number=Sing	7	amod	_	Canto=6|Verso=76
-7	suono	suono	NOUN	sm2ms	Gender=Masc|Number=Sing	2	obl:arg	_	Canto=6|SpaceAfter=No|Verso=76
-8	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 17 fixed	color:blue
+1	Con	con	ADP	epskm	_	2	case	_	Canto=31|Verso=70
+2	men	meno	DET	ac+	_	6	obl	_	Canto=31|Verso=70
+3	di	di	ADP	epsk8	_	4	case	_	Canto=31|Verso=70
+4	resistenza	resistenza	NOUN	sf1fs	Gender=Fem|Number=Sing	2	nmod	_	Canto=31|Verso=70
+5	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	6	expl:impers	_	Canto=31|Verso=70
+6	dibarba	dibarbare	VERB	vtp1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Canto=31|Verso=70
+7	robusto	robusto	ADJ	a1ms	Gender=Masc|Number=Sing	8	amod	_	Canto=31|Verso=71
+8	cerro	cerro	NOUN	sm2ms	Gender=Masc|Number=Sing	6	nsubj	_	Canto=31|SpaceAfter=No|Verso=71
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	o	o	CCONJ	cscr	_	15	cc	_	Canto=31|Verso=71
+11	vero	ovvero	CCONJ	cccd	_	10	fixed	_	Canto=31|Verso=71
+12	a	a	ADP	_	_	15	case	_	Canto=31|Comment=a-l|Verso=71
+13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Canto=31|Comment=a-l|Verso=71
+14	nostral	nostrale	ADJ	a2ms	Gender=Masc|Number=Sing	15	amod	_	Canto=31|Verso=71
+15	vento	vento	NOUN	sm2ms	Gender=Masc|Number=Sing	6	obl	_	Canto=31|Verso=71
+16	o	o	CCONJ	cscr	_	19	cc	_	Canto=31|Verso=72
+17	vero	ovvero	CCONJ	cccd	_	16	fixed	_	Canto=31|Verso=72
+18	a	a	ADP	epskr	_	19	case	_	Canto=31|Verso=72
+19	quel	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	15	conj	_	Canto=31|Verso=72
+20	de	di	ADP	eps	_	22	case	_	Canto=31|Verso=72
+21	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Canto=31|Verso=72
+22	terra	terra	NOUN	sf1fs	Gender=Fem|Number=Sing	19	nmod	_	Canto=31|Verso=72
+23	di	di	ADP	epskg	_	24	case	_	Canto=31|Verso=72
+24	Iarba	Iarba	PROPN	np	_	22	nmod	_	Canto=31|SpaceAfter=No|Verso=72
+25	,	,	PUNCT	_	_	19	punct	_	_
+26	ch'	che	SCONJ	cssp	_	29	mark	_	Canto=31|Verso=73
+27	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	29	nsubj	_	Canto=31|Verso=73
+28	non	non	ADV	b	PronType=Neg	29	advmod:neg	_	Canto=31|Verso=73
+29	levai	levare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	Canto=31|Verso=73
+30	a	a	ADP	_	_	33	case	_	Canto=31|Comment=a-l|Verso=73
+31	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	Canto=31|Comment=a-l|Verso=73
+32	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	33	det:poss	_	Canto=31|Verso=73
+33	comando	comando	NOUN	sm2ms	Gender=Masc|Number=Sing	29	obl	_	Canto=31|Verso=73
+34	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	Canto=31|Verso=73
+35	mento	mento	NOUN	sm2ms	Gender=Masc|Number=Sing	29	obj	_	Canto=31|SpaceAfter=No|Verso=73
+36	;	;	PUNCT	_	_	47	punct	_	_
+37	e	e	CCONJ	cscc	_	47	cc	_	Canto=31|Verso=74
+38	quando	quando	SCONJ	csst	_	44	mark	_	Canto=31|Verso=74
+39	per	per	ADP	epskw	_	41	case	_	Canto=31|Verso=74
+40	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Canto=31|Verso=74
+41	barba	barba	NOUN	sf1fs	Gender=Fem|Number=Sing	44	obl	_	Canto=31|Verso=74
+42	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	Canto=31|Verso=74
+43	viso	viso	NOUN	sm2ms	Gender=Masc|Number=Sing	44	obj	_	Canto=31|Verso=74
+44	chiese	chiedere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	47	advcl	_	Canto=31|SpaceAfter=No|Verso=74
+45	,	,	PUNCT	_	_	44	punct	_	_
+46	ben	bene	ADV	b	_	47	advmod	_	Canto=31|Verso=75
+47	conobbi	conoscere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	Canto=31|Verso=75
+48	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	Canto=31|Verso=75
+49	velen	veleno	NOUN	sm2ms	Gender=Masc|Number=Sing	47	obj	_	Canto=31|Verso=75
+50	de	di	ADP	eps	_	52	case	_	Canto=31|Verso=75
+51	l'	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	_	Canto=31|Verso=75
+52	argomento	argomento	NOUN	sm2ms	Gender=Masc|Number=Sing	49	nmod	_	Canto=31|SpaceAfter=No|Verso=75
+53	.	.	PUNCT	_	_	47	punct	_	_
 
 ~~~
 

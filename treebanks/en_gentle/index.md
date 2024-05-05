@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Tatsuya Aoyama, Shabnam Behzad, Luke Gessler, Lauren Levine, Yi-Ju Jessica Lin, Yang Janet Liu, Siyao Logan Peng, Yilun Zhu, Amir Zeldes.
 
 Repository: [UD_English-GENTLE](https://github.com/UniversalDependencies/UD_English-GENTLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -69,7 +69,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 
 ## Features
 
-[Abbr](en_gentle-feat-Abbr.html) – [Case](en_gentle-feat-Case.html) – [Definite](en_gentle-feat-Definite.html) – [Degree](en_gentle-feat-Degree.html) – [Gender](en_gentle-feat-Gender.html) – [Mood](en_gentle-feat-Mood.html) – [Number](en_gentle-feat-Number.html) – [NumForm](en_gentle-feat-NumForm.html) – [NumType](en_gentle-feat-NumType.html) – [Person](en_gentle-feat-Person.html) – [Polarity](en_gentle-feat-Polarity.html) – [Poss](en_gentle-feat-Poss.html) – [PronType](en_gentle-feat-PronType.html) – [Reflex](en_gentle-feat-Reflex.html) – [Tense](en_gentle-feat-Tense.html) – [Typo](en_gentle-feat-Typo.html) – [VerbForm](en_gentle-feat-VerbForm.html) – [Voice](en_gentle-feat-Voice.html)
+[Abbr](en_gentle-feat-Abbr.html) – [Case](en_gentle-feat-Case.html) – [Definite](en_gentle-feat-Definite.html) – [Degree](en_gentle-feat-Degree.html) – [Gender](en_gentle-feat-Gender.html) – [Mood](en_gentle-feat-Mood.html) – [Number](en_gentle-feat-Number.html) – [NumForm](en_gentle-feat-NumForm.html) – [NumType](en_gentle-feat-NumType.html) – [Person](en_gentle-feat-Person.html) – [Polarity](en_gentle-feat-Polarity.html) – [Poss](en_gentle-feat-Poss.html) – [PronType](en_gentle-feat-PronType.html) – [Reflex](en_gentle-feat-Reflex.html) – [Style](en_gentle-feat-Style.html) – [Tense](en_gentle-feat-Tense.html) – [Typo](en_gentle-feat-Typo.html) – [VerbForm](en_gentle-feat-VerbForm.html) – [Voice](en_gentle-feat-Voice.html)
 
 ## Relations
 
@@ -112,7 +112,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as pronouns (PRON): I, anyone, anything, everyone, everything, he, her, hers, himself, his, interesting, it, its, itself, mine, my, myself, nothing, one, our, ourselves, she, somebody, someone, something, that, thee, their, themselves, there, they, this, thou, thy, we, what, whatever, which, who, whoever, whose, you, your, yours, yourself</li>
+<li>This corpus contains 42 lemmas tagged as pronouns (PRON): I, anyone, anything, everyone, everything, he, her, himself, his, interesting, it, its, itself, my, myself, nothing, one, our, ourselves, she, somebody, someone, something, that, thee, their, themselves, there, they, this, thou, thy, we, what, whatever, which, who, whoever, whose, you, your, yourself</li>
 </ul>
 
 <ul>
@@ -138,7 +138,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, will, can, was, are, has, 's, would, may, could</li>
+    <li>AUX: is, will, can, was, are, has, 's, may, would, should</li>
     <li>VERB: has, let, have, said, Suppose, follows, is, know, had, see</li>
   </ul>
   </li>
@@ -147,8 +147,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Ger
   <ul>
-    <li>AUX: being, Having</li>
-    <li>VERB: following, Testing, having, gon, using, including, increasing, Deploying, coming, completing</li>
+    <li>VERB: following, increasing, Testing, having, rapping, working, dissenting, entreating, involving, killing</li>
   </ul>
   </li>
 </ul>
@@ -165,8 +164,8 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Part
   <ul>
-    <li>AUX: been</li>
-    <li>VERB: gon, done, going, noted, given, applied, assigned, charged, connected, playing</li>
+    <li>AUX: been, being, Having</li>
+    <li>VERB: gon, done, going, noted, given, having, applied, assigned, charged, connected</li>
   </ul>
   </li>
 </ul>
@@ -210,12 +209,20 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Fin: are, 're, were, have, do, 've, must, will, did, Can</li>
+      <li>AUX-Fin: are, 're, were, have, do, 've, did, art, is, was</li>
       <li>DET: these, those</li>
-      <li>NOUN: days, fees, people, weeks, Structures, players, tools, Algorithms, Pp., angels</li>
+      <li>NOUN: Data, days, fees, people, weeks, Structures, players, tools, Algorithms, angels</li>
       <li>PRON: we, they, our, them, you, their, us, those, these, Ourselves</li>
-      <li>PROPN: Does, Champions, Services, Antonyms, Reversals, Tools, Americans, Disputes, Europeans, Expressions</li>
-      <li>VERB-Fin: have, know, are, need, had, name, passed, brought, get, meet</li>
+      <li>PROPN: Does, Champions, Services, Antonyms, Reversals, States, Tools, Affairs, Americans, Data</li>
+      <li>VERB-Fin: have, know, are, need, had, name, passed, brought, diverged, get</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ptan
+    <ul>
+      <li>NOUN: Ergonomics, Thanks, clothes</li>
     </ul>
   </li>
 </ul>
@@ -223,8 +230,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: Old, Middle, Open, High, Northern, Academic, Danish, English, Mathematical, Oriented</li>
-      <li>AUX-Fin: is, was, has, 's, 'm, will, do, are, 've, had</li>
+      <li>AUX-Fin: is, was, has, 's, 'm, do, are, 've, had, did</li>
       <li>DET: this, that, n</li>
       <li>NOUN: x, week, T, project, S, school, y, time, party, trust</li>
       <li>PRON: I, you, he, it, his, my, your, me, that, this</li>
@@ -251,7 +257,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Gen
     <ul>
-      <li>PRON: his, my, your, its, our, her, their, you, yours</li>
+      <li>PRON: his, my, your, its, our, her, their, you</li>
     </ul>
   </li>
 </ul>
@@ -304,8 +310,8 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: next, other, open, straight, chronic, right, old, such, transitive, good</li>
-      <li>ADV: well, still, back, ever, nevermore, Therefore, above, down, again, away</li>
+      <li>ADJ: next, other, old, open, straight, chronic, right, such, transitive, final</li>
+      <li>ADV: well, still, back, ever, Therefore, above, down, nevermore, again, away</li>
       <li>DET: all, many, such</li>
       <li>SCONJ: too</li>
     </ul>
@@ -315,7 +321,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: closest, nearest, smallest, best, least, most, hardest, lowest, shortest</li>
+      <li>ADJ: nearest, closest, smallest, best, least, most, hardest, lowest, shortest</li>
       <li>ADV: most, best</li>
     </ul>
   </li>
@@ -375,7 +381,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
       <li>AUX-Fin: was, did, had, were</li>
       <li>AUX-Part: been</li>
       <li>VERB-Fin: said, had, took, came, heard, did, got, held, passed, thought</li>
-      <li>VERB-Part: done, noted, given, applied, assigned, charged, connected, colored, considered, diagnosed</li>
+      <li>VERB-Part: done, noted, given, applied, assigned, charged, connected, colored, considered, defined</li>
     </ul>
   </li>
 </ul>
@@ -384,8 +390,9 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
   <li>Pres
     <ul>
       <li>AUX-Fin: is, are, has, 's, do, 'm, 're, 've, have, does</li>
+      <li>AUX-Part: being, Having</li>
       <li>VERB-Fin: has, have, follows, is, know, think, Quoth, need, are, continues</li>
-      <li>VERB-Part: gon, going, playing, having, looking, making, sitting, trying, building, checking</li>
+      <li>VERB-Part: gon, going, having, playing, Testing, doing, following, including, scoring, using</li>
     </ul>
   </li>
 </ul>
@@ -397,7 +404,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: done, noted, applied, assigned, charged, connected, given, colored, considered, diagnosed</li>
+      <li>VERB-Part: done, noted, applied, assigned, charged, connected, given, colored, considered, defined</li>
     </ul>
   </li>
 </ul>
@@ -589,7 +596,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: is, was, are, has, 's, will, were, have, can, does</li>
+      <li>AUX-Fin: is, was, are, has, 's, were, have, does, did, do</li>
       <li>PRON: he, it, his, they, its, him, her, them, their, she</li>
       <li>VERB-Fin: has, follows, is, Quoth, are, continues, had, held, precedes, took</li>
     </ul>
@@ -609,8 +616,9 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
         <ul>
           <li>ADJ: U.S.</li>
           <li>ADV: e.g.</li>
-          <li>NOUN: p., DH, etc., CV, No.</li>
-          <li>PROPN: HTML, Dr., US, U.S., CBC, Inc., Mr., Prof., UK, CC</li>
+          <li>NOUN: mg, Pp., p., DH, etc., kg, CV, No., TEMP, TV</li>
+          <li>PROPN: HTML, Dr., US, U.S., CBC, Inc., Mr., Prof., U.S.C., UK</li>
+          <li>X: PS</li>
         </ul>
       </li>
     </ul>
@@ -648,22 +656,49 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 </ul>
 
 <ul>
+  <li><a>Style</a>
+    <ul>
+      <li>Arch
+        <ul>
+          <li>ADP: o'er</li>
+          <li>ADV: o'er</li>
+          <li>AUX-Fin: hath, art</li>
+          <li>PRON: thy, 't, thou</li>
+          <li>VERB-Fin: Quoth</li>
+        </ul>
+      </li>
+      <li>Coll
+        <ul>
+          <li>PART: 'ta</li>
+        </ul>
+      </li>
+      <li>Vrnc
+        <ul>
+          <li>VERB-Fin: wan</li>
+          <li>VERB-Part: gon</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Typo</a>
     <ul>
       <li>Yes
         <ul>
           <li>ADJ: Africanner</li>
           <li>ADV: justl, than, to</li>
-          <li>AUX-Fin: s, d</li>
+          <li>AUX-Fin: s, 'ed, d</li>
           <li>CCONJ: an</li>
-          <li>DET: all</li>
+          <li>DET: all, know</li>
           <li>NOUN: p, principal</li>
           <li>PRON: what, Ii, it, the, wich, you</li>
           <li>PROPN: Pharoah, Torooh, israelities</li>
-          <li>VERB: Be, Trying, arranged, broke, deem, here, know, pick, ran, reverse</li>
+          <li>VERB: Be, here, Trying, arranged, broke, deem, know, pick, ran, reverse</li>
           <li>VERB-Fin: deem, pick, reverse</li>
           <li>VERB-Ger: Trying</li>
-          <li>VERB-Inf: arranged, here</li>
+          <li>VERB-Inf: here, arranged</li>
           <li>VERB-Part: broke, know, ran, went</li>
         </ul>
       </li>
@@ -690,16 +725,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (122)</li>
+      <li>VERB-Fin--NOUN (125)</li>
       <li>VERB-Fin--PRON (36)</li>
-      <li>VERB-Fin--PRON-Nom (226)</li>
-      <li>VERB-Ger--NOUN (10)</li>
+      <li>VERB-Fin--PRON-Nom (227)</li>
+      <li>VERB-Ger--NOUN (1)</li>
       <li>VERB-Ger--NOUN-ADP(as) (1)</li>
-      <li>VERB-Ger--PRON-Nom (2)</li>
+      <li>VERB-Ger--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (33)</li>
       <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Nom (108)</li>
-      <li>VERB-Part--NOUN (25)</li>
+      <li>VERB-Part--NOUN (31)</li>
       <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Nom (74)</li>
     </ul>
@@ -712,15 +747,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (199)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Acc (35)</li>
-      <li>VERB-Ger--NOUN (82)</li>
-      <li>VERB-Ger--PRON (4)</li>
-      <li>VERB-Ger--PRON-Acc (6)</li>
+      <li>VERB-Ger--NOUN (30)</li>
+      <li>VERB-Ger--PRON-Acc (3)</li>
       <li>VERB-Inf--NOUN (166)</li>
       <li>VERB-Inf--PRON (12)</li>
       <li>VERB-Inf--PRON-Acc (45)</li>
-      <li>VERB-Part--NOUN (37)</li>
-      <li>VERB-Part--PRON (3)</li>
-      <li>VERB-Part--PRON-Acc (8)</li>
+      <li>VERB-Part--NOUN (89)</li>
+      <li>VERB-Part--PRON (7)</li>
+      <li>VERB-Part--PRON-Acc (11)</li>
     </ul>
   </li>
 </ul>
@@ -730,12 +764,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--PRON-Acc (7)</li>
-      <li>VERB-Ger--PRON-Acc (2)</li>
       <li>VERB-Inf--NOUN (3)</li>
       <li>VERB-Inf--PRON-Acc (10)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (3)</li>
+      <li>VERB-Part--PRON-Acc (5)</li>
     </ul>
   </li>
 </ul>

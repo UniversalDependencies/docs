@@ -11,9 +11,9 @@ This relation is universal.
 60 nodes (2%) are attached to their parents as `conj`.
 
 60 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.16666666666667.
+Average distance between parent and child is 8.31666666666667.
 
-The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (26; 43% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (18; 30% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> (6; 10% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `conj`: <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (27; 45% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (18; 30% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> (6; 10% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -28,13 +28,13 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 4	ret	ret	VERB	_	_	0	root	_	Gloss=rester
 5	je	je	NOUN	_	_	4	obj	_	Gloss=yeux
 6	fèmen	fèmen	ADJ	_	_	5	amod	_	Gloss=fermés
-7	epi	epi	CCONJ	_	_	10	cc	_	Gloss=et
+7	epi	epi	CCONJ	_	_	10	cc	_	Gloss=et puis
 8	tèt	tèt	NOUN	_	_	10	nsubj	_	Gloss=tête
-9	mwen	mwen	DET	_	Number=Sing|Person=1|Poss=Yes	8	det	_	Gloss=DET
+9	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nmod	_	Gloss=1SG
 10	bese	bese	VERB	_	_	4	conj	_	Gloss=baisser
 11	sou	sou	ADP	_	_	12	case	_	Gloss=sur
 12	biwo	biwo	NOUN	_	_	10	obl	_	Gloss=bureau
-13	a	a	DET	_	Definite=Def|Number=Sing	12	det	_	SpaceAfter=No
+13	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	Gloss=le|SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -47,11 +47,11 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 4 conj	color:blue
 1	Je	je	NOUN	_	_	8	nsubj	_	Gloss=yeux
-2	l	li	DET	_	Poss=Yes|PronType=Prs	1	det	_	Gloss=3SG
+2	l	li	PRON	_	Person=3|PronType=Prs	1	nmod	_	Gloss=3SG
 3	ak	ak	CCONJ	_	_	4	cc	_	Gloss=et
 4	cheve	cheve	NOUN	_	_	1	conj	_	Gloss=cheveux
-5	l	li	DET	_	Poss=Yes|PronType=Prs	4	det	_	Gloss=3SG
-6	yo	yo	DET	_	Number=Plur|Person=3|PronType=Prs	4	det	_	Gloss=3PL
+5	l	li	PRON	_	Person=3|PronType=Prs	4	nmod	_	Gloss=3SG
+6	yo	yo	DET	_	Number=Plur|PronType=Art	4	det	_	Gloss=les
 7	te	te	AUX	_	Tense=Past	8	aux	_	Gloss=PAST
 8	atire	atire	VERB	_	_	0	root	_	Gloss=attirer
 9	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	8	obj	_	Gloss=1SG

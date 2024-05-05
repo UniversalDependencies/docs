@@ -23,13 +23,13 @@ The following 3 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound:lvc	color:blue
-1	వాడు	_	PRON	PRON	_	3	nsubj	_	Translit=vāḍu|LTranslit=_
-2	అన్నం	_	NOUN	NOUN	_	3	obj	_	Translit=annaṁ|LTranslit=_
-3	తినక	_	VERB	VERB	_	6	advcl	_	Translit=tinaka|LTranslit=_
-4	మూడు	_	NUM	NUM	NumType=Card	5	nummod	_	Translit=mūḍu|LTranslit=_
-5	రోజులు	_	NOUN	NOUN	_	6	compound:lvc	_	Translit=rojulu|LTranslit=_
-6	అయింది	_	VERB	VERB	_	0	root	_	Translit=ayiṁdi|LTranslit=_
-7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
+1	వాడు	_	PRON	PRON	_	3	nsubj	_	Translit=vāḍu
+2	అన్నం	_	NOUN	NOUN	_	3	obj	_	Translit=annaṁ
+3	తినక	_	VERB	VERB	_	6	advcl	_	Translit=tinaka
+4	మూడు	_	NUM	NUM	NumType=Card	5	nummod	_	Translit=mūḍu
+5	రోజులు	_	NOUN	NOUN	_	6	compound:lvc	_	Translit=rōjulu
+6	అయింది	_	VERB	VERB	_	0	root	_	Translit=ayiṁdi
+7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.
 
 ~~~
 
@@ -40,13 +40,13 @@ The following 3 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound:lvc	color:blue
-1	నాకు	_	PRON	PRON	_	6	obj	_	Translit=nāku|LTranslit=_
-2	నీలో	_	NOUN	NOUN	_	6	obl	_	Translit=nīlo|LTranslit=_
-3	బాగుపడే	_	VERB	VERB	_	4	acl	_	Translit=bāgupaḍe|LTranslit=_
-4	లక్షణాలు	_	NOUN	NOUN	_	6	csubj	_	Translit=lakṣaṇālu|LTranslit=_
-5	కనిపించడం	_	VERB	VERB	_	6	compound:lvc	_	Translit=kanipiṁcaḍaṁ|LTranslit=_
-6	లేదు	_	VERB	VERB	_	0	root	_	Translit=ledu|LTranslit=_
-7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
+1	నాకు	_	PRON	PRON	_	6	obj	_	Translit=nāku
+2	నీలో	_	NOUN	NOUN	_	6	obl	_	Translit=nīlō
+3	బాగుపడే	_	VERB	VERB	_	4	acl	_	Translit=bāgupaḍē
+4	లక్షణాలు	_	NOUN	NOUN	_	6	csubj	_	Translit=lakṣaṇālu
+5	కనిపించడం	_	VERB	VERB	_	6	compound:lvc	_	Translit=kanipiṁcaḍaṁ
+6	లేదు	_	VERB	VERB	_	0	root	_	Translit=lēdu
+7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.
 
 ~~~
 
@@ -57,11 +57,11 @@ The following 3 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 compound:lvc	color:blue
-1	ఇక	_	ADV	ADV	_	3	advmod	_	Translit=ika|LTranslit=_
-2	ఏం	_	PRON	PRON	_	3	compound:lvc	_	Translit=eṁ|LTranslit=_
-3	చెయ్యాలో	_	VERB	VERB	_	4	ccomp	_	Translit=cèyyālo|LTranslit=_
-4	ఆలోచించు	_	VERB	VERB	_	0	root	_	Translit=ālociṁcu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	ఇక	_	ADV	ADV	_	3	advmod	_	Translit=ika
+2	ఏం	_	PRON	PRON	_	3	compound:lvc	_	Translit=ēṁ
+3	చెయ్యాలో	_	VERB	VERB	_	4	ccomp	_	Translit=ceyyālō
+4	ఆలోచించు	_	VERB	VERB	_	0	root	_	Translit=ālōciṁcu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 

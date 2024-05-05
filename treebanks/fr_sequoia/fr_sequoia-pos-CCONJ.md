@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `CCONJ`
 
-There are 13 `CCONJ` lemmas (0%), 15 `CCONJ` types (0%) and 1640 `CCONJ` tokens (2%).
+There are 12 `CCONJ` lemmas (0%), 14 `CCONJ` types (0%) and 1638 `CCONJ` tokens (2%).
 Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, puis, car, ni, soit, or, +/-, -</em>
+The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, puis, car, ni, soit, or, +/-, tantôt</em>
 
 The 10 most frequent `CCONJ` types:  <em>et, ou, mais, puis, car, ni, soit, /, &, Or</em>
 
-The 10 most frequent ambiguous lemmas: <em>puis</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 1), <em>soit</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 4), <em>or</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1), <em>-</em> (<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> 383, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2, <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>puis</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 1), <em>soit</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 4), <em>or</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 4), <em>soit</em> (<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> 25, <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 2), <em>/</em> (<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 74, <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> 20, <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 7), <em>-</em> (<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> 383, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2, <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 4), <em>soit</em> (<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> 25, <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 3, <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 2), <em>/</em> (<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 74, <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> 20, <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 7)
 
 
 * <em>puis</em>
@@ -30,14 +30,10 @@ The 10 most frequent ambiguous types:  <em>puis</em> (<tt><a href="fr_sequoia-po
   * <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 74: <em>5 mg <b>/</b> 100 ml</em>
   * <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> 20: <em>.. <b>/</b> ..</em>
   * <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 7: <em>DATE DE PREMIERE AUTORISATION <b>/</b> DE RENOUVELLEMENT DE L' AUTORISATION</em>
-* <em>-</em>
-  * <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> 383: <em><b>-</b> Une analyse de le phénomène</em>
-  * <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2: <em>Environ 42 % de les patients avaient un T-score à le col fémoral inférieur à <b>-</b> 2,5 et 45 % de les patients avaient un T-score à le col fémoral supérieur à -2,5 .</em>
-  * <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> 2: <em>La stabilité physicochimique de le produit reconstitué a été démontrée pendant 24 heures entre 2 °C <b>-</b> 8 °C .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.153846 (the average of all parts of speech is 1.406634).
+The form / lemma ratio of `CCONJ` is 1.166667 (the average of all parts of speech is 1.407211).
 
 The 1st highest number of forms (2) was observed with the lemma “et”: <em>&, et</em>.
 
@@ -50,17 +46,17 @@ The 3rd highest number of forms (1) was observed with the lemma “+/-”: <em>+
 `CCONJ` occurs with 2 feature-value pairs: `ExtPos=ADJ`, `ExtPos=CCONJ`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1625 tokens).
+The most frequent feature combination is `_` (1623 tokens).
 Examples: <em>et, ou, mais, puis, car, ni, soit, /, &, Or</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (1624; 99% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (5; 0% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_sequoia-dep-cc.html">cc</a></tt> (1622; 99% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (5; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (830; 51% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (470; 29% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (124; 8% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (109; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (32; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (28; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (828; 51% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (470; 29% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (124; 8% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (109; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (33; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (28; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (1; 0% instances)
 
-1624 (99%) `CCONJ` nodes are leaves.
+1622 (99%) `CCONJ` nodes are leaves.
 
 7 (0%) `CCONJ` nodes have one child.
 

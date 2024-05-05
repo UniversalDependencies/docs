@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `goeswith`.
+21 nodes (0%) are attached to their parents as `goeswith`.
 
-14 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07142857142857.
+21 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04761904761905.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (8; 57% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (4; 29% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 7% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (9; 43% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (4; 19% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (4; 19% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (2; 10% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	peg	peg	VERB	VB	VerbForm=Inf	0	root	0:root	_
 8	players	player	NOUN	NNS	Number=Plur	7	obj	7:obj	Entity=(24-person-giv:inact-cf1-1-coref)|MSeg=play-er-s
 9	by	by	SCONJ	IN	_	10	mark	10:mark	Discourse=mode-means:103->102:0:dm-by-720+syn-pres-721
-10	throwing	throw	VERB	VBG	VerbForm=Ger	7	advcl	7:advcl:by	MSeg=throw-ing
+10	throwing	throw	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	7:advcl:by	MSeg=throw-ing
 11	dodge	dodgeball	NOUN	GW	Number=Plur|Typo=Yes	10	obj	10:obj	CorrectForm=dodgeballs|Entity=(102-object-new-cf3-1-sgl|XML=<sic ana:::"dodgeballs">
 12	balls	_	X	NNS	_	11	goeswith	11:goeswith	CorrectForm=_|Entity=102)|MSeg=ball-s|SpaceAfter=No|XML=</sic>
 13	.	.	PUNCT	.	_	7	punct	7:punct	_
@@ -65,49 +65,19 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 20 goeswith	color:blue
-1	Unfortunately	unfortunately	ADV	RB	Degree=Pos|Polarity=Neg	12	advmod	12:advmod	Discourse=causal-cause:63->65:0:dm-and-525|MSeg=Un-fortun-ate-ly|SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 goeswith	color:blue
+1	Right	right	ADJ	JJ	Degree=Pos	6	discourse	6:discourse	Discourse=organization-phatic:162->156:4:_|SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	1:punct	_
-3	most	most	ADJ	JJS	Degree=Sup	12	obl:tmod	12:obl:tmod	_
-4	of	of	ADP	IN	_	6	case	6:case	_
-5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
-6	time	time	NOUN	NN	Number=Sing	3	obl	3:obl:of	SpaceAfter=No
-7	,	,	PUNCT	,	_	3	punct	3:punct	_
-8	people	person	NOUN	NNS	Number=Plur	12	nsubj	12:nsubj|14:nsubj:xsubj	Entity=(103-person-new-cf5-1-sgl
-9	in	in	ADP	IN	_	11	case	11:case	_
-10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(65-abstract-giv:inact-cf4-2-coref
-11	residential	residential	ADJ	JJ	Degree=Pos|Typo=Yes	8	nmod	8:nmod:in	CorrectForm=residential sector|Entity=65)103)|MSeg=resident-ial|XML=<sic ana:::"residential sector"></sic>
-12	end	end	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-13	up	up	ADP	RP	_	12	compound:prt	12:compound:prt	_
-14	choosing	choose	VERB	VBG	VerbForm=Ger	12	xcomp	12:xcomp	Entity=(104-event-new-cf1-1-disc|MSeg=choos-ing
-15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(105-object-new-cf3-2-coref
-16	lamp	lamp	NOUN	NN	Number=Sing	14	obj	14:obj	Entity=105)
-17	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	14:advcl	Discourse=mode-manner:64->63:0:syn-pst_-516+lex-altlex-516-517|MSeg=bas-ed
-18	on	on	ADP	IN	_	21	case	21:case	_
-19	it	its	PRON	GW	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Typo=Yes	21	nmod:poss	21:nmod:poss	CorrectForm=its|Entity=(106-abstract-new-cf6-3-sgl(105-object-giv:act-cf3-1-ana|XML=<sic ana:::"its">
-20	is	_	X	PRP$	_	19	goeswith	19:goeswith	CorrectForm=_|Entity=105)|XML=</sic>
-21	price	price	NOUN	NN	Number=Sing	17	obl	17:obl:on	Entity=106)
-22	rather	rather	ADV	RB	_	25	cc	25:cc	MSeg=rath-er
-23	than	than	ADP	IN	_	22	fixed	22:fixed	_
-24	its	its	PRON	PRP$	Case=Gen|Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	nmod:poss	25:nmod:poss	Entity=(107-abstract-new-cf7-2-coref(105-object-giv:act-cf3-1-ana)|MSeg=it-s
-25	efficiency	efficiency	NOUN	NN	Number=Sing	21	conj	17:obl:on|21:conj:rather_than	Entity=107)104)|MSeg=efficien-cy
-26	and	and	CCONJ	CC	_	28	cc	28:cc	Discourse=elaboration-additional:65->61:1:_
-27	this	this	PRON	DT	Number=Sing|PronType=Dem	28	nsubj	28:nsubj	Entity=(104-event-giv:act-cf1-1-coref)
-28	cause	cause	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	12	conj	12:conj:and	CorrectForm=causes|XML=<sic ana:::"causes"></sic>
-29	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	28	iobj	28:iobj|31:nsubj:xsubj	Entity=(108-person-acc:com-cf2-1-ana)
-30	to	to	PART	TO	_	31	mark	31:mark	_
-31	pay	pay	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	_
-32	for	for	ADP	IN	_	34	case	34:case	_
-33	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	34	nmod:poss	34:nmod:poss	Entity=(109-abstract-new-cf8-2-sgl(108-person-giv:act-cf2-1-ana)
-34	lighting	lighting	NOUN	NN	Number=Sing	31	obl	31:obl:for	Entity=109)|MSeg=light-ing
-35	more	more	ADJ	JJR	Degree=Cmp	31	obj	31:obj	_
-36	than	than	ADP	IN	_	37	case	37:case	_
-37	necessary	necessary	ADJ	JJ	Degree=Pos	35	obl	35:obl:than	SpaceAfter=No
-38	.	.	PUNCT	.	_	12	punct	12:punct	_
+3	so	so	ADV	RB	_	6	discourse	6:discourse	_
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	Bridge=1<35|Entity=(35-person-acc:inf-cf1-1-ana)
+5	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+6	gon	go	VERB	GW	Style=Vrnc|Typo=Yes	0	root	0:root	XML=<w>
+7	na	_	X	VBG	_	6	goeswith	6:goeswith	XML=</w>
+8	--	-	PUNCT	:	_	6	punct	6:punct	_
 
 ~~~
 

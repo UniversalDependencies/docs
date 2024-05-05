@@ -35,8 +35,8 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 11	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	Lem=_|Len=5
 12	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
 13	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	nmod	11:nmod:of	Entity=(54-object-giv:act-cf1-1-ana)55)|Lem=_|Len=2
-14	_	_	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	15	aux	15:aux	Lem=_|Len=4
-15	_	_	VERB	VB	VerbForm=Inf	4	conj	4:conj:or	Lem=_|Len=11|MSeg=deteriorate|SpaceAfter=No
+14	_	_	AUX	MD	VerbForm=Fin	15	aux	15:aux	Lem=_|Len=4
+15	_	_	VERB	VB	VerbForm=Inf	4	conj	4:conj:or	Lem=_|Len=11|SpaceAfter=No
 16	_	_	PUNCT	.	_	4	punct	4:punct	Lem=_|Len=1
 
 ~~~
@@ -95,7 +95,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 15	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=weigh|Len=6|MSeg=weigh-s
 16	_	_	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	Lem=_|Len=1
 17	_	_	NOUN	NN	Number=Sing	18	obl:npmod	18:obl:npmod	Lem=_|Len=3
-18	_	_	ADV	RBR	Degree=Cmp	21	advmod	21:advmod	Lem=_|Len=4
+18	_	_	ADV	RBR	Degree=Cmp	21	advmod	21:advmod	ExtPos=ADV|Lem=_|Len=4
 19	_	_	ADP	IN	_	18	fixed	18:fixed	Lem=_|Len=4
 20	_	_	SYM	$	_	15	obj	15:obj	Entity=(143-substance-new-cf4-1-sgl|Lem=_|Len=1
 21	_	_	NUM	CD	NumForm=Digit|NumType=Card	20	nummod	20:nummod	Lem=100000|Len=7
@@ -105,7 +105,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 25	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 26	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	Lem=_|Len=1
 27	_	_	NOUN	NN	Number=Sing	28	obl:npmod	28:obl:npmod	Lem=_|Len=3
-28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6
+28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6|MSeg=easi-er
 29	_	_	PART	TO	_	30	mark	30:mark	Lem=_|Len=2
 30	_	_	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	Lem=_|Len=4
 31	_	_	ADV	RB	Degree=Pos	28	advmod	28:advmod	Entity=139)|Lem=_|Len=3|SpaceAfter=No

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Form`, `Infm`.
 
 1112 tokens (1%) have a non-empty value of `Polite`.
 92 types (1%) occur at least once with a non-empty value of `Polite`.
-46 lemmas (0%) occur at least once with a non-empty value of `Polite`.
+47 lemmas (0%) occur at least once with a non-empty value of `Polite`.
 The feature is used with 8 part-of-speech tags: <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (760; 1% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (212; 0% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (107; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `PRON`
@@ -40,7 +40,7 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 * `EMPTY` (8909): ہے، ہوئے، گیا، ہیں، تھا، ہےں، جا، گئی، تھی، گئے
 
 <table>
-  <tr><th>Paradigm <i>جا</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><th>Paradigm <i>جانا</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>جاتے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>گئے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>گئے</td></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 * `EMPTY` (12588): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، ہے، دی
 
 <table>
-  <tr><th>Paradigm <i>کر</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><th>Paradigm <i>کرنا</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>کرتے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>کرتیں</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>کئے</td></tr>

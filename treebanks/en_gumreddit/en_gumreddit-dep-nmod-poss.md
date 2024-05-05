@@ -87,7 +87,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 17	_	_	SCONJ	IN	_	19	mark	19:mark	Discourse=attribution-positive:104->105:0:sem-atsrc-747,764+lex-indwd-748+lex-indwd-765|Lem=_|Len=4
 18	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Entity=(29-person-giv:act-cf2-1-ana)|Lem=_|Len=4
 19	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	6:advcl:that	Lem=_|Len=6|MSeg=for-get
-20	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	23:nsubj|25:nsubj:xsubj	Discourse=elaboration-additional:105->101:1:ref-prs-731,737-738,747,750|Entity=(29-person-giv:act-cf2-1-ana)|Lem=_|Len=4
+20	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	23	nsubj	23:nsubj|25:nsubj:xsubj	Discourse=elaboration-additional:105->101:1:ref-prs-731,747+ref-prs-737-738,750|Entity=(29-person-giv:act-cf2-1-ana)|Lem=_|Len=4
 21	_	_	ADV	RB	Degree=Pos	23	advmod	23:advmod	Lem=_|Len=6|MSeg=simp-ly
 22	_	_	ADV	RB	_	23	advmod	23:advmod	Lem=_|Len=4
 23	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	19:ccomp	Lem=_|Len=4

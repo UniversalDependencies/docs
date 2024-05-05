@@ -9,28 +9,30 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="it_old-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="it_old-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-587 nodes (1%) are attached to their parents as `advmod:tmod`.
+1156 nodes (1%) are attached to their parents as `advmod:tmod`.
 
-449 instances of `advmod:tmod` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.90630323679727.
+893 instances of `advmod:tmod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.07958477508651.
 
-The following 9 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (506; 86% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (39; 7% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (24; 4% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (975; 84% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (69; 6% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (54; 5% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 advmod:tmod	color:blue
-1	Sì	così	ADV	b	_	3	advmod	_	Canto=20|Verso=130
-2	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	iobj	_	Canto=20|Verso=130
-3	parlava	parlare	VERB	vi1iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Canto=20|SpaceAfter=No|Verso=130
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	e	e	CCONJ	cscc	_	6	cc	_	Canto=20|Verso=130
-6	andavamo	andare	VERB	vi1iip1	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	conj	_	Canto=20|Verso=130
-7	introcque	introcque	ADV	b	_	6	advmod:tmod	_	Canto=20|SpaceAfter=No|Verso=130
-8	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 advmod:tmod	color:blue
+1	Poi	poi	ADV	b	_	3	advmod:tmod	_	Canto=26|Verso=148
+2	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Canto=26|Verso=148
+3	ascose	ascondere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=26|Verso=148
+4	in	in	ADP	_	_	6	case	_	Canto=26|Comment=ne-l|Verso=148
+5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Canto=26|Comment=ne-l|Verso=148
+6	foco	fuoco	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl:lmod	_	Canto=26|Verso=148
+7	che	che	PRON	pr	PronType=Rel	9	nsubj	_	Canto=26|Verso=148
+8	li	li	PRON	pp3mpyac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Canto=26|Verso=148
+9	affina	affinare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Canto=26|SpaceAfter=No|Verso=148
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -69,33 +71,30 @@ The following 9 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 advmod:tmod	color:blue
-1	Sanza	senza	ADP	eisk13	_	2	case	_	Canto=14|Verso=40
-2	riposo	riposo	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	Canto=14|Verso=40
-3	mai	mai	ADV	b	_	2	advmod:tmod	_	Canto=14|Verso=40
-4	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	Canto=14|Verso=40
-5	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Canto=14|Verso=40
-6	tresca	tresca	NOUN	sf1fs	Gender=Fem|Number=Sing	2	nsubj	_	Canto=14|Verso=40
-7	de	di	ADP	eps	_	10	case	_	Canto=14|Verso=41
-8	le	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	Canto=14|Verso=41
-9	misere	misero	ADJ	a1fp	Gender=Fem|Number=Plur	10	amod	_	Canto=14|Verso=41
-10	mani	mano	NOUN	sf2fp	Gender=Fem|Number=Plur	6	nmod	_	Canto=14|SpaceAfter=No|Verso=41
-11	,	,	PUNCT	_	_	16	punct	_	_
-12	or	ora	ADV	b	_	13	advmod:tmod	_	Canto=14|Verso=41
-13	quindi	quindi	ADV	b	_	16	advmod:lmod	_	Canto=14|Verso=41
-14	or	ora	ADV	b	_	15	advmod:tmod	_	Canto=14|Verso=41
-15	quinci	quinci	ADV	b	_	16	advmod:lmod	_	Canto=14|Verso=41
-16	escotendo	scuotere	VERB	vta2gp	VerbForm=Conv|Voice=Act	2	advcl	_	Canto=14|Verso=42
-17	da	da	ADP	epska	_	18	case	_	Canto=14|Verso=42
-18	sé	sé	PRON	pf3lpr	Person=3|PronType=Prs|Reflex=Yes	16	obl:lmod	_	Canto=14|Verso=42
-19	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	Canto=14|SpaceAfter=No|Verso=42
-20	arsura	arsura	NOUN	sf1fs	Gender=Fem|Number=Sing	16	obj	_	Canto=14|Verso=42
-21	fresca	fresco	ADJ	a1fs	Gender=Fem|Number=Sing	20	amod	_	Canto=14|SpaceAfter=No|Verso=42
-22	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 17 12 advmod:tmod	color:blue
+1	Io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	3	nsubj	_	Canto=17|Verso=38
+2	son	essere	AUX	vi4ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	Canto=17|Verso=38
+3	essa	esso	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	Canto=17|Verso=38
+4	che	che	PRON	pr	PronType=Rel	5	nsubj	_	Canto=17|Verso=38
+5	lutto	luttare	VERB	vi1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Canto=17|SpaceAfter=No|Verso=38
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	madre	madre	NOUN	sf3fs	Gender=Fem|Number=Sing	3	appos	_	Canto=17|SpaceAfter=No|Verso=39
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	a	a	ADP	epskr	_	11	case	_	Canto=17|Verso=39
+10	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Canto=17|Verso=39
+11	tua	tuo	PRON	ps1fs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	obl	_	Canto=17|Verso=39
+12	pria	prima	ADV	_	_	17	advmod:tmod	_	Canto=17|Verso=39
+13	ch'	che	SCONJ	_	_	17	mark	_	Canto=17|Verso=39
+14	a	a	ADP	epskr	_	17	case	_	Canto=17|Verso=39
+15	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Canto=17|Verso=39
+16	altrui	altrui	DET	ai	PronType=Ind	17	det	_	Canto=17|Verso=39
+17	ruina	rovina	NOUN	sf1fs	Gender=Fem|Number=Sing	11	conj	_	Canto=17|SpaceAfter=No|Verso=39
+18	»	»	PUNCT	_	_	3	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

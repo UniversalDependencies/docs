@@ -75,7 +75,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Pos` (2; 100% of non-empty `Degree`): <em>total, viel</em>
-* `EMPTY` (14974): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14977): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ## Relations with Agreement in `Degree`
 

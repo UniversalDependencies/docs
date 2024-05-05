@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `cc`: <tt><a href="en_gentle-dep-cc-pr
 627 instances of `cc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.29346092503987.
 
-The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (252; 40% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (191; 30% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (54; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (53; 8% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (16; 3% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (15; 2% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (14; 2% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (251; 40% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (192; 31% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (55; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (52; 8% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (16; 3% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (15; 2% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (15; 2% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PART.html">PART</a></tt>-<tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 9	sequence	sequence	NOUN	NN	Number=Sing	3	conj	3:conj:or|10:obl:in	Entity=(150-abstract-new-cf4-1-coref)
 10	closest	close	ADJ	JJS	Degree=Sup	0	root	0:root	MSeg=clos-est
 11	or	or	CCONJ	CC	_	12	cc	12:cc	_
-12	following	follow	VERB	VBG	VerbForm=Ger	10	conj	10:conj:or	MSeg=follow-ing|SpaceAfter=No
+12	following	follow	VERB	VBG	Tense=Pres|VerbForm=Part	10	conj	10:conj:or	MSeg=follow-ing|SpaceAfter=No
 13	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 ~~~
@@ -57,7 +57,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 9	sequence	sequence	NOUN	NN	Number=Sing	3	conj	3:conj:or|10:obl:in	Entity=(150-abstract-new-cf4-1-coref)
 10	closest	close	ADJ	JJS	Degree=Sup	0	root	0:root	MSeg=clos-est
 11	or	or	CCONJ	CC	_	12	cc	12:cc	_
-12	following	follow	VERB	VBG	VerbForm=Ger	10	conj	10:conj:or	MSeg=follow-ing|SpaceAfter=No
+12	following	follow	VERB	VBG	Tense=Pres|VerbForm=Part	10	conj	10:conj:or	MSeg=follow-ing|SpaceAfter=No
 13	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 cc	color:blue
-1	2.	2.	X	LS	_	3	dep	3:dep	Discourse=joint-list_m:45->41:4:_
+1	2.	2.	X	LS	_	3	discourse	3:discourse	Discourse=joint-list_m:45->41:4:_
 2	Roe	Roe	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	Entity=(58-person-new-cf3-1-coref-Norma_McCorvey)
 3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=ha-s
 4	standing	standing	NOUN	NN	Number=Sing	3	obj	3:obj	MSeg=stand-ing

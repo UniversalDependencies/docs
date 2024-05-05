@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-64 nodes (2%) are attached to their parents as `det`.
+66 nodes (2%) are attached to their parents as `det`.
 
-61 instances of `det` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15625.
+63 instances of `det` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15151515151515.
 
-The following 2 pairs of parts of speech are connected with `det`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (34; 53% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (30; 47% instances).
+The following 2 pairs of parts of speech are connected with `det`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (34; 52% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (32; 48% instances).
 
 
 ~~~ conllu

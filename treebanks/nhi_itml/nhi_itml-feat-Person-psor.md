@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="nhi_itml-feat-Person.html">Person</a></tt>, <tt><a href="nhi_itml-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt>.
 
-419 tokens (4%) have a non-empty value of `Person[psor]`.
-140 types (6%) occur at least once with a non-empty value of `Person[psor]`.
-101 lemmas (6%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (419; 4% instances).
+486 tokens (5%) have a non-empty value of `Person[psor]`.
+191 types (8%) occur at least once with a non-empty value of `Person[psor]`.
+136 lemmas (8%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (486; 5% instances).
 
 ### `NOUN`
 
-419 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (28% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+486 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (33% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (418; 100%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (353; 84%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (331; 79%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=Sing</tt> (322; 77%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (253; 60%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (485; 100%), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (427; 88%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (416; 86%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (379; 78%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=Sing</tt> (322; 66%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (296; 61%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -37,7 +37,8 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="nhi_itml-dep-case.html">case</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="nhi_itml-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8; 73%),
+<tt>NOUN --[<tt><a href="nhi_itml-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="nhi_itml-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="nhi_itml-dep-vocative.html">vocative</a></tt>]--> NOUN</tt> (1; 100%).
 

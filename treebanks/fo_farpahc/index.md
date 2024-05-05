@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Anton Karl Ingason, Eiríkur Rögnvaldsson, Joel C. Wallenberg.
 
 Repository: [UD_Faroese-FarPaHC](https://github.com/UniversalDependencies/UD_Faroese-FarPaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Icelandic-FarPaHC is a conversion of the [Faroese Parsed Historical Corpus (FarPaHC)](https://github.com/einarfs/farpahc) to the Universal Dependencies scheme.
+UD_Faroese-FarPaHC is a conversion of the [Faroese Parsed Historical Corpus (FarPaHC)](https://github.com/einarfs/farpahc) to the Universal Dependencies scheme.
 
 The conversion was done using [UDConverter](https://github.com/thorunna/UDConverter).
 

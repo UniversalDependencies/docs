@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>ha, D, D., Dr.</em>
-* `EMPTY` (77560): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
+* `EMPTY` (77553): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
 ### `PROPN`
 

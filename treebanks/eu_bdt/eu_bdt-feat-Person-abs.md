@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="eu_bdt-feat-Person.html">Person</a></tt>, <tt><a href="eu_bdt-feat-Person-abs.html">Person[abs]</a></tt>, <tt><a href="eu_bdt-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="eu_bdt-feat-Person-erg.html">Person[erg]</a></tt>.
 
 14675 tokens (12%) have a non-empty value of `Person[abs]`.
-1057 types (4%) occur at least once with a non-empty value of `Person[abs]`.
+1056 types (4%) occur at least once with a non-empty value of `Person[abs]`.
 23 lemmas (0%) occur at least once with a non-empty value of `Person[abs]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (11609; 10% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (3066; 3% instances).
 

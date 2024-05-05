@@ -43,7 +43,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (5; 100% of non-empty `Abbr`): <em>bzgl, lt., v., z</em>
-* `EMPTY` (32103): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
+* `EMPTY` (32100): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
 ### `CCONJ`
 
@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>abzgl, ua, usw</em>
-* `EMPTY` (14973): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14976): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `VERB`
 
@@ -83,7 +83,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>geb, vergl</em>
-* `EMPTY` (20684): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20645): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 ### `NUM`
 

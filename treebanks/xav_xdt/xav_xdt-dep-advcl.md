@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (2%) are attached to their parents as `advcl`.
+27 nodes (2%) are attached to their parents as `advcl`.
 
-17 instances of `advcl` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.54166666666667.
+18 instances of `advcl` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.25925925925926.
 
-The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (11; 46% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (6; 25% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (12; 44% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (6; 22% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -49,29 +49,22 @@ The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href
 8	waptẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	tsa	tsa	NOUN	n	_	8	advcl	_	food;comida,alimento
-11	da	da	SCONJ	sconj	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+11	da	da	ADP	posp	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 12	.	.	PUNCT	punct	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 advcl	color:blue
-1	Romhuri	romhuri	VERB	v	_	3	nsubj	_	to.work;trabalhar
-2	a'uwẽ	a'uwẽ	NOUN	n	_	3	nmod	_	man,person,people,indian;homem,pessoa,gente,índio
-3	höimanadzé	höimanadzé	NOUN	n	_	0	root	_	life,existence;vida,existência
-4	.	.	PUNCT	punct	_	3	punct	_	_
-5	Romhuri	romhuri	VERB	v	_	8	advcl	_	to.work;trabalhar
-6	ãna	na	ADP	posp	_	5	obl	_	without;sem
-7	hã	hã	PART	prcl	Emph=Yes	5	discourse	_	_
-8	dahöimanadzéb	höimanadzé	NOUN	n	Number=Sing|Person=3	3	parataxis	_	life,existence;vida,existência
-9	õ	õ	PART	prcl	_	8	dep	_	negative.marker;marcador.negativo
-10	di	di	X	x	_	8	dep	_	expletive;expletivo
-11	.	.	PUNCT	punct	_	8	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advcl	color:blue
+1	Õhõ	õ	DET	dem	Deixis=Remt|Emph=Yes	4	det	_	_
+2	si	si	ADV	adv	_	4	advmod	_	_
+3	tô	tô	ADV	adv	_	4	advcl	_	_
+4	ropotoʔwa	ropotoʔwa	NOUN	n	_	0	root	_	_
 
 ~~~
 

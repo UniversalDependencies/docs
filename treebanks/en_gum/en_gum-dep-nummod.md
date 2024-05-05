@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1226 nodes (1%) are attached to their parents as `nummod`.
+1374 nodes (1%) are attached to their parents as `nummod`.
 
-1152 instances of `nummod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40293637846656.
+1282 instances of `nummod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39737991266376.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1092; 89% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (66; 5% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (40; 3% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1206; 88% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (93; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (42; 3% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (18; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 8	and	and	CCONJ	CC	_	12	cc	12:cc	Discourse=joint-list_m:111->110:0:dm-and-869
 9	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(25-person-giv:inact-cf3-2-coref(2-person-giv:inact-cf2-1-ana)
 10	mother	mother	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Entity=25)
-11	would	would	AUX	MD	Number=Sing|Person=3|VerbForm=Fin	12	aux	12:aux	_
+11	would	would	AUX	MD	VerbForm=Fin	12	aux	12:aux	_
 12	fry	fry	VERB	VB	VerbForm=Inf	7	conj	7:conj:and	_
 13	eggs	egg	NOUN	NNS	Number=Plur	12	obj	12:obj	Entity=(137-object-new-cf5-1-sgl)|MSeg=egg-s|SpaceAfter=No
 14	.	.	PUNCT	.	_	7	punct	7:punct	_
@@ -41,23 +41,22 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 nummod	color:blue
-1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=context-background:117->124:2:ref-prs-736,787;adversative-antithesis:117->117:1:2:orp-and-786|Entity=(21-person-giv:inact-cf3-1-ana)
-2	spent	spend	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	$	$	SYM	$	_	2	obj	2:obj	Entity=(83-abstract-new-cf2-1-coref|SpaceAfter=No|XML=<w>
-4	2	2	NUM	CD	NumForm=Digit|NumType=Card	5	compound	5:compound	XML=</w>
-5	trillion	trillion	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Entity=83)
-6	in	in	ADP	IN	_	7	case	7:case	_
-7	Iraq	Iraq	PROPN	NNP	Number=Sing	2	obl	2:obl:in	Entity=(75-place-giv:act-cf1*-1-coref-Iraq)|SpaceAfter=No
-8	,	,	PUNCT	,	_	9	punct	9:punct	_
-9	$	$	SYM	$	_	2	parataxis	2:parataxis	Entity=(83-abstract-giv:act-cf2-1-coref|SpaceAfter=No|XML=<w>
-10	2	2	NUM	CD	NumForm=Digit|NumType=Card	11	compound	11:compound	XML=</w>
-11	trillion	trillion	NUM	CD	NumForm=Word|NumType=Card	9	nummod	9:nummod	Entity=83)|SpaceAfter=No
-12	.	.	PUNCT	.	_	2	punct	2:punct	_
+# visual-style 3 4 nummod	color:blue
+1	Consider	consider	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=organization-preparation:59->63:3:lex-indwd-563
+2	what	what	PRON	WP	PronType=Rel	1	obj	1:obj	_
+3	$	$	SYM	$	_	10	nsubj	10:nsubj	Entity=(87-abstract-giv:inact-cf1-1-coref(116-abstract-new-cf3-1-sgl
+4	5,000	5000	NUM	CD	NumForm=Digit|NumType=Card	3	nummod	3:nummod	Entity=116)
+5	per	per	ADP	IN	_	6	case	6:case	_
+6	person	person	NOUN	NN	Number=Sing	3	nmod	3:nmod:per	Entity=(105-person-giv:inact-cf2-1-coref)
+7	per	per	ADP	IN	_	8	case	8:case	_
+8	year	year	NOUN	NN	Number=Sing	3	nmod	3:nmod:per	Entity=(117-time-new-cf4-1-sgl)87)
+9	would	would	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+10	mean	mean	VERB	VB	VerbForm=Inf	2	acl:relcl	2:acl:relcl	SpaceAfter=No
+11	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 

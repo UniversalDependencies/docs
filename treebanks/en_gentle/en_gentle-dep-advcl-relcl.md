@@ -32,7 +32,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 8	Other	other	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	Kind	kind	NOUN	NN	Number=Sing	5	parataxis	5:parataxis	_
 10	of	of	ADP	IN	_	11	case	11:case	_
-11	Networking	networking	NOUN	NN	Number=Sing	9	nmod	9:nmod:of	Entity=152)|SpaceAfter=No
+11	Networking	networking	NOUN	NN	Number=Sing	9	nmod	9:nmod:of	Entity=152)|MSeg=Net-work-ing|SpaceAfter=No
 12	)	)	PUNCT	-RRB-	_	9	punct	9:punct	XML=</ref>
 
 ~~~
@@ -91,7 +91,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 16	leg	leg	NOUN	NN	Number=Sing	11	obl	11:obl:in	_
 17	of	of	ADP	IN	_	21	case	21:case	_
 18	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Entity=(6-event-new-cf11-2,4-sgl
-19	Champions	Champion	PROPN	NNPS	Number=Plur	20	compound	20:compound	Entity=(7-event-new-cf24-1,2-coref-UEFA_Champions_League
+19	Champions	Champion	PROPN	NNPS	Number=Plur	20	compound	20:compound	Entity=(7-event-new-cf24-1,2-coref-UEFA_Champions_League|MSeg=Champion-s
 20	League	League	PROPN	NNP	Number=Sing	21	compound	21:compound	Entity=7)
 21	quarter-finals	quarter-final	NOUN	NNS	Number=Plur	16	nmod	16:nmod:of	Entity=6)5)
 22	and	and	CCONJ	CC	_	25	cc	25:cc	Discourse=joint-sequence_m:3->2:0:_
@@ -108,7 +108,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 33	,	,	PUNCT	,	_	36	punct	36:punct	_
 34	and	and	CCONJ	CC	_	36	cc	36:cc	Discourse=joint-sequence_m:4->2:0:_
 35	now	now	ADV	RB	_	36	advmod	36:advmod	_
-36	advancing	advance	VERB	VBG	VerbForm=Ger	11	conj	7:acl:relcl|11:conj:and	MSeg=advanc-ing
+36	advancing	advance	VERB	VBG	Tense=Pres|VerbForm=Part	11	conj	7:acl:relcl|11:conj:and	MSeg=advanc-ing
 37	into	into	ADP	IN	_	39	case	39:case	MSeg=in-to
 38	the	the	DET	DT	Definite=Def|PronType=Art	39	det	39:det	Entity=(9-event-new-cf13-2,4-coref
 39	semi-finals	semi-final	NOUN	NNS	Number=Plur	36	obl	36:obl:into	_
@@ -120,7 +120,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 45	's	's	PART	POS	_	44	case	44:case	Entity=13)|XML=</date>
 46	episode	episode	NOUN	NN	Number=Sing	48	nsubj	48:nsubj|50:nsubj:xsubj	Entity=12)
 47	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	aux	48:aux	_
-48	gon	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	XML=<w>
+48	gon	go	VERB	VBG	Style=Vrnc|Tense=Pres|VerbForm=Part	0	root	0:root	XML=<w>
 49	na	to	PART	TO	_	50	mark	50:mark	XML=</w>
 50	start	start	VERB	VB	VerbForm=Inf	48	xcomp	48:xcomp	_
 51	off	off	ADP	RP	_	50	compound:prt	50:compound:prt	_
@@ -177,7 +177,7 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 102	games	game	NOUN	NNS	Number=Plur	98	nmod	98:nmod:of	MSeg=game-s
 103	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	105	nsubj	105:nsubj|108:nsubj:xsubj	Discourse=elaboration-attribute:12->11:0:_|Entity=(22-person-acc:com-cf2-1-ana)
 104	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	105	aux	105:aux	_
-105	gon	go	VERB	VBG	Tense=Pres|VerbForm=Part	102	advcl:relcl	102:advcl:relcl	XML=<w>
+105	gon	go	VERB	VBG	Style=Vrnc|Tense=Pres|VerbForm=Part	102	advcl:relcl	102:advcl:relcl	XML=<w>
 106	na	to	PART	TO	_	108	mark	108:mark	XML=</w>
 107	be	be	AUX	VB	VerbForm=Inf	108	aux	108:aux	_
 108	playing	play	VERB	VBG	Tense=Pres|VerbForm=Part	105	xcomp	105:xcomp	Entity=21)|MSeg=play-ing

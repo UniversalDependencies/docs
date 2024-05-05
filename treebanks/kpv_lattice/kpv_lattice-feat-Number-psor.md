@@ -12,16 +12,16 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt>, <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt>.
 
-609 tokens (8%) have a non-empty value of `Number[psor]`.
-515 types (15%) occur at least once with a non-empty value of `Number[psor]`.
-371 lemmas (16%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (463; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (54; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+603 tokens (7%) have a non-empty value of `Number[psor]`.
+509 types (15%) occur at least once with a non-empty value of `Number[psor]`.
+367 lemmas (16%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (462; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (54; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (32; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (19; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-463 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+462 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (380; 82%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (360; 78%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (379; 82%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (360; 78%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
@@ -33,13 +33,13 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>керкаыс</em></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `NOUN`. 95% lemmas (262) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 95% lemmas (261) occur only with one value of `Number[psor]`.
 
 ### `ADP`
 
 54 <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> tokens (20% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 85%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (41; 76%), <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (40; 74%).
+The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (49; 91%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 83%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (41; 76%).
 
 `ADP` tokens may have the following values of `Number[psor]`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADP` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>бӧраным</em></td><td></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `ADP`. 91% lemmas (29) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `ADP`. 90% lemmas (28) occur only with one value of `Number[psor]`.
 
 ### `VERB`
 
@@ -69,11 +69,22 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 `Number[psor]` seems to be **lexical feature** of `VERB`. 97% lemmas (29) occur only with one value of `Number[psor]`.
 
+### `ADJ`
+
+21 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 67%).
+
+`ADJ` tokens may have the following values of `Number[psor]`:
+
+
+`Number[psor]` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `Number[psor]`.
+
 ### `PRON`
 
-23 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+19 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 96%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (21; 91%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 61%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 95%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 53%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 
@@ -86,22 +97,11 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>ставныс</em></td><td></td></tr>
 </table>
 
-### `ADJ`
-
-21 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 67%).
-
-`ADJ` tokens may have the following values of `Number[psor]`:
-
-
-`Number[psor]` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `Number[psor]`.
-
 ### `DET`
 
-7 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+6 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 86%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (5; 71%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (4; 67%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

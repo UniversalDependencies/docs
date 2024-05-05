@@ -86,7 +86,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `EMPTY` (11916): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، دی، بتایا
 
 <table>
-  <tr><th>Paradigm <i>ہو</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th></tr>
+  <tr><th>Paradigm <i>ہونا</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>ہو</td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>ہوگا</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>ہوگا</td></tr>

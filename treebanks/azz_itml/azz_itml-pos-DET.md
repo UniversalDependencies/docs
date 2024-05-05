@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="azz_itml-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.260870 (the average of all parts of speech is 1.380113).
+The form / lemma ratio of `DET` is 1.260870 (the average of all parts of speech is 1.381087).
 
 The 1st highest number of forms (3) was observed with the lemma “in”: <em>in, n, n'</em>.
 

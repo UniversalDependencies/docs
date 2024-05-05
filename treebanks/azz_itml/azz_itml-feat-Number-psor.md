@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="azz_itml-feat-Number.html">Number</a></tt>, <tt><a href="azz_itml-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="azz_itml-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt>.
 
-457 tokens (5%) have a non-empty value of `Number[psor]`.
-103 types (5%) occur at least once with a non-empty value of `Number[psor]`.
-67 lemmas (5%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> (457; 5% instances).
+459 tokens (5%) have a non-empty value of `Number[psor]`.
+104 types (6%) occur at least once with a non-empty value of `Number[psor]`.
+68 lemmas (5%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> (459; 5% instances).
 
 ### `NOUN`
 
-457 <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> tokens (28% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+459 <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> tokens (28% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="azz_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (456; 100%), <tt><a href="azz_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (451; 99%), <tt><a href="azz_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (438; 96%), <tt><a href="azz_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (431; 94%), <tt><a href="azz_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (265; 58%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="azz_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (458; 100%), <tt><a href="azz_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (453; 99%), <tt><a href="azz_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (440; 96%), <tt><a href="azz_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (432; 94%), <tt><a href="azz_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (267; 58%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="azz_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="azz_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>itokay</em></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `NOUN`. 96% lemmas (64) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 96% lemmas (65) occur only with one value of `Number[psor]`.
 
 ## Relations with Agreement in `Number[psor]`
 

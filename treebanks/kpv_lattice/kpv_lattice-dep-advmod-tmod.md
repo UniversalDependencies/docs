@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 2	асылын	асыв	NOUN	N	Case=Ine|Number=Sing	3	obl:tmod	_	_
 3	лэччи	лэччыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
 4	Эжва	Эжва	PROPN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
-5	дорӧ	дорын	ADP	Po	Case=Ill|Number=Sing	4	case	_	_
+5	дорӧ	дорын	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	4	case	_	_
 6	вуграсьны	вуграсьны	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 

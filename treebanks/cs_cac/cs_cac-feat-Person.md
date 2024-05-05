@@ -101,8 +101,8 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (2562; 80%),
+<tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (16; 73%),
 <tt>VERB --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (16; 80%),
-<tt>AUX --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (15; 71%),
 <tt>VERB --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> VERB</tt> (12; 75%),
 <tt>AUX --[<tt><a href="cs_cac-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (8; 62%),
 <tt>VERB --[<tt><a href="cs_cac-dep-acl.html">acl</a></tt>]--> VERB</tt> (5; 56%),

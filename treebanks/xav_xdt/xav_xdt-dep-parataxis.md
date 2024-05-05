@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (4%) are attached to their parents as `parataxis`.
+60 nodes (3%) are attached to their parents as `parataxis`.
 
-59 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.45762711864407.
+60 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.4.
 
-The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (30; 51% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (13; 22% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (6; 10% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (31; 52% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (12; 20% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (5; 8% instances), <tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

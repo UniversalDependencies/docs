@@ -65,14 +65,14 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	semaine	semaine	NOUN	_	Gender=Fem|Number=Sing	17	reparandum	_	_
 5	ou	ou	CCONJ	_	_	6	cc	_	_
 6	deux	deux	NUM	_	Number=Plur	3	conj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
 8	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	nsubj	_	Overlap=Rhap_D0009-48bis
 9	y	y	PRON	_	Person=3|PronType=Prs	0	root	_	Overlap=Rhap_D0009-48bis
 10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Overlap=Rhap_D0009-48bis|SpaceAfter=No
 11	,	,	PUNCT	_	_	13	punct	_	Overlap=Rhap_D0009-48bis
 12	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	13	nsubj	_	Overlap=Rhap_D0009-48bis|SpaceAfter=No
 13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	Overlap=Rhap_D0009-48bis|SpaceAfter=No
-14	,	,	PUNCT	_	_	17	punct	_	_
+14	,	,	PUNCT	_	_	9	punct	_	_
 15	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	nsubj:pass	_	Overlap=Rhap_D0009-49|SpaceAfter=No
 16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	Overlap=Rhap_D0009-49
 17	relivré	relivrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	Overlap=Rhap_D0009-49

@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 1	Joo	joo	INTJ	Interj	_	5	discourse	_	_
 2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom,@<SUBJ
 3	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	obl	_	GTtags=Dem,Sg,Gen
-4	räjja	räjja	ADP	Po	AdpType=Post	3	case	_	_
+4	räjja	räjja	ADP	Po	AdpType=Post|Case=Ill	3	case	_	_
 5	teâđam	tieʹtted	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	jäänab	jäänab	DET	Det	_	9	obj	_	GTtags=@ADVL>

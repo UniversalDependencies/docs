@@ -152,7 +152,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5855; 98%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4019; 100%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1792; 100%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1796; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (815; 91%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (689; 91%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (590; 87%),

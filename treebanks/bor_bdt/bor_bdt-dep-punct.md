@@ -8,12 +8,46 @@ udver: '2'
 
 This relation is universal.
 
-200 nodes (10%) are attached to their parents as `punct`.
+935 nodes (13%) are attached to their parents as `punct`.
 
-198 instances of `punct` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57.
+924 instances of `punct` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.89839572192513.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (115; 57% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (46; 23% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (13; 7% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (5; 3% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (536; 57% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (205; 22% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (47; 5% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (37; 4% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (37; 4% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (30; 3% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (22; 2% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (16; 2% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-DET.html">DET</a></tt>-<tt><a href="bor_bdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 punct	color:blue
+1	Akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+2	Uw	uw	X	x	_	1	ccomp	_	_
+3	!	!	PUNCT	punct	_	1	punct	_	_
+4	Icare	icare	ADV	adv	_	5	advmod	_	_
+5	makore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	1	parataxis	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 punct	color:blue
+1	Arigao	Arigao	PROPN	propn	_	3	nsubj	_	_
+2	Bororo	Bororo	PROPN	propn	_	1	compound	_	_
+3	biagare	biaga	NOUN	n	Mood=Ind|Number=Sing	0	root	_	_
+4	tuje	tuje	ADV	adv	_	3	advmod	_	_
+5	oino	oino	ADV	x	_	3	advmod	_	_
+6	,	,	PUNCT	punct	_	3	punct	_	_
+7	dykaere	dykae	ADV	adv	Mood=Ind	9	advmod	_	_
+8	boe	boe	NOUN	n	Number=Plur	9	nsubj	_	_
+9	etaregodyre	aregody	VERB	v	Mood=Ind|Number=Plur|Person=3	3	parataxis	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,58 +56,14 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 punct	color:blue
-1	Roiwarewu	roiwa	VERB	v	Nomzr=Rel	6	ccomp	_	_
+1	Pemo	Pemo	PROPN	propn	_	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
-3	mearydaerewu	mearydae	VERB	v	Nomzr=Rel	1	conj	_	_
-4	,	,	PUNCT	punct	_	3	punct	_	_
-5	joryduwarewu	oryduwa	VERB	v	Nomzr=Rel	3	conj	_	_
-6	emare	mare	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
-7	roino	roino	ADV	adv	_	6	advmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 punct	color:blue
-1	Itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[ˈai̯dɨ];want,like;querer,gostar
-2	iwo	bo	VERB	v	Number=Sing|Person=1	1	ccomp	_	_
-3	taryduwadä	jorydywadä	VERB	v	Number=Plur|Person=2|Voice=Cau	1	ccomp	_	[dʒɔɾɯˈdɯdɤ];teach;ensinar
-4	boe	boe	NOUN	n	_	5	nmod	_	_
-5	enogiegidae	okiegidae	NOUN	n	_	3	obl	_	_
-6	ji	ji	ADP	posp	_	5	case	_	_
-7	,	,	PUNCT	punct	_	5	punct	_	_
-8	boe	boe	NOUN	n	_	9	nmod	_	_
-9	eno	o	NOUN	n	Number=Plur|Person=3|Poss=Yes	10	nmod	_	_
-10	ie	ie	NOUN	n	_	3	obl	_	_
-11	ji	ji	ADP	posp	_	10	case	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 punct	color:blue
-1	Deu	Deu	NOUN	n	_	5	nsubj	_	_
-2	ure	re	PART	prcl	_	5	dep	_	_
-3	ia	ia	DET	art	_	4	det	_	_
-4	aredu	aredu	NOUN	n	_	5	obj	_	_
-5	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
-6	,	,	PUNCT	punct	_	5	punct	_	_
-7	nowu	nowu	DET	dem	_	8	det	_	_
-8	oredu	oredu	NOUN	n	_	9	nmod	_	husband;marido,esposo
-9	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	10	nsubj	_	name;nome
-10	Adão	Adão	PROPN	n	_	5	parataxis	_	_
-11	,	,	PUNCT	punct	_	10	punct	_	_
-12	oreduje	oreduje	NOUN	n	_	13	nmod	_	wife;esposa
-13	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	14	nsubj	_	_
-14	Eva	Eva	PROPN	n	_	5	parataxis	_	_
+3	oinore	oino	ADV	adv	Mood=Ind	0	root	_	_
+4	Pao	oga	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Sing|Person=1	5	nsubj	_	_
+5	iere	ie	NOUN	n	Mood=Ind|Number=Sing|Person=3	3	ccomp	_	_
+6	boe	boe	NOUN	n	Number=Sing	5	obl	_	_
+7	oto	oto	NOUN	n	Number=Sing	6	compound	_	_
+8	ji	ji	ADP	posp	Number=Sing|Person=3	6	case	_	_
 
 ~~~
 

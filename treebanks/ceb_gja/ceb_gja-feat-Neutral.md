@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 19 tokens (1%) have a non-empty value of `Neutral`.
 13 types (3%) occur at least once with a non-empty value of `Neutral`.
-12 lemmas (3%) occur at least once with a non-empty value of `Neutral`.
+11 lemmas (3%) occur at least once with a non-empty value of `Neutral`.
 The feature is used with 5 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PRON`

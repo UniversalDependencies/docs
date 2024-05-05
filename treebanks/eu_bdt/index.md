@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Maria Jesus Aranzabe, Aitziber Atutxa, Kepa Bengoetxea, Arantza Diaz de Ilarraza, Iakes Goenaga, Koldo Gojenola, Larraitz Uria.
 
 Repository: [UD_Basque-BDT](https://github.com/UniversalDependencies/UD_Basque-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -188,7 +188,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
   <li>Anim
     <ul>
-      <li>ADP: arteko, arabera, artean, inguru, aurrean, aurka, bezala, buruz, gisa, kontra</li>
+      <li>ADP: arteko, arabera, artean, inguru, aurrean, aurka, bezala, batera, buruz, gisa</li>
       <li>NOUN: lagun, jokalariak, ordezkariak, jokalariek, agintariek, hilaren, ministroak, epaileak, arduradunak, gizona</li>
       <li>PROPN: Manek, Maneren, Putinek, Tirapu</li>
     </ul>
@@ -423,7 +423,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADV: orain, sekulan, han, Aspaldian, ASPALDIAN, aurrerantzean, bertan, bezain, nonbaiten, atzokoan</li>
       <li>AUX-Fin: izaten, direnetan, egoten, naizenetan</li>
       <li>DET: horretan, honetan, berean, hartan, hauetan, batzuetan, horietan, guztian, guztietan, haietan</li>
-      <li>NOUN: ostean, igandean, herrian, taldean, urtean, moduan, egunetan, etxean, lanean, urteetan</li>
+      <li>NOUN: ostean, herrian, igandean, taldean, urtean, moduan, egunetan, etxean, lanean, urteetan</li>
       <li>PRON: Geuregan</li>
       <li>PROPN: Gasteizen, Sydneyn, Mendizorrotzan, Madrilen, Mamesen, Nafarroan, Alemanian, Bilbon, Donostian, Europan</li>
       <li>VERB-Fin: egiten, sartzen, jokatzen, ematen, aztertzen, ikertzen, ikusten, hartzen, sortzen, bilatzen</li>

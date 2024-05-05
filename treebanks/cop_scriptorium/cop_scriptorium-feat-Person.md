@@ -18,14 +18,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos
 
 8089 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (8089; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8089; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5553; 69%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (8089; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8089; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5554; 69%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1422; 18% of non-empty `Person`): ⲓ, ⲛ, ϯ, ⲁⲛⲟⲕ, ⲧⲛ, ⲧⲁ, ⲧ, ⲁⲛⲅ, ⲁⲛⲟⲛ, ⲁ
 * `2` (1293; 16% of non-empty `Person`): ⲕ, ⲧⲉⲧⲛ, ⲧⲛ, ⲅ, ⲧⲏⲩⲧⲛ, ⲉ, ⲛⲧⲱⲧⲛ, ⲧⲉ, ⲛⲧⲟⲕ, ⲉⲕϣⲁⲛ
 * `3` (5374; 66% of non-empty `Person`): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲥⲉ, ⲛⲧⲟϥ, ⲉⲩⲉ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲉϥϣⲁⲛ
-* `EMPTY` (1265): ⲡⲉ, ⲟⲩ, ⲛⲓⲙ, ϥ, ⲧⲉ, ⲡ, ⲛⲉ, ⲕ, ⲛ, ⲥ
+* `EMPTY` (1266): ⲡⲉ, ⲟⲩ, ⲛⲓⲙ, ϥ, ⲧⲉ, ⲡ, ⲛⲉ, ⲕ, ⲛ, ⲥ
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (44) occur only with one value of `Person`.
 

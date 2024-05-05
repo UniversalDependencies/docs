@@ -22,9 +22,9 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	ఒరేయ్	_	PRON	PRON	_	2	vocative	_	Translit=òrey|LTranslit=_
-2	వచ్చేవా	_	VERB	VERB	_	0	root	_	Translit=vaccevā|LTranslit=_
-3	?	_	PUNCT	PUNCT	_	2	punct	_	Translit=?|LTranslit=_
+1	ఒరేయ్	_	PRON	PRON	_	2	vocative	_	Translit=orēy
+2	వచ్చేవా	_	VERB	VERB	_	0	root	_	Translit=vaccēvā
+3	?	_	PUNCT	PUNCT	_	2	punct	_	Translit=?
 
 ~~~
 
@@ -35,11 +35,11 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	ఓసి	_	INTJ	INTJ	_	4	vocative	_	Translit=osi|LTranslit=_
-2	!	_	PUNCT	PUNCT	_	4	punct	_	Translit=!|LTranslit=_
-3	పిచ్చి	_	ADJ	ADJ	_	4	amod	_	Translit=picci|LTranslit=_
-4	పిల్లా	_	NOUN	NOUN	_	0	root	_	Translit=pillā|LTranslit=_
-5	!	_	PUNCT	PUNCT	_	4	punct	_	Translit=!|LTranslit=_
+1	ఓసి	_	INTJ	INTJ	_	4	vocative	_	Translit=ōsi
+2	!	_	PUNCT	PUNCT	_	4	punct	_	Translit=!
+3	పిచ్చి	_	ADJ	ADJ	_	4	amod	_	Translit=picci
+4	పిల్లా	_	NOUN	NOUN	_	0	root	_	Translit=pillā
+5	!	_	PUNCT	PUNCT	_	4	punct	_	Translit=!
 
 ~~~
 
@@ -50,9 +50,9 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 vocative	color:blue
-1	ఇడుగోనండి	_	PRON	PRON	_	2	vocative	_	Translit=iḍugonaṁḍi|LTranslit=_
-2	అద్దె	_	NOUN	NOUN	_	0	root	_	Translit=addè|LTranslit=_
-3	!	_	PUNCT	PUNCT	_	2	punct	_	Translit=!|LTranslit=_
+1	ఇడుగోనండి	_	PRON	PRON	_	2	vocative	_	Translit=iḍugōnaṁḍi
+2	అద్దె	_	NOUN	NOUN	_	0	root	_	Translit=adde
+3	!	_	PUNCT	PUNCT	_	2	punct	_	Translit=!
 
 ~~~
 

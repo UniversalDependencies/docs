@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6350 nodes (7%) are attached to their parents as `root`.
+2250 nodes (7%) are attached to their parents as `root`.
 
-6350 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.05023622047244.
+2250 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.47333333333333.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (5605; 88% instances), -<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (323; 5% instances), -<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (113; 2% instances), -<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (74; 1% instances), -<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (72; 1% instances), -<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), -<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (31; 0% instances), -<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (28; 0% instances), -<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (20; 0% instances), -<tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (14; 0% instances), -<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (9; 0% instances), -<tt><a href="qpm_philotis-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="qpm_philotis-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (2008; 89% instances), -<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (96; 4% instances), -<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (35; 2% instances), -<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (24; 1% instances), -<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (19; 1% instances), -<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (19; 1% instances), -<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (19; 1% instances), -<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (9; 0% instances), -<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (9; 0% instances), -<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (7; 0% instances), -<tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

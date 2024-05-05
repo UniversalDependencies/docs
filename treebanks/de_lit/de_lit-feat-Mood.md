@@ -22,7 +22,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-AUX.html
 
 * `Ind` (5; 83% of non-empty `Mood`): <em>ist, era, is, sommes</em>
 * `Sub` (1; 17% of non-empty `Mood`): <em>sei</em>
-* `EMPTY` (2487): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
+* `EMPTY` (2486): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -38,5 +38,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-AUX.html
 * `Imp` (1; 17% of non-empty `Mood`): <em>Ehre</em>
 * `Ind` (2; 33% of non-empty `Mood`): <em>fait, strömt</em>
 * `Sub` (3; 50% of non-empty `Mood`): <em>erfolge, leben, wohlgehe</em>
-* `EMPTY` (3096): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 

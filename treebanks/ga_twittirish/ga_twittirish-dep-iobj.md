@@ -67,7 +67,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 12	Ioruaise	Ioruais	PROPN	_	_	11	nmod	_	Lang=ga
 13	a	a	PART	_	_	14	mark	_	Lang=ga
 14	sheoladh	seol	VERB	_	_	9	csubj:cop	_	Lang=ga
-15	chúm	chuig	ADP	_	_	14	obl:prep	_	Correctform=chugam|Lang=ga
+15	chúm	chuig	ADP	_	_	14	obl:prep	_	CorrectForm=chugam|Lang=ga
 16	ó	ó	ADP	_	_	17	case	_	Lang=ga
 17	Osló	Osló	PROPN	_	_	14	obl	_	Lang=ga|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_

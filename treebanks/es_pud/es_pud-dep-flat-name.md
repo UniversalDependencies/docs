@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_pud-dep-flat.html">flat</a></tt>.
 
-210 nodes (1%) are attached to their parents as `flat:name`.
+200 nodes (1%) are attached to their parents as `flat:name`.
 
-210 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13809523809524.
+200 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14.
 
-The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (173; 82% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (16; 8% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (12; 6% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (173; 87% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (14; 7% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat:name	color:blue
 1	Durán	Durán	PROPN	NNP	Gender=Masc|Number=Sing	2	nsubj	_	_
-2	ejerce	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	ejerce	ejercer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	portavoz	portavoz	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat:name	color:blue
-1	Habló	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Habló	hablar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	para	para	ADP	IN	_	3	case	_	_
 3	CNN	CNN	PROPN	NNP	Number=Sing	1	obl	_	_
 4	Style	style	NOUN	NN	Number=Sing	3	flat:name	_	Proper=True
@@ -56,35 +56,25 @@ The following 10 pairs of parts of speech are connected with `flat:name`: <tt><a
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 23 flat:name	color:blue
-1	On	on	ADP	IN	_	11	nsubj	_	Proper=True
-2	a	a	DET	DT	Number=Sing|PronType=Ind	3	det	_	Proper=True
-3	Wing	wing	NOUN	NN	Number=Sing	1	obj	_	Proper=True
-4	and	and	CCONJ	CC	_	6	cc	_	Proper=True
-5	a	a	DET	DT	Number=Sing|PronType=Ind	6	det	_	Proper=True
-6	Prayer	prayer	NOUN	NN	Number=Sing	3	conj	_	Proper=True
-7	(	(	PUNCT	(	_	8	punct	_	SpaceAfter=No
-8	1992	1992	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	1	appos	_	SpaceAfter=No
-9	)	)	PUNCT	)	_	8	punct	_	_
-10	lo	él	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
-11	reunió	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-12	,	,	PUNCT	,	_	15	punct	_	_
-13	en	en	ADP	IN	_	15	case	_	_
-14	varias	_	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	15	det	_	_
-15	pistas	_	NOUN	NN	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
-16	,	,	PUNCT	,	_	19	punct	_	_
-17	con	con	ADP	IN	_	19	case	_	_
-18	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
-19	compañero	compañero	NOUN	NN	Gender=Masc|Number=Sing	11	obl	_	_
-20	Egan	Egan	PROPN	NNP	Gender=Masc|Number=Sing	19	appos	_	_
-21	de	de	ADP	IN	_	22	case	_	_
-22	Stealers	_	NOUN	NN	Number=Plur	19	nmod	_	Proper=True
-23	Wheel	wheel	NOUN	NN	Number=Sing	22	flat:name	_	SpaceAfter=No|Proper=True
-24	.	.	PUNCT	.	_	11	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 flat:name	color:blue
+1	Durante	durante	ADP	IN	_	3	case	_	_
+2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	guerra	guerra	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	compound:prt	_	_
+6	utilizó	utilizar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	constantemente	constantemente	ADV	RB	_	6	advmod	_	_
+8	a	a	ADP	IN	_	9	case	_	_
+9	Pearl	pearl	NOUN	NN	Number=Sing	6	obl	_	Proper=True
+10	Harbor	harbor	NOUN	NN	Number=Sing	9	flat:name	_	Proper=True
+11	como	como	ADP	IN	_	12	case	_	_
+12	propaganda	propaganda	NOUN	NN	Gender=Fem|Number=Sing	6	obl	_	_
+13	estadounidense	estadounidense	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No|Proper=True
+14	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 

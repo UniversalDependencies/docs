@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe, Bruno Guillaume.
 
 Repository: [UD_French-PUD](https://github.com/UniversalDependencies/UD_French-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 3.0
 
@@ -84,7 +84,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Definite](fr_pud-feat-Definite.html) – [Foreign](fr_pud-feat-Foreign.html) – [Gender](fr_pud-feat-Gender.html) – [Mood](fr_pud-feat-Mood.html) – [Number](fr_pud-feat-Number.html) – [Number[psor]](fr_pud-feat-Number-psor.html) – [Person](fr_pud-feat-Person.html) – [Person[psor]](fr_pud-feat-Person-psor.html) – [Polarity](fr_pud-feat-Polarity.html) – [Poss](fr_pud-feat-Poss.html) – [PronType](fr_pud-feat-PronType.html) – [Tense](fr_pud-feat-Tense.html) – [Typo](fr_pud-feat-Typo.html) – [VerbForm](fr_pud-feat-VerbForm.html)
+[Definite](fr_pud-feat-Definite.html) – [ExtPos](fr_pud-feat-ExtPos.html) – [Foreign](fr_pud-feat-Foreign.html) – [Gender](fr_pud-feat-Gender.html) – [Mood](fr_pud-feat-Mood.html) – [Number](fr_pud-feat-Number.html) – [Number[psor]](fr_pud-feat-Number-psor.html) – [Person](fr_pud-feat-Person.html) – [Person[psor]](fr_pud-feat-Person-psor.html) – [Polarity](fr_pud-feat-Polarity.html) – [Poss](fr_pud-feat-Poss.html) – [PronType](fr_pud-feat-PronType.html) – [Tense](fr_pud-feat-Tense.html) – [Typo](fr_pud-feat-Typo.html) – [VerbForm](fr_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -192,7 +192,7 @@ employ ten-fold cross-validation.
       <li>ADJ-Part: issues, ouverte</li>
       <li>DET: la, les, une, l', l’, sa, des, cette, leur, ses</li>
       <li>NOUN: années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</li>
-      <li>PRON: elle, se, s', elles, s’, l', laquelle, celle, lesquelles, lui</li>
+      <li>PRON: elle, elles, s’, l', laquelle, celle, lesquelles, lui, celles, elle-même</li>
       <li>PROPN: Chine, Amérique, Europe, Australie, France, Italie, Afrique, Albanie, Caraïbes, Grande-Bretagne</li>
       <li>VERB-Part: composée, dirigée, apparue, devenue, utilisée, considérée, considérées, déroulée, détruite, faite</li>
     </ul>
@@ -208,10 +208,9 @@ employ ten-fold cross-validation.
       <li>DET: le, les, un, l', des, l’, son, ce, ses, ces</li>
       <li>NOUN: ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</li>
       <li>NUM: 1er, premier</li>
-      <li>PRON: il, ils, se, s', lui, le, s’, un, eux, je</li>
+      <li>PRON: il, ils, lui, le, s’, un, eux, je, -il, ceux</li>
       <li>PROPN: Trump, J.-C., États-Unis, Joseph, Donald, Gerry, Cameroun, Edgar, Mexique, Rafferty</li>
       <li>VERB-Part: eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</li>
-      <li>X: Garden</li>
     </ul>
   </li>
 </ul>
@@ -229,11 +228,10 @@ employ ten-fold cross-validation.
       <li>AUX-Fin: ont, sont, avaient, étaient, furent, aient, auraient, avons, sommes, soient</li>
       <li>DET: les, des, ses, ces, de, leurs, d', nos, d’, mes</li>
       <li>NOUN: années, ans, personnes, millions, entreprises, dollars, jours, euros, femmes, gens</li>
-      <li>PRON: ils, nous, se, vous, eux, elles, s', ceux, lesquelles, en</li>
+      <li>PRON: ils, nous, vous, eux, elles, ceux, lesquelles, en, s’, celles</li>
       <li>PROPN: États-Unis, Caraïbes, Alpes, Andes, Antilles, Pays-Bas, Balkans, Boeing, Forums, News</li>
       <li>VERB-Fin: peuvent, sont, ont, pourraient, étaient, devons, font, avaient, commencent, devraient</li>
       <li>VERB-Part: inscrits, arrivés, considérées, construits, dirigés, domestiqués, oubliés, placés, rendues, suivies</li>
-      <li>X: Winds</li>
     </ul>
   </li>
 </ul>
@@ -248,11 +246,10 @@ employ ten-fold cross-validation.
       <li>DET: le, la, l', un, une, l’, son, sa, cette, leur</li>
       <li>NOUN: guerre, partie, ville, nord, année, état, sud, gouvernement, mer, siècle</li>
       <li>NUM: 1er, premier</li>
-      <li>PRON: il, elle, se, on, je, s', lui, s’, le, l'</li>
+      <li>PRON: il, elle, on, je, lui, s’, le, l', un, -il</li>
       <li>PROPN: Chine, Hong, Kong, Paris, Trump, Pékin, J.-C., Amérique, Europe, Londres</li>
-      <li>VERB-Fin: a, est, peut, avait, pourrait, était, va, devrait, dit, semble</li>
+      <li>VERB-Fin: a, est, peut, avait, pourrait, était, dit, va, devrait, semble</li>
       <li>VERB-Part: eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</li>
-      <li>X: A, Buena, Dream, Prayer, Spring, The, Winter, Yerba, Garden</li>
     </ul>
   </li>
 </ul>
@@ -327,7 +324,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>AUX-Fin: a, est, ont, sont, était, avait, fut, avaient, étaient, ai</li>
-      <li>VERB-Fin: a, est, peut, avait, était, peuvent, sont, ont, va, étaient</li>
+      <li>VERB-Fin: a, est, peut, avait, était, peuvent, sont, ont, dit, va</li>
     </ul>
   </li>
 </ul>
@@ -380,7 +377,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>AUX-Fin: a, est, ont, sont, ai, aient, soit, auraient, aurait, serait</li>
       <li>AUX-Part: ayant, étant</li>
-      <li>VERB-Fin: a, est, peut, pourrait, peuvent, sont, ont, pourraient, va, devrait</li>
+      <li>VERB-Fin: a, est, peut, pourrait, peuvent, sont, ont, pourraient, dit, va</li>
       <li>VERB-Part: concernant, faisant, ayant, permettant, pouvant, utilisant, dépassant, jouant, laissant, modifiant</li>
     </ul>
   </li>
@@ -532,11 +529,23 @@ employ ten-fold cross-validation.
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADP: à</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: Este, Greco, Mare, Mei, Mundo, Nostrum, Ping, Píanó, Rasa, Rós</li>
+          <li>X: of, the, a, Association, City, El, Ground, My, Punta, Really</li>
         </ul>
       </li>
     </ul>
@@ -603,7 +612,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (360)</li>
       <li>VERB-Fin--PRON (333)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Part--NOUN (183)</li>
+      <li>VERB-Part--NOUN (182)</li>
       <li>VERB-Part--PRON (137)</li>
     </ul>
   </li>

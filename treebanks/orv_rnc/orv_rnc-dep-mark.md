@@ -8,54 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-409 nodes (1%) are attached to their parents as `mark`.
+979 nodes (1%) are attached to their parents as `mark`.
 
-401 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.71149144254279.
+961 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.71297242083759.
 
-The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (319; 78% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (29; 7% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (28; 7% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 mark	color:blue
-1	а	а	CCONJ	_	_	5	cc	_	_
-2	ему	онъ	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
-3	бы	бы	AUX	_	Analyt=Yes|Mood=Cnd	5	aux	_	_
-4	указ	указъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	_
-5	промыслить	промыслити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	0	root	_	_
-6	чтобъ	чтобы	SCONJ	_	Mood=Cnd	7	mark	_	_
-7	жить	жити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	5	ccomp	_	_
-8	с	съ	ADP	_	_	10	case	_	_
-9	ннешнеи	нынѣшний	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
-10	женъкои	женка	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	_
-
-~~~
+The following 21 pairs of parts of speech are connected with `mark`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (728; 74% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (76; 8% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (73; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (27; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (8; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 8 mark	color:blue
-1	А	а	CCONJ	_	_	2	cc	_	_
-2	бꙋдет	быти	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
-3	с	съ	ADP	_	_	4	case	_	_
-4	ними	они	PRON	_	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nmod	_	_
-5	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	iobj	_	_
-6	миръ	миръ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	13	punct	_	_
-8	ино	ино	SCONJ	_	_	13	mark	_	_
-9	и	и	PART	_	_	10	advmod	_	_
-10	тобѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	13	iobj	_	_
-11	с	съ	ADP	_	_	12	case	_	_
-12	ними	они	PRON	_	Case=Ins|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nmod	_	_
-13	миръ	миръ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 mark	color:blue
+1	Ино	ино	SCONJ	_	_	4	mark	_	wf="Ино"|_|_
+2	та	тотъ	DET	Case=Nom1	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	wf="та"|Decl=X|End=а|_
+3	трава	трава	NOUN	Case=Nom1	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	wf="трава"|Decl=1a|End=а|_
+4	рвати	рвати	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	wf="рвати"|Decl=X|End=ит|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	wf=","|_|_
+6	а	а	CCONJ	_	_	9	cc	_	wf="а"|_|_
+7	рвучи	рвати	VERB	_	Tense=Pres|VerbForm=Conv|Voice=Act	9	advcl	_	wf="рвучи"|Decl=X|End=ичу|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	wf=","|_|_
+9	говорит[ь]	говорити	VERB	_	VerbForm=Inf|Voice=Act	4	conj	_	wf="говорить"|Decl=X|End=ьт|SpaceAfter=No
+10	:	:	PUNCT	_	_	4	punct	_	wf=":"|_|_
 
 ~~~
 
@@ -66,16 +42,46 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 mark	color:blue
-1	И	и	CCONJ	_	_	5	cc	_	Norm="И"
-2	не	не	PART	_	Polarity=Neg	3	advmod	_	Norm="не"
-3	вотще	вотще	ADV	_	Degree=Pos	5	advmod	_	Norm="вотще"
-4	сіꙗ	сей	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	3	nsubj:pass	_	Norm="сіꙗ"
-5	рекошасꙗ	рещи	VERB	Tense=Imp	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Norm="рекошасꙗ"|SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	Norm=","
-7	ꙗко	яко	SCONJ	_	_	9	mark	_	Norm="ꙗко"
-8	всꙗ	весь	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	9	det	_	Norm="всꙗ"
-9	стран(н)аꙗ	странный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	ccomp	_	Norm="страннаꙗ"
-10	etc.	etc.	X	_	Foreign=Yes	9	dep	_	Norm="etc."
+1	А	а	CCONJ	_	_	9	cc	_	_
+2	о	о	ADP	_	_	3	case	_	_
+3	чем	что	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	5	obl	_	_
+4	сѧ	ся	PRON	_	Analyt=Yes|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
+5	сопрꙋт	сперетися	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Reflex=Yes|Tense=Fut|VerbForm=Fin|Voice=Mid	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ино	ино	SCONJ	_	_	9	mark	_	_
+8	им	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
+9	трети	третий	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord|Variant=Short	0	root	_	upos="ANUM"|_
+10	ѡ[те]ць	отецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+11	наш	нашъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	det	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	митрополит	митрополитъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 12 mark	color:blue
+1	И	и	CCONJ	_	_	4	cc	_	_
+2	Иван	Иванъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	4	nsubj	_	_
+3	им	они	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
+4	молвил	молвити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	7	punct	_	_
+6	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	Ехати	ѣхати	VERB	_	VerbForm=Inf|Voice=Act	4	parataxis	_	_
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+9	на	на	ADP	_	_	10	case	_	_
+10	берег	берегъ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	ино	ино	SCONJ	_	_	14	mark	_	_
+13	будет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	14	cop	_	_
+14	мотчанье	мотчание	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	advcl	_	SpaceAfter=No
+15	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

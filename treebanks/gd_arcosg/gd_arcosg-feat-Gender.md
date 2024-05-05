@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (4905; 36% of non-empty `Gender`): <em>bliadhna, buille, bhliadhna, obair, cuid, Gàidhlig, tè, aghaidh, dòigh, leithid</em>
 * `Masc` (8707; 64% of non-empty `Gender`): <em>duine, fear, fhios, taobh, rud, daoine, latha, àite, taigh, leth</em>
-* `EMPTY` (5249): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
+* `EMPTY` (5224): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
 
 <table>
   <tr><th>Paradigm <i>dèan</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (503; 35% of non-empty `Gender`): <em>eile, mhòr, ùr, àrd, shaor, mhath, bheag, mhór, beaga, Buidhe</em>
 * `Masc` (938; 65% of non-empty `Gender`): <em>eile, beag, ùr, mòr, math, mór, òg, dubh, ghoirid, ùra</em>
-* `EMPTY` (1976): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1980): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -108,7 +108,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (176; 18% of non-empty `Gender`): <em>[Name], Màiri, Anna, Mairearad, Inis, Catrìona, Ann, Mo, Sarah, Belle</em>
 * `Masc` (789; 82% of non-empty `Gender`): <em>[Name], Iain, Dòmhnall, Tormod, Mhurchaidh, Alasdair, Aonghais, Garaidh, Labhruinn, lain</em>
-* `EMPTY` (3251): <em>[Placename], Alba, [Name], Yugoslavia, MacLeish, Malpas, Uibhist, h-Alba, a, Aitken</em>
+* `EMPTY` (3236): <em>[Placename], Alba, [Name], Yugoslavia, MacLeish, Malpas, Uibhist, h-Alba, a, Aitken</em>
 
 <table>
   <tr><th>Paradigm <i>[Name]</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -124,12 +124,12 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4243; 85%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1274; 67%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (300; 51%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (61; 59%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> PROPN</tt> (55; 60%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1275; 67%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (302; 51%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (64; 62%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> PROPN</tt> (59; 61%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (48; 96%),
-<tt>PROPN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (29; 71%),
+<tt>PROPN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (31; 74%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (28; 65%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-compound.html">compound</a></tt>]--> NOUN</tt> (19; 100%),
 <tt>ADJ --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 84%).

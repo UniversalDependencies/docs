@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="mdf_jr-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-140 nodes (3%) are attached to their parents as `cc`.
+145 nodes (3%) are attached to their parents as `cc`.
 
-140 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12857142857143.
+145 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.13103448275862.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (96; 69% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (21; 15% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (11; 8% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (6; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (99; 68% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (21; 14% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (11; 8% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (7; 5% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NUM.html">NUM</a></tt>-<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

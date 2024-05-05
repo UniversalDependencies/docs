@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ez</em> (<tt><a href="eu_bdt-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.666667 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `PART` is 1.666667 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (2) was observed with the lemma “bai”: <em>bai, baietz</em>.
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-PUD: POS Tags: `ADP`
 
-There are 9 `ADP` lemmas (0%), 33 `ADP` types (1%) and 3817 `ADP` tokens (16%).
+There are 9 `ADP` lemmas (0%), 32 `ADP` types (1%) and 3817 `ADP` tokens (16%).
 Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 10 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, em, _, para, por, a, como, que, sobre</em>
@@ -60,9 +60,9 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="pt_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 3.666667 (the average of all parts of speech is 1.570742).
+The form / lemma ratio of `ADP` is 3.555556 (the average of all parts of speech is 1.570488).
 
-The 1st highest number of forms (33) was observed with the lemma “_”: <em>Aqueles, Como, Conforme, De, Em, Para, Por, a, após, até, com, consigo, contra, daquela, desde, durante, enquanto, entre, exceto, nessa, nesse, nestes, per, portanto, que, se, segundo, sem, sob, sobra, sobre, tanto, ​​em</em>.
+The 1st highest number of forms (32) was observed with the lemma “_”: <em>Aqueles, Como, Conforme, De, Para, Por, a, após, até, com, consigo, contra, daquela, desde, durante, em, enquanto, entre, exceto, nessa, nesse, nestes, per, portanto, que, se, segundo, sem, sob, sobra, sobre, tanto</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 

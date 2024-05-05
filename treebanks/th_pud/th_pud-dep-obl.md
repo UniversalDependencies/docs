@@ -64,7 +64,7 @@ The following 21 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	กลวิธี	_	NOUN	NN	_	3	nsubj	_	SpaceAfter=No|Translit=klwiḏʰí
 2	นี้	_	DET	DT	_	1	det	_	SpaceAfter=No|Translit=ní²
 3	ทำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=dʰã
-4	เงิน	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=ŋéิn
+4	เงิน	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=ŋéin
 5	ผ่าน	_	ADP	IN	_	6	case	_	SpaceAfter=No|Translit=pʰá¹n
 6	การสนับสนุน	_	VERB	VV	_	3	obl	_	SpaceAfter=No|Translit=kársnâbsnun
 7	และ	_	CCONJ	CC	_	8	cc	_	SpaceAfter=No|Translit=læ

@@ -26,11 +26,11 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 2	neh	nehua	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	NormalizedForm=neh
 3	amo	amo	ADV	_	_	5	advmod	5:advmod	NormalizedForm=amo
 4	keman	keman	ADV	_	_	3	fixed	3:fixed	NormalizedForm=keman
-5	nikita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=nikita
+5	nikita	ita	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=nikita
 6	komo	komo	ADV	_	_	7	mark	7:mark	NormalizedForm=komo
-7	xochiowa	xochiohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	advcl	5:advcl	NormalizedForm=xochiowa
+7	xochiowa	xochiohua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	5	advcl	5:advcl	NormalizedForm=xochiowa
 8	oso	oso	CCONJ	_	_	9	cc	9:cc	NormalizedForm=oso
-9	teyowa	teyohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	7	conj	7:conj	NormalizedForm=teyowa|SpaceAfter=No
+9	teyowa	teyohua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	7	conj	7:conj	NormalizedForm=teyowa|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.
 
 ~~~

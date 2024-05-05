@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="apu_ufpa-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-27 nodes (3%) are attached to their parents as `nmod`.
+29 nodes (3%) are attached to their parents as `nmod`.
 
-21 instances of `nmod` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11111111111111.
+23 instances of `nmod` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10344827586207.
 
-The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (18; 67% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 22% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `nmod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (18; 62% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 21% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -53,17 +53,18 @@ The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 nmod	color:blue
-1	Nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nmod	_	gloss[pt]=3PL
-2	aapuku	awapukutxi	NOUN	XPOS=casa.de	_	4	nmod	_	gloss[pt]=casa.de
-3	iia	ie	DET	Det	Gender=Masc	4	det	_	gloss[pt]=esse
-4	paxiuba	paxiuba	NOUN	XPOS=paxiúba	_	5	nsubj	_	gloss[pt]=paxiúba
-5	paiakapeka	paiaka	VERB	XPOS=?estar.mole-PFTV-PRED	_	0	root	_	gloss[pt]=?estar.mole-PFTV-PRED|SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nmod	color:blue
+1	Ipi	epi	NUM	Num	Case=Nom	2	nummod	_	GTtags=Nom
+2	ũty	ũty	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	3	nmod	_	GTtags=Msc,Sg,NPossd,Nom
+3	atuku	atuku	ADV	Adv	_	6	advmod:tmod	_	_
+4	apuumary	apuumary	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	6	nsubj	_	GTtags=Msc,Sg,NPossd,Nom
+5	kuna	kuna	PART	Pcle	Polarity=Neg	6	advmod	_	GTtags=Neg
+6	awaika	waika	VERB	V	Number[subj]=Plur|Person[subj]=1|VerbType=Vido	0	root	_	GTtags=Vido,ScPl1|SpaceAfter=No
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 10404 tokens (24%) have a non-empty value of `Person`.
 566 types (17%) occur at least once with a non-empty value of `Person`.
-307 lemmas (12%) occur at least once with a non-empty value of `Person`.
+307 lemmas (13%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5934; 14% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2439; 6% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2031; 5% instances).
 
 ### `PRON`

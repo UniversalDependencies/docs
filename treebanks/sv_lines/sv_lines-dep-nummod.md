@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod	color:blue
 1	En	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	3	det	_	_
-2	beriden	beriden	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	3	amod	_	_
+2	beriden	beriden	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	3	amod	_	_
 3	eskort	eskort	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
 4	på	på	ADP	_	_	7	case	_	_
 5	omkring	omkring	ADV	_	_	6	advmod	_	_
@@ -62,17 +62,17 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod	color:blue
 1	På	på	ADP	_	_	3	case	_	_
-2	samma	samma	ADJ	POS-IND	Definite=Ind|PronType=Ind	3	amod	_	_
+2	samma	samma	ADJ	POS-IND	Case=Nom|Definite=Ind|Degree=Pos	3	amod	_	_
 3	sätt	sätt	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	4	obl	_	_
 4	valde	välja	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	4	nsubj	_	_
 6	ut	ut	ADV	_	_	4	compound:prt	_	_
-7	de	den	DET	PL-DEF	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+7	de	de	DET	PL-DEF	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
 8	tre	tre	NUM	CARD-PL	_	9	nummod	_	_
-9	andra	annan	ADJ	CMP-DEF	Case=Nom|Definite=Def|Degree=Pos|Number=Plur	4	xcomp	_	_
+9	andra	annan	ADJ	CMP-DEF	Case=Nom|Definite=Def|Degree=Pos	4	xcomp	_	_
 10	att	att	PART	_	_	11	mark	_	_
 11	spela	spela	VERB	INF-ACT	VerbForm=Inf|Voice=Act	4	xcomp	_	_
-12	de	den	DET	PL-DEF	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
+12	de	de	DET	PL-DEF	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
 13	roller	roll	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	11	obj	_	_
 14	som	som	PRON	REL	PronType=Rel	16	nsubj:pass	_	_
 15	var	vara	AUX	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_

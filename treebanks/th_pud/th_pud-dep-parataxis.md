@@ -70,13 +70,13 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 13	นั่น	_	DET	DT	_	12	det	_	SpaceAfter=No|Translit=nâ¹n
 14	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No|Translit=dʰí¹
 15	สามารถ	_	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=sámártʰ
-16	ระเบิด	_	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=rabéิd
+16	ระเบิด	_	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No|Translit=rabéid
 17	มา	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No|Translit=má
 18	พร้อม	_	VERB	VV	_	16	acl	_	SpaceAfter=No|Translit=bʰr²'m
 19	พลัง	_	NOUN	NN	_	18	obj	_	SpaceAfter=No|Translit=bʰlâŋ
 20	ที่	_	DET	WDT	_	21	nsubj	_	SpaceAfter=No|Translit=dʰí¹
 21	ทำให้	_	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No|Translit=dʰãhai²
-22	เกิด	_	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=kéิd
+22	เกิด	_	VERB	VV	_	21	xcomp	_	SpaceAfter=No|Translit=kéid
 23	คลื่น	_	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=gʰlű¹n
 24	กระแทก	_	VERB	VV	_	23	acl	_	SpaceAfter=No|Translit=kradʰǽk
 25	ได้	_	AUX	MD	_	22	aux	_	Translit=dai²

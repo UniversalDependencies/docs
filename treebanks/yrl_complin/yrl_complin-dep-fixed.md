@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-34 nodes (0%) are attached to their parents as `fixed`.
+37 nodes (0%) are attached to their parents as `fixed`.
 
-34 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02941176470588.
+37 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.02702702702703.
 
-The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (13; 38% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (7; 21% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (4; 12% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (4; 12% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (2; 6% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (13; 35% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (9; 24% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (4; 11% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (4; 11% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (3; 8% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -65,11 +65,11 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	seé	seé	ADJ	A	_	4	amod	_	SpaceAfter=No|TokenRange=23:26
 6	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=26:27
 7	yawé	yawé	ADV	ADVA	AdvType=Man	10	advmod	_	TokenRange=28:32
-8	rã	rã	ADP	ADP	_	7	fixed	_	TokenRange=33:35
+8	rã	rã	ADP	ADP	AdpType=Post	7	fixed	_	TokenRange=33:35
 9	mira-itá	mira	NOUN	N	Number=Plur	10	nsubj	_	TokenRange=36:44
 10	usikari	sikari	VERB	V	Person=3|VerbForm=Fin	3	parataxis	_	TokenRange=45:52
 11	aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	10	obj	_	TokenRange=53:55
-12	turusú	turusú	ADV	ADVS	_	10	advmod	_	SpaceAfter=No|TokenRange=56:62
+12	turusú	turusú	ADV	ADVS	AdvType=Deg	10	advmod	_	SpaceAfter=No|TokenRange=56:62
 13	.	.	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No|TokenRange=62:63
 
 ~~~

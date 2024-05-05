@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (821; 100%),
-<tt>X --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> X</tt> (32; 100%),
+<tt>X --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> X</tt> (33; 100%),
 <tt>X --[<tt><a href="cs_pdt-dep-case.html">case</a></tt>]--> X</tt> (10; 100%),
 <tt>X --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> X</tt> (7; 100%),
 <tt>X --[<tt><a href="cs_pdt-dep-cc.html">cc</a></tt>]--> X</tt> (7; 100%),
@@ -47,5 +47,5 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> X</tt> (3; 100%),
 <tt>X --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> X</tt> (2; 100%),
 <tt>X --[<tt><a href="cs_pdt-dep-obl.html">obl</a></tt>]--> X</tt> (2; 100%),
-<tt>X --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> X</tt> (2; 100%).
+<tt>X --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> X</tt> (1; 100%).
 

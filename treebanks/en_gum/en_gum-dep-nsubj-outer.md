@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="en_gum-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-150 nodes (0%) are attached to their parents as `nsubj:outer`.
+208 nodes (0%) are attached to their parents as `nsubj:outer`.
 
-150 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.30666666666667.
+208 instances of `nsubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.59615384615385.
 
-The following 15 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (85; 57% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (35; 23% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (11; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `nsubj:outer`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (110; 53% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (57; 27% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (12; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,22 +45,20 @@ The following 15 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 1 nsubj:outer	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj:outer	10:nsubj:outer	Discourse=adversative-concession:10->6:1:_
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	2:punct	_
-4	of	of	ADP	IN	_	10	advmod	10:advmod	_
-5	course	course	NOUN	NN	Number=Sing	4	fixed	4:fixed	SpaceAfter=No
-6	,	,	PUNCT	,	_	4	punct	4:punct	_
-7	if	if	SCONJ	IN	_	10	mark	10:mark	Discourse=contingency-condition:11->10:0:dm-if-73
-8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	Entity=(9-person-giv:inact-cf1-1-ana)
-9	can	can	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
-10	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
-11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(18-event-new-cf2-2-sgl
-12	laugh	laugh	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=18)|SpaceAfter=No
-13	.	.	PUNCT	.	_	10	punct	10:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj:outer	color:blue
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:outer	4:nsubj:outer	Discourse=evaluation-comment:71->65:2:_|Entity=(76-abstract-giv:act-cf1*-1-coref)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	like	like	SCONJ	IN	_	4	mark	4:mark	_
+4	giving	give	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=giv-ing
+5	full	full	ADJ	JJ	Degree=Pos	7	amod	7:amod	Entity=(81-abstract-new-cf4-3-sgl
+6	fridge	fridge	NOUN	NN	Number=Sing	7	compound	7:compound	Entity=(79-object-giv:act-cf2-1-coref)
+7	privileges	privilege	NOUN	NNS	Number=Plur	4	obj	4:obj	Entity=81)|MSeg=privilege-s
+8	to	to	ADP	IN	_	10	case	10:case	_
+9	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(82-animal-new-cf5-2-sgl-Labrador_Retriever(36-person-giv:inact-cf3-1-ana)
+10	Labrador	Labrador	PROPN	NNP	Number=Sing	4	obl	4:obl:to	Entity=82)|SpaceAfter=No
+11	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 

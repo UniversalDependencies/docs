@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.076923 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `SCONJ` is 1.076923 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (2) was observed with the lemma “мед”: <em>мед, медысь</em>.
 

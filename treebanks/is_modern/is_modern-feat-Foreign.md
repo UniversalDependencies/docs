@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (57; 100% of non-empty `Foreign`): <em>Molde, 2016, Eidur, FK, i, se, your, 22, 3, 8</em>
-* `EMPTY` (34): <em>að, Damörku, Danmörki, EM, Hafnfirðingur, a.m.k., brimbreti, final-four, horfið, hryðjuverkaárásana</em>
+* `EMPTY` (33): <em>að, Damörku, Danmörki, EM, Hafnfirðingur, a.m.k., brimbreti, final-four, horfið, hryðjuverkaárásana</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (48) occur only with one value of `Foreign`.
 

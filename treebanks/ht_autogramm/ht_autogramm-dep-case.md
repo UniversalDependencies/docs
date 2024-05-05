@@ -11,7 +11,7 @@ This relation is universal.
 266 nodes (8%) are attached to their parents as `case`.
 
 266 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22932330827068.
+Average distance between parent and child is 1.22556390977444.
 
 The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (201; 76% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (36; 14% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (19; 7% instances), <tt><a href="ht_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 8 case	color:blue
 1	Jou	jou	NOUN	_	_	5	obl:mod	_	Gloss=jour
-2	sa	sa	DET	_	PronType=Dem	1	dep	_	Gloss=DET
+2	sa	sa	DET	_	PronType=Dem	1	dep	_	Gloss=cet
 3	lapli	lapli	NOUN	_	_	5	nsubj	_	Gloss=pluie
 4	te	te	AUX	_	Tense=Past	5	aux	_	Gloss=PAST
 5	kòmanse	kòmanse	VERB	_	_	0	root	_	Gloss=commencer
@@ -49,9 +49,9 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 5	Washington	Washington	PROPN	_	_	6	nsubj	_	Gloss=Washington
 6	ogmante	ogmante	VERB	_	_	2	ccomp	_	Gloss=augmenter
 7	relasyon	relasyon	NOUN	_	_	6	obj	_	Gloss=relation
-8	ni	li	DET	_	Definite=Def|Number=Sing	7	det	_	_
+8	ni	li	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nmod	_	Gloss=3SG
 9	ak	ak	ADP	_	_	10	case	_	Gloss=avec
-10	Tsai	Tsai	PROPN	_	_	7	nmod	_	Gloss=Tsai|SpaceAfter=No
+10	Tsai	tsai	PROPN	_	_	7	nmod	_	Gloss=Tsai|SpaceAfter=No
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 3	vre	vre	ADJ	_	_	2	dep	_	Gloss=vrai|SpaceAfter=No
 4	,	,	PUNCT	_	_	9	punct	_	_
 5	se	se	AUX	_	_	9	cop	_	Gloss=être
-6	yon	yon	DET	_	Definite=Ind|Number=Sing	8	det	_	Gloss=DET
+6	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Gloss=un
 7	gwo	gwo	ADJ	_	_	8	amod	_	Gloss=grand
 8	ke	kè	NOUN	_	_	9	nsubj	_	Gloss=coeur
 9	sote	sote	VERB	_	_	0	root	_	Gloss=sauter

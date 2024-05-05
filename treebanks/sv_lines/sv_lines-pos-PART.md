@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_lines-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416904).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.414549).
 
 The 1st highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
 
@@ -51,7 +51,7 @@ Examples: <em>att, inte, så, to</em>
 
 `PART` nodes are attached to their parents using 8 different relations: <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (1176; 57% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (847; 41% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (16; 1% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1739; 85% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (111; 5% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (88; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (59; 3% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1740; 85% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (114; 6% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (89; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (59; 3% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (21; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 2027 (99%) `PART` nodes are leaves.
 

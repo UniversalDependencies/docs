@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>nitokay</em> (<tt><a href="azz_itml-p
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.380113).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.381087).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="azz_itml-dep-punct.html">punct</a></tt> (2068; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> (1081; 52% instances), <tt><a href="azz_itml-pos-INTJ.html">INTJ</a></tt> (257; 12% instances), <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> (245; 12% instances), <tt><a href="azz_itml-pos-ADJ.html">ADJ</a></tt> (211; 10% instances), <tt><a href="azz_itml-pos-X.html">X</a></tt> (78; 4% instances), <tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> (74; 4% instances), <tt><a href="azz_itml-pos-PRON.html">PRON</a></tt> (52; 3% instances), <tt><a href="azz_itml-pos-PROPN.html">PROPN</a></tt> (35; 2% instances), <tt><a href="azz_itml-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="azz_itml-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="azz_itml-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="azz_itml-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="azz_itml-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="azz_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> (1080; 52% instances), <tt><a href="azz_itml-pos-INTJ.html">INTJ</a></tt> (257; 12% instances), <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> (246; 12% instances), <tt><a href="azz_itml-pos-ADJ.html">ADJ</a></tt> (211; 10% instances), <tt><a href="azz_itml-pos-X.html">X</a></tt> (78; 4% instances), <tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> (74; 4% instances), <tt><a href="azz_itml-pos-PRON.html">PRON</a></tt> (52; 3% instances), <tt><a href="azz_itml-pos-PROPN.html">PROPN</a></tt> (35; 2% instances), <tt><a href="azz_itml-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="azz_itml-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="azz_itml-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="azz_itml-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="azz_itml-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="azz_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 2068 (100%) `PUNCT` nodes are leaves.
 

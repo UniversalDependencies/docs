@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	ka	ka	PART	_	_	3	mark	_	Gloss=LINK
 5	Taiwanese	Taiwanese	PROPN	_	_	1	nmod	_	Gloss=Taiwanese|SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	Gloss=,
-7	kaila	ila	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	1	parataxis	_	Gloss=know
+7	kaila	sila	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	1	parataxis	_	Gloss=know
 8	pud	pud	ADV	_	_	7	advmod	_	Gloss=also
 9	sila	sila	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nmod	_	Gloss=they
 10	-ng	nga	PART	_	_	9	mark	_	Gloss=LINK

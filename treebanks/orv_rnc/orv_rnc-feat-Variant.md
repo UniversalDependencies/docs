@@ -9,59 +9,64 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-1097 tokens (2%) have a non-empty value of `Variant`.
-456 types (4%) occur at least once with a non-empty value of `Variant`.
-308 lemmas (5%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (715; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (362; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+2016 tokens (2%) have a non-empty value of `Variant`.
+941 types (5%) occur at least once with a non-empty value of `Variant`.
+603 lemmas (7%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1080; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (876; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (53; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (7; 0% instances).
 
 ### `VERB`
 
-715 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Variant`.
+1080 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (715; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (715; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (715; 100%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (680; 95%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (670; 94%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (667; 93%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (619; 87%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (466; 65%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (404; 57%).
+The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1080; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1080; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1080; 100%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1023; 95%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1009; 93%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1005; 93%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (915; 85%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (624; 58%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (586; 54%).
 
 `VERB` tokens may have the following values of `Variant`:
 
-* `Short` (715; 100% of non-empty `Variant`): <em>смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, писано</em>
+* `Short` (1080; 100% of non-empty `Variant`): <em>смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, взят</em>
 
-`Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (144) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (244) occur only with one value of `Variant`.
 
 ### `ADJ`
 
-362 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Variant`.
+876 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (358; 99%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (316; 87%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (182; 50%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (861; 98%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (763; 87%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (485; 55%).
 
 `ADJ` tokens may have the following values of `Variant`:
 
-* `Short` (362; 100% of non-empty `Variant`): <em>государева, государеву, коров(ь)я, велики, государевы, самъ, надобно, здорово, многи, пьян</em>
+* `Short` (876; 100% of non-empty `Variant`): <em>государева, государеву, велики, государевы, золочены, коров(ь)я, Юрьева, Иванова, здорово, Христова</em>
 
-`Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (158) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `ADJ`. 100% lemmas (346) occur only with one value of `Variant`.
 
 ### `DET`
 
-19 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
+53 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (19; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 79%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 58%).
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (53; 100%), <tt><a href="orv_rnc-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (53; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 74%), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (28; 53%).
 
 `DET` tokens may have the following values of `Variant`:
 
-* `Short` (19; 100% of non-empty `Variant`): <em>каковы, какова, всякова, всꙗкъ, какову, колика, многа, мнози, са(м), сами</em>
+* `Short` (53; 100% of non-empty `Variant`): <em>многи, мнози, таково, какова, каковы, многа, всякъ, ины, каково, такову</em>
+
+`Variant` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Variant`.
 
 ### `AUX`
 
-1 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Variant`.
+7 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 71%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4; 57%).
 
 `AUX` tokens may have the following values of `Variant`:
 
-* `Short` (1; 100% of non-empty `Variant`): <em>сꙋщꙋ</em>
+* `Short` (7; 100% of non-empty `Variant`): <em>бывше, бывши, бывшу, сушу, сущу, сущъ, сꙋщꙋ</em>
 
 ## Relations with Agreement in `Variant`
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (11; 79%),
-<tt>ADJ --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (45; 73%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5; 83%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (3; 100%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-advcl.html">advcl</a></tt>]--> DET</tt> (1; 100%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
 <tt>VERB --[<tt><a href="orv_rnc-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (1; 100%).
 

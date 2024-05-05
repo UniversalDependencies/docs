@@ -24,7 +24,7 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4 7 appos	color:blue
 1	From	from	ADP	IN	_	4	case	4:case	Discourse=ROOT:4:0
 2	Middle	Middle	PROPN	NNP	Number=Sing	3	compound	3:compound	Entity=(4-abstract-new-cf2-1,3-coref(5-abstract-new-cf3-1,3-sgl(6-abstract-new-cf1-1,2-sgl-Middle_English|XML=<ref target:::"https://en.wikipedia.org/wiki/Middle_English">
-3	English	English	ADJ	NNP	Degree=Pos|Number=Sing	4	amod	4:amod	Entity=6)|MSeg=Engl-ish|XML=</ref>
+3	English	English	ADJ	NNP	Degree=Pos	4	amod	4:amod	Entity=6)|MSeg=Engl-ish|XML=</ref>
 4	trust	trust	NOUN	NN	Number=Sing	0	root	0:root	Entity=5)|XML=<ref target:::"https://en.wiktionary.org/wiki/trust#Middle_English"></ref>
 5	(	(	PUNCT	-LRB-	_	7	punct	7:punct	Discourse=elaboration-additional:5->4:0:_|SpaceAfter=No
 6	“	''	PUNCT	``	_	7	punct	7:punct	SpaceAfter=No
@@ -44,9 +44,9 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 appos	color:blue
-1	By	by	ADP	IN	_	3	case	3:case	Discourse=organization-preparation:161->162:0:_|SpaceAfter=No|XML=<w>
+1	By	by	ADP	IN	_	3	case	3:case	Discourse=organization-preparation:162->163:0:_|SpaceAfter=No|XML=<w>
 2	:	:	PUNCT	:	_	1	punct	1:punct	SpaceAfter=No
-3	Dawn	Dawn	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=joint-other_m:162->157:0:_|Entity=(229-person-giv:inact-cf1-1,2-coref|XML=</w>
+3	Dawn	Dawn	PROPN	NNP	Number=Sing	0	root	0:root	Discourse=joint-other_m:163->158:0:_|Entity=(229-person-giv:inact-cf1-1,2-coref|XML=</w>
 4	Dickson	Dickson	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=229)|SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	6:punct	_
 6	CEO	CEO	NOUN	NN	Number=Sing	3	appos	3:appos	Entity=(229-person-giv:act-cf1-1-appos)
@@ -62,9 +62,9 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 appos	color:blue
-1	1.	1.	X	LS	_	4	dep	4:dep	Discourse=ROOT:8:0
+1	1.	1.	X	LS	_	4	discourse	4:discourse	Discourse=ROOT:8:0
 2	Chronic	chronic	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(3-abstract-giv:inact-cf1-3-coref-Chronic_lymphocytic_leukemia
-3	lymphocytic	lymphocytic	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+3	lymphocytic	lymphocytic	ADJ	JJ	Degree=Pos	4	amod	4:amod	MSeg=lympho-cyt-ic
 4	leukemia	leukemia	NOUN	NN	Number=Sing	0	root	0:root	Entity=3)
 5	(	(	PUNCT	-LRB-	_	6	punct	6:punct	Discourse=restatement-partial:9->8:0:_|SpaceAfter=No
 6	CLL	CLL	PROPN	NNP	Number=Sing	4	appos	4:appos	Entity=(3-abstract-giv:act-cf1-1-appos-Chronic_lymphocytic_leukemia)|SpaceAfter=No

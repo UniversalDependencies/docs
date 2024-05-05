@@ -8,12 +8,46 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `goeswith`.
+5 nodes (0%) are attached to their parents as `goeswith`.
 
-2 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+5 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 50% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (4; 80% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 20% instances).
+
+
+~~~ conllu
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 23 goeswith	color:blue
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=elaboration-additional:70->1:8:syn-relcl-425|Entity=(75-person-acc:com-cf1-1-sgl)|Lem=_|Len=1
+2	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=5
+3	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Entity=(76-animal-new-cf2-1-cata)|Lem=_|Len=2
+4	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Lem=be|Len=2
+5	_	_	NOUN	NNS	Number=Plur	2	ccomp	2:ccomp|8:csubj	Entity=(77-event-new-cf4-1-coref(76-animal-acc:com-cf2-1-coref|Lem=coyote|Len=7|MSeg=coyote-s
+6	_	_	PRON	WDT	PronType=Rel	8	nsubj	5:ref|8:nsubj|13:nsubj	Lem=_|Len=4
+7	_	_	AUX	MD	VerbForm=Fin	8	aux	8:aux|13:aux	Lem=_|Len=4
+8	_	_	VERB	VB	VerbForm=Inf	5	advcl:relcl	5:advcl:relcl	Lem=_|Len=4
+9	_	_	ADP	IN	_	11	case	11:case	Lem=_|Len=2
+10	_	_	ADJ	JJ	Degree=Pos	11	amod	11:amod	Entity=(78-time-new-cf5-2-sgl|Lem=_|Len=7
+11	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:at	Entity=78)|Lem=time|Len=5|MSeg=time-s
+12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431|Lem=_|Len=3
+13	_	_	VERB	VB	VerbForm=Inf	8	conj	5:advcl:relcl|8:conj:and	Lem=_|Len=6
+14	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=3
+15	_	_	NOUN	NNS	Number=Plur	13	obl	13:obl:for	Entity=(79-event-new-cf6-1-sgl)76)|Lem=response|Len=9|MSeg=respon-se-s
+16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435|Lem=_|Len=2
+17	_	_	VERB	VB	VerbForm=Inf	13	advcl	13:advcl:to	Lem=_|Len=6
+18	_	_	SCONJ	IN	_	22	mark	22:mark	Lem=_|Len=2
+19	_	_	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	Entity=(80-place-new-cf3-2-sgl|Lem=a|Len=2
+20	_	_	NOUN	NN	Number=Sing	22	nsubj:pass	22:nsubj:pass	Entity=80)|Lem=_|Len=4
+21	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	22:aux:pass	Lem=be|Len=2
+22	_	_	VERB	GW	Typo=Yes	17	ccomp	17:ccomp	CorrectForm=overpopulated|Cxn=Interrogative-Polar-Indirect|Lem=overpopulate|Len=4|XML=<sic ana:::"overpopulated">
+23	_	_	X	VBN	_	22	goeswith	22:goeswith	CorrectForm=_|Entity=77)|Lem=_|Len=9|MSeg=populat-ed|SpaceAfter=No|XML=</sic>
+24	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
+
+~~~
 
 
 ~~~ conllu
@@ -29,9 +63,9 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	Lem=be|Len=4
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
 7	_	_	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(5-place-new-cf7-1-coref-Panera_Bread)|Lem=_|Len=6
-8	_	_	VERB	VBG	VerbForm=Ger	7	advcl	7:advcl	Discourse=elaboration-additional:3->2:0:syn-pres-15|Lem=eat|Len=6|MSeg=eat-ing
+8	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	7	advcl	7:advcl	Discourse=elaboration-additional:3->2:0:syn-pres-15|Lem=eat|Len=6|MSeg=eat-ing
 9	_	_	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=(6-object-new-cf6-1-sgl)|Lem=_|Len=9
-10	_	_	CCONJ	CC	_	12	cc	12:cc	Discourse=context-background:4->6:1:ref-prs-8-11,20-24,32,38|Lem=_|Len=3
+10	_	_	CCONJ	CC	_	12	cc	12:cc	Discourse=context-background:4->6:1:ref-prs-8-11,32+ref-prs-20-24,38|Lem=_|Len=3
 11	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	12:nsubj	Entity=(2-person-giv:act-cf1-1-ana)|Lem=_|Len=2
 12	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	7	conj	7:conj:and	Lem=notice|Len=7|MSeg=notic-ed
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(7-person-new-cf5-2-coref|Lem=_|Len=1
@@ -46,31 +80,6 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 22	_	_	ADV	RB	_	23	advmod	23:advmod	Lem=_|Len=4
 23	_	_	ADV	RB	Degree=Pos	18	advmod	18:advmod	Lem=_|Len=6|MSeg=loud-ly|SpaceAfter=No
 24	_	_	PUNCT	.	_	7	punct	7:punct	Lem=_|Len=1
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 goeswith	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=context-background:6->13:4:ref-prs-32,38,64,74|Entity=(2-person-giv:act-cf1*-1-ana)|Lem=*LOWER*|Len=2
-2	_	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Lem=_|Len=5
-3	_	_	PART	RB	Polarity=Neg	4	advmod	4:advmod	Lem=not|Len=3
-4	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=4
-5	_	_	VERB	GW	Typo=Yes	4	ccomp	4:ccomp	CorrectForm=overhearing|Lem=overhear|Len=4|XML=<sic ana:::"overhearing">
-6	_	_	X	VBG	_	5	goeswith	5:goeswith	CorrectForm=_|Lem=_|Len=7|MSeg=hear-ing|XML=</sic>
-7	_	_	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(7-person-giv:act-cf2-1-ana)|Lem=she|Len=3
-8	_	_	NOUN	NN	Number=Sing	5	ccomp	5:ccomp	Entity=(9-event-new-cf4-1-sgl|Lem=_|Len=4
-9	_	_	SCONJ	IN	_	14	mark	14:mark	Lem=_|Len=5
-10	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(10-object-new-cf3-2-sgl|Lem=_|Len=1
-11	_	_	NOUN	NN	Number=Sing	14	nsubj:pass	14:nsubj:pass	Entity=10)|Lem=_|Len=4
-12	_	_	PART	RB	Polarity=Neg	14	advmod	14:advmod	Discourse=elaboration-attribute:7->6:0:syn-mdf-39+syn-nmn-45|Lem=_|Len=3
-13	_	_	AUX	VBG	VerbForm=Ger	14	aux:pass	14:aux:pass	Lem=be|Len=5|MSeg=be-ing
-14	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl:about	Entity=9)|Lem=pay|Len=4|SpaceAfter=No
-15	_	_	PUNCT	.	_	4	punct	4:punct	Lem=_|Len=1
 
 ~~~
 

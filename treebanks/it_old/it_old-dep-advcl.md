@@ -9,90 +9,81 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `advcl`: <tt><a href="it_old-dep-advcl-cmp.html">advcl:cmp</a></tt>, <tt><a href="it_old-dep-advcl-pred.html">advcl:pred</a></tt>, <tt><a href="it_old-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-1271 nodes (3%) are attached to their parents as `advcl`.
+2666 nodes (3%) are attached to their parents as `advcl`.
 
-830 instances of `advcl` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.63021243115657.
+1761 instances of `advcl` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.29594898724681.
 
-The following 33 pairs of parts of speech are connected with `advcl`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (969; 76% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (71; 6% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (44; 3% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (39; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (37; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (28; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 39 pairs of parts of speech are connected with `advcl`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2027; 76% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (185; 7% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (93; 3% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (75; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (58; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (53; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (27; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 advcl	color:blue
-1	Se	se	SCONJ	cssv	_	4	mark	_	Canto=24|Verso=57
-2	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Canto=24|Verso=57
-3	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	4	obj	_	Canto=24|Verso=57
-4	'ntendi	intendere	VERB	vta2ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	Canto=24|SpaceAfter=No|Verso=57
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 advcl	color:blue
+1	E	e	CCONJ	cscc	_	3	cc	_	Canto=34|Verso=139
+2	quindi	quindi	ADV	b	_	3	advmod	_	Canto=34|Verso=139
+3	uscimmo	uscire	VERB	vi3irp1	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Canto=34|Verso=139
+4	a	a	ADP	epsf	_	5	mark	_	Canto=34|Verso=139
+5	riveder	rivedere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	3	advcl	_	Canto=34|Verso=139
+6	le	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	Canto=34|Verso=139
+7	stelle	stella	NOUN	sf1fp	Gender=Fem|Number=Plur	5	obj	_	Canto=34|SpaceAfter=No|Verso=139
+8	.	.	PUNCT	sf1fp	_	3	punct	_	Canto=34|Verso=139
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 advcl	color:blue
+1	E	e	CCONJ	cscc	_	8	cc	_	Canto=13|Verso=35
+2	com'	come	SCONJ	csst	_	4	mark	_	Canto=13|Verso=35
+3	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	4	nsubj	_	Canto=13|Verso=35
+4	domandai	domandare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	Canto=13|SpaceAfter=No|Verso=35
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	or	ora	ADV	cscn	_	7	advmod:tmod	_	Canto=24|Verso=57
-7	fa	fare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=24|Verso=57
-8	sì	così	ADV	b	_	7	xcomp	_	Canto=24|Verso=57
-9	che	che	SCONJ	cssu	_	11	mark	_	Canto=24|Verso=57
-10	ti	ti	PRON	pp2syda	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	11	iobj	_	Canto=24|Verso=57
-11	vaglia	valere	VERB	vi*2cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	Canto=24|SpaceAfter=No|Verso=57
-12	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	7	punct	_	_
+6	ecco	ecco	ADV	b	_	8	advmod	_	Canto=13|Verso=35
+7	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Canto=13|Verso=35
+8	terza	terzo	ADJ	an1fs	Gender=Fem|Number=Sing|NumType=Ord	0	root	_	Canto=13|Verso=35
+9	dicendo	dire	VERB	vta3gp	VerbForm=Conv|Voice=Act	8	advcl	_	Canto=13|SpaceAfter=No|Verso=36
+10	:	:	PUNCT	_	_	12	punct	_	_
+11	«	«	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	Amate	amare	VERB	vta1mpp2	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp:reported	_	Canto=13|Verso=36
+13	da	da	ADP	epsk6	_	14	case	_	Canto=13|Verso=36
+14	cui	cui	PRON	pr	PronType=Rel	16	obl	_	Canto=13|Verso=36
+15	male	male	NOUN	sm3ms	Gender=Masc|Number=Sing	16	obj	_	Canto=13|Verso=36
+16	aveste	avere	VERB	vta5cip2	Aspect=Imp|Mood=Sub|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin|Voice=Act	12	advcl:relcl	_	Canto=13|SpaceAfter=No|Verso=36
+17	»	»	PUNCT	_	_	12	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 advcl	color:blue
-1	Quei	quello	PRON	pd1ms	Gender=Masc|Number=Sing|Person=1|PronType=Dem	3	nsubj	_	Canto=18|Verso=118
-2	mi	mi	PRON	pp1syac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	3	obj	_	Canto=18|Verso=118
-3	sgridò	sgridare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=18|SpaceAfter=No|Verso=118
-4	:	:	PUNCT	_	_	10	punct	_	_
-5	«	«	PUNCT	_	_	10	punct	_	SpaceAfter=No
-6	Perché	perché	ADV	b	_	10	advmod	_	Canto=18|Verso=118
-7	se'	essere	AUX	vi4ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	Canto=18|Verso=118
-8	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Canto=18|Verso=118
-9	sì	così	ADV	b	_	10	advmod	_	Canto=18|Verso=118
-10	gordo	ingordo	ADJ	a1msxf3	Gender=Masc|Number=Sing	3	ccomp:reported	_	Canto=18|Verso=118
-11	di	di	ADP	epsb	_	12	mark	_	Canto=18|Verso=119
-12	riguardar	riguardare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	10	advcl	_	Canto=18|Verso=119
-13	più	più	ADV	bc+	Degree=Cmp	12	advmod	_	Canto=18|Verso=119
-14	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	12	obj	_	Canto=18|Verso=119
-15	che	che	SCONJ	c	_	18	mark	_	Canto=18|Verso=119
-16	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	Canto=18|Verso=119
-17	altri	altro	DET	ai	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	Canto=18|Verso=119
-18	brutti	brutto	NOUN	sm2mp	Gender=Masc|Number=Plur	13	advcl:cmp	_	Canto=18|SpaceAfter=No|Verso=119
-19	?	?	PUNCT	_	_	10	punct	_	SpaceAfter=No
-20	»	»	PUNCT	_	_	10	punct	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 advcl	color:blue
-1	Dinanzi	dinanzi	ADP	_	_	3	case	_	Canto=3|Verso=7
-2	a	a	ADP	_	_	3	case	_	Canto=3|Verso=7
-3	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	7	obl:lmod	_	Canto=3|Verso=7
-4	non	non	ADV	b	PronType=Neg	7	advmod:neg	_	Canto=3|Verso=7
-5	fuor	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	Canto=3|Verso=7
-6	cose	cosa	NOUN	sf1fp	Gender=Fem|Number=Plur	7	nsubj:pass	_	Canto=3|Verso=7
-7	create	creare	VERB	vta1pra1fp	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	Canto=3|Verso=7
-8	se	se	SCONJ	_	_	10	mark	_	Canto=3|Comment=ADV|Verso=8
-9	non	non	ADV	_	PronType=Neg	10	orphan	_	Canto=3|Comment=ADV|Verso=8
-10	etterne	eterno	ADJ	a1fp	Gender=Fem|Number=Plur	7	advcl	_	Canto=3|SpaceAfter=No|Verso=8
-11	,	,	PUNCT	_	_	15	punct	_	_
-12	e	e	CCONJ	cscc	_	15	cc	_	Canto=3|Verso=8
-13	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	Canto=3|Verso=8
-14	etterno	eterno	ADV	b	_	15	advmod:tmod	_	Canto=3|Verso=8
-15	duro	durare	VERB	vi1ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	Canto=3|SpaceAfter=No|Verso=8
-16	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 14 advcl	color:blue
+1	Che	che	PRON	pt	PronType=Int	2	iobj	_	Canto=6|Verso=88
+2	val	valere	VERB	vi*2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Canto=6|Verso=88
+3	perché	perché	SCONJ	c	_	5	mark	_	Canto=6|Verso=88
+4	ti	ti	PRON	pp2syda	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	5	iobj	_	Canto=6|Verso=88
+5	racconciasse	riacconciare	VERB	vta1cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	2	csubj	_	Canto=6|Verso=88
+6	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Canto=6|Verso=88
+7	freno	freno	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obj	_	Canto=6|Verso=88
+8	Iustiniano	Giustiniano	PROPN	np	_	5	nsubj	_	Canto=6|SpaceAfter=No|Verso=89
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	se	se	SCONJ	cssv	_	14	mark	_	Canto=6|Verso=89
+11	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=6|Verso=89
+12	sella	sella	NOUN	sf1fs	Gender=Fem|Number=Sing	14	nsubj	_	Canto=6|Verso=89
+13	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	Canto=6|Verso=89
+14	vòta	vuoto	ADJ	a1fs	Gender=Fem|Number=Sing	2	advcl	_	Canto=6|SpaceAfter=No|Verso=89
+15	?	?	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

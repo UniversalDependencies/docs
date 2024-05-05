@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 2 4 obl:tmod	color:blue
 1	teʹl	teʹl	ADV	Adv	_	2	advmod:tmod	_	_
 2	piʹjje	piijjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
-3	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	4	nummod	_	GTtags=Sg,Nom
+3	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	GTtags=Sg,Nom
 4	ekka	eeʹǩǩ	NOUN	N	Case=Ill|Number=Sing	2	obl:tmod	_	GTtags=Sg,Ill
 5	sluužba	sluuʹžb	NOUN	N	Case=Ill|Number=Sing	2	obl	_	GTtags=Sg,Ill|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -71,10 +71,10 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 1	Na	na	INTJ	Interj	_	8	discourse	_	GTtags=Interj
 2	teʹl	teʹl	ADV	Adv	_	8	advmod:tmod	_	_
 3	âʹtte	âʹtte	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	GTtags=Sem/Time
-4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing	5	nummod	_	GTtags=Sg,Nom
+4	čiččâm	čiččâm	NUM	Num	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	GTtags=Sg,Nom
 5	eeʹjj	eeʹǩǩ	NOUN	N	Case=Acc|Number=Sing	8	obl:tmod	_	GTtags=Sg,Acc
 6	feʹrttji	feʹrttjed	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	GTtags=Ind,Prt,Sg3
-7	leeʹd	leeʹd	AUX	Aux	VerbForm=Inf	8	cop	_	GTtags=IV,Inf
+7	leeʹd	leeʹd	AUX	V	VerbForm=Inf	8	cop	_	GTtags=IV,Inf
 8	säldten	säldten	NOUN	N	Case=Ess	0	root	_	GTtags=Ess
 9	ja	ja	CCONJ	CC	_	11	cc	_	_
 10	vasta	vasta	ADV	Adv	_	11	advmod:tmod	_	_

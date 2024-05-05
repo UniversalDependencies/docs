@@ -46,7 +46,7 @@ The following 21 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 4	neminem	nemo	PRON	dinsma	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing|Polarity=Neg|PronType=Ind	7	nsubj	_	_
 5	nobis	ego	PRON	ppp1pmb	Case=Abl|InflClass=LatAnom|Number=Plur|Person=1|PronType=Prs	7	obl:arg	_	_
 6	cum	cum	ADP	e9	_	5	case	_	_
-7	dissentire	dissentio	VERB	va4fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	dissentire	dissentio	VERB	va4fp	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Act	8	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	putamus	puto	VERB	va1ipp1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	.	.	PUNCT	Pu	_	8	punct	_	_
 

@@ -22,20 +22,20 @@ The following 58 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 obl:arg	color:blue
-1	و	وَ	CCONJ	C---------	_	0	root	0:root	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
-2	كان	كَان	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	4	cop	4:cop	Vform=كَانَ|Gloss=be,is,exist|Root=k_w_n|Translit=kāna|LTranslit=kān
+1	و	وَ	CCONJ	C---------	_	0	root	0:root	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+2	كان	كَان	AUX	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	4	cop	4:cop	Gloss=be,is,exist|LTranslit=kān|Root=k w n|Translit=kāna|Vform=كَانَ
 3	من	مِن	ADP	P---------	AdpType=Prep	4	case	4:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-4	الممكن	مُمكِن	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	parataxis	1:parataxis	Vform=اَلمُمكِنِ|Gloss=possible|Root=m_k_n|Translit=al-mumkini|LTranslit=mumkin
-5	جدا	جِدّ	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	4	obl	4:obl:acc	Vform=جِدًّا|Gloss=seriousness,earnestness|Root=^g_d_d|Translit=ǧiddan|LTranslit=ǧidd
-6	ان	أَن	SCONJ	C---------	_	7	mark	7:mark	Vform=أَن|Gloss=to|Root='_n|Translit=ʾan|LTranslit=ʾan
-7	يحصل	حَصَل	VERB	VISA-3MS--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	csubj	4:csubj	Vform=يَحصُلَ|Gloss=obtain,acquire,get,occur,happen,take_place|Root=.h_.s_l|Translit=yaḥṣula|LTranslit=ḥaṣal
-8	هجوم	هُجُوم	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	7	obj	7:obj	Vform=هُجُومٌ|Gloss=attack,charge,assault|Root=h_^g_m|Translit=huǧūmun|LTranslit=huǧūm
+4	الممكن	مُمكِن	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	parataxis	1:parataxis	Vform=اَلمُمكِنِ|Gloss=possible|Root=m k n|Translit=al-mumkini|LTranslit=mumkin
+5	جدا	جِدّ	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	4	obl	4:obl:acc	Vform=جِدًّا|Gloss=seriousness,earnestness|Root=^g d d|Translit=ǧiddan|LTranslit=ǧidd
+6	ان	أَن	SCONJ	C---------	_	7	mark	7:mark	Vform=أَن|Gloss=to|Root=' n|Translit=ʾan|LTranslit=ʾan
+7	يحصل	حَصَل	VERB	VISA-3MS--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	csubj	4:csubj	Vform=يَحصُلَ|Gloss=obtain,acquire,get,occur,happen,take_place|Root=.h .s l|Translit=yaḥṣula|LTranslit=ḥaṣal
+8	هجوم	هُجُوم	NOUN	N------S1I	Case=Nom|Definite=Ind|Number=Sing	7	obj	7:obj	Vform=هُجُومٌ|Gloss=attack,charge,assault|Root=h ^g m|Translit=huǧūmun|LTranslit=huǧūm
 9	لو	لَو	CCONJ	C---------	_	11	mark	11:mark	Vform=لَو|Gloss=if|Root=law|Translit=law|LTranslit=law
 10	لم	لَم	PART	F---------	_	11	advmod	11:advmod	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
-11	نبدا	بَدَأ	VERB	VIJA-1MP--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	7	advcl	7:advcl:لَو	Vform=نَبدَأ|Gloss=start,begin|Root=b_d_'|Translit=nabdaʾ|LTranslit=badaʾ
-12	ب	بِ	ADP	P---------	AdpType=Prep	13	case	13:case	Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
-13	قصف	قَصف	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	11	obl:arg	11:obl:arg:بِ:gen	Vform=قَصفِ|Gloss=bombardment,shelling|Root=q_.s_f|Translit=qaṣfi|LTranslit=qaṣf
-14	هم	هُوَ	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	13:nmod:gen	Vform=هِم|Gloss=he,she,it|Translit=him|LTranslit=huwa
+11	نبدا	بَدَأ	VERB	VIJA-1MP--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	7	advcl	7:advcl:لَو	Vform=نَبدَأ|Gloss=start,begin|Root=b d '|Translit=nabdaʾ|LTranslit=badaʾ
+12	ب	بِ	ADP	P---------	AdpType=Prep	13	case	13:case	Gloss=by,with|LTranslit=bi|Root=bi|Translit=bi|Vform=بِ
+13	قصف	قَصف	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	11	obl:arg	11:obl:arg:بِ:gen	Gloss=bombardment,shelling|LTranslit=qaṣf|Root=q .s f|Translit=qaṣfi|Vform=قَصفِ
+14	هم	هُوَ	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	13:nmod:gen	Gloss=he,she,it|LTranslit=huwa|Translit=him|Vform=هِم
 15	"	"	PUNCT	G---------	_	4	punct	4:punct	SpaceAfter=No|Vform="|Translit="
 16	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
@@ -48,13 +48,13 @@ The following 58 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obl:arg	color:blue
-1	ف	فَ	CCONJ	C---------	_	0	root	0:root	Vform=فَ|Gloss=and,so|Root=fa|Translit=fa|LTranslit=fa
-2	المهم	مُهِمّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	Vform=اَلمُهِمُّ|Gloss=important,serious|Root=h_m_m|Translit=al-muhimmu|LTranslit=muhimm
+1	ف	فَ	CCONJ	C---------	_	0	root	0:root	Gloss=and,so|LTranslit=fa|Root=fa|Translit=fa|Vform=فَ
+2	المهم	مُهِمّ	ADJ	A-----MS1D	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	Gloss=important,serious|LTranslit=muhimm|Root=h m m|Translit=al-muhimmu|Vform=اَلمُهِمُّ
 3	هو	هُوَ	PRON	SP---3MS1-	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod:nom	Vform=هُوَ|Gloss=he,she,it|Translit=huwa|LTranslit=huwa
-4	التوصل	تَوَصُّل	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	1	parataxis	1:parataxis	Vform=اَلتَّوَصُّلُ|Gloss=attainment,arrival,reunion|Root=w_.s_l|Translit=at-tawaṣṣulu|LTranslit=tawaṣṣul
-5	الى	إِلَى	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=إِلَى|Gloss=to,towards|Root='_l_y|Translit=ʾilā|LTranslit=ʾilā
-6	اتفاق	اِتِّفَاق	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	4	obl:arg	4:obl:arg:إِلَى:gen	Vform=اِتِّفَاقٍ|Gloss=agreement,accord,treaty|Root=w_f_q|Translit=ittifāqin|LTranslit=ittifāq
-7	جيد	جَيِّد	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	amod	6:amod	SpaceAfter=No|Vform=جَيِّدٍ|Gloss=good,well|Root=^g_w_d|Translit=ǧayyidin|LTranslit=ǧayyid
+4	التوصل	تَوَصُّل	NOUN	N------S1D	Case=Nom|Definite=Def|Number=Sing	1	parataxis	1:parataxis	Vform=اَلتَّوَصُّلُ|Gloss=attainment,arrival,reunion|Root=w .s l|Translit=at-tawaṣṣulu|LTranslit=tawaṣṣul
+5	الى	إِلَى	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=إِلَى|Gloss=to,towards|Root=' l y|Translit=ʾilā|LTranslit=ʾilā
+6	اتفاق	اِتِّفَاق	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	4	obl:arg	4:obl:arg:إِلَى:gen	Vform=اِتِّفَاقٍ|Gloss=agreement,accord,treaty|Root=w f q|Translit=ittifāqin|LTranslit=ittifāq
+7	جيد	جَيِّد	ADJ	A-----MS2I	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	amod	6:amod	SpaceAfter=No|Vform=جَيِّدٍ|Gloss=good,well|Root=^g w d|Translit=ǧayyidin|LTranslit=ǧayyid
 8	"	"	PUNCT	G---------	_	4	punct	4:punct	SpaceAfter=No|Vform="|Translit="
 9	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 
@@ -67,19 +67,19 @@ The following 58 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 13 obl:arg	color:blue
-1	و	وَ	CCONJ	C---------	_	0	root	0:root	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
-2	قال	قَال	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	parataxis	1:parataxis	Vform=قَالَ|Gloss=say,tell|Root=q_w_l|Translit=qāla|LTranslit=qāl
-3	إن	إِنَّ	SCONJ	C---------	_	7	mark	7:mark	Vform=إِنَّ|Gloss=that|Root='_n|Translit=ʾinna|LTranslit=ʾinna
+1	و	وَ	CCONJ	C---------	_	0	root	0:root	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+2	قال	قَال	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	parataxis	1:parataxis	Gloss=say,tell|LTranslit=qāl|Root=q w l|Translit=qāla|Vform=قَالَ
+3	إن	إِنَّ	SCONJ	C---------	_	7	mark	7:mark	Vform=إِنَّ|Gloss=that|Root=' n|Translit=ʾinna|LTranslit=ʾinna
 4	"	"	PUNCT	G---------	_	7	punct	7:punct	SpaceAfter=No|Vform="|Translit="
 5	سوريا	سُورِيَا	X	X---------	Foreign=Yes	7	nsubj	7:nsubj	Vform=سُورِيَا|Gloss=Syria|Root=sUr|Translit=sūriyā|LTranslit=sūriyā
-6	ليست	لَيس	AUX	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	7	cop	7:cop	Vform=لَيسَت|Gloss=be_not,is_not|Root=l_y_s|Translit=laysat|LTranslit=lays
-7	خائفة	خَائِف	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	ccomp	2:ccomp	Vform=خَائِفَةً|Gloss=afraid,fearful|Root=_h_w_f|Translit=ḫāʾifatan|LTranslit=ḫāʾif
-8	و	وَ	CCONJ	C---------	_	10	cc	10:cc	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
-9	لا	لَا	PART	F---------	_	10	cc	10:cc	Vform=لَا|Gloss=no,not|Root=lA|Translit=lā|LTranslit=lā
-10	قلقة	قَلِق	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	conj	2:ccomp|7:conj	Vform=قَلِقَةً|Gloss=worried,concerned,disturbed|Root=q_l_q|Translit=qaliqatan|LTranslit=qaliq
+6	ليست	لَيس	AUX	VP-A-3FS--	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Voice=Act	7	cop	7:cop	Vform=لَيسَت|Gloss=be_not,is_not|Root=l y s|Translit=laysat|LTranslit=lays
+7	خائفة	خَائِف	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	2	ccomp	2:ccomp	Vform=خَائِفَةً|Gloss=afraid,fearful|Root=_h w f|Translit=ḫāʾifatan|LTranslit=ḫāʾif
+8	و	وَ	CCONJ	C---------	_	10	cc	10:cc	Gloss=and|LTranslit=wa|Root=wa|Translit=wa|Vform=وَ
+9	لا	لَا	PART	F---------	_	10	cc	10:cc	Gloss=no,not|LTranslit=lā|Root=lA|Translit=lā|Vform=لَا
+10	قلقة	قَلِق	ADJ	A-----FS4I	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	7	conj	2:ccomp|7:conj	Vform=قَلِقَةً|Gloss=worried,concerned,disturbed|Root=q l q|Translit=qaliqatan|LTranslit=qaliq
 11	من	مِن	ADP	P---------	AdpType=Prep	13	case	13:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 12	هذه	هٰذَا	DET	SD----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	13	det	13:det	Vform=هٰذِهِ|Gloss=this,these|Root=h|Translit=hāḏihi|LTranslit=hāḏā
-13	التهديدات	تَهدِيد	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	7	obl:arg	7:obl:arg:مِن:gen|10:obl:arg:مِن:gen	SpaceAfter=No|Vform=اَلتَّهدِيدَاتِ|Gloss=threat,menace|Root=h_d_d|Translit=at-tahdīdāti|LTranslit=tahdīd
+13	التهديدات	تَهدِيد	NOUN	N------P2D	Case=Gen|Definite=Def|Number=Plur	7	obl:arg	7:obl:arg:مِن:gen|10:obl:arg:مِن:gen	SpaceAfter=No|Vform=اَلتَّهدِيدَاتِ|Gloss=threat,menace|Root=h d d|Translit=at-tahdīdāti|LTranslit=tahdīd
 14	"	"	PUNCT	G---------	_	7	punct	7:punct	SpaceAfter=No|Vform="|Translit="
 15	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 

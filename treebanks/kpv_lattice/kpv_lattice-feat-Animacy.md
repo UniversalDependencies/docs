@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (143; 100% of non-empty `Animacy`): <em>Ваньӧ, Павел, Гриш, Свежов, Варук, Вась, Демит, Микитлӧн, Саш, Асныров</em>
-* `EMPTY` (1895): <em>урожай, удж, шонді, ва, лун, вӧр, ю, во, му, пу</em>
+* `EMPTY` (1892): <em>урожай, удж, шонді, ва, лун, вӧр, ю, во, му, пу</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (92) occur only with one value of `Animacy`.
 

@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nhi_itml-pos-ADV.ht
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (174; 100% of non-empty `Polarity`): <em>amo, akmo</em>
-* `EMPTY` (1169): <em>ya, ompa, nikah, y, simi, ohcon, san, después, ok, axan</em>
+* `EMPTY` (1168): <em>ya, ompa, nikah, y, simi, ohcon, san, después, ok, axan</em>
 

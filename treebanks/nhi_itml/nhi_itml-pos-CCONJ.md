@@ -13,17 +13,17 @@ The 10 most frequent `CCONJ` lemmas: <em>wan, uan, pero, huan, o, y, mas</em>
 
 The 10 most frequent `CCONJ` types:  <em>wan, uan, pero, huan, o, y, mas, Peroh, yan</em>
 
-The 10 most frequent ambiguous lemmas: <em>wan</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 139, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 3), <em>uan</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 101, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 8), <em>huan</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 59, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 3), <em>o</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 686, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1), <em>mas</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>wan</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 139, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 3), <em>uan</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 101, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 8), <em>huan</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 59, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 3), <em>o</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 689, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1), <em>mas</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 629, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3), <em>y</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 42, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 3), <em>mas</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 633, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3), <em>y</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 43, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 3), <em>mas</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>o</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 629: <em>Pero siki faltan de papeles , amo kwale , amo <b>o</b> yahkeh .</em>
-  * <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24: <em>No sé , cualquier cosa o kistiwitskeh , <b>o</b> sea , cualquier cosa .</em>
+  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 633: <em>Pero siki faltan de papeles , amo kwale , amo <b>o</b> yahkeh .</em>
+  * <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24: <em>No sé , cualquier cosa o kisti witskeh , <b>o</b> sea , cualquier cosa .</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Y o tiquitiya para inpilhuan <b>o</b> para incal</em>
 * <em>y</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 42: <em>Ya <b>y</b> o kixteh n ipantuflas .</em>
+  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 43: <em>Ya <b>y</b> o kixteh n ipantuflas .</em>
   * <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Ohkon ahsis se ocho <b>y</b> media , ehko n tlen kirepartiroa tlaxkal .</em>
 * <em>mas</em>
   * <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 2: <em>O nyani Mexico , <b>mas</b> amo o wilik .</em>
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="nhi_itml-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.458263).
+The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.474576).
 
 The 1st highest number of forms (2) was observed with the lemma “pero”: <em>Peroh, pero</em>.
 
@@ -56,13 +56,13 @@ Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="nh
 
 395 (99%) `CCONJ` nodes are leaves.
 
-2 (1%) `CCONJ` nodes have one child.
+3 (1%) `CCONJ` nodes have one child.
 
-2 (1%) `CCONJ` nodes have two children.
+1 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="nhi_itml-dep-punct.html">punct</a></tt> (3; 50% instances), <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (2; 33% instances), <tt><a href="nhi_itml-dep-flat.html">flat</a></tt> (1; 17% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (2; 40% instances), <tt><a href="nhi_itml-dep-punct.html">punct</a></tt> (2; 40% instances), <tt><a href="nhi_itml-dep-flat.html">flat</a></tt> (1; 20% instances)
 
-Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (3; 50% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (2; 33% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 17% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (2; 40% instances), <tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (2; 40% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 20% instances)
 

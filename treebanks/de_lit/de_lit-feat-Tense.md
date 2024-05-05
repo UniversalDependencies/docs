@@ -22,7 +22,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-AUX.html
 
 * `Past` (1; 17% of non-empty `Tense`): <em>era</em>
 * `Pres` (5; 83% of non-empty `Tense`): <em>ist, is, sei, sommes</em>
-* `EMPTY` (2487): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
+* `EMPTY` (2486): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
 
 ### `VERB`
 
@@ -31,5 +31,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_lit-pos-AUX.html
 `VERB` tokens may have the following values of `Tense`:
 
 * `Pres` (5; 100% of non-empty `Tense`): <em>erfolge, fait, leben, strömt, wohlgehe</em>
-* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3098): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 

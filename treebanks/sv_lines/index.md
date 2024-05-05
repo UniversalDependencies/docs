@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_Swedish-LinES](https://github.com/UniversalDependencies/UD_Swedish-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -74,7 +74,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 ## Features
 
-[Abbr](sv_lines-feat-Abbr.html) – [Case](sv_lines-feat-Case.html) – [Definite](sv_lines-feat-Definite.html) – [Degree](sv_lines-feat-Degree.html) – [Gender](sv_lines-feat-Gender.html) – [Mood](sv_lines-feat-Mood.html) – [Number](sv_lines-feat-Number.html) – [NumType](sv_lines-feat-NumType.html) – [Person](sv_lines-feat-Person.html) – [Polarity](sv_lines-feat-Polarity.html) – [Poss](sv_lines-feat-Poss.html) – [PronType](sv_lines-feat-PronType.html) – [Tense](sv_lines-feat-Tense.html) – [VerbForm](sv_lines-feat-VerbForm.html) – [Voice](sv_lines-feat-Voice.html)
+[Abbr](sv_lines-feat-Abbr.html) – [Case](sv_lines-feat-Case.html) – [Definite](sv_lines-feat-Definite.html) – [Degree](sv_lines-feat-Degree.html) – [Foreign](sv_lines-feat-Foreign.html) – [Gender](sv_lines-feat-Gender.html) – [Mood](sv_lines-feat-Mood.html) – [Number](sv_lines-feat-Number.html) – [NumType](sv_lines-feat-NumType.html) – [Polarity](sv_lines-feat-Polarity.html) – [Poss](sv_lines-feat-Poss.html) – [PronType](sv_lines-feat-PronType.html) – [Tense](sv_lines-feat-Tense.html) – [VerbForm](sv_lines-feat-VerbForm.html) – [Voice](sv_lines-feat-Voice.html)
 
 ## Relations
 
@@ -84,7 +84,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 
 <ul>
-<li>This corpus contains 5243 sentences and 90960 tokens.</li>
+<li>This corpus contains 5243 sentences and 90961 tokens.</li>
 </ul>
 
 <ul>
@@ -96,7 +96,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 251 types of words that contain both letters and punctuation. Examples: XML-dokument, ANSI-92, SQL-frågeläge, ANSI-89, kl., t.ex, rad-, EU:s, XML-data, null-värden, Access-databas, Access-projekt, Access-projektet, SQL-frågelägen, XML-fil, XP-licens, Gai-Hinnom, Server-databasen, XML-informationen, radio-, start-, 2000-filformat, Ben-Gurion, Server-databas, kategori-, pivottabell-, .xsl-fil, 2002-filformat, 72:a, Access-databaser, Access-fil, Arkiv-menyn, Bruce-Briggs, Dar-es-Salaam, Jo-Ann, RefLibPaths-nyckel, SQL-uttryck, Sha'ananim, Verktyg-menyn, Wentz', XML-baserade, XML-datadokument, XML-filer, XML-märken, XML-schemafil, XML-scheman, XML-schemastandarden, XML-syntaxen, XP-program, XSL-formatmall</li>
+<li>This corpus contains 250 types of words that contain both letters and punctuation. Examples: XML-dokument, ANSI-92, SQL-frågeläge, ANSI-89, kl., t.ex, rad-, EU:s, XML-data, null-värden, Access-databas, Access-projekt, Access-projektet, SQL-frågelägen, XML-fil, XP-licens, Gai-Hinnom, Server-databasen, XML-informationen, radio-, start-, 2000-filformat, Ben-Gurion, Server-databas, kategori-, pivottabell-, .xsl-fil, 2002-filformat, 72:a, Access-databaser, Access-fil, Arkiv-menyn, Bruce-Briggs, Dar-es-Salaam, Jo-Ann, RefLibPaths-nyckel, SQL-uttryck, Sha'ananim, Verktyg-menyn, Wentz', XML-baserade, XML-datadokument, XML-filer, XML-märken, XML-schemafil, XML-scheman, XML-schemastandarden, XML-syntaxen, XP-program, XSL-formatmall</li>
 </ul>
 
 <ul>
@@ -115,11 +115,11 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): all, allesammans, allihop, allihopa, alltihop, allting, alltsammans, annan, bägge, båda, bådadera, de, den, denna, densamma, du, en, ena, enda, ett, han, hon, ingen, ingenting, intet, jag, lera, litet, man, mycket, mången, ni, någon, någondera, någonting, någotdera, sig, sin, som, somlig, sådan, te, vad, var, varandra, vars, vem, vi, vilken</li>
+<li>This corpus contains 47 lemmas tagged as pronouns (PRON): all, allesammans, allihop, allihopa, alltihop, allting, alltsammans, annan, bägge, båda, bådadera, de, den, denna, du, en, ena, ett, han, hon, ingen, ingenting, intet, jag, lera, litet, man, mycket, mången, ni, någon, någondera, någonting, någotdera, sig, sin, som, somlig, sådan, te, vad, var, varandra, vars, vem, vi, vilken</li>
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as determiners (DET): all, bägge, båda, de, den, denna, du, en, en-mängd, ingen, intet, la, le, någon, något, samtlig, the, vad, varenda, varje, vilken</li>
+<li>This corpus contains 19 lemmas tagged as determiners (DET): all, bägge, båda, de, den, denna, du, en, ingen, intet, la, le, någon, något, the, vad, varenda, varje, vilken</li>
 </ul>
 
 <ul>
@@ -150,9 +150,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Inf
   <ul>
-    <li>ADJ: framåtböjd</li>
-    <li>AUX: vara, ha, kunna, få, bli, vilja, komma</li>
-    <li>VERB: göra, ta, se, gå, komma, använda, få, bli, ha, säga</li>
+    <li>AUX: vara, ha, kunna, få, vilja, bli, komma</li>
+    <li>VERB: göra, ta, se, gå, komma, använda, bli, få, ha, säga</li>
   </ul>
   </li>
 </ul>
@@ -160,8 +159,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: följande, särskilt, motsvarande, nuvarande, beredd, dolda, grundläggande, intresserad, liknande, omfattande</li>
-    <li>VERB: tvungen, taget, leende, tvungna, flåsande, gjort, sittande, svävande, tröstande, baserat</li>
+    <li>ADJ: följande, flyttade, dolda, motsvarande, strålande, beredd, grundläggande, grupperade, intresserad, komplicerat</li>
+    <li>VERB: tvungen, taget, leende, tvungna, flåsande, gjort, svävande, tröstande, baserat, dansande</li>
   </ul>
   </li>
 </ul>
@@ -169,9 +168,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Sup
   <ul>
-    <li>AUX: varit, kunnat, fått, blivit, velat, kommit</li>
+    <li>AUX: varit, kunnat, blivit, fått, velat, kommit</li>
     <li>NOUN: brits</li>
-    <li>VERB: kommit, gjort, fått, varit, sett, gått, blivit, sagt, hört, tagit</li>
+    <li>VERB: kommit, gjort, fått, varit, sett, gått, sagt, blivit, hört, tagit</li>
   </ul>
   </li>
 </ul>
@@ -187,10 +186,10 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Com
     <ul>
       <li>ADJ: själv, stor, egen, annan, liten, vit, gammal, lång, sådan, ny</li>
-      <li>ADJ-Part: beredd, intresserad, bestämd, gift, komplicerad, särskild, ökad, begränsad, hypnotiserad, känd</li>
-      <li>DET: en, den, någon, denna, ingen, all, vilken, var, varenda</li>
+      <li>ADJ-Part: beredd, intresserad, anpassad, beräknad, civiliserad, iförd, integrerad, ökad, Filtrerad, bebodd</li>
+      <li>DET: en, den, någon, denna, ingen, all, varenda, vilken, denne, nån</li>
       <li>NOUN: far, gång, man, sidan, del, mor, fråga, mr, mannen, tiden</li>
-      <li>PRON: han, jag, du, vi, hon, honom, mig, man, sin, min</li>
+      <li>PRON: han, jag, du, vi, hon, honom, mig, den, sin, man</li>
       <li>PROPN: Stella, Athena, Alice, Jove, Dior, Hefaistos, Lutyens, Psaltaren, Ringen, Rover</li>
       <li>VERB: krigsmålad</li>
     </ul>
@@ -200,7 +199,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: andre</li>
       <li>PRON: denne</li>
     </ul>
   </li>
@@ -209,9 +207,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: annat, stort, nytt, eget, litet, möjligt, svårt, klart, visst, gott</li>
-      <li>ADJ-Part: särskilt, bestämt, kvalificerat, ökat</li>
-      <li>DET: ett, det, något, detta, inget, allt, vilket</li>
+      <li>ADJ: annat, stort, nytt, eget, litet, möjligt, svårt, rött, klart, visst</li>
+      <li>ADJ-Part: komplicerat, särskilt, filtrerat, överordnat, anpassat, balanserat, beräknat, Delat, avbränt, avlutat</li>
+      <li>DET: ett, det, något, detta, inget, allt, vilket, nåt, intet, vartenda</li>
       <li>NOUN: sätt, år, fält, data, ögon, ansikte, barn, fältet, huvudet, ögonblick</li>
       <li>NUM: Ett</li>
       <li>PRON: det, vad, detta, sitt, allt, något, ingenting, mitt, vilket, annat</li>
@@ -230,12 +228,12 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: andra, flera, många, vita, nya, olika, egna, stora, långa, små</li>
-      <li>ADJ-Part: avskilda, bundna, sekulariserade, skadade, ökade</li>
-      <li>DET: de, alla, några, dessa, inga, båda, vilka, samtliga, bägge</li>
+      <li>ADJ: andra, flera, många, små, vita, sådana, nya, vissa, egna, långa</li>
+      <li>ADJ-Part: grupperade, dolda, kapslade, relaterade, villkorsstyrda, civiliserade, fördefinierade, kanderade, kasserade, lagrade</li>
+      <li>DET: de, alla, några, dessa, inga, båda, vilka, dom, bägge</li>
       <li>NOUN: år, data, fält, ögon, människor, frågor, saker, farmor, barn, ögonen</li>
-      <li>PRON: de, vi, dem, den, sina, oss, alla, mina, varandra, vilka</li>
-      <li>PROPN: Jung, Tvillingarnas</li>
+      <li>PRON: de, vi, dem, sina, oss, alla, dom, mina, varandra, vilka</li>
+      <li>PROPN: Arms, Jung, Tvillingarnas</li>
       <li>VERB-Part: tvungna, fullproppade</li>
     </ul>
   </li>
@@ -244,15 +242,15 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: själv, hela, annat, andra, stor, egen, annan, liten, ena, vit</li>
-      <li>ADJ-Part: särskilt, beredd, dolda, intresserad, bestämd, gift, komplicerad, motsatta, särskild, ökad</li>
+      <li>ADJ: själv, annat, stor, egen, annan, liten, ena, vit, gammal, lång</li>
+      <li>ADJ-Part: beredd, intresserad, komplicerat, anpassad, särskilt, filtrerat, överordnat, anpassat, balanserat, beräknad</li>
       <li>DET: en, ett, den, det, någon, denna, något, detta, varje, ingen</li>
       <li>NOUN: gång, sätt, far, man, sidan, del, fråga, mr, mannen, tiden</li>
       <li>NUM: Ett</li>
-      <li>PRON: han, det, jag, du, hon, honom, mig, man, sin, vad</li>
+      <li>PRON: han, det, jag, du, hon, honom, mig, den, sin, vad</li>
       <li>PROPN: Harry, Dobby, Quinn, Bray, Auster, Don, Stillman, Clough, Gyllenroy, Lockman</li>
-      <li>VERB: tvungen, krigsmålad, lastad, omhändertagen, sitt, spräckt</li>
-      <li>VERB-Part: tvungen, lastad, omhändertagen, spräckt</li>
+      <li>VERB: tvungen, krigsmålad, lastad, sitt, spräckt</li>
+      <li>VERB-Part: tvungen, lastad, spräckt</li>
       <li>X: alium, coniunctis, internum</li>
     </ul>
   </li>
@@ -273,7 +271,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: dödas, andres, förflutnas, förgångnas, gräsligas, omyndigas, spetälskas, svartas, treliters, vises</li>
+      <li>ADJ: dödas, andras, andres, förflutnas, förgångnas, gräsligas, omyndigas, spetälskas, svartas, treliters</li>
+      <li>ADJ-Part: förgångnas</li>
       <li>NOUN: kommissionens, världens, sortens, diagrammets, mors, fars, fältets, min, bolagets, folkets</li>
       <li>PRON: sin, hans, min, sina, sitt, er, hennes, deras, mina, mitt</li>
       <li>PROPN: Harrys, Stillmans, Mwetas, Rons, Austers, EU:s, Dandos, Vernons, Weasleys, Europas</li>
@@ -285,16 +284,15 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: andra, första, själv, hela, annat, flera, många, stor, nya, enda</li>
-      <li>ADJ-Part: följande, särskilt, motsvarande, nuvarande, beredd, dolda, grundläggande, intresserad, liknande, omfattande</li>
+      <li>ADJ: andra, själv, hela, samma, första, annat, flera, många, stor, enda</li>
+      <li>ADJ-Part: följande, flyttade, dolda, motsvarande, strålande, beredd, grundläggande, grupperade, intresserad, komplicerat</li>
       <li>ADV: i, med, på, av, runt, efter, klart, igenom, korrekt, och</li>
       <li>AUX: haft, skola</li>
-      <li>DET: båda, denne, du, de, La, samtliga, vad</li>
       <li>NOUN: sätt, år, far, fält, gång, man, sidan, del, data, mor</li>
       <li>NUM: U</li>
-      <li>PRON: han, jag, du, de, vi, hon, man, ni, sådan, enda</li>
+      <li>PRON: han, jag, du, de, vi, hon, man, ni, sådan, lite</li>
       <li>PROPN: Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Ron, Weasley, Mweta</li>
-      <li>VERB: höll, närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande</li>
+      <li>VERB: höll, närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, flytande</li>
       <li>X: Aliquem, alium, coniunctis, internum</li>
     </ul>
   </li>
@@ -308,9 +306,9 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: hela, andra, ena, europeiska, gamla, lilla, själva, unge, bästa, egna</li>
-      <li>ADJ-Part: dolda, motsatta, beräknade, nämnda</li>
-      <li>DET: den, de, det, denna, detta, dessa, bägge</li>
+      <li>ADJ: hela, gamla, ena, nya, stora, själva, egna, europeiska, andra, vita</li>
+      <li>ADJ-Part: flyttade, rostade, avtalade, chockade, civiliserade, dolda, gångna, konverterade, lyckade, skyddade</li>
+      <li>DET: den, de, det, denna, detta, dessa, dom, the, Le, La</li>
       <li>NOUN: sidan, mannen, tiden, linjen, fältet, huvudet, informationen, kommissionen, rummet, ögonen</li>
       <li>PRON: han, det, jag, sig, du, de, vi, hon, honom, mig</li>
       <li>PROPN: Psaltaren, Ringen, Tvillingarnas, Vintergatan</li>
@@ -322,11 +320,11 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: själv, andra, samma, annat, flera, många, stor, annan, liten, olika</li>
-      <li>ADJ-Part: särskilt, beredd, intresserad, bestämd, gift, komplicerad, särskild, ökad, begränsad, bestämt</li>
-      <li>DET: en, ett, någon, något, några, varje, ingen, inget, inga, vilken</li>
+      <li>ADJ: själv, samma, andra, annat, flera, stor, många, egen, annan, liten</li>
+      <li>ADJ-Part: beredd, grupperade, intresserad, komplicerat, anpassad, dolda, särskilt, filtrerat, kapslade, relaterade</li>
+      <li>DET: en, ett, någon, något, några, varje, ingen, inget, inga, varenda</li>
       <li>NOUN: sätt, år, far, fält, gång, man, del, data, mor, fråga</li>
-      <li>PRON: man, vad, allt, en, någon, något, ingenting, alla, vem, vilket</li>
+      <li>PRON: vad, man, allt, en, någon, något, ingenting, alla, vem, vilket</li>
       <li>PROPN: Cunards, Help, Jung, Tupperware</li>
       <li>VERB: krigsmålad</li>
       <li>X: alium, coniunctis, internum</li>
@@ -344,8 +342,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: mer, inre, yttre, bättre, större, äldre, högre, ytterligare, mindre, tidigare</li>
-      <li>ADV: senare, mer, vidare, tidigare, längre, mindre, mera, bättre, närmare, ytterligare</li>
+      <li>ADJ: mer, bättre, större, äldre, högre, ytterligare, mindre, tidigare, enklare, lägre</li>
+      <li>ADV: senare, mer, vidare, tidigare, mindre, längre, mera, bättre, närmare, ytterligare</li>
     </ul>
   </li>
 </ul>
@@ -353,12 +351,12 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: andra, själv, hela, annat, flera, många, stor, nya, enda, vita</li>
-      <li>ADV: mycket, helt, länge, längre, väl, lite, faktiskt, långt, snart, bra</li>
-      <li>DET: båda, samtliga</li>
-      <li>NOUN: dotter, slags, sågspån</li>
+      <li>ADJ: andra, själv, hela, samma, första, annat, flera, många, stor, enda</li>
+      <li>ADJ-Part: följande, flyttade, motsvarande, strålande, beredd, dolda, grundläggande, grupperade, intresserad, komplicerat</li>
+      <li>ADV: mycket, helt, länge, längre, väl, långt, lite, faktiskt, snart, bra</li>
+      <li>NOUN: vänster, dotter, död, slags, sågspån</li>
       <li>PROPN: Visual</li>
-      <li>VERB: kallade</li>
+      <li>VERB: inbjudande, kallade</li>
     </ul>
   </li>
 </ul>
@@ -408,13 +406,13 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ-Inf: framåtböjd</li>
-      <li>ADJ-Part: dansande, framstående</li>
+      <li>ADJ-Part: förödmjukade</li>
       <li>AUX-Fin: var, är, hade, kan, har, skulle, kunde, måste, vill, kommer</li>
       <li>AUX-Sup: velat</li>
+      <li>VERB: sa, var, hade, gick, har, kom, såg, sade, tog, är</li>
       <li>VERB-Fin: sa, var, hade, gick, har, kom, såg, sade, tog, är</li>
-      <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, skuggad, dödade, fylld, kopplad, minnas</li>
-      <li>VERB-Part: tvungen, taget, leende, tvungna, flåsande, gjort, sittande, svävande, tröstande, baserat</li>
+      <li>VERB-Inf: lyckas, fyllt, inställd, klädd, avslutad, skuggad, fylld, minnas, sett, anpassade</li>
+      <li>VERB-Part: tvungen, taget, leende, tvungna, flåsande, gjort, svävande, tröstande, baserat, dansande</li>
       <li>VERB-Sup: lyckats, funnits, färdats, hoppats, misslyckats, ordats, träffats</li>
     </ul>
   </li>
@@ -436,10 +434,11 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Past
     <ul>
-      <li>ADJ-Part: särskilt, beredd, dolda, intresserad, bestämd, gift, komplicerad, motsatta, särskild, ökad</li>
+      <li>ADJ-Part: flyttade, dolda, beredd, grupperade, intresserad, komplicerat, anpassad, civiliserade, rostade, särskilt</li>
       <li>AUX-Fin: var, hade, skulle, kunde, ville, borde, fick, vore, blev, kom</li>
       <li>VERB-Fin: sa, var, hade, gick, kom, såg, sade, tog, fanns, fick</li>
-      <li>VERB-Part: uppmärksammade, väntad</li>
+      <li>VERB-Inf: behandlade, invigd, placerade, störd, åtlydd</li>
+      <li>VERB-Part: tvungen, dödade, tvungna, angivet, behandlad, bjuden, bokförd, byggt, dödad, född</li>
     </ul>
   </li>
 </ul>
@@ -447,7 +446,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ-Part: följande, motsvarande, nuvarande, grundläggande, liknande, omfattande, avgörande, växande, betydande, framträdande</li>
+      <li>ADJ-Part: följande, motsvarande, strålande, grundläggande, levande, lysande, bländande, flygande, glänsande, liknande</li>
       <li>AUX-Fin: är, kan, har, måste, vill, kommer, ska, skall, får, bör</li>
       <li>VERB-Fin: har, är, finns, vet, kommer, säger, gör, ser, tror, visas</li>
       <li>VERB-Part: Suckande</li>
@@ -462,15 +461,14 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Act
     <ul>
-      <li>ADJ-Part: dansande, framstående</li>
       <li>AUX-Fin: var, är, hade, kan, har, skulle, kunde, måste, vill, kommer</li>
-      <li>AUX-Inf: vara, ha, kunna, få, bli, vilja, komma</li>
-      <li>AUX-Sup: varit, kunnat, fått, blivit, velat, kommit</li>
+      <li>AUX-Inf: vara, ha, kunna, få, vilja, bli, komma</li>
+      <li>AUX-Sup: varit, kunnat, blivit, fått, velat, kommit</li>
       <li>VERB: sa, var, hade, gick, kom, har, såg, ta, göra, sade</li>
       <li>VERB-Fin: sa, var, hade, gick, kom, har, såg, sade, tog, är</li>
-      <li>VERB-Inf: göra, ta, se, gå, komma, använda, få, bli, ha, säga</li>
-      <li>VERB-Part: leende, flåsande, sittande, svävande, tröstande, dansande, dinglande, fastställande, flämtande, frågande</li>
-      <li>VERB-Sup: kommit, gjort, fått, varit, sett, gått, blivit, sagt, hört, tagit</li>
+      <li>VERB-Inf: göra, ta, se, gå, komma, använda, bli, få, ha, säga</li>
+      <li>VERB-Part: leende, flåsande, svävande, tröstande, dansande, dinglande, fastställande, flämtande, frågande, gungande</li>
+      <li>VERB-Sup: kommit, gjort, fått, varit, sett, gått, sagt, blivit, hört, tagit</li>
     </ul>
   </li>
 </ul>
@@ -478,12 +476,12 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Pass
     <ul>
-      <li>ADJ: framåtböjd, nerklubbad</li>
-      <li>ADJ-Inf: framåtböjd</li>
+      <li>ADJ-Part: förödmjukade</li>
       <li>NOUN-Sup: brits</li>
+      <li>VERB: visas, kändes, används, tvungen, hördes, tycktes, flyttas, talas, taget, skapats</li>
       <li>VERB-Fin: visas, kändes, används, hördes, tycktes, flyttas, döljs, skapas, tycks, behövs</li>
       <li>VERB-Inf: talas, användas, fyllt, inställd, klädd, tänkas, visas, avslutad, köras, skuggad</li>
-      <li>VERB-Part: tvungen, taget, tvungna, gjort, baserat, försvunnen, installerat, kallad, omgiven, utnämnd</li>
+      <li>VERB-Part: tvungen, taget, tvungna, gjort, baserat, dödade, försvunnen, installerad, installerat, kallad</li>
       <li>VERB-Sup: skapats, använts, dragits, lagts, gjorts, tagits, brutits, fyllts, föreslagits, stängts</li>
     </ul>
   </li>
@@ -500,8 +498,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Art
     <ul>
-      <li>DET: en, ett, den, de, det</li>
-      <li>PRON: det, En</li>
+      <li>DET: en, ett, den, de, det, dom, the, Le, du, La</li>
+      <li>PRON: En</li>
     </ul>
   </li>
 </ul>
@@ -509,8 +507,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Dem
     <ul>
-      <li>DET: denna, detta, dessa, den, det, de</li>
-      <li>PRON: detta, dessa, det, denne, denna, Den, de, dennes</li>
+      <li>DET: denna, detta, dessa, denne</li>
+      <li>PRON: detta, dessa, denne, denna, dennes</li>
     </ul>
   </li>
 </ul>
@@ -518,9 +516,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: samma, beslutsamma</li>
-      <li>DET: någon, något, några</li>
-      <li>PRON: man, någon, en, andra, något, mycket, ens, detsamma, några, många</li>
+      <li>DET: någon, något, några, nåt, nån</li>
+      <li>PRON: man, någon, en, något, mycket, andra, ens, några, många, andras</li>
     </ul>
   </li>
 </ul>
@@ -528,9 +525,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Int
     <ul>
-      <li>ADJ: hurdan, Hurdana</li>
       <li>ADV: hur, varför, var, vart, varifrån, när, vari</li>
-      <li>DET: vilka, vilken, vilket</li>
+      <li>DET: vilka, vilken, vilket, vad</li>
       <li>PRON: vad, vem, vilka, vilket, vilken, allt</li>
     </ul>
   </li>
@@ -540,7 +536,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Neg
     <ul>
       <li>ADV: ingenstans</li>
-      <li>DET: ingen, inget, inga</li>
+      <li>DET: ingen, inget, inga, intet</li>
       <li>PRON: ingenting, ingen, inget</li>
     </ul>
   </li>
@@ -578,7 +574,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Tot
     <ul>
-      <li>DET: alla, varje, all, allt, var, varenda, bägge</li>
+      <li>DET: alla, varje, all, varenda, båda, allt, var, bägge, vartenda</li>
       <li>PRON: alla, allt, båda, var, bägge</li>
     </ul>
   </li>
@@ -592,6 +588,14 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Card
     <ul>
       <li>NUM: fyrtioett, Ett</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: första, andra, tredje, andre, fjärde, tjugonde, förste, 1, 12, 22</li>
     </ul>
   </li>
 </ul>
@@ -611,17 +615,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 
-<ul>
-  <li><a>Person</a></li>
-</ul>
-
-<ul>
-  <li>3
-    <ul>
-      <li>PRON: det</li>
-    </ul>
-  </li>
-</ul>
 
 
 
@@ -634,7 +627,23 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: s.k.</li>
           <li>ADV: dvs, osv, t.ex., bl.a., dvs., etc</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: Extensible, Wide, Central, Grand, Visual, Advanced, Advertising, Arabic, Political, Universal</li>
+          <li>ADP: ad, for</li>
+          <li>NOUN: Language, Stylesheet, Consortium, Transformation, World, Station, Markup, Memoirs, Protocol, Service</li>
+          <li>PROPN: Web</li>
         </ul>
       </li>
     </ul>
@@ -666,24 +675,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1244)</li>
+      <li>VERB-Fin--NOUN-Nom (1245)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(med) (1)</li>
-      <li>VERB-Fin--PRON (885)</li>
-      <li>VERB-Fin--PRON-Nom (2485)</li>
+      <li>VERB-Fin--PRON (884)</li>
+      <li>VERB-Fin--PRON-Nom (2486)</li>
       <li>VERB-Fin--PRON-Nom-ADP(framför) (1)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (193)</li>
-      <li>VERB-Inf--PRON (109)</li>
-      <li>VERB-Inf--PRON-Nom (734)</li>
-      <li>VERB-Part--NOUN-Nom (18)</li>
+      <li>VERB-Inf--NOUN-Nom (192)</li>
+      <li>VERB-Inf--PRON (105)</li>
+      <li>VERB-Inf--PRON-Nom (727)</li>
+      <li>VERB-Part--NOUN-Nom (19)</li>
       <li>VERB-Part--PRON (9)</li>
-      <li>VERB-Part--PRON-Nom (18)</li>
+      <li>VERB-Part--PRON-Nom (12)</li>
       <li>VERB-Sup--NOUN (1)</li>
-      <li>VERB-Sup--NOUN-Nom (156)</li>
-      <li>VERB-Sup--PRON (128)</li>
+      <li>VERB-Sup--NOUN-Nom (155)</li>
+      <li>VERB-Sup--PRON (127)</li>
       <li>VERB-Sup--PRON-Nom (390)</li>
     </ul>
   </li>
@@ -702,22 +711,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-      <li>VERB-Fin--PRON (365)</li>
+      <li>VERB-Fin--PRON (366)</li>
       <li>VERB-Fin--PRON-ADP(med) (1)</li>
       <li>VERB-Fin--PRON-ADP(på) (1)</li>
-      <li>VERB-Fin--PRON-Acc (589)</li>
+      <li>VERB-Fin--PRON-Acc (588)</li>
       <li>VERB-Fin--PRON-Gen (11)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (7)</li>
       <li>VERB-Inf--NOUN-Nom (1023)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(på) (2)</li>
-      <li>VERB-Inf--PRON (195)</li>
+      <li>VERB-Inf--PRON (190)</li>
       <li>VERB-Inf--PRON-ADP(som) (1)</li>
       <li>VERB-Inf--PRON-Acc (293)</li>
       <li>VERB-Inf--PRON-Gen (15)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Nom (4)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Part--NOUN-Nom (3)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
       <li>VERB-Sup--NOUN (1)</li>
@@ -737,7 +746,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Nom (7)</li>
       <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (54)</li>
+      <li>VERB-Fin--PRON-Acc (55)</li>
       <li>VERB-Fin--PRON-Gen (6)</li>
       <li>VERB-Inf--NOUN-Nom (10)</li>
       <li>VERB-Inf--PRON (2)</li>

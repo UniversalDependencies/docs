@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 3	are	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	4:aux	_
 4	doing	do	VERB	VBG	Tense=Pres|VerbForm=Part	6	csubj:outer	6:csubj:outer	_
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
-6	creating	create	VERB	VBG	VerbForm=Ger	0	root	0:root	_
+6	creating	create	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
 7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
 8	service	service	NOUN	NN	Number=Sing	6	obj	6:obj	SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	6:punct	_

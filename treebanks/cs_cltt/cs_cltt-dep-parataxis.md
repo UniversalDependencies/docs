@@ -30,9 +30,9 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 6	průběžně	průběžně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	5:advmod	_
 7	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	5:obl:ins	_
 8	A	a	CCONJ	J^-------------	_	7	nmod	7:nmod	LId=a-1
-9	nebo	nebo	CCONJ	J^-------------	_	10	cc	8.1:cc	_
-10	periodicky	periodicky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	conj	8.1:advmod	_
-11	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	10	orphan	8.1:dep	_
+9	nebo	nebo	CCONJ	J^-------------	_	10	cc	10.1:cc	_
+10	periodicky	periodicky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	conj	10.1:advmod	_
+11	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	10	orphan	10.1:dep	_
 12	B.	B.	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	11	nmod	11:nmod	_
 13	U	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	14:case	LId=u-1
 14	způsobu	způsob	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	21	obl	21:obl:u:gen	_

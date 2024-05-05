@@ -332,9 +332,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="la_ittb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (12834; 80%),
 <tt>VERB --[<tt><a href="la_ittb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (9605; 94%),
 <tt>VERB --[<tt><a href="la_ittb-dep-obl.html">obl</a></tt>]--> NOUN</tt> (8051; 61%),
-<tt>NOUN --[<tt><a href="la_ittb-dep-cop.html">cop</a></tt>]--> AUX</tt> (6292; 76%),
+<tt>NOUN --[<tt><a href="la_ittb-dep-cop.html">cop</a></tt>]--> AUX</tt> (6291; 76%),
 <tt>VERB --[<tt><a href="la_ittb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (5277; 94%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5142; 91%),
 <tt>NOUN --[<tt><a href="la_ittb-dep-acl.html">acl</a></tt>]--> VERB</tt> (5096; 95%),
-<tt>ADJ --[<tt><a href="la_ittb-dep-cop.html">cop</a></tt>]--> AUX</tt> (4493; 82%).
+<tt>ADJ --[<tt><a href="la_ittb-dep-cop.html">cop</a></tt>]--> AUX</tt> (4494; 82%).
 

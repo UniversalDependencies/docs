@@ -16,11 +16,11 @@ Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
-The following people have contributed to making this treebank part of UD: Marcos Garcia.
+The following people have contributed to making this treebank part of UD: Marcos Garcia, Xulia Sánchez-Rodríguez.
 
 Repository: [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: LGPL-LR
 
@@ -29,7 +29,7 @@ Genre: news
 Questions, comments?
 General annotation questions (either Galician-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Galician-TreeGal/issues).
-If you want to collaborate, please contact [marcos&nbsp;•&nbsp;garcia&nbsp;•&nbsp;gonzalez&nbsp;(æt)&nbsp;udc&nbsp;•&nbsp;gal].
+If you want to collaborate, please contact [marcos&nbsp;•&nbsp;garcia&nbsp;•&nbsp;gonzalez&nbsp;(æt)&nbsp;usc&nbsp;•&nbsp;gal].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña).
+The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña) and at CiTIUS (Universidade de Santiago de Compostela).
 
 
 
@@ -75,7 +75,7 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
 
 ## Relations
 
-[acl](gl_treegal-dep-acl.html) – [advcl](gl_treegal-dep-advcl.html) – [advmod](gl_treegal-dep-advmod.html) – [amod](gl_treegal-dep-amod.html) – [appos](gl_treegal-dep-appos.html) – [aux](gl_treegal-dep-aux.html) – [aux:pass](gl_treegal-dep-aux-pass.html) – [case](gl_treegal-dep-case.html) – [cc](gl_treegal-dep-cc.html) – [ccomp](gl_treegal-dep-ccomp.html) – [compound](gl_treegal-dep-compound.html) – [conj](gl_treegal-dep-conj.html) – [cop](gl_treegal-dep-cop.html) – [csubj](gl_treegal-dep-csubj.html) – [dep](gl_treegal-dep-dep.html) – [det](gl_treegal-dep-det.html) – [discourse](gl_treegal-dep-discourse.html) – [expl](gl_treegal-dep-expl.html) – [fixed](gl_treegal-dep-fixed.html) – [flat](gl_treegal-dep-flat.html) – [flat:foreign](gl_treegal-dep-flat-foreign.html) – [flat:name](gl_treegal-dep-flat-name.html) – [iobj](gl_treegal-dep-iobj.html) – [list](gl_treegal-dep-list.html) – [mark](gl_treegal-dep-mark.html) – [nmod](gl_treegal-dep-nmod.html) – [nsubj](gl_treegal-dep-nsubj.html) – [nsubj:pass](gl_treegal-dep-nsubj-pass.html) – [nummod](gl_treegal-dep-nummod.html) – [obj](gl_treegal-dep-obj.html) – [obl](gl_treegal-dep-obl.html) – [orphan](gl_treegal-dep-orphan.html) – [parataxis](gl_treegal-dep-parataxis.html) – [punct](gl_treegal-dep-punct.html) – [root](gl_treegal-dep-root.html) – [vocative](gl_treegal-dep-vocative.html) – [xcomp](gl_treegal-dep-xcomp.html)
+[acl](gl_treegal-dep-acl.html) – [advcl](gl_treegal-dep-advcl.html) – [advmod](gl_treegal-dep-advmod.html) – [amod](gl_treegal-dep-amod.html) – [appos](gl_treegal-dep-appos.html) – [aux](gl_treegal-dep-aux.html) – [aux:pass](gl_treegal-dep-aux-pass.html) – [case](gl_treegal-dep-case.html) – [cc](gl_treegal-dep-cc.html) – [ccomp](gl_treegal-dep-ccomp.html) – [compound](gl_treegal-dep-compound.html) – [conj](gl_treegal-dep-conj.html) – [cop](gl_treegal-dep-cop.html) – [csubj](gl_treegal-dep-csubj.html) – [dep](gl_treegal-dep-dep.html) – [det](gl_treegal-dep-det.html) – [discourse](gl_treegal-dep-discourse.html) – [expl](gl_treegal-dep-expl.html) – [fixed](gl_treegal-dep-fixed.html) – [flat:foreign](gl_treegal-dep-flat-foreign.html) – [flat:name](gl_treegal-dep-flat-name.html) – [iobj](gl_treegal-dep-iobj.html) – [list](gl_treegal-dep-list.html) – [mark](gl_treegal-dep-mark.html) – [nmod](gl_treegal-dep-nmod.html) – [nsubj](gl_treegal-dep-nsubj.html) – [nsubj:pass](gl_treegal-dep-nsubj-pass.html) – [nummod](gl_treegal-dep-nummod.html) – [obj](gl_treegal-dep-obj.html) – [obl](gl_treegal-dep-obl.html) – [orphan](gl_treegal-dep-orphan.html) – [parataxis](gl_treegal-dep-parataxis.html) – [punct](gl_treegal-dep-punct.html) – [root](gl_treegal-dep-root.html) – [vocative](gl_treegal-dep-vocative.html) – [xcomp](gl_treegal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -195,10 +195,10 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
     <ul>
       <li>ADJ: galega, política, europea, nova, social, Franca, actual, cultural, laboral, mellor</li>
       <li>DET: a, as, unha, súa, esta, la, nosa, súas, esa, outra</li>
-      <li>NOUN: cidade, música, parte, obra, vida, proposta, arte, empresa, obras, lingua</li>
-      <li>NUM: primeira, dúas, segunda, catro, tres, unha, cinco, terceira, 12, 15.000</li>
+      <li>NOUN: cidade, música, parte, obra, vida, empresa, proposta, arte, bases, obras</li>
+      <li>NUM: primeira, dúas, segunda, 21, catro, tres, unha, cinco, terceira, 12</li>
       <li>PRON: que, a, lle, as, unha, elas, ela, esta, na, ningunha</li>
-      <li>PROPN: Mercedes, Núñez, Unión, UE, Zona, Bases, Xunta, Constitución, Galiza, Academia</li>
+      <li>PROPN: UE, CIG, ONU, CIG-ensino, EMALCSA, ETEA, OTAN, SA, SEPI, TVG</li>
       <li>VERB-Part: recibida, dirixida, destinadas, feita, feitas, prometidas, realizada, vencellada, Configurada, Nacida</li>
     </ul>
   </li>
@@ -209,10 +209,10 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
     <ul>
       <li>ADJ: novo, galego, español, galegos, socialista, constitucional, difícil, gran, mellor, claro</li>
       <li>DET: o, os, un, lo, seu, este, seus, todo, todos, ese</li>
-      <li>NOUN: anos, traballo, goberno, mundo, tempo, dereito, proxecto, país, medios, grupo</li>
+      <li>NOUN: anos, goberno, traballo, Estado, estatuto, tempo, dereito, mundo, país, proxecto</li>
       <li>NUM: dous, un, primeiro, catro, dez, 1990, 25, cinco, quince, tres</li>
       <li>PRON: que, o, lle, lo, os, todo, un, algo, algúns, lles</li>
-      <li>PROPN: BNG, Estado, Manuel, Xosé, Miguel, Anxo, Carlos, Estatuto, González, Francisco</li>
+      <li>PROPN: BNG, PP, PSOE, PSdeG, PSdeG-PSOE, PSC, SXG, FIDAC, IBBY, INEM</li>
       <li>VERB-Part: debido, baseado, elaborado, elixido, afectado, apresentado, atendidos, chamado, considerado, dirixido</li>
     </ul>
   </li>
@@ -238,11 +238,10 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
       <li>AUX: son, están, poden, estamos, foron, serán, van, deben, eran, estaban</li>
       <li>AUX-Fin: son, están, poden, estamos, foron, serán, van, deben, eran, estaban</li>
       <li>AUX-Inf: seren, sermos</li>
-      <li>DET: os, as, seus, súas, todos, outros, los, outras, estes, uns</li>
-      <li>NOUN: anos, socialistas, medios, obras, nacionalistas, persoas, días, eleccións, veces, galegos</li>
-      <li>NUM: catro, dous, tres, dúas, dez, cinco, quince, oito, 300, 52</li>
+      <li>DET: os, as, seus, súas, todos, los, outros, outras, estes, uns</li>
+      <li>NOUN: anos, socialistas, medios, bases, obras, nacionalistas, persoas, días, eleccións, fuxidos</li>
+      <li>NUM: catro, dous, tres, dúas, dez, cinco, 21, quince, oito, 300</li>
       <li>PRON: que, nos, os, lles, algúns, as, outros, elas, nós, eles</li>
-      <li>PROPN: Bases, Premios, Estados, Mateo, Mestre, 2004, Consellos, Irmandades, Letras, Oscars</li>
       <li>VERB-Fin: teñen, fan, temos, existen, chegaron, dan, fagan, fixemos, integran, queremos</li>
       <li>VERB-Inf: teren, chegaren, colaboraren, compartiren, completarmos, decidiren, desviaren, formaren, forzaren, integrarmos</li>
       <li>VERB-Part: atendidos, destinadas, empeñados, feitas, obrigados, prometidas, Decididos, afectados, apresentadas, asinados</li>
@@ -256,10 +255,10 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
       <li>ADJ: galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</li>
       <li>AUX-Fin: é, foi, está, pode, era, sería, vai, será, ten, sexa</li>
       <li>DET: o, a, un, unha, súa, lo, seu, esta, este, la</li>
-      <li>NOUN: traballo, goberno, cidade, música, mundo, tempo, dereito, proxecto, país, parte</li>
+      <li>NOUN: goberno, traballo, Estado, cidade, estatuto, música, tempo, dereito, mundo, país</li>
       <li>NUM: primeira, un, primeiro, segunda, 1990, 1917, 1999, 2018, 25, 28</li>
       <li>PRON: que, o, lle, a, me, iso, lo, todo, quen, un</li>
-      <li>PROPN: BNG, Estado, Estatuto, Prestige, PP, Quixote, Consello, Unión, Galiza, PSOE</li>
+      <li>PROPN: BNG, PP, PSOE, PSdeG, UE, PSdeG-PSOE, CIG, ONU, PSC, SXG</li>
       <li>VERB-Fin: hai, ten, fai, fixo, quere, considera, di, dá, vén, pasa</li>
       <li>VERB-Part: debido, recibida, baseado, dirixida, elaborado, elixido, afectado, apresentado, chamado, considerado</li>
     </ul>
@@ -519,7 +518,7 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
 <ul>
   <li>Card
     <ul>
-      <li>NUM: catro, dous, tres, un, dúas, cinco, dez, 1990, 25, 36</li>
+      <li>NUM: catro, dous, tres, un, dúas, cinco, dez, 1990, 21, 25</li>
     </ul>
   </li>
 </ul>
@@ -665,10 +664,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (339)</li>
+      <li>VERB-Fin--NOUN (381)</li>
       <li>VERB-Fin--NOUN-ADP(arredor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
-      <li>VERB-Fin--PRON (285)</li>
+      <li>VERB-Fin--PRON (286)</li>
       <li>VERB-Fin--PRON-ADP(con) (1)</li>
       <li>VERB-Fin--PRON-ADP(en) (1)</li>
       <li>VERB-Fin--PRON-ADP(por) (1)</li>
@@ -677,12 +676,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (20)</li>
       <li>VERB-Ger--NOUN (7)</li>
       <li>VERB-Ger--PRON (5)</li>
-      <li>VERB-Inf--NOUN (33)</li>
+      <li>VERB-Inf--NOUN (36)</li>
       <li>VERB-Inf--PRON (30)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (15)</li>
+      <li>VERB-Part--NOUN (17)</li>
       <li>VERB-Part--PRON (10)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -692,7 +691,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (496)</li>
+      <li>VERB-Fin--NOUN (505)</li>
       <li>VERB-Fin--NOUN-ADP(a) (7)</li>
       <li>VERB-Fin--NOUN-ADP(arredor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
@@ -706,7 +705,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN-ADP(a) (1)</li>
       <li>VERB-Ger--PRON (3)</li>
       <li>VERB-Ger--PRON-Acc (4)</li>
-      <li>VERB-Inf--NOUN (283)</li>
+      <li>VERB-Inf--NOUN (286)</li>
       <li>VERB-Inf--NOUN-ADP(a) (1)</li>
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--PRON (34)</li>
@@ -723,8 +722,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-ADP(a) (20)</li>
-      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (28)</li>
+      <li>VERB-Fin--NOUN-ADP(para) (1)</li>
+      <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-ADP(a) (5)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Dat (46)</li>
@@ -745,5 +746,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 4 relation subtypes: <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

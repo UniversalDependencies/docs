@@ -25,10 +25,10 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 6 3 csubj:outer	color:blue
 1	Cum	cum	SCONJ	cs	PronType=Rel	6	mark	_	_
 2	ergo	ergo	ADV	co	AdvType=Loc	16	discourse	_	_
-3	scindere	scindo	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	6	csubj:outer	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+3	scindere	scindo	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	6	csubj:outer	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	Imperium	imperium	NOUN	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|NameType=Com|Number=Sing|Proper=Yes	3	obj	_	_
 5	esset	sum	AUX	va5cis3	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
-6	destruere	destruo	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	16	advcl	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	destruere	destruo	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	16	advcl	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	ipsum	ipse	DET	ddesna	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	Pu	_	9	punct	_	_
 9	consistente	consisto	VERB	va3ppsnb	Aspect=Imp|Case=Abl|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	6	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Praesens
@@ -44,7 +44,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 19	Imperii	imperium	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|NameType=Com|Number=Sing|Proper=Yes	20	nmod	_	_
 20	auctoritate	auctoritas	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	21	obl:arg	_	_
 21	fungenti	fungor	VERB	vd3ppsmd	Aspect=Imp|Case=Dat|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	25	obl:arg	_	TraditionalMood=Participium|TraditionalTense=Praesens
-22	scindere	scindo	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	25	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+22	scindere	scindo	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	25	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 23	Imperium	imperium	NOUN	sns2a	Case=Acc|Gender=Neut|InflClass=IndEurO|NameType=Com|Number=Sing|Proper=Yes	22	obj	_	_
 24	non	non	PART	r	Polarity=Neg	25	advmod:neg	_	_
 25	licet	licet	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	csubj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens

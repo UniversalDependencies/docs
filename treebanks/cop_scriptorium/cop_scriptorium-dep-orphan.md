@@ -91,7 +91,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	5	nsubj	_	Entity=person)
 5	ϫⲓϩⲁⲡ	ϫⲓϩⲁⲡ	VERB	V	VerbForm=Fin	0	root	_	MSeg=ϫⲓ-ϩⲁⲡ
 6	ⲙⲛ	ⲙⲛ	ADP	PREP	_	8	case	_	_
-7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	Entity=(person
+7	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	Entity=(person
 8	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	5	obl	_	Entity=person)
 9	.	.	PUNCT	PUNCT	_	5	punct	_	_
 10	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	11	cc	_	_

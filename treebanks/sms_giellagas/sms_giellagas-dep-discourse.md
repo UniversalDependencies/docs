@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-67 nodes (2%) are attached to their parents as `discourse`.
+69 nodes (2%) are attached to their parents as `discourse`.
 
-58 instances of `discourse` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.11940298507463.
+60 instances of `discourse` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.08695652173913.
 
-The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (45; 67% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (3; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (45; 65% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (4; 6% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (3; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,21 +58,26 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 discourse	color:blue
-1	–	–	PUNCT	PUNCT	_	4	punct	_	_
-2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
-3	A	a	INTJ	Interj	_	4	discourse	_	_
-4	heäppaž	heävaš	NOUN	N	Case=Acc|Number=Sing	0	root	_	GTtags=Sg,Acc|SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	4	punct	_	_
-6	muʹnne	mon	PRON	Pron	Case=Ill|Number=Sing|Person=1|PronType=Prs	7	obl	_	GTtags=Pers,Sg1,Ill
-7	õõlǥči	õlggâd	VERB	V	Mood=Cnd|Number=Sing|Person=3	4	conj	_	GTtags=Cond,Sg3
-8	heävaš	heävaš	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
-10	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 discourse	color:blue
+1	”	”	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+2	Äʹn	äʹn	PART	Pcle	_	5	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	äʹn	äʹn	PART	Pcle	_	5	discourse	_	_
+5	äjjan	äjjned	VERB	V	Mood=Imp|Number=Sing|Person=2	0	root	_	GTtags=Mood=Imp,Number=Sing,Person=2
+6	äʹrbbaaušu	äʹrbbähšš	NOUN	N	Case=Acc|Derivation=Dimin|Number=Sing	5	obj	_	GTtags=Der/Dimin,Sg,Acc
+7	ko	ko	SCONJ	CS	_	8	mark	_	_
+8	viiǯǯžem	viǯǯâd	VERB	V	Mood=Pot|Number=Sing|Person=1	5	advcl:tcl	_	SpaceAfter=No
+9	”	”	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+10	,	,	PUNCT	PUNCT	_	12	punct	_	_
+11	de	de	ADV	Adv	_	12	advmod	_	_
+12	vuäǯǯ	vuäǯǯad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	GTtags=Mood=Ind,Number=Sing,Person=3,Tense=Pres
+13	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	GTtags=Case=Nom,Number=Sing,Person=3,PronType=Prs
+14	reäiʹj	reäiʹǧǧ	NOUN	N	Case=Acc|Number=Sing	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

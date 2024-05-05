@@ -60,7 +60,7 @@ The following 12 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 2	idem	idem	DET	dpnsa	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	1	det	_	_
 3	in	in	ADP	e	_	4	case	_	_
 4	versibus	uersus	NOUN	smp4b	Case=Abl|Gender=Masc|InflClass=IndEurU|Number=Plur	6	obl	_	_
-5	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	6	aux:pass	_	TraditionalTense=Praesens
+5	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	6	aux:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	servandum	seruo	VERB	vp1gvsna	Aspect=Prosp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	xcomp	_	TraditionalMood=Gerundivum
 7	astruimus	adstruo	VERB	va3ipp1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 8	.	.	PUNCT	Pu	_	7	punct	_	_

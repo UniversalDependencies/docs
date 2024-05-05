@@ -31,9 +31,9 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (691; 99%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (695; 99%),
 <tt>NUM --[<tt><a href="cs_pdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (440; 100%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (18; 95%),
 <tt>NUM --[<tt><a href="cs_pdt-dep-dep.html">dep</a></tt>]--> NUM</tt> (16; 94%),
-<tt>NUM --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (11; 100%).
+<tt>NUM --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (11; 100%),
+<tt>NUM --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (10; 91%).
 

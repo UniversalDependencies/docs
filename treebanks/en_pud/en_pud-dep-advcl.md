@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-PUD: Relations: `advcl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advcl`: <tt><a href="en_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
 293 nodes (1%) are attached to their parents as `advcl`.
 
@@ -71,7 +72,7 @@ The following 18 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	1	1	NUM	CD	NumForm=Digit|NumType=Card	2	nummod	2:nummod	_
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
 5	no	no	ADV	RB	Polarity=Neg	6	advmod	6:advmod	_
-6	longer	longer	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
+6	longer	long	ADV	RBR	Degree=Cmp	9	advmod	9:advmod	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 8	old	old	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	one	one	NOUN	NN	Number=Sing	14	advcl	14:advcl:because	SpaceAfter=No

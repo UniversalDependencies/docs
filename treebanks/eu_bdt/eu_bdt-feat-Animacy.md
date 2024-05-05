@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
 13453 tokens (11%) have a non-empty value of `Animacy`.
-5798 types (24%) occur at least once with a non-empty value of `Animacy`.
+5797 types (24%) occur at least once with a non-empty value of `Animacy`.
 2099 lemmas (19%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 7 part-of-speech tags: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (12622; 10% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> (715; 1% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (95; 0% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="eu_bdt-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADP` and `Animacy` co-occurre
 
 `ADP` tokens may have the following values of `Animacy`:
 
-* `Anim` (83; 12% of non-empty `Animacy`): <em>arteko, arabera, artean, inguru, aurrean, aurka, bezala, buruz, gisa, kontra</em>
+* `Anim` (83; 12% of non-empty `Animacy`): <em>arteko, arabera, artean, inguru, aurrean, aurka, bezala, batera, buruz, gisa</em>
 * `Inan` (632; 88% of non-empty `Animacy`): <em>gabe, inguruan, bezala, arabera, artean, aurrean, barruan, gora, arte, aurka</em>
 * `EMPTY` (1160): <em>artean, arabera, aurka, arteko, arte, kontra, bezala, aurrean, aurkako, inguruan</em>
 

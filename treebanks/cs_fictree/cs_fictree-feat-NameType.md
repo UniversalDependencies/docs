@@ -33,7 +33,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> PROPN</tt> (38; 84%),
-<tt>PROPN --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (3; 75%),
+<tt>PROPN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> PROPN</tt> (39; 85%),
+<tt>PROPN --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (2; 67%),
 <tt>PROPN --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> PROPN</tt> (1; 100%).
 

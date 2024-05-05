@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-ADV.ht
 
 ### `ADV`
 
-2 <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `AdvType`.
+2 <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 `ADV` tokens may have the following values of `AdvType`:
 

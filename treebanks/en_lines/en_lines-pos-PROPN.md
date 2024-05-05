@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>Office</em> (<tt><a href="en_lines-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.015257 (the average of all parts of speech is 1.241418).
+The form / lemma ratio of `PROPN` is 1.015257 (the average of all parts of speech is 1.240588).
 
 The 1st highest number of forms (3) was observed with the lemma “Bayley”: <em>Bayley, Bayleys, Bayleys'</em>.
 

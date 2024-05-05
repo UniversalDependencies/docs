@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="pt_pud-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.888889 (the average of all parts of speech is 1.570742).
+The form / lemma ratio of `AUX` is 12.888889 (the average of all parts of speech is 1.570488).
 
 The 1st highest number of forms (87) was observed with the lemma “_”: <em>Estávamos, Fora, Posso, chamado, começado, começar, consideradas, considerado, considerados, continuar, continuava, costumava, declarado, declarar, deixada, deixado, deixando, deveria, deviam, entregaria, era, eram, estar, estarem, estava, estavam, estivesse, estivessem, estou, ficando, ficar, ficaria, foi, for, foram, fosse, fossem, haviam, ir, iremos, iria, iriam, irão, manter, morrer, nomeada, parar, parecer, passar, passei, pedir, poderia, poderiam, poderão, podia, possam, possamos, proclamado, proteger, pudesse, pudessem, seja, sendo, ser, serem, seria, seriam, serão, sinto, tendo, tenha, tenham, tenho, ter, terem, teria, teriam, tinha, tinham, tornado, tornando, tornar, tornaria, trabalhado, vir, voltar, É</em>.
 

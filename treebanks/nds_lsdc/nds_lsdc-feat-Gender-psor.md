@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-DET.ht
 
 ### `DET`
 
-17 <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
+17 <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
 The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="nds_lsdc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="nds_lsdc-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (17; 100%), <tt><a href="nds_lsdc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15; 88%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 82%), <tt><a href="nds_lsdc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9; 53%).
 

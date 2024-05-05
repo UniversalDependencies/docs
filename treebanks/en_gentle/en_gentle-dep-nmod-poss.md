@@ -65,13 +65,13 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 7 5 nmod:poss	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Discourse=joint-other_m:36->35:1:_|Entity=(31-organization-giv:act-cf1*-2-coref-United_States_District_Court_for_the_Northern_District_of_Texas
 2	court	court	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	Entity=31)
-3	ruled	rule	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Cxn=Resultative
+3	ruled	rule	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Cxn=Resultative|MSeg=rul-ed
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(13-event-giv:inact-cf2-4-coref(22-person-giv:inact-cf3-2-coref
 5	Does	Doe	PROPN	NNPS	Number=Plur	7	nmod:poss	7:nmod:poss	_
 6	'	's	PART	POS	_	5	case	5:case	Entity=22)
 7	complaint	complaint	NOUN	NN	Number=Sing	3	obj	3:obj|9:nsubj:xsubj	Entity=13)|MSeg=complain-t
 8	not	not	PART	RB	Polarity=Neg	9	advmod	9:advmod	_
-9	justiciable	justiciable	ADJ	JJ	Degree=Pos	3	xcomp	3:xcomp	SpaceAfter=No
+9	justiciable	justiciable	ADJ	JJ	Degree=Pos	3	xcomp	3:xcomp	MSeg=justic-i-able|SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~

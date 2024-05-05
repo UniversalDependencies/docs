@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `compound`
 
 This relation is universal.
+There are 1 language-specific subtypes of `compound`: <tt><a href="kpv_ikdp-dep-compound-nn.html">compound:nn</a></tt>.
 
 9 nodes (0%) are attached to their parents as `compound`.
 

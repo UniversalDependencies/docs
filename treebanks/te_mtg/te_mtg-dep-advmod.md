@@ -22,11 +22,11 @@ The following 5 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 advmod	color:blue
-1	మనం	_	PRON	PRON	_	4	nsubj	_	Translit=manaṁ|LTranslit=_
-2	ఎందుకు	_	ADV	ADV	_	4	advmod	_	Translit=èṁduku|LTranslit=_
-3	అన్నం	_	NOUN	NOUN	_	4	obj	_	Translit=annaṁ|LTranslit=_
-4	తింటాం	_	VERB	VERB	_	0	root	_	Translit=tiṁṭāṁ|LTranslit=_
-5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
+1	మనం	_	PRON	PRON	_	4	nsubj	_	Translit=manaṁ
+2	ఎందుకు	_	ADV	ADV	_	4	advmod	_	Translit=eṁduku
+3	అన్నం	_	NOUN	NOUN	_	4	obj	_	Translit=annaṁ
+4	తింటాం	_	VERB	VERB	_	0	root	_	Translit=tiṁṭāṁ
+5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?
 
 ~~~
 
@@ -37,10 +37,10 @@ The following 5 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 advmod	color:blue
-1	ఎప్పుడూ	_	ADV	ADV	_	3	advmod	_	Translit=èppuḍū|LTranslit=_
-2	షికారుకు	_	NOUN	NOUN	_	3	obl	_	Translit=ṣikāruku|LTranslit=_
-3	వెళ్ళను	_	NOUN	NOUN	_	0	root	_	Translit=vèḷḷanu|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
+1	ఎప్పుడూ	_	ADV	ADV	_	3	advmod	_	Translit=eppuḍū
+2	షికారుకు	_	NOUN	NOUN	_	3	obl	_	Translit=ṣikāruku
+3	వెళ్ళను	_	NOUN	NOUN	_	0	root	_	Translit=veḷḷanu
+4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.
 
 ~~~
 
@@ -51,11 +51,11 @@ The following 5 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	మీరు	_	PRON	PRON	_	4	nsubj	_	Translit=mīru|LTranslit=_
-2	చాలా	_	ADV	ADV	_	3	advmod	_	Translit=cālā|LTranslit=_
-3	తొందరగా	_	ADV	ADV	_	4	advmod	_	Translit=tòṁdaragā|LTranslit=_
-4	మాట్లాడతారు	_	VERB	VERB	_	0	root	_	Translit=māṭlāḍatāru|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	మీరు	_	PRON	PRON	_	4	nsubj	_	Translit=mīru
+2	చాలా	_	ADV	ADV	_	3	advmod	_	Translit=cālā
+3	తొందరగా	_	ADV	ADV	_	4	advmod	_	Translit=toṁdaragā
+4	మాట్లాడతారు	_	VERB	VERB	_	0	root	_	Translit=māṭlāḍatāru
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 

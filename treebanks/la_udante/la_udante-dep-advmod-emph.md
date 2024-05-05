@@ -69,7 +69,7 @@ The following 22 pairs of parts of speech are connected with `advmod:emph`: <tt>
 9	dico	dico	VERB	va3ips1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 10	quod	quod	SCONJ	cs	PronType=Rel	16	mark	_	_
 11	aquam	aqua	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	13	nsubj	_	_
-12	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	13	cop	_	TraditionalTense=Praesens
+12	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	13	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 13	gibbosam	gibbosus	ADJ	afs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	16	csubj	_	_
 14	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 15	etiam	etiam	ADV	co	Compound=Yes	16	advmod:emph	_	_

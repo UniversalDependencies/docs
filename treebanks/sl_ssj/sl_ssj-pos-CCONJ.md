@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="sl_ssj-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.130435 (the average of all parts of speech is 1.935546).
+The form / lemma ratio of `CCONJ` is 1.130435 (the average of all parts of speech is 1.932008).
 
 The 1st highest number of forms (2) was observed with the lemma “ali”: <em>al, ali</em>.
 
@@ -70,13 +70,13 @@ The 3rd highest number of forms (2) was observed with the lemma “tako”: <em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (8918; 79% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (1858; 17% instances), <tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt> (206; 2% instances), <tt><a href="sl_ssj-dep-cc-preconj.html">cc:preconj</a></tt> (108; 1% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (88; 1% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (27; 0% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="sl_ssj-dep-discourse.html">discourse</a></tt> (5; 0% instances), <tt><a href="sl_ssj-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="sl_ssj-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-obl.html">obl</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="sl_ssj-dep-cc.html">cc</a></tt> (8885; 79% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (1892; 17% instances), <tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt> (208; 2% instances), <tt><a href="sl_ssj-dep-cc-preconj.html">cc:preconj</a></tt> (108; 1% instances), <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (86; 1% instances), <tt><a href="sl_ssj-dep-mark.html">mark</a></tt> (27; 0% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (19; 0% instances), <tt><a href="sl_ssj-dep-discourse.html">discourse</a></tt> (4; 0% instances), <tt><a href="sl_ssj-dep-dep.html">dep</a></tt> (3; 0% instances), <tt><a href="sl_ssj-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="sl_ssj-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="sl_ssj-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (4684; 42% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (3828; 34% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1562; 14% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (465; 4% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (205; 2% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (127; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (110; 1% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (89; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (72; 1% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (55; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (22; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances),  (2; 0% instances)
+Parents of `CCONJ` nodes belong to 16 different parts of speech: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (4686; 42% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (3826; 34% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (1562; 14% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (456; 4% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (202; 2% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (127; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (109; 1% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (90; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (72; 1% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (54; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt> (33; 0% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (2; 0% instances),  (2; 0% instances)
 
-11037 (98%) `CCONJ` nodes are leaves.
+11036 (98%) `CCONJ` nodes are leaves.
 
-181 (2%) `CCONJ` nodes have one child.
+182 (2%) `CCONJ` nodes have one child.
 
 15 (0%) `CCONJ` nodes have two children.
 
@@ -84,7 +84,7 @@ Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="sl
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (185; 83% instances), <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (31; 14% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="sl_ssj-dep-case.html">case</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt> (185; 82% instances), <tt><a href="sl_ssj-dep-punct.html">punct</a></tt> (32; 14% instances), <tt><a href="sl_ssj-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="sl_ssj-dep-case.html">case</a></tt> (1; 0% instances)
 
-Children of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (73; 33% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (55; 25% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (31; 14% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (29; 13% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (19; 8% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (16; 7% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Children of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="sl_ssj-pos-SCONJ.html">SCONJ</a></tt> (73; 32% instances), <tt><a href="sl_ssj-pos-CCONJ.html">CCONJ</a></tt> (54; 24% instances), <tt><a href="sl_ssj-pos-PUNCT.html">PUNCT</a></tt> (32; 14% instances), <tt><a href="sl_ssj-pos-PART.html">PART</a></tt> (30; 13% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (19; 8% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (16; 7% instances), <tt><a href="sl_ssj-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 

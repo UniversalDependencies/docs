@@ -71,7 +71,7 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	These	these	PRON	DT	Number=Plur|PronType=Dem	5	nsubj	5:nsubj	_
+1	These	this	PRON	DT	Number=Plur|PronType=Dem	5	nsubj	5:nsubj	_
 2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
 4	very	very	ADV	RB	_	5	advmod	5:advmod	_

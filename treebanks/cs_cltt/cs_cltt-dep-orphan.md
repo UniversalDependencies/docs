@@ -8,30 +8,39 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `orphan`.
+15 nodes (0%) are attached to their parents as `orphan`.
 
-21 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.61904761904762.
+15 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.46666666666667.
 
-The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11; 52% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (6; 40% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (1; 7% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt>-<tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 orphan	color:blue
-1	Rezervní	rezervní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	2	amod	2:amod	_
-2	fondy	fond	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	0	root	0:root	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	5	punct	2.1:punct	_
-4	nedělitelný	dělitelný	ADJ	AAIS1----1N----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Neg	5	amod	5:amod	_
-5	fond	fond	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	conj	2.1:dep	_
-6	a	a	CCONJ	J^-------------	_	5	cc	2.1:cc	LId=a-1
-7	ostatní	ostatní	ADJ	AAIP1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	8	amod	8:amod	_
-8	fondy	fond	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	5	orphan	2.1:dep	_
-9	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	10	case	10:case	LId=z-1
-10	zisku	zisk	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	8	nmod	8:nmod:z:gen	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 17 orphan	color:blue
+1	(5)	(5)	PUNCT	Z:-------------	_	4	punct	4:punct	_
+2	Účetní	účetní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	amod	3:amod	LId=účetní-1
+3	jednotka	jednotka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj|13:nsubj	_
+4	účtuje	účtovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	LId=o-1
+6	odloženém	odložený	ADJ	AAIS6----1A----	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	7	amod	7:amod	_
+7	závazku	závazek	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	obl:arg	4:obl:arg:o:loc	_
+8	vždy	vždy	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos|PronType=Tot	4	advmod	4:advmod	_
+9	a	a	CCONJ	J^-------------	_	13	cc	13.1:cc	LId=a-1
+10	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	13	case	13:case	LId=o-1
+11	odložené	odložený	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	13:amod	_
+12	daňové	daňový	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	amod	13:amod	_
+13	pohledávce	pohledávka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	13.1:dep	_
+14	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	17	case	17:case	LId=s-1
+15	ohledem	ohled	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	14	fixed	14:fixed	_
+16	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	14	fixed	14:fixed	LId=na-1
+17	zásadu	zásada	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	13	orphan	13.1:dep	_
+18	opatrnosti	opatrnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	17	nmod	17:nmod:gen	SpaceAfter=No
+19	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 
@@ -50,9 +59,9 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	průběžně	průběžně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	5:advmod	_
 7	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	5:obl:ins	_
 8	A	a	CCONJ	J^-------------	_	7	nmod	7:nmod	LId=a-1
-9	nebo	nebo	CCONJ	J^-------------	_	10	cc	8.1:cc	_
-10	periodicky	periodicky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	conj	8.1:advmod	_
-11	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	10	orphan	8.1:dep	_
+9	nebo	nebo	CCONJ	J^-------------	_	10	cc	10.1:cc	_
+10	periodicky	periodicky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	conj	10.1:advmod	_
+11	způsobem	způsob	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	10	orphan	10.1:dep	_
 12	B.	B.	NOUN	NNNXX-----A----	Gender=Neut|Polarity=Pos	11	nmod	11:nmod	_
 13	U	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	14:case	LId=u-1
 14	způsobu	způsob	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	21	obl	21:obl:u:gen	_
@@ -95,15 +104,15 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	během	během	ADP	RR--2----------	AdpType=Prep|Case=Gen	13	case	13:case	_
 12	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	13	amod	13:amod	LId=účetní-1
 13	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	10	nmod	10:nmod:během:gen	_
-14	a	a	CCONJ	J^-------------	_	16	cc	13.1:cc	LId=a-1
+14	a	a	CCONJ	J^-------------	_	16	cc	16.1:cc	LId=a-1
 15	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	16	case	16:case	LId=z-1
-16	toho	ten	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	conj	13.1:dep	_
-17	členů	člen	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	16	orphan	13.1:dep	_
+16	toho	ten	DET	PDZS2----------	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	conj	16.1:dep	_
+17	členů	člen	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	16	orphan	16.1:dep	_
 18	řídících	řídící	ADJ	AGMP2-----A----	Animacy=Anim|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	19	amod	19:amod	_
 19	orgánů	orgán	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	17	nmod	17:nmod:gen	SpaceAfter=No
 20	,	,	PUNCT	Z:-------------	_	22	punct	22:punct	_
 21	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	22	case	22:case	LId=s-1
-22	uvedením	uvedení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	16	orphan	13.1:dep	_
+22	uvedením	uvedení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	16	orphan	16.1:dep	_
 23	výše	vysoko	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	22	advmod	22:advmod	LId=vysoko-1
 24	osobních	osobní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	25	amod	25:amod	_
 25	nákladů	náklad	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	23	nmod	23:nmod:gen	SpaceAfter=No

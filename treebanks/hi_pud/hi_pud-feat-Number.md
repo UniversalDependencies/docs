@@ -13,14 +13,14 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 12212 tokens (51%) have a non-empty value of `Number`.
 3746 types (73%) occur at least once with a non-empty value of `Number`.
-1 lemmas (0) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (5440; 23% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1646; 7% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1343; 6% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1332; 6% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (931; 4% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (867; 4% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (470; 2% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (183; 1% instances).
+3164 lemmas (72%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (5440; 23% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1654; 7% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1343; 6% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1324; 6% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (931; 4% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (867; 4% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (470; 2% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (183; 1% instances).
 
 ### `NOUN`
 
 5440 <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4565; 84%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3343; 61%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2756; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3343; 61%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2756; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
@@ -28,23 +28,65 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 * `Sing` (4651; 85% of non-empty `Number`): रूप, वर्ष, समय, क्षेत्र, शुरू, काम, साल, तरह, बार, युद्ध
 * `EMPTY` (157): वहां, अभी, पहले, बाद, अब, आगे, आज, यहां, दूर, पीछे
 
-### `AUX`
+<table>
+  <tr><th>Paradigm <i>वर्ष</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>वर्ष</td><td>वर्षों</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>वर्ष</td><td></td></tr>
+</table>
 
-1646 <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
+### `VERB`
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1603; 97%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1192; 72%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (829; 50%).
+1654 <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Number`.
 
-`AUX` tokens may have the following values of `Number`:
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1636; 99%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1572; 95%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1193; 72%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1133; 69%), <tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (886; 54%).
 
-* `Plur` (341; 21% of non-empty `Number`): हैं, थे, गए, रहे, सकते, थीं, जाते, होते, हुए, दिए
-* `Sing` (1305; 79% of non-empty `Number`): है, था, गया, गयी, दिया, थी, हुए, जाता, सकता, रहा
-* `EMPTY` (130): हो, जा, कर, जाने, होने, करने, देने, पड़, हैं, अपुलियाई
+`VERB` tokens may have the following values of `Number`:
+
+* `Plur` (250; 15% of non-empty `Number`): हैं, करते, होते, थे, किए, हुए, दिए, करेंगे, बताते, करें
+* `Sing` (1404; 85% of non-empty `Number`): किया, है, दिया, कहा, की, हुए, था, हुआ, लिया, थी
+* `EMPTY` (814): करने, कर, हो, होने, करना, बन, रहने, देने, बनाने, रखने
+
+<table>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td>करेंगे</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>करें</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>करता</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>करूंगा</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करता, करना, करे</td><td>करते</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>करते</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>करेगा</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>करता, करते</td><td>करें</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करती, करत</td><td>करती</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>करती</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>करेगी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>करें</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>करें</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td>करते</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td>करेंगे</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>करते</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>करते</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td>करेंगे</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>करें</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>करे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>किया, किए</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>किया, की</td><td>किए</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>की</td><td>की</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>की, कीं</td><td>कीं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>किया</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>किए</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>किए</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>किया, करते, किए, कर, करने, कियकिया</td><td>किए, करते, किया</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td>करने</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>की, करनी</td><td>की</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td>करनी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करते</td><td></td></tr>
+</table>
 
 ### `PROPN`
 
 1343 <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1149; 86%), <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (746; 56%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (714; 53%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1149; 86%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (714; 53%).
 
 `PROPN` tokens may have the following values of `Number`:
 
@@ -52,17 +94,44 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 * `Sing` (1339; 100% of non-empty `Number`): अमेरिका, चीन, ब्रिटेन, ट्रम्प, फ्रांस, यूरोप, इटली, मिस्र, रूस, हांगकांग
 * `EMPTY` (15): VW, 2C, Aoun, Emicro, ExxonMobil, GEMA, GOP, Hariri, Huawei, IRENA
 
-### `VERB`
+<table>
+  <tr><th>Paradigm <i>पाल</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td>पालों</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>पाल</td><td></td></tr>
+</table>
 
-1332 <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (920) occur only with one value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1315; 99%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1264; 95%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (941; 71%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (933; 70%), <tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (674; 51%).
+### `AUX`
 
-`VERB` tokens may have the following values of `Number`:
+1324 <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Number`.
 
-* `Plur` (205; 15% of non-empty `Number`): हैं, करते, थे, किए, होते, करें, करेंगे, हुए, कहते, दिए
-* `Sing` (1127; 85% of non-empty `Number`): किया, है, कहा, की, था, थी, हुआ, हुई, करता, दिया
-* `EMPTY` (726): करने, कर, हो, होने, करना, रहने, बन, बनाने, रखने, देने
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1295; 98%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (940; 71%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (679; 51%), <tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (677; 51%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (296; 22% of non-empty `Number`): हैं, थे, गए, रहे, सकते, थीं, जाते, सकती, है, गयी
+* `Sing` (1028; 78% of non-empty `Number`): है, था, गया, गयी, थी, जाता, सकता, रहा, हैं, रही
+* `EMPTY` (42): जा, जाने, हैं, गए, थे, पड़, पाने, रहने, सकते, सके
+
+<table>
+  <tr><th>Paradigm <i>है</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>हैं</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>है</td><td>हैं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>है</td><td>हैं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>हूं</td><td>हैं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>है</td><td>हैं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>हूं</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>हैं</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>है, हैं</td><td>हैं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>हैं</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>है, हूं, हैं</td><td>हैं, है</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>है, हैं</td><td>हैं, है</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>हैं</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>हैं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>हैं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>हैं</td></tr>
+</table>
 
 ### `PRON`
 
@@ -76,6 +145,37 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 * `Sing` (788; 85% of non-empty `Number`): यह, अपने, वह, इसके, उसके, उसने, अपनी, उसे, इसे, इसका
 * `EMPTY` (197): जो, उन्होंने, क्या, जहां, उनके, खुद, क्यों, वे, उन्हें, कहां
 
+<table>
+  <tr><th>Paradigm <i>वह</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt>_</tt></td><td>उसके, उससे, उसमें</td><td>उनमें, उनके, वे</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसके</td><td>उनके</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसके, उनके</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>उसे, उसने, उसके, उससे</td><td>उन्होंने, उनके, उन्हें, वे</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>उन्हें</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसके</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसकी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>उसे, उसके, उसने</td><td>उन्हें, उन्होंने, वे</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>उन्हें</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसके, उसकी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसके</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>उसने, उसे, उसके, उससे</td><td>उन्हें, उनके, उन्होंने, वे</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>उन्हें</td><td>उन्हें</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसके</td><td>उनकी, उनके</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसका, उसके</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसका, उसके</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>वह, उसका, उनका, वे, वो</td><td>वे, उनका</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उनकी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसकी, उनकी</td><td>उनकी</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसकी, उनकी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>उसकी, वह, उनकी, वो</td><td>उनकी</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td>उनकी</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उनकी</td><td>उनकी</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसके</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>वह, उसका, उसके</td><td>वे, उनका, वह</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>उसका</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td>उसकी</td><td></td></tr>
+</table>
+
 ### `ADP`
 
 867 <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> tokens (18% of all `ADP` tokens) have a non-empty value of `Number`.
@@ -86,7 +186,13 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 * `Plur` (108; 12% of non-empty `Number`): के, वाले, वालों
 * `Sing` (759; 88% of non-empty `Number`): के, का, वाले, वाली, वाला, संबंधी, योग्य, स्थित, आधारित, केन्द्रित
-* `EMPTY` (3982): में, के, की, से, को, ने, पर, लिए, तक, साथ
+* `EMPTY` (3980): में, के, की, से, को, ने, पर, लिए, तक, साथ
+
+<table>
+  <tr><th>Paradigm <i>का</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td>के</td><td>के</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>के, का</td><td>के</td></tr>
+</table>
 
 ### `DET`
 
@@ -100,6 +206,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 * `Sing` (434; 92% of non-empty `Number`): एक, इस, यह, उस, ऐसा, द, उसी, ऐसे, ऐसी, थोड़ा
 * `EMPTY` (406): कई, बहुत, ज्यादा, लगभग, कम, केवल, कुछ, किसी, कोई, हर
 
+<table>
+  <tr><th>Paradigm <i>यह</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td>इस, यह, इसी, ये, इसे, यही</td><td>इन, ये</td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `DET`. 91% lemmas (20) occur only with one value of `Number`.
+
 ### `ADJ`
 
 183 <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `Number`.
@@ -112,17 +225,25 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Sing` (169; 92% of non-empty `Number`): नये, पहले, पिछले, नया, पूरा, बड़ा, छोटे, तीसरे, दूसरे, पुराने
 * `EMPTY` (1812): सबसे, शामिल, प्राप्त, स्थापित, अन्य, अमेरिकी, अलग, महत्वपूर्ण, विशेष, कम
 
+<table>
+  <tr><th>Paradigm <i>नया</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>नये</td><td>नये</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>नया</td><td>नये</td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `ADJ`. 93% lemmas (55) occur only with one value of `Number`.
+
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="hi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (614; 53%),
-<tt>VERB --[<tt><a href="hi_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (591; 57%),
-<tt>VERB --[<tt><a href="hi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (569; 52%),
+<tt>VERB --[<tt><a href="hi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (694; 57%),
+<tt>VERB --[<tt><a href="hi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (662; 55%),
+<tt>VERB --[<tt><a href="hi_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (609; 63%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (540; 70%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-det.html">det</a></tt>]--> DET</tt> (415; 59%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (335; 85%),
+<tt>NOUN --[<tt><a href="hi_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (336; 85%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (243; 77%),
-<tt>PROPN --[<tt><a href="hi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (206; 100%),
-<tt>VERB --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (190; 56%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (177; 79%).
+<tt>VERB --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (224; 61%),
+<tt>VERB --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (218; 59%),
+<tt>PROPN --[<tt><a href="hi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (206; 100%).
 

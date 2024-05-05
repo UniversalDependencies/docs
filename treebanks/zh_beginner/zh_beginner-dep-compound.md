@@ -27,8 +27,8 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 2	想	想	AUX	_	_	3	aux	_	SpaceAfter=No|Tone=3|Translit=xiǎng
 3	吃	吃	VERB	_	_	0	root	_	SpaceAfter=No|Tone=1|Translit=chī
 4	那个	那个	INTJ	_	_	7	reparandum	_	Grammar_Target=Yes|SpaceAfter=No|Tone=4_4|Translit=nà_gè
-5	⋯	⋯	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=⋯
-6	⋯	⋯	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=⋯
+5	⋯	⋯	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=⋯
+6	⋯	⋯	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=⋯
 7	那个	那个	INTJ	_	_	11	discourse	_	Grammar_Target=Yes|SpaceAfter=No|Tone=4_4|Translit=nà_gè
 8	⋯	⋯	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=⋯
 9	⋯	⋯	PUNCT	_	_	7	punct	_	SpaceAfter=No|Translit=⋯

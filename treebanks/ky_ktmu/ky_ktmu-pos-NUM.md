@@ -52,7 +52,7 @@ Examples: <em>млрд, миң, бир, эки, 4, 1, 5, млн, ,5, 13</em>
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 5 different relations: <tt><a href="ky_ktmu-dep-nummod.html">nummod</a></tt> (265; 63% instances), <tt><a href="ky_ktmu-dep-compound.html">compound</a></tt> (138; 33% instances), <tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt> (11; 3% instances), <tt><a href="ky_ktmu-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 5 different relations: <tt><a href="ky_ktmu-dep-nummod.html">nummod</a></tt> (265; 63% instances), <tt><a href="ky_ktmu-dep-compound.html">compound</a></tt> (138; 33% instances), <tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt> (11; 3% instances), <tt><a href="ky_ktmu-dep-nsubj.html">nsubj</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-dep-flat.html">flat</a></tt> (1; 0% instances)
 
 Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (250; 60% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (131; 31% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (18; 4% instances), <tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (13; 3% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ky_ktmu-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Abs`.
 
-758 tokens (8%) have a non-empty value of `Case`.
-411 types (22%) occur at least once with a non-empty value of `Case`.
-357 lemmas (27%) occur at least once with a non-empty value of `Case`.
-The feature is used with 2 part-of-speech tags: <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> (745; 7% instances), <tt><a href="azz_itml-pos-PRON.html">PRON</a></tt> (13; 0% instances).
+756 tokens (7%) have a non-empty value of `Case`.
+410 types (22%) occur at least once with a non-empty value of `Case`.
+356 lemmas (26%) occur at least once with a non-empty value of `Case`.
+The feature is used with 2 part-of-speech tags: <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> (743; 7% instances), <tt><a href="azz_itml-pos-PRON.html">PRON</a></tt> (13; 0% instances).
 
 ### `NOUN`
 
-745 <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Case`.
+743 <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="azz_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (745; 100%), <tt><a href="azz_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (745; 100%), <tt><a href="azz_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (745; 100%), <tt><a href="azz_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (744; 100%), <tt><a href="azz_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (744; 100%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="azz_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (743; 100%), <tt><a href="azz_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (743; 100%), <tt><a href="azz_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (743; 100%), <tt><a href="azz_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (742; 100%), <tt><a href="azz_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (742; 100%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abs` (745; 100% of non-empty `Case`): <em>taman, kajfentaj, kuoujtaj, kuouit, pajti, xiuit, milaj, tomakilit, at, pahti</em>
-* `EMPTY` (912): <em>itech, ika, iteyo, itakka, iuan, kal, ichokilo, iteyotsin, ixochio, marzo</em>
+* `Abs` (743; 100% of non-empty `Case`): <em>taman, kajfentaj, kuoujtaj, kuouit, pajti, xiuit, milaj, tomakilit, at, pahti</em>
+* `EMPTY` (914): <em>itech, ika, iteyo, itakka, iuan, kal, ichokilo, iteyotsin, ixochio, marzo</em>
 
-`Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (354) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (353) occur only with one value of `Case`.
 
 ### `PRON`
 

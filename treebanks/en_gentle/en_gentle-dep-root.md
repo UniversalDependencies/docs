@@ -35,7 +35,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:3->4:2:_|Entity=(3-abstract-new-cf1-2-sgl|XML=<hi rend:::"bold">
+1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:3->4:2:_|Entity=(3-abstract-new-cf1-2-sgl|MSeg=Alternat-ive|XML=<hi rend:::"bold">
 2	forms	form	NOUN	NNS	Number=Plur	0	root	0:root	Entity=3)|MSeg=form-s|XML=</hi>
 
 ~~~

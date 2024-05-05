@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>como</em> (<tt><a href="pt_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 4.000000 (the average of all parts of speech is 1.570742).
+The form / lemma ratio of `CCONJ` is 4.000000 (the average of all parts of speech is 1.570488).
 
 The 1st highest number of forms (8) was observed with the lemma “_”: <em>E, Entretanto, como, contudo, mas, ou, portanto, porém</em>.
 

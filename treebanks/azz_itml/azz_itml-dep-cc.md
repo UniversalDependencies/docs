@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 5 cc	color:blue
 1	Ne	ne	PRON	_	_	2	nsubj	2:nsubj	NormalizedForm=Ne
-2	nimoskalti	moskaltia	VERB	_	Movement=And|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	0:root	NormalizedForm=nimoskalti
+2	nimoskalti	moskaltia	VERB	_	Mood=Prp|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	0:root	NormalizedForm=nimoskalti
 3	ihuan	huan	NOUN	_	_	2	obl	2:obl	NormalizedForm=iwan
 4	nochanka	nochank	NOUN	_	_	3	nmod	3:nmod	NormalizedForm=nochanka
 5	huan	hhuan	CCONJ	_	_	2	cc	2:cc	NormalizedForm=wan

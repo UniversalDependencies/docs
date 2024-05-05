@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “pós”: <em>
 `PART` occurs with 3 feature-value pairs: `ExtPos=NOUN`, `Gender=Masc`, `Number=Sing`
 
 `PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1 tokens).
-Examples: <em>anti</em>
+The most frequent feature combination is `ExtPos=NOUN` (1 tokens).
+Examples: <em>pré</em>
 
 
 ## Relations

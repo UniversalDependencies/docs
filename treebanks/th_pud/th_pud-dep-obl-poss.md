@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `obl:poss`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obl:poss	color:blue
-1	เดนนีเวิร์ก	_	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dénníwéิrk
+1	เดนนีเวิร์ก	_	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No|Translit=dénníwéirk
 2	อยู่	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit='yú¹
 3	ใน	_	ADP	IN	_	4	case	_	SpaceAfter=No|Translit=nai
 4	ความครอบครอง	_	VERB	VV	_	2	obl	_	SpaceAfter=No|Translit=gʰwámgʰrɔːbgʰrɔːŋ

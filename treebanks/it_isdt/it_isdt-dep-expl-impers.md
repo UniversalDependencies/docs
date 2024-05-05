@@ -72,9 +72,9 @@ The following 4 pairs of parts of speech are connected with `expl:impers`: <tt><
 1	insomma	insomma	ADV	B	_	10	advmod	10:advmod	_
 2	che	che	SCONJ	CS	_	10	mark	10:mark	_
 3	d'	da	ADP	E	_	4	case	4:case	SpaceAfter=No
-4	ora	ora	ADV	B	_	10	advmod	10:advmod	_
-5	in	in	ADP	E	_	4	fixed	4:fixed	_
-6	avanti	avanti	NOUN	S	Gender=Masc	4	fixed	4:fixed	_
+4	ora	ora	ADV	B	_	10	obl	10:obl	_
+5	in	in	ADP	E	_	6	case	6:case	_
+6	avanti	avanti	ADV	B	_	10	obl	10:obl	_
 7	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj|20:nsubj	_
 8	se	se	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	10	expl	10:expl	_
 9	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	10:expl	_

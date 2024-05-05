@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (41; 100% of non-empty `Polarity`): <em>unpaid, non-empty, uncountable, unbroken, unclear, unsuspecting, Non-Tech, non-profit, non-sufficient, unable</em>
-* `EMPTY` (1205): <em>next, other, first, old, open, more, straight, chronic, right, such</em>
+* `EMPTY` (1201): <em>next, other, first, old, open, more, straight, chronic, right, such</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `Polarity`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (14; 100% of non-empty `Polarity`): <em>never, no, ungainly</em>
-* `EMPTY` (712): <em>then, just, so, here, also, thus, well, how, where, now</em>
+* `EMPTY` (711): <em>then, just, so, here, also, thus, well, how, where, now</em>
 
 ### `PRON`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 100% of non-empty `Polarity`): <em>nothing</em>
-* `EMPTY` (1178): <em>you, I, he, it, his, we, that, my, your, me</em>
+* `EMPTY` (1179): <em>you, I, he, it, his, we, that, my, your, me</em>
 
 ### `NOUN`
 
@@ -78,5 +78,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>NO</em>
-* `EMPTY` (3782): <em>x, week, T, project, S, school, y, mg, time, party</em>
+* `EMPTY` (3778): <em>x, week, T, project, S, school, y, mg, time, party</em>
 

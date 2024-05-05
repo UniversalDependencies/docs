@@ -55,9 +55,9 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Dem` (62; 32% of non-empty `PronType`): <em>_</em>
-* `Int` (100; 52% of non-empty `PronType`): <em>_</em>
-* `Rel` (29; 15% of non-empty `PronType`): <em>_</em>
-* `EMPTY` (920): <em>_</em>
+* `Int` (99; 52% of non-empty `PronType`): <em>_</em>
+* `Rel` (30; 16% of non-empty `PronType`): <em>_</em>
+* `EMPTY` (917): <em>_</em>
 
 ## Relations with Agreement in `PronType`
 

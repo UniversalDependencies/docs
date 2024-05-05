@@ -9,234 +9,229 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-25419 tokens (52%) have a non-empty value of `Case`.
-9121 types (79%) occur at least once with a non-empty value of `Case`.
-4372 lemmas (76%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (11121; 23% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (4239; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3467; 7% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2088; 4% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (2024; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1595; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (881; 2% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+49077 tokens (51%) have a non-empty value of `Case`.
+15959 types (79%) occur at least once with a non-empty value of `Case`.
+6977 lemmas (79%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (21520; 23% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (7788; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (7071; 7% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (4494; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4263; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2533; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1397; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (11; 0% instances).
 
 ### `NOUN`
 
-11121 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
+21520 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7296; 66%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5835; 52%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15053; 70%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11528; 54%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (2286; 21% of non-empty `Case`): <em>де[нь], день, верх, верха, денги, де(нь), руку, барана, землю, челобитную</em>
-* `Dat` (1010; 9% of non-empty `Case`): <em>государю, указу, людемъ, князю, кн[ѧ]зю, старостамъ, целованью, царю, богу, воеводамъ</em>
-* `Gen` (3694; 33% of non-empty `Case`): <em>весу, гривенок, воза, чети, государя, году, муки, баранов, людей, д(е)р(е)вни</em>
-* `Ins` (912; 8% of non-empty `Case`): <em>челом, челомъ, товарыщи, осминою, женою, товарыщы, товарищи, осмухи, шпагою, деревнями</em>
-* `Loc` (821; 7% of non-empty `Case`): <em>году, избѣ, деле, земли, рѣкѣ, сборѣ, дворе, дороге, приказѣ, землѣ</em>
-* `Nom` (2351; 21% of non-empty `Case`): <em>чети, государь, гривенки, полот(ь), роспис(ь), осос, холопъ, люди, богъ, князь</em>
-* `Voc` (47; 0% of non-empty `Case`): <em>княже, господи, де(р)жаво, господине, государю, дню, Імпера(т)рице, Боже, Гд҃рне, Гсдрю</em>
-* `EMPTY` (238): <em>г., х., л., об., де, алт., с., публ., д., полу<noindex><i>{л._273}</i></noindex>осминою</em>
+* `Acc` (4326; 20% of non-empty `Case`): <em>день, де[нь], верх, руку, денги, верха, грамоту, землю, людей, де(нь)</em>
+* `Dat` (2034; 9% of non-empty `Case`): <em>государю, князю, указу, царю, богу, людемъ, кн[ѧ]зю, людем, старостамъ, целованью</em>
+* `Gen` (6651; 31% of non-empty `Case`): <em>весу, чети, году, государя, гривенок, князя, воза, людей, денегъ, муки</em>
+* `Ins` (1863; 9% of non-empty `Case`): <em>товарыщи, челом, челомъ, осминою, братьею, деревнями, людми, женою, пожнями, товарищи</em>
+* `Loc` (1848; 9% of non-empty `Case`): <em>году, жеребью, избѣ, оборотѣ, дворе, мере, селѣ, деревне, земли, грамоте</em>
+* `Nom` (4614; 21% of non-empty `Case`): <em>государь, князь, чети, царь, гривенки, люди, богъ, полот(ь), сын, роспис(ь)</em>
+* `Voc` (184; 1% of non-empty `Case`): <em>господине, княже, царю, господи, де(р)жаво, Боже, государю, дню, отче, Імпера(т)рице</em>
+* `EMPTY` (259): <em>г., х., д., л., об., де, алт., с., п., публ.</em>
 
 <table>
-  <tr><th>Paradigm <i>князь</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>кнзь</em></td><td><em>кнзь</em></td><td><em>кнзю</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>князя, кн[ѧ]зѧ, кн҃зꙗ</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>князь, кнꙗз[ь], кнѧз[ь]</em></td><td></td><td><em>князю, кн[ѧ]зю</em></td><td><em>князя</em></td><td><em>княже</em></td><td><em>кн[ѧ]зѣ, князи, князѣ, КНЯЗЕ, кн[ѧ]зе, кн[ѧ]зи</em></td><td><em>кн[ѧ]зем, княземъ</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>кн[ѧ]зи, князи</em></td><td><em>кн[ѧ]зи</em></td><td><em>княземъ</em></td><td><em>князеи, князей</em></td><td></td><td></td><td><em>кн[ѧ]зи, князми</em></td></tr>
+  <tr><th>Paradigm <i>государь</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>гсдрь</em></td><td></td><td><em>гсдрю</em></td><td><em>гсдря, гсдрѧ</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>государя, гсдрѧ</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>государей</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>государь, гсдрь, г(о)с(у)д(а)рь</em></td><td></td><td><em>государю, гсдрю</em></td><td><em>государя, государа</em></td><td><em>государю</em></td><td><em>государе</em></td><td><em>государем, государемъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>государи, государы, государие</em></td><td></td><td><em>государемъ, государем</em></td><td><em>государей, государеи</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-4239 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
+7788 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3951; 93%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2910; 69%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2368; 56%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6995; 90%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (6936; 89%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5666; 73%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4377; 56%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (900; 21% of non-empty `Case`): <em>стрѣлецкіе, 27, 12, 22, 11, 18, 20, 30, Даурскую, государеву</em>
-* `Dat` (447; 11% of non-empty `Case`): <em>великому, великомꙋ, земскимъ, крестному, государеву, уѣзднымъ, посадскимъ, юръевъскому, крестъному, думному</em>
-* `Gen` (1445; 34% of non-empty `Case`): <em>великого, оржанои, 178-г(о), люцкои, великихъ, государева, ситнои, оржанова, 160-го, гречишных</em>
-* `Ins` (259; 6% of non-empty `Case`): <em>вытным, кунгурскимъ, провожатыми, божиею, великим, высокою, государевою, Суждальскою, Тверскими, денежною</em>
-* `Loc` (354; 8% of non-empty `Case`): <em>прошломъ, приказной, великом, нынѣшнемъ, прошлом, великомъ, 206, 205, новгородскомъ, 177-м</em>
-* `Nom` (834; 20% of non-empty `Case`): <em>медные, медная, великий, железная, великій, белевскои, велики, самъ, государевы, третеи</em>
-* `EMPTY` (56): <em>мощно, надобно, бл҃жени, больши, возможно, помен(ь)ши, прибылнѣе, ꙋдивителнѣе, 1, 147</em>
+* `Acc` (1555; 20% of non-empty `Case`): <em>23, стрѣлецкіе, 29, 12, 27, 1, 11, 18, 22, 20</em>
+* `Dat` (780; 10% of non-empty `Case`): <em>великому, великомꙋ, земскимъ, государеву, доброму, великои, крестному, уѣзднымъ, посадскимъ, юръевъскому</em>
+* `Gen` (2544; 33% of non-empty `Case`): <em>великого, оржанои, 178-г(о), великихъ, люцкои, государева, святых, ситнои, 205, оржанова</em>
+* `Ins` (432; 6% of non-empty `Case`): <em>вытным, великим, божиею, царскими, великимъ, медными, пьянымъ, божьею, голодною, кунгурскимъ</em>
+* `Loc` (722; 9% of non-empty `Case`): <em>приказной, прошломъ, великом, нынѣшнемъ, 205, прошлом, великомъ, Ивашкове, московском, 206</em>
+* `Nom` (1755; 23% of non-empty `Case`): <em>великии, великий, медные, великій, велики, медная, железная, золочены, белевскои, государевы</em>
+* `EMPTY` (124): <em>возможно, надобно, пригоже, болше, мощно, невозможно, болши, достойно, лутче, мочно</em>
 
 <table>
   <tr><th>Paradigm <i>великий</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>великого, великаго, великог[о], великѡг[о]</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>великий, великій, великии, Великиⸯ</em></td><td><em>Великии, Великий, Великій</em></td><td><em>великому, великомꙋ</em></td><td><em>великого, великаго, Великія</em></td><td><em>великом, великомъ, Велікомъ</em></td><td><em>великим</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>велики, великъ</em></td><td><em>великъ</em></td><td><em>велику</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>великии, великіе, велицыи</em></td><td></td><td><em>великимъ</em></td><td><em>великихъ, великих, великых</em></td><td></td><td><em>великим</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>великихъ</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>великии, великий, великій, великiй, великой, Великиⸯ</em></td><td><em>великий, великии, великой, Великій</em></td><td><em>великому, великомꙋ</em></td><td><em>великого, великаго, великог[о]</em></td><td><em>великом, великомъ, Велікомъ</em></td><td><em>великим, великимъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>велики, велик, великъ</em></td><td><em>великъ</em></td><td><em>велику</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>великии, великиие, великия, великіе, велицыи</em></td><td></td><td><em>великимъ, великим</em></td><td><em>великихъ, великих, великых</em></td><td><em>великих</em></td><td><em>великим, великими</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td><em>великии</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>велики</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>великаꙗ, великая</em></td><td><em>Великую</em></td><td></td><td><em>великія</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>великая, великаꙗ</em></td><td><em>великую</em></td><td><em>великои, великой</em></td><td><em>великія, великия, великои, великие, великое, великой</em></td><td><em>великой, велицеи</em></td><td><em>великою</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>велика</em></td><td><em>велику</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>великихъ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>великое</em></td><td><em>великому</em></td><td><em>великаго, великог[о]</em></td><td><em>великом, великомъ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>велико</em></td><td><em>велику</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>великаꙗ</em></td><td><em>великимъ</em></td><td><em>великихъ</em></td><td><em>великихъ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>великие</em></td><td></td><td><em>великихъ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>великое</em></td><td><em>великое</em></td><td><em>великому</em></td><td><em>великого, великаго, великог[о]</em></td><td><em>великом, великомъ, велицем</em></td><td><em>великимъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>велико</em></td><td><em>велико</em></td><td><em>велику</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>великая, великаꙗ</em></td><td><em>великимъ</em></td><td><em>великих, великихъ</em></td><td><em>великихъ</em></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
-3467 <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+7071 <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3433; 99%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2883; 83%), <tt><a href="orv_rnc-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (2382; 69%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7001; 99%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5857; 83%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (402; 12% of non-empty `Case`): <em>Григорья, Ивана, Москву, Озовъ, Павловское, Новъгород, Кунгуръ, Бориска, Ивашка, Аѳонку</em>
-* `Dat` (514; 15% of non-empty `Case`): <em>Москвѣ, Москве, Ивановичю, Борису, Ивану, Василью, Васил[ь]ю, Новугороду, Петру, Сидору</em>
-* `Gen` (1037; 30% of non-empty `Case`): <em>Кон(ь)кова, Ивана, Москвы, Русии, Новагорода, Ивашки, Петра, Шуняева, Федорова, Ивановича</em>
-* `Ins` (142; 4% of non-empty `Case`): <em>Семеном, Сенкою, Петром, Столбовымъ, Фоминым, Агапитовымъ, Бунковым, Васил[ь]евичем, Григорьем, Ивановною</em>
-* `Loc` (257; 7% of non-empty `Case`): <em>Кунгурѣ, Москве, Москвѣ, Иванѣ, Павловском, Кон(ь)кове, Ивановичѣ, Вязьме, Назаркове, Россіи</em>
-* `Nom` (1105; 32% of non-empty `Case`): <em>Иван, Петр, Иванъ, Фальк, Алешка, Григорей, Ивашко, Ивашка, Калитинъ, Дмитрей</em>
-* `Voc` (10; 0% of non-empty `Case`): <em>Россіе, Сіоне, Упадыше, Упадыщче</em>
-* `EMPTY` (2): <em>N.</em>
+* `Acc` (948; 13% of non-empty `Case`): <em>Савку, Ивана, Андрюшку, Григорья, Чамовскихъ, Кунгуръ, Москву, Аѳонку, Азовъ, Озовъ</em>
+* `Dat` (905; 13% of non-empty `Case`): <em>Москве, Москвѣ, Ивановичю, Борису, Ивану, Василью, Васил[ь]ю, Васильевичю, Петру, Асторохани</em>
+* `Gen` (1966; 28% of non-empty `Case`): <em>Русии, Ивана, Москвы, Ивановича, Кон(ь)кова, Новагорода, Петра, Азова, Руси, Андрюшки</em>
+* `Ins` (297; 4% of non-empty `Case`): <em>Андрюшкою, Савкою, Семеном, Сенкою, Чамовскимъ, Алексѣемъ, Волгою, Дономъ, Ивановичемъ, Иваномъ</em>
+* `Loc` (473; 7% of non-empty `Case`): <em>Кунгурѣ, Москве, Москвѣ, Иванѣ, Предтечинскомъ, Азове, Павловском, Кон(ь)кове, Ивановичѣ, Шавкуновѣ</em>
+* `Nom` (2471; 35% of non-empty `Case`): <em>Иван, Иванъ, Ивашко, Оска, Аѳонка, Борис, Петр, Петрушка, Иванович, Савка</em>
+* `Voc` (11; 0% of non-empty `Case`): <em>Россіе, Сіоне, Упадыше, Упадыщче, Юрье</em>
+* `EMPTY` (4): <em>N., а., с.</em>
 
 <table>
   <tr><th>Paradigm <i>Россия</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Россіꙗ</em></td><td><em>Россію</em></td><td><em>Россіи</em></td><td><em>Росіи, Ро(с)сіи, Россіи</em></td><td><em>Россіе</em></td><td><em>Россіи</em></td><td><em>Россіею</em></td></tr>
-</table>
-
-### `PRON`
-
-2088 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1598; 77%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1445; 69%).
-
-`PRON` tokens may have the following values of `Case`:
-
-* `Acc` (271; 13% of non-empty `Case`): <em>что, ево, меня, нас, то, его, их, ихъ, тебя, него</em>
-* `Dat` (530; 25% of non-empty `Case`): <em>тебѣ, ему, имъ, тебе, мнѣ, ти, мне, нам, им, намъ</em>
-* `Gen` (426; 20% of non-empty `Case`): <em>его, ево, ихъ, нево, их, него, них, себя, того, нихъ</em>
-* `Ins` (130; 6% of non-empty `Case`): <em>ними, ним, собою, мною, тобою, нами, нею, нимъ, ими, кѣм</em>
-* `Loc` (185; 9% of non-empty `Case`): <em>нем, томъ, них, неи, немъ, том, чем, чемъ, всемъ, тебѣ</em>
-* `Nom` (546; 26% of non-empty `Case`): <em>что, ты, я, они, он, онъ, мы, кто, которые, вы</em>
-* `EMPTY` (9): <em>сѧ, ся, что</em>
-
-<table>
-  <tr><th>Paradigm <i>онъ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>ево, его</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>он, онъ</em></td><td><em>ево, его, него</em></td><td><em>ему, емꙋ, нему</em></td><td><em>его, ево, нево, него, ег[о]</em></td><td><em>нем, немъ, не(м), не[м]</em></td><td><em>ним, нимъ, имъ</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>он</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>их</em></td><td><em>им</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>еꙗ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td></td><td><em>них</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>его</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>нем</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>Россіꙗ</em></td><td><em>Россію</em></td><td><em>Россіи</em></td><td><em>Росіи, Росии, Россіи, Ро(с)сіи, Росия, России</em></td><td><em>Россіе</em></td><td><em>Россіи</em></td><td><em>Россіею</em></td></tr>
 </table>
 
 ### `DET`
 
-2024 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Case`.
+4494 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1388; 69%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1350; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3975; 88%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3010; 67%), <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2952; 66%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (530; 26% of non-empty `Case`): <em>то, тѣ, всꙗ, вся, свое, те, свою, всякіе, своих, всю</em>
-* `Dat` (263; 13% of non-empty `Case`): <em>твоему, моему, нашему, сей, тому, твоимъ, тѣмъ, своему, всем, моемꙋ</em>
-* `Gen` (479; 24% of non-empty `Case`): <em>тово, того, тѣхъ, всеа, твоего, всѣхъ, тех, сего, своего, всех</em>
-* `Ins` (144; 7% of non-empty `Case`): <em>своими, своею, тою, всякимъ, своимъ, твоею, тѣмъ, никоторою, сею, тем</em>
-* `Loc` (185; 9% of non-empty `Case`): <em>томъ, своемъ, тѣхъ, всѣхъ, се(м), твоем, то(м), тои, той, моемъ</em>
-* `Nom` (423; 21% of non-empty `Case`): <em>твой, мои, твои, тот, те, моя, та, то, все, сей</em>
-* `EMPTY` (35): <em>т., др., с.</em>
+* `Acc` (1092; 24% of non-empty `Case`): <em>свою, то, тѣ, своего, те, свое, вся, своих, все, всꙗ</em>
+* `Dat` (563; 13% of non-empty `Case`): <em>твоему, нашему, тому, своему, сей, тем, моему, тѣмъ, всем, нашей</em>
+* `Gen` (1126; 25% of non-empty `Case`): <em>того, всеа, своего, тех, тѣхъ, всея, твоего, сего, нашего, тово</em>
+* `Ins` (352; 8% of non-empty `Case`): <em>своею, своими, всеми, своим, всѣми, всею, многими, своимъ, тѣмъ, тою</em>
+* `Loc` (419; 9% of non-empty `Case`): <em>томъ, том, всем, той, сей, своемъ, твоей, тех, своем, тои</em>
+* `Nom` (942; 21% of non-empty `Case`): <em>твой, которые, мои, твои, все, те, тот, та, самъ, моя</em>
+* `EMPTY` (36): <em>т., др., с., проч.</em>
 
 <table>
   <tr><th>Paradigm <i>тотъ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>того, тово</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>того, тово, тог[о]</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>тѣхъ, тех, тѣх</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>тот, той, тотъ, тыи</em></td><td><em>тот, тотъ, тои, то, тыи, тѣи</em></td><td><em>тому, томꙋ, тѣмъ</em></td><td><em>того, тово, таво, тое</em></td><td><em>томъ</em></td><td><em>тѣмъ, тем, тѣм, темъ</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>те, тѣ, тии, тые</em></td><td><em>тѣ, те</em></td><td><em>тѣмъ, тем</em></td><td><em>тех, тѣхъ, тыхъ</em></td><td><em>тѣхъ, тех</em></td><td><em>теми, тыми</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>та, те, т[а]</em></td><td><em>тое, ту, тою, тоѣ</em></td><td><em>тои, той</em></td><td><em>тое, тои, той, тоя</em></td><td><em>тои, той, тоі</em></td><td><em>тою, тои, той</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>те, тѣ, та</em></td><td><em>тѣ, те, та</em></td><td><em>тымъ, тѣмъ</em></td><td><em>тѣхъ, тех</em></td><td><em>тѣхъ, тѣх</em></td><td><em>теми, тѣми, тѣни</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>то</em></td><td><em>то</em></td><td><em>тому, томꙋ</em></td><td><em>тово, того</em></td><td><em>томъ, том, тѡм</em></td><td><em>темъ, тем, тѣмъ</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>та, те</em></td><td><em>те, та, тѣ</em></td><td></td><td></td><td><em>тех</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>тот, той, тотъ, тыи</em></td><td><em>тотъ, тот, тои, той, тыи, тѣи</em></td><td><em>тому, томꙋ</em></td><td><em>того, тово, таво, тог[о], тое</em></td><td><em>томъ, том</em></td><td><em>тѣмъ, тѣм, тем, темъ, тимъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>те, тѣ, тии, тое</em></td><td><em>тѣ, те</em></td><td><em>тѣмъ, тем, тымъ</em></td><td><em>тех, тѣхъ, тихъ, тѣх, тыхъ</em></td><td><em>тех, тѣхъ</em></td><td><em>тѣми, теми, тыми</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>та, те, т[а]</em></td><td><em>тое, ту, тою, тои, тоѣ, тую</em></td><td><em>той, тои</em></td><td><em>тое, тои, тоя, той, то(й), тоей</em></td><td><em>той, тои, тоі</em></td><td><em>тою, тои, той</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>те, тѣ, та</em></td><td><em>те, тѣ, та</em></td><td><em>тем, тѣмъ, тымъ</em></td><td><em>тѣхъ, тех</em></td><td><em>тѣхъ, тех, тѣх</em></td><td><em>тѣми, теми, тѣни</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>то</em></td><td><em>то, того</em></td><td><em>тому, томꙋ</em></td><td><em>того, тово, тог[о], таво</em></td><td><em>томъ, том, то(м)</em></td><td><em>тем, темъ, тѣмъ, тѣм</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>та, те, тые</em></td><td><em>та, те, тѣ</em></td><td><em>тем, тѣмъ</em></td><td><em>тех</em></td><td><em>тех, тѣх, тѣхъ</em></td><td><em>тѣми</em></td></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>тем</em></td><td></td><td></td><td></td></tr>
+</table>
+
+### `PRON`
+
+4263 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3212; 75%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2964; 70%).
+
+`PRON` tokens may have the following values of `Case`:
+
+* `Acc` (628; 15% of non-empty `Case`): <em>что, то, ево, его, их, меня, нас, ихъ, него, тя</em>
+* `Dat` (990; 23% of non-empty `Case`): <em>ему, тебѣ, мнѣ, имъ, нам, им, тебе, намъ, ти, мне</em>
+* `Gen` (999; 23% of non-empty `Case`): <em>его, их, ево, ихъ, того, него, них, себя, нихъ, нас</em>
+* `Ins` (283; 7% of non-empty `Case`): <em>ними, ним, собою, нимъ, тобою, мною, нами, нею, ими, тѣмъ</em>
+* `Loc` (353; 8% of non-empty `Case`): <em>нем, томъ, том, них, семъ, неи, немъ, чем, чемъ, нихъ</em>
+* `Nom` (1010; 24% of non-empty `Case`): <em>что, онъ, ты, они, я, мы, он, кто, яз, хто</em>
+* `EMPTY` (23): <em>сѧ, ся</em>
+
+<table>
+  <tr><th>Paradigm <i>онъ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>онъ, он</em></td><td><em>ево, его, него, нево</em></td><td><em>ему, емꙋ, нему</em></td><td><em>его, ево, него, нево, ег[о], нег[о]</em></td><td><em>нем, немъ, не(м), не[м]</em></td><td><em>ним, нимъ, им, имъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>их</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>еꙗ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>них</em></td><td></td></tr>
 </table>
 
 ### `NUM`
 
-1595 <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
+2533 <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="orv_rnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1102; 69%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1037; 65%), <tt><a href="orv_rnc-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (854; 54%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="orv_rnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2368; 93%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1627; 64%), <tt><a href="orv_rnc-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (1489; 59%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (418; 26% of non-empty `Case`): <em>один, два, две, 3, 2, 4, обе, полтора, три, 5</em>
-* `Dat` (29; 2% of non-empty `Case`): <em>сту, двадцати, двенатцати, девяти, осьмидесят, пяти, пятидесятъ, сколку, скольку, сороку</em>
-* `Gen` (81; 5% of non-empty `Case`): <em>дву, четырех, пяти, 3-х, полутрет(ь)и, трех, двусотъ, обеих, пети, полутора</em>
-* `Ins` (12; 1% of non-empty `Case`): <em>однем, восмьдесят, двема, одною, двома, семи, тремя</em>
-* `Loc` (31; 2% of non-empty `Case`): <em>дву, обеих, едино(м), одном, 3-х, пяти, пятинатцати, сороки, штидесять, 39</em>
-* `Nom` (1024; 64% of non-empty `Case`): <em>3, 4, 2, 10, 6, 5, два, две, 12, 8</em>
-* `EMPTY` (3): <em>РПЅ, болши, колько</em>
+* `Acc` (584; 23% of non-empty `Case`): <em>два, один, две, три, 2, 3, обе, полтора, 4, 5</em>
+* `Dat` (67; 3% of non-empty `Case`): <em>7, десяти, обеим, пяти, семи, сту, 10, 3, 5, 9</em>
+* `Gen` (129; 5% of non-empty `Case`): <em>дву, четырех, пяти, трех, трехъ, 3-х, 10, 18, 20, двухъ</em>
+* `Ins` (18; 1% of non-empty `Case`): <em>однем, двема, одною, четырмя, двома, двѣмя, единеми, единою, единымъ, полуторой</em>
+* `Loc` (50; 2% of non-empty `Case`): <em>дву, обеих, одном, едино(м), 3-х, двухъ, единомъ, 15, 39, 4хъ</em>
+* `Nom` (1685; 67% of non-empty `Case`): <em>3, 2, 4, 10, 6, 5, 8, 9, два, 12</em>
+* `EMPTY` (4): <em>болше, болши, больше, меньше</em>
 
 <table>
-  <tr><th>Paradigm <i>два</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>два</em></td><td><em>два</em></td><td><em>дву</em></td><td><em>дву</em></td><td><em>двема, двома</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="orv_rnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>два, д[ва], дв[а]</em></td><td><em>два, дв[а]</em></td><td><em>дву</em></td><td><em>дву</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>две, двѣ</em></td><td><em>две, двѣ</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="orv_rnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>две, два, дв[е]</em></td><td><em>две, [д]ве</em></td><td><em>дву, двух</em></td><td><em>дву</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td></td><td></td><td><em>дву</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt>|<tt><a href="orv_rnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>два</em></td><td><em>два</em></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>два</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>дву</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>два, д[ва], дв[а]</em></td><td><em>два, дв[а]</em></td><td><em>двумъ</em></td><td><em>дву, двухъ</em></td><td><em>дву</em></td><td><em>двема, двома, двѣмя</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>две, два, двѣ, дв[е], дви</em></td><td><em>две, двѣ, [д]ве</em></td><td></td><td><em>дву, дви, двух, двухъ</em></td><td><em>дву, двухъ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>два</em></td><td><em>два</em></td><td></td><td><em>дву</em></td><td><em>дву, двухъ</em></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-881 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (21% of all `VERB` tokens) have a non-empty value of `Case`.
+1397 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (881; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (881; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (879; 100%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (777; 88%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (762; 86%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (697; 79%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (694; 79%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (501; 57%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (479; 54%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1397; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1397; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1386; 99%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1211; 87%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1181; 85%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1090; 78%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (1059; 76%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (60; 7% of non-empty `Case`): <em>данные, рожде(н)наго, Покаряющаяся, взятыхъ, взꙗтыꙗ, видимое, видимый, возбꙋждающаꙗ, возсіꙗвший, воспріꙗтыⸯ</em>
-* `Dat` (32; 4% of non-empty `Case`): <em>требꙋющꙋ, гиблющи, глаголющему, гремꙗщи(м), зачинающим, иждившемꙋ, изволившꙋ, имꙋщемꙋ, исходящемъ, намѣре(н)номꙋ</em>
-* `Gen` (58; 7% of non-empty `Case`): <em>битых, купленых, бывшихъ, взысканныхъ, взята, взятыхъ, возлюбле(н)наго, востающи(х), выгна(н)ныхъ, губящих</em>
-* `Ins` (12; 1% of non-empty `Case`): <em>собраннымъ, видимою, даны, именова(н)но(м), нечемъ, преведе(н)ными, приношаемыми, расположе(н)ными, собранною, собранными</em>
-* `Loc` (14; 2% of non-empty `Case`): <em>рожде(н)номъ, воздѣланной, врученной, горꙗщей, дарова(н)ныхъ, замѣре(н)ныхъ, изнесе(н)ныхъ, имꙋщи(х), произведенной, рож(д)е(н)но(м)</em>
-* `Nom` (705; 80% of non-empty `Case`): <em>смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, писано</em>
-* `EMPTY` (3261): <em>привез, велѣлъ, сказал, бьет, велет(ь), имати, есть, нет, платить, пожалуй</em>
+* `Acc` (110; 8% of non-empty `Case`): <em>битого, будущий, данные, пребывающаго, рожде(н)наго, спасеная, Покаряющаяся, бесѣдующа, благоугодивших, боящихся</em>
+* `Dat` (54; 4% of non-empty `Case`): <em>требꙋющꙋ, нареченному, обретающимся, попущающу, благословенной, гиблющи, глаголющему, гремꙗщи(м), зачинающим, званому</em>
+* `Gen` (98; 7% of non-empty `Case`): <em>битых, убитого, купленого, будущаго, купленых, немолоченого, паханые, благословенной, бывшихъ, ведущаго</em>
+* `Ins` (29; 2% of non-empty `Case`): <em>будущими, нечимъ, собраннымъ, беснующимся, благословенной, бывшим, видимою, идущим, избраннымъ, некем</em>
+* `Loc` (27; 2% of non-empty `Case`): <em>рожде(н)номъ, порученных, благословенной, бывшемъ, велящих, воздѣланной, врученной, выгна(н)ныхъ, горꙗщей, дарова(н)ныхъ</em>
+* `Nom` (1079; 77% of non-empty `Case`): <em>смерено, взято, принето, велѣно, умолочено, дано, велено, написано, писано, взят</em>
+* `EMPTY` (6648): <em>послал, пришли, велѣлъ, сказал, писал, привез, имати, пожаловал, велел, дал</em>
 
 <table>
-  <tr><th>Paradigm <i>родити</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>рожде(н)наго</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>рожде(н)ныⸯ</em></td><td></td><td></td><td><em>рожде(н)номъ, рож(д)е(н)но(м)</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>рожде(н)ныи</em></td><td></td><td><em>рожде(н)ны(м)</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>родившаꙗ, рождьшая</em></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>быти</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>бывыи</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>бывший</em></td><td></td><td></td><td><em>бывшемъ</em></td><td><em>бывшим</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>Сый</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>будущий, будущей</em></td><td><em>будущаго</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>бывшихъ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>сущии</em></td><td></td><td></td><td></td><td><em>будущими</em></td></tr>
 </table>
 
 ### `AUX`
 
-3 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
+11 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (3; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 67%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (11; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 64%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6; 55%).
 
 `AUX` tokens may have the following values of `Case`:
 
-* `Acc` (1; 33% of non-empty `Case`): <em>бывшіꙗ</em>
-* `Dat` (2; 67% of non-empty `Case`): <em>сущу, сꙋщꙋ</em>
-* `EMPTY` (338): <em>бы, есть, б, было, были, будет, былъ, еси, есте, бысть</em>
+* `Acc` (1; 9% of non-empty `Case`): <em>бывшіꙗ</em>
+* `Dat` (6; 55% of non-empty `Case`): <em>сущу, бывши, бывшу, сушу, сꙋщꙋ</em>
+* `Gen` (1; 9% of non-empty `Case`): <em>бывших</em>
+* `Nom` (3; 27% of non-empty `Case`): <em>бывше, сущий, сущъ</em>
+* `EMPTY` (792): <em>бы, было, есть, были, будет, б, былъ, еси, бысть, будетъ</em>
 
 <table>
-  <tr><th>Paradigm <i>быти</i></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>сꙋщꙋ</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>сущу</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>бывшіꙗ</em></td><td></td></tr>
+  <tr><th>Paradigm <i>быти</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>бывшу</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>сущъ</em></td><td></td><td><em>сушу, сущу, сꙋщꙋ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>сущий</em></td><td></td><td><em>сущу</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>бывше</em></td><td></td><td><em>бывши</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>бывшіꙗ</em></td><td></td><td><em>бывших</em></td></tr>
 </table>
-
-### `SCONJ`
-
-1 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
-
-`SCONJ` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): <em>иже</em>
-* `EMPTY` (418): <em>что, чтобъ, ꙗко, яко, егда, аще, ино, как, чтоб, буде</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3292; 95%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (1569; 96%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1236; 74%),
-<tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1041; 99%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (579; 95%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (298; 90%),
-<tt>VERB --[<tt><a href="orv_rnc-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (248; 65%),
-<tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (208; 84%),
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (204; 97%),
-<tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (204; 77%).
+<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6143; 97%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (3505; 98%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2580; 79%),
+<tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (2025; 98%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1532; 97%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (670; 92%),
+<tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (465; 89%),
+<tt>VERB --[<tt><a href="orv_rnc-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (429; 66%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (399; 97%),
+<tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (333; 89%).
 

@@ -24,8 +24,8 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13 11 orphan	color:blue
 1	1912	1912	NUM	RG|NOM	Case=Nom	2	obl	2:obl	_
 2	grundades	grunda	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-3	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing	5	det	5:det	_
-4	första	första	ADJ	RO|NOM	Case=Nom	5	amod	5:amod	_
+3	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	5:det	_
+4	första	första	ADJ	RO|NOM	Case=Nom|NumType=Ord	5	amod	5:amod	_
 5	filmbolaget	filmbolag	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nsubj:pass	2:nsubj:pass	_
 6	(	(	PUNCT	PAD	_	8	punct	8:punct	SpaceAfter=No
 7	Athina	Athina	PROPN	PM|NOM	Case=Nom	8	nmod	8:nmod	_
@@ -46,18 +46,18 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 15 orphan	color:blue
-1	Den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	3	det	3:det	_
-2	norra	norr	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	3	amod	3:amod	_
+1	Den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	3	det	3:det	_
+2	norra	norra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	3	amod	3:amod	_
 3	delen	del	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
 4	av	av	ADP	PP	_	5	case	5:case	_
 5	Kaukasus	Kaukasus	PROPN	PM|NOM	Case=Nom	3	nmod	3:nmod:av	_
 6	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
-7	känd	känd	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
+7	känd	känd	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 8	som	som	ADP	KN	_	9	case	9:case	_
 9	Nordkaukasus	Nordkaukasus	PROPN	PM|NOM	Case=Nom	7	obl	7:obl:som	_
 10	och	och	CCONJ	KN	_	13	cc	13.1:cc	_
-11	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	13	det	13:det	_
-12	södra	söder	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	13	amod	13:amod	_
+11	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	13	det	13:det	_
+12	södra	södra	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	13	amod	13:amod	_
 13	delen	del	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	conj	13.1:nsubj	_
 14	som	som	ADP	KN	_	15	mark	15:mark	_
 15	Transkaukasus	Transkaukasus	PROPN	PM|NOM	Case=Nom	13	orphan	13.1:obl	SpaceAfter=No

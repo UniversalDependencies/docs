@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="nds_lsdc-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-46 nodes (1%) are attached to their parents as `nmod`.
+305 nodes (1%) are attached to their parents as `nmod`.
 
-38 instances of `nmod` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.67391304347826.
+265 instances of `nmod` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.78688524590164.
 
-The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (20; 43% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (170; 56% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (23; 8% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (14; 5% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (14; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (11; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (10; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 9	fgColor:white
 # visual-style 9 12 nmod	color:blue
 1	Wy	wy	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	lemma_gml=wî
-2	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	lemma_gml=wēsen
+2	sint	weasen	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	cop	_	lemma_gml=wēsen
 3	nit	nich	PART	_	PartType=Neg	4	advmod	_	lemma_gml=nicht
 4	beyt	beyt	ADJ	_	Degree=Pos	0	root	_	lemma_gml=bêit|SpaceAfter=No
 5	,	,	PUNCT	_	_	13	punct	_	_
@@ -42,45 +42,39 @@ The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 nmod	color:blue
-1	Alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	2	nsubj	_	lemma_gml=al
-2	lachen	lachen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=lachen¹
-3	harde	harde	ADV	_	_	2	advmod	_	lemma_gml=hā̆rde
-4	up	up	ADP	_	_	2	compound	_	lemma_gml=up¹|SpaceAfter=No
-5	,	,	PUNCT	_	_	8	punct	_	_
-6	un	un	DET	_	_	8	det	_	lemma_gml=unde²
-7	Wiesken	Wiesken	PROPN	_	Number=Sing	8	nsubj	_	_
-8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=wērden¹
-9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=rôt⁴
-10	as	as	SCONJ	_	_	11	case	_	lemma_gml=alsô
-11	vüür	vüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	lemma_gml=vü̂r¹|SpaceAfter=No
-12	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 nmod	color:blue
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=bûr
+3	uut	uut	ADP	_	AdpType=Prep	4	case	_	lemma_gml=ût
+4	Gassen	Gassen	PROPN	_	Number=Sing	2	nmod	_	lemma_gml=gassen|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 nmod	color:blue
-1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê
-2	trekket	trekken	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=trecken
-3	teager	teagen	ADP	_	AdpType=Prep	4	case	_	lemma_gml=tēgen
-4	dik	du	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	2	obl	_	lemma_gml=dû|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
-7	dat	dat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	2	conj	_	lemma_gml=dat
-8	mid	mid	ADP	_	AdpType=Prep	10	case	_	lemma_gml=mit
-9	veerhunderd	veerhunderd	NUM	_	_	10	nummod	_	lemma_gml=vêrhundert
-10	man	man	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	nmod	_	lemma_gml=man|SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
-12	«	«	PUNCT	_	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 5 nmod	color:blue
+1	Junges	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	vocative	_	lemma_gml=junge|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	junges	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	lemma_gml=junge|SpaceAfter=No
+4	,	,	PUNCT	_	_	12	punct	_	_
+5	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	11	nmod	_	lemma_gml=watte
+6	sin	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	12	aux	_	lemma_gml=wēsen
+7	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	12	nsubj	_	lemma_gml=gî
+8	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+9	mooi	mooi	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=mö̂ye
+10	knap	knap	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=knap
+11	brüüdjen	brüüdken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	xcomp	_	lemma_gml=brü̂deken
+12	eworden	werden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=wērden|SpaceAfter=No
+13	!	!	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

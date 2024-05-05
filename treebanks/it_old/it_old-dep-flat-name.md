@@ -9,80 +9,157 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-flat.html">flat</a></tt>.
 There are also 2 other language-specific subtypes of `flat`: <tt><a href="it_old-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="it_old-dep-flat-redup.html">flat:redup</a></tt>.
 
-57 nodes (0%) are attached to their parents as `flat:name`.
+88 nodes (0%) are attached to their parents as `flat:name`.
 
-57 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.36842105263158.
+88 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.43181818181818.
 
-The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (47; 82% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (10; 18% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (72; 82% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (14; 16% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 18 flat:name	color:blue
-1	di	di	ADP	_	_	4	case	_	Canto=21|Comment=de-l|Verso=37
-2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Canto=21|Comment=de-l|Verso=37
-3	nostro	nostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	Canto=21|Verso=37
-4	ponte	ponte	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obl:lmod	_	Canto=21|Verso=37
-5	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=21|SpaceAfter=No|Verso=37
-6	:	:	PUNCT	_	_	12	punct	_	_
-7	«	«	PUNCT	_	_	12	punct	_	SpaceAfter=No
-8	O	o	INTJ	i	_	9	discourse	_	Canto=21|Verso=37
-9	Malebranche	Malebranche	PROPN	np	_	12	vocative	_	Canto=21|SpaceAfter=No|Verso=37
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	ecco	ecco	ADV	b	_	12	advmod	_	Canto=21|Verso=38
-12	un	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	5	ccomp:reported	_	Canto=21|Verso=38
-13	de	di	ADP	eps	_	15	case	_	Canto=21|Verso=38
-14	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	Canto=21|Verso=38
-15	anzian	anziano	ADJ	a1mp	Gender=Masc|Number=Plur	12	nmod	_	Canto=21|Verso=38
-16	di	di	ADP	epskg	_	17	case	_	Canto=21|Verso=38
-17	Santa	santa	PROPN	np	_	15	nmod	_	Canto=21|Verso=38
-18	Zita	Zita	PROPN	np	_	17	flat:name	_	Canto=21|SpaceAfter=No|Verso=38
-19	!	!	PUNCT	_	_	12	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat:name	color:blue
+1	Ov'	ove	ADV	b	_	0	root	_	Canto=14|Verso=97
+2	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	Canto=14|Verso=97
+3	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Canto=14|Verso=97
+4	buon	buono	ADJ	a1ms	Gender=Masc|Number=Sing	5	amod	_	Canto=14|Verso=97
+5	Lizio	Lizio	PROPN	np	_	1	nsubj	_	Canto=14|Verso=97
+6	e	e	CCONJ	cscr	_	7	cc	_	Canto=14|Verso=97
+7	Arrigo	Arrigo	PROPN	np	_	5	conj	_	Canto=14|SpaceAfter=No|Verso=97
+8	Mainardi	Mainardi	PROPN	np	_	7	flat:name	_	Canto=14|SpaceAfter=No|Verso=97
+9	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 16 flat:name	color:blue
-1	Tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Canto=33|Verso=136
-2	'l	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Canto=33|Verso=136
-3	dei	dovere	AUX	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	Canto=33|Comment=de-i|Verso=136
-4	saper	sapere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	Canto=33|SpaceAfter=No|Verso=136
-5	,	,	PUNCT	_	_	8	punct	_	_
-6	se	se	SCONJ	cssv	_	8	mark	_	Canto=33|Verso=136
-7	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	Canto=33|Verso=136
-8	vien	venire	VERB	vi3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	Canto=33|Verso=136
-9	pur	pure	ADV	b	_	10	advmod	_	Canto=33|Verso=136
-10	mo	mo	ADV	b	_	8	advmod:tmod	_	Canto=33|Verso=136
-11	giuso	giù	ADV	b	_	8	advmod:lmod	_	Canto=33|SpaceAfter=No|Verso=136
-12	:	:	PUNCT	_	_	15	punct	_	_
-13	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Canto=33|Verso=137
-14	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	Canto=33|Verso=137
-15	ser	ser	NOUN	sm3ms	Gender=Masc|Number=Sing	4	parataxis	_	Canto=33|Verso=137
-16	Branca	Branca	PROPN	np	_	15	flat:name	_	Canto=33|Verso=137
-17	Doria	Doria	PROPN	np	_	16	flat:name	_	Canto=33|SpaceAfter=No|Verso=137
-18	,	,	PUNCT	_	_	24	punct	_	_
-19	e	e	CCONJ	cscc	_	24	cc	_	Canto=33|Verso=137
-20	son	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	Canto=33|Verso=137
-21	più	più	DET	a	_	22	det	_	Canto=33|Verso=137
-22	anni	anno	NOUN	sm2mp	Gender=Masc|Number=Plur	24	obj	_	Canto=33|Verso=137
-23	poscia	poscia	ADV	_	_	29	advmod:tmod	_	Canto=33|Verso=138
-24	passati	passare	VERB	vi1ibp3	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Tense=Past|VerbForm=Part	15	conj	_	Canto=33|Verso=138
-25	ch'	che	SCONJ	_	_	29	mark	_	Canto=33|SpaceAfter=No|Verso=138
-26	el	ello	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	nsubj:pass	_	Canto=33|Verso=138
-27	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	aux:pass	_	Canto=33|Verso=138
-28	sì	così	ADV	b	_	29	advmod	_	Canto=33|Verso=138
-29	racchiuso	racchiudere	VERB	vtp2irs3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	24	advcl	_	Canto=33|SpaceAfter=No|Verso=138
-30	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
-31	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 14 flat:name	color:blue
+1	Ver'	verso	ADP	eiskml	_	2	case	_	Canto=8|Verso=52
+2	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	4	obl:lmod	_	Canto=8|Verso=52
+3	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	Canto=8|Verso=52
+4	fece	fare	VERB	vta+1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=8|SpaceAfter=No|Verso=52
+5	,	,	PUNCT	_	_	11	punct	_	_
+6	e	e	CCONJ	cscc	_	11	cc	_	Canto=8|Verso=52
+7	io	io	PRON	pp1slso	Person=1|Poss=Yes|PronType=Prs	11	nsubj	_	Canto=8|Verso=52
+8	ver'	verso	ADP	eiskml	_	9	case	_	Canto=8|Verso=52
+9	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl:lmod	_	Canto=8|Verso=52
+10	mi	mi	PRON	pf1sypr	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs|Reflex=Yes	11	expl:pv	_	Canto=8|Verso=52
+11	fei	fare	VERB	vta+1irs2	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Canto=8|SpaceAfter=No|Verso=52
+12	:	:	PUNCT	_	_	19	punct	_	_
+13	giudice	giudice	NOUN	sm3ms	Gender=Masc|Number=Sing	19	vocative	_	Canto=8|Verso=53
+14	Nin	Nino	PROPN	np	_	13	flat:name	_	Canto=8|Verso=53
+15	gentil	gentile	ADJ	a2ms	Gender=Masc|Number=Sing	13	amod	_	Canto=8|SpaceAfter=No|Verso=53
+16	,	,	PUNCT	_	_	19	punct	_	_
+17	quanto	quanto	ADV	b	_	19	advmod	_	Canto=8|Verso=53
+18	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	19	iobj	_	Canto=8|Verso=53
+19	piacque	piacere	VERB	vi2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	Canto=8|Verso=53
+20	quando	quando	SCONJ	csst	_	22	mark	_	Canto=8|Verso=54
+21	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	22	obj	_	Canto=8|Verso=54
+22	vidi	vedere	VERB	vta2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	19	ccomp	_	Canto=8|Verso=54
+23	non	non	ADV	b	PronType=Neg	27	advmod:neg	_	Canto=8|Verso=54
+24	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	27	cop	_	Canto=8|Verso=54
+25	tra	tra	ADP	epsksl	_	27	case	_	Canto=8|Verso=54
+26	'	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	Canto=8|Verso=54
+27	rei	reo	NOUN	sm2mp	Gender=Masc|Number=Plur	22	ccomp	_	Canto=8|SpaceAfter=No|Verso=54
+28	!	!	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 32	bgColor:blue
+# visual-style 32	fgColor:white
+# visual-style 31	bgColor:blue
+# visual-style 31	fgColor:white
+# visual-style 31 32 flat:name	color:blue
+1	Ne	in	ADP	epaktd	_	3	case	_	Canto=19|Verso=1
+2	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Canto=19|Verso=1
+3	ora	ora	NOUN	sf1fs	Gender=Fem|Number=Sing	53	obl:tmod	_	Canto=19|Verso=1
+4	che	che	PRON	pr	PronType=Rel	10	obl:tmod	_	Canto=19|Verso=1
+5	non	non	ADV	b	PronType=Neg	10	advmod:neg	_	Canto=19|Verso=1
+6	può	potere	AUX	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	Canto=19|Verso=1
+7	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Canto=19|Verso=1
+8	calor	calore	NOUN	sm3ms	Gender=Masc|Number=Sing	10	nsubj	_	Canto=19|Verso=1
+9	diurno	diurno	ADJ	a1ms	Gender=Masc|Number=Sing	8	amod	_	Canto=19|Verso=1
+10	intepidar	intiepidire	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	3	acl:relcl	_	Canto=19|Verso=2
+11	più	più	ADV	b	_	10	advmod	_	Canto=19|Verso=2
+12	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	Canto=19|Verso=2
+13	freddo	freddo	NOUN	sm2ms	Gender=Masc|Number=Sing	10	obj	_	Canto=19|Verso=2
+14	de	di	ADP	eps	_	16	case	_	Canto=19|Verso=2
+15	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Canto=19|Verso=2
+16	luna	luna	NOUN	sf1fs	Gender=Fem|Number=Sing	13	nmod	_	Canto=19|SpaceAfter=No|Verso=2
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	vinto	vincere	VERB	vtp2pr	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	10	advcl	_	Canto=19|Verso=3
+19	da	da	ADP	epske	_	20	case	_	Canto=19|Verso=3
+20	terra	terra	NOUN	sf1fs	Gender=Fem|Number=Sing	18	obl:agent	_	Canto=19|SpaceAfter=No|Verso=3
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	e	e	CCONJ	cscc	_	25	cc	_	Canto=19|Verso=3
+23	talor	talora	ADV	b	_	25	advmod	_	Canto=19|Verso=3
+24	da	da	ADP	epske	_	25	case	_	Canto=19|Verso=3
+25	Saturno	Saturno	PROPN	np	_	20	conj	_	Canto=19|SpaceAfter=No|Verso=3
+26	-	-	PUNCT	_	_	33	punct	_	_
+27	quando	quando	SCONJ	csst	_	33	mark	_	Canto=19|Verso=4
+28	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	Canto=19|Verso=4
+29	geomanti	geomante	NOUN	sm3mp	Gender=Masc|Number=Plur	33	nsubj	_	Canto=19|Verso=4
+30	lor	loro	DET	as	Poss=Yes|PronType=Prs	31	det:poss	_	Canto=19|Verso=4
+31	Maggior	maggiore	ADJ	a2ms	Gender=Masc|Number=Sing	33	obj	_	Canto=19|Verso=4
+32	Fortuna	fortuna	NOUN	sf1fs	Gender=Fem|Number=Sing	31	flat:name	_	Canto=19|Verso=4
+33	veggiono	vedere	VERB	vta2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	Canto=19|Verso=5
+34	in	in	ADP	epsksl	_	35	case	_	Canto=19|Verso=5
+35	oriente	oriente	NOUN	sm3ms	Gender=Masc|Number=Sing	33	obl:lmod	_	Canto=19|SpaceAfter=No|Verso=5
+36	,	,	PUNCT	_	_	33	punct	_	_
+37	innanzi	innanzi	ADV	_	_	40	advmod:lmod	_	Canto=19|Verso=5
+38	a	a	ADP	_	_	40	case	_	Canto=19|Verso=5
+39	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	Canto=19|Verso=5
+40	alba	alba	NOUN	sf1fs	Gender=Fem|Number=Sing	33	obl:tmod	_	Canto=19|SpaceAfter=No|Verso=5
+41	,	,	PUNCT	_	_	42	punct	_	_
+42	surger	surgere	VERB	vi2fp	Tense=Pres|VerbForm=Inf	33	xcomp	_	Canto=19|Verso=6
+43	per	per	ADP	epskpl	_	44	case	_	Canto=19|Verso=6
+44	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	42	obl:lmod	_	Canto=19|Verso=6
+45	che	che	PRON	pr	PronType=Rel	48	nsubj	_	Canto=19|Verso=6
+46	poco	poco	ADV	pi1ms	_	48	advmod:tmod	_	Canto=19|Verso=6
+47	le	le	PRON	pp3fsyda	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	48	iobj	_	Canto=19|Verso=6
+48	sta	stare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	acl:relcl	_	Canto=19|Verso=6
+49	bruna	bruno	ADJ	a1fs	Gender=Fem|Number=Sing	48	xcomp	_	Canto=19|SpaceAfter=No|Verso=6
+50	-	-	PUNCT	_	_	33	punct	_	SpaceAfter=No
+51	,	,	PUNCT	_	_	53	punct	_	_
+52	mi	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	53	iobj	_	Canto=19|Verso=7
+53	venne	venire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Canto=19|Verso=7
+54	in	in	ADP	epsksl	_	55	case	_	Canto=19|Verso=7
+55	sogno	sogno	NOUN	sm2ms	Gender=Masc|Number=Sing	53	obl:lmod	_	Canto=19|Verso=7
+56	una	uno	DET	rifs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	57	det	_	Canto=19|Verso=7
+57	femmina	femmina	NOUN	sf1fs	Gender=Fem|Number=Sing	53	nsubj	_	Canto=19|Verso=7
+58	balba	balbo	ADJ	a1fs	Gender=Fem|Number=Sing	57	amod	_	Canto=19|SpaceAfter=No|Verso=7
+59	,	,	PUNCT	_	_	63	punct	_	_
+60	ne	in	ADP	epakp	_	62	case	_	Canto=19|Verso=8
+61	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	62	det	_	Canto=19|Verso=8
+62	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	63	obl:lmod	_	Canto=19|Verso=8
+63	guercia	guercio	ADJ	a1fsxc6	Gender=Fem|Number=Sing	58	conj	_	Canto=19|SpaceAfter=No|Verso=8
+64	,	,	PUNCT	_	_	69	punct	_	_
+65	e	e	CCONJ	cscc	_	69	cc	_	Canto=19|Verso=8
+66	sovra	sopra	ADP	eiskp	_	68	case	_	Canto=19|Verso=8
+67	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	68	det	_	Canto=19|Verso=8
+68	piè	piede	NOUN	sm3mp	Gender=Masc|Number=Plur	69	obl:lmod	_	Canto=19|Verso=8
+69	distorta	distorcere	VERB	vta2pra1fs	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	58	conj	_	Canto=19|SpaceAfter=No|Verso=8
+70	,	,	PUNCT	_	_	69	punct	_	_
+71	con	con	ADP	epskq	_	73	case	_	Canto=19|Verso=9
+72	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	73	det	_	Canto=19|Verso=9
+73	man	mano	NOUN	sf2fp	Gender=Fem|Number=Plur	57	nmod	_	Canto=19|Verso=9
+74	monche	monco	ADJ	a1fp	Gender=Fem|Number=Plur	73	amod	_	Canto=19|SpaceAfter=No|Verso=9
+75	,	,	PUNCT	_	_	79	punct	_	_
+76	e	e	CCONJ	cscc	_	79	cc	_	Canto=19|Verso=9
+77	di	di	ADP	epsc	_	78	case	_	Canto=19|Verso=9
+78	colore	colore	NOUN	sm3ms	Gender=Masc|Number=Sing	79	obl	_	Canto=19|Verso=9
+79	scialba	scialbo	ADJ	a1fsxc5	Gender=Fem|Number=Sing	58	conj	_	Canto=19|SpaceAfter=No|Verso=9
+80	.	.	PUNCT	_	_	53	punct	_	_
 
 ~~~
 

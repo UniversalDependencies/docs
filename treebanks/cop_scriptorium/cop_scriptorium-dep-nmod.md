@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Coptic-Scriptorium: Relations: `nmod`
 
 This relation is universal.
+There are 1 language-specific subtypes of `nmod`: <tt><a href="cop_scriptorium-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 1906 nodes (3%) are attached to their parents as `nmod`.
 

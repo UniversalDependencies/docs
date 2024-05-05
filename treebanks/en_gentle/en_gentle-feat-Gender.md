@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 331 tokens (2%) have a non-empty value of `Gender`.
 15 types (0%) occur at least once with a non-empty value of `Gender`.
-9 lemmas (0%) occur at least once with a non-empty value of `Gender`.
+8 lemmas (0%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 1 part-of-speech tags: <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (331; 2% instances).
 
 ### `PRON`
@@ -25,5 +25,5 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem` (25; 8% of non-empty `Gender`): <em>her, she, hers</em>
 * `Masc` (193; 58% of non-empty `Gender`): <em>he, his, him, himself</em>
 * `Neut` (113; 34% of non-empty `Gender`): <em>it, its, itself</em>
-* `EMPTY` (856): <em>you, I, we, that, my, your, me, what, which, this</em>
+* `EMPTY` (857): <em>you, I, we, that, my, your, me, what, which, this</em>
 

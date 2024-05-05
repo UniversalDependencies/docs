@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>es</em> (<tt><a href="es_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 21.714286 (the average of all parts of speech is 1.505634).
+The form / lemma ratio of `AUX` is 21.714286 (the average of all parts of speech is 1.505790).
 
 The 1st highest number of forms (32) was observed with the lemma “estar”: <em>Estabas, estaba, estabais, estaban, estado, estamos, estando, estar, estaremos, estará, estarán, estaré, estaría, estaríamos, estarían, estemos, estoy, estuve, estuviera, estuvieran, estuvieron, estuviese, estuviesen, estuvimos, estuvo, está, estábamos, estáis, están, estás, esté, estén</em>.
 

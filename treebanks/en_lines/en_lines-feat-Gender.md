@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-2984 tokens (3%) have a non-empty value of `Gender`.
+2985 tokens (3%) have a non-empty value of `Gender`.
 17 types (0%) occur at least once with a non-empty value of `Gender`.
-5 lemmas (0%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 1 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2984; 3% instances).
+8 lemmas (0%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 1 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2985; 3% instances).
 
 ### `PRON`
 
-2984 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Gender`.
+2985 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2984; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (2983; 100%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2983; 100%), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2225; 75%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2985; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (2984; 100%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2984; 100%), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2023; 68%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (566; 19% of non-empty `Gender`): <em>her, she, herself, hers, itself</em>
-* `Masc` (2313; 78% of non-empty `Gender`): <em>he, his, him, himself</em>
+* `Fem` (567; 19% of non-empty `Gender`): <em>her, she, herself, hers, itself</em>
+* `Masc` (2313; 77% of non-empty `Gender`): <em>he, his, him, himself</em>
 * `Neut` (105; 4% of non-empty `Gender`): <em>its, itself, nothing</em>
-* `EMPTY` (6599): <em>I, it, you, that, my, they, we, what, there, me</em>
+* `EMPTY` (6598): <em>I, it, you, that, my, they, we, what, there, me</em>
 
 <table>
   <tr><th>Paradigm <i>it</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

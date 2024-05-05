@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Menel Mahamdi.
 
 Repository: [UD_French-ParisStories](https://github.com/UniversalDependencies/UD_French-ParisStories)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_parisstories213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_parisstories214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -205,11 +205,11 @@ An article about the annotation of spoken French will soon be released (Kahane e
 
 
 <ul>
-<li>This corpus contains 2776 sentences, 42339 tokens and 42795 syntactic words.</li>
+<li>This corpus contains 2776 sentences, 42331 tokens and 42787 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10255 tokens (24%) that are not followed by a space.</li>
+<li>This corpus contains 10247 tokens (24%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -217,7 +217,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
 </ul>
 
 <ul>
-<li>This corpus contains 101 types of words that contain both letters and punctuation. Examples: c', j', l', qu', d', s', m', n', -ce, t', là-bas, -là, peut-être, jusqu', grands-parents, -y, après-midi, aujourd'hui, demi-tour, quelqu', quelqu'un, haut-parleur, puisqu', -moi, dix-neuf, quarante-sept, rendez-vous, vingt-deux, vingt-six, Français-Chinois, [vous, c'est-à-dire, centre-ville, demi-heure, demi-soeur, dix-huit, dix-sept, franco-allemand, grand-mère, là-haut, quarante-deux, soixante-quinze, trente-cinq, vingt-cinq, vingt-et-un, -Alpes, Marie-Paul, Mitry-Claye, O'Takey, RuPaul's</li>
+<li>This corpus contains 100 types of words that contain both letters and punctuation. Examples: c', j', l', qu', d', s', m', n', -ce, t', là-bas, -là, peut-être, quelqu'un, jusqu', grands-parents, -y, après-midi, aujourd'hui, demi-tour, haut-parleur, puisqu', -moi, dix-neuf, quarante-sept, rendez-vous, vingt-deux, vingt-six, Français-Chinois, [vous, c'est-à-dire, centre-ville, demi-heure, demi-soeur, dix-huit, dix-sept, franco-allemand, grand-mère, là-haut, quarante-deux, soixante-quinze, trente-cinq, vingt-cinq, vingt-et-un, -Alpes, Marie-Paul, Mitry-Claye, O'Takey, RuPaul's, Saint-Louis</li>
 </ul>
 
 <ul>
@@ -242,7 +242,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as determiners (DET): aucun, ce, certain, cette, chaque, de, de+le, des, différent, dix, du, du~, l', le, les, plusieurs, quel, quelle, quelqu', quelque, quelques, son, tout, un, une</li>
+<li>This corpus contains 23 lemmas tagged as determiners (DET): aucun, ce, certain, cette, chaque, de, de+le, des, différent, dix, du, du~, le, les, plusieurs, quel, quelle, quelque, quelques, son, tout, un, une</li>
 </ul>
 
 <ul>
@@ -530,8 +530,8 @@ An article about the annotation of spoken French will soon be released (Kahane e
   <li>Ind
     <ul>
       <li>ADJ: tout, tous, toute</li>
-      <li>DET: quelque, chaque, quelques, plusieurs, quelqu', certaines, tout, toute, différents, tous</li>
-      <li>PRON: on, tout, un, tous, une, quelqu'un, autre, quoi, chacun, autres</li>
+      <li>DET: quelque, chaque, quelques, plusieurs, certaines, tout, toute, différents, tous</li>
+      <li>PRON: on, tout, tous, quelqu'un, un, une, autre, quoi, chacun, autres</li>
     </ul>
   </li>
 </ul>
@@ -667,7 +667,7 @@ An article about the annotation of spoken French will soon be released (Kahane e
     <ul>
       <li>ADJ
         <ul>
-          <li>ADP: en</li>
+          <li>ADP: en, à</li>
         </ul>
       </li>
       <li>ADP
@@ -815,9 +815,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(que) (2)</li>
       <li>VERB-Fin--PRON (299)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-ADP(qu') (1)</li>
       <li>VERB-Fin--PRON-ADP(quand) (1)</li>
-      <li>VERB-Fin--PRON-ADP(que) (1)</li>
+      <li>VERB-Fin--PRON-ADP(que) (2)</li>
       <li>VERB-Inf--NOUN (190)</li>
       <li>VERB-Inf--NOUN-ADP(de) (3)</li>
       <li>VERB-Inf--PRON (144)</li>

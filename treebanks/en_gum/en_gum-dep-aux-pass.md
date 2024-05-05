@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-aux.html">aux</a></tt>.
 
-1395 nodes (1%) are attached to their parents as `aux:pass`.
+1583 nodes (1%) are attached to their parents as `aux:pass`.
 
-1393 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24444444444444.
+1580 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2406822488945.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1395; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1583; 100% instances).
 
 
 ~~~ conllu

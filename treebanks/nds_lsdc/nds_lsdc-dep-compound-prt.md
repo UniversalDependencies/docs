@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Low_Saxon-LSDC: Relations: `compound:prt`
 
 This relation is a language-specific subtype of <tt><a href="nds_lsdc-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="nds_lsdc-dep-compound-redup.html">compound:redup</a></tt>.
 
-27 nodes (1%) are attached to their parents as `compound:prt`.
+169 nodes (1%) are attached to their parents as `compound:prt`.
 
-20 instances of `compound:prt` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.59259259259259.
+133 instances of `compound:prt` (79%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.24260355029586.
 
-The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (16; 59% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (7; 26% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (4; 15% instances).
+The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (129; 76% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (34; 20% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (6; 4% instances).
 
 
 ~~~ conllu
@@ -38,50 +39,41 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 13 compound:prt	color:blue
-1	Dår	dår	ADV	_	_	2	advmod	_	lemma_gml=dâr
-2	dröyp	drapen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	lemma_gml=drāpen
-3	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	lemma_gml=ik
-4	mid	mid	ADP	_	AdpType=Prep	7	case	_	lemma_gml=mit
-5	myn	myn	DET	_	Case=Acc,Dat|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	7	det	_	lemma_gml=mîn
-6	goden	good	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	lemma_gml=gôt
-7	vründen	vründ	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	2	obl	_	lemma_gml=vrünt
-8	Vogel	Vogel	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	7	appos	_	lemma_gml=vōgel
-9	Strauß	Strauss	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	8	flat	_	lemma_gml=strûs
-10	un	un	CCONJ	_	_	11	cc	_	lemma_gml=unde
-11	Hans	Hans	PROPN	_	Number=Sing	8	conj	_	lemma_gml=Hans
-12	Holtfräter	Holtfräter	NOUN	_	Number=Sing	11	flat	_	lemma_gml=holtvrēter
-13	tosamen	tosamen	ADV	_	_	2	compound:prt	_	lemma_gml=tôsāmen|SpaceAfter=No
-14	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 compound:prt	color:blue
+1	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	lemma_gml=dê,dê,dat
+2	düvel	düvel	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	lemma_gml=dü̂vel
+3	kam	koamen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=kōmen
+4	bolde	bolde	ADV	_	_	3	advmod	_	lemma_gml=bōlde
+5	wedder	wedder	ADV	_	_	3	compound:prt	_	lemma_gml=wedder
+6	un	un	CCONJ	_	_	7	cc	_	lemma_gml=unde
+7	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	lemma_gml=seggen|SpaceAfter=No
+8	:	:	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 14 compound:prt	color:blue
-1	Achter	achter	ADP	_	AdpType=Prep	3	case	_	lemma_gml=achter
-2	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê
-3	hagen	hage	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=hāgen
-4	rechts	rechts	ADV	_	_	3	advmod	_	lemma_gml=rechts
-5	lag	liggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=liggen
-6	dem	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê
-7	nåver	nåber	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	8	nmod:poss	_	lemma_gml=nâber
-8	syn	syn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	9	det	_	lemma_gml=sîn,ēr,sîn
-9	brook	brook	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=brôk
-10	un	un	CCONJ	_	_	11	cc	_	lemma_gml=unde
-11	heeld	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	conj	_	lemma_gml=hōlden
-12	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	lemma_gml=dê
-13	gården	gården	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	lemma_gml=gārde
-14	warm	warm	ADJ	_	Degree=Pos	11	compound:prt	_	lemma_gml=warem|SpaceAfter=No
-15	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 compound:prt	color:blue
+1	Med	mid	ADP	_	AdpType=Prep	4	case	_	lemma_gml=mit
+2	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
+3	vorbeaten	vorbeaten	ADJ	_	Degree=Pos|Tense=Past|VerbForm=Part	4	amod	_	lemma_gml=vorbēten
+4	gesicht	gesichte	NOUN	_	Case=Acc,Dat|Gender=Neut|Number=Sing	5	obl	_	lemma_gml=gesichte
+5	holdt	holden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=hōlden
+6	et	de	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	_	lemma_gml=et
+7	kleine	kleyn	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	lemma_gml=klêin
+8	wicht	wicht	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	lemma_gml=wicht
+9	et	het	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	10	det	_	lemma_gml=et
+10	stüür	stüür	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	lemma_gml=stü̂re
+11	vast	vast	ADJ	_	Degree=Pos	5	compound:prt	_	lemma_gml=vast|SpaceAfter=No
+12	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

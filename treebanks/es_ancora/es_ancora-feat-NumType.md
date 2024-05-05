@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1960; 100% of non-empty `NumType`): <em>primer, primera, últimos, segunda, segundo, último, última, primeros, últimas, tercera</em>
-* `EMPTY` (34463): <em>pasado, gran, nuevo, mayor, próximo, nueva, mejor, general, ex, posible</em>
+* `EMPTY` (34467): <em>pasado, gran, nuevo, mayor, próximo, nueva, mejor, general, ex, posible</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (496; 100% of non-empty `NumType`): <em>muchos, muchas, mucha, pocos, mucho, pocas, poca, tanta, tantas, tanto</em>
-* `EMPTY` (83906): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (83929): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `PRON`
 
@@ -65,18 +65,18 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (178; 100% of non-empty `NumType`): <em>muchos, poco, muchas, pocos, mucho, cuanto, cuánto, tanta, cuántos, Deu</em>
-* `EMPTY` (25029): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
+* `EMPTY` (25006): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (624; 99%),
+<tt>NUM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (468; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NUM</tt> (199; 100%),
+<tt>NUM --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (162; 96%),
 <tt>NUM --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> NUM</tt> (24; 100%),
 <tt>ADJ --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 73%),
 <tt>NUM --[<tt><a href="es_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (15; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-list.html">list</a></tt>]--> NUM</tt> (10; 100%),
-<tt>NUM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (6; 100%),
 <tt>ADJ --[<tt><a href="es_ancora-dep-list.html">list</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).

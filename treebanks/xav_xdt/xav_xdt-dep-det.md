@@ -10,7 +10,7 @@ This relation is universal.
 
 64 nodes (4%) are attached to their parents as `det`.
 
-63 instances of `det` (98%) are left-to-right (parent precedes child).
+62 instances of `det` (97%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.59375.
 
 The following 3 pairs of parts of speech are connected with `det`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (61; 95% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="xav_xdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xav_xdt-pos-DET.html">DET</a></tt> (1; 2% instances).
@@ -62,25 +62,24 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 det	color:blue
-1	Te	te	PART	prcl	Htp=Yes|Tense=Pres	6	dep	_	heterophoric.marker;marcardor.heterofórico
-2	wamama	mama	NOUN	n	_	6	nsubj	_	father;pai
-3	norĩhã	norĩ	PART	prcl	Emph=Yes|Number=Coll	6	discourse	_	_
-4	waré	ré	ADP	posp	Number=Plur|Person=1	6	obl	_	full.of,inside.of,during,while;cheio.de,dentro.de,durante,enquanto,sendo
-5	're	're	ADP	posp	_	6	obl	_	inside,in;dentro.de,em
-6	höimana	höimana	VERB	v	_	0	root	_	be,live,exist;ser,viver,existir
-7	dza'ra	dza'ra	PART	prcl	Number=Plur	6	dep	_	_
-8	warob	rob	NOUN	n	Number=Plur|Person=1	6	obl	_	village;aldeia
-9	reb	re	PART	prcl	Degree=Dim	8	dep	_	diminutive;diminutivo
-10	're	're	ADP	posp	_	8	case	_	inside,in;dentro.de,em
-11	hã	hã	DET	det	_	8	det	_	_
-12	U'uiwawẽ	u'uiwawẽ	PROPN	propn	_	6	obl	_	_
-13	ãma	ãma	ADP	posp	_	12	case	_	in;em
-14	hã	hã	DET	det	_	12	det	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 det	color:blue
+1	Te	te	PART	prcl	Htp=Yes|Tense=Pres	5	dep	_	heterophoric.marker;marcardor.heterofórico
+2	wamamanorĩhã	mama	NOUN	n	Emph=Yes|Number=Coll	5	nsubj	_	father;pai
+3	waré	ré	ADP	posp	Number=Plur|Person=1	5	obl	_	full.of,inside.of,during,while;cheio.de,dentro.de,durante,enquanto,sendo
+4	're	're	ADP	posp	_	5	obl	_	inside,in;dentro.de,em
+5	höimana	höimana	VERB	v	_	0	root	_	be,live,exist;ser,viver,existir
+6	dza'ra	dza'ra	PART	prcl	Number=Plur	5	dep	_	_
+7	warob	rob	NOUN	n	Number=Plur|Person=1	5	obl	_	village;aldeia
+8	reb	re	PART	prcl	Degree=Dim	7	dep	_	diminutive;diminutivo
+9	're	're	ADP	posp	_	7	case	_	inside,in;dentro.de,em
+10	hã	hã	DET	det	_	7	det	_	_
+11	U'uiwawẽ	u'uiwawẽ	PROPN	propn	_	5	obl	_	_
+12	ãma	ãma	ADP	posp	_	11	case	_	in;em
+13	hã	hã	DET	det	_	11	det	_	_
 
 ~~~
 

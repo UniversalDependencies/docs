@@ -25,7 +25,7 @@ The following 15 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	ne	ne	ADV	d--------	_	3	advmod	_	_
 2	c	que	CCONJ	c--------	_	3	cc	_	LId=que1
 3	magnum	magnus	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	0	root	_	LId=magnus1
-4	esse	sum	AUX	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf	3	cop	_	LId=sum1
+4	esse	sum	AUX	v--pna---	Aspect=Imp|VerbForm=Inf	3	cop	_	LId=sum1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	peccatum	peccatum	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	nsubj	_	LId=peccatum1
 6	suum	suus	DET	a-s---na-	Case=Acc|Gender=Neut|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	SpaceAfter=No|LId=suus1
 7	,	,	PUNCT	u--------	_	10	punct	_	LId=comma1

@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	6:nsubj	_
 6	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	_
 7	in	in	ADP	IN	_	9	case	9:case	_
-8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+8	our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	country	country	NOUN	NN	Number=Sing	6	obl	6:obl:in	SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	2:punct	_
 11	folks	folk	NOUN	NNS	Number=Plur	2	vocative	2:vocative	SpaceAfter=No

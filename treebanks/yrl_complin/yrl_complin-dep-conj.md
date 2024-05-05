@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-137 nodes (1%) are attached to their parents as `conj`.
+161 nodes (1%) are attached to their parents as `conj`.
 
-137 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.81021897810219.
+161 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.63354037267081.
 
-The following 16 pairs of parts of speech are connected with `conj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (60; 44% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (45; 33% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (5; 4% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `conj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (64; 40% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (54; 34% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (10; 6% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 16 pairs of parts of speech are connected with `conj`: <tt><a href
 4	u	u	CCONJ	CCONJ	_	5	cc	_	TokenRange=19:20
 5	remurari	murari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	conj	_	TokenRange=21:29
 6	interior	interior	NOUN	N	Number=Sing	5	obl	_	OrigLang=pt|TokenRange=30:38
-7	kití	kití	ADP	ADP	_	6	case	_	TokenRange=39:43
+7	kití	kití	ADP	ADP	AdpType=Post	6	case	_	TokenRange=39:43
 8	[...]	[...]	PUNCT	ELIP	PunctType=Elip	5	punct	_	TokenRange=44:49
 
 ~~~
@@ -46,11 +46,11 @@ The following 16 pairs of parts of speech are connected with `conj`: <tt><a href
 4	maã-itá	maã	NOUN	N	Number=Plur	2	obj	_	TokenRange=18:25
 5	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=26:27
 6	mimbira	mimbira	NOUN	N	Number=Sing	2	iobj	_	TokenRange=28:35
-7	supé	supé	ADP	ADP	_	6	case	_	SpaceAfter=No|TokenRange=36:40
+7	supé	supé	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=36:40
 8	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=40:41
 9	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=42:43
 10	mena	mena	NOUN	N	Number=Sing	6	conj	_	TokenRange=44:48
-11	supé	supé	ADP	ADP	_	10	case	_	TokenRange=49:53
+11	supé	supé	ADP	ADP	AdpType=Post	10	case	_	TokenRange=49:53
 12	yuíri	yuíri	CCONJ	CCONJ	_	10	cc	_	SpaceAfter=No|TokenRange=54:59
 13	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=59:60
 
@@ -58,20 +58,26 @@ The following 16 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 conj	color:blue
-1	Kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:3
-2	kana	kana	NOUN	N	Number=Sing	0	root	_	TokenRange=4:8
-3	puranga	puranga	ADJ	A	_	2	acl:relcl	_	TokenRange=9:16
-4	waá	waá	PRON	REL	Number=Sing|PronType=Rel	3	nsubj	_	SpaceAfter=No|TokenRange=17:20
-5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=20:21
-6	santaíma	santá	ADJ	A	Derivation=Priv	3	conj	_	TokenRange=22:30
-7	yapitera	pitera	VERB	V	Number=Plur|Person=1|VerbForm=Fin	6	advcl	_	TokenRange=31:39
-8	arama	arama	SCONJ	SCONJ	_	7	mark	_	SpaceAfter=No|TokenRange=40:45
-9	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=45:46
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 conj	color:blue
+1	Uwatá	watá	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	uikú	ikú	AUX	AUXFS	Person=3|VerbForm=Fin	1	aux	_	TokenRange=6:10
+3	kaá	kaá	NOUN	N	Number=Sing	1	obl	_	TokenRange=11:14
+4	rupí	rupí	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=15:19
+5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=19:20
+6	usendú	sendú	VERB	V	Person=3|VerbForm=Fin	1	parataxis	_	TokenRange=21:27
+7	tiapú	tiapú	VERB	V3	Number=Sing|Person=3|Rel=NCont|VerbForm=Fin	6	ccomp	_	TokenRange=28:33
+8	kwayé	kwayé	ADV	ADVA	AdvType=Man	7	advmod	_	SpaceAfter=No|TokenRange=34:39
+9	:	:	PUNCT	PUNCT	_	10	punct	_	TokenRange=39:40
+10	Txáu	txáu	INTJ	INTJ	_	7	parataxis	_	SpaceAfter=No|TokenRange=41:45
+11	!	!	PUNCT	PUNCT	_	10	punct	_	TokenRange=45:46
+12	txáu	txáu	INTJ	INTJ	_	10	conj	_	SpaceAfter=No|TokenRange=47:51
+13	!	!	PUNCT	PUNCT	_	12	punct	_	TokenRange=51:52
+14	txáu	txáu	INTJ	INTJ	_	10	conj	_	SpaceAfter=No|TokenRange=53:57
+15	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=57:58
 
 ~~~
 

@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>ni</em>
-* `EMPTY` (13760): <em>y, o, pero, que, e, como, ni, sino, mientras, si</em>
+* `EMPTY` (13758): <em>y, o, pero, que, e, como, ni, sino, mientras, si</em>
 
 ### `PART`
 
@@ -83,5 +83,5 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADP` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>para</em>
-* `EMPTY` (71082): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
+* `EMPTY` (71084): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
 

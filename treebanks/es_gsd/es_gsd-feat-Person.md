@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-44527 tokens (10%) have a non-empty value of `Person`.
+44535 tokens (10%) have a non-empty value of `Person`.
 5712 types (13%) occur at least once with a non-empty value of `Person`.
-2186 lemmas (6%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (20444; 5% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9989; 2% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9583; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (4361; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (89; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (61; 0% instances).
+2185 lemmas (6%) occur at least once with a non-empty value of `Person`.
+The feature is used with 6 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (20452; 5% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9989; 2% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9583; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (4361; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (89; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (61; 0% instances).
 
 ### `VERB`
 
-20444 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
+20452 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20444; 100%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20442; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19055; 93%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15204; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10258; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20452; 100%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20450; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19062; 93%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15212; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10266; 50%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (661; 3% of non-empty `Person`): <em>tenemos, creo, vamos, estamos, voy, pedimos, tengo, quiero, recomiendo, encontramos</em>
 * `2` (99; 0% of non-empty `Person`): <em>tienes, sabes, sientes, estás, llevas, añade, mira, perdais, quieres, viste</em>
-* `3` (19684; 96% of non-empty `Person`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</em>
-* `EMPTY` (15915): <em>hacer, ubicado, ver, conocido, debido, tener, decir, dar, partir, llegar</em>
+* `3` (19692; 96% of non-empty `Person`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, tuvo</em>
+* `EMPTY` (15913): <em>hacer, ubicado, ver, conocido, debido, tener, decir, dar, partir, llegar</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tengamos</em></td><td><em>tengáis</em></td><td><em>tengan</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 92% lemmas (1935) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 92% lemmas (1934) occur only with one value of `Person`.
 
 ### `PRON`
 
@@ -172,7 +172,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 * `2` (53; 87% of non-empty `Person`): <em>², º, m</em>
 * `3` (8; 13% of non-empty `Person`): <em>$, ª, º, #, &, ²</em>
-* `EMPTY` (1601): <em>%, ², km, $, º, °, €, a, h, /</em>
+* `EMPTY` (1600): <em>%, ², km, $, º, °, €, h, /, a</em>
 
 <table>
   <tr><th>Paradigm <i>²</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -183,8 +183,8 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (4065; 77%),
-<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1720; 66%),
-<tt>VERB --[<tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (578; 52%),
+<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1721; 66%),
+<tt>VERB --[<tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (579; 52%),
 <tt>VERB --[<tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (440; 56%),
 <tt>PRON --[<tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (222; 58%),
 <tt>VERB --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> PRON</tt> (103; 87%),

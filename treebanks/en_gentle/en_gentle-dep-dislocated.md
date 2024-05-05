@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 15	,	,	PUNCT	,	_	13	punct	13:punct	_
 16	will	will	AUX	MD	VerbForm=Fin	18	aux	18:aux	Discourse=same-unit_m:58->56:1:_
 17	get	get	AUX	VB	VerbForm=Inf	18	aux:pass	18:aux:pass	_
-18	solved	solve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	parataxis	3:parataxis	_
+18	solved	solve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	parataxis	3:parataxis	MSeg=solv-ed
 19	at	at	ADP	IN	_	21	case	21:case	_
 20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Entity=(75-time-acc:com-cf2-2-sgl
 21	end	end	NOUN	NN	Number=Sing	18	obl	18:obl:at	Entity=75)|SpaceAfter=No

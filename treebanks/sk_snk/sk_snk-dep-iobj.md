@@ -8,44 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-128 nodes (0%) are attached to their parents as `iobj`.
+88 nodes (0%) are attached to their parents as `iobj`.
 
-72 instances of `iobj` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.546875.
+54 instances of `iobj` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.52272727272727.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (88; 69% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (24; 19% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (12; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 iobj	color:blue
-1	Sám	sám	DET	PFms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Emp	3	xcomp	3:xcomp	_
-2	seba	seba	PRON	PPhs4	Case=Acc|Number=Sing|PronType=Prs|Reflex=Yes	3	iobj	3:iobj	_
-3	vyhlasoval	vyhlasovať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-4	za	za	ADP	Eu4	AdpType=Prep|Case=Acc	8	case	8:case	_
-5	„	„	PUNCT	Z	_	6	punct	6:punct	SpaceAfter=No
-6	súcitného	súcitný	ADJ	AAms4x	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	SpaceAfter=No
-7	”	”	PUNCT	Z	_	6	punct	6:punct	_
-8	konzervatívca	konzervatívec	NOUN	SSms4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	3	obl:arg	3:obl:arg:za:acc	SpaceAfter=No
-9	.	.	PUNCT	Z	_	3	punct	3:punct	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (73; 83% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (8; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (7; 8% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 iobj	color:blue
-1	Štúdium	štúdium	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	2	iobj	2:iobj	_
-2	dokončil	dokončiť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-3	ako	ako	SCONJ	O	_	4	mark	4:mark	_
-4	samouk	samouk	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	xcomp	2:xcomp	SpaceAfter=No
-5	.	.	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 iobj	color:blue
+1	Stále	stále	ADV	Dx	Degree=Pos	5	advmod	5:advmod	_
+2	som	byť	AUX	VKesa+	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
+3	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	4	case	4:case	_
+4	duchu	duch	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl:v:loc	_
+5	myslela	myslieť	VERB	VLesaf+	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
+6	na	na	ADP	Eu4	AdpType=Prep|Case=Acc	7	case	7:case	_
+7	to	to	DET	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obl:arg	5:obl:arg:na:acc	SpaceAfter=No
+8	,	,	PUNCT	Z	_	11	punct	11:punct	_
+9	že	že	SCONJ	O	_	11	mark	11:mark	_
+10	si	si	PRON	R	PronType=Prs|Reflex=Yes	11	iobj	11:iobj	_
+11	udriem	udrieť	VERB	VKdsa+	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	acl	7:acl:že	_
+12	päty	päta	NOUN	SSfp4	Case=Acc|Gender=Fem|Number=Plur	11	obj	11:obj	SpaceAfter=No
+13	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
 
@@ -64,6 +53,28 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	podporovať	podporovať	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	5	xcomp	5:xcomp	_
 7	teroristov	terorista	NOUN	SSmp4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	6	obj	6:obj	SpaceAfter=No
 8	.	.	PUNCT	Z	_	1	punct	1:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 iobj	color:blue
+1	Strana	strana	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	2:nsubj	_
+2	vyzýva	vyzývať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	jedinca	jedinec	NOUN	SSms4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	2	iobj	2:iobj	SpaceAfter=No
+4	,	,	PUNCT	ZIP	_	6	punct	6:punct	_
+5	aby	aby	SCONJ	OY	Mood=Cnd	6	mark	6:mark	_
+6	poprel	poprieť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	ccomp	2:ccomp	_
+7	svedectvo	svedectvo	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	6	obj	6:obj	_
+8	vlastných	vlastný	ADJ	AAnp2x	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	9	amod	9:amod|11:amod	_
+9	očí	oko	NOUN	SSnp2	Case=Gen|Gender=Neut|Number=Plur	7	nmod	7:nmod:gen	_
+10	a	a	CCONJ	O	_	11	cc	11:cc	_
+11	uší	ucho	NOUN	SSnp2	Case=Gen|Gender=Neut|Number=Plur	9	conj	7:nmod:gen|9:conj	SpaceAfter=No
+12	.	.	PUNCT	ZIP	_	2	punct	2:punct	_
 
 ~~~
 

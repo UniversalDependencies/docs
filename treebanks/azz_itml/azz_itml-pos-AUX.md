@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.166667 (the average of all parts of speech is 1.380113).
+The form / lemma ratio of `AUX` is 3.166667 (the average of all parts of speech is 1.381087).
 
 The 1st highest number of forms (6) was observed with the lemma “etok”: <em>eski, eskia, etok, tiyetoskiyaj, yetok, yetokan</em>.
 

@@ -23,7 +23,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (1688; 100% of non-empty `Polarity`): <em>no, never, not</em>
-* `EMPTY` (12034): <em>dey, go, na, con, don, be, make, fit, come, meh</em>
+* `EMPTY` (12036): <em>dey, go, na, con, don, be, make, fit, come, meh</em>
 
 ### `PART`
 

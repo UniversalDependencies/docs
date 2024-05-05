@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-GSD: POS Tags: `ADP`
 
-There are 140 `ADP` lemmas (0%), 144 `ADP` types (0%) and 32108 `ADP` tokens (11%).
+There are 139 `ADP` lemmas (0%), 143 `ADP` types (0%) and 32105 `ADP` tokens (11%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="de_gsd-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.028571 (the average of all parts of speech is 1.187855).
+The form / lemma ratio of `ADP` is 1.028777 (the average of all parts of speech is 1.187859).
 
 The 1st highest number of forms (2) was observed with the lemma “anläßlich”: <em>anlässlich, anläßlich</em>.
 
@@ -79,17 +79,17 @@ The 3rd highest number of forms (2) was observed with the lemma “von”: <em>v
 `ADP` occurs with 4 feature-value pairs: `Abbr=Yes`, `Case=Dat`, `Foreign=Yes`, `Typo=Yes`
 
 `ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (32068 tokens).
+The most frequent feature combination is `_` (32065 tokens).
 Examples: <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 22 different relations: <tt><a href="de_gsd-dep-case.html">case</a></tt> (30559; 95% instances), <tt><a href="de_gsd-dep-compound-prt.html">compound:prt</a></tt> (928; 3% instances), <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (266; 1% instances), <tt><a href="de_gsd-dep-xcomp.html">xcomp</a></tt> (137; 0% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (48; 0% instances), <tt><a href="de_gsd-dep-flat.html">flat</a></tt> (47; 0% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (31; 0% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (30; 0% instances), <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (8; 0% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 22 different relations: <tt><a href="de_gsd-dep-case.html">case</a></tt> (30555; 95% instances), <tt><a href="de_gsd-dep-compound-prt.html">compound:prt</a></tt> (928; 3% instances), <tt><a href="de_gsd-dep-mark.html">mark</a></tt> (267; 1% instances), <tt><a href="de_gsd-dep-xcomp.html">xcomp</a></tt> (137; 0% instances), <tt><a href="de_gsd-dep-fixed.html">fixed</a></tt> (48; 0% instances), <tt><a href="de_gsd-dep-flat.html">flat</a></tt> (47; 0% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (31; 0% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (30; 0% instances), <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (12; 0% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (8; 0% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (8; 0% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="de_gsd-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="de_gsd-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (20594; 64% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (7343; 23% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1366; 4% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1309; 4% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (634; 2% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (400; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (192; 1% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (191; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (24; 0% instances),  (8; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 14 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (20594; 64% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (7343; 23% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (1366; 4% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (1309; 4% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (634; 2% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (400; 1% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (191; 1% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (189; 1% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (35; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (24; 0% instances),  (8; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="de_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-31841 (99%) `ADP` nodes are leaves.
+31838 (99%) `ADP` nodes are leaves.
 
 96 (0%) `ADP` nodes have one child.
 

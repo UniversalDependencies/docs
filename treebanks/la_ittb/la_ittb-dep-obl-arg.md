@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-ITTB: Relations: `obl:arg`
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-obl.html">obl</a></tt>.
-There are also 3 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_ittb-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="la_ittb-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_ittb-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="la_ittb-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="la_ittb-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 10268 nodes (2%) are attached to their parents as `obl:arg`.
 
@@ -64,7 +64,7 @@ The following 35 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	opiniones	opinio	NOUN	C1|grn1|casJ|gen2	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Plur	8	nsubj	_	_
 4	simul	simul	ADV	O4	_	8	advmod	_	_
 5	eidem	idem	DET	F1|grn1|casC|gen1	Case=Dat|Form=Emp|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	6	obl:arg	_	_
-6	inesse	insum	VERB	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	inesse	insum	VERB	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	8	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	non	non	PART	O4	Polarity=Neg	8	advmod:neg	_	_
 8	possunt	possum	VERB	N3|modA|tem1|gen9	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	.	.	PUNCT	Punc	_	8	punct	_	_

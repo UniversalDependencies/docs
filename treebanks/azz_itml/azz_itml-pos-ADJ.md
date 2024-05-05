@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>kwali</em> (<tt><a href="azz_itml-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.206349 (the average of all parts of speech is 1.380113).
+The form / lemma ratio of `ADJ` is 1.206349 (the average of all parts of speech is 1.381087).
 
 The 1st highest number of forms (4) was observed with the lemma “kuali”: <em>kuali, kualtsin, kwali, kwaltsin</em>.
 

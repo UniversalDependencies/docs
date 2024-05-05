@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-89 nodes (1%) are attached to their parents as `amod`.
+97 nodes (1%) are attached to their parents as `amod`.
 
-78 instances of `amod` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03370786516854.
+85 instances of `amod` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04123711340206.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (87; 98% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (94; 97% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -36,6 +36,23 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	Reyukwakú	yukwakú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:9
+2	kurí	kurí	PART	FUT	Tense=Fut	1	advmod	_	TokenRange=10:14
+3	Santa	santa	ADJ	A	_	4	amod	_	OrigLang=pt|TokenRange=15:20
+4	Igreja	igreja	PROPN	PROPN	_	5	nsubj	_	OrigLang=pt|TokenRange=21:27
+5	umundú	mundú	VERB	V	Person=3|VerbForm=Fin	1	advcl	_	TokenRange=28:34
+6	ramé	ramé	SCONJ	SCONJ	_	5	mark	_	SpaceAfter=No|TokenRange=35:39
+7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=39:40
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
@@ -49,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	nheenga-itá	nheenga	NOUN	N	Number=Plur	3	obj	_	TokenRange=34:45
 7	São	são	PROPN	PROPN	_	3	obl	_	TokenRange=46:49
 8	Gabriel	gabriel	PROPN	PROPN	_	7	flat	_	TokenRange=50:57
-9	upé	upé	ADP	ADP	_	7	case	_	SpaceAfter=No|TokenRange=58:61
+9	upé	upé	ADP	ADP	AdpType=Post	7	case	_	SpaceAfter=No|TokenRange=58:61
 10	:	:	PUNCT	PUNCT	_	11	punct	_	TokenRange=61:62
 11	Baniwa	baniwa	NOUN	N	Number=Sing	6	appos	_	SpaceAfter=No|TokenRange=63:69
 12	,	,	PUNCT	PUNCT	_	13	punct	_	TokenRange=69:70
@@ -59,23 +76,6 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 16	,	,	PUNCT	PUNCT	_	17	punct	_	TokenRange=85:86
 17	Yanomami	yanomami	NOUN	N	Number=Sing	11	conj	_	SpaceAfter=No|TokenRange=87:95
 18	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=95:96
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	Reyukwakú	yukwakú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:9
-2	kurí	kurí	PART	FUT	Tense=Fut	1	advmod	_	TokenRange=10:14
-3	Santa	santa	ADJ	A	_	4	amod	_	OrigLang=pt|TokenRange=15:20
-4	Igreja	igreja	PROPN	PROPN	_	5	nsubj	_	OrigLang=pt|TokenRange=21:27
-5	umundú	mundú	VERB	V	Person=3|VerbForm=Fin	1	advcl	_	TokenRange=28:34
-6	ramé	ramé	SCONJ	SCONJ	_	5	mark	_	SpaceAfter=No|TokenRange=35:39
-7	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=39:40
 
 ~~~
 

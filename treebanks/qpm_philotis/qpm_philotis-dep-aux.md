@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Pomak-Philotis: Relations: `aux`
 
 This relation is universal.
+There are 2 language-specific subtypes of `aux`: <tt><a href="qpm_philotis-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="qpm_philotis-dep-aux-q.html">aux:q</a></tt>.
 
-10428 nodes (12%) are attached to their parents as `aux`.
+3963 nodes (12%) are attached to their parents as `aux`.
 
-7549 instances of `aux` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54890678941312.
+2928 instances of `aux` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.51854655563967.
 
-The following 12 pairs of parts of speech are connected with `aux`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (9420; 90% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (425; 4% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (278; 3% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (110; 1% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (91; 1% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (45; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (38; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-X.html">X</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (3598; 91% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (154; 4% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (111; 3% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt>-<tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

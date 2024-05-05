@@ -22,19 +22,19 @@ The following 44 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 acl:relcl	color:blue
-1	but	but	CCONJ	_	_	12	discourse	_	AlignBegin=48990|AlignEnd=49170|Gloss=but|Syl1=bO|Syl1AlignBegin=48990|Syl1AlignEnd=49170|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=180|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=147.721|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.777|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-2	any	any	DET	_	_	4	det	_	AlignBegin=49170|AlignEnd=49420|Gloss=any|Syl1=E|Syl1AlignBegin=49170|Syl1AlignEnd=49294|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Duration=124|Syl1Glo=mH|Syl1Loc=lh|Syl1MeanF0=167.988|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=1.449|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|Syl2=ni|Syl2AlignBegin=49294|Syl2AlignEnd=49420|Syl2AvgHeightGlo=H|Syl2AvgHeightLoc=H|Syl2Duration=126|Syl2Glo=HH|Syl2Loc=hh|Syl2MeanF0=194.101|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=3.951|Syl2SlopeGlo=Flat|Syl2SlopeLoc=Flat|SyllableCount=2
-3	small	small	ADJ	_	_	4	amod	_	AlignBegin=49420|AlignEnd=49740|Gloss=small|Syl1=smO|Syl1AlignBegin=49420|Syl1AlignEnd=49740|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Duration=320|Syl1Glo=hh|Syl1Loc=mm|Syl1MeanF0=173.841|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=2.042|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-4	tin	ting	NOUN	_	_	12	dislocated	_	AlignBegin=49740|AlignEnd=49880|Gloss=thing|Syl1=tin|Syl1AlignBegin=49740|Syl1AlignEnd=49880|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Duration=140|Syl1Glo=hh|Syl1Loc=mm|Syl1MeanF0=170.936|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=1.75|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-5	weh	wey	SCONJ	_	_	7	mark	_	AlignBegin=49880|AlignEnd=50030|Gloss=REL|Syl1=wE|Syl1AlignBegin=49880|Syl1AlignEnd=50030|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=150|Syl1Glo=hl|Syl1Loc=hl|Syl1MeanF0=156.452|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.218|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=50030|AlignEnd=50090|Gloss=NOM.2|Syl1=ji|Syl1AlignBegin=50030|Syl1AlignEnd=50090|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=L|Syl1Duration=60|Syl1Glo=ll|Syl1Loc=ll|Syl1MeanF0=136.667|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-2.123|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-7	do	do	VERB	_	_	4	acl:relcl	_	AlignBegin=50090|AlignEnd=50160|Gloss=do|Syl1=du|Syl1AlignBegin=50090|Syl1AlignEnd=50160|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Duration=70|Syl1Glo=ll|Syl1Loc=mm|Syl1MeanF0=137.374|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-2.034|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+1	but	but	CCONJ	_	_	12	discourse	_	AlignBegin=48990|AlignEnd=49170|Gloss=but
+2	any	any	DET	_	_	4	det	_	AlignBegin=49170|AlignEnd=49420|Gloss=any
+3	small	small	ADJ	_	_	4	amod	_	AlignBegin=49420|AlignEnd=49740|Gloss=small
+4	tin	ting	NOUN	_	_	12	dislocated	_	AlignBegin=49740|AlignEnd=49880|Gloss=thing
+5	weh	wey	SCONJ	_	_	7	mark	_	AlignBegin=49880|AlignEnd=50030|Gloss=REL
+6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=50030|AlignEnd=50090|Gloss=NOM.2
+7	do	do	VERB	_	_	4	acl:relcl	_	AlignBegin=50090|AlignEnd=50160|Gloss=do
 8	<	<	X	_	_	4	dep	_	AlignBegin=50160|AlignEnd=50160|Gloss=PUNCT
-9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	AlignBegin=50160|AlignEnd=50270|Gloss=NOM.2|Syl1=ju|Syl1AlignBegin=50160|Syl1AlignEnd=50270|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=H|Syl1Duration=110|Syl1Glo=ml|Syl1Loc=hm|Syl1MeanF0=144.52|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-1.156|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-10	go	go	AUX	_	Aspect=Prosp	12	aux	_	AlignBegin=50270|AlignEnd=50390|Gloss=PROSP|Syl1=go|Syl1AlignBegin=50270|Syl1AlignEnd=50390|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=L|Syl1Duration=120|Syl1Glo=ll|Syl1Loc=ll|Syl1MeanF0=131.692|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-2.765|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1|UtteranceMeanF0=154.499
-11	quick	quick	ADJ	_	_	12	advcl	_	AlignBegin=50390|AlignEnd=50630|Gloss=quick|Syl1=kwik|Syl1AlignBegin=50390|Syl1AlignEnd=50630|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=H|Syl1Duration=240|Syl1Glo=hl|Syl1Loc=Hm|Syl1MeanF0=161.049|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.719|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-12	get	get	VERB	_	_	0	root	_	AlignBegin=50630|AlignEnd=50749|Gloss=get|Syl1=gE|Syl1AlignBegin=50630|Syl1AlignEnd=50749|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=119|Syl1Glo=lm|Syl1Loc=lm|Syl1MeanF0=146.79|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.886|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|SyllableCount=1
-13	money	money	NOUN	_	_	12	obj	_	AlignBegin=50749|AlignEnd=51070|Gloss=money|Syl1=mO|Syl1AlignBegin=50749|Syl1AlignEnd=50940|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Duration=191|Syl1Glo=mL|Syl1Loc=hl|Syl1MeanF0=139.742|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=-1.738|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|Syl2=ni~|Syl2AlignBegin=50940|Syl2AlignEnd=51070|Syl2AvgHeightGlo=L|Syl2AvgHeightLoc=M|Syl2Duration=130|Syl2Glo=Ll|Syl2Loc=lm|Syl2MeanF0=133.921|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=-2.475|Syl2SlopeGlo=Rise|Syl2SlopeLoc=Rise|SyllableCount=2
+9	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	AlignBegin=50160|AlignEnd=50270|Gloss=NOM.2
+10	go	go	AUX	_	Aspect=Prosp	12	aux	_	AlignBegin=50270|AlignEnd=50390|Gloss=PROSP
+11	quick	quick	ADJ	_	_	12	advcl	_	AlignBegin=50390|AlignEnd=50630|Gloss=quick
+12	get	get	VERB	_	_	0	root	_	AlignBegin=50630|AlignEnd=50749|Gloss=get
+13	money	money	NOUN	_	_	12	obj	_	AlignBegin=50749|AlignEnd=51070|Gloss=money
 14	//	//	X	_	_	12	dep	_	AlignBegin=51070|AlignEnd=51070|Gloss=PUNCT
 
 ~~~
@@ -46,19 +46,19 @@ The following 44 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 acl:relcl	color:blue
-1	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=61971|AlignEnd=62051|Gloss=NOM.PL.1|Syl1=U|Syl1AlignBegin=61971|Syl1AlignEnd=62051|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=80|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=138.002|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.826|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-2	go	go	AUX	_	Aspect=Prosp	3	aux	_	AlignBegin=62051|AlignEnd=62171|Gloss=PROSP|Syl1=go|Syl1AlignBegin=62051|Syl1AlignEnd=62171|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=L|Syl1Duration=120|Syl1Glo=ll|Syl1Loc=ll|Syl1MeanF0=130.011|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-1.858|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1|UtteranceMeanF0=144.744
-3	use	use	VERB	_	_	0	root	_	AlignBegin=62171|AlignEnd=62371|Gloss=use|Syl1=ju|Syl1AlignBegin=62171|Syl1AlignEnd=62291|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=H|Syl1Duration=120|Syl1Glo=lH|Syl1Loc=lH|Syl1MeanF0=152.356|Syl1PitchRangeGlo=H|Syl1PitchRangeLoc=H|Syl1SemitonesFromUtteranceMean=0.887|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|SyllableCount=1
-4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=62371|AlignEnd=62631|Gloss=ACC.SG.3|Syl1=za~|Syl1AlignBegin=62291|Syl1AlignEnd=62631|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=340|Syl1ExternalOnset=True|Syl1Glo=hl|Syl1Loc=hl|Syl1MeanF0=146.194|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.173|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
+1	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=61971|AlignEnd=62051|Gloss=NOM.PL.1
+2	go	go	AUX	_	Aspect=Prosp	3	aux	_	AlignBegin=62051|AlignEnd=62171|Gloss=PROSP
+3	use	use	VERB	_	_	0	root	_	AlignBegin=62171|AlignEnd=62371|Gloss=use
+4	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	3	obj	_	AlignBegin=62371|AlignEnd=62631|Gloss=ACC.SG.3
 5	//=	//=	X	_	_	7	dep	_	AlignBegin=62631|AlignEnd=62631|Gloss=PUNCT
-6	go	go	AUX	_	Aspect=Prosp	7	aux	_	AlignBegin=62631|AlignEnd=62751|Gloss=PROSP|Syl1=go|Syl1AlignBegin=62631|Syl1AlignEnd=62751|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Duration=120|Syl1Glo=mh|Syl1Loc=lh|Syl1MeanF0=148.821|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.481|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|SyllableCount=1
-7	buy	buy	VERB	_	_	3	parataxis:conj	_	AlignBegin=62751|AlignEnd=63061|Gloss=buy|Syl1=baI|Syl1AlignBegin=62751|Syl1AlignEnd=63061|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=310|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=146.973|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=0.265|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+6	go	go	AUX	_	Aspect=Prosp	7	aux	_	AlignBegin=62631|AlignEnd=62751|Gloss=PROSP
+7	buy	buy	VERB	_	_	3	parataxis:conj	_	AlignBegin=62751|AlignEnd=63061|Gloss=buy
 8	{	{	X	_	_	9	dep	_	AlignBegin=63061|AlignEnd=63061|Gloss=PUNCT
-9	cloth	cloth	NOUN	_	_	7	obj	_	AlignBegin=63061|AlignEnd=63411|Gloss=cloth|Syl1=klOt|Syl1AlignBegin=63061|Syl1AlignEnd=63411|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=350|Syl1Glo=hl|Syl1Loc=hl|Syl1MeanF0=146.221|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.176|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
+9	cloth	cloth	NOUN	_	_	7	obj	_	AlignBegin=63061|AlignEnd=63411|Gloss=cloth
 10	|c	|c	X	_	_	11	dep	_	AlignBegin=63411|AlignEnd=63411|Gloss=PUNCT
-11	wetin	wetin	PRON	_	PronType=Int	9	conj	_	AlignBegin=63411|AlignEnd=63721|Gloss=what.Q|Syl1=we|Syl1AlignBegin=63411|Syl1AlignEnd=63521|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=110|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=140.465|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.52|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|Syl2=ti~|Syl2AlignBegin=63521|Syl2AlignEnd=63721|Syl2AvgHeightGlo=H|Syl2AvgHeightLoc=H|Syl2Duration=200|Syl2Glo=hh|Syl2Loc=hh|Syl2MeanF0=158.231|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=1.542|Syl2SlopeGlo=Flat|Syl2SlopeLoc=Flat|SyllableCount=2
-12	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	AlignBegin=63721|AlignEnd=63831|Gloss=NOM.PL.1|Syl1=U|Syl1AlignBegin=63721|Syl1AlignEnd=63831|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=110|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=138.892|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.714|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-13	wan	want	VERB	_	_	11	acl:relcl	_	AlignBegin=63831|AlignEnd=64010|Gloss=want|Syl1=wOn|Syl1AlignBegin=63831|Syl1AlignEnd=64010|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=179|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=142.577|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.261|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+11	wetin	wetin	PRON	_	PronType=Int	9	conj	_	AlignBegin=63411|AlignEnd=63721|Gloss=what.Q
+12	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	AlignBegin=63721|AlignEnd=63831|Gloss=NOM.PL.1
+13	wan	want	VERB	_	_	11	acl:relcl	_	AlignBegin=63831|AlignEnd=64010|Gloss=want
 14	}	}	X	_	_	9	dep	_	AlignBegin=64011|AlignEnd=64011|Gloss=PUNCT
 15	//	//	X	_	_	3	dep	_	AlignBegin=63981|AlignEnd=64011|Gloss=PUNCT
 
@@ -71,15 +71,15 @@ The following 44 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 acl:relcl	color:blue
-1	con	con	AUX	_	Aspect=Cons	2	aux	_	AlignBegin=238164|AlignEnd=238336|Gloss=CONS|Syl1=kOn|Syl1AlignBegin=238164|Syl1AlignEnd=238336|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=H|Syl1Duration=172|Syl1Glo=hh|Syl1Loc=hh|Syl1MeanF0=162.027|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=1.609|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1|UtteranceMeanF0=147.65
-2	reach	reach	VERB	_	_	0	root	_	AlignBegin=238336|AlignEnd=238557|Gloss=reach|Syl1=r\iS|Syl1AlignBegin=238336|Syl1AlignEnd=238557|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=221|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=155.466|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=0.893|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
+1	con	con	AUX	_	Aspect=Cons	2	aux	_	AlignBegin=238164|AlignEnd=238336|Gloss=CONS
+2	reach	reach	VERB	_	_	0	root	_	AlignBegin=238336|AlignEnd=238557|Gloss=reach
 3	#	#	X	_	_	4	dep	_	AlignBegin=238557|AlignEnd=239020|Gloss=PUNCT
-4	when	when	ADV	_	_	2	obj	_	AlignBegin=239020|AlignEnd=239160|Gloss=when.Q|Syl1=wE|Syl1AlignBegin=239020|Syl1AlignEnd=239120|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=H|Syl1Duration=100|Syl1Glo=hh|Syl1Loc=hh|Syl1MeanF0=161.212|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=1.521|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=239160|AlignEnd=239304|Gloss=NOM.SG.1|Syl1=na|Syl1AlignBegin=239120|Syl1AlignEnd=239304|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=184|Syl1ExternalOnset=True|Syl1Glo=hl|Syl1Loc=hl|Syl1MeanF0=149.603|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.227|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-6	wan	want	VERB	_	_	4	acl:relcl	_	AlignBegin=239304|AlignEnd=239490|Gloss=want|Syl1=wO~|Syl1AlignBegin=239304|Syl1AlignEnd=239490|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Duration=186|Syl1Glo=mh|Syl1Loc=lh|Syl1MeanF0=150.197|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.296|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|SyllableCount=1
-7	write	write	VERB	_	_	6	xcomp	_	AlignBegin=239490|AlignEnd=239684|Gloss=write|Syl1=r\aI|Syl1AlignBegin=239490|Syl1AlignEnd=239684|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=194|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=148.26|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=0.071|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-8	junior	junior	ADJ	_	_	9	amod	_	AlignBegin=239684|AlignEnd=240020|Gloss=junior|Syl1=dZu|Syl1AlignBegin=239684|Syl1AlignEnd=239890|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=206|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=142.238|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.647|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|Syl2=nO|Syl2AlignBegin=239890|Syl2AlignEnd=240020|Syl2AvgHeightGlo=M|Syl2AvgHeightLoc=M|Syl2Duration=130|Syl2Glo=mm|Syl2Loc=mm|Syl2MeanF0=148.388|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=0.086|Syl2SlopeGlo=Flat|Syl2SlopeLoc=Flat|SyllableCount=2
-9	WAEC	WAEC	PROPN	_	_	7	obj	_	AlignBegin=240020|AlignEnd=240327|Gloss=WAEC|Syl1=wa|Syl1AlignBegin=240020|Syl1AlignEnd=240150|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Duration=130|Syl1Glo=mL|Syl1Loc=ml|Syl1MeanF0=132.408|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-1.886|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|Syl2=Ek|Syl2AlignBegin=240150|Syl2AlignEnd=240327|Syl2AvgHeightGlo=L|Syl2AvgHeightLoc=M|Syl2Duration=177|Syl2Glo=ll|Syl2Loc=mm|Syl2MeanF0=135.343|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=-1.507|Syl2SlopeGlo=Flat|Syl2SlopeLoc=Flat|SyllableCount=2
+4	when	when	ADV	_	_	2	obj	_	AlignBegin=239020|AlignEnd=239160|Gloss=when.Q
+5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=239160|AlignEnd=239304|Gloss=NOM.SG.1
+6	wan	want	VERB	_	_	4	acl:relcl	_	AlignBegin=239304|AlignEnd=239490|Gloss=want
+7	write	write	VERB	_	_	6	xcomp	_	AlignBegin=239490|AlignEnd=239684|Gloss=write
+8	junior	junior	ADJ	_	_	9	amod	_	AlignBegin=239684|AlignEnd=240020|Gloss=junior
+9	WAEC	WAEC	PROPN	_	_	7	obj	_	AlignBegin=240020|AlignEnd=240327|Gloss=WAEC
 10	//	//	X	_	_	2	dep	_	AlignBegin=240327|AlignEnd=240327|Gloss=PUNCT
 
 ~~~

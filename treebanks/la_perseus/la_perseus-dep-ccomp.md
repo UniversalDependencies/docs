@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	mehercules	Hercules	INTJ	e--------	_	6	discourse	_	LId=Hercules1
 3	patria	patria	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LId=patria1
 4	melior	bonus	ADJ	a-s---fnc	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	5	ccomp	_	LId=bonus1
-5	dici	dico	VERB	v--pnp---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	6	xcomp	_	LId=dico2
+5	dici	dico	VERB	v--pnp---	Aspect=Imp|VerbForm=Inf|Voice=Pass	6	xcomp	_	LId=dico2|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	potest	possum	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=possum1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 7	,	,	PUNCT	u--------	_	8	punct	_	LId=comma1
 8	si	si	SCONJ	c--------	_	10	mark	_	LId=si1

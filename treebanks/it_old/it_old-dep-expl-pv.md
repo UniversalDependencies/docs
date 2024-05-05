@@ -9,39 +9,30 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="it_old-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_old-dep-expl-pass.html">expl:pass</a></tt>.
 
-393 nodes (1%) are attached to their parents as `expl:pv`.
+853 nodes (1%) are attached to their parents as `expl:pv`.
 
-343 instances of `expl:pv` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11450381679389.
+712 instances of `expl:pv` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10668229777257.
 
-The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (389; 99% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (848; 99% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 expl:pv	color:blue
-1	E	e	CCONJ	cscc	_	2	cc	_	Canto=22|Verso=66
-2	quelli	quello	PRON	pd1ms	Gender=Masc|Number=Sing|Person=1|PronType=Dem	0	root	_	Canto=22|SpaceAfter=No|Verso=66
-3	:	:	PUNCT	_	_	7	punct	_	_
-4	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
-5	I'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Canto=22|Verso=66
-6	mi	mi	PRON	pf1syle	Clitic=Yes|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	expl:pv	_	Canto=22|Verso=66
-7	partii	partire	VERB	vi+3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp:reported	_	Canto=22|SpaceAfter=No|Verso=66
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	poco	poco	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	advcl	_	Canto=22|Verso=67
-10	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Canto=22|SpaceAfter=No|Verso=67
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	da	da	ADP	epska	_	13	case	_	Canto=22|Verso=67
-13	un	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	Canto=22|Verso=67
-14	che	che	PRON	pr	PronType=Rel	18	nsubj	_	Canto=22|Verso=67
-15	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	Canto=22|Verso=67
-16	di	di	ADP	_	_	17	case	_	Canto=22|Verso=67
-17	là	là	ADV	_	_	18	advmod:lmod	_	Canto=22|Verso=67
-18	vicino	vicino	ADJ	a1msxc5	Gender=Masc|Number=Sing	13	acl:relcl	_	Canto=22|SpaceAfter=No|Verso=67
-19	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 expl:pv	color:blue
+1	Poi	poi	ADV	b	_	3	advmod:tmod	_	Canto=26|Verso=148
+2	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Canto=26|Verso=148
+3	ascose	ascondere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=26|Verso=148
+4	in	in	ADP	_	_	6	case	_	Canto=26|Comment=ne-l|Verso=148
+5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Canto=26|Comment=ne-l|Verso=148
+6	foco	fuoco	NOUN	sm2ms	Gender=Masc|Number=Sing	3	obl:lmod	_	Canto=26|Verso=148
+7	che	che	PRON	pr	PronType=Rel	9	nsubj	_	Canto=26|Verso=148
+8	li	li	PRON	pp3mpyac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	Canto=26|Verso=148
+9	affina	affinare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	Canto=26|SpaceAfter=No|Verso=148
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

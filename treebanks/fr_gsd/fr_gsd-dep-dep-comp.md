@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-dep.html">dep</a></tt>.
 
-16 nodes (0%) are attached to their parents as `dep:comp`.
+17 nodes (0%) are attached to their parents as `dep:comp`.
 
-12 instances of `dep:comp` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.125.
+12 instances of `dep:comp` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.11764705882353.
 
-The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11; 69% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 13% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 6 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11; 65% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 12% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -60,36 +60,58 @@ The following 5 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 24 dep:comp	color:blue
-1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	wordform=cette
-2	théorie	théorie	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
-3	issue	issu	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	psychologie	psychologie	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	_
-7	suppose	supposer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	que	que	SCONJ	_	_	11	mark	_	_
-9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
-10	individu	individu	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
-11	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
-12	sens	sens	NOUN	_	Gender=Masc|Number=Sing	11	obj:lvc	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	monde	monde	NOUN	_	Gender=Masc|Number=Sing	11	obl:arg	_	_
-16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
-17	l'	lui	PRON	_	Emph=No|Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No
-18	entoure	entourer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
-19	à	à	ADP	_	ExtPos=ADV	11	advmod	_	Idiom=Yes
-20	partir	partir	VERB	_	VerbForm=Inf	19	fixed	_	InIdiom=Yes
-21	de	de	ADP	_	_	24	case	_	_
-22	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	24	det	_	_
-23	propres	propre	ADJ	_	Gender=Masc|Number=Plur	24	amod	_	_
-24	construits	construire	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	19	dep:comp	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 33	bgColor:blue
+# visual-style 33	fgColor:white
+# visual-style 33 36 dep:comp	color:blue
+1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=un
+2	an	an	NOUN	_	Gender=Masc|Number=Sing	20	obl:mod	_	_
+3	plus	plus	ADV	_	_	4	advmod	_	_
+4	tard	tard	ADV	_	_	2	advmod	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	13	13	NUM	_	Number=Sing	2	appos	_	_
+7	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+8	2008	2008	NUM	_	Number=Plur	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	une	un	NUM	_	Gender=Fem|Number=Sing	11	nummod	_	_
+11	quarantaine	quarantaine	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	chefs	chef	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+14	d'	de	ADP	_	_	15	case	_	SpaceAfter=No
+15	Etats	Etats	PROPN	_	_	13	nmod	_	_
+16	et	et	CCONJ	_	_	18	cc	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	gouvernements	gouvernement	NOUN	_	Gender=Masc|Number=Plur	15	conj	_	_
+19	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
+20	rassemblent	rassembler	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	à	à	ADP	_	_	22	case	_	_
+22	Paris	Paris	PROPN	_	_	20	obl:mod	_	_
+23	pour	pour	ADP	_	_	27	case	_	_
+24	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+25	grand	grand	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
+26	«	«	PUNCT	_	_	27	punct	_	_
+27	show	show	NOUN	_	Gender=Masc|Number=Sing	20	obl:mod	_	_
+28	»	»	PUNCT	_	_	27	punct	_	_
+29	diplomatique	diplomatique	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
+30	et	et	CCONJ	_	_	32	cc	_	_
+31	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	dîner	dîner	NOUN	_	Gender=Masc|Number=Sing	27	conj	_	_
+33	à	à	ADP	_	_	32	dep	_	_
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+35	Grand	grand	ADJ	_	Gender=Masc|Number=Sing	36	amod	_	wordform=grand
+36	Palais	palais	NOUN	_	Gender=Masc|Number=Sing	33	dep:comp	_	SpaceAfter=No|wordform=palais
+37	,	,	PUNCT	_	_	42	punct	_	_
+38	qui	qui	PRON	_	PronType=Rel	42	nsubj	_	_
+39	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	aux:tense	_	_
+40	d'	de	ADP	_	ExtPos=ADV	42	advmod	_	Idiom=Yes|SpaceAfter=No
+41	ailleurs	ailleurs	ADV	_	_	40	fixed	_	InIdiom=Yes
+42	coûté	coûter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	32	acl:relcl	_	_
+43	5050	5050	NUM	_	Number=Plur	44	nummod	_	_
+44	euros	euro	NOUN	_	Gender=Masc|Number=Plur	42	obj	_	_
+45	par	par	ADP	_	_	46	case	_	_
+46	personne	personne	NOUN	_	Gender=Fem|Number=Sing	44	nmod	_	_
+47	!	!	PUNCT	_	_	20	punct	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sl_ssj-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="sl_ssj-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-1738 nodes (1%) are attached to their parents as `flat:name`.
+1732 nodes (1%) are attached to their parents as `flat:name`.
 
-1738 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14384349827388.
+1732 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.14376443418014.
 
-The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1565; 90% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (71; 4% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (52; 3% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (42; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1555; 90% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (69; 4% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (53; 3% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (47; 3% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 7 pairs of parts of speech are connected with `flat:name`: <tt><a 
 9	-	-	PUNCT	Z	_	8	punct	_	NER=I-misc|SpaceAfter=No
 10	Mortem	mortem	X	Xf	Foreign=Yes	8	flat:foreign	_	NER=I-misc
 11	on	on	X	Xf	Foreign=Yes	8	flat:foreign	_	NER=I-misc
-12	UNPROFOR	Unprofor	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	8	flat:foreign	_	NER=I-misc|SpaceAfter=No
+12	UNPROFOR	Unprofor	X	Npmsn	Foreign=Yes	8	flat:foreign	_	NER=I-misc|SpaceAfter=No
 13	.	.	PUNCT	Z	_	1	punct	_	NER=O
 
 ~~~

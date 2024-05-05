@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="en_gum-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-6 nodes (0%) are attached to their parents as `csubj:outer`.
+9 nodes (0%) are attached to their parents as `csubj:outer`.
 
-6 instances of `csubj:outer` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.16666666666667.
+9 instances of `csubj:outer` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (5; 83% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (6; 67% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (3; 33% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 5	bit	bit	NOUN	NN	Number=Sing	7	obl:npmod	7:obl:npmod	_
 6	like	like	SCONJ	IN	_	7	mark	7:mark	_
-7	studying	study	VERB	VBG	VerbForm=Ger	0	root	0:root	MSeg=study-ing
+7	studying	study	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=study-ing
 8	symmetry	symmetry	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=(29-abstract-new-cf3-1-sgl)|SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	7:punct	_
 
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 10	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
 11	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(27-abstract-new-cf5-4-sgl
 12	b-	b-	INTJ	UH	_	13	reparandum	13:reparandum	_
-13	general	general	ADJ	JJ	Degree=Pos	14	amod	14:amod	MSeg=general
+13	general	general	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	idea	idea	NOUN	NN	Number=Sing	10	obj	10:obj	SpaceAfter=No
 15	,	,	PUNCT	,	_	18	punct	18:punct	_
 16	of	of	ADP	IN	_	18	case	18:case	Discourse=elaboration-additional:56->55:0:_
@@ -65,7 +65,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	20:obj	Entity=(4-event-giv:act-cf2-1-ana)27)|SpaceAfter=No
 22	,	,	PUNCT	,	_	24	punct	24:punct	_
 23	just	just	ADV	RB	_	24	advmod	24:advmod	Discourse=causal-cause:57->55:1:_
-24	watching	watch	VERB	VBG	VerbForm=Ger	10	advcl	10:advcl	MSeg=watch-ing
+24	watching	watch	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl	MSeg=watch-ing
 25	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obj	24:obj	Entity=(24-person-giv:act-cf1*-1-ana)|SpaceAfter=No|XML=<hi rend:::"lengthened"></hi>
 26	.	.	PUNCT	.	_	10	punct	10:punct	_
 

@@ -48,7 +48,7 @@ The following 16 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	pastori	pastor	NOUN	sms3d	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obl	_	_
 4	fors	fors	ADV	r	_	7	advmod	_	_
 5	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-6	mandare	mando	VERB	va1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	7	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	mandare	mando	VERB	va1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	7	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	superbum	superbus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	SpaceAfter=No
 8	»	»	PUNCT	Pu	_	7	punct	_	SpaceAfter=No
 9	.	.	PUNCT	Pu	_	7	punct	_	_

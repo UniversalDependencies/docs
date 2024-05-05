@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Glyd Aranes.
 
 Repository: [UD_Cebuano-GJA](https://github.com/UniversalDependencies/UD_Cebuano-GJA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,7 +73,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 
 ## Relations
 
-[acl](ceb_gja-dep-acl.html) – [advcl](ceb_gja-dep-advcl.html) – [advmod](ceb_gja-dep-advmod.html) – [amod](ceb_gja-dep-amod.html) – [appos](ceb_gja-dep-appos.html) – [case](ceb_gja-dep-case.html) – [cc](ceb_gja-dep-cc.html) – [ccomp](ceb_gja-dep-ccomp.html) – [compound](ceb_gja-dep-compound.html) – [compound:redup](ceb_gja-dep-compound-redup.html) – [conj](ceb_gja-dep-conj.html) – [csubj](ceb_gja-dep-csubj.html) – [det](ceb_gja-dep-det.html) – [discourse](ceb_gja-dep-discourse.html) – [fixed](ceb_gja-dep-fixed.html) – [flat](ceb_gja-dep-flat.html) – [iobj](ceb_gja-dep-iobj.html) – [mark](ceb_gja-dep-mark.html) – [nmod](ceb_gja-dep-nmod.html) – [nsubj](ceb_gja-dep-nsubj.html) – [nummod](ceb_gja-dep-nummod.html) – [obj](ceb_gja-dep-obj.html) – [obl](ceb_gja-dep-obl.html) – [parataxis](ceb_gja-dep-parataxis.html) – [punct](ceb_gja-dep-punct.html) – [root](ceb_gja-dep-root.html) – [vocative](ceb_gja-dep-vocative.html)
+[acl](ceb_gja-dep-acl.html) – [advcl](ceb_gja-dep-advcl.html) – [advmod](ceb_gja-dep-advmod.html) – [amod](ceb_gja-dep-amod.html) – [appos](ceb_gja-dep-appos.html) – [case](ceb_gja-dep-case.html) – [cc](ceb_gja-dep-cc.html) – [ccomp](ceb_gja-dep-ccomp.html) – [compound](ceb_gja-dep-compound.html) – [compound:redup](ceb_gja-dep-compound-redup.html) – [conj](ceb_gja-dep-conj.html) – [csubj](ceb_gja-dep-csubj.html) – [det](ceb_gja-dep-det.html) – [discourse](ceb_gja-dep-discourse.html) – [fixed](ceb_gja-dep-fixed.html) – [flat](ceb_gja-dep-flat.html) – [mark](ceb_gja-dep-mark.html) – [nmod](ceb_gja-dep-nmod.html) – [nsubj](ceb_gja-dep-nsubj.html) – [nummod](ceb_gja-dep-nummod.html) – [obj](ceb_gja-dep-obj.html) – [obl](ceb_gja-dep-obl.html) – [parataxis](ceb_gja-dep-parataxis.html) – [punct](ceb_gja-dep-punct.html) – [root](ceb_gja-dep-root.html) – [vocative](ceb_gja-dep-vocative.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -113,7 +113,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as pronouns (PRON): PRON, ako, amo, ana, ani, asa, ikaw, ila, imo, inyo, iya, ka, kadto, kami, kana, kini, kinsa, kita, ko, nimo, nimo., niya, nko, sila, siya, taka, tika, unsa</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): ako, ana, ani, asa, ikaw, inyo, kadto, kami, kamo, kana, kini, kinsa, kita, sila, siya, unsa</li>
 </ul>
 
 <ul>
@@ -167,6 +167,14 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 </ul>
 
 <ul>
+  <li>Dual
+    <ul>
+      <li>PRON: taka, tika</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Plur
     <ul>
       <li>DET: mga</li>
@@ -209,7 +217,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
   <li>Nom
     <ul>
       <li>ADP: ang, si, -g, -ng</li>
-      <li>PRON: ko, ka, ako, mi, sila, koy, ikaw, Akoy, kamiy, miy</li>
+      <li>PRON: ko, ka, ako, mi, sila, koy, ikaw, taka, tika, Akoy</li>
     </ul>
   </li>
 </ul>
@@ -394,7 +402,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>1
     <ul>
-      <li>PRON: ko, ako, mi, nako, amo, koy, Akoy, ka, kamiy, miy</li>
+      <li>PRON: ko, ako, mi, nako, amo, koy, taka, tika, Akoy, kamiy</li>
     </ul>
   </li>
 </ul>
@@ -402,7 +410,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>2
     <ul>
-      <li>PRON: ka, imoha, ikaw, inyo, mo, nimo</li>
+      <li>PRON: ka, imo, nimo, imoha, ikaw, inyo, mo</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +418,7 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 <ul>
   <li>3
     <ul>
-      <li>PRON: siya, iya, imo, sila, ila, nimo, siyay, iyaha, mo, niya</li>
+      <li>PRON: siya, iya, sila, ila, siyay, iyaha, niya</li>
     </ul>
   </li>
 </ul>
@@ -426,12 +434,12 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
     <ul>
       <li>Ex
         <ul>
-          <li>PRON: mi, kamiy, miy</li>
+          <li>PRON: mi, amo, kamiy, miy</li>
         </ul>
       </li>
       <li>In
         <ul>
-          <li>PRON: amo, ta</li>
+          <li>PRON: taka, tika, ta</li>
         </ul>
       </li>
     </ul>
@@ -536,9 +544,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (3)</li>
       <li>VERB--NOUN-ADP(ang) (21)</li>
-      <li>VERB--PRON (3)</li>
+      <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Gen (26)</li>
-      <li>VERB--PRON-Nom (56)</li>
+      <li>VERB--PRON-Nom (58)</li>
     </ul>
   </li>
 </ul>
@@ -549,9 +557,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (13)</li>
       <li>VERB--NOUN-ADP(sa) (19)</li>
       <li>VERB--NOUN-ADP(ug) (14)</li>
-      <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Gen (7)</li>
-      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB--PRON-Nom (5)</li>
     </ul>
   </li>
 </ul>
@@ -559,7 +566,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -571,5 +577,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>compound:redup</a></li>
-<li>The following 11 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

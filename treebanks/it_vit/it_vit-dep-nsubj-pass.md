@@ -49,8 +49,8 @@ The following 15 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 6	tentata	tentare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
 7	con	con	ADP	E	_	9	case	_	_
 8	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
-9	open	open	X	SW	Foreign=Yes|Gender=Masc|Number=Sing	6	obl	_	_
-10	space	space	X	SW	Foreign=Yes|Gender=Masc|Number=Sing	9	flat:foreign	_	SpaceAfter=No
+9	open	open	X	SW	Foreign=Yes	6	obl	_	_
+10	space	space	X	SW	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
 11	"	"	PUNCT	FB	_	1	punct	_	SpaceAfter=No
 12	.	.	PUNCT	FS	_	1	punct	_	_
 

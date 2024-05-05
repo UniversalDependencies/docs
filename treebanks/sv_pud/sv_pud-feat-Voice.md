@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-2692 tokens (14%) have a non-empty value of `Voice`.
-1107 types (18%) occur at least once with a non-empty value of `Voice`.
-628 lemmas (13%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1962; 10% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (730; 4% instances).
+2691 tokens (14%) have a non-empty value of `Voice`.
+1106 types (18%) occur at least once with a non-empty value of `Voice`.
+627 lemmas (13%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1961; 10% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (730; 4% instances).
 
 ### `VERB`
 
-1962 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+1961 <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1245; 63%), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1242; 63%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (1621; 83% of non-empty `Voice`): <em>har, sade, säger, började, ha, hade, blev, få, göra, gjorde</em>
+* `Act` (1620; 83% of non-empty `Voice`): <em>har, sade, säger, började, ha, hade, blev, få, göra, gjorde</em>
 * `Pass` (341; 17% of non-empty `Voice`): <em>finns, användes, fanns, lyckades, anses, tillämpas, behövs, bildades, finnas, föddes</em>
-* `EMPTY` (6): <em>Controlled, Knew, Thought, förlorad, stammande, tvungen</em>
+* `EMPTY` (3): <em>Controlled, Knew, Thought</em>
 
 <table>
   <tr><th>Paradigm <i>säga</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -50,10 +50,10 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="sv_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (275; 82%),
+<tt>VERB --[<tt><a href="sv_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (275; 83%),
 <tt>VERB --[<tt><a href="sv_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (176; 76%),
-<tt>VERB --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (151; 82%),
-<tt>VERB --[<tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (83; 80%),
+<tt>VERB --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (151; 83%),
+<tt>VERB --[<tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (82; 81%),
 <tt>VERB --[<tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (71; 79%),
 <tt>VERB --[<tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (48; 76%),
 <tt>VERB --[<tt><a href="sv_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (9; 90%),

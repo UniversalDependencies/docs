@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 5	,	,	PUNCT	skyr.	_	9	punct	9:punct	_
 6	kurių	kuris	DET	įv.vyr.dgs.K.	Case=Gen|Definite=Ind|Gender=Masc|Number=Plur|PronType=Int,Rel	8	amod	8:amod	_
 7	inkubacinis	inkubacinis	ADJ	bdv.nelygin.vyr.vns.V.	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	8:amod	_
-8	periodas	periodas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj|10:nsubj	_
+8	periodas	periodas	NOUN	dkt.vyr.vns.V.	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj|10:nsubj:xsubj	_
 9	gali	galėti	VERB	vksm.asm.tiesiog.es.vns.3.	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	acl	4:acl	_
 10	trukti	trukti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_
 11	nuo	nuo	ADP	prl.K.	AdpType=Prep|Case=Gen	13	case	13:case	_

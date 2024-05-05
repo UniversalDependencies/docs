@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Shadi Saleh.
 
 Repository: [UD_Arabic-PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_padt213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_padt214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -751,24 +751,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (2044)</li>
+      <li>VERB--NOUN-Acc (2140)</li>
       <li>VERB--NOUN-Acc-ADP(إِزَاءَ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(بِ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(عَلَى) (1)</li>
       <li>VERB--NOUN-Acc-ADP(فِي) (3)</li>
+      <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
       <li>VERB--NOUN-Acc-ADP(مِن) (2)</li>
       <li>VERB--NOUN-Acc-ADP(وَ) (2)</li>
-      <li>VERB--NOUN-Nom (121)</li>
-      <li>VERB--PRON-Acc (661)</li>
+      <li>VERB--NOUN-Nom (131)</li>
+      <li>VERB--PRON-Acc (677)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Acc (2706)</li>
+      <li>VERB-Fin--NOUN-Acc (2752)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(إِلَى) (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(بِ) (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(عَن) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(لَا) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(لِ) (2)</li>
       <li>VERB-Fin--NOUN-Nom (85)</li>
-      <li>VERB-Fin--PRON-Acc (662)</li>
+      <li>VERB-Fin--PRON-Acc (677)</li>
     </ul>
   </li>
 </ul>
@@ -776,13 +777,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Acc (122)</li>
-      <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
-      <li>VERB--NOUN-Nom (21)</li>
-      <li>VERB--PRON-Acc (31)</li>
-      <li>VERB-Fin--NOUN-Acc (57)</li>
+      <li>VERB--NOUN-Acc (26)</li>
+      <li>VERB--NOUN-Nom (11)</li>
+      <li>VERB--PRON-Acc (15)</li>
+      <li>VERB-Fin--NOUN-Acc (11)</li>
       <li>VERB-Fin--NOUN-Nom (2)</li>
-      <li>VERB-Fin--PRON-Acc (25)</li>
+      <li>VERB-Fin--PRON-Acc (10)</li>
     </ul>
   </li>
 </ul>

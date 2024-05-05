@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `advmod:foc`: <tt><a
 6	сӧмын	сӧмын	ADV	Adv	_	8	advmod:foc	_	_
 7	пипу	пипу	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	_
 8	рас	рас	NOUN	N	Case=Nom|Number=Sing	5	obl	_	_
-9	весьтӧдз	весьт	ADP	Po	Case=Ter|Number=Sing	8	case	_	SpaceAfter=No
+9	весьтӧдз	весьт	ADP	Po	AdpType=Post|Case=Ter|Number=Sing	8	case	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

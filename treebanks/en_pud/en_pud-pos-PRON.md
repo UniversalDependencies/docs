@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `PRON`
 
-There are 27 `PRON` lemmas (1%), 37 `PRON` types (1%) and 1024 `PRON` tokens (5%).
+There are 29 `PRON` lemmas (1%), 37 `PRON` types (1%) and 1024 `PRON` tokens (5%).
 Out of 17 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>he, it, they, she, that, which, I, we, who, its</em>
+The 10 most frequent `PRON` lemmas: <em>it, he, his, that, they, which, their, I, who, its</em>
 
 The 10 most frequent `PRON` types:  <em>it, he, his, that, which, their, they, I, who, her</em>
 
-The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 74, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 15), <em>which</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 62, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>I</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 53, <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 5), <em>there</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 32, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>this</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 57, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 27), <em>those</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 4), <em>these</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 5), <em>one</em> (<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>where</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 18, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>that</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 80, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 19), <em>which</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 62, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>I</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 53, <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 6), <em>there</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 32, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>this</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 72, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 32), <em>one</em> (<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 39, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>where</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 18, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 68, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 12), <em>which</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 62, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>I</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 48, <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 5), <em>there</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 2), <em>this</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 41, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 13), <em>those</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 4), <em>these</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 2), <em>One</em> (<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>where</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 17, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 68, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 12), <em>which</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 62, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>I</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 48, <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 6), <em>there</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 18, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 2), <em>this</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 41, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 13), <em>those</em> (<tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 4), <em>these</em> (<tt><a href="en_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 2), <em>One</em> (<tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>where</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 17, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
 
 
 * <em>that</em>
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SC
   * <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3: <em>It is now only unclear , in <b>which</b> one .</em>
 * <em>I</em>
   * <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 48: <em>" <b>I</b> 'm going to jail either way , hope it was worth it . "</em>
-  * <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 5: <em>Their first king was Mojmír <b>I</b> ( ruled 830 – 846 ) .</em>
+  * <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> 6: <em>Their first king was Mojmír <b>I</b> ( ruled 830 – 846 ) .</em>
 * <em>there</em>
   * <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 18: <em>Still , <b>there</b> are questions left unanswered .</em>
   * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 10: <em>A keen guitarist , he played a concert <b>there</b> the same year .</em>
@@ -57,19 +57,19 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.370370 (the average of all parts of speech is 1.140354).
+The form / lemma ratio of `PRON` is 1.275862 (the average of all parts of speech is 1.147869).
 
-The 1st highest number of forms (4) was observed with the lemma “we”: <em>our, us, we, ’s</em>.
+The 1st highest number of forms (3) was observed with the lemma “we”: <em>us, we, ’s</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “he”: <em>he, him, his</em>.
+The 2nd highest number of forms (2) was observed with the lemma “I”: <em>I, me</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “they”: <em>their, them, they</em>.
+The 3rd highest number of forms (2) was observed with the lemma “he”: <em>he, him</em>.
 
-`PRON` occurs with 7 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (988; 96% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (779; 76% instances), <tt><a href="en_pud-feat-Person.html">Person</a></tt> (742; 72% instances), <tt><a href="en_pud-feat-Case.html">Case</a></tt> (484; 47% instances), <tt><a href="en_pud-feat-Gender.html">Gender</a></tt> (482; 47% instances), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt> (260; 25% instances), <tt><a href="en_pud-feat-Reflex.html">Reflex</a></tt> (10; 1% instances)
+`PRON` occurs with 8 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (989; 97% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (779; 76% instances), <tt><a href="en_pud-feat-Person.html">Person</a></tt> (743; 73% instances), <tt><a href="en_pud-feat-Case.html">Case</a></tt> (485; 47% instances), <tt><a href="en_pud-feat-Gender.html">Gender</a></tt> (482; 47% instances), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt> (260; 25% instances), <tt><a href="en_pud-feat-Reflex.html">Reflex</a></tt> (10; 1% instances), <tt><a href="en_pud-feat-Style.html">Style</a></tt> (1; 0% instances)
 
-`PRON` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
+`PRON` occurs with 17 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`, `Style=Coll`
 
-`PRON` occurs with 34 feature combinations.
+`PRON` occurs with 35 feature combinations.
 The most frequent feature combination is `PronType=Rel` (152 tokens).
 Examples: <em>which, that, who</em>
 
@@ -78,7 +78,7 @@ Examples: <em>which, that, who</em>
 
 `PRON` nodes are attached to their parents using 13 different relations: <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (477; 47% instances), <tt><a href="en_pud-dep-nmod-poss.html">nmod:poss</a></tt> (260; 25% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (75; 7% instances), <tt><a href="en_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (61; 6% instances), <tt><a href="en_pud-dep-expl.html">expl</a></tt> (59; 6% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (57; 6% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (18; 2% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (6; 1% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="en_pud-dep-iobj.html">iobj</a></tt> (3; 0% instances), <tt><a href="en_pud-dep-nmod-npmod.html">nmod:npmod</a></tt> (3; 0% instances), <tt><a href="en_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (611; 60% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (316; 31% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (65; 6% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances),  (6; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 11 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (610; 60% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (316; 31% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (65; 6% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (6; 1% instances),  (6; 1% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 926 (90%) `PRON` nodes are leaves.
 

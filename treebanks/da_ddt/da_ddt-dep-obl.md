@@ -52,7 +52,7 @@ The following 25 pairs of parts of speech are connected with `obl`: <tt><a href=
 5	agurk	agurk	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	3	obl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	men	men	CCONJ	_	_	1	cc	_	_
-8	ikke	ikke	ADV	_	_	1	advmod	_	_
+8	ikke	ikke	ADV	Polarity=Neg	_	1	advmod	_	_
 9	af	af	ADP	_	AdpType=Prep	10	case	_	_
 10	courgette	courgette	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	1	nmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_

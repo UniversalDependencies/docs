@@ -63,7 +63,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>saku0007</em>
-* `EMPTY` (3951): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
+* `EMPTY` (3948): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
 
 ### `SYM`
 

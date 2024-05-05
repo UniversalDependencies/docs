@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `NegConvPrc`, `Past`.
 
-12 tokens (0%) have a non-empty value of `PartForm`.
+13 tokens (0%) have a non-empty value of `PartForm`.
 10 types (0%) occur at least once with a non-empty value of `PartForm`.
 8 lemmas (1%) occur at least once with a non-empty value of `PartForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
 
@@ -26,11 +26,11 @@ The most frequent other feature values with which `VERB` and `PartForm` co-occur
 
 ### `AUX`
 
-3 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `PartForm`.
+4 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `PartForm`.
 
-The most frequent other feature values with which `AUX` and `PartForm` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (3; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `AUX` and `PartForm` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv,Part</tt> (4; 100%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `PartForm`:
 
-* `NegConvPrc` (3; 100% of non-empty `PartForm`): <em>апак</em>
+* `NegConvPrc` (4; 100% of non-empty `PartForm`): <em>апак</em>
 

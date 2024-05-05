@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="sms_giellagas-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="sms_giellagas-dep-aux-tense.html">aux:tense</a></tt>.
 
-45 nodes (2%) are attached to their parents as `aux:neg`.
+46 nodes (2%) are attached to their parents as `aux:neg`.
 
-45 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48888888888889.
+46 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.52173913043478.
 
-The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (40; 89% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (41; 89% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -50,10 +50,10 @@ The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 5	kâʹl	kâʹl	ADV	Adv	_	7	advmod	_	_
 6	leäkku	leeʹd	AUX	V	Connegative=Yes	7	cop	_	GTtags=ConNeg
 7	šurr	šurr	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	10	punct	_	_
+8	,	,	PUNCT	CLB	_	10	punct	_	_
 9	mâʹte	mâʹte	ADV	Adv	_	10	mark	_	_
 10	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	acl	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
-11	,	,	PUNCT	PUNCT	_	16	punct	_	_
+11	,	,	PUNCT	CLB	_	16	punct	_	_
 12	tuu	ton	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	det	_	GTtags=Pers,Sg2,Gen
 13	šoora	šoora	ADJ	A	_	14	amod	_	_
 14	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	16	nsubj:cop	_	GTtags=Sem/Hum,Sg,Nom

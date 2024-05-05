@@ -8,33 +8,52 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (2%) are attached to their parents as `advcl`.
+145 nodes (2%) are attached to their parents as `advcl`.
 
-15 instances of `advcl` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.44827586206897.
+81 instances of `advcl` (56%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.84137931034483.
 
-The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (13; 45% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (8; 28% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 15 pairs of parts of speech are connected with `advcl`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (70; 48% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (38; 26% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (12; 8% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (6; 4% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 advcl	color:blue
+1	Ure	u	PRON	bi	Mood=Ind|Number=Sing|Person=3	4	nsubj	_	_
+2	tumugudo	mugudo	VERB	v	Reflex=Yes	4	advcl	_	_
+3	keje	keje	SCONJ	sconj	_	2	mark	_	_
+4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	:	:	PUNCT	punct	_	4	punct	_	_
+6	inoba	inoba	ADV	adv	PronType=Int	7	advmod	_	_
+7	boemode	boe	VERB	v	Mood=Ind|Tense=Fut	4	conj	_	_
+8	?	?	PUNCT	punct	_	7	punct	_	_
+9	Tui	ty	PRON	_	Reflex=Yes|VerbForm=Ger	10	nsubj	_	_
+10	tumugudo	mugudo	VERB	v	Reflex=Yes|Voice=Cau	4	advcl	_	_
+11	keje	keje	SCONJ	sconj	_	10	mark	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 8 advcl	color:blue
-1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
-2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
-3	nowu	nowu	DET	_	_	4	det	_	_
-4	boe	boe	NOUN	n	_	8	iobj	_	_
-5	jamedy	jamedy	ADV	adv	_	4	advmod	_	_
-6	ji	ji	ADP	posp	_	4	case	_	_
-7	boe	boe	NOUN	n	_	8	dep	_	_
-8	akedudo	akedudo	VERB	v	_	13	advcl	_	_
-9	tuje	tuje	VERB	v	Number=Plur|Person=3	8	xcomp	_	_
-10	dykeje	dy	X	_	_	8	mark	_	_
-11	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	13	dep	_	_
-12	imedu	imedu	NOUN	n	_	13	obj	_	man;homem
-13	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 advcl	color:blue
+1	Icare	icare	ADV	adv	_	4	advmod	_	_
+2	Akaruio	Akaruio	PROPN	propn	_	4	nsubj	_	_
+3	Bokodori	Bokodori	PROPN	propn	_	2	compound	_	_
+4	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+5	Bakoro	Bakoro	PROPN	propn	_	4	ccomp	_	_
+6	Uwuria	Uwuria	PROPN	propn	_	5	compound	_	_
+7	,	,	PUNCT	punct	_	4	punct	_	_
+8	oino	oino	ADV	adv	_	4	advcl	_	_
+9	arigao	arigao	NOUN	n	Number=Sing	4	obl	_	_
+10	corewy	co	NOUN	n	Mood=Ind|Nomzr=Rel	9	nmod	_	_
+11	ji	ji	ADP	posp	Number=Sing|Person=3	9	case	_	_
 
 ~~~
 
@@ -45,58 +64,11 @@ The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 advcl	color:blue
-1	Marigudu	marigudu	ADV	adv	_	5	advcl	_	_
-2	Deu	Deu	NOUN	n	_	5	nsubj	_	_
-3	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	5	dep	_	_
-4	moto	moto	NOUN	n	_	5	obj	_	_
-5	to	to	VERB	v	Number=Sing|Person=3	0	root	_	_
-6	,	,	PUNCT	punct	_	5	punct	_	_
-7	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	9	dep	_	_
-8	baru	baru	NOUN	n	_	9	obj	_	_
-9	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
-10	,	,	PUNCT	punct	_	9	punct	_	_
-11	ure	re	PART	prcl	_	13	dep	_	_
-12	pobo	pobo	NOUN	n	_	13	obj	_	water;água
-13	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	_
-14	,	,	PUNCT	punct	_	13	punct	_	_
-15	ure	re	PART	prcl	Mood=Ind|Number=Sing|Person=3	17	dep	_	_
-16	tori	tori	NOUN	n	_	17	obj	_	stone;pedra
-17	to	to	VERB	v	Number=Sing|Person=3	5	parataxis	_	make,cause;fazer,criar
-
-~~~
-
-
-~~~ conllu
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 24 advcl	color:blue
-1	Deu	Deu	NOUN	n	_	4	nsubj	_	god;Dues
-2	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	4	dep	_	_
-3	boku	boku	NOUN	n	_	4	obj	_	cerrado;cerrado
-4	to	to	VERB	v	_	0	root	_	_
-5	,	,	PUNCT	punct	_	4	punct	_	_
-6	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
-7	itura	itura	NOUN	n	_	8	obj	_	forest;floresta
-8	to	to	VERB	v	_	4	parataxis	_	_
-9	,	,	PUNCT	punct	_	8	punct	_	_
-10	Deu	Deu	NOUN	n	_	22	nsubj	_	_
-11	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	_
-12	ju	ju	NOUN	n	_	22	obj	_	manioc;mandioca
-13	,	,	PUNCT	punct	_	12	punct	_	_
-14	kuiada	kuiada	NOUN	n	_	12	conj	_	corn,maize;milho
-15	,	,	PUNCT	punct	_	14	punct	_	_
-16	aroe	aroe	NOUN	n	_	12	conj	_	rice;arroz
-17	nowu	nowu	DET	_	_	18	nmod	_	_
-18	boe	boe	NOUN	n	_	12	conj	_	_
-19	jamedy	_	ADV	adv	_	20	nmod	_	_
-20	boe	boe	NOUN	n	_	12	conj	_	_
-21	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	22	dep	_	_
-22	to	to	VERB	v	Number=Sing|Person=3	4	parataxis	_	_
-23	boe	boe	NOUN	n	_	24	nsubj	_	_
-24	enogwagewu	ogwage	NOUN	n	Nomzr=Rel|Number=Plur|Person=3	4	advcl	_	eat;come
-25	ji	ji	ADP	posp	_	24	case	_	_
+1	Juremode	jure	NOUN	n	Number=Sing	5	advcl	_	[];python;sucuri
+2	pobo	pobo	NOUN	n	_	1	obl	_	[];;
+3	tada	_	ADP	posp	Number=Sing|Person=3	2	case	_	[];;
+4	ma	_	SCONJ	sconj	_	1	mark	_	[];;
+5	akurugodykaba	kurugody	VERB	v	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	0	root	_	[];;
 
 ~~~
 

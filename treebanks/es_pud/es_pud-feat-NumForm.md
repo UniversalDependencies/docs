@@ -11,7 +11,7 @@ It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
 435 tokens (2%) have a non-empty value of `NumForm`.
 234 types (4%) occur at least once with a non-empty value of `NumForm`.
-212 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
+228 lemmas (5%) occur at least once with a non-empty value of `NumForm`.
 The feature is used with 1 part-of-speech tags: <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (435; 2% instances).
 
 ### `NUM`
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 * `Roman` (11; 3% of non-empty `NumForm`): <em>III, XVI, XX, V, VIII, XIII, XV</em>
 * `Word` (111; 26% of non-empty `NumForm`): <em>dos, tres, cuatro, mil, seis, cinco, diez, siete, treinta, un</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (211) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (228) occur only with one value of `NumForm`.
 
 ## Relations with Agreement in `NumForm`
 

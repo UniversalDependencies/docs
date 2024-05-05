@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-668 nodes (1%) are attached to their parents as `compound:prt`.
+2783 nodes (1%) are attached to their parents as `compound:prt`.
 
-494 instances of `compound:prt` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.8622754491018.
+1839 instances of `compound:prt` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.82572763205174.
 
-The following 7 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (459; 69% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (85; 13% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (66; 10% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (50; 7% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (1992; 72% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (296; 11% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (222; 8% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (183; 7% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (74; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	bij	bij	ADP	VZ|init	_	10	case	10:case	_
 8	het	het	DET	LID|bep|stan|evon	Definite=Def	10	det	10:det	_
 9	toenmalige	toenmalig	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	10	amod	10:amod	_
-10	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	3	obl	3:obl:bij	_
+10	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	3	obl:arg	3:obl:arg:bij	_
 11	Blok	Blok	PROPN	SPEC|deeleigen	_	10	flat	10:flat	SpaceAfter=No
 12	.	.	PUNCT	LET	_	3	punct	3:punct	_
 
@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	kennis	kennis	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	compound:prt	2:compound:prt	_
 5	met	met	ADP	VZ|init	_	7	case	7:case	_
 6	o.a.	onder ander	X	SPEC|afk	Abbr=Yes	7	nmod	7:nmod	_
-7	Fernand	Fernand	PROPN	SPEC|deeleigen	_	2	obl	2:obl:met	_
+7	Fernand	Fernand	PROPN	SPEC|deeleigen	_	2	obl:arg	2:obl:arg:met	_
 8	Khnopff	Khnopff	PROPN	SPEC|deeleigen	_	7	flat	7:flat	SpaceAfter=No
 9	.	.	PUNCT	LET	_	2	punct	2:punct	_
 

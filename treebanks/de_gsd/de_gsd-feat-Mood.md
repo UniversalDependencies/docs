@@ -12,20 +12,20 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 22435 tokens (8%) have a non-empty value of `Mood`.
 2903 types (6%) occur at least once with a non-empty value of `Mood`.
 1506 lemmas (4%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 5 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12500; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9839; 3% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (49; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (45; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (12463; 4% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (9876; 3% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (49; 0% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (45; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-12500 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
+12463 <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12500; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (12063; 97%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9832; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6479; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12463; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (12026; 96%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9801; 79%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6472; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (40; 0% of non-empty `Mood`): <em>siehe, laßt, vgl., Brecht, Gebt, Kenne, Laß, Let, Melden, Schaut</em>
-* `Ind` (12276; 98% of non-empty `Mood`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
-* `Sub` (184; 1% of non-empty `Mood`): <em>sei, habe, gebe, hätten, gehe, hätte, komme, wolle, liege, möchte</em>
-* `EMPTY` (8186): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
+* `Ind` (12243; 98% of non-empty `Mood`): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `Sub` (180; 1% of non-empty `Mood`): <em>sei, habe, gebe, hätten, gehe, hätte, komme, wolle, liege, möchte</em>
+* `EMPTY` (8184): <em>empfehlen, lassen, gegründet, genannt, machen, verwendet, eingesetzt, genutzt, bezeichnet, gebaut</em>
 
 <table>
   <tr><th>Paradigm <i>geben</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -43,15 +43,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-9839 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+9876 <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9839; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9326; 95%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7343; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7293; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5588; 57%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="de_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9876; 100%), <tt><a href="de_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9363; 95%), <tt><a href="de_gsd-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (7380; 75%), <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7324; 74%), <tt><a href="de_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5618; 57%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (9262; 94% of non-empty `Mood`): <em>ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</em>
-* `Sub` (577; 6% of non-empty `Mood`): <em>sei, habe, würde, hätte, werde, hätten, seien, wäre, könnte, möchte</em>
-* `EMPTY` (784): <em>werden, sein, worden, können, gewesen, haben, müssen, is, wollen, dürfen</em>
+* `Ind` (9295; 94% of non-empty `Mood`): <em>ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</em>
+* `Sub` (581; 6% of non-empty `Mood`): <em>sei, habe, würde, hätte, werde, hätten, seien, wäre, könnte, möchte</em>
+* `EMPTY` (786): <em>werden, sein, worden, können, gewesen, haben, müssen, is, wollen, dürfen</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -116,11 +116,12 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1078; 64%),
-<tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (122; 50%),
+<tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1076; 64%),
+<tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (122; 51%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (10; 63%),
 <tt>AUX --[<tt><a href="de_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="de_gsd-dep-obj.html">obj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
 

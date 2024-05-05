@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-TreeGal: Relations: `flat:foreign`
 
-This relation is a language-specific subtype of <tt><a href="gl_treegal-dep-flat.html">flat</a></tt>.
+This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="gl_treegal-dep-flat-name.html">flat:name</a></tt>.
 
 2 nodes (0%) are attached to their parents as `flat:foreign`.
@@ -90,7 +90,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	12	obj	_	_
 12	decretou	decretar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl	_	_
 13	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	Xunta	Xunta	PROPN	Spfs	Gender=Fem|Number=Sing	12	nsubj	_	_
+14	Xunta	xunta	NOUN	Scfs	Gender=Fem|Number=Sing	12	nsubj	_	_
 15	e	e	CCONJ	Cc	_	18	cc	_	_
 16	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	18	nsubj	_	_
 17	está	estar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_

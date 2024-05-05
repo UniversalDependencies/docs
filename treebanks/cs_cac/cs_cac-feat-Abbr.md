@@ -83,7 +83,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>SYM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> SYM</tt> (124; 100%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (75; 75%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (76; 72%),
 <tt>SYM --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (29; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (25; 53%),
 <tt>SYM --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> SYM</tt> (4; 100%),

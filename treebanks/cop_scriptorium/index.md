@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Mitchell Abrams, Elizabeth Davidson, Amir Zeldes.
 
 Repository: [UD_Coptic-Scriptorium](https://github.com/UniversalDependencies/UD_Coptic-Scriptorium)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY 4.0
 
@@ -75,13 +75,13 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 ## Relations
 
-[acl](cop_scriptorium-dep-acl.html) – [acl:relcl](cop_scriptorium-dep-acl-relcl.html) – [advcl](cop_scriptorium-dep-advcl.html) – [advmod](cop_scriptorium-dep-advmod.html) – [amod](cop_scriptorium-dep-amod.html) – [appos](cop_scriptorium-dep-appos.html) – [aux](cop_scriptorium-dep-aux.html) – [case](cop_scriptorium-dep-case.html) – [cc](cop_scriptorium-dep-cc.html) – [ccomp](cop_scriptorium-dep-ccomp.html) – [compound](cop_scriptorium-dep-compound.html) – [conj](cop_scriptorium-dep-conj.html) – [cop](cop_scriptorium-dep-cop.html) – [csubj](cop_scriptorium-dep-csubj.html) – [dep](cop_scriptorium-dep-dep.html) – [det](cop_scriptorium-dep-det.html) – [discourse](cop_scriptorium-dep-discourse.html) – [dislocated](cop_scriptorium-dep-dislocated.html) – [expl](cop_scriptorium-dep-expl.html) – [fixed](cop_scriptorium-dep-fixed.html) – [flat](cop_scriptorium-dep-flat.html) – [iobj](cop_scriptorium-dep-iobj.html) – [mark](cop_scriptorium-dep-mark.html) – [nmod](cop_scriptorium-dep-nmod.html) – [nsubj](cop_scriptorium-dep-nsubj.html) – [nummod](cop_scriptorium-dep-nummod.html) – [obj](cop_scriptorium-dep-obj.html) – [obl](cop_scriptorium-dep-obl.html) – [obl:npmod](cop_scriptorium-dep-obl-npmod.html) – [orphan](cop_scriptorium-dep-orphan.html) – [parataxis](cop_scriptorium-dep-parataxis.html) – [punct](cop_scriptorium-dep-punct.html) – [reparandum](cop_scriptorium-dep-reparandum.html) – [root](cop_scriptorium-dep-root.html) – [vocative](cop_scriptorium-dep-vocative.html) – [xcomp](cop_scriptorium-dep-xcomp.html)
+[acl](cop_scriptorium-dep-acl.html) – [acl:relcl](cop_scriptorium-dep-acl-relcl.html) – [advcl](cop_scriptorium-dep-advcl.html) – [advmod](cop_scriptorium-dep-advmod.html) – [amod](cop_scriptorium-dep-amod.html) – [appos](cop_scriptorium-dep-appos.html) – [aux](cop_scriptorium-dep-aux.html) – [case](cop_scriptorium-dep-case.html) – [cc](cop_scriptorium-dep-cc.html) – [ccomp](cop_scriptorium-dep-ccomp.html) – [compound](cop_scriptorium-dep-compound.html) – [conj](cop_scriptorium-dep-conj.html) – [cop](cop_scriptorium-dep-cop.html) – [csubj](cop_scriptorium-dep-csubj.html) – [dep](cop_scriptorium-dep-dep.html) – [det](cop_scriptorium-dep-det.html) – [discourse](cop_scriptorium-dep-discourse.html) – [dislocated](cop_scriptorium-dep-dislocated.html) – [expl](cop_scriptorium-dep-expl.html) – [fixed](cop_scriptorium-dep-fixed.html) – [flat](cop_scriptorium-dep-flat.html) – [iobj](cop_scriptorium-dep-iobj.html) – [mark](cop_scriptorium-dep-mark.html) – [nmod](cop_scriptorium-dep-nmod.html) – [nmod:poss](cop_scriptorium-dep-nmod-poss.html) – [nsubj](cop_scriptorium-dep-nsubj.html) – [nummod](cop_scriptorium-dep-nummod.html) – [obj](cop_scriptorium-dep-obj.html) – [obl](cop_scriptorium-dep-obl.html) – [obl:npmod](cop_scriptorium-dep-obl-npmod.html) – [orphan](cop_scriptorium-dep-orphan.html) – [parataxis](cop_scriptorium-dep-parataxis.html) – [punct](cop_scriptorium-dep-punct.html) – [reparandum](cop_scriptorium-dep-reparandum.html) – [root](cop_scriptorium-dep-root.html) – [vocative](cop_scriptorium-dep-vocative.html) – [xcomp](cop_scriptorium-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2203 sentences, 26920 tokens and 57096 syntactic words.</li>
+<li>This corpus contains 2203 sentences, 26919 tokens and 57097 syntactic words.</li>
 </ul>
 
 <ul>
@@ -97,8 +97,8 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 16827 multi-word tokens. On average, one multi-word token consists of 2.79 syntactic words.</li>
-<li>There are 9011 types of multi-word tokens. Examples: ⲛⲁϥ, ⲙⲙⲟⲥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲙⲙⲟⲕ, ⲉⲧⲙⲙⲁⲩ, ⲛⲏⲧⲛ, ⲉⲧⲟⲩⲁⲁⲃ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲛϩⲏⲧ, ⲛⲙⲙⲁϥ, ⲛⲧⲉⲓϩⲉ, ⲁϥⲉⲓ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲁⲛ, ⲛⲣⲱⲙⲉ, ⲁϥⲃⲱⲕ, ⲛⲟⲩⲱⲧ, ⲡⲛⲟⲩⲧⲉ, ⲧⲏⲣϥ, ⲉⲧⲃⲉⲡⲁⲓ, ⲙⲙⲟⲓ, ⲙⲡⲣⲱⲙⲉ, ⲛⲥⲱϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲛϩⲏⲧⲟⲩ, ⲡⲟⲩⲁ, ⲛϩⲟⲟⲩ, ⲁϥϫⲟⲟⲥ, ⲁⲩⲉⲓ, ⲉⲣⲱⲧⲛ, ⲛϩⲟⲩⲟ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ, ⲡⲉϫⲁⲥ, ⲡⲁϣⲏⲣⲉ.</li>
+<li>This corpus contains 16828 multi-word tokens. On average, one multi-word token consists of 2.79 syntactic words.</li>
+<li>There are 9012 types of multi-word tokens. Examples: ⲛⲁϥ, ⲙⲙⲟⲥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲛⲁⲓ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲙⲙⲟⲕ, ⲉⲧⲙⲙⲁⲩ, ⲛⲏⲧⲛ, ⲉⲧⲟⲩⲁⲁⲃ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲛϩⲏⲧ, ⲛⲙⲙⲁϥ, ⲛⲧⲉⲓϩⲉ, ⲁϥⲉⲓ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲁⲛ, ⲛⲣⲱⲙⲉ, ⲁϥⲃⲱⲕ, ⲛⲟⲩⲱⲧ, ⲡⲛⲟⲩⲧⲉ, ⲧⲏⲣϥ, ⲉⲧⲃⲉⲡⲁⲓ, ⲙⲙⲟⲓ, ⲙⲡⲣⲱⲙⲉ, ⲛⲥⲱϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲛϩⲏⲧⲟⲩ, ⲡⲟⲩⲁ, ⲛϩⲟⲟⲩ, ⲁϥϫⲟⲟⲥ, ⲁⲩⲉⲓ, ⲉⲣⲱⲧⲛ, ⲛϩⲟⲩⲟ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ, ⲡⲉϫⲁⲥ, ⲡⲁϣⲏⲣⲉ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -213,8 +213,8 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <ul>
   <li>Def
     <ul>
-      <li>ADV: ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ</li>
       <li>DET: ⲡ, ⲧ, ⲛ, ⲡⲉ, ⲡⲁ, ⲡⲉϥ, ⲧⲉ, ⲡⲁⲓ, ⲛⲉ, ⲛⲉϥ</li>
+      <li>NOUN: ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ</li>
       <li>PRON: ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ</li>
     </ul>
   </li>
@@ -303,8 +303,8 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <ul>
   <li>Prs
     <ul>
-      <li>ADV: ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ</li>
       <li>DET: ⲡⲁ, ⲡⲉϥ, ⲛⲉϥ, ⲧⲉϥ, ⲛⲁ, ⲡⲉⲕ, ⲡⲉⲛ, ⲧⲁ, ⲛⲉⲛ, ⲛⲉⲩ</li>
+      <li>NOUN: ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ</li>
       <li>PRON: ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ</li>
     </ul>
   </li>
@@ -321,7 +321,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: ⲧⲏⲣ</li>
+      <li>NOUN: ⲧⲏⲣ</li>
     </ul>
   </li>
 </ul>
@@ -358,7 +358,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <ul>
   <li>Yes
     <ul>
-      <li>ADV: ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ</li>
+      <li>NOUN: ⲙⲙⲓⲛⲙⲙⲟ, ⲙⲙⲓⲛⲙⲙⲱ</li>
       <li>PRON: ⲙⲙⲓⲛⲙⲙⲟ</li>
     </ul>
   </li>
@@ -491,7 +491,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (561)</li>
       <li>VERB-Fin--NOUN-ADP(ϩⲓⲣⲛ) (1)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (7)</li>
-      <li>VERB-Fin--PRON (4330)</li>
+      <li>VERB-Fin--PRON (4331)</li>
     </ul>
   </li>
 </ul>
@@ -506,14 +506,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(ⲙ) (3)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (483)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (12)</li>
-      <li>VERB-Fin--PRON (885)</li>
+      <li>VERB-Fin--PRON (762)</li>
       <li>VERB-Fin--PRON-ADP(ⲉ) (1)</li>
-      <li>VERB-Fin--PRON-ADP(ⲛ) (386)</li>
+      <li>VERB-Fin--PRON-ADP(ⲛ) (243)</li>
       <li>VERB-Fin--PRON-ADP(ⲧⲟⲟⲧ) (1)</li>
       <li>VERB-Inf--NOUN (25)</li>
       <li>VERB-Inf--NOUN-ADP(ⲛ) (19)</li>
       <li>VERB-Inf--NOUN-ADP(ⲛ)-ADP(ⲛ) (1)</li>
-      <li>VERB-Inf--PRON (55)</li>
+      <li>VERB-Inf--PRON (52)</li>
       <li>VERB-Inf--PRON-ADP(ⲛ) (4)</li>
     </ul>
   </li>
@@ -537,6 +537,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 2 relation subtypes: <a>acl:relcl</a>, <a>obl:npmod</a></li>
+<li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>nmod:poss</a>, <a>obl:npmod</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

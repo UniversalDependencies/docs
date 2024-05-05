@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 obl:tmod	color:blue
-1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	Our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	cellphones	cellphone	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 4	so	so	ADV	RB	_	5	advmod	5:advmod	_
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 6	more	more	ADJ	JJR	Degree=Cmp	0	root	0:root	_
 7	than	than	ADP	IN	_	8	case	8:case	_
 8	phones	phone	NOUN	NNS	Number=Plur	6	obl	6:obl:than	_
-9	these	these	DET	DT	Number=Plur|PronType=Dem	10	det	10:det	_
+9	these	this	DET	DT	Number=Plur|PronType=Dem	10	det	10:det	_
 10	days	day	NOUN	NNS	Number=Plur	6	obl:tmod	6:obl:tmod	SpaceAfter=No
 11	.	.	PUNCT	.	_	6	punct	6:punct	_
 

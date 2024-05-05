@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50 nodes (1%) are attached to their parents as `xcomp`.
+268 nodes (1%) are attached to their parents as `xcomp`.
 
-31 instances of `xcomp` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.36.
+169 instances of `xcomp` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.33955223880597.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (24; 48% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (20; 40% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (130; 49% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (99; 37% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (16; 6% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 7	Wiesken	Wiesken	PROPN	_	Number=Sing	8	nsubj	_	_
 8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=wērden¹
 9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=rôt⁴
-10	as	as	SCONJ	_	_	11	case	_	lemma_gml=alsô
+10	as	as	ADP	_	_	11	case	_	lemma_gml=alsô
 11	vüür	vüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	lemma_gml=vü̂r¹|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -66,27 +66,24 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 xcomp	color:blue
-1	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	lemma_gml=dû¹
-3	skynst	skynen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	lemma_gml=schînen
-4	neet	nich	PART	_	PartType=Neg	3	advmod	_	lemma_gml=nicht¹
-5	in	in	ADP	_	AdpType=Prep	7	case	_	lemma_gml=in²
-6	dyn	dyn	DET	_	Case=Acc,Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	7	det:poss	_	lemma_gml=dîn
-7	hümöör	humoor	NOUN	_	Case=Acc,Dat|Number=Sing	3	xcomp	_	_
-8	te	to	PART	_	PartType=Inf	3	mark	_	lemma_gml=tô⁵
-9	weasen	weasen	AUX	_	VerbForm=Inf	7	cop	_	lemma_gml=wēsen²|SpaceAfter=No
-10	'	'	PUNCT	_	_	3	punct	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	12	punct	_	_
-12	sea	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	lemma_gml=seggen
-13	Jouke	Jouke	PROPN	_	Case=Nom|Number=Sing	12	nsubj	_	_
-14	teagen	geagen	ADP	_	AdpType=Prep	15	case	_	lemma_gml=gēgen
-15	Garrelt	Garrelt	PROPN	_	Case=Acc|Number=Sing	12	obl	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 xcomp	color:blue
+1	Junges	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	vocative	_	lemma_gml=junge|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	junges	junge	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	lemma_gml=junge|SpaceAfter=No
+4	,	,	PUNCT	_	_	12	punct	_	_
+5	wat	wat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	11	nmod	_	lemma_gml=watte
+6	sin	weasen	AUX	_	Mood=Ind|Number=Plur,Sing|Person=2|Tense=Pres	12	aux	_	lemma_gml=wēsen
+7	y	jy	PRON	_	Case=Nom|Number=Plur,Sing|Person=2|PronType=Prs	12	nsubj	_	lemma_gml=gî
+8	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	11	det	_	lemma_gml=êin,êine,êin
+9	mooi	mooi	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=mö̂ye
+10	knap	knap	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	lemma_gml=knap
+11	brüüdjen	brüüdken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	xcomp	_	lemma_gml=brü̂deken
+12	eworden	werden	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=wērden|SpaceAfter=No
+13	!	!	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

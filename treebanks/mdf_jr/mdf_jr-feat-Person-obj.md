@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="mdf_jr-feat-Person.html">Person</a></tt>, <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-113 tokens (3%) have a non-empty value of `Person[obj]`.
-107 types (5%) occur at least once with a non-empty value of `Person[obj]`.
-83 lemmas (6%) occur at least once with a non-empty value of `Person[obj]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (109; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+124 tokens (3%) have a non-empty value of `Person[obj]`.
+117 types (5%) occur at least once with a non-empty value of `Person[obj]`.
+87 lemmas (6%) occur at least once with a non-empty value of `Person[obj]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (120; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-109 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Person[obj]`.
+120 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (15% of all `VERB` tokens) have a non-empty value of `Person[obj]`.
 
-The most frequent other feature values with which `VERB` and `Person[obj]` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (100; 92%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (80; 73%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (79; 72%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (77; 71%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (71; 65%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (57; 52%).
+The most frequent other feature values with which `VERB` and `Person[obj]` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (120; 100%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (109; 91%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (88; 73%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (87; 73%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (82; 68%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (76; 63%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (63; 53%).
 
 `VERB` tokens may have the following values of `Person[obj]`:
 
@@ -37,13 +37,13 @@ The most frequent other feature values with which `VERB` and `Person[obj]` co-oc
   <tr><td><tt><tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>няезе</em></td></tr>
 </table>
 
-`Person[obj]` seems to be **lexical feature** of `VERB`. 96% lemmas (78) occur only with one value of `Person[obj]`.
+`Person[obj]` seems to be **lexical feature** of `VERB`. 96% lemmas (82) occur only with one value of `Person[obj]`.
 
 ### `AUX`
 
-4 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Person[obj]`.
+4 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Person[obj]`.
 
-The most frequent other feature values with which `AUX` and `Person[obj]` co-occurred: <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt> (3; 75%).
+The most frequent other feature values with which `AUX` and `Person[obj]` co-occurred: <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt> (3; 75%).
 
 `AUX` tokens may have the following values of `Person[obj]`:
 

@@ -120,7 +120,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 23	since	since	SCONJ	IN	_	27	mark	27:mark	Discourse=explanation-justify:44->43:0:dm-since-397
 24	these	this	DET	DT	Number=Plur|PronType=Dem	25	det	25:det	Entity=(90-abstract-giv:act-cf1-2-coref
 25	effects	effect	NOUN	NNS	Number=Plur	27	nsubj	27:nsubj|37:nsubj	Entity=90)|MSeg=effect-s
-26	could	could	AUX	MD	Number=Plur|Person=3|VerbForm=Fin	27	aux	27:aux|37:aux	_
+26	could	could	AUX	MD	VerbForm=Fin	27	aux	27:aux|37:aux	_
 27	alter	alter	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:since	_
 28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	29:det	Entity=(91-abstract-new-cf10-2-sgl
 29	value	value	NOUN	NN	Number=Sing	27	obj	27:obj	_

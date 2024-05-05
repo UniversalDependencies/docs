@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>те</em> (<tt><a href="myv_jr-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.760000 (the average of all parts of speech is 2.081106).
+The form / lemma ratio of `DET` is 1.760000 (the average of all parts of speech is 2.081130).
 
 The 1st highest number of forms (7) was observed with the lemma “лия”: <em>лия, лиядо, лиянь, лият, лиятне, лиятневаяк, лиятнень</em>.
 

@@ -9,24 +9,24 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
-5565 tokens (2%) have a non-empty value of `NumForm`.
+5566 tokens (2%) have a non-empty value of `NumForm`.
 1325 types (7%) occur at least once with a non-empty value of `NumForm`.
-1282 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (5036; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (257; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (155; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (108; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (9; 0% instances).
+1281 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (5037; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (257; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (155; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (108; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (9; 0% instances).
 
 ### `NUM`
 
-5036 <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+5037 <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4887; 97%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4886; 97%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (3926; 78% of non-empty `NumForm`): <em>2, 1, 3, 5, 4, 10, 20, 6, 2005, 2003</em>
 * `Roman` (52; 1% of non-empty `NumForm`): <em>ii, VI, iii, i, v, XIII, iv, VII, VIII</em>
-* `Word` (1058; 21% of non-empty `NumForm`): <em>one, two, three, four, m, million, five, six, k, billion</em>
+* `Word` (1059; 21% of non-empty `NumForm`): <em>one, two, three, four, m, million, five, six, k, billion</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1232) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1231) occur only with one value of `NumForm`.
 
 ### `ADJ`
 
@@ -78,14 +78,14 @@ The most frequent other feature values with which `DET` and `NumForm` co-occurre
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (125; 99%),
-<tt>NUM --[<tt><a href="en_ewt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (76; 84%),
+<tt>NUM --[<tt><a href="en_ewt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (126; 99%),
+<tt>NUM --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (69; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NUM</tt> (59; 97%),
 <tt>NUM --[<tt><a href="en_ewt-dep-nmod-tmod.html">nmod:tmod</a></tt>]--> NUM</tt> (10; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-appos.html">appos</a></tt>]--> NUM</tt> (4; 67%),
 <tt>ADV --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 67%),
 <tt>ADV --[<tt><a href="en_ewt-dep-advcl.html">advcl</a></tt>]--> ADV</tt> (1; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="en_ewt-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="en_ewt-dep-reparandum.html">reparandum</a></tt>]--> NUM</tt> (1; 100%).
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `PROPN`
 
 There are 8 `PROPN` lemmas (1%), 8 `PROPN` types (1%) and 13 `PROPN` tokens (0%).
-Out of 16 observed tags, the rank of `PROPN` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 11 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Peter, Mary, Brown, Franskkjânnam, Jane, Laurikainen, Pariizzâst, Smith</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Peter</em> (<tt><a href="sms_giellaga
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.472015).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.476015).
 
 The 1st highest number of forms (1) was observed with the lemma “Brown”: <em>Brown</em>.
 

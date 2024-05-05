@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 4	hele	hel	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	5	amod	_	_
 5	Camel	Camel	PROPN	_	_	6	nsubj	_	_
 6	koster	koste	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	ikke	ikke	ADV	_	_	6	advmod	_	_
+7	ikke	ikke	ADV	Polarity=Neg	_	6	advmod	_	_
 8	ekstra	ekstra	ADV	_	Degree=Pos	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 

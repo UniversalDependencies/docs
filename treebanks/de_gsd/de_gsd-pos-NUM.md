@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>zwei</em> (<tt><a href="de_gsd-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.003251 (the average of all parts of speech is 1.187855).
+The form / lemma ratio of `NUM` is 1.003251 (the average of all parts of speech is 1.187859).
 
 The 1st highest number of forms (2) was observed with the lemma “Milliarde”: <em>Milliarde, Milliarden</em>.
 

@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 8 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-2412 tokens (19%) have a non-empty value of `PronType`.
-95 types (6%) occur at least once with a non-empty value of `PronType`.
-51 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1786; 14% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (411; 3% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (215; 2% instances).
+2770 tokens (18%) have a non-empty value of `PronType`.
+99 types (5%) occur at least once with a non-empty value of `PronType`.
+54 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (2066; 14% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (465; 3% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (239; 2% instances).
 
 ### `PRON`
 
-1786 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+2066 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1363; 76%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1116; 62%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1104; 62%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1555; 75%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1288; 62%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1268; 61%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Art` (10; 1% of non-empty `PronType`): <em>yepé</em>
-* `Dem` (53; 3% of non-empty `PronType`): <em>kwá, nhaã, kwá-itá, nhaã-itá, Kwaá, aé</em>
+* `Art` (10; 0% of non-empty `PronType`): <em>yepé</em>
+* `Dem` (56; 3% of non-empty `PronType`): <em>kwá, nhaã, kwá-itá, nhaã-itá, Kwaá, aé</em>
 * `Emp` (21; 1% of non-empty `PronType`): <em>aité</em>
-* `Ind` (82; 5% of non-empty `PronType`): <em>maã, awá, amú, amú-itá, manungara, siiya, siya, muiriira, yepé-yepé</em>
-* `Int` (53; 3% of non-empty `PronType`): <em>maã, awá, Muíri</em>
-* `Prs` (1311; 73% of non-empty `PronType`): <em>aintá, i, se, aé, ixé, indé, ne, yané, ta, yandé</em>
-* `Rel` (247; 14% of non-empty `PronType`): <em>waá, waá-itá, awá, maã</em>
-* `Tot` (9; 1% of non-empty `PronType`): <em>panhẽ, muíri</em>
+* `Ind` (91; 4% of non-empty `PronType`): <em>maã, awá, amú, amú-itá, manungara, siiya, siya, muiriira, setá, yepé-yepé</em>
+* `Int` (62; 3% of non-empty `PronType`): <em>maã, awá, Muíri</em>
+* `Prs` (1538; 74% of non-empty `PronType`): <em>aintá, i, se, aé, indé, ixé, ne, ta, yané, yandé</em>
+* `Rel` (278; 13% of non-empty `PronType`): <em>waá, waá-itá, awá, maã</em>
+* `Tot` (10; 0% of non-empty `PronType`): <em>panhẽ, muíri</em>
 
 <table>
   <tr><th>Paradigm <i>maã</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -38,18 +38,18 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-411 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+465 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (337; 82%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225; 55%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (372; 80%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (246; 53%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (74; 18% of non-empty `PronType`): <em>yepé</em>
-* `Dem` (215; 52% of non-empty `PronType`): <em>kwá, nhaã, kwá-itá, aé, kwaá, nhaã-itá</em>
+* `Art` (93; 20% of non-empty `PronType`): <em>yepé</em>
+* `Dem` (237; 51% of non-empty `PronType`): <em>kwá, nhaã, kwá-itá, kwaá, aé, nhaã-itá</em>
 * `Emp` (1; 0% of non-empty `PronType`): <em>aité</em>
-* `Ind` (65; 16% of non-empty `PronType`): <em>amú, muíri, siiya, siía, maã, setá, yawé, turusú, siya, yepé-yepé</em>
+* `Ind` (70; 15% of non-empty `PronType`): <em>amú, muíri, siiya, siía, maã, setá, yawé, turusú, siya, yepé-yepé</em>
 * `Int` (7; 2% of non-empty `PronType`): <em>muíri, Maã, awá</em>
-* `Tot` (49; 12% of non-empty `PronType`): <em>panhẽ, muíri, upaĩ</em>
+* `Tot` (57; 12% of non-empty `PronType`): <em>panhẽ, upaĩ, muíri, upanhẽ</em>
 
 <table>
   <tr><th>Paradigm <i>muíri</i></th><th><tt>Int</tt></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
@@ -58,17 +58,17 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-215 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `PronType`.
+239 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (26% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (132; 61%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt> (147; 62%).
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (79; 37% of non-empty `PronType`): <em>iké, ape, kwá, akití, Mimi, aape, kí, Ikewara</em>
-* `Ind` (7; 3% of non-empty `PronType`): <em>mairamé, makití, masuí, marupí</em>
-* `Int` (107; 50% of non-empty `PronType`): <em>mayé, mamé, makití, marupí, maita, marama, masuí, mairamé, marã, mayawé</em>
-* `Rel` (22; 10% of non-empty `PronType`): <em>mamé, makití, masuí, mayé, marupí, mairamé</em>
-* `EMPTY` (608): <em>asuí, kuíri, yawé, ape, yuíri, aramé, rẽ, katú, reté, piri</em>
+* `Dem` (91; 38% of non-empty `PronType`): <em>iké, ape, kwá, akití, Mimi, aape, kí, Ikewara</em>
+* `Ind` (9; 4% of non-empty `PronType`): <em>mairamé, makití, masuí, marupí</em>
+* `Int` (114; 48% of non-empty `PronType`): <em>mayé, mamé, makití, marupí, marama, maita, masuí, mairamé, marã, mayawé</em>
+* `Rel` (25; 10% of non-empty `PronType`): <em>mamé, makití, mayé, masuí, mairamé, marupí</em>
+* `EMPTY` (682): <em>asuí, kuíri, yawé, ape, yuíri, katú, aramé, reté, piri, retana</em>
 
 <table>
   <tr><th>Paradigm <i>makití</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -78,6 +78,6 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> PRON</tt> (3; 100%),
+<tt>PRON --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
 <tt>PRON --[<tt><a href="yrl_complin-dep-expl.html">expl</a></tt>]--> PRON</tt> (1; 100%).
 

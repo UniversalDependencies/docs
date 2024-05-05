@@ -37,7 +37,7 @@ The following 13 pairs of parts of speech are connected with `csubj`: <tt><a hre
 12	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	Lem=be|Len=2
 13	_	_	NOUN	NN	Number=Sing	16	compound	16:compound	Entity=(91-abstract-new-cf6-1-sgl)|Lem=_|Len=5
 14	_	_	CCONJ	CC	_	15	cc	15:cc	Lem=_|Len=3
-15	_	_	NOUN	NN	Number=Sing	13	conj	13:conj:and|16:compound	Entity=(92-abstract-new-cf5-1-sgl)|Lem=_|Len=8|MSeg=re-source
+15	_	_	NOUN	NN	Number=Sing	13	conj	13:conj:and|16:compound	Entity=(92-abstract-new-cf5-1-sgl)|Lem=_|Len=8
 16	_	_	ADJ	JJ	Degree=Pos	7	acl	7:acl	Entity=89)|Lem=_|Len=9|MSeg=intens-ive|SpaceAfter=No
 17	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 
@@ -57,7 +57,7 @@ The following 13 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	_	_	NOUN	NNS	Number=Plur	2	dislocated	2:dislocated	Lem=chunk|Len=6|MSeg=chunk-s
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
 7	_	_	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	Entity=(46-time-new-cf7-1-sgl)45)|Lem=_|Len=4
-8	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	Discourse=elaboration-additional:42->41:0:_|Entity=(47-abstract-new-cf2-1-cata)|Lem=_|Len=2
+8	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	Discourse=elaboration-additional:42->41:0:sem-gnrl-270,273-285|Entity=(47-abstract-new-cf2-1-cata)|Lem=_|Len=2
 9	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Lem=take|Len=5|MSeg=take-s
 10	_	_	SCONJ	IN	_	13	mark	13:mark	Entity=(47-abstract-acc:com-cf2-4-coref|Lem=_|Len=3
 11	_	_	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	Entity=(48-person-new-cf4-1-sgl)|Lem=person|Len=6

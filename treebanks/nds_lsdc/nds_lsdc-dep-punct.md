@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-713 nodes (15%) are attached to their parents as `punct`.
+3540 nodes (16%) are attached to their parents as `punct`.
 
-390 instances of `punct` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.96774193548387.
+1860 instances of `punct` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.42457627118644.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (507; 71% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (83; 12% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (32; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (22; 3% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (20; 3% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (18; 3% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (12; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (10; 1% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2410; 68% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (502; 14% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (192; 5% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (115; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (103; 3% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (79; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (73; 2% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (27; 1% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	myn	myn	DET	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det:poss	_	lemma_gml=mîn²
 3	süsterdochter	süsterdochter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	lemma_gml=süsterdochter
 4	fiks	fiks	ADJ	_	Degree=Pos	0	root	_	_
-5	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop	4	cop	_	lemma_gml=wēsen²|SpaceAfter=No
+5	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Cop	4	cop	_	lemma_gml=wēsen²|SpaceAfter=No
 6	:	:	PUNCT	_	_	10	punct	_	_
 7	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	lemma_gml=dê¹
-8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux	10	aux	_	lemma_gml=künnen
+8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Aux	10	aux	_	lemma_gml=künnen
 9	gedanken	gedanke	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	lemma_gml=gedanke
 10	leasen	leasen	VERB	_	VerbForm=Inf	4	parataxis	_	lemma_gml=lēsen¹|SpaceAfter=No
 11	!	!	PUNCT	_	_	10	punct	_	_
@@ -78,7 +78,7 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 6	by	by	ADP	_	AdpType=Prep	8	case	_	lemma_gml=bî
 7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	lemma_gml=dê
 8	pinken	pink	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	5	obl	_	lemma_gml=pinke
-9	as	as	SCONJ	_	_	11	case	_	lemma_gml=alsô
+9	as	as	ADP	_	_	11	case	_	lemma_gml=alsô
 10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê
 11	beste	good	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=gôt
 12	vöär	vöär	ADP	_	AdpType=Prep	14	case	_	lemma_gml=vȫr

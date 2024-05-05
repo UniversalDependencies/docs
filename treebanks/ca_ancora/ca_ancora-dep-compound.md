@@ -8,36 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3315 nodes (1%) are attached to their parents as `compound`.
+2652 nodes (0%) are attached to their parents as `compound`.
 
-3310 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.97134238310709.
+2647 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.96229260935143.
 
-The following 33 pairs of parts of speech are connected with `compound`: <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (759; 23% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (753; 23% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (684; 21% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (474; 14% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (426; 13% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (88; 3% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 compound	color:blue
-1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	2:det	_
-2	inauguració	inauguració	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	5:nsubj	ArgTem=arg1:pat
-3	oficial	oficial	ADJ	aq0cs0	Number=Sing	2	amod	2:amod	_
-4	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	obj	5:obj	_
-5	farà	fer	VERB	vmif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	0:root	_
-6	demà	demà	ADV	rg	_	5	advmod	5:advmod	SpaceAfter=No|ArgTem=argM:tmp
-7	,	,	PUNCT	fc	PunctType=Comm	10	punct	10:punct	_
-8	a	a	ADP	sps00	_	10	case	10:case	_
-9	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	10:det	Entity=(NOCOREF:Spec.date-time-2-gstype:spec
-10	12	12	NUM	_	NumForm=Digit|NumType=Card	5	obl	5:obl	MWE=12_del_migdia|MWEPOS=NOUN|ArgTem=argM:tmp
-11	de	de	ADP	_	_	13	case	13:case	_
-12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
-13	migdia	migdia	NOUN	_	_	10	compound	10:compound	SpaceAfter=No|Entity=NOCOREF:Spec.date)
-14	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
-
-~~~
+The following 33 pairs of parts of speech are connected with `compound`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (753; 28% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (684; 26% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (474; 18% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (280; 11% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (242; 9% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (88; 3% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (40; 2% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -77,6 +53,27 @@ The following 33 pairs of parts of speech are connected with `compound`: <tt><a 
 8	133	133	NUM	_	NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
 9	equips	equip	NOUN	ncmp000	Gender=Masc|Number=Plur	6	nsubj	6:nsubj	SpaceAfter=No|ArgTem=arg0:agt
 10	.	.	PUNCT	fp	PunctType=Peri	6	punct	6:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 compound	color:blue
+1	O	o	CCONJ	cc	_	4	cc	4:cc	_
+2	potser	potser	ADV	rg	_	4	advmod	4:advmod	_
+3	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	Entity=(CESSCATAAP2001110119c1--2-CorefType:pred.definit,gstype:gen
+4	nucli	nucli	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	_
+5	humil	humil	ADJ	aq0cs0	Number=Sing	4	amod	4:amod	_
+6	de	de	ADP	sps00	_	9	case	9:case	_
+7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	9	det	9:det	SpaceAfter=No|Entity=(NOCOREF:Gen--3-gstype:gen,HomoDD
+8	aristocràtic	aristocràtic	ADJ	aq0ms0	Gender=Masc|Number=Sing	9	amod	9:amod	_
+9	marron	marron	NOUN	ncms000	_	4	nmod	4:nmod	MWE=marron_glacé|MWEPOS=NOUN
+10	glacé	glacé	NOUN	_	_	9	compound	9:compound	SpaceAfter=No|Entity=NOCOREF:Gen)CESSCATAAP2001110119c1)
+11	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
 

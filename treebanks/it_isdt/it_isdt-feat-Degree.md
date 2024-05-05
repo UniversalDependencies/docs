@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (87; 20% of non-empty `Degree`): <em>gravissimo, altissimo, altissima, bellissimo, chiarissimo, durissima, giovanissimi, grandissima, gravissimi, lunghissimo</em>
 * `Cmp` (356; 80% of non-empty `Degree`): <em>maggiore, maggior, migliore, inferiore, superiore, minore, maggiori, migliori, superiori, miglior</em>
-* `EMPTY` (19336): <em>primo, prima, nuovo, grande, presente, altri, altro, stesso, comune, italiana</em>
+* `EMPTY` (19334): <em>primo, prima, nuovo, grande, presente, altri, altro, stesso, comune, italiana</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (63) occur only with one value of `Degree`.
 
@@ -37,5 +37,5 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Abs` (19; 100% of non-empty `Degree`): <em>benissimo, moltissimo, pochissimo, fortissimo, lontanissimo, malissimo</em>
-* `EMPTY` (11388): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
+* `EMPTY` (11491): <em>non, più, anche, dove, come, quando, solo, prima, sempre, molto</em>
 

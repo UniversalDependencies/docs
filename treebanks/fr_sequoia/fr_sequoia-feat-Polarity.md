@@ -32,5 +32,5 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (38; 100% of non-empty `Polarity`): <em>aucune, aucun</em>
-* `EMPTY` (10408): <em>le, les, la, l', une, un, des, cette, ce, son</em>
+* `EMPTY` (10404): <em>le, les, la, l', une, un, des, cette, ce, son</em>
 

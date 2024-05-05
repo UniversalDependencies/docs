@@ -9,7 +9,7 @@ udver: '2'
 There are 7 `PRON` lemmas (11%), 7 `PRON` types (9%) and 330 `PRON` tokens (19%).
 Out of 13 observed tags, the rank of `PRON` is: 3 in number of lemmas, 3 in number of types and 1 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>hers, his, mine, theirs, yours, it, there</em>
+The 10 most frequent `PRON` lemmas: <em>her, his, my, their, your, it, there</em>
 
 The 10 most frequent `PRON` types:  <em>hers, his, mine, theirs, yours, it, There</em>
 
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:
 
 The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.212121).
 
-The 1st highest number of forms (1) was observed with the lemma “hers”: <em>hers</em>.
+The 1st highest number of forms (1) was observed with the lemma “her”: <em>hers</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “his”: <em>his</em>.
 
@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “it”: <em>it
 `PRON` occurs with 9 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Prs`
 
 `PRON` occurs with 9 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs` (57 tokens).
-Examples: <em>his</em>
+The most frequent feature combination is `Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs` (57 tokens).
+Examples: <em>theirs</em>
 
 
 ## Relations

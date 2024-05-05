@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3147 tokens (19%) have a non-empty value of `Person`.
+3112 tokens (19%) have a non-empty value of `Person`.
 1 types (0) occur at least once with a non-empty value of `Person`.
 1 lemmas (0) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1494; 9% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (849; 5% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (804; 5% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1494; 9% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (849; 5% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (769; 5% instances).
 
 ### `PRON`
 
 1494 <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1493; 100%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1222; 82%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1198; 80%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1070; 72%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (929; 62%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1493; 100%), <tt><a href="en_gumreddit-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1222; 82%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1198; 80%), <tt><a href="en_gumreddit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1070; 72%), <tt><a href="en_gumreddit-feat-Case.html">Case</a></tt><tt>=Nom</tt> (928; 62%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -42,16 +42,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-804 <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> tokens (68% of all `AUX` tokens) have a non-empty value of `Person`.
+769 <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (804; 100%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (765; 95%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (608; 76%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (603; 75%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (769; 100%), <tt><a href="en_gumreddit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (762; 99%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (603; 78%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (591; 77%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (150; 19% of non-empty `Person`): <em>_</em>
-* `2` (67; 8% of non-empty `Person`): <em>_</em>
-* `3` (587; 73% of non-empty `Person`): <em>_</em>
-* `EMPTY` (378): <em>_</em>
+* `1` (150; 20% of non-empty `Person`): <em>_</em>
+* `2` (67; 9% of non-empty `Person`): <em>_</em>
+* `3` (552; 72% of non-empty `Person`): <em>_</em>
+* `EMPTY` (413): <em>_</em>
 
 ## Relations with Agreement in `Person`
 

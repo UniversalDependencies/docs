@@ -15,20 +15,19 @@ The 10 most frequent `X` types:  <em>Eta, kouran, Ayiti, m</em>
 
 The 10 most frequent ambiguous lemmas: 
 
-The 10 most frequent ambiguous types:  <em>Ayiti</em> (<tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="ht_autogramm-pos-X.html">X</a></tt> 1), <em>m</em> (<tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> 58, <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 13, <tt><a href="ht_autogramm-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Ayiti</em> (<tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> 11, <tt><a href="ht_autogramm-pos-X.html">X</a></tt> 1), <em>m</em> (<tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> 72, <tt><a href="ht_autogramm-pos-X.html">X</a></tt> 1)
 
 
 * <em>Ayiti</em>
   * <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt> 11: <em>Depatman Deta Konfime yo Kidnape 2 Sitwayen Ameriken an <b>Ayiti</b></em>
   * <tt><a href="ht_autogramm-pos-X.html">X</a></tt> 1: <em>Gang yo nan peyi d <b>Ayiti</b> ogmante pouvwa yo depi asasina Prezidan Jovenel Moise an 2021 .</em>
 * <em>m</em>
-  * <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> 58: <em>Mwen <b>m</b> toujou ret je fèmen epi tèt mwen bese sou biwo a .</em>
-  * <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 13: <em>M pa bezwen di n kijanm santi <b>m</b> .</em>
+  * <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> 72: <em>Mwen <b>m</b> toujou ret je fèmen epi tèt mwen bese sou biwo a .</em>
   * <tt><a href="ht_autogramm-pos-X.html">X</a></tt> 1: <em>Mwen santi yon frison vyolan pran m nan tout kò m lè m ouvè je m pou m gade moun ki pale a mwen wè se yon jennon <b>m</b> wo ak tout souri sou lèv li ki te rantre epi l kanpe .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 4.000000 (the average of all parts of speech is 1.018653).
+The form / lemma ratio of `X` is 4.000000 (the average of all parts of speech is 1.032770).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>Ayiti, Eta, kouran, m</em>.
 

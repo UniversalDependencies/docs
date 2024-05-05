@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 2	sij	son	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Pl3,Nom
 3	koozz	koss	ADV	Adv	Case=Ill	4	advmod:lmod	_	GTtags=N,Pl,Nom
 4	vueʹlǧǧe	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	9	punct	_	_
+5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	de	de	CCONJ	CC	_	9	cc	_	GTtags=@ADVL>
 7	puk	puk	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	8	dep	_	GTtags=Pron,Sg,Nom
 8	vuäbbses	vuäʹbb	NOUN	N	Animacy=Hum|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sem/Kin,Sg,Ill,PxSg3
