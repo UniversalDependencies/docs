@@ -19,4 +19,4 @@ Note that in Swedish the decimal mark is most often a comma. Thousands are then 
 - _0, 1, 2, 3, 2014, 1 000 000, 3.000,15, 3,14159265359_
 - _ett_ "one", _två_ "two", _tre_ "three", _sjuttiosju_ "seventy-seven"
 - _I, II, III, IV, V, MMXIV_
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->

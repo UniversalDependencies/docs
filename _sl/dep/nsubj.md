@@ -31,4 +31,4 @@ nsubj(run,stripes)
 ~~~
 
 The `nsubj` relation is not used for the so-called logical subjects—agents or experiencers of an action on the semantic level which on the syntactic level perform a function other than that of the subject in the nominative case. These can range from prepositional phrases (e. g. *<ins>pri nas</ins> jemo*) to objects in the accusative (*<ins>Mijo</ins> zebe*) or dative case (*<ins>meni</ins> se je zdelo*). Such structures are marked according to their superficial syntactic function (that is, as `obl`, `obj`, or `iobj`) and not according to their semantic role.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:08 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:26 CEST -->

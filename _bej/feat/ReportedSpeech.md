@@ -25,4 +25,4 @@ column. (Which means that empty value has the `No` meaning.)
 #### Examples
 
 - _tak / <b>kaːm =i / hoː kʷiɖ -ja</b> i- ni //_ "A man said: <b>"My camel disappeared."</b>"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:07 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:22 CEST -->

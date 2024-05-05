@@ -39,4 +39,4 @@ them as adpositions/adverbs and add this feature?
 
 * _<b>vor</b>_ (in _stellen Sie sich vor_, lit. “-magine you i-”)
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:11 CEST -->

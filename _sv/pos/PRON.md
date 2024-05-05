@@ -21,4 +21,4 @@ context.
 - Indefinite pronouns: _någon_ "someone/anybody", _något_ "something/anything"
 - Totality pronouns: _alla_ "everyone", _allt_ "everything"
 - Negative pronouns: _ingen_ "nobody", _inget_ "nothing"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:40 CEST -->

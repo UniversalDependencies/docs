@@ -25,4 +25,4 @@ V:	Main verb
 - _corse_ "ran", _mangiò_ "ate"
 - _correndo_ "running", _mangiando_ "eating"
 - è stata _mangiata_ "(has been) eaten"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:31 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->

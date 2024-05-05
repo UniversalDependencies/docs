@@ -16,3 +16,4 @@ obl:path(yanti, ádhvabhis)
 nmod:appos(ambáyas, jāmáyas)
 nmod(jāmáyas, adhvarīyatā́m)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:40 CEST -->

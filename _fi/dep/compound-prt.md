@@ -87,4 +87,4 @@ The following verb expressions are considered phrasal verbs. Note that this list
 * _tulla tarpeen_ "become necessary"
 * _tulla vastaan_ "come across"
 * _tulla voimaan_ "become valid"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:38 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:56 CEST -->

@@ -33,4 +33,4 @@ Therefore, in the UD Spanish treebanks, _usted_ and _ustedes_ are tagged with th
 their typical association with formal register, but the interpretation of this feature in a specific context may depend
 on regional usage and sociolinguistic factors.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:01 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:16 CEST -->

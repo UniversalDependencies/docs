@@ -34,4 +34,4 @@ digits or as a word?
 #### Examples
 
 * _I, II, III_
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:09 CEST -->

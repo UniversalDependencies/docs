@@ -19,4 +19,4 @@ Serial verbs in Classical Chinese are flat multiword expressions (MWEs) made of 
 4	之	之	PRON	n,代名詞,人称,止格	Person=3|PronType=Prs	2	obj	_	Gloss=[3PRON]|SpaceAfter=No
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:58 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:16 CEST -->

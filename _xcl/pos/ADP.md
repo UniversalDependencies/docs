@@ -33,3 +33,4 @@ Klein, Jared. 2017. The syntax of Armenian. In: Jared Klein et al. (eds.), Handb
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Meyer, Robin. 2023. Die Präfixaufnahme von _z=_ im Altarmenischen. _Armeniaca. International Journal of Armenian Studies_ 2: 41-58.
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->

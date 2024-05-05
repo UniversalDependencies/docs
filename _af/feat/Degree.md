@@ -61,4 +61,4 @@ objects within a set.
 * _Ons sal ons pogings verskerp, geïnspireer deur die entoesiasme, hoop en veerkragtigheid van die Suid-Afrikaanse mense in 'n strewe na dit wat die <b>beste</b> is vir ons almal._ “We will intensify our attempts, inspired by the enthusiasm, hope and resilience of the South African people in pursuit of what is best for all of us.”
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:41 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:52 CEST -->

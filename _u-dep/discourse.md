@@ -42,4 +42,4 @@ conj(weapon, drink)
 cc(drink, and)
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:51 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:08 CEST -->

@@ -23,4 +23,4 @@ activity at the destination.
 6	.	.	PUNCT	U	_	3	punct	_	Id=14b4|LTranslit=.|Translit=.
 
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:19 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:36 CEST -->

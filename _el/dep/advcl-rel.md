@@ -28,4 +28,4 @@ For example, the antecedent is a clause in:
 15	.	.	PUNCT	PTERMP	_	1	punct	_	PunctType=Peri
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:19 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:36 CEST -->

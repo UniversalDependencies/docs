@@ -27,4 +27,4 @@ Other words functioning as determiners (including quantifiers such as _many_ and
 - _annó_, _dve_, _tri, _on beš_ "one, two, three, fifteen"
 - _I_, _II_, _III_, _IV_, _V_, _MMXIV_
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->

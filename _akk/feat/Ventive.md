@@ -16,4 +16,4 @@ The ventive is an _-a_ or _-(an)ni(m)_ morpheme that is typically attached to ve
 ### <a name="No">`No`</a>: does not have ventive
 ####Examples
 * _<b>illak</b>_ “he goes” (without the ventive)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:11 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->

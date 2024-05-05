@@ -31,4 +31,4 @@ Ukrainian uses the `xcomp:pred` relation to distinguish the cases where `xcomp` 
 8	.	_	_	_	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:31 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:51 CEST -->

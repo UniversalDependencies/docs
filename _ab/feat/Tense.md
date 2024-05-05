@@ -74,3 +74,4 @@ Dyn=Yes|Mood=Sub|Person[subj]=3|Tense=Past|Trans=No|VerbForm=Fin
 
 * [ab] _ø-с-аҳа-<b>хьа.н</b>_ [Subj.3-IO.1Sg-hear-Pluperf] ‘I had heard it’ `Dyn=Yes|Gender[subj]=Neut|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Pqp|Trans=No|VerbForm=Fin`
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->

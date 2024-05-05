@@ -18,3 +18,4 @@ The feature marks whether a verb form is dynamic or static.
 #### Examples
 
 * [ab] _с-гыло-<b>уп</b>_ [Subj.1Sg-stand-<b>Pres.Stat.Fin</b>] ‘I am standing’ `Dyn=No|Number[subj]=Sing|Person[subj]=1|Tense=Pres|VerbForm=Fin`
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:55 CEST -->

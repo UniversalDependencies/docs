@@ -27,4 +27,4 @@ For Verbs, we always use the layered Animacy features. For Nouns and Adjectives,
 
 * [nci] 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:55 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:46 CEST -->

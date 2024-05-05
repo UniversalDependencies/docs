@@ -49,4 +49,4 @@ always ambiguous with masculine.
 
 * _Dítě plakalo, protože někdo odnesl <b>jeho</b> hračku._ “The child wept because somebody took away <b>its</b> (=the child's) toy.”
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:47 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:59 CEST -->

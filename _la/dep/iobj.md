@@ -165,4 +165,4 @@ A better terminological choice for this relation would be "second object" (`sobj
 * Napoli, Maria. "Latin verbs with double accusative and their passivization." *Pallas* (Toulouse, France) Études de linguistique latine I, no. 102 (2016).
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:59 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:17 CEST -->

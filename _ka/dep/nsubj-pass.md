@@ -12,4 +12,4 @@ A passive nominal subject is a noun phrase which is the syntactic subject of a p
 nsubj:pass(იქნა, ჩანთა)
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:11 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:29 CEST -->

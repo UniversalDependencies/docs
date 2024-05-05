@@ -31,4 +31,4 @@ advcl(circularis, feratur)
 'But now the question arises: Since that region of heaven is borne round us in a circle, why was not the corresponding elevation circular?' (`UDante Que-108`, *aqua et terra* 74, Dante Alighieri)
 
 * The verb of saying is *quaero* 'to ask', so literally: 'but now it is asked: ...'
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:45 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:03 CEST -->

@@ -21,4 +21,4 @@ text, e.g. inside direct speech, titles of books etc. This feature would apply e
 #### Example 
 
 * _პასუხად ღებულობდნენ: <b>"Αληθώς Ανέστη!"</b> („ალითოს ანესტი!")._ 'They received an answer: "Αληθώς Ανέστη!".
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:45 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->

@@ -34,4 +34,4 @@ The relation also connects a number or a label to the labeled common noun, as in
 
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:58 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:16 CEST -->

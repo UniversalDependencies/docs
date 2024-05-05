@@ -65,4 +65,4 @@ The correferential relational indicates that the possessor is the same as the su
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:07 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:21 CEST -->

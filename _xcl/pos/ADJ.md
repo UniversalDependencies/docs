@@ -46,3 +46,4 @@ Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a 
 Meillet, Antoine. 1962. _Études de linguistique et de philologie arméniennes. I: Recherches sur la syntaxe comparée de l'arménien. Suivies de la composition en arménien._ Lisbonne: Imprensa Nacional de Lisboa.
 
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:32 CEST -->

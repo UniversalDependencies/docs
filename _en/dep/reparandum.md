@@ -17,4 +17,4 @@ det(righ-, the-3)
 case(left-7, to-5)
 det(left-7, the-6)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:47 CEST -->

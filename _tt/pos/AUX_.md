@@ -19,4 +19,4 @@ to mean tense/aspect/modality/evidentiality (TAME) and are tagged as AUX.
 * _Укырга теләр идек_ "We would like to study."
 * _Эшләргә бетердем_ "We finished working."
 * _Күрә алам_ "I can see"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:23 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

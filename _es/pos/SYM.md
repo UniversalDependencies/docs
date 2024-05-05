@@ -12,4 +12,4 @@ A symbol is a word-like entity that differs from ordinary words by form, functio
 Abbreviations for single words are not symbols but are assigned the part of speech of the full form (e.g. NOUN for _dr._). Similarly, acronyms for proper nouns (e.g. _NATO_) or common nouns (e.g. _USB_) are annotated as PROPN and NOUN, respectively.
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:31 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:42 CEST -->

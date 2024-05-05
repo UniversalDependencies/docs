@@ -61,4 +61,4 @@ Note that some prepositions can be followed by a pronoun, creating contractions.
 
 In both examples, the contractions _al_ and _del_ are represented as multi-word tokens (2-3 and 5-6, respectively), with each part assigned its original POS tag (ADP for _a_ and _de_ DET for "el").
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:21 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:32 CEST -->

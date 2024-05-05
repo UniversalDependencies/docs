@@ -41,4 +41,4 @@ In Hittite, this relation is used for determinatives, which indicate the categor
 8	ki-iš-ša-an	kiššan	ADV	_	_	9	advmod	_	_
 9	zi-ik-ke-eš	zikke-	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:04 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:22 CEST -->

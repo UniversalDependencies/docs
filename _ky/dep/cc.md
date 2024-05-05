@@ -32,4 +32,4 @@ even there is no [conj]() is also called ``cc``.
 Бирок карыз алгандан дайыма качам. \n But I always avoid borrowing.
 cc(качам, Бирок)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:33 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->

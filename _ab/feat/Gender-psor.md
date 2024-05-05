@@ -24,3 +24,4 @@ The feature marks the gender of the possessee in the possessor.
 #### Examples
 
 * [ab] _аҟны_ [Poss.3SgNH-in] ‘in it’ `Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3`
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:59 CEST -->

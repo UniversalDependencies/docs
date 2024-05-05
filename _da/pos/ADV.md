@@ -20,4 +20,4 @@ are still tagged `ADV` and not [PART]().
 - _væk_ "away"
 - _ikke_ "not" as in _jeg spiser <b>ikke</b> rejer_ "I do not eat prawns"
 - _pludselig_ "suddenly"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:21 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->

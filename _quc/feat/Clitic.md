@@ -16,4 +16,4 @@ Used with clitic agreement markers that come before a non-verbal predicate.
 * [quc] _<b>At</b> kʼo pa siwan!_ "Estás en el barranco!"
 * [quc] _In <b>in</b> kʼo pa tijobʼal._ "Yo estoy en la clase."
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:38 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:50 CEST -->

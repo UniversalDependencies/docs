@@ -13,4 +13,4 @@ lit: right is whatever she says
 "whatever she says is right"                
 csubj(právo, víka)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:43 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:01 CEST -->

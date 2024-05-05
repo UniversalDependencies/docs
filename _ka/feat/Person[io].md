@@ -41,4 +41,4 @@ system and provide a mapping between morphology and syntactic features such as t
 
 * _უწერს_ 'he/she/it writes smth. to him/her/it', _უწერთ_ 'he/she/it writes smth. to them' etc.
 * _უხატავს_ 'he/she/it is drawing smth. to him/her/it', _უხატავთ_ 'he/she/it is drawing smth. to them' etc.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:00 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:13 CEST -->

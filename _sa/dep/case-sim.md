@@ -17,3 +17,4 @@ obl(śúcis, mitrás)
 case:sim(mitrás, ná)
 amod(mitrás, priyás)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:49 CEST -->

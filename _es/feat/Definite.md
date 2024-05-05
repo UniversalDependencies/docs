@@ -48,4 +48,4 @@ In Spanish, "lo" is often used as a direct object pronoun to replace a noun that
 * _Vi el coche. Lo compré._ "I saw the car. I bought it."
 
 In this example, "lo" is used to replace "el coche" (the car) in the second sentence. This use of "lo" might show definiteness because it refers back to a specific, concrete object (the car) that has been previously mentioned.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:40 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:52 CEST -->

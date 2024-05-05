@@ -29,4 +29,4 @@ TIn Tekó, the attributives require suffixes _`-i`_/_`-dʒi`_ to predicate.
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:03 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:17 CEST -->

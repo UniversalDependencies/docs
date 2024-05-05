@@ -28,4 +28,4 @@ punct(murdnud-8,.-9)
 obj(killed,sheep)
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:13 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:32 CEST -->

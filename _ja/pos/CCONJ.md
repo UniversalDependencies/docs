@@ -22,4 +22,4 @@ The following instances are conjunctions for nominal coordination:
 - _<b>もしくは</b>&nbsp;_ “or” (`conjunction` / 接続詞)
 - _<b>一方</b>&nbsp;_ “on the other hand” (`conjunction` / 接続詞)
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:23 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:35 CEST -->

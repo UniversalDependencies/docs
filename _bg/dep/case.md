@@ -19,4 +19,4 @@ case(заека-2, На-1)
 To rabbit_the him tired to be cold .
 case(rabbit_the-2, To-1)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:31 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:48 CEST -->

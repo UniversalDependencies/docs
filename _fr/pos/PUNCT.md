@@ -9,4 +9,4 @@ udver: '2'
 
 Punctuation marks are non-alphabetical characters and character groups used to delimit linguistic units in printed text.
 They are tagged `PUNCT` regardless of their function.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:29 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->

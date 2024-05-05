@@ -18,3 +18,4 @@ The `compound:pred` relation connects two (or more) parts of a multi-word predic
 
 ~~~
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:56 CEST -->

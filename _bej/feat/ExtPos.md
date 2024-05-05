@@ -24,4 +24,4 @@ It is kept in FEATS in the UD conversion.
 
 * _<b>doːr han</b> (_doːr_ = `NOUN`)
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:44 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:56 CEST -->

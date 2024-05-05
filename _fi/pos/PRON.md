@@ -25,4 +25,4 @@ See also [PronType]().
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=713> (in Finnish)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

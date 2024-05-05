@@ -12,4 +12,4 @@ used as an adverbial modifier in a sentence:
 ב בונדסטאג של גרמניה ה מערבית הוסכם על כך פה אחד
 obl:npmod(הוסכם, פה)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:20 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:39 CEST -->

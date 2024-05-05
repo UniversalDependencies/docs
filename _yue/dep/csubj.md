@@ -31,4 +31,4 @@ The `csubj` relation is the clausal counterpart to [nsubj](); when the subject o
 7	be?"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:43 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:01 CEST -->

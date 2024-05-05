@@ -33,4 +33,4 @@ udver: '2'
 #### Examples
 
 * _ac erbyn 942 roedd yn frenin ar y rhan **fwyaf** o Gymru_ "and by 942 he was king of the largest part of Wales"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:41 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:53 CEST -->

@@ -127,4 +127,4 @@ Other words such as the direct object (5) or the affirmative potential 得 _de_ 
 6	me."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:37 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:55 CEST -->

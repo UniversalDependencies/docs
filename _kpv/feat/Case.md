@@ -319,4 +319,4 @@ In the central dialects it is often distinguished from the prolative in nouns.
 * [kpv] _<b>таті</b>_ "this way"
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:37 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:48 CEST -->
