@@ -30,3 +30,4 @@ Matzinger, Joachim. 2005. _Untersuchungen zum altarmenischen Nomen: die Flexion 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Olsen, Birgit Anette. 1999. _The Noun in Biblical Armenian: Origin and Word-Formation - with special emphasis on the Indo-European heritage_. Berlin, New York: De Gruyter Mouton. https://doi.org/10.1515/9783110801989
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->

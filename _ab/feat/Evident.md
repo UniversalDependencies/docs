@@ -20,3 +20,4 @@ The feature marks evidentiality of the verb.
 * [ab] _б-а-з-бо-<b>заарын</b>_ [Subj.2Sg.Fem-PO.3SgNH-Pot-see-Pres.<b>PastEvident</b>] ‘evidently, it can have seen <b>you.Fem</b>’ `Dyn=Yes|Evident=Nfh2|Gender[po]=Neut|Gender[subj]=Fem|Number[po]=Sing|Number[subj]=Sing|Person[po]=3|Person[subj]=2|Reln=Pot|Tense=Pres|Trans=Yes|VerbForm=Fin`
 
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:56 CEST -->

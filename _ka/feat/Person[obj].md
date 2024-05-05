@@ -41,4 +41,4 @@ system and provide a mapping between morphology and syntactic features such as t
 
 * _სწერს_ 'he/she/it writes him/her/it', _სწერენ_ 'they write them' etc.
 * _ხატავს_ 'he/she/it draws him/her/it', _ხატავენ_ 'they draw them' etc.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:00 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:14 CEST -->

@@ -153,4 +153,4 @@ constructions (cf. the English preposition _by_).
 
 * _Tento zákon byl schválen <b>vládou</b>.&nbsp;_ “This bill has been
   approved <b>by the government</b>.” (Passive example)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:36 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:48 CEST -->

@@ -62,4 +62,4 @@ Expresses adverbal _even_.
 
 * [mdf] _<b>Сясы</b> синь сембе и лётчикт, и космонавтт._ "And that is why they are all both pilots and cosmonauts."
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:38 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:49 CEST -->

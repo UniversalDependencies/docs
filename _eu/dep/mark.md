@@ -71,4 +71,4 @@ punct(azalduko-4, .-14)
 punct(azalduko-4, ,-5)
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:00 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:18 CEST -->

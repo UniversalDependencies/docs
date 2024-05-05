@@ -32,4 +32,4 @@ Future can be expressed by two auxiliaries: nà and bɛ́nà, which are gramma
 #### Example
 
 * _Fàntá  <b>bɛ́nà</b> dɔ́kili dá_ "Fàntá will sing".
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:09 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->

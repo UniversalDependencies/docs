@@ -10,4 +10,4 @@ A symbol is a word-like entity that differs from ordinary words by
 form, function, or both.
 
 In the Danish treebank SYM is used for mathematical operators or the section (§) sign.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:31 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:42 CEST -->

@@ -44,4 +44,4 @@ However, if the token consists entirely of digits (like _7_ in _Windows 7_), it 
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a proper noun?](https://glossary.sil.org/term/proper-noun)
 - [Wikipedia](http://en.wikipedia.org/wiki/Proper_noun)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:29 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->

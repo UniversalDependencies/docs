@@ -32,4 +32,4 @@ such as _yes_, _no_, _uhuh_, etc.
 ### References
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Interjection)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:25 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->

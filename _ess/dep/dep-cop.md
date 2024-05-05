@@ -18,4 +18,4 @@ qikmi i gu q . \n dog to-be-N Ind.Intr 3Sg .
 dep:cop(qikmi, i)
 dep:cop(dog, to-be-N)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:47 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:05 CEST -->

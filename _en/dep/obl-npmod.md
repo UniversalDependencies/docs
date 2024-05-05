@@ -46,4 +46,4 @@ and (v) certain other absolutive nominal constructions.
 A temporal modifier [obl:tmod]() is a subclass of [obl]() which is
 distinguished as a separate relation.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:20 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:39 CEST -->

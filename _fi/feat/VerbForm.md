@@ -55,4 +55,4 @@ Participle forms are further differentiated using the feature
 * <http://scripta.kotus.fi/visk/sisallys.php?p=108> (in Finnish)
 * <http://kaino.kotus.fi/visk/sisallys.php?p=120> (in Finnish)
 * <http://kaino.kotus.fi/visk/sisallys.php?p=121> (in Finnish)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:12 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->

@@ -23,4 +23,4 @@ _<b>våra</b> åsikter_ "our opinions" (plural).
 - Indefinite determiners: _någon_ "any/some" as in _det har inte gjorts <b>någon</b> undersökning_ "there hasn't been any investigation" 
 - Totality determiners: _alla_ "all"
 - Negative determiners: _ingen_ "no" as in _han behöver <b>ingen</b> hjälp_ "he needs no help"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:24 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:36 CEST -->

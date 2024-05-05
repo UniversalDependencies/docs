@@ -25,3 +25,4 @@ This feature marks gender agreement of the verb with the indirect object or of p
 
 * [ab] _а-ҽ-а-ҟье-ит_ [Refl.3SgNH-Refl-Subj.3SgNH-persist-Aor] ‘it persisted’ `Dyn=Yes|Gender[refl]=Neut|Gender[subj]=Neut|Number[refl]=Sing|Number[subj]=Sing|Person[refl]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:59 CEST -->

@@ -34,4 +34,4 @@ The plural is used when refering to several person, animals or things.
 
 
 Note : the [particle](pcm-pos/PART) _dem_ also has a plural value.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:54 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:06 CEST -->

@@ -54,4 +54,4 @@ appos(тел, 8(495)-000-11-22-7)
 appos(e-mail, petrov@mail.ru)
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:44 CEST -->

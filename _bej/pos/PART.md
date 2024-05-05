@@ -14,4 +14,4 @@ We process as PART some affixes and clitics: adverbializers, case markers, deict
 - _han_ (focalisation particle)
 - _ontʔa_ "now" (discourse particle)
 - _ajwa_ "yes"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->

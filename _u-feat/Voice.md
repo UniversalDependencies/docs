@@ -147,4 +147,4 @@ also the causative case of nouns.
 * [hu] _<b>mosat</b>_ “make somebody wash”
 * [tr] _<b>karıştırıyor</b>_ “is confusing” (= is causing somebody to be confused)
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:13 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->

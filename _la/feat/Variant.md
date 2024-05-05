@@ -32,4 +32,4 @@ This is different than simply marking words of Greek origin which comply to "reg
 * acc. ***delphyna*** 'dolphin', nom. *delphin*, masculine third declension, gr. acc. *δελφῖνα* from nom. *δελφίν*; in Latin one would expect *delphinem* from *delphin*
 * nom./acc. ***melos*** 'tune', neuter second declension, gr. nom./acc. *μέλος*; the corresponding "regular" Latin form would be *melum* (or a masculine *melus*)
 * gen. ***metamorphoseos*** '(of a/the) metamorphosis', nom. *metamorphosis*, feminine third declension, gr. gen. *μεταμορφώσεως* from nom. *μεταμόρφωσις*; one would expect the "regular" Latin form *metamorphosis* (identical to the nominative)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:11 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->

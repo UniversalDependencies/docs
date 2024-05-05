@@ -37,4 +37,4 @@ grammatically feminine, without any relation to sex.
 #### Examples
 - _ti-_ `PRON` Fem 3SG 
 - _halla_ `NOUN` Fem "Village"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:45 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->

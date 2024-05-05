@@ -29,4 +29,4 @@ and context, they may be classified as either [VERB]() or `NOUN`.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a noun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsANoun.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Noun)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:26 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->

@@ -33,4 +33,4 @@ Types of particles are found in various tagsets and are highly language-specific
 
 * _Mabuti <b>sana</b> ang ani._ “<b>I hope</b> the harvest is good.”
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:11 CEST -->

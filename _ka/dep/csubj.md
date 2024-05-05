@@ -12,4 +12,4 @@ A `csubj` (clausal subject) is a clausal syntactic subject of a clause, i.e., th
 csubj(ქმნის, დადებითი)
 cop(დადებითი, არის)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:43 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:01 CEST -->

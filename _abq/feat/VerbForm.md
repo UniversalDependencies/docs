@@ -24,4 +24,4 @@ This marks form of the verb
 #### Examples
 
 * [abq] _хI-т-и-щты-рныс_ [1PL.ABS-LOC.ELAT-3SG.M.ERG-let_go-PURP] ‘so that he lets us go’ `Gender[erg]=Masc|Number[abs]=Plur|Number[erg]=Sing|Person[abs]=1|Person[erg]=3|VerbForm=Conv`
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:12 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->

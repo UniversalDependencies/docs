@@ -39,4 +39,4 @@ However, `list` should not be over-used. If a construction can be easily analyze
 using the grammatical relations of standard sentences, such as when there is overt coordination,
 then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:00 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:18 CEST -->

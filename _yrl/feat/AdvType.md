@@ -67,4 +67,4 @@ A concessive adverb states an opposition to a previous clause or sentence.
 
 * [yrl] _<b>nuká</b>_ “nevertheless”
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:34 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:46 CEST -->

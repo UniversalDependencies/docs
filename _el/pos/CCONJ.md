@@ -24,4 +24,4 @@ For *subordinating* conjunctions, see [SCONJ]().
 * _αλλά_ "but", _όμως_, _ωστόσο_  "however, nevertheless, yet"
 * _<b>είτε</b> εσύ <b>είτε</b> ο Παύλος_ "<b>either</b> you <b>or</b> Pavlos"
 * _<b>ούτε</b> εσύ <b>ούτε</b> ο Παύλος_ "<b>neither</b> you <b>nor</b> Pavlos" 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:23 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:35 CEST -->

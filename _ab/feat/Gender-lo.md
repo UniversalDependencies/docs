@@ -24,3 +24,4 @@ This feature marks gender agreement of the verb with a local object.
 #### Examples
 
 * [ab] _д-а-ла-ло.ит_ [Subj.3SgH-LO.3SgNH-Pv-enter.Pres] ‘he is going <b>into it</b>’ `Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Pres|Trans=No|VerbForm=Fin`
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:58 CEST -->

@@ -18,4 +18,4 @@ udver: '2'
 
 * _წერა_ 'writing'
 * _ხატვა_ 'drawing'
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:12 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

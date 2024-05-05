@@ -12,3 +12,4 @@ payasā juhuyāt \n with-milk he-may-offer
 
 obl:instr(juhuyāt, payasā)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:38 CEST -->

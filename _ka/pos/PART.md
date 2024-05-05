@@ -24,4 +24,4 @@ Part:	Particle
 - infinitive particles: _რომელი<b>მე</b>_ 'any' etc.
 - negative particles: _არ_ 'not' etc.
 - emphasis particles: _აკი_ 'but' etc.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

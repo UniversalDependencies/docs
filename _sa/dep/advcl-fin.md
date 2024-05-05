@@ -16,3 +16,4 @@ obj(pibad, sómam)
 obj(hátyāya, vr̥tra-)
 advcl:fin(pibad, hátyāya)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:35 CEST -->

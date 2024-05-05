@@ -19,3 +19,4 @@ The `obj:ro` relation marks an an object referenced by a relational object marke
 5       Абгахәыҷы       а-бгахәыҷы́      NOUN    Noun_NH_Sg_Det  Animacy=Nhum|Definite=Def|Number=Sing   4       nsubj   _       _
 6       .       .       PUNCT   Punct_Period    _       4       punct   _       _
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:34 CEST -->

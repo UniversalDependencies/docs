@@ -36,4 +36,4 @@ The `acl:relcl` relation is used for relative clauses modifying nominal elements
 5	limiting	_	_	_	_	0	_	_	_
 6	device	_	_	_	_	0	_	_	_	
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:16 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:31 CEST -->

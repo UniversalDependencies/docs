@@ -58,4 +58,4 @@ masculine nor feminine (grammatically). They still may denote humans of either s
 * _το Λενιώ_ "Helen (diminutive)"
 * _χωριό_ "village"
 * _σχολείο_ "school"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:46 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->

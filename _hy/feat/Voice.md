@@ -85,4 +85,4 @@ The reciprocal is expressed by the passiv infix _-վ-_ however, the verb roots t
 #### Examples
 
 * _Նրանք <b>գրկախառնվեցին</b>&nbsp;_ “They hugged each other”.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:13 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->

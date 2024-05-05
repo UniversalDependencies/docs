@@ -300,4 +300,4 @@ obj(Imeli, časa)
 ## References
 
 * Roland Sussex, Paul Cubberley. 2006. _The Slavic Languages._ Cambridge: Cambridge University Press.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:40 CEST -->

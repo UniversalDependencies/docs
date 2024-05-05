@@ -28,4 +28,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 - _եթե&nbsp;_ “if”
 - _քան&nbsp;_ “than”
 - _ուստի&nbsp;_ “hence”
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:30 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:42 CEST -->

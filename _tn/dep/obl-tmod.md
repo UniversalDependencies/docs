@@ -14,3 +14,4 @@ obl:tmod(ka, letsatsi)
 obl:tmod(on;at, day)
 ~~~
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:41 CEST -->

@@ -35,3 +35,4 @@ Kocharov, Petr. 2023. Causatives in Classical Armenian. _Folia Linguistica_ 57/3
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters. (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Meyer, Robin. 2023. Iranian Syntax in Classical Armenian. Oxford University Press. (<a href="https://global.oup.com/academic/product/iranian-syntax-in-classical-armenian-9780198851097?cc=de&lang=en&">open access</a>)
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

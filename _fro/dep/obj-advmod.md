@@ -18,4 +18,4 @@ _si les pent tuz a l' arbre de mal fust &gt; <b>sis</b> pent tuz a l' arbre de m
 sis pent tuz a l' arbre de mal fust
 obj:advmod(pent, sis)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:14 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:32 CEST -->

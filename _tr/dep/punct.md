@@ -12,4 +12,4 @@ This is used for any piece of punctuation in a clause. See
 Kitabı okudum . \n I read the book
 punct(okudum, .)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:47 CEST -->

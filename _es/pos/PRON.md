@@ -17,4 +17,4 @@ Pronouns in Spanish agree in gender, number, and sometimes case with the noun or
 Pronouns can also take on different forms based on their syntactic function, such as subject, object, or possessive.
 Possessive pronouns always function as determiners and are denoted by the [DET]() tag. They agree in gender and number
 with the noun they modify and receive the feature [Poss]()`=Yes` to indicate their possessive nature.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

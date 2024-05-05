@@ -13,4 +13,4 @@ The `obl:depict` relation is used for oblique dependents in depictive uses.
 obl(ходят, простовласы)
 obl(go, bareheaded)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:18 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:37 CEST -->

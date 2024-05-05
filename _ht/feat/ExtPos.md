@@ -18,4 +18,4 @@ It is kept in FEATS in the UD conversion.
 
 * _de rapò ki di <b>kòm</b> kwa gen 2 sitwayen Ameriken ki disparèt an Ayiti_ "of the report saying that there are two American citizens missing in Haiti"
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:44 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:56 CEST -->

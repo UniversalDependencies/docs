@@ -18,4 +18,4 @@ nsubj:cop(кос-3, дӧраыс-2)
 Батьӧй бур пуысь . \n Dad is a good cook .
 nsubj(пуысь, Батьӧй)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:09 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:27 CEST -->

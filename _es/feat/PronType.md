@@ -110,4 +110,4 @@ Indefinite pronouns, determiners, numerals, or adverbs are used to refer to non-
 * _Algo me dice que va a llover._ "Something tells me it's going to rain."
 * _Muchos estudiantes prefieren estudiar en la biblioteca._ "Many students prefer to study in the library."
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:04 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:18 CEST -->

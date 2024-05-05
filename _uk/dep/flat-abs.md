@@ -58,4 +58,4 @@ This phenomenon is not limited to pure reciprocals:
 Do not confuse `flat:abs` with [`flat:sibl`](flat-sibl.html).
 
 For the discussion on clausal absolutive constructions, see issue [#557](https://github.com/UniversalDependencies/docs/issues/557).
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:56 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:14 CEST -->

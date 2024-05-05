@@ -6,4 +6,4 @@ shortdef: 'noun'
 
 Nouns can have the following features:
 Number, Case, Number[psor], Person[psor], Number[psed]
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:26 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->

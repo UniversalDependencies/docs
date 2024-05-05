@@ -187,4 +187,4 @@ In general it is difficult to automatically disambiguate between these two moods
 - Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
   London: Routledge, 2005.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:51 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->

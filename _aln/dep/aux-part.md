@@ -37,4 +37,4 @@ In Gheg, this includes the voice-modulating particle *u* and the progressive par
 8	.	.	PUNCT	_	_	3	punct	_	_
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:30 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:47 CEST -->

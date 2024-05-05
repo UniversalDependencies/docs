@@ -11,4 +11,4 @@ The tag `X` is used for words that for some reason cannot be assigned a real par
 We follow the general/universal definition of `SYM`.
 See [u-pos/X]() for details.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:32 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:44 CEST -->

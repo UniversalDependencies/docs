@@ -39,4 +39,4 @@ The term for 'one' is ambivalent, as traditionally it is interpreted as either r
 * Grotto, F., R. Sprugnoli, M. Fantoli, M. Simi, F. M. Cecchini, and M. Passarotti (2021). *The Annotation of Liber Abbaci, a Domain-Specific Latin Resource*, in Proceedings of the Eighth Italian Conference on Computational Linguistics (CLiC-it 2021), Milan, Italy: [CEUR-WS.org](http://ceur-ws.org/Vol-3033/paper24.pdf).
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:57 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:10 CEST -->

@@ -16,4 +16,4 @@ lit: there themselves have hidden villagers-the when there was war
 advcl (krýli, imǽlo)
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:17 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:32 CEST -->

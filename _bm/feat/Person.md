@@ -34,4 +34,4 @@ In Bambara, person is  a feature of [pronouns](bm-pos/PRON).
 
 * _Tasuma ye <b>a</b> minè._ “Fire has caught it.”
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:58 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:12 CEST -->
