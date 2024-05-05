@@ -55,7 +55,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 30	bidra	bidra	VERB	INF-ACT	VerbForm=Inf|Voice=Act	24	conj	_	_
 31	till	till	ADP	_	_	35	case	_	_
 32	det	den	DET	SG-DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	34	det	_	_
-33	egyptiska	egyptisk	ADJ	POS-DEF	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+33	egyptiska	egyptisk	ADJ	POS-DEF	Case=Nom|Definite=Def|Degree=Pos	34	amod	_	_
 34	folkets	folk	NOUN	SG-DEF-GEN	Case=Gen|Definite=Def|Gender=Neut|Number=Sing	35	nmod:poss	_	_
 35	välfärd	välfärd	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	30	obl	_	SpaceAfter=No
 36	"	"	PUNCT	Quote	_	16	punct	_	SpaceAfter=No

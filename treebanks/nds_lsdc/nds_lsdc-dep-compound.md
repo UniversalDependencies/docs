@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Low_Saxon-LSDC: Relations: `compound`
 
 This relation is universal.
-There are 1 language-specific subtypes of `compound`: <tt><a href="nds_lsdc-dep-compound-prt.html">compound:prt</a></tt>.
+There are 2 language-specific subtypes of `compound`: <tt><a href="nds_lsdc-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="nds_lsdc-dep-compound-redup.html">compound:redup</a></tt>.
 
-8 nodes (0%) are attached to their parents as `compound`.
+9 nodes (0%) are attached to their parents as `compound`.
 
-7 instances of `compound` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+8 instances of `compound` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.55555555555556.
 
-The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (4; 50% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (3; 38% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 13% instances).
+The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (5; 56% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (3; 33% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 7	Wiesken	Wiesken	PROPN	_	Number=Sing	8	nsubj	_	_
 8	ward	werden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	lemma_gml=wērden¹
 9	roud	roud	ADJ	_	Degree=Pos	8	xcomp	_	lemma_gml=rôt⁴
-10	as	as	SCONJ	_	_	11	case	_	lemma_gml=alsô
+10	as	as	ADP	_	_	11	case	_	lemma_gml=alsô
 11	vüür	vüür	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	nmod	_	lemma_gml=vü̂r¹|SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 

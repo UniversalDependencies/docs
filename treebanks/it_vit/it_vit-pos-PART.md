@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.501662).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.502468).
 
 The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 
@@ -30,7 +30,7 @@ The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: <tt><a href="it_vit-dep-flat-foreign.html">flat:foreign</a></tt> (1; 100% instances)
+`PART` nodes are attached to their parents using 1 different relations: <tt><a href="it_vit-dep-case.html">case</a></tt> (1; 100% instances)
 
 Parents of `PART` nodes belong to 1 different parts of speech: <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (1; 100% instances)
 

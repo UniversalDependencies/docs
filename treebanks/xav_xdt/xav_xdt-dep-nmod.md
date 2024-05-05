@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41 nodes (3%) are attached to their parents as `nmod`.
+51 nodes (3%) are attached to their parents as `nmod`.
 
-23 instances of `nmod` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29268292682927.
+29 instances of `nmod` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27450980392157.
 
-The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (37; 90% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (4; 10% instances).
+The following 5 pairs of parts of speech are connected with `nmod`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (42; 82% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (6; 12% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -48,6 +48,21 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 5	tô	tô	PART	prcl	Fact=Yes	6	dep	_	factive;fictício
 6	tiwĩ	wĩrĩ	VERB	v	Person[abs]=3	2	parataxis	_	kill.a.being;matar.um.ser
 7	.	.	PUNCT	punct	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nmod	color:blue
+1	Ta	ta	PRON	pron	Deixis=Med|PronType=Dem	2	nsubj	_	_
+2	iséré	séré	NOUN	n	Number=Sing|Person=3	0	root	_	_
+3	pa	pa	ADJ	adj	_	2	nmod	_	_
+4	si	si	ADV	adv	_	2	advmod	_	_
+5	hã	hã	PART	prcl	Emph=Yes	2	dep	_	_
 
 ~~~
 

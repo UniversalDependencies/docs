@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
 1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg3
-2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	Case=Nom|Number=Sing	4	advmod:tmod	_	GTtags=Sg,Nom
+2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Sg,Nom
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
@@ -42,9 +42,9 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	Õhtt	õhtt	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
+1	Õhtt	õhtt	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	GTtags=Sg,Nom
 2	vuäʹbb	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj:cop	_	GTtags=Sem/Kin,Sg,Nom
-3	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=Ind,Prs,Sg3
+3	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=Ind,Prs,Sg3
 4	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	0	root	_	GTtags=Pers,Pl3,Loc|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 

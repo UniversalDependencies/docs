@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 25	ⲥⲓⲕⲉ	ⲥⲓⲕⲉ	NOUN	N	_	23	nmod	_	Entity=object)
 26	ⲁϣⲉ	ⲉⲓϣⲉ	VERB	VSTAT	VerbForm=Fin	14	dislocated	_	_
 27	ⲉ	ⲉ	ADP	PREP	_	29	case	_	_
-28	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	Entity=(object
+28	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	_	Entity=(object
 29	ⲙⲁⲕϩ	ⲙⲁⲕϩ	NOUN	N	_	26	obl	_	Entity=object)
 30	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	32	aux	_	_
 31	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	32	nsubj	_	_
@@ -115,7 +115,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 22	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	23	det	_	_
 23	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	8	conj	_	_
 24	ⲛ	ⲛ	ADP	PREP	_	26	case	_	Orig=ⲛ̅
-25	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	det	_	Entity=(object
+25	ⲛⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=(object
 26	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	23	nmod	_	Entity=object)abstract)
 27	·	·	PUNCT	PUNCT	_	8	punct	_	_
 

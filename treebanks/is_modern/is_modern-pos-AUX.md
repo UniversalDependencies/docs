@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="is_modern-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 9.333333 (the average of all parts of speech is 1.734405).
+The form / lemma ratio of `AUX` is 9.333333 (the average of all parts of speech is 1.734760).
 
 The 1st highest number of forms (17) was observed with the lemma “vera”: <em>e., er, eru, erum, sé, séu, séum, séuð, var, varst, vera, verið, voru, vorum, væri, væru, værum</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (12) was observed with the lemma “geta”: <em
 
 The 3rd highest number of forms (12) was observed with the lemma “hafa”: <em>hafa, hafi, haft, hafði, hef, hefur, hefði, hefðu, hefðum, höfum, höfðu, höfðum</em>.
 
-`AUX` occurs with 8 features: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (5235; 99% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (5228; 99% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (4672; 88% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (4668; 88% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (4636; 87% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (4600; 87% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (36; 1% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (36; 1% instances)
+`AUX` occurs with 8 features: <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (5255; 99% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (5250; 99% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (4672; 88% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (4668; 88% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (4656; 88% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (4620; 87% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (36; 1% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (36; 1% instances)
 
 `AUX` occurs with 16 feature-value pairs: `Case=Nom`, `Gender=Neut`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`
 
 `AUX` occurs with 29 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (2004 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (2019 tokens).
 Examples: <em>er, hefur, má, getur, verður, mun, vill, skal</em>
 
 

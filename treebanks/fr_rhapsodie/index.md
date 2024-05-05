@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Mariam Nakhlé, Chunxiao Yan, Aline Etienne, Marine Courtin.
 
 Repository: [UD_French-Rhapsodie](https://github.com/UniversalDependencies/UD_French-Rhapsodie)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_rhapsodie214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -547,12 +547,13 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
     <ul>
       <li>ADJ
         <ul>
+          <li>ADP: à</li>
           <li>ADV: bien</li>
         </ul>
       </li>
       <li>ADP
         <ul>
-          <li>ADP: d', à, en, pour</li>
+          <li>ADP: d', en, à, pour</li>
           <li>PRON: il, y</li>
         </ul>
       </li>

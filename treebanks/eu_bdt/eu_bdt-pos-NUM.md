@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `NUM`
 
-There are 585 `NUM` lemmas (5%), 829 `NUM` types (3%) and 3566 `NUM` tokens (3%).
+There are 585 `NUM` lemmas (5%), 828 `NUM` types (3%) and 3566 `NUM` tokens (3%).
 Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>bat, bi, hiru, lau, bost, sei, zazpi, hamar, 20, zortzi</em>
@@ -15,7 +15,7 @@ The 10 most frequent `NUM` types:  <em>bat, bi, hiru, batean, baten, batek, lau,
 
 The 10 most frequent ambiguous lemmas: <em>bat</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1185, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 30, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 4, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>lau</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 91, <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 3), <em>sei</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 52, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>5</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 18, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>25</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 17, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>hamaika</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 15, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 9), <em>200</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 13, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>31</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 6, <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> 1), <em>1992</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 5, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>II.</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>batean</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 150, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 3), <em>lau</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 71, <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>batera</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 32, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 30, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> 1), <em>bana</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 14, <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> 3), <em>II.</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 3), <em>batekoa</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 2, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 1), <em>1991a</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1), <em>Bigarren</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1), <em>LEHEN</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1), <em>Lehenengo</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>batean</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 150, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 3), <em>lau</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 71, <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>batera</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 32, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 31, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> 1), <em>bana</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 14, <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> 3), <em>II.</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 3), <em>batekoa</em> (<tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 2, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 1), <em>1991a</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1), <em>Bigarren</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1), <em>LEHEN</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1), <em>Lehenengo</em> (<tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>batean</em>
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>batean</em> (<tt><a href="eu_bdt-pos-
   * <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 1: <em>Realeko zuzendaritzak baieztatu zuenez , hurrengo <b>lau</b> denboraldietan ariko da Asper Realean .</em>
 * <em>batera</em>
   * <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> 32: <em>E. Magoak haitzuloko bazter ilun <b>batera</b> eraman zituen haurrak .</em>
-  * <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 30: <em>Horrekin <b>batera</b> , besteak beste , Joseba Permachen hitzak jasotzen ditu .</em>
+  * <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 31: <em>Horrekin <b>batera</b> , besteak beste , Joseba Permachen hitzak jasotzen ditu .</em>
   * <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 5: <em>" Ezin daitezke erasoaldi politikoa eta terrorista <b>batera</b> egin " .</em>
   * <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> 1: <em>Sabin Intxaurraga eta Inazio Oliveri sailburuei ere eskatu diete nola <b>batera</b> daitekeen euren erantzukizuna Jaurlaritzan eta manifestazio horri euren alderdiak babesa eman izana .</em>
 * <em>bana</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>batean</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.417094 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `NUM` is 1.415385 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (21) was observed with the lemma “bat”: <em>bat, bata, batak, batean, bategatik, batek, batekin, bateko, batekoa, baten, batena, batengatik, batentzat, batera, baterako, baterantz, batetan, batetik, batez, bati, batik</em>.
 

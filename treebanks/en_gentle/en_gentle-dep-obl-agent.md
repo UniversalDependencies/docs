@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	Quizzes	quiz	NOUN	NNS	Number=Plur	1	conj	1:conj:and|6:nsubj:pass	Entity=(164-abstract-giv:inact-cf2-1-coref)
 4	should	should	AUX	MD	VerbForm=Fin	6	aux	6:aux|8:aux	_
 5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	6:aux:pass|8:aux:pass	_
-6	solved	solve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+6	solved	solve	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=solv-ed
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
 8	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	conj	6:conj:and	MSeg=writt-en
 9	by	by	ADP	IN	_	10	case	10:case	_
@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Discourse=same-unit_m:137->135:0:_|Entity=(98-substance-new-cf3-2-sgl
 7	air	air	NOUN	NN	Number=Sing	8	nsubj	8:nsubj|9:nsubj:xsubj	Entity=98)
 8	grew	grow	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	ccomp	4:ccomp	_
-9	denser	dense	ADJ	JJR	Degree=Cmp	8	xcomp	8:xcomp	SpaceAfter=No
+9	denser	dense	ADJ	JJR	Degree=Cmp	8	xcomp	8:xcomp	MSeg=dens-er|SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	11:punct	_
 11	perfumed	perfume	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	8:advcl	Discourse=causal-cause:138->135:1:_|MSeg=perfum-ed
 12	from	from	ADP	IN	_	15	case	15:case	_
@@ -67,10 +67,10 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 20	foot	foot	NOUN	NN	Number=Sing	22	compound	22:compound	Entity=(100-abstract-new-cf4-3-sgl
 21	-	-	PUNCT	:	_	20	punct	20:punct	_
 22	falls	fall	NOUN	NNS	Number=Plur	23	nsubj	23:nsubj	Entity=100)
-23	tinkled	tinkle	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	18:acl:relcl	_
+23	tinkled	tinkle	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	18:acl:relcl	MSeg=tinkl-ed
 24	on	on	ADP	IN	_	27	case	27:case	_
 25	the	the	DET	DT	Definite=Def|PronType=Art	27	det	27:det	Entity=(101-object-new-cf5-3-sgl
-26	tufted	tufted	ADJ	JJ	Degree=Pos	27	amod	27:amod	_
+26	tufted	tufted	ADJ	JJ	Degree=Pos	27	amod	27:amod	MSeg=tuft-ed
 27	floor	floor	NOUN	NN	Number=Sing	23	obl	23:obl:on	Entity=101)19)|SpaceAfter=No
 28	.	.	PUNCT	.	_	4	punct	4:punct	_
 

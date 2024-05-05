@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	ripas	ripa	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No|LId=ripa1
 5	,	,	PUNCT	u--------	_	9	punct	_	LId=comma1
 6	ubi	ubi	ADV	d--------	AdvType=Loc	7	advmod:lmod	_	LId=ubi1
-7	ludere	ludo	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	LId=ludo1
+7	ludere	ludo	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	LId=ludo1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	saepe	saepe	ADV	d--------	AdvType=Tim	9	advmod:tmod	_	LId=saepe1
 9	solebat	soleo	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	LId=soleo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 10	,	,	PUNCT	u--------	_	12	punct	_	LId=comma1
@@ -75,7 +75,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	,	,	PUNCT	u--------	_	2	punct	_	LId=comma1
 7	sestertium	sestertius	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	LId=sestertius1
 8	centies	centiens	ADV	d--------	_	9	obj	_	LId=centiens1
-9	accipere	accipio	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	LId=accipio1
+9	accipere	accipio	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	LId=accipio1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	potui	possum	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=possum1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 11	.	.	PUNCT	u--------	_	10	punct	_	LId=punc1
 

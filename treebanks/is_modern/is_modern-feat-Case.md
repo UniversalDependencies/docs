@@ -10,9 +10,9 @@ This feature is universal.
 It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
 32054 tokens (40%) have a non-empty value of `Case`.
-8005 types (78%) occur at least once with a non-empty value of `Case`.
-4521 lemmas (77%) occur at least once with a non-empty value of `Case`.
-The feature is used with 11 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13605; 17% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (7645; 10% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3754; 5% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3691; 5% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (758; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (353; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (171; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (36; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+8003 types (78%) occur at least once with a non-empty value of `Case`.
+4520 lemmas (77%) occur at least once with a non-empty value of `Case`.
+The feature is used with 11 part-of-speech tags: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (13605; 17% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (7646; 10% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (3754; 5% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (3690; 5% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (2036; 3% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (758; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (353; 0% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (171; 0% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (36; 0% instances), <tt><a href="is_modern-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -37,16 +37,16 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-7645 <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
+7646 <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="is_modern-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6704; 88%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5961; 78%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5077; 66%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="is_modern-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6739; 88%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5986; 78%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5043; 66%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (1101; 14% of non-empty `Case`): <em>það, mig, sig, hvað, hana, okkur, annað, þau, þær, hann</em>
 * `Dat` (1557; 20% of non-empty `Case`): <em>því, mér, sér, okkur, þeim, sínum, hverju, sinni, öðrum, honum</em>
 * `Gen` (579; 8% of non-empty `Case`): <em>þess, annars, okkar, hans, hvers, þeirra, hennar, annarra, sinna, síns</em>
-* `Nom` (4408; 58% of non-empty `Case`): <em>ég, það, við, hann, hún, þeir, hvað, þau, þær, annað</em>
+* `Nom` (4409; 58% of non-empty `Case`): <em>ég, það, við, hann, hún, þeir, hvað, þau, þær, annað</em>
 * `EMPTY` (88): <em>maður, því, manni, mann, við, annars, annaðhvort, menn, hvort</em>
 
 <table>
@@ -89,13 +89,13 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-3691 <tt><a href="is_modern-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+3690 <tt><a href="is_modern-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3313; 90%), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3313; 90%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2566; 70%), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1975; 54%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3312; 90%), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3312; 90%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2575; 70%), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (1975; 54%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (1166; 32% of non-empty `Case`): <em>þetta, þá, það, meira, þessa, eitthvað, alla, allt, þann, einhvern</em>
+* `Acc` (1165; 32% of non-empty `Case`): <em>þetta, þá, það, meira, þessa, eitthvað, alla, allt, þann, einhvern</em>
 * `Dat` (841; 23% of non-empty `Case`): <em>þessu, þeim, þessum, því, þessari, einu, öllum, þeirri, einhverju, öllu</em>
 * `Gen` (248; 7% of non-empty `Case`): <em>alls, hins, þeirra, þess, þessa, allra, einhvers, einhverra, margra, meiri</em>
 * `Nom` (1436; 39% of non-empty `Case`): <em>þetta, það, allt, ekkert, þessi, eitthvað, allir, sú, sá, eitt</em>
@@ -116,11 +116,11 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 2036 <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> tokens (74% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1797; 88%), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1744; 86%), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1054; 52%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1797; 88%), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1743; 86%), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1054; 52%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (196; 10% of non-empty `Case`): <em>Chusovitina, Ólympíuleikana, Evrópusambandið, Hrafnhildi, Evrópumótið, Ólympíuleika, Alþingi, EES-samninginn, Sjálfstæðisflokkinn, Íbúðalánasjóð</em>
+* `Acc` (196; 10% of non-empty `Case`): <em>Chusovitina, Ólympíuleikana, Evrópusambandið, Hrafnhildi, EES-samninginn, Evrópumótið, Ólympíuleika, Alþingi, Sjálfstæðisflokkinn, Íbúðalánasjóð</em>
 * `Dat` (513; 25% of non-empty `Case`): <em>Ríó, Ólympíuleikunum, Íslandi, Frakklandi, Ólympíuleikum, Alþingi, Evrópusambandinu, Danmörku, Brasilíu, Evrópumótinu</em>
 * `Gen` (348; 17% of non-empty `Case`): <em>Íslands, Alþingis, Evrópu, Danmerkur, Sjálfstæðisflokksins, Stjörnunnar, pírata, Frakklands, Framsóknarflokksins, Samtaka</em>
 * `Nom` (979; 48% of non-empty `Case`): <em>Hrafnhildur, Ísland, Íslendingar, Alþingi, Bryndís, Blöndal, Jón, Pétur, Rún, Lúthersdóttir</em>
@@ -228,7 +228,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 * `Dat` (1; 33% of non-empty `Case`): <em>nýafstöðu</em>
 * `Gen` (1; 33% of non-empty `Case`): <em>skyttunar</em>
 * `Nom` (1; 33% of non-empty `Case`): <em>final-four</em>
-* `EMPTY` (88): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (87): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ### `ADP`
 

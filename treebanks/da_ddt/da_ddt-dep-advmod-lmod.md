@@ -45,7 +45,7 @@ The following 5 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 6	passer	passe	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 8	på	på	ADP	_	AdpType=Prep	11	mark	_	_
-9	ikke	ikke	ADV	_	_	11	advmod	_	_
+9	ikke	ikke	ADV	Polarity=Neg	_	11	advmod	_	_
 10	at	at	PART	_	PartType=Inf	11	mark	_	_
 11	betale	betale	VERB	_	VerbForm=Inf|Voice=Act	6	advcl	_	_
 12	med	med	ADP	_	AdpType=Prep	14	case	_	_

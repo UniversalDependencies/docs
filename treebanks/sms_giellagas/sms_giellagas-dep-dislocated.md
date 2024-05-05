@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 2	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 3	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl:lmod	_	GTtags=Pers,Pl3,Loc
 4	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	7	det	_	GTtags=Dem,Sg,Nom|SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	4	conj	_	GTtags=Dem,Sg,Nom
 7	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	2	dislocated	_	GTtags=Sem/Hum,Sg,Nom
 8	Peʹll	Peʹll	NOUN	N	Case=Nom|Number=Sing	7	appos	_	GTtags=Prop,Sg,Nom|SpaceAfter=No
@@ -41,18 +41,18 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 dislocated	color:blue
-1	Peʹll	Peʹll	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
-2	tõt-i	tõt	PRON	_	Case=Nom|Clitic=AddI|Number=Sing|PronType=Dem	1	dislocated	_	_
-3	mõõni	mõõnnâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	kuâŋŋa	kuâŋŋa	ADV	_	_	3	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	ceälkk	ceäʹlǩǩed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	SpaceAfter=No
+1	Peʹll	Peʹll	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	tõt-i	tõt	PRON	Pron	Case=Nom|Clitic=AddI|Number=Sing|PronType=Dem	1	dislocated	_	_
+3	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	kuâŋŋa	kuâŋŋa	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	SpaceAfter=No
 7	:	:	PUNCT	_	_	11	punct	_	_
 8	”	”	PUNCT	_	_	11	punct	_	SpaceAfter=No
-9	Mâiʹd	mâiʹd	PRON	_	_	11	obj	_	_
-10	ooumaž	ooumaž	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing	11	nsubj	_	_
-11	tuejjad	tuejjeed	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	parataxis	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	Mâiʹd	mâiʹd	PRON	Pron	_	11	obj	_	_
+10	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	11	nsubj	_	_
+11	tuejjad	tuejjeed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	parataxis	_	SpaceAfter=No
+12	.	.	PUNCT	CLB	_	3	punct	_	SpaceAfter=No
 13	”	”	PUNCT	_	_	3	punct	_	_
 
 ~~~

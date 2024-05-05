@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-97 nodes (1%) are attached to their parents as `expl`.
+98 nodes (1%) are attached to their parents as `expl`.
 
-93 instances of `expl` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78350515463918.
+94 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78571428571429.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (63; 65% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (24; 25% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (6; 6% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (63; 64% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (24; 24% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 12 11 expl	color:blue
 1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:33->34:1:dm-if-197|Lem=*LOWER*|Len=2
 2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(5-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
-3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Cxn=Condition-Realistic|Lem=_|Len=3
+3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Lem=_|Len=3
 4	_	_	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(41-object-new-cf1-3,6-coref|Lem=_|Len=1
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=8|MSeg=base-ball
 6	_	_	NOUN	NN	Number=Sing	3	obj	3:obj	Lem=_|Len=4
@@ -33,7 +33,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 9	_	_	PROPN	NNP	Number=Sing	8	flat	8:flat	Entity=42)41)|Lem=_|Len=4|SpaceAfter=No
 10	_	_	PUNCT	,	_	3	punct	3:punct	Lem=_|Len=1
 11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Discourse=explanation-justify:34->51:4:_|Lem=_|Len=5
-12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-There|Lem=be|Len=2
+12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=2
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Lem=_|Len=1
 14	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Lem=_|Len=6
 15	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	Discourse=elaboration-attribute:35->34:0:syn-mdf-210+syn-relcl-214|Entity=(41-object-giv:act-cf1-1-ana)|Lem=_|Len=2
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Discourse=evaluation-comment:8->4:2:lex-indwd-61|Lem=be|Len=2
 2	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Lem=_|Len=2
 3	_	_	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	Lem=_|Len=4
-4	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Cxn=Interrogative-Polar|Lem=_|Len=6|MSeg=like-ly
+4	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Cxn=Interrogative-Polar-Direct|Lem=_|Len=6|MSeg=like-ly
 5	_	_	SCONJ	IN	_	8	mark	8:mark	Lem=_|Len=4
 6	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	Entity=(7-organization-giv:inact-cf1-1-ana-Monsters%2C_Inc.)|Lem=_|Len=4
 7	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	Lem=be|Len=3
@@ -80,26 +80,35 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 expl	color:blue
-1	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=adversative-concession:79->78:0:dm-though-523|Lem=*LOWER*|Len=4
-2	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Entity=(86-abstract-new-cf4-1-cata)|Lem=_|Len=2
-3	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	Lem=be|Len=3
-4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Lem=_|Len=3
-5	_	_	NOUN	NN	Number=Sing	1	ccomp	1:ccomp	Lem=_|Len=4
-6	_	_	SCONJ	IN	_	10	mark	10:mark	Entity=(86-abstract-acc:com-cf4-5-coref|Lem=_|Len=4
-7	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	Entity=(87-person-acc:com-cf3-1-sgl)|Lem=_|Len=3
-8	_	_	AUX	MD	VerbForm=Fin	10	aux	10:aux	Lem=_|Len=5
-9	_	_	ADV	RB	Degree=Pos	10	advmod	10:advmod	Lem=_|Len=6|MSeg=easi-ly
-10	_	_	VERB	VB	VerbForm=Inf	5	csubj	5:csubj	Lem=_|Len=4
-11	_	_	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=(49-abstract-giv:inact-cf1-1-coref)|Lem=_|Len=8|MSeg=secur-ity
-12	_	_	CCONJ	CC	_	13	cc	13:cc	Lem=_|Len=3
-13	_	_	NOUN	NN	Number=Sing	11	conj	10:obj|11:conj:and	Entity=(67-abstract-giv:inact-cf2-1-coref)86)|Lem=_|Len=11|MSeg=conveni-ence
-14	_	_	ADV	RB	Degree=Pos	1	advmod	1:advmod	Lem=_|Len=6|SpaceAfter=No
-15	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1
+# visual-style 5 3 expl	color:blue
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=elaboration-additional:70->1:8:syn-relcl-425|Entity=(75-person-acc:com-cf1-1-sgl)|Lem=_|Len=1
+2	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=5
+3	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Entity=(76-animal-new-cf2-1-cata)|Lem=_|Len=2
+4	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	Lem=be|Len=2
+5	_	_	NOUN	NNS	Number=Plur	2	ccomp	2:ccomp|8:csubj	Entity=(77-event-new-cf4-1-coref(76-animal-acc:com-cf2-1-coref|Lem=coyote|Len=7|MSeg=coyote-s
+6	_	_	PRON	WDT	PronType=Rel	8	nsubj	5:ref|8:nsubj|13:nsubj	Lem=_|Len=4
+7	_	_	AUX	MD	VerbForm=Fin	8	aux	8:aux|13:aux	Lem=_|Len=4
+8	_	_	VERB	VB	VerbForm=Inf	5	advcl:relcl	5:advcl:relcl	Lem=_|Len=4
+9	_	_	ADP	IN	_	11	case	11:case	Lem=_|Len=2
+10	_	_	ADJ	JJ	Degree=Pos	11	amod	11:amod	Entity=(78-time-new-cf5-2-sgl|Lem=_|Len=7
+11	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:at	Entity=78)|Lem=time|Len=5|MSeg=time-s
+12	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:71->70:0:dm-and-431|Lem=_|Len=3
+13	_	_	VERB	VB	VerbForm=Inf	8	conj	5:advcl:relcl|8:conj:and	Lem=_|Len=6
+14	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=3
+15	_	_	NOUN	NNS	Number=Plur	13	obl	13:obl:for	Entity=(79-event-new-cf6-1-sgl)76)|Lem=response|Len=9|MSeg=respon-se-s
+16	_	_	PART	TO	_	17	mark	17:mark	Discourse=purpose-goal:72->70:1:syn-inf-435|Lem=_|Len=2
+17	_	_	VERB	VB	VerbForm=Inf	13	advcl	13:advcl:to	Lem=_|Len=6
+18	_	_	SCONJ	IN	_	22	mark	22:mark	Lem=_|Len=2
+19	_	_	DET	DT	Definite=Ind|PronType=Art	20	det	20:det	Entity=(80-place-new-cf3-2-sgl|Lem=a|Len=2
+20	_	_	NOUN	NN	Number=Sing	22	nsubj:pass	22:nsubj:pass	Entity=80)|Lem=_|Len=4
+21	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	22:aux:pass	Lem=be|Len=2
+22	_	_	VERB	GW	Typo=Yes	17	ccomp	17:ccomp	CorrectForm=overpopulated|Cxn=Interrogative-Polar-Indirect|Lem=overpopulate|Len=4|XML=<sic ana:::"overpopulated">
+23	_	_	X	VBN	_	22	goeswith	22:goeswith	CorrectForm=_|Entity=77)|Lem=_|Len=9|MSeg=populat-ed|SpaceAfter=No|XML=</sic>
+24	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 
 ~~~
 

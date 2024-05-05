@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>ekki</em> (<tt><a href="is_modern-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.102041 (the average of all parts of speech is 1.734405).
+The form / lemma ratio of `ADV` is 1.102041 (the average of all parts of speech is 1.734760).
 
 The 1st highest number of forms (7) was observed with the lemma “mikill”: <em>meira, meiri, mikil, mikinn, mikið, mikla, miklu</em>.
 
@@ -63,11 +63,11 @@ The 2nd highest number of forms (6) was observed with the lemma “allur”: <em
 
 The 3rd highest number of forms (5) was observed with the lemma “margur”: <em>fleiri, marga, margar, margir, mörgum</em>.
 
-`ADV` occurs with 12 features: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (798; 11% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (171; 2% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (148; 2% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (131; 2% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (109; 2% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (14; 0% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (13; 0% instances), <tt><a href="is_modern-feat-PronType.html">PronType</a></tt> (6; 0% instances), <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (6; 0% instances), <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt> (2; 0% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (1; 0% instances)
+`ADV` occurs with 12 features: <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (798; 11% instances), <tt><a href="is_modern-feat-Case.html">Case</a></tt> (171; 2% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (148; 2% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (131; 2% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (109; 2% instances), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt> (14; 0% instances), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt> (13; 0% instances), <tt><a href="is_modern-feat-PronType.html">PronType</a></tt> (6; 0% instances), <tt><a href="is_modern-feat-VerbForm.html">VerbForm</a></tt> (6; 0% instances), <tt><a href="is_modern-feat-Voice.html">Voice</a></tt> (4; 0% instances), <tt><a href="is_modern-feat-Foreign.html">Foreign</a></tt> (2; 0% instances), <tt><a href="is_modern-feat-Person.html">Person</a></tt> (1; 0% instances)
 
 `ADV` occurs with 28 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
-`ADV` occurs with 76 feature combinations.
+`ADV` occurs with 77 feature combinations.
 The most frequent feature combination is `_` (6097 tokens).
 Examples: <em>ekki, þá, svo, bara, hér, eins, þar, nú, þannig, mjög</em>
 

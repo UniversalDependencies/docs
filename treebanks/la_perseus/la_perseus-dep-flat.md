@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	Velitris	Velitrae	PROPN	n-p---fb-	Case=Abl|Gender=Fem|Number=Plur	2	flat:name	_	_
 4	praecipuam	praecipuus	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
 5	olim	olim	ADV	d--------	AdvType=Tim	4	advmod:tmod	_	_
-6	fuisse	sum	AUX	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf	4	cop	_	LId=sum1
+6	fuisse	sum	AUX	v--rna---	Aspect=Perf|VerbForm=Inf	4	cop	_	LId=sum1|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
 7	multa	multus	DET	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur|NumType=Card|PronType=Ind	8	nsubj	_	_
 8	declarant	declaro	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	.	.	PUNCT	u--------	_	8	punct	_	_

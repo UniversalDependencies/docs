@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4309 nodes (2%) are attached to their parents as `nummod`.
+4300 nodes (2%) are attached to their parents as `nummod`.
 
-2946 instances of `nummod` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4339754003249.
+2947 instances of `nummod` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43232558139535.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (3405; 79% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (547; 13% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (135; 3% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (99; 2% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (92; 2% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (3403; 79% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (531; 12% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (136; 3% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (109; 3% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (91; 2% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 9	-	-	PUNCT	Z	_	8	punct	_	NER=I-misc|SpaceAfter=No
 10	Mortem	mortem	X	Xf	Foreign=Yes	8	flat:foreign	_	NER=I-misc
 11	on	on	X	Xf	Foreign=Yes	8	flat:foreign	_	NER=I-misc
-12	UNPROFOR	Unprofor	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	8	flat:foreign	_	NER=I-misc|SpaceAfter=No
+12	UNPROFOR	Unprofor	X	Npmsn	Foreign=Yes	8	flat:foreign	_	NER=I-misc|SpaceAfter=No
 13	.	.	PUNCT	Z	_	1	punct	_	NER=O
 
 ~~~

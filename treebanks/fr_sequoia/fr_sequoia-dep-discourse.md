@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 15	parti	partir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 16	dans	dans	ADP	_	_	18	case	_	_
 17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	SpaceAfter=No
-18	espace	espace	NOUN	_	Number=Sing	15	obl:arg	_	_
+18	espace	espace	NOUN	_	Gender=Masc|Number=Sing	15	obl:arg	_	_
 19	à	à	ADP	_	_	21	case	_	_
 20	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	SpaceAfter=No
 21	âge	âge	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	_

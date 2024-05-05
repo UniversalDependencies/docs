@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>två, tre, 1, fyra, 3, sex, 10, tio, 000,
 
 The 10 most frequent `NUM` types:  <em>två, tre, 1, fyra, sex, 10, tio, 000, 2014, 2015</em>
 
-The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 453, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>45</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1), <em>ett</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 451, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>ett</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 6, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 4, <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>I</em> (<tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 42, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 4), <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 294, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>4</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1), <em>ett</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 129, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="sv_pud-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.004762 (the average of all parts of speech is 1.239021).
+The form / lemma ratio of `NUM` is 1.004762 (the average of all parts of speech is 1.240849).
 
 The 1st highest number of forms (2) was observed with the lemma “1”: <em>1, I</em>.
 
@@ -59,7 +59,7 @@ Examples: <em>två, tre, fyra, 1, sex, 10, tio, 000, 2014, 2015</em>
 
 `NUM` nodes are attached to their parents using 13 different relations: <tt><a href="sv_pud-dep-nummod.html">nummod</a></tt> (275; 68% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (75; 19% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (16; 4% instances), <tt><a href="sv_pud-dep-flat-name.html">flat:name</a></tt> (7; 2% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (7; 2% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (6; 1% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="sv_pud-dep-appos.html">appos</a></tt> (4; 1% instances), <tt><a href="sv_pud-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (272; 68% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (81; 20% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (19; 5% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (18; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (272; 68% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (81; 20% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (19; 5% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (18; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances)
 
 294 (73%) `NUM` nodes are leaves.
 

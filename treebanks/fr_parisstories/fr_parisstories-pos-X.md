@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>s~</em> (<tt><a href="fr_parisstories
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.329287).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.332953).
 
 The 1st highest number of forms (1) was observed with the lemma “XXX”: <em>XXX</em>.
 
@@ -55,17 +55,17 @@ Examples: <em>XXX, s~, d~, m~, pl~, b~, comple~, c~, c~…, dans</em>
 
 Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (36; 55% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (9; 14% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (4; 6% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (4; 6% instances),  (4; 6% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 2% instances)
 
-31 (48%) `X` nodes are leaves.
+24 (37%) `X` nodes are leaves.
 
-19 (29%) `X` nodes have one child.
+25 (38%) `X` nodes have one child.
 
-4 (6%) `X` nodes have two children.
+6 (9%) `X` nodes have two children.
 
-11 (17%) `X` nodes have three or more children.
+10 (15%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 8.
 
-Children of `X` nodes are attached using 16 different relations: <tt><a href="fr_parisstories-dep-punct.html">punct</a></tt> (23; 32% instances), <tt><a href="fr_parisstories-dep-case.html">case</a></tt> (9; 13% instances), <tt><a href="fr_parisstories-dep-det.html">det</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (5; 7% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (5; 7% instances), <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (4; 6% instances), <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-dep-cop.html">cop</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-aux-tense.html">aux:tense</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 16 different relations: <tt><a href="fr_parisstories-dep-punct.html">punct</a></tt> (29; 37% instances), <tt><a href="fr_parisstories-dep-case.html">case</a></tt> (9; 12% instances), <tt><a href="fr_parisstories-dep-det.html">det</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (5; 6% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (5; 6% instances), <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (4; 5% instances), <tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-dep-cop.html">cop</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-aux-tense.html">aux:tense</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="fr_parisstories-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 13 different parts of speech: <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (23; 32% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (8; 11% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (4; 6% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 13 different parts of speech: <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (29; 37% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (8; 10% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (6; 8% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (4; 5% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

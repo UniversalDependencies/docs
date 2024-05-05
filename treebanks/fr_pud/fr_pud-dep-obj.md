@@ -51,7 +51,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 4	ne	ne	ADV	RB	Polarity=Neg	5	advmod	_	_
 5	peut	pouvoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	pas	pas	ADV	RB	Polarity=Neg	5	advmod	_	_
-7	s'	se	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
+7	s'	se	PRON	PRP	Person=3|PronType=Prs	8	obj	_	SpaceAfter=No
 8	élever	élever	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 9	à	à	ADP	IN	_	13	case	_	_
 10	le	le	DET	_	Definite=Def|PronType=Art	9	fixed	_	_

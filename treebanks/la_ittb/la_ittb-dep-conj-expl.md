@@ -51,7 +51,7 @@ The following 44 pairs of parts of speech are connected with `conj:expl`: <tt><a
 6	idest	idest	CCONJ	O4	VerbForm=Fin	10	cc	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	6	punct	_	_
 8	nunc	nunc	ADV	O4	AdvType=Tim	10	advmod:tmod	_	_
-9	cognoscere	cognosco	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	cognoscere	cognosco	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	10	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	feci	facio	VERB	N3|modA|tem4|gen4	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj:expl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 11	.	.	PUNCT	Punc	_	2	punct	_	_
 

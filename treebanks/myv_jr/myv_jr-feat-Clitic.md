@@ -88,11 +88,11 @@ The most frequent other feature values with which `ADJ` and `Clitic` co-occurred
 
 8 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `ADP` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 63%).
+The most frequent other feature values with which `ADP` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (8; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 63%).
 
 `ADP` tokens may have the following values of `Clitic`:
 
-* `Add` (8; 100% of non-empty `Clitic`): <em>мартояк, кисэяк, аловгак, кувалткак, маластояк, пингстэяк, эйстэяк</em>
+* `Add` (8; 100% of non-empty `Clitic`): <em>мартояк, аловгак, кисэяк, кувалткак, маластояк, пингстэяк, эйстэяк</em>
 
 ### `AUX`
 

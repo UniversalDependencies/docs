@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt>, <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt>.
 
-1356 tokens (17%) have a non-empty value of `Person`.
-774 types (22%) occur at least once with a non-empty value of `Person`.
-479 lemmas (21%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (794; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (315; 4% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (247; 3% instances).
+1360 tokens (17%) have a non-empty value of `Person`.
+778 types (22%) occur at least once with a non-empty value of `Person`.
+483 lemmas (21%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (794; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (319; 4% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (247; 3% instances).
 
 ### `VERB`
 
@@ -41,15 +41,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-315 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `Person`.
+319 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (306; 97%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (225; 71%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (306; 96%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (226; 71%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (109; 35% of non-empty `Person`): <em>ме, ми, миян, менам, меным, менӧ, ачым, миянлысь, асланым, ачымӧс</em>
-* `2` (38; 12% of non-empty `Person`): <em>тэ, ті, тэнад, тэкӧд, тэныд, тіян, Асьныд, Ставныд, аскӧдныд, аслад</em>
-* `3` (168; 53% of non-empty `Person`): <em>сійӧ, сы, сійӧс, найӧ, сылӧн, сылы, найӧс, аслас, ачыс, асьсӧ</em>
+* `1` (110; 34% of non-empty `Person`): <em>ме, ми, миян, менам, меным, менӧ, ачым, миянлысь, асланым, ачымӧс</em>
+* `2` (39; 12% of non-empty `Person`): <em>тэ, ті, тэнад, тэкӧд, тэныд, тіян, Асьныд, Коднаныд, Ставныд, аскӧдныд</em>
+* `3` (170; 53% of non-empty `Person`): <em>сійӧ, сы, сійӧс, найӧ, сылӧн, сылы, найӧс, аслас, ачыс, асьсӧ</em>
 * `EMPTY` (222): <em>тайӧ, мый, быд, кодъяс, коді, ас, мыйкӧ, став, мукӧд, ставыс</em>
 
 <table>
@@ -106,7 +106,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (161; 70%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (83; 63%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (84; 64%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (10; 67%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-cop.html">cop</a></tt>]--> AUX</tt> (3; 75%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-det.html">det</a></tt>]--> PRON</tt> (3; 100%),

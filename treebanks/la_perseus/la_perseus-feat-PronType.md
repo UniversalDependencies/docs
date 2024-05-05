@@ -22,9 +22,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Con` (122; 7% of non-empty `PronType`): <em>alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros</em>
+* `Con` (135; 8% of non-empty `PronType`): <em>alii, alter, altera, alia, alterius, solus, alio, alios, ceteri, ceteros</em>
 * `Dem` (723; 42% of non-empty `PronType`): <em>haec, hoc, illa, ille, illi, ipse, illum, hanc, illis, his</em>
-* `Ind` (285; 17% of non-empty `PronType`): <em>multa, quis, nulla, nullo, quicquam, quidam, quisque, quae, paucis, quam</em>
+* `Ind` (272; 16% of non-empty `PronType`): <em>multa, quis, nulla, nullo, quicquam, quidam, quisque, quae, paucis, quam</em>
 * `Prs` (393; 23% of non-empty `PronType`): <em>mea, suis, sua, suo, suum, suam, tua, meo, meae, meam</em>
 * `Rel` (36; 2% of non-empty `PronType`): <em>quanta, quantum, quot, quale, quanto, quicumque, quodcumque, quaecumque, qualis, quocumque</em>
 * `Tot` (163; 9% of non-empty `PronType`): <em>omnia, omnes, omnis, omnium, omnibus, omni, tota, totum, cuncta, omnem</em>

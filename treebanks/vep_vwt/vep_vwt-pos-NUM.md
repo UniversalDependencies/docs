@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “2017”: <em>
 `NUM` occurs with 8 feature-value pairs: `Case=Ade`, `Case=Ine`, `Case=Nom`, `Case=Par`, `NumForm=Digit`, `NumForm=Word`, `NumType=Card`, `NumType=Ord`
 
 `NUM` occurs with 5 feature combinations.
-The most frequent feature combination is `Case=Nom|NumForm=Digit|NumType=Card` (4 tokens).
-Examples: <em>40, 15, 2017</em>
+The most frequent feature combination is `Case=Nom|NumForm=Word|NumType=Card` (4 tokens).
+Examples: <em>kahesa, kaks', koume, üks'</em>
 
 
 ## Relations

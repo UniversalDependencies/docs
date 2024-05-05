@@ -22,13 +22,13 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat	color:blue
-1	అంగడికి	_	NOUN	NOUN	_	2	obl	_	Translit=aṁgaḍiki|LTranslit=_
-2	వెళ్తే	_	VERB	VERB	_	6	advcl:cond	_	Translit=vèḷte|LTranslit=_
-3	,	_	PUNCT	PUNCT	_	6	punct	_	Translit=,|LTranslit=_
-4	మామిడి	_	NOUN	NOUN	_	6	obj	_	Translit=māmiḍi|LTranslit=_
-5	పండ్లు	_	NOUN	NOUN	_	4	flat	_	Translit=paṁḍlu|LTranslit=_
-6	దొరుకుతాయి	_	VERB	VERB	_	0	root	_	Translit=dòrukutāyi|LTranslit=_
-7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.|LTranslit=_
+1	అంగడికి	_	NOUN	NOUN	_	2	obl	_	Translit=aṁgaḍiki
+2	వెళ్తే	_	VERB	VERB	_	6	advcl:cond	_	Translit=veḷtē
+3	,	_	PUNCT	PUNCT	_	6	punct	_	Translit=,
+4	మామిడి	_	NOUN	NOUN	_	6	obj	_	Translit=māmiḍi
+5	పండ్లు	_	NOUN	NOUN	_	4	flat	_	Translit=paṁḍlu
+6	దొరుకుతాయి	_	VERB	VERB	_	0	root	_	Translit=dorukutāyi
+7	.	_	PUNCT	PUNCT	_	6	punct	_	Translit=.
 
 ~~~
 
@@ -39,9 +39,9 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	రెండురెండ్లు	_	NUM	NUM	NumType=Card	0	root	_	Translit=rèṁḍurèṁḍlu|LTranslit=_
-2	నాలుగు	_	NUM	NUM	NumType=Card	1	flat	_	Translit=nālugu|LTranslit=_
-3	.	_	PUNCT	PUNCT	_	1	punct	_	Translit=.|LTranslit=_
+1	రెండురెండ్లు	_	NUM	NUM	NumType=Card	0	root	_	Translit=reṁḍureṁḍlu
+2	నాలుగు	_	NUM	NUM	NumType=Card	1	flat	_	Translit=nālugu
+3	.	_	PUNCT	PUNCT	_	1	punct	_	Translit=.
 
 ~~~
 
@@ -52,10 +52,10 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	ఎల్లుండి	_	NOUN	NOUN	_	2	nmod:tmod	_	Translit=èlluṁḍi|LTranslit=_
-2	జులై	_	NOUN	NOUN	_	0	root	_	Translit=julai|LTranslit=_
-3	తొమ్మిది	_	NUM	NUM	NumType=Card	2	flat	_	Translit=tòmmidi|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	2	punct	_	Translit=.|LTranslit=_
+1	ఎల్లుండి	_	NOUN	NOUN	_	2	nmod:tmod	_	Translit=elluṁḍi
+2	జులై	_	NOUN	NOUN	_	0	root	_	Translit=julai
+3	తొమ్మిది	_	NUM	NUM	NumType=Card	2	flat	_	Translit=tommidi
+4	.	_	PUNCT	PUNCT	_	2	punct	_	Translit=.
 
 ~~~
 

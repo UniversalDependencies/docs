@@ -8,28 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-203 nodes (2%) are attached to their parents as `ccomp`.
+252 nodes (2%) are attached to their parents as `ccomp`.
 
-195 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.19211822660098.
+243 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.31746031746032.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (144; 71% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (21; 10% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (6; 3% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (6; 3% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (179; 71% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (24; 10% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (12; 5% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (11; 4% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (9; 4% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 ccomp	color:blue
-1	Aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:5
-2	ukuntari	kuntari	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=6:14
-3	uakonteseri	akonteseri	VERB	V	Person=3|VerbForm=Fin	2	ccomp	_	Orig=acontecer|OrigLang=pt|TokenRange=15:26
-4	waá	waá	PRON	REL	Number=Sing|PronType=Rel	3	nsubj	_	TokenRange=27:30
-5	garapé	garapé	NOUN	N	Number=Sing	6	nmod:poss	_	TokenRange=31:37
-6	apira	apira	NOUN	N	Number=Sing	3	obl	_	TokenRange=38:43
-7	kití	kití	ADP	ADP	_	6	case	_	SpaceAfter=No|TokenRange=44:48
-8	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=48:49
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 ccomp	color:blue
+1	[...]	[...]	PUNCT	ELIP	_	4	punct	_	TokenRange=0:5
+2	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	4	advmod	_	TokenRange=6:8
+3	aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	TokenRange=9:14
+4	ukwá	kwá	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=15:19
+5	maã	maã	PRON	INT	PronType=Int	7	obj	_	TokenRange=20:23
+6	kurupira-itá	kurupira	NOUN	N	Number=Plur	7	nsubj	_	TokenRange=24:36
+7	umunhã	munhã	VERB	V	Person=3|VerbForm=Fin	4	ccomp	_	TokenRange=37:43
+8	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	obl	_	TokenRange=44:48
+9	irũ	irũ	ADP	ADP	AdpType=Post	8	case	_	SpaceAfter=No|TokenRange=49:52
+10	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=52:53
 
 ~~~
 
@@ -46,31 +48,24 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 4	ara	ara	NOUN	N	Number=Sing	1	ccomp	_	SpaceAfter=No|TokenRange=15:18
 5	"	"	PUNCT	PUNCT	_	4	punct	_	TokenRange=18:19
 6	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	iobj	_	TokenRange=20:25
-7	supé	supé	ADP	ADP	_	6	case	_	SpaceAfter=No|TokenRange=26:30
+7	supé	supé	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=26:30
 8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=30:31
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 9 ccomp	color:blue
-1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
-2	unheẽ	nheẽ	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=3:8
-3	Maria	maria	PROPN	PROPN	_	2	iobj	_	TokenRange=9:14
-4	supé	supé	ADP	ADP	_	3	case	_	SpaceAfter=No|TokenRange=15:19
-5	:	:	PUNCT	PUNCT	_	9	punct	_	TokenRange=19:20
-6	—	—	PUNCT	PUNCT	_	9	punct	_	TokenRange=20:21
-7	Maria	maria	PROPN	PROPN	_	9	vocative	_	SpaceAfter=No|TokenRange=22:27
-8	,	,	PUNCT	PUNCT	_	7	punct	_	TokenRange=27:28
-9	mamé	mamé	ADV	ADVRC	AdvType=Loc|PronType=Int	2	ccomp	_	TokenRange=29:33
-10	taá	taá	PART	CQ	PartType=Int	9	advmod	_	TokenRange=34:37
-11	pindá-itá	pindá	NOUN	N	Number=Plur	9	nsubj	_	TokenRange=38:47
-12	uikú	ikú	AUX	COP	Person=3|VerbForm=Fin	9	cop	_	SpaceAfter=No|TokenRange=48:52
-13	?	?	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=52:53
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 ccomp	color:blue
+1	Rembeú	mbeú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:6
+2	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	iobj	_	TokenRange=7:12
+3	supé	supé	ADP	ADP	AdpType=Post	2	case	_	TokenRange=13:17
+4	puranga	puranga	ADJ	A	_	1	ccomp	_	TokenRange=18:25
+5	ixé	ixé	PRON	PRON	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=26:29
+6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=29:30
 
 ~~~
 

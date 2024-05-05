@@ -74,7 +74,7 @@ The following 8 pairs of parts of speech are connected with `csubj:cleft`: <tt><
 3	scripturis	scriptura	NOUN	A1|grn1|casO|gen2	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	4	obl	_	_
 4	apparet	appareo	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	4	csubj:relcl	_	_
-6	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	5	cop	_	_
+6	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	5	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	qui	qui	PRON	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	8	nsubj	_	_
 8	locutus	loquor	VERB	L2|modM|tem4|grp1|casA|gen1|vgr1	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	5	csubj:cleft	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 9	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens

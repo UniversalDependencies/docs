@@ -74,14 +74,14 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (26; 96%),
-<tt>ADV --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (15; 63%),
-<tt>PRON --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 71%),
+<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (26; 93%),
+<tt>ADV --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (17; 65%),
+<tt>PRON --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (7; 78%),
+<tt>PRON --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADV</tt> (4; 57%),
 <tt>DET --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> DET</tt> (3; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> DET</tt> (3; 100%),
 <tt>PRON --[<tt><a href="cs_pdt-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-cc.html">cc</a></tt>]--> DET</tt> (1; 100%),
 <tt>DET --[<tt><a href="cs_pdt-dep-obl-arg.html">obl:arg</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs_pdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> DET</tt> (1; 100%).
+<tt>PRON --[<tt><a href="cs_pdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (1; 100%).
 

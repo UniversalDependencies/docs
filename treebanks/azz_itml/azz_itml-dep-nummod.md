@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7 4 nummod	color:blue
 1	Nox...	nox	X	_	_	3	reparandum	3:reparandum	NormalizedForm=Nox...|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	1:punct	NormalizedForm=,
-3	nikpia	piya	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=nikpia
+3	nikpia	piya	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=nikpia
 4	cincuenta	cincuenta	NUM	_	_	7	nummod	7:nummod	NormalizedForm=cincuenta
 5	y	y	CCONJ	_	_	6	cc	6:cc	NormalizedForm=y
 6	seis	seis	NUM	_	_	4	conj	4:conj	NormalizedForm=seis
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nummod	color:blue
-1	Kichiwa	chihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=Kichiwa
+1	Kichiwa	chihua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Kichiwa
 2	sakera	sakera	ADV	_	_	7	advmod	7:advmod	NormalizedForm=sakera
 3	se	se	NUM	_	_	5	reparandum	5:reparandum	NormalizedForm=se|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	3:punct	NormalizedForm=,
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	kaxtol	kaxtol	NUM	_	_	7	nummod	7:nummod	NormalizedForm=kaxtol
 7	xiwit	xihuit	NOUN	_	Case=Abs	1	obl	1:obl	NormalizedForm=xiwit|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	9:punct	NormalizedForm=,
-9	wehkawa	huejkahua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	1	parataxis	1:parataxis	NormalizedForm=wehkawa
+9	wehkawa	huejkahua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	NormalizedForm=wehkawa
 10	yetok	etok	AUX	_	Number[subj]=Sing|Person[subj]=3	9	dep	9:dep	NormalizedForm=yetok|SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.
 

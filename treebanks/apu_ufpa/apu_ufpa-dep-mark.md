@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `mark`.
+4 nodes (0%) are attached to their parents as `mark`.
 
-3 instances of `mark` (100%) are right-to-left (child precedes parent).
+4 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `mark`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-SCONJ.html">SCONJ</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `mark`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-SCONJ.html">SCONJ</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

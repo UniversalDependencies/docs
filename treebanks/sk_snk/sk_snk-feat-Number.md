@@ -298,9 +298,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2931; 65%),
 <tt>VERB --[<tt><a href="sk_snk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2925; 68%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2467; 100%),
-<tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1880; 56%),
+<tt>VERB --[<tt><a href="sk_snk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1891; 56%),
 <tt>VERB --[<tt><a href="sk_snk-dep-aux.html">aux</a></tt>]--> AUX</tt> (1693; 85%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1576; 95%),
 <tt>VERB --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1439; 88%),
-<tt>NOUN --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (887; 84%).
+<tt>NOUN --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (910; 84%).
 

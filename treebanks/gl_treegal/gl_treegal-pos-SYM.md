@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `SYM`
 
 There are 6 `SYM` lemmas (0%), 6 `SYM` types (0%) and 6 `SYM` tokens (0%).
-Out of 16 observed tags, the rank of `SYM` is: 13 in number of lemmas, 13 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>%, /, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="gl_treegal-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.372032).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.384861).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 

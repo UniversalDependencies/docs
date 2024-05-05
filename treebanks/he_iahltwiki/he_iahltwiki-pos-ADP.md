@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  ב (<tt><a href="he_iahltwiki-pos-ADP.htm
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.122699 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `ADP` is 1.122699 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (6) was observed with the lemma “את”: אֶת, אֹת, אות, אית, את, של.
 

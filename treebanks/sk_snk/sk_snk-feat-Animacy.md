@@ -237,6 +237,6 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>PROPN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (364; 73%),
 <tt>PROPN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (268; 80%),
 <tt>VERB --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (174; 73%),
-<tt>ADJ --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (135; 100%),
+<tt>ADJ --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (135; 99%),
 <tt>ADJ --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (106; 95%).
 

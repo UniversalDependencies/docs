@@ -50,7 +50,7 @@ The following 57 pairs of parts of speech are connected with `conj`: <tt><a href
 2	voudrais	vouloir	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	_
 4	parler	parler	VERB	_	VerbForm=Inf	2	xcomp	_	Subject=SubjRaising
-5	d'	d'	ADP	_	_	6	case	_	SpaceAfter=No
+5	d'	de	ADP	_	_	6	case	_	SpaceAfter=No
 6	amour	amour	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	et	et	CCONJ	_	_	10	cc	_	_

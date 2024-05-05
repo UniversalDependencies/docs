@@ -56,7 +56,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `ADV` tokens may have the following values of `Degree`:
 
 * `Dim` (2; 100% of non-empty `Degree`): <em>Ijkontsin, ihkontsin</em>
-* `EMPTY` (1365): <em>amo, no, ya, kampa, semi, pos, ne, ompa, iujki, komo</em>
+* `EMPTY` (1366): <em>amo, no, ya, kampa, semi, pos, ne, ompa, iujki, komo</em>
 
 ### `NUM`
 

@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 5	pour	pour	ADP	_	_	6	case	_	_
 6	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl:mod	_	_
 7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	reparandum	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
 9	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	révélation	révélation	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_

@@ -62,8 +62,8 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	all	all	DET	GW	PronType=Tot|Typo=Yes	10	discourse	10:discourse	_
 7	right	_	X	DT	_	6	goeswith	6:goeswith	_
 8	apparently	apparently	ADV	RB	Degree=Pos	10	advmod	10:advmod	MSeg=apparent-ly
-9	Alderweireld	Alderweireld	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	Entity=(57-person-giv:inact-cf2-1-coref-Toby_Alderweireld)|MSeg=Alderweireld
-10	clipped	clip	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	_
+9	Alderweireld	Alderweireld	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	Entity=(57-person-giv:inact-cf2-1-coref-Toby_Alderweireld)
+10	clipped	clip	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	MSeg=clipp-ed
 11	Favilli	Favilli	PROPN	NNP	Number=Sing	10	obj	10:obj	Entity=(80-person-giv:act-cf1*-1-coref)|SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -82,7 +82,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	All	all	DET	DT	PronType=Ind	5	det	5:det	Entity=(53-abstract-new-cf1-2-sgl
 5	Actions	action	NOUN	NNS	Number=Plur	1	obl	1:obl:of	Entity=53)
 6	South	South	PROPN	NNP	Number=Sing	7	compound	7:compound	Discourse=evaluation-comment:48->46:3:_|Entity=(54-person-new-cf2-1,2,3-sgl-White_South_Africans
-7	Africanner	African	ADJ	NNP	Degree=Cmp|Number=Sing|Typo=Yes	8	compound	8:compound	CorrectForm=African|XML=<sic ana:::"African"></sic>
+7	Africanner	African	ADJ	NNP	Degree=Cmp|Typo=Yes	8	compound	8:compound	CorrectForm=African|MSeg=Afric-ann-er|XML=<sic ana:::"African"></sic>
 8	Europeans	European	PROPN	NNPS	Number=Plur	5	compound	5:compound	Entity=54)|MSeg=Europe-an-s
 
 ~~~

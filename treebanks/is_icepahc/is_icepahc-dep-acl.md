@@ -47,7 +47,7 @@ The following 82 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 12 acl	color:blue
 1	Látum	láta	VERB	VBPI	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	IFD_tag=svg1fn
-2	þá	hann	PRON	PRO-A	_	1	acl	_	IFD_tag=aa
+2	þá	hann	PRON	PRO-A	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	1	acl	_	IFD_tag=fpkfo
 3	annað	annar	PRON	OTHER-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	2	obj	_	IFD_tag=foheo
 4	hafa	hafa	AUX	HV	VerbForm=Inf|Voice=Act	2	aux	_	IFD_tag=sng
 5	héðan	héðan	ADV	ADV	_	2	obl	_	IFD_tag=aa

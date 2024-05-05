@@ -139,7 +139,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 28	sein	sein	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
 29	de	de	ADP	_	_	31	case	_	_
 30	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	31	det	_	SpaceAfter=No
-31	Union	Union	PROPN	_	Number=Sing	28	nmod	_	_
+31	Union	union	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	_
 32	européenne	européen	ADJ	_	Gender=Fem|Number=Sing	31	amod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	11	punct	_	_
 

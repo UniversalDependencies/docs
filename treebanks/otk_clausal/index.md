@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Old_Turkish-Tonqq'
+title:  'UD_Old_Turkish-Clausal'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Old Turkish Tonqq
+# UD Old Turkish Clausal
 
 Language: [Old Turkish](/otk/index.html) (code: `otk`)<br/>
 Family: Turkic, Northeastern
@@ -18,9 +18,9 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 
 The following people have contributed to making this treebank part of UD: Mehmet Oguz Derin, Takahiro Harada.
 
-Repository: [UD_Old_Turkish-Tonqq](https://github.com/UniversalDependencies/UD_Old_Turkish-Tonqq)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_tonqq213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Repository: [UD_Old_Turkish-Clausal](https://github.com/UniversalDependencies/UD_Old_Turkish-Clausal)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_clausal214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC0 1.0
 
@@ -28,7 +28,7 @@ Genre: nonfiction
 
 Questions, comments?
 General annotation questions (either Old Turkish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Old_Turkish-Tonqq/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Old_Turkish-Clausal/issues).
 If you want to collaborate, please contact [universaldependencies&nbsp;(æt)&nbsp;mehmetoguzderin&nbsp;•&nbsp;com].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -50,11 +50,11 @@ This repository contains an [Old Turkish](https://iso639-3.sil.org/code/otk) tre
 
 ## Acknowledgments
 
-# Statistics of UD Old Turkish Tonqq
+# Statistics of UD Old Turkish Clausal
 
 ## POS Tags
 
-[ADJ](otk_tonqq-pos-ADJ.html) – [ADP](otk_tonqq-pos-ADP.html) – [ADV](otk_tonqq-pos-ADV.html) – [AUX](otk_tonqq-pos-AUX.html) – [CCONJ](otk_tonqq-pos-CCONJ.html) – [DET](otk_tonqq-pos-DET.html) – [NOUN](otk_tonqq-pos-NOUN.html) – [NUM](otk_tonqq-pos-NUM.html) – [PRON](otk_tonqq-pos-PRON.html) – [PROPN](otk_tonqq-pos-PROPN.html) – [PUNCT](otk_tonqq-pos-PUNCT.html) – [SCONJ](otk_tonqq-pos-SCONJ.html) – [VERB](otk_tonqq-pos-VERB.html)
+[ADJ](otk_clausal-pos-ADJ.html) – [ADP](otk_clausal-pos-ADP.html) – [ADV](otk_clausal-pos-ADV.html) – [AUX](otk_clausal-pos-AUX.html) – [CCONJ](otk_clausal-pos-CCONJ.html) – [DET](otk_clausal-pos-DET.html) – [NOUN](otk_clausal-pos-NOUN.html) – [NUM](otk_clausal-pos-NUM.html) – [PRON](otk_clausal-pos-PRON.html) – [PROPN](otk_clausal-pos-PROPN.html) – [PUNCT](otk_clausal-pos-PUNCT.html) – [SCONJ](otk_clausal-pos-SCONJ.html) – [VERB](otk_clausal-pos-VERB.html)
 
 ## Features
 
@@ -62,7 +62,7 @@ This repository contains an [Old Turkish](https://iso639-3.sil.org/code/otk) tre
 
 ## Relations
 
-[advcl](otk_tonqq-dep-advcl.html) – [advmod](otk_tonqq-dep-advmod.html) – [amod](otk_tonqq-dep-amod.html) – [aux](otk_tonqq-dep-aux.html) – [case](otk_tonqq-dep-case.html) – [cc](otk_tonqq-dep-cc.html) – [ccomp](otk_tonqq-dep-ccomp.html) – [compound](otk_tonqq-dep-compound.html) – [conj](otk_tonqq-dep-conj.html) – [cop](otk_tonqq-dep-cop.html) – [det](otk_tonqq-dep-det.html) – [mark](otk_tonqq-dep-mark.html) – [nmod](otk_tonqq-dep-nmod.html) – [nsubj](otk_tonqq-dep-nsubj.html) – [nummod](otk_tonqq-dep-nummod.html) – [obj](otk_tonqq-dep-obj.html) – [obl](otk_tonqq-dep-obl.html) – [punct](otk_tonqq-dep-punct.html) – [root](otk_tonqq-dep-root.html)
+[advcl](otk_clausal-dep-advcl.html) – [advmod](otk_clausal-dep-advmod.html) – [amod](otk_clausal-dep-amod.html) – [aux](otk_clausal-dep-aux.html) – [case](otk_clausal-dep-case.html) – [cc](otk_clausal-dep-cc.html) – [ccomp](otk_clausal-dep-ccomp.html) – [compound](otk_clausal-dep-compound.html) – [conj](otk_clausal-dep-conj.html) – [cop](otk_clausal-dep-cop.html) – [det](otk_clausal-dep-det.html) – [mark](otk_clausal-dep-mark.html) – [nmod](otk_clausal-dep-nmod.html) – [nsubj](otk_clausal-dep-nsubj.html) – [nummod](otk_clausal-dep-nummod.html) – [obj](otk_clausal-dep-obj.html) – [obl](otk_clausal-dep-obl.html) – [punct](otk_clausal-dep-punct.html) – [root](otk_clausal-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 

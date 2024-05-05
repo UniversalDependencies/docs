@@ -34,7 +34,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 10	Люба	Люба	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Fem|NameType=Giv|Number=Sing	9	nsubj	_	GTtags=Prop,Ant_Fem,Sg,Nom,Indef
 11	се	се	DET	Det	Number=Sing|PronType=Dem	12	det	_	GTtags=Dem,Sg
 12	шканть	шка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	obl	_	GTtags=Sg,Gen,Def
-13	эйстэ	эйстэ	ADP	Adp	AdvType=Loc|Case=Ela	12	case	_	GTtags=Spat,Ela|SpaceAfter=No
+13	эйстэ	эйстэ	ADP	Po	AdpType=Post|AdvType=Loc|Case=Ela	12	case	_	GTtags=Spat,Ela|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

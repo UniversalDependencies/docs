@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Natalia Vlasova, Dmitri Sitchinava.
 
 Repository: [UD_Russian-Poetry](https://github.com/UniversalDependencies/UD_Russian-Poetry)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_poetry214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 

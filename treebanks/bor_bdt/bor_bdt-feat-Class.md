@@ -10,13 +10,13 @@ This feature is language-specific.
 It occurs with 4 different values: `Adorn`, `DA`, `Food`, `Neckl`.
 
 4 tokens (0%) have a non-empty value of `Class`.
-4 types (1%) occur at least once with a non-empty value of `Class`.
-4 lemmas (1%) occur at least once with a non-empty value of `Class`.
+4 types (0%) occur at least once with a non-empty value of `Class`.
+4 lemmas (0%) occur at least once with a non-empty value of `Class`.
 The feature is used with 1 part-of-speech tags: <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-4 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Class`.
+4 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Class`.
 
 The most frequent other feature values with which `NOUN` and `Class` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
 

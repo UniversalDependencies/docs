@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `aux`: <tt><a href="fr_gsd-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_gsd-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="fr_gsd-dep-aux-tense.html">aux:tense</a></tt>.
 
-10 nodes (0%) are attached to their parents as `aux`.
+11 nodes (0%) are attached to their parents as `aux`.
 
-10 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1.
+11 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54545454545455.
 
-The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (10; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (11; 100% instances).
 
 
 ~~~ conllu

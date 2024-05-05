@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GENTLE: POS Tags: `ADP`
 
-There are 53 `ADP` lemmas (1%), 54 `ADP` types (1%) and 1587 `ADP` tokens (9%).
+There are 53 `ADP` lemmas (1%), 54 `ADP` types (1%) and 1589 `ADP` tokens (9%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>of, in, to, for, with, on, from, by, at, as</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="en_gentle-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.018868 (the average of all parts of speech is 1.144106).
+The form / lemma ratio of `ADP` is 1.018868 (the average of all parts of speech is 1.146169).
 
 The 1st highest number of forms (2) was observed with the lemma “over”: <em>o'er, over</em>.
 
@@ -65,16 +65,22 @@ The 2nd highest number of forms (1) was observed with the lemma “about”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “above”: <em>above</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="en_gentle-feat-Style.html">Style</a></tt> (2; 0% instances)
+
+`ADP` occurs with 1 feature-value pairs: `Style=Arch`
+
+`ADP` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (1587 tokens).
+Examples: <em>of, in, to, for, with, on, from, by, at, as</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 11 different relations: <tt><a href="en_gentle-dep-case.html">case</a></tt> (1445; 91% instances), <tt><a href="en_gentle-dep-compound-prt.html">compound:prt</a></tt> (64; 4% instances), <tt><a href="en_gentle-dep-fixed.html">fixed</a></tt> (38; 2% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (22; 1% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 11 different relations: <tt><a href="en_gentle-dep-case.html">case</a></tt> (1447; 91% instances), <tt><a href="en_gentle-dep-compound-prt.html">compound:prt</a></tt> (64; 4% instances), <tt><a href="en_gentle-dep-fixed.html">fixed</a></tt> (38; 2% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (22; 1% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1056; 67% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (200; 13% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (84; 5% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (83; 5% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (40; 3% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (32; 2% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (25; 2% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt> (24; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (12; 1% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (9; 1% instances),  (3; 0% instances), <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
+Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1055; 66% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (203; 13% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (84; 5% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (84; 5% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (38; 2% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (32; 2% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (25; 2% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt> (25; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (12; 1% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (9; 1% instances),  (3; 0% instances), <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
 
-1550 (98%) `ADP` nodes are leaves.
+1552 (98%) `ADP` nodes are leaves.
 
 31 (2%) `ADP` nodes have one child.
 
@@ -86,5 +92,5 @@ The highest child degree of a `ADP` node is 6.
 
 Children of `ADP` nodes are attached using 12 different relations: <tt><a href="en_gentle-dep-punct.html">punct</a></tt> (17; 32% instances), <tt><a href="en_gentle-dep-fixed.html">fixed</a></tt> (15; 28% instances), <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (4; 8% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (4; 8% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (3; 6% instances), <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt> (3; 6% instances), <tt><a href="en_gentle-dep-cop.html">cop</a></tt> (2; 4% instances), <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="en_gentle-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (17; 32% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (16; 30% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (4; 8% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Children of `ADP` nodes belong to 10 different parts of speech: <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (17; 32% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (16; 30% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (4; 8% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

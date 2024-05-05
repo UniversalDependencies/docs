@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `ADV`
 
-There are 40 `ADV` lemmas (9%), 47 `ADV` types (10%) and 74 `ADV` tokens (6%).
+There are 40 `ADV` lemmas (10%), 47 `ADV` types (10%) and 74 `ADV` tokens (6%).
 Out of 14 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>na, karon, pila, ngano, wala, kaayo, tua, didto, dugay, labi</em>
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>na</em> (<tt><a href="ceb_gja-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.175000 (the average of all parts of speech is 1.142523).
+The form / lemma ratio of `ADV` is 1.175000 (the average of all parts of speech is 1.172662).
 
 The 1st highest number of forms (3) was observed with the lemma “pila”: <em>Pila, Pilay, Tagpila</em>.
 

@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 6	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_
 7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	_
 8	ê~	ê~	VERB	_	_	7	ccomp	_	Scrap=Yes|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
 10	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	expl:subj	_	_
 11	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	être	être	AUX	_	VerbForm=Inf	11	ccomp	_	SpaceAfter=No|Subject=NoRaising
@@ -68,10 +68,10 @@ The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 11 7 expl:subj	color:blue
 1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	11	punct	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
 4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	11	punct	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
 7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	expl:subj	_	SpaceAfter=No
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	surtout	surtout	ADV	_	_	11	advmod	_	_

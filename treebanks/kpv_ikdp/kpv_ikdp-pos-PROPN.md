@@ -40,7 +40,7 @@ Examples: <em>Иван, Из, Генриетта, Дань, Елена, Зӧт, 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 6 different relations: <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (9; 29% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (9; 29% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (6; 19% instances), <tt><a href="kpv_ikdp-dep-flat-name.html">flat:name</a></tt> (4; 13% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (2; 6% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (1; 3% instances)
+`PROPN` nodes are attached to their parents using 7 different relations: <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (9; 29% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (9; 29% instances), <tt><a href="kpv_ikdp-dep-flat-name.html">flat:name</a></tt> (4; 13% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (4; 13% instances), <tt><a href="kpv_ikdp-dep-compound-nn.html">compound:nn</a></tt> (2; 6% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (2; 6% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (1; 3% instances)
 
 Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (15; 48% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (10; 32% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (4; 13% instances),  (2; 6% instances)
 

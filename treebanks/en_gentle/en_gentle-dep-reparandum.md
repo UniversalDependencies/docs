@@ -25,7 +25,7 @@ The following 17 pairs of parts of speech are connected with `reparandum`: <tt><
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	2:det	Discourse=evaluation-comment:29->17:2:_|Entity=(39-abstract-giv:act-cf1*-2-coref-Scudetto
 2	Scudetto	Scudetto	PROPN	NNP	Number=Sing	4	nsubj	4:nsubj|7:nsubj:xsubj	Entity=39)
 3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
-4	gon	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	XML=<w>
+4	gon	go	VERB	VBG	Style=Vrnc|Tense=Pres|VerbForm=Part	0	root	0:root	XML=<w>
 5	na	to	PART	TO	_	7	mark	7:mark	XML=</w>
 6	be	be	AUX	VB	VerbForm=Inf	7	cop	7:cop	_
 7	tough	tough	ADJ	JJ	Degree=Pos	4	xcomp	4:xcomp	_
@@ -56,7 +56,7 @@ The following 17 pairs of parts of speech are connected with `reparandum`: <tt><
 4	sorry	sorry	ADJ	JJ	Degree=Pos	5	discourse	5:discourse	MSeg=sorr-y
 5	what	what	PRON	WP	PronType=Int	6	reparandum	6:reparandum	_
 6	how	how	ADV	WRB	PronType=Int	7	advmod	7:advmod	_
-7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-There
+7	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl,Interrogative-WHInfo-Direct
 8	there	there	PRON	EX	PronType=Dem	7	expl	7:expl	_
 9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(81-event-new-cf1-2-coref
 10	penalty	penalty	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=81)
@@ -86,8 +86,8 @@ The following 17 pairs of parts of speech are connected with `reparandum`: <tt><
 10	match	match	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=4)|SpaceAfter=No
 11	,	,	PUNCT	,	_	14	punct	14:punct	_
 12	single	single	ADJ	JJ	Degree=Pos	13	amod	13:amod	Discourse=elaboration-additional:69->62:3:_|Entity=(87-object-new-cf3-2-sgl
-13	shockwave	shockwave	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	Entity=87)
-14	remaining	remain	VERB	VBG	VerbForm=Ger	6	parataxis	6:parataxis	MSeg=remain-ing|SpaceAfter=No
+13	shockwave	shockwave	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	Entity=87)|MSeg=shock-wave
+14	remaining	remain	VERB	VBG	Tense=Pres|VerbForm=Part	6	parataxis	6:parataxis	MSeg=remain-ing|SpaceAfter=No
 15	,	,	PUNCT	,	_	18	punct	18:punct	_
 16	legendary	legendary	ADJ	JJ	Degree=Pos	18	amod	18:amod	Discourse=joint-list_m:70->69:0:_|Entity=(88-object-new-cf4-3-sgl|MSeg=legend-ary
 17	grenade	grenade	NOUN	NN	Number=Sing	18	compound	18:compound	Entity=(89-object-new-cf6-1-sgl)
@@ -95,7 +95,7 @@ The following 17 pairs of parts of speech are connected with `reparandum`: <tt><
 19	drop	drop	NOUN	NN	Number=Sing	20	compound	20:compound	Entity=(90-object-new-cf5-2-sgl
 20	gun	gun	NOUN	NN	Number=Sing	14	conj	14:conj	Entity=90)
 21	and	and	CCONJ	CC	_	22	reparandum	22:reparandum	_
-22	as	as	ADV	RB	_	20	advmod	20:advmod	_
+22	as	as	ADV	RB	_	20	advmod	20:advmod	ExtPos=ADV
 23	well	well	ADV	RB	Degree=Pos	22	fixed	22:fixed	SpaceAfter=No
 24	.	.	PUNCT	.	_	6	punct	6:punct	_
 

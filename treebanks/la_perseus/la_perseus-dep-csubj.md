@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 4 3 csubj	color:blue
 1	Sed	sed	CCONJ	c--------	_	4	cc	_	LId=sed1
 2	quid	quis	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obj	_	LId=quis1
-3	temptare	tento	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	4	csubj	_	LId=tento1
+3	temptare	tento	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	4	csubj	_	LId=tento1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	nocebit	noceo	VERB	v3sfia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=noceo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 5	?	?	PUNCT	u--------	_	4	punct	_	LId=punc1
 
@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	pretium	pretium	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 2	est	sum	AUX	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	LId=sum1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 3	operae	opera	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-4	attendere	attendo	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No
+4	attendere	attendo	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	1	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	.	.	PUNCT	u--------	_	1	punct	_	_
 
 ~~~

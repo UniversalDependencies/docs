@@ -93,7 +93,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (27; 100% of non-empty `Foreign`): <em>de, in, of, a, Against, För, Into, Pro, des, om</em>
-* `EMPTY` (32081): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
+* `EMPTY` (32078): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
 `Foreign` seems to be **lexical feature** of `ADP`. 100% lemmas (12) occur only with one value of `Foreign`.
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>Had, Logon, Need, anschloss, batian, batt, loved, meln, sang, shines</em>
-* `EMPTY` (20673): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20634): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -130,7 +130,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `AUX` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>is, 're, 's, Are</em>
-* `EMPTY` (10611): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `EMPTY` (10650): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
 
 ### `ADV`
 
@@ -139,7 +139,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (10; 100% of non-empty `Foreign`): <em>When, How, Please, always, ca, socially, up, wahnsinning, yonder</em>
-* `EMPTY` (14966): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14969): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 ### `PART`
 
@@ -173,11 +173,11 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1132; 89%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1115; 87%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (49; 59%),
 <tt>DET --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (42; 98%),
 <tt>X --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> X</tt> (30; 100%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> DET</tt> (24; 96%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> DET</tt> (23; 92%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15; 58%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-compound.html">compound</a></tt>]--> NOUN</tt> (8; 53%),
 <tt>X --[<tt><a href="de_gsd-dep-compound.html">compound</a></tt>]--> X</tt> (8; 73%),

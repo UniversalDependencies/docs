@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-PUD: POS Tags: `SYM`
 
 There are 5 `SYM` lemmas (0%), 5 `SYM` types (0%) and 42 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 16 in number of lemmas, 16 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>%, £, $, -, €</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_pud-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.140354).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.147869).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 

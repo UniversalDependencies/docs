@@ -11,7 +11,7 @@ It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
 18520 tokens (13%) have a non-empty value of `VerbForm`.
 864 types (8%) occur at least once with a non-empty value of `VerbForm`.
-323 lemmas (3%) occur at least once with a non-empty value of `VerbForm`.
+345 lemmas (4%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 11 part-of-speech tags: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (10132; 7% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (8344; 6% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -29,7 +29,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `EMPTY` (2563): کر، ہو، ہوگا، دے، ہوگی، آ، لے، پہنچ، بن، مل
 
 <table>
-  <tr><th>Paradigm <i>کر</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><th>Paradigm <i>کرنا</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td>کرنے, کرنا</td><td></td><td>کرکے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td>کرتے</td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>کرتے, کرتا</td><td></td></tr>
@@ -177,7 +177,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `EMPTY` (777): جا، کر، جائے، کے، چاہیے، چاہئے، ہو، ہوئے، ہوگا، ہوں
 
 <table>
-  <tr><th>Paradigm <i>جا</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
+  <tr><th>Paradigm <i>جانا</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td>جانے, جانا</td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td>جاتا, جاتی, جاتے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td>جاتا</td></tr>

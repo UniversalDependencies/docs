@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-271 nodes (17%) are attached to their parents as `punct`.
+273 nodes (16%) are attached to their parents as `punct`.
 
-223 instances of `punct` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.08856088560886.
+227 instances of `punct` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.05494505494505.
 
-The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (215; 79% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (39; 14% instances), <tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (12; 4% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (215; 79% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (40; 15% instances), <tt><a href="xav_xdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (12; 4% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt>-<tt><a href="xav_xdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

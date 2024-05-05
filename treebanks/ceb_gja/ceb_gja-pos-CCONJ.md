@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ug</em> (<tt><a href="ceb_gja-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.142523).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.172662).
 
 The 1st highest number of forms (1) was observed with the lemma “apan”: <em>apan</em>.
 

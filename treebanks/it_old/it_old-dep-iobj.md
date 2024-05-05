@@ -8,62 +8,69 @@ udver: '2'
 
 This relation is universal.
 
-449 nodes (1%) are attached to their parents as `iobj`.
+860 nodes (1%) are attached to their parents as `iobj`.
 
-351 instances of `iobj` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3630289532294.
+642 instances of `iobj` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35581395348837.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (417; 93% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (13; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (787; 92% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (32; 4% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 iobj	color:blue
-1	Di	di	ADP	epskx	_	3	case	_	Canto=19|Verso=54
-2	parecchi	parecchio	DET	ai	Gender=Masc|Number=Plur|PronType=Ind	3	det	_	Canto=19|Verso=54
-3	anni	anno	NOUN	sm2mp	Gender=Masc|Number=Plur	5	obl:tmod	_	Canto=19|Verso=54
-4	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	5	iobj	_	Canto=19|Verso=54
-5	mentì	mentire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Canto=19|Verso=54
-6	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Canto=19|Verso=54
-7	scritto	scrivere	VERB	vtp2prsm2ms	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	nsubj	_	Canto=19|SpaceAfter=No|Verso=54
-8	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 iobj	color:blue
+1	Ma	ma	CCONJ	csca	_	2	cc	_	Canto=33|Verso=148
+2	distendi	distendere	VERB	vta2mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=33|Verso=148
+3	oggimai	oggimai	ADV	b	_	2	advmod:tmod	_	Canto=33|Verso=148
+4	in	in	ADP	_	_	5	case	_	Canto=33|Verso=148
+5	qua	qua	ADV	_	_	2	advmod:lmod	_	Canto=33|Verso=148
+6	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Canto=33|Verso=148
+7	mano	mano	NOUN	sf2fs	Gender=Fem|Number=Sing	2	obj	_	Canto=33|SpaceAfter=No|Verso=148
+8	;	;	PUNCT	_	_	9	punct	_	_
+9	apri	aprire	VERB	vta3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	Canto=33|Verso=149
+10	mi	mi	PRON	pp1sxda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	iobj	_	Canto=33|Verso=149
+11	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	Canto=33|Verso=149
+12	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	9	obj	_	Canto=33|SpaceAfter=No|Verso=149
+13	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 iobj	color:blue
-1	La	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Canto=14|Verso=10
-2	dolorosa	doloroso	ADJ	a1fs	Gender=Fem|Number=Sing	3	amod	_	Canto=14|Verso=10
-3	selva	selva	NOUN	sf1fs	Gender=Fem|Number=Sing	6	nsubj	_	Canto=14|Verso=10
-4	l'	il	PRON	pp3fsyda	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	iobj	_	Canto=14|SpaceAfter=No|Verso=10
-5	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	Canto=14|Verso=10
-6	ghirlanda	ghirlanda	NOUN	sf1fs	Gender=Fem|Number=Sing	0	root	_	Canto=14|Verso=10
-7	intorno	intorno	ADV	eisksl	_	6	advmod:lmod	_	Canto=14|SpaceAfter=No|Verso=11
-8	,	,	PUNCT	_	_	11	punct	_	_
-9	come	come	ADV	b	_	11	mark	_	Canto=14|Verso=11
-10	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Canto=14|Verso=11
-11	fosso	fosso	NOUN	sm2ms	Gender=Masc|Number=Sing	6	advcl:cmp	_	Canto=14|Verso=11
-12	tristo	tristo	ADJ	a1ms	Gender=Masc|Number=Sing	11	amod	_	Canto=14|Verso=11
-13	ad	a	ADP	epsk1d	_	14	case	_	Canto=14|Verso=11
-14	essa	esso	PRON	pp3slco	Number=Sing|Person=3|PronType=Prs	11	orphan	_	Canto=14|SpaceAfter=No|Verso=11
-15	;	;	PUNCT	_	_	17	punct	_	_
-16	quivi	quivi	ADV	b	_	17	advmod:lmod	_	Canto=14|Verso=12
-17	fermammo	fermare	VERB	vta1irp1	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	Canto=14|Verso=12
-18	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	Canto=14|Verso=12
-19	passi	passo	NOUN	sm2mp	Gender=Masc|Number=Plur	17	obj	_	Canto=14|Verso=12
-20	a	a	ADP	_	_	21	case	_	Canto=14|Verso=12
-21	randa	randa	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	Canto=14|Verso=12
-22	a	a	ADP	_	_	23	case	_	Canto=14|Verso=12
-23	randa	randa	NOUN	_	Gender=Fem|Number=Sing	21	flat:redup	_	Canto=14|SpaceAfter=No|Verso=12
-24	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 24 21 iobj	color:blue
+1	Queste	questo	DET	ad1fp	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	Canto=22|Verso=25
+2	parole	parola	NOUN	sf1fp	Gender=Fem|Number=Plur	5	nsubj	_	Canto=22|Verso=25
+3	Stazio	Stazio	PROPN	np	_	5	obj	_	Canto=22|Verso=25
+4	mover	muovere	VERB	vta2fp	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	Canto=22|Verso=25
+5	fenno	fare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=22|Verso=25
+6	un	uno	DET	_	Gender=Masc|Number=Sing	7	det	_	Canto=22|Verso=26
+7	poco	poco	ADV	_	_	4	advmod	_	Canto=22|Verso=26
+8	a	a	ADP	epskf	_	9	case	_	Canto=22|Verso=26
+9	riso	riso	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl	_	Canto=22|Verso=26
+10	pria	prima	ADV	b	_	5	advmod:lmod	_	Canto=22|SpaceAfter=No|Verso=26
+11	;	;	PUNCT	_	_	13	punct	_	_
+12	poscia	poscia	ADV	b	_	13	advmod:tmod	_	Canto=22|Verso=26
+13	rispuose	rispondere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	Canto=22|SpaceAfter=No|Verso=26
+14	:	:	PUNCT	_	_	24	punct	_	_
+15	«	«	PUNCT	_	_	24	punct	_	SpaceAfter=No
+16	Ogne	ogni	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Ind	18	det	_	Canto=22|Verso=27
+17	tuo	tuo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	18	det:poss	_	Canto=22|Verso=27
+18	dir	dire	VERB	vta3fpsm3ms	Tense=Pres|VerbForm=Inf|Voice=Act	24	nsubj	_	Canto=22|Verso=27
+19	d'	di	ADP	eps	_	20	case	_	Canto=22|Verso=27
+20	amor	amore	NOUN	sm3ms	Gender=Masc|Number=Sing	18	nmod	_	Canto=22|Verso=27
+21	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	24	iobj	_	Canto=22|Verso=27
+22	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	Canto=22|Verso=27
+23	caro	caro	ADJ	a1ms	Gender=Masc|Number=Sing	24	amod	_	Canto=22|Verso=27
+24	cenno	cenno	NOUN	sm2ms	Gender=Masc|Number=Sing	13	ccomp:reported	_	Canto=22|SpaceAfter=No|Verso=27
+25	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

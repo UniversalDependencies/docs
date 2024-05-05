@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.456181).
+The form / lemma ratio of `AUX` is 14.666667 (the average of all parts of speech is 1.455030).
 
 The 1st highest number of forms (20) was observed with the lemma “avoir”: <em>a, ai, aient, ait, aurai, aurais, aurait, aurions, aurons, auront, avaient, avais, avait, avez, avions, avoir, avons, ayant, ayons, ont</em>.
 

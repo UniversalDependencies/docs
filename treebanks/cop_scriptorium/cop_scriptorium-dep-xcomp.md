@@ -83,7 +83,7 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
 5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 6	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	2	acl:relcl	_	_
-7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Entity=abstract)
+7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	Entity=abstract)
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
 9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(plant
 10	ⲕⲛⲁⲁⲩ	ⲕⲛⲁⲁⲩ	NOUN	N	_	6	ccomp	_	_

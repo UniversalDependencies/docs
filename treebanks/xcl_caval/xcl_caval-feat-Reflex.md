@@ -9,30 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-113 tokens (1%) have a non-empty value of `Reflex`.
-11 types (0%) occur at least once with a non-empty value of `Reflex`.
+577 tokens (1%) have a non-empty value of `Reflex`.
+17 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (81; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (32; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (432; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (145; 0% instances).
 
 ### `PRON`
 
-81 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
+432 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (81; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (69; 85%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (62; 77%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Gen</tt> (60; 74%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (432; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (432; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (356; 82%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (340; 79%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Gen</tt> (323; 75%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (81; 100% of non-empty `Reflex`): <em>իւր, իւրեանց, ինքն, իւրում, իւրոյ, ինքեանք, իւրեւ, իւրմէ, իւրովք, իւրոց</em>
-* `EMPTY` (1394): <em>նա, որ, նորա, ձեզ, նոսա, նմա, քո, նոցա, քեզ, իմ</em>
+* `Yes` (432; 100% of non-empty `Reflex`): <em>իւր, իւրեանց, ինքն, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրում, ընքեան, ընքեանք</em>
+* `EMPTY` (8494): <em>նա, որ, նորա, ձեզ, նոսա, իմ, իս, նմա, նոցա, ես</em>
 
 ### `DET`
 
-32 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Reflex`.
+145 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (32; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (32; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 72%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (145; 100%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (145; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (145; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (102; 70%).
 
 `DET` tokens may have the following values of `Reflex`:
 
-* `Yes` (32; 100% of non-empty `Reflex`): <em>իւրոյ, իւրում, իւրոց, իւրմէ, իւրով, իւրեանց, իւրովք</em>
-* `EMPTY` (1481): <em>զ, ն, ամենայն, մի, դ, այս, ս, բազում, որ, այն</em>
+* `Yes` (145; 100% of non-empty `Reflex`): <em>իւրում, իւրոց, իւրոյ, իւրմէ, իւրով, իւր, իւրովք, իւրեանց, իրում, իւրս</em>
+* `EMPTY` (5731): <em>ն, ամենայն, այս, ս, դ, մի, այն, բազում, որ, զ</em>
 

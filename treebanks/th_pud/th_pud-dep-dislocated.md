@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	จะ	_	AUX	MD	_	4	aux	_	SpaceAfter=No|Translit=ča
 4	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=nã
 5	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No|Translit=pai
-6	ประเมิน	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=praméิn
+6	ประเมิน	_	VERB	VV	_	4	xcomp	_	SpaceAfter=No|Translit=praméin
 7	ผล	_	NOUN	NN	_	6	obj	_	Translit=pʰl
 
 ~~~

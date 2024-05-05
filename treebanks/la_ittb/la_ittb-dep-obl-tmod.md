@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-ITTB: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-obl.html">obl</a></tt>.
-There are also 3 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_ittb-dep-obl-lmod.html">obl:lmod</a></tt>.
+There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_ittb-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="la_ittb-dep-obl-lmod.html">obl:lmod</a></tt>.
 
 2 nodes (0%) are attached to their parents as `obl:tmod`.
 
@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 3	possibile	possibilis	ADJ	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	2	acl:relcl	_	_
 4	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	non	non	PART	O4	Polarity=Neg	6	advmod:neg	_	_
-6	moueri	moueo	VERB	K3|modQ|tem1|vgr1	Aspect=Imp|InflClass=LatE|Tense=Pres|VerbForm=Inf|Voice=Pass	3	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	moueri	moueo	VERB	K3|modQ|tem1|vgr1	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Pass	3	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	,	,	PUNCT	Punc	_	2	punct	_	_
 8	non	non	PART	O4	Polarity=Neg	9	advmod:neg	_	_
 9	habet	habeo	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens

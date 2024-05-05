@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	dicti	dictum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	LId=dictum1
 12	sibi	sui	PRON	p-p---md-	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	obl:arg	_	LId=sui1
 13	criminis	crimen	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	LId=crimen1
-14	utraque	uterque	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	16	det	_	LId=uter1
+14	utraque	uterque	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Con	16	det	_	LId=uter1
 15	caelo	caelum	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	17	obl:arg	_	LId=caelum1
 16	bracchia	bracchium	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	obj	_	LId=bracchium1
 17	porrexit	porrigo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	csubj	_	LId=porrigo1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -82,9 +82,9 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 38	,	,	PUNCT	u--------	_	41	punct	_	LId=comma1
 39	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	41	nsubj	_	LId=qui1
 40	nos	nos	PRON	p-p---ma-	Case=Acc|Number=Plur|Person=1|PronType=Prs	41	obj	_	LId=nos1
-41	audit	audio	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	_
+41	audit	audio	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 42	que	que	CCONJ	c--------	_	41	cc	_	LId=que1
-43	videt	video	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	conj	_	_
+43	videt	video	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 44	que	que	CCONJ	c--------	_	43	cc	_	LId=que1
 45	,	,	PUNCT	u--------	_	41	punct	_	LId=comma1
 46	hoc	hic	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	47	orphan	_	LId=hic1
@@ -120,7 +120,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 5	superi	superi	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	SpaceAfter=No|LId=superi1
 6	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
 7	tutos	tutus	ADJ	v-prppma-	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part	9	ccomp	_	LId=tueor1
-8	fore	sum	AUX	v--fna---	Aspect=Imp|Tense=Fut|VerbForm=Inf	7	cop	_	LId=sum1
+8	fore	sum	AUX	v--fna---	Aspect=Imp|VerbForm=Inf	7	cop	_	LId=sum1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	creditis	credo	VERB	v2ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=credo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 10	illos	ille	DET	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	7	nsubj	_	SpaceAfter=No|LId=ille1
 11	,	,	PUNCT	u--------	_	12	punct	_	LId=comma1
@@ -132,9 +132,9 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 17	,	,	PUNCT	u--------	_	20	punct	_	LId=comma1
 18	qui	qui	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	20	nsubj	_	LId=qui1
 19	vos	tu	PRON	p-p---ma-	Case=Acc|Number=Plur|Person=2|PronType=Prs	20	obj	_	LId=tu1
-20	habeo	habeo	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+20	habeo	habeo	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 21	que	que	CCONJ	c--------	_	20	cc	_	LId=que1
-22	rego	rego	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	_
+22	rego	rego	VERB	v1spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	20	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 23	que	que	CCONJ	c--------	_	22	cc	_	LId=que1
 24	,	,	PUNCT	u--------	_	20	punct	_	LId=comma1
 25	struxerit	struo	VERB	v3stia---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	advcl	_	LId=struo1|TraditionalMood=Indicativus|TraditionalTense=Futurum

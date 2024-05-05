@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-291 nodes (1%) are attached to their parents as `mark`.
+293 nodes (1%) are attached to their parents as `mark`.
 
-291 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.33676975945017.
+293 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.22184300341297.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (216; 74% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (25; 9% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (18; 6% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (12; 4% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (222; 76% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (22; 8% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (16; 5% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (13; 4% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 8	volviendo	volver	VERB	VBG	VerbForm=Ger	7	xcomp	_	_
 9	a	a	ADP	IN	_	11	case	_	_
 10	por	por	ADP	IN	_	11	case	_	_
-11	más	_	ADV	RBR	Degree=Cmp	8	advmod	_	SpaceAfter=No
+11	más	más	ADV	RBR	Degree=Cmp	8	advmod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
@@ -52,11 +52,11 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 6	año	año	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 7	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 8	y	y	CCONJ	CC	_	9	cc	_	_
-9	espero	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
+9	espero	esperar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
 10	que	que	SCONJ	IN	_	13	mark	_	_
 11	seamos	ser	AUX	VBC	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	todavía	todavía	ADV	RB	_	13	advmod	_	_
-13	mejores	_	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
+13	mejores	mejor	ADJ	JJR	Degree=Cmp|Number=Plur	9	ccomp	_	_
 14	en	en	ADP	IN	_	15	case	_	_
 15	2017	2017	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	13	obl	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	_	_
@@ -70,8 +70,8 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 mark	color:blue
-1	No	_	ADV	RB	Polarity=Neg	2	advmod	_	_
-2	digo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	No	no	ADV	RB	Polarity=Neg	2	advmod	_	_
+2	digo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	IN	_	5	case	_	_
 4	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ligera	ligera	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_

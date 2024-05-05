@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 4	ǩiʹcsti	ǩiʹcsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 5	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	obl	_	GTtags=Pers,Sg3,Gen
 6	ool	ool	ADP	Po	AdpType=Post	5	case	_	GTtags=<gen>|SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	12	punct	_	_
+7	,	,	PUNCT	CLB	_	12	punct	_	_
 8	tõn	tõt	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	12	obj	_	GTtags=Dem,Sg,Acc,@OBJ>
 9	vaaʹldi	väʹldded	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	12	reparandum	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 10	...	...	PUNCT	PUNCT	_	12	punct	_	_
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href=
 2	dââʹst	dât	PRON	Pron	Case=Loc|Number=Sing	1	nmod	_	GTtags=Sg,Loc
 3	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	...	...	PUNCT	CLB	_	8	punct	_	_
-5	vitmlo	vitmlo	NUM	Num	_	6	nummod	_	_
+5	vitmlo	vitmlo	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	_
 6	ekksaž	ekksaž	ADJ	A	_	7	amod	_	GTtags=Attr
 7	päʹrnn	päʹrnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	8	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom
 8	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No

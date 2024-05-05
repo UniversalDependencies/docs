@@ -16,12 +16,12 @@ The feature is used with 8 part-of-speech tags: <tt><a href="cop_scriptorium-pos
 
 ### `ADV`
 
-535 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `Polarity`.
+535 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (27% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (535; 100% of non-empty `Polarity`): ⲁⲛ, ⲛ, ⲧⲙ, ⲙⲡⲣ, ⲙ, ⲟⲩⲕ, ⲙⲉ, ⲟⲩ, ⲟⲩⲇⲉ
-* `EMPTY` (1726): ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ϩⲱⲱ, ⲉⲙⲁⲧⲉ, ⲧⲉⲛⲟⲩ, ⲙⲁⲩⲁⲁ
+* `EMPTY` (1460): ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲉⲙⲁⲧⲉ, ⲧⲉⲛⲟⲩ, ϩⲣⲁⲓ, ⲉⲛⲉϩ, ⲕⲁⲗⲱⲥ
 
 ### `AUX`
 
@@ -85,7 +85,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): ⲙⲡⲉ
-* `EMPTY` (9353): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
+* `EMPTY` (9354): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 
 ### `SCONJ`
 

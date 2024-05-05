@@ -119,7 +119,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (1; 17% of non-empty `Number`): <em>leben</em>
 * `Sing` (5; 83% of non-empty `Number`): <em>Ehre, erfolge, fait, strömt, wohlgehe</em>
-* `EMPTY` (3096): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 
@@ -129,7 +129,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (1; 20% of non-empty `Number`): <em>sommes</em>
 * `Sing` (4; 80% of non-empty `Number`): <em>ist, is, sei</em>
-* `EMPTY` (2488): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
+* `EMPTY` (2487): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
 
 ## Relations with Agreement in `Number`
 

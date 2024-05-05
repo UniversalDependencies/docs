@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-LinES: POS Tags: `X`
 
 There are 20 `X` lemmas (0%), 20 `X` types (0%) and 27 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 13 in number of lemmas, 14 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `X` is: 12 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>W3C, foie, TSQL, maris, stella, Aliquem, EEG, MSDE, SAP, UDL</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.416904).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.414549).
 
 The 1st highest number of forms (1) was observed with the lemma “Aliquem”: <em>Aliquem</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>W3C, foie, TSQL, maris, stella, .adp, .lpk, .mdb, .odc, .udl</em>
 
 `X` nodes are attached to their parents using 8 different relations: <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (14; 52% instances), <tt><a href="sv_lines-dep-flat.html">flat</a></tt> (5; 19% instances), <tt><a href="sv_lines-dep-dep.html">dep</a></tt> (3; 11% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (1; 4% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (1; 4% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (1; 4% instances), <tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt> (1; 4% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (14; 52% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (5; 19% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 4% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (14; 52% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (5; 19% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (3; 11% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 4% instances)
 
 8 (30%) `X` nodes are leaves.
 

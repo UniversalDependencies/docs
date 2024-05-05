@@ -220,10 +220,10 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7639; 99%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4096; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (1811; 100%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1319; 95%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1346; 94%),
 <tt>DET --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (581; 99%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (580; 92%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (498; 97%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (508; 97%),
 <tt>PROPN --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (420; 100%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (315; 88%).
+<tt>NOUN --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (315; 87%).
 

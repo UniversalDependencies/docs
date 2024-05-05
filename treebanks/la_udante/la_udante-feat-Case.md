@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 
-23457 tokens (42%) have a non-empty value of `Case`.
-8399 types (70%) occur at least once with a non-empty value of `Case`.
-4085 lemmas (73%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9858; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3948; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3597; 6% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2630; 5% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2304; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (996; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (116; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 0% instances).
+23472 tokens (42%) have a non-empty value of `Case`.
+8407 types (70%) occur at least once with a non-empty value of `Case`.
+4088 lemmas (73%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (9858; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3948; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3597; 6% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2630; 5% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2319; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (996; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (116; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
@@ -113,19 +113,19 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-2304 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
+2319 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2304; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2304; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2304; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2304; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1617; 70%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1464; 64%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2319; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2319; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2319; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2319; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1629; 70%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1479; 64%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Abl` (436; 19% of non-empty `Case`): <em>existente, converso, loquendo, premissis, subiciendo, viso, Sancto, affirmando, athletizantibus, detecta</em>
-* `Acc` (479; 21% of non-empty `Case`): <em>consequens, diversa, dicentem, diversas, loquentem, presens, regendum, sanctum, volentem, dicta</em>
+* `Acc` (485; 21% of non-empty `Case`): <em>consequens, diversa, dicentem, diversas, loquentem, presens, regendum, sanctum, volentem, dicta</em>
 * `Dat` (61; 3% of non-empty `Case`): <em>intuenti, inspicienti, inferenti, versificantibus, Exulanti, Sanctissimo, Uncto, amanti, attentis, beatis</em>
 * `Gen` (226; 10% of non-empty `Case`): <em>consequentis, agentis, antecedentis, dicendorum, loquentis, auctorizandi, dicentis, militantis, premiandi, puniendi</em>
-* `Nom` (1095; 48% of non-empty `Case`): <em>dictum, sciendum, consequens, dicendum, dicens, existens, factum, dicta, facta, datum</em>
+* `Nom` (1104; 48% of non-empty `Case`): <em>dictum, sciendum, consequens, dicendum, dicens, existens, factum, dicta, facta, datum</em>
 * `Voc` (7; 0% of non-empty `Case`): <em>cessure, desinens, nate, obcecati, peritura, punita, septi</em>
-* `EMPTY` (5920): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
+* `EMPTY` (5905): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
 
 <table>
   <tr><th>Paradigm <i>nascor</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -186,7 +186,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 8 <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatAnom</tt> (8; 100%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 75%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (5; 63%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatAnom</tt> (8; 100%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (6; 75%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 75%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -198,9 +198,8 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurI</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ens</em></td><td><em>ente</em></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurA</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>futura</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>futurum</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurA</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>futuram</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurA</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>futura</em></td><td><em>futuram</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>futuro</em></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>futura</em></td><td><em>futuris</em></td></tr>
 </table>

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -371,7 +371,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
       <li>VERB: a, peut, voudrais, doit, est, devrait, concernant, convient, ont, peuvent</li>
       <li>VERB-Fin: a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</li>
       <li>VERB-Inf: retirer</li>
-      <li>VERB-Part: concernant, considérant, visant, établissant, modifiant, existants, comprenant, participants, sachant, allant</li>
+      <li>VERB-Part: concernant, considérant, visant, établissant, modifiant, existants, comprenant, sachant, allant, assurant</li>
     </ul>
   </li>
 </ul>

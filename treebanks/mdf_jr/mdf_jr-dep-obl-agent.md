@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-obl.html">obl</a></tt>.
 There are also 6 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="mdf_jr-dep-obl-freq.html">obl:freq</a></tt>, <tt><a href="mdf_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-10 nodes (0%) are attached to their parents as `obl:agent`.
+11 nodes (0%) are attached to their parents as `obl:agent`.
 
-9 instances of `obl:agent` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9.
+9 instances of `obl:agent` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90909090909091.
 
-The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (9; 90% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 10% instances).
+The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (10; 91% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
 
 
 ~~~ conllu

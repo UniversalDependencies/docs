@@ -8,32 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (1%) are attached to their parents as `fixed`.
+18 nodes (0%) are attached to their parents as `fixed`.
 
-44 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+18 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.11111111111111.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (22; 50% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 16% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (3; 7% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ky_ktmu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (1; 2% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 fixed	color:blue
-1	Нурлан	Нурлан	PROPN	PROP	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-2	Шакиев	Шакиев	PROPN	PROP	Case=Nom|Number=Sing|Person=3	1	flat	_	_
-3	Ата	Ата	PROPN	PROP	Case=Nom|Number=Sing|Person=3	9	nmod	_	SpaceAfter=No
-4	-	-	PUNCT	PCT	_	3	punct	_	SpaceAfter=No
-5	Журт	Журт	PROPN	PROP	Case=Nom|Number=Sing|Person=3	3	fixed	_	_
-6	Кыргызстан	Кыргызстан	PROPN	PROP	Case=Nom|Number=Sing|Person=3	3	fixed	_	_
-7	фракциясына	фракция	NOUN	NN	Case=Dat|Number=Sing|Person=3	9	obl	_	_
-8	лидер	лидер	NOUN	NN	Case=Nom|Number=Sing|Person=3	9	nmod	_	_
-9	болду	бол	VERB	VB	Aspect=Perf|Mood=Ind|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	PCT	_	9	punct	_	_
-
-~~~
+The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt> (4; 22% instances), <tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (3; 17% instances), <tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ky_ktmu-pos-ADJ.html">ADJ</a></tt> (2; 11% instances), <tt><a href="ky_ktmu-pos-ADV.html">ADV</a></tt>-<tt><a href="ky_ktmu-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="ky_ktmu-pos-NUM.html">NUM</a></tt>-<tt><a href="ky_ktmu-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -65,6 +45,26 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	ойноп	ойно	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv	0	root	_	_
 5	ал	ал	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	PCT	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 fixed	color:blue
+1	Бишкектеги	Бишкек	PROPN	PROP	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod:poss	_	_
+2	беш	беш	NUM	NUM	NumType=Card	3	nummod	_	_
+3	батирдин	батир	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
+4	акчасын	акча	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
+5	алып	ал	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+6	качып	кач	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	fixed	_	_
+7	кеткен	кет	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	9	ccomp	_	_
+8	жаран	жаран	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_
+9	кармалды	кармал	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	PCT	_	9	punct	_	_
 
 ~~~
 

@@ -22,8 +22,8 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Mota	ita	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	NormalizedForm=Mota
-2	kisati	sati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	csubj	1:csubj	NormalizedForm=kisati
+1	Mota	ita	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Mota
+2	kisati	sati	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	1	csubj	1:csubj	NormalizedForm=kisati
 3	in	in	DET	_	_	4	det	4:det	NormalizedForm=in
 4	tonaltsin	tonal	NOUN	_	Degree=Dim	2	nsubj	2:nsubj	NormalizedForm=tonaltsin|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
@@ -53,7 +53,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 1	De	de	ADP	_	_	2	mark	2:mark	NormalizedForm=De
 2	sehselik	sejselik	ADJ	_	Number[subj]=Sing|Person[subj]=3	4	advcl	4:advcl	NormalizedForm=sehselik|Reduplicated=Yes
 3	se	se	PRON	_	_	4	nsubj	4:nsubj	NormalizedForm=se
-4	kikwa	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kikwa
+4	kikwa	kua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kikwa
 5	hasta	hasta	ADP	_	_	10	case	10:case	NormalizedForm=hasta
 6	n'	in	DET	_	_	7	det	7:det	NormalizedForm=n'
 7	i...	i	X	_	_	10	reparandum	10:reparandum	NormalizedForm=i...|SpaceAfter=No

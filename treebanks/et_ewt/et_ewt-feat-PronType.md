@@ -113,7 +113,7 @@ The most frequent other feature values with which `PROPN` and `PronType` co-occu
 `PROPN` tokens may have the following values of `PronType`:
 
 * `Dem` (1; 100% of non-empty `PronType`): <em>Sama</em>
-* `EMPTY` (3952): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
+* `EMPTY` (3949): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, le, tartu, d2xz, tallinna</em>
 
 ## Relations with Agreement in `PronType`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Vladimir Cvetkoski.
 
 Repository: [UD_Macedonian-MTB](https://github.com/UniversalDependencies/UD_Macedonian-MTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmk_mtb213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmk_mtb214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -42,27 +42,33 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-The Macedonian-MTB treebank is a collection of annotated sentences based on the raw monolingual corpus called Macedonian Language Digital Resources (MLDR).
+The Macedonian-MTB treebank is a collection of annotated sentences taken from the Macedonian version of the Cairo CICLing Corpus and from the university textbook in syntax "Contemporary Macedonian Language 4" by Simov Sazdov.
 
 
 
-The Macedonian-MTB treebank is a collection of annotated sentences based on the raw monolingual corpus called [Macedonian Language Digital Resources - MLDR](http://drmj.manu.edu.mk/%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81-%D0%BD%D0%B0-%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8-%D0%BA%D0%BD%D0%B8/), a.k.a 135 Volumes of Macedonian Literature, published by the Macedonian Academy of Sciences and Arts under the CC Attribution-NonCommercial 4.0 International License. The treebank consists mainly of literary and a few non-fiction texts.
+The Macedonian-MTB treebank is a collection of annotated sentences taken from the Macedonian version of the Cairo CICLing Corpus and from the university textbook in syntax "Contemporary Macedonian Language 4" by Simov Sazdov. Under the CC Attribution-NonCommercial 4.0 International License. The treebank consists mainly of everyday, literary and a few non-fiction sentences texts.
 
 1. A description of the treebank and its origin (creation method, data sources, etc.)
+In its current selection, apart from the sentences taken from the the Cairo CICLing Corpus, the treebank consists of representative sentences from Simov Sazdov's syntax textbook "Contemporary Macedonian Language 4" (Sazdov, 2012). The sentences were manually typed after obtaining the permission from Mr. Sazdov to use them for annotation.
+
 2. A description of how the data was split into training, development and test sets
+The data is still too small to be split into training, development and test sets.
+
 3. If there are multiple genres/domains, can they be told apart by sentence ids? Does the treebank consist of complete documents, or just randomly shuffled sentences?
+- So far, the sentences are randomly selected sentences from (Sazdov 2012).
+
 4. Acknowledgments and references that should be cited when using the treebank
+
 5. A changelog section for treebanks that will be released for the second (or subsequent) time.
+
 ...
 
 ## Acknowledgments
-
-...
+The sentences were manually annotated by Vladimir Cvetkoski, Mila Dimishkovska, Renata Jovanovska and Bojana Nafidova. Final revision and validation by Vladimir Cvetkoski. Also, for CONLL-U validation, http://spyysalo.github.io/conllu.js/ was used.
 
 ## References
-
-- [Macedonian Language Digital Resources - MLDR](http://drmj.manu.edu.mk/%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%B8-%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81-%D0%BD%D0%B0-%D0%BC%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8-%D0%BA%D0%BD%D0%B8/)
-
+Саздов, С. (2012). Современ македонски јазик 4 (2. изд., p. 84 стр.). Табернакул.
+Sazdov, S. (2012). Contemporary Macedonian Language (2nd ed. p. 84). Tabernakul.
 
 
 # Statistics of UD Macedonian MTB

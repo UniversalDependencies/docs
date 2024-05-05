@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>youn</em> (<tt><a href="ht_autogramm-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.018653).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.032770).
 
 The 1st highest number of forms (1) was observed with the lemma “15”: <em>15</em>.
 

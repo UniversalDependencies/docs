@@ -40,10 +40,10 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 obl:tmod	color:blue
-1	2.	2.	X	LS	_	2	dep	2:dep	Discourse=joint-list_m:33->32:0:_
+1	2.	2.	X	LS	_	2	discourse	2:discourse	Discourse=joint-list_m:33->32:0:_
 2	Metformin	Metformin	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(40-substance-new-cf1-1-sgl-Metformin)
 3	1000	1000	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Entity=(41-substance-new-cf2-2-sgl
-4	mg	milligram	NOUN	NNS	Number=Plur	2	orphan	2:orphan	Entity=41)
+4	mg	milligram	NOUN	NNS	Abbr=Yes|Number=Plur	2	orphan	2:orphan	Entity=41)
 5	twice	twice	ADV	RB	NumForm=Word|NumType=Mult	4	advmod	4:advmod	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	Entity=(42-time-new-cf3-2-coref
 7	day	day	NOUN	NN	Number=Sing	5	obl:tmod	5:obl:tmod	Entity=42)|SpaceAfter=No

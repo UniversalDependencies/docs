@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-169 nodes (0%) are attached to their parents as `orphan`.
+257 nodes (0%) are attached to their parents as `orphan`.
 
-120 instances of `orphan` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.51479289940828.
+195 instances of `orphan` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.40466926070039.
 
-The following 30 pairs of parts of speech are connected with `orphan`: <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (50; 30% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (25; 15% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (15; 9% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (10; 6% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (10; 6% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (9; 5% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 37 pairs of parts of speech are connected with `orphan`: <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (82; 32% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (44; 17% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (23; 9% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (16; 6% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (13; 5% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (11; 4% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,40 +69,33 @@ The following 30 pairs of parts of speech are connected with `orphan`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 28 orphan	color:blue
-1	Ora	ora	ADV	b	_	4	advmod:tmod	_	Canto=10|Verso=1
-2	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	Canto=10|Comment=se-n|Verso=1
-3	ne	ne	ADV	_	_	4	advmod	_	Canto=10|Comment=se-n|Verso=1
-4	va	andare	VERB	vi+1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Canto=10|Verso=1
-5	per	per	ADP	epskpl	_	8	case	_	Canto=10|Verso=1
-6	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Canto=10|Verso=1
-7	secreto	segreto	ADJ	a1ms	Gender=Masc|Number=Sing	8	amod	_	Canto=10|Verso=1
-8	calle	calle	NOUN	sm3ms	Gender=Masc|Number=Sing	4	obl:lmod	_	Canto=10|SpaceAfter=No|Verso=1
-9	,	,	PUNCT	_	_	12	punct	_	_
-10	tra	tra	ADP	epsksl	_	12	case	_	Canto=10|Verso=2
-11	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Canto=10|Verso=2
-12	muro	muro	NOUN	sm2ms	Gender=Masc|Number=Sing	4	obl:lmod	_	Canto=10|Verso=2
-13	de	di	ADP	eps	_	15	case	_	Canto=10|Verso=2
-14	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Canto=10|Verso=2
-15	terra	terra	NOUN	sf1fs	Gender=Fem|Number=Sing	12	nmod	_	Canto=10|Verso=2
-16	e	e	CCONJ	cscc	_	18	cc	_	Canto=10|Verso=2
-17	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	Canto=10|Verso=2
-18	martìri	martirio	NOUN	sm2mp	Gender=Masc|Number=Plur	12	conj	_	Canto=10|SpaceAfter=No|Verso=2
-19	,	,	PUNCT	_	_	22	punct	_	_
-20	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Canto=10|Verso=3
-21	mio	mio	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det:poss	_	Canto=10|Verso=3
-22	maestro	maestro	NOUN	sm2ms	Gender=Masc|Number=Sing	4	nsubj	_	Canto=10|SpaceAfter=No|Verso=3
-23	,	,	PUNCT	_	_	25	punct	_	_
-24	e	e	CCONJ	cscc	_	25	cc	_	Canto=10|Verso=3
-25	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	4	conj	_	Canto=10|Verso=3
-26	dopo	dopo	ADP	eisksl	_	28	case	_	Canto=10|Verso=3
-27	le	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	Canto=10|Verso=3
-28	spalle	spalla	NOUN	sf1fp	Gender=Fem|Number=Plur	25	orphan	_	Canto=10|SpaceAfter=No|Verso=3
-29	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 21 orphan	color:blue
+1	Or	ora	ADV	cscn	_	3	advmod:tmod	_	Canto=6|Verso=136
+2	ti	ti	PRON	pf2sypr	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	3	obj	_	Canto=6|Verso=136
+3	fa	fare	VERB	vta+1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=6|Verso=136
+4	lieta	lieto	ADJ	a1fs	Gender=Fem|Number=Sing	3	xcomp	_	Canto=6|SpaceAfter=No|Verso=136
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	ché	ché	SCONJ	cssc	_	8	mark	_	Canto=6|Verso=136
+7	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	8	nsubj	_	Canto=6|Verso=136
+8	hai	avere	VERB	vta5ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	Canto=6|Verso=136
+9	ben	bene	ADV	b	_	8	advmod	_	Canto=6|Verso=136
+10	onde	onde	NOUN	_	_	8	obj	_	Canto=6|SpaceAfter=No|Verso=136
+11	:	:	PUNCT	_	_	13	punct	_	_
+12	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	13	nsubj	_	Canto=6|Verso=137
+13	ricca	ricco	ADJ	a1fs	Gender=Fem|Number=Sing	3	parataxis	_	Canto=6|SpaceAfter=No|Verso=137
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	13	conj	_	Canto=6|Verso=137
+16	con	con	ADP	epskq	_	17	case	_	Canto=6|Verso=137
+17	pace	pace	NOUN	sf3fs	Gender=Fem|Number=Sing	15	orphan	_	Canto=6|Verso=137
+18	e	e	CCONJ	cscc	_	19	cc	_	Canto=6|Verso=137
+19	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	13	conj	_	Canto=6|Verso=137
+20	con	con	ADP	epskq	_	21	case	_	Canto=6|Verso=137
+21	senno	senno	NOUN	sm2ms	Gender=Masc|Number=Sing	19	orphan	_	Canto=6|SpaceAfter=No|Verso=137
+22	!	!	PUNCT	_	_	21	punct	_	_
 
 ~~~
 

@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 3	avais	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	énormément	énormément	ADV	_	_	3	obj	_	_
 5	de	de	ADP	_	_	8	reparandum	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	lacunes	lacune	NOUN	_	Gender=Fem|Number=Plur	4	obl:arg	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	12	punct	_	_
@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `obl`: <tt><a href="
 3	euh	euh	INTJ	_	_	11	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	comme	comme	ADP	_	_	7	case	_	_
-6	d'	d'	ADP	_	_	7	case	_	SpaceAfter=No
+6	d'	de	ADP	_	_	7	case	_	SpaceAfter=No
 7	habitude	habitude	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_

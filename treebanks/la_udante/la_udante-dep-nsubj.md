@@ -67,7 +67,7 @@ The following 51 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 6	quedam	quidam	DET	dinpna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Ind	7	det	_	_
 7	alia	alius	DET	dpnp1a	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Con	3	conj	_	_
 8	hec	hic	DET	dpnpa	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem	9	nsubj	_	_
-9	sufficere	sufficio	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	10	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	sufficere	sufficio	VERB	va3fp	Aspect=Imp|InflClass=LatI2|VerbForm=Inf|Voice=Act	10	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	credimus	credo	VERB	va3ipp1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 11	.	.	PUNCT	Pu	_	10	punct	_	_
 

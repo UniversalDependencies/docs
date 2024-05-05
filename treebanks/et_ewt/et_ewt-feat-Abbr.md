@@ -12,7 +12,7 @@ It occurs with 1 different values: `Yes`.
 1098 tokens (1%) have a non-empty value of `Abbr`.
 516 types (3%) occur at least once with a non-empty value of `Abbr`.
 430 lemmas (4%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 9 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (439; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (309; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (290; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (439; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (309; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (289; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (439; 100% of non-empty `Abbr`): <em>a, ATP, p, z, b, k, cm, km, l/ha, TT</em>
-* `EMPTY` (17636): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `EMPTY` (17622): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (219) occur only with one value of `Abbr`.
 
@@ -36,18 +36,18 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (309; 100% of non-empty `Abbr`): <em>le, a., YOU, |=X=|, BMW, rs1, usa, NATO, T-72, ekre</em>
-* `EMPTY` (3644): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, tartu, d2xz, tallinna, vasur</em>
+* `EMPTY` (3641): <em>eesti, saku, eestis, Jumal, ViinaMuri, Neeme, tartu, d2xz, tallinna, vasur</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (172) occur only with one value of `Abbr`.
 
 ### `ADV`
 
-290 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Abbr`.
+289 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (290; 100% of non-empty `Abbr`): <em>jne, vms, nt, jms, st, ca, jm, ntx, mh, imo</em>
-* `EMPTY` (12368): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
+* `Yes` (289; 100% of non-empty `Abbr`): <em>jne, vms, nt, jms, st, ca, jm, ntx, mh, a</em>
+* `EMPTY` (12366): <em>ka, siis, nii, kas, ikka, veel, ju, mitte, juba, ära</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (56) occur only with one value of `Abbr`.
 
@@ -82,14 +82,14 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 ### `X`
 
-6 <tt><a href="et_ewt-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Abbr`.
+7 <tt><a href="et_ewt-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 83%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="et_ewt-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (6; 86%).
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (6; 100% of non-empty `Abbr`): <em>NB, ^, in, of, to, imo</em>
-* `EMPTY` (285): <em>to, 000, s, a, my, or, the, u, from, ga</em>
+* `Yes` (7; 100% of non-empty `Abbr`): <em>imo, NB, ^, in, of, to</em>
+* `EMPTY` (306): <em>to, 000, s, a, my, or, the, u, from, ga</em>
 
 ### `INTJ`
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `X` and `Abbr` co-occurred: <t
 `INTJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>PS, mdx, lol, wtf.</em>
-* `EMPTY` (454): <em>no, noh, aitäh, Tere, hmm, kurat, irw, vot, ah, oot</em>
+* `EMPTY` (452): <em>no, noh, aitäh, Tere, hmm, kurat, irw, vot, ah, oot</em>
 
 ### `VERB`
 

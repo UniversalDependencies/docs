@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Hildur Jónsdóttir, Kristín Bjarnadóttir, Anton Karl Ingason, Kristján Rúnarsson, Steinþór Steingrímsson, Joel C. Wallenberg, Eiríkur Rögnvaldsson.
 
 Repository: [UD_Icelandic-IcePaHC](https://github.com/UniversalDependencies/UD_Icelandic-IcePaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -211,17 +211,17 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
 
 ## Relations
 
-[acl](is_icepahc-dep-acl.html) – [acl:relcl](is_icepahc-dep-acl-relcl.html) – [advcl](is_icepahc-dep-advcl.html) – [advmod](is_icepahc-dep-advmod.html) – [amod](is_icepahc-dep-amod.html) – [appos](is_icepahc-dep-appos.html) – [aux](is_icepahc-dep-aux.html) – [case](is_icepahc-dep-case.html) – [cc](is_icepahc-dep-cc.html) – [ccomp](is_icepahc-dep-ccomp.html) – [compound:prt](is_icepahc-dep-compound-prt.html) – [conj](is_icepahc-dep-conj.html) – [cop](is_icepahc-dep-cop.html) – [csubj](is_icepahc-dep-csubj.html) – [dep](is_icepahc-dep-dep.html) – [det](is_icepahc-dep-det.html) – [discourse](is_icepahc-dep-discourse.html) – [dislocated](is_icepahc-dep-dislocated.html) – [expl](is_icepahc-dep-expl.html) – [fixed](is_icepahc-dep-fixed.html) – [flat:foreign](is_icepahc-dep-flat-foreign.html) – [flat:name](is_icepahc-dep-flat-name.html) – [iobj](is_icepahc-dep-iobj.html) – [mark](is_icepahc-dep-mark.html) – [nmod](is_icepahc-dep-nmod.html) – [nmod:poss](is_icepahc-dep-nmod-poss.html) – [nsubj](is_icepahc-dep-nsubj.html) – [nummod](is_icepahc-dep-nummod.html) – [obj](is_icepahc-dep-obj.html) – [obl](is_icepahc-dep-obl.html) – [parataxis](is_icepahc-dep-parataxis.html) – [punct](is_icepahc-dep-punct.html) – [root](is_icepahc-dep-root.html) – [vocative](is_icepahc-dep-vocative.html) – [xcomp](is_icepahc-dep-xcomp.html)
+[acl](is_icepahc-dep-acl.html) – [acl:relcl](is_icepahc-dep-acl-relcl.html) – [advcl](is_icepahc-dep-advcl.html) – [advmod](is_icepahc-dep-advmod.html) – [amod](is_icepahc-dep-amod.html) – [appos](is_icepahc-dep-appos.html) – [aux](is_icepahc-dep-aux.html) – [case](is_icepahc-dep-case.html) – [cc](is_icepahc-dep-cc.html) – [ccomp](is_icepahc-dep-ccomp.html) – [compound:prt](is_icepahc-dep-compound-prt.html) – [conj](is_icepahc-dep-conj.html) – [cop](is_icepahc-dep-cop.html) – [csubj](is_icepahc-dep-csubj.html) – [dep](is_icepahc-dep-dep.html) – [det](is_icepahc-dep-det.html) – [discourse](is_icepahc-dep-discourse.html) – [dislocated](is_icepahc-dep-dislocated.html) – [expl](is_icepahc-dep-expl.html) – [fixed](is_icepahc-dep-fixed.html) – [flat](is_icepahc-dep-flat.html) – [flat:foreign](is_icepahc-dep-flat-foreign.html) – [flat:name](is_icepahc-dep-flat-name.html) – [iobj](is_icepahc-dep-iobj.html) – [mark](is_icepahc-dep-mark.html) – [nmod](is_icepahc-dep-nmod.html) – [nmod:poss](is_icepahc-dep-nmod-poss.html) – [nsubj](is_icepahc-dep-nsubj.html) – [nummod](is_icepahc-dep-nummod.html) – [obj](is_icepahc-dep-obj.html) – [obl](is_icepahc-dep-obl.html) – [parataxis](is_icepahc-dep-parataxis.html) – [punct](is_icepahc-dep-punct.html) – [root](is_icepahc-dep-root.html) – [vocative](is_icepahc-dep-vocative.html) – [xcomp](is_icepahc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 44029 sentences, 983671 tokens and 985049 syntactic words.</li>
+<li>This corpus contains 44029 sentences, 983668 tokens and 985046 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 109930 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 109927 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -255,7 +255,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
 </ul>
 
 <ul>
-<li>This corpus contains 156 lemmas tagged as determiners (DET): afarmikill, all, allfár, allir, alllítill, allmargur, allmikill, allnokkur, allralítill, allskonar, allskyns, allur, annar, annarhvor, annaðhvort, báðir, báðumegin, bæði, dálitill, dálítill, dálítið, einhver, einhvernveginn, einhverskonar, einhversstaðar, einn, eins, eitthvað, ekkert, ekki, enginn, fjölmargur, fleir, flestallur, flestir, flestur, fáeinir, fáeinn, fáir, fár, gervallur, geysimikill, gjörvallur, hann, helgur, hin, hinn, hinumegin, hitt, hlutur, hotvetna, hvar, hvað, hvaða, hvaðvetna, hver, hveregur, hvergi, hverigra, hverigur, hvernig, hverski, hverskonar, hverskyns, hversvetna, hvert, hveruga, hvetvetna, hvevetna, hvor, hvorgi, hvorigur, hvorki, hvorngi, hvort, hvortki, hvortveggja, hvorugur, hvorumegin, hvílíkur, hvívetna, hálf, hálfur, hún, inn, inur, jafnlítill, jafnmargur, jafnmikill, jafnmikið, langur, lítill, lítið, lítt, manngi, mannmargur, margur, megn, meira, meiri, mestallur, mestur, mikill, mikið, minni, neinn, nekkver, nokkur, nokkurntíma, nokkursstaðar, nokkurur, nokkuð, né, oflítill, ofmargur, ofmikill, ofurlítill, sa, sinn, sitthver, sjá, smár, snjámikill, stórmikill, sumpart, sumur, svolítill, sá, sérhver, sérhvor, síst, síðri, síður, varla, velflestur, velmargur, vettergi, vettugi, ófár, ógnarmargur, ótalmargur, öllumegin, örfár, örlítill, ýmis, ýmislegur, þau, það, þeir, þess, þessháttar, þessi, því, þvílíkur, þá, þær</li>
+<li>This corpus contains 154 lemmas tagged as determiners (DET): afarmikill, all, allfár, allir, alllítill, allmargur, allmikill, allnokkur, allralítill, allskonar, allskyns, allur, annar, annarhvor, annaðhvort, báðir, báðumegin, bæði, dálitill, dálítill, dálítið, einhver, einhvernveginn, einhverskonar, einhversstaðar, einn, eins, eitthvað, ekkert, ekki, enginn, fjölmargur, fleir, flestallur, flestir, flestur, fáeinir, fáeinn, fáir, fár, gervallur, geysimikill, gjörvallur, hann, helgur, hin, hinn, hinumegin, hitt, hlutur, hotvetna, hvar, hvað, hvaða, hvaðvetna, hver, hveregur, hvergi, hverigra, hverigur, hvernig, hverski, hverskonar, hverskyns, hversvetna, hvert, hveruga, hvetvetna, hvevetna, hvor, hvorgi, hvorigur, hvorki, hvorngi, hvort, hvortki, hvortveggja, hvorugur, hvorumegin, hvílíkur, hvívetna, hálf, hálfur, hún, inn, inur, jafnlítill, jafnmargur, jafnmikill, jafnmikið, langur, lítill, lítið, lítt, manngi, mannmargur, margur, megn, meira, meiri, mestallur, mikill, mikið, minni, neinn, nekkver, nokkur, nokkurntíma, nokkursstaðar, nokkuð, né, oflítill, ofmargur, ofmikill, ofurlítill, sa, sinn, sitthver, sjá, smár, snjámikill, stórmikill, sumpart, sumur, svolítill, sá, sérhver, sérhvor, síst, síðri, síður, varla, velflestur, velmargur, vettergi, vettugi, ófár, ógnarmargur, ótalmargur, öllumegin, örfár, örlítill, ýmis, ýmislegur, þau, það, þeir, þess, þessháttar, þessi, því, þvílíkur, þá, þær</li>
 </ul>
 
 <ul>
@@ -282,16 +282,16 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
     <li>ADV: nær, heldur, snart, helst, fór, kann, aldri, braut, fyr, mátti</li>
     <li>AUX: var, er, voru, hafði, væri, eru, mun, hefði, sé, hefir</li>
     <li>CCONJ: eður, hverki, Hvörki, Né, en, heldur</li>
-    <li>DET: sá, engi, öngum, fá, eð, Nokkuru, inna, minna, Meir, Sé</li>
+    <li>DET: engi, sá, öngum, fá, eð, Nokkuru, inna, minna, Meir, Sé</li>
     <li>INTJ: Hei, Vei, duddu, Áví, Ó, Óhó</li>
     <li>NOUN: vilja, mætti, leið, friðar, kosti, lifnaði, liði, miskunnar, skildi, hóf</li>
     <li>NUM: Xii, fjörutigi, iiii, iiijr, vii</li>
     <li>PRON: voru, sér, vorum, eg, yðrum, vorar, yðrar, yðrir, órar, hvör</li>
-    <li>PROPN: Vali, sankti, Valdi, Georgíus, Maii, Majst, guði, Beljus, Belíus, Brúni</li>
+    <li>PROPN: sankti, Valdi, Georgíus, Maii, Majst, guði, Beljus, Belíus, Brúni, Guddu</li>
     <li>PUNCT: "</li>
     <li>SCONJ: er, eð, at, eru, hvörri, hvört</li>
     <li>VERB: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
-    <li>X: Majst, Edimus, Item, Sicut, beati, nostra, nostri, omnium, patri, sankti</li>
+    <li>X: Majst, Edimus, Item, Sicut, beati, nostra, omnium, patri, statuta</li>
   </ul>
   </li>
 </ul>
@@ -303,7 +303,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
     <li>ADP: fyr</li>
     <li>ADV: ske, framast, einast, fara, fá, skjótast, æfinlega, aldri, alloftast, fyrirkoma</li>
     <li>AUX: vera, hafa, verða, vilja, geta, mega, mundu, fá, hafast, hefi</li>
-    <li>DET: engi, minna, sá, fá, meir, sjá, þenna, Margs, eð, ina</li>
+    <li>DET: engi, minna, sá, fá, meir, sjá, Margs, eð, ina, inna</li>
     <li>NOUN: skaða, vilja, anda, sjá, loka, líkama, skála, sóma, Trúa, athuga</li>
     <li>PRON: yðra, sinna, Hina, hvörja, minna, óra, þeira</li>
     <li>PROPN: anda, Ótta, Antiokkia, Ermanus, Flegða, Loka, Mella, Pjatta, Syrpa, draga</li>
@@ -338,7 +338,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
   <ul>
     <li>ADJ: áminnst, greint, hlýðið, hrært, kunnigt, kært, lagt, leitt, ljósan, mein</li>
     <li>ADP: fyr, þótt</li>
-    <li>ADV: fengið, gerst, gjör, snarast, aldri, alltið, brutt, dárað, einnin, gengið</li>
+    <li>ADV: fengið, gerst, gjör, snarast, aldri, alltið, dárað, einnin, gengið, gerr</li>
     <li>AUX: verið, haft, getað, mátt, viljað, getið, munt, fengið, hafið, munuð</li>
     <li>DET: engi, hitt, hvört, minnst, nakkvað, nökkut</li>
     <li>INTJ: Vei</li>
@@ -369,7 +369,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>AUX: skyldu, vera, vóru, vilda, höfð, skylda, hefir, hafðar, skyldum, Vil</li>
       <li>AUX-Part: höfð, hafðar, Munt, hafða, meguð, máttuð</li>
       <li>CCONJ: eður, bæði, annaðhvurt, eða</li>
-      <li>DET: sú, þessa, þessi, allar, þeirri, þá, alla, eina, þær, þessari</li>
+      <li>DET: þá, sú, þessa, þessi, allar, þeirri, alla, eina, þær, þessari</li>
       <li>INTJ: hana, bittinú, du, ææææææ</li>
       <li>NOUN: leið, hendur, dóttur, hendi, nótt, stund, von, höndum, kona, konu</li>
       <li>NOUN-Part: gerð, byggð, framkvæmdar, sæmd, Dirfð, dáð, felldar, fjarlægðar, frægð, gerðar</li>
@@ -383,7 +383,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>SCONJ: hverja, hverjar, hver, hvorrar, ein, hvaða, hvor, hvörju, hvörjum, hvörn</li>
       <li>VERB: komin, búin, orðin, leið, sett, kölluð, haldin, sagða, tekin, lifandi</li>
       <li>VERB-Part: komin, orðin, kölluð, sett, haldin, tekin, farin, nefnd, gefin, komnar</li>
-      <li>X: trinitatis, sankti, Exordium, Item, Jerúsalem, Martilla, Miraculum, Sicut, brevíaríum, sacramentum</li>
+      <li>X: trinitatis, Exordium, Item, Jerúsalem, Martilla, Miraculum, Sicut, brevíaríum, sanctorum, Abba</li>
     </ul>
   </li>
 </ul>
@@ -413,7 +413,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>SCONJ: hvor, hver, hverjum, hvern, hverjir, hvorn, hvers, hvorum, er, hvatki</li>
       <li>VERB: kominn, orðinn, komnir, búinn, kallaður, segjandi, farinn, borinn, settur, sá</li>
       <li>VERB-Part: kominn, orðinn, komnir, kallaður, farinn, borinn, settur, tekinn, nefndur, sendur</li>
-      <li>X: sankti, Ektor, Trankival, sanktus, Darii, Alexandrum, domini, Assyria, Vidfraktus, Alexandri</li>
+      <li>X: Ektor, Trankival, sankti, Darii, Alexandrum, domini, Assyria, Vidfraktus, sanktus, Alexandri</li>
     </ul>
   </li>
 </ul>
@@ -427,14 +427,14 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADP-Part: útgefið</li>
       <li>ADV: hvað, mikið, langt, aldregi, því, hart, eitt, jafnsnart, allt, eina</li>
       <li>ADV-Part: háttað, minnst, predikað, Einatt, beint, breitt, flutt, greitt, hegat, hliðhalt</li>
-      <li>AUX: em, haft, hafið, var, vilið, verið, myni, skylduð, vil, haf</li>
+      <li>AUX: em, haft, hafið, var, vilið, verið, myni, skylduð, vil, mundi</li>
       <li>AUX-Part: haft, verið, skylduð, hafið, getið, höfð, munduð, Skuluð, haf, hafð</li>
       <li>CCONJ: bæði, hvörki, hverki, annað, annaðhvert, g, hvatki, hvortki, hvörgi, ok</li>
       <li>CCONJ-Part: annaðhvert, hvörki</li>
       <li>DET: þetta, allt, það, þessu, því, öllu, eitt, mikið, ekkert, nokkuð</li>
       <li>DET-Part: minnst, engi, Ekkert, hitt, nakkvað, nokkora, nökkvað</li>
       <li>INTJ: fokk, bússí, Æ, óvei</li>
-      <li>NOUN: orð, ráð, hjarta, landi, mál, ríki, skip, líf, nafni, orðum</li>
+      <li>NOUN: orð, móti, ráð, hjarta, landi, mál, ríki, skip, líf, nafni</li>
       <li>NOUN-Part: orðið, liðið, náð, ráðið, talið, boðið, lokið, sætt, sótt, Okið</li>
       <li>NUM: tvö, þrjú, sex, fimm, fjögur, sjö, tólf, hálft, hundrað, tíu</li>
       <li>PART: einu, eitt</li>
@@ -447,7 +447,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>SCONJ-Part: hvört</li>
       <li>VERB: sagt, komið, búið, orðið, getið, farið, gert, mælt, gjört, tekið</li>
       <li>VERB-Part: sagt, komið, getið, gert, farið, mælt, orðið, tekið, talað, gjört</li>
-      <li>X: Trankival, domini, Majst, Vernakíus, kalendas, Holofernis, sanktus, Kapitulum, evangelium, nostri</li>
+      <li>X: Trankival, domini, Majst, Vernakíus, Holofernis, kalendas, Kapitulum, evangelium, nostri, privilegium</li>
       <li>X-Part: Majst, regent</li>
     </ul>
   </li>
@@ -475,8 +475,8 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>CCONJ: bæði, hvörki, hverki, báðir, eða, hvörgi</li>
       <li>CCONJ-Fin: hverki</li>
       <li>CCONJ-Part: bæði</li>
-      <li>DET: allir, öllum, þeim, alla, allra, þau, öll, margir, allar, þessi</li>
-      <li>DET-Fin: engi, öngum, fá, inna, minna, Nokkuru, báðu, hvörjum, þenna</li>
+      <li>DET: allir, öllum, þeim, alla, allra, þá, þau, öll, margir, allar</li>
+      <li>DET-Fin: engi, öngum, fá, inna, minna, Nokkuru, báðu, hvörjum</li>
       <li>DET-Part: nokkora</li>
       <li>INTJ: du, Æ</li>
       <li>NOUN: menn, manna, mönnum, orð, bræður, orðum, hendur, hluti, höndum, daga</li>
@@ -497,7 +497,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>VERB: komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, komnir, sáu</li>
       <li>VERB-Fin: komu, fóru, gengu, sögðu, tóku, urðu, koma, höfðu, sáu, riðu</li>
       <li>VERB-Part: komnir, komin, kallaðir, settir, teknir, sendir, orðnir, farnir, sett, nefndir</li>
-      <li>X: sankti, Georgíum, Kapitulum, Alexandrum, Miraculum, delictum, privilegium, sanctorum, Exordium, Taraskonum</li>
+      <li>X: Kapitulum, Alexandrum, Miraculum, privilegium, sanctorum, Exordium, Taraskonum, brevíaríum, delictum, sankti</li>
       <li>X-Fin: Item, nostra, omnium, statuta</li>
     </ul>
   </li>
@@ -522,11 +522,11 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>CCONJ-Fin: eður, hverki, Hvörki, Né, en, heldur</li>
       <li>CCONJ-Part: annaðhvert, hvörki</li>
       <li>DET: þetta, sá, allt, einn, það, þann, þessu, hinn, þessi, þessa</li>
-      <li>DET-Fin: sá, engi, eð, Meir, Nokkuru, Sé, einkis, einnrar, engvan, fæstu</li>
+      <li>DET-Fin: engi, sá, eð, Meir, Nokkuru, Sé, einkis, einnrar, engvan, fæstu</li>
       <li>DET-Part: minnst, engi, Ekkert, hitt, nakkvað, nökkvað</li>
       <li>INTJ: bússí, fokk, hana, Hei, bittinú, damm, Óhó, óvei, Heill, Vei</li>
       <li>INTJ-Fin: Hei, Vei, duddu, Áví, Ó, Óhó</li>
-      <li>NOUN: maður, konungur, biskup, dag, mann, stað, kóngur, tíma, herra, föður</li>
+      <li>NOUN: maður, konungur, biskup, dag, móti, mann, stað, kóngur, tíma, herra</li>
       <li>NOUN-Fin: mætti, leið, friðar, kosti, lifnaði, liði, miskunnar, skildi, hóf, kostar</li>
       <li>NOUN-Part: orðið, liðið, náð, gerð, ráðið, byggð, talið, boðið, lokið, sæmd</li>
       <li>NUM: hálft, hvorirtveggju, hvorttveggja, hálfan, hálfu, hundrað, hálfa, hvorutveggja, hálfs, iij</li>
@@ -536,7 +536,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>PRON-Fin: sér, eg, vorar, yðrar, yðrir, órar, hvör, hver, hvörja, hvörs</li>
       <li>PRON-Part: yðvart, eg, okkart, vorra</li>
       <li>PROPN: guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</li>
-      <li>PROPN-Fin: Vali, sankti, Valdi, Georgíus, Maii, Majst, guði, Beljus, Belíus, Brúni</li>
+      <li>PROPN-Fin: sankti, Valdi, Georgíus, Maii, Majst, guði, Beljus, Belíus, Brúni, Hrímgerður</li>
       <li>PROPN-Part: Refur, Fiður, Herjuð, Mundt, Móður</li>
       <li>PUNCT: "</li>
       <li>SCONJ: það, er, hvert, hvor, hvört, hvort, hver, eð, hverja, hverjum</li>
@@ -545,8 +545,8 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>VERB: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
       <li>VERB-Fin: sagði, segir, kom, mælti, fór, tók, varð, gekk, lét, hafði</li>
       <li>VERB-Part: kominn, sagt, komið, orðinn, kallaður, komin, getið, gert, farið, mælt</li>
-      <li>X: Trankival, domini, Majst, Ektor, sanktus, Vernakíus, sankti, Anno, Darii, trinitatis</li>
-      <li>X-Fin: Majst, Edimus, Sicut, beati, nostri, patri, sankti</li>
+      <li>X: Trankival, domini, Majst, Ektor, Vernakíus, Anno, Darii, trinitatis, Alexandri, Holofernis</li>
+      <li>X-Fin: Majst, Edimus, Sicut, beati, patri</li>
       <li>X-Part: Majst, regent</li>
     </ul>
   </li>
@@ -568,21 +568,21 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>AUX-Part: mundu, hafða</li>
       <li>CCONJ: bæði, hvörki, hverki, annað, eður, hvortki, nema</li>
       <li>CCONJ-Part: hvörki</li>
-      <li>DET: þetta, þann, alla, það, allt, þá, þessa, einn, allan, eitt</li>
+      <li>DET: þetta, þann, þá, alla, það, allt, þessa, einn, allan, eitt</li>
       <li>DET-Part: engi</li>
       <li>INTJ: hana, damm, du, fokk, Æ, óvei</li>
       <li>NOUN: menn, dag, mann, orð, tíma, son, land, leið, ráð, hendur</li>
       <li>NOUN-Part: alin</li>
       <li>NUM: tvo, þrjá, tvö, þrjú, sex, tvær, tólf, fimm, fjóra, sjö</li>
       <li>PART: einasta, eitt</li>
-      <li>PRON: það, hann, mig, sig, sína, sinn, hana, þig, sitt, þá</li>
+      <li>PRON: það, hann, mig, sig, sína, sinn, hana, þig, þá, sitt</li>
       <li>PRON-Part: vorra</li>
       <li>PROPN: guð, jesúm, Þorlák, Illuga, Þorstein, drottin, herra, jesú, Jón, Finnboga</li>
       <li>PUNCT: "</li>
       <li>SCONJ: það, hverja, hvern, hvert, hvorn, em, hvaða, hverjar, hvört</li>
       <li>VERB: búið, orðið, lifandi, sagða, gjört, heitið, boðið, lagðan, lifanda, blessaða</li>
       <li>VERB-Part: gert, sagða, gerða, birt, talað, getið, keypt, komna, ráðið, sendan</li>
-      <li>X: trinitatis, Jesúm, Kristum, Anno, Bethaniam, Domini, Jerúsalem, sankti, Alexandríam, Apologiam</li>
+      <li>X: trinitatis, Anno, Bethaniam, Domini, Jerúsalem, Alexandríam, Apologiam, Arfaxat, Assyria, Belina</li>
     </ul>
   </li>
 </ul>
@@ -596,15 +596,15 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>AUX: mun, skyldu, vilja, vóru, vera, muni, mætti, skyldum, vorum, megu</li>
       <li>CCONJ: hvörki, hverki, hvatki, hvortki</li>
       <li>DET: þeim, þessu, öllum, því, þessum, öllu, þeirri, einu, einum, miklu</li>
-      <li>NOUN: mönnum, landi, manni, nafni, orðum, sinni, hendi, máli, stað, höndum</li>
+      <li>NOUN: mönnum, móti, landi, manni, nafni, orðum, sinni, hendi, máli, stað</li>
       <li>NUM: tveimur, tveim, fjórum, fimm, þremur, tólf, þrem, sex, hvorirtveggju, sjö</li>
       <li>PART: einu</li>
       <li>PRON: því, honum, mér, sér, þeim, þér, sínum, henni, oss, yður</li>
       <li>PROPN: guði, Íslandi, Noregi, Sturlu, jesú, kristi, Hólum, Jóni, Skálholti, Gissuri</li>
       <li>SCONJ: hverjum, hverju, hvorum, er, hvaða, hvörju, hvörjum, hvörn, hvörri</li>
-      <li>VERB: sér, búnu, leið, liðnum, liðinni, mæltu, lifandi, liðnu, ákveðnum, brotnu</li>
+      <li>VERB: sér, búnu, liðnum, leið, liðinni, mæltu, lifandi, liðnu, ákveðnum, brotnu</li>
       <li>VERB-Part: liðnu</li>
-      <li>X: sankti, domini, Alexandrum, Georgíum, Kapitulum, Anno, Miraculum, delictum, privilegium, sanctorum</li>
+      <li>X: domini, Alexandrum, Kapitulum, Anno, Miraculum, privilegium, sanctorum, Assyria, Darii, Exordium</li>
     </ul>
   </li>
 </ul>
@@ -619,13 +619,13 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>CCONJ: eður, eða</li>
       <li>DET: allra, þess, þessa, hins, þeirra, alls, þeirrar, mikils, margra, þessarar</li>
       <li>NOUN: manna, konungs, biskups, kóngs, manns, föður, staðar, lífs, handa, guðs</li>
-      <li>NUM: tveggja, þriggja, sex, tólf, fimm, níu, fimmtán, tíu, hundrað, sjö</li>
+      <li>NUM: tveggja, þriggja, sex, tólf, fimm, níu, fimmtán, tíu, sjö, hundrað</li>
       <li>PRON: hans, þeirra, þess, hennar, síns, sín, sinna, yðar, mín, annars</li>
       <li>PROPN: guðs, drottins, jesú, Krists, herra, Jóns, Sturlu, Maríu, Þorláks, Íslands</li>
       <li>PUNCT: "</li>
       <li>SCONJ: hvers, hvorrar, hvors, hvör</li>
-      <li>VERB: lifanda, Ganga, lifandi, gjörða, liðna, gerva, heitins, komanda, launa, vitu</li>
-      <li>X: Holofernis, kalendas, Darii, Domini, Vernakíus, profundis, rupata, stadía, ANIMAE, Academísins</li>
+      <li>VERB: lifanda, Ganga, lifandi, gjörða, liðna, gerva, heitins, komanda, launa, gerða</li>
+      <li>X: Holofernis, kalendas, Darii, Domini, Vernakíus, rupata, ANIMAE, Academísins, Alexandri, Annfílas</li>
     </ul>
   </li>
 </ul>
@@ -659,7 +659,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>SCONJ-Part: hvört</li>
       <li>VERB: kominn, sagt, komið, orðinn, komnir, búinn, komin, kallaður, búið, orðið</li>
       <li>VERB-Part: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, farið, gert</li>
-      <li>X: Trankival, Ektor, sanktus, domini, sankti, Vernakíus, Majst, Darii, Dominus, Item</li>
+      <li>X: Trankival, Ektor, domini, Vernakíus, Majst, sankti, sanktus, Darii, Dominus, Item</li>
       <li>X-Part: Majst, regent</li>
     </ul>
   </li>
@@ -699,16 +699,16 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADV: aldri, aldregi, mikið, langt, mikill, einn, braut, hart, jafnsnart, hvörsu</li>
       <li>AUX: mun, em, skyldu, vera, vóru, var, vilja, skyli, muni, vil</li>
       <li>CCONJ: hvörki, eður, hverki, hvatki, annaðhvurt, eða, g, hvegi, hvortki, hvörgi</li>
-      <li>DET: mikið, mikill, margir, miklu, margt, mikil, mörgum, mikinn, marga, engi</li>
+      <li>DET: mikið, mikill, margir, miklu, margt, mikil, mörgum, mikinn, marga, einn</li>
       <li>INTJ: bússí, fokk, bittinú, damm, Æ, óvei, Heill, fjandi, maður, Óhó</li>
-      <li>NOUN: menn, maður, konungur, manna, biskup, mönnum, orð, dag, tíma, mann</li>
+      <li>NOUN: menn, maður, konungur, manna, biskup, mönnum, orð, dag, móti, tíma</li>
       <li>NUM: hálft, hvorirtveggju, hálfan, hálfum, ij, hálfu, iij, hálfa, hálfs, hálfur</li>
       <li>PART: einu, einir</li>
-      <li>PRON: hönum, vor, hvör, mitt, sinni, vorum, soddan, vær, annað, þeira</li>
+      <li>PRON: hönum, vor, hvör, mitt, vorum, sinni, soddan, vær, annað, þeira</li>
       <li>PROPN: guð, guðs, herra, jesús, guði, drottinn, jesú, Illugi, Jón, Finnbogi</li>
       <li>SCONJ: hvört, hvör, ein, em, er, hvatki, hvörju, hvörjum, hvörn, hvörri</li>
       <li>VERB: búið, búinn, segjandi, búin, búnir, höggur, fallinn, leið, kömur, ger</li>
-      <li>X: Trankival, domini, Ektor, sanktus, Vernakíus, Anno, Darii, trinitatis, Alexandrum, Georgíum</li>
+      <li>X: Trankival, domini, Ektor, Vernakíus, Anno, Darii, trinitatis, Alexandrum, Kapitulum, Alexandri</li>
     </ul>
   </li>
 </ul>
@@ -733,7 +733,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>NUM: vi, xii, átján</li>
       <li>PRON: minni, minna, soddan, hvörra, sinna, yðvarra, þínni</li>
       <li>PROPN: saltara, GANGI, Hlymreksfari, Jaíri, Konáli, Mörukári, Teófíli, farisearanna, himnna, kristi</li>
-      <li>VERB: heldur, endaðri, ver, betri, fremur, fá, nær, víprar, Kunni, Lýsi</li>
+      <li>VERB: heldur, endaðri, betri, fremur, ver, fá, nær, víprar, Kunni, Lýsi</li>
       <li>X: sankti, Lazari, seminarii</li>
     </ul>
   </li>
@@ -757,7 +757,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>PUNCT: "</li>
       <li>SCONJ: hvört, ein, er</li>
       <li>VERB: búið, búinn, lifandi, búin, búnir, fallinn, lifanda, þegjandi, búnu, grátandi</li>
-      <li>X: sankti, Vidfraktus, Item, Alexandrum, sanktus, Aristandus, Sicut, Stadium, Vagau, Valbert</li>
+      <li>X: sankti, Vidfraktus, Item, Alexandrum, Aristandus, Sicut, Stadium, Vagau, Valbert, bölvaður</li>
     </ul>
   </li>
 </ul>
@@ -796,7 +796,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADJ-Fin: Heill, Hásu, Nakið, Skamt, Skjót, löstu, mildi, ofgóð, upprisu</li>
       <li>ADP-Fin: fyr</li>
       <li>ADV-Fin: hvörsu, hvört, takið</li>
-      <li>AUX-Fin: hafið, skalt, mundu, megið, Munt, munuð, Skulu, haf, mátt, verið</li>
+      <li>AUX-Fin: hafið, skalt, mundu, haf, megið, Munt, munuð, Skulu, mátt, verið</li>
       <li>AUX-Inf: vert</li>
       <li>DET-Fin: engi, Nokkuru, engvan, fæstu, nökkut</li>
       <li>INTJ-Fin: duddu</li>
@@ -821,7 +821,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>AUX: var, er, voru, hafði, eru, mun, hefir, hefur, skal, hafa</li>
       <li>AUX-Fin: var, er, voru, hafði, eru, mun, hefir, hefur, skal, hafa</li>
       <li>CCONJ-Fin: eður, hverki, Né, en, heldur</li>
-      <li>DET-Fin: sá, engi, öngum, fá, eð, inna, minna, Meir, Nokkuru, báðu</li>
+      <li>DET-Fin: engi, sá, öngum, fá, eð, inna, minna, Meir, Nokkuru, báðu</li>
       <li>INTJ-Fin: Hei, Vei, Áví, Ó, Óhó</li>
       <li>NOUN-Fin: vilja, leið, friðar, lifnaði, miskunnar, skildi, hóf, kostar, tignar, birti</li>
       <li>NUM-Fin: iiijr</li>
@@ -848,9 +848,9 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>NOUN-Fin: kosti, liði, mætti, verði, vilji, viti, hafi, mildi, biskupi, boði</li>
       <li>NUM-Fin: Xii, fjörutigi, iiii, vii</li>
       <li>PRON-Fin: hver, hvörjum, sinni, sé, sér, yðrum</li>
-      <li>PROPN-Fin: Vali, Valdi, sankti, Maii, Guddu, Julii, Martii, Stefni, bausti, dragi</li>
+      <li>PROPN-Fin: Valdi, sankti, Maii, Guddu, Julii, Martii, Stefni, Vali, bausti, dragi</li>
       <li>VERB-Fin: ætti, kæmi, yrði, færi, verði, komi, þyki, þætti, fengi, þyrfti</li>
-      <li>X-Fin: beati, nostri, patri, sankti</li>
+      <li>X-Fin: beati, patri</li>
     </ul>
   </li>
 </ul>
@@ -868,10 +868,10 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADV-Fin: snart, fór, braut, mátti, kunni, fóru, hvörsu, kynni, vildi, Hverru</li>
       <li>AUX: var, voru, hafði, væri, hefði, skyldi, vildi, mundi, höfðu, mátti</li>
       <li>AUX-Fin: var, voru, hafði, væri, hefði, skyldi, vildi, mundi, höfðu, mátti</li>
-      <li>DET-Fin: sá, engi, Nokkuru, báðu, meiri</li>
+      <li>DET-Fin: engi, sá, Nokkuru, báðu, meiri</li>
       <li>NOUN-Fin: mætti, leið, lifnaði, liði, skildi, hóf, birti, naut, flugu, færi</li>
       <li>PRON-Fin: voru, vorum, hver, vér, hvör, sér, hvorju, hvörja, hvörjum, hvörri</li>
-      <li>PROPN-Fin: Brúni, Guddu, Guði, Gálu, Hrímgerður, Karatti, Pjatti, Skafti, Trankival, Vali</li>
+      <li>PROPN-Fin: Brúni, Guddu, Guði, Gálu, Hrímgerður, Karatti, Pjatti, Skafti, Trankival, christi</li>
       <li>SCONJ-Fin: hvörri, hvört</li>
       <li>VERB: sagði, kom, mælti, fór, tók, varð, gekk, lét, hafði, hét</li>
       <li>VERB-Fin: sagði, kom, mælti, fór, tók, varð, gekk, lét, hafði, hét</li>
@@ -895,13 +895,13 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>NOUN-Fin: vilja, friðar, kosti, miskunnar, kostar, tignar, verði, vilji, viti, boði</li>
       <li>NUM-Fin: Xii, fjörutigi, iiii, iiijr, vii</li>
       <li>PRON-Fin: sér, eg, yðrum, vorar, yðrar, yðrir, órar, sinna, yðra, hvörja</li>
-      <li>PROPN-Fin: Vali, Valdi, sankti, Georgíus, Maii, Majst, Beljus, Belíus, Julii, Kórmaks</li>
+      <li>PROPN-Fin: Valdi, sankti, Georgíus, Maii, Majst, Beljus, Belíus, Julii, Kórmaks, MAÐUR</li>
       <li>PUNCT-Fin: "</li>
       <li>SCONJ-Fin: er, eð, at, eru</li>
       <li>VERB: segir, kemur, fer, verður, svarar, veit, heitir, gengur, þykir, tekur</li>
       <li>VERB-Fin: segir, kemur, fer, verður, svarar, veit, heitir, gengur, þykir, tekur</li>
       <li>VERB-Part: lifandi</li>
-      <li>X-Fin: Majst, Item, nostra, nostri, omnium, patri, sankti, statuta</li>
+      <li>X-Fin: Majst, Item, nostra, omnium, patri, statuta</li>
     </ul>
   </li>
 </ul>
@@ -924,15 +924,15 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADV-Fin: nær, heldur, snart, fór, kann, aldri, braut, fyr, mátti, fer</li>
       <li>ADV-Inf: ske, fara, fá, æfinlega, aldri, fyrirkoma, gefa, gjör, jafna, líka</li>
       <li>ADV-Part: háttað, predikað, einnin, gjör, hverninn, komnir, Einatt, beint, breitt, festar</li>
-      <li>ADV-Sup: fengið, gjör, aldri, alltið, brutt, dárað, einnin, gengið, gerr, greitt</li>
+      <li>ADV-Sup: fengið, gjör, aldri, alltið, dárað, einnin, gengið, gerr, greitt, hellt</li>
       <li>AUX-Fin: var, er, voru, hafði, væri, eru, mun, hefði, sé, hefir</li>
       <li>AUX-Inf: vera, hafa, verða, vilja, geta, mega, mundu, fá, hefi, má</li>
       <li>AUX-Part: haft, hafður, hafðir, verið, hafandi, höfð, skylduð, hafið, getið, hafðar</li>
       <li>AUX-Sup: verið, haft, getað, mátt, viljað, getið, munt, fengið, hafið, munuð</li>
       <li>CCONJ-Fin: eður, hverki, Hvörki, Né, en, heldur</li>
       <li>CCONJ-Part: annaðhvert, bæði, hvörki</li>
-      <li>DET-Fin: sá, engi, öngum, fá, eð, Nokkuru, inna, minna, Meir, Sé</li>
-      <li>DET-Inf: engi, minna, sá, fá, sjá, þenna, Margs, eð, ina, inna</li>
+      <li>DET-Fin: engi, sá, öngum, fá, eð, Nokkuru, inna, minna, Meir, Sé</li>
+      <li>DET-Inf: engi, minna, sá, fá, sjá, Margs, eð, ina, inna, minsta</li>
       <li>DET-Part: engi, Ekkert, hitt, nakkvað, nokkora, nökkvað</li>
       <li>DET-Sup: engi, hitt, hvört, nakkvað, nökkut</li>
       <li>INTJ-Fin: Hei, Vei, duddu, Áví, Ó, Óhó</li>
@@ -946,7 +946,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>PRON-Inf: yðra, sinna, Hina, hvörja, minna, óra, þeira</li>
       <li>PRON-Part: yðvart, eg, okkart, sér, vor, vorra</li>
       <li>PRON-Sup: hitt, hvör, yðart</li>
-      <li>PROPN-Fin: Vali, sankti, Valdi, Georgíus, Maii, guði, Beljus, Belíus, Brúni, Guddu</li>
+      <li>PROPN-Fin: sankti, Valdi, Georgíus, Maii, guði, Beljus, Belíus, Brúni, Guddu, Gálu</li>
       <li>PROPN-Inf: anda, Ótta, Antiokkia, Ermanus, Flegða, Loka, Mella, Pjatta, Syrpa, draga</li>
       <li>PROPN-Part: Refur, Fiður, Herjuð, Mundt, Móður</li>
       <li>PROPN-Sup: Ríkilað, Majst</li>
@@ -958,7 +958,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>VERB-Inf: fara, segja, sjá, taka, koma, láta, ganga, gera, halda, vita</li>
       <li>VERB-Part: kominn, sagt, komið, orðinn, komnir, komin, kallaður, getið, gert, farið</li>
       <li>VERB-Sup: komið, séð, fengið, gert, sagt, tekið, farið, orðið, gjört, gefið</li>
-      <li>X-Fin: Edimus, Item, Sicut, beati, nostra, nostri, omnium, patri, sankti, statuta</li>
+      <li>X-Fin: Edimus, Item, Sicut, beati, nostra, omnium, patri, statuta</li>
       <li>X-Inf: Ná, hyggja, libra, nostra, sigla, tertia</li>
       <li>X-Part: regent, regerandi</li>
     </ul>
@@ -1013,7 +1013,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADP: fyr, Þá, það</li>
       <li>ADV: þá, hvílík, sama, sjálfum, glöggvasta, hvorsu, hvílíka, sjálfa, öðruvís, því</li>
       <li>AUX: var, vóru</li>
-      <li>DET: þetta, sá, þessi, þann, þessu, það, þeim, þessa, þessum, þá</li>
+      <li>DET: þetta, sá, þessi, þann, þessu, það, þeim, þessa, þá, þessum</li>
       <li>NOUN: sá, þetta, okurið, sjálfa, sjálfan, strendli, þessi, þá</li>
       <li>NUM: þess</li>
       <li>PRON: sjálfur, það, þeim, þeir, sjálfum, slíkt, því, þeirra, sjálfan, þá</li>
@@ -1040,7 +1040,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>PROPN: Enginn, Aðra, Aðrir, Bítlana, Hellismenn, Petrum, Reyðarmúla, Sumar</li>
       <li>SCONJ: hvor, hvert, hverja, hvort, hver, hverjum, hvern, hvorn, hvers, hvorrar</li>
       <li>VERB: vorar, báðum, ann, entri, forþént, hét, inntakast, kenndust, krafður, reifður</li>
-      <li>X: Dominus, Tírus, regnum, sankti</li>
+      <li>X: Dominus, Tírus, regnum</li>
     </ul>
   </li>
 </ul>
@@ -1139,7 +1139,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADJ-Fin: syndgum, göfgum, Vei, auðgum, blessuðum, fríum, fáum, heilum, helgum, kæri</li>
       <li>ADP: við, á, eftir, fyr, yðrum</li>
       <li>ADP-Fin: á, fyr, yðrum</li>
-      <li>ADV-Fin: forðum, fer, fór, Nær, aldri, dvel, helst, kann, kem, kemst</li>
+      <li>ADV-Fin: forðum, fer, fór, Nær, aldri, helst, kann, kem, kemst, kunni</li>
       <li>AUX-Fin: var, vil, er, hefi, mun, skal, skulum, erum, hef, höfum</li>
       <li>CCONJ-Fin: hverki, Né, en</li>
       <li>DET: sá, öngum, engi, einkis, hvörjir, hvörjum, þeim</li>
@@ -1148,7 +1148,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>NOUN: ég, mér, Vér, eg, klæði, yðrum, BLOKK, boði, bæti, er</li>
       <li>NOUN-Fin: klæði, yðrum, BLOKK, boði, bæti, er, fjötrum, forakti, fótum, get</li>
       <li>PRON: eg, ég, mér, vér, mig, oss, við, okkur, mín, okkar</li>
-      <li>PRON-Fin: vorum, eg, yðrum, hvörja, hvörjum, Annaðhvört, hver, örðum, þeim</li>
+      <li>PRON-Fin: vorum, eg, yðrum, hvörja, hvörjum, Annaðhvört, hver, örðum</li>
       <li>PROPN: Eg, Vér, Ég, Georgíus, Mér, Vali</li>
       <li>PROPN-Fin: Georgíus, Vali</li>
       <li>PUNCT: "</li>
@@ -1182,7 +1182,7 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>PUNCT: "</li>
       <li>PUNCT-Fin: "</li>
       <li>SCONJ-Fin: at</li>
-      <li>VERB-Fin: lát, sjá, veist, seg, gef, átt, far, sjáið, ætlar, segið</li>
+      <li>VERB-Fin: lát, sjá, veist, seg, átt, gef, far, sjáið, ætlar, segið</li>
     </ul>
   </li>
 </ul>
@@ -1195,15 +1195,15 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>ADV-Fin: nær, heldur, snart, helst, fór, braut, fyr, kann, mátti, næst</li>
       <li>AUX-Fin: var, er, voru, hafði, væri, eru, hefði, sé, mun, skyldi</li>
       <li>CCONJ-Fin: eður, Hvörki, heldur</li>
-      <li>DET-Fin: sá, engi, fá, eð, inna, minna, Meir, Nokkuru, Sé, báðu</li>
+      <li>DET-Fin: engi, fá, sá, eð, inna, minna, Meir, Nokkuru, Sé, báðu</li>
       <li>INTJ-Fin: Vei</li>
       <li>NOUN-Fin: vilja, mætti, leið, friðar, kosti, lifnaði, liði, miskunnar, skildi, kostar</li>
       <li>NUM-Fin: Xii, fjörutigi, iiii, iiijr, vii</li>
       <li>PRON-Fin: voru, sér, vorar, yðrar, yðrir, órar, hvör, sinna, yðra, vér</li>
-      <li>PROPN-Fin: Vali, sankti, Valdi, Maii, Majst, guði, Beljus, Belíus, Brúni, Guddu</li>
+      <li>PROPN-Fin: sankti, Valdi, Maii, Majst, guði, Beljus, Belíus, Brúni, Guddu, Gálu</li>
       <li>SCONJ-Fin: er, eð, eru, hvörri, hvört</li>
       <li>VERB-Fin: sagði, segir, kom, mælti, tók, varð, gekk, fór, hét, lét</li>
-      <li>X-Fin: Majst, Edimus, Item, Sicut, beati, nostra, nostri, patri, sankti, statuta</li>
+      <li>X-Fin: Majst, Edimus, Item, Sicut, beati, nostra, patri, statuta</li>
     </ul>
   </li>
 </ul>
@@ -1220,19 +1220,19 @@ abstract = "We describe the evaluation and development of a rule-based treebank 
       <li>Yes
         <ul>
           <li>ADJ: Vant, Aum, Darius, Heil, iiii, Besti, Gamall, Heili, Italiani, Ofanvert</li>
-          <li>ADP: fyr, of, umb, Und, intra, nema</li>
-          <li>ADV: ei, sicut, so, ogsvo, Mart, item, fraMe, nu, Allvel, Brott</li>
+          <li>ADP: fyr, of, umb, Und, intra, nema, um</li>
+          <li>ADV: ei, sicut, so, item, Mart, fraMe, nu, ogsvo, Allvel, Brott</li>
           <li>AUX: Vil, man, myni, Munu, Vilda, emk, er, hefir, hefoi</li>
           <li>CCONJ: oc, et</li>
-          <li>DET: in, þenna, engi, ina, inu, mart, enu, Allan, Alt, Eina</li>
+          <li>DET: engi, mart, enu, Allan, Alt, Eina, Eitthvert, Margs, Meir, alls</li>
           <li>INTJ: Hei, Jaaaá, hahaha, he, Vei, Bless, Blubbs, Eia, Hahahaha, O</li>
-          <li>NOUN: son, anno, dal, kap, Majestets, hold, hertug, leon, von, Lof</li>
+          <li>NOUN: son, anno, dal, kap, Majestets, hold, hertug, leon, von, altera</li>
           <li>NUM: ij, iij, iiij, iiii, xii, vii, ccc, ix, xi, xiii</li>
           <li>PRON: Oss, þaug, huer, þeira, Haun, Minn, Sitt, Soddan, Vor, Vort</li>
-          <li>PROPN: Erasmus, Metternich, Darius, Vali, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers</li>
+          <li>PROPN: Erasmus, Metternich, Darius, Dominus, Pelissier, Moyses, Menon, Petrus, Thiers, Georgíus</li>
           <li>PUNCT: —</li>
           <li>VERB: Bar, Gessovel, Vita, Komu, Tel, talt, Sest, Stend, Vil, do</li>
-          <li>X: anno, in, item, domini, et, Dominus, etc, de, Achior, corpus</li>
+          <li>X: anno, in, item, domini, et, Dominus, etc, sankti, de, sanktus</li>
         </ul>
       </li>
     </ul>
@@ -1257,58 +1257,58 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (44)</li>
+      <li>VERB--NOUN (42)</li>
       <li>VERB--NOUN-Acc (148)</li>
-      <li>VERB--NOUN-Dat (180)</li>
+      <li>VERB--NOUN-Dat (181)</li>
       <li>VERB--NOUN-Gen (15)</li>
-      <li>VERB--NOUN-Nom (1057)</li>
-      <li>VERB--PRON (68)</li>
-      <li>VERB--PRON-Acc (73)</li>
-      <li>VERB--PRON-Dat (226)</li>
+      <li>VERB--NOUN-Nom (1034)</li>
+      <li>VERB--PRON (27)</li>
+      <li>VERB--PRON-Acc (76)</li>
+      <li>VERB--PRON-Dat (228)</li>
       <li>VERB--PRON-Gen (11)</li>
-      <li>VERB--PRON-Nom (1770)</li>
+      <li>VERB--PRON-Nom (1782)</li>
       <li>VERB-Fin--NOUN (86)</li>
-      <li>VERB-Fin--NOUN-Acc (618)</li>
+      <li>VERB-Fin--NOUN-Acc (616)</li>
       <li>VERB-Fin--NOUN-Dat (545)</li>
       <li>VERB-Fin--NOUN-Gen (81)</li>
-      <li>VERB-Fin--NOUN-Nom (11820)</li>
-      <li>VERB-Fin--PRON (121)</li>
-      <li>VERB-Fin--PRON-Acc (828)</li>
-      <li>VERB-Fin--PRON-Dat (2281)</li>
+      <li>VERB-Fin--NOUN-Nom (11845)</li>
+      <li>VERB-Fin--PRON (62)</li>
+      <li>VERB-Fin--PRON-Acc (833)</li>
+      <li>VERB-Fin--PRON-Dat (2290)</li>
       <li>VERB-Fin--PRON-Gen (104)</li>
-      <li>VERB-Fin--PRON-Nom (27911)</li>
+      <li>VERB-Fin--PRON-Nom (27980)</li>
       <li>VERB-Fin--PRON-Nom-ADP(hjá) (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(til) (1)</li>
       <li>VERB-Inf--NOUN (23)</li>
-      <li>VERB-Inf--NOUN-Acc (536)</li>
+      <li>VERB-Inf--NOUN-Acc (535)</li>
       <li>VERB-Inf--NOUN-Dat (44)</li>
       <li>VERB-Inf--NOUN-Gen (29)</li>
       <li>VERB-Inf--NOUN-Nom (1188)</li>
-      <li>VERB-Inf--PRON (117)</li>
-      <li>VERB-Inf--PRON-Acc (538)</li>
-      <li>VERB-Inf--PRON-Dat (374)</li>
+      <li>VERB-Inf--PRON (89)</li>
+      <li>VERB-Inf--PRON-Acc (553)</li>
+      <li>VERB-Inf--PRON-Dat (375)</li>
       <li>VERB-Inf--PRON-Gen (14)</li>
-      <li>VERB-Inf--PRON-Nom (4710)</li>
-      <li>VERB-Part--NOUN (20)</li>
+      <li>VERB-Inf--PRON-Nom (4722)</li>
+      <li>VERB-Part--NOUN (19)</li>
       <li>VERB-Part--NOUN-Acc (108)</li>
       <li>VERB-Part--NOUN-Dat (280)</li>
       <li>VERB-Part--NOUN-Gen (35)</li>
-      <li>VERB-Part--NOUN-Nom (1614)</li>
-      <li>VERB-Part--PRON (21)</li>
+      <li>VERB-Part--NOUN-Nom (1615)</li>
+      <li>VERB-Part--PRON (5)</li>
       <li>VERB-Part--PRON-Acc (52)</li>
-      <li>VERB-Part--PRON-Dat (443)</li>
+      <li>VERB-Part--PRON-Dat (458)</li>
       <li>VERB-Part--PRON-Gen (56)</li>
-      <li>VERB-Part--PRON-Nom (1612)</li>
+      <li>VERB-Part--PRON-Nom (1613)</li>
       <li>VERB-Sup--NOUN (9)</li>
       <li>VERB-Sup--NOUN-Acc (65)</li>
       <li>VERB-Sup--NOUN-Dat (45)</li>
       <li>VERB-Sup--NOUN-Gen (10)</li>
       <li>VERB-Sup--NOUN-Nom (928)</li>
-      <li>VERB-Sup--PRON (9)</li>
+      <li>VERB-Sup--PRON (3)</li>
       <li>VERB-Sup--PRON-Acc (108)</li>
-      <li>VERB-Sup--PRON-Dat (190)</li>
+      <li>VERB-Sup--PRON-Dat (193)</li>
       <li>VERB-Sup--PRON-Gen (12)</li>
-      <li>VERB-Sup--PRON-Nom (3229)</li>
+      <li>VERB-Sup--PRON-Nom (3232)</li>
     </ul>
   </li>
 </ul>
@@ -1317,40 +1317,40 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (40)</li>
-      <li>VERB--NOUN-Acc (498)</li>
-      <li>VERB--NOUN-Dat (203)</li>
-      <li>VERB--NOUN-Gen (88)</li>
-      <li>VERB--NOUN-Nom (261)</li>
-      <li>VERB--PRON (35)</li>
-      <li>VERB--PRON-Acc (153)</li>
-      <li>VERB--PRON-Dat (88)</li>
+      <li>VERB--NOUN-Acc (496)</li>
+      <li>VERB--NOUN-Dat (202)</li>
+      <li>VERB--NOUN-Gen (85)</li>
+      <li>VERB--NOUN-Nom (256)</li>
+      <li>VERB--PRON (21)</li>
+      <li>VERB--PRON-Acc (160)</li>
+      <li>VERB--PRON-Dat (92)</li>
       <li>VERB--PRON-Gen (23)</li>
-      <li>VERB--PRON-Nom (149)</li>
-      <li>VERB-Fin--NOUN (161)</li>
-      <li>VERB-Fin--NOUN-Acc (9882)</li>
+      <li>VERB--PRON-Nom (146)</li>
+      <li>VERB-Fin--NOUN (156)</li>
+      <li>VERB-Fin--NOUN-Acc (9888)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(og) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(á) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (2040)</li>
+      <li>VERB-Fin--NOUN-Dat (2041)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(af) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(fyrir) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(með) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(í) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (638)</li>
-      <li>VERB-Fin--NOUN-Nom (1457)</li>
-      <li>VERB-Fin--PRON (354)</li>
-      <li>VERB-Fin--PRON-Acc (3677)</li>
-      <li>VERB-Fin--PRON-Dat (1502)</li>
-      <li>VERB-Fin--PRON-Gen (294)</li>
-      <li>VERB-Fin--PRON-Nom (1611)</li>
-      <li>VERB-Inf--NOUN (73)</li>
-      <li>VERB-Inf--NOUN-Acc (4702)</li>
-      <li>VERB-Inf--NOUN-Dat (1115)</li>
+      <li>VERB-Fin--NOUN-Gen (643)</li>
+      <li>VERB-Fin--NOUN-Nom (1460)</li>
+      <li>VERB-Fin--PRON (211)</li>
+      <li>VERB-Fin--PRON-Acc (3733)</li>
+      <li>VERB-Fin--PRON-Dat (1593)</li>
+      <li>VERB-Fin--PRON-Gen (295)</li>
+      <li>VERB-Fin--PRON-Nom (1612)</li>
+      <li>VERB-Inf--NOUN (70)</li>
+      <li>VERB-Inf--NOUN-Acc (4704)</li>
+      <li>VERB-Inf--NOUN-Dat (1116)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(í) (2)</li>
       <li>VERB-Inf--NOUN-Gen (388)</li>
       <li>VERB-Inf--NOUN-Nom (399)</li>
-      <li>VERB-Inf--PRON (89)</li>
-      <li>VERB-Inf--PRON-Acc (2127)</li>
-      <li>VERB-Inf--PRON-Dat (771)</li>
+      <li>VERB-Inf--PRON (47)</li>
+      <li>VERB-Inf--PRON-Acc (2142)</li>
+      <li>VERB-Inf--PRON-Dat (797)</li>
       <li>VERB-Inf--PRON-Dat-ADP(eftir) (1)</li>
       <li>VERB-Inf--PRON-Gen (198)</li>
       <li>VERB-Inf--PRON-Nom (362)</li>
@@ -1359,20 +1359,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat (63)</li>
       <li>VERB-Part--NOUN-Gen (20)</li>
       <li>VERB-Part--NOUN-Nom (158)</li>
-      <li>VERB-Part--PRON (13)</li>
-      <li>VERB-Part--PRON-Acc (55)</li>
+      <li>VERB-Part--PRON (12)</li>
+      <li>VERB-Part--PRON-Acc (56)</li>
       <li>VERB-Part--PRON-Dat (33)</li>
       <li>VERB-Part--PRON-Gen (12)</li>
       <li>VERB-Part--PRON-Nom (119)</li>
-      <li>VERB-Sup--NOUN (18)</li>
+      <li>VERB-Sup--NOUN (17)</li>
       <li>VERB-Sup--NOUN-Acc (1439)</li>
       <li>VERB-Sup--NOUN-Dat (315)</li>
       <li>VERB-Sup--NOUN-Dat-ADP(af) (2)</li>
       <li>VERB-Sup--NOUN-Gen (74)</li>
       <li>VERB-Sup--NOUN-Nom (153)</li>
-      <li>VERB-Sup--PRON (29)</li>
-      <li>VERB-Sup--PRON-Acc (677)</li>
-      <li>VERB-Sup--PRON-Dat (237)</li>
+      <li>VERB-Sup--PRON (13)</li>
+      <li>VERB-Sup--PRON-Acc (686)</li>
+      <li>VERB-Sup--PRON-Dat (244)</li>
       <li>VERB-Sup--PRON-Gen (37)</li>
       <li>VERB-Sup--PRON-Nom (206)</li>
     </ul>
@@ -1382,22 +1382,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN (2)</li>
       <li>VERB--NOUN-Acc (3)</li>
-      <li>VERB--NOUN-Dat (47)</li>
+      <li>VERB--NOUN-Dat (48)</li>
       <li>VERB--NOUN-Nom (5)</li>
-      <li>VERB--PRON (16)</li>
-      <li>VERB--PRON-Acc (15)</li>
-      <li>VERB--PRON-Dat (117)</li>
+      <li>VERB--PRON (15)</li>
+      <li>VERB--PRON-Acc (14)</li>
+      <li>VERB--PRON-Dat (118)</li>
       <li>VERB--PRON-Gen (2)</li>
       <li>VERB-Fin--NOUN (7)</li>
       <li>VERB-Fin--NOUN-Acc (88)</li>
       <li>VERB-Fin--NOUN-Dat (483)</li>
       <li>VERB-Fin--NOUN-Gen (17)</li>
       <li>VERB-Fin--NOUN-Nom (22)</li>
-      <li>VERB-Fin--PRON (33)</li>
-      <li>VERB-Fin--PRON-Acc (232)</li>
-      <li>VERB-Fin--PRON-Dat (2645)</li>
+      <li>VERB-Fin--PRON (29)</li>
+      <li>VERB-Fin--PRON-Acc (235)</li>
+      <li>VERB-Fin--PRON-Dat (2647)</li>
       <li>VERB-Fin--PRON-Gen (12)</li>
       <li>VERB-Fin--PRON-Nom (38)</li>
       <li>VERB-Inf--NOUN (5)</li>
@@ -1405,9 +1405,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat (230)</li>
       <li>VERB-Inf--NOUN-Gen (9)</li>
       <li>VERB-Inf--NOUN-Nom (4)</li>
-      <li>VERB-Inf--PRON (10)</li>
+      <li>VERB-Inf--PRON (7)</li>
       <li>VERB-Inf--PRON-Acc (72)</li>
-      <li>VERB-Inf--PRON-Dat (1278)</li>
+      <li>VERB-Inf--PRON-Dat (1281)</li>
       <li>VERB-Inf--PRON-Gen (10)</li>
       <li>VERB-Inf--PRON-Nom (11)</li>
       <li>VERB-Part--NOUN-Acc (2)</li>
@@ -1417,13 +1417,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Dat (70)</li>
       <li>VERB-Part--PRON-Gen (2)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
-      <li>VERB-Sup--NOUN (1)</li>
       <li>VERB-Sup--NOUN-Acc (8)</li>
       <li>VERB-Sup--NOUN-Dat (67)</li>
       <li>VERB-Sup--NOUN-Nom (1)</li>
-      <li>VERB-Sup--PRON (2)</li>
+      <li>VERB-Sup--PRON (1)</li>
       <li>VERB-Sup--PRON-Acc (34)</li>
-      <li>VERB-Sup--PRON-Dat (537)</li>
+      <li>VERB-Sup--PRON-Dat (539)</li>
       <li>VERB-Sup--PRON-Gen (3)</li>
       <li>VERB-Sup--PRON-Nom (4)</li>
     </ul>
@@ -1437,6 +1436,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

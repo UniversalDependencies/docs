@@ -85,7 +85,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2254; 70%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (1839; 59%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-aux.html">aux</a></tt>]--> AUX</tt> (1834; 59%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (715; 56%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (282; 54%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (104; 60%),

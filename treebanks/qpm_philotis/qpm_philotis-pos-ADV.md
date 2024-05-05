@@ -6,86 +6,86 @@ udver: '2'
 
 ## Treebank Statistics: UD_Pomak-Philotis: POS Tags: `ADV`
 
-There are 249 `ADV` lemmas (6%), 378 `ADV` types (3%) and 4336 `ADV` tokens (5%).
-Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 5 in number of types and 8 in number of tokens.
+There are 231 `ADV` lemmas (7%), 291 `ADV` types (4%) and 1666 `ADV` tokens (5%).
+Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>pak, po, itám, naj, azám, le, kadé, sétne, kak, játse</em>
+The 10 most frequent `ADV` lemmas: <em>po, pak, le, kadé, azám, itám, kak, játse, naj, kugána</em>
 
-The 10 most frequent `ADV` types:  <em>pák, pó, naj, azám, le, kadé, kak, sétne, itám, játse</em>
+The 10 most frequent `ADV` types:  <em>pó, pák, le, kadé, azám, kak, naj, itám, kugána, játse</em>
 
-The 10 most frequent ambiguous lemmas: <em>pak</em> (<tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 227, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 221), <em>po</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 186, <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 5, <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> 2), <em>málko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 59, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 19), <em>napréš</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 54, <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 4), <em>mlógo</em> (<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 104, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 38), <em>mífko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 30, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 17), <em>sæ</em> (<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> 38, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 25), <em>has</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 21, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 6), <em>véčer</em> (<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> 45, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 15), <em>báre</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 10, <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>po</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 84, <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 1, <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> 1), <em>pak</em> (<tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 90, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 77, <tt><a href="qpm_philotis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>kak</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 51, <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> 1), <em>kugána</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 45, <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1), <em>isǽ</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 40, <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> 1), <em>napréš</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 23, <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 3, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 1), <em>málko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 19, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 11), <em>sabáhlajin</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 18, <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> 1), <em>kákta</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 13, <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mífko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 13, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 6)
 
-The 10 most frequent ambiguous types:  <em>málko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 53, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 10), <em>napréš</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 54, <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 3), <em>mlógo</em> (<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 82, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 31), <em>mífko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 17, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 10), <em>has</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 18, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 6), <em>véčer</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 13, <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> 1), <em>báre</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 10, <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1), <em>dalí</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 8, <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> 5, <tt><a href="qpm_philotis-pos-CCONJ.html">CCONJ</a></tt> 2), <em>gajét</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 6, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 1), <em>ajnéj</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 5, <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>kugána</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 24, <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1), <em>napréš</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 23, <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 3), <em>málko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 17, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 6), <em>kákta</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 11, <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1), <em>mífko</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 6, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 5), <em>ártyk</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 12, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 2), <em>vrit</em> (<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> 25, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 11), <em>mlógo</em> (<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 37, <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 8), <em>has</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 7, <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 1), <em>sabályjin</em> (<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 7, <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* <em>málko</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 53: <em>Póhesebæjte <b>málko</b> i še razberéte , če som prav .</em>
-  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 10: <em>já ídij pó napréš da fátiš <b>málko</b> rýby , pak sétne še ídeš da aréš .</em>
+* <em>kugána</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 24: <em>2 . Ǧemalíje <b>kugána</b> zahápe snágana toj padrýpka</em>
+  * <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1: <em>– Znom , če itazí kanáta víkaš , za mókne čulǽka go víkaš , alá tí šom kazá ja tébe , <b>kugána</b> dójdeš na drúzišno .</em>
 * <em>napréš</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 54: <em>Kadé je býlo Mustáfčevo <b>napréš</b> ?</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 23: <em>Kadé je býlo Mustáfčevo <b>napréš</b> ?</em>
   * <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 3: <em>- Ja go vídeh <b>napréš</b> annók déne kak vlízašo prez dúpkono ad górnono zéme faf dólnoso .</em>
-* <em>mlógo</em>
-  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 82: <em>Itám so našlíli <b>mlógo</b> žýto .</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 31: <em>To je tórnalo paslét pítono i <b>mlógo</b> jé fírilo niz spúšanono gábarje .</em>
+* <em>málko</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 17: <em>Póhesebæjte <b>málko</b> i še razberéte , če som prav .</em>
+  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 6: <em>– Ej , dǽdo , jála <b>málko</b> itúzi !</em>
+* <em>kákta</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 11: <em>Jétse toj mí izrábati <b>kákta</b> da trébava .</em>
+  * <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Da búgün vrítsi znáhme óti dimarhíono za dímo Dimókritos ta je faf Ávdira alá búgün go premeního i dimarhíono še je faf Geniséa , <b>kákta</b> zátyn ištǽho i insánon .</em>
 * <em>mífko</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 17: <em>Atišlól sí je čulǽkon i <b>mífko</b> pó sétne je Ahmét pánnal , alá só je berekét ne udríl .</em>
-  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 10: <em>I izvádila je máštehana ad vezelóno <b>mífko</b> halkó da jí dadé .</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 6: <em>Žíne ímot ne platéno régmo umǿt da sí platǿt bórčene pa <b>mífko</b> i ne vrit na annó</em>
+  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 5: <em>I izvádila je máštehana ad vezelóno <b>mífko</b> halkó da jí dadé .</em>
+* <em>ártyk</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 12: <em>Hódi sí nó na kólko <b>ártyk</b> žanána , alá faf drúganek déne pák ájnisi .</em>
+  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 2: <em>Čakálon je umíral ódglade , alá je ne imǽl <b>ártyk</b> umúta .</em>
+* <em>vrit</em>
+  * <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> 25: <em>Áma pópune ad <b>vrit</b> afcéne enná ráda .</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 11: <em>- Kólkoto kópeløta só bého vdórapily , <b>vrit</b> ažyváho .</em>
+* <em>mlógo</em>
+  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 37: <em>Itám so našlíli <b>mlógo</b> žýto .</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 8: <em>To je tórnalo paslét pítono i <b>mlógo</b> jé fírilo niz spúšanono gábarje .</em>
 * <em>has</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 18: <em>Atpréš péšturane je rástal <b>has</b> adín gulǽm červén góram .</em>
-  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 6: <em>Nýje inazí právime faf nášoso <b>has</b> Pomácko gazéto .</em>
-* <em>véčer</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 13: <em>Žána rábati <b>véčer</b> pó mlógu iskárava .</em>
-  * <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> 1: <em>– " Kákta adín jásan <b>véčer</b></em>
-* <em>báre</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 10: <em>Imǽl sí je sýna i čákal go je da narasté , ta <b>báre</b> tóga da izučí .</em>
-  * <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> 1: <em>– Jála <b>báre</b> da kósneme rýbovo játce .</em>
-* <em>dalí</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 8: <em>Kúčeno jedé pak kóteno gļóda <b>dalí</b> še izléz pórsteņon .</em>
-  * <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> 5: <em>Fprígom annók syndýka za annóga játse jáka alá na znom <b>dalí</b> še go udaržý .</em>
-  * <tt><a href="qpm_philotis-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Akú ímaš nǽko da kázavaš - <b>dalí</b> bubájku ti , <b>dalí</b> brátu ti - kážyj go móne , pak ja še go kážom tæm .</em>
-* <em>gajét</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 6: <em>Momána só <b>gajét</b> fkísnala i stórila go mínisi .</em>
-  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 1: <em>Agá narástova dávot hi <b>gajét</b> líre i nóvy fustánove .</em>
-* <em>ajnéj</em>
-  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 5: <em>I Alláh gi <b>ajnéj</b> právi .</em>
-  * <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> 1: <em>Karakačéninon i pópan ne znájet či sa <b>ajnéj</b> tǿškyte .</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 7: <em>Atpréš péšturane je rástal <b>has</b> adín gulǽm červén góram .</em>
+  * <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> 3: <em>Stánal je katagá <b>has</b> karléš agá só zalepí nǽjde i na móža da só uvedé le inýj koláj .</em>
+  * <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> 1: <em>Alá na stánava da iskáravame annó gazéto , da jé víkame Pomácko gazéto pak da jé písavot ne Pomáci alá za da jé prekáravot vrítsi za <b>has</b> Pomácko gazéto da klávame atpréš annómu Pomáčinu ímeno i da víkame ta je toj géki písava .</em>
+* <em>sabályjin</em>
+  * <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> 7: <em>Faf Ǧumágün <b>sabályjin</b> še je faf Kavála , na pláden faf Dráma i pri akšám še dúmi faf Séres .</em>
+  * <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> 1: <em>Zatvóreny še so ad Panedélnik na 9 mesecáne da Sóboto na 21 mesecáne ad <b>sabályjin</b> da pláden žýne póteve zavót Néstu i Ému faf Ksánti .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.518072 (the average of all parts of speech is 2.731846).
+The form / lemma ratio of `ADV` is 1.259740 (the average of all parts of speech is 1.931467).
 
-The 1st highest number of forms (11) was observed with the lemma “itagáne”: <em>itagáne, itagýne, tagáni, tagás, tagís, tagýne, togás, togáva, tugána, tugás, tugáva</em>.
+The 1st highest number of forms (8) was observed with the lemma “itagáne”: <em>Tagás, Togás, itagáne, itagýne, tagís, togáva, tugána, tugáva</em>.
 
-The 2nd highest number of forms (10) was observed with the lemma “inýj”: <em>Ajní, Enékana, Ináj, ajnáj, ajnéj, ajníjkana, ajníkana, enýj, inéj, inýj</em>.
+The 2nd highest number of forms (8) was observed with the lemma “itám”: <em>'tam, 'tám, ajtám, ejtám, etám, itám, tam, tám</em>.
 
-The 3rd highest number of forms (10) was observed with the lemma “itúzi”: <em>Ajtú, ajtóvana, ajtúj, ajtús, ajtúva, etús, itúj, itúzi, tus, túzi</em>.
+The 3rd highest number of forms (7) was observed with the lemma “itúzi”: <em>Etús, ajtóvana, ajtús, itúj, itúzi, tus, ‘túzi</em>.
 
-`ADV` occurs with 4 features: <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt> (1410; 33% instances), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt> (1096; 25% instances), <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt> (430; 10% instances), <tt><a href="qpm_philotis-feat-Degree.html">Degree</a></tt> (348; 8% instances)
+`ADV` occurs with 4 features: <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt> (536; 32% instances), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt> (419; 25% instances), <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt> (165; 10% instances), <tt><a href="qpm_philotis-feat-Degree.html">Degree</a></tt> (137; 8% instances)
 
-`ADV` occurs with 12 feature-value pairs: `Degree=Cmp`, `Degree=Dim`, `Degree=Sup`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`, `PronType=Tot`
+`ADV` occurs with 11 feature-value pairs: `Degree=Cmp`, `Degree=Dim`, `Degree=Sup`, `Deixis=Prox`, `Deixis=Remt`, `DeixisRef=1`, `DeixisRef=2`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Rel`
 
-`ADV` occurs with 16 feature combinations.
-The most frequent feature combination is `_` (2529 tokens).
-Examples: <em>pák, azám, le, sétne, játse, jéšte, jálnys, húbbe, málko, napréš</em>
+`ADV` occurs with 18 feature combinations.
+The most frequent feature combination is `_` (961 tokens).
+Examples: <em>pák, le, azám, játse, jálnys, sétne, jéšte, napréš, húbbe, málko</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 2 different relations: <tt><a href="qpm_philotis-dep-advmod.html">advmod</a></tt> (4264; 98% instances), <tt><a href="qpm_philotis-dep-root.html">root</a></tt> (72; 2% instances)
+`ADV` nodes are attached to their parents using 22 different relations: <tt><a href="qpm_philotis-dep-advmod.html">advmod</a></tt> (1345; 81% instances), <tt><a href="qpm_philotis-dep-advmod-emph.html">advmod:emph</a></tt> (105; 6% instances), <tt><a href="qpm_philotis-dep-fixed.html">fixed</a></tt> (73; 4% instances), <tt><a href="qpm_philotis-dep-mark.html">mark</a></tt> (72; 4% instances), <tt><a href="qpm_philotis-dep-root.html">root</a></tt> (19; 1% instances), <tt><a href="qpm_philotis-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-dep-amod.html">amod</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-dep-obl-tmod.html">obl:tmod</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-dep-compound-redup.html">compound:redup</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-dep-obl-lmod.html">obl:lmod</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-dep-nmod-tmod.html">nmod:tmod</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (3032; 70% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (485; 11% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (373; 9% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (234; 5% instances),  (72; 2% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (34; 1% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (28; 1% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (25; 1% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1134; 68% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (154; 9% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (137; 8% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (92; 6% instances), <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> (66; 4% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (19; 1% instances),  (19; 1% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-X.html">X</a></tt> (1; 0% instances)
 
-3575 (82%) `ADV` nodes are leaves.
+1413 (85%) `ADV` nodes are leaves.
 
-509 (12%) `ADV` nodes have one child.
+182 (11%) `ADV` nodes have one child.
 
-119 (3%) `ADV` nodes have two children.
+38 (2%) `ADV` nodes have two children.
 
-133 (3%) `ADV` nodes have three or more children.
+33 (2%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 8.
+The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 23 different relations: <tt><a href="qpm_philotis-dep-advmod.html">advmod</a></tt> (440; 35% instances), <tt><a href="qpm_philotis-dep-punct.html">punct</a></tt> (259; 20% instances), <tt><a href="qpm_philotis-dep-case.html">case</a></tt> (176; 14% instances), <tt><a href="qpm_philotis-dep-aux.html">aux</a></tt> (110; 9% instances), <tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt> (62; 5% instances), <tt><a href="qpm_philotis-dep-obl.html">obl</a></tt> (39; 3% instances), <tt><a href="qpm_philotis-dep-cc.html">cc</a></tt> (32; 3% instances), <tt><a href="qpm_philotis-dep-conj.html">conj</a></tt> (30; 2% instances), <tt><a href="qpm_philotis-dep-dep.html">dep</a></tt> (27; 2% instances), <tt><a href="qpm_philotis-dep-det.html">det</a></tt> (24; 2% instances), <tt><a href="qpm_philotis-dep-discourse.html">discourse</a></tt> (14; 1% instances), <tt><a href="qpm_philotis-dep-mark.html">mark</a></tt> (12; 1% instances), <tt><a href="qpm_philotis-dep-advcl.html">advcl</a></tt> (10; 1% instances), <tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-dep-vocative.html">vocative</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-dep-iobj.html">iobj</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-dep-expl.html">expl</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-dep-amod.html">amod</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 30 different relations: <tt><a href="qpm_philotis-dep-advmod.html">advmod</a></tt> (127; 32% instances), <tt><a href="qpm_philotis-dep-punct.html">punct</a></tt> (60; 15% instances), <tt><a href="qpm_philotis-dep-case.html">case</a></tt> (32; 8% instances), <tt><a href="qpm_philotis-dep-fixed.html">fixed</a></tt> (23; 6% instances), <tt><a href="qpm_philotis-dep-advmod-emph.html">advmod:emph</a></tt> (20; 5% instances), <tt><a href="qpm_philotis-dep-aux.html">aux</a></tt> (20; 5% instances), <tt><a href="qpm_philotis-dep-det.html">det</a></tt> (14; 4% instances), <tt><a href="qpm_philotis-dep-conj.html">conj</a></tt> (12; 3% instances), <tt><a href="qpm_philotis-dep-cc.html">cc</a></tt> (11; 3% instances), <tt><a href="qpm_philotis-dep-nmod.html">nmod</a></tt> (7; 2% instances), <tt><a href="qpm_philotis-dep-obl.html">obl</a></tt> (7; 2% instances), <tt><a href="qpm_philotis-dep-dep.html">dep</a></tt> (6; 2% instances), <tt><a href="qpm_philotis-dep-nsubj.html">nsubj</a></tt> (6; 2% instances), <tt><a href="qpm_philotis-dep-csubj.html">csubj</a></tt> (5; 1% instances), <tt><a href="qpm_philotis-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-dep-compound.html">compound</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-dep-discourse.html">discourse</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-dep-mark.html">mark</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-dep-compound-redup.html">compound:redup</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-dep-nmod-tmod.html">nmod:tmod</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-dep-obl-lmod.html">obl:lmod</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-dep-acl.html">acl</a></tt> (2; 1% instances), <tt><a href="qpm_philotis-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="qpm_philotis-dep-obl-tmod.html">obl:tmod</a></tt> (2; 1% instances), <tt><a href="qpm_philotis-dep-aux-q.html">aux:q</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 15 different parts of speech: <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (373; 29% instances), <tt><a href="qpm_philotis-pos-PUNCT.html">PUNCT</a></tt> (259; 20% instances), <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> (176; 14% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (110; 9% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (110; 9% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (80; 6% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (43; 3% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (42; 3% instances), <tt><a href="qpm_philotis-pos-CCONJ.html">CCONJ</a></tt> (32; 3% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (19; 1% instances), <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> (12; 1% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (137; 35% instances), <tt><a href="qpm_philotis-pos-PUNCT.html">PUNCT</a></tt> (60; 15% instances), <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> (36; 9% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt> (35; 9% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (31; 8% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (30; 8% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (18; 5% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (13; 3% instances), <tt><a href="qpm_philotis-pos-CCONJ.html">CCONJ</a></tt> (11; 3% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="qpm_philotis-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

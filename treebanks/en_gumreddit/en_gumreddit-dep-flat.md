@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 8 9 flat	color:blue
 1	_	_	SCONJ	IN	_	3	mark	3:mark	Discourse=contingency-condition:33->34:1:dm-if-197|Lem=*LOWER*|Len=2
 2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(5-person-giv:inact-cf2-1-ana)|Lem=_|Len=3
-3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Cxn=Condition-Realistic|Lem=_|Len=3
+3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	Lem=_|Len=3
 4	_	_	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(41-object-new-cf1-3,6-coref|Lem=_|Len=1
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=8|MSeg=base-ball
 6	_	_	NOUN	NN	Number=Sing	3	obj	3:obj	Lem=_|Len=4
@@ -33,7 +33,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 9	_	_	PROPN	NNP	Number=Sing	8	flat	8:flat	Entity=42)41)|Lem=_|Len=4|SpaceAfter=No
 10	_	_	PUNCT	,	_	3	punct	3:punct	Lem=_|Len=1
 11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Discourse=explanation-justify:34->51:4:_|Lem=_|Len=5
-12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-There|Lem=be|Len=2
+12	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=2
 13	_	_	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Lem=_|Len=1
 14	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Lem=_|Len=6
 15	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	Discourse=elaboration-attribute:35->34:0:syn-mdf-210+syn-relcl-214|Entity=(41-object-giv:act-cf1-1-ana)|Lem=_|Len=2
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 18	_	_	ADV	RB	Degree=Pos	19	advmod	19:advmod	Lem=_|Len=8|MSeg=social-ly
 19	_	_	ADJ	JJ	Degree=Pos	12	acl	12:acl:that	Lem=_|Len=7|MSeg=awe-some|SpaceAfter=No
 20	_	_	PUNCT	,	_	21	punct	21:punct	Lem=_|Len=1
-21	_	_	ADJ	JJ	Degree=Pos	19	conj	12:acl:that|19:conj:and	Lem=_|Len=5|MSeg=funn-y
+21	_	_	ADJ	JJ	Degree=Pos	19	conj	12:acl:that|19:conj:but	Lem=_|Len=5|MSeg=funn-y
 22	_	_	CCONJ	CC	_	25	cc	25:cc	Lem=_|Len=3
 23	_	_	ADJ	JJ	Degree=Pos	25	amod	25:amod	Lem=_|Len=7
 24	_	_	DET	DT	Definite=Def|PronType=Art	25	det	25:det	Entity=(78-abstract-new-cf4-2-sgl|Lem=_|Len=3

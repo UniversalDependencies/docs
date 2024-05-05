@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Icelandic-Modern: POS Tags: `DET`
 
-There are 41 `DET` lemmas (1%), 206 `DET` types (2%) and 3703 `DET` tokens (5%).
+There are 41 `DET` lemmas (1%), 205 `DET` types (2%) and 3702 `DET` tokens (5%).
 Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>þessi, sá, allur, einhver, mikill, einn, enginn, hinn, margur, hver</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>það</em> (<tt><a href="is_modern-po
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.024390 (the average of all parts of speech is 1.734405).
+The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.734760).
 
 The 1st highest number of forms (20) was observed with the lemma “mikill”: <em>fl., meira, meiri, meiru, mest, mesta, mestan, mestu, mestum, mestur, mikil, mikill, mikilli, mikils, mikinn, mikið, mikla, miklar, miklu, miklum</em>.
 
@@ -66,7 +66,7 @@ The 2nd highest number of forms (17) was observed with the lemma “margur”: <
 
 The 3rd highest number of forms (15) was observed with the lemma “sá”: <em>sá, sú, þ., þann, þau, það, þeim, þeir, þeirra, þeirrar, þeirri, þess, því, þá, þær</em>.
 
-`DET` occurs with 7 features: <tt><a href="is_modern-feat-Case.html">Case</a></tt> (3691; 100% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (3489; 94% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (3487; 94% instances), <tt><a href="is_modern-feat-PronType.html">PronType</a></tt> (3060; 83% instances), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (381; 10% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (378; 10% instances), <tt><a href="is_modern-feat-NumType.html">NumType</a></tt> (10; 0% instances)
+`DET` occurs with 7 features: <tt><a href="is_modern-feat-Case.html">Case</a></tt> (3690; 100% instances), <tt><a href="is_modern-feat-Number.html">Number</a></tt> (3499; 95% instances), <tt><a href="is_modern-feat-Gender.html">Gender</a></tt> (3497; 94% instances), <tt><a href="is_modern-feat-PronType.html">PronType</a></tt> (3070; 83% instances), <tt><a href="is_modern-feat-Degree.html">Degree</a></tt> (381; 10% instances), <tt><a href="is_modern-feat-Definite.html">Definite</a></tt> (378; 10% instances), <tt><a href="is_modern-feat-NumType.html">NumType</a></tt> (10; 0% instances)
 
 `DET` occurs with 19 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`
 
@@ -77,11 +77,11 @@ Examples: <em>þetta, það, hitt, Þett</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 17 different relations: <tt><a href="is_modern-dep-det.html">det</a></tt> (1362; 37% instances), <tt><a href="is_modern-dep-amod.html">amod</a></tt> (827; 22% instances), <tt><a href="is_modern-dep-obl.html">obl</a></tt> (471; 13% instances), <tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt> (433; 12% instances), <tt><a href="is_modern-dep-obj.html">obj</a></tt> (251; 7% instances), <tt><a href="is_modern-dep-root.html">root</a></tt> (96; 3% instances), <tt><a href="is_modern-dep-conj.html">conj</a></tt> (74; 2% instances), <tt><a href="is_modern-dep-nmod-poss.html">nmod:poss</a></tt> (68; 2% instances), <tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt> (35; 1% instances), <tt><a href="is_modern-dep-advcl.html">advcl</a></tt> (29; 1% instances), <tt><a href="is_modern-dep-xcomp.html">xcomp</a></tt> (29; 1% instances), <tt><a href="is_modern-dep-appos.html">appos</a></tt> (8; 0% instances), <tt><a href="is_modern-dep-dep.html">dep</a></tt> (7; 0% instances), <tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="is_modern-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="is_modern-dep-iobj.html">iobj</a></tt> (3; 0% instances)
+`DET` nodes are attached to their parents using 17 different relations: <tt><a href="is_modern-dep-det.html">det</a></tt> (1361; 37% instances), <tt><a href="is_modern-dep-amod.html">amod</a></tt> (827; 22% instances), <tt><a href="is_modern-dep-obl.html">obl</a></tt> (471; 13% instances), <tt><a href="is_modern-dep-nsubj.html">nsubj</a></tt> (433; 12% instances), <tt><a href="is_modern-dep-obj.html">obj</a></tt> (251; 7% instances), <tt><a href="is_modern-dep-root.html">root</a></tt> (96; 3% instances), <tt><a href="is_modern-dep-conj.html">conj</a></tt> (74; 2% instances), <tt><a href="is_modern-dep-nmod-poss.html">nmod:poss</a></tt> (68; 2% instances), <tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt> (35; 1% instances), <tt><a href="is_modern-dep-advcl.html">advcl</a></tt> (29; 1% instances), <tt><a href="is_modern-dep-xcomp.html">xcomp</a></tt> (29; 1% instances), <tt><a href="is_modern-dep-appos.html">appos</a></tt> (8; 0% instances), <tt><a href="is_modern-dep-dep.html">dep</a></tt> (7; 0% instances), <tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="is_modern-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="is_modern-dep-iobj.html">iobj</a></tt> (3; 0% instances)
 
-Parents of `DET` nodes belong to 14 different parts of speech: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (2189; 59% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (874; 24% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (195; 5% instances),  (96; 3% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (91; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (79; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (76; 2% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (43; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (24; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 14 different parts of speech: <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (2189; 59% instances), <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (874; 24% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (195; 5% instances),  (96; 3% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (91; 2% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt> (79; 2% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt> (76; 2% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (43; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt> (23; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-2836 (77%) `DET` nodes are leaves.
+2835 (77%) `DET` nodes are leaves.
 
 395 (11%) `DET` nodes have one child.
 

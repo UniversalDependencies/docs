@@ -2345,24 +2345,25 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Acc (2044)</li>
+            <li>VERB--NOUN-Acc (2140)</li>
             <li>VERB--NOUN-Acc-ADP(إِزَاءَ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(بِ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(عَلَى) (1)</li>
             <li>VERB--NOUN-Acc-ADP(فِي) (3)</li>
+            <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
             <li>VERB--NOUN-Acc-ADP(مِن) (2)</li>
             <li>VERB--NOUN-Acc-ADP(وَ) (2)</li>
-            <li>VERB--NOUN-Nom (121)</li>
-            <li>VERB--PRON-Acc (661)</li>
+            <li>VERB--NOUN-Nom (131)</li>
+            <li>VERB--PRON-Acc (677)</li>
             <li>VERB--PRON-Nom (2)</li>
-            <li>VERB-Fin--NOUN-Acc (2706)</li>
+            <li>VERB-Fin--NOUN-Acc (2752)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(إِلَى) (3)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(بِ) (3)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(عَن) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(لَا) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(لِ) (2)</li>
             <li>VERB-Fin--NOUN-Nom (85)</li>
-            <li>VERB-Fin--PRON-Acc (662)</li>
+            <li>VERB-Fin--PRON-Acc (677)</li>
           </ul>
         </li>
       </ul>
@@ -2441,13 +2442,12 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-Acc (122)</li>
-            <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
-            <li>VERB--NOUN-Nom (21)</li>
-            <li>VERB--PRON-Acc (31)</li>
-            <li>VERB-Fin--NOUN-Acc (57)</li>
+            <li>VERB--NOUN-Acc (26)</li>
+            <li>VERB--NOUN-Nom (11)</li>
+            <li>VERB--PRON-Acc (15)</li>
+            <li>VERB-Fin--NOUN-Acc (11)</li>
             <li>VERB-Fin--NOUN-Nom (2)</li>
-            <li>VERB-Fin--PRON-Acc (25)</li>
+            <li>VERB-Fin--PRON-Acc (10)</li>
           </ul>
         </li>
       </ul>

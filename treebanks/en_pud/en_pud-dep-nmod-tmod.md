@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
 3	9th	9th	ADJ	JJ	Degree=Pos|NumForm=Combi|NumType=Ord	4	amod	4:amod	_
 4	century	century	NOUN	NN	Number=Sing	11	obl	11:obl:from	_
-5	BC	BC	NOUN	NNP	Number=Sing	4	nmod:tmod	4:nmod:tmod	SpaceAfter=No
+5	BC	BC	NOUN	NNP	Abbr=Yes|Number=Sing	4	nmod:tmod	4:nmod:tmod	SpaceAfter=No
 6	,	,	PUNCT	,	_	11	punct	11:punct	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 8	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	10	amod	10:amod	_

@@ -65,7 +65,7 @@ The following 19 pairs of parts of speech are connected with `flat`: <tt><a href
 18	”	”	PUNCT	Pu	_	10	punct	_	SpaceAfter=No
 19	,	,	PUNCT	Pu	_	6	punct	_	_
 20	intelligit	intelligo	VERB	va3ips3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj:expl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-21	circumloqui	circumloquor	VERB	vd3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	20	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+21	circumloqui	circumloquor	VERB	vd3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	20	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 22	Paradisum	paradisus	NOUN	sms2a	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Geo|Number=Sing	21	obj	_	SpaceAfter=No
 23	,	,	PUNCT	Pu	_	25	punct	_	_
 24	sive	siue	CCONJ	co	_	25	cc	_	_
@@ -91,7 +91,7 @@ The following 19 pairs of parts of speech are connected with `flat`: <tt><a href
 7	auctoritas	auctoritas	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	9	nsubj	_	_
 8	Ecclesie	ecclesia	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|NameType=Com|Number=Sing|Proper=Yes	7	nmod	_	_
 9	probaretur	probo	VERB	vp1cis3	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
-10	dependere	dependeo	VERB	va2fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+10	dependere	dependeo	VERB	va2fp	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 11	ab	ab	ADP	e	_	12	case	_	_
 12	Imperatore	imperator	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	10	obl	_	SpaceAfter=No
 13	,	,	PUNCT	Pu	_	19	punct	_	_

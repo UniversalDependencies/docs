@@ -32,7 +32,7 @@ The 2nd highest number of forms (1) was observed with the lemma “отноше�
 
 ## Relations
 
-`X` nodes are attached to their parents using 2 different relations: <tt><a href="kpv_ikdp-dep-flat-foreign.html">flat:foreign</a></tt> (1; 50% instances), <tt><a href="kpv_ikdp-dep-nmod-appos.html">nmod:appos</a></tt> (1; 50% instances)
+`X` nodes are attached to their parents using 2 different relations: <tt><a href="kpv_ikdp-dep-compound-nn.html">compound:nn</a></tt> (1; 50% instances), <tt><a href="kpv_ikdp-dep-flat-foreign.html">flat:foreign</a></tt> (1; 50% instances)
 
 Parents of `X` nodes belong to 2 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="kpv_ikdp-pos-X.html">X</a></tt> (1; 50% instances)
 

@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	тадз	тадзи	ADV	Adv	AdvType=Man	7	conj	_	GTtags=Manner|SpaceAfter=No
 10	,	,	PUNCT	PUNCT	_	12	punct	_	_
 11	мый	мый	SCONJ	CS	_	12	mark	_	_
-12	куимнан	куимнан	PRON	Pron	Case=Nom|Number=Sing	2	conj	_	GTtags=AssocColl,Sg,Nom
+12	куимнан	куимнан	PRON	Pron	Case=Nom|Number=Sing|NumType=Sets	2	conj	_	GTtags=AssocColl,Sg,Nom
 13	войтырыс	войтыр	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Sg,Nom,PxSg3|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	15	punct	_	_
 15	ӧ	ӧ	INTJ	Interj	_	17	discourse	_	SpaceAfter=No
@@ -77,7 +77,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	сыа	сійӧ	PRON	Pron	PronType=Dem	7	det	_	GTtags=Err/Dial,Dem
 7	тема	тема	NOUN	N	Case=Nom|Number=Sing	2	appos	_	GTtags=Sg,Nom
 8	кузяыс	кузя	ADP	Adp	AdpType=Post|Number[psor]=Sing|Person[psor]=3	7	case	_	GTtags=Po,PxSg3
-9	водзе	водзӧ	ADV	Adv	_	10	advmod:lto	_	GTtags=Err/Dial
+9	водзе	водзӧ	ADV	Adv	_	10	advmod:lmod	_	GTtags=Err/Dial
 10	мунны	мунны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
 12	научнэй	научнӧй	ADJ	A	Case=Nom|Number=Sing	13	amod	_	GTtags=Err/Dial,Sg,Nom

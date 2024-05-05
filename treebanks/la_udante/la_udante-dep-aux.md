@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	venandum	uenor	VERB	vd1fga	Aspect=Prosp|Case=Acc|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	8	advcl	_	TraditionalMood=Gerundium
 5	veritatem	ueritas	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	4	obj	_	_
 6	quesiti	quaesitum	NOUN	sns2g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	5	nmod	_	_
-7	scire	scio	VERB	va4fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	scire	scio	VERB	va4fp	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	oportet	oportet	VERB	va2*ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	quod	quod	SCONJ	cs	PronType=Rel	17	mark	_	_
 10	divinum	diuinus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	11	amod	_	_
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	huius	hic	DET	dpnsg	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	4	det	_	_
 4	operis	opus	NOUN	sns3g	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	2	nmod	_	_
 5	propositum	propositum	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	_
-6	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+6	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 7	de	de	ADP	e	_	9	case	_	_
 8	tribus	tres	NUM	aufpb	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
 9	questionibus	quaestio	NOUN	sfp3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur	15	obl	_	SpaceAfter=No
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 12	materia	materia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	13	nsubj	_	_
 13	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 14	,	,	PUNCT	Pu	_	13	punct	_	_
-15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	;	;	PUNCT	Pu	_	20	punct	_	_
 17	de	de	ADP	e	_	20	case	_	_
 18	quarum	qui	PRON	prepfg	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	20	nmod	_	_

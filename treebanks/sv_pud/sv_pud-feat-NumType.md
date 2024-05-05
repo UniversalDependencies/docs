@@ -9,10 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-7 tokens (0%) have a non-empty value of `NumType`.
-7 types (0%) occur at least once with a non-empty value of `NumType`.
-7 lemmas (0%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+53 tokens (0%) have a non-empty value of `NumType`.
+17 types (0%) occur at least once with a non-empty value of `NumType`.
+15 lemmas (0%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (47; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances).
+
+### `ADJ`
+
+47 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (46; 98%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (46; 98%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (45; 96%).
+
+`ADJ` tokens may have the following values of `NumType`:
+
+* `Ord` (47; 100% of non-empty `NumType`): <em>första, andra, tredje, 3, 4, 45:e, First, fjärde, sextonde</em>
+* `EMPTY` (1522): <em>nya, andra, många, flera, stora, stor, hela, senaste, samma, sista</em>
 
 ### `NUM`
 
@@ -24,15 +35,4 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 * `Card` (6; 100% of non-empty `NumType`): <em>I, IV, V, VI, X, en</em>
 * `EMPTY` (396): <em>två, tre, 1, fyra, sex, 10, tio, 000, 2014, 2015</em>
-
-### `ADJ`
-
-1 <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
-
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`ADJ` tokens may have the following values of `NumType`:
-
-* `Ord` (1; 100% of non-empty `NumType`): <em>First</em>
-* `EMPTY` (1559): <em>andra, första, nya, många, flera, stora, stor, hela, senaste, sista</em>
 

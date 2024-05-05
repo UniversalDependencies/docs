@@ -65,13 +65,13 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 16	ⲁ	ⲁ	AUX	APST	_	18	aux	_	_
 17	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	_
 18	ϫⲛⲟⲩ	ϫⲛⲟⲩ	VERB	V	VerbForm=Fin	3	conj	_	_
-19	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	18	obj	_	_
+19	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	18	expl	_	_
 20	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	23	mark	_	_
 21	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	23	mark	_	_
 22	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	23	nsubj	_	_
 23	ϣⲁϫⲉ	ϣⲁϫⲉ	VERB	V	VerbForm=Fin	18	ccomp	_	_
 24	ⲙⲛ	ⲙⲛ	ADP	PREP	_	26	case	_	_
-25	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	26	det	_	_
+25	ⲛⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	26	nmod:poss	_	_
 26	ⲉⲣⲏⲩ	ⲉⲣⲏⲩ	NOUN	N	PronType=Rcp	23	obl	_	_
 27	ϩⲛ	ϩⲛ	ADP	PREP	_	29	case	_	_
 28	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	Entity=(place
@@ -92,8 +92,8 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 1	ⲱ	ⲱ	PART	PTC	Foreign=Yes	3	discourse	_	Orig=Ⲱ̅|OrigLang=grc
 2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person
 3	ⲛⲁⲏⲧ	ⲛⲁⲏⲧ	NOUN	N	_	0	root	_	Orig=ⲛⲁⲏⲧ`
-4	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	ADV	IMOD	_	3	advmod	_	_
-5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
+4	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	NOUN	IMOD	_	3	obl:npmod	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 6	·	·	PUNCT	PUNCT	_	9	punct	_	_
 7	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	9	cc	_	_
 8	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_

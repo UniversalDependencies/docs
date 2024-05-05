@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-LinES: POS Tags: `INTJ`
 
 There are 48 `INTJ` lemmas (0%), 49 `INTJ` types (0%) and 197 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 9 in number of lemmas, 9 in number of types and 15 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 8 in number of lemmas, 9 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ja, nej, nåja, jaså, vad, å, jo, tack, tja, Huj</em>
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>nej</em> (<tt><a href="sv_lines-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.020833 (the average of all parts of speech is 1.416904).
+The form / lemma ratio of `INTJ` is 1.020833 (the average of all parts of speech is 1.414549).
 
 The 1st highest number of forms (2) was observed with the lemma “tack”: <em>T-tack, tack</em>.
 

@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux	color:blue
 1	On	on	ADP	IN	_	2	case	2:case	Discourse=joint-list_m:59->58:0:_|XML=<hi rend:::"italic">
-2	Wednesday	Wednesday	PROPN	NNP	Number=Sing	7	obl	7:obl:on	Entity=(83-time-acc:com-cf2-1-sgl
+2	Wednesday	Wednesday	PROPN	NNP	Number=Sing	7	obl	7:obl:on	Entity=(83-time-acc:com-cf2-1-sgl|MSeg=Wednes-day
 3	next	next	ADJ	JJ	Degree=Pos	2	amod	2:amod	Entity=83)|SpaceAfter=No
 4	,	,	PUNCT	,	_	2	punct	2:punct	_
 5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	Entity=(84-person-acc:com-cf1-1-sgl)
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	fgColor:white
 # visual-style 10 8 aux	color:blue
 1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=organization-preparation:78->79:2:_
-2	completing	complete	VERB	VBG	VerbForm=Ger	10	advcl	10:advcl:after	MSeg=complet-ing
+2	completing	complete	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl:after	MSeg=complet-ing
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	Entity=(1-abstract-giv:act-cf1*-2-coref
 4	course	course	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=1)|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_

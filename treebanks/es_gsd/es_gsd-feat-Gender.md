@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-158449 tokens (37%) have a non-empty value of `Gender`.
+158456 tokens (37%) have a non-empty value of `Gender`.
 20675 types (45%) occur at least once with a non-empty value of `Gender`.
 14605 lemmas (41%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (70436; 16% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (56083; 13% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (15416; 4% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (7455; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4448; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3419; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (523; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (338; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (209; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (122; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (70444; 16% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (56083; 13% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (15416; 4% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (7454; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4448; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3419; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (523; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (338; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (209; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (122; 0% instances).
 
 ### `NOUN`
 
-70436 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Gender`.
+70444 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (91% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50615; 72%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (50623; 72%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (32927; 47% of non-empty `Gender`): <em>parte, población, ciudad, personas, familia, vez, forma, vida, agua, región</em>
+* `Fem` (32935; 47% of non-empty `Gender`): <em>parte, población, ciudad, personas, familia, vez, forma, vida, agua, región</em>
 * `Masc` (37509; 53% of non-empty `Gender`): <em>años, año, municipio, nombre, lugar, equipo, tiempo, estado, grupo, país</em>
-* `EMPTY` (7130): <em>habitantes, km, Estado, base, euros, frente, Gobierno, Oficina, mar, arte</em>
+* `EMPTY` (7115): <em>habitantes, km, Estado, base, euros, frente, Gobierno, Oficina, mar, arte</em>
 
 <table>
   <tr><th>Paradigm <i>parte</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>partes</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (8767) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (8768) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -76,15 +76,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-7455 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (21% of all `VERB` tokens) have a non-empty value of `Gender`.
+7454 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7455; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7453; 100%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6787; 91%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5993; 80%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4378; 59%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7454; 100%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7452; 100%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6787; 91%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5992; 80%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4377; 59%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (2275; 31% of non-empty `Gender`): <em>situada, conocida, ubicada, llamada, dirigida, fundada, publicada, realizada, construida, creada</em>
+* `Fem` (2274; 31% of non-empty `Gender`): <em>situada, conocida, ubicada, llamada, dirigida, fundada, publicada, realizada, construida, creada</em>
 * `Masc` (5180; 69% of non-empty `Gender`): <em>ubicado, conocido, debido, llamado, hecho, nacido, dado, compuesto, tenido, lanzado</em>
-* `EMPTY` (28904): <em>tiene, es, encuentra, hay, hacer, hace, tenía, tienen, era, fue</em>
+* `EMPTY` (28911): <em>tiene, es, encuentra, hay, hacer, hace, tenía, tienen, era, fue</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -201,7 +201,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 * `Fem` (36; 30% of non-empty `Gender`): <em>h, $, &, m, €, +, http://redsismica.uprm.edu/spanish/informacion/terr1918.php, http://www.rumbo.es/disney/</em>
 * `Masc` (86; 70% of non-empty `Gender`): <em>km, cm, $, &, m, #, º, mundo.com, www.delnuevo, www.dgt.es</em>
-* `EMPTY` (1540): <em>%, ², km, º, $, °, €, a, ª, /</em>
+* `EMPTY` (1539): <em>%, ², km, º, $, °, €, ª, /, a</em>
 
 <table>
   <tr><th>Paradigm <i>$</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

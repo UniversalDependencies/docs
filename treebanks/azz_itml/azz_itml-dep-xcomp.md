@@ -26,8 +26,8 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	achi	achi	ADV	_	_	3	advmod	3:advmod	NormalizedForm=achi
 3	uejka	huejka	ADV	_	_	5	advcl	5:advcl	NormalizedForm=wehka
 4	ya	ya	ADV	_	_	3	advmod	3:advmod	NormalizedForm=ya
-5	peua	pehua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	NormalizedForm=pewa
-6	xochiyoua	xochiyohua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	5	xcomp	5:xcomp	NormalizedForm=xochiyowa|SpaceAfter=No
+5	peua	pehua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=pewa
+6	xochiyoua	xochiyohua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	5	xcomp	5:xcomp	NormalizedForm=xochiyowa|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.
 
 ~~~
@@ -40,10 +40,10 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 xcomp	color:blue
 1	Iujki	iuki	ADV	_	_	2	advmod	2:advmod	NormalizedForm=Iuki
-2	kitokaytiaj	tokaytia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kitokaitiah
+2	kitokaytiaj	tokaytia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kitokaitiah
 3	por	por	ADP	_	_	5	mark	5:mark	NormalizedForm=por
 4	in	in	DET	_	_	3	fixed	3:fixed	NormalizedForm=in
-5	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	2:advcl	NormalizedForm=mochiwa|Reflexive[obj]=Yes
+5	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	NormalizedForm=mochiwa|Reflexive[obj]=Yes
 6	uejueyi	huejhuei	ADJ	_	_	5	xcomp	5:xcomp	NormalizedForm=wehweyi
 7	in	in	DET	_	_	8	det	8:det	NormalizedForm=in
 8	itakka	takka	NOUN	_	Number[psor]=Sing|Person[psor]=3	5	nsubj	5:nsubj	NormalizedForm=itakka|SpaceAfter=No

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1902 nodes (2%) are attached to their parents as `amod`.
+738 nodes (2%) are attached to their parents as `amod`.
 
-1833 instances of `amod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24553101997897.
+701 instances of `amod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19376693766938.
 
-The following 22 pairs of parts of speech are connected with `amod`: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1600; 84% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (169; 9% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (24; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (16; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `amod`: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (598; 81% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (62; 8% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (13; 2% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,26 +59,19 @@ The following 22 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 7 amod	color:blue
-1	I	i	CCONJ	_	_	2	cc	_	_
-2	zøl	zǿmom	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-3	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	_
-4	da	da	AUX	_	_	5	aux	_	_
-5	spi	spøm	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	xcomp	_	_
-6	sas	sas	ADP	_	_	14	case	_	_
-7	mládehne	mlad	ADJ	_	Animacy=Hum|Case=Acc|Definite=Def|Deixis=Remt|Gender=Masc|Number=Plur	14	amod	_	_
-8	nannó	nannó	ADV	_	_	14	advmod	_	_
-9	i	i	CCONJ	_	_	14	cc	_	_
-10	adín	adín	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
-11	šaršáf	šaršáf	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	14	nsubj	_	_
-12	gi	ja	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	_
-13	je	som	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	_	_
-14	delíl	délem	VERB	_	Aspect=Imp|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	iobj	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 amod	color:blue
+1	Ty	ja	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	dislocated	_	_
+2	mí	ja	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	det	_	_
+3	póparij	póparij	NOUN	_	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	4	amod	_	_
+4	kepéka	kepék	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+5	i	i	CCONJ	_	_	6	cc	_	_
+6	náhranij	náhranem	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	4	conj	_	_
+7	gi	ja	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

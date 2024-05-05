@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="ht_autogramm-dep-ac
 123 nodes (4%) are attached to their parents as `acl:relcl`.
 
 123 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.00813008130081.
+Average distance between parent and child is 4.03252032520325.
 
-The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (99; 80% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (12; 10% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (98; 80% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (13; 11% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="ht_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,16 +22,16 @@ The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 acl:relcl	color:blue
-1	Pawòl	Pawòl	NOUN	_	_	6	nsubj	_	Gloss=parole
-2	li	li	DET	_	Number=Sing|Person=3|Poss=Yes	1	det	_	Gloss=3SG
-3	yo	yo	DET	_	Number=Plur|Person=3|Poss=Yes	1	det	_	Gloss=3PL
+1	Pawòl	pawòl	NOUN	_	_	6	nsubj	_	Gloss=parole
+2	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	1	nmod	_	Gloss=3SG
+3	yo	yo	DET	_	Number=Plur|PronType=Art	1	det	_	Gloss=les
 4	t	te	AUX	_	Tense=Past	6	aux	_	Gloss=PAST
 5	ap	ap	AUX	_	Aspect=Prog	6	aux	_	Gloss=PROG
 6	repete	repete	VERB	_	_	0	root	_	Gloss=répéter, remonter
 7	nan	nan	ADP	_	_	8	case	_	Gloss=dans
 8	tèt	tèt	NOUN	_	_	6	obl	_	Gloss=tête
-9	mwen	mwen	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	8	det	_	Gloss=DET
-10	chak	chak	DET	_	_	11	det	_	Gloss=chaque
+9	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nmod	_	Gloss=1SG
+10	chak	chak	DET	_	Number=Sing	11	det	_	Gloss=chaque
 11	fwa	fwa	NOUN	_	_	6	obl:mod	_	Gloss=fois
 12	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	Gloss=1SG
 13	gade	gade	VERB	_	_	11	acl:relcl	_	Gloss=regarder
@@ -52,16 +52,16 @@ The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 3	pa	pa	ADV	_	Polarity=Neg	5	advmod	_	Gloss=NEG
 4	janm	janm	ADV	_	_	5	advmod	_	Gloss=jamais
 5	konnen	konnen	VERB	_	_	0	root	_	Gloss=savoir
-6	sa	sa	PRON	_	Number=Sing|PronType=Dem	5	obj	_	_
-7	k	ki	PRON	_	_	9	nsubj	_	Gloss=qui
+6	sa	sa	PRON	_	Number=Sing|PronType=Dem	5	obj	_	Gloss=ça
+7	k	ki	PRON	_	PronType=Rel	9	nsubj	_	Gloss=qui
 8	ap	ap	AUX	_	Aspect=Prog	9	aux	_	Gloss=PROG
 9	vin	vini	VERB	_	_	6	acl:relcl	_	Gloss=venir
 10	dèyè	dèyè	ADP	_	_	11	case	_	Gloss=après, derrière
 11	envitasyon	envitasyon	NOUN	_	_	9	obl	_	Gloss=invitation
-12	sa	sa	DET	_	PronType=Dem	11	det	_	Gloss=cette
+12	sa	sa	DET	_	PronType=Dem	11	det	_	Gloss=cet
 13	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Gloss=1SG
 14	rate	rate	VERB	_	_	11	acl:relcl	_	Gloss=rater
-15	a	a	DET	_	Definite=Ind|Number=Sing	14	det	_	Gloss=DET|SpaceAfter=No
+15	a	la	DET	_	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Gloss=le|SpaceAfter=No
 16	..."	..."	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -78,14 +78,14 @@ The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 3	t	te	AUX	_	Tense=Past	4	aux	_	Gloss=PAST
 4	lòt	lòt	ADJ	_	_	0	root	_	Gloss=autre
 5	ke	ke	SCONJ	_	_	7	case	_	Gloss=que
-6	yon	yon	DET	_	Definite=Ind|Number=Sing	7	det	_	Gloss=un
-7	enkoni	enkoni	NOUN	_	_	4	obj	_	Gloss=inconnu
-8	ki	ki	PRON	_	_	12	nsubj	_	Gloss=qui
+6	yon	yon	DET	_	Definite=Ind|Number=Sing|PronType=Art	7	det	_	Gloss=un
+7	enkoni	enkoni	NOUN	_	_	4	obl:arg	_	Gloss=inconnu
+8	ki	ki	PRON	_	PronType=Rel	12	nsubj	_	Gloss=qui
 9	te	te	AUX	_	Tense=Past	12	aux	_	Gloss=PAST
 10	nan	nan	ADP	_	_	12	case	_	Gloss=dans
 11	dezyèm	dezyèm	ADJ	_	_	12	amod	_	Gloss=deuxième
 12	ane	ane	NOUN	_	_	7	acl:relcl	_	Gloss=année
-13	a	a	DET	_	Definite=Def|Number=Sing	12	det	_	Gloss=DET|SpaceAfter=No
+13	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	Gloss=le|SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

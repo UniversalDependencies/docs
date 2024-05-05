@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 1097 <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (626; 57%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (626; 57%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (619; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 

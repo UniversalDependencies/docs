@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (4%) are attached to their parents as `obj`.
+69 nodes (4%) are attached to their parents as `obj`.
 
-44 instances of `obj` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.31818181818182.
+47 instances of `obj` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39130434782609.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (64; 97% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (67; 97% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Ti'ra	'ra	NOUN	n	Person=3	3	obj	_	son,daughter;filho,filha
 2	tete	te	AUX	aux	Number=Sing|Person=3	3	aux	_	_
 3	tsabu	tsabu	VERB	v	_	6	advcl	_	see,take.care.of;ver,enxergar,olhar,cuidar
-4	da	da	SCONJ	sconj	_	3	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+4	da	da	ADP	posp	_	3	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 5	ma	ma	PART	prcl	Htp=Yes|Tense=Past	6	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
 6	wei	we	X	x	_	0	root	_	hither;para.cá
 7	wi	wi	ADP	posp	_	6	obl	_	far.from;longe.de

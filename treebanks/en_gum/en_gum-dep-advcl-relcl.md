@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-advcl.html">advcl</a></tt>.
 
-222 nodes (0%) are attached to their parents as `advcl:relcl`.
+271 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-222 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.53603603603604.
+271 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.5719557195572.
 
-The following 15 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (140; 63% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (24; 11% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (13; 6% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (8; 4% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (170; 63% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (27; 10% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (16; 6% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (12; 4% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 advcl:relcl	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:65->66:0:sem-atsrc-344+lex-indwd-345|Entity=(10-person-giv:inact-cf1-1-ana)
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:65->66:0:sem-atsrc-344+lex-indwd-345|Entity=(9-person-giv:inact-cf1-1-ana)
 2	know	know	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	how	how	ADV	WRB	PronType=Rel	2	obj	2:obj	Discourse=evaluation-comment:66->64:0:_
 4	that	that	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	5:nsubj	_
@@ -58,24 +58,24 @@ The following 15 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 ~~~ conllu
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 advcl:relcl	color:blue
-1	No	no	INTJ	UH	Polarity=Neg	5	discourse	5:discourse	Discourse=restatement-repetition_m:150->148:0:sem-synym-828,843-854+sem-lxchn-839,845|SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	1:punct	_
-3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(80-person-giv:act-cf1*-3-coref
-4	random	random	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
-5	guy	guy	NOUN	NN	Number=Sing	0	root	0:root|10:obl	SpaceAfter=No
-6	,	,	PUNCT	,	_	10	punct	10:punct	_
-7	who	who	PRON	WP	PronType=Rel	10	nsubj	5:ref	Discourse=elaboration-attribute:151->150:0:syn-mdf-845+syn-relcl-847,850,852,854
-8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	10:aux	_
-9	like	like	INTJ	UH	_	10	discourse	10:discourse	_
-10	sitting	sit	VERB	VBG	Tense=Pres|VerbForm=Part	5	acl:relcl	5:acl:relcl	MSeg=sitt-ing
-11	about	about	ADV	RB	_	12	advmod	12:advmod	Discourse=context-circumstance:152->151:0:_
-12	where	where	ADV	WRB	PronType=Rel	10	advmod	5:ref|10:advmod	Entity=(81-place-acc:com-cf3-1-coref
-13	you	you	PRON	PRP	Case=Nom|Number=Plur|Person=2|PronType=Prs	14	nsubj	14:nsubj	Entity=(33-person-giv:inact-cf2-1-ana)
-14	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	12	advcl:relcl	12:advcl:relcl	Entity=81)80)|SpaceAfter=No
-15	.	.	PUNCT	.	_	5	punct	5:punct	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 14 advcl:relcl	color:blue
+1	When	when	ADV	WRB	PronType=Int	3	advmod	3:advmod	Discourse=context-circumstance:45->46:0:dm-when-325
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	Entity=(1-person-giv:act-cf1*-1-ana)
+3	ate	eat	VERB	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	advcl	8:advcl:when	SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	8:nsubj	Discourse=joint-list_m:46->40:2:_|Entity=(1-person-giv:act-cf1*-1-ana)
+6	did	do	AUX	VBD	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	8	aux	8:aux	_
+7	not	not	PART	RB	Polarity=Neg	8	advmod	8:advmod	_
+8	know	know	VERB	VB	VerbForm=Inf	0	root	0:root	_
+9	when	when	ADV	WRB	PronType=Rel	8	obj	8:obj	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(57-time-acc:com-cf2-3-sgl
+11	next	next	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	time	time	NOUN	NN	Number=Sing	14	nsubj	14:nsubj	Entity=57)
+13	would	would	AUX	MD	VerbForm=Fin	14	aux	14:aux	_
+14	be	be	AUX	VB	VerbForm=Inf	9	advcl:relcl	9:advcl:relcl	SpaceAfter=No
+15	.	.	PUNCT	.	_	8	punct	8:punct	_
 
 ~~~
 

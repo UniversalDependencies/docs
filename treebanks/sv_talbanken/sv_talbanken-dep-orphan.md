@@ -90,13 +90,13 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 18	lycklig	lycklig	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	15	xcomp	15:xcomp	SpaceAfter=No
 19	,	,	PUNCT	MID	_	20	punct	20:punct	_
 20	barnen	barn	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	15	conj	19.1:obj|21:nsubj	Enhanced=obj
-21	välskötta	välskött	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	20	orphan	19.1:xcomp	Enhanced=xcomp
+21	välskötta	välskött	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	20	orphan	19.1:xcomp	Enhanced=xcomp
 22	och	och	CCONJ	KN	_	23	cc	22.1:cc	_
 23	hemmet	hem	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	15	conj	22.1:obj|24:nsubj	Enhanced=obj
 24	trivsamt	trivsam	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	23	orphan	22.1:xcomp	Enhanced=xcomp|SpaceAfter=No
 25	,	,	PUNCT	MID	_	26	punct	26:punct	_
 26	förkväver	förkväva	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	10:acl:relcl	_
-27	andra	annan	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	28	amod	28:amod	_
+27	andra	annan	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	28	amod	28:amod	_
 28	ambitioner	ambition	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	26	obj	26:obj	_
 29	och	och	CCONJ	KN	_	30	cc	30:cc	_
 30	intressen	intresse	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	28	conj	26:obj|28:conj:och	SpaceAfter=No

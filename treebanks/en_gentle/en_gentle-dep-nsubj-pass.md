@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="en_gentle-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-87 nodes (0%) are attached to their parents as `nsubj:pass`.
+92 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-87 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66666666666667.
+92 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.60869565217391.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (55; 63% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (29; 33% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (55; 60% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (34; 37% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Many	many	ADJ	JJ	Degree=Pos	4	amod	4:amod	Discourse=explanation-evidence:154->152:2:_|Entity=(210-person-new-cf2-4-sgl
 2	future	future	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 3	prime	prime	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
-4	ministers	minister	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	Entity=210)
+4	ministers	minister	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	Entity=210)|MSeg=minister-s
 5	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	6:aux:pass	_
-6	schooled	school	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+6	schooled	school	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=school-ed
 7	in	in	ADP	IN	_	8	case	8:case	_
 8	Eton	Eton	PROPN	NNP	Number=Sing	6	obl	6:obl:in	Entity=(134-place-giv:inact-cf1-1-coref-Eton_College)|SpaceAfter=No
 9	.	.	PUNCT	.	_	6	punct	6:punct	_
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:pass	color:blue
-1	Open	Open	ADJ	NNP	Degree=Pos|Number=Sing	2	amod	2:amod	Discourse=context-background:3->7:1:_|Entity=(2-abstract-giv:act-cf1*-1,2-coref
+1	Open	Open	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=context-background:3->7:1:_|Entity=(2-abstract-giv:act-cf1*-1,2-coref
 2	Source	Source	PROPN	NNP	Number=Sing	5	nsubj:pass	5:nsubj:pass	Entity=2)
 3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	MSeg=ha-s
 4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	5:aux:pass	_
@@ -95,7 +95,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 31	then	then	ADV	RB	PronType=Dem	33	advmod	33:advmod	_
 32	by	by	ADP	IN	_	33	case	33:case	_
 33	Mukkai	Mukkai	PROPN	NNP	Number=Sing	5	conj	5:conj:and	Entity=(13-person-new-cf5-1,2-sgl
-34	Krishnamoorthy	Krishnamoorthy	PROPN	NNP	Number=Sing	33	flat	33:flat	Entity=13)|MSeg=Krishnamoorthy
+34	Krishnamoorthy	Krishnamoorthy	PROPN	NNP	Number=Sing	33	flat	33:flat	Entity=13)
 35	as	as	ADP	IN	_	39	case	39:case	_
 36	a	a	DET	DT	Definite=Ind|PronType=Art	39	det	39:det	Entity=(14-abstract-new-cf8-4-coref
 37	2000	2000	NUM	CD	NumForm=Digit|NumType=Card	38	compound	38:compound	Entity=(15-abstract-new-cf12-2-sgl|XML=<date when:::"2000"></date>

@@ -10,10 +10,10 @@ This relation is universal.
 
 32 nodes (0%) are attached to their parents as `discourse`.
 
-19 instances of `discourse` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+25 instances of `discourse` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.8125.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (23; 72% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (7; 22% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (18; 56% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (7; 22% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (5; 16% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -52,33 +52,27 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 21 discourse	color:blue
-1	Mairamé	mairamé	SCONJ	SCONJR	_	3	mark	_	TokenRange=0:7
-2	wanana-itá	wanana	NOUN	N	Number=Plur	3	nsubj	_	TokenRange=8:18
-3	umuyeréu	muyeréu	VERB	V	Person=3|VerbForm=Fin	10	advcl	_	TokenRange=19:27
-4	mirá	mirá	NOUN	N	Number=Sing	3	obj	_	TokenRange=28:32
-5	pawa	pawa	PART	TOTAL	Aspect=Compl	3	advmod	_	TokenRange=33:37
-6	taria-itá	taria	NOUN	N	Number=Plur	7	nmod:poss	_	TokenRange=38:47
-7	ara	ara	NOUN	N	Number=Sing	3	obl	_	TokenRange=48:51
-8	kití	kití	ADP	ADP	_	7	case	_	SpaceAfter=No|TokenRange=52:56
-9	,	,	PUNCT	PUNCT	_	3	punct	_	TokenRange=56:57
-10	umaité	maité	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=58:64
-11	panhẽ	panhẽ	DET	TOT	PronType=Tot	12	det	_	TokenRange=65:70
-12	aintá	aintá	PRON	PRON	Number=Plur|Person=3|PronType=Prs	13	nsubj	_	TokenRange=71:76
-13	umanú	manú	VERB	V	Person=3|VerbForm=Fin	10	ccomp	_	TokenRange=77:82
-14	ana	ana	PART	PFV	Aspect=Perf	13	advmod	_	SpaceAfter=No|TokenRange=83:86
-15	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=86:87
-16	usasemu	sasemu	VERB	V	Person=3|VerbForm=Fin	13	parataxis	_	SpaceAfter=No|TokenRange=88:95
-17	:	:	PUNCT	PUNCT	_	19	punct	_	TokenRange=95:96
-18	―	―	PUNCT	PUNCT	_	19	punct	_	TokenRange=96:97
-19	É	é	INTJ	INTJ	_	16	ccomp	_	SpaceAfter=No|TokenRange=98:99
-20	…	…	PUNCT	PUNCT	_	19	punct	_	TokenRange=99:100
-21	hê	hê	INTJ	INTJ	_	19	discourse	_	SpaceAfter=No|TokenRange=101:103
-22	!	!	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No|TokenRange=103:104
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 discourse	color:blue
+1	Musapiri	musapiri	NUM	CARD	NumType=Card	2	nummod	_	TokenRange=0:8
+2	akayú	akayú	NOUN	N	Number=Sing	6	obl	_	TokenRange=9:14
+3	riré	riré	ADP	ADP	AdpType=Post	2	case	_	SpaceAfter=No|TokenRange=15:19
+4	,	,	PUNCT	PUNCT	_	2	punct	_	TokenRange=19:20
+5	yautí	yautí	NOUN	N	Number=Sing	6	nsubj	_	TokenRange=21:26
+6	uyuíri	yuíri	VERB	V	Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=27:33
+7	,	,	PUNCT	PUNCT	_	8	punct	_	TokenRange=33:34
+8	usenúi	senúi	VERB	V	Person=3|VerbForm=Fin	6	parataxis	_	SpaceAfter=No|TokenRange=35:41
+9	:	:	PUNCT	PUNCT	_	13	punct	_	TokenRange=41:42
+10	―	―	PUNCT	PUNCT	_	13	punct	_	TokenRange=42:43
+11	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=43:44
+12	Oh	oh	INTJ	INTJ	_	13	discourse	_	TokenRange=45:47
+13	mikura	mikura	NOUN	N	Number=Sing	8	ccomp	_	SpaceAfter=No|TokenRange=48:54
+14	!	!	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=54:55
+15	"	"	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No|TokenRange=55:56
+16	.	.	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No|TokenRange=56:57
 
 ~~~
 

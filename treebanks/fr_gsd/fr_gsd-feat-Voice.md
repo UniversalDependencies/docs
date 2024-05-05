@@ -18,13 +18,13 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.htm
 
 11168 <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> tokens (35% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11168; 100%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11168; 100%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (11168; 100%), <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11168; 100%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8853; 79%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7917; 71%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11168; 100%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11168; 100%), <tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (11168; 100%), <tt><a href="fr_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (11168; 100%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8853; 79%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7916; 71%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (3467; 31% of non-empty `Voice`): <em>né, eu, mort, fait, née, pu, devenu, pris, permis, reçu</em>
 * `Pass` (7701; 69% of non-empty `Voice`): <em>située, situé, nommé, connu, utilisé, réalisé, appelé, créé, mis, sorti</em>
-* `EMPTY` (20604): <em>a, peut, fait, faire, partir, trouve, devient, doit, ont, permet</em>
+* `EMPTY` (20603): <em>a, peut, fait, faire, partir, trouve, devient, doit, ont, permet</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

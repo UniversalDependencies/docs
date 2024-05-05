@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (108; 100% of non-empty `NumType`): <em>first, second, third, fourth, eleventh, tenth, eighteenth, fifth, twenty-fourth</em>
-* `EMPTY` (3431): <em>small, own, good, kind, different, better, many, plenty, big, oder</em>
+* `EMPTY` (3438): <em>small, own, good, kind, different, better, many, big, plenty, oder</em>
 
 ### `NOUN`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (13; 100% of non-empty `NumType`): <em>one, sixteen</em>
-* `EMPTY` (14730): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `EMPTY` (14734): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `X`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>thou~</em>
-* `EMPTY` (40238): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40247): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ## Relations with Agreement in `NumType`
 

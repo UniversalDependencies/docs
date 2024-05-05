@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>Pidgin</em> (<tt><a href="pcm_nsc-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.014063 (the average of all parts of speech is 1.162376).
+The form / lemma ratio of `PROPN` is 1.014063 (the average of all parts of speech is 1.162341).
 
 The 1st highest number of forms (2) was observed with the lemma “Allah”: <em>Allah, Allahu</em>.
 

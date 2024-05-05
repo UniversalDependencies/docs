@@ -18,11 +18,11 @@ The feature is used with 3 part-of-speech tags: <tt><a href="nhi_itml-pos-VERB.h
 
 10 <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 70%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="nhi_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10; 100%), <tt><a href="nhi_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Subcat.html">Subcat</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="nhi_itml-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 70%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (10; 100% of non-empty `Typo`): <em>in, cnamiqia, ittalpachosqueh, ixtzitzqui, kinuij, monquis, ompoliwia, ik, nimomochilia</em>
+* `Yes` (10; 100% of non-empty `Typo`): <em>in, cnamiqia, ik, ittalpachosqueh, ixtzitzqui, kinuij, monquis, nimomochilia, ompoliwia</em>
 
 `Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Typo`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 1 <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="nhi_itml-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="nhi_itml-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Typo`:
 

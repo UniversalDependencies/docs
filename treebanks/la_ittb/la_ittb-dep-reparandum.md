@@ -32,7 +32,7 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 8	alienam	alienus	ADJ	A1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	9	amod	_	_
 9	naturam	natura	NOUN	A1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	11	obj	_	_
 10	deus	deus	NOUN	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	12	nsubj	_	_
-11	assumere	assumo	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+11	assumere	assumo	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	12	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 12	debuit	debeo	VERB	K3|modA|tem4|gen6	Aspect=Perf|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 13	,	,	PUNCT	Punc	_	12	punct	_	_
 14	quod	quod	SCONJ	O4	_	18	reparandum	_	_

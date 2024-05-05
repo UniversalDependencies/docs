@@ -22,16 +22,16 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 advmod	color:blue
-1	אַךְ	אך	ADV	advb	_	3	advmod	_	Ref=GEN_9.4|SpaceAfter=No
+1	אַךְ	אך	ADV	advb	_	3	advmod	_	Gloss=only|Ref=GEN_9.4|SpaceAfter=No
 2	־	־	PUNCT	punct	_	1	punct	_	Ref=GEN_9.4|SpaceAfter=No
-3	בָּשָׂ֕ר	בשׂר	NOUN	subs	Gender=Masc|Number=Sing	10	obj	_	Ref=GEN_9.4
-4	בְּ	ב	ADP	prep	_	5	case	_	Ref=GEN_9.4
-5	נַפְשֹׁ֥	נפשׁ	NOUN	subs	Gender=Fem|Number=Sing	3	nmod	_	Ref=GEN_9.4
+3	בָּשָׂ֕ר	בשׂר	NOUN	subs	Gender=Masc|Number=Sing	10	obj	_	Gloss=flesh|Ref=GEN_9.4
+4	בְּ	ב	ADP	prep	_	5	case	_	Gloss=in|Ref=GEN_9.4
+5	נַפְשֹׁ֥	נפשׁ	NOUN	subs	Gender=Fem|Number=Sing	3	nmod	_	Gloss=soul|Ref=GEN_9.4
 6	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Ref=GEN_9.4
-7	דָמֹ֖	דם	NOUN	subs	Gender=Masc|Number=Sing	5	appos	_	Ref=GEN_9.4
+7	דָמֹ֖	דם	NOUN	subs	Gender=Masc|Number=Sing	5	appos	_	Gloss=blood|Ref=GEN_9.4
 8	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Ref=GEN_9.4
-9	לֹ֥א	לא	ADV	nega	Polarity=Neg	10	advmod	_	Ref=GEN_9.4
-10	תֹאכֵֽלוּ	אכל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=GEN_9.4|SpaceAfter=No
+9	לֹ֥א	לא	ADV	nega	Polarity=Neg	10	advmod	_	Gloss=not|Ref=GEN_9.4
+10	תֹאכֵֽלוּ	אכל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=eat|Ref=GEN_9.4|SpaceAfter=No
 11	׃	׃	PUNCT	punct	_	10	punct	_	Ref=GEN_9.4
 
 ~~~
@@ -43,16 +43,16 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 advmod	color:blue
-1	אַךְ	אך	ADV	advb	_	3	advmod	_	Ref=GEN_9.4|SpaceAfter=No
+1	אַךְ	אך	ADV	advb	_	3	advmod	_	Gloss=only|Ref=GEN_9.4|SpaceAfter=No
 2	־	־	PUNCT	punct	_	1	punct	_	Ref=GEN_9.4|SpaceAfter=No
-3	בָּשָׂ֕ר	בשׂר	NOUN	subs	Gender=Masc|Number=Sing	10	obj	_	Ref=GEN_9.4
-4	בְּ	ב	ADP	prep	_	5	case	_	Ref=GEN_9.4
-5	נַפְשֹׁ֥	נפשׁ	NOUN	subs	Gender=Fem|Number=Sing	3	nmod	_	Ref=GEN_9.4
+3	בָּשָׂ֕ר	בשׂר	NOUN	subs	Gender=Masc|Number=Sing	10	obj	_	Gloss=flesh|Ref=GEN_9.4
+4	בְּ	ב	ADP	prep	_	5	case	_	Gloss=in|Ref=GEN_9.4
+5	נַפְשֹׁ֥	נפשׁ	NOUN	subs	Gender=Fem|Number=Sing	3	nmod	_	Gloss=soul|Ref=GEN_9.4
 6	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Ref=GEN_9.4
-7	דָמֹ֖	דם	NOUN	subs	Gender=Masc|Number=Sing	5	appos	_	Ref=GEN_9.4
+7	דָמֹ֖	דם	NOUN	subs	Gender=Masc|Number=Sing	5	appos	_	Gloss=blood|Ref=GEN_9.4
 8	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	Ref=GEN_9.4
-9	לֹ֥א	לא	ADV	nega	Polarity=Neg	10	advmod	_	Ref=GEN_9.4
-10	תֹאכֵֽלוּ	אכל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=GEN_9.4|SpaceAfter=No
+9	לֹ֥א	לא	ADV	nega	Polarity=Neg	10	advmod	_	Gloss=not|Ref=GEN_9.4
+10	תֹאכֵֽלוּ	אכל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=eat|Ref=GEN_9.4|SpaceAfter=No
 11	׃	׃	PUNCT	punct	_	10	punct	_	Ref=GEN_9.4
 
 ~~~
@@ -64,18 +64,18 @@ The following 10 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 10 advmod	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_38.10
-2	יֵּ֛רַע	רעע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_38.10
-3	בְּ	ב	ADP	prep	_	4	case	_	Ref=GEN_38.10
-4	עֵינֵ֥י	עין	NOUN	subs	Gender=Fem|Number=Dual	2	obl	_	Ref=GEN_38.10
-5	יְהוָ֖ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	4	compound:smixut	_	Ref=GEN_38.10
-6	אֲשֶׁ֣ר	אשׁר	SCONJ	conj	_	7	mark	_	Ref=GEN_38.10
-7	עָשָׂ֑ה	עשׂה	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	csubj	_	Ref=GEN_38.10
-8	וַ	ו	CCONJ	conj	_	9	cc	_	Ref=GEN_38.10
-9	יָּ֖מֶת	מות	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_38.10
-10	גַּם	גם	ADV	advb	_	13	advmod	_	Ref=GEN_38.10|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_38.10
+2	יֵּ֛רַע	רעע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=be evil|Ref=GEN_38.10
+3	בְּ	ב	ADP	prep	_	4	case	_	Gloss=in|Ref=GEN_38.10
+4	עֵינֵ֥י	עין	NOUN	subs	Gender=Fem|Number=Dual	2	obl	_	Gloss=eye|Ref=GEN_38.10
+5	יְהוָ֖ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	4	compound:smixut	_	Gloss=YHWH|Ref=GEN_38.10
+6	אֲשֶׁ֣ר	אשׁר	SCONJ	conj	_	7	mark	_	Gloss=<relative>|Ref=GEN_38.10
+7	עָשָׂ֑ה	עשׂה	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	csubj	_	Gloss=make|Ref=GEN_38.10
+8	וַ	ו	CCONJ	conj	_	9	cc	_	Gloss=and|Ref=GEN_38.10
+9	יָּ֖מֶת	מות	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=die|Ref=GEN_38.10
+10	גַּם	גם	ADV	advb	_	13	advmod	_	Gloss=even|Ref=GEN_38.10|SpaceAfter=No
 11	־	־	PUNCT	punct	_	10	punct	_	Ref=GEN_38.10|SpaceAfter=No
-12	אֹתֹֽ	את	ADP	prep	_	13	case	_	Ref=GEN_38.10
+12	אֹתֹֽ	את	ADP	prep	_	13	case	_	Gloss=<object marker>|Ref=GEN_38.10
 13	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Ref=GEN_38.10
 14	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_38.10
 

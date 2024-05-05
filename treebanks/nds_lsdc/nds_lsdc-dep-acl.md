@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="nds_lsdc-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-52 nodes (1%) are attached to their parents as `acl`.
+88 nodes (0%) are attached to their parents as `acl`.
 
-49 instances of `acl` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.30769230769231.
+83 instances of `acl` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.29545454545455.
 
-The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (33; 63% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (8; 15% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (59; 67% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (10; 11% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -69,21 +69,62 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 acl	color:blue
-1	Oaver	öäver	ADP	_	AdpType=Prep	3	case	_	_
-2	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	lemma_gml=dê¹
-3	kunst	kunst	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
-4	gesund	gesund	ADJ	_	Degree=Pos	3	acl	_	_
-5	te	to	PART	_	PartType=Inf	4	mark	_	_
-6	syn	weasen	AUX	_	VerbForm=Inf	4	cop	_	lemma_gml=wēsen²
-7	van	van	ADP	_	AdpType=Prep	8	case	_	lemma_gml=van¹
-8	E.	E.	PROPN	_	Number=Sing	3	parataxis	_	_
-9	Smelzkop	Smelzkop	PROPN	_	Number=Sing	8	flat	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 47	bgColor:blue
+# visual-style 47	fgColor:white
+# visual-style 39	bgColor:blue
+# visual-style 39	fgColor:white
+# visual-style 39 47 acl	color:blue
+1	Düsse	disse	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	8	nsubj	_	lemma_gml=dû
+2	wolde	willen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	aux	_	lemma_gml=willen
+3	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	lemma_gml=dê,dê,dat
+4	zelleske	zelleske	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	lemma_gml=sâlesch
+5	vörstendoom	vörstendoom	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	lemma_gml=vörstendôm
+6	ouk	ouk	ADV	_	_	8	advmod	_	lemma_gml=ôk
+7	lever	leev	ADJ	_	Degree=Cmp	8	advmod	_	lemma_gml=lêf
+8	hebben	hebben	VERB	_	VerbForm=Inf	0	root	_	lemma_gml=hebben|SpaceAfter=No
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	wyl	wyl	SCONJ	_	_	15	mark	_	lemma_gml=dewîle
+11	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	lemma_gml=hê,sê,et
+12	en	en	DET	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	_	lemma_gml=êin,êine,êin
+13	betken	beatken	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	lemma_gml=bēteken
+14	meyr	veale	ADJ	_	Case=Acc|Degree=Cmp	15	obj	_	lemma_gml=vēle
+15	inbröchte	inbringen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	8	advcl	_	lemma_gml=inbringen|SpaceAfter=No
+16	;	;	PUNCT	_	_	18	punct	_	_
+17	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	lemma_gml=sê
+18	trokken	trekken	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	conj	_	lemma_gml=trocken
+19	ouk	ouk	ADV	_	_	18	advmod	_	lemma_gml=ôk
+20	skoun	skoun	ADV	_	_	18	advmod	_	lemma_gml=schö̂ne
+21	geagen	geagen	ADP	_	AdpType=Prep	22	case	_	lemma_gml=kēgen
+22	eynander	eynander	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rcp	18	obl	_	lemma_gml=êinander
+23	to	to	ADP	_	AdpType=Prep	24	case	_	lemma_gml=tô
+24	velde	veld	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	18	obl	_	lemma_gml=velt|SpaceAfter=No
+25	,	,	PUNCT	_	_	33	punct	_	_
+26	dat	dat	SCONJ	_	_	33	mark	_	lemma_gml=dat
+27	der	dår	ADV	_	_	33	obl	_	lemma_gml=sîn,ēr,sîn
+28	balde	bolde	ADV	_	_	33	advmod	_	lemma_gml=bōlde
+29	sou	sou	ADV	_	_	30	advmod	_	lemma_gml=sô
+30	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	lemma_gml=êin,êine,êin
+31	pannekokenkryg	pannekokenkryg	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	33	nsubj	_	lemma_gml=pannekochenkrîe
+32	uut	uut	ADP	_	_	27	case	_	lemma_gml=ût
+33	entstån	entstån	VERB	_	Tense=Past|VerbForm=Part	18	advcl	_	lemma_gml=entstân
+34	wöre	weasen	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	33	aux	_	lemma_gml=wēsen|SpaceAfter=No
+35	;	;	PUNCT	_	_	18	punct	_	_
+36	averst	aver	ADP	_	AdpType=Prep	38	case	_	lemma_gml=āvers
+37	gode	good	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	38	amod	_	lemma_gml=gôt
+38	lüde	lüde	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	39	nsubj	_	lemma_gml=lü̂de
+39	legden	leggen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	conj	_	lemma_gml=leggen
+40	sek	sik	PRON	_	Case=Acc|Number=Plur|PronType=Prs|Reflex=Yes	39	obj	_	lemma_gml=sik
+41	in	in	ADP	_	AdpType=Prep	43	case	_	lemma_gml=in
+42	dat	de	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	43	det	_	lemma_gml=dê,dê,dat
+43	middel	middel	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	39	obl	_	lemma_gml=middel|SpaceAfter=No
+44	,	,	PUNCT	_	_	47	punct	_	_
+45	dat	dat	SCONJ	_	_	47	mark	_	lemma_gml=dat
+46	alles	al	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	47	nsubj	_	lemma_gml=al
+47	vorgeaven	vorgeaven	VERB	_	Tense=Past|VerbForm=Part	39	acl	_	lemma_gml=vorgēven
+48	un	un	CCONJ	_	_	49	cc	_	lemma_gml=unde
+49	vorgetten	vorgeaten	VERB	_	Tense=Past|VerbForm=Part	47	conj	_	lemma_gml=vorgēten
+50	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	47	aux	_	lemma_gml=wēsen|SpaceAfter=No
+51	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

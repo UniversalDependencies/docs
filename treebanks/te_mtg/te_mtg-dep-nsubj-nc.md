@@ -22,10 +22,10 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:nc	color:blue
-1	నాకు	_	PRON	PRON	_	3	nsubj:nc	_	Translit=nāku|LTranslit=_
-2	చలిగా	_	ADV	ADV	_	3	advmod	_	Translit=caligā|LTranslit=_
-3	ఉంది	_	VERB	VERB	_	0	root	_	Translit=uṁdi|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
+1	నాకు	_	PRON	PRON	_	3	nsubj:nc	_	Translit=nāku
+2	చలిగా	_	ADV	ADV	_	3	advmod	_	Translit=caligā
+3	ఉంది	_	VERB	VERB	_	0	root	_	Translit=uṁdi
+4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.
 
 ~~~
 
@@ -36,10 +36,10 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:nc	color:blue
-1	మాకు	_	PRON	PRON	_	3	nsubj:nc	_	Translit=māku|LTranslit=_
-2	ముగ్గురు	_	ADJ	ADJ	_	3	amod	_	Translit=mugguru|LTranslit=_
-3	పిల్లలు	_	NOUN	NOUN	_	0	root	_	Translit=pillalu|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
+1	మాకు	_	PRON	PRON	_	3	nsubj:nc	_	Translit=māku
+2	ముగ్గురు	_	ADJ	ADJ	_	3	amod	_	Translit=mugguru
+3	పిల్లలు	_	NOUN	NOUN	_	0	root	_	Translit=pillalu
+4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.
 
 ~~~
 
@@ -50,13 +50,13 @@ The following 6 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nsubj:nc	color:blue
-1	ఆలస్యం	_	NOUN	NOUN	_	2	nsubj	_	Translit=ālasyaṁ|LTranslit=_
-2	అయిన	_	VERB	VERB	_	5	advcl	_	Translit=ayina|LTranslit=_
-3	కొద్దీ	_	SCONJ	SCONJ	_	2	mark	_	Translit=kòddī|LTranslit=_
-4	ఆడపిల్లలకి	_	NOUN	NOUN	_	5	nsubj:nc	_	Translit=āḍapillalaki|LTranslit=_
-5	పెళ్ళవటం	_	VERB	VERB	_	0	root	_	Translit=pèḷḷavaṭaṁ|LTranslit=_
-6	కష్టం	_	NOUN	NOUN	_	5	obl	_	Translit=kaṣṭaṁ|LTranslit=_
-7	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
+1	ఆలస్యం	_	NOUN	NOUN	_	2	nsubj	_	Translit=ālasyaṁ
+2	అయిన	_	VERB	VERB	_	5	advcl	_	Translit=ayina
+3	కొద్దీ	_	SCONJ	SCONJ	_	2	mark	_	Translit=koddī
+4	ఆడపిల్లలకి	_	NOUN	NOUN	_	5	nsubj:nc	_	Translit=āḍapillalaki
+5	పెళ్ళవటం	_	VERB	VERB	_	0	root	_	Translit=peḷḷavaṭaṁ
+6	కష్టం	_	NOUN	NOUN	_	5	obl	_	Translit=kaṣṭaṁ
+7	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.
 
 ~~~
 

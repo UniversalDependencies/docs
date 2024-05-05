@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Robert Pugh, Francis Tyers.
 
 Repository: [UD_Highland_Puebla_Nahuatl-ITML](https://github.com/UniversalDependencies/UD_Highland_Puebla_Nahuatl-ITML)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udazz_itml213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udazz_itml214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,7 +79,7 @@ And we would like to thank the following for assistance in the annotation and va
 
 ## Features
 
-[Animacy[obj]](azz_itml-feat-Animacy-obj.html) – [Aspect](azz_itml-feat-Aspect.html) – [Case](azz_itml-feat-Case.html) – [Degree](azz_itml-feat-Degree.html) – [Gender](azz_itml-feat-Gender.html) – [Mood](azz_itml-feat-Mood.html) – [Movement](azz_itml-feat-Movement.html) – [NounType](azz_itml-feat-NounType.html) – [Number](azz_itml-feat-Number.html) – [Number[obj]](azz_itml-feat-Number-obj.html) – [Number[psor]](azz_itml-feat-Number-psor.html) – [Number[subj]](azz_itml-feat-Number-subj.html) – [Person](azz_itml-feat-Person.html) – [Person[obj]](azz_itml-feat-Person-obj.html) – [Person[psor]](azz_itml-feat-Person-psor.html) – [Person[subj]](azz_itml-feat-Person-subj.html) – [PronType](azz_itml-feat-PronType.html) – [Subcat](azz_itml-feat-Subcat.html) – [Tense](azz_itml-feat-Tense.html) – [Typo](azz_itml-feat-Typo.html)
+[Animacy[obj]](azz_itml-feat-Animacy-obj.html) – [Aspect](azz_itml-feat-Aspect.html) – [Case](azz_itml-feat-Case.html) – [Degree](azz_itml-feat-Degree.html) – [Gender](azz_itml-feat-Gender.html) – [Mood](azz_itml-feat-Mood.html) – [Movement](azz_itml-feat-Movement.html) – [NounType](azz_itml-feat-NounType.html) – [Number](azz_itml-feat-Number.html) – [Number[obj]](azz_itml-feat-Number-obj.html) – [Number[psor]](azz_itml-feat-Number-psor.html) – [Number[subj]](azz_itml-feat-Number-subj.html) – [Person](azz_itml-feat-Person.html) – [Person[obj]](azz_itml-feat-Person-obj.html) – [Person[psor]](azz_itml-feat-Person-psor.html) – [Person[subj]](azz_itml-feat-Person-subj.html) – [PronType](azz_itml-feat-PronType.html) – [Subcat](azz_itml-feat-Subcat.html) – [Tense](azz_itml-feat-Tense.html) – [Typo](azz_itml-feat-Typo.html) – [VerbForm](azz_itml-feat-VerbForm.html)
 
 ## Relations
 
@@ -142,7 +142,15 @@ And we would like to thank the following for assistance in the annotation and va
 </ul>
 
 <ul>
-<li>This corpus does not use the VerbForm feature.</li>
+<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+<ul>
+  <li>Fin
+  <ul>
+    <li>VERB: mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa</li>
+  </ul>
+  </li>
 </ul>
 
 <h3>Nominal Features</h3>
@@ -256,7 +264,15 @@ And we would like to thank the following for assistance in the annotation and va
   <li>Imp
     <ul>
       <li>AUX: nekia</li>
-      <li>VERB: nikmatia, Tikihtowaya, kitaliayah, Tikmatiya, ijkaya, itsmolinia, kikixtiliayah, kikuayaj, kikwayah, kikwiah</li>
+      <li>VERB-Fin: nikmatia, Tikihtowaya, kitaliayah, Tikmatiya, ijkaya, itsmolinia, kikixtiliayah, kikuayaj, kikwayah, kikwiah</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Perf
+    <ul>
+      <li>VERB-Fin: onkak, nikitak, nikitani, oksik, peuak, techpaleuij, tekokoj, Kinamakaj, TEKITIKEJ, kiijkuilojkej</li>
     </ul>
   </li>
 </ul>
@@ -265,7 +281,7 @@ And we would like to thank the following for assistance in the annotation and va
   <li>Prog
     <ul>
       <li>AUX: tiyetoskiyaj</li>
-      <li>VERB: nikixmattok, nikmattok, chijchiujtokej, xochiyojtok, kinetechojtok, nikitstok, tikixmattok, timonohnotstokeh, Ijkatok, chichiujtok</li>
+      <li>VERB-Fin: nikixmattok, nikmattok, chijchiujtokej, xochiyojtok, kinetechojtok, nikitstok, tikixmattok, timonohnotstokeh, Ijkatok, chichiujtok</li>
     </ul>
   </li>
 </ul>
@@ -278,7 +294,7 @@ And we would like to thank the following for assistance in the annotation and va
   <li>Cnd
     <ul>
       <li>AUX: eski, eskia, tiyetoskiyaj</li>
-      <li>VERB: Niknekiskia, timotajtanijtoskiyaj</li>
+      <li>VERB-Fin: Niknekiskia, timotajtanijtoskiyaj</li>
     </ul>
   </li>
 </ul>
@@ -286,7 +302,15 @@ And we would like to thank the following for assistance in the annotation and va
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: xtechtapowi, 'nechili, 'technohnotsa, xinechtapowi, xnechili, xnechtapowi</li>
+      <li>VERB-Fin: xtechtapowi, 'nechili, 'technohnotsa, xinechtapowi, xnechili, xnechtapowi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>VERB-Fin: mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa</li>
     </ul>
   </li>
 </ul>
@@ -295,7 +319,15 @@ And we would like to thank the following for assistance in the annotation and va
   <li>Opt
     <ul>
       <li>AUX: yetokan</li>
-      <li>VERB: tikixnextikan, kiixmatikan, kipepechokan, mochiuakan, tikihtokan, tikinixmatikan</li>
+      <li>VERB-Fin: tikixnextikan, kiixmatikan, kipepechokan, mochiuakan, tikihtokan, tikinixmatikan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prp
+    <ul>
+      <li>VERB-Fin: Chikawayati, kichkuati, kikuitij, kikwitih, motamiti, nanmontiotaki, nimoskalti, oksitiw, onkati, tamiti</li>
     </ul>
   </li>
 </ul>
@@ -308,7 +340,7 @@ And we would like to thank the following for assistance in the annotation and va
   <li>Fut
     <ul>
       <li>AUX: uelis, eski</li>
-      <li>VERB: tayis, kisas, onkas, kikuas, kinemilis, tikmatis, timitstahtaniskeh, Nimitspalehuis, chijchiujtoskej, kiajsikamatis</li>
+      <li>VERB-Fin: tayis, kisas, onkas, kikuas, kinemilis, tikmatis, timitstahtaniskeh, Nimitspalehuis, chijchiujtoskej, kiajsikamatis</li>
     </ul>
   </li>
 </ul>
@@ -316,7 +348,7 @@ And we would like to thank the following for assistance in the annotation and va
 <ul>
   <li>Past
     <ul>
-      <li>VERB: onkak, nikitak, nikitani, oksik, peuak, techpaleuij, tekokoj, Kinamakaj, TEKITIKEJ, kiijkuilojkej</li>
+      <li>VERB-Fin: onkak, nikitak, nikitani, oksik, peuak, techpaleuij, tekokoj, Kinamakaj, TEKITIKEJ, kiijkuilojkej</li>
     </ul>
   </li>
 </ul>
@@ -324,7 +356,7 @@ And we would like to thank the following for assistance in the annotation and va
 <ul>
   <li>Pqp
     <ul>
-      <li>VERB: kipijpixka</li>
+      <li>VERB-Fin: kipijpixka</li>
     </ul>
   </li>
 </ul>
@@ -333,7 +365,7 @@ And we would like to thank the following for assistance in the annotation and va
   <li>Pres
     <ul>
       <li>AUX: uelij</li>
-      <li>VERB: mochiua, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa, kitokaj</li>
+      <li>VERB-Fin: mochiua, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa, kitokaj</li>
     </ul>
   </li>
 </ul>
@@ -424,12 +456,12 @@ And we would like to thank the following for assistance in the annotation and va
     <ul>
       <li>Hum
         <ul>
-          <li>VERB: tekokoj, tekwi, tenamiki, Nikochisneki, Nimitspalehuia, kitemaka, tekekeloua, tekixtiliah, tekui, tepahtia</li>
+          <li>VERB-Fin: tekokoj, tekwi, tenamiki, Nikochisneki, Nimitspalehuia, kitemaka, tekekeloua, tekixtiliah, tekui, tepahtia</li>
         </ul>
       </li>
       <li>Nhum
         <ul>
-          <li>VERB: tapepechowah, takua, Kitatemolia, Nimitspalehuis, kitachipauis, tachijchiua, takauani, tamatemouaj, tamatis, tameuj</li>
+          <li>VERB-Fin: tapepechowah, takua, Kitatemolia, kitachipauis, tachijchiua, takauani, tamatemouaj, tamatis, tameuj, tamimilmeuaj</li>
         </ul>
       </li>
     </ul>
@@ -439,14 +471,9 @@ And we would like to thank the following for assistance in the annotation and va
 <ul>
   <li><a>Movement</a>
     <ul>
-      <li>And
-        <ul>
-          <li>VERB: Chikawayati, kichkuati, kikuitij, kikwitih, motamiti, nanmontiotaki, nimoskalti, oksitiw, onkati, tamiti</li>
-        </ul>
-      </li>
       <li>Ven
         <ul>
-          <li>VERB: Kiwalkwih, ualeua, kiualkui, kwalkwiah, mokuapiki</li>
+          <li>VERB-Fin: Kiwalkwih, ualeua, kiualkui, kwalkwiah, mokuapiki</li>
         </ul>
       </li>
     </ul>
@@ -458,7 +485,7 @@ And we would like to thank the following for assistance in the annotation and va
     <ul>
       <li>Relat
         <ul>
-          <li>NOUN: itech, ika, tsintan, kopa, iuan, ijtik, tenoj, ixko, tampa, iwan</li>
+          <li>NOUN: itech, ika, tsintan, kopa, iuan, ijtik, tenoj, ixko, pa, tampa</li>
         </ul>
       </li>
     </ul>
@@ -470,12 +497,12 @@ And we would like to thank the following for assistance in the annotation and va
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: 'technohnotsa, techpaleuij, xtechtapowi, kiki, kinamaka, kinchijchiua, kininmaka, kininpoxtalilia, kinitas, kinixmatis</li>
+          <li>VERB-Fin: 'technohnotsa, techpaleuij, xtechtapowi, kiki, kinamaka, kinchijchiua, kininmaka, kininpoxtalilia, kinitas, kinixmatis</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB: kikua, monamaka, kitoka, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa, kipiya, kiluiaj</li>
+          <li>VERB-Fin: kikua, monamaka, kitoka, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa, kipiya, kiluiaj</li>
         </ul>
       </li>
     </ul>
@@ -491,7 +518,7 @@ And we would like to thank the following for assistance in the annotation and va
           <li>AUX: tiyetoskiyaj, uelij, yetokan</li>
           <li>NOUN: bolitas, kokonemej, xiuit</li>
           <li>PRON: tisekimeh</li>
-          <li>VERB: kitokaj, kitokaytiaj, kiluiaj, kikwah, kijtouaj, kiliah, kikwih, kichiwah, kikuaj, tikiliah</li>
+          <li>VERB-Fin: kitokaj, kitokaytiaj, kiluiaj, kikwah, kijtouaj, kiliah, kikwih, kichiwah, kikuaj, tikiliah</li>
         </ul>
       </li>
       <li>Sing
@@ -501,7 +528,7 @@ And we would like to thank the following for assistance in the annotation and va
           <li>AUX: eski, yetok, etok, eskia</li>
           <li>NOUN: pahti, nanakat, xiuit, kuouit, pajti, xiwit, chilaj, cimarrón, criollo, etaj</li>
           <li>PROPN: niMaria, niErnesto, niRuben</li>
-          <li>VERB: mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa</li>
+          <li>VERB-Fin: mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa</li>
         </ul>
       </li>
     </ul>
@@ -513,17 +540,17 @@ And we would like to thank the following for assistance in the annotation and va
     <ul>
       <li>1
         <ul>
-          <li>VERB: 'technohnotsa, techpaleuij, xtechtapowi, nechtokaytia, techpaleuia, tinechyolmelaw, titechtapowis, xnechtapowi</li>
+          <li>VERB-Fin: 'technohnotsa, techpaleuij, xtechtapowi, nechtokaytia, techpaleuia, tinechyolmelaw, titechtapowis, xnechtapowi</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: timitstahtaniskeh, nimitsilia, nimitstahtania</li>
+          <li>VERB-Fin: timitstahtaniskeh, nimitsilia, nimitstahtania</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB: kikua, monamaka, kitoka, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa, kipiya, kiluiaj</li>
+          <li>VERB-Fin: kikua, monamaka, kitoka, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa, kipiya, kiluiaj</li>
         </ul>
       </li>
     </ul>
@@ -540,7 +567,7 @@ And we would like to thank the following for assistance in the annotation and va
       </li>
       <li>2
         <ul>
-          <li>NOUN: motokay</li>
+          <li>NOUN: motokay, moaltepe</li>
         </ul>
       </li>
       <li>3
@@ -561,12 +588,12 @@ And we would like to thank the following for assistance in the annotation and va
           <li>NOUN: nikayot</li>
           <li>PRON: tisekimeh</li>
           <li>PROPN: niMaria, niErnesto, niRuben</li>
-          <li>VERB: nimonotsa, nikmati, nikixmattok, niwalew, nikita, nikmattok, tikiliah, nikmatia, tikitaj, niwalewa</li>
+          <li>VERB-Fin: nimonotsa, nikmati, nikixmattok, niwalew, nikita, nikmattok, tikiliah, nikmatia, tikitaj, niwalewa</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: tikihtowa, tikixmati, timonotsa, 'technohnotsa, Tikihtowaya, tikixmattok, tikmatis, tiwalewa, xtechtapowi, 'nechili</li>
+          <li>VERB-Fin: tikihtowa, tikixmati, timonotsa, 'technohnotsa, Tikihtowaya, tikixmattok, tikmatis, tiwalewa, xtechtapowi, 'nechili</li>
         </ul>
       </li>
       <li>3
@@ -575,7 +602,7 @@ And we would like to thank the following for assistance in the annotation and va
           <li>ADV: neli, tiotak</li>
           <li>AUX: eski, yetok, etok, eskia, uelij, yetokan</li>
           <li>NOUN: pahti, xiuit, nanakat, kuouit, pajti, xiwit, bolitas, chilaj, cimarrón, criollo</li>
-          <li>VERB: mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa</li>
+          <li>VERB-Fin: mochiua, onkak, kikua, xochiyoua, monamaka, kualtia, kitoka, mochiwa, ixua, monotsa</li>
         </ul>
       </li>
     </ul>
@@ -588,12 +615,12 @@ And we would like to thank the following for assistance in the annotation and va
       <li>Intr
         <ul>
           <li>AUX: uelij</li>
-          <li>VERB: onkak, xochiyoua, kualtia, ixua, kwaltia, moskaltia, taki, kisa, oksi, peua</li>
+          <li>VERB-Fin: onkak, xochiyoua, kualtia, ixua, kwaltia, moskaltia, taki, kisa, oksi, peua</li>
         </ul>
       </li>
       <li>Tran
         <ul>
-          <li>VERB: mochiua, kikua, monamaka, kitoka, mochiwa, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa</li>
+          <li>VERB-Fin: mochiua, kikua, monamaka, kitoka, mochiwa, monotsa, kitokaj, kitokaytiaj, nimonotsa, kikwa</li>
         </ul>
       </li>
     </ul>
@@ -607,7 +634,7 @@ And we would like to thank the following for assistance in the annotation and va
         <ul>
           <li>ADV: Nika</li>
           <li>NUM: 1</li>
-          <li>VERB: Nochiua, kiki</li>
+          <li>VERB-Fin: Nochiua, kiki</li>
         </ul>
       </li>
     </ul>
@@ -632,10 +659,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (97)</li>
-      <li>VERB--NOUN-Abs (94)</li>
-      <li>VERB--PRON (537)</li>
-      <li>VERB--PRON-Abs (10)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB-Fin--NOUN (96)</li>
+      <li>VERB-Fin--NOUN-Abs (93)</li>
+      <li>VERB-Fin--PRON (536)</li>
+      <li>VERB-Fin--PRON-Abs (10)</li>
     </ul>
   </li>
 </ul>
@@ -643,9 +672,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (141)</li>
-      <li>VERB--NOUN-Abs (107)</li>
-      <li>VERB--PRON (59)</li>
+      <li>VERB-Fin--NOUN (141)</li>
+      <li>VERB-Fin--NOUN-Abs (107)</li>
+      <li>VERB-Fin--PRON (59)</li>
     </ul>
   </li>
 </ul>
@@ -653,9 +682,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (5)</li>
-      <li>VERB--NOUN-Abs (5)</li>
-      <li>VERB--PRON (2)</li>
+      <li>VERB-Fin--NOUN (5)</li>
+      <li>VERB-Fin--NOUN-Abs (5)</li>
+      <li>VERB-Fin--PRON (2)</li>
     </ul>
   </li>
 </ul>

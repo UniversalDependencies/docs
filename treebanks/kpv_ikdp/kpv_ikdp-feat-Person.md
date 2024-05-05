@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt>, <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt>.
 
-420 tokens (18%) have a non-empty value of `Person`.
-254 types (25%) occur at least once with a non-empty value of `Person`.
-137 lemmas (19%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (255; 11% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (125; 5% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (40; 2% instances).
+421 tokens (18%) have a non-empty value of `Person`.
+255 types (25%) occur at least once with a non-empty value of `Person`.
+138 lemmas (19%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (255; 11% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (126; 5% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (40; 2% instances).
 
 ### `VERB`
 
@@ -37,16 +37,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-125 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
+126 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (121; 97%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (92; 74%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (70; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (121; 96%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 74%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (70; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (71; 57% of non-empty `Person`): <em>ме, миян, ми, менам, менэ, ачум, мен, меня, нас, Ассюм</em>
+* `1` (71; 56% of non-empty `Person`): <em>ме, миян, ми, менам, менэ, ачум, мен, меня, нас, Ассюм</em>
 * `2` (8; 6% of non-empty `Person`): <em>тэ, Тэнэ, аслад, ассьыд, тэн, тэнад</em>
-* `3` (46; 37% of non-empty `Person`): <em>сыа, сы, сія, сіе, сіен, сіес, сійӧ, ачыс, Ная, Сылэн</em>
-* `EMPTY` (61): <em>сыа, мыйке, мый, сы, быд, мӧд, кодке, мыен, ставыс, что</em>
+* `3` (47; 37% of non-empty `Person`): <em>сыа, сы, сія, сіе, сіен, сіес, сійӧ, ачыс, Ная, Сылэн</em>
+* `EMPTY` (60): <em>сыа, мыйке, мый, сы, быд, мӧд, кодке, мыен, ставыс, что</em>
 
 <table>
   <tr><th>Paradigm <i>ас</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>аслад</em></td><td></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 92% lemmas (11) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Person`.
 
 ### `AUX`
 

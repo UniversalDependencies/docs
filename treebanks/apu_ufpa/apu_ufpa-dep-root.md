@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-152 nodes (16%) are attached to their parents as `root`.
+161 nodes (16%) are attached to their parents as `root`.
 
-152 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57236842105263.
+161 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.55900621118012.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (132; 87% instances), -<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), -<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (4; 3% instances), -<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (3; 2% instances), -<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (135; 84% instances), -<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), -<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (5; 3% instances), -<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (5; 3% instances), -<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), -<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -53,9 +53,11 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Ukywyxikeru	kywyxiketxi	NOUN	XPOS=cabeça.de-cabelo.de-3SG.F.O	Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	2	nsubj	_	gloss[pt]=3SG.F-cabeça.de-cabelo.de-3SG.F.O
-2	uwa	uwa	PRON	Pron	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	gloss[pt]=3SG.F|SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	_
+1	Ĩsũana	ĩsũana	NOUN	XPOS=rio	_	2	nsubj	_	gloss[pt]=rio
+2	myrykynyty	ykyny	ADV	XPOS=ATRIB.INTENS-FOC-tudo	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|VerbType=Vido	0	root	_	gloss[pt]=ATRIB.INTENS-FOC-tudo-3SG.M.O
+3	itxa	txa	AUX	XPOS=3SG.M-AUX	_	2	aux	_	gloss[pt]=3SG.M-AUX
+4	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	gloss[pt]=peixe|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

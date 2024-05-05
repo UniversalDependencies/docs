@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 6	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	9	nsubj:pass	_	_
 7	hade	ha	AUX	PAST-AUX	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	blivit	bli	AUX	SUP-AUX	VerbForm=Sup|Voice=Act	9	aux:pass	_	_
-9	invigd	inviga	VERB	AD-SG-IND	Mood=Ind|VerbForm=Part|Voice=Pass	2	ccomp	_	_
+9	invigd	inviga	VERB	AD-SG-IND	Mood=Ind|Tense=Past|VerbForm=Part|Voice=Pass	2	ccomp	_	_
 10	i	i	ADP	_	_	12	case	_	_
 11	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	12	det	_	_
 12	sammansvärjning	sammansvärjning	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	obl	_	SpaceAfter=No
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 23	–	–	PUNCT	Dash	_	17	punct	_	_
 24	något	någon	PRON	IND-SG	Definite=Ind|Gender=Neut|Number=Sing|PronType=Ind	12	appos	_	_
 25	lite	lite	ADV	_	Degree=Pos	26	advmod	_	_
-26	skumt	skum	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	24	amod	_	SpaceAfter=No
+26	skumt	skum	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	24	amod	_	SpaceAfter=No
 27	,	,	PUNCT	Comma	_	31	punct	_	_
 28	och	och	CCONJ	_	_	31	cc	_	_
 29	jag	jag	PRON	PERS-P1SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	31	nsubj	_	_
@@ -113,7 +113,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 18	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	23	nsubj	_	_
 19	med	med	ADP	_	_	22	case	_	_
 20	sina	sin	PRON	RFL-PL-GEN	Case=Gen|Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
-21	korslagda	korslagd	ADJ	AD-PL-DEF	Case=Nom|Definite=Def|Degree=Pos|Number=Plur	22	amod	_	_
+21	korslagda	korslagd	ADJ	AD-PL-DEF	Case=Nom|Definite=Def|Degree=Pos	22	amod	_	_
 22	ben	ben	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	23	obl	_	_
 23	satt	sitta	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	_
 24	som	som	ADP	_	_	26	case	_	_

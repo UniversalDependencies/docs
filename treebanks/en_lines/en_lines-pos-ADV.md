@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>out</em> (<tt><a href="en_lines-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.017513 (the average of all parts of speech is 1.241418).
+The form / lemma ratio of `ADV` is 1.017513 (the average of all parts of speech is 1.240588).
 
 The 1st highest number of forms (3) was observed with the lemma “far”: <em>far, farther, further</em>.
 

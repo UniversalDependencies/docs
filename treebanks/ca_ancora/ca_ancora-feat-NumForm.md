@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NUM</tt> (246; 98%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (243; 57%),
+<tt>NUM --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (227; 94%),
 <tt>NUM --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (214; 100%),
 <tt>NUM --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NUM</tt> (22; 92%),
 <tt>NUM --[<tt><a href="ca_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (11; 79%),

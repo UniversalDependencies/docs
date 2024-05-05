@@ -70,7 +70,7 @@ The following 24 pairs of parts of speech are connected with `ccomp:relcl`: <tt>
 5	creatis	creo	VERB	J2|modM|tem4|grp1|casO|gen2	Aspect=Perf|Case=Abl|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass	4	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 6	formam	forma	NOUN	A1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	9	nsubj	_	_
 7	quamcumque	quicumque	DET	F1|grn1|casD|gen2|vgr2	Case=Acc|Compound=Yes|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	6	det	_	_
-8	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	9	cop	_	_
+8	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	9	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	eius	is	PRON	F1|grn1|casB|gen3|vgr2	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	1	ccomp:relcl	_	_
 10	cuius	qui	PRON	F1|grn1|casB|gen3|vgr2	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	12	nmod	_	_
 11	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens

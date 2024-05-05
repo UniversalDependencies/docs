@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	Nika	nikauin	ADV	_	Typo=Yes	4	advmod	4:advmod	NormalizedForm=Nika
 2	uin	_	X	_	_	1	goeswith	1:goeswith	NormalizedForm=win
 3	no	no	ADV	_	_	4	advmod	4:advmod	NormalizedForm=no
-4	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=mochiwa|Reflexive[obj]=Yes
+4	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mochiwa|Reflexive[obj]=Yes
 5	kal	kali	NOUN	_	_	6	nmod	6:nmod	NormalizedForm=kal
 6	tsintan	tsintan	NOUN	_	NounType=Relat	4	obl	4:obl	NormalizedForm=tsintan
 7	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.
@@ -41,12 +41,12 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 61 62 goeswith	color:blue
 1	In	in	DET	_	_	2	det	2:det	NormalizedForm=In
 2	tokaymej	tokay	NOUN	_	Number=Plur	3	obj	3:obj	NormalizedForm=tokaimeh
-3	tikinajsijkej	ajsi	VERB	_	Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=tikinahsihkeh
+3	tikinajsijkej	ajsi	VERB	_	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=tikinahsihkeh
 4	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	3	obl	3:obl	NormalizedForm=itech
 5	se	se	NUM	_	_	6	nummod	6:nummod	NormalizedForm=se
 6	amaix	amaix	NOUN	_	Case=Abs	4	nmod	4:nmod	NormalizedForm=amaix|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,
-8	monotsa	notsa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	6	acl:relcl	6:acl:relcl	NormalizedForm=monotsa|Reflexive[iobj]=Yes
+8	monotsa	notsa	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	6	acl:relcl	6:acl:relcl	NormalizedForm=monotsa|Reflexive[iobj]=Yes
 9	Catálogo	catálogo	NOUN	_	Gender=Masc|Number=Sing	8	obj	8:obj	NormalizedForm=Katálogo
 10	de	de	ADP	_	_	11	case	11:case	NormalizedForm=de
 11	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	9	nmod	9:nmod	NormalizedForm=plantas
@@ -114,20 +114,20 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 goeswith	color:blue
 1	Iujki	iuki	ADV	_	_	2	advmod	2:advmod	NormalizedForm=Iuki
-2	kitokaytiaj	tokaytia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kitokaitiah
+2	kitokaytiaj	tokaytia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kitokaitiah
 3	por	por	ADP	_	_	15	mark	15:mark	NormalizedForm=por
 4	in	in	DET	_	_	3	fixed	3:fixed	NormalizedForm=in
 5	ijuak	ijhuak	SCONJ	_	_	7	mark	7:mark	NormalizedForm=ihwak
 6	se	se	PRON	_	_	7	nsubj	7:nsubj	NormalizedForm=se
-7	kiki	kixtilia	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Typo=Yes	15	advcl	15:advcl	NormalizedForm=kiki|Number[iobj]=Sing|Person[iobj]=3
+7	kiki	kixtilia	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|Typo=Yes|VerbForm=Fin	15	advcl	15:advcl	NormalizedForm=kiki|Number[iobj]=Sing|Person[iobj]=3
 8	xtilia	_	X	_	_	7	goeswith	7:goeswith	NormalizedForm=xtilia
 9	in	in	DET	_	_	10	det	10:det	NormalizedForm=in
 10	ieuayo	ehuayo	NOUN	_	Number[psor]=Sing|Person[psor]=3	7	obj	7:obj	NormalizedForm=iewayo
 11	uan	huan	CCONJ	_	_	12	cc	12:cc	NormalizedForm=uan
-12	peua	pehua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	7	conj	7:conj	NormalizedForm=pewa
+12	peua	pehua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	7	conj	7:conj	NormalizedForm=pewa
 13	se	se	PRON	_	_	14	nsubj	14:nsubj	NormalizedForm=se
-14	kikua	kua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	12	xcomp	12:xcomp	NormalizedForm=kikwa
-15	mokaujtiuj	mokahua	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Tran|Tense=Pres	2	advcl	2:advcl	NormalizedForm=mokaujtiuj|Reflexive[obj]=Yes
+14	kikua	kua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	12	xcomp	12:xcomp	NormalizedForm=kikwa
+15	mokaujtiuj	mokahua	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	NormalizedForm=mokaujtiuj|Reflexive[obj]=Yes
 16	itech	tech	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	15	obl	15:obl	NormalizedForm=itech
 17	iteyo	teyo	NOUN	_	Number[psor]=Sing|Person[psor]=3	16	nmod	16:nmod	NormalizedForm=iteyo
 18	pané	pane	ADV	_	_	20	advmod	20:advmod	NormalizedForm=pané

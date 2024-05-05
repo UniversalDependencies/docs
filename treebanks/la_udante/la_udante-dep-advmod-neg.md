@@ -43,7 +43,7 @@ The following 12 pairs of parts of speech are connected with `advmod:neg`: <tt><
 2	sic	sic	ADV	r	PronType=Dem	4	advmod	_	_
 3	instantia	instantia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	4	nsubj:pass	_	_
 4	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-5	errare	erro	VERB	va1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+5	errare	erro	VERB	va1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	4	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	secundum	secundum	ADP	e	VerbForm=Part	9	case	_	_
 7	“	“	PUNCT	Pu	_	9	punct	_	SpaceAfter=No
 8	non	non	PART	r	Polarity=Neg	9	advmod:neg	_	_

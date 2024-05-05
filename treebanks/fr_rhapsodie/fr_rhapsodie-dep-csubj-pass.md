@@ -52,9 +52,9 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 28	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	29	nsubj	_	_
 29	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	25	discourse	_	_
 30	dire	dire	VERB	_	VerbForm=Inf	29	xcomp	_	SpaceAfter=No|Subject=SubjRaising
-31	,	,	PUNCT	_	_	34	punct	_	_
+31	,	,	PUNCT	_	_	25	punct	_	_
 32	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	34	reparandum	_	SpaceAfter=No
-33	,	,	PUNCT	_	_	34	punct	_	_
+33	,	,	PUNCT	_	_	32	punct	_	_
 34	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	35	nsubj	_	_
 35	visualise	visualiser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
 36	déjà	déjà	ADV	_	_	35	advmod	_	_

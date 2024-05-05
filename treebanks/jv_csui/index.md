@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Ika Alfina, Arlisa Yuliawati, Dipta Tanaya, Arawinda Dinakaramani, Daniel Zeman, Putri Rizqiyah, Sri Hartati Wijono.
 
 Repository: [UD_Javanese-CSUI](https://github.com/UniversalDependencies/UD_Javanese-CSUI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udjv_csui214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 

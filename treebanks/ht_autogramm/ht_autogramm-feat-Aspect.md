@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ht_autogramm-pos-AU
 
 ### `AUX`
 
-43 <tt><a href="ht_autogramm-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `Aspect`.
+43 <tt><a href="ht_autogramm-pos-AUX.html">AUX</a></tt> tokens (21% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ht_autogramm-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (43; 100%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Prog` (43; 100% of non-empty `Aspect`): <em>ap</em>
-* `EMPTY` (147): <em>te, se, t, ta, pral, ap, pwal</em>
+* `EMPTY` (160): <em>te, se, t, ka, ta, pral, ap, dwe, pwal</em>
 

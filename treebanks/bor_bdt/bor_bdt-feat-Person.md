@@ -11,121 +11,118 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="bor_bdt-feat-Person.html">Person</a></tt>, <tt><a href="bor_bdt-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="bor_bdt-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="bor_bdt-feat-Person-subj.html">Person[subj]</a></tt>.
 
-608 tokens (32%) have a non-empty value of `Person`.
-319 types (45%) occur at least once with a non-empty value of `Person`.
-154 lemmas (41%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (332; 17% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (110; 6% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (60; 3% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (59; 3% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (29; 2% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (16; 1% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+2551 tokens (36%) have a non-empty value of `Person`.
+972 types (53%) occur at least once with a non-empty value of `Person`.
+424 lemmas (43%) occur at least once with a non-empty value of `Person`.
+The feature is used with 7 part-of-speech tags: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> (1075; 15% instances), <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (596; 9% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (484; 7% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (374; 5% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt> (18; 0% instances), <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-332 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Person`.
+1075 <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (302; 91%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (259; 78%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (178; 54%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (921; 86%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (765; 71%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (592; 55%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (78; 23% of non-empty `Person`): <em>Imearudyre, iwogure, Iorudyware, Imaragädymode, Iorydyre, Itaidure, ikodure, imaragädy, imaragädywy, iorudiwawo</em>
-* `2` (55; 17% of non-empty `Person`): <em>arydyre, akaregodyre, akore, amagoi, amagore, amearydure, akaiwo, akuno, amaragädydo, Akaiwodo</em>
-* `3` (199; 60% of non-empty `Person`): <em>to, bito, akore, kowuje, maky, aregodyre, erore, makore, egore, kado</em>
-* `EMPTY` (182): <em>ciri, Itaidure, kowuje, bito, bytydo, ebito, muguwo, to, akore, bire</em>
-
-### `PRON`
-
-110 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (63% of all `PRON` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (99; 90%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (84; 76%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (75; 68%).
-
-`PRON` tokens may have the following values of `Person`:
-
-* `1` (36; 33% of non-empty `Person`): <em>imi, ire, imode, Inure, Cere, Pamode, Pare, aki, cekigodyre, ido</em>
-* `2` (17; 15% of non-empty `Person`): <em>are, ado, aki, Awo, ak, amode</em>
-* `3` (57; 52% of non-empty `Person`): <em>ure, ere, emage, emode, enure, umode, eiamedu, ema, ture, udo</em>
-* `EMPTY` (64): <em>kaboba, ire, inoba, iogudyba, pagi, Ioguduba, pudumi, Inure, Kaiba, are</em>
-
-### `NOUN`
-
-60 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 65%).
-
-`NOUN` tokens may have the following values of `Person`:
-
-* `1` (21; 35% of non-empty `Person`): <em>iiodore, ike, Ikimopariko, Iwiri, Pagaguarigao, aroia, ibai, iegare, ikie, imanamage</em>
-* `2` (7; 12% of non-empty `Person`): <em>ake, akeragu, Akeamirewy, akiere, ako</em>
-* `3` (32; 53% of non-empty `Person`): <em>ewadaru, iere, ebataru, eimejeramode, ji, tubai, Biajarewu, Ukuiepowari, aidy, eioku</em>
-* `EMPTY` (404): <em>boe, karo, pobo, Deu, baru, imedu, imedy, adugo, kuru, boere</em>
-
-<table>
-  <tr><th>Paradigm <i>ie</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>akiere</em></td><td><em>iere</em></td></tr>
-  <tr><td><tt></tt></td><td><em>ikie</em></td><td></td><td></td></tr>
-</table>
+* `1` (237; 22% of non-empty `Person`): <em>Imearudyre, iorydyre, iwogure, ityre, ikodymode, itaidyre, padyre, padywo, Iorudyware, Irore</em>
+* `2` (120; 11% of non-empty `Person`): <em>Aebu, amagore, arydyre, akaregodyre, akore, akowarudo, amagoi, amearydure, amugure, atumode</em>
+* `3` (718; 67% of non-empty `Person`): <em>akore, egore, bito, emagore, to, makore, kabi, maky, etyre, etaregodyre</em>
+* `EMPTY` (353): <em>ciri, Itaidure, akore, kowuje, tugu, ebito, kododydo, motyre, parudo, pemegado</em>
 
 ### `ADP`
 
-59 <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> tokens (28% of all `ADP` tokens) have a non-empty value of `Person`.
+596 <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> tokens (79% of all `ADP` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 76%).
+The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (515; 86%).
 
 `ADP` tokens may have the following values of `Person`:
 
-* `1` (14; 24% of non-empty `Person`): <em>ii, inai, iji, kae, cenai, iwagai, iwogai</em>
-* `2` (7; 12% of non-empty `Person`): <em>ai, awogai, awugeje, inaidy, tagai</em>
-* `3` (38; 64% of non-empty `Person`): <em>ji, kae, ebo, i, pudyi, tapo, ai, bagai, bagaidy, bagaiwy</em>
-* `EMPTY` (151): <em>ji, tabo, to, piji, keje, kae, bagai, tada, jiba, kaeba</em>
+* `1` (48; 8% of non-empty `Person`): <em>ii, inai, itabo, iji, kae, pagabo, Pagudawy, cedabo, cedododai, cenai</em>
+* `2` (35; 6% of non-empty `Person`): <em>ai, awogai, tai, tagabo, tagae, Aigoia, aire, akabo, atogi, awugeje</em>
+* `3` (513; 86% of non-empty `Person`): <em>ji, to, tabo, kae, keje, bogai, piji, apo, tada, ei</em>
+* `EMPTY` (158): <em>tabo, to, piji, keje, koiare, ji, kae, tada, bagai, ae</em>
 
 <table>
   <tr><th>Paradigm <i>ji</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ii, iji</em></td><td><em>ai</em></td><td><em>ji, eji</em></td></tr>
-  <tr><td><tt><tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ji, i, ei</em></td></tr>
+  <tr><td><tt><tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ii, iji</em></td><td><em>ai</em></td><td><em>ji, ii, ae, eji</em></td></tr>
+  <tr><td><tt><tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>tai</em></td><td><em>ji, ei, i</em></td></tr>
+  <tr><td><tt><tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bor_bdt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>ji</em></td></tr>
   <tr><td><tt><tt><a href="bor_bdt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>pudyi</em></td></tr>
 </table>
 
-### `PART`
+### `PRON`
 
-29 <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> tokens (57% of all `PART` tokens) have a non-empty value of `Person`.
+484 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27; 93%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (17; 59%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (431; 89%), <tt><a href="bor_bdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (376; 78%), <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (343; 71%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (340; 70%).
 
-`PART` tokens may have the following values of `Person`:
+`PRON` tokens may have the following values of `Person`:
 
-* `3` (29; 100% of non-empty `Person`): <em>ure, ekare</em>
-* `EMPTY` (22): <em>dy, ure, U, Uw, kaegae, kana, karega, na, ty</em>
+* `1` (110; 23% of non-empty `Person`): <em>imi, ire, imode, inure, pamode, ikare, pawo, iwo, pagi, pare</em>
+* `2` (81; 17% of non-empty `Person`): <em>awo, are, Tamode, amode, tare, tagi, Tagaba, ado, akaba, aki</em>
+* `3` (293; 61% of non-empty `Person`): <em>ure, ere, ukare, umode, emode, enure, bure, kudugodure, padure, udo</em>
+* `EMPTY` (115): <em>ere, kaboba, inoba, ire, iogudyba, pagi, pui, tuwo, ure, Inure</em>
+
+### `NOUN`
+
+374 <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> tokens (20% of all `NOUN` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (257; 69%).
+
+`NOUN` tokens may have the following values of `Person`:
+
+* `1` (177; 47% of non-empty `Person`): <em>imuga, ike, ioga, iogwa, pawadary, cimo, iwadary, iwie, Imana, ikie</em>
+* `2` (37; 10% of non-empty `Person`): <em>akera, ake, akeragu, akiguru, amearydy, awadary, taro, tawadary, Akeamirewy, Akeno</em>
+* `3` (160; 43% of non-empty `Person`): <em>ewadary, iere, ereru, tuge, tuo, erybo, ji, uke, uo, uwai</em>
+* `EMPTY` (1453): <em>boe, kuiada, karo, pobo, imedy, aroe, bai, baru, areme, ipare</em>
 
 ### `X`
 
-16 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (23% of all `X` tokens) have a non-empty value of `Person`.
+18 <tt><a href="bor_bdt-pos-X.html">X</a></tt> tokens (11% of all `X` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 75%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 56%).
+The most frequent other feature values with which `X` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 83%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 56%).
 
 `X` tokens may have the following values of `Person`:
 
-* `1` (6; 38% of non-empty `Person`): <em>Are, Ire, ceno, iie, ikare, pamode</em>
-* `2` (3; 19% of non-empty `Person`): <em>amode, Tare</em>
-* `3` (7; 44% of non-empty `Person`): <em>emode, ure, emodykare, maky</em>
-* `EMPTY` (55): <em>du, dy, jiboe, br, nure, dykeje, jity, ure, Boroge, Eceba</em>
+* `1` (6; 33% of non-empty `Person`): <em>Are, Ire, ceno, iie, ikare, pamode</em>
+* `2` (3; 17% of non-empty `Person`): <em>amode, Tare</em>
+* `3` (9; 50% of non-empty `Person`): <em>emode, ure, Bore, emodykare, maky, unure</em>
+* `EMPTY` (142): <em>dyji, hm, kui, dy, karega, jiboe, Kao, br, nure, He</em>
 
 ### `SCONJ`
 
-2 <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> tokens (20% of all `SCONJ` tokens) have a non-empty value of `Person`.
+3 <tt><a href="bor_bdt-pos-SCONJ.html">SCONJ</a></tt> tokens (4% of all `SCONJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `SCONJ` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `SCONJ` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `SCONJ` tokens may have the following values of `Person`:
 
-* `1` (2; 100% of non-empty `Person`): <em>iwo</em>
-* `EMPTY` (8): <em>bato, dukeje, dykaere, dykeje, dykejere, dytabo, kodi, ma</em>
+* `1` (2; 67% of non-empty `Person`): <em>iwo</em>
+* `3` (1; 33% of non-empty `Person`): <em>keje</em>
+* `EMPTY` (73): <em>dykeje, kodi, keje, kodire, dykejere, dytabo, ma, dybogai, dykae, dykaere</em>
+
+### `PART`
+
+1 <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> tokens (3% of all `PART` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="bor_bdt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%).
+
+`PART` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): <em>ekare</em>
+* `EMPTY` (33): <em>dy, ma, rema, U, Uw, bokware, ca, kaegae, ty, Uwy</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (28; 67%),
-<tt>VERB --[<tt><a href="bor_bdt-dep-dep.html">dep</a></tt>]--> PART</tt> (22; 67%),
-<tt>VERB --[<tt><a href="bor_bdt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (7; 64%),
-<tt>NOUN --[<tt><a href="bor_bdt-dep-case.html">case</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="bor_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="bor_bdt-dep-mark.html">mark</a></tt>]--> SCONJ</tt> (2; 100%),
-<tt>VERB --[<tt><a href="bor_bdt-dep-ccomp.html">ccomp</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>PRON --[<tt><a href="bor_bdt-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (112; 56%),
+<tt>VERB --[<tt><a href="bor_bdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (64; 53%),
+<tt>VERB --[<tt><a href="bor_bdt-dep-dep.html">dep</a></tt>]--> PRON</tt> (39; 56%),
+<tt>VERB --[<tt><a href="bor_bdt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (17; 55%),
+<tt>PRON --[<tt><a href="bor_bdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (9; 69%),
+<tt>PRON --[<tt><a href="bor_bdt-dep-dep.html">dep</a></tt>]--> PRON</tt> (5; 71%),
+<tt>PRON --[<tt><a href="bor_bdt-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
+<tt>NOUN --[<tt><a href="bor_bdt-dep-case.html">case</a></tt>]--> NOUN</tt> (3; 60%),
+<tt>PRON --[<tt><a href="bor_bdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3; 60%),
+<tt>PRON --[<tt><a href="bor_bdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 100%).
 

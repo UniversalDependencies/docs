@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-36954 tokens (12%) have a non-empty value of `VerbForm`.
+36953 tokens (12%) have a non-empty value of `VerbForm`.
 8291 types (30%) occur at least once with a non-empty value of `VerbForm`.
 2144 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (25248; 8% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11704; 4% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (25247; 8% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11704; 4% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-25248 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+25247 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17113; 68%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14735; 58%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14734; 58%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13539; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17113; 68%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14734; 58%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14733; 58%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13539; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (10517; 42% of non-empty `VerbForm`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</em>
 * `Ger` (699; 3% of non-empty `VerbForm`): <em>considerando, facendo, portando, cercando, lasciando, seguendo, tenendo, dando, parlando, passando</em>
 * `Inf` (5670; 22% of non-empty `VerbForm`): <em>fare, far, vedere, avere, dire, dare, pagare, andare, chiedere, usare</em>
-* `Part` (8362; 33% of non-empty `VerbForm`): <em>fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</em>
+* `Part` (8361; 33% of non-empty `VerbForm`): <em>fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</em>
 * `EMPTY` (1): <em>andate</em>
 
 <table>
@@ -122,7 +122,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): <em>partiti, previsto</em>
-* `EMPTY` (59422): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
+* `EMPTY` (59426): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
 
 ## Relations with Agreement in `VerbForm`
 

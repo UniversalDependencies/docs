@@ -23,42 +23,42 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 16 flat	color:blue
-1	बिलबोर्ड	_	PROPN	NNP	Animacy=Inan|Gender=Masc|Number=Sing	9	obl	_	Translit=bilaborḍa
-2	200	_	NUM	CD	NumType=Card	1	nummod	_	Translit=200
-3	में	_	ADP	IN	Case=Loc	1	case	_	Translit=meṁ
-4	इसकी	_	PRON	PRP$	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nmod:poss	_	Translit=isakī
-5	प्रगति	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	obj	_	Translit=pragati
-6	96	_	NUM	CD	NumType=Card	7	nummod	_	Translit=96
-7	नंबर	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=naṁbara
-8	पर	_	ADP	IN	Case=Acc	7	case	_	Translit=para
-9	रुक	_	VERB	VB	_	22	advcl	_	Translit=ruka
-10	जाने	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3	9	aux	_	Translit=jāne
-11	के	_	ADP	IN	_	9	case	_	Translit=ke
-12	बाद	_	ADP	IN	_	11	fixed	_	Translit=bāda
-13	,	_	PUNCT	,	_	9	punct	_	Translit=,
-14	थ़ॉट	_	X	NNP	Foreign=Yes	22	nsubj	_	Translit=tha़ॉṭa
-15	या	_	X	CC	Foreign=Yes	14	flat	_	Translit=yā
-16	न्यू	_	X	JJ	Foreign=Yes	14	flat	_	Proper=True|Translit=nyū
-17	ब्रिटेन	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obl	_	Translit=briṭena
-18	में	_	ADP	IN	Case=Loc	17	case	_	Translit=meṁ
-19	31	_	NUM	CD	NumType=Card	20	nummod	_	Translit=31
-20	नंबर	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	22	obl	_	Translit=naṁbara
-21	पर	_	ADP	IN	Case=Acc	20	case	_	Translit=para
-22	चढ़	_	VERB	VB	_	0	root	_	Translit=caṛha
-23	गया	_	AUX	VXH	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	SpaceAfter=No|Translit=gayā
-24	,	_	PUNCT	,	_	35	punct	_	Translit=,
-25	लेकिन	_	CCONJ	CC	_	35	cc	_	Translit=lekina
-26	एल्बम	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	35	nsubj	_	Translit=elbama
-27	ब्रिटेन	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obl	_	Translit=briṭena
-28	में	_	ADP	IN	Case=Loc	27	case	_	Translit=meṁ
-29	केवल	_	DET	QF	_	31	det	_	Translit=kevala
-30	दो	_	NUM	CD	NumType=Card	31	nummod	_	Translit=do
-31	सप्ताह	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obl	_	Translit=saptāha
-32	तक	_	ADP	IN	_	31	case	_	Translit=taka
-33	चार्ट	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obl	_	Translit=cārṭa
-34	पर	_	ADP	IN	Case=Loc	33	case	_	Translit=para
-35	रहा	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	22	conj	_	SpaceAfter=No|Translit=rahā
-36	।	_	PUNCT	.	_	22	punct	_	Translit=.
+1	बिलबोर्ड	बिलबोर्ड	PROPN	NNP	Gender=Masc|Number=Sing	9	obl	_	Translit=bilaborḍa|LTranslit=bilaborḍa
+2	200	200	NUM	CD	NumType=Card	1	nummod	_	Translit=200|LTranslit=200
+3	में	में	ADP	IN	Case=Loc	1	case	_	Translit=meṁ|LTranslit=meṁ
+4	इसकी	यह	PRON	PRP$	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nmod:poss	_	Translit=isakī|LTranslit=yaha
+5	प्रगति	प्रगति	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	9	obj	_	Translit=pragati|LTranslit=pragati
+6	96	96	NUM	CD	NumType=Card	7	nummod	_	Translit=96|LTranslit=96
+7	नंबर	नंबर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Translit=naṁbara|LTranslit=naṁbara
+8	पर	पर	ADP	IN	Case=Acc	7	case	_	Translit=para|LTranslit=para
+9	रुक	रुकना	VERB	VB	_	22	advcl	_	LTranslit=rukanā|Translit=ruka
+10	जाने	जाना	AUX	VXH	Gender=Masc|Number=Sing|Person=3	9	aux	_	LTranslit=jānā|Translit=jāne
+11	के	के	ADP	IN	_	9	case	_	Translit=ke|LTranslit=ke
+12	बाद	बाद	ADP	IN	_	11	fixed	_	Translit=bāda|LTranslit=bāda
+13	,	,	PUNCT	,	_	9	punct	_	Translit=,|LTranslit=,
+14	थ़ॉट	थ़ॉट	X	NNP	Foreign=Yes	22	nsubj	_	Translit=tha़ॉṭa|LTranslit=tha़ॉṭa
+15	या	या	X	CC	Foreign=Yes	14	flat	_	Translit=yā|LTranslit=yā
+16	न्यू	न्यू	X	JJ	Foreign=Yes	14	flat	_	Proper=True|Translit=nyū|LTranslit=nyū
+17	ब्रिटेन	ब्रिटेन	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	Translit=briṭena|LTranslit=briṭena
+18	में	में	ADP	IN	Case=Loc	17	case	_	Translit=meṁ|LTranslit=meṁ
+19	31	31	NUM	CD	NumType=Card	20	nummod	_	Translit=31|LTranslit=31
+20	नंबर	नंबर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	22	obl	_	Translit=naṁbara|LTranslit=naṁbara
+21	पर	पर	ADP	IN	Case=Acc	20	case	_	Translit=para|LTranslit=para
+22	चढ़	चढ़ना	VERB	VB	_	0	root	_	LTranslit=caṛhanā|Translit=caṛha
+23	गया	जाना	AUX	VXH	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	LTranslit=jānā|SpaceAfter=No|Translit=gayā
+24	,	,	PUNCT	,	_	35	punct	_	Translit=,|LTranslit=,
+25	लेकिन	लेकिन	CCONJ	CC	_	35	cc	_	Translit=lekina|LTranslit=lekina
+26	एल्बम	एल्बम	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	35	nsubj	_	Translit=elbama|LTranslit=elbama
+27	ब्रिटेन	ब्रिटेन	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing	35	obl	_	Translit=briṭena|LTranslit=briṭena
+28	में	में	ADP	IN	Case=Loc	27	case	_	Translit=meṁ|LTranslit=meṁ
+29	केवल	केवल	DET	QF	_	31	det	_	Translit=kevala|LTranslit=kevala
+30	दो	दो	NUM	CD	NumType=Card	31	nummod	_	Translit=do|LTranslit=do
+31	सप्ताह	सप्ताह	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	35	obl	_	Translit=saptāha|LTranslit=saptāha
+32	तक	तक	ADP	IN	_	31	case	_	Translit=taka|LTranslit=taka
+33	चार्ट	चार्ट	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	35	obl	_	Translit=cārṭa|LTranslit=cārṭa
+34	पर	पर	ADP	IN	Case=Loc	33	case	_	Translit=para|LTranslit=para
+35	रहा	रहना	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	22	conj	_	LTranslit=rahanā|SpaceAfter=No|Translit=rahā
+36	।	।	PUNCT	.	_	22	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -69,32 +69,32 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
-1	श्री	_	PART	HON	_	19	obl	_	Proper=True|ToDo=ex-adp-child|Translit=śrī
-2	विंटरकॉर्न	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	Translit=viṁṭarakôrna
-3	और	_	CCONJ	CC	_	5	cc	_	ToDo=ex-adp-child|Translit=aura
-4	ब्रांड	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	5	compound	_	Translit=brāṁḍa
-5	प्रमुख	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=pramukha
-6	हर्बर्ट	_	PROPN	NNP	Animacy=Anim|Gender=Masc|Number=Sing	5	flat	_	Translit=harbarṭa
-7	डिएस	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No|Translit=ḍiesa
-8	,	_	PUNCT	,	_	15	punct	_	Translit=,
-9	जो	_	PRON	REL	Case=Nom|Gender[psor]=Masc|Number[psor]=Sing|PronType=Prs	15	nsubj	_	ToDo=जो|Translit=jo
-10	अभी	_	NOUN	NST	_	15	obl:tmod	_	Translit=abhī
-11	भी	_	PART	EMPH	_	10	discourse	_	Translit=bhī
-12	कार	_	NOUN	NN	Animacy=Inan|Gender=Fem|Number=Sing	13	compound	_	Proper=True|Translit=kāra
-13	मेकर	_	NOUN	NN	Animacy=Anim|Case=Acc|Number=Sing	15	obl	_	Proper=True|Translit=mekara
-14	में	_	ADP	IN	Case=Loc	13	case	_	Translit=meṁ
-15	हैं	_	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres	6	acl:relcl	_	SpaceAfter=No|Translit=haiṁ
-16	,	_	PUNCT	,	_	15	punct	_	Translit=,
-17	पर	_	ADP	IN	Case=Acc	6	case	_	Translit=para
-18	केन्द्रित	_	ADJ	JJ	_	19	compound:lvc	_	Translit=kendrita
-19	करने	_	VERB	VBI	Gender=Masc|Number=Sing|Person=3	25	acl	_	Translit=karane
-20	हुए	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3	19	aux	_	Translit=hue
-21	जांच	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	obj	_	Translit=jāṁca
-22	जून	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obl:tmod	_	Translit=jūna
-23	में	_	ADP	IN	Case=Loc	22	case	_	Translit=meṁ
-24	शुरू	_	NOUN	NN	Gender=Masc|Number=Sing	25	compound:lvc	_	Translit=śurū
-25	हुई	_	VERB	VBI	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=huī
-26	।	_	PUNCT	.	_	25	punct	_	Translit=.
+1	श्री	श्री	PART	HON	_	20	obl	_	Proper=True|ToDo=ex-adp-child|Translit=śrī|LTranslit=śrī
+2	विंटरकॉर्न	विंटरकॉर्न	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	Translit=viṁṭarakôrna|LTranslit=viṁṭarakôrna
+3	और	और	CCONJ	CC	_	5	cc	_	ToDo=ex-adp-child|Translit=aura|LTranslit=aura
+4	ब्रांड	ब्रांड	NOUN	NN	Gender=Masc|Number=Sing	5	compound	_	Translit=brāṁḍa|LTranslit=brāṁḍa
+5	प्रमुख	प्रमुख	NOUN	NN	Case=Nom|Number=Sing	1	conj	_	Translit=pramukha|LTranslit=pramukha
+6	हर्बर्ट	हर्बर्ट	PROPN	NNP	Gender=Masc|Number=Sing	5	flat	_	Translit=harbarṭa|LTranslit=harbarṭa
+7	डिएस	डिएस	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No|Translit=ḍiesa|LTranslit=ḍiesa
+8	,	,	PUNCT	,	_	15	punct	_	Translit=,|LTranslit=,
+9	जो	जो	PRON	REL	Case=Nom|Gender[psor]=Masc|Number[psor]=Sing|PronType=Prs	15	nsubj	_	ToDo=जो|Translit=jo|LTranslit=jo
+10	अभी	अभी	NOUN	NST	_	15	obl:tmod	_	Translit=abhī|LTranslit=abhī
+11	भी	भी	PART	EMPH	_	10	discourse	_	Translit=bhī|LTranslit=bhī
+12	कार	कार	NOUN	NN	Gender=Fem|Number=Sing	13	compound	_	Proper=True|Translit=kāra|LTranslit=kāra
+13	मेकर	मेकर	NOUN	NN	Case=Acc|Number=Sing	15	obl	_	Proper=True|Translit=mekara|LTranslit=mekara
+14	में	में	ADP	IN	Case=Loc	13	case	_	Translit=meṁ|LTranslit=meṁ
+15	हैं	हैना	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres	6	acl:relcl	_	LTranslit=hainā|SpaceAfter=No|Translit=haiṁ
+16	,	,	PUNCT	,	_	15	punct	_	Translit=,|LTranslit=,
+17	पर	पर	ADP	IN	Case=Acc	6	case	_	Translit=para|LTranslit=para
+18	केन्द्रित	केंद्रित	ADJ	JJ	_	19	compound:lvc	_	Translit=kendrita|LTranslit=keṁdrita
+19	करने	करना	VERB	VBI	Gender=Masc|Number=Sing|Person=3	20	xcomp	_	LTranslit=karanā|Translit=karane
+20	हुए	होना	VERB	VXH	Gender=Masc|Number=Sing|Person=3	25	acl	_	LTranslit=honā|Translit=hue
+21	जांच	जांच	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	25	obj	_	Translit=jāṁca|LTranslit=jāṁca
+22	जून	जून	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	25	obl:tmod	_	Translit=jūna|LTranslit=jūna
+23	में	में	ADP	IN	Case=Loc	22	case	_	Translit=meṁ|LTranslit=meṁ
+24	शुरू	शुरू	NOUN	NN	Gender=Masc|Number=Sing	25	compound:lvc	_	Translit=śurū|LTranslit=śurū
+25	हुई	होना	VERB	VBI	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LTranslit=honā|SpaceAfter=No|Translit=huī
+26	।	।	PUNCT	.	_	25	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -105,32 +105,32 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	श्री	_	PART	HON	_	19	obl	_	Proper=True|ToDo=ex-adp-child|Translit=śrī
-2	विंटरकॉर्न	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	flat	_	Translit=viṁṭarakôrna
-3	और	_	CCONJ	CC	_	5	cc	_	ToDo=ex-adp-child|Translit=aura
-4	ब्रांड	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	5	compound	_	Translit=brāṁḍa
-5	प्रमुख	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Sing	1	conj	_	Translit=pramukha
-6	हर्बर्ट	_	PROPN	NNP	Animacy=Anim|Gender=Masc|Number=Sing	5	flat	_	Translit=harbarṭa
-7	डिएस	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No|Translit=ḍiesa
-8	,	_	PUNCT	,	_	15	punct	_	Translit=,
-9	जो	_	PRON	REL	Case=Nom|Gender[psor]=Masc|Number[psor]=Sing|PronType=Prs	15	nsubj	_	ToDo=जो|Translit=jo
-10	अभी	_	NOUN	NST	_	15	obl:tmod	_	Translit=abhī
-11	भी	_	PART	EMPH	_	10	discourse	_	Translit=bhī
-12	कार	_	NOUN	NN	Animacy=Inan|Gender=Fem|Number=Sing	13	compound	_	Proper=True|Translit=kāra
-13	मेकर	_	NOUN	NN	Animacy=Anim|Case=Acc|Number=Sing	15	obl	_	Proper=True|Translit=mekara
-14	में	_	ADP	IN	Case=Loc	13	case	_	Translit=meṁ
-15	हैं	_	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres	6	acl:relcl	_	SpaceAfter=No|Translit=haiṁ
-16	,	_	PUNCT	,	_	15	punct	_	Translit=,
-17	पर	_	ADP	IN	Case=Acc	6	case	_	Translit=para
-18	केन्द्रित	_	ADJ	JJ	_	19	compound:lvc	_	Translit=kendrita
-19	करने	_	VERB	VBI	Gender=Masc|Number=Sing|Person=3	25	acl	_	Translit=karane
-20	हुए	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3	19	aux	_	Translit=hue
-21	जांच	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	25	obj	_	Translit=jāṁca
-22	जून	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	obl:tmod	_	Translit=jūna
-23	में	_	ADP	IN	Case=Loc	22	case	_	Translit=meṁ
-24	शुरू	_	NOUN	NN	Gender=Masc|Number=Sing	25	compound:lvc	_	Translit=śurū
-25	हुई	_	VERB	VBI	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=huī
-26	।	_	PUNCT	.	_	25	punct	_	Translit=.
+1	श्री	श्री	PART	HON	_	20	obl	_	Proper=True|ToDo=ex-adp-child|Translit=śrī|LTranslit=śrī
+2	विंटरकॉर्न	विंटरकॉर्न	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	Translit=viṁṭarakôrna|LTranslit=viṁṭarakôrna
+3	और	और	CCONJ	CC	_	5	cc	_	ToDo=ex-adp-child|Translit=aura|LTranslit=aura
+4	ब्रांड	ब्रांड	NOUN	NN	Gender=Masc|Number=Sing	5	compound	_	Translit=brāṁḍa|LTranslit=brāṁḍa
+5	प्रमुख	प्रमुख	NOUN	NN	Case=Nom|Number=Sing	1	conj	_	Translit=pramukha|LTranslit=pramukha
+6	हर्बर्ट	हर्बर्ट	PROPN	NNP	Gender=Masc|Number=Sing	5	flat	_	Translit=harbarṭa|LTranslit=harbarṭa
+7	डिएस	डिएस	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	SpaceAfter=No|Translit=ḍiesa|LTranslit=ḍiesa
+8	,	,	PUNCT	,	_	15	punct	_	Translit=,|LTranslit=,
+9	जो	जो	PRON	REL	Case=Nom|Gender[psor]=Masc|Number[psor]=Sing|PronType=Prs	15	nsubj	_	ToDo=जो|Translit=jo|LTranslit=jo
+10	अभी	अभी	NOUN	NST	_	15	obl:tmod	_	Translit=abhī|LTranslit=abhī
+11	भी	भी	PART	EMPH	_	10	discourse	_	Translit=bhī|LTranslit=bhī
+12	कार	कार	NOUN	NN	Gender=Fem|Number=Sing	13	compound	_	Proper=True|Translit=kāra|LTranslit=kāra
+13	मेकर	मेकर	NOUN	NN	Case=Acc|Number=Sing	15	obl	_	Proper=True|Translit=mekara|LTranslit=mekara
+14	में	में	ADP	IN	Case=Loc	13	case	_	Translit=meṁ|LTranslit=meṁ
+15	हैं	हैना	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polite=Form|Tense=Pres	6	acl:relcl	_	LTranslit=hainā|SpaceAfter=No|Translit=haiṁ
+16	,	,	PUNCT	,	_	15	punct	_	Translit=,|LTranslit=,
+17	पर	पर	ADP	IN	Case=Acc	6	case	_	Translit=para|LTranslit=para
+18	केन्द्रित	केंद्रित	ADJ	JJ	_	19	compound:lvc	_	Translit=kendrita|LTranslit=keṁdrita
+19	करने	करना	VERB	VBI	Gender=Masc|Number=Sing|Person=3	20	xcomp	_	LTranslit=karanā|Translit=karane
+20	हुए	होना	VERB	VXH	Gender=Masc|Number=Sing|Person=3	25	acl	_	LTranslit=honā|Translit=hue
+21	जांच	जांच	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	25	obj	_	Translit=jāṁca|LTranslit=jāṁca
+22	जून	जून	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	25	obl:tmod	_	Translit=jūna|LTranslit=jūna
+23	में	में	ADP	IN	Case=Loc	22	case	_	Translit=meṁ|LTranslit=meṁ
+24	शुरू	शुरू	NOUN	NN	Gender=Masc|Number=Sing	25	compound:lvc	_	Translit=śurū|LTranslit=śurū
+25	हुई	होना	VERB	VBI	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LTranslit=honā|SpaceAfter=No|Translit=huī
+26	।	।	PUNCT	.	_	25	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -11,80 +11,86 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt>, <tt><a href="xav_xdt-feat-Person-abs.html">Person[abs]</a></tt>.
 
-148 tokens (9%) have a non-empty value of `Person`.
-78 types (23%) occur at least once with a non-empty value of `Person`.
-47 lemmas (18%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (67; 4% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (43; 3% instances), <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (23; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+170 tokens (10%) have a non-empty value of `Person`.
+101 types (25%) occur at least once with a non-empty value of `Person`.
+64 lemmas (21%) occur at least once with a non-empty value of `Person`.
+The feature is used with 7 part-of-speech tags: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (74; 4% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (45; 3% instances), <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (23; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-67 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (19% of all `NOUN` tokens) have a non-empty value of `Person`.
+74 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (20% of all `NOUN` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (44; 59%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `1` (11; 16% of non-empty `Person`): <em>Ĩ'rã, ĩĩmama, 'ra, Wahitébré, Watsi'utsu, Wawa'a, wa'ra, warob, watsa, watsai</em>
-* `2` (11; 16% of non-empty `Person`): <em>Atsõhui'wa, Aimama, Aiwa'a, Ana, aihitébré, ai’udza, atsib'rada, aimreme</em>
-* `3` (45; 67% of non-empty `Person`): <em>ti'ra, ĩprédu, tina, timama, tinhohui'wai, ĩ'ra, ĩpire, ĩta'are, ĩtsa, Ano</em>
-* `EMPTY` (277): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, Mare, bötö</em>
+* `1` (15; 20% of non-empty `Person`): <em>ĩĩmama, Ĩ'rã, 'ra, Wahitébré, Watsi'utsu, Wawa'a, wa'ranorĩhã, warob, watsa, watsai</em>
+* `2` (11; 15% of non-empty `Person`): <em>Atsõhui'wa, Aimama, Aiwa'a, aihitébré, ai’udza, atsib'rada, Ananorĩhã, aimreme</em>
+* `3` (48; 65% of non-empty `Person`): <em>ĩprédu, tina, timama, tinhohui'wai, ĩpire, ĩta'are, ĩtsa, Ano, Danhimidzama, Dapoto'wa</em>
+* `EMPTY` (295): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
 
 <table>
   <tr><th>Paradigm <i>mama</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>Aimama</em></td><td><em>timama, ĩmama</em></td></tr>
   <tr><td><tt><tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ĩĩmama</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="xav_xdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>Ĩĩmama</em></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-43 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
+45 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (38; 88%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (29; 67%), <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (23; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (36; 80%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (30; 67%), <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (17; 40% of non-empty `Person`): <em>wanorĩhã, wama, wasima, ĩma, ĩĩsima</em>
-* `2` (10; 23% of non-empty `Person`): <em>aima, anorĩwa'wahã, asina</em>
-* `3` (16; 37% of non-empty `Person`): <em>tãma, õhã, õnorĩhã, dama</em>
-* `EMPTY` (16): <em>Taha, aihini, 'wa, ni'wa, te, uburé, atsa, Ãhã</em>
+* `1` (19; 42% of non-empty `Person`): <em>wanorĩhã, wama, wasima, ĩma, ĩĩsima, Wahã, wate</em>
+* `2` (11; 24% of non-empty `Person`): <em>aima, anorĩwa'wahã, anorĩ, asina</em>
+* `3` (15; 33% of non-empty `Person`): <em>tãma, õhã, õnorĩhã, dawi</em>
+* `EMPTY` (28): <em>Taha, aihini, uburé, 'wa, Ta, dama, ni, ni'wa, Tahã, Wahã</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 
 ### `PART`
 
-23 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (7% of all `PART` tokens) have a non-empty value of `Person`.
+23 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (6% of all `PART` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PART` and `Person` co-occurred: <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (23; 100%).
 
 `PART` tokens may have the following values of `Person`:
 
 * `1` (23; 100% of non-empty `Person`): <em>wa</em>
-* `EMPTY` (326): <em>te, dza'ra, e, ma, norĩ, norĩhã, õ, hã, dza, tô</em>
-
-### `ADP`
-
-5 <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `Person`.
-
-`ADP` tokens may have the following values of `Person`:
-
-* `1` (2; 40% of non-empty `Person`): <em>wadzô, waré</em>
-* `2` (1; 20% of non-empty `Person`): <em>atsarina</em>
-* `3` (2; 40% of non-empty `Person`): <em>tiwi</em>
-* `EMPTY` (107): <em>na, ãma, me, u, wi, dzô, 're, ma, ré, baba</em>
+* `EMPTY` (355): <em>te, dza'ra, ma, e, hã, norĩ, õ, dza, norĩhã, tô</em>
 
 ### `VERB`
 
-5 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Person`.
+17 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="xav_xdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="xav_xdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=EMPTY</tt> (17; 100%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1; 20% of non-empty `Person`): <em>Ĩĩsiupte</em>
-* `3` (4; 80% of non-empty `Person`): <em>ĩ'rãzani, ti'ö, tinha</em>
-* `EMPTY` (187): <em>romhuri, mo, wara, romhu, waihu'u, höimana, tsadanha, tineb, tiwĩ, wapari</em>
+* `1` (3; 18% of non-empty `Person`): <em>Ĩĩsiupte, ĩĩwasutu, ĩĩzahi</em>
+* `2` (1; 6% of non-empty `Person`): <em>aañamra</em>
+* `3` (13; 76% of non-empty `Person`): <em>ĩ'rãzani, ti'ö, tinha, ĩbicho, ajwajrĩ, azidi, dahudu, höjmana, iwẽ, pusi</em>
+* `EMPTY` (191): <em>romhuri, mo, wara, romhu, waihu'u, höimana, tsadanha, tineb, tiwĩ, wapari</em>
+
+`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (15) occur only with one value of `Person`.
+
+### `ADP`
+
+6 <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `Person`.
+
+`ADP` tokens may have the following values of `Person`:
+
+* `1` (3; 50% of non-empty `Person`): <em>wadzô, waré, ĩĩma</em>
+* `2` (1; 17% of non-empty `Person`): <em>atsarina</em>
+* `3` (2; 33% of non-empty `Person`): <em>tiwi</em>
+* `EMPTY` (125): <em>na, da, ãma, me, u, wi, dzô, ma, 're, ré</em>
 
 ### `AUX`
 
-4 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (13% of all `AUX` tokens) have a non-empty value of `Person`.
+4 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (11% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 75%).
 
@@ -92,7 +98,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `1` (3; 75% of non-empty `Person`): <em>wate</em>
 * `3` (1; 25% of non-empty `Person`): <em>tete</em>
-* `EMPTY` (26): <em>te, ma'ãpé, mo</em>
+* `EMPTY` (33): <em>te, di, ma'ãpé, mo</em>
 
 <table>
   <tr><th>Paradigm <i>te</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -107,7 +113,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `ADV` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>wẽ</em>
-* `EMPTY` (66): <em>dzéma, duré, tsa'ẽtè, wei, oto, petse, pi'uriwi, Höiwahö, Niwa, ahömhö</em>
+* `EMPTY` (87): <em>duré, dzéma, tsa'ẽtè, wei, si, õ, oto, petse, pi'uriwi, Höiwahö</em>
 
 ## Relations with Agreement in `Person`
 

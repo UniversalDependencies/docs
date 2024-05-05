@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 12	fgColor:white
 # visual-style 12 13 fixed	color:blue
 1	Shot	shot	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	Discourse=adversative-concession:79->80:0:_|Entity=(95-object-new-cf2-1-sgl)
-2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Interrogative-Wh|MSeg=come-s
+2	comes	come	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|MSeg=come-s
 3	on	on	ADV	RB	Degree=Pos	2	advmod	2:advmod	_
 4	through	through	ADP	RP	_	2	compound:prt	2:compound:prt	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	7:punct	_
@@ -50,9 +50,9 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 1	Till	till	SCONJ	IN	_	6	mark	6:mark	Discourse=attribution-positive:98->101:2:_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	Entity=(3-person-giv:inact-cf1-1-ana)
 3	scarcely	scarcely	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
-4	more	more	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	_
+4	more	more	ADV	RBR	Degree=Cmp	6	advmod	6:advmod	ExtPos=ADV
 5	than	than	ADP	IN	_	4	fixed	4:fixed	Discourse=adversative-antithesis:99->98:0:_
-6	muttered	mutter	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+6	muttered	mutter	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=mutter-ed
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 9 10 fixed	color:blue
 1	Let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=explanation-evidence:12->16:0:_
 2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Entity=(22-abstract-new-cf1-2-coref
-3	rectangle	rectangle	NOUN	NN	Number=Sing	1	obj	1:obj|6:nsubj:pass:xsubj	Entity=22)|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Rectangle"></ref>
+3	rectangle	rectangle	NOUN	NN	Number=Sing	1	obj	1:obj|6:nsubj:pass:xsubj	Entity=22)|MSeg=rect-angle|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Rectangle"></ref>
 4	DH	DH	NOUN	NN	Abbr=Yes|Number=Sing	3	dep	3:dep	Entity=(22-abstract-giv:act-cf1-1-coref)
 5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	6:aux:pass	_
 6	applied	apply	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	1:xcomp	MSeg=appl-i-ed

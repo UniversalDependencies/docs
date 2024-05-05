@@ -45,7 +45,7 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	да	да	CCONJ	Pcle	_	3	cc	_	OrigLang=ru
 3	тэчигӧн	тэчыны	VERB	V	Case=Ins|Derivation=Ig|VerbForm=Conv	1	conj	_	_
 4	му	му	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
-5	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	4	case	_	_
+5	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	4	case	_	_
 6	усьӧ	усьны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 7	уна	уна	ADV	Adv	_	8	advmod	_	_
 8	шеп	шеп	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	SpaceAfter=No

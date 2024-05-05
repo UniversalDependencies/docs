@@ -96,8 +96,8 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 19	vetenskapen	vetenskap	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	17	nmod	_	_
 20	att	att	PART	_	_	21	mark	_	_
 21	iaktta	iaktta	VERB	INF-ACT	VerbForm=Inf|Voice=Act	17	csubj	_	_
-22	de	den	DET	PL-DEF	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
-23	själsliga	själslig	ADJ	POS-PL-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	24	amod	_	_
+22	de	de	DET	PL-DEF	Definite=Def|Number=Plur|PronType=Art	24	det	_	_
+23	själsliga	själslig	ADJ	POS-PL-DEF	Case=Nom|Definite=Def|Degree=Pos	24	amod	_	_
 24	förändringarna	förändring	NOUN	PL-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	21	obj	_	_
 25	hos	hos	ADP	_	_	26	case	_	_
 26	individer	individ	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	24	nmod	_	_

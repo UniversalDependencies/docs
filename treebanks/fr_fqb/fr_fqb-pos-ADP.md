@@ -13,7 +13,7 @@ The 10 most frequent `ADP` lemmas: <em>de, à, en, dans, pour, sur, par, _, sous
 
 The 10 most frequent `ADP` types:  <em>de, à, d', en, dans, pour, sur, par, sous, comme</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>du</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>du</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 1372, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 8), <em>d'</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 248, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2), <em>entre</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 14, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1), <em>après</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>avant</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>vers</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_fqb-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.488372 (the average of all parts of speech is 1.163777).
+The form / lemma ratio of `ADP` is 0.488372 (the average of all parts of speech is 1.164044).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>après, d', de, à</em>.
 
@@ -47,12 +47,12 @@ The 2nd highest number of forms (2) was observed with the lemma “de”: <em>d'
 
 The 3rd highest number of forms (1) was observed with the lemma “après”: <em>après</em>.
 
-`ADP` occurs with 2 features: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt> (3; 0% instances), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt> (3; 0% instances)
+`ADP` occurs with 3 features: <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (52; 2% instances), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt> (3; 0% instances), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt> (3; 0% instances)
 
-`ADP` occurs with 2 feature-value pairs: `Gender=Fem`, `Number=Sing`
+`ADP` occurs with 7 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=DET`, `ExtPos=SCONJ`, `Gender=Fem`, `Number=Sing`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2866 tokens).
+`ADP` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (2817 tokens).
 Examples: <em>de, à, d', en, dans, pour, sur, par, sous, comme</em>
 
 

@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	waptẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	tsa	tsa	NOUN	n	_	8	advcl	_	food;comida,alimento
-11	da	da	SCONJ	sconj	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+11	da	da	ADP	posp	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 12	.	.	PUNCT	punct	_	8	punct	_	_
 
 ~~~

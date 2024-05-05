@@ -124,7 +124,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (55; 100% of non-empty `Tense`): <em>nakatunuid, surnuid, nakatunutest, nakatunut, nakatunu, nakatunust, nakatunute, surnu, surnut, Kirjapandu</em>
-* `EMPTY` (18020): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `EMPTY` (18006): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 `Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `Tense`.
 

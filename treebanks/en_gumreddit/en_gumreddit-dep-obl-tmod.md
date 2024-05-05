@@ -60,11 +60,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 7	_	_	PART	TO	_	8	mark	8:mark	Lem=_|Len=2
 8	_	_	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	Lem=_|Len=5
 9	_	_	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=(127-time-new-cf3-2-sgl|Lem=_|Len=1
-10	_	_	NOUN	NNS	Number=Plur	8	obj	8:obj	Entity=127)|Lem=hour|Len=3
+10	_	_	NOUN	NNS	Abbr=Yes|Number=Plur	8	obj	8:obj	Entity=127)|Lem=hour|Len=3
 11	_	_	ADV	RB	_	12	advmod	12:advmod	Discourse=mode-manner:113->112:0:syn-pres-797|Lem=_|Len=4
-12	_	_	VERB	VBG	VerbForm=Ger	8	advcl	8:advcl	Lem=chill|Len=8|MSeg=chill-ing
+12	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	8	advcl	8:advcl	Lem=chill|Len=8|MSeg=chill-ing
 13	_	_	CCONJ	CC	_	14	cc	14:cc	Discourse=joint-list_m:114->113:0:dm-and-798|Lem=_|Len=3
-14	_	_	VERB	VBG	VerbForm=Ger	12	conj	8:advcl|12:conj:and	Lem=talk|Len=7|MSeg=talk-ing
+14	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	12	conj	8:advcl|12:conj:and	Lem=talk|Len=7|MSeg=talk-ing
 15	_	_	ADP	IN	_	17	case	17:case	Lem=_|Len=4
 16	_	_	DET	DT	Definite=Def|PronType=Art	17	det	17:det	Entity=(117-person-giv:inact-cf2-2-coref|Lem=_|Len=3
 17	_	_	NOUN	NNS	Number=Plur	14	obl	14:obl:with	Entity=117)|Lem=roommate|Len=9|MSeg=room-mate-s

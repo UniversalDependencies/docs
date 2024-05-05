@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 84118 tokens (61%) have a non-empty value of `Number`.
 8939 types (83%) occur at least once with a non-empty value of `Number`.
-7803 lemmas (82%) occur at least once with a non-empty value of `Number`.
+7885 lemmas (82%) occur at least once with a non-empty value of `Number`.
 The feature is used with 14 part-of-speech tags: <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (32533; 24% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (17035; 12% instances), <tt><a href="ur_udtb-pos-ADP.html">ADP</a></tt> (10284; 7% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (8539; 6% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (7972; 6% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (4100; 3% instances), <tt><a href="ur_udtb-pos-DET.html">DET</a></tt> (1891; 1% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (1201; 1% instances), <tt><a href="ur_udtb-pos-ADV.html">ADV</a></tt> (444; 0% instances), <tt><a href="ur_udtb-pos-NUM.html">NUM</a></tt> (59; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (46; 0% instances), <tt><a href="ur_udtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="ur_udtb-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-X.html">X</a></tt> (4; 0% instances).
 
 ### `NOUN`
@@ -105,7 +105,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 * `EMPTY` (4156): کر، ہو، کرنے، ہونے، دینے، دے، رکھنے، آ، لے، بنانے
 
 <table>
-  <tr><th>Paradigm <i>کر</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><th>Paradigm <i>کرنا</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرتے</td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>کرتے, کرتا</td><td>کرتے</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کرتا, کرتے</td><td>کرتے</td></tr>

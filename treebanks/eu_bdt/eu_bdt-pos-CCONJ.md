@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `CCONJ`
 
-There are 47 `CCONJ` lemmas (0%), 52 `CCONJ` types (0%) and 6187 `CCONJ` tokens (5%).
+There are 47 `CCONJ` lemmas (0%), 51 `CCONJ` types (0%) and 6187 `CCONJ` tokens (5%).
 Out of 17 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>eta, ere, baina, edo, berriz, arren, ordea, gainera, beraz, bestalde</em>
@@ -15,7 +15,7 @@ The 10 most frequent `CCONJ` types:  <em>eta, ere, baina, edo, berriz, arren, or
 
 The 10 most frequent ambiguous lemmas: <em>berriz</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 100, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 28), <em>arren</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 89, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="eu_bdt-pos-SCONJ.html">SCONJ</a></tt> 1), <em>gainera</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 80, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 16, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 9), <em>zein</em> (<tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 46, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1), <em>orduan</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 29, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 16), <em>alta</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>ezik</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1), <em>ostera</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 4), <em>alegia</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 4), <em>hots</em> (<tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 7)
 
-The 10 most frequent ambiguous types:  <em>berriz</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 100, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 27, <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>arren</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 89, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="eu_bdt-pos-SCONJ.html">SCONJ</a></tt> 1), <em>gainera</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 36, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 9, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 2), <em>beraz</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 1), <em>aldiz</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 39, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 39), <em>zein</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 32), <em>orduan</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 21, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>alta</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>ezik</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1), <em>bada</em> (<tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> 33, <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> 20, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 10)
+The 10 most frequent ambiguous types:  <em>berriz</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 100, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 27, <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>arren</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 89, <tt><a href="eu_bdt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="eu_bdt-pos-SCONJ.html">SCONJ</a></tt> 1), <em>gainera</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 37, <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 9, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 2), <em>beraz</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 29, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 1), <em>aldiz</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 39, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 39), <em>zein</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> 32), <em>orduan</em> (<tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 21, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>alta</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>ezik</em> (<tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 1), <em>bada</em> (<tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> 33, <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> 20, <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 10)
 
 
 * <em>berriz</em>
@@ -28,9 +28,9 @@ The 10 most frequent ambiguous types:  <em>berriz</em> (<tt><a href="eu_bdt-pos-
   * <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 1: <em>Markagailua txukundu <b>arren</b> , ordea , galiziarrek ez zuten partiduan eskainitako itxura kaskarra hobetu .</em>
   * <tt><a href="eu_bdt-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Debut olinpiarra egin dute , eta Martinho de Araujok halterofilian eta Victor Ramosek boxeoan garaipenik lortu ez <b>arren</b> , irabazi egin zuten .</em>
 * <em>gainera</em>
-  * <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 36: <em>Azken minutuetan <b>gainera</b> , partidua gogortu egin zen .</em>
+  * <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 37: <em>Azken minutuetan <b>gainera</b> , partidua gogortu egin zen .</em>
   * <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> 9: <em>Parke eta erreserba naturalez <b>gainera</b> , hiru erreserba integral daude :</em>
-  * <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 5: <em>Juan Miguel Gonzalez Elianen aitaren aldeko epaia da <b>gainera</b> .</em>
+  * <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> 6: <em>Juan Miguel Gonzalez Elianen aitaren aldeko epaia da <b>gainera</b> .</em>
   * <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> 2: <em>Paralizatuta bezala zegoen Elvis , <b>gainera</b> zetorkion erauntsiari nola aurre egin ez zekiela , erruduntasun sentimendu batek geldi egotera beharturik edo .</em>
 * <em>beraz</em>
   * <tt><a href="eu_bdt-pos-CCONJ.html">CCONJ</a></tt> 29: <em>Alternatiba <b>beraz</b> , bakarra dago :</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>berriz</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.106383 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `CCONJ` is 1.085106 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (3) was observed with the lemma “eta”: <em>ea, era, eta</em>.
 

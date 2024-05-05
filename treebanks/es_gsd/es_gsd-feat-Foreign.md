@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (29; 100% of non-empty `Foreign`): <em>Apostoli, Bass, Boy, Dioecesis, kapellmeister, nɔrsk, nɔʂːk, Avengers, Bitch, Creek</em>
-* `EMPTY` (77537): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
+* `EMPTY` (77530): <em>años, año, parte, población, ciudad, personas, municipio, estado, km, familia</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (27) occur only with one value of `Foreign`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (15; 100% of non-empty `Foreign`): <em>Let, Kick, Appears, Give, Go, Kiss, Lovin, Made, Makes, Need</em>
-* `EMPTY` (36344): <em>tiene, es, encuentra, hay, hacer, hace, tenía, tienen, era, ubicado</em>
+* `EMPTY` (36350): <em>tiene, es, encuentra, hay, hacer, hace, tenía, tienen, era, ubicado</em>
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Foreign`.
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>at, de, for, in</em>
-* `EMPTY` (71079): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
+* `EMPTY` (71081): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
 
 ### `NUM`
 
@@ -148,7 +148,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>If, When</em>
-* `EMPTY` (8175): <em>que, cuando, si, para, aunque, porque, como, mientras, pues, según</em>
+* `EMPTY` (8177): <em>que, cuando, si, para, aunque, porque, como, mientras, pues, según</em>
 
 ## Relations with Agreement in `Foreign`
 

@@ -21,7 +21,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (221; 100% of non-empty `Polarity`): <em>pas, ne, n', n’, plus, jamais, non</em>
-* `EMPTY` (782): <em>plus, également, bien, très, aussi, encore, ainsi, cependant, que, seulement</em>
+* `EMPTY` (780): <em>plus, également, bien, très, aussi, encore, ainsi, cependant, que, seulement</em>
 
 ### `DET`
 

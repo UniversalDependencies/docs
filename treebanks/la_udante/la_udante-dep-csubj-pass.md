@@ -29,8 +29,8 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	soli	solus	DET	dpmsd	Case=Dat|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Con	5	det	_	_
 5	homini	homo	NOUN	sms3d	Case=Dat|Gender=Masc|InflClass=IndEurX|Number=Sing	6	obl:arg	_	_
 6	datum	do	VERB	vp1fr	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	3	csubj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-7	fuisse	sum	AUX	va5fr	Aspect=Perf|Tense=Past|VerbForm=Inf	6	aux:pass	_	TraditionalTense=Perfectum
-8	loqui	loquor	VERB	vd3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	6	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	fuisse	sum	AUX	va5fr	Aspect=Perf|InflClass=LatAnom|VerbForm=Inf	6	aux:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Perfectum
+8	loqui	loquor	VERB	vd3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	6	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	.	.	PUNCT	Pu	_	3	punct	_	_
 
 ~~~

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advcl.html">advcl</a></tt>.
 There are also 2 other language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-cau.html">advcl:cau</a></tt>, <tt><a href="mdf_jr-dep-advcl-eval.html">advcl:eval</a></tt>.
 
-17 nodes (0%) are attached to their parents as `advcl:tcl`.
+18 nodes (0%) are attached to their parents as `advcl:tcl`.
 
-12 instances of `advcl:tcl` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.29411764705882.
+12 instances of `advcl:tcl` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.22222222222222.
 
-The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (15; 88% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (16; 89% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

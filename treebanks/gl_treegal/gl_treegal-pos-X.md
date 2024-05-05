@@ -9,7 +9,7 @@ udver: '2'
 There are 3 `X` lemmas (0%), 3 `X` types (0%) and 8 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 16 in number of types and 14 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>etc, etc., ZP</em>
+The 10 most frequent `X` lemmas: <em>etc, etc., zp</em>
 
 The 10 most frequent `X` types:  <em>etc, etc., ZP</em>
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.372032).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.384861).
 
-The 1st highest number of forms (1) was observed with the lemma “ZP”: <em>ZP</em>.
+The 1st highest number of forms (1) was observed with the lemma “etc”: <em>etc</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “etc”: <em>etc</em>.
+The 2nd highest number of forms (1) was observed with the lemma “etc.”: <em>etc.</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “etc.”: <em>etc.</em>.
+The 3rd highest number of forms (1) was observed with the lemma “zp”: <em>ZP</em>.
 
 `X` does not occur with any features.
 

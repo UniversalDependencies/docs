@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 3	alors	alors	ADV	_	_	5	advmod	_	_
 4	20	20	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
-5	h	h	NOUN	_	_	0	root	_	SpaceAfter=No
+5	h	h	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

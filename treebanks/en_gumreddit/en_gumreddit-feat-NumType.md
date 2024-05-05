@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="en_gumreddit-pos-NU
 
 107 <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="en_gumreddit-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (55; 51%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="en_gumreddit-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (54; 50%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Mult` (4; 40% of non-empty `NumType`): <em>_</em>
 * `Ord` (6; 60% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (1101): <em>_</em>
+* `EMPTY` (1098): <em>_</em>
 
 ### `NOUN`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Frac` (1; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (2662): <em>_</em>
+* `EMPTY` (2658): <em>_</em>
 
 ### `PROPN`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (232): <em>_</em>
+* `EMPTY` (237): <em>_</em>
 
 ## Relations with Agreement in `NumType`
 

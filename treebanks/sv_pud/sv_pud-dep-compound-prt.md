@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 compound:prt	color:blue
-1	Det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
+1	Det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	3	nsubj	3:nsubj	_
 2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 3	anledningen	anledning	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	0	root	0:root	_
 4	till	till	ADP	PP	_	7	mark	7:mark	_
@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	och	och	CCONJ	KN	_	5	cc	5:cc	_
 4	1842	1842	NUM	RG|NOM	Case=Nom	5	obl	5:obl	_
 5	gick	gå	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2:conj:och	_
-6	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur	5	nsubj	5:nsubj	_
+6	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	5	nsubj	5:nsubj	_
 7	med	med	ADP	PL	_	5	compound:prt	5:compound:prt	_
 8	på	på	ADP	PP	_	9	case	9:case	_
 9	villkoren	villkor	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	5	obl	5:obl:på	_
@@ -67,12 +67,12 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 compound:prt	color:blue
-1	Den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	3	det	3:det	_
-2	festliga	festlig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	3	amod	3:amod	_
+1	Den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	3	det	3:det	_
+2	festliga	festlig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	3	amod	3:amod	_
 3	dedikationen	dedikation	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	nsubj	4:nsubj	_
 4	ägde	äga	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	rum	rum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	4	compound:prt	4:compound:prt	_
-6	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	8	det	8:det	_
+6	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	8	det	8:det	_
 7	30	30	NUM	RG|NOM	Case=Nom	8	nummod	8:nummod	_
 8	april	april	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	4	obl	4:obl	_
 9	1955	1955	NUM	RG|NOM	Case=Nom	8	nummod	8:nummod	SpaceAfter=No

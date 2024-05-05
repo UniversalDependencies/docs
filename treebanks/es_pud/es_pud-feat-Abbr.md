@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (16; 100% of non-empty `Abbr`): <em>a., d., ca.</em>
-* `EMPTY` (879): <em>no, más, también, cuando, después, ya, muy, tanto, antes, donde</em>
+* `EMPTY` (877): <em>no, más, también, cuando, después, ya, muy, tanto, antes, donde</em>
 
 ### `PROPN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (15; 100% of non-empty `Abbr`): <em>C., C</em>
-* `EMPTY` (1235): <em>China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia, Clinton</em>
+* `EMPTY` (1238): <em>China, Trump, mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia, Clinton</em>
 
 ### `ADJ`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>EE.</em>
-* `EMPTY` (4817): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
+* `EMPTY` (4814): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
 
 ## Relations with Agreement in `Abbr`
 

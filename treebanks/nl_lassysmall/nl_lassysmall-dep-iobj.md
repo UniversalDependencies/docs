@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-64 nodes (0%) are attached to their parents as `iobj`.
+324 nodes (0%) are attached to their parents as `iobj`.
 
-33 instances of `iobj` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.84375.
+198 instances of `iobj` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.58641975308642.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (24; 38% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (21; 33% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (17; 27% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `iobj`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (104; 32% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (104; 32% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (98; 30% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	Damned	Damned	SYM	SPEC|vreemd	_	3	parataxis	3:parataxis	SpaceAfter=No
+1	Damned	Damned	X	SPEC|vreemd	Foreign=Yes	3	parataxis	3:parataxis	SpaceAfter=No
 2	,	,	PUNCT	LET	_	1	punct	1:punct	_
 3	doe	doen	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	me	me	PRON	VNW|pr|pron|obl|red|1|ev	Case=Acc|Person=1|PronType=Prs	3	iobj	3:iobj	_
@@ -56,22 +56,24 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 iobj	color:blue
-1	Ook	ook	ADV	BW	_	3	amod	3:amod	_
-2	op	op	ADP	VZ|init	_	3	case	3:case	_
-3	privévlak	privé_vlak	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:op	_
-4	gaat	gaan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-6	Kim	Kim	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	iobj	4:iobj	_
-7	niet	niet	ADV	BW	_	4	advmod	4:advmod	_
-8	voor	voor	ADP	VZ|init	_	4	compound:prt	4:compound:prt	_
-9	de	de	DET	LID|bep|stan|rest	Definite=Def	8	fixed	8:fixed	_
-10	wind	wind	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	fixed	8:fixed	SpaceAfter=No
-11	.	.	PUNCT	LET	_	4	punct	4:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 iobj	color:blue
+1	Hagrid	Hagrid	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
+2	vertelt	vertellen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	Ron	Ron	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	iobj	2:iobj	_
+4	dat	dat	SCONJ	VG|onder	_	12	mark	12:mark	_
+5	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	12	nsubj	12:nsubj	_
+6	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	_
+7	rat	rat	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	12	obj	12:obj	SpaceAfter=No
+8	,	,	PUNCT	LET	_	9	punct	9:punct	_
+9	Schurfie	Schurfie	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	appos	7:appos	SpaceAfter=No
+10	,	,	PUNCT	LET	_	7	punct	7:punct	_
+11	heeft	hebben	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
+12	gevonden	vinden	VERB	WW|vd|vrij|zonder	VerbForm=Part	2	ccomp	2:ccomp	SpaceAfter=No
+13	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
 

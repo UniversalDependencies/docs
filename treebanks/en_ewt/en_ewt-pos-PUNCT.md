@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-EWT: POS Tags: `PUNCT`
 
 There are 141 `PUNCT` lemmas (1%), 152 `PUNCT` types (1%) and 29768 `PUNCT` tokens (12%).
-Out of 17 observed tags, the rank of `PUNCT` is: 8 in number of lemmas, 8 in number of types and 2 in number of tokens.
+Out of 17 observed tags, the rank of `PUNCT` is: 7 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ", -, ?, ), (, :, !, ...</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="en_ewt-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.078014 (the average of all parts of speech is 1.236902).
+The form / lemma ratio of `PUNCT` is 1.078014 (the average of all parts of speech is 1.236432).
 
 The 1st highest number of forms (4) was observed with the lemma “-”: <em>-, =, –, —</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>., ,, -, ", ?, ), (, :, !, ...</em>
 
 `PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="en_ewt-dep-punct.html">punct</a></tt> (29683; 100% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (85; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (13344; 45% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (7086; 24% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (3019; 10% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2685; 9% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (983; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (959; 3% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (387; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (304; 1% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (275; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (170; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (148; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (138; 0% instances),  (85; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (64; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (13346; 45% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (7099; 24% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (3021; 10% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (2909; 10% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (984; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (959; 3% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (387; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (304; 1% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (165; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (148; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (138; 0% instances),  (85; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (64; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (38; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances)
 
 29758 (100%) `PUNCT` nodes are leaves.
 

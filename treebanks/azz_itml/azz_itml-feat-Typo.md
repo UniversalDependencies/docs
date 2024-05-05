@@ -26,7 +26,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="azz_itml-pos-ADV.ht
 
 2 <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="azz_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2; 100%), <tt><a href="azz_itml-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="azz_itml-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="azz_itml-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="azz_itml-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="azz_itml-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2; 100%), <tt><a href="azz_itml-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (2; 100%), <tt><a href="azz_itml-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%), <tt><a href="azz_itml-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Typo`:
 

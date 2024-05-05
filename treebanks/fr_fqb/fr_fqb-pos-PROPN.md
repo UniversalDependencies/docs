@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>New</em> (<tt><a href="fr_fqb-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.163777).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.164044).
 
 The 1st highest number of forms (1) was observed with the lemma “'N”: <em>'N</em>.
 

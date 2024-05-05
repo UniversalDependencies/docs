@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 # visual-style 4 1 advcl:tcl	color:blue
 1	Гымалігад	гымавны	VERB	V	Case=Ill|Derivation=Ig|Number[psor]=Sing|Person[psor]=2|VerbForm=Conv	4	advcl:tcl	_	_
 2	пу	пу	NOUN	N	Case=Nom|Number=Sing	4	obl:lmod	_	_
-3	улын	улын	ADP	Po	Case=Ine|Number=Sing	2	case	_	_
+3	улын	улын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	2	case	_	_
 4	сулавны	сулавны	VERB	V	VerbForm=Inf	0	root	_	_
 5	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	4	aux:neg	_	_
 6	позь	позьны	AUX	V	Connegative=Yes	4	aux:pot	_	SpaceAfter=No

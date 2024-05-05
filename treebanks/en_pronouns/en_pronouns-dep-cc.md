@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="e
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 cc	color:blue
-1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+1	Hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 2	and	and	CCONJ	CC	_	4	cc	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="e
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
-6	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
+6	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
 7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_

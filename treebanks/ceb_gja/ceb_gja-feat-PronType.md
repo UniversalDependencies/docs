@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Dem`, `Int`, `Prs`.
 
-182 tokens (14%) have a non-empty value of `PronType`.
-49 types (11%) occur at least once with a non-empty value of `PronType`.
-30 lemmas (8%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (169; 13% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (13; 1% instances).
+186 tokens (14%) have a non-empty value of `PronType`.
+51 types (11%) occur at least once with a non-empty value of `PronType`.
+20 lemmas (5%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (173; 13% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (13; 1% instances).
 
 ### `PRON`
 
-169 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `PronType`.
+173 <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ceb_gja-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 76%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ceb_gja-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 75%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (14; 8% of non-empty `PronType`): <em>kini, ana, kana, Kato, ani, ato, to</em>
 * `Int` (5; 3% of non-empty `PronType`): <em>Unsa, Kinsa, Unsay</em>
-* `Prs` (150; 89% of non-empty `PronType`): <em>ko, siya, ka, ako, iya, imo, mi, nako, nimo, sila</em>
-* `EMPTY` (12): <em>unsa, taka, tika, Asa, Unsay, kato, ko, ni</em>
+* `Prs` (154; 89% of non-empty `PronType`): <em>ko, siya, ka, ako, iya, imo, mi, nako, nimo, sila</em>
+* `EMPTY` (8): <em>unsa, Asa, Unsay, kato, ko, ni</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (25) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `PronType`.
 
 ### `ADV`
 

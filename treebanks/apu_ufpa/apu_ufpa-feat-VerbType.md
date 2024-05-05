@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Vido`.
 
-17 tokens (2%) have a non-empty value of `VerbType`.
-13 types (4%) occur at least once with a non-empty value of `VerbType`.
+18 tokens (2%) have a non-empty value of `VerbType`.
+14 types (4%) occur at least once with a non-empty value of `VerbType`.
 14 lemmas (5%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-13 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `VerbType`.
+14 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (13; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (12; 92%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (10; 77%).
+The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (13; 93%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (12; 86%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (10; 71%).
 
 `VERB` tokens may have the following values of `VerbType`:
 
-* `Vido` (13; 100% of non-empty `VerbType`): <em>sary, Kaiãury, Kuaxary, Kunakamunyry, Naãtyru, Waikai, kasunakyry, kaxinhiry, mitxiry, xepitiry</em>
+* `Vido` (14; 100% of non-empty `VerbType`): <em>sary, Kaiãury, Kuaxary, Kunakamunyry, Naãtyru, Waikai, awaika, kasunakyry, kaxinhiry, mitxiry</em>
 
 `VerbType` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `VerbType`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `VerbType` co-occur
 
 ### `ADJ`
 
-1 <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> tokens (25% of all `ADJ` tokens) have a non-empty value of `VerbType`.
+1 <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> tokens (20% of all `ADJ` tokens) have a non-empty value of `VerbType`.
 
 The most frequent other feature values with which `ADJ` and `VerbType` co-occurred: <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (1; 100%).
 

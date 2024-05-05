@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 22 flat	color:blue
-1	Esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	redacción	redacción	NOUN	NN	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 4	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -32,10 +32,10 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	de	de	ADP	IN	_	9	case	_	_
 8	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	ley	ley	NOUN	NN	Gender=Fem|Number=Sing	5	nmod	_	_
-10	romana	_	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|Proper=True
+10	romana	romano	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No|Proper=True
 11	,	,	PUNCT	,	_	13	punct	_	_
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	instituciones	_	NOUN	NN	Gender=Fem|Number=Plur	9	conj	_	_
+13	instituciones	institución	NOUN	NN	Gender=Fem|Number=Plur	9	conj	_	_
 14	de	de	ADP	IN	_	16	case	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	República	república	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	Proper=True

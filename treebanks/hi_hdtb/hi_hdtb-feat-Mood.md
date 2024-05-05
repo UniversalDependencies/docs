@@ -11,7 +11,7 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 17259 tokens (5%) have a non-empty value of `Mood`.
 374 types (2%) occur at least once with a non-empty value of `Mood`.
-139 lemmas (1%) occur at least once with a non-empty value of `Mood`.
+141 lemmas (1%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (14314; 4% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (2939; 1% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `AUX`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `EMPTY` (9442): गया, गई, गए, हुए, जा, रहे, रही, रहा, जाने, चाहिए
 
 <table>
-  <tr><th>Paradigm <i>जा</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><th>Paradigm <i>जाना</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएँगे, जाएंगे</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>जाएंगे</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>गए</td></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `EMPTY` (33020): कहा, किया, कर, करने, की, दिया, हो, बताया, दी, होने
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>करूंगा, करूँगा</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>करेंगे</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>करेगा</td><td></td><td></td></tr>

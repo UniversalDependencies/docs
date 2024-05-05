@@ -12,10 +12,10 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Number.html">Number</a></tt>, <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
-3180 tokens (15%) have a non-empty value of `Number[subj]`.
-1921 types (29%) occur at least once with a non-empty value of `Number[subj]`.
-857 lemmas (28%) occur at least once with a non-empty value of `Number[subj]`.
-The feature is used with 8 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2611; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (397; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (113; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+3179 tokens (15%) have a non-empty value of `Number[subj]`.
+1920 types (29%) occur at least once with a non-empty value of `Number[subj]`.
+856 lemmas (28%) occur at least once with a non-empty value of `Number[subj]`.
+The feature is used with 8 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2611; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (397; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (113; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -46,13 +46,14 @@ The most frequent other feature values with which `VERB` and `Number[subj]` co-o
 
 397 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (326; 82%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (302; 76%), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (298; 75%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (288; 73%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (257; 65%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (241; 61%).
+The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (326; 82%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (302; 76%), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (298; 75%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (282; 71%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (241; 61%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (241; 61%).
 
 `AUX` tokens may have the following values of `Number[subj]`:
 
 
 <table>
   <tr><th>Paradigm <i>а</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>Илять</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>илядо</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>иля</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>эзизь</em></td><td></td></tr>
@@ -75,11 +76,6 @@ The most frequent other feature values with which `AUX` and `Number[subj]` co-oc
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>иляст</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>илязо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>илязо</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Proh</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>Илять</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Proh</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td><em>Илядо</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Proh</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>илядо</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Proh</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>иля</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Proh</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>иля</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>аволизе</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>аволинек</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>аволинь</em></td></tr>
@@ -141,9 +137,9 @@ The most frequent other feature values with which `ADV` and `Number[subj]` co-oc
 
 ### `PRON`
 
-8 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[subj]`.
+7 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `PRON` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5; 63%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (5; 63%).
+The most frequent other feature values with which `PRON` and `Number[subj]` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (5; 71%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 57%).
 
 `PRON` tokens may have the following values of `Number[subj]`:
 
@@ -175,6 +171,6 @@ The 10 most frequent relations where parent and child node agree in `Number[subj
 <tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="myv_jr-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 67%),
 <tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 67%),
-<tt>ADJ --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="myv_jr-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
 

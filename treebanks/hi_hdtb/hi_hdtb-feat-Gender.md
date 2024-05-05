@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 185891 tokens (53%) have a non-empty value of `Gender`.
 15289 types (80%) occur at least once with a non-empty value of `Gender`.
-12377 lemmas (80%) occur at least once with a non-empty value of `Gender`.
+12477 lemmas (80%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 14 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77241; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (37639; 11% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (26218; 7% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (23926; 7% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (11065; 3% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (4376; 1% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (3516; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1387; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (464; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (35; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="hi_hdtb-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -112,7 +112,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `EMPTY` (12033): करने, है, कर, हो, होने, देने, लेकर, कहना, बनाने, लेने
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt>_</tt></td><td>कर</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>करते</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Echo.html">Echo</a></tt><tt>=Rdp</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>करते</td><td></td></tr>

@@ -43,12 +43,12 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 
 126 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (27% of all `ADP` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADP` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (102; 81%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (97; 77%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (97; 77%).
+The most frequent other feature values with which `ADP` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (102; 81%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (97; 77%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (97; 77%).
 
 `ADP` tokens may have the following values of `AdvType`:
 
-* `Loc` (122; 97% of non-empty `AdvType`): <em>мельга, пачк, каршо, ваксс, перька, мельганзо, вакссо, икеле, икелев, ало</em>
-* `Tim` (4; 3% of non-empty `AdvType`): <em>перть, пингстэ, пингстэяк</em>
+* `Loc` (122; 97% of non-empty `AdvType`): <em>мельга, пачк, ваксс, перька, каршо, мельганзо, вакссо, икеле, икелев, ало</em>
+* `Tim` (4; 3% of non-empty `AdvType`): <em>пингстэ, перть, пингстэяк</em>
 
 <table>
   <tr><th>Paradigm <i>перть</i></th><th><tt>Loc</tt></th><th><tt>Tim</tt></th></tr>

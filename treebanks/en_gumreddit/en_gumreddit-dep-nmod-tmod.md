@@ -86,11 +86,11 @@ The following 5 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 19	_	_	NOUN	NN	Number=Sing|Typo=Yes	10	obl	10:obl:for	CorrectForm=purposes|Entity=39)|Lem=_|Len=7|XML=<sic ana:::"purposes"></sic>
 20	_	_	SCONJ	IN	_	21	mark	21:mark	Discourse=elaboration-attribute:34->33:0:syn-mdf-243+syn-nmn-244-245|Lem=_|Len=2
 21	_	_	VERB	VBG	VerbForm=Ger	19	acl	19:acl:of	Lem=network|Len=10|MSeg=net-work-ing
-22	_	_	CCONJ	CC	_	23	cc	23:cc	Discourse=attribution-positive:35->36:0:sem-atsrc-6+lex-indwd-247|Lem=_|Len=3
+22	_	_	CCONJ	CC	_	23	cc	23:cc	Discourse=attribution-positive:35->36:0:sem-atsrc-225+lex-indwd-247|Lem=_|Len=3
 23	_	_	VERB	VBG	VerbForm=Ger	21	conj	19:acl:of|21:conj:and	Cxn=Ditransitive|Lem=remind|Len=9|MSeg=re-mind-ing
 24	_	_	NOUN	NNS	Number=Plur	23	iobj	23:iobj	Entity=(40-person-new-cf5-1-sgl)|Lem=person|Len=6
 25	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	26:nsubj	Discourse=joint-list_m:36->34:0:dm-and-246|Entity=(30-person-giv:act-cf1*-1-ana)|Lem=_|Len=1
-26	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	ccomp	23:ccomp	Cxn=Existential-Exist|Lem=_|Len=5|SpaceAfter=No
+26	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	23	ccomp	23:ccomp	Cxn=Existential-ExistPred-NoExpl|Lem=_|Len=5|SpaceAfter=No
 27	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
 
 ~~~

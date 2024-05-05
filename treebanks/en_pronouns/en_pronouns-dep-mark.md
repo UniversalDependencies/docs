@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
 3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	that	that	SCONJ	IN	_	6	mark	_	_
-5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+5	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
-1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+1	Hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
 2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_

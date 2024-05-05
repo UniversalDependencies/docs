@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `compound:prt`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-compound.html">compound</a></tt>.
-There are also 1 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>.
+There are also 2 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-nn.html">compound:nn</a></tt>, <tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>.
 
 3 nodes (0%) are attached to their parents as `compound:prt`.
 

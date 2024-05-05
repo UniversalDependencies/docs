@@ -16,11 +16,11 @@ Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
-The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Maria Skachedubova.
+The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitri Sitchinava.
 
 Repository: [UD_Old_East_Slavic-RNC](https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -53,7 +53,7 @@ UD tags. The annotation project is maintained by Vinogradov Institute of the Rus
 
 ## Acknowledgments
 
-We are immensely grateful to Irina Juryeva, Roman Ilushin, and Elizaveta Bunina who contributed to the annotation of the original Middle Russian Corpus data. We would like to thank Dmitri Sitchinava, Anna Pichhadze, Alexandr Moldovan, Vladimir Plungian, Roman Krivko, Yves Scherrer, Achim Rabus, Hanne Eckhoff for fruitful discussion and advice.
+We are immensely grateful to Irina Juryeva, Maria Ermolova, Roman Ilushin, and Elizaveta Bunina who contributed to the annotation of the original Middle Russian Corpus data. We would like to thank Anna Pichhadze, Alexandr Moldovan, Vladimir Plungian, Roman Krivko, Yves Scherrer, Achim Rabus, Hanne Eckhoff for fruitful discussion and advice.
 
 ## References
 
@@ -133,21 +133,21 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 
 ## Features
 
-[Abbr](orv_rnc-feat-Abbr.html) – [Analyt](orv_rnc-feat-Analyt.html) – [Animacy](orv_rnc-feat-Animacy.html) – [Aspect](orv_rnc-feat-Aspect.html) – [Case](orv_rnc-feat-Case.html) – [Degree](orv_rnc-feat-Degree.html) – [Foreign](orv_rnc-feat-Foreign.html) – [Gender](orv_rnc-feat-Gender.html) – [Mood](orv_rnc-feat-Mood.html) – [NameType](orv_rnc-feat-NameType.html) – [Number](orv_rnc-feat-Number.html) – [NumForm](orv_rnc-feat-NumForm.html) – [NumType](orv_rnc-feat-NumType.html) – [Person](orv_rnc-feat-Person.html) – [Polarity](orv_rnc-feat-Polarity.html) – [Poss](orv_rnc-feat-Poss.html) – [PronType](orv_rnc-feat-PronType.html) – [Reflex](orv_rnc-feat-Reflex.html) – [Tense](orv_rnc-feat-Tense.html) – [Typo](orv_rnc-feat-Typo.html) – [Variant](orv_rnc-feat-Variant.html) – [VerbForm](orv_rnc-feat-VerbForm.html) – [Voice](orv_rnc-feat-Voice.html)
+[Abbr](orv_rnc-feat-Abbr.html) – [Analyt](orv_rnc-feat-Analyt.html) – [Animacy](orv_rnc-feat-Animacy.html) – [Aspect](orv_rnc-feat-Aspect.html) – [Case](orv_rnc-feat-Case.html) – [Clitic](orv_rnc-feat-Clitic.html) – [Degree](orv_rnc-feat-Degree.html) – [Foreign](orv_rnc-feat-Foreign.html) – [Gender](orv_rnc-feat-Gender.html) – [InflClass](orv_rnc-feat-InflClass.html) – [Mood](orv_rnc-feat-Mood.html) – [NameType](orv_rnc-feat-NameType.html) – [Number](orv_rnc-feat-Number.html) – [NumForm](orv_rnc-feat-NumForm.html) – [NumType](orv_rnc-feat-NumType.html) – [Person](orv_rnc-feat-Person.html) – [Polarity](orv_rnc-feat-Polarity.html) – [Poss](orv_rnc-feat-Poss.html) – [PronType](orv_rnc-feat-PronType.html) – [Reflex](orv_rnc-feat-Reflex.html) – [Tense](orv_rnc-feat-Tense.html) – [Typo](orv_rnc-feat-Typo.html) – [Variant](orv_rnc-feat-Variant.html) – [VerbForm](orv_rnc-feat-VerbForm.html) – [Voice](orv_rnc-feat-Voice.html)
 
 ## Relations
 
-[acl](orv_rnc-dep-acl.html) – [acl:relcl](orv_rnc-dep-acl-relcl.html) – [advcl](orv_rnc-dep-advcl.html) – [advmod](orv_rnc-dep-advmod.html) – [amod](orv_rnc-dep-amod.html) – [appos](orv_rnc-dep-appos.html) – [aux](orv_rnc-dep-aux.html) – [aux:pass](orv_rnc-dep-aux-pass.html) – [case](orv_rnc-dep-case.html) – [cc](orv_rnc-dep-cc.html) – [ccomp](orv_rnc-dep-ccomp.html) – [compound](orv_rnc-dep-compound.html) – [conj](orv_rnc-dep-conj.html) – [cop](orv_rnc-dep-cop.html) – [csubj](orv_rnc-dep-csubj.html) – [dep](orv_rnc-dep-dep.html) – [det](orv_rnc-dep-det.html) – [discourse](orv_rnc-dep-discourse.html) – [dislocated](orv_rnc-dep-dislocated.html) – [expl](orv_rnc-dep-expl.html) – [expl:pv](orv_rnc-dep-expl-pv.html) – [fixed](orv_rnc-dep-fixed.html) – [flat](orv_rnc-dep-flat.html) – [flat:name](orv_rnc-dep-flat-name.html) – [goeswith](orv_rnc-dep-goeswith.html) – [iobj](orv_rnc-dep-iobj.html) – [list](orv_rnc-dep-list.html) – [mark](orv_rnc-dep-mark.html) – [nmod](orv_rnc-dep-nmod.html) – [nsubj](orv_rnc-dep-nsubj.html) – [nsubj:pass](orv_rnc-dep-nsubj-pass.html) – [nummod](orv_rnc-dep-nummod.html) – [nummod:gov](orv_rnc-dep-nummod-gov.html) – [obj](orv_rnc-dep-obj.html) – [obl](orv_rnc-dep-obl.html) – [obl:agent](orv_rnc-dep-obl-agent.html) – [obl:tmod](orv_rnc-dep-obl-tmod.html) – [orphan](orv_rnc-dep-orphan.html) – [parataxis](orv_rnc-dep-parataxis.html) – [punct](orv_rnc-dep-punct.html) – [reparandum](orv_rnc-dep-reparandum.html) – [root](orv_rnc-dep-root.html) – [vocative](orv_rnc-dep-vocative.html) – [xcomp](orv_rnc-dep-xcomp.html)
+[acl](orv_rnc-dep-acl.html) – [acl:relcl](orv_rnc-dep-acl-relcl.html) – [advcl](orv_rnc-dep-advcl.html) – [advmod](orv_rnc-dep-advmod.html) – [amod](orv_rnc-dep-amod.html) – [appos](orv_rnc-dep-appos.html) – [aux](orv_rnc-dep-aux.html) – [aux:pass](orv_rnc-dep-aux-pass.html) – [case](orv_rnc-dep-case.html) – [cc](orv_rnc-dep-cc.html) – [ccomp](orv_rnc-dep-ccomp.html) – [compound](orv_rnc-dep-compound.html) – [conj](orv_rnc-dep-conj.html) – [cop](orv_rnc-dep-cop.html) – [csubj](orv_rnc-dep-csubj.html) – [dep](orv_rnc-dep-dep.html) – [det](orv_rnc-dep-det.html) – [discourse](orv_rnc-dep-discourse.html) – [dislocated](orv_rnc-dep-dislocated.html) – [expl](orv_rnc-dep-expl.html) – [expl:pv](orv_rnc-dep-expl-pv.html) – [fixed](orv_rnc-dep-fixed.html) – [flat](orv_rnc-dep-flat.html) – [flat:foreign](orv_rnc-dep-flat-foreign.html) – [flat:name](orv_rnc-dep-flat-name.html) – [goeswith](orv_rnc-dep-goeswith.html) – [iobj](orv_rnc-dep-iobj.html) – [list](orv_rnc-dep-list.html) – [mark](orv_rnc-dep-mark.html) – [nmod](orv_rnc-dep-nmod.html) – [nsubj](orv_rnc-dep-nsubj.html) – [nsubj:outer](orv_rnc-dep-nsubj-outer.html) – [nsubj:pass](orv_rnc-dep-nsubj-pass.html) – [nummod](orv_rnc-dep-nummod.html) – [nummod:gov](orv_rnc-dep-nummod-gov.html) – [obj](orv_rnc-dep-obj.html) – [obl](orv_rnc-dep-obl.html) – [obl:agent](orv_rnc-dep-obl-agent.html) – [obl:depict](orv_rnc-dep-obl-depict.html) – [obl:float](orv_rnc-dep-obl-float.html) – [obl:pronmod](orv_rnc-dep-obl-pronmod.html) – [obl:tmod](orv_rnc-dep-obl-tmod.html) – [orphan](orv_rnc-dep-orphan.html) – [parataxis](orv_rnc-dep-parataxis.html) – [parataxis:discourse](orv_rnc-dep-parataxis-discourse.html) – [punct](orv_rnc-dep-punct.html) – [reparandum](orv_rnc-dep-reparandum.html) – [root](orv_rnc-dep-root.html) – [vocative](orv_rnc-dep-vocative.html) – [xcomp](orv_rnc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1715 sentences and 48647 tokens.</li>
+<li>This corpus contains 3528 sentences and 95551 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 7754 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 14072 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -155,7 +155,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 </ul>
 
 <ul>
-<li>This corpus contains 1201 types of words that contain both letters and punctuation. Examples: г., де[нь], 178-г(о), полот(ь), д(е)р(е)вни, о(т), роспис(ь), т., Кон(ь)кова, де(нь), х., л., кн[ѧ]зю, де(н), велет(ь), 160-го, Тел(ь)чеи, коров(ь)я, пят(ь), Савел(ь)ев, об., ч(е)л(о)в(е)к, донят(ь), Васил[ь]ю, кр(е)стьян, противен(ь), ч(е)л(о)в(е)ка, Кон(ь)кове, дес., кн[ѧ]зѣ, кр(е)стьянин, се(м), скол(ь)ко, 177-г(о), 3-х, Кан(ь)кова, ал(тын), любѡв[ь], обростит(ь), роздат(ь), с., суздал(ь)ских, Васил[ь]евичю, десят(ь), кн[ѧ]зи, на(м), полат(ь), суздал(ь)скои, то(м), чет(ь)ю</li>
+<li>This corpus contains 1523 types of words that contain both letters and punctuation. Examples: г., де[нь], 178-г(о), полот(ь), д(е)р(е)вни, о(т), роспис(ь), кн[ѧ]зю, т., Кон(ь)кова, де(нь), х., </em>, де(н), велет(ь), 160-го, д., Васил[ь]ю, Тел(ь)чеи, кн[ѧ]зѧ, коров(ь)я, пят(ь), Савел(ь)ев, л., ч(е)л(о)в(е)к, кн[ѧ]зи, кнꙗз[ь], об., титулъ], великог[о], донят(ь), Her., [имя, Васил[ь]евичю, кн[ѧ]зѣ, кр(е)стьян, моег[о], противен(ь), ч(е)л(о)в(е)ка, Кон(ь)кове, дес., ког[о], кр(е)стьянин, с., се(м), скол(ь)ко, 177-г(о), 3-х, Кан(ь)кова, ал(тын)</li>
 </ul>
 
 <ul>
@@ -170,27 +170,27 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 </ul>
 
 <ul>
-<li>This corpus contains 31 word types tagged as particles (PART): бо, будетъ, веть, да, де, деи, ж, жа, же, жъ, и, имены, ли, лише, ль, не, ни, ниже, нѣ, се, ти, то, токмо, тол(ь)ко, толко, только, убо, хотя, хотѧ, ш, і</li>
+<li>This corpus contains 52 word types tagged as particles (PART): Сице, аж, аже, аки, бо, будетъ, будто, веть, да, даже, де, дее, деи, еже, ж, жа, же, жо, жъ, жь, з, и, имены, ли, ль, не, негли, ни, нибудь, нибуть, ниже, нѣ, с, се, си, та, таки, ти, то, то(л)ко, токмо, токъмо, тол(ь)ко, толко, только, убо, хоти, хотя, ци, ш, ясъ, і</li>
 </ul>
 
 <ul>
-<li>This corpus contains 52 lemmas tagged as pronouns (PRON): азъ, весь, все, вся, вы, его, ей, ему, и, иже, ими, имъ, ихъ, кий, кийждо/кыиждо$, кождо, кой, который, кто, меня, мы, нечто, никто, никтоже, ничто, ничтоже, нѣкто, нѣчто, она, оне, они, оно, онъ, онѣ, се, себе, себя, себѣ, сей, сие, собя, собѣ, ся, тии, то, тотъ, ты, хто, что, што, я, язъ</li>
+<li>This corpus contains 37 lemmas tagged as pronouns (PRON): азъ, вся, второй, вы, другъ, ему, и, иже, ими, имъ, кождо, кто, мы, никто, никтоже, ничто, ничтоже, нѣкто, нѣчто, она, оне, они, оно, онъ, онѣ, се, себя, сей, сие, ся, то, тожде, тоже, ты, что, што, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as determiners (DET): вашъ, весь, все, всякий, достальной, другой, единъ, иже, инный, иной, каковой, каковъ, какой, кий, кой, коликий, который, многий, мой, нашъ, ниединъ, никакой, никоторый, нѣкий, нѣкоторый, одинъ, онже, оный, премногий, прочий, самъ, самый, свой, сей, сицевый, съ, таковой, такой, твой, той, тойжде, толикий, тотъ, чей, ѣтотъ</li>
+<li>This corpus contains 55 lemmas tagged as determiners (DET): вашъ, весь, всякий, всяческий, достальной, другой, единъ, еликий, етотъ, злодѣй, инный, иной, каковой, каковъ, какой, кий, кийждо, кой, кой+же, коликий, который, многий, мой, нашъ, некоторый, немногий, ниединъ, никакой, никоторый, нѣкакий, нѣкий, нѣкоторый, одинъ, онже, оный, премногий, прочий, самъ, самый, свой, сей, сей+же, сицевый, сколький, смѣкальный, таковой, такой, твой, той, тойжде, толикий, тотже, тотъ, чей, яковый</li>
 </ul>
 
 <ul>
-<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: весь, все, иже, кий, кой, который, сей, тотъ</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: сей</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): бъ, бы, быти</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): бъ, бы, быти, яти</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быти</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: быти, яти</li>
 </ul>
 
 <ul>
@@ -201,7 +201,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Conv
   <ul>
     <li>AUX: будучи</li>
-    <li>VERB: вышед, воспріꙗ(т), дожидаясь, смотря, взявъ, видꙗ, выбравъ, написавъ, оставивше, приличествꙋющаꙗ</li>
+    <li>VERB: перелезчи, видя, прося, сидя, бивъ, боронясь, выслушав, вышед, хотя, взяв</li>
   </ul>
   </li>
 </ul>
@@ -209,8 +209,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: есть, бы, будет, еси, есте, бысть, буди, будутъ, суть, бꙋдетъ</li>
-    <li>VERB: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, платит, учнутъ</li>
+    <li>AUX: есть, будет, еси, бысть, будетъ, есми, есте, бы, буди, есмь</li>
+    <li>VERB: пожалуй, вели, рече, есть, бьет, прошу, бьетъ, бью, называют, пожалꙋи</li>
   </ul>
   </li>
 </ul>
@@ -219,7 +219,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Inf
   <ul>
     <li>AUX: быти, быть, быт(ь), быт[и]</li>
-    <li>VERB: велет(ь), имати, платить, сбирать, взять, велеть, донят(ь), чинить, быть, давать</li>
+    <li>VERB: имати, дати, взять, писать, велет(ь), платить, сбирать, быть, быти, прислать</li>
   </ul>
   </li>
 </ul>
@@ -227,8 +227,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Part
   <ul>
-    <li>AUX: бывшіꙗ, сущу, сꙋщꙋ</li>
-    <li>VERB: смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, битых</li>
+    <li>AUX: сущу, бывше, бывши, бывших, бывшу, бывшіꙗ, сушу, сущий, сущъ, сꙋщꙋ</li>
+    <li>VERB: смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, взят</li>
   </ul>
   </li>
 </ul>
@@ -236,8 +236,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>PartRes
   <ul>
-    <li>AUX: было, были, былъ, была, был</li>
-    <li>VERB: привез, велѣлъ, сказал, послал, привезли, пришли, писал, поколол, приложил, было</li>
+    <li>AUX: было, были, былъ, был, была</li>
+    <li>VERB: послал, велѣлъ, сказал, писал, пришли, привез, пожаловал, велел, дал, приложил</li>
   </ul>
   </li>
 </ul>
@@ -252,15 +252,15 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: оржанои, люцкои, приказной, ситнои, стрѣлецкіе, медная, гречишных, железная, святыя, высокою</li>
+      <li>ADJ: оржанои, приказной, люцкои, стрѣлецкіе, ситнои, медная, пречистые, пречистыя, святыя, Малыя</li>
       <li>AUX-PartRes: была</li>
-      <li>DET: всеа, тѣ, те, тѣхъ, сей, тои, свою, тое, моя, та</li>
-      <li>NOUN: чети, гривенок, гривенки, муки, д(е)р(е)вни, земли, осмухи, денги, роспис(ь), денегъ</li>
-      <li>NUM: две, обе, двои, три, 2, четыре, 3, дву, полсемы, двѣ</li>
-      <li>PRON: неи, них, ее, еи, нею, она, еѣ, которые, юже, еꙗ</li>
-      <li>PROPN: Москвѣ, Москве, Москвы, Русии, Тел(ь)чеи, Росіи, Москву, Уткинои, Россіи, Брагинои</li>
-      <li>VERB-Part: дана, послана, лужана, записаны, отпущена, битых, взята, писана, полꙋче(н)ной, посланы</li>
-      <li>VERB-PartRes: учинилась, сказала, имѣла, послала, стала, была, видела, лишаласꙗ, пошла, пришла</li>
+      <li>DET: всеа, свою, сей, те, тое, всея, своею, той, тои, тѣ</li>
+      <li>NOUN: чети, гривенок, гривенки, земли, деревни, денегъ, руку, муки, ржи, денги</li>
+      <li>NUM: две, три, 2, 3, обе, двои, четыре, дву, 4, двѣ</li>
+      <li>PRON: неи, них, ее, ея, нею, еи, ней, она, нихъ, их</li>
+      <li>PROPN: Москве, Русии, Москвѣ, Москвы, Руси, Асторохани, Москву, Тел(ь)чеи, Росіи, Россіи</li>
+      <li>VERB-Part: дана, писана, послана, писаны, благословенной, лужана, отпущена, записаны, прислана, битых</li>
+      <li>VERB-PartRes: была, учинилась, пожаловала, пришла, сказала, стала, Ізволила, дала, имѣла, послала</li>
     </ul>
   </li>
 </ul>
@@ -268,17 +268,17 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: великого, великому, 178-г(о), вытным, прошломъ, великихъ, великомꙋ, земскимъ, оржанова, 160-го</li>
-      <li>AUX-Part: бывшіꙗ, сущу, сꙋщꙋ</li>
+      <li>ADJ: великого, великому, великии, великий, 178-г(о), 205, великихъ, вытным, великій, прошломъ</li>
+      <li>AUX-Part: сущу, бывше, бывши, бывших, бывшу, бывшіꙗ, сушу, сущий, сущъ, сꙋщꙋ</li>
       <li>AUX-PartRes: былъ, был</li>
-      <li>DET: твой, мои, твоему, тот, сей, тех, всѣхъ, своего, твоего, того</li>
-      <li>NOUN: весу, году, воза, государь, государю, государя, де[нь], день, верх, людей</li>
-      <li>NUM: два, один, дву, полтора, три, 3, четырех, 1, трех, четыре</li>
-      <li>PRON: ево, его, ему, они, имъ, ихъ, он, нем, онъ, их</li>
-      <li>PROPN: Кунгурѣ, Ивановичю, Иван, Ивана, Борису, Петр, Григорья, Ивашка, Иванъ, Фальк</li>
-      <li>SCONJ: иже</li>
-      <li>VERB-Part: взят, битых, сажены, отпущен, отпущены, взяты, глаголюще, послан, отдан, посланъ</li>
-      <li>VERB-PartRes: привез, велѣлъ, сказал, послал, писал, поколол, приложил, послалъ, отдал, подал</li>
+      <li>DET: того, твой, своего, которые, мои, тот, твоему, твои, тех, своих</li>
+      <li>NOUN: день, году, весу, государь, князь, князя, государю, господине, государя, людей</li>
+      <li>NUM: два, один, 2, три, 3, 4, дву, полтора, 1, трех</li>
+      <li>PRON: его, ево, ему, их, онъ, ихъ, они, него, имъ, им</li>
+      <li>PROPN: Ивана, Иван, Кунгурѣ, Иванъ, Ивашко, Ивановича, Ивановичю, Оска, Аѳонка, Борис</li>
+      <li>VERB: послал, велѣлъ, сказал, писал, привез, пожаловал, велел, дал, приложил, приложилъ</li>
+      <li>VERB-Part: взят, битых, отпущены, сажены, посланы, поставлен, отпущен, послан, писанъ, пытанъ</li>
+      <li>VERB-PartRes: послал, велѣлъ, сказал, писал, привез, пожаловал, велел, дал, приложил, приложилъ</li>
     </ul>
   </li>
 </ul>
@@ -286,15 +286,16 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: медные, вытным, коров(ь)я, крестному, государева, надобно, Бж҃іе, здорово, крестъному, возможно</li>
+      <li>ADJ: медные, государева, вытным, доброе, коров(ь)я, крестному, великое, здорово, 1, доброму</li>
       <li>AUX-PartRes: было, была</li>
-      <li>DET: то, тово, всꙗ, свое, сіе, твое, все, сего, того, всѣхъ</li>
-      <li>NOUN: челом, челомъ, числа, имя, уши, масла, лык, целованью, мочал, времꙗ</li>
-      <li>NUM: два, едино, оба, однем, Три, двое, двои, дву, единеми, едино(м)</li>
-      <li>PRON: что, томъ, то, того, тово, том, ꙗже, чем, што, еже</li>
-      <li>PROPN: Кон(ь)кова, Павловском, Кон(ь)кове, Павловское, Кан(ь)кова, Назаркова, Назаркове, Великое, Кан(ь)кове, Чюбарова</li>
-      <li>VERB-Part: смерено, взято, принето, велѣно, велено, дано, послано, написано, писано, отдано</li>
-      <li>VERB-PartRes: было, пошло, стало, осталос(ь), изошло, дашло, пришло, взламало, восходило, всперло</li>
+      <li>DET: того, то, все, свое, твое, всем, всꙗ, тово, своего, своему</li>
+      <li>NOUN: челом, челомъ, числа, лета, села, имя, слово, лѣта, время, сукно</li>
+      <li>NUM: два, едино, 2, оба, дву, однем, 3, три, 4, двое</li>
+      <li>PRON: что, то, того, томъ, тому, том, семъ, сего, чем, чемъ</li>
+      <li>PROPN: Кон(ь)кова, Предтечинскомъ, Тихоновского, Павловском, Кон(ь)кове, Павловское, Кан(ь)кова, Назаркова, Назаркове, Полво</li>
+      <li>VERB: смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, было</li>
+      <li>VERB-Part: смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, послано</li>
+      <li>VERB-PartRes: было, стало, пошло, пришло, бывало, изошло, осталос(ь), осталось, потягло, явилось</li>
     </ul>
   </li>
 </ul>
@@ -306,13 +307,20 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Anim
     <ul>
-      <li>ADJ: Донскихъ, даурскихъ, иных, выборныхъ, бедных, великого, добрыхъ, молодшег[о], мꙋжестве(н)нѣйшаго, преславнаго</li>
-      <li>DET: своих, своего, своихъ, моего, онаго, твоего, всѣхъ, того, нашег[о], оного</li>
-      <li>NOUN: людей, князя, сирот, брата, кн[ѧ]зѧ, дѣтей, саржанта, сына, холопа, Тотаръ</li>
-      <li>NUM: однова, одново</li>
-      <li>PRON: насъ, васъ, ево, его, ихже, которыхъ, нихъ, того</li>
-      <li>PROPN: Григорья, Ивана, Бориска, Ивашка, Олексѣя, Тотарина, Івана, Василья, Дмитрѣева, Петра</li>
-      <li>VERB-Part: рожде(н)наго, взятыхъ, враждующихъ, живуща, именова(н)ного, пребывающаго, слꙋжащи(х), хвалящихся</li>
+      <li>ADJ: великого, Донскихъ, даурскихъ, святых, Казанских, Святаго, боярского, выборныхъ, служилых, бедных</li>
+      <li>DET: своего, своих, своихъ, того, твоего, иных, тѣхъ, всех, всѣх, моего</li>
+      <li>NOUN: людей, князя, сына, царя, отца, человѣка, государя, Бога, брата, послов</li>
+      <li>NUM: трех, дву, обоих, однова, одново, ѡдинѡг[о]</li>
+      <li>PROPN: Ивана, Григорья, Ивашка, Семиона, Васильевича, Василья, Гермогена, Дербыша, Ивановича, Михаила</li>
+      <li>VERB-Part: битого, пребывающаго, рожде(н)наго, бесѣдующа, благоугодивших, боящихся, взятыхъ, водимых, враждующихъ, вышеписанныхъ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inan
+    <ul>
+      <li>ADJ: третіи</li>
     </ul>
   </li>
 </ul>
@@ -324,8 +332,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Count
     <ul>
-      <li>ADJ: дългѣи</li>
-      <li>NOUN: чети, гривенки, верха, барана, пучни, оси, лопаты, полтя, стороне, стерляди</li>
+      <li>ADJ: верных, глухие, дългѣи</li>
+      <li>NOUN: чети, гривенки, верха, барана, пучни, оси, лопаты, полтя, пуда, стороне</li>
     </ul>
   </li>
 </ul>
@@ -333,10 +341,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Dual
     <ul>
-      <li>ADJ: ранней, руденскою</li>
-      <li>DET: оныꙗ, своею, твоему</li>
-      <li>NOUN: сынома, года, жени, краи, оброку, очеса, рꙋцѣхъ, ꙋшеса</li>
-      <li>NUM: обѣ</li>
+      <li>DET: оныꙗ, твоему</li>
+      <li>NOUN: сынома, жени, краи, оброку, очеса, половинѣ, руце, рꙋцѣхъ, устнѣ, щеке</li>
       <li>VERB-Fin: полꙋчи(с)те, уставистася, хотѣсте</li>
     </ul>
   </li>
@@ -345,18 +351,18 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: медные, великихъ, стрѣлецкіе, гречишных, люцких, посадскихъ, уѣздныхъ, земскимъ, иные, белевских</li>
-      <li>AUX-Fin: есте, будутъ, суть, есмя, быхом, бяху, бꙋдꙋт, бꙗхꙋ, есть, есьмы</li>
-      <li>AUX-Part: бывшіꙗ</li>
+      <li>ADJ: великихъ, медные, святых, стрѣлецкіе, земскимъ, гречишных, золочены, люцких, государевы, посадскихъ</li>
+      <li>AUX-Fin: есте, суть, есмя, будутъ, будут, будемъ, есмы, будете, бꙋдꙋт, быхом</li>
+      <li>AUX-Part: бывше, бывши, бывших, бывшіꙗ</li>
       <li>AUX-PartRes: были</li>
-      <li>DET: тѣхъ, тѣ, всѣхъ, те, всꙗ, тех, твои, вся, своихъ, всех</li>
-      <li>NOUN: гривенок, людей, чети, баранов, куров, денги, денегъ, людемъ, люди, овчин</li>
-      <li>NUM: отнех</li>
-      <li>PRON: они, имъ, ихъ, них, нас, их, мы, нам, им, которые</li>
-      <li>PROPN: Бѣжицѣ, Ногаи, Ондреевых, Іаили, Іеффаевъ, Іꙋдиѳи, Аодовъ, Бѣжицахъ, Бѣжиць, Бѣльзы</li>
-      <li>VERB-Fin: учнутъ, живут, ходят, бьемъ, живутъ, сказывают, слушают, судят, бранят, велят</li>
-      <li>VERB-Part: битых, посланы, сажены, взяты, отпущены, глаголюще, записаны, присланы, взятыхъ, вѣдомы</li>
-      <li>VERB-PartRes: привезли, пришли, пригнали, померли, пошли, сказали, били, давали, стали, взяли</li>
+      <li>DET: те, которые, тех, тѣхъ, тѣ, своих, твои, всѣхъ, всех, вся</li>
+      <li>NOUN: людей, гривенок, чети, люди, денегъ, рублевъ, товарыщи, денги, баранов, куров</li>
+      <li>NUM: единеми, отнех</li>
+      <li>PRON: их, ихъ, они, них, имъ, нам, нас, им, мы, нихъ</li>
+      <li>PROPN: Нагаи, Ивановы, Ногаи, Ондреевых, Федоровых, Хопор, Чамовскихъ, Іаили, Іеффаевъ, Іꙋдиѳи</li>
+      <li>VERB-Fin: называют, сказывают, учнутъ, живут, емлют, учнут, станутъ, хотят, дают, живутъ</li>
+      <li>VERB-Part: битых, посланы, отпущены, сажены, взяты, писаны, присланы, будущими, глаголюще, построены</li>
+      <li>VERB-PartRes: пришли, пошли, били, велели, привезли, отняли, сказали, померли, шли, пригнали</li>
     </ul>
   </li>
 </ul>
@@ -364,19 +370,19 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: великого, великому, оржанои, 178-г(о), вытным, люцкои, государева, приказной, государеву, прошломъ</li>
-      <li>AUX-Fin: есть, бы, будет, еси, бысть, буди, бꙋдетъ, бы(ст), бꙗше, будетъ</li>
-      <li>AUX-Part: сущу, сꙋщꙋ</li>
-      <li>AUX-PartRes: было, былъ, была, был</li>
-      <li>DET: твой, то, сей, мои, тово, того, твоему, твоего, своего, всеа</li>
-      <li>NOUN: весу, году, воза, государь, государю, государя, де[нь], день, верх, муки</li>
-      <li>NUM: один, едино, 1, единъ, одна, однем, адин, едино(м), одном, 21</li>
-      <li>PRON: что, тебѣ, ево, его, ты, я, ему, нем, он, тебе</li>
-      <li>PROPN: Москвѣ, Москве, Кунгурѣ, Кон(ь)кова, Ивановичю, Иван, Ивана, Борису, Петр, Григорья</li>
-      <li>SCONJ: иже</li>
-      <li>VERB-Fin: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, платит, пожалуи</li>
-      <li>VERB-Part: смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, писано</li>
-      <li>VERB-PartRes: привез, велѣлъ, сказал, послал, писал, поколол, приложил, было, послалъ, отдал</li>
+      <li>ADJ: великого, великому, великий, великии, оржанои, 178-г(о), вытным, 205, государева, приказной</li>
+      <li>AUX-Fin: есть, будет, еси, бысть, будетъ, есми, бы, буди, есмь, бꙋдет</li>
+      <li>AUX-Part: сущу, бывшу, сушу, сущий, сущъ, сꙋщꙋ</li>
+      <li>AUX-PartRes: было, былъ, был, была</li>
+      <li>DET: того, всеа, своего, сей, твой, свою, то, той, твоему, тот</li>
+      <li>NOUN: день, году, весу, государь, князь, князя, государю, господине, государя, воза</li>
+      <li>NUM: один, 1, едино, одна, 21, единъ, одинъ, одну, однем, одном</li>
+      <li>PRON: его, что, ево, ему, онъ, тебѣ, ты, то, я, мнѣ</li>
+      <li>PROPN: Москве, Русии, Ивана, Иван, Москвѣ, Кунгурѣ, Иванъ, Ивашко, Ивановича, Ивановичю</li>
+      <li>VERB: смерено, взято, принето, велѣно, послал, велѣлъ, умолочено, сказал, дано, писал</li>
+      <li>VERB-Fin: пожалуй, вели, рече, бьет, есть, прошу, бьетъ, бью, пожалꙋи, вѣдаетъ</li>
+      <li>VERB-Part: смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, взят</li>
+      <li>VERB-PartRes: послал, велѣлъ, сказал, писал, привез, пожаловал, велел, дал, приложил, приложилъ</li>
     </ul>
   </li>
 </ul>
@@ -388,14 +394,15 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: стрѣлецкіе, 27, 12, 22, 11, 18, 20, 30, Даурскую, государеву</li>
+      <li>ADJ: 23, стрѣлецкіе, 29, 12, 27, 1, 11, 18, 22, 20</li>
       <li>AUX-Part: бывшіꙗ</li>
-      <li>DET: то, тѣ, всꙗ, вся, свое, те, свою, всякіе, своих, всю</li>
-      <li>NOUN: де[нь], день, верх, верха, денги, де(нь), руку, барана, землю, челобитную</li>
-      <li>NUM: один, два, две, 3, 2, 4, обе, полтора, три, 5</li>
-      <li>PRON: что, ево, меня, нас, то, его, их, ихъ, тебя, него</li>
-      <li>PROPN: Григорья, Ивана, Москву, Озовъ, Павловское, Новъгород, Кунгуръ, Бориска, Ивашка, Аѳонку</li>
-      <li>VERB-Part: данные, рожде(н)наго, Покаряющаяся, взятыхъ, взꙗтыꙗ, видимое, видимый, возбꙋждающаꙗ, возсіꙗвший, воспріꙗтыⸯ</li>
+      <li>DET: свою, то, тѣ, своего, те, свое, вся, своих, все, всꙗ</li>
+      <li>NOUN: день, де[нь], верх, руку, денги, верха, грамоту, землю, людей, де(нь)</li>
+      <li>NUM: два, один, две, три, 2, 3, обе, полтора, 4, 5</li>
+      <li>PRON: что, то, ево, его, их, меня, нас, ихъ, него, тя</li>
+      <li>PROPN: Савку, Ивана, Андрюшку, Григорья, Чамовскихъ, Кунгуръ, Москву, Аѳонку, Азовъ, Озовъ</li>
+      <li>VERB: битого, будущий, данные, пребывающаго, рожде(н)наго, спасеная, Покаряющаяся, бесѣдующа, благоугодивших, боящихся</li>
+      <li>VERB-Part: битого, будущий, данные, пребывающаго, рожде(н)наго, спасеная, Покаряющаяся, бесѣдующа, благоугодивших, боящихся</li>
     </ul>
   </li>
 </ul>
@@ -403,14 +410,14 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: великому, великомꙋ, земскимъ, крестному, государеву, уѣзднымъ, посадскимъ, юръевъскому, крестъному, думному</li>
-      <li>AUX-Part: сущу, сꙋщꙋ</li>
-      <li>DET: твоему, моему, нашему, сей, тому, твоимъ, тѣмъ, своему, всем, моемꙋ</li>
-      <li>NOUN: государю, указу, людемъ, князю, кн[ѧ]зю, старостамъ, целованью, царю, богу, воеводамъ</li>
-      <li>NUM: сту, двадцати, двенатцати, девяти, осьмидесят, пяти, пятидесятъ, сколку, скольку, сороку</li>
-      <li>PRON: тебѣ, ему, имъ, тебе, мнѣ, ти, мне, нам, им, намъ</li>
-      <li>PROPN: Москвѣ, Москве, Ивановичю, Борису, Ивану, Василью, Васил[ь]ю, Новугороду, Петру, Сидору</li>
-      <li>VERB-Part: требꙋющꙋ, гиблющи, глаголющему, гремꙗщи(м), зачинающим, иждившемꙋ, изволившꙋ, имꙋщемꙋ, исходящемъ, намѣре(н)номꙋ</li>
+      <li>ADJ: великому, великомꙋ, земскимъ, государеву, доброму, великои, крестному, уѣзднымъ, посадскимъ, юръевъскому</li>
+      <li>AUX-Part: сущу, бывши, бывшу, сушу, сꙋщꙋ</li>
+      <li>DET: твоему, нашему, тому, своему, сей, тем, моему, тѣмъ, всем, нашей</li>
+      <li>NOUN: государю, князю, указу, царю, богу, людемъ, кн[ѧ]зю, людем, старостамъ, целованью</li>
+      <li>NUM: 7, десяти, обеим, пяти, семи, сту, 10, 3, 5, 9</li>
+      <li>PRON: ему, тебѣ, мнѣ, имъ, нам, им, тебе, намъ, ти, мне</li>
+      <li>PROPN: Москве, Москвѣ, Ивановичю, Борису, Ивану, Василью, Васил[ь]ю, Васильевичю, Петру, Асторохани</li>
+      <li>VERB-Part: требꙋющꙋ, нареченному, обретающимся, попущающу, благословенной, гиблющи, глаголющему, гремꙗщи(м), зачинающим, званому</li>
     </ul>
   </li>
 </ul>
@@ -418,14 +425,15 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: великого, оржанои, 178-г(о), люцкои, великихъ, государева, ситнои, оржанова, 160-го, гречишных</li>
-      <li>DET: тово, того, тѣхъ, всеа, твоего, всѣхъ, тех, сего, своего, всех</li>
-      <li>NOUN: весу, гривенок, воза, чети, государя, году, муки, баранов, людей, д(е)р(е)вни</li>
-      <li>NUM: дву, четырех, пяти, 3-х, полутрет(ь)и, трех, двусотъ, обеих, пети, полутора</li>
-      <li>PRON: его, ево, ихъ, нево, их, него, них, себя, того, нихъ</li>
-      <li>PROPN: Кон(ь)кова, Ивана, Москвы, Русии, Новагорода, Ивашки, Петра, Шуняева, Федорова, Ивановича</li>
-      <li>VERB: битых, купленых, бывшихъ, взысканныхъ, взята, взятыхъ, возлюбле(н)наго, востающи(х), выгна(н)ныхъ, губящих</li>
-      <li>VERB-Part: битых, купленых, бывшихъ, взысканныхъ, взята, взятыхъ, возлюбле(н)наго, востающи(х), выгна(н)ныхъ, губящих</li>
+      <li>ADJ: великого, оржанои, 178-г(о), великихъ, люцкои, государева, святых, ситнои, 205, оржанова</li>
+      <li>AUX-Part: бывших</li>
+      <li>DET: того, всеа, своего, тех, тѣхъ, всея, твоего, сего, нашего, тово</li>
+      <li>NOUN: весу, чети, году, государя, гривенок, князя, воза, людей, денегъ, муки</li>
+      <li>NUM: дву, четырех, пяти, трех, трехъ, 3-х, 10, 18, 20, двухъ</li>
+      <li>PRON: его, их, ево, ихъ, того, него, них, себя, нихъ, нас</li>
+      <li>PROPN: Русии, Ивана, Москвы, Ивановича, Кон(ь)кова, Новагорода, Петра, Азова, Руси, Андрюшки</li>
+      <li>VERB: битых, убитого, купленого, будущаго, купленых, немолоченого, паханые, благословенной, бывшихъ, ведущаго</li>
+      <li>VERB-Part: битых, убитого, купленого, будущаго, купленых, немолоченого, паханые, благословенной, бывшихъ, ведущаго</li>
     </ul>
   </li>
 </ul>
@@ -433,14 +441,14 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: вытным, кунгурскимъ, провожатыми, божиею, великим, высокою, государевою, Суждальскою, Тверскими, денежною</li>
-      <li>DET: своими, своею, тою, всякимъ, своимъ, твоею, тѣмъ, никоторою, сею, тем</li>
-      <li>NOUN: челом, челомъ, товарыщи, осминою, женою, товарыщы, товарищи, осмухи, шпагою, деревнями</li>
-      <li>NUM: однем, восмьдесят, двема, одною, двома, семи, тремя</li>
-      <li>PRON: ними, ним, собою, мною, тобою, нами, нею, нимъ, ими, кѣм</li>
-      <li>PROPN: Семеном, Сенкою, Петром, Столбовымъ, Фоминым, Агапитовымъ, Бунковым, Васил[ь]евичем, Григорьем, Ивановною</li>
-      <li>VERB: собраннымъ, видимою, даны, именова(н)но(м), нечемъ, преведе(н)ными, приношаемыми, расположе(н)ными, собранною, собранными</li>
-      <li>VERB-Part: собраннымъ, видимою, даны, именова(н)но(м), преведе(н)ными, приношаемыми, расположе(н)ными, собранною, собранными</li>
+      <li>ADJ: вытным, великим, божиею, царскими, великимъ, медными, пьянымъ, божьею, голодною, кунгурскимъ</li>
+      <li>DET: своею, своими, всеми, своим, всѣми, всею, многими, своимъ, тѣмъ, тою</li>
+      <li>NOUN: товарыщи, челом, челомъ, осминою, братьею, деревнями, людми, женою, пожнями, товарищи</li>
+      <li>NUM: однем, двема, одною, четырмя, двома, двѣмя, единеми, единою, единымъ, полуторой</li>
+      <li>PRON: ними, ним, собою, нимъ, тобою, мною, нами, нею, ими, тѣмъ</li>
+      <li>PROPN: Андрюшкою, Савкою, Семеном, Сенкою, Чамовскимъ, Алексѣемъ, Волгою, Дономъ, Ивановичемъ, Иваномъ</li>
+      <li>VERB: будущими, нечимъ, собраннымъ, беснующимся, благословенной, бывшим, видимою, идущим, избраннымъ, некем</li>
+      <li>VERB-Part: будущими, собраннымъ, беснующимся, благословенной, бывшим, видимою, идущим, избраннымъ, писаннымъ, пребываюшими</li>
     </ul>
   </li>
 </ul>
@@ -448,13 +456,14 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: прошломъ, приказной, великом, нынѣшнемъ, прошлом, великомъ, 206, 205, новгородскомъ, 177-м</li>
-      <li>DET: томъ, своемъ, тѣхъ, всѣхъ, се(м), твоем, то(м), тои, той, моемъ</li>
-      <li>NOUN: году, избѣ, деле, земли, рѣкѣ, сборѣ, дворе, дороге, приказѣ, землѣ</li>
-      <li>NUM: дву, обеих, едино(м), одном, 3-х, пяти, пятинатцати, сороки, штидесять, 39</li>
-      <li>PRON: нем, томъ, них, неи, немъ, том, чем, чемъ, всемъ, тебѣ</li>
-      <li>PROPN: Кунгурѣ, Москве, Москвѣ, Иванѣ, Павловском, Кон(ь)кове, Ивановичѣ, Вязьме, Назаркове, Россіи</li>
-      <li>VERB-Part: рожде(н)номъ, воздѣланной, врученной, горꙗщей, дарова(н)ныхъ, замѣре(н)ныхъ, изнесе(н)ныхъ, имꙋщи(х), произведенной, рож(д)е(н)но(м)</li>
+      <li>ADJ: приказной, прошломъ, великом, нынѣшнемъ, 205, прошлом, великомъ, Ивашкове, московском, 206</li>
+      <li>DET: томъ, том, всем, той, сей, своемъ, твоей, тех, своем, тои</li>
+      <li>NOUN: году, жеребью, избѣ, оборотѣ, дворе, мере, селѣ, деревне, земли, грамоте</li>
+      <li>NUM: дву, обеих, одном, едино(м), 3-х, двухъ, единомъ, 15, 39, 4хъ</li>
+      <li>PRON: нем, томъ, том, них, семъ, неи, немъ, чем, чемъ, нихъ</li>
+      <li>PROPN: Кунгурѣ, Москве, Москвѣ, Иванѣ, Предтечинскомъ, Азове, Павловском, Кон(ь)кове, Ивановичѣ, Шавкуновѣ</li>
+      <li>VERB: рожде(н)номъ, порученных, благословенной, бывшемъ, велящих, воздѣланной, врученной, выгна(н)ныхъ, горꙗщей, дарова(н)ныхъ</li>
+      <li>VERB-Part: рожде(н)номъ, порученных, благословенной, бывшемъ, велящих, воздѣланной, врученной, выгна(н)ныхъ, горꙗщей, дарова(н)ныхъ</li>
     </ul>
   </li>
 </ul>
@@ -462,14 +471,14 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: медные, медная, великий, железная, великій, белевскои, велики, самъ, государевы, третеи</li>
-      <li>DET: твой, мои, твои, тот, те, моя, та, то, все, сей</li>
-      <li>NOUN: чети, государь, гривенки, полот(ь), роспис(ь), осос, холопъ, люди, богъ, князь</li>
-      <li>NUM: 3, 4, 2, 10, 6, 5, два, две, 12, 8</li>
-      <li>PRON: что, ты, я, они, он, онъ, мы, кто, которые, вы</li>
-      <li>PROPN: Иван, Петр, Иванъ, Фальк, Алешка, Григорей, Ивашко, Ивашка, Калитинъ, Дмитрей</li>
-      <li>SCONJ: иже</li>
-      <li>VERB-Part: смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, писано</li>
+      <li>ADJ: великии, великий, медные, великій, велики, медная, железная, золочены, белевскои, государевы</li>
+      <li>AUX-Part: бывше, сущий, сущъ</li>
+      <li>DET: твой, которые, мои, твои, все, те, тот, та, самъ, моя</li>
+      <li>NOUN: государь, князь, чети, царь, гривенки, люди, богъ, полот(ь), сын, роспис(ь)</li>
+      <li>NUM: 3, 2, 4, 10, 6, 5, 8, 9, два, 12</li>
+      <li>PRON: что, онъ, ты, они, я, мы, он, кто, яз, хто</li>
+      <li>PROPN: Иван, Иванъ, Ивашко, Оска, Аѳонка, Борис, Петр, Петрушка, Иванович, Савка</li>
+      <li>VERB-Part: смерено, взято, принето, велѣно, умолочено, дано, велено, написано, писано, взят</li>
     </ul>
   </li>
 </ul>
@@ -477,8 +486,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Voc
     <ul>
-      <li>NOUN: княже, господи, де(р)жаво, господине, государю, дню, Імпера(т)рице, Боже, Гд҃рне, Гсдрю</li>
-      <li>PROPN: Россіе, Сіоне, Упадыше, Упадыщче</li>
+      <li>NOUN: господине, княже, царю, господи, де(р)жаво, Боже, государю, дню, отче, Імпера(т)рице</li>
+      <li>PROPN: Россіе, Сіоне, Упадыше, Упадыщче, Юрье</li>
     </ul>
   </li>
 </ul>
@@ -495,9 +504,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: больши, помен(ь)ши, прибылнѣе, ꙋдивителнѣе, выше, дешевлѣ, извѣстнѣе, лутчимъ, лутчихъ, меншей</li>
-      <li>ADV: больше, больши, искꙋснѣе, ближе, бл҃гопріꙗ(т)нѣе, боле, более, болше, болши, болѣе</li>
-      <li>NUM: болши</li>
+      <li>ADJ: болше, болши, лутче, молодшемꙋ, больши, помен(ь)ши, прибылнѣе, ꙋдивителнѣе, меншой, безопаснѣі</li>
+      <li>ADV: паче, больше, выше, болше, больши, искꙋснѣе, наипаче, ниже, болши, менши</li>
+      <li>NUM: болше, болши, больше, меньше</li>
     </ul>
   </li>
 </ul>
@@ -505,9 +514,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: великого, великому, оржанои, вытным, люцкои, медные, государева, великихъ, приказной, государеву</li>
-      <li>ADV: всего, тако, как, гдѣ, какъ, нн҃ѣ, тогда, здѣ, ныне, нынѣ</li>
-      <li>NUM: колько, 18, 207, 3</li>
+      <li>ADJ: великого, великому, великии, великий, оржанои, вытным, государева, великихъ, приказной, люцкои</li>
+      <li>ADV: как, ныне, всего, тако, силно, какъ, еще, нынѣ, впредь, всегда</li>
     </ul>
   </li>
 </ul>
@@ -515,8 +523,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: Бл҃гочестивѣйшаго, мꙋжестве(н)нѣйшаго, святейши, Бл҃гочестивѣйшаꙗ, Бл҃гочестивѣйше(м), Бл҃гочестивѣйшіи, Всевысочаⸯшиⸯ, бл҃годатнѣⸯший, бл҃гочестивѣⸯшаго, бл҃гочестивѣⸯшаꙗ</li>
-      <li>ADV: бл҃гополꙋчнѣйше, всепо(д)данѣйше, должайше, прв(д)нѣйше, приличнѣйше, смире(н)нѣйше</li>
+      <li>ADJ: Бл҃гочестивѣйшаго, святѣйшій, мꙋжестве(н)нѣйшаго, святейши, Бл҃гочестивѣйшаꙗ, Бл҃гочестивѣйше(м), Бл҃гочестивѣйшіи, Всевысочаⸯшиⸯ, Вседража(й)шей, Вседражайшая</li>
+      <li>ADV: наипаче, бл҃гополꙋчнѣйше, всепо(д)данѣйше, должайше, прв(д)нѣйше, приличнѣйше, смире(н)нѣйше</li>
     </ul>
   </li>
 </ul>
@@ -528,11 +536,12 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: никако</li>
-      <li>CCONJ: ни</li>
+      <li>AUX-Fin: несть</li>
+      <li>CCONJ: ни, ниже</li>
       <li>PART: не, ни, ниже, нѣ</li>
-      <li>VERB: нет, нѣтъ, нетъ, нельзя, не, негде, нелѕа, неноково, нѣт, нету</li>
-      <li>VERB-Fin: нет, нетъ, нѣт, нѣтъ, нету</li>
+      <li>VERB: нет, нѣтъ, нетъ, нѣт, нельзя, нелзе, нелзя, нечимъ, не, негде</li>
+      <li>VERB-Fin: несте, нету</li>
+      <li>VERB-Part: немолоченого, неизреченную</li>
     </ul>
   </li>
 </ul>
@@ -544,10 +553,10 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Short
     <ul>
-      <li>ADJ: государева, государеву, коров(ь)я, велики, государевы, самъ, надобно, здорово, многи, пьян</li>
-      <li>AUX-Part: сꙋщꙋ</li>
-      <li>DET: каковы, какова, всякова, всꙗкъ, какову, колика, многа, мнози, са(м), сами</li>
-      <li>VERB-Part: смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, писано</li>
+      <li>ADJ: государева, государеву, велики, государевы, золочены, коров(ь)я, Юрьева, Иванова, здорово, Христова</li>
+      <li>AUX-Part: бывше, бывши, бывшу, сушу, сущу, сущъ, сꙋщꙋ</li>
+      <li>DET: многи, мнози, таково, какова, каковы, многа, всякъ, ины, каково, такову</li>
+      <li>VERB-Part: смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, взят</li>
     </ul>
   </li>
 </ul>
@@ -562,14 +571,12 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: суть, есте, есьмы</li>
-      <li>AUX-Inf: быть</li>
-      <li>VERB: бьет, имати, платить, писал, сбирать, бьетъ, бью, чинить, чистить, давать</li>
-      <li>VERB-Conv: дожидаясь, смотря, видꙗ, приличествꙋющаꙗ, прося, хотꙗ, Исполняя, браняся, ведая, веля</li>
-      <li>VERB-Fin: бьет, бьетъ, бью, платит, живут, здравствꙋи, родитца, ходят, бию, бьемъ</li>
-      <li>VERB-Inf: имати, платить, сбирать, чинить, давать, сечь, судити, чистить, вѣдать, имѣти</li>
-      <li>VERB-Part: глаголюще, требꙋющꙋ, вѣдомо, вѣдомы, писавы, Покаряющаяся, ведомо, видимое, видимою, видимый</li>
-      <li>VERB-PartRes: писал, билъ, бил, говорил, давали, били, жил, приходил, гнали, имели</li>
+      <li>AUX-Fin: есте</li>
+      <li>VERB-Conv: сидя, дожидаясь, смотря, поминая, предстоя, приличествꙋющаꙗ, Исполняя, браняся, вооружася, восписꙋюще</li>
+      <li>VERB-Fin: называют, сказывают, называет, дают, здравствꙋи, возвѣщаю, косят, бранят, бывают, бываютъ</li>
+      <li>VERB-Inf: сбирать, давать, служити, давати, сечь, вступаться, держать, дьржяти, бранитися, владѣти</li>
+      <li>VERB-Part: давано, допрашиванъ, осматриванъ, распрашиван, Покаряющаяся, Судяи, боящихся, возбꙋждающаꙗ, воздыхающе, воспитоваемо</li>
+      <li>VERB-PartRes: стоял, давали, приезжали, бивалъ, бывало, держалъ, стояли, лежалъ, приказывал, присылал</li>
     </ul>
   </li>
 </ul>
@@ -577,12 +584,11 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: быхом</li>
-      <li>VERB-Conv: вышед, воспріꙗ(т), взявъ, выбравъ, написавъ, оставивше, пропустя, усмотря, бивъ, взяв</li>
-      <li>VERB-Fin: пожалуй, пожалꙋи, вели, учнутъ, пожалуи, рече, смилуйся, походи, Возведи, возми</li>
-      <li>VERB-Inf: взять, велеть, подать, отпустить, послати, послать, прислать, взят(ь), дати, выбрать</li>
-      <li>VERB-Part: взято, велѣно, взят, послано, написано, писано, посланы, сажены, велено, взяты</li>
-      <li>VERB-PartRes: велѣлъ, послал, поколол, приложил, послалъ, пошло, велел, взял, дал, подалъ</li>
+      <li>VERB-Conv: выслушав, вышед, взяв, взявъ, воспріꙗ(т), давъ, придавъ, выбравъ, выразумѣвъ, написавъ</li>
+      <li>VERB-Fin: пожалуй, рече, пожалꙋи, учнутъ, станет, учнут, пожалуи, смилуйся, станутъ, возри</li>
+      <li>VERB-Inf: взять, дати, прислать, учинить, послати, подать, послать, записать, дать, отпустить</li>
+      <li>VERB-Part: взято, принето, дано, написано, взят, послано, посланы, отпущены, дана, послана</li>
+      <li>VERB-PartRes: послал, привез, пожаловал, дал, приложил, пошли, приложилъ, привезли, прислал, далъ</li>
     </ul>
   </li>
 </ul>
@@ -597,7 +603,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>AUX: бы, б, бъ, было, былъ, были</li>
       <li>AUX-Fin: бы</li>
       <li>AUX-PartRes: было, былъ, были</li>
-      <li>SCONJ: чтобъ, чтоб, чтобы, кабы, обыся</li>
+      <li>SCONJ: чтобъ, чтобы, чтоб, ежебы, естлибъ, кабы, чтопъ, обыся</li>
       <li>VERB-PartRes: было, сбирали, высылали, платили, присылали, стала, сталъ</li>
     </ul>
   </li>
@@ -606,8 +612,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: буди, бꙋд, бꙋдь, бꙋдꙋ</li>
-      <li>VERB-Fin: пожалуй, пожалꙋи, вели, пожалуи, смилуйся, походи, возми, здравствꙋи, Возведи, виж(д)</li>
+      <li>AUX-Fin: буди, еси, Буд[ь], бꙋд, бꙋдь, бꙋдꙋ</li>
+      <li>VERB-Fin: пожалуй, вели, пожалꙋи, смилуйся, здравствуй, отпиши, пожалуи, походи, буди, возми</li>
     </ul>
   </li>
 </ul>
@@ -615,10 +621,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: есть, бы, будет, еси, есте, бысть, будутъ, суть, бꙋдетъ, бы(ст)</li>
-      <li>AUX-Fin: есть, будет, бы, еси, есте, бысть, будутъ, суть, бꙋдетъ, бы(ст)</li>
-      <li>VERB-Fin: бьет, есть, бьетъ, бью, нет, платит, учнутъ, рече, бꙋдет, згодитца</li>
-      <li>VERB-PartRes: хотел</li>
+      <li>AUX-Fin: есть, будет, бысть, будетъ, еси, есми, есте, бы, есмь, суть</li>
+      <li>VERB-Fin: рече, есть, бьет, прошу, бьетъ, бью, называют, вѣдаетъ, сказывают, учнутъ</li>
     </ul>
   </li>
 </ul>
@@ -630,9 +634,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Conv: будучи</li>
-      <li>AUX-Fin: будет, будутъ, бꙋдетъ, будетъ, бꙋдет, бꙋдеш[ь], будеть, бꙋдꙋт</li>
-      <li>VERB-Fin: учнутъ, бꙋдет, придет, укажешь, ꙋвидиши, будет, будеть, доведется, пошлю, сотворит</li>
+      <li>AUX-Fin: будет, будетъ, бꙋдет, будутъ, будут, будемъ, буду, бꙋдетъ, будете, будеть</li>
+      <li>VERB-Fin: учнутъ, будет, станет, учнут, станутъ, бꙋдет, укажешь, ѡтдасть, будетъ, поидетъ</li>
       <li>VERB-Inf: вступаться, ослушаться</li>
       <li>VERB-PartRes: взял, далъ, дошла, послал</li>
     </ul>
@@ -643,6 +646,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Imp
     <ul>
       <li>AUX-Fin: бяху, бяше</li>
+      <li>VERB-Fin: глаголаху, возбраняше, восприимаху, вѣдаше, вѣдяше, даяху, здравствоваше, летяху, мышляху, покушахуся</li>
     </ul>
   </li>
 </ul>
@@ -650,13 +654,13 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: бы, бысть, бы(ст), бꙗше, бѣ, быхом, бяху, бꙗхꙋ</li>
-      <li>AUX-Part: бывшіꙗ</li>
-      <li>AUX-PartRes: было, были, былъ, была, был</li>
-      <li>VERB-Conv: вышед, воспріꙗ(т), взявъ, выбравъ, написавъ, оставивше, пропустя, усмотря, бивъ, взяв</li>
-      <li>VERB-Fin: рече, даде, созда, бысть, возлюби, дарова, купи, сотвори, нача, начаша</li>
-      <li>VERB-Part: смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, битых</li>
-      <li>VERB-PartRes: привез, велѣлъ, сказал, привезли, пришли, писал, поколол, послал, приложил, было</li>
+      <li>AUX-Fin: бысть, бы, бы(ст), бѣ, бꙗше, бе, бех, быхом, быша, бых</li>
+      <li>AUX-Part: бывше, бывши, бывших, бывшу, бывшіꙗ</li>
+      <li>AUX-PartRes: было, были, былъ, был, была</li>
+      <li>VERB-Conv: перелезчи, бивъ, выслушав, вышед, взяв, взявъ, воспріꙗ(т), давъ, придавъ, възяѳъ</li>
+      <li>VERB-Fin: рече, бысть, возлюби, даде, созда, дарова, купи, прииде, сотвори, умре</li>
+      <li>VERB-Part: смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, взят</li>
+      <li>VERB-PartRes: послал, велѣлъ, сказал, писал, пришли, привез, пожаловал, велел, дал, приложил</li>
     </ul>
   </li>
 </ul>
@@ -665,11 +669,11 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Pres
     <ul>
       <li>AUX-Conv: будучи</li>
-      <li>AUX-Fin: есть, еси, есте, суть, е., есмя, е(ст), есми, есмь, есь</li>
-      <li>AUX-Part: сущу, сꙋщꙋ</li>
-      <li>VERB-Conv: дожидаясь, смотря, видꙗ, приличествꙋющаꙗ, прося, хотꙗ, Исполняя, браняся, ведая, веля</li>
-      <li>VERB-Fin: бьет, есть, бьетъ, бью, нет, платит, згодитца, живут, нетъ, родитца</li>
-      <li>VERB-Part: глаголюще, требꙋющꙋ, вѣдомо, вѣдомы, Покаряющаяся, Сый, ведомо, видимое, видимою, видимый</li>
+      <li>AUX-Fin: есть, еси, есми, есте, есмь, суть, есмя, есмы, е., имете</li>
+      <li>AUX-Part: сущу, сушу, сущий, сущъ, сꙋщꙋ</li>
+      <li>VERB-Conv: видя, прося, сидя, боронясь, хотя, дожидаясь, смотря, будучи, видꙗ, воспоминая</li>
+      <li>VERB-Fin: есть, бьет, прошу, бьетъ, бью, называют, вѣдаетъ, сказывают, желаю, живут</li>
+      <li>VERB-Part: будущими, глаголюще, требꙋющꙋ, будущаго, будущий, выбитъ, вѣдомы, живуща, обретающимся, попущающу</li>
     </ul>
   </li>
 </ul>
@@ -682,15 +686,15 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Act
     <ul>
       <li>AUX-Conv: будучи</li>
-      <li>AUX-Fin: есть, бы, есте, будет, буди, еси, бысть, суть, бы(ст), бꙗше</li>
-      <li>AUX-Inf: быть, быт(ь), быти</li>
-      <li>AUX-Part: бывшіꙗ, сущу, сꙋщꙋ</li>
-      <li>AUX-PartRes: было, были, былъ, была, был</li>
-      <li>VERB-Conv: вышед, воспріꙗ(т), смотря, взявъ, видꙗ, выбравъ, написавъ, оставивше, приличествꙋющаꙗ, пропустя</li>
-      <li>VERB-Fin: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, платит, учнутъ</li>
-      <li>VERB-Inf: велет(ь), имати, платить, сбирать, взять, велеть, донят(ь), чинить, быть, давать</li>
-      <li>VERB-Part: глаголюще, требꙋющꙋ, писавы, пришед, Покаряющаяся, Сый, бывшихъ, взем, видящи, возбꙋждающаꙗ</li>
-      <li>VERB-PartRes: привез, велѣлъ, сказал, послал, привезли, пришли, писал, поколол, приложил, было</li>
+      <li>AUX-Fin: есть, будет, еси, бысть, будетъ, есми, есте, бы, буди, есмь</li>
+      <li>AUX-Inf: быти, быть, быт(ь), быт[и]</li>
+      <li>AUX-Part: сущу, бывше, бывши, бывших, бывшу, бывшіꙗ, сушу, сущий, сущъ, сꙋщꙋ</li>
+      <li>AUX-PartRes: было, были, былъ, был, была</li>
+      <li>VERB-Conv: перелезчи, видя, прося, сидя, бивъ, выслушав, вышед, хотя, взяв, взявъ</li>
+      <li>VERB-Fin: пожалуй, вели, рече, есть, бьет, прошу, бьетъ, бью, называют, пожалꙋи</li>
+      <li>VERB-Inf: имати, дати, взять, писать, велет(ь), платить, сбирать, быть, быти, прислать</li>
+      <li>VERB-Part: будущими, глаголюще, требꙋющꙋ, будущаго, будущий, живуща, обретающимся, писавы, писавый, попущающу</li>
+      <li>VERB-PartRes: послал, велѣлъ, сказал, писал, пришли, привез, пожаловал, велел, дал, приложил</li>
     </ul>
   </li>
 </ul>
@@ -698,11 +702,11 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Mid
     <ul>
-      <li>VERB-Conv: дожидаясь, браняся, возвесели(м)сꙗ, возрадꙋе(м)сꙗ, мнꙗшесꙗ, наслажающеся, оборонясь, отпросясь, поступаясь, потщасꙗ</li>
-      <li>VERB-Fin: смилуйся, згодитца, родитца, доведется, доведетца, умножахуся, ꙋчинит, крестихомся, лишашесꙗ, мешкоетца</li>
-      <li>VERB-Inf: вступаться, бранитися, радоватисꙗ, явитца, встꙋпатис[ѧ], задаватися, съступитися, Веселитисꙗ, бити, битца</li>
+      <li>VERB-Conv: боронясь, дожидаясь, сьѣхавсѧ, браняся, вооружася, встрѣтеся, дождався, мнꙗшесꙗ, наклоняс[ь], наслажающеся</li>
+      <li>VERB-Fin: смилуйся, доведетца, згодитца, родитца, доведется, радуемся, учинится, умножахуся, возвесели(м)сꙗ, возрадꙋе(м)сꙗ</li>
+      <li>VERB-Inf: вступаться, бранитися, встꙋпатис[ѧ], дратца, радоватисꙗ, явитца, поднятца, радоватися, задаватися, помолитися</li>
       <li>VERB-Part: исполнꙗющеесꙗ, препирающіисꙗ, препирающіꙗсꙗ, родꙗщи(м)сꙗ, родꙗщіисꙗ, ꙋмножающіꙗсꙗ</li>
-      <li>VERB-PartRes: учинилась, осталос(ь), вступался, лишаласꙗ, обротились, попались, состоялись, вселися, довелися, довелося</li>
+      <li>VERB-PartRes: дрались, учинилась, почался, осталась, осталос(ь), осталось, явилось, венчалися, виделся, винились</li>
     </ul>
   </li>
 </ul>
@@ -710,8 +714,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Fin: возбꙋждахꙋси, познаваетсꙗ, прогони(т)сꙗ, рекошасꙗ, соде(р)жи(т)сꙗ, соде(р)житсꙗ</li>
-      <li>VERB-Part: смерено, взято, принето, велѣно, велено, взят, дано, послано, написано, битых</li>
+      <li>VERB-Fin: ставится, вынимаетца, ставитца, взыщется, вмѣнится, возбꙋждахꙋси, вынимаются, дасться, осудится, отдастся</li>
+      <li>VERB-Part: смерено, взято, принето, велѣно, умолочено, дано, написано, велено, писано, взят</li>
+      <li>VERB-PartRes: порушилася</li>
     </ul>
   </li>
 </ul>
@@ -727,8 +732,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Dem
     <ul>
-      <li>DET: то, сей, тѣхъ, тово, тѣ, те, того, т., тех, тот</li>
-      <li>PRON: томъ, того, то, тово, том, тому, тем, сего, семъ, т.</li>
+      <li>ADV: тако, потому, тогда, такъ, здѣ, также, так, тут, такоже, здѣсь</li>
+      <li>DET: того, сей, те, тех, тѣхъ, то, тѣ, той, тое, тот</li>
+      <li>PRON: то, того, томъ, тому, том, семъ, сего, тово, сіе, тѣмъ</li>
     </ul>
   </li>
 </ul>
@@ -736,7 +742,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Emp
     <ul>
-      <li>DET: самаго, самим, само(м), самой, самомꙋ, самы(м), са(м), самое, самъ, самы</li>
+      <li>DET: самъ, сам, сами, самимъ, самого, самой, самаго, самим, самому, самомꙋ</li>
     </ul>
   </li>
 </ul>
@@ -744,7 +750,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Exc
     <ul>
-      <li>DET: каковое, коликое</li>
+      <li>ADV: коль, сколь</li>
+      <li>DET: каковое, колика, коликое</li>
     </ul>
   </li>
 </ul>
@@ -752,8 +759,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Ind
     <ul>
-      <li>DET: однимъ, которомъ, нѣкое, нѣкоего, нѣкоторо(м), нѣкую, нѣкіихъ, однем</li>
-      <li>PRON: которомъ, что, которыхъ, кто, нечто, нѣкто, нѣчто</li>
+      <li>ADV: иногъда, нѣкогда, нѣчто</li>
+      <li>DET: которомъ, единому, однимъ, адно, аднꙋ, какими, какоя, которыхъ, некоторие, нѣкiя</li>
+      <li>PRON: нѣчто, что, комꙋ, кто, кѣм, нечто, нѣкто</li>
     </ul>
   </li>
 </ul>
@@ -761,9 +769,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Int
     <ul>
-      <li>ADV: что</li>
-      <li>DET: чей, Кіими, какимъ, какова, каковаго, каковы, какомъ, какіе, кое, кои</li>
-      <li>PRON: что, кто, кѣм, ког[о], комꙋ, што, кимъ, ково, кого, кому</li>
+      <li>ADV: что, каково, какъ, почто</li>
+      <li>DET: каково, чей, какия, какая, какие, какими, какимъ, какова, каковъ, какомъ</li>
+      <li>PRON: что, кого, кто, чего, чемъ, чьто</li>
     </ul>
   </li>
 </ul>
@@ -771,8 +779,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Neg
     <ul>
-      <li>DET: никоторою, никакихъ, никоторыми, ниедино, никакими, никакова, никакои, никакой, никакою</li>
-      <li>PRON: никому, никто, нихто, ничево, ничего, ничтоже, что, кем, кого, нечем</li>
+      <li>ADV: нигдѣ, никогдаже, никако, какъ, никак, никогда, николи, нимала, ничтоже, почто</li>
+      <li>DET: никакова, никаких, никакихъ, никоторою, никакой, никоторого, никоторыми, которыхъ, никакими, никакимъ</li>
+      <li>PRON: никому, ничего, ничтоже, нихто, никто, никтоже, никогоже, ничево, ничто, чем</li>
     </ul>
   </li>
 </ul>
@@ -780,8 +789,16 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Prs
     <ul>
-      <li>DET: твой, мои, твоему, твои, своего, твоего, своихъ, моему, свое, своими</li>
-      <li>PRON: тебѣ, ево, его, ты, я, ему, они, имъ, ихъ, нем</li>
+      <li>DET: своего, твой, мои, свою, твоему, твои, твоего, своих, своею, нашего</li>
+      <li>PRON: его, ево, их, ему, онъ, тебѣ, ты, ихъ, они, я</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: друг, другу</li>
     </ul>
   </li>
 </ul>
@@ -789,9 +806,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Rel
     <ul>
-      <li>DET: которые, какова, которое, какову, какую, каторои, которои, какая, какие, каково</li>
-      <li>PRON: что, которые, кто, иже, хто, ꙗже, ково, кого, чем, егоже</li>
-      <li>SCONJ: иже</li>
+      <li>ADV: как, какъ, гдѣ, како, куды, когда, где, коль, идѣже, сколь</li>
+      <li>DET: которые, которое, которыхъ, которой, которых, какова, которои, которомъ, которыя, каково</li>
+      <li>PRON: что, кто, хто, иже, кого, чем, кому, еже, чемъ, ково</li>
     </ul>
   </li>
 </ul>
@@ -799,8 +816,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Tot
     <ul>
-      <li>DET: всѣхъ, всꙗ, вся, всеа, все, всех, всякіе, всем, всю, другои</li>
-      <li>PRON: всем, всемъ, все, всех, вся, весь, всему, вси</li>
+      <li>ADV: всего, вездѣ, всево, болше, больше, больши, болши, все, менши, повсюду</li>
+      <li>DET: всеа, все, всем, всея, вся, всѣхъ, всех, всꙗ, многие, иные</li>
+      <li>PRON: вся, кождо</li>
     </ul>
   </li>
 </ul>
@@ -812,8 +830,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Card
     <ul>
-      <li>ADJ: 21</li>
-      <li>NUM: 3, два, 4, один, 2, две, 10, 5, 6, 12</li>
+      <li>ADJ: 21, 22, 3, одна, одно</li>
+      <li>NUM: 3, 2, два, 4, две, 5, один, 10, 6, три</li>
     </ul>
   </li>
 </ul>
@@ -821,7 +839,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Frac
     <ul>
-      <li>NUM: полтора, полсемы, полтара, полтрет(ь)и, пол, полутрет(ь)и, полдесяты, полутора, полуторы, полчетверты</li>
+      <li>NUM: полтора, полсемы, полтара, пол, полтрет(ь)и, полторы, полтораста, полутрет(ь)и, полчетверты, полдесяты</li>
     </ul>
   </li>
 </ul>
@@ -829,7 +847,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: 178-г(о), 12, 27, 18, 11, 177-г(о), 20, 22, третеи, 23</li>
+      <li>ADJ: 178-г(о), 205, 23, 1, 12, 18, 11, 160-го, 20, 27</li>
     </ul>
   </li>
 </ul>
@@ -837,7 +855,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Sets
     <ul>
-      <li>NUM: двои, обеих, оба, обе, трои, дво[и], двое, [о]беих, двоих, обѣих</li>
+      <li>NUM: двои, обе, оба, обеих, двое, обеим, обѣ, трои, дво[и], пятеры</li>
     </ul>
   </li>
 </ul>
@@ -850,7 +868,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Yes
     <ul>
       <li>ADJ: государева, государеву, государевы, бжиі, Иванова, Ивашкова, Петрова, Христову, Божіе, Божій</li>
-      <li>DET: мои, твой, своего, твоему, твои, твоего, своихъ, свое, своими, нашему</li>
+      <li>DET: своего, твой, мои, свою, твоему, твои, твоего, своих, своею, нашего</li>
     </ul>
   </li>
 </ul>
@@ -862,12 +880,12 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>Yes
     <ul>
-      <li>DET: своего, своихъ, свое, своими, свою, своих, своей, своемъ, своему, своимъ</li>
-      <li>PRON: себя, себѣ, собою, себе, сѧ, собя, собѣ, ся, си, сябя</li>
-      <li>VERB-Conv: дожидаясь, браняся, возвесели(м)сꙗ, возрадꙋе(м)сꙗ, оборонясь, потщасꙗ, радꙋющесꙗ, сметесь, считаяся, сьѣхавсѧ</li>
-      <li>VERB-Fin: родитца, доведется, смилуйся, ꙋчинит, крестихомся, лишашесꙗ, мни(т)сꙗ, повинуйтеся, противляхся, радꙋюсꙗ</li>
+      <li>DET: своего, свою, своих, своею, свое, своему, своими, своихъ, своим, своей</li>
+      <li>PRON: себя, себѣ, собою, себе, собя, ся, сѧ, собѣ, собе, си</li>
+      <li>VERB-Conv: дожидаясь, браняся, оборонясь, потщасꙗ, радꙋющесꙗ, сметесь, считаяся, сьѣхавсѧ</li>
+      <li>VERB-Fin: родитца, доведется, смилуйся, ꙋчинит, возвесели(м)сꙗ, возрадꙋе(м)сꙗ, крестихомся, лишашесꙗ, мни(т)сꙗ, повинуйтеся</li>
       <li>VERB-Inf: вступаться, бранитися, радоватисꙗ, встꙋпатис[ѧ], задаватися, съступитися, Веселитисꙗ, бити, богатитися, бранитца</li>
-      <li>VERB-Part: Покаряющаяся, гордящеися, исполнꙗющеесꙗ, лишающася, обꙋчивши(м)сꙗ, оказавшагося, препирающіисꙗ, препирающіꙗсꙗ, родꙗщи(м)сꙗ, родꙗщіисꙗ</li>
+      <li>VERB-Part: обретающимся, Застарѣвшиеся, Покаряющаяся, беснующимся, боящиися, боящихся, веселящихся, гордящеися, застарѣвшияся, исполнꙗющеесꙗ</li>
       <li>VERB-PartRes: учинилась, лишаласꙗ, состоялись, вступался, вызывался, дрались, женилися, замучились, извѣстилсꙗ, именовалосꙗ</li>
     </ul>
   </li>
@@ -880,9 +898,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: есмя, быхом, есми, есмь, есьмы</li>
-      <li>PRON: я, мнѣ, нас, мы, меня, мне, нам, намъ, насъ, мною</li>
-      <li>VERB-Fin: бью, бию, бьемъ, пошлю, разсꙋждаю, бьем, виждꙋ, желаемъ, крестихомся, о(т)верзꙋ</li>
+      <li>AUX-Fin: есми, есмь, есмя, будемъ, буду, есмы, бех, быхом, бых, есьмы</li>
+      <li>PRON: я, мнѣ, нам, нас, мы, меня, намъ, мне, яз, насъ</li>
+      <li>VERB-Fin: прошу, бью, желаю, пишу, чиню, бию, бьемъ, возвѣщаю, пойдемъ, посылаю</li>
     </ul>
   </li>
 </ul>
@@ -890,9 +908,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: еси, есте, буди, бꙋдеш[ь], бꙋд, бꙋдь, бꙋдꙋ, есь</li>
-      <li>PRON: тебѣ, ты, тебе, ти, тобѣ, тебя, вы, вас, вам, вамъ</li>
-      <li>VERB-Fin: пожалуй, пожалꙋи, вели, пожалуи, смилуйся, походи, возми, здравствꙋи, укажешь, ꙋвидиши</li>
+      <li>AUX-Fin: еси, есте, буди, будете, бꙋдеш[ь], имете, Буд[ь], будеши, бꙋд, бꙋдь</li>
+      <li>PRON: тебѣ, ты, тебе, ти, вам, вы, тебя, тобѣ, тобою, вас</li>
+      <li>VERB-Fin: пожалуй, вели, пожалꙋи, смилуйся, здравствуй, отпиши, пожалуи, хочешь, походи, укажешь</li>
     </ul>
   </li>
 </ul>
@@ -900,9 +918,9 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: есть, бы, будет, бысть, будутъ, суть, бꙋдетъ, бы(ст), бꙗше, будетъ</li>
-      <li>PRON: ево, его, ему, они, имъ, ихъ, нем, них, он, онъ</li>
-      <li>VERB-Fin: бьет, есть, бьетъ, нет, платит, учнутъ, рече, бꙋдет, згодитца, даде</li>
+      <li>AUX-Fin: есть, будет, бысть, будетъ, бы, суть, бꙋдет, будутъ, будут, бꙋдетъ</li>
+      <li>PRON: его, ево, их, ему, онъ, ихъ, они, него, них, имъ</li>
+      <li>VERB-Fin: рече, есть, бьет, бьетъ, называют, вѣдаетъ, сказывают, учнутъ, живут, бысть</li>
     </ul>
   </li>
 </ul>
@@ -919,9 +937,10 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>Yes
         <ul>
           <li>ADJ: бжиі, бжия, др, гсдрвыми</li>
-          <li>ADV: отннѣ</li>
-          <li>DET: т., др., с., вши, вших</li>
-          <li>NOUN: г., х., л., об., де, алт., гсдрю, гсдрни, гсдрь, с.</li>
+          <li>ADV: отннѣ, че</li>
+          <li>DET: т., др., с., вши, вших, проч.</li>
+          <li>NOUN: г., х., д., л., об., де, алт., гсдрь, гсдрю, гсдрни</li>
+          <li>PROPN: а., с.</li>
         </ul>
       </li>
     </ul>
@@ -933,7 +952,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>Yes
         <ul>
-          <li>AUX: б, бы, бъ, будутъ, было, былъ, будетъ, были, есмь, есте</li>
+          <li>AUX: бы, б, бъ, будутъ, было, былъ, будетъ, были, есмь, есте</li>
           <li>AUX-Fin: будутъ, будетъ, есмь, есте</li>
           <li>AUX-PartRes: было, былъ, были</li>
           <li>PRON: сѧ, ся</li>
@@ -948,11 +967,37 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 </ul>
 
 <ul>
+  <li><a>Clitic</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PRON: тя, ти, ми, мя, си</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: etc.</li>
+          <li>X: Piter, Min, Her, Her., Petrvs, Archangel, Guverneur, Mi, Kenich, Bombordir</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>InflClass</a>
+    <ul>
+      <li>Ind
+        <ul>
+          <li>ADJ: особь</li>
+          <li>NOUN: адицио, супъстракцио</li>
+          <li>PROPN: Июдиф, Наеми, Усть-Березовки</li>
         </ul>
       </li>
     </ul>
@@ -964,27 +1009,37 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>Geo
         <ul>
-          <li>PROPN: Кон(ь)кова, Москве, Тел(ь)чеи, Кон(ь)кове, Уткинои, Кан(ь)кова, Брагинои, Москвы, Назаркова, Назаркове</li>
+          <li>PROPN: Москве, Русии, Москвѣ, Кунгурѣ, Кон(ь)кова, Москвы, Новагорода, Руси, Азова, Асторохани</li>
         </ul>
       </li>
       <li>Giv
         <ul>
-          <li>PROPN: Ивашки, Ивашка, Янка, Иван, Сидору, Ывашки, Андрюшки, Васки, Гришки, Фомки</li>
+          <li>PROPN: Ивана, Иван, Иванъ, Ивашко, Оска, Аѳонка, Борис, Борису, Ивашка, Савку</li>
+        </ul>
+      </li>
+      <li>Oth
+        <ul>
+          <li>PROPN: Сеферю, Суюшу, Айдаром, Багао, Далфон, Камзбиз, Колмака, Мамурла, Мопс, Семыоном</li>
         </ul>
       </li>
       <li>Pat
         <ul>
-          <li>PROPN: Ил(ь)ич, Ил(ь)ича, Аврамьевич, Аврамьевича, Ильич, Микитин, Костина, Лук(ь)янов, Михаиловича, Ортемьев</li>
+          <li>PROPN: Ивановича, Ивановичю, Иванович, Васильевича, Федорович, Васильевич, Васильевичю, Федоровича, Васил[ь]евичю, Никитичю</li>
+        </ul>
+      </li>
+      <li>Pro
+        <ul>
+          <li>PROPN: Апокалипсис</li>
         </ul>
       </li>
       <li>Prs
         <ul>
-          <li>PROPN: Колокол(ь)ня, Пана, Половинка, Глухому, Жепленка, Колокол(ь)не, Конюха, Конюхом, Набуча, Палавинки</li>
+          <li>PROPN: Христа, Христос, Христосъ, Тотарина, Колокол(ь)ня, Катаруля, Кокуи, Невежа, Пана, Половинка</li>
         </ul>
       </li>
       <li>Sur
         <ul>
-          <li>PROPN: Шуняева, Савел(ь)ев, Федорова, Иванова, Павлова, Борисова, Микитин, Фомин, Жидова, Сидоров</li>
+          <li>PROPN: Чамовскихъ, Фальк, Шестоперовъ, Шавкунова, Аникіевъ, Иванова, Калитинъ, Мосеевъ, Федорова, Шуняева</li>
         </ul>
       </li>
     </ul>
@@ -996,7 +1051,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>Combi
         <ul>
-          <li>ADJ: 178-г(о), 177-г(о), 177-м, 117-м, 171-г(о), 178-м, 7-г(о), [1]78-го</li>
+          <li>ADJ: 178-г(о), 160-го, 177-г(о), 177-м, 188-й, 155-го, 160-мъ, 187-го, 21-го, 7062-го</li>
+          <li>NUM: 3-х, 10-ти, 20-ти, 2хъ, 4хъ, 5-ти</li>
         </ul>
       </li>
       <li>Cyril
@@ -1007,8 +1063,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       </li>
       <li>Digit
         <ul>
-          <li>ADJ: 206, 160-го, 27, 12, 20, 205, 22, 28, 1, 11</li>
-          <li>NUM: 3, 4, 2, 5, 10, 6, 8, 12, 20, 35</li>
+          <li>ADJ: 205, 1, 23, 206, 29, 11, 12, 18, 19, 20</li>
+          <li>NUM: 3, 2, 4, 5, 10, 6, 8, 7, 9, 12</li>
         </ul>
       </li>
       <li>Roman
@@ -1018,8 +1074,8 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       </li>
       <li>Word
         <ul>
-          <li>ADJ: третеи, первом, четвертои, пятои, трет(ь)ем, четвертом, шестои, Десятои, Друго[и], Другои</li>
-          <li>NUM: два, один, две, три, полтора, двои, дву, пят(ь), четыре, четырех</li>
+          <li>ADJ: трети, третеи, первом, четвертои, пятои, третей, третьяя, четвертом, вторую, дванадесятные</li>
+          <li>NUM: два, две, один, три, дву, полтора, обе, сколко, четыре, двои</li>
         </ul>
       </li>
     </ul>
@@ -1031,10 +1087,11 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Пречистные</li>
+          <li>ADJ: Пречистные, великии</li>
           <li>ADV: 3</li>
           <li>DET: свой</li>
-          <li>NOUN: подать, сухарем</li>
+          <li>NOUN: здоров, подать, полѣнолъ, сосупругою, сухарем, сыи</li>
+          <li>PROPN: Фуникову</li>
         </ul>
       </li>
     </ul>
@@ -1050,7 +1107,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: быти, бы, бъ.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: быти, бы, бъ, яти.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быти.</li>
 </ul>
 
@@ -1060,42 +1117,44 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Gen (6)</li>
-      <li>VERB--NOUN-Nom (4)</li>
-      <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Conv--NOUN-Nom (4)</li>
-      <li>VERB-Conv--PRON-Nom (5)</li>
-      <li>VERB-Fin--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Gen (22)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(въ) (2)</li>
+      <li>VERB--NOUN-Gen (26)</li>
+      <li>VERB--NOUN-Gen-ADP(въ) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(съ) (1)</li>
+      <li>VERB--NOUN-Nom (5)</li>
+      <li>VERB--PRON-Gen (4)</li>
+      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB-Conv--NOUN-Nom (17)</li>
+      <li>VERB-Conv--PRON-Nom (9)</li>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
+      <li>VERB-Fin--NOUN-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Gen (16)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(съ) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(въ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (315)</li>
+      <li>VERB-Fin--NOUN-Nom (595)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(въ) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(отъ) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(разве) (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (165)</li>
+      <li>VERB-Fin--PRON-Nom (323)</li>
       <li>VERB-Fin--PRON-Nom-ADP(на) (1)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Nom (7)</li>
-      <li>VERB-Inf--PRON-Nom (4)</li>
-      <li>VERB-Part--NOUN-Dat (4)</li>
-      <li>VERB-Part--NOUN-Gen (12)</li>
-      <li>VERB-Part--NOUN-Nom (62)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(отъ) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(съ) (1)</li>
+      <li>VERB-Inf--NOUN-Acc (2)</li>
+      <li>VERB-Inf--NOUN-Nom (10)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--NOUN-Dat (6)</li>
+      <li>VERB-Part--NOUN-Nom (7)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
-      <li>VERB-Part--PRON-Nom (13)</li>
-      <li>VERB-PartRes--NOUN-Acc (6)</li>
-      <li>VERB-PartRes--NOUN-Gen (30)</li>
-      <li>VERB-PartRes--NOUN-Ins (1)</li>
-      <li>VERB-PartRes--NOUN-Nom (209)</li>
+      <li>VERB-Part--PRON-Nom (4)</li>
+      <li>VERB-PartRes--NOUN-Acc (8)</li>
+      <li>VERB-PartRes--NOUN-Gen (45)</li>
+      <li>VERB-PartRes--NOUN-Ins (3)</li>
+      <li>VERB-PartRes--NOUN-Nom (588)</li>
+      <li>VERB-PartRes--NOUN-Nom-ADP(за) (1)</li>
       <li>VERB-PartRes--NOUN-Nom-ADP(изъ) (2)</li>
       <li>VERB-PartRes--NOUN-Nom-ADP(подъ) (1)</li>
-      <li>VERB-PartRes--PRON-Gen (2)</li>
-      <li>VERB-PartRes--PRON-Nom (194)</li>
+      <li>VERB-PartRes--PRON-Gen (4)</li>
+      <li>VERB-PartRes--PRON-Nom (368)</li>
     </ul>
   </li>
 </ul>
@@ -1103,50 +1162,58 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Acc (46)</li>
+      <li>VERB--PRON-Acc (1)</li>
+      <li>VERB-Conv--NOUN-Acc (92)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(въ) (1)</li>
       <li>VERB-Conv--NOUN-Acc-ADP(съ) (1)</li>
       <li>VERB-Conv--NOUN-Dat (1)</li>
-      <li>VERB-Conv--NOUN-Gen (17)</li>
-      <li>VERB-Conv--PRON-Acc (7)</li>
-      <li>VERB-Conv--PRON-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Acc (252)</li>
+      <li>VERB-Conv--NOUN-Gen (29)</li>
+      <li>VERB-Conv--NOUN-Nom (1)</li>
+      <li>VERB-Conv--PRON-Acc (18)</li>
+      <li>VERB-Conv--PRON-Gen (4)</li>
+      <li>VERB-Fin--NOUN-Acc (463)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(въ) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (68)</li>
-      <li>VERB-Fin--NOUN-Ins (18)</li>
+      <li>VERB-Fin--NOUN-Gen (144)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(отъ) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (81)</li>
       <li>VERB-Fin--NOUN-Nom (5)</li>
-      <li>VERB-Fin--PRON-Acc (78)</li>
-      <li>VERB-Fin--PRON-Gen (11)</li>
-      <li>VERB-Fin--PRON-Nom (3)</li>
-      <li>VERB-Inf--NOUN-Acc (234)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(о) (1)</li>
+      <li>VERB-Fin--PRON-Acc (179)</li>
+      <li>VERB-Fin--PRON-Gen (44)</li>
+      <li>VERB-Fin--PRON-Loc-ADP(въ) (1)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Acc (422)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(по) (1)</li>
-      <li>VERB-Inf--NOUN-Dat (3)</li>
+      <li>VERB-Inf--NOUN-Dat (4)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(по) (2)</li>
-      <li>VERB-Inf--NOUN-Gen (127)</li>
+      <li>VERB-Inf--NOUN-Gen (210)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(на) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(по) (2)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(о) (1)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(по) (5)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(у) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (8)</li>
-      <li>VERB-Inf--NOUN-Nom (11)</li>
-      <li>VERB-Inf--PRON-Acc (46)</li>
+      <li>VERB-Inf--NOUN-Ins (23)</li>
+      <li>VERB-Inf--NOUN-Nom (19)</li>
+      <li>VERB-Inf--PRON-Acc (92)</li>
       <li>VERB-Inf--PRON-Acc-ADP(про) (1)</li>
-      <li>VERB-Inf--PRON-Gen (6)</li>
-      <li>VERB-Inf--PRON-Ins (1)</li>
-      <li>VERB-Part--NOUN-Acc (22)</li>
-      <li>VERB-Part--NOUN-Dat (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(по) (1)</li>
-      <li>VERB-Part--NOUN-Gen (33)</li>
+      <li>VERB-Inf--PRON-Gen (22)</li>
+      <li>VERB-Inf--PRON-Ins (2)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Part--NOUN-Acc (27)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(аки) (1)</li>
+      <li>VERB-Part--NOUN-Gen (15)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON-Acc (9)</li>
-      <li>VERB-PartRes--NOUN-Acc (256)</li>
-      <li>VERB-PartRes--NOUN-Acc-ADP(за) (1)</li>
-      <li>VERB-PartRes--NOUN-Gen (86)</li>
+      <li>VERB-Part--PRON-Acc (14)</li>
+      <li>VERB-Part--PRON-Gen (4)</li>
+      <li>VERB-PartRes--NOUN-Acc (581)</li>
+      <li>VERB-PartRes--NOUN-Acc-ADP(за) (2)</li>
+      <li>VERB-PartRes--NOUN-Acc-ADP(на) (1)</li>
+      <li>VERB-PartRes--NOUN-Dat-ADP(по) (1)</li>
+      <li>VERB-PartRes--NOUN-Gen (127)</li>
       <li>VERB-PartRes--NOUN-Gen-ADP(по) (1)</li>
-      <li>VERB-PartRes--NOUN-Ins (2)</li>
-      <li>VERB-PartRes--NOUN-Nom (1)</li>
-      <li>VERB-PartRes--PRON-Acc (55)</li>
-      <li>VERB-PartRes--PRON-Gen (13)</li>
+      <li>VERB-PartRes--NOUN-Gen-ADP(съ) (2)</li>
+      <li>VERB-PartRes--NOUN-Ins (34)</li>
+      <li>VERB-PartRes--NOUN-Nom (4)</li>
+      <li>VERB-PartRes--PRON-Acc (146)</li>
+      <li>VERB-PartRes--PRON-Gen (23)</li>
       <li>VERB-PartRes--PRON-Nom (4)</li>
     </ul>
   </li>
@@ -1155,42 +1222,44 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (2)</li>
-      <li>VERB--PRON-Dat (5)</li>
-      <li>VERB-Conv--NOUN-Acc (2)</li>
-      <li>VERB-Conv--NOUN-Dat (4)</li>
-      <li>VERB-Conv--NOUN-Ins (12)</li>
-      <li>VERB-Conv--PRON-Dat (8)</li>
+      <li>VERB--NOUN-Dat (8)</li>
+      <li>VERB--PRON-Dat (22)</li>
+      <li>VERB-Conv--NOUN-Acc (3)</li>
+      <li>VERB-Conv--NOUN-Dat (10)</li>
+      <li>VERB-Conv--NOUN-Gen (1)</li>
+      <li>VERB-Conv--NOUN-Ins (22)</li>
+      <li>VERB-Conv--PRON-Dat (13)</li>
       <li>VERB-Fin--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Dat (63)</li>
+      <li>VERB-Fin--NOUN-Dat (114)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(къ) (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(съ) (1)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Ins (82)</li>
-      <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Dat (82)</li>
+      <li>VERB-Fin--NOUN-Ins (77)</li>
+      <li>VERB-Fin--PRON-Dat (144)</li>
       <li>VERB-Fin--PRON-Dat-ADP(о) (1)</li>
-      <li>VERB-Fin--PRON-Ins (6)</li>
+      <li>VERB-Fin--PRON-Ins (16)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Dat (91)</li>
+      <li>VERB-Inf--NOUN-Dat (145)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(въ) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(къ) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (23)</li>
-      <li>VERB-Inf--PRON-Dat (150)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Ins (5)</li>
-      <li>VERB-Part--NOUN-Dat (29)</li>
+      <li>VERB-Inf--NOUN-Ins (52)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(въ) (1)</li>
+      <li>VERB-Inf--PRON-Dat (266)</li>
+      <li>VERB-Inf--PRON-Ins (9)</li>
+      <li>VERB-Part--NOUN-Dat (43)</li>
       <li>VERB-Part--NOUN-Dat-ADP(въ) (1)</li>
       <li>VERB-Part--NOUN-Gen (3)</li>
-      <li>VERB-Part--NOUN-Ins (17)</li>
+      <li>VERB-Part--NOUN-Ins (34)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(яко) (1)</li>
       <li>VERB-Part--NOUN-Loc-ADP(въ) (1)</li>
-      <li>VERB-Part--PRON-Dat (38)</li>
-      <li>VERB-Part--PRON-Ins (1)</li>
+      <li>VERB-Part--PRON-Dat (78)</li>
+      <li>VERB-Part--PRON-Ins (2)</li>
       <li>VERB-Part--PRON-Loc (1)</li>
-      <li>VERB-PartRes--NOUN-Dat (26)</li>
+      <li>VERB-PartRes--NOUN-Dat (79)</li>
       <li>VERB-PartRes--NOUN-Gen (1)</li>
-      <li>VERB-PartRes--NOUN-Ins (50)</li>
-      <li>VERB-PartRes--PRON-Dat (67)</li>
-      <li>VERB-PartRes--PRON-Ins (1)</li>
+      <li>VERB-PartRes--NOUN-Ins (83)</li>
+      <li>VERB-PartRes--PRON-Dat (140)</li>
+      <li>VERB-PartRes--PRON-Ins (6)</li>
     </ul>
   </li>
 </ul>
@@ -1198,19 +1267,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 6 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: учинитися сѧ, сперетися сѧ, начати ся, оборонитися сѧ, отступитися сѧ, приити ся</li>
+  <li>This corpus contains 19 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: учинитися сѧ, сопрѣти сѧ, сперетися сѧ, учинити сѧ, возбранити ся, вступати ся, дѣлати ся, дѣлатися ся, начати ся, оборонитися сѧ, отметати ся, отступитися сѧ, портити ся, приити ся, пропивати ся, радовати ся, сопрѣти ся, ужасати ся, утишити сѧ</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 17 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: имѣти себѣ, купити себѣ, будити себе, будити себя, вдати хвалящися, дати собѣ, ждати себѣ, избрати собѣ, ископати себе, молити твое, наряжати собою, платити собою, погубити себя, помыслити хвалящихся, прославити себя, устрати покаряющаяся, явити си</li>
+  <li>This corpus contains 40 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: имѣти себѣ, внимати себѣ, видѣти себе, избрати собѣ, купити себѣ, посмотрѣти себѣ, блюсти себе, брати себѣ, будити себе, будити себя, вдати хвалящися, везти собя, восприимати себе, дати собѣ, доложити собя, ждати себѣ, имати себе, ископати себе, надсажати себя, назвати собе, назвати собѣ, наряжати собою, объявити собя, отняти свое, писатися собою, платити собою, повиновати себе, погубити себя, пользовати себѣ, помыслити хвалящихся, призвати собе, приобрѣтати себѣ, прославити себя, стеречи себе, творити себѣ, устрояти покаряющаяся, хранити себе, явити себя, явити си, являти себе</li>
+    <ul>
+      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: назвати</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:depict</a>, <a>obl:float</a>, <a>obl:pronmod</a>, <a>obl:tmod</a>, <a>parataxis:discourse</a></li>
 <li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
 </ul>

@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt>, <tt><a href="fr_sequoia-feat-Person-psor.html">Person[psor]</a></tt>.
 
 6057 tokens (9%) have a non-empty value of `Person`.
-1062 types (11%) occur at least once with a non-empty value of `Person`.
+1063 types (11%) occur at least once with a non-empty value of `Person`.
 526 lemmas (8%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2164; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2115; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1778; 3% instances).
 

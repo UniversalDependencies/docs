@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5381 nodes (3%) are attached to their parents as `mark`.
+6259 nodes (3%) are attached to their parents as `mark`.
 
-5376 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.58929566994982.
+6254 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.60664642914204.
 
-The following 25 pairs of parts of speech are connected with `mark`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2339; 43% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2234; 42% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (274; 5% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (212; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (62; 1% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (60; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (39; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (28; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (22; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The following 26 pairs of parts of speech are connected with `mark`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2712; 43% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2619; 42% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (306; 5% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (235; 4% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (76; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (71; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (49; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (33; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (32; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 5	then	then	ADV	RB	PronType=Dem	9	advmod	9:advmod	_
 6	af-	af-	INTJ	UH	_	9	reparandum	9:reparandum	_
 7	—	—	PUNCT	:	_	6	punct	6:punct	_
-8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	Discourse=context-background:38->41:3:ref-prs-190,210|Entity=(4-person-giv:act-cf2-1-ana)
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj|11:nsubj:xsubj	Discourse=context-background:38->41:3:ref-prs-190,210|Entity=(11-person-giv:act-cf2-1-ana)
 9	wanted	want	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	2:conj:but	MSeg=want-ed
 10	to	to	PART	TO	_	11	mark	11:mark	_
 11	stay	stay	VERB	VB	VerbForm=Inf	9	xcomp	9:xcomp	_
@@ -51,9 +51,9 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Okay	okay	INTJ	UH	_	2	discourse	2:discourse	Discourse=evaluation-comment:51->49:2:lex-indwd-273
 2	cool	cool	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
 3	,	,	PUNCT	,	_	6	punct	6:punct	_
-4	cause	cause	SCONJ	IN	_	6	mark	6:mark	Discourse=explanation-justify:52->51:0:dm-cause-275
+4	cause	cause	SCONJ	IN	Style=Vrnc	6	mark	6:mark	Discourse=explanation-justify:52->51:0:dm-cause-275
 5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj|8:nsubj:xsubj|9:nsubj:xsubj	Entity=(16-person-giv:inact-cf1-1-ana)
-6	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:cause	_
+6	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:because	_
 7	to	to	PART	TO	_	8	mark	8:mark	_
 8	go	go	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
 9	bowling	bowl	VERB	VBG	VerbForm=Ger	8	xcomp	8:xcomp	MSeg=bowl-ing
@@ -71,11 +71,11 @@ The following 25 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 mark	color:blue
-1	What	what	PRON	WP	PronType=Int	0	root	0:root	Cxn=Interrogative-Wh|Discourse=adversative-antithesis:129->124:4:_
+1	What	what	PRON	WP	PronType=Int	0	root	0:root	Cxn=Conditional-Interrogative|Discourse=adversative-antithesis:129->124:4:_
 2	if	if	SCONJ	IN	_	5	mark	5:mark	_
 3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	5:nsubj	Entity=(52-person-giv:act-cf1*-1-ana)
 4	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-5	awake	awake	ADJ	JJ	Degree=Pos	1	advcl	1:advcl:if	Cxn=Condition-What-If|MSeg=a-wake|SpaceAfter=No
+5	awake	awake	ADJ	JJ	Degree=Pos	1	advcl	1:advcl:if	MSeg=a-wake|SpaceAfter=No
 6	?	?	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~

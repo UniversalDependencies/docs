@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `compound`
 
 This relation is universal.
+There are 1 language-specific subtypes of `compound`: <tt><a href="kpv_lattice-dep-compound-nn.html">compound:nn</a></tt>.
 
 25 nodes (0%) are attached to their parents as `compound`.
 

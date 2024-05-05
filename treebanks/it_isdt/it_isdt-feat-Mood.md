@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (245; 2% of non-empty `Mood`): <em>v., Nomina, Dimmi, Elenca, vedi, Dammi, andate, clicca, ricorda, usa</em>
 * `Ind` (9631; 92% of non-empty `Mood`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</em>
 * `Sub` (531; 5% of non-empty `Mood`): <em>abbia, sia, faccia, abbiano, veda, siano, facciano, tratti, disponga, permetta</em>
-* `EMPTY` (14734): <em>fare, fatto, far, visto, vinto, vedere, avere, avuto, tenuto, detto</em>
+* `EMPTY` (14733): <em>fare, fatto, far, visto, vinto, vedere, avere, avuto, tenuto, detto</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

@@ -59,9 +59,9 @@ The following 30 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 2	classes	classe	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
 3	moyennes	moyen	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
-5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	reparandum	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	dep	_	Scrap=Yes
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	reparandum	_	Scrap=Yes|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	3	dep	_	_
 8	ne	ne	ADV	_	Polarity=Neg	9	advmod	_	_
 9	vont	aller	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_

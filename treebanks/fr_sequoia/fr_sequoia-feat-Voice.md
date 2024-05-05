@@ -11,7 +11,7 @@ It occurs with 1 different values: `Pass`.
 
 1495 tokens (2%) have a non-empty value of `Voice`.
 763 types (8%) occur at least once with a non-empty value of `Voice`.
-481 lemmas (7%) occur at least once with a non-empty value of `Voice`.
+480 lemmas (7%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 1 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1495; 2% instances).
 
 ### `VERB`
@@ -25,5 +25,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Pass` (1495; 100% of non-empty `Voice`): <em>traités, utilisé, atteints, administré, mis, observée, recommandée, administrée, destinée, suivi</em>
 * `EMPTY` (4391): <em>doit, voir, a, peut, doivent, eu, faire, faut, est, fait</em>
 
-`Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (481) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (480) occur only with one value of `Voice`.
 

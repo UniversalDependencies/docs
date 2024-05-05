@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50 nodes (0%) are attached to their parents as `csubj`.
+109 nodes (0%) are attached to their parents as `csubj`.
 
-26 instances of `csubj` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.3.
+59 instances of `csubj` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.1651376146789.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (28; 56% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (13; 26% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (4; 8% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `csubj`: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (55; 50% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (32; 29% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	в	въ	ADP	_	_	3	case	_	_
 3	деревню	деревня	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	г.	государь	NOUN	_	Abbr=Yes	3	parataxis	_	SpaceAfter=No
+5	г.	государь	NOUN	_	Abbr=Yes	3	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
-7	ходить	ходити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	_
+7	ходить	ходити	VERB	_	VerbForm=Inf|Voice=Act	9	csubj	_	_
 8	будет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	далеко	далекий	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
@@ -44,12 +44,12 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 9 8 csubj	color:blue
 1	А	а	CCONJ	_	_	6	cc	_	_
 2	конюх	конюхъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-3	здесь	здѣсь	ADV	_	Degree=Pos	6	advmod	_	_
+3	здесь	здѣсь	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	upos="ADVPRO"|_
 4	у	у	ADP	_	_	5	case	_	_
 5	лошадей	лошадь	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	6	obl	_	_
-6	один	одинъ	NUM	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+6	один	одинъ	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
-8	пасти	пасти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	_
+8	пасти	пасти	VERB	_	VerbForm=Inf|Voice=Act	9	csubj	_	_
 9	не	не	VERB	_	Polarity=Neg	6	conj	_	_
 10	с	съ	ADP	_	_	11	case	_	_
 11	кем	кто	PRON	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Neg	9	obl	_	SpaceAfter=No
@@ -66,9 +66,9 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 31 30 csubj	color:blue
 1	А	а	CCONJ	_	_	11	cc	_	_
 2	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
-3	какъ	какъ	ADV	_	Degree=Pos	5	advmod	_	_
-4	есть	быти	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	християне	християнинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	advcl	_	_
+3	какъ	какъ	ADV	_	Degree=Pos|PronType=Rel	5	advmod	_	upos="ADVPRO"|_
+4	есть	быти	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	християне	христианинъ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	advcl	_	_
 6	по	по	ADP	_	_	8	case	_	_
 7	християнскому	христианский	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
 8	обычаю	обычай	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	_
@@ -94,7 +94,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 28	с	съ	ADP	_	_	29	case	_	_
 29	тобою	ты	PRON	_	Case=Ins|Number=Sing|Person=2|PronType=Prs	30	obl	_	_
 30	бранитися	бранитися	VERB	_	Aspect=Imp|Reflex=Yes|VerbForm=Inf|Voice=Mid	31	csubj	_	_
-31	безчестье	бесчестье	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
+31	безчестье	бесчестие	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	24	conj	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~

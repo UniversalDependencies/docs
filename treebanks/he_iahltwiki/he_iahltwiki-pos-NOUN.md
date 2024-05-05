@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  בית (<tt><a href="he_iahltwiki-pos-NOU
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.450549 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `NOUN` is 1.450549 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (10) was observed with the lemma “איש”: אֲנָשָׁי, איש, אישה, אישי, אישים, אנשי, אנשים, אשה, אשת, נשים.
 

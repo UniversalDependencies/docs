@@ -38,8 +38,8 @@ The following 113 pairs of parts of speech are connected with `dep`: <tt><a href
 # visual-style 1 3 dep	color:blue
 1	Praha	Praha	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	0	root	0:root	Entity=(lnd94103013c1--1-gstype:spec|Functor=0:DENOM
 2	(	(	PUNCT	Z:-------------	_	1	punct	1:punct	SpaceAfter=No
-3	kva	kva	PROPN	BNXXX-----A----	Abbr=Yes|NameType=Giv|Polarity=Pos	1	dep	1:dep	Entity=lnd94103013c1)|Functor=1:PAR|LId=kva-99|SpaceAfter=No
-4	)	)	PUNCT	Z:-------------	_	1	punct	1:punct	_
+3	kva	kva	PROPN	BNXXX-----A----	Abbr=Yes|NameType=Giv|Polarity=Pos	1	dep	1:dep	SpaceAfter=No|LId=kva-99|Functor=1:PAR
+4	)	)	PUNCT	Z:-------------	_	1	punct	1:punct	Entity=lnd94103013c1)
 5	-	-	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

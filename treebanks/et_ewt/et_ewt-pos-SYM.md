@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>@</em> (<tt><a href="et_ewt-pos-SYM.h
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.014286 (the average of all parts of speech is 1.732282).
+The form / lemma ratio of `SYM` is 1.014286 (the average of all parts of speech is 1.732342).
 
 The 1st highest number of forms (2) was observed with the lemma “S3”: <em>S3'med, S3-el</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>@, %, :), :D, ;), :s, :/, =), :(, :lol:</em>
 
 `SYM` nodes are attached to their parents using 15 different relations: <tt><a href="et_ewt-dep-discourse.html">discourse</a></tt> (220; 61% instances), <tt><a href="et_ewt-dep-root.html">root</a></tt> (23; 6% instances), <tt><a href="et_ewt-dep-obl.html">obl</a></tt> (20; 6% instances), <tt><a href="et_ewt-dep-advmod.html">advmod</a></tt> (18; 5% instances), <tt><a href="et_ewt-dep-dep.html">dep</a></tt> (17; 5% instances), <tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt> (12; 3% instances), <tt><a href="et_ewt-dep-nsubj-cop.html">nsubj:cop</a></tt> (11; 3% instances), <tt><a href="et_ewt-dep-nmod.html">nmod</a></tt> (8; 2% instances), <tt><a href="et_ewt-dep-nsubj.html">nsubj</a></tt> (8; 2% instances), <tt><a href="et_ewt-dep-obj.html">obj</a></tt> (7; 2% instances), <tt><a href="et_ewt-dep-flat.html">flat</a></tt> (5; 1% instances), <tt><a href="et_ewt-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="et_ewt-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="et_ewt-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="et_ewt-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
 
-Parents of `SYM` nodes belong to 11 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (137; 38% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (93; 26% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (49; 14% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (23; 6% instances),  (23; 6% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (14; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (9; 3% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (2; 1% instances)
+Parents of `SYM` nodes belong to 11 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (137; 38% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (93; 26% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (50; 14% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (23; 6% instances),  (23; 6% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (14; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (9; 3% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances)
 
 271 (76%) `SYM` nodes are leaves.
 

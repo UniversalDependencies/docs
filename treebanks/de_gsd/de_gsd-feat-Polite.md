@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (3; 100% of non-empty `Polite`): <em>Melden, beschreiben, sehen</em>
-* `EMPTY` (20683): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
+* `EMPTY` (20644): <em>wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</em>
 
 ### `AUX`
 
@@ -56,5 +56,5 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (1; 100% of non-empty `Polite`): <em>haben</em>
-* `EMPTY` (10622): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
+* `EMPTY` (10661): <em>ist, wurde, war, sind, werden, wird, wurden, kann, hat, waren</em>
 

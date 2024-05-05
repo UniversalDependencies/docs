@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-85 nodes (1%) are attached to their parents as `cc`.
+92 nodes (1%) are attached to their parents as `cc`.
 
-75 instances of `cc` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94117647058824.
+79 instances of `cc` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (58; 68% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (16; 19% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (4; 5% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (62; 67% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (19; 21% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="y
 4	u	u	CCONJ	CCONJ	_	5	cc	_	TokenRange=19:20
 5	remurari	murari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	conj	_	TokenRange=21:29
 6	interior	interior	NOUN	N	Number=Sing	5	obl	_	OrigLang=pt|TokenRange=30:38
-7	kití	kití	ADP	ADP	_	6	case	_	TokenRange=39:43
+7	kití	kití	ADP	ADP	AdpType=Post	6	case	_	TokenRange=39:43
 8	[...]	[...]	PUNCT	ELIP	PunctType=Elip	5	punct	_	TokenRange=44:49
 
 ~~~
@@ -46,11 +46,11 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="y
 4	maã-itá	maã	NOUN	N	Number=Plur	2	obj	_	TokenRange=18:25
 5	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=26:27
 6	mimbira	mimbira	NOUN	N	Number=Sing	2	iobj	_	TokenRange=28:35
-7	supé	supé	ADP	ADP	_	6	case	_	SpaceAfter=No|TokenRange=36:40
+7	supé	supé	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=36:40
 8	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=40:41
 9	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=42:43
 10	mena	mena	NOUN	N	Number=Sing	6	conj	_	TokenRange=44:48
-11	supé	supé	ADP	ADP	_	10	case	_	TokenRange=49:53
+11	supé	supé	ADP	ADP	AdpType=Post	10	case	_	TokenRange=49:53
 12	yuíri	yuíri	CCONJ	CCONJ	_	10	cc	_	SpaceAfter=No|TokenRange=54:59
 13	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=59:60
 
@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="y
 8	uyeréu	yeréu	VERB	V	Person=3|VerbForm=Fin	1	advcl	_	TokenRange=39:45
 9	uyumuapiri	yumuapiri	VERB	V	Person=3|VerbForm=Fin	8	advcl	_	TokenRange=46:56
 10	waá	waá	PRON	REL	Number=Sing|PronType=Rel	9	mark	_	MWEPOS=SCONJ|TokenRange=57:60
-11	upé	upé	ADP	ADP	_	10	fixed	_	TokenRange=61:64
+11	upé	upé	ADP	ADP	AdpType=Post	10	fixed	_	TokenRange=61:64
 12	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	13	det	_	TokenRange=65:68
 13	alejadu	alejadu	NOUN	N	Number=Sing	9	nsubj	_	Orig=aleijado|OrigLang=pt|SpaceAfter=No|TokenRange=69:76
 14	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=76:77

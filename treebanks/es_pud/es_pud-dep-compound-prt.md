@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_pud-dep-compound.html">compound</a></tt>.
 
-195 nodes (1%) are attached to their parents as `compound:prt`.
+194 nodes (1%) are attached to their parents as `compound:prt`.
 
-159 instances of `compound:prt` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25641025641026.
+158 instances of `compound:prt` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25257731958763.
 
-The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (180; 92% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (7; 4% instances).
+The following 3 pairs of parts of speech are connected with `compound:prt`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (180; 93% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (7; 4% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	de	de	ADP	IN	_	6	case	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Familia	familia	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
-7	Imperial	_	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+7	Imperial	imperial	ADJ	JJ	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	compound:prt	_	_
 10	considera	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
@@ -67,16 +67,16 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 compound:prt	color:blue
-1	Danevirke	Danevirke	PROPN	NNP	Number=Sing	5	nsubj	_	_
+1	Danevirke	Danevirke	PROPN	NNP	Number=Sing	4	nsubj	_	_
 2	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	compound:prt	_	_
-3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
-4	mantenido	_	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
-5	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+3	ha	haber	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+4	mantenido	mantener	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+5	parte	parte	NOUN	NN	Gender=Fem|Number=Sing	4	xcomp	_	_
 6	de	de	ADP	IN	_	7	case	_	_
 7	Alemania	Alemania	PROPN	NNP	Number=Sing	5	nmod	_	_
 8	desde	desde	ADP	IN	_	9	case	_	_
 9	entonces	entonces	ADV	RB	_	5	xcomp	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	5	punct	_	_
+10	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

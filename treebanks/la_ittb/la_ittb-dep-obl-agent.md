@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-ITTB: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-obl.html">obl</a></tt>.
-There are also 3 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_ittb-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="la_ittb-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_ittb-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="la_ittb-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="la_ittb-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 1540 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 3	a	ab	ADP	S4|vgr1	_	4	case	_	_
 4	seipso	seipsum	PRON	F1|grn1|casF|gen3	Case=Abl|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obl:agent	_	_
 5	ponitur	pono	VERB	L3|modJ|tem1|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-6	moueri	moueo	VERB	K3|modQ|tem1|vgr1	Aspect=Imp|InflClass=LatE|Tense=Pres|VerbForm=Inf|Voice=Pass	5	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	moueri	moueo	VERB	K3|modQ|tem1|vgr1	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Pass	5	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	,	,	PUNCT	Punc	_	1	punct	_	_
 8	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	primo	primo	ADV	B1|grn1|casG	Degree=Abs	10	advmod	_	_

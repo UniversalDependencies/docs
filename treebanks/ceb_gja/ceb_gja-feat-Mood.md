@@ -11,7 +11,7 @@ It occurs with 3 different values: `Imp`, `Ind`, `Pot`.
 
 150 tokens (12%) have a non-empty value of `Mood`.
 138 types (30%) occur at least once with a non-empty value of `Mood`.
-110 lemmas (28%) occur at least once with a non-empty value of `Mood`.
+111 lemmas (30%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 12% instances).
 
 ### `VERB`
@@ -32,7 +32,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.ht
   <tr><td><tt><tt><a href="ceb_gja-feat-Voice.html">Voice</a></tt><tt>=Ifoc</tt></tt></td><td></td><td><em>Pakitaa</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 96% lemmas (106) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 96% lemmas (107) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 

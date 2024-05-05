@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ht_autogramm-pos-AU
 
 ### `AUX`
 
-105 <tt><a href="ht_autogramm-pos-AUX.html">AUX</a></tt> tokens (55% of all `AUX` tokens) have a non-empty value of `Tense`.
+105 <tt><a href="ht_autogramm-pos-AUX.html">AUX</a></tt> tokens (52% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ht_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (105; 100%).
 
@@ -24,5 +24,5 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Fut` (8; 8% of non-empty `Tense`): <em>pral, pwal</em>
 * `Past` (97; 92% of non-empty `Tense`): <em>te, t</em>
-* `EMPTY` (85): <em>ap, se, ta, te, t</em>
+* `EMPTY` (98): <em>ap, se, ka, ta, te, dwe, t</em>
 

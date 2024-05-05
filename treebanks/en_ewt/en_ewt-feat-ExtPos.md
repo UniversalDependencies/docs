@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 46 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (46; 100%), <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (46; 100%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (46; 100%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 100%), <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (46; 100%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 

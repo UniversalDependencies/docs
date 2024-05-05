@@ -165,7 +165,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5857; 98%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-case.html">case</a></tt>]--> ADP</tt> (3139; 93%),
-<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1463; 82%),
+<tt>NOUN --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1467; 82%),
 <tt>NOUN --[<tt><a href="cs_cltt-dep-det.html">det</a></tt>]--> DET</tt> (442; 70%),
 <tt>ADP --[<tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (251; 100%),
 <tt>ADJ --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (181; 88%),

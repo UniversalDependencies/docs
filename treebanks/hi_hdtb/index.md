@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Hindi-HDTB](https://github.com/UniversalDependencies/UD_Hindi-HDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_hdtb213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_hdtb214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -144,11 +144,11 @@ year={2009}
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): कर, चाहिए, जा, था, पड़, पा, रह, सक, है, हो</li>
+<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): करना, चाहिए, जाना, था, पड़ना, पाना, रहना, सकना, है, होना</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: कर, चाहिए, जा, था, पड़, पा, रह, है, हो</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: करना, चाहिए, जाना, था, पड़ना, पाना, रहना, है, होना</li>
 </ul>
 
 <ul>
@@ -847,8 +847,8 @@ year={2009}
 </ul>
 
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: है, रह, जा, हो, था, सक, चाहिए, पड़, पा, कर.</li>
-<li>This corpus uses 10 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: जा, है, था, रह, सक, चाहिए, हो, कर, पड़, पा.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: है, रहना, जाना, होना, था, सकना, चाहिए, पड़ना, पाना, करना.</li>
+<li>This corpus uses 10 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: जाना, है, था, रहना, सकना, चाहिए, होना, करना, पड़ना, पाना.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

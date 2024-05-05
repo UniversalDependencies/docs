@@ -81,12 +81,12 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	ⲛ	ⲛ	ADP	PREP	_	5	case	_	Orig=ⲛ̅
 5	ⲣⲉϥⲧⲱϩ	ⲣⲉϥⲧⲱϩ	NOUN	N	_	3	nmod	_	Entity=person)|MSeg=ⲣⲉϥ-ⲧⲱϩ
 6	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
-7	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+7	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
 9	ⲙⲏ	ⲙⲏ	CCONJ	CONJ	Foreign=Yes	10	advmod	_	OrigLang=grc
 10	ⲙⲛⲧⲏ	ⲙⲛⲧⲉ	VERB	EXIST	Polarity=Neg	6	ccomp	_	Orig=ⲙⲛ̅ⲧⲉ
 11	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	iobj	_	Entity=(person)
-12	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	Entity=(person|Orig=ⲧϥ̅
+12	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	Entity=(person|Orig=ⲧϥ̅
 13	ⲥϩⲓⲙⲉ	ⲥϩⲓⲙⲉ	NOUN	N	_	10	nsubj	_	Entity=person)
 14	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	10	advmod	_	Orig=ⲙ̅ⲙⲁⲩ
 15	·	·	PUNCT	PUNCT	_	18	punct	_	_

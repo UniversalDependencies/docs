@@ -36,7 +36,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 7 vocative	color:blue
-1	hesitating	hesitate	VERB	VBG	VerbForm=Ger	10	advcl	10:advcl	Discourse=mode-manner:31->36:4:_
+1	hesitating	hesitate	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl	Discourse=mode-manner:31->36:4:_|MSeg=hesitat-ing
 2	then	then	ADV	RB	PronType=Dem	1	advmod	1:advmod	_
 3	no	no	ADV	RB	Degree=Pos|Polarity=Neg	4	advmod	4:advmod	_
 4	longer	long	ADV	RBR	Degree=Cmp	1	advmod	1:advmod	MSeg=long-er|SpaceAfter=No
@@ -54,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 16	,	,	PUNCT	,	_	15	punct	15:punct	_
 17	truly	truly	ADV	RB	Degree=Pos	21	advmod	21:advmod	MSeg=tru-ly
 18	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Entity=(30-abstract-new-cf3-2-sgl(7-person-giv:act-cf2-1-ana)
-19	forgiveness	forgiveness	NOUN	NN	Number=Sing	21	obj	21:obj	Entity=30)
+19	forgiveness	forgiveness	NOUN	NN	Number=Sing	21	obj	21:obj	Entity=30)|MSeg=for-give-ness
 20	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	21:nsubj	Entity=(3-person-giv:act-cf1*-1-ana)
 21	implore	implore	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
 22	;	;	PUNCT	:	_	21	punct	21:punct	_

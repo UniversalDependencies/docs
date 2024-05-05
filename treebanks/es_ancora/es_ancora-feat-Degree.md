@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Abs` (47; 5% of non-empty `Degree`): <em>importantísimo, altísimo, dificilísimo, importantísima, muchísimas, rapidísimo, altísima, anticuadísimo, buenísima, buenísimo</em>
 * `Cmp` (679; 75% of non-empty `Degree`): <em>mayor, mejor, mayores, menor, mejores, peor, menores, peores</em>
 * `Sup` (174; 19% of non-empty `Degree`): <em>máximo, máxima, mínimo, máximos, mínimas, mínima, mínimos, pésimo, máximas, óptima</em>
-* `EMPTY` (35523): <em>pasado, primer, gran, nuevo, primera, próximo, nueva, últimos, general, ex</em>
+* `EMPTY` (35527): <em>pasado, primer, gran, nuevo, primera, próximo, nueva, últimos, general, ex</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (41) occur only with one value of `Degree`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (4; 100% of non-empty `Degree`): <em>mismísimo, muchísimos</em>
-* `EMPTY` (84398): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84421): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `PRON`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>muchísimos</em>
-* `EMPTY` (25206): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
+* `EMPTY` (25183): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
 
 ## Relations with Agreement in `Degree`
 

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Low_Saxon-LSDC: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="nds_lsdc-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="nds_lsdc-dep-obl-arg.html">obl:arg</a></tt>.
 
 2 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -23,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 27	fgColor:white
 # visual-style 27 26 obl:agent	color:blue
 1	Dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	lemma_gml=dat
-2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop	4	cop	_	lemma_gml=wēsen²
+2	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Cop	4	cop	_	lemma_gml=wēsen²
 3	ouk	ouk	ADV	_	_	4	advmod	_	lemma_gml=ôk
 4	wår	wår	ADJ	_	Degree=Pos	0	root	_	lemma_gml=wâr¹
 5	un	un	CCONJ	_	_	10	cc	_	lemma_gml=unde²
@@ -44,12 +45,12 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 20	grav	grav	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	23	obl	_	lemma_gml=graf
 21	keyne	keyn	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Neg	22	det	_	lemma_gml=kêⁱn²
 22	rouwe	rouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	lemma_gml=rouwe¹
-23	hebben	hebben	VERB	_	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	15	acl	_	lemma_gml=hebben|SpaceAfter=No
+23	hebben	hebben	VERB	_	Mood=Ind|Number=Plur|Tense=Pres	15	acl	_	lemma_gml=hebben|SpaceAfter=No
 24	,	,	PUNCT	_	_	27	punct	_	_
 25	van	van	ADP	_	AdpType=Prep	26	case	_	lemma_gml=van¹
 26	god	god	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	27	obl:agent	_	lemma_gml=got¹
 27	bruked	bruken	VERB	_	Aspect=Perf|VerbForm=Part	4	csubj	_	lemma_gml=brûken
-28	warden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux	27	aux:pass	_	lemma_gml=wērden¹
+28	warden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbType=Aux	27	aux:pass	_	lemma_gml=wērden¹
 29	de	de	DET	_	Case=Acc|Definite=Def|Number=Plur|PronType=Art	30	det	_	lemma_gml=dê¹
 30	slimmen	slim	ADJ	_	Case=Acc|Number=Plur	34	obj	_	lemma_gml=slim¹
 31	in	in	ADP	_	AdpType=Prep	32	case	_	lemma_gml=in²

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-3157 tokens (15%) have a non-empty value of `PronType`.
-84 types (2%) occur at least once with a non-empty value of `PronType`.
-46 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2073; 10% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (988; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (93; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
+3158 tokens (15%) have a non-empty value of `PronType`.
+85 types (2%) occur at least once with a non-empty value of `PronType`.
+49 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2073; 10% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (989; 5% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (93; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
 
 ### `DET`
 
@@ -36,26 +36,27 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt></tt></td><td><em>which</em></td><td><em>which</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 95% lemmas (19) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (17) occur only with one value of `PronType`.
 
 ### `PRON`
 
-988 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `PronType`.
+989 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (728; 74%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (613; 62%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (590; 60%), <tt><a href="en_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (506; 51%), <tt><a href="en_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (504; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (729; 74%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (613; 62%), <tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (590; 60%), <tt><a href="en_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (507; 51%), <tt><a href="en_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (504; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (59; 6% of non-empty `PronType`): <em>this, that, those, these</em>
 * `Int` (35; 4% of non-empty `PronType`): <em>what, which, who, whose, where, whoever, whom</em>
-* `Prs` (742; 75% of non-empty `PronType`): <em>it, he, his, their, they, I, her, its, she, we</em>
+* `Prs` (743; 75% of non-empty `PronType`): <em>it, he, his, their, they, I, her, its, she, we</em>
 * `Rel` (152; 15% of non-empty `PronType`): <em>which, that, who</em>
-* `EMPTY` (36): <em>there, 'Ya, One, that, ’s</em>
+* `EMPTY` (35): <em>there, One, that, ’s</em>
 
 <table>
   <tr><th>Paradigm <i>that</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>that</em></td><td><em>that</em></td></tr>
   <tr><td><tt><tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>that</em></td></tr>
+  <tr><td><tt><tt><a href="en_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>those</em></td></tr>
 </table>
 
 ### `ADV`

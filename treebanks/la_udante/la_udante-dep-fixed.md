@@ -103,7 +103,7 @@ The following 6 pairs of parts of speech are connected with `fixed`: <tt><a href
 15	et	et	CCONJ	co	_	16	cc	_	_
 16	virtutem	uirtus	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	12	conj	_	SpaceAfter=No
 17	,	,	PUNCT	Pu	_	7	punct	_	_
-18	resplendere	resplendeo	VERB	va2fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+18	resplendere	resplendeo	VERB	va2fp	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	5	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 19	ubique	ubique	ADV	r	AdvType=Loc|Form=Emp|PronType=Rel	18	advmod:lmod	_	SpaceAfter=No
 20	.	.	PUNCT	Pu	_	1	punct	_	_
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>beste</em> (<tt><a href="eu_bdt-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 4.487179 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `DET` is 4.487179 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (28) was observed with the lemma “guzti”: <em>guzti, guztia, guztiagatik, guztiak, guztian, guztiarekin, guztiaren, guztiari, guztiaz, guztiei, guztiek, guztien, guztiengan, guztientzako, guztientzat, guztietako, guztietan, guztietara, guztietatik, guztiez, guztioi, guztiok, guztion, guztionak, guztionen, guztiontzat, guztira, guztitako</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-457 nodes (3%) are attached to their parents as `mark`.
+456 nodes (3%) are attached to their parents as `mark`.
 
-454 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.5382932166302.
+453 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.53947368421053.
 
-The following 16 pairs of parts of speech are connected with `mark`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (206; 45% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (157; 34% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (31; 7% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (21; 5% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (9; 2% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `mark`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (206; 45% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (158; 35% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (30; 7% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (21; 5% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (9; 2% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,14 +45,14 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj|4:nsubj:xsubj	Discourse=explanation-evidence:47->46:0:_|Entity=(66-person-new-cf2-1-cata)
 2	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=need-s
 3	to	to	PART	TO	_	4	mark	4:mark	_
-4	regain	regain	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	_
+4	regain	regain	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	Cxn=Conditional-UnspecifiedEpistemic-NoInversion
 5	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Entity=(67-abstract-new-cf3-2-sgl(68-person-acc:com-cf1-1-ana)
 6	trust	trust	NOUN	NN	Number=Sing	4	obj	4:obj	Entity=67)|XML=<hi rend:::"bold"></hi>
 7	if	if	SCONJ	IN	_	11	mark	11:mark	Discourse=contingency-condition:48->47:0:_
 8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj|13:nsubj:xsubj	Entity=(66-person-acc:com-cf2-1-coref)
 9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 10	ever	ever	ADV	RB	Degree=Pos	11	advmod	11:advmod	_
-11	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	4:advcl:if	Cxn=Condition-Realistic|MSeg=go-ing
+11	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	4:advcl:if	MSeg=go-ing
 12	to	to	PART	TO	_	13	mark	13:mark	_
 13	win	win	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	MSeg=w-in
 14	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	Entity=(68-person-giv:act-cf1-1-ana)

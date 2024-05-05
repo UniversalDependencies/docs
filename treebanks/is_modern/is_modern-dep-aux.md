@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 1 aux	color:blue
 1	Getum	geta	AUX	MDPI	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	IFD_tag=sfg1fn
-2	við	ég	PRON	PRO-N	Case=Nom	3	nsubj	_	IFD_tag=x
+2	við	ég	PRON	PRO-N	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	IFD_tag=f1pfn
 3	sætt	sætta	VERB	VBN	VerbForm=Sup|Voice=Act	0	root	_	IFD_tag=ssg
 4	okkur	ég	PRON	PRO-A	Case=Dat|Number=Plur|Person=1|PronType=Prs	3	obj	_	IFD_tag=fp1fþ
 5	við	við	ADP	P	_	6	case	_	IFD_tag=ao

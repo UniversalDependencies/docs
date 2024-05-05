@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1055; 100% of non-empty `NumType`): <em>primo, prima, secondo, terzo, seconda, primi, prime, ultimi, ultimo, ii</em>
-* `EMPTY` (18724): <em>nuovo, grande, presente, altri, altro, stesso, comune, italiana, altra, altre</em>
+* `EMPTY` (18722): <em>nuovo, grande, presente, altri, altro, stesso, comune, italiana, altra, altre</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (73) occur only with one value of `NumType`.
 
@@ -46,16 +46,15 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>9/11</em>
-* `EMPTY` (14768): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
+* `EMPTY` (14774): <em>Italia, Shakespeare, Balzac, Europa, Roma, San, Stati, Uniti, Marco, Unione</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="it_isdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (229; 100%),
+<tt>NUM --[<tt><a href="it_isdt-dep-flat.html">flat</a></tt>]--> NUM</tt> (245; 100%),
 <tt>NUM --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> NUM</tt> (155; 100%),
 <tt>NUM --[<tt><a href="it_isdt-dep-compound.html">compound</a></tt>]--> NUM</tt> (79; 100%),
 <tt>NUM --[<tt><a href="it_isdt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (36; 100%),
-<tt>NUM --[<tt><a href="it_isdt-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (16; 100%),
 <tt>NUM --[<tt><a href="it_isdt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (14; 100%),
 <tt>ADJ --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (12; 86%),
 <tt>NUM --[<tt><a href="it_isdt-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%).

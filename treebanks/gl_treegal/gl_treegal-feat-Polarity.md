@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (215; 100% of non-empty `Polarity`): <em>non, nunca, tampouco, Nin, endexamais</em>
-* `EMPTY` (973): <em>máis, como, tamén, xa, así, aínda, agora, cando, moi, só</em>
+* `EMPTY` (977): <em>máis, como, tamén, xa, así, aínda, agora, cando, moi, só</em>
 
 ### `ADP`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADP` and `Polarity` co-occurr
 `ADP` tokens may have the following values of `Polarity`:
 
 * `Neg` (47; 100% of non-empty `Polarity`): <em>sen</em>
-* `EMPTY` (3772): <em>de, en, a, por, con, para, sobre, entre, desde, até</em>
+* `EMPTY` (3774): <em>de, en, a, por, con, para, sobre, entre, desde, até</em>
 
 ### `CCONJ`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `ADP` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (15; 100% of non-empty `Polarity`): <em>nin</em>
-* `EMPTY` (716): <em>e, ou, quer, máis</em>
+* `EMPTY` (717): <em>e, ou, quer, i, máis</em>
 

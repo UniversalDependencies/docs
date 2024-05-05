@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_partut-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.851852 (the average of all parts of speech is 1.456181).
+The form / lemma ratio of `DET` is 1.851852 (the average of all parts of speech is 1.455030).
 
 The 1st highest number of forms (5) was observed with the lemma “le”: <em>Des, l', la, le, les</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>les, des</em>
 
 `DET` nodes are attached to their parents using 8 different relations: <tt><a href="fr_partut-dep-det.html">det</a></tt> (4761; 100% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (4510; 94% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (123; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (23; 0% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (4516; 94% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (123; 3% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (35; 1% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (23; 0% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-X.html">X</a></tt> (2; 0% instances)
 
 4763 (100%) `DET` nodes are leaves.
 

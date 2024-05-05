@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>кда</em> (<tt><a href="mdf_jr-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.125000 (the average of all parts of speech is 1.540936).
+The form / lemma ratio of `SCONJ` is 1.125000 (the average of all parts of speech is 1.550071).
 
 The 1st highest number of forms (2) was observed with the lemma “кда”: <em>кда, къда</em>.
 

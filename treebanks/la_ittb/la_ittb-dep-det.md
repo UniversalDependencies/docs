@@ -45,7 +45,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 1	oportet	oportet	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 2	igitur	igitur	PART	O4	_	1	discourse	_	_
 3	ueritatem	ueritas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	6	nsubj	_	_
-4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	6	cop	_	_
+4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	6	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	ultimum	ultimus	ADJ	B1|grn3|casD|gen1	Case=Acc|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Sing	6	amod	_	_
 6	finem	finis	NOUN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	1	csubj	_	_
 7	totius	totus	DET	F1|grn1|casB|gen1|vgr1	Case=Gen|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Tot	8	det	_	_
@@ -68,7 +68,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 5	istum	iste	DET	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	4	det	_	_
 6	dixerint	dico	VERB	N3|modB|tem4|gen9	Aspect=Perf|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
 7	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj	_	_
-8	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	4	cop	_	SpaceAfter=No
+8	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	4	cop	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~

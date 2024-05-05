@@ -8,12 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (0%) are attached to their parents as `compound`.
+154 nodes (0%) are attached to their parents as `compound`.
 
-66 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1969696969697.
+154 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25974025974026.
 
-The following 9 pairs of parts of speech are connected with `compound`: <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (32; 48% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (12; 18% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 8% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 6% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 5% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `compound`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (57; 37% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (51; 33% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (12; 8% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 compound	color:blue
+1	Въ	въ	ADP	_	_	4	case	_	Norm="Въ"
+2	Цари	Царь	PROPN	_	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	4	compound	_	Norm="Цари"
+3	же	же	PART	_	_	2	advmod	_	Norm="же"
+4	граде	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	Norm="граде"
+5	тогда	тогда	ADV	_	Degree=Pos|PronType=Dem	6	advmod	_	Norm="тогда"
+6	царствуя	царствовати	VERB	_	Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	Norm="царствуя"
+7	Михаилъ	Михаилъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	6	nsubj	_	Norm="Михаилъ"
+8	Пафлегоненинъ	Пафлегоненинъ	PROPN	_	Case=Nom|Gender=Masc|NameType=Prs|Number=Sing	7	flat:name	_	Norm="Пафлегоненинъ"|SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	Norm="."
+
+~~~
 
 
 ~~~ conllu
@@ -32,62 +51,24 @@ The following 9 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 compound	color:blue
-1	Въ	въ	ADP	_	_	2	case	_	Norm="Въ"
-2	Цари	Царь	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	4	compound	_	Norm="Цари"
-3	же	же	PART	_	_	2	advmod	_	Norm="же"
-4	граде	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	Norm="граде"
-5	тогда	тогда	ADV	_	Degree=Pos	6	advmod	_	Norm="тогда"
-6	царствуя	царствовати	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	0	root	_	Norm="царствуя"
-7	Михаилъ	Михаилъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Norm="Михаилъ"
-8	Пафлегоненинъ	Пафлегоненинъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	flat:name	_	Norm="Пафлегоненинъ"|SpaceAfter=No
-9	.	.	PUNCT	_	_	6	punct	_	Norm="."
-
-~~~
-
-
-~~~ conllu
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 29 28 compound	color:blue
-1	Роспис(ь)	роспись	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	wf="Роспись"|SpaceAfter=No
-2	,	,	PUNCT	_	_	5	punct	_	wf=","|_
-3	что	что	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	det	_	wf="что"|_
-4	на	на	ADP	_	_	5	case	_	wf="на"|_
-5	Москве	Москва	PROPN	_	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	1	acl:relcl	_	wf="Москве"|SpaceAfter=No
-6	-	-	PUNCT	_	_	7	punct	_	wf="-"|SpaceAfter=No
-7	реке	рѣка	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	appos	_	wf="реке"|_
-8	н[а]	на	ADP	_	_	9	case	_	wf="на"|_
-9	берегу	берегъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	wf="берегу"|_
-10	лесу	лѣсъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="лесу"|SpaceAfter=No
-11	:	:	PUNCT	_	_	15	punct	_	wf=":"|_
-12	четырех	четыре	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card	13	compound	_	wf="четырех"|_
-13	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	15	amod	_	wf="саженных"|_
-14	230	230	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	15	nummod:gov	_	wf="230"|_
-15	бревен	бревно	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	wf="бревен"|SpaceAfter=No
-16	,	,	PUNCT	_	_	20	punct	_	wf=","|_
-17	трех	трие	NUM	_	Case=Gen|Gender=Masc|NumForm=Word|NumType=Card	18	compound	_	wf="трех"|_
-18	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	20	amod	_	wf="саженных"|_
-19	180	180	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	20	nummod:gov	_	wf="180"|_
-20	бревен	бревно	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	15	conj	_	wf="бревен"|SpaceAfter=No
-21	,	,	PUNCT	_	_	25	punct	_	wf=","|_
-22	пяти	пять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	23	compound	_	wf="пяти"|_
-23	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	25	amod	_	wf="саженных"|_
-24	15	15	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	25	nummod:gov	_	wf="15"|_
-25	бревен	бревно	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	15	conj	_	wf="бревен"|SpaceAfter=No
-26	,	,	PUNCT	_	_	31	punct	_	wf=","|_
-27	да	да	CCONJ	_	_	31	cc	_	wf="да"|_
-28	пяти	пять	NUM	_	Case=Gen|NumForm=Word|NumType=Card	29	compound	_	wf="пяти"|_
-29	саженных	саженный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	31	amod	_	wf="саженных"|_
-30	16	16	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	31	nummod:gov	_	wf="16"|_
-31	брусов	брусъ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	15	conj	_	wf="брусов"|SpaceAfter=No
-32	.	.	PUNCT	_	_	1	punct	_	wf="."|_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 compound	color:blue
+1	А	а	CCONJ	_	_	3	cc	_	wf="А"
+2	грамота	грамота	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	wf="грамота"
+3	подписана	подписати	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="подписана"
+4	лета	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	obl:tmod	_	wf="лета"
+5	7000	7000	ADJ	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Digit|NumType=Ord	7	compound	_	upos="ANUM"|wf="7000"
+6	пятдесят	пятьдесятъ	NUM	_	Case=Acc|NumForm=Word|NumType=Card	7	compound	_	wf="пятдесят"
+7	пятого	пятый	ADJ	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Ord	4	amod	_	upos="ANUM"|wf="пятого"|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	wf=","
+9	марта	мартъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	wf="марта"
+10	в	въ	ADP	_	_	12	case	_	wf="в"
+11	24	24	ADJ	_	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	12	amod	_	upos="ANUM"|wf="24"
+12	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	wf="день"|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	wf="."
 
 ~~~
 

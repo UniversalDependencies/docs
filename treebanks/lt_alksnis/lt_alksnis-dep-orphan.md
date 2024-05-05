@@ -8,37 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `orphan`.
+3 nodes (0%) are attached to their parents as `orphan`.
 
-7 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.57142857142857.
+3 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.66666666666667.
 
-The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt>-<tt><a href="lt_alksnis-pos-VERB.html">VERB</a></tt> (4; 57% instances), <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (3; 43% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 9 orphan	color:blue
-1	O	o	CCONJ	jng.	_	3	cc	3:cc	_
-2	aš	aš	PRON	įv.vns.V.	Case=Nom|Definite=Ind|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|5:nsubj	_
-3	nieko	niekas	PRON	įv.K.	Case=Gen|Definite=Ind|PronType=Neg	0	root	0:root	SpaceAfter=No
-4	,	,	PUNCT	skyr.	_	5	punct	3.1:punct	_
-5	sėdžiu	sėdėti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	conj	3.1:dep	_
-6	prie	prie	ADP	prl.K.	AdpType=Prep|Case=Gen	7	case	7:case	_
-7	lango	langas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	5	obl	5:obl:prie:gen	_
-8	ir	ir	CCONJ	jng.	_	5	cc	3.1:cc	_
-9	bandau	bandyti	VERB	vksm.asm.tiesiog.es.vns.1.	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	orphan	3.1:dep	_
-10	išpūsti	išpūsti	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	_
-11	dramblio	dramblys	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	12	nmod	12:nmod:gen	_
-12	formos	forma	NOUN	dkt.mot.vns.K.	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod:gen	_
-13	tabako	tabakas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod:gen	_
-14	debesį	debesis	NOUN	dkt.vyr.vns.G.	Case=Acc|Gender=Masc|Number=Sing	10	obj	10:obj	SpaceAfter=No
-15	.	.	PUNCT	skyr.	_	3	punct	3:punct	_
-
-~~~
+The following 1 pairs of parts of speech are connected with `orphan`: <tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt>-<tt><a href="lt_alksnis-pos-NUM.html">NUM</a></tt> (3; 100% instances).
 
 
 ~~~ conllu
@@ -71,14 +46,14 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 22	išduoti	išduoti	VERB	vksm.dlv.neveik.būt.vyr.dgs.V.	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	parataxis	10:parataxis	_
 23	švietimo	švietimas	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	24	nmod	24:nmod:gen	_
 24	įstaigoms	įstaiga	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	22	obl:arg	22:obl:arg:dat	SpaceAfter=No
-25	,	,	PUNCT	skyr.	_	26	punct	24.1:punct	_
-26	22	22	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	22	conj	24.1:dep	_
+25	,	,	PUNCT	skyr.	_	26	punct	31.1:punct	_
+26	22	22	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	22	conj	31.1:dep	_
 27	–	–	PUNCT	skyr.	_	30	punct	30:punct	_
 28	viešojo	viešas	ADJ	bdv.nelygin.įvardž.vyr.vns.K.	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	29	amod	29:amod	_
 29	sektoriaus	sektorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	30	nmod	30:nmod:gen	_
 30	įstaigoms	įstaiga	NOUN	dkt.mot.dgs.N.	Case=Dat|Gender=Fem|Number=Plur	26	appos	26:appos	_
-31	ir	ir	CCONJ	jng.	_	26	cc	24.1:cc	_
-32	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	26	orphan	24.1:dep	_
+31	ir	ir	CCONJ	jng.	_	26	cc	31.1:cc	_
+32	5	5	NUM	sktv.arab.	Definite=Ind|NumForm=Digit	26	orphan	31.1:dep	_
 33	–	–	PUNCT	skyr.	_	36	punct	36:punct	_
 34	privataus	privatus	ADJ	bdv.nelygin.vyr.vns.K.	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	35	amod	35:amod	_
 35	sektoriaus	sektorius	NOUN	dkt.vyr.vns.K.	Case=Gen|Gender=Masc|Number=Sing	36	nmod	36:nmod:gen	_

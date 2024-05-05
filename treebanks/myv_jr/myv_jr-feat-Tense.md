@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-2983 tokens (14%) have a non-empty value of `Tense`.
-1786 types (27%) occur at least once with a non-empty value of `Tense`.
-845 lemmas (27%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2492; 12% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (323; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (112; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+2982 tokens (14%) have a non-empty value of `Tense`.
+1785 types (27%) occur at least once with a non-empty value of `Tense`.
+844 lemmas (27%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 7 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2492; 12% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (323; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (112; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (33; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 * `Past` (32; 29% of non-empty `Tense`): <em>арасель, арасельгак, аноколь, сэтьмель, Вадряльть, Превеельгак, араселеть, арасельть, арасельтькак, кельмель</em>
 * `Pres` (80; 71% of non-empty `Tense`): <em>арась, арасть, сэрей, берянь, мазый, шумбрат, Кодат, араськак, вадря, паро</em>
-* `EMPTY` (782): <em>од, покш, паро, кодамо, якстере, мазый, лембе, омбоце, васень, пиже</em>
+* `EMPTY` (783): <em>од, покш, паро, кодамо, якстере, мазый, лембе, омбоце, васень, пиже</em>
 
 <table>
   <tr><th>Paradigm <i>арась</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -101,7 +101,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Past` (8; 24% of non-empty `Tense`): <em>Лангсонзоль, вирьсэлить, пель, седеель, студентэлинек, сускомаль, фермасоль, чоподаль</em>
 * `Pres` (25; 76% of non-empty `Tense`): <em>чумо, бандит, коммунистан, пежеть, Велькссэнзэ, Вечкан, Превсат, аванть, бандитан, большевикат</em>
-* `EMPTY` (5059): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5060): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `Tense` seems to be **lexical feature** of `NOUN`. 100% lemmas (27) occur only with one value of `Tense`.
 
@@ -127,15 +127,15 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 ### `PRON`
 
-8 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Tense`.
+7 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `PRON` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5; 63%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (5; 63%).
+The most frequent other feature values with which `PRON` and `Tense` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (5; 71%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 57%).
 
 `PRON` tokens may have the following values of `Tense`:
 
-* `Past` (2; 25% of non-empty `Tense`): <em>мезель, мейсэль</em>
-* `Pres` (6; 75% of non-empty `Tense`): <em>киян, кият, истямат, колмонест</em>
-* `EMPTY` (1167): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+* `Past` (2; 29% of non-empty `Tense`): <em>мезель, мейсэль</em>
+* `Pres` (5; 71% of non-empty `Tense`): <em>киян, кият, истямат</em>
+* `EMPTY` (1169): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
 
 ### `PROPN`
 
@@ -146,7 +146,7 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 `PROPN` tokens may have the following values of `Tense`:
 
 * `Pres` (1; 100% of non-empty `Tense`): <em>Мерят</em>
-* `EMPTY` (709): <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
+* `EMPTY` (707): <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
 
 ## Relations with Agreement in `Tense`
 

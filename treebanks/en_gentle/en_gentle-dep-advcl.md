@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="en_gentle-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-248 nodes (1%) are attached to their parents as `advcl`.
+249 nodes (1%) are attached to their parents as `advcl`.
 
-176 instances of `advcl` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.80241935483871.
+177 instances of `advcl` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.78714859437751.
 
-The following 26 pairs of parts of speech are connected with `advcl`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (155; 63% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (18; 7% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (16; 6% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (10; 4% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (6; 2% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `advcl`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (155; 62% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (18; 7% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (16; 6% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (13; 5% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (6; 2% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 26 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 2 advcl	color:blue
 1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=organization-preparation:78->79:2:_
-2	completing	complete	VERB	VBG	VerbForm=Ger	10	advcl	10:advcl:after	MSeg=complet-ing
+2	completing	complete	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl:after	MSeg=complet-ing
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	Entity=(1-abstract-giv:act-cf1*-2-coref
 4	course	course	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=1)|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
@@ -65,7 +65,7 @@ The following 26 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 12 advcl	color:blue
-1	Reflexivity	reflexivity	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	Discourse=explanation-evidence:26->59:1:_|Entity=(25-abstract-giv:inact-cf5-1-coref)
+1	Reflexivity	reflexivity	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	Discourse=explanation-evidence:26->59:1:_|Entity=(25-abstract-giv:inact-cf5-1-coref)|MSeg=Re-flex-iv-ity
 2	then	then	ADV	RB	PronType=Dem	3	advmod	3:advmod	_
 3	follows	follow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=follow-s
 4	from	from	SCONJ	IN	_	12	mark	12:mark	_
@@ -75,14 +75,14 @@ The following 26 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	x	x	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	Entity=(11-abstract-giv:act-cf1*-1-coref)
 9	⪯	⪯	SYM	SYM	_	5	conj	5:conj:and|12:csubj	Entity=(28-abstract-new-cf7-1-coref
 10	T	T	NOUN	NN	Number=Sing	9	dep	9:dep	Entity=(4-abstract-giv:act-cf3-1-coref)28)
-11	being	be	AUX	VBG	VerbForm=Ger	12	cop	12:cop	MSeg=be-ing
-12	reflexive	reflexive	ADJ	JJ	Degree=Pos	3	advcl	3:advcl:from	SpaceAfter=No
+11	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	12	cop	12:cop	MSeg=be-ing
+12	reflexive	reflexive	ADJ	JJ	Degree=Pos	3	advcl	3:advcl:from	MSeg=reflex-ive|SpaceAfter=No
 13	,	,	PUNCT	,	_	18	punct	18:punct	_
 14	as	as	SCONJ	IN	_	18	mark	18:mark	Discourse=explanation-justify:27->26:0:_
 15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	18:nsubj	Entity=(29-abstract-acc:aggr-cf4-1-coref)|SplitAnte=27<29,28<29
 16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
 17	both	both	DET	DT	PronType=Tot	18	advmod	18:advmod	Entity=(29-abstract-giv:act-cf4-2-coref
-18	orderings	ordering	NOUN	NNS	Number=Plur	3	advcl	3:advcl:as	Entity=29)|SpaceAfter=No
+18	orderings	ordering	NOUN	NNS	Number=Plur	3	advcl	3:advcl:as	Entity=29)|MSeg=order-ing-s|SpaceAfter=No
 19	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~

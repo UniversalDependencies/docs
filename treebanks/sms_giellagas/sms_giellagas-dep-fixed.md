@@ -45,7 +45,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	Rââst	rââst	ADP	Pr	AdpType=Prep	2	case	_	_
 2	peästtõõǥǥ	peästtõk	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc,@OBJ>
 3	čõõʹcǩi	čâʹcǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	6	punct	_	_
+4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	tõt	tõt	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	nsubj	_	GTtags=Dem,Sg,Nom
 6	vuõʹlji	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt,Sg3
 7	eʹpet	eʹpet	ADV	Adv	AdvType=Tim	6	advmod:tmod	_	GTtags=Sem/Time,Sem/Time,@<ADVL
@@ -68,7 +68,7 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	peästtõõǥǥid	peästtõk	NOUN	N	Case=Acc|Number=Plur	6	obj	_	GTtags=Pl,Acc
 5	koozz-a	koozz	ADV	Adv	Case=Ill|Clitic=QstA	6	advmod:lmod	_	GTtags=Sem/Plc,Ill,Qst/a
 6	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	8	punct	_	_
+7	,	,	PUNCT	CLB	_	8	punct	_	_
 8	čõõnõõđi	čõõnõõttâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	_
 

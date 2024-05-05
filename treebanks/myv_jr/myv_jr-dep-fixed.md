@@ -69,7 +69,7 @@ The following 34 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	истят	истямо	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Dem	8	det	_	GTtags=Dem,Pl,Nom,Indef
 7	жо	жо	PART	Pcle	_	6	fixed	_	GTtags=Emph
 8	молицятнень	молемс	VERB	V	Case=Gen|Definite=Def|Number=Plur|VerbForm=NomAg	3	obl	_	GTtags=NomAg,Pl,Gen,Def
-9	марто	марто	ADP	Adp	AdpType=Post	8	case	_	GTtags=Po
+9	марто	марто	ADP	Po	AdpType=Post	8	case	_	GTtags=Po
 10	—	—	PUNCT	CLB	_	12	punct	_	_
 11	ды	ды	CCONJ	CC	_	12	cc	_	_
 12	сыргить	сыргамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	3	conj	_	GTtags=IV,Ind,Prs,ScPl3|SpaceAfter=No

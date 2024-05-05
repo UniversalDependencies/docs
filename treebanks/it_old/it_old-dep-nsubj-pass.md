@@ -9,98 +9,94 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="it_old-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-119 nodes (0%) are attached to their parents as `nsubj:pass`.
+246 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-93 instances of `nsubj:pass` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.40336134453782.
+185 instances of `nsubj:pass` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.78861788617886.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (62; 52% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (52; 44% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 2% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (135; 55% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (96; 39% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (8; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-X.html">X</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 4 nsubj:pass	color:blue
-1	Indi	indi	ADV	b	_	7	advmod:lmod	_	Canto=19|Verso=133
-2	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Canto=19|Verso=133
-3	altro	altro	DET	pi	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	Canto=19|Verso=133
-4	vallon	vallone	NOUN	sm3ms	Gender=Masc|Number=Sing	7	nsubj:pass	_	Canto=19|Verso=133
-5	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	Canto=19|Verso=133
-6	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	Canto=19|Verso=133
-7	scoperto	scoprire	VERB	vta3pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Canto=19|SpaceAfter=No|Verso=133
+# visual-style 7 2 nsubj:pass	color:blue
+1	Queste	questo	DET	ad1fp	Gender=Fem|Number=Plur|PronType=Dem	2	det	_	Canto=5|Verso=108
+2	parole	parola	NOUN	sf1fp	Gender=Fem|Number=Plur	7	nsubj:pass	_	Canto=5|Verso=108
+3	da	da	ADP	epski	_	4	case	_	Canto=5|Verso=108
+4	lor	loro	PRON	pp3plco	Number=Plur|Person=3|PronType=Prs	7	obl:agent	_	Canto=5|Verso=108
+5	ci	ci	PRON	pp1pyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	7	iobj	_	Canto=5|Verso=108
+6	fuor	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	Canto=5|Verso=108
+7	porte	porgere	VERB	vtp2irp3	Aspect=Perf|Gender=Fem|Number=Plur|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Canto=5|SpaceAfter=No|Verso=108
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 19 nsubj:pass	color:blue
-1	E	e	CCONJ	cscc	_	2	cc	_	Canto=8|Verso=34
-2	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	0	root	_	Canto=8|Verso=34
-3	a	a	ADP	epsk1d	_	4	case	_	Canto=8|Verso=34
-4	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	Canto=8|SpaceAfter=No|Verso=34
-5	:	:	PUNCT	_	_	12	punct	_	_
-6	«	«	PUNCT	_	_	12	punct	_	SpaceAfter=No
-7	S'	se	SCONJ	cssv	_	9	mark	_	Canto=8|SpaceAfter=No|Verso=34
-8	i'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Canto=8|Verso=34
-9	vegno	venire	VERB	vi3ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	Canto=8|SpaceAfter=No|Verso=34
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	non	non	ADV	b	PronType=Neg	12	advmod:neg	_	Canto=8|Verso=34
-12	rimango	rimanere	VERB	vi2ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp:reported	_	Canto=8|SpaceAfter=No|Verso=34
-13	;	;	PUNCT	_	_	16	punct	_	_
-14	ma	ma	CCONJ	csca	_	16	cc	_	Canto=8|Verso=35
-15	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	16	nsubj	_	Canto=8|Verso=35
-16	chi	chi	PRON	pn	PronType=Rel	12	parataxis	_	Canto=8|Verso=35
-17	se'	essere	AUX	vi4ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	16	cop	_	Canto=8|SpaceAfter=No|Verso=35
-18	,	,	PUNCT	_	_	22	punct	_	_
-19	che	che	PRON	pr	PronType=Rel	22	nsubj:pass	_	Canto=8|Verso=35
-20	sì	così	ADV	b	_	23	advmod	_	Canto=8|Verso=35
-21	se'	essere	AUX	vi4ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	22	aux:pass	_	Canto=8|Verso=35
-22	fatto	fare	VERB	vi1iss2	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	Canto=8|Verso=35
-23	brutto	brutto	ADJ	a1ms	Gender=Masc|Number=Sing	22	xcomp	_	Canto=8|SpaceAfter=No|Verso=35
-24	?	?	PUNCT	_	_	16	punct	_	SpaceAfter=No
-25	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
-26	.	.	PUNCT	_	_	16	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 nsubj:pass	color:blue
+1	Vede	vedere	VERB	vtp2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Canto=22|Verso=112
+2	vi	vi	ADV	bx	Clitic=Yes	1	advmod:lmod	_	Canto=22|Verso=112
+3	si	si	PRON	pf3xpa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	1	expl:pass	_	Canto=22|Verso=112
+4	quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	1	nsubj:pass	_	Canto=22|Verso=112
+5	che	che	PRON	pr	PronType=Rel	6	nsubj	_	Canto=22|Verso=112
+6	mostrò	mostrare	VERB	vta1irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	Canto=22|Verso=112
+7	Langia	Langia	PROPN	np	_	6	obj	_	Canto=22|SpaceAfter=No|Verso=112
+8	;	;	PUNCT	_	_	9	punct	_	_
+9	essere	essere	VERB	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	Canto=22|Verso=113
+10	vi	vi	PRON	bx	Clitic=Yes	9	expl	_	Canto=22|Verso=113
+11	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Canto=22|Verso=113
+12	figlia	figlia	NOUN	sf1fs	Gender=Fem|Number=Sing	9	nsubj	_	Canto=22|Verso=113
+13	di	di	ADP	epskg	_	14	case	_	Canto=22|Verso=113
+14	Tiresia	Tiresia	PROPN	np	_	12	nmod	_	Canto=22|SpaceAfter=No|Verso=113
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	e	e	CCONJ	cscr	_	17	cc	_	Canto=22|Verso=113
+17	Teti	Teti	PROPN	np	_	12	conj	_	Canto=22|SpaceAfter=No|Verso=113
+18	,	,	PUNCT	_	_	24	punct	_	_
+19	e	e	CCONJ	cscr	_	24	cc	_	Canto=22|Verso=114
+20	con	con	ADP	epskc	_	22	case	_	Canto=22|Verso=114
+21	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	22	det	_	Canto=22|Verso=114
+22	suore	suora	NOUN	sf1fp	Gender=Fem|Number=Plur	24	orphan	_	Canto=22|Verso=114
+23	sue	suo	DET	as1fp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	22	det:poss	_	Canto=22|Verso=114
+24	Deidamia	Deidamia	PROPN	np	_	9	conj	_	Canto=22|SpaceAfter=No|Verso=114
+25	»	»	PUNCT	_	_	1	punct	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 21 nsubj:pass	color:blue
-1	Poeta	poeta	NOUN	sm1ms	Gender=Masc|Number=Sing	0	root	_	Canto=1|Verso=73
-2	fui	essere	AUX	vi4irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	cop	_	Canto=1|SpaceAfter=No|Verso=73
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	e	e	CCONJ	cscc	_	5	cc	_	Canto=1|Verso=73
-5	cantai	cantare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Canto=1|Verso=73
-6	di	di	ADP	epskx	_	9	case	_	Canto=1|Verso=73
-7	quel	quello	DET	ad1ms	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Canto=1|Verso=73
-8	giusto	giusto	NOUN	sm2ms	Gender=Masc|Number=Sing	9	amod	_	Canto=1|Verso=73
-9	figliuol	figliuolo	NOUN	sm2ms	Gender=Masc|Number=Sing	5	obl	_	Canto=1|Verso=74
-10	d'	di	ADP	eps	_	11	case	_	Canto=1|SpaceAfter=No|Verso=74
-11	Anchise	Anchise	PROPN	np	_	9	nmod	_	Canto=1|Verso=74
-12	che	che	PRON	pr	PronType=Rel	13	nsubj	_	Canto=1|Verso=74
-13	venne	venire	VERB	vi3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	Canto=1|Verso=74
-14	di	di	ADP	epskdl	_	15	case	_	Canto=1|Verso=74
-15	Troia	Troia	PROPN	np	_	13	obl:lmod	_	Canto=1|SpaceAfter=No|Verso=74
-16	,	,	PUNCT	_	_	23	punct	_	_
-17	poi	poi	ADV	_	_	23	advmod:tmod	_	Canto=1|Verso=75
-18	che	che	SCONJ	_	_	23	mark	_	Canto=1|Verso=75
-19	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Canto=1|Verso=75
-20	superbo	superbo	ADJ	a1ms	Gender=Masc|Number=Sing	21	amod	_	Canto=1|Verso=75
-21	Ilión	Ilion	PROPN	np	_	23	nsubj:pass	_	Canto=1|Verso=75
-22	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	aux:pass	_	Canto=1|Verso=75
-23	combusto	comburere	VERB	vtp2irs3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	13	advcl	_	Canto=1|SpaceAfter=No|Verso=75
-24	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 nsubj:pass	color:blue
+1	Quivi	quivi	ADV	b	_	3	advmod:tmod	_	Canto=22|Verso=109
+2	si	si	PRON	pf3ypa	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pass	_	Canto=22|Verso=109
+3	veggion	vedere	VERB	vtp2ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Canto=22|Verso=109
+4	de	di	ADP	eps	_	6	case	_	Canto=22|Verso=109
+5	le	la	DET	adfp	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	Canto=22|Verso=109
+6	genti	gente	NOUN	sf3fp	Gender=Fem|Number=Plur	3	obl	_	Canto=22|Verso=109
+7	tue	tuo	DET	as1fp	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	6	det:poss	_	Canto=22|Verso=109
+8	Antigone	Antigone	PROPN	np	_	3	nsubj:pass	_	Canto=22|SpaceAfter=No|Verso=110
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	Deifile	Deifile	PROPN	np	_	8	conj	_	Canto=22|Verso=110
+11	e	e	CCONJ	cscr	_	12	cc	_	Canto=22|Verso=110
+12	Argia	Argia	PROPN	np	_	8	conj	_	Canto=22|SpaceAfter=No|Verso=110
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	e	e	CCONJ	cscr	_	15	cc	_	Canto=22|Verso=111
+15	Ismene	Ismene	PROPN	np	_	8	conj	_	Canto=22|Verso=111
+16	sì	così	ADV	b	_	17	advmod	_	Canto=22|Verso=111
+17	trista	tristo	ADJ	a1fs	Gender=Fem|Number=Sing	15	amod	_	Canto=22|Verso=111
+18	come	come	ADV	b	_	19	mark	_	Canto=22|Verso=111
+19	fue	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	advcl:cmp	_	Canto=22|SpaceAfter=No|Verso=111
+20	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

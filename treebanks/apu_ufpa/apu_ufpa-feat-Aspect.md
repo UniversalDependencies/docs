@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Prog` (1; 100% of non-empty `Aspect`): <em>nhikanãtary</em>
-* `EMPTY` (206): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, kamary, apukary, awama, kaiãapukury</em>
+* `EMPTY` (210): <em>awa, awary, amutary, kaiãapuku, sary, kaiãũpuku, kamary, apukary, awama, kaiãapukury</em>
 

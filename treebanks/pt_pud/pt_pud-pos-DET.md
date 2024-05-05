@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="pt_pud-pos-DET.h
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 6.800000 (the average of all parts of speech is 1.570742).
+The form / lemma ratio of `DET` is 6.800000 (the average of all parts of speech is 1.570488).
 
 The 1st highest number of forms (54) was observed with the lemma “_”: <em>Aquela, As, Um, Uma, algum, alguma, algumas, alguns, ambas, ambos, cada, certas, certo, certos, determinados, diversas, essa, essas, esse, esses, esta, estas, este, estes, mesmo, muita, muitas, muito, muitos, nenhum, nenhuma, outra, outras, outro, outros, pouca, poucos, própria, próprias, próprio, próprios, qualquer, quantas, que, tal, tantas, toda, todas, todo, todos, umas, uns, várias, vários</em>.
 

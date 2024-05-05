@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `ccomp`.
+4 nodes (0%) are attached to their parents as `ccomp`.
 
-3 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.
+3 instances of `ccomp` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.75.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (1; 25% instances), <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt>-<tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
-1	राधा	_	PROPN	NNP	_	2	nsubj	_	_
-2	गलाया	_	VERB	VM	_	0	root	_	_
-3	मीना	_	PROPN	NNP	_	6	iobj	_	_
-4	जो	_	ADP	PSP	_	3	case	_	_
-5	कताब	_	NOUN	NN	_	6	obj	_	_
-6	दुआएं	_	VERB	VM	_	2	ccomp	_	SpaceAfter=No
-7	।	_	PUNCT	SYM	_	2	punct	_	_
+1	राधा	राधा	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nsubj	_	Translit=rādhā|LTranslit=rādhā
+2	गलाया	गलायाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=galāyā|LTranslit=galāyāṇā
+3	मीना	मीना	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	iobj	_	Translit=mīnā|LTranslit=mīnā
+4	जो	जो	ADP	PSP	AdpType=Post	3	case	_	Translit=jo|LTranslit=jo
+5	कताब	कताब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	obj	_	Translit=katāba|LTranslit=katāba
+6	दुआएं	दुआणा	VERB	VM	Mood=Sub|Number=Sing|Person=2|Polite=Form|VerbForm=Fin|Voice=Act	2	ccomp	_	SpaceAfter=No|Translit=duāeṁ|LTranslit=duāṇā
+7	।	।	PUNCT	SYM	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -39,15 +39,34 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 ccomp	color:blue
-1	एह	_	NOUN	NN	_	2	nsubj	_	_
-2	पक्का	_	ADJ	JJ	_	0	root	_	_
-3	है	_	AUX	VM	_	2	cop	_	_
-4	जे	_	SCONJ	CC	_	7	cc	_	_
-5	तिस	_	PRON	PRP	_	7	nsubj	_	_
-6	अमरीका	_	PROPN	NN	_	7	dep	_	_
-7	जाणा	_	VERB	VM	_	2	ccomp	_	_
-8	है	_	AUX	VAUX	_	7	aux	_	SpaceAfter=No
-9	!	_	PUNCT	SYM	_	7	punct	_	_
+1	एह	एह	NOUN	NN	Person=3	2	nsubj	_	Translit=eha|LTranslit=eha
+2	पक्का	पक्का	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=pakkā|LTranslit=pakkā
+3	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	Translit=hai|LTranslit=hai
+4	जे	जे	SCONJ	CC	_	7	cc	_	Translit=je|LTranslit=je
+5	तिस	तिस	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	Translit=tisa|LTranslit=tisa
+6	अमरीका	अमरीका	PROPN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	dep	_	Translit=amarīkā|LTranslit=amarīkā
+7	जाणा	जाणा	VERB	VM	Gender=Masc|Number=Sing|Person=3|VerbForm=Inf|Voice=Act	2	ccomp	_	Translit=jāṇā|LTranslit=jāṇā
+8	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
+9	!	!	PUNCT	SYM	_	7	punct	_	Translit=!|LTranslit=!
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 ccomp	color:blue
+1	मैं	मैं	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Translit=maiṁ|LTranslit=maiṁ
+2	तुसां	तुसाँ	PRON	PRP	Case=Nom|PronType=Prs	8	obl	_	Translit=tusāṁ|LTranslit=tusām̃
+3	जो	जो	ADP	PSP	AdpType=Post	2	case	_	Translit=jo|LTranslit=jo
+4	तिह्नां	तिह्नां	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	Translit=tihnāṁ|LTranslit=tihnāṁ
+5	दी	दे	ADP	PSP	AdpType=Post	4	case	_	Translit=dī|LTranslit=de
+6	अपणी	अपणी	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	compound	_	Translit=apaṇī|LTranslit=apaṇī
+7	रै	रै	NOUN	NN	Person=3	8	ccomp	_	Translit=rai|LTranslit=rai
+8	दसगा	दसगाणा	VERB	VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	SpaceAfter=No|Translit=dasagā|LTranslit=dasagāṇā
+9	।	।	PUNCT	SYM	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-91 nodes (0%) are attached to their parents as `nummod`.
+183 nodes (0%) are attached to their parents as `nummod`.
 
-83 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27472527472527.
+168 instances of `nummod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30054644808743.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (83; 91% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (169; 92% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -29,41 +29,6 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	diece	dieci	NUM	an	NumType=Card	6	nummod	_	Canto=22|Verso=13
 6	demoni	demonio	NOUN	sm2mp	Gender=Masc|Number=Plur	2	obl	_	Canto=22|SpaceAfter=No|Verso=13
 7	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 nummod	color:blue
-1	Più	più	ADV	b	_	0	root	_	Canto=28|Verso=52
-2	fuor	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	Canto=28|Verso=52
-3	di	di	ADP	epsky	_	4	case	_	Canto=28|Verso=52
-4	cento	cento	NUM	an	NumType=Card	1	nummod	_	Canto=28|Verso=52
-5	che	che	PRON	pr	PronType=Rel	12	nsubj	_	Canto=28|SpaceAfter=No|Verso=52
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	quando	quando	SCONJ	csst	_	9	mark	_	Canto=28|Verso=52
-8	l'	il	PRON	pp3msyac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Canto=28|SpaceAfter=No|Verso=52
-9	udiro	udire	VERB	vta3irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	Canto=28|SpaceAfter=No|Verso=52
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	s'	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	12	expl:pv	_	Canto=28|SpaceAfter=No|Verso=53
-12	arrestaron	arrestare	VERB	vta+1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl:relcl	_	Canto=28|Verso=53
-13	in	in	ADP	_	_	15	case	_	Canto=28|Comment=ne-l|Verso=53
-14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Canto=28|Comment=ne-l|Verso=53
-15	fosso	fosso	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obl:lmod	_	Canto=28|Verso=53
-16	a	a	ADP	epsf	_	17	mark	_	Canto=28|Verso=53
-17	riguardare	riguardare	VERB	vta1fp	Tense=Pres|VerbForm=Inf|Voice=Act	12	advcl	_	Canto=28|Verso=53
-18	mi	mi	PRON	pp1sxac	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	17	obj	_	Canto=28|Verso=53
-19	per	per	ADP	epskr	_	20	case	_	Canto=28|Verso=54
-20	maraviglia	meraviglia	NOUN	sf1fs	Gender=Fem|Number=Sing	17	obl	_	Canto=28|SpaceAfter=No|Verso=54
-21	,	,	PUNCT	_	_	22	punct	_	_
-22	obliando	obliare	VERB	vta1gp	VerbForm=Conv|Voice=Act	17	advcl	_	Canto=28|Verso=54
-23	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	Canto=28|Verso=54
-24	martiro	martiro	NOUN	sm2ms	Gender=Masc|Number=Sing	22	obj	_	Canto=28|SpaceAfter=No|Verso=54
-25	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -93,6 +58,44 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 17	ti	ti	PRON	pf2msypr	Clitic=Yes|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	18	obj	_	Canto=25|Verso=68
 18	muti	mutare	VERB	vta+1ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp:reported	_	Canto=25|SpaceAfter=No|Verso=68
 19	!	!	PUNCT	_	_	18	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 nummod	color:blue
+1	E	e	CCONJ	cscc	_	10	cc	_	Canto=18|Verso=130
+2	quei	quello	PRON	pd1ms	Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	Canto=18|Verso=130
+3	che	che	PRON	pr	PronType=Rel	9	nsubj	_	Canto=18|Verso=130
+4	m'	mi	PRON	pp1syda	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	9	iobj	_	Canto=18|Verso=130
+5	era	essere	AUX	vi4iis3	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	Canto=18|Verso=130
+6	ad	a	ADP	epsksl	_	8	case	_	Canto=18|Verso=130
+7	ogne	ogni	DET	ai2ms	Gender=Masc|Number=Sing|PronType=Ind	8	det	_	Canto=18|Verso=130
+8	uopo	uopo	NOUN	sm2ms	Gender=Masc|Number=Sing	9	nmod	_	Canto=18|Verso=130
+9	soccorso	soccorso	NOUN	sm2ms	Gender=Masc|Number=Sing	2	acl:relcl	_	Canto=18|Verso=130
+10	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=18|SpaceAfter=No|Verso=131
+11	:	:	PUNCT	_	_	13	punct	_	_
+12	«	«	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	volgi	volgere	VERB	vta+2mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp:reported	_	Canto=18|Verso=131
+14	ti	ti	PRON	pf2sxpr	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs|Reflex=Yes	13	obj	_	Canto=18|Verso=131
+15	qua	qua	ADV	b	_	13	advmod:lmod	_	Canto=18|SpaceAfter=No|Verso=131
+16	:	:	PUNCT	_	_	17	punct	_	_
+17	vedi	vedere	VERB	vta2mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	parataxis	_	Canto=18|Verso=131
+18	ne	ne	PRON	pp2xpt	Clitic=Yes|Person=2|PronType=Prs	17	obj	_	Canto=18|Verso=131
+19	due	due	NUM	an	NumType=Card	18	nummod	_	Canto=18|Verso=131
+20	venir	venire	VERB	vi3fp	Tense=Pres|VerbForm=Inf	17	xcomp	_	Canto=18|Verso=132
+21	dando	dare	VERB	vta1gp	VerbForm=Conv|Voice=Act	20	advcl:pred	_	Canto=18|Verso=132
+22	a	a	ADP	epsk1d	_	24	case	_	Canto=18|Verso=132
+23	l'	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	Canto=18|Verso=132
+24	accidia	accidia	NOUN	sf1fs	Gender=Fem|Number=Sing	21	obl	_	Canto=18|Verso=132
+25	di	di	ADP	epskm	_	26	case	_	Canto=18|Verso=132
+26	morso	morso	NOUN	sm2ms	Gender=Masc|Number=Sing	21	obl:arg	_	Canto=18|SpaceAfter=No|Verso=132
+27	»	»	PUNCT	_	_	13	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
 

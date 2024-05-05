@@ -11,9 +11,9 @@ This relation is universal.
 852 nodes (5%) are attached to their parents as `obj`.
 
 830 instances of `obj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.87206572769953.
+Average distance between parent and child is 1.87323943661972.
 
-The following 12 pairs of parts of speech are connected with `obj`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (554; 65% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (225; 26% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (22; 3% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `obj`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (553; 65% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (225; 26% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (22; 3% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (14; 2% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 obj	color:blue
-1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Discourse=adversative-contrast_m:38->34:2:_|Entity=(41-object-giv:inact-cf4-3,4-coref(5-person-giv:inact-cf3-1-ana)|Lem=*LOWER*|Len=4
+1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Discourse=adversative-contrast_m:38->34:2:sem-mrnym-228-231,250-253|Entity=(41-object-giv:inact-cf4-3,4-coref(5-person-giv:inact-cf3-1-ana)|Lem=*LOWER*|Len=4
 2	_	_	PROPN	NNP	Number=Sing	4	compound	4:compound	Entity=(42-person-giv:act-cf2*-1,2-coref-Sammy_Sosa|Lem=_|Len=5|MSeg=Samm-y
 3	_	_	PROPN	NNP	Number=Sing	2	flat	2:flat	Entity=42)|Lem=_|Len=4
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=41)|Lem=_|Len=4
@@ -63,7 +63,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 9	_	_	ADV	RB	Degree=Pos	7	advmod	7:advmod	Lem=_|Len=7
 10	_	_	SCONJ	IN	_	12	mark	12:mark	Discourse=causal-cause:39->38:0:dm-because-247|Lem=_|Len=7
 11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Lem=_|Len=5
-12	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:because	Cxn=Existential-There|Lem=be|Len=3
+12	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:because	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=3
 13	_	_	ADV	RB	_	14	advmod	14:advmod	Bridge=45<47|Entity=(47-object-acc:inf-cf1-2-coref|Lem=_|Len=2
 14	_	_	ADJ	JJ	Degree=Pos	12	nsubj	12:nsubj	Lem=_|Len=4
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
@@ -84,7 +84,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obj	color:blue
-1	_	_	VERB	VB	Person=2|VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar|Discourse=context-background:8->16:2:_;adversative-antithesis:8->8:4:5:orp-but-117|Lem=*LOWER*|Len=8
+1	_	_	VERB	VB	Person=2|VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|Discourse=context-background:8->16:2:_;adversative-antithesis:8->8:4:5:orp-but-117|Lem=*LOWER*|Len=8
 2	_	_	ADV	WRB	PronType=Rel	1	obj	1:obj	Lem=_|Len=4
 3	_	_	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj|13:nsubj	Entity=(13-person-new-cf2-1,2-coref-Anne_Burrell|Lem=_|Len=4
 4	_	_	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=13)|Lem=_|Len=7

@@ -27,8 +27,8 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	nec	nec	CCONJ	O4	_	3	advmod:emph	_	_
 3	ratione	ratio	NOUN	C1|grn1|casF|gen2|comH|vgr1	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	5	obl	_	_
 4	uidetur	uideo	VERB	K3|modJ|tem1|gen6|vgr1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-5	posse	possum	VERB	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|Tense=Pres|VerbForm=Inf|Voice=Act	4	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-6	demonstrari	demonstro	VERB	J3|modQ|tem1	Aspect=Imp|InflClass=LatA|Tense=Pres|VerbForm=Inf|Voice=Pass	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+5	posse	possum	VERB	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	4	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	demonstrari	demonstro	VERB	J3|modQ|tem1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	an	an	SCONJ	O4	_	9	mark	_	_
 8	deus	deus	NOUN	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	9	nsubj	_	_
 9	sit	sum	AUX	N3|modB|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	autem	autem	PART	O4	_	1	discourse	_	_
 3	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 4	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	7	nsubj	_	_
-5	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	7	cop	_	_
+5	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	7	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	primam	primus	ADJ	A1|grn1|casD|gen2	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|NumType=Ord	7	amod	_	_
 7	causam	causa	NOUN	A1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	1	csubj:pass	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	1	punct	_	_
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	relinquitur	relinquo	VERB	L3|modJ|tem1|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 2	quod	quod	SCONJ	O4	_	7	mark	_	_
 3	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj	_	_
-4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	7	csubj	_	_
+4	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	7	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	per	per	ADP	S4	_	6	case	_	_
 6	se	sui	PRON	F1|grn1|casD|gen3	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	7	obl	_	_
 7	notum	notus	ADJ	L2|modM|tem4|grp1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing|VerbForm=Part	1	csubj:pass	_	TraditionalMood=Participium|TraditionalTense=Perfectum

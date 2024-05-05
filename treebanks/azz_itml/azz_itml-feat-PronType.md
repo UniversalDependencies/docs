@@ -32,7 +32,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADV` tokens may have the following values of `PronType`:
 
 * `Rel` (63; 100% of non-empty `PronType`): <em>kampa, kanpa</em>
-* `EMPTY` (1304): <em>amo, no, ya, semi, pos, ne, ompa, iujki, komo, saj</em>
+* `EMPTY` (1305): <em>amo, no, ya, semi, pos, ne, ompa, iujki, komo, saj</em>
 
 ## Relations with Agreement in `PronType`
 

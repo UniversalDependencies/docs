@@ -75,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 15	,	,	PUNCT	CLB	_	20	punct	_	_
 16	эли	эли	CCONJ	CC	_	20	cc	_	_
 17	мезень	мезе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	20	obl	_	GTtags=Indef,SP,Gen,Indef
-18	кувалткак	кувалт	ADP	Adp	Derivation=PronGak	17	fixed	_	_
+18	кувалткак	кувалт	ADP	Po	AdpType=Post|Derivation=PronGak	17	fixed	_	_
 19	седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	nsubj	_	GTtags=Sg,Nom,PxSg3
 20	палы	паломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	7	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 21	?	?	PUNCT	CLB	_	7	punct	_	_

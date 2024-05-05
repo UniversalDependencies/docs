@@ -23,11 +23,11 @@ The following 1 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl:cau	color:blue
-1	రాము	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmu|LTranslit=_
-2	కమల-చేత	_	PROPN	PROPN	_	4	obl:cau	_	Translit=kamala-ceta|LTranslit=_
-3	నీళ్ళు	_	NOUN	NOUN	_	4	obj	_	Translit=nīḷḷu|LTranslit=_
-4	కాయించేడు	_	VERB	VERB	_	0	root	_	Translit=kāyiṁceḍu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	రాము	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmu
+2	కమల-చేత	_	PROPN	PROPN	_	4	obl:cau	_	Translit=kamala-cēta
+3	నీళ్ళు	_	NOUN	NOUN	_	4	obj	_	Translit=nīḷḷu
+4	కాయించేడు	_	VERB	VERB	_	0	root	_	Translit=kāyiṁcēḍu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 

@@ -24,12 +24,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (115; 99% of non-empty `Gender`): <em>Любань, Люба, Маря, Уля, Улянь, Марянень, Марянь, Грунянь, Лопа, Любанень</em>
 * `Masc` (1; 1% of non-empty `Gender`): <em>Григорь</em>
-* `EMPTY` (594): <em>Микол, Ястребов, Палько, Федоров, Кирё, Кечай, Миколонь, Лапшов, Урван, Дуняшин</em>
+* `EMPTY` (592): <em>Микол, Ястребов, Палько, Федоров, Кирё, Кечай, Миколонь, Лапшов, Урван, Дуняшин</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (12) occur only with one value of `Gender`.
-
-## Relations with Agreement in `Gender`
-
-The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>PROPN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%).
 

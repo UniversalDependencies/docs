@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 166414 tokens (47%) have a non-empty value of `Person`.
 15183 types (80%) occur at least once with a non-empty value of `Person`.
-12484 lemmas (80%) occur at least once with a non-empty value of `Person`.
+12564 lemmas (80%) occur at least once with a non-empty value of `Person`.
 The feature is used with 13 part-of-speech tags: <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (77405; 22% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (41504; 12% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (13719; 4% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (12991; 4% instances), <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (10686; 3% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (4570; 1% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (3862; 1% instances), <tt><a href="hi_hdtb-pos-ADV.html">ADV</a></tt> (1371; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (300; 0% instances), <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `EMPTY` (22240): कहा, करने, किया, दिया, कर, की, बताया, दी, होने, हो
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td>करते</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>करते</td><td>करते</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td>करते</td></tr>

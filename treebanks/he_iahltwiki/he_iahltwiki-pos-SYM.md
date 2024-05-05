@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: %, –, -, /, =, +, :, °, &, (
 
 The 10 most frequent `SYM` types:  %, –, -, /, =, +, :, °, &, (
 
-The 10 most frequent ambiguous lemmas: % (<tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 62, <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> 4), – (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 38, <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> 1), - (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 1372, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 26), / (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 42, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 9), : (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 395, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 2), ( (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 762, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: % (<tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 62, <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> 4), – (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 38, <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> 1), - (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 1372, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 26), / (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 42, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 9), : (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 395, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 2), ( (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 763, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  % (<tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 62, <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> 4), – (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 38, <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> 1), - (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 1370, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 26), / (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 42, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 9), : (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 395, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 2), ( (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 763, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 1)
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  % (<tt><a href="he_iahltwiki-pos-SYM.html
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: %.
 

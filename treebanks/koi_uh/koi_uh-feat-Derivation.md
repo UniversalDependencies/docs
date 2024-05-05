@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.htm
 
 ### `VERB`
 
-8 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Derivation`.
+8 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Derivation`.
 
 The most frequent other feature values with which `VERB` and `Derivation` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 88%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (6; 75%).
 

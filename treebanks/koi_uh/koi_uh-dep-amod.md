@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (2%) are attached to their parents as `amod`.
+21 nodes (2%) are attached to their parents as `amod`.
 
-17 instances of `amod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22222222222222.
+20 instances of `amod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19047619047619.
 
-The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (16; 89% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `amod`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (19; 90% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

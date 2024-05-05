@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>Но</em> (<tt><a href="kpv_lattice-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (1) was observed with the lemma “Ага”: <em>Ага</em>.
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (1) was observed with the lemma “мыйкӧ”
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="kpv_lattice-dep-discourse.html">discourse</a></tt> (7; 70% instances), <tt><a href="kpv_lattice-dep-root.html">root</a></tt> (2; 20% instances), <tt><a href="kpv_lattice-dep-nmod-appos.html">nmod:appos</a></tt> (1; 10% instances)
+`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="kpv_lattice-dep-discourse.html">discourse</a></tt> (7; 70% instances), <tt><a href="kpv_lattice-dep-root.html">root</a></tt> (2; 20% instances), <tt><a href="kpv_lattice-dep-compound-nn.html">compound:nn</a></tt> (1; 10% instances)
 
 Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (4; 40% instances),  (2; 20% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 10% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 10% instances)
 

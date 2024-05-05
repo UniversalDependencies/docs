@@ -12,19 +12,19 @@ It occurs with 3 different values: `1`, `2`, `3`.
 30719 tokens (12%) have a non-empty value of `Person`.
 4066 types (8%) occur at least once with a non-empty value of `Person`.
 1820 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (14370; 5% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (10989; 4% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (3884; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1476; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (14371; 5% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (10988; 4% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (3884; 1% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (1476; 1% instances).
 
 ### `AUX`
 
-14370 <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
+14371 <tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14370; 100%), <tt><a href="sl_ssj-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14358; 100%), <tt><a href="sl_ssj-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13270; 92%), <tt><a href="sl_ssj-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12882; 90%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9974; 69%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14371; 100%), <tt><a href="sl_ssj-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (14359; 100%), <tt><a href="sl_ssj-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13271; 92%), <tt><a href="sl_ssj-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (12883; 90%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9975; 69%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (1227; 9% of non-empty `Person`): <em>sem, smo, bomo, bom, nisem, sva, nismo, nisva, bova</em>
 * `2` (296; 2% of non-empty `Person`): <em>boste, ste, si, niste, boš, bodite, nisi, bodi, sta, bosta</em>
-* `3` (12847; 89% of non-empty `Person`): <em>je, so, bo, ni, bodo, sta, niso, bosta, nista, bojo</em>
+* `3` (12848; 89% of non-empty `Person`): <em>je, so, bo, ni, bodo, sta, niso, bosta, nista, bojo</em>
 * `EMPTY` (2956): <em>bi, bil, bila, bilo, bili, bile, biti, bla, blo, b</em>
 
 <table>
@@ -44,15 +44,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-10989 <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> tokens (45% of all `VERB` tokens) have a non-empty value of `Person`.
+10988 <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> tokens (45% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sl_ssj-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10989; 100%), <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10989; 100%), <tt><a href="sl_ssj-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10532; 96%), <tt><a href="sl_ssj-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10395; 95%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6563; 60%), <tt><a href="sl_ssj-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6177; 56%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sl_ssj-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10988; 100%), <tt><a href="sl_ssj-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10988; 100%), <tt><a href="sl_ssj-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10531; 96%), <tt><a href="sl_ssj-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10394; 95%), <tt><a href="sl_ssj-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6562; 60%), <tt><a href="sl_ssj-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (6177; 56%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (1777; 16% of non-empty `Person`): <em>moramo, imamo, vem, mislim, denimo, moremo, recimo, imam, smemo, vemo</em>
 * `2` (847; 8% of non-empty `Person`): <em>imate, morate, veste, želite, dobite, dodajte, ste, veš, imaš, potrebujete</em>
-* `3` (8365; 76% of non-empty `Person`): <em>je, ima, ni, gre, so, imajo, bo, mora, pomeni, pravi</em>
+* `3` (8364; 76% of non-empty `Person`): <em>je, ima, ni, gre, so, imajo, bo, mora, pomeni, pravi</em>
 * `EMPTY` (13604): <em>bilo, imel, bila, imeli, moral, morali, povedal, imela, bil, rekel</em>
 
 <table>
@@ -111,10 +111,11 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (831; 69%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (833; 69%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (4; 100%),
 <tt>VERB --[<tt><a href="sl_ssj-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (2; 67%),
 <tt>AUX --[<tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

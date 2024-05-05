@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 4 expl:comp	color:blue
 1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	reparandum	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	3	punct	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
 3	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
 4	y	y	PRON	_	Person=3|PronType=Prs	5	expl:comp	_	_
 5	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 8	où	où	PRON	_	PronType=Rel	10	obl:mod	_	_
 9	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 10	f~	f~	VERB	_	_	13	reparandum	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
 12	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	expl:subj	_	_
 13	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 14	être	être	AUX	_	VerbForm=Inf	15	aux:tense	_	Subject=NoRaising

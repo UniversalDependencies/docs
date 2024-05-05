@@ -32,8 +32,8 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 10	ⲃⲱⲕ	ⲃⲱⲕ	VERB	V	VerbForm=Fin	4	parataxis	_	_
-11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	ADV	IMOD	_	10	advmod	_	_
-12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	_
+11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	NOUN	IMOD	_	10	obl:npmod	_	_
+12	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 13	ⲉ	ⲉ	ADP	PREP	_	15	case	_	_
 14	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	15	det	_	Entity=(place
 15	ⲙⲁ	ⲙⲁ	NOUN	N	_	10	obl	_	_
@@ -57,7 +57,7 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
 6	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	7	det	_	Entity=(time
 7	ⲥⲟⲡ	ⲥⲟⲡ	NOUN	N	_	3	obl	_	Entity=time)
-8	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	Entity=(place
+8	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	Entity=(place
 9	ⲏⲓ	ⲏⲓ	NOUN	N	_	3	parataxis	_	Entity=place)|Orig=ⲏⲓ̈
 10	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	12	aux	_	Orig=ⲙ̄ⲡ
 11	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
@@ -83,7 +83,7 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	ⲛⲁ	ⲛⲁ	ADP	PREP	_	4	case	_	_
 4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 5	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	7	mark	_	_
-6	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	Entity=(person
+6	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	Entity=(person
 7	ⲙⲉⲣⲓⲧ	ⲙⲉⲣⲓⲧ	NOUN	N	_	1	ccomp	_	_
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̅
 9	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	7	nmod	_	Entity=person)
@@ -92,7 +92,7 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 12	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	7	parataxis	_	Orig=ⲟⲩⲛ̅
 13	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	12	nsubj	_	Entity=(person)
 14	ⲙ	ⲛ	ADP	PREP	_	16	case	_	Orig=ⲙ̅
-15	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	det	_	Entity=(place
+15	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	Entity=(place
 16	ⲥⲁ	ⲥⲁ	NOUN	N	_	12	obl	_	_
 17	ⲛϩⲟⲩⲛ	ⲛϩⲟⲩⲛ	ADV	ADV	_	16	advmod	_	Entity=place)
 18	·	·	PUNCT	PUNCT	_	1	punct	_	_

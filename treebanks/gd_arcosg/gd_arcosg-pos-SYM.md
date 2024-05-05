@@ -13,24 +13,23 @@ The 10 most frequent `SYM` lemmas: <em>£, a</em>
 
 The 10 most frequent `SYM` types:  <em>£, A</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3234, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 593, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 428, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 280, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 140, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 38, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 3234, <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> 593, <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> 428, <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 280, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 140, <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> 38, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="gd_arcosg-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 17, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1, <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 17, <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 6, <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1, <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>A</em>
   * <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> 17: <em><b>A</b> thuilleadh air a-sin tha e coltach nach eil mòran taic aig e an lùib sagairt na sgìre .</em>
   * <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> 6: <em>“ <b>A</b> bheil sibh a' faicinn fada mu chuairt ? " as esan .</em>
-  * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 2: <em><b>A</b> nis , chì sinn ann am beul-aithris , ann an cuid de chànainean fada bharrachd de bhuaidh litreachais sgrìobhta agus a chì sinn anns a' bheul-aithris aig cànainean eile .</em>
+  * <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt> 3: <em>“ <b>A</b> well " , ars’ a' bodach , “ bha mise uair rachadh aig mi fhìn air baisteadh a dhèanamh " ars’ esan .</em>
   * <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> 2: <em>Mar eisimpleir , tha dà sheòrsa eadar-dhealaichte an e de fhuil <b>A</b> ; is e sin A1 agus A2 is iad fo smachd dà aileal eadar-dhealaichte .</em>
   * <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> 1: <em><b>A</b> h-uile oidhche bha cèilidh an e no bha còmhlan-ciùil a' cluich aig an taigh-òsta , “ Taigh Josie " far am biomaid a' coinneachadh agus abair thusa ceòl agus crac agus beagan de dh’òl cuideachd .</em>
   * <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> 1: <em><b>A</b> nise , bha de bhuaidh aig an seo gu robh e a' cur cuibhreachadh , ann an dòighean , gach cuid air a’ bhàrdachd agus air a’ bhàrd .</em>
   * <tt><a href="gd_arcosg-pos-SYM.html">SYM</a></tt> 1: <em>Chaochail boireannach agus chaidh dithis eile a ghortachadh ann an tubaist air an <b>A</b> 9 deas air Inbhir Nis .</em>
-  * <tt><a href="gd_arcosg-pos-X.html">X</a></tt> 1: <em>“ <b>A</b> well " , ars’ a' bodach , “ bha mise uair rachadh aig mi fhìn air baisteadh a dhèanamh " ars’ esan .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.302045).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.302372).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 

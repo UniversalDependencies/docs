@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  כנסת (<tt><a href="he_iahltwiki-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.033051 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `PROPN` is 1.033051 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (4) was observed with the lemma “ועדה”: וועדה, וועדת, ועדה, ועדת.
 

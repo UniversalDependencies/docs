@@ -11,7 +11,7 @@ It occurs with 4 different values: `Act`, `Ifoc`, `Lfoc`, `Pass`.
 
 150 tokens (12%) have a non-empty value of `Voice`.
 138 types (30%) occur at least once with a non-empty value of `Voice`.
-110 lemmas (28%) occur at least once with a non-empty value of `Voice`.
+111 lemmas (30%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (150; 12% instances).
 
 ### `VERB`
@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><tt><a href="ceb_gja-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>Ipalit</em></td><td><em>paliti</em></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `VERB`. 94% lemmas (103) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 94% lemmas (104) occur only with one value of `Voice`.
 
 ## Relations with Agreement in `Voice`
 

@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	de	de	PROPN	NNP	Number=Sing	5	flat	5:flat	_
 7	Beek	Beek	PROPN	NNP	Number=Sing	5	flat	5:flat	Entity=32)|SpaceAfter=No
 8	,	,	PUNCT	,	_	5	punct	5:punct	_
-9	looking	look	VERB	VBG	VerbForm=Ger	3	parataxis	3:parataxis	MSeg=look-ing
+9	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	3	parataxis	3:parataxis	MSeg=look-ing
 10	for	for	ADP	IN	_	11	case	11:case	_
 11	something	something	PRON	NN	Number=Sing|PronType=Ind	9	obl	9:obl:for	Entity=(76-abstract-new-cf3-1-sgl)|SpaceAfter=No
 12	.	.	PUNCT	.	_	3	punct	3:punct	_

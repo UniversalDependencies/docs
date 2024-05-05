@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7 5 aux	color:blue
 1	Desde	desde	ADP	P	AdpType=Prep	3	case	_	_
 2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	7	obl	_	_
+3	PSOE	psoe	PROPN	Zgms	Gender=Masc|Number=Sing	7	obl	_	_
 4	tamén	tamén	ADV	Wn	_	7	advmod	_	_
 5	están	estar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	a	a	ADP	P	AdpType=Prep	7	mark	_	_
@@ -54,7 +54,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 8	pensando	pensar	VERB	V0x000	VerbForm=Ger	0	root	_	_
 9	en	en	ADP	P	AdpType=Prep	14	mark	_	_
 10	que	que	SCONJ	Cs	_	14	mark	_	_
-11	Ferrol	Ferrol	PROPN	Sp00	_	14	nsubj	_	_
+11	Ferrol	ferrol	PROPN	Sp00	_	14	nsubj	_	_
 12	podería	poder	AUX	Vci30s	Mood=Cnd,Ind|Number=Sing|Person=3|VerbForm=Fin	14	aux	_	_
 13	ser	ser	AUX	V0f000	VerbForm=Inf	14	cop	_	_
 14	escenario	escenario	NOUN	Scms	Gender=Masc|Number=Sing	8	ccomp	_	_
@@ -101,7 +101,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 21	ser	ser	AUX	V0f000	VerbForm=Inf	22	cop	_	_
 22	afíns	afín	ADJ	A0mp	Gender=Masc|Number=Plur	17	acl	_	_
 23	a	a	ADP	P	AdpType=Prep	24	case	_	_
-24	CCOO	CCOO	PROPN	Zg00	_	22	iobj	_	SpaceAfter=No
+24	CCOO	ccoo	PROPN	Zg00	_	22	iobj	_	SpaceAfter=No
 25	.	.	PUNCT	Q.	_	22	punct	_	_
 
 ~~~

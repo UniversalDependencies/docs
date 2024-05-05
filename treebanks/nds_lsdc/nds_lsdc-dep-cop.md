@@ -8,33 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-70 nodes (1%) are attached to their parents as `cop`.
+407 nodes (2%) are attached to their parents as `cop`.
 
-37 instances of `cop` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12857142857143.
+243 instances of `cop` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.45208845208845.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (34; 49% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (20; 29% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (8; 11% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (5; 7% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 cop	color:blue
-1	Wat	wat	PRON	_	_	4	obl	_	lemma_gml=wat(te)³
-2	myn	myn	DET	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det:poss	_	lemma_gml=mîn²
-3	süsterdochter	süsterdochter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	lemma_gml=süsterdochter
-4	fiks	fiks	ADJ	_	Degree=Pos	0	root	_	_
-5	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop	4	cop	_	lemma_gml=wēsen²|SpaceAfter=No
-6	:	:	PUNCT	_	_	10	punct	_	_
-7	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	lemma_gml=dê¹
-8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Aux	10	aux	_	lemma_gml=künnen
-9	gedanken	gedanke	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	lemma_gml=gedanke
-10	leasen	leasen	VERB	_	VerbForm=Inf	4	parataxis	_	lemma_gml=lēsen¹|SpaceAfter=No
-11	!	!	PUNCT	_	_	10	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (157; 39% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (153; 38% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (45; 11% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (28; 7% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (14; 3% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -65,6 +44,27 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 cop	color:blue
+1	Wat	wat	PRON	_	_	4	obl	_	lemma_gml=wat(te)³
+2	myn	myn	DET	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	3	det:poss	_	lemma_gml=mîn²
+3	süsterdochter	süsterdochter	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	lemma_gml=süsterdochter
+4	fiks	fiks	ADJ	_	Degree=Pos	0	root	_	_
+5	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Cop	4	cop	_	lemma_gml=wēsen²|SpaceAfter=No
+6	:	:	PUNCT	_	_	10	punct	_	_
+7	dee	dee	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	lemma_gml=dê¹
+8	kan	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Aux	10	aux	_	lemma_gml=künnen
+9	gedanken	gedanke	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	lemma_gml=gedanke
+10	leasen	leasen	VERB	_	VerbForm=Inf	4	parataxis	_	lemma_gml=lēsen¹|SpaceAfter=No
+11	!	!	PUNCT	_	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
@@ -73,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Jå	jå	INTJ	_	_	0	root	_	lemma_gml=jâ¹|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
 3	wår	wår	ADV	_	_	1	conj	_	lemma_gml=wôr(e)
-4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop	3	cop	_	lemma_gml=wēsen²
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Cop	3	cop	_	lemma_gml=wēsen²
 5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê¹
 6	knyptange	knyptange	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma_gml=knîptange|SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Magali Sanches Duran, Lucelene Lopes, Maria das Graças Volpe Nunes, Thiago Alexandre Salgueiro Pardo.
 
 Repository: [UD_Portuguese-Porttinari](https://github.com/UniversalDependencies/UD_Portuguese-Porttinari)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_porttinari213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_porttinari214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY 4.0
 

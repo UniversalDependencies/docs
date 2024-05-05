@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:insert`: 
 6	mesye	mesye	NOUN	_	_	4	vocative	_	Gloss=monsieur|SpaceAfter=No
 7	,"	,"	PUNCT	_	_	4	punct	_	_
 8	klas	klas	NOUN	_	_	10	nsubj	_	Gloss=classe
-9	la	la	DET	_	Definite=Def|Number=Sing	8	det	_	Gloss=la
+9	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	Gloss=le
 10	reponn	reponn	VERB	_	_	0	root	_	Gloss=répondre|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:insert`: 
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Hmm	hmm	INTJ	_	_	0	root	_	Gloss=hum|SpaceAfter=No
 3	...!	...!	PUNCT	_	_	2	punct	_	_
-4	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+4	li	li	PRON	_	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=3SG
 5	reponn	reponn	VERB	_	_	2	parataxis:insert	_	Gloss=répondre|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 

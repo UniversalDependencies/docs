@@ -11,19 +11,19 @@ It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Re
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
 110184 tokens (20%) have a non-empty value of `PronType`.
-326 types (1%) occur at least once with a non-empty value of `PronType`.
-97 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (84402; 15% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (25207; 5% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (565; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances).
+324 types (1%) occur at least once with a non-empty value of `PronType`.
+98 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (84425; 15% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (25184; 4% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (565; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances).
 
 ### `DET`
 
-84402 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+84425 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66268; 79%), <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (62495; 74%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (46362; 55%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66279; 79%), <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (62518; 74%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (46374; 55%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (72074; 85% of non-empty `PronType`): <em>el, la, los, un, las, una, unos, unas, els, a</em>
+* `Art` (72097; 85% of non-empty `PronType`): <em>el, la, los, un, las, una, unos, unas, les, els</em>
 * `Dem` (3254; 4% of non-empty `PronType`): <em>este, esta, esa, ese, estos, mismo, estas, misma, esos, esas</em>
 * `Ind` (2134; 3% of non-empty `PronType`): <em>otros, otro, otras, otra, algunos, cualquier, muchos, varios, muchas, varias</em>
 * `Int` (63; 0% of non-empty `PronType`): <em>qué</em>
@@ -33,32 +33,33 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Rel` (156; 0% of non-empty `PronType`): <em>cuyo, cuya, cuyos, cuyas, cual</em>
 * `Tot` (1134; 1% of non-empty `PronType`): <em>todo, todos, cada, todas, toda</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (59) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (60) occur only with one value of `PronType`.
 
 ### `PRON`
 
-25207 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+25184 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19403; 77%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18518; 73%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (15127; 60%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15029; 60%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13135; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19380; 77%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (18495; 73%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (15104; 60%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15031; 60%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13137; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (780; 3% of non-empty `PronType`): <em>eso, esto, éste, ésta, mismo, este, misma, mismos, éstos, tal</em>
-* `Ind` (1787; 7% of non-empty `PronType`): <em>uno, cómo, una, algo, unos, otros, otro, algunos, otra, muchos</em>
+* `Ind` (1786; 7% of non-empty `PronType`): <em>uno, cómo, una, algo, unos, otros, otro, algunos, otra, muchos</em>
 * `Int` (254; 1% of non-empty `PronType`): <em>qué, quién, cuál, cuáles, quiénes</em>
 * `Int,Rel` (14; 0% of non-empty `PronType`): <em>cuanto, cuánto, cuántos, cuantos, cuántas</em>
 * `Neg` (364; 1% of non-empty `PronType`): <em>nada, nadie, ninguno, ninguna</em>
-* `Prs` (12609; 50% of non-empty `PronType`): <em>se, lo, le, me, nos, la, les, él, ellos, yo</em>
-* `Rel` (8983; 36% of non-empty `PronType`): <em>que, quien, quienes, cual, cuales</em>
+* `Prs` (12584; 50% of non-empty `PronType`): <em>se, lo, le, me, nos, la, les, él, ellos, yo</em>
+* `Rel` (8986; 36% of non-empty `PronType`): <em>que, quien, quienes, cual, cuales</em>
 * `Tot` (416; 2% of non-empty `PronType`): <em>todo, todos, todas, cada, toda</em>
 
 <table>
-  <tr><th>Paradigm <i>que</i></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>que</em></td><td><em>ver</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>que</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ninguno</i></th><th><tt>Neg</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ninguno</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ninguna</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ningunas</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (60) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 98% lemmas (61) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -79,7 +80,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Int,Rel` (10; 100% of non-empty `PronType`): <em>que</em>
-* `EMPTY` (12467): <em>que, como, si, porque, cuando, aunque, según, mientras, pues, donde</em>
+* `EMPTY` (12464): <em>que, como, si, porque, cuando, aunque, según, mientras, pues, donde</em>
 
 ## Relations with Agreement in `PronType`
 

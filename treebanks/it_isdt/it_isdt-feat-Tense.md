@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-29904 tokens (10%) have a non-empty value of `Tense`.
+29903 tokens (10%) have a non-empty value of `Tense`.
 6392 types (23%) occur at least once with a non-empty value of `Tense`.
 1884 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18878; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11024; 4% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18877; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11024; 4% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-18878 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Tense`.
+18877 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13538; 72%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10743; 57%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10516; 56%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9631; 51%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Fut` (424; 2% of non-empty `Tense`): <em>sarà, vedrà, avrà, farà, vedremo, andrà, continuerà, diventerà, saranno, avranno</em>
 * `Imp` (919; 5% of non-empty `Tense`): <em>era, aveva, chiamava, erano, avevano, faceva, facevano, diceva, lavorava, lavoravano</em>
-* `Past` (9160; 49% of non-empty `Tense`): <em>fatto, visto, vinto, avuto, tenuto, detto, morì, nato, dato, messo</em>
+* `Past` (9159; 49% of non-empty `Tense`): <em>fatto, visto, vinto, avuto, tenuto, detto, morì, nato, dato, messo</em>
 * `Pres` (8375; 44% of non-empty `Tense`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, significa</em>
 * `EMPTY` (6371): <em>fare, far, vedere, avere, dire, dare, pagare, andare, chiedere, usare</em>
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (2; 100% of non-empty `Tense`): <em>partiti, previsto</em>
-* `EMPTY` (59422): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
+* `EMPTY` (59426): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
 
 ## Relations with Agreement in `Tense`
 

@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 3 2 aux:pass	color:blue
 1	Människor	människa	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nsubj	3:nsubj	_
 2	blev	bli	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	3	aux:pass	3:aux:pass	_
-3	dödade	dödad	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	0	root	0:root	_
+3	dödade	dödad	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part	0	root	0:root	_
 4	där	där	ADV	AB	_	3	advmod	3:advmod	SpaceAfter=No
 5	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 

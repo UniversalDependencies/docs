@@ -22,11 +22,11 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 conj	color:blue
-1	వారు	_	PRON	PRON	_	2	nsubj	_	Translit=vāru|LTranslit=_
-2	వచ్చేరా	_	VERB	VERB	_	0	root	_	Translit=vaccerā|LTranslit=_
-3	,	_	PUNCT	PUNCT	_	4	punct	_	Translit=,|LTranslit=_
-4	లేదా	_	VERB	VERB	_	2	conj	_	Translit=ledā|LTranslit=_
-5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
+1	వారు	_	PRON	PRON	_	2	nsubj	_	Translit=vāru
+2	వచ్చేరా	_	VERB	VERB	_	0	root	_	Translit=vaccērā
+3	,	_	PUNCT	PUNCT	_	4	punct	_	Translit=,
+4	లేదా	_	VERB	VERB	_	2	conj	_	Translit=lēdā
+5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?
 
 ~~~
 
@@ -37,11 +37,11 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 conj	color:blue
-1	ఆయన	_	NOUN	NOUN	_	2	nsubj	_	Translit=āyana|LTranslit=_
-2	ప్రొఫెసరుగారా	_	NOUN	NOUN	_	0	root	_	Translit=pròphèsarugārā|LTranslit=_
-3	,	_	PUNCT	PUNCT	_	4	punct	_	Translit=,|LTranslit=_
-4	డాక్టరుగారా	_	NOUN	NOUN	_	2	conj	_	Translit=ḍākṭarugārā|LTranslit=_
-5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
+1	ఆయన	_	NOUN	NOUN	_	2	nsubj	_	Translit=āyana
+2	ప్రొఫెసరుగారా	_	NOUN	NOUN	_	0	root	_	Translit=prophesarugārā
+3	,	_	PUNCT	PUNCT	_	4	punct	_	Translit=,
+4	డాక్టరుగారా	_	NOUN	NOUN	_	2	conj	_	Translit=ḍākṭarugārā
+5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?
 
 ~~~
 
@@ -52,12 +52,12 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	రాము	_	PROPN	PROPN	_	5	nsubj	_	Translit=rāmu|LTranslit=_
-2	తొందరగాను	_	ADV	ADV	_	1	advmod	_	Translit=tòṁdaragānu|LTranslit=_
-3	కమల	_	PROPN	PROPN	_	1	conj	_	Translit=kamala|LTranslit=_
-4	మెల్లగాను	_	ADV	ADV	_	5	advmod	_	Translit=mèllagānu|LTranslit=_
-5	నడుస్తారు	_	VERB	VERB	_	0	root	_	Translit=naḍustāru|LTranslit=_
-6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
+1	రాము	_	PROPN	PROPN	_	5	nsubj	_	Translit=rāmu
+2	తొందరగాను	_	ADV	ADV	_	1	advmod	_	Translit=toṁdaragānu
+3	కమల	_	PROPN	PROPN	_	1	conj	_	Translit=kamala
+4	మెల్లగాను	_	ADV	ADV	_	5	advmod	_	Translit=mellagānu
+5	నడుస్తారు	_	VERB	VERB	_	0	root	_	Translit=naḍustāru
+6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.
 
 ~~~
 

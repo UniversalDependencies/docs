@@ -11,37 +11,66 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
 1740 tokens (7%) have a non-empty value of `Tense`.
 149 types (3%) occur at least once with a non-empty value of `Tense`.
-1 lemmas (0) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1074; 5% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (666; 3% instances).
+70 lemmas (2%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (963; 4% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (777; 3% instances).
 
 ### `AUX`
 
-1074 <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `Tense`.
+963 <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> tokens (70% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1046; 97%), <tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (831; 77%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (757; 70%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (642; 60%), <tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (637; 59%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (938; 97%), <tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (735; 76%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (679; 71%), <tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (635; 66%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (635; 66%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (45; 4% of non-empty `Tense`): होगा, जाएगा, देगा, जाएगी, होगी, जाएंगे, पड़ेगा, आएंगे, करेंगे, देंगे
-* `Past` (429; 40% of non-empty `Tense`): था, गया, थे, थी, दिया, गयी, लिया, गए, थीं, दी
-* `Pres` (600; 56% of non-empty `Tense`): है, हैं, हूं, चाहिए, जाए, थे, सकते, हो, चाहेंगे, दें
-* `EMPTY` (702): गया, हुए, जाता, सकता, हो, गयी, गए, दिया, रहे, जा
+* `Fut` (19; 2% of non-empty `Tense`): जाएगा, जाएगी, जाएंगे, पड़ेगा, सकते, सकेगा
+* `Past` (348; 36% of non-empty `Tense`): था, गया, थे, थी, गयी, गए, थीं, पड़ा, रहा, गई
+* `Pres` (596; 62% of non-empty `Tense`): है, हैं, हूं, चाहिए, जाए, थे, सकते, सकता, सके
+* `EMPTY` (403): गया, जाता, सकता, गयी, गए, रहे, जा, रहा, जाने, सकती
+
+<table>
+  <tr><th>Paradigm <i>जाना</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>जाए</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>जाएगा</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>जाएंगे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>जाए</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>जाएगी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>गया</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>गए</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>गयी, गई</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>गयीं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>गए</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td>गए</td></tr>
+</table>
 
 ### `VERB`
 
-666 <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> tokens (32% of all `VERB` tokens) have a non-empty value of `Tense`.
+777 <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (666; 100%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (656; 98%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (654; 98%), <tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (578; 87%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (459; 69%), <tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (438; 66%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (777; 100%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (764; 98%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (756; 97%), <tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (674; 87%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (537; 69%), <tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (516; 66%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (47; 7% of non-empty `Tense`): करेगा, होगा, करेंगे, होगी, होंगे, देगा, रहेगा, करूंगा, करे, करेगी
-* `Past` (443; 67% of non-empty `Tense`): किया, कहा, था, थी, की, हुआ, हुई, थे, दिया, बताया
-* `Pres` (176; 26% of non-empty `Tense`): है, हैं, करें, करता, करते, निपटें, फटते, फिशिंग, मांगा, लव
-* `EMPTY` (1392): करने, कर, किया, हो, होने, करते, की, करता, करना, कहा
+* `Fut` (73; 9% of non-empty `Tense`): होगा, होगी, देगा, करेंगे, करेगा, होंगे, देगी, रहेगा, आएंगे, करूंगा
+* `Past` (524; 67% of non-empty `Tense`): किया, कहा, था, थी, दिया, की, लिया, हुआ, हुई, दी
+* `Pres` (180; 23% of non-empty `Tense`): है, हैं, करें, हो, करता, करते, चाहेंगे, दें, निपटें, फटते
+* `EMPTY` (1691): करने, कर, किया, हो, हुए, होने, दिया, करते, की, करता
 
-## Relations with Agreement in `Tense`
-
-The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="hi_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%).
+<table>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करें</td><td>करेंगे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td>करूंगा</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करता, करते</td><td>करेगा</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करें</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>करेगी</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>करें</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करें</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td>करेंगे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>करें</td><td>करेंगे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>करे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>किया, की</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>किए</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>की, कीं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>कीं</td></tr>
+  <tr><td><tt><tt><a href="hi_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>किए</td></tr>
+</table>
 

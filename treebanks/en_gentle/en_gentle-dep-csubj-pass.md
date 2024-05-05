@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=remain-s
 3	to	to	PART	TO	_	5	mark	5:mark	_
 4	be	be	AUX	VB	VerbForm=Inf	5	aux:pass	5:aux:pass	_
-5	proved	prove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	csubj	2:csubj	_
+5	proved	prove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	csubj	2:csubj	MSeg=prov-ed
 6	that	that	SCONJ	IN	_	13	mark	13:mark	_
 7	DG	DG	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	Entity=(12-abstract-giv:act-cf1*-1-coref)
 8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_

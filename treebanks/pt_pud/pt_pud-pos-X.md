@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>americano</em> (<tt><a href="pt_pud-p
 
 ## Morphology
 
-The form / lemma ratio of `X` is 3.000000 (the average of all parts of speech is 1.570742).
+The form / lemma ratio of `X` is 3.000000 (the average of all parts of speech is 1.570488).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>Bretanha, americano, americanos</em>.
 

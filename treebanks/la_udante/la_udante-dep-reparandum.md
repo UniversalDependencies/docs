@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 8	obediat	oboedio	VERB	va4cps3	Aspect=Imp|InflClass=LatI|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 9	,	,	PUNCT	Pu	_	8	punct	_	_
 10	necesse	necesse	ADJ	din	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	0	root	_	_
-11	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+11	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 12	etiam	etiam	ADV	co	Compound=Yes	23	advmod:emph	_	_
 13	preter	praeter	ADP	r	_	15	case	_	_
 14	simplicem	simplex	ADJ	afs2a	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	15	amod	_	_
@@ -41,10 +41,10 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 17	,	,	PUNCT	Pu	_	21	punct	_	_
 18	que	qui	PRON	presfn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	21	nsubj:outer	_	_
 19	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop:outer	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-20	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	21	cop	_	TraditionalTense=Praesens
+20	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	21	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 21	deorsum	deorsum	ADV	r	AdvType=Loc|VerbForm=Part	15	acl:relcl	_	SpaceAfter=No
 22	,	,	PUNCT	Pu	_	15	punct	_	_
-23	inesse	insum	VERB	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+23	inesse	insum	VERB	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 24	aliam	alius	DET	dpfs1a	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Con	25	det	_	_
 25	naturam	natura	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	23	nsubj	_	_
 26	per	per	ADP	e	_	27	case	_	_
@@ -57,7 +57,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 33	ut	ut	SCONJ	r	PronType=Rel	35	reparandum	_	_
 34	scilicet	scilicet	CCONJ	r	Compound=Yes|VerbForm=Fin	35	cc	_	_
 35	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	28	conj:expl	_	TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
-36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+36	elevari	eleuo	VERB	vp1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	35	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 37	in	in	ADP	e	_	38	case	_	_
 38	parte	pars	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	36	obl	_	_
 39	a	a	ADP	e	_	40	case	_	_

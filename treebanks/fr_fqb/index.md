@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: LGPL-LR
 
@@ -76,7 +76,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 ## Features
 
-[Definite](fr_fqb-feat-Definite.html) – [Foreign](fr_fqb-feat-Foreign.html) – [Gender](fr_fqb-feat-Gender.html) – [Mood](fr_fqb-feat-Mood.html) – [Number](fr_fqb-feat-Number.html) – [NumType](fr_fqb-feat-NumType.html) – [Person](fr_fqb-feat-Person.html) – [Polarity](fr_fqb-feat-Polarity.html) – [Poss](fr_fqb-feat-Poss.html) – [PronType](fr_fqb-feat-PronType.html) – [Reflex](fr_fqb-feat-Reflex.html) – [Tense](fr_fqb-feat-Tense.html) – [Typo](fr_fqb-feat-Typo.html) – [VerbForm](fr_fqb-feat-VerbForm.html) – [Voice](fr_fqb-feat-Voice.html)
+[Definite](fr_fqb-feat-Definite.html) – [ExtPos](fr_fqb-feat-ExtPos.html) – [Foreign](fr_fqb-feat-Foreign.html) – [Gender](fr_fqb-feat-Gender.html) – [Mood](fr_fqb-feat-Mood.html) – [Number](fr_fqb-feat-Number.html) – [NumType](fr_fqb-feat-NumType.html) – [Person](fr_fqb-feat-Person.html) – [Polarity](fr_fqb-feat-Polarity.html) – [Poss](fr_fqb-feat-Poss.html) – [PronType](fr_fqb-feat-PronType.html) – [Reflex](fr_fqb-feat-Reflex.html) – [Tense](fr_fqb-feat-Tense.html) – [Typo](fr_fqb-feat-Typo.html) – [VerbForm](fr_fqb-feat-VerbForm.html) – [Voice](fr_fqb-feat-Voice.html)
 
 ## Relations
 
@@ -86,11 +86,11 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 
 <ul>
-<li>This corpus contains 2289 sentences, 23349 tokens and 23901 syntactic words.</li>
+<li>This corpus contains 2289 sentences, 23347 tokens and 23899 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2287 tokens (10%) that are not followed by a space.</li>
+<li>This corpus contains 2285 tokens (10%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,7 +98,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 </ul>
 
 <ul>
-<li>This corpus contains 120 types of words that contain both letters and punctuation. Examples: l', d', qu', -ce, -t-il, -il, -je, -t-elle, États-Unis, -t-on, -elle, s', -ils, -on, j', n', 's, -elles, -vous, Croix-Rouge, C., lorsqu', D., B., J., Sainte-Hélène, afro-américain, m', S., quelqu', vice-président, 'n, -moi, Dr., E., F., Grande-Bretagne, Nouvelle-Zélande, O', Viêt-nam, W., Wal-Mart, nouveau-né, outre-mer, plus-value, t-il, A., Ben-Hur, Blanche-Neige, E.coli</li>
+<li>This corpus contains 121 types of words that contain both letters and punctuation. Examples: l', d', qu', -ce, -t-il, -il, -je, -t-elle, États-Unis, -t-on, -elle, s', -ils, -on, j', n', 's, -elles, -vous, Croix-Rouge, C., lorsqu', D., B., J., Sainte-Hélène, afro-américain, m', S., vice-président, 'n, -moi, Dr., E., F., Grande-Bretagne, Nouvelle-Zélande, O', Viêt-nam, W., Wal-Mart, nouveau-né, outre-mer, plus-value, quelqu'un, t-il, A., Ben-Hur, Blanche-Neige, E.coli</li>
 </ul>
 
 <ul>
@@ -119,11 +119,11 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 </ul>
 
 <ul>
-<li>This corpus contains 24 lemmas tagged as pronouns (PRON): 2000, _, autre, ce, cela, celui, celui-ci, dont, il, il_y_a, le, le/lui, lequel, où, que, quels, qui, quoi, soi, t-il, tout, un, y, y_compris</li>
+<li>This corpus contains 25 lemmas tagged as pronouns (PRON): 2000, _, autre, ce, cela, celui, celui-ci, dont, il, il_y_a, le, le/lui, lequel, où, que, quelqu'un, quels, qui, quoi, soi, t-il, tout, un, y, y_compris</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as determiners (DET): 17 451, _, ce, certain, chaque, du, il, le, plusieurs, quel, quelqu'un, quelque_chose, son, tout, un, un_peu</li>
+<li>This corpus contains 15 lemmas tagged as determiners (DET): 17 451, _, ce, certain, chaque, du, il, le, plusieurs, quel, quelque_chose, son, tout, un, un_peu</li>
 </ul>
 
 <ul>
@@ -197,7 +197,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       <li>AUX-Part: fait</li>
       <li>DET: le, quel, un, les, quels, ce, cet, du, tout</li>
       <li>NOUN: nom, pays, président, état, lieu, logement, film, prix, corps, temps</li>
-      <li>PRON: -t-il, -il, -ils, il, lequel, le, un, celui, celui-ci, ceux</li>
+      <li>PRON: -t-il, -il, -ils, il, lequel, le, un, quelqu'un, celui, celui-ci</li>
       <li>PROPN: Alaska, John, York, Charles, Kentucky, Jackson, Japon, Mississippi, Londres, Reims</li>
       <li>VERB-Part: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
     </ul>
@@ -258,7 +258,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Ind
     <ul>
-      <li>DET: un, une, des, de, d', quelqu', tout</li>
+      <li>DET: un, une, des, de, d', tout</li>
     </ul>
   </li>
 </ul>
@@ -389,7 +389,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Art
     <ul>
-      <li>DET: le, la, l', les, un, une, des, de, d', quelqu'</li>
+      <li>DET: le, la, l', les, un, une, des, de, d', tout</li>
     </ul>
   </li>
 </ul>
@@ -399,6 +399,14 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
     <ul>
       <li>DET: ce, ces, cet, cette</li>
       <li>PRON: cela, celle, celle-ci, celui, celui-ci, ceux</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: quelqu'un</li>
     </ul>
   </li>
 </ul>
@@ -518,6 +526,60 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: d'</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: à, en, Par, d'</li>
+          <li>ADV: lord, près, auprès, afin, autour</li>
+          <li>NOUN: suite</li>
+          <li>PRON: Il</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: en, pour, à</li>
+          <li>ADV: aujourd', ne</li>
+          <li>DET: un</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: et</li>
+          <li>PRON: y</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>ADP: de, d'</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>ADV: trop</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>DET: l', quelqu'</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: pour</li>
+          <li>ADV: afin, alors, après, avant, dès</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -561,7 +623,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (343)</li>
-      <li>VERB-Fin--PRON (290)</li>
+      <li>VERB-Fin--PRON (291)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Part--NOUN (109)</li>
       <li>VERB-Part--PRON (140)</li>
@@ -574,7 +636,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (267)</li>
       <li>VERB-Fin--NOUN-ADP(de) (4)</li>
-      <li>VERB-Fin--PRON (70)</li>
+      <li>VERB-Fin--PRON (71)</li>
       <li>VERB-Inf--NOUN (137)</li>
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--PRON (29)</li>

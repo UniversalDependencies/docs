@@ -11,7 +11,7 @@ It occurs with 1 different values: `Card`.
 
 477 tokens (2%) have a non-empty value of `NumType`.
 246 types (4%) occur at least once with a non-empty value of `NumType`.
-215 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+233 lemmas (5%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (435; 2% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (40; 0% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `NUM`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 * `Card` (435; 100% of non-empty `NumType`): <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (212) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (228) occur only with one value of `NumType`.
 
 ### `DET`
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (40; 100% of non-empty `NumType`): <em>muchos, muchas, ambos, poca, mucha, mucho, pocos, Ambas</em>
-* `EMPTY` (3280): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
+* `EMPTY` (3281): <em>el, la, los, un, las, una, este, esta, cada, esto</em>
 
 ### `PRON`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): <em>cuanto</em>
-* `EMPTY` (1056): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
+* `EMPTY` (1055): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
 
 ## Relations with Agreement in `NumType`
 

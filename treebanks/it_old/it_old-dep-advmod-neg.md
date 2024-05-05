@@ -9,31 +9,34 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="it_old-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="it_old-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-496 nodes (1%) are attached to their parents as `advmod:neg`.
+1005 nodes (1%) are attached to their parents as `advmod:neg`.
 
-480 instances of `advmod:neg` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.86290322580645.
+971 instances of `advmod:neg` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.84975124378109.
 
-The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (405; 82% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (36; 7% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (28; 6% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (816; 81% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (73; 7% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (61; 6% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (22; 2% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 advmod:neg	color:blue
-1	Certo	certo	ADV	b	_	3	nsubj	_	Canto=19|Verso=93
-2	non	non	ADV	b	PronType=Neg	3	advmod:neg	_	Canto=19|Verso=93
-3	chiese	chiedere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=19|Verso=93
-4	se	se	SCONJ	_	_	5	mark	_	Canto=19|Verso=93
-5	non	non	ADV	b	PronType=Neg	3	advmod:neg	_	Canto=19|Verso=93
-6	“	“	PUNCT	_	_	7	punct	_	SpaceAfter=No
-7	vieni	venire	VERB	vi3mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	ccomp:reported	_	Canto=19|Verso=93
-8	mi	mi	PRON	pp1sxda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	Canto=19|Verso=93
-9	retro	retro	ADV	eiskml	_	7	advmod:lmod	_	Canto=19|SpaceAfter=No|Verso=93
-10	”	”	PUNCT	_	_	7	punct	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 advmod:neg	color:blue
+1	E	e	CCONJ	cscc	_	6	cc	_	Canto=33|Verso=149
+2	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Canto=33|Verso=149
+3	non	non	ADV	b	PronType=Neg	6	advmod:neg	_	Canto=33|Verso=149
+4	li	li	PRON	pp3mpxda	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	iobj	_	Canto=33|Verso=149
+5	li	li	PRON	pp3mpxac	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	Canto=33|Verso=149
+6	apersi	aprire	VERB	vta3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=33|SpaceAfter=No|Verso=149
+7	;	;	PUNCT	_	_	9	punct	_	_
+8	e	e	CCONJ	cscc	_	9	cc	_	Canto=33|Verso=150
+9	cortesia	cortesia	NOUN	sf1fs	Gender=Fem|Number=Sing	6	conj	_	Canto=33|Verso=150
+10	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	Canto=33|Verso=150
+11	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	Canto=33|Verso=150
+12	esser	essere	AUX	vi4fp	Tense=Pres|VerbForm=Inf	13	cop	_	Canto=33|Verso=150
+13	villano	villano	ADJ	a1msxo	Gender=Masc|Number=Sing	9	csubj	_	Canto=33|SpaceAfter=No|Verso=150
+14	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

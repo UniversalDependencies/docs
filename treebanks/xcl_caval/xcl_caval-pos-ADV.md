@@ -6,89 +6,91 @@ udver: '2'
 
 ## Treebank Statistics: UD_Classical_Armenian-CAVaL: POS Tags: `ADV`
 
-There are 94 `ADV` lemmas (7%), 94 `ADV` types (4%) and 340 `ADV` tokens (3%).
-Out of 15 observed tags, the rank of `ADV` is: 4 in number of lemmas, 6 in number of types and 12 in number of tokens.
+There are 198 `ADV` lemmas (8%), 202 `ADV` types (3%) and 2295 `ADV` tokens (3%).
+Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>եւ, որպէս, անտի, ապա, եւս, արդ, զ, անդ, այնպէս, անդրէն</em>
+The 10 most frequent `ADV` lemmas: <em>եւս, որպէս, ամէն, յայնժամ, արդ, անդ, ուր, ապա, վաղվաղակի, զիարդ</em>
 
-The 10 most frequent `ADV` types:  <em>եւ, որպէս, անտի, ապա, եւս, արդ, զ, անդ, այնպէս, անդրէն</em>
+The 10 most frequent `ADV` types:  <em>եւս, որպէս, ամէն, յայնժամ, արդ, անդ, ուր, ապա, վաղվաղակի, զիարդ</em>
 
-The 10 most frequent ambiguous lemmas: <em>եւ</em> (<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 1044, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 47), <em>զ</em> (<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 543, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 43, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 10), <em>անդ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 9, <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> 1), <em>առաւել</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 8, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 2), <em>ի</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 691, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 7), <em>իբրեւ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 60, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 7), <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 135, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 9, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 6), <em>ինչ</em> (<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 23, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 4), <em>միայն</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 4, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 2), <em>շատ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>որպէս</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 119, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 2), <em>անդ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 86, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 15, <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> 5), <em>դարձեալ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 59, <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> 4), <em>ի</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 3613, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 49), <em>յոյժ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 34, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 8), <em>աստ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 33, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 5), <em>անտի</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 77, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 29), <em>միայն</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 28, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 9, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 1), <em>ինչ</em> (<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 199, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 28, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 25, <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> 19), <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 987, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 38, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 23)
 
-The 10 most frequent ambiguous types:  <em>եւ</em> (<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 775, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 47), <em>զ</em> (<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 541, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 43, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 10), <em>առաւել</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 8, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 2), <em>ի</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 465, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 7), <em>իբրեւ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 52, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 7), <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 126, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 7, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 3), <em>ինչ</em> (<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 23, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 4), <em>միայն</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 4, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 2), <em>շատ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 1), <em>քան</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4)
+The 10 most frequent ambiguous types:  <em>որպէս</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 110, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 2), <em>անդ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 86, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 15), <em>դարձեալ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 39, <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> 7), <em>ի</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 2372, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 49), <em>յոյժ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 34, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 8), <em>աստ</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 33, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 5), <em>անտի</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 77, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 29), <em>միայն</em> (<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 28, <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 9, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 1), <em>ինչ</em> (<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 199, <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 28, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 25, <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> 1), <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 894, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 34, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 19)
 
 
-* <em>եւ</em>
-  * <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 775: <em><b>եւ</b> խռովեցաւ Զաքարիա իբրեւ ետես . <b>եւ</b> անկաւ ահ ի վերայ նորա :</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 47: <em>Եկին <b>եւ</b> մաքսաւորք մկրտել , եւ ասեն ց նա ՝ վարդապետ ՝ զինչ ՞ գործեսցուք :</em>
-* <em>զ</em>
-  * <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 541: <em>Եւ ասէ Զաքարիա ց հրեշտակ ն ՝ եւ իւ ՞ գիտացից <b>զ</b> այդ ՝</em>
-  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 43: <em>եւ ծանեան վասն բանի ն որ ասացաւ նոցա <b>զ</b> մանկանէ ն :</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 10: <em>Իբրեւ ետես փարիսեցի ն . զարմացաւ զի նախ ոչ մկրտեցաւ յառաջ քան <b>զ</b> ճաշ ն :</em>
-* <em>առաւել</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 8: <em>արդ ասա ՝ ո ՞ <b>առաւել</b> սիրեսցէ զ նա :</em>
-  * <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 2: <em>Ամենայնի որում շատ տուաւ . շատ խնդրեսցի ի նմանէ ՝ եւ որում բազում աւանդեցաւ . <b>առաւել</b> եւս պահանջեսցեն ի նմանէ :</em>
+* <em>որպէս</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 110: <em>Արդ եղերուք դուք կատարեալք , <b>որպէս</b> եւ հայր ն ձեր երկնաւոր կատարեալ է :</em>
+  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 11: <em>եւ բժշկեաց զ նա . <b>որպէս</b> զի համր ն եւ կոյր ն խաւսիցի եւ տեսանիցէ :</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 2: <em>Զի <b>որպէս</b> փայլակն որ ելանէ յ արեւելից ՝ եւ երեւի մինչեւ ի արեւմուտս . այնպէս եղիցի գալուստ ն որդւոյ մարդոյ :</em>
+* <em>անդ</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 86: <em>եւ իբրեւ նստաւ <b>անդ</b> մատեան առ նա աշակերտք ն նորա :</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 15: <em>Զգետնեաց զ նա դեւ ն ի միջի <b>անդ</b> , եւ ել ի նմանէ եւ ինչ ոչ վնասեաց նմա :</em>
+* <em>դարձեալ</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 39: <em>Ասէ ց նա <b>դարձեալ</b> Յիսուս ՝ գրեալ է , թե ոչ փորձեսցես զ Տէր Աստուած քո :</em>
+  * <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> 7: <em>Եւ <b>դարձեալ</b> ի կին ն կողմն ասէ ց Սիմովն ՝ տեսանես ՞ զ այս կին ՝</em>
 * <em>ի</em>
-  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 465: <em>եւ խռովեցաւ Զաքարիա իբրեւ ետես . եւ անկաւ ահ <b>ի</b> վերայ նորա :</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 7: <em>Եւ կատարեալ զ ամենայն փորձութիւն ն սատանայի ՝ <b>ի</b> բաց եկաց ի նմանէ առ ժամանակ մի :</em>
-* <em>իբրեւ</em>
-  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 52: <em>եւ խռովեցաւ Զաքարիա <b>իբրեւ</b> ետես . եւ անկաւ ահ ի վերայ նորա :</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 7: <em>Եկաց Մարիամ առ նմա <b>իբրեւ</b> ամիսս երիս . եւ դարձաւ ի տուն իւր :</em>
-* <em>զի</em>
-  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 126: <em>Եւ ասէ ց նա հրեշտակ ն ՝ մի երկնչիր Մարիամ <b>զի</b> գտեր շնորհս յ Աստուածոյ ՝</em>
-  * <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 7: <em>Եւ երեւեցաւ նմա հրեշտակ Տեառն <b>զի</b> կայր ընդ աջմէ սեղանոյ խնկոց ն :</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 3: <em><b>զի</b> իւրաքանչիւր ծառ ի պտղոյ իւրմէ ճանաչի</em>
-* <em>ինչ</em>
-  * <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 23: <em>Եւ նա ասէ ց նոսա ՝ մի <b>ինչ</b> աւելի քան զ հրամայեալ ն ձեզ առնիցէք :</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 5: <em>Զգետնեաց զ նա դեւ ն ի միջի անդ , եւ ել ի նմանէ եւ <b>ինչ</b> ոչ վնասեաց նմա :</em>
-  * <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 4: <em>Գնաց ի քաղաք ն եւ քարոզէր զ որ <b>ինչ</b> արար նմա Յիսուս :</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 2372: <em>ամենայն ծառ որ ոչ առնիցէ զ պտուղ բարի . հատանի եւ <b>ի</b> հուր արկանի ՝</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 49: <em>Որ <b>ի</b> վերուստ ն գայ . <b>ի</b> վերոյ է քան զ ամենայն ՝</em>
+* <em>յոյժ</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 34: <em>Եւ աղաչեին զ նա <b>յոյժ</b> . զի մի առաքեսցէ զ նոսա արտաքս քան զ աշխարհ ն :</em>
+  * <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 8: <em>Եւ էր խոտ <b>յոյժ</b> ի տեղւոջ ն ՝ եւ բազմեցան մարդիկ ն թուով իբրեւ հինգ հազար :</em>
+* <em>աստ</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 33: <em>եւ չ իցեն քորք ն դորա <b>աստ</b> առ մեզ :</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 5: <em>բայց ասեին թե մի ի տաւնի <b>աստ</b> . զի մի խռովութիւն լինիցի ի ժողովրդեան ն :</em>
+* <em>անտի</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 77: <em>Եւ իբրեւ մկրտեցաւ Յիսուս ել վաղվաղակի ի ջրոյ <b>անտի</b> ՝</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 29: <em>Եւ յետ երկուց աւուրց ել <b>անտի</b> եւ գնաց ի Գաղիղեա :</em>
 * <em>միայն</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4: <em>Իսկ Յիսուս իբրեւ լուաւ . պատասխանի ետ նմա եւ ասէ ՝ մի երկնչիր ՝ <b>միայն</b> հաւատայ . եւ կեցցէ :</em>
-  * <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 4: <em>Եւ բազում բորոտք եին յ Իսրայեղի առ Եղիսեիւ մարգարէիւ . եւ ոչ ոք ի նոցանէ սրբեցաւ . բայց <b>միայն</b> Նեեման Ասորի :</em>
-  * <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 2: <em>Եւ ընդ լինել բարբառոյ ն . գտաւ Յիսուս <b>միայն</b> :</em>
-* <em>շատ</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4: <em>Ամենայնի որում <b>շատ</b> տուաւ . <b>շատ</b> խնդրեսցի ի նմանէ ՝ եւ որում բազում աւանդեցաւ . առաւել եւս պահանջեսցեն ի նմանէ :</em>
-  * <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 1: <em>Ասէ ց նոսա ՝ մի զ ոք խուիցէք ՝ եւ մի զ ոք զրպարտիցէք . <b>շատ</b> լիցին ձեզ թոշակք ն ձեր :</em>
-* <em>քան</em>
-  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 15: <em>Եւ նա ասէ ց նոսա ՝ մի ինչ աւելի <b>քան</b> զ հրամայեալ ն ձեզ առնիցէք :</em>
-  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 4: <em>Բայց Տիւրոսի եւ Սիդովնի ընդարձակագոյն լիցի ի դատաստանի <b>քան</b> ձեզ :</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 28: <em>Եւ եթե տայցէք <b>միայն</b> ողջոյն բարեկամաց ձերոց , զինչ ՞ աւելի առնէք</em>
+  * <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> 12: <em>Եւ իբրեւ ընդ երեկս եղեւ . անդ էր <b>միայն</b> :</em>
+  * <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 9: <em>Եւ յանկարծակի հայեցեալ այսր անդր . ոչ եւս զ ոք ուրեք տեսին բայց <b>միայն</b> զ Յիսուս ընդ իւրեանս :</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 1: <em>Եւ որ արբուսցէ միում ի փոքրկանց յ այսցանէ բաժակ մի ջուր ցուրտ <b>միայն</b> յ անուն աշակերտի . ամէն ասեմ ձեզ ՝ ոչ կորուսցէ զ վարձս իւր :</em>
+* <em>ինչ</em>
+  * <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 199: <em>Հայր սիրէ զ որդի . եւ զ ամենայն <b>ինչ</b> ետ ի ձեռս նորա :</em>
+  * <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> 28: <em>Ասէ ց նա Յիսուս ՝ եթե ոչ նշանս <b>ինչ</b> եւ արուեստս տեսանէք . ոչ հաւատայք :</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 25: <em>Զգետնեաց զ նա դեւ ն ի միջի անդ , եւ ել ի նմանէ եւ <b>ինչ</b> ոչ վնասեաց նմա :</em>
+  * <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> 1: <em>Գայ Մարիամ Մագդաղէնացի եւ պատմէ աշակերտաց ն եթե ետես նա զ Տէր ՝ եւ զ այս <b>ինչ</b> ասաց ց նա :</em>
+* <em>զի</em>
+  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 894: <em>Երանի սգաւորաց , <b>զի</b> նոքա մխիթարեսցին :</em>
+  * <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 34: <em>եւ ահա աղաղակեցին եւ ասեն ՝ <b>զի</b> ՞ կայ մեր եւ քո Յիսուս որդի Աստուածոյ ,</em>
+  * <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 19: <em>Եւ վասն հանդերձի <b>զի</b> ՞ հոգայք</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.960180).
+The form / lemma ratio of `ADV` is 1.020202 (the average of all parts of speech is 2.533817).
 
-The 1st highest number of forms (1) was observed with the lemma “այդպէս”: <em>այդպէս</em>.
+The 1st highest number of forms (2) was observed with the lemma “առանձին”: <em>առանձին, առանձինն</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “այդր”: <em>այդր</em>.
+The 2nd highest number of forms (2) was observed with the lemma “առժամայն”: <em>առժամայն, արժամայն</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “այժմ”: <em>այժմ</em>.
+The 3rd highest number of forms (2) was observed with the lemma “եբրայեցերէն”: <em>եբրաեցերէն, եբրայեցերէն</em>.
 
-`ADV` occurs with 1 features: <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt> (97; 29% instances)
+`ADV` occurs with 2 features: <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt> (686; 30% instances), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt> (329; 14% instances)
 
-`ADV` occurs with 3 feature-value pairs: `PronType=Dem`, `PronType=Int`, `PronType=Rel`
+`ADV` occurs with 6 feature-value pairs: `Deixis=Med`, `Deixis=Prox`, `Deixis=Remt`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`
 
-`ADV` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (243 tokens).
-Examples: <em>եւ, ապա, եւս, արդ, զ, առաւել, ի, իբրեւ, զի, նախ</em>
+`ADV` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (1608 tokens).
+Examples: <em>եւս, ամէն, յայնժամ, արդ, ապա, վաղվաղակի, դարձեալ, ի, առաւել, արտաքս</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 15 different relations: <tt><a href="xcl_caval-dep-advmod.html">advmod</a></tt> (238; 70% instances), <tt><a href="xcl_caval-dep-mark.html">mark</a></tt> (34; 10% instances), <tt><a href="xcl_caval-dep-fixed.html">fixed</a></tt> (18; 5% instances), <tt><a href="xcl_caval-dep-case.html">case</a></tt> (9; 3% instances), <tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt> (8; 2% instances), <tt><a href="xcl_caval-dep-appos.html">appos</a></tt> (6; 2% instances), <tt><a href="xcl_caval-dep-cc.html">cc</a></tt> (6; 2% instances), <tt><a href="xcl_caval-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="xcl_caval-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt> (2; 1% instances), <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="xcl_caval-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="xcl_caval-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 21 different relations: <tt><a href="xcl_caval-dep-advmod.html">advmod</a></tt> (1694; 74% instances), <tt><a href="xcl_caval-dep-mark.html">mark</a></tt> (268; 12% instances), <tt><a href="xcl_caval-dep-root.html">root</a></tt> (56; 2% instances), <tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt> (52; 2% instances), <tt><a href="xcl_caval-dep-conj.html">conj</a></tt> (46; 2% instances), <tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt> (44; 2% instances), <tt><a href="xcl_caval-dep-fixed.html">fixed</a></tt> (36; 2% instances), <tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt> (30; 1% instances), <tt><a href="xcl_caval-dep-compound-redup.html">compound:redup</a></tt> (29; 1% instances), <tt><a href="xcl_caval-dep-acl.html">acl</a></tt> (10; 0% instances), <tt><a href="xcl_caval-dep-case.html">case</a></tt> (6; 0% instances), <tt><a href="xcl_caval-dep-xcomp.html">xcomp</a></tt> (6; 0% instances), <tt><a href="xcl_caval-dep-vocative.html">vocative</a></tt> (5; 0% instances), <tt><a href="xcl_caval-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="xcl_caval-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="xcl_caval-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (229; 67% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (31; 9% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (21; 6% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (20; 6% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (13; 4% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (8; 2% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (4; 1% instances),  (4; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (3; 1% instances)
+Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1730; 75% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (140; 6% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (140; 6% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (119; 5% instances),  (56; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (41; 2% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (12; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt> (1; 0% instances)
 
-282 (83%) `ADV` nodes are leaves.
+1700 (74%) `ADV` nodes are leaves.
 
-40 (12%) `ADV` nodes have one child.
+377 (16%) `ADV` nodes have one child.
 
-3 (1%) `ADV` nodes have two children.
+66 (3%) `ADV` nodes have two children.
 
-15 (4%) `ADV` nodes have three or more children.
+152 (7%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 8.
 
-Children of `ADV` nodes are attached using 17 different relations: <tt><a href="xcl_caval-dep-punct.html">punct</a></tt> (33; 28% instances), <tt><a href="xcl_caval-dep-fixed.html">fixed</a></tt> (14; 12% instances), <tt><a href="xcl_caval-dep-advmod.html">advmod</a></tt> (13; 11% instances), <tt><a href="xcl_caval-dep-cop.html">cop</a></tt> (13; 11% instances), <tt><a href="xcl_caval-dep-cc.html">cc</a></tt> (8; 7% instances), <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt> (6; 5% instances), <tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt> (5; 4% instances), <tt><a href="xcl_caval-dep-discourse.html">discourse</a></tt> (4; 3% instances), <tt><a href="xcl_caval-dep-mark.html">mark</a></tt> (4; 3% instances), <tt><a href="xcl_caval-dep-nmod.html">nmod</a></tt> (4; 3% instances), <tt><a href="xcl_caval-dep-iobj.html">iobj</a></tt> (3; 3% instances), <tt><a href="xcl_caval-dep-obl.html">obl</a></tt> (3; 3% instances), <tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt> (3; 3% instances), <tt><a href="xcl_caval-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="xcl_caval-dep-vocative.html">vocative</a></tt> (1; 1% instances), <tt><a href="xcl_caval-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 28 different relations: <tt><a href="xcl_caval-dep-punct.html">punct</a></tt> (320; 27% instances), <tt><a href="xcl_caval-dep-cop.html">cop</a></tt> (165; 14% instances), <tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt> (109; 9% instances), <tt><a href="xcl_caval-dep-advmod.html">advmod</a></tt> (99; 8% instances), <tt><a href="xcl_caval-dep-cc.html">cc</a></tt> (75; 6% instances), <tt><a href="xcl_caval-dep-fixed.html">fixed</a></tt> (53; 4% instances), <tt><a href="xcl_caval-dep-obl.html">obl</a></tt> (45; 4% instances), <tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt> (44; 4% instances), <tt><a href="xcl_caval-dep-conj.html">conj</a></tt> (43; 4% instances), <tt><a href="xcl_caval-dep-mark.html">mark</a></tt> (42; 4% instances), <tt><a href="xcl_caval-dep-compound-redup.html">compound:redup</a></tt> (29; 2% instances), <tt><a href="xcl_caval-dep-nmod.html">nmod</a></tt> (28; 2% instances), <tt><a href="xcl_caval-dep-det.html">det</a></tt> (24; 2% instances), <tt><a href="xcl_caval-dep-case.html">case</a></tt> (21; 2% instances), <tt><a href="xcl_caval-dep-discourse.html">discourse</a></tt> (19; 2% instances), <tt><a href="xcl_caval-dep-appos.html">appos</a></tt> (14; 1% instances), <tt><a href="xcl_caval-dep-iobj.html">iobj</a></tt> (14; 1% instances), <tt><a href="xcl_caval-dep-acl.html">acl</a></tt> (11; 1% instances), <tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt> (8; 1% instances), <tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt> (8; 1% instances), <tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt> (6; 1% instances), <tt><a href="xcl_caval-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="xcl_caval-dep-vocative.html">vocative</a></tt> (4; 0% instances), <tt><a href="xcl_caval-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="xcl_caval-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="xcl_caval-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="xcl_caval-pos-PUNCT.html">PUNCT</a></tt> (33; 28% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (21; 18% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (13; 11% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (10; 9% instances), <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (9; 8% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (8; 7% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (6; 5% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (4; 3% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 15 different parts of speech: <tt><a href="xcl_caval-pos-PUNCT.html">PUNCT</a></tt> (320; 27% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (169; 14% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (141; 12% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (140; 12% instances), <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (78; 7% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (74; 6% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (58; 5% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (57; 5% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (40; 3% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (34; 3% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (33; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (9; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (4; 0% instances)
 

@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `advcl`: <tt><a href="ht_autogramm-dep
 41 nodes (1%) are attached to their parents as `advcl`.
 
 36 instances of `advcl` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.07317073170732.
+Average distance between parent and child is 7.1219512195122.
 
 The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (27; 66% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> (6; 15% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
@@ -24,8 +24,8 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 14 advcl	color:blue
 1	Desizyon	desizyon	NOUN	_	_	5	nsubj	_	Gloss=décision
-2	sa	sa	DET	_	Number=Sing|PronType=Dem	1	det	_	_
-3	a	a	DET	_	Definite=Def|Number=Sing	1	det	_	_
+2	sa	sa	DET	_	Number=Sing|PronType=Dem	1	det	_	Gloss=cet
+3	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	1	det	_	Gloss=le
 4	te	te	AUX	_	Tense=Past	5	aux	_	Gloss=PAST
 5	pran	pran	VERB	_	_	0	root	_	Gloss=prendre
 6	byen	byen	ADV	_	_	5	advmod	_	Gloss=bien
@@ -33,8 +33,8 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 8	anvan	anvan	ADP	_	_	14	mark	_	Gloss=avant
 9	2	2	NUM	_	_	10	nummod	_	Gloss=2
 10	bank	bank	NOUN	_	_	14	nsubj	_	Gloss=banque
-11	Ameriken	ameriken	ADJ	_	_	10	amod	_	Gloss=américain
-12	yo	yo	DET	_	Definite=Def|Number=Plur	10	det	_	_
+11	Ameriken	Ameriken	ADJ	_	_	10	amod	_	Gloss=américain
+12	yo	yo	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	Gloss=les
 13	te	te	AUX	_	Tense=Past	14	aux	_	Gloss=PAST
 14	fè	fè	VERB	_	_	5	advcl	_	Gloss=faire
 15	fayit	fayit	NOUN	_	_	14	obj	_	Gloss=faillite|SpaceAfter=No
@@ -52,14 +52,14 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Kidonk	kidonk	ADV	_	_	3	advmod	_	Gloss=donc
 2	mwen	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=1SG
 3	kwè	kwè	VERB	_	_	0	root	_	Gloss=croire
-4	sa	sa	PRON	_	Number=Sing|PronType=Dem	12	nsubj	_	_
+4	sa	sa	PRON	_	Number=Sing|PronType=Dem	12	nsubj	_	Gloss=ça
 5	Premye	premye	ADJ	_	_	6	amod	_	Gloss=premier
 6	Minis	minis	NOUN	_	_	8	nsubj	_	Gloss=ministre
 7	Trudeau	Trudeau	PROPN	_	_	6	nmod	_	Gloss=Trudeau
 8	di	di	VERB	_	_	4	acl:relcl	_	Gloss=dire
 9	sou	sou	ADP	_	_	10	case	_	Gloss=sur
 10	koze	koze	NOUN	_	_	8	obl	_	Gloss=affaire
-11	a	a	DET	_	Definite=Def|Number=Sing	10	det	_	_
+11	a	la	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	Gloss=le
 12	fè	fè	VERB	_	_	3	ccomp	_	Gloss=faire
 13	anpil	anpil	ADJ	_	_	12	advcl	_	Gloss=beaucoup
 14	sans	sans	NOUN	_	_	12	obj	_	Gloss=sens|SpaceAfter=No
@@ -77,10 +77,10 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	M	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=1SG
 2	desann	desann	VERB	_	_	0	root	_	Gloss=descendre
 3	bis	bis	NOUN	_	_	2	obl:arg	_	Gloss=bus
-4	la	la	DET	_	Definite=Def|Number=Sing	3	det	_	Gloss=DET
+4	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	Gloss=le
 5	tou	tou	ADV	_	_	6	advmod	_	Gloss=tout
 6	dezole	dezole	ADJ	_	_	2	advcl	_	Gloss=désolé
-7	paske	paske	SCONJ	_	_	11	mark	_	ExtPos=SCONJ|Gloss=parce que
+7	paske	paske	SCONJ	_	_	11	mark	_	Gloss=parce que
 8	m	mwen	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Gloss=1SG
 9	pa	pa	ADV	_	_	11	advmod	_	Gloss=NEG
 10	t	te	AUX	_	Tense=Past	11	aux	_	Gloss=PAST

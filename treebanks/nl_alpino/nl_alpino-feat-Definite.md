@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-21791 tokens (10%) have a non-empty value of `Definite`.
+21790 tokens (10%) have a non-empty value of `Definite`.
 18 types (0%) occur at least once with a non-empty value of `Definite`.
 3 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (21791; 10% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (21790; 10% instances).
 
 ### `DET`
 
-21791 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
+21790 <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (17375; 80% of non-empty `Definite`): <em>de, het, der, 's, 't, des, den, dé</em>
+* `Def` (17374; 80% of non-empty `Definite`): <em>de, het, der, 's, 't, des, den, dé</em>
 * `Ind` (4416; 20% of non-empty `Definite`): <em>een, 'n, en</em>
-* `EMPTY` (3432): <em>welke, deze, geen, dit, die, welk, alle, dat, enkele, veel</em>
+* `EMPTY` (3433): <em>welke, deze, geen, dit, die, welk, alle, dat, enkele, veel</em>
 
 ## Relations with Agreement in `Definite`
 

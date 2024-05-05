@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `NOUN`
 
-There are 4700 `NOUN` lemmas (40%), 10823 `NOUN` types (43%) and 29713 `NOUN` tokens (24%).
+There are 4700 `NOUN` lemmas (40%), 10822 `NOUN` types (43%) and 29713 `NOUN` tokens (24%).
 Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>talde, urte, behar, nahi, partidu, herri, lan, egun, jokalari, gobernu</em>
@@ -54,13 +54,13 @@ The 10 most frequent ambiguous types:  <em>behar</em> (<tt><a href="eu_bdt-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.302766 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `NOUN` is 2.302553 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (29) was observed with the lemma “talde”: <em>Taldez, talde, taldea, taldeak, taldean, taldearekin, taldearen, taldearengan, taldeari, taldeei, taldeek, taldeen, taldeetako, taldeetan, taldeetara, taldeetatik, taldeez, taldek, taldeko, taldekoa, taldekoek, taldeok, taldera, talderako, talderen, talderik, taldetan, taldetik, taldetzat</em>.
 
 The 2nd highest number of forms (29) was observed with the lemma “urte”: <em>urte, urtea, urteak, urtean, urtearekin, urtearen, urteari, urteaz, urteekin, urteen, urteetako, urteetan, urteetarako, urtekin, urteko, urtekoa, urtekoarekin, urtekoekin, urtekoentzat, urteotako, urteotan, urtera, urterako, urterakoa, urterekin, urtetako, urtetan, urtetik, urtez</em>.
 
-The 3rd highest number of forms (22) was observed with the lemma “herri”: <em>Herriako, Herrian, Herrira, herri, herria, herriak, herrian, herriaren, herriari, herriei, herriek, herrien, herrietako, herrietan, herriko, herrikoa, herriotako, herrira, herririk, herritan, herritik, herriz</em>.
+The 3rd highest number of forms (21) was observed with the lemma “alde”: <em>alde, aldea, aldeak, aldean, aldearekin, aldeari, aldeaz, aldeei, aldeek, aldeen, aldeentzat, aldeetako, aldeetan, aldeko, aldekoa, aldekoak, aldera, alderik, aldetatik, aldetik, aldez</em>.
 
 `NOUN` occurs with 6 features: <tt><a href="eu_bdt-feat-Case.html">Case</a></tt> (21509; 72% instances), <tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt> (20577; 69% instances), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt> (17133; 58% instances), <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt> (12622; 42% instances), <tt><a href="eu_bdt-feat-Degree.html">Degree</a></tt> (37; 0% instances), <tt><a href="eu_bdt-feat-Person.html">Person</a></tt> (2; 0% instances)
 

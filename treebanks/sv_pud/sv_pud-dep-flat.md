@@ -25,13 +25,13 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 9 11 flat	color:blue
 1	Hans	hans	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes	4	nmod:poss	4:nmod:poss	_
 2	mer	mycket	ADV	AB|KOM	Degree=Cmp	3	advmod	3:advmod	_
-3	ovanliga	ovanlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	4	amod	4:amod	_
+3	ovanliga	ovanlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	4	amod	4:amod	_
 4	hyllningar	hyllning	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	nsubj	5:nsubj	_
 5	inkluderar	inkludera	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	global	global	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	amod	7:amod	_
 7	ambassadör	ambassadör	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	obj	5:obj	_
 8	för	för	ADP	PP	_	15	case	15:case	_
-9	New	New	ADJ	PM|NOM	Case=Nom	12	compound	12:compound	_
+9	New	New	ADJ	PM|NOM	Degree=Pos|Foreign=Yes	12	compound	12:compound	Lang=en
 10	York	York	PROPN	PM|NOM	Case=Nom	9	flat	9:flat	_
 11	City	City	NOUN	NN|SIN|NOM	Case=Nom|Number=Sing	9	flat	9:flat	_
 12	Health	Health	NOUN	NN|SIN|NOM	Case=Nom|Number=Sing	15	compound	15:compound	_
@@ -59,13 +59,13 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 9 10 flat	color:blue
 1	Hans	hans	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes	4	nmod:poss	4:nmod:poss	_
 2	mer	mycket	ADV	AB|KOM	Degree=Cmp	3	advmod	3:advmod	_
-3	ovanliga	ovanlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	4	amod	4:amod	_
+3	ovanliga	ovanlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	4	amod	4:amod	_
 4	hyllningar	hyllning	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	nsubj	5:nsubj	_
 5	inkluderar	inkludera	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	global	global	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	amod	7:amod	_
 7	ambassadör	ambassadör	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	obj	5:obj	_
 8	för	för	ADP	PP	_	15	case	15:case	_
-9	New	New	ADJ	PM|NOM	Case=Nom	12	compound	12:compound	_
+9	New	New	ADJ	PM|NOM	Degree=Pos|Foreign=Yes	12	compound	12:compound	Lang=en
 10	York	York	PROPN	PM|NOM	Case=Nom	9	flat	9:flat	_
 11	City	City	NOUN	NN|SIN|NOM	Case=Nom|Number=Sing	9	flat	9:flat	_
 12	Health	Health	NOUN	NN|SIN|NOM	Case=Nom|Number=Sing	15	compound	15:compound	_
@@ -111,7 +111,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 18	hon	hon	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	19	nsubj	19:nsubj|20:nsubj	_
 19	försökte	försöka	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	8:advcl:innan	_
 20	göra	göra	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	19	xcomp	19:xcomp	_
-21	samma	samma	DET	DT|UTR/NEU|SIN/PLU|IND	Definite=Ind	22	det	22:det	_
+21	samma	samma	ADJ	DT|UTR/NEU|SIN/PLU|IND	Case=Nom|Definite=Ind|Degree=Pos	22	amod	22:det	_
 22	sak	sak	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	20	obj	20:obj	_
 23	mot	mot	ADP	PP	_	26	case	26:case	_
 24	sin	sin	PRON	PS|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|Poss=Yes	25	nmod:poss	25:nmod:poss	_

@@ -11,12 +11,12 @@ It occurs with 6 different values: `Deg`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
 157 tokens (4%) have a non-empty value of `AdvType`.
 71 types (3%) occur at least once with a non-empty value of `AdvType`.
-59 lemmas (5%) occur at least once with a non-empty value of `AdvType`.
+59 lemmas (4%) occur at least once with a non-empty value of `AdvType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (155; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-155 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (37% of all `ADV` tokens) have a non-empty value of `AdvType`.
+155 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (36% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (147; 95%).
 

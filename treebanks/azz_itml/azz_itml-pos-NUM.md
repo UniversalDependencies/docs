@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="azz_itml-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.380113).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.381087).
 
 The 1st highest number of forms (2) was observed with the lemma “se”: <em>se, setsin</em>.
 

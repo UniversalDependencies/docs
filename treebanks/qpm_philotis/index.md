@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Ritván Karahóǧa, Vivian Stamou, Stella Markantonatou.
 
 Repository: [UD_Pomak-Philotis](https://github.com/UniversalDependencies/UD_Pomak-Philotis)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqpm_philotis214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -79,21 +79,21 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 
 ## Features
 
-[Abbr](qpm_philotis-feat-Abbr.html) – [AdpType](qpm_philotis-feat-AdpType.html) – [Animacy](qpm_philotis-feat-Animacy.html) – [Aspect](qpm_philotis-feat-Aspect.html) – [Case](qpm_philotis-feat-Case.html) – [Definite](qpm_philotis-feat-Definite.html) – [Degree](qpm_philotis-feat-Degree.html) – [Deixis](qpm_philotis-feat-Deixis.html) – [DeixisRef](qpm_philotis-feat-DeixisRef.html) – [Foreign](qpm_philotis-feat-Foreign.html) – [Gender](qpm_philotis-feat-Gender.html) – [Mood](qpm_philotis-feat-Mood.html) – [Number](qpm_philotis-feat-Number.html) – [Number[psor]](qpm_philotis-feat-Number-psor.html) – [NumType](qpm_philotis-feat-NumType.html) – [PartTypeQpm](qpm_philotis-feat-PartTypeQpm.html) – [Person](qpm_philotis-feat-Person.html) – [Polarity](qpm_philotis-feat-Polarity.html) – [Poss](qpm_philotis-feat-Poss.html) – [PronType](qpm_philotis-feat-PronType.html) – [Reflex](qpm_philotis-feat-Reflex.html) – [Tense](qpm_philotis-feat-Tense.html) – [VerbForm](qpm_philotis-feat-VerbForm.html) – [Voice](qpm_philotis-feat-Voice.html)
+[Abbr](qpm_philotis-feat-Abbr.html) – [Animacy](qpm_philotis-feat-Animacy.html) – [Aspect](qpm_philotis-feat-Aspect.html) – [Case](qpm_philotis-feat-Case.html) – [Definite](qpm_philotis-feat-Definite.html) – [Degree](qpm_philotis-feat-Degree.html) – [Deixis](qpm_philotis-feat-Deixis.html) – [DeixisRef](qpm_philotis-feat-DeixisRef.html) – [Foreign](qpm_philotis-feat-Foreign.html) – [Gender](qpm_philotis-feat-Gender.html) – [Mood](qpm_philotis-feat-Mood.html) – [Number](qpm_philotis-feat-Number.html) – [Number[psor]](qpm_philotis-feat-Number-psor.html) – [NumType](qpm_philotis-feat-NumType.html) – [PartTypeQpm](qpm_philotis-feat-PartTypeQpm.html) – [Person](qpm_philotis-feat-Person.html) – [Polarity](qpm_philotis-feat-Polarity.html) – [Poss](qpm_philotis-feat-Poss.html) – [PronType](qpm_philotis-feat-PronType.html) – [Reflex](qpm_philotis-feat-Reflex.html) – [Tense](qpm_philotis-feat-Tense.html) – [VerbForm](qpm_philotis-feat-VerbForm.html) – [Voice](qpm_philotis-feat-Voice.html)
 
 ## Relations
 
-[acl](qpm_philotis-dep-acl.html) – [advcl](qpm_philotis-dep-advcl.html) – [advmod](qpm_philotis-dep-advmod.html) – [amod](qpm_philotis-dep-amod.html) – [aux](qpm_philotis-dep-aux.html) – [case](qpm_philotis-dep-case.html) – [cc](qpm_philotis-dep-cc.html) – [ccomp](qpm_philotis-dep-ccomp.html) – [conj](qpm_philotis-dep-conj.html) – [cop](qpm_philotis-dep-cop.html) – [csubj](qpm_philotis-dep-csubj.html) – [dep](qpm_philotis-dep-dep.html) – [det](qpm_philotis-dep-det.html) – [discourse](qpm_philotis-dep-discourse.html) – [expl](qpm_philotis-dep-expl.html) – [fixed](qpm_philotis-dep-fixed.html) – [flat](qpm_philotis-dep-flat.html) – [iobj](qpm_philotis-dep-iobj.html) – [mark](qpm_philotis-dep-mark.html) – [nmod](qpm_philotis-dep-nmod.html) – [nsubj](qpm_philotis-dep-nsubj.html) – [nummod](qpm_philotis-dep-nummod.html) – [obj](qpm_philotis-dep-obj.html) – [obl](qpm_philotis-dep-obl.html) – [parataxis](qpm_philotis-dep-parataxis.html) – [punct](qpm_philotis-dep-punct.html) – [root](qpm_philotis-dep-root.html) – [vocative](qpm_philotis-dep-vocative.html) – [xcomp](qpm_philotis-dep-xcomp.html)
+[acl](qpm_philotis-dep-acl.html) – [acl:relcl](qpm_philotis-dep-acl-relcl.html) – [advcl](qpm_philotis-dep-advcl.html) – [advmod](qpm_philotis-dep-advmod.html) – [advmod:emph](qpm_philotis-dep-advmod-emph.html) – [amod](qpm_philotis-dep-amod.html) – [appos](qpm_philotis-dep-appos.html) – [aux](qpm_philotis-dep-aux.html) – [aux:pass](qpm_philotis-dep-aux-pass.html) – [aux:q](qpm_philotis-dep-aux-q.html) – [case](qpm_philotis-dep-case.html) – [cc](qpm_philotis-dep-cc.html) – [ccomp](qpm_philotis-dep-ccomp.html) – [compound](qpm_philotis-dep-compound.html) – [compound:redup](qpm_philotis-dep-compound-redup.html) – [conj](qpm_philotis-dep-conj.html) – [csubj](qpm_philotis-dep-csubj.html) – [csubj:pass](qpm_philotis-dep-csubj-pass.html) – [dep](qpm_philotis-dep-dep.html) – [det](qpm_philotis-dep-det.html) – [discourse](qpm_philotis-dep-discourse.html) – [dislocated](qpm_philotis-dep-dislocated.html) – [expl](qpm_philotis-dep-expl.html) – [expl:impers](qpm_philotis-dep-expl-impers.html) – [expl:pv](qpm_philotis-dep-expl-pv.html) – [fixed](qpm_philotis-dep-fixed.html) – [flat](qpm_philotis-dep-flat.html) – [iobj](qpm_philotis-dep-iobj.html) – [mark](qpm_philotis-dep-mark.html) – [nmod](qpm_philotis-dep-nmod.html) – [nmod:tmod](qpm_philotis-dep-nmod-tmod.html) – [nsubj](qpm_philotis-dep-nsubj.html) – [nsubj:pass](qpm_philotis-dep-nsubj-pass.html) – [nummod](qpm_philotis-dep-nummod.html) – [obj](qpm_philotis-dep-obj.html) – [obl](qpm_philotis-dep-obl.html) – [obl:agent](qpm_philotis-dep-obl-agent.html) – [obl:arg](qpm_philotis-dep-obl-arg.html) – [obl:lmod](qpm_philotis-dep-obl-lmod.html) – [obl:tmod](qpm_philotis-dep-obl-tmod.html) – [orphan](qpm_philotis-dep-orphan.html) – [parataxis](qpm_philotis-dep-parataxis.html) – [punct](qpm_philotis-dep-punct.html) – [root](qpm_philotis-dep-root.html) – [vocative](qpm_philotis-dep-vocative.html) – [xcomp](qpm_philotis-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 6350 sentences and 86780 tokens.</li>
+<li>This corpus contains 2250 sentences and 34348 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 11758 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 4461 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -101,7 +101,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 </ul>
 
 <ul>
-<li>This corpus contains 5 types of words that contain both letters and punctuation. Examples: i.d., nacýj-nasám, H., bóržo-bóržo, páta-kǘta</li>
+<li>This corpus contains 9 types of words that contain both letters and punctuation. Examples: 'sæ, 'sǽ, 'tam, nacýj-nasám, 'nózek, 'tám, 'túka, ‘sæ, ‘túzi</li>
 </ul>
 
 <ul>
@@ -117,23 +117,23 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 </ul>
 
 <ul>
-<li>This corpus contains 43 word types tagged as particles (PART): Alé, Aléj, E, Ho, Háir, Hájir, Háne, Namóte, Nel, bilé, dalí, danó, de, dá, ej, já, jéta, li, marí, my, móte, na, namój, namójte, ne, nemó, nemój, netǽ, ni, nimó, ná, néma, ní, nó, nǽ, se, sǽ, ta, te, u, áǧeba, éto, óti</li>
+<li>This corpus contains 46 word types tagged as particles (PART): ', Ah, Alé, Aléj, Drúgoso, Eh, Ej, Ho, Hájir, Húbove, Isé, Jaút, Káksa, Namóte, Nemój, Ná, Pi, Pépel, bilé, da, dalí, danó, dá, gidí, já, li, marí, my, na, namój, namójte, ne, nemó, ni, nimó, néma, ní, nó, nǽ, sǽ, ta, te, Üüüǘf, éto, óti, či</li>
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as pronouns (PRON): Ají, isazí, ja, kaná, kanása, moj, so, síčko, žýjes</li>
+<li>This corpus contains 11 lemmas tagged as pronouns (PRON): Ají, ja, kaná, kanása, kim, kólkoso, moj, so, síčko, ízí, žóna</li>
 </ul>
 
 <ul>
-<li>This corpus contains 35 lemmas tagged as determiners (DET): adín, ažýjes, badín, bir, bu, drug, déno, déso, esvá, her, isakvózen, isazí, isélkus, isézi, kakvóv, kakvóvsa, kač, koj, kutrí, kutrísa, kólko, kólkoso, mlózi, moj, néšto, nǽko, o, samýj, séki, sǽko, vrit, vrítsi, číjje, što, žýjes</li>
+<li>This corpus contains 63 lemmas tagged as determiners (DET): ', (, Nasradín, adín, adýn, altonǧík, ažýjes, badín, bajá, beš, bir, birkáč, bu, cæl, drug, druz, dur, dva, dvomína, déso, edín, her, hič, inézem, isakvózen, isazí, iséekózen, isélkus, itézi, kak, kakví, kakvóv, kakvóvsa, kakvóvsn, kač, kidí, kutrí, kutrísa, kutrý, kólko, kólkoso, magín, mlóze, mlózi, moj, néšto, níkos, nǽko, nǽkvo, o, samýj, síčko, sǽko, sǽkvo, velí, vrit, vritsǽm, vrítsi, vur, ájni, číjje, što, žýjes</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: isazí, moj, žýjes</li>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: kólkoso, moj, síčko</li>
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): býdom, da, som, še, šom, štom</li>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): býdom, da, li, som, še, šom</li>
 </ul>
 
 <ul>
@@ -146,7 +146,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: smǿva, glǿdava, gorǿva, daržóva, fýrkava, rǘkava, spóva, varvǿva, zaklǘčeva, čákava</li>
+    <li>VERB: glǿdava</li>
   </ul>
   </li>
 </ul>
@@ -154,8 +154,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: je, so, si, som, sa, jo, sme, ste, be, béšo</li>
-    <li>VERB: víka, íma, trǽbava, móža, hódi, právi, fáti, íde, stánava, íšte</li>
+    <li>AUX: je, so, si, som, sa, jo, be, sme, ste, béšo</li>
+    <li>VERB: víka, trǽbava, móža, íma, hódi, právi, dam, fáti, vídi, stánava</li>
   </ul>
   </li>
 </ul>
@@ -163,8 +163,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: by, bu</li>
-    <li>VERB: je, pi, vidé, plaká, čúdi, kazá, bra, dumí, hadí, kazavá</li>
+    <li>VERB: plaká, vidé, bra, dumí, igrá, je, kazavá, kazá, praví, právi</li>
   </ul>
   </li>
 </ul>
@@ -172,8 +171,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Part
   <ul>
-    <li>AUX: bul, byl, býla, búlo, býlo, búla, býly, bil, býli, búli</li>
-    <li>VERB: reklól, reklála, zøl, atišlól, imǽlo, imǽl, papýtal, vídel, zǿla, dal</li>
+    <li>AUX: bul, byl, búlo, býlo, búla, býla, búli, býli, býly, bil</li>
+    <li>VERB: reklól, zøl, reklála, atišlól, vídel, stánal, zǿla, imǽl, imǽlo, tórnal</li>
   </ul>
   </li>
 </ul>
@@ -188,14 +187,14 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: starána, cǽlo, gulǽma, gulǽmo, górnono, Pomácka, hubavá, čárckono, altóneny, húbavo</li>
-      <li>AUX-Part: býla, búla, býly, bíla, búly, bylá, bulá</li>
-      <li>DET: annó, anná, ennó, žýne, žána, isózi, kakvó, drúgono, drúgy, isázi</li>
-      <li>NOUN: godíny, májka, kóštono, rábato, vódo, rábaty, žanána, rábata, momána, parý</li>
-      <li>NUM: annó, anná, ennó, enná, annána, anníčka, annój, annóno, annóso</li>
-      <li>PRON: jé, tja, ji, jí, týje, hi, jo, to, te, ja</li>
-      <li>PROPN: Aminǽ, Galínka, Ǧemilǽ, Hilmijá, Kavála, Mára, Srǽdo, Jurké, Melihá, Máro</li>
-      <li>VERB-Part: reklála, zǿla, atišlála, vídela, stánala, reklá, papýtala, dála, tórnala, ískala</li>
+      <li>ADJ: gulǽma, cǽlo, gladná, gulǽmo, starána, altóneny, górnono, míčko, altóneno, bǽly</li>
+      <li>AUX-Part: búla, býla, býly, búly, bíla, bílu</li>
+      <li>DET: annó, anná, žýne, ennó, isózi, drúgy, kakvó, isázi, drúgono, enná</li>
+      <li>NOUN: godíny, májka, kóštono, rábato, vódo, goróno, žóno, astinomíjena, rábaty, rábata</li>
+      <li>NUM: annó, ennó, anná, anníčka, enná</li>
+      <li>PRON: jé, tja, jí, ji, týje, hi, jo, te, to, tæ</li>
+      <li>PROPN: Aminǽ, Srǽdo, Sóboto, Ǧemilǽ, Kavála, Dráma, Hilmijá, Mára, Máro, Galínka</li>
+      <li>VERB-Part: reklála, zǿla, vídela, atišlála, stánala, tórnala, imǽla, stórila, dála, kázala</li>
     </ul>
   </li>
 </ul>
@@ -203,14 +202,14 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: stáryjen, cǽla, mládyjen, gulǽma, míčkyjen, gulǽmyjen, húbava, móske, čárckyjen, gulǽm</li>
-      <li>AUX-Part: bul, byl, bil, búli, býli, bíli, búly</li>
-      <li>DET: annók, adín, kutrí, žýjen, vrítsi, žíne, žókne, ennók, badín, edín</li>
-      <li>NOUN: déne, čulǽkon, čulǽk, čulǽka, bubájko, vakýt, pláden, bubájka, dǽdo, brat</li>
-      <li>NUM: annók, dva, dvamínana, dvamína, dvomínana, trimínana, dvomína, ennók, trimína, adín</li>
-      <li>PRON: go, mú, toj, mu, tóga, tíje, tæh, mo, to, tómu</li>
-      <li>PROPN: Isén, Alí, Nasradín, Panedélnik, Ají, Asán, Jerím, Orhán, Asíp, Enés</li>
-      <li>VERB-Part: reklól, zøl, atišlól, imǽl, papýtal, vídel, dal, advórnal, tórnal, stánal</li>
+      <li>ADJ: stáryjen, cǽla, móske, mládyjen, gulǽma, húbava, míčkyjen, stári, stárine, čárckyjen</li>
+      <li>AUX-Part: bul, byl, búli, býli, bil, bíli</li>
+      <li>DET: annók, adín, kutrí, žýjen, žíne, vrítsi, žókne, kotrí, drúgyjen, edín</li>
+      <li>NOUN: déne, čulǽkon, čulǽka, bubájko, hašíše, pláden, vakýt, mesecáte, véčera, pótene</li>
+      <li>NUM: annók, dvamínana, dva, dvamína, dvomínana, trimínana, ennók, trimína, adínyjen, dvána</li>
+      <li>PRON: go, mú, toj, mu, tóga, tíje, tæh, mo, tómu, to</li>
+      <li>PROPN: Alí, Ají, Isén, Asíp, Panedélnik, Jerím, Tórnik, Nasradín, Orhán, Azraíl</li>
+      <li>VERB-Part: reklól, zøl, atišlól, vídel, stánal, imǽl, tórnal, zǿli, advórnal, rekól</li>
     </ul>
   </li>
 </ul>
@@ -218,15 +217,14 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: Pomácko, kámatno, parátiko, altónenono, húbavo, míčko, lóšo, cǽlo, právo, gulǽmo</li>
-      <li>AUX-Part: búlo, býlo, býly, búly, buló, bílo, bílu</li>
-      <li>DET: annó, inazí, drúgo, ennó, isazí, kakvó, itazí, žóno, žýne, drúgono</li>
-      <li>NOUN: kópeløno, vréme, mómičeno, mǽsto, mómiče, sélo, sélono, vratána, píle, magáreno</li>
-      <li>NUM: annó, annóno, annóto, dvémne, annómune, ennó, ennóto, jennó</li>
-      <li>PRON: go, to, mu, mú, gu, mo, tómu, mó</li>
-      <li>PROPN: Kélčeno, Nedéle, Kélčetune, Iskéče, Pašavík, Basájkovo, Lýǧeno, Siníkovo, Bratánkovo, Bunár</li>
-      <li>VERB: imǽlo, stánalo, skrýto, reklólo, zǿlo, atišlólo, dašlólo, advórnalo, tórnalo, láhalo</li>
-      <li>VERB-Part: imǽlo, stánalo, skrýto, reklólo, zǿlo, atišlólo, dašlólo, advórnalo, tórnalo, láhalo</li>
+      <li>ADJ: kámatno, Pomácko, právo, húbavo, lóšo, míčko, altóneno, cǽlo, kámatnono, parátiko</li>
+      <li>AUX-Part: búlo, býlo, bílo</li>
+      <li>DET: annó, inazí, drúgo, ennó, žóno, žýne, drúgono, isazí, inakvóne, itazí</li>
+      <li>NOUN: vréme, kópeløno, mómičeno, sélo, mómiče, mǽsto, sélono, kúčeno, evró, déte</li>
+      <li>NUM: annó, annómune, annóto, drúgono, ennóto, jennó</li>
+      <li>PRON: go, to, mu, mú, gu, mo, tómu, žóno</li>
+      <li>PROPN: Kélčeno, Kélčetune, Nedéle, Pašavík, Jasǿren, Mustáfčevo, Basájkovo, Bunár, Démirǧik, Gøkčé</li>
+      <li>VERB-Part: imǽlo, stánalo, reklólo, skrýto, zǿlo, vídelo, atišlólo, dašlólo, dálo, paminólo</li>
     </ul>
   </li>
 </ul>
@@ -238,12 +236,12 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Hum
     <ul>
-      <li>ADJ: móske, stárine, stári, stárehne, jódrine, mládi, mládine, móski, húbavi, zdrávi</li>
+      <li>ADJ: móske, stári, stárine, bólni, góli, móski, gulǽmehne, húbavi, mládi, Basájkovlæne</li>
       <li>AUX-Part: búli, býli, bíli</li>
-      <li>DET: vrítsi, žíne, drúzine, kutróga, vritsǽh, mlózi, žǽhne, vritsǽm, annóga, kakví</li>
-      <li>NUM: dvamínana, dvamína, dvomínana, trimínana, dvomína, trimína, dvomínehne, čétrimina, dvomínata, trimínasa</li>
+      <li>DET: žíne, vrítsi, mlózi, vritsǽh, žǽhne, drúzine, vritsǽm, kutróga, kakvǽh, drúgine</li>
+      <li>NUM: dvamínana, dvomínana, dvamína, trimínana, trimína, dvomína, trimínata, čétrimina, annóga, dvamínem</li>
       <li>PRON: tíje, tæh</li>
-      <li>VERB-Part: zǿli, našlíli, imǽli, reklíli, tórnali, varvǽli, žyváli, vídeli, fátili, atišlíli</li>
+      <li>VERB-Part: zǿli, našlíli, fátili, imǽli, reklíli, vídeli, ískali, atišlí, atišlíli, dáli</li>
     </ul>
   </li>
 </ul>
@@ -251,11 +249,10 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Nhum
     <ul>
-      <li>ADJ: skópy, visóky, čúzdy, altóneny, gulǽmy, húbavy, kámatny, míčky, vóstryne, čórny</li>
-      <li>AUX-Part: búly</li>
-      <li>DET: drúgy, žýne, inéj, drúgyne, kakvý, inézi, samý, Inakvýne, ajnés, anný</li>
-      <li>PRON: to, žýte</li>
-      <li>VERB-Part: zǿly, izlǽly, vlǽly, zatvóreny, atfóreny, fprǽly, pasrǿšnaly, Brajényne, Fpúlily, Narýpily</li>
+      <li>ADJ: kámatny, čúzdy, dívyne, gládny, golǽmyne, gulǽmy, húbavy, míčky, nóvy, parčé</li>
+      <li>DET: drúgy, žýne, drúgyne, Kakvý, ajnés, dvomína, inéj, mlóze</li>
+      <li>PRON: to</li>
+      <li>VERB-Part: izlǽly, zǿly, Vlǽly, atfóreny, pasrǿšnaly, zatvóreny, artósaly, dádeny, fajdalý, izgorǽly</li>
     </ul>
   </li>
 </ul>
@@ -267,7 +264,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Coll
     <ul>
-      <li>NOUN: brátje, dečjána, lǘdje, kámeņe, ǧíņeno, cvetjé, dečjá, brátjeno, cvetjéno, kámeņeno</li>
+      <li>NOUN: brátje, dečjána, cvetjé, dečjá, kámeņe, lǘdje, ǧíņeno, cvetjéno, kóreņe, Duvárjeno</li>
     </ul>
   </li>
 </ul>
@@ -275,8 +272,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Count
     <ul>
-      <li>ADJ: húbava, mláda</li>
-      <li>NOUN: déne, hóreha, matóra, méseca, tumafíle, vríse, arkadáše, telifóna, véčera, avéna</li>
+      <li>ADJ: mláda</li>
+      <li>NOUN: déne, arkadáše, méseca, tumafíle, véčera, ergáte, fránka, gr, hajvánka, hóreha</li>
     </ul>
   </li>
 </ul>
@@ -284,17 +281,18 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: móske, húbavy, altóneny, míčky, stárine, čórny, gulǽmy, kámatny, stári, Pomáci</li>
-      <li>AUX-Fin: so, sa, sme, ste, bého, šte, béhte</li>
-      <li>AUX-Part: býly, býli, búli, búly, bíli</li>
-      <li>DET: vrítsi, žýne, žíne, drúgy, inéj, inézi, drúzine, isézi, kakvý, vritsǽh</li>
-      <li>NOUN: godíny, rábaty, parý, líry, vratána, insána, insán, déti, ačíne, insánon</li>
-      <li>NUM: tri, dve, dva, dvamínana, dvéne, dvamína, kyrk, beš, dvomínana, on</li>
-      <li>PART: Namóte, namójte, móte</li>
-      <li>PRON: gi, mí, tíje, tæh, to, mi, nýje, nú, vú, výje</li>
-      <li>PROPN: Kóšte, Nedéleta, Sápes</li>
-      <li>VERB-Fin: víkot, právet, ídot, hódet, ímot, jedót, fátiho, umǿt, stóret, zavót</li>
-      <li>VERB-Part: zǿli, našlíli, imǽli, reklíli, tórnali, varvǽli, žyváli, vídeli, fátili, zǿly</li>
+      <li>ADJ: móske, altóneny, húbavy, stári, stárine, bǽly, stáryte, visóky, bólni, gládny</li>
+      <li>AUX: so, sa, sme, ste, búli, býli, býly, búly, bého, bíli</li>
+      <li>AUX-Fin: so, sa, sme, ste, bého</li>
+      <li>AUX-Part: búli, býli, býly, búly, bíli</li>
+      <li>DET: žíne, žýne, vrítsi, drúgy, mlózi, inézi, vritsǽh, drúgyne, isézi, žǽhne</li>
+      <li>NOUN: godíny, rábaty, insán, líry, ačíne, parý, insána, insánon, kišǽh, drípy</li>
+      <li>NUM: tri, dve, dvamínana, dva, jedí, dvéne, kyrk, 6, dvamína, dvomínana</li>
+      <li>PART: Namóte</li>
+      <li>PRON: gi, mí, tíje, nýje, tæh, mi, to, nú, vú, námi</li>
+      <li>PROPN: Nedéleta</li>
+      <li>VERB-Fin: ídot, víkot, právet, vídet, umǿt, jedót, stóret, ímot, fátiho, hódet</li>
+      <li>VERB-Part: zǿli, našlíli, fátili, imǽli, reklíli, vídeli, ískali, atišlí, zǿly, atišlíli</li>
     </ul>
   </li>
 </ul>
@@ -302,18 +300,19 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: stáryjen, cǽla, gulǽma, cǽlo, mládyjen, kámatno, gulǽmo, starána, húbavo, míčkyjen</li>
-      <li>AUX-Fin: je, si, som, jo, be, béšo, še, ja, sa, sam</li>
-      <li>AUX-Part: bul, byl, býla, búlo, býlo, búla, bil, bíla, bylá, bulá</li>
-      <li>DET: annó, annók, adín, inazí, bir, kutrí, ennó, žýjen, anná, drúgo</li>
-      <li>NOUN: déne, májka, kóštono, čulǽkon, rábato, kópeløno, vódo, vréme, mómičeno, čulǽk</li>
-      <li>NUM: annó, annók, ennók, 1, adín, anná, ennó, annóno, adínyjen, annókne</li>
-      <li>PART: namój, nemój, nimó, nemó</li>
-      <li>PRON: go, mú, jé, toj, mu, mí, tja, ja, tí, ty</li>
-      <li>PROPN: Ksánti, Elláda, Ǧumágün, Aminǽ, Komotiní, Isén, Nasradín, Galínka, Panedélnik, Ǧemilǽ</li>
-      <li>VERB: víka, reklól, íma, trǽbava, móža, reklála, hódi, právi, zøl, atišlól</li>
-      <li>VERB-Fin: víka, íma, trǽbava, móža, hódi, právi, fáti, íde, stánava, íšte</li>
-      <li>VERB-Part: reklól, reklála, zøl, atišlól, imǽlo, imǽl, papýtal, vídel, zǿla, dal</li>
+      <li>ADJ: stáryjen, cǽla, gulǽma, cǽlo, kámatno, húbavo, mládyjen, míčko, húbava, altóneno</li>
+      <li>AUX: je, si, som, bul, byl, búlo, býlo, jo, be, búla</li>
+      <li>AUX-Fin: je, si, som, jo, be, béšo, sa, še, e, ja</li>
+      <li>AUX-Part: bul, byl, búlo, býlo, búla, býla, bil, bíla, bílo, bílu</li>
+      <li>DET: annó, annók, inazí, adín, bir, kutrí, žýjen, ennó, anná, kakvó</li>
+      <li>NOUN: déne, májka, čulǽkon, kóštono, vréme, rábato, vódo, čulǽka, bubájko, kópeløno</li>
+      <li>NUM: annó, annók, ennók, ennó, adínyjen, adín, jedín, 1, 1.324, anná</li>
+      <li>PART: namój, nimó, Namóte, Nemój, namójte, nemó</li>
+      <li>PRON: go, mú, jé, toj, mu, mí, tja, ja, tí, jí</li>
+      <li>PROPN: Ksánti, Elláda, Ǧumágün, Aminǽ, Srǽdo, Isén, Ǧemilǽ, Aleksandrúpoli, Asíp, Panedélnik</li>
+      <li>VERB: víka, reklól, trǽbava, móža, íma, hódi, zøl, právi, reklála, dam</li>
+      <li>VERB-Fin: víka, trǽbava, móža, íma, hódi, právi, dam, fáti, vídi, stánava</li>
+      <li>VERB-Part: reklól, zøl, reklála, atišlól, vídel, stánal, zǿla, imǽl, imǽlo, tórnal</li>
     </ul>
   </li>
 </ul>
@@ -325,13 +324,13 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: cǽla, cǽlo, gulǽma, gulǽmo, Pomácko, húbava, húbavo, kámatno, móske, górnono</li>
-      <li>DET: annó, annók, ennó, inazí, drúgo, žýne, drúgy, žókne, ennók, kakvó</li>
-      <li>NOUN: déne, godíny, kóštono, rábato, vódo, čulǽka, vréme, mǽsto, rábaty, vakýt</li>
-      <li>NUM: annó, annók, dvamína, ennók, dvamínana, dvomínehne, trimína, ennó, annókne, annóno</li>
-      <li>PRON: só, go, jé, gi, mó, sa, tó, tóga, to, móne</li>
-      <li>PROPN: Ksánti, Elláda, Ǧumágün, Komotiní, Panedélnik, Kavála, Srǽdo, Siría, Tórnik, Nedéle</li>
-      <li>VERB-Part: skrýto, platéno, umrǽta, atvóreny, nagadéno, spúšanokne, spúšanono, ukrádena, umrǽtokne, astávena</li>
+      <li>ADJ: cǽla, cǽlo, móske, gulǽma, húbava, húbavo, míčko, Pomácko, gulǽmo, kámatno</li>
+      <li>DET: annó, annók, ennó, žýne, drúgy, inazí, žókne, drúgo, ennók, isózi</li>
+      <li>NOUN: godíny, déne, kóštono, rábato, vódo, čulǽka, goróno, hašíše, pláden, vréme</li>
+      <li>NUM: annó, annók, dvamína, ennók, dvamínana, trimína, ennó, annógate, annókne, annóto</li>
+      <li>PRON: só, go, jé, gi, sa, mó, tóga, móne, tó, tæh</li>
+      <li>PROPN: Ksánti, Elláda, Ǧumágün, Srǽdo, Aleksandrúpoli, Panedélnik, Sóboto, Kavála, Néa, Siría</li>
+      <li>VERB-Part: skrýto, platéno, kendísany, spúšanokne, ukrádena, umaréno, umrǽtokne, zǿte, adbávena, apléskano</li>
     </ul>
   </li>
 </ul>
@@ -339,13 +338,13 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: stárumune, mládumune, míčkumune, stároj, stáru, čúdnune, žývumune, Evréjinu, Evréjinune, Karakačéninune</li>
-      <li>DET: vritsǽm, annómu, drúgumune, kutrómu, žómune, inózimu, žǽmne, druzǽmne, annój, bannómu</li>
-      <li>NOUN: bubájku, žanójne, kópeløtune, májci, čulǽkune, synúne, vasiļázune, brátu, momójne, čárüne</li>
-      <li>NUM: dvémne, annój, annómune, dvamínem, dvomínemne, trimínemne, trímne</li>
-      <li>PRON: sí, mú, mí, mu, tí, ji, jí, mi, ti, hi</li>
-      <li>PROPN: Kélčetune, Melihí, Mári, Isénu, Nasradínu, Ajší, Asánu, Asíp, Azraílu, Galínki</li>
-      <li>VERB-Part: davédenu, pǽtumune, skrýtumune, umrétune, zbrátem, šaštísanune</li>
+      <li>ADJ: míčkumune, stároj, stárumune, Evréjinu, Momójne, Pomáčinu, Pílevomne, altónenune, jódremne, lóšomne</li>
+      <li>DET: kutrómu, žómune, annój, Katrómu, annómu, drúgumune, vritsǽm, bannómu, drúgune, inózimu</li>
+      <li>NOUN: májci, bubájku, kópeløtune, žanójne, brátu, mómičotu, vasiļázune, momójne, synúne, čárüne</li>
+      <li>NUM: annómune, dvamínem</li>
+      <li>PRON: sí, mú, mí, mu, tí, jí, ji, mi, ti, hi</li>
+      <li>PROPN: Kélčetune, Azraílu, Mustafú, Nasradínu</li>
+      <li>VERB-Part: davédenu</li>
     </ul>
   </li>
 </ul>
@@ -353,14 +352,13 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: stáryjen, mládyjen, starána, míčkyjen, gulǽmyjen, gulǽma, čárckyjen, gulǽm, star, Pomácka</li>
-      <li>DET: adín, kutrí, žýjen, inazí, vrítsi, anná, žíne, badín, kotrí, annó</li>
-      <li>NOUN: májka, čulǽkon, čulǽk, kópeløno, bubájko, žanána, mómičeno, momána, rábata, astinomíjena</li>
-      <li>NUM: dvomínana, dvamínana, trimínana, dvomína, adín, anná, trimína, annó, adínyjen, dvomínata</li>
-      <li>PRON: toj, tja, ja, ty, to, tíje, nýje, výje, teh, je</li>
-      <li>PROPN: Aminǽ, Isén, Alí, Galínka, Nasradín, Hilmijá, Kélčeno, Ǧemilǽ, Ají, Mára</li>
-      <li>VERB: naučéna, naučény, pǽtyjen, zarýtyjen, začúden, pǽti, zaglavény, zatvóren, začúdeni, kápnati</li>
-      <li>VERB-Part: naučéna, naučény, pǽtyjen, zarýtyjen, začúden, pǽti, zaglavény, zatvóren, začúdeni, kápnati</li>
+      <li>ADJ: stáryjen, gulǽma, mládyjen, gladná, míčkyjen, starána, stárine, čárckyjen, gulǽm, gulǽmyjen</li>
+      <li>DET: adín, kutrí, žýjen, inazí, žíne, anná, vrítsi, kotrí, drúgyjen, mlózi</li>
+      <li>NOUN: májka, čulǽkon, bubájko, astinomíjena, mómičeno, rábata, žanána, kópeløno, čulǽk, insán</li>
+      <li>NUM: dvamínana, dvomínana, trimínana, annó, adínyjen, adín, trimínata, anná, anníčka, annóga</li>
+      <li>PRON: toj, tja, ja, ty, to, tíje, nýje, výje, te, teh</li>
+      <li>PROPN: Aminǽ, Kélčeno, Isén, Ǧemilǽ, Ají, Alí, Hilmijá, Jerím, Nasradín, Orhán</li>
+      <li>VERB-Part: naučény, zatvóren, naučéna, ispísana, kápnati, nadút, pæt, pǽti, ugradéna, umrǽt</li>
     </ul>
   </li>
 </ul>
@@ -368,10 +366,9 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: májčin, bábino, májčino, alláhovo, kámatny, mílu, míčko, stárku, červéno</li>
-      <li>DET: móje, nášo</li>
-      <li>NOUN: sýne, dǽdo, ma, bubá, bábo, pópe, báte, dóšterø, čárü, žóno</li>
-      <li>PROPN: Kíme, Jaút, Aminǽ, Pétre, Ahmét, Hamdí, Hasán, Mustufá, BABU, Hóǧa</li>
+      <li>ADJ: májčin, stárku, červéno</li>
+      <li>NOUN: sýne, ma, báte, dǽdo, bubá, brátu, májo, pópe, čárü, brátku</li>
+      <li>PROPN: Aminǽ, Kíme, Mustufá, BABU, Hamdí, Hasán, Hóǧa, Jaút, Jerím, Márta</li>
     </ul>
   </li>
 </ul>
@@ -384,14 +381,13 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: stáryjen, mládyjen, starána, míčkyjen, gulǽmyjen, čárckyjen, altónenono, górnono, stárine, üčünǧǘno</li>
-      <li>DET: žýjen, žýne, žíne, žókne, drúgono, drúgokne, žóno, žána, drúgyjen, annóno</li>
-      <li>NOUN: kóštono, čulǽkon, kópeløno, mómičeno, žanána, momána, astinomíjena, goróno, kópelon, mečkána</li>
-      <li>NUM: dvamínana, dvéne, dvomínana, tríne, trimínana, dvána, dvomínehne, annóno, adínyjen, annókne</li>
-      <li>PRON: síčkono, síčkoso, síčkona, síčkoto, žýte</li>
-      <li>PROPN: Kélčeno, Kélčetune, Lýǧeno, Próniano, OGOno, Balkánase, Dólneno, Edrelézene, Epimelitírioso, Hóǧana</li>
-      <li>VERB: pǽtyjen, zarýtyjen, davédenono, spúšanokne, spúšanono, umrǽtokne, šlévenata, mésenono, primázanono, skrýtono</li>
-      <li>VERB-Part: pǽtyjen, zarýtyjen, davédenono, spúšanokne, spúšanono, umrǽtokne, šlévenata, mésenono, primázanono, skrýtono</li>
+      <li>ADJ: stáryjen, mládyjen, míčkyjen, starána, górnono, stárine, čárckyjen, gulǽmyjen, míčkokne, stárono</li>
+      <li>DET: žýjen, žíne, žýne, žókne, žóno, drúgyjen, drúgono, drúganek, annóno, drúgokne</li>
+      <li>NOUN: čulǽkon, kóštono, kópeløno, mómičeno, goróno, astinomíjena, žanána, mesecáte, pótene, momána</li>
+      <li>NUM: dvamínana, dvéne, dvomínana, trimínana, tríne, dvána, adínyjen, trimínata, 38no, 4no</li>
+      <li>PRON: síčkono, síčkoto, síčkona, síčkoso</li>
+      <li>PROPN: Kélčeno, Kélčetune, Balkánase, KEPno, Lýǧeno</li>
+      <li>VERB-Part: spúšanokne, umrǽtokne, abijískavanata, apítana, atfórenyne, atékanokne, davédenono, izšlévenata, mésenono, navartǽtana</li>
     </ul>
   </li>
 </ul>
@@ -399,13 +395,13 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: mlógo, razý, cǽla, gulǽma, málko, cǽlo, ájni, bajá, mlógu, mífko</li>
-      <li>DET: annó, annók, adín, bir, ennó, anná, drúgo, drúgy, ennók, edín</li>
-      <li>NOUN: déne, godíny, májka, rábato, vódo, vréme, čulǽk, čulǽka, bubájko, vakýt</li>
-      <li>NUM: annó, tri, annók, dve, dva, dvamína, kyrk, beš, on, 6</li>
-      <li>PRON: síčko, mu, hi, mo, ti</li>
-      <li>PROPN: Ksánti, Elláda, Ǧumágün, Aminǽ, Komotiní, Isén, Nasradín, Galínka, Panedélnik, Hilmijá</li>
-      <li>VERB-Part: skrýto, naučéna, umrǽta, naučény, začúden, platéno, pǽti, umaréno, zaglavény, zatvóren</li>
+      <li>ADJ: mlógo, razý, cǽla, gulǽma, málko, ájni, mlógu, cǽlo, kámatno, mífko</li>
+      <li>DET: annó, annók, adín, bir, ennó, anná, drúgy, drúgo, edín, ennók</li>
+      <li>NOUN: godíny, déne, májka, vréme, rábato, vódo, čulǽka, bubájko, hašíše, pláden</li>
+      <li>NUM: annó, tri, dve, annók, dva, jedí, kyrk, 6, dvamína, 10</li>
+      <li>PRON: síčko, žóno</li>
+      <li>PROPN: Ksánti, Elláda, Ǧumágün, Aminǽ, Srǽdo, Isén, Aleksandrúpoli, Asíp, Panedélnik, Sóboto</li>
+      <li>VERB-Part: skrýto, naučény, zatvóren, naučéna, platéno, ukrádena, atfóreny, ispísana, kendísany, kápnati</li>
     </ul>
   </li>
 </ul>
@@ -420,9 +416,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Aug
     <ul>
-      <li>ADJ: kámatnišičky, nývvišičko, pýlniček</li>
-      <li>NOUN: kupníšte, kámenište, račíštana, ustǽkyne</li>
-      <li>PROPN: Sélište</li>
+      <li>ADJ: pýlniček</li>
+      <li>PROPN: Apátkava, Basájkovo</li>
     </ul>
   </li>
 </ul>
@@ -431,7 +426,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
   <li>Cmp
     <ul>
       <li>ADJ: húbavo</li>
-      <li>ADV: pó</li>
+      <li>ADV: pó, sǽ</li>
     </ul>
   </li>
 </ul>
@@ -439,13 +434,12 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Dim
     <ul>
-      <li>ADJ: mǿčko, zelénko, stárku, sámsamiček</li>
-      <li>ADV: bórško, usulétanka, húbefce, Usúlanka, annínkuš, mífčinko</li>
-      <li>DET: samíček, samíčko, anníčko, kólčko, samíčka</li>
-      <li>NOUN: bábičkana, kópelčeno, kótenceno, kúčenceno, kámenkane, kópelče, kutújkono, avenčóno, žábinkana, barčínkono</li>
-      <li>NUM: anníček, anníčka, trínky</li>
-      <li>PROPN: Galínka, Pepelívka, Galínki, Métka, Pepelívkana, Pepelívkoj</li>
-      <li>VERB-Part: navítky</li>
+      <li>ADJ: kámatnišičky, mǿčko, stárku</li>
+      <li>ADV: usulétanka, annínkuš, bórško, mífčinko</li>
+      <li>DET: samíček, samíčko</li>
+      <li>NOUN: bábičkana, kótenceno, kópelčeno, kópelče, kámenkane, kúčenceno, žábinkana, kutújko, bábička, kutújkono</li>
+      <li>NUM: anníčka, trínky</li>
+      <li>PROPN: Galínka, Pepelívka</li>
     </ul>
   </li>
 </ul>
@@ -465,9 +459,9 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Neg
     <ul>
-      <li>PART: ne, na, néma, namój, ni, nemój, Namóte, namójte, Háir, Hájir</li>
-      <li>VERB-Fin: néma, némom, némot, némaš, razbudáj, ništé, némame, davájte, ništóm, neméša</li>
-      <li>VERB-Part: nemǽlo</li>
+      <li>PART: ne, na, néma, namój, ni, Hájir, Húbove, Isé, Káksa, Namóte</li>
+      <li>VERB: néma, némame, némot, némaš, némom, Nišóm, davájte, gledáj, hvalíjte, klaj</li>
+      <li>VERB-Fin: néma, némame, némot, némaš, némom, Nišóm, davájte, gledáj, hvalíjte, klaj</li>
     </ul>
   </li>
 </ul>
@@ -483,11 +477,12 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: je, so, si, som, sa, jo, sme, ste, be, bého</li>
-      <li>VERB-Conv: smǿva, glǿdava, gorǿva, daržóva, fýrkava, rǘkava, spóva, varvǿva, zaklǘčeva, čákava</li>
-      <li>VERB-Fin: víka, íma, trǽbava, móža, hódi, právi, stánava, íšte, néma, zíma</li>
-      <li>VERB-Inf: je, pi, plaká, čúdi, bra, dumí, hadí, kazavá, praví, spa</li>
-      <li>VERB-Part: imǽlo, imǽl, mógal, imǽli, ískal, varvǽli, čákal, žyváli, móčil, hódil</li>
+      <li>AUX-Fin: je, so, si, som, sa, jo, be, sme, ste, bého</li>
+      <li>VERB: víka, trǽbava, móža, íma, hódi, právi, stánava, íšte, imǽl, imǽlo</li>
+      <li>VERB-Conv: glǿdava</li>
+      <li>VERB-Fin: víka, trǽbava, móža, íma, hódi, právi, stánava, íšte, víkot, právet</li>
+      <li>VERB-Inf: plaká, bra, dumí, igrá, je, kazavá, praví, právi, ču, čuká</li>
+      <li>VERB-Part: imǽl, imǽlo, mógal, móčil, imǽli, čákal, hódil, imǽla, ískal, ískali</li>
     </ul>
   </li>
 </ul>
@@ -495,8 +490,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Iter
     <ul>
-      <li>VERB-Fin: ídešo, apǿneho, dǽlneho, fsúneho, fáteho, nájdešo, rečášo, vídešo, zasmǽšo, Čújeho</li>
-      <li>VERB-Inf: vórttiti</li>
+      <li>VERB-Fin: rečášo, zasmǽšo, ídešo</li>
     </ul>
   </li>
 </ul>
@@ -504,11 +498,12 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Inf: by, bu</li>
-      <li>AUX-Part: bul, byl, býla, búlo, býlo, búla, býly, bil, býli, búli</li>
-      <li>VERB-Fin: fáti, vídi, íde, dam, stóri, stáne, dójde, daj, ídot, nájde</li>
-      <li>VERB-Inf: vidé, kazá, attí, izléz, kupí, mažý, na, naredí, ču</li>
-      <li>VERB-Part: reklól, reklála, zøl, atišlól, papýtal, vídel, zǿla, dal, advórnal, tórnal</li>
+      <li>AUX-Fin: béšo</li>
+      <li>AUX-Part: bul, byl, búlo, býlo, búla, býla, búli, býli, býly, bil</li>
+      <li>VERB: reklól, zøl, reklála, dam, fáti, vídi, stóri, atišlól, vídel, íde</li>
+      <li>VERB-Fin: dam, fáti, vídi, stóri, íde, ídot, stáne, dadé, dójde, vídet</li>
+      <li>VERB-Inf: vidé, kazá</li>
+      <li>VERB-Part: reklól, zøl, reklála, atišlól, vídel, stánal, zǿla, tórnal, stánalo, vídela</li>
     </ul>
   </li>
 </ul>
@@ -517,7 +512,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
   <li>Prog
     <ul>
       <li>AUX-Fin: béšo</li>
-      <li>VERB-Fin: trǽbavašo, imǽšo, ištǽh, móžašo, iméša, kázavašo, ištǽšo, nósešo, rábatæšo, válešo</li>
+      <li>VERB-Fin: trǽbavašo, imǽšo, móžašo, glǿdašo, iméša, iméšo, kázavašo, rǘkahme, adbáveho, gļódašo</li>
     </ul>
   </li>
 </ul>
@@ -529,7 +524,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: daj, zǿmij, jála, hájde, vórvij, kážyj, ídij, viš, razbudáj, óstavij</li>
+      <li>VERB-Fin: daj, jála, zǿmij, hájde, viš, čákyj, Hátte, fýrkyj, kážyj, spúsnijte</li>
     </ul>
   </li>
 </ul>
@@ -537,8 +532,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: je, so, si, som, sa, jo, sme, ste, be, béšo</li>
-      <li>VERB-Fin: víka, íma, trǽbava, móža, hódi, právi, fáti, íde, stánava, íšte</li>
+      <li>AUX-Fin: je, so, si, som, sa, jo, be, sme, ste, béšo</li>
+      <li>VERB-Fin: víka, trǽbava, móža, íma, hódi, právi, dam, fáti, vídi, stánava</li>
     </ul>
   </li>
 </ul>
@@ -550,10 +545,10 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: be, béšo, bého, béhte</li>
-      <li>AUX-Part: bul, byl, býla, búlo, býlo, búla, býly, bil, býli, búli</li>
-      <li>VERB-Fin: fáti, fátiho, réče, zø, velí, stóri, dójde, káza, nájdaho, trǽbavašo</li>
-      <li>VERB-Part: reklól, reklála, zøl, atišlól, imǽlo, imǽl, papýtal, vídel, zǿla, dal</li>
+      <li>AUX-Fin: be, béšo, bého, e</li>
+      <li>AUX-Part: bul, byl, búlo, býlo, búla, býla, búli, býli, býly, bil</li>
+      <li>VERB-Fin: fáti, fátiho, réče, trǽbavašo, dójde, stána, zø, imǽšo, stóri, víde</li>
+      <li>VERB-Part: reklól, zøl, reklála, atišlól, vídel, stánal, zǿla, imǽl, imǽlo, tórnal</li>
     </ul>
   </li>
 </ul>
@@ -561,8 +556,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: je, so, si, som, sa, jo, sme, ste, še, ja</li>
-      <li>VERB-Fin: víka, íma, trǽbava, móža, hódi, právi, íde, stánava, íšte, néma</li>
+      <li>AUX-Fin: je, so, si, som, sa, jo, sme, ste, še, bého</li>
+      <li>VERB-Fin: víka, trǽbava, móža, íma, hódi, právi, dam, vídi, stánava, íde</li>
     </ul>
   </li>
 </ul>
@@ -574,13 +569,14 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: je, so, si, som, sa, jo, sme, ste, be, béšo</li>
-      <li>AUX-Inf: by, bu</li>
-      <li>AUX-Part: bul, byl, býla, búlo, býlo, búla, býly, bil, býli, búli</li>
-      <li>VERB-Conv: smǿva, glǿdava, gorǿva, daržóva, fýrkava, rǘkava, spóva, varvǿva, zaklǘčeva, čákava</li>
-      <li>VERB-Fin: víka, íma, trǽbava, móža, hódi, právi, fáti, íde, stánava, íšte</li>
-      <li>VERB-Inf: je, pi, vidé, plaká, čúdi, kazá, bra, dumí, hadí, kazavá</li>
-      <li>VERB-Part: reklól, reklála, zøl, atišlól, imǽlo, imǽl, papýtal, vídel, zǿla, dal</li>
+      <li>AUX: je, so, si, som, sa, bul, byl, búlo, býlo, jo</li>
+      <li>AUX-Fin: je, so, si, som, sa, jo, be, sme, ste, béšo</li>
+      <li>AUX-Part: bul, byl, búlo, býlo, búla, býla, búli, býli, býly, bil</li>
+      <li>VERB: víka, reklól, trǽbava, móža, íma, hódi, zøl, právi, reklála, dam</li>
+      <li>VERB-Conv: glǿdava</li>
+      <li>VERB-Fin: víka, trǽbava, móža, íma, hódi, právi, dam, fáti, vídi, stánava</li>
+      <li>VERB-Inf: plaká, vidé, bra, dumí, igrá, je, kazavá, praví, právi, ču</li>
+      <li>VERB-Part: reklól, zøl, reklála, atišlól, vídel, stánal, zǿla, imǽl, imǽlo, tórnal</li>
     </ul>
   </li>
 </ul>
@@ -588,7 +584,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: skrýto, naučéna, umrǽta, naučény, pǽtyjen, zarýtyjen, začúden, platéno, pǽti, umaréno</li>
+      <li>VERB-Part: skrýto, naučény, zatvóren, naučéna, platéno, ukrádena, atfóreny, ispísana, kendísany, kápnati</li>
     </ul>
   </li>
 </ul>
@@ -604,9 +600,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: itám, inagáne, isǽ, inýj, itúzi, tam, sæ, itýj, isýj, itúj</li>
-      <li>DET: inazí, inélkus, inéj, bu, isazí, inózek, isózek, isózi, inézi, isázi</li>
-      <li>PRON: ajnéj</li>
+      <li>ADV: itám, isǽ, inagáne, inýj, itúzi, itýj, tam, isýj, sæ, itúj</li>
+      <li>DET: inazí, isózi, bu, inélkus, inézi, isózek, isázi, isézi, inózek, isazí</li>
     </ul>
   </li>
 </ul>
@@ -614,7 +609,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Emp
     <ul>
-      <li>DET: samýj, samí, samý, samó, samíček</li>
+      <li>DET: samý, samíček, samýj</li>
     </ul>
   </li>
 </ul>
@@ -622,8 +617,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Ind
     <ul>
-      <li>ADV: nǽjde, bannóš, kugá, annagý</li>
-      <li>DET: annó, annók, nǽko, adín, bir, ennó, anná, drúgo, drúgy, ennók</li>
+      <li>ADV: nǽjde, bannóš, annagý, badín, kugá, drúzišno</li>
+      <li>DET: annó, annók, nǽko, adín, bir, ennó, anná, drúgy, drúgo, drúgyjen</li>
     </ul>
   </li>
 </ul>
@@ -631,9 +626,9 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Int
     <ul>
-      <li>ADV: kadé, kak, kugá, kogý, kogá, Ke, kogáni</li>
-      <li>DET: kutrí, kólko, kakvó, kakvá, kotrí, kakvý, kutróga, katrí, kakvóv, katró</li>
-      <li>PRON: kaná, kakná, kaknani, Móne, aknáni, kaknáni</li>
+      <li>ADV: kadé, kak, kugá, kakvóv, kogá, kutró</li>
+      <li>DET: kutrí, kólko, kakvó, kotrí, kakvá, kakvý, katró, kólku, kutrómu, kakvóv</li>
+      <li>PRON: kaná, kakná, kaknani, Móne</li>
     </ul>
   </li>
 </ul>
@@ -641,8 +636,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Prs
     <ul>
-      <li>DET: tvóto, tójnono, tógavokne, ma, nášoso, tógavono, mójet, tváta, tǽhnokne, moj</li>
-      <li>PRON: só, go, sí, mú, jé, mí, gi, toj, mu, tja</li>
+      <li>DET: tógavokne, tójnono, tógavono, móto, nášono, nášoso, nášyse, tváta, mókse, móse</li>
+      <li>PRON: só, go, sí, mú, jé, mí, gi, toj, mu, to</li>
     </ul>
   </li>
 </ul>
@@ -650,9 +645,9 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: kugána, kákna, kadéna, kákta, kadéta, kugáta, káksa, kogána, kákno, kadénu</li>
-      <li>DET: žýjen, žýne, žíne, žókne, žóno, žána, kólkono, žǽhne, kólkoto, žóto</li>
-      <li>PRON: kanána, kaknána, kanáta, kaknása, Kanása, kaknáno, aknána, kaknáta, kaknátu, žýte</li>
+      <li>ADV: kugána, kákna, kadéna, kákta, Kugáta, kadéta, kogána, Agýta, Kugáno, kadéno</li>
+      <li>DET: žýjen, žíne, žýne, žókne, žóno, kólkoto, žǽhne, žána, žómune, kakvóto</li>
+      <li>PRON: kanána, kanáta, kaknána, kaknása, Kanása, kaknáno, kaknáta, kólkono</li>
     </ul>
   </li>
 </ul>
@@ -660,9 +655,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: dájma</li>
-      <li>DET: vrit, vrítsi, her, sǽko, vritsǽh, vritsǽm, sǽkva, sǽkvo, séko, Séki</li>
-      <li>PRON: síčkono, síčko, síčkoso, síčkona, síčkoto</li>
+      <li>DET: vrit, vrítsi, sǽko, her, vritsǽh, vritsǽm, sǽkvo, Bajá, Dur, beš</li>
+      <li>PRON: síčkono, síčko, síčkoto, síčkona, síčkoso</li>
     </ul>
   </li>
 </ul>
@@ -674,7 +668,9 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Card
     <ul>
-      <li>NUM: annó, tri, annók, dve, dva, dvamínana, dvéne, dvamína, kyrk, beš</li>
+      <li>ADJ: pǽti, trimína</li>
+      <li>DET: annók, adín, annó</li>
+      <li>NUM: annó, tri, dve, annók, dvamínana, dva, jedí, dvéne, kyrk, 6</li>
     </ul>
   </li>
 </ul>
@@ -682,7 +678,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: üčünǧǘno, pórvokne, ikinǧíno, ikinǧí, pórvono, üčünǧǘ, birinǧíto, birinǧí, pórvajen, pórvyjen</li>
+      <li>ADJ: birinǧíto, ikinǧí, pórvokne, pórvono, üčünǧǘno, Jedinǧí, bešinǧíno, birinǧí, bǽlokne, dørtünǧǘno</li>
+      <li>NUM: dørdünǧǘno, üčünǧǘno</li>
     </ul>
   </li>
 </ul>
@@ -694,8 +691,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: bubájkovono, májčin, bábino, májčino, Máminata, bubájkovyne, bábinana, májčinyne, mámin, Ajšínana</li>
-      <li>DET: tvóto, tójnono, tógavokne, ma, nášoso, tógavono, mójet, tváta, tǽhnokne, moj</li>
+      <li>ADJ: Aminínana, BUBÁJKOVYJEN, Išín, Melihínana, Orhánavyjen, bubájkovo, bábinana, dǽdavono, dǽdovyne, jenná</li>
+      <li>DET: tógavokne, tójnono, tógavono, móto, nášono, nášoso, nášyse, tváta, mókse, móse</li>
       <li>PRON: mu, ji, mi, ti, hi, nu, vu, mo</li>
     </ul>
   </li>
@@ -708,7 +705,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: só, sí, sa, se, su</li>
+      <li>PRON: só, sí, sa, se, nǽ</li>
     </ul>
   </li>
 </ul>
@@ -720,10 +717,10 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: som, sme, be, béšo, sam, štom, so, šom</li>
-      <li>DET: ma, nášoso, mójet, moj, móso, nášasek, mása, móse, móto, nášono</li>
-      <li>PRON: mí, ja, mó, móne, mi, nýje, nú, námi, je, ma</li>
-      <li>VERB-Fin: dam, íštom, znom, vídem, móžom, kážom, varvíme, ímom, stórem, ídeme</li>
+      <li>AUX-Fin: som, sme, bého, šom</li>
+      <li>DET: móto, nášyse, mókse, móse, móso, nášasek, nášokse, nášoso, ma, mo</li>
+      <li>PRON: mí, ja, mó, móne, mi, nýje, nú, námi, nu, výje</li>
+      <li>VERB-Fin: dam, íštom, vídem, ídeme, znom, kážom, móžom, ímom, íšteme, mólem</li>
     </ul>
   </li>
 </ul>
@@ -731,11 +728,11 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: si, ste, be, šte, béhte</li>
-      <li>DET: tvóto, tváta, tvójet, tva, tvóso, vášono, tvo, tvoj, tvójen, tvókte</li>
-      <li>PART: namój, nemój, Namóte, namójte, nimó, móte, nemó</li>
-      <li>PRON: tí, ty, tó, ti, tébe, vú, výje, vámi, ta, u</li>
-      <li>VERB-Fin: íšteš, vídiš, daj, zǿmij, jála, ímaš, hájde, znoš, ídeš, dadéš</li>
+      <li>AUX-Fin: si, ste, be, še</li>
+      <li>DET: tváta, tvóto, tvóso, vaš, vášoso</li>
+      <li>PART: namój, Namóte, nimó, Drúgoso, Nemój, namójte, nemó</li>
+      <li>PRON: tí, ty, ti, tó, tébe, vú, ta, vámi, výje, te</li>
+      <li>VERB-Fin: vídiš, íšteš, daj, jála, zǿmij, ímaš, hájde, znoš, dadéš, víkaš</li>
     </ul>
   </li>
 </ul>
@@ -743,10 +740,13 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: je, so, sa, jo, béšo, be, bého, še, ja, e</li>
-      <li>DET: tójnono, tógavokne, tógavono, tǽhnokne, tójnyjen, tójnyne, tógavo, tógavoto, tǽhnyne, tógavine</li>
-      <li>PRON: go, mú, jé, gi, toj, mu, tja, to, ji, jí</li>
-      <li>VERB-Fin: víka, íma, trǽbava, móža, hódi, právi, íde, fáti, stánava, íšte</li>
+      <li>AUX: je, so, sa, jo, be, béšo, bého, e, ja, še</li>
+      <li>AUX-Fin: je, so, sa, jo, be, béšo, bého, e, ja, še</li>
+      <li>DET: tógavokne, tójnono, tógavono, nášono, tógavoto, nášoso, síčko, síčkono, síčkoso, tógavo</li>
+      <li>PRON: go, mú, jé, gi, toj, mu, to, tja, jí, ji</li>
+      <li>VERB: víka, trǽbava, móža, íma, hódi, právi, fáti, vídi, stánava, íde</li>
+      <li>VERB-Fin: víka, trǽbava, móža, íma, hódi, právi, fáti, vídi, stánava, íde</li>
+      <li>VERB-Part: císti</li>
     </ul>
   </li>
 </ul>
@@ -760,7 +760,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Plur
     <ul>
-      <li>DET: nášoso, tǽhnokne, nášasek, nášono, nášise, nášokse, nášyse, tǽhnyne, naš, nášine</li>
+      <li>DET: nášoso, nášyse, nášasek, nášokse, nášono, nášo, nášyjes, nášyte, síčko, tǽhan</li>
       <li>PRON: mi, nu, vu</li>
     </ul>
   </li>
@@ -769,7 +769,7 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <ul>
   <li>Sing
     <ul>
-      <li>DET: tvóto, tójnono, tógavokne, ma, tógavono, mójet, tváta, moj, mása, móse</li>
+      <li>DET: tógavokne, tójnono, tógavono, tváta, mókse, móse, móto, tvóto, tógavoto, ma</li>
       <li>PRON: mu, ji, ti, mi, hi, mo</li>
     </ul>
   </li>
@@ -783,20 +783,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: i.d., DEIno, OEBEE, TV, WN, cm</li>
-          <li>PROPN: H., KKE, OGOno, PAME, ogá, KEPKAno, KEPno, ogóno</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>AdpType</a>
-    <ul>
-      <li>Post
-        <ul>
-          <li>ADP: ilén</li>
+          <li>NOUN: DEIno, TV, cm</li>
+          <li>PROPN: KEPno, KKE, PAME, ogá</li>
         </ul>
       </li>
     </ul>
@@ -808,29 +796,27 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
     <ul>
       <li>Prox
         <ul>
-          <li>ADJ: stáryjet, stáryte, birinǧíto, pomáckyse, staráta, čórnoso, gróznoto, jódroto, čorbaǧíckata, čárckyjet</li>
-          <li>ADV: isǽ, itúzi, kákta, sæ, itýj, sabályjinto, isýj, kadéta, kugáta, itúj</li>
-          <li>DET: isazí, isózek, isózi, isázi, itazí, isézi, isók, isélkus, kólkoto, žóto</li>
-          <li>NOUN: mesecáte, mesecáse, düņóso, astinomíjeta, hükümétes, kóštoso, glavóto, mečkáta, momóso, májkata</li>
-          <li>NUM: dvomínata, dvéte, trimínasa, trimínata, annóto, dvomínasa, dvomínehte, annógate, annóso, béšto</li>
-          <li>PRON: kanáta, kaknása, síčkoso, Kanása, síčkoto, kaknáta, kaknátu, žýte</li>
-          <li>PROPN: Balkánase, Epimelitírioso, Próniasa, Próniaso</li>
-          <li>SCONJ: Agýta</li>
-          <li>VERB-Part: šlévenata, abijískavanata, izmýslenyte, izpékanoso, izšlévenata, navǿzanite, navǿzanæhte, prekalnátasa, stánatoto, umarénite</li>
+          <li>ADJ: stáryte, birinǧíto, pomáckyse, Máminata, altónenoto, čórnoso, Teškáta, altonǧíckokse, arápckyte, bǽloso</li>
+          <li>ADV: isǽ, itúzi, kákta, sabályjinto, itýj, isýj, sæ, akšálmyjinto, itúj, 'sæ</li>
+          <li>DET: isózi, isézi, isózek, isázi, isazí, kólkoto, isélkus, itazí, kakvóto, ajsóva</li>
+          <li>NOUN: mesecáte, mesecáse, astinomíjeta, düņóso, insánase, kóštoso, momóso, Pomácese, mečkáta, pótete</li>
+          <li>NUM: trimínata, Licáta, annógate, annóto, dvomínasa, dvomínata, dvomínehte, dvése, dvéte, ennóto</li>
+          <li>PRON: kanáta, kaknása, síčkoto, Kanása, kaknáta, síčkoso</li>
+          <li>PROPN: Balkánase</li>
+          <li>VERB-Part: abijískavanata, izšlévenata, stánatoto, umarénite, šlévenata</li>
         </ul>
       </li>
       <li>Remt
         <ul>
-          <li>ADJ: stáryjen, mládyjen, starána, míčkyjen, gulǽmyjen, čárckyjen, altónenono, górnono, stárine, üčünǧǘno</li>
-          <li>ADV: itám, kugána, kákna, inagáne, kadéna, inýj, tam, akšámlajinno, tám, sabáhlajinno</li>
-          <li>DET: inazí, žýjen, žýne, žíne, žókne, drúgono, inélkus, drúgokne, inéj, žóno</li>
-          <li>NOUN: kóštono, čulǽkon, kópeløno, mómičeno, žanána, momána, astinomíjena, goróno, kópelon, mečkána</li>
-          <li>NUM: dvamínana, dvéne, dvomínana, tríne, trimínana, dvána, dvomínehne, annóno, adínyjen, annókne</li>
-          <li>PRON: kanána, síčkono, kaknána, kaknáno, síčkona, ajnéj, aknána</li>
-          <li>PROPN: Kélčeno, Kélčetune, Lýǧeno, Próniano, OGOno, Dólneno, Edrelézene, Hóǧana, Hóǧena, KEPKAno</li>
-          <li>SCONJ: agýna, agána</li>
-          <li>VERB: pǽtyjen, zarýtyjen, davédenono, spúšanokne, spúšanono, umrǽtokne, mésenono, primázanono, skrýtono, sónenyne</li>
-          <li>VERB-Part: pǽtyjen, zarýtyjen, davédenono, spúšanokne, spúšanono, umrǽtokne, mésenono, primázanono, skrýtono, sónenyne</li>
+          <li>ADJ: stáryjen, mládyjen, míčkyjen, starána, górnono, stárine, čárckyjen, gulǽmyjen, míčkokne, stárono</li>
+          <li>ADV: itám, kugána, kákna, kadéna, inagáne, inýj, tam, akšámlajinno, kogána, kákno</li>
+          <li>DET: inazí, žýjen, žíne, žýne, žókne, žóno, drúgyjen, drúgono, inélkus, drúganek</li>
+          <li>NOUN: čulǽkon, kóštono, kópeløno, mómičeno, goróno, astinomíjena, žanána, pótene, momána, rǽkono</li>
+          <li>NUM: dvamínana, dvéne, dvomínana, trimínana, tríne, dvána, adínyjen, 38no, 4no, 8no</li>
+          <li>PRON: kanána, síčkono, kaknána, kaknáno, kólkono, síčkona</li>
+          <li>PROPN: Kélčeno, Kélčetune, KEPno, Lýǧeno</li>
+          <li>SCONJ: agýna, agána, kugána</li>
+          <li>VERB-Part: spúšanokne, umrǽtokne, apítana, atfórenyne, atékanokne, davédenono, mésenono, navartǽtana, primázanokne, spúšanono</li>
         </ul>
       </li>
     </ul>
@@ -842,26 +828,24 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
     <ul>
       <li>1
         <ul>
-          <li>ADJ: pomáckyse, čórnoso, altónenoso, bǽloso, górnese, ikinǧíso, mrávjeso, ponadólneso, Srébarnoso, Stároso</li>
-          <li>ADV: isǽ, itúzi, sæ, isýj, itúj, káksa, isǽna, túzi, se, sǽ</li>
-          <li>DET: isazí, isózek, isózi, isázi, isézi, isók, isélkus, izí, isój, isáj</li>
-          <li>NOUN: mesecáse, düņóso, hükümétes, kóštoso, momóso, belidjóso, insánase, insános, Pomácese, hükümétese</li>
-          <li>NUM: trimínasa, dvomínasa, annóso, dvése, tríse</li>
-          <li>PRON: kaknása, síčkoso, Kanása</li>
-          <li>PROPN: Balkánase, Epimelitírioso, Próniasa, Próniaso</li>
-          <li>VERB-Part: izpékanoso, prekalnátasa, umrǽtoso, zgótvenyse</li>
+          <li>ADJ: pomáckyse, čórnoso, altonǧíckokse, bǽloso, désnokse, dólnoso, fóroso, gelínckokse, húbavyjet, lǽvokse</li>
+          <li>ADV: isǽ, itúzi, isýj, sæ, itúj, 'sæ, ajtús, isǽna, sagáne, túzi</li>
+          <li>DET: isózi, isézi, isózek, isázi, isazí, isélkus, ajsóva, isój, isók, izí</li>
+          <li>NOUN: mesecáse, düņóso, insánase, kóštoso, momóso, Pomácese, séloso, žyvótase, astanǿso, belidjása</li>
+          <li>NUM: dvomínasa, dvése, trimínasa</li>
+          <li>PRON: kaknása, síčkoso</li>
+          <li>PROPN: Balkánase</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>ADJ: stáryjet, stáryte, birinǧíto, staráta, gróznoto, jódroto, čorbaǧíckata, čárckyjet, Máminata, altónenoto</li>
-          <li>ADV: kákta, itýj, sabályjinto, kadéta, kugáta, tagás, akšálmyjinto, tugáva, itagáne, itúka</li>
-          <li>DET: itazí, kólkoto, žóto, tvóto, itélkus, itózek, kakvóto, mójet, tváta, drúgoto</li>
-          <li>NOUN: mesecáte, astinomíjeta, glavóto, mečkáta, májkata, pítoto, čulǽkot, drípyte, húbavoto, pótete</li>
-          <li>NUM: dvomínata, dvéte, trimínata, annóto, dvomínehte, annógate, béšto, ennóto, tríte</li>
-          <li>PRON: kanáta, síčkoto, kaknáta, kaknátu, žýte</li>
-          <li>SCONJ: Agýta</li>
-          <li>VERB-Part: šlévenata, abijískavanata, izmýslenyte, izšlévenata, navǿzanite, navǿzanæhte, stánatoto, umarénite</li>
+          <li>ADJ: stáryte, birinǧíto, Máminata, altónenoto, Teškáta, arápckyte, gulǽmata, gulǽmite, gulǽmoto, húbavokte</li>
+          <li>ADV: kákta, sabályjinto, itýj, akšálmyjinto, Kugáta, kadéta, itúka, tagáne, tugáva, akšámlajinto</li>
+          <li>DET: kólkoto, kakvóto, itazí, itélkus, tváta, žýte, itózek, móto, tvóto, tógavoto</li>
+          <li>NOUN: mesecáte, astinomíjeta, mečkáta, pótete, jaráta, játoto, momáta, rekáta, Pótet, bábata</li>
+          <li>NUM: trimínata, Licáta, annógate, annóto, dvomínata, dvomínehte, dvéte, ennóto</li>
+          <li>PRON: kanáta, síčkoto, kaknáta</li>
+          <li>VERB-Part: abijískavanata, izšlévenata, stánatoto, umarénite, šlévenata</li>
         </ul>
       </li>
     </ul>
@@ -873,8 +857,8 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: ergatikó, kéntro, vulíno</li>
-          <li>X: ejlé, Allahýn, ilé, izní, ješindá, spíti, sto, voítia, Læ, dejlé</li>
+          <li>NOUN: ergatikó, gimnásio, kéntro, pálto, vulíno</li>
+          <li>X: spíti, sto, voítia, Allahýn, Læ, etmíš, ilé, ilǽhæ, izní, íllelloh</li>
         </ul>
       </li>
     </ul>
@@ -886,17 +870,17 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
     <ul>
       <li>Ind
         <ul>
-          <li>PART: nó, jéta, nǽ</li>
+          <li>PART: nó</li>
         </ul>
       </li>
       <li>Neg
         <ul>
-          <li>PART: ní</li>
+          <li>PART: ní, nǽ</li>
         </ul>
       </li>
       <li>Tot
         <ul>
-          <li>PART: sǽ, se</li>
+          <li>PART: sǽ</li>
         </ul>
       </li>
     </ul>
@@ -908,11 +892,12 @@ efforts. Morphological annotation was carried out by Ritvan Karahoǧa and Nicola
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: som.</li>
+<li>This corpus does not contain copulas.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: som, da, še, býdom, šom, štom.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: som, da, še, býdom, li, šom.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: som, býdom.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -921,37 +906,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN (4)</li>
-      <li>VERB-Fin--NOUN-Acc (128)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(agá) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(faf) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pa) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(sas) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (11)</li>
-      <li>VERB-Fin--NOUN-Nom (825)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(faf) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Voc (3)</li>
-      <li>VERB-Fin--PRON (18)</li>
-      <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Gen (13)</li>
-      <li>VERB-Fin--PRON-Nom (413)</li>
-      <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Nom (5)</li>
-      <li>VERB-Part--NOUN (2)</li>
-      <li>VERB-Part--NOUN-Acc (101)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(faf) (1)</li>
-      <li>VERB-Part--NOUN-Gen (15)</li>
-      <li>VERB-Part--NOUN-Nom (1274)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(faf) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(prez) (1)</li>
-      <li>VERB-Part--PRON (16)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Gen (13)</li>
-      <li>VERB-Part--PRON-Nom (299)</li>
+      <li>VERB-Fin--NOUN-Acc (25)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(ad) (2)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Nom (356)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(na) (2)</li>
+      <li>VERB-Fin--NOUN-Voc (1)</li>
+      <li>VERB-Fin--PRON (22)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Fin--PRON-Gen (1)</li>
+      <li>VERB-Fin--PRON-Nom (208)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Part--NOUN-Acc (27)</li>
+      <li>VERB-Part--NOUN-Gen (3)</li>
+      <li>VERB-Part--NOUN-Nom (596)</li>
+      <li>VERB-Part--NOUN-Voc (1)</li>
+      <li>VERB-Part--PRON (12)</li>
+      <li>VERB-Part--PRON-Nom (141)</li>
+      <li>VERB-Part--PRON-Nom-ADP(nah) (1)</li>
     </ul>
   </li>
 </ul>
@@ -959,47 +932,44 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN (6)</li>
-      <li>VERB-Fin--NOUN-Acc (1798)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(ad) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(at) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(faf) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (11)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pa) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pad) (2)</li>
+      <li>VERB--PRON-Acc (1)</li>
+      <li>VERB-Conv--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (5)</li>
+      <li>VERB-Fin--NOUN-Acc (796)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(an) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(atpréš) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(faf) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(prez) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(s) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(sas) (5)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(vur) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(sas) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(za) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (21)</li>
-      <li>VERB-Fin--NOUN-Nom (127)</li>
-      <li>VERB-Fin--NOUN-Voc (3)</li>
-      <li>VERB-Fin--PRON (295)</li>
-      <li>VERB-Fin--PRON-ADP(s) (1)</li>
-      <li>VERB-Fin--PRON-Acc (1328)</li>
-      <li>VERB-Fin--PRON-Gen (48)</li>
-      <li>VERB-Fin--PRON-Nom (8)</li>
-      <li>VERB-Inf--NOUN-Acc (9)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Fin--NOUN-Gen (5)</li>
+      <li>VERB-Fin--NOUN-Nom (39)</li>
+      <li>VERB-Fin--PRON (107)</li>
+      <li>VERB-Fin--PRON-ADP(amá) (1)</li>
+      <li>VERB-Fin--PRON-Acc (498)</li>
+      <li>VERB-Fin--PRON-Gen (20)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (11)</li>
-      <li>VERB-Part--NOUN (9)</li>
-      <li>VERB-Part--NOUN-Acc (1193)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(at) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(faf) (3)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (6)</li>
+      <li>VERB-Inf--PRON-Acc (3)</li>
+      <li>VERB-Part--NOUN (3)</li>
+      <li>VERB-Part--NOUN-Acc (457)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(ad) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(faf) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(nadól) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(paslét) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(sas) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(zaradí) (1)</li>
-      <li>VERB-Part--NOUN-Gen (20)</li>
-      <li>VERB-Part--NOUN-Nom (141)</li>
-      <li>VERB-Part--NOUN-Voc (1)</li>
-      <li>VERB-Part--PRON (117)</li>
-      <li>VERB-Part--PRON-ADP(za) (3)</li>
-      <li>VERB-Part--PRON-Acc (731)</li>
-      <li>VERB-Part--PRON-Gen (5)</li>
-      <li>VERB-Part--PRON-Nom (7)</li>
+      <li>VERB-Part--NOUN-Gen (5)</li>
+      <li>VERB-Part--NOUN-Nom (20)</li>
+      <li>VERB-Part--PRON (43)</li>
+      <li>VERB-Part--PRON-Acc (278)</li>
+      <li>VERB-Part--PRON-Gen (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -1007,151 +977,91 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-ADP(faf) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(na) (2)</li>
       <li>VERB-Fin--NOUN-ADP(nah) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(u) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(ad) (98)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(ad)-ADP(prez) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(at) (45)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(da) (9)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(f) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(faf) (149)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(izvón) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(méždu) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (232)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na)-ADP(sredé) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(nah) (44)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(niz) (6)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pa) (22)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pad) (7)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(paslét) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(po) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(prez) (17)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pri) (8)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(s) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(sas) (28)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(srǿštu) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(u) (5)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(varhú) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(vaz) (7)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (41)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(zad) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (91)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(faf) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(pat) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(prez) (1)</li>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(ad) (15)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(at) (5)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(da) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(faf) (10)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (23)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(nah) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(niz) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(pa) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(prez) (4)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(pri) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(sas) (5)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(u) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(varhú) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(vaz) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (7)</li>
+      <li>VERB-Fin--NOUN-Gen (39)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(atpréš) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(pa) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(prez) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(za) (1)</li>
+      <li>VERB-Fin--NOUN-Voc (2)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-ADP(sas) (1)</li>
-      <li>VERB-Fin--PRON-ADP(za) (3)</li>
-      <li>VERB-Fin--PRON-Acc (25)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(ad) (7)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(agá) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(at) (8)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(at)-ADP(sas) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(atpréš) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(da) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(faf) (5)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (13)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(nah) (7)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(prez) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pri) (9)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(sas) (24)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(u) (21)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(varhú) (5)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(vaz) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (32)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(zaradí) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(zat) (1)</li>
-      <li>VERB-Fin--PRON-Gen (822)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(na)-ADP(mǽsto) (1)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(at) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
+      <li>VERB-Fin--PRON-Acc (7)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(at) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(faf) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(nah) (2)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(pri) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(sas) (2)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(u) (3)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(vaz) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(za) (1)</li>
+      <li>VERB-Fin--PRON-Gen (303)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Gen (18)</li>
-      <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(ad) (70)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(at) (22)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(atpréš) (3)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(da) (13)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(f) (5)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(faf) (183)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(faf)-ADP(sredé) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(izvón) (5)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(kazá) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(méždu) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (196)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(nah) (59)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(napréš) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(niz) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pa) (15)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pa)-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pad) (10)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(paslét) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(po)-ADP(sredé) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(prez) (11)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pri) (18)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(s) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(sas) (17)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(u) (9)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(u)-ADP(vaz) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(varhú) (10)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(vaz) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (15)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za)-ADP(nah) (8)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(zad) (2)</li>
-      <li>VERB-Part--NOUN-Gen (108)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(faf) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na) (3)</li>
-      <li>VERB-Part--NOUN-Nom (2)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(ad) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(atpréš) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(na) (2)</li>
-      <li>VERB-Part--PRON-Acc (5)</li>
-      <li>VERB-Part--PRON-Acc-ADP(at) (7)</li>
-      <li>VERB-Part--PRON-Acc-ADP(atpréš) (6)</li>
-      <li>VERB-Part--PRON-Acc-ADP(da) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(faf) (12)</li>
-      <li>VERB-Part--PRON-Acc-ADP(kazá) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (3)</li>
-      <li>VERB-Part--PRON-Acc-ADP(nah) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(paslét) (3)</li>
-      <li>VERB-Part--PRON-Acc-ADP(prez) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pri) (8)</li>
-      <li>VERB-Part--PRON-Acc-ADP(sas) (6)</li>
-      <li>VERB-Part--PRON-Acc-ADP(u) (15)</li>
-      <li>VERB-Part--PRON-Acc-ADP(var) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(varhú) (3)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (10)</li>
-      <li>VERB-Part--PRON-Acc-ADP(zad) (2)</li>
-      <li>VERB-Part--PRON-Gen (423)</li>
-      <li>VERB-Part--PRON-Gen-ADP(agá) (1)</li>
-      <li>VERB-Part--PRON-Nom (2)</li>
+      <li>VERB-Inf--PRON-Gen (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(ad) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(at) (4)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(atpréš) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(da) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(f) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(faf) (23)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(méždu) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (17)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(nah) (5)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(pa) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(pad) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(prez) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(pri) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(s) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(sas) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za)-ADP(nah) (3)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(zad) (1)</li>
+      <li>VERB-Part--NOUN-Gen (34)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Nom-ADP(na) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(at) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(faf) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(paslét) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(sas) (1)</li>
+      <li>VERB-Part--PRON-Acc-ADP(u) (3)</li>
+      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
+      <li>VERB-Part--PRON-Gen (156)</li>
     </ul>
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 2 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: svórnom só, vázkačem só</li>
+</ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 22 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: pribívom sa, ímom sa, ažónevom sa, dónesom sa, dúmem sa, ftapanǽvom sa, fátem sa, izkútevom sa, mólem sa, píjem sa, rádom sa, rázpusnom sa, skrývom sa, sóvnom sa, vráštom sa, zaglavǽvom sa, zbírom sa, záčudem sa, záčudem se, ízkukegom sa, úsramem sa, žónckyj sa</li>
+  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: skrývom sa, sédom nǽ</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 8 relation types are not used in this corpus at all: <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pv</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>cop</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

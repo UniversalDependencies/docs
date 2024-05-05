@@ -38,10 +38,10 @@ The following 12 pairs of parts of speech are connected with `obl:npmod`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 obl:npmod	color:blue
-1	4.	4.	X	LS	_	2	dep	2:dep	Discourse=joint-list_m:35->32:0:_
+1	4.	4.	X	LS	_	2	discourse	2:discourse	Discourse=joint-list_m:35->32:0:_
 2	Flagyl	Flagyl	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(6-substance-giv:inact-cf2-1-coref-Metronidazole)
 3	500	500	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Entity=(45-substance-new-cf3-2-sgl
-4	mg	milligram	NOUN	NNS	Number=Plur	2	appos	2:appos	Entity=45)
+4	mg	milligram	NOUN	NNS	Abbr=Yes|Number=Plur	2	appos	2:appos	Entity=45)
 5	four	four	NUM	CD	NumForm=Word|NumType=Card	6	nummod	6:nummod	_
 6	times	time	NOUN	NNS	Number=Plur	4	obl:npmod	4:obl:npmod	MSeg=time-s
 7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	Entity=(42-time-giv:act-cf1*-2-coref

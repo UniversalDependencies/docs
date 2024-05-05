@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="en_gum-dep-obl-npmod.html">obl:npmod</a></tt>, <tt><a href="en_gum-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-341 nodes (0%) are attached to their parents as `obl:agent`.
+377 nodes (0%) are attached to their parents as `obl:agent`.
 
-341 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.72140762463343.
+377 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.74005305039788.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (238; 70% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (87; 26% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (267; 71% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (92; 24% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,26 +41,27 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 obl:agent	color:blue
-1	Uh	uh	INTJ	UH	_	4	discourse	4:discourse	Discourse=causal-cause:22->24:1:dm-so-157;explanation-justify:22->56:8:0:orp-so-366
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	4:nsubj:pass	Entity=(2-person-giv:act-cf1*-1-ana)
-3	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	called	call	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=call-ed
-5	by	by	ADP	IN	_	6	case	6:case	_
-6	Matthew	Matthew	PROPN	NNP	Number=Sing	4	obl:agent	4:obl:agent	Entity=(3-person-giv:inact-cf2-1-coref
-7	here	here	ADV	RB	PronType=Dem	6	advmod	6:advmod	Entity=3)|SpaceAfter=No
-8	,	,	PUNCT	,	_	10	punct	10:punct	_
-9	to	to	PART	TO	_	10	mark	10:mark	Discourse=purpose-goal:23->22:0:syn-inf-150
-10	do	do	VERB	VB	VerbForm=Inf	4	advcl	4:advcl:to	_
-11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(12-abstract-giv:inact-cf3-2-coref
-12	job	job	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=12)
-13	for	for	ADP	IN	_	14	case	14:case	_
-14	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	10:obl:for	Entity=(3-person-giv:act-cf2-1-ana)|SpaceAfter=No
-15	.	.	PUNCT	.	_	4	punct	4:punct	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 15 obl:agent	color:blue
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=joint-other_m:13->4:4:_|Entity=(12-person-acc:com-cf1-1-ana)
+2	’m	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	your	your	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Entity=(12-person-giv:act-cf1-2-coref(13-person-acc:com-cf3-1-ana)
+4	host	host	NOUN	NN	Number=Sing	0	root	0:root	Entity=12)
+5	as	as	ADP	IN	_	6	case	6:case	_
+6	always	always	ADV	RB	_	4	obl	4:obl:as	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	Dave	Dave	PROPN	NNP	Number=Sing	4	appos	4:appos	Entity=(12-person-giv:act-cf1-1-appos)|SpaceAfter=No
+9	,	,	PUNCT	,	_	13	punct	13:punct	_
+10	and	and	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-list_m:14->13:0:dm-and-74
+11	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj:pass	13:nsubj:pass	Entity=(12-person-giv:act-cf1-1-ana)
+12	am	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux:pass	13:aux:pass	_
+13	joined	join	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	4:conj:and	MSeg=join-ed
+14	by	by	ADP	IN	_	15	case	15:case	_
+15	Alex	Alex	PROPN	NNP	Number=Sing	13	obl:agent	13:obl:agent	Entity=(6-person-giv:inact-cf2-1-coref)|SpaceAfter=No
+16	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 

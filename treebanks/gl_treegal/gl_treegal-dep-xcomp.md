@@ -42,15 +42,15 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 6 7 xcomp	color:blue
 1	Demandan	demandar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	Cs	_	6	mark	_	_
-3	BNG	BNG	PROPN	Zg00	_	6	nsubj	_	_
+3	BNG	bng	PROPN	Zgms	Gender=Masc|Number=Sing	6	nsubj	_	_
 4	e	e	CCONJ	Cc	_	5	cc	_	_
-5	PSOE	PSOE	PROPN	Zg00	_	3	conj	_	_
+5	PSOE	psoe	PROPN	Zgms	Gender=Masc|Number=Sing	3	conj	_	_
 6	fagan	facer	VERB	Vps30p	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 7	críbel	críbel	ADJ	A0fs	Gender=Fem|Number=Sing	6	xcomp	_	_
 8	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	alternativa	alternativa	NOUN	Scfs	Gender=Fem|Number=Sing	7	obj	_	_
 10	a	a	ADP	P	AdpType=Prep	11	case	_	_
-11	Fraga	Fraga	PROPN	Sp00	_	9	nmod	_	_
+11	Fraga	fraga	PROPN	Sp00	_	9	nmod	_	_
 
 ~~~
 

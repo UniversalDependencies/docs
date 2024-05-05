@@ -41,15 +41,15 @@ The 3rd highest number of forms (1) was observed with the lemma “哇”: 哇.
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="zh_beginner-pos-VERB.html">VERB</a></tt> (30; 75% instances), <tt><a href="zh_beginner-pos-ADJ.html">ADJ</a></tt> (4; 10% instances), <tt><a href="zh_beginner-pos-INTJ.html">INTJ</a></tt> (3; 8% instances), <tt><a href="zh_beginner-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="zh_beginner-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 
-27 (68%) `INTJ` nodes are leaves.
+24 (60%) `INTJ` nodes are leaves.
 
 2 (5%) `INTJ` nodes have one child.
 
-8 (20%) `INTJ` nodes have two children.
+11 (28%) `INTJ` nodes have two children.
 
 3 (8%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 5.
+The highest child degree of a `INTJ` node is 3.
 
 Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="zh_beginner-dep-punct.html">punct</a></tt> (30; 91% instances), <tt><a href="zh_beginner-dep-reparandum.html">reparandum</a></tt> (3; 9% instances)
 

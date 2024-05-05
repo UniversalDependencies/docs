@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	_	_	AUX	MD	VerbForm=Fin	6	aux	6:aux	Lem=_|Len=5
 4	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	6:nsubj	Entity=(23-organization-giv:act-cf1*-1-ana)|Lem=_|Len=4
 5	_	_	AUX	VB	VerbForm=Inf	6	aux	6:aux	Lem=_|Len=2
-6	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Cxn=Interrogative-Wh|Lem=pay|Len=6|MSeg=pay-ing
+6	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|Lem=pay|Len=6|MSeg=pay-ing
 7	_	_	ADP	RP	_	6	compound:prt	6:compound:prt	Lem=_|Len=4|SpaceAfter=No
 8	_	_	PUNCT	.	_	6	punct	6:punct	Lem=_|Len=1
 
@@ -57,9 +57,9 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 15	_	_	ADJ	JJS	Degree=Sup	16	amod	16:amod	Lem=good|Len=4|MSeg=be-st
 16	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=31)|Lem=_|Len=8
 17	_	_	ADV	WRB	PronType=Int	18	advmod	18:advmod	Discourse=context-circumstance:23->22:0:dm-when-159+syn-pres-160|Lem=_|Len=4
-18	_	_	VERB	VBG	VerbForm=Ger	16	advcl	16:advcl:when	Lem=market|Len=9|MSeg=market-ing
+18	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	16	advcl	16:advcl:when	Cxn=AdverbialWHClause-Reduced-Active|Lem=market|Len=9|MSeg=market-ing
 19	_	_	ADP	IN	_	20	case	20:case	Lem=_|Len=2
-20	_	_	NOUN	NN	Number=Sing	18	obl	18:obl:to	Entity=(32-person-new-cf3-1-coref)|Lem=_|Len=2|SpaceAfter=No
+20	_	_	NOUN	NN	Abbr=Yes|Number=Sing	18	obl	18:obl:to	Entity=(32-person-new-cf3-1-coref)|Lem=_|Len=2|SpaceAfter=No
 21	_	_	PUNCT	.	_	16	punct	16:punct	Entity=25)|Lem=_|Len=1
 
 ~~~

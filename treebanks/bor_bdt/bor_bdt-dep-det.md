@@ -8,12 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-27 nodes (1%) are attached to their parents as `det`.
+127 nodes (2%) are attached to their parents as `det`.
 
-22 instances of `det` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03703703703704.
+121 instances of `det` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.16535433070866.
 
-The following 2 pairs of parts of speech are connected with `det`: <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (26; 96% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (111; 87% instances), <tt><a href="bor_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (7; 6% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-DET.html">DET</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	Awy	awy	DET	dem	Deixis=Prox	2	det	_	_
+2	Aroroere	Aroroedy	NOUN	n	_	4	discourse	_	_
+3	emagere	ema	PRON	pron	Mood=Ind|Number=Plur|PronType=Prs	4	nsubj	_	_
+4	erydyre	jorydy	VERB	v	Mood=Ind|Number=Plur|Person=3	0	root	_	_
+5	ca	ca	ADV	adv	_	4	advmod	_	_
+6	nowy	nowy	DET	dem	Deixis=Med	7	det	_	_
+7	arigaodoge	arigao	NOUN	n	Number=Sing	8	nmod	_	_
+8	ewurea	burea	NOUN	n	Number=Plur|Person=3	4	obl	_	_
+9	ji	ji	ADP	posp	Number=Sing|Person=3	8	case	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,48 +41,49 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Deu	Deu	NOUN	n	_	8	nsubj	_	_
-2	ure	ure	PART	prcl	Mood=Ind|Number=Plur|Person=3	8	dep	_	_
-3	nowu	nowu	DET	_	_	4	det	_	_
-4	boe	boe	NOUN	n	_	8	iobj	_	_
-5	jamedy	jamedy	ADV	adv	_	4	advmod	_	_
-6	ji	ji	ADP	posp	_	4	case	_	_
-7	boe	boe	NOUN	n	_	8	dep	_	_
-8	akedudo	akedudo	VERB	v	_	13	advcl	_	_
-9	tuje	tuje	VERB	v	Number=Plur|Person=3	8	xcomp	_	_
-10	dykeje	dy	X	_	_	8	mark	_	_
-11	ure	re	PART	prcl	Mood=Ind|Number=Plur|Person=3	13	dep	_	_
-12	imedu	imedu	NOUN	n	_	13	obj	_	man;homem
-13	to	to	VERB	v	Number=Plur|Person=3	0	root	_	_
+1	Iwagududoge	Iwagudu	PROPN	propn	_	2	dep	_	_
+2	ere	e	PRON	bi	Mood=Ind|Number=Plur|Person=3	6	nsubj	_	_
+3	ia	ia	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	Arigao	Arigao	PROPN	propn	_	6	obj	_	_
+5	Kigadurewy	Kigadurewy	PROPN	propn	_	4	nmod	_	_
+6	maky	_	VERB	v	_	0	root	_	_
+7	Ino	_	PROPN	propn	_	6	obl	_	_
+8	Kuri	_	PROPN	propn	_	7	compound	_	_
+9	ai	i	ADP	posp	Number=Sing|Person=2	7	case	_	_
+10	,	,	PUNCT	punct	_	6	punct	_	_
+11	eno	eno	NOUN	n	Number=Sing|Number[psor]=Sing|Person=3	6	dislocated	_	_
+12	core	co	NOUN	n	Mood=Ind	11	nmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 det	color:blue
-1	Iwo	bo	VERB	v	_	2	nsubj	_	_
-2	tarydywado	jorydywa	VERB	v	Number=Plur|Person=2|Voice=Cau	0	root	_	_
-3	barogo	barogo	NOUN	n	Number=Sing	4	nmod	_	_
-4	ie	ie	NOUN	n	_	2	obl	_	_
-5	ji	ji	ADP	posp	_	4	case	_	_
-6	,	,	PUNCT	punct	_	4	punct	_	_
-7	karo	karo	NOUN	n	Number=Sing	8	nmod	_	[ˈkaːɾʌ];fish;peixe
-8	ie	ie	NOUN	n	_	4	conj	_	_
-9	ji	ji	NOUN	n	_	8	case	_	_
-10	,	,	PUNCT	punct	_	8	punct	_	_
-11	kiogo	kiogo	NOUN	n	_	12	nmod	_	[kʰiˈoɡɤ];bird;ave,pásssaro
-12	ie	ie	NOUN	n	_	4	conj	_	_
-13	ji	ji	ADP	posp	_	12	case	_	_
-14	,	,	PUNCT	punct	_	12	punct	_	_
-15	boe	boe	NOUN	n	_	16	nmod	_	['bɔɛ̯];thing,people;coisa,pessoa
-16	ero	ro	NOUN	v	Number=Plur|Person=3	2	obl	_	['ɾɔ];do,make;fazer
-17	jamedy	jamedy	PRON	pron	_	16	det	_	all;tudo,todos
-18	boe	boe	NOUN	n	_	17	compound	_	_
-19	ji	ji	ADP	posp	_	16	case	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 det	color:blue
+1	Jiwy	_	DET	dem	_	3	det	_	[];;
+2	tori	_	NOUN	n	_	3	nsubj	_	[];;
+3	mugu	_	VERB	v	Number=Sing|Person=3	0	root	_	[];;
+4	kimore	_	ADV	adv	Mood=Ind	3	advmod	_	[];;
+5	oinono	_	ADV	adv	_	8	advmod	_	[];;
+6	ca	_	PART	_	_	8	discourse	_	[];;
+7	braedy	_	NOUN	noun	Number=Sing	8	nsubj	_	[];;
+8	iedo	_	VERB	v	Number=Sing|Person=3|Voice=Cau	3	parataxis	_	[];;
+9	Santo	_	PROPN	propn	_	8	obj	_	[];;
+10	Antonio	_	PROPN	propn	_	9	flat	_	[];;
+11	,	_	PUNCT	punct	_	8	punct	_	[];;
+12	mare	_	CCONJ	cconj	_	16	cc	_	[];;
+13	boe	_	NOUN	n	_	14	nmod	_	[];;
+14	ewadary	_	NOUN	noun	Number=Plur|Person=3	16	obl	_	[];;
+15	tabo	apo	ADP	posp	Number=Sing|Person=3	14	case	_	[];;
+16	iere	_	NOUN	noun	Number=Sing|Person=3	3	conj	_	[];;
+17	Torowari	_	PROPN	propn	_	16	nsubj	_	[];;
+18	ri	_	NOUN	n	_	17	flat	_	[];;
+19	oinore	_	ADV	adv	Mood=Ind	21	advcl	_	[];;
+20	ioga	_	NOUN	noun	Number=Sing|Person=1	21	nsubj	_	[];;
+21	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	3	parataxis	_	[];;
 
 ~~~
 

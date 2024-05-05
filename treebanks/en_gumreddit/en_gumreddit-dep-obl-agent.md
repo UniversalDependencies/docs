@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	4:expl	Discourse=explanation-motivation:16->47:5:_|Entity=(20-abstract-new-cf3-1-cata)|Lem=*LOWER*|Len=2
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Lem=be|Len=2
 3	_	_	CCONJ	CC	_	4	cc:preconj	4:cc:preconj	Lem=_|Len=7
-4	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=9|SpaceAfter=No
+4	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=9|MSeg=necess-ary|SpaceAfter=No
 5	_	_	PUNCT	,	_	6	punct	6:punct	Lem=_|Len=1
 6	_	_	ADJ	JJ	Degree=Pos	4	conj	4:conj:nor	Lem=_|Len=8|SpaceAfter=No
 7	_	_	PUNCT	,	_	9	punct	9:punct	Lem=_|Len=1

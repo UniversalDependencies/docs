@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cy_ccg-dep-obl.html">obl</a></tt>.
 
-29 nodes (0%) are attached to their parents as `obl:agent`.
+31 nodes (0%) are attached to their parents as `obl:agent`.
 
-28 instances of `obl:agent` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.31034482758621.
+30 instances of `obl:agent` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.35483870967742.
 
-The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (19; 66% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (7; 24% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (20; 65% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (8; 26% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -39,30 +39,26 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 obl:agent	color:blue
-1	Rhwng	rhwng	ADP	prep	_	3	case	_	_
-2	pob	pob	ADJ	pos	Degree=Pos	3	amod	_	_
-3	cân	cân	NOUN	noun	Gender=Masc|Number=Sing	5	obl	_	_
-4	yr	y	PART	aff	_	5	advmod	_	_
-5	oedd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-6	gan	gan	ADP	prep	_	7	case	_	_
-7	Riley	Riley	PROPN	person	Gender=Masc|Number=Sing	5	obl:agent	_	_
-8	storiau	stori	NOUN	noun	Gender=Masc|Number=Plur	5	nsubj	_	_
-9	difyr	difyr	ADJ	pos	Degree=Pos	8	amod	_	_
-10	oedd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl	_	_
-11	yn	yn	AUX	impf	_	12	aux	_	_
-12	rhoi	rhoi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	10	xcomp	_	_
-13	cefndir	cefndir	NOUN	noun	Gender=Masc|Number=Sing	12	obj	_	_
-14	a	a	CCONJ	cconj	_	15	cc	_	_
-15	chyd-destun	cyd-destun	NOUN	noun	Gender=Fem|Mutation=AM|Number=Sing	13	conj	_	_
-16	i	i	ADP	prep	_	18	case	_	SpaceAfter=No
-17	'r	y	DET	art	_	18	det	_	_
-18	caneuon	cân	NOUN	noun	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
-19	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\n
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 obl:agent	color:blue
+1	Agorwyd	agor	VERB	verb	Mood=Ind|Person=0|Tense=Past|VerbForm=Fin	0	root	_	_
+2	y	y	DET	art	_	3	det	_	_
+3	llwybr	llwybr	NOUN	noun	Gender=Masc|Number=Sing	1	obj	_	_
+4	yn	yn	PART	pred	_	5	case:pred	_	_
+5	swyddogol	swyddogol	ADJ	pos	Degree=Pos	1	advmod	_	_
+6	yn	yn	ADP	prep	_	7	case	_	_
+7	1892	1892	NUM	num	NumForm=Digit|NumType=Card	1	obl	_	_
+8	gan	gan	ADP	prep	_	9	case	_	_
+9	William	William	PROPN	person	Gender=Masc|Number=Sing	1	obl:agent	_	_
+10	Gladstone	Gladstone	PROPN	person	_	9	flat:name	_	SpaceAfter=No
+11	,	,	PUNCT	punct	_	14	punct	_	_
+12	y	y	DET	art	_	14	det	_	_
+13	Prif	prif	ADJ	pos	Degree=Pos	14	amod	_	_
+14	Weinidog	gweinidog	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	9	appos	_	SpaceAfter=No
+15	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 

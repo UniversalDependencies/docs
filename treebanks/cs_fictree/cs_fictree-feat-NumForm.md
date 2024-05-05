@@ -37,6 +37,5 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="cs_fictree-dep-compound.html">compound</a></tt>]--> NUM</tt> (30; 100%),
-<tt>NUM --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NUM</tt> (16; 100%),
-<tt>NUM --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NUM</tt> (16; 100%).
 

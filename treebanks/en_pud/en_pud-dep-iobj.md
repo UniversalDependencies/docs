@@ -98,7 +98,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	company	company	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	BBC	BBC	PROPN	NNP	Number=Sing	3	iobj	3:iobj	_
+5	BBC	BBC	PROPN	NNP	Abbr=Yes|Number=Sing	3	iobj	3:iobj	_
 6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
 7	would	would	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_

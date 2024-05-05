@@ -130,7 +130,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-det.html">det</a></tt>]--> DET</tt> (2356; 63%),
+<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-det.html">det</a></tt>]--> DET</tt> (2354; 63%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt>]--> ADJ</tt> (771; 82%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-conj.html">conj</a></tt>]--> NOUN</tt> (150; 60%),
 <tt>ADJ --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (97; 51%),

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: Relations: `obl:agent`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt>.
 
 281 nodes (0%) are attached to their parents as `obl:agent`.

@@ -55,9 +55,9 @@ The following 8 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj:cop	color:blue
-1	Õhtt	õhtt	NUM	Num	Case=Nom|Number=Sing	2	nummod	_	GTtags=Sg,Nom
+1	Õhtt	õhtt	NUM	Num	Case=Nom|Number=Sing|NumType=Card	2	nummod	_	GTtags=Sg,Nom
 2	vuäʹbb	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj:cop	_	GTtags=Sem/Kin,Sg,Nom
-3	lij	leeʹd	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=Ind,Prs,Sg3
+3	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=Ind,Prs,Sg3
 4	seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	0	root	_	GTtags=Pers,Pl3,Loc|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 

@@ -47,8 +47,8 @@ The 3rd highest number of forms (4) was observed with the lemma “бу”: <em>
 `PRON` occurs with 20 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Dem`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`
 
 `PRON` occurs with 30 feature combinations.
-The most frequent feature combination is `Case=Gen|Number=Sing|Person=3|PronType=Prs` (6 tokens).
-Examples: <em>аның</em>
+The most frequent feature combination is `Case=Nom|Number=Sing|Person=3|PronType=Prs` (6 tokens).
+Examples: <em>ул</em>
 
 
 ## Relations

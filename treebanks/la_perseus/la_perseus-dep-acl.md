@@ -41,12 +41,12 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	proinde	proinde	ADV	d--------	_	9	advmod	_	LId=proinde1
 2	quasi	quasi	SCONJ	d--------	_	4	mark	_	LId=quasi1
 3	iniuriam	iniuria	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LId=injuria1
-4	facere	facio	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	LId=facio1
+4	facere	facio	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	5	acl	_	LId=facio1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	id	is	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LId=is1
 6	demum	demum	ADV	d--------	_	9	advmod	_	LId=demum1
 7	esset	sum	AUX	v3sisa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	LId=sum1|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 8	imperio	imperium	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	9	obj	_	LId=imperium1
-9	uti	utor	VERB	v--pnp---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	0	root	_	SpaceAfter=No|LId=utor1
+9	uti	utor	VERB	v--pnp---	Aspect=Imp|VerbForm=Inf|Voice=Pass	0	root	_	LId=utor1|SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	.	.	PUNCT	u--------	_	9	punct	_	LId=punc1
 
 ~~~
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 9	,	,	PUNCT	u--------	_	5	punct	_	LId=comma1
 10	haec	hic	DET	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	13	nsubj	_	LId=hic1
 11	sciat	scio	VERB	v3spsa---	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=scio1|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-12	esse	sum	AUX	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf	13	cop	_	LId=sum1
+12	esse	sum	AUX	v--pna---	Aspect=Imp|VerbForm=Inf	13	cop	_	LId=sum1|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 13	mea	meus	DET	p-p---na-	Case=Acc|Gender=Neut|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	u--------	_	11	punct	_	LId=punc1
 

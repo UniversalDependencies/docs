@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-362 nodes (2%) are attached to their parents as `cop`.
+174 nodes (1%) are attached to their parents as `cop`.
 
-360 instances of `cop` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.29834254143646.
+174 instances of `cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.36781609195402.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (292; 81% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (53; 15% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (124; 71% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (43; 25% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 cop	color:blue
-1	शायद	_	ADV	RB	_	5	advmod	_	Translit=śāyada
-2	ड्रेस	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	3	compound	_	Translit=ḍresa
-3	कोड	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Translit=koḍa
-4	बहुत	_	DET	QF	_	5	advmod	_	Translit=bahuta
-5	उबाऊ	_	ADJ	JJ	_	0	root	_	Translit=ubāū
-6	था	_	AUX	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	SpaceAfter=No|Translit=thā
-7	।	_	PUNCT	.	_	5	punct	_	Translit=.
+1	शायद	शायद	ADV	RB	_	5	advmod	_	Translit=śāyada|LTranslit=śāyada
+2	ड्रेस	ड्रेस	NOUN	NN	Gender=Masc|Number=Sing	3	compound	_	Translit=ḍresa|LTranslit=ḍresa
+3	कोड	कोड	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	Translit=koḍa|LTranslit=koḍa
+4	बहुत	बहुत	DET	QF	_	5	advmod	_	Translit=bahuta|LTranslit=bahuta
+5	उबाऊ	उबाऊ	ADJ	JJ	_	0	root	_	Translit=ubāū|LTranslit=ubāū
+6	था	था	AUX	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	SpaceAfter=No|Translit=thā|LTranslit=thā
+7	।	।	PUNCT	.	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -39,38 +39,27 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
-1	उसकी	_	PRON	PRP$	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nmod:poss	_	Translit=usakī
-2	उम्र	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	obj	_	Translit=umra
-3	84	_	NUM	CD	NumType=Card	4	nummod	_	Translit=84
-4	साल	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=sāla
-5	थी	_	AUX	VBI	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	SpaceAfter=No|Translit=thī
-6	।	_	PUNCT	.	_	4	punct	_	Translit=.
+1	उसकी	वह	PRON	PRP$	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	nmod:poss	_	Translit=usakī|LTranslit=vaha
+2	उम्र	उम्र	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	Translit=umra|LTranslit=umra
+3	84	84	NUM	CD	NumType=Card	4	nummod	_	Translit=84|LTranslit=84
+4	साल	साल	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=sāla|LTranslit=sāla
+5	थी	था	AUX	VBI	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	4	cop	_	SpaceAfter=No|Translit=thī|LTranslit=thā
+6	।	।	PUNCT	.	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 cop	color:blue
-1	उसका	_	PRON	PRP$	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod:poss	_	Translit=usakā
-2	1981	_	NUM	CD	NumType=Card	4	nmod:poss	_	Translit=1981
-3	का	_	ADP	IN	Case=Gen|Gender=Masc|Number=Sing	2	case	_	Translit=kā
-4	एल्बम	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	compound	_	Translit=elbama
-5	वाइल्ड	_	ADJ	JJ	_	6	amod	_	Proper=True|Translit=vāilḍa
-6	वेस्ट	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	Proper=True|Translit=vesṭa
-7	सबसे	_	ADJ	JJS	_	8	advmod	_	Translit=sabase
-8	ज्यादा	_	DET	QF	_	11	acl	_	Translit=jyādā
-9	बिकने	_	AUX	VINF	VerbForm=Inf	8	cop	_	Translit=bikane
-10	वाले	_	ADP	SFV	Gender=Masc|Number=Plur	8	case	_	Translit=vāle
-11	एल्बम	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	14	nmod	_	ToDo=nmod|Translit=elbama
-12	में	_	ADP	IN	_	11	case	_	Translit=meṁ
-13	से	_	ADP	IN	_	12	fixed	_	Translit=se
-14	एक	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=eka
-15	था	_	AUX	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	14	cop	_	SpaceAfter=No|Translit=thā
-16	।	_	PUNCT	.	_	14	punct	_	Translit=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cop	color:blue
+1	वे	वह	DET	DT	_	2	det	_	Translit=ve|LTranslit=vaha
+2	लोग	लोग	NOUN	NN	Case=Nom|Number=Plur	3	nsubj	_	Translit=loga|LTranslit=loga
+3	कौन	कौन	PRON	WP	_	0	root	_	Translit=kauna|LTranslit=kauna
+4	हैं	है	AUX	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	cop	_	SpaceAfter=No|Translit=haiṁ|LTranslit=hai
+5	?	?	PUNCT	.	_	3	punct	_	Translit=?|LTranslit=?
 
 ~~~
 

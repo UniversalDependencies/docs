@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 9 advmod:lmod	color:blue
 1	Ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg3
-2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	Case=Nom|Number=Sing	4	advmod:tmod	_	GTtags=Sg,Nom
+2	kuuʹǩǩ	kuʹǩǩ	ADV	Adv	_	4	advmod:tmod	_	GTtags=Sg,Nom
 3	leämmaž	leeʹd	AUX	V	Aspect=Perf|VerbForm=Part	4	cop	_	GTtags=IV,Act,PrfPrc
 4	mieʹccest	meäʹcc	NOUN	N	Case=Loc|Number=Sing	0	root	_	GTtags=Sg,Loc|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 3	åårr	åårrad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 4	tõʹst	tõʹst	ADV	Adv	_	5	advmod:lmod	_	_
 5	jiõŋ	jiõŋŋ	NOUN	N	Case=Gen|Number=Sing	3	obl:lmod	_	GTtags=Sg,Gen
-6	âʹlnn	âʹlnn	ADP	Adp	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
+6	âʹlnn	âʹlnn	ADP	Po	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~

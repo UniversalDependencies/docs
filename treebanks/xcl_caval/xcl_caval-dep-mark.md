@@ -8,82 +8,77 @@ udver: '2'
 
 This relation is universal.
 
-341 nodes (3%) are attached to their parents as `mark`.
+2731 nodes (3%) are attached to their parents as `mark`.
 
-341 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33431085043988.
+2729 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.50347857927499.
 
-The following 15 pairs of parts of speech are connected with `mark`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (242; 71% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (28; 8% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (23; 7% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (21; 6% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (7; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `mark`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1894; 69% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (228; 8% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (215; 8% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (143; 5% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (72; 3% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (38; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (37; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (27; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 mark	color:blue
-1	եւ	եւ	CCONJ	_	_	2	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-2	խռովեցաւ	խռովեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=xṙovecʻaw|LTranslit=xṙovem|Gloss=disturb
-3	Զաքարիա	Զաքարիա	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=Zakʻaria|LTranslit=Zakʻaria|Gloss=Zakʻaria
-4	իբրեւ	իբրեւ	SCONJ	_	_	5	mark	_	Translit=ibrew|LTranslit=ibrew|LId=իբրեւ-1|Gloss=when
-5	ետես	տեսանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	SpaceAfter=No|Translit=etes|LTranslit=tesanem|Gloss=see
-6	.	.	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:
-7	եւ	եւ	CCONJ	_	_	8	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-8	անկաւ	անկանիմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	Translit=ankaw|LTranslit=ankanim|Gloss=fall
-9	ահ	ահ	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	Translit=ah|LTranslit=ah|Gloss=fear
-10	ի	ի	ADP	_	_	12	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-11	վերայ	վերայ	ADP	_	_	10	fixed	_	Translit=veray|LTranslit=veray|LId=վերայ-1|Gloss=on
-12	նորա	նա	PRON	_	Case=Gen|Number=Sing|PronType=Dem	8	obl	_	SpaceAfter=No|Translit=nora|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-13	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 mark	color:blue
+1	Եւ	եւ	CCONJ	_	_	5	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
+2	իբրեւ	իբրեւ	SCONJ	_	_	3	mark	_	Translit=ibrew|LTranslit=ibrew|LId=իբրեւ-1|Gloss=when
+3	մկրտեցաւ	մկրտեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	advcl	_	Translit=mkrtecʻaw|LTranslit=mkrtem|Gloss=baptize
+4	Յիսուս	Յիսուս	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
+5	ել	ելանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=el|LTranslit=elanem|Gloss=go_out
+6	վաղվաղակի	վաղվաղակի	ADV	_	_	5	advmod	_	Translit=vałvałaki|LTranslit=vałvałaki|Gloss=suddenly
+7	ի	ի	ADP	_	_	8	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
+8	ջրոյ	ջուր	NOUN	_	Case=Abl|Number=Sing	5	obl	_	Translit=ǰroy|LTranslit=ǰowr|Gloss=water
+9	անտի	անտի	ADP	_	Deixis=Remt	8	case	_	SpaceAfter=No|Translit=anti|LTranslit=anti|LId=անտի-1|Gloss=from_there
+10	՝	՝	PUNCT	_	_	5	punct	_	Translit=;|LTranslit=;
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 14 mark	color:blue
-1	Եւ	եւ	CCONJ	_	_	3	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	նա	նա	PRON	_	Case=Nom|Number=Sing|PronType=Dem	3	nsubj	_	Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-3	ասէ	ասեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=asē|LTranslit=asem|Gloss=say
-4	ց	ց	ADP	_	_	5	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-5	նա	նա	PRON	_	Case=Acc|Number=Sing|PronType=Dem	3	obl	_	SpaceAfter=No|Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-6	՝	՝	PUNCT	_	_	11	punct	_	Translit=;|LTranslit=;
-7	յ	ի	ADP	_	_	8	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-1|Gloss=to/in/from
-8	աւրէնս	աւրէն	NOUN	_	Case=Loc|Number=Plur	11	obl	_	Translit=awrēns|LTranslit=awrēn|Gloss=law
-9	զինչ	զինչ	PRON	_	Animacy=Inan|Case=Nom|Number=Sing|PronType=Int	11	nsubj	_	Translit=zinčʻ|LTranslit=zinčʻ|Gloss=what
-10	՞	՞	PUNCT	_	_	9	punct	_	Translit=?|LTranslit=?
-11	գրեալ	գրեմ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	Translit=greal|LTranslit=grem|Gloss=write
-12	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	SpaceAfter=No|Translit=ē|LTranslit=em|Gloss=be
-13	՝	՝	PUNCT	_	_	16	punct	_	Translit=;|LTranslit=;
-14	որպէս	որպէս	ADV	_	PronType=Rel	16	mark	_	Translit=orpēs|LTranslit=orpēs|LId=որպէս-1|Gloss=as
-15	՞	՞	PUNCT	_	_	14	punct	_	Translit=?|LTranslit=?
-16	ընթեռնուս	ընթեռնում	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	conj	_	SpaceAfter=No|Translit=əntʻeṙnows|LTranslit=əntʻeṙnowm|Gloss=read
-17	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 mark	color:blue
+1	Եկն	գամ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Ekn|LTranslit=gam|Gloss=come
+2	դարձեալ	դարձեալ	ADV	_	_	1	advmod	_	Translit=darjeal|LTranslit=darjeal|Gloss=again
+3	ի	ի	ADP	_	_	4	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
+4	Կանա	Կանա	PROPN	_	Case=Acc|Number=Sing	2	obl	_	Translit=Kana|LTranslit=Kana|Gloss=Kana
+5	Գաղիղեացւոց	Գաղիղեացի	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	Translit=Gałiłeacʻwocʻ|LTranslit=Gałiłeacʻi|Gloss=Galilean
+6	ուր	ուր	ADV	_	PronType=Rel	7	mark	_	Translit=owr|LTranslit=owr|Gloss=where
+7	արար	առնեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	Translit=arar|LTranslit=aṙnem|Gloss=make
+8	զ	զ	ADP	_	Definite=Def	9	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+9	ջուր	ջուր	NOUN	_	Case=Acc|Number=Sing	7	obj	_	SpaceAfter=No|Translit=ǰowr|LTranslit=ǰowr|Gloss=water
+10	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Dem	9	det	_	Translit=n|LTranslit=n|Gloss=that
+11	գինի	գինի	NOUN	_	Case=Acc|Number=Sing	7	xcomp	_	SpaceAfter=No|Translit=gini|LTranslit=gini|Gloss=wine
+12	:	:	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 mark	color:blue
-1	Եմուտ	մտանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Emowt|LTranslit=mtanem|Gloss=enter
-2	խորհուրդ	խորհուրդ	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	Translit=xorhowrd|LTranslit=xorhowrd|Gloss=thought
-3	ի	ի	ADP	_	_	4	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-4	նոսա	նա	PRON	_	Case=Loc|Number=Plur|PronType=Dem	1	obl	_	Translit=nosa|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-5	թե	թե	SCONJ	_	_	8	mark	_	Translit=tʻe|LTranslit=tʻē|LId=թե-1|Gloss=whether
-6	ո	ով	PRON	_	Animacy=Anim|Case=Nom|Number=Sing|PronType=Int	8	nsubj	_	Translit=o|LTranslit=o|LId=ո-2|Gloss=who
-7	արդեւք	արդեւք	ADV	_	_	8	advmod	_	Translit=ardewkʻ|LTranslit=ardewkʻ|Gloss=perhaps
-8	մեծ	մեծ	ADJ	_	Case=Nom|Number=Sing	2	acl	_	Translit=mec|LTranslit=mec|Gloss=great
-9	իցէ	եմ	AUX	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	cop	_	Translit=icʻē|LTranslit=em|Gloss=be
-10	ի	ի	ADP	_	_	11	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-11	նոցանէ	նա	PRON	_	Case=Abl|Number=Plur|PronType=Dem	8	obl	_	SpaceAfter=No|Translit=nocʻanē|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-12	՝	՝	PUNCT	_	_	1	punct	_	Translit=;|LTranslit=;
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 mark	color:blue
+1	Ասէ	ասեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=Asē|LTranslit=asem|Gloss=say
+2	ց	ց	ADP	_	_	3	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
+3	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	1	obl:arg	_	Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
+4	կին	կին	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No|Translit=kin|LTranslit=kin|Gloss=woman
+5	ն	ն	DET	_	Definite=Def|Deixis=Remt|PronType=Dem	4	det	_	SpaceAfter=No|Translit=n|LTranslit=n|Gloss=that
+6	՝	՝	PUNCT	_	_	7	punct	_	Translit=;|LTranslit=;
+7	Տէր	Տէր	NOUN	_	Case=Nom|Number=Sing	9	vocative	_	SpaceAfter=No|Translit=Tēr|LTranslit=Tēr|Gloss=Lord
+8	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
+9	թուի	թուիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	ccomp	_	Translit=tʻowi|LTranslit=tʻowim|Gloss=number
+10	ինձ	ես	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	Translit=inj|LTranslit=es|Gloss=I
+11	թե	թե	SCONJ	_	_	12	mark	_	Translit=tʻe|LTranslit=tʻe|LId=թե-1|Gloss=whether
+12	մարգարէ	մարգարէ	NOUN	_	Case=Nom|Number=Sing	9	ccomp	_	Translit=margarē|LTranslit=margarē|Gloss=prophet
+13	իցես	եմ	AUX	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	12	cop	_	Translit=icʻes|LTranslit=em|Gloss=be
+14	դու	դու	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	SpaceAfter=No|Translit=dow|LTranslit=dow|Gloss=you_(sg.)
+15	՝	՝	PUNCT	_	_	1	punct	_	Translit=;|LTranslit=;
 
 ~~~
 

@@ -9,74 +9,50 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="it_old-dep-csubj-relcl.html">csubj:relcl</a></tt>.
 
-3 nodes (0%) are attached to their parents as `csubj:pass`.
+5 nodes (0%) are attached to their parents as `csubj:pass`.
 
-2 instances of `csubj:pass` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.33333333333333.
+4 instances of `csubj:pass` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.8.
 
-The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
-# visual-style 37	bgColor:blue
-# visual-style 37	fgColor:white
-# visual-style 35	bgColor:blue
-# visual-style 35	fgColor:white
-# visual-style 35 37 csubj:pass	color:blue
-1	Quella	quello	PRON	pd1fs	Gender=Fem|Number=Sing|PronType=Dem	2	nsubj	_	Canto=30|Verso=103
-2	sonò	suonare	VERB	vi1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Canto=30|Verso=103
-3	come	come	SCONJ	cssm	_	6	mark	_	Canto=30|Verso=103
-4	fosse	essere	AUX	vi4cis3	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	Canto=30|Verso=103
-5	un	uno	DET	rims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Canto=30|Verso=103
-6	tamburo	tamburo	NOUN	sm2ms	Gender=Masc|Number=Sing	2	advcl:cmp	_	Canto=30|SpaceAfter=No|Verso=103
-7	;	;	PUNCT	_	_	12	punct	_	_
-8	e	e	CCONJ	cscc	_	10	cc	_	Canto=30|Verso=104
-9	mastro	maestro	NOUN	sm2ms	Gender=Masc|Number=Sing	12	nsubj	_	Canto=30|Verso=104
-10	Adamo	Adamo	PROPN	np	_	9	nmod	_	Canto=30|Verso=104
-11	li	li	PRON	pp3msyda	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	Canto=30|Verso=104
-12	percosse	percuotere	VERB	vta2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Canto=30|Verso=104
-13	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Canto=30|Verso=104
-14	volto	volto	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obj	_	Canto=30|Verso=104
-15	con	con	ADP	_	_	17	case	_	Canto=30|Comment=co-l|Verso=105
-16	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Canto=30|Comment=co-l|Verso=105
-17	braccio	braccio	NOUN	sm2ms	Gender=Masc|Number=Sing	12	obl	_	Canto=30|Verso=105
-18	suo	suo	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	17	det:poss	_	Canto=30|SpaceAfter=No|Verso=105
-19	,	,	PUNCT	_	_	22	punct	_	_
-20	che	che	PRON	pr	PronType=Rel	22	nsubj	_	Canto=30|Verso=105
-21	non	non	ADV	b	PronType=Neg	22	advmod:neg	_	Canto=30|Verso=105
-22	parve	parere	VERB	vi2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	acl:relcl	_	Canto=30|Verso=105
-23	men	meno	ADV	b	Degree=Cmp	24	advmod	_	Canto=30|Verso=105
-24	duro	duro	ADJ	a1msc-	Gender=Masc|Number=Sing	22	xcomp	_	Canto=30|SpaceAfter=No|Verso=105
-25	,	,	PUNCT	_	_	26	punct	_	_
-26	dicendo	dire	VERB	vta3gp	VerbForm=Conv|Voice=Act	12	advcl	_	Canto=30|Verso=106
-27	a	a	ADP	epsk1d	_	28	case	_	Canto=30|Verso=106
-28	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	26	obl:arg	_	Canto=30|SpaceAfter=No|Verso=106
-29	:	:	PUNCT	_	_	45	punct	_	_
-30	«	«	PUNCT	_	_	45	punct	_	SpaceAfter=No
-31	ancor	ancora	ADV	_	_	35	advmod	_	Canto=30|Verso=106
-32	che	che	SCONJ	_	_	35	mark	_	Canto=30|Verso=106
-33	mi	mi	PRON	pp1syda	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	35	iobj	_	Canto=30|Verso=106
-34	sia	essere	AUX	vi4cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	aux:pass	_	Canto=30|Verso=106
-35	tolto	togliere	VERB	vtp2cps3	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	45	advcl	_	Canto=30|Verso=106
-36	lo	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	Canto=30|Verso=107
-37	muover	muovere	VERB	vi2fpsm3ms	Tense=Pres|VerbForm=Inf	35	csubj:pass	_	Canto=30|Verso=107
-38	per	per	ADP	epskr	_	40	case	_	Canto=30|Verso=107
-39	le	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	40	det	_	Canto=30|Verso=107
-40	membra	membro	NOUN	sm2fp	Gender=Fem|Number=Plur	37	obl	_	Canto=30|Verso=107
-41	che	che	PRON	pr	PronType=Rel	43	nsubj	_	Canto=30|Verso=107
-42	son	essere	AUX	vi4ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	43	cop	_	Canto=30|Verso=107
-43	gravi	grave	ADJ	a2fp	Number=Plur	40	acl:relcl	_	Canto=30|SpaceAfter=No|Verso=107
-44	,	,	PUNCT	_	_	35	punct	_	_
-45	ho	avere	VERB	vta5ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	26	ccomp:reported	_	Canto=30|Verso=108
-46	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	45	nsubj	_	Canto=30|Verso=108
-47	il	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	Canto=30|Verso=108
-48	braccio	braccio	NOUN	sm2ms	Gender=Masc|Number=Sing	45	obj	_	Canto=30|Verso=108
-49	a	a	ADP	epskf	_	51	case	_	Canto=30|Verso=108
-50	tal	tale	DET	a2ms	Number=Sing	51	det	_	Canto=30|Verso=108
-51	mestiere	mestiere	NOUN	sm3ms	Gender=Masc|Number=Sing	45	obl	_	Canto=30|Verso=108
-52	sciolto	sciogliere	VERB	vta2pra1ms	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	45	xcomp	_	Canto=30|SpaceAfter=No|Verso=108
-53	»	»	PUNCT	_	_	45	punct	_	SpaceAfter=No
-54	.	.	PUNCT	_	_	45	punct	_	_
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 29 csubj:pass	color:blue
+1	Ma	ma	CCONJ	csca	_	19	cc	_	Canto=1|Verso=91
+2	se	se	SCONJ	cssv	_	8	mark	_	Canto=1|Verso=91
+3	donna	donna	NOUN	sf1fs	Gender=Fem|Number=Sing	8	nsubj	_	Canto=1|Verso=91
+4	di	di	ADP	_	_	6	case	_	Canto=1|Comment=de-l|Verso=91
+5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Canto=1|Comment=de-l|Verso=91
+6	ciel	cielo	NOUN	sm2ms	Gender=Masc|Number=Sing	3	nmod	_	Canto=1|Verso=91
+7	ti	ti	PRON	pp2syac	Clitic=Yes|Person=2|Poss=Yes|PronType=Prs	8	obj	_	Canto=1|Verso=91
+8	muove	muovere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	Canto=1|Verso=91
+9	e	e	CCONJ	cscc	_	10	cc	_	Canto=1|Verso=91
+10	regge	reggere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	Canto=1|SpaceAfter=No|Verso=91
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	come	come	ADV	b	_	14	advmod	_	Canto=1|Verso=92
+13	tu	tu	PRON	pp2slso	Person=2|Poss=Yes|PronType=Prs	14	nsubj	_	Canto=1|Verso=92
+14	di'	dire	VERB	vta3ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl:cmp	_	Canto=1|SpaceAfter=No|Verso=92
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	non	non	ADV	b	PronType=Neg	19	advmod	_	Canto=1|Verso=92
+17	c'	ci	ADV	b	_	19	advmod	_	Canto=1|Verso=92
+18	è	essere	AUX	vi*4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	Canto=1|Verso=92
+19	mestier	mestiere	NOUN	sm3ms	Gender=Masc|Number=Sing	0	root	_	Canto=1|Verso=92
+20	lusinghe	lusinga	NOUN	sf1fp	Gender=Fem|Number=Plur	19	obl	_	Canto=1|SpaceAfter=No|Verso=92
+21	:	:	PUNCT	_	_	19	punct	_	_
+22	bastare	bastare	VERB	vi*+1cps3	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	parataxis	_	Canto=1|Verso=93
+23	si	si	PRON	pf3xim	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	22	expl:pass	_	Canto=1|Verso=93
+24	ben	bene	ADV	b	_	22	advmod	_	Canto=1|Verso=93
+25	che	che	SCONJ	csss	_	29	mark	_	Canto=1|Verso=93
+26	per	per	ADP	epskj	_	27	case	_	Canto=1|Verso=93
+27	lei	lei	PRON	pp3fslco	Gender=Fem|Number=Sing|Person=3|PronType=Prs	29	obl	_	Canto=1|Verso=93
+28	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	29	obj	_	Canto=1|Verso=93
+29	richegge	richiedere	VERB	vta2cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	22	csubj:pass	_	Canto=1|SpaceAfter=No|Verso=93
+30	.	.	PUNCT	_	_	19	punct	_	_
 
 ~~~
 

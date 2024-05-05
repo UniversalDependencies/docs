@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 3	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	both	both	CCONJ	CC	_	6	cc:preconj	6:cc:preconj	_
 5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	_
-6	means	means	NOUN	NNS	Number=Plur	3	obj	3:obj	_
+6	means	means	NOUN	NNS	Number=Ptan	3	obj	3:obj	_
 7	and	and	CCONJ	CC	_	8	cc	8:cc	_
 8	opportunity	opportunity	NOUN	NN	Number=Sing	6	conj	3:obj|6:conj:and	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_

@@ -15,7 +15,7 @@ The 10 most frequent `PRON` types:  <em>I, you, e, we, am, de, me, my, dem, im</
 
 The 10 most frequent ambiguous lemmas: <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 2221, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 42, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 2), <em>am</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1338, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 1), <em>your</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 525, <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> 35), <em>dat</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 654, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 251, <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 93, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1), <em>dis</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 806, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 114), <em>all</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 267, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 95, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 5), <em>some</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 160, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 84), <em>mysef</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 33, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1), <em>dose</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 99, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 17), <em>dere</em> (<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 200, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 13)
 
-The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1564, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 5, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 1), <em>am</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1338, <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 4, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 3, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 2), <em>de</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1225, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 2), <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 827, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 42), <em>your</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 525, <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> 35), <em>dat</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 648, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 256, <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 88, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1), <em>una</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 246, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 1), <em>dis</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 805, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 114), <em>all</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 267, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 95, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 4), <em>it</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 86, <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1564, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 5, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 1), <em>am</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1338, <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 4, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 3, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 2), <em>de</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 1225, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 2), <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 827, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 42), <em>your</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 525, <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> 35), <em>dat</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 648, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 256, <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> 88, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1), <em>una</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 246, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 1), <em>deir</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 164, <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> 1), <em>dis</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 805, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 114), <em>all</em> (<tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 267, <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 95, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 4)
 
 
 * <em>e</em>
@@ -44,6 +44,9 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pcm_nsc-pos-PRON
 * <em>una</em>
   * <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 246: <em>ah my people o < I dey greet <b>una</b> //</em>
   * <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 1: <em>Nigeria { <b>una</b> || na } bad country //</em>
+* <em>deir</em>
+  * <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 164: <em># push <b>deir</b> barrow for dat side ?//</em>
+  * <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> 1: <em># <b>deir</b> eye dey always dey dey { { big |r big } ting |r { big |r big } ting |r { big |r big } ting } //</em>
 * <em>dis</em>
   * <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 805: <em>I con see sey # [ <b>dis</b> our country < # tins # go con dey hard now ] //</em>
   * <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 114: <em>{ <b>dis</b> is my || <b>dis</b> is my prayer } //</em>
@@ -51,13 +54,10 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pcm_nsc-pos-PRON
   * <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 267: <em># <b>all</b> money wey im get < # e con carry am go pay im hospital bill //</em>
   * <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 95: <em># <b>all</b> of us say [ we wan go school //] //</em>
   * <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 4: <em>na di accounting wey { a~ || I read } # <b>all</b> through //</em>
-* <em>it</em>
-  * <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 86: <em># but I still like am # cause I don # perfect on <b>it</b> //</em>
-  * <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 1: <em># use to clean <b>it</b> |c # and di rest //</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.537313 (the average of all parts of speech is 1.162376).
+The form / lemma ratio of `PRON` is 1.537313 (the average of all parts of speech is 1.162341).
 
 The 1st highest number of forms (6) was observed with the lemma “dem”: <em>de, deir, dem, den, them, they</em>.
 

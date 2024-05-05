@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Emmett Strickland, Marine Courtin, Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Chika Kennedy Ajede, Emeka Onwuegbuzia, Samson Tella.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,7 +85,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 
 <ul>
-<li>This corpus contains 9240 sentences and 140818 tokens.</li>
+<li>This corpus contains 9241 sentences and 140842 tokens.</li>
 </ul>
 
 <ul>
@@ -206,7 +206,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: your, sleepless</li>
+      <li>ADJ: your, sleepless, deir</li>
       <li>ADV: students, den</li>
       <li>AUX: Don</li>
       <li>DET: dose, dese, those</li>
@@ -558,7 +558,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: your, its</li>
+      <li>ADJ: your, deir, its</li>
       <li>PRON: my, your, our, deir, her, im, una, we, dem, e</li>
     </ul>
   </li>
@@ -607,7 +607,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>3
     <ul>
-      <li>ADJ: its</li>
+      <li>ADJ: deir, its</li>
       <li>AUX: is, 's, be, does</li>
       <li>AUX-Fin: is, 's, does</li>
       <li>PART: dem</li>
@@ -772,7 +772,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1773)</li>
+      <li>VERB--NOUN (1774)</li>
       <li>VERB--NOUN-ADP(as) (1)</li>
       <li>VERB--NOUN-ADP(on) (2)</li>
       <li>VERB--PRON (348)</li>
@@ -791,7 +791,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (3916)</li>
+      <li>VERB--NOUN (3917)</li>
       <li>VERB--NOUN-ADP(for) (1)</li>
       <li>VERB--NOUN-ADP(if) (1)</li>
       <li>VERB--NOUN-ADP(in) (1)</li>

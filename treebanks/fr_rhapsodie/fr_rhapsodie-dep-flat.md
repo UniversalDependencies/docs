@@ -59,7 +59,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	machin	machin	NOUN	_	Gender=Masc|Number=Sing	15	reparandum	_	_
 13	Sembat	Sembat	PROPN	_	_	12	flat	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
 15	Sembat	Sembat	PROPN	_	_	6	nmod:appos	_	_
 16	quelque	quelque	DET	_	Number=Sing|PronType=Ind	17	det	_	_
 17	chose	chose	NOUN	_	Gender=Fem|Number=Sing	15	flat	_	SpaceAfter=No
@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	machin	machin	NOUN	_	Gender=Masc|Number=Sing	15	reparandum	_	_
 13	Sembat	Sembat	PROPN	_	_	12	flat	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
 15	Sembat	Sembat	PROPN	_	_	6	nmod:appos	_	_
 16	quelque	quelque	DET	_	Number=Sing|PronType=Ind	17	det	_	_
 17	chose	chose	NOUN	_	Gender=Fem|Number=Sing	15	flat	_	SpaceAfter=No
