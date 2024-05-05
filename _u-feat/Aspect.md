@@ -105,7 +105,7 @@ morphemes, _-yor_ and _-mekte._
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
-The action takes place habitually (daily, weekly, annually etc) or is a usual occurence.
+The action takes place habitually (daily, weekly, annually etc) or is a usual occurrence.
 
 #### Examples
 
