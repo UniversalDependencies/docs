@@ -105,11 +105,11 @@ morphemes, _-yor_ and _-mekte._
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
-English simple present has this aspect.
+The action takes place habitually (daily, weekly, annually etc) or is a usual occurence.
 
 #### Examples
 
-* [en] _he <b>attends</b> classes of Japanese_
+* [ga] _<b>Bíonn</b> an seoladh poist céanna ag na vótóirí uilig_ “Each voter (usually) has the same postal address”
 
 ### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
