@@ -5,7 +5,7 @@ shortdef: 'Twitter mentions'
 udver: '2'
 ---
 
-The specialization of `vocative`, `vocative:mention` used for sicial media @-mentions and it links the addressee (i.e. the used called out by means of the @-mention) to its host sentence. This follows earlier examples for Italian and Irish social media treebanks.
+The specialization of `vocative`, `vocative:mention` used for social media @-mentions and it links the addressee (i.e. the used called out by means of the @-mention) to its host sentence. This follows earlier examples for Italian and Irish social media treebanks.
 
 ~~~ sdparse
 @user Își bate dracu' nevasta 😂
