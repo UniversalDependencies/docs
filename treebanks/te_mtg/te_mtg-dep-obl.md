@@ -1,0 +1,64 @@
+---
+layout: base
+title:  'Statistics of obl in UD_Telugu-MTG'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Telugu-MTG: Relations: `obl`
+
+This relation is universal.
+There are 3 language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="te_mtg-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="te_mtg-dep-obl-tmod.html">obl:tmod</a></tt>.
+
+305 nodes (5%) are attached to their parents as `obl`.
+
+303 instances of `obl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.69508196721311.
+
+The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (251; 82% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (28; 9% instances), <tt><a href="te_mtg-pos-VERB.html">VERB</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (18; 6% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="te_mtg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="te_mtg-pos-PRON.html">PRON</a></tt>-<tt><a href="te_mtg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 obl	color:blue
+1	నిన్న	_	ADV	ADV	_	4	obl:tmod	_	Translit=ninna
+2	మేము	_	PRON	PRON	_	4	nsubj	_	Translit=mēmu
+3	ఊళ్ళో	_	NOUN	NOUN	_	4	obl	_	Translit=ūḷḷō
+4	లేము	_	VERB	VERB	_	0	root	_	Translit=lēmu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 obl	color:blue
+1	నాలాగా	_	PRON	PRON	_	3	obl	_	Translit=nālāgā
+2	జన్మంతా	_	NOUN	NOUN	_	3	nsubj	_	Translit=janmaṁtā
+3	బాధపడాలి	_	VERB	VERB	_	4	ccomp	_	Translit=bādhapaḍāli
+4	అనుకొన్నావా	_	VERB	VERB	_	0	root	_	Translit=anukonnāvā
+5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 obl	color:blue
+1	రాముడు	_	PROPN	PROPN	_	4	nsubj	_	Translit=rāmuḍu
+2	సీతతో	_	PROPN	PROPN	_	4	obl	_	Translit=sītatō
+3	అడవికి	_	NOUN	NOUN	_	4	obl	_	Translit=aḍaviki
+4	వెళ్ళేడు	_	VERB	VERB	_	0	root	_	Translit=veḷḷēḍu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
+
+~~~
+
+
