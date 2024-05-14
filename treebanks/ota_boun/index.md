@@ -58,7 +58,7 @@ You can use the following reference for the treebank:
 ```
 @inproceedings{ozates-etal-2024-dependency,
 title = "Dependency Annotation of {O}ttoman {T}urkish with Multilingual {BERT}",
-author = { {\"O}zate{\c{s}}, {\c{S}}aziye and T{\i}ra{\c{s}}, Tar{\i}k and Gen{\c{c} }, Efe and Bilgin Tasdemir, Esma},
+author = {% raw %}{{{% endraw %}\"O}zate{\c{s{% raw %}}}{% endraw %}, {\c{S{% raw %}}}{% endraw %}aziye and T{\i}ra{\c{s{% raw %}}}{% endraw %}, Tar{\i}k and Gen{\c{c{% raw %}}}{% endraw %}, Efe and Bilgin Tasdemir, Esma},
 booktitle = "Proceedings of The 18th Linguistic Annotation Workshop (LAW-XVIII)",
 month = mar,
 year = "2024",
