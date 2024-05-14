@@ -39,6 +39,7 @@ aux(συναντήσει, έχω)
 dobj(συναντήσει, τον)
 ~~~
 
+<!---
 - the impersonal verb *πρέπει* expressing obligation and probability
 
 ~~~ sdparse
@@ -74,8 +75,8 @@ The personal verb *μπορώ* expressing ability or permission should be treate
 xcomp(μπορεί, φάει)
 aux(φάει, να)
 ~~~
+-->
 
-Negative particles  *δεν* and *μην* are assigned the relation [neg](neg).
 
 <!--
 TODO
