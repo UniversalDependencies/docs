@@ -1,0 +1,113 @@
+---
+layout: base
+title:  'Statistics of CCONJ in UD_Portuguese-GSD'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Portuguese-GSD: POS Tags: `CCONJ`
+
+There are 16 `CCONJ` lemmas (0%), 43 `CCONJ` types (0%) and 10426 `CCONJ` tokens (3%).
+Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 8 in number of tokens.
+
+The 10 most frequent `CCONJ` lemmas: <em>e, que, _, mas, ou, porém, quanto, &, nem, a</em>
+
+The 10 most frequent `CCONJ` types:  <em>e, que, mas, ou, se, quando, como, porque, enquanto, pois</em>
+
+The 10 most frequent ambiguous lemmas: <em>e</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 6365, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1), <em>que</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1605, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 539, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 386, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 5, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 2), <em>_</em> (<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 26803, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 7821, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 6131, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 3765, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 3010, <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> 2377, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 1984, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1516, <tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> 1272, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1077, <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> 904, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 597, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 561, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 379, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 191, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 3), <em>ou</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 403, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 2), <em>porém</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 3), <em>quanto</em> (<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 21, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 4), <em>&</em> (<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 16, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 3), <em>nem</em> (<tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 6, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 2), <em>a</em> (<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 2506, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 270, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 6, <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 3, <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1), <em>and</em> (<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1)
+
+The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 6352, <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 2, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 1, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 1, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1), <em>que</em> (<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 2995, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1869, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 384, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 58, <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 7, <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="pt_gsd-pos-X.html">X</a></tt> 1), <em>ou</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 405, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 2), <em>se</em> (<tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 853, <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 285, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 152, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 35, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 3), <em>quando</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 132, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 127, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 3, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 3), <em>como</em> (<tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 735, <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 86, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 73, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 4), <em>porque</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 4), <em>enquanto</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 56, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 13, <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 4, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1), <em>pois</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 57, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 1), <em>embora</em> (<tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 2)
+
+
+* <em>e</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 6352: <em>Dois anos depois , ele foi preso -- <b>e</b> eu nunca o vi novamente .</em>
+  * <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> 13: <em>Não serão aceitos currículos por <b>e</b> - mail ou inscrições por telefone .</em>
+  * <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> 2: <em>Morning Sun : nova música de a banda Rock Mafia com a participação de a cantora americana Miley Cyrus <b>e</b> liberada nesta quarta - feira ( 4 ) .</em>
+  * <tt><a href="pt_gsd-pos-X.html">X</a></tt> 2: <em>Certifique se de que inseriu sua principal conta de <b>e</b> - mail .</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 1: <em>Segundo ele , ritmos como este ajudam <b>e</b> reconhecer e a guardar informações em a memória .</em>
+  * <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 1: <em>Com os rebentos a nascerem em a base e a empurrarem <b>e</b> planta mãe para cima , esta pode chegar a os 50 cm de diâmetro e de altura .</em>
+  * <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 1: <em>Isto significa que <b>e</b> tem a notável propriedade de que a taxa de variação de e^x em o ponto x=t vale e^t .</em>
+  * <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> 1: <em>Carlos Alberto 8 horas atrás acho que este advogado de o diabo ta tirando o dele de a reta , porque justiça completa <b>e</b> a de o povo , sem contar a de deus .</em>
+* <em>que</em>
+  * <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 2995: <em>Ver também a lista de entidades <b>que</b> tenham emitido selos postais .</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 1869: <em>" Não podemos fazer outra coisa <b>que</b> sair a as ruas .</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 384: <em>Em a internet , manifestar se de essa forma é o mesmo <b>que</b> gritar ;</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 58: <em>Dizia que estava sendo abandonado e <b>que</b> tinha muita coisa pra contar .</em>
+  * <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> 7: <em>Se for assim , <b>que</b> triste realidade .</em>
+  * <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> 6: <em>Tomara <b>que</b> caia com acessório em a frente ( mais reto , o modelo proporciona um visual horizontal ) ;</em>
+  * <tt><a href="pt_gsd-pos-X.html">X</a></tt> 1: <em>Em comum , os palestrantes deram um recado importante a os participantes : somente por meio de a união <b>que</b> os produtores de leite conseguirão superar as dificuldades e aproveitar melhor as oportunidades .</em>
+* <em>ou</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 405: <em>Derivados de o isopentano <b>ou</b> metilbutano ( CH3 ) 2-CH-CH2-CH3 .</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 2: <em>Pode se gostar mais <b>ou</b> menos de o que está em a tela , mas O ditador tem um problema grave : falta humor .</em>
+* <em>se</em>
+  * <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> 853: <em>Muitos clientes <b>se</b> anteciparam e garantiram as reservas .</em>
+  * <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> 285: <em>Especula <b>se</b> sobre a possibilidade de estar extinta .</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 152: <em>" Mas <b>se</b> precisasse , usaria sim " , diisse .</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 35: <em>Não sei <b>se</b> o poder aquisitivo melhorou , mas em o sábado chegou a acabar as coisas para vender em a barraca .</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 3: <em>Se tiver , vamos atender , <b>se</b> não , vamos usar outros .</em>
+* <em>quando</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 132: <em>Devemos anunciar o próximo técnico , <b>quando</b> iniciarem as negociações " .</em>
+  * <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 127: <em>A cidade é linda e adorei jogar em 2009 , <b>quando</b> ganhei o título .</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 3: <em>Ninguém tem uma trilha ( que gerou o trilhão ) de irregularidades tão grande <b>quando</b> Eliezer Batista .</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 3: <em>" <b>quando</b> chegar em o " chão " não haverá mais chão , continuará caindo em direção a o horizonte . "</em>
+* <em>como</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 735: <em>Foi um grande jogador , mas o que ganhou <b>como</b> técnico ? "</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 86: <em>Quando provam e dizem que está bom , é <b>como</b> vencer uma pequena batalha .</em>
+  * <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 73: <em>Acreditar , <b>como</b> ?</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 4: <em>A Carta a o Pai foi escrita em 1919 , mas nunca chegou a ser enviada a seu pai , embora houvesse cogitado <b>como</b> revela em carta a Milena Jesenská .</em>
+* <em>porque</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 93: <em>" Também não mancha <b>porque</b> tem baixa porosidade " , explica Letícia .</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Eu não me detenho muito em as análises a respeito de 2010 <b>porque</b> é muito pouco tempo .</em>
+  * <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 4: <em>A gastrônoma Cila Rocha explica <b>porque</b> o doce é leve .</em>
+* <em>enquanto</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 56: <em><b>enquanto</b> em a memória Flash o acesso é direto ;</em>
+  * <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 13: <em>Por <b>enquanto</b> , nenhuma empresa foi confirmada .</em>
+  * <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> 4: <em>Russomanno , <b>enquanto</b> isso , enfrentou algumas críticas em tom mais ameno .</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 1: <em>E , <b>enquanto</b> não tomar conhecimento mais aprofundado de o assunto , a UCI anunciou que em o momento não tem " mais nada a comentar " sobre o mesmo .</em>
+* <em>pois</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 57: <em>Isso é bom , <b>pois</b> deixa a disputa ainda mais competitiva !</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Isso ocorre <b>pois</b> costumam voar a uma altura máxima de meio metro de o solo .</em>
+  * <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 1: <em>E , <b>pois</b> bem , quem era Jack Riley ?</em>
+* <em>embora</em>
+  * <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> 28: <em>Esta reatividade assemelha se com a de os cloretos de ácidos , <b>embora</b> seja um pouco mais branda .</em>
+  * <tt><a href="pt_gsd-pos-SCONJ.html">SCONJ</a></tt> 5: <em>A Carta a o Pai foi escrita em 1919 , mas nunca chegou a ser enviada a seu pai , <b>embora</b> houvesse cogitado como revela em carta a Milena Jesenská .</em>
+  * <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> 2: <em>" Quando eles disserem a vocês para irem <b>embora</b> , vocês precisam ir <b>embora</b> .</em>
+
+## Morphology
+
+The form / lemma ratio of `CCONJ` is 2.687500 (the average of all parts of speech is 2.236183).
+
+The 1st highest number of forms (38) was observed with the lemma “_”: <em>&amp;, EO, and, animado.Quando, até, caso, como, conforme, de, e, embora, enquanto, então, et, he, i.e., logo, mais, mas, mesmo, n, nem, ou, pois, porque, porém, q, qua, quando, quanto, que, se, segundo, seja, tampouco, tanto, têm, y</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “e”: <em>&, e</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “&”: <em>&</em>.
+
+`CCONJ` occurs with 2 features: <tt><a href="pt_gsd-feat-ExtPos.html">ExtPos</a></tt> (4; 0% instances), <tt><a href="pt_gsd-feat-Number.html">Number</a></tt> (2; 0% instances)
+
+`CCONJ` occurs with 2 feature-value pairs: `ExtPos=CCONJ`, `Number=Sing`
+
+`CCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (10420 tokens).
+Examples: <em>e, que, mas, ou, se, quando, como, porque, enquanto, pois</em>
+
+
+## Relations
+
+`CCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="pt_gsd-dep-cc.html">cc</a></tt> (7688; 74% instances), <tt><a href="pt_gsd-dep-mark.html">mark</a></tt> (2398; 23% instances), <tt><a href="pt_gsd-dep-fixed.html">fixed</a></tt> (255; 2% instances), <tt><a href="pt_gsd-dep-dep.html">dep</a></tt> (26; 0% instances), <tt><a href="pt_gsd-dep-flat-name.html">flat:name</a></tt> (23; 0% instances), <tt><a href="pt_gsd-dep-conj.html">conj</a></tt> (10; 0% instances), <tt><a href="pt_gsd-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="pt_gsd-dep-nsubj.html">nsubj</a></tt> (5; 0% instances), <tt><a href="pt_gsd-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="pt_gsd-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="pt_gsd-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="pt_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="pt_gsd-dep-obl.html">obl</a></tt> (1; 0% instances)
+
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (5192; 50% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (2874; 28% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (1307; 13% instances), <tt><a href="pt_gsd-pos-ADJ.html">ADJ</a></tt> (380; 4% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (209; 2% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (162; 2% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (107; 1% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt> (86; 1% instances), <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (32; 0% instances), <tt><a href="pt_gsd-pos-SYM.html">SYM</a></tt> (27; 0% instances), <tt><a href="pt_gsd-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (17; 0% instances), <tt><a href="pt_gsd-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (5; 0% instances)
+
+10355 (99%) `CCONJ` nodes are leaves.
+
+51 (0%) `CCONJ` nodes have one child.
+
+14 (0%) `CCONJ` nodes have two children.
+
+6 (0%) `CCONJ` nodes have three or more children.
+
+The highest child degree of a `CCONJ` node is 4.
+
+Children of `CCONJ` nodes are attached using 10 different relations: <tt><a href="pt_gsd-dep-punct.html">punct</a></tt> (46; 47% instances), <tt><a href="pt_gsd-dep-fixed.html">fixed</a></tt> (38; 39% instances), <tt><a href="pt_gsd-dep-conj.html">conj</a></tt> (6; 6% instances), <tt><a href="pt_gsd-dep-advmod.html">advmod</a></tt> (2; 2% instances), <tt><a href="pt_gsd-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="pt_gsd-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="pt_gsd-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="pt_gsd-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="pt_gsd-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="pt_gsd-dep-obj.html">obj</a></tt> (1; 1% instances)
+
+Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="pt_gsd-pos-PUNCT.html">PUNCT</a></tt> (46; 47% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (25; 26% instances), <tt><a href="pt_gsd-pos-CCONJ.html">CCONJ</a></tt> (17; 17% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pt_gsd-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pt_gsd-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+
