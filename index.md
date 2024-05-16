@@ -71,7 +71,7 @@ longer maintained and they have been excluded from the most recent release.
 The data is released through LINDAT/CLARIN.
 
 * The next release (v2.15) is scheduled for November 15, 2024 (data freeze on November 1).
-* Version 2.14 treebanks will be available at <a href="http://hdl.handle.net/11234/1-5502">http://hdl.handle.net/11234/1-5502</a>. 283 treebanks, 161 languages, released May 15, 2024.
+* Version 2.14 treebanks are available at <a href="http://hdl.handle.net/11234/1-5502">http://hdl.handle.net/11234/1-5502</a>. 283 treebanks, 161 languages, released May 15, 2024.
 * Version 2.13 treebanks are archived at http://hdl.handle.net/11234/1-5287. 259 treebanks, 148 languages, released November 15, 2023.
 * Version 2.12 treebanks are archived at http://hdl.handle.net/11234/1-5150. 245 treebanks, 141 languages, released May 15, 2023.
 * Version 2.11 treebanks are archived at http://hdl.handle.net/11234/1-4923. 243 treebanks, 138 languages, released November 15, 2022.

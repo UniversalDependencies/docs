@@ -4,7 +4,7 @@ title:  'Pashto UD'
 udver: '2'
 ---
 
-# UD for Pashto <span class="flagspan"><img class="flag" src="../../flags/svg/PK.svg" /></span>
+# UD for Pashto <span class="flagspan"><img class="flag" src="../../flags/svg/AF.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/PK.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
