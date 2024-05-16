@@ -87,6 +87,7 @@ udver: '2'
 
 ## Treebanks
 
-There is one Sanskrit UD treebank:
+There are two Sanskrit UD treebanks:
 
   * [Sanskrit-UFAL](../treebanks/sa_ufal/index.html)
+  * [Sanskrit-Vedic](../treebanks/sa_vedic/index.html)
