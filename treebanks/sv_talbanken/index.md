@@ -36,11 +36,11 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
+| Lemmas | assigned by a program, with extensive manual and semi-automatic corrections, but not a full manual verification |
 | UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 | XPOS | annotated manually |
-| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
-| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Features | annotated manually in non-UD style, automatically converted to UD, with extensive manual and semi-automatic corrections |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with extensive manual and semi-automatic corrections |
 
 ## Description
 
@@ -63,12 +63,13 @@ Stockholm-Umeå Corpus, Version 2.0 (2006), and lemmatization is based on Saldo
 ## Acknowledgments
 
 The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
-University. We thank everyone who has been involved in previous conversion efforts
-at Växjö University and Uppsala University, including Bengt Dahlqvist, Sofia
-Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi, Jens Nilsson, and
-Filip Salomonsson. Special thanks also to Lars Borin and Markus Forsberg at
-Språkbanken for help with the lemmatization. Finally, we owe a huge debt to the
-team who produced the original treebank in the 1970s.
+University. A semi-automatic corrections of features and lemmas was done by Victor 
+Norrman and Joakim Nivre. We thank everyone who has been involved in previous 
+conversion efforts at Växjö University and Uppsala University, including Bengt 
+Dahlqvist, Sofia Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi, 
+Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus 
+Forsberg at Språkbanken for help with the lemmatization. Finally, we owe a huge 
+debt to the team who produced the original treebank in the 1970s.
 
 ## References
 

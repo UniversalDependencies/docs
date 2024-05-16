@@ -34,10 +34,10 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
+| Lemmas | assigned by a program, with extensive manual and semi-automatic corrections, but not a full manual verification |
 | UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
 | XPOS | assigned by a program, with some manual corrections, but not a full manual verification |
-| Features | assigned by a program, with some manual corrections, but not a full manual verification |
+| Features | assigned by a program, with extensive manual and semi-automatic corrections, but not a full manual verification |
 | Relations | annotated manually, natively in UD style |
 
 ## Description
@@ -58,7 +58,8 @@ Translations were produced by Jacob Nolskog at Teknotrans AB and checked by Joak
 Nivre. The automatic annotation was carried out using SwePipe, a tool suite trained
 on the Stockholm-Umeå Corpus and the Swedish-TP treebank, developed by Robert Östling,
 Aaron Smith and Joakim, and available from https://github.com/robertostling/efselab.
-The syntactic annotation was checked and corrected manually by Joakim Nivre.
+The syntactic annotation was checked and corrected manually by Joakim Nivre. 
+A Semi-automatic corrections of features and lemmas was done by Victor Norrman and Joakim Nivre.
 
 
 # Statistics of UD Swedish PUD
