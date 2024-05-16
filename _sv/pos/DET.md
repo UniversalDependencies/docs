@@ -16,7 +16,6 @@ _<b>våra</b> åsikter_ "our opinions" (plural).
 ### Examples
 
 - Articles: _en_ "a/an", _ett_ "a/an", _den_ "the", _det_ "the", _de_ "the"  
-- Possessive determiners: _min_ "my" as in _<b>min</b> bil_ "my car", _deras_ "their" as in _<b>deras</b> attityder_ "their attitudes", _<b>ditt</b> jobb_ "your job"
 - Demonstrative determiners: _detta_ "this/that" as in _hela <b>detta</b> nätverk_ "this whole network" 
 - Interrogative determiners: _vilket_ "which/what" as in _<b>vilket</b> samband finns?_ "what relation is there?"
 - Relative determiners: _vilken_ "which/what" as in _komma ihåg <b>vilken</b> tidning det var_ "remember which newspaper it was"
