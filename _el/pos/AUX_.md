@@ -22,8 +22,8 @@ The verb *είμαι* /ime “to be” is assigned the tag [AUX]().
 -	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
 -	Auxiliary use of *είμαι*: *το τριαντάφυλο είναι  λουλούδι"* / *to triantafilo ine louloudi* "a rose is a flower", *ο Αλέξανδρος είναι ψηλός* / *o Alexandros ine psilos* "Alexandros is tall", *το γράμμα είναι γραμμένο με σκούρο μελάνι* / *to grama ine grameno me skouro melani* "the letter has been written with dark ink"
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful."
--	Auxiliary use of *ας*¨*Καλύτερα ας έχουμε το κεφάλι μας ήσυχο."
--	Auxiliary use of *για*¨*Για έλα κατά δω."
+-	Auxiliary use of *ας*: *Καλύτερα ας έχουμε το κεφάλι μας ήσυχο."
+-	Auxiliary use of *για*: *Για έλα κατά δω."
 
 ### Important note
 There are two treebanks of Modern Greek and differ with respect to [AUX]() assignment. 
