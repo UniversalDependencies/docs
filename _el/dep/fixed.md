@@ -10,7 +10,7 @@ These expressions are annotated in a flat, head-initial structure,
 in which all words in the expression modify the first one using the relation [fixed]().
 
 Adverbs
-- Multiword adverbs involving reduplication, e.g. such as *τσίμα τσίμα*, *ίσα ίσα* *στο τσακ*, *στο παρατσάκ* 'tightly'.
+- Multiword adverbs involving reduplication, e.g. such as *τσίμα τσίμα*, *ίσα ίσα*, *στο τσακ*, *στο παρατσάκ* 'tightly'.
 
 ~~~ sdparse
 τσίμα τσίμα
