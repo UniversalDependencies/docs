@@ -5,10 +5,8 @@ shortdef: 'reduplicated compounds'
 udver: '2'
 ---
 
-This subtype of [compound]() covers a range of reduplicated forms in Modern Greek.
-Reduplication is a common process especially for [adverbs](el-pos/ADV) some of which are also used as  [adjectives](el-pos/ADJ).
-
-In the case of adverbs, Each adverb is assigned the tag [ADV]() and first one is assigned the feature [Degree=Mag](). The second adverb 
+Reduplication of adverbs is productive in Modern Greek and is a way of intensification of the meaning of the adverb. 
+Each adverb is assigned the tag [ADV]() and first one is assigned the feature [Degree=Mag](). The second adverb 
 depends on the first one with the [compound:redup]() dependency. 
 - *πάνω πάνω* Lit. *up up* "on the very top"
 - *πίσω πίσω* Lit. *back back* "at the very back", *σιγά σιγά* Lit. *slowly slowly* "very very slowly"
