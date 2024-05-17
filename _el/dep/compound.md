@@ -56,7 +56,7 @@ compound(εκατομμύρια, τρία)
 nummod(ευρώ, εκατομμύρια)
 ~~~
 
-The head of the compound numeral sometimes agrees with a modified noun. 
+The head of the compound cardinal numeral sometimes agrees with a modified noun. 
 
 ~~~ sdparse
 τριάντα τρεις μέρες
