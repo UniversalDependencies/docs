@@ -56,6 +56,13 @@ compound(εκατομμύρια, τρία)
 nummod(ευρώ, εκατομμύρια)
 ~~~
 
+The head of the compound numeral sometimes agrees with a modified noun. 
+
+~~~ sdparse
+τριάντα τρεις μέρες
+compound(τρεις, τριάντα)
+nummod(μέρες, τρεις)
+~~~
 The two other compounding relations are:
 
 - [fixed]() for fixed grammaticized expressions with function words
