@@ -10,10 +10,11 @@ An auxiliary is a function word that accompanies the lexical verb of a verb phra
 
 The verb *έχω* / *echo* "have" and the particles *θα* and *για, ας* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
-*να* is tagged [AUX]() when:	
-* It introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
+*να* is tagged [AUX]() when  introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
 
-The verb *είμαι* /ime “to be” is assigned the tag [AUX]().
+There is one multiword auxiliary *δε πα να* "may, let it".
+
+The verb *είμαι* /ime “to be” is assigned the tag [AUX]() always, even when it heads a verb multiword expression (because normally multiwords headed by *είμαι* can be reconstructed as properties, e.g., *είμαι τζάμπα μάγκας*, *είμαι στους πέντε δρόμους*). 
 
 
 
@@ -24,6 +25,7 @@ The verb *είμαι* /ime “to be” is assigned the tag [AUX]().
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful."
 -	Auxiliary use of *ας*: *Καλύτερα ας έχουμε το κεφάλι μας ήσυχο."
 -	Auxiliary use of *για*: *Για έλα κατά δω."
+-	Auxiliary use of *δε πα να*: *Δε πα να καταρρεύσουν όλες οι τράπεζες."
 
 ### Important note
 There are two treebanks of Modern Greek and differ with respect to [AUX]() assignment. 
