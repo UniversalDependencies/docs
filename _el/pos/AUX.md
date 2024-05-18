@@ -14,7 +14,7 @@ The verb *έχω* / *echo* "have" and the particles *θα* and *για, ας* ar
 
 There is one multiword auxiliary *δε πα να* "may, let it".
 
-The verb *είμαι* /ime “to be” is assigned the tag [AUX]() always, even when it heads a verb multiword expression (because normally multiwords headed by *είμαι* can be reconstructed as properties, e.g., *είμαι τζάμπα μάγκας*, *είμαι στους πέντε δρόμους*). 
+The verb *είμαι* /ime “to be” is assigned the tag [AUX]() always, even when it heads a verb multiword expression (because normally multiwords headed by *είμαι* are understood as properties, e.g., *είμαι τζάμπα μάγκας*, *είμαι στους πέντε δρόμους*). 
 
 
 
