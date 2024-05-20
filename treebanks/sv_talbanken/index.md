@@ -63,7 +63,7 @@ Stockholm-Umeå Corpus, Version 2.0 (2006), and lemmatization is based on Saldo
 ## Acknowledgments
 
 The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
-University. A semi-automatic corrections of features and lemmas was done by Victor 
+University. A semi-automatic correction of features and lemmas was done by Victor 
 Norrman and Joakim Nivre. We thank everyone who has been involved in previous 
 conversion efforts at Växjö University and Uppsala University, including Bengt 
 Dahlqvist, Sofia Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi, 
