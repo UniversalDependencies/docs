@@ -113,5 +113,5 @@ Non-verbal Clauses
 ## Treebanks
 
 Currently, Hebrew has a single treebank:
-* [Hebrew HTB](http://universaldependencies.org/treebanks/he_htb/index.html)
-
+* [Hebrew HTB](../treebanks/he_htb/index.html)
+* [Hebrew IAHLT](../treebanks/he_iahltwiki/index.html)
