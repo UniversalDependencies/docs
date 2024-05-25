@@ -9,27 +9,27 @@ A clausal subject is a clausal syntactic subject of a clause, i.e.,
 the subject is itself a clause. The governor of this relation might
 not always be a verb: when the verb is a copular verb, the root of the
 clause is the complement of the copular verb. The dependent is the main lexical verb or other 
-predicate of the subject clause. In the following
-examples, *what she said* (that is, *said*) is the clausal subject of *makes* and *interesting*, respectively.
+predicate of the subject clause.
+
+~~~ sdparse
+That he lied surprised me .
+csubj(suprised, lied)
+mark(lied, That)
+nsubj(lied, he)
+obj(surprised, me)
+~~~
+
+~~~ sdparse
+Whether he lied is unknown .
+csubj(unknown, lied)
+mark(lied, Whether)
+nsubj(lied, he)
+cop(unknown, is)
+~~~
 
 **New from v2:** The `csubj` relation is also used for the clausal subject of a passive verb or verb group. For languages
 that have a grammaticalized passive transformation, it is strongly recommended to use the subtype [csubj:pass]() in 
 such cases. If the subject is of a copular clause whose predicate is itself a clause, [csubj:outer]() may be used.
-
-~~~ sdparse
-What she said makes sense
-csubj(makes, said)
-~~~
-
-~~~ sdparse
-What she said is interesting
-csubj(interesting, said)
-~~~
-
-~~~ sdparse
-What she said was well received
-csubj:pass(received, said)
-~~~
 
 See also expletive subject examples under [expl]() that use `csubj`.
 
