@@ -13,7 +13,7 @@ predicate of the subject clause.
 
 ~~~ sdparse
 That he lied surprised me .
-csubj(suprised, lied)
+csubj(surprised, lied)
 mark(lied, That)
 nsubj(lied, he)
 obj(surprised, me)
