@@ -27,7 +27,7 @@ Note how in the example above, the subject of both infinitives marked by ⲉ is 
 
 ## Use with causative ⲧⲣⲉ
 
-Additionally, the subordinate infinitive of the causative construction with ⲧⲣⲉ is also analyzed as xcomp, although the etymological subject of the auxiliary ⲧⲣⲉ is attached to the lexical infinitive as a subject. This facilitates syntactic recognition of the construction next to semantic argument structure extraction:
+Additionally, the subordinate infinitive of the causative construction with ⲧⲣⲉ is also analyzed as xcomp, although the etymological subject of the auxiliary ⲧⲣⲉ is attached to the governing predicate as an object. This facilitates syntactic recognition of the construction next to semantic argument structure extraction:
 
 ~~~ sdparse
 
@@ -41,7 +41,7 @@ xcomp(ⲟⲩⲱϣ, ⲧⲣⲉ)
 aux(ⲧⲣⲉ, ⲉ)
 det(ϣⲏⲣⲉ, ⲛ)
 xcomp(ⲧⲣⲉ, ϫⲓ)
-nsubj(ϫⲓ, ϣⲏⲣⲉ)
+obj(ⲧⲣⲉ, ϣⲏⲣⲉ)
 nmod(ϣⲏⲣⲉ, ⲛⲟⲩⲧⲉ)
 case(ⲛⲟⲩⲧⲉ, ⲙ)
 det(ⲛⲟⲩⲧⲉ, ⲡ)
@@ -50,7 +50,7 @@ obj(ϫⲓ, ⲡⲣⲟⲥⲫⲟⲣⲁ)
 
 ~~~
 
-Note that in the example above, the first xcomp is the normal infinitive case, with no explicit subject, but the second xcomp illustrates the causative construction: ‘sons’ are both the object of ‘making’ and subject of ‘carrying’.
+Note that in the example above, the first xcomp is the normal infinitive case, with no explicit subject, but the second xcomp illustrates the causative construction: ‘sons’ are both the object of ‘making’ and indirectly through argument sharing, the subject of ‘carrying’.
 
 ## Predicate of ϣⲱⲡⲉ 'become'
 
