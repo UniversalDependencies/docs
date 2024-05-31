@@ -44,4 +44,39 @@ Parallel: Bible (Ref)
 * Bible: Ancient Greek PROIEL, Ancient Hebrew, Coptic, Gothic, Latin PROIEL, Old Church Slavonic, Romanian Nonstandard, Yoruba
 * Cairo: Latgalian, Latvian, Luxembourgish, Tswana, others have it as one part of larger data (Buryat, Macedonian, Malayalam, what else?)
 
-TODO: genres
+
+# Genres
+
+At present, we can only list the genres that are present somewhere in the treebank. There is no machine-readable way how to say which sentences belong to which genre. This we could do the same way as the parallel ranges above, using ranges of sentence ids:
+
+```
+Genre: news = set-s1 .. set-s3694
+```
+
+However, we probably need to revisit the taxonomy of genres (or text types). The current granularity is not optimal. Also, we should acknowledge that there are multiple dimensions (text features) and their combination defines the text type.
+
+TODO:
+
+* I suppose there must be a taxonomy of text types somewhere that someone has created for corpora.
+* List of genres known and allowed in UD v2 (see validator or [release checklist](/release_checklist.html#treebank-metadata)).
+  * none, news, fiction, nonfiction, academic, medical, legal, government, blog, reviews, social, email, spoken, wiki, web, bible, grammar-examples, learner-essays, poetry
+* See what Sara et al. did in their genre-balanced UD.
+* See the Helsinki Corpus (Old and Middle English).
+
+Dimensions:
+
+* Fiction (imaginative narration) vs. non-fiction (non-imaginative narration and non-narration). This distinction may be controversial for religious texts where believers will not want to categorize them as fiction.
+* Prose vs. verse. What about drama? It seems to be a separate dimension because it may or may not be in verse.
+* Drama / dialogue (including movie subtitles, interviews) vs. narration.
+* Letter (including, but not just e-mail)
+* Review
+* Learner essay
+* Grammar example (isolated, possibly made up or simplified)
+* Spoken vs. text. Or better, spontaneous vs. written (because if a repporter reads or says the news on TV, it is much closer to written language).
+  * Edited (someone was preparing the text or speech; blogs are included here, too) vs. social (short posts on social networks, also discussions and reviews, but not blogs) vs. spontaneous (speech only).
+* Topic:
+  * news (including sports, weather forecast etc.)
+  * law (including contracts, government regulations), politology, economy, social sciences
+  * humanities, arts, culture, religion
+  * medicine, natural sciences, mathematics
+  * technology, engineering, industry, agriculture
