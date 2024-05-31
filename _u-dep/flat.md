@@ -323,7 +323,7 @@ flat(quack-4, quack-6)
 
 ## Items separated for readability
 
-Here the units separated by spaces or punctuation cannot really be construed as separate lexemes. A common case is telephone numbers:
+Here the units separated by spaces or punctuation cannot really be construed as separate lexemes. A common case is **telephone numbers**:
 
 ~~~ sdparse
 Call 0118 999 881 999 119 725 3
@@ -336,9 +336,25 @@ flat(0118, 725)
 flat(0118, 3)
 ~~~
 
-But not all “unnecessary” spaces are flat:
+**Filenames** are another such case: they may contain spaces, and the components may or may not be recognizable as natural language strings, but in general filenames are not expected to follow regular syntactic structure. `flat` signals filenames are a context where regular syntactic rules do not apply (whether the component tokens are analyzed morphologically like words of an art title, or simply tagged as [X](), or a mixture; the precise tokenization and morphological analysis is left to the discretion of treebanks). `ExtPos=PROPN` may be specified in the MISC column to signal that the whole filename functions externally as a proper noun. For example, the filename `Mydoc CHQ2 - Wednesday DRAFT (2).txt` might be analyzed as follows:
+
+~~~ sdparse
+Mydoc/X[ExtPos=PROPN] CHQ2/X -/PUNCT Wednesday/PROPN DRAFT/PROPN (/PUNCT 2/NUM )/PUNCT .txt/X
+flat(Mydoc, CHQ2)
+flat(Mydoc, -)
+flat(Mydoc, Wednesday)
+flat(Mydoc, DRAFT)
+flat(Mydoc, ()
+flat(Mydoc, 2)
+flat(Mydoc, ))
+flat(Mydoc, .txt)
+~~~
+
+It is not expected that a language's tokenization rules will make special exceptions for spaces in telephone numbers or filenames. That is, if spaces trigger token boundaries in general, they should also do so for telephone numbers and filenames; exceptional token-internal spaces will not be permitted.
+
+Not all “unnecessary” spaces warrant `flat`, however:
 - improper spacing within a word should be addressed with [goeswith]()
-- space-separated numerals like _1 000 000_ [may be treated as single words](/u/overview/tokenization.html)
+- numerals with thousands separator spaces (e.g. _1 000 000_) [may be treated as single words](/u/overview/tokenization.html) in languages where this convention is widespread
 
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:21:14 CEST -->
