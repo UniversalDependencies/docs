@@ -63,34 +63,18 @@ However, we probably need to revisit the taxonomy of genres (or text types). The
     In particular, if the corpus consists of randomly shuffled isolated sentences that resulted from crawling the web, we can hardly know the genre of the document a sentence was taken from. Hence the genre is unknown. This value includes the _web_ genre, which was among the permitted values until UD 2.14. However, the _unknown_ genre is broader, as the data source does not have to be the web. On the other hand, there are texts that do come from the web, yet they can be clearly assigned to a more specific genre. Note that the _unknown_ value should not be used if we know that there are multiple genres in the corpus, we know which ones, we just do not know where exactly (but it would be possible to tell that if an annotator went over the corpus again). In such cases, multiple genre lines can be used without sentence id ranges.<br/>
    A special type of isolated sentences is examples from a reference grammar, language textbook or other linguistic literature. These sentences are often made-up examples (or carefully selected from fieldwork material) to demonstrate a particular grammatical construction. Many UD treebanks contain such sentences. These should not be labeled as unknown genre; instead, they should use the _grammar_ label:
    <pre>Genre: grammar</pre></li>
-</ol>
 
-2. If we believe that the corpus or its part should have an identifiable genre, the next question to answer is whether the text / utterance was prepared or spontaneous. Written language is typically prepared (the author can think about it, revisit it and edit it), even if not always with the same level of care. Chats on social media are borderline, so they get their own label. Spoken language can be also prepared (e.g., news on TV) or it can be spontaneous. Political speeches (including parlament proceedings) are also borderline: Some of them are prepared, some of them are spontaneous or half-prepared (the speaker has notes but not the exact text). More generally, _speech_ is a monologue intended for some audience (besides political speeches these could be laudatios, speeches at funerals or various other occasions). But the label does not cover all kinds of spoken data!
+  <li>If we believe that the corpus or its part should have an identifiable genre, the next question to answer is whether the text / utterance was prepared or spontaneous. Written language is typically prepared (the author can think about it, revisit it and edit it), even if not always with the same level of care. Chats on social media are borderline, so they get their own label. Spoken language can be also prepared (e.g., news on TV) or it can be spontaneous. Political speeches (including parlament proceedings) are also borderline: Some of them are prepared, some of them are spontaneous or half-prepared (the speaker has notes but not the exact text). More generally, _speech_ is a monologue intended for some audience (besides political speeches these could be laudatios, speeches at funerals or various other occasions). But the label does not cover all kinds of spoken data!
+    <pre>Genre: speech</pre>
+    An interview (e.g. a journalist interviewing a celebrity) is typically prepared on the side of the interviewer and partially spontaneous (with possible corrections before it is published) on the side of the interviewed. It gets its own label (but note that this label does not cover other types of dialogues):
+    <pre>Genre: interview</pre>
+    Short posts such as tweets get the label _social_. They may be prepared to some extent but often they are written quickly, with shortcuts and possibly errors. This genre includes chats and discussions under other posts or under larger articles (while the larger article itself does not belong to the _social_ genre). User-generated reviews of products and services are not considered _social_ (provided they are posted at places dedicated for reviews and not among general posts on Twitter, Facebook, Telegram, Reddit etc.)
+    <pre>Genre: social</pre>
+    For all other written data and for spoken language that is read or recited (i.e., there is probably a written original), consider it prepared and go to the next step.
+    For all other spoken data, consider it spontaneous and give it the label _spontaneous_. Hence, the former _spoken_ genre, which was among the permitted values until UD 2.14, should now be split to _speech_, _interview_, _spontaneous_, or as the case may be, merged with the appropriate prepared genre. If it is not clear that a spoken utterance is prepared or qualifies as _speech_ or _interview_, it should be _spontaneous_ by default. Typical spontaneous data are transcriptions of unprepared dialogues such as TV debates; also recordings of conversations at home and in other natural settings.
+    <pre>Genre: spontaneous</pre></li>
 
-```
-Genre: speech
-```
-
-   An interview (e.g. a journalist interviewing a celebrity) is typically prepared on the side of the interviewer and partially spontaneous (with possible corrections before it is published) on the side of the interviewed. It gets its own label (but note that this label does not cover other types of dialogues):
-
-```
-Genre: interview
-```
-
-   Short posts such as tweets get the label _social_. They may be prepared to some extent but often they are written quickly, with shortcuts and possibly errors. This genre includes chats and discussions under other posts or under larger articles (while the larger article itself does not belong to the _social_ genre). User-generated reviews of products and services are not considered _social_ (provided they are posted at places dedicated for reviews and not among general posts on Twitter, Facebook, Telegram, Reddit etc.)
-
-```
-Genre: social
-```
-
-   For all other written data and for spoken language that is read or recited (i.e., there is probably a written original), consider it prepared and go to the next step.
-   For all other spoken data, consider it spontaneous and give it the label _spontaneous_. Hence, the former _spoken_ genre, which was among the permitted values until UD 2.14, should now be split to _speech_, _interview_, _spontaneous_, or as the case may be, merged with the appropriate prepared genre. If it is not clear that a spoken utterance is prepared or qualifies as _speech_ or _interview_, it should be _spontaneous_ by default. Typical spontaneous data are transcriptions of unprepared dialogues such as TV debates; also recordings of conversations at home and in other natural settings.
-
-```
-Genre: spontaneous
-```
-
-3. Drama contains mostly dialogues, sometimes monologues, and occasional other notes such as scene description. It may or may not be in verse. Note that movie subtitles would get the _drama_ label, too.
+  <li>Drama contains mostly dialogues, sometimes monologues, and occasional other notes such as scene description. It may or may not be in verse. Note that movie subtitles would get the _drama_ label, too.
 
 ```
 Genre: drama
@@ -167,6 +151,7 @@ Genre: academic
 ```
 Genre: essay
 ```
+</ol>
 
 TODO:
 
