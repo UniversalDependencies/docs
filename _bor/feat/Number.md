@@ -8,9 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Rel">Rel</a></td>
-  <td><a href="#Clau">Clau</a></td>
-  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Sing">Sing</a></td>
+  <td><a href="#Plur">Plur</a></td>
+  <td><a href="#Coll">Coll</a></td>
+  <td><a href="#Sgtv">Sgtv</a></td>
   
   
 </tr>
@@ -18,21 +19,30 @@ udver: '2'
 
 `Nomzr` refers to the nominalizer (deverbalizer) 
 
-### <a name="Rel">`Rel`</a>: Rel
-
-
-#### Example
-
-### <a name="Clau">`Clau`</a>: Clau
+### <a name="Sing">`Sing`</a>: Sing
 
 
 #### Example
 
 
-### <a name="Loc">`Loc`</a>: Loc
+### <a name="Plur">`Plur`</a>: Plur
 
 
 #### Example
+
+
+### <a name="Coll">`Coll`</a>: Coll
+
+
+#### Example
+
+
+### <a name="Sgtv">`Sgtv`</a>: Sgtv
+
+
+#### Example
+
+
 
 
 
