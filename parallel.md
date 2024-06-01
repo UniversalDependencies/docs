@@ -53,7 +53,120 @@ At present, we can only list the genres that are present somewhere in the treeba
 Genre: news = set-s1 .. set-s3694
 ```
 
-However, we probably need to revisit the taxonomy of genres (or text types). The current granularity is not optimal. Also, we should acknowledge that there are multiple dimensions (text features) and their combination defines the text type.
+However, we probably need to revisit the taxonomy of genres (or text types). The current granularity is not optimal. Note that we use the term _genre_ in a broad sense of text type; besides the genre proper, it sometimes includes the medium, topic etc.
+
+## Decision list
+
+1. Can we specify the genre at all? We are required to say what we know about the genre in the metadata in README, but we could say that the genre is unknown:
+
+```
+Genre: unknown
+```
+
+   In particular, if the corpus consists of randomly shuffled isolated sentences that resulted from crawling the web, we can hardly know the genre of the document a sentence was taken from. Hence the genre is unknown. This value includes the _web_ genre, which was among the permitted values until UD 2.14. However, the _unknown_ genre is broader, as the data source does not have to be the web. On the other hand, there are texts that do come from the web, yet they can be clearly assigned to a more specific genre. Note that the _unknown_ value should not be used if we know that there are multiple genres in the corpus, we know which ones, we just do not know where exactly (but it would be possible to tell that if an annotator went over the corpus again). In such cases, multiple genre lines can be used without sentence id ranges.
+
+   A special type of isolated sentences is examples from a reference grammar, language textbook or other linguistic literature. These sentences are often made-up examples (or carefully selected from fieldwork material) to demonstrate a particular grammatical construction. Many UD treebanks contain such sentences. These should not be labeled as unknown genre; instead, they should use the _grammar_ label:
+
+```
+Genre: grammar
+```
+
+2. If we believe that the corpus or its part should have an identifiable genre, the next question to answer is whether the text / utterance was prepared or spontaneous. Written language is typically prepared (the author can think about it, revisit it and edit it), even if not always with the same level of care. Chats on social media are borderline, so they get their own label. Spoken language can be also prepared (e.g., news on TV) or it can be spontaneous. Political speeches (including parlament proceedings) are also borderline: Some of them are prepared, some of them are spontaneous or half-prepared (the speaker has notes but not the exact text). More generally, _speech_ is a monologue intended for some audience (besides political speeches these could be laudatios, speeches at funerals or various other occasions). But the label does not cover all kinds of spoken data!
+
+```
+Genre: speech
+```
+
+   An interview (e.g. a journalist interviewing a celebrity) is typically prepared on the side of the interviewer and partially spontaneous (with possible corrections before it is published) on the side of the interviewed. It gets its own label (but note that this label does not cover other types of dialogues):
+
+```
+Genre: interview
+```
+
+   Short posts such as tweets get the label _social_. They may be prepared to some extent but often they are written quickly, with shortcuts and possibly errors. This genre includes chats and discussions under other posts or under larger articles (while the larger article itself does not belong to the _social_ genre). User-generated reviews of products and services are not considered _social_ (provided they are posted at places dedicated for reviews and not among general posts on Twitter, Facebook etc.)
+
+```
+Genre: social
+```
+
+   For all other written data and for spoken language that is read or recited (i.e., there is probably a written original), consider it prepared and go to the next step.
+   For all other spoken data, consider it spontaneous and give it the label _spontaneous_. Hence, the former _spoken_ genre, which was among the permitted values until UD 2.14, should now be split to _speech_, _interview_, _spontaneous_, or as the case may be, merged with the appropriate prepared genre. If it is not clear that a spoken utterance is prepared or qualifies as _speech_ or _interview_, it should be _spontaneous_ by default. Typical spontaneous data are transcriptions of unprepared dialogues such as TV debates; also recordings of conversations at home and in other natural settings.
+
+```
+Genre: spontaneous
+```
+
+3. Drama contains mostly dialogues, sometimes monologues, and occasional other notes such as scene description. It may or may not be in verse. Note that movie subtitles would get the _drama_ label, too.
+
+```
+Genre: drama
+```
+
+4. If it is in verse but it is not a play (drama, see above), then it is a candidate for the _poetry_ label, especially if it is lyric poetry (for epic poetry, there may be edge cases where one may want to consider merging it with prose narration, but _poetry_ should still be the default). Song lyrics belong here, too. This category is probably also the best fit for prayers.
+
+```
+Genre: poetry
+```
+
+5. Text produced by second language learners in the language class may contain specific errors and have their own category (formerly _learner-essays_, now just _learner_). Typically such texts are short essays but they could fall to various other genres below (such as _mail_, _narration_ or _essay_) if they were not produced by language learners. Note that the learner category should not absorb everything written by a non-native speaker; it is designed specifically for texts created in the language learning environment.
+
+```
+Genre: learner
+```
+
+6. Letters including e-mails get the label _mail_. This includes the former _email_ genre, which was among the permitted values until UD 2.14. In general, these are monologues addressed to a concrete person or group of persons, unless they were already identified as a speech, poetry etc. We do not distinguish personal letters from official letters and business correspondence.
+
+```
+Genre: mail
+```
+
+7. Novels, short stories and other works of fiction are labeled as _narration_. It is not decisive whether the contents is fiction or it reflects real events (and in some cases, such as the Bible, the question of factuality would be controversial). The _narration_ genre also includes non-fiction narratives such as chronicles, biographies and travelogues. On the other hand, _news_ is a separate category, not included in _narration_. The former _bible_ genre, used until UD 2.14, is now included in _narration_.
+
+```
+Genre: narration
+```
+
+8. Daily newspapers typically contain short articles describing recent events and are labeled _news_. Magazines are typically not included in this genre, as they contain longer reads which may be popular science, reviews, interviews and other material. However, it will be practical if the whole issue of a daily newspaper (perhaps without weekend supplements) can be categorized as _news_ without measuring the length of individual articles. Besides political news it may contain business news, sports results, weather forecasts, TV programs, announcements, advertisments etc. Transcribed spoken news broadcast through radio, TV or internet also qualify as _news_.
+
+```
+Genre: news
+```
+
+9. Reviews are evaluative texts of any length and regardless of the qualification of the author (hence, the category covers user-generated product or service reviews as well as book or movie reviews written by experts). (In the former genres used until UD 2.14 the label was in plural – _reviews_.)
+
+```
+Genre: review
+```
+
+10. Laws, international treaties, local regulations, contracts, terms and conditions of a service are all in a broad category called _regulation_. Note that while legal bills approved by a parliament are _regulation_, the proceedigns of the parliament deliberation belong to the _speech_ category. From the former genres that were valid until UD 2.14, the new _regulation_ category covers both _legal_ and _government_.
+
+```
+Genre: regulation
+```
+
+11. Manuals, guidelines, documentation, patent applications and various other types of instructions (including recipes or directions how to get somewhere) are labeled as _instruction_. Furthermore, this category includes specialized descriptive texts such as technical report from an experiment or health report with a patient's diagnose (until UD 2.14 probably labeled as _medical_). Textbooks may also belong here, unless they are seen as fitting better to other categories (for example _academic_ or _grammar_ examples).
+
+```
+Genre: instruction
+```
+
+12. Articles from Wikipedia or any other encyclopedia, as well as individual popular science articles from magazines are categorized as _encyclopedia_. This includes the former genre _wiki_ that was used until UD 2.14. Dictionary entries would be also included in this category.
+
+```
+Genre: encyclopedia
+```
+
+13. Scholarly articles from any field are categorized as _academic_. Unlike _encyclopedia_, they are intended for expert audience rather than the general public. There was a same-named category among the genres until UD 2.14, however, it is not clear whether academic papers about medicine were labeled as _academic_ or _medical_; now they should be _academic_.
+
+```
+Genre: academic
+```
+
+14. A text that discusses a topic, possibly presenting opinion of the author and/or other people, and does not belong to any of the above categories, is an _essay_.
+
+```
+Genre: essay
+```
 
 TODO:
 
@@ -61,22 +174,36 @@ TODO:
 * List of genres known and allowed in UD v2 (see validator or [release checklist](/release_checklist.html#treebank-metadata)).
   * none, news, fiction, nonfiction, academic, medical, legal, government, blog, reviews, social, email, spoken, wiki, web, bible, grammar-examples, learner-essays, poetry
 * See what Sara et al. did in their genre-balanced UD.
+  * https://aclanthology.org/2021.tlt-1.7.pdf
+  * https://aclanthology.org/2023.mrl-1.19.pdf
+    * https://github.com/UppsalaNLP/UD-MULTIGENRE
 * See the Helsinki Corpus (Old and Middle English).
 
 Dimensions:
 
-* Fiction (imaginative narration) vs. non-fiction (non-imaginative narration and non-narration). This distinction may be controversial for religious texts where believers will not want to categorize them as fiction.
-* Prose vs. verse. What about drama? It seems to be a separate dimension because it may or may not be in verse.
-* Drama / dialogue (including movie subtitles, interviews) vs. narration.
-* Letter (including, but not just e-mail)
-* Review
-* Learner essay
-* Grammar example (isolated, possibly made up or simplified)
-* Spoken vs. text. Or better, spontaneous vs. written (because if a repporter reads or says the news on TV, it is much closer to written language).
-  * Edited (someone was preparing the text or speech; blogs are included here, too) vs. social (short posts on social networks, also discussions and reviews, but not blogs) vs. spontaneous (speech only).
+OK* Fiction (imaginative narration) vs. non-fiction (non-imaginative narration and non-narration). This distinction may be controversial for religious texts where believers will not want to categorize them as fiction.
+OK* Prose vs. verse. What about drama? It seems to be a separate dimension because it may or may not be in verse.
+OK* Drama / dialogue (including movie subtitles, interviews) vs. narration.
+OK* Letter (including, but not just e-mail)
+OK* Review
+OK* Manual, instructions (including navigation), guidelines, documentation
+* Essay
+  * Learner essay
+OK* Academic
+OK* Encyclopedia, dictionary
+technical report, patent application?
+OK* Popular science, travelogue
+OK* Grammar example (isolated, possibly made up or simplified)
+OK* Spoken vs. text. Or better, spontaneous vs. written (because if a repporter reads or says the news on TV, it is much closer to written language).
+OK* Edited (someone was preparing the text or speech; blogs are included here, too) vs. social (short posts on social networks, also discussions and reviews, but not blogs) vs. spontaneous (speech only).
 * Topic:
-  * news (including sports, weather forecast etc.)
-  * law (including contracts, government regulations), politology, economy, social sciences
+OK  * news (including sports, weather forecast etc.)
+(OK)  * law (including contracts, government regulations), politology, economy, social sciences
   * humanities, arts, culture, religion
   * medicine, natural sciences, mathematics
+    * what about health reports?
   * technology, engineering, industry, agriculture
+
+To discuss:
+
+Instead of the sentence id ranges in README, we could define sentence-level tags that would be added to every sentence belonging to a parallel dataset or to a genre. It would use more space but filtering of the data (when we are looking for a particular genre or parallel dataset) would be easier. The metadata in README would be more readable; we would still keep a general overview (list of genres, id of parallel datset) there.
