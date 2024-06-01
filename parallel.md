@@ -120,10 +120,10 @@ TODO:
 * List of genres known and allowed in UD v2 (see validator or [release checklist](/release_checklist.html#treebank-metadata)).
   * none, news, fiction, nonfiction, academic, medical, legal, government, blog, reviews, social, email, spoken, wiki, web, bible, grammar-examples, learner-essays, poetry
 * See what Sara et al. did in their genre-balanced UD.
-  * https://aclanthology.org/2023.mrl-1.19.pdf
-    * https://github.com/UppsalaNLP/UD-MULTIGENRE
-  * https://aclanthology.org/2021.tlt-1.7.pdf
-* See the Helsinki Corpus (Old, Middle, Early Modern English) at https://varieng.helsinki.fi/CoRD/corpora/HelsinkiCorpus/genres.html
+  * [https://aclanthology.org/2023.mrl-1.19.pdf](https://aclanthology.org/2023.mrl-1.19.pdf)
+    * [https://github.com/UppsalaNLP/UD-MULTIGENRE](https://github.com/UppsalaNLP/UD-MULTIGENRE)
+  * [https://aclanthology.org/2021.tlt-1.7.pdf](https://aclanthology.org/2021.tlt-1.7.pdf)
+* See the [Helsinki Corpus](https://varieng.helsinki.fi/CoRD/corpora/HelsinkiCorpus/genres.html) (Old, Middle, Early Modern English).
 
 The categorization I sketched in the decision list above largely ignores the topic (domain) of the data, which can obviously also affect the linguistic properties. If we find it important, we could possibly add some coarse-grained topic classification such as the following:
 
