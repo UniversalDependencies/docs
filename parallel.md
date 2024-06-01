@@ -57,19 +57,13 @@ However, we probably need to revisit the taxonomy of genres (or text types). The
 
 ## Decision list
 
-1. Can we specify the genre at all? We are required to say what we know about the genre in the metadata in README, but we could say that the genre is unknown:
-
-```
-Genre: unknown
-```
-
-   In particular, if the corpus consists of randomly shuffled isolated sentences that resulted from crawling the web, we can hardly know the genre of the document a sentence was taken from. Hence the genre is unknown. This value includes the _web_ genre, which was among the permitted values until UD 2.14. However, the _unknown_ genre is broader, as the data source does not have to be the web. On the other hand, there are texts that do come from the web, yet they can be clearly assigned to a more specific genre. Note that the _unknown_ value should not be used if we know that there are multiple genres in the corpus, we know which ones, we just do not know where exactly (but it would be possible to tell that if an annotator went over the corpus again). In such cases, multiple genre lines can be used without sentence id ranges.
-
+<ol>
+  <li>Can we specify the genre at all? We are required to say what we know about the genre in the metadata in README, but we could say that the genre is unknown:
+    <pre>Genre: unknown</pre>
+    In particular, if the corpus consists of randomly shuffled isolated sentences that resulted from crawling the web, we can hardly know the genre of the document a sentence was taken from. Hence the genre is unknown. This value includes the _web_ genre, which was among the permitted values until UD 2.14. However, the _unknown_ genre is broader, as the data source does not have to be the web. On the other hand, there are texts that do come from the web, yet they can be clearly assigned to a more specific genre. Note that the _unknown_ value should not be used if we know that there are multiple genres in the corpus, we know which ones, we just do not know where exactly (but it would be possible to tell that if an annotator went over the corpus again). In such cases, multiple genre lines can be used without sentence id ranges.<br/>
    A special type of isolated sentences is examples from a reference grammar, language textbook or other linguistic literature. These sentences are often made-up examples (or carefully selected from fieldwork material) to demonstrate a particular grammatical construction. Many UD treebanks contain such sentences. These should not be labeled as unknown genre; instead, they should use the _grammar_ label:
-
-```
-Genre: grammar
-```
+   <pre>Genre: grammar</pre></li>
+</ol>
 
 2. If we believe that the corpus or its part should have an identifiable genre, the next question to answer is whether the text / utterance was prepared or spontaneous. Written language is typically prepared (the author can think about it, revisit it and edit it), even if not always with the same level of care. Chats on social media are borderline, so they get their own label. Spoken language can be also prepared (e.g., news on TV) or it can be spontaneous. Political speeches (including parlament proceedings) are also borderline: Some of them are prepared, some of them are spontaneous or half-prepared (the speaker has notes but not the exact text). More generally, _speech_ is a monologue intended for some audience (besides political speeches these could be laudatios, speeches at funerals or various other occasions). But the label does not cover all kinds of spoken data!
 
