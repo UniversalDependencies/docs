@@ -83,7 +83,7 @@ Genre: speech
 Genre: interview
 ```
 
-   Short posts such as tweets get the label _social_. They may be prepared to some extent but often they are written quickly, with shortcuts and possibly errors. This genre includes chats and discussions under other posts or under larger articles (while the larger article itself does not belong to the _social_ genre). User-generated reviews of products and services are not considered _social_ (provided they are posted at places dedicated for reviews and not among general posts on Twitter, Facebook etc.)
+   Short posts such as tweets get the label _social_. They may be prepared to some extent but often they are written quickly, with shortcuts and possibly errors. This genre includes chats and discussions under other posts or under larger articles (while the larger article itself does not belong to the _social_ genre). User-generated reviews of products and services are not considered _social_ (provided they are posted at places dedicated for reviews and not among general posts on Twitter, Facebook, Telegram, Reddit etc.)
 
 ```
 Genre: social
@@ -144,25 +144,31 @@ Genre: review
 Genre: regulation
 ```
 
-11. Manuals, guidelines, documentation, patent applications and various other types of instructions (including recipes or directions how to get somewhere) are labeled as _instruction_. Furthermore, this category includes specialized descriptive texts such as technical report from an experiment or health report with a patient's diagnose (until UD 2.14 probably labeled as _medical_). Textbooks may also belong here, unless they are seen as fitting better to other categories (for example _academic_ or _grammar_ examples).
+11. Manuals, guidelines, documentation, patent applications and various other types of instructions (including recipes, travel guides or directions how to get somewhere) are labeled as _instruction_. Furthermore, this category includes specialized descriptive texts such as technical report from an experiment or health report with a patient's diagnose (until UD 2.14 probably labeled as _medical_). Textbooks may also belong here, unless they are seen as fitting better to other categories (for example _academic_ or _grammar_ examples).
 
 ```
 Genre: instruction
 ```
 
-12. Articles from Wikipedia or any other encyclopedia, as well as individual popular science articles from magazines are categorized as _encyclopedia_. This includes the former genre _wiki_ that was used until UD 2.14. Dictionary entries would be also included in this category.
+12. Data from question answering competitions are close to educative or encyclopedic domains but they have a distinct form and are kept in a separate category.
+
+```
+Genre: qa
+```
+
+13. Articles from Wikipedia or any other encyclopedia, as well as individual popular science articles from magazines are categorized as _encyclopedia_. This includes the former genre _wiki_ that was used until UD 2.14. Dictionary entries would be also included in this category.
 
 ```
 Genre: encyclopedia
 ```
 
-13. Scholarly articles from any field are categorized as _academic_. Unlike _encyclopedia_, they are intended for expert audience rather than the general public. There was a same-named category among the genres until UD 2.14, however, it is not clear whether academic papers about medicine were labeled as _academic_ or _medical_; now they should be _academic_.
+14. Scholarly articles from any field are categorized as _academic_. Unlike _encyclopedia_, they are intended for expert audience rather than the general public. There was a same-named category among the genres until UD 2.14, however, it is not clear whether academic papers about medicine were labeled as _academic_ or _medical_; now they should be _academic_.
 
 ```
 Genre: academic
 ```
 
-14. A text that discusses a topic, possibly presenting opinion of the author and/or other people, and does not belong to any of the above categories, is an _essay_.
+15. A text that discusses a topic, possibly presenting opinion of the author and/or other people, and does not belong to any of the above categories, is an _essay_. This may include some texts formerly (until UD 2.14) categorized as _blog_.
 
 ```
 Genre: essay
@@ -170,39 +176,22 @@ Genre: essay
 
 TODO:
 
-* I suppose there must be a taxonomy of text types somewhere that someone has created for corpora.
+* I suppose there must be a taxonomy of text types somewhere that someone has created for corpora but I did not find anything that would look authoritative.
 * List of genres known and allowed in UD v2 (see validator or [release checklist](/release_checklist.html#treebank-metadata)).
   * none, news, fiction, nonfiction, academic, medical, legal, government, blog, reviews, social, email, spoken, wiki, web, bible, grammar-examples, learner-essays, poetry
 * See what Sara et al. did in their genre-balanced UD.
-  * https://aclanthology.org/2021.tlt-1.7.pdf
   * https://aclanthology.org/2023.mrl-1.19.pdf
     * https://github.com/UppsalaNLP/UD-MULTIGENRE
-* See the Helsinki Corpus (Old and Middle English).
+  * https://aclanthology.org/2021.tlt-1.7.pdf
+* See the Helsinki Corpus (Old, Middle, Early Modern English) at https://varieng.helsinki.fi/CoRD/corpora/HelsinkiCorpus/genres.html
 
-Dimensions:
+The categorization I sketched in the decision list above largely ignores the topic (domain) of the data, which can obviously also affect the linguistic properties. If we find it important, we could possibly add some coarse-grained topic classification such as the following:
 
-OK* Fiction (imaginative narration) vs. non-fiction (non-imaginative narration and non-narration). This distinction may be controversial for religious texts where believers will not want to categorize them as fiction.
-OK* Prose vs. verse. What about drama? It seems to be a separate dimension because it may or may not be in verse.
-OK* Drama / dialogue (including movie subtitles, interviews) vs. narration.
-OK* Letter (including, but not just e-mail)
-OK* Review
-OK* Manual, instructions (including navigation), guidelines, documentation
-* Essay
-  * Learner essay
-OK* Academic
-OK* Encyclopedia, dictionary
-technical report, patent application?
-OK* Popular science, travelogue
-OK* Grammar example (isolated, possibly made up or simplified)
-OK* Spoken vs. text. Or better, spontaneous vs. written (because if a repporter reads or says the news on TV, it is much closer to written language).
-OK* Edited (someone was preparing the text or speech; blogs are included here, too) vs. social (short posts on social networks, also discussions and reviews, but not blogs) vs. spontaneous (speech only).
-* Topic:
-OK  * news (including sports, weather forecast etc.)
-(OK)  * law (including contracts, government regulations), politology, economy, social sciences
-  * humanities, arts, culture, religion
-  * medicine, natural sciences, mathematics
-    * what about health reports?
-  * technology, engineering, industry, agriculture
+* medicine, natural sciences, mathematics
+* technology, engineering, industry, agriculture
+* law, politology, economy, social sciences
+* humanities, arts, culture, religion
+  * what about sports?
 
 To discuss:
 
