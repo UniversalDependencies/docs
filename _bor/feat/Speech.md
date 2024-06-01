@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ind">Ind</a></td>
-  <td><a href="#IndOpt">IndOpt</a></td>
+  <td><a href="#IndOpt">IndTrans</a></td>
   
   
 </tr>
@@ -25,9 +25,9 @@ udver: '2'
 
 `IndOpt` Indirect optative 
 
-### <a name="IndOpt">`IndOpt`</a>: IndOpt
+### <a name="IndTrans">`IndTrans`</a>: IndTrans
 
-Indirect optative -_iagu_ marks complements of verbs of saying which expresses an optative notion.
+Indirect transmission -_iagu_ marks complements of verbs of saying which transmits a message.
 
 
 #### Example
