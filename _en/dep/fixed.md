@@ -24,7 +24,7 @@ At present, this relation is used inside the following expressions, semantically
 | [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that*, *such that* |
 | [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to* |
 | [Circumstantial/conditional](#circumstantialconditional-connectives) | *in case (of)*, *whether or not* |
-| [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as* |
+| [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as*, *all of* |
 | [Attributional](#attributional-markers) | *according to* |
 | [Exemplification](#exemplification) | *such as* |
 | [Reciprocal Pronouns](#reciprocal-pronouns) | *each other*, *one another* |
@@ -269,6 +269,13 @@ fixed(As, as)
 advmod(percent, As)
 ~~~
 
+*all of* (when used in quantities)
+
+~~~ sdparse
+All of ten minutes
+fixed(All, of)
+advmod(minutes, All)
+~~~
 
 ### Attributional markers
 
