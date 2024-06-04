@@ -22,7 +22,7 @@ At present, this relation is used inside the following expressions, semantically
 |----------|-------------|
 | [Augmentative/substitutive/conjunctive](#augmentativesubstitutiveconjunctive-expressions) | *as well*, *as well as*, *rather than*, *instead of*, *let alone* |
 | [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that*, *such that* |
-| [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to* |
+| [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to*, *on board* |
 | [Circumstantial/conditional](#circumstantialconditional-connectives) | *in case (of)*, *whether or not* |
 | [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as*, *all of* |
 | [Attributional](#attributional-markers) | *according to* |
@@ -112,7 +112,7 @@ conj(hurt-6, hurt-10)
 *because of* (and other forms, such as *b c of* and *b/c of*)
 
 ~~~ sdparse
-He cried because of you
+He cried because/ADP[ExtPos=ADP] of/ADP you
 case(you, because)
 fixed(because, of)
 ~~~
@@ -120,7 +120,7 @@ fixed(because, of)
 *due to* (and other forms, such as *d t* and *d/t*)
 
 ~~~ sdparse
-He cried due to the fact that you hurt him
+He cried due/ADJ[ExtPos=ADP] to/ADP the fact that you hurt him
 case(fact, due)
 fixed(due, to)
 ~~~
@@ -184,7 +184,7 @@ fixed(such, that)
 *in between*
 
 ~~~ sdparse
-John left in between meetings
+John left in/ADP[ExtPos=ADP] between/ADP meetings
 fixed(in, between)
 case(meetings, in)
 ~~~
@@ -192,9 +192,17 @@ case(meetings, in)
 *prior to*
 
 ~~~ sdparse
-John left prior to the meeting
+John left prior/ADJ[ExtPos=ADP] to/ADP the meeting
 fixed(prior, to)
 case(meeting, prior)
+~~~
+
+*on board*
+
+~~~ sdparse
+on/ADP[ExtPos=ADP] board/NOUN the ship
+fixed(on, board)
+case(ship, on)
 ~~~
 
 
