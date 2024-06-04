@@ -130,7 +130,7 @@ fixed(due, to)
 ~~~ sdparse
 How come John left early ?
 fixed(How, come)
-mark(left, How)
+advmod(left, How)
 ~~~
 
 *in order*
