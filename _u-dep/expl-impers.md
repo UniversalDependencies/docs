@@ -11,7 +11,7 @@ reflexive pronoun is an object coreferential with the subject), the impersonal c
 or intransitive. The clitic is formally identical with a reflexive object but it does not fill the object slot in these constructions
 and if the verb is transitive, its real object still occurs in the clause and fills the slot. The reflexive clitic is not a subject
 either; in fact there is no subject at all, which is the defining property of impersonal constructions. If the verb must express
-agreement, it will take a default form (this depends on the language, a typical example would be 3rd person singular).
+subject agreement, it will take a default form (this depends on the language, a typical example would be 3rd person singular).
 
 Impersonal constructions should be distinguished from reflexive passives, in which the reflexive clitic is attached as
 [expl:pass](). They are constructed for transitive verbs: The object is promoted to subject, the verb stays in its active form
@@ -31,7 +31,7 @@ mark(viaggerà, che)
 mark(will-travel, that)
 ~~~
 
-In Italian, if there's a clitic in a construction with a modal or an auxiliary verb, than generally it is an impersonal construction.
+In Italian, if there's a clitic in a construction with a modal or an auxiliary verb, then generally it is an impersonal construction.
 
 [it] _Si può procedere a sequestro._ “Seizure can be carried out.”
 
@@ -78,7 +78,7 @@ Rovněž se připravuje archeologická výstava . \n Also REFL prepares archaeol
 punct(připravuje, .-6)
 punct(prepares, .-13)
 expl:pass(připravuje, se)
-expl:pass(připravuje, REFL)
+expl:pass(prepares, REFL)
 advmod(připravuje, Rovněž)
 advmod(prepares, Also)
 nsubj:pass(připravuje, výstava)
