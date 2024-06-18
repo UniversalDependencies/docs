@@ -27,13 +27,13 @@ Units that are not tokenized apart include:
 
 ## Morphology
 
-### Tags
+### [Tags](pos/)
 
 All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset (as extended in subsequent LDC corpus releases). Note that XPOS does not have a simple mapping to UPOS tags, as UD guidelines enforce complex relations between dependency relations and POS tags: for example, since the relation `advmod` must generally have the tag `ADV`, UPOS may have `ADV` for some non-adverbial XPOS tags, and vice versa.
 
 Some of the closed-class categories have detailed English-specific documentation pages: [AUX](), [DET](), [PART](), [PRON](). For other tags, the English-specific pages may be less informative than the universal pages.
 
-### Features
+### [Features](feat/)
 
 All treebanks currently contain whitespace information, except for English-ESL. Morphological features are included in all corpora except English-ESL. In some corpora these are added automatically using CoreNLP (EWT, GUM) and in some cases supplemented using information from other annotation layers (e.g. GUM).
 
