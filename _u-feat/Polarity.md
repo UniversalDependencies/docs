@@ -29,16 +29,19 @@ morphology. The feature value `Polarity=Pos` is usually used to signal that a le
 has negative forms but this particular form is not negative. Using the feature
 in such cases is somewhat optional for words that can be negated but rarely are.
 
-For instance, all Czech verbs and adjectives can be negated using the prefix
+In Czech, for instance, all verbs and adjectives can be negated using the prefix
 _ne-_. In theory, all nouns can be negated too, with the meaning “anything
 except the entities denotable by the original noun”. However, negated nouns
 are rare and it is not necessary to annotate every positive noun with
 `Polarity=Pos`. Language-specific documentation should define under which
 circumstances the positive polarity is annotated.
 
-In English, verbs are negated using the [particle](u-pos/PART) _not_ and
-adjectives are also negated using prefixes, although the process is less
-productive than in Czech _(wise &ndash; unwise, probable &ndash; improbable)_.
+In English, verbs are negated using the [particle](u-pos/PART) _not_.
+English adjectives can be negated with _not_, or sometimes using prefixes 
+_(wise &ndash; unwise, probable &ndash; improbable)_, 
+although the use of prefixes is less productive than in Czech.
+In general, only the most grammatical (as opposed to lexical) forms of
+negation should receive `Polarity=Neg`.
 
 Note that `Polarity=Neg` is not the same thing as
 [PronType]()`=Neg`. For pronouns and other pronominal parts of speech
