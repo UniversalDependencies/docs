@@ -23,7 +23,7 @@ In English, it pertains to only three function words:
 
 Lexical (as opposed to grammatical) items that trigger negative polarity,
 e.g. _lack_, _doubt_, _hardly_, do not receive the feature.
-Neither do negative prefixes (on adjectives: _(wise &ndash; unwise, probable &ndash; improbable)_,
+Neither do negative prefixes (on adjectives: _wise &ndash; unwise, probable &ndash; improbable_),
 as the availability of such prefixes depends on the lexical stem.
 
 Other function words conveying negation are pro-forms (tagged as [DET](), [PRON](), or [ADV]())
