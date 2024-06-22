@@ -5,49 +5,48 @@ shortdef : 'noun phrase as adverbial modifier'
 udver: '2'
 ---
 
-This relation is a subtype of the [nmod]() relation, which captures
-the following cases where something syntactically a noun phrase is
-used as an adverbial modifier in a sentence:
+**DEPRECATED: English corpora are transitioning to using the
+new [nmod:unmarked]() relation instead.**
 
+This relation is a subtype of the [nmod]() relation, used when
+a prepositionless, non-possessive nominal serves as a modifier
+within a larger nominal. For example:
 
-(i) a measure phrase, which is the relation between the head of an adjectival/adverbial or prepositional phrase and the head of a measure phrase modifying it:
-
-~~~ sdparse
-The director is 65 years old
-nmod:npmod(old, years)
-~~~
-
-~~~ sdparse
-6 feet long
-nmod:npmod(long, feet)
-~~~
-
-
-(ii) noun phrases giving an extent to a verb, which are not objects:
-
-~~~ sdparse
-Shares eased a fraction
-nmod:npmod(eased, fraction)
-~~~
-
-
-(iii) financial constructions involving an adverbial, notably the following construction *$5 a share*, where the second nominal means "per share":
+(i) rate expressions with meaning equivalent to "per"
 
 ~~~ sdparse
 IBM earned $ 5 a share
 nmod:npmod($, share)
 ~~~
 
-
-(iv) floating reflexives
+(ii) elementary properties
 
 ~~~ sdparse
-The silence is itself significant
-nmod:npmod(significant, itself)
+I want that color kitten
+nmod:npmod(kitten, color)
 ~~~
 
-and (v) certain other absolutive nominal constructions.
+~~~ sdparse
+a pizza the size of the sun
+nmod:npmod(pizza, size)
+~~~
+
+(iii) emphatic reflexive pronouns
+
+~~~ sdparse
+Einstein himself was in attendance.
+nmod:npmod(Einstein, himself)
+~~~
+
+(iv) "a couple" as pre-head quantifier
+
+~~~ sdparse
+You can have a couple/NOUN cookies.
+det(couple, a)
+nmod:npmod(cookies, couple)
+~~~
 
 A temporal modifier [nmod:tmod]() is a subclass of npmod which is
 distinguished as a separate relation.
+
 <!-- Interlanguage links updated Ne 5. května 2024, 18:21:23 CEST -->
