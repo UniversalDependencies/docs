@@ -34,14 +34,14 @@ nmod:npmod(pizza, size)
 (iii) emphatic reflexive pronouns
 
 ~~~ sdparse
-Einstein himself was in attendance.
+Einstein himself was in attendance .
 nmod:npmod(Einstein, himself)
 ~~~
 
 (iv) "a couple" as pre-head quantifier
 
 ~~~ sdparse
-You can have a couple/NOUN cookies.
+You can have a couple/NOUN cookies .
 det(couple, a)
 nmod:npmod(cookies, couple)
 ~~~
