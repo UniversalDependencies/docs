@@ -14,7 +14,7 @@ it has no adposition.
 
 Examples include:
 
-(i) a time or manner adverbial in a clause
+(i) a time, manner, or extent adverbial in a clause
 
 ~~~ sdparse
 Last night , I swam in the pool
@@ -22,8 +22,8 @@ obl:unmarked(swam, night)
 ~~~
 
 ~~~ sdparse
-Please walk this way.
-obl:unmarked(walk, way)
+Let's do things my way .
+obl:unmarked(do, way)
 ~~~
 
 (ii) a measure phrase, which is the relation between the head of an
