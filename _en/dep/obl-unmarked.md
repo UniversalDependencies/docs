@@ -10,7 +10,7 @@ when an oblique takes the form of a nominal lacking a preposition
 (a.k.a. a noun phrase). It is "unmarked" in that, unlike most obliques,
 it has no adposition.
 
-`obl:unmarked` merges two older subtypes, `obl:npmod` and `obl:tmod`.
+`obl:unmarked` merges two older subtypes, `obl:npmod` and `obl:tmod`. It has a nominal-level counterpart: [nmod:unmarked]().
 
 Examples include:
 
@@ -59,4 +59,4 @@ obl:unmarked(significant, itself)
 
 and (v) certain other absolutive nominal constructions.
 
-**History:** Prior to release 2.15, case (i) (temporal adverbials) had a separate subtype called [obl:tmod](), and [obl:npmod]() was used for the non-temporal ones.
+**History:** Prior to release 2.15, temporal adverbials (see (i)) had a separate subtype called [obl:tmod](), and [obl:npmod]() was used for the non-temporal ones.
