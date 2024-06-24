@@ -63,8 +63,9 @@ You may also want to announce your tool in the
 ## UD-maintained tools
 
 The Universal Dependencies project maintains a number of core tools for working with UD data.
-These tools are available from <https://github.com/universaldependencies/tools> see that
-repository directly for the list of scripts and their documentation (either in the README.md
+These tools are available from <https://github.com/universaldependencies/tools>; see that
+repository directly for the list of scripts and their documentation (either in the
+[README.md](https://github.com/UniversalDependencies/tools/blob/master/README.md)
 file or directly in the source code).
 
 Among others, there are scripts for
