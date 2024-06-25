@@ -460,6 +460,8 @@ collections:
     output: true
   pad:
     output: true
+  tdt:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
