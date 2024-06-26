@@ -28,7 +28,7 @@ For example:
 WH Lemma | `PronType=Dem` | `PronType=Int` | `PronType=Rel`
 ---------|       :--:     |     :----:     |    :---:     
 _when_   | _<b>When</b> the clock struck twelve, the spell wore off._ | _<b>When</b> did the spell wear off?_ | _the moment <b>when</b> the clock struck twelve_
-_wherever_ | -- | _<b>Wherever</b> he lives, I won't rest until I find him._[^1] | _<b>Wherever</b> you see a stain, apply a dab of cleaner._
+_wherever_ | -- | _<b>Wherever</b> he lives, I won't rest until I find him._[^2] | _<b>Wherever</b> you see a stain, apply a dab of cleaner._
 
 [^2]: This is a special type of interrogative clause known as an _exhaustive conditional adjunct_ (*CGEL* pp. 761–764). In this construction the interrogative _WH-ever_ word alternates with _no matter WH_ or _regardless of WH_ (_No matter where he lives..._).
 
