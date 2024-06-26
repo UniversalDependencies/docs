@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Polarity'
-shortdef: 'polarity
+shortdef: 'polarity'
 udver: '2'
 ---
 
