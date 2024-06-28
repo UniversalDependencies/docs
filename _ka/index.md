@@ -63,7 +63,8 @@ Nominals may also contain the following typical function word dependents:
 ~~~ sdparse
 მეცხრე ცაზე
 nummod(ცა-2, მეცხრე-1)
-case(ცა-2, ზე-3)
+nsubj(ცა-2, ზე-3
+case(ზე-3, ცა-2)
 ~~~ 
 
 ---
