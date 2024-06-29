@@ -5,6 +5,30 @@ shortdef: 'classifier'
 udver: '2'
 ---
 
+When a Thai noun is counted, that is, modified by a cardinal numeral, the numeral must be accompanied by a classifier. Classifiers evolved from common nouns, some of them can still be used as common nouns and their UPOS tag is [NOUN]() regardless whether they act as classifiers or as regular nouns. Classifiers form a closed set and the numeral must be accompanied by a classifier that matches the semantic class of the counted noun: for example, the classifier used when counting animals will differ from the one used when counting books. Adding a classifier to a numeral can be compared to gender inflection of congruent modifiers in other languages. UD treats the numeral with the classifier as one syntactic unit that together modifies the counted noun. Therefore, the classifier is attached as a dependent of the numeral, which in turn is attached to the main noun.
+
+~~~ sdparse
+แมว/NOUN สาม/NUM ตัว/NOUN \n mǽw sám túá \n cat three CLF
+nummod(แมว, สาม)
+clf(สาม, ตัว)
+nummod(mǽw, sám)
+clf(sám, túá)
+nummod(cat, three)
+clf(three, CLF)
+~~~
+
+~~~ sdparse
+บ้าน/NOUN สิบ/NUM หลัง/NOUN \n bá²n sib túá \n house ten CLF
+nummod(บ้าน, สิบ)
+clf(สิบ, หลัง)
+nummod(bá²n, sib)
+clf(sib, hlâŋ)
+nummod(house, ten)
+clf(ten, CLF)
+~~~
+
+## Discussion log
+
 See also [issue 878](https://github.com/UniversalDependencies/docs/issues/878).
 
 <!-- Dne 29.07.2023 v 6:39 Siriluck Rattananiyomkul napsal(a): -->
@@ -183,6 +207,45 @@ clf(big, body)
 amod(S̄unạk̄h, h̄ıỵ̀)
 amod(dog, big)
 ~~~
+
+In general, I observed (in Google Translate) the animal classifier _tạw_ with the adjectives "big" and "small" but not with other adjectives. This does not mean that it is impossible with other adjectives but it indicates that it may be at least less preferred. If there is a determiner instead of the adjective, the classifier is present:
+
+แมวตัวนี้
+Mæw tạw nī̂
+This cat
+
+แมวตัวนั้น
+Mæw tạw nận
+that cat
+
+~~~ sdparse
+mæw tạw nận \n cat CLF that
+det(mæw, nận)
+det(cat, that)
+clf(nận, tạw)
+clf(that, CLF)
+~~~
+
+If there is both a determiner and an adjective, the determiner occurs farther from the main noun and there are two instances of the classifier (although the first one may be treated as a common noun if it is what we do when there is the adjective without determiner).
+
+แมวตัวใหญ่ตัวนั้น
+Mæw tạw h̄ıỵ̀ tạw nận
+that big cat
+
+If both instances of _tạw_ are analyzed as classifiers, we will probably end up with the following tree:
+
+~~~ sdparse
+mæw tạw h̄ıỵ̀ tạw nận \n cat CLF big CLF that
+amod(mæw, h̄ıỵ̀)
+amod(cat, big)
+clf(h̄ıỵ̀, tạw-2)
+clf(big, CLF-8)
+det(mæw, nận)
+det(cat, that)
+clf(nận, tạw-4)
+clf(that, CLF-10)
+~~~
+
 
 
 
