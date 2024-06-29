@@ -18,7 +18,7 @@ clf(three, CLF)
 ~~~
 
 ~~~ sdparse
-บ้าน/NOUN สิบ/NUM หลัง/NOUN \n bá²n sib túá \n house ten CLF
+บ้าน/NOUN สิบ/NUM หลัง/NOUN \n bá²n sib hlâŋ \n house ten CLF
 nummod(บ้าน, สิบ)
 clf(สิบ, หลัง)
 nummod(bá²n, sib)
