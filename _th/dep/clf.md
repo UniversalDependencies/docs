@@ -57,6 +57,132 @@ In the sample above with 2 CLFs, "CLF1 big" could be seen as a noun phrase (if "
 
 
 
+## Noun + classifier + adjective
+
+<!-- From Lek's yearly evaluation 28.06.2024 and the subsequent e-mails. -->
+
+While in the prototypical case classifiers are used with numerals and counted nouns, they can also occur between a noun and its modifying adjective, without any numeral. As classifiers developed from common nouns, one of the open questions is whether the word that looks like a classifier should be treated as a classifier in these constructions.
+
+For example, _tua_ can be a noun meaning "body" and it can be used as a classifier for animals. It cannot be a classifier for humans, although it can denote the human body as a common noun. With animals, it is ambiguous: It can literally refer to the animal's body or it can be a classifier.
+
+Google Translate of "a big dog"
+หมาตัวใหญ่
+H̄mā tạw h̄ıỵ̀
+Lek: măa tua jàj
+Gloss: dog body/CLF big
+Můj translit: hmátúáhaiŷ¹
+
+The classifier seems to be optional in this construction, although frequent enough that Google often uses it when translating from English to Thai.
+
+สุนัขตัวใหญ่
+S̄unạk̄h tạw h̄ıỵ̀
+a big dog (Google's preferred translation of "dog" is _sunakh_, although it recognizes _hma_, too)
+
+แมวตัวใหญ่
+Mæw tạw h̄ıỵ̀
+a big cat
+
+ชายร่างใหญ่
+Chāy r̀āng h̄ıỵ̀
+a big man
+_r̀āng_ can also mean "body".
+
+บ้านหลังใหญ่
+B̂ān h̄lạng h̄ıỵ̀
+a big house
+
+รถใหญ่
+Rt̄h h̄ıỵ̀
+a big car
+
+ต้นไม้ใหญ่
+T̂nmị̂ h̄ıỵ̀
+a big tree
+
+หนังสือเล่มใหญ่
+H̄nạngs̄ụ̄x lèm h̄ıỵ̀
+a big book
+
+แมวสีขาว
+Mæw s̄ī k̄hāw
+a white cat (if the second word is classifier, a different classifier is used now! But it is probably not a classifier because it is used with all other white things below. The word _s̄ī_ means "color".)
+
+สุนัขสีขาว
+S̄unạk̄h s̄ī k̄hāw
+a white dog
+
+รถสีขาว
+Rt̄h s̄ī k̄hāw
+a white car
+
+บ้านสีขาว
+B̂ān s̄ī k̄hāw
+a white house
+
+แมวดำ
+Mæw dả
+a black cat
+
+รถสีดำ
+Rt̄h s̄ī dả
+a black car
+
+บ้านสีดำ
+B̂ān s̄ī dả
+a black house
+
+คนแก่
+Khn kæ̀
+an old man
+
+สุนัขแก่
+S̄unạk̄h kæ̀
+an old dog
+
+แมวแก่
+Mæw kæ̀
+an old cat
+
+ต้นไม้เก่าแก่
+T̂nmị̂ kèā kæ̀
+an old tree
+
+บ้านเก่า
+B̂ān kèā
+an old house
+
+รถเก่า
+Rt̄h kèā
+an old car
+
+Possible analyses:
+
+1. If the classifier-like word is present, treat it as a common noun.
+2. If the classifier-like word is present, treat it as a classifier. It does not have its own modifiers (specifically, the adjective must modify directly the main noun and not the classifier). The classifier could be attached either to the main noun to its left, or to the adjective to its right. Being attached to the right may seem to violate the usual modification word order in Thai, but if this is a classifier (i.e., a function word), it is not a normal modification. We can compare it to the more prototypical construction of counted nouns, where the classifier depends on the numeral. However, in those constructions the word order is NOUN-NUM-CLF, so there the relation between the numeral and the classifier still goes left-to-right. Attachment to the main noun on the left would be relatively uncontroversial and it would signal that the classifier classifies the noun. Attachment to the adjective would signal that the classifier is present because of the adjective; and one could view the classifier-adjective constituent as an adjective agreeing with the noun it modifies (some languages have such agreement but they express it morphologically on the adjective).
+
+~~~ sdparse
+S̄unạk̄h/NOUN tạw/NOUN h̄ıỵ̀/ADJ \n dog body big
+nmod(S̄unạk̄h, tạw)
+nmod(dog, body)
+amod(tạw, h̄ıỵ̀)
+amod(body, big)
+~~~
+
+~~~ sdparse
+S̄unạk̄h/NOUN tạw/NOUN h̄ıỵ̀/ADJ \n dog body big
+clf(S̄unạk̄h, tạw)
+clf(dog, body)
+amod(S̄unạk̄h, h̄ıỵ̀)
+amod(dog, big)
+~~~
+
+~~~ sdparse
+S̄unạk̄h/NOUN tạw/NOUN h̄ıỵ̀/ADJ \n dog body big
+clf(h̄ıỵ̀, tạw)
+clf(big, body)
+amod(S̄unạk̄h, h̄ıỵ̀)
+amod(dog, big)
+~~~
 
 
 
