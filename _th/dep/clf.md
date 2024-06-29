@@ -246,6 +246,27 @@ clf(nận, tạw-4)
 clf(that, CLF-10)
 ~~~
 
+### Adjectives denoting colors
+
+Optionally, the word สี _sí_ “color” is inserted between the noun and the color-denoting adjective. This is not a classifier, as it is semantically related to the adjective and not to the modified noun. If present, it should be analyzed as a nominal modifier.
+
+~~~ sdparse
+บ้าน/NOUN สี/NOUN ดำ/ADJ \n bá²n sí dã \n house color black
+nmod(บ้าน, สี)
+nmod(bá²n, sí)
+nmod(house, color)
+amod(สี, ดำ)
+amod(sí, dã)
+amod(color, black)
+~~~
+
+~~~ sdparse
+บ้าน/NOUN ดำ/ADJ \n bá²n dã \n house black
+amod(บ้าน, ดำ)
+amod(bá²n, dã)
+amod(house, black)
+~~~
+
 
 
 
