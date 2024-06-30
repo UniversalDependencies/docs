@@ -31,17 +31,38 @@ Here are some examples from Mandarin/Putonghua Chinese:
 * 三只鸟 (三隻鳥) sān zhī niǎo = “three birds”, literally “three [bird-classifier] bird”
 * 三条河 (三條河) sān tiáo hé = “three rivers”, literally “three [long-wavy-classifier] river”
 
+Analogous examples from Thai:
+
+* นักเรียนสามคน nâkríán sám gʰn = “three students”, literally “student three [human-classifier]”
+* ต้นไม้สามต้น t²nmai² sám t²n = “three trees”, literally “tree three [tree-classifier]”
+* นกสามตัว nk sám túá = “three birds”, literally “bird three [animal-classifier]”
+* แม่น้ำสามสาย mǽ¹nã² sám sáy = “three rivers”, literally “river three [river-classifier]”
+
 Syntactically, the classifier groups with the numeral rather than the noun and we therefore treat
 classifiers as functional dependents of numerals (or possessives) using the new `clf` relation. (This
 is one of Greenberg’s universals and is true in almost all cases.
 A couple of exceptions are noted in Aikhenvald (2000: 105) _Classifiers_, OUP, but it is noticeable that in those languages
 the putative head noun is in the genitive case.)
 
-<div class="sd-parse">
-sān gè xuéshēng \n three clf student
+~~~ sdparse
+三/NUM 个/NOUN 学生/NOUN \n sān gè xuéshēng \n three CLF student
+nummod(学生, 三)
+clf(三, 个)
 nummod(xuéshēng, sān)
 clf(sān, gè)
-</div>
+nummod(student, three)
+clf(three, CLF)
+~~~
+
+~~~ sdparse
+แมว/NOUN สาม/NUM ตัว/NOUN \n mǽw sám túá \n cat three CLF
+nummod(แมว, สาม)
+clf(สาม, ตัว)
+nummod(mǽw, sám)
+clf(sám, túá)
+nummod(cat, three)
+clf(three, CLF)
+~~~
 
 Sometimes a classifier is inserted between a demonstrative and a noun (instead of numeral and noun) [zh]:
 
