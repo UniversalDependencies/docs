@@ -102,6 +102,10 @@ The classifier seems to be optional in this construction, although frequent enou
 S̄unạk̄h tạw h̄ıỵ̀
 a big dog (Google's preferred translation of "dog" is _sunakh_, although it recognizes _hma_, too)
 
+ สุนัข /sù-nák/ NOUN means dogs. It is used formally.
+
+หมา /mǎa/ NOUN means dogs. It's used casually and informally.
+
 แมวตัวใหญ่
 Mæw tạw h̄ıỵ̀
 a big cat
