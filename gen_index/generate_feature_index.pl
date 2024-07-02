@@ -28,6 +28,7 @@ Definite: definiteness, indefinite, non-specific indefinite, specific indefinite
 Degree: degree of comparison, positive degree, equative degree, comparative degree, superlative degree, absolute superlative, diminutive, augmentative
 Deixis: deixis, proximate, medial, distal, remote, not visible, above, even, below
 DeixisRef: deixis reference person
+ExtPos: external part of speech
 Evident: evidentiality, firsthand, non-firsthand, narrative
 Foreign: foreign word
 Gender: gender, masculine, feminine, neuter, uter, common gender
