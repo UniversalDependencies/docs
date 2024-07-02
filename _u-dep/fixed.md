@@ -26,23 +26,28 @@ Fixed MWEs should not have any internal modification. Therefore, if a word attac
 it should not have any dependents (except perhaps `punct`, `goeswith`, and `reparandum` dependents, 
 as these are not true syntactic relations).
 
+The [ExtPos]() feature should be specified on the first word of the fixed expression to indicate
+the UPOS that the expression would have were it a single word. This indicates what external
+dependency relations the expression is compatible with.
+
 ~~~ sdparse
-I like dogs as well as cats
+I like dogs as/[ExtPos=CCONJ] well as cats
 fixed(as-4, well-5)
 fixed(as-4, as-6)
 ~~~
 
 ~~~ sdparse
-He cried because of you
+He cried because/[ExtPos=ADP] of you
 fixed(because, of)
 ~~~
 
 ~~~ sdparse
-Je préfère prendre un dessert plutôt qu' une entrée \n I prefer getting a dessert rather than an appetizer
-fixed(plutôt, qu')
+Bien/ADV[ExtPos=SCONJ] que/SCONJ malingre quand il était enfant, il devient néanmoins un athlète accompli et un grimpeur de talent. \n Although sickly when he was a child, he nevertheless became an accomplished athlete and a talented climber.
+fixed(Bien, que)
 ~~~
 
 **New from v2:** The `fixed` relation replaces the old `mwe` relation to prevent misunderstanding regarding its scope.
 For v2.14, this page has been revised to more clearly articulate the relationship to multiword expressions.
+For v2.15, the use of [ExtPos]() has been added.
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:21:13 CEST -->
