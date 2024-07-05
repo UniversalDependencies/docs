@@ -464,6 +464,8 @@ collections:
     output: true
   yrk:
     output: true
+  mns:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
