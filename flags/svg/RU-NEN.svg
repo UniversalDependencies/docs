@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200px" height="800px" viewBox="0 0 450 300" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect fill="green" width="450" height="300"/>
+<rect fill="#0038a8" width="450" height="264"/>
+<rect fill="#fff" width="450" height="204"/>
+<g transform="translate(-61.875, 192.75) rotate(-45) scale(7.955)">
+<path id="horns" fill="#0038a8" d="M0,3v-1h1v1h1v-3h1v1h1v1h-1v1h1v-1h1v1h1v1h-3v1h1v1h1v-1h1v1h-1v2z"/>
+<use x="5" y="5" xlink:href="#horns"/>
+<use x="10" y="10" xlink:href="#horns"/>
+<use x="15" y="15" xlink:href="#horns"/>
+<use x="20" y="20" xlink:href="#horns"/>
+<use x="25" y="25" xlink:href="#horns"/>
+<use x="30" y="30" xlink:href="#horns"/>
+<use x="35" y="35" xlink:href="#horns"/>
+<use x="40" y="40" xlink:href="#horns"/>
+</g>
+</svg>
