@@ -462,6 +462,8 @@ collections:
     output: true
   tdt:
     output: true
+  yrk:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
