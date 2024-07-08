@@ -466,6 +466,8 @@ collections:
     output: true
   mns:
     output: true
+  qxp:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
