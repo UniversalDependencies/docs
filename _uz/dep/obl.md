@@ -1,3 +1,10 @@
+---
+layout: relation
+title: 'obl'
+shortdef: 'oblique argument or adjunct'
+udver: '2'
+---
+
 ## obl: oblique argument or adjunct
 The obl relation is used for oblique nominal arguments and adjuncts of verbs, adjectives or adverbs. The obl relation is further specified by the Case feature or case relation.
 Typically, argument with non-accusative case marking are obl.
