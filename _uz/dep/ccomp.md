@@ -16,7 +16,7 @@ ccomp (so‘radi, qaytarishni)
 
 ~~~ sdparse
 Men uning uyga kelishini kutdim \n I waited for him to come home 
-advmod (kutdim, kelishini)
+ccomp (kutdim, kelishini)
 ~~~
 
 
