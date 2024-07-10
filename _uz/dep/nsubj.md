@@ -1,3 +1,10 @@
+---
+layout: relation
+title: 'nsubj'
+shortdef: 'nominal subject'
+udver: '2'
+---
+
 ## nsubj: nominal subject 
 A nominal subject is a noun phrase which is the syntactic subject of a clause.
 ~~~ sdparse
