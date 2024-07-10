@@ -1,3 +1,10 @@
+---
+layout: relation
+title: 'nmod:part'
+shortdef: 'nominal modifier: part'
+udver: '2'
+---
+
 ## nmod:part
 This relation is a language-specific subtype of nmod. There are also 1 other language-specific subtypes of nmod: nmod:poss.
 125 nodes (0%) are attached to their parents as nmod:part.
