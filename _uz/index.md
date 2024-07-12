@@ -99,15 +99,5 @@ Nominal object (obj) is a noun phrase without adposition and typically in the ac
 
 This is the first treebank in Uzbek.
 
+  * [Uzbek-UT](../treebanks/uz_ut/index.html)
 
-There are [N](../treebanks/uz-comparison.html) Uzbek UD treebanks:
-
-  * [Uzbek-A](../treebanks/uz_a/index.html)
-  * [Uzbek-B](../treebanks/uz_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
