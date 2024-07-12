@@ -20,23 +20,23 @@ udver: '2'
 ### Tags
 
 * Uzbek uses all 17 UPOS categories: 
-1. PRON: Men, sen, u. 
-2. PUNCT: - ., ?, ; 
-3. VERB: o‘qidi, kelmoqchi, ishla. 
-4. NOUN: oila, do‘st, quyosh. 
-5. AUX: kerak, mumkin, edi, emas. 
-6. ADP: bilan, uchun, haqida.
-7. CCONJ: va, yoki, hamda. 
-8. SCONJ: agar, chunki, ya’ni. 
-9. ADV: atayin, juda, tez. 
-10. PROPN: Toshkent, Navoiy, Bobur. 
-11. DET: bu, ayrim, barcha.
-12. ADJ: qizil, tinch, aqlli. 
-13. NUM: ikki, yuz, ming. 
-14. INTJ: hoy, salom, ofarin. 
-15. PART: -mi, -chi, -a/-ya  
-16. SYM: $, +, = 
-17. X 
+ 1. PRON: Men, sen, u. 
+ 2. PUNCT: - ., ?, ; 
+ 3. VERB: o‘qidi, kelmoqchi, ishla. 
+ 4. NOUN: oila, do‘st, quyosh.  
+ 5. AUX: kerak, mumkin, edi, emas. 
+ 6. ADP: bilan, uchun, haqida.
+ 7. CCONJ: va, yoki, hamda. 
+ 8. SCONJ: agar, chunki, ya’ni. 
+ 9. ADV: atayin, juda, tez. 
+ 10. PROPN: Toshkent, Navoiy, Bobur. 
+ 11. DET: bu, ayrim, barcha.
+ 12. ADJ: qizil, tinch, aqlli. 
+ 13. NUM: ikki, yuz, ming. 
+ 14. INTJ: hoy, salom, ofarin. 
+ 15. PART: -mi, -chi, -a/-ya  
+ 16. SYM: $, +, = 
+ 17. X 
 * In Uzbek, there is a large number of constructions where a semantically weak verb combines with a non-finite form (infinitive or converb) of a lexically prominent verb. Traditional grammatical descriptions of Uzbek would label them as auxiliary constructions. However, most of them do not fall under the AUX category in UD. Instead, both parts — a non-finite verb and a finite verb are considered compounds and connected with compound:lvc relation.
 * Uzbek has a limited number of auxiliary verbs (AUX). Currently modal verbs and copula verbs (edi, ekan, emish, emas) as well as _yo‘q_ ‘not’ are treated as auxiliaries.
 * Uzbek does not have a specific word class for articles, but the numeral _bir_ “one” may act as an indefinite article and some pronoun types such as demonstrative (bu, o'sha, shu), total/collective (hamma, barcha), interrogative (qaysi, qancha) and negative (hech) pronouns may function as a definite article. We mark them as DET in this usage.
