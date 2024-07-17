@@ -8,11 +8,7 @@ udver: '2'
 
 This is a **work-in-progress** overview of the UD annotation for Turkish.
 
-Unfortunately, different treebanks follow (slightly) different
-annotation guidelines,
-and at present (as of v2.4) multiple uncoordinated attempts of
-correction efforts are known.
-
+Unfortunately, different treebanks follow (slightly) different annotation guidelines, and, as of v2.4, multiple uncoordinated attempts of correction efforts were known. Currently, as of v2.14, there's a group working on the unification of the Turkish treebanks, named [the UD Turkic Group](https://github.com/ud-turkic/).
 
 ## Tokenization and Word Segmentation
 
