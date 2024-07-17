@@ -12,7 +12,7 @@ Unfortunately, different treebanks follow (slightly) different annotation guidel
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespaces or punctuation,
+* In general, words are delimited by whitespaces or punctuation.
     Whitespaces or punctuation may appear in some abbreviations
     or numeric expressions.
 * Clitics are treated as separate words. This includes
