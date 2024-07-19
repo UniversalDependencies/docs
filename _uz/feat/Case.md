@@ -47,8 +47,7 @@ In the Uzbek language, the case dative (Dat) is expressed by the suffixes _-ga, 
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_.
-Complements of some postpositions are also required to be in genitive case.
+Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_. Complements of some postpositions are also required to be in genitive case.
 The genitive morpheme also marks the subject of the subordinate clauses. The conjunction connecting the noun with the subordinate noun is sometimes used without a sign. Usually in Uzbek, the indicative case is used when it represents a specific object. It is used without a sign when talking about an indefinite subject.
 
 In the Uzbek language, the genitive(`Gen`) case has the forms _-ning_, _-in_, _-n_, _-m_, _-im_ (in fiction).
@@ -84,7 +83,6 @@ In Uzbek, Ablative case is expressed by the suffix <b>-dan</b>.
 * Qish<b>dan</b> beri aytaman “I have been saying this from winter” - (Payt holi)
 * Bilmagani<b>dan</b> o‘kindi  “he/she regretted of not knowing” - (Sabab holi, sabab bois ma’nolarini anglatgan hollarda)
 
- 
 <!-- 
 Interlanguage links updated June 30, 2024 13:21:49 UTF+5
 Sanatbek Matlatipov 
