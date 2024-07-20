@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 7 acl	color:blue
 1	Lê	lê	CCONJ	cnjcoo	_	7	cc	_	_
 2	şîrê	şîr	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
-3	ko	ku	SCONJ	cnjsub	_	7	mark	_	_
+3	ku	ku	SCONJ	cnjsub	_	7	mark	_	_
 4	di	di	ADP	pr	AdpType=Prep	6	case	_	_
 5	vî	ev	DET	det	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
 6	misînî	misîn	NOUN	n	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	nmod	_	_
@@ -32,7 +32,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	nakeve	ketin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	serê	ser	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
 10	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	9	nmod:poss	_	_
-11	ko	ku	SCONJ	cnjsub	_	14	mark	_	_
+11	ku	ku	SCONJ	cnjsub	_	14	mark	_	_
 12	têra	têr	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	14	compound:lvc	_	_
 13	wî	ew	PRON	prn	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod:poss	_	_
 14	bike	kirin	VERB	vblex	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
@@ -49,7 +49,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 6 acl	color:blue
 1	Holmes	Holmes	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	_
 2	werîsê	werîs	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
-3	ko	ku	SCONJ	cnjsub	_	6	mark	_	_
+3	ku	ku	SCONJ	cnjsub	_	6	mark	_	_
 4	li	li	ADP	pr	AdpType=Prep	6	case	_	_
 5	rex	rex	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	fixed	_	_
 6	textî	text	NOUN	n	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	acl	_	_
@@ -75,7 +75,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	hin	hin	DET	det	Gender=Fem,Masc|Number=Plur,Sing|PronType=Ind	3	det	_	_
 3	tişt	tişt	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	4	nsubj	_	_
 4	hene	hebûn	VERB	vbhaver	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	ko	ku	SCONJ	cnjsub	_	12	mark	_	_
+5	ku	ku	SCONJ	cnjsub	_	12	mark	_	_
 6	ji	ji	ADP	pr	AdpType=Prep	7	case	_	_
 7	xwendevanan	xwendevan	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	_
 8	re	re	ADP	post	AdpType=Post	7	case	_	_
