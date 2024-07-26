@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'obl:npmod'
+title: 'obl:unmarked'
 shortdef : 'noun phrase as adverbial modifier'
 udver: '2'
 ---
@@ -13,10 +13,10 @@ Used for non-reflexive pronouns used adverbially (i.e. regular pronouns):
 ⲧⲉ/PRON ⲥⲙⲁⲙⲁⲁⲧ/VERB ⲛⲧⲟ/PRON \n you are blessed yourself
 
 nsubj(ⲥⲙⲁⲙⲁⲁⲧ,ⲧⲉ)
-obl:npmod(ⲥⲙⲁⲙⲁⲁⲧ,ⲛⲧⲟ)
+obl:unmarked(ⲥⲙⲁⲙⲁⲁⲧ,ⲛⲧⲟ)
 ~~~
 
-Inflected modifiers (Scriptorium tag IMOD, cf. Layton 2011: 118-123) are also seen as oblique NPs. For example, ϩⲱⲱ⸗ is used together with an object pronoun to mean ‘also X’ or ‘X for X’s part. Because of its basic modifier semantics, meaning ‘also’, the combination is seen as oblique, so that the function of the phrase is again `obl:npmod`. Note that ϩⲱⲱ is not a preposition, and the analysis treats it similarly to a possessed noun, so that the pronoun is seen as a determiner `det` and the entire combination is an oblique NP:
+Inflected modifiers (Scriptorium tag IMOD, cf. Layton 2011: 118-123) are also seen as oblique NPs. For example, ϩⲱⲱ⸗ is used together with an object pronoun to mean ‘also X’ or ‘X for X’s part. Because of its basic modifier semantics, meaning ‘also’, the combination is seen as oblique, so that the function of the phrase is again `obl:unmarked`. Note that ϩⲱⲱ is not a preposition, and the analysis treats it similarly to a possessed noun, so that the pronoun is seen as a determiner `det` and the entire combination is an oblique NP:
 
 ~~~ sdparse
 ϩⲱⲱ/ADV ⲕ/PRON ⲕ/PRON ⲟⲩⲱϣⲧ/VERB \n you also worship/for your part you worship
@@ -29,10 +29,10 @@ Example:
 
 ~~~ sdparse
 ⲛ/DET ⲕⲟⲟⲩⲉ/NOUN ⲧⲏⲣ/ADV ⲟⲩ/PRON \n all the others (lit. the others in their entirety)
-advmod(ⲕⲟⲟⲩⲉ, ⲧⲏⲣ)
+obl:unmarked(ⲕⲟⲟⲩⲉ, ⲧⲏⲣ)
 ~~~ 
 
-Distributive numerals are also analyzed as `obl:npmod`:
+Distributive numerals are also analyzed as `obl:unmarked`:
 
 ~~~ sdparse
 ⲡ/DET ϩⲱⲃ/NOUN ⲙ/ADP ⲡ/DET ⲟⲩⲁ/NUM ⲡ/DET ⲟⲩⲁ/NUM \n the act of one by one
@@ -41,7 +41,7 @@ det(ϩⲱⲃ,ⲡ-1)
 nmod(ϩⲱⲃ,ⲟⲩⲁ-5)
 case(ⲟⲩⲁ-5,ⲙ)
 det(ⲟⲩⲁ-5,ⲡ-4)
-obl:npmod(ⲟⲩⲁ-5,ⲟⲩⲁ-7)
+obl:unmarked(ⲟⲩⲁ-5,ⲟⲩⲁ-7)
 ~~~
 
 NPs used to indicate manner, means, extent etc.:
@@ -49,7 +49,7 @@ NPs used to indicate manner, means, extent etc.:
 ~~~ sdparse
 ⲙⲡ/AUX ⲥ/PRON ⲙⲧⲟⲛ/VERB ⲙⲙⲟ/ADP ⲥ/PRON ⲗⲁⲁⲩ/NOUN \n she did not repose (in) anything
 
-obl:npmod(ⲙⲧⲟⲛ,ⲗⲁⲁⲩ)
+obl:unmarked(ⲙⲧⲟⲛ,ⲗⲁⲁⲩ)
 ~~~
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:21:39 CEST -->
