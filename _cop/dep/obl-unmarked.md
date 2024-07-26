@@ -5,7 +5,7 @@ shortdef : 'noun phrase as adverbial modifier'
 udver: '2'
 ---
 
-This relation is a subtype of the [obl]() relation, which captures cases where a noun phrase is used as an adverbial modifier in a sentence, without a preposition indicating its oblique status:
+This relation is a subtype of the [obl]() relation, replacing the deprecated `:npmod` subtype, which captures cases where a noun phrase is used as an adverbial modifier in a sentence, without a preposition indicating its oblique status:
 
 Used for non-reflexive pronouns used adverbially (i.e. regular pronouns):
 
@@ -23,7 +23,7 @@ Inflected modifiers (Scriptorium tag IMOD, cf. Layton 2011: 118-123) are also se
 advmod(ⲟⲩⲱϣⲧ, ϩⲱⲱ)
 ~~~
 
-The same applies to other IMODs: the inflected modifier ⲧⲏⲣ⸗ ‘all of X’ is also seen as `obl:npmod`, i.e. as syntactically more similar to ‘completely’ than a determiner ‘all’. Like all inflected modifiers, the pronoun is seen as a determiner in this case, similar to a possessive. In the following example, we can think of the meaning as ‘their entirety(-wise)’, or ‘by way of their entirety’.
+The same applies to other IMODs: the inflected modifier ⲧⲏⲣ⸗ ‘all of X’ is also seen as `obl:unmarked`, i.e. as syntactically more similar to ‘completely’ than a determiner ‘all’. Like all inflected modifiers, the pronoun is seen as a determiner in this case, similar to a possessive. In the following example, we can think of the meaning as ‘their entirety(-wise)’, or ‘by way of their entirety’.
 
 Example:
 
