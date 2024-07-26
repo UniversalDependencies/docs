@@ -115,5 +115,5 @@ Non-verbal Clauses
 Currently, Hebrew has [3](../treebanks/he-comparison.html) treebanks:
 * [Hebrew HTB](../treebanks/he_htb/index.html)
 * [Hebrew IAHLTwiki](../treebanks/he_iahltwiki/index.html)
-* [Hebrew IAHLTknesset](,./treebanks/he_iahltknesset/index.html)
+* [Hebrew IAHLTknesset](../treebanks/he_iahltknesset/index.html)
 
