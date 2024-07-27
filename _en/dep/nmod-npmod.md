@@ -5,8 +5,8 @@ shortdef : 'noun phrase as adverbial modifier'
 udver: '2'
 ---
 
-**DEPRECATED: English corpora are transitioning to using the
-new [nmod:unmarked]() relation instead.**
+**⚠️ DEPRECATED: Beginning with the version 2.15 release,
+most English corpora will use the new [nmod:unmarked]() relation instead. ⚠️**
 
 This relation is a subtype of the [nmod]() relation, used when
 a prepositionless, non-possessive nominal serves as a modifier
