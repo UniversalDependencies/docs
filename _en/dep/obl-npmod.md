@@ -5,6 +5,9 @@ shortdef : 'noun phrase as adverbial modifier'
 udver: '2'
 ---
 
+**⚠️ DEPRECATED: Beginning with the version 2.15 release,
+most English corpora will use the new [obl:unmarked]() relation instead. ⚠️**
+
 This relation is a subtype of the [obl]() relation, which captures
 the following cases where something syntactically a noun phrase is
 used as an adverbial modifier in a sentence:
