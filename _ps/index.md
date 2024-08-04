@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Pashto <span class="flagspan"><img class="flag" src="../../flags/svg/AF.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/PK.svg" /></span>
 
-Principles of transcription used in UD for Pashto will be described soon.
+For the principles of transliteration of Pashto used in UD see the [Transliteration page](transliteration.html).
 
 ## Tokenization and Word Segmentation
 
