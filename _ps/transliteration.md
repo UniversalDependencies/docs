@@ -22,10 +22,13 @@ udver: '2'
 * _â_ - open back rounded vowel [ɒ]
 
 ## Consonants
+
+### Nasals
 * _m_ - bilabial nasal [m]
 * _n_ - alveolar nasal [n]
 * _ṇ_ - retroflex nasal [ɳ]
-  
+
+### Plosives
 * _b_ - voiced bilabial plosive [b]
 * _p_ - unvoiced bilabial plosive [p]
 * _d_ - voiced alveolar plosive [d]
@@ -35,7 +38,8 @@ udver: '2'
 * _g_ - voiced velar plosive [g]
 * _k_ - unvoiced velar plosive [k]
 * _q_ - unvoiced uvular plosive [q]
-  
+
+### Fricatives
 * _f_ - unvoiced labiodental fricative [f]
 * _z_ - voiced alveolar fricative [z]
 * _s_ - unvoiced alveolar fricative [s]
@@ -47,11 +51,13 @@ udver: '2'
 * _x_ - unvoiced velar or uvular fricative [x ~ χ]
 * _h_ - glottal fricative [h]
 
+### Affricates
 * _ż_ - voiced alveolar affricate [d͡z]
 * _c_ - unvoiced alveolar affricate [t͡s]
 * _ǰ_ - voiced post-alveolar affricate [d͡ʒ]
 * _č_ - voiced alveolar affricate [t͡ʃ]
 
+### Taps and Approximants
 * _r_ - alveolar tap [ɾ]
 * _ṛ_ - retroflex tap [ɽ]
 * _l_ - alveolar lateral approximant [l]
