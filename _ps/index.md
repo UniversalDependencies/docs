@@ -53,12 +53,13 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 * Core arguments (subjects and objects) in Pashto are mostly nouns, pronouns or infinitives (behaving like verbal nouns) in either bare direct case `Nom` or bare oblique case `Acc`. The exact use of these cases depends on the part of speech of the arguments, the inherent transitivity of the verb and the voice and tense used (phenomenon often calld _split ergativity_)
   * The only arguments, i.e. the subjects, of intransitive verbs or of transitive verbs used in the passive voice are always in the direct case `Nom`.
   * For transitive verbs in the active voice holds:
-    * The **subjects** in **non-past** tenses are always in the **direct** case `Nom`.
-    * The **objects** in **non-past** tenses are in the **direct** case `Nom` if they are **nouns**, but in the **oblique** case `Acc` if they are **pronouns**.
-    * The **subjects** in **past** tenses are always in the **oblique** case `Acc`.
-    * The **objects** in **past** tenses are always in the **direct** case `Nom`.
+    * The **subject** in **non-past** tenses is always in the **direct** case `Nom`.
+    * The **object** in **non-past** tenses is in the **direct** case `Nom` if it is a **noun**, but in the **oblique** case `Acc` if it is a **pronouns**.
+    * The **subject** in **past** tenses is always in the **oblique** case `Acc`.
+    * The **object** in **past** tenses is always in the **direct** case `Nom`.
+    * The subject usually comes before the object regardless of the case.
 * Other occurrences of the direct and oblique case are generally accompanied by an adposition, altghough various exceptions of nominals in the bare direct and oblique case, that are not a core argument, may exist:
-  * Temporal range (دوه ساعته خوب کوم _dwa **sâata** xob kawë́m_ “I sleep for two hours”).
+  * Temporal range (دوه ساعته خوب کوم _dwa **sâáta** xob kawë́m_ “I sleep for two hours”).
   * Nominal part of a light verb !!!
   * Fixed phrases.
 
