@@ -5,7 +5,7 @@ shortdef: 'purposive clause'
 udver: '2'
 ---
 
-The dependent of an `advcl:conv` relation is a purposive adverbial clause.
+The dependent of an `advcl:purp` relation is a purposive adverbial clause.
 
 ~~~ conllu
 # text = Нхаҩык амҿы ааигарц абнахь дцеит .
