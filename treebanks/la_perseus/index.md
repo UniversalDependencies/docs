@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman, Federica Gamba.
 
 Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -181,6 +181,14 @@ Further details can be found at:
 </ul>
 
 <ul>
+  <li>Conv
+  <ul>
+    <li>VERB: cubitum</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: est, erat, fuit, sunt, sit, esset, erit, es, fuerunt, sum</li>
@@ -205,14 +213,6 @@ Further details can be found at:
     <li>AUX: futura, futuram</li>
     <li>NOUN: meriti</li>
     <li>VERB: dicens, dicentem, dicentes, sedentem, amantis, conscripti, scriptum, facta, falso, mota</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Sup
-  <ul>
-    <li>VERB: cubitum</li>
   </ul>
   </li>
 </ul>
@@ -250,8 +250,8 @@ Further details can be found at:
       <li>NUM: duo, duobus, uno, unum, duos, uni, unus, duorum, octingentos, trecentos</li>
       <li>PRON: qui, eius, quem, quis, eos, eorum, eum, quos, quibus, is</li>
       <li>PROPN: Catilina, Trimalchio, M, Caesar, L, C, Catilinae, Catilinam, Iove, Q</li>
+      <li>VERB-Conv: cubitum</li>
       <li>VERB-Part: dicentes, conscripti, dicens, sedentem, amantis, natus, dicentem, existumans, interfecto, locutus</li>
-      <li>VERB-Sup: cubitum</li>
     </ul>
   </li>
 </ul>
@@ -309,9 +309,9 @@ Further details can be found at:
       <li>NUM: una, uno, unum, uni, unius, unus</li>
       <li>PRON: mihi, me, qui, ego, te, quod, se, quid, tibi, eius</li>
       <li>PROPN: Catilina, Trimalchio, Cynthia, M, Caesar, L, Romae, C, Catilinae, Fortunata</li>
+      <li>VERB-Conv: cubitum</li>
       <li>VERB-Fin: habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, iussit, potest</li>
       <li>VERB-Part: dicens, dicentem, sedentem, scriptum, falso, natus, posito, ardens, data, diversa</li>
-      <li>VERB-Sup: cubitum</li>
     </ul>
   </li>
 </ul>
@@ -345,8 +345,8 @@ Further details can be found at:
       <li>NUM: unum, duas, duo, duos, milia, XII, millia, octingentos, trecentos</li>
       <li>PRON: me, te, se, quid, quod, quae, quem, eos, eum, quam</li>
       <li>PROPN: Catilinam, L, Actium, Hispanias, Iovem, Lentulum, Pisonem, Antonium, Baias, C</li>
+      <li>VERB-Conv: cubitum</li>
       <li>VERB-Part: dicentem, sedentem, amantis, habentem, delatum, descendentem, dicens, facta, facturum, iussa</li>
-      <li>VERB-Sup: cubitum</li>
     </ul>
   </li>
 </ul>
@@ -498,8 +498,8 @@ Further details can be found at:
   <li>Prosp
     <ul>
       <li>AUX-Part: futura, futuram</li>
+      <li>VERB-Conv: cubitum</li>
       <li>VERB-Part: faciendum, facturum, transeundi, Periturae, accessurum, accipiundis, adsentandi, aperiundum, appellando, augendae</li>
-      <li>VERB-Sup: cubitum</li>
     </ul>
   </li>
 </ul>
@@ -543,7 +543,6 @@ Further details can be found at:
   <li>Fut
     <ul>
       <li>AUX-Fin: erit, eris, ero, erunt, erimus, esto, sunto</li>
-      <li>AUX-Inf: fore</li>
       <li>VERB-Fin: faciet, poterunt, curabo, dabo, dicet, venient, veniet, volent, aberit, adferent</li>
     </ul>
   </li>
@@ -553,9 +552,7 @@ Further details can be found at:
   <li>Past
     <ul>
       <li>AUX-Fin: erat, fuit, esset, fuerunt, erant, foret, eras, essem, essent, fuere</li>
-      <li>AUX-Inf: fuisse</li>
       <li>VERB-Fin: dixit, vidi, inquit, audivi, fecit, iussit, coepit, dedit, potuit, vidit</li>
-      <li>VERB-Inf: fecisse, nosse, potuisse, venisse, dixisse, odisse, perdidisse, reliquisse, tenuisse, tulisse</li>
     </ul>
   </li>
 </ul>
@@ -573,9 +570,7 @@ Further details can be found at:
   <li>Pres
     <ul>
       <li>AUX-Fin: est, sunt, sit, es, sum, sim, sint, foret, sumus, sis</li>
-      <li>AUX-Inf: esse</li>
       <li>VERB-Fin: habet, potest, iubet, dicit, fit, inquit, venit, ait, possit, licet</li>
-      <li>VERB-Inf: habere, dicere, facere, posse, ire, vivere, afferri, fieri, loqui, agere</li>
     </ul>
   </li>
 </ul>
@@ -587,10 +582,10 @@ Further details can be found at:
 <ul>
   <li>Act
     <ul>
+      <li>VERB-Conv: cubitum</li>
       <li>VERB-Fin: habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, iussit, potest</li>
       <li>VERB-Inf: habere, dicere, facere, posse, ire, vivere, agere, ducere, ferre, quaerere</li>
       <li>VERB-Part: dicens, dicentem, dicentes, sedentem, amantis, ardens, existumans, habentem, natus, referens</li>
-      <li>VERB-Sup: cubitum</li>
     </ul>
   </li>
 </ul>

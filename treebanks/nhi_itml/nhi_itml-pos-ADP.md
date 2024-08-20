@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `ADP`
 
 There are 17 `ADP` lemmas (1%), 17 `ADP` types (1%) and 232 `ADP` tokens (2%).
-Out of 15 observed tags, the rank of `ADP` is: 12 in number of lemmas, 13 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `ADP` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, para, a, por, hasta, en, quemeh, desde, ic, ik</em>
 
@@ -25,8 +25,8 @@ The 10 most frequent ambiguous types:  <em>para</em> (<tt><a href="nhi_itml-pos-
   * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 12: <em>Itatah no sé ; porque tlami <b>hasta</b> tikestlah .</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3: <em>yeh non , wan <b>hasta</b> nikah nikatki wan nimomochilia kwaltsih .</em>
 * <em>ic</em>
-  * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3: <em>N isihtzin uan n icniu <b>ic</b> ompa ictzahtzilihtinimih :</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3: <em>Quemeh ome o yeyi youal satepan , quemeh las tres de la mañana , in tenantzin o quicac in itzcuintli <b>ic</b> ompa tzotzoyocatinimi <b>ic</b> quiyauac .</em>
+  * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 3: <em>N isihtzin uan n icniu <b>ic</b> ompa ictzahtzilihti nimih :</em>
+  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3: <em>Quemeh ome o yeyi youal satepan , quemeh las tres de la mañana , in tenantzin o quicac in itzcuintli <b>ic</b> ompa tzotzoyocati nimi <b>ic</b> quiyauac .</em>
   * <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2: <em>Quen o cmihmilohtoya o ctoquihtah <b>ic</b> tlatenco uan o panpoliuito <b>ic</b> tlatzintlan uan ohcon o mopaleuih porqui in burro acmo o ahsic , nic o ilpitoya .</em>
 * <em>ik</em>
   * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 2: <em>Kwakoyonka , <b>ik</b> nepa Tipatlak , <b>ik</b> nikah Tlaix , Tixohpa .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>para</em> (<tt><a href="nhi_itml-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.458263).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.474576).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 

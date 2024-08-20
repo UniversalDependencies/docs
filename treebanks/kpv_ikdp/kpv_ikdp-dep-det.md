@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 1	А	а	CCONJ	CC	_	8	cc	_	_
 2	корейскей	корейскӧй	ADJ	A	Case=Nom|Number=Sing	5	reparandum	_	GTtags=Sg,Nom|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
-4	корея	корея	NOUN	N	Case=Nom|Number=Sing	5	nmod:appos	_	GTtags=Sg,Nom
+4	корея	корея	NOUN	N	Case=Nom|Number=Sing	5	compound:nn	_	GTtags=Sg,Nom
 5	кывсэ	кыв	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Err/Dial,Sg,Acc,PxSg3,Err/Dial
 6	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
 7	куті	кутны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg1

@@ -50,15 +50,15 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 4	jich	on	PRON	PEXP2--3------1	Case=Gen|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	obj	5:obj	Entity=(cmpr9415025c5[1/2]--1-gstype:gen)|Functor=5:PAT|LId=on-1
 5	najdeme	najít	VERB	VB-P---1P-AAP--	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Functor=0:PRED
 6	několik	několik	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	4	det:numgov	4:det:numgov	Entity=(cmpr9415025c5[2/2]--1-gstype:gen)|Functor=4:RSTR|SpaceAfter=No
-7	,	,	PUNCT	Z:-------------	_	9	punct	6.1:punct	Functor=9:CONJ
+7	,	,	PUNCT	Z:-------------	_	9	punct	10.1:punct	Functor=9:CONJ
 8	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	9:case	Entity=(cmpr9415025c25--2|LId=v-1
-9	centru	centrum	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	5	conj	6.1:dep	Functor=5:LOC
+9	centru	centrum	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	5	conj	10.1:dep	Functor=5:LOC
 10	Prahy	Praha	PROPN	NNFS2-----A----	Case=Gen|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	9	nmod	9:nmod:gen	Bridge=cmpr9415025c23<cmpr9415025c22:subset|Entity=(cmpr9415025c22--1)cmpr9415025c25)|Functor=9:APP
 11	dokonce	dokonce	ADV	Db-------------	_	12	advmod:emph	12:advmod:emph	Functor=12:RHEM
-12	několik	několik	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	9	orphan	6.1:dep	Functor=9:PAT
+12	několik	několik	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	9	orphan	10.1:dep	Functor=9:PAT
 13	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	15:case	Bridge=cmpr9415025c25<cmpr9415025c24:part|Entity=(cmpr9415025c24--3|LId=v-1
 14	jedné	jeden	NUM	CnFS6----------	Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	15	nummod	15:nummod	LNumValue=1|Functor=15:RSTR
-15	ulici	ulice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	9	orphan	6.1:dep	Entity=cmpr9415025c24)|Functor=9:LOC|SpaceAfter=No
+15	ulici	ulice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	9	orphan	10.1:dep	Entity=cmpr9415025c24)|Functor=9:LOC|SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
 
 ~~~

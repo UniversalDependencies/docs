@@ -1,3 +1,10 @@
+---
+layout: relation
+title: 'csubj'
+shortdef: 'clausal subject'
+udver: '2'
+---
+
 ## csubj: clausal subject
 A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause.
 ~~~ sdparse
@@ -17,4 +24,4 @@ csubj(yaxshiyam, tozalabsiz)
 ~~~
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:43 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:01 CEST -->

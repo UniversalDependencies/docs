@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.ht
 
 ### `PROPN`
 
-24 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (30% of all `PROPN` tokens) have a non-empty value of `Gender`.
+24 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (29% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (24; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (21; 88%), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt><tt>=Sur</tt> (16; 67%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (16; 67%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 58%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (8; 33% of non-empty `Gender`): <em>Петровна, Варвара, Васильевна, Ивановать, Людмила, Николаевнань, Светлана</em>
 * `Masc` (16; 67% of non-empty `Gender`): <em>Вельдинонь, Голенков, Девинонь, Девятаев, Злобинонь, Келаськин, Кокоревонь, Кукушкинць, Михаил, Петр</em>
-* `EMPTY` (56): <em>Петя, Игорь, Марья, Алда-баба, Алдуван, Анна, Архипонь, Браун, Валентинонди, Ванянди</em>
+* `EMPTY` (59): <em>Петя, Иван, Игорь, Марья, Алда-баба, Алдуван, Анна, Архипонь, Браун, Валентинонди</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (22) occur only with one value of `Gender`.
 

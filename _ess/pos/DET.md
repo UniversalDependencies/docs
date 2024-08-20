@@ -11,4 +11,4 @@ The following two interrogative words are tagged as `DET`.
 - _naligh_ "which one"
 - _qafsina_ "how many"
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:24 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:36 CEST -->

@@ -87,10 +87,10 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (3799; 26% of non-empty `Case`): <em>neue, große, weitere, erste, gute, verschiedene, eigene, ersten, zahlreiche, neuen</em>
+* `Acc` (3800; 26% of non-empty `Case`): <em>neue, große, weitere, erste, gute, verschiedene, eigene, ersten, zahlreiche, neuen</em>
 * `Dat` (4631; 32% of non-empty `Case`): <em>ersten, zweiten, weiteren, großen, neuen, verschiedenen, letzten, deutschen, gleichen, heutigen</em>
 * `Gen` (1790; 12% of non-empty `Case`): <em>ersten, deutschen, zweiten, ehemaligen, neuen, großen, französischen, heutigen, amerikanischen, besten</em>
-* `Nom` (4310; 30% of non-empty `Case`): <em>erste, weitere, neue, deutsche, große, kleine, gute, letzte, zahlreiche, zweite</em>
+* `Nom` (4309; 30% of non-empty `Case`): <em>erste, weitere, neue, deutsche, große, kleine, gute, letzte, zahlreiche, zweite</em>
 * `EMPTY` (6112): <em>später, bekannt, gut, freundlich, lang, möglich, kurz, neu, stark, tätig</em>
 
 <table>
@@ -180,7 +180,7 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 * `Dat` (11; 18% of non-empty `Case`): <em>anderem, ca, Anfangs, Dort, Ex, Křižanov, PMMA, meisten, vorallem</em>
 * `Gen` (4; 7% of non-empty `Case`): <em>Abends, NIE, Zügig, längerer</em>
 * `Nom` (19; 31% of non-empty `Case`): <em>SEHR, super, Allzeit, ECHT, Gottlob, Nahe, Rääts, Vorallem, aka, bissschen</em>
-* `EMPTY` (14915): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
+* `EMPTY` (14918): <em>auch, nur, noch, sehr, so, dort, wieder, hier, mehr, heute</em>
 
 <table>
   <tr><th>Paradigm <i>super</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -213,15 +213,15 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 `ADP` tokens may have the following values of `Case`:
 
 * `Dat` (5; 100% of non-empty `Case`): <em>zufolge, nach</em>
-* `EMPTY` (32103): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
+* `EMPTY` (32100): <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (30264; 97%),
-<tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12332; 93%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12333; 93%),
 <tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (5237; 92%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5133; 87%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5131; 87%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3053; 74%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2470; 77%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (2217; 96%),

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.h
 
 ### `NOUN`
 
-22 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
+22 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (7% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
 
 The most frequent other feature values with which `NOUN` and `Gender[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20; 91%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (16; 73%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (15; 68%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 64%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (14; 64%).
 

@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 14 discourse	color:blue
 1	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	7	mark	_	Orig=ⲈⲢⲈ
-2	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	Entity=(abstract|Orig=ⲚϤ̅
+2	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	Entity=(abstract|Orig=ⲚϤ̅
 3	ⲥⲙⲟⲩ	ⲥⲙⲟⲩ	NOUN	N	_	7	nsubj	_	Orig=ⲤⲘⲞⲨ
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	Orig=ⲈⲦ
 5	ⲟⲩⲁⲁⲃ	ⲟⲩⲟⲡ	VERB	VSTAT	VerbForm=Fin	3	acl:relcl	_	Entity=abstract)|Orig=ⲞⲨⲀⲀⲂ
@@ -78,7 +78,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̅ϩⲏⲧ
 9	ⲛ	ⲁⲛⲟⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	obl	_	Orig=ⲛ̅
 10	ⲛ	ⲛ	ADP	PREP	_	12	case	_	Orig=ⲛ̅
-11	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Entity=(abstract
+11	ⲛⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender[psor]=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	Entity=(abstract
 12	ϣⲁϫⲉ	ϣⲁϫⲉ	NOUN	N	_	6	obj	_	Entity=abstract)person)
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 

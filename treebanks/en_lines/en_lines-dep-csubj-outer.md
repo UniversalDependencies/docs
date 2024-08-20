@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 13 9 csubj:outer	color:blue
 1	But	but	CCONJ	_	_	13	cc	_	_
 2	what	what	PRON	WH-REL	PronType=Rel	9	obj	_	_
-3	their	they	PRON	P3PL-GEN	_	6	nmod:poss	_	_
+3	their	their	PRON	P3PL-GEN	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 4	contented	content	ADJ	PASS	Degree=Pos	6	amod	_	_
 5	little	little	ADJ	POS	Degree=Pos	6	amod	_	_
 6	minds	mind	NOUN	PL-NOM	Number=Plur	9	nsubj	_	_

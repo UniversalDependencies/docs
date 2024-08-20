@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 2	ⲓⲱϩⲁⲛⲛⲏⲥ	ⲓⲱϩⲁⲛⲛⲏⲥ	PROPN	NPROP	Foreign=Yes	1	nsubj	_	Entity=(person-John_Calybite)|OrigLang=he
 3	·	·	PUNCT	PUNCT	_	10	punct	_	_
 4	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
-5	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+5	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	10	vocative	_	Entity=(person
 7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̅
 8	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	6	nmod	_	Entity=person)|Orig=ⲉⲓ̈ⲱⲧ
@@ -76,12 +76,12 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 12	·	·	PUNCT	PUNCT	_	16	punct	_	_
 13	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	16	cc	_	OrigLang=grc
 14	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	16	mark	_	_
-15	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	det	_	Entity=(place
+15	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	Entity=(place
 16	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	NOUN	N	Foreign=Yes	22	reparandum	_	Entity=place)|OrigLang=grc
 17	·	·	PUNCT	PUNCT	_	16	punct	_	_
 18	ⲏ	ⲏ	CCONJ	CONJ	Foreign=Yes	22	cc	_	OrigLang=grc
 19	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	22	mark	_	_
-20	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	21	det	_	Entity=(place
+20	ⲡⲉⲕ	ⲡⲉⲕ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	Entity=(place
 21	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ	NOUN	N	Foreign=Yes	22	nsubj	_	Entity=place)|OrigLang=grc
 22	ⲧⲱⲛ	ⲧⲱⲛ	ADV	PINT	PronType=Int	10	conj	_	_
 23	·	·	PUNCT	PUNCT	_	1	punct	_	_
@@ -119,7 +119,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 22	ⲉ	ⲉ	X	UNKNOWN	_	23	reparandum	_	_
 23	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	26	case	_	Orig=ⲉⲃⲟⲗ`
 24	ϩⲛ	ϩⲛ	ADP	PREP	_	23	fixed	_	Orig=ϩ︤ⲛ︥
-25	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	26	det	_	Entity=(place
+25	ⲧⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=(place
 26	ⲙⲏⲧⲉ	ⲙⲏⲧⲉ	NOUN	N	_	21	obl	_	Entity=place)
 27	·	·	PUNCT	PUNCT	_	30	punct	_	_
 28	ⲛ	ⲛ	ADP	PREP	_	30	case	_	Orig=ⲛ̄
@@ -145,7 +145,7 @@ The following 12 pairs of parts of speech are connected with `reparandum`: <tt><
 48	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	49	det	_	Entity=(organization
 49	ⲗⲁⲟⲥ	ⲗⲁⲟⲥ	NOUN	N	Foreign=Yes	44	obj	_	Entity=organization)|Orig=ⲗⲁⲟⲥ`|OrigLang=grc
 50	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	52	case	_	_
-51	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	52	det	_	Entity=(abstract
+51	ⲛⲉⲩ	ⲡⲉⲩ	DET	PPOS	Definite=Def|Number=Plur|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	52	nmod:poss	_	Entity=(abstract
 52	ϩⲃⲏⲩⲉ	ϩⲱⲃ	NOUN	N	_	44	obl	_	_
 53	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	54	mark	_	Orig=ⲉ
 54	ϩⲟⲟⲩ	ϩⲟⲟⲩ	VERB	VSTAT	VerbForm=Fin	52	acl:relcl	_	Entity=abstract)|Orig=ⲑⲟⲟⲩ

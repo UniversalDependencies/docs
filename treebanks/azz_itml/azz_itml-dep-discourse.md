@@ -28,7 +28,7 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 4	ki...	ki	X	_	_	7	reparandum	7:reparandum	NormalizedForm=ki...|SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,
 6	se	se	PRON	_	_	7	nsubj	7:nsubj	NormalizedForm=se
-7	kiita	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kiita
+7	kiita	ita	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kiita
 8	ya	ya	ADV	_	_	11	mark	11:mark	NormalizedForm=ya
 9	que	que	SCONJ	_	_	8	fixed	8:fixed	NormalizedForm=que
 10	nochi	nochi	PRON	_	_	11	nsubj	11:nsubj	NormalizedForm=nochi

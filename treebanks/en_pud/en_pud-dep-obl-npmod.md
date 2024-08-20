@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 14	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 15	of	of	ADP	IN	_	19	case	19:case	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	_
-17	deepest	deepest	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
+17	deepest	deep	ADJ	JJS	Degree=Sup	19	amod	19:amod	_
 18	commuter	commuter	NOUN	NN	Number=Sing	19	compound	19:compound	_
 19	systems	system	NOUN	NNS	Number=Plur	14	nmod	14:nmod:of	_
 20	in	in	ADP	IN	_	22	case	22:case	_

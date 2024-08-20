@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 15 different values: `Abl`, `Abs`, `All`, `Ben`, `Cau`, `Com`, `Dat`, `Erg`, `Ess`, `Gen`, `Ine`, `Ins`, `Lat`, `Loc`, `Par`.
 
 42348 tokens (35%) have a non-empty value of `Case`.
-17931 types (74%) occur at least once with a non-empty value of `Case`.
+17928 types (74%) occur at least once with a non-empty value of `Case`.
 7342 lemmas (67%) occur at least once with a non-empty value of `Case`.
 The feature is used with 11 part-of-speech tags: <tt><a href="eu_bdt-pos-NOUN.html">NOUN</a></tt> (21509; 18% instances), <tt><a href="eu_bdt-pos-PROPN.html">PROPN</a></tt> (6417; 5% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (4703; 4% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (3976; 3% instances), <tt><a href="eu_bdt-pos-DET.html">DET</a></tt> (3530; 3% instances), <tt><a href="eu_bdt-pos-ADP.html">ADP</a></tt> (1317; 1% instances), <tt><a href="eu_bdt-pos-ADV.html">ADV</a></tt> (332; 0% instances), <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="eu_bdt-pos-PRON.html">PRON</a></tt> (226; 0% instances), <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="eu_bdt-pos-SYM.html">SYM</a></tt> (14; 0% instances).
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Erg` (1913; 9% of non-empty `Case`): <em>taldeak, gobernuak, presidenteak, ministroak, poliziak, lehendakariak, entrenatzaileak, jokalariek, agintariek, kideek</em>
 * `Ess` (27; 0% of non-empty `Case`): <em>erreformistatzat, oinarritzat, aitzakiatzat, amaieratzat, arriskutzat, aurrebaldintzatzat, babeslekutzat, dialektotzat, egiletzat, erreferentziatzat</em>
 * `Gen` (2011; 9% of non-empty `Case`): <em>eskubideen, taldearen, gobernuaren, euskararen, abuztuaren, irailaren, hilaren, abertzaleen, epailearen, herriaren</em>
-* `Ine` (3283; 15% of non-empty `Case`): <em>ostean, igandean, herrian, taldean, urtean, moduan, egunetan, etxean, lanean, urteetan</em>
+* `Ine` (3283; 15% of non-empty `Case`): <em>ostean, herrian, igandean, taldean, urtean, moduan, egunetan, etxean, lanean, urteetan</em>
 * `Ins` (598; 3% of non-empty `Case`): <em>ondorioz, aldiz, ustez, legez, asmoz, euskaraz, urtez, aburuz, iritziz, orduz</em>
 * `Lat` (11; 0% of non-empty `Case`): <em>beherantz, Beherantza, barnerantz, helmugarantz, iparralderantz, mahaigainerantz, txokorantz, zeruertzerantz</em>
 * `Loc` (1607; 7% of non-empty `Case`): <em>taldeko, munduko, herriko, urteko, mailako, aurreko, goizeko, ligako, batasuneko, arratsaldeko</em>

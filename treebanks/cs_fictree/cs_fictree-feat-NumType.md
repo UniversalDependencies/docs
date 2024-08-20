@@ -77,6 +77,5 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NUM</tt> (16; 100%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 63%),
 <tt>DET --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (1; 100%),
-<tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%),
-<tt>NUM --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%).
 

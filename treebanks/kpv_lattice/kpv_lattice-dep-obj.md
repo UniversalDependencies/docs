@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	Неылысса	неылысса	ADJ	A	Case=Nom|Number=Sing|Polarity=Neg	2	amod	_	_
 2	сикт-грездын	сикт-грезд	NOUN	N	Case=Ine|Number=Sing	7	obl:lmod	_	_
 3	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
-4	йылысь	йылысь	ADP	Po	Case=Ela|Number=Sing	3	case	_	_
+4	йылысь	йылысь	ADP	Po	AdpType=Post|Case=Ela|Number=Sing	3	case	_	_
 5	абу	абу	AUX	Pcle	Polarity=Neg	7	aux:neg	_	_
 6	весиг	весиг	PART	Pcle	_	7	advmod	_	_
 7	тӧдлӧмаӧсь	тӧдлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No

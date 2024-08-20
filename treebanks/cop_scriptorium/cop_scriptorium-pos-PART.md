@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Coptic-Scriptorium: POS Tags: `PART`
 
 There are 37 `PART` lemmas (1%), 42 `PART` types (1%) and 2036 `PART` tokens (4%).
-Out of 15 observed tags, the rank of `PART` is: 8 in number of lemmas, 9 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `PART` is: 8 in number of lemmas, 9 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PART` lemmas: ⲇⲉ, ⲉ, ⲉⲣⲉ, ⲅⲁⲣ, ⲛϭⲓ, ϭⲉ, ⲱ, ⲉⲓⲥ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ
 
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  ⲉ (<tt><a href="cop_scriptorium-pos-SCO
   * <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> 786: ⲉ ⲩ ⲧⲛⲧⲱⲛ <b>ⲉ</b> ϩⲉⲛ ϩⲏⲃⲥ ⲉ ⲁ ⲩ ϫⲉⲣⲱ ⲟⲩ ϩⲛ ϩⲉⲛ ⲙⲁ ⲛ ⲕⲁⲕⲉ ·
   * <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> 635: ⲁⲩⲱ <b>ⲉ</b> ⲩ ⲧⲛⲧⲱⲛ ⲉ ⲡ ⲟⲩⲟⲉⲓⲛ ⲙ ⲡⲉ ϩⲟⲟⲩ ·
   * <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> 50: ⲉⲛⲉ ⲙⲡⲉ ⲡⲟⲩ ϩⲏⲧ ⲧⲁⲕⲟ . ⲛⲉⲣ ⲁ ⲥⲱϣ ⲡ ⲙⲁ ⲁⲛ ⲉⲧ <b>ⲉ</b> ⲛϩⲏⲧ ϥ .
-  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7: ⲉ ⲙⲉ ϥ ⲉⲓⲙⲉ ⲉ ⲡⲱⲣϫ · ⲁⲗⲗⲁ ⲉⲧⲃⲉ ⲟⲩ ⲙⲟⲥⲧⲉ ⲉ ϥ ϫⲱ ⲙ ⲡ ⲉⲧⲉ ⲛ ϣⲟⲟⲡ ⲁⲛ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ⲥϩⲓⲙⲉ ⲧⲉ ·
+  * <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> 7: ⲉ ⲙⲉ ϥ ⲉⲓⲙⲉ ⲉ ⲡⲱⲣϫ · ⲁⲗⲗⲁ ⲉⲧⲃⲉ ⲟⲩ ⲙⲟⲥⲧⲉ ⲉ ϥ ϫⲱ ⲙ ⲡ ⲉⲧⲉ ⲛ ϥ ϣⲟⲟⲡ ⲁⲛ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ϩⲟⲟⲩⲧ ⲡⲉ ⲉϣⲱⲡⲉ <b>ⲉ</b> ⲩ ⲥϩⲓⲙⲉ ⲧⲉ ·
   * <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> 1: ⲡⲁⲓ ⲇⲉ ⲉ ⲓ ϫⲱ ⲙⲙⲟ ϥ ⲛⲁ ⲥⲛⲏⲩ ϫⲉ ⲡⲉ ⲟⲩⲟⲉⲓϣ ⲛ ⲟⲗ ⲕ ⲡⲉ . ϫⲉⲕⲁⲁⲥ ϭⲉ ⲛ ⲕⲟⲟⲩⲉ ⲉⲧⲉ ⲟⲩⲛⲧ ⲟⲩ ⲥϩⲓⲙⲉ ⲙⲙⲁⲩ ⲛ ⲥⲉ ⲣ ⲑ <b>ⲉ</b> ⲛ ⲛ ⲉⲧⲉ ⲙⲛⲧⲁ ⲩ .
   * <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> 1: ⲁⲩⲱ ⲟⲩⲟⲓ ⲛ ⲛ ⲉⲧⲉⲣⲉ ⲡ ⲛⲟⲩⲧⲉ ⲛⲁ ϩⲟϫϩϫ ⲉⲃⲟⲗ ϩⲓⲧⲟⲟⲧ ⲟⲩ ⲁⲩⲱ ⲛ ϥ ⲕⲱⲧⲉ ⲛⲥⲁ ⲧ ϩⲉ ⲛ ⲉⲓ <b>ⲉ</b> ⲉⲃⲟⲗ ϩⲛ ⲧⲉⲩ ⲙⲏⲧⲉ · ⲛ ⲧ ϩⲉ ⲛ ⲟⲩ ⲣⲱⲙⲉ ⲛ ⲇⲓⲕⲁⲓⲟⲥ ⲉ ⲁ ϥ ⲕⲱⲧⲉ ⲛⲥⲁ ⲧ ϩⲉ ⲛ ⲕⲱ ⲛⲥⲱ ϥ ⲛ ⲟⲩ ⲗⲁⲟⲥ ⲉⲧⲃⲉ ⲛⲉⲩ ϩⲃⲏⲩⲉ ⲉⲧ ϩⲟⲟⲩ ⲕⲁⲧⲁ ⲡ ϣⲁϫⲉ ⲙ ⲡⲉ ⲡⲣⲟⲫⲏⲧⲏⲥ ϫⲉ ⲛⲓⲙ ⲡ ⲉⲧ ⲛⲁ ϯ ⲛⲁ ⲓ ϩⲙ ⲡ ϫⲁⲓⲉ ⲛ ⲟⲩ ⲙⲁ ⲛ ϣⲱⲡⲉ ⲉ ϥ ⲟⲩⲏⲩ ⲛ ⲧⲁ ⲕⲱ ⲛⲥⲱ ⲓ ⲙ ⲡⲉⲓ ⲗⲁⲟⲥ ⲛ ⲧⲁ ⲟⲩⲉ ⲉⲃⲟⲗ ⲙⲙⲟ ⲟⲩ ·
 * ⲅⲁⲣ

@@ -25,14 +25,14 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5 6 acl	color:blue
 1	Pos	pos	ADV	_	_	3	advmod	3:advmod	NormalizedForm=Pos
 2	neh	nehua	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	NormalizedForm=neh
-3	nikixmattok	ixmati	VERB	_	Aspect=Prog|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=nikixmattok
+3	nikixmattok	ixmati	VERB	_	Aspect=Prog|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=nikixmattok
 4	de	de	ADP	_	_	5	case	5:case	NormalizedForm=de
 5	yon	yon	PRON	_	_	3	obl	3:obl	NormalizedForm=yon
-6	kilwiah	ilhuia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	5	acl	5:acl	NormalizedForm=kilwiah|Number[iobj]=Sing|Person[iobj]=3
+6	kilwiah	ilhuia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	5	acl	5:acl	NormalizedForm=kilwiah|Number[iobj]=Sing|Person[iobj]=3
 7	mowih	mohuij	NOUN	_	Case=Abs	6	obj	6:obj	NormalizedForm=mowih|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	10:punct	NormalizedForm=,
 9	neh	nehua	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	NormalizedForm=neh
-10	nikixmattok	ixmati	VERB	_	Aspect=Prog|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	3	parataxis	3:parataxis	NormalizedForm=nikixmattok
+10	nikixmattok	ixmati	VERB	_	Aspect=Prog|Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=nikixmattok
 11	ipa	ipa	ADV	_	_	10	advmod	10:advmod	NormalizedForm=ipa
 12	sentaman	sentaman	NOUN	_	_	10	obj	10:obj	NormalizedForm=sentaman
 13	sah	saj	ADV	_	_	10	advmod	10:advmod	NormalizedForm=sah|SpaceAfter=No

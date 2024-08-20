@@ -62,13 +62,13 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	wonderful	wonderful	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 11	people	people	NOUN	NNS	Number=Plur	8	obj	8:obj|13:nsubj	_
 12	who	who	PRON	WP	PronType=Rel	13	nsubj	11:ref	_
-13	CARE	care	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
+13	CARE	care	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	Cxn=rc-wh-nsubj
 14	,	,	PUNCT	,	_	17	punct	17:punct	_
 15	Not	not	PART	RB	_	17	advmod	17:advmod	_
 16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	17:det	_
-17	kind	kind	NOUN	NN	Number=Sing	11	conj	11:conj	_
+17	kind	kind	NOUN	NN	Number=Sing	11	conj	11:conj|19:obl	_
 18	of	of	ADP	IN	_	17	dep	17:dep	_
-19	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	17:acl:relcl	_
+19	want	want	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	17:acl:relcl	Cxn=rc-red-obl
 20	to	to	PART	TO	_	21	mark	21:mark	_
 21	make	make	VERB	VB	VerbForm=Inf	19	xcomp	19:xcomp	_
 22	cash	cash	NOUN	NN	Number=Sing	21	obj	21:obj	SpaceAfter=No

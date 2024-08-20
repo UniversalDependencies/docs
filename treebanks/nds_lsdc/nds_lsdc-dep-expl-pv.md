@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nds_lsdc-dep-expl.html">expl</a></tt>.
 
-5 nodes (0%) are attached to their parents as `expl:pv`.
+41 nodes (0%) are attached to their parents as `expl:pv`.
 
-3 instances of `expl:pv` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+23 instances of `expl:pv` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.36585365853659.
 
-The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (5; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (41; 100% instances).
 
 
 ~~~ conllu
@@ -23,16 +23,16 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 2	fgColor:white
 # visual-style 2 3 expl:pv	color:blue
 1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma_gml=hê¹
-2	vorwündert	vorwunderen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	lemma_gml=vorwunderen
+2	vorwündert	vorwunderen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=vorwunderen
 3	sik	sik	PRON	_	Case=Acc,Dat|Person=3|PronType=Prs|Reflex=Yes	2	expl:pv	_	lemma_gml=sik¹
 4	un	un	CCONJ	_	_	5	cc	_	lemma_gml=unde²
-5	vrågt	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	lemma_gml=vrâgen
+5	vrågt	vrågen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	lemma_gml=vrâgen
 6	den	de	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma_gml=dê¹
 7	waerd	waerd	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	iobj	_	lemma_gml=wērt¹|SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	hwat	wat	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Int	11	obj	_	lemma_gml=wat(te)³
 10	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	lemma_gml=dat
-11	bedüdde	bedüden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	lemma_gml=bedü̂den|SpaceAfter=No
+11	bedüdde	bedüden	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	ccomp	_	lemma_gml=bedü̂den|SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

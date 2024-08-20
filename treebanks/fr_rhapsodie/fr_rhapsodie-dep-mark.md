@@ -50,7 +50,7 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 5	de	de	ADP	_	_	6	mark	_	_
 6	faire	faire	VERB	_	VerbForm=Inf	4	xcomp	_	Subject=SubjRaising
 7	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	reparandum	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	9	punct	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
 9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	_
 10	vaccins	vaccin	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	_
 11	par	par	ADP	_	_	12	case	_	_

@@ -34,7 +34,7 @@ The following 11 pairs of parts of speech are connected with `dislocated`: <tt><
 10	an	an	ADV	Rs	_	9	advmod	_	_
 11	siud	siud	ADV	Rs	_	10	fixed	_	_
 12	co-dhiù	co-dhiù	ADV	Rg	_	9	advmod	_	SpaceAfter=No
-13	?	?	PUNCT	Fg	_	6	punct	_	_
+13	?	?	PUNCT	Fg	_	4	punct	_	_
 
 ~~~
 

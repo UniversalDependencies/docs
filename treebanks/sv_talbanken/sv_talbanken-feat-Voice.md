@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-13792 tokens (14%) have a non-empty value of `Voice`.
-2601 types (17%) occur at least once with a non-empty value of `Voice`.
-1188 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9511; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4281; 4% instances).
+13841 tokens (14%) have a non-empty value of `Voice`.
+2639 types (17%) occur at least once with a non-empty value of `Voice`.
+1227 lemmas (12%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9560; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4281; 4% instances).
 
 ### `VERB`
 
-9511 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `Voice`.
+9560 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5561; 58%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5355; 56%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (8042; 85% of non-empty `Voice`): <em>har, blir, få, får, ha, är, gäller, ger, går, se</em>
-* `Pass` (1469; 15% of non-empty `Voice`): <em>kallas, användas, behövs, anses, beräknas, tas, används, ges, användes, förändras</em>
-* `EMPTY` (360): <em>finns, tycks, fanns, finnas, fordras, känns, hoppas, syns, trivas, fattas</em>
+* `Act` (8042; 84% of non-empty `Voice`): <em>har, blir, få, får, ha, är, gäller, ger, går, se</em>
+* `Pass` (1518; 16% of non-empty `Voice`): <em>kallas, användas, behövs, anses, beräknas, tas, används, ges, användes, förändras</em>
+* `EMPTY` (311): <em>finns, tycks, fanns, finnas, fordras, känns, hoppas, syns, trivas, fattas</em>
 
 <table>
   <tr><th>Paradigm <i>göra</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -51,13 +51,13 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="sv_talbanken-dep-aux.html">aux</a></tt>]--> AUX</tt> (1821; 77%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (809; 72%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (695; 81%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (810; 72%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> VERB</tt> (698; 81%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (304; 77%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (274; 81%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (166; 76%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (275; 81%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (167; 77%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (96; 92%),
-<tt>VERB --[<tt><a href="sv_talbanken-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (27; 82%),
+<tt>VERB --[<tt><a href="sv_talbanken-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (28; 85%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-appos.html">appos</a></tt>]--> VERB</tt> (18; 75%),
 <tt>VERB --[<tt><a href="sv_talbanken-dep-cop.html">cop</a></tt>]--> AUX</tt> (4; 100%).
 

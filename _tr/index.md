@@ -8,18 +8,14 @@ udver: '2'
 
 This is a **work-in-progress** overview of the UD annotation for Turkish.
 
-Unfortunately, different treebanks follow (slightly) different
-annotation guidelines,
-and at present (as of v2.4) multiple uncoordinated attempts of
-correction efforts are known.
-
+Unfortunately, different treebanks follow (slightly) different annotation guidelines, and, as of v2.4, multiple uncoordinated attempts of correction efforts were known. Currently, as of v2.14, there's a group working on the unification of the Turkish treebanks, named [the UD Turkic Group](https://github.com/ud-turkic/).
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by white spaces or punctuation,
+* In general, words are delimited by whitespaces or punctuation.
     Whitespaces or punctuation may appear in some abbreviations
     or numeric expressions.
-* Clitics are treated as a separate words. This includes
+* Clitics are treated as separate words. This includes
     the clitics that follow word-internal processes (e.g., vowel
     harmony) such as question clitic  _mI_ and  adverbial _DA_.
 * Due to the interaction of syntax and rich morphology,

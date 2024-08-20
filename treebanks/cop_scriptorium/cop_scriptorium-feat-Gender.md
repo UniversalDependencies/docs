@@ -11,21 +11,21 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cop_scriptorium-feat-Gender.html">Gender</a></tt>, <tt><a href="cop_scriptorium-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-9844 tokens (17%) have a non-empty value of `Gender`.
+9845 tokens (17%) have a non-empty value of `Gender`.
 71 types (3%) occur at least once with a non-empty value of `Gender`.
 42 lemmas (2%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4992; 9% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4852; 8% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (4993; 9% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (4852; 8% instances).
 
 ### `PRON`
 
-4992 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
+4993 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4992; 100%), <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4563; 91%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4563; 91%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (3738; 75%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4993; 100%), <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4564; 91%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4564; 91%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (3739; 75%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (1071; 21% of non-empty `Gender`): ⲥ, ⲧⲉ, ⲉ, ⲛⲧⲟⲥ, ⲉⲣⲟ, ⲁ, ⲛⲧⲟ, ⲙⲙⲟ, ⲣ, ⲁⲣ
-* `Masc` (3921; 79% of non-empty `Gender`): ϥ, ⲕ, ⲡⲉ, ⲅ, ⲛⲧⲟϥ, ⲡ, ⲛⲧⲟⲕ, ⲉⲕϣⲁⲛ, ⲉϥϣⲁⲛ, ⲉϥⲉ
+* `Masc` (3922; 79% of non-empty `Gender`): ϥ, ⲕ, ⲡⲉ, ⲅ, ⲛⲧⲟϥ, ⲡ, ⲛⲧⲟⲕ, ⲉⲕϣⲁⲛ, ⲉϥϣⲁⲛ, ⲉϥⲉ
 * `EMPTY` (4362): ⲩ, ⲟⲩ, ⲓ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲛⲓⲙ, ⲥⲉ, ϯ, ϥ
 
 <table>

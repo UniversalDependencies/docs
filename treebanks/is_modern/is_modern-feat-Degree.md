@@ -102,7 +102,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 * `Cmp` (134; 35% of non-empty `Degree`): <em>meiri, meira, fleiri, fleira, minna, minni, fleiru, fleirum, færri, meiru</em>
 * `Pos` (222; 58% of non-empty `Degree`): <em>mikið, margir, mikil, miklu, eina, margt, einu, mörgu, marga, eini</em>
 * `Sup` (25; 7% of non-empty `Degree`): <em>mesta, mestu, flestir, mest, mestum, flesta, flestra, flestum, mestan, mestur</em>
-* `EMPTY` (3322): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
+* `EMPTY` (3321): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
 
 <table>
   <tr><th>Paradigm <i>mikill</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -202,7 +202,7 @@ The most frequent other feature values with which `X` and `Degree` co-occurred: 
 `X` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>nýafstöðu</em>
-* `EMPTY` (90): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
+* `EMPTY` (89): <em>Molde, 2016, Eidur, FK, að, i, se, your, 22, 3</em>
 
 ## Relations with Agreement in `Degree`
 

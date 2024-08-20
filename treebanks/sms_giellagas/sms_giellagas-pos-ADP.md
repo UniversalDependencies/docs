@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ool</em> (<tt><a href="sms_giellagas-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.472015).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.476015).
 
 The 1st highest number of forms (1) was observed with the lemma “luzz”: <em>luzz</em>.
 
@@ -38,13 +38,13 @@ The 2nd highest number of forms (1) was observed with the lemma “mieʹldd”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “ool”: <em>ool</em>.
 
-`ADP` occurs with 4 features: <tt><a href="sms_giellagas-feat-AdpType.html">AdpType</a></tt> (22; 88% instances), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (5; 20% instances), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt> (1; 4% instances), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt> (1; 4% instances)
+`ADP` occurs with 4 features: <tt><a href="sms_giellagas-feat-AdpType.html">AdpType</a></tt> (24; 96% instances), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (8; 32% instances), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt> (1; 4% instances), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt> (1; 4% instances)
 
 `ADP` occurs with 5 feature-value pairs: `AdpType=Post`, `AdpType=Prep`, `Case=Ill`, `Number[psor]=Sing`, `Person[psor]=3`
 
-`ADP` occurs with 6 feature combinations.
-The most frequent feature combination is `AdpType=Post` (12 tokens).
-Examples: <em>ool, luzz, âʹlnn, mieʹldd, räjja, årra</em>
+`ADP` occurs with 4 feature combinations.
+The most frequent feature combination is `AdpType=Post` (10 tokens).
+Examples: <em>ool, luzz, âʹlnn, årra, mieʹldd, räjja</em>
 
 
 ## Relations

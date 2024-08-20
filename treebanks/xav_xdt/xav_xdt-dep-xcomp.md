@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `xcomp`.
+5 nodes (0%) are attached to their parents as `xcomp`.
 
-2 instances of `xcomp` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.
+3 instances of `xcomp` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.2.
 
-The following 1 pairs of parts of speech are connected with `xcomp`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (4; 100% instances).
+The following 1 pairs of parts of speech are connected with `xcomp`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (5; 100% instances).
 
 
 ~~~ conllu

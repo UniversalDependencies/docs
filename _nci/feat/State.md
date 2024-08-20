@@ -24,4 +24,4 @@ Nouns that are possessed either have no suffix or the suffix *-uh* or *-huan*.
 
 * [nci] _Ximellacuahuacan, nopil<b>huan</b>e, noteicca<b>huan</b>e!* "Animaos, hijos míos, hermanos menores míos!"
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:53 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:23 CEST -->

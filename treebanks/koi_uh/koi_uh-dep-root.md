@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-114 nodes (11%) are attached to their parents as `root`.
+128 nodes (12%) are attached to their parents as `root`.
 
-114 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.46491228070175.
+128 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.4609375.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (90; 79% instances), -<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (13; 11% instances), -<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), -<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (2; 2% instances), -<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 2% instances), -<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 2% instances), -<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (104; 81% instances), -<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (13; 10% instances), -<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), -<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (2; 2% instances), -<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (2; 2% instances), -<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (2; 2% instances), -<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

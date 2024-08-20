@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Cop`.
 
-972 tokens (1%) have a non-empty value of `VerbType`.
+973 tokens (1%) have a non-empty value of `VerbType`.
 10 types (0%) occur at least once with a non-empty value of `VerbType`.
 4 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (912; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (60; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (913; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (60; 0% instances).
 
 ### `VERB`
 
-912 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `VerbType`.
+913 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `VerbType`.
 
 `VERB` tokens may have the following values of `VerbType`:
 
-* `Cop` (912; 100% of non-empty `VerbType`): <em>dey, was, am, becoming, is</em>
+* `Cop` (913; 100% of non-empty `VerbType`): <em>dey, was, am, becoming, is</em>
 
 ### `AUX`
 

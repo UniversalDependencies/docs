@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>izan</em> (<tt><a href="eu_bdt-pos-VE
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.759843 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `VERB` is 3.759843 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (151) was observed with the lemma “ukan”: <em>Bazituen, badiote, baditinagu, baditinat, baditu, badituela, badituen, baditugu, baditut, badituzu, badu, baduala, badudala, baduela, baduen, badugu, badut, badute, badutela, baduzu, baikenuen, bailion, bailuen, baitio, baititu, baitituzte, baitu, baitut, baitute, baituzu, baitzituen, baitzuen, baitzuten, banitu, banuela, banuen, bazituzten, bazuen, bazuten, diagu, die, diegu, diela, dietela, digute, dik, din, dinagu, dinat, dio, diogu, diola, dion, diot, diote, diotela, diotelako, dioten, ditik, ditu, ditudanean, dituela, dituelako, dituen, dituena, ditugu, ditugula, ditugun, dituk, ditut, dituzte, dituztela, dituztelarik, dituzten, dituztenak, dituztenean, dituztenei, dituzu, dituzue, dizkiot, dizkiote, dizuet, du, dudalako, dudan, dudanean, duela, duelako, duen, duena, duenean, duenez, dugu, dugula, dugulako, dugun, dugunean, duk, dun, dut, dute, dutela, dutelako, duten, dutenak, dutenean, duzu, duzue, gaituen, genituen, genuela, genuelako, genuen, hiola, luke, naun, nauzu, niken, ninan, ninduela, nion, nuela, nuen, nuke, nukeen, ukaiteko, ukan, ukanen, zaitut, zenutela, zenuten, zian, zion, zituela, zituelarik, zituen, zituenean, zituenerako, zituztela, zituzten, zizkion, zuela, zuelako, zuen, zuena, zuenean, zuenez, zunan, zutela, zutelako, zuten</em>.
 

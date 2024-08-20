@@ -73,12 +73,12 @@ TODO: exclamative *what* is PRON+WDT?
 
 These are NN in PTB but PRON in UD. A feature indicating the type of pronoun is provided as shown in the table below. These also receive the feature [Number]()=`Sing`.
 
-INDEFINITE | one | body | thing
--- | -- | -- | --
-`PronType=Tot` | everyone | everybody | everything
-`PronType=Ind` (any) | anyone | anybody | anything
-`PronType=Ind` (some) | someone | somebody | something
-`PronType=Neg` | no one | nobody | nothing
+INDEFINITE | | one | body | thing
+-- | -- | -- | -- | --
+`PronType=Tot` | | everyone | everybody | everything
+`PronType=Ind` (any) | | anyone | anybody | anything
+`PronType=Ind` (some) | | someone | somebody | something
+`PronType=Neg` | none, naught | no one | nobody | nothing
 
 Note that the `Ind` (indefinite) value of the [PronType]() feature is narrower in UD than the general use of the term "indefinite pronoun": `Ind` specifically refers to the *some-* and *any-* varieties.
 These two varieties are not currently distinguished with features.
@@ -135,4 +135,4 @@ According to the PTB tagging guidelines, *one* should be
 These correspond to UPOS tags [NUM](), `PRON`, and [NOUN](), respectively.
 However, we depart from PTB in treating *one* as a pronoun in *no one* and *one another*, as described above.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

@@ -100,7 +100,7 @@ The most frequent other feature values with which `AUX` and `Derivation` co-occu
 
 2 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `ADP` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `ADP` and `Derivation` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (2; 100%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADP` tokens may have the following values of `Derivation`:
 

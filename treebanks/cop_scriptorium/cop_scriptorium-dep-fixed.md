@@ -32,7 +32,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	ϩⲛ	ϩⲛ	ADP	PREP	_	7	fixed	_	Orig=ϩ︤ⲛ︥
 9	ⲥⲁⲣⲣⲁ	ⲥⲁⲣⲣⲁ	PROPN	NPROP	Foreign=Yes	4	obl	_	Entity=(person-Sarah)|Orig=ⲥⲁⲣⲣⲁ`|OrigLang=he
 10	ϩⲛ	ϩⲛ	ADP	PREP	_	12	case	_	Orig=ϩ︤ⲛ︥
-11	ⲧⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	Entity=(abstract
+11	ⲧⲉⲥ	ⲡⲉⲥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	Entity=(abstract
 12	ⲙⲛⲧϩⲗⲗⲱ	ⲙⲛⲧϩⲗⲗⲱ	NOUN	N	_	4	obl	_	Entity=abstract)|MSeg=ⲙⲛⲧ-ϩⲗⲗⲱ|Orig=ⲙ︤ⲛ︦ⲧ︥ϩ︤ⲗ︥ⲗⲱ̂
 13	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
@@ -50,7 +50,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	ⲥⲉ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 4	ϫⲱ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
 5	ⲙⲙⲟ	ⲛ	ADP	PREP	_	6	case	_	_
-6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
 8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(person
 9	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	Foreign=Yes	13	nsubj	_	OrigLang=grc
@@ -75,7 +75,7 @@ The following 12 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	ϭⲱϣⲧ	ϭⲱϣⲧ	VERB	V	VerbForm=Fin	0	root	_	Orig=ϭⲱϣⲧ̅
 5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	4	advmod	_	_
 6	ϩⲏⲧ	ϩⲏⲧ	NOUN	N	_	4	obj	_	_
-7	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	6	det	_	Orig=ⲕ̅
+7	ⲕ	ⲛⲧⲟⲕ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	6	nmod:poss	_	Orig=ⲕ̅
 8	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

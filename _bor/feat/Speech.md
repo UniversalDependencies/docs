@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ind">Ind</a></td>
-  <td><a href="#IndOpt">IndOpt</a></td>
+  <td><a href="#IndOpt">IndTrans</a></td>
   
   
 </tr>
@@ -25,9 +25,9 @@ udver: '2'
 
 `IndOpt` Indirect optative 
 
-### <a name="IndOpt">`IndOpt`</a>: IndOpt
+### <a name="IndTrans">`IndTrans`</a>: IndTrans
 
-Indirect optative -_iagu_ marks complements of verbs of saying which expresses an optative notion.
+Indirect transmission -_iagu_ marks complements of verbs of saying which transmits a message.
 
 
 #### Example
@@ -42,4 +42,4 @@ Indirect optative -_iagu_ marks complements of verbs of saying which expresses a
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:08 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:22 CEST -->

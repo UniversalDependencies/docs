@@ -4,7 +4,8 @@ title:  'Gwichin UD'
 udver: '2'
 ---
 
-# UD for Gwichin <span class="flagspan"><img class="flag" src="../../flags/svg/CA.svg" /></span>
+# UD for Gwichin <span class="flagspan"><img class="flag" src="../../flags/svg/US-AK.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/CA.svg" /></span>
+
 
 ## Tokenization and Word Segmentation
 

@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Comm">Comm</a></td>
   <td><a href="#Peri">Peri</a></td>
+  <td><a href="#Elip">Elip</a></td>
   <td><a href="#Qest">Qest</a></td>
   <td><a href="#Brck">Brck</a></td>
   <td><a href="#Semi">Semi</a></td>
@@ -37,6 +38,13 @@ This value is used for periods.
 #### Examples:
 
 * _Terminé mi tarea._
+
+
+### <a name="Elip">`Elip`</a>: ellipsis
+
+#### Examples
+
+* _Por qué tienen miedo de participar en una elección limpia<b>…</b>_
 
 
 ### <a name="Qest">`Qest`</a>: Question Mark
@@ -100,4 +108,4 @@ This value is used for exclamation marks.
 #### Examples:
 
 * _¡Hola!_
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:05 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:19 CEST -->

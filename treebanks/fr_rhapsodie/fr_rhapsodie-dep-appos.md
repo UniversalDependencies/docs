@@ -49,7 +49,7 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Overlap=Rhap_D0007-10bis
 5	tournez	tourner	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D0007-10bis
 6	à	à	ADP	_	_	9	reparandum	_	Overlap=Rhap_D0007-10bis|SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
 8	à	à	ADP	_	_	9	case	_	_
 9	droite	droite	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	14	punct	_	_

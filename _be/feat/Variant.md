@@ -23,4 +23,4 @@ a combination of a nominal form and a personal pronoun clitic._
   _<b>дазволена</b>_ “allowed”, _<b>удакладнены</b>_ “refined”, _<b>складзены</b>_.
 * Long form equivalents: _рады_, _поўны_, _дзіўнае_, _упэўненае_, _павінныя_, _актуальныя_, _дазволенае_, _удакладненыя_, _складзеныя_.
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:11 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->

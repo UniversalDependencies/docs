@@ -19,3 +19,4 @@ A purposive clausal complement, whose head is in the Prp Mode.
 
 ~~~
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:52 CEST -->

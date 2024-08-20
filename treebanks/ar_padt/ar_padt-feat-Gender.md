@@ -220,7 +220,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1520; 58%),
 <tt>ADJ --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (890; 99%),
 <tt>VERB --[<tt><a href="ar_padt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (764; 68%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> PRON</tt> (724; 55%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> PRON</tt> (738; 54%),
 <tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (653; 98%),
 <tt>VERB --[<tt><a href="ar_padt-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (634; 98%),
 <tt>VERB --[<tt><a href="ar_padt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (580; 92%),

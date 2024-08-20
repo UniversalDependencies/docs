@@ -73,7 +73,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	person	person	NOUN	NN	Number=Sing	6	csubj:pass	6:csubj:pass	_
 13	to	to	PART	TO	_	14	mark	14:mark	_
 14	work	work	VERB	VB	VerbForm=Inf	12	acl	12:acl:to	_
-15	with	with	ADP	IN	_	14	obl	14:obl	SpaceAfter=No
+15	with	with	ADP	IN	_	14	obl	14:obl	Promoted=Yes|SpaceAfter=No
 16	,	,	PUNCT	,	_	21	punct	21:punct	_
 17	because	because	ADP	IN	_	21	case	21:case	_
 18	of	of	ADP	IN	_	17	fixed	17:fixed	_

@@ -12,18 +12,18 @@ It occurs with 2 different values: `Plur`, `Sing`.
 210613 tokens (49%) have a non-empty value of `Number`.
 28623 types (63%) occur at least once with a non-empty value of `Number`.
 17652 lemmas (50%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (73524; 17% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60713; 14% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27951; 6% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (24255; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9923; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (7492; 2% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4358; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1628; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (641; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (128; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (73517; 17% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60713; 14% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27958; 6% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (24255; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9923; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (7492; 2% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4358; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1628; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (641; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (128; 0% instances).
 
 ### `NOUN`
 
-73524 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
+73517 <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (37281; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (20946; 28% of non-empty `Number`): <em>años, habitantes, personas, millones, razas, obras, días, veces, países, meses</em>
-* `Sing` (52578; 72% of non-empty `Number`): <em>año, parte, población, ciudad, familia, municipio, vez, nombre, lugar, equipo</em>
+* `Sing` (52571; 72% of non-empty `Number`): <em>año, parte, población, ciudad, familia, municipio, vez, nombre, lugar, equipo</em>
 * `EMPTY` (4042): <em>km, Estado, euros, frente, Gobierno, Oficina, Provincia, Presidente, crisis, dólares</em>
 
 <table>
@@ -55,15 +55,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-27951 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
+27958 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21154; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20503; 73%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19684; 70%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19055; 68%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (21161; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20511; 73%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19692; 70%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19062; 68%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (6706; 24% of non-empty `Number`): <em>tienen, eran, encuentran, pertenecían, son, corresponden, existen, tenían, están, hacen</em>
-* `Sing` (21245; 76% of non-empty `Number`): <em>tiene, es, encuentra, hay, hace, tenía, era, ubicado, tuvo, fue</em>
-* `EMPTY` (8408): <em>hacer, ver, tener, decir, dar, partir, llegar, ir, encontrar, residiendo</em>
+* `Sing` (21252; 76% of non-empty `Number`): <em>tiene, es, encuentra, hay, hace, tenía, era, ubicado, tuvo, fue</em>
+* `EMPTY` (8407): <em>hacer, ver, tener, decir, dar, partir, llegar, ir, encontrar, residiendo</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -240,7 +240,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 * `Plur` (22; 17% of non-empty `Number`): <em>$, km, m, #, &, http://redsismica.uprm.edu/spanish/informacion/terr1918.php, http://www.rumbo.es/disney/, www.dgt.es</em>
 * `Sing` (106; 83% of non-empty `Number`): <em>², h, $, &, º, #, extremo.com, ª, €, +</em>
-* `EMPTY` (1534): <em>%, ², km, $, º, °, €, a, /, ª</em>
+* `EMPTY` (1533): <em>%, ², km, $, º, °, €, /, a, ª</em>
 
 <table>
   <tr><th>Paradigm <i>$</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -254,12 +254,12 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="es_gsd-dep-det.html">det</a></tt>]--> DET</tt> (48675; 96%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (18612; 95%),
-<tt>NOUN --[<tt><a href="es_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11038; 55%),
-<tt>VERB --[<tt><a href="es_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (8824; 53%),
-<tt>VERB --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6507; 85%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (11031; 55%),
+<tt>VERB --[<tt><a href="es_gsd-dep-obl.html">obl</a></tt>]--> NOUN</tt> (8825; 53%),
+<tt>VERB --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (6512; 85%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4308; 77%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3013; 76%),
 <tt>NOUN --[<tt><a href="es_gsd-dep-cop.html">cop</a></tt>]--> AUX</tt> (2884; 89%),
-<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2203; 73%),
-<tt>NOUN --[<tt><a href="es_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (2069; 87%).
+<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2206; 73%),
+<tt>NOUN --[<tt><a href="es_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (2070; 87%).
 

@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	-	-	PUNCT	MID	_	4	punct	4:punct	_
 9	ja	ja	INTJ	IN	_	12	discourse	12:discourse	SpaceAfter=No
 10	,	,	PUNCT	MID	_	12	punct	12:punct	_
-11	hela	hel	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	12	amod	12:amod	_
+11	hela	hel	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	12	amod	12:amod	_
 12	samhället	samhälle	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	conj	2:obj|4:conj	SpaceAfter=No
 13	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	ju	ju	ADV	AB	_	21	advmod	21:advmod	_
 8	detta	denna	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	21	nsubj	21:nsubj	_
 9	-	-	PUNCT	MID	_	21	punct	21:punct	_
-10	sett	se	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	21:advcl	_
+10	sett	sedd	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	21:advcl	_
 11	i	i	ADP	PP	_	16	case	16:case	_
 12	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	16	det	16:det	_
 13	globalt	global	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	16	amod	16:amod	_

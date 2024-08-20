@@ -9,188 +9,174 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Prox`, `Remt`.
 
-9864 tokens (11%) have a non-empty value of `Deixis`.
-3110 types (29%) occur at least once with a non-empty value of `Deixis`.
-1073 lemmas (27%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 9 part-of-speech tags: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (5878; 7% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (1396; 2% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (1096; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (971; 1% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (192; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (168; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (93; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (49; 0% instances), <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances).
+3834 tokens (11%) have a non-empty value of `Deixis`.
+1719 types (27%) occur at least once with a non-empty value of `Deixis`.
+888 lemmas (28%) occur at least once with a non-empty value of `Deixis`.
+The feature is used with 9 part-of-speech tags: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2270; 7% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (571; 2% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (419; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (369; 1% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (84; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (63; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (28; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances).
 
 ### `NOUN`
 
-5878 <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> tokens (46% of all `NOUN` tokens) have a non-empty value of `Deixis`.
+2270 <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> tokens (45% of all `NOUN` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `NOUN` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5876; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4785; 81%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3338; 57%).
+The most frequent other feature values with which `NOUN` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2266; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1872; 82%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1355; 60%).
 
 `NOUN` tokens may have the following values of `Deixis`:
 
-* `Prox` (937; 16% of non-empty `Deixis`): <em>mesecáte, mesecáse, düņóso, astinomíjeta, hükümétes, kóštoso, glavóto, mečkáta, momóso, májkata</em>
-* `Remt` (4941; 84% of non-empty `Deixis`): <em>kóštono, čulǽkon, kópeløno, mómičeno, žanána, momána, astinomíjena, goróno, kópelon, mečkána</em>
+* `Prox` (381; 17% of non-empty `Deixis`): <em>mesecáte, mesecáse, astinomíjeta, düņóso, insánase, kóštoso, momóso, Pomácese, mečkáta, pótete</em>
+* `Remt` (1889; 83% of non-empty `Deixis`): <em>čulǽkon, kóštono, kópeløno, mómičeno, goróno, astinomíjena, žanána, pótene, momána, rǽkono</em>
 
 <table>
   <tr><th>Paradigm <i>čulǽk</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>čulǽkase</em></td><td><em>čulǽkane</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>čulǽkune, čulékune</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>čulǽkot</em></td><td><em>čulǽkon, čulékon, čulékan</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>čulǽkot</em></td><td><em>čulǽkane</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>čulǽkune</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Čulǽkot</em></td><td><em>čulǽkon, čulékan</em></td></tr>
 </table>
 
 ### `DET`
 
-1396 <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> tokens (41% of all `DET` tokens) have a non-empty value of `Deixis`.
+571 <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> tokens (41% of all `DET` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt><tt>=EMPTY</tt> (983; 70%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (977; 70%), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (766; 55%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (719; 52%).
+The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (506; 89%), <tt><a href="qpm_philotis-feat-DeixisRef.html">DeixisRef</a></tt><tt>=EMPTY</tt> (412; 72%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (387; 68%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (316; 55%), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (313; 55%).
 
 `DET` tokens may have the following values of `Deixis`:
 
-* `Prox` (413; 30% of non-empty `Deixis`): <em>isazí, isózek, isózi, isázi, itazí, isézi, isók, isélkus, kólkoto, žóto</em>
-* `Remt` (983; 70% of non-empty `Deixis`): <em>inazí, žýjen, žýne, žíne, žókne, drúgono, inélkus, drúgokne, inéj, žóno</em>
+* `Prox` (161; 28% of non-empty `Deixis`): <em>isózi, isézi, isózek, isázi, isazí, kólkoto, isélkus, itazí, kakvóto, ajsóva</em>
+* `Remt` (410; 72% of non-empty `Deixis`): <em>inazí, žýjen, žíne, žýne, žókne, žóno, drúgyjen, drúgono, inélkus, drúganek</em>
 
 <table>
   <tr><th>Paradigm <i>adín</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ennókte</em></td><td><em>annókne, annóganek</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Ennósa, annóto</em></td><td><em>annóno, ennóna, jennóna</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>annóto</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>annómune</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>adínyjet</em></td><td><em>adínyjen, edínijon, adínajen, adínen</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>annána, jennóna</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>annóno</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>annýne</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>ennókte</em></td><td><em>annókne, annóganek</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>annóno</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>annóto</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>annǽh</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>adínyjen</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>annóno</em></td></tr>
 </table>
 
 ### `ADV`
 
-1096 <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> tokens (25% of all `ADV` tokens) have a non-empty value of `Deixis`.
+419 <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> tokens (25% of all `ADV` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (672; 61%).
+The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (242; 58%).
 
 `ADV` tokens may have the following values of `Deixis`:
 
-* `Prox` (430; 39% of non-empty `Deixis`): <em>isǽ, itúzi, kákta, sæ, itýj, sabályjinto, isýj, kadéta, kugáta, itúj</em>
-* `Remt` (666; 61% of non-empty `Deixis`): <em>itám, kugána, kákna, inagáne, kadéna, inýj, tam, akšámlajinno, tám, sabáhlajinno</em>
+* `Prox` (168; 40% of non-empty `Deixis`): <em>isǽ, itúzi, kákta, sabályjinto, itýj, isýj, sæ, akšálmyjinto, itúj, 'sæ</em>
+* `Remt` (251; 60% of non-empty `Deixis`): <em>itám, kugána, kákna, kadéna, inagáne, inýj, tam, akšámlajinno, kogána, kákno</em>
 
-`Deixis` seems to be **lexical feature** of `ADV`. 100% lemmas (30) occur only with one value of `Deixis`.
+<table>
+  <tr><th>Paradigm <i>itagáne</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>tugáva, itagáne, Tagás, Togás, itagýne, tagís, tugána</em></td><td><em>togáva</em></td></tr>
+</table>
+
+`Deixis` seems to be **lexical feature** of `ADV`. 95% lemmas (42) occur only with one value of `Deixis`.
 
 ### `ADJ`
 
-971 <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> tokens (37% of all `ADJ` tokens) have a non-empty value of `Deixis`.
+369 <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> tokens (36% of all `ADJ` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `ADJ` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (970; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (751; 77%).
+The most frequent other feature values with which `ADJ` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (368; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (285; 77%).
 
 `ADJ` tokens may have the following values of `Deixis`:
 
-* `Prox` (160; 16% of non-empty `Deixis`): <em>stáryjet, stáryte, birinǧíto, pomáckyse, staráta, čórnoso, gróznoto, jódroto, čorbaǧíckata, čárckyjet</em>
-* `Remt` (811; 84% of non-empty `Deixis`): <em>stáryjen, mládyjen, starána, míčkyjen, gulǽmyjen, čárckyjen, altónenono, górnono, stárine, üčünǧǘno</em>
+* `Prox` (58; 16% of non-empty `Deixis`): <em>stáryte, birinǧíto, pomáckyse, Máminata, altónenoto, čórnoso, Teškáta, altonǧíckokse, arápckyte, bǽloso</em>
+* `Remt` (311; 84% of non-empty `Deixis`): <em>stáryjen, mládyjen, míčkyjen, starána, górnono, stárine, čárckyjen, gulǽmyjen, míčkokne, stárono</em>
 
 <table>
   <tr><th>Paradigm <i>star</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>stárehne, stárene</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>stáremne</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Stárite</em></td><td><em>stárine</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>stáryne</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>stárokte</em></td><td><em>stárokne, stárane</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>stároto</em></td><td><em>stárono</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>stárine</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stárokne</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>stárehne</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stárono</em></td></tr>
   <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>stáryte</em></td><td><em>stáryne</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Stároso, stároto</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>stárumute</em></td><td><em>stárumune, stáromune</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stárojne</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>stáryjet</em></td><td><em>stáryjen, stárijon, stáryen</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>staráta</em></td><td><em>starána</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stárumune</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>stáryjet</em></td><td><em>stáryjen</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>starána</em></td></tr>
 </table>
 
 ### `NUM`
 
-192 <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Deixis`.
+84 <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> tokens (16% of all `NUM` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `NUM` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (192; 100%), <tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (192; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt> (174; 91%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (108; 56%), <tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (100; 52%).
+The most frequent other feature values with which `NUM` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (84; 100%), <tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (80; 95%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt> (73; 87%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (49; 58%), <tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (46; 55%).
 
 `NUM` tokens may have the following values of `Deixis`:
 
-* `Prox` (25; 13% of non-empty `Deixis`): <em>dvomínata, dvéte, trimínasa, trimínata, annóto, dvomínasa, dvomínehte, annógate, annóso, béšto</em>
-* `Remt` (167; 87% of non-empty `Deixis`): <em>dvamínana, dvéne, dvomínana, tríne, trimínana, dvána, dvomínehne, annóno, adínyjen, annókne</em>
+* `Prox` (12; 14% of non-empty `Deixis`): <em>trimínata, Licáta, annógate, annóto, dvomínasa, dvomínata, dvomínehte, dvése, dvéte, ennóto</em>
+* `Remt` (72; 86% of non-empty `Deixis`): <em>dvamínana, dvéne, dvomínana, trimínana, tríne, dvána, adínyjen, 38no, 4no, 8no</em>
 
 <table>
   <tr><th>Paradigm <i>adín</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>annógate</em></td><td><em>annókne</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>annóso</em></td><td><em>annóno</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>annóto, ennóto</em></td><td><em>annóno</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>annómune</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>adínyjen, edíņon</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>annána</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>annóno</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>annógate</em></td><td><em>annókne</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>annóto, ennóto</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td></td><td><em>annómune</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>adínyjen</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td></td><td><em>adínyjen</em></td></tr>
 </table>
 
 ### `PRON`
 
-168 <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Deixis`.
+63 <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (168; 100%), <tt><a href="qpm_philotis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (168; 100%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (166; 99%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (166; 99%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (166; 99%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (112; 67%).
+The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="qpm_philotis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (63; 100%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (45; 71%).
 
 `PRON` tokens may have the following values of `Deixis`:
 
-* `Prox` (41; 24% of non-empty `Deixis`): <em>kanáta, kaknása, síčkoso, Kanása, síčkoto, kaknáta, kaknátu, žýte</em>
-* `Remt` (127; 76% of non-empty `Deixis`): <em>kanána, síčkono, kaknána, kaknáno, síčkona, ajnéj, aknána</em>
+* `Prox` (18; 29% of non-empty `Deixis`): <em>kanáta, kaknása, síčkoto, Kanása, kaknáta, síčkoso</em>
+* `Remt` (45; 71% of non-empty `Deixis`): <em>kanána, síčkono, kaknána, kaknáno, kólkono, síčkona</em>
 
 <table>
   <tr><th>Paradigm <i>kanása</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>kanáta, kaknása, Kanása, kaknáta, kaknátu</em></td><td><em>kanána, kaknána, kaknáno, aknána</em></td></tr>
+  <tr><td><tt></tt></td><td><em>kanáta, kaknása, Kanása, kaknáta</em></td><td><em>kanána, kaknána, kaknáno</em></td></tr>
 </table>
 
 ### `VERB`
 
-93 <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Deixis`.
+28 <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `VERB` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (93; 100%), <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (93; 100%), <tt><a href="qpm_philotis-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (93; 100%), <tt><a href="qpm_philotis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (92; 99%), <tt><a href="qpm_philotis-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (92; 99%), <tt><a href="qpm_philotis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (75; 81%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74; 80%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (49; 53%).
+The most frequent other feature values with which `VERB` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="qpm_philotis-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="qpm_philotis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (28; 100%), <tt><a href="qpm_philotis-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (28; 100%), <tt><a href="qpm_philotis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (23; 82%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 82%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15; 54%).
 
 `VERB` tokens may have the following values of `Deixis`:
 
-* `Prox` (14; 15% of non-empty `Deixis`): <em>šlévenata, abijískavanata, izmýslenyte, izpékanoso, izšlévenata, navǿzanite, navǿzanæhte, prekalnátasa, stánatoto, umarénite</em>
-* `Remt` (79; 85% of non-empty `Deixis`): <em>pǽtyjen, zarýtyjen, davédenono, spúšanokne, spúšanono, umrǽtokne, mésenono, primázanono, skrýtono, sónenyne</em>
+* `Prox` (5; 18% of non-empty `Deixis`): <em>abijískavanata, izšlévenata, stánatoto, umarénite, šlévenata</em>
+* `Remt` (23; 82% of non-empty `Deixis`): <em>spúšanokne, umrǽtokne, apítana, atfórenyne, atékanokne, davédenono, mésenono, navartǽtana, primázanokne, spúšanono</em>
 
 <table>
-  <tr><th>Paradigm <i>úmrom</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>umrǽtehne, umrǽtene</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>umrǽtine</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>umrǽtokne</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>umrǽtoso</em></td><td><em>umrǽtono</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>umrétune</em></td></tr>
+  <tr><th>Paradigm <i>šlévem</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>šlévenono</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>šlévenata</em></td><td></td></tr>
 </table>
 
-`Deixis` seems to be **lexical feature** of `VERB`. 92% lemmas (45) occur only with one value of `Deixis`.
+`Deixis` seems to be **lexical feature** of `VERB`. 95% lemmas (19) occur only with one value of `Deixis`.
 
 ### `PROPN`
 
-49 <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Deixis`.
+18 <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `PROPN` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (49; 100%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (35; 71%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (26; 53%).
+The most frequent other feature values with which `PROPN` and `Deixis` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (18; 100%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (17; 94%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 56%).
 
 `PROPN` tokens may have the following values of `Deixis`:
 
-* `Prox` (4; 8% of non-empty `Deixis`): <em>Balkánase, Epimelitírioso, Próniasa, Próniaso</em>
-* `Remt` (45; 92% of non-empty `Deixis`): <em>Kélčeno, Kélčetune, Lýǧeno, Próniano, OGOno, Dólneno, Edrelézene, Hóǧana, Hóǧena, KEPKAno</em>
-
-<table>
-  <tr><th>Paradigm <i>Prónia</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Próniaso</em></td><td><em>Próniano</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Próniasa</em></td><td></td></tr>
-</table>
-
-`Deixis` seems to be **lexical feature** of `PROPN`. 92% lemmas (12) occur only with one value of `Deixis`.
+* `Prox` (1; 6% of non-empty `Deixis`): <em>Balkánase</em>
+* `Remt` (17; 94% of non-empty `Deixis`): <em>Kélčeno, Kélčetune, KEPno, Lýǧeno</em>
 
 ### `SCONJ`
 
-21 <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Deixis`.
+12 <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `Deixis`.
 
 `SCONJ` tokens may have the following values of `Deixis`:
 
-* `Prox` (1; 5% of non-empty `Deixis`): <em>Agýta</em>
-* `Remt` (20; 95% of non-empty `Deixis`): <em>agýna, agána</em>
+* `Remt` (12; 100% of non-empty `Deixis`): <em>agýna, agána, kugána</em>
 
 ## Relations with Agreement in `Deixis`
 
 The 10 most frequent relations where parent and child node agree in `Deixis`:
-<tt>NOUN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (133; 72%),
-<tt>PROPN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 67%),
-<tt>ADJ --[<tt><a href="qpm_philotis-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>DET --[<tt><a href="qpm_philotis-dep-acl.html">acl</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>NUM --[<tt><a href="qpm_philotis-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1; 100%),
-<tt>PRON --[<tt><a href="qpm_philotis-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (78; 74%),
+<tt>DET --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 67%),
+<tt>DET --[<tt><a href="qpm_philotis-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2; 67%),
+<tt>NOUN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2; 67%),
+<tt>DET --[<tt><a href="qpm_philotis-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="qpm_philotis-dep-dep.html">dep</a></tt>]--> NOUN</tt> (1; 100%),
+<tt>NUM --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%).
 

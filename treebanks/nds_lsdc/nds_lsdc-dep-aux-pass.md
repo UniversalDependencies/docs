@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nds_lsdc-dep-aux.html">aux</a></tt>.
 
-11 nodes (0%) are attached to their parents as `aux:pass`.
+12 nodes (0%) are attached to their parents as `aux:pass`.
 
-10 instances of `aux:pass` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.09090909090909.
+11 instances of `aux:pass` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (11; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (12; 100% instances).
 
 
 ~~~ conllu

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `expl`: <tt><a href="it_old-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_old-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="it_old-dep-expl-pv.html">expl:pv</a></tt>.
 
-42 nodes (0%) are attached to their parents as `expl`.
+88 nodes (0%) are attached to their parents as `expl`.
 
-37 instances of `expl` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+72 instances of `expl` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.375.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (42; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (88; 100% instances).
 
 
 ~~~ conllu

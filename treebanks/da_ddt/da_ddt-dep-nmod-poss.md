@@ -65,7 +65,7 @@ The following 21 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 11 nmod:poss	color:blue
 1	Kun	kun	ADV	_	_	2	advmod	_	_
-2	ikke	ikke	ADV	_	_	0	root	_	_
+2	ikke	ikke	ADV	Polarity=Neg	_	0	root	_	_
 3	i	i	ADP	_	AdpType=Prep	6	case	_	_
 4	Det	den	DET	_	Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
 5	Konservative	konservativ	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	6	amod	_	_

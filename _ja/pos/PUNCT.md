@@ -25,4 +25,4 @@ _§_, which are instead tagged as [SYM]().
 ### References
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Punctuation)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:29 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->

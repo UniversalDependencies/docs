@@ -45,4 +45,4 @@ punct(pomeranče, ,-5)
 punct(pears, ,-13)
 punct(oranges, ,-15)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:33 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->

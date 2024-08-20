@@ -48,7 +48,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `2` (1; 17% of non-empty `Person`): <em>Ehre</em>
 * `3` (5; 83% of non-empty `Person`): <em>erfolge, fait, leben, strömt, wohlgehe</em>
-* `EMPTY` (3096): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3097): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 ### `AUX`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `1` (1; 20% of non-empty `Person`): <em>sommes</em>
 * `3` (4; 80% of non-empty `Person`): <em>ist, is, sei</em>
-* `EMPTY` (2488): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
+* `EMPTY` (2487): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
 
 ## Relations with Agreement in `Person`
 

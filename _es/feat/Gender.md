@@ -37,4 +37,4 @@ Furthermore, masculine gender is used as a generic form in many contexts. The gr
 * _Una manzana grande_ "A big apple"
 * _Su hermana mayor_ "Her older sister"
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:46 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->

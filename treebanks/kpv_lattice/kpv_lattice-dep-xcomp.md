@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	асылын	асыв	NOUN	N	Case=Ine|Number=Sing	3	obl:tmod	_	_
 3	лэччи	лэччыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
 4	Эжва	Эжва	PROPN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
-5	дорӧ	дорын	ADP	Po	Case=Ill|Number=Sing	4	case	_	_
+5	дорӧ	дорын	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	4	case	_	_
 6	вуграсьны	вуграсьны	VERB	V	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
@@ -40,13 +40,13 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 xcomp	color:blue
 1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
-2	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	1	case	_	_
+2	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	1	case	_	_
 3	видзӧдігмоз	видзӧдны	VERB	V	Derivation=Igmoz|VerbForm=Conv	6	advcl	_	_
 4	весиг	весиг	PART	Pcle	_	6	advmod	_	_
 5	шуштӧм	шуштӧм	NOUN	N	Case=Abe|Number=Sing|Variant=Nomin	6	xcomp	_	_
 6	лолі	лолыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 7	сьӧлӧм	сьӧлӧм	NOUN	N	Case=Nom|Number=Sing	6	obl:lmod	_	_
-8	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
+8	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	7	case	_	SpaceAfter=No
 9	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 4 7 xcomp	color:blue
 1	Туйыс	туй	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
 2	зэр	зэр	NOUN	N	Case=Nom|Number=Sing	4	obl	_	_
-3	вӧснаыс	вӧсна	ADP	Po	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	case	_	_
+3	вӧснаыс	вӧсна	ADP	Po	AdpType=Post|Number[psor]=Sing|Person[psor]=3	2	case	_	_
 4	лоис	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	6	amod	_	_
 6	ю	ю	NOUN	N	Case=Nom|Number=Sing	7	nmod	_	_

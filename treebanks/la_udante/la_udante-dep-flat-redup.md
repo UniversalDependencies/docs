@@ -67,7 +67,7 @@ The following 2 pairs of parts of speech are connected with `flat:redup`: <tt><a
 3	naturalis	naturalis	ADJ	ams2n	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Sing	4	amod	_	_
 4	amor	amor	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	nsubj	_	_
 5	diuturnam	diuturnus	ADJ	afs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	9	ccomp	_	_
-6	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	5	cop	_	TraditionalTense=Praesens
+6	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	5	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	derisionem	derisio	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	5	nsubj	_	_
 8	non	non	PART	r	Polarity=Neg	9	advmod:neg	_	_
 9	patitur	patior	VERB	vd3ips3	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	56	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
@@ -90,7 +90,7 @@ The following 2 pairs of parts of speech are connected with `flat:redup`: <tt><a
 26	,	,	PUNCT	Pu	_	25	punct	_	_
 27	lucem	lux	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	29	obj	_	_
 28	correctionis	correctio	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	27	nmod	_	_
-29	effundere	effundo	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	30	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+29	effundere	effundo	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	30	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 30	mavult	malo	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 31	,	,	PUNCT	Pu	_	9	punct	_	_
 32	ad	ad	ADP	e	_	33	mark	_	_

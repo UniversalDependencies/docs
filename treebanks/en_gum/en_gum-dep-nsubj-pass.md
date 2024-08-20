@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="en_gum-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-1266 nodes (1%) are attached to their parents as `nsubj:pass`.
+1433 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-1262 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.84597156398104.
+1427 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.81437543614794.
 
-The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (683; 54% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (424; 33% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (131; 10% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (773; 54% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (487; 34% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (140; 10% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj:pass	color:blue
 1	But	but	CCONJ	CC	_	4	cc	4:cc	Discourse=adversative-contrast_m:70->69:1:dm-but-365
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	4:nsubj:pass|6:nsubj:xsubj	Entity=(10-person-giv:act-cf1*-1-ana)
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	4:nsubj:pass|6:nsubj:xsubj	Entity=(9-person-giv:act-cf1*-1-ana)
 3	'm	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 4	supposed	suppose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=suppos-ed
 5	to	to	PART	TO	_	6	mark	6:mark	_
@@ -65,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 3 nsubj:pass	color:blue
 1	His	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Discourse=elaboration-additional:49->45:2:_|Entity=(1-person-giv:act-cf1*-1-ana-Antonín_Dvořák)
-2	Seventh	Seventh	ADJ	NNP	Degree=Pos|Number=Sing|NumForm=Word|NumType=Ord	3	amod	3:amod	Entity=(80-abstract-new-cf3-1,2-sgl-Symphony_No._7_%28Dvořák%29|MSeg=Seven-th|XML=<ref target:::"https://en.wikipedia.org/wiki/Symphony_No._7_(Dvo%C5%99%C3%A1k)">
+2	Seventh	Seventh	ADJ	NNP	Degree=Pos|NumForm=Word|NumType=Ord	3	amod	3:amod	Entity=(80-abstract-new-cf3-1,2-sgl-Symphony_No._7_%28Dvořák%29|MSeg=Seven-th|XML=<ref target:::"https://en.wikipedia.org/wiki/Symphony_No._7_(Dvo%C5%99%C3%A1k)">
 3	Symphony	Symphony	PROPN	NNP	Number=Sing	5	nsubj:pass	5:nsubj:pass	Entity=80)|XML=</ref>
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	5:aux:pass	_
 5	written	write	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=writt-en

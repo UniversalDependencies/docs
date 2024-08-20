@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-78 nodes (6%) are attached to their parents as `root`.
+380 nodes (6%) are attached to their parents as `root`.
 
-78 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.9615384615385.
+380 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 13.0763157894737.
 
-The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (76; 97% instances), -<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), -<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (362; 95% instances), -<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), -<tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), -<tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), -<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 0% instances), -<tt><a href="bej_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,47 +36,45 @@ The following 3 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 19 root	color:blue
-1	mʔaːna	_	VERB	V2,IRG	Number=Plur|VerbClass=2	2	parataxis	_	AlignBegin=63076|AlignEnd=63427|GE=come-[IMP].[PL]|Gloss=come|MGloss=come-IMP.PL|MSeg=mʔ-aːna|ReportedSpeech=Yes|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-2	dija	_	VERB	V1,IRG	VerbClass=1	19	advcl	_	AlignBegin=63427|AlignEnd=63778|GE=say-[CVB].[MNR]|Gloss=say|MGloss=say-CVB.MNR|MSeg=di-ja|RX=[V1].[IRG]|TokenType=Root
-3	waliːka	_	VERB	V2	VerbClass=2	19	reparandum	_	AlignBegin=63778|AlignEnd=63918|GE=call-[CVB].[MNR]|Gloss=call|MGloss=call-CVB.MNR|MSeg=waliːk-a|RX=[V2]-[PRF]|TokenType=Root
-4	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	3	det	_	AlignBegin=63918|AlignEnd=63988|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
-5	=u	_	AUX	N,COP	Number=Sing|Person=3|VerbType=Cop	19	cop	_	AlignBegin=63988|AlignEnd=64058|GE==[COP].[3SG]|RX==[PRED].[N]|TokenType=Clit
-6	=it	_	SCONJ	CONJ	_	19	mark	_	AlignBegin=64058|AlignEnd=64129|GE==[CSL]|RX==[CONJ]|TokenType=Clit
-7	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=64129|AlignEnd=64480|TokenType=Break
-8	sagi	_	ADJ	ADJ	_	9	amod	_	AlignBegin=64480|AlignEnd=64715|GE=far|Gloss=far|RX=[ADJ]|TokenType=Root
-9	haːʃ	_	NOUN	N	Gender=Masc	19	reparandum	_	AlignBegin=64715|AlignEnd=64832|GE=land|Gloss=land|RX=[N].[M]|TokenType=Root
-10	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	19	case	_	AlignBegin=64832|AlignEnd=64950|GE==[ABL].[SG]|RX==[POSTP]|TokenType=Clit
-11	//	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=64950|AlignEnd=65185|TokenType=Break
-12	beːn	_	ADV	ADV	_	19	reparandum	_	AlignBegin=65185|AlignEnd=65353|GE=there|Gloss=there|RX=[ADV]|TokenType=Root
-13	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=65353|AlignEnd=65734|TokenType=Break
-14	ʔarjab	_	PROPN	NP	_	19	reparandum	_	AlignBegin=65734|AlignEnd=65930|GE=[Aryab]|ProperName=Aryab|RX=[N].[PROP]|TokenType=Root
-15	=wa	_	CCONJ	CCONJ	_	14	cc	_	AlignBegin=65930|AlignEnd=66126|GE==[COORD]|RX==[CONJ]|TokenType=Clit
-16	mariː	_	ADV	ADV	_	19	reparandum	_	AlignBegin=66126|AlignEnd=66322|GE=from_the_direction|Gloss=from_the_direction|RX=[ADV]|TokenType=Root
-17	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	16	det	_	AlignBegin=66322|AlignEnd=66518|GE==[INDF].[M].[ACC]|RX==[DET]|TokenType=Clit
-18	i=	_	DET	DET	Definite=Def|Gender=Masc	19	det	_	AlignBegin=66518|AlignEnd=66648|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
-19	dar	_	NOUN	N	Gender=Masc	0	root	_	AlignBegin=66648|AlignEnd=66779|GE=side|Gloss=side|RX=[N].[M]|TokenType=Root
-20	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	19	case	_	AlignBegin=66779|AlignEnd=66910|GE==[ABL].[SG]|RX==[POSTP]|TokenType=Clit
-21	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=66910|AlignEnd=68424|TokenType=Break
+# visual-style 0 11 root	color:blue
+1	ontʔa	_	ADV	PTCL	_	5	discourse	_	AlignBegin=85627|AlignEnd=85861|GE=now|RX=[PTCL]|TokenType=Root
+2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=85861|AlignEnd=86095|GE=[/]|TokenType=Break
+3	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	AlignBegin=86865|AlignEnd=87204|GE=[PROX].[SG].[M].[ACC]|RX=[DEM]|TokenType=Root
+4	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	det	_	AlignBegin=87204|AlignEnd=87374|GE=[DEF].[SG].[M].[ACC]|RX=[DET]|TokenType=Clit
+5	tak	_	NOUN	N	Gender=Masc	6	obj	_	AlignBegin=87374|AlignEnd=87543|GE=man|RX=[N].[M]|TokenType=Root
+6	sakanaaman	_	VERB	V2	Number=Sing|VerbClass=2	7	dep:comp	_	AlignBegin=87543|AlignEnd=87798|GE=ask_for_news[MID][PFV].[1SG]|MGloss=ask_for_news[MID][PFV].[1SG]|MSeg=sakana-am-an|RX=[V2][V2].[DER][TAM].[PNG]|TokenType=Root
+7	=hoːb	_	SCONJ	CONJ	_	11	dep	_	AlignBegin=87798|AlignEnd=87882|GE=when|RX=[CONJ]|TokenType=Clit
+8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=87882|AlignEnd=88221|GE=[/]|TokenType=Break
+9	naː	_	NOUN	N	Gender=Fem	11	obj	_	AlignBegin=88221|AlignEnd=88365|GE=thing|RX=[N].[F]|TokenType=Root
+10	=t	_	DET	DET	Gender=Fem	9	det	_	AlignBegin=88365|AlignEnd=88508|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+11	rhat	_	NOUN	V2	_	0	root	_	AlignBegin=88508|AlignEnd=88795|GE=see[VN]|MGloss=see[VN]|MSeg=rh-at|RX=[V2][N].[V]|TokenType=Root
+12	arib	_	AUX	AUX.CONTR	Aspect=Perf|Number=Sing|Polarity=Neg	11	aux	_	AlignBegin=88795|AlignEnd=88987|GE=[1SG]refuse\PFV|MGloss=[1SG]refuse\PFV|MSeg=a-rib|RX=[PNG][AUX].[NEG].[CONTR]|TokenType=Root
+13	=t	_	CCONJ	CONJ	_	11	cc	_	AlignBegin=88987|AlignEnd=89082|GE=[COORD]|RX=[CONJ]|TokenType=Clit
+14	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=89082|AlignEnd=89369|GE=[/]|TokenType=Break
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 4 root	color:blue
-1	ja	_	PART	PTCL	_	4	discourse	_	AlignBegin=83812|AlignEnd=84054|GE=[ADRF]|RX=[PTCL]|TokenType=Root
-2	iraːnaj	_	INTJ	_	_	4	discourse	_	AlignBegin=84054|AlignEnd=84296|GE=gosh|Gloss=gosh|RX=[EXCL]|TokenType=Root
-3	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	AlignBegin=84296|AlignEnd=84538|GE=[PROX].[PL].[M].[NOM]|RX=[DEM]|TokenType=Root
-4	hinin	_	PRON	PRO	Case=Nom|Number=Plur|Person=1	0	root	_	AlignBegin=84538|AlignEnd=84780|GE=[1PL].[NOM]|RX=[SBJ].[PRO]|TokenType=Root
-5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=84780|AlignEnd=85022|TokenType=Break
+# visual-style 0 9 root	color:blue
+1	jaː	_	PART	PTCL	_	2	vocative	_	AlignBegin=382634|AlignEnd=382898|GE=[ADRF]|RX=[PTCL]|TokenType=Root
+2	iraːnaj	_	INTJ	_	_	7	discourse	_	AlignBegin=382898|AlignEnd=383162|GE=gosh|RX=[EXCL]|TokenType=Root
+3	bak	_	PART	DEICT	_	4	advmod	_	AlignBegin=383162|AlignEnd=383426|GE=thus|RX=[DEICT].[MNR]|TokenType=Root
+4	tʔiit	_	NOUN	V1	_	5	dep:comp	_	AlignBegin=383426|AlignEnd=383558|GE=resemble[VN]|MGloss=resemble[VN]|MSeg=tʔi-it|RX=[V1].[IRG][N].[V]|TokenType=Root
+5	=eː	_	SCONJ	CONJ.REL	PronType=Rel	6	acl:relcl	_	AlignBegin=383558|AlignEnd=383624|GE=[REL]|RX=[CONJ]|TokenType=Clit
+6	=na	_	NOUN	CONJ	_	7	obj	_	AlignBegin=383624|AlignEnd=383690|GE=thing|RX=[N.F]|TokenType=Clit
+7	hadran	_	VERB	V2	Number=Sing|VerbClass=2	8	parataxis	_	AlignBegin=383690|AlignEnd=383954|GE=attend[PFV].[1SG]|MGloss=attend[PFV].[1SG]|MSeg=hadr-an|RX=[V2][TAM].[PNG]|TokenType=Root
+8	adi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	9	dep:comp	_	AlignBegin=383954|AlignEnd=384130|GE=[1SG]say\PFV|MGloss=[1SG]say\PFV|MSeg=a-di|RX=[PNG][V1].[IRG]|TokenType=Root
+9	=hoːb	_	SCONJ	CONJ	_	0	root	_	AlignBegin=384130|AlignEnd=384218|GE=when|RX=[CONJ]|TokenType=Clit
+10	/	_	PUNCT	_	_	9	punct	_	AlignBegin=384218|AlignEnd=384483|GE=[/]|TokenType=Break
 
 ~~~
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-PUD: POS Tags: `PART`
 
-There are 1 `PART` lemmas (6%), 23 `PART` types (0%) and 316 `PART` tokens (1%).
-Out of 16 observed tags, the rank of `PART` is: 9 in number of lemmas, 12 in number of types and 13 in number of tokens.
+There are 23 `PART` lemmas (0%), 23 `PART` types (0%) and 316 `PART` tokens (1%).
+Out of 16 observed tags, the rank of `PART` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PART` lemmas: _
+The 10 most frequent `PART` lemmas: नहीं, भी, ही, ईसा, पूर्व, भर, न, सुश्री, बगैर, श्रीमान
 
 The 10 most frequent `PART` types:  नहीं, भी, ही, ईसा, पूर्व, भर, न, सुश्री, बगैर, श्रीमान
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 5597, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4849, <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> 2297, <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> 2058, <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> 1995, <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> 1776, <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> 1358, <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 1128, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 876, <tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 545, <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> 452, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 382, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 316, <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> 159, <tt><a href="hi_pud-pos-SYM.html">SYM</a></tt> 30, <tt><a href="hi_pud-pos-X.html">X</a></tt> 11)
+The 10 most frequent ambiguous lemmas: पूर्व (<tt><a href="hi_pud-pos-PART.html">PART</a></tt> 12, <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 2), बगैर (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 3, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 3), तो (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), दो (<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> 39, <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 7, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2), बिना (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2), सी (<tt><a href="hi_pud-pos-PART.html">PART</a></tt> 1, <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  पूर्व (<tt><a href="hi_pud-pos-PART.html">PART</a></tt> 12, <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 2), बगैर (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 3, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 3), तो (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), दोनों (<tt><a href="hi_pud-pos-DET.html">DET</a></tt> 7, <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> 4, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2), बिना (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2), सी (<tt><a href="hi_pud-pos-PART.html">PART</a></tt> 1, <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -43,9 +43,13 @@ The 10 most frequent ambiguous types:  पूर्व (<tt><a href="hi_pud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 23.000000 (the average of all parts of speech is 345.375000).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.166595).
 
-The 1st highest number of forms (23) was observed with the lemma “_”: ईसा, डिडन्ट, डॉ, डोंट, तो, दोनों, न, नहीं, पूर्व, बगैर, बिना, भर, भी, मिस, श्री, श्रीमति, श्रीमती, श्रीमान, सर, सा, सी, सुश्री, ही.
+The 1st highest number of forms (1) was observed with the lemma “ईसा”: ईसा.
+
+The 2nd highest number of forms (1) was observed with the lemma “डिडन्ट”: डिडन्ट.
+
+The 3rd highest number of forms (1) was observed with the lemma “डॉ”: डॉ.
 
 `PART` occurs with 1 features: <tt><a href="hi_pud-feat-Polarity.html">Polarity</a></tt> (135; 43% instances)
 
@@ -60,7 +64,7 @@ Examples: भी, ही, ईसा, पूर्व, भर, सुश्री
 
 `PART` nodes are attached to their parents using 6 different relations: <tt><a href="hi_pud-dep-discourse.html">discourse</a></tt> (159; 50% instances), <tt><a href="hi_pud-dep-advmod.html">advmod</a></tt> (135; 43% instances), <tt><a href="hi_pud-dep-compound.html">compound</a></tt> (12; 4% instances), <tt><a href="hi_pud-dep-fixed.html">fixed</a></tt> (8; 3% instances), <tt><a href="hi_pud-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="hi_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (118; 37% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (79; 25% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (28; 9% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (26; 8% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (19; 6% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt> (13; 4% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (130; 41% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (79; 25% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (26; 8% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (19; 6% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (16; 5% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (16; 5% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt> (13; 4% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
 
 299 (95%) `PART` nodes are leaves.
 

@@ -69,13 +69,13 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 parataxis	color:blue
-1	2.	2.	X	LS	_	5	dep	5:dep	Discourse=joint-list_m:70->69:0:_
-2	Resolving	resolve	VERB	VBG	VerbForm=Ger	5	amod	5:amod	_
+1	2.	2.	X	LS	_	5	discourse	5:discourse	Discourse=joint-list_m:70->69:0:_
+2	Resolving	resolve	VERB	VBG	VerbForm=Ger	5	amod	5:amod	MSeg=Resolv-ing
 3	left	left	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(5-object-giv:inact-cf2-3-coref
 4	gluteal	gluteal	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	abscess	abscess	NOUN	NN	Number=Sing	0	root	0:root	Entity=5)|SpaceAfter=No
 6	,	,	PUNCT	,	_	7	punct	7:punct	_
-7	completing	complete	VERB	VBG	VerbForm=Ger	5	parataxis	5:parataxis	Discourse=mode-means:71->70:0:_|MSeg=complet-ing
+7	completing	complete	VERB	VBG	Tense=Pres|VerbForm=Part	5	parataxis	5:parataxis	Discourse=mode-means:71->70:0:_|MSeg=complet-ing
 8	Flagyl	Flagyl	PROPN	NNP	Number=Sing	7	obj	7:obj	Entity=(6-substance-giv:inact-cf1-1-coref-Metronidazole)|SpaceAfter=No
 9	.	.	PUNCT	.	_	5	punct	5:punct	_
 

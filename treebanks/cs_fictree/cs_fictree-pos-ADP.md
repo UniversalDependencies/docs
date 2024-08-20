@@ -78,15 +78,15 @@ Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="cs_f
 
 12290 (100%) `ADP` nodes are leaves.
 
-20 (0%) `ADP` nodes have one child.
+21 (0%) `ADP` nodes have one child.
 
-5 (0%) `ADP` nodes have two children.
+4 (0%) `ADP` nodes have two children.
 
 2 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 7 different relations: <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (24; 65% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (3; 8% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (3; 8% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt> (2; 5% instances), <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (2; 5% instances), <tt><a href="cs_fictree-dep-obl.html">obl</a></tt> (1; 3% instances)
+Children of `ADP` nodes are attached using 7 different relations: <tt><a href="cs_fictree-dep-fixed.html">fixed</a></tt> (24; 65% instances), <tt><a href="cs_fictree-dep-cc.html">cc</a></tt> (3; 8% instances), <tt><a href="cs_fictree-dep-conj.html">conj</a></tt> (3; 8% instances), <tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt> (2; 5% instances), <tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt> (2; 5% instances), <tt><a href="cs_fictree-dep-punct.html">punct</a></tt> (2; 5% instances), <tt><a href="cs_fictree-dep-obl.html">obl</a></tt> (1; 3% instances)
 
-Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (22; 59% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (8; 22% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (2; 5% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (21; 57% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (8; 22% instances), <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="cs_fictree-pos-PUNCT.html">PUNCT</a></tt> (2; 5% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

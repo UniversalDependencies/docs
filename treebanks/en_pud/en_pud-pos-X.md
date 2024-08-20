@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>de, 's, _, andes, andino, coup, force, grâ
 
 The 10 most frequent `X` types:  <em>de, Andes, Force, Mare, Nostrum, Ouvrière, Traum, Zettel, andino, coup</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>'s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 96, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>force</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>'s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 104, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>force</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="en_pud-pos-X.html">X</a></tt> 2), <em>Andes</em> (<tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>show</em> (<tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1)
 
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="en_pud-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.140354).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.147869).
 
 The 1st highest number of forms (1) was observed with the lemma “'s”: <em>’s</em>.
 

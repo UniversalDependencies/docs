@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-1059 nodes (3%) are attached to their parents as `amod`.
+2101 nodes (3%) are attached to their parents as `amod`.
 
-639 instances of `amod` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16525023607177.
+1305 instances of `amod` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19276534983341.
 
-The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (971; 92% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (38; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (23; 2% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1916; 91% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (73; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (61; 3% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NUM.html">NUM</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PART.html">PART</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 amod	color:blue
+1	Andiam	andare	VERB	vi1cpp1	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Canto=4|SpaceAfter=No|Verso=22
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	ché	ché	SCONJ	cssc	_	8	mark	_	Canto=4|Verso=22
+4	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Canto=4|Verso=22
+5	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	8	nsubj	_	Canto=4|Verso=22
+6	lunga	lungo	ADJ	a1fs	Gender=Fem|Number=Sing	5	amod	_	Canto=4|Verso=22
+7	ne	ne	PRON	pp1pyda	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	obj	_	Canto=4|Verso=22
+8	sospigne	sospingere	VERB	vta2ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	Canto=4|SpaceAfter=No|Verso=22
+9	»	»	PUNCT	_	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -22,44 +42,15 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
-1	Oh	oh	INTJ	i	_	5	discourse	_	Canto=23|Verso=67
-2	in	in	ADP	_	_	3	case	_	Canto=23|Verso=67
-3	etterno	etterno	NOUN	_	Gender=Masc|Number=Sing	5	obl:tmod	_	Canto=23|Verso=67
-4	faticoso	faticoso	ADJ	a1ms	Gender=Masc|Number=Sing	5	amod	_	Canto=23|Verso=67
-5	manto	manto	NOUN	sm2ms	Gender=Masc|Number=Sing	0	root	_	Canto=23|SpaceAfter=No|Verso=67
-6	!	!	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	Quivi	quivi	ADV	b	_	7	advmod:lmod	_	Canto=13|Verso=10
-2	le	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	Canto=13|Verso=10
-3	brutte	brutto	ADJ	a1fp	Gender=Fem|Number=Plur	4	amod	_	Canto=13|Verso=10
-4	Arpie	Arpia	PROPN	np	_	7	nsubj	_	Canto=13|Verso=10
-5	lor	loro	DET	as	Poss=Yes|PronType=Prs	6	det:poss	_	Canto=13|Verso=10
-6	nidi	nido	NOUN	sm2mp	Gender=Masc|Number=Plur	7	obj	_	Canto=13|Verso=10
-7	fanno	fare	VERB	vta1ipp3	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=13|SpaceAfter=No|Verso=10
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	che	che	PRON	pr	PronType=Rel	10	nsubj	_	Canto=13|Verso=11
-10	cacciar	cacciare	VERB	vta1irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	Canto=13|Verso=11
-11	de	di	ADP	eps	_	13	case	_	Canto=13|Verso=11
-12	le	il	DET	rdfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	Canto=13|Verso=11
-13	Strofade	Strofadi	PROPN	np	_	10	obl:lmod	_	Canto=13|Verso=11
-14	i	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	Canto=13|Verso=11
-15	Troiani	troiano	NOUN	sm2mp	Gender=Masc|Number=Plur	10	obj	_	Canto=13|Verso=11
-16	con	con	ADP	epskw	_	18	case	_	Canto=13|Verso=12
-17	tristo	tristo	ADJ	a1ms	Gender=Masc|Number=Sing	18	amod	_	Canto=13|Verso=12
-18	annunzio	annunzio	NOUN	sm2ms	Gender=Masc|Number=Sing	10	obl	_	Canto=13|Verso=12
-19	di	di	ADP	epskx	_	21	case	_	Canto=13|Verso=12
-20	futuro	futuro	ADJ	a1ms	Gender=Masc|Number=Sing	21	amod	_	Canto=13|Verso=12
-21	danno	danno	NOUN	sm2ms	Gender=Masc|Number=Sing	18	nmod	_	Canto=13|SpaceAfter=No|Verso=12
-22	.	.	PUNCT	_	_	7	punct	_	_
+1	Ov'	ove	ADV	b	_	0	root	_	Canto=14|Verso=97
+2	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	Canto=14|Verso=97
+3	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Canto=14|Verso=97
+4	buon	buono	ADJ	a1ms	Gender=Masc|Number=Sing	5	amod	_	Canto=14|Verso=97
+5	Lizio	Lizio	PROPN	np	_	1	nsubj	_	Canto=14|Verso=97
+6	e	e	CCONJ	cscr	_	7	cc	_	Canto=14|Verso=97
+7	Arrigo	Arrigo	PROPN	np	_	5	conj	_	Canto=14|SpaceAfter=No|Verso=97
+8	Mainardi	Mainardi	PROPN	np	_	7	flat:name	_	Canto=14|SpaceAfter=No|Verso=97
+9	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

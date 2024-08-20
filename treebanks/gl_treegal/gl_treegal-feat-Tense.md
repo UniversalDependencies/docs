@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-1961 tokens (8%) have a non-empty value of `Tense`.
-1020 types (19%) occur at least once with a non-empty value of `Tense`.
-465 lemmas (12%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1432; 6% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (529; 2% instances).
+1965 tokens (8%) have a non-empty value of `Tense`.
+1022 types (19%) occur at least once with a non-empty value of `Tense`.
+467 lemmas (12%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1436; 6% instances), <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (529; 2% instances).
 
 ### `VERB`
 
-1432 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
+1436 <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1432; 100%), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (1303; 91%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1295; 90%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1024; 72%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="gl_treegal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1436; 100%), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt> (1306; 91%), <tt><a href="gl_treegal-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1299; 90%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1026; 71%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Imp` (106; 7% of non-empty `Tense`): <em>había, tiña, sabía, facía, quería, daba, defendiamos, dicía, escribía, falaba</em>
 * `Past` (307; 21% of non-empty `Tense`): <em>fixo, deu, dixo, houbo, publicou, tivo, chegaron, conseguiu, fixemos, comezou</em>
 * `Pqp` (11; 1% of non-empty `Tense`): <em>quixera, cometeran, comunicara, escribiran, houbera, reflectira, rematara, valera, vira</em>
-* `Pres` (947; 66% of non-empty `Tense`): <em>hai, ten, teñen, fai, quere, considera, di, vén, dá, fan</em>
+* `Pres` (951; 66% of non-empty `Tense`): <em>hai, ten, teñen, fai, quere, considera, di, vén, dá, fan</em>
 * `EMPTY` (943): <em>facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</em>
 
 <table>

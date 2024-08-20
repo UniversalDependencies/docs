@@ -11,7 +11,7 @@ It occurs with 2 different values: `Form`, `Infm`.
 
 6201 tokens (2%) have a non-empty value of `Polite`.
 409 types (2%) occur at least once with a non-empty value of `Polite`.
-171 lemmas (1%) occur at least once with a non-empty value of `Polite`.
+172 lemmas (1%) occur at least once with a non-empty value of `Polite`.
 The feature is used with 8 part-of-speech tags: <tt><a href="hi_hdtb-pos-PRON.html">PRON</a></tt> (2881; 1% instances), <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (1666; 0% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (1362; 0% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (248; 0% instances), <tt><a href="hi_hdtb-pos-ADJ.html">ADJ</a></tt> (38; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PRON`
@@ -38,7 +38,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 * `EMPTY` (34293): कहा, किया, कर, करने, की, दिया, हो, है, बताया, दी
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>करते</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td>करते</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="hi_hdtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>करते</td></tr>

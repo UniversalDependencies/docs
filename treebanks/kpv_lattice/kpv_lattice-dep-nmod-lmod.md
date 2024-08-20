@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `nmod:lmod`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>.
-There are also 4 other language-specific subtypes of `nmod`: <tt><a href="kpv_lattice-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="kpv_lattice-dep-nmod-obj.html">nmod:obj</a></tt>, <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_lattice-dep-nmod-subj.html">nmod:subj</a></tt>.
+There are also 3 other language-specific subtypes of `nmod`: <tt><a href="kpv_lattice-dep-nmod-obj.html">nmod:obj</a></tt>, <tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_lattice-dep-nmod-subj.html">nmod:subj</a></tt>.
 
 30 nodes (0%) are attached to their parents as `nmod:lmod`.
 
@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 6 5 nmod:lmod	color:blue
 1	Медбӧрын	медбӧрын	ADV	Adv	Case=Ine|Degree=Sup	2	advmod:tmod	_	_
 2	кыр	кыр	NOUN	N	Case=Nom|Number=Sing	4	obl	_	_
-3	йылын	йылын	ADP	Po	Case=Ine|Number=Sing	2	case	_	_
+3	йылын	йылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	2	case	_	_
 4	тыдовтчисны	тыдовтчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	_
 5	сиктса	сикт	NOUN	N	Case=Loc|Number=Sing	6	nmod:lmod	_	_
 6	керкаяс	керка	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	SpaceAfter=No

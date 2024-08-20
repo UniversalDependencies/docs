@@ -9,58 +9,58 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-552 tokens (0%) have a non-empty value of `Abbr`.
-178 types (1%) occur at least once with a non-empty value of `Abbr`.
-179 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 8 part-of-speech tags: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (433; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (46; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+609 tokens (0%) have a non-empty value of `Abbr`.
+188 types (1%) occur at least once with a non-empty value of `Abbr`.
+189 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 9 part-of-speech tags: <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (466; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (62; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (40; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (15; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-433 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+466 <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (427; 99%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (460; 99%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (433; 100% of non-empty `Abbr`): <em>US, U.S., NASA, NATO, Mr., USI, DH, St., DAB, UNESCO</em>
-* `EMPTY` (10791): <em>States, President, University, York, New, America, figure, north, Scientology, south</em>
+* `Yes` (466; 100% of non-empty `Abbr`): <em>U.S., US, NASA, Mr., NATO, USI, DH, CC, St., Dr.</em>
+* `EMPTY` (11723): <em>States, University, President, York, New, America, Warhol, north, figure, south</em>
 
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (157) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (160) occur only with one value of `Abbr`.
 
 ### `NOUN`
 
-46 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+62 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 72%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 73%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (46; 100% of non-empty `Abbr`): <em>a.m., etc., GIS, DNA, p., p.m., No., Ph.D., DAB, Ed.</em>
-* `EMPTY` (31525): <em>people, time, day, years, way, city, world, year, today, life</em>
+* `Yes` (62; 100% of non-empty `Abbr`): <em>etc., TV, a.m., GIS, DNA, p., p.m., No., Ph.D., DAB</em>
+* `EMPTY` (35450): <em>people, time, day, way, years, life, world, year, city, today</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (15) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Abbr`.
 
 ### `ADV`
 
-38 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
+40 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (38; 100%), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (37; 97%).
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (38; 95%).
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (38; 100% of non-empty `Abbr`): <em>e.g., i.e., c., ca., approx.</em>
-* `EMPTY` (8798): <em>so, just, when, then, also, how, now, more, here, really</em>
+* `Yes` (40; 100% of non-empty `Abbr`): <em>e.g., i.e., c., ca., PS, approx.</em>
+* `EMPTY` (10070): <em>so, when, just, then, also, how, now, more, here, really</em>
 
 ### `X`
 
-14 <tt><a href="en_gum-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Abbr`.
+15 <tt><a href="en_gum-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (14; 100%).
+The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (15; 100%).
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (14; 100% of non-empty `Abbr`): <em>al., Mlle.</em>
-* `EMPTY` (332): <em>et, de, 1, 1., 2., in, situ, 2, 3, 4</em>
+* `Yes` (15; 100% of non-empty `Abbr`): <em>al., Mlle., P.S.</em>
+* `EMPTY` (347): <em>et, de, 1, 1., 2., in, situ, 2, 3, 4</em>
 
 ### `VERB`
 
@@ -71,36 +71,47 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>b., d., div., m.</em>
-* `EMPTY` (19565): <em>have, know, get, do, make, said, see, think, go, had</em>
+* `EMPTY` (22269): <em>have, know, do, get, make, think, see, said, go, had</em>
 
 ### `ADJ`
 
-6 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+8 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (6; 100% of non-empty `Abbr`): <em>US, OK, Jr.</em>
-* `EMPTY` (12464): <em>other, first, many, new, good, little, different, more, last, same</em>
+* `Yes` (8; 100% of non-empty `Abbr`): <em>OK, US, Jr.</em>
+* `EMPTY` (13943): <em>other, first, new, many, good, little, more, different, such, same</em>
 
 ### `INTJ`
 
-4 <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Abbr`.
+5 <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Abbr`.
 
 `INTJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (4; 100% of non-empty `Abbr`): <em>OK</em>
-* `EMPTY` (1695): <em>like, yeah, oh, so, well, uh, um, no, okay, yes</em>
+* `Yes` (5; 100% of non-empty `Abbr`): <em>OK</em>
+* `EMPTY` (2012): <em>like, yeah, oh, well, so, um, uh, no, okay, yes</em>
 
 ### `ADP`
 
-2 <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
+3 <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
 
 `ADP` tokens may have the following values of `Abbr`:
 
-* `Yes` (2; 100% of non-empty `Abbr`): <em>vs.</em>
-* `EMPTY` (17991): <em>of, in, to, for, on, with, at, from, by, as</em>
+* `Yes` (3; 100% of non-empty `Abbr`): <em>vs., vs</em>
+* `EMPTY` (20166): <em>of, in, to, for, on, with, at, from, by, as</em>
+
+### `PRON`
+
+1 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1; 100%).
+
+`PRON` tokens may have the following values of `Abbr`:
+
+* `Yes` (1; 100% of non-empty `Abbr`): <em>WHO</em>
+* `EMPTY` (17817): <em>i, it, you, that, we, he, they, his, your, my</em>
 
 ## Relations with Agreement in `Abbr`
 

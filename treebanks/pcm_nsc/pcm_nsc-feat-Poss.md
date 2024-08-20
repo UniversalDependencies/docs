@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1967 tokens (1%) have a non-empty value of `Poss`.
+1968 tokens (1%) have a non-empty value of `Poss`.
 16 types (0%) occur at least once with a non-empty value of `Poss`.
 10 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1931; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (36; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1931; 1% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (37; 0% instances).
 
 ### `PRON`
 
@@ -27,14 +27,14 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 
 ### `ADJ`
 
-36 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
+37 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (36; 100%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (37; 100%).
 
 `ADJ` tokens may have the following values of `Poss`:
 
-* `Yes` (36; 100% of non-empty `Poss`): <em>your, its</em>
-* `EMPTY` (3503): <em>small, own, good, kind, different, better, many, first, plenty, big</em>
+* `Yes` (37; 100% of non-empty `Poss`): <em>your, deir, its</em>
+* `EMPTY` (3509): <em>small, own, good, kind, different, better, many, first, big, plenty</em>
 
 ## Relations with Agreement in `Poss`
 

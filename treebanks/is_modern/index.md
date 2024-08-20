@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Kristján Rúnarsson, Þórunn Arnardóttir, Hinrik Hafsteinsson, Starkaður Barkarson, Hildur Jónsdóttir, Steinþór Steingrímsson, Einar Freyr Sigurðsson.
 
 Repository: [UD_Icelandic-Modern](https://github.com/UniversalDependencies/UD_Icelandic-Modern)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Icelandic-Modern is a conversion of the [modern additions](https://github.com/antonkarl/icecorpus/tree/master/finished/additions2019) to the Icelandic Parsed Historical Corpus (IcePaHC) to the Universal Dependencies scheme.
+UD_Icelandic-Modern is a conversion of the [modern additions](https://github.com/antonkarl/icecorpus/tree/master/additions2019) to the Icelandic Parsed Historical Corpus (IcePaHC) to the Universal Dependencies scheme.
 
 
 
@@ -53,7 +53,7 @@ The conversion was done using [UDConverter](https://github.com/thorunna/UDConver
 
 Note that the treebank data in versions 2.8-2.10 is flawed in that various sentences are duplicated, resulting in an overlap between train / dev / test. This issue has been fixed as of version 2.11.
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a corpus which includes 21st-century texts NOT found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62). These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme as used for IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The corpus consists of 80,395 tokens in total. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news texts from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016 and – as of version 2.11 – from 2017. These 21st-century additions are not found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62) (which, however, contains two narrative texts from the 21st century).
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) is a corpus which includes 21st-century texts NOT found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62). These texts were manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme as used for IcePaHC. These parsed texts were then automatically converted to the Universal Dependencies scheme to create UD_Icelandic-Modern. The corpus consists of 80 thousand tokens in total. The texts are unprepared parliament speeches by four Icelandic members of parliament in the period 2011–2015 and sports news texts from two reporters at the Icelandic National Broadcasting Service (RÚV) from 2016 and – as of version 2.11 – from 2017. These 21st-century additions are not found in [IcePaHC](https://repository.clarin.is/repository/xmlui/handle/20.500.12537/62) (which, however, contains two narrative texts from the 21st century).
 
 Each sentence ID (`sent_id`) in UD_Icelandic-Modern carries the following information:
 
@@ -65,7 +65,7 @@ Each sentence ID (`sent_id`) in UD_Icelandic-Modern carries the following inform
 - Name of original file (`G-33-4647803`)
 - Sentence index within file (`.1`)
 
-Along with sentence IDs within the UD corpus, each sentence contains an `X_ID` flag, indicating the original sentence(s) in IcePaHC. This is useful as some sentences in the UD scheme have more than one original sentence in IcePaHC. As sentence IDs are currently not represented in the modern-text IcePaHC, this flag is left blank, as `ID_MISSING` for each original sentence.
+Along with sentence IDs within the UD corpus, each sentence contains an `X_ID` flag, indicating the original sentence(s) in IcePaHC. This is useful as some sentences in the UD scheme have more than one original sentence in IcePaHC. As sentence IDs are currently not represented in the original parsed corpus found [here](https://github.com/antonkarl/icecorpus/tree/master/additions2019), this flag is left blank, as `ID_MISSING` for each original sentence.
 
 
 ## Manually corrected portion
@@ -128,7 +128,7 @@ A subset of the UD corpus has been manually corrected after the automatic conver
 
 This project was funded by The Strategic Research and Development Programme for Language Technology, grant no. 180020-5301.
 
-The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) are available [here](https://github.com/antonkarl/icecorpus/tree/master/finished/additions2019).
+The modern additions to the Icelandic Parsed Historical Corpus (IcePaHC) are available [here](https://github.com/antonkarl/icecorpus/tree/master/additions2019).
 
 Morphological features were generated using ABLTagger, a PoS tagger for Icelandic, developed by Steinþór Steingrímsson, Örvar Kárason and Hrafn Loftsson and available [here](https://github.com/steinst/ABLTagger).
 
@@ -152,7 +152,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
 
 
 <ul>
-<li>This corpus contains 3535 sentences, 80392 tokens and 80395 syntactic words.</li>
+<li>This corpus contains 3535 sentences, 80391 tokens and 80394 syntactic words.</li>
 </ul>
 
 <ul>
@@ -164,7 +164,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
 </ul>
 
 <ul>
-<li>This corpus contains 126 types of words that contain both letters and punctuation. Examples: hv., hæstv., þm., <percent/>, gr., H., kr., o., s., þús., frv., a., k., m., allsherjar-, kl., umr., efnahags-, umhverfis-, EES-samningnum, St., mín., nr., J., KR-ingar, R., sek., EES-samninginn, KR-inga, Pepsi-deildinni, b., fl., áfengis-, A-landsliðinu, Inkasso-deildarinnar, Paralympic-met, Saint-Germain, Twitter-síðu, bls., gogn.island.is, míní-samningaleið, sjávarútvegs-, u., þ., 110<percent/>-leiðina, 110<percent/>leiðina, 1<closeparen/>, 2<closeparen/>, 3<closeparen/>, 99xCOM_dashx66</li>
+<li>This corpus contains 125 types of words that contain both letters and punctuation. Examples: hv., hæstv., þm., <percent/>, gr., H., kr., o., s., þús., frv., a., k., m., allsherjar-, kl., umr., efnahags-, umhverfis-, EES-samningnum, St., mín., nr., EES-samninginn, J., KR-ingar, R., sek., KR-inga, Pepsi-deildinni, b., fl., áfengis-, A-landsliðinu, Inkasso-deildarinnar, Paralympic-met, Saint-Germain, Twitter-síðu, bls., gogn.island.is, míní-samningaleið, sjávarútvegs-, u., þ., 110<percent/>-leiðina, 110<percent/>leiðina, 1<closeparen/>, 2<closeparen/>, 3<closeparen/>, 99xCOM_dashx66</li>
 </ul>
 
 <ul>
@@ -216,7 +216,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
     <li>ADV: lýtur</li>
     <li>AUX: er, var, eru, sé, hefur, væri, hafi, hafa, hefði, erum</li>
     <li>NOUN: Innheimtu, bönnum, leiðir</li>
-    <li>VERB: hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, eigum</li>
+    <li>VERB: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, eigum</li>
   </ul>
   </li>
 </ul>
@@ -227,7 +227,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
     <li>ADV: segja</li>
     <li>AUX: vera, hafa, geta, verða, vilja, mundu</li>
     <li>NOUN: þjónusta</li>
-    <li>VERB: gera, fara, taka, koma, segja, vinna, sjá, fá, spyrja, ræða</li>
+    <li>VERB: gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</li>
   </ul>
   </li>
 </ul>
@@ -356,8 +356,8 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>NUM: einn, eitt, einu, tvennt, þrettán</li>
       <li>PRON: það, ég, því, þess, hann, mér, hún, hvað, sér, mig</li>
       <li>PROPN: Íslands, Hrafnhildur, Ríó, Ísland, Alþingi, Íslandi, Blöndal, Bryndís, Frakklandi, Þór</li>
-      <li>VERB: hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, kom</li>
-      <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, kom</li>
+      <li>VERB: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, kom</li>
+      <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, kom</li>
       <li>VERB-Part: gert, farið, keppt, sagt, tekið, haldið, kominn, komið, miðað, lagt</li>
       <li>X: final-four, nýafstöðu, skyttunar</li>
     </ul>
@@ -377,7 +377,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>NOUN: dag, mál, ár, málið, árið, tíma, leið, kvöld, morgun, ráð</li>
       <li>NUM: tvö, þús., fjögur, þrjú, fimm, fjóra, tvær, tvo, tíu, þrjá</li>
       <li>PRON: það, mig, sig, hvað, hana, okkur, annað, þau, þær, hann</li>
-      <li>PROPN: Chusovitina, Ólympíuleikana, Evrópusambandið, Hrafnhildi, Evrópumótið, Ólympíuleika, Alþingi, EES-samninginn, Sjálfstæðisflokkinn, Íbúðalánasjóð</li>
+      <li>PROPN: Chusovitina, Ólympíuleikana, Evrópusambandið, Hrafnhildi, EES-samninginn, Evrópumótið, Ólympíuleika, Alþingi, Sjálfstæðisflokkinn, Íbúðalánasjóð</li>
       <li>VERB: afgreidda, dekkaðan, heita, kallaða, lánað, lánaða, staðfesta, upplýst, viðurkennt</li>
       <li>VERB-Part: afgreidda, dekkaðan, kallaða, lánað, lánaða, staðfesta, upplýst, viðurkennt</li>
     </ul>
@@ -544,7 +544,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>AUX-Fin: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
       <li>NOUN-Fin: bönnum, leiðir</li>
       <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, sagði, segir</li>
-      <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, verður, þakka, sagði, kom</li>
+      <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, kom</li>
     </ul>
   </li>
 </ul>
@@ -589,7 +589,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>AUX-Fin: er, eru, sé, hefur, hafi, hafa, erum, vil, hef, má</li>
       <li>NOUN-Fin: Innheimtu, bönnum, leiðir</li>
       <li>VERB: hringir, held, kemur, á, finnst, þakka, þarf, verður, eigum, verði</li>
-      <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, verður, þakka, eigum, verði</li>
+      <li>VERB-Fin: hringir, held, kemur, á, finnst, þarf, þakka, verður, eigum, verði</li>
       <li>VERB-Part: fljótandi, bindandi, farandi, fræðandi, komandi, ríkjandi, varðandi, vaxandi</li>
     </ul>
   </li>
@@ -605,6 +605,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>ADJ-Part: rökstutt</li>
       <li>ADP-Fin: á</li>
       <li>ADV-Fin: lýtur</li>
+      <li>ADV-Inf: segja</li>
       <li>AUX-Fin: er, var, eru, sé, hefur, væri, hafi, hafa, hefði, erum</li>
       <li>AUX-Inf: vera, hafa, geta, verða, vilja, mundu</li>
       <li>AUX-Part: verið, haft</li>
@@ -612,7 +613,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>NOUN-Fin: Innheimtu, bönnum, leiðir</li>
       <li>NOUN-Inf: þjónusta</li>
       <li>NOUN-Part: liðið, orðið</li>
-      <li>VERB-Fin: hringir, held, kemur, á, þarf, verður, þakka, sagði, eigum, verði</li>
+      <li>VERB-Fin: hringir, held, kemur, á, þarf, þakka, verður, sagði, eigum, verði</li>
       <li>VERB-Inf: gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</li>
       <li>VERB-Part: varðandi, gert, farið, keppt, sagt, komin, sett, tekið, haldið, kominn</li>
       <li>VERB-Sup: sagt, tekið, komið, gert, farið, orðið, séð, átt, reynt, spilað</li>
@@ -644,7 +645,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
     <ul>
       <li>ADJ: sama</li>
       <li>ADV: þá</li>
-      <li>DET: þetta, þessu, það, þeim, þessum, þessi, þessa, þá, því, þessari</li>
+      <li>DET: þetta, þessu, það, þeim, þessum, þessi, þá, þessa, því, þessari</li>
       <li>PRON: það, sjálfu, sama, slíkt, því, sjálf, sjálfur, slíku, sömu, þess</li>
     </ul>
   </li>
@@ -744,7 +745,7 @@ Morphological features were generated using ABLTagger, a PoS tagger for Icelandi
       <li>ADV-Fin: lýtur</li>
       <li>AUX-Fin: er, var, eru, sé, hefur, væri, hafa, hafi, voru, hefði</li>
       <li>NOUN-Fin: leiðir</li>
-      <li>VERB-Fin: hringir, kemur, á, finnst, þarf, verður, sagði, segir, verði, kom</li>
+      <li>VERB-Fin: hringir, kemur, á, finnst, þarf, verður, sagði, verði, segir, kom</li>
     </ul>
   </li>
 </ul>
@@ -787,19 +788,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (21)</li>
-      <li>VERB--PRON-Acc (2)</li>
-      <li>VERB--PRON-Nom (32)</li>
+      <li>VERB--NOUN-Nom (18)</li>
+      <li>VERB--PRON-Acc (1)</li>
+      <li>VERB--PRON-Nom (22)</li>
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Acc (22)</li>
       <li>VERB-Fin--NOUN-Dat (42)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (960)</li>
+      <li>VERB-Fin--NOUN-Nom (963)</li>
       <li>VERB-Fin--PRON (47)</li>
-      <li>VERB-Fin--PRON-Acc (73)</li>
+      <li>VERB-Fin--PRON-Acc (74)</li>
       <li>VERB-Fin--PRON-Dat (155)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Fin--PRON-Nom (1821)</li>
+      <li>VERB-Fin--PRON-Nom (1831)</li>
       <li>VERB-Inf--NOUN-Acc (22)</li>
       <li>VERB-Inf--NOUN-Dat (3)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
@@ -831,20 +832,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (13)</li>
+      <li>VERB--NOUN-Acc (7)</li>
       <li>VERB--NOUN-Dat (1)</li>
       <li>VERB--NOUN-Nom (3)</li>
-      <li>VERB--PRON-Acc (3)</li>
+      <li>VERB--PRON-Acc (2)</li>
       <li>VERB--PRON-Dat (3)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Acc (614)</li>
+      <li>VERB-Fin--NOUN-Acc (620)</li>
       <li>VERB-Fin--NOUN-Dat (132)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(á) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(í) (1)</li>
       <li>VERB-Fin--NOUN-Gen (14)</li>
       <li>VERB-Fin--NOUN-Nom (61)</li>
       <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (170)</li>
+      <li>VERB-Fin--PRON-Acc (171)</li>
       <li>VERB-Fin--PRON-Dat (73)</li>
       <li>VERB-Fin--PRON-Gen (7)</li>
       <li>VERB-Fin--PRON-Nom (84)</li>

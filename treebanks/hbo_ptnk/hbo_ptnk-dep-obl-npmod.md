@@ -22,18 +22,18 @@ The following 1 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 obl:npmod	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_3.4
-2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_3.4
-3	הַ	ה	DET	art	PronType=Art	4	det	_	Ref=GEN_3.4
-4	נָּחָ֖שׁ	נחשׁ	NOUN	subs	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_3.4
-5	אֶל	אל	ADP	prep	_	8	case	_	Ref=GEN_3.4|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_3.4
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_3.4
+3	הַ	ה	DET	art	PronType=Art	4	det	_	Gloss=the|Ref=GEN_3.4
+4	נָּחָ֖שׁ	נחשׁ	NOUN	subs	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=serpent|Ref=GEN_3.4
+5	אֶל	אל	ADP	prep	_	8	case	_	Gloss=to|Ref=GEN_3.4|SpaceAfter=No
 6	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_3.4|SpaceAfter=No
-7	הָֽ	ה	DET	art	PronType=Art	8	det	_	Ref=GEN_3.4
-8	אִשָּׁ֑ה	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	2	obl	_	Ref=GEN_3.4
-9	לֹֽא	לא	ADV	nega	Polarity=Neg	12	advmod	_	Ref=GEN_3.4|SpaceAfter=No
+7	הָֽ	ה	DET	art	PronType=Art	8	det	_	Gloss=the|Ref=GEN_3.4
+8	אִשָּׁ֑ה	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	2	obl	_	Gloss=woman|Ref=GEN_3.4
+9	לֹֽא	לא	ADV	nega	Polarity=Neg	12	advmod	_	Gloss=not|Ref=GEN_3.4|SpaceAfter=No
 10	־	־	PUNCT	punct	_	9	punct	_	Ref=GEN_3.4|SpaceAfter=No
-11	מֹ֖ות	מות	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	12	obl:npmod	_	Ref=GEN_3.4
-12	תְּמֻתֽוּן	מות	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Ref=GEN_3.4|SpaceAfter=No
+11	מֹ֖ות	מות	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	12	obl:npmod	_	Gloss=die|Ref=GEN_3.4
+12	תְּמֻתֽוּן	מות	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=die|Ref=GEN_3.4|SpaceAfter=No
 13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_3.4
 
 ~~~

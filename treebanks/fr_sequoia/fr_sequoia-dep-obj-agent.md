@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 7	dire	dire	VERB	_	VerbForm=Inf	4	dislocated	_	Subject=Generic
 8	que	que	SCONJ	_	_	25	mark	_	_
 9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
-10	Union	Union	PROPN	_	Number=Sing	25	nsubj	_	_
+10	Union	union	NOUN	_	Gender=Fem|Number=Sing	25	nsubj	_	_
 11	européenne	européen	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	telle	tel	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_

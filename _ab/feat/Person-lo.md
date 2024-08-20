@@ -36,3 +36,4 @@ This feature marks person agreement of the verb with the indirect object or of p
 #### Examples
 
 * [ab] _(и-)еи-ды-р-кыло.з_ [DO.3-IO.Rec-Pv-Subj.3Pl-compare.Imp.NonFin] ‘which they compared to one another’ `Dyn=Yes|Number[subj]=Plur|Person[lo]=Rec|Person[obj]=Rel|Person[subj]=3|Tense=Imp|Trans=Yes|VerbForm=NonFin`
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:13 CEST -->

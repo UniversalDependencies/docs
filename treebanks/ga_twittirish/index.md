@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Lauren Cassidy, Teresa Lynn, Jennifer Foster, Sarah McGuinness.
 
 Repository: [UD_Irish-TwittIrish](https://github.com/UniversalDependencies/UD_Irish-TwittIrish)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_twittirish213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_twittirish214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,11 +36,11 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
-| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Lemmas | annotated manually |
+| UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
 | Features | not available |
-| Relations | assigned by a program, with some manual corrections, but not a full manual verification |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 

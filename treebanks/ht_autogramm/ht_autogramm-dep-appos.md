@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `appos`: <tt><a href
 7	Bragg	Bragg	PROPN	_	_	6	flat:name	_	Gloss=Bragg|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	avoka	avoka	NOUN	_	_	6	appos	_	Gloss=avocat
-10	distri	distri	NOUN	_	_	9	obj	_	Gloss=district
+10	distri	distri	NOUN	_	_	9	nmod	_	Gloss=district
 11	Manhattan	Manhattan	PROPN	_	_	10	nmod	_	Gloss=Manhattan
 
 ~~~

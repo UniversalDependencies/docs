@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `NOUN`
 
-There are 119 `NOUN` lemmas (28%), 120 `NOUN` types (25%) and 161 `NOUN` tokens (12%).
-Out of 14 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 5 in number of tokens.
+There are 119 `NOUN` lemmas (29%), 120 `NOUN` types (25%) and 161 `NOUN` tokens (12%).
+Out of 14 observed tags, the rank of `NOUN` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>libro, bata, balay, kwarta, tubig, bisita, iro, plano, abot, babaye</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>buhaton</em> (<tt><a href="ceb_gja-po
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.008403 (the average of all parts of speech is 1.142523).
+The form / lemma ratio of `NOUN` is 1.008403 (the average of all parts of speech is 1.172662).
 
 The 1st highest number of forms (2) was observed with the lemma “tulog”: <em>katulganan, tulganan</em>.
 

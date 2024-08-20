@@ -89,7 +89,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	Entity=(NOCOREF:Spec.date-time-2-gstype:spec
 8	7	7	NUM	_	NumForm=Digit|NumType=Card	6	obl	6:obl	MWE=7_d'_octubre_del_2000|MWEPOS=NOUN|ArgTem=argM:tmp
 9	d'	de	ADP	_	_	10	case	10:case	SpaceAfter=No
-10	octubre	octubre	NOUN	_	_	8	compound	8:compound	_
+10	octubre	octubre	NOUN	_	_	8	nmod	8:nmod	_
 11	de	de	ADP	_	_	13	case	13:case	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
 13	2000	2000	NUM	_	NumForm=Digit|NumType=Card	8	compound	8:compound	SpaceAfter=No|Entity=NOCOREF:Spec.date)

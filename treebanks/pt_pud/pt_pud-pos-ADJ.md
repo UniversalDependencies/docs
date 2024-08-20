@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>mais</em> (<tt><a href="pt_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.418778 (the average of all parts of speech is 1.570742).
+The form / lemma ratio of `ADJ` is 1.418778 (the average of all parts of speech is 1.570488).
 
 The 1st highest number of forms (50) was observed with the lemma “_”: <em>1.º, 1º, 31º, 3º, 45º, 96º, Franco-Monegasco, I, II, III, IV, IX, Imobliliário, Indo-Australiana, V, VI, VIII, anti-fascista, artilheiro, austro-prussiano, auto-governadas, autocolantes, customizados, cúlticos, extra-conjugal, juntos, maia, mais, megárica, melhor, menos, mesmo, meteorítico, offshore, planejado, proxima, pré-históricos, pró-Pequim, pós-clássico, pós-guerra, quarta, recém-criada, registrado, sem-teto, sexagésimo, sozinha, sozinho, sul-coreana, terceiro, yazidis</em>.
 

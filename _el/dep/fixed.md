@@ -10,7 +10,7 @@ These expressions are annotated in a flat, head-initial structure,
 in which all words in the expression modify the first one using the relation [fixed]().
 
 Adverbs
-- Multiword adverbs involving reduplication, e.g. such as *τσίμα τσίμα*, *ίσα ίσα* *στο τσακ*, *στο παρατσάκ* 'tightly'.
+- Fixed multiword adverbs involving reduplication, e.g. such as *τσίμα τσίμα*, *ίσα ίσα*, *στο τσακ*, *στο παρατσάκ* 'tightly'. Notice that reduplication is productive in Modern Greek; the results of productive reduplication are tagged as [compound]().
 
 ~~~ sdparse
 τσίμα τσίμα
@@ -22,7 +22,7 @@ fixed(τσίμα -1-, τσίμα -2-)
 ~~~ sdparse
 καλού-κακού
 fixed(καλού -1-, - -2-)
-fixed(καλού -1-, τσίμα -3-)
+fixed(καλού -1-, κακού -3-)
 ~~~
 
 ~~~ sdparse
@@ -37,4 +37,4 @@ case(αυτό, προς)
 ~~~
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:55 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:13 CEST -->

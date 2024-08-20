@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (0%), 1 `SCONJ` types (0%) and 3 `SCONJ` tokens (0%).
-Out of 16 observed tags, the rank of `SCONJ` is: 16 in number of lemmas, 16 in number of types and 14 in number of tokens.
+There are 1 `SCONJ` lemmas (0%), 1 `SCONJ` types (0%) and 4 `SCONJ` tokens (0%).
+Out of 16 observed tags, the rank of `SCONJ` is: 16 in number of lemmas, 16 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>kutxi</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.231034).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.222951).
 
 The 1st highest number of forms (1) was observed with the lemma “kutxi”: <em>kutxi</em>.
 
@@ -30,11 +30,11 @@ The 1st highest number of forms (1) was observed with the lemma “kutxi”: <em
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="apu_ufpa-dep-mark.html">mark</a></tt> (3; 100% instances)
+`SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="apu_ufpa-dep-mark.html">mark</a></tt> (4; 100% instances)
 
-Parents of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (3; 100% instances)
+Parents of `SCONJ` nodes belong to 1 different parts of speech: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (4; 100% instances)
 
-3 (100%) `SCONJ` nodes are leaves.
+4 (100%) `SCONJ` nodes are leaves.
 
 The highest child degree of a `SCONJ` node is 0.
 

@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 iobj	color:blue
 1	Bakayoko	Bakayoko	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	Discourse=joint-list_m:25->23:0:_|Entity=(35-person-new-cf1-1-coref-Tiémoué_Bakayoko)
-2	getting	get	VERB	VBG	VerbForm=Ger	0	root	0:root	Cxn=Ditransitive|MSeg=gett-ing
+2	getting	get	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Cxn=Ditransitive|MSeg=gett-ing
 3	himself	himself	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	iobj	2:iobj	Entity=(35-person-giv:act-cf1-1-ana-Tiémoué_Bakayoko)|MSeg=him-self
 4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	Entity=(36-object-new-cf2-3-sgl
 5	red	red	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
@@ -66,11 +66,11 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(79-person-giv:act-cf1*-1-ana)
 3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
-5	have	have	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:if	Cxn=Condition-Realistic
+5	have	have	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:if	_
 6	access	access	NOUN	NN	Number=Sing	5	obj	5:obj	Entity=(93-abstract-new-cf2-1-sgl)|SpaceAfter=No
 7	,	,	PUNCT	,	_	5	punct	5:punct	_
 8	please	please	INTJ	UH	_	9	discourse	9:discourse	Discourse=adversative-contrast_m:67->65:1:_
-9	email	email	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	_
+9	email	email	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(94-person-new-cf3-2-sgl
 11	TA	TA	PROPN	NNP	Number=Sing	9	iobj	9:iobj	Entity=94)
 12	or	or	CCONJ	CC	_	14	cc	14:cc	_

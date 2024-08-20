@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Slng`.
 
-61 tokens (0%) have a non-empty value of `Style`.
-52 types (0%) occur at least once with a non-empty value of `Style`.
-46 lemmas (0%) occur at least once with a non-empty value of `Style`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+60 tokens (0%) have a non-empty value of `Style`.
+51 types (0%) occur at least once with a non-empty value of `Style`.
+45 lemmas (0%) occur at least once with a non-empty value of `Style`.
+The feature is used with 4 part-of-speech tags: <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (25; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `PROPN`
 
@@ -40,11 +40,11 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 ### `ADV`
 
-12 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Style`.
+11 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Style`.
 
 `ADV` tokens may have the following values of `Style`:
 
-* `Slng` (12; 100% of non-empty `Style`): <em>aint, pohh, põmst, Pmst, Sitaks, nati, veits, imo</em>
+* `Slng` (11; 100% of non-empty `Style`): <em>aint, pohh, põmst, Pmst, Sitaks, nati, veits</em>
 
 ### `VERB`
 

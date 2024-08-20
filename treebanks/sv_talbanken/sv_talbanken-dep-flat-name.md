@@ -48,9 +48,9 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	Haussmann	Haussmann	PROPN	PM|NOM	Case=Nom	6	nsubj	6:nsubj	_
 3	och	och	CCONJ	KN	_	4	cc	4:cc	_
 4	Napoleon	Napoleon	PROPN	PM|NOM	Case=Nom	2	conj	2:conj:och|6:nsubj	_
-5	III	III	ADJ	RO|NOM	Case=Nom	4	flat:name	4:flat:name	_
+5	III	III	ADJ	RO|NOM	Case=Nom|NumType=Ord	4	flat:name	4:flat:name	_
 6	skapade	skapa	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	11	advcl	11:advcl:då	_
-7	det	en	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
+7	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	9:det	_
 8	nutida	nutida	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	9	amod	9:amod	_
 9	Paris	Paris	PROPN	PM|GEN	Case=Gen	10	nmod:poss	10:nmod:poss	_
 10	centrum	centrum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	obj	6:obj	_
@@ -63,10 +63,10 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 17	monumentalitet	monumentalitet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	14	obl	14:obl:av	SpaceAfter=No
 18	,	,	PUNCT	MID	_	14	punct	14:punct	_
 19	genom	genom	ADP	PP	_	21	case	21:case	_
-20	breda	bred	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	21	amod	21:amod	_
+20	breda	bred	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	21	amod	21:amod	_
 21	gator	gata	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	14	obl	14:obl:genom	SpaceAfter=No
 22	,	,	PUNCT	MID	_	24	punct	24:punct	_
-23	stora	stor	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	24	amod	24:amod	_
+23	stora	stor	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	24	amod	24:amod	_
 24	torg	torg	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	21	conj	14:obl:genom|21:conj:och	SpaceAfter=No
 25	,	,	PUNCT	MID	_	26	punct	26:punct	_
 26	statyer	staty	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	21	conj	14:obl:genom|21:conj:och	SpaceAfter=No
@@ -75,7 +75,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 29	,	,	PUNCT	MID	_	30	punct	30:punct	_
 30	palats	palats	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	21	conj	14:obl:genom|21:conj:och	_
 31	och	och	CCONJ	KN	_	33	cc	33:cc	_
-32	offentliga	offentlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	33	amod	33:amod	_
+32	offentliga	offentlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	33	amod	33:amod	_
 33	byggnader	byggnad	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	21	conj	14:obl:genom|21:conj:och	_
 34	i	i	ADP	PP	_	36	case	36:case	_
 35	gatuperspektivens	gatuperspektiv	NOUN	NN|NEU|PLU|DEF|GEN	Case=Gen|Definite=Def|Gender=Neut|Number=Plur	36	nmod:poss	36:nmod:poss	_

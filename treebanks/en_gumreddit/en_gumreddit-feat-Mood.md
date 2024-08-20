@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-GUMReddit: Features: `Mood`
 
 This feature is universal.
-It occurs with 2 different values: `Imp`, `Ind`.
+It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 1603 tokens (10%) have a non-empty value of `Mood`.
 1 types (0) occur at least once with a non-empty value of `Mood`.
@@ -35,7 +35,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (4; 1% of non-empty `Mood`): <em>_</em>
-* `Ind` (765; 99% of non-empty `Mood`): <em>_</em>
+* `Ind` (762; 99% of non-empty `Mood`): <em>_</em>
+* `Sub` (3; 0% of non-empty `Mood`): <em>_</em>
 * `EMPTY` (413): <em>_</em>
 
 ## Relations with Agreement in `Mood`

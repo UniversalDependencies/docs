@@ -11,7 +11,7 @@ This relation is universal.
 2776 nodes (6%) are attached to their parents as `root`.
 
 2776 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.41174351585014.
+Average distance between parent and child is 6.41102305475504.
 
 The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (1930; 70% instances), -<tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (283; 10% instances), -<tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (226; 8% instances), -<tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (96; 3% instances), -<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (84; 3% instances), -<tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (70; 3% instances), -<tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (37; 1% instances), -<tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (26; 1% instances), -<tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (8; 0% instances), -<tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="fr_parisstories-pos-X.html">X</a></tt> (4; 0% instances), -<tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (1; 0% instances).
 

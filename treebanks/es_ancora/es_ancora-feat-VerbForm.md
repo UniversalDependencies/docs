@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-68260 tokens (12%) have a non-empty value of `VerbForm`.
+68263 tokens (12%) have a non-empty value of `VerbForm`.
 13005 types (34%) occur at least once with a non-empty value of `VerbForm`.
 3740 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (48183; 9% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (13565; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (6501; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (48186; 9% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (13565; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (6501; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
 
 ### `VERB`
 
-48183 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+48186 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (29241; 61%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28236; 59%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27874; 58%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Fin` (31117; 65% of non-empty `VerbForm`): <em>tiene, dijo, hay, hace, tienen, aseguró, explicó, va, afirmó, hizo</em>
 * `Ger` (1322; 3% of non-empty `VerbForm`): <em>haciendo, dando, teniendo, diciendo, pensando, trabajando, hablando, intentando, jugando, dejando</em>
-* `Inf` (10991; 23% of non-empty `VerbForm`): <em>hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</em>
+* `Inf` (10994; 23% of non-empty `VerbForm`): <em>hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</em>
 * `Part` (4753; 10% of non-empty `VerbForm`): <em>hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</em>
 
 <table>
@@ -119,7 +119,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (6501; 100% of non-empty `VerbForm`): <em>pasado, pasada, previsto, abierta, abierto, dispuesto, hecho, privado, fallecido, llamado</em>
-* `EMPTY` (29922): <em>primer, gran, nuevo, primera, mayor, próximo, nueva, últimos, mejor, general</em>
+* `EMPTY` (29926): <em>primer, gran, nuevo, primera, mayor, próximo, nueva, últimos, mejor, general</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (1319) occur only with one value of `VerbForm`.
 
@@ -134,7 +134,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (9; 82% of non-empty `VerbForm`): <em>parte, alusión, banda, capitulo, cara, hincapié, punto, vergüenza</em>
 * `Inf` (1; 9% of non-empty `VerbForm`): <em>leña</em>
 * `Part` (1; 9% of non-empty `VerbForm`): <em>heredado</em>
-* `EMPTY` (100512): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
+* `EMPTY` (100524): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 

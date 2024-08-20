@@ -36,4 +36,4 @@ Disylabic reduplication
 * _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
 * _<b>t-uβ-a</b>&nbsp;_ “A/the father”
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:05 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:20 CEST -->

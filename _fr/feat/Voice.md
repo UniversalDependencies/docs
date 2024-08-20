@@ -25,4 +25,4 @@ The subject of the verb is the doer of the action (agent), the object is affecte
 
 * _Ils ont <b>réalisé</b> un excellent travail._ “They did an excellent job."
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:13 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->

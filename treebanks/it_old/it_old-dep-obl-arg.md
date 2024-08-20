@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-obl.html">obl</a></tt>.
 There are also 3 other language-specific subtypes of `obl`: <tt><a href="it_old-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="it_old-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="it_old-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-357 nodes (1%) are attached to their parents as `obl:arg`.
+526 nodes (1%) are attached to their parents as `obl:arg`.
 
-211 instances of `obl:arg` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.89355742296919.
+303 instances of `obl:arg` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8041825095057.
 
-The following 16 pairs of parts of speech are connected with `obl:arg`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (169; 47% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (122; 34% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (17; 5% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (11; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (9; 3% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `obl:arg`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (249; 47% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (175; 33% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (32; 6% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (16; 3% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-AUX.html">AUX</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -64,43 +64,40 @@ The following 16 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 obl:arg	color:blue
-1	Chirón	Chirone	PROPN	np	_	3	nsubj	_	Canto=12|Verso=97
-2	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	_	Canto=12|Verso=97
-3	volse	volgere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=12|Verso=97
-4	in	in	ADP	_	_	8	case	_	Canto=12|Verso=97
-5	su	su	ADP	_	_	8	case	_	Canto=12|Verso=97
-6	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Canto=12|Verso=97
-7	destra	destro	ADJ	a1fs	Gender=Fem|Number=Sing	8	amod	_	Canto=12|Verso=97
-8	poppa	poppa	NOUN	sf1fs	Gender=Fem|Number=Sing	3	obl:lmod	_	Canto=12|SpaceAfter=No|Verso=97
-9	,	,	PUNCT	_	_	11	punct	_	_
-10	e	e	CCONJ	cscc	_	11	cc	_	Canto=12|Verso=98
-11	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Canto=12|Verso=98
-12	a	a	ADP	epsk1d	_	13	case	_	Canto=12|Verso=98
-13	Nesso	Nesso	PROPN	np	_	11	obl:arg	_	Canto=12|SpaceAfter=No|Verso=98
-14	:	:	PUNCT	_	_	16	punct	_	_
-15	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
-16	Torna	tornare	VERB	vi1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	ccomp:reported	_	Canto=12|SpaceAfter=No|Verso=98
-17	,	,	PUNCT	_	_	21	punct	_	_
-18	e	e	CCONJ	cscc	_	21	cc	_	Canto=12|Verso=98
-19	sì	così	ADV	b	_	21	advmod	_	Canto=12|Verso=98
-20	li	li	PRON	pp3pyac	Clitic=Yes|Number=Plur|Person=3|PronType=Prs	21	obj	_	Canto=12|Verso=98
-21	guida	guidare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	Canto=12|SpaceAfter=No|Verso=98
-22	,	,	PUNCT	_	_	21	punct	_	_
-23	e	e	CCONJ	cscc	_	24	cc	_	Canto=12|Verso=99
-24	fa	fare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	conj	_	Canto=12|Verso=99
-25	cansar	cansare	VERB	vi1fp	Tense=Pres|VerbForm=Inf	24	ccomp	_	Canto=12|Verso=99
-26	s'	se	SCONJ	cssv	_	30	mark	_	Canto=12|SpaceAfter=No|Verso=99
-27	altra	altro	DET	ai	Gender=Fem|Number=Sing|PronType=Ind	28	det	_	Canto=12|Verso=99
-28	schiera	schiera	NOUN	sf1fs	Gender=Fem|Number=Sing	30	nsubj	_	Canto=12|Verso=99
-29	v'	vi	PRON	pp2pyac	Clitic=Yes|Number=Plur|Person=2|PronType=Prs	30	obj	_	Canto=12|SpaceAfter=No|Verso=99
-30	intoppa	intoppare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	advcl	_	Canto=12|SpaceAfter=No|Verso=99
-31	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
-32	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 obl:arg	color:blue
+1	Stazio	Stazio	PROPN	np	_	8	xcomp	_	Canto=21|Verso=91
+2	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Canto=21|Verso=91
+3	gente	gente	NOUN	sf3fs	Gender=Fem|Number=Sing	8	nsubj	_	Canto=21|Verso=91
+4	ancor	ancora	ADV	b	_	8	advmod:tmod	_	Canto=21|Verso=91
+5	di	di	ADP	_	_	6	case	_	Canto=21|Verso=91
+6	là	là	ADV	_	_	8	advmod:lmod	_	Canto=21|Verso=91
+7	mi	mi	PRON	pp1syac	Clitic=Yes|Person=1|Poss=Yes|PronType=Prs	8	obj	_	Canto=21|Verso=91
+8	noma	nomare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Canto=21|SpaceAfter=No|Verso=91
+9	:	:	PUNCT	_	_	10	punct	_	_
+10	cantai	cantare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	Canto=21|Verso=92
+11	di	di	ADP	epskx	_	12	case	_	Canto=21|Verso=92
+12	Tebe	Tebe	PROPN	np	_	10	obl:arg	_	Canto=21|SpaceAfter=No|Verso=92
+13	,	,	PUNCT	_	_	19	punct	_	_
+14	e	e	CCONJ	cscc	_	19	cc	_	Canto=21|Verso=92
+15	poi	poi	ADV	b	_	19	advmod:tmod	_	Canto=21|Verso=92
+16	di	di	ADP	_	_	19	case	_	Canto=21|Comment=de-l|Verso=92
+17	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Canto=21|Comment=de-l|Verso=92
+18	grande	grande	ADJ	a2ms	Gender=Masc|Number=Sing	19	amod	_	Canto=21|Verso=92
+19	Achille	Achille	PROPN	np	_	10	conj	_	Canto=21|SpaceAfter=No|Verso=92
+20	;	;	PUNCT	_	_	22	punct	_	_
+21	ma	ma	CCONJ	csca	_	22	cc	_	Canto=21|Verso=93
+22	caddi	cadere	VERB	vi2irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	8	parataxis	_	Canto=21|Verso=93
+23	in	in	ADP	epskpl	_	24	case	_	Canto=21|Verso=93
+24	via	via	NOUN	sf1fs	Gender=Fem|Number=Sing	22	obl:lmod	_	Canto=21|Verso=93
+25	con	con	ADP	epsku	_	28	case	_	Canto=21|Verso=93
+26	la	il	DET	rdfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	Canto=21|Verso=93
+27	seconda	seconda	ADJ	an1fs	Gender=Fem|Number=Sing|NumType=Ord	28	amod	_	Canto=21|Verso=93
+28	soma	soma	NOUN	sf1fs	Gender=Fem|Number=Sing	22	obl	_	Canto=21|SpaceAfter=No|Verso=93
+29	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

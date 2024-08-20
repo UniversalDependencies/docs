@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 28	promptly	promptly	ADV	RB	_	29	advmod	29:advmod	_
 29	relieved	relieved	ADJ	JJ	Degree=Pos	5	conj	5:conj:and	_
 30	of	of	ADP	IN	_	32	case	32:case	_
-31	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	nmod:poss	32:nmod:poss	_
+31	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	nmod:poss	32:nmod:poss	_
 32	command	command	NOUN	NN	Number=Sing	29	obl	29:obl:of	SpaceAfter=No
 33	.	.	PUNCT	.	_	5	punct	5:punct	_
 

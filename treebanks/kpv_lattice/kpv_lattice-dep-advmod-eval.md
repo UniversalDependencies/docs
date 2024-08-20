@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `advmod:eval`: <tt>
 6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_
 7	вошӧмъяскӧд	вошӧм	NOUN	N	Case=Com|Number=Plur	8	obl	_	_
 8	тышкасьӧм	тышкасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	obl	_	_
-9	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
+9	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

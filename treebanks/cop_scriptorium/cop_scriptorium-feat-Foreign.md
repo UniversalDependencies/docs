@@ -16,12 +16,12 @@ The feature is used with 14 part-of-speech tags: <tt><a href="cop_scriptorium-po
 
 ### `NOUN`
 
-1926 <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> tokens (24% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+1926 <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1926; 100% of non-empty `Foreign`): ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲁⲡⲁ, ⲕⲟⲥⲙⲟⲥ, ⲥⲱⲙⲁ, ⲙⲁⲑⲏⲧⲏⲥ, ⲗⲁⲟⲥ, ⲥⲁⲣⲝ, ⲙⲟⲛⲁⲭⲟⲥ, ⲡⲟⲗⲓⲥ
-* `EMPTY` (6100): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ, ϩⲱⲃ
+* `EMPTY` (6366): ⲛⲟⲩⲧⲉ, ϩⲉ, ⲣⲱⲙⲉ, ⲙⲁ, ϫⲟⲉⲓⲥ, ⲧⲏⲣ, ϩⲏⲧ, ϣⲏⲣⲉ, ⲥⲟⲛ, ϣⲁϫⲉ
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (508) occur only with one value of `Foreign`.
 
@@ -73,14 +73,14 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 
 ### `ADV`
 
-116 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Foreign`.
+116 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Foreign`.
 
 The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (106; 91%).
 
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (116; 100% of non-empty `Foreign`): ⲕⲁⲗⲱⲥ, ⲧⲟⲧⲉ, ⲗⲟⲓⲡⲟⲛ, ⲙⲁⲗⲓⲥⲧⲁ, ⲉⲧⲓ, ⲏⲇⲏ, ⲡⲁⲗⲓⲛ, ϩⲟⲗⲱⲥ, ⲉⲓⲧⲁ, ⲟⲩⲕ
-* `EMPTY` (2145): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲧⲏⲣ, ⲟⲛ, ⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ
+* `EMPTY` (1879): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϩⲟⲩⲛ, ⲟⲛ, ⲛ, ⲙⲙⲁⲩ, ⲉϩⲣⲁⲓ, ⲧⲙ, ⲙⲡⲣ, ⲉⲙⲁⲧⲉ
 
 `Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (34) occur only with one value of `Foreign`.
 
@@ -166,7 +166,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): ⲟⲩ
-* `EMPTY` (9353): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
+* `EMPTY` (9354): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 
 ## Relations with Agreement in `Foreign`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alessio Salomoni.
 
 Repository: [UD_German-LIT](https://github.com/UniversalDependencies/UD_German-LIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_lit214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -754,7 +754,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (764)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN-Acc (765)</li>
       <li>VERB--NOUN-Acc-ADP(als) (1)</li>
       <li>VERB--NOUN-Acc-ADP(an) (1)</li>
       <li>VERB--NOUN-Acc-ADP(auf) (2)</li>

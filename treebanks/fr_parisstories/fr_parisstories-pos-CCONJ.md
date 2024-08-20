@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="fr_parisstories
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.928571 (the average of all parts of speech is 1.329287).
+The form / lemma ratio of `CCONJ` is 0.928571 (the average of all parts of speech is 1.332953).
 
 The 1st highest number of forms (1) was observed with the lemma “Et”: <em>et</em>.
 
@@ -62,32 +62,32 @@ The 2nd highest number of forms (1) was observed with the lemma “bon”: <em>b
 
 The 3rd highest number of forms (1) was observed with the lemma “c'est-à-dire”: <em>c'est-à-dire</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt> (51; 3% instances)
+`CCONJ` occurs with 1 features: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt> (80; 5% instances)
 
 `CCONJ` occurs with 2 feature-value pairs: `ExtPos=ADV`, `ExtPos=CCONJ`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (1485 tokens).
+The most frequent feature combination is `_` (1456 tokens).
 Examples: <em>et, mais, ou, puis, ni, soit, donc, bon, comme, or</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (1394; 91% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (62; 4% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (41; 3% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (18; 1% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (6; 0% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (6; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="fr_parisstories-dep-cc.html">cc</a></tt> (1394; 91% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (62; 4% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (41; 3% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (23; 1% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (6; 0% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (984; 64% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (178; 12% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (67; 4% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (66; 4% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (65; 4% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (31; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (6; 0% instances),  (6; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (971; 63% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (176; 11% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (92; 6% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (84; 5% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (66; 4% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (65; 4% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (30; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (6; 0% instances),  (6; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-1409 (92%) `CCONJ` nodes are leaves.
+1365 (89%) `CCONJ` nodes are leaves.
 
-92 (6%) `CCONJ` nodes have one child.
+155 (10%) `CCONJ` nodes have one child.
 
-34 (2%) `CCONJ` nodes have two children.
+15 (1%) `CCONJ` nodes have two children.
 
 1 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (63; 39% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (51; 31% instances), <tt><a href="fr_parisstories-dep-punct.html">punct</a></tt> (44; 27% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (5; 3% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (80; 43% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (63; 34% instances), <tt><a href="fr_parisstories-dep-punct.html">punct</a></tt> (40; 21% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (5; 3% instances)
 
-Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (67; 41% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (45; 28% instances), <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (44; 27% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (4; 2% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (84; 45% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (57; 30% instances), <tt><a href="fr_parisstories-pos-PUNCT.html">PUNCT</a></tt> (40; 21% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (4; 2% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (1; 1% instances)
 

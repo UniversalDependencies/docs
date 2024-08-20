@@ -9,19 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-176 tokens (2%) have a non-empty value of `Polarity`.
+361 tokens (2%) have a non-empty value of `Polarity`.
 18 types (1%) occur at least once with a non-empty value of `Polarity`.
-8 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (176; 2% instances).
+15 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (361; 2% instances).
 
 ### `PART`
 
-176 <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> tokens (21% of all `PART` tokens) have a non-empty value of `Polarity`.
+361 <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> tokens (19% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="say_autogramm-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="say_autogramm-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (169; 96%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="say_autogramm-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (349; 97%).
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (176; 100% of non-empty `Polarity`): <em>bàː, hŋ́, n, ə̌n, ǐn, báː, baːbù, ŋ, ŋ́, ǎːn</em>
-* `EMPTY` (660): <em>tòː, máː, tôː, oː, ɗi, nə, ni, mə́n, wéy, aː</em>
+* `Neg` (361; 100% of non-empty `Polarity`): <em>hŋ́, bàː, n, báː, bâː, ŋǎːn, baːbù, káɗá, hə́ŋ, ə̌n</em>
+* `EMPTY` (1578): <em>tôː, nə, tòː, máː, oː, =ɗi, =ni, kúmá, aː, mə́n</em>
+
+`Polarity` seems to be **lexical feature** of `PART`. 100% lemmas (15) occur only with one value of `Polarity`.
 

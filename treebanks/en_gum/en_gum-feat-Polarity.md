@@ -9,76 +9,89 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1875 tokens (1%) have a non-empty value of `Polarity`.
-154 types (1%) occur at least once with a non-empty value of `Polarity`.
-143 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 10 part-of-speech tags: <tt><a href="en_gum-pos-PART.html">PART</a></tt> (1257; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (193; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (161; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (108; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (92; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (35; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+2178 tokens (1%) have a non-empty value of `Polarity`.
+170 types (1%) occur at least once with a non-empty value of `Polarity`.
+156 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 10 part-of-speech tags: <tt><a href="en_gum-pos-PART.html">PART</a></tt> (1480; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (215; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (176; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (126; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (106; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (39; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (19; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PART`
 
-1257 <tt><a href="en_gum-pos-PART.html">PART</a></tt> tokens (29% of all `PART` tokens) have a non-empty value of `Polarity`.
+1480 <tt><a href="en_gum-pos-PART.html">PART</a></tt> tokens (29% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (1257; 100% of non-empty `Polarity`): <em>not, n't, n’t, n`t</em>
-* `EMPTY` (3146): <em>to, 's, ’s, na, ', ’, ta, s, a, do</em>
+* `Neg` (1480; 100% of non-empty `Polarity`): <em>not, n't, n’t, n`t</em>
+* `EMPTY` (3634): <em>to, 's, ’s, na, ', ’, ta, s, a, do</em>
 
 ### `ADJ`
 
-193 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+215 <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (193; 100%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (215; 100%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (193; 100% of non-empty `Polarity`): <em>universal, non-avian, unknown, unlikely, unable, unprecedented, unfamiliar, unconscious, uncertain, unclear</em>
-* `EMPTY` (12277): <em>other, first, many, new, good, little, different, more, last, same</em>
+* `Neg` (215; 100% of non-empty `Polarity`): <em>universal, non-avian, unable, unknown, unlikely, unprecedented, unconscious, unfamiliar, unrelated, uncertain</em>
+* `EMPTY` (13736): <em>other, first, new, many, good, little, more, different, such, same</em>
 
-`Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (108) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (118) occur only with one value of `Polarity`.
 
 ### `DET`
 
-161 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Polarity`.
+176 <tt><a href="en_gum-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (161; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (161; 100%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (176; 100%).
 
 `DET` tokens may have the following values of `Polarity`:
 
-* `Neg` (161; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (15225): <em>the, a, this, an, all, some, these, that, any, every</em>
+* `Neg` (176; 100% of non-empty `Polarity`): <em>no</em>
+* `EMPTY` (17156): <em>the, a, this, an, all, some, that, these, any, every</em>
 
 ### `ADV`
 
-108 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
+126 <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (64; 59%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (126; 100%), <tt><a href="en_gum-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (73; 58%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (108; 100% of non-empty `Polarity`): <em>never, no, unfortunately, nowhere, Ne, pas, unambiguously, unanimously, unawares, uncertainly</em>
-* `EMPTY` (8728): <em>so, just, when, then, also, how, now, more, here, really</em>
+* `Neg` (126; 100% of non-empty `Polarity`): <em>never, no, unfortunately, nowhere, unambiguously, undoubtedly, Ne, pas, unanimously, unawares</em>
+* `EMPTY` (9984): <em>so, when, just, then, also, how, now, more, here, really</em>
 
-`Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (19) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (21) occur only with one value of `Polarity`.
 
 ### `INTJ`
 
-92 <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> tokens (5% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+106 <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> tokens (5% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (92; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (1607): <em>like, yeah, oh, so, well, uh, um, okay, yes, alright</em>
+* `Neg` (106; 100% of non-empty `Polarity`): <em>no</em>
+* `EMPTY` (1911): <em>like, yeah, oh, well, so, um, uh, okay, yes, alright</em>
 
 ### `PRON`
 
-35 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
+39 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (35; 100%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 100%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="en_gum-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (39; 100%).
 
 `PRON` tokens may have the following values of `Polarity`:
 
-* `Neg` (35; 100% of non-empty `Polarity`): <em>nothing</em>
-* `EMPTY` (15316): <em>i, it, you, that, we, he, they, his, my, your</em>
+* `Neg` (39; 100% of non-empty `Polarity`): <em>nothing</em>
+* `EMPTY` (17779): <em>i, it, you, that, we, he, they, his, your, my</em>
+
+### `NOUN`
+
+19 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 89%).
+
+`NOUN` tokens may have the following values of `Polarity`:
+
+* `Neg` (19; 100% of non-empty `Polarity`): <em>none, discomfort, non-realism, non-art, non-cooperation, non-fiction, non-locals, non-philosophers, non-proliferation, nowhere</em>
+* `EMPTY` (35493): <em>people, time, day, way, years, life, world, year, city, today</em>
+
+`Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Polarity`.
 
 ### `VERB`
 
@@ -89,18 +102,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (13; 100% of non-empty `Polarity`): <em>uncovered, undo, dismounted, Uncover, disband, disbanded, disentangle, unclenched</em>
-* `EMPTY` (19561): <em>have, know, get, do, make, said, see, think, go, had</em>
-
-### `NOUN`
-
-12 <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `NOUN` and `Polarity` co-occurred: <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 83%).
-
-`NOUN` tokens may have the following values of `Polarity`:
-
-* `Neg` (12; 100% of non-empty `Polarity`): <em>discomfort, non-realism, none, non-art, non-fiction, non-locals, non-philosophers, non-proliferation, nowhere</em>
-* `EMPTY` (31559): <em>people, time, day, years, way, city, world, year, today, life</em>
+* `EMPTY` (22265): <em>have, know, do, get, make, think, see, said, go, had</em>
 
 ### `PROPN`
 
@@ -111,7 +113,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>Non-Proliferation, pas</em>
-* `EMPTY` (11221): <em>States, President, University, York, New, America, figure, north, Scientology, south</em>
+* `EMPTY` (12186): <em>States, University, President, York, New, America, Warhol, north, figure, south</em>
 
 ### `X`
 
@@ -122,7 +124,7 @@ The most frequent other feature values with which `X` and `Polarity` co-occurred
 `X` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (345): <em>et, al., de, 1, 1., 2., in, situ, 2, 3</em>
+* `EMPTY` (361): <em>et, al., de, 1, 1., 2., in, situ, 2, 3</em>
 
 ## Relations with Agreement in `Polarity`
 

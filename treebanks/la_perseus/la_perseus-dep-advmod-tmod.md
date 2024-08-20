@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 # visual-style 5 4 advmod:tmod	color:blue
 1	nobis	nos	PRON	p-p---mb-	Case=Abl|Number=Plur|Person=1|PronType=Prs	3	obl	_	_
 2	cum	cum	ADP	_	AdpType=Post	1	case	_	_
-3	versari	verso	VERB	v--pnp---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	7	xcomp	_	_
+3	versari	verso	VERB	v--pnp---	Aspect=Imp|VerbForm=Inf|Voice=Pass	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	iam	iam	ADV	d--------	AdvType=Tim	5	advmod:tmod	_	LId=jam1
 5	diutius	diu	ADV	d-------c	Degree=Cmp	7	advmod	_	_
 6	non	non	PART	d--------	_	7	advmod:neg	_	LId=non1

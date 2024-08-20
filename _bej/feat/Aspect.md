@@ -49,4 +49,4 @@ The perfective marks a bounded process or state, independently of any temporal b
 #### Example
 
 -  _tak / kaːm =i / hoː kʷiɖ -ja i- <b>ni</b> //_ "A man said: 'My camel disappeared.' "
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:35 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:47 CEST -->

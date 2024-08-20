@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>see</em> (<tt><a href="et_ewt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.333333 (the average of all parts of speech is 1.732282).
+The form / lemma ratio of `DET` is 5.333333 (the average of all parts of speech is 1.732342).
 
 The 1st highest number of forms (25) was observed with the lemma “see”: <em>Neile, need, neid, neil, neis, neisse, neist, nende, nendel, nendele, nendelt, nendest, se, seda, see, sel, selle, selleks, sellel, sellele, sellelt, selleni, selles, sellesse, sellest</em>.
 

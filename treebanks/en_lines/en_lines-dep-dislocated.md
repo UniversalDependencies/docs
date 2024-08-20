@@ -49,10 +49,10 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 6	twigs	twig	NOUN	PL-NOM	Number=Plur	1	conj	_	_
 7	all	all	PRON	TOT-PL	Case=Nom	8	nsubj	_	_
 8	found	find	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-9	their	they	PRON	P3PL-GEN	_	10	nmod:poss	_	_
+9	their	their	PRON	P3PL-GEN	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	way	way	NOUN	SG-NOM	Number=Sing	8	obj	_	_
 11	into	into	ADP	_	_	13	case	_	_
-12	his	he	PRON	P3SG-GEN	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
+12	his	his	PRON	P3SG-GEN	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	nmod:poss	_	_
 13	bag	bag	NOUN	SG-NOM	Number=Sing	10	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	Period	_	8	punct	_	_
 

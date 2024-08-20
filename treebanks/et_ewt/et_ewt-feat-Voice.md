@@ -108,7 +108,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 * `Act` (40; 74% of non-empty `Voice`): <em>nakatunuid, surnuid, nakatunut, nakatunu, nakatunust, surnut, Tänud, haigestunuid, haigestunut, haigestunute</em>
 * `Pass` (14; 26% of non-empty `Voice`): <em>nakatunutest, Kirjapandu, Nakatunuid, eeltoodu, haigestunutest, lahtiharutatuna, nakatunute, surnu, sõitnuna, tarbitu</em>
-* `EMPTY` (18021): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
+* `EMPTY` (18007): <em>asi, aasta, teema, aru, auto, inimesed, inimene, aastat, raha, aega</em>
 
 <table>
   <tr><th>Paradigm <i>nakatu=nu</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>

@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 6	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	7	det	_	TokenRange=18:22
 7	piripanasawa	piripanasawa	NOUN	N	Number=Sing	8	compound	_	TokenRange=23:35
 8	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	5	obl	_	TokenRange=36:40
-9	kití	kití	ADP	ADP	_	8	case	_	SpaceAfter=No|TokenRange=41:45
+9	kití	kití	ADP	ADP	AdpType=Post	8	case	_	SpaceAfter=No|TokenRange=41:45
 10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=45:46
 
 ~~~

@@ -22,8 +22,8 @@ The following 11 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 mark:prt	color:blue
-1	turkey	turkey	NOUN	Xfe	Foreign=Yes	0	root	_	_
-2	burger	burger	NOUN	Xfe	Foreign=Yes	1	flat:foreign	_	_
+1	turkey	turkey	NOUN	Xfe	_	0	root	_	_
+2	burger	burger	NOUN	Xfe	_	1	flat	_	_
 3	an	an	PART	Qq	PartType=Vb|PronType=Int	4	mark:prt	_	_
 4	robh	bi	VERB	V-s--d	Tense=Past	1	parataxis	_	_
 5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_

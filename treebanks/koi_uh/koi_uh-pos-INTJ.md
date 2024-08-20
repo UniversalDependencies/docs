@@ -13,18 +13,21 @@ The 10 most frequent `INTJ` lemmas: <em>а-а, абу, ыш</em>
 
 The 10 most frequent `INTJ` types:  <em>А-а, Абу, ыш</em>
 
-The 10 most frequent ambiguous lemmas: <em>абу</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 5, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>а-а</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1), <em>абу</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 5, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Абу</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>А-а</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1), <em>Абу</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1)
 
 
+* <em>А-а</em>
+  * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1: <em><b>А-а</b> , локтін ачыт !</em>
+  * <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1: <em><b>А-а</b> , локтін ачыт !</em>
 * <em>Абу</em>
   * <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1: <em><b>Абу</b> ни сія морт , а зверь .</em>
   * <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Абу</b> , абу сія талун гортас .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.250569).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.249476).
 
 The 1st highest number of forms (1) was observed with the lemma “а-а”: <em>А-а</em>.
 

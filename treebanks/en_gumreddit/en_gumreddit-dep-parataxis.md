@@ -11,9 +11,9 @@ This relation is universal.
 123 nodes (1%) are attached to their parents as `parataxis`.
 
 117 instances of `parataxis` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.1869918699187.
+Average distance between parent and child is 10.1219512195122.
 
-The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (56; 46% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (11; 9% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (10; 8% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (10; 8% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (56; 46% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (11; 9% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (10; 8% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (9; 7% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -79,24 +79,43 @@ The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 10 parataxis	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	2:nsubj	Discourse=evaluation-comment:93->84:1:_|Entity=(81-abstract-giv:act-cf1*-1-coref)|Lem=*LOWER*|Len=4
-2	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=make|Len=5|MSeg=make-s
-3	_	_	ADJ	JJR	Degree=Cmp	4	amod	4:amod	Lem=_|Len=4
-4	_	_	NOUN	NN	Number=Sing	2	obj	2:obj	Lem=_|Len=5|SpaceAfter=No
-5	_	_	PUNCT	,	_	10	punct	10:punct	Lem=_|Len=1
-6	_	_	ADV	WRB	PronType=Int	10	advmod	10:advmod	Discourse=adversative-antithesis:94->95:1:_|Lem=_|Len=3
-7	_	_	AUX	MD	VerbForm=Fin	10	aux	10:aux	Lem=_|Len=5
-8	_	_	NOUN	NNS	Number=Plur	10	nsubj	10:nsubj	Entity=(61-person-giv:act-cf2-1-coref)|Lem=monster|Len=8|MSeg=monster-s
-9	_	_	AUX	VB	VerbForm=Inf	10	cop	10:cop	Lem=_|Len=2
-10	_	_	ADJ	JJ	Degree=Pos	2	parataxis	2:parataxis	Lem=_|Len=6
-11	_	_	ADP	IN	_	12	case	12:case	Lem=_|Len=2
-12	_	_	NOUN	NNS	Number=Plur	10	obl	10:obl:of	Entity=(61-person-giv:act-cf2-1-coref)|Lem=monster|Len=8|MSeg=monster-s|SpaceAfter=No
-13	_	_	PUNCT	.	_	2	punct	2:punct	Lem=_|Len=1
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 19 parataxis	color:blue
+1	_	_	CCONJ	CC	_	7	cc	7:cc	Discourse=adversative-contrast_m:12->10:1:dm-and-83|Lem=*LOWER*|Len=3
+2	_	_	ADP	IN	_	4	case	4:case	Lem=_|Len=2
+3	_	_	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Lem=_|Len=3
+4	_	_	NOUN	NN	Number=Sing	7	obl	7:obl:in	Lem=_|Len=4
+5	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	7:nsubj	Entity=(7-animal-giv:inact-cf1-1-ana-Giant_panda)|Lem=_|Len=4
+6	_	_	AUX	MD	VerbForm=Fin	7	aux	7:aux	Lem=_|Len=5
+7	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=9|MSeg=re-produce
+8	_	_	ADV	RB	_	9	advmod	9:advmod	Lem=_|Len=4
+9	_	_	ADV	RB	Degree=Pos	7	advmod	7:advmod	Lem=_|Len=4|SpaceAfter=No
+10	_	_	PUNCT	,	_	19	punct	19:punct	Lem=_|Len=1
+11	_	_	DET	DT	Definite=Def|PronType=Art	13	det	13:det	Discourse=elaboration-additional:13->9:2:ref-prs-43,97+ref-prop-48,97-98|Entity=(21-abstract-new-cf4-9,19-disc(22-abstract-new-cf2-3-coref|Lem=_|Len=3
+12	_	_	ADJ	JJS	Degree=Sup	13	amod	13:amod	Lem=large|Len=7|MSeg=larg-est
+13	_	_	NOUN	NN	Number=Sing	19	nsubj	19:nsubj|29:nsubj	Lem=_|Len=6
+14	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
+15	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	Entity=(13-event-giv:inact-cf3-2-coref(7-animal-giv:act-cf1-1-ana-Giant_panda)|Lem=_|Len=5
+16	_	_	NOUN	NN	Number=Sing	13	nmod	13:nmod:to	Entity=13)22)|Lem=_|Len=12|MSeg=re-produc-tion
+17	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	19:cop	Lem=be|Len=2
+18	_	_	DET	DT	Definite=Def|PronType=Art	19	det	19:det	Entity=(22-abstract-giv:act-cf2-2-coref|Lem=_|Len=3
+19	_	_	NOUN	NN	Number=Sing	7	parataxis	7:parataxis	Lem=_|Len=9|MSeg=narrow-ing
+20	_	_	ADP	IN	_	22	case	22:case	Lem=_|Len=2
+21	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	22:nmod:poss	Entity=(23-abstract-new-cf6-2-sgl(7-animal-giv:act-cf1-1-ana-Giant_panda)|Lem=_|Len=5
+22	_	_	NOUN	NNS	Number=Plur	19	nmod	19:nmod:of	Entity=23)|Lem=ecosystem|Len=10|MSeg=eco-system-s
+23	_	_	ADP	IN	_	24	case	24:case	Lem=_|Len=2
+24	_	_	NOUN	NNS	Number=Plur	19	nmod	19:nmod:by	Entity=(24-person-new-cf5-1-sgl)22)|Lem=human|Len=6|MSeg=human-s|SpaceAfter=No
+25	_	_	PUNCT	,	_	29	punct	29:punct	Lem=_|Len=1
+26	_	_	PART	RB	Polarity=Neg	29	advmod	29:advmod	Lem=_|Len=3
+27	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	Entity=(25-abstract-new-cf7-3-sgl(7-animal-giv:act-cf1-1-ana-Giant_panda)|Lem=_|Len=5
+28	_	_	ADJ	JJ	Degree=Pos	29	amod	29:amod	Lem=_|Len=4
+29	_	_	NOUN	NN	Number=Sing	19	conj	19:conj	Lem=_|Len=6
+30	_	_	SCONJ	IN	_	31	mark	31:mark	Lem=_|Len=2
+31	_	_	VERB	VBG	VerbForm=Ger	29	acl	29:acl:in	Entity=(13-event-giv:act-cf3-1-coref)25)21)|Lem=reproduce|Len=11|MSeg=re-produc-ing|SpaceAfter=No
+32	_	_	PUNCT	.	_	7	punct	7:punct	Lem=_|Len=1
 
 ~~~
 

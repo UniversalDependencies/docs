@@ -47,7 +47,7 @@ The following 13 pairs of parts of speech are connected with `obl:agent`: <tt><a
 4	genus	genus	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	7	nsubj	_	_
 5	optime	bene	ADV	rs	Degree=Abs	7	advmod	_	_
 6	se	sui	PRON	ppp3sna	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	7	obj	_	_
-7	habere	habeo	VERB	va2fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	2	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	habere	habeo	VERB	va2fp	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	2	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	cum	cum	SCONJ	cs	PronType=Rel	11	mark	_	_
 9	ab	ab	ADP	e	_	10	case	_	_
 10	uno	unus	DET	aumsb	Case=Abl|Gender=Masc|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	11	obl:agent	_	_
@@ -57,12 +57,12 @@ The following 13 pairs of parts of speech are connected with `obl:agent`: <tt><a
 14	sic	sic	ADV	r	PronType=Dem	19	advmod	_	_
 15	ad	ad	ADP	e	_	16	case	_	_
 16	bene	bene	ADV	r	_	19	obl	_	_
-17	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	16	cop	_	TraditionalTense=Praesens
+17	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	16	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 18	mundi	mundus	NOUN	sms2g	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	16	nmod	_	_
 19	necesse	necesse	ADJ	din	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	2	conj	_	_
 20	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 21	Monarchiam	monarchia	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	19	csubj	_	_
-22	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	21	cop	_	SpaceAfter=No|TraditionalTense=Praesens
+22	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	21	cop	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 23	.	.	PUNCT	Pu	_	2	punct	_	_
 
 ~~~

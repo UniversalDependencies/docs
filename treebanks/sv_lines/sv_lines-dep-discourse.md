@@ -50,7 +50,7 @@ The following 32 pairs of parts of speech are connected with `discourse`: <tt><a
 10	mrs	Mrs	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	11	nmod	_	_
 11	Weasley	Weasley	PROPN	SG-NOM	Case=Nom	9	nsubj	_	_
 12	med	med	ADP	_	_	14	case	_	_
-13	blixtrande	blixtrande	ADJ	NDE	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	14	amod	_	_
+13	blixtrande	blixtra	ADJ	NDE	Case=Nom|Degree=Pos|Tense=Pres|VerbForm=Part	14	amod	_	_
 14	ögon	öga	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	9	obl	_	SpaceAfter=No
 15	.	.	PUNCT	Period	_	9	punct	_	_
 

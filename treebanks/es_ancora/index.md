@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY 4.0
 
@@ -136,7 +136,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
-<li>This corpus contains 55 lemmas tagged as determiners (DET): A, Al, Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuyo, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, o, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
+<li>This corpus contains 56 lemmas tagged as determiners (DET): A, Al, Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuyo, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, le, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, o, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
 </ul>
 
 <ul>
@@ -211,7 +211,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NOUN: pesetas, personas, parte, vida, situación, vez, forma, elecciones, empresa, decisión</li>
       <li>NUM: ambas, media, una, DECENAS, quinientas</li>
       <li>PRON: la, una, ella, las, ellas, otra, ésta, unas, otras, algunas</li>
-      <li>PROPN: Cuba</li>
+      <li>PROPN: Cuba, Lletres</li>
       <li>VERB-Part: aprobada, considerada, dada, utilizada, comprada, dadas, incluida, rechazada, recibida, violada</li>
     </ul>
   </li>
@@ -250,6 +250,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NOUN: años, millones, pesetas, personas, países, días, meses, elecciones, partidos, puntos</li>
       <li>NUM: dos, tres, cinco, cuatro, seis, ambos, siete, diez, ocho, nueve</li>
       <li>PRON: nos, les, ellos, unos, los, otros, todos, las, nosotros, algunos</li>
+      <li>PROPN: Balears, Illes, Lletres</li>
       <li>VERB-Fin: tienen, tenemos, van, hacen, tuvieron, dicen, quieren, vamos, existen, hicieron</li>
       <li>VERB-Part: detenidos, incluidos, trasladados, juzgados, entregados, utilizados, considerados, dadas, dados, designados</li>
     </ul>
@@ -355,7 +356,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Def
     <ul>
-      <li>DET: el, la, los, las, a, o, Al, els</li>
+      <li>DET: el, la, los, las, les, le, a, o, Al, els</li>
       <li>PRON: lo</li>
     </ul>
   </li>
@@ -365,7 +366,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Ind
     <ul>
       <li>DET: un, una, unos, unas, uno</li>
-      <li>PRON: LO, les</li>
+      <li>PRON: LO</li>
     </ul>
   </li>
 </ul>
@@ -515,7 +516,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Art
     <ul>
-      <li>DET: el, la, los, un, las, una, unos, unas, els, a</li>
+      <li>DET: el, la, los, un, las, una, unos, unas, les, els</li>
     </ul>
   </li>
 </ul>
@@ -744,11 +745,13 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: de</li>
-          <li>CCONJ: i</li>
-          <li>DET: Al, A, la</li>
-          <li>NOUN: Comerç, Conselleria, Indústria, Turisme</li>
-          <li>PROPN: Generalitat</li>
+          <li>ADJ: Catalanes, Catalans, Socials</li>
+          <li>ADP: de, du</li>
+          <li>CCONJ: i, ou</li>
+          <li>DET: les, le, Al, A, la, una</li>
+          <li>NOUN: Comerç, Conselleria, Flors, Indústria, Institució, Mercat, Monde, Turisme, Boulevard, Ciències</li>
+          <li>NUM: 1.000</li>
+          <li>PROPN: Lletres, Crime, Frederick, Generalitat, Glòries, Balears, Illes</li>
           <li>X: Ja, hi, som</li>
         </ul>
       </li>
@@ -881,7 +884,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (10266)</li>
+      <li>VERB-Fin--NOUN (10267)</li>
       <li>VERB-Fin--NOUN-ADP(a) (5)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor)-ADP(de) (1)</li>
@@ -890,7 +893,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (5035)</li>
       <li>VERB-Fin--PRON-Acc (4)</li>
       <li>VERB-Fin--PRON-Acc,Nom (217)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (98)</li>
       <li>VERB-Ger--NOUN (98)</li>
       <li>VERB-Ger--PRON (57)</li>
@@ -915,32 +917,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (8897)</li>
+      <li>VERB-Fin--NOUN (8898)</li>
       <li>VERB-Fin--NOUN-ADP(a) (871)</li>
-      <li>VERB-Fin--PRON (1525)</li>
+      <li>VERB-Fin--PRON (1526)</li>
       <li>VERB-Fin--PRON-ADP(a) (105)</li>
       <li>VERB-Fin--PRON-Acc (1163)</li>
       <li>VERB-Fin--PRON-Acc,Nom (5)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (8)</li>
       <li>VERB-Fin--PRON-Acc-ADP(a) (11)</li>
       <li>VERB-Fin--PRON-Com (1)</li>
-      <li>VERB-Fin--PRON-Dat (725)</li>
       <li>VERB-Ger--NOUN (523)</li>
       <li>VERB-Ger--NOUN-ADP(a) (59)</li>
-      <li>VERB-Ger--PRON (33)</li>
+      <li>VERB-Ger--PRON (34)</li>
       <li>VERB-Ger--PRON-ADP(a) (2)</li>
       <li>VERB-Ger--PRON-Acc (48)</li>
       <li>VERB-Ger--PRON-Acc,Nom (2)</li>
-      <li>VERB-Ger--PRON-Dat (39)</li>
       <li>VERB-Inf--NOUN (4854)</li>
       <li>VERB-Inf--NOUN-ADP(a) (538)</li>
-      <li>VERB-Inf--PRON (257)</li>
+      <li>VERB-Inf--PRON (259)</li>
       <li>VERB-Inf--PRON-ADP(a) (43)</li>
       <li>VERB-Inf--PRON-Acc (648)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(a) (2)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Com (1)</li>
-      <li>VERB-Inf--PRON-Dat (228)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (1321)</li>
       <li>VERB-Part--NOUN-ADP(a) (142)</li>
@@ -949,7 +948,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (160)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(a) (2)</li>
       <li>VERB-Part--PRON-Acc-ADP(a) (1)</li>
-      <li>VERB-Part--PRON-Dat (131)</li>
     </ul>
   </li>
 </ul>

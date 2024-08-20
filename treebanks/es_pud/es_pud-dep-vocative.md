@@ -23,16 +23,16 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 11 vocative	color:blue
 1	Eso	eso	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	2	nsubj	_	_
-2	es	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	es	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
 4	que	que	PRON	REL	Gender=Masc|Number=Sing|PronType=Rel	6	obj	_	_
-5	no	_	ADV	RB	Polarity=Neg	6	advmod	_	_
-6	necesitamos	_	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
+5	no	no	ADV	RB	Polarity=Neg	6	advmod	_	_
+6	necesitamos	necesitar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 7	en	en	ADP	IN	_	9	case	_	_
 8	nuestro	nuestro	PRON	DTP$	Gender=Masc|Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
-11	amigos	_	NOUN	NN	Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
+11	amigos	amigo	NOUN	NN	Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	de	de	ADP	IN	_	6	case	_	_
 6	Sony	Sony	PROPN	NNP	Number=Sing	4	nmod	_	_
 7	Australia	Australia	PROPN	NNP	Number=Sing	6	appos	_	_
-8	dijo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	dijo	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	:	:	PUNCT	:	_	19	punct	_	_
 10	"	"	PUNCT	``	_	19	punct	_	SpaceAfter=No
 11	Ey	ey	X	UH	_	19	vocative	_	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 22	esto	esto	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	20	nmod	_	SpaceAfter=No
 23	?	?	PUNCT	.	_	19	punct	_	SpaceAfter=No
 24	"	"	PUNCT	''	_	19	punct	_	_
-25	dice	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
+25	dice	decir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
 26	Pall	Pall	PROPN	NNP	Number=Sing	25	nsubj	_	SpaceAfter=No
 27	.	.	PUNCT	.	_	25	punct	_	_
 

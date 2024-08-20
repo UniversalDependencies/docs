@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	Mouiuilana	huihuilana	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=Mowiwilana|Reflexive[obj]=Yes
+1	Mouiuilana	huihuilana	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=Mowiwilana|Reflexive[obj]=Yes
 2	kemej	kemej	ADV	_	_	4	mark	4:mark	NormalizedForm=kemeh
 3	eskia	etok	AUX	_	Mood=Cnd|Number[subj]=Sing|Person[subj]=3	4	cop	4:cop	NormalizedForm=eskia
 4	kuamekat	kuamekat	NOUN	_	Case=Abs	1	advcl	1:advcl	NormalizedForm=kwamekat|SpaceAfter=No

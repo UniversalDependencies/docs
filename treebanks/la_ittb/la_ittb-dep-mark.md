@@ -66,11 +66,11 @@ The following 35 pairs of parts of speech are connected with `mark`: <tt><a href
 2	tantum	tantum	ADV	O4	NumType=Card|PronType=Dem	8	advmod	_	_
 3	ut	ut	SCONJ	O4|vgr1	PronType=Rel	8	mark	_	_
 4	nec	nec	CCONJ	O4	_	8	advmod:emph	_	_
-5	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	6	cop	_	_
+5	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	6	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	falsa	falsus	ADJ	A1|grn1|casM|gen3	Case=Acc|Gender=Neut|InflClass=IndEurA|Number=Plur	9	xcomp	_	_
 7	sit	sum	AUX	N3|modB|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 8	possibile	possibilis	ADJ	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	0	root	_	_
-9	cogitare	cogito	VERB	J3|modH|tem1	Aspect=Imp|InflClass=LatA|Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	cogitare	cogito	VERB	J3|modH|tem1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	8	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~

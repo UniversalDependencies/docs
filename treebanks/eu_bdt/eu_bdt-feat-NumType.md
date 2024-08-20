@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
 4614 tokens (4%) have a non-empty value of `NumType`.
-1030 types (4%) occur at least once with a non-empty value of `NumType`.
+1028 types (4%) occur at least once with a non-empty value of `NumType`.
 717 lemmas (7%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-NUM.html">NUM</a></tt> (3566; 3% instances), <tt><a href="eu_bdt-pos-ADJ.html">ADJ</a></tt> (1048; 1% instances).
 

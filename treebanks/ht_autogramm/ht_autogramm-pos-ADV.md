@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Haitian_Creole-Autogramm: POS Tags: `ADV`
 
-There are 49 `ADV` lemmas (5%), 50 `ADV` types (5%) and 105 `ADV` tokens (3%).
+There are 49 `ADV` lemmas (5%), 50 `ADV` types (5%) and 113 `ADV` tokens (3%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>pa, pi, tou, plis, anpil, la, lontan, ankò, apre, byen</em>
+The 10 most frequent `ADV` lemmas: <em>pa, kote, pi, tou, plis, anpil, la, lontan, ankò, apre</em>
 
-The 10 most frequent `ADV` types:  <em>pa, pi, tou, plis, anpil, la, lontan, Kidonk, Kounyea, ankò</em>
+The 10 most frequent `ADV` types:  <em>pa, kote, pi, tou, plis, anpil, la, lontan, Kidonk, Kounyea</em>
 
-The 10 most frequent ambiguous lemmas: <em>pa</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 31, <tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2), <em>pi</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 2), <em>plis</em> (<tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 4), <em>anpil</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 2), <em>la</em> (<tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 36, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 3), <em>apre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 10, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>depi</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>kidonk</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ht_autogramm-pos-CCONJ.html">CCONJ</a></tt> 1), <em>pase</em> (<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 5, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>toupre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>pa</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 31, <tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2), <em>pi</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 2), <em>plis</em> (<tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 4), <em>anpil</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 2), <em>la</em> (<tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 108, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 3), <em>apre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 10, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>depi</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>kidonk</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ht_autogramm-pos-CCONJ.html">CCONJ</a></tt> 1), <em>pase</em> (<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 5, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>toupre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>pa</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 27, <tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 1), <em>pi</em> (<tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 1), <em>plis</em> (<tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>anpil</em> (<tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>la</em> (<tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> 36, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 3), <em>apre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 10, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>depi</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>pase</em> (<tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> 5, <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 2), <em>toupre</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1), <em>Akoz</em> (<tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> 1)
 
@@ -53,32 +53,32 @@ The 10 most frequent ambiguous types:  <em>pa</em> (<tt><a href="ht_autogramm-po
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.020408 (the average of all parts of speech is 1.018653).
+The form / lemma ratio of `ADV` is 1.020408 (the average of all parts of speech is 1.032770).
 
 The 1st highest number of forms (2) was observed with the lemma “pa”: <em>p, pa</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “Ebyen”: <em>Ebyen</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Kidonk”: <em>Kidonk</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Lè”: <em>Lè</em>.
 
-`ADV` occurs with 1 features: <tt><a href="ht_autogramm-feat-Polarity.html">Polarity</a></tt> (30; 29% instances)
+`ADV` occurs with 2 features: <tt><a href="ht_autogramm-feat-Polarity.html">Polarity</a></tt> (30; 27% instances), <tt><a href="ht_autogramm-feat-PronType.html">PronType</a></tt> (9; 8% instances)
 
-`ADV` occurs with 1 feature-value pairs: `Polarity=Neg`
+`ADV` occurs with 3 feature-value pairs: `Polarity=Neg`, `PronType=Neg`, `PronType=Rel`
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (75 tokens).
+`ADV` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (74 tokens).
 Examples: <em>pi, tou, plis, anpil, la, lontan, Kidonk, Kounyea, ankò, apre</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="ht_autogramm-dep-advmod.html">advmod</a></tt> (99; 94% instances), <tt><a href="ht_autogramm-dep-dep.html">dep</a></tt> (3; 3% instances), <tt><a href="ht_autogramm-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="ht_autogramm-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances), <tt><a href="ht_autogramm-dep-root.html">root</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 6 different relations: <tt><a href="ht_autogramm-dep-advmod.html">advmod</a></tt> (106; 94% instances), <tt><a href="ht_autogramm-dep-dep.html">dep</a></tt> (3; 3% instances), <tt><a href="ht_autogramm-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="ht_autogramm-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="ht_autogramm-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances), <tt><a href="ht_autogramm-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 6 different parts of speech: <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (75; 71% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (16; 15% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> (7; 7% instances), <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (5; 5% instances), <tt><a href="ht_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `ADV` nodes belong to 6 different parts of speech: <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (82; 73% instances), <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (17; 15% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="ht_autogramm-pos-INTJ.html">INTJ</a></tt> (1; 1% instances),  (1; 1% instances)
 
-79 (75%) `ADV` nodes are leaves.
+86 (76%) `ADV` nodes are leaves.
 
-20 (19%) `ADV` nodes have one child.
+21 (19%) `ADV` nodes have one child.
 
 3 (3%) `ADV` nodes have two children.
 
@@ -86,7 +86,7 @@ Parents of `ADV` nodes belong to 6 different parts of speech: <tt><a href="ht_au
 
 The highest child degree of a `ADV` node is 8.
 
-Children of `ADV` nodes are attached using 14 different relations: <tt><a href="ht_autogramm-dep-obj.html">obj</a></tt> (10; 24% instances), <tt><a href="ht_autogramm-dep-ccomp.html">ccomp</a></tt> (6; 15% instances), <tt><a href="ht_autogramm-dep-punct.html">punct</a></tt> (6; 15% instances), <tt><a href="ht_autogramm-dep-dep.html">dep</a></tt> (5; 12% instances), <tt><a href="ht_autogramm-dep-aux.html">aux</a></tt> (3; 7% instances), <tt><a href="ht_autogramm-dep-advmod.html">advmod</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-advcl-cleft.html">advcl:cleft</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-obl-mod.html">obl:mod</a></tt> (1; 2% instances)
+Children of `ADV` nodes are attached using 14 different relations: <tt><a href="ht_autogramm-dep-obj.html">obj</a></tt> (10; 24% instances), <tt><a href="ht_autogramm-dep-ccomp.html">ccomp</a></tt> (7; 17% instances), <tt><a href="ht_autogramm-dep-punct.html">punct</a></tt> (6; 14% instances), <tt><a href="ht_autogramm-dep-dep.html">dep</a></tt> (5; 12% instances), <tt><a href="ht_autogramm-dep-aux.html">aux</a></tt> (3; 7% instances), <tt><a href="ht_autogramm-dep-advmod.html">advmod</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-advcl-cleft.html">advcl:cleft</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-dep-obl-mod.html">obl:mod</a></tt> (1; 2% instances)
 
-Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (12; 29% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (8; 20% instances), <tt><a href="ht_autogramm-pos-PUNCT.html">PUNCT</a></tt> (6; 15% instances), <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (5; 12% instances), <tt><a href="ht_autogramm-pos-AUX.html">AUX</a></tt> (4; 10% instances), <tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
+Children of `ADV` nodes belong to 9 different parts of speech: <tt><a href="ht_autogramm-pos-NOUN.html">NOUN</a></tt> (12; 29% instances), <tt><a href="ht_autogramm-pos-VERB.html">VERB</a></tt> (9; 21% instances), <tt><a href="ht_autogramm-pos-PUNCT.html">PUNCT</a></tt> (6; 14% instances), <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (5; 12% instances), <tt><a href="ht_autogramm-pos-AUX.html">AUX</a></tt> (4; 10% instances), <tt><a href="ht_autogramm-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ht_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances)
 

@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><
 1	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	3	nsubj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	Renaud	Renaud	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
-4	van	Van	PROPN	_	Foreign=Yes	3	flat:name	_	Lang=en
+4	van	Van	PROPN	_	_	3	flat:name	_	_
 5	Ruymbeke	Ruymbeke	PROPN	_	_	3	flat:name	_	_
 6	qui	qui	PRON	_	PronType=Rel	7	nsubj	_	_
 7	reprendra	reprendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	advcl:cleft	_	_

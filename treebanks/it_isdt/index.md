@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Alessandro Lenci, Simonetta Montemagni, Maria Simi.
 
 Repository: [UD_Italian-ISDT](https://github.com/UniversalDependencies/UD_Italian-ISDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_isdt214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -79,11 +79,11 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 
 
 <ul>
-<li>This corpus contains 14167 sentences, 278423 tokens and 298337 syntactic words.</li>
+<li>This corpus contains 14167 sentences, 278424 tokens and 298338 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 39870 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 39871 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,7 +91,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
 </ul>
 
 <ul>
-<li>This corpus contains 209 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', es., Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W.</li>
+<li>This corpus contains 208 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., n., quest’, e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', es., Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W.</li>
 </ul>
 
 <ul>
@@ -265,7 +265,6 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>Def
     <ul>
       <li>DET: il, la, i, l', le, gli, lo, l’, the, les</li>
-      <li>PRON: le</li>
     </ul>
   </li>
 </ul>
@@ -425,7 +424,6 @@ We wish to thank all of the contributors to the original annotation efforts, as 
   <li>Art
     <ul>
       <li>DET: il, la, i, l', le, un, gli, una, lo, un'</li>
-      <li>PRON: le</li>
     </ul>
   </li>
 </ul>
@@ -606,7 +604,7 @@ We wish to thank all of the contributors to the original annotation efforts, as 
         <ul>
           <li>NOUN: Award</li>
           <li>PROPN: Les, Nobody, barbares, knows</li>
-          <li>X: de, Illusions, perdues, la, ad, home, the, Come, Damage, Ecce</li>
+          <li>X: Illusions, de, perdues, la, ad, home, the, Come, Damage, Ecce</li>
         </ul>
       </li>
     </ul>
@@ -644,15 +642,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3772)</li>
+      <li>VERB-Fin--NOUN (3773)</li>
       <li>VERB-Fin--PRON (1881)</li>
       <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>
-      <li>VERB-Inf--NOUN (611)</li>
+      <li>VERB-Inf--NOUN (605)</li>
       <li>VERB-Inf--PRON (187)</li>
       <li>VERB-Part--NOUN (1299)</li>
       <li>VERB-Part--NOUN-ADP(di) (1)</li>
-      <li>VERB-Part--PRON (559)</li>
+      <li>VERB-Part--PRON (560)</li>
     </ul>
   </li>
 </ul>
@@ -660,14 +658,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3532)</li>
-      <li>VERB-Fin--PRON (778)</li>
-      <li>VERB-Ger--NOUN (360)</li>
+      <li>VERB-Fin--NOUN (3541)</li>
+      <li>VERB-Fin--PRON (777)</li>
+      <li>VERB-Ger--NOUN (361)</li>
       <li>VERB-Ger--PRON (53)</li>
-      <li>VERB-Inf--NOUN (2879)</li>
+      <li>VERB-Inf--NOUN (2877)</li>
       <li>VERB-Inf--NOUN-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON (450)</li>
-      <li>VERB-Part--NOUN (1334)</li>
+      <li>VERB-Inf--PRON (452)</li>
+      <li>VERB-Part--NOUN (1337)</li>
       <li>VERB-Part--PRON (317)</li>
     </ul>
   </li>

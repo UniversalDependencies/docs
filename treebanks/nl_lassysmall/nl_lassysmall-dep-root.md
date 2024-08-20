@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7341 nodes (7%) are attached to their parents as `root`.
+17120 nodes (6%) are attached to their parents as `root`.
 
-7341 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.14507560277891.
+17120 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.53382009345794.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (3341; 46% instances), -<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1681; 23% instances), -<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1345; 18% instances), -<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (536; 7% instances), -<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (226; 3% instances), -<tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (92; 1% instances), -<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (61; 1% instances), -<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (39; 1% instances), -<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (10; 0% instances), -<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (7; 0% instances), -<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (10861; 63% instances), -<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (2927; 17% instances), -<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1570; 9% instances), -<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (683; 4% instances), -<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (653; 4% instances), -<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (121; 1% instances), -<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (76; 0% instances), -<tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (69; 0% instances), -<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (68; 0% instances), -<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (59; 0% instances), -<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (31; 0% instances), -<tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

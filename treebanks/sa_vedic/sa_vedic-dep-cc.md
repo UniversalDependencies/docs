@@ -8,41 +8,38 @@ udver: '2'
 
 This relation is universal.
 
-635 nodes (2%) are attached to their parents as `cc`.
+4196 nodes (2%) are attached to their parents as `cc`.
 
-506 instances of `cc` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18582677165354.
+3107 instances of `cc` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31673021925643.
 
-The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (406; 64% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (62; 10% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (41; 6% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (39; 6% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (27; 4% instances), <tt><a href="sa_vedic-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (12; 2% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="sa_vedic-pos-PART.html">PART</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-DET.html">DET</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `cc`: <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (2234; 53% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (833; 20% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (451; 11% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (162; 4% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (146; 3% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (87; 2% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (80; 2% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (53; 1% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (44; 1% instances), <tt><a href="sa_vedic-pos-PART.html">PART</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (28; 1% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="sa_vedic-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sa_vedic-pos-ADP.html">ADP</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="sa_vedic-pos-PART.html">PART</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sa_vedic-pos-AUX.html">AUX</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sa_vedic-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="sa_vedic-pos-ADP.html">ADP</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-DET.html">DET</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 cc	color:blue
-1	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	4	det	_	_
-2	rajani	rajanī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	3	vocative	_	_
-3	rajaya	rajay	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
-4	kilāsam	kilāsa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
-5	palitam	palita	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
-6	ca	ca	CCONJ	_	_	5	cc	_	_
-7	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 cc	color:blue
+1	śāle	śāla	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	LemmaId=132454|OccId=4794307|Unsandhied=śāle|Annotator=Au
+2	ca	ca	CCONJ	_	_	1	cc	_	LemmaId=157144|OccId=4794308|Unsandhied=ca|Annotator=Au|Punctuation=fullStop
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 cc	color:blue
-1	juhota	hu	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	_
-2	pra	pra	ADV	_	_	4	advmod	_	_
-3	ca	ca	CCONJ	_	_	4	cc	_	_
-4	tiṣṭhata	sthā	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	1	conj	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 cc	color:blue
+1	tris	tris	ADV	_	_	3	advmod	_	LemmaId=84415|OccId=4803407|Unsandhied=tris|Annotator=Sv
+2	kārayamāṇam	kāray	VERB	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	obj	_	LemmaId=157688|OccId=4803408|Unsandhied=kārayamāṇam|Annotator=Au
+3	ācāmayati	ācāmay	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=169274|OccId=4803409|Unsandhied=ācāmayati|Annotator=Au
+4	ca	ca	CCONJ	_	_	3	cc	_	LemmaId=157144|OccId=4803410|Unsandhied=ca|Annotator=Au
+5	samprokṣati	samprokṣ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	LemmaId=165567|OccId=4803493|Unsandhied=samprokṣati|Annotator=Au
+6	ca	ca	CCONJ	_	_	5	cc	_	LemmaId=157144|OccId=4803411|Unsandhied=ca|Annotator=Au|Punctuation=fullStop
 
 ~~~
 
@@ -53,18 +50,14 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
-1	amūḥ	adas	PRON	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	yāḥ	yad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	1	det	_	_
-3	upa	upa	ADV	_	_	4	case	_	_
-4	sūrye	sūrya	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	9	acl	_	_
-5	yābhiḥ	yad	PRON	_	Case=Ins|Gender=Fem|Number=Plur	4	conj	_	_
-6	vā	vā	CCONJ	_	_	5	cc	_	_
-7	sūryaḥ	sūrya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-8	saha	saha	ADV	_	_	5	case	_	_
-9	tāḥ	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	11	nsubj	_	_
-10	naḥ	mad	PRON	_	Case=Gen|Number=Plur	12	nmod	_	_
-11	hinvantu	hi	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-12	adhvaram	adhvara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+1	tām	tad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	8	iobj	_	LemmaId=37875|OccId=2772879|Unsandhied=tām|Annotator=Ol
+2	apareṇa	apareṇa	ADV	_	_	3	case	_	LemmaId=222960|OccId=5078088|Unsandhied=apareṇa|Annotator=Au
+3	agnim	agni	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl:lmod	_	LemmaId=5705|OccId=5078089|Unsandhied=agnim|Annotator=Au
+4	prāñcam	prāñc	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	1	acl	_	LemmaId=166382|OccId=2772882|Unsandhied=prāñcam|Annotator=Ol
+5	udañcam	udañc	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	LemmaId=166381|OccId=2772883|Unsandhied=udañcam|Annotator=Au
+6	_	vā	CCONJ	_	_	5	cc	_	LemmaId=75765|OccId=2772884|Unsandhied=_|Annotator=Au
+7	viṣṇukramān	viṣṇukrama	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	LemmaId=139062|OccId=2772885|Unsandhied=viṣṇukramān|Annotator=Au
+8	krāmayati	krāmay	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=170266|OccId=2772886|Unsandhied=krāmayati|Annotator=Au|Punctuation=fullStop
 
 ~~~
 

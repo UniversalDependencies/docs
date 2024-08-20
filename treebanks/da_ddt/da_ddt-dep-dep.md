@@ -51,7 +51,7 @@ The following 34 pairs of parts of speech are connected with `dep`: <tt><a href=
 5	hendes	hendes	DET	_	Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	kredse	kreds	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	10	nsubj	_	_
 7	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
-8	ikke	ikke	ADV	_	_	10	advmod	_	_
+8	ikke	ikke	ADV	Polarity=Neg	_	10	advmod	_	_
 9	mine	min	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	kredse	kreds	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	3	dep	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_

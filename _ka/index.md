@@ -61,9 +61,9 @@ Nominals may also contain the following typical function word dependents:
 * Adpositions attach to the head of the nominal with the `case` relation.
 
 ~~~ sdparse
-მეცხრე ცაზე
+მეცხრე ცა ზე
 nummod(ცა-2, მეცხრე-1)
-case(ცა-2, ზე-3)
+case(ზე-3, ცა-2)
 ~~~ 
 
 ---

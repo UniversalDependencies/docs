@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6 5 compound	color:blue
 1	Nato	Nato	PROPN	PM|NOM	Case=Nom	0	root	0:root	SpaceAfter=No
 2	:	:	PUNCT	MID	_	1	punct	1:punct	_
-3	North	North	ADJ	JJ	_	4	amod	4:amod	_
+3	North	North	ADJ	JJ	Degree=Pos|Foreign=Yes	4	amod	4:amod	Lang=en
 4	Atlantic	Atlantic	PROPN	PM|NOM	Case=Nom	5	compound	5:compound	_
 5	Treaty	Treaty	NOUN	NN	_	6	compound	6:compound	_
 6	Organization	Organization	NOUN	NN	_	1	appos	1:appos	_
@@ -61,13 +61,13 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 5 4 compound	color:blue
 1	Efta	Efta	PROPN	PM|NOM	Case=Nom	0	root	0:root	SpaceAfter=No
 2	:	:	PUNCT	MID	_	1	punct	1:punct	_
-3	European	European	ADJ	JJ	_	6	amod	6:amod	_
-4	Free	Free	ADJ	JJ	_	5	compound	5:compound	_
+3	European	European	ADJ	JJ	Degree=Pos|Foreign=Yes	6	amod	6:amod	Lang=en
+4	Free	Free	ADJ	JJ	Degree=Pos|Foreign=Yes	5	compound	5:compound	Lang=en
 5	Trade	Trade	NOUN	NN	_	6	compound	6:compound	_
 6	Association	Association	NOUN	NN	_	1	appos	1:appos	_
 7	(	(	PUNCT	PAD	_	6	punct	6:punct	SpaceAfter=No
-8	Den	en	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	10	det	10:det	_
-9	europeiska	europeisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	10	amod	10:amod	_
+8	Den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	10	det	10:det	_
+9	europeiska	europeisk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	10	amod	10:amod	_
 10	frihandelssammanslutningen	frihandelssammanslutning	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	appos	6:appos	SpaceAfter=No
 11	)	)	PUNCT	PAD	_	6	punct	6:punct	_
 

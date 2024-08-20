@@ -22,14 +22,14 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 vocative	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_19.7
-2	יֹּאמַ֑ר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_19.7
-3	אַל	אל	ADV	nega	Polarity=Neg	8	advmod	_	Ref=GEN_19.7|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_19.7
+2	יֹּאמַ֑ר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_19.7
+3	אַל	אל	ADV	nega	Polarity=Neg	8	advmod	_	Gloss=not|Ref=GEN_19.7|SpaceAfter=No
 4	־	־	PUNCT	punct	_	3	punct	_	Ref=GEN_19.7|SpaceAfter=No
-5	נָ֥א	נא	INTJ	intj	_	8	discourse	_	Ref=GEN_19.7
-6	אַחַ֖	אח	NOUN	subs	Gender=Masc|Number=Plur	8	vocative	_	Ref=GEN_19.7
+5	נָ֥א	נא	INTJ	intj	_	8	discourse	_	Gloss=yeah|Ref=GEN_19.7
+6	אַחַ֖	אח	NOUN	subs	Gender=Masc|Number=Plur	8	vocative	_	Gloss=brother|Ref=GEN_19.7
 7	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Ref=GEN_19.7
-8	תָּרֵֽעוּ	רעע	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Ref=GEN_19.7|SpaceAfter=No
+8	תָּרֵֽעוּ	רעע	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=be evil|Ref=GEN_19.7|SpaceAfter=No
 9	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_19.7
 
 ~~~
@@ -41,11 +41,11 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 vocative	color:blue
-1	לִֽ	ל	ADP	prep	_	2	case	_	Ref=GEN_49.18
+1	לִֽ	ל	ADP	prep	_	2	case	_	Gloss=to|Ref=GEN_49.18
 2	ישׁוּעָתְ	ישׁועה	NOUN	subs	Gender=Fem|Number=Sing	4	obl	_	Gloss=salvation|Ref=GEN_49.18
 3	ךָ֖	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nmod:poss	_	Ref=GEN_49.18
-4	קִוִּ֥יתִי	קוה	VERB	verb	Aspect=Perf|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Ref=GEN_49.18
-5	יְהוָֽה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	4	vocative	_	Ref=GEN_49.18|SpaceAfter=No
+4	קִוִּ֥יתִי	קוה	VERB	verb	Aspect=Perf|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	Gloss=wait for|Ref=GEN_49.18
+5	יְהוָֽה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	4	vocative	_	Gloss=YHWH|Ref=GEN_49.18|SpaceAfter=No
 6	׃	׃	PUNCT	punct	_	4	punct	_	Ref=GEN_49.18
 
 ~~~
@@ -57,15 +57,15 @@ The following 10 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 vocative	color:blue
-1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_19.18
-2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_19.18
-3	לֹ֖וט	לוט	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_19.18
-4	אֲלֵ	אל	ADP	prep	_	5	case	_	Ref=GEN_19.18
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_19.18
+2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_19.18
+3	לֹ֖וט	לוט	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Lot|Ref=GEN_19.18
+4	אֲלֵ	אל	ADP	prep	_	5	case	_	Gloss=to|Ref=GEN_19.18
 5	הֶ֑ם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	_	Ref=GEN_19.18
-6	אַל	אל	ADV	nega	Polarity=Neg	2	ccomp	_	Ref=GEN_19.18|SpaceAfter=No
+6	אַל	אל	ADV	nega	Polarity=Neg	2	ccomp	_	Gloss=not|Ref=GEN_19.18|SpaceAfter=No
 7	־	־	PUNCT	punct	_	8	punct	_	Ref=GEN_19.18|SpaceAfter=No
-8	נָ֖א	נא	INTJ	intj	_	6	discourse	_	Ref=GEN_19.18
-9	אֲדֹנָֽ	אדון	NOUN	subs	Gender=Masc|Number=Plur	6	vocative	_	Ref=GEN_19.18
+8	נָ֖א	נא	INTJ	intj	_	6	discourse	_	Gloss=yeah|Ref=GEN_19.18
+9	אֲדֹנָֽ	אדון	NOUN	subs	Gender=Masc|Number=Plur	6	vocative	_	Gloss=lord|Ref=GEN_19.18
 10	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	9	nmod:poss	_	Ref=GEN_19.18
 11	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_19.18
 

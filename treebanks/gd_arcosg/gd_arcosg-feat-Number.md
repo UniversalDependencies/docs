@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 * `Dual` (3; 0% of non-empty `Number`): <em>bhois, bhròig, cuidhean</em>
 * `Plur` (2083; 15% of non-empty `Number`): <em>daoine, dhaoine, cluicheadairean, rudan, h-Astràilianaich, h-eileanan, beathaichean, mionaidean, bliadhnaichean, cùisean</em>
 * `Sing` (11526; 85% of non-empty `Number`): <em>duine, fear, fhios, taobh, rud, latha, àite, bliadhna, buille, taigh</em>
-* `EMPTY` (5249): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
+* `EMPTY` (5224): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
 
 <table>
   <tr><th>Paradigm <i>duine</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Dual` (1; 0% of non-empty `Number`): <em>bhuig</em>
 * `Plur` (335; 23% of non-empty `Number`): <em>eile, ùra, beaga, mòra, móra, dùthchail, annasach, làidir, Èireannach, ionadail</em>
 * `Sing` (1123; 77% of non-empty `Number`): <em>eile, ùr, beag, mhòr, mòr, math, àrd, ghoirid, òg, mór</em>
-* `EMPTY` (1958): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1962): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -111,13 +111,13 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-det.html">det</a></tt>]--> DET</tt> (4525; 88%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1964; 65%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1279; 67%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (412; 70%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1966; 65%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1280; 67%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (414; 70%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>]--> DET</tt> (388; 67%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (155; 61%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (64; 62%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (65; 63%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-xcomp-pred.html">xcomp:pred</a></tt>]--> PRON</tt> (55; 51%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (39; 54%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (39; 55%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-compound.html">compound</a></tt>]--> NOUN</tt> (19; 100%).
 

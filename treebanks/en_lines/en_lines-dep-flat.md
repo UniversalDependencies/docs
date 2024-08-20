@@ -72,7 +72,7 @@ The following 19 pairs of parts of speech are connected with `flat`: <tt><a href
 2	adults	adult	NOUN	PL-NOM	Number=Plur	3	nsubj	_	_
 3	had	have	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	what	what	PRON	WH	PronType=Int	7	obj	_	_
-5	my	I	PRON	P1SG-GEN	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
+5	my	my	PRON	P1SG-GEN	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	_
 6	father	father	NOUN	SG-NOM	Number=Sing	7	nsubj	_	_
 7	called	call	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 8	a	a	DET	IND-SG	Definite=Ind|PronType=Art	10	det	_	_

@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	mesye	mesye	NOUN	_	_	4	vocative	_	Gloss=monsieur|SpaceAfter=No
 7	,"	,"	PUNCT	_	_	4	punct	_	_
 8	klas	klas	NOUN	_	_	10	nsubj	_	Gloss=classe
-9	la	la	DET	_	Definite=Def|Number=Sing	8	det	_	Gloss=la
+9	la	la	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	Gloss=le
 10	reponn	reponn	VERB	_	_	0	root	_	Gloss=répondre|SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 

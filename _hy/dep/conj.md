@@ -67,4 +67,4 @@ punct(vici, ,-11)
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
 Note that the present conversion procedure loses some annotations of shared modifiers and nested
 coordination.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:40 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:58 CEST -->

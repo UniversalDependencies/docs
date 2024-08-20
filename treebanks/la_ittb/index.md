@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Marinella Testori, Daniel Zeman, Berta González Saavedra, Flavio Massimiliano Cecchini.
 
 Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -106,7 +106,7 @@ year = {2010}
 
 ## Relations
 
-[acl](la_ittb-dep-acl.html) – [acl:relcl](la_ittb-dep-acl-relcl.html) – [advcl](la_ittb-dep-advcl.html) – [advcl:abs](la_ittb-dep-advcl-abs.html) – [advcl:cmp](la_ittb-dep-advcl-cmp.html) – [advcl:pred](la_ittb-dep-advcl-pred.html) – [advcl:relcl](la_ittb-dep-advcl-relcl.html) – [advmod](la_ittb-dep-advmod.html) – [advmod:emph](la_ittb-dep-advmod-emph.html) – [advmod:lmod](la_ittb-dep-advmod-lmod.html) – [advmod:neg](la_ittb-dep-advmod-neg.html) – [advmod:tmod](la_ittb-dep-advmod-tmod.html) – [amod](la_ittb-dep-amod.html) – [appos](la_ittb-dep-appos.html) – [aux](la_ittb-dep-aux.html) – [aux:pass](la_ittb-dep-aux-pass.html) – [case](la_ittb-dep-case.html) – [cc](la_ittb-dep-cc.html) – [ccomp](la_ittb-dep-ccomp.html) – [ccomp:relcl](la_ittb-dep-ccomp-relcl.html) – [ccomp:reported](la_ittb-dep-ccomp-reported.html) – [compound](la_ittb-dep-compound.html) – [conj](la_ittb-dep-conj.html) – [conj:expl](la_ittb-dep-conj-expl.html) – [cop](la_ittb-dep-cop.html) – [cop:outer](la_ittb-dep-cop-outer.html) – [csubj](la_ittb-dep-csubj.html) – [csubj:cleft](la_ittb-dep-csubj-cleft.html) – [csubj:pass](la_ittb-dep-csubj-pass.html) – [csubj:relcl](la_ittb-dep-csubj-relcl.html) – [csubj:reported](la_ittb-dep-csubj-reported.html) – [det](la_ittb-dep-det.html) – [discourse](la_ittb-dep-discourse.html) – [dislocated:advcl](la_ittb-dep-dislocated-advcl.html) – [dislocated:ccomp](la_ittb-dep-dislocated-ccomp.html) – [dislocated:csubj](la_ittb-dep-dislocated-csubj.html) – [dislocated:nsubj](la_ittb-dep-dislocated-nsubj.html) – [dislocated:obl](la_ittb-dep-dislocated-obl.html) – [fixed](la_ittb-dep-fixed.html) – [flat](la_ittb-dep-flat.html) – [mark](la_ittb-dep-mark.html) – [nmod](la_ittb-dep-nmod.html) – [nsubj](la_ittb-dep-nsubj.html) – [nsubj:outer](la_ittb-dep-nsubj-outer.html) – [nsubj:pass](la_ittb-dep-nsubj-pass.html) – [nummod](la_ittb-dep-nummod.html) – [obj](la_ittb-dep-obj.html) – [obl](la_ittb-dep-obl.html) – [obl:agent](la_ittb-dep-obl-agent.html) – [obl:arg](la_ittb-dep-obl-arg.html) – [obl:lmod](la_ittb-dep-obl-lmod.html) – [obl:tmod](la_ittb-dep-obl-tmod.html) – [orphan](la_ittb-dep-orphan.html) – [parataxis](la_ittb-dep-parataxis.html) – [parataxis:rep](la_ittb-dep-parataxis-rep.html) – [punct](la_ittb-dep-punct.html) – [reparandum](la_ittb-dep-reparandum.html) – [root](la_ittb-dep-root.html) – [vocative](la_ittb-dep-vocative.html) – [xcomp](la_ittb-dep-xcomp.html)
+[acl](la_ittb-dep-acl.html) – [acl:relcl](la_ittb-dep-acl-relcl.html) – [advcl](la_ittb-dep-advcl.html) – [advcl:abs](la_ittb-dep-advcl-abs.html) – [advcl:cmp](la_ittb-dep-advcl-cmp.html) – [advcl:pred](la_ittb-dep-advcl-pred.html) – [advcl:relcl](la_ittb-dep-advcl-relcl.html) – [advmod](la_ittb-dep-advmod.html) – [advmod:emph](la_ittb-dep-advmod-emph.html) – [advmod:lmod](la_ittb-dep-advmod-lmod.html) – [advmod:neg](la_ittb-dep-advmod-neg.html) – [advmod:tmod](la_ittb-dep-advmod-tmod.html) – [amod](la_ittb-dep-amod.html) – [appos](la_ittb-dep-appos.html) – [aux](la_ittb-dep-aux.html) – [aux:pass](la_ittb-dep-aux-pass.html) – [case](la_ittb-dep-case.html) – [cc](la_ittb-dep-cc.html) – [ccomp](la_ittb-dep-ccomp.html) – [ccomp:relcl](la_ittb-dep-ccomp-relcl.html) – [ccomp:reported](la_ittb-dep-ccomp-reported.html) – [compound](la_ittb-dep-compound.html) – [conj](la_ittb-dep-conj.html) – [conj:expl](la_ittb-dep-conj-expl.html) – [cop](la_ittb-dep-cop.html) – [cop:outer](la_ittb-dep-cop-outer.html) – [csubj](la_ittb-dep-csubj.html) – [csubj:cleft](la_ittb-dep-csubj-cleft.html) – [csubj:pass](la_ittb-dep-csubj-pass.html) – [csubj:relcl](la_ittb-dep-csubj-relcl.html) – [csubj:reported](la_ittb-dep-csubj-reported.html) – [det](la_ittb-dep-det.html) – [discourse](la_ittb-dep-discourse.html) – [dislocated:advcl](la_ittb-dep-dislocated-advcl.html) – [dislocated:ccomp](la_ittb-dep-dislocated-ccomp.html) – [dislocated:csubj](la_ittb-dep-dislocated-csubj.html) – [dislocated:nsubj](la_ittb-dep-dislocated-nsubj.html) – [dislocated:obl](la_ittb-dep-dislocated-obl.html) – [fixed](la_ittb-dep-fixed.html) – [flat](la_ittb-dep-flat.html) – [mark](la_ittb-dep-mark.html) – [nmod](la_ittb-dep-nmod.html) – [nsubj](la_ittb-dep-nsubj.html) – [nsubj:outer](la_ittb-dep-nsubj-outer.html) – [nsubj:pass](la_ittb-dep-nsubj-pass.html) – [nummod](la_ittb-dep-nummod.html) – [obj](la_ittb-dep-obj.html) – [obl](la_ittb-dep-obl.html) – [obl:agent](la_ittb-dep-obl-agent.html) – [obl:arg](la_ittb-dep-obl-arg.html) – [obl:cmp](la_ittb-dep-obl-cmp.html) – [obl:lmod](la_ittb-dep-obl-lmod.html) – [obl:tmod](la_ittb-dep-obl-tmod.html) – [orphan](la_ittb-dep-orphan.html) – [parataxis](la_ittb-dep-parataxis.html) – [parataxis:rep](la_ittb-dep-parataxis-rep.html) – [punct](la_ittb-dep-punct.html) – [reparandum](la_ittb-dep-reparandum.html) – [root](la_ittb-dep-root.html) – [vocative](la_ittb-dep-vocative.html) – [xcomp](la_ittb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -572,7 +572,6 @@ year = {2010}
   <li>Fut
     <ul>
       <li>AUX-Fin: erit, erunt, fuerit, fuerint, erimus, ero, eris, estote, eritis, esto</li>
-      <li>AUX-Inf: fore</li>
       <li>VERB-Fin: poterit, sequetur, oportebit, dicetur, habebit, ostendetur, remanebit, resurgent, resurget, apparebit</li>
     </ul>
   </li>
@@ -582,9 +581,7 @@ year = {2010}
   <li>Past
     <ul>
       <li>AUX-Fin: esset, fuit, erat, essent, fuerit, fuerunt, erant, fuerint, eram, essemus</li>
-      <li>AUX-Inf: fuisse</li>
       <li>VERB-Fin: posset, dixit, posuerunt, sequeretur, oportuit, dedit, posuit, dicebant, dixerunt, haberet</li>
-      <li>VERB-Inf: descendisse, creasse, processisse, extitisse, peccasse, fecisse, habuisse, praeextitisse, apparuisse, dixisse</li>
     </ul>
   </li>
 </ul>
@@ -602,9 +599,7 @@ year = {2010}
   <li>Pres
     <ul>
       <li>AUX-Fin: est, sit, sunt, sint, sum, sumus, estis, es, simus, sim</li>
-      <li>AUX-Inf: esse</li>
       <li>VERB-Fin: potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</li>
-      <li>VERB-Inf: intelligere, dici, fieri, habere, facere, dicere, uelle, agere, intelligi, moueri</li>
     </ul>
   </li>
 </ul>
@@ -995,9 +990,9 @@ year = {2010}
       </li>
       <li>LatAnom
         <ul>
-          <li>AUX: est, sit, sunt, esset, sint, erit, fuit, essendi, erat, fuerit</li>
+          <li>AUX: est, esse, sit, sunt, esset, sint, erit, fuit, essendi, erat</li>
           <li>AUX-Fin: est, sit, sunt, esset, sint, erit, fuit, erat, fuerit, essent</li>
-          <li>AUX-Inf: esse</li>
+          <li>AUX-Inf: esse, fuisse, fore</li>
           <li>AUX-Part: essendi, essendo, ens, futura, futuram, futurum, entia, futuri, futuris, futuro</li>
           <li>PRON: se, nobis, sibi, nos, ego, me, sui, uobis, te, mihi</li>
           <li>VERB-Fin: potest, possunt, possit, uult, posset, poterit, inest, differt, possumus, uelit</li>
@@ -1281,7 +1276,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 30 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>cop:outer</a>, <a>csubj:cleft</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>csubj:reported</a>, <a>dislocated:advcl</a>, <a>dislocated:ccomp</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obl</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>parataxis:rep</a></li>
+<li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advcl:relcl</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:relcl</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>cop:outer</a>, <a>csubj:cleft</a>, <a>csubj:pass</a>, <a>csubj:relcl</a>, <a>csubj:reported</a>, <a>dislocated:advcl</a>, <a>dislocated:ccomp</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obl</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:tmod</a>, <a>parataxis:rep</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>dislocated</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

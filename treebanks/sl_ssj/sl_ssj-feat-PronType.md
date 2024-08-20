@@ -55,9 +55,10 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="sl_ssj-dep-advmod.html">advmod</a></tt>]--> DET</tt> (25; 89%),
 <tt>DET --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> DET</tt> (17; 100%),
-<tt>PRON --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> PRON</tt> (13; 93%),
-<tt>PRON --[<tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (5; 100%),
+<tt>PRON --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> PRON</tt> (12; 92%),
 <tt>PRON --[<tt><a href="sl_ssj-dep-list.html">list</a></tt>]--> PRON</tt> (4; 100%),
+<tt>PRON --[<tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (4; 100%),
 <tt>DET --[<tt><a href="sl_ssj-dep-parataxis.html">parataxis</a></tt>]--> DET</tt> (2; 67%),
+<tt>PRON --[<tt><a href="sl_ssj-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="sl_ssj-dep-orphan.html">orphan</a></tt>]--> DET</tt> (1; 100%).
 

@@ -22,13 +22,13 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 orphan	color:blue
-1	Onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	NormalizedForm=Onkak
+1	Onkak	onka	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=Onkak
 2	eyi	eyi	NUM	_	_	3	nummod	3:nummod	NormalizedForm=eyi
 3	taman	taman	NOUN	_	Case=Abs	1	nsubj	1:nsubj	NormalizedForm=taman|SpaceAfter=No
 4	:	:	PUNCT	_	_	7	punct	7:punct	NormalizedForm=:
 5	se	se	NUM	_	_	6	nummod	6:nummod	NormalizedForm=se
 6	taman	taman	NOUN	_	Case=Abs	7	iobj	7:iobj	NormalizedForm=taman
-7	kiluiaj	ilhuia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	parataxis	1:parataxis	NormalizedForm=kilwiah|Number[iobj]=Sing|Person[iobj]=3
+7	kiluiaj	ilhuia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	NormalizedForm=kilwiah|Number[iobj]=Sing|Person[iobj]=3
 8	xokoyolin	xokoyolin	NOUN	_	Case=Abs	7	obj	7:obj	NormalizedForm=xokoyolin|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,
 10	se	se	NUM	_	_	11	nummod	11:nummod	NormalizedForm=se
@@ -48,13 +48,13 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 15 orphan	color:blue
-1	Onkak	onka	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	NormalizedForm=Onkak
+1	Onkak	onka	VERB	_	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=Onkak
 2	eyi	eyi	NUM	_	_	3	nummod	3:nummod	NormalizedForm=eyi
 3	taman	taman	NOUN	_	Case=Abs	1	nsubj	1:nsubj	NormalizedForm=taman|SpaceAfter=No
 4	:	:	PUNCT	_	_	7	punct	7:punct	NormalizedForm=:
 5	se	se	NUM	_	_	6	nummod	6:nummod	NormalizedForm=se
 6	taman	taman	NOUN	_	Case=Abs	7	iobj	7:iobj	NormalizedForm=taman
-7	kiluiaj	ilhuia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	parataxis	1:parataxis	NormalizedForm=kilwiah|Number[iobj]=Sing|Person[iobj]=3
+7	kiluiaj	ilhuia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	NormalizedForm=kilwiah|Number[iobj]=Sing|Person[iobj]=3
 8	xokoyolin	xokoyolin	NOUN	_	Case=Abs	7	obj	7:obj	NormalizedForm=xokoyolin|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,
 10	se	se	NUM	_	_	11	nummod	11:nummod	NormalizedForm=se
@@ -75,12 +75,12 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 12	fgColor:white
 # visual-style 12 13 orphan	color:blue
 1	Se	se	PRON	_	_	2	nsubj	2:nsubj	NormalizedForm=Se
-2	kitoka	toka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kitoka
+2	kitoka	toka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kitoka
 3	najnaui	najnahui	NUM	_	_	4	nummod	4:nummod	NormalizedForm=nahnawi|Reduplicated=Yes
 4	et	et	NOUN	_	Case=Abs	2	obj	2:obj	NormalizedForm=et|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 6	seki	seki	PRON	_	_	7	nsubj	7:nsubj	NormalizedForm=seki
-7	kitokaj	toka	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	2	parataxis	2:parataxis	NormalizedForm=kitokah
+7	kitokaj	toka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	2	parataxis	2:parataxis	NormalizedForm=kitokah
 8	enero	enero	NOUN	_	Gender=Masc|Number=Sing	7	obl	7:obl	NormalizedForm=enero|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	10:punct	NormalizedForm=,
 10	febrero	febrero	NOUN	_	Gender=Masc|Number=Sing	8	conj	8:conj	NormalizedForm=febrero|SpaceAfter=No
@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 17	komo	komo	ADV	_	_	18	mark	18:mark	NormalizedForm=komo
 18	milaj	milaj	NOUN	_	Case=Abs	13	advcl	13:advcl	NormalizedForm=milah
 19	hasta	hasta	SCONJ	_	_	20	mark	20:mark	NormalizedForm=hasta
-20	tamimilmeuaj	mimilmehua	VERB	_	Animacy[obj]=Nhum|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	18	advcl	18:advcl	NormalizedForm=tamimilmewah|SpaceAfter=No
+20	tamimilmeuaj	mimilmehua	VERB	_	Animacy[obj]=Nhum|Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	18	advcl	18:advcl	NormalizedForm=tamimilmewah|SpaceAfter=No
 21	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.
 
 ~~~

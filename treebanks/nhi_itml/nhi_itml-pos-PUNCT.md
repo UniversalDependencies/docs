@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.050000 (the average of all parts of speech is 1.458263).
+The form / lemma ratio of `PUNCT` is 1.050000 (the average of all parts of speech is 1.474576).
 
 The 1st highest number of forms (3) was observed with the lemma “.”: <em>., ..., ....</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (2) was observed with the lemma ““”: <em>�
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="nhi_itml-dep-punct.html">punct</a></tt> (1853; 100% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1360; 73% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (170; 9% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (95; 5% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (60; 3% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (56; 3% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (48; 3% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (45; 2% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1358; 73% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (173; 9% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (95; 5% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (60; 3% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (56; 3% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (48; 3% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (45; 2% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 1853 (100%) `PUNCT` nodes are leaves.
 

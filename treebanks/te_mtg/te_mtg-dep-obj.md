@@ -22,11 +22,11 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obj	color:blue
-1	మనం	_	PRON	PRON	_	4	nsubj	_	Translit=manaṁ|LTranslit=_
-2	ఎందుకు	_	ADV	ADV	_	4	advmod	_	Translit=èṁduku|LTranslit=_
-3	అన్నం	_	NOUN	NOUN	_	4	obj	_	Translit=annaṁ|LTranslit=_
-4	తింటాం	_	VERB	VERB	_	0	root	_	Translit=tiṁṭāṁ|LTranslit=_
-5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?|LTranslit=_
+1	మనం	_	PRON	PRON	_	4	nsubj	_	Translit=manaṁ
+2	ఎందుకు	_	ADV	ADV	_	4	advmod	_	Translit=eṁduku
+3	అన్నం	_	NOUN	NOUN	_	4	obj	_	Translit=annaṁ
+4	తింటాం	_	VERB	VERB	_	0	root	_	Translit=tiṁṭāṁ
+5	?	_	PUNCT	PUNCT	_	4	punct	_	Translit=?
 
 ~~~
 
@@ -37,10 +37,10 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obj	color:blue
-1	అతను	_	PRON	PRON	_	3	nsubj	_	Translit=atanu|LTranslit=_
-2	నన్ను	_	PRON	PRON	_	3	obj	_	Translit=nannu|LTranslit=_
-3	వెళ్ళమన్నాడు	_	VERB	VERB	_	0	root	_	Translit=vèḷḷamannāḍu|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
+1	అతను	_	PRON	PRON	_	3	nsubj	_	Translit=atanu
+2	నన్ను	_	PRON	PRON	_	3	obj	_	Translit=nannu
+3	వెళ్ళమన్నాడు	_	VERB	VERB	_	0	root	_	Translit=veḷḷamannāḍu
+4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.
 
 ~~~
 
@@ -51,14 +51,14 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 obj	color:blue
-1	రాము	_	PROPN	PROPN	_	7	nsubj	_	Translit=rāmu|LTranslit=_
-2	నేను	_	PRON	PRON	_	4	nsubj	_	Translit=nenu|LTranslit=_
-3	రేపు	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=repu|LTranslit=_
-4	వెళ్తాను	_	VERB	VERB	_	7	ccomp	_	Translit=vèḷtānu|LTranslit=_
-5	అని	_	SCONJ	SCONJ	_	4	mark	_	Translit=ani|LTranslit=_
-6	కమలతో	_	PROPN	PROPN	_	7	obj	_	Translit=kamalato|LTranslit=_
-7	చెప్పేడు	_	VERB	VERB	_	0	root	_	Translit=cèppeḍu|LTranslit=_
-8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=_
+1	రాము	_	PROPN	PROPN	_	7	nsubj	_	Translit=rāmu
+2	నేను	_	PRON	PRON	_	4	nsubj	_	Translit=nēnu
+3	రేపు	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=rēpu
+4	వెళ్తాను	_	VERB	VERB	_	7	ccomp	_	Translit=veḷtānu
+5	అని	_	SCONJ	SCONJ	_	4	mark	_	Translit=ani
+6	కమలతో	_	PROPN	PROPN	_	7	obj	_	Translit=kamalatō
+7	చెప్పేడు	_	VERB	VERB	_	0	root	_	Translit=ceppēḍu
+8	.	_	PUNCT	PUNCT	_	7	punct	_	Translit=.
 
 ~~~
 

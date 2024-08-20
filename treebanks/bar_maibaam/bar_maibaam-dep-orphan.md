@@ -1,0 +1,104 @@
+---
+layout: base
+title:  'Statistics of orphan in UD_Bavarian-MaiBaam'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Bavarian-MaiBaam: Relations: `orphan`
+
+This relation is universal.
+
+30 nodes (0%) are attached to their parents as `orphan`.
+
+28 instances of `orphan` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.86666666666667.
+
+The following 12 pairs of parts of speech are connected with `orphan`: <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (9; 30% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> (6; 20% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="bar_maibaam-pos-X.html">X</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (2; 7% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt>-<tt><a href="bar_maibaam-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 orphan	color:blue
+1	Do	_	ADV	_	_	9	advmod	_	_
+2	mou	_	AUX	_	_	9	aux	_	_
+3	anejda	_	DET	_	_	9	nsubj	_	_
+4	i	_	ADP	_	_	6	case	_	_
+5	n	_	DET	_	_	6	det	_	_
+6	Ofang	_	NOUN	_	_	9	obl	_	_
+7	s'	_	DET	_	_	8	det	_	SpaceAfter=No
+8	Gleiche	_	ADJ	_	_	9	obj	_	_
+9	eizohln	_	VERB	_	_	0	root	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	12	punct	_	_
+11	z.	_	ADP	_	_	12	case	_	SpaceAfter=No
+12	B.	_	NOUN	_	_	9	conj	_	SpaceAfter=No|CorrectSpaceAfter=Yes
+13	an	_	DET	_	_	14	det	_	_
+14	Eiro	_	NOUN	_	_	12	orphan	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 24 26 orphan	color:blue
+1	I	_	ADP	_	_	4	case	_	_
+2	m	_	DET	_	_	4	det	_	_
+3	18.	_	ADJ	_	_	4	amod	_	_
+4	Joahundat	_	NOUN	_	_	12	obl	_	_
+5	hom	_	AUX	_	_	12	aux	_	_
+6	de	_	DET	_	_	7	det	_	_
+7	Hollända	_	NOUN	_	_	12	nsubj	_	_
+8	in	_	DET	_	_	9	det	_	_
+9	Kafää	_	NOUN	_	_	12	obj	_	_
+10	noch	_	ADP	_	_	11	case	_	_
+11	Surinam	_	PROPN	_	_	12	obl	_	_
+12	brocht	_	VERB	_	_	0	root	_	_
+13	und	_	CCONJ	_	_	15	cc	_	_
+14	de	_	DET	_	_	15	det	_	_
+15	Franzosn	_	NOUN	_	_	7	conj	_	_
+16	noch	_	ADP	_	_	17	case	_	_
+17	Cayenne	_	PROPN	_	_	15	orphan	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	19	punct	_	_
+19	Martinique	_	PROPN	_	_	17	conj	_	_
+20	bzw.	_	CCONJ	_	_	21	cc	_	_
+21	Guadeloupe	_	PROPN	_	_	17	conj	_	_
+22	und	_	CCONJ	_	_	24	cc	_	_
+23	de	_	DET	_	_	24	det	_	_
+24	Portugiesen	_	NOUN	_	_	7	conj	_	_
+25	noch	_	ADP	_	_	26	case	_	_
+26	Brasilien	_	PROPN	_	_	24	orphan	_	SpaceAfter=No
+27	.	_	PUNCT	_	_	12	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 orphan	color:blue
+1	D’	_	DET	_	_	2	det	_	SpaceAfter=No
+2	Maria	_	PROPN	_	_	5	nsubj	_	_
+3	hod	_	AUX	_	_	5	aux	_	_
+4	Bronze	_	NOUN	_	_	5	obj	_	_
+5	gwunna	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	da	_	DET	_	_	8	det	_	_
+8	Bäda	_	PROPN	_	_	5	conj	_	_
+9	Suiba	_	NOUN	_	_	8	orphan	_	_
+10	und	_	CCONJ	_	_	12	cc	_	_
+11	d’	_	DET	_	_	12	det	_	SpaceAfter=No
+12	Jane	_	PROPN	_	_	5	conj	_	_
+13	Goid	_	NOUN	_	_	12	orphan	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+

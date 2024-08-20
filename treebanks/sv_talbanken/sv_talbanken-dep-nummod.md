@@ -54,12 +54,12 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 nummod	color:blue
-1	Publicerad	publicera	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
+1	Publicerad	publicerad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 2	i	i	ADP	PP	_	3	case	3:case	_
 3	Children	Children	PROPN	PM|NOM	Case=Nom	1	obl	1:obl:i	_
 4	1958	1958	NUM	RG|NOM	Case=Nom|NumType=Card	3	nmod	3:nmod	SpaceAfter=No
 5	,	,	PUNCT	MID	_	4	punct	4:punct	_
-6	Vol.	Vol.	NOUN	NN|AN	Abbr=Yes	7	nmod	7:nmod	_
+6	Vol.	volym	NOUN	NN|AN	Abbr=Yes	7	nmod	7:nmod	_
 7	5	5	NUM	RG|NOM	Case=Nom|NumType=Card	4	obl	4:obl	SpaceAfter=No
 8	,	,	PUNCT	MID	_	7	punct	7:punct	_
 9	179-184	179-184	NUM	RG|NOM	Case=Nom|NumType=Card	7	nummod	7:nummod	_

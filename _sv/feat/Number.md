@@ -25,4 +25,4 @@ udver: '2'
 * [sv] _förutsättningar_ "prerequisites"
 * [sv] _några färdigheter_ "some skills"
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:54 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:06 CEST -->

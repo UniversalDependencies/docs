@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10761 nodes (6%) are attached to their parents as `root`.
+12147 nodes (6%) are attached to their parents as `root`.
 
-10761 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.46752160579872.
+12147 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.5106610685766.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (6902; 64% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1527; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (828; 8% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (498; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (409; 4% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (182; 2% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (132; 1% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (125; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (96; 1% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (19; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (16; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (8; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (6; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (6; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (7731; 64% instances), -<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1730; 14% instances), -<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (938; 8% instances), -<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (566; 5% instances), -<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (476; 4% instances), -<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (224; 2% instances), -<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (170; 1% instances), -<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (135; 1% instances), -<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (108; 1% instances), -<tt><a href="en_gum-pos-X.html">X</a></tt> (20; 0% instances), -<tt><a href="en_gum-pos-DET.html">DET</a></tt> (16; 0% instances), -<tt><a href="en_gum-pos-PART.html">PART</a></tt> (10; 0% instances), -<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (9; 0% instances), -<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), -<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Leading	lead	VERB	VBG	VerbForm=Ger	0	root	0:root	Discourse=elaboration-additional:2->1:0:sem-synym-1-2,9|MSeg=Lead-ing
+1	Leading	lead	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Discourse=elaboration-additional:2->1:0:sem-synym-1-2,9|MSeg=Lead-ing
 2	Dutch	Dutch	ADJ	JJ	Degree=Pos	3	amod	3:amod	Entity=(3-person-new-cf2-2-sgl
 3	Librarians	librarian	NOUN	NNS	Number=Plur	1	obj	1:obj	Entity=3)|MSeg=Librari-an-s
 4	into	into	ADP	IN	_	5	case	5:case	MSeg=in-to

@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Polarity'
-shortdef: 'polarity
+shortdef: 'polarity'
 udver: '2'
 ---
 
@@ -38,4 +38,4 @@ particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτ�
 
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:01 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:15 CEST -->

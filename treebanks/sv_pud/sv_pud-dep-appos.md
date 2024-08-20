@@ -27,7 +27,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	per	per	ADP	PP	_	4	case	4:case	_
 4	person	person	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nmod	2:nmod:per	SpaceAfter=No
 5	,	,	PUNCT	MID	_	2	punct	2:punct	_
-6	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing	8	det	8:det	_
+6	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
 7	högsta	hög	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	8	amod	8:amod	_
 8	belopp	belopp	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	appos	2:appos|10:nsubj:pass	_
 9	som	som	PRON	HP|-|-|-	PronType=Int,Rel	10	nsubj:pass	8:ref	_
@@ -48,7 +48,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	försummelse	försummelse	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	_
 4	av	av	ADP	PP	_	7	case	7:case	_
 5	sin	sin	PRON	PS|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|Poss=Yes	7	nmod:poss	7:nmod:poss	_
-6	egen	egen	ADJ	JJ|POS|UTR|SIN|IND/DEF|NOM	Case=Nom|Degree=Pos|Gender=Com|Number=Sing	7	amod	7:amod	_
+6	egen	egen	ADJ	JJ|POS|UTR|SIN|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	7	amod	7:amod	_
 7	hälsa	hälsa	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	nmod	3:nmod:av	SpaceAfter=No
 8	”	”	PUNCT	PAD	_	3	punct	3:punct	SpaceAfter=No
 9	,	,	PUNCT	MID	_	10	punct	10:punct	_
@@ -70,7 +70,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 6 9 appos	color:blue
 1	Hennes	hennes	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes	3	nmod:poss	3:nmod:poss	_
 2	senaste	sen	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	3	amod	3:amod	_
-3	icke-skönlitterära	icke-skönlitterär	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	nsubj	6:nsubj	_
+3	icke-skönlitterära	icke-skönlitterär	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	6	nsubj	6:nsubj	_
 4	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
 5	om	om	ADP	PP	_	6	case	6:case	_
 6	Margaret	Margaret	PROPN	PM|NOM	Case=Nom	0	root	0:root	_

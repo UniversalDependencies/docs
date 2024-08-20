@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>zu</em> (<tt><a href="de_gsd-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.187855).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.187859).
 
 The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 

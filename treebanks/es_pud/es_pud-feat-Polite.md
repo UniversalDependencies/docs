@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (2; 100% of non-empty `Polite`): <em>usted, ustedes</em>
-* `EMPTY` (1056): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
+* `EMPTY` (1055): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
 

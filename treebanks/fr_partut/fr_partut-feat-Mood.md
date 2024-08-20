@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (36; 3% of non-empty `Mood`): <em>cliquez, utilisez, Choisissez, Permettez, saisissez, Ajustez, Approfondissez, Assurez, Atteignez, Bâtissez</em>
 * `Ind` (978; 85% of non-empty `Mood`): <em>a, peut, doit, est, convient, ont, peuvent, fait, pouvez, concerne</em>
 * `Sub` (32; 3% of non-empty `Mood`): <em>ait, permettent, prenne, soit, fonctionne, puissions, accélèrent, agisse, atteigne, clarifie</em>
-* `EMPTY` (1593): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
+* `EMPTY` (1588): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
 
 <table>
   <tr><th>Paradigm <i>permettre</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

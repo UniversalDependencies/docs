@@ -52,7 +52,7 @@ The following 6 pairs of parts of speech are connected with `cop:outer`: <tt><a 
 6	utrum	utrum	SCONJ	r	PronType=Con	13	mark	_	_
 7	ad	ad	ADP	e	_	8	mark	_	_
 8	bene	bene	ADV	r	_	13	advcl	_	_
-9	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	8	cop	_	TraditionalTense=Praesens
+9	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	8	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	mundi	mundus	NOUN	sms2g	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	8	nmod	_	_
 11	Monarchia	monarchia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	13	nsubj	_	_
 12	temporalis	temporalis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	11	amod	_	_
@@ -82,14 +82,14 @@ The following 6 pairs of parts of speech are connected with `cop:outer`: <tt><a 
 11	mala	malus	ADJ	afs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	12	amod	_	_
 12	oppinio	opinio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	0	root	_	SpaceAfter=No
 13	:	:	PUNCT	Pu	_	21	punct	_	_
-14	oppinari	opinor	VERB	vd1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	21	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	oppinari	opinor	VERB	vd1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	21	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	aquam	aqua	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	18	nsubj	_	_
 16	non	non	PART	r	Polarity=Neg	18	advmod:neg	_	_
-17	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	18	cop	_	TraditionalTense=Praesens
+17	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	18	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 18	altiorem	altus	ADJ	afs1ac	Case=Acc|Degree=Cmp|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	14	ccomp	_	_
 19	terra	terra	NOUN	sfs1b	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing	18	obl:cmp	_	_
 20	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-21	contradicere	contradico	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	12	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+21	contradicere	contradico	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	12	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 22	sensui	sensus	NOUN	sms4d	Case=Dat|Gender=Masc|InflClass=IndEurU|Number=Sing	21	obl:arg	_	SpaceAfter=No
 23	;	;	PUNCT	Pu	_	27	punct	_	_
 24	ergo	ergo	ADV	co	AdvType=Loc	27	discourse	_	_

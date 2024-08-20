@@ -8,83 +8,76 @@ udver: '2'
 
 This relation is universal.
 
-449 nodes (3%) are attached to their parents as `advmod`.
+3165 nodes (4%) are attached to their parents as `advmod`.
 
-360 instances of `advmod` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01559020044543.
+2575 instances of `advmod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.91974723538705.
 
-The following 21 pairs of parts of speech are connected with `advmod`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (183; 41% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (154; 34% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (19; 4% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (16; 4% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (15; 3% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (12; 3% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (9; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod	color:blue
-1	եւ	եւ	CCONJ	_	_	4	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-2	նա	նա	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-3	նշանացի	նշանացի	ADV	_	_	4	advmod	_	Translit=nšanacʻi|LTranslit=nšanacʻi|Gloss=by_signs
-4	խաւսէր	խաւսիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=xawsēr|LTranslit=xawsim|Gloss=speak
-5	ընդ	ընդ	ADP	_	_	6	case	_	Translit=ənd|LTranslit=ənd|LId=ընդ-1|Gloss=with/during/for
-6	նոսա	նա	PRON	_	Case=Acc|Number=Plur|PronType=Dem	4	obl	_	SpaceAfter=No|Translit=nosa|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-7	.	.	PUNCT	_	_	9	punct	_	Translit=:|LTranslit=:
-8	եւ	եւ	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-9	կայր	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Translit=kayr|LTranslit=kam|LId=կամ-1|Gloss=stand
-10	պապանձեալ	պապանձիմ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	9	amod	_	SpaceAfter=No|Translit=papanjeal|LTranslit=papanjim|Gloss=silence
-11	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
-
-~~~
+The following 31 pairs of parts of speech are connected with `advmod`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1387; 44% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (983; 31% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (143; 5% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (99; 3% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (88; 3% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (84; 3% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (55; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (51; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (47; 1% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (42; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (38; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (18; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (14; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod	color:blue
-1	Եւ	եւ	CCONJ	_	_	4	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
-2	նոքա	նա	PRON	_	Case=Nom|Number=Plur|PronType=Dem	4	nsubj	_	Translit=nokʻa|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-3	ոչ	ոչ	PART	_	Polarity=Neg	4	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
-4	իմացան	իմանամ	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=imacʻan|LTranslit=imanam|Gloss=know
-5	զ	զ	DET	_	Definite=Def	6	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-6	բան	բան	NOUN	_	Case=Acc|Number=Sing	4	obj	_	SpaceAfter=No|Translit=ban|LTranslit=ban|Gloss=word
-7	ն	ն	DET	_	Definite=Def|PronType=Dem	6	det	_	Translit=n|LTranslit=n|Gloss=that
-8	զ	զ	DET	_	Definite=Def	9	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-9	որ	որ	PRON	_	Case=Acc|Number=Sing|PronType=Rel	10	obj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
-10	խաւսեցաւ	խաւսիմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	acl	_	Translit=xawsecʻaw|LTranslit=xawsim|Gloss=speak
-11	ընդ	ընդ	ADP	_	_	12	case	_	Translit=ənd|LTranslit=ənd|LId=ընդ-1|Gloss=with/during/for
-12	նոսա	նա	PRON	_	Case=Acc|Number=Plur|PronType=Dem	10	obl	_	SpaceAfter=No|Translit=nosa|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-13	:	:	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 advmod	color:blue
-1	Որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=Or|LTranslit=or|LId=որ-1|Gloss=which
-2	ոչ	ոչ	PART	_	Polarity=Neg	5	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
-3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Translit=ē|LTranslit=em|Gloss=be
-4	ընդ	ընդ	ADP	_	_	5	case	_	Translit=ənd|LTranslit=ənd|LId=ընդ-1|Gloss=with/during/for
-5	իս	ես	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	8	csubj	_	SpaceAfter=No|Translit=is|LTranslit=es|Gloss=I
-6	.	.	PUNCT	_	_	5	punct	_	Translit=:|LTranslit=:
-7	հակառակ	հակառակ	ADP	_	_	8	case	_	Translit=hakaṙak|LTranslit=hakaṙak
-8	իմ	ես	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	0	root	_	Translit=im|LTranslit=es|Gloss=I
-9	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	SpaceAfter=No|Translit=ē|LTranslit=em|Gloss=be
-10	՝	՝	PUNCT	_	_	18	punct	_	Translit=;|LTranslit=;
-11	եւ	եւ	CCONJ	_	_	18	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-12	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	14	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
-13	ոչ	ոչ	PART	_	Polarity=Neg	14	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
-14	ժողովէ	ժողովեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	csubj	_	Translit=žołovē|LTranslit=žołovem|Gloss=meet
-15	ընդ	ընդ	ADP	_	_	16	case	_	Translit=ənd|LTranslit=ənd|LId=ընդ-1|Gloss=with/during/for
-16	իս	ես	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	14	obl	_	SpaceAfter=No|Translit=is|LTranslit=es|Gloss=I
-17	.	.	PUNCT	_	_	14	punct	_	Translit=:|LTranslit=:
-18	ցրուէ	ցրուեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	SpaceAfter=No|Translit=cʻrowē|LTranslit=cʻrowem|Gloss=scatter
-19	:	:	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
+# visual-style 5 6 advmod	color:blue
+1	Եւ	եւ	CCONJ	_	_	5	cc	_	Translit=Ew|LTranslit=ew|Gloss=and
+2	իբրեւ	իբրեւ	SCONJ	_	_	3	mark	_	Translit=ibrew|LTranslit=ibrew|LId=իբրեւ-1|Gloss=when
+3	մկրտեցաւ	մկրտեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	advcl	_	Translit=mkrtecʻaw|LTranslit=mkrtem|Gloss=baptize
+4	Յիսուս	Յիսուս	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
+5	ել	ելանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=el|LTranslit=elanem|Gloss=go_out
+6	վաղվաղակի	վաղվաղակի	ADV	_	_	5	advmod	_	Translit=vałvałaki|LTranslit=vałvałaki|Gloss=suddenly
+7	ի	ի	ADP	_	_	8	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
+8	ջրոյ	ջուր	NOUN	_	Case=Abl|Number=Sing	5	obl	_	Translit=ǰroy|LTranslit=ǰowr|Gloss=water
+9	անտի	անտի	ADP	_	Deixis=Remt	8	case	_	SpaceAfter=No|Translit=anti|LTranslit=anti|LId=անտի-1|Gloss=from_there
+10	՝	՝	PUNCT	_	_	5	punct	_	Translit=;|LTranslit=;
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 advmod	color:blue
+1	ամենայն	ամենայն	DET	_	Case=Nom|Number=Sing|PronType=Tot	2	det	_	Translit=amenayn|LTranslit=amenayn|LId=ամենայն-1|Gloss=every
+2	ծառ	ծառ	NOUN	_	Case=Nom|Number=Sing	10	nsubj:pass	_	Translit=caṙ|LTranslit=caṙ|Gloss=tree
+3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
+4	ոչ	ոչ	PART	_	Polarity=Neg	5	advmod	_	Translit=očʻ|LTranslit=očʻ|LId=ոչ-1|Gloss=not
+5	առնիցէ	առնեմ	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	2	acl	_	Translit=aṙnicʻē|LTranslit=aṙnem|Gloss=make
+6	զ	զ	ADP	_	Definite=Def	7	case	_	SpaceAfter=No|Translit=z|LTranslit=z
+7	պտուղ	պտուղ	NOUN	_	Case=Acc|Number=Sing	5	obj	_	Translit=ptowł|LTranslit=ptowł|Gloss=fruit
+8	բարի	բարի	ADJ	_	Case=Acc|Number=Sing	7	amod	_	SpaceAfter=No|Translit=bari|LTranslit=bari|Gloss=good
+9	.	.	PUNCT	_	_	2	punct	_	Translit=:|LTranslit=:
+10	հատանի	հատանեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=hatani|LTranslit=hatanem|Gloss=cut
+11	եւ	եւ	CCONJ	_	_	14	cc	_	Translit=ew|LTranslit=ew|Gloss=and
+12	ի	ի	ADP	_	_	13	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
+13	հուր	հուր	NOUN	_	Case=Acc|Number=Sing	14	obl	_	Translit=howr|LTranslit=howr|Gloss=fire
+14	արկանի	արկանեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	conj	_	SpaceAfter=No|Translit=arkani|LTranslit=arkanem|Gloss=throw
+15	՝	՝	PUNCT	_	_	10	punct	_	Translit=;|LTranslit=;
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 5 advmod	color:blue
+1	մի	մի	PART	_	Polarity=Neg	3	advmod	_	Translit=mi|LTranslit=mi|LId=մի-1|Gloss=don't
+2	եւս	եւս	ADV	_	_	1	advmod	_	Translit=ews|LTranslit=ews|Gloss=even
+3	մեղանչեր	մեղանչեմ	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	Translit=mełančʻer|LTranslit=mełančʻem|Gloss=sin
+4	զի	զի	SCONJ	_	_	10	mark	_	Translit=zi|LTranslit=zi|LId=զի-1|Gloss=because
+5	մի	մի	PART	_	Polarity=Neg	10	advmod	_	Translit=mi|LTranslit=mi|LId=մի-1|Gloss=don't
+6	չար	չար	ADJ	_	Case=Nom|Number=Sing	10	nsubj	_	Translit=čʻar|LTranslit=čʻar|Gloss=evil
+7	եւս	եւս	ADV	_	_	5	advmod	_	Translit=ews|LTranslit=ews|Gloss=even
+8	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Nom|Number=Sing|PronType=Ind	6	nmod	_	Translit=inčʻ|LTranslit=inčʻ|LId=ինչ-1|Gloss=something
+9	լինիցի	լինիմ	AUX	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10	cop	_	Translit=linicʻi|LTranslit=linim|Gloss=be
+10	քեզ	դու	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	3	advcl	_	SpaceAfter=No|Translit=kʻez|LTranslit=dow|Gloss=you_(sg.)
+11	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

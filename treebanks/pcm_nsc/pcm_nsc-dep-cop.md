@@ -23,17 +23,17 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 7 cop	color:blue
 1	#	#	X	_	_	3	dep	_	AlignBegin=233359|AlignEnd=233828|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=233828|AlignEnd=233940|Gloss=NOM.SG.1|Syl1=a|Syl1AlignBegin=233828|Syl1AlignEnd=233940|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=L|Syl1Duration=112|Syl1Glo=ll|Syl1Loc=ll|Syl1MeanF0=132.46|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-1.353|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-3	say	say	VERB	_	_	0	root	_	AlignBegin=233940|AlignEnd=234060|Gloss=say|Syl1=so|Syl1AlignBegin=233940|Syl1AlignEnd=234110|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=170|Syl1Glo=lh|Syl1Loc=lh|Syl1MeanF0=149.695|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=0.764|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|SyllableCount=1|UtteranceMeanF0=143.231
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=233828|AlignEnd=233940|Gloss=NOM.SG.1
+3	say	say	VERB	_	_	0	root	_	AlignBegin=233940|AlignEnd=234060|Gloss=say
 4	[	[	X	_	_	11	dep	_	AlignBegin=234060|AlignEnd=234060|Gloss=PUNCT
-5	okay	OK	INTJ	_	_	11	discourse	_	AlignBegin=234060|AlignEnd=234295|Gloss=OK|Syl1=FUSED|Syl2=ke|Syl2AlignBegin=234110|Syl2AlignEnd=234295|Syl2AvgHeightGlo=H|Syl2AvgHeightLoc=M|Syl2Duration=185|Syl2Glo=hm|Syl2Loc=ml|Syl2MeanF0=144.177|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=0.114|Syl2SlopeGlo=Fall|Syl2SlopeLoc=Fall|SyllableCount=2
-6	if	if	SCONJ	_	_	9	mark	_	AlignBegin=234295|AlignEnd=234500|Gloss=if|Syl1=if|Syl1AlignBegin=234295|Syl1AlignEnd=234500|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=H|Syl1Duration=205|Syl1Glo=hh|Syl1Loc=mh|Syl1MeanF0=161.662|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=2.096|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Rise|SyllableCount=1
-7	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=234500|AlignEnd=234670|Gloss=be|Syl1=na|Syl1AlignBegin=234500|Syl1AlignEnd=234670|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=170|Syl1Glo=ml|Syl1Loc=ml|Syl1MeanF0=138.497|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.582|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-8	dat	dat	DET	_	Number=Sing	9	det	_	AlignBegin=234670|AlignEnd=234830|Gloss=SG.DEM|Syl1=da|Syl1AlignBegin=234670|Syl1AlignEnd=234830|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=160|Syl1Glo=lm|Syl1Loc=mm|Syl1MeanF0=139.894|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.408|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Flat|SyllableCount=1
-9	one	one	NOUN	_	_	11	advcl	_	AlignBegin=234830|AlignEnd=235139|Gloss=one|Syl1=wa~|Syl1AlignBegin=234830|Syl1AlignEnd=235139|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=309|Syl1Glo=ml|Syl1Loc=ml|Syl1MeanF0=136.98|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.773|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
+5	okay	OK	INTJ	_	_	11	discourse	_	AlignBegin=234060|AlignEnd=234295|Gloss=OK
+6	if	if	SCONJ	_	_	9	mark	_	AlignBegin=234295|AlignEnd=234500|Gloss=if
+7	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=234500|AlignEnd=234670|Gloss=be
+8	dat	dat	DET	_	Number=Sing	9	det	_	AlignBegin=234670|AlignEnd=234830|Gloss=SG.DEM
+9	one	one	NOUN	_	_	11	advcl	_	AlignBegin=234830|AlignEnd=235139|Gloss=one
 10	<	<	X	_	_	9	dep	_	AlignBegin=235139|AlignEnd=235139|Gloss=PUNCT
-11	no	no	PART	_	Polarity=Neg	3	parataxis	_	AlignBegin=235139|AlignEnd=235370|Gloss=NEG|Syl1=no|Syl1AlignBegin=235139|Syl1AlignEnd=235370|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=231|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=147.552|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=0.515|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-12	problem	problem	NOUN	_	_	11	xcomp	_	AlignBegin=235370|AlignEnd=235755|Gloss=problem|Syl1=pr\o|Syl1AlignBegin=235370|Syl1AlignEnd=235590|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=220|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=138.954|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.525|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|Syl2=bE|Syl2AlignBegin=235590|Syl2AlignEnd=235755|Syl2AvgHeightGlo=L|Syl2AvgHeightLoc=M|Syl2Duration=165|Syl2Glo=mL|Syl2Loc=ml|Syl2MeanF0=128.073|Syl2PitchRangeGlo=M|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=-1.936|Syl2SlopeGlo=Fall|Syl2SlopeLoc=Fall|SyllableCount=2
+11	no	no	PART	_	Polarity=Neg	3	parataxis	_	AlignBegin=235139|AlignEnd=235370|Gloss=NEG
+12	problem	problem	NOUN	_	_	11	xcomp	_	AlignBegin=235370|AlignEnd=235755|Gloss=problem
 13	!//]	!//]	X	_	_	11	dep	_	AlignBegin=235755|AlignEnd=235755|Gloss=PUNCT
 14	//	//	X	_	_	3	dep	_	AlignBegin=235725|AlignEnd=235755|Gloss=PUNCT
 
@@ -47,13 +47,13 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
 1	#	#	X	_	_	3	dep	_	AlignBegin=35489|AlignEnd=36891|Gloss=PUNCT
-2	na	na	AUX	_	PartType=Cop	3	cop	_	AlignBegin=36891|AlignEnd=37052|Gloss=be|Syl1=na|Syl1AlignBegin=36891|Syl1AlignEnd=37052|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=L|Syl1Duration=161|Syl1Glo=mm|Syl1Loc=ll|Syl1MeanF0=190.512|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.041|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1|UtteranceMeanF0=190.968
-3	wetin	wetin	PRON	_	PronType=Int	0	root	_	AlignBegin=37052|AlignEnd=37270|Gloss=what.Q|Syl1=we|Syl1AlignBegin=37052|Syl1AlignEnd=37160|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=H|Syl1Duration=108|Syl1Glo=hH|Syl1Loc=mH|Syl1MeanF0=230.074|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=3.225|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|Syl2=ti|Syl2AlignBegin=37160|Syl2AlignEnd=37270|Syl2AvgHeightGlo=H|Syl2AvgHeightLoc=H|Syl2Duration=110|Syl2Glo=HH|Syl2Loc=hh|Syl2MeanF0=255.761|Syl2PitchRangeGlo=L|Syl2PitchRangeLoc=L|Syl2SemitonesFromUtteranceMean=5.058|Syl2SlopeGlo=Flat|Syl2SlopeLoc=Flat|SyllableCount=2
-4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=37270|AlignEnd=37360|Gloss=NOM.SG.1|Syl1=a|Syl1AlignBegin=37270|Syl1AlignEnd=37360|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=90|Syl1Glo=hl|Syl1Loc=hL|Syl1MeanF0=192.309|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=H|Syl1SemitonesFromUtteranceMean=0.121|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-5	do	no	AUX	_	_	8	aux	_	AlignBegin=37360|AlignEnd=37500|Gloss=NEG|SpaceAfter=No|Syl1=don|Syl1AlignBegin=37360|Syl1AlignEnd=37500|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=140|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=183.894|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-0.654|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-6	n't	not	PART	_	Polarity=Neg	8	advmod	_	AlignBegin=37500|AlignEnd=37760|Gloss=NEG|Syl1=dZOs|Syl1AlignBegin=37500|Syl1AlignEnd=37760|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Duration=260|Syl1Glo=ll|Syl1Loc=mm|Syl1MeanF0=171.425|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-1.869|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-7	just	just	ADV	_	_	8	advmod	_	AlignBegin=37760|AlignEnd=37956|Gloss=just|Syl1=no|Syl1AlignBegin=37760|Syl1AlignEnd=37956|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Duration=196|Syl1Glo=lL|Syl1Loc=ml|Syl1MeanF0=156.161|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-3.484|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-8	know	know	VERB	_	_	3	acl:relcl	_	AlignBegin=37760|AlignEnd=37956|Gloss=know|Syl1=no|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=M|Syl1Duree=X|Syl1Glo=lL|Syl1Loc=ml|Syl1MoyenneHertz=X|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1Semiton=X|Syl1Slope=X|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
+2	na	na	AUX	_	PartType=Cop	3	cop	_	AlignBegin=36891|AlignEnd=37052|Gloss=be
+3	wetin	wetin	PRON	_	PronType=Int	0	root	_	AlignBegin=37052|AlignEnd=37270|Gloss=what.Q
+4	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=37270|AlignEnd=37360|Gloss=NOM.SG.1
+5	do	no	AUX	_	_	8	aux	_	AlignBegin=37360|AlignEnd=37500|Gloss=NEG|SpaceAfter=No
+6	n't	not	PART	_	Polarity=Neg	8	advmod	_	AlignBegin=37500|AlignEnd=37760|Gloss=NEG
+7	just	just	ADV	_	_	8	advmod	_	AlignBegin=37760|AlignEnd=37956|Gloss=just
+8	know	know	VERB	_	_	3	acl:relcl	_	AlignBegin=37760|AlignEnd=37956|Gloss=know
 9	//	//	X	_	_	3	dep	_	AlignBegin=37956|AlignEnd=37956|Gloss=PUNCT
 
 ~~~
@@ -65,13 +65,13 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 cop	color:blue
-1	na	na	AUX	_	PartType=Cop	2	cop	_	AlignBegin=94899|AlignEnd=95059|Gloss=be|Syl1=na|Syl1AlignBegin=94899|Syl1AlignEnd=95059|Syl1AvgHeightGlo=L|Syl1AvgHeightLoc=L|Syl1Duration=160|Syl1Glo=ll|Syl1Loc=ll|Syl1MeanF0=130.076|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=-1.178|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1|UtteranceMeanF0=139.238
-2	so	so	ADV	_	_	0	root	_	AlignBegin=95059|AlignEnd=95227|Gloss=so|Syl1=so|Syl1AlignBegin=95059|Syl1AlignEnd=95227|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=H|Syl1Duration=168|Syl1Glo=mH|Syl1Loc=mH|Syl1MeanF0=158.294|Syl1PitchRangeGlo=M|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=2.221|Syl1SlopeGlo=Rise|Syl1SlopeLoc=Rise|SyllableCount=1
+1	na	na	AUX	_	PartType=Cop	2	cop	_	AlignBegin=94899|AlignEnd=95059|Gloss=be
+2	so	so	ADV	_	_	0	root	_	AlignBegin=95059|AlignEnd=95227|Gloss=so
 3	>+	>+	X	_	_	6	dep	_	AlignBegin=95227|AlignEnd=95227|Gloss=PUNCT
-4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=95227|AlignEnd=95299|Gloss=NOM.PL.1|Syl1=U|Syl1AlignBegin=95227|Syl1AlignEnd=95299|Syl1AvgHeightGlo=H|Syl1AvgHeightLoc=M|Syl1Duration=72|Syl1Glo=hh|Syl1Loc=mm|Syl1MeanF0=150.257|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=1.319|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-5	con	con	AUX	_	Aspect=Cons	6	aux	_	AlignBegin=95299|AlignEnd=95509|Gloss=CONS|Syl1=kOn|Syl1AlignBegin=95299|Syl1AlignEnd=95509|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=210|Syl1Glo=mm|Syl1Loc=mm|Syl1MeanF0=144.652|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=L|Syl1SemitonesFromUtteranceMean=0.66|Syl1SlopeGlo=Flat|Syl1SlopeLoc=Flat|SyllableCount=1
-6	do	do	VERB	_	_	2	advcl:cleft	_	AlignBegin=95509|AlignEnd=95734|Gloss=do|Syl1=do|Syl1AlignBegin=95509|Syl1AlignEnd=95879|Syl1AvgHeightGlo=M|Syl1AvgHeightLoc=M|Syl1Duration=370|Syl1Glo=ml|Syl1Loc=hl|Syl1MeanF0=136.023|Syl1PitchRangeGlo=L|Syl1PitchRangeLoc=M|Syl1SemitonesFromUtteranceMean=-0.404|Syl1SlopeGlo=Fall|Syl1SlopeLoc=Fall|SyllableCount=1
-7	o	o	PART	_	PartType=Disc	2	advmod	_	AlignBegin=95734|AlignEnd=95879|Gloss=EMPH|Syl1=FUSED|SyllableCount=1
+4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=95227|AlignEnd=95299|Gloss=NOM.PL.1
+5	con	con	AUX	_	Aspect=Cons	6	aux	_	AlignBegin=95299|AlignEnd=95509|Gloss=CONS
+6	do	do	VERB	_	_	2	advcl:cleft	_	AlignBegin=95509|AlignEnd=95734|Gloss=do
+7	o	o	PART	_	PartType=Disc	2	advmod	_	AlignBegin=95734|AlignEnd=95879|Gloss=EMPH
 8	//	//	X	_	_	2	dep	_	AlignBegin=95879|AlignEnd=95879|Gloss=PUNCT
 
 ~~~

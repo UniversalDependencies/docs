@@ -73,7 +73,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 5	Mubalik	balik	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	1	parataxis	_	Gloss=will.return
 6	lang	lang	PART	_	_	5	advmod	_	Gloss=just
-7	ko	ko	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I
+7	ko	ako	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I
 8	unya	unya	ADV	_	_	5	advmod	_	Gloss=later|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 

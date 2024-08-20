@@ -8,12 +8,35 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `orphan`.
+20 nodes (0%) are attached to their parents as `orphan`.
 
-3 instances of `orphan` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+17 instances of `orphan` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.3.
 
-The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (3; 75% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 25% instances).
+The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (10; 50% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (3; 15% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 orphan	color:blue
+1	Pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	lemma_gml=pâstôr
+2	mid	mid	ADP	_	AdpType=Prep	4	case	_	lemma_gml=mit
+3	en	en	DET	_	Case=Acc,Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	lemma_gml=êin,êine,êin
+4	handgebäärde	handgebäärde	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Sing	1	orphan	_	lemma_gml=hantgebêrde|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	as	as	SCONJ	_	_	9	cc	_	lemma_gml=alsô
+7	wul	willen	AUX	_	Mood=Ind,Sub|Number=Sing|Person=3|Tense=Past	9	aux	_	lemma_gml=willen
+8	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	lemma_gml=hê,sê,et
+9	seggen	seggen	VERB	_	VerbForm=Inf	4	acl	_	lemma_gml=seggen|SpaceAfter=No
+10	:	:	PUNCT	_	_	11	punct	_	_
+11	Tappen	tappe	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	ccomp	_	lemma_gml=tappe
+12	af	af	ADP	_	_	11	orphan	_	lemma_gml=af|SpaceAfter=No
+13	!	!	PUNCT	_	_	1	punct	_	_
+
+~~~
 
 
 ~~~ conllu

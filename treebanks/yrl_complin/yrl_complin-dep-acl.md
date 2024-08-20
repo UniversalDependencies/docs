@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="yrl_complin-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-11 nodes (0%) are attached to their parents as `acl`.
+13 nodes (0%) are attached to their parents as `acl`.
 
-11 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.90909090909091.
+13 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 18% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (7; 54% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 15% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (2; 15% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -69,19 +69,19 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	yayuri	yuri	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=36:42
 9	Makará	makará	PROPN	PROPN	_	10	nmod:poss	_	TokenRange=43:49
 10	kupé	kupé	NOUN	N	Number=Sing	8	obl	_	_
-11	pe	upé	ADP	ADP	Clitic=Yes	10	case	_	_
-12	,	,	PUNCT	PUNCT	_	19	punct	_	TokenRange=59:60
-13	Hinere-itá	hinere-itá	PROPN	PROPN	_	19	nsubj	_	SpaceAfter=No|TokenRange=61:71
-14	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=71:72
-15	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=73:77
-16	wiwa-itá	wiwa	NOUN	N	Number=Plur	13	acl	_	TokenRange=78:86
-17	arama	arama	PART	FUT	Tense=Fut	16	advmod	_	SpaceAfter=No|TokenRange=87:92
-18	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=92:93
-19	uri	yuri	VERB	V	Person=3|VerbForm=Fin	8	parataxis	_	TokenRange=94:97
-20	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=98:99
-21	marika	marika	NOUN	N	Number=Sing	19	obl	_	TokenRange=100:106
-22	rupí	rupí	ADP	ADP	_	21	case	_	SpaceAfter=No|TokenRange=107:111
-23	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=111:112
+11	pe	upé	ADP	ADP	AdpType=Post|Clitic=Yes	10	case	_	_
+12	,	,	PUNCT	PUNCT	_	19	punct	_	TokenRange=57:58
+13	Hinere-itá	hinere-itá	PROPN	PROPN	_	19	nsubj	_	SpaceAfter=No|TokenRange=59:69
+14	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=69:70
+15	yané	yané	PRON	PRON2	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=71:75
+16	wiwa-itá	wiwa	NOUN	N	Number=Plur	13	acl	_	TokenRange=76:84
+17	arama	arama	PART	FUT	Tense=Fut	16	advmod	_	SpaceAfter=No|TokenRange=85:90
+18	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=90:91
+19	uri	yuri	VERB	V	Person=3|VerbForm=Fin	8	parataxis	_	TokenRange=92:95
+20	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=96:97
+21	marika	marika	NOUN	N	Number=Sing	19	obl	_	TokenRange=98:104
+22	rupí	rupí	ADP	ADP	AdpType=Post	21	case	_	SpaceAfter=No|TokenRange=105:109
+23	.	.	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No|TokenRange=109:110
 
 ~~~
 

@@ -1,3 +1,10 @@
+---
+layout: relation
+title: 'advcl'
+shortdef: 'adverbial clause modifier'
+udver: '2'
+---
+
 ## advcl: adverbial clause modifier
 An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an advmod) and the dependent is the main predicate of the clause.
 ~~~ sdparse
@@ -31,4 +38,4 @@ advcl (tushunasan, o’qidingmi)
 ~~~
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:17 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:32 CEST -->

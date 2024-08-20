@@ -190,13 +190,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (435; 74%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (173; 87%),
+<tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (174; 87%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-amod.html">amod</a></tt>]--> NOUN</tt> (47; 52%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NOUN</tt> (45; 96%),
 <tt>VERB --[<tt><a href="ky_ktmu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (43; 77%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-flat.html">flat</a></tt>]--> PROPN</tt> (39; 100%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (38; 70%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-obl.html">obl</a></tt>]--> NOUN</tt> (31; 76%),
 <tt>PROPN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> PROPN</tt> (27; 100%),
-<tt>VERB --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (27; 61%),
-<tt>NOUN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 81%).
+<tt>VERB --[<tt><a href="ky_ktmu-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (27; 61%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-58 nodes (4%) are attached to their parents as `advmod`.
+76 nodes (4%) are attached to their parents as `advmod`.
 
-47 instances of `advmod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25862068965517.
+58 instances of `advmod` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.26315789473684.
 
-The following 2 pairs of parts of speech are connected with `advmod`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (46; 79% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (12; 21% instances).
+The following 4 pairs of parts of speech are connected with `advmod`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (57; 75% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (17; 22% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,6 +56,25 @@ The following 2 pairs of parts of speech are connected with `advmod`: <tt><a hre
 10	ãma	ãma	ADP	posp	_	9	case	_	in;em
 11	hã	hã	DET	det	_	7	det	_	_
 12	.	.	PUNCT	punct	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 advmod	color:blue
+1	Wedeñorõ	wedeñorõ	NOUN	_	_	0	root	_	_
+2	ã	ã	DET	dem	Deixis=Prox	1	det	_	_
+3	re	re	PART	prcl	Degree=Dim	1	dep	_	_
+4	hã	hã	PART	_	Emph=Yes	1	dep	_	_
+5	rom	rom	NOUN	_	_	1	obl	_	_
+6	na	na	ADP	posp	_	5	case	_	_
+7	hã	hã	PART	_	Emph=Yes	5	dep	_	_
+8	mare	mare	ADV	adv	Polarity=Neg	9	advmod	_	_
+9	di	di	AUX	cop	_	1	cop	_	_
 
 ~~~
 

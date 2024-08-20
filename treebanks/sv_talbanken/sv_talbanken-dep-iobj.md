@@ -70,8 +70,8 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 9	för	för	ADP	PP	_	11	mark	11:mark	_
 10	att	att	PART	IE	_	11	mark	11:mark	_
 11	lära	lära	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	5	advcl	5:advcl:att	_
-12	den	en	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	13	det	13:det	_
-13	värnpliktige	värnpliktig	ADJ	JJ|POS|MAS|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	11	iobj	11:iobj	_
+12	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	13	det	13:det	_
+13	värnpliktige	värnpliktig	ADJ	JJ|POS|MAS|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Gender=Com|Number=Sing	11	iobj	11:iobj	_
 14	skjuta	skjuta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	11	xcomp	11:xcomp	SpaceAfter=No
 15	.	.	PUNCT	MAD	_	5	punct	5:punct	_
 

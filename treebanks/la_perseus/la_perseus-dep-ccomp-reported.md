@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `ccomp:reported`: <t
 11	dicti	dictum	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	LId=dictum1
 12	sibi	sui	PRON	p-p---md-	Case=Dat|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	obl:arg	_	LId=sui1
 13	criminis	crimen	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	LId=crimen1
-14	utraque	uterque	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	16	det	_	LId=uter1
+14	utraque	uterque	DET	a-p---na-	Case=Acc|Gender=Neut|Number=Plur|PronType=Con	16	det	_	LId=uter1
 15	caelo	caelum	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	17	obl:arg	_	LId=caelum1
 16	bracchia	bracchium	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	17	obj	_	LId=bracchium1
 17	porrexit	porrigo	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	csubj	_	LId=porrigo1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -62,9 +62,9 @@ The following 1 pairs of parts of speech are connected with `ccomp:reported`: <t
 38	,	,	PUNCT	u--------	_	41	punct	_	LId=comma1
 39	quod	qui	PRON	p-s---nn-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	41	nsubj	_	LId=qui1
 40	nos	nos	PRON	p-p---ma-	Case=Acc|Number=Plur|Person=1|PronType=Prs	41	obj	_	LId=nos1
-41	audit	audio	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	_
+41	audit	audio	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 42	que	que	CCONJ	c--------	_	41	cc	_	LId=que1
-43	videt	video	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	conj	_	_
+43	videt	video	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 44	que	que	CCONJ	c--------	_	43	cc	_	LId=que1
 45	,	,	PUNCT	u--------	_	41	punct	_	LId=comma1
 46	hoc	hic	DET	p-s---mb-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	47	orphan	_	LId=hic1

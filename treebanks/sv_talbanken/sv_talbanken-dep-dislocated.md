@@ -45,7 +45,7 @@ The following 16 pairs of parts of speech are connected with `dislocated`: <tt><
 2	du	du	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	1	nsubj	1:nsubj	_
 3	några	någon	PRON	PN|UTR/NEU|PLU|IND|SUB/OBJ	Definite=Ind|Number=Plur|PronType=Ind	1	obj	1:obj	_
 4	av	av	ADP	PP	_	6	case	6:case	_
-5	följande	följande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Tense=Pres|VerbForm=Part	6	amod	6:amod	_
+5	följande	följande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Tense=Pres|VerbForm=Part	6	amod	6:amod	_
 6	saker	sak	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	nmod	3:nmod:av	_
 7	så	så	ADV	AB	_	8	advcl	8:advcl	_
 8	ta	ta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	_

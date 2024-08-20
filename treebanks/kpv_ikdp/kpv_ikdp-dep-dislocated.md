@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 6	сыа	сійӧ	PRON	Pron	PronType=Dem	7	det	_	GTtags=Err/Dial,Dem
 7	тема	тема	NOUN	N	Case=Nom|Number=Sing	2	appos	_	GTtags=Sg,Nom
 8	кузяыс	кузя	ADP	Adp	AdpType=Post|Number[psor]=Sing|Person[psor]=3	7	case	_	GTtags=Po,PxSg3
-9	водзе	водзӧ	ADV	Adv	_	10	advmod:lto	_	GTtags=Err/Dial
+9	водзе	водзӧ	ADV	Adv	_	10	advmod:lmod	_	GTtags=Err/Dial
 10	мунны	мунны	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
 12	научнэй	научнӧй	ADJ	A	Case=Nom|Number=Sing	13	amod	_	GTtags=Err/Dial,Sg,Nom
@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Но	но	CCONJ	CC	_	6	cc	_	_
 2	вот	вот	ADV	Adv	_	6	discourse	_	GTtags=Parenthetic
 3	сыа	сійӧ	PRON	Pron	PronType=Dem	6	nsubj	_	GTtags=Err/Dial,Dem
-4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lfrom	_	GTtags=Ela
+4	сэтысь	сэтысь	ADV	Adv	Case=Ela	6	advmod:lmod	_	GTtags=Ela
 5	и	и	ADV	Adv	_	6	advmod	_	_
 6	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_

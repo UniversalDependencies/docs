@@ -53,4 +53,4 @@ It is possible that noun modified by a relative clause is not expressed in the m
 ~~~
 
 'Where a python layed down, he tied sticks hard'.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:14 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->

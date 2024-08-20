@@ -29,7 +29,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 5	kusina	kusina	NOUN	_	_	1	nsubj	_	Gloss=kitchen
 6	para	para	ADP	_	_	10	case	_	Gloss=for
 7	sa	sa	ADP	_	Case=Dat	6	fixed	_	_
-8	iya	iya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Gloss=her
+8	iya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Gloss=her
 9	-ng	nga	PART	_	_	8	mark	_	Gloss=LINK
 10	igsoon	igsoon	NOUN	_	_	1	obl	_	Gloss=sibling
 11	-g	nga	PART	_	_	10	mark	_	Gloss=LINK
@@ -51,7 +51,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 4	nga	nga	PART	_	_	5	mark	_	Gloss=LINK
 5	magparty	party	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	3	acl	_	Gloss=to.have.a.party
 6	sa	sa	ADP	_	Case=Dat	9	case	_	Gloss=at
-7	ila	ila	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	Gloss=their
+7	ila	sila	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	Gloss=their
 8	-ng	nga	PART	_	_	7	mark	_	Gloss=LINK
 9	balay	balay	NOUN	_	_	5	obl	_	Gloss=house|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -72,7 +72,7 @@ The following 14 pairs of parts of speech are connected with `mark`: <tt><a href
 5	kusina	kusina	NOUN	_	_	1	nsubj	_	Gloss=kitchen
 6	para	para	ADP	_	_	10	case	_	Gloss=for
 7	sa	sa	ADP	_	Case=Dat	6	fixed	_	_
-8	iya	iya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Gloss=her
+8	iya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	10	nmod	_	Gloss=her
 9	-ng	nga	PART	_	_	8	mark	_	Gloss=LINK
 10	igsoon	igsoon	NOUN	_	_	1	obl	_	Gloss=sibling
 11	-g	nga	PART	_	_	10	mark	_	Gloss=LINK

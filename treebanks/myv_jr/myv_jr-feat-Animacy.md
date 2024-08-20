@@ -24,7 +24,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 * `Anim` (1; 0% of non-empty `Animacy`): <em>Бертяз</em>
 * `Hum` (469; 100% of non-empty `Animacy`): <em>Микол, Ястребов, Любань, Люба, Федоров, Маря, Кирё, Кечай, Миколонь, Лапшов</em>
-* `EMPTY` (240): <em>Палько, Волчок, Пальконень, Цярданев, Бертяз, Обран, Пальконь, Юрченко, Дёбаень, Елеськань</em>
+* `EMPTY` (238): <em>Палько, Волчок, Пальконень, Цярданев, Бертяз, Обран, Пальконь, Юрченко, Дёбаень, Елеськань</em>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (79) occur only with one value of `Animacy`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (8; 10% of non-empty `Animacy`): <em>карводо, карвот, маравдо, мекште, промодо, псака, укскадо, унжадо</em>
 * `Hum` (73; 90% of non-empty `Animacy`): <em>атясь, ломанесь, аванть, коммунист, коммунистан, коммунистэнь, кудазоравась, ломанде, ломантне, ломантненень</em>
-* `EMPTY` (5011): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, кедензэ, кудов, прянзо, ялгат</em>
+* `EMPTY` (5012): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, кедензэ, кудов, прянзо, ялгат</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (44) occur only with one value of `Animacy`.
 
@@ -51,13 +51,12 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (31; 100% of non-empty `Animacy`): <em>ки, кие, кинь, кить, киян, кият, кинень</em>
-* `EMPTY` (1144): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+* `EMPTY` (1145): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>PROPN --[<tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (9; 64%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> PROPN</tt> (8; 80%),
-<tt>PROPN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-obl.html">obl</a></tt>]--> PROPN</tt> (1; 100%).
 

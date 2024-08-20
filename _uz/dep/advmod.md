@@ -1,3 +1,10 @@
+---
+layout: relation
+title: 'advmod'
+shortdef: 'adverbial modifier'
+udver: '2'
+---
+
 ## advmod: adverbial modifier
 An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase that serves to modify the meaning of the word.
 Note that nouns in particular morphological cases, or followed by an adposition are marked using obl even if they function as adverbial modifiers.
@@ -14,4 +21,4 @@ advmod (gaplashishyapti, tinmay)
 
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:20 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:37 CEST -->

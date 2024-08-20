@@ -8,26 +8,23 @@ udver: '2'
 
 This relation is universal.
 
-2725 nodes (10%) are attached to their parents as `advmod`.
+13791 nodes (7%) are attached to their parents as `advmod`.
 
-2293 instances of `advmod` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.16807339449541.
+12982 instances of `advmod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.39663548691175.
 
-The following 23 pairs of parts of speech are connected with `advmod`: <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (1652; 61% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (431; 16% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (240; 9% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (94; 3% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (77; 3% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (56; 2% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt> (45; 2% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (43; 2% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (19; 1% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="sa_vedic-pos-DET.html">DET</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="sa_vedic-pos-PART.html">PART</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="sa_vedic-pos-PART.html">PART</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="sa_vedic-pos-DET.html">DET</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sa_vedic-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `advmod`: <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (9097; 66% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (2289; 17% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (1037; 8% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (365; 3% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (320; 2% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (239; 2% instances), <tt><a href="sa_vedic-pos-VERB.html">VERB</a></tt>-<tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt> (237; 2% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (55; 0% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (46; 0% instances), <tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt> (33; 0% instances), <tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (27; 0% instances), <tt><a href="sa_vedic-pos-PRON.html">PRON</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="sa_vedic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sa_vedic-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sa_vedic-pos-ADP.html">ADP</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="sa_vedic-pos-ADP.html">ADP</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sa_vedic-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-NUM.html">NUM</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sa_vedic-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sa_vedic-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod	color:blue
-1	punar	punar	ADV	_	_	2	advmod	_	_
-2	ehi	e	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	_
-3	vācaspate	vācaspati	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
-4	devena	deva	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	5	amod	_	_
-5	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	_
-6	saha	saha	ADV	_	_	5	case	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 advmod	color:blue
+1	antarā	antarā	ADV	_	_	3	advmod	_	LemmaId=11881|OccId=4794304|Unsandhied=antarā|Annotator=Au
+2	hradam	hrada	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=57237|OccId=4794305|Unsandhied=hradam|Annotator=Au
+3	karoti	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156168|OccId=4794306|Unsandhied=karoti|Annotator=Sv|Punctuation=fullStop
 
 ~~~
 
@@ -38,24 +35,25 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 advmod	color:blue
-1	mā	mā	PART	_	_	4	advmod	_	_
-2	śrutena	śru	VERB	_	Case=Ins|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	4	obl	_	_
-3	vi	vi	ADV	_	_	4	advmod	_	_
-4	rādhiṣi	rādh	VERB	_	Mood=Jus|Number=Sing|Person=1|Tense=Past	0	root	_	_
+1	mā	mā	PART	_	_	4	advmod	_	LemmaId=170120|OccId=5178835|Unsandhied=mā|Annotator=Ol
+2	savyena	savya	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	4	obl:instr	_	LemmaId=105472|OccId=5178836|Unsandhied=savyena|Annotator=Ol
+3	dakṣiṇam	dakṣiṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	obl:goal	_	LemmaId=100605|OccId=5178837|Unsandhied=dakṣiṇam|Annotator=Ol
+4	atikrāma	atikram	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	6	ccomp	_	LemmaId=157215|OccId=5178838|Unsandhied=atikrāma|Annotator=Ol
+5	iti	iti	PART	_	_	4	mark	_	LemmaId=63331|OccId=5178839|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
+6	brūyāt	brū	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157262|OccId=5178840|Unsandhied=brūyāt|Annotator=Ol|Punctuation=fullStop
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod	color:blue
-1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	enayoḥ	enad	PRON	_	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
-3	tatra	tatra	ADV	_	_	4	advmod	_	_
-4	kﾱptiḥ	kﾱpti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+# visual-style 3 1 advmod	color:blue
+1	svayam	svayam	ADV	_	_	3	advmod	_	LemmaId=119534|OccId=4794346|Unsandhied=svayam|Annotator=Au
+2	haviṣām	havis	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	LemmaId=109386|OccId=4794347|Unsandhied=haviṣām|Annotator=Au
+3	bhojanam	bhojana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=26133|OccId=4794348|Unsandhied=bhojanam|Annotator=Au|Punctuation=fullStop
 
 ~~~
 

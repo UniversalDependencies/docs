@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `advmod:lmod`
 
 This relation is a language-specific subtype of <tt><a href="kpv_ikdp-dep-advmod.html">advmod</a></tt>.
-There are also 6 other language-specific subtypes of `advmod`: <tt><a href="kpv_ikdp-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-lfrom.html">advmod:lfrom</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-lto.html">advmod:lto</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `advmod`: <tt><a href="kpv_ikdp-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="kpv_ikdp-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-21 nodes (1%) are attached to their parents as `advmod:lmod`.
+23 nodes (1%) are attached to their parents as `advmod:lmod`.
 
-13 instances of `advmod:lmod` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.61904761904762.
+15 instances of `advmod:lmod` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.60869565217391.
 
-The following 2 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (18; 86% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (3; 14% instances).
+The following 2 pairs of parts of speech are connected with `advmod:lmod`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (20; 87% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (3; 13% instances).
 
 
 ~~~ conllu

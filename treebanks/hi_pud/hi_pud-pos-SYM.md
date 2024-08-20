@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-PUD: POS Tags: `SYM`
 
-There are 1 `SYM` lemmas (6%), 3 `SYM` types (0%) and 30 `SYM` tokens (0%).
-Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 16 in number of types and 15 in number of tokens.
+There are 3 `SYM` lemmas (0%), 3 `SYM` types (0%) and 30 `SYM` tokens (0%).
+Out of 16 observed tags, the rank of `SYM` is: 16 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: _
+The 10 most frequent `SYM` lemmas: %, £, €
 
 The 10 most frequent `SYM` types:  %, £, €
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 5597, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4849, <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> 2297, <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> 2058, <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> 1995, <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> 1776, <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> 1358, <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 1128, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 876, <tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 545, <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> 452, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 382, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 316, <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> 159, <tt><a href="hi_pud-pos-SYM.html">SYM</a></tt> 30, <tt><a href="hi_pud-pos-X.html">X</a></tt> 11)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  
 
@@ -21,9 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 3.000000 (the average of all parts of speech is 345.375000).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.166595).
 
-The 1st highest number of forms (3) was observed with the lemma “_”: %, £, €.
+The 1st highest number of forms (1) was observed with the lemma “%”: %.
+
+The 2nd highest number of forms (1) was observed with the lemma “£”: £.
+
+The 3rd highest number of forms (1) was observed with the lemma “€”: €.
 
 `SYM` does not occur with any features.
 

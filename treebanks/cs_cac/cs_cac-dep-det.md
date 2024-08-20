@@ -40,12 +40,12 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
 1	Kdepak	kdepak	ADV	Db-------------	_	0	root	0:root	SpaceAfter=No
-2	,	,	PUNCT	Z:-------------	_	4	punct	1.1:punct	_
+2	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
 3	žádná	žádný	DET	PWFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Neg	4	det	4:det	_
-4	dršťková	dršťkový	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	conj	1.1:dep	SpaceAfter=No
-5	,	,	PUNCT	Z:-------------	_	4	punct	1.1:punct	_
+4	dršťková	dršťkový	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	conj	0:root|1:conj	SpaceAfter=No
+5	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
 6	žádné	žádný	DET	PWNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	7	det	7:det	_
-7	pivčo	pivčo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Style=Coll	4	orphan	1.1:dep	SpaceAfter=No
+7	pivčo	pivčo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Style=Coll	1	conj	0:root|1:conj	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~

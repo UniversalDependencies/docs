@@ -12,4 +12,4 @@ Conjuctions borrowed from French, such as mɛ́ (mais), épi (et puis) etc., ar
 
 For _subordinating conjunctions,_ see [SCONJ]().
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:23 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:35 CEST -->

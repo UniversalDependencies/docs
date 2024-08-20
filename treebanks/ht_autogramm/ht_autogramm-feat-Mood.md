@@ -23,5 +23,5 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (10; 100% of non-empty `Mood`): <em>ta</em>
-* `EMPTY` (180): <em>te, ap, se, t, pral, pwal</em>
+* `EMPTY` (193): <em>te, ap, se, t, ka, pral, dwe, pwal</em>
 

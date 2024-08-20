@@ -24,8 +24,8 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 7 8 compound:prt	color:blue
 1	Next	next	ADJ	JJ	Degree=Pos	0	root	0:root	Discourse=explanation-evidence:130->128:1:_|SpaceAfter=No|XML=<hi rend:::"italic">
 2	,	,	PUNCT	,	_	3	punct	3:punct	_
-3	please	please	INTJ	UH	_	7	discourse	7:discourse	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	3:punct	_
+3	please	please	INTJ	UH	_	1	discourse	1:discourse	SpaceAfter=No
+4	,	,	PUNCT	,	_	7	punct	7:punct	_
 5	do	do	AUX	VB	VerbForm=Inf	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
 6	n't	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
 7	hold	hold	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_

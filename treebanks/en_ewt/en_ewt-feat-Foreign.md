@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-55 tokens (0%) have a non-empty value of `Foreign`.
-44 types (0%) occur at least once with a non-empty value of `Foreign`.
-41 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">X</a></tt> (46; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+61 tokens (0%) have a non-empty value of `Foreign`.
+47 types (0%) occur at least once with a non-empty value of `Foreign`.
+44 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">X</a></tt> (52; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `X`
 
-46 <tt><a href="en_ewt-pos-X.html">X</a></tt> tokens (5% of all `X` tokens) have a non-empty value of `Foreign`.
+52 <tt><a href="en_ewt-pos-X.html">X</a></tt> tokens (12% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (46; 100% of non-empty `Foreign`): <em>de, la, a, del, guerre, hoc, non, Acedraz, Déjà, Hochrenaissance</em>
-* `EMPTY` (865): <em>.doc, carol.st.clair@enron.com, -, (, ), Access, Analysis_0712, COMMUNICATIONS, Oct, Pricing</em>
+* `Yes` (52; 100% of non-empty `Foreign`): <em>de, la, Baba, Kevalam, Nam, a, del, guerre, hoc, non</em>
+* `EMPTY` (395): <em>.doc, -, (, ), Access, Analysis_0712, COMMUNICATIONS, Oct, Pricing, Transmission</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (37) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (40) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -32,7 +32,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>empanadas, arabes, cordobes, empanada</em>
-* `EMPTY` (43157): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `EMPTY` (43148): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
 ### `INTJ`
 
@@ -41,14 +41,13 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-X.html">
 `INTJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Bon</em>
-* `EMPTY` (927): <em>please, yes, well, no, hi, ok, like, lol, hey, oh</em>
+* `EMPTY` (929): <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> X</tt> (32; 100%),
+<tt>X --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> X</tt> (36; 100%),
 <tt>NOUN --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>INTJ --[<tt><a href="en_ewt-dep-flat.html">flat</a></tt>]--> X</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>X --[<tt><a href="en_ewt-dep-compound.html">compound</a></tt>]--> X</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
 

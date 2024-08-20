@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (403; 100% of non-empty `Poss`): ϥ, ⲟⲩ, ⲕ, ⲥ, ⲛ, ⲧⲛ, ⲧ, ⲩ, ⲧⲏⲩⲧⲛ, ⲓ
-* `EMPTY` (8951): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
+* `EMPTY` (8952): ϥ, ⲩ, ⲥ, ⲓ, ⲟⲩ, ⲕ, ⲛ, ⲡⲉ, ⲧⲛ, ⲧⲉⲧⲛ
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Poss`.
 

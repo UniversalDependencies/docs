@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5 4 nsubj:pass	color:blue
 1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	Overlap=Rhap_D2010-52|SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	Overlap=Rhap_D2010-52|SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	Overlap=Rhap_D2010-52
+3	,	,	PUNCT	_	_	2	punct	_	Overlap=Rhap_D2010-52
 4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj:pass	_	Overlap=Rhap_D2010-52|SpaceAfter=No
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Overlap=Rhap_D2010-52|SpaceAfter=No
 6	…	…	PUNCT	_	_	5	punct	_	Overlap=Rhap_D2010-52

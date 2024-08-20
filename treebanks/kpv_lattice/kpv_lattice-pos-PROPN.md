@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Краснӧй</em> (<tt><a href="kpv
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.064516 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `PROPN` is 1.064516 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (2) was observed with the lemma “Ворошилов”: <em>Ворошилов, Ворошиловӧс</em>.
 
@@ -52,13 +52,13 @@ Examples: <em>Ворошилов, Климент, Ефремович, Красн
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (5; 12% instances), <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-appos.html">nmod:appos</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-cmp.html">obl:cmp</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
+`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (8; 20% instances), <tt><a href="kpv_lattice-dep-compound-nn.html">compound:nn</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (6; 15% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (5; 12% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (5; 12% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (4; 10% instances), <tt><a href="kpv_lattice-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-cmp.html">obl:cmp</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
 
 Parents of `PROPN` nodes belong to 3 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (17; 41% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (13; 32% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (11; 27% instances)
 
-21 (51%) `PROPN` nodes are leaves.
+23 (56%) `PROPN` nodes are leaves.
 
-13 (32%) `PROPN` nodes have one child.
+11 (27%) `PROPN` nodes have one child.
 
 3 (7%) `PROPN` nodes have two children.
 
@@ -66,7 +66,7 @@ Parents of `PROPN` nodes belong to 3 different parts of speech: <tt><a href="kpv
 
 The highest child degree of a `PROPN` node is 3.
 
-Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (11; 35% instances), <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (4; 13% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (4; 13% instances), <tt><a href="kpv_lattice-dep-case.html">case</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 6% instances), <tt><a href="kpv_lattice-dep-advmod-eval.html">advmod:eval</a></tt> (1; 3% instances)
+Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt> (10; 34% instances), <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (4; 14% instances), <tt><a href="kpv_lattice-dep-case.html">case</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 7% instances), <tt><a href="kpv_lattice-dep-advmod-eval.html">advmod:eval</a></tt> (1; 3% instances)
 
-Children of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (11; 35% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (7; 23% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (4; 13% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 3% instances)
+Children of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (11; 38% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (5; 17% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (4; 14% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 3% instances)
 

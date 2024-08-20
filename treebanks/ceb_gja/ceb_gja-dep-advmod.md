@@ -41,7 +41,7 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 2 1 advmod	color:blue
 1	Pilay	pila	ADV	_	Neutral=Yes|PronType=Int	2	advmod	_	Gloss=how.much
 2	gibayad	bayad	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	0	root	_	Gloss=did.pay
-3	nimo	nimo	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=you|SpaceAfter=No
+3	nimo	ikaw	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	Gloss=you|SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
 ~~~
@@ -57,7 +57,7 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	na	na	PART	_	_	1	advmod	_	_
 3	lang	lang	PART	_	_	1	advmod	_	_
 4	gani	gani	PART	_	_	1	advmod	_	_
-5	nia	nia	ADV	_	Deixis=Prox|PronType=Dem	1	advmod	_	Gloss=here
+5	nia	naa	ADV	_	Deixis=Prox|PronType=Dem	1	advmod	_	Gloss=here
 6	ang	ang	ADP	_	Case=Nom	7	case	_	Gloss=the
 7	inahan	inahan	NOUN	_	_	5	nsubj	_	Gloss=mother|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.

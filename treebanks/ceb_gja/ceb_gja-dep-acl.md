@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 4	nga	nga	PART	_	_	5	mark	_	Gloss=LINK
 5	magparty	party	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	3	acl	_	Gloss=to.have.a.party
 6	sa	sa	ADP	_	Case=Dat	9	case	_	Gloss=at
-7	ila	ila	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	Gloss=their
+7	ila	sila	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	9	nmod	_	Gloss=their
 8	-ng	nga	PART	_	_	7	mark	_	Gloss=LINK
 9	balay	balay	NOUN	_	_	5	obl	_	Gloss=house|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5 1 acl	color:blue
 1	Unsay	unsa	PRON	_	Neutral=Yes	5	acl	_	Gloss=what
 2	buot	buot	NOUN	_	_	5	nmod	_	Gloss=want
-3	mo	imo	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod	_	Gloss=you
+3	mo	ikaw	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	5	nmod	_	Gloss=you
 4	-ng	nga	PART	_	_	3	mark	_	_
 5	ipasabot	sabot	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=to.give.meaning.to|SpaceAfter=No
 6	?	?	PUNCT	_	_	5	punct	_	Gloss=?

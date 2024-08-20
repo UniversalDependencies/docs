@@ -33,4 +33,4 @@ nsubj(on-3, juoni-5)
 amod(juoni-5, mielenkiintoinen-4)
 punct(on-3, .-6)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:27 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:44 CEST -->

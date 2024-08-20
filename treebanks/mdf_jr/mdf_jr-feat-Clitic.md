@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Add`, `AddGA`, `AddKige`, `AddNgA`, `AddVok`, `I`.
 
-26 tokens (1%) have a non-empty value of `Clitic`.
-25 types (1%) occur at least once with a non-empty value of `Clitic`.
-25 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 7 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+27 tokens (1%) have a non-empty value of `Clitic`.
+26 types (1%) occur at least once with a non-empty value of `Clitic`.
+26 lemmas (2%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 8 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -72,11 +72,21 @@ The most frequent other feature values with which `VERB` and `Clitic` co-occurre
 * `AddGA` (1; 50% of non-empty `Clitic`): <em>тиемацка</em>
 * `AddVok` (1; 50% of non-empty `Clitic`): <em>поладывок</em>
 
+### `ADP`
+
+1 <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Clitic`.
+
+The most frequent other feature values with which `ADP` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (1; 100%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Ine</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADP` tokens may have the following values of `Clitic`:
+
+* `Add` (1; 100% of non-empty `Clitic`): <em>эсовок</em>
+
 ### `AUX`
 
 1 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (1; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Clitic`:
 

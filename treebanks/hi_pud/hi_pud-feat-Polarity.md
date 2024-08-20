@@ -11,7 +11,7 @@ It occurs with 1 different values: `Neg`.
 
 136 tokens (1%) have a non-empty value of `Polarity`.
 6 types (0%) occur at least once with a non-empty value of `Polarity`.
-1 lemmas (0) occur at least once with a non-empty value of `Polarity`.
+6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 2 part-of-speech tags: <tt><a href="hi_pud-pos-PART.html">PART</a></tt> (135; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `PART`
@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADP` and `Polarity` co-occurr
 `ADP` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): बगैर
-* `EMPTY` (4848): के, में, की, से, को, का, ने, पर, लिए, तक
+* `EMPTY` (4846): के, में, की, से, को, का, ने, पर, लिए, तक
 

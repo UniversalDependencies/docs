@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-ADP.html
 
 ### `ADP`
 
-12 <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> tokens (71% of all `ADP` tokens) have a non-empty value of `AdvType`.
+12 <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> tokens (60% of all `ADP` tokens) have a non-empty value of `AdvType`.
 
 The most frequent other feature values with which `ADP` and `AdvType` co-occurred: <tt><a href="koi_uh-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (11; 92%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 92%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Ill</tt> (8; 67%).
 

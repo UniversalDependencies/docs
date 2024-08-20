@@ -27,7 +27,7 @@ The following 60 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	ultimum	ultimus	ADJ	B1|grn3|casD|gen1	Case=Acc|Degree=Abs|Gender=Masc|InflClass=IndEurO|Number=Sing	4	amod	_	_
 4	finem	finis	NOUN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Sing	7	nsubj	_	_
 5	uniuersi	uniuersus	DET	B1|grn1|casB|gen1	Case=Gen|Compound=Yes|Gender=Masc|InflClass=IndEurO|Number=Sing|PronType=Tot	4	nmod	_	_
-6	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	7	cop	_	_
+6	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	7	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	bonum	bonum	NOUN	B1|grn1|casD|gen3	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing	1	csubj	_	_
 8	intellectus	intellectus	NOUN	D1|grn1|casB|gen1	Case=Gen|Gender=Masc|InflClass=IndEurU|Number=Sing	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	Punc	_	1	punct	_	_
@@ -47,7 +47,7 @@ The following 60 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	considerationem	consideratio	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	7	obl	_	_
 5	principaliter	principaliter	ADV	C1|grn1|casG	_	7	advmod	_	_
 6	sapientiam	sapientia	NOUN	A1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	7	nsubj	_	_
-7	insistere	insisto	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	insistere	insisto	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 8	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~

@@ -13,7 +13,7 @@ The 10 most frequent `ADV` lemmas: <em>où, quand, plus, combien, comment, ne, p
 
 The 10 most frequent `ADV` types:  <em>où, quand, plus, combien, comment, pas, pourquoi, n', ne, surtout</em>
 
-The 10 most frequent ambiguous lemmas: <em>où</em> (<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 188, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>que</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 266, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 151, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 2), <em>tout</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>où</em> (<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 188, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>que</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 266, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 151, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 2), <em>tout</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>où</em> (<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 13, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>après</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>avant</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>qu'</em> (<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>que</em> (<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 123, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 17, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>tout</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1)
 
@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>où</em> (<tt><a href="fr_fqb-pos-ADV
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.100000 (the average of all parts of speech is 1.163777).
+The form / lemma ratio of `ADV` is 1.100000 (the average of all parts of speech is 1.164044).
 
 The 1st highest number of forms (7) was observed with the lemma “_”: <em>dessous, dessus, hui, lors, pas, peu, tant</em>.
 
@@ -51,11 +51,11 @@ The 2nd highest number of forms (2) was observed with the lemma “ne”: <em>n'
 
 The 3rd highest number of forms (2) was observed with the lemma “que”: <em>qu', que</em>.
 
-`ADV` occurs with 2 features: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt> (584; 69% instances), <tt><a href="fr_fqb-feat-Polarity.html">Polarity</a></tt> (51; 6% instances)
+`ADV` occurs with 3 features: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt> (584; 69% instances), <tt><a href="fr_fqb-feat-Polarity.html">Polarity</a></tt> (51; 6% instances), <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (24; 3% instances)
 
-`ADV` occurs with 2 feature-value pairs: `Polarity=Neg`, `PronType=Int`
+`ADV` occurs with 6 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=NOUN`, `ExtPos=SCONJ`, `Polarity=Neg`, `PronType=Int`
 
-`ADV` occurs with 3 feature combinations.
+`ADV` occurs with 7 feature combinations.
 The most frequent feature combination is `PronType=Int` (584 tokens).
 Examples: <em>où, quand, combien, comment, pourquoi</em>
 

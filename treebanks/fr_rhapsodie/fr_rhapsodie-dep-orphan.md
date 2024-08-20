@@ -56,14 +56,14 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 12	Porto	Porto	PROPN	_	_	10	orphan	_	_
 13	dans	dans	ADP	_	_	14	dep:comp	_	_
 14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	reparandum	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
 16	dans	dans	ADP	_	_	18	case	_	_
 17	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	18	det	_	_
 18	collèges	collège	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	_
 19	et	et	CCONJ	_	_	21	cc	_	_
 20	dans	dans	ADP	_	_	21	dep:comp	_	_
 21	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	reparandum	_	SpaceAfter=No
-22	,	,	PUNCT	_	_	25	punct	_	_
+22	,	,	PUNCT	_	_	21	punct	_	_
 23	dans	dans	ADP	_	_	25	case	_	_
 24	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	det	_	_
 25	primaires	primaire	NOUN	_	Gender=Fem|Number=Plur	18	conj	_	_
@@ -72,7 +72,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 28	euh	euh	INTJ	_	_	26	discourse	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
 30	enfin	enfin	ADV	_	_	26	discourse	_	SpaceAfter=No
-31	,	,	PUNCT	_	_	32	punct	_	_
+31	,	,	PUNCT	_	_	26	punct	_	_
 32	françaises	français	ADJ	_	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	3	punct	_	_
 

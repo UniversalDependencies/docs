@@ -42,9 +42,9 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 1	kinih	kinih	ADV	_	_	5	advmod	5:advmod	NormalizedForm=kinih|NormalizedLemma=kinih
 2	o	o	AUX	_	_	5	aux	5:aux	NormalizedForm=o|NormalizedLemma=o
 3	katka	katki	AUX	_	Aspect=Imp|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past	5	cop	5:cop	NormalizedForm=katka|NormalizedLemma=katki
-4	n	n	DET	_	_	5	det	5:det	NormalizedForm=n|NormalizedLemma=n
+4	n	in	DET	_	_	5	det	5:det	NormalizedForm=n|NormalizedLemma=n
 5	tikitl	tikitl	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	NormalizedForm=tikitl|NormalizedLemma=tikitl
-6	n	n	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
+6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
 7	canadá	canadá	PROPN	_	_	5	obl	5:obl	SpaceAfter=No|NormalizedForm=canadá|NormalizedLemma=canadá
 8	?	?	PUNCT	_	_	5	punct	5:punct	NormalizedForm=?|NormalizedLemma=?
 
@@ -61,14 +61,14 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	san	san	ADV	_	_	5	advmod	5:advmod	NormalizedForm=san|NormalizedLemma=san
 3	ye	yehwatl	PRON	_	Number=Sing|Person=3|PronType=Prs	4	cop	4:cop	NormalizedForm=ye|NormalizedLemma=yehwatl
 4	non	non	PRON	_	_	2	discourse	2:discourse	NormalizedForm=non|NormalizedLemma=non
-5	sekikuwihtok	kuwia	VERB	_	_	0	root	0:root	NormalizedForm=sekikuwihtok|NormalizedLemma=kuwia
-6	n	n	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
+5	sekikuwihtok	kuwia	VERB	_	Aspect=Prog|Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=sekikuwihtok|NormalizedLemma=kuwia
+6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
 7	tehwah	tehwan	PRON	_	Number=Plur|Person=1|PronType=Prs	8	nmod	8:nmod	NormalizedForm=tehwah|NormalizedLemma=tehwan
 8	totradición	tradición	NOUN	_	Foreign=Yes|Number=Sing|Number[psor]=Plur|Person[psor]=1	5	obj	5:obj	NormalizedForm=totradición|NormalizedLemma=_
 9	nikah	nikah	ADV	_	_	8	advmod	8:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
 10	ich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	appos	9:appos	NormalizedForm=ich|NormalizedLemma=tich
-11	n	n	DET	_	_	12	det	12:det	NormalizedForm=n|NormalizedLemma=n
-12	pueblo	pueblo	NOUN	_	Foreign=Yes|Number=Sing	10	nmod	10:nmod	SpaceAfter=No|NormalizedForm=pueblo|NormalizedLemma=pueblo
+11	n	in	DET	_	_	12	det	12:det	NormalizedForm=n|NormalizedLemma=n
+12	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	10	nmod	10:nmod	SpaceAfter=No|NormalizedForm=pueblo|NormalizedLemma=pueblo
 13	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~

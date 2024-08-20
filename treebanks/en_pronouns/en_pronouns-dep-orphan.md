@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
-7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
+7	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~

@@ -42,14 +42,14 @@ The following 56 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod	color:blue
 1	Ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
-2	,	,	PUNCT	Z:-------------	_	3	punct	1.1:punct	_
-3	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	1	conj	1.1:dep	_
+2	,	,	PUNCT	Z:-------------	_	3	punct	3:punct	_
+3	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	1	conj	0:root|1:conj	_
 4	SSM	SSM	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	3	nmod	3:nmod	SpaceAfter=No|LId=SSM-1|LGloss=(Socialistický_svaz_mládeže)
-5	,	,	PUNCT	Z:-------------	_	3	punct	1.1:punct	_
-6	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	3	orphan	1.1:dep	_
+5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
+6	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	1	conj	0:root|1:conj	_
 7	KSČ	KSČ	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	6	nmod	6:nmod	SpaceAfter=No|LId=KSČ-1|LGloss=(Komunistická_strana_Československa)
-8	,	,	PUNCT	Z:-------------	_	3	punct	1.1:punct	_
-9	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	3	orphan	1.1:dep	_
+8	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_
+9	ZO	ZO	NOUN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|Polarity=Pos	1	conj	0:root|1:conj	_
 10	ROH	ROH	PROPN	NNNXX-----A---8	Abbr=Yes|Gender=Neut|NameType=Com|Polarity=Pos	9	nmod	9:nmod	SpaceAfter=No
 11	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 

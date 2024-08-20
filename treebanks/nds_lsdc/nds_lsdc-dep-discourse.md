@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `discourse`.
+100 nodes (0%) are attached to their parents as `discourse`.
 
-12 instances of `discourse` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.14285714285714.
+87 instances of `discourse` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.83.
 
-The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (7; 50% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (4; 29% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 7% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 7% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 7% instances).
+The following 15 pairs of parts of speech are connected with `discourse`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (50; 50% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (18; 18% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (6; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -63,23 +63,21 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 2 discourse	color:blue
-1	„	„	PUNCT	_	_	10	punct	_	SpaceAfter=No
-2	Jo	jo	INTJ	_	_	10	discourse	_	lemma_gml=io|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	lemma_gml=,
-4	heyre	heyre	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	vocative	_	lemma_gml=hêre
-5	pastor	pastor	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	flat	_	lemma_gml=pâstôr|SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	wan	wän	ADV	_	_	10	advmod	_	lemma_gml=wan
-8	Jy	jy	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	10	nsubj	_	lemma_gml=gî
-9	sou	sou	ADV	_	_	10	advmod	_	lemma_gml=sô
-10	gud	good	ADJ	_	Degree=Pos	0	root	_	lemma_gml=gôt
-11	syn	weasen	AUX	_	VerbForm=Inf	10	cop	_	lemma_gml=wēsen
-12	willet	willen	AUX	_	Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Pres	10	aux	_	lemma_gml=willen|SpaceAfter=No
-13	!	!	PUNCT	_	_	10	punct	_	lemma_gml=!|SpaceAfter=No
-14	“	“	PUNCT	_	_	10	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 discourse	color:blue
+1	“	“	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Ney	ney	INTJ	_	_	4	discourse	_	lemma_gml=nêin|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	dat	dat	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	10	ccomp	_	lemma_gml=dê,dê,dat
+5	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	lemma_gml=wēsen
+6	et	et	PRON	_	Case=Nom|Gender=Neut|Person=3|PronType=Prs	4	expl	_	lemma_gml=hê,sê,et
+7	neet	nich	PART	_	PartType=Neg	4	advmod	_	lemma_gml=nicht|SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	SpaceAfter=No
+9	”	”	PUNCT	_	_	4	punct	_	_
+10	segt	seggen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=seggen
+11	Joost	Joost	PROPN	_	Number=Sing	10	nsubj	_	lemma_gml=joost|SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Colin Batchelor.
 
 Repository: [UD_Scottish_Gaelic-ARCOSG](https://github.com/UniversalDependencies/UD_Scottish_Gaelic-ARCOSG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgd_arcosg214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -588,16 +588,16 @@ We wish to thank all of the contributors to ARCOSG and fellow Celtic language UD
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: okay, Celtic, extra, flat, fresh, important, spotless, Agricultural, Giant, Japanese</li>
-          <li>ADV: really, exactly, straight, absolutely, alright, forward, full, particular, right, still</li>
+          <li>ADJ: okay, extra, flat, fresh, important, spotless, British, Celtic, English, First</li>
+          <li>ADV: really, exactly, straight, Celtic, absolutely, alright, forward, particular, still, totally</li>
           <li>CCONJ: so</li>
           <li>DET: the</li>
-          <li>INTJ: Well, okay, right, so, no, really, sorry, thanks</li>
-          <li>NOUN: tug-of-war, Shir, contract, council, vet, Radio, point, terrorists, tribunal, van</li>
-          <li>NUM: and, eighteen, eighty, fifty, five, forty-thousand, hundred, nineteen, ninety, one</li>
-          <li>PROPN: Sir, Dad, the, Airways, Apprentice, Aquaculture, Backpackers, Boys, British, Bus</li>
+          <li>INTJ: well, okay, right, so, A, really, sorry, thanks</li>
+          <li>NOUN: tug-of-war, Shir, contract, vet, Radio, council, point, terrorists, tribunal, van</li>
+          <li>NUM: fifty, forty-thousand, three</li>
+          <li>PROPN: Sir, Dad, Apprentice, Aquaculture, Backpackers, Bhridge, Boys, Centre, Community, Green</li>
           <li>VERB: dhifferentiates, sublet, test</li>
-          <li>X: the, a, I, and, in, on, poverty, well, Isles, Western</li>
+          <li>X: the, a, of, on, I, Isles, and, in, poverty, Cheatharnaigh</li>
         </ul>
       </li>
     </ul>
@@ -719,11 +719,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (88)</li>
+      <li>VERB--NOUN (86)</li>
       <li>VERB--NOUN-Dat (12)</li>
       <li>VERB--NOUN-Gen (2)</li>
-      <li>VERB--NOUN-Nom (2470)</li>
-      <li>VERB--PRON (4036)</li>
+      <li>VERB--NOUN-Nom (2469)</li>
+      <li>VERB--PRON (4026)</li>
     </ul>
   </li>
 </ul>
@@ -731,10 +731,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (30)</li>
+      <li>VERB--NOUN (29)</li>
       <li>VERB--NOUN-Dat (4)</li>
-      <li>VERB--NOUN-Nom (861)</li>
-      <li>VERB--PRON (366)</li>
+      <li>VERB--NOUN-Nom (862)</li>
+      <li>VERB--PRON (358)</li>
     </ul>
   </li>
 </ul>

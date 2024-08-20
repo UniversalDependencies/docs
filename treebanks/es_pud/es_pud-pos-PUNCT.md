@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `PUNCT`
 
-There are 16 `PUNCT` lemmas (0%), 16 `PUNCT` types (0%) and 2292 `PUNCT` tokens (10%).
-Out of 15 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 11 in number of types and 4 in number of tokens.
+There are 16 `PUNCT` lemmas (0%), 16 `PUNCT` types (0%) and 2290 `PUNCT` tokens (10%).
+Out of 17 observed tags, the rank of `PUNCT` is: 10 in number of lemmas, 11 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ", (, ), :, ;, -, ?, ¿</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.676335).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.314341).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
@@ -29,16 +29,22 @@ The 2nd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</em>.
 
-`PUNCT` does not occur with any features.
+`PUNCT` occurs with 1 features: <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+
+`PUNCT` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`PUNCT` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2289 tokens).
+Examples: <em>,, ., ", (, ), :, ;, -, ?, ¿</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="es_pud-dep-punct.html">punct</a></tt> (2292; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="es_pud-dep-punct.html">punct</a></tt> (2290; 100% instances)
 
-Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1278; 56% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (585; 26% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (120; 5% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (118; 5% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (63; 3% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (48; 2% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (46; 2% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1304; 57% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (576; 25% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (119; 5% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (102; 4% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (61; 3% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (48; 2% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (46; 2% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="es_pud-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-2292 (100%) `PUNCT` nodes are leaves.
+2290 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="en_gentle-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-154 nodes (1%) are attached to their parents as `acl`.
+153 nodes (1%) are attached to their parents as `acl`.
 
-152 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.20779220779221.
+151 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.2156862745098.
 
-The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (115; 75% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (13; 8% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (4; 3% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (115; 75% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (13; 8% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (4; 3% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	heaven	heaven	NOUN	NN	Number=Sing	7	obl	7:obl:in	Entity=(15-place-giv:inact-cf4-1-coref-Heaven)|SpaceAfter=No
 10	,	,	PUNCT	,	_	2	punct	2:punct	_
 11	Went	went	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-12	envying	envy	VERB	VBG	VerbForm=Ger	11	xcomp	11:xcomp	_
+12	envying	envy	VERB	VBG	VerbForm=Ger	11	xcomp	11:xcomp	MSeg=envy-ing
 13	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	obj	12:obj	Entity=(1-person-giv:act-cf1*-1-ana)
 14	and	and	CCONJ	CC	_	15	cc	15:cc	_
 15	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	conj	12:obj|13:conj:and	Entity=(10-person-giv:act-cf2-1-ana)20)
@@ -64,18 +64,26 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 acl	color:blue
-1	14.	14.	X	LS	_	2	dep	2:dep	Discourse=joint-list_m:174->156:0:_|XML=<ref target:::"/databases/install-postgres-with-docker.md">
-2	Install	install	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	_
-3	and	and	CCONJ	CC	_	4	cc	4:cc	_
-4	Run	run	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	2	conj	2:conj:and	_
-5	PostgreSQL	PostgreSQL	PROPN	NNP	Number=Sing	2	obj	2:obj|4:obj	Entity=(243-abstract-new-cf2-1-sgl-PostgreSQL)
-6	using	use	VERB	VBG	VerbForm=Ger	5	acl	5:acl	MSeg=us-ing
-7	Docker	Docker	PROPN	NNP	Number=Sing	6	obj	6:obj	Entity=(242-abstract-giv:act-cf1*-1-coref-Docker_%28software%29)|XML=</ref>
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 acl	color:blue
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	root	0:root|4:nsubj	Discourse=joint-disjunction_m:59->46:1:_|Entity=(86-abstract-new-cf4-1-sgl
+2	which	which	PRON	WDT	PronType=Rel	4	nsubj	1:ref	Discourse=elaboration-attribute:60->59:0:_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass|6:aux:pass	_
+4	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	acl:relcl	1:acl:relcl	MSeg=committ-ed
+5	or	or	CCONJ	CC	_	6	cc	6:cc	_
+6	entrusted	entrust	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	1:acl:relcl|4:conj:or	Entity=86)|MSeg=en-trust-ed|SpaceAfter=No
+7	;	;	PUNCT	:	_	8	punct	8:punct	_
+8	something	something	PRON	NN	Number=Sing|PronType=Ind	1	parataxis	1:parataxis	Discourse=same-unit_m:61->59:1:_|Entity=(87-abstract-new-cf1-1-sgl
+9	received	receive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	Discourse=elaboration-attribute:62->61:0:_|MSeg=receiv-ed
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	confidence	confidence	NOUN	NN	Number=Sing	9	obl	9:obl:in	Entity=(88-abstract-new-cf2-1-sgl)87)|MSeg=confid-ence|SpaceAfter=No
+12	;	;	PUNCT	:	_	14	punct	14:punct	_
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Discourse=same-unit_m:63->59:1:_|Entity=(89-abstract-new-cf3-2-sgl
+14	charge	charge	NOUN	NN	Number=Sing	1	parataxis	1:parataxis	Entity=89)|SpaceAfter=No
+15	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 

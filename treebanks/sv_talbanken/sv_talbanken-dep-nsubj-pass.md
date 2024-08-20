@@ -60,8 +60,8 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj:pass	color:blue
-1	De	en	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	2	det	2:det	_
-2	intagna	ta_in	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	3	nsubj:pass	3:nsubj:pass|6:nsubj:pass	_
+1	De	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	2	det	2:det	_
+2	intagna	intagen	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Tense=Past|VerbForm=Part	3	nsubj:pass	3:nsubj:pass|6:nsubj:pass	_
 3	isoleras	isolera	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 4	socialt	social	ADV	AB|POS	Degree=Pos	3	advmod	3:advmod	_
 5	och	och	CCONJ	KN	_	6	cc	6:cc	_

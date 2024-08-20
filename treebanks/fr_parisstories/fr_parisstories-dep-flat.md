@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=63454|AlignEnd=63454
 3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	AlignBegin=63454|AlignEnd=63697|SpaceAfter=No
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	reparandum	_	AlignBegin=63697|AlignEnd=63941|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	AlignBegin=63941|AlignEnd=63941
+5	,	,	PUNCT	_	_	4	punct	_	AlignBegin=63941|AlignEnd=63941
 6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	AlignBegin=63941|AlignEnd=64184|SpaceAfter=No
 7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=64184|AlignEnd=64427
 8	quatre-vingt-seize	quatre-vingt-seize	NUM	_	_	7	obl:mod	_	AlignBegin=64427|AlignEnd=64670
@@ -79,7 +79,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 32	de	de	ADP	_	_	34	case	_	_
 33	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	34	det	_	SpaceAfter=No
 34	été	été	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	SpaceAfter=No
-35	,	,	PUNCT	_	_	36	punct	_	_
+35	,	,	PUNCT	_	_	31	punct	_	_
 36	colo	colo	NOUN	_	Gender=Fem|Number=Sing	30	flat	_	_
 37	écrivains	écrivain	NOUN	_	Gender=Masc|Number=Plur	36	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	7	punct	_	_

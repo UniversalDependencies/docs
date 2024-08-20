@@ -10,10 +10,10 @@ This relation is a language-specific subtype of .
 
 1973 nodes (1%) are attached to their parents as `compound:prt`.
 
-1159 instances of `compound:prt` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.54384186517993.
+1163 instances of `compound:prt` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.51444500760264.
 
-The following 9 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1298; 66% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (195; 10% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (187; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (173; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (86; 4% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (26; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1298; 66% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (195; 10% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (187; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (173; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (86; 4% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (26; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `compound:prt`: <tt>
 6	maken	kennis_maken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	0:root	_
 7	met	met	ADP	VZ|init	_	9	case	9:case	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
-9	liefhebbers	liefhebber	NOUN	N|soort|mv|basis	Number=Plur	6	obl	6:obl:met	SpaceAfter=No
+9	liefhebbers	liefhebber	NOUN	N|soort|mv|basis	Number=Plur	6	obl:arg	6:obl:arg:met	SpaceAfter=No
 10	.	.	PUNCT	LET	_	6	punct	6:punct	_
 11	"	"	PUNCT	LET	_	6	punct	6:punct	_
 

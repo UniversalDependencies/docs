@@ -52,7 +52,7 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 1	ⲟⲩⲟⲓ	ⲟⲩⲟⲓ	PART	PTC	_	0	root	_	Orig=Ⲟⲩⲟⲓ
 2	ⲛⲁ	ⲛⲁ	ADP	PREP	_	3	case	_	_
 3	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	1	obl	_	_
-4	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	Entity=(person
+4	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	Entity=(person
 5	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	1	vocative	_	_
 6	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	7	mark	_	_
 7	ϩⲟⲗϭ	ϩⲗⲟϭ	VERB	VSTAT	VerbForm=Fin	5	acl:relcl	_	Orig=ϩⲟⲗϭ̅
@@ -75,7 +75,7 @@ The following 13 pairs of parts of speech are connected with `vocative`: <tt><a 
 2	ⲁ	ⲁ	AUX	APST	_	4	aux	_	_
 3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 4	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	0	root	_	_
-5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+5	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 6	ⲛⲁ	ⲛⲁ	ADP	PREP	_	7	case	_	_
 7	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	4	obl	_	Orig=ⲓ̅
 8	·	·	PUNCT	PUNCT	_	9	punct	_	_

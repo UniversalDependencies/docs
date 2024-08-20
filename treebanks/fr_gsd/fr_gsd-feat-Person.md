@@ -11,22 +11,22 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_gsd-feat-Person.html">Person</a></tt>, <tt><a href="fr_gsd-feat-Person-psor.html">Person[psor]</a></tt>.
 
-39301 tokens (10%) have a non-empty value of `Person`.
+39299 tokens (10%) have a non-empty value of `Person`.
 3588 types (8%) occur at least once with a non-empty value of `Person`.
 1378 lemmas (4%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (14415; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (13555; 3% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (11322; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (14413; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (13555; 3% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (11322; 3% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
 
 ### `PRON`
 
-14415 <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Person`.
+14413 <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11949; 83%), <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11356; 79%), <tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt> (9833; 68%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8947; 62%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7606; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11923; 83%), <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11354; 79%), <tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt> (9831; 68%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8945; 62%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7604; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1123; 8% of non-empty `Person`): <em>nous, je, j', m', me, moi, -je, -nous, -moi, moi-même</em>
 * `2` (329; 2% of non-empty `Person`): <em>vous, -vous, tu, -tu, t', te, toi, -toi</em>
-* `3` (12963; 90% of non-empty `Person`): <em>il, se, s', elle, c', on, y, ils, lui, ce</em>
+* `3` (12961; 90% of non-empty `Person`): <em>il, se, s', elle, c', on, y, ils, lui, ce</em>
 * `EMPTY` (3772): <em>qui, où, dont, qu', que, lequel, rien, laquelle, lesquels, lesquelles</em>
 
 <table>
@@ -50,10 +50,11 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (478; 4% of non-empty `Person`): <em>recommande, conseille, ai, trouve, vais, pense, pouvons, aime, devons, peux</em>
 * `2` (253; 2% of non-empty `Person`): <em>allez, hésitez, avez, voulez, pouvez, passez, pourrez, pensez, cherchez, trouverez</em>
 * `3` (12824; 95% of non-empty `Person`): <em>a, peut, fait, devient, doit, ont, trouve, permet, agit, faut</em>
-* `EMPTY` (18217): <em>né, située, faire, situé, partir, eu, fait, mort, voir, connu</em>
+* `EMPTY` (18216): <em>né, située, faire, situé, partir, eu, fait, mort, voir, connu</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=PROPN</tt>|<tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>a</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=PROPN</tt>|<tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ont</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>aurais</em></td><td><em>aurais</em></td><td><em>aurait</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>auriez</em></td><td><em>auraient</em></td></tr>
@@ -120,7 +121,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 * `2` (1; 11% of non-empty `Person`): <em>tien</em>
 * `3` (8; 89% of non-empty `Person`): <em>sien, leur, sienne, siennes, siens</em>
-* `EMPTY` (23790): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
+* `EMPTY` (23810): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
 
 <table>
   <tr><th>Paradigm <i>sien</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -136,12 +137,12 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (4187; 63%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1246; 68%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (648; 65%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (659; 65%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (521; 87%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (496; 73%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (498; 73%),
 <tt>PRON --[<tt><a href="fr_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (231; 78%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (173; 82%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (172; 82%),
 <tt>PRON --[<tt><a href="fr_gsd-dep-cop.html">cop</a></tt>]--> AUX</tt> (169; 77%),
 <tt>PRON --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> PRON</tt> (44; 100%),
-<tt>PRON --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (39; 58%).
+<tt>PRON --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (40; 59%).
 

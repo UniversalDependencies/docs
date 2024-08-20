@@ -22,19 +22,19 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 13 orphan	color:blue
-1	Esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	cepa	cepa	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	ayuda	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	ayuda	ayudar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	IN	_	6	case	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	dolor	dolor	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	espalda	espalda	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	_	_
-10	esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	conj	_	orig_deprel=nsubj
+10	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	conj	_	orig_deprel=nsubj
 11	con	con	ADP	IN	_	12	case	_	orig_deprel=obl
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	náuseas	_	NOUN	NN	Gender=Fem|Number=Plur	10	orphan	_	SpaceAfter=No
+13	náuseas	náusea	NOUN	NN	Gender=Fem|Number=Plur	10	orphan	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	18	punct	_	_
 15	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
 16	producto	producto	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	noche	noche	NOUN	NN	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
-24	explica	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+24	explica	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 25	Dietrich	Dietrich	PROPN	NNP	Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
 26	,	,	PUNCT	,	_	29	punct	_	_
 27	de	de	ADP	IN	_	29	case	_	_
@@ -61,7 +61,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 37	,	,	PUNCT	,	_	40	punct	_	_
 38	donde	donde	ADV	WRB	PronType=Rel	40	advmod	_	_
 39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	expl:pass	_	_
-40	vende	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
+40	vende	vender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
 41	hierba	hierba	NOUN	NN	Gender=Fem|Number=Sing	40	nsubj:pass	_	_
 42	legalmente	legalmente	ADV	RB	_	40	advmod	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	3	punct	_	_

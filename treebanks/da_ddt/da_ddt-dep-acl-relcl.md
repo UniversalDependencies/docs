@@ -64,7 +64,7 @@ The following 30 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	Og	og	CCONJ	_	_	13	cc	_	_
 2	bogen	bog	NOUN	_	Definite=Def|Gender=Com|Number=Sing	11	nsubj	_	_
 3	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
-4	ikke	ikke	ADV	_	_	11	advmod	_	SpaceAfter=No
+4	ikke	ikke	ADV	Polarity=Neg	_	11	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	som	som	PRON	_	PartType=Inf	9	obj	_	_
 7	man	man	PRON	_	Case=Nom|Gender=Com|PronType=Ind	9	nsubj	_	_

@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	huius	hic	DET	dpnsg	Case=Gen|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	4	det	_	_
 4	operis	opus	NOUN	sns3g	Case=Gen|Gender=Neut|InflClass=IndEurX|Number=Sing	2	nmod	_	_
 5	propositum	propositum	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	_
-6	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+6	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 7	de	de	ADP	e	_	9	case	_	_
 8	tribus	tres	NUM	aufpb	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
 9	questionibus	quaestio	NOUN	sfp3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur	15	obl	_	SpaceAfter=No
@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 12	materia	materia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	13	nsubj	_	_
 13	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 14	,	,	PUNCT	Pu	_	13	punct	_	_
-15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	;	;	PUNCT	Pu	_	20	punct	_	_
 17	de	de	ADP	e	_	20	case	_	_
 18	quarum	qui	PRON	prepfg	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	20	nmod	_	_
@@ -88,7 +88,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Veritas	ueritas	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	4	nsubj	_	_
 2	autem	autem	PART	co	_	5	discourse	_	_
 3	questionis	quaestio	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	1	nmod	_	_
-4	patere	pateo	VERB	va2fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	5	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	patere	pateo	VERB	va2fp	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	5	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	non	non	PART	r	Polarity=Neg	7	advmod:neg	_	_
 7	solum	solum	ADV	r	PronType=Con	4	advmod:emph	_	_
@@ -114,7 +114,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 27	et	et	CCONJ	co	_	28	cc	_	_
 28	terram	terra	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	26	conj	_	_
 29	simul	simul	ADV	r	_	26	advmod	_	_
-30	assentire	assentio	VERB	va4fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	31	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+30	assentire	assentio	VERB	va4fp	Aspect=Imp|InflClass=LatI|VerbForm=Inf|Voice=Act	31	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 31	necesse	necesse	ADJ	din	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	4	conj	_	_
 32	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 33	.	.	PUNCT	Pu	_	5	punct	_	_

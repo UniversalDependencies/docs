@@ -62,8 +62,8 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1597; 92%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1102; 91%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (29; 88%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1115; 91%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (17; 89%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (11; 100%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 88%),
 <tt>PROPN --[<tt><a href="cs_pdt-dep-obl.html">obl</a></tt>]--> PROPN</tt> (7; 88%),

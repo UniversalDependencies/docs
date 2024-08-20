@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-ITTB: Relations: `obl:lmod`
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-obl.html">obl</a></tt>.
-There are also 3 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_ittb-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `obl`: <tt><a href="la_ittb-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="la_ittb-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="la_ittb-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="la_ittb-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 6 nodes (0%) are attached to their parents as `obl:lmod`.
 
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 3	oporteat	oportet	VERB	K3|modB|tem1|gen6|vgr1	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 4	uel	uel	CCONJ	O4|vgr1	_	6	cc	_	_
 5	statim	statim	ADV	O4	_	6	advmod	_	_
-6	deuenire	deuenio	VERB	M3|modH|tem1|vgr1	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj	_	Lilaflcat=LatI|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+6	deuenire	deuenio	VERB	M3|modH|tem1|vgr1	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	Lilaflcat=LatI|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	ad	ad	ADP	S4	_	9	case	_	_
 8	primum	primus	ADJ	B1|grn1|casD|gen3	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Ord	9	amod	_	_
 9	mouens	moueo	VERB	K2|modD|tem1|grp1|casD|gen3|vgr1	Aspect=Imp|Case=Acc|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	6	obl:lmod	_	TraditionalMood=Participium|TraditionalTense=Praesens

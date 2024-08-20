@@ -11,7 +11,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 482 tokens (2%) have a non-empty value of `Gender`.
 16 types (0%) occur at least once with a non-empty value of `Gender`.
-7 lemmas (0%) occur at least once with a non-empty value of `Gender`.
+9 lemmas (0%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 1 part-of-speech tags: <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (482; 2% instances).
 
 ### `PRON`

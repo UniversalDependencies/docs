@@ -218,11 +218,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (24516; 63%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (15800; 69%),
 <tt>VERB --[<tt><a href="ar_padt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7268; 77%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6976; 83%),
-<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4765; 82%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6977; 83%),
+<tt>NOUN --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4778; 82%),
 <tt>NOUN --[<tt><a href="ar_padt-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (3916; 71%),
+<tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3771; 74%),
 <tt>VERB --[<tt><a href="ar_padt-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (3711; 76%),
-<tt>VERB --[<tt><a href="ar_padt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3656; 73%),
 <tt>VERB --[<tt><a href="ar_padt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2352; 91%),
 <tt>VERB --[<tt><a href="ar_padt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2310; 88%).
 

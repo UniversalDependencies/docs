@@ -61,7 +61,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Kita	kita	ADV	sampl.prv.nelygin.	Degree=Pos|Hyph=Yes	8	parataxis	8:parataxis	_
 2	vertus	vertus	X	tęs.	Hyph=Yes	1	nmod	1:nmod	SpaceAfter=No
 3	,	,	PUNCT	skyr.	_	1	punct	1:punct	_
-4	gyventi	gyventi	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	8	csubj	8:csubj|10:csubj	_
+4	gyventi	gyventi	VERB	vksm.bndr.	Polarity=Pos|VerbForm=Inf	8	csubj	8:csubj|10:csubj:xsubj	_
 5	su	su	ADP	prl.Įn.	AdpType=Prep|Case=Ins	7	case	7:case	_
 6	tokia	toks	DET	įv.mot.vns.Įn.	Case=Ins|Definite=Ind|Gender=Fem|Number=Sing|PronType=Dem	7	det	7:det	_
 7	paslaptimi	paslaptis	NOUN	dkt.mot.vns.Įn.	Case=Ins|Gender=Fem|Number=Sing	4	obl:arg	4:obl:arg:su:ins	_

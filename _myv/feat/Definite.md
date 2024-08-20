@@ -28,4 +28,4 @@ Definiteness in Erzya is an inflectional feature of [nouns](myv-pos/NOUN) and [p
 * [myv] _сонзэ вастызь кода <b>инязоронь</b>_ "he was received like <b>a king</b>"
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:40 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:52 CEST -->

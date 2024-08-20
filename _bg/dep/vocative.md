@@ -18,4 +18,4 @@ vocative(докарай-3, Калине-1)
 Kalin , bring the car here .
 vocative(bring-3, Kalin-1)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:48 CEST -->

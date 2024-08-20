@@ -24,9 +24,9 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (2608; 30% of non-empty `Number`): ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉ, ⲧⲏⲩⲧⲛ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ
-* `Sing` (5982; 70% of non-empty `Number`): ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲧⲉ, ⲁⲛⲟⲕ, ⲅ, ⲛⲧⲟϥ
-* `EMPTY` (764): ⲟⲩ, ⲛⲓⲙ, ϥ, ⲕ, ⲥ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲩ, ⲧⲛ
+* `Plur` (2607; 30% of non-empty `Number`): ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉ, ⲧⲏⲩⲧⲛ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ
+* `Sing` (5983; 70% of non-empty `Number`): ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲧⲉ, ⲁⲛⲟⲕ, ⲅ, ⲛⲧⲟϥ
+* `EMPTY` (765): ⲟⲩ, ⲛⲓⲙ, ϥ, ⲕ, ⲥ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲩ, ⲧⲛ
 
 <table>
   <tr><th>Paradigm <i>ⲡⲉ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

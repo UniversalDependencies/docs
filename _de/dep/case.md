@@ -28,4 +28,4 @@ case(Straßenbahn, als)
 Das sieht alles andere als einfach aus . \n This looks anything but simple .
 case(einfach, als)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:31 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:48 CEST -->

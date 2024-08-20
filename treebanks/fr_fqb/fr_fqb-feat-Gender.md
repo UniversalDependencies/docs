@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-9828 tokens (41%) have a non-empty value of `Gender`.
-2531 types (60%) occur at least once with a non-empty value of `Gender`.
-2166 lemmas (60%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3674; 15% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2801; 12% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1238; 5% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (932; 4% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (768; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (411; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+9830 tokens (41%) have a non-empty value of `Gender`.
+2532 types (60%) occur at least once with a non-empty value of `Gender`.
+2167 lemmas (60%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3674; 15% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2801; 12% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1238; 5% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (932; 4% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (768; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (413; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (1194; 43% of non-empty `Gender`): <em>la, quelle, une, sa, ma, quelles, certaines, cette</em>
 * `Masc` (1607; 57% of non-empty `Gender`): <em>le, quel, un, les, quels, ce, cet, du, tout</em>
-* `EMPTY` (1035): <em>l', les, des, mon, mes, son, la, votre, de, ses</em>
+* `EMPTY` (1033): <em>l', les, des, mon, mes, son, la, votre, de, ses</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -102,15 +102,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-411 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Gender`.
+413 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (388; 94%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (383; 93%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (372; 91%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (388; 94%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt> (385; 93%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (374; 91%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (118; 29% of non-empty `Gender`): <em>-t-elle, -elle, laquelle, -elles, une, celle, celle-ci, elle, elles, lesquelles</em>
-* `Masc` (293; 71% of non-empty `Gender`): <em>-t-il, -il, -ils, il, lequel, le, un, celui, celui-ci, ceux</em>
-* `EMPTY` (1247): <em>qui, qu', -ce, se, que, -je, je, -t-on, s', -on</em>
+* `Masc` (295; 71% of non-empty `Gender`): <em>-t-il, -il, -ils, il, lequel, le, un, quelqu'un, celui, celui-ci</em>
+* `EMPTY` (1245): <em>qui, qu', -ce, se, que, -je, je, -t-on, s', -on</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

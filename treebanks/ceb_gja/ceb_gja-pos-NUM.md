@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>usa</em> (<tt><a href="ceb_gja-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.142523).
+The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.172662).
 
 The 1st highest number of forms (2) was observed with the lemma “duha”: <em>Duhay, duha</em>.
 

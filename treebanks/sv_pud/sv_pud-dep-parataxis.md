@@ -29,10 +29,10 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	ändå	ändå	ADV	AB	_	2	advmod	2:advmod	SpaceAfter=No
 6	,	,	PUNCT	MID	_	7	punct	7:punct	_
 7	hoppas	hoppas	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	2	parataxis	2:parataxis	_
-8	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	_
+8	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	10	nsubj	10:nsubj	_
 9	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	10:cop	_
 10	värt	värd	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	ccomp	7:ccomp	_
-11	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	10	obl	10:obl	SpaceAfter=No
+11	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	10	obl	10:obl	SpaceAfter=No
 12	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Fyra	fyra	NUM	RG|NOM	Case=Nom	2	nummod	2:nummod	_
 2	andra	andra	PRON	PN|UTR/NEU|PLU|IND|SUB/OBJ	Definite=Ind|Number=Plur	3	nsubj	3:nsubj	_
 3	ger	ge	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-4	de	den	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur	8	det	8:det	_
+4	de	de	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	8	det	8:det	_
 5	minsta	liten	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	8	amod	8:amod	_
 6	och	och	CCONJ	KN	_	7	cc	7:cc	_
 7	största	stor	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	5	conj	5:conj:och|8:amod	_
@@ -78,8 +78,8 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	ut	ut	ADV	AB	_	4	advmod	4:advmod	SpaceAfter=No
 6	,	,	PUNCT	MID	_	7	punct	7:punct	_
 7	avslöjade	avslöja	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_
-8	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	10	det	10:det	_
-9	franska	fransk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	10	amod	10:amod	_
+8	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	10	det	10:det	_
+9	franska	fransk	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	10	amod	10:amod	_
 10	kontingenten	kontingent	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nsubj	7:nsubj	SpaceAfter=No
 11	.	.	PUNCT	MAD	_	4	punct	4:punct	_
 

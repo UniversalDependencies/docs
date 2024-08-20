@@ -213,11 +213,11 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="sk_snk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7695; 100%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-case.html">case</a></tt>]--> ADP</tt> (6607; 99%),
 <tt>NOUN --[<tt><a href="sk_snk-dep-det.html">det</a></tt>]--> DET</tt> (2468; 100%),
-<tt>NOUN --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1039; 98%),
+<tt>NOUN --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1061; 98%),
 <tt>PRON --[<tt><a href="sk_snk-dep-case.html">case</a></tt>]--> ADP</tt> (707; 100%),
 <tt>PROPN --[<tt><a href="sk_snk-dep-case.html">case</a></tt>]--> ADP</tt> (705; 95%),
 <tt>PROPN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (432; 74%),
 <tt>PROPN --[<tt><a href="sk_snk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (324; 76%),
-<tt>ADJ --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (315; 100%),
+<tt>ADJ --[<tt><a href="sk_snk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (317; 100%),
 <tt>ADJ --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (288; 98%).
 

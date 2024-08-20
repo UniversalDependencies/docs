@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-136 nodes (5%) are attached to their parents as `obj`.
+140 nodes (5%) are attached to their parents as `obj`.
 
-96 instances of `obj` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54411764705882.
+97 instances of `obj` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.53571428571429.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (89; 65% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (44; 32% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (93; 66% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (44; 31% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obj	color:blue
-1	Näʹde	näʹde	ADV	_	_	3	advmod	_	_
-2	muõrid	muõrr	NOUN	_	Case=Acc|Number=Plur	3	obj	_	GTtags=Pl,Acc
-3	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+1	Näʹde	näʹde	ADV	Adv	_	3	advmod	_	_
+2	muõrid	muõrr	NOUN	N	Case=Acc|Number=Plur	3	obj	_	GTtags=Pl,Acc
+3	räʹjje	raajjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+5	räʹjje	raajjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_
-7	räʹjje	raajjâd	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+7	räʹjje	raajjâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	3	conj	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

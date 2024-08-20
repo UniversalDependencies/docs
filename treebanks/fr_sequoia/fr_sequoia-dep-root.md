@@ -13,7 +13,7 @@ This relation is universal.
 3099 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.88964181994192.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1962; 63% instances), -<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (791; 26% instances), -<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (174; 6% instances), -<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (122; 4% instances), -<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (18; 1% instances), -<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (8; 0% instances), -<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 0% instances), -<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1962; 63% instances), -<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (795; 26% instances), -<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (174; 6% instances), -<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (111; 4% instances), -<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (19; 1% instances), -<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (18; 1% instances), -<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (8; 0% instances), -<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 0% instances), -<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,11 +47,11 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 7	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	14	14	NUM	_	NumType=Card	10	nummod	_	SpaceAfter=No
-10	h	h	NOUN	_	_	1	nmod	_	SpaceAfter=No
+10	h	h	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 11	30	30	NUM	_	NumType=Card	10	nmod	_	_
 12	à	à	ADP	_	_	14	case	_	_
 13	18	18	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
-14	h	h	NOUN	_	_	10	obl:arg	_	SpaceAfter=No
+14	h	h	NOUN	_	Gender=Fem|Number=Sing	10	obl:arg	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

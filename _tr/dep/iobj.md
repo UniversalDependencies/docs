@@ -15,4 +15,4 @@ Alper bana iki elma verdi . \n Alper gave me two apples .
 iobj(verdi, bana)
 iobj(gave, bana)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:59 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:17 CEST -->

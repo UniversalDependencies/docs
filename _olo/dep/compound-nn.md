@@ -40,4 +40,4 @@ obj(pitää-4, puheen-5)
 punct(pitää-4, .-6)
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:38 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:56 CEST -->

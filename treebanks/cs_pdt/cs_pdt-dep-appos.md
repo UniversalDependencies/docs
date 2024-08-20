@@ -28,7 +28,7 @@ The following 71 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	dodávek	dodávka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	3	nmod	3:nmod:gen	Functor=3:APP
 5	tepla	teplo	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	4	nmod	4:nmod:gen	Entity=(cmpr9410049c2--1-gstype:gen)|Functor=4:PAT|LId=teplo-1
 6	odběratelům	odběratel	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	4	nmod	4:nmod:dat	Entity=(cmpr9410049c114--1-gstype:gen|Functor=4:ADDR
-7	MST	MST	NOUN	BNXXX-----A----	Abbr=Yes|Polarity=Pos	6	nmod	6:nmod	Entity=(cmpr9410049c21--1-ClusterTypeMismatch:gen:spec:2,gstype:gen|Functor=6:APP|LId=MST-88
+7	MST	MST	NOUN	BNXXX-----A----	Abbr=Yes|Polarity=Pos	6	nmod	6:nmod	Entity=(cmpr9410049c21--1-gstype:gen|Functor=6:APP|LId=MST-88
 8	Ostrava	Ostrava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	7	nmod	7:nmod:nom	Entity=(cmpr9410049c22--1-gstype:spec)cmpr9410049c21)cmpr9410049c114)|Functor=7:RSTR|SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
@@ -48,7 +48,7 @@ The following 71 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	Functor=6:APPS
 6	ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	appos	3:appos	SpaceAfter=No|Functor=3:ACT
 7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nmod	6:nmod:nom	Entity=(cmpr9410049c116--1-ClusterTypeMismatch:spec:gen:2,gstype:gen|Functor=6:RSTR|LDeriv=zásobovat
+8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nmod	6:nmod:nom	Entity=(cmpr9410049c116--1-gstype:gen|Functor=6:RSTR|LDeriv=zásobovat
 9	teplem	teplo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod:ins	Entity=(cmpr9410049c2--1-gstype:gen)|Functor=8:EFF|LId=teplo-1
 10	Ostrava	Ostrava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	8	nmod	8:nmod:nom	Entity=(cmpr9410049c22--1-gstype:spec)cmpr9410049c116)cmpr9410049c124)|Functor=8:RSTR
 
@@ -68,7 +68,7 @@ The following 71 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	Functor=6:APPS
 6	ředitel	ředitel	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	appos	3:appos	SpaceAfter=No|Functor=3:ACT
 7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nmod	6:nmod:nom	Entity=(cmpr9410049c116--1-ClusterTypeMismatch:spec:gen:2,gstype:gen|Functor=6:RSTR|LDeriv=zásobovat
+8	Zásobování	zásobování	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	6	nmod	6:nmod:nom	Entity=(cmpr9410049c116--1-gstype:gen|Functor=6:RSTR|LDeriv=zásobovat
 9	teplem	teplo	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	8	nmod	8:nmod:ins	Entity=(cmpr9410049c2--1-gstype:gen)|Functor=8:EFF|LId=teplo-1
 10	Ostrava	Ostrava	PROPN	NNFS1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Sing|Polarity=Pos	8	nmod	8:nmod:nom	Entity=(cmpr9410049c22--1-gstype:spec)cmpr9410049c116)cmpr9410049c124)|Functor=8:RSTR
 

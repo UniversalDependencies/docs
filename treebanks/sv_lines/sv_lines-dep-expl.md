@@ -29,7 +29,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 5	vara	vara	AUX	INF-ACT	VerbForm=Inf|Voice=Act	9	cop	_	_
 6	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	9	det	_	_
 7	alldeles	alldeles	ADV	_	_	8	advmod	_	_
-8	normal	normal	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	9	amod	_	_
+8	normal	normal	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	9	amod	_	_
 9	check	check	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj	_	SpaceAfter=No
 10	,	,	PUNCT	Comma	_	11	punct	_	_
 11	sa	säga	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -48,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Det	den	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	4	expl	_	_
 2	är	vara	AUX	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 3	inget	ingen	DET	NEG-SG-IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Neg	4	det	_	_
-4	särskilt	särskild	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	särskilt	särskild	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 5	med	med	ADP	_	_	6	case	_	_
 6	den	den	PRON	PERS-P3SG	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	4	obl	_	_
 7	alls	alls	ADV	_	_	4	advmod	_	SpaceAfter=No

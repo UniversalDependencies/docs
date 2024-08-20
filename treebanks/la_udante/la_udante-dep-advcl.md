@@ -31,7 +31,7 @@ The following 48 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	,	,	PUNCT	Pu	_	4	punct	_	_
 7	stantiam	stantia	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	9	nsubj	_	_
 8	dicimus	dico	VERB	va3ipp1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	habere	habeo	VERB	va2fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	habere	habeo	VERB	va2fp	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	8	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	frontem	frons	NOUN	sfs3a	Case=Acc|Gender=Fem|InflClass=IndEurI|Number=Sing	9	obj	_	SpaceAfter=No
 11	.	.	PUNCT	Pu	_	8	punct	_	_
 
@@ -52,7 +52,7 @@ The following 48 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	,	,	PUNCT	Pu	_	5	punct	_	_
 7	adhuc	adhuc	ADV	r	AdvType=Tim|Compound=Yes	8	advmod:tmod	_	_
 8	restat	resto	VERB	va1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	inquirere	inquiro	VERB	va3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	inquirere	inquiro	VERB	va3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	8	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	in	in	ADP	e	_	11	case	_	_
 11	quod	qui	PRON	presna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	19	obl	_	SpaceAfter=No
 12	,	,	PUNCT	Pu	_	11	punct	_	_
@@ -62,7 +62,7 @@ The following 48 pairs of parts of speech are connected with `advcl`: <tt><a hre
 16	causam	causa	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	19	advcl:cmp	_	SpaceAfter=No
 17	,	,	PUNCT	Pu	_	16	punct	_	_
 18	habeat	habeo	VERB	va2cps3	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl:relcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-19	reduci	reduco	VERB	vp3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	18	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+19	reduci	reduco	VERB	vp3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	18	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 20	.	.	PUNCT	Pu	_	8	punct	_	_
 
 ~~~

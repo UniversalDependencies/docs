@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_
 6	campo	campo	NOUN	ncms000	Gender=Masc|Number=Sing	3	nmod	3:nmod	_
 7	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pass	9:expl:pass	_
-8	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj	ArgTem=arg2:ben
+8	le	él	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	ArgTem=arg2:ben
 9	entrega	entregar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 10	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	11:det	_
 11	cupón	cupón	NOUN	ncms000	Gender=Masc|Number=Sing	9	nsubj	9:nsubj	SpaceAfter=No|ArgTem=arg1:pat
@@ -128,7 +128,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	27:det	_
 27	25	25	NUM	_	NumForm=Digit|NumType=Card	24	obl	24:obl	MWE=25_de_abril|MWEPOS=NOUN|ArgTem=argM:tmp|Entity=(NOCOREF:Spec.date-time-1-gstype:spec
 28	de	de	ADP	_	_	29	case	29:case	_
-29	abril	abril	NOUN	_	_	27	compound	27:compound	SpaceAfter=No|Entity=NOCOREF:Spec.date)
+29	abril	abril	NOUN	_	_	27	nmod	27:nmod	SpaceAfter=No|Entity=NOCOREF:Spec.date)
 30	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	35	punct	35:punct	_
 31	y	y	CCONJ	cc	_	35	cc	35:cc	SpaceAfter=No
 32	,	,	PUNCT	fc	PunctType=Comm	35	punct	35:punct	_

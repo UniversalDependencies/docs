@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 20398 tokens (46%) have a non-empty value of `Number`.
 3540 types (77%) occur at least once with a non-empty value of `Number`.
-2567 lemmas (75%) occur at least once with a non-empty value of `Number`.
+2567 lemmas (76%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (5042; 11% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (4455; 10% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (4170; 9% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (3239; 7% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (1569; 4% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (1502; 3% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (346; 1% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (75; 0% instances).
 
 ### `NOUN`
@@ -181,11 +181,11 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-det.html">det</a></tt>]--> DET</tt> (3745; 99%),
+<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-det.html">det</a></tt>]--> DET</tt> (3741; 99%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1877; 81%),
 <tt>NOUN --[<tt><a href="fr_rhapsodie-dep-amod.html">amod</a></tt>]--> ADJ</tt> (889; 95%),
-<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (631; 68%),
-<tt>VERB --[<tt><a href="fr_rhapsodie-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (379; 57%),
+<tt>NOUN --[<tt><a href="fr_rhapsodie-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (630; 68%),
+<tt>VERB --[<tt><a href="fr_rhapsodie-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (377; 56%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (346; 74%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (313; 98%),
 <tt>VERB --[<tt><a href="fr_rhapsodie-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (280; 54%),

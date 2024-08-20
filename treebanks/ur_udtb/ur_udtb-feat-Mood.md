@@ -11,7 +11,7 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 6166 tokens (4%) have a non-empty value of `Mood`.
 173 types (2%) occur at least once with a non-empty value of `Mood`.
-69 lemmas (1%) occur at least once with a non-empty value of `Mood`.
+71 lemmas (1%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 3 part-of-speech tags: <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (5112; 4% instances), <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (1051; 1% instances), <tt><a href="ur_udtb-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 
 ### `AUX`
@@ -28,7 +28,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 * `EMPTY` (4009): ہوئے، گیا، جا، گئی، گئے، کر، رہے، رہی، رہا، جانے
 
 <table>
-  <tr><th>Paradigm <i>جا</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><th>Paradigm <i>جانا</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>جائیں_گے</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td>جائےگا, جائے_گا, جائیں_گے, جائیگا</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td></td><td>جائے, جائیں</td></tr>
@@ -76,7 +76,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `EMPTY` (11644): کیا، کہا، کر، کرنے، کی، ہو، دیا، کرتے، دی، بتایا
 
 <table>
-  <tr><th>Paradigm <i>کر</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><th>Paradigm <i>کرنا</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کریں_گے, کریںگے</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>کریں_گے, کریں</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ur_udtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>کریں_گے, کریگا, کرےگا</td><td></td><td></td></tr>

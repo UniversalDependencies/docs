@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 8 acl	color:blue
 1	$	$	SYM	$	_	0	root	0:root	SpaceAfter=No
-2	5,000	5,000	NUM	CD	NumForm=Digit|NumType=Card	1	nummod	1:nummod	_
+2	5,000	5000	NUM	CD	NumForm=Digit|NumType=Card	1	nummod	1:nummod	_
 3	per	per	ADP	IN	_	4	case	4:case	_
 4	person	person	NOUN	NN	Number=Sing	1	nmod	1:nmod:per	SpaceAfter=No
 5	,	,	PUNCT	,	_	1	punct	1:punct	_

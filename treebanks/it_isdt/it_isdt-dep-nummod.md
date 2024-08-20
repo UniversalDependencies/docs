@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3559 nodes (1%) are attached to their parents as `nummod`.
+3560 nodes (1%) are attached to their parents as `nummod`.
 
-2214 instances of `nummod` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.97527395335768.
+2215 instances of `nummod` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.9747191011236.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (2696; 76% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (497; 14% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (172; 5% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (84; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (49; 1% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (36; 1% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (2697; 76% instances), <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (497; 14% instances), <tt><a href="it_isdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (172; 5% instances), <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (84; 2% instances), <tt><a href="it_isdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (49; 1% instances), <tt><a href="it_isdt-pos-NUM.html">NUM</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (36; 1% instances), <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="it_isdt-pos-ADV.html">ADV</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="it_isdt-pos-X.html">X</a></tt>-<tt><a href="it_isdt-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

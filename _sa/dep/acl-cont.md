@@ -17,3 +17,4 @@ acl:cont(tád, jā́yeta)
 mark(jā́yeta, yátra)
 obj(prájijñāseta, tád)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:30 CEST -->

@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _ვწერთ_ 'we write', _ვხატავთ_ 'we draw' etc.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:09 CEST -->

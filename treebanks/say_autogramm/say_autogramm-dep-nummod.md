@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `nummod`.
+32 nodes (0%) are attached to their parents as `nummod`.
 
-5 instances of `nummod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.2.
+32 instances of `nummod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03125.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (4; 80% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (24; 75% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (6; 19% instances), <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (2; 6% instances).
 
 
 ~~~ conllu
@@ -25,10 +25,10 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	wurɓá	wurɓa	NOUN	_	Definite=Cons	4	nsubj	_	AlignBegin=35650|AlignEnd=35856|Gloss=money
 2	móːto	móːto	NOUN	_	_	1	nmod	_	AlignBegin=35856|AlignEnd=36062|Gloss=bus
 3	máː	máː	PART	_	_	1	discourse	_	AlignBegin=36062|AlignEnd=36268|Gloss=even
-4	yi	yi	VERB	_	VerbForm=Fin	7	reparandum	_	AlignBegin=36268|AlignEnd=36474|Gloss=be
+4	yi	yi	VERB	_	_	7	reparandum	_	AlignBegin=36268|AlignEnd=36474|Gloss=be
 5	néːra	néːra	NOUN	_	_	4	xcomp	_	AlignBegin=36474|AlignEnd=36680|Gloss=Naira
-6	||	||	PUNCT	_	_	7	punct	_	AlignBegin=36680|AlignEnd=36887|Gloss=PUNCT
-7	yi	yi	VERB	_	VerbForm=Fin	0	root	_	AlignBegin=37438|AlignEnd=37592|Gloss=be
+6	||	||	PUNCT	_	_	4	punct	_	AlignBegin=36680|AlignEnd=36887|Gloss=PUNCT
+7	yi	yi	VERB	_	_	0	root	_	AlignBegin=37438|AlignEnd=37592|Gloss=be
 8	néːra	néːra	NOUN	_	_	7	xcomp	_	AlignBegin=37592|AlignEnd=37746|Gloss=Naira
 9	hàmsə́n	hàmsə́n	NUM	_	_	8	nummod	_	AlignBegin=37746|AlignEnd=37900|Gloss=fifty
 10	//	//	PUNCT	_	_	7	punct	_	AlignBegin=37900|AlignEnd=38054|Gloss=PUNCT
@@ -37,34 +37,49 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 nummod	color:blue
+1	m̀ː	m̀ː	INTJ	_	_	4	discourse	_	AlignBegin=130190|AlignEnd=130425|Gloss=HESIT
+2	gèntsə̀	gyaːt	DET	_	Number=Plur	4	dep	_	AlignBegin=130425|AlignEnd=130660|Gloss=female_relative
+3	tá	_	AUX	a	Number=Plur|Person=3|Tense=Fut	4	aux	_	AlignBegin=130660|AlignEnd=130895|Gloss=3Plur.Fut
+4	mbûɗíː	mbút	VERB	_	_	0	root	_	AlignBegin=130895|AlignEnd=131130|Gloss=spend_night-Res|Result=Yes
+5	séː	séː	SCONJ	_	_	7	mark	_	AlignBegin=131662|AlignEnd=131822|Gloss=must
+6	yǎː	_	AUX	yáː	Mood=Cnd|Number=Plur|Person=3	7	aux	_	AlignBegin=131822|AlignEnd=131982|Gloss=3Plur.Cnd
+7	fi	fi	VERB	_	_	4	advcl	_	AlignBegin=131982|AlignEnd=132142|Gloss=do
+8	mbútkə̂n	mbút	VERB	_	VerbForm=Vnoun	7	obj	_	AlignBegin=132142|AlignEnd=132302|Gloss=spend_night-NMLZ
+9	mâːy	mâːy	NUM	_	_	8	nummod	_	AlignBegin=132302|AlignEnd=132462|Gloss=three
+10	//	//	PUNCT	_	_	4	punct	_	AlignBegin=132462|AlignEnd=132620|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 nummod	color:blue
-1	kúmá	kúmá	PART	_	_	3	discourse	_	AlignBegin=525830|AlignEnd=525936|Gloss=also
-2	á	á	AUX	_	Aspect=Aor|Number=Sing|Person=3	3	aux	_	AlignBegin=525936|AlignEnd=526042|Gloss=3SG.AOR
-3	wú	wul	VERB	_	VerbForm=Fin	0	root	_	AlignBegin=526042|AlignEnd=526148|Gloss=say
-4	tu	tu	SCONJ	_	Mood=Qot	6	mark	_	AlignBegin=526148|AlignEnd=526255|Gloss=OPN
-5	ʧáː	ʧáː	AUX	_	Aspect=Imp|Number=Sing|Person=3	6	aux	_	AlignBegin=526707|AlignEnd=526874|Gloss=3SG.IMP
-6	súː	súː	VERB	_	VerbForm=Fin	3	ccomp	_	AlignBegin=526874|AlignEnd=527041|Gloss=want
-7	tə̀	tə̀	AUX	_	Mood=Sub|Number=Sing|Person=3	8	aux	_	AlignBegin=527041|AlignEnd=527208|Gloss=3SG.SUB
-8	vyáːy	vyáː	VERB	_	Aspect=Res|VerbForm=Fin	6	parataxis	_	AlignBegin=527208|AlignEnd=527375|Gloss=spend_day
-9	ɗaː	ɗa	ADP	_	_	10	case	_	AlignBegin=527375|AlignEnd=527459|Gloss=at
-10	=mí	=mí	PRON	_	Number=Plur|Person=1|PronType=Prs	8	dep	_	AlignBegin=527459|AlignEnd=527542|Gloss=1PL.OBJ
-11	vyàːɣə̀n	vyáː	VERB	_	VerbForm=Vnoun	8	obl	_	AlignBegin=528353|AlignEnd=528641|ExtPos=NOUN|Gloss=spend_day
-12	nàmbón	nàmbón	NUM	_	_	11	nummod	_	AlignBegin=528641|AlignEnd=528929|Gloss=one
-13	gaba	gaba	X	_	Foreign=Yes	12	nmod	_	AlignBegin=528929|AlignEnd=529217|Gloss=front|Lang=hau
-14	ɗaya	ɗaya	X	_	Foreign=Yes	13	flat:foreign	_	AlignBegin=529217|AlignEnd=529503|Gloss=one|Lang=hau
-15	ɗaya	ɗaya	X	_	Foreign=Yes	13	flat:foreign	_	AlignBegin=530011|AlignEnd=530127|Gloss=one|Lang=hau
-16	ɗa	ɗa	ADP	_	_	21	reparandum	_	AlignBegin=530243|AlignEnd=530359|Gloss=at
-17	||	||	PUNCT	_	_	21	punct	_	AlignBegin=530359|AlignEnd=530475|Gloss=PUNCT
-18	ɗaːːː	ɗa	ADP	_	_	21	reparandum	_	AlignBegin=530475|AlignEnd=530591|Gloss=at
-19	||	||	PUNCT	_	_	21	punct	_	AlignBegin=530591|AlignEnd=530706|Gloss=PUNCT
-20	ɗaːːː	ɗa	ADP	_	_	21	case	_	AlignBegin=531495|AlignEnd=531712|Gloss=at
-21	àngwa	àngwa	NOUN	_	_	11	nmod	_	AlignBegin=531712|AlignEnd=531929|Gloss=ward
-22	=wôpès	=wopm	PRON	_	Deixis=Med|Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	nmod:poss	_	AlignBegin=531784|AlignEnd=531856|Gloss=1PL.POS.DEF
-23	//	//	PUNCT	_	_	3	punct	_	AlignBegin=531929|AlignEnd=532146|Gloss=PUNCT
+# visual-style 12 13 nummod	color:blue
+1	tôː	tòː	PART	_	_	4	discourse	_	AlignBegin=208260|AlignEnd=208489|Gloss=DM
+2	əndá	kəndá	ADV	_	_	4	advmod	_	AlignBegin=208489|AlignEnd=208718|Gloss=then
+3	átâ	_	AUX	ta	Number=Sing|Person=3|Tense=Rem	4	aux	_	AlignBegin=208718|AlignEnd=208947|Gloss=3Sing.Rem
+4	faːrá	faːrá	VERB	_	_	0	root	_	AlignBegin=208947|AlignEnd=209061|Gloss=begin
+5	=mə	=mə	PRON	_	Number=Sing|Person=1|PronType=Prs	4	dep	_	AlignBegin=209061|AlignEnd=209176|Gloss=1Sing.Obj
+6	fúːɣə̂n	fuː̀	VERB	_	VerbForm=Vnoun	4	obj	_	AlignBegin=209176|AlignEnd=209406|Gloss=tell|wordform=fuː
+7	tun	tun	SCONJ	_	_	9	case	_	AlignBegin=209406|AlignEnd=209800|Gloss=since|Lang=ha
+8	èː	èː	INTJ	_	_	9	discourse	_	AlignBegin=210780|AlignEnd=211242|Gloss=HESIT
+9	dubú	dubu	NUM	_	_	4	obl	_	AlignBegin=211242|AlignEnd=211626|Gloss=thousand|wordform=dubu
+10	nàmbóŋ	nàmbóŋ	NUM	_	_	9	nummod	_	AlignBegin=211626|AlignEnd=212010|Gloss=one
+11	tə́	tə́	ADP	_	_	12	cc	_	AlignBegin=212010|AlignEnd=212394|Gloss=with
+12	ɗàrí	ɗàrí	NUM	_	_	9	conj	_	AlignBegin=212394|AlignEnd=212780|Gloss=hundred
+13	tókndam	tókndam	NUM	_	_	12	nummod	_	AlignBegin=212940|AlignEnd=213276|Gloss=nine
+14	tə́	tə́	ADP	_	_	15	cc	_	AlignBegin=213276|AlignEnd=213613|Gloss=with
+15	tàlàːtín	tàlàːtín	X	_	Foreign=Yes	9	conj	_	AlignBegin=213613|AlignEnd=213885|Gloss=thirty|Lang=ha
+16	dà	dà	X	_	Foreign=Yes	15	flat	_	AlignBegin=213885|AlignEnd=214157|Gloss=there_is|Lang=ha
+17	bákwey	bákwey	X	_	Foreign=Yes	15	flat	_	AlignBegin=214157|AlignEnd=214429|Gloss=seven|Lang=ha
+18	//	//	PUNCT	_	_	4	punct	_	AlignBegin=214429|AlignEnd=214700|Gloss=PUNCT
 
 ~~~
 

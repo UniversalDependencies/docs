@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `ADP`
 
-There are 33 `ADP` lemmas (2%), 46 `ADP` types (2%) and 95 `ADP` tokens (2%).
+There are 33 `ADP` lemmas (2%), 47 `ADP` types (2%) and 97 `ADP` tokens (2%).
 Out of 16 observed tags, the rank of `ADP` is: 6 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>мархта, эзда, ланга, коряс, эса, ала, инкса, мельге, ваксс, ваксса</em>
@@ -48,30 +48,30 @@ The 10 most frequent ambiguous types:  <em>лангс</em> (<tt><a href="mdf_jr-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.393939 (the average of all parts of speech is 1.540936).
+The form / lemma ratio of `ADP` is 1.424242 (the average of all parts of speech is 1.550071).
 
 The 1st highest number of forms (5) was observed with the lemma “коряс”: <em>Корязост, корязон, корязонк, корязонт, коряс</em>.
 
 The 2nd highest number of forms (4) was observed with the lemma “ланга”: <em>ланга, лангаст, лангс, лангса</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “мельге”: <em>Мельгат, мельге, мельгя</em>.
+The 3rd highest number of forms (4) was observed with the lemma “эса”: <em>эса, эсовок, эсонза, эсост</em>.
 
-`ADP` occurs with 5 features: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (68; 72% instances), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt> (21; 22% instances), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt> (21; 22% instances), <tt><a href="mdf_jr-feat-AdpType.html">AdpType</a></tt> (13; 14% instances), <tt><a href="mdf_jr-feat-NounType.html">NounType</a></tt> (3; 3% instances)
+`ADP` occurs with 6 features: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (69; 71% instances), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt> (21; 22% instances), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt> (21; 22% instances), <tt><a href="mdf_jr-feat-AdpType.html">AdpType</a></tt> (14; 14% instances), <tt><a href="mdf_jr-feat-NounType.html">NounType</a></tt> (3; 3% instances), <tt><a href="mdf_jr-feat-Clitic.html">Clitic</a></tt> (1; 1% instances)
 
-`ADP` occurs with 17 feature-value pairs: `AdpType=Post`, `Case=Abl`, `Case=Cau`, `Case=Cmp`, `Case=Ela`, `Case=Ill`, `Case=Ine`, `Case=Lat`, `Case=Loc`, `Case=Prl`, `Case=Tra`, `NounType=Relat`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
+`ADP` occurs with 18 feature-value pairs: `AdpType=Post`, `Case=Abl`, `Case=Cau`, `Case=Cmp`, `Case=Ela`, `Case=Ill`, `Case=Ine`, `Case=Lat`, `Case=Loc`, `Case=Prl`, `Case=Tra`, `Clitic=Add`, `NounType=Relat`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
-`ADP` occurs with 34 feature combinations.
-The most frequent feature combination is `_` (17 tokens).
+`ADP` occurs with 35 feature combinations.
+The most frequent feature combination is `_` (18 tokens).
 Examples: <em>мархта, коряс, квалма, пачк, перьф, шовор</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="mdf_jr-dep-case.html">case</a></tt> (79; 83% instances), <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt> (7; 7% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (5; 5% instances), <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt> (3; 3% instances), <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="mdf_jr-dep-case.html">case</a></tt> (81; 84% instances), <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt> (7; 7% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (5; 5% instances), <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt> (3; 3% instances), <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt> (1; 1% instances)
 
-Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (62; 65% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (14; 15% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (11; 12% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
+Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (64; 66% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (14; 14% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (11; 11% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 
-94 (99%) `ADP` nodes are leaves.
+96 (99%) `ADP` nodes are leaves.
 
 1 (1%) `ADP` nodes have one child.
 

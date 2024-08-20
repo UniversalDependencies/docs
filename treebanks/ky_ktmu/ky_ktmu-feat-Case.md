@@ -222,13 +222,13 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NOUN</tt> (33; 70%),
-<tt>PROPN --[<tt><a href="ky_ktmu-dep-fixed.html">fixed</a></tt>]--> PROPN</tt> (20; 91%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-flat.html">flat</a></tt>]--> PROPN</tt> (33; 85%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (17; 55%),
 <tt>PROPN --[<tt><a href="ky_ktmu-dep-conj.html">conj</a></tt>]--> PROPN</tt> (17; 63%),
-<tt>PROPN --[<tt><a href="ky_ktmu-dep-flat.html">flat</a></tt>]--> PROPN</tt> (16; 76%),
-<tt>PROPN --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> PROPN</tt> (7; 88%),
+<tt>PROPN --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> PROPN</tt> (9; 82%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-nummod.html">nummod</a></tt>]--> NOUN</tt> (3; 60%),
 <tt>ADJ --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="ky_ktmu-dep-ccomp.html">ccomp</a></tt>]--> NOUN</tt> (2; 67%),
-<tt>ADJ --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="ky_ktmu-dep-compound.html">compound</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>CCONJ --[<tt><a href="ky_ktmu-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1; 100%).
 

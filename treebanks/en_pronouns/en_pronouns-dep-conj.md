@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `conj`: <tt><a href=
 4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
-7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
+7	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `conj`: <tt><a href=
 3	's	's	PART	POS	_	2	case	_	_
 4	cars	car	NOUN	NNS	Number=Plur	7	nsubj	_	_
 5	and	and	CCONJ	CC	_	6	cc	_	_
-6	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
+6	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	conj	_	_
 7	sell	sell	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	quickly	quickly	ADV	RB	_	7	advmod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	_	_
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 conj	color:blue
-1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+1	Hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
 2	and	and	CCONJ	CC	_	4	cc	_	_
 3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
 4	dealer	dealer	NOUN	NN	Number=Sing	1	conj	_	_

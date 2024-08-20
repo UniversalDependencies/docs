@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Coll`, `Priv`.
 
-12 tokens (0%) have a non-empty value of `Derivation`.
-12 types (1%) occur at least once with a non-empty value of `Derivation`.
-12 lemmas (1%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 3 part-of-speech tags: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+15 tokens (0%) have a non-empty value of `Derivation`.
+15 types (1%) occur at least once with a non-empty value of `Derivation`.
+15 lemmas (1%) occur at least once with a non-empty value of `Derivation`.
+The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-7 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Derivation`.
+9 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `Derivation`.
 
 `ADJ` tokens may have the following values of `Derivation`:
 
-* `Priv` (7; 100% of non-empty `Derivation`): <em>Adana-ima, ara-ima, kiinha-ima, santaíma, sawa-ima, tĩ-ima, ximirikú-ima</em>
+* `Priv` (9; 100% of non-empty `Derivation`): <em>Adana-ima, apisaíma, ara-ima, kiinha-ima, paya-ima, santaíma, sawa-ima, tĩ-ima, ximirikú-ima</em>
 
 ### `NOUN`
 
@@ -31,6 +31,16 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 `NOUN` tokens may have the following values of `Derivation`:
 
 * `Coll` (4; 100% of non-empty `Derivation`): <em>itatiwa, kapĩtiwa, mirawasutiwa, sakaitiwa</em>
+
+### `ADV`
+
+1 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Derivation`.
+
+The most frequent other feature values with which `ADV` and `Derivation` co-occurred: <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Man</tt> (1; 100%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADV` tokens may have the following values of `Derivation`:
+
+* `Priv` (1; 100% of non-empty `Derivation`): <em>tiapuíma</em>
 
 ### `VERB`
 

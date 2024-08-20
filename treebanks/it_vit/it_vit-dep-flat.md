@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="it_vit-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="it_vit-dep-flat-name.html">flat:name</a></tt>.
 
-802 nodes (0%) are attached to their parents as `flat`.
+863 nodes (0%) are attached to their parents as `flat`.
 
-802 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28304239401496.
+863 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27114716106605.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (474; 59% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (256; 32% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (59; 7% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `flat`: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (475; 55% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (258; 30% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (59; 7% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (45; 5% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-SYM.html">SYM</a></tt>-<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,27 +34,23 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 15 flat	color:blue
-1	1	1	NUM	N	NumType=Card	4	nummod	_	SpaceAfter=No
-2	)	)	PUNCT	FB	_	1	punct	_	_
-3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	data	data	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-5	di	di	ADP	E	_	6	case	_	_
-6	scadenza	scadenza	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	_
-7	di	di	ADP	E	_	9	case	_	_
-8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	pagamento	pagamento	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
-10	che	che	PRON	PR	PronType=Rel	13	nsubj	_	_
-11	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
-12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	30	30	NUM	N	NumType=Card	4	nmod	_	_
-14	giugno	giugno	NOUN	S	Gender=Masc|Number=Sing	13	flat	_	_
-15	1994	1994	NUM	N	NumType=Card	13	flat	_	SpaceAfter=No
-16	.	.	PUNCT	FS	_	4	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 flat	color:blue
+1	Produzione	produzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+2	(	(	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+3	in	in	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	industria	industria	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
+6	-	-	PUNCT	FF	_	5	punct	_	_
+7	indici	indice	NOUN	S	Gender=Masc|Number=Plur	5	appos	_	_
+8	1990	1990	NUM	N	NumType=Card	7	nummod	_	_
+9	equ	equ	NOUN	S	_	8	flat	_	_
+10	100	100	NUM	N	NumType=Card	8	flat	_	SpaceAfter=No
+11	)	)	PUNCT	FB	_	5	punct	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	1	punct	_	_
 
 ~~~
 

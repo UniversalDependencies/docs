@@ -9,35 +9,38 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>.
 
-6 nodes (0%) are attached to their parents as `expl`.
+10 nodes (0%) are attached to their parents as `expl`.
 
-6 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16666666666667.
+9 instances of `expl` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (6; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 100% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 expl	color:blue
-1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	piensa	pensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	que	que	SCONJ	_	_	12	mark	_	_
-4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	límites	límite	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
-6	en	en	ADP	_	_	8	case	_	_
-7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
-9	solo	sólo	ADV	_	_	12	advmod	_	_
-10	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
-11	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	expl	_	_
-12	ponemos	poner	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-13	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
-14	mismos	mismo	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 expl	color:blue
+1	A	a	ADP	_	_	2	case	_	_
+2	Piñera	piñera	PROPN	_	_	5	obl:arg	_	_
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
+4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	ido	ir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	bien	bien	ADV	_	_	5	advmod	_	_
+7	en	en	ADP	_	_	9	case	_	_
+8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	plano	plano	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+10	económico	económico	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+11	y	y	CCONJ	_	_	13	cc	_	_
+12	muy	mucho	ADV	_	_	13	advmod	_	_
+13	mal	mal	ADV	_	_	5	conj	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	plano	plano	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
+17	político	político	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

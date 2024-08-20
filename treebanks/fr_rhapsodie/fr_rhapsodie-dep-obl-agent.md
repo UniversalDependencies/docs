@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 14	s~	s~	VERB	_	_	21	reparandum	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	21	punct	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
 16	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj:pass	_	_
 17	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
 18	plus	plus	ADV	_	_	21	advmod	_	_

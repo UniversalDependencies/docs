@@ -9,16 +9,16 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Aux`, `Cop`, `Mod`.
 
-51 tokens (1%) have a non-empty value of `VerbType`.
-28 types (2%) occur at least once with a non-empty value of `VerbType`.
-8 lemmas (1%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (51; 1% instances).
+51 tokens (0%) have a non-empty value of `VerbType`.
+28 types (1%) occur at least once with a non-empty value of `VerbType`.
+8 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (51; 0% instances).
 
 ### `AUX`
 
-51 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (22% of all `AUX` tokens) have a non-empty value of `VerbType`.
+51 <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (49; 96%), <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (47; 92%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 82%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 80%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (26; 51%).
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (47; 92%), <tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 82%), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 80%), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (26; 51%).
 
 `AUX` tokens may have the following values of `VerbType`:
 
@@ -28,10 +28,10 @@ The most frequent other feature values with which `AUX` and `VerbType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>weasen</i></th><th><tt>Aux</tt></th><th><tt>Cop</tt></th></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>was</em></td><td><em>was, weer</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is</em></td><td><em>is</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>sint</em></td></tr>
-  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>weren</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td><em>was, weer</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is</em></td><td><em>is</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>sint</em></td></tr>
+  <tr><td><tt><tt><a href="nds_lsdc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>weren</em></td></tr>
   <tr><td><tt><tt><a href="nds_lsdc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nds_lsdc-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>is</em></td><td></td></tr>
 </table>
 

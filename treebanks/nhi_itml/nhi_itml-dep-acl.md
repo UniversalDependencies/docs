@@ -27,12 +27,12 @@ The following 15 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	,	,	PUNCT	_	_	1	punct	1:punct	NormalizedForm=,|NormalizedLemma=,
 3	amo	amo	ADV	_	Polarity=Neg	5	obj	5:obj	NormalizedForm=amo|NormalizedLemma=amo
 4	tlen	tleno	PRON	_	_	3	fixed	3:fixed	NormalizedForm=tlen|NormalizedLemma=tleno
-5	nimati	mati	VERB	_	Number[subj]=Sing|Person[subj]=1|Subcat=Tran	0	root	0:root	NormalizedForm=nimati|NormalizedLemma=mati
+5	nimati	mati	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Subcat=Tran|VerbForm=Fin	0	root	0:root	NormalizedForm=nimati|NormalizedLemma=mati
 6	de	de	ADP	_	Foreign=Yes	8	case	8:case	NormalizedForm=de|NormalizedLemma=de
 7	non	non	DET	_	_	8	det	8:det	NormalizedForm=non|NormalizedLemma=non
-8	compañeros	compañero	NOUN	_	Foreign=Yes|Number=Plur	5	obl	5:obl	NormalizedForm=compañeros|NormalizedLemma=kompañero
+8	compañeros	compañero	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	5	obl	5:obl	NormalizedForm=compañeros|NormalizedLemma=kompañero
 9	o	o	AUX	_	_	10	aux	10:aux	NormalizedForm=o|NormalizedLemma=o
-10	ticinhualahque	huala	VERB	_	Aspect=Perf|Movement=Ven|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Past	8	acl	8:acl	NormalizedForm=tisinwalahke|NormalizedLemma=wala
+10	ticinhualahque	huala	VERB	_	Aspect=Perf|Mood=Ind|Movement=Ven|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Past|VerbForm=Fin	8	acl	8:acl	NormalizedForm=tisinwalahke|NormalizedLemma=wala
 11	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -44,11 +44,11 @@ The following 15 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 acl	color:blue
-1	Tlasohkamati	tlasohkamati	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=3|Subcat=Tran	0	root	0:root	NormalizedForm=tlasohkamati|NormalizedLemma=tlasohkamati
+1	Tlasohkamati	tlasohkamati	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	0:root	NormalizedForm=tlasohkamati|NormalizedLemma=tlasohkamati
 2	wan	wan	CCONJ	_	_	4	cc	4:cc	NormalizedForm=wan|NormalizedLemma=wan
-3	yeh	yehuatl	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	NormalizedForm=yeh|NormalizedLemma=yewatl
+3	yeh	yehwuatl	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	NormalizedForm=yeh|NormalizedLemma=yehwatl
 4	non	non	PRON	_	_	1	conj	1:conj	NormalizedForm=non|NormalizedLemma=non
-5	nikihtoa	ihtoa	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	4	acl	4:acl	SpaceAfter=No|NormalizedForm=nikihtoa|NormalizedLemma=ihtoa
+5	nikihtoa	ihtoa	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	4	acl	4:acl	SpaceAfter=No|NormalizedForm=nikihtoa|NormalizedLemma=ihtoa
 6	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -61,7 +61,7 @@ The following 15 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 7 acl	color:blue
 1	Hidalgo	hidalgo	PROPN	_	_	2	obl	2:obl	NormalizedForm=hidalgo|NormalizedLemma=hidalgo
-2	katki	katki	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	NormalizedForm=katki|NormalizedLemma=katki
+2	katki	katki	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=katki|NormalizedLemma=katki
 3	se	se	DET	_	_	4	det	4:det	NormalizedForm=se|NormalizedLemma=se
 4	altipetl	altipetl	NOUN	_	Case=Abs|Number=Sing	2	nsubj	2:nsubj	NormalizedForm=altipetl|NormalizedLemma=altipetl
 5	tlen	tlen	PRON	_	_	6	nmod	6:nmod	NormalizedForm=tlen|NormalizedLemma=tlen

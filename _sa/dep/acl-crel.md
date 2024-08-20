@@ -21,3 +21,4 @@ advmod(īśata, mā́)
 obj(īśata, nas)
 acl:crel(ripús, śíśīte)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:30 CEST -->

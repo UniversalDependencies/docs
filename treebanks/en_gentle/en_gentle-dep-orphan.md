@@ -22,10 +22,10 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 orphan	color:blue
-1	1.	1.	X	LS	_	2	dep	2:dep	Discourse=joint-other_m:32->9:4:_
+1	1.	1.	X	LS	_	2	discourse	2:discourse	Discourse=joint-other_m:32->9:4:_
 2	Gabapentin	Gabapentin	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(37-substance-new-cf1-1-sgl-Gabapentin)
 3	600	600	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Entity=(38-substance-new-cf2-2-sgl
-4	mg	milligram	NOUN	NNS	Number=Plur	2	orphan	2:orphan	Entity=38)
+4	mg	milligram	NOUN	NNS	Abbr=Yes|Number=Plur	2	orphan	2:orphan	Entity=38)
 5	at	at	ADP	IN	_	6	case	6:case	_
 6	night	night	NOUN	NN	Number=Sing	4	obl	4:obl:at	Entity=(39-time-new-cf3-1-coref)|SpaceAfter=No
 7	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -45,9 +45,9 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	that	that	SCONJ	IN	_	7	mark	7:mark	Discourse=joint-list_m:53->46:2:_
 5	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	Entity=(67-person-giv:act-cf1-1-ana)
 6	would	would	AUX	MD	VerbForm=Fin	7	aux	7:aux	_
-7	see	see	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	_
+7	see	see	VERB	VB	VerbForm=Inf	2	ccomp	2:ccomp	Cxn=Conditional-UnspecifiedEpistemic-NoInversion
 8	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(78-person-giv:inact-cf4-2-coref(13-person-giv:act-cf2*-1-ana)
-9	neurologist	neurologist	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=78)
+9	neurologist	neurologist	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=78)|MSeg=neuro-log-ist
 10	for	for	ADP	IN	_	11	case	11:case	_
 11	evaluation	evaluation	NOUN	NN	Number=Sing	7	obl	7:obl:for	Entity=(83-event-new-cf6-1-sgl)|MSeg=e-valu-at-ion
 12	or	or	CCONJ	CC	_	16	cc	16:cc	_
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 17	if	if	SCONJ	IN	_	20	mark	20:mark	Discourse=contingency-condition:54->53:0:_
 18	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Entity=(81-abstract-giv:act-cf3-2-coref(13-person-giv:act-cf2*-1-ana)
 19	symptoms	symptom	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj	Entity=81)|MSeg=symptom-s
-20	progress	progress	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:if	Cxn=Condition-Realistic|SpaceAfter=No
+20	progress	progress	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:if	SpaceAfter=No
 21	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~

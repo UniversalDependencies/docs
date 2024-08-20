@@ -50,7 +50,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 6	en	en	ADP	_	_	7	case	_	_
 7	France	France	PROPN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 8	ou	ou	CCONJ	_	_	9	cc	_	_
-9	à	à_l'étranger	ADP	_	_	7	conj	_	ExtPos=ADV
+9	à	à_l'étranger	ADP	_	ExtPos=ADV	7	conj	_	_
 10	l'	_	DET	_	_	9	fixed	_	SpaceAfter=No
 11	étranger	_	NOUN	_	_	9	fixed	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_

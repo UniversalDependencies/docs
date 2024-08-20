@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>que, _, si, lorsque</em>
 
 The 10 most frequent `SCONJ` types:  <em>que, qu', si, lorsqu', lorsque</em>
 
-The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 266, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 151, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 2), <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>que</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 266, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 151, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 2), <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 123, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 17, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>qu'</em> (<tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1)
 
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_fqb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.250000 (the average of all parts of speech is 1.163777).
+The form / lemma ratio of `SCONJ` is 1.250000 (the average of all parts of speech is 1.164044).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 

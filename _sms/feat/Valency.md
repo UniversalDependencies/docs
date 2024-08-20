@@ -21,4 +21,4 @@ Valency is a language specific feauture for Skolt Sami, as transitivity of a ver
 * _Näʹde muõrid <b>räʹjje</b>..._ “So he cuts down trees...”
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:11 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:25 CEST -->

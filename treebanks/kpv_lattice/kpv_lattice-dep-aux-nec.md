@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_
 7	вошӧмъяскӧд	вошӧм	NOUN	N	Case=Com|Number=Plur	8	obl	_	_
 8	тышкасьӧм	тышкасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	obl	_	_
-9	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
+9	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -78,11 +78,11 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 5	обязанӧсь	обязан	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	OrigLang=ru
 6	тышкасьны	тышкасьны	VERB	V	VerbForm=Inf	5	advcl	_	_
 7	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
-8	вӧсна	вӧсна	ADP	Po	_	7	case	_	SpaceAfter=No
+8	вӧсна	вӧсна	ADP	Po	AdpType=Post	7	case	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	14	punct	_	_
 10	медым	медым	SCONJ	CS	_	14	mark	_	_
 11	му	му	NOUN	N	Case=Nom|Number=Sing	14	obl:lmod	_	_
-12	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
+12	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	11	case	_	_
 13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	14	aux:neg	_	_
 14	коль	кольны	VERB	V	Connegative=Yes	7	acl:relcl	_	_
 15	ниӧти	ниӧти	PRON	Pro	Case=Nom|Number=Sing|Polarity=Neg	16	det	_	_
@@ -105,7 +105,7 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 32	воӧ	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	conj	_	_
 33	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	32	nsubj	_	_
 34	трудодень	трудодень	NOUN	N	Case=Nom|Number=Sing	32	obl	_	OrigLang=ru
-35	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
+35	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
 36	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

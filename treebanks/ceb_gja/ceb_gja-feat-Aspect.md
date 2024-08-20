@@ -11,7 +11,7 @@ It occurs with 3 different values: `Imp`, `Perf`, `Prosp`.
 
 139 tokens (11%) have a non-empty value of `Aspect`.
 127 types (27%) occur at least once with a non-empty value of `Aspect`.
-103 lemmas (27%) occur at least once with a non-empty value of `Aspect`.
+104 lemmas (28%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (139; 11% instances).
 
 ### `VERB`
@@ -33,7 +33,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="ceb_gja-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>gibuhat</em></td></tr>
 </table>
 
-`Aspect` seems to be **lexical feature** of `VERB`. 92% lemmas (95) occur only with one value of `Aspect`.
+`Aspect` seems to be **lexical feature** of `VERB`. 93% lemmas (97) occur only with one value of `Aspect`.
 
 ## Relations with Agreement in `Aspect`
 

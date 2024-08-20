@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `det`: <tt><a href="en_gumreddit-dep-d
 1180 nodes (7%) are attached to their parents as `det`.
 
 1177 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.53305084745763.
+Average distance between parent and child is 1.54067796610169.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1106; 94% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (31; 3% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (20; 2% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1107; 94% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (34; 3% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt>-<tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=7
 5	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	Lem=be|Len=2
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
-7	_	_	NOUN	NNS	Number=Plur	19	advcl	19:advcl:if	Cxn=Condition-Realistic|Entity=(4-abstract-new-cf2-1-sgl|Lem=billion|Len=8|MSeg=billion-s
+7	_	_	NOUN	NNS	Number=Plur	19	advcl	19:advcl:if	Entity=(4-abstract-new-cf2-1-sgl|Lem=billion|Len=8|MSeg=billion-s
 8	_	_	PUNCT	-LRB-	_	11	punct	11:punct	Discourse=adversative-antithesis:3->2:0:dm-if-11|Lem=_|Len=1|SpaceAfter=No
 9	_	_	SCONJ	IN	_	11	mark	11:mark	Lem=_|Len=2
 10	_	_	PART	RB	Polarity=Neg	11	advmod	11:advmod	Lem=_|Len=3
@@ -41,7 +41,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 16	_	_	ADV	WRB	PronType=Int	19	obl	19:obl:from	Discourse=topic-question:5->6:0:lex-indwd-18+syn-sbinv-19+grf-qst-23|Lem=_|Len=5
 17	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	19:aux	Lem=be|Len=3
 18	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	19	nsubj	19:nsubj	Entity=(3-place-giv:act-cf1-1-ana)|Lem=_|Len=4
-19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Cxn=Interrogative-Wh|Lem=borrow|Len=9|MSeg=borrow-ing
+19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Cxn=Interrogative-WHInfo-Direct|Lem=borrow|Len=9|MSeg=borrow-ing
 20	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=4|SpaceAfter=No
 21	_	_	PUNCT	.	_	19	punct	19:punct	Entity=2)|Lem=_|Len=1
 
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 15	_	_	NOUN	NN	Number=Sing	7	obl	7:obl:with	Lem=_|Len=10|MSeg=indicat-ion
 16	_	_	SCONJ	IN	_	18	mark	18:mark	Discourse=elaboration-attribute:22->21:0:syn-mdf-198+syn-nmn-199,201|Lem=_|Len=4
 17	_	_	PRON	EX	PronType=Dem	18	expl	18:expl	Lem=_|Len=5
-18	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl	15:acl:that	Cxn=Existential-There|Lem=be|Len=2
+18	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl	15:acl:that	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=2
 19	_	_	PRON	NN	Number=Sing|PronType=Ind	18	nsubj	18:nsubj	Entity=(28-person-new-cf4-1-sgl|Lem=_|Len=6|MSeg=any-one
 20	_	_	ADV	RB	Degree=Pos	19	advmod	19:advmod	Entity=28)|Lem=_|Len=4
 21	_	_	ADP	IN	_	24	case	24:case	Lem=_|Len=2
@@ -103,7 +103,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 9	_	_	ADP	IN	_	12	case	12:case	Lem=_|Len=2
 10	_	_	DET	PDT	PronType=Tot	12	det:predet	12:det:predet	Entity=(82-person-giv:act-cf1-3-coref|Lem=_|Len=3
 11	_	_	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Lem=_|Len=3
-12	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:of	Entity=82)|Lem=_|Len=7|SpaceAfter=No
+12	_	_	NOUN	NNS	Number=Ptan	8	obl	8:obl:of	Entity=82)|Lem=_|Len=7|SpaceAfter=No
 13	_	_	PUNCT	.	_	8	punct	8:punct	Lem=_|Len=1
 
 ~~~

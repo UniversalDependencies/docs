@@ -96,7 +96,7 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 18	tueʹllj	tueʹllj	NOUN	N	Case=Gen|Number=Sing	20	obl:lmod	_	GTtags=Sg,Gen
 19	õõk	õlggâd	AUX	_	_	20	aux	_	_
 20	njuiʹǩǩeed	njuiʹǩǩeed	VERB	V	VerbForm=Inf	14	conj	_	GTtags=Inf|SpaceAfter=No
-21	,	,	PUNCT	PUNCT	_	24	punct	_	_
+21	,	,	PUNCT	CLB	_	24	punct	_	_
 22	di	di	CCONJ	CC	_	24	cc	_	_
 23	jos	jos	SCONJ	CS	_	24	mark	_	_
 24	piâzzžiǩ	piâssâd	VERB	V	Mood=Pot|Number=Sing|Person=2	3	conj	_	GTtags=Pot,Sg2

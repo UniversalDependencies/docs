@@ -33,7 +33,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	som	som	PRON	REL	PronType=Rel	10	nsubj	_	_
 9	skall	skola	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
 10	betala	betala	VERB	INF-ACT	VerbForm=Inf|Voice=Act	5	acl	_	_
-11	den	den	PRON	PERS-P3SG	Definite=Def|Number=Plur|PronType=Prs	10	obj	_	SpaceAfter=No
+11	den	den	PRON	PERS-P3SG	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	10	obj	_	SpaceAfter=No
 12	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 16	det	den	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	20	expl	_	_
 17	inte	inte	PART	NEG	_	20	advmod	_	_
 18	Englands	England	PROPN	SG-GEN	Case=Gen	20	nmod:poss	_	_
-19	fundamentala	fundamental	ADJ	POS-DEF	Case=Nom|Degree=Pos|Number=Plur	20	amod	_	_
+19	fundamentala	fundamental	ADJ	POS-DEF	Case=Nom|Definite=Def|Degree=Pos	20	amod	_	_
 20	rätt	rätt	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	_
 21	att	att	PART	_	_	22	mark	_	_
 22	existera	existera	VERB	INF-ACT	VerbForm=Inf|Voice=Act	20	acl	_	_

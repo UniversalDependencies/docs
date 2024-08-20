@@ -49,7 +49,7 @@ The following 24 pairs of parts of speech are connected with `amod`: <tt><a href
 3	fert	fero	VERB	v3spia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=fero1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 4	animus	animus	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LId=animus1
 5	mutatas	muto	VERB	v-prppfa-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	7	amod	_	LId=muto1|TraditionalMood=Participium|TraditionalTense=Perfectum
-6	dicere	dico	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	LId=dico2
+6	dicere	dico	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	_	LId=dico2|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	formas	forma	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	LId=forma1
 8	corpora	corpus	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	SpaceAfter=No|LId=corpus1
 9	;	;	PUNCT	u--------	_	3	punct	_	LId=punc1

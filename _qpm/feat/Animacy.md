@@ -55,4 +55,4 @@ As explicitly Animate can be considered the masculine accusative forms of the fo
 * _<u>kalčíšn<b>y</b></u> sakúleve_ "linen sacks" 
 * _<u>plátnen<b>y</b></u> ameníje_ "plimsolls [lit: cloth-shoes]" 
 * _<u>tomofílev<b>y</b></u> nahtáreve_ "car keys" 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:35 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:46 CEST -->

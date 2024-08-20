@@ -49,4 +49,4 @@ Zaar: The immediate past tense denotes a process that took place two days or mor
 #### Examples
 
 * _káy káː yel ɗan <b>mətá</b> ɬə á Kullây kwǎː <b>mətá</b> ɲol teː Zwàl //_ "Well you see as <b>I went</b> to see Kulla, see, <b>I followed</b> Zwal way.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:10 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->

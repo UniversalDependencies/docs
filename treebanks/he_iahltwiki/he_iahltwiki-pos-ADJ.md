@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  ראשון (<tt><a href="he_iahltwiki-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.682759 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `ADJ` is 1.682759 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (8) was observed with the lemma “אמריקני”: אמריקאי, אמריקאיות, אמריקאים, אמריקאית, אמריקני, אמריקניים, אמריקנים, אמריקנית.
 

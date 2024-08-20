@@ -31,3 +31,4 @@ The feature marks the gender of the Subject in the verb.
 
 * [ab] _и-ҟа-<b>на</b>ҵе-ит_ [DO.3Sg-PFX-<b>Subj.3SgNH</b>-make-Pres.Fin] ‘it is making it’ `Dyn=Yes|Gender[subj]=Neut|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Aor|Trans=Yes|VerbForm=Fin`
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:59 CEST -->

@@ -22,4 +22,4 @@ obj(razumeli,jih)
 dislocated(understand,children)
 obj(understand,them)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:52 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:10 CEST -->

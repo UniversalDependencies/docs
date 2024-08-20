@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="mdf_jr-feat-Person.html">Person</a></tt>, <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-209 tokens (5%) have a non-empty value of `Person[psor]`.
-187 types (9%) occur at least once with a non-empty value of `Person[psor]`.
-131 lemmas (10%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (167; 4% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+219 tokens (5%) have a non-empty value of `Person[psor]`.
+193 types (9%) occur at least once with a non-empty value of `Person[psor]`.
+135 lemmas (10%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (177; 4% instances), <tt><a href="mdf_jr-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (15; 0% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-167 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+177 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (167; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (138; 83%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (88; 53%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (177; 100%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (146; 82%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 53%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -54,9 +54,9 @@ The most frequent other feature values with which `ADP` and `Person[psor]` co-oc
 
 ### `VERB`
 
-14 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+15 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (10; 71%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (14; 93%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (10; 67%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>самозост</em></td></tr>
 </table>
 
-`Person[psor]` seems to be **lexical feature** of `VERB`. 91% lemmas (10) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `VERB`. 92% lemmas (11) occur only with one value of `Person[psor]`.
 
 ### `ADJ`
 
@@ -81,9 +81,9 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 ### `PRON`
 
-3 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
+2 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 

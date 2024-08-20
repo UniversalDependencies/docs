@@ -104,7 +104,7 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 8	агитационно-массӧвӧй	агитационнӧй-массӧвӧй	ADJ	A	Case=Nom|Number=Sing	9	amod	_	OrigLang=ru
 9	удж	удж	NOUN	N	Case=Nom|Number=Sing	6	obj	_	_
 10	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
-11	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	10	case	_	SpaceAfter=No
+11	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	10	case	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	17	punct	_	_
 13	медым	медым	SCONJ	CS	_	17	mark	_	_
 14	урожай	урожай	NOUN	N	Case=Nom|Number=Sing	15	nmod:obj	_	OrigLang=ru
@@ -129,11 +129,11 @@ The following 3 pairs of parts of speech are connected with `list`: <tt><a href=
 33	ставсоюзса	ставсоюзса	ADJ	A	Case=Nom|Number=Sing	35	amod	_	OrigLang=ru
 34	сельскохозяйственнӧй	сельскохозяйственнӧй	ADJ	A	Case=Nom|Number=Sing	35	amod	_	OrigLang=ru
 35	выставка	выставка	NOUN	N	Case=Nom|Number=Sing	37	obl:lmod	_	OrigLang=ru
-36	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	35	case	_	_
+36	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	35	case	_	_
 37	участвуйтан	участвуйтны	VERB	V	Case=Nom|Derivation=An|Number=Sing	38	acl	_	OrigLang=ru
 38	право	право	NOUN	N	Case=Nom|Number=Sing	39	nmod	_	OrigLang=ru
 39	шедӧдӧм	шедӧдны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	29	advcl	_	_
-40	вӧсна	вӧсна	ADP	Po	_	39	case	_	_
+40	вӧсна	вӧсна	ADP	Po	AdpType=Post	39	case	_	_
 41	не	не	AUX	Pcle	_	43	aux:neg	_	_
 42	сӧмын	сӧмын	ADV	Adv	_	43	advmod:foc	_	_
 43	ӧткаӧн	ӧтка	ADJ	A	Case=Ins|Number=Sing	29	obl	_	SpaceAfter=No

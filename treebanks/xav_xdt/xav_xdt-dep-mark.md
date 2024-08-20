@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (2%) are attached to their parents as `mark`.
+26 nodes (2%) are attached to their parents as `mark`.
 
-20 instances of `mark` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.72.
+21 instances of `mark` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.73076923076923.
 
-The following 3 pairs of parts of speech are connected with `mark`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (16; 64% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (8; 32% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (10; 38% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (7; 27% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (5; 19% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (3; 12% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 mark	color:blue
+1	Ti'ra	'ra	NOUN	n	Person=3	3	obj	_	son,daughter;filho,filha
+2	tete	te	AUX	aux	Number=Sing|Person=3	3	aux	_	_
+3	tsabu	tsabu	VERB	v	_	6	advcl	_	see,take.care.of;ver,enxergar,olhar,cuidar
+4	da	da	ADP	posp	_	3	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+5	ma	ma	PART	prcl	Htp=Yes|Tense=Past	6	dep	_	heterophoric.marker.perfective.aspect;marcardor.heterofórico.aspecto.perfectivo
+6	wei	we	X	x	_	0	root	_	hither;para.cá
+7	wi	wi	ADP	posp	_	6	obl	_	far.from;longe.de
+8	.	.	PUNCT	punct	_	6	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -34,48 +52,29 @@ The following 3 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 mark	color:blue
-1	Apötsi	apötsi	ADV	adv	_	8	dislocated	_	later,after,then;mais.tarde,depois,em.seguida
-2	,	,	PUNCT	punct	_	8	punct	_	_
-3	'watébrémi	'watébrémi	NOUN	n	_	8	nsubj	_	boy;menino
-4	te	te	PART	prcl	Htp=Yes|Tense=Pres	8	dep	_	heterophoric.marker;marcardor.heterofórico
-5	marĩ	marĩ	NOUN	n	_	8	obj	_	something,what;algo,o.que,alguma.coisa
-6	aibö	aibö	NOUN	n	_	8	iobj	_	man;homem
-7	wi	wi	ADP	posp	_	8	obl	_	far.from;longe.de
-8	waptẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
-9	,	,	PUNCT	punct	_	8	punct	_	_
-10	tsa	tsa	NOUN	n	_	8	advcl	_	food;comida,alimento
-11	da	da	SCONJ	sconj	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
-12	.	.	PUNCT	punct	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 mark	color:blue
-1	"	"	PUNCT	punct	_	8	punct	_	_
-2	Tane	tane	ADV	adv	_	8	advcl	_	thus;assim
-3	wamhã	wamhã	SCONJ	sconj	_	2	mark	_	when;quando
-4	,	,	PUNCT	punct	_	2	punct	_	_
-5	oto	oto	ADV	adv	_	8	advmod	_	then;então
-6	'ri	'ri	NOUN	n	_	8	obl	_	house;casa
-7	tẽme	tẽme	ADP	posp	_	6	case	_	to;para,até
-8	watsi'aba'ré	tsi'aba'ré	VERB	v	Person[abs]=1	14	ccomp	_	go.much,walk.much;ir.muitos,andar.muitos
-9	na	na	ADP	posp	_	8	obl	_	in,from;em,de
-10	!	!	PUNCT	punct	_	8	punct	_	_
-11	"	"	PUNCT	punct	_	8	punct	_	_
-12	pi'õ	pi'õ	NOUN	n	_	14	nsubj	_	woman;mulher
-13	te	te	PART	prcl	Htp=Yes|Tense=Pres	14	dep	_	heterophoric.marker;marcardor.heterofórico
-14	'mahö	'mahöhö	VERB	v	_	0	root	_	call.once;chamar.uma.só.vez
-15	.	.	PUNCT	punct	_	14	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 17 mark	color:blue
+1	E	e	PART	prcl	Int=Yes	4	dep	_	question.particle;partícula.interrogativa
+2	ni'wa	ni'wa	PRON	pron	PronType=Ind	4	nsubj	_	someone,some;alguém,algum
+3	te	te	PART	prcl	Htp=Yes|Tense=Pres	4	dep	_	heterophoric.marker;marcardor.heterofórico
+4	romhu	romhuri	VERB	v	_	0	root	_	to.work;trabalhar
+5	.	.	PUNCT	punct	_	4	punct	_	_
+6	Mare	mare	ADV	adv	Polarity=Neg	4	parataxis	_	nada;nothing
+7	di	di	X	x	_	6	dep	_	expletive;expletivo
+8	!	!	PUNCT	punct	_	6	punct	_	_
+9	Ni'wa	ni'wa	PRON	pron	PronType=Ind	12	nsubj	_	someone,some;alguém,algum
+10	te	te	PART	prcl	Htp=Yes|Tense=Pres	12	dep	_	heterophoric.marker;marcardor.heterofórico
+11	te	te	AUX	aux	_	12	aux	_	_
+12	romhuri	romhuri	VERB	v	_	6	parataxis	_	to.work;trabalhar
+13	õ	õ	PART	prcl	Polarity=Neg	12	dep	_	negative.marker;marcador.negativo
+14	di	di	X	x	_	12	dep	_	expletive;expletivo
+15	,	,	PUNCT	punct	_	12	punct	_	_
+16	tãi	tã	NOUN	n	_	12	advcl	_	rain;chuva
+17	wa	wa	SCONJ	sconj	_	16	mark	_	why;por,por.que,por.motivo.de
+18	.	.	PUNCT	punct	_	12	punct	_	_
 
 ~~~
 

@@ -35,3 +35,4 @@ Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 Klein, Jared S. 1997. Indefinite Pronouns, Polarity, and Related Phenomena in Classical Armenian: A Study Based on the Old Armenian Gospels. _Transactions of the Philological Society_ 95/2: 189-245.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:40 CEST -->

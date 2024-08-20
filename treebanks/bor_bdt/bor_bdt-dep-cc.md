@@ -8,58 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `cc`.
+36 nodes (1%) are attached to their parents as `cc`.
 
-4 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.75.
+31 instances of `cc` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.19444444444444.
 
-The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (3; 75% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (22; 61% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (9; 25% instances), <tt><a href="bor_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bor_bdt-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="bor_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="bor_bdt-pos-X.html">X</a></tt>-<tt><a href="bor_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 cc	color:blue
-1	cenai	ai	ADP	posp	Clusivity=Ex|Number=Sing|Person=1	2	obl	_	we.(ex);nós.(ex)
-2	morikare	mori	VERB	v	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	0	root	_	pay;pagar
-3	mare	mare	CCONJ	ccad	_	5	cc	_	but;mas
-4	tagai	ai	ADP	posp	Number=Sing|Person=2	5	obl	_	for,to;a,para
-5	morire	morire	VERB	v	Mood=Ind|Number=Sing|Person=3	2	conj	_	pay;pagar
+# visual-style 3 1 cc	color:blue
+1	Mare	mare	CCONJ	cconj	_	3	cc	_	_
+2	imi	imi	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	discourse	_	_
+3	itaidyre	aidy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
+4	pawo	pron	PRON	bi	Clusivity=In|Mood=Sub|Number=Plur|Person=1	7	nsubj	_	_
+5	nowy	nowy	DET	dem	Deixis=Med	6	det	_	_
+6	pawadary	batary	NOUN	n	Clusivity=In|Number=Sing|Number[psor]=Plur|Person=1	7	obj	_	_
+7	tawyji	tawyji	VERB	v	Number=Sing|Person=3	3	conj	_	_
+8	mato	mato	ADV	adv	_	7	advmod	_	_
+9	pugeje	pugeje	ADV	adv	_	7	advmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 8 cc	color:blue
-1	Boe	boe	NOUN	n	_	5	nsubj	_	_
-2	emode	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi	5	dep	_	_
-3	bai	bai	NOUN	n	_	4	nmod	_	straw;palha
-4	bora	bora	NOUN	n	_	5	obj	_	fence,chest;cerca,peitoral
-5	bu	bu	VERB	v	_	0	root	_	put,place;pôr,colocar
-6	kajeje	kajeje	ADP	posp	_	5	obl	_	around;ao.redor,em.volta
-7	.	.	PUNCT	punct	_	5	punct	_	_
-8	Mare	mare	CCONJ	cconj	_	12	cc	_	but;mas
-9	woere	woe	ADV	adv	Mood=Ind	12	advmod	_	here;aqui
-10	boe	boe	NOUN	n	_	12	nsubj	_	_
-11	emode	e	PRON	bi	Mood=Ind|Number=Plur|Person=3|PronType=Bi|Tense=Fut	12	dep	_	_
-12	tugerago	kera	NOUN	n	Number[psor]=Sing|Person[psor]=3	5	conj	_	hand;mão
-13	kuroji	kuroji	NOUN	n	_	12	obj	_	_
-14	,	,	PUNCT	punct	_	12	punct	_	_
-15	awu	awu	DET	dem	_	16	det	_	_
-16	korogedy	_	NOUN	n	_	17	nmod	_	stream;córrego
-17	jipa	jipa	NOUN	n	_	19	obl	_	margin,side,cheek;margem,lado,bochecha
-18	ji	ji	ADP	posp	_	17	case	_	_
-19	woe	woe	ADV	adv	_	12	advmod	_	_
-20	,	,	PUNCT	punct	_	19	punct	_	_
-21	jice	jice	ADV	adv	_	22	advmod	_	there;lá
-22	kapau	kapau	NOUN	n	_	12	obl	_	tall.bush;mato.alto
-23	tada	tada	ADP	posp	_	22	case	_	inside;dentro
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cc	color:blue
+1	Uwu	uwu	ADV	adv	_	3	advmod	_	[];;
+2	,	,	PUNCT	punct	_	3	punct	_	[];;
+3	atumode	ty	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	[];;
+4	mare	mare	CCONJ	cconj	_	5	cc	_	[];;
+5	itao	ao	NOUN	n	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes	3	conj	_	[];;
+6	piji	piji	ADP	posp	Number=Sing|Person=3	5	case	_	[];;
+7	karega	karega	ADV	adv	Polarity=Neg	5	advmod	_	[];;
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 cc	color:blue
+1	Icare	Icare	ADV	adv	_	2	advmod	_	_
+2	akogodyre	ako	VERB	v	Aspect=Inc|Mood=Ind|Number=Sing|Person=3	0	root	_	_
+3	pugeje	pugeje	ADV	adv	_	2	advmod	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	akore	ako	VERB	v	Mood=Ind|Number=Sing|Person=3	2	conj	_	_
+6	:	:	PUNCT	punct	_	5	punct	_	_
+7	hm	_	X	_	_	5	cc	_	_
+8	,	,	PUNCT	punct	_	7	punct	_	_
+9	hm	_	X	_	_	7	conj	_	_
+10	,	,	PUNCT	punct	_	9	punct	_	_
+11	hm	_	X	_	_	7	conj	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	hm	_	X	_	_	7	conj	_	_
+14	!	!	PUNCT	punct	_	13	punct	_	_
 
 ~~~
 

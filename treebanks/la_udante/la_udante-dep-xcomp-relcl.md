@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `xcomp:relcl`: <tt><
 15	,	,	PUNCT	Pu	_	19	punct	_	_
 16	et	et	CCONJ	co	_	19	cc	_	_
 17	vere	uere	ADV	r	_	19	advmod	_	_
-18	dici	dico	VERB	vp3fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	19	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+18	dici	dico	VERB	vp3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	19	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 19	possetis	possum	VERB	va5cip2	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Imperfectum
 20	,	,	PUNCT	Pu	_	23	punct	_	_
 21	qui	qui	PRON	prepmn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	23	nsubj:pass	_	_
@@ -75,7 +75,7 @@ The following 1 pairs of parts of speech are connected with `xcomp:relcl`: <tt><
 51	ubi	ubi	SCONJ	r	AdvType=Loc|PronType=Rel	64	mark	_	_
 52	que	qui	PRON	prepnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	56	nsubj	_	_
 53	pretio	pretium	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	54	obl	_	_
-54	mensurari	mensuro	VERB	vp1fp	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	56	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+54	mensurari	mensuro	VERB	vp1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	56	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 55	non	non	PART	r	Polarity=Neg	56	advmod:neg	_	_
 56	possunt	possum	VERB	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	64	csubj:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 57	,	,	PUNCT	Pu	_	56	punct	_	_

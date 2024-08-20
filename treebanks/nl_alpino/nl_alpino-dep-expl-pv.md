@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 4	bewust	bewust	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
 5	van	van	ADP	VZ|init	_	7	case	7:case	_
 6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
-7	consequenties	consequentie	NOUN	N|soort|mv|basis	Number=Plur	4	obl	4:obl:van	_
+7	consequenties	consequentie	NOUN	N|soort|mv|basis	Number=Plur	4	obl:arg	4:obl:arg:van	_
 
 ~~~
 

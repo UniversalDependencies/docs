@@ -57,5 +57,5 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Cmp` (3; 100% of non-empty `Degree`): <em>вылӧджык, мастерджыкыс, ыліджыкъясті</em>
-* `EMPTY` (2035): <em>урожай, удж, шонді, ва, лун, вӧр, ю, во, му, пу</em>
+* `EMPTY` (2032): <em>урожай, удж, шонді, ва, лун, вӧр, ю, во, му, пу</em>
 

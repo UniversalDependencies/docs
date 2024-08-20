@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5297 nodes (2%) are attached to their parents as `cop`.
+5295 nodes (2%) are attached to their parents as `cop`.
 
-4795 instances of `cop` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.53898433075326.
+4796 instances of `cop` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.53881019830028.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3406; 64% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (1625; 31% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (93; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (56; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (51; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (35; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3406; 64% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (1624; 31% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (92; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (55; 1% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (52; 1% instances), <tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (34; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

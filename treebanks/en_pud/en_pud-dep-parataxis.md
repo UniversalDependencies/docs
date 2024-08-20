@@ -96,7 +96,7 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 17	governing	govern	VERB	VBG	VerbForm=Ger	18	amod	18:amod	_
 18	territories	territory	NOUN	NNS	Number=Plur	9	parataxis	9:parataxis	_
 19	with	with	ADP	IN	_	23	case	23:case	_
-20	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	23:nmod:poss	_
+20	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	23:nmod:poss	_
 21	own	own	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
 22	political	political	ADJ	JJ	Degree=Pos	23	amod	23:amod	_
 23	systems	system	NOUN	NNS	Number=Plur	18	nmod	18:nmod:with	SpaceAfter=No

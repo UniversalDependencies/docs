@@ -59,7 +59,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (10; 100% of non-empty `NumType`): <em>einn, eitt, ein, einu</em>
-* `EMPTY` (3693): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
+* `EMPTY` (3692): <em>þetta, það, þessu, þeim, allt, eitthvað, þessum, þessi, þá, ekkert</em>
 
 ### `NOUN`
 

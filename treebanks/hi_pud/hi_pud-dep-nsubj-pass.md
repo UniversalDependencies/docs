@@ -10,10 +10,10 @@ This relation is a language-specific subtype of <tt><a href="hi_pud-dep-nsubj.ht
 
 167 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-165 instances of `nsubj:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.40119760479042.
+166 instances of `nsubj:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.7065868263473.
 
-The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (115; 69% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (20; 12% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (125; 75% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (21; 13% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (19; 11% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,16 +22,16 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nsubj:pass	color:blue
-1	अधिकतम	_	ADJ	JJS	_	2	amod	_	Translit=adhikatama
-2	$5,000	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	compound	_	Translit=$5,000
-3	प्रति	_	DET	QF	_	4	det	_	Translit=prati
-4	व्यक्ति	_	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	6	nmod:poss	_	Translit=vyakti
-5	की	_	ADP	IN	Case=Gen|Gender=Fem	4	case	_	Translit=kī
-6	स्वीकृति	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	Translit=svīkr̥ti
-7	दी	_	VERB	VBI	Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=dī
-8	गयी	_	AUX	VXH	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3	7	aux:pass	_	Translit=gayī
-9	है	_	AUX	VXH	Gender=Fem|Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|Translit=hai
-10	।	_	PUNCT	.	_	7	punct	_	Translit=.
+1	अधिकतम	अधिकतम	ADJ	JJS	_	2	amod	_	Translit=adhikatama|LTranslit=adhikatama
+2	$5,000	$5000	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	compound	_	Translit=$5,000|LTranslit=$5000
+3	प्रति	प्रति	DET	QF	_	4	det	_	Translit=prati|LTranslit=prati
+4	व्यक्ति	व्यक्ति	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	nmod:poss	_	Translit=vyakti|LTranslit=vyakti
+5	की	का	ADP	IN	Case=Gen|Gender=Fem	4	case	_	Translit=kī|LTranslit=kā
+6	स्वीकृति	स्वीकृति	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	7	nsubj:pass	_	Translit=svīkr̥ti|LTranslit=svīkr̥ti
+7	दी	देना	VERB	VBI	Gender=Fem|Number=Sing|Person=3	0	root	_	LTranslit=denā|Translit=dī
+8	गयी	जाना	AUX	VXH	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3	7	aux:pass	_	LTranslit=jānā|Translit=gayī
+9	है	है	AUX	VXH	Gender=Fem|Number=Sing|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
+10	।	।	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -42,46 +42,51 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 11 nsubj:pass	color:blue
-1	भारत	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=bhārata
-2	में	_	ADP	IN	Case=Loc	1	case	_	Translit=meṁ
-3	बुढ़ापे	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=buṛhāpe
-4	में	_	ADP	IN	Case=Loc	3	case	_	Translit=meṁ
-5	जब	_	SCONJ	IN	_	7	mark	_	Translit=jaba
-6	लोग	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Plur	7	nsubj	_	Translit=loga
-7	मरते	_	VERB	VBI	Aspect=Imp|Number=Plur|Person=3	0	root	_	Translit=marate
-8	हैं	_	AUX	VXH	Number=Plur|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|Translit=haiṁ
-9	,	_	PUNCT	,	_	13	punct	_	Translit=,
-10	तो	_	SCONJ	IN	_	13	mark	_	Translit=to
-11	इसे	_	PRON	PDEM	Number=Sing	13	nsubj:pass	_	Translit=ise
-12	उत्सव	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	obj	_	Translit=utsava
-13	माना	_	VERB	VBI	Gender=Masc|Number=Sing|Person=3	7	ccomp	_	Translit=mānā
-14	जाता	_	AUX	VXH	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3	13	aux:pass	_	Translit=jātā
-15	है	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3|Tense=Pres	13	aux	_	SpaceAfter=No|Translit=hai
-16	।	_	PUNCT	.	_	7	punct	_	Translit=.
+1	भारत	भारत	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=bhārata|LTranslit=bhārata
+2	में	में	ADP	IN	Case=Loc	1	case	_	Translit=meṁ|LTranslit=meṁ
+3	बुढ़ापे	बुढ़ापा	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	Translit=buṛhāpe|LTranslit=buṛhāpā
+4	में	में	ADP	IN	Case=Loc	3	case	_	Translit=meṁ|LTranslit=meṁ
+5	जब	जब	SCONJ	IN	_	7	mark	_	Translit=jaba|LTranslit=jaba
+6	लोग	लोग	NOUN	NN	Case=Nom|Number=Plur	7	nsubj	_	Translit=loga|LTranslit=loga
+7	मरते	मरना	VERB	VBI	Aspect=Imp|Number=Plur|Person=3	0	root	_	LTranslit=maranā|Translit=marate
+8	हैं	है	AUX	VXH	Number=Plur|Person=3|Tense=Pres	7	aux	_	SpaceAfter=No|Translit=haiṁ|LTranslit=hai
+9	,	,	PUNCT	,	_	13	punct	_	Translit=,|LTranslit=,
+10	तो	तो	SCONJ	IN	_	13	mark	_	Translit=to|LTranslit=to
+11	इसे	यह	PRON	PDEM	Number=Sing	13	nsubj:pass	_	Translit=ise|LTranslit=yaha
+12	उत्सव	उत्सव	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	13	obj	_	Translit=utsava|LTranslit=utsava
+13	माना	मानना	VERB	VBI	Gender=Masc|Number=Sing|Person=3	7	ccomp	_	LTranslit=mānanā|Translit=mānā
+14	जाता	जाना	AUX	VXH	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3	13	aux:pass	_	LTranslit=jānā|Translit=jātā
+15	है	है	AUX	VXH	Gender=Masc|Number=Sing|Person=3|Tense=Pres	13	aux	_	SpaceAfter=No|Translit=hai|LTranslit=hai
+16	।	।	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 1 nsubj:pass	color:blue
-1	वेइस	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	11	nsubj:pass	_	Translit=veisa
-2	कोलोन	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	compound	_	Translit=kolona
-3	और	_	CCONJ	CC	_	4	cc	_	Translit=aura
-4	ब्रेमेन	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Translit=bremena
-5	शहरों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl:agent	_	Translit=śaharoṁ
-6	द्वारा	_	ADP	IN	_	5	case	_	Translit=dvārā
-7	साहित्य	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	8	compound	_	Translit=sāhitya
-8	पुरस्कारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	Translit=puraskāroṁ
-9	से	_	ADP	IN	Case=Acc	8	case	_	Translit=se
-10	सम्मानित	_	ADJ	JJ	_	11	compound:lvc	_	Translit=sammānita
-11	किया	_	VERB	VBI	Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=kiyā
-12	गया	_	AUX	VXH	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3	11	aux:pass	_	Translit=gayā
-13	था	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3|Tense=Past	11	aux	_	SpaceAfter=No|Translit=thā
-14	।	_	PUNCT	.	_	11	punct	_	Translit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 3 nsubj:pass	color:blue
+1	हालांकि	हालांकि	SCONJ	IN	_	16	mark	_	SpaceAfter=No|Translit=hālāṁki|LTranslit=hālāṁki
+2	,	,	PUNCT	,	_	16	punct	_	Translit=,|LTranslit=,
+3	पाइरस	पाइरस	PROPN	NNP	Case=Acc|Gender=Masc|Number=Sing	16	nsubj:pass	_	Translit=pāirasa|LTranslit=pāirasa
+4	को	को	ADP	IN	Case=Acc	3	case	_	Translit=ko|LTranslit=ko
+5	दक्षिणी	दक्षिणी	ADJ	JJ	_	6	amod	_	Translit=dakṣiṇī|LTranslit=dakṣiṇī
+6	इटली	इटली	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	Translit=iṭalī|LTranslit=iṭalī
+7	में	में	ADP	IN	Case=Loc	6	case	_	Translit=meṁ|LTranslit=meṁ
+8	व्यापार	व्यापार	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Translit=vyāpāra|LTranslit=vyāpāra
+9	करने	करना	VERB	VINF	VerbForm=Inf	16	advcl	_	LTranslit=karanā|Translit=karane
+10	के	के	ADP	IN	Case=Erg	9	case	_	Translit=ke|LTranslit=ke
+11	लिेए	लिेए	ADP	IN	_	10	fixed	_	Translit=liेe|LTranslit=liेe
+12	सिसली	सिसली	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=sisalī|LTranslit=sisalī
+13	छोड़ने	छोडना	VERB	VINF	VerbForm=Inf	15	acl	_	LTranslit=choḍanā|Translit=choṛane
+14	को	को	ADP	IN	Case=Acc	13	case	_	Translit=ko|LTranslit=ko
+15	बाध्य	बाध्य	ADJ	JJ	_	16	xcomp	_	Translit=bādhya|LTranslit=bādhya
+16	किया	करना	VERB	VBI	Gender=Masc|Number=Sing|Person=3	0	root	_	LTranslit=karanā|Translit=kiyā
+17	गया	जाना	AUX	VXH	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3	16	aux:pass	_	LTranslit=jānā|Translit=gayā
+18	था	था	AUX	VXH	Gender=Masc|Number=Sing|Person=3|Tense=Past	16	aux	_	SpaceAfter=No|Translit=thā|LTranslit=thā
+19	।	।	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

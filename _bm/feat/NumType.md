@@ -29,4 +29,4 @@ This value is used for cardinal numbers, i.e tokens which are used to count.
 #### Example
 
 + _dén <b> fɔ́lɔ </b>_ "first child"
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:10 CEST -->

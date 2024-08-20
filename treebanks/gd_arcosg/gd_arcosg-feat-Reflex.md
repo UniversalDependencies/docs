@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (2; 100% of non-empty `Reflex`): <em>a, chèile</em>
-* `EMPTY` (18859): <em>bhith, dol, ràdh, duine, fear, chur, fhios, taobh, ais, dhèanamh</em>
+* `EMPTY` (18834): <em>bhith, dol, ràdh, duine, fear, chur, fhios, taobh, ais, dhèanamh</em>
 
 ## Relations with Agreement in `Reflex`
 

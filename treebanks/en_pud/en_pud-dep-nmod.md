@@ -37,7 +37,7 @@ The following 33 pairs of parts of speech are connected with `nmod`: <tt><a href
 12	to	to	ADP	IN	_	13	case	13:case	_
 13	$	$	SYM	$	_	6	obl	6:obl:to	SpaceAfter=No
 14	221	221	NUM	CD	NumForm=Digit|NumType=Card	15	compound	15:compound	SpaceAfter=No
-15	bn	billion	NUM	CD	NumForm=Word|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
+15	bn	billion	NUM	CD	Abbr=Yes|NumForm=Word|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
 16	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~

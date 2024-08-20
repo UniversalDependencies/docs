@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-17768 tokens (7%) have a non-empty value of `Degree`.
+17773 tokens (7%) have a non-empty value of `Degree`.
 2993 types (15%) occur at least once with a non-empty value of `Degree`.
 2428 lemmas (16%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (16770; 7% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (997; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (16775; 7% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (997; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
-16770 <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+16775 <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (612; 4% of non-empty `Degree`): <em>more, better, less, larger, bigger, earlier, smaller, higher, older, greater</em>
-* `Pos` (15539; 93% of non-empty `Degree`): <em>good, great, new, other, many, last, same, few, little, sure</em>
-* `Sup` (619; 4% of non-empty `Degree`): <em>best, most, least, worst, cheapest, largest, latest, easiest, highest, oldest</em>
+* `Pos` (15543; 93% of non-empty `Degree`): <em>good, great, new, other, many, last, same, few, little, sure</em>
+* `Sup` (620; 4% of non-empty `Degree`): <em>best, most, least, worst, cheapest, largest, latest, easiest, highest, oldest</em>
 * `EMPTY` (37): <em>s, First, second, i.e., 10th, 14th, 17th, 21st, 55th, Central</em>
 
 <table>
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (380; 38% of non-empty `Degree`): <em>more, later, better, earlier, longer, less, further, sooner, closer, higher</em>
 * `Pos` (482; 48% of non-empty `Degree`): <em>well, far, soon, long, hard, early, late, little, close, high</em>
 * `Sup` (135; 14% of non-empty `Degree`): <em>most, best, least, worst, highest, longest</em>
-* `EMPTY` (11524): <em>so, just, when, very, also, how, now, even, then, there</em>
+* `EMPTY` (11510): <em>so, just, when, very, also, how, now, even, then, there</em>
 
 <table>
   <tr><th>Paradigm <i>well</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `INTJ` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>Bon</em>
-* `EMPTY` (927): <em>please, yes, well, no, hi, ok, like, lol, hey, oh</em>
+* `EMPTY` (929): <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
 
 ## Relations with Agreement in `Degree`
 

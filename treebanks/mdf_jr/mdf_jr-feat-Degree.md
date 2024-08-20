@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Dim` are language-specific.
 It occurs with 3 different values: `Cmp`, `Dim`, `Sup`.
 
-58 tokens (1%) have a non-empty value of `Degree`.
-49 types (2%) occur at least once with a non-empty value of `Degree`.
-42 lemmas (3%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (51; 1% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+59 tokens (1%) have a non-empty value of `Degree`.
+50 types (2%) occur at least once with a non-empty value of `Degree`.
+43 lemmas (3%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (52; 1% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-51 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Degree`.
+52 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46; 90%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (46; 90%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (34; 67%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 59%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (47; 90%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (47; 90%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (34; 65%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 58%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Dim` (51; 100% of non-empty `Degree`): <em>карденя, очконять, досканят, коволнятнень, ловнясь, пацяняц, стирнятне, Бабанять, Луганятне, Макарня</em>
-* `EMPTY` (1016): <em>лангс, ломаттне, шись, шиня, ава, паксянь, Тишка, каршес, ланга, ломань</em>
+* `Dim` (52; 100% of non-empty `Degree`): <em>карденя, очконять, досканят, коволнятнень, ловнясь, пацяняц, стирнятне, Бабанять, Лефкскятнень, Луганятне</em>
+* `EMPTY` (1061): <em>лангс, ломаттне, шиня, шись, пингть, ава, паксянь, Тишка, каршес, ланга</em>
 
-`Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (37) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -37,16 +37,16 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Dim` (2; 67% of non-empty `Degree`): <em>аруняста, саворне</em>
 * `Sup` (1; 33% of non-empty `Degree`): <em>Сембода</em>
-* `EMPTY` (417): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
+* `EMPTY` (428): <em>нинге, пяк, кода, аньцек, сяда, ни, меле, эста, ичкозе, мес</em>
 
 ### `PART`
 
-3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (21% of all `PART` tokens) have a non-empty value of `Degree`.
+3 <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> tokens (20% of all `PART` tokens) have a non-empty value of `Degree`.
 
 `PART` tokens may have the following values of `Degree`:
 
 * `Cmp` (3; 100% of non-empty `Degree`): <em>сяда</em>
-* `EMPTY` (11): <em>вдь, хоть, въдь, дяряй, и, нльне, нльня, хуш, шять</em>
+* `EMPTY` (12): <em>вдь, хоть, въдь, дяряй, и, нльне, нльня, хуш, шять</em>
 
 ### `VERB`
 
@@ -57,5 +57,5 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Dim` (1; 100% of non-empty `Degree`): <em>кельгомнян</em>
-* `EMPTY` (765): <em>марявсь, лиссь, моли, сась, варжакстсь, кармась, мольсь, рамась, тусь, улема</em>
+* `EMPTY` (819): <em>архт, марявсь, моли, лиссь, сась, улема, варжакстсь, кармась, мольсь, рамась</em>
 

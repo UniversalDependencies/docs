@@ -11,9 +11,9 @@ This relation is universal.
 10087 nodes (4%) are attached to their parents as `root`.
 
 10087 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.78110439179141.
+Average distance between parent and child is 7.77961732923565.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (6815; 68% instances), -<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2116; 21% instances), -<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (514; 5% instances), -<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (283; 3% instances), -<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (195; 2% instances), -<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (96; 1% instances), -<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (30; 0% instances), -<tt><a href="it_vit-pos-X.html">X</a></tt> (13; 0% instances), -<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), -<tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), -<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (6; 0% instances), -<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (6815; 68% instances), -<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2117; 21% instances), -<tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (514; 5% instances), -<tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt> (283; 3% instances), -<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (194; 2% instances), -<tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (97; 1% instances), -<tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (30; 0% instances), -<tt><a href="it_vit-pos-X.html">X</a></tt> (13; 0% instances), -<tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), -<tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), -<tt><a href="it_vit-pos-SYM.html">SYM</a></tt> (6; 0% instances), -<tt><a href="it_vit-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

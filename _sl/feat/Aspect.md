@@ -35,4 +35,4 @@ Verbs without `Aspect` are considered to be biaspectual, i.e. they can either de
 ### Conversion from JOS
 
 Verbs with Aspect=perfective are converted to `Aspect=Perf`, verbs with Aspect=imperfective are converted `Aspect=Imp` and verbs with Aspect=biaspectual are not assigned the `Aspect` feature.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:36 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:47 CEST -->

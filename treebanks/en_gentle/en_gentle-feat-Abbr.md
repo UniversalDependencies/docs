@@ -9,34 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-50 tokens (0%) have a non-empty value of `Abbr`.
-18 types (0%) occur at least once with a non-empty value of `Abbr`.
-18 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (33; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
-
-### `PROPN`
-
-33 <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 100%).
-
-`PROPN` tokens may have the following values of `Abbr`:
-
-* `Yes` (33; 100% of non-empty `Abbr`): <em>HTML, Dr., US, U.S., CBC, Inc., Mr., Prof., UK, CC</em>
-* `EMPTY` (869): <em>Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</em>
-
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (12) occur only with one value of `Abbr`.
+84 tokens (0%) have a non-empty value of `Abbr`.
+28 types (1%) occur at least once with a non-empty value of `Abbr`.
+27 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 5 part-of-speech tags: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (42; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (37; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-13 <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+42 <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 77%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 57%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (13; 100% of non-empty `Abbr`): <em>p., DH, etc., CV, No.</em>
-* `EMPTY` (3770): <em>x, week, T, project, S, school, y, mg, time, party</em>
+* `Yes` (42; 100% of non-empty `Abbr`): <em>mg, Pp., p., DH, etc., kg, CV, No., TEMP, TV</em>
+* `EMPTY` (3737): <em>x, week, T, project, S, school, y, time, party, trust</em>
+
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Abbr`.
+
+### `PROPN`
+
+37 <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> tokens (4% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_gentle-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 100%).
+
+`PROPN` tokens may have the following values of `Abbr`:
+
+* `Yes` (37; 100% of non-empty `Abbr`): <em>HTML, Dr., US, U.S., CBC, Inc., Mr., Prof., U.S.C., UK</em>
+* `EMPTY` (869): <em>Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</em>
+
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (15) occur only with one value of `Abbr`.
 
 ### `ADV`
 
@@ -47,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>e.g.</em>
-* `EMPTY` (723): <em>then, just, so, here, also, thus, well, how, where, now</em>
+* `EMPTY` (722): <em>then, just, so, here, also, thus, well, how, where, now</em>
 
 ### `ADJ`
 
@@ -58,5 +60,14 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>U.S.</em>
-* `EMPTY` (1245): <em>next, other, first, old, open, more, straight, chronic, right, such</em>
+* `EMPTY` (1241): <em>next, other, first, old, open, more, straight, chronic, right, such</em>
+
+### `X`
+
+1 <tt><a href="en_gentle-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Abbr`.
+
+`X` tokens may have the following values of `Abbr`:
+
+* `Yes` (1; 100% of non-empty `Abbr`): <em>PS</em>
+* `EMPTY` (296): <em>1., 2., 3., 4., 5., 6., 7., 8., 9., 10.</em>
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (168; 80% of non-empty `Degree`): <em>better, more, later, younger, less, elder, higher, Lighter, beta, earlier</em>
 * `Sup` (42; 20% of non-empty `Degree`): <em>best, worst, highest, biggest, baddest, hardest, richest, latest, oldest, youngest</em>
-* `EMPTY` (3329): <em>small, own, good, kind, different, many, first, plenty, big, oder</em>
+* `EMPTY` (3336): <em>small, own, good, kind, different, many, first, big, plenty, oder</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Degree`.
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>more</em>
-* `EMPTY` (6158): <em>so, now, just, even, when, well, how, dere, den, still</em>
+* `EMPTY` (6159): <em>so, now, just, even, when, well, how, dere, den, still</em>
 
 ## Relations with Agreement in `Degree`
 

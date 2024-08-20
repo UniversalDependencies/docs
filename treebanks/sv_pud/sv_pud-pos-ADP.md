@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sv_pud-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.983051 (the average of all parts of speech is 1.239021).
+The form / lemma ratio of `ADP` is 0.983051 (the average of all parts of speech is 1.240849).
 
 The 1st highest number of forms (1) was observed with the lemma “De”: <em>de</em>.
 
@@ -77,7 +77,7 @@ Examples: <em>i, av, för, på, till, med, från, under, vid, om</em>
 
 `ADP` nodes are attached to their parents using 10 different relations: <tt><a href="sv_pud-dep-case.html">case</a></tt> (2141; 87% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (198; 8% instances), <tt><a href="sv_pud-dep-compound-prt.html">compound:prt</a></tt> (42; 2% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (31; 1% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (28; 1% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1623; 66% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (383; 16% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (246; 10% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (95; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (27; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances)
+Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (1623; 66% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (383; 16% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (246; 10% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (96; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (40; 2% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (26; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (10; 0% instances)
 
 2382 (97%) `ADP` nodes are leaves.
 

@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-1775 tokens (7%) have a non-empty value of `Mood`.
+1776 tokens (7%) have a non-empty value of `Mood`.
 554 types (9%) occur at least once with a non-empty value of `Mood`.
 329 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (900; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (875; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (901; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (875; 4% instances).
 
 ### `VERB`
 
-900 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Mood`.
+901 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (900; 100%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (900; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (840; 93%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (644; 72%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (619; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (901; 100%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (901; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (841; 93%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (645; 72%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (620; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (59; 7% of non-empty `Mood`): <em>pourrait, pourraient, devrait, aurait, devraient, serait, irait, aiderait, autoriserait, choisirait</em>
 * `Imp` (5; 1% of non-empty `Mood`): <em>Disons, Laisse, Tiens, Voilà</em>
-* `Ind` (824; 92% of non-empty `Mood`): <em>a, est, peut, avait, était, peuvent, sont, ont, va, étaient</em>
+* `Ind` (825; 92% of non-empty `Mood`): <em>a, est, peut, avait, était, peuvent, sont, ont, dit, va</em>
 * `Sub` (12; 1% of non-empty `Mood`): <em>puisse, ait, aperçoive, chante, donne, décide, fasse, finisse, fût</em>
-* `EMPTY` (1355): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
+* `EMPTY` (1353): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Ind</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>

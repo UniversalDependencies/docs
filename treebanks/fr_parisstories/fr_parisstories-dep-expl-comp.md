@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 7	autour	autour	ADV	_	_	6	advmod	_	_
 8	que	que	SCONJ	_	_	13	mark	_	_
 9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	reparandum	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
 11	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 12	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	13	expl:comp	_	_
 13	voyais	voir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	ccomp	_	_

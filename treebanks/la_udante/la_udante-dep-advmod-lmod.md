@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 7	iniuria	iniuria	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	3	conj	_	SpaceAfter=No
 8	,	,	PUNCT	Pu	_	11	punct	_	_
 9	quantas	quantus	DET	pripfa	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur|NumType=Card|PronType=Rel	11	ccomp	_	_
-10	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	9	cop	_	TraditionalTense=Praesens
+10	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	9	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 11	putas	puto	VERB	va1ips2	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 12	.	.	PUNCT	Pu	_	3	punct	_	_
 
@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `advmod:lmod`: <tt><
 3	terram	terra	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	nsubj	_	_
 4	hanc	hic	DET	dpfsa	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	3	det	_	_
 5	emergentem	emergo	VERB	va3ppsfa	Aspect=Imp|Case=Acc|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	3	acl	_	TraditionalMood=Participium|TraditionalTense=Praesens
-6	esse	sum	AUX	va5fp	Aspect=Imp|Tense=Pres|VerbForm=Inf	8	cop	_	TraditionalTense=Praesens
+6	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	8	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 7	ubique	ubique	ADV	r	AdvType=Loc|Form=Emp|PronType=Rel	8	advmod:lmod	_	_
 8	altiorem	altus	ADJ	afs1ac	Case=Acc|Degree=Cmp|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	2	csubj:pass	_	_
 9	totali	totalis	ADJ	afs2b	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	10	amod	_	_

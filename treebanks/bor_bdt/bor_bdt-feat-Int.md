@@ -9,14 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-26 tokens (1%) have a non-empty value of `Int`.
-17 types (2%) occur at least once with a non-empty value of `Int`.
-15 lemmas (4%) occur at least once with a non-empty value of `Int`.
-The feature is used with 5 part-of-speech tags: <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (2; 0% instances).
+26 tokens (0%) have a non-empty value of `Int`.
+17 types (1%) occur at least once with a non-empty value of `Int`.
+15 lemmas (2%) occur at least once with a non-empty value of `Int`.
+The feature is used with 5 part-of-speech tags: <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="bor_bdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `ADP`
 
-13 <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> tokens (6% of all `ADP` tokens) have a non-empty value of `Int`.
+13 <tt><a href="bor_bdt-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Int`.
 
 The most frequent other feature values with which `ADP` and `Int` co-occurred: <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 85%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 85%).
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `ADP` and `Int` co-occurred: <
 
 ### `ADV`
 
-5 <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Int`.
+5 <tt><a href="bor_bdt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Int`.
 
 The most frequent other feature values with which `ADV` and `Int` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%).
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADV` and `Int` co-occurred: <
 
 ### `PRON`
 
-4 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Int`.
+4 <tt><a href="bor_bdt-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Int`.
 
 The most frequent other feature values with which `PRON` and `Int` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="bor_bdt-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (4; 100%), <tt><a href="bor_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%).
 
@@ -56,9 +56,9 @@ The most frequent other feature values with which `NOUN` and `Int` co-occurred: 
 
 ### `PART`
 
-2 <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Int`.
+2 <tt><a href="bor_bdt-pos-PART.html">PART</a></tt> tokens (6% of all `PART` tokens) have a non-empty value of `Int`.
 
-The most frequent other feature values with which `PART` and `Int` co-occurred: <tt><a href="bor_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bor_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bor_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PART` and `Int` co-occurred: <tt><a href="bor_bdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PART` tokens may have the following values of `Int`:
 

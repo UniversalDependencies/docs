@@ -66,11 +66,11 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	mõõni	mõõnnâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3,@+FAUXV
 5	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	6	det	_	GTtags=Dem,Sg,Gen
 6	teärmmaz	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	obl:lmod	_	GTtags=Sg,Nom
-7	årra	årra	ADP	Adp	Case=Ill	6	case	_	GTtags=Ill
+7	årra	årra	ADP	Po	AdpType=Post|Case=Ill	6	case	_	GTtags=Ill
 8	di	di	CCONJ	CC	_	9	cc	_	_
 9	tieʹrmes	tieʹrmes	NOUN	N	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom
 10	heäppaž	heävaš	NOUN	N	Case=Gen|Number=Sing	9	orphan	_	GTtags=Sg,Gen
-11	ool	ool	ADP	Po	_	10	case	_	GTtags=<gen>|SpaceAfter=No
+11	ool	ool	ADP	Po	AdpType=Post	10	case	_	GTtags=<gen>|SpaceAfter=No
 12	...	...	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
 1	Pemegarewu	pemega	NOUN	n	Mood=Ind|Nomzr=Rel	2	amod	_	[pemega];good,well;bom,bem
-2	imedu	imedu	NOUN	n	Gender=Masc|Number=Sing	0	root	_	_
+2	imedu	imedu	NOUN	n	Gender=Masc|Number=Sing	0	root	_	[];;
 
 ~~~
 
@@ -46,10 +46,10 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 amod	color:blue
-1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	_
-2	imedu	imedu	NOUN	n	_	1	obl	_	_
-3	makorewy	mako	VERB	v	Nomzr=Rel	2	amod	_	_
-4	ji	ji	ADP	posp	_	2	case	_	_
+1	Imearudyre	mearudy	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	_	[];;
+2	imedu	imedu	NOUN	n	_	1	obl	_	[];;
+3	makorewy	mako	VERB	v	Nomzr=Rel	2	amod	_	[];;
+4	ji	ji	ADP	posp	Number=Sing|Person=3	2	case	_	[];;
 
 ~~~
 

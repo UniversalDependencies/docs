@@ -11,7 +11,7 @@ It occurs with 2 different values: `Imp`, `Perf`.
 
 26245 tokens (7%) have a non-empty value of `Aspect`.
 996 types (5%) occur at least once with a non-empty value of `Aspect`.
-417 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
+422 lemmas (3%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 6 part-of-speech tags: <tt><a href="hi_hdtb-pos-VERB.html">VERB</a></tt> (18742; 5% instances), <tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> (7495; 2% instances), <tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hi_hdtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 * `EMPTY` (17217): कर, करने, हो, है, होने, देने, लेकर, कहना, करना, दे
 
 <table>
-  <tr><th>Paradigm <i>कर</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
+  <tr><th>Paradigm <i>करना</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>करते</td><td></td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>किए</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>किए</td></tr>
@@ -101,7 +101,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 * `EMPTY` (16261): है, हैं, था, थी, जा, थे, जाने, चाहिए, जाएगा, जाएगी
 
 <table>
-  <tr><th>Paradigm <i>जा</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
+  <tr><th>Paradigm <i>जाना</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>गए</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi_hdtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>जाते</td><td>गए, गये</td></tr>
   <tr><td><tt><tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hi_hdtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi_hdtb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>जाता</td><td>गया, गए, जाया, गये</td></tr>

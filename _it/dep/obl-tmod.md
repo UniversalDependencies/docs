@@ -11,4 +11,4 @@ A temporal modifier is a subtype of the obl relation: if the modifier is specify
 la qual molte fiate l' omo ingombra
 obl:tmod(ingombra, fiate)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:22 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:41 CEST -->

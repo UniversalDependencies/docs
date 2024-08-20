@@ -24,7 +24,7 @@ The following 17 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 3 1 dep	color:blue
 1	In	in	DET	_	_	3	dep	3:dep	NormalizedForm=In
 2	semi	semi	ADV	_	_	3	advmod	3:advmod	NormalizedForm=semi
-3	monamaka	namaka	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=monamaka|Reflexive[iobj]=Yes
+3	monamaka	namaka	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=monamaka|Reflexive[iobj]=Yes
 4	xolal	xolal	NOUN	_	Case=Abs	3	obl	3:obl	NormalizedForm=xolal|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.
 
@@ -55,7 +55,7 @@ The following 17 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	Cruz	Cruz	PROPN	_	_	1	flat	1:flat	NormalizedForm=Krus|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	5:punct	NormalizedForm=,
 4	tein	tein	PRON	_	_	5	nsubj	5:nsubj	NormalizedForm=tein
-5	kiyekana	ekana	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	acl:relcl	1:acl:relcl	NormalizedForm=kiyekana
+5	kiyekana	ekana	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	NormalizedForm=kiyekana
 6	in	in	DET	_	_	7	det	7:det	NormalizedForm=in
 7	Programa	programa	NOUN	_	Gender=Masc|Number=Sing	5	obj	5:obj	NormalizedForm=Programa
 8	de	de	ADP	_	_	9	case	9:case	NormalizedForm=de
@@ -68,10 +68,10 @@ The following 17 pairs of parts of speech are connected with `dep`: <tt><a href=
 15	de	de	ADP	_	_	16	case	16:case	NormalizedForm=de
 16	Puebla	Puebla	PROPN	_	_	13	nmod	13:nmod	NormalizedForm=Pwebla|SpaceAfter=No
 17	,	,	PUNCT	_	_	1	punct	1:punct	NormalizedForm=,
-18	techpaleuij	palehuia	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=techpalewih
+18	techpaleuij	palehuia	VERB	_	Aspect=Perf|Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=techpalewih
 19	miak	miak	ADV	_	_	18	advmod	18:advmod	NormalizedForm=miak
 20	maj	ma	AUX	_	_	21	aux	21:aux	NormalizedForm=mah
-21	tikinixmatikan	ixmati	VERB	_	Mood=Opt|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran	18	dep	18:dep	NormalizedForm=tikinixmatikan
+21	tikinixmatikan	ixmati	VERB	_	Mood=Opt|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|VerbForm=Fin	18	dep	18:dep	NormalizedForm=tikinixmatikan
 22	intokayuan	tokay	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=3	21	obj	21:obj	NormalizedForm=intokaiwan
 23	in	in	DET	_	_	24	det	24:det	NormalizedForm=in
 24	xiuit	xihuit	NOUN	_	Case=Abs	22	nmod	22:nmod	NormalizedForm=xiwit

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2507 nodes (5%) are attached to their parents as `nmod`.
+4796 nodes (5%) are attached to their parents as `nmod`.
 
-1700 instances of `nmod` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.94056641404069.
+3228 instances of `nmod` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.00500417014178.
 
-The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1888; 75% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (169; 7% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (106; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (75; 3% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (53; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (38; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (24; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (20; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (17; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt>-<tt><a href="orv_rnc-pos-X.html">X</a></tt> (1; 0% instances).
+The following 36 pairs of parts of speech are connected with `nmod`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3678; 77% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (357; 7% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (198; 4% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (129; 3% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (74; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (72; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (65; 1% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (44; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (34; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (19; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (18; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,14 +22,14 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 nmod	color:blue
-1	{л._167}	{л._167}	X	_	_	3	dep	_	wf="{л._167}"|before:<i>|after:</i>|NoIndex=Yes|SpaceAfter=No
+1	{л._167}	_	X	_	_	3	dep	_	wf="{л._167}"|before:<i>|after:</i>|NoIndex=Yes|SpaceAfter=No
 2	178-г(о)	178-й	ADJ	ANUM	Case=Gen|Gender=Masc|Number=Sing|NumForm=Combi|NumType=Ord	3	amod	_	wf="178-го"|_
 3	году	годъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	0	root	_	wf="году"|_
 4	ноября	ноябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	wf="ноября"|_
 5	в	въ	ADP	_	_	7	case	_	wf="в"|_
 6	11	11	ADJ	ANUM	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	7	amod	_	wf="11"|_
 7	де[нь]	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	nmod	_	wf="день"|SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	wf="."|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	wf="."|_
 
 ~~~
 
@@ -41,7 +41,7 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 11 nmod	color:blue
 1	И	и	CCONJ	_	_	5	cc	_	wf="И"|_
-2	всего	всего	ADV	_	Degree=Pos	3	advmod	_	wf="всего"|_
+2	всего	всего	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	upos="ADVPRO"|wf="всего"|_
 3	меди	мѣдь	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	5	nsubj	_	wf="меди"|_
 4	23	23	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	5	nummod:gov	_	wf="23"|_
 5	фунта	фунтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	0	root	_	wf="фунта"|_
@@ -52,7 +52,7 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 10	блюда	блюдо	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	wf="блюда"|_
 11	Федора	Федоръ	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	10	nmod	_	wf="Федора"|_
 12	Ил(ь)ича	Ильичь	PROPN	_	Case=Gen|Gender=Masc|NameType=Pat|Number=Sing	11	flat:name	_	wf="Ильича"|SpaceAfter=No
-13	.	.	PUNCT	_	_	5	punct	_	wf="."|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	wf="."|_
 
 ~~~
 
@@ -68,12 +68,12 @@ The following 31 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	у	у	ADP	_	_	4	case	_	wf="у"|_
 4	Фадея	Фадей	PROPN	_	Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	6	obl	_	wf="Фадея"|_
 5	Савкина	Савкинъ	PROPN	_	Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	4	flat:name	_	wf="Савкина"|_
-6	принето	приняти	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="принето"|_
+6	принето	приняти	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="принето"|_
 7	с	съ	ADP	_	_	8	case	_	wf="с"|_
 8	выти	выть	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	wf="выти"|_
 9	16	16	NUM	_	Case=Nom|NumForm=Digit|NumType=Card	10	nummod:gov	_	wf="16"|_
 10	куров	куръ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nsubj:pass	_	wf="куров"|SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	wf="."|SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	wf="."|_
 
 ~~~
 

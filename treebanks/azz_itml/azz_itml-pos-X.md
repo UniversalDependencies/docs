@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>ki, i, X, s, _, B, nik, k, mo, o</em>
 
 The 10 most frequent `X` types:  <em>ki..., i..., X, s..., B, nik..., k..., kow..., mo..., o...</em>
 
-The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="azz_itml-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="azz_itml-pos-X.html">X</a></tt> 2), <em>ke</em> (<tt><a href="azz_itml-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="azz_itml-pos-PRON.html">PRON</a></tt> 1, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>kua</em> (<tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> 109, <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>majya</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 5, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>no</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 144, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>pajpata</em> (<tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>pan</em> (<tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>yek</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 9, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="azz_itml-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="azz_itml-pos-X.html">X</a></tt> 2), <em>ke</em> (<tt><a href="azz_itml-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="azz_itml-pos-PRON.html">PRON</a></tt> 1, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>kua</em> (<tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> 109, <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>majya</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 5, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>no</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 144, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>pajpata</em> (<tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>pan</em> (<tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>yek</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 9, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>majyá</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1), <em>no...</em> (<tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> 1, <tt><a href="azz_itml-pos-X.html">X</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>majyá</em> (<tt><a href="azz_itml-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.019608 (the average of all parts of speech is 1.380113).
+The form / lemma ratio of `X` is 1.019608 (the average of all parts of speech is 1.381087).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>995, uin, xtilia</em>.
 

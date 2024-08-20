@@ -14,4 +14,4 @@ w= his =i gajjar -an =t / hoːj sallam -am -an i- ni //
 text_en: I changed my voice, and I took it from him", he said.
 aux:aff(sallam, -am) ("give", Middle voice derivation)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:45 CEST -->

@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	Bay	Bay	PROPN	_	_	3	vocative	_	Gloss=buddy|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	Gloss=,
 3	mahimo	himo	VERB	_	Aspect=Prosp|Mood=Pot|Voice=Act	0	root	_	Gloss=could
-4	ba	ba	PART	_	_	3	advmod	_	_
+4	ba	ba	PART	_	_	3	advmod	_	Gloss=QUESTION
 5	-ng	nga	PART	_	_	3	mark	_	Gloss=LINK
 6	mangutana	kutana	VERB	_	Aspect=Prosp|Mood=Ind|Voice=Act	3	ccomp	_	Glass=ask.question|SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	Gloss=?

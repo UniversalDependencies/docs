@@ -54,4 +54,4 @@ In English this would apply to *pending* or *during* (from the disused verb *dur
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?](https://glossary.sil.org/term/adposition)
 - [Wikipedia](http://en.wikipedia.org/wiki/Preposition_and_postposition)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:21 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->

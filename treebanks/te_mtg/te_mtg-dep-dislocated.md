@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 dislocated	color:blue
-1	ఆమెను	_	PRON	PRON	_	5	obj	_	Translit=āmènu|LTranslit=_
-2	తిరిగి	_	VERB	VERB	_	5	dislocated	_	Translit=tirigi|LTranslit=_
-3	క్షేమంగా	_	ADV	ADV	_	5	advmod	_	Translit=kṣemaṁgā|LTranslit=_
-4	తల్లిదండ్రులకు	_	NOUN	NOUN	_	5	iobj	_	Translit=tallidaṁḍrulaku|LTranslit=_
-5	అప్పగించే	_	VERB	VERB	_	6	acl	_	Translit=appagiṁce|LTranslit=_
-6	పూచీ	_	NOUN	NOUN	_	7	nsubj	_	Translit=pūcī|LTranslit=_
-7	నాదే	_	PRON	PRON	_	0	root	_	Translit=nāde|LTranslit=_
-8	గా	_	PART	PART	_	7	discourse	_	Translit=gā|LTranslit=_
-9	?	_	PUNCT	PUNCT	_	7	punct	_	Translit=?|LTranslit=_
+1	ఆమెను	_	PRON	PRON	_	5	obj	_	Translit=āmenu
+2	తిరిగి	_	VERB	VERB	_	5	dislocated	_	Translit=tirigi
+3	క్షేమంగా	_	ADV	ADV	_	5	advmod	_	Translit=kṣēmaṁgā
+4	తల్లిదండ్రులకు	_	NOUN	NOUN	_	5	iobj	_	Translit=tallidaṁḍrulaku
+5	అప్పగించే	_	VERB	VERB	_	6	acl	_	Translit=appagiṁcē
+6	పూచీ	_	NOUN	NOUN	_	7	nsubj	_	Translit=pūcī
+7	నాదే	_	PRON	PRON	_	0	root	_	Translit=nādē
+8	గా	_	PART	PART	_	7	discourse	_	Translit=gā
+9	?	_	PUNCT	PUNCT	_	7	punct	_	Translit=?
 
 ~~~
 

@@ -30,4 +30,4 @@ obj(angerufen, Frau)
 aux(angerufen, hat)
 obj(getroffen, die)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:15 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:31 CEST -->

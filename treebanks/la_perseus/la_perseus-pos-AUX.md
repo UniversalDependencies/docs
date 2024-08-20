@@ -28,11 +28,11 @@ The form / lemma ratio of `AUX` is 42.000000 (the average of all parts of speech
 
 The 1st highest number of forms (42) was observed with the lemma “sum”: <em>eram, erant, eras, erat, erimus, eris, erit, ero, erunt, es, esse, essem, essemus, essent, esset, est, esto, fore, foret, fueram, fuerant, fuerat, fuere, fuerint, fuerit, fuerunt, fui, fuimus, fuisse, fuissent, fuit, futura, futuram, sim, sint, sis, sit, sitis, sum, sumus, sunt, sunto</em>.
 
-`AUX` occurs with 8 features: <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt> (369; 100% instances), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt> (369; 100% instances), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt> (366; 99% instances), <tt><a href="la_perseus-feat-Number.html">Number</a></tt> (316; 86% instances), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt> (313; 85% instances), <tt><a href="la_perseus-feat-Person.html">Person</a></tt> (313; 85% instances), <tt><a href="la_perseus-feat-Case.html">Case</a></tt> (3; 1% instances), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt> (3; 1% instances)
+`AUX` occurs with 8 features: <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt> (369; 100% instances), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt> (369; 100% instances), <tt><a href="la_perseus-feat-Number.html">Number</a></tt> (316; 86% instances), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt> (313; 85% instances), <tt><a href="la_perseus-feat-Person.html">Person</a></tt> (313; 85% instances), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt> (313; 85% instances), <tt><a href="la_perseus-feat-Case.html">Case</a></tt> (3; 1% instances), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt> (3; 1% instances)
 
 `AUX` occurs with 22 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Aspect=Prosp`, `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 41 feature combinations.
+`AUX` occurs with 40 feature combinations.
 The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (111 tokens).
 Examples: <em>est</em>
 

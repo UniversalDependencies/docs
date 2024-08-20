@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_lattice-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (2) was observed with the lemma “а”: <em>a, а</em>.
 
@@ -55,7 +55,7 @@ Examples: <em>да, и, a, но, а, либӧ, дай, ни, ли, Ho</em>
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (314; 94% instances), <tt><a href="kpv_lattice-dep-advmod-foc.html">advmod:foc</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-dep-mark.html">mark</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-dep-cc-preconj.html">cc:preconj</a></tt> (6; 2% instances), <tt><a href="kpv_lattice-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (189; 56% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (95; 28% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (25; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (189; 56% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (94; 28% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (25; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (12; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 333 (99%) `CCONJ` nodes are leaves.
 

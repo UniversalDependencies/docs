@@ -58,7 +58,7 @@ The following 4 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 # visual-style 5	fgColor:white
 # visual-style 5 8 obl:cmp	color:blue
 1	Война	война	NOUN	N	Case=Nom|Number=Sing	5	obl:lmod	_	_
-2	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	1	case	_	_
+2	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	1	case	_	_
 3	татшӧм	татшӧм	DET	Det	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_
 4	гӧгӧрвотӧмыс	гӧгӧрвоны	VERB	V	Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Past|VerbForm=Part	5	csubj	_	_
 5	лёкджык	лёк	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	_

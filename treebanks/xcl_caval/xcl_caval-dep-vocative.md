@@ -8,36 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-54 nodes (0%) are attached to their parents as `vocative`.
+301 nodes (0%) are attached to their parents as `vocative`.
 
-34 instances of `vocative` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.2037037037037.
+215 instances of `vocative` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.98338870431894.
 
-The following 12 pairs of parts of speech are connected with `vocative`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (34; 63% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (6; 11% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 21 pairs of parts of speech are connected with `vocative`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (175; 58% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (36; 12% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (22; 7% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (13; 4% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (11; 4% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 vocative	color:blue
-1	Զի	զի	PRON	_	Animacy=Inan|Case=Acc|Number=Sing|PronType=Int	3	obl	_	Translit=Zi|LTranslit=zi|LId=զի-2|Gloss=what
-2	՞	՞	PUNCT	_	_	1	punct	_	Translit=?|LTranslit=?
-3	կոչէք	կոչեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=kočʻēkʻ|LTranslit=kočʻem|Gloss=call
-4	զ	զ	DET	_	_	5	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-5	իս	ես	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Translit=is|LTranslit=es|Gloss=I
-6	Տէր	Տէր	NOUN	_	Case=Nom|Number=Sing	3	vocative	_	Translit=Tēr|LTranslit=Tēr|Gloss=Lord
-7	Տէր	Տէր	NOUN	_	Case=Nom|Number=Sing	6	parataxis	_	SpaceAfter=No|Translit=Tēr|LTranslit=Tēr|Gloss=Lord
-8	.	.	PUNCT	_	_	15	punct	_	Translit=:|LTranslit=:
-9	եւ	եւ	CCONJ	_	_	15	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-10	զ	զ	DET	_	_	11	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-11	որ	որ	PRON	_	Case=Acc|Number=Sing|PronType=Rel	12	obj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
-12	ասեմ	ասեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	SpaceAfter=No|Translit=asem|LTranslit=asem|Gloss=say
-13	ն	ն	DET	_	Definite=Def|PronType=Dem	12	det	_	Translit=n|LTranslit=n|Gloss=that
-14	ոչ	ոչ	PART	_	Polarity=Neg	15	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
-15	առնէք	առնեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	SpaceAfter=No|Translit=aṙnēkʻ|LTranslit=aṙnem|Gloss=make
-16	:	:	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+# visual-style 6 7 vocative	color:blue
+1	քանզի	քանզի	SCONJ	_	_	2	mark	_	Translit=kʻanzi|LTranslit=kʻanzi|Gloss=for
+2	ասէր	ասեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=asēr|LTranslit=asem|Gloss=say
+3	ց	ց	ADP	_	_	4	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
+4	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	2	obl:arg	_	SpaceAfter=No|Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
+5	՝	՝	PUNCT	_	_	6	punct	_	Translit=;|LTranslit=;
+6	ել	ելանեմ	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	ccomp	_	Translit=el|LTranslit=elanem|Gloss=go_out
+7	այս	այս	NOUN	_	Case=Nom|Number=Sing	6	vocative	_	SpaceAfter=No|Translit=ays|LTranslit=ays|LId=այս-2|Gloss=spirit
+8	դ	դ	DET	_	Definite=Def|Deixis=Med|PronType=Dem	7	det	_	Translit=d|LTranslit=d|Gloss=that
+9	պիղծ	պիղծ	ADJ	_	Case=Nom|Number=Sing	7	amod	_	Translit=piłc|LTranslit=piłc|Gloss=foul
+10	ի	ի	ADP	_	_	11	case	_	Translit=i|LTranslit=i|LId=ի-3|Gloss=from
+11	մարդոյ	մարդ	NOUN	_	Case=Abl|Number=Sing	6	obl	_	Translit=mardoy|LTranslit=mard|Gloss=man
+12	այտի	այտի	ADP	_	Deixis=Med	11	case	_	SpaceAfter=No|Translit=ayti|LTranslit=ayti|LId=ayti-2|Gloss=from_there
+13	՝	՝	PUNCT	_	_	2	punct	_	Translit=;|LTranslit=;
 
 ~~~
 
@@ -54,7 +51,7 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 4	եւ	եւ	CCONJ	_	_	5	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 5	ասէ	ասեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	Translit=asē|LTranslit=asem|Gloss=say
 6	ց	ց	ADP	_	_	7	case	_	SpaceAfter=No|Translit=cʻ|LTranslit=cʻ|Gloss=to
-7	նա	նա	PRON	_	Case=Acc|Number=Sing|PronType=Dem	5	obl	_	SpaceAfter=No|Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
+7	նա	նա	PRON	_	Case=Acc|Deixis=Remt|Number=Sing|PronType=Dem	5	obl:arg	_	SpaceAfter=No|Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
 8	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
 9	Սիմովն	Սիմովն	PROPN	_	Case=Nom|Number=Sing	11	vocative	_	SpaceAfter=No|Translit=Simovn|LTranslit=Simovn|Gloss=Simovn
 10	՝	՝	PUNCT	_	_	9	punct	_	Translit=;|LTranslit=;
@@ -68,36 +65,22 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 20 15 vocative	color:blue
-1	իբրեւ	իբրեւ	SCONJ	_	_	2	mark	_	Translit=ibrew|LTranslit=ibrew|LId=իբրեւ-1|Gloss=when
-2	ետես	տեսանեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	Translit=etes|LTranslit=tesanem|Gloss=see
-3	Յիսուս	Յիսուս	PROPN	_	Case=Acc|Number=Sing	2	obj	_	SpaceAfter=No|Translit=Yisows|LTranslit=Yisows|Gloss=Jesus
-4	.	.	PUNCT	_	_	2	punct	_	Translit=:|LTranslit=:
-5	անկեալ	անկանիմ	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	Translit=ankeal|LTranslit=ankanim|Gloss=fall
-6	ի	ի	ADP	_	_	8	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to/in/from
-7	վերայ	վերայ	ADP	_	_	6	fixed	_	Translit=veray|LTranslit=veray|LId=վերայ-1|Gloss=on
-8	երեսաց	երես	NOUN	_	Case=Gen|Number=Plur	5	obl	_	Translit=eresacʻ|LTranslit=eres|Gloss=face
-9	աղաչեաց	աղաչեմ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ałačʻeacʻ|LTranslit=ałačʻem|Gloss=pray_for
-10	զ	զ	DET	_	_	11	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-11	նա	նա	PRON	_	Case=Acc|Number=Sing|PronType=Dem	9	obj	_	Translit=na|LTranslit=na|LId=նա-1|Gloss=he/she/it/that
-12	եւ	եւ	CCONJ	_	_	13	cc	_	Translit=ew|LTranslit=ew|Gloss=and
-13	ասէ	ասեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No|Translit=asē|LTranslit=asem|Gloss=say
-14	՝	՝	PUNCT	_	_	15	punct	_	Translit=;|LTranslit=;
-15	Տէր	Տէր	NOUN	_	Case=Nom|Number=Sing	20	vocative	_	SpaceAfter=No|Translit=Tēr|LTranslit=Tēr|Gloss=Lord
-16	՝	՝	PUNCT	_	_	15	punct	_	Translit=;|LTranslit=;
-17	եթե	եթե	SCONJ	_	_	18	mark	_	Translit=etʻe|LTranslit=etʻē|LId=եթե-1|Gloss=whether
-18	կամիս	կամիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	20	advcl	_	SpaceAfter=No|Translit=kamis|LTranslit=kamim|Gloss=want
-19	.	.	PUNCT	_	_	18	punct	_	Translit=:|LTranslit=:
-20	կարող	կարող	ADJ	_	Case=Nom|Number=Sing	13	ccomp	_	Translit=karoł|LTranslit=karoł|Gloss=able
-21	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	Translit=es|LTranslit=em|Gloss=be
-22	զ	զ	DET	_	_	23	det	_	SpaceAfter=No|Translit=z|LTranslit=z
-23	իս	ես	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	24	obj	_	Translit=is|LTranslit=es|Gloss=I
-24	սրբել	սրբեմ	VERB	_	VerbForm=Inf	20	xcomp	_	SpaceAfter=No|Translit=srbel|LTranslit=srbem|Gloss=cleanse
-25	:	:	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 vocative	color:blue
+1	հայր	հայր	NOUN	_	Case=Nom|Number=Sing	7	vocative	_	Translit=hayr|LTranslit=hayr|Gloss=father
+2	մեր	մեք	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	1	nmod	_	Translit=mer|LTranslit=mekʻ|Gloss=we
+3	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	5	nsubj	_	Translit=or|LTranslit=or|LId=որ-1|Gloss=which
+4	յ	ի	ADP	_	_	5	case	_	SpaceAfter=No|Translit=y|LTranslit=i|LId=ի-2|Gloss=in
+5	երկինս	երկին	NOUN	_	Case=Loc|Number=Plur	1	acl	_	SpaceAfter=No|Translit=erkins|LTranslit=erkin|Gloss=heaven
+6	՝	՝	PUNCT	_	_	1	punct	_	Translit=;|LTranslit=;
+7	սուրբ	սուրբ	ADJ	_	Case=Nom|Number=Sing	0	root	_	Translit=sowrb|LTranslit=sowrb|Gloss=holy
+8	եղիցի	լինիմ	AUX	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	7	cop	_	Translit=ełicʻi|LTranslit=linim|Gloss=be
+9	անուն	անուն	NOUN	_	Case=Nom|Number=Sing	7	nsubj	_	Translit=anown|LTranslit=anown|Gloss=name
+10	քո	դու	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	9	nmod	_	SpaceAfter=No|Translit=kʻo|LTranslit=dow|Gloss=you_(sg.)
+11	՝	՝	PUNCT	_	_	7	punct	_	Translit=;|LTranslit=;
 
 ~~~
 

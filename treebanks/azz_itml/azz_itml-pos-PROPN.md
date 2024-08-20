@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Highland_Puebla_Nahuatl-ITML: POS Tags: `PROPN`
 
-There are 102 `PROPN` lemmas (7%), 109 `PROPN` types (6%) and 201 `PROPN` tokens (2%).
+There are 102 `PROPN` lemmas (7%), 110 `PROPN` types (6%) and 201 `PROPN` tokens (2%).
 Out of 15 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Cuetzalan, Miguel, San, María, Tzinacapan, Centauri, Próxima, Osollo, Salazar, Tonalix</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.068627 (the average of all parts of speech is 1.380113).
+The form / lemma ratio of `PROPN` is 1.078431 (the average of all parts of speech is 1.381087).
 
 The 1st highest number of forms (3) was observed with the lemma “María”: <em>Maria, María, niMaria</em>.
 
@@ -40,7 +40,7 @@ Examples: <em>Kuesalan, San, Tzinacapan, Próxima, centauri, Osollo, Salazar, To
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="azz_itml-dep-flat.html">flat</a></tt> (80; 40% instances), <tt><a href="azz_itml-dep-appos.html">appos</a></tt> (28; 14% instances), <tt><a href="azz_itml-dep-obl.html">obl</a></tt> (26; 13% instances), <tt><a href="azz_itml-dep-nmod.html">nmod</a></tt> (19; 9% instances), <tt><a href="azz_itml-dep-obj.html">obj</a></tt> (12; 6% instances), <tt><a href="azz_itml-dep-root.html">root</a></tt> (12; 6% instances), <tt><a href="azz_itml-dep-conj.html">conj</a></tt> (11; 5% instances), <tt><a href="azz_itml-dep-parataxis.html">parataxis</a></tt> (9; 4% instances), <tt><a href="azz_itml-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="azz_itml-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="azz_itml-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`PROPN` nodes are attached to their parents using 11 different relations: <tt><a href="azz_itml-dep-flat.html">flat</a></tt> (80; 40% instances), <tt><a href="azz_itml-dep-obl.html">obl</a></tt> (46; 23% instances), <tt><a href="azz_itml-dep-nmod.html">nmod</a></tt> (19; 9% instances), <tt><a href="azz_itml-dep-obj.html">obj</a></tt> (12; 6% instances), <tt><a href="azz_itml-dep-root.html">root</a></tt> (12; 6% instances), <tt><a href="azz_itml-dep-conj.html">conj</a></tt> (11; 5% instances), <tt><a href="azz_itml-dep-parataxis.html">parataxis</a></tt> (9; 4% instances), <tt><a href="azz_itml-dep-appos.html">appos</a></tt> (8; 4% instances), <tt><a href="azz_itml-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="azz_itml-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="azz_itml-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
 Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="azz_itml-pos-PROPN.html">PROPN</a></tt> (93; 46% instances), <tt><a href="azz_itml-pos-VERB.html">VERB</a></tt> (49; 24% instances), <tt><a href="azz_itml-pos-NOUN.html">NOUN</a></tt> (25; 12% instances), <tt><a href="azz_itml-pos-ADV.html">ADV</a></tt> (22; 11% instances),  (12; 6% instances)
 

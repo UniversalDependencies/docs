@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Ind` (5; 100% of non-empty `Definite`): <em>мыйкӧ, кодкӧ</em>
-* `EMPTY` (532): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
+* `EMPTY` (536): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
 
 ### `ADJ`
 
@@ -58,5 +58,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 `DET` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>Кымынкӧ</em>
-* `EMPTY` (44): <em>став, уна, ас, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ставыс, Уналӧн, быд</em>
+* `EMPTY` (43): <em>став, уна, ас, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ставыс, Уналӧн, быд</em>
 

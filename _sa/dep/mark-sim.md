@@ -17,3 +17,4 @@ obj(priyám, te)
 cop(táthā, astu)
 advcl:manner(táthā, priyám)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:20 CEST -->

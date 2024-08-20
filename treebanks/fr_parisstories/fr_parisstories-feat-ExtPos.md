@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 11 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `NOUN`, `PRON`, `PROPN`, `SCONJ`, `VERB`.
 
-1009 tokens (2%) have a non-empty value of `ExtPos`.
+1043 tokens (2%) have a non-empty value of `ExtPos`.
 65 types (2%) occur at least once with a non-empty value of `ExtPos`.
-62 lemmas (3%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (457; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (163; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (96; 0% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (80; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (51; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (46; 0% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (15; 0% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
+61 lemmas (2%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 11 part-of-speech tags: <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (457; 1% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (166; 0% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (96; 0% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (82; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (54; 0% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (46; 0% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (15; 0% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
 
 ### `ADV`
 
@@ -33,20 +33,20 @@ The feature is used with 11 part-of-speech tags: <tt><a href="fr_parisstories-po
 
 ### `ADP`
 
-163 <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+166 <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADJ` (3; 2% of non-empty `ExtPos`): <em>en</em>
-* `ADP` (8; 5% of non-empty `ExtPos`): <em>en, à</em>
-* `ADV` (124; 76% of non-empty `ExtPos`): <em>en, de, d', à, par, pour, pendant, dès, a, sauf</em>
+* `ADJ` (5; 3% of non-empty `ExtPos`): <em>en, à</em>
+* `ADP` (9; 5% of non-empty `ExtPos`): <em>en, à</em>
+* `ADV` (124; 75% of non-empty `ExtPos`): <em>en, de, d', à, par, pour, pendant, dès, a, sauf</em>
 * `DET` (20; 12% of non-empty `ExtPos`): <em>de</em>
 * `NOUN` (2; 1% of non-empty `ExtPos`): <em>à</em>
 * `SCONJ` (6; 4% of non-empty `ExtPos`): <em>sauf</em>
 
 <table>
-  <tr><th>Paradigm <i>à</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>NOUN</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>à</em></td><td><em>à</em></td><td><em>à</em></td></tr>
+  <tr><th>Paradigm <i>à</i></th><th><tt>ADJ</tt></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>NOUN</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>à</em></td><td><em>à</em></td><td><em>à</em></td><td><em>à</em></td></tr>
 </table>
 
 ### `NOUN`
@@ -65,14 +65,28 @@ The most frequent other feature values with which `NOUN` and `ExtPos` co-occurre
 
 ### `DET`
 
-80 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `ExtPos`.
+82 <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="fr_parisstories-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (79; 99%), <tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (78; 98%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (78; 98%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (66; 83%).
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="fr_parisstories-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (82; 100%), <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (82; 100%), <tt><a href="fr_parisstories-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (82; 100%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 99%), <tt><a href="fr_parisstories-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (80; 98%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (80; 98%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (66; 80%).
 
 `DET` tokens may have the following values of `ExtPos`:
 
-* `ADV` (78; 98% of non-empty `ExtPos`): <em>un, une, des</em>
-* `PRON` (2; 3% of non-empty `ExtPos`): <em>quelque</em>
+* `ADV` (80; 98% of non-empty `ExtPos`): <em>un, une, des</em>
+* `PRON` (2; 2% of non-empty `ExtPos`): <em>quelque</em>
+
+### `CCONJ`
+
+80 <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> tokens (5% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+
+`CCONJ` tokens may have the following values of `ExtPos`:
+
+* `ADV` (39; 49% of non-empty `ExtPos`): <em>et</em>
+* `CCONJ` (41; 51% of non-empty `ExtPos`): <em>et, c'est-à-dire</em>
+
+<table>
+  <tr><th>Paradigm <i>et</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>et</em></td><td><em>et</em></td></tr>
+</table>
 
 ### `VERB`
 
@@ -84,20 +98,6 @@ The most frequent other feature values with which `VERB` and `ExtPos` co-occurre
 
 * `INTJ` (53; 98% of non-empty `ExtPos`): <em>voilà</em>
 * `SCONJ` (1; 2% of non-empty `ExtPos`): <em>vu</em>
-
-### `CCONJ`
-
-51 <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> tokens (3% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`CCONJ` tokens may have the following values of `ExtPos`:
-
-* `ADV` (39; 76% of non-empty `ExtPos`): <em>et</em>
-* `CCONJ` (12; 24% of non-empty `ExtPos`): <em>et, c'est-à-dire</em>
-
-<table>
-  <tr><th>Paradigm <i>et</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>et</em></td><td><em>et</em></td></tr>
-</table>
 
 ### `SCONJ`
 

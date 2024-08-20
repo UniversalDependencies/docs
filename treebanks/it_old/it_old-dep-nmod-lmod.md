@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_old-dep-nmod.html">nmod</a></tt>.
 
-2 nodes (0%) are attached to their parents as `nmod:lmod`.
+3 nodes (0%) are attached to their parents as `nmod:lmod`.
 
-2 instances of `nmod:lmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.
+3 instances of `nmod:lmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `nmod:lmod`: <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `nmod:lmod`: <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 33% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -171,6 +171,72 @@ The following 2 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 100	dentro	dentro	ADV	b	_	101	advmod:lmod	_	Canto=12|Verso=15
 101	fiacca	fiaccare	VERB	vta1ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	96	acl:relcl	_	Canto=12|SpaceAfter=No|Verso=15
 102	.	.	PUNCT	_	_	60	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 40	bgColor:blue
+# visual-style 40	fgColor:white
+# visual-style 38	bgColor:blue
+# visual-style 38	fgColor:white
+# visual-style 38 40 nmod:lmod	color:blue
+1	Poi	poi	ADV	b	_	24	advmod:tmod	_	Canto=18|Verso=139
+2	quando	quando	SCONJ	csst	_	7	mark	_	Canto=18|Verso=139
+3	fuor	essere	AUX	vi4irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	Canto=18|Verso=139
+4	da	da	ADP	epska	_	5	case	_	Canto=18|Verso=139
+5	noi	noi	PRON	pp1plco	Number=Plur|Person=1|PronType=Prs	7	obl:lmod	_	Canto=18|Verso=139
+6	tanto	tanto	ADV	b	_	7	advmod	_	Canto=18|Verso=139
+7	divise	dividere	VERB	vtp2pra1fp	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	24	advcl	_	Canto=18|Verso=139
+8	quell'	quello	DET	ad1fp	Gender=Fem|Number=Plur|PronType=Dem	9	det	_	Canto=18|Verso=140
+9	ombre	ombra	NOUN	sf1fp	Gender=Fem|Number=Plur	7	nsubj	_	Canto=18|SpaceAfter=No|Verso=140
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	che	che	SCONJ	cssu	_	12	mark	_	Canto=18|Verso=140
+12	veder	vedere	VERB	vtp2fp	Tense=Pres|VerbForm=Inf|Voice=Pass	7	advcl	_	Canto=18|Verso=140
+13	più	più	ADV	b	_	12	advmod	_	Canto=18|Verso=140
+14	non	non	ADV	b	PronType=Neg	12	advmod:neg	_	Canto=18|Verso=140
+15	potier	potere	AUX	vta2irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	aux	_	Canto=18|Verso=140
+16	si	si	PRON	pf3xle	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	12	expl:impers	_	Canto=18|Verso=140
+17	,	,	PUNCT	_	_	12	punct	_	_
+18	novo	nuovo	ADJ	a1ms	Gender=Masc|Number=Sing	19	amod	_	Canto=18|Verso=141
+19	pensiero	pensiero	NOUN	sm2ms	Gender=Masc|Number=Sing	24	nsubj	_	Canto=18|Verso=141
+20	dentro	dentro	ADV	_	_	22	advmod:lmod	_	Canto=18|Verso=141
+21	a	a	ADP	_	_	22	case	_	Canto=18|Verso=141
+22	me	me	PRON	pp1slco	Person=1|Poss=Yes|PronType=Prs	24	obl:lmod	_	Canto=18|Verso=141
+23	si	si	PRON	pf3ypr	Clitic=Yes|Person=3|PronType=Prs|Reflex=Yes	24	expl:pv	_	Canto=18|Verso=141
+24	mise	mettere	VERB	vta+2irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=18|SpaceAfter=No|Verso=141
+25	,	,	PUNCT	_	_	31	punct	_	_
+26	di	di	ADP	_	_	28	case	_	Canto=18|Comment=de-l|Verso=142
+27	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	Canto=18|Comment=de-l|Verso=142
+28	qual	quale	PRON	pr2ms	Number=Sing|PronType=Rel	31	obl	_	Canto=18|Verso=142
+29	più	più	DET	a	_	30	det	_	Canto=18|Verso=142
+30	altri	altro	PRON	pi	Gender=Masc|Number=Plur|PronType=Ind	31	nsubj	_	Canto=18|Verso=142
+31	nacquero	nascere	VERB	vi2irp3	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	Canto=18|Verso=142
+32	e	e	CCONJ	cscc	_	33	cc	_	Canto=18|Verso=142
+33	diversi	diverso	ADJ	a1mp	Gender=Masc|Number=Plur	29	conj	_	Canto=18|SpaceAfter=No|Verso=142
+34	;	;	PUNCT	_	_	41	punct	_	_
+35	e	e	CCONJ	cscc	_	41	cc	_	Canto=18|Verso=143
+36	tanto	tanto	ADV	b	_	41	advmod	_	Canto=18|Verso=143
+37	d'	da	ADP	epskdl	_	38	case	_	Canto=18|Verso=143
+38	uno	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	41	obl:lmod	_	Canto=18|Verso=143
+39	in	in	ADP	epskml	_	40	case	_	Canto=18|Verso=143
+40	altro	altro	PRON	pi	Gender=Masc|Number=Sing|PronType=Ind	38	nmod:lmod	_	Canto=18|Verso=143
+41	vaneggiai	vaneggiare	VERB	vi1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	24	parataxis	_	Canto=18|SpaceAfter=No|Verso=143
+42	,	,	PUNCT	_	_	48	punct	_	_
+43	che	che	SCONJ	cssu	_	48	mark	_	Canto=18|Verso=144
+44	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	45	det	_	Canto=18|Verso=144
+45	occhi	occhio	NOUN	sm2mp	Gender=Masc|Number=Plur	48	obj	_	Canto=18|Verso=144
+46	per	per	ADP	epskr	_	47	case	_	Canto=18|Verso=144
+47	vaghezza	vaghezza	NOUN	sf1fs	Gender=Fem|Number=Sing	48	obl	_	Canto=18|Verso=144
+48	ricopersi	ricoprire	VERB	vta3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	41	advcl	_	Canto=18|SpaceAfter=No|Verso=144
+49	,	,	PUNCT	_	_	55	punct	_	_
+50	e	e	CCONJ	cscc	_	55	cc	_	Canto=18|Verso=145
+51	'l	il	DET	rdms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	_	Canto=18|Verso=145
+52	pensamento	pensamento	NOUN	sm2ms	Gender=Masc|Number=Sing	55	obj	_	Canto=18|Verso=145
+53	in	in	ADP	epskml	_	54	case	_	Canto=18|Verso=145
+54	sogno	sogno	NOUN	sm2ms	Gender=Masc|Number=Sing	55	obl	_	Canto=18|Verso=145
+55	trasmutai	trasmutare	VERB	vta1irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	48	conj	_	Canto=18|SpaceAfter=No|Verso=145
+56	.	.	PUNCT	_	_	24	punct	_	_
 
 ~~~
 

@@ -27,7 +27,7 @@ The following 21 pairs of parts of speech are connected with `advcl:abs`: <tt><a
 2	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	4	nsubj	_	_
 3	sunt	sum	AUX	N3|modA|tem1|gen9	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 4	naturalia	naturalis	ADJ	C1|grn1|casJ|gen3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Plur	1	acl:relcl	_	_
-5	mutari	muto	VERB	J3|modQ|tem1	Aspect=Imp|InflClass=LatA|Tense=Pres|VerbForm=Inf|Voice=Pass	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+5	mutari	muto	VERB	J3|modQ|tem1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 6	non	non	PART	O4	Polarity=Neg	7	advmod:neg	_	_
 7	possunt	possum	VERB	N3|modA|tem1|gen9	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 8	,	,	PUNCT	Punc	_	10	punct	_	_

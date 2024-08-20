@@ -24,9 +24,9 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5 10 dislocated	color:blue
 1	Nikauín	nikahuin	ADV	_	_	3	advmod	3:advmod	NormalizedForm=Nikawín
 2	amo	amo	ADV	_	_	3	advmod	3:advmod	NormalizedForm=amo
-3	mochiua	chihua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=mochiwa|Reflexive[obj]=Yes|SpaceAfter=No
+3	mochiua	chihua	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mochiwa|Reflexive[obj]=Yes|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	5:punct	NormalizedForm=,
-5	mopachania	pachania	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres	3	parataxis	3:parataxis	NormalizedForm=mopachania|Reflexive[obj]=Yes
+5	mopachania	pachania	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=mopachania|Reflexive[obj]=Yes
 6	saj	saj	ADV	_	_	5	advmod	5:advmod	NormalizedForm=sah
 7	kemaj	kemaj	INTJ	_	_	5	discourse	5:discourse	NormalizedForm=kemah|SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	10:punct	NormalizedForm=,
@@ -45,7 +45,7 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3 1 dislocated	color:blue
 1	In	in	PRON	_	_	3	dislocated	3:dislocated	NormalizedForm=In
 2	amo	amo	ADV	_	_	3	advmod	3:advmod	NormalizedForm=amo
-3	nikmati	mati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=nikmati
+3	nikmati	mati	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=nikmati
 4	ox	ox	SCONJ	_	_	5	mark	5:mark	NormalizedForm=ox
 5	sesek	sesek	ADJ	_	Number[subj]=Sing|Person[subj]=3	3	advcl	3:advcl	NormalizedForm=sesek
 6	oso	oso	CCONJ	_	_	7	cc	7:cc	NormalizedForm=oso

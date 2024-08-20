@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `advmod:foc`: <tt><a
 3	åårr	åårrad	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
 4	tõʹst	tõʹst	ADV	Adv	_	5	advmod:lmod	_	_
 5	jiõŋ	jiõŋŋ	NOUN	N	Case=Gen|Number=Sing	3	obl:lmod	_	GTtags=Sg,Gen
-6	âʹlnn	âʹlnn	ADP	Adp	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
+6	âʹlnn	âʹlnn	ADP	Po	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~

@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 compound	color:blue
-1	Amo	amo	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we
+1	Amo	kami	PRON	_	Case=Gen|Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	Gloss=we
 2	-ng	nga	PART	_	_	1	mark	_	Gloss=LINK
 3	tabangan	tabang	VERB	_	Aspect=Imp|Mood=Ind|Voice=Pass	0	root	_	Gloss=going.to.help
 4	ron	karon	ADV	_	_	3	advmod	_	Gloss=now

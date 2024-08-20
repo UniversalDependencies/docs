@@ -84,7 +84,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	up	up	PART	RP	_	3	compound:prt	3:compound:prt	_
 5	with	with	ADP	IN	_	9	case	9:case	_
 6	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	_
-7	US	US	PROPN	NNP	Number=Sing	9	compound	9:compound	_
+7	US	US	PROPN	NNP	Abbr=Yes|Number=Sing	9	compound	9:compound	_
 8	speakers	speaker	NOUN	NNS	Number=Plur	9	compound	9:compound	_
 9	agency	agency	NOUN	NN	Number=Sing	3	obl	3:obl:with	_
 10	after	after	SCONJ	IN	_	12	mark	12:mark	_

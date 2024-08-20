@@ -27,4 +27,4 @@ Note also, that there is a number of case-marking elements (traditionally called
 - Prepositions, postpostions: _ի&nbsp;_ “for the sake of”, _առ&nbsp;_ “up to”, _ըստ&nbsp;_ “according to”, _համար&nbsp;_ “for”, _հանդերձ&nbsp;_ “together with”, _պես&nbsp;_ “as”
 - Localizers / postpositions։ _մոտ&nbsp;_ “at”, _վրա&nbsp;_ “on”, _մեջ&nbsp;_ “in”, _տակ&nbsp;_ “under”, _առաջ, առջև, դիմաց&nbsp;_ “before, front side, ahead”
 - Case-marking words: _հետո&nbsp;_ “after”
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:21 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:32 CEST -->

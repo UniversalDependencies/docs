@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 5 different values: `Cnd`, `Imp`, `Ind`, `Pot`, `Sub`.
 
 14675 tokens (12%) have a non-empty value of `Mood`.
-1057 types (4%) occur at least once with a non-empty value of `Mood`.
+1056 types (4%) occur at least once with a non-empty value of `Mood`.
 23 lemmas (0%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="eu_bdt-pos-AUX.html">AUX</a></tt> (11609; 10% instances), <tt><a href="eu_bdt-pos-VERB.html">VERB</a></tt> (3066; 3% instances).
 

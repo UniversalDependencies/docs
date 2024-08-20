@@ -66,7 +66,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 * `NomAg` (8; 57% of non-empty `VerbForm`): <em>моравтыцятне, азгондицят, ардыцятне, сёрмадыцятне, эрицятне, эрицятнеде</em>
 * `Vnoun` (6; 43% of non-empty `VerbForm`): <em>Удомань, коцькерямонть, сиземань, туемадо, удомазо, ёртнема</em>
-* `EMPTY` (5078): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5079): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 

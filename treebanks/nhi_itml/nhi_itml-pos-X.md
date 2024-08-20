@@ -13,13 +13,13 @@ The 10 most frequent `X` lemmas: <em>_, in</em>
 
 The 10 most frequent `X` types:  <em>momatis, n, namechtlasohtla, queman, tlaliliaj</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 18, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 4, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> 1), <em>in</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 461, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 20, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 8, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 4, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> 1), <em>in</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 628, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 410, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1), <em>queman</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 411, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1), <em>queman</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1)
 
 
 * <em>n</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 410: <em>Nikah itich <b>n</b> pueblo , mikeh timanimaroa para tiyaskeh canadá .</em>
+  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 411: <em>Nikah itich <b>n</b> pueblo , mikeh timanimaroa para tiyaskeh canadá .</em>
   * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 24: <em>Ya mikeh <b>n</b> poliwtokeh n tlahpiyalmeh .</em>
   * <tt><a href="nhi_itml-pos-X.html">X</a></tt> 1: <em>Nikah ich n parque , kwaltsih <b>n</b> o moyehyektlaleh .</em>
 * <em>queman</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="nhi_itml-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.500000 (the average of all parts of speech is 1.458263).
+The form / lemma ratio of `X` is 2.500000 (the average of all parts of speech is 1.474576).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>momatis, namechtlasohtla, queman, tlaliliaj</em>.
 

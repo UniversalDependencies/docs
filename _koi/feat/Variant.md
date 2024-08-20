@@ -36,4 +36,4 @@ The second abessive case (-тӧм) is limited to the nominal phrase and non-verb
 - _Вӧлі сія лажмытик, пӧввезӧн дорӧм ӧшына, <b>крышатӧм</b>._ “Well, it was rather flat, with windows boarded over and  <b>without a roof</b>.”
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:11 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->

@@ -48,4 +48,4 @@ sentence it is clear that the subject of __digging__ can only be __we__. This is
 what distinguishes `ccomp` and `xcomp`.
 
 Note: Complement clauses with pronouns like _բանն այն է, որ_ “fact is that” we analyze as [acl](). Hence, `ccomp` does not appear in nominals. This makes sense, since nominals normally do not take core arguments.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:34 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:51 CEST -->

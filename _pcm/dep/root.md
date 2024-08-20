@@ -19,4 +19,4 @@ The `root` relation is used between the fake node ROOT (which is not represented
 4	very	very	ADV	ADV	_	5	advmod	_	_
 5	much	much	ADV	ADV	_	2	advmod	_	_
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:28 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:48 CEST -->

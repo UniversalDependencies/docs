@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `obl:smod`: <tt><a h
 # visual-style 5 7 obl:smod	color:blue
 1	Ach	ach	CCONJ	Cc	_	2	cc	_	_
 2	cò	cò	PRON	Uq	PronType=Int	0	root	_	_
-3	a-seo	a-seo	PRON	Pd	_	2	nsubj	_	_
+3	a-seo	a-seo	PRON	Pd	_	2	nmod	_	_
 4	a	a	PART	Q-r	PartType=Vb|PronType=Rel	5	nsubj	_	_
 5	thàinig	thig	VERB	V-s	Tense=Past	3	acl:relcl	_	_
 6	latha	latha	ADV	Rt	_	5	advmod	_	_

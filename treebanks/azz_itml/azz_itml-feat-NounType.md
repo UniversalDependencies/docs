@@ -22,7 +22,7 @@ The most frequent other feature values with which `NOUN` and `NounType` co-occur
 
 `NOUN` tokens may have the following values of `NounType`:
 
-* `Relat` (251; 100% of non-empty `NounType`): <em>itech, ika, tsintan, kopa, iuan, ijtik, tenoj, ixko, tampa, iwan</em>
+* `Relat` (251; 100% of non-empty `NounType`): <em>itech, ika, tsintan, kopa, iuan, ijtik, tenoj, ixko, pa, tampa</em>
 
 `NounType` seems to be **lexical feature** of `NOUN`. 100% lemmas (22) occur only with one value of `NounType`.
 

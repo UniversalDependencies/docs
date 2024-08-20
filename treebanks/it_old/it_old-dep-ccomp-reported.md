@@ -9,91 +9,80 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_old-dep-ccomp.html">ccomp</a></tt>.
 There are also 1 other language-specific subtypes of `ccomp`: <tt><a href="it_old-dep-ccomp-relcl.html">ccomp:relcl</a></tt>.
 
-399 nodes (1%) are attached to their parents as `ccomp:reported`.
+767 nodes (1%) are attached to their parents as `ccomp:reported`.
 
-342 instances of `ccomp:reported` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.6140350877193.
+626 instances of `ccomp:reported` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.39243807040417.
 
-The following 17 pairs of parts of speech are connected with `ccomp:reported`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (232; 58% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (55; 14% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (24; 6% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (20; 5% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (10; 3% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `ccomp:reported`: <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (442; 58% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (99; 13% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (38; 5% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (32; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (30; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (30; 4% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (21; 3% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (19; 2% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="it_old-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="it_old-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="it_old-pos-ADV.html">ADV</a></tt>-<tt><a href="it_old-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_old-pos-DET.html">DET</a></tt>-<tt><a href="it_old-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_old-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_old-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_old-pos-PRON.html">PRON</a></tt>-<tt><a href="it_old-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_old-pos-VERB.html">VERB</a></tt>-<tt><a href="it_old-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 ccomp:reported	color:blue
-1	E	e	CCONJ	cscc	_	2	cc	_	Canto=21|Verso=102
-2	rispondien	rispondere	VERB	vta2iip3	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=21|SpaceAfter=No|Verso=102
-3	:	:	PUNCT	_	_	7	punct	_	_
-4	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
-5	sì	sì	INTJ	i	_	7	discourse	_	Canto=21|SpaceAfter=No|Verso=102
-6	,	,	PUNCT	_	_	5	punct	_	_
-7	fa	fare	VERB	vta1mps2	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp:reported	_	Canto=21|Verso=102
-8	che	che	SCONJ	cssb	_	11	mark	_	Canto=21|Verso=102
-9	li	li	PRON	pp3xda	Clitic=Yes|Person=3|PronType=Prs	11	iobj	_	Canto=21|Verso=102
-10	lo	lo	PRON	pp3msxac	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Canto=21|Verso=102
-11	accocchi	accoccare	VERB	vta1cps2	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	Canto=21|SpaceAfter=No|Verso=102
-12	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 15 ccomp:reported	color:blue
+1	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Oh	oh	INTJ	i	_	15	discourse	_	Canto=33|SpaceAfter=No|Verso=121
+3	!	!	PUNCT	_	_	2	punct	_	SpaceAfter=No
+4	»	»	PUNCT	_	_	2	punct	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	diss'	dire	VERB	vta3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=33|SpaceAfter=No|Verso=121
+7	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Canto=33|Verso=121
+8	lui	lui	PRON	pp3mslco	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl:arg	_	Canto=33|SpaceAfter=No|Verso=121
+9	,	,	PUNCT	_	_	15	punct	_	_
+10	«	«	PUNCT	_	_	15	punct	_	SpaceAfter=No
+11	or	ora	ADV	cscn	_	15	advmod:tmod	_	Canto=33|Verso=121
+12	se'	essere	AUX	vi4ips2	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	aux	_	Canto=33|Verso=121
+13	tu	tu	PRON	pp2slso	Number=Sing|Person=2|PronType=Prs	15	nsubj	_	Canto=33|Verso=121
+14	ancor	ancora	ADV	b	_	15	advmod:tmod	_	Canto=33|Verso=121
+15	morto	morire	VERB	vi3ibs2	Aspect=Perf|Gender=Masc|Number=Sing|Person=2|Tense=Past|VerbForm=Part	6	ccomp:reported	_	Canto=33|SpaceAfter=No|Verso=121
+16	?	?	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	»	»	PUNCT	_	_	15	punct	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	15	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 7 ccomp:reported	color:blue
-1	E	e	CCONJ	cscc	_	2	cc	_	Canto=22|Verso=66
-2	quelli	quello	PRON	pd1ms	Gender=Masc|Number=Sing|Person=1|PronType=Dem	0	root	_	Canto=22|SpaceAfter=No|Verso=66
-3	:	:	PUNCT	_	_	7	punct	_	_
-4	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
-5	I'	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Canto=22|Verso=66
-6	mi	mi	PRON	pf1syle	Clitic=Yes|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	expl:pv	_	Canto=22|Verso=66
-7	partii	partire	VERB	vi+3irs1	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	ccomp:reported	_	Canto=22|SpaceAfter=No|Verso=66
-8	,	,	PUNCT	_	_	9	punct	_	_
-9	poco	poco	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	advcl	_	Canto=22|Verso=67
-10	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	Canto=22|SpaceAfter=No|Verso=67
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	da	da	ADP	epska	_	13	case	_	Canto=22|Verso=67
-13	un	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	7	obl	_	Canto=22|Verso=67
-14	che	che	PRON	pr	PronType=Rel	18	nsubj	_	Canto=22|Verso=67
-15	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	Canto=22|Verso=67
-16	di	di	ADP	_	_	17	case	_	Canto=22|Verso=67
-17	là	là	ADV	_	_	18	advmod:lmod	_	Canto=22|Verso=67
-18	vicino	vicino	ADJ	a1msxc5	Gender=Masc|Number=Sing	13	acl:relcl	_	Canto=22|SpaceAfter=No|Verso=67
-19	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 2 10 ccomp:reported	color:blue
+1	Ed	e	CCONJ	cscc	_	2	cc	_	Canto=32|Verso=94
+2	elli	egli	PRON	pp3mslso	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Canto=32|Verso=94
+3	a	a	ADP	epsk1d	_	4	case	_	Canto=32|Verso=94
+4	me	me	PRON	pp1slco	Number=Sing|Person=1|PronType=Prs	2	orphan	_	Canto=32|SpaceAfter=No|Verso=94
+5	:	:	PUNCT	_	_	10	punct	_	_
+6	«	«	PUNCT	_	_	10	punct	_	SpaceAfter=No
+7	di	di	ADP	_	_	9	case	_	Canto=32|Comment=de-l|Verso=94
+8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Canto=32|Comment=de-l|Verso=94
+9	contrario	contrario	NOUN	sm2ms	Gender=Masc|Number=Sing	12	nmod	_	Canto=32|Verso=94
+10	ho	avere	VERB	vta5ips1	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp:reported	_	Canto=32|Verso=94
+11	io	io	PRON	pp1slso	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Canto=32|Verso=94
+12	brama	brama	NOUN	sf1fs	Gender=Fem|Number=Sing	10	obj	_	Canto=32|SpaceAfter=No|Verso=94
+13	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 12 ccomp:reported	color:blue
-1	di	di	ADP	_	_	4	case	_	Canto=21|Comment=de-l|Verso=37
-2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Canto=21|Comment=de-l|Verso=37
-3	nostro	nostro	DET	as1ms	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det:poss	_	Canto=21|Verso=37
-4	ponte	ponte	NOUN	sm3ms	Gender=Masc|Number=Sing	5	obl:lmod	_	Canto=21|Verso=37
-5	disse	dire	VERB	vta3irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Canto=21|SpaceAfter=No|Verso=37
-6	:	:	PUNCT	_	_	12	punct	_	_
-7	«	«	PUNCT	_	_	12	punct	_	SpaceAfter=No
-8	O	o	INTJ	i	_	9	discourse	_	Canto=21|Verso=37
-9	Malebranche	Malebranche	PROPN	np	_	12	vocative	_	Canto=21|SpaceAfter=No|Verso=37
-10	,	,	PUNCT	_	_	9	punct	_	_
-11	ecco	ecco	ADV	b	_	12	advmod	_	Canto=21|Verso=38
-12	un	uno	PRON	pi1ms	Gender=Masc|Number=Sing|PronType=Ind	5	ccomp:reported	_	Canto=21|Verso=38
-13	de	di	ADP	eps	_	15	case	_	Canto=21|Verso=38
-14	li	il	DET	rdmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	Canto=21|Verso=38
-15	anzian	anziano	ADJ	a1mp	Gender=Masc|Number=Plur	12	nmod	_	Canto=21|Verso=38
-16	di	di	ADP	epskg	_	17	case	_	Canto=21|Verso=38
-17	Santa	santa	PROPN	np	_	15	nmod	_	Canto=21|Verso=38
-18	Zita	Zita	PROPN	np	_	17	flat:name	_	Canto=21|SpaceAfter=No|Verso=38
-19	!	!	PUNCT	_	_	12	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 ccomp:reported	color:blue
+1	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
+2	Com'	come	ADV	b	_	4	advmod	_	Canto=7|Verso=49
+3	è	essere	AUX	vi4ips3	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Canto=7|Verso=49
+4	ciò	cio'	PRON	pd	PronType=Dem	8	ccomp:reported	_	Canto=7|SpaceAfter=No|Verso=49
+5	?	?	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	»	»	PUNCT	_	_	4	punct	_	_
+7	fu	essere	AUX	vi4irs3	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	Canto=7|Verso=49
+8	risposto	rispondere	VERB	vtp*2irs3	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	Canto=7|SpaceAfter=No|Verso=49
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

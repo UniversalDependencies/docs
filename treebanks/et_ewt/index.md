@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Dage Särg, Sandra Eiche, Andriela Rääbis.
 
 Repository: [UD_Estonian-EWT](https://github.com/UniversalDependencies/UD_Estonian-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -228,7 +228,6 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>PROPN: eesti, saku, eestis, Jumal, ViinaMuri, Neeme, tartu, d2xz, tallinna, vasur</li>
       <li>SYM: @, S3-el</li>
       <li>VERB-Fin: on, tuleb, saab, läheb, tuli, läks, sain, arvan, teeb, teab</li>
-      <li>X: South</li>
     </ul>
   </li>
 </ul>
@@ -402,7 +401,6 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>PRON: ma, see, mis, kes, ta, sa, keegi, mina, nad, kõik</li>
       <li>PROPN: Jumal, ViinaMuri, Neeme, d2xz, vasur, Ennist, Pärtel, nomad, saku, gasoline</li>
       <li>SYM: @, S3'med</li>
-      <li>X: South</li>
     </ul>
   </li>
 </ul>
@@ -793,14 +791,14 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>Yes
         <ul>
           <li>ADJ: nn, nn., prof., h., lp., orig.</li>
-          <li>ADV: jne, vms, nt, jms, st, ca, jm, ntx, mh, imo</li>
+          <li>ADV: jne, vms, nt, jms, st, ca, jm, ntx, mh, a</li>
           <li>CCONJ: e., a, e, vs</li>
           <li>INTJ: PS, mdx, lol, wtf.</li>
           <li>NOUN: a, ATP, p, z, b, k, cm, km, l/ha, TT</li>
           <li>PROPN: le, a., YOU, |=X=|, BMW, rs1, usa, NATO, T-72, ekre</li>
           <li>SYM: %, &, CO2, TR-23, €, S3-el, i-</li>
           <li>VERB-Fin: Vt</li>
-          <li>X: NB, ^, in, of, to, imo</li>
+          <li>X: imo, NB, ^, in, of, to</li>
         </ul>
       </li>
     </ul>
@@ -845,11 +843,11 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>Yes
         <ul>
           <li>ADJ: brå, budget, high-end, chill, ultimagte</li>
-          <li>ADV: ala, anyway, a'la, imo, ok, Logisch, a, bolshe, circa, h.ui</li>
-          <li>INTJ: sorry, no, omg, HUI, Sry, Yep, bljääd, nolife, wtf, lol</li>
-          <li>NOUN: offtopic, basho, point, ratio, sanyakusse, death, komusubi, COVID-19, Dear, E</li>
+          <li>ADV: ala, a'la, ok, Logisch, a, bolshe, circa, h.ui, imo, la</li>
+          <li>INTJ: sorry, omg, HUI, No, Sry, Yep, bljääd, nolife, wtf, lol</li>
+          <li>NOUN: offtopic, basho, ratio, sanyakusse, death, komusubi, point, Dear, Light, Monolog</li>
           <li>PROPN: on, My, ice, music, A, Energy, Enthusiasistic, Free, le, sape.ru</li>
-          <li>X: to, my, the, from, of, opinion, or, smth, Suchen, You</li>
+          <li>X: to, my, or, the, from, opinion, smth, I, Suchen, You</li>
         </ul>
       </li>
     </ul>
@@ -901,7 +899,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
     <ul>
       <li>Slng
         <ul>
-          <li>ADV: aint, pohh, põmst, Pmst, Sitaks, nati, veits, imo</li>
+          <li>ADV: aint, pohh, põmst, Pmst, Sitaks, nati, veits</li>
           <li>NOUN: matat, Venkude, bemii, bena, dolbajoob, eequ, füssa, inime, jalkas, jopa-kollaga</li>
           <li>PROPN: bemmi, põmmi, sapikale, senale, Alekukke, Yugo, alekokki, bemari, bemm, bemme</li>
           <li>VERB-Fin: Ruulime, plekkab</li>

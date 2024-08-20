@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `PROPN`
 
-There are 3187 `PROPN` lemmas (27%), 5014 `PROPN` types (20%) and 9868 `PROPN` tokens (8%).
+There are 3187 `PROPN` lemmas (27%), 5013 `PROPN` types (20%) and 9868 `PROPN` tokens (8%).
 Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Europa, Espainia, Frantzia, Real, EEBB, Israel, ETA, Athletic, EAJ, Madril</em>
@@ -52,13 +52,13 @@ The 10 most frequent ambiguous types:  <em>Euskal</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.573266 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `PROPN` is 1.572953 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (11) was observed with the lemma “Espainia”: <em>ESPAINIAKO, Espainia, Espainiak, Espainiako, Espainian, Espainiara, Espainiarekiko, Espainiarekin, Espainiaren, Espainiari, Espainiatik</em>.
 
-The 2nd highest number of forms (11) was observed with the lemma “Italia”: <em>ITALIAK, ITALIAKO, ITALIAREKIN, Italia, Italiak, Italiako, Italian, Italian, Italiara, Italiaren, Italiarentzat</em>.
+The 2nd highest number of forms (11) was observed with the lemma “Madril”: <em>MADRILEN, MADRILGO, Madril, Madrildik, Madrilek, Madrileko, Madrilen, Madrilera, Madriletik, Madrilgo, Madrili</em>.
 
-The 3rd highest number of forms (11) was observed with the lemma “Madril”: <em>MADRILEN, MADRILGO, Madril, Madrildik, Madrilek, Madrileko, Madrilen, Madrilera, Madriletik, Madrilgo, Madrili</em>.
+The 3rd highest number of forms (11) was observed with the lemma “Osasuna”: <em>OSASUNA, OSASUNAK, Osasuna, Osasunak, Osasunako, Osasunan, Osasunarekin, Osasunaren, Osasunarentzat, Osasunari, Osasunatik</em>.
 
 `PROPN` occurs with 4 features: <tt><a href="eu_bdt-feat-Case.html">Case</a></tt> (6417; 65% instances), <tt><a href="eu_bdt-feat-Definite.html">Definite</a></tt> (6191; 63% instances), <tt><a href="eu_bdt-feat-Number.html">Number</a></tt> (6189; 63% instances), <tt><a href="eu_bdt-feat-Animacy.html">Animacy</a></tt> (95; 1% instances)
 

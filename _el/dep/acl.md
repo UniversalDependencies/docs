@@ -39,9 +39,12 @@ acl(ερώτηση, μετακόμιζαν)
 acl(χαρά, πέρασε)
 ~~~
 
+Note: When a nominal modifies a clause, e.g., Αποφασίζετε επιπόλαια, πράγμα που δεν θα σας ωφελήσει, the nominal depends on the verb headof the clause with the [parataxis]() dependency.
+
+
 <!---
 TODO: advcl from nominals
 TODO: What about χαρά που πέρασε στο Πανεπιστήμιο
 -->
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:14 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:29 CEST -->

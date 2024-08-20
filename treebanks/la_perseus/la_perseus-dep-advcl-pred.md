@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 # visual-style 11 13 advcl:pred	color:blue
 1	Ambae	ambo	DET	m-p---fn-	Case=Nom|Gender=Fem|Number=Plur|PronType=Tot	12	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	1	punct	_	_
-3	videri	video	VERB	v--pnp---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	5	xcomp	_	_
+3	videri	video	VERB	v--pnp---	Aspect=Imp|VerbForm=Inf|Voice=Pass	5	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 4	dum	dum	SCONJ	c--------	_	5	mark	_	_
 5	volunt	volo	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	advcl	_	LId=volo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	illi	ille	DET	p-s---md-	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	obl	_	_
@@ -33,7 +33,7 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 8	,	,	PUNCT	u--------	_	5	punct	_	_
 9	Capillos	capillus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	_
 10	homini	homo	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	11	obl:arg	_	_
-11	legere	lego	VERB	v--pna---	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	LId=lego2
+11	legere	lego	VERB	v--pna---	Aspect=Imp|VerbForm=Inf|Voice=Act	12	xcomp	_	LId=lego2|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 12	coepere	coepio	VERB	v3pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 13	invicem	invicem	PRON	d--------	Compound=Yes|Number=Plur|PronType=Rcp	11	advcl:pred	_	SpaceAfter=No
 14	.	.	PUNCT	u--------	_	12	punct	_	_
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 9	nomine	nomen	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	LId=nomen1
 10	Parnasus	Parnasus	PROPN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	advcl:pred	_	SpaceAfter=No|LId=Parnasus1
 11	,	,	PUNCT	u--------	_	12	punct	_	LId=comma1
-12	superant	supero	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+12	superant	supero	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 13	que	que	CCONJ	c--------	_	12	cc	_	LId=que1
 14	cacumina	cacumen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	LId=cacumen1
 15	nubes	nubes	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No|LId=nubes1

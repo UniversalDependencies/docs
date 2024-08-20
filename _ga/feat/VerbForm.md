@@ -68,4 +68,4 @@ Verbal nouns are similar to an infinitive verb in English, however they function
 
 
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:12 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sv_lines-dep-obl.html">obl</a></tt>.
 
-71 nodes (0%) are attached to their parents as `obl:agent`.
+72 nodes (0%) are attached to their parents as `obl:agent`.
 
-69 instances of `obl:agent` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.98591549295775.
+70 instances of `obl:agent` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.98611111111111.
 
-The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (53; 75% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (11; 15% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (53; 74% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (11; 15% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -81,21 +81,21 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 19	,	,	PUNCT	Comma	_	23	punct	_	_
 20	för	för	SCONJ	_	_	23	mark	_	_
 21	vår	vi	PRON	P1PL-GEN-SG	Case=Gen|Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
-22	egen	egen	ADJ	POS-SG-IND	Case=Nom|Degree=Pos|Gender=Com|Number=Sing	23	nsubj	_	_
+22	egen	egen	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	23	nsubj	_	_
 23	är	vara	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
 24	av	av	ADP	_	_	30	case	_	_
 25	en	en	DET	SG-IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	30	det	_	_
 26	mycket	mycket	ADV	_	Degree=Pos	27	advmod	_	_
-27	lågklassig	lågklassig	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	30	amod	_	_
-28	uppåtsipprande	uppåtsipprande	ADJ	NDE	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	30	amod	_	_
-29	växtsaftsliknande	växtsaftsliknande	ADJ	NDE	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	30	amod	_	_
+27	lågklassig	lågklassig	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	30	amod	_	_
+28	uppåtsipprande	uppåtsipprande	ADJ	NDE	Case=Nom|Degree=Pos|Tense=Pres|VerbForm=Part	30	amod	_	_
+29	växtsaftsliknande	växtsaftsliknande	ADJ	NDE	Case=Nom|Degree=Pos|Tense=Pres|VerbForm=Part	30	amod	_	_
 30	sort	sort	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	23	obl	_	_
 31	som	som	PRON	REL	PronType=Rel	34	nsubj	_	_
 32	är	vara	AUX	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	_
 33	lika	lika	ADV	CMP	_	34	advmod	_	_
-34	kortlivad	kortlivad	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	30	acl:relcl	_	_
+34	kortlivad	kortlivad	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	30	acl:relcl	_	_
 35	som	som	ADP	_	_	36	case	_	_
-36	spontan	spontan	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	34	amod	_	SpaceAfter=No
+36	spontan	spontan	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	34	amod	_	SpaceAfter=No
 37	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~

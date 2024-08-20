@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `conj`.
+8 nodes (0%) are attached to their parents as `conj`.
 
-6 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+8 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.625.
 
-The following 1 pairs of parts of speech are connected with `conj`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (6; 100% instances).
+The following 1 pairs of parts of speech are connected with `conj`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (8; 100% instances).
 
 
 ~~~ conllu

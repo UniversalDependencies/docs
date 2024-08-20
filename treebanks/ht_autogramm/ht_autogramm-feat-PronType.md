@@ -7,53 +7,71 @@ udver: '2'
 ## Treebank Statistics: UD_Haitian_Creole-Autogramm: Features: `PronType`
 
 This feature is universal.
-It occurs with 4 different values: `Art`, `Dem`, `Prs`, `Rel`.
+It occurs with 5 different values: `Art`, `Dem`, `Neg`, `Prs`, `Rel`.
 
-251 tokens (8%) have a non-empty value of `PronType`.
-24 types (3%) occur at least once with a non-empty value of `PronType`.
-13 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (213; 6% instances), <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> (37; 1% instances), <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+619 tokens (19%) have a non-empty value of `PronType`.
+31 types (3%) occur at least once with a non-empty value of `PronType`.
+12 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> (356; 11% instances), <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> (251; 8% instances), <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="ht_autogramm-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-213 <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `PronType`.
+356 <tt><a href="ht_autogramm-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ht_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (150; 70%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ht_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (204; 57%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (15; 7% of non-empty `PronType`): <em>sa</em>
-* `Prs` (194; 91% of non-empty `PronType`): <em>m, li, yo, l, nou, n, mwen, w, y, Ou</em>
-* `Rel` (4; 2% of non-empty `PronType`): <em>kote, ke, yo</em>
-* `EMPTY` (100): <em>ki, ke, k, kote, mwen, sa, yo, li, anyen, kwa</em>
+* `Dem` (19; 5% of non-empty `PronType`): <em>sa</em>
+* `Neg` (1; 0% of non-empty `PronType`): <em>anyen</em>
+* `Prs` (265; 74% of non-empty `PronType`): <em>m, li, yo, l, mwen, nou, n, w, y, ni</em>
+* `Rel` (71; 20% of non-empty `PronType`): <em>ki, ke, k</em>
+* `EMPTY` (5): <em>ki, k, kwa, sa</em>
 
 <table>
-  <tr><th>Paradigm <i>yo</i></th><th><tt>Prs</tt></th><th><tt>Rel</tt></th></tr>
-  <tr><td><tt><tt><a href="ht_autogramm-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>yo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ht_autogramm-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>yo, y</em></td><td><em>yo</em></td></tr>
+  <tr><th>Paradigm <i>sa</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>sa</em></td></tr>
+  <tr><td><tt><tt><a href="ht_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sa</em></td></tr>
+  <tr><td><tt><tt><a href="ht_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ht_autogramm-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sa</em></td><td></td></tr>
 </table>
-
-`PronType` seems to be **lexical feature** of `PRON`. 91% lemmas (10) occur only with one value of `PronType`.
 
 ### `DET`
 
-37 <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `PronType`.
+251 <tt><a href="ht_autogramm-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ht_autogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (35; 95%), <tt><a href="ht_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 76%), <tt><a href="ht_autogramm-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (25; 68%), <tt><a href="ht_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (23; 62%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ht_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (189; 75%), <tt><a href="ht_autogramm-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (143; 57%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (2; 5% of non-empty `PronType`): <em>Yon</em>
-* `Dem` (19; 51% of non-empty `PronType`): <em>sa, a</em>
-* `Prs` (16; 43% of non-empty `PronType`): <em>m, l, mwen, yo, li, ni, nou</em>
-* `EMPTY` (298): <em>yon, yo, a, la, an, li, m, nan, mwen, kèk</em>
+* `Art` (229; 91% of non-empty `PronType`): <em>yon, yo, a, la, an, nan, yoon</em>
+* `Dem` (21; 8% of non-empty `PronType`): <em>sa, a</em>
+* `Rel` (1; 0% of non-empty `PronType`): <em>ki</em>
+* `EMPTY` (30): <em>kèk, yon, okenn, chak, plizyè, non, yo, Nempòt, Tout, la</em>
 
-### `ADJ`
+<table>
+  <tr><th>Paradigm <i>la</i></th><th><tt>Art</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt><tt><a href="ht_autogramm-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>a, la, an, nan</em></td><td><em>a</em></td></tr>
+  <tr><td><tt><tt><a href="ht_autogramm-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>a</em></td><td></td></tr>
+</table>
 
-1 <tt><a href="ht_autogramm-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `PronType`.
+### `ADV`
 
-`ADJ` tokens may have the following values of `PronType`:
+9 <tt><a href="ht_autogramm-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-* `Dem` (1; 100% of non-empty `PronType`): <em>sa</em>
-* `EMPTY` (146): <em>ameriken, gwo, premye, lòt, meksiken, ti, gran, nasyonal, plis, sèl</em>
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="ht_autogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%).
+
+`ADV` tokens may have the following values of `PronType`:
+
+* `Neg` (1; 11% of non-empty `PronType`): <em>anyen</em>
+* `Rel` (8; 89% of non-empty `PronType`): <em>kote</em>
+* `EMPTY` (104): <em>pa, pi, tou, plis, anpil, la, lontan, Kidonk, Kounyea, ankò</em>
+
+### `SCONJ`
+
+3 <tt><a href="ht_autogramm-pos-SCONJ.html">SCONJ</a></tt> tokens (7% of all `SCONJ` tokens) have a non-empty value of `PronType`.
+
+`SCONJ` tokens may have the following values of `PronType`:
+
+* `Rel` (3; 100% of non-empty `PronType`): <em>ke</em>
+* `EMPTY` (38): <em>ke, lè, paske, si, kòm, kijanm</em>
 

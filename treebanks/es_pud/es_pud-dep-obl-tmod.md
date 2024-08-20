@@ -24,11 +24,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 6	fgColor:white
 # visual-style 6 12 obl:tmod	color:blue
 1	Le	él	PRON	PRP	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	obl:arg	_	_
-2	apasiona	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	apasiona	apasionar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	guitarra	guitarra	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	y	y	CCONJ	CC	_	6	cc	_	_
-6	dio	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
+6	dio	dar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 7	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	concierto	concierto	NOUN	NN	Gender=Masc|Number=Sing	6	obj	_	_
 9	allí	allí	ADV	RB	_	6	advmod	_	_
@@ -47,9 +47,9 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 7 obl:tmod	color:blue
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	alegre	_	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
+2	alegre	alegre	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 3	dedicatoria	dedicatoria	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
-4	tuvo	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	30	30	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl:tmod	_	_
@@ -70,22 +70,22 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 12 10 obl:tmod	color:blue
 1	En	en	ADP	IN	_	3	case	_	_
 2	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	Tribunal	tribunal	NOUN	NN	Gender=Masc|Number=Sing	17	obl	_	Proper=True
+3	Tribunal	tribunal	NOUN	NN	Gender=Masc|Number=Sing	15	obl	_	Proper=True
 4	Supremo	supremo	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	Proper=True
 5	de	de	ADP	IN	_	6	case	_	Proper=True
 6	Hong	Hong	PROPN	NNP	Number=Sing	3	nmod	_	_
 7	Kong	Kong	PROPN	NNP	Number=Sing	6	flat:name	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	3	punct	_	_
 9	dos	dos	NUM	CD	Gender=Masc|NumForm=Word|NumType=Card	10	nummod	_	_
-10	años	_	NOUN	NN	Gender=Masc|Number=Plur	12	obl:tmod	_	_
-11	más	_	ADV	RBR	Degree=Cmp	12	advmod	_	_
-12	tarde	tarde	ADV	RB	_	17	advmod	_	SpaceAfter=No
+10	años	año	NOUN	NN	Gender=Masc|Number=Plur	12	obl:tmod	_	_
+11	más	más	ADV	RBR	Degree=Cmp	12	advmod	_	_
+12	tarde	tarde	ADV	RB	_	15	advmod	_	SpaceAfter=No
 13	,	,	PUNCT	,	_	12	punct	_	_
-14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	17	nsubj	_	_
-15	apareció	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
-16	mayormente	mayormente	ADV	RB	_	17	advmod	_	_
-17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-18	.	.	PUNCT	.	_	17	punct	_	_
+14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	15	nsubj	_	_
+15	apareció	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	mayormente	mayormente	ADV	RB	_	15	advmod	_	_
+17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
+18	.	.	PUNCT	.	_	15	punct	_	_
 
 ~~~
 

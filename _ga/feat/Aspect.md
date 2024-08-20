@@ -31,4 +31,4 @@ information whether and when it was / will be completed.
 - _De ghnáth <b>bhíodh</b> an teach i Sráid Sheáin Mhic Dhiarmada go deas te_ "Usually, the house in Sean MacDermott St. <b>used to be</b> nice and warm"
 - _<b>Bhíodh</b> colún rialta ag Máire dar theideal 'An Fáinne' ar an Irish Independent_ "Mary <b>used to have</b> a regular column in the Irish Independent called `The Ring'"
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:35 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:47 CEST -->

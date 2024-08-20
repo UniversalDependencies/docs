@@ -76,7 +76,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 8	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
 9	kdy	kdy	ADV	Db-------------	PronType=Int,Rel	12	advmod	7:ref	Entity=(ln94210111c1--1-gstype:spec)|Functor=12:TWHEN
 10	jsme	být	AUX	VB-P---1P-AAI--	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	12:aux	_
-11	vám	vy	PRON	PP-P3--2-------	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	obl:arg	12:obl:arg:dat	Entity=(ln94210111c2--1-ClusterTypeMismatch:spec:gen:2,gstype:gen)|Functor=12:ADDR
+11	vám	vy	PRON	PP-P3--2-------	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	obl:arg	12:obl:arg:dat	Entity=(ln94210111c2--1-gstype:gen)|Functor=12:ADDR
 12	oznamovali	oznamovat	VERB	VpMP----R-AAI--	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	acl:relcl	7:acl:relcl	Functor=7:RSTR
 13	nepopulární	populární	ADJ	AAFS4----1N----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Neg	14	amod	14:amod	Functor=14:RSTR
 14	informaci	informace	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	12	obj	12:obj	SpaceAfter=No|Functor=12:EFF

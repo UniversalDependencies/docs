@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>baino</em> (<tt><a href="eu_bdt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (1) was observed with the lemma “El”: <em>El</em>.
 

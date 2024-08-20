@@ -40,4 +40,4 @@ on nouns, and we thus have `Person[psor]` together with `Number[psor]`.
 * [sms] _<b>võnnseez</b>_ “their boat”
 
 <!-- Sammallahti & Moshnikoff, 1991: 164 -->
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:01 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:14 CEST -->

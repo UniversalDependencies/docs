@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-231 nodes (2%) are attached to their parents as `aux`.
+269 nodes (2%) are attached to their parents as `aux`.
 
-132 instances of `aux` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22510822510823.
+155 instances of `aux` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.20817843866171.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (229; 99% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (266; 99% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	1	aux	_	_
 3	se	se	PRON	PRON2	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=14:16
 4	retama	tetama	NOUN	N	Number=Sing|Rel=Cont	1	obl	_	TokenRange=17:23
-5	kití	kití	ADP	ADP	_	4	case	_	SpaceAfter=No|TokenRange=24:28
+5	kití	kití	ADP	ADP	AdpType=Post	4	case	_	SpaceAfter=No|TokenRange=24:28
 6	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=28:29
 
 ~~~
@@ -45,11 +45,11 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	apekatú	apekatú	ADV	ADVC	AdvType=Loc	9	advcl	_	TokenRange=21:28
 6	yepé	yepé	PRON	ART	Definite=Ind|PronType=Art	9	nsubj	_	TokenRange=29:33
 7	aintá	aintá	PRON	PRON2	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	nmod	_	TokenRange=34:39
-8	suiwara	suiwara	ADP	ADP	_	7	case	_	TokenRange=40:47
+8	suiwara	suiwara	ADP	ADP	AdpType=Post	7	case	_	TokenRange=40:47
 9	unheẽ	nheẽ	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=48:53
 10	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=54:55
 11	irumuára-itá	irumuára	NOUN	N	Number=Plur	9	iobj	_	TokenRange=56:68
-12	supé	supé	ADP	ADP	_	11	case	_	SpaceAfter=No|TokenRange=69:73
+12	supé	supé	ADP	ADP	AdpType=Post	11	case	_	SpaceAfter=No|TokenRange=69:73
 13	:	:	PUNCT	PUNCT	_	15	punct	_	TokenRange=73:74
 14	—	—	PUNCT	PUNCT	_	15	punct	_	TokenRange=74:75
 15	Maã	maã	PRON	INT	PronType=Int	9	ccomp	_	TokenRange=76:79
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	yepé	yepé	DET	ART	Definite=Ind|PronType=Art	6	det	_	TokenRange=17:21
 6	murasí	murasí	NOUN	N	Number=Sing	4	nsubj	_	TokenRange=22:28
 7	iwaka	iwaka	NOUN	N	Number=Sing	4	obl	_	TokenRange=29:34
-8	kití	kití	ADP	ADP	_	7	case	_	SpaceAfter=No|TokenRange=35:39
+8	kití	kití	ADP	ADP	AdpType=Post	7	case	_	SpaceAfter=No|TokenRange=35:39
 9	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=39:40
 
 ~~~

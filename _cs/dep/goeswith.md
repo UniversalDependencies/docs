@@ -15,4 +15,4 @@ Note that only the last part may be annotated with `SpaceAfter=No`.
 Zastavil a z těžka oddychoval .
 goeswith(z, těžka)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:58 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:16 CEST -->

@@ -41,11 +41,11 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 16	_	_	NOUN	NN	Number=Sing	12	nmod	12:nmod:over	Entity=37)36)|Lem=_|Len=5
 17	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=5
 18	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	17	obj	17:obj	Entity=(27-abstract-giv:inact-cf2-1-coref-United_States_dollar)|Lem=_|Len=3
-19	_	_	CCONJ	CC	_	23	cc	23:cc	Discourse=joint-list_m:32->31:0:sem-lxchn-184,188+dm-and-185|Lem=_|Len=3
+19	_	_	CCONJ	CC	_	23	cc	23:cc	Discourse=joint-list_m:32->31:0:sem-mrnym-184,186-188+sem-lxchn-184,188+dm-and-185|Lem=_|Len=3
 20	_	_	DET	DT	Number=Sing|PronType=Dem	22	det	22:det	Bridge=27<38|Entity=(38-object-acc:inf-cf3-3-sgl|Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	22	compound	22:compound	Lem=_|Len=5
 22	_	_	NOUN	NN	Number=Sing	23	nsubj	23:nsubj	Entity=38)|Lem=_|Len=8
-23	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	17:conj:and	Lem=represent|Len=10|MSeg=re-present-s
+23	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	17:conj:and	Lem=represent|Len=10|MSeg=represent-s
 24	_	_	ADJ	JJ	Degree=Pos	25	amod	25:amod	Entity=(39-abstract-new-cf7-2-sgl|Lem=_|Len=9|MSeg=potent-ial
 25	_	_	NOUN	NN	Number=Sing	23	obj	23:obj	Entity=39)|Lem=_|Len=5|SpaceAfter=No
 26	_	_	PUNCT	,	_	28	punct	28:punct	Lem=_|Len=1
@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	_	_	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	5:ccomp	Lem=do|Len=3|SpaceAfter=No
 9	_	_	PUNCT	,	_	11	punct	11:punct	Lem=_|Len=1
 10	_	_	ADV	RB	_	11	advmod	11:advmod	Discourse=attribution-positive:82->83:0:lex-indwd-498+sem-atsrc-498+syn-rpr-499|Lem=_|Len=4
-11	_	_	VERB	VBG	VerbForm=Ger	5	parataxis	5:parataxis	Lem=state|Len=7|MSeg=stat-ing
+11	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	5	parataxis	5:parataxis	Lem=state|Len=7|MSeg=stat-ing
 12	_	_	SCONJ	IN	_	15	mark	15:mark	Discourse=adversative-contrast_m:83->1:10:_|Lem=_|Len=4
 13	_	_	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(85-abstract-new-cf3-2-sgl|Lem=_|Len=3
 14	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj	Entity=85)|Lem=_|Len=6|MSeg=opt-ion
@@ -109,7 +109,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 17	_	_	PART	RB	Polarity=Neg	18	advmod	18:advmod	Lem=not|Len=3
 18	_	_	VERB	VB	VerbForm=Inf	11	conj	11:conj:but	Lem=_|Len=6
 19	_	_	CCONJ	CC	_	20	cc	20:cc	Discourse=joint-list_m:20->19:0:dm-and-143|Lem=_|Len=3
-20	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	conj	11:conj|18:conj:and	Lem=refuse|Len=7|MSeg=re-fus-ed
+20	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	conj	11:conj|18:conj:and	Lem=refuse|Len=7|MSeg=refus-ed
 21	_	_	PART	TO	_	22	mark	22:mark	Lem=_|Len=2
 22	_	_	VERB	VB	VerbForm=Inf	20	xcomp	20:xcomp	Lem=_|Len=3
 23	_	_	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	22:obj|24:nsubj:xsubj|26:nsubj:xsubj	Entity=(10-person-giv:act-cf1*-1-ana)|Lem=he|Len=3

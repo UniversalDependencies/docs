@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="it_isdt-pos-PRON.ht
 
 4674 <tt><a href="it_isdt-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4672; 100%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3823; 82%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (3454; 74%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3240; 69%).
+The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4674; 100%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3823; 82%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (3454; 74%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3240; 69%).
 
 `PRON` tokens may have the following values of `Clitic`:
 

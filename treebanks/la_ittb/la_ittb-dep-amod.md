@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	ponentibus	pono	VERB	L2|modD|tem1|grp1|casL|gen1	Aspect=Imp|Case=Dat|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	5	ccomp	_	TraditionalMood=Participium|TraditionalTense=Praesens
 7	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	9	nsubj	_	_
 8	non	non	PART	O4	Polarity=Neg	9	advmod:neg	_	_
-9	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|Tense=Pres|VerbForm=Inf	6	ccomp	_	SpaceAfter=No
+9	esse	sum	AUX	N3|modH|tem1	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	6	ccomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	:	:	PUNCT	Punc	_	5	punct	_	_
 
 ~~~

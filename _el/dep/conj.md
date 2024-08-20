@@ -13,22 +13,23 @@ conjunct and all the other conjuncts depend on it via the `conj` relation.
 ~~~ sdparse
 Ακούστηκαν προτάσεις για παραγωγική ανασυγκρότηση και βιώσιμη ανάπτυξη
 conj(ανασυγκρότηση, ανάπτυξη)
+cc(ανάπτυξη, και)
 ~~~
 
-<div id="punct1" class="sd-parse">
-των σχέσεων μεταξύ οικονομίας , πολιτικού παιγνίου , κομματικής ισορροπίας και διεθνούς παράγοντα .
-conj(οικονομίας, ισορροπίας)
+~~~ sdparse
+των σχέσεων μεταξύ οικονομίας , πολιτικού παιγνίου , κομματικής ισορροπίας και διεθνούς παράγοντα.
 conj(οικονομίας, παιγνίου)
+conj(οικονομίας, ισορροπίας)
 conj(οικονομίας, παράγοντα)
-cc(οικονομίας, και)
-punct(οικονομίας, ,-5)
-punct(οικονομίας, ,-8)
-</div>
+cc(παράγοντα, και)
+punct(παιγνίου,-5)
+punct(ισορροπίας,-8)
+~~~
 
 ~~~ sdparse
 Μια μικρή αλλά ανθηρή επιχείρηση .
 amod(επιχείρηση, μικρή)
-cc(μικρή, αλλά)
+cc(ανθηρή, αλλά)
 conj(μικρή, ανθηρή)
 ~~~
 
@@ -36,7 +37,7 @@ Coordinate clauses are treated the same way as coordination of other constituent
 
 ~~~ sdparse
 Ο οδηγός ενοχλήθηκε και άρχισε να κορνάρει .
-cc(ενοχλήθηκε, και)
+cc(άρχισε, και)
 conj(ενοχλήθηκε, άρχισε)
 ~~~
 
@@ -46,7 +47,7 @@ Commas or other punctuation symbols will delimit the conjuncts in the typical ca
 ~~~ sdparse
 Θα προωθήσουν ένα ασφαλέστερο , πιο ανθεκτικό παγκόσμιο χρηματοπιστωτικό σύστημα .
 conj(ασφαλέστερο, ανθεκτικό)
-punct(ασφαλέστερο, ,-5)
+punct(ανθεκτικό, ,-5)
 ~~~
 
 Coordination can apply to most word categories.
@@ -54,21 +55,21 @@ Coordination can apply to most word categories.
 ~~~ sdparse
 Άνοιξαν και έκλεισαν την πόρτα .
 conj(Άνοιξαν, έκλεισαν)
-cc(Άνοιξαν, και)
+cc(έκλεισαν, και)
 dobj(Άνοιξαν, πόρτα)
 ~~~
 
 ~~~ sdparse
 από και προς το αεροδρόμιο
 case(αεροδρόμιο, από)
-cc(από, και)
+cc(προς, και)
 conj(από, προς)
 ~~~
 
 ~~~ sdparse
 εάν και εφόσον δεήσουν
 mark(δεήσουν, εάν)
-cc(εάν, και)
+cc(εφόσον, και)
 conj(εάν, εφόσον)
 ~~~
 
@@ -113,4 +114,4 @@ In general, we try to highlight the presence of a MWE when it exists. In the exa
 27	ταπί	ταπί	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	24	conj	_	mwe=2:VID
 28	.	.	PUNCT	PTERMP	PunctType=Peri	21	punct	_	_
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:40 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:58 CEST -->

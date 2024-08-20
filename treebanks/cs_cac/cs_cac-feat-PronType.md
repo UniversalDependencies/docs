@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> DET</tt> (53; 95%),
-<tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PRON</tt> (11; 92%),
+<tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PRON</tt> (13; 93%),
 <tt>DET --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (7; 88%),
 <tt>PRON --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADV</tt> (7; 78%),
 <tt>DET --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> DET</tt> (3; 100%),

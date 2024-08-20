@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  היה (<tt><a href="he_iahltwiki-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.500000 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `AUX` is 4.500000 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (15) was observed with the lemma “היה”: אהיה, היה, היו, היות, היינו, הייתה, הייתי, יהא, יהיה, יהיו, להיות, נהיה, תהא, תהיה, תהיינה.
 

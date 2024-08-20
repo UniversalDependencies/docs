@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Slav Petrov, Wolfgang Seeker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Adriane Boyd.
 
 Repository: [UD_German-GSD](https://github.com/UniversalDependencies/UD_German-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd213)<br />
-Download all treebanks: [UD 2.13](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -265,7 +265,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>PROPN: USA, US, Olympischen, Staaten, Euro, Spielen, Vereinigten, Grünen, EU, Mark</li>
       <li>PROPN-Fin: Roden, Verden, ausnutzen, ficken, kommen, machen, sind, treten</li>
       <li>SYM: %, °</li>
-      <li>VERB-Fin: haben, stehen, gehören, sind, hatten, kamen, kommen, fanden, finden, waren</li>
+      <li>VERB-Fin: haben, stehen, gehören, hatten, kamen, kommen, sind, fanden, finden, liegen</li>
       <li>X: %, €, S., C, E, Nr, ups</li>
     </ul>
   </li>
@@ -502,7 +502,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>AUX-Fin: ist, sind, wird, kann, hat, werden, haben, habe, können, sei</li>
       <li>NOUN-Fin: mag, Jahrhundert, Balken, Bin, Erbvogt, Familien, Gemüt, Komme, Liegt, Lohnt</li>
       <li>PROPN-Fin: ist, 1st, Gibt, Glaube, Kemble, Roden, Sankt, Verden, ausnutzen, bru</li>
-      <li>VERB-Fin: gibt, hat, liegt, befindet, ist, besteht, gehört, steht, kommt, geht</li>
+      <li>VERB-Fin: gibt, hat, liegt, befindet, besteht, gehört, ist, steht, kommt, geht</li>
     </ul>
   </li>
 </ul>
@@ -711,7 +711,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, hat, werden, kann, waren</li>
       <li>DET: seine, seiner, sein, ihre, seinen, seinem, ihren, ihrer, ihr, seines</li>
       <li>PRON: er, sich, es, sie, ihm, ihn, ihnen, ihr, it, 's</li>
-      <li>VERB-Fin: wurde, gibt, hat, liegt, kam, hatte, gab, befindet, erhielt, ist</li>
+      <li>VERB-Fin: wurde, gibt, hat, liegt, kam, hatte, gab, befindet, erhielt, war</li>
     </ul>
   </li>
 </ul>
@@ -871,27 +871,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Dat (1)</li>
       <li>VERB--PRON-Nom (26)</li>
-      <li>VERB-Fin--NOUN (41)</li>
+      <li>VERB-Fin--NOUN (40)</li>
       <li>VERB-Fin--NOUN-Acc (373)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(bis)-ADP(zu) (2)</li>
       <li>VERB-Fin--NOUN-Dat (20)</li>
       <li>VERB-Fin--NOUN-Gen (21)</li>
-      <li>VERB-Fin--NOUN-Nom (4290)</li>
+      <li>VERB-Fin--NOUN-Nom (4264)</li>
       <li>VERB-Fin--PRON (10)</li>
       <li>VERB-Fin--PRON-Acc (45)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Fin--PRON-Nom (3905)</li>
-      <li>VERB-Inf--NOUN (2)</li>
+      <li>VERB-Fin--PRON-Nom (3901)</li>
+      <li>VERB-Inf--NOUN (3)</li>
       <li>VERB-Inf--NOUN-Acc (39)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(über) (1)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
-      <li>VERB-Inf--NOUN-Nom (391)</li>
+      <li>VERB-Inf--NOUN-Nom (416)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (12)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON-Nom (676)</li>
+      <li>VERB-Inf--PRON-Nom (681)</li>
       <li>VERB-Part--NOUN (2)</li>
       <li>VERB-Part--NOUN-Acc (21)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
@@ -900,7 +900,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON (4)</li>
       <li>VERB-Part--PRON-Acc (8)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Nom (515)</li>
+      <li>VERB-Part--PRON-Nom (514)</li>
     </ul>
   </li>
 </ul>

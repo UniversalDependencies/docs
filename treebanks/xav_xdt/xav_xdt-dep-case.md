@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-87 nodes (5%) are attached to their parents as `case`.
+91 nodes (5%) are attached to their parents as `case`.
 
-83 instances of `case` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05747126436782.
+87 instances of `case` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04395604395604.
 
-The following 7 pairs of parts of speech are connected with `case`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (78; 90% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (4; 5% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (83; 91% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (4; 4% instances), <tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -75,7 +75,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 9	te	te	AUX	aux	_	11	aux	_	_
 10	wama	wa	PRON	pron	Case=Dat|Number=Plur|Person=1	11	iobj	_	_
 11	rowatsu'u	rowatsu'u	VERB	v	_	5	advcl	_	tell,narrate,show;contar,narrar,mostrar
-12	da	da	SCONJ	sconj	_	11	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+12	da	da	ADP	posp	_	11	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 13	hã	hã	PART	prcl	Emph=Yes	11	discourse	_	_
 14	,	,	PUNCT	punct	_	11	punct	_	_
 15	a'uwẽ	a'uwẽ	NOUN	n	_	16	nmod	_	man,person,people,indian;homem,pessoa,gente,índio

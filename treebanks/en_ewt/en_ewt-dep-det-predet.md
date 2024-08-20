@@ -32,7 +32,7 @@ The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a
 8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	_
 9	uncertainties	uncertainty	NOUN	NNS	Number=Plur	5	obl	5:obl:given|11:obj	_
 10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	11:nsubj	_
-11	face	face	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	9:acl:relcl	SpaceAfter=No
+11	face	face	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl:relcl	9:acl:relcl	Cxn=rc-red-obj|SpaceAfter=No
 12	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~

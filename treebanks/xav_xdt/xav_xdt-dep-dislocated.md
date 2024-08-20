@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31 nodes (2%) are attached to their parents as `dislocated`.
+32 nodes (2%) are attached to their parents as `dislocated`.
 
-21 instances of `dislocated` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.03225806451613.
+22 instances of `dislocated` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.
 
-The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (16; 52% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (5; 16% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (3; 10% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (16; 50% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-ADV.html">ADV</a></tt> (5; 16% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	waptẽ	waptẽrẽ	VERB	v	_	0	root	_	ask,request;pedir,solicitar
 9	,	,	PUNCT	punct	_	8	punct	_	_
 10	tsa	tsa	NOUN	n	_	8	advcl	_	food;comida,alimento
-11	da	da	SCONJ	sconj	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+11	da	da	ADP	posp	_	10	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 12	.	.	PUNCT	punct	_	8	punct	_	_
 
 ~~~
@@ -71,8 +71,8 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 6	ĩpire	pire	NOUN	n	Person=3	0	root	_	heavy,important;pesado,importante
 7	di	di	X	x	_	6	dep	_	expletive;expletivo
 8	,	,	PUNCT	punct	_	6	punct	_	_
-9	datsa	tsa	NOUN	n	Gnq=Yes	6	advcl	_	food;comida,alimento
-10	da	da	SCONJ	sconj	_	9	mark	_	for,in.order.to,so.that;para,afim.de,para.que
+9	datsa	tsa	NOUN	n	PronType=Gnc	6	advcl	_	food;comida,alimento
+10	da	da	ADP	posp	_	9	mark	_	for,in.order.to,so.that;para,afim.de,para.que
 11	hã	hã	DET	det	_	9	det	_	_
 12	.	.	PUNCT	punct	_	9	punct	_	_
 

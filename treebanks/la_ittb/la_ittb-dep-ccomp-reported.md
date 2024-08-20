@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `ccomp:reported`: <t
 # visual-style 5	fgColor:white
 # visual-style 5 7 ccomp:reported	color:blue
 1	nec	nec	CCONJ	O4	_	3	advmod:emph	_	_
-2	mouere	moueo	VERB	K3|modH|tem1|vgr1	Aspect=Imp|InflClass=LatE|Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+2	mouere	moueo	VERB	K3|modH|tem1|vgr1	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	3	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 3	oportet	oportet	VERB	K3|modA|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 4	quod	quod	SCONJ	O4	_	5	mark	_	_
 5	dicit	dico	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
@@ -37,7 +37,7 @@ The following 2 pairs of parts of speech are connected with `ccomp:reported`: <t
 12	loquens	loquor	VERB	L2|modM|tem1|grp1|casA|gen1	Aspect=Imp|Case=Nom|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	5	advcl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
 13	,	,	PUNCT	Punc	_	19	punct	_	_
 14	cum	cum	SCONJ	S4|vgr1	PronType=Rel	19	mark	_	_
-15	accipere	accipio	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|Tense=Pres|VerbForm=Inf|Voice=Act	19	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	accipere	accipio	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	19	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	spiritum	spiritus	NOUN	D1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing	15	obj	_	_
 17	sanctum	sanctus	ADJ	B1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	16	amod	_	_
 18	sit	sum	AUX	N3|modB|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `ccomp:reported`: <t
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 16 ccomp:reported	color:blue
-1	resurgere	resurgo	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+1	resurgere	resurgo	VERB	L3|modH|tem1	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Act	3	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 2	autem	autem	PART	O4	_	3	discourse	_	_
 3	uoluit	uolo	VERB	N3|modA|tem4|gen6|vgr1	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 4	ut	ut	SCONJ	O4|vgr1	PronType=Rel	8	mark	_	_

@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `obl`: <tt><a href="
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	before	before	ADP	IN	_	7	case	_	_
-7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+7	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~

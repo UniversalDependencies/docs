@@ -22,12 +22,12 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 orphan	color:blue
-1	మీరు	_	PRON	PRON	_	5	nsubj	_	Translit=mīru|LTranslit=_
-2	నాకు	_	PRON	PRON	_	5	orphan	_	Translit=nāku|LTranslit=_
-3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=rèṁḍu|LTranslit=_
-4	రూపాయిలు	_	NOUN	NOUN	_	5	orphan	_	Translit=rūpāyilu|LTranslit=_
-5	బాకీ	_	NOUN	NOUN	_	0	root	_	Translit=bākī|LTranslit=_
-6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
+1	మీరు	_	PRON	PRON	_	5	nsubj	_	Translit=mīru
+2	నాకు	_	PRON	PRON	_	5	orphan	_	Translit=nāku
+3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=reṁḍu
+4	రూపాయిలు	_	NOUN	NOUN	_	5	orphan	_	Translit=rūpāyilu
+5	బాకీ	_	NOUN	NOUN	_	0	root	_	Translit=bākī
+6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.
 
 ~~~
 
@@ -38,12 +38,12 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 orphan	color:blue
-1	మీరు	_	PRON	PRON	_	5	nsubj	_	Translit=mīru|LTranslit=_
-2	నాకు	_	PRON	PRON	_	5	orphan	_	Translit=nāku|LTranslit=_
-3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=rèṁḍu|LTranslit=_
-4	రూపాయిలు	_	NOUN	NOUN	_	5	orphan	_	Translit=rūpāyilu|LTranslit=_
-5	బాకీ	_	NOUN	NOUN	_	0	root	_	Translit=bākī|LTranslit=_
-6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
+1	మీరు	_	PRON	PRON	_	5	nsubj	_	Translit=mīru
+2	నాకు	_	PRON	PRON	_	5	orphan	_	Translit=nāku
+3	రెండు	_	NUM	NUM	NumType=Card	4	nummod	_	Translit=reṁḍu
+4	రూపాయిలు	_	NOUN	NOUN	_	5	orphan	_	Translit=rūpāyilu
+5	బాకీ	_	NOUN	NOUN	_	0	root	_	Translit=bākī
+6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.
 
 ~~~
 
@@ -54,12 +54,12 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 orphan	color:blue
-1	రామూ	_	PROPN	PROPN	_	5	csubj	_	Translit=rāmū|LTranslit=_
-2	కమలా	_	PROPN	PROPN	_	1	conj	_	Translit=kamalā|LTranslit=_
-3	(ఇద్దరూ)	_	NOUN	NOUN	_	2	orphan	_	Translit=(iddarū)|LTranslit=_
-4	ఇంటికి	_	NOUN	NOUN	_	5	obl	_	Translit=iṁṭiki|LTranslit=_
-5	వెళ్ళేరు	_	VERB	VERB	_	0	root	_	Translit=vèḷḷeru|LTranslit=_
-6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.|LTranslit=_
+1	రామూ	_	PROPN	PROPN	_	5	csubj	_	Translit=rāmū
+2	కమలా	_	PROPN	PROPN	_	1	conj	_	Translit=kamalā
+3	(ఇద్దరూ)	_	NOUN	NOUN	_	2	orphan	_	Translit=(iddarū)
+4	ఇంటికి	_	NOUN	NOUN	_	5	obl	_	Translit=iṁṭiki
+5	వెళ్ళేరు	_	VERB	VERB	_	0	root	_	Translit=veḷḷēru
+6	.	_	PUNCT	PUNCT	_	5	punct	_	Translit=.
 
 ~~~
 

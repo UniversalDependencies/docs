@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>⪯</em> (<tt><a href="en_gentle-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.144106).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.146169).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
@@ -66,7 +66,7 @@ Examples: <em>⪯, ∈, =, -, ⋅, /, +, $, ≤, ></em>
 
 `SYM` nodes are attached to their parents using 19 different relations: <tt><a href="en_gentle-dep-case.html">case</a></tt> (30; 18% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (26; 16% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (23; 14% instances), <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (22; 13% instances), <tt><a href="en_gentle-dep-advcl.html">advcl</a></tt> (11; 7% instances), <tt><a href="en_gentle-dep-appos.html">appos</a></tt> (9; 5% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (7; 4% instances), <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt> (7; 4% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (6; 4% instances), <tt><a href="en_gentle-dep-ccomp.html">ccomp</a></tt> (5; 3% instances), <tt><a href="en_gentle-dep-xcomp.html">xcomp</a></tt> (5; 3% instances), <tt><a href="en_gentle-dep-acl.html">acl</a></tt> (4; 2% instances), <tt><a href="en_gentle-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="en_gentle-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="en_gentle-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="en_gentle-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="en_gentle-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Parents of `SYM` nodes belong to 9 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (62; 37% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (29; 17% instances),  (23; 14% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (22; 13% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (19; 11% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Parents of `SYM` nodes belong to 9 different parts of speech: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (63; 38% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (29; 17% instances),  (23; 14% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (22; 13% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (19; 11% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 
 65 (39%) `SYM` nodes are leaves.
 

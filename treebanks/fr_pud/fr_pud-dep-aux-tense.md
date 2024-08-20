@@ -69,8 +69,8 @@ The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 # visual-style 11 8 aux:tense	color:blue
 1	Son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
 2	album	album	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
-3	Wild	Wild	X	FW	_	2	appos	_	Proper=True
-4	West	West	X	WF	_	3	flat:foreign	_	Proper=True
+3	Wild	Wild	X	FW	Foreign=Yes	2	appos	_	Proper=True
+4	West	West	X	FW	Foreign=Yes	3	flat:foreign	_	Proper=True
 5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
 6	1981	1981	NUM	CD	_	2	obl:mod	_	SpaceAfter=No
 7	)	)	PUNCT	)	_	6	punct	_	_

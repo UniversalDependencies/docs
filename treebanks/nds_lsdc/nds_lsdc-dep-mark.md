@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-137 nodes (3%) are attached to their parents as `mark`.
+615 nodes (3%) are attached to their parents as `mark`.
 
-134 instances of `mark` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.7956204379562.
+605 instances of `mark` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.68943089430894.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (91; 66% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (26; 19% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (7; 5% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (5; 4% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (407; 66% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (115; 19% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (39; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (23; 4% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,45 +62,22 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 27 25 mark	color:blue
-1	Vlak	vlak	ADJ	_	Degree=Pos	3	amod	_	lemma_gml=vlak
-2	nåst	nåst	ADP	_	AdpType=Prep	3	case	_	lemma_gml=nâ
-3	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obl	_	lemma_gml=hê
-4	sat	sitten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=sitten
-5	Loeks	Loeks	PROPN	_	Number=Sing	4	nsubj	_	lemma_gml=Loeks
-6	Poester	Poester	PROPN	_	Number=Sing	5	flat	_	lemma_gml=Poester|SpaceAfter=No
-7	,	,	PUNCT	_	_	18	punct	_	_
-8	of	of	CCONJ	_	_	18	cc	_	lemma_gml=eft|SpaceAfter=No
-9	,	,	PUNCT	_	_	14	punct	_	_
-10	sou	sou	ADV	_	_	14	advmod	_	lemma_gml=sô
-11	as	as	ADV	_	_	14	advmod	_	lemma_gml=alsô
-12	he	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	lemma_gml=hê
-13	altyd	altyd	ADV	_	_	14	advmod	_	lemma_gml=alletît
-14	nöömd	nömen	VERB	_	Tense=Past|VerbForm=Part	18	acl	_	lemma_gml=nö̂men
-15	wör	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	14	aux:pass	_	lemma_gml=wērden|SpaceAfter=No
-16	,	,	PUNCT	_	_	18	punct	_	_
-17	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	lemma_gml=dê
-18	Farmsommertoren	Farmsommertoren	PROPN	_	Number=Sing	5	conj	_	lemma_gml=Farmsommertoren|SpaceAfter=No
-19	,	,	PUNCT	_	_	32	punct	_	_
-20	umdat	ümdat	SCONJ	_	_	32	mark	_	lemma_gml=ümmedat
-21	syn	syn	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	22	det	_	lemma_gml=sîn,ēr,sîn
-22	nöäse	nöäse	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	32	nsubj	_	lemma_gml=nēse|SpaceAfter=No
-23	,	,	PUNCT	_	_	27	punct	_	_
-24	net	net	ADV	_	_	27	nmod	_	lemma_gml=net
-25	as	as	SCONJ	_	_	27	mark	_	lemma_gml=alsô
-26	dee	dee	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	lemma_gml=dê
-27	toorn	toorn	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	acl	_	lemma_gml=tōrne|SpaceAfter=No
-28	,	,	PUNCT	_	_	27	punct	_	_
-29	an	an	ADP	_	AdpType=Prep	31	case	_	lemma_gml=an
-30	alle	al	DET	_	Case=Acc,Dat|Gender=Fem|Number=Plur|PronType=Tot	31	det	_	lemma_gml=al
-31	kanten	kante	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Plur	32	obl	_	lemma_gml=kant
-32	skeyv	skeyv	ADJ	_	Degree=Pos	4	advcl	_	lemma_gml=schêf
-33	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	32	cop	_	lemma_gml=wēsen|SpaceAfter=No
-34	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 mark	color:blue
+1	Völle	veale	ADJ	_	Degree=Pos	2	advmod	_	lemma_gml=vēle
+2	wyder	wyder	ADJ	_	Degree=Cmp	0	root	_	lemma_gml=wît
+3	dan	dan	SCONJ	_	_	6	mark	_	lemma_gml=dan
+4	höär	ear	DET	_	Case=Acc,Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	det	_	lemma_gml=sîn,ēr,sîn
+5	eigen	eygen	ADJ	_	Case=Acc,Dat|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	lemma_gml=êigen
+6	vöärdöäre	vöärdöäre	NOUN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	2	obl	_	lemma_gml=vȫrdȫre
+7	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	lemma_gml=wēsen
+8	Kato	Kato	PROPN	_	Number=Sing	2	nsubj	_	lemma_gml=kato
+9	nooit	nooit	ADV	_	_	2	advmod	_	lemma_gml=nôit
+10	ewesd	weasen	AUX	_	Tense=Past|VerbForm=Part	2	cop	_	lemma_gml=wēsen|SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

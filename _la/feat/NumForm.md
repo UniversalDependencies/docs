@@ -57,4 +57,4 @@ A numeral written as the corresponding word; morphology possibly applies to the 
 * ***unus*** 'one' (cardinal numeral; ambiguous with the homographic [indefinite](la-feat/PronType) determiner)
 * ***primus*** 'first' (ordinal adjective)
 * ***bini*** 'two by two' (distributive adjective)
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:41:56 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:09 CEST -->

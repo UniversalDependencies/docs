@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>hv.</em> (<tt><a href="is_modern-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.880383 (the average of all parts of speech is 1.734405).
+The form / lemma ratio of `ADJ` is 1.880383 (the average of all parts of speech is 1.734760).
 
 The 1st highest number of forms (20) was observed with the lemma “góður”: <em>best, besta, bestan, besti, bestu, bestum, bestur, betra, betri, gott, góð, góða, góðar, góðir, góðra, góðri, góðs, góðu, góðum, góður</em>.
 

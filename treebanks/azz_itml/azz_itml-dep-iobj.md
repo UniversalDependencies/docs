@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 4 iobj	color:blue
 1	solo	sólo	ADV	_	_	2	advmod	2:advmod	NormalizedForm=solo
-2	kininmaka	maka	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kininmaka|Number[iobj]=Plur|Person[iobj]=3
+2	kininmaka	maka	VERB	_	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kininmaka|Number[iobj]=Plur|Person[iobj]=3
 3	in	in	DET	_	_	4	det	4:det	NormalizedForm=in
 4	pitsotsitsin	pitsot	NOUN	_	Degree=Dim|Number=Plur	2	iobj	2:iobj	NormalizedForm=pitsotsitsin
 5	in	in	DET	_	_	6	det	6:det	NormalizedForm=in
@@ -40,10 +40,10 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 iobj	color:blue
 1	Yon	Yon	PRON	_	_	5	dislocated	5:dislocated	NormalizedForm=Yon
-2	kikwah	kua	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	1	acl:relcl	1:acl:relcl	NormalizedForm=kikwah|SpaceAfter=No
+2	kikwah	kua	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	1	acl:relcl	1:acl:relcl	NormalizedForm=kikwah|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	1:punct	NormalizedForm=,
 4	yon	yon	PRON	_	_	5	iobj	5:iobj	NormalizedForm=yon
-5	kiliah	ilia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=kiliah|SpaceAfter=No
+5	kiliah	ilia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kiliah|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,
 7	nen	nen	INTJ	_	_	5	discourse	5:discourse	NormalizedForm=nen|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,

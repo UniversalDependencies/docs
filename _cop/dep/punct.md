@@ -14,4 +14,4 @@ punct(.)
 root(ⲁⲛⲟⲕ) 
 ~~~
 
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:26 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:46 CEST -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-186 nodes (0%) are attached to their parents as `ccomp`.
+1077 nodes (0%) are attached to their parents as `ccomp`.
 
-175 instances of `ccomp` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.18817204301075.
+1034 instances of `ccomp` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.95543175487465.
 
-The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (155; 83% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 19 pairs of parts of speech are connected with `ccomp`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (818; 76% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (77; 7% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (61; 6% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (47; 4% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (22; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,6 +37,28 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 ccomp	color:blue
+1	Nu	nu	ADV	BW	_	6	advmod	6:advmod	_
+2	begon	beginnen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	men	men	PRON	VNW|pers|pron|nomin|red|3p|ev|masc	Case=Nom|Person=3|PronType=Prs	2	nsubj	2:nsubj|6:nsubj:xsubj	_
+4	in	in	ADP	VZ|fin	_	6	compound:prt	6:compound:prt	_
+5	te	te	ADP	VZ|init	_	6	mark	6:mark	_
+6	zien	in_zien	VERB	WW|inf|vrij|zonder	VerbForm=Inf	2	xcomp	2:xcomp	_
+7	dat	dat	SCONJ	VG|onder	_	10	mark	10:mark	_
+8	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	10	nsubj	10:nsubj	_
+9	echt	echt	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	10	advmod	10:advmod	_
+10	oorlog	oorlog	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	ccomp	6:ccomp	_
+11	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
+12	.	.	PUNCT	LET	_	2	punct	2:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
@@ -54,33 +76,6 @@ The following 10 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 10	als	als	SCONJ	VG|onder	_	11	mark	11:mark	_
 11	schilder	schilder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	advcl	5:advcl:dan	SpaceAfter=No
 12	.	.	PUNCT	LET	_	2	punct	2:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 15 ccomp	color:blue
-1	In	in	ADP	VZ|init	_	3	case	3:case	_
-2	dit	dit	DET	VNW|aanw|det|stan|prenom|zonder|evon	_	3	det	3:det	_
-3	werk	werk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:in|10:obl:in	_
-4	tekent	tekenen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	René	René	PROPN	SPEC|deeleigen	_	4	nsubj	4:nsubj	_
-6	Magritte	Magritte	PROPN	SPEC|deeleigen	_	5	flat	5:flat	_
-7	een	een	DET	LID|onbep|stan|agr	Definite=Ind	8	det	8:det	_
-8	pijp	pijp	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	obj	4:obj	_
-9	en	en	CCONJ	VG|neven	_	10	cc	10:cc	_
-10	zegt	zeggen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	4	conj	4:conj:en	_
-11	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
-12	dat	dat	SCONJ	VG|onder	_	15	mark	15:mark	_
-13	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	15	nsubj	15:nsubj	_
-14	geen	geen	DET	VNW|onbep|det|stan|prenom|zonder|agr	_	15	det	15:det	_
-15	pijp	pijp	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	ccomp	10:ccomp	_
-16	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
-17	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
 

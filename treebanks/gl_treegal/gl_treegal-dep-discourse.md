@@ -36,8 +36,8 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 12	delegación	delegación	NOUN	Scfs	Gender=Fem|Number=Sing	10	obj	_	_
 13	de	de	ADP	P	AdpType=Prep	15	case	_	_
 14	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	Instituto	instituto	PROPN	Spms	Gender=Masc|Number=Sing	12	nmod	_	_
-16	Cervantes	cervantes	PROPN	Spms	Gender=Masc|Number=Sing	15	nmod	_	_
+15	Instituto	instituto	NOUN	Scms	Gender=Masc|Number=Sing	12	nmod	_	_
+16	Cervantes	cervantes	PROPN	Sp00	_	15	appos	_	_
 17	non	non	ADV	Wn	Polarity=Neg	23	advmod	_	_
 18	deixa	deixar	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
 19	de	de	ADP	P	AdpType=Prep	23	mark	_	_
@@ -65,8 +65,8 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 41	organismo	organismo	NOUN	Scms	Gender=Masc|Number=Sing	38	nmod	_	_
 42	como	como	SCONJ	Cs	_	44	case	_	_
 43	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
-44	Instituto	instituto	PROPN	Spms	Gender=Masc|Number=Sing	41	nmod	_	_
-45	Cervantes	cervantes	PROPN	Spms	Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
+44	Instituto	instituto	NOUN	Scms	Gender=Masc|Number=Sing	41	nmod	_	_
+45	Cervantes	cervantes	PROPN	Sp00	_	44	appos	_	SpaceAfter=No
 46	?	?	PUNCT	Q?	_	28	punct	_	_
 
 ~~~

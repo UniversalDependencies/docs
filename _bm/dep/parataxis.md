@@ -44,4 +44,4 @@ The relation [parataxis:obj]() link is used for a direct speech.
 
 ~~~
 'He said: "There is no problem"'.
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:43:23 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:43 CEST -->

@@ -22,16 +22,16 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 reparandum	color:blue
-1	Katki	katki	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=katki|NormalizedLemma=katki
+1	Katki	katki	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=katki|NormalizedLemma=katki
 2	igual	igual	ADV	_	Foreign=Yes	1	advmod	1:advmod	SpaceAfter=No|NormalizedForm=igual|NormalizedLemma=igual
 3	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,|NormalizedLemma=,
-4	katki	katki	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	1	reparandum	1:reparandum	NormalizedForm=katki|NormalizedLemma=katki
+4	katki	katki	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	1	reparandum	1:reparandum	NormalizedForm=katki|NormalizedLemma=katki
 5	se	se	PRON	_	_	4	nsubj	4:nsubj	NormalizedForm=se|NormalizedLemma=se
 6	de	de	ADP	_	Foreign=Yes	8	case	8:case	NormalizedForm=de|NormalizedLemma=de
-7	n	n	DET	_	_	8	det	8:det	NormalizedForm=n|NormalizedLemma=n
-8	fiesta	fiesta	NOUN	_	Foreign=Yes|Number=Sing	5	nmod	5:nmod	NormalizedForm=fiesta|NormalizedLemma=fiesta
+7	n	in	DET	_	_	8	det	8:det	NormalizedForm=n|NormalizedLemma=n
+8	fiesta	fiesta	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	5	nmod	5:nmod	NormalizedForm=fiesta|NormalizedLemma=fiesta
 9	de	de	ADP	_	Foreign=Yes	10	case	10:case	NormalizedForm=de|NormalizedLemma=de
-10	danzas	danza	NOUN	_	Foreign=Yes|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|NormalizedForm=danzas|NormalizedLemma=dansa
+10	danzas	danza	NOUN	_	Foreign=Yes|Gender=Fem|Number=Plur	8	nmod	8:nmod	SpaceAfter=No|NormalizedForm=danzas|NormalizedLemma=dansa
 11	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -46,11 +46,11 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 1	Pero	pero	CCONJ	_	_	4	cc	4:cc	NormalizedForm=Pero|NormalizedLemma=pero
 2	ahorita	ahorita	ADV	_	Foreign=Yes	4	advmod	4:advmod	NormalizedForm=ahorita|NormalizedLemma=ahorita
 3	ya	ya	ADV	_	_	4	advmod	4:advmod	NormalizedForm=ya|NormalizedLemma=ya
-4	molevantarohtok	levantaroa	VERB	_	Aspect=Prog|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=molevantarohtok|NormalizedLemma=levantaroa
+4	molevantarohtok	levantaroa	VERB	_	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=molevantarohtok|NormalizedLemma=levantaroa
 5	kachi	kachi	ADV	_	_	4	advmod	4:advmod	NormalizedForm=kachi|NormalizedLemma=kachi
 6	más	más	ADV	_	_	5	reparandum	5:reparandum	NormalizedForm=más|NormalizedLemma=más
-7	n	n	DET	_	_	8	det	8:det	NormalizedForm=n|NormalizedLemma=n
-8	pueblo	pueblo	NOUN	_	Foreign=Yes|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No|NormalizedForm=pueblo|NormalizedLemma=pueblo
+7	n	in	DET	_	_	8	det	8:det	NormalizedForm=n|NormalizedLemma=n
+8	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No|NormalizedForm=pueblo|NormalizedLemma=pueblo
 9	.	.	PUNCT	_	_	4	punct	4:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
@@ -73,7 +73,7 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 9	n	in	DET	_	_	10	det	10:det	Orig=n|Gloss=DEF|Morf=n|NormalizedForm=n|NormalizedLemma=in
 10	iamawah	amatl	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=3	8	nmod	8:nmod	Gloss=3SG.P-paper-POS.PL|Morf=ı̄-āma-wān|Orig=ı̄āmawah,|SpaceAfter=No|NormalizedForm=iamawah|NormalizedLemma=amatl
 11	,	,	PUNCT	_	_	8	punct	8:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
-12	katki	katki	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	Orig=katki|Gloss=3S-be|Morf=Ø-katki|NormalizedForm=katki|NormalizedLemma=katki
+12	katki	katki	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin	0	root	0:root	Orig=katki|Gloss=3S-be|Morf=Ø-katki|NormalizedForm=katki|NormalizedLemma=katki
 13	kemeh	kemeh	ADP	_	_	14	case	14:case	Orig=kēmeh|Gloss=like|Morf=kēmeh|NormalizedForm=kemeh|NormalizedLemma=kemeh
 14	Uriel	uriel	PROPN	_	_	12	obl	12:obl	Gloss=Uriel|Morf=URIEL|Orig=Uryêl|SpaceAfter=No|NormalizedForm=uriel|NormalizedLemma=uriel
 15	.	.	PUNCT	_	_	12	punct	12:punct	Orig=.|Gloss=.|Morf=.|NormalizedForm=.|NormalizedLemma=.

@@ -68,7 +68,7 @@ The following 20 pairs of parts of speech are connected with `mark`: <tt><a href
 3	quod	quod	SCONJ	cs	PronType=Rel	7	mark	_	_
 4	ideo	ideo	ADV	r	Compound=Yes|PronType=Dem	7	advmod	_	_
 5	non	non	PART	r	Polarity=Neg	7	advmod:neg	_	_
-6	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+6	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 7	circularis	circularis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	2	ccomp	_	SpaceAfter=No
 8	,	,	PUNCT	Pu	_	12	punct	_	_
 9	quia	quia	SCONJ	cs	PronType=Rel	12	mark	_	_

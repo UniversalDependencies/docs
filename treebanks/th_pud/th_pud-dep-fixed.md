@@ -24,7 +24,7 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3 4 fixed	color:blue
 1	นั่น	_	PRON	PRD	_	0	root	_	SpaceAfter=No|Translit=nâ¹n
 2	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No|Translit=kɔ
-3	เพราะ	_	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=bʰéráะ
+3	เพราะ	_	ADP	IN	_	11	mark	_	SpaceAfter=No|Translit=bʰéráa
 4	ว่า	_	ADP	IN	_	3	fixed	_	SpaceAfter=No|Translit=wá¹
 5	ทุก	_	DET	DT	_	6	det	_	SpaceAfter=No|Translit=dʰuk
 6	ปาฏิหาริย์	_	NOUN	NNB	_	11	nsubj	_	SpaceAfter=No|Translit=páṭiháriy

@@ -7,93 +7,79 @@ udver: '2'
 ## Treebank Statistics: UD_Beja-NSC: Relations: `dislocated`
 
 This relation is universal.
-There are 2 language-specific subtypes of `dislocated`: <tt><a href="bej_nsc-dep-dislocated-det.html">dislocated:det</a></tt>, <tt><a href="bej_nsc-dep-dislocated-subj.html">dislocated:subj</a></tt>.
+There are 3 language-specific subtypes of `dislocated`: <tt><a href="bej_nsc-dep-dislocated-mod.html">dislocated:mod</a></tt>, <tt><a href="bej_nsc-dep-dislocated-obj.html">dislocated:obj</a></tt>, <tt><a href="bej_nsc-dep-dislocated-subj.html">dislocated:subj</a></tt>.
 
-10 nodes (1%) are attached to their parents as `dislocated`.
+18 nodes (0%) are attached to their parents as `dislocated`.
 
-5 instances of `dislocated` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.2.
+15 instances of `dislocated` (83%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.11111111111111.
 
-The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (8; 80% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (1; 10% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (1; 10% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 dislocated	color:blue
-1	agar	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1|Voice=Mid	2	compound	_	AlignBegin=84523|AlignEnd=84765|GE=[1SG]-come_back\[MID].[PFV]|Gloss=come_back|MGloss=1SG-come_back\MID.PFV|MSeg=a-gar|RX=[PNG]-[V1].[DER]|TokenType=Root
-2	jʔan	_	VERB	V2,IRG	Number=Sing|VerbClass=2	0	root	_	AlignBegin=84765|AlignEnd=84926|GE=come-[PFV].[1SG]|Gloss=come|MGloss=come-PFV.1SG|MSeg=jʔ-an|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-3	=t	_	CCONJ	CCONJ	_	2	cc	_	AlignBegin=84926|AlignEnd=85007|GE==[COORD]|RX==[CONJ]|TokenType=Clit
-4	i=	_	DET	DET	Definite=Def|Gender=Masc	5	det	_	AlignBegin=85007|AlignEnd=85087|GE=[DEF].[M]=|RX=[DET]=|TokenType=Clit
-5	gaw	_	NOUN	N	Gender=Masc	2	dislocated	_	AlignBegin=85087|AlignEnd=85168|GE=house|Gloss=house|RX=[N].[M]|TokenType=Root
-6	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	5	nmod:poss	_	AlignBegin=85168|AlignEnd=85249|GE==[POSS].[1SG].[ACC]|RX==[PRO]|TokenType=Clit
-7	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=85249|AlignEnd=85492|TokenType=Break
-
-~~~
+The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (11; 61% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (2; 11% instances).
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 19 dislocated	color:blue
-1	jhaːm	_	NOUN	N	Gender=Masc	5	nsubj	_	AlignBegin=7011|AlignEnd=7279|GE=leopard|nWord=1|RX=[SBJ].[N].[M]|TokenType=Root
-2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=7279|AlignEnd=7547|GE=[/]|nWord=2|TokenType=Break
-3	handii	_	NOUN	N	Gender=Masc	4	obl:arg	_	AlignBegin=7547|AlignEnd=7892|GE=tree[GEN]|MGloss=tree[GEN]|MSeg=handi-i|nWord=3|RX=[N].[M][CASE]|TokenType=Root
-4	khiː	_	ADP	POSTP	_	5	obl:arg	_	AlignBegin=7892|AlignEnd=8237|GE=on|nWord=4|RX=[POSTP]|TokenType=Root
-5	isni	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	7	dep:comp	_	AlignBegin=8237|AlignEnd=8409|GE=[3SG].[M]wait|MGloss=[3SG].[M]wait|MSeg=i-sni|nWord=5|RX=[PNG][V1]|TokenType=Root
-6	=hoːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1	5	obj	_	AlignBegin=8409|AlignEnd=8495|GE=[OBJ].[1PL]|nWord=5|RX=[PRO]|TokenType=Clit
-7	=hoːb	_	SCONJ	CONJ	_	14	dep	_	AlignBegin=8495|AlignEnd=8582|GE=when|nWord=5|RX=[CONJ]|TokenType=Clit
-8	//	_	PUNCT	_	_	7	punct	_	AlignBegin=8582|AlignEnd=8928|GE=[//]|nWord=6|TokenType=Break
-9	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	AlignBegin=9529|AlignEnd=9752|GE=[PROX].[SG].[M].[ACC]|nWord=8|RX=[DEM]|TokenType=Root
-10	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	det	_	AlignBegin=9752|AlignEnd=9864|GE=[DEF].[SG].[M].[ACC]|nWord=9|RX=[DET]|TokenType=Clit
-11	jhaːm	_	NOUN	N	Gender=Masc	13	dislocated	_	AlignBegin=9864|AlignEnd=9975|GE=leopard|nWord=9|RX=[N].[M]|TokenType=Root
-12	/	_	PUNCT	_	_	11	punct	_	AlignBegin=9975|AlignEnd=10197|GE=[/]|nWord=10|TokenType=Break
-13	dira	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	14	parataxis	_	AlignBegin=10197|AlignEnd=10419|GE=kill[IMP].[SG].[M]|MGloss=kill[IMP].[SG].[M]|MSeg=dir-a|nWord=11|RX=[V1].[DER][TAM].[PNG]|TokenType=Root
-14	ani	_	VERB	V1	Number=Sing|VerbClass=1	15	dep:comp	_	AlignBegin=10419|AlignEnd=10567|GE=[1SG]say|MGloss=[1SG]say|MSeg=a-ni|nWord=12|RX=[PNG][V1].[IRG]|TokenType=Root
-15	=hoːb	_	SCONJ	CONJ	_	28	dep	_	AlignBegin=10567|AlignEnd=10641|GE=when|nWord=12|RX=[CONJ]|TokenType=Clit
-16	/	_	PUNCT	_	_	19	punct	_	AlignBegin=10641|AlignEnd=10862|GE=[/]|nWord=13|TokenType=Break
-17	i=	_	DET	DET	Definite=Def|Gender=Masc	18	det	_	AlignBegin=10862|AlignEnd=10972|GE=[DEF].[M]|nWord=14|RX=[DET]|TokenType=Clit
-18	xawaːʤai	_	NOUN	N	Gender=Masc	19	dep:comp	_	AlignBegin=10972|AlignEnd=11192|GE=foreigner[GEN]|MGloss=foreigner[GEN]|MSeg=xawaːʤa-i|nWord=14|RX=[N].[M].[BORR].[ARA][CASE]|TokenType=Root
-19	=da	_	ADP	POSTP	_	14	dislocated	_	AlignBegin=11192|AlignEnd=11304|GE=[DIR]|nWord=14|RX=[POSTP]|TokenType=Clit
-20	//	_	PUNCT	_	_	19	punct	_	AlignBegin=11304|AlignEnd=11747|GE=[//]|nWord=15|TokenType=Break
-21	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	22	det	_	AlignBegin=12173|AlignEnd=12332|GE=[DEF].[SG].[M].[ACC]|nWord=1|RX=[DET]|TokenType=Clit
-22	jhaːm	_	NOUN	N	Gender=Masc	25	obj	_	AlignBegin=12332|AlignEnd=12491|GE=leopard|nWord=1|RX=[N].[M]|TokenType=Root
-23	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	25	nsubj	_	AlignBegin=12491|AlignEnd=12809|GE=[1SG].[NOM]|nWord=2|RX=[SBJ].[PRO]|TokenType=Root
-24	ka=	_	PART	PTCL	Aspect=Imp	25	advmod	_	AlignBegin=12809|AlignEnd=12915|GE=[NEG].[IPFV]|nWord=3|RX=[PTCL]|TokenType=Clit
-25	adir	_	VERB	V1	Number=Sing|VerbClass=1	26	parataxis	_	AlignBegin=12915|AlignEnd=13127|GE=[1SG]kill|MGloss=[1SG]kill|MSeg=a-dir|nWord=3|RX=[PNG][V1]|TokenType=Root
-26	id	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	28	parataxis	_	AlignBegin=13127|AlignEnd=13339|GE=[3SG].[M]say|MGloss=[3SG].[M]say|MSeg=i-d|nWord=4|RX=[PNG][V1].[IRG]|TokenType=Root
-27	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	26	obj	_	AlignBegin=13339|AlignEnd=13445|GE=[OBJ].[1SG]|nWord=4|RX=[PRO]|TokenType=Clit
-28	ini	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=13445|AlignEnd=13763|GE=[3SG].[M]say|MGloss=[3SG].[M]say|MSeg=i-ni|nWord=5|RX=[PNG][V1].[IRG]|TokenType=Root
-29	//	_	PUNCT	_	_	28	punct	_	AlignBegin=13763|AlignEnd=14079|GE=[//]|nWord=6|TokenType=Break
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 14 dislocated	color:blue
-1	tak	_	NOUN	N	Gender=Masc	7	nsubj	_	AlignBegin=0|AlignEnd=351|GE=man|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=351|AlignEnd=1157|TokenType=Break
-3	ʔeːgirim	_	NOUN	CN	_	1	nmod	_	AlignBegin=1157|AlignEnd=1424|GE=elder|Gloss=elder|RX=[CN]|TokenType=Root
-4	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=1424|AlignEnd=2257|TokenType=Break
-5	ʔajaːj	_	NOUN	N	_	6	nmod	_	AlignBegin=2257|AlignEnd=2593|GE=relatives|Gloss=relatives|RX=[N]|TokenType=Root
-6	taki	_	NOUN	N	Gender=Masc	1	appos	_	AlignBegin=2593|AlignEnd=2930|GE=man-[GEN]|Gloss=man|MGloss=man-GEN|MSeg=tak-i|RX=[N].[M]-[CASE]|TokenType=Root
-7	iːfi	_	VERB	V1,IRG	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	11	dep:conj	_	AlignBegin=2930|AlignEnd=3154|GE=[3SG].[M]-be_there\[AOR]|Gloss=be_there|MGloss=3SG.M-be_there\AOR|MSeg=iː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-8	=t	_	CCONJ	CCONJ	_	7	cc	_	AlignBegin=3154|AlignEnd=3267|GE==[COORD]|RX==[CONJ]|TokenType=Clit
-9	amsi	_	ADV	ADV	_	11	advmod	_	AlignBegin=3267|AlignEnd=3603|GE=today|Gloss=today|RX=[ADV]|TokenType=Root
-10	iraːnaj	_	INTJ	_	_	11	discourse	_	AlignBegin=3603|AlignEnd=3940|GE=gosh|Gloss=gosh|RX=[EXCL]|TokenType=Root
-11	rhi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=3940|AlignEnd=4277|GE=see-[AOR].[3SG].[M]|Gloss=see|MGloss=see-AOR.3SG.M|MSeg=rh-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
-12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=4277|AlignEnd=4764|TokenType=Break
-13	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	14	det	_	AlignBegin=4764|AlignEnd=4921|GE=[DEF].[SG].[M].[ACC]=|RX=[DET]=|TokenType=Clit
-14	kina	_	PRON	PRO	Reflex=Yes	11	dislocated	_	AlignBegin=4921|AlignEnd=5079|GE=owner|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
-15	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=5079|AlignEnd=5895|TokenType=Break
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 11 dislocated	color:blue
+1	ʃakʷiːn	_	NOUN	N	Gender=Fem	4	obj	_	AlignBegin=12751|AlignEnd=12889|GE=perfume|RX=[N].[F]|TokenType=Root
+2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=12889|AlignEnd=13027|GE=[INDF].[F]|RX=[DET]|TokenType=Clit
+3	dhaːj	_	ADP	POSTP	_	4	obl:arg	_	AlignBegin=13027|AlignEnd=13303|GE=[DIR]|RX=[POSTP]|TokenType=Root
+4	dannʔi	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	0	root	_	AlignBegin=13303|AlignEnd=13579|GE=do\IPFV.[3SG]|RX=[V1].[IRG]|TokenType=Root
+5	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	4	discourse	_	AlignBegin=13579|AlignEnd=13855|GE=say\PFV.PL|RX=[V1].[IRG]|TokenType=Root
+6	//	_	PUNCT	_	_	4	punct	_	AlignBegin=13855|AlignEnd=14129|GE=[//]|TokenType=Break
+7	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	AlignBegin=14139|AlignEnd=14460|GE=[PROX].[PL].[M].[ACC]|RX=[DEM]|TokenType=Root
+8	i=	_	DET	DET	Definite=Def|Gender=Masc	9	det	_	AlignBegin=14460|AlignEnd=14540|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+9	taktʔi	_	NOUN	CN	Gender=Masc	10	dep:comp	_	AlignBegin=14540|AlignEnd=14620|GE=scarecrow|RX=[CN].[M]|TokenType=Root
+10	=jeː	_	ADP	CASE	Case=Gen|Number=Plur	11	dep:comp	_	AlignBegin=14620|AlignEnd=14700|GE=[GEN].[PL]|RX=[CASE]|TokenType=Clit
+11	=da	_	ADP	POSTP	_	4	dislocated	_	AlignBegin=14700|AlignEnd=14781|GE=[DIR]|RX=[POSTP]|TokenType=Clit
+12	//	_	PUNCT	_	_	4	punct	_	AlignBegin=14781|AlignEnd=15103|GE=[//]|TokenType=Break
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 dislocated	color:blue
+1	hoːj	_	ADP	PRO	_	2	obl:arg	_	AlignBegin=141614|AlignEnd=142009|GE=[3DAT/ABL]|RX=[PRO]|TokenType=Root
+2	libaːban	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=142009|AlignEnd=142404|GE=be_happy[PFV].[1SG]|MGloss=be_happy[PFV].[1SG]|MSeg=libaːb-an|RX=[V2][TAM].[PNG]|TokenType=Root
+3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=142404|AlignEnd=142536|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+4	ɖa~ɖib	_	NOUN	N	Gender=Masc	2	dislocated	_	AlignBegin=142536|AlignEnd=142668|GE=job|RX=[N].[M]|TokenType=Root
+5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	4	nmod:poss	_	AlignBegin=142668|AlignEnd=142799|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+6	i=	_	DET	DET	Definite=Def|Gender=Masc	7	det	_	AlignBegin=142799|AlignEnd=142931|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+7	raw	_	NOUN	N	_	8	dep:comp	_	AlignBegin=142931|AlignEnd=143063|GE=other|RX=[N]|TokenType=Root
+8	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	4	dep	_	AlignBegin=143063|AlignEnd=143194|GE=[LOC].[PL]|RX=[POSTP]|TokenType=Clit
+9	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=143194|AlignEnd=143591|GE=[/]|TokenType=Break
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 dislocated	color:blue
+1	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	6	dislocated	_	AlignBegin=177822|AlignEnd=178152|GE=[1SG].[ACC]|RX=[PRO]|TokenType=Root
+2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=178152|AlignEnd=178317|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+3	ngirab	_	NOUN	N	Gender=Masc	6	nsubj	_	AlignBegin=178317|AlignEnd=178482|GE=evening|RX=[SBJ].[N].[M]|TokenType=Root
+4	dh	_	ADP	POSTP	_	6	obl:arg	_	AlignBegin=178482|AlignEnd=178647|GE=[DIR]|RX=[POSTP]|TokenType=Root
+5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	4	obl:mod	_	AlignBegin=178647|AlignEnd=178812|GE=[POSS].[1SG].[ACC]|RX=[PRO]|TokenType=Clit
+6	jʔiːni	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	15	dep:conj	_	AlignBegin=178812|AlignEnd=179142|GE=come[IPFV].[3SG].[M]|MGloss=come[IPFV].[3SG].[M]|MSeg=jʔ-iːni|RX=[V2].[IRG][TAM].[PNG]|TokenType=Root
+7	/	_	PUNCT	_	_	6	punct	_	AlignBegin=179142|AlignEnd=179473|GE=[/]|TokenType=Break
+8	i=	_	DET	DET	Definite=Def|Gender=Masc	9	det	_	AlignBegin=179473|AlignEnd=179633|GE=[DEF].[M]|RX=[DET]|TokenType=Clit
+9	jam	_	NOUN	N	Gender=Masc|Number=Plur	10	dep:comp	_	AlignBegin=179633|AlignEnd=179793|GE=water|RX=[N].[PL].[M]|TokenType=Root
+10	=eː	_	ADP	CASE	Case=Gen|Number=Plur	11	obl:arg	_	AlignBegin=179793|AlignEnd=179952|GE=[GEN].[PL]|RX=[CASE]|TokenType=Clit
+11	gʷadaamani	_	VERB	V2	Number=Sing|VerbClass=2	15	dep:conj	_	AlignBegin=179952|AlignEnd=180431|GE=splash[MID][IPFV].[1SG]|MGloss=splash[MID][IPFV].[1SG]|MSeg=gʷada-am-ani|RX=[V2].[BORR].[ARA][V2].[DER][TAM].[PNG]|TokenType=Root
+12	/	_	PUNCT	_	_	11	punct	_	AlignBegin=180431|AlignEnd=180909|GE=[/]|TokenType=Break
+13	jam	_	NOUN	N	Gender=Masc|Number=Plur	15	obj	_	AlignBegin=180909|AlignEnd=181210|GE=water|RX=[N].[PL].[M]|TokenType=Root
+14	hoː	_	PRON	PRO	Number=Sing|Person=1	15	iobj	_	AlignBegin=181210|AlignEnd=181511|GE=[1SG].[DAT/ABL]|RX=[PRO]|TokenType=Root
+15	atɖajiːg	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	0	root	_	AlignBegin=181511|AlignEnd=181812|GE=[1SG][MID]take_supplies_for_journey\IPFV|MGloss=[1SG][MID]take_supplies_for_journey\IPFV|MSeg=a-t-ɖajiːg|RX=[PNG][V1].[DER][V1]|TokenType=Root
+16	/	_	PUNCT	_	_	15	punct	_	AlignBegin=181812|AlignEnd=182114|GE=[/]|TokenType=Break
 
 ~~~
 

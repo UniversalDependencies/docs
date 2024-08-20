@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4093 nodes (16%) are attached to their parents as `det`.
+4094 nodes (16%) are attached to their parents as `det`.
 
-4089 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1702907402883.
+4090 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17024914509038.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3387; 83% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (481; 12% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (99; 2% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (63; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	Traballamos	traballar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	máis	máis	ADV	Wm	_	3	advmod	_	_
-3	horas	hora	NOUN	Scfp	Gender=Fem|Number=Plur	1	obl	_	_
-4	que	que	SCONJ	Cs	_	6	case	_	_
-5	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-6	xaponeses	xaponés	NOUN	Scmp	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
-7	.	.	PUNCT	Q.	_	1	punct	_	_
-
-~~~
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3669; 90% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (199; 5% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (99; 2% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (64; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,8 +25,22 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 1	"	"	PUNCT	Q"	_	2	punct	_	SpaceAfter=No
 2	Votamos	votar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	Constitución	Constitución	PROPN	Spfs	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+4	Constitución	constitución	NOUN	Scfs	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 5	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	¡	¡	PUNCT	Q¡	_	3	punct	_	_
+2	meu	meu	DET	Md1sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+3	Deus	deus	PROPN	Sp00	_	0	root	_	_
+4	!	!	PUNCT	Q!	_	3	punct	_	_
 
 ~~~
 
@@ -64,8 +61,8 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 8	que	que	SCONJ	Cs	_	13	mark	_	_
 9	a	o	PRON	Ddfs	Gender=Fem|Number=Sing|Person=3|PronType=Art	2	conj	_	_
 10	de	de	ADP	P	AdpType=Prep	11	case	_	_
-11	Abel	abel	PROPN	Spm0	Gender=Masc	9	nmod	_	_
-12	Caballero	caballero	PROPN	Spm0	Gender=Masc	11	flat:name	_	_
+11	Abel	abel	PROPN	Sp00	_	9	nmod	_	_
+12	Caballero	caballero	PROPN	Sp00	_	11	flat:name	_	_
 13	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
 14	oito	oito	NUM	Ncnmp	Gender=Masc|Number=Plur|NumType=Card	13	obj	_	SpaceAfter=No
 15	:	:	PUNCT	Q:	_	2	punct	_	_

@@ -10,10 +10,10 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 10 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 Some words have combined values of the feature; 2 combinations have been observed: `Dem|Rel`, `Int|Rel`.
 
-53208 tokens (18%) have a non-empty value of `PronType`.
+53211 tokens (18%) have a non-empty value of `PronType`.
 375 types (1%) occur at least once with a non-empty value of `PronType`.
 115 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (41203; 14% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (10839; 4% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1166; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (41203; 14% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (10839; 4% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (1169; 0% instances).
 
 ### `DET`
 
@@ -56,11 +56,11 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `ADV`
 
-1166 <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `PronType`.
+1169 <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (738; 63% of non-empty `PronType`): <em>damit, dazu, davon, darauf, daher, dafür, dadurch, darüber, darin, dagegen</em>
+* `Dem` (741; 63% of non-empty `PronType`): <em>damit, dazu, davon, darauf, daher, dafür, dadurch, darüber, darin, dagegen</em>
 * `Ind` (99; 8% of non-empty `PronType`): <em>etwas, mehr, genug, viel, wenig, bisschen, anderem, bischen, bißchen, solch</em>
 * `Int` (326; 28% of non-empty `PronType`): <em>wo, wobei, wie, warum, wodurch, wovon, weshalb, woraufhin, wonach, wozu</em>
 * `Neg` (3; 0% of non-empty `PronType`): <em>keineswegs</em>

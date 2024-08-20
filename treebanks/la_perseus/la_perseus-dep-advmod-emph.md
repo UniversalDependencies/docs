@@ -26,7 +26,7 @@ The following 19 pairs of parts of speech are connected with `advmod:emph`: <tt>
 1	sed	sed	CCONJ	c--------	_	5	cc	_	LId=sed1
 2	non	non	PART	d--------	_	3	advmod:neg	_	LId=non1
 3	et	et	CCONJ	c--------	_	4	advmod:emph	_	LId=et1
-4	venisse	venio	VERB	v--rna---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	5	xcomp	_	LId=venio1
+4	venisse	venio	VERB	v--rna---	Aspect=Perf|VerbForm=Inf|Voice=Act	5	xcomp	_	LId=venio1|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
 5	volent	volo	VERB	v3pfia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	LId=volo1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 6	.	.	PUNCT	u--------	_	5	punct	_	LId=punc1
 

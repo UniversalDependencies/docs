@@ -22,7 +22,8 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (55; 51% of non-empty `NumForm`): <em>_</em>
+* `Combi` (1; 1% of non-empty `NumForm`): <em>_</em>
+* `Digit` (54; 50% of non-empty `NumForm`): <em>_</em>
 * `Word` (52; 49% of non-empty `NumForm`): <em>_</em>
 
 ### `ADJ`

@@ -15,3 +15,4 @@ advcl:concess(bhavati, viddhas)
 cop(viddhas, san)
 xcomp(bhavati, aviddhas)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:34 CEST -->

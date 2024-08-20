@@ -13,7 +13,7 @@ This relation is universal.
 23 instances of `amod` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.1304347826087.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (22; 96% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 4% instances).
+The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (22; 96% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	dââʹst	dât	PRON	Pron	Case=Loc|Number=Sing	1	nmod	_	GTtags=Sg,Loc
 3	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
 4	...	...	PUNCT	CLB	_	8	punct	_	_
-5	vitmlo	vitmlo	NUM	Num	_	6	nummod	_	_
+5	vitmlo	vitmlo	NUM	Num	Case=Nom|Number=Sing|NumType=Card	6	nummod	_	_
 6	ekksaž	ekksaž	ADJ	A	_	7	amod	_	GTtags=Attr
 7	päʹrnn	päʹrnn	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	8	nsubj	_	GTtags=Kin,Sem/Kin,Sg,Nom
 8	šõõddi	šõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 5	tok	tok	DET	Det	Case=Nom|Number=Plur	13	advmod:lmod	_	GTtags=Pl,Nom
 6	kuäʹđ	kueʹtt	NOUN	N	Case=Nom|Number=Plur	13	obj	_	GTtags=Pl,Nom|SpaceAfter=No
 7	...	...	PUNCT	PUNCT	_	6	punct	_	_
-8	jiijjâs	jiõčč	DET	Det	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	amod	_	GTtags=Refl,Acc,Sg3
+8	jiijjâs	jiõčč	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	amod	_	GTtags=Refl,Acc,Sg3
 9	kuäʹđ	kueʹtt	NOUN	N	Case=Acc|Number=Sing	6	reparandum	_	GTtags=Sg,Acc
 10	jeeʹres	jeeʹres·årra	DET	Det	_	11	det	_	_
 11	årra	_	NOUN	N	_	13	obl:lmod	_	_

@@ -247,6 +247,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
     denotes a different action performed by the agent.
     In accord with the current UD guidelines, we label the relation
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _<b>se</b> trataba de un negocio nuevo_ “the matter is a new contract.”
+    * _Arrepentirse_ “regret” is an example of an inherently reflexive verb: There is no _*arrepentir_. <!-- from Cristina's talk at ÚFAL Monday seminar in April 2023 -->
+    * _Acordarse_ “remember” is an example where the reflexive morpheme carries derivation: The meaning has significantly shifted from the irreflexive _acordar_  “agree on”.
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
 

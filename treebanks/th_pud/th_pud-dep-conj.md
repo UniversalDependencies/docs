@@ -73,7 +73,7 @@ The following 25 pairs of parts of speech are connected with `conj`: <tt><a href
 1	ไวส์	_	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No|Translit=wais
 2	ได้	_	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No|Translit=dai²
 3	รับ	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=râb
-4	การเชิดชู	_	VERB	VV	_	3	obj	_	SpaceAfter=No|Translit=kárćʰéิdćʰú
+4	การเชิดชู	_	VERB	VV	_	3	obj	_	SpaceAfter=No|Translit=kárćʰéidćʰú
 5	เกียรติ	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=kíárti
 6	ด้วย	_	ADP	IN	_	7	case	_	SpaceAfter=No|Translit=d²wy
 7	รางวัล	_	NOUN	NN	_	3	obl	_	SpaceAfter=No|Translit=ráŋwâl

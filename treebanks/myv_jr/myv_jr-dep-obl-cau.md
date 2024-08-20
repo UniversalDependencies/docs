@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 # visual-style 5	fgColor:white
 # visual-style 5 1 obl:cau	color:blue
 1	Тень	те	PRON	Pron	Case=Gen|Definite=Ind|Number=Sing|PronType=Dem	5	obl:cau	_	GTtags=Dem,Sg,Gen,Indef
-2	кис	кис	ADP	Adp	_	1	case	_	_
+2	кис	кис	ADP	Po	AdpType=Post	1	case	_	_
 3	самай	самай	ADV	Adv	AdvType=Deg	4	advmod:deg	_	GTtags=Deg
 4	истя	истя	ADV	Adv	AdvType=Man	5	advmod	_	GTtags=Manner
 5	вечкса	вечкемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg1,OcSg3

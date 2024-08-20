@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `PROPN`
 
-There are 19 `PROPN` lemmas (4%), 20 `PROPN` types (4%) and 29 `PROPN` tokens (3%).
+There are 19 `PROPN` lemmas (4%), 20 `PROPN` types (3%) and 29 `PROPN` tokens (3%).
 Out of 15 observed tags, the rank of `PROPN` is: 6 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Петя, Мери, Питер, Париж, Сэм, Франция, Браун, Ворошилов, Джейн, Дёма</em>
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Митя</em> (<tt><a href="koi_uh-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.250569).
+The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.249476).
 
 The 1st highest number of forms (2) was observed with the lemma “Франция”: <em>Франция, Франциялӧн</em>.
 

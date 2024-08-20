@@ -77,7 +77,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 3	Circuits	Circuit	PROPN	PM|GEN	Case=Gen	4	nmod:poss	4:nmod:poss	_
 4	hemsida	hemsida	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
 5	har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-6	exakta	exakt	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	7	amod	7:amod	_
+6	exakta	exakt	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	7	amod	7:amod	_
 7	tider	tid	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	obj	5:obj	SpaceAfter=No
 8	.	.	PUNCT	MAD	_	5	punct	5:punct	_
 

@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Pot`.
 
-699 tokens (24%) have a non-empty value of `Mood`.
-284 types (38%) occur at least once with a non-empty value of `Mood`.
-149 lemmas (30%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (550; 19% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (149; 5% instances).
+716 tokens (24%) have a non-empty value of `Mood`.
+290 types (39%) occur at least once with a non-empty value of `Mood`.
+151 lemmas (30%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (565; 19% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (151; 5% instances).
 
 ### `VERB`
 
-550 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Mood`.
+565 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (550; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (447; 81%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (434; 79%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (565; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (459; 81%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (443; 78%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (7; 1% of non-empty `Mood`): <em>õõlǥči, kååddče, leʹčče, piâzzčiǩ, siltteʹče, vuäđče</em>
-* `Imp` (20; 4% of non-empty `Mood`): <em>mõõnnâd, tiâr, mõõnsââʹst, puäʹđ, kueʹst, kulddâl, säärn, vueiʹn, vueiʹt, Ääʹved</em>
-* `Ind` (499; 91% of non-empty `Mood`): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, vuõʹlji</em>
-* `Pot` (24; 4% of non-empty `Mood`): <em>leežž, Mõõnžiǩ, kooʹddže, poouǩeškueʹđež, ǩiʹcstež, aaudže, kâssneškueʹđež, piijže, piijžik, piijžiǩ</em>
-* `EMPTY` (92): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, teâđstam, vueʹtǩǩmen, välddam, kaunnâm</em>
+* `Imp` (21; 4% of non-empty `Mood`): <em>mõõnnâd, tiâr, mõõnsââʹst, puäʹđ, kueʹst, kulddâl, säärn, vueiʹn, vueiʹt, Ääʹved</em>
+* `Ind` (512; 91% of non-empty `Mood`): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, vuõʹlji</em>
+* `Pot` (25; 4% of non-empty `Mood`): <em>leežž, Mõõnžiǩ, kooʹddže, poouǩeškueʹđež, ǩiʹcstež, aaudže, kâssneškueʹđež, piijže, piijžik, piijžiǩ</em>
+* `EMPTY` (93): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, teâđstam, vueʹtǩǩmen, välddam, kaunnâm</em>
 
 <table>
   <tr><th>Paradigm <i>mõõnnâd</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Pot</tt></th></tr>
@@ -38,18 +38,18 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>mõʹnne</em></td><td></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (134) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 92% lemmas (137) occur only with one value of `Mood`.
 
 ### `AUX`
 
-149 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+151 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (120; 81%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (100; 67%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (94; 63%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (82; 55%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (122; 81%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (101; 67%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (96; 64%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (83; 55%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (1; 1% of non-empty `Mood`): <em>Jeäʹled</em>
-* `Ind` (147; 99% of non-empty `Mood`): <em>lij, ij, leäi, jiõk, liâ, õõk, jiõm, õõlǥ, leäk, jeäʹp</em>
+* `Ind` (149; 99% of non-empty `Mood`): <em>lij, ij, leäi, jiõk, liâ, õõk, jiõm, õõlǥ, leäk, jeäʹp</em>
 * `Pot` (1; 1% of non-empty `Mood`): <em>leežž</em>
 * `EMPTY` (11): <em>i-ǥõl, leeʹd, Ij-ǥo, jeäʹla, leäkku, leämmaž, õlggâm, õõk</em>
 
@@ -72,13 +72,13 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (244; 90%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt>]--> AUX</tt> (23; 61%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (20; 53%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> VERB</tt> (251; 89%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt>]--> AUX</tt> (24; 62%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (20; 51%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (8; 62%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 100%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
-<tt>VERB --[<tt><a href="sms_giellagas-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="sms_giellagas-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (3; 75%),
 <tt>AUX --[<tt><a href="sms_giellagas-dep-aux-neg.html">aux:neg</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="sms_giellagas-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%).

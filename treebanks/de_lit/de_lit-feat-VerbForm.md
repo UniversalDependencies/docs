@@ -23,7 +23,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_lit-pos-VERB.htm
 * `Fin` (8; 67% of non-empty `VerbForm`): <em>peut, Ehre, erfolge, fait, leben, strömt, wohlgehe</em>
 * `Inf` (3; 25% of non-empty `VerbForm`): <em>aller, rester</em>
 * `Part` (1; 8% of non-empty `VerbForm`): <em>zurechtgewiesen</em>
-* `EMPTY` (3090): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
+* `EMPTY` (3091): <em>gibt, machen, läßt, scheint, werden, sagen, scheinen, haben, weiß, ist</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `VerbForm`.
 
@@ -35,7 +35,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_lit-pos-VERB.htm
 
 * `Fin` (6; 86% of non-empty `VerbForm`): <em>ist, era, is, sei, sommes</em>
 * `Part` (1; 14% of non-empty `VerbForm`): <em>gewesen</em>
-* `EMPTY` (2486): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
+* `EMPTY` (2485): <em>ist, sind, sein, kann, hat, werden, haben, wird, muß, können</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>

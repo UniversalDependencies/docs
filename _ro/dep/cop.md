@@ -34,4 +34,4 @@ ROOT Noi suntem cum ne știi . \n We are how us know-you .
 root(ROOT, suntem)
 ccomp(suntem, știi)
 ~~~
-<!-- Interlanguage links updated Po 6. listopadu 2023, 21:42:42 CET -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:00 CEST -->
