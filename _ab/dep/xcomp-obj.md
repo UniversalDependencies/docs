@@ -5,7 +5,7 @@ shortdef: 'direct object free complement'
 udver: '2'
 ---
 
-The `ccomp:obj` relation marks an a free clausal complement cross-referenced by a direct object marker.
+The `xcomp:obj` relation marks an a free clausal complement cross-referenced by a direct object marker.
 
 ~~~ conllu
 # text = – Саргьы убри сҳәар сҭахын!
