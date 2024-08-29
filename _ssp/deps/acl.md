@@ -13,7 +13,6 @@ The category `acl` is used for clauses that modify a nominal, but not for modifi
 # gloss_en = BEAR LISTEN MAN cl
 # text_es = El oso oye al hombre venir
 # text_en = The bear hears the man come
-# timestamp = 1718008286917.125
 1	OSO	_	NOUN	N.P	_	2	nsubj	_	Gloss=BEAR
 2	ESCUCHAR	_	VERB	V	_	0	root	_	Gloss=LISTEN
 3	HOMBRE	_	NOUN	N.P	_	2	obj	_	Gloss=MAN
