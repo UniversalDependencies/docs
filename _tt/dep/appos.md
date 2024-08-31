@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'appos:
+title: 'appos'
 shortdef: 'appositional modifier'
 udver: '2'
 ---

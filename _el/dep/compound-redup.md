@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 Reduplication of adverbs is productive in Modern Greek and is a way of intensification of the meaning of the adverb. 
-Each adverb is assigned the tag [ADV]() and first one is assigned the feature [Degree=Mag](). The second adverb 
+Each adverb is assigned the tag [ADV]() and first one is assigned the feature [Degree=Aug](). The second adverb 
 depends on the first one with the [compound:redup]() dependency. 
 - *πάνω πάνω* Lit. *up up* "on the very top"
 - *πίσω πίσω* Lit. *back back* "at the very back", *σιγά σιγά* Lit. *slowly slowly* "very very slowly"

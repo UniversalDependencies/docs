@@ -12,7 +12,7 @@ udver: '2'
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We tokenize them as separate tokens (words), except the following cases:
   * The period marking an abbreviation: _Dr._ “doctor” is one token.
   * The apostrophe (or occasionally a hyphen) is not treated as punctuation when it occurs between a number and its morphological suffix, as in _15'ê_, _1932'an_.
-* There is a small class of words that may contain spaces in writing.
+* There is a type of verb called 'Lêkerên hevedudanî' which is similar to English phrasal verbs. These verbs typically consist of two or three parts that are separated by spaces when written. However, in passive voice and causative forms, these parts are written adjacent.
 * There are several closed classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words.
   The most prominent type is a pronoun fused with the future auxiliary: _ezê = ez + dê_ “I will”.
 
