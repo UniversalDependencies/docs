@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Long">Long</a></td>
   <td><a href="#Short">Short</a></td>
 </tr>
 </table>
@@ -20,7 +21,10 @@ short forms of [adjectives](cs-pos/ADJ) and short (clitic) forms of personal [pr
 This feature only marks the non-standard short forms, hence there is only one value, `Short`.
 For the long standard forms the `Variant` feature remains unspecified.
 
-### <a name="Short">`Short`</a>: short form of adjectives or personal pronouns
+Furthermore, in Old Czech data, `Variant` is used to distinguish the forms of aorist
+(the simple past tense). The sigmatic form is labeled `Long`, the asigmatic `Short`.
+
+### <a name="Short">`Short`</a>: short form of adjectives or personal pronouns, asigmatic aorist
 
 The short form is called _nominal form of adjective (jmenný tvar přídavného jména),_
 as opposed to the long form, which is _pronominal_ because it originated as
@@ -46,4 +50,15 @@ They are separate words (unlike in some other languages) but in the word order t
 * _<b>mi</b>, <b>mě</b>, <b>ti</b>, <b>tě</b>, <b>mu</b>, <b>ho</b>, <b>si</b>, <b>se</b>_
 * _mně, mne, tobě, tebe, jemu, jeho, sobě, sebe_
 * “me, me, you, you, him, him, oneself, oneself”
+
+Asigmatic aorist in Old Czech:
+
+* _<b>provrže</b> (provrhnout), <b>vytrže</b> (vytrhnout), <b>příde</b> (přijít)_
+
+### <a name="Long">`Long`</a>: sigmatic aorist in Old Czech
+
+#### Examples
+
+* _<b>vecě</b>, <b>povědě</b>, <b>počě</b>_
+
 <!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->
