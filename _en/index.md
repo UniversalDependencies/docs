@@ -41,7 +41,7 @@ The English-specific documentation pages for the tags [AUX](), [DET](), and [PRO
 
 ## Syntax
 
-Standard deprels are used, except for `clf` which is not used in any treebank. Commonly used custom subtypes include `obl:npmod` for oblique nominals (corresponds to Stanford Dependencies `npadvmod`), `nmod:tmod` and `obl:tmod` for temporal nouns used adverbially (e.g. "today"), based on the Stanford Dependencies label `tmod`. Additionally, passives are distinguished (`nsubj:pass`, `csubj:pass`), pre-nominal possessives (`nmod:poss`), predeterminers (`det:predet` for "both" in "both the children), preconj (`cc:preconj` for "either" in "either X or Y") and a special compound subtype for phrasal verb particles (`compound:prt` for "up" in "pick up").
+Standard deprels are used, except for `clf` which is not used in any treebank. Commonly used custom subtypes include `obl:unmarked` for prepositionless oblique nominals and `nmod:unmarked` for unmarked nominal modifiers. Additionally, passives are distinguished (`nsubj:pass`, `csubj:pass`), pre-nominal possessives (`nmod:poss`), predeterminers (`det:predet` for "both" in "both the children), preconj (`cc:preconj` for "either" in "either X or Y") and a special compound subtype for phrasal verb particles (`compound:prt` for "up" in "pick up").
 
 For more information, see the list of [English relations](dep/index.html).
 
