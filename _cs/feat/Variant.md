@@ -53,12 +53,12 @@ They are separate words (unlike in some other languages) but in the word order t
 
 Asigmatic aorist in Old Czech:
 
-* _<b>provrže</b> (provrhnout), <b>vytrže</b> (vytrhnout), <b>příde</b> (přijít)_
+* _<b>provrže</b> (provrhnout)_ “cast”, _<b>vytrže</b> (vytrhnout)_ “snatched”, _<b>příde</b> (přijít)_ “came”
 
 ### <a name="Long">`Long`</a>: sigmatic aorist in Old Czech
 
 #### Examples
 
-* _<b>vecě</b>, <b>povědě</b>, <b>počě</b>_
+* _<b>vecě</b> (vecet)_ “said”, _<b>povědě</b> (povědět)_ “said”, _<b>počě</b> (počít)_ “began”
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->
