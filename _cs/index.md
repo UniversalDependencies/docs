@@ -78,9 +78,10 @@ and [Czech features](feat/index.html).
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()), adjectives ([ADJ]()) and adverbs ([ADV]())
   that can be negated using the bound morpheme _ne-_.
   * Occasionally _ne_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
-  * Negating nouns is usually limited to those derived from verbs _(neúspěch, nedůvěra, nevydávání)_ but in principle every noun can be negated.
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
+  * Since UD release 2.15, `Polarity` is not used with nouns, although in principle every noun can be negated.
+    Negative nouns will now have negative lemmas (previously some of them had positive lemmas and `Polarity=Neg`, but it was not applied consistently).
 
 ### Verbal Features
 
