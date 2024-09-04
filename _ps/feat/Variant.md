@@ -32,6 +32,6 @@ The short variant is used for special forms of several verbs, that do not have a
 * The subjunctive of the verb تلل _tlël_ “to go” is irregular and consist of a word لاړ _lâṛ_ and finite forms of the auxiliary verb شول _šwël_ (perfective counterpart of کېدل _kedë́l_ “to become”). The form لاړ _lâṛ_ is currently annotated as a "short infinitive", i.e. with `VerbForm=Inf` and `Variant=Short`, in contrast to the proper (perfective) infinitive لاړل _lâṛë́l_.
   * e.g.: ‏‏‎غواړم هلته **لاړ** شم _ġwâṛë́m hálta **lâṛ** šëm_ “I want to go there”
 * In the past potential mood, the finite forms of the auxiliary verb شول _šwël_ (perfective counterpart of کېدل _kedë́l_ “to become”) are often replaced with an invariable word شوای _šwây_, which is currently annotated as a "short participle", i.e. with `VerbForm=Part` and `Variant=Short`, in contrast to the proper participle شوی _šë́way_.
-  * e.g.: ما خوړلی شوای _mâ xwaṛë́lay šwây_ “I could eat”
+  * e.g.: **ما خوړلی **شوای _mâ xwaṛë́lay **šwây**_ “I could eat”
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:20:26 CEST -->
