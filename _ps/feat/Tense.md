@@ -63,14 +63,15 @@ The forms for the third person of both numbers are usually identical.
 
 #### Examples
 
-* e.g.: کتاب **لرلم** _kitấb **lwalë́m**_ “I am reading a book”
+* present imperfective: کتاب **لرلم** _kitấb **lwalë́m**_ “I am reading a book”
+* present perfective (=subjunctive): کتاب **ولرلم** _kitấb **wë́lwalëm**_ “so that I read a book / I would read a book”
 
 ### <a name="Past">`Past`</a>: past
 
 The past tense denotes actions that happened (once or repeatedly)
 or were happening in the past. It has simple forms for both aspects.
 The transitive verbs in the past tense agree with their objects instead
-of the subjects.
+of the subjects. The past verb stem for the past tense may differ from the present stem.
 
 The forms for the third person of both numbers are further distinguished
 according to the `Gender`.
@@ -109,6 +110,9 @@ according to the `Gender`.
 
 #### Examples
 
+* past imperfective: ما پرون کتاب **لوستۀ** _mâ parún kitấb **lwëstë́**_ “I was reading a book yesterday”
+* past perfective: ما پرون کتاب **ولوستۀ** _mâ parún kitấb **wë́lwëstë**_ “I read a book yesterday”
+
 
 ### <a name="Fut">`Fut`</a>: future
 
@@ -119,12 +123,13 @@ The verb forms are tagged with `Tense=Pres`, while the future particle bears the
 `Tense=Fut` tag.
 
 The only verb that can be marked directly with `Tense=Fut` is the third person singular future form
-of the verb “to be”, which differs from it present counterpart: به وی _bë wi_ “He/She/It will be”
+of the verb “to be”, which differs from it present counterpart: بۀ وی _bë wi_ “He/She/It will be”
 (compare with the present form دی _day_ (m) / ده _da_ (f) “He/She/It is”).
 
-
-
 #### Examples
+
+* future imperfective: صبا **بۀ** کتاب **لرلم** _sabấ **bë** kitấb **lwalë́m**_ “I will be reading a book tomorrow”
+* future perfective: صبا **بۀ** کتاب **ولرلم** _sabấ **bë** kitấb **wë́lwalëm**_ “I will read a book tomorrow”
 
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->
