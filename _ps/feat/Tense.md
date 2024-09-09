@@ -39,6 +39,7 @@ perfective tense.
 The regular verbs have simple forms for the present tense in boths aspects.
 The forms for the third person of both numbers are usually identical.
 
+Overview of the present endings:
 <table border="1">
 <tr>
   <td/>
@@ -72,10 +73,10 @@ The past tense denotes actions that happened (once or repeatedly)
 or were happening in the past. It has simple forms for both aspects.
 The transitive verbs in the past tense agree with their objects instead
 of the subjects. The past verb stem for the past tense may differ from the present stem.
-
 The forms for the third person of both numbers are further distinguished
 according to the `Gender`.
 
+Overview of the past endings:
 <table border="1">
 <tr>
   <td/>
@@ -103,7 +104,7 @@ according to the `Gender`.
   <td align="middle"><b>3</b></td>
   <td align="middle">- ë</td>
   <td align="middle">له ëla</td>
-  <td align="middle">لۀ ëlë</td>
+  <td align="middle">لۀ ëlë<br/>ل ël</td>
   <td align="middle">لې ële</td>
 </tr>
 </table>
