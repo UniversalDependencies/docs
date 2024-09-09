@@ -31,8 +31,8 @@ denotes actions that are happening in the present moment
 or happen repeatedly in the period spanning through the present moment.
 
 The present tense combined with perfective aspect `Aspect=Perf`
-would have no use, since there cannot be a punctual action happening the present moment,
-so these forms have the meaning of the subjunctive mood. This is not marked, because
+would have no use, since there cannot be a punctual action happening in the present moment,
+but these forms have the meaning of the subjunctive mood. This is not marked, because
 the forms are formally indicative and they are used also for the future
 perfective tense.
 
