@@ -18,16 +18,48 @@ Tense is a feature that specifies the time when the action took / takes / will t
 in relation to the current moment or to another action in the utterance. The `tense` feature occurs with verbs ([VERB]())
 and auxiliary verbs ([AUX]()).
 
+Regular verbs in Pashto have simple forms for the present and past tenses,
+while the future tense is usually analytical.
+There are also compound forms of perfect tenses (past perfect, present perfect, future perfect),
+which consist of a participle and an auxiliary verb in one of the three basic tenses. None of these
+parts is tagged as a perfect tense.
+
 ### <a name="Pres">`Pres`</a>: present
 
-The present tense combined with imperfective aspect `[Aspect]()=Imp`
+The present tense combined with imperfective aspect `Aspect=Imp`
 denotes actions that are happening in the present moment
 or happen repeatedly in the period spanning through the present moment.
 
-The present tense combined with perfective aspect `[Aspect]()=Perf`
-takes the role of the subjunctive mood, which is not marked, because
-the forms are formally indicative and they are used also for future
+The present tense combined with perfective aspect `Aspect=Perf`
+would have no use, since there cannot be a punctual action happening the present moment,
+so these forms have the meaning of the subjunctive mood. This is not marked, because
+the forms are formally indicative and they are used also for the future
 perfective tense.
+
+The regular verbs have simple forms for the present tense in boths aspects.
+The forms for the third person of both numbers are usually identical.
+
+<table border="1">
+<tr>
+  <td/>
+  <td align="middle"><b>SG</b></td>
+  <td align="middle"><b>PL</b></td>
+</tr>
+<tr>
+  <td align="middle"><b>1</b></td>
+  <td align="middle">م ëm</td>
+  <td align="middle">و u</td>
+</tr>
+<tr>
+  <td align="middle"><b>2</b></td>
+  <td align="middle">ې e</td>
+  <td align="middle">ئ ëy</td>
+</tr>
+<tr>
+  <td align="middle"><b>3</b></td>
+  <td align="middle" colspan="2">ي i</td>
+</tr>
+</table>
 
 #### Examples
 
@@ -35,11 +67,61 @@ perfective tense.
 
 ### <a name="Past">`Past`</a>: past
 
+The past tense denotes actions that happened (once or repeatedly)
+or were happening in the past. It has simple forms for both aspects.
+The transitive verbs in the past tense agree with their objects instead
+of the subjects.
+
+The forms for the third person of both numbers are further distinguished
+according to the `Gender`.
+
+<table border="1">
+<tr>
+  <td/>
+  <td align="middle" colspan="2"><b>SG</b></td>
+  <td align="middle" colspan="2"><b>PL</b></td>
+</tr>
+<tr>
+  <td/>
+  <td align="middle"><b>M</b></td>
+  <td align="middle"><b>F</b></td>
+  <td align="middle"><b>M</b></td>
+  <td align="middle"><b>F</b></td>
+</tr>
+<tr>
+  <td align="middle"><b>1</b></td>
+  <td align="middle" colspan="2">لم ëlëm</td>
+  <td align="middle" colspan="2">لو ëlu</td>
+</tr>
+<tr>
+  <td align="middle"><b>2</b></td>
+  <td align="middle" colspan="2">لې ële</td>
+  <td align="middle" colspan="2">لئ ëlëy</td>
+</tr>
+<tr>
+  <td align="middle"><b>3</b></td>
+  <td align="middle">- ë</td>
+  <td align="middle">له ëla</td>
+  <td align="middle">لۀ ëlë</td>
+  <td align="middle">لې ële</td>
+</tr>
+</table>
 
 #### Examples
 
 
 ### <a name="Fut">`Fut`</a>: future
+
+The Pashto verbs have a compound future tense that consist of a future particle بۀ _bë_
+and the present forms of the verb - present imperfective for the imperfective future
+and present perfective (with the subjunctive meaning) for the perfective future.
+The verb forms are tagged with `Tense=Pres`, while the future particle bears the
+`Tense=Fut` tag.
+
+The only verb that can be marked directly with `Tense=Fut` is the third person singular future form
+of the verb “to be”, which differs from it present counterpart: به وی _bë wi_ “He/She/It will be”
+(compare with the present form دی _day_ (m) / ده _da_ (f) “He/She/It is”).
+
 
 
 #### Examples
