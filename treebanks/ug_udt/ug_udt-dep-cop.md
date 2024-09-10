@@ -22,13 +22,13 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 cop	color:blue
-1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
-2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa
-3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara
-4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
-5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna
-6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi
-7	.	.	PUNCT	Y	_	5	punct	_	Translit=.
+1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz|LTranslit=öy
+2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa|LTranslit=bol
+3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara|LTranslit=ara
+4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam|LTranslit=tam
+5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna|LTranslit=qoshna
+6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi|LTranslit=i
+7	.	.	PUNCT	Y	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -39,13 +39,13 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 cop	color:blue
-1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
-2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa
-3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara
-4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
-5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna
-6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi
-7	.	.	PUNCT	Y	_	5	punct	_	Translit=.
+1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz|LTranslit=öy
+2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa|LTranslit=bol
+3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara|LTranslit=ara
+4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam|LTranslit=tam
+5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna|LTranslit=qoshna
+6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi|LTranslit=i
+7	.	.	PUNCT	Y	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -56,15 +56,15 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 cop	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
-2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
-3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
-4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik
-5	رېئاللىقنى	رېئاللىق	NOUN	N	Case=Acc	6	obj	_	Translit=rëalliqni
-6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm|Morf=Unknown
-7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq
-8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	.	PUNCT	Y	_	7	punct	_	Translit=.
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette|LTranslit=emeliyet
+2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning|LTranslit=men
+3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu|LTranslit=bu
+4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik|LTranslit=qabahetlik
+5	رېئاللىقنى	رېئاللىق	NOUN	N	Case=Acc	6	obj	_	Translit=rëalliqni|LTranslit=rëalliq
+6	كۆرگۈم	_	VERB	V	_	7	acl	_	Morf=Unknown|Translit=körgüm
+7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq|LTranslit=yoq
+8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi|LTranslit=i
+9	.	.	PUNCT	Y	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

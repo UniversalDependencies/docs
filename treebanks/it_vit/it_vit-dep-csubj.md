@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-97 nodes (0%) are attached to their parents as `csubj`.
+98 nodes (0%) are attached to their parents as `csubj`.
 
-52 instances of `csubj` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.50515463917526.
+53 instances of `csubj` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.63265306122449.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (40; 41% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (30; 31% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (19; 20% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (41; 42% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (30; 31% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (19; 19% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

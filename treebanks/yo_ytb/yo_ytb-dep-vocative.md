@@ -22,20 +22,20 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
-1	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	4	vocative	_	Ref=PS_131.3|SpaceAfter=No|Gloss=israel
-2	,	,	PUNCT	_	_	1	punct	_	Ref=PS_131.3|Gloss=,
-3	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Ref=PS_131.3|Gloss=you
-4	ní	ní	VERB	_	_	0	root	_	Ref=PS_131.3|Gloss=have
-5	ìrètí	ìrètí	NOUN	_	_	4	obj	_	Ref=PS_131.3|Gloss=hope
-6	ní	ní	ADP	_	_	8	case	_	Ref=PS_131.3|Gloss=in
-7	ti	ti	ADP	_	_	8	case	_	Ref=PS_131.3|Gloss=of
-8	Olúwa	Olúwa	PROPN	_	_	4	obl	_	Ref=PS_131.3|Gloss=lord
-9	láti	láti	ADP	_	_	10	case	_	Ref=PS_131.3|Gloss=to
-10	ìsinsinyí	ìsinsinyí	ADV	_	_	11	advmod	_	Ref=PS_131.3|Gloss=now
-11	lọ	lọ	VERB	_	_	4	advcl	_	Ref=PS_131.3|Gloss=go
-12	àti	àti	CCONJ	_	_	13	cc	_	Ref=PS_131.3|Gloss=and
-13	láéláé	láéláé	ADV	_	_	10	conj	_	Ref=PS_131.3|SpaceAfter=No|Gloss=eternal
-14	.	.	PUNCT	_	_	4	punct	_	Ref=PS_131.3|Gloss=.
+1	Ísírẹ́lì	Ísírẹ́lì	PROPN	_	_	4	vocative	_	Gloss=israel|Ref=PS_131.3|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Gloss=,|Ref=PS_131.3
+3	ìwọ	ìwọ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Gloss=you|Ref=PS_131.3
+4	ní	ní	VERB	_	_	0	root	_	Gloss=have|Ref=PS_131.3
+5	ìrètí	ìrètí	NOUN	_	_	4	obj	_	Gloss=hope|Ref=PS_131.3
+6	ní	ní	ADP	_	_	8	case	_	Gloss=in|Ref=PS_131.3
+7	ti	ti	ADP	_	_	8	case	_	Gloss=of|Ref=PS_131.3
+8	Olúwa	Olúwa	PROPN	_	_	4	obl	_	Gloss=lord|Ref=PS_131.3
+9	láti	láti	ADP	_	_	10	case	_	Gloss=to|Ref=PS_131.3
+10	ìsinsinyí	ìsinsinyí	ADV	_	_	11	advmod	_	Gloss=now|Ref=PS_131.3
+11	lọ	lọ	VERB	_	_	4	advcl	_	Gloss=go|Ref=PS_131.3
+12	àti	àti	CCONJ	_	_	13	cc	_	Gloss=and|Ref=PS_131.3
+13	láéláé	láéláé	ADV	_	_	10	conj	_	Gloss=eternal|Ref=PS_131.3|SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	Gloss=.|Ref=PS_131.3
 
 ~~~
 

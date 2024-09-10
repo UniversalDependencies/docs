@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs_pud-pos-NUM.html
 
 459 <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (397; 86%), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (357; 78%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (303; 66%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (397; 86%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (303; 66%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Ord` (75; 99% of non-empty `NumType`): <em>první, druhé, prvního, třetí, druhou, šedesátých, druhý, dvacátého, padesátých, prvních</em>
 * `Sets` (1; 1% of non-empty `NumType`): <em>jedni</em>
-* `EMPTY` (2194): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
+* `EMPTY` (2193): <em>další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (18) occur only with one value of `NumType`.
 

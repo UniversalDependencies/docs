@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Karo-TuDeT](https://github.com/UniversalDependencies/UD_Karo-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarr_tudet211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udarr_tudet214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,7 +77,7 @@ The development of this treebank is supported by the by European Research Counci
 
 ## Relations
 
-[acl](arr_tudet-dep-acl.html) – [advcl](arr_tudet-dep-advcl.html) – [advmod](arr_tudet-dep-advmod.html) – [amod](arr_tudet-dep-amod.html) – [appos](arr_tudet-dep-appos.html) – [aux](arr_tudet-dep-aux.html) – [case](arr_tudet-dep-case.html) – [ccomp](arr_tudet-dep-ccomp.html) – [clf](arr_tudet-dep-clf.html) – [compound](arr_tudet-dep-compound.html) – [conj](arr_tudet-dep-conj.html) – [cop](arr_tudet-dep-cop.html) – [dep](arr_tudet-dep-dep.html) – [det](arr_tudet-dep-det.html) – [discourse](arr_tudet-dep-discourse.html) – [mark](arr_tudet-dep-mark.html) – [nmod](arr_tudet-dep-nmod.html) – [nsubj](arr_tudet-dep-nsubj.html) – [nummod](arr_tudet-dep-nummod.html) – [obj](arr_tudet-dep-obj.html) – [obl](arr_tudet-dep-obl.html) – [parataxis](arr_tudet-dep-parataxis.html) – [punct](arr_tudet-dep-punct.html) – [root](arr_tudet-dep-root.html) – [xcomp](arr_tudet-dep-xcomp.html)
+[acl](arr_tudet-dep-acl.html) – [advcl](arr_tudet-dep-advcl.html) – [advmod](arr_tudet-dep-advmod.html) – [amod](arr_tudet-dep-amod.html) – [appos](arr_tudet-dep-appos.html) – [aux](arr_tudet-dep-aux.html) – [case](arr_tudet-dep-case.html) – [ccomp](arr_tudet-dep-ccomp.html) – [clf](arr_tudet-dep-clf.html) – [compound](arr_tudet-dep-compound.html) – [conj](arr_tudet-dep-conj.html) – [cop](arr_tudet-dep-cop.html) – [dep](arr_tudet-dep-dep.html) – [det](arr_tudet-dep-det.html) – [discourse](arr_tudet-dep-discourse.html) – [dislocated](arr_tudet-dep-dislocated.html) – [mark](arr_tudet-dep-mark.html) – [nmod](arr_tudet-dep-nmod.html) – [nsubj](arr_tudet-dep-nsubj.html) – [nummod](arr_tudet-dep-nummod.html) – [obj](arr_tudet-dep-obj.html) – [obl](arr_tudet-dep-obl.html) – [parataxis](arr_tudet-dep-parataxis.html) – [punct](arr_tudet-dep-punct.html) – [root](arr_tudet-dep-root.html) – [xcomp](arr_tudet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -701,11 +701,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (76)</li>
+      <li>VERB--NOUN (75)</li>
       <li>VERB--NOUN-ADP(tap) (3)</li>
       <li>VERB--NOUN-ADP(tap)-ADP(tap) (1)</li>
       <li>VERB--PRON (143)</li>
-      <li>VERB-Ger--NOUN (23)</li>
+      <li>VERB-Ger--NOUN (22)</li>
       <li>VERB-Ger--PRON (6)</li>
     </ul>
   </li>
@@ -739,5 +739,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

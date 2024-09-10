@@ -6,90 +6,98 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `X`
 
-There are 79 `X` lemmas (2%), 222 `X` types (4%) and 752 `X` tokens (3%).
-Out of 16 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
+There are 429 `X` lemmas (5%), 441 `X` types (3%) and 906 `X` tokens (1%).
+Out of 15 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_, [pause], [gap], [:voice], [speaker:laughter], green, of, grass, home, ka</em>
+The 10 most frequent `X` lemmas: <em>s-, z-, n-, j-, k-, p-, m-, t-, b-, po-</em>
 
-The 10 most frequent `X` types:  <em>[pause], [gap], s, j, n, m, p, z, t, [:voice]</em>
+The 10 most frequent `X` types:  <em>s-, z-, n-, j-, k-, p-, m-, t-, b-, po-</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 367, <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 1), <em>[gap]</em> (<tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 657, <tt><a href="sl_sst-pos-X.html">X</a></tt> 53), <em>[:voice]</em> (<tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 48, <tt><a href="sl_sst-pos-X.html">X</a></tt> 11), <em>[speaker:laughter]</em> (<tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 94, <tt><a href="sl_sst-pos-X.html">X</a></tt> 9), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sl_sst-pos-X.html">X</a></tt> 3), <em>on</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 308, <tt><a href="sl_sst-pos-X.html">X</a></tt> 2), <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>in</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>kaj</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 196, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 43, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>on</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 753, <tt><a href="sl_sst-pos-X.html">X</a></tt> 5), <em>ti</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 366, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="sl_sst-pos-X.html">X</a></tt> 2, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>para</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 2, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>što</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 143, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 21, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>d</em> (<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1527, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>i</em> (<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>in</em> (<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 1473, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>[gap]</em> (<tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 657, <tt><a href="sl_sst-pos-X.html">X</a></tt> 53), <em>s</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 80, <tt><a href="sl_sst-pos-X.html">X</a></tt> 34, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>m</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 16, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2), <em>p</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>z</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 117, <tt><a href="sl_sst-pos-X.html">X</a></tt> 16), <em>[:voice]</em> (<tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 48, <tt><a href="sl_sst-pos-X.html">X</a></tt> 11), <em>k</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 10, <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>v</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 478, <tt><a href="sl_sst-pos-X.html">X</a></tt> 10, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>[speaker:laughter]</em> (<tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 94, <tt><a href="sl_sst-pos-X.html">X</a></tt> 9), <em>d</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 9, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 49, <tt><a href="sl_sst-pos-X.html">X</a></tt> 5), <em>ti</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 182, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 43, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="sl_sst-pos-X.html">X</a></tt> 3, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>je</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 1895, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 654, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 11, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="sl_sst-pos-X.html">X</a></tt> 2), <em>para</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 2, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1), <em>što</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 143, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 21, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>bi</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 399, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 29, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>d</em> (<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1526, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 42, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1)
 
 
-* <em>[gap]</em>
-  * <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 657: <em>in to so mešali kar eno olje pa ene take č <b>[gap]</b> stare barve</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 53: <em><b>[gap]</b></em>
-* <em>s</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 80: <em>smo prišli popoldne <b>s</b> šole ob dveh ob treh smo gnali pasti</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 34: <em>tam ko smo <b>s</b> [gap] ko smo se enkrat z atijem peljali ne [gap]</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>eee hkrati se bo pa naredila z eee projekt z izvedbo <b>s</b> in bo z [gap] eee zajemalo notri eee detajle kako narediti ograjo kako narediti tlake med sabo da bojo višinsko enaki</em>
-* <em>m</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>pa veš da bodo <b>m</b> [gap] veš da bodo <b>m</b> [gap]</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5: <em><b>m</b> <b>m</b></em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2: <em><b>m</b> <b>m</b> ne avto [gap] saj avtomob [gap] [:voice] menda je šel do vsakega avta da ga je požegnal</em>
-* <em>p</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>veš koliko so ga <b>p</b> [gap] je bil star koliko [gap] … štirideset ja</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em><b>p</b> čez trikotnik naj gre ja</em>
-* <em>z</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 117: <em><b>z</b> zvezdniki</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>ena bo še pa <b>z</b> [gap] pa [name:personal] zrihtala ne eno zvezo</em>
-* <em>[:voice]</em>
-  * <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 48: <em>devetinos [gap] deves [gap] <b>[:voice]</b> ne</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 11: <em><b>[:voice]</b></em>
-* <em>k</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 10: <em>ne ta ta je taka eem <b>k</b> [gap] jaz temu pravim življenjska</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 8: <em>ja če imamo [gap] <b>k</b> analizam</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2: <em>jo pa ej sploh ne vem a so se pogledal oni mislim na teh slikah <b>k</b></em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>eee ti in jaz čisto v dobri veri dajta mi malo za piti a veš pa me zebe sem šla se obleči in kostanj lepo lupimo tam <b>k</b> eee [name:personal] ga pa peče</em>
-* <em>v</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 478: <em>verjetno je tudi <b>v</b> teh ugotovitvah naše poslušalke kar precej soli ne</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 10: <em>zdaj eee <b>v</b> [gap] kaj več pa je težko reči v tem trenutku ne</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>brez drugega dramaturga tako da pozorni še posebej bodite na [name:personal] ker bo drugi del <b>v</b> d dramaturga v smislu da te stvari kar bomo eee poskušali v likih ustvarjati bomo t [gap] skoz govor in bo [name:personal] mogla malo večkrat posr [gap] pomagati na tej poti da to dejansko dobimo</em>
-* <em>[speaker:laughter]</em>
-  * <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> 94: <em><b>[speaker:laughter]</b> dobro jaz se nisem eem</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 9: <em><b>[speaker:laughter]</b></em>
+* <em>on</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 49: <em>ne ker <b>on</b> tukaj ni uporabljal gradbeni material <b>on</b> si tega ni</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 5: <em>ja pa Rock <b>on</b> net</em>
+* <em>ti</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 182: <em><b>ti</b> si napisal te preobleke kdo pa še stoji na odru znana imena</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 43: <em>eee kaj več v bistvu tukaj res eee <b>ti</b> starši ne morejo narediti</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 4: <em>in se smejem kot matasta tipo ki že costi <b>ti</b> ga bi bujeri ser</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš tako delaš <b>ti</b> di di pa še igraš</em>
+* <em>ka</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 40: <em><b>ka</b> so stopnjo više kakor ti</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 3: <em>ta človek se tako pisal <b>ka</b> to fi</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em><b>ka</b> to je zato ker morajo te avtorske pravice redno mislim pa- pač plačevati pa to</em>
+* <em>je</em>
+  * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 1895: <em>v principu zelo mi <b>je</b> bila všeč nadaljevanka Igra prestolov</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 654: <em>e kateri izletniški kraj vam <b>je</b> všeč in zakaj</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 11: <em>seveda <b>je</b> niste</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 4: <em><b>je</b> ene štir- ene š- štirideset</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 2: <em>glavna znamenitost <b>je</b> Arboretuma Volčji Potok so prav gotovo otoki cvetic ki jih lahko najdemo vsepovsod po parku</em>
+* <em>para</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 2: <em>ki je bila tam nekaj pri [name:personal] ali nekaj takega ma <b>para</b> da je ona</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>aha okej eee oboje oboje bi vzel po dva <b>para</b></em>
+* <em>što</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 1: <em>pa to za vajudva tudi pa <b>što</b> tako koga po- eee me pozna pa to</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>in jaz odhajam samo mimo ne gledam <b>što</b> je ampak sem samo šla naprej zaenkrat skrči Olga Joža Ha ja od kod pa ti</em>
+* <em>a</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 143: <em>em Zdaj mene zanima <b>a</b> ste vsaj vi ti štirje pravniki to zahtevo prebrali</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em>in to je tisto kar otrok tudi rabi <b>a</b> ne</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 21: <em><b>a</b></em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 9: <em><b>a</b> oba se izražava knjižno</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 8: <em>da je to mislim <b>a</b></em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>v nadaljevanju pesem iz osemdesetih Belinda Karlyle Heaven is <b>a</b> place on earth pa Star čebelji pregovor tudi sledi</em>
+* <em>bi</em>
+  * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 399: <em>e z e omenil sem več različnih eem eee <b>bi</b> rekel celo področje</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 29: <em>ker eee je pol kontra efekt ne namesto da <b>bi</b> ne pa ne če razumete</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>in se smejem kot matasta tipo ki že costi ti ga <b>bi</b> bujeri ser</em>
 * <em>d</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 9: <em>[all:laughter] tako da bodite previdni ker <b>d</b> [gap] eee</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>brez drugega dramaturga tako da pozorni še posebej bodite na [name:personal] ker bo drugi del v <b>d</b> dramaturga v smislu da te stvari kar bomo eee poskušali v likih ustvarjati bomo t [gap] skoz govor in bo [name:personal] mogla malo večkrat posr [gap] pomagati na tej poti da to dejansko dobimo</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>brez drugega dramaturga tako da pozorni še posebej bodite na [name:personal] ker bo drugi del v <b>d</b> dramaturga v smislu da te stvari kar bomo eee poskušali v likih ustvarjati bomo t- skozi govor in bo [name:personal] mogla malo večkrat posr- pomagati na tej poti da to dejansko dobimo</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>tako da bolj novic ne zasle- nisem nekaj zasledil razen da bomo mogli se mislim <b>d</b> do naslednjega meseca tam do dvajsetega ali sedemindvajsetega eem bo še zastonj eee testiranje potem bo plačljivo se mi zdi štirinajst evrov na oseminštirideset ur kar zame kot ke sem zaposlen v hotelu mi glih ni do tega da bi vsakih oseminštirideset ur plačeval štirinajst evrov samo zato da lahko delam</em>
+* <em>da</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1526: <em>Zdi se mi <b>da</b> se vsi Slovenci najdemo v tej zgodbi</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 42: <em>v bistvu se vegani temu izogibajo kolikor se le <b>da</b> recimo</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18: <em><b>da</b> ali ne</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>genau wo ist den das ach so <b>da</b></em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.810127 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `X` is 1.027972 (the average of all parts of speech is 1.748943).
 
-The 1st highest number of forms (150) was observed with the lemma “_”: <em>Bel, Franc, Oma, Slove, a, am, an, anal, avto, avtomob, b, ba, ce, ci, d, dej, dela, des, deves, devetinos, di, do, dovoli, dovre, e, fe, fizi, g, gos, gospo, gre, grn, hotl, i, ins, ist, istrija, j, jabol, k, ka, km, knji, kolo, kom, kompliciraš, ku, kur, l, le, lu, m, ma, mar, mat, mest, mi, mid, mis, mišani, moš, n, na, naj, napi, nar, naslednj, nek, ni, nih, nikak, nje, njegov, o, od, ojo, om, on, op, opaz, orož, ose, p, pet, petnš, po, pok, ponava, pos, posr, pr, pre, pred, prelis, preve, prevo, pri, psi, r, ra, raz, razu, raču, re, rec, s, sa, se, sko, sla, slovarj, so, spa, spe, spla, sprašva, st, t, tist, to, trans, u, usta, uze, v, va, ver, vs, vslak, vzmeti, z, zaba, zac, zag, zar, zdaj, zl, zmišlajo, zob, zve, č, čak, š, še, špi, šte, štir, ž, žens, žul</em>.
+The 1st highest number of forms (14) was observed with the lemma “_”: <em>ci, dej, di, je, ka, ki, kompliciraš, leti, pa, smo, ste, sto, vedno, če</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Bewegung”: <em>bewegung</em>.
+The 2nd highest number of forms (1) was observed with the lemma “Abicanti”: <em>Abicanti</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Mission”: <em>mission</em>.
+The 3rd highest number of forms (1) was observed with the lemma “B-”: <em>B-</em>.
 
-`X` occurs with 1 features: <tt><a href="sl_sst-feat-Foreign.html">Foreign</a></tt> (96; 13% instances)
+`X` occurs with 3 features: <tt><a href="sl_sst-feat-Foreign.html">Foreign</a></tt> (161; 18% instances), <tt><a href="sl_sst-feat-Typo.html">Typo</a></tt> (5; 1% instances), <tt><a href="sl_sst-feat-Abbr.html">Abbr</a></tt> (3; 0% instances)
 
-`X` occurs with 1 feature-value pairs: `Foreign=Yes`
+`X` occurs with 3 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `Typo=Yes`
 
-`X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (656 tokens).
-Examples: <em>[pause], [gap], s, j, n, m, p, z, t, [:voice]</em>
+`X` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (737 tokens).
+Examples: <em>s-, n-, z-, j-, k-, p-, m-, t-, b-, po-</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 21 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (320; 43% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (307; 41% instances), <tt><a href="sl_sst-dep-flat-foreign.html">flat:foreign</a></tt> (59; 8% instances), <tt><a href="sl_sst-dep-conj.html">conj</a></tt> (9; 1% instances), <tt><a href="sl_sst-dep-obl.html">obl</a></tt> (8; 1% instances), <tt><a href="sl_sst-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="sl_sst-dep-dep.html">dep</a></tt> (6; 1% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (5; 1% instances), <tt><a href="sl_sst-dep-advcl.html">advcl</a></tt> (4; 1% instances), <tt><a href="sl_sst-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-vocative.html">vocative</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 26 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (532; 59% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (135; 15% instances), <tt><a href="sl_sst-dep-flat-foreign.html">flat:foreign</a></tt> (82; 9% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (29; 3% instances), <tt><a href="sl_sst-dep-nmod.html">nmod</a></tt> (18; 2% instances), <tt><a href="sl_sst-dep-obj.html">obj</a></tt> (13; 1% instances), <tt><a href="sl_sst-dep-conj.html">conj</a></tt> (12; 1% instances), <tt><a href="sl_sst-dep-goeswith.html">goeswith</a></tt> (11; 1% instances), <tt><a href="sl_sst-dep-flat.html">flat</a></tt> (9; 1% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (7; 1% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (6; 1% instances), <tt><a href="sl_sst-dep-amod.html">amod</a></tt> (6; 1% instances), <tt><a href="sl_sst-dep-dep.html">dep</a></tt> (6; 1% instances), <tt><a href="sl_sst-dep-appos.html">appos</a></tt> (5; 1% instances), <tt><a href="sl_sst-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 16 different parts of speech:  (307; 41% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (108; 14% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (83; 11% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (67; 9% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (34; 5% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (31; 4% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (29; 4% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (22; 3% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 16 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (223; 25% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (180; 20% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (106; 12% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (71; 8% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (56; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (50; 6% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (36; 4% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (35; 4% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (33; 4% instances),  (29; 3% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (24; 3% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (18; 2% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (18; 2% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
-628 (84%) `X` nodes are leaves.
+749 (83%) `X` nodes are leaves.
 
-64 (9%) `X` nodes have one child.
+84 (9%) `X` nodes have one child.
 
-26 (3%) `X` nodes have two children.
+28 (3%) `X` nodes have two children.
 
-34 (5%) `X` nodes have three or more children.
+45 (5%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 8.
 
-Children of `X` nodes are attached using 27 different relations: <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (58; 21% instances), <tt><a href="sl_sst-dep-flat-foreign.html">flat:foreign</a></tt> (56; 20% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (27; 10% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (19; 7% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (18; 6% instances), <tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt> (13; 5% instances), <tt><a href="sl_sst-dep-aux.html">aux</a></tt> (10; 4% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (10; 4% instances), <tt><a href="sl_sst-dep-cop.html">cop</a></tt> (9; 3% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (8; 3% instances), <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (8; 3% instances), <tt><a href="sl_sst-dep-obj.html">obj</a></tt> (8; 3% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (5; 2% instances), <tt><a href="sl_sst-dep-det.html">det</a></tt> (4; 1% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (4; 1% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (4; 1% instances), <tt><a href="sl_sst-dep-expl.html">expl</a></tt> (3; 1% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="sl_sst-dep-nmod.html">nmod</a></tt> (3; 1% instances), <tt><a href="sl_sst-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 29 different relations: <tt><a href="sl_sst-dep-flat-foreign.html">flat:foreign</a></tt> (87; 26% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (39; 12% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (29; 9% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (16; 5% instances), <tt><a href="sl_sst-dep-det.html">det</a></tt> (12; 4% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (12; 4% instances), <tt><a href="sl_sst-dep-flat.html">flat</a></tt> (12; 4% instances), <tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt> (12; 4% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (11; 3% instances), <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (10; 3% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (10; 3% instances), <tt><a href="sl_sst-dep-cop.html">cop</a></tt> (9; 3% instances), <tt><a href="sl_sst-dep-obj.html">obj</a></tt> (9; 3% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (8; 2% instances), <tt><a href="sl_sst-dep-aux.html">aux</a></tt> (7; 2% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (7; 2% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (7; 2% instances), <tt><a href="sl_sst-dep-acl.html">acl</a></tt> (5; 2% instances), <tt><a href="sl_sst-dep-conj.html">conj</a></tt> (5; 2% instances), <tt><a href="sl_sst-dep-goeswith.html">goeswith</a></tt> (5; 2% instances), <tt><a href="sl_sst-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (3; 1% instances), <tt><a href="sl_sst-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-expl.html">expl</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-nummod.html">nummod</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 15 different parts of speech: <tt><a href="sl_sst-pos-X.html">X</a></tt> (83; 30% instances), <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (58; 21% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (20; 7% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (19; 7% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (17; 6% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (16; 6% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (12; 4% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (12; 4% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (12; 4% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (8; 3% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (5; 2% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 15 different parts of speech: <tt><a href="sl_sst-pos-X.html">X</a></tt> (106; 32% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (40; 12% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (26; 8% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (22; 7% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (17; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (17; 5% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (16; 5% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (16; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (16; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (15; 5% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (11; 3% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (10; 3% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (8; 2% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (4; 1% instances)
 

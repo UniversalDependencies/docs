@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cătălina Mărănduc, Cenel-Augusto Perez, Victoria Bobicev, Cătălin Mititelu, Florinel Hociung, Valentin Roșca, Roman Untilov, Petru Rebeja.
 
 Repository: [UD_Romanian-Nonstandard](https://github.com/UniversalDependencies/UD_Romanian-Nonstandard)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,7 +86,7 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
 
 ## Features
 
-[AdpType](ro_nonstandard-feat-AdpType.html) – [Case](ro_nonstandard-feat-Case.html) – [Compound](ro_nonstandard-feat-Compound.html) – [Definite](ro_nonstandard-feat-Definite.html) – [Degree](ro_nonstandard-feat-Degree.html) – [Gender](ro_nonstandard-feat-Gender.html) – [Mood](ro_nonstandard-feat-Mood.html) – [Number](ro_nonstandard-feat-Number.html) – [Number[psor]](ro_nonstandard-feat-Number-psor.html) – [NumForm](ro_nonstandard-feat-NumForm.html) – [NumType](ro_nonstandard-feat-NumType.html) – [PartType](ro_nonstandard-feat-PartType.html) – [Person](ro_nonstandard-feat-Person.html) – [Polarity](ro_nonstandard-feat-Polarity.html) – [Polite](ro_nonstandard-feat-Polite.html) – [Position](ro_nonstandard-feat-Position.html) – [Poss](ro_nonstandard-feat-Poss.html) – [PronType](ro_nonstandard-feat-PronType.html) – [Reflex](ro_nonstandard-feat-Reflex.html) – [Strength](ro_nonstandard-feat-Strength.html) – [Tense](ro_nonstandard-feat-Tense.html) – [Variant](ro_nonstandard-feat-Variant.html) – [VerbForm](ro_nonstandard-feat-VerbForm.html)
+[AdpType](ro_nonstandard-feat-AdpType.html) – [Case](ro_nonstandard-feat-Case.html) – [Compound](ro_nonstandard-feat-Compound.html) – [Definite](ro_nonstandard-feat-Definite.html) – [Degree](ro_nonstandard-feat-Degree.html) – [Gender](ro_nonstandard-feat-Gender.html) – [Mood](ro_nonstandard-feat-Mood.html) – [Number](ro_nonstandard-feat-Number.html) – [Number[psor]](ro_nonstandard-feat-Number-psor.html) – [NumForm](ro_nonstandard-feat-NumForm.html) – [NumType](ro_nonstandard-feat-NumType.html) – [PartType](ro_nonstandard-feat-PartType.html) – [Person](ro_nonstandard-feat-Person.html) – [Polarity](ro_nonstandard-feat-Polarity.html) – [Polite](ro_nonstandard-feat-Polite.html) – [Position](ro_nonstandard-feat-Position.html) – [Poss](ro_nonstandard-feat-Poss.html) – [PronType](ro_nonstandard-feat-PronType.html) – [Reflex](ro_nonstandard-feat-Reflex.html) – [Strength](ro_nonstandard-feat-Strength.html) – [Tense](ro_nonstandard-feat-Tense.html) – [Typo](ro_nonstandard-feat-Typo.html) – [Variant](ro_nonstandard-feat-Variant.html) – [VerbForm](ro_nonstandard-feat-VerbForm.html)
 
 ## Relations
 
@@ -847,6 +847,18 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
       <li>Weak
         <ul>
           <li>PRON: să, -i, -l, s-, le, mă, i-, l-, o, se</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADP: pînă</li>
         </ul>
       </li>
     </ul>

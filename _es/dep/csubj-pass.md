@@ -13,4 +13,4 @@ as the subject of another, passive clause.
 Es sabido que Maria llega siempre tarde . \n It is known that Maria arrives always late .
 csubj:pass(sabido, llega)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:20 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:03 CEST -->

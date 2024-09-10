@@ -10,10 +10,10 @@ This relation is a language-specific subtype of <tt><a href="es_gsd-dep-aux.html
 
 1849 nodes (0%) are attached to their parents as `aux:pass`.
 
-1818 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09302325581395.
+1819 instances of `aux:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08166576527853.
 
-The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1828; 99% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1829; 99% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	4	case	_	_
-4	1952	1952	NUM	_	NumType=Card	2	obl	_	SpaceAfter=No
+4	1952	1952	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

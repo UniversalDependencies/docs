@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Teresa Paccosi, Alessio Palmero Aprosio, Sara Tonelli.
 
 Repository: [UD_Italian-MarkIT](https://github.com/UniversalDependencies/UD_Italian-MarkIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_markit211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_markit214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY 4.0
 

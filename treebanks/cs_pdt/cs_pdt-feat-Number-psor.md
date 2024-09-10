@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_pdt-feat-Number.html">Number</a></tt>, <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-9415 tokens (1%) have a non-empty value of `Number[psor]`.
-108 types (0%) occur at least once with a non-empty value of `Number[psor]`.
-9 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (9415; 1% instances).
+2123 tokens (1%) have a non-empty value of `Number[psor]`.
+81 types (0%) occur at least once with a non-empty value of `Number[psor]`.
+5 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (2123; 1% instances).
 
 ### `DET`
 
-9415 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+2123 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (9415; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9030; 96%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8757; 93%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (6494; 69%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5949; 63%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5447; 58%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5031; 53%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (2123; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2019; 95%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1960; 92%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (1404; 66%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1282; 60%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1151; 54%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1151; 54%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_pdt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jejích</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pdt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>její</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>její</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pdt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>její</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_pdt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Fem</tt>|<tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>její</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc,Neut</tt>|<tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jeho</em></td></tr>
   <tr><td><tt><tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>jejich</em></td><td></td></tr>
 </table>
@@ -50,5 +50,5 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (13; 57%).
+<tt>DET --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).
 

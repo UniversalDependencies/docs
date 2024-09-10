@@ -27,4 +27,4 @@ forms a single structure with the complement to express its grammatical and sema
 However, there are some (very few) fixed expressions that are loans from the Turkish language, where ADPs occur as postpositions: 
 - *tómu hatýr <b>ičín</b>* "for his sake"
 
-<!-- Interlanguage links updated Po lis 14 15:34:29 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->

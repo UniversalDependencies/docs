@@ -72,10 +72,10 @@ The following 3 pairs of parts of speech are connected with `dislocated:obj`: <t
 # visual-style 13 7 dislocated:obj	color:blue
 1	Et	et	CCONJ	co	_	13	cc	_	_
 2	quod	quod	SCONJ	cs	PronType=Rel	7	mark	_	_
-3	tunc	tunc	ADV	r	PronType=Dem	13	advmod	_	_
+3	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	13	advmod:tmod	_	_
 4	humanum	humanus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	5	amod	_	_
 5	genus	genus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	7	nsubj	_	_
-6	fuerit	sum	AUX	va5crs3	Aspect=Perf|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
+6	fuerit	sum	AUX	va5crs3	Aspect=Perf|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
 7	felix	felix	ADJ	ans2n	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	13	dislocated:obj	_	_
 8	in	in	ADP	e	_	11	case	_	_
 9	pacis	pax	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	11	nmod	_	_
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:obj`: <t
 22	scriba	scriba	NOUN	sms1n	Case=Nom|Gender=Masc|InflClass=IndEurA|Number=Sing	26	nsubj	_	_
 23	mansuetudinis	mansuetudo	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	22	nmod	_	_
 24	Cristi	christus	PROPN	Sms2g	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Sur|Number=Sing	23	nmod	_	_
-25	testari	testor	VERB	vd1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	26	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+25	testari	testor	VERB	vd1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	26	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 26	dignatus	dignor	VERB	vd1irs3	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	13	conj	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 27	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 28	;	;	PUNCT	Pu	_	39	punct	_	_
@@ -160,13 +160,13 @@ The following 3 pairs of parts of speech are connected with `dislocated:obj`: <t
 38	quicquid	quisquis	PRON	prisna	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	40	obj	_	_
 39	Deus	deus	NOUN	Sms2	Gender=Masc|InflClass=IndEurO|NameType=Rel|Number=Sing|Proper=Yes	40	nsubj	_	_
 40	dixit	dico	VERB	va3irs3	Aspect=Perf|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	dislocated:obj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
-41	,	,	PUNCT	Pu	_	43	punct	_	_
+41	,	,	PUNCT	Pu	_	40	punct	_	_
 42	hoc	hic	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	43	obj	_	_
 43	fecit	facio	VERB	va3irs3	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	36	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 44	solum	solus	DET	dpnsa	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	43	advcl:pred	_	_
 45	et	et	CCONJ	co	_	47	cc	_	_
 46	hoc	hic	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	47	obj	_	_
-47	retulit	refero	VERB	v5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
+47	retulit	refero	VERB	v5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 48	.	.	PUNCT	Pu	_	4	punct	_	_
 
 ~~~

@@ -136,4 +136,4 @@ Post-verbal aspect markers include 過 _guo3_ (experiential), 住 _zyu6_ (conti
 4	him."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:10 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:45 CEST -->

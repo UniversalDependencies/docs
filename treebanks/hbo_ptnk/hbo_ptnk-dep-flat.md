@@ -18,25 +18,24 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat	color:blue
-1	חֲמֵ֨שׁ	חמשׁ	NUM	subs	Number=Sing|NumType=Card	3	nummod	_	Ref=GEN_7.20
-2	עֶשְׂרֵ֤ה	עשׂרה	NUM	subs	Number=Sing|NumType=Card	1	flat	_	Ref=GEN_7.20
-3	אַמָּה֙	אמה	NOUN	subs	Gender=Fem|Number=Sing	7	obl	_	Ref=GEN_7.20
-4	מן	מן	ADP	prep	_	6	case	_	Ref=GEN_7.20
-5	ל	ל	ADP	prep	_	6	case	_	Ref=GEN_7.20
-6	מעל	מעל	NOUN	subs	Number=Sing	3	nmod	_	Ref=GEN_7.20
-7	גָּבְר֖וּ	גבר	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_7.20
-8	ה	ה	DET	art	PronType=Art	9	det	_	Ref=GEN_7.20
-9	מים	מים	NOUN	subs	Gender=Masc|Number=Plur	7	nsubj	_	Ref=GEN_7.20
-10	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_7.20
-11	כסה	כסה	VERB	verb	Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	Ref=GEN_7.20
-12	ה	ה	DET	art	PronType=Art	13	det	_	Ref=GEN_7.20
-13	הר	הר	NOUN	subs	Gender=Masc|Number=Plur	11	nsubj	_	Ref=GEN_7.20
-14	׃	׃	PUNCT	punct	_	7	punct	_	Ref=GEN_7.20
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 flat	color:blue
+1	אֵ֚לֶּה	אלה	PRON	prde	Number=Plur|PronType=Dem	2	nsubj	_	Gloss=these|Ref=GEN_46.22
+2	בְּנֵ֣י	בן	NOUN	subs	Gender=Masc|Number=Plur	0	root	_	Gloss=son|Ref=GEN_46.22
+3	רָחֵ֔ל	רחל	PROPN	nmpr	Gender=Fem|Number=Sing	2	compound:smixut	_	Gloss=Rachel|Ref=GEN_46.22
+4	אֲשֶׁ֥ר	אשׁר	SCONJ	conj	_	5	mark	_	Gloss=<relative>|Ref=GEN_46.22
+5	יֻלַּ֖ד	ילד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	acl	_	Gloss=bear|Ref=GEN_46.22
+6	לְ	ל	ADP	prep	_	7	case	_	Gloss=to|Ref=GEN_46.22
+7	יַעֲקֹ֑ב	יעקב	PROPN	nmpr	Gender=Masc|Number=Sing	5	obl	_	Gloss=Jacob|Ref=GEN_46.22
+8	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	11	nsubj	_	Gloss=whole|Ref=GEN_46.22|SpaceAfter=No
+9	־	־	PUNCT	punct	_	10	punct	_	Ref=GEN_46.22|SpaceAfter=No
+10	נֶ֖פֶשׁ	נפשׁ	NOUN	subs	Gender=Fem|Number=Sing	8	compound:smixut	_	Gloss=soul|Ref=GEN_46.22
+11	אַרְבָּעָ֥ה	ארבע	NUM	subs	Gender=Fem|Number=Sing|NumType=Card	2	parataxis	_	Gloss=four|Ref=GEN_46.22
+12	עָשָֽׂר	עשׂר	NUM	subs	Number=Sing|NumType=Card	11	flat	_	Gloss=-teen|Ref=GEN_46.22|SpaceAfter=No
+13	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_46.22
 
 ~~~
 

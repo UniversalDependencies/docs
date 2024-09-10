@@ -21,4 +21,4 @@ discourse(Brava, complimenti)
 ~~~
 
 <code>discourse:emo</code> is used in PoSTWITA for emoticons/emojis.
-<!-- Interlanguage links updated Po lis 14 15:35:23 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:08 CEST -->

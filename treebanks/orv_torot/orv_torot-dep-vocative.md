@@ -8,57 +8,58 @@ udver: '2'
 
 This relation is universal.
 
-1261 nodes (1%) are attached to their parents as `vocative`.
+1167 nodes (0%) are attached to their parents as `vocative`.
 
-632 instances of `vocative` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.99682791435369.
+731 instances of `vocative` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.51670951156812.
 
-The following 37 pairs of parts of speech are connected with `vocative`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (401; 32% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (330; 26% instances), <tt><a href="orv_torot-pos-X.html">X</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (155; 12% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (43; 3% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (34; 3% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (30; 2% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (27; 2% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (25; 2% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (22; 2% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (21; 2% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (21; 2% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (20; 2% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (16; 1% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-X.html">X</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `vocative`: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (818; 70% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (45; 4% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (42; 4% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (41; 4% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (39; 3% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (35; 3% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (30; 3% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (26; 2% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (21; 2% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 vocative	color:blue
-1	и	и	CCONJ	C-	_	3	cc	_	ref=
-2	не	не	ADV	Df	Polarity=Neg	3	advmod	_	ref=
-3	ими	яти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
-4	кнѧже	кънязь	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	ref=
-5	вѣрꙑ	вѣра	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obj	_	ref=
-6	брат҃и	братия	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	nmod	_	ref=
-7	наю	вѣ	PRON	Pp	Case=Gen|Gender=Masc|Number=Dual|Person=1|PronType=Prs	6	det	_	ref=
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 vocative	color:blue
+1	нѣтъ	нѣту	VERB	V-	_	0	root	_	ref=12
+2	ничево	ничьто	PRON	Px	Case=Gen|Gender=Neut|Number=Sing	1	nsubj	_	ref=12
+3	кот	котъ	NOUN	F-	_	1	vocative	_	ref=12
+4	ачюк	ачукъ	NOUN	F-	_	1	vocative	_	ref=12
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 vocative	color:blue
-1	се	се	INTJ	I-	_	2	vocative	_	Ref=53.25
-2	посла	посълати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=53.25
-3	ны	мы	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obj	_	Ref=53.25
-4	ц҃рь	цѣсарь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Ref=53.25
+# visual-style 1 3 vocative	color:blue
+1	а	а	CCONJ	C-	_	0	root	_	ref=7
+2	се	се	INTJ	I-	_	1	discourse	_	ref=7
+3	ѡло	оло	NOUN	F-	_	1	vocative	_	ref=7
+4	ѡло	оло	NOUN	F-	_	1	vocative	_	ref=7
+5	абрь	абрь	NOUN	F-	_	1	vocative	_	ref=7
+6	ѡло	оло	NOUN	F-	_	1	vocative	_	ref=7
+7	акъ	акъ	NOUN	F-	_	1	vocative	_	ref=7
+8	ѡло	оло	NOUN	F-	_	1	vocative	_	ref=7
+9	керимъ	керимъ	NOUN	F-	_	1	vocative	_	ref=7
+10	ѡло	оло	NOUN	F-	_	1	vocative	_	ref=7
+11	рагымъ	рагымъ	NOUN	F-	_	1	vocative	_	ref=7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 vocative	color:blue
-1	ших꙽бъ	шихбъ	X	F-	_	0	root	_	Ref=9
-2	алѹдинъ	алудинъ	X	F-	_	1	vocative	_	Ref=9
-3	пїръ	пиръ	X	F-	_	1	vocative	_	Ref=9
-4	атыръ	атыръ	X	F-	_	1	vocative	_	Ref=9
-5	бозаръ	базаръ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	vocative	_	Ref=9
-6	алѧдинандъ	алядинандъ	X	F-	_	1	vocative	_	Ref=9
+# visual-style 1 3 vocative	color:blue
+1	Ѽ	о	INTJ	I-	_	0	root	_	ref=23
+2	безѹмнїи	безумьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	ref=23
+3	чл҃цы	человѣкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	vocative	_	ref=23
 
 ~~~
 

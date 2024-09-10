@@ -27,10 +27,10 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=119608|AlignEnd=119608
 3	bah	bah	INTJ	_	_	6	discourse	_	AlignBegin=119608|AlignEnd=119925|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=119925|AlignEnd=119925
-5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=119925|AlignEnd=120243
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=119925|AlignEnd=120243
 6	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=120243|AlignEnd=120561|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	AlignBegin=120561|AlignEnd=120561
-8	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	AlignBegin=120561|AlignEnd=120878
+8	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	AlignBegin=120561|AlignEnd=120878
 9	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	parataxis	_	AlignBegin=120878|AlignEnd=121196
 10	raison	raison	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	AlignBegin=121196|AlignEnd=121513|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	AlignBegin=121513|AlignEnd=121513
@@ -52,13 +52,13 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	,	,	PUNCT	_	_	1	punct	_	_
 5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	SpaceAfter=No
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	reparandum	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	11	punct	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
 8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	nsubj	_	SpaceAfter=No
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	pas	pas	ADV	_	_	11	advmod	_	_
 11	possible	possible	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
-13	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
+13	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
 14	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
 15	pas	pas	ADV	_	_	14	advmod	_	_
 16	connaître	connaître	VERB	_	VerbForm=Inf	14	xcomp	_	SpaceAfter=No|Subject=SubjRaising
@@ -73,16 +73,16 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 parataxis	color:blue
-1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 3	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	oui	oui	ADV	_	_	3	obj	_	Reported=Yes
 5	pour	pour	ADP	_	_	6	case	_	_
 6	preuve	preuve	NOUN	_	Gender=Fem|Number=Sing	9	obl:mod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
+8	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	SpaceAfter=No
 9	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
-10	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	11	det	_	_
+10	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
 11	sœur	sœur	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
 12	qui	qui	PRON	_	PronType=Rel	14	reparandum	_	_
 13	euh	euh	INTJ	_	_	14	discourse	_	_
@@ -96,7 +96,7 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 21	plus	plus	ADV	_	_	22	advmod	_	_
 22	claire	clair	ADJ	_	Gender=Fem|Number=Sing	27	reparandum	_	_
 23	que	que	SCONJ	_	_	24	case	_	_
-24	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	22	obl:mod	_	_
+24	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	22	obl:mod	_	_
 25	qui	qui	PRON	_	PronType=Rel	27	nsubj	_	_
 26	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
 27	claire	clair	ADJ	_	Gender=Fem|Number=Sing	11	acl:relcl	_	_

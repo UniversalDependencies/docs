@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1925 nodes (1%) are attached to their parents as `ccomp`.
+2022 nodes (1%) are attached to their parents as `ccomp`.
 
-1897 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.29298701298701.
+1865 instances of `ccomp` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.86300692383778.
 
-The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1415; 74% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (250; 13% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (105; 5% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (102; 5% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-DET.html">DET</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1528; 76% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (274; 14% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (116; 6% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (43; 2% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="sl_ssj-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="sl_ssj-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sl_ssj-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_ssj-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 ccomp	color:blue
-1	Že	že	PART	Q	_	3	advmod	_	NER=O
+1	Že	že	PART	Q	_	2	advmod	_	NER=O
 2	dolgo	dolgo	ADV	Rgp	Degree=Pos	3	advmod	_	NER=O
 3	poslušam	poslušati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	NER=O
 4	in	in	CCONJ	Cc	_	5	cc	_	NER=O
@@ -60,23 +60,24 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 11 ccomp	color:blue
-1	Z	z	ADP	Si	Case=Ins	2	case	_	NER=O
-2	leti	leto	NOUN	Ncnpi	Case=Ins|Gender=Neut|Number=Plur	4	obl	_	NER=O
-3	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	NER=O
-4	spoznal	spoznati	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	NER=O|SpaceAfter=No
-5	,	,	PUNCT	Z	_	11	punct	_	NER=O
-6	da	da	SCONJ	Cs	_	11	mark	_	NER=O
-7	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	NER=O
-8	Fara	Fara	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	NER=O
-9	nenavadno	nenavadno	ADV	Rgp	Degree=Pos	10	advmod	_	NER=O
-10	zanimiva	zanimiv	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	NER=O
-11	vas	vas	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	ccomp	_	NER=O|SpaceAfter=No
-12	.	.	PUNCT	Z	_	4	punct	_	NER=O
+# visual-style 11 6 ccomp	color:blue
+1	"	"	PUNCT	Z	_	6	punct	_	NER=O|SpaceAfter=No
+2	Kdo	kdo	PRON	Pq-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	6	nsubj	_	NER=O
+3	pa	pa	CCONJ	Cc	_	6	advmod	_	NER=O
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	NER=O
+5	afriška	afriški	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	NER=O
+6	osebnost	osebnost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	11	ccomp	_	NER=O
+7	stoletja	stoletje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	NER=O|SpaceAfter=No
+8	?	?	PUNCT	Z	_	6	punct	_	NER=O|SpaceAfter=No
+9	"	"	PUNCT	Z	_	6	punct	_	NER=O
+10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	NER=O
+11	spraševal	spraševati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	NER=O
+12	dalje	dalje	ADV	Rgp	Degree=Pos	11	advmod	_	NER=O|SpaceAfter=No
+13	.	.	PUNCT	Z	_	11	punct	_	NER=O
 
 ~~~
 

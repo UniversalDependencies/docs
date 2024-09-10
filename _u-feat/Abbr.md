@@ -23,4 +23,4 @@ Note: This feature is new in UD version 2. It was used as a language-specific ad
 
 * [en] _<b>etc.</b>, <b>J.</b>, <b>UK</b>_
 
-<!-- Interlanguage links updated Po lis 14 15:34:39 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:45 CEST -->

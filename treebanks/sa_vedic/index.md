@@ -16,11 +16,11 @@ Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v2.6 release.
 
-The following people have contributed to making this treebank part of UD: Salvatore Scarlata, Elia Ackermann, Oliver Hellwig, Erica Biagetti, Paul Widmer.
+The following people have contributed to making this treebank part of UD: Salvatore Scarlata, Elia Ackermann, Oliver Hellwig, Erica Biagetti, Paul Widmer, Sven Sellmer.
 
 Repository: [UD_Sanskrit-Vedic](https://github.com/UniversalDependencies/UD_Sanskrit-Vedic)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_vedic211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_vedic214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,38 +73,50 @@ year = {2020}
 }
 ```
 
+An updated overview of the annotation procedure and coverage can be found here:
+
+```
+@article{vedic-parser,
+title = {Data-driven Dependency Parsing of {V}edic {S}anskrit},
+author = {Hellwig, Oliver and Nehrdich, Sebastian and Sellmer, Sven},
+journal = {Language Resources \& Evaluation},
+volume = {57},
+pages = {1173--1206},
+year = {2023}
+}
+```
+
 ## Train-test split
 
-Following the UD recommendations, documents are kept together when generating the train and test splits.
-For all texts but the ŚB, a ``document'' means a hymn (metrical texts) or a chapter (prose texts).
-As only few, but rather long chapters of the ŚB have been annotated, ``documents'' are text lines (each of which contains more than one sentence in most cases) separated by double dandas in the case of the ŚB.
-
+Following the UD recommendations, documents are kept together when generating the train, test and dev splits.
+For the Vedic data, the term "document" means a hymn (metrical texts) or a chapter (prose texts).
+Some of these documents are not complete, meaning that not the whole chapter or hymn was annotated. This happens quite often with the Rigveda.
 
 
 ## Acknowledgments
 
-The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ackermann, and Erica Biagetti.
+The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ackermann, Erica Biagetti, and Sven Sellmer.
 
 
 # Statistics of UD Sanskrit Vedic
 
 ## POS Tags
 
-[ADJ](sa_vedic-pos-ADJ.html) – [ADV](sa_vedic-pos-ADV.html) – [AUX](sa_vedic-pos-AUX.html) – [CCONJ](sa_vedic-pos-CCONJ.html) – [DET](sa_vedic-pos-DET.html) – [NOUN](sa_vedic-pos-NOUN.html) – [NUM](sa_vedic-pos-NUM.html) – [PART](sa_vedic-pos-PART.html) – [PRON](sa_vedic-pos-PRON.html) – [SCONJ](sa_vedic-pos-SCONJ.html) – [VERB](sa_vedic-pos-VERB.html)
+[ADJ](sa_vedic-pos-ADJ.html) – [ADP](sa_vedic-pos-ADP.html) – [ADV](sa_vedic-pos-ADV.html) – [AUX](sa_vedic-pos-AUX.html) – [CCONJ](sa_vedic-pos-CCONJ.html) – [DET](sa_vedic-pos-DET.html) – [INTJ](sa_vedic-pos-INTJ.html) – [NOUN](sa_vedic-pos-NOUN.html) – [NUM](sa_vedic-pos-NUM.html) – [PART](sa_vedic-pos-PART.html) – [PRON](sa_vedic-pos-PRON.html) – [SCONJ](sa_vedic-pos-SCONJ.html) – [VERB](sa_vedic-pos-VERB.html)
 
 ## Features
 
-[Case](sa_vedic-feat-Case.html) – [Gender](sa_vedic-feat-Gender.html) – [Mood](sa_vedic-feat-Mood.html) – [Number](sa_vedic-feat-Number.html) – [Person](sa_vedic-feat-Person.html) – [Tense](sa_vedic-feat-Tense.html) – [VerbForm](sa_vedic-feat-VerbForm.html) – [Voice](sa_vedic-feat-Voice.html)
+[Case](sa_vedic-feat-Case.html) – [Compound](sa_vedic-feat-Compound.html) – [Gender](sa_vedic-feat-Gender.html) – [Mood](sa_vedic-feat-Mood.html) – [Number](sa_vedic-feat-Number.html) – [Person](sa_vedic-feat-Person.html) – [Tense](sa_vedic-feat-Tense.html) – [VerbForm](sa_vedic-feat-VerbForm.html) – [Voice](sa_vedic-feat-Voice.html)
 
 ## Relations
 
-[acl](sa_vedic-dep-acl.html) – [advcl](sa_vedic-dep-advcl.html) – [advmod](sa_vedic-dep-advmod.html) – [amod](sa_vedic-dep-amod.html) – [appos](sa_vedic-dep-appos.html) – [aux](sa_vedic-dep-aux.html) – [case](sa_vedic-dep-case.html) – [cc](sa_vedic-dep-cc.html) – [ccomp](sa_vedic-dep-ccomp.html) – [compound](sa_vedic-dep-compound.html) – [conj](sa_vedic-dep-conj.html) – [cop](sa_vedic-dep-cop.html) – [csubj](sa_vedic-dep-csubj.html) – [det](sa_vedic-dep-det.html) – [discourse](sa_vedic-dep-discourse.html) – [dislocated](sa_vedic-dep-dislocated.html) – [fixed](sa_vedic-dep-fixed.html) – [flat](sa_vedic-dep-flat.html) – [iobj](sa_vedic-dep-iobj.html) – [mark](sa_vedic-dep-mark.html) – [nmod](sa_vedic-dep-nmod.html) – [nsubj](sa_vedic-dep-nsubj.html) – [nummod](sa_vedic-dep-nummod.html) – [obj](sa_vedic-dep-obj.html) – [obl](sa_vedic-dep-obl.html) – [orphan](sa_vedic-dep-orphan.html) – [parataxis](sa_vedic-dep-parataxis.html) – [root](sa_vedic-dep-root.html) – [vocative](sa_vedic-dep-vocative.html) – [xcomp](sa_vedic-dep-xcomp.html)
+[acl](sa_vedic-dep-acl.html) – [acl:attr](sa_vedic-dep-acl-attr.html) – [acl:cont](sa_vedic-dep-acl-cont.html) – [acl:crel](sa_vedic-dep-acl-crel.html) – [acl:dpct](sa_vedic-dep-acl-dpct.html) – [acl:pred](sa_vedic-dep-acl-pred.html) – [acl:ptcp](sa_vedic-dep-acl-ptcp.html) – [acl:relcl](sa_vedic-dep-acl-relcl.html) – [advcl](sa_vedic-dep-advcl.html) – [advcl:caus](sa_vedic-dep-advcl-caus.html) – [advcl:ccomp](sa_vedic-dep-advcl-ccomp.html) – [advcl:concess](sa_vedic-dep-advcl-concess.html) – [advcl:cond](sa_vedic-dep-advcl-cond.html) – [advcl:consec](sa_vedic-dep-advcl-consec.html) – [advcl:dpct](sa_vedic-dep-advcl-dpct.html) – [advcl:fin](sa_vedic-dep-advcl-fin.html) – [advcl:lcl](sa_vedic-dep-advcl-lcl.html) – [advcl:manner](sa_vedic-dep-advcl-manner.html) – [advcl:tcl](sa_vedic-dep-advcl-tcl.html) – [advmod](sa_vedic-dep-advmod.html) – [amod](sa_vedic-dep-amod.html) – [appos](sa_vedic-dep-appos.html) – [aux](sa_vedic-dep-aux.html) – [case](sa_vedic-dep-case.html) – [case:sim](sa_vedic-dep-case-sim.html) – [cc](sa_vedic-dep-cc.html) – [ccomp](sa_vedic-dep-ccomp.html) – [ccomp:rel](sa_vedic-dep-ccomp-rel.html) – [compound](sa_vedic-dep-compound.html) – [compound:coord](sa_vedic-dep-compound-coord.html) – [compound:name](sa_vedic-dep-compound-name.html) – [conj](sa_vedic-dep-conj.html) – [cop](sa_vedic-dep-cop.html) – [csubj](sa_vedic-dep-csubj.html) – [det](sa_vedic-dep-det.html) – [discourse](sa_vedic-dep-discourse.html) – [dislocated](sa_vedic-dep-dislocated.html) – [fixed](sa_vedic-dep-fixed.html) – [flat](sa_vedic-dep-flat.html) – [iobj](sa_vedic-dep-iobj.html) – [mark](sa_vedic-dep-mark.html) – [mark:sim](sa_vedic-dep-mark-sim.html) – [nmod](sa_vedic-dep-nmod.html) – [nmod:appos](sa_vedic-dep-nmod-appos.html) – [nmod:pred](sa_vedic-dep-nmod-pred.html) – [nsubj](sa_vedic-dep-nsubj.html) – [nummod](sa_vedic-dep-nummod.html) – [obj](sa_vedic-dep-obj.html) – [obl](sa_vedic-dep-obl.html) – [obl:agent](sa_vedic-dep-obl-agent.html) – [obl:benef](sa_vedic-dep-obl-benef.html) – [obl:goal](sa_vedic-dep-obl-goal.html) – [obl:grad](sa_vedic-dep-obl-grad.html) – [obl:instr](sa_vedic-dep-obl-instr.html) – [obl:lmod](sa_vedic-dep-obl-lmod.html) – [obl:manner](sa_vedic-dep-obl-manner.html) – [obl:path](sa_vedic-dep-obl-path.html) – [obl:soc](sa_vedic-dep-obl-soc.html) – [obl:source](sa_vedic-dep-obl-source.html) – [obl:tmod](sa_vedic-dep-obl-tmod.html) – [orphan](sa_vedic-dep-orphan.html) – [parataxis](sa_vedic-dep-parataxis.html) – [root](sa_vedic-dep-root.html) – [vocative](sa_vedic-dep-vocative.html) – [xcomp](sa_vedic-dep-xcomp.html) – [xcomp:result](sa_vedic-dep-xcomp-result.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 3997 sentences and 27117 tokens.</li>
+<li>This corpus contains 27182 sentences and 206440 tokens.</li>
 </ul>
 
 <ul>
@@ -127,31 +139,32 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 11 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: PROPN, ADP, INTJ, SYM, PUNCT, X</li>
+<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: PROPN, SYM, PUNCT, X</li>
 </ul>
 
 <ul>
-<li>This corpus contains 14 word types tagged as particles (PART): a, aṅga, cit, eva, evā, ha, id, iti, iva, mā, na, nā, u, yathā</li>
+<li>This corpus contains 46 word types tagged as particles (PART): a, aha, an, api, aṅga, cana, cit, eva, evā, gha, ghā, ha, hi, id, iti, iva, ivā, kam, khalu, kila, kilā, kimu, kuvid, mā, na, nahi, nakir, nanu, no, nu, nvai, nvāva, nā, nū, samaha, sma, smā, svid, tu, u, vai, vāva, yatha, yathā, ū, ṇa</li>
 </ul>
 
 <ul>
-<li>This corpus contains 27 lemmas tagged as pronouns (PRON): adas, anya, anyatara, apara, atas, eka, enad, etad, idam, itara, ka, katama, kaścana, kaścit, kiṃca, mad, nima, para, pūrva, sama, tad, tva, tvad, tya, ubh, yad, yatama</li>
+<li>This corpus contains 53 lemmas tagged as pronouns (PRON): adas, ama, aneka, anya, anyatara, anyonya, apara, atas, bahu, cana, eka, ekaika, ekaścana, enad, etad, eva, idam, itara, ka, katama, katara, kati, kaya, kaścana, kaścit, kiṃca, kutas, loga, mad, nakir, nima, para, pramara, pūrva, sa, sama, sarva, sima, tad, taka, tatas, tena, tva, tvad, tya, ubh, upa, viśva, yad, yaka, yat, yatama, yatara</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as determiners (DET): anyaka, bahu, ititha, puru, sarva, sva, tatitha, ubhaya, viśva, yatitha</li>
+<li>This corpus contains 27 lemmas tagged as determiners (DET): anyaka, anyatama, bahu, bhūri, bhūyiṣṭha, etāvat, ititha, iyat, jīva, kṛtsna, nikhila, nitya, pratyakṣa, puru, sakala, samāna, sva, svaka, tatitha, tāvaka, tāvat, ubhaya, viśva, yatitha, yādṛś, yāvat, āmuṣyāyaṇa</li>
 </ul>
 
 <ul>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: bahu, viśva</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): as, bhū, i, kṛ, śak</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): as, bhū, car, e, i, sthā, ās</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: as, bhū, i, kṛ, śak</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: as, bhū, car, e, i, sthā, ās</li>
 </ul>
 
 <ul>
@@ -161,7 +174,7 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: bhūtvā, kṛtvā, āptvā, iṣṭvā, paryetya, grāhayitvā, apahatya, dṛṣṭvā, sambhūya, upakalpya</li>
+    <li>VERB: kṛtvā, hutvā, ādāya, bhūtvā, nidhāya, gṛhītvā, iṣṭvā, gatvā, ādhāya, upasamādhāya</li>
   </ul>
   </li>
 </ul>
@@ -169,7 +182,7 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Gdv
   <ul>
-    <li>VERB: anūcyaḥ, anūcyam, kartavyam, ādṛtyam, anūcyāni, kartavyaḥ, atikramya, aśitavyam, deyam, havya</li>
+    <li>VERB: ādheyaḥ, deyam, hotavyam, ādṛtyam, anūcyaḥ, etavyam, upajīvanīyaḥ, kāryam, īḍyam, havyaḥ</li>
   </ul>
   </li>
 </ul>
@@ -177,7 +190,7 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: jīvase, dṛśe, janitoḥ, starītave, attave, bhartave, bhavitoḥ, cakṣase, etum, hiṃsitoḥ</li>
+    <li>VERB: avase, jīvase, dṛśe, pītaye, grahītum, vītaye, jīvitum, bhuje, dāvane, janayitavai</li>
   </ul>
   </li>
 </ul>
@@ -185,8 +198,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Part
   <ul>
-    <li>AUX: san, santam, satīm, bhavantaḥ, sataḥ, satī</li>
-    <li>VERB: vidvān, samṛddham, yajamānaḥ, jātaḥ, upahūtā, kriyamāṇam, yajamānasya, yajamānāya, yajamānam, gṛhītaḥ</li>
+    <li>AUX: san, santam, sat, sataḥ, satī, satām, satīm, bhavantaḥ, sadbhyaḥ, santaḥ</li>
+    <li>VERB: vidvān, yajamānaḥ, _, yajamānam, yajamānasya, jātaḥ, uktam, samṛddham, yajamānāya, hutam</li>
   </ul>
   </li>
 </ul>
@@ -201,14 +214,14 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: uttamām, svayā, prathamām, apagā, kāminī, uttamayā, vichandasaḥ, abhirūpā, atithimatī, brāhmaṇaspatyām</li>
-      <li>AUX-Part: satīm, satī</li>
-      <li>DET: sarvāḥ, sarvābhyaḥ, sarvābhiḥ, viśvāḥ, itithīm, sarvasyai, sarvāsām, svayā, ubhayyaḥ, sarvāsu</li>
-      <li>NOUN: kṛtyā, vaśā, devatāḥ, diśaḥ, āpaḥ, iḍā, vāc, prajā, devatayā, diśam</li>
-      <li>NUM: tisraḥ, trayastriṃśat, aṣṭau, aṣṭābhiḥ, dvayoḥ, catasraḥ, catasṛbhiḥ, pañca, ekayā, pañcāśat</li>
-      <li>PRON: sā, tāḥ, tām, yāḥ, iyam, etāḥ, eṣā, yām, imāḥ, yā</li>
-      <li>VERB-Gdv: kartavyāḥ, anūcyāḥ, dveṣyā, kalpayitavyāḥ, kartavye</li>
-      <li>VERB-Part: upahūtā, kṛtā, samṛddhāḥ, jātā, bibhratī, pratibuddhāḥ, abhīṣṭāḥ, avasṛṣṭā, avattā, bhūtayā</li>
+      <li>ADJ: uttarām, uttarayā, prācīm, uttamām, prathamām, udīcīm, dhruvā, mahī, prathamā, revatīḥ</li>
+      <li>AUX-Part: satī, satīm, satīḥ</li>
+      <li>DET: viśvāḥ, svayā, pūrvīḥ, svā, svām, svāyai, svāyām, svāḥ, bahūḥ, tāvatīm</li>
+      <li>NOUN: āpaḥ, apaḥ, vāc, vācam, prajāḥ, prāyaścittiḥ, devatāḥ, vācā, apām, pṛthivī</li>
+      <li>NUM: tisraḥ, dvābhyām, catasraḥ, dve, tisṛbhiḥ, pañca, ekā, ekām, catasṛbhiḥ, daśa</li>
+      <li>PRON: sā, tām, tāḥ, eṣā, yā, iyam, yāḥ, etāḥ, etām, kā</li>
+      <li>VERB-Gdv: kāryā, dīkṣaṇīyāyāḥ, paridhānīyā, hotavye, dīkṣaṇīyāyām, havyā, kartavyāḥ, anugeyāḥ, anvārambhaṇīyām, anvārambhaṇīyāyām</li>
+      <li>VERB-Part: kṛtā, upahūtā, anvārabdhāyām, hutāyām, uśatīḥ, anvāyattā, anūktāyām, hutāḥ, jātāḥ, pratiṣṭhitā</li>
     </ul>
   </li>
 </ul>
@@ -216,15 +229,15 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: prathamaḥ, ūrdhvaḥ, medhyaḥ, priyaḥ, jāḥ, kṛtam, sarve, aindram, devatyaḥ, pāpmā</li>
-      <li>ADV: tena, sam, etena, tasya, sa</li>
-      <li>AUX-Part: san, santam, bhavantaḥ, sataḥ</li>
-      <li>DET: sarvān, sarve, sarveṣām, viśve, ubhayoḥ, sarvam, viśvaiḥ, viśvebhiḥ, anyake, bahave</li>
-      <li>NOUN: devāḥ, agniḥ, deva, indraḥ, indra, yajñasya, devānām, agne, kāmaḥ, paśavaḥ</li>
-      <li>NUM: sapta, trayaḥ, dvau, pañca, aṣṭau, caturaḥ, dvādaśā, ekam, ekaḥ, trīn</li>
-      <li>PRON: yaḥ, sa, enam, tam, asya, saḥ, asmai, ye, te, eṣa</li>
-      <li>VERB-Gdv: anūcyaḥ, kartavyaḥ, anumeyāḥ, asyāḥ, deyaḥ, dīkṣaṇīyam, guhyam, kartavyau, meyāḥ, pramocanīyaḥ</li>
-      <li>VERB-Part: vidvān, yajamānaḥ, jātaḥ, yajamānasya, yajamānāya, yajamānam, gṛhītaḥ, upahūtaḥ, upāptaḥ, samṛddhaḥ</li>
+      <li>ADJ: prathamaḥ, dakṣiṇam, viśve, mayaḥ, uttaram, vid, pratyaṅ, ūrdhvaḥ, dakṣiṇena, priyaḥ</li>
+      <li>ADV: sa, saḥ, tad, pūrvam, tasmāt, tam</li>
+      <li>AUX-Part: san, santam, sataḥ, satām, bhavantaḥ, sadbhyaḥ, santaḥ, tiṣṭhan</li>
+      <li>DET: viśve, sve, ubhayoḥ, bahavaḥ, svena, svāt, viśvāḥ, tāvantam, tāvataḥ, viśvebhiḥ</li>
+      <li>NOUN: agniḥ, devāḥ, agnim, agne, indraḥ, indra, prajāpatiḥ, lokam, yajñam, agneḥ</li>
+      <li>NUM: eke, ekaḥ, trayaḥ, dvau, pañca, sapta, ṣaṭ, trīn, ekam, catvāraḥ</li>
+      <li>PRON: yaḥ, saḥ, sa, tam, asya, enam, te, eṣa, ayam, tasya</li>
+      <li>VERB-Gdv: ādheyaḥ, anūcyaḥ, upajīvanīyaḥ, īḍyam, havyaḥ, īḍyaḥ, cityaḥ, kāryaḥ, labhyaḥ, anumādyaḥ</li>
+      <li>VERB-Part: vidvān, yajamānaḥ, yajamānam, yajamānasya, jātaḥ, yajamānāya, udite, yuktaḥ, jātam, pratiṣṭhitaḥ</li>
     </ul>
   </li>
 </ul>
@@ -232,14 +245,15 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: priyam, sarvam, arasam, abhirūpam, parokṣam, pratyakṣam, mahat, svena, bṛhat, indriyam</li>
-      <li>ADV: tat, etat, yat, tena, idam, adaḥ, aparam, catuḥ, etad, tasmāt</li>
-      <li>DET: viśvā, sarvāṇi, viśvam, sarvam, sarvaiḥ, sarveṣām, sarvā, viśvāni, sarvasya, svena</li>
-      <li>NOUN: anna, rūpa, brahma, vīryam, namaḥ, rūpam, manaḥ, annam, viṣam, dhāma</li>
-      <li>NUM: śatam, śata, sahasra, sapta, dvādaśa, sahasram, nava, śatāni, ekādaśa, trīṇi</li>
-      <li>PRON: tat, yat, etat, idam, tena, tāni, etena, kim, yena, aparam</li>
-      <li>VERB-Gdv: anūcyam, kartavyam, ādṛtyam, anūcyāni, aśitavyam, deyam, abhicaraṇīyam, avadānīyāni, caritavyam, drogdhavyam</li>
-      <li>VERB-Part: samṛddham, kriyamāṇam, kṛtam, otāni, upahūtam, avadīyamānasya, parimitam, saṃśitam, śrutam, bhaviṣyat</li>
+      <li>ADJ: priyam, bṛhat, uru, bhūyaḥ, paramam, mahat, samānam, mahi, tṛtīyam, parame</li>
+      <li>ADV: tat, etat, tad, idam, etad, adaḥ, kad, kim, aparam, pūrvam</li>
+      <li>AUX-Part: sat, sataḥ, sati, satā</li>
+      <li>DET: svena, viśvā, viśvāni, viśvam, svam, sve, viśvasmāt, bahu, purū, viśvasya</li>
+      <li>NOUN: brahma, annam, manaḥ, namaḥ, manasā, rūpam, agnihotram, ahar, jyotiḥ, cakṣuḥ</li>
+      <li>NUM: śatam, sapta, ekam, dvādaśa, trīṇi, sahasram, daśa, dve, nava, pañca</li>
+      <li>PRON: tat, yat, etat, idam, sarvam, tena, kim, tāni, enat, etāni</li>
+      <li>VERB-Gdv: deyam, hotavyam, ādṛtyam, etavyam, kāryam, bhogyam, pramaditavyam, anūcyam, kartavyam, bhavyam</li>
+      <li>VERB-Part: samṛddham, uktam, hutam, kṛtam, bhūtam, sat, iṣṭam, pratiṣṭhitam, adhyūḍham, gṛhītam</li>
     </ul>
   </li>
 </ul>
@@ -252,15 +266,16 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Dual
     <ul>
-      <li>ADJ: goptārau, haritau, niyutvatī, vāhau, graiṣmau, haimanau, mahī, mithunau, puraḥsarau, ubhayoḥ</li>
-      <li>AUX: āstām, bhavataḥ, syātām</li>
-      <li>DET: ubhayoḥ, ubhaye</li>
-      <li>NOUN: aśvinau, dyāvāpṛthivī, aśvinā, māsau, mitrāvaruṇau, triṣṭubhau, ahorātre, anuṣṭhātārau, barsau, gāyatryau</li>
-      <li>NUM: dvau, dvayoḥ, dvābhyām, dve</li>
-      <li>PRON: tau, vām, te, ete, ene, yuvam, enau, ime, etau, yau</li>
-      <li>VERB: bhavataḥ, anutiṣṭhataḥ, gopāyataḥ, pibatam, praṇīyamānābhyām, pātam, samṛddhe, īśāte, abrūtām, apāghnātām</li>
-      <li>VERB-Gdv: kartavyau, kartavye</li>
-      <li>VERB-Part: praṇīyamānābhyām, samṛddhe, prohyamāṇābhyām, saṃpariśrite, upahūte, bhiyāne, bhīte, bhūtau, prattau, pratte</li>
+      <li>ADJ: uttarābhyām, ubhayoḥ, goptārau, mahī, uttare, vārtraghnau, īśvarau, mayyau, mithunau, samanasau</li>
+      <li>AUX: bhavataḥ, syātām, sthaḥ, āstām, asāva, svaḥ, abhūtām, babhūvatuḥ, bhavathaḥ, bhūtas</li>
+      <li>AUX-Part: satī</li>
+      <li>DET: ubhayoḥ, ubhaye, purū, sve</li>
+      <li>NOUN: aśvinā, dyāvāpṛthivī, agnī, rodasī, apānau, bāhubhyām, hastābhyām, pavitre, ājyabhāgau, agnibhyām</li>
+      <li>NUM: dve, dvābhyām, dvau, dvayoḥ, dvā, śate, dvādaśau, trayastriṃśatau</li>
+      <li>PRON: vām, tau, yuvam, ete, ubhe, ubhau, te, tayoḥ, tābhyām, etau</li>
+      <li>VERB: bhavataḥ, sthaḥ, yātam, gopāyetām, pibatam, gopāyataḥ, pātam, aśnīyātām, bhavatam, gatam</li>
+      <li>VERB-Gdv: hotavye, caryau, havyā, kartavyau, kartavye, kāryau, pratiṣṭhāpye, saṃsṛjye, tyājyau, upasaṃgrāhyau</li>
+      <li>VERB-Part: aktau, akte, alaṃkṛtau, pariṣkṛtau, pūte, saṃpṛñcānau, saṃvidānau, jātau, praṇīyamānābhyām, samṛddhe</li>
     </ul>
   </li>
 </ul>
@@ -268,16 +283,16 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: sarve, samānān, arasān, puṇyāḥ, vichandasaḥ, viśve, adhare, daivyāḥ, revatīḥ, sarvān</li>
-      <li>AUX: bhavanti, santu, āsan, stha, bhavantu, syāma, abhūtana, sthana, syuḥ, āsuḥ</li>
-      <li>AUX-Part: bhavantaḥ</li>
-      <li>DET: sarvāḥ, sarveṣām, sarvān, sarve, viśve, viśvā, sarvāṇi, sarvaiḥ, sarvābhyaḥ, sarvā</li>
-      <li>NOUN: devāḥ, devānām, paśavaḥ, paśūn, devatāḥ, āpaḥ, marutaḥ, paśūnām, asurāḥ, devān</li>
-      <li>NUM: tisraḥ, aṣṭau, pañca, sapta, śatāni, trayaḥ, trīṇi, aṣṭābhiḥ, saptabhiḥ, catasraḥ</li>
-      <li>PRON: naḥ, ye, te, tāḥ, vaḥ, eṣām, tān, yāḥ, etāḥ, vayam</li>
-      <li>VERB: āhuḥ, akurvan, anuvyacalan, abruvan, yanti, bhavanti, abhavan, abhiśaṃsanti, yantu, ālabhanta</li>
-      <li>VERB-Gdv: anūcyāni, kartavyāḥ, anumeyāḥ, anūcyāḥ, asyāḥ, avadānīyāni, kalpayitavyāḥ, kartvāni, meyāḥ, rādhyāḥ</li>
-      <li>VERB-Part: samṛddhāḥ, devayantaḥ, otāni, bibhrataḥ, dipsataḥ, jātān, pratibuddhāḥ, upahūtāḥ, śatrūyatām, abhīṣṭāḥ</li>
+      <li>ADJ: viśve, amṛtāḥ, sudānavaḥ, vidaḥ, viśvā, śucayaḥ, kṛtaḥ, revatīḥ, priyāḥ, viśvadevyāvatīḥ</li>
+      <li>AUX: bhavanti, syuḥ, santu, syāma, stha, āsan, santi, bhavantu, yanti, āsuḥ</li>
+      <li>AUX-Part: satām, bhavantaḥ, sadbhyaḥ, santaḥ, satīḥ</li>
+      <li>DET: viśvāḥ, viśvā, viśve, viśvāni, bahavaḥ, pūrvīḥ, viśveṣu, purū, viśvebhiḥ, svāḥ</li>
+      <li>NOUN: devāḥ, āpaḥ, apaḥ, devānām, paśavaḥ, devān, prajāḥ, devebhyaḥ, paśūn, devatāḥ</li>
+      <li>NUM: eke, pañca, tisraḥ, trayaḥ, trīṇi, sapta, catasraḥ, ṣaṭ, tisṛbhiḥ, aṣṭau</li>
+      <li>PRON: naḥ, te, ye, vaḥ, tāḥ, tān, vayam, yāḥ, ete, eṣām</li>
+      <li>VERB: āhuḥ, bhavanti, abruvan, yanti, ācakṣate, abhavan, juhvati, āyan, viduḥ, stha</li>
+      <li>VERB-Gdv: kāryāḥ, anūcyāni, vaktavyāḥ, kartavyāḥ, pacanīyaiḥ, abhijayyāḥ, abhivādyāḥ, abhiyaṣṭavyāḥ, anugeyāḥ, anumeyāḥ</li>
+      <li>VERB-Part: vadantaḥ, vidvāṃsaḥ, devayantaḥ, jātāḥ, yuktāḥ, uśatīḥ, vājayantaḥ, śuddhāḥ, hutāḥ, sutāsaḥ</li>
     </ul>
   </li>
 </ul>
@@ -285,17 +300,17 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: priyam, prathamaḥ, sarvam, uttamām, arasam, ūrdhvaḥ, medhyaḥ, priyaḥ, svayā, āgneyam</li>
-      <li>ADV: tat, etat, tena, yat, idam, adaḥ, aparam, catuḥ, etad, etena</li>
-      <li>AUX: asi, bhavati, astu, syāt, asaḥ, san, āsīt, asat, asmi, asti</li>
-      <li>AUX-Part: san, santam, satīm, sataḥ, satī</li>
-      <li>DET: sarvam, viśvam, itithīm, sarvasya, sarvasyai, sarveṇa, svayā, sve, svena, viśvasya</li>
-      <li>NOUN: agniḥ, indraḥ, yajñasya, agne, kāmaḥ, yajñam, lokam, vīryam, yajñaḥ, brahma</li>
-      <li>NUM: śatam, sapta, dvādaśa, sahasram, nava, ekādaśa, daśa, ekam, sahasrasya, dvādaśā</li>
-      <li>PRON: yaḥ, sa, enam, tat, tam, te, yat, asya, saḥ, tvā</li>
-      <li>VERB: bhavati, veda, anvāha, ālabheta, āha, uvāca, vidvān, anuvyacalat, abhavat, dadhāti</li>
-      <li>VERB-Gdv: anūcyaḥ, anūcyam, kartavyam, ādṛtyam, kartavyaḥ, aśitavyam, deyam, abhicaraṇīyam, caritavyam, deyaḥ</li>
-      <li>VERB-Part: vidvān, samṛddham, yajamānaḥ, jātaḥ, upahūtā, kriyamāṇam, yajamānasya, yajamānāya, yajamānam, gṛhītaḥ</li>
+      <li>ADJ: dakṣiṇam, priyam, prathamaḥ, uttaram, mayaḥ, bṛhat, uttarām, uttamam, samānam, paramam</li>
+      <li>ADV: tat, etat, tad, idam, etad, sa, adaḥ, pūrvam, saḥ, kad</li>
+      <li>AUX: bhavati, asi, syāt, āsīt, astu, asmi, san, asti, santam, asat</li>
+      <li>AUX-Part: san, santam, sat, sataḥ, satī, satīm, sati, satā, tiṣṭhan</li>
+      <li>DET: svena, svayā, sve, viśvam, svam, viśvasmāt, bahu, svā, viśvasya, svām</li>
+      <li>NOUN: agniḥ, agnim, agne, brahma, indraḥ, indra, prajāpatiḥ, lokam, annam, yajñam</li>
+      <li>NUM: śatam, ekaḥ, ekam, sapta, dvādaśa, sahasram, daśa, nava, ekā, ekām</li>
+      <li>PRON: yaḥ, tat, saḥ, yat, sa, te, tvā, tam, asya, enam</li>
+      <li>VERB: bhavati, veda, asi, uvāca, āha, juhoti, juhuyāt, karoti, vidvān, yajamānaḥ</li>
+      <li>VERB-Gdv: ādheyaḥ, deyam, hotavyam, ādṛtyam, anūcyaḥ, etavyam, upajīvanīyaḥ, kāryam, īḍyam, havyaḥ</li>
+      <li>VERB-Part: vidvān, yajamānaḥ, yajamānam, yajamānasya, jātaḥ, uktam, samṛddham, yajamānāya, hutam, jātam</li>
     </ul>
   </li>
 </ul>
@@ -307,13 +322,14 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: bhadrāt, dakṣiṇāyāḥ, dhruvāt, dhruvāyāḥ, pratīcyāḥ, prācyāḥ, sarvebhyaḥ, udīcyāḥ, ūrdhvāyāḥ, asitāt</li>
+      <li>ADJ: caturviṃśāt, ṣoḍaśāt, asataḥ, bhadrāt, uttarāt, bṛhataḥ, dvāviṃśāt, savyāt, uttarasmāt, ṣaṣṭhāt</li>
       <li>ADV: tasmāt</li>
-      <li>DET: sarvābhyaḥ</li>
-      <li>NOUN: antardeśāt, diśaḥ, rakṣobhyaḥ, araṇyāt, aṃhasaḥ, agneḥ, divaḥ, mukhataḥ, devebhyaḥ, pṛthivyāḥ</li>
-      <li>NUM: sahasrāt, trayodaśāt</li>
-      <li>PRON: asmat, tasmāt, mat, asmāt, tvat, ebhyaḥ, tasyāḥ, anyebhyaḥ, atas, etasyāḥ</li>
-      <li>VERB-Part: ālabdhāt, chinnāt, adhyastāt, jāyamānāt, mṛtāt, yajamānāt, āyataḥ</li>
+      <li>DET: viśvasmāt, svāt, viśvebhyaḥ, viśvāt</li>
+      <li>NOUN: divaḥ, agneḥ, lokāt, aṃhasaḥ, pṛthivyāḥ, tvāt, madhyāt, devebhyaḥ, pāśāt, yoneḥ</li>
+      <li>NUM: sahasrāt, dvāviṃśateḥ, pañcabhyaḥ, saptabhyaḥ, tisṛbhyaḥ, trayastriṃśataḥ, tribhyaḥ, śatāt</li>
+      <li>PRON: asmāt, tasmāt, asmat, mat, tvat, etasmāt, ebhyaḥ, tasyāḥ, sarvasmāt, yasmāt</li>
+      <li>VERB-Gdv: dīkṣaṇīyāyāḥ, saṃdeśyāt, bībhatseyāt, prasneyāt</li>
+      <li>VERB-Part: ālabdhāt, yajamānāt, abhitaptebhyaḥ, chinnāt, hutāt, jvalataḥ, nikhātāt, sataḥ, sthitāt, taptāt</li>
     </ul>
   </li>
 </ul>
@@ -321,15 +337,15 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: uttamām, priyam, āgneyam, prathamām, kṛtam, pratyakṣam, ādam, aindram, parokṣam, samānān</li>
-      <li>ADV: tat, etat, idam, adaḥ, yat, aparam, catuḥ, etad, kim, tad</li>
-      <li>AUX-Part: santam, satīm</li>
-      <li>DET: sarvān, sarvāḥ, sarvam, viśvā, viśvam, sarvā, viśvāḥ, itithīm, sarvāṇi, svam</li>
-      <li>NOUN: yajñam, lokam, paśūn, somam, agnim, svargam, vīryam, diśam, vācam, annam</li>
-      <li>NUM: sapta, śatam, tisraḥ, aṣṭau, dvādaśa, sahasram, ṣaḍ, caturaḥ, ekam, pañca</li>
-      <li>PRON: enam, tam, tvā, tat, naḥ, mā, tām, imam, yat, tān</li>
-      <li>VERB-Gdv: dīkṣaṇīyam, guhyam, saṃveśyam</li>
-      <li>VERB-Part: kriyamāṇam, yajamānam, samṛddhāḥ, sutam, vidvāṃsam, dipsataḥ, jātam, jātān, samṛddham, abhiśasyamānam</li>
+      <li>ADJ: dakṣiṇam, uttaram, priyam, uttarām, prāñcam, uru, bṛhat, udañcam, uttamam, tṛtīyam</li>
+      <li>ADV: tat, etat, tad, idam, etad, adaḥ, kad, pūrvam, aparam, kim</li>
+      <li>AUX-Part: santam, sat, satīm, satīḥ</li>
+      <li>DET: viśvā, viśvāḥ, viśvāni, viśvam, svam, purū, svām, tāvantam, tāvataḥ, bahu</li>
+      <li>NOUN: agnim, lokam, yajñam, apaḥ, devān, vācam, indram, ātmānam, svargam, paśūn</li>
+      <li>NUM: sapta, śatam, tisraḥ, pañca, ekam, trīṇi, dve, sahasram, trīn, daśa</li>
+      <li>PRON: tvā, tam, enam, tat, naḥ, tām, yat, mā, etat, yam</li>
+      <li>VERB-Gdv: īḍyam, bhogyam, hotavyam, praṇayanīyam, saṃbhāryam, vedyam, abhivādanīyam, darśanīyam, havyam, kāryam</li>
+      <li>VERB-Part: yajamānam, jātam, juṣṭam, sutam, bhūtam, saṃmitam, kriyamāṇam, gṛhītam, sahamānam, yuktam</li>
     </ul>
   </li>
 </ul>
@@ -337,12 +353,14 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: kṛte, niyutvate, śaśvatībhyaḥ, dātre, ghne, mahate, yāvadbhyaḥ, arbhakebhyaḥ, avarāya, avyathyāya</li>
-      <li>DET: sarvasyai, sarvābhyaḥ, bahave, sarvebhyaḥ</li>
-      <li>NOUN: samṛddhyai, agnaye, indrāya, vāyave, devebhyaḥ, tvāya, bhūtyai, kāmāya, rājñe, balāya</li>
-      <li>NUM: caturbhyaḥ</li>
-      <li>PRON: asmai, te, naḥ, tasmai, me, mahyam, tubhyam, asmabhyam, asyai, tasyai</li>
-      <li>VERB-Part: yajamānāya, dāśuṣe, mathyamānāya, praṇīyamānābhyām, prohyamāṇābhyām, sunvate, upākṛtāya, śapathīyate, abhiṣiktāya, ajyamānāya</li>
+      <li>ADJ: mahe, mahate, sviṣṭakṛte, niyutvate, catuṣpade, kṛte, viśvebhyaḥ, bṛhate, dātre, ghne</li>
+      <li>AUX-Part: sadbhyaḥ</li>
+      <li>DET: svāyai, viśvasmai, bahave, svāya, ubhayāya, viśvebhyaḥ, yāvadbhyaḥ</li>
+      <li>NOUN: agnaye, devebhyaḥ, indrāya, tvāya, brahmaṇe, pitṛbhyaḥ, ūtaye, somāya, samṛddhyai, ātmane</li>
+      <li>NUM: śatāya, sahasrāya, caturbhyaḥ, dvābhyām, ekaviṃśataye, saptabhyaḥ, tribhyaḥ</li>
+      <li>PRON: naḥ, asmai, te, me, tasmai, vaḥ, tebhyaḥ, asyai, mahyam, asmabhyam</li>
+      <li>VERB-Gdv: madyāya, upasadyāya, vedyāya</li>
+      <li>VERB-Part: yajamānāya, dāśuṣe, mathyamānāya, dviṣate, jātāya, ajyamānāya, sunvate, ucchrīyamāṇāya, praṇīyamānāya, āsīnāya</li>
     </ul>
   </li>
 </ul>
@@ -350,14 +368,14 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: prāyaṇīyasya, sviṣṭakṛtaḥ, sarvāsām, svānām, agnīṣomīyasya, amṛtānām, arasasya, bahūnām, dakṣiṇāyāḥ, dhruvāyāḥ</li>
-      <li>ADV: tasya</li>
-      <li>AUX-Part: sataḥ</li>
-      <li>DET: sarveṣām, sarvasya, sarvāsām, viśvasya, viśveṣām</li>
-      <li>NOUN: yajñasya, devānām, paśūnām, apām, somasya, agneḥ, diśaḥ, brahmaṇaḥ, chandasām, indrasya</li>
-      <li>NUM: sahasrasya, aṣṭānām, dvayoḥ, trayāṇām, śatasya</li>
-      <li>PRON: asya, te, tasya, naḥ, me, eṣām, yasya, vaḥ, mama, etasya</li>
-      <li>VERB-Part: yajamānasya, avadīyamānasya, carataḥ, dīkṣitasya, śatrūyatām, hutasya, jāyamānasya, kṛtasya, prasthitasya, samiddhasya</li>
+      <li>ADJ: viśvasya, mahaḥ, aryaḥ, bṛhataḥ, sviṣṭakṛtaḥ, uttarasya, svānām, samānānām, mahīnām, ubhayoḥ</li>
+      <li>AUX-Part: sataḥ, satām</li>
+      <li>DET: viśvasya, svasya, viśveṣām, bahūnām, ubhayoḥ, etāvataḥ, ubhayeṣām, viśvasyāḥ, viśvāsām, yāvatīnām</li>
+      <li>NOUN: yajñasya, devānām, agneḥ, apām, divaḥ, indrasya, pṛthivyāḥ, sūryasya, devasya, paśūnām</li>
+      <li>NUM: ekeṣām, dvayoḥ, sahasrasya, caturṇām, śatasya, ekasya, daśānām, ekasyāḥ, saptānām, trayāṇām</li>
+      <li>PRON: asya, te, tasya, me, naḥ, yasya, vaḥ, mama, eṣām, teṣām</li>
+      <li>VERB-Gdv: dīkṣaṇīyāyāḥ, geyānām, japyasya, prasthānīyāyāḥ, pratigṛhyasya, vadhyānām, īḍyasya</li>
+      <li>VERB-Part: yajamānasya, kṛtasya, dīkṣitasya, sutasya, hutasya, uktasya, carataḥ, jātasya, bhūtasya, gṛhītasya</li>
     </ul>
   </li>
 </ul>
@@ -365,13 +383,15 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: svayā, svena, ādena, kevalena, uttamayā, aindreṇa, annādyā, annādībhiḥ, bhūyasībhiḥ, daivyena</li>
-      <li>ADV: tena, etena</li>
-      <li>DET: sarvaiḥ, sarvābhiḥ, sarveṇa, svayā, svena, viśvaiḥ, viśvebhiḥ</li>
-      <li>NOUN: devatayā, bhāgadheyena, brahmaṇā, manasā, indriyeṇa, vācā, haviṣā, agninā, paśunā, pāpmanā</li>
-      <li>NUM: aṣṭābhiḥ, saptabhiḥ, catasṛbhiḥ, dvābhyām, ekayā, daśabhiḥ, ekaviṃśatyā, ekena, pañcabhiḥ, tisṛbhiḥ</li>
-      <li>PRON: tena, etena, anena, yena, taiḥ, tayā, etayā, tvayā, etābhiḥ, tābhiḥ</li>
-      <li>VERB-Part: viduṣā, bhūtayā, śrutena, avaglāyatā, dattena, dīkṣitena, juṣāṇena, krīyamāṇena, pratibruvadbhiḥ, satā</li>
+      <li>ADJ: uttarayā, dakṣiṇena, savyena, uttareṇa, gāyatreṇa, uttaraiḥ, uttarābhiḥ, uttarābhyām, jāgatena, parokṣeṇa</li>
+      <li>ADV: tad, tena</li>
+      <li>AUX-Part: satā</li>
+      <li>DET: svena, svayā, viśvebhiḥ, svebhiḥ, viśvena, viśvābhiḥ, bahunā, svaiḥ, viśvaiḥ</li>
+      <li>NOUN: manasā, vācā, adbhiḥ, paśubhiḥ, brahmaṇā, ṛcā, bhāgadheyena, chandasā, prajayā, devatayā</li>
+      <li>NUM: dvābhyām, tisṛbhiḥ, catasṛbhiḥ, tribhiḥ, ekena, pañcabhiḥ, ṣaḍbhiḥ, caturbhiḥ, ekayā, saptabhiḥ</li>
+      <li>PRON: tena, etena, yena, tayā, tvayā, etayā, anena, sarvaiḥ, tābhiḥ, kena</li>
+      <li>VERB-Gdv: dveṣyeṇa, pacanīyaiḥ, bhavyena, kartvena, nirmanthyena, saṃsarjanīyaiḥ, vadhyena, ācamanīyābhiḥ</li>
+      <li>VERB-Part: viduṣā, gṛhītena, yuktena, yajamānena, uditena, bhrājatā, bhūtayā, davidyutatyā, dīkṣitena, gatena</li>
     </ul>
   </li>
 </ul>
@@ -379,12 +399,14 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Loc
     <ul>
-      <li>ADJ: mahati, prācyām, sve, sveṣu, amāvāsye, hiraṇyaye, svāyām, ubhayoḥ, āśvine, amṛteṣu</li>
-      <li>DET: ubhayoḥ, sve, sarveṣu, sarvāsu</li>
-      <li>NOUN: yajñe, loke, gṛhe, agnau, apsu, ātman, agre, divi, araṇye, deveṣu</li>
-      <li>NUM: dvayoḥ, triṣu, daśame, dvādaśe</li>
-      <li>PRON: asmin, asyām, mayi, tasyām, tasmin, eṣu, tāsu, amuṣmin, anye, asmāsu</li>
-      <li>VERB-Part: yajamāne, āgate, praṇīyamāne, utthite, anuvakṣyati, hutāyām, uktāyām, śasyamāne, adhiśrite, anubruvati</li>
+      <li>ADJ: dakṣiṇe, parame, uttame, tṛtīye, daghne, astamite, madhyame, mahati, puṇye, caturthe</li>
+      <li>AUX-Part: sati</li>
+      <li>DET: sve, ubhayoḥ, viśveṣu, svāyām, kṛtsne, nitye, samāne, tāvakeṣu, viśvāsu</li>
+      <li>NOUN: agnau, loke, agre, madhye, āhavanīye, apsu, divi, yajñe, ante, deveṣu</li>
+      <li>NUM: dvayoḥ, triṣu, ekasmin, pañcasu, tisṛṣu, catasṛṣu, daśasu, dvādaśasu, ekasyām, aṣṭāsu</li>
+      <li>PRON: asmin, tasmin, mayi, etasmin, asyām, yasmin, tasyām, teṣu, sarveṣu, tvayi</li>
+      <li>VERB-Gdv: dīkṣaṇīyāyām, anvārambhaṇīyāyām, bhavye, grāhye, jyeye</li>
+      <li>VERB-Part: udite, yajamāne, hute, anvārabdhāyām, hutāyām, jāte, pariśrite, anūktāyām, saṃsthite, vaṣaṭkṛte</li>
     </ul>
   </li>
 </ul>
@@ -392,15 +414,15 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: prathamaḥ, priyam, ūrdhvaḥ, medhyaḥ, priyaḥ, abhirūpam, arasam, jāḥ, sarvam, sarve</li>
-      <li>ADV: tat, yat, etat, sa</li>
-      <li>AUX-Part: san, bhavantaḥ, satī</li>
-      <li>DET: sarvāḥ, sarve, viśve, sarvāṇi, ubhayyaḥ, viśvam, viśvāni, anyake, bahu, sarvam</li>
-      <li>NOUN: agniḥ, devāḥ, indraḥ, kāmaḥ, paśavaḥ, yajñaḥ, prajāpatiḥ, somaḥ, vaśā, hotā</li>
-      <li>NUM: śatam, sapta, dvādaśa, nava, pañca, ekādaśa, sahasram, trayaḥ, aṣṭau, śatāni</li>
-      <li>PRON: yaḥ, sa, saḥ, yat, tat, sā, te, ye, tvam, eṣa</li>
-      <li>VERB-Gdv: anūcyaḥ, anūcyam, kartavyam, ādṛtyam, anūcyāni, kartavyaḥ, aśitavyam, deyam, kartavyāḥ, abhicaraṇīyam</li>
-      <li>VERB-Part: vidvān, samṛddham, yajamānaḥ, jātaḥ, upahūtā, gṛhītaḥ, kṛtā, upahūtaḥ, upāptaḥ, samṛddhaḥ</li>
+      <li>ADJ: prathamaḥ, mayaḥ, viśve, vid, pratyaṅ, ūrdhvaḥ, priyaḥ, dāḥ, śuciḥ, bhūyaḥ</li>
+      <li>ADV: tat, sa, tad, idam, saḥ, etad, etat, adaḥ, kim, pūrvam</li>
+      <li>AUX-Part: san, satī, sat, bhavantaḥ, santaḥ, tiṣṭhan</li>
+      <li>DET: viśve, viśvāḥ, viśvam, viśvā, svam, bahavaḥ, svā, ubhaye, viśvāni, bahu</li>
+      <li>NOUN: agniḥ, devāḥ, indraḥ, prajāpatiḥ, prāṇaḥ, āpaḥ, brahma, vāc, yajñaḥ, kāmaḥ</li>
+      <li>NUM: eke, ekaḥ, sapta, trayaḥ, pañca, śatam, ekam, tisraḥ, dve, dvādaśa</li>
+      <li>PRON: yaḥ, saḥ, sa, tat, yat, te, sā, eṣa, etat, tvam</li>
+      <li>VERB-Gdv: ādheyaḥ, deyam, ādṛtyam, anūcyaḥ, etavyam, upajīvanīyaḥ, hotavyam, havyaḥ, kāryam, kāryā</li>
+      <li>VERB-Part: vidvān, yajamānaḥ, jātaḥ, samṛddham, uktam, hutam, yuktaḥ, pratiṣṭhitaḥ, tiṣṭhan, uktaḥ</li>
     </ul>
   </li>
 </ul>
@@ -408,12 +430,12 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: vaśin, revatīḥ, sahure, santya, subhage, vaso, vājin, yaviṣṭha, adhrigo, alīkāḥ</li>
-      <li>DET: viśve</li>
-      <li>NOUN: agne, indra, oṣadhe, vrātya, soma, aśvinā, deva, jātavedaḥ, vaśe, marutaḥ</li>
+      <li>ADJ: bhagavan, vaso, bhagavaḥ, somyaiḥ, subhage, sudānavaḥ, adrivas, girvaṇaḥ, maghavan, revatīḥ</li>
+      <li>NOUN: agne, indra, deva, aśvinā, soma, jātavedaḥ, devāḥ, marutaḥ, oṣadhe, āpaḥ</li>
       <li>NUM: sapta</li>
-      <li>PRON: pare</li>
-      <li>VERB-Part: khāte, hūta, iṣita, samṛddha, saṃśite</li>
+      <li>PRON: asau, pare, sarvāḥ</li>
+      <li>VERB-Gdv: ardhya, kāmyāḥ, śaṃsya</li>
+      <li>VERB-Part: yajamāna, jāta, pavamāna, khāte, bhṛta, cikitvaḥ, huta, hūta, iṣita, jñāte</li>
     </ul>
   </li>
 </ul>
@@ -437,8 +459,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: astu, santu, bhavantu, edhi, bhava, bhavatu, bodhi</li>
-      <li>VERB: etu, jahi, cara, kṛdhi, dhehi, pātu, tiṣṭha, anubrūhi, kṛṇu, yajai</li>
+      <li>AUX: astu, santu, bhava, edhi, bhavantu, bhavatu, bhūtu, asāni, bhūtana</li>
+      <li>VERB: dhehi, bhava, anubrūhi, pāhi, ehi, etu, pātu, astu, kṛdhi, gaccha</li>
     </ul>
   </li>
 </ul>
@@ -446,8 +468,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: asi, bhavati, bhavanti, āsīt, āsan, asmi, asti, stha, abhūtana, sthana</li>
-      <li>VERB: bhavati, veda, anvāha, āhuḥ, āha, uvāca, anuvyacalat, abhavat, dadhāti, gacchati</li>
+      <li>AUX: bhavati, asi, bhavanti, āsīt, asmi, asti, stha, bhavataḥ, āsan, āsa</li>
+      <li>VERB: bhavati, veda, asi, uvāca, āha, juhoti, āhuḥ, karoti, abravīt, abhavat</li>
     </ul>
   </li>
 </ul>
@@ -455,8 +477,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Jus
     <ul>
-      <li>AUX: śakan</li>
-      <li>VERB: rūrupaḥ, dhāḥ, duḥ, karat, takṣan, vidan, vidat, anuvocaḥ, apagāḥ, bharan</li>
+      <li>AUX: bhūt, bhuvam, bhūma, bhūḥ, bhūta, bhūvan</li>
+      <li>VERB: hiṃsīḥ, dhāḥ, saṃvadiṣṭhāḥ, vidan, bhūt, vigāt, kaḥ, śaṃsiṣam, hāsiṣṭām, juṣanta</li>
     </ul>
   </li>
 </ul>
@@ -464,8 +486,16 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Opt
     <ul>
-      <li>AUX: syāt, syāma, syām, syuḥ, syātām, syāḥ</li>
-      <li>VERB: ālabheta, yājayet, anubrūyāt, kurvīta, kuryāt, brūyāt, jāyeta, icchet, iyāt, kīrtayet</li>
+      <li>AUX: syāt, syuḥ, syāma, syām, syātām, bhavet, syāḥ, bhūyāsam, bhūyāt, bhūyāma</li>
+      <li>VERB: juhuyāt, ālabheta, kuryāt, brūyāt, kāmayeta, kurvīta, dadyāt, japet, bhūyāsam, nirvapet</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>VERB: agrahaiṣyat, atrapsyat, abhaviṣyan, vyapatiṣyat, abhaviṣyat, abheṣyat, ajīviṣyam, aprākṣyaḥ, avakṣyam, avakṣyan</li>
     </ul>
   </li>
 </ul>
@@ -473,8 +503,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: asaḥ, asat, asasi, asāni, asati, bhuvat</li>
-      <li>VERB: asat, kṛṇavat, dadhat, āyati, ativardhā, bhavāsi, bhavāti, bibharāsi, dhāḥ, dipsāt</li>
+      <li>AUX: asat, asaḥ, asasi, asāni, asati, asan, bhavāti, asāma, asāva, bhuvat</li>
+      <li>VERB: asat, karat, kṛṇavat, parṣi, dadhat, pṛcchāsi, bhavāti, ciketati, dadat, dhāḥ</li>
     </ul>
   </li>
 </ul>
@@ -486,8 +516,9 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: utsrakṣyāmaḥ, pārayitāsmi, anuvakṣyati, bhaviṣyat, eṣyati, āgantā, abhidhrokṣyan, anuprajñāsyanti, avakalpayiṣyasi, bhavitā</li>
-      <li>VERB-Part: anuvakṣyati, bhaviṣyat, abhidhrokṣyan, kariṣyataḥ, lapsyamānaḥ, nidhāsyantaḥ, nihaniṣyantaḥ, yakṣyamāṇaḥ, ālapsyamānaḥ, āsatsyan</li>
+      <li>AUX: bhaviṣyati, bhaviṣyanti, bhavitā, bhavitāraḥ, bhavitāsmi, bhaviṣyasi, bhaviṣyata, bhaviṣyāmi</li>
+      <li>VERB: vyākhyāsyāmaḥ, bhaviṣyati, yakṣyamāṇaḥ, kariṣyati, vipatiṣyati, agrahaiṣyat, atrapsyat, atyeṣyanti, vakṣyāmaḥ, avitā</li>
+      <li>VERB-Part: yakṣyamāṇaḥ, bhaviṣyat, hoṣyan, kariṣyataḥ, nirvapsyan, pravatsyan, snāsyan, kariṣyan, vetsyan, abhiṣṭoṣyan</li>
     </ul>
   </li>
 </ul>
@@ -495,9 +526,9 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Past
     <ul>
-      <li>AUX: āsīt, āsan, abhūtana, āstām, āsa, āsuḥ, āyan, abhavat, abhūt, abhūvan</li>
-      <li>VERB: veda, anvāha, āhuḥ, āha, uvāca, vidvān, anuvyacalat, abhavat, samṛddham, upāsarat</li>
-      <li>VERB-Part: vidvān, samṛddham, jātaḥ, upahūtā, gṛhītaḥ, kṛtā, upahūtaḥ, upāptaḥ, samṛddhaḥ, samṛddhāḥ</li>
+      <li>AUX: āsīt, āsan, āsa, āsuḥ, āstām, abhūt, bhūt, abhūvam, babhūvuḥ, āyan</li>
+      <li>VERB: veda, uvāca, āha, āhuḥ, vidvān, abravīt, abhavat, _, asṛjata, anvāha</li>
+      <li>VERB-Part: vidvān, _, jātaḥ, uktam, samṛddham, hutam, jātam, udite, kṛtam, yuktaḥ</li>
     </ul>
   </li>
 </ul>
@@ -505,7 +536,7 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Pqp
     <ul>
-      <li>VERB: anannamuḥ, jagrabham</li>
+      <li>VERB: avāvaśanta, aśiśrayuḥ, cākan, acakriran, acucyavuḥ, adadhāvat, ajabhartana, ajagan, ajagmiran, ajuhuvuḥ</li>
     </ul>
   </li>
 </ul>
@@ -513,10 +544,10 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: asi, bhavati, astu, syāt, asaḥ, san, bhavanti, santu, asat, asmi</li>
-      <li>AUX-Part: san, santam, satīm, bhavantaḥ, sataḥ, satī</li>
-      <li>VERB: bhavati, ālabheta, dadhāti, gacchati, yajati, yajamānaḥ, āśāste, avarunddhe, upahvayate, etu</li>
-      <li>VERB-Part: yajamānaḥ, kriyamāṇam, yajamānasya, yajamānāya, yajamānam, yajamāne, devayantaḥ, abhicaran, caran, avadīyamānasya</li>
+      <li>AUX: bhavati, asi, syāt, bhavanti, astu, asmi, san, asti, santam, syuḥ</li>
+      <li>AUX-Part: san, santam, sat, sataḥ, satī, satām, satīm, bhavantaḥ, sadbhyaḥ, santaḥ</li>
+      <li>VERB: bhavati, asi, juhoti, juhuyāt, karoti, yajamānaḥ, ālabheta, dadhāti, kuryāt, eti</li>
+      <li>VERB-Part: yajamānaḥ, yajamānam, yajamānasya, yajamānāya, tiṣṭhan, sat, yajamāna, icchan, jāyamānaḥ, prajānan</li>
     </ul>
   </li>
 </ul>
@@ -528,8 +559,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: kriyamāṇam, kriyate, ālabhyate, avadīyamānasya, mathyamānāya, praṇīyamāne, praṇīyamānābhyām, ālabhyante, abhiśasyamānam, anuvidyate</li>
-      <li>VERB-Part: kriyamāṇam, avadīyamānasya, mathyamānāya, praṇīyamāne, praṇīyamānābhyām, abhiśasyamānam, prohyamāṇābhyām, śasyamāne, ajyamānāya, hūyamānāyām</li>
+      <li>VERB: kriyate, hūyate, gīyate, asṛjyata, mucyate, ucyate, kriyamāṇam, atimucyate, vidyate, vijñāyate</li>
+      <li>VERB-Part: kriyamāṇam, mathyamānāya, ajyamānāya, ucchrīyamāṇāya, duhyamānā, praṇīyamānāya, ucyamāne, nidhīyamānam, parivīyamāṇāya, prahriyamāṇāya</li>
     </ul>
   </li>
 </ul>
@@ -549,8 +580,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>1
     <ul>
-      <li>AUX: asmi, syāma, asāni, syām, bhavāmaḥ, smasi</li>
-      <li>VERB: yajai, kṛṇomi, utsrakṣyāmaḥ, vidma, agrabham, avocam, hanmi, havāmahe, muñcāmi, pārayitāsmi</li>
+      <li>AUX: asmi, syāma, syām, asāni, smaḥ, abhūvam, asāma, asāva, bhuvam, bhūma</li>
+      <li>VERB: bhūyāsam, havāmahe, veda, īmahe, upāse, vidma, vṛṇīmahe, prapadye, huve, kṛṇomi</li>
     </ul>
   </li>
 </ul>
@@ -558,8 +589,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>2
     <ul>
-      <li>AUX: asi, asaḥ, stha, asasi, edhi, abhūtana, sthana, bhava, bodhi, syāḥ</li>
-      <li>VERB: jahi, cara, kṛdhi, dhehi, tiṣṭha, anubrūhi, kṛṇu, bhava, piba, yajasva</li>
+      <li>AUX: asi, stha, asaḥ, bhava, edhi, sthaḥ, asasi, sthana, abhūtana, syāḥ</li>
+      <li>VERB: asi, dhehi, bhava, anubrūhi, pāhi, ehi, kṛdhi, stha, gaccha, jahi</li>
     </ul>
   </li>
 </ul>
@@ -567,8 +598,8 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <ul>
   <li>3
     <ul>
-      <li>AUX: bhavati, astu, syāt, bhavanti, āsīt, santu, asat, āsan, asti, bhavantu</li>
-      <li>VERB: bhavati, veda, anvāha, ālabheta, āhuḥ, āha, uvāca, anuvyacalat, abhavat, dadhāti</li>
+      <li>AUX: bhavati, syāt, bhavanti, āsīt, astu, asti, syuḥ, santu, asat, bhavataḥ</li>
+      <li>VERB: bhavati, veda, uvāca, āha, juhoti, āhuḥ, juhuyāt, karoti, abravīt, abhavat</li>
     </ul>
   </li>
 </ul>
@@ -579,6 +610,25 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Compound</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: _, prāc, viśva, udak, uttara, mahā, dakṣiṇa, kṛṣṇa, prathama, ardha</li>
+          <li>ADV: pūrva, sarva, sama, tad</li>
+          <li>DET: viśva, bahu, sva, _, puru, bhūri, ubhaya, jīva, samāna</li>
+          <li>NOUN: _, deva, brahma, indra, yajña, soma, ājya, paśu, anna, aśva</li>
+          <li>NUM: _, tri, eka, dvi, sahasra, śata, catur, dvādaśa, pañca, aṣṭa</li>
+          <li>PRON: _, sarva, tad, pūrva, anya, yad, etad, apara, para, eka</li>
+          <li>VERB-Gdv: _, abhivānya, anubandhya, anvārambhaṇīya, bhogya, citya, havya, upya, āhṛtya, ārabhya</li>
+          <li>VERB-Part: _, yajamāna, huta, kṛta, saṃsthita, suta, chinna, dhṛta, jarat, pūta</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -588,7 +638,7 @@ The annotation has been performed by Salvatore Scarlata, Oliver Hellwig, Elia Ac
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: as, bhū, i, śak, kṛ.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: bhū, as, i, ās, sthā, car, e.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -597,27 +647,32 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (12)</li>
-      <li>VERB--NOUN-Acc (1)</li>
-      <li>VERB--NOUN-Nom (957)</li>
-      <li>VERB--NOUN-Nom-ADP(iva) (1)</li>
-      <li>VERB--NOUN-Voc (2)</li>
-      <li>VERB--PRON-Acc (1)</li>
+      <li>VERB--NOUN (4)</li>
+      <li>VERB--NOUN-Acc (7)</li>
+      <li>VERB--NOUN-Nom (5193)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB--PRON-Acc (3)</li>
       <li>VERB--PRON-Gen (2)</li>
-      <li>VERB--PRON-Nom (847)</li>
-      <li>VERB-Conv--NOUN-Nom (5)</li>
-      <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Gdv--NOUN-Nom (17)</li>
-      <li>VERB-Gdv--PRON-Nom (13)</li>
-      <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
-      <li>VERB-Part--NOUN (2)</li>
-      <li>VERB-Part--NOUN-Gen (4)</li>
-      <li>VERB-Part--NOUN-Loc (25)</li>
-      <li>VERB-Part--NOUN-Nom (103)</li>
-      <li>VERB-Part--PRON-Gen (2)</li>
-      <li>VERB-Part--PRON-Loc (6)</li>
-      <li>VERB-Part--PRON-Nom (73)</li>
+      <li>VERB--PRON-Nom (3985)</li>
+      <li>VERB-Conv--NOUN-Nom (45)</li>
+      <li>VERB-Conv--PRON-Nom (17)</li>
+      <li>VERB-Gdv--NOUN-Nom (76)</li>
+      <li>VERB-Gdv--PRON-Nom (71)</li>
+      <li>VERB-Inf--NOUN-Dat (4)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--NOUN-Nom (12)</li>
+      <li>VERB-Inf--PRON-Dat (2)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--NOUN-Dat (1)</li>
+      <li>VERB-Part--NOUN-Gen (7)</li>
+      <li>VERB-Part--NOUN-Loc (181)</li>
+      <li>VERB-Part--NOUN-Nom (614)</li>
+      <li>VERB-Part--PRON-Acc (2)</li>
+      <li>VERB-Part--PRON-Gen (11)</li>
+      <li>VERB-Part--PRON-Loc (20)</li>
+      <li>VERB-Part--PRON-Nom (350)</li>
     </ul>
   </li>
 </ul>
@@ -625,32 +680,52 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (7)</li>
-      <li>VERB--NOUN-Acc (1141)</li>
+      <li>VERB--NOUN (4)</li>
+      <li>VERB--NOUN-Abl (3)</li>
+      <li>VERB--NOUN-Acc (7177)</li>
+      <li>VERB--NOUN-Acc-ADP(anu) (1)</li>
       <li>VERB--NOUN-Acc-ADP(apa) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(cit) (1)</li>
       <li>VERB--NOUN-Acc-ADP(upa) (1)</li>
-      <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Gen (11)</li>
-      <li>VERB--NOUN-Loc (1)</li>
-      <li>VERB--NOUN-Nom (2)</li>
-      <li>VERB--PRON-Acc (624)</li>
+      <li>VERB--NOUN-Dat (6)</li>
+      <li>VERB--NOUN-Gen (118)</li>
+      <li>VERB--NOUN-Ins (7)</li>
+      <li>VERB--NOUN-Loc (5)</li>
+      <li>VERB--NOUN-Nom (19)</li>
+      <li>VERB--NOUN-Voc (1)</li>
+      <li>VERB--PRON-Acc (3438)</li>
       <li>VERB--PRON-Acc-ADP(anu) (1)</li>
-      <li>VERB--PRON-Acc-ADP(pari) (2)</li>
-      <li>VERB--PRON-Acc-ADP(prati) (1)</li>
       <li>VERB--PRON-Acc-ADP(upa) (1)</li>
-      <li>VERB--PRON-Dat (2)</li>
-      <li>VERB--PRON-Gen (7)</li>
-      <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Conv--NOUN-Acc (56)</li>
-      <li>VERB-Conv--PRON-Acc (22)</li>
-      <li>VERB-Gdv--PRON-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Acc (4)</li>
-      <li>VERB-Inf--NOUN-Dat (3)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--PRON-Acc (4)</li>
-      <li>VERB-Part--NOUN-Acc (64)</li>
-      <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--PRON-Acc (10)</li>
+      <li>VERB--PRON-Dat (8)</li>
+      <li>VERB--PRON-Gen (53)</li>
+      <li>VERB--PRON-Loc (2)</li>
+      <li>VERB--PRON-Nom (7)</li>
+      <li>VERB-Conv--NOUN (2)</li>
+      <li>VERB-Conv--NOUN-Abl (1)</li>
+      <li>VERB-Conv--NOUN-Acc (1398)</li>
+      <li>VERB-Conv--NOUN-Dat (1)</li>
+      <li>VERB-Conv--NOUN-Gen (14)</li>
+      <li>VERB-Conv--NOUN-Nom (1)</li>
+      <li>VERB-Conv--PRON-Acc (190)</li>
+      <li>VERB-Conv--PRON-Gen (3)</li>
+      <li>VERB-Gdv--NOUN-Acc (2)</li>
+      <li>VERB-Gdv--NOUN-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Abl (1)</li>
+      <li>VERB-Inf--NOUN-Acc (28)</li>
+      <li>VERB-Inf--NOUN-Dat (8)</li>
+      <li>VERB-Inf--NOUN-Gen (8)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Inf--PRON-Acc (29)</li>
+      <li>VERB-Part--NOUN (9)</li>
+      <li>VERB-Part--NOUN-Acc (525)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(anu) (1)</li>
+      <li>VERB-Part--NOUN-Dat (1)</li>
+      <li>VERB-Part--NOUN-Gen (11)</li>
+      <li>VERB-Part--NOUN-Ins (1)</li>
+      <li>VERB-Part--NOUN-Loc (1)</li>
+      <li>VERB-Part--PRON-Acc (84)</li>
+      <li>VERB-Part--PRON-Dat (1)</li>
+      <li>VERB-Part--PRON-Gen (2)</li>
     </ul>
   </li>
 </ul>
@@ -658,30 +733,37 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Acc (21)</li>
-      <li>VERB--NOUN-Dat (156)</li>
-      <li>VERB--NOUN-Gen (4)</li>
-      <li>VERB--NOUN-Ins (1)</li>
-      <li>VERB--NOUN-Loc (1)</li>
-      <li>VERB--PRON-Acc (62)</li>
-      <li>VERB--PRON-Dat (176)</li>
-      <li>VERB--PRON-Gen (5)</li>
-      <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Conv--NOUN-Dat (2)</li>
-      <li>VERB-Conv--NOUN-Ins (1)</li>
-      <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Dat (4)</li>
-      <li>VERB-Gdv--NOUN-Dat (3)</li>
-      <li>VERB-Gdv--NOUN-Gen (3)</li>
-      <li>VERB-Gdv--PRON-Dat (1)</li>
-      <li>VERB-Gdv--PRON-Gen (2)</li>
-      <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Part--NOUN-Dat (9)</li>
-      <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Dat (5)</li>
-      <li>VERB-Part--PRON-Gen (4)</li>
+      <li>VERB--NOUN-Acc (238)</li>
+      <li>VERB--NOUN-Acc-ADP(prati) (1)</li>
+      <li>VERB--NOUN-Dat (530)</li>
+      <li>VERB--NOUN-Dat-ADP(kaṃ) (1)</li>
+      <li>VERB--NOUN-Gen (9)</li>
+      <li>VERB--NOUN-Loc (3)</li>
+      <li>VERB--PRON-Acc (393)</li>
+      <li>VERB--PRON-Acc-ADP(abhi) (1)</li>
+      <li>VERB--PRON-Dat (806)</li>
+      <li>VERB--PRON-Dat-ADP(kaṃ) (1)</li>
+      <li>VERB--PRON-Gen (15)</li>
+      <li>VERB--PRON-Ins (4)</li>
+      <li>VERB--PRON-Loc (3)</li>
+      <li>VERB-Conv--NOUN-Acc (37)</li>
+      <li>VERB-Conv--NOUN-Dat (28)</li>
+      <li>VERB-Conv--NOUN-Ins (3)</li>
+      <li>VERB-Conv--PRON-Acc (5)</li>
+      <li>VERB-Conv--PRON-Dat (17)</li>
+      <li>VERB-Gdv--NOUN-Dat (5)</li>
+      <li>VERB-Gdv--NOUN-Gen (1)</li>
+      <li>VERB-Gdv--PRON-Dat (2)</li>
+      <li>VERB-Gdv--PRON-Gen (1)</li>
+      <li>VERB-Inf--PRON-Acc (1)</li>
+      <li>VERB-Inf--PRON-Dat (2)</li>
+      <li>VERB-Part--NOUN (3)</li>
+      <li>VERB-Part--NOUN-Dat (24)</li>
+      <li>VERB-Part--NOUN-Gen (3)</li>
+      <li>VERB-Part--NOUN-Ins (1)</li>
+      <li>VERB-Part--PRON-Acc (3)</li>
+      <li>VERB-Part--PRON-Dat (27)</li>
+      <li>VERB-Part--PRON-Gen (13)</li>
     </ul>
   </li>
 </ul>
@@ -692,6 +774,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus does not use relation subtypes.</li>
+<li>This corpus uses 36 relation subtypes: <a>acl:attr</a>, <a>acl:cont</a>, <a>acl:crel</a>, <a>acl:dpct</a>, <a>acl:pred</a>, <a>acl:ptcp</a>, <a>acl:relcl</a>, <a>advcl:caus</a>, <a>advcl:ccomp</a>, <a>advcl:concess</a>, <a>advcl:cond</a>, <a>advcl:consec</a>, <a>advcl:dpct</a>, <a>advcl:fin</a>, <a>advcl:lcl</a>, <a>advcl:manner</a>, <a>advcl:tcl</a>, <a>case:sim</a>, <a>ccomp:rel</a>, <a>compound:coord</a>, <a>compound:name</a>, <a>mark:sim</a>, <a>nmod:appos</a>, <a>nmod:pred</a>, <a>obl:agent</a>, <a>obl:benef</a>, <a>obl:goal</a>, <a>obl:grad</a>, <a>obl:instr</a>, <a>obl:lmod</a>, <a>obl:manner</a>, <a>obl:path</a>, <a>obl:soc</a>, <a>obl:source</a>, <a>obl:tmod</a>, <a>xcomp:result</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
 </ul>

@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `nmod:appos`: <tt><a
 2	даснаныс	даснан	PRON	Pron	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	1	det	_	GTtags=AssocColl,Sg,Nom,PxSg3
 3	Понгорттуй	Понгорттуй	NOUN	N	Case=Nom|Number=Sing	4	nmod:appos	_	GTtags=Prop,Sg,Nom
 4	сиктӧдз	сикт	NOUN	N	Case=Ter|Number=Sing	5	obl:lmod	_	GTtags=Sg,Ter
-5	локтісны	локны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,Pl3|SpaceAfter=No
+5	локтісны	локны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Pl3|SpaceAfter=No
 6	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `nmod:appos`: <tt><a
 4	бой	бой	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom
 5	жӧ	жӧ	ADV	Adv	_	4	advmod:eval	_	GTtags=Parenthetic
 6	нин	нин	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
-7	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
+7	муніс	мунны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	12	punct	_	_
 9	«	«	PUNCT	PUNCT	_	10	punct	_	GTtags=LEFT|SpaceAfter=No
 10	ура	ура	INTJ	Interj	_	12	nmod:appos	_	SpaceAfter=No

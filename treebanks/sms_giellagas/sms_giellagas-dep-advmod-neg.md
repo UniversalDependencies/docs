@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 5	ij	ij	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	4	orphan	_	GTtags=Neg,Ind,Sg3
 6	ni	ni	PART	Pcle	Polarity=Neg	7	advmod:neg	_	GTtags=Pcle,Neg
 7	mâiʹd	mâiʹd	PRON	Pron	_	4	orphan	_	SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	15	punct	_	_
+8	,	,	PUNCT	CLB	_	15	punct	_	_
 9	ääkka	ääkkaž	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	10	nmod:poss	_	GTtags=Sem/Hum,Sg,Gen
 10	niõđâž	niõđâž	NOUN	N	Case=Nom|Number=Sing	15	nsubj	_	GTtags=Sg,Nom
 11	pâi	pâi	ADV	Adv	_	15	advmod	_	GTtags=@ADVL>
@@ -38,7 +38,7 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 13	da	da	CCONJ	CC	_	14	cc	_	_
 14	mannuin	mään	NOUN	N	Case=Com|Number=Sing	12	conj	_	GTtags=Sg,Com
 15	seârr	siõrrâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-16	,	,	PUNCT	PUNCT	_	18	punct	_	_
+16	,	,	PUNCT	CLB	_	18	punct	_	_
 17	kåʹllkåʹđđnjõõzzid	kåʹllkåʹđđnjõs	NOUN	N	Case=Acc|Number=Plur	18	obj	_	GTtags=Pl,Acc
 18	kååđđ	kååʹđđed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
@@ -86,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 4	di	di	CCONJ	CC	_	6	cc	_	_
 5	puk	puk	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	6	nsubj	_	GTtags=Pron,Sg,Nom
 6	poʹhtte	puʹhtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
-7	,	,	PUNCT	PUNCT	_	12	punct	_	_
+7	,	,	PUNCT	CLB	_	12	punct	_	_
 8	vuäʹbbes	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg3
 9	i-ǥõl	i-ǥõl	AUX	_	_	12	aux:neg	_	_
 10	ni	ni	PART	Pcle	Polarity=Neg	11	advmod:neg	_	GTtags=Pcle,Neg

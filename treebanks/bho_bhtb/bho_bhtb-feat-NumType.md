@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): फूहड़, बड़
-* `EMPTY` (248): पूरा, सांस्कृतिक, तथाकथित, प, बड़, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
+* `EMPTY` (247): पूरा, सांस्कृतिक, तथाकथित, प, बड़, छोट, भोजपुरिया, खास, चुपचाप, जरूरी
 
 ### `PROPN`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (2; 100% of non-empty `NumType`): 2012, 24
-* `EMPTY` (417): भोजपुरी, पाती, प्रियंका, सिंह, राय, जी, डॉ., पाण्डेय, चोपड़ा, डा॰
+* `EMPTY` (419): भोजपुरी, पाती, प्रियंका, सिंह, राय, जी, डॉ., पाण्डेय, चोपड़ा, डा॰
 
 ### `PART`
 

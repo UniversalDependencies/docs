@@ -15,7 +15,7 @@ The 10 most frequent `SCONJ` types:  <em>ma, pa, evit, Ma'z, A-raok, M', Mard, P
 
 The 10 most frequent ambiguous lemmas: <em>ma</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 27, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 17, <tt><a href="br_keb-pos-X.html">X</a></tt> 8), <em>evit</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 73, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 5), <em>dre</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 12, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kement</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 2, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>koulz</em> (<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="br_keb-pos-X.html">X</a></tt> 1), <em>tra</em> (<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> 18, <tt><a href="br_keb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="br_keb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 14, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="br_keb-pos-X.html">X</a></tt> 8), <em>evit</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 62, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 5), <em>dre</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kement</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>koulz</em> (<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="br_keb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 14, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="br_keb-pos-X.html">X</a></tt> 8), <em>evit</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 62, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 5), <em>dre</em> (<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 10, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>kement</em> (<tt><a href="br_keb-pos-DET.html">DET</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>koulz</em> (<tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="br_keb-pos-X.html">X</a></tt> 1)
 
 
 * <em>ma</em>
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="br_keb-pos-DET.
   * <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 62: <em>Beajoù a c'hellfe bezañ mat <b>evit</b> ho labour .</em>
   * <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 5: <em>Ur sinadeg a zo bet kinniget zoken <b>evit</b> ma vefe paouezet d' ober gant o .</em>
 * <em>dre</em>
-  * <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 7: <em>E gwerzh e r stalioù levrioù a ginnig danvez Breizh , pe <b>dre</b> goumanant .</em>
+  * <tt><a href="br_keb-pos-ADP.html">ADP</a></tt> 10: <em>E gwerzh e r stalioù levrioù a ginnig danvez Breizh , pe <b>dre</b> goumanant .</em>
   * <tt><a href="br_keb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Kement-se a zegasas un diskar e n dregantad a gembraegerien e r rannvroioù -se , <b>dre</b> ma oa kresket ar boblañs eno en un taol .</em>
 * <em>kement</em>
   * <tt><a href="br_keb-pos-DET.html">DET</a></tt> 1: <em>Galvet e oa <b>kement</b> den a oa war dro .</em>
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>ma</em> (<tt><a href="br_keb-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.555556 (the average of all parts of speech is 1.395336).
+The form / lemma ratio of `SCONJ` is 1.555556 (the average of all parts of speech is 1.395664).
 
 The 1st highest number of forms (5) was observed with the lemma “ma”: <em>M', Ma'z, Mard, ma, m’</em>.
 

@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
 ### Definition
@@ -35,4 +36,4 @@ form are used as adverbs, such as _hablar <b>alto</b>_ (“speak loudly”) or _
 These are still tagged as [ADJ]() and not `ADV`; note that their adverbial function is captured by the relation
 [advmod]().
 
-<!-- Interlanguage links updated Po lis 14 15:34:29 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:33 CEST -->

@@ -28,7 +28,7 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	það	það	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	2	obj	_	IFD_tag=fpheo
 5	inni	inni	ADV	ADV	_	2	advmod	_	IFD_tag=aa
 6	sko	sko	ADV	ADV	_	2	advmod	_	IFD_tag=aa|SpaceAfter=No
-7	,	,	PUNCT	,	_	6	punct	_	IFD_tag=|SpaceAfter=No
+7	,	,	PUNCT	,	_	6	punct	_	IFD_tag|SpaceAfter=No
 8	“	“	PUNCT	"	_	7	punct	_	IFD_tag=“
 9	sagði	segja	VERB	VBDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	IFD_tag=sfg3eþ
 10	Jón	jón	PROPN	NPR-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	IFD_tag=nken-s

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-190 tokens (0%) have a non-empty value of `Typo`.
-91 types (0%) occur at least once with a non-empty value of `Typo`.
-80 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 12 part-of-speech tags: <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (67; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (30; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+187 tokens (0%) have a non-empty value of `Typo`.
+89 types (0%) occur at least once with a non-empty value of `Typo`.
+79 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 12 part-of-speech tags: <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (64; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (30; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (24; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-67 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Typo`.
+64 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (67; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (67; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (67; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (65; 97%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (63; 94%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (63; 94%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt> (50; 75%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (64; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (63; 98%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt> (50; 78%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (67; 100% of non-empty `Typo`): <em>ամէնէն, ամէնուն, ամենքը, ամենը, որոնք, Ամենքնիս, որ, ուրիշեր</em>
+* `Yes` (64; 100% of non-empty `Typo`): <em>ամէնէն, ամէնուն, ամենքը, ամենը, Ամենքնիս, ուրիշեր</em>
 
 ### `VERB`
 

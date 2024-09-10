@@ -70,4 +70,4 @@ It is used for pronouns *o* 'he/she/it' and *onlar* 'they' and their inflected f
 * *(o) okudu* 'he/she read-PAST'
 * *(onlar) okudu(<b>lar</b>)* 'they read-PAST' -- note the optionality of the  agreement on the verb
 * *okudu<b>lar</b>* 'they read-PAST'
-<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:12 CEST -->

@@ -54,10 +54,10 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 1 <tt><a href="tr_pud-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `X` and `Definite` co-occurred: <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `X` and `Definite` co-occurred: <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `X` tokens may have the following values of `Definite`:
 
 * `Def` (1; 100% of non-empty `Definite`): <em>Her</em>
-* `EMPTY` (104): <em>the, of, North, Association, My, News, Really, Uber, You, lerin</em>
+* `EMPTY` (103): <em>the, of, North, Association, My, News, Really, Uber, You, 'da</em>
 

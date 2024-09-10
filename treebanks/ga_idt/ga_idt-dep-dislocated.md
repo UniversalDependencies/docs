@@ -100,7 +100,7 @@ The following 13 pairs of parts of speech are connected with `dislocated`: <tt><
 25	dhá	dó	NUM	Num	Form=Len|NumType=Card	26	nummod	_	_
 26	sheachtain	seachtain	NOUN	Noun	Case=Nom|Form=Len|Gender=Fem|Number=Sing	18	obl:tmod	_	_
 27	tar	tar	ADP	Cmpd	PrepForm=Cmpd	30	case	_	_
-28	éis	éis	NOUN	Cmpd	Case=Nom|Number=Sing|PrepForm=Cmpd	27	fixed	_	_
+28	éis	éis	NOUN	Cmpd	Case=Nom|Definite=Def|Number=Sing|PrepForm=Cmpd	27	fixed	_	_
 29	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	30	det	_	_
 30	bhreith	breith	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	14	obl	_	_
 31	ag	ag	ADP	Simp	_	32	case	_	_

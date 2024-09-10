@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal but the values `Gdv` are language-specific.
 It occurs with 6 different values: `Fin`, `Gdv`, `Ger`, `Inf`, `Part`, `Sup`.
 
-48536 tokens (24%) have a non-empty value of `VerbForm`.
-15035 types (51%) occur at least once with a non-empty value of `VerbForm`.
-2190 lemmas (26%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (40691; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7845; 4% instances).
+49812 tokens (24%) have a non-empty value of `VerbForm`.
+15333 types (51%) occur at least once with a non-empty value of `VerbForm`.
+2213 lemmas (26%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (41711; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (8101; 4% instances).
 
 ### `VERB`
 
-40691 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+41711 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31683; 78%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31313; 77%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30100; 74%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24168; 59%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23822; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (32506; 78%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (32115; 77%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30806; 74%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24886; 60%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24484; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (27133; 67% of non-empty `VerbForm`): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, fecit</em>
-* `Gdv` (740; 2% of non-empty `VerbForm`): <em>faciendum, agendum, serenda, adhibenda, iurando, ponenda, cavendum, dicendum, facienda, fugienda</em>
-* `Ger` (306; 1% of non-empty `VerbForm`): <em>audiendi, dicendi, scribendo, pugnandi, manducandum, praedandi, scribendum, bellandi, navigandi, frumentandi</em>
-* `Inf` (4180; 10% of non-empty `VerbForm`): <em>facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</em>
-* `Part` (8316; 20% of non-empty `VerbForm`): <em>dicens, factum, dicentes, facta, respondens, scriptum, factus, locutus, habens, data</em>
-* `Sup` (16; 0% of non-empty `VerbForm`): <em>factu, frumentatum, salutatum, gratulatum, nuptum, oratum, postulatum, potum, questum, redditum</em>
-* `EMPTY` (1): <em>ἀποθέωσιν</em>
+* `Fin` (27772; 67% of non-empty `VerbForm`): <em>dixit, ait, dicit, venit, dico, habet, dixerunt, potest, misit, fecit</em>
+* `Gdv` (809; 2% of non-empty `VerbForm`): <em>faciendum, agendum, adhibenda, facienda, serenda, cavendum, committendum, iurando, ponenda, videndum</em>
+* `Ger` (314; 1% of non-empty `VerbForm`): <em>audiendi, dicendi, scribendo, pugnandi, manducandum, praedandi, scribendum, bellandi, navigandi, agendi</em>
+* `Inf` (4343; 10% of non-empty `VerbForm`): <em>facere, fieri, posse, habere, dicere, venire, videre, scire, dare, loqui</em>
+* `Part` (8445; 20% of non-empty `VerbForm`): <em>dicens, factum, dicentes, facta, respondens, scriptum, factus, locutus, habens, data</em>
+* `Sup` (28; 0% of non-empty `VerbForm`): <em>factu, frumentatum, occisum, salutatum, absolutum, actum, exceptum, gratulatum, iugulatum, nuptum</em>
+* `EMPTY` (115): <em>αἰδέομαι, μὲν, ἅλις, ἡ, ὀξύπεινος, Heli, corban, eppheta, maranatha, sabacthani</em>
 
 <table>
   <tr><th>Paradigm <i>facio</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th><th><tt>Gdv</tt></th></tr>
@@ -136,15 +136,15 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-7845 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+8101 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7845; 100%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6227; 79%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 76%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5961; 76%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5724; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5123; 65%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8089; 100%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6441; 80%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (6131; 76%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6117; 76%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5930; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5275; 65%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (7042; 90% of non-empty `VerbForm`): <em>est, sunt, erat, sit, sum, esset, erant, fuit, erit, estis</em>
-* `Inf` (751; 10% of non-empty `VerbForm`): <em>esse, fore, fuisse</em>
-* `Part` (52; 1% of non-empty `VerbForm`): <em>futurum, futurus, futura, futuram, futuros, futurorum, futurae, futurarum, futuri</em>
+* `Fin` (7228; 89% of non-empty `VerbForm`): <em>est, sunt, erat, sit, sum, esset, erant, fuit, erit, estis</em>
+* `Inf` (817; 10% of non-empty `VerbForm`): <em>esse, fore, fuisse, iri</em>
+* `Part` (56; 1% of non-empty `VerbForm`): <em>futurum, futurus, futura, futuram, futuros, futurorum, futurae, futurarum, futuri</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -227,14 +227,14 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (4605; 91%),
-<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (266; 78%),
-<tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> VERB</tt> (187; 59%),
-<tt>VERB --[<tt><a href="la_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (153; 90%),
-<tt>VERB --[<tt><a href="la_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (137; 77%),
-<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (83; 86%),
+<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (4740; 91%),
+<tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (268; 78%),
+<tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> VERB</tt> (191; 59%),
+<tt>VERB --[<tt><a href="la_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (185; 79%),
+<tt>VERB --[<tt><a href="la_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (142; 76%),
+<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (88; 85%),
 <tt>VERB --[<tt><a href="la_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> VERB</tt> (50; 56%),
-<tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (40; 82%),
-<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (26; 76%),
-<tt>VERB --[<tt><a href="la_proiel-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (20; 100%).
+<tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (47; 82%),
+<tt>AUX --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (44; 52%),
+<tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (31; 76%).
 

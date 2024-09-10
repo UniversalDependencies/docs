@@ -1,17 +1,20 @@
 ---
 layout: relation
 title: 'parataxis:discourse'
-shortdef: 'paratactic discourse'
+shortdef: 'clausal discourse marker'
 udver: '2'
 ---
 
-The specialization is used in the PoSTWITA, a tweet corpus, for semantically-void sentences used as discourse markers 
+This relation is used for clausal discourse markers, i.e. parenthetical clauses with a syntactic and semantic function similar to that of other [discourse]() elements. Typical examples include _a veš_ ('you know'), _mislim_ ('I mean'), _glej_ ('look'), _ne vem_ ('I don't know').
 
 ~~~ sdparse
-voglio dire , è sempre banale 
-parataxis:discourse(banale, dire) 
+mislim imamo zajtrk in imamo večerjo ne \n I-mean we-have breakfast and we-have dinner right
+parataxis:discourse(imamo-2, mislim)
+discourse(imamo-2,ne)
+parataxis:discourse(we-have-10, I-mean)
+discourse(we-have-10,right)
 ~~~
 
 
 
-<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:44 CEST -->

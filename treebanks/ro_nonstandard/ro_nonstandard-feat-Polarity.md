@@ -104,7 +104,7 @@ The most frequent other feature values with which `ADP` and `Polarity` co-occurr
 `ADP` tokens may have the following values of `Polarity`:
 
 * `Pos` (1; 100% of non-empty `Polarity`): <em>ca</em>
-* `EMPTY` (66982): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
+* `EMPTY` (66981): <em>de, cu, la, în, pre, din, pe, ca, pentru, după</em>
 
 ### `PRON`
 

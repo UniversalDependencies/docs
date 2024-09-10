@@ -57,18 +57,18 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse	color:blue
-1	Of	of	INTJ	I	_	6	discourse	_	|SpaceAfter=No
+1	Of	of	INTJ	I	_	6	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	1	punct	_	_
 3	săracile	sărac	ADJ	Afpfpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	_
-4	neamurile	neam	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	parataxis	_	|SpaceAfter=No
+4	neamurile	neam	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	6	parataxis	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	4	punct	_	_
-6	Unde-	unde	ADV	Rw	PronType=Int,Rel	0	root	_	|SpaceAfter=No
+6	Unde-	unde	ADV	Rw	PronType=Int,Rel	0	root	_	SpaceAfter=No
 7	s	fi	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	cop	_	_
 8	eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 9	și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	_
-10	unde-	unde	ADV	Rw	PronType=Int,Rel	6	conj	_	|SpaceAfter=No
+10	unde-	unde	ADV	Rw	PronType=Int,Rel	6	conj	_	SpaceAfter=No
 11	s	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	10	cop	_	_
-12	ele	el	PRON	Pp3fpr	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	|SpaceAfter=No
+12	ele	el	PRON	Pp3fpr	Case=Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 ~~~

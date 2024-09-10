@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 160 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (120; 75%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (116; 73%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (120; 75%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (117; 73%).
 
 `PRON` tokens may have the following values of `Case`:
 

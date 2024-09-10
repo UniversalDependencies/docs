@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'appos:
+title: 'appos'
 shortdef: 'appositional modifier'
 udver: '2'
 ---
@@ -11,4 +11,4 @@ An appositional modifier of a noun is a nominal immediately following the first 
 журналның баш мөхәррире Рөстәм
 appos(мөхәррире-3, Рөстәм-4)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:09 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:44 CEST -->

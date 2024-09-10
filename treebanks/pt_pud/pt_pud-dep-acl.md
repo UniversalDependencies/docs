@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	isso	_	PRON	PDEM	Gender=Masc|Number=Sing	0	root	_	_
 3	que	_	PRON	WP	_	6	nsubj	_	_
 4	em	em	ADP	PRP	_	6	obj	_	_
-5	os	o	DET	_	Case=Acc|Number=Plur|Person=1	4	det	_	_
+5	os	o	DET	_	Case=Acc|Definite=Def|Number=Plur|Person=1|PronType=Art	4	det	_	_
 6	mantém	manter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	acl:relcl	_	_
 7	voltando	_	VERB	VBG	_	6	acl	_	_
 8	para	para	ADP	IN	_	9	case	_	_

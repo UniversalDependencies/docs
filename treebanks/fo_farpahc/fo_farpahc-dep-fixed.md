@@ -111,7 +111,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 54	til	_	ADP	P	_	55	case	_	_
 55	tess	_	PRON	PRO-G	Case=Gen	32	obl	_	_
 56	at	_	SCONJ	C	_	59	mark	_	_
-57	heimurin	_	NOUN	N-N	Case=Nom|Definite=Ind|Number=Sing	59	nsubj	_	_
+57	heimurin	_	NOUN	N-N	Case=Nom|Definite=Def|Number=Sing	59	nsubj	_	_
 58	skal	_	AUX	MDPI	Mood=Ind|Tense=Pres	59	aux	_	_
 59	trúgva	_	VERB	VB	VerbForm=Inf	55	ccomp	_	SpaceAfter=No
 60	,	,	PUNCT	,	_	59	punct	_	_

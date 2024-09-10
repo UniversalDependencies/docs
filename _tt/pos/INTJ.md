@@ -17,4 +17,4 @@ and may include a combination of sounds not otherwise found in the language.
 - *сәлам* "hello"
 - *зинһар*  "please"
 - *әйе*   "yes"
-<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->

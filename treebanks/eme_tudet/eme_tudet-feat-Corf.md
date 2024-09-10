@@ -9,28 +9,28 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-24 tokens (2%) have a non-empty value of `Corf`.
-20 types (2%) occur at least once with a non-empty value of `Corf`.
-17 lemmas (4%) occur at least once with a non-empty value of `Corf`.
-The feature is used with 3 part-of-speech tags: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (21; 2% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+45 tokens (2%) have a non-empty value of `Corf`.
+34 types (2%) occur at least once with a non-empty value of `Corf`.
+25 lemmas (4%) occur at least once with a non-empty value of `Corf`.
+The feature is used with 3 part-of-speech tags: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (41; 1% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-21 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Corf`.
+41 <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Corf`.
 
-The most frequent other feature values with which `NOUN` and `Corf` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (20; 95%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (16; 76%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 62%).
+The most frequent other feature values with which `NOUN` and `Corf` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (41; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (40; 98%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (40; 98%), <tt><a href="eme_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27; 66%).
 
 `NOUN` tokens may have the following values of `Corf`:
 
-* `Yes` (21; 100% of non-empty `Corf`): <em>oibarehe, oakaŋ, oiba, apɨdʒakotɨ, ikuɲawi, oapɨdʒakotɨ, oimiʔũ, okijapope, opaʔawo, opoʔãpope</em>
+* `Yes` (41; 100% of non-empty `Corf`): <em>oiba, oakaŋ, orekʷar, owɨ, ozara, oɨ, apɨdʒakotɨ, oapar, oapara, oapɨdʒakotɨ</em>
 
-`Corf` seems to be **lexical feature** of `NOUN`. 100% lemmas (14) occur only with one value of `Corf`.
+`Corf` seems to be **lexical feature** of `NOUN`. 100% lemmas (21) occur only with one value of `Corf`.
 
 ### `ADP`
 
-2 <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> tokens (6% of all `ADP` tokens) have a non-empty value of `Corf`.
+2 <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Corf`.
 
-The most frequent other feature values with which `ADP` and `Corf` co-occurred: <tt><a href="eme_tudet-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Nmzr.html">Nmzr</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `ADP` and `Corf` co-occurred: <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="eme_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADP` tokens may have the following values of `Corf`:
 
@@ -38,11 +38,11 @@ The most frequent other feature values with which `ADP` and `Corf` co-occurred: 
 
 ### `VERB`
 
-1 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Corf`.
+2 <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Corf`.
 
-The most frequent other feature values with which `VERB` and `Corf` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Corf` co-occurred: <tt><a href="eme_tudet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eme_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%).
 
 `VERB` tokens may have the following values of `Corf`:
 
-* `Yes` (1; 100% of non-empty `Corf`): <em>omõgʷeraharanẽ</em>
+* `Yes` (2; 100% of non-empty `Corf`): <em>omõgʷeraharanẽ, osapatokom</em>
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Sylvain Kahane, Bruno Guillaume, Bernard Caron, Katharine Jiang.
 
 Repository: [UD_Zaar-Autogramm](https://github.com/UniversalDependencies/UD_Zaar-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsay_autogramm211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsay_autogramm214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,17 +72,17 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 
 ## Features
 
-[Aspect](say_autogramm-feat-Aspect.html) – [Definite](say_autogramm-feat-Definite.html) – [Deixis](say_autogramm-feat-Deixis.html) – [Foreign](say_autogramm-feat-Foreign.html) – [Mood](say_autogramm-feat-Mood.html) – [Number](say_autogramm-feat-Number.html) – [PartType](say_autogramm-feat-PartType.html) – [Person](say_autogramm-feat-Person.html) – [Polarity](say_autogramm-feat-Polarity.html) – [Poss](say_autogramm-feat-Poss.html) – [PronType](say_autogramm-feat-PronType.html) – [Reflex](say_autogramm-feat-Reflex.html) – [Tense](say_autogramm-feat-Tense.html) – [VerbForm](say_autogramm-feat-VerbForm.html) – [VerbType](say_autogramm-feat-VerbType.html) – [Voice](say_autogramm-feat-Voice.html)
+[Aspect](say_autogramm-feat-Aspect.html) – [Definite](say_autogramm-feat-Definite.html) – [Deixis](say_autogramm-feat-Deixis.html) – [Foreign](say_autogramm-feat-Foreign.html) – [Mood](say_autogramm-feat-Mood.html) – [Number](say_autogramm-feat-Number.html) – [PartType](say_autogramm-feat-PartType.html) – [Person](say_autogramm-feat-Person.html) – [Polarity](say_autogramm-feat-Polarity.html) – [Poss](say_autogramm-feat-Poss.html) – [PronType](say_autogramm-feat-PronType.html) – [Reflex](say_autogramm-feat-Reflex.html) – [Tense](say_autogramm-feat-Tense.html) – [VerbForm](say_autogramm-feat-VerbForm.html) – [Voice](say_autogramm-feat-Voice.html)
 
 ## Relations
 
-[acl](say_autogramm-dep-acl.html) – [acl:relcl](say_autogramm-dep-acl-relcl.html) – [advcl](say_autogramm-dep-advcl.html) – [advmod](say_autogramm-dep-advmod.html) – [amod](say_autogramm-dep-amod.html) – [appos](say_autogramm-dep-appos.html) – [aux](say_autogramm-dep-aux.html) – [case](say_autogramm-dep-case.html) – [cc](say_autogramm-dep-cc.html) – [cc:preconj](say_autogramm-dep-cc-preconj.html) – [ccomp](say_autogramm-dep-ccomp.html) – [compound](say_autogramm-dep-compound.html) – [compound:prt](say_autogramm-dep-compound-prt.html) – [compound:redup](say_autogramm-dep-compound-redup.html) – [conj](say_autogramm-dep-conj.html) – [csubj](say_autogramm-dep-csubj.html) – [dep](say_autogramm-dep-dep.html) – [det](say_autogramm-dep-det.html) – [discourse](say_autogramm-dep-discourse.html) – [dislocated](say_autogramm-dep-dislocated.html) – [fixed](say_autogramm-dep-fixed.html) – [flat](say_autogramm-dep-flat.html) – [flat:foreign](say_autogramm-dep-flat-foreign.html) – [flat:name](say_autogramm-dep-flat-name.html) – [iobj](say_autogramm-dep-iobj.html) – [mark](say_autogramm-dep-mark.html) – [nmod](say_autogramm-dep-nmod.html) – [nmod:poss](say_autogramm-dep-nmod-poss.html) – [nsubj](say_autogramm-dep-nsubj.html) – [nummod](say_autogramm-dep-nummod.html) – [obj](say_autogramm-dep-obj.html) – [obl](say_autogramm-dep-obl.html) – [obl:agent](say_autogramm-dep-obl-agent.html) – [obl:arg](say_autogramm-dep-obl-arg.html) – [parataxis](say_autogramm-dep-parataxis.html) – [punct](say_autogramm-dep-punct.html) – [reparandum](say_autogramm-dep-reparandum.html) – [root](say_autogramm-dep-root.html) – [vocative](say_autogramm-dep-vocative.html) – [xcomp](say_autogramm-dep-xcomp.html)
+[acl](say_autogramm-dep-acl.html) – [acl:relcl](say_autogramm-dep-acl-relcl.html) – [advcl](say_autogramm-dep-advcl.html) – [advmod](say_autogramm-dep-advmod.html) – [amod](say_autogramm-dep-amod.html) – [appos](say_autogramm-dep-appos.html) – [aux](say_autogramm-dep-aux.html) – [case](say_autogramm-dep-case.html) – [cc](say_autogramm-dep-cc.html) – [cc:preconj](say_autogramm-dep-cc-preconj.html) – [ccomp](say_autogramm-dep-ccomp.html) – [compound](say_autogramm-dep-compound.html) – [compound:prt](say_autogramm-dep-compound-prt.html) – [compound:redup](say_autogramm-dep-compound-redup.html) – [conj](say_autogramm-dep-conj.html) – [cop](say_autogramm-dep-cop.html) – [csubj](say_autogramm-dep-csubj.html) – [dep](say_autogramm-dep-dep.html) – [det](say_autogramm-dep-det.html) – [discourse](say_autogramm-dep-discourse.html) – [dislocated](say_autogramm-dep-dislocated.html) – [fixed](say_autogramm-dep-fixed.html) – [flat](say_autogramm-dep-flat.html) – [flat:foreign](say_autogramm-dep-flat-foreign.html) – [flat:name](say_autogramm-dep-flat-name.html) – [iobj](say_autogramm-dep-iobj.html) – [mark](say_autogramm-dep-mark.html) – [nmod](say_autogramm-dep-nmod.html) – [nmod:poss](say_autogramm-dep-nmod-poss.html) – [nsubj](say_autogramm-dep-nsubj.html) – [nummod](say_autogramm-dep-nummod.html) – [obj](say_autogramm-dep-obj.html) – [obl](say_autogramm-dep-obl.html) – [obl:arg](say_autogramm-dep-obl-arg.html) – [parataxis](say_autogramm-dep-parataxis.html) – [punct](say_autogramm-dep-punct.html) – [reparandum](say_autogramm-dep-reparandum.html) – [root](say_autogramm-dep-root.html) – [vocative](say_autogramm-dep-vocative.html) – [xcomp](say_autogramm-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 817 sentences, 7618 tokens and 7625 syntactic words.</li>
+<li>This corpus contains 1864 sentences, 16396 tokens and 17682 syntactic words.</li>
 </ul>
 
 <ul>
@@ -94,12 +94,12 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 </ul>
 
 <ul>
-<li>This corpus contains 9 types of words that contain both letters and punctuation. Examples: Hap#, Ndà#, Sau#, d#, kú#, lyá:, m#, màː#, ám#</li>
+<li>This corpus contains 119 types of words that contain both letters and punctuation. Examples: a:, *kap-íː, ḿː'm̀ː, *ngap-íː, *gìː-íː, *ngâp-íː, *tu-íː, *yisə́ŋ-íː, *fi, *fi-íː, *mará-íː, *wûl-íː, *ɗû-íː, *ʧâː-íː, áː'àː, *bàːba-íː, *gamá-íː, *gàː-íː, *káp-íː, *kât-íː, *lût-íː, *mókʃi-íː, *ngêr-íː, *tuːr-íː, *ɗu-íː, *ɗyáː-íː, *ɬet-íː, *ɮiː-íː, *ɮìː-í, *ɮìː-íː, à:, #ɗû, *Maláːri-íː, *bullú-íː, *bwaːp-íː, *bàsáɣ-íː, *datsə́-íː, *dǔːm-ə́n, *fí-íː, *fî-íː, *fùː-íː, *gámá-íː, *gìt-íː, *gə̌ːm-íː, *hàkuríwôʃíː, *kàmbàlá-íː, *kâːr-ə́n, *kúni-ə́n, *kûllé-íː, *kǔːp-íː</li>
 </ul>
 
 <ul>
-<li>This corpus contains 7 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 7 types of multi-word tokens. Examples: =tə+n, kafa, kap, mí, àngwa, ʧin, ʧíː.</li>
+<li>This corpus contains 1152 multi-word tokens. On average, one multi-word token consists of 2.12 syntactic words.</li>
+<li>There are 780 types of multi-word tokens. Examples: ʧi, ʧì, ʧímtə, gìːtə̀, ŋǎːn, fítə, fitə, mə́nɗi, wúltə, ɓaʃí, fini, wâː, fuːm, fuːɣə, fítə̀, fîn, hŋ́oː, mì, vərtə, wuləm, zǎːrwôpm, ɗaːmí, ɗánǐn, ɗǎŋ, daːkámâtn, gìːʃí, kaptíː, kúɲêtn, náːɗíːɗi, poləm, sûmíɗi, yèltə̀, ɓasmí, ɓastə, búngáy, dèːwòs, də̀nwàː, də̀nə̌n, fin, fâː, gàːtə̀, gìːtíː, ki, káttə, kì, kúniwòs, kǔːpkí, kǔːpmí, lǎːpni, mbǔtni.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -112,53 +112,36 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 </ul>
 
 <ul>
-<li>This corpus contains 85 word types tagged as particles (PART): XX, aː, baːbù, bàː, báː, daː, deː, dàː, eː, fáː, fâː, gáːrá, gən, gəndí, gəní, gənín, gə̂n, hôː, hŋ́, hə́ŋ, hḿ, kweː, kwêy, kwǎː, kàm, káɗá, kóː, kóːdàː, kúm, kúmá, kən, kəndí, kənín, máː, məníː, mə́n, n, ngən, ni, nì, nə, oː, tá, tòː, tóː, tôː, w, wéy, yôː, àː, âː, òː, ěːn, ń, ŋ, ŋaː, ŋâː, ŋǎː, ŋǎːn, ŋəndí, ŋ́, ǎ, ǎn, ǎː, ǎːn, ǐn, ǒːy, ɗ, ɗa, ɗi, ɗà, ɗì, ɗǎ, ɗǐ, ən, ə̌n, ə̌níː, ə̌ŋ, ɣən, ɣəndá, ɣəndí, ɣəní, ɣənín, ɣə́n, ɣə̂n</li>
+<li>This corpus contains 114 word types tagged as particles (PART): =ni, =nì, =nəni, =ɗi, =ɗì, ?//], XX, a:, aː, baːbù, bàː, báŋ, báː, bâː, deː, dàː, dèː, déː, eː, fá, fáː, fâː, gáːrá, gən, gəndí, gəní, gənín, hoː, hôː, hŋ́, hə́ŋ, hḿ, koː, kuma, kweː, kwàː, kwêy, kwǎː, kàm, káp, káɗá, kóː, kúm, kúmá, kən, kəndí, kəní, kənín, màm, máː, múr, mə́, mə́n, m̀ː, n, ndí, ni, nə, nə́, oː, raː, riːŋ, tu, tá, tâ, tòː, tóː, tô:, tôŋ, tôː, weː, woː, wàːtòː, wâː, wéy, yôː, à:, àkwéy, àː, âː, òː, ěːn, ŋ, ŋa:, ŋaː, ŋáː, ŋâː, ŋǎː, ŋǎːn, ŋǎːŋ, ǎː, ǐn, ǒːy, ǹ, ɓét, ɗa, ɗan, ɗaː, ɗi, ɗà, ɗòː, ɗǎ, ə̌n, ɣoy, ɣáy, ɣən, ɣəndá, ɣəndí, ɣəní, ɣənín, ɣəŋ, ɣə̀n, ɣə̂n, ʃèː</li>
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as pronouns (PRON): =gə̀tn, =kí, =kə, =mí, =mə, =tə, =waː, =waːn, =waːsən, =wopm, =wos, =wàːsə̀ŋ, =wòs, =wôs, =âtn, =ʃí, dàːsóːɗa, dàːʃì, gwàː, gwàːm, gwàːsə̀n, gyòː, gyóːɗan, gyôː, gín, gíː, gòpm, gòs, gón, gə̀tn, ki, kyáːni, káy, kì, kóːníː, kóːnúː, mi, myàːní, myáːni, mì, níː, núː, yàːʃí, yáːn, yáːni, yóːɗan, ɗan, ʧi, ʧì</li>
+<li>This corpus contains 83 lemmas tagged as pronouns (PRON): =atn, =gətn, =kí, =kə, =mí, =mə, =tə, =waː, =waːn, =waːsəŋ, =wopm, =wos, =wáːsə̀ŋ, =wôs, =âtn, =əm, =ʃí, Níːwáːni, X, dàːsóːɗa, dàːʃì, gamatn, geɗí, giiní, giní, ginín, gwàː, gwàːm, gwàːn, gwàːsə̀ŋ, gyaːgón, gyòː, gyóːɗan, gyôː, gín, gíː, gòpm, gòs, gón, gùl, gùŋ, gə̀tn, ki, kotá, kyàːní, kyàːáːni, kyáːni, káp, káy, káɗi, kóːgyòː, kóːgón, kóːnaːgyòː, kóːníː, kóːnúː, kə, kə̀, myàːní, myàːáːni, myáːni, mì, mí, míː, mə, mə̀, niː, níː, níːwóneː, núː, tə, tə̀, waːní, wáːni, yàŋʃí, yàːʃí, yáddà, yáː, yáːni, yâːn, yóːɗan, ʃí, ʧi, ʧì</li>
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as determiners (DET): XX, dúk, gyaː, gyôː, gíː, gòn, gón, kotá, sú, wannan, wón</li>
+<li>This corpus contains 33 lemmas tagged as determiners (DET): XX, dúk, giní, giː, gwón, gyaː, gyaːgón, gyaːt, gyoôː, gyáː, gyòː, gyópti, gyóːɗan, gyôː, gín, gíː, gòn, gón, kotá, káp, kíː, kóː, níː, sú, wupsə, wuri, wuriː, wàːné, wátan, wón, ɗányâːlí, ɗányâːlíː, ɗáɲâːlí</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: gyôː, gíː, gón</li>
+<li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: giní, gyaːgón, gyòː, gyóːɗan, gyôː, gín, gíː, gón, kotá, káp, níː</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as auxiliaries (AUX): tə̀, wò, wòyi, yiː, yáː, yí, àː, àːtá, àːyí, á, ánáː, ánáːyáː, átáyiká, átâ, átâyi, átâyáː, áyí, áyǎː, ʧiká, ʧáː, ʧáːnaː, ʧáːyi, ʧíta</li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: yáː, ʧiká</li>
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-</ul>
-
-<ul>
-  <li>Fin
-  <ul>
-    <li>VERB: ɬə́, mán, fi, súː, wul, yel, tu, yi, ɬə, fuː</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Inf
-  <ul>
-    <li>VERB: ndáy, ʃíni</li>
-  </ul>
-  </li>
+<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: ŋálɣə́nì, yélɣə́nì, kápkə̂n, nátkə́nì, súːɣə̂n, tsə́tngə́n, ɗùɣə̀nì, ɬə́ɣə̂n, ʧíɣə̂n, bàɬkə̀nì</li>
+    <li>VERB: láːpkə́nì, láːpkə̂n, mbútkə̂n, ʧáːɣə̂n, fíɣə̂n, maráɣə̂n, vyàːɣə̀n, wúmgə̂n, ŋálɣə́nì, ɬyáɣə̂n</li>
   </ul>
   </li>
 </ul>
@@ -175,14 +158,14 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: mərə́, məːri</li>
-      <li>AUX: mə́, mə̀, má, myǎː, tə́, tá, myàː, tə̀, yǎː, tàː</li>
-      <li>DET: gyaː, gyáː, gyǎː, sú</li>
-      <li>NOUN: mə́n, guɗi, gerʃí, zàrsə̀, gút, kaɗanʃí, mərə́, mərə́m, mərə́n, məːrə́ŋsə</li>
-      <li>PRON: =mí, =ʃí, ʧì, gòpm, =wôpm, mì, myàːní, =kí, =wàːsə̀n, =wòpm</li>
-      <li>PROPN: Bàtùràːye</li>
-      <li>VERB-Fin: kǐːr, kǐːríː, kǔːp, náːt, sǔn, kwáːn, kúːp, màːn, máːn, mə́ːʃíː</li>
-      <li>VERB-Vnoun: yàːlɣə̀nì, ríːngə̂n, yáːlɣə̂n, yáːlɣə̂nín</li>
+      <li>ADJ: mərə́, nasáŋʃi, məːri</li>
+      <li>AUX: tə́, tá, mə́, mə̀, má, kə́, myǎː, ʧǎː, ká, mə̀tàyáː</li>
+      <li>DET: gyáː, gyaː, gyǎː, gyòː, gyópti, gèntsə̀, gyaːgón, giní, gyóːɗan, gìː</li>
+      <li>NOUN: mə́n, zàrsə̀, guɗi, gerʃí, geɗí, gyòmɬì, gèntsə̀, gút, məːri, məːrí</li>
+      <li>PRON: =ʃí, =mí, =wôpm, gòpm, tə̀, myàːní, =kí, =wàːsə̀ŋ, gyaːgón, =wâːn</li>
+      <li>PROPN: Tuːraːwa, Bàtùràːye</li>
+      <li>VERB: kǐːr, kwáːn, ngyǎːr, náːt, gǐːn, kǔːp, ngǔːp, náːɗíː, sǔn, ɲwǎːl</li>
+      <li>VERB-Vnoun: ríːngə̂n, yàːlɣə̀nì, yáːlɣə̂n, yáːlɣə̂nín, ŋáːlɣə̂n</li>
     </ul>
   </li>
 </ul>
@@ -190,8 +173,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: wò, mə, á, àː, myáː, yáː, kə, ma, ʧáː, tə̀</li>
-      <li>PRON: =tə, ɣáy, =m, =tə̀, gòs, myâːn, =ɣə, =tíː, =kə, =əm</li>
+      <li>AUX: á, àː, wò, mə, kə, yáː, tə̀, ka, myáː, ʧáː</li>
+      <li>PRON: =tə, gòs, =mə, =tə̀, =kə, yâːn, =wôs, =ɣə, myâːn, =wòs</li>
     </ul>
   </li>
 </ul>
@@ -205,8 +188,26 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Cons
     <ul>
-      <li>ADJ: mərə́, ŋǎː</li>
-      <li>NOUN: lǎː, məːrí, zǎːr, ɮǐː, dondə́, kətə́r, gút, awré, gàrí, kafá</li>
+      <li>ADJ: ŋǎː, mərə́</li>
+      <li>NOUN: lə̌pm, lǎː, zǎːr, məːrí, gùŋ, ɮǐː, ngə̌tn, wǔɣn, dondə́, gút</li>
+      <li>PRON: yàːʃí</li>
+      <li>PROPN: Wǔːr</li>
+      <li>VERB: haské, lə̌pm, miːtsə́</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: vàrèʃíː</li>
+      <li>INTJ: áláléy</li>
+      <li>NOUN: lǎːs, ngə́ʃês, vèːs, ngəʃí, gaːmês, kúnês, lə́ɓês, dàlíːlês, dàtə́pês, dèːs</li>
+      <li>NUM: nàndàmêʃíː</li>
+      <li>PRON: dàːʃès, =wâːnès, =wôpès, ginês, gòpès</li>
+      <li>PROPN: Dʒòʃès, Daːvàrès, Kaɗə́mês, Kə́rmə̂s, Maláːrês, Malâːr</li>
+      <li>VERB: *ngap-íː, kaɓêʃíː, miːtʃês, *làːtsə-íː, myákkə́nès, saɣátkə̂níː, ɬə̂ʃíː</li>
+      <li>VERB-Vnoun: myákkə́nès, saɣátkə̂níː</li>
     </ul>
   </li>
 </ul>
@@ -214,7 +215,11 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Ind
     <ul>
-      <li>NOUN: də̀nì, màːʃíni, námʧi, náɣɗi, sə̀kéːɗi, gə̀ɗə̌, tə́pi, vwàːy, vìːnì, ŋây</li>
+      <li>ADJ: vàrì</li>
+      <li>NOUN: gə̀ɗì, ləpí, də̀nì, lə́ɓi, gwàːʃì, gìːrì, ngə́ʃi, wuki, ɬərtí, duːmí</li>
+      <li>NUM: mbə́ɬi, máːyi, nàmbóɲi</li>
+      <li>PROPN: Gutʒey, Maláːri, Zaːri, Zaːrí</li>
+      <li>VERB: miːtsey</li>
     </ul>
   </li>
 </ul>
@@ -222,8 +227,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Spec
     <ul>
-      <li>DET: wón, gón, gòn</li>
-      <li>PRON: gón</li>
+      <li>DET: wón, gón, gwón, gòn, gyaːgón</li>
+      <li>PRON: gón, gyaːgón</li>
     </ul>
   </li>
 </ul>
@@ -239,7 +244,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Neg
     <ul>
-      <li>PART: bàː, hŋ́, n, ə̌n, ǐn, báː, baːbù, ŋ, ŋ́, ǎːn</li>
+      <li>PART: hŋ́, bàː, n, báː, bâː, ŋǎːn, baːbù, káɗá, hə́ŋ, ə̌n</li>
     </ul>
   </li>
 </ul>
@@ -255,7 +260,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Aor
     <ul>
-      <li>AUX: mə́, mə, á, kə, tə́, kə́, mə̀</li>
+      <li>AUX: á, tə́, mə́, kə, mə, kə́, ɣə́, _, gə́, ɣə</li>
     </ul>
   </li>
 </ul>
@@ -263,7 +268,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Conc
     <ul>
-      <li>AUX: myáːnaː</li>
+      <li>AUX: myáːnaː, myàːnaː</li>
     </ul>
   </li>
 </ul>
@@ -271,7 +276,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: myáː, ʧáː, myǎː, átâyáː, kə̀tàyáː, mətáyáː, áyǎː, mənáːyáː, mə̀tàyáː, tə̀tàyáː</li>
+      <li>AUX: ʧáː, myǎː, myáː, ʧǎː, mə̀tàyáː, tə̀tàyáː, ʧàː, kə̀tàyáː, átayáː, mətáyáː</li>
     </ul>
   </li>
 </ul>
@@ -279,7 +284,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>ImpIter
     <ul>
-      <li>AUX: myàːyi, myáːyi</li>
+      <li>AUX: ʧàːyí, ʧàːyi, kyàːyi, ʧáːyi, myàːyi, myàːyí, myáːyi, myǎːyi, ʧáː</li>
     </ul>
   </li>
 </ul>
@@ -287,8 +292,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Inch
     <ul>
-      <li>PART: ni, nì, n</li>
-      <li>VERB-Fin: fin, fín, fîn, yin, yìn, ɬyan</li>
+      <li>PART: =ni, =nì</li>
     </ul>
   </li>
 </ul>
@@ -296,7 +300,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Iter
     <ul>
-      <li>AUX: yi, mayi, miː, mə̀yi, átâyi</li>
+      <li>AUX: yi, yiː, kîː, mayi, táyi, k~, káyi, miː, mîː, mə̀yi</li>
+      <li>PART: =ni, =nì, =nəni</li>
     </ul>
   </li>
 </ul>
@@ -304,7 +309,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: àː, káː, máː, tàː, màː, àːtá, máːtá, máːyí, âː, màːtá</li>
+      <li>AUX: àː, káː, máː, tàː, màː, máːtá, tàːtá, àːtá, màːtá, máːyí</li>
     </ul>
   </li>
 </ul>
@@ -312,7 +317,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Prog
     <ul>
-      <li>AUX: ʧǎː, myǎː, ʧàː, ʧìɣá, miɣá, kiɣá, myaː, mìɣá, mə̀tàyiɣá</li>
+      <li>AUX: ʧàː, ʧǎː, myǎː, ʧìɣá, kiɣá, miɣá, kyǎː, kìɣá, myàː, mìɣá</li>
     </ul>
   </li>
 </ul>
@@ -320,15 +325,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Res
     <ul>
-      <li>ADJ: vàrèʃíː</li>
-      <li>ADV: ʧiɣə́y, ʧíɣə́y, ɗúːníː</li>
-      <li>NOUN: gə̀ɗíː, lə́ɓíː, bóːlǐː, kuríː, lǎːy, kàlàːʧíː, kə́lâːʃíː, ləpíː, náɣɗêʃíː, náɣɗíː</li>
-      <li>NUM: nàmbóŋə́y, nàmbóɲíː</li>
-      <li>PART: məníː, kwêy, ə̌níː</li>
-      <li>PRON: =tíː, =míː, =wôpíː, =gə̀tíː, =kə́y, =tə́y, =wàːsə̀ŋə́y, =wòpíː, =âtíː, =ʃíː</li>
-      <li>PROPN: Kullây</li>
-      <li>VERB-Fin: ɬǐː, ɬíː, ɬǎːy, laːtsə́y, ndáy, ndǎy, ɓâníː, mbûɗíː, fíː, kaɓíː</li>
-      <li>VERB-Vnoun: mbútkə̂níː, ɬəɣə̂níː, ɬə̀ɣə̀níː</li>
+      <li>ADV: ngaːláy</li>
+      <li>VERB: ɬǐː, ɬíː, *kap-íː, ndáy, kaɓíː, táy, ɬǎːy, *tu-íː, laːtsə́y, ʧáːy</li>
     </ul>
   </li>
 </ul>
@@ -340,15 +338,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: yáː, kyáː, myàː, myáː, yǎː, kyàː, mǎː, myǎː</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Imp
-    <ul>
-      <li>VERB-Fin: sǔn, fi, kaɓíː, kon, máːn, tá, ɲangás, ʤáː</li>
+      <li>AUX: yáː, kyáː, myàː, myáː, yǎː, kyàː, kyǎː, myǎː, ʧǎː, mǎː</li>
     </ul>
   </li>
 </ul>
@@ -356,8 +346,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Irr
     <ul>
-      <li>AUX: mìː, mîː, kîː, tíː, kìː, míyí, mîtà, tíyí, ʧí, ʧíyí</li>
-      <li>PART: dàː, kóːdàː</li>
+      <li>ADV: dàː, kóːdàː</li>
+      <li>AUX: mìː, ʧíː, mîː, ʧîː, kîː, ʧíyí, ʧíyǎː, kiː, kìː, míta</li>
     </ul>
   </li>
 </ul>
@@ -365,8 +355,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Qot
     <ul>
-      <li>PART: wéy</li>
-      <li>SCONJ: tu</li>
+      <li>ADP: tu, kutun</li>
+      <li>PART: wéy, tu</li>
     </ul>
   </li>
 </ul>
@@ -374,7 +364,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: mə̀, tə̀, àː</li>
+      <li>AUX: tə̀, mə̀, àː, tə̀yì</li>
     </ul>
   </li>
 </ul>
@@ -386,7 +376,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: wò, má, ma, ka, tá, ká, mayi</li>
+      <li>AUX: tá, wò, ka, má, ma, ká, ɣa, ɣá, mayi, táyi</li>
     </ul>
   </li>
 </ul>
@@ -394,7 +384,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Imm
     <ul>
-      <li>AUX: áyǎː, máːyí, áyí, kíː, mìyǎː, míyàː, tìyǎː, àːyí</li>
+      <li>AUX: áyǎː, kíː, máːyí, àːyí, áyí, mìyǎː, míyàː, ǎːy, ʧìː</li>
     </ul>
   </li>
 </ul>
@@ -410,7 +400,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Rem
     <ul>
-      <li>AUX: átâ, mətá, kətá, tà, tə̀tà, mə̀tà, átâyáː, kə̀tàyáː, mətáyáː, tâ</li>
+      <li>AUX: átâ, mətá, mə̀tàyáː, tə̀tàyáː, tà, kətá, mə̀tà, kə̀tàyáː, tə̀tà, kə̀tà</li>
     </ul>
   </li>
 </ul>
@@ -422,7 +412,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Cau
     <ul>
-      <li>VERB-Fin: ɬə̌ːr, ɬə̌ːríː, ɬə́ːr</li>
+      <li>VERB: ɬə̌ːríː, ɬə́ːr, ʃíːr, tùlár, ɗîːɓár, ɬə́ːríː, ɬə̌ːr, ɲolár</li>
     </ul>
   </li>
 </ul>
@@ -438,10 +428,17 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: ɗangəní, yáːwón, ɗáni, ɗân, ʤǎːn, ɗaɗân, ɗangənín, ɗán, ɗúːni, ɗûːn</li>
-      <li>DET: gíː, XX</li>
-      <li>PRON: gíː, gín</li>
-      <li>VERB-Vnoun: mbútkə̂nín</li>
+      <li>ADV: yáːwón, ɗáni, ɗân, ɗangəní, ɗûːn, ɗúːni, ɗaɗân, ʤǎːn, ɗangənín, ɗaɗáni</li>
+      <li>DET: gíː, gín, giní, ɗányâːlíː, XX</li>
+      <li>PRON: gíː, gín, giní, ginês, ginín</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: wáːni, gón, kóːnaːgyòː</li>
     </ul>
   </li>
 </ul>
@@ -449,10 +446,9 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Int
     <ul>
-      <li>ADV: wuriː, gyóː, wuríː, wúr, yǎː, ìnáː, ɗòː, ɗôː</li>
-      <li>DET: gyòː</li>
-      <li>PART: kwǎː</li>
-      <li>PRON: níː, nîː, gyòː, núː, nǐː</li>
+      <li>ADV: wuriː, wúr, gyóː, téːɗôː, wuríː, yǎː, ìnáː, ɗòː, ɗôː</li>
+      <li>DET: gyòː, gyôː, wuriː, gyóː, níː</li>
+      <li>PRON: níː, niː, nîː, núː, nûː, gyòː, kóːnúː, míː, níːwáːni, níːwóneː</li>
     </ul>
   </li>
 </ul>
@@ -460,7 +456,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: =tə, =mí, =ʃí, ɣáy, =m, =tə̀, gòs, myâːn, =ɣə, =tíː</li>
+      <li>PRON: =tə, ɣáy, =ʃí, gòs, =mí, =mə, =tə̀, gáy, =kə, yâːn</li>
+      <li>SCONJ: yâːn</li>
     </ul>
   </li>
 </ul>
@@ -468,9 +465,18 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: yáddiyóːɗan, yandìyóːɗan, yándiyóːɗan, yə́ddà, ɗan</li>
-      <li>PRON: yóːɗan, gyóːɗan, dàːsóːɗa</li>
+      <li>ADV: yáddiyóːɗan, yandìyóːɗan, yádda, yáddà, yándiyóːɗan, yə́ddà, ɗa, ɗan</li>
+      <li>PRON: yóːɗan, gyóːɗan, dàːsóːɗa, yáddà, yóːɗaŋ</li>
       <li>SCONJ: ɗan, ɗa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: káp</li>
+      <li>PRON: kóːnúː, kóːgón</li>
     </ul>
   </li>
 </ul>
@@ -483,7 +489,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: gòs, =tn, gə̀tn, =wàːsə̀ŋ, =wôpm, =wôpíː, =wôs, gòʃíː, =tíː, =wàːsə̀n</li>
+      <li>PRON: gòs, =âtn, =wàːsə̀ŋ, gə̀tn, =wáːsə̀ŋ, =wôpm, =wôs, =atn, =wôpíː, =wâːsə̀nə́y</li>
     </ul>
   </li>
 </ul>
@@ -495,7 +501,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: =kí, =mí, =tə, =ɣə, =ʃí</li>
+      <li>PRON: =kí, =mí, =ʃí, =tə, =ɣə, gamatn, ɣə</li>
     </ul>
   </li>
 </ul>
@@ -507,8 +513,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>1
     <ul>
-      <li>AUX: mə́, mə̀, mə, myáː, má, ma, myǎː, mətá, myàː, máː</li>
-      <li>PRON: =mí, =m, myâːn, =əm, gòpm, myáːni, =wôpm, mì, myàːní, =tn</li>
+      <li>AUX: mə́, mə̀, mə, má, myáː, myǎː, ma, máː, mətá, mə̀tàyáː</li>
+      <li>PRON: =mí, =mə, myâːn, =âtn, =wôpm, gòpm, myáːni, myàːní, mì, =wòpm</li>
     </ul>
   </li>
 </ul>
@@ -516,8 +522,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>2
     <ul>
-      <li>AUX: kə, ka, káː, kyáː, kətá, kə́, àː, ká, kyàː, kə̀tàyáː</li>
-      <li>PRON: =ɣə, =kə, =ɣə̀, =kí, gwàː, =ɣə́, =ɣə́n, kyáːni, =gə, =kə̀</li>
+      <li>AUX: kə, kə́, ka, kyáː, káː, ká, àː, kətá, kə̀tàyáː, ɣə́</li>
+      <li>PRON: =kə, =ɣə, =kí, gwàː, =wâːn, =wâː, =ɣə̀, gwàːn, kyàːní, kyâːn</li>
     </ul>
   </li>
 </ul>
@@ -525,8 +531,8 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li>3
     <ul>
-      <li>AUX: wò, á, tə̀, àː, yáː, ʧáː, tə́, tá, átâ, yǎː</li>
-      <li>PRON: =tə, =ʃí, ɣáy, =tə̀, gòs, ʧì, =tíː, =wôs, gáy, gə̀tn</li>
+      <li>AUX: á, tə́, tá, wò, àː, tə̀, yáː, ʧáː, ʧǎː, átâ</li>
+      <li>PRON: =tə, ɣáy, =ʃí, gòs, =tə̀, gáy, yâːn, =wôs, tə, =wòs</li>
     </ul>
   </li>
 </ul>
@@ -540,33 +546,28 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <ul>
   <li><a>Deixis</a>
     <ul>
-      <li>Med
-        <ul>
-          <li>NOUN: ngə́ʃês, lǎːs, kúnês, dàlíːlês, dàtə́pês, màːʃínês, ɮěːs, awrês, dàːmuwâs, kaːyâs</li>
-          <li>PRON: dàːʃès, =wôpès, gòpès</li>
-          <li>PROPN: Dʒòʃès, Kaɗə́mês, Maláːrês</li>
-          <li>VERB-Fin: kaɓêʃíː, làːtsêʃíː, yàːlès, ɗôːʃíː, ɬə̂ʃíː</li>
-        </ul>
-      </li>
       <li>Prox
         <ul>
           <li>ADV: ɗangənín</li>
-          <li>NOUN: múrín, Bàtúːrén, dzàŋə́n, kàːsuwǎn, lǎːn, mərə́n, ngəʃín, yaːɬə́n, zàrsə́n</li>
+          <li>DET: gín, giní</li>
+          <li>NOUN: murín, múrín, ngəʃín, mənín, *dǔːm-ə́n, *kâːr-ə́n, *kúni-ə́n, *kə̂ːm-ə́n, *wukn-ín, Bàtúːrén</li>
           <li>PART: ɣənín, gənín, kənín, ěːn</li>
-          <li>PRON: =ɣə́n, =wòpə́n, =wòpə̌n, =wòsə́n, =ètə́n, gín, gòpə́n, ɣáyín</li>
-          <li>VERB-Fin: mánín</li>
-          <li>VERB-Vnoun: yáːlɣə̂nín</li>
+          <li>PRON: gín, =wòpə́n, =ɣə, ginín, gwàːsə̀ŋə́n, gáyín, gòpə́n, kaɗaŋʃín</li>
+          <li>PROPN: Tuːraːwán</li>
+          <li>VERB-Vnoun: *ɬə́ɣə́ni-ə́n, mbútkə̂nín, yáːlɣə̂nín</li>
         </ul>
       </li>
       <li>Remt
         <ul>
-          <li>ADJ: ngómdíː</li>
-          <li>ADV: ɗáníː, gíː</li>
-          <li>DET: gíː</li>
-          <li>NOUN: Tákwâːrày, də̀níː, kúníː, màːʃíníː, ráːnábáwɗíː, ríːʤiyáy, turíː, wurɓéy, məːrêy, məːríː</li>
-          <li>PRON: gíː, gòʃíː, =êtíː, =wôpíː, yáːníː</li>
-          <li>PROPN: Abuʤéː, Kìmsə́y, Kímsə́y, Kímsə̂y, Súléy, Súːmíː</li>
-          <li>VERB-Vnoun: ɬəɣə̂níː, ʧáːɣə̂níː</li>
+          <li>ADJ: fyáːlíː, ngómdíː, vàrèʃíː</li>
+          <li>ADV: ʧiɣə́y, ɗáníː, ɗanyâːlíː, ʧíɣə́y</li>
+          <li>DET: gíː, wupsíː, ɗányâːlíː</li>
+          <li>NOUN: lə́ɓíː, *bàːba-íː, *mókʃi-íː, bóːlǐː, múríː, ndə́ːtsə́y, ɗúːy, ɬúːy, ɬûː, *hàkuríwôʃíː</li>
+          <li>NUM: nàndàmêʃíː</li>
+          <li>PRON: gíː, gə̀tíː, =wàːsə̀ŋə́y, =wôpíː, gwǎːy, gòs, yáːníː, ɣáyíː</li>
+          <li>PROPN: *Maláːri-íː, Kìmsə́y, Kímsə́y, Kímsə̂y, Súléy, Súːmíː, Vùŋə́y</li>
+          <li>VERB: yáːɬíː, láːpkə̂níː, ʧáːɣə̂níː</li>
+          <li>VERB-Vnoun: láːpkə̂níː, ʧáːɣə̂níː</li>
         </ul>
       </li>
     </ul>
@@ -578,7 +579,7 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
     <ul>
       <li>Yes
         <ul>
-          <li>X: nan, shi, ba, a, kafin, OK, ke, tunda, wannan, ɗaya</li>
+          <li>X: nan, shi, ba, kura, a, tunda, kafin, wannan, ɗaya, OK</li>
         </ul>
       </li>
     </ul>
@@ -590,24 +591,12 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
     <ul>
       <li>Emp
         <ul>
-          <li>PART: oː, òː, kwǎː, hôː, yôː, ǒːy</li>
+          <li>PART: oː, òː, kwǎː, ǒːy, hôː, woː, yôː</li>
         </ul>
       </li>
       <li>Int
         <ul>
-          <li>PART: aː, ŋâː, ŋǎː, àː, eː, ŋaː, ǎː, ŋǎːn, ǎːn, ěːn</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>VerbType</a>
-    <ul>
-      <li>Cop
-        <ul>
-          <li>PART: nə, ɣən, ɣəndí, ɣəní, kən, ɗa, gəndí, kəndí, gəní, ɣəndá</li>
+          <li>PART: aː, a:, ŋâː, ŋaː, eː, àː, ŋǎː, ŋǎːn, à:, bâː</li>
         </ul>
       </li>
     </ul>
@@ -619,11 +608,11 @@ This treebank was produced as part of the [Autogramm ANR project](https://autogr
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus does not contain copulas.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 23 lemmas as auxiliaries (<a>aux</a>). Examples: á, wò, tə̀, àː, yáː, ʧáː, átâ, yí, átâyáː, ʧiká, àːtá, áyǎː, yiː, ánáːyáː, wòyi, àːyí, ánáː, áyí, ʧáːyi, átáyiká, átâyi, ʧáːnaː, ʧíta.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -632,9 +621,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (66)</li>
-      <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Vnoun--PRON (1)</li>
+      <li>VERB--NOUN (174)</li>
+      <li>VERB--PRON (101)</li>
     </ul>
   </li>
 </ul>
@@ -642,11 +630,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (197)</li>
-      <li>VERB-Fin--NOUN-ADP(ká)-ADP(teː) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(tu) (1)</li>
-      <li>VERB-Fin--PRON (144)</li>
-      <li>VERB-Fin--PRON-ADP(tu) (2)</li>
+      <li>VERB--NOUN (537)</li>
+      <li>VERB--NOUN-ADP(ká) (2)</li>
+      <li>VERB--NOUN-ADP(ká)-ADP(teː) (1)</li>
+      <li>VERB--NOUN-ADP(kə́) (1)</li>
+      <li>VERB--NOUN-ADP(tu) (1)</li>
+      <li>VERB--NOUN-ADP(tə́) (1)</li>
+      <li>VERB--PRON (332)</li>
+      <li>VERB--PRON-ADP(kutu) (1)</li>
+      <li>VERB--PRON-ADP(tu) (5)</li>
+      <li>VERB-Vnoun--NOUN (28)</li>
+      <li>VERB-Vnoun--PRON (4)</li>
     </ul>
   </li>
 </ul>
@@ -654,7 +648,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (34)</li>
+      <li>VERB--PRON (124)</li>
     </ul>
   </li>
 </ul>
@@ -664,12 +658,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 4 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: su =kí, su =mí, ɬiː =ʃí, ʤaː =ɣə</li>
+  <li>This corpus contains 6 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: su =kí, su =mí, su ɣə, vər gamatn, ɬiː =ʃí, ʤaː =ɣə</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>obl:arg</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

@@ -30,11 +30,13 @@ This is an overview only. For a more detailed discussion and examples, see the l
 	* The strong types of possessive pronouns (_moj, tvoj, tógav, tójin, naš, vaš, tǽhan_) and all other pronouns are assigned the PoS tag [DET](pos/DET.md).
 	* The adjective _adín/edín/idín_ is assigned the PoS tag [DET](pos/DET.md) when it is used as an indefinite article.
 
-* The PoS tag [AUX](pos/AUX_.md) is assigned to the following lemmas (and their clitic paradigms, where it applies): 
+* The PoS tag [AUX](pos/AUX_.md) is assigned to the following lemmas (and their clitic paradigms, where it applies):
  	* _som_ "to be" -but lemmas such as _býdom_ are also possible-
-	* _šom_ / _štom_ (it expresses possibility, very similartly to the Greek _θα_)  
-	*  _še / ša_ "will, shall", _da_ "to" 
-	
+	* _šom_ / _štom_ (it expresses possibility, very similartly to the Greek _θα_)
+	*  _še / ša_ "will, shall", _da_ "to"
+	*  interrogative  _li / dalí_, e.g.,   _ažónen li si?_ "are you married?" [lit. "married you?"]
+
+
 * Modal verbs are assigned the PoS tag [VERB](pos/VERB.md).
 * The  PoS tag [ADJ](pos/ADJ.md) is assigned to adjectives, ordinal numerals, adjectives derived from family names and ethnonyms.
 * The  PoS tag  [VERB](pos/VERB.md) is assigned to personal and impersonal verbs, participles, infinitives and converbs.
@@ -61,7 +63,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
 
 #### Degree and Polarity
 
-* The comparative and superlative degree of adjectives and adverbs is formed with the adverbs  _po_ and _naj_ respectively: they both are distinct words.   Τhe feature [Degree](feat/Degree.md) is used to denote the positive, comparative and superlative degre of adjectives and adverbs and is assigned one of the values  `Pos`, `Cmp` και `Sup` respectively. Only the comparative and the superlative degree have been declared so far while the positive degree is treated as the default. 
+* The comparative and superlative degree of adjectives and adverbs is formed with the adverbs  _po_ and _naj_ respectively: they both are distinct words.   Τhe feature [Degree](feat/Degree.md) is used to denote the positive, comparative and superlative degre of adjectives and adverbs and is assigned one of the values  `Pos`, `Cmp` και `Sup` respectively. Only the comparative and the superlative degree have been declared so far while the positive degree is treated as the default.
 * [Polarity](feat/Polarity.md) has two values, `Pos` and `Neg`, and applies primarily to negative and affirmative particles [PART](pos/PART.md).  So far, only the value  `Neg` has been used.
 
 #### Verbal Features
@@ -91,14 +93,14 @@ This is an overview only. For a more detailed discussion and examples, see the l
 
   * Diminutive and augmentative forms of nouns, adjectives, adverbs and certain passive participles are assigned the feature [qpm-DegreeMod](feat/qpm-DegreeMod.md) and one of the values `Dim` ή `Mag` respectively.
 
-  * Τhe feature [Variant](feat/Variant.md) with the value `Short` is assigned to the weak types of personal and possessive pronouns to set them apart from their corresponding strong types.  
+  * Τhe feature [Variant](feat/Variant.md) with the value `Short` is assigned to the weak types of personal and possessive pronouns to set them apart from their corresponding strong types.
 
   * Τhe particles `nǽ` / `nó`, `ní`, `sǽ`, which are used to form the indefinite, negative and universal pronouns and adverbs, are assigned the PoS tag  [PART](pos/PART.md) and the feature [qpm-PartType](feat/qpm-PartType.md) with one of the following values `Ind`, `Neg` or `Tot` respectively.
 
 ## Syntax
 
-Only the morphological annotation of the treebank has been studied in detail so far. 
-The syntactic annotation was obtained with the Udify tools. An updated version of the treebank with a fully studied syntactic annotation 
+Only the morphological annotation of the treebank has been studied in detail so far.
+The syntactic annotation was obtained with the Udify tools. An updated version of the treebank with a fully studied syntactic annotation
 is estimated to be uploaded at the end of 2022.
 
 <!--- This is an overview only. For more detailed discussion and examples, see the list of [Pomak relations](dep/index.md).-->
@@ -116,4 +118,4 @@ is estimated to be uploaded at the end of 2022.
 
 There is 1 Pomak UD treebank:
 
-  * [Pomak-Philotis](../treebanks/qpm/index.md)
+  * [Pomak-Philotis](../treebanks/qpm_philotis/index.html)

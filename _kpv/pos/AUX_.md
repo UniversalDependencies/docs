@@ -38,4 +38,4 @@ language-specific documentation.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Auxiliary_verb)
-<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

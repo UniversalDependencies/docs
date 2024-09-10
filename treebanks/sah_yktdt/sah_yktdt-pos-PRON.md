@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yakut-YKTDT: POS Tags: `PRON`
 
-There are 15 `PRON` lemmas (4%), 28 `PRON` types (5%) and 127 `PRON` tokens (9%).
+There are 17 `PRON` lemmas (4%), 30 `PRON` types (5%) and 129 `PRON` tokens (9%).
 Out of 14 observed tags, the rank of `PRON` is: 5 in number of lemmas, 5 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>кини, эн, мин, тугу, биһиги, эһиги, ити, ким, сорох, бары</em>
 
 The 10 most frequent `PRON` types:  <em>кини, эн, тугу, мин, биһиги, ити, Эһиэхэ, ханна, бары, ким</em>
 
-The 10 most frequent ambiguous lemmas: <em>мин</em> (<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 17, <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> 1), <em>ити</em> (<tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 25, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 6), <em>ханна</em> (<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 4), <em>ханнык</em> (<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 1), <em>ол</em> (<tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 5, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 2), <em>тоҕо</em> (<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>мин</em> (<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 17, <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> 1), <em>ити</em> (<tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 25, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 6), <em>ханна</em> (<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 4), <em>ханнык</em> (<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 1), <em>ол</em> (<tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 7, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 2), <em>тоҕо</em> (<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>ити</em> (<tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 1, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 1), <em>ханна</em> (<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 4), <em>ханнык</em> (<tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 1), <em>Ол</em> (<tt><a href="sah_yktdt-pos-DET.html">DET</a></tt> 3, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 1), <em>тоҕо</em> (<tt><a href="sah_yktdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="sah_yktdt-pos-PRON.html">PRON</a></tt> 1)
 
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>ити</em> (<tt><a href="sah_yktdt-p
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.866667 (the average of all parts of speech is 1.506266).
+The form / lemma ratio of `PRON` is 1.764706 (the average of all parts of speech is 1.502358).
 
 The 1st highest number of forms (4) was observed with the lemma “кини”: <em>Кинилэри, кини, кинилэр, киниэхэ</em>.
 
@@ -44,22 +44,22 @@ The 2nd highest number of forms (3) was observed with the lemma “мин”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “бары”: <em>бары, барытын</em>.
 
-`PRON` occurs with 5 features: <tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt> (126; 99% instances), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt> (86; 68% instances), <tt><a href="sah_yktdt-feat-Case.html">Case</a></tt> (85; 67% instances), <tt><a href="sah_yktdt-feat-Person.html">Person</a></tt> (83; 65% instances), <tt><a href="sah_yktdt-feat-Int.html">Int</a></tt> (3; 2% instances)
+`PRON` occurs with 5 features: <tt><a href="sah_yktdt-feat-PronType.html">PronType</a></tt> (128; 99% instances), <tt><a href="sah_yktdt-feat-Number.html">Number</a></tt> (86; 67% instances), <tt><a href="sah_yktdt-feat-Case.html">Case</a></tt> (85; 66% instances), <tt><a href="sah_yktdt-feat-Person.html">Person</a></tt> (83; 64% instances), <tt><a href="sah_yktdt-feat-Int.html">Int</a></tt> (3; 2% instances)
 
 `PRON` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Int=Yes`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Tot`
 
 `PRON` occurs with 22 feature combinations.
-The most frequent feature combination is `PronType=Int` (26 tokens).
-Examples: <em>тугу, ханна, ким, ханнык, кимий, тоҕо, Онуоха, туохха</em>
+The most frequent feature combination is `PronType=Int` (28 tokens).
+Examples: <em>тугу, ханна, ким, ханнык, кимий, Хайдах, тоҕо, хантан, Онуоха, туохха</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 11 different relations: <tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt> (57; 45% instances), <tt><a href="sah_yktdt-dep-obj.html">obj</a></tt> (20; 16% instances), <tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt> (16; 13% instances), <tt><a href="sah_yktdt-dep-obl.html">obl</a></tt> (14; 11% instances), <tt><a href="sah_yktdt-dep-det.html">det</a></tt> (12; 9% instances), <tt><a href="sah_yktdt-dep-iobj.html">iobj</a></tt> (2; 2% instances), <tt><a href="sah_yktdt-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="sah_yktdt-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-dep-vocative.html">vocative</a></tt> (1; 1% instances)
+`PRON` nodes are attached to their parents using 11 different relations: <tt><a href="sah_yktdt-dep-nsubj.html">nsubj</a></tt> (57; 44% instances), <tt><a href="sah_yktdt-dep-obj.html">obj</a></tt> (20; 16% instances), <tt><a href="sah_yktdt-dep-nmod.html">nmod</a></tt> (16; 12% instances), <tt><a href="sah_yktdt-dep-obl.html">obl</a></tt> (16; 12% instances), <tt><a href="sah_yktdt-dep-det.html">det</a></tt> (12; 9% instances), <tt><a href="sah_yktdt-dep-iobj.html">iobj</a></tt> (2; 2% instances), <tt><a href="sah_yktdt-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="sah_yktdt-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (84; 66% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (38; 30% instances),  (2; 2% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="sah_yktdt-pos-VERB.html">VERB</a></tt> (86; 67% instances), <tt><a href="sah_yktdt-pos-NOUN.html">NOUN</a></tt> (38; 29% instances),  (2; 2% instances), <tt><a href="sah_yktdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sah_yktdt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-123 (97%) `PRON` nodes are leaves.
+125 (97%) `PRON` nodes are leaves.
 
 2 (2%) `PRON` nodes have one child.
 

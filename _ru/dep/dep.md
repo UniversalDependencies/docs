@@ -16,4 +16,4 @@ because of an unresolved long distance dependency.
 dep(платят, пьяницами)
 dep(paid, drunkards)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:21 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:04 CEST -->

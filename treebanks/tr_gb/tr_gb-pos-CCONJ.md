@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_gb-pos-PRON.
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 2.332745).
+The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 2.332157).
 
 The 1st highest number of forms (2) was observed with the lemma “de”: <em>da, de</em>.
 

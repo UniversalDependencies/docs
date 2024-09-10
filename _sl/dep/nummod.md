@@ -45,3 +45,4 @@ nummod(the-year,2002-7)
 ~~~ 
 
 The `nummod` relation is only applied to words tagged as numerals (NUM), and not other words that express quantity, such as some determiners (*veliko, malo*), adjectives (*prvi, drugi*), or nouns (*milijon, milijarda, bilijon*).
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:31 CEST -->

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Emmett Strickland, Marine Courtin, Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Chika Kennedy Ajede, Emeka Onwuegbuzia, Samson Tella.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,21 +75,21 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 ## Features
 
-[Aspect](pcm_nsc-feat-Aspect.html) – [Case](pcm_nsc-feat-Case.html) – [Definite](pcm_nsc-feat-Definite.html) – [Degree](pcm_nsc-feat-Degree.html) – [Gender](pcm_nsc-feat-Gender.html) – [Mood](pcm_nsc-feat-Mood.html) – [Number](pcm_nsc-feat-Number.html) – [NumType](pcm_nsc-feat-NumType.html) – [PartType](pcm_nsc-feat-PartType.html) – [Person](pcm_nsc-feat-Person.html) – [Polarity](pcm_nsc-feat-Polarity.html) – [Poss](pcm_nsc-feat-Poss.html) – [PronType](pcm_nsc-feat-PronType.html) – [Reflex](pcm_nsc-feat-Reflex.html) – [Tense](pcm_nsc-feat-Tense.html) – [VerbForm](pcm_nsc-feat-VerbForm.html) – [VerbType](pcm_nsc-feat-VerbType.html) – [Voice](pcm_nsc-feat-Voice.html)
+[Aspect](pcm_nsc-feat-Aspect.html) – [Case](pcm_nsc-feat-Case.html) – [Definite](pcm_nsc-feat-Definite.html) – [Degree](pcm_nsc-feat-Degree.html) – [ExtPos](pcm_nsc-feat-ExtPos.html) – [Gender](pcm_nsc-feat-Gender.html) – [Mood](pcm_nsc-feat-Mood.html) – [Number](pcm_nsc-feat-Number.html) – [NumType](pcm_nsc-feat-NumType.html) – [PartType](pcm_nsc-feat-PartType.html) – [Person](pcm_nsc-feat-Person.html) – [Polarity](pcm_nsc-feat-Polarity.html) – [Poss](pcm_nsc-feat-Poss.html) – [PronType](pcm_nsc-feat-PronType.html) – [Reflex](pcm_nsc-feat-Reflex.html) – [Tense](pcm_nsc-feat-Tense.html) – [VerbForm](pcm_nsc-feat-VerbForm.html) – [VerbType](pcm_nsc-feat-VerbType.html) – [Voice](pcm_nsc-feat-Voice.html)
 
 ## Relations
 
-[acl](pcm_nsc-dep-acl.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:cleft](pcm_nsc-dep-advcl-cleft.html) – [advmod](pcm_nsc-dep-advmod.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:redup](pcm_nsc-dep-compound-redup.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [csubj:outer](pcm_nsc-dep-csubj-outer.html) – [dep](pcm_nsc-dep-dep.html) – [det](pcm_nsc-dep-det.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl:subj](pcm_nsc-dep-expl-subj.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [flat:foreign](pcm_nsc-dep-flat-foreign.html) – [iobj](pcm_nsc-dep-iobj.html) – [iobj:agent](pcm_nsc-dep-iobj-agent.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nsubj:outer](pcm_nsc-dep-nsubj-outer.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obj:lvc](pcm_nsc-dep-obj-lvc.html) – [obl:agent](pcm_nsc-dep-obl-agent.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis](pcm_nsc-dep-parataxis.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:mod](pcm_nsc-dep-parataxis-mod.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
+[acl](pcm_nsc-dep-acl.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:cleft](pcm_nsc-dep-advcl-cleft.html) – [advmod](pcm_nsc-dep-advmod.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:redup](pcm_nsc-dep-compound-redup.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [csubj:outer](pcm_nsc-dep-csubj-outer.html) – [dep](pcm_nsc-dep-dep.html) – [det](pcm_nsc-dep-det.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl:subj](pcm_nsc-dep-expl-subj.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [flat:foreign](pcm_nsc-dep-flat-foreign.html) – [iobj](pcm_nsc-dep-iobj.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nsubj:outer](pcm_nsc-dep-nsubj-outer.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obj:lvc](pcm_nsc-dep-obj-lvc.html) – [obl:agent](pcm_nsc-dep-obl-agent.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis](pcm_nsc-dep-parataxis.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:mod](pcm_nsc-dep-parataxis-mod.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 9240 sentences and 140799 tokens.</li>
+<li>This corpus contains 9241 sentences and 140842 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 46 tokens (0%) that are not followed by a space.</li>
+<li>This corpus contains 57 tokens (0%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -97,7 +97,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>This corpus contains 43 types of words that contain both letters and punctuation. Examples: n't, dat's, 's, o'clock, 'm, a'ah, don't, D-Morris, it's, p.m., a.m., Port-Harcourt, billionaire's, ex-soldier, pre-degree, 'll, 're, Africa's, Champions', Co-commander, God's, John's, Momo's, O'neill, O.A., O.D.S., S., Zimbabwe's, admin's, e-services, guy's, hm'm, ma-akara, ma-firewood, ninety-six, o'oh, p-man, people's, pro-European, self-sufficient, twenty-fourth, un-African, voter's</li>
+<li>This corpus contains 42 types of words that contain both letters and punctuation. Examples: n't, dat's, 's, o'clock, 'm, a'ah, D-Morris, it's, p.m., a.m., Port-Harcourt, billionaire's, ex-soldier, pre-degree, 'll, 're, Africa's, Champions', Co-commander, God's, John's, Momo's, O'neill, O.A., O.D.S., S., Zimbabwe's, admin's, e-services, guy's, hm'm, ma-akara, ma-firewood, ninety-six, o'oh, p-man, people's, pro-European, self-sufficient, twenty-fourth, un-African, voter's</li>
 </ul>
 
 <ul>
@@ -121,7 +121,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>This corpus contains 19 lemmas tagged as determiners (DET): X, a, all, anoder, another, any, both, dat, dese, di, dis, dose, each, every, few, no, one, some, which</li>
+<li>This corpus contains 20 lemmas tagged as determiners (DET): X, a, all, anoder, another, any, both, dat, dese, di, dis, dose, each, every, few, no, one, other, some, which</li>
 </ul>
 
 <ul>
@@ -206,13 +206,13 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: your, sleepless</li>
-      <li>ADV: students</li>
+      <li>ADJ: your, sleepless, deir</li>
+      <li>ADV: students, den</li>
       <li>AUX: Don</li>
       <li>DET: dose, dese, those</li>
       <li>NOUN: people, tings, women, things, children, years, men, tins, girls, months</li>
       <li>PART: dem</li>
-      <li>PRON: we, de, dem, your, us, una, our, deir, oursef, dose</li>
+      <li>PRON: we, de, dem, your, us, una, our, deir, dose, oursef</li>
       <li>PROPN: Nigerians, Americans, Corinthians, Fridays, Mondays, Saturdays, Sundays, Wednesdays</li>
       <li>X: de</li>
     </ul>
@@ -252,7 +252,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: Champions', childs, guy, guy's, people's</li>
+      <li>NOUN: childs, guy, guy's, people's, Champions'</li>
       <li>PROPN: Africa's, God's, John's, Momo's, Zimbabwe's</li>
     </ul>
   </li>
@@ -331,7 +331,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: no, never, don't, not</li>
+      <li>AUX: no, never, not</li>
       <li>DET: no</li>
       <li>INTJ: no</li>
       <li>PART: no, not, n't</li>
@@ -558,7 +558,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: your, its</li>
+      <li>ADJ: your, deir, its</li>
       <li>PRON: my, your, our, deir, her, im, una, we, dem, e</li>
     </ul>
   </li>
@@ -607,7 +607,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>3
     <ul>
-      <li>ADJ: its</li>
+      <li>ADJ: deir, its</li>
       <li>AUX: is, 's, be, does</li>
       <li>AUX-Fin: is, 's, does</li>
       <li>PART: dem</li>
@@ -624,6 +624,94 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: empty</li>
+          <li>AUX: no</li>
+          <li>VERB: clean</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADJ: close, more, due</li>
+          <li>ADP: on, for, as, up, out, inside, at, based</li>
+          <li>ADV: apart, instead</li>
+          <li>CCONJ: plus</li>
+          <li>NOUN: sake, courtesy</li>
+          <li>SCONJ: because, cause</li>
+          <li>VERB: base, according, based</li>
+          <li>VERB-Part: according, based</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADJ: first, later</li>
+          <li>ADP: at, in, of, as</li>
+          <li>ADV: how</li>
+          <li>AUX: may</li>
+          <li>CCONJ: and</li>
+          <li>NOUN: step, upside</li>
+          <li>VERB: tay</li>
+          <li>X: per</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: and, but</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>AUX: na</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>ADP: by</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>AUX: na</li>
+        </ul>
+      </li>
+      <li>PROPN
+        <ul>
+          <li>ADJ: Federal, New, National, Cool, South, Nigerian, African, Big, Central, Good</li>
+          <li>ADP: On</li>
+          <li>ADV: All</li>
+          <li>INTJ: OK</li>
+          <li>NOUN: Port, Bronze, Minister, Radio, chief, Committee, General, House, Ministry, Senate</li>
+          <li>PRON: We</li>
+          <li>PROPN: Delta, Wazobia, Lagos, Nigeria, Edo, Bayelsa, Manchester, Osun, Etsako, Imo</li>
+          <li>X: Boko, Copa, Cup, La</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: like, as, in, of, unto, for, from, instead, on, upon</li>
+          <li>ADV: so, instead, apart, as, far</li>
+          <li>AUX: na, be</li>
+          <li>NOUN: sake</li>
+          <li>SCONJ: wey, so, because, if, dough, sey</li>
+          <li>VERB: base, following</li>
+          <li>VERB-Part: following</li>
+        </ul>
+      </li>
+      <li>VERB
+        <ul>
+          <li>ADJ: good, plenty, sweet, ready, cost, fine, thick, sick, big, hard</li>
+          <li>NOUN: dust</li>
+          <li>VERB: kick</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>PartType</a>
@@ -684,7 +772,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1773)</li>
+      <li>VERB--NOUN (1774)</li>
       <li>VERB--NOUN-ADP(as) (1)</li>
       <li>VERB--NOUN-ADP(on) (2)</li>
       <li>VERB--PRON (348)</li>
@@ -703,7 +791,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (3916)</li>
+      <li>VERB--NOUN (3917)</li>
       <li>VERB--NOUN-ADP(for) (1)</li>
       <li>VERB--NOUN-ADP(if) (1)</li>
       <li>VERB--NOUN-ADP(in) (1)</li>
@@ -733,11 +821,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (404)</li>
       <li>VERB--PRON (4)</li>
       <li>VERB--PRON-Acc (395)</li>
       <li>VERB--PRON-Nom (101)</li>
-      <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
@@ -756,7 +842,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>csubj:outer</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>iobj:agent</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:conj</a>, <a>parataxis:discourse</a>, <a>parataxis:dislocated</a>, <a>parataxis:mod</a>, <a>parataxis:parenth</a></li>
+<li>This corpus uses 19 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>csubj:outer</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:conj</a>, <a>parataxis:discourse</a>, <a>parataxis:dislocated</a>, <a>parataxis:mod</a>, <a>parataxis:parenth</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>obl</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>punct</a></li>
 </ul>

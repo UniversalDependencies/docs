@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>вӧлі</em> (<tt><a href="kpv_latti
   * <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> 2: <em>Ме зэв рад , мый Владикыскӧд огӧ торъялӧй , a <b>лоам</b> ӧти сиктынӧсь , асланым муса Льӧмшорынӧсь .</em>
   * <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> 1: <em>Ми тэкӧд бур другъясӧн на <b>лоам</b> , зэв бур другъясӧн .</em>
 * <em>ни</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Эз позь бӧрйыны <b>ни</b> Питер Смитӧс , <b>ни</b> Мери Браунӧс .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Ни горзӧмъяс , <b>ни</b> лыйсьӧмъяс .</em>
   * <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> 2: <em>Енэжын <b>ни</b> ӧти кымӧртор эз тыдав .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Водзын сулалісны бурджыка олысьяс нин , кодъяслӧн паськӧманыс эз тыдав ни дӧмас , <b>ни</b> резьдӧмин , да и эм мый налы пуктыны вичко блюдйӧ .</em>
 * <em>вай</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>вӧлі</em> (<tt><a href="kpv_latti
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.166667 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `AUX` is 3.166667 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (9) was observed with the lemma “оз”: <em>Огыд, ог, огӧ, оз, оз-ӧ, он, эг, эз, эн</em>.
 
@@ -61,12 +61,12 @@ The 2nd highest number of forms (7) was observed with the lemma “вермын�
 
 The 3rd highest number of forms (7) was observed with the lemma “лоны”: <em>лоам, лоас, лоины, лоисны, лоны, лоӧ, лоӧны</em>.
 
-`AUX` occurs with 14 features: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt> (257; 83% instances), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt> (247; 80% instances), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt> (240; 78% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (222; 72% instances), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt> (150; 49% instances), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt> (38; 12% instances), <tt><a href="kpv_lattice-feat-Connegative.html">Connegative</a></tt> (28; 9% instances), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt> (5; 2% instances), <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-Clitic.html">Clitic</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-Evident.html">Evident</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
+`AUX` occurs with 13 features: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt> (257; 83% instances), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt> (247; 80% instances), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt> (240; 78% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (222; 72% instances), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt> (150; 49% instances), <tt><a href="kpv_lattice-feat-Connegative.html">Connegative</a></tt> (28; 9% instances), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt> (5; 2% instances), <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-Clitic.html">Clitic</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-Evident.html">Evident</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
 
-`AUX` occurs with 20 feature-value pairs: `Case=Nom`, `Clitic=O`, `Connegative=Yes`, `Evident=Nfh`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Number[subj]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Valency=1`, `VerbForm=Inf`
+`AUX` occurs with 19 feature-value pairs: `Case=Nom`, `Clitic=O`, `Connegative=Yes`, `Evident=Nfh`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Number[subj]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`
 
-`AUX` occurs with 53 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past` (39 tokens).
+`AUX` occurs with 44 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past` (51 tokens).
 Examples: <em>вӧлі, кутіс, пондіс, коліс</em>
 
 

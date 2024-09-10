@@ -11,9 +11,9 @@ This relation is universal.
 9023 nodes (4%) are attached to their parents as `root`.
 
 9023 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.4962872658761.
+Average distance between parent and child is 9.46647456500055.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (7307; 81% instances), -<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1127; 12% instances), -<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (423; 5% instances), -<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (132; 1% instances), -<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (23; 0% instances), -<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (4; 0% instances), -<tt><a href="la_llct-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (2; 0% instances), -<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="la_llct-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (7308; 81% instances), -<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1169; 13% instances), -<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (424; 5% instances), -<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (82; 1% instances), -<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (23; 0% instances), -<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="la_llct-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (4; 0% instances), -<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="la_llct-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,13 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 9 root	color:blue
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	9	cc	_	_
-2	duas	duo	NUM	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	5	nummod	_	_
+2	duas	duo	NUM	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
 3	inter	inter	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
-4	nos	nos	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	obl	_	_
+4	nos	nos	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obl	_	_
 5	cartulas	chartula	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Plur	8	obj	_	_
 6	Rachifonsum	Rachifonsus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	8	nsubj	_	_
 7	notarium	notarius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	6	appos	_	_
-8	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	scribere	scribo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	9	ccomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	rogavimus	rogo	VERB	v|v|1|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 10	.	.	PUNCT	Punc	_	9	punct	_	_
 
@@ -43,13 +43,13 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 10 root	color:blue
 1	+	+	PUNCT	SYM	_	3	punct	_	_
-2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	det	_	_
+2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	det	_	_
 3	Viventius	Viuentius	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
 4	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	3	punct	_	_
 6	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	8	mark	_	_
 7	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	8	advmod	_	_
-8	legitur	lego	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+8	legitur	lego	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	10	advcl:cmp	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	,	,	PUNCT	Punc	_	8	punct	_	_
 10	missus	missus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 11	fui	sum	AUX	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -65,8 +65,8 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	manifestu	manifestus	ADJ	a|a|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
-2	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	det	_	_
+2	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	det	_	_
 4	Ardo	Ardus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	6	punct	_	_
 6	filio	filius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	4	appos	_	_
@@ -86,7 +86,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 20	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	21	case	_	_
 21	cartulam	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	22	obl	_	_
 22	venundavit	uenumdo	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-23	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	22	obl:arg	_	_
+23	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	22	obl:arg	_	_
 24	omnibus	omnis	DET	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|PronType=Tot	25	det	_	_
 25	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	22	obl:arg	_	_
 26	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	25	det	_	SpaceAfter=No

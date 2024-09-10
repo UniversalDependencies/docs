@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	.	.	PUNCT	FS	_	7	punct	_	_
 13	[	[	PUNCT	FB	_	14	punct	_	SpaceAfter=No
 14	@user	@user	SYM	SYM	_	2	vocative:mention	_	SpaceAfter=No
-15	]	]	PUNCT	FB	_	14	punct	_	SpaceAfter=\n
+15	]	]	PUNCT	FB	_	14	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -86,7 +86,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 17	CONTINUA	continuare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 18	su	su	ADP	E	_	19	case	_	_
 19	http://t.co/oDPUtxkMK3	http://t.co/oDPUtxkMK3	SYM	X	_	17	nmod	_	SpaceAfter=No
-20	]	]	PUNCT	FB	_	17	punct	_	SpaceAfter=\n
+20	]	]	PUNCT	FB	_	17	punct	_	SpacesAfter=\n
 
 ~~~
 

@@ -15,4 +15,4 @@ Both the boys and the girls are here
 cc:preconj(boys, Both)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:15 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:53 CEST -->

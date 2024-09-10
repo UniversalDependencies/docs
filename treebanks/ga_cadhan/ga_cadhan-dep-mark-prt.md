@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_cadhan-dep-mark.html">mark</a></tt>.
 
-134 nodes (4%) are attached to their parents as `mark:prt`.
+159 nodes (3%) are attached to their parents as `mark:prt`.
 
-134 instances of `mark:prt` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02238805970149.
+159 instances of `mark:prt` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0251572327044.
 
-The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (117; 87% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (14; 10% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `mark:prt`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (136; 86% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (20; 13% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

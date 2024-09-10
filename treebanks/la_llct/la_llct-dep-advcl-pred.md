@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_llct-dep-advcl.html">advcl</a></tt>.
 There are also 3 other language-specific subtypes of `advcl`: <tt><a href="la_llct-dep-advcl-abs.html">advcl:abs</a></tt>, <tt><a href="la_llct-dep-advcl-cmp.html">advcl:cmp</a></tt>, <tt><a href="la_llct-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-11 nodes (0%) are attached to their parents as `advcl:pred`.
+12 nodes (0%) are attached to their parents as `advcl:pred`.
 
-7 instances of `advcl:pred` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 14.1818181818182.
+8 instances of `advcl:pred` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 15.
 
-The following 4 pairs of parts of speech are connected with `advcl:pred`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (6; 55% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (3; 27% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
+The following 5 pairs of parts of speech are connected with `advcl:pred`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (6; 50% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (3; 25% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -92,68 +92,94 @@ The following 4 pairs of parts of speech are connected with `advcl:pred`: <tt><a
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 11 advcl:pred	color:blue
-1	constat	consto	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-2	me	ego	PRON	p|p|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	det	_	_
-3	Auriprandum	Auriprandus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
-4	presbiterum	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	_
-5	filio	filius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	3	appos	_	_
-6	bone	bonus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
-7	memorie	memoria	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
-8	Piruli	Pirulus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	Punc	_	18	punct	_	_
-10	quia	quia	SCONJ	c|c|-|-|-|-|-|-|-|-	_	18	mark	_	_
-11	presenti	praesens	ADJ	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	18	advcl:pred	_	_
-12	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	14	case	_	_
-13	hanc	hic	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_
-14	cartulam	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	15	obl	_	_
-15	vendere	uendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	18	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-16	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	17	cc	_	_
-17	tradere	trado	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	15	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-18	videor	uideo	VERB	v|v|1|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	1	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-19	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	det	_	_
-20	Iohanni	Johannes	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	15	obl:arg	_	_
-21	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	23	case	_	_
-22	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
-23	nomine	nomen	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	24	nmod	_	_
-24	episcopo	episcopus	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	20	appos	_	_
-25	omnis	omnis	DET	a|a|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	26	det	_	_
-26	res	res	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	15	obj	_	_
-27	mea	meus	DET	a|a|1|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	26	det	_	_
-28	quam	qui	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	29	obj	_	_
-29	abeo	habeo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-30	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	31	case	_	_
-31	Vicopelago	Vicopelagus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	29	obl	_	_
-32	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	34	cc	_	_
-33	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	34	case	_	_
-34	gahagio	gahagium	PROPN	Propn|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	31	conj	_	_
-35	da	da	ADP	r|r|-|-|-|-|-|-|-|-	_	36	case	_	_
-36	[Propn]	_	PROPN	Punc	_	34	nmod	_	SpaceAfter=No
-37	,	,	PUNCT	Punc	_	39	punct	_	_
-38	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	39	advmod:emph	_	_
-39	terris	terra	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	15	conj	_	_
-40	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	42	mark	_	_
-41	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	42	advmod:emph	_	_
-42	vineis	uinea	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	39	advcl:cmp	_	SpaceAfter=No
-43	,	,	PUNCT	Punc	_	44	punct	_	_
-44	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	15	conj	_	_
-45	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	47	cc	_	_
-46	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	47	case	_	_
-47	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot	44	conj	_	SpaceAfter=No
-48	,	,	PUNCT	Punc	_	51	punct	_	_
-49	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	50	advmod	_	_
-50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-51	videor	uideo	VERB	v|v|1|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	44	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-52	,	,	PUNCT	Punc	_	44	punct	_	_
-53	culta	cultus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	54	amod	_	_
-54	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	44	conj	_	_
-55	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	56	cc	_	_
-56	inculta	incultus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	53	conj	_	SpaceAfter=No
-57	;	;	PUNCT	Punc	_	1	punct	_	_
+# visual-style 46	bgColor:blue
+# visual-style 46	fgColor:white
+# visual-style 70	bgColor:blue
+# visual-style 70	fgColor:white
+# visual-style 70 46 advcl:pred	color:blue
+1	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	11	case	_	_
+2	tua	tuus	DET	a|a|2|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	11	det	_	_
+3	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+4	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	_
+5	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
+6	Martini	Martinus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+7	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	9	cc	_	_
+8	tuis	tuus	DET	a|a|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	9	det	_	_
+9	rectoribus	rector	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	2	conj	_	_
+10	sit	sum	AUX	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+11	potestatem	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	0	root	_	_
+12	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	25	mark	_	_
+13	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	_	23	advmod	_	_
+14	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	17	case	_	_
+15	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	16	advmod:tmod	_	_
+16	memorata	memoro	VERB	t|t|-|s|r|p|p|f|b|-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	17	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+17	cartulam	chartula	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Degree=Dim|Gender=Fem|Number=Sing	23	obl	_	_
+18	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	21	cc	_	_
+19	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	21	det	_	_
+20	dicta	dico	VERB	t|t|-|s|r|p|p|f|b|-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19	fixed	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+21	res	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	17	conj	_	_
+22	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	23	obl:arg	_	_
+23	heredes	heres	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	25	xcomp	_	_
+24	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	23	cop	_	_
+25	debeas	debeo	VERB	v|v|2|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	11	csubj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+26	,	,	PUNCT	Punc	_	44	punct	_	_
+27	quia	quia	SCONJ	c|c|-|-|-|-|-|-|-|-	_	44	mark	_	_
+28	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	29	case	_	_
+29	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot	42	obl	_	_
+30	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	31	case	_	_
+31	hec	hic	DET	p|p|-|p|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	42	obl	_	_
+32	que	qui	PRON	p|p|-|p|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	34	nsubj:pass	_	_
+33	superius	superius	ADV	d|d|-|-|-|-|-|-|-|c	Degree=Cmp	34	advmod	_	_
+34	legitur	lego	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	31	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+35	te	tu	PRON	p|p|2|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=2|PronType=Prs	38	det	_	_
+36	sanctam	sanctus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	38	amod	_	_
+37	Dei	Deus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	_
+38	ecclesiam	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	42	nsubj	_	_
+39	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	41	cc	_	_
+40	tuis	tuus	DET	a|a|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	41	det	_	_
+41	rectoribus	rector	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	38	conj	_	_
+42	heredes	heres	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	44	xcomp	_	_
+43	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	42	cop	_	_
+44	constituo	constituo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	23	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+45	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	70	mark	_	_
+46	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	70	advcl:pred	_	_
+47	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	49	cc	_	_
+48	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	49	case	_	_
+49	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot	46	conj	_	_
+50	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	53	advmod:emph	_	_
+51	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	53	nmod	_	_
+52	memoratam	memoro	VERB	t|t|-|s|r|p|p|f|n|-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	53	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+53	cartulam	chartula	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Degree=Dim|Gender=Fem|Number=Sing	70	advcl	_	_
+54	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	57	mark	_	_
+55	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	57	advmod:emph	_	_
+56	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	57	det	_	_
+57	res	res	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	70	advcl:cmp	_	SpaceAfter=No
+58	,	,	PUNCT	Punc	_	65	punct	_	_
+59	quem	qui	PRON	p|p|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	65	nsubj:pass	_	_
+60	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	61	case	_	_
+61	cartula	chartula	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Degree=Dim|Gender=Fem|Number=Sing	63	obl	_	_
+62	illa	ille	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	61	det	_	_
+63	commemorata	commemoro	VERB	t|t|-|s|r|p|p|f|b|-	Aspect=Perf|Case=Abl|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	65	xcomp	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+64	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	63	aux:pass	_	_
+65	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	57	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+66	,	,	PUNCT	Punc	_	57	punct	_	_
+67	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	70	case	_	_
+68	vestra	uester	DET	a|a|2|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	70	det	_	_
+69	sit	sum	AUX	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	70	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+70	potestatem	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	44	advcl	_	_
+71	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	72	case	_	_
+72	prefinito	praefinitus	ADJ	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	70	obl	_	_
+73	avendum	habeo	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	70	acl	_	SpaceAfter=No|TraditionalMood=Gerundium
+74	,	,	PUNCT	Punc	_	75	punct	_	_
+75	possedendum	possideo	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	73	conj	_	SpaceAfter=No|TraditionalMood=Gerundium
+76	,	,	PUNCT	Punc	_	77	punct	_	_
+77	faciendum	facio	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	73	conj	_	SpaceAfter=No|TraditionalMood=Gerundium
+78	,	,	PUNCT	Punc	_	79	punct	_	_
+79	iudicandum	iudico	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	73	conj	_	TraditionalMood=Gerundium
+80	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	_	73	advmod	_	_
+81	quod	qui	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	82	obj	_	_
+82	volueritis	uolo	VERB	v|v|2|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	73	ccomp:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
+83	;	;	PUNCT	Punc	_	11	punct	_	_
 
 ~~~
 

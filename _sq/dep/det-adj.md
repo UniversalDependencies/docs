@@ -13,4 +13,4 @@ kultivimi i mendimeve të bukura \n cultivation of thoughts beautiful
 det:adj(bukura, të)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:22 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:07 CEST -->

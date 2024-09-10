@@ -43,7 +43,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 19	優れ	優れる	VERB	動詞-一般-下一段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|LUWBILabel=B|LUWPOS=動詞-一般-下一段-ラ行|SpaceAfter=No|UnidicInfo=,優れる,優れ,優れる,スグレ,,,スグレル,スグレル,優れる
 20	て	て	SCONJ	助詞-接続助詞	_	19	mark	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|LUWBILabel=B|LUWPOS=助動詞-上一段-ア行|SpaceAfter=No|UnidicInfo=,て,て,て,テ,,,テ,テイル,ている
 21	いる	居る	VERB	動詞-非自立可能-上一段-ア行	_	20	fixed	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=I|LUWPOS=助動詞-上一段-ア行|PrevUDLemma=いる|SpaceAfter=No|UnidicInfo=,居る,いる,いる,イル,,,イル,テイル,ている
-22	。	。	PUNCT	補助記号-句点	_	19	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+22	。	。	PUNCT	補助記号-句点	_	19	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-句点|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

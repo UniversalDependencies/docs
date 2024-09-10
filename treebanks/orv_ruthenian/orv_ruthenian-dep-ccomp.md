@@ -8,86 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (1%) are attached to their parents as `ccomp`.
+333 nodes (0%) are attached to their parents as `ccomp`.
 
-17 instances of `ccomp` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 19.8333333333333.
+332 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.3753753753754.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (17; 94% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (253; 76% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (37; 11% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt> (24; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 38	bgColor:blue
-# visual-style 38	fgColor:white
-# visual-style 38 32 ccomp	color:blue
-1	А	_	CCONJ	CC	_	11	cc	_	_
-2	если	_	SCONJ	IN	_	5	mark	_	_
-3	которому	_	DET	DT	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	4	det	_	_
-4	народу	_	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	_
-5	встыдъ	_	VERB	PRED	_	11	advcl	_	_
-6	правъ	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	obj	_	_
-7	своихъ	_	DET	PRP$	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	6	det	_	_
-8	не	_	PART	NEG	Polarity=Neg	9	advmod	_	_
-9	умети	_	VERB	VBC	Aspect=Imp|VerbForm=Inf|Voice=Act	5	csubj	_	SpaceAfter=No
-10	,	_	PUNCT	PUNCT	_	5	punct	_	_
-11	поготовю	_	VERB	PRED	_	0	root	_	_
-12	намъ	_	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	11	iobj	_	SpaceAfter=No
-13	,	_	PUNCT	PUNCT	_	25	punct	_	_
-14	которые	_	PRON	WPA	Animacy=Inan|Case=Acc|Number=Plur|PronType=Rel	25	nsubj	_	_
-15	не	_	PART	NEG	Polarity=Neg	18	advmod	_	_
-16	обчым	_	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
-17	яким	_	DET	WPA	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	18	det	_	_
-18	языком	_	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	24	iobj	_	SpaceAfter=No
-19	,	_	PUNCT	PUNCT	_	22	punct	_	_
-20	але	_	CCONJ	CC	_	22	cc	_	_
-21	своимъ	_	DET	PRP$	Case=Ins|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	22	det	_	_
-22	власнымъ	_	ADJ	JJL	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	18	conj	_	_
-23	права	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	25	obj	_	_
-24	списаные	_	VERB	VBNH	Aspect=Perf|Case=Acc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	23	acl	_	_
-25	маем	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl:relcl	_	_
-26	и	_	CCONJ	CC	_	39	cc	_	_
-27	кождого	_	DET	JJL	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	28	det	_	_
-28	часу	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	obl:tmod	_	SpaceAfter=No
-29	,	_	PUNCT	PUNCT	_	32	punct	_	_
-30	чого	_	PRON	WP	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Int	32	obj	_	_
-31	намъ	_	PRON	PRP	Case=Dat|Number=Plur|Person=1|PronType=Prs	32	iobj	_	_
-32	потреба	_	VERB	PRED	_	38	ccomp	_	_
-33	ку	_	ADP	IN	_	34	case	_	_
-34	отпору	_	NOUN	NN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	32	obl	_	_
-35	всякое	_	DET	DT	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	36	det	_	_
-36	кривды	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	34	nmod	_	SpaceAfter=No
-37	,	_	PUNCT	PUNCT	_	32	punct	_	_
-38	ведати	_	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	39	xcomp	_	_
-39	можемъ	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	SpaceAfter=No
-40	.	_	PUNCT	PUNCT	_	11	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 ccomp	color:blue
+1	И	и	CCONJ	СС	_	2	cc	_	wf="И"
+2	поведаеть	поведати	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	wf="поведаеть"|SpaceAfter=No
+3	,	,	PUNCT	-COMMA-	_	2	punct	_	_
+4	што	што	SCONJ	IN	_	6	mark	_	wf="што"
+5	ж	жъ	PART	RP	_	4	fixed	_	wf="ж"
+6	ѡтлезъ	отлезти	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	2	ccomp	_	wf="ѡтлезъ"
+7	его	онъ	PRON	PRP	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	wf="его"
+8	чисто	чисто	ADV	RB	Degree=Pos	6	advmod	_	wf="чисто"
+9	там	тамъ	ADV	RB	Degree=Pos	6	advmod	_	wf="там"
+10	оу	въ	ADP	IN	_	11	case	_	wf="оу"
+11	Ризѣ	Рига	PROPN	NPI	Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	6	obl	_	wf="Ризѣ"|SpaceAfter=No
+12	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 ccomp	color:blue
-1	Яко	_	SCONJ	IN	_	3	mark	_	_
-2	Цыцеро	_	PROPN	NNP	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	_
-3	поведилъ	_	VERB	VBC	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-4	,	_	PUNCT	PUNCT	_	7	punct	_	_
-5	ижъ	_	SCONJ	IN	_	7	mark	_	_
-6	естесмо	_	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
-7	невольниками	_	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	3	ccomp	_	_
-8	правъ	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	_
-9	для	_	ADP	IN	_	10	case	_	_
-10	того	_	PRON	DT	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
-11	,	_	PUNCT	PUNCT	_	15	punct	_	_
-12	абысьмы	_	SCONJ	IN	Analyt=Yes|Mood=Cnd|Number=Plur|Person=1	15	mark	_	_
-13	вольности	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
-14	уживати	_	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	_
-15	могли	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	SpaceAfter=No
-16	.	_	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 3 8 ccomp	color:blue
+1	И	и	CCONJ	СС	_	3	cc	_	wf="И"
+2	Васил(ь)	Василь	PROPN	NPA	Case=Nom|Gender=Masc|NameType=Giv|Number=Sing	3	nsubj	_	wf="Василь"
+3	мовит(ь)	мовити	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="мовить"|SpaceAfter=No
+4	:	:	PUNCT	-COLON-	_	8	punct	_	_
+5	«	«	PUNCT	-QUOT-	_	8	punct	_	SpaceAfter=No
+6	То	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	wf="То"
+7	мое	мой	DET	PRP$	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	wf="мое"
+8	дерево	дерево	NOUN	NNI	Case=Nom|Gender=Neut|Number=Sing	3	ccomp	_	wf="дерево"|SpaceAfter=No
+9	.	.	PUNCT	-PERIOD-	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 ccomp	color:blue
+1	Росмотрите	розсмотрети	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	wf="Росмотрите"|SpaceAfter=No
+2	,	,	PUNCT	-COMMA-	_	3	punct	_	_
+3	добро	добрый	ADJ	JJH	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	ccomp	_	wf="добро"
+4	ль	ли	PART	RP	_	3	advmod	_	wf="ль"
+5	то	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	wf="то"
+6	будет(ь)	быти	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	_	wf="будеть"|SpaceAfter=No
+7	?	?	PUNCT	-PERIOD-	_	1	punct	_	_
 
 ~~~
 

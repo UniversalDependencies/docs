@@ -16,4 +16,4 @@ governor of the copular subject.
 cop(нимкодь-3, вӧлі-4)
 csubj:cop(нимкодь-3, чеччыштлыны-7)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:20 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:02 CEST -->

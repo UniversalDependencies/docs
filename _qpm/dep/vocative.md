@@ -12,3 +12,4 @@ Ahmét, kakná íma na drúgono düņó?
 "Ahmet, what exists in the other world?"       
 vocative(íma, Ahmét)
 ~~~ 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:48 CEST -->

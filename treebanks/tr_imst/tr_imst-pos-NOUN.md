@@ -19,36 +19,36 @@ The 10 most frequent ambiguous types:  <em>zaman</em> (<tt><a href="tr_imst-pos-
 
 
 * <em>zaman</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 72: <em>O <b>zaman</b> ööö ..</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 72: <em>Uzun <b>zaman</b> dır mı gidersiniz oraya .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 3: <em>Ne <b>zaman</b> tepem attı , kaptım bekletilen tepsiyi masadan ?</em>
 * <em>gün</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 69: <em>O <b>gün</b> nöbetçi ydi .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 69: <em>Ne dedi biliyor musun geçen <b>gün</b> telefonda .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em>Eksi elli dereceye varan kış , onu son nefes aldığı <b>gün</b> kü kadar zinde gösteriyor .</em>
 * <em>gece</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 39: <em>O son a Hülya'yı oturtup kaç <b>gece</b> uykumdan fırlamıştım .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 39: <em>Bir <b>gece</b> zamanı , yatakta yken söyledi hem de ...</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>oniki Aralık'a kadar çıkarılması beklenen AB uyum yasalarını içeren paketin çalışmaları dün <b>gece</b> tamamlandı .</em>
 * <em>yıl</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 43: <em>Hep o benden iki <b>yıl</b> önce .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 43: <em>İki <b>yıl</b> önce bir kabadayı , tabancasını havaya sıka sıka kaçabilmiş .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>Bin <b>yıl</b> kadar sonra da Moğol kavimlerinin saldırısı ile bugün yaşadıkları bölgeleri yurt edindiler .</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 2: <em>kirk <b>yıl</b> önce bulunmuş değildir .</em>
 * <em>önem</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 31: <em>Ne tuhaf , başka şeyler <b>önem</b> kazandı gibi ...</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 2: <em>İş Kanunu'nda öngörülen değişikliklerin bir an önce gerçekleştirilmesi ve bunun , İş Güvencesi Yasası'ndan önce yürürlüğe sokulması hayati <b>önem</b> taşıyor " diye konuştu .</em>
 * <em>an</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 32: <em>Uyuşturucusu kesilmiş bir bağımlı gibi yim şu <b>an</b> , dedi .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 4: <em>Bir <b>an</b> için sokakta ki köpekler nasıl hayatta kalıyorlar diye düşündüm .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 32: <em>Kapının kenarında ki duvara dayanıp bize baktı bir <b>an</b> .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 4: <em>O , her <b>an</b> gelecek gibi dir ; her an .</em>
 * <em>çocuk</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 26: <em>Bu çoluk <b>çocuk</b> mu bizi yönetecek ? deniyordu .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 26: <em>Baksana <b>çocuk</b> nasıl çırpınıyor .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em>Hitler'in Almanya için kimi iyi şeyler yaptığına , Karl mark s'ın dört ayak üstünde çocukları sırtında gezdiren , büyümeyen bir <b>çocuk</b> olarak kaldığına hayretle muttali oluyorsunuz .</em>
 * <em>iş</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 30: <em>Memo keyifle bağırdı : Ben <b>iş</b> diye buna derim iste ! ...</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 30: <em>Can sık ıcı bir <b>iş</b> .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em>Gündüz ayrı <b>iş</b> , gece ayrı iş ; can mı dayanır , diye söylendi saatine bakarken .</em>
 * <em>yer</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 30: <em>Bağımlılık yapan bir <b>yer</b> bu Erkekler Parkı .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 30: <em>Ne kadar ürküt ücü ve bir o kadar da çekici bir <b>yer</b> orası .</em>
   * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 4: <em>Ben im gibi yüksek tansiyonu olan lar tuzsuz da <b>yer</b> .</em>
 * <em>kez</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 28: <em>Herkes ömründe bir <b>kez</b> buraya uğrar .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 6: <em>NA toplantılarında ilk <b>kez</b> başkalarına yöneldim .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 28: <em>Hayır , yalnızca iki <b>kez</b> gittim .</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 6: <em>Ramiz bir <b>kez</b> daha vurdu kapıya .</em>
 
 ## Morphology
 

@@ -8,70 +8,76 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (1%) are attached to their parents as `conj`.
+161 nodes (1%) are attached to their parents as `conj`.
 
-18 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.72222222222222.
+161 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.63354037267081.
 
-The following 5 pairs of parts of speech are connected with `conj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (8; 44% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (6; 33% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 conj	color:blue
-1	Indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=0:4
-2	rewewé	wewé	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:11
-3	yepé	yepé	PART	FRUST	Aspect=Frus	2	advmod	_	TokenRange=12:16
-4	kutara	kutara	ADV	ADV	_	2	advmod	_	SpaceAfter=No|TokenRange=17:23
-5	,	,	PUNCT	PUNCT	_	7	punct	_	TokenRange=23:24
-6	ma	ma	CCONJ	CCONJ	_	7	cc	_	TokenRange=25:27
-7	remaã	maã	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	conj	_	TokenRange=28:33
-8	mamentu	mamentu	ADV	ADV	_	9	advmod	_	TokenRange=34:41
-9	resika	sika	VERB	V	Number=Sing|Person=2|VerbForm=Fin	7	ccomp	_	SpaceAfter=No|TokenRange=42:48
-10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=48:49
-
-~~~
+The following 18 pairs of parts of speech are connected with `conj`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (64; 40% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (54; 34% instances), <tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt>-<tt><a href="yrl_complin-pos-INTJ.html">INTJ</a></tt> (10; 6% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 7 conj	color:blue
-1	Kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:3
-2	maniaka	maniaka	NOUN	N	Number=Sing	4	obl	_	TokenRange=4:11
-3	irumu	irumu	ADP	ADP	_	2	case	_	TokenRange=12:17
-4	yamunhã	munhã	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=18:25
-5	meyú	meyú	NOUN	N	Number=Sing	4	obj	_	TokenRange=26:30
-6	asuí	asuí	CCONJ	CONJ	_	7	cc	_	TokenRange=31:35
-7	masuka	masuka	NOUN	N	Number=Sing	5	conj	_	SpaceAfter=No|TokenRange=36:42
-8	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=42:43
-9	umeẽ	meẽ	VERB	V	Person=3|VerbForm=Fin	4	parataxis	_	TokenRange=44:48
-10	turusú	turusú	DET	IND	PronType=Ind	11	det	_	TokenRange=49:55
-11	tipiaka	tipiaka	NOUN	N	Number=Sing	9	obj	_	SpaceAfter=No|TokenRange=56:63
-12	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=63:64
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj	color:blue
+1	[...]	[...]	PUNCT	ELIP	_	2	punct	_	TokenRange=0:5
+2	remurari	murari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=6:14
+3	iké	iké	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	2	advmod	_	TokenRange=15:18
+4	u	u	CCONJ	CCONJ	_	5	cc	_	TokenRange=19:20
+5	remurari	murari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	conj	_	TokenRange=21:29
+6	interior	interior	NOUN	N	Number=Sing	5	obl	_	OrigLang=pt|TokenRange=30:38
+7	kití	kití	ADP	ADP	AdpType=Post	6	case	_	TokenRange=39:43
+8	[...]	[...]	PUNCT	ELIP	PunctType=Elip	5	punct	_	TokenRange=44:49
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 conj	color:blue
-1	Yamunhã	munhã	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=0:7
-2	timbiú	timbiú	NOUN	N	Number=Sing	1	obj	_	SpaceAfter=No|TokenRange=8:14
-3	,	,	PUNCT	PUNCT	_	4	punct	_	TokenRange=14:15
-4	yapinaitika	pinaitika	VERB	V	Number=Plur|Person=1|VerbForm=Fin	2	conj	_	SpaceAfter=No|TokenRange=16:27
-5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=27:28
-6	yamunhã	munhã	VERB	V	Number=Plur|Person=1|VerbForm=Fin	2	conj	_	TokenRange=29:36
-7	kaxirí	kaxirí	NOUN	N	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=37:43
-8	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=43:44
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 10 conj	color:blue
+1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	upiripana	piripana	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=3:12
+3	kurí	kurí	PART	FUT	Tense=Fut	2	advmod	_	TokenRange=13:17
+4	maã-itá	maã	NOUN	N	Number=Plur	2	obj	_	TokenRange=18:25
+5	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=26:27
+6	mimbira	mimbira	NOUN	N	Number=Sing	2	iobj	_	TokenRange=28:35
+7	supé	supé	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=36:40
+8	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=40:41
+9	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=42:43
+10	mena	mena	NOUN	N	Number=Sing	6	conj	_	TokenRange=44:48
+11	supé	supé	ADP	ADP	AdpType=Post	10	case	_	TokenRange=49:53
+12	yuíri	yuíri	CCONJ	CCONJ	_	10	cc	_	SpaceAfter=No|TokenRange=54:59
+13	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=59:60
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 conj	color:blue
+1	Uwatá	watá	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=0:5
+2	uikú	ikú	AUX	AUXFS	Person=3|VerbForm=Fin	1	aux	_	TokenRange=6:10
+3	kaá	kaá	NOUN	N	Number=Sing	1	obl	_	TokenRange=11:14
+4	rupí	rupí	ADP	ADP	AdpType=Post	3	case	_	SpaceAfter=No|TokenRange=15:19
+5	,	,	PUNCT	PUNCT	_	6	punct	_	TokenRange=19:20
+6	usendú	sendú	VERB	V	Person=3|VerbForm=Fin	1	parataxis	_	TokenRange=21:27
+7	tiapú	tiapú	VERB	V3	Number=Sing|Person=3|Rel=NCont|VerbForm=Fin	6	ccomp	_	TokenRange=28:33
+8	kwayé	kwayé	ADV	ADVA	AdvType=Man	7	advmod	_	SpaceAfter=No|TokenRange=34:39
+9	:	:	PUNCT	PUNCT	_	10	punct	_	TokenRange=39:40
+10	Txáu	txáu	INTJ	INTJ	_	7	parataxis	_	SpaceAfter=No|TokenRange=41:45
+11	!	!	PUNCT	PUNCT	_	10	punct	_	TokenRange=45:46
+12	txáu	txáu	INTJ	INTJ	_	10	conj	_	SpaceAfter=No|TokenRange=47:51
+13	!	!	PUNCT	PUNCT	_	12	punct	_	TokenRange=51:52
+14	txáu	txáu	INTJ	INTJ	_	10	conj	_	SpaceAfter=No|TokenRange=53:57
+15	!	!	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=57:58
 
 ~~~
 

@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>kanssa</em> (<tt><a href="fi_ftb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.204152 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `ADP` is 1.204152 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (7) was observed with the lemma “kanssa”: <em>kaa, kans, kansa, kanssa, kanssaan, kanssas, kanssasi</em>.
 

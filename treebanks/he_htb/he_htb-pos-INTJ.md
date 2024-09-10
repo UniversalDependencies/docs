@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  חלילה (<tt><a href="he_htb-pos-ADV.h
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.701287).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.702584).
 
 The 1st highest number of forms (1) was observed with the lemma “בבקשה”: בבקשה.
 

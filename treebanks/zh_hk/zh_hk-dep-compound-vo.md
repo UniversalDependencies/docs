@@ -23,26 +23,26 @@ The following 1 pairs of parts of speech are connected with `compound:vo`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 compound:vo	color:blue
-1	總	_	ADV	_	_	3	advmod	_	SpaceAfter=No
-2	要	_	AUX	_	_	3	aux	_	SpaceAfter=No
-3	幫	_	VERB	_	_	0	root	_	SpaceAfter=No
-4	別人	_	PRON	_	_	3	obj	_	SpaceAfter=No
-5	打工	_	VERB	_	_	3	xcomp	_	SpaceAfter=No
-6	的	_	PART	_	_	1	discourse:sp	_	SpaceAfter=No
-7	，	_	PUNCT	_	_	18	punct	_	SpaceAfter=No
-8	打	_	VERB	_	_	18	advcl	_	SpaceAfter=No
-9	過	_	AUX	_	_	8	aux	_	SpaceAfter=No
-10	工	_	NOUN	_	_	8	compound:vo	_	SpaceAfter=No
-11	有	_	VERB	_	_	8	conj	_	SpaceAfter=No
-12	經驗	_	NOUN	_	_	11	obj	_	SpaceAfter=No
-13	了	_	PART	_	_	8	discourse:sp	_	SpaceAfter=No
-14	，	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
-15	自己	_	PRON	_	_	18	nsubj	_	SpaceAfter=No
-16	就	_	ADV	_	_	18	advmod	_	SpaceAfter=No
-17	能	_	AUX	_	_	18	aux	_	SpaceAfter=No
-18	做	_	VERB	_	_	1	parataxis	_	SpaceAfter=No
-19	好	_	ADJ	_	_	18	compound:vv	_	SpaceAfter=No
-20	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+1	總	總	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=zǒng|LTranslit=zǒng
+2	要	要	AUX	_	_	3	aux	_	SpaceAfter=No|Translit=yào|LTranslit=yào
+3	幫	幫	VERB	_	_	0	root	_	SpaceAfter=No|Translit=bāng|LTranslit=bāng
+4	別人	別人	PRON	_	_	3	obj	_	SpaceAfter=No|Translit=biérén|LTranslit=biérén
+5	打工	打工	VERB	_	_	3	xcomp	_	SpaceAfter=No|Translit=dǎgōng|LTranslit=dǎgōng
+6	的	的	PART	_	_	1	discourse:sp	_	SpaceAfter=No|Translit=de|LTranslit=de
+7	，	，	PUNCT	_	_	18	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+8	打	打	VERB	_	_	18	advcl	_	SpaceAfter=No|Translit=dǎ|LTranslit=dǎ
+9	過	過	AUX	_	_	8	aux	_	SpaceAfter=No|Translit=guò|LTranslit=guò
+10	工	工	NOUN	_	_	8	compound:vo	_	SpaceAfter=No|Translit=gōng|LTranslit=gōng
+11	有	有	VERB	_	_	8	conj	_	SpaceAfter=No|Translit=yǒu|LTranslit=yǒu
+12	經驗	經驗	NOUN	_	_	11	obj	_	SpaceAfter=No|Translit=jīngyàn|LTranslit=jīngyàn
+13	了	了	PART	_	_	8	discourse:sp	_	SpaceAfter=No|Translit=le|LTranslit=le
+14	，	，	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+15	自己	自己	PRON	_	_	18	nsubj	_	SpaceAfter=No|Translit=zìjǐ|LTranslit=zìjǐ
+16	就	就	ADV	_	_	18	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
+17	能	能	AUX	_	_	18	aux	_	SpaceAfter=No|Translit=néng|LTranslit=néng
+18	做	做	VERB	_	_	1	parataxis	_	SpaceAfter=No|Translit=zuò|LTranslit=zuò
+19	好	好	ADJ	_	_	18	compound:vv	_	SpaceAfter=No|Translit=hǎo|LTranslit=hǎo
+20	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 

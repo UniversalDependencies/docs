@@ -29,4 +29,4 @@ grammatically feminine, without any relation to sex.
 
 * _<b>casa</b>_ "house"
 
-<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:58 CEST -->

@@ -17,63 +17,57 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cop	color:blue
-1	Esses	esse	DET	_	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
-2	valores	valor	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
-3	são	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	satisfatórios	satisfatório	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-5	em	em	ADP	_	_	7	case	_	_
-6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	aquecimento	aquecimento	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+# visual-style 3 2 cop	color:blue
+1	Ele	ele	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	aniônico	aniônico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	e	e	CCONJ	_	_	5	cc	_	_
+5	possui	possuir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
+6	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	ácido	ácido	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+9	carboxílico	carboxílico	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cop	color:blue
+1	São	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	aditivos	aditivo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+3	utilizados	utilizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	_
+4	para	para	ADP	_	_	5	mark	_	_
+5	reduzir	reduzir	VERB	_	VerbForm=Inf	3	advcl	_	_
+6	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	viscosidade	viscosidade	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 8	de	de	ADP	_	_	10	case	_	_
-9	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	mistura	mistura	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	_
+9	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	fluido	fluido	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 cop	color:blue
-1	Geralmente	geralmente	ADV	_	_	7	advmod	_	_
-2	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	solvente	solvente	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-4	utilizado	utilizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
-5	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-6	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	querosene	querosene	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 cop	color:blue
-1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	procedimento	procedimento	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
-3	usado	usar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
-4	foi	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	mesmo	mesmo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	_
-7	utilizado	utilizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	6	acl	_	_
-8	por	por	ADP	_	_	9	case	_	_
-9	Souza	Souza	PROPN	_	Gender=Masc|Number=Sing	7	obl:agent	_	_
-10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	2002	2002	NUM	_	NumType=Card	9	nmod	_	SpaceAfter=No
-12	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 cop	color:blue
+1	São	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	eles	eles	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+5	)	)	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

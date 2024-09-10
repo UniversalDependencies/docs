@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>men</em> (<tt><a href="sv_talbanken-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.422803).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.431722).
 
 The 1st highest number of forms (1) was observed with the lemma “+”: <em>+</em>.
 
@@ -79,7 +79,7 @@ Examples: <em>och, eller, men, både, utan, som, dels, såväl, samt, varken</em
 
 `CCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="sv_talbanken-dep-cc.html">cc</a></tt> (3510; 95% instances), <tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt> (105; 3% instances), <tt><a href="sv_talbanken-dep-advmod.html">advmod</a></tt> (66; 2% instances), <tt><a href="sv_talbanken-dep-conj.html">conj</a></tt> (14; 0% instances), <tt><a href="sv_talbanken-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-dep-case.html">case</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (1738; 47% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1095; 30% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (476; 13% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (118; 3% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (105; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (69; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (46; 1% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (38; 1% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (1738; 47% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (1095; 30% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (474; 13% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (118; 3% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (106; 3% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (70; 2% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (46; 1% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (38; 1% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="sv_talbanken-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 3675 (99%) `CCONJ` nodes are leaves.
 

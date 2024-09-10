@@ -8,16 +8,13 @@ udver: '2'
 ### Definition
 An auxiliary is a function word that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb. In Modern Greek these may be, depending on the auxiliary, person, number, tense and mood. In periphrastic verb tenses, aspect is contributed by the content verb form.
 
-The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
+The verb *έχω* / *echo* "have" and the particles *θα* and *για, ας* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
-*να* is tagged [AUX]() when:	
-* It introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
-* it  occurs in relative clauses after the relativisers *που*, *o οποίος*, e.g.,  *Δεν υπάρχει τίποτα παραπάνω* <b>που</b>.[PRON]() <b>να</b>.[AUX]() έχει ανακαλύψει η άλλη δυάδα "there is nothing more that.[PRON]()  the other couple would have discovered",  *Στη συνέχεια γράψτε μια συνάρτηση* <b>η οποία</b>. [PRON]() <b>να</b>.[AUX]()  *τυπώνει αυτά τα δεδομένα* "Next, write a function that.[PRON]() will print the data." 
+*να* is tagged [AUX]() when  introduces the verb (or the auxiliary "to be") of a main clause, e.g., <b>Να</b>.[AUX]()  *έρθεις*.[root]() *γρήγορα* "Come early.",  *Ούτε* <b>να</b>.[AUX]()   *τ' ακούσει*.[root]() "He would not even hear it."  *Ούτε βουλευτής.[root]() να.[AUX]() ήσουν.[AUX]()!* "Imagine what would happen if you were an MP!"
 
-The verb *είμαι* /ime “to be” is assigned the tag [AUX]():
-* when a participle depends on it; the participle is assigned the tag [VERB]() and bears values for the feature [Voice](). 
-* when it is used to assign a property to an entity; typically, properties are denoted with adjectives, e.g., *είμαι ψηλός* "I am tall". 
-Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμαι στο σπίτι μου* "I am at my place". 
+There is one multiword auxiliary *δε πα να* "may, let".
+
+The verb *είμαι* /ime “to be” is assigned the tag [AUX]() always, even when it heads a verb multiword expression (because normally in multiwords headed by *είμαι* the remaining lexicalised parts can be used independently, e.g.,  *είμαι στους πέντε δρόμους*-*στους πέντε δρόμους η Ελλάδα, στην τετράδα η Γερμανία*). 
 
 
 
@@ -26,5 +23,12 @@ Otherwise,  *είμαι* "to be"  is assigned the tag [VERB](), e.g., *είμα�
 -	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
 -	Auxiliary use of *είμαι*: *το τριαντάφυλο είναι  λουλούδι"* / *to triantafilo ine louloudi* "a rose is a flower", *ο Αλέξανδρος είναι ψηλός* / *o Alexandros ine psilos* "Alexandros is tall", *το γράμμα είναι γραμμένο με σκούρο μελάνι* / *to grama ine grameno me skouro melani* "the letter has been written with dark ink"
 -	Auxiliary use of *να*: *Να προσέχεις* "Βe careful."
+-	Auxiliary use of *ας*: *Καλύτερα ας έχουμε το κεφάλι μας ήσυχο*. "It is better for us to be on the safe side."
+-	Auxiliary use of *για*: *Για έλα κατά δω* "Do come here."
+-	Auxiliary use of *δε πα να*: *Δε πα να καταρρεύσουν όλες οι τράπεζες.* "May all banks collapse."
+
+### Important note
+There are two treebanks of Modern Greek and differ with respect to [AUX]() assignment. 
+
 ### References
-<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

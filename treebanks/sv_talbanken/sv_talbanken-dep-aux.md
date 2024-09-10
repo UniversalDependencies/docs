@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
 6	vara	vara	AUX	VB|INF|AKT	VerbForm=Inf|Voice=Act	8	cop	8:cop	_
 7	mycket	mycket	ADV	AB|POS	Degree=Pos	8	advmod	8:advmod	_
-8	stora	stor	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	0	root	0:root	SpaceAfter=No
+8	stora	stor	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	0	root	0:root	SpaceAfter=No
 9	.	.	PUNCT	MAD	_	8	punct	8:punct	_
 
 ~~~

@@ -8,31 +8,54 @@ udver: '2'
 
 This relation is universal.
 
-437 nodes (14%) are attached to their parents as `punct`.
+14452 nodes (15%) are attached to their parents as `punct`.
 
-296 instances of `punct` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 10.2356979405034.
+9321 instances of `punct` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.49827013562137.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (259; 59% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (129; 30% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (31; 7% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (8; 2% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (6990; 48% instances), <tt><a href="orv_ruthenian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (5362; 37% instances), <tt><a href="orv_ruthenian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (1075; 7% instances), <tt><a href="orv_ruthenian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (482; 3% instances), <tt><a href="orv_ruthenian-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (161; 1% instances), <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (155; 1% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (80; 1% instances), <tt><a href="orv_ruthenian-pos-DET.html">DET</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (71; 0% instances), <tt><a href="orv_ruthenian-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), <tt><a href="orv_ruthenian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="orv_ruthenian-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="orv_ruthenian-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="orv_ruthenian-pos-X.html">X</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_ruthenian-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 punct	color:blue
+1	Ено	ино	CCONJ	СС	_	7	cc	_	wf="Ено"
+2	коли	коли	SCONJ	IN	_	7	mark	_	wf="коли"
+3	вже	уже	ADV	RB	Degree=Pos	7	advmod	_	wf="вже"
+4	к	къ	ADP	IN	_	5	case	_	wf="к"
+5	вамъ	вы	PRON	PRP	Case=Dat|Number=Plur|Person=2|PronType=Prs	7	obl	_	wf="вамъ"
+6	нашь	нашъ	DET	PRP$	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nsubj	_	wf="нашь"
+7	прибѣглъ	прибечи	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	10	advcl	_	wf="прибѣглъ"|SpaceAfter=No
+8	,	,	PUNCT	-COMMA-	_	7	punct	_	_
+9	ино	ино	CCONJ	СС	_	10	cc	_	wf="ино"
+10	то	то	PRON	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	_	wf="то"
+11	бы	бы	AUX	RP	Analyt=Yes|Mood=Cnd	10	orphan	_	wf="бы"
+12	какъ	какъ	SCONJ	IN	_	13	case	_	wf="какъ"
+13	дома	дома	ADV	RB	Degree=Pos	10	orphan	_	wf="дома"|SpaceAfter=No
+14	.	.	PUNCT	-PERIOD-	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 10 punct	color:blue
-1	А	_	CCONJ	CC	_	9	cc	_	_
-2	естли	_	SCONJ	IN	_	4	mark	_	_
-3	не	_	PART	NEG	Polarity=Neg	4	advmod	_	_
-4	справедъливе	_	ADV	VBC	Degree=Pos	9	advcl	_	_
-5	-	_	PUNCT	PUNCT	_	4	punct	_	_
-6	боже	_	NOUN	VBC	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	SpaceAfter=No
-7	,	_	PUNCT	PUNCT	_	6	punct	_	_
-8	ме	_	PRON	PRP	Case=Acc|Clitic=Yes|Number=Sing|Person=1|PronType=Prs	9	obj	_	_
-9	убий	_	VERB	VBC	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-10	\"	_	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
-11	.	_	PUNCT	PUNCT	_	9	punct	_	SpacesAfter=\r\n
+# visual-style 9 5 punct	color:blue
+1	А	а	CCONJ	СС	_	2	cc	_	wf="А"
+2	псан	писати	VERB	VBNH	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	wf="псан"
+3	в	въ	ADP	IN	_	4	case	_	wf="в"
+4	Полотску	Полоцкъ	PROPN	NPI	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	2	obl	_	wf="Полотску"|SpaceAfter=No
+5	,	,	PUNCT	-COMMA-	_	9	punct	_	_
+6	м(есе)ца	месяцъ	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	wf="месеца"
+7	април(ѧ)	апрель	NOUN	NNI	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	wf="априлѧ"
+8	27	27	ADJ	ORD	Case=Acc|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	9	amod	_	_
+9	д(е)нь	день	NOUN	NNI	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	wf="день"|SpaceAfter=No
+10	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
 
 ~~~
 
@@ -40,50 +63,12 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 punct	color:blue
-1	АРТЫКУЛЪ	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	1	_	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	1	amod	_	SpaceAfter=No
-3	.	_	PUNCT	_	_	1	punct	_	SpacesAfter=\r\n\r\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 9 punct	color:blue
-1	Але	_	CCONJ	CC	_	3	cc	_	_
-2	вже	_	PART	UH	_	3	advmod	_	_
-3	мало	_	ADV	RB	Degree=Pos	0	root	_	_
-4	бы	_	AUX	RP	Mood=Cnd	3	aux	_	_
-5	и	_	PART	UH	_	7	advmod	_	_
-6	на	_	ADP	IN	_	7	case	_	_
-7	томъ	_	PRON	DT	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
-8	было	_	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	SpaceAfter=No
-9	,	_	PUNCT	PUNCT	_	18	punct	_	_
-10	ижъбы	_	SCONJ	IN	Mood=Cnd	18	mark	_	_
-11	чоловекъ	_	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
-12	з	_	ADP	IN	_	13	case	_	_
-13	неволи	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	obl	_	_
-14	от	_	ADP	IN	_	16	case	_	_
-15	посторонного	_	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
-16	неприятеля	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
-17	былъ	_	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	18	cop	_	_
-18	воленъ	_	ADJ	JJH	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	acl	_	SpaceAfter=No
-19	,	_	PUNCT	PUNCT	_	27	punct	_	_
-20	кгды	_	SCONJ	IN	_	27	mark	_	_
-21	бы	_	AUX	RP	Mood=Cnd	27	aux	_	_
-22	домового	_	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	23	amod	_	_
-23	неприятеля	_	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	26	obj	_	_
-24	надъ	_	ADP	IN	_	25	case	_	_
-25	собою	_	PRON	_	Case=Ins|PronType=Prs|Reflex=Yes	26	obl	_	_
-26	терьпети	_	VERB	NN	Aspect=Imp|VerbForm=Inf|Voice=Act	27	xcomp	_	_
-27	муселъ	_	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	SpaceAfter=No
-28	.	_	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 punct	color:blue
+1	ꙋ	въ	ADP	IN	_	2	case	_	wf="ꙋ"
+2	Полоцку	Полоцкъ	PROPN	NPI	Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	0	root	_	wf="Полоцку"|SpaceAfter=No
+3	.	.	PUNCT	-PERIOD-	_	2	punct	_	_
 
 ~~~
 

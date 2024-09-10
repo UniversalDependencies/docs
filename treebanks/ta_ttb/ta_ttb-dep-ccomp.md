@@ -42,8 +42,8 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 6 5 ccomp	color:blue
 1	என்னுடைய	என்	PRON	RpG-1SA--	Animacy=Anim|Case=Gen|Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod:gen	Translit=ennuṭaiya|LTranslit=en
 2	சொந்தப்	சொந்தம்	ADJ	JJ-------	_	3	amod	3:amod	Translit=contap|LTranslit=contam
-3	பணத்த்	பணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl:இலிருந்து:nom	Translit=paṇatt|LTranslit=paṇam
-4	இலிருந்து	இலிருந்து	ADP	PP-------	AdpType=Post	3	case	3:case	Translit=iliruntu|LTranslit=iliruntu
+3	பணத்த்	பணம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obl	5:obl:இலிருந்து:nom	LTranslit=paṇam|Translit=paṇatt
+4	இலிருந்து	இலிருந்து	ADP	PP-------	AdpType=Post	3	case	3:case	LTranslit=iliruntu|Translit=iliruntu
 5	கட்டப்படுவது	கட்டு	VERB	VzNF3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	6	ccomp	6:ccomp	Translit=kaṭṭappaṭuvatu|LTranslit=kaṭṭu
 6	அல்ல	அல்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=alla|LTranslit=al
 7	.	.	PUNCT	Z#-------	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.

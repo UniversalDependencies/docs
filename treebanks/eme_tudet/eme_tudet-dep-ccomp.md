@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (1%) are attached to their parents as `ccomp`.
+27 nodes (1%) are attached to their parents as `ccomp`.
 
-6 instances of `ccomp` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.58333333333333.
+17 instances of `ccomp` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.88888888888889.
 
-The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (9; 75% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (2; 17% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (18; 67% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="eme_tudet-pos-DET.html">DET</a></tt>-<tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-INTJ.html">INTJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 ccomp	color:blue
-1	emeʔeŋ	meʔeŋ	VERB	v	Number=Sing|Person=2	0	root	_	_
+1	emeʔeŋ	meʔeŋ	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	_	_
 2	idʒe	idʒe	PRON	pron	Number=Sing|Person=1	1	nsubj	_	_
 3	deradʒɨr	adʒɨr	NOUN	n	Number=Sing|Person=2|Rel=Cont	1	obj	_	_
 4	tareko	eko	VERB	v	Mood=Per|Number=Sing|Person=1|Voice=Cau	1	ccomp	_	_
@@ -37,7 +37,7 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 2 ccomp	color:blue
 1	apamaʔewi	apam	NOUN	n	Case=Abl	2	obl	_	_
-2	wanemãʔẽ	wane	NOUN	n	Nmzr=Rel	3	ccomp	_	_
+2	wanemãʔẽ	wane	NOUN	n	VerbForm=Ger	3	ccomp	_	_
 3	zaɨkɨdʒtar	ɨkɨdʒ	VERB	v	Imprs=Yes|Tense=Fut	0	root	_	_
 
 ~~~

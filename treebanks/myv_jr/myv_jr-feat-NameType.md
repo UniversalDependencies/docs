@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PROPN.ht
 
 ### `PROPN`
 
-574 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (82% of all `PROPN` tokens) have a non-empty value of `NameType`.
+574 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (81% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
 The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (569; 99%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (459; 80%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (451; 79%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (399; 70%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (398; 69%).
 
@@ -54,6 +54,5 @@ The most frequent other feature values with which `NOUN` and `NameType` co-occur
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> PROPN</tt> (12; 100%),
-<tt>PROPN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-obl.html">obl</a></tt>]--> PROPN</tt> (1; 100%).
 

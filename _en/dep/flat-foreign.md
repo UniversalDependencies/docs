@@ -5,8 +5,9 @@ shortdef: 'foreign words'
 udver: '2'
 ---
 
-We use `flat:foreign` to label sequences of foreign words. These are given
-a linear analysis: the head is the first token in the foreign phrase.
+Some English treebanks use `flat:foreign` to label sequences of foreign words.
+These are given a linear analysis: the head is the first token in the foreign phrase.
+_Most of the English treebanks, however, use plain [flat]() in such cases._
 
 ~~~ sdparse
 I guess that c' est la vie
@@ -17,4 +18,7 @@ flat:foreign(c'-4, est-5)
 flat:foreign(c'-4, la-6)
 flat:foreign(c'-4, vie-7)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:27 CET 2022 -->
+
+See the general policy on [Foreign Expressions and Code-Switching](/foreign.html).
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:14 CEST -->

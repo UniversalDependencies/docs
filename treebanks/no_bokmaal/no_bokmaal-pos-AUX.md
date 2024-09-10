@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Bokmaal: POS Tags: `AUX`
 
 There are 10 `AUX` lemmas (0%), 36 `AUX` types (0%) and 17181 `AUX` tokens (6%).
-Out of 17 observed tags, the rank of `AUX` is: 15 in number of lemmas, 13 in number of types and 8 in number of tokens.
+Out of 17 observed tags, the rank of `AUX` is: 16 in number of lemmas, 12 in number of types and 8 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>være, ha, kunne, ville, skulle, bli, måtte, få, burde, tørre</em>
 
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.600000 (the average of all parts of speech is 1.381903).
+The form / lemma ratio of `AUX` is 3.600000 (the average of all parts of speech is 1.381699).
 
 The 1st highest number of forms (7) was observed with the lemma “være”: <em>e, er, var, vær, være, vært, vøre</em>.
 
@@ -76,21 +76,21 @@ Examples: <em>er, har, kan, vil, skal, må, blir, bør, får, tør</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="no_bokmaal-dep-aux.html">aux</a></tt> (8858; 52% instances), <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (7217; 42% instances), <tt><a href="no_bokmaal-dep-aux-pass.html">aux:pass</a></tt> (1106; 6% instances)
+`AUX` nodes are attached to their parents using 7 different relations: <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (8098; 47% instances), <tt><a href="no_bokmaal-dep-aux.html">aux</a></tt> (7972; 46% instances), <tt><a href="no_bokmaal-dep-aux-pass.html">aux:pass</a></tt> (1106; 6% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (9616; 56% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3612; 21% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2896; 17% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (293; 2% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (235; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (193; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (171; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (60; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (9620; 56% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3608; 21% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (2914; 17% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (293; 2% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (234; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (193; 1% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (153; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (60; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
 
-17145 (100%) `AUX` nodes are leaves.
+17149 (100%) `AUX` nodes are leaves.
 
-34 (0%) `AUX` nodes have one child.
+27 (0%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
-2 (0%) `AUX` nodes have three or more children.
+5 (0%) `AUX` nodes have three or more children.
 
-The highest child degree of a `AUX` node is 3.
+The highest child degree of a `AUX` node is 5.
 
-Children of `AUX` nodes are attached using 3 different relations: <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (27; 68% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (12; 30% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (1; 3% instances)
+Children of `AUX` nodes are attached using 8 different relations: <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (28; 60% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (5; 11% instances), <tt><a href="no_bokmaal-dep-mark.html">mark</a></tt> (4; 9% instances), <tt><a href="no_bokmaal-dep-expl.html">expl</a></tt> (3; 6% instances), <tt><a href="no_bokmaal-dep-xcomp.html">xcomp</a></tt> (3; 6% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (2; 4% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (27; 68% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (11; 28% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (1; 3% instances)
+Children of `AUX` nodes belong to 7 different parts of speech: <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (28; 60% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (5; 11% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (4; 9% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

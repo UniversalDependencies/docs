@@ -30,10 +30,10 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 5	kâʹl	kâʹl	ADV	Adv	_	7	advmod	_	_
 6	leäkku	leeʹd	AUX	V	Connegative=Yes	7	cop	_	GTtags=ConNeg
 7	šurr	šurr	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	10	punct	_	_
+8	,	,	PUNCT	CLB	_	10	punct	_	_
 9	mâʹte	mâʹte	ADV	Adv	_	10	mark	_	_
 10	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	acl	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
-11	,	,	PUNCT	PUNCT	_	16	punct	_	_
+11	,	,	PUNCT	CLB	_	16	punct	_	_
 12	tuu	ton	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	det	_	GTtags=Pers,Sg2,Gen
 13	šoora	šoora	ADJ	A	_	14	amod	_	_
 14	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	16	nsubj:cop	_	GTtags=Sem/Hum,Sg,Nom

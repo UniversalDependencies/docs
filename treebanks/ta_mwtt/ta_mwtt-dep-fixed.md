@@ -41,8 +41,8 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 2 4 fixed	color:blue
 1	அந்த	அந்த	DET	_	_	2	det	_	Translit=anta|LTranslit=anta
 2	வீட்டுக்கு	வீடு	NOUN	_	Case=Dat|Number=Sing|Person=3	7	obl	_	Translit=vīṭṭukku|LTranslit=vīṭu
-3	அடுத்தால்	அடுத்து	ADP	_	AdpType=Post	1	case	_	Translit=aṭuttāl|LTranslit=aṭuttu
-4	போல	போல	ADP	_	_	2	fixed	_	Translit=pōla|LTranslit=pōla
+3	அடுத்தால்	அடுத்து	ADP	_	AdpType=Post	1	case	_	LTranslit=aṭuttu|Translit=aṭuttāl
+4	போல	போல	ADP	_	_	2	fixed	_	LTranslit=pōla|Translit=pōla
 5	ஒரு	ஒன்று	NUM	_	_	6	nummod	_	Translit=oru|LTranslit=oṉṟu
 6	கடை	கடை	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	Translit=kaṭai|LTranslit=kaṭai
 7	இருக்கிறது	இரு	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=irukkiṟatu|LTranslit=iru

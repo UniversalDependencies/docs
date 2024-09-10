@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Armenian-BSUT: Features: `Animacy`
 
-This feature is universal but the values `Hum` are language-specific.
+This feature is universal.
 It occurs with 2 different values: `Hum`, `Nhum`.
 
 12787 tokens (31%) have a non-empty value of `Animacy`.
@@ -26,15 +26,15 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 * `Nhum` (9368; 85% of non-empty `Animacy`): <em>հանրապետության, ի, թվականի, կառավարության, ին, բան, անգամ, ը, տարի, ընկերության</em>
 
 <table>
-  <tr><th>Paradigm <i>ը</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ից</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ին</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ի</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ների</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ով</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ում</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ը</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ից</em></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ին</em></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ի</em></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ների</em></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ով</em></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ում</em></td></tr>
   <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ը, ն</em></td><td><em>ը, ն</em></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ներ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ներ</em></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (2750) occur only with one value of `Animacy`.
@@ -51,14 +51,14 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 * `Nhum` (849; 47% of non-empty `Animacy`): <em>Հայաստանի, ՀՀ, Հայաստանում, Արցախի, Խոսրովի, Ռուսաստանի, Ադրբեջանի, Իրանի, Հայաստան, Թուրքիայի</em>
 
 <table>
-  <tr><th>Paradigm <i>Սարյան</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Սարյանին</em></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Սարյաններին</em></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Սարյանի</em></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Սարյանների</em></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Սարյանով</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Սարյանն</em></td></tr>
-  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Սարյան</em></td></tr>
+  <tr><th>Paradigm <i>Սարյան</i></th><th><tt>Hum</tt></th><th><tt>Nhum</tt></th></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Սարյանին</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Սարյաններին</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Սարյանի</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Սարյանների</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Սարյանով</em></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Սարյանն</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hy_bsut-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hy_bsut-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hy_bsut-feat-NameType.html">NameType</a></tt><tt>=Sur</tt>|<tt><a href="hy_bsut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Սարյան</em></td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (592) occur only with one value of `Animacy`.
@@ -67,7 +67,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1712; 79%),
-<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (846; 95%),
+<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (847; 95%),
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (319; 90%),
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (304; 64%),
 <tt>PROPN --[<tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (250; 100%),

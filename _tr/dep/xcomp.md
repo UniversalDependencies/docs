@@ -46,4 +46,4 @@ xcomp(sanıyordum, İstanbul'da)
 ### References
 Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
 London: Routledge, 2005.
-<!-- Interlanguage links updated Po lis 14 15:35:46 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:50 CEST -->

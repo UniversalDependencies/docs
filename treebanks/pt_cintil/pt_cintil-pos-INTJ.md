@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>R.</em> (<tt><a href="pt_cintil-pos-I
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (1) was observed with the lemma “ah”: <em>Ah</em>.
 
@@ -64,7 +64,7 @@ Parents of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="pt_c
 
 The highest child degree of a `INTJ` node is 6.
 
-Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="pt_cintil-dep-punct.html">punct</a></tt> (117; 84% instances), <tt><a href="pt_cintil-dep-conj.html">conj</a></tt> (6; 4% instances), <tt><a href="pt_cintil-dep-dep.html">dep</a></tt> (6; 4% instances), <tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt> (4; 3% instances), <tt><a href="pt_cintil-dep-det.html">det</a></tt> (3; 2% instances), <tt><a href="pt_cintil-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="pt_cintil-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 7 different relations: <tt><a href="pt_cintil-dep-punct.html">punct</a></tt> (117; 84% instances), <tt><a href="pt_cintil-dep-conj.html">conj</a></tt> (6; 4% instances), <tt><a href="pt_cintil-dep-dep.html">dep</a></tt> (6; 4% instances), <tt><a href="pt_cintil-dep-flat.html">flat</a></tt> (4; 3% instances), <tt><a href="pt_cintil-dep-det.html">det</a></tt> (3; 2% instances), <tt><a href="pt_cintil-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="pt_cintil-dep-obl.html">obl</a></tt> (1; 1% instances)
 
 Children of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="pt_cintil-pos-PUNCT.html">PUNCT</a></tt> (117; 84% instances), <tt><a href="pt_cintil-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="pt_cintil-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="pt_cintil-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="pt_cintil-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="pt_cintil-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="pt_cintil-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="pt_cintil-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

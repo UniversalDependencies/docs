@@ -15,4 +15,4 @@ det:poss(cura, mia)
 Ha da poco annunciato le proprie dimissioni . 
 det:poss(dimissioni, proprie)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:23 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:07 CEST -->

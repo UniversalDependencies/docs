@@ -21,4 +21,4 @@ Numerals are annotated as [NUM]() and possessive pronouns are annotated as [PRON
 - dis (singular demonstrative pronoun) : na me park <b>dis</b> car
 - dese (plural demonstrative pronoun) : so <b>dese</b> kind thing no good
 
-<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:36 CEST -->

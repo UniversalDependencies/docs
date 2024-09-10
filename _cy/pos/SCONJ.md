@@ -11,4 +11,4 @@ A subordinating conjunction is a conjunction that links constructions by making 
 
 * _Roedd o newydd fywta **pan** gyrhaeddodd ei chwaer_ "He'd finished eating when his sister arrived"
 
-<!-- Interlanguage links updated Po lis 14 15:34:36 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->

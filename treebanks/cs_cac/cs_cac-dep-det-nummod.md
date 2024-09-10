@@ -25,15 +25,15 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 # visual-style 3 2 det:nummod	color:blue
 1	Před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	3	case	3:case	LId=před-1
 2	několika	několik	DET	Ca--7----------	Case=Ins|NumType=Card|PronType=Ind	3	det:nummod	3:det:nummod	_
-3	dny	den	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	5	obl	5:obl:před:ins	LGloss=(jednotka_času)
-4	tu	tady	ADV	Db------------1	PronType=Dem	5	advmod	5:advmod	_
-5	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-6	tajemník	tajemník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	_
+3	dny	den	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	4	obl	4:obl:před:ins	LGloss=(jednotka_času)
+4	tu	tady	ADV	Db------------1	PronType=Dem	0	root	0:root	_
+5	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	cop	4:cop	_
+6	tajemník	tajemník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	4	nsubj	4:nsubj	_
 7	OV	OV	PROPN	NNIXX-----A---8	Abbr=Yes|Animacy=Inan|Gender=Masc|NameType=Com|Polarity=Pos	6	nmod	6:nmod	LId=OV-1|LGloss=(obvodní/okresní_výbor)
 8	KSČ	KSČ	PROPN	NNFXX-----A---8	Abbr=Yes|Gender=Fem|NameType=Com|Polarity=Pos	7	nmod	7:nmod	LId=KSČ-1|LGloss=(Komunistická_strana_Československa)
 9	soudruh	soudruh	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	flat	6:flat	_
 10	Veselý	Veselý	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing|Polarity=Pos	6	flat	6:flat	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	5	punct	5:punct	_
+11	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 1	Náš	můj	DET	PSYS1-P1-------	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	2:det	LGloss=(přivlast.)
 2	podnik	podnik	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	12	nsubj	12:nsubj	_
 3	jako	jako	SCONJ	J,-------------	_	4	mark	4:mark	_
-4	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	2	xcomp	2:xcomp	LNumValue=1
+4	jeden	jeden	NUM	ClYS1----------	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	2	xcomp	2:xcomp	LNumValue=1
 5	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	6	case	6:case	LId=z-1
 6	mála	málo	DET	Ca--2----------	Case=Gen|NumType=Card|PronType=Ind	4	det:nummod	4:det:nummod	LId=málo-1|LGloss=(př._bez_mála_peněz)
 7	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	12	expl:pv	12:expl:pv	LGloss=(zvr._zájmeno/částice)
@@ -92,30 +92,30 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 23	některá	některý	DET	PZNP4----------	Case=Acc|Gender=Neut|Number=Plur|PronType=Ind	25	det	25:det	_
 24	zemědělská	zemědělský	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	25	amod	25:amod	_
 25	družstva	družstvo	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	21	nmod	21:nmod:pro:acc	_
-26	anebo	nebo	CCONJ	J^------------1	_	29	cc	25.1:cc	_
+26	anebo	nebo	CCONJ	J^------------1	_	29	cc	33.1:cc	_
 27	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	29	case	29:case	LId=u-1
 28	některých	některý	DET	PZXP2----------	Case=Gen|Number=Plur|PronType=Ind	29	det	29:det	_
-29	pracovníků	pracovník	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	conj	25.1:dep	_
+29	pracovníků	pracovník	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	5	conj	33.1:dep	_
 30	JZD	JZD	NOUN	NNNXX-----A---8	Abbr=Yes|Gender=Neut|Polarity=Pos	29	nmod	29:nmod	_
 31	a	a	CCONJ	J^-------------	_	33	cc	33:cc	LId=a-1
 32	státních	státní	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	33	amod	33:amod	_
 33	statků	statek	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	30	conj	29:nmod|30:conj	_
 34	přímé	přímý	ADJ	AANS4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	35	amod	35:amod	_
-35	rozkrádání	rozkrádání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	29	orphan	25.1:dep	LDeriv=rozkrádat
+35	rozkrádání	rozkrádání	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	29	orphan	33.1:dep	LDeriv=rozkrádat
 36	značných	značný	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	37	amod	37:amod	_
 37	částek	částka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	35	nmod	35:nmod:gen	_
-38	tak	tak	ADV	Db-------------	PronType=Dem	29	orphan	25.1:advmod	SpaceAfter=No|LId=tak-3
-39	,	,	PUNCT	Z:-------------	_	42	punct	42:punct	_
-40	jak	jak	ADV	Db-------------	PronType=Int,Rel	42	advmod	42:advmod	LId=jak-3
-41	tomu	ten	DET	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	42	nsubj	42:nsubj	_
-42	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	29	orphan	25.1:dep	_
+38	tak	tak	ADV	Db-------------	PronType=Dem	29	orphan	33.1:advmod	SpaceAfter=No|LId=tak-3
+39	,	,	PUNCT	Z:-------------	_	40	punct	40:punct	_
+40	jak	jak	ADV	Db-------------	PronType=Int,Rel	29	orphan	33.1:advmod	LId=jak-3
+41	tomu	ten	DET	PDZS3----------	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Dem	40	nsubj	40:nsubj	_
+42	bylo	být	AUX	VpNS---XR-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	40	cop	40:cop	_
 43	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	44	case	44:case	LId=u-1
-44	odsouzených	odsouzený	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	42	obl	42:obl:u:gen	LDeriv=odsoudit
+44	odsouzených	odsouzený	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	40	obl	40:obl:u:gen	LDeriv=odsoudit
 45	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	46	case	46:case	LId=v-1
 46	Nepolisech	Nepolisy	PROPN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Plur|Polarity=Pos	44	nmod	44:nmod:v:loc	_
 47	a	a	CCONJ	J^-------------	_	49	cc	49:cc	LId=a-1
 48	několika	několik	DET	Ca--2----------	Case=Gen|NumType=Card|PronType=Ind	49	det:nummod	49:det:nummod	_
-49	pokladních	pokladní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	44	conj	42:obl:u:gen|44:conj|53:nsubj	SpaceAfter=No
+49	pokladních	pokladní	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	44	conj	40:obl:u:gen|44:conj|53:nsubj	SpaceAfter=No
 50	,	,	PUNCT	Z:-------------	_	53	punct	53:punct	_
 51	které	který	DET	P4FP1----------	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	53	nsubj	49:ref	_
 52	si	se	PRON	P7-X3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	53	expl:pv	53:expl:pv	LGloss=(zvr._zájmeno/částice)

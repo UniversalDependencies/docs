@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.038462 (the average of all parts of speech is 1.497382).
+The form / lemma ratio of `ADP` is 1.038462 (the average of all parts of speech is 1.495298).
 
 The 1st highest number of forms (2) was observed with the lemma “vaipuo”: <em>vaipun, vaivuttu</em>.
 

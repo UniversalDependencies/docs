@@ -9,23 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Loc`, `Tim`.
 
-711 tokens (1%) have a non-empty value of `AdvType`.
-60 types (0%) occur at least once with a non-empty value of `AdvType`.
-47 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (702; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances).
+801 tokens (1%) have a non-empty value of `AdvType`.
+65 types (1%) occur at least once with a non-empty value of `AdvType`.
+52 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (792; 1% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances).
 
 ### `ADV`
 
-702 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (23% of all `ADV` tokens) have a non-empty value of `AdvType`.
+792 <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> tokens (25% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (685; 98%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (640; 91%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (438; 62%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (751; 95%), <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (725; 92%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (483; 61%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Loc` (406; 58% of non-empty `AdvType`): <em>ergo, ibi, unde, ubi, hinc, hic, preterea, propterea, inde, alibi</em>
-* `Tim` (296; 42% of non-empty `AdvType`): <em>nunc, iam, semper, quando, quandoque, adhuc, iterum, tum, denique, cotidie</em>
+* `Loc` (432; 55% of non-empty `AdvType`): <em>ergo, ibi, unde, ubi, hinc, inde, hic, preterea, ubique, undique</em>
+* `Tim` (360; 45% of non-empty `AdvType`): <em>nunc, iam, semper, tunc, quando, prius, quandoque, adhuc, iterum, tum</em>
 
-`AdvType` seems to be **lexical feature** of `ADV`. 100% lemmas (47) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `ADV`. 100% lemmas (52) occur only with one value of `AdvType`.
 
 ### `SCONJ`
 

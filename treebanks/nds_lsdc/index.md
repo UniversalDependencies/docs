@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Janine Siewert.
 
 Repository: [UD_Low_Saxon-LSDC](https://github.com/UniversalDependencies/UD_Low_Saxon-LSDC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnds_lsdc211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnds_lsdc214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,18 +44,26 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The UD Low Saxon LSDC dataset consists of sentences in 18 Low Saxon dialects from both Germany and the Netherlands. These sentences are (or are to become) part of the LSDC dataset and represent the language from the 19th and early 20th century in genres such as short stories, novels, speeches, letters and fairytales.
+The UD Low Saxon LSDC dataset consists of sentences in 8 major Low Saxon dialect groups from both Germany and the Netherlands. These sentences are (or are to become) part of the LSDC dataset and represent the language from mostly the 19th and early 20th century in genres such as short stories, novels, speeches, letters and fairytales.
 
 
 
 
-The first version of the UD Low Saxon LSDC dataset contains 18 Low Saxon dialects from both Germany and the Netherlands represented by 2 sentences each and belonging to the domains of short stories, novels, speeches, letters and fairytales. Each sentence was chosen from a different text to present some of the variation within the different dialect groups. In the second version, 40 sentences from four Westphalian dialects, two from Germany and two from the Netherlands, were added. The coverage of other dialect groups will be improved in future releases.
+The first version of the UD Low Saxon LSDC dataset contained 18 Low Saxon (sub-)dialects from both Germany and the Netherlands represented by 2 sentences each and belonging to the domains of short stories, novels, speeches, letters and fairytales. Each sentence was chosen from a different text to present some of the variation within the different dialect groups. In the second version, 40 sentences from four Westphalian dialects, two from Germany and two from the Netherlands, were added. The coverage of other dialect groups will be improved in future releases. For the third version, we have raised the number of sentences to 190 and made slight modifications to the subgrouping of the dialects. The **current fourth version** of the dataset contains 1,000 sentences, of which 500 are placed in the train and 500 in the test set. The dialect distribution between the train and the test set is not balanced yet and we plan to improve this in future releases.
 
-Since there is no official interregional spelling, the interregional spelling suggestion used by e.g. the Dutch Low Saxon Wikipedia (_Nysassiske Skryvwyse_, described in more detail here: https://skryvwyse.eu/ (only in Low Saxon)) is used as a compromise for normalisation, but the original spelling of the source is included in the line "text_orig =" and a Middle Low Saxon lemma is added in the tenth column ("lemma[gml]=xxx") in order to make the Modern Low Saxon data more easily comparable with the Middle Low Saxon data in the reference corpus "Referenzkorpus Mittelniederdeutsch/Niederrheinisch". For this reason, the Middle Low Saxon lemma forms follow the "Mittelniederdeutsches Handwörterbuch" by Agathe Lasch et al. like in the reference corpus. Middle Low Saxon lemmata are only added in the cases where there is an attestation in Middle Low Saxon, i.e. the word is either listed in the Handwörterbuch or is found in the reference corpus. Middle Low Saxon lemmata are still included if the word's meaning has changed, but we did not e.g. create new complex word lemmata from known simplex words and neither did we reconstruct potential Middle Low Saxon forms for words which have not yet been attested at that stage of the language.
+The major dialect group is shown as the third segment of the sentence ID. The following dialects are included:
+* BRA = Brandenburgish
+* DNS = German North Saxon
+* DWF = German Westphalian
+* MVP = Mecklenburgish – West Pomeranian
+* NNS = Dutch North Saxon
+* NPR = Low Prussian
+* NWF = Dutch Westphalian
+* OFL = Eastphalian
 
-The dataset contains only sentences from copyright-free material from the 19th and early 20th century. Part of the sentences are already included in the first release of the LSDC dataset found here: https://github.com/Helsinki-NLP/LSDC/ See there for further information on the origin of the data. The other sentences originate mostly from Joh. A. Leopold's work 'Van de Schelde tot te Weichsel', a digitised version of which is accessible here: https://www.dbnl.org/titels/titel.php?id=leop008sche00 An exception constitutes the text 'Krisjaon Klaover' to be found in the Twentse Taalbank: http://www.twentsetaalbank.nl/docs/TWA.1894-Heinink-Krisjaon_Klaover-150.pdf These other sentences will be added to the next release of the LSDC dataset.
+Since there is no official interregional spelling, the interregional spelling suggestion used by e.g. the Dutch Low Saxon Wikipedia (_Nysassiske Skryvwyse_, described in more detail here: https://skryvwyse.eu/ (only in Low Saxon)) is used as a compromise for normalisation, but the original spelling of the source is included in the line "text_orig =" and a Middle Low Saxon lemma is added in the tenth column ("lemma_gml=xxx") in order to make the Modern Low Saxon data more easily comparable with the Middle Low Saxon data in the reference corpus "Referenzkorpus Mittelniederdeutsch/Niederrheinisch". For this reason, the Middle Low Saxon lemma forms largely follow the "Mittelniederdeutsches Handwörterbuch" by Agathe Lasch et al. like in the reference corpus. Middle Low Saxon lemmata are only added in the cases where there is an attestation in Middle Low Saxon, i.e. the word is either listed in the Handwörterbuch or is found in the reference corpus. Middle Low Saxon lemmata are still included if the word's meaning has changed, an in addition, we have done our best to create new complex word lemmata from known simplex words and reconstruct potential Middle Low Saxon forms for words which have not yet been attested at that stage of the language. The last few hundred sentences in the train set either do not contain Middle Low Saxon lemmata yet or they have been done automatically.
 
-Due to the small size of the dataset, it has not yet been split into training, development and test sets.
+The first version of the dataset contained only sentences from copyright-free material from the 19th and early 20th century. Part of the sentences are already included in the first release of the LSDC dataset found here: https://github.com/Helsinki-NLP/LSDC/ See there for further information on the origin of the data. The other sentences originate mostly from Joh. A. Leopold's work 'Van de Schelde tot te Weichsel', a digitised version of which is accessible here: https://www.dbnl.org/titels/titel.php?id=leop008sche00 An exception constitutes the text 'Krisjaon Klaover' to be found in the Twentse Taalbank: http://www.twentsetaalbank.nl/docs/TWA.1894-Heinink-Krisjaon_Klaover-150.pdf These other sentences will be added to the next release of the LSDC dataset. Starting from the third version, the dataset also contains a few sentences from works by modern authors from which we have received permission to include small parts of their work in annotated corpora.
 
 
 ## Acknowledgments
@@ -70,20 +78,21 @@ The following people were involved in the creation of this dataset:
 If you use this treebank, please cite this paper:
 
 ```
-@inproceedings{siewert-etal-2021-towards,
-title = "Towards a balanced annotated Low {S}axon dataset for diachronic investigation of dialectal variation",
-author = {Siewert, Janine and
-Scherrer, Yves and
-Tiedemann, J{\"o}rg},
-booktitle = "Proceedings of the 17th Conference on Natural Language Processing (KONVENS 2021)",
-month = "6--9 " # sep,
-year = "2021",
-address = {D{\"u}sseldorf, Germany},
-publisher = "KONVENS 2021 Organizers",
-url = "https://aclanthology.org/2021.konvens-1.25",
-pages = "242--246",
+@inproceedings{siewert-rueter-2024,
+author = {Siewert, Janine and Rueter, Jack},
+title = {% raw %}{{{% endraw %}The Low Saxon LSDC Dataset at Universal Dependencies{% raw %}}}{% endraw %},
+booktitle = {Proceedings of the 2024 Joint International Conference on Computational
+Linguistics, Language Resources and Evaluation},
+series = {LREC-COLING 2024},
+year = {2024},
+month = {05},
+address = {Torino, Italia},
+organization = {ELRA Language Resources Association (ELRA) and the
+International Committee on Computational Linguistics
+(ICCL)},
+pubstate = {forthcoming},
+note = {accepted}
 }
-
 ```
 ### References used for the creation of this dataset:
 
@@ -104,17 +113,17 @@ pages = "242--246",
 
 ## Relations
 
-[acl](nds_lsdc-dep-acl.html) – [advcl](nds_lsdc-dep-advcl.html) – [advmod](nds_lsdc-dep-advmod.html) – [amod](nds_lsdc-dep-amod.html) – [appos](nds_lsdc-dep-appos.html) – [aux](nds_lsdc-dep-aux.html) – [aux:pass](nds_lsdc-dep-aux-pass.html) – [case](nds_lsdc-dep-case.html) – [cc](nds_lsdc-dep-cc.html) – [ccomp](nds_lsdc-dep-ccomp.html) – [compound](nds_lsdc-dep-compound.html) – [compound:prt](nds_lsdc-dep-compound-prt.html) – [conj](nds_lsdc-dep-conj.html) – [cop](nds_lsdc-dep-cop.html) – [csubj](nds_lsdc-dep-csubj.html) – [det](nds_lsdc-dep-det.html) – [det:poss](nds_lsdc-dep-det-poss.html) – [discourse](nds_lsdc-dep-discourse.html) – [dislocated](nds_lsdc-dep-dislocated.html) – [expl](nds_lsdc-dep-expl.html) – [expl:pv](nds_lsdc-dep-expl-pv.html) – [fixed](nds_lsdc-dep-fixed.html) – [flat](nds_lsdc-dep-flat.html) – [iobj](nds_lsdc-dep-iobj.html) – [mark](nds_lsdc-dep-mark.html) – [nmod](nds_lsdc-dep-nmod.html) – [nmod:poss](nds_lsdc-dep-nmod-poss.html) – [nsubj](nds_lsdc-dep-nsubj.html) – [nsubj:pass](nds_lsdc-dep-nsubj-pass.html) – [nummod](nds_lsdc-dep-nummod.html) – [obj](nds_lsdc-dep-obj.html) – [obl](nds_lsdc-dep-obl.html) – [obl:agent](nds_lsdc-dep-obl-agent.html) – [orphan](nds_lsdc-dep-orphan.html) – [parataxis](nds_lsdc-dep-parataxis.html) – [punct](nds_lsdc-dep-punct.html) – [root](nds_lsdc-dep-root.html) – [vocative](nds_lsdc-dep-vocative.html) – [xcomp](nds_lsdc-dep-xcomp.html)
+[acl](nds_lsdc-dep-acl.html) – [acl:relcl](nds_lsdc-dep-acl-relcl.html) – [advcl](nds_lsdc-dep-advcl.html) – [advmod](nds_lsdc-dep-advmod.html) – [amod](nds_lsdc-dep-amod.html) – [appos](nds_lsdc-dep-appos.html) – [aux](nds_lsdc-dep-aux.html) – [aux:pass](nds_lsdc-dep-aux-pass.html) – [case](nds_lsdc-dep-case.html) – [cc](nds_lsdc-dep-cc.html) – [ccomp](nds_lsdc-dep-ccomp.html) – [compound](nds_lsdc-dep-compound.html) – [compound:prt](nds_lsdc-dep-compound-prt.html) – [compound:redup](nds_lsdc-dep-compound-redup.html) – [conj](nds_lsdc-dep-conj.html) – [cop](nds_lsdc-dep-cop.html) – [csubj](nds_lsdc-dep-csubj.html) – [csubj:outer](nds_lsdc-dep-csubj-outer.html) – [dep](nds_lsdc-dep-dep.html) – [det](nds_lsdc-dep-det.html) – [det:poss](nds_lsdc-dep-det-poss.html) – [discourse](nds_lsdc-dep-discourse.html) – [dislocated](nds_lsdc-dep-dislocated.html) – [expl](nds_lsdc-dep-expl.html) – [expl:pv](nds_lsdc-dep-expl-pv.html) – [fixed](nds_lsdc-dep-fixed.html) – [flat](nds_lsdc-dep-flat.html) – [iobj](nds_lsdc-dep-iobj.html) – [list](nds_lsdc-dep-list.html) – [mark](nds_lsdc-dep-mark.html) – [nmod](nds_lsdc-dep-nmod.html) – [nmod:poss](nds_lsdc-dep-nmod-poss.html) – [nsubj](nds_lsdc-dep-nsubj.html) – [nsubj:pass](nds_lsdc-dep-nsubj-pass.html) – [nummod](nds_lsdc-dep-nummod.html) – [obj](nds_lsdc-dep-obj.html) – [obl](nds_lsdc-dep-obl.html) – [obl:agent](nds_lsdc-dep-obl-agent.html) – [obl:arg](nds_lsdc-dep-obl-arg.html) – [orphan](nds_lsdc-dep-orphan.html) – [parataxis](nds_lsdc-dep-parataxis.html) – [punct](nds_lsdc-dep-punct.html) – [reparandum](nds_lsdc-dep-reparandum.html) – [root](nds_lsdc-dep-root.html) – [vocative](nds_lsdc-dep-vocative.html) – [xcomp](nds_lsdc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 95 sentences, 2913 tokens and 2935 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 22615 tokens and 22639 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 421 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 3382 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -122,12 +131,12 @@ pages = "242--246",
 </ul>
 
 <ul>
-<li>This corpus contains 6 types of words that contain both letters and punctuation. Examples: E., G., Luoden-heide, Röm., St., ao.</li>
+<li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: 'n, 'm, 't, 'r, aller-, knee'e, pöäkel-up-stelten, 'e, 'ne, A., Bähnhas', CDU-fraktioon, E., G., Grote-Oog, Hiem-Hannes, Kasper-oum, Krus’, Luoden-heide, R., Röm., S., St., West-Indys, ao., botter-, c.q., dree'en, e-mailvorkeyr, gir-af-geskigde, kümmel-akwavit, midwochs-, twey-en-twintig, v., vyv-</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13 multi-word tokens. On average, one multi-word token consists of 2.69 syntactic words.</li>
-<li>There are 8 types of multi-word tokens. Examples: to'm, im, to'n, Kumste, in'en, in't, ten, van'er.</li>
+<li>This corpus contains 15 multi-word tokens. On average, one multi-word token consists of 2.60 syntactic words.</li>
+<li>There are 10 types of multi-word tokens. Examples: to'm, im, to'n, Kumste, am, bym, in'en, in't, ten, van'er.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -140,47 +149,38 @@ pages = "242--246",
 </ul>
 
 <ul>
-<li>This corpus contains 5 word types tagged as particles (PART): en, neet, nich, te, to</li>
+<li>This corpus contains 7 word types tagged as particles (PART): en, ne, neet, nich, nit, te, to</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as pronouns (PRON): al, alle, dat, de, dee, dit, du, dår, elk, enander, et, eyn, eyner, hee, ichts, ik, jeyde, jy, keynen, man, mekare, my, niks, see, sik, wat, wer, wy</li>
+<li>This corpus contains 63 lemmas tagged as pronouns (PRON): al, alle, allens, alles, allybeide, ander, anders, dat, de, dee, den, disse, dit, du, dyn, dår, dê, elk, elkeyn, en, enander, et, eyn, eynander, eyner, eynig, geyn, he, hee, ichts, ik, jenne, jeyde, jy, keyn, keynen, keynminske, man, mekare, my, myn, männig, niks, nüms, se, see, sik, uns, us, veale, wat, wee, wek, wekke, wekker, wel, welk, wer, weynig, wy, y, ydereyn, yts</li>
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as determiners (DET): allerley, dat, de, dee, den, disse, dyn, ear, en, et, geyn, höär, juw, keyn, myn, syn, un, uns</li>
+<li>This corpus contains 39 lemmas tagged as determiners (DET): al, alle, allerley, das, dat, de, dee, dei, den, desülve, disse, dit, dyn, düsse, düür, ear, een, elk, en, ergenden, et, eyn, eynig, geyn, het, höär, ieder, juw, keyn, myn, männig, neyn, syn, sük, un, uns, unse, yder, −</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: dat, de, dee, et</li>
+<li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: al, alle, dat, de, dee, den, disse, dit, dyn, elk, en, et, eyn, eynig, geyn, keyn, myn, männig, uns</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): hebben, künnen, möten, möägen, sköälen, weasen, werden, willen</li>
+<li>This corpus contains 10 lemmas tagged as auxiliaries (AUX): doon, dörven, hebben, künnen, möten, möägen, sköälen, weasen, werden, willen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: hebben, künnen, möten, möägen, werden, willen</li>
+<li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: doon, dörven, hebben, künnen, möten, möägen, sköälen, weasen, werden, willen</li>
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
-</ul>
-
-<ul>
-  <li>Fin
-  <ul>
-    <li>AUX: is, was, het, weer, wil, hadde, kan, sint, skölde, willet</li>
-    <li>VERB: leyt, hadde, hebben, hevt, höyrt, segt, sit, smit, stund, Haal</li>
-  </ul>
-  </li>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: syn, weasen, hebben, künnen, warden</li>
-    <li>VERB: doon, seggen, holden, koupen, seen, drägen, hebben, loupen, råden, sitten</li>
+    <li>AUX: syn, weasen, werden, hebben, hevven, können, künnen, mütten, süllen, warden</li>
+    <li>VERB: seggen, maken, seen, gån, hebben, doon, holden, eaten, höyren, stån</li>
   </ul>
   </li>
 </ul>
@@ -188,8 +188,9 @@ pages = "242--246",
 <ul>
   <li>Part
   <ul>
-    <li>AUX: weasd</li>
-    <li>VERB: ebracht, gån, maked, Beskreaven, afemaked, ankündigd, antwoorded, anvungen, beknütted, bewysd</li>
+    <li>ADJ: vorkeyrd, vorknüpped, Doudeslån, Ofgeloupen, anedån, anvroaren, anweasen, bedrämmelden, bekend, dalevyrd</li>
+    <li>AUX: west, worden, ewesd, must, weasd, weasen, ewest, kund, möcht, müst</li>
+    <li>VERB: gån, dån, koamen, maked, höyrd, worden, giaven, had, seen, segd</li>
   </ul>
   </li>
 </ul>
@@ -204,12 +205,13 @@ pages = "242--246",
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: ander, akademiske, andere, düslike, eyrste, goden, grout, hougen, junge, leve</li>
-      <li>DET: de, der, en, den, syne, myn, ne, syn, dee, des</li>
-      <li>NOUN: sake, stad, hand, syde, tyd, vroide, vrouwe, arbeid, nacht, nåberskop</li>
+      <li>ADJ: olde, ganse, groute, ander, andere, gode, grout, houge, lest, olden</li>
+      <li>ADJ-Part: terreatene, vordörde</li>
+      <li>DET: de, der, en, ne, dee, syne, eyne, myn, syn, düsse</li>
+      <li>NOUN: vrouwe, tyd, stad, döäre, syde, hand, werld, nacht, aerde, dochter</li>
       <li>NUM: eyne</li>
-      <li>PRON: dee, see, höär</li>
-      <li>PROPN: Hente, Havel, Luoden-heide, Marigge, Nicolaikarke, St.</li>
+      <li>PRON: see, dee, ear, höär, haar, alle, diaser, mynde</li>
+      <li>PROPN: Hente, CDU, Havel, Luoden-heide, Marigge, Nicolaikarke, Slaumayerske, St., Trina</li>
     </ul>
   </li>
 </ul>
@@ -217,10 +219,12 @@ pages = "242--246",
 <ul>
   <li>Fem,Masc
     <ul>
-      <li>ADJ: olden</li>
-      <li>DET: de, dee, des, en, gyn</li>
-      <li>NOUN: gek, nachts, noud, tyden</li>
-      <li>PRON: dee, eyne</li>
+      <li>ADJ: Golden, heyle, lest, olde, olden, smalle, vorweerden, weinig</li>
+      <li>ADJ-Part: vorweerden</li>
+      <li>DET: de, dee, en, Eynes, des, dissen, gyn, ne</li>
+      <li>NOUN: tyd, heyrskop, nachts, olde, tyden, Ploege, gek, gråten, kansen, last</li>
+      <li>PRON: dee, eyne, Geyn, ander, andere, eyn, wek</li>
+      <li>PROPN: Strüwingken</li>
     </ul>
   </li>
 </ul>
@@ -228,7 +232,18 @@ pages = "242--246",
 <ul>
   <li>Fem,Masc,Neut
     <ul>
-      <li>DET: syn</li>
+      <li>DET: Myne, syn</li>
+      <li>NOUN: andächtige, gardynen</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Fem,Neut
+    <ul>
+      <li>ADJ: lakensk</li>
+      <li>DET: en</li>
+      <li>NOUN: jakke</li>
     </ul>
   </li>
 </ul>
@@ -236,11 +251,13 @@ pages = "242--246",
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: armen, leven, lutherske, 31., Weynige, anderen, anseenliksten, böyse, drüdden, düchtige</li>
-      <li>DET: de, den, en, m, dee, dem, eynen, mynen, n, nen</li>
-      <li>NOUN: man, buur, junge, böyme, dag, dokter, gelouve, gelouven, hiamel, houpe</li>
-      <li>PRON: hee, dee, den, em, e, hum, deane, ean, eynder, eyne</li>
-      <li>PROPN: Hiärmen, Andrees, Bennad, Claus, Friedrich, Harms, Hein, Henrick, Krisjaon, Lulef</li>
+      <li>ADJ: goden, grouten, olde, olden, anderen, gode, groute, andere, beiden, eyrste</li>
+      <li>ADJ-Part: Ofgeloupen, bedrämmelden, gepokkeneerden, köften, uutsochten, vorgangen, vorkneapen, vorvealende</li>
+      <li>DET: de, den, en, dem, dee, synen, myn, eynen, syne, syn</li>
+      <li>NOUN: dag, man, god, her, buur, åvend, doud, junge, möller, kearl</li>
+      <li>NUM: eynen, veer</li>
+      <li>PRON: hee, dee, em, den, man, hum, en, üm, iame, eyner</li>
+      <li>PROPN: Hiärmen, Andrees, Bennad, Claus, Friedrich, God, Gravenes, Harms, Hein, Henrick</li>
     </ul>
   </li>
 </ul>
@@ -248,7 +265,10 @@ pages = "242--246",
 <ul>
   <li>Masc,Neut
     <ul>
-      <li>NOUN: bast, noorden, vlas, westen</li>
+      <li>ADJ: krütslike, olde, vorstandig</li>
+      <li>DET: keyn, de, Alle, en, neyn, synen</li>
+      <li>NOUN: menske, minske, minsken, bast, hokuspokus, lyv, mensken, minsker, noorden, vlas</li>
+      <li>PRON: al, geyn</li>
     </ul>
   </li>
 </ul>
@@ -256,11 +276,13 @@ pages = "242--246",
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: vöärneame, Leve, aardig, ander, anders, beiden, beste, besten, drüdde, eiselik</li>
-      <li>DET: en, dat, et, de, n, t, allerley, den, ear, keyn</li>
-      <li>NOUN: lüde, kinder, lüdens, mål, bittyn, ende, huus, lüüd, ouge, ougen</li>
-      <li>NUM: eynen</li>
-      <li>PRON: et, dat, wat, niks, det, al, allens, dit, dát, hwat</li>
+      <li>ADJ: eyrste, old, ander, andere, anders, gode, grout, heyle, leste, leve</li>
+      <li>ADJ-Part: gegeaven, gemästed, terspleaten, uutgereaten, vordraides, vorvreaten, vöärgånde</li>
+      <li>DET: dat, en, et, de, syn, myn, det, dem, 'n, den</li>
+      <li>NOUN: lüde, huus, kinder, mål, geld, ougen, woord, ende, jår, leaven</li>
+      <li>NUM: eyn, eynen, twey</li>
+      <li>PRON: et, dat, wat, niks, det, alles, allens, al, dee, dit</li>
+      <li>PROPN: Eykertyn, Grote-Oog, endje</li>
     </ul>
   </li>
 </ul>
@@ -273,14 +295,26 @@ pages = "242--246",
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: olden, Leve, Weynige, anderen, anseenliksten, beiden, düslike, fyne, fynen, geleyrde</li>
-      <li>AUX: sint, weren, willet, konnen, köänet, hadden, mus, sküllet, sullen, warden</li>
-      <li>AUX-Fin: sint, willet, hadden, konnen, sullen, warden, weren, wullen</li>
-      <li>DET: de, den, syne, eare, en, Dat, dee, keyne, unsen, uw</li>
-      <li>NOUN: lüde, kinder, böyme, pearde, smartsen, arms, beyne, dage, dagen, daler</li>
-      <li>PRON: see, dee, alle, wy, hee, mekare, se, sik</li>
-      <li>VERB: saeten, hebben, anhebbet, blyvet, brennen, drådnägelen, döppen, gnageden, gåt, hove</li>
-      <li>VERB-Fin: hebben, blyvet, drådnägelen, hove, koamet, kwaemen, loupen, maket, sadelet, saeten</li>
+      <li>ADJ: olden, beiden, beide, gode, olde, andere, lange, anderen, eyrsten, goden</li>
+      <li>ADJ-Part: vordörde, vöärgånde</li>
+      <li>AUX: hadden, weren, sint, sünt, willet, hebbet, köänet, hebben, wassen, kunnen</li>
+      <li>DET: de, dee, syne, den, alle, eare, keyne, myn, syn, uw</li>
+      <li>NOUN: lüde, kinder, ougen, dage, buren, dagen, jåren, minsken, tyden, dinge</li>
+      <li>NUM: dree'en, veer</li>
+      <li>PRON: see, wy, dee, jy, sik, juw, uns, uus, alle, y</li>
+      <li>PROPN: Berbiessies, Drüüksken, Dörchläuchten</li>
+      <li>VERB: saeten, sean, hebbet, gåt, hebben, hevvet, kaemen, ståt, doot, gungen</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Plur,Sing
+    <ul>
+      <li>AUX: kün, bint, künnet, heb, sünt, kan, mag, mö, müttet, sin</li>
+      <li>NOUN: mark</li>
+      <li>PRON: y, See, u, jy, uw, hee, höär, sik, wat, ü</li>
+      <li>VERB: hebbet, doot, gå, gåt, seggen, weat, wordet, Hold, Koup, Låt</li>
     </ul>
   </li>
 </ul>
@@ -288,16 +322,15 @@ pages = "242--246",
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: ander, eyrste, armen, grout, lutherske, veal, 31., aardig, akademiske, andere</li>
-      <li>AUX: is, was, hadde, het, kon, wardt, weer, wil, hebbe, kan</li>
-      <li>AUX-Fin: is, was, het, weer, wil, hadde, kan, skölde, hevt, kun</li>
-      <li>DET: de, en, den, dat, der, et, syn, m, myn, dee</li>
-      <li>NOUN: sake, buur, man, stad, hand, junge, syde, tyd, vroide, vrouwe</li>
-      <li>NUM: eyne, eynen</li>
-      <li>PRON: ik, et, hee, dat, dee, my, wat, man, sik, em</li>
-      <li>PROPN: Marigge, Jüsken, Kiel, Wiesken, Adolf, Anton, Dithmarschen, Dreier, E., G.</li>
-      <li>VERB: hadde, leyt, höyrt, kumt, nam, sea, segt, stun, Sü, dacht</li>
-      <li>VERB-Fin: leyt, hadde, hevt, höyrt, segt, sit, smit, stund, Haal, Kumst</li>
+      <li>ADJ: olde, goden, groute, grouten, eyrste, ganse, gode, old, ander, andere</li>
+      <li>ADJ-Part: Ofgeloupen, bedrämmelden, gegeaven, gemästed, gepokkeneerden, köften, terreatene, terspleaten, uutgereaten, uutsochten</li>
+      <li>AUX: is, was, het, hadde, weer, kan, wil, wul, kun, sal</li>
+      <li>DET: de, en, den, dat, et, dem, myn, syn, dee, der</li>
+      <li>NOUN: dag, vrouwe, man, tyd, god, her, buur, åvend, doud, huus</li>
+      <li>NUM: eynen, eyn, eyne</li>
+      <li>PRON: ik, hee, et, dat, my, dee, wat, sik, see, em</li>
+      <li>PROPN: Pölz, Hiärmen, Anna, Koch, Andries, Gassen, Jesus, Willem, Hein, Diekes</li>
+      <li>VERB: hadde, sea, kam, het, sead, segt, gung, geit, kaem, segge</li>
     </ul>
   </li>
 </ul>
@@ -309,11 +342,13 @@ pages = "242--246",
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: aardig, andere, beiden, drüdden, düchtige, enkele, eyrste, fynen, ganses, geistlike</li>
-      <li>DET: de, en, den, dat, syn, et, unsen, dee, eare, eynen</li>
-      <li>NOUN: bittyn, gek, korv, pearde, rad, sake, vroide, aldaagsktüüg, arvdeyl, baas</li>
-      <li>PRON: et, dat, niks, wat, den, hum, nist, see, al, alle</li>
-      <li>PROPN: Garrelt</li>
+      <li>ADJ: goden, groute, gode, grouten, olde, anderen, ganse, grout, heyle, lange</li>
+      <li>ADJ-Part: Ofgeloupen, bedrämmelden, gemästed, gepokkeneerden, terspleaten, uutgereaten, uutsochten, vordörde, vorgangen, vorkneapen</li>
+      <li>DET: de, en, den, dat, et, syn, syne, dee, myn, ne</li>
+      <li>NOUN: dag, åvend, tyd, werld, woord, geld, leaven, ouge, ougen, dage</li>
+      <li>NUM: veer, dree, eynen, twaalv, twey</li>
+      <li>PRON: dat, wat, et, niks, see, dee, den, en, ne, al</li>
+      <li>PROPN: Eykertyn, Garrelt, dalailama, endje, weag</li>
     </ul>
   </li>
 </ul>
@@ -321,12 +356,13 @@ pages = "242--246",
 <ul>
   <li>Acc,Dat
     <ul>
-      <li>ADJ: ander, vöärneame, akademiske, anseenliksten, armen, eyrste, gemeynen, hunderdjärige, katoolsk, leve</li>
-      <li>DET: de, den, en, syne, dat, et, myn, dyn, iaren, nen</li>
-      <li>NOUN: stad, buur, man, syde, vroidenvest, aerde, beyne, bloudtügen, bookhandeling, dysen</li>
-      <li>NUM: hunderd</li>
-      <li>PRON: sik, my, myn, em, enander, ow, al, eynen, höär, uw</li>
-      <li>PROPN: Havel, Luoden-heide, St., Zütphen</li>
+      <li>ADJ: andere, grouten, olden, eyrste, ander, houge, gode, golden, lest, leste</li>
+      <li>ADJ-Part: gegeaven, vorweerden, vöärgånde</li>
+      <li>DET: de, den, en, et, dat, myn, syn, syne, synen, dee</li>
+      <li>NOUN: huus, man, stad, tyd, God, dag, döäre, syde, aerde, hüüs</li>
+      <li>NUM: eyn, hunderd, dree, dree'en, eynen</li>
+      <li>PRON: my, sik, em, dy, u, juw, uns, uus, hum, üm</li>
+      <li>PROPN: CDU, Grote-Oog, Havel, Luoden-heide, St., Trina, Zütphen</li>
     </ul>
   </li>
 </ul>
@@ -334,12 +370,12 @@ pages = "242--246",
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: olden, 31., anderen, besten, eyrste, glönnigen, goden, grynenden, leven</li>
-      <li>DET: der, m, n, dem, den, En, de, er, eyner, mynen</li>
-      <li>NOUN: ougen, ende, houpe, barge, deyl, doude, eyke, fitsen, gelouven, god</li>
-      <li>NUM: eyne, eynen</li>
-      <li>PRON: em, mik, my, deane</li>
-      <li>PROPN: Marigge, Nicolaikarke</li>
+      <li>ADJ: besten, goden, eyrsten, olden, anderen, grouten, grönen, leven, minste, 31.</li>
+      <li>DET: dem, der, den, 'n, m, eynem, synem, 'm, dear, mynem</li>
+      <li>NOUN: tyd, doude, möller, dag, ende, heyren, houpe, lande, ougen, profeten</li>
+      <li>NUM: eyne, eynen, veer</li>
+      <li>PRON: em, iame, dem, ear, öäme, iam, mik, my, nen, öäm</li>
+      <li>PROPN: God, Marigge, Nicolaikarke</li>
     </ul>
   </li>
 </ul>
@@ -347,9 +383,11 @@ pages = "242--246",
 <ul>
   <li>Gen
     <ul>
-      <li>DET: des, en</li>
-      <li>NOUN: nachts, åvends, moders</li>
-      <li>PROPN: Winkels</li>
+      <li>ADJ: anders, goder, nys, wits, öldesten</li>
+      <li>DET: des, eynes, en, synes, 't, deas, der</li>
+      <li>NOUN: åvends, nachts, dages, anderdages, broders, hoapeninge, junges, maargens, mensken, moders</li>
+      <li>PRON: anders</li>
+      <li>PROPN: Esaias, Mariekens, Reinekens, Winkels</li>
     </ul>
   </li>
 </ul>
@@ -357,12 +395,13 @@ pages = "242--246",
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: ander, lutherske, völle, Leve, anderen, armen, beste, böyse, drüdde, düslike</li>
-      <li>DET: de, en, dat, dee, et, syne, myn, ne, syn, Unse</li>
-      <li>NOUN: arbeid, buur, gelouve, junge, kinder, lüde, lüdens, lüüd, sake, tyd</li>
-      <li>NUM: tein</li>
-      <li>PRON: ik, et, hee, dee, see, dat, y, man, wat, alle</li>
-      <li>PROPN: Hiärmen, Andrees, Hein, Henrick, Jouke, Krisjaon, Lulef, Röyverbarg, oktober</li>
+      <li>ADJ: olde, leve, old, beiden, gode, groute, olden, ander, beide, ganse</li>
+      <li>ADJ-Part: köften, terreatene, vordraides, vorvealende</li>
+      <li>DET: de, en, dat, dee, myn, et, ne, syn, keyn, syne</li>
+      <li>NOUN: lüde, vrouwe, her, man, God, buur, doud, junge, kearl, vader</li>
+      <li>NUM: tein, eyn</li>
+      <li>PRON: ik, hee, see, dee, et, dat, wy, y, du, wat</li>
+      <li>PROPN: Hiärmen, Andrees, Gravenes, Heem, Hein, Henrick, Jouke, Krisjaon, Lulef, Röyverbarg</li>
     </ul>
   </li>
 </ul>
@@ -375,7 +414,7 @@ pages = "242--246",
 <ul>
   <li>Def
     <ul>
-      <li>DET: de, den, dat, der, et, en, m, dee, n, dem</li>
+      <li>DET: de, den, dat, et, dem, dee, der, det, en, des</li>
     </ul>
   </li>
 </ul>
@@ -383,7 +422,7 @@ pages = "242--246",
 <ul>
   <li>Ind
     <ul>
-      <li>DET: en, ne, nen, eyne, eynen, eyner</li>
+      <li>DET: en, ne, eyne, eynen, eyn, nen, den, e, eynem, eynes</li>
     </ul>
   </li>
 </ul>
@@ -398,7 +437,8 @@ pages = "242--246",
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: Later, duurliker, eernsthafter, naeger, seaker, vröer, wyder</li>
+      <li>ADJ: meyr, beater, wyder, naeger, Later, lever, länger, minder, slechter, vröer</li>
+      <li>ADV: meyr, leverst</li>
     </ul>
   </li>
 </ul>
@@ -406,7 +446,9 @@ pages = "242--246",
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: good, byster, grout, houg, kold, natüürlik, sat, ander, völle, Hard</li>
+      <li>ADJ: good, gans, olde, recht, goden, richtig, doud, grouten, lange, vul</li>
+      <li>ADJ-Part: vorkeyrd, vorknüpped, Doudeslån, anedån, anvroaren, anweasen, bedrämmelden, bekend, egolded, ervroid</li>
+      <li>ADV: völle, heyldal, lange, stille, tovrea, veal, vial</li>
     </ul>
   </li>
 </ul>
@@ -414,7 +456,7 @@ pages = "242--246",
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: eyrste, best, anseenliksten, beste, besten, ryksten, sköynsten, wennigste</li>
+      <li>ADJ: best, lest, besten, eyrste, leste, allerbelangrykste, beste, grötsten, leevst, letste</li>
     </ul>
   </li>
 </ul>
@@ -444,8 +486,8 @@ pages = "242--246",
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: Sü, Haal, Süg, geavet, kom, låt, skenket, vertellet</li>
-      <li>VERB-Fin: Haal, Süg, geavet, skenket</li>
+      <li>AUX: syt, Sy</li>
+      <li>VERB: see, sü, låt, giv, gåt, höyr, Haal, Maak, Seg, gå</li>
     </ul>
   </li>
 </ul>
@@ -453,10 +495,8 @@ pages = "242--246",
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: is, was, hadde, het, kon, wardt, wil, hebbe, sint, weer</li>
-      <li>AUX-Fin: is, was, het, weer, wil, hadde, kan, sint, skölde, willet</li>
-      <li>VERB: hadde, leyt, saeten, hebben, höyrt, kumt, nam, sea, segt, stun</li>
-      <li>VERB-Fin: leyt, hadde, hebben, hevt, höyrt, segt, sit, smit, stund, Kumst</li>
+      <li>AUX: is, was, het, hadde, weer, kan, wil, sint, kun, wul</li>
+      <li>VERB: hadde, sea, kam, het, sead, segt, gung, geit, segge, kaem</li>
     </ul>
   </li>
 </ul>
@@ -464,8 +504,8 @@ pages = "242--246",
 <ul>
   <li>Ind,Sub
     <ul>
-      <li>AUX: hadde, kon, mus, sol, wol, wul</li>
-      <li>VERB: sat, wol, wüs</li>
+      <li>AUX: hadde, sul, was, weer, weren, wul, Solst, had, hadden, hädden</li>
+      <li>VERB: wol, Seggen, angung, dea, had, kaemen, kreyg, plükkede, reisen, sat</li>
     </ul>
   </li>
 </ul>
@@ -473,10 +513,8 @@ pages = "242--246",
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: möchte, künne, möcht, weer, wörde</li>
-      <li>AUX-Fin: künne, möcht</li>
-      <li>VERB: Bestünde, hädde, kaem, kaeme, leyt, miat</li>
-      <li>VERB-Fin: hädde, miat</li>
+      <li>AUX: weer, möchte, sül, wöre, hädde, wolde, würd, dead, drövden, können</li>
+      <li>VERB: hädde, höyren, kaem, kaeme, Bestünde, Låt, Låten, Skämen, deade, geave</li>
     </ul>
   </li>
 </ul>
@@ -488,10 +526,13 @@ pages = "242--246",
 <ul>
   <li>Past
     <ul>
-      <li>AUX: was, hadde, kon, weer, weren, konnen, möchte, skölde, wardt, wul</li>
-      <li>AUX-Fin: was, weer, hadde, skölde, hadden, konnen, kun, mochte, möcht, skul</li>
-      <li>VERB: hadde, leyt, saeten, nam, stun, dacht, ging, gung, höyrde, kaem</li>
-      <li>VERB-Fin: leyt, hadde, stund, bedüdde, gröäl, hädde, höyld, höyrde, kaem, kam</li>
+      <li>ADJ-Part: vorkeyrd, vorknüpped, Doudeslån, Ofgeloupen, anedån, anvroaren, anweasen, bedrämmelden, bekend, dalevyrd</li>
+      <li>AUX: was, hadde, weer, west, kun, hadden, wul, weren, had, kon</li>
+      <li>AUX-Inf: west</li>
+      <li>AUX-Part: west, worden, ewesd, must, weasen, ewest, kund, möcht, müst, wesd</li>
+      <li>VERB: hadde, sea, kam, sead, gung, kaem, stund, had, kwam, sagde</li>
+      <li>VERB-Inf: wedded</li>
+      <li>VERB-Part: dån, koamen, gån, höyrd, maked, worden, giaven, segd, bleaven, geaven</li>
     </ul>
   </li>
 </ul>
@@ -499,10 +540,10 @@ pages = "242--246",
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: is, het, wil, hebbe, sint, willet, kan, mot, mut, sin</li>
-      <li>AUX-Fin: is, het, wil, kan, sint, willet, hevt, künne, mut, müchte</li>
-      <li>VERB: hebben, höyrt, kumt, segt, do, geit, givt, hevt, hängt, kümt</li>
-      <li>VERB-Fin: hebben, hevt, höyrt, segt, sit, smit, Kumst, blivt, blyvet, drådnägelen</li>
+      <li>ADJ-Part: helderseend, hülpbehövend, smunselend, spottend, vansülvspreakend, vorvealende, vöärgånde</li>
+      <li>AUX: is, het, kan, wil, sint, sal, sünt, hev, heb, bin</li>
+      <li>VERB: het, segt, geit, segge, weyt, hebbet, hevt, höyrt, heyt, ligt</li>
+      <li>VERB-Part: wüst</li>
     </ul>
   </li>
 </ul>
@@ -519,7 +560,8 @@ pages = "242--246",
 <ul>
   <li>Art
     <ul>
-      <li>DET: de, en, den, dat, der, et, m, dee, n, dem</li>
+      <li>DET: de, en, den, dat, et, dem, dee, der, ne, det</li>
+      <li>PRON: et, dat</li>
     </ul>
   </li>
 </ul>
@@ -527,8 +569,16 @@ pages = "242--246",
 <ul>
   <li>Dem
     <ul>
-      <li>DET: dee, disse, dissen</li>
-      <li>PRON: dee, dat, deane, det, dit, dát</li>
+      <li>DET: dee, düsse, dissen, düssen, dease, disse, düäse, düäsen, dat, dit</li>
+      <li>PRON: dat, dee, det, den, dit, dem, disse, Düsse, dean, deane</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem,Prs
+    <ul>
+      <li>PRON: dat</li>
     </ul>
   </li>
 </ul>
@@ -536,7 +586,8 @@ pages = "242--246",
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: man, eyne, eyn, eynder, eynen, eyner, wat, yts</li>
+      <li>DET: eyn, eyne, eynem, eynige, ergendeyn, männig, sük, sükke</li>
+      <li>PRON: man, wat, anderen, eyne, eyner, eyn, andere, men, ander, eynen</li>
     </ul>
   </li>
 </ul>
@@ -560,7 +611,7 @@ pages = "242--246",
 <ul>
   <li>Int
     <ul>
-      <li>PRON: wat, Wer, hwat</li>
+      <li>PRON: wat, wee, wel, Hwekke, Wekke, Wer, hwat, hwekker, wen</li>
     </ul>
   </li>
 </ul>
@@ -576,8 +627,8 @@ pages = "242--246",
 <ul>
   <li>Neg
     <ul>
-      <li>DET: keyne, gyn, keyn, kyn, kyne, kynen</li>
-      <li>PRON: niks, nist, keynen</li>
+      <li>DET: gyn, keyn, keyne, keynen, kyn, nin, geyn, gin, kyne, kynen</li>
+      <li>PRON: niks, nist, keynen, Geyn, geynt, keymes, keyn, keyner, nüms</li>
     </ul>
   </li>
 </ul>
@@ -585,8 +636,8 @@ pages = "242--246",
 <ul>
   <li>Prs
     <ul>
-      <li>DET: syn, myn, syne, unsen, eare, myne, mynen, Unse, des, dyn</li>
-      <li>PRON: ik, et, hee, see, my, sik, dat, y, em, myn</li>
+      <li>DET: myn, syn, syne, synen, uw, ear, dyn, myne, eare, dyne</li>
+      <li>PRON: ik, hee, see, et, my, sik, wy, dat, em, y</li>
     </ul>
   </li>
 </ul>
@@ -594,7 +645,7 @@ pages = "242--246",
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: enander, mekare, sik</li>
+      <li>PRON: enander, eynander, mekare, sik</li>
     </ul>
   </li>
 </ul>
@@ -602,7 +653,7 @@ pages = "242--246",
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: dee, den, wat</li>
+      <li>PRON: dee, den, wat, dat, dem, hwekken, wek, welke</li>
     </ul>
   </li>
 </ul>
@@ -610,7 +661,8 @@ pages = "242--246",
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: alle, al, allens, elk, jeydet</li>
+      <li>DET: alle, olle, elken, ydem, yder, ydere, allen, elke</li>
+      <li>PRON: alle, al, alles, allens, allers, allet, olles, ydereyn, Elkeyn, allen</li>
     </ul>
   </li>
 </ul>
@@ -622,7 +674,15 @@ pages = "242--246",
 <ul>
   <li>Card
     <ul>
-      <li>NUM: dree, eyn, twey, vyv</li>
+      <li>NUM: twey, dree, eyn, veer, 14, acht, dusend, sös, tweyhunderd, veertein</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: eyrste, eyrsten, tweyde, siavende, twölvden, vövd</li>
     </ul>
   </li>
 </ul>
@@ -634,7 +694,8 @@ pages = "242--246",
 <ul>
   <li>Yes
     <ul>
-      <li>DET: syn, syne, myn, unsen, eare, myne, mynen, Unse, dyn, ear</li>
+      <li>DET: myn, syn, syne, synen, ear, uw, dyn, myne, eare, dyne</li>
+      <li>PRON: myn, dyn, höär, mynde</li>
     </ul>
   </li>
 </ul>
@@ -646,7 +707,7 @@ pages = "242--246",
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: sik</li>
+      <li>PRON: sik, sek, sich, süch, sük, sy</li>
     </ul>
   </li>
 </ul>
@@ -658,11 +719,17 @@ pages = "242--246",
 <ul>
   <li>1
     <ul>
-      <li>AUX: hebbe, sin, skölde, was, wil, wul, hadde, heb, hev, kon</li>
-      <li>AUX-Fin: skölde, wil, müchte, sin, sul, wul</li>
-      <li>PRON: ik, my, myn, wy, mik, et, ikke</li>
-      <li>VERB: hadde, dacht, las, segge, bedanke, do, dors, gåt, hebben, heeld</li>
-      <li>VERB-Fin: hadde, hebben, kryge</li>
+      <li>AUX: wil, hev, kan, bin, heb, was, had, hebbe, hevve, sal</li>
+      <li>PRON: ik, my, wy, ek, uns, uus, mik, myn, ikke, we</li>
+      <li>VERB: segge, hev, weyt, dacht, do, gelöyve, gå, hadde, heb, sat</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>1,3
+    <ul>
+      <li>PRON: See</li>
     </ul>
   </li>
 </ul>
@@ -670,9 +737,19 @@ pages = "242--246",
 <ul>
   <li>2
     <ul>
-      <li>PRON: y, du, jy, ow, uw, e</li>
-      <li>VERB: Sü, Haal, Kumst, Süg, bruukst, do, geavet, heb, hebben, hest</li>
-      <li>VERB-Fin: Haal, Kumst, Süg, geavet, hebben, skenket, skynst</li>
+      <li>AUX: büst, hest, kün, heb, bint, bis, hes, künnet, kanst, künnen</li>
+      <li>PRON: y, du, jy, dy, u, juw, uw, dik, jit, See</li>
+      <li>VERB: hest, hevvet, weytst, Sü, do, doot, geavet, gå, gåt, hebben</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2,3
+    <ul>
+      <li>AUX: sünt</li>
+      <li>PRON: See, sik</li>
+      <li>VERB: seggen, Låten, Skämen, Weaten, gelöyvet, gån, hebbet, höyren, kaemen, koamen</li>
     </ul>
   </li>
 </ul>
@@ -680,11 +757,9 @@ pages = "242--246",
 <ul>
   <li>3
     <ul>
-      <li>AUX: is, was, hadde, het, kon, wardt, weer, willet, kan, konnen</li>
-      <li>AUX-Fin: is, was, het, weer, hadde, kan, willet, hadden, hevt, konnen</li>
-      <li>PRON: et, hee, see, sik, dat, em, dee, det, e, hum</li>
-      <li>VERB: leyt, hadde, saeten, höyrt, kumt, nam, segt, stun, geit, ging</li>
-      <li>VERB-Fin: leyt, hadde, hevt, höyrt, segt, sit, smit, stund, bedüdde, blivt</li>
+      <li>AUX: is, was, het, hadde, weer, kan, hadden, kun, sint, weren</li>
+      <li>PRON: hee, see, et, sik, dat, em, det, hum, ear, dee</li>
+      <li>VERB: hadde, sea, het, kam, sead, segt, gung, geit, kaem, stund</li>
     </ul>
   </li>
 </ul>
@@ -696,8 +771,9 @@ pages = "242--246",
 <ul>
   <li>Form
     <ul>
-      <li>PRON: Jy</li>
-      <li>VERB-Fin: geavet, skenket</li>
+      <li>AUX: sünt, künnen, syt, willet</li>
+      <li>PRON: See, Jy, sik, ju</li>
+      <li>VERB: seggen, Låten, Skämen, Weaten, geavet, gelöyvet, gån, gåt, hebbet, höyren</li>
     </ul>
   </li>
 </ul>
@@ -737,7 +813,7 @@ pages = "242--246",
 <ul>
   <li>Sing
     <ul>
-      <li>DET: syn, syne, myn, myne, mynen, dyn, höären, synen</li>
+      <li>DET: syn, syne, myn, myne, mynen, dyn, höären, synen, uw</li>
     </ul>
   </li>
 </ul>
@@ -748,9 +824,14 @@ pages = "242--246",
 <ul>
   <li><a>AdpType</a>
     <ul>
+      <li>Post
+        <ul>
+          <li>ADP: to, an</li>
+        </ul>
+      </li>
       <li>Prep
         <ul>
-          <li>ADP: in, van, mid, an, to, by, up, vöär, uut, nå</li>
+          <li>ADP: in, van, up, mid, an, vöär, to, by, nå, med</li>
         </ul>
       </li>
     </ul>
@@ -762,7 +843,7 @@ pages = "242--246",
     <ul>
       <li>Yes
         <ul>
-          <li>X: decipi, mundus, vult, Amicorum, Batavorum, De, Iovivat, Prosaluut, arum, bedrogen</li>
+          <li>X: decipi, mundus, vult, Amicorum, Batavorum, De, Feststellung, Iovivat, Personalien, Pompadour</li>
         </ul>
       </li>
     </ul>
@@ -774,12 +855,12 @@ pages = "242--246",
     <ul>
       <li>Inf
         <ul>
-          <li>PART: te, to</li>
+          <li>PART: to, te</li>
         </ul>
       </li>
       <li>Neg
         <ul>
-          <li>PART: nich, neet, en</li>
+          <li>PART: nich, neet, nit, ne, en</li>
         </ul>
       </li>
     </ul>
@@ -814,18 +895,17 @@ pages = "242--246",
       <li>Aux
         <ul>
           <li>AUX: het, is, wil, hadde, kan, skölde, willet, hadden, hebben, hevt</li>
-          <li>AUX-Fin: het, is, wil, hadde, kan, skölde, willet, hadden, hevt, konnen</li>
           <li>AUX-Inf: hebben</li>
         </ul>
       </li>
       <li>Cop
         <ul>
-          <li>AUX-Fin: is, was, weer, sint, weren</li>
+          <li>AUX: is, was, weer, sint, weren</li>
         </ul>
       </li>
       <li>Mod
         <ul>
-          <li>AUX-Fin: kun, künne, möcht, sul, wul</li>
+          <li>AUX: kun, künne, möcht, sul, wul</li>
         </ul>
       </li>
     </ul>
@@ -841,7 +921,7 @@ pages = "242--246",
 </ul>
 
 <ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, künnen, willen, weasen, sköälen, möten, werden, möägen.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, weasen, künnen, willen, sköälen, möten, werden, möägen, doon, dörven.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden, weasen.</li>
 </ul>
 
@@ -851,17 +931,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (25)</li>
-      <li>VERB--PRON-Nom (78)</li>
-      <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Nom (21)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Nom (33)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN-Acc (4)</li>
+      <li>VERB--NOUN-Dat (2)</li>
+      <li>VERB--NOUN-Nom (309)</li>
+      <li>VERB--NOUN-Nom-ADP(aver) (1)</li>
+      <li>VERB--PRON (5)</li>
+      <li>VERB--PRON-Acc (4)</li>
+      <li>VERB--PRON-Acc,Dat (6)</li>
+      <li>VERB--PRON-Nom (859)</li>
+      <li>VERB-Inf--NOUN-Acc (2)</li>
+      <li>VERB-Inf--NOUN-Dat (1)</li>
+      <li>VERB-Inf--NOUN-Nom (46)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Nom (36)</li>
-      <li>VERB-Part--NOUN-Nom (8)</li>
-      <li>VERB-Part--PRON-Nom (18)</li>
+      <li>VERB-Inf--PRON-Acc,Dat (4)</li>
+      <li>VERB-Inf--PRON-Nom (259)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Part--NOUN-Acc (2)</li>
+      <li>VERB-Part--NOUN-Nom (70)</li>
+      <li>VERB-Part--PRON-Acc,Dat (3)</li>
+      <li>VERB-Part--PRON-Nom (182)</li>
     </ul>
   </li>
 </ul>
@@ -869,31 +958,43 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (29)</li>
+      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN-Acc (307)</li>
+      <li>VERB--NOUN-Acc,Dat (3)</li>
       <li>VERB--NOUN-Acc,Dat-ADP(mid) (1)</li>
-      <li>VERB--NOUN-Nom (2)</li>
-      <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Acc (20)</li>
-      <li>VERB--PRON-Acc,Dat (15)</li>
-      <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (20)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (6)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Acc (17)</li>
+      <li>VERB--NOUN-Acc-ADP(dale) (2)</li>
+      <li>VERB--NOUN-Dat (8)</li>
+      <li>VERB--NOUN-Dat-ADP(in) (1)</li>
+      <li>VERB--NOUN-Dat-ADP(nå) (1)</li>
+      <li>VERB--NOUN-Gen (1)</li>
+      <li>VERB--NOUN-Nom (13)</li>
+      <li>VERB--PRON (3)</li>
+      <li>VERB--PRON-Acc (196)</li>
+      <li>VERB--PRON-Acc,Dat (121)</li>
+      <li>VERB--PRON-Dat (6)</li>
+      <li>VERB--PRON-Nom (9)</li>
+      <li>VERB-Inf--NOUN-Acc (125)</li>
+      <li>VERB-Inf--NOUN-Acc,Dat (1)</li>
+      <li>VERB-Inf--NOUN-Acc,Dat-ADP(mid) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(vöär) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(åne) (1)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
+      <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (10)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (4)</li>
+      <li>VERB-Inf--PRON-Acc (65)</li>
+      <li>VERB-Inf--PRON-Acc,Dat (39)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (11)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Part--NOUN-Acc (75)</li>
+      <li>VERB-Part--NOUN-Acc,Dat-ADP(en) (1)</li>
+      <li>VERB-Part--NOUN-Acc,Dat-ADP(mid) (1)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
-      <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON-Acc (5)</li>
-      <li>VERB-Part--PRON-Acc,Dat (1)</li>
+      <li>VERB-Part--NOUN-Nom (5)</li>
+      <li>VERB-Part--PRON-Acc (60)</li>
+      <li>VERB-Part--PRON-Acc,Dat (20)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
+      <li>VERB-Part--PRON-Nom (2)</li>
     </ul>
   </li>
 </ul>
@@ -901,17 +1002,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Acc (2)</li>
-      <li>VERB--NOUN-Acc,Dat (1)</li>
-      <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--PRON-Acc,Dat (4)</li>
-      <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (6)</li>
-      <li>VERB-Inf--NOUN-Acc,Dat (1)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (3)</li>
-      <li>VERB-Inf--PRON-Dat (1)</li>
+      <li>VERB--NOUN-Acc (3)</li>
+      <li>VERB--NOUN-Acc,Dat (2)</li>
+      <li>VERB--NOUN-Dat (5)</li>
+      <li>VERB--PRON-Acc (2)</li>
+      <li>VERB--PRON-Acc,Dat (57)</li>
+      <li>VERB--PRON-Dat (9)</li>
+      <li>VERB-Inf--NOUN-Acc,Dat (6)</li>
+      <li>VERB-Inf--NOUN-Dat (2)</li>
+      <li>VERB-Inf--PRON-Acc,Dat (22)</li>
+      <li>VERB-Inf--PRON-Dat (3)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--PRON-Dat (2)</li>
+      <li>VERB-Part--NOUN-Acc,Dat (3)</li>
+      <li>VERB-Part--NOUN-Dat (2)</li>
+      <li>VERB-Part--PRON-Acc,Dat (20)</li>
+      <li>VERB-Part--PRON-Dat (3)</li>
     </ul>
   </li>
 </ul>
@@ -919,19 +1024,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 5 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: besteaden sik, eaten sik, lägeren sik, setten sik, vorwunderen sik</li>
+  <li>This corpus contains 39 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: skamen sik, vorwunderen sik, bangen sik, bekyken sik, besinnen juw, besinnen sik, besnorgelen sik, besteaden sik, denken sik, eaten sik, geaven et, holden uus, inslån et, keyren sik, kyken sik, lägeren sik, låten my, låten sek, låten sik, maken dy, maken sik, neamen sik, nådenken my, resolveren sik, setten ju, setten sik, smegen sik, stellen sik, swearen my, trekken sik, tyren sük, vallen et, vordragen dy, vorlåten sik, vorvlöken sik, vorwylen sik, vörderen sik, wearen sik, weaten sik</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: låten sik, entsluten sik, koaken sik, maken sik, setten sik, weaten sik, öäverdenken sik</li>
+  <li>This corpus contains 42 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: låten sik, stellen sik, draien sik, låten sek, maken sik, richten sik, setten sik, vortellen sik, vorwandelen sik, wunderen sik, anhandelen sik, bemögen süch, beperken sich, bringen sik, byten sik, entsluten sik, geaven sik, hebben sik, heisteren süch, helpen sik, höägen sik, inslachten sik, koaken sik, köypen sik, köypen sy, leggen sek, rekken süch, rennen sik, rögen sik, sitten sik, sküddelen sik, stöyten sik, tröysten sik, underholden sik, vorswearen sik, vroien sik, vöärneamen sik, weaten sik, wenden sik, winnen sik, wärmen sik, öäverdenken sik</li>
+    <ul>
+      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: vorwandelen</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>csubj:outer</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a></li>
 </ul>

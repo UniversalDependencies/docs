@@ -76,4 +76,4 @@ In a plural subject, all members are doers and undergoers, acting upon each othe
 * አንበሳዎቹ <b>ተገዳደሉ</b> ። / _'änəbäsawoču <b>tägädadälu</b> ._
   “The lions killed each other.” (lit. the-lions RCP-killed-they)
 
-<!-- Interlanguage links updated Po lis 14 15:35:01 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

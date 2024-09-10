@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
 3	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
+4	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	iobj	_	_
 5	fresh	fresh	ADJ	JJ	_	6	amod	_	_
 6	paint	paint	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	_

@@ -71,4 +71,4 @@ the cat was chased by the dog
 nsubj:pass(chased, cat)
 obl:agent(chased, dog)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:38 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:35 CEST -->

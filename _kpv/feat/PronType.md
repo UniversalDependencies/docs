@@ -58,4 +58,4 @@ Pronominal type is a feature of (some) pronouns, determiners and pronominal adve
 
 * _ӧта-мӧднымӧс_ \n one another.
 
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:18 CEST -->

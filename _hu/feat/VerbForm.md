@@ -64,4 +64,4 @@ verb form that shares properties of verbs and adverbs.
 
 * [hu] _A két vezér közötti kapcsolat finoman <b>szólva</b> igen rideg._ “The relationship between the two leaders is, <b>to put it</b> mildly, very brittle.”
 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

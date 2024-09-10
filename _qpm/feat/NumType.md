@@ -42,4 +42,4 @@ In Pomak, the feature `NumType` is assigned to the following parts of speech:
 
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:52 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:10 CEST -->

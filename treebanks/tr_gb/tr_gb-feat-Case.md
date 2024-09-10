@@ -216,7 +216,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="tr_gb-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (10; 100%),
 <tt>NOUN --[<tt><a href="tr_gb-dep-csubj-cop.html">csubj:cop</a></tt>]--> VERB</tt> (8; 53%),
 <tt>VERB --[<tt><a href="tr_gb-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 75%),
-<tt>VERB --[<tt><a href="tr_gb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (5; 100%),
 <tt>NOUN --[<tt><a href="tr_gb-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (4; 100%),
-<tt>NOUN --[<tt><a href="tr_gb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (3; 60%).
+<tt>NOUN --[<tt><a href="tr_gb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (3; 60%),
+<tt>PRON --[<tt><a href="tr_gb-dep-csubj-cop.html">csubj:cop</a></tt>]--> VERB</tt> (3; 75%).
 

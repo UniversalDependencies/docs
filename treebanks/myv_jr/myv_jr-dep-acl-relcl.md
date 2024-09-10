@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="myv_jr-dep-acl.html
 70 nodes (0%) are attached to their parents as `acl:relcl`.
 
 62 instances of `acl:relcl` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.57142857142857.
+Average distance between parent and child is 4.54285714285714.
 
-The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (50; 71% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (7; 10% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (49; 70% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (7; 10% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	шкась	шка	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
 8	кода	кода	SCONJ	CS	AdvType=Tim	9	mark	_	GTtags=Sem/Temp
-9	туить	туемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	6	acl:relcl	_	GTtags=IV,Ind,Prs,ScPl3
+9	туить	туемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	6	acl:relcl	_	GTtags=IV,Ind,Prs,ScPl3
 10	Цёраксонь	цёракс	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	11	nmod	_	GTtags=Sem/Inanim,Sem/NCnt,SP,Gen,Indef
 11	кирдав	кирда	NOUN	N	Case=Lat|Definite=Ind|Number=Plur,Sing	9	obl	_	GTtags=Sem/Inanim_Cnt,SP,Lat,Indef|SpaceAfter=No
 12	...	...	PUNCT	CLB	_	4	punct	_	_
@@ -68,10 +68,10 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 acl:relcl	color:blue
-1	Астай	Астай	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	2	nmod	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
+1	Астай	Астай	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	2	compound:nn	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
 2	покштянть	покштя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl:own	_	CGdephead=#2-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Sg,Gen,Def
 3	сестэ	сестэ	ADV	Adv	_	4	advmod:tmod	_	CGdephead=#3-&gt;4|CGdeprel=@ADVL&gt;|GTtags=
-4	ульнесть	ульнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
+4	ульнесть	ульнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
 5	вете	вете	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	6	nummod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=Card,Sg,Nom,Indef
 6	цёранзо	цёра	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	CGdephead=#6-&gt;4|CGdeprel=@&lt;SUBJ|GTtags=Pl,Nom,PxSg3
 7	пек	пек	ADV	Adv	AdvType=Deg	8	advmod:deg	_	CGdephead=#7-&gt;8|CGdeprel=@&gt;A|GTtags=Deg
@@ -79,7 +79,7 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	,	,	PUNCT	CLB	_	12	punct	_	CGdephead=#9-&gt;8|CGdeprel=@CLB|GTtags=CLB
 10	нилетне	ниле	NUM	Num	Case=Nom|Definite=Def|Number=Plur|NumType=Card	12	nsubj	_	CGdephead=#10-&gt;0|CGdeprel=@X|GTtags=Card,Pl,Nom,Def
 11	уш	уш	ADV	Adv	_	12	advmod:tmod	_	CGdephead=#11-&gt;10|CGdeprel=@ADVL|GTtags=
-12	урьвакстозельть	урьвакстомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1|VerbForm=Conv,Part	4	conj	_	CGdephead=#12-&gt;0|CGdeprel=@PRED|GTtags=IV,Der/Ozj,Ger,Der/MWN,N,Pl,Nom,Indef,Clt/Cop Prt2 ScPl3|SpaceAfter=No
+12	урьвакстозельть	урьвакстомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Conv,Part	4	conj	_	CGdephead=#12-&gt;0|CGdeprel=@PRED|GTtags=IV,Der/Ozj,Ger,Der/MWN,N,Pl,Nom,Indef,Clt/Cop Prt2 ScPl3|SpaceAfter=No
 13	...	...	PUNCT	CLB	_	4	punct	_	CGdephead=#13-&gt;4|CGdeprel=@CLB|GTtags=CLB
 
 ~~~

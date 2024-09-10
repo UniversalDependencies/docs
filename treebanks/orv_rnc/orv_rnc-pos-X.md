@@ -6,95 +6,82 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `X`
 
-There are 152 `X` lemmas (3%), 184 `X` types (2%) and 205 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 9 in number of types and 15 in number of tokens.
+There are 64 `X` lemmas (1%), 263 `X` types (1%) and 452 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 8 in number of lemmas, 8 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_, sic, </i>, <i>, {л._219}, </em>, <em>, etc., {3_reg_:_10.}, {4_reg_:_11.}</em>
+The 10 most frequent `X` lemmas: <em>_, </em>, <em>, Piter, Her, Min, В, D, Petrvs, А</em>
 
-The 10 most frequent `X` types:  <em>л., [sic], </i>, <i>, {л._219}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, 1</em>
+The 10 most frequent `X` types:  <em></em>, <em>, Piter, Min, Her, Her., В, Petrvs, {л._2}, D</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 48, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 248, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 1), <em>А</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 6, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>С</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 4, <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> 1), <em>и</em> (<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 4893, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 266, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 183, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>кровь</em> (<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.html">X</a></tt> 12, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 11), <em>1</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 6, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>10</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 45, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>11</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 14, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>12</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 25, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>13</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 6, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>14</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 3, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>15</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 12, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>3</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 157, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>6</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 43, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>В</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 66, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 7), <em>А</em> (<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 628, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 5), <em>С</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 50, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 5), <em>ж</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 135, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 3, <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 1), <em>же</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 387, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 23, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 2), <em>[В]</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>К</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 21, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>і</em> (<tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 144, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 15, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1)
 
 
-* <em>л.</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 12: <em>{ <b>л.</b> 3 } Написано в доклад .</em>
-  * <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 11: <em>На <b>л.</b> 139 об. запись : 178-г(о) году ноября в 22 де(нь) .</em>
-* <em>1</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7: <em>160-го маия в <b>1</b> день .</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 6: <em>ГЛАВА <b>1</b> .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>{ л. <b>1</b> об. } [ Помета ] : 148 го[да] ноября в 28 де[нь] государь пожаловал , велел о том доложить собя государя .</em>
-* <em>10</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 45: <em>И всеи недаходнаи меди у Сидара теперва <b>10</b> гривенок .</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 7: <em>{л._222} 178-г(о) году генваря в <b>10</b> де[нь] .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>{ л. <b>10</b> } И 148 г[оду] сентября в 3 де[нь] по государеву [ титул ] указу боярин Иван Петрович Шереметев да дьяки Василей Прокофьев да Михайло Неверов немчина Петра Фалька , по какому он умышленью или по чьему наученью немчина Григорья Томосова убил до смерти , у пытки роспрашивали .</em>
-* <em>11</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 14: <em>Шестои котел с петли без дуги , петли медные , [весу] <b>11</b> гривенок .</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 8: <em>{л._167} 178-г(о) году ноября в <b>11</b> де[нь] .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>А убил он Петр того Григорья не умышленьем и не по чьему наученью , без хитрости со пьяна , не ведая государского указу , чая то как и в их землях в немцах вызываютца на поединок . { л. <b>11</b> }</em>
-* <em>12</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 25: <em>[В]сего весом в тех судах меди <b>12</b> пуд … гривенок с полугривенкаю .</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 9: <em>{л._103} 178-г(о) году ноября в <b>12</b> де[нь] .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>И боярин Иван Петрович Шереметев да дьяки Василей Прокофьев да Михайло Неверов велели роспросные и пыточные речи ево записать , а его Петра до государева указу велели приставу Офонасью Степанову держать у себя за приставом . { л. <b>12</b> }</em>
-* <em>13</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 6: <em>Пятои котел новои с ушми ж , уши медные , весу в нем <b>13</b> гр[и]венок .</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5: <em>{л._91} 177-г(о) году августа в <b>13</b> де(нь) .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>{ л. <b>13</b> } Лета 7148 генваря в 3 де[нь] по государеву [ титул ] указу боярину Ивану Петровичу Шереметеву да дьяком [ ... ] в Ыноземской приказ к боярину князю Ивану Борисовичу Черкасскому да дьяку Василью Ртищеву в памяти за твоею Михайловою приписью написано : велети прислати в Приказ сбора ратных людей к тебе , боярину Ивану Петровичу Шереметеву и к дьяком , немец Михайлу Цыпра с товарищи трех человек к допросу [ ... ] и тое немцы [ ... ] Михайло Цыпр да Юрьи Пороцкой да Индрик Дал , из Иноземского приказа посланы в Приказ сбора ратных людей к тебе , боярину Ивану Петровичу Шереметеву .</em>
-* <em>14</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5: <em>155-го октября в <b>14</b> день .</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 3: <em>На Каменке старова хлеба в житницах овса <b>14</b> чети .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>{ л. <b>14</b> } И иноземцы Михайло Цыпр да Юрья Пороцкой по допросу сказали , как де саржант Петр Фальк саржанта Григорья Томосова убил до смерти , и их в те поры тут не было , а прислал де к ним на двор , где они стояли , на Петровку , серебреник Индрик Арнс служащую свою русскую жонку Ульянку , и та де жонка сказала , пришол де к Григорью на двор товарищ его саржант Григорей Томосов к саржанту ж Петру Фальку за коробин долгу дву рублев просить , и у них у Григорья с Петром учинилась брань , и дрались на дворе ручным боем , и после де того оба они сошли за ворота и за вороты де на улице , и Петр Фальк Григорья поколол шпагою до смерти .</em>
-* <em>15</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 12: <em>И всего принето солоду оржанова <b>15</b> чети бѣс полуосмины .</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3: <em>{л._227} 178-г(о) году генваря в <b>15</b> де[нь] .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>{ л. <b>15</b> } Царю государю [ титул ] бьет челом холоп твой Уварка Бурсуков .</em>
-* <em>3</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 157: <em>И в тои меди зделал два ведра , весу в них в обеих 19 фунтов <b>3</b> чети .</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 5: <em>148-го , ноября въ <b>3</b> день , з Донскою станицею , съ атаманомъ съ Сидоромъ Олѳимовымъ .</em>
-  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1: <em>... фимиян и на ... глаголи <b>3</b> ж молитву Божую да после тое оборонную глаголи на воскь , а воскь лепи на мешени , а спаси , Господи , се молитву глаголи особь , когда хочеш[ь] , да воду пропушай скроз[ь] дуло , а какь первие молитву глаголешь , и ты дми на порох и на ладан , и на всю ту сподобу , и порох емли и сподобу в рот , и дми в дуло .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>{ л. <b>3</b> } Написано в доклад .</em>
-* <em>6</em>
-  * <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 43: <em>Ендова медная бол(ь)шая , весу в неи <b>6</b> гривенок .</em>
-  * <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4: <em>160-го году маия в <b>6</b> день .</em>
-  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>Да он же немчин Фальк роспрашиван : сказали на нево в роспросе в Иноземском приказе нового выезду немцы Михайло Цыпр с товарищи , что он убил саржанта Григорья до смерти за то , заложил де он у него Григорья карабин в дву рублех , и тот де Григорей учал у него просить по закладу денги , и он Петр за то ево Григорья пьян поколол шпагою до смерти ? { л. <b>6</b> }</em>
+* <em>В</em>
+  * <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 66: <em><b>В</b> Ратмировской волости</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 7: <em>____________ <b>В</b></em>
+* <em>А</em>
+  * <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 628: <em><b>А</b> Тимошка и Савка живут с овгуста с 7-г(о) числа .</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 5: <em>__________ <b>А</b></em>
+* <em>С</em>
+  * <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 50: <em><b>С</b> Микитки Шабанова взято с осмухи полот(ь) , весу 35 гривенок , да осос гривенка .</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 5: <em><b>С</b> .</em>
+* <em>ж</em>
+  * <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 135: <em>Пятои котел новои с ушми <b>ж</b> , уши медные , весу в нем 13 гр[и]венок .</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 3: <em>Да изговоря поклонис[ь] 3 <b>ж</b> в землю , да изговори 3 ж .</em>
+  * <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 1: <em>Лавреньтеи Аничковъ <b>ж</b> женишкомъ и з детишкамъ челомъ бьемъ</em>
+* <em>же</em>
+  * <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 387: <em>Третеи куб новои <b>же</b> подержен , уши медные , весу 24 гривенки .</em>
+  * <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 23: <em>И сіꙗ сꙋ(т) вⸯ сравненіи ; что <b>же</b> вⸯ превосходствѣ ?</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 2: <em>{л._2} А кому иному станеш[ь] да навади[ть] , чтоб по тому ж будет надобет , ино ему велет[ь] траву обнести около себя 3 <b>же</b> да говорит[ь] 3 <b>же</b> то же , толки их имена примолвит[ь] , а говорит[ь] так :</em>
+* <em>[В]</em>
+  * <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 1: <em><b>[В]</b> другом тябле дванадесятные и Богородичные праздники .</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>Інако многия онами не умножаютъ , а толко ставятъ онъ противъ она , какъ въ ѳигуре <b>[В]</b> видеть возможъно , потому хотя і въсю строку і (пос)тавишъ , аднака въ одицию възять iхъ нелзя .</em>
+* <em>К</em>
+  * <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 21: <em><b>К</b> сей памяти Богдан Гарасимович печать свою приложил .</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>0000 1036800 — <b>К</b></em>
+* <em>і</em>
+  * <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 144: <em>да ѡ чем писано выше сего <b>і</b> ты пожалоі походи бого ради</em>
+  * <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 15: <em>а противо бы еи челобит <b>і</b> впред еѣ постричь</em>
+  * <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1: <em>на п. і . 1 . ізъ . 4 . осталось . 3 . , то <b>і</b> постаѳь потъ стракою іли линеею ; а буде ізподнее слово болше верхнева счотомъ [на п.] 40 / 9 деветь ізь десети , і ону прибавить іс четырехъ , такъ будетъ в оне . 10 . а въ . 4 . 3 , і не толко что онъ , хоти какоя нибуть слово , на п. къ 5 4 , четырмя ізъ 5 адинъ , такъ въ 4хъ будетъ 14 , а въ . 5 . 4 , толко прибавашныя не пиши , толко для вычету помни , а занимать слову отъ слова с левой на правую .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.210526 (the average of all parts of speech is 1.991385).
+The form / lemma ratio of `X` is 4.109375 (the average of all parts of speech is 2.250521).
 
-The 1st highest number of forms (37) was observed with the lemma “_”: <em>1, 10, 11, 12, 13, 14, 15, 3, 6, 7, 8, 9, {л._1_об.}, {л._254_об.}, {л._255_об.}, {л._255}, {л._256}, {л._300_об.}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, {л._303}, {л._304_об.}, {л._304}, {л._305}, {л._306_об.}, {л._3}, {л._41}, {л._4}, {л._5}, {л._602_об.}, {л._602}, Помета, ж, л., об.</em>.
+The 1st highest number of forms (205) was observed with the lemma “_”: <em>{3_Reg_:_10.}, {4_Reg_:_11.}, {Ammian_:_1_.29._Sozom_:_1._6,_cap._35._Socrat_:_1._4,_cap._15.}, {Exod_:_2.}, {Ibid_:_4.}, {Isai_:_45._1.}, {Lib_:_Jud:_Judith.}, {Psal_:_117}, {Reg_:_3_v._ultimo.}, {л._103}, {л._104}, {л._105}, {л._106}, {л._107}, {л._107а}, {л._107б}, {л._107в}, {л._108}, {л._10_об.}, {л._10}, {л._116_об.}, {л._116}, {л._11_об.}, {л._11}, {л._121_об.}, {л._121}, {л._122_об.}, {л._125}, {л._126}, {л._127}, {л._128}, {л._129_об.}, {л._129}, {л._12_об.}, {л._12}, {л._130}, {л._131}, {л._133_об.}, {л._133}, {л._137}, {л._139}, {л._13_об.}, {л._13}, {л._140}, {л._141_об.}, {л._141}, {л._14_об.}, {л._14}, {л._150}, {л._156}, {л._15_об.}, {л._15}, {л._166}, {л._167_об.}, {л._167}, {л._168_об.}, {л._168}, {л._16}, {л._172_об.}, {л._172}, {л._173_об.}, {л._173}, {л._174_об.}, {л._174}, {л._175}, {л._176}, {л._177_об.}, {л._17}, {л._18_об.}, {л._18}, {л._195}, {л._196}, {л._197}, {л._198}, {л._199}, {л._19}, {л._1_об.}, {л._1}, {л._200}, {л._201}, {л._202}, {л._203}, {л._204}, {л._205}, {л._206}, {л._207}, {л._208}, {л._209}, {л._20}, {л._210_об.}, {л._210}, {л._211}, {л._218}, {л._219}, {л._21}, {л._221}, {л._222}, {л._223_об.}, {л._223}, {л._224}, {л._227_об.}, {л._227}, {л._228}, {л._229}, {л._22_об.}, {л._22}, {л._23}, {л._250}, {л._254_об.}, {л._255_об.}, {л._255}, {л._256}, {л._270}, {л._271_об.}, {л._272}, {л._274}, {л._275}, {л._276}, {л._277}, {л._278}, {л._279_об.}, {л._279}, {л._280}, {л._281}, {л._282}, {л._283}, {л._284}, {л._285}, {л._286_об.}, {л._286}, {л._287_об.}, {л._287}, {л._288_об.}, {л._288}, {л._293_об.}, {л._294}, {л._298_об.}, {л._299_об.}, {л._2_об.}, {л._2}, {л._2–2_об.}, {л._300_об.}, {л._300}, {л._301_об.}, {л._301}, {л._302_об.}, {л._302}, {л._303}, {л._304_об.}, {л._304}, {л._305}, {л._306_об.}, {л._309_об.}, {л._309}, {л._30_об.}, {л._30}, {л._31._об.}, {л._310_об.}, {л._310}, {л._311_об.}, {л._312_об.}, {л._312}, {л._31}, {л._322_об.}, {л._323}, {л._328_об.}, {л._328}, {л._3}, {л._41_об.}, {л._41}, {л._4_об.}, {л._4}, {л._54_об.}, {л._54}, {л._55}, {л._5}, {л._601_об.}, {л._602_об.}, {л._602}, {л._6_об.}, {л._6}, {л._73}, {л._74}, {л._75_об.}, {л._75}, {л._78}, {л._79}, {л._7}, {л._83_об.}, {л._83}, {л._86_об.}, {л._86}, {л._89_об.}, {л._89}, {л._8_об.}, {л._8}, {л._91}, {л._92}, {л._95}, {л._98}, {л._99}, {л._9_об.}, {л._9}, ж, риди</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “</em>”: <em></em></em>.
+The 2nd highest number of forms (2) was observed with the lemma “C”: <em>[C], С</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “</i>”: <em></i></em>.
+The 3rd highest number of forms (2) was observed with the lemma “D”: <em>D, [D]</em>.
 
-`X` occurs with 1 features: <tt><a href="orv_rnc-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+`X` occurs with 1 features: <tt><a href="orv_rnc-feat-Foreign.html">Foreign</a></tt> (84; 19% instances)
 
 `X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (204 tokens).
-Examples: <em>л., [sic], </i>, <i>, {л._219}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, 1</em>
+The most frequent feature combination is `_` (368 tokens).
+Examples: <em></em>, <em>, В, {л._2}, D, {л._1}, А, С, [sic], {л._1_об.}</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 5 different relations: <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (187; 91% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (14; 7% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="orv_rnc-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="orv_rnc-dep-root.html">root</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 12 different relations: <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (320; 71% instances), <tt><a href="orv_rnc-dep-root.html">root</a></tt> (57; 13% instances), <tt><a href="orv_rnc-dep-flat-foreign.html">flat:foreign</a></tt> (34; 8% instances), <tt><a href="orv_rnc-dep-list.html">list</a></tt> (12; 3% instances), <tt><a href="orv_rnc-dep-appos.html">appos</a></tt> (10; 2% instances), <tt><a href="orv_rnc-dep-conj.html">conj</a></tt> (8; 2% instances), <tt><a href="orv_rnc-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="orv_rnc-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="orv_rnc-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="orv_rnc-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="orv_rnc-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (93; 45% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (66; 32% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (14; 7% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 7% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (199; 44% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (101; 22% instances),  (57; 13% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (38; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (18; 4% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-190 (93%) `X` nodes are leaves.
+382 (85%) `X` nodes are leaves.
 
-2 (1%) `X` nodes have one child.
+32 (7%) `X` nodes have one child.
 
-0 (0%) `X` nodes have two children.
+9 (2%) `X` nodes have two children.
 
-13 (6%) `X` nodes have three or more children.
+29 (6%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 6.
+The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 5 different relations: <tt><a href="orv_rnc-dep-punct.html">punct</a></tt> (29; 64% instances), <tt><a href="orv_rnc-dep-dep.html">dep</a></tt> (12; 27% instances), <tt><a href="orv_rnc-dep-parataxis.html">parataxis</a></tt> (2; 4% instances), <tt><a href="orv_rnc-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="orv_rnc-dep-nmod.html">nmod</a></tt> (1; 2% instances)
+Children of `X` nodes are attached using 9 different relations: <tt><a href="orv_rnc-dep-punct.html">punct</a></tt> (101; 66% instances), <tt><a href="orv_rnc-dep-flat-foreign.html">flat:foreign</a></tt> (34; 22% instances), <tt><a href="orv_rnc-dep-list.html">list</a></tt> (5; 3% instances), <tt><a href="orv_rnc-dep-conj.html">conj</a></tt> (4; 3% instances), <tt><a href="orv_rnc-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="orv_rnc-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="orv_rnc-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="orv_rnc-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="orv_rnc-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 4 different parts of speech: <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (29; 64% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (14; 31% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `X` nodes belong to 8 different parts of speech: <tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (101; 66% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt> (38; 25% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (5; 3% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances)
 

@@ -53,4 +53,4 @@ speakers nor addressees.
 
 * _<b>անի</b>&nbsp;_ “<b>he/she/it does</b>.`Sub`”
 * _<b>անեն</b>&nbsp;_ “<b>they</b> do.`Sub`”
-<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:12 CEST -->

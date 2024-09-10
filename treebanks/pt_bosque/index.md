@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Cláudia Freitas, Elvis de Souza, Aline Silveira, Tatiana Cavalcanti, Wograine Evelyn, Luisa Rocha, Isabela Soares-Bastos, Eckhard Bick, Fabricio Chalub, Guilherme Paulino-Passos, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
 
 Repository: [UD_Portuguese-Bosque](https://github.com/UniversalDependencies/UD_Portuguese-Bosque)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_bosque214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -391,15 +391,6 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
   <li>Abs
     <ul>
       <li>ADJ: ótimo</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Cmp
-    <ul>
-      <li>ADJ: melhor, mais, Pior, maior</li>
-      <li>ADV: melhor, pior, mais</li>
     </ul>
   </li>
 </ul>
@@ -839,7 +830,7 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
           <li>ADP: Em, Por</li>
           <li>ADV: Hoje, logo</li>
           <li>DET: The, As, O, Os</li>
-          <li>NOUN: Assembléia, Associação, Comissão, Força, União, Conselho, Volta, Álcool, Assembleia, Autoridade</li>
+          <li>NOUN: Associação, Assembléia, Comissão, Força, União, Conselho, Volta, Álcool, Agência, Assembleia</li>
           <li>NUM: Mil, VIII, X</li>
           <li>PROPN: São, José, João, Fernando, Pedro, Carlos, Manuel, Nova, Banco, Paulo</li>
           <li>X: Adventure, Journey, So, The, Body, Insight, MacMillan</li>
@@ -877,11 +868,11 @@ The HamleDT conversion was implemented by Dan Zeman and revised by:
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Sózinhos, acompanhados, brasileira, contíguas, domésticos, europeu, grande, pardo-suíço, permanente, poluidores</li>
+          <li>ADJ: Sózinhos, acompanhados, brasileira, contíguas, domésticos, europeu, grande, pardo-suíço, parisdisíaca, permanente</li>
           <li>ADV: asim, inteligente-</li>
           <li>AUX-Fin: çe</li>
           <li>DET: a, o, um, As, Outra, os, uma</li>
-          <li>NOUN: campanha, cidades, mãos, pais, prazo, presidenta, produtividades, propietários, queixa, setença</li>
+          <li>NOUN: prejuizos, campanha, cidades, mãos, pais, prazo, presidenta, produtividades, propietários, queixa</li>
           <li>PRON: qu</li>
           <li>PROPN: atlética, datafolha</li>
           <li>SCONJ: uns</li>
@@ -914,7 +905,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3861)</li>
+      <li>VERB-Fin--NOUN (3862)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-ADP(sem) (1)</li>
       <li>VERB-Fin--PRON (1861)</li>

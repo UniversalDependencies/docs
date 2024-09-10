@@ -62,4 +62,4 @@ Nouns that are not animate are inanimate.
 #### Examples
 
 * [pl] _<b>małe domy</b>_ “small houses”
-<!-- Interlanguage links updated Po lis 14 15:34:58 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:23 CEST -->

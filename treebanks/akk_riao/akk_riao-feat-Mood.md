@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (933; 90%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (932; 90%),
 <tt>VERB --[<tt><a href="akk_riao-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (47; 100%),
 <tt>VERB --[<tt><a href="akk_riao-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (14; 74%).
 

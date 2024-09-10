@@ -24,7 +24,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 4 5 case	color:blue
 1	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=16683
 2	_	_	NUM	_	_	3	nummod	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=54442
-3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|SpaceAfter=Yes|UI=17392
+3	_	_	NOUN	_	_	12	dep	_	BBIL=I|BPT=4|LBIL=I|LPOS=0|UI=17392
 4	_	_	NOUN	_	_	6	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=4496
 5	_	_	ADP	_	_	4	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 6	_	_	VERB	_	_	12	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=11|SpaceAfter=No|UI=612
@@ -44,7 +44,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 case	color:blue
-1	_	_	NUM	_	_	27	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|SpaceAfter=Yes|UI=476
+1	_	_	NUM	_	_	27	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|UI=476
 2	_	_	NOUN	_	_	6	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=59568
 3	_	_	NOUN	_	_	6	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=62399
 4	_	_	NOUN	_	_	6	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=62145

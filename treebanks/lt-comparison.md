@@ -1986,22 +1986,22 @@ udver: '2'
             <li>VERB-Conv--PRON-Acc (4)</li>
             <li>VERB-Conv--PRON-Nom (1)</li>
             <li>VERB-Fin--NOUN (2)</li>
-            <li>VERB-Fin--NOUN-Acc (795)</li>
+            <li>VERB-Fin--NOUN-Acc (803)</li>
             <li>VERB-Fin--NOUN-Nom (7)</li>
             <li>VERB-Fin--PRON (2)</li>
-            <li>VERB-Fin--PRON-Acc (139)</li>
+            <li>VERB-Fin--PRON-Acc (142)</li>
             <li>VERB-Fin--PRON-Nom (5)</li>
             <li>VERB-Ger--NOUN-Acc (216)</li>
             <li>VERB-Ger--PRON-Acc (4)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Acc (768)</li>
+            <li>VERB-Inf--NOUN-Acc (771)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Inf--PRON (1)</li>
-            <li>VERB-Inf--PRON-Acc (76)</li>
+            <li>VERB-Inf--PRON-Acc (77)</li>
             <li>VERB-Part--NOUN (1)</li>
-            <li>VERB-Part--NOUN-Acc (226)</li>
+            <li>VERB-Part--NOUN-Acc (228)</li>
             <li>VERB-Part--NOUN-Nom (3)</li>
-            <li>VERB-Part--PRON-Acc (16)</li>
+            <li>VERB-Part--PRON-Acc (17)</li>
           </ul>
         </li>
       </ul>
@@ -2050,13 +2050,9 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc (9)</li>
-            <li>VERB-Fin--PRON-Acc (3)</li>
+            <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
-            <li>VERB-Inf--NOUN-Acc (3)</li>
-            <li>VERB-Inf--PRON-Acc (2)</li>
-            <li>VERB-Part--NOUN-Acc (2)</li>
-            <li>VERB-Part--PRON-Acc (1)</li>
+            <li>VERB-Inf--PRON-Acc (1)</li>
           </ul>
         </li>
       </ul>

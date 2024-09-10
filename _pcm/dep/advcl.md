@@ -39,4 +39,4 @@ The `advcl` relation is used between an adverbial clause and the verb or other p
 5	of	_	_	_	_	0	_	_	_
 6	alcohol	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:32 CEST -->

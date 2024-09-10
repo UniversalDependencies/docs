@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-687 nodes (1%) are attached to their parents as `xcomp`.
+688 nodes (1%) are attached to their parents as `xcomp`.
 
-532 instances of `xcomp` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.10625909752547.
+533 instances of `xcomp` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.10610465116279.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (494; 72% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (93; 14% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (63; 9% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (494; 72% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (94; 14% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (63; 9% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="da_ddt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -69,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	600	600	NUM	_	NumType=Card	2	nummod	_	_
 2	Brugser	brugs	NOUN	_	Definite=Ind|Gender=Com|Number=Plur	5	nsubj	_	_
 3	har	have	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-4	ikke	ikke	ADV	_	_	5	advmod	_	_
+4	ikke	ikke	ADV	Polarity=Neg	_	5	advmod	_	_
 5	fået	få	VERB	_	Definite=Ind|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	lov	lov	NOUN	_	_	5	obj	_	_
 7	at	at	PART	_	PartType=Inf	8	mark	_	_

@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADJ'
 shortdef: 'adjective'
+udver: '2'
 ---
 
 ### Definition
@@ -16,4 +17,4 @@ _ett <b>stort</b> problem_ "a big problem" (neuter singual) and _<b>stora</b> de
 - _gammal/gammalt/gamla_ "old"
 - _grön/grönt/gröna_ "green"
 - _ofattbar/ofattbart/ofattbara_ "incomprehensible"
-<!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:32 CEST -->

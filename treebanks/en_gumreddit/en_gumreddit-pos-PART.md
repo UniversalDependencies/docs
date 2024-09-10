@@ -13,29 +13,29 @@ The 10 most frequent `PART` lemmas: <em>_</em>
 
 The 10 most frequent `PART` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2689, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2082, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1931, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1235, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1146, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1084, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 994, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 436, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 234, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 112, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 27)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2659, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2046, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1293, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1108, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 995, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 403, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 58, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33)
 
-The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2689, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2082, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1931, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1235, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1146, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1084, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 994, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 436, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 234, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 112, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 27)
+The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2659, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2046, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1293, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1108, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 995, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 403, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 58, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33)
 
 
 * <em>_</em>
-  * <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2689: <em>_ _ _ <b>_</b> _ _ <b>_</b> _ _ _ <b>_</b> _ _ <b>_</b> _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2082: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _</em>
-  * <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1931: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2659: <em>_ _ _ <b>_</b> _ _ <b>_</b> _ _ _ <b>_</b> _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2046: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _</em>
+  * <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869: <em>_ <b>_</b></em>
-  * <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1292: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _</em>
-  * <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1235: <em>_ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1146: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1084: <em><b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 994: <em>_ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1293: <em>_ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _</em>
+  * <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236: <em>_ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182: <em>_ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1108: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 995: <em>_ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600: <em>_ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 521: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 436: <em><b>_</b> _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ <b>_</b> _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 234: <em><b>_</b> _</em>
-  * <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 112: <em>_ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59: <em><b>_</b> _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 403: <em><b>_</b> _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238: <em><b>_</b> _</em>
+  * <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107: <em>_ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 58: <em><b>_</b> _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53: <em>_ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 27: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
+  * <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
 
 ## Morphology
 
@@ -43,12 +43,12 @@ The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</em>.
 
-`PART` occurs with 2 features: <tt><a href="en_gumreddit-feat-Polarity.html">Polarity</a></tt> (237; 40% instances), <tt><a href="en_gumreddit-feat-Typo.html">Typo</a></tt> (10; 2% instances)
+`PART` occurs with 3 features: <tt><a href="en_gumreddit-feat-Polarity.html">Polarity</a></tt> (237; 40% instances), <tt><a href="en_gumreddit-feat-Typo.html">Typo</a></tt> (10; 2% instances), <tt><a href="en_gumreddit-feat-Style.html">Style</a></tt> (1; 0% instances)
 
-`PART` occurs with 2 feature-value pairs: `Polarity=Neg`, `Typo=Yes`
+`PART` occurs with 3 feature-value pairs: `Polarity=Neg`, `Style=Coll`, `Typo=Yes`
 
-`PART` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (360 tokens).
+`PART` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (359 tokens).
 Examples: <em>_</em>
 
 
@@ -56,7 +56,7 @@ Examples: <em>_</em>
 
 `PART` nodes are attached to their parents using 6 different relations: <tt><a href="en_gumreddit-dep-mark.html">mark</a></tt> (324; 54% instances), <tt><a href="en_gumreddit-dep-advmod.html">advmod</a></tt> (236; 39% instances), <tt><a href="en_gumreddit-dep-case.html">case</a></tt> (33; 6% instances), <tt><a href="en_gumreddit-dep-xcomp.html">xcomp</a></tt> (4; 1% instances), <tt><a href="en_gumreddit-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="en_gumreddit-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (474; 79% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (58; 10% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (40; 7% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (3; 1% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (470; 78% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (57; 10% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (40; 7% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (5; 1% instances)
 
 598 (100%) `PART` nodes are leaves.
 

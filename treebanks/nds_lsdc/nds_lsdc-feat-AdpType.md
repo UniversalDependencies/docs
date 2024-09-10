@@ -7,20 +7,31 @@ udver: '2'
 ## Treebank Statistics: UD_Low_Saxon-LSDC: Features: `AdpType`
 
 This feature is language-specific.
-It occurs with 1 different values: `Prep`.
+It occurs with 2 different values: `Post`, `Prep`.
 
-181 tokens (6%) have a non-empty value of `AdpType`.
-30 types (3%) occur at least once with a non-empty value of `AdpType`.
-20 lemmas (2%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (181; 6% instances).
+1386 tokens (6%) have a non-empty value of `AdpType`.
+90 types (2%) occur at least once with a non-empty value of `AdpType`.
+49 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1386; 6% instances).
 
 ### `ADP`
 
-181 <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> tokens (86% of all `ADP` tokens) have a non-empty value of `AdpType`.
+1386 <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> tokens (81% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (181; 100% of non-empty `AdpType`): <em>in, van, mid, an, to, by, up, vöär, uut, nå</em>
+* `Post` (3; 0% of non-empty `AdpType`): <em>to, an</em>
+* `Prep` (1383; 100% of non-empty `AdpType`): <em>in, van, up, mid, an, vöär, to, by, nå, med</em>
 
-`AdpType` seems to be **lexical feature** of `ADP`. 100% lemmas (20) occur only with one value of `AdpType`.
+<table>
+  <tr><th>Paradigm <i>an</i></th><th><tt>Post</tt></th><th><tt>Prep</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>an</em></td><td><em>an</em></td></tr>
+</table>
+
+`AdpType` seems to be **lexical feature** of `ADP`. 96% lemmas (47) occur only with one value of `AdpType`.
+
+## Relations with Agreement in `AdpType`
+
+The 10 most frequent relations where parent and child node agree in `AdpType`:
+<tt>ADP --[<tt><a href="nds_lsdc-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1; 100%).
 

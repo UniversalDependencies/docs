@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (325; 100% of non-empty `Poss`): <em>oma, omal, omale, omadega, omad, omaks, omast, omade, omadele, omaga</em>
-* `EMPTY` (6306): <em>ma, see, mis, seda, kes, ta, sa, midagi, mida, mul</em>
+* `EMPTY` (6246): <em>ma, see, mis, seda, kes, ta, sa, midagi, mida, mul</em>
 
 ### `ADJ`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>omas</em>
-* `EMPTY` (5269): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
+* `EMPTY` (5234): <em>hea, suur, võimalik, õige, huvitav, head, parem, vana, uus, esimene</em>
 

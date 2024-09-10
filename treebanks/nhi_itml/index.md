@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Robert Pugh, Marivel Huerta Mendez, Mitsuya Sasaki, Francis Tyers.
 
 Repository: [UD_Western_Sierra_Puebla_Nahuatl-ITML](https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-ITML)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_itml211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_itml214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,11 +85,11 @@ We would like to thank the following for giving permission to use their sentence
 
 
 <ul>
-<li>This corpus contains 909 sentences, 9225 tokens and 10111 syntactic words.</li>
+<li>This corpus contains 909 sentences, 9224 tokens and 10132 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1715 tokens (19%) that are not followed by a space.</li>
+<li>This corpus contains 1714 tokens (19%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -101,8 +101,8 @@ We would like to thank the following for giving permission to use their sentence
 </ul>
 
 <ul>
-<li>This corpus contains 816 multi-word tokens. On average, one multi-word token consists of 2.09 syntactic words.</li>
-<li>There are 567 types of multi-word tokens. Examples: oquihtoh, onauat, okatka, oyah, opeu, yen, ocatca, opew, nisihtzin, onipiyaya, oyahkeh, octlahtlanih, oniniquiya, owits, den, nakin, nicniu, ocahsito, occahcalaquito, omonacasmahman, onikoh, oniquihtoh, ontlasojtlaskia, oquitac, oyaj, mai, mokiseguiro, oajsik, ochanchiwatoh, ocholoh, ocmatia, ocpiyaya, octlatlahtlanih, oehcoc, okichihchiwkeh, okichiw, okichiwkeh, okikwah, omochih, onechilhuaya, oniya, opanok, oseahsik, owalahkeh, oyajkej, santipitzin, yotiehkokeh, Opanoc, Yomononotskeh, del.</li>
+<li>This corpus contains 835 multi-word tokens. On average, one multi-word token consists of 2.09 syntactic words.</li>
+<li>There are 583 types of multi-word tokens. Examples: oquihtoh, onauat, okatka, oyah, opeu, yen, ocatca, opew, nisihtzin, onipiyaya, oyahkeh, octlahtlanih, oniniquiya, owits, den, nakin, nicniu, ocahsito, occahcalaquito, omonacasmahman, onikoh, oniquihtoh, ontlasojtlaskia, oquitac, owalahkeh, oyaj, mai, mokiseguiro, oajsik, ochanchiwatoh, ocholoh, ocmatia, ocpiyaya, octlatlahtlanih, oehcoc, okichihchiwkeh, okichiw, okichiwkeh, okikwah, omochih, onechilhuaya, oniya, opanok, oseahsik, oyajkej, santipitzin, yotiehkokeh, Opanoc, Yomononotskeh, del.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -118,33 +118,41 @@ We would like to thank the following for giving permission to use their sentence
 </ul>
 
 <ul>
-<li>This corpus contains 89 lemmas tagged as pronouns (PRON): _, akaj, akih, akij, akin, akinoh, algo, aquih, aquin, ce, ese, eso, itlah, les, lo, miak, miki, mowisiotzin, nada, nakin, namehuan, namejwan, neh, nehhuatl, nehuatl, nehuatluatl, nehwatl, nej, nejuatl, nejwatl, nicanca, nicancah, nikanka, nin, ninih, nochi, nomehwah, non, nonoh, noso, notewah, ocsiquin, ok, okse, oksikin, que, se, semeh, siki, sikin, teh, tehhuan, tehhuatl, tehuan, tehuat, tehuatl, tehwa, tehwah, tehwan, tehwatl, tej, tejuatl, tejwan, tercero, tlan, tleh, tlen, tleno, tlenoh, tlenohoh, tlenoj, tlensaso, todo, touatzin, ye, yeh, yehhuan, yehhuatl, yehua, yehuan, yehuatl, yehwa, yehwah, yehwatl, yej, yejuatl, yejwan, yejwatl, yo</li>
+<li>This corpus contains 87 lemmas tagged as pronouns (PRON): akaj, akih, akij, akin, akinoh, algo, aquih, aquin, ce, ciqui, ese, eso, itlah, les, lo, miak, miki, mowisiotzin, nada, nakin, namehuan, namejwan, nehhuatl, nehuatl, nehuatluatl, nehwatl, nej, nejuatl, nejwatl, nicanca, nicancah, nikanka, nin, ninih, nochi, nomehwah, non, nonoh, noso, notewah, ocsiquin, ok, okse, oksikin, que, se, semeh, siki, sikin, tehhuan, tehhuatl, tehuan, tehuat, tehuatl, tehwa, tehwah, tehwan, tehwatl, tej, tejuatl, tejwan, tercero, tlan, tleh, tlen, tleno, tlenoh, tlenohoh, tlenoj, tlensaso, todo, touatzin, ye, yehhuan, yehhuatl, yehua, yehuan, yehuatl, yehwa, yehwah, yehwatl, yehwuatl, yej, yejuatl, yejwan, yejwatl, yo</li>
 </ul>
 
 <ul>
-<li>This corpus contains 46 lemmas tagged as determiners (DET): _, axka, cada, catqui, ce, ciqui, cualquier, det, dion, el, in, incoyotl, la, las, maitl, miac, miak, mic, mik, miqui, n, nakin, neca, necah, nicanca, nicancah, nikanka, nikankah, nin, nochi, nochtin, non, nonoh, occe, occiqui, okse, oksiki, quesqui, se, siki, sikin, siqui, tlen, tlenoh, un, uno</li>
+<li>This corpus contains 42 lemmas tagged as determiners (DET): cada, catqui, ce, ciqui, cualquier, det, dion, el, in, incoyotl, la, las, miac, miak, mic, mik, miqui, nakin, neca, necah, nicanca, nicancah, nikanka, nikankah, nin, nochi, nochtin, non, nonoh, occe, occiqui, okse, oksiki, quesqui, se, siki, sikin, siqui, tlen, tlenoh, un, uno</li>
 </ul>
 
 <ul>
-<li>Out of the above, 17 lemmas occurred sometimes as PRON and sometimes as DET: _, ce, miak, nakin, nicanca, nicancah, nikanka, nin, nochi, non, nonoh, okse, se, siki, sikin, tlen, tlenoh</li>
+<li>Out of the above, 17 lemmas occurred sometimes as PRON and sometimes as DET: ce, ciqui, miak, nakin, nicanca, nicancah, nikanka, nin, nochi, non, nonoh, okse, se, siki, sikin, tlen, tlenoh</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as auxiliaries (AUX): _, catqui, estar, haber, huili, i, katki, ma, mach, mo, o, oc, ok, pehua, peua, pewa, pewi, ser, uili, wili</li>
+<li>This corpus contains 18 lemmas tagged as auxiliaries (AUX): _, catqui, estar, haber, huili, i, katki, ma, mach, mo, nimi, o, ok, pehua, pewi, ser, uili, wili</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: _, catqui, huili, katki, peua, pewa, pewi, ser, wili</li>
+<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, catqui, huili, katki, pewi, ser, wili</li>
 </ul>
 
 <ul>
-<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>VERB: katki, ctlahtlanih, nauat, mocelebraroa, yah, catca, kilwiah, kitlaliah, pewis, Mopatlatiweh</li>
+    <li>VERB: katki, quihtoh, nauat, yah, mota, katka, niquihtoz, peu, yuwi, nesi</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>VERB: ver, dar</li>
   </ul>
   </li>
 </ul>
@@ -157,10 +165,18 @@ We would like to thank the following for giving permission to use their sentence
 </ul>
 
 <ul>
+  <li>Fem
+    <ul>
+      <li>NOUN: escuela, rana, danzas, irana, guerra, fiesta, máquina, conchas, días, historia</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Masc
     <ul>
       <li>ADJ: mexicano, chistoso</li>
-      <li>NOUN: mexicanos</li>
+      <li>NOUN: pueblo, topueblo, burro, años, frasco, ejemplo, mardomos, pollito, Rancho, amigos</li>
       <li>PRON: lo</li>
       <li>PROPN: estados, unidos</li>
     </ul>
@@ -175,7 +191,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: huehhueyen, tzahtzayactique, wihwinyeh, amables, malos, titzocotzitzin, tzocotzitzin</li>
+      <li>ADJ: huehhueyen, tlaltitikten, tzahtzayactique, wihwinyeh, amables, malos, titzocotzitzin, tzocotzitzin</li>
       <li>NOUN: tokniwah, ceraokwilimeh, coyomeh, tipemeh, ichcame, siwameh, danzas, años, mopiluan, niconeuan</li>
       <li>NUM: nahuen, naweh, yeyen, millones</li>
       <li>PRON: tehwah, yejwan, tehuan, yehuan, yehwah, tehhuan, notewah, tehwan, tejwan, yehhuan</li>
@@ -227,9 +243,9 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Dim
     <ul>
-      <li>ADJ: hueyihtzin, kualtzin, tzocotzin, titzocotzitzin, tzocotzitzin</li>
+      <li>ADJ: chihchikichih, hueyihtzin, kualtzin, tzocotzin, titzocotzitzin, tzocotzitzin</li>
       <li>ADV: tzocotzin, kwaltsin, tipitzin, tzokotzitzin</li>
-      <li>NOUN: tipitzin, isihtzin, moawitzin, namokniwantzitzin, nisijtzin, nowewetzin, totlaoltzin, Nosintitzin, chacaltzitzin, itzcuintzintli</li>
+      <li>NOUN: tenantzin, isihtzin, tipitzin, guitarritas, moawitzin, namokniwantzitzin, nisijtzin, nowewetzin, tesihtzin, totlaoltzin</li>
       <li>PRON: namejwantzitzin, mowisiotzin</li>
       <li>PROPN: Ticpintzin</li>
     </ul>
@@ -259,9 +275,8 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: katka, catca, nicatca, Okatka, catcah, peuayah, ticatca, ticatcah, uilia, uiliah</li>
-      <li>VERB: katka, nipiyaya, catca, niniquiya, cmatia, cpiyaya, nechilhuaya, niquilhuaya, tiquitiya, chanchiuaya</li>
-      <li>VERB-Fin: catca, sekinikiskiaya</li>
+      <li>AUX: katka, catca, nicatca, Okatka, catcah, ticatca, ticatcah, uilia, uiliah</li>
+      <li>VERB-Fin: katka, nipiyaya, catca, niniquiya, cmatia, cpiyaya, nechilhuaya, niquilhuaya, tiquitiya, yaya</li>
     </ul>
   </li>
 </ul>
@@ -269,9 +284,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: pew, o, peuh, peh, peu</li>
-      <li>VERB: quihtoh, nauat, yah, yahkeh, ctlahtlanih, wits, choloh, monacasmahman, nikoh, niquihtoh</li>
-      <li>VERB-Fin: ctlahtlanih, nauat, yah, cahsic, pac, quis, tiehkokeh, tlacat, tlaocoxca</li>
+      <li>VERB-Fin: quihtoh, nauat, yah, peu, pew, yahkeh, choloh, ctlahtlanih, wits, cahsito</li>
     </ul>
   </li>
 </ul>
@@ -279,8 +292,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: tikitok, kichihchiwtok, kipixtok, nitiquitoc, tsikwintok, cholohtokeh, molevantarohtok, niyolpactoc, sekintlanamakiltihtok, Kilnamiktok</li>
-      <li>VERB-Fin: sekilograrhtok</li>
+      <li>VERB-Fin: tikitok, kichihchiwtok, kipixtok, nitiquitoc, tentok, tsikwintok, cchixtoya, cholohtokeh, cualantoc, ilpitoya</li>
     </ul>
   </li>
 </ul>
@@ -290,9 +302,26 @@ We would like to thank the following for giving permission to use their sentence
 </ul>
 
 <ul>
+  <li>Cnd
+    <ul>
+      <li>VERB-Fin: ntlasojtlaskia, xnechoncaquinih, cchiuilsquiah, kyektlalani, nmitzwalikiliskia, nmokowani, nmokowiskia, nyani, nyaskia, okaltlachixtoskia</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: xiyo, ixquita, Ixcochi, ixmeua, ixtlaocoya, nikixmati, xiyahkah, xoncualani, Ixcaqui, Ixnechmaka</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
-      <li>VERB: es, tehco, yah</li>
+      <li>VERB-Fin: katki, quihtoh, nauat, yah, mota, katka, niquihtoz, peu, yuwi, nesi</li>
+      <li>VERB-Inf: ver, dar</li>
     </ul>
   </li>
 </ul>
@@ -301,7 +330,23 @@ We would like to thank the following for giving permission to use their sentence
   <li>Opt
     <ul>
       <li>AUX: ito</li>
-      <li>VERB: ixquita, Ixcochi, cequitta, ixmeua, ixtlaocoya, moskalti, motlamochiwa, xiyahkah, xiyo, Chuhue</li>
+      <li>VERB-Fin: kiseguiro, Chaueh, cequitta, moskalti, motlamochiwa, tiakan, Chuhue, ceicxipalti, cequimpiya, cpiyacan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prp
+    <ul>
+      <li>VERB-Fin: moweyilihtih, cahsito, ccahcalaquito, chanchiwatoh, kipantlatiwitih, cnaliluih, ctemoto, Iktato, Mopatlatiweh, ahcito</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>VERB-Fin: sea</li>
     </ul>
   </li>
 </ul>
@@ -314,8 +359,7 @@ We would like to thank the following for giving permission to use their sentence
   <li>Fut
     <ul>
       <li>AUX: wilis, niiski, pewis, uilis</li>
-      <li>VERB: niquihtoz, niyaz, tiyas, itmatis, niyas, Tikwikas, atliz, inchihuaz, inchiuas, inmokawas</li>
-      <li>VERB-Fin: pewis, Mopatlatiweh, ictemohtiu, kalakitiweh</li>
+      <li>VERB-Fin: niquihtoz, niyaz, tiyas, itmatis, niyas, tlamis, icchiuas, itkwalikas, Tikwikas, atliz</li>
     </ul>
   </li>
 </ul>
@@ -323,9 +367,16 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Past
     <ul>
-      <li>AUX: katka, pew, catca, nicatca, peuh, Okatka, catcah, o, peh, peu</li>
-      <li>VERB: quihtoh, nauat, yah, katka, nipiyaya, yahkeh, catca, ctlahtlanih, niniquiya, wits</li>
-      <li>VERB-Fin: ctlahtlanih, nauat, yah, catca, cahsic, pac, quis, sekinikiskiaya, tiehkokeh, tlacat</li>
+      <li>AUX: katka, catca, nicatca, peuh, Okatka, catcah, peh, ticatca, ticatcah, uilia</li>
+      <li>VERB-Fin: quihtoh, nauat, yah, peu, katka, pew, nipiyaya, yahkeh, catca, choloh</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pqp
+    <ul>
+      <li>VERB-Fin: cholohca, yomikka</li>
     </ul>
   </li>
 </ul>
@@ -334,8 +385,7 @@ We would like to thank the following for giving permission to use their sentence
   <li>Pres
     <ul>
       <li>AUX: pewi, wili, huili, katej, katki, nica, peweh</li>
-      <li>VERB: katki, yuweh, yuwi, kah, kateh, tikitok, ehko, kinchiwaj, chanchiwaj, kichihchiwtok</li>
-      <li>VERB-Fin: katki, mocelebraroa, kilwiah, kitlaliah, kateh, kinwantia, kitlahtlaniah, kiwikah, pakeh, sekilograrhtok</li>
+      <li>VERB-Fin: katki, yuwi, kah, yuweh, kateh, moweyilihtih, nesi, tikitok, ehko, kinchiwaj</li>
     </ul>
   </li>
 </ul>
@@ -347,7 +397,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Act
     <ul>
-      <li>VERB: tehco, yah</li>
+      <li>VERB-Fin: tehco, yah</li>
     </ul>
   </li>
 </ul>
@@ -363,7 +413,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: neh, yeh, teh, yej, tehwah, yejwan, touatzin, ye, nehwatl, nej</li>
+      <li>PRON: neh, yeh, teh, yej, tehwah, yejwan, touatzin, tlenoh, ye, nehwatl</li>
     </ul>
   </li>
 </ul>
@@ -377,8 +427,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Yes
     <ul>
-      <li>VERB: moniki, monacasmahman, mocelebraroa, mochih, mochiwa, mokawa, inmokawas, ixmeua, moapareserowa, mocaquiya</li>
-      <li>VERB-Fin: mocelebraroa, Mopatlatiweh</li>
+      <li>VERB-Fin: moniki, monacasmahman, mocelebraroa, mochih, mochiwa, mokawa, inmokawas, ixmeua, moapareserowa, mocaquiya</li>
     </ul>
   </li>
 </ul>
@@ -420,7 +469,7 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>NOUN: tonnomaman</li>
       <li>PRON: touatzin</li>
-      <li>VERB: Ixnechonmaka, itconchiuas, itkonkowas, itkonniki, itkonnikis, ixcontlalili, mitzonwikak, nomechonnonots, nomotzonpahpachoz, nomoztonsobaroz</li>
+      <li>VERB-Fin: xnechoncaquinih, xoncualani, Inmitzontlasoj, Inmitzontlatlawtia, Innamechonnonotzas, Itkomonikiltijtzinowa, Ixnechonmaka, cmopaleuilih, itconchiuas, itkonikis</li>
     </ul>
   </li>
 </ul>
@@ -433,7 +482,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: topueblo, tokniwah, iwah, inchan, iuan, totikih, toaltipew, tohuan, tokniwan, totahtsih</li>
+      <li>NOUN: topueblo, tokniwah, iwah, inchan, inuan, iuan, ninmaman, totikih, ima, intempileh</li>
     </ul>
   </li>
 </ul>
@@ -441,7 +490,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: ich, itich, ica, ika, itoka, irana, nomama, itskwih, mopiluan, niconeuan</li>
+      <li>NOUN: ich, itich, ica, ika, itoka, itskwih, irana, nomama, mopiluan, niconeuan</li>
     </ul>
   </li>
 </ul>
@@ -454,12 +503,12 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>Hum
         <ul>
-          <li>VERB: Intekakilia, cectemacaz</li>
+          <li>VERB-Fin: Intekakilia, cectemacaz, ntecaquilih</li>
         </ul>
       </li>
       <li>Nhum
         <ul>
-          <li>VERB: inquintlamaca, tlakwa, tlatemoa, sekintlanamakiltihtok, titlapiyayah, tlahtoua, tlajtowaj, ittlakwajtoc, mitztlamacas, nitlakixtia</li>
+          <li>VERB-Fin: inquintlamaca, tlakwa, tlatemoa, sekintlanamakiltihtok, titlapiyayah, tlahtoua, tlajtowaj, ictlamacasqueh, ictlamacatiueh, ittlacuasqueh</li>
         </ul>
       </li>
     </ul>
@@ -478,12 +527,13 @@ We would like to thank the following for giving permission to use their sentence
           <li>CCONJ: pero, y, o</li>
           <li>DET: cada, l, las, cualquier, un</li>
           <li>INTJ: bueno, sí, A</li>
-          <li>NOUN: pueblo, topueblo, escuela, rana, danzas, irana, guerra, vez, años, fiesta</li>
+          <li>NOUN: pueblo, topueblo, escuela, rana, danzas, irana, burro, guerra, vez, años</li>
           <li>NUM: ocho, quince, dieciocho, nueve, siete, veinte, millones</li>
           <li>PRON: eso, que, nada, tercero, todo</li>
           <li>PROPN: estados, unidos, español, dios</li>
           <li>SCONJ: porque, que, como, cuando, hasta, para, Mejor</li>
-          <li>VERB: sé, ponen, sale, sea, sirves, ver</li>
+          <li>VERB-Fin: sé, Anda, ponen, sale, sea, sirves</li>
+          <li>VERB-Inf: ver, dar</li>
         </ul>
       </li>
     </ul>
@@ -493,15 +543,9 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li><a>Movement</a>
     <ul>
-      <li>And
-        <ul>
-          <li>VERB: cahsito, ccahcalaquito, chanchiwatoh, ctemoto, Mopatlatiweh, ahcito, cahcalaquitiu, chanchiwatiweh, ctato, ictemohtiu</li>
-          <li>VERB-Fin: Mopatlatiweh, ictemohtiu, kalakitiweh</li>
-        </ul>
-      </li>
       <li>Ven
         <ul>
-          <li>VERB: walkisa, chualitac, ixquimahsiqui, kanakih, kiyakatitiki, niquitaqui, sewalehko, ticinhualahque, tihualaque, walkisah</li>
+          <li>VERB-Fin: walah, walkisa, chualitac, cualan, hualah, ixquimahsiqui, kanakih, kiyakatitiki, nakwalnotzkej, namechonajsikiw</li>
         </ul>
       </li>
     </ul>
@@ -513,7 +557,7 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>Relat
         <ul>
-          <li>NOUN: ich, itich, ica, ika, iwah, iuan, tohuan, inacasco, itlampa, iwan</li>
+          <li>NOUN: ich, itich, ica, ika, iwah, inuan, iuan, icah, ikaj, itch</li>
         </ul>
       </li>
     </ul>
@@ -525,13 +569,12 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: inquintlamaca, techmaka, itquinmaca, sekintlanamakiltihtok, techchiuilis, techilweh, techilwayaj, techinmacaya, techmacasqueh</li>
+          <li>VERB-Fin: inquintlamaca, techmaka, itquinmaca, sekintlanamakiltihtok, techchiuilis, techilweh, kimlwih, namechchiuilisqueh, namechpixquiltisqueh, nankimonchiwiliaj</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB: nechilhuaya, niquilhuaya, kilwia, kilwiah, nechmakakeh, Inmitzilwia, Ixnechmaka, Ixnechonmaka, Nechilwiaj, cectemacaz</li>
-          <li>VERB-Fin: kilwiah</li>
+          <li>VERB-Fin: nechilhuaya, niquilhuaya, cnaliluih, icchiuilia, kilwia, kilwiah, nechmakakeh, quiluih, Inkakiltia, Inmitzilwia</li>
         </ul>
       </li>
     </ul>
@@ -543,14 +586,12 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>Plur
         <ul>
-          <li>VERB: kinchiwaj, kinkowaj, quinpiyaya, quintlasohtlaya, Techtrataroa, cequimpiya, inquincuis, ixquimahsiqui, kimihtato, kimilwayah</li>
-          <li>VERB-Fin: kinwantia</li>
+          <li>VERB-Fin: kinchiwaj, kinkowaj, quinpiyaya, quintlasohtlaya, Innamechonnonotzas, Namechcuecuechosque, Techmojmojtijtos, Techtrataroa, cequimpiya, inquincuis</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB: quihtoh, niquihtoz, niquihlnamiqui, sekichiwa, kiniki, kita, nipiyaya, ctlahtlanih, kitlasohtla, nicpiya</li>
-          <li>VERB-Fin: ctlahtlanih, kitlaliah, cahsic, ictemohtiu, kitlahtlaniah, kiwikah, sekilograrhtok, sekinikiskiaya</li>
+          <li>VERB-Fin: quihtoh, niquihtoz, niquihlnamiqui, sekichiwa, kiniki, kita, nipiyaya, ctlahtlanih, kitlasohtla, nicpiya</li>
         </ul>
       </li>
     </ul>
@@ -562,19 +603,17 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>Plur
         <ul>
-          <li>AUX: katka, catca, nicatca, Okatka, catcah, katej, peuayah, peweh, ticatca, ticatcah</li>
+          <li>AUX: katka, catca, nicatca, Okatka, catcah, katej, peweh, ticatca, ticatcah, uiliah</li>
           <li>NOUN: itich, mexicanos, tiautoridades</li>
           <li>NUM: tiochoque</li>
-          <li>VERB: katka, sekichiwa, yahkeh, yuweh, yuwi, catca, kateh, cahsito, ccahcalaquito, ehko</li>
-          <li>VERB-Fin: catca, kilwiah, kitlaliah, Mopatlatiweh, kalakitiweh, kateh, kitlahtlaniah, kiwikah, pakeh, sekilograrhtok</li>
+          <li>VERB-Fin: katka, sekichiwa, yahkeh, yuweh, yuwi, catca, kateh, cahsito, ccahcalaquito, chanchiwatoh</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX: pewi, pew, wili, huili, peuh, wilis, ito, katki, nica, niiski</li>
-          <li>NOUN: tonnomaman, itconetl, itnoconeu, tipresidente</li>
-          <li>VERB: katki, quihtoh, nauat, yah, mota, niquihtoz, niquihlnamiqui, niyaz, kiniki, kita</li>
-          <li>VERB-Fin: katki, ctlahtlanih, nauat, mocelebraroa, yah, pewis, cahsic, ictemohtiu, kinwantia, pac</li>
+          <li>AUX: pewi, wili, huili, peuh, wilis, ito, katki, nica, niiski, peh</li>
+          <li>NOUN: tonnomaman, intemaman, itconetl, itnoconeu, ittlaol, ticol, tipresidente</li>
+          <li>VERB-Fin: katki, quihtoh, nauat, yah, mota, niquihtoz, peu, nesi, niquihlnamiqui, niyaz</li>
         </ul>
       </li>
     </ul>
@@ -586,18 +625,17 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>1
         <ul>
-          <li>VERB: techmaka, nechilhuaya, nechmakakeh, techchiuilis, techilweh, Ixnechmaka, Ixnechonmaka, Nechilwiaj, nechihlhuaya, nechilhue</li>
+          <li>VERB-Fin: techmaka, nechilhuaya, nechmakakeh, techchiuilis, techilweh, Ixnechmaka, Ixnechonmaka, Nechilwiaj, nechchiwilayaj, nechihlhuaya</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: Inmitzilwia, inmitziluis, inmitzwalikilis, mitztlamacas, nimitzcohuiz, nimitzincohuiliz</li>
+          <li>VERB-Fin: Inmitzilwia, Inmitzontlasoj, inmitziluis, inmitzwalikilis, mitzonilwij, mitztlamacas, namechchiuilisqueh, namechpixquiltisqueh, nimitzcohuiz, nimitzincohuiliz</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB: inquintlamaca, itquinmaca, niquilhuaya, kilwia, kilwiah, sekintlanamakiltihtok, cectemacaz, cnextilihqueh, itkilwia, itquimaca</li>
-          <li>VERB-Fin: kilwiah</li>
+          <li>VERB-Fin: inquintlamaca, itquinmaca, niquilhuaya, cnaliluih, icchiuilia, kilwia, kilwiah, quiluih, sekintlanamakiltihtok, Inkakiltia</li>
         </ul>
       </li>
     </ul>
@@ -609,18 +647,17 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>1
         <ul>
-          <li>VERB: nechkokowa, Onechajsik, Techtrataroa, Tinechcactoc, ixnechcaqui, nechcahcayau, nechfelicitarohkeh, nechfelisitarohkeh, nechkalakihkeh, nechmandarohque</li>
+          <li>VERB-Fin: nechkokowa, xnechoncaquinih, Ixnechniltocacan, Onechajsik, Techmojmojtijtos, Techtrataroa, Tinechcactoc, itnechowikas, ittechonmatlanis, ixnechcaqui</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB: nimitzpalehuiz, mitzonwikak, mitzpactiya, nimitsnonots, nomechonnonots, nomotzonpahpachoz, nomoztonsobaroz, timitsilnamikiskeh</li>
+          <li>VERB-Fin: nimitzpalehuiz, Inmitzontlatlawtia, Innamechonnonotzas, Itmitzmochiyalia, Namechcuecuechosque, mitzijijtowaj, mitzonwikak, mitzpactiya, namechcuasqueh, namechonajsikiw</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB: quihtoh, niquihtoz, niquihlnamiqui, sekichiwa, kiniki, kita, nipiyaya, ctlahtlanih, kitlasohtla, nicpiya</li>
-          <li>VERB-Fin: ctlahtlanih, kitlaliah, cahsic, ictemohtiu, kinwantia, kitlahtlaniah, kiwikah, sekilograrhtok, sekinikiskiaya</li>
+          <li>VERB-Fin: quihtoh, niquihtoz, niquihlnamiqui, sekichiwa, kiniki, kita, nipiyaya, ctlahtlanih, kitlasohtla, nicpiya</li>
         </ul>
       </li>
     </ul>
@@ -637,12 +674,12 @@ We would like to thank the following for giving permission to use their sentence
       </li>
       <li>2
         <ul>
-          <li>NOUN: mopiluan, mochah, mochantzin, mocniuan, mopaleta, mopilhuan, motareas, moticachuan, motookaa, mowah</li>
+          <li>NOUN: mopiluan, mochah, mochantzin, mocniuan, moixkuya, mopaleta, mopapan, mopilhuan, motareas, moticachuan</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>NOUN: ich, itich, ica, ika, itoka, iwah, irana, itskwih, niconeuan, itoca</li>
+          <li>NOUN: ich, itich, ica, ika, itoka, iwah, itskwih, irana, niconeuan, itoca</li>
         </ul>
       </li>
     </ul>
@@ -655,25 +692,23 @@ We would like to thank the following for giving permission to use their sentence
       <li>1
         <ul>
           <li>AUX: nica, niiski, ticatca, ticatcah</li>
-          <li>NOUN: itich, tiautoridades</li>
+          <li>NOUN: itich, intemaman, tiautoridades</li>
           <li>NUM: tiochoque</li>
-          <li>VERB: niquihtoz, niquihlnamiqui, niyaz, sekichiwa, nipiyaya, inhuili, nicpiya, niniquiya, inquintlamaca, nikoh</li>
-          <li>VERB-Fin: sekilograrhtok, sekinikiskiaya, tiehkokeh</li>
+          <li>VERB-Fin: niquihtoz, niquihlnamiqui, niyaz, sekichiwa, nipiyaya, inhuili, nicpiya, niniquiya, inquintlamaca, nikoh</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>AUX: nicatca</li>
-          <li>NOUN: tonnomaman, itconetl, itnoconeu, tipresidente</li>
-          <li>VERB: tiyas, itmatis, itquinmaca, ixquita, Ixcochi, Tikwikas, itmati, itpiya, itquitas, ixmeua</li>
+          <li>NOUN: tonnomaman, itconetl, itnoconeu, ittlaol, ticol, tipresidente</li>
+          <li>VERB-Fin: tiyas, itmatis, xiyo, itkwalikas, itquinmaca, ixquita, Ixcochi, Tikwikas, itmati, itpiya</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX: katka, pewi, pew, wili, catca, huili, peuh, wilis, Okatka, catcah</li>
+          <li>AUX: katka, pewi, wili, catca, huili, peuh, wilis, Okatka, catcah, ito</li>
           <li>NOUN: mexicanos</li>
-          <li>VERB: katki, quihtoh, nauat, yah, mota, katka, kiniki, kita, wits, yahkeh</li>
-          <li>VERB-Fin: katki, ctlahtlanih, nauat, mocelebraroa, yah, catca, kilwiah, kitlaliah, pewis, Mopatlatiweh</li>
+          <li>VERB-Fin: katki, quihtoh, nauat, yah, mota, katka, peu, yuwi, nesi, pew</li>
         </ul>
       </li>
     </ul>
@@ -685,16 +720,15 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>Intr
         <ul>
-          <li>AUX: katka, pewi, pew, wili, catca, huili, nicatca, peuh, wilis, Okatka</li>
-          <li>VERB: katki, nauat, yah, katka, mota, niyaz, tiyas, wits, yahkeh, yuweh</li>
-          <li>VERB-Fin: katki, nauat, yah, catca, pewis, kalakitiweh, kateh, pac, pakeh, quis</li>
+          <li>AUX: katka, pewi, wili, catca, huili, nicatca, peuh, wilis, Okatka, catcah</li>
+          <li>VERB-Fin: katki, nauat, yah, katka, mota, peu, yuwi, nesi, niyaz, pew</li>
         </ul>
       </li>
       <li>Tran
         <ul>
           <li>AUX: ito</li>
-          <li>VERB: quihtoh, niquihtoz, niquihlnamiqui, sekichiwa, kiniki, kita, nipiyaya, ctlahtlanih, itmatis, kitlasohtla</li>
-          <li>VERB-Fin: ctlahtlanih, mocelebraroa, kilwiah, kitlaliah, Mopatlatiweh, cahsic, ictemohtiu, kinwantia, kitlahtlaniah, kiwikah</li>
+          <li>VERB-Fin: quihtoh, niquihtoz, niquihlnamiqui, sekichiwa, kiniki, kita, nipiyaya, ctlahtlanih, itmatis, kitlasohtla</li>
+          <li>VERB-Inf: ver, dar</li>
         </ul>
       </li>
     </ul>
@@ -708,7 +742,7 @@ We would like to thank the following for giving permission to use their sentence
         <ul>
           <li>ADV: Kanji, Amo</li>
           <li>NOUN: conhas</li>
-          <li>VERB: in, Inkakiltia, iktlajmachiotiyaj, ittalpachosqueh, kinuij, monquis, ompoliwia, ik, nimomochilia</li>
+          <li>VERB-Fin: in, cnamiqia, ik, ittalpachosqueh, ixtzitzqui, kinuij, monquis, nimomochilia, ompoliwia</li>
         </ul>
       </li>
     </ul>
@@ -720,11 +754,11 @@ We would like to thank the following for giving permission to use their sentence
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 12 lemmas as copulas (<a>cop</a>). Examples: katki, catqui, yehwatl, ye, ser, yeh, yehuatl, yejuatl, _, i, yej, yejwatl.</li>
+<li>This corpus uses 11 lemmas as copulas (<a>cop</a>). Examples: katki, catqui, yehwatl, ye, ser, yehuatl, yejuatl, i, yehhuatl, yej, yejwatl.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: o, ma, mo, pewi, peua, _, mach, oc, pewa, wili, uili, huili, ok, pehua, estar, haber.</li>
+<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: o, ma, mo, pewi, _, mach, wili, uili, huili, pehua, estar, haber, nimi, ok.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -733,14 +767,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (205)</li>
-      <li>VERB--NOUN-ADP(de) (2)</li>
-      <li>VERB--NOUN-Abs (98)</li>
-      <li>VERB--NOUN-Abs-ADP(de) (1)</li>
-      <li>VERB--PRON (214)</li>
-      <li>VERB-Fin--NOUN (20)</li>
-      <li>VERB-Fin--NOUN-Abs (4)</li>
-      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN-Abs (1)</li>
+      <li>VERB--PRON (4)</li>
+      <li>VERB-Fin--NOUN (214)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (2)</li>
+      <li>VERB-Fin--NOUN-Abs (109)</li>
+      <li>VERB-Fin--NOUN-Abs-ADP(de) (1)</li>
+      <li>VERB-Fin--PRON (212)</li>
     </ul>
   </li>
 </ul>
@@ -748,14 +782,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (218)</li>
-      <li>VERB--NOUN-ADP(de) (1)</li>
-      <li>VERB--NOUN-Abs (92)</li>
-      <li>VERB--NOUN-Abs-ADP(quemeh) (1)</li>
-      <li>VERB--PRON (64)</li>
-      <li>VERB--PRON-Acc (1)</li>
-      <li>VERB-Fin--NOUN (7)</li>
-      <li>VERB-Fin--NOUN-Abs (2)</li>
+      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN-Abs (1)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB-Fin--NOUN (214)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN-Abs (99)</li>
+      <li>VERB-Fin--NOUN-Abs-ADP(quemeh) (1)</li>
+      <li>VERB-Fin--PRON (64)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -763,11 +798,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (10)</li>
-      <li>VERB--NOUN-ADP(a) (1)</li>
-      <li>VERB--NOUN-Abs (1)</li>
-      <li>VERB--PRON (5)</li>
-      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--NOUN (10)</li>
+      <li>VERB-Fin--NOUN-Abs (1)</li>
+      <li>VERB-Fin--PRON (5)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (1)</li>
+      <li>VERB-Inf--PRON (1)</li>
     </ul>
   </li>
 </ul>

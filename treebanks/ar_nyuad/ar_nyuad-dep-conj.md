@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `conj`.
+3 nodes (0%) are attached to their parents as `conj`.
 
-2 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.
+3 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `conj`: <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> (2; 100% instances).
+The following 2 pairs of parts of speech are connected with `conj`: <tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt>-<tt><a href="ar_nyuad-pos-NUM.html">NUM</a></tt> (2; 67% instances), <tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar_nyuad-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -78,6 +78,55 @@ The following 1 pairs of parts of speech are connected with `conj`: <tt><a href=
 54	_	_	NUM	NOUN_NUM+CASE_DEF_GEN	Case=Gen|Definite=Com|Gender=Masc|Number=Sing|NumForm=Word	50	nmod:poss	_	_
 55	_	_	NOUN	NOUN+CASE_INDEF_GEN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	54	obj	_	_
 56	_	_	PUNCT	PUNC	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 conj	color:blue
+1	_	w	CCONJ	CONJ	_	2	cc	_	_
+2	_	_	VERB	IV3FS+IV+IVSUFF_MOOD:I	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	_
+3	_	_	NOUN	DET+NOUN+NSUFF_FEM_SG+CASE_DEF_NOM	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	_	_	SCONJ	SUB_CONJ	_	2	mark	_	_
+5	_	_	AUX	IV3FS+IV+IVSUFF_MOOD:S	Gender=Fem|Mood=Sub|Number=Sing|Person=3|Voice=Act	6	cop	_	_
+6	_	_	NOUN	NOUN_QUANT+NSUFF_FEM_SG+CASE_DEF_NOM	Case=Nom|Definite=Com|Gender=Fem|Number=Sing	2	dep	_	_
+7	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	nmod:poss	_	_
+8	_	_	ADJ	DET+ADJ+NSUFF_MASC_PL_ACC	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	7	amod	_	_
+9	_	_	ADJ	ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	6	amod	_	_
+10	_	w	CCONJ	CONJ	_	11	cc	_	_
+11	_	_	NOUN	NOUN_QUANT+NSUFF_FEM_SG+CASE_DEF_NOM	Case=Nom|Definite=Com|Gender=Fem|Number=Sing	6	conj	_	_
+12	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	11	nmod:poss	_	_
+13	_	_	ADJ	DET+ADJ+NSUFF_MASC_PL_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Plur	12	amod	_	_
+14	_	_	ADJ	ADJ+NSUFF_FEM_SG+CASE_INDEF_ACC	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	11	amod	_	_
+15	_	_	PUNCT	PUNC	_	11	punct	_	_
+16	_	f	CCONJ	CONJ	_	17	cc	_	_
+17	_	_	VERB	IV3FS+IV+IVSUFF_MOOD:I	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	11	ccomp	_	_
+18	_	_	NOUN	NOUN+NSUFF_FEM_SG+CASE_DEF_NOM	Case=Nom|Definite=Com|Gender=Fem|Number=Sing	17	nsubj	_	_
+19	_	"	PUNCT	PUNC	_	20	punct	_	_
+20	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod:poss	_	_
+21	_	"	PUNCT	PUNC	_	20	punct	_	_
+22	_	w	CCONJ	CONJ	_	23	cc	_	_
+23	_	_	NOUN	NOUN+NSUFF_FEM_SG+CASE_DEF_NOM	Case=Nom|Definite=Com|Gender=Fem|Number=Sing	18	obj	_	_
+24	_	_	NOUN	NOUN+CASE_DEF_GEN	AdpType=Prep|Case=Gen|Definite=Com|Gender=Masc|Number=Sing	23	nmod:poss	_	_
+25	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	24	nmod:poss	_	_
+26	_	_	NOUN	NOUN+NSUFF_FEM_SG+CASE_DEF_ACC	AdpType=Prep|Case=Acc|Definite=Com|Gender=Fem|Number=Sing	17	obj	_	_
+27	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	26	nmod:poss	_	_
+28	_	b	ADP	PREP	_	29	case	_	_
+29	_	_	NOUN	DET+NOUN+NSUFF_FEM_SG+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	26	obj	_	_
+30	_	_	ADP	PREP	_	31	case	_	_
+31	_	_	NOUN	DET+ADJ+NSUFF_MASC_PL_GEN	AdpType=Prep|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	29	obj	_	_
+32	_	w	CCONJ	CONJ	_	33	cc	_	_
+33	_	_	VERB	IV3MS+IV+IVSUFF_MOOD:I	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Voice=Act	17	ccomp	_	_
+34	_	_	NOUN	DET+NOUN+CASE_DEF_NOM	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	33	nsubj	_	_
+35	_	b	ADP	PREP	_	36	case	_	_
+36	_	_	NOUN	NOUN+CASE_DEF_GEN	Case=Gen|Definite=Com|Gender=Masc|Number=Sing	33	obj	_	_
+37	_	_	NOUN	DET+NOUN+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	36	nmod:poss	_	_
+38	_	_	ADJ	DET+ADJ+NSUFF_FEM_SG+CASE_DEF_GEN	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	37	amod	_	_
+39	_	.	PUNCT	PUNC	_	2	punct	_	_
 
 ~~~
 

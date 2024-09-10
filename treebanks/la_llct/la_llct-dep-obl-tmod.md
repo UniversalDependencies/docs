@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 33 30 obl:tmod	color:blue
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	34	cc	_	_
 2	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	3	cc	_	_
-3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	_
+3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	34	nsubj	_	_
 4	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	7	mark	_	_
 5	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	7	advmod:emph	_	_
 6	predictus	praedictus	DET	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
@@ -37,17 +37,17 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 12	alius	alius	DET	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Con	13	det	_	_
 13	nepus	nepos	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	_
 14	meus	meus	DET	a|a|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	13	det	_	_
-15	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	16	mark	_	_
-16	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	34	advcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+15	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	19	mark	_	_
+16	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	cop	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 17	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	19	case	_	_
 18	predicta	praedictus	DET	a|a|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
-19	filia	filia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	16	obl	_	_
+19	filia	filia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	34	advcl	_	_
 20	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	19	det	_	_
 21	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	24	cc	_	_
 22	tonso	tondeo	VERB	t|t|-|s|r|p|p|n|b|-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	23	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 23	capite	caput	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	24	obl	_	_
-24	abuerit	habeo	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	16	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
-25	,	,	PUNCT	Punc	_	16	punct	_	_
+24	abuerit	habeo	VERB	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
+25	,	,	PUNCT	Punc	_	19	punct	_	_
 26	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	28	case	_	_
 27	singulos	singulus	ADJ	a|a|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|NumType=Dist	28	amod	_	_
 28	annos	annus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	33	obl:tmod	_	_
@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 30	die	dies	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	33	obl:tmod	_	_
 31	natalis	natalis	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	_
 32	Domini	Dominus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	31	nmod	_	_
-33	reddere	reddo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	34	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+33	reddere	reddo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	34	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 34	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 35	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	34	advmod	_	_
 36	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	40	case	_	_
@@ -67,7 +67,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 42	Martini	Martinus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	_
 43	episcopatus	episcopatus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	40	nmod	_	_
 44	vestri	uester	DET	a|a|2|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	43	det	_	_
-45	quatraginta	quadraginta	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	46	nummod	_	_
+45	quatraginta	quadraginta	NUM	m|m|-|-|-|-|-|-|-|-	NumForm=Word|NumType=Card	46	nummod	_	_
 46	libras	libra	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	33	obj	_	_
 47	oleo	oleum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	46	nmod	_	_
 48	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	49	case	_	_
@@ -119,7 +119,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 34	,	,	PUNCT	Punc	_	6	punct	_	_
 35	omnia	omnis	DET	a|a|-|p|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Plur|PronType=Tot	80	obj	_	_
 36	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	54	advmod	_	_
-37	ubique	ubique	ADV	d|d|-|-|-|-|-|-|-|-	_	54	advmod	_	_
+37	ubique	ubique	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc	54	advmod:lmod	_	_
 38	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	40	case	_	_
 39	qualibet	quilibet	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Ind	40	nmod	_	_
 40	locis	locus	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	54	obl	_	_
@@ -135,7 +135,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 50	denominato	denomino	VERB	t|t|-|s|r|p|p|m|b|-	Aspect=Perf|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	51	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 51	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	54	obl	_	_
 52	Ancliano	Anclianum	PROPN	Propn|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	51	flat	_	_
-53	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+53	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 54	pertenentes	pertineo	VERB	t|t|-|s|p|p|a|f|a|-	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	35	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Praesens
 55	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	68	cc	_	_
 56	suprascripto	suprascriptus	DET	a|a|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	57	det	_	_
@@ -147,9 +147,9 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 62	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	63	case	_	_
 63	manus	manus	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	65	obl	_	_
 64	sua	suus	DET	a|a|3|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	63	det	_	_
-65	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	68	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+65	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	68	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 66	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	67	cc	_	_
-67	detinere	detineo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+67	detinere	detineo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	65	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 68	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	54	conj	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 69	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	70	case	_	_
 70	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	80	obl	_	_
@@ -162,7 +162,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 77	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	74	nmod	_	_
 78	semper	semper	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	79	advmod:tmod	_	_
 79	virginis	uirgo	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	77	nmod	_	_
-80	offerrere	offero	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	81	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+80	offerrere	offero	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	81	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 81	prevideor	praeuideo	VERB	v|v|1|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 82	,	,	PUNCT	Punc	_	84	punct	_	_
 83	tali	talis	DET	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	84	det	_	_
@@ -181,7 +181,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 96	post	post	ADP	r|r|-|-|-|-|-|-|-|-	_	97	case	_	_
 97	obito	obitus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	112	advcl:cmp	_	_
 98	meo	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	97	det	_	SpaceAfter=No
-99	,	,	PUNCT	Punc	_	103	punct	_	_
+99	,	,	PUNCT	Punc	_	97	punct	_	_
 100	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	103	case	_	_
 101	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	103	det	_	_
 102	Domini	Dominus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	103	nmod	_	_
@@ -209,7 +209,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 124	,	,	PUNCT	Punc	_	125	punct	_	_
 125	inperandi	impero	VERB	t|t|-|s|p|d|p|n|g|-	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	121	conj	_	SpaceAfter=No|TraditionalMood=Gerundium
 126	,	,	PUNCT	Punc	_	128	punct	_	_
-127	laborare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	128	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+127	laborare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	128	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 128	faciendi	facio	VERB	t|t|-|s|p|d|p|n|g|-	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	121	conj	_	TraditionalMood=Gerundium
 129	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	130	cc	_	_
 130	usufructuandi	usufructuo	VERB	t|t|-|s|p|d|p|n|g|-	Aspect=Prosp|Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	121	conj	_	TraditionalMood=Gerundium
@@ -238,7 +238,7 @@ The following 2 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 153	iusta	iuxta	ADP	r|r|-|-|-|-|-|-|-|-	_	154	case	_	_
 154	legem	lex	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	156	obl	_	_
 155	melius	melius	ADV	d|d|-|-|-|-|-|-|-|-	_	156	advmod	_	_
-156	potuerint	possum	VERB	v|v|3|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	148	advcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+156	potuerint	possum	VERB	v|v|3|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	148	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 157	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	158	case	_	_
 158	pars	pars	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	156	obl	_	_
 159	ipsius	ipse	DET	p|p|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	160	det	_	_

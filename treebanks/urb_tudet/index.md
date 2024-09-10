@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi, Carolina Aragon, Gustavo Godoy.
 
 Repository: [UD_Kaapor-TuDeT](https://github.com/UniversalDependencies/UD_Kaapor-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udurb_tudet211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udurb_tudet214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,7 +79,7 @@ The development of the treebank is supported by the by European Research Council
 
 ## POS Tags
 
-[ADJ](urb_tudet-pos-ADJ.html) – [ADP](urb_tudet-pos-ADP.html) – [ADV](urb_tudet-pos-ADV.html) – [AUX](urb_tudet-pos-AUX.html) – [CCONJ](urb_tudet-pos-CCONJ.html) – [DET](urb_tudet-pos-DET.html) – [NOUN](urb_tudet-pos-NOUN.html) – [PART](urb_tudet-pos-PART.html) – [PRON](urb_tudet-pos-PRON.html) – [PROPN](urb_tudet-pos-PROPN.html) – [PUNCT](urb_tudet-pos-PUNCT.html) – [SCONJ](urb_tudet-pos-SCONJ.html) – [VERB](urb_tudet-pos-VERB.html)
+[ADJ](urb_tudet-pos-ADJ.html) – [ADP](urb_tudet-pos-ADP.html) – [ADV](urb_tudet-pos-ADV.html) – [AUX](urb_tudet-pos-AUX.html) – [CCONJ](urb_tudet-pos-CCONJ.html) – [DET](urb_tudet-pos-DET.html) – [NOUN](urb_tudet-pos-NOUN.html) – [NUM](urb_tudet-pos-NUM.html) – [PART](urb_tudet-pos-PART.html) – [PRON](urb_tudet-pos-PRON.html) – [PROPN](urb_tudet-pos-PROPN.html) – [PUNCT](urb_tudet-pos-PUNCT.html) – [SCONJ](urb_tudet-pos-SCONJ.html) – [VERB](urb_tudet-pos-VERB.html)
 
 ## Features
 
@@ -87,7 +87,7 @@ The development of the treebank is supported by the by European Research Council
 
 ## Relations
 
-[advcl](urb_tudet-dep-advcl.html) – [advmod](urb_tudet-dep-advmod.html) – [amod](urb_tudet-dep-amod.html) – [aux](urb_tudet-dep-aux.html) – [case](urb_tudet-dep-case.html) – [cc](urb_tudet-dep-cc.html) – [ccomp](urb_tudet-dep-ccomp.html) – [compound](urb_tudet-dep-compound.html) – [conj](urb_tudet-dep-conj.html) – [csubj](urb_tudet-dep-csubj.html) – [det](urb_tudet-dep-det.html) – [discourse](urb_tudet-dep-discourse.html) – [iobj](urb_tudet-dep-iobj.html) – [mark](urb_tudet-dep-mark.html) – [nmod](urb_tudet-dep-nmod.html) – [nsubj](urb_tudet-dep-nsubj.html) – [obj](urb_tudet-dep-obj.html) – [obl](urb_tudet-dep-obl.html) – [punct](urb_tudet-dep-punct.html) – [root](urb_tudet-dep-root.html) – [xcomp](urb_tudet-dep-xcomp.html)
+[advcl](urb_tudet-dep-advcl.html) – [advmod](urb_tudet-dep-advmod.html) – [amod](urb_tudet-dep-amod.html) – [aux](urb_tudet-dep-aux.html) – [case](urb_tudet-dep-case.html) – [cc](urb_tudet-dep-cc.html) – [ccomp](urb_tudet-dep-ccomp.html) – [compound](urb_tudet-dep-compound.html) – [conj](urb_tudet-dep-conj.html) – [dep](urb_tudet-dep-dep.html) – [det](urb_tudet-dep-det.html) – [discourse](urb_tudet-dep-discourse.html) – [iobj](urb_tudet-dep-iobj.html) – [mark](urb_tudet-dep-mark.html) – [nmod](urb_tudet-dep-nmod.html) – [nsubj](urb_tudet-dep-nsubj.html) – [nummod](urb_tudet-dep-nummod.html) – [obj](urb_tudet-dep-obj.html) – [obl](urb_tudet-dep-obl.html) – [parataxis](urb_tudet-dep-parataxis.html) – [punct](urb_tudet-dep-punct.html) – [root](urb_tudet-dep-root.html) – [xcomp](urb_tudet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -116,8 +116,8 @@ The development of the treebank is supported by the by European Research Council
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: NUM, INTJ, SYM, X</li>
+<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: INTJ, SYM, X</li>
 </ul>
 
 <ul>
@@ -381,8 +381,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (13)</li>
       <li>VERB--NOUN-Aff (2)</li>
-      <li>VERB--PRON (37)</li>
-      <li>VERB--PRON-Aff (8)</li>
+      <li>VERB--PRON (36)</li>
+      <li>VERB--PRON-Aff (7)</li>
     </ul>
   </li>
 </ul>
@@ -394,7 +394,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(pe) (1)</li>
       <li>VERB--NOUN-Aff (14)</li>
       <li>VERB--PRON (4)</li>
-      <li>VERB--PRON-Aff (4)</li>
+      <li>VERB--PRON-Aff (5)</li>
     </ul>
   </li>
 </ul>
@@ -417,5 +417,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 16 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>appos</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

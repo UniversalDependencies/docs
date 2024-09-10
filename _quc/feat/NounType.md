@@ -29,4 +29,4 @@ as "top" in English or "lado" in Spanish, but also extend to words such as
 #### Examples
 
 * [quc] _Kinchʼaw <b>rukʼ</b> le nunan pa le chʼawebʼal._ "Hablo con mi mamá por teléfono."
-<!-- Interlanguage links updated Po lis 14 15:34:50 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:06 CEST -->

@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-32689 tokens (8%) have a non-empty value of `Tense`.
-6505 types (14%) occur at least once with a non-empty value of `Tense`.
-2286 lemmas (6%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (23037; 5% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9652; 2% instances).
+32699 tokens (8%) have a non-empty value of `Tense`.
+6504 types (14%) occur at least once with a non-empty value of `Tense`.
+2281 lemmas (6%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (23076; 5% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9623; 2% instances).
 
 ### `VERB`
 
-23037 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
+23076 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19959; 87%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19957; 87%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19235; 83%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19023; 83%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17566; 76%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19999; 87%), <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19997; 87%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19274; 84%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19062; 83%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17610; 76%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (646; 3% of non-empty `Tense`): <em>será, tendrá, hará, permitirá, tendrán, contará, llegará, habrá, celebrará, saldrá</em>
+* `Fut` (646; 3% of non-empty `Tense`): <em>será, tendrá, hará, permitirá, tendrán, contará, habrá, llegará, celebrará, saldrá</em>
 * `Imp` (2534; 11% of non-empty `Tense`): <em>tenía, era, eran, había, pertenecían, estaba, tenían, encontraba, contaba, estaban</em>
 * `Past` (9630; 42% of non-empty `Tense`): <em>fue, tuvo, hizo, comenzó, nació, dijo, dio, ganó, convirtió, recibió</em>
-* `Pres` (10227; 44% of non-empty `Tense`): <em>tiene, es, encuentra, hay, hace, tienen, está, cuenta, da, dice</em>
-* `EMPTY` (13281): <em>hacer, ubicado, ver, debido, tener, decir, dar, partir, conocido, llegar</em>
+* `Pres` (10266; 44% of non-empty `Tense`): <em>tiene, es, encuentra, hay, hace, tienen, está, cuenta, da, dice</em>
+* `EMPTY` (13289): <em>hacer, ubicado, ver, debido, tener, decir, dar, partir, conocido, llegar</em>
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -49,17 +49,17 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-9652 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
+9623 <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9385; 97%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9104; 94%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9070; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7383; 76%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9355; 97%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9074; 94%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9040; 94%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7352; 76%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (186; 2% of non-empty `Tense`): <em>será, podrá, podrán, serán, deberá, estará, deberán, estarán, sera, podremos</em>
-* `Imp` (1412; 15% of non-empty `Tense`): <em>eran, era, había, estaba, habían, podía, estaban, debía, fuese, hubiera</em>
-* `Past` (2007; 21% of non-empty `Tense`): <em>fue, fueron, sido, pudo, estuvo, pudieron, estado, podido, Son, debió</em>
-* `Pres` (6047; 63% of non-empty `Tense`): <em>es, ha, son, han, está, puede, pueden, están, he, sea</em>
-* `EMPTY` (1126): <em>ser, siendo, haber, sería, podría, poder, estar, esta, habría, fuera</em>
+* `Fut` (184; 2% of non-empty `Tense`): <em>será, podrá, podrán, serán, deberá, estará, deberán, estarán, sera, podremos</em>
+* `Imp` (1413; 15% of non-empty `Tense`): <em>eran, era, había, estaba, habían, podía, estaban, debía, fuese, hubiera</em>
+* `Past` (2008; 21% of non-empty `Tense`): <em>fue, fueron, sido, pudo, estuvo, pudieron, estado, podido, Son, debió</em>
+* `Pres` (6018; 63% of non-empty `Tense`): <em>es, ha, son, han, está, puede, pueden, están, he, sea</em>
+* `EMPTY` (1124): <em>ser, siendo, haber, sería, podría, poder, estar, esta, habría, fuera</em>
 
 <table>
   <tr><th>Paradigm <i>ser</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -81,8 +81,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1768; 62%),
-<tt>VERB --[<tt><a href="es_gsd-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (993; 56%),
+<tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1770; 62%),
+<tt>VERB --[<tt><a href="es_gsd-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (994; 56%),
 <tt>VERB --[<tt><a href="es_gsd-dep-cc.html">cc</a></tt>]--> VERB</tt> (12; 60%),
 <tt>AUX --[<tt><a href="es_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),

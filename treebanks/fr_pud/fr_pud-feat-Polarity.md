@@ -16,12 +16,12 @@ The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-ADV.html
 
 ### `ADV`
 
-221 <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> tokens (21% of all `ADV` tokens) have a non-empty value of `Polarity`.
+221 <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (221; 100% of non-empty `Polarity`): <em>pas, ne, n', n’, plus, jamais, non</em>
-* `EMPTY` (808): <em>plus, également, bien, où, très, aussi, encore, ainsi, cependant, que</em>
+* `EMPTY` (780): <em>plus, également, bien, très, aussi, encore, ainsi, cependant, que, seulement</em>
 
 ### `DET`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): <em>aucun, aucune</em>
-* `EMPTY` (3869): <em>le, la, les, l', un, une, des, l’, son, sa</em>
+* `EMPTY` (3870): <em>le, la, les, l', un, une, des, l’, son, sa</em>
 
 ### `PRON`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>aucun</em>
-* `EMPTY` (1069): <em>il, qui, se, elle, ils, y, s', on, je, ce</em>
+* `EMPTY` (1095): <em>il, qui, se, elle, ils, y, s', on, je, ce</em>
 

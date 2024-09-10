@@ -23,7 +23,7 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 3 nsubj	color:blue
-1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|SpaceAfter=Yes|UI=329
+1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|UI=329
 2	_	_	PROPN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=796
 3	_	_	NOUN	_	_	11	nsubj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=798
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=6
@@ -100,7 +100,7 @@ The following 53 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 13 nsubj	color:blue
-1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|SpaceAfter=Yes|UI=80
+1	_	_	NUM	_	_	26	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=4|UI=80
 2	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=18928
 3	_	_	NOUN	_	_	6	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=22713
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0

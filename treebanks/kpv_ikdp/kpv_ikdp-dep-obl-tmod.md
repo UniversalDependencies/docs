@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt>.
-There are also 5 other language-specific subtypes of `obl`: <tt><a href="kpv_ikdp-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_ikdp-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lto.html">obl:lto</a></tt>.
+There are also 4 other language-specific subtypes of `obl`: <tt><a href="kpv_ikdp-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_ikdp-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_ikdp-dep-obl-lmp.html">obl:lmp</a></tt>.
 
 5 nodes (0%) are attached to their parents as `obl:tmod`.
 
@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 7	английскей	английскӧй	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
 8	вылын	выв	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	4	acl:relcl	_	GTtags=Relat,Sg,Ine|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	10	punct	_	_
-10	вуджедтэг	вуджӧдны	VERB	V	Derivation=VAbe|Valency=2	8	conj	_	GTtags=TV,VCar,Err/Dial|SpaceAfter=No
+10	вуджедтэг	вуджӧдны	VERB	V	Derivation=VAbe	8	conj	_	GTtags=TV,VCar,Err/Dial|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 1	А	а	CCONJ	CC	_	8	cc	_	_
 2	корейскей	корейскӧй	ADJ	A	Case=Nom|Number=Sing	5	reparandum	_	GTtags=Sg,Nom|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	_
-4	корея	корея	NOUN	N	Case=Nom|Number=Sing	5	nmod:appos	_	GTtags=Sg,Nom
+4	корея	корея	NOUN	N	Case=Nom|Number=Sing	5	compound:nn	_	GTtags=Sg,Nom
 5	кывсэ	кыв	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Err/Dial,Sg,Acc,PxSg3,Err/Dial
 6	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	GTtags=Pers,Sg1,Nom
 7	куті	кутны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg1

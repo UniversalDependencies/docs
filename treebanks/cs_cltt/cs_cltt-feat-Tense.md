@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-2373 tokens (6%) have a non-empty value of `Tense`.
-506 types (11%) occur at least once with a non-empty value of `Tense`.
-294 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1527; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (558; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (288; 1% instances).
+2341 tokens (7%) have a non-empty value of `Tense`.
+501 types (11%) occur at least once with a non-empty value of `Tense`.
+291 lemmas (11%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1507; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (547; 2% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (287; 1% instances).
 
 ### `VERB`
 
-1527 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
+1507 <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1527; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1411; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1411; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1411; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1314; 86%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (998; 65%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1507; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (1393; 92%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1393; 92%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1297; 86%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (985; 65%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (115; 8% of non-empty `Tense`): <em>došlo, přestaly, nabyla, určila, nastaly, staly, překročila, sestavila, stanovila, trvalo</em>
-* `Pres` (1412; 92% of non-empty `Tense`): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</em>
-* `EMPTY` (314): <em>vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést, určit</em>
+* `Past` (113; 7% of non-empty `Tense`): <em>došlo, přestaly, nabyla, určila, staly, nastaly, překročila, sestavila, stanovila, trvalo</em>
+* `Pres` (1394; 93% of non-empty `Tense`): <em>obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</em>
+* `EMPTY` (312): <em>vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést, určit</em>
 
 <table>
   <tr><th>Paradigm <i>obsahovat</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -36,16 +36,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-558 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Tense`.
+547 <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (558; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (499; 89%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (499; 89%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (499; 89%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (471; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (310; 56%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (547; 100%), <tt><a href="cs_cltt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (488; 89%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (488; 89%), <tt><a href="cs_cltt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (488; 89%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (461; 84%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (307; 56%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (22; 4% of non-empty `Tense`): <em>bude, budou</em>
 * `Past` (59; 11% of non-empty `Tense`): <em>byly, byl, bylo, nebyly, byla, nebyla, nebyl</em>
-* `Pres` (477; 85% of non-empty `Tense`): <em>je, jsou, není, nejsou</em>
-* `EMPTY` (74): <em>být, by</em>
+* `Pres` (466; 85% of non-empty `Tense`): <em>je, jsou, není, nejsou</em>
+* `EMPTY` (72): <em>být, by</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -64,25 +64,24 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-288 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
+287 <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (288; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (286; 99%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 61%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (172; 60%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="cs_cltt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (287; 100%), <tt><a href="cs_cltt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (285; 99%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 62%), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (172; 60%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
-* `Pres` (288; 100% of non-empty `Tense`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
-* `EMPTY` (6484): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, výroční, právní, jiných</em>
+* `Pres` (287; 100% of non-empty `Tense`): <em>konsolidující, zanikající, následujícího, související, předcházejícímu, týkající, přejímající, předcházející, souvisejících, řídících</em>
+* `EMPTY` (6356): <em>účetní, účetních, účetního, konsolidované, finanční, účetním, povinny, právní, výroční, ostatní</em>
 
 `Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (50) occur only with one value of `Tense`.
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (181; 93%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (58; 85%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (178; 92%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (58; 84%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (27; 96%),
-<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (4; 100%),
-<tt>AUX --[<tt><a href="cs_cltt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="cs_cltt-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="cs_cltt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%),

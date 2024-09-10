@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 5.500000 (the average of all parts of speech is 1.748764).
+The form / lemma ratio of `AUX` is 5.500000 (the average of all parts of speech is 1.744205).
 
 The 1st highest number of forms (10) was observed with the lemma “mi”: <em>mi, misin, misiniz, miyim, mu, musunuz, mü, mı, mısın, mıyım</em>.
 
@@ -38,7 +38,7 @@ Examples: <em>mı, misin, mu, misiniz, miyim, mü, mi, musunuz, mısın, mıyım
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="tr_atis-dep-aux.html">aux</a></tt> (447; 99% instances), <tt><a href="tr_atis-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="tr_atis-dep-acl.html">acl</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="tr_atis-dep-aux-q.html">aux:q</a></tt> (433; 96% instances), <tt><a href="tr_atis-dep-aux.html">aux</a></tt> (18; 4% instances)
 
 Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt> (226; 50% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (208; 46% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt> (4; 1% instances)
 

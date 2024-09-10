@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fi_ftb-pos-AUX.html
 
 ### `AUX`
 
-2908 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (26% of all `AUX` tokens) have a non-empty value of `Polarity`.
+2908 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (28% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
 The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2908; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2908; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2908; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2797; 96%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2594; 89%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 75%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (2908; 100% of non-empty `Polarity`): <em>ei, en, eivät, eikä, et, älä, eikö, emme, enkä, eihän</em>
-* `EMPTY` (8253): <em>on, oli, ovat, ole, voi, olisi, olen, olla, ollut, olivat</em>
+* `EMPTY` (7496): <em>on, oli, ovat, ole, voi, olisi, olen, olla, ollut, olivat</em>
 
 ### `VERB`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (230; 100% of non-empty `Polarity`): <em>ei, en, eivät, Älä, eikä, eikö, Eipä, Eipäs, eihän, et</em>
-* `EMPTY` (26209): <em>on, oli, ole, olla, tuli, ollut, tulee, sanoi, tehdä, ovat</em>
+* `EMPTY` (26966): <em>on, oli, ole, tulee, olla, tuli, ollut, saa, sanoi, tehdä</em>
 

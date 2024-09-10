@@ -10,9 +10,9 @@ This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
 4861 tokens (29%) have a non-empty value of `Case`.
-3628 types (49%) occur at least once with a non-empty value of `Case`.
+3629 types (49%) occur at least once with a non-empty value of `Case`.
 2327 lemmas (52%) occur at least once with a non-empty value of `Case`.
-The feature is used with 9 part-of-speech tags: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (3416; 20% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (697; 4% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (416; 2% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (63; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (3416; 20% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (697; 4% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (417; 2% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (63; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -50,16 +50,16 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `VERB`
 
-416 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Case`.
+417 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (416; 100%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (408; 98%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (405; 97%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (403; 97%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (402; 97%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (396; 95%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (382; 92%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (339; 81%), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (221; 53%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (221; 53%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (417; 100%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (409; 98%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (405; 97%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (404; 97%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (403; 97%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (397; 95%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (382; 92%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (340; 82%), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (222; 53%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (222; 53%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Abl` (25; 6% of non-empty `Case`): <em>başlamasından, devralınmasından, değiştirmesinden, gelmesinden, gerilemesinden, gerçekleştirmekten, geçirmekten, geçmesinden, gönderebilmekten, görmekten</em>
 * `Acc` (50; 12% of non-empty `Case`): <em>etmesini, almayı, etmeyi, çalışmasını, çalışmayı, almamasını, almasını, atanmasını, ayrılmayı, açıklamasını</em>
 * `Dat` (103; 25% of non-empty `Case`): <em>çıkmaya, etmeye, almaya, bozulmaya, etmesine, kalmasına, koymaya, kullanmaya, kurmaya, olmasına</em>
-* `Gen` (20; 5% of non-empty `Case`): <em>alınmasının, atılmasının, basmasının, edilmesinin, etmenin, etmesinin, geçirmesinin, kalmasının, saldırmanın, sevmelerinin</em>
+* `Gen` (21; 5% of non-empty `Case`): <em>alınmasının, atılmasının, basmasının, edilmesinin, etmenin, etmesinin, gerçekleşenlerin, geçirmesinin, kalmasının, saldırmanın</em>
 * `Ins` (18; 4% of non-empty `Case`): <em>canlandırmakla, ermesiyle, etmesiyle, girmekle, hesaplamakla, incelenmesiyle, kurulmasıyla, nitelendirmesiyle, olmasıyla, tasarlamakla</em>
 * `Loc` (6; 1% of non-empty `Case`): <em>avlanmasında, azaltılmasında, edildiğinde, etmede, gerçekleştiğinde, kurduğunda</em>
 * `Nom` (194; 47% of non-empty `Case`): <em>büyüme, edilmesi, savunma, soruşturma, çalışma, çatışma, alma, almaları, artması, ayırma</em>
@@ -134,18 +134,16 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 ### `X`
 
-14 <tt><a href="tr_pud-pos-X.html">X</a></tt> tokens (13% of all `X` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10; 71%).
+13 <tt><a href="tr_pud-pos-X.html">X</a></tt> tokens (13% of all `X` tokens) have a non-empty value of `Case`.
 
 `X` tokens may have the following values of `Case`:
 
-* `Abl` (1; 7% of non-empty `Case`): <em>Golden</em>
-* `Acc` (1; 7% of non-empty `Case`): <em>Heart"ı</em>
-* `Dat` (1; 7% of non-empty `Case`): <em>Mps'ye</em>
-* `Gen` (3; 21% of non-empty `Case`): <em>Anyway"in, lerin</em>
-* `Loc` (2; 14% of non-empty `Case`): <em>Street'te, 'da</em>
-* `Nom` (6; 43% of non-empty `Case`): <em>Dead, Knew, News, Prayer, Uber, You</em>
+* `Abl` (1; 8% of non-empty `Case`): <em>Golden</em>
+* `Acc` (1; 8% of non-empty `Case`): <em>Heart"ı</em>
+* `Dat` (1; 8% of non-empty `Case`): <em>Mps'ye</em>
+* `Gen` (2; 15% of non-empty `Case`): <em>Anyway"in, lerin</em>
+* `Loc` (2; 15% of non-empty `Case`): <em>Street'te, 'da</em>
+* `Nom` (6; 46% of non-empty `Case`): <em>Dead, Knew, News, Prayer, Uber, You</em>
 * `EMPTY` (91): <em>the, of, North, Association, My, Really, America, Associated, Breaking, Buck</em>
 
 `Case` seems to be **lexical feature** of `X`. 91% lemmas (10) occur only with one value of `Case`.
@@ -181,7 +179,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Abl` (1; 100% of non-empty `Case`): <em>sıradan</em>
-* `EMPTY` (1667): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, var</em>
+* `EMPTY` (1666): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, var</em>
 
 ## Relations with Agreement in `Case`
 

@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>tàbí</em> (<tt><a href="yo_ytb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.041667 (the average of all parts of speech is 1.006112).
+The form / lemma ratio of `CCONJ` is 1.041667 (the average of all parts of speech is 1.007344).
 
 The 1st highest number of forms (3) was observed with the lemma “sì”: <em>si, sì, sí</em>.
 

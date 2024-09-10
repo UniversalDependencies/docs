@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `compound`
 
 This relation is universal.
+There are 1 language-specific subtypes of `compound`: <tt><a href="kpv_lattice-dep-compound-nn.html">compound:nn</a></tt>.
 
 25 nodes (0%) are attached to their parents as `compound`.
 
@@ -61,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 3	блинсӧ	блин	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obj	_	GTtags=Sg,Acc,PxSg3
 4	пиянлы	пи	NOUN	N	Case=Dat|Number=Plur	6	obl	_	GTtags=Pl,Dat
 5	нин	нин	ADV	Adv	Case=Nom|Number=Sing	6	advmod:tmod	_	GTtags=Sg,Nom
-6	вайӧ	вайны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,Sg3
+6	вайӧ	вайны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,Sg3
 7	Да	да	CCONJ	CC	_	8	cc	_	_
 8	шуӧ	шуӧ	VERB	V	Case=Nom|Number=Sing	6	conj	_	GTtags=Sg,Nom
 9	меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl	_	GTtags=Pers,Sg1,Dat|SpaceAfter=No

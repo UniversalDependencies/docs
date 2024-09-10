@@ -20,4 +20,4 @@ punct(I.saw, .-11)
 ~~~
 
 “I saw one man bent over the sledge.”
-<!-- Interlanguage links updated Po lis 14 15:35:02 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:29 CEST -->

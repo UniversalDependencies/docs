@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>mar</em> (<tt><a href="gd_arcosg-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.031746 (the average of all parts of speech is 1.299830).
+The form / lemma ratio of `SCONJ` is 1.031746 (the average of all parts of speech is 1.302372).
 
 The 1st highest number of forms (2) was observed with the lemma “'ar”: <em>'ar, ‘ar</em>.
 
@@ -76,7 +76,7 @@ The 3rd highest number of forms (1) was observed with the lemma “'air”: <em>
 
 `SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="gd_arcosg-dep-mark.html">mark</a></tt> (1036; 96% instances), <tt><a href="gd_arcosg-dep-fixed.html">fixed</a></tt> (41; 4% instances), <tt><a href="gd_arcosg-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-mark-prt.html">mark:prt</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (832; 77% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (101; 9% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (76; 7% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (42; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (832; 77% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (101; 9% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (76; 7% instances), <tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (42; 4% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 0% instances)
 
 1016 (94%) `SCONJ` nodes are leaves.
 

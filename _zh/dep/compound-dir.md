@@ -155,4 +155,4 @@ Other words such as the direct object (5) or the affirmative potential 得 _de_ 
 ~~~
 
 
-<!-- Interlanguage links updated Po lis 14 15:35:16 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:55 CEST -->

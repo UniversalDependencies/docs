@@ -14,4 +14,4 @@ in general.
 
 * _Kʼo <b>ekikʼajol</b> le achijabʼ._ "Los hombres tienen hijos"
 * _Rax <b>taq</b> le kotzʼiʼj._ "Las flores son verdes"
-<!-- Interlanguage links updated Po lis 14 15:34:39 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:46 CEST -->

@@ -8,12 +8,12 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are delimited by whitespace characters
+* Words are delimited by whitespace characters.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens
 
 ## Tags
 
-* Jarawara uses all 17 universal POS categories. `ADJ` is only used for fourteen lexical items. All other modifiers are intransitive verbs.
+* Jarawara uses all 17 universal POS categories. `ADJ` is only used for fourteen lexical items. All other modifiers are intransitive verbs (`vi`).
 
 Mapping UPOS to XPOS Tupinambá
 
@@ -24,7 +24,7 @@ Mapping UPOS to XPOS Tupinambá
  INTJ  | intj     |
  NOUN  | n        |
  PROPN | ppn      |
- VERB  | v, vi, vt, vd|
+ VERB  | v, vc, vi, vt, vd|
  ADP   | posp     |
  AUX   | aux      |
  CCONJ | cc       |
@@ -36,6 +36,8 @@ Mapping UPOS to XPOS Tupinambá
  PUNCT | punct    |
  SYM   | sym      |
  X     | x        |
+
+`vc` is the verbal copula.
 
 
 ## Morphology
@@ -281,7 +283,30 @@ John be.in.motion-THROUGH-COMING-DECL.F John OC-see OC-DECL.F
 
 
 ---
+### Auxiliaries
 
+There are two auxiliaries in Jarawara, which 
+
+We do not treat auxiliaries as constituents, since they do not contribute any semantic meaning to the sentence. They are just required with certain verbs and certain suffixes. For example, in the sentence below. 
+
+
+```
+Boni ihi awa boto tonahani amake
+The tree fell over because of the wind
+```
+
+
+the verb _boto tonahani amake_ is seen as a single word _bototonahaniamake_, and in the morphology not have anything corresponding to the auxiliary na.
+
+One of the advantages of this approach is that we don't have to worry about what to do with auxiliaries that are required by certain suffixes. For example _-kanikima_ 'scattered' requires a following auxiliary _na_, and it is required that _-waharI_ be attached to an auxiliary _na_. 
+
+One problem that arises with this approach is how to treat _to-_ when it occurs with the auxiliary _ha_. The _to-_ is simply required whenever the auxiliary ha occurs, as it also is with the copular verb _ha_. We could simply not register _to-_ in the morphology in these two cases, since it is just required, and doesn't really contribute anything to the meaning. 
+
+It is still necessary to register _to-_ when it is 'away', and when the 'CH' meaning occurs not associated with _ha_. 
+
+
+
+---
 ## Noun Phrase
 
 Noun phrases occur in slot 2 and 5.

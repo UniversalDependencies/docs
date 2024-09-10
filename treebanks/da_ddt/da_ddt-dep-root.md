@@ -59,7 +59,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	Det	det	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
-4	ikke	ikke	ADV	_	_	5	advmod	_	_
+4	ikke	ikke	ADV	Polarity=Neg	_	5	advmod	_	_
 5	overdrevet	overdrevet	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	hvis	hvis	SCONJ	_	_	9	mark	_	_

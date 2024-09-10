@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,11 +85,11 @@ The transcription is also published in Zenodo:
 
 ## Features
 
-[AdpType](kpv_ikdp-feat-AdpType.html) – [AdvType](kpv_ikdp-feat-AdvType.html) – [Case](kpv_ikdp-feat-Case.html) – [Clitic](kpv_ikdp-feat-Clitic.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Definite](kpv_ikdp-feat-Definite.html) – [Degree](kpv_ikdp-feat-Degree.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [NounType](kpv_ikdp-feat-NounType.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [Number[subj]](kpv_ikdp-feat-Number-subj.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [Valency](kpv_ikdp-feat-Valency.html) – [Variant](kpv_ikdp-feat-Variant.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
+[AdpType](kpv_ikdp-feat-AdpType.html) – [AdvType](kpv_ikdp-feat-AdvType.html) – [Case](kpv_ikdp-feat-Case.html) – [Clitic](kpv_ikdp-feat-Clitic.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Definite](kpv_ikdp-feat-Definite.html) – [Degree](kpv_ikdp-feat-Degree.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [Mood](kpv_ikdp-feat-Mood.html) – [NounType](kpv_ikdp-feat-NounType.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [Number[subj]](kpv_ikdp-feat-Number-subj.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [Variant](kpv_ikdp-feat-Variant.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
 
 ## Relations
 
-[acl](kpv_ikdp-dep-acl.html) – [acl:relcl](kpv_ikdp-dep-acl-relcl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advcl:eval](kpv_ikdp-dep-advcl-eval.html) – [advcl:tcl](kpv_ikdp-dep-advcl-tcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [advmod:deg](kpv_ikdp-dep-advmod-deg.html) – [advmod:eval](kpv_ikdp-dep-advmod-eval.html) – [advmod:lfrom](kpv_ikdp-dep-advmod-lfrom.html) – [advmod:lmod](kpv_ikdp-dep-advmod-lmod.html) – [advmod:lto](kpv_ikdp-dep-advmod-lto.html) – [advmod:mmod](kpv_ikdp-dep-advmod-mmod.html) – [advmod:tmod](kpv_ikdp-dep-advmod-tmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [aux:aspect](kpv_ikdp-dep-aux-aspect.html) – [aux:cnd](kpv_ikdp-dep-aux-cnd.html) – [aux:neg](kpv_ikdp-dep-aux-neg.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [dep](kpv_ikdp-dep-dep.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [dislocated](kpv_ikdp-dep-dislocated.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:foreign](kpv_ikdp-dep-flat-foreign.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [list](kpv_ikdp-dep-list.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nmod:appos](kpv_ikdp-dep-nmod-appos.html) – [nmod:poss](kpv_ikdp-dep-nmod-poss.html) – [nmod:prp](kpv_ikdp-dep-nmod-prp.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nsubj:cop](kpv_ikdp-dep-nsubj-cop.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [obl:cau](kpv_ikdp-dep-obl-cau.html) – [obl:cmp](kpv_ikdp-dep-obl-cmp.html) – [obl:lmod](kpv_ikdp-dep-obl-lmod.html) – [obl:lmp](kpv_ikdp-dep-obl-lmp.html) – [obl:lto](kpv_ikdp-dep-obl-lto.html) – [obl:tmod](kpv_ikdp-dep-obl-tmod.html) – [orphan](kpv_ikdp-dep-orphan.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [vocative](kpv_ikdp-dep-vocative.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
+[acl](kpv_ikdp-dep-acl.html) – [acl:relcl](kpv_ikdp-dep-acl-relcl.html) – [advcl](kpv_ikdp-dep-advcl.html) – [advcl:eval](kpv_ikdp-dep-advcl-eval.html) – [advcl:tcl](kpv_ikdp-dep-advcl-tcl.html) – [advmod](kpv_ikdp-dep-advmod.html) – [advmod:deg](kpv_ikdp-dep-advmod-deg.html) – [advmod:eval](kpv_ikdp-dep-advmod-eval.html) – [advmod:lmod](kpv_ikdp-dep-advmod-lmod.html) – [advmod:mmod](kpv_ikdp-dep-advmod-mmod.html) – [advmod:tmod](kpv_ikdp-dep-advmod-tmod.html) – [amod](kpv_ikdp-dep-amod.html) – [appos](kpv_ikdp-dep-appos.html) – [aux](kpv_ikdp-dep-aux.html) – [aux:aspect](kpv_ikdp-dep-aux-aspect.html) – [aux:cnd](kpv_ikdp-dep-aux-cnd.html) – [aux:neg](kpv_ikdp-dep-aux-neg.html) – [case](kpv_ikdp-dep-case.html) – [cc](kpv_ikdp-dep-cc.html) – [ccomp](kpv_ikdp-dep-ccomp.html) – [compound](kpv_ikdp-dep-compound.html) – [compound:nn](kpv_ikdp-dep-compound-nn.html) – [conj](kpv_ikdp-dep-conj.html) – [cop](kpv_ikdp-dep-cop.html) – [csubj](kpv_ikdp-dep-csubj.html) – [dep](kpv_ikdp-dep-dep.html) – [det](kpv_ikdp-dep-det.html) – [discourse](kpv_ikdp-dep-discourse.html) – [dislocated](kpv_ikdp-dep-dislocated.html) – [fixed](kpv_ikdp-dep-fixed.html) – [flat:foreign](kpv_ikdp-dep-flat-foreign.html) – [flat:name](kpv_ikdp-dep-flat-name.html) – [list](kpv_ikdp-dep-list.html) – [mark](kpv_ikdp-dep-mark.html) – [nmod](kpv_ikdp-dep-nmod.html) – [nmod:poss](kpv_ikdp-dep-nmod-poss.html) – [nmod:prp](kpv_ikdp-dep-nmod-prp.html) – [nsubj](kpv_ikdp-dep-nsubj.html) – [nsubj:cop](kpv_ikdp-dep-nsubj-cop.html) – [nummod](kpv_ikdp-dep-nummod.html) – [obj](kpv_ikdp-dep-obj.html) – [obl](kpv_ikdp-dep-obl.html) – [obl:cau](kpv_ikdp-dep-obl-cau.html) – [obl:cmp](kpv_ikdp-dep-obl-cmp.html) – [obl:lmod](kpv_ikdp-dep-obl-lmod.html) – [obl:lmp](kpv_ikdp-dep-obl-lmp.html) – [obl:tmod](kpv_ikdp-dep-obl-tmod.html) – [orphan](kpv_ikdp-dep-orphan.html) – [parataxis](kpv_ikdp-dep-parataxis.html) – [punct](kpv_ikdp-dep-punct.html) – [reparandum](kpv_ikdp-dep-reparandum.html) – [root](kpv_ikdp-dep-root.html) – [vocative](kpv_ikdp-dep-vocative.html) – [xcomp](kpv_ikdp-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -620,7 +620,7 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Tot
     <ul>
-      <li>PRON: быд, быдӧнӧс</li>
+      <li>PRON: быд, быдӧнӧс, куимнансэ</li>
     </ul>
   </li>
 </ul>
@@ -659,6 +659,14 @@ The transcription is also published in Zenodo:
       <li>ADJ: мӧдэд, Коймедсэ, сизимед</li>
       <li>DET: мӧд</li>
       <li>NUM: Мӧдэс, четвёртэй</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sets
+    <ul>
+      <li>PRON: куимнан, куимнансэ</li>
     </ul>
   </li>
 </ul>
@@ -732,7 +740,7 @@ The transcription is also published in Zenodo:
       <li>DET: ставыс</li>
       <li>NOUN: ае, маме, мамыс, тятеис, вомсьыс, гортас, дадьсэ, культураыс, луннас, мамсӧ</li>
       <li>NUM: Мӧдэс, Ӧтікес</li>
-      <li>PRON: ставыс, куимнансэ, мукедъясыс, мӧдъясыслэн</li>
+      <li>PRON: ставыс, мукедъясыс, мӧдъясыслэн</li>
       <li>PROPN: Ляпиныс</li>
       <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
       <li>VERB-Vnoun: олэмад, тӧдэмъяссэ</li>
@@ -903,22 +911,10 @@ The transcription is also published in Zenodo:
           <li>ADP: кузяыс, бӧрас, вылас, дорас, нынніыс</li>
           <li>DET: ставыс</li>
           <li>NOUN: мамыс, тятеис, вомсьыс, гортас, дадьсэ, культураыс, луннас, мамсӧ, местэас, нырсьыс</li>
-          <li>PRON: ставыс, куимнансэ, мукедъясыс, мӧдъясыслэн</li>
+          <li>PRON: ставыс, мукедъясыс, мӧдъясыслэн</li>
           <li>PROPN: Ляпиныс</li>
           <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>
           <li>VERB-Vnoun: тӧдэмъяссэ</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Valency</a>
-    <ul>
-      <li>2
-        <ul>
-          <li>VERB: вуджедтэг</li>
         </ul>
       </li>
     </ul>
@@ -986,7 +982,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 25 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:lfrom</a>, <a>advmod:lmod</a>, <a>advmod:lto</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:appos</a>, <a>nmod:poss</a>, <a>nmod:prp</a>, <a>nsubj:cop</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:lto</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 22 relation subtypes: <a>acl:relcl</a>, <a>advcl:eval</a>, <a>advcl:tcl</a>, <a>advmod:deg</a>, <a>advmod:eval</a>, <a>advmod:lmod</a>, <a>advmod:mmod</a>, <a>advmod:tmod</a>, <a>aux:aspect</a>, <a>aux:cnd</a>, <a>aux:neg</a>, <a>compound:nn</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nmod:prp</a>, <a>nsubj:cop</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:lmod</a>, <a>obl:lmp</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a></li>
 </ul>

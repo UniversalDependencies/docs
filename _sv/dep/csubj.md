@@ -11,4 +11,4 @@ A clausal subject is a clausal syntactic subject of a clause, i.e., the subject 
 Vad han säger stör mig . \n What he says bothers me .
 csubj(stör, säger)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:19 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:01 CEST -->

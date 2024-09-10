@@ -68,4 +68,4 @@ Instead, the phenomena of implicit coordination,
 parenthetical clauses, interjected clauses and direct speech
 have been described using some other, most applicable
 relation available (usually [`conj`]() or [`obj`]()).
-<!-- Interlanguage links updated Po lis 14 15:35:42 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:43 CEST -->

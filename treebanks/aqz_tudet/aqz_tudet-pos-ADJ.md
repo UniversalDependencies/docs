@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>atʃi</em> (<tt><a href="aqz_tudet-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.420613).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.442049).
 
 The 1st highest number of forms (1) was observed with the lemma “atʃi”: <em>atʃi</em>.
 

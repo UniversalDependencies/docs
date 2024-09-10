@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 flat:name	color:blue
-1	Samma	samma	DET	DT|UTR/NEU|SIN/PLU|IND	Definite=Ind	2	det	2:det	_
+1	Samma	samma	ADJ	DT|UTR/NEU|SIN/PLU|IND	Case=Nom|Definite=Ind|Degree=Pos	2	amod	2:det	_
 2	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	3	obl	3:obl	_
 3	syntes	synas	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 4	hon	hon	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	nsubj	3:nsubj|14:nsubj	_
@@ -70,7 +70,7 @@ The following 8 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat:name	color:blue
 1	Deras	deras	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes	3	nmod:poss	3:nmod:poss	_
-2	första	första	ADJ	RO|NOM	Case=Nom	3	amod	3:amod	_
+2	första	första	ADJ	RO|NOM	Case=Nom|NumType=Ord	3	amod	3:amod	_
 3	kung	kung	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
 4	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 5	Mojmír	Mojmír	PROPN	PM|NOM	Case=Nom	0	root	0:root	_

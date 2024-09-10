@@ -7,11 +7,10 @@ udver: '2'
 
 # Other Constructions
 
-This section contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clauses, complex clauses, and nominal phrases.
+This section of the [syntax overview](syntax.html) contains detailed discussion of particular linguistic constructions that fall outside (or cut across) the main categories of simple clauses, complex clauses, and nominal phrases.
 
 * [Coordination](#coordination)
 * [Ellipsis](#ellipsis)
-* [Multiword expressions](#multiword-expressions)
 * [Comparative constructions](#comparatives)
 * [Paratactic constructions](#paratactic-constructions)
 * [Punctuation](#punctuation)
@@ -19,8 +18,7 @@ This section contains detailed discussion of particular linguistic constructions
 
 ## Coordination
 
-As discussed in the section on [complex clauses](complex-syntax.html), we treat coordinate structures asymmetrically
-by attaching all non-first conjuncts to the first conjunct via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the immediately following conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively. This analysis is applied to all cases of coordination at the clause, phrase or word level.
+As discussed in the section on [complex clauses](complex-syntax.html), coordination is essentially a symmetrical relation. However, in order to satisfy the dependency tree constraint, the first conjunct is treated as the parent (or “technical head”) of all following conjuncts via the [u-dep/conj]() relation. Coordinating conjunctions and punctuation delimiting the conjuncts are attached to the associated conjunct using the [u-dep/cc]() and [u-dep/punct]() relations respectively. This analysis is applied to all cases of coordination at the clause, phrase or word level.
 
 ~~~ sdparse
 He came home , took a shower and immediately went to bed .
@@ -280,46 +278,6 @@ is from Malayalam.
 
 ~~~
 
-## Multiword Expressions
-
-Multiword expressions (MWEs) are combinations of words that (in some respect and to different degrees) behave
-as lexical units rather than compositional syntactic phrases. The UD taxonomy contains three special relations
-for analyzing MWEs:
-
-* [u-dep/fixed]() are used to analyze fixed grammaticized MWEs like _in spite of_ (see above)
-* [u-dep/flat]() are used to analyze exocentric semi-fixed MWEs like _Barack Obama_
-* [u-dep/compound]() are used to analyze (endocentric) compounds like _noun phrase_
-
-Structures analyzed with [u-dep/fixed]() and [u-dep/flat]() are headless by definition and are consistently
-annotated by attaching all non-first elements to the first and only allowing outgoing dependents from the first element.
-
-<div id="s8a" class="sd-parse">
-We had a nice time in spite of the rain .
-case(rain,in)
-fixed(in,spite)
-fixed(in,of)
-obl(had,rain)
-</div>
-
-<div id="s8b" class="sd-parse">
-Martin Luther King had a dream .
-nsubj(had,Martin)
-flat(Martin,Luther)
-flat(Martin,King)
-</div>
-
-By contrast, [compounds](compound) are annotated to show their modification structure, including a regular concept of head:
-
-<div id="s9" class="sd-parse">
-I bought a computer disk drive enclosure .
-nsubj(bought, I)
-det(enclosure, a)
-compound(drive, computer)
-compound(drive, disk)
-compound(enclosure, drive)
-obj(bought, enclosure)
-</div>
-
 ## Comparatives
 
 The syntax of comparative constructions poses various challenges for linguistic theory.  For English, many of these are discussed in Bresnan (1973) and Huddleston and Pullum (2002, chapter 13). We give a discussion of equality comparisons (_That car is as big as mine_) and inequality scalar comparisons (_Sue is taller than Jim_).
@@ -468,7 +426,7 @@ punct(put, .)
 He plays better drunk than sober
 nsubj(plays, He)
 advmod(plays, better)
-acl(He, drunk)
+advcl(plays, drunk)
 mark(sober, than)
 advcl(better, sober)
 ~~~
@@ -496,7 +454,7 @@ case(talent, than)
 obl(important, talent)
 ~~~
 
-### _More than_ as a multi-word expression
+### _More than_ as a multiword expression
 
 In certain contexts the comparative complement combines both the action or adjective that is being compared
 and the quantity it is compared to:
@@ -505,7 +463,7 @@ and the quantity it is compared to:
 * _more than likely_
 * _Home prices have more than doubled in the past decade._
 
-In these cases we consider _more than_ to be a fixed multi-word expression because the two words are inseparable.
+In these cases we consider _more than_ to be a [fixed multiword expression](syntax.html##multiword-function-words) because the two words are inseparable.
 One cannot say _*more percent than 90._
 
 ~~~ sdparse
@@ -533,6 +491,66 @@ more than a year ago
 det(year, a)
 fixed(more, than)
 advmod(year, more)
+~~~
+
+### Sufficiency and Excess
+
+Also involving degree semantics are constructions conveying a consequence/result of that degree. Like the _as much flour as the recipe called for_ example above, we treat the degree-qualified adjective or adverb as the head of the additional clause that is licensed by the construction (as [advcl]()):
+
+~~~ sdparse
+It was so dusty that I sneezed
+advmod(dusty, so)
+advcl(dusty, sneezed)
+~~~
+
+Here, *so* is the degree modifier and *dusty* is the degree-modified adjective. The adjective heads the [advcl]().
+
+Examples with degree modifiers *too* (pre-adverb) and *enough* (post-adjective):
+
+~~~ sdparse
+You are working too slowly to finish on time
+advmod(slowly, too)
+advcl(slowly, finish)
+~~~
+
+~~~ sdparse
+You are old enough to get a job
+advmod(old, enough)
+advcl(old, get)
+~~~
+
+Even if the thing measured is provided by a noun, it is the adjective that heads the additional clause:
+
+~~~ sdparse
+We have enough/sufficient/ADJ flour to get started
+obj(have, flour)
+amod(flour, enough/sufficient)
+advcl(enough/sufficient, get)
+~~~
+
+~~~ sdparse
+We had so much flour that I sneezed
+obj(had, flour)
+advmod(much, so)
+amod(flour, much)
+advcl(much, sneezed)
+~~~
+
+The *that*-clause is licensed by the sufficiency construction: _*There was much flour that I sneezed_ is not possible.
+Sometimes multiple clauses are licensed, one by the adjective (as [ccomp]()) and one by the sufficiency construction (either can be omitted):
+
+~~~ sdparse
+I was so happy that you won that I cried
+ccomp(happy, won)
+advcl(happy, cried)
+~~~
+
+The adjective expressing sufficiency or excess may also occur on its own, without being headed by a noun:
+
+~~~ sdparse
+1 bag of flour is enough to get started
+nsubj(enough, bag)
+advcl(enough, get)
 ~~~
 
 ## Paratactic Constructions

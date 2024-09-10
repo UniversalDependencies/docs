@@ -17,4 +17,17 @@ Ali ima center veliko dela spričo tako hudih medvrstniških obračunavanj ? \n 
 det(dela,veliko)
 det(work,a-lot-of)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:22 CET 2022 -->
+
+The `det` relation is also used for the definite article _ta_ ('the', lit. 'this'), which is typically only used in speech or informal texts. Regardless of what the article determines, e.g. the modifiers or the head, we attach it to the nominal head.
+
+~~~ sdparse
+ko bom imela čas samo zase pa za ta tretjega otroka \n when I-will have time only for-myself and for the third child
+det(otroka,ta)
+amod(otroka,tretjega)
+case(otroka,za)
+det(child,the)
+amod(child,third)
+case(child,for)
+~~~
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:06 CEST -->

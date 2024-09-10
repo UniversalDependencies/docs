@@ -20,4 +20,4 @@ Note also that only the last word part may be annotated with `SpaceAfter=No`.
 նա ի զուր էր այդքան անհանգստանում
 goeswith(ի, զուր)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:28 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:16 CEST -->

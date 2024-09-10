@@ -6,31 +6,30 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-PUD: POS Tags: `PART`
 
-There are 1 `PART` lemmas (7%), 29 `PART` types (0%) and 1881 `PART` tokens (9%).
-Out of 15 observed tags, the rank of `PART` is: 9 in number of lemmas, 12 in number of types and 4 in number of tokens.
+There are 26 `PART` lemmas (0%), 26 `PART` types (0%) and 1483 `PART` tokens (7%).
+Out of 15 observed tags, the rank of `PART` is: 11 in number of lemmas, 12 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PART` lemmas: _
+The 10 most frequent `PART` lemmas: 的、 了、 地、 之、 得、 嗎、 人、 者、 黨、 區
 
-The 10 most frequent `PART` types:  的、 了、 著、 地、 之、 過、 得、 嗎、 人、 者
+The 10 most frequent `PART` types:  的、 了、 地、 之、 得、 嗎、 人、 者、 黨、 區
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5410, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3467, <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> 2902, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1881, <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 1361, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 1288, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1283, <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> 873, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 710, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 650, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 618, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 355, <tt><a href="zh_pud-pos-X.html">X</a></tt> 306, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 283, <tt><a href="zh_pud-pos-SCONJ.html">SCONJ</a></tt> 28)
+The 10 most frequent ambiguous lemmas: 的 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1361, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 了 (<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 339, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 41), 地 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 22, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2), 之 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6), 得 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 9, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 5, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3), 人 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 105, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 3), 者 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 2), 區 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1), 家 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1), 法 (<tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  的 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1361, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 地 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 22, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2), 之 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6), 過 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 18, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 1, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 1), 得 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 9, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3), 人 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 91, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 3), 者 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 2), 區 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1), 家 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1), 法 (<tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  的 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1361, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 了 (<tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 339, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 41), 地 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 22, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2), 之 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 21, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6), 得 (<tt><a href="zh_pud-pos-PART.html">PART</a></tt> 9, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3), 人 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 91, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 3), 者 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 2), 區 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1), 家 (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1), 法 (<tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1)
 
 
 * 的
   * <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1361: 對於 通過 社交 媒體 來 跟踪 國會山 任職 變遷 <b>的</b> 人 而 言 ， 這 次 與 以往 有 所 不同 。
   * <tt><a href="zh_pud-pos-X.html">X</a></tt> 1: 從 導演 的 角度 來 看 ， 這 部 電影 處 在 歡樂 的 家庭 鬧劇 和 沈重 的 社會 戲劇 之間 <b>的</b> 的 不 穩定 平衡 。
+* 了
+  * <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 339: 希拉里 的 巨額 銀行 帳戶 使 政府 支出 的 突破 <b>了</b> 新上限 。
+  * <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 41: 這 項 為期 10 週 的 課程 已經 被 英國 情報 機構 GCHQ “ 認證 ” <b>了</b> 。
 * 地
   * <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 22: 最後 ， 你 會 更 清楚 <b>地</b> 聽到 下 一 個 噪音 ， 使 你 更 煩躁 。
   * <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 2: 雪人 能 跳過 用 來 分隔 兩 <b>地</b> 的 高柵欄 ， 並 總 能 回到 讓 他 感覺 是 家 的 地方 。
 * 之
   * <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 21: 遊戲 與 我們 的 日常 生活 有 相似 <b>之</b> 處 。
   * <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 6: 我 不會 輕易 地 稱 <b>之</b> 為 野獸 。
-* 過
-  * <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 18: 一 位 目擊者 告訴 警方 ， 被 害人 曾 在 四 月 襲擊 <b>過</b> 嫌疑人 。
-  * <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 1: 也許 著裝 要求 <b>過</b> 於 沉悶 。
-  * <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 1: 有 著 兩 個 尖塔 的 小鎮 一 閃 而 <b>過</b> 。
 * 得
   * <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 9: 柏拉圖 認為 ， 將 權力 授予 精心 培育 的 守護者們 安全 <b>得</b> 多 。
   * <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3: 在 他 的 管理 下 ， 女性 獲得 了 投票權 ， 政治 黨派 得到 了 合法化 ， 被 流放 的 人 <b>得</b> 以 歸家 ， 政治 迫害犯 也 被 釋放 了 。
@@ -52,26 +51,30 @@ The 10 most frequent ambiguous types:  的 (<tt><a href="zh_pud-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 29.000000 (the average of all parts of speech is 388.466667).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.006233).
 
-The 1st highest number of forms (29) was observed with the lemma “_”: 之, 了, 人, 區, 呢, 嗎, 地, 家, 得, 河, 法, 的, 瞭, 緣, 罪, 者, 肺, 舟, 著, 處, 號, 街, 賽, 過, 配, 鎊, 體, 點, 黨.
+The 1st highest number of forms (1) was observed with the lemma “之”: 之.
 
-`PART` occurs with 2 features: <tt><a href="zh_pud-feat-Case.html">Case</a></tt> (709; 38% instances), <tt><a href="zh_pud-feat-Aspect.html">Aspect</a></tt> (398; 21% instances)
+The 2nd highest number of forms (1) was observed with the lemma “了”: 了.
 
-`PART` occurs with 3 feature-value pairs: `Aspect=Perf`, `Aspect=Prog`, `Case=Gen`
+The 3rd highest number of forms (1) was observed with the lemma “人”: 人.
 
-`PART` occurs with 4 feature combinations.
+`PART` occurs with 1 features: <tt><a href="zh_pud-feat-Case.html">Case</a></tt> (709; 48% instances)
+
+`PART` occurs with 1 feature-value pairs: `Case=Gen`
+
+`PART` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (774 tokens).
 Examples: 的、 了、 地、 得、 之、 嗎、 人、 者、 黨、 區
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 14 different relations: <tt><a href="zh_pud-dep-case.html">case</a></tt> (709; 38% instances), <tt><a href="zh_pud-dep-mark-rel.html">mark:rel</a></tt> (626; 33% instances), <tt><a href="zh_pud-dep-aux.html">aux</a></tt> (398; 21% instances), <tt><a href="zh_pud-dep-discourse-sp.html">discourse:sp</a></tt> (87; 5% instances), <tt><a href="zh_pud-dep-mark-adv.html">mark:adv</a></tt> (22; 1% instances), <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt> (16; 1% instances), <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (8; 0% instances), <tt><a href="zh_pud-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 13 different relations: <tt><a href="zh_pud-dep-case.html">case</a></tt> (709; 48% instances), <tt><a href="zh_pud-dep-mark-rel.html">mark:rel</a></tt> (626; 42% instances), <tt><a href="zh_pud-dep-discourse-sp.html">discourse:sp</a></tt> (87; 6% instances), <tt><a href="zh_pud-dep-mark-adv.html">mark:adv</a></tt> (22; 1% instances), <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt> (16; 1% instances), <tt><a href="zh_pud-dep-obj.html">obj</a></tt> (8; 1% instances), <tt><a href="zh_pud-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="zh_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="zh_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (933; 50% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (366; 19% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (245; 13% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (139; 7% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (108; 6% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (63; 3% instances), <tt><a href="zh_pud-pos-X.html">X</a></tt> (15; 1% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (558; 38% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (366; 25% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (222; 15% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (139; 9% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (108; 7% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (63; 4% instances), <tt><a href="zh_pud-pos-X.html">X</a></tt> (15; 1% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances)
 
-1859 (99%) `PART` nodes are leaves.
+1461 (99%) `PART` nodes are leaves.
 
 11 (1%) `PART` nodes have one child.
 
@@ -81,7 +84,7 @@ Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="zh_p
 
 The highest child degree of a `PART` node is 5.
 
-Children of `PART` nodes are attached using 13 different relations: <tt><a href="zh_pud-dep-dep.html">dep</a></tt> (11; 25% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (10; 23% instances), <tt><a href="zh_pud-dep-punct.html">punct</a></tt> (6; 14% instances), <tt><a href="zh_pud-dep-nummod.html">nummod</a></tt> (3; 7% instances), <tt><a href="zh_pud-dep-case.html">case</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-case-loc.html">case:loc</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="zh_pud-dep-clf.html">clf</a></tt> (1; 2% instances), <tt><a href="zh_pud-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (1; 2% instances)
+Children of `PART` nodes are attached using 13 different relations: <tt><a href="zh_pud-dep-dep.html">dep</a></tt> (11; 25% instances), <tt><a href="zh_pud-dep-compound.html">compound</a></tt> (10; 23% instances), <tt><a href="zh_pud-dep-punct.html">punct</a></tt> (6; 14% instances), <tt><a href="zh_pud-dep-case.html">case</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-case-loc.html">case:loc</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-nmod.html">nmod</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-nummod.html">nummod</a></tt> (2; 5% instances), <tt><a href="zh_pud-dep-clf.html">clf</a></tt> (1; 2% instances), <tt><a href="zh_pud-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="zh_pud-dep-obl.html">obl</a></tt> (1; 2% instances)
 
 Children of `PART` nodes belong to 10 different parts of speech: <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (19; 43% instances), <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 14% instances), <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> (4; 9% instances), <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> (4; 9% instances), <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="zh_pud-pos-X.html">X</a></tt> (2; 5% instances), <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

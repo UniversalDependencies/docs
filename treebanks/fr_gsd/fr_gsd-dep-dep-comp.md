@@ -8,67 +8,28 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-dep.html">dep</a></tt>.
 
-19 nodes (0%) are attached to their parents as `dep:comp`.
+17 nodes (0%) are attached to their parents as `dep:comp`.
 
-12 instances of `dep:comp` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.73684210526316.
+12 instances of `dep:comp` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.11764705882353.
 
-The following 7 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (7; 37% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (6; 32% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 11% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 6 pairs of parts of speech are connected with `dep:comp`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11; 65% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 12% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 11 dep:comp	color:blue
-1	Charles	Charles	PROPN	_	_	3	nsubj	_	_
-2	Tisseyre	Tisseyre	PROPN	_	_	1	flat:name	_	_
-3	naît	naître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	de	de	ADP	_	_	5	case	_	_
-5	Michelle	Michelle	PROPN	_	_	3	obl:mod	_	_
-6	et	et	CCONJ	_	_	8	cc	_	_
-7	de	de	ADP	_	_	8	case	_	_
-8	Pierre	Pierre	PROPN	_	_	5	conj	_	_
-9	Tisseyre	Tisseyre	PROPN	_	_	8	flat:name	_	_
-10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	15	15	NUM	_	Number=Sing	3	dep:comp	_	_
-12	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
-13	1949	1949	NUM	_	Number=Plur	12	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 19 dep:comp	color:blue
-1	Un	un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	advcl	_	wordform=un
-2	de	de	ADP	_	_	5	case	_	_
-3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_
-4	meilleurs	meilleur	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
-5	Chercheurs	chercheur	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	wordform=chercheurs
-6	de	de	ADP	_	_	8	case	_	_
-7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Fondation	fondation	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	wordform=fondation
-9	Huntik	Huntik	PROPN	_	_	8	appos	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	1	punct	_	_
-11	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
-12	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
-13	chef	chef	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-14	de	de	ADP	_	_	16	case	_	_
-15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
-17	de	de	ADP	_	_	18	case	_	_
-18	chercheurs	chercheur	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	_
-19	dont	dont	PRON	_	PronType=Rel	21	dep:comp	_	_
-20	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
-21	partie	partie	NOUN	_	Gender=Fem|Number=Sing	20	obj:lvc	_	_
-22	Lok	Lok	PROPN	_	_	20	nsubj	_	SpaceAfter=No
-23	.	.	PUNCT	_	_	13	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 dep:comp	color:blue
+1	Pourquoi	pourquoi	ADV	_	PronType=Int	4	advmod	_	wordform=pourquoi
+2	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	_
+3	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	dep:comp	_	_
+4	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	-on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	wordform=on
+6	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
+7	confiance	confiance	NOUN	_	Gender=Fem|Number=Sing	4	obj:lvc	_	_
+8	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -94,6 +55,63 @@ The following 7 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 13	déclare	déclarer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	que	que	SCONJ	_	_	13	dep:comp	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	13	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 36	bgColor:blue
+# visual-style 36	fgColor:white
+# visual-style 33	bgColor:blue
+# visual-style 33	fgColor:white
+# visual-style 33 36 dep:comp	color:blue
+1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=un
+2	an	an	NOUN	_	Gender=Masc|Number=Sing	20	obl:mod	_	_
+3	plus	plus	ADV	_	_	4	advmod	_	_
+4	tard	tard	ADV	_	_	2	advmod	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	13	13	NUM	_	Number=Sing	2	appos	_	_
+7	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
+8	2008	2008	NUM	_	Number=Plur	7	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	2	punct	_	_
+10	une	un	NUM	_	Gender=Fem|Number=Sing	11	nummod	_	_
+11	quarantaine	quarantaine	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	chefs	chef	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+14	d'	de	ADP	_	_	15	case	_	SpaceAfter=No
+15	Etats	Etats	PROPN	_	_	13	nmod	_	_
+16	et	et	CCONJ	_	_	18	cc	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	gouvernements	gouvernement	NOUN	_	Gender=Masc|Number=Plur	15	conj	_	_
+19	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
+20	rassemblent	rassembler	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+21	à	à	ADP	_	_	22	case	_	_
+22	Paris	Paris	PROPN	_	_	20	obl:mod	_	_
+23	pour	pour	ADP	_	_	27	case	_	_
+24	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
+25	grand	grand	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
+26	«	«	PUNCT	_	_	27	punct	_	_
+27	show	show	NOUN	_	Gender=Masc|Number=Sing	20	obl:mod	_	_
+28	»	»	PUNCT	_	_	27	punct	_	_
+29	diplomatique	diplomatique	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
+30	et	et	CCONJ	_	_	32	cc	_	_
+31	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	dîner	dîner	NOUN	_	Gender=Masc|Number=Sing	27	conj	_	_
+33	à	à	ADP	_	_	32	dep	_	_
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
+35	Grand	grand	ADJ	_	Gender=Masc|Number=Sing	36	amod	_	wordform=grand
+36	Palais	palais	NOUN	_	Gender=Masc|Number=Sing	33	dep:comp	_	SpaceAfter=No|wordform=palais
+37	,	,	PUNCT	_	_	42	punct	_	_
+38	qui	qui	PRON	_	PronType=Rel	42	nsubj	_	_
+39	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	aux:tense	_	_
+40	d'	de	ADP	_	ExtPos=ADV	42	advmod	_	Idiom=Yes|SpaceAfter=No
+41	ailleurs	ailleurs	ADV	_	_	40	fixed	_	InIdiom=Yes
+42	coûté	coûter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	32	acl:relcl	_	_
+43	5050	5050	NUM	_	Number=Plur	44	nummod	_	_
+44	euros	euro	NOUN	_	Gender=Masc|Number=Plur	42	obj	_	_
+45	par	par	ADP	_	_	46	case	_	_
+46	personne	personne	NOUN	_	Gender=Fem|Number=Sing	44	nmod	_	_
+47	!	!	PUNCT	_	_	20	punct	_	_
 
 ~~~
 

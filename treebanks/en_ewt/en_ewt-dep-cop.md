@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5918 nodes (2%) are attached to their parents as `cop`.
+5917 nodes (2%) are attached to their parents as `cop`.
 
-5669 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25059141601893.
+5670 instances of `cop` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25249281730607.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2876; 49% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1987; 34% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (289; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (229; 4% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (191; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (190; 3% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (88; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2887; 49% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1992; 34% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (284; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (217; 4% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (195; 3% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (192; 3% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (88; 1% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 1	That	that	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	_
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
 3	right	right	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
-4	,	,	PUNCT	,	_	3	punct	3:punct	_
+4	,	,	PUNCT	,	_	5	punct	5:punct	_
 5	folks	folk	NOUN	NNS	Number=Plur	3	vocative	3:vocative	SpaceAfter=No
 6	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 8	wedding	wedding	NOUN	NN	Number=Sing	5	nmod	5:nmod:to	_
 9	fearing	fear	VERB	VBG	VerbForm=Ger	1	acl	1:acl	_
 10	death	death	NOUN	NN	Number=Sing	9	obj	9:obj	SpaceAfter=No
-11	,	,	PUNCT	,	_	9	punct	9:punct	_
+11	,	,	PUNCT	,	_	12	punct	12:punct	_
 12	basically	basically	ADV	RB	_	9	advmod	9:advmod	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	5:punct	SpaceAfter=No
 14	"	"	PUNCT	''	_	5	punct	5:punct	_

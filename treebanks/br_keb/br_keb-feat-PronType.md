@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (16; 100% of non-empty `PronType`): <em>penaos, pelec'h, Perak, Petra, Pegement, Pegoulz, pegen</em>
-* `EMPTY` (536): <em>ket, ne, -se, n', -mañ, ivez, bremañ, ebet, neuze, setu</em>
+* `EMPTY` (530): <em>ket, ne, -se, n', -mañ, ivez, bremañ, ebet, neuze, setu</em>
 
 ### `ADJ`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `DET` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): <em>Peseurt</em>
-* `EMPTY` (1205): <em>ar, an, ur, al, r, un, e, ho, n, o</em>
+* `EMPTY` (1201): <em>ar, an, ur, r, al, un, e, ho, n, o</em>
 
 ## Relations with Agreement in `PronType`
 

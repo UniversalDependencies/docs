@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Npr`, `Pre`.
 
-143 tokens (0%) have a non-empty value of `PrepCase`.
+139 tokens (0%) have a non-empty value of `PrepCase`.
 28 types (1%) occur at least once with a non-empty value of `PrepCase`.
 2 lemmas (0%) occur at least once with a non-empty value of `PrepCase`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (143; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (139; 0% instances).
 
 ### `PRON`
 
-143 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `PrepCase`.
+139 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (143; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 57%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (73; 51%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (73; 51%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (139; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (139; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 58%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (71; 51%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (71; 51%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
-* `Npr` (67; 47% of non-empty `PrepCase`): <em>jej, je, jim, jí, jimiž, jehož, ji, jenž, jimi, jež</em>
-* `Pre` (76; 53% of non-empty `PrepCase`): <em>nichž, němž, němuž, nich, ní, níž, nějž, nimi, ně, něj</em>
+* `Npr` (67; 48% of non-empty `PrepCase`): <em>jej, je, jim, jí, jimiž, jehož, ji, jenž, jimi, jež</em>
+* `Pre` (72; 52% of non-empty `PrepCase`): <em>nichž, němž, němuž, nich, ní, níž, nějž, nimi, ně, něj</em>
 
 <table>
   <tr><th>Paradigm <i>jenž</i></th><th><tt>Npr</tt></th><th><tt>Pre</tt></th></tr>

@@ -14,14 +14,14 @@ udver: '2'
 </tr>
 </table>
 
-`Focus` the focus 'ne'
+`Focus` the focus 'te'
 
 ### <a name="Yes">`Yes`</a>: Focus
 
 
 #### Example
 
-* _<b>ẽrom itʃoka ne?</b>&nbsp;_ “Where may he build it?”
+* _<b>ẽrom itʃoka te?</b>&nbsp;_ “Where may he build it?”
 
 
 
@@ -31,4 +31,4 @@ udver: '2'
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:56 CEST -->

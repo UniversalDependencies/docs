@@ -6,9 +6,10 @@ udver: '2'
 ---
 
 A conjunct is the relation between two elements connected by a
-coordinating conjunction, such as _and, or,_ etc.  We treat
-conjunctions asymmetrically: The head of the relation is the first
-conjunct and all the other conjuncts depend on it via the `conj` relation.
+coordinating conjunction, such as _and, or,_ etc. Coordinate structures 
+are in principle symmetrical, but the first conjunction is by convention 
+treated as the parent (or “technical head”) of all subsequent coordinated clauses 
+via the `conj` relation.
 
 ~~~ sdparse
 Bill is big and honest
@@ -213,4 +214,4 @@ It is commonplace to buy flowers etc./NOUN for Valentine 's Day .
 conj(flowers, etc.)
 </div>
 
-<!-- Interlanguage links updated Po lis 14 15:35:17 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:59 CEST -->

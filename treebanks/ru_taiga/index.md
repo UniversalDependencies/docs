@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Olga Rudina, Natalia Vlasova, Anna Zhuravleva.
 
 Repository: [UD_Russian-Taiga](https://github.com/UniversalDependencies/UD_Russian-Taiga)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -92,7 +92,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 </ul>
 
 <ul>
-<li>This corpus contains 36287 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 36286 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -901,7 +901,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
           <li>PROPN: E, М, Стереолето, Хаджи-Мухаммед, инете, 0А, АА, АВ, Гелиодор, Н-209</li>
         </ul>
       </li>
-      <li>Patrn
+      <li>Pat
         <ul>
           <li>PROPN: Александровна, Владимировна, А., Дмитриевич, Анатольевна, В., С., Владимирович, И., Леонидович</li>
         </ul>

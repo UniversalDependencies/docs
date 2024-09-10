@@ -16,11 +16,11 @@ Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
-The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle.
+The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle, Ingerid Løyning Dale, Per Erik Solberg, Andre Kåsen.
 
 Repository: [UD_Norwegian-Bokmaal](https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_bokmaal211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_bokmaal214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: news, blog, nonfiction
 Questions, comments?
 General annotation questions (either Norwegian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal/issues).
-If you want to collaborate, please contact [liljao&nbsp;(æt)&nbsp;ifi&nbsp;•&nbsp;uio&nbsp;•&nbsp;no].
+If you want to collaborate, please contact [per&nbsp;•&nbsp;solberg&nbsp;(æt)&nbsp;nb&nbsp;•&nbsp;no].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -45,8 +45,9 @@ Do not submit pull requests against the UD repository.
 ## Description
 
 The Norwegian UD treebank is based on the Bokmål section of the Norwegian
-Dependency Treebank (NDT), which is a syntactic treebank of Norwegian. NDT has been automatically converted to the UD
-scheme by Lilja Øvrelid at the University of Oslo.
+Dependency Treebank (NDT), which is a syntactic treebank of Norwegian. The current version of NDT has been automatically converted to the UD
+scheme by Ingerid Løyning Dale, Per Erik Solberg and Andre Kåsen at the Norwegian Language Bank at the National Library of Norway.
+This conversion builds to a large extent on previous conversions by Lilja Øvrelid at the University of Oslo.
 
 
 
@@ -150,7 +151,8 @@ The conversion has not been manually checked. There are a few known discrepancie
 
 ## Acknowledgments
 
-NDT has been automatically converted to the UD scheme by Lilja Øvrelid at the University of Oslo. Petter Hohle created the data splits and Fredrik Jørgensen aligned the treebank to the original texts.
+NDT has been automatically converted to the UD scheme by Ingerid Løyning Dale, Per Erik Solberg and Andre Kåsen at the Norwegian Language Bank at the National Library of Norway.
+This conversion builds to a large extent on previous conversions by Lilja Øvrelid at the University of Oslo. Petter Hohle created the data splits and Fredrik Jørgensen aligned the treebank to the original texts.
 We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn and Per Erik Solberg.
 
 
@@ -166,7 +168,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 
 ## Relations
 
-[acl](no_bokmaal-dep-acl.html) – [acl:cleft](no_bokmaal-dep-acl-cleft.html) – [acl:relcl](no_bokmaal-dep-acl-relcl.html) – [advcl](no_bokmaal-dep-advcl.html) – [advmod](no_bokmaal-dep-advmod.html) – [amod](no_bokmaal-dep-amod.html) – [appos](no_bokmaal-dep-appos.html) – [aux](no_bokmaal-dep-aux.html) – [aux:pass](no_bokmaal-dep-aux-pass.html) – [case](no_bokmaal-dep-case.html) – [cc](no_bokmaal-dep-cc.html) – [ccomp](no_bokmaal-dep-ccomp.html) – [compound](no_bokmaal-dep-compound.html) – [compound:prt](no_bokmaal-dep-compound-prt.html) – [conj](no_bokmaal-dep-conj.html) – [cop](no_bokmaal-dep-cop.html) – [csubj](no_bokmaal-dep-csubj.html) – [csubj:pass](no_bokmaal-dep-csubj-pass.html) – [det](no_bokmaal-dep-det.html) – [discourse](no_bokmaal-dep-discourse.html) – [expl](no_bokmaal-dep-expl.html) – [flat:foreign](no_bokmaal-dep-flat-foreign.html) – [flat:name](no_bokmaal-dep-flat-name.html) – [iobj](no_bokmaal-dep-iobj.html) – [mark](no_bokmaal-dep-mark.html) – [nmod](no_bokmaal-dep-nmod.html) – [nsubj](no_bokmaal-dep-nsubj.html) – [nsubj:pass](no_bokmaal-dep-nsubj-pass.html) – [nummod](no_bokmaal-dep-nummod.html) – [obj](no_bokmaal-dep-obj.html) – [obl](no_bokmaal-dep-obl.html) – [orphan](no_bokmaal-dep-orphan.html) – [parataxis](no_bokmaal-dep-parataxis.html) – [punct](no_bokmaal-dep-punct.html) – [reparandum](no_bokmaal-dep-reparandum.html) – [root](no_bokmaal-dep-root.html) – [xcomp](no_bokmaal-dep-xcomp.html)
+[acl](no_bokmaal-dep-acl.html) – [acl:relcl](no_bokmaal-dep-acl-relcl.html) – [advcl](no_bokmaal-dep-advcl.html) – [advmod](no_bokmaal-dep-advmod.html) – [amod](no_bokmaal-dep-amod.html) – [appos](no_bokmaal-dep-appos.html) – [aux](no_bokmaal-dep-aux.html) – [aux:pass](no_bokmaal-dep-aux-pass.html) – [case](no_bokmaal-dep-case.html) – [cc](no_bokmaal-dep-cc.html) – [ccomp](no_bokmaal-dep-ccomp.html) – [compound](no_bokmaal-dep-compound.html) – [conj](no_bokmaal-dep-conj.html) – [cop](no_bokmaal-dep-cop.html) – [csubj](no_bokmaal-dep-csubj.html) – [csubj:outer](no_bokmaal-dep-csubj-outer.html) – [det](no_bokmaal-dep-det.html) – [discourse](no_bokmaal-dep-discourse.html) – [dislocated](no_bokmaal-dep-dislocated.html) – [expl](no_bokmaal-dep-expl.html) – [flat](no_bokmaal-dep-flat.html) – [flat:foreign](no_bokmaal-dep-flat-foreign.html) – [flat:name](no_bokmaal-dep-flat-name.html) – [iobj](no_bokmaal-dep-iobj.html) – [mark](no_bokmaal-dep-mark.html) – [nmod](no_bokmaal-dep-nmod.html) – [nsubj](no_bokmaal-dep-nsubj.html) – [nsubj:outer](no_bokmaal-dep-nsubj-outer.html) – [nummod](no_bokmaal-dep-nummod.html) – [obj](no_bokmaal-dep-obj.html) – [obl](no_bokmaal-dep-obl.html) – [orphan](no_bokmaal-dep-orphan.html) – [parataxis](no_bokmaal-dep-parataxis.html) – [punct](no_bokmaal-dep-punct.html) – [reparandum](no_bokmaal-dep-reparandum.html) – [root](no_bokmaal-dep-root.html) – [xcomp](no_bokmaal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -176,7 +178,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus contains 34509 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 34461 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -203,11 +205,11 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus contains 50 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, der, dere, deres, det, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, som, sånt, vi, vår, whatever, you, æ</li>
+<li>This corpus contains 49 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, der, dere, deres, det, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, sånt, vi, vår, whatever, you, æ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 38 lemmas tagged as determiners (DET): 135a, all, alle, annen, begge, de, den, denne, det, dette, disse, egen, en, endel, enhver, fire-fem, forrige, hin, hver, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sjøl, slik, sådan, sånn, tenish, the</li>
+<li>This corpus contains 47 lemmas tagged as determiners (DET): 135a, CD, I, II, III, IV, VM, XIII, XV, XVI, all, alle, annen, begge, de, den, denne, det, dette, disse, egen, en, endel, enhver, fire-fem, forrige, hin, hver, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sjøl, slik, sådan, sånn, tenish, the</li>
 </ul>
 
 <ul>
@@ -223,7 +225,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -231,6 +233,14 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
   <ul>
     <li>AUX: er, har, var, kan, vil, skal, ble, må, hadde, skulle</li>
     <li>VERB: har, sier, er, blir, kommer, går, mener, ble, får, kom</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Fin,Part
+  <ul>
+    <li>VERB: hjerteoperert, overrasket</li>
   </ul>
   </li>
 </ul>
@@ -276,7 +286,11 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Fem,Masc
     <ul>
+      <li>ADJ: stor, ny, god, norsk, liten, politisk, klar, full, sterk, mye</li>
+      <li>ADJ-Part: økt, bekymret, overrasket, knyttet, lovforankret, redusert, ønsket, imponert, samlet, interessert</li>
+      <li>NOUN: Sportssjef</li>
       <li>PRON: den, noen, denne, ingen, enhver, der</li>
+      <li>VERB-Fin,Part: overrasket</li>
     </ul>
   </li>
 </ul>
@@ -329,9 +343,9 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: mange, store, nye, norske, siste, gode, få, ulike, 22., ansatte</li>
+      <li>ADJ: mange, store, nye, norske, siste, gode, få, ulike, ansatte, enkelte</li>
       <li>ADJ-Part: økte, fredede, gjentatte, interesserte, samlede, forente, kvalifiserte, solgte, tapte, undertrykte</li>
-      <li>DET: de, andre, alle, noen, disse, slike, egne, ingen, begge, hvilke</li>
+      <li>DET: de, andre, alle, noen, disse, slike, ingen, egne, begge, hvilke</li>
       <li>NOUN: år, prosent, folk, barn, mennesker, ganger, kroner, land, ting, millioner</li>
       <li>NUM: to, tre, fire, 2, fem, ti, 20, seks, 3, 50</li>
       <li>PRON: vi, de, oss, dem, sine, alle, våre, ingen, dere, hverandre</li>
@@ -356,7 +370,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       <li>NOUN: dag, gang, tid, verden, del, år, kirke, landet, grunn, saken</li>
       <li>NUM: ett, én, ene, 1, halvannen, annenhver, halvannet, mangt, 1., annethvert</li>
       <li>PRON: det, jeg, han, hun, du, dette, man, sin, meg, den</li>
-      <li>VERB-Part: overrasket</li>
+      <li>VERB-Fin,Part: overrasket</li>
     </ul>
   </li>
 </ul>
@@ -435,7 +449,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       <li>ADJ-Part: økt, bekymret, knyttet, samlet, overrasket, bortsett, interessert, lovforankret, integrert, redusert</li>
       <li>DET: annet, annen, egen, eget, annens</li>
       <li>NOUN: år, dag, prosent, gang, tid, folk, verden, land, barn, del</li>
-      <li>VERB-Part: overrasket</li>
+      <li>VERB-Fin,Part: overrasket</li>
     </ul>
   </li>
 </ul>
@@ -480,7 +494,6 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
     <ul>
       <li>DET: ingen, intet</li>
       <li>PART: ikke</li>
-      <li>PRON: ingen, ingenting</li>
     </ul>
   </li>
 </ul>
@@ -508,6 +521,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
     <ul>
       <li>AUX-Fin: er, har, var, kan, vil, skal, ble, må, hadde, skulle</li>
       <li>VERB-Fin: har, sier, er, blir, kommer, går, mener, ble, får, hadde</li>
+      <li>VERB-Fin,Part: hjerteoperert, overrasket</li>
     </ul>
   </li>
 </ul>
@@ -530,6 +544,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
     <ul>
       <li>AUX-Fin: er, har, kan, vil, skal, må, blir, bør, får, tør</li>
       <li>VERB-Fin: har, sier, er, blir, kommer, går, mener, får, ser, gjør</li>
+      <li>VERB-Fin,Part: hjerteoperert, overrasket</li>
     </ul>
   </li>
 </ul>
@@ -613,26 +628,10 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-  <li>Neg
-    <ul>
-      <li>DET: ingen, intet</li>
-      <li>PRON: ingenting</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Neg,Prs
-    <ul>
-      <li>PRON: ingen</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Prs
     <ul>
-      <li>DET: selv, egen, egne, eget, selve, 135a, sjøl, selveste, the, fire-fem</li>
+      <li>DET: selv, egen, egne, eget, selve, 135a, II, sjøl, selveste, the</li>
+      <li>NOUN: CD</li>
       <li>PRON: det, jeg, han, vi, de, seg, hun, du, dette, man</li>
     </ul>
   </li>
@@ -655,14 +654,6 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-  <li>Rel
-    <ul>
-      <li>PRON: som</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Tot
     <ul>
       <li>DET: alle, hver, hvert, all, begge, alt, enhver, samtlige, ethvert, alles</li>
@@ -678,6 +669,14 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
   <li>Card
     <ul>
       <li>NUM: to, tre, fire, eneste, ett, 2, fem, ti, 20, seks</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: første, andre, tredje, 22., 2., 1., 14., fjerde, 17., 20.</li>
     </ul>
   </li>
 </ul>
@@ -746,8 +745,8 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       <li>Yes
         <ul>
           <li>ADJ: a, kgl., flg, lat., s.k.</li>
-          <li>ADP: bl.a., pr., bl, f, pr, f., inkl., mht., bla, p.g.a.</li>
-          <li>ADV: ca, ca., dvs., f.eks., m.m., dvs, osv., m.v., mv, o.l.</li>
+          <li>ADP: pr., bl, f, pr, f., inkl., mht., bl.a., bla, p.g.a.</li>
+          <li>ADV: bl.a., ca, ca., dvs., f.eks., m.m., dvs, osv., m.v., mv</li>
           <li>NOUN: dr., nr, NATO, PST, pst., kr, kl., res, eks, Nato</li>
           <li>PROPN: USA, Frp, FN, EU, Ap, KrF, SV, Sp, Fr.p., FNs</li>
           <li>VERB-Fin: jf</li>
@@ -766,7 +765,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunne, ville, skulle, være, måtte, få, burde, tørre.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunne, ville, skulle, måtte, få, burde, tørre.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
 </ul>
 
@@ -776,21 +775,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (4772)</li>
+      <li>VERB-Fin--NOUN (5496)</li>
+      <li>VERB-Fin--NOUN-ADP(borte)-ADP(fra) (1)</li>
       <li>VERB-Fin--NOUN-ADP(med) (10)</li>
       <li>VERB-Fin--NOUN-ADP(over) (2)</li>
-      <li>VERB-Fin--PRON (2629)</li>
+      <li>VERB-Fin--PRON (1077)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Nom (5622)</li>
-      <li>VERB-Inf--NOUN (1057)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(hjemme)-ADP(med) (1)</li>
+      <li>VERB-Fin--PRON-Nom (5660)</li>
+      <li>VERB-Inf--NOUN (1321)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--PRON (534)</li>
+      <li>VERB-Inf--PRON (351)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
-      <li>VERB-Inf--PRON-Nom (1462)</li>
-      <li>VERB-Part--NOUN (1045)</li>
+      <li>VERB-Inf--PRON-Nom (1484)</li>
+      <li>VERB-Part--NOUN (1556)</li>
       <li>VERB-Part--NOUN-ADP(med) (1)</li>
-      <li>VERB-Part--PRON (511)</li>
-      <li>VERB-Part--PRON-Nom (1016)</li>
+      <li>VERB-Part--NOUN-ADP(over) (1)</li>
+      <li>VERB-Part--PRON (239)</li>
+      <li>VERB-Part--PRON-Nom (1180)</li>
     </ul>
   </li>
 </ul>
@@ -798,20 +800,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5102)</li>
+      <li>VERB-Fin--NOUN (5164)</li>
       <li>VERB-Fin--NOUN-ADP(over) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--PRON (784)</li>
-      <li>VERB-Fin--PRON-Acc (819)</li>
-      <li>VERB-Fin--PRON-Nom (11)</li>
-      <li>VERB-Inf--NOUN (3501)</li>
-      <li>VERB-Inf--PRON (400)</li>
+      <li>VERB-Fin--PRON (601)</li>
+      <li>VERB-Fin--PRON-Acc (820)</li>
+      <li>VERB-Fin--PRON-Nom (10)</li>
+      <li>VERB-Inf--NOUN (3522)</li>
+      <li>VERB-Inf--PRON (371)</li>
       <li>VERB-Inf--PRON-ADP(med) (1)</li>
       <li>VERB-Inf--PRON-Acc (499)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
-      <li>VERB-Part--NOUN (1271)</li>
-      <li>VERB-Part--PRON (172)</li>
-      <li>VERB-Part--PRON-Acc (182)</li>
+      <li>VERB-Part--NOUN (1283)</li>
+      <li>VERB-Part--PRON (116)</li>
+      <li>VERB-Part--PRON-Acc (183)</li>
     </ul>
   </li>
 </ul>
@@ -820,13 +822,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (61)</li>
-      <li>VERB-Fin--PRON (81)</li>
+      <li>VERB-Fin--PRON (8)</li>
       <li>VERB-Fin--PRON-Acc (216)</li>
-      <li>VERB-Inf--NOUN (72)</li>
-      <li>VERB-Inf--PRON (14)</li>
+      <li>VERB-Inf--NOUN (73)</li>
+      <li>VERB-Inf--PRON (5)</li>
       <li>VERB-Inf--PRON-Acc (109)</li>
       <li>VERB-Part--NOUN (12)</li>
-      <li>VERB-Part--PRON (14)</li>
       <li>VERB-Part--PRON-Acc (48)</li>
     </ul>
   </li>
@@ -846,7 +847,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:outer</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

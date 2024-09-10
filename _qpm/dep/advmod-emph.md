@@ -43,3 +43,4 @@ défjon poískova éše ennóš
 the dragon asked once more
 advmod:emph (ennóš, éše)            note: “éše” is a dialectic variant of “jéšte”
 ~~~ 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->

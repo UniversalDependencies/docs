@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3397 nodes (18%) are attached to their parents as `punct`.
+3399 nodes (18%) are attached to their parents as `punct`.
 
-3206 instances of `punct` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22166617603768.
+3208 instances of `punct` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.22065313327449.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (3153; 93% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (123; 4% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (72; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (24; 1% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (3154; 93% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (124; 4% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (73; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (23; 1% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_framenet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

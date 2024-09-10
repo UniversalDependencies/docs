@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1864 nodes (1%) are attached to their parents as `cop`.
+1863 nodes (1%) are attached to their parents as `cop`.
 
-1236 instances of `cop` (66%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.14592274678112.
+1234 instances of `cop` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.12130971551261.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (1017; 55% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (527; 28% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (158; 8% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (117; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (33; 2% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (1015; 54% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (531; 29% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (157; 8% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (117; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (32; 2% instances), <tt><a href="grc_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="grc_perseus-pos-DET.html">DET</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,22 +55,20 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 10 cop	color:blue
-1	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	det	_	_
-2	γὰρ	γάρ	ADV	d--------	_	4	advmod	_	_
-3	πλεῖστα	πλεῖστος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	nsubj	_	_
-4	γίνεσθαι	γίγνομαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	0	root	_	_
-5	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
-6	προχωρεῖν	προχωρέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	_
-7	δἰ	διά	ADP	r--------	_	8	case	_	_
-8	Ἀλκιβιάδην	Ἀλκιβιάδης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
-9	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-10	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
-11	·	·	PUNCT	u--------	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 cop	color:blue
+1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Gender=Neut|Number=Sing	4	det	_	_
+2	οὖν	οὖν	ADV	d--------	_	8	advmod	_	_
+3	ἡδονὰς	ἡδονά	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
+4	διώκειν	διώκω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	csubj	_	_
+5	προπετῶς	προπετής	ADV	d--------	_	4	advmod	_	_
+6	λύπας	λύπη	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	8	obj	_	_
+7	ἐστὶ	εἰμί	AUX	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	θηρεύειν	θηρεύω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	u--------	_	8	punct	_	_
 
 ~~~
 

@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 19	cosa	cosa	PRON	PQ	PronType=Int	21	obj	_	_
 20	stai	stare	AUX	VA	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	21	aux	_	_
 21	aspettando	aspettare	VERB	V	VerbForm=Ger	2	parataxis	_	SpaceAfter=No
-22	?	?	PUNCT	FS	_	21	punct	_	SpaceAfter=\n
+22	?	?	PUNCT	FS	_	21	punct	_	SpacesAfter=\n
 
 ~~~
 

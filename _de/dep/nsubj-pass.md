@@ -12,4 +12,4 @@ Das Bild wurde von Picasso gemalt . \n The painting was painted by Picasso .
 nsubj:pass(gemalt, Bild)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:35 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:29 CEST -->

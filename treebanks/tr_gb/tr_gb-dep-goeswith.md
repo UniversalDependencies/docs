@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="tr_gb-pos-DET.html">DET</a></tt>-<tt><a href="tr_gb-pos-DET.html">DET</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="tr_gb-pos-DET.html">DET</a></tt>-<tt><a href="tr_gb-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	olduktan	ol	AUX	_	Case=Abl|Number=Sing|Tense=Past|VerbForm=Part	4	cop	_	_
 6	sonra	sonra	ADP	_	_	4	mark	_	_
 7	artık	artık	ADV	_	_	11	advmod	_	_
-8	hiç	hiç	DET	_	Definite=Ind|Polarity=Neg|PronType=Art	10	det	_	_
-9	bir	bir	DET	_	Definite=Ind|PronType=Art	8	goeswith	_	_
+8	hiç	hiçbir	DET	_	Definite=Ind|Polarity=Neg|PronType=Art|Typo=Yes	10	det	_	_
+9	bir	_	X	_	_	8	goeswith	_	_
 10	işe	iş	NOUN	_	Case=Dat|Number=Sing	11	obl	_	_
 11	yaramadığı	yara	VERB	_	Case=Acc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part	12	acl	_	_
 12	kaygısına	kaygı	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	_

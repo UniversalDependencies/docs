@@ -26,9 +26,9 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	nsubj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
-4	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-5	te	lui	PRON	_	Number=Sing|Person=2|PronType=Prs	6	obj	_	_
-6	dis	dire	VERB	DISCOURSE	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	discourse	_	SpaceAfter=No
+4	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	te	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	6	obj	_	_
+6	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	dix-huit	dix-huit	NUM	_	Number=Plur	2	obl:mod	_	_
 9	cent	cent	NUM	_	Number=Plur	8	flat	_	_
@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 15 17 flat	color:blue
 1	là	là	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
 4	remontez	remonter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
@@ -59,9 +59,9 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	machin	machin	NOUN	_	Gender=Masc|Number=Sing	15	reparandum	_	_
 13	Sembat	Sembat	PROPN	_	_	12	flat	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	Sembat	Sembat	PROPN	conj:reform	_	6	nmod:appos	_	_
-16	quelque	quelque	DET	_	Number=Sing|Person=3|PronType=Ind	17	det	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	Sembat	Sembat	PROPN	_	_	6	nmod:appos	_	_
+16	quelque	quelque	DET	_	Number=Sing|PronType=Ind	17	det	_	_
 17	chose	chose	NOUN	_	Gender=Fem|Number=Sing	15	flat	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -76,7 +76,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 12 13 flat	color:blue
 1	là	là	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
 4	remontez	remonter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	boulevard	boulevard	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
@@ -87,9 +87,9 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	machin	machin	NOUN	_	Gender=Masc|Number=Sing	15	reparandum	_	_
 13	Sembat	Sembat	PROPN	_	_	12	flat	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	_	_
-15	Sembat	Sembat	PROPN	conj:reform	_	6	nmod:appos	_	_
-16	quelque	quelque	DET	_	Number=Sing|Person=3|PronType=Ind	17	det	_	_
+14	,	,	PUNCT	_	_	12	punct	_	_
+15	Sembat	Sembat	PROPN	_	_	6	nmod:appos	_	_
+16	quelque	quelque	DET	_	Number=Sing|PronType=Ind	17	det	_	_
 17	chose	chose	NOUN	_	Gender=Fem|Number=Sing	15	flat	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
 

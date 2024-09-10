@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Irr">Irr</a></td>
-  <td><a href="#Qot">Qot</a></td>
+  <td><a href="#Qot">Sub</a></td>
   <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
@@ -21,7 +21,7 @@ udver: '2'
 #### Example
 
 
-### <a name="Imp">`Imp`</a>: irrealis
+### <a name="Imp">`Imp`</a>: imperative
 
 
 #### Example
@@ -35,10 +35,11 @@ udver: '2'
 
 #### Example
 
+
 ### <a name="Sub">`Sub`</a>: subjunctive
 
 
 #### Example
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->

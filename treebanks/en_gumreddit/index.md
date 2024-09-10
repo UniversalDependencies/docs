@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUMReddit](https://github.com/UniversalDependencies/UD_English-GUMReddit)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -52,7 +52,7 @@ Universal Dependencies syntax annotations from the Reddit portion of the GUM cor
 
 In order to obtain the underlying text, you will need to use the script `get_text.py`. For more information on the underlying Reddit text see [this page](https://github.com/amir-zeldes/gum/blob/master/README_reddit.md). For Universal Dependencies annotations of other genres from GUM, see https://github.com/UniversalDependencies/UD_English-GUM
 
-GUM, the Georgetown University Multilayer corpus, is an open source collection of richly annotated texts from multiple text types. The corpus is collected and expanded by students as part of the curriculum in the course LING-367 "Computational Corpus Linguistics" at Georgetown University. The selection of text types is meant to represent different communicative purposes, while coming from sources that are readily and openly available (usually Creative Commons licenses), so that new texts can be annotated and published with ease.
+GUM, the Georgetown University Multilayer corpus, is an open source collection of richly annotated texts from multiple text types. The corpus is collected and expanded by students as part of the curriculum in the course LING-4427 "Computational Corpus Linguistics" at Georgetown University. The selection of text types is meant to represent different communicative purposes, while coming from sources that are readily and openly available (usually Creative Commons licenses), so that new texts can be annotated and published with ease.
 
 The dependencies in the corpus up to GUM version 5 were originally annotated using Stanford Typed Depenencies (de Marneffe & Manning 2013) and converted automatically to UD using DepEdit (https://gucorpling.org/depedit/). The rule-based conversion took into account gold entity annotations found in other annotation layers of the GUM corpus (e.g. entity annotations), and has since been corrected manually in native UD. The original conversion script used can found in the GUM build bot code from version 5, available from the (non-UD) GUM repository. Documents from version 6 of GUM onwards were annotated directly in UD, and subsequent manual error correction to all GUM data has also been done directly using the UD guidelines. Enhanced dependencies were added semi-automatically from version 7.1 of the corpus. For more details see the [corpus website](https://gucorpling.org/gum/).
 
@@ -60,7 +60,7 @@ The dependencies in the corpus up to GUM version 5 were originally annotated usi
 
 GUM annotation team (so far - thanks for participating!)
 
-Adrienne Isaac, Akitaka Yamada, Alex Giorgioni, Alexandra Berends, Alexandra Slome, Amani Aloufi, Amber Hall, Amelia Becker, Andrea Price, Andrew O'Brien, Anna Runova, Anne Butler, Arianna Janoff, Aryaman Arora, Ayan Mandal, Aysenur Sagdic, Bertille Baron, Bradford Salen, Brandon Tullock, Brent Laing, Candice Penelton, Charlie Dees, Chenyue Guo, Colleen Diamond, Connor O'Dwyer, Cristina Lopez, Dan Simonson, Derek Reagan, Didem Ikizoglu, Edwin Ko, Emile Zahr, Emily Pace, Emma Manning, Ethan Beaman, Felipe De Jesus, Han Bu, Hana Altalhi, Hang Jiang, Hannah Wingett, Hanwool Choe, Hassan Munshi, Helen Dominic, Ho Fai Cheng, Hortensia Gutierrez, Jakob Prange, James Maguire, Janine Karo, Jehan al-Mahmoud, Jemm Excelle Dela Cruz, Jessica Cusi, Jessica Kotfila, Joaquin Gris Roca, John Chi, Jongbong Lee, Juliet May, Jungyoon Koh, Katarina Starcevic, Katelyn MacDougald, Katherine Vadella, Khalid Alharbi, Lara Bryfonski, Lauren Levine, Leah Northington, Lindley Winchester, Linxi Zhang, Siyao Peng, Lucia Donatelli, Luke Gessler, Mackenzie Gong, Margaret Anne Rowe, Margaret Borowczyk, Maria Stoianova, Mariko Uno, Mary Henderson, Maya Barzilai, Md. Jahurul Islam, Michael Kranzlein, Michaela Harrington, Minnie Annan, Mitchell Abrams, Mohammad Ali Yektaie, Naomee-Minh Nguyen, Negar Siyari, Nicholas Mararac, Nicholas Workman, Nicole Steinberg, Nitin Venkateswaran, Phoebe Fisher, Rachel Thorson, Rebecca Childress, Rebecca Farkas, Riley Breslin Amalfitano, Rima Elabdali, Robert Maloney, Ruizhong Li, Ryan Mannion, Ryan Murphy, Sakol Suethanapornkul, Sarah Bellavance, Sasha Slone, Sean Macavaney, Sean Simpson, Seyma Toker, Shane Quinn, Shannon Mooney, Shelby Lake, Shira Wein, Sichang Tu, Siddharth Singh, Siyu Liang, Stephanie Kramer, Sylvia Sierra, Talal Alharbi, Tatsuya Aoyama, Timothy Ingrassia, Trevor Adriaanse, Ulie Xu, Wai Ching Leung, Wenxi Yang, Xiaopei Wu, Yang Liu, Yi-Ju Lin, Yifu Mu, Yilun Zhu, Yingzhu Chen, Yiran Xu, Young-A Son, Yu-Tzu Chang, Yuhang Hu, Yunjung Ku, Yushi Zhao, Zhuosi Luo, Zhuxin Wang, Amir Zeldes
+Adrienne Isaac, Akitaka Yamada, Alex Giorgioni, Alexandra Berends, Alexandra Slome, Amani Aloufi, Amber Hall, Amelia Becker, Andrea Price, Andrew O'Brien, Ángeles Ortega Luque, Aniya Harris, Anna Prince, Anna Runova, Anne Butler, Arianna Janoff, Aryaman Arora, Ayan Mandal, Aysenur Sagdic, Bertille Baron, Bradford Salen, Brandon Tullock, Brent Laing, Caitlyn Pineault, Calvin Engstrom, Candice Penelton, Carlotta Hübener, Caroline Gish, Charlie Dees, Chenyue Guo, Chloe Evered, Cindy Luo, Colleen Diamond, Connor O'Dwyer, Cristina Lopez, Cynthia Li, Dan DeGenaro, Dan Simonson, Derek Reagan, Devika Tiwari, Didem Ikizoglu, Edwin Ko, Eliza Rice, Emile Zahr, Emily Pace, Emma Manning, Emma Rafkin, Ethan Beaman, Felipe De Jesus, Han Bu, Hana Altalhi, Hang Jiang, Hannah Wingett, Hanwool Choe, Hassan Munshi, Helen Dominic, Ho Fai Cheng, Hortensia Gutierrez, Jakob Prange, James Maguire, Janine Karo, Jehan al-Mahmoud, Jemm Excelle Dela Cruz, Jess Godes, Jessica Cusi, Jessica Kotfila, Jingni Wu, Joaquin Gris Roca, John Chi, Jongbong Lee, Juliet May, Jungyoon Koh, Katarina Starcevic, Katelyn Carroll, Katelyn MacDougald, Katherine Vadella, Khalid Alharbi, Kristen Cook, Lara Bryfonski, Lauren Levine, Leah Northington, Lindley Winchester, Linxi Zhang, Lucia Donatelli, Luke Gessler, Mackenzie Gong, Margaret Anne Rowe, Margaret Borowczyk, Maria Laura Zalazar, Maria Stoianova, Mariko Uno, Mary Henderson, Maya Barzilai, Md. Jahurul Islam, Michael Kranzlein, Michaela Harrington, Mingyeong Choi, Minnie Annan, Mitchell Abrams, Mohammad Ali Yektaie, Naomee-Minh Nguyen, Negar Siyari, Nicholas Mararac, Nicholas Workman, Nicole Steinberg, Nitin Venkateswaran, Parker DiPaolo, Phoebe Fisher, Rachel Kerr, Rachel Thorson, Rebecca Childress, Rebecca Farkas, Riley Breslin Amalfitano, Rima Elabdali, Robert Maloney, Ruizhong Li, Ryan Mannion, Ryan Murphy, Sakol Suethanapornkul, Sarah Bellavance, Sarah Carlson, Sasha Slone, Saurav Goswami, Sean Macavaney, Sean Simpson, Seyma Toker, Shane Quinn, Shannon Mooney, Shelby Lake, Shira Wein, Sichang Tu, Siddharth Singh, Siona Ely, Siyao Peng, Siyu Liang, Stephanie Kramer, Sylvia Sierra, Talal Alharbi, Tatsuya Aoyama, Tess Feyen, Timothy Ingrassia, Trevor Adriaanse, Ulie Xu, Wai Ching Leung, Wenxi Yang, Wesley Scivetti, Xiaopei Wu, Xiulin Yang, Yang Liu, Yi-Ju Lin, Yifu Mu, Yilun Zhu, Yingzhu Chen, Yiran Xu, Young-A Son, Yu-Tzu Chang, Yuhang Hu, Yunjung Ku, Yushi Zhao, Zhijie Song, Zhuosi Luo, Zhuxin Wang, Amir Zeldes
 
 ... and other annotators who wish to remain anonymous!
 
@@ -106,21 +106,21 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 ## Features
 
-[Abbr](en_gumreddit-feat-Abbr.html) – [Case](en_gumreddit-feat-Case.html) – [Definite](en_gumreddit-feat-Definite.html) – [Degree](en_gumreddit-feat-Degree.html) – [Gender](en_gumreddit-feat-Gender.html) – [Mood](en_gumreddit-feat-Mood.html) – [Number](en_gumreddit-feat-Number.html) – [NumForm](en_gumreddit-feat-NumForm.html) – [NumType](en_gumreddit-feat-NumType.html) – [Person](en_gumreddit-feat-Person.html) – [Polarity](en_gumreddit-feat-Polarity.html) – [Poss](en_gumreddit-feat-Poss.html) – [PronType](en_gumreddit-feat-PronType.html) – [Reflex](en_gumreddit-feat-Reflex.html) – [Tense](en_gumreddit-feat-Tense.html) – [Typo](en_gumreddit-feat-Typo.html) – [VerbForm](en_gumreddit-feat-VerbForm.html) – [Voice](en_gumreddit-feat-Voice.html)
+[Abbr](en_gumreddit-feat-Abbr.html) – [Case](en_gumreddit-feat-Case.html) – [Definite](en_gumreddit-feat-Definite.html) – [Degree](en_gumreddit-feat-Degree.html) – [Gender](en_gumreddit-feat-Gender.html) – [Mood](en_gumreddit-feat-Mood.html) – [Number](en_gumreddit-feat-Number.html) – [NumForm](en_gumreddit-feat-NumForm.html) – [NumType](en_gumreddit-feat-NumType.html) – [Person](en_gumreddit-feat-Person.html) – [Polarity](en_gumreddit-feat-Polarity.html) – [Poss](en_gumreddit-feat-Poss.html) – [PronType](en_gumreddit-feat-PronType.html) – [Reflex](en_gumreddit-feat-Reflex.html) – [Style](en_gumreddit-feat-Style.html) – [Tense](en_gumreddit-feat-Tense.html) – [Typo](en_gumreddit-feat-Typo.html) – [VerbForm](en_gumreddit-feat-VerbForm.html) – [Voice](en_gumreddit-feat-Voice.html)
 
 ## Relations
 
-[acl](en_gumreddit-dep-acl.html) – [acl:relcl](en_gumreddit-dep-acl-relcl.html) – [advcl](en_gumreddit-dep-advcl.html) – [advcl:relcl](en_gumreddit-dep-advcl-relcl.html) – [advmod](en_gumreddit-dep-advmod.html) – [amod](en_gumreddit-dep-amod.html) – [appos](en_gumreddit-dep-appos.html) – [aux](en_gumreddit-dep-aux.html) – [aux:pass](en_gumreddit-dep-aux-pass.html) – [case](en_gumreddit-dep-case.html) – [cc](en_gumreddit-dep-cc.html) – [cc:preconj](en_gumreddit-dep-cc-preconj.html) – [ccomp](en_gumreddit-dep-ccomp.html) – [compound](en_gumreddit-dep-compound.html) – [compound:prt](en_gumreddit-dep-compound-prt.html) – [conj](en_gumreddit-dep-conj.html) – [cop](en_gumreddit-dep-cop.html) – [csubj](en_gumreddit-dep-csubj.html) – [csubj:pass](en_gumreddit-dep-csubj-pass.html) – [dep](en_gumreddit-dep-dep.html) – [det](en_gumreddit-dep-det.html) – [det:predet](en_gumreddit-dep-det-predet.html) – [discourse](en_gumreddit-dep-discourse.html) – [dislocated](en_gumreddit-dep-dislocated.html) – [expl](en_gumreddit-dep-expl.html) – [fixed](en_gumreddit-dep-fixed.html) – [flat](en_gumreddit-dep-flat.html) – [goeswith](en_gumreddit-dep-goeswith.html) – [iobj](en_gumreddit-dep-iobj.html) – [mark](en_gumreddit-dep-mark.html) – [nmod](en_gumreddit-dep-nmod.html) – [nmod:poss](en_gumreddit-dep-nmod-poss.html) – [nmod:tmod](en_gumreddit-dep-nmod-tmod.html) – [nsubj](en_gumreddit-dep-nsubj.html) – [nsubj:outer](en_gumreddit-dep-nsubj-outer.html) – [nsubj:pass](en_gumreddit-dep-nsubj-pass.html) – [nummod](en_gumreddit-dep-nummod.html) – [obj](en_gumreddit-dep-obj.html) – [obl](en_gumreddit-dep-obl.html) – [obl:agent](en_gumreddit-dep-obl-agent.html) – [obl:npmod](en_gumreddit-dep-obl-npmod.html) – [obl:tmod](en_gumreddit-dep-obl-tmod.html) – [parataxis](en_gumreddit-dep-parataxis.html) – [punct](en_gumreddit-dep-punct.html) – [reparandum](en_gumreddit-dep-reparandum.html) – [root](en_gumreddit-dep-root.html) – [vocative](en_gumreddit-dep-vocative.html) – [xcomp](en_gumreddit-dep-xcomp.html)
+[acl](en_gumreddit-dep-acl.html) – [acl:relcl](en_gumreddit-dep-acl-relcl.html) – [advcl](en_gumreddit-dep-advcl.html) – [advcl:relcl](en_gumreddit-dep-advcl-relcl.html) – [advmod](en_gumreddit-dep-advmod.html) – [amod](en_gumreddit-dep-amod.html) – [appos](en_gumreddit-dep-appos.html) – [aux](en_gumreddit-dep-aux.html) – [aux:pass](en_gumreddit-dep-aux-pass.html) – [case](en_gumreddit-dep-case.html) – [cc](en_gumreddit-dep-cc.html) – [cc:preconj](en_gumreddit-dep-cc-preconj.html) – [ccomp](en_gumreddit-dep-ccomp.html) – [compound](en_gumreddit-dep-compound.html) – [compound:prt](en_gumreddit-dep-compound-prt.html) – [conj](en_gumreddit-dep-conj.html) – [cop](en_gumreddit-dep-cop.html) – [csubj](en_gumreddit-dep-csubj.html) – [csubj:pass](en_gumreddit-dep-csubj-pass.html) – [dep](en_gumreddit-dep-dep.html) – [det](en_gumreddit-dep-det.html) – [det:predet](en_gumreddit-dep-det-predet.html) – [discourse](en_gumreddit-dep-discourse.html) – [dislocated](en_gumreddit-dep-dislocated.html) – [expl](en_gumreddit-dep-expl.html) – [fixed](en_gumreddit-dep-fixed.html) – [flat](en_gumreddit-dep-flat.html) – [goeswith](en_gumreddit-dep-goeswith.html) – [iobj](en_gumreddit-dep-iobj.html) – [mark](en_gumreddit-dep-mark.html) – [nmod](en_gumreddit-dep-nmod.html) – [nmod:npmod](en_gumreddit-dep-nmod-npmod.html) – [nmod:poss](en_gumreddit-dep-nmod-poss.html) – [nmod:tmod](en_gumreddit-dep-nmod-tmod.html) – [nsubj](en_gumreddit-dep-nsubj.html) – [nsubj:outer](en_gumreddit-dep-nsubj-outer.html) – [nsubj:pass](en_gumreddit-dep-nsubj-pass.html) – [nummod](en_gumreddit-dep-nummod.html) – [obj](en_gumreddit-dep-obj.html) – [obl](en_gumreddit-dep-obl.html) – [obl:agent](en_gumreddit-dep-obl-agent.html) – [obl:npmod](en_gumreddit-dep-obl-npmod.html) – [obl:tmod](en_gumreddit-dep-obl-tmod.html) – [parataxis](en_gumreddit-dep-parataxis.html) – [punct](en_gumreddit-dep-punct.html) – [reparandum](en_gumreddit-dep-reparandum.html) – [root](en_gumreddit-dep-root.html) – [vocative](en_gumreddit-dep-vocative.html) – [xcomp](en_gumreddit-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 895 sentences, 15995 tokens and 16364 syntactic words.</li>
+<li>This corpus contains 895 sentences, 15958 tokens and 16364 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1957 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 1922 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -132,7 +132,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
-<li>This corpus contains 369 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 406 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 1 types of multi-word tokens. Examples: __.</li>
 </ul>
 
@@ -258,9 +258,16 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
+  <li>Ptan
+    <ul>
+      <li>NOUN: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Sing
     <ul>
-      <li>ADJ: _</li>
       <li>AUX-Fin: _</li>
       <li>DET: _</li>
       <li>NOUN: _</li>
@@ -342,7 +349,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>ADJ: _</li>
       <li>ADV: _</li>
-      <li>SCONJ: _</li>
     </ul>
   </li>
 </ul>
@@ -402,6 +408,14 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Tense</a></li>
 </ul>
 
@@ -420,6 +434,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Pres
     <ul>
       <li>AUX-Fin: _</li>
+      <li>AUX-Part: _</li>
       <li>VERB-Fin: _</li>
       <li>VERB-Part: _</li>
     </ul>
@@ -465,6 +480,14 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
+  <li>Emp
+    <ul>
+      <li>PRON: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
       <li>DET: _</li>
@@ -479,7 +502,6 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       <li>ADV: _</li>
       <li>DET: _</li>
       <li>PRON: _</li>
-      <li>SCONJ: _</li>
     </ul>
   </li>
 </ul>
@@ -487,6 +509,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li>Neg
     <ul>
+      <li>DET: _</li>
       <li>PRON: _</li>
     </ul>
   </li>
@@ -504,8 +527,8 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <li>Rel
     <ul>
       <li>ADV: _</li>
+      <li>DET: _</li>
       <li>PRON: _</li>
-      <li>SCONJ: _</li>
     </ul>
   </li>
 </ul>
@@ -627,11 +650,13 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: _</li>
+          <li>ADP: _</li>
           <li>ADV: _</li>
           <li>NOUN: _</li>
+          <li>PRON: _</li>
           <li>PROPN: _</li>
-          <li>X: _</li>
+          <li>VERB-Fin: _</li>
+          <li>VERB-Inf: _</li>
         </ul>
       </li>
     </ul>
@@ -641,6 +666,12 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 <ul>
   <li><a>NumForm</a>
     <ul>
+      <li>Combi
+        <ul>
+          <li>ADJ: _</li>
+          <li>NUM: _</li>
+        </ul>
+      </li>
       <li>Digit
         <ul>
           <li>NUM: _</li>
@@ -648,10 +679,28 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
       </li>
       <li>Word
         <ul>
+          <li>ADJ: _</li>
           <li>ADV: _</li>
           <li>NOUN: _</li>
           <li>NUM: _</li>
           <li>PROPN: _</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Style</a>
+    <ul>
+      <li>Coll
+        <ul>
+          <li>PART: _</li>
+        </ul>
+      </li>
+      <li>Vrnc
+        <ul>
+          <li>VERB-Part: _</li>
         </ul>
       </li>
     </ul>
@@ -676,6 +725,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
           <li>PROPN: _</li>
           <li>PUNCT: _</li>
           <li>SCONJ: _</li>
+          <li>VERB: _</li>
           <li>VERB-Fin: _</li>
           <li>VERB-Ger: _</li>
           <li>VERB-Inf: _</li>
@@ -706,18 +756,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (200)</li>
-      <li>VERB-Fin--PRON (95)</li>
-      <li>VERB-Fin--PRON-Nom (376)</li>
-      <li>VERB-Ger--NOUN (5)</li>
-      <li>VERB-Ger--PRON (1)</li>
-      <li>VERB-Ger--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (57)</li>
-      <li>VERB-Inf--PRON (33)</li>
-      <li>VERB-Inf--PRON-Nom (187)</li>
-      <li>VERB-Part--NOUN (23)</li>
-      <li>VERB-Part--PRON (14)</li>
-      <li>VERB-Part--PRON-Nom (120)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (186)</li>
+      <li>VERB-Fin--PRON (93)</li>
+      <li>VERB-Fin--PRON-Nom (365)</li>
+      <li>VERB-Ger--NOUN (4)</li>
+      <li>VERB-Inf--NOUN (55)</li>
+      <li>VERB-Inf--PRON (31)</li>
+      <li>VERB-Inf--PRON-Nom (185)</li>
+      <li>VERB-Part--NOUN (22)</li>
+      <li>VERB-Part--PRON (16)</li>
+      <li>VERB-Part--PRON-Nom (121)</li>
     </ul>
   </li>
 </ul>
@@ -725,19 +774,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (243)</li>
-      <li>VERB-Fin--PRON (33)</li>
-      <li>VERB-Fin--PRON-Acc (47)</li>
-      <li>VERB-Ger--NOUN (57)</li>
-      <li>VERB-Ger--PRON (5)</li>
-      <li>VERB-Ger--PRON-Acc (12)</li>
-      <li>VERB-Inf--NOUN (213)</li>
-      <li>VERB-Inf--PRON (37)</li>
-      <li>VERB-Inf--PRON-Acc (57)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (233)</li>
+      <li>VERB-Fin--PRON (37)</li>
+      <li>VERB-Fin--PRON-Acc (44)</li>
+      <li>VERB-Ger--NOUN (26)</li>
+      <li>VERB-Ger--PRON (2)</li>
+      <li>VERB-Ger--PRON-Acc (6)</li>
+      <li>VERB-Inf--NOUN (211)</li>
+      <li>VERB-Inf--PRON (44)</li>
+      <li>VERB-Inf--PRON-Acc (56)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Part--NOUN (55)</li>
-      <li>VERB-Part--PRON (8)</li>
-      <li>VERB-Part--PRON-Acc (11)</li>
+      <li>VERB-Part--NOUN (82)</li>
+      <li>VERB-Part--PRON (17)</li>
+      <li>VERB-Part--PRON-Acc (18)</li>
     </ul>
   </li>
 </ul>
@@ -745,17 +795,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5)</li>
-      <li>VERB-Fin--PRON-Acc (20)</li>
+      <li>VERB-Fin--NOUN (7)</li>
+      <li>VERB-Fin--PRON-Acc (23)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Ger--NOUN (2)</li>
-      <li>VERB-Ger--PRON-Acc (4)</li>
-      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Inf--PRON-Acc (8)</li>
+      <li>VERB-Inf--PRON-Acc (9)</li>
       <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON-Acc (7)</li>
     </ul>
   </li>
 </ul>
@@ -771,6 +820,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a></li>
 </ul>

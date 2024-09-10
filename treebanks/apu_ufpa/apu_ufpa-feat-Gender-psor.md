@@ -11,16 +11,16 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt>, <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt>.
 
-22 tokens (3%) have a non-empty value of `Gender[psor]`.
+22 tokens (2%) have a non-empty value of `Gender[psor]`.
 20 types (6%) occur at least once with a non-empty value of `Gender[psor]`.
 19 lemmas (7%) occur at least once with a non-empty value of `Gender[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (22; 3% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (22; 2% instances).
 
 ### `NOUN`
 
-22 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (8% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
+22 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (7% of all `NOUN` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Gender[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20; 91%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 64%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (14; 64%).
+The most frequent other feature values with which `NOUN` and `Gender[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20; 91%), <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (16; 73%), <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (15; 68%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 64%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (14; 64%).
 
 `NOUN` tokens may have the following values of `Gender[psor]`:
 

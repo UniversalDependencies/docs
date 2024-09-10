@@ -64,10 +64,10 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 2 acl	color:blue
 1	Вина	вина	NOUN	N	Case=Nom|Number=Sing	2	nmod:obj	_	GTtags=Sg,Nom,?
-2	юӧм	юны	VERB	V	Case=Nom|Number=Sing|Valency=2|VerbForm=Vnoun	5	acl	_	GTtags=TV,Der,Der/ӧм,Der/NomAct,N,Sg,Nom
+2	юӧм	юны	VERB	V	Case=Nom|Number=Sing|VerbForm=Vnoun	5	acl	_	GTtags=TV,Der,Der/ӧм,Der/NomAct,N,Sg,Nom
 3	бӧрын	бӧрын	ADP	Adp	Case=Ine	2	case	_	GTtags=Ine
 4	Павел	Павел	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	5	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
-5	мустӧмтіс	мустӧмтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Sg3
+5	мустӧмтіс	мустӧмтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Sg3
 6	асьсӧ	ас	PRON	Pron	Case=Acc|Number=Sing|Person=3|Reflex=Yes	5	obj	_	GTtags=Refl,Sg3,Acc
 7	тӧрытъясьыс	тӧрытъя	ADJ	A	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl:tmod	_	GTtags=Sg,Ela,PxSg3|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	5	punct	_	_

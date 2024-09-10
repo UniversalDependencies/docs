@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Aslı Kuzgun, Neslihan Cesur, Olcay Taner Yıldız, Oğuzhan Kuyrukçu, Arife Betül Yenice, Bilge Nas Arıcan, Ezgi Sanıyar.
 
 Repository: [UD_Turkish-Kenet](https://github.com/UniversalDependencies/UD_Turkish-Kenet)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_kenet211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_kenet214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,7 +72,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 
 ## Relations
 
-[acl](tr_kenet-dep-acl.html) – [advcl](tr_kenet-dep-advcl.html) – [advmod](tr_kenet-dep-advmod.html) – [amod](tr_kenet-dep-amod.html) – [appos](tr_kenet-dep-appos.html) – [aux](tr_kenet-dep-aux.html) – [case](tr_kenet-dep-case.html) – [cc](tr_kenet-dep-cc.html) – [ccomp](tr_kenet-dep-ccomp.html) – [clf](tr_kenet-dep-clf.html) – [compound](tr_kenet-dep-compound.html) – [conj](tr_kenet-dep-conj.html) – [csubj](tr_kenet-dep-csubj.html) – [dep](tr_kenet-dep-dep.html) – [det](tr_kenet-dep-det.html) – [discourse](tr_kenet-dep-discourse.html) – [dislocated](tr_kenet-dep-dislocated.html) – [fixed](tr_kenet-dep-fixed.html) – [flat](tr_kenet-dep-flat.html) – [iobj](tr_kenet-dep-iobj.html) – [list](tr_kenet-dep-list.html) – [mark](tr_kenet-dep-mark.html) – [nmod](tr_kenet-dep-nmod.html) – [nsubj](tr_kenet-dep-nsubj.html) – [nsubj:outer](tr_kenet-dep-nsubj-outer.html) – [nummod](tr_kenet-dep-nummod.html) – [obj](tr_kenet-dep-obj.html) – [obl](tr_kenet-dep-obl.html) – [orphan](tr_kenet-dep-orphan.html) – [parataxis](tr_kenet-dep-parataxis.html) – [punct](tr_kenet-dep-punct.html) – [reparandum](tr_kenet-dep-reparandum.html) – [root](tr_kenet-dep-root.html) – [vocative](tr_kenet-dep-vocative.html) – [xcomp](tr_kenet-dep-xcomp.html)
+[acl](tr_kenet-dep-acl.html) – [advcl](tr_kenet-dep-advcl.html) – [advmod](tr_kenet-dep-advmod.html) – [amod](tr_kenet-dep-amod.html) – [appos](tr_kenet-dep-appos.html) – [aux](tr_kenet-dep-aux.html) – [case](tr_kenet-dep-case.html) – [cc](tr_kenet-dep-cc.html) – [ccomp](tr_kenet-dep-ccomp.html) – [clf](tr_kenet-dep-clf.html) – [compound](tr_kenet-dep-compound.html) – [conj](tr_kenet-dep-conj.html) – [csubj](tr_kenet-dep-csubj.html) – [dep](tr_kenet-dep-dep.html) – [det](tr_kenet-dep-det.html) – [discourse](tr_kenet-dep-discourse.html) – [dislocated](tr_kenet-dep-dislocated.html) – [fixed](tr_kenet-dep-fixed.html) – [flat](tr_kenet-dep-flat.html) – [iobj](tr_kenet-dep-iobj.html) – [list](tr_kenet-dep-list.html) – [mark](tr_kenet-dep-mark.html) – [nmod](tr_kenet-dep-nmod.html) – [nsubj](tr_kenet-dep-nsubj.html) – [nummod](tr_kenet-dep-nummod.html) – [obj](tr_kenet-dep-obj.html) – [obl](tr_kenet-dep-obl.html) – [orphan](tr_kenet-dep-orphan.html) – [parataxis](tr_kenet-dep-parataxis.html) – [punct](tr_kenet-dep-punct.html) – [reparandum](tr_kenet-dep-reparandum.html) – [root](tr_kenet-dep-root.html) – [vocative](tr_kenet-dep-vocative.html) – [xcomp](tr_kenet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -965,6 +965,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+<li>This corpus does not use relation subtypes.</li>
 <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>goeswith</a></li>
 </ul>

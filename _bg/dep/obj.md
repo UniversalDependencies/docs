@@ -18,4 +18,4 @@ obj(Купувам, къща)
 obj(Buy-I, house)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:36 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:31 CEST -->

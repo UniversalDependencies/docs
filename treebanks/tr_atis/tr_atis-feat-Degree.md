@@ -22,5 +22,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_atis-pos-ADV.htm
 
 * `Cmp` (15; 3% of non-empty `Degree`): <em>daha</em>
 * `Sup` (547; 97% of non-empty `Degree`): <em>en</em>
-* `EMPTY` (1123): <em>lütfen, erken, ne, hakkında, kalkıp, ayrılıp, şimdi, direkt, ilk, nasıl</em>
+* `EMPTY` (1125): <em>lütfen, erken, ne, hakkında, kalkıp, ayrılıp, şimdi, direkt, ilk, nasıl</em>
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-8463 tokens (9%) have a non-empty value of `Mood`.
-1133 types (11%) occur at least once with a non-empty value of `Mood`.
+8462 tokens (9%) have a non-empty value of `Mood`.
+1132 types (11%) occur at least once with a non-empty value of `Mood`.
 795 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5083; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3380; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (5069; 5% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (3393; 4% instances).
 
 ### `VERB`
 
-5083 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Mood`.
+5069 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5081; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5074; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3478; 68%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5066; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5059; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3476; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (119; 2% of non-empty `Mood`): <em>let, look, see, Come, Note, click, Imagine, have, make, remember</em>
-* `Ind` (4960; 98% of non-empty `Mood`): <em>said, was, had, is, came, seemed, looked, went, made, know</em>
+* `Imp` (118; 2% of non-empty `Mood`): <em>let, look, see, Come, Note, click, Imagine, have, make, remember</em>
+* `Ind` (4947; 98% of non-empty `Mood`): <em>said, was, had, is, came, seemed, looked, went, made, know</em>
 * `Sub` (4; 0% of non-empty `Mood`): <em>were, get, post</em>
-* `EMPTY` (6027): <em>see, going, know, do, make, come, go, have, get, say</em>
+* `EMPTY` (6029): <em>see, going, know, do, make, come, go, have, get, say</em>
 
 <table>
   <tr><th>Paradigm <i>get</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -39,14 +39,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-3380 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Mood`.
+3393 <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> tokens (66% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3380; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1848; 55%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1725; 51%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3393; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1850; 55%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1737; 51%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (14; 0% of non-empty `Mood`): <em>do, be</em>
-* `Ind` (3354; 99% of non-empty `Mood`): <em>was, had, is, are, were, have, 's, did, do, has</em>
+* `Ind` (3367; 99% of non-empty `Mood`): <em>was, had, is, are, were, have, 's, did, do, has</em>
 * `Sub` (12; 0% of non-empty `Mood`): <em>be, were</em>
 * `EMPTY` (1785): <em>be, can, would, been, could, will, must, should, being, 'll</em>
 

@@ -135,7 +135,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 
 `ADV` tokens may have the following values of `Number`:
 
-* `Sing` (42; 100% of non-empty `Number`): நேற்று, நாளைக்கு, வக்கீலாக, வக்கீலாய், அழகாய், தானே, வேகமாய், இன்றைக்கு, இப்போதே, கோபமாக
+* `Sing` (42; 100% of non-empty `Number`): நேற்று, தானே, நாளைக்கு, வக்கீலாக, வக்கீலாய், அழகாய், வேகமாய், இன்றைக்கு, இப்போதே, கோபமாக
 * `EMPTY` (119): இப்போது, இங்கே, இன்று, மட்டும், அங்கே, நன்றாக, நிமிர்ந்து, மிகவும், வேகமாக, இவ்வளவு
 
 `Number` seems to be **lexical feature** of `ADV`. 100% lemmas (14) occur only with one value of `Number`.

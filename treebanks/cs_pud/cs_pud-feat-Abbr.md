@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (44; 100% of non-empty `Abbr`): <em>l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</em>
-* `EMPTY` (4438): <em>roce, roku, let, století, letech, době, území, období, oblasti, moře</em>
+* `EMPTY` (4439): <em>roce, roku, let, století, letech, době, území, období, oblasti, moře</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (30) occur only with one value of `Abbr`.
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>sv, tzv</em>
-* `EMPTY` (2268): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2267): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 ### `ADV`
 

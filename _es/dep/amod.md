@@ -11,4 +11,4 @@ An adjectival modifier of an NP is any adjectival phrase that serves to modify t
 Encuentran materiales peligrosos .
 amod(materiales, peligrosos)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:42 CEST -->

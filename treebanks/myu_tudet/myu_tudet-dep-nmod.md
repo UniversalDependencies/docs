@@ -64,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `nmod`: <tt><a href=
 2	teg̃	teg̃	ADP	posp	_	5	advcl	_	_
 3	kaxi	kaxi	NOUN	n	_	2	nsubj	_	_
 4	bima	bima	SCONJ	sc	_	3	advcl	_	_
-5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	gloss=3-RNCont-fire-smoke.PERF
+5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	_	3-RNCont-fire-smoke.PERF
 
 ~~~
 

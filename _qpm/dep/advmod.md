@@ -34,3 +34,4 @@ inýj so žyváli trimínana brátje nó kólko godíny
 advmod (kólko, nó)
 ~~~ 
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:37 CEST -->

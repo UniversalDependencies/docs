@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Tim`.
 
-1689 tokens (0%) have a non-empty value of `AdvType`.
-302 types (1%) occur at least once with a non-empty value of `AdvType`.
-295 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1687; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+1681 tokens (0%) have a non-empty value of `AdvType`.
+297 types (1%) occur at least once with a non-empty value of `AdvType`.
+290 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1680; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1687 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `AdvType`.
+1680 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1687; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1687; 100%).
+The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1680; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1680; 100%).
 
 `NOUN` tokens may have the following values of `AdvType`:
 
-* `Tim` (1687; 100% of non-empty `AdvType`): <em>1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</em>
+* `Tim` (1680; 100% of non-empty `AdvType`): <em>1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</em>
 
-`AdvType` seems to be **lexical feature** of `NOUN`. 100% lemmas (293) occur only with one value of `AdvType`.
+`AdvType` seems to be **lexical feature** of `NOUN`. 100% lemmas (289) occur only with one value of `AdvType`.
 
 ### `ADV`
 
@@ -36,18 +36,8 @@ The most frequent other feature values with which `ADV` and `AdvType` co-occurre
 
 * `Tim` (1; 100% of non-empty `AdvType`): <em>més</em>
 
-### `SYM`
-
-1 <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> tokens (0% of all `SYM` tokens) have a non-empty value of `AdvType`.
-
-The most frequent other feature values with which `SYM` and `AdvType` co-occurred: <tt><a href="ca_ancora-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ca_ancora-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`SYM` tokens may have the following values of `AdvType`:
-
-* `Tim` (1; 100% of non-empty `AdvType`): <em>22,7%</em>
-
 ## Relations with Agreement in `AdvType`
 
 The 10 most frequent relations where parent and child node agree in `AdvType`:
-<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (82; 58%).
+<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (82; 59%).
 

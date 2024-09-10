@@ -62,4 +62,4 @@ Note the similarity to the *while sad* example above. Omitting the nominal predi
 Entering the room sad is not recommended
 advcl(Entering, sad)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:32 CEST -->

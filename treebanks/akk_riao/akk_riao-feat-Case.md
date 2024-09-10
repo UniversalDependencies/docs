@@ -11,7 +11,7 @@ It occurs with 4 different values: `Acc`, `Gen`, `Loc`, `Nom`.
 
 4605 tokens (20%) have a non-empty value of `Case`.
 770 types (26%) occur at least once with a non-empty value of `Case`.
-556 lemmas (36%) occur at least once with a non-empty value of `Case`.
+556 lemmas (35%) occur at least once with a non-empty value of `Case`.
 The feature is used with 8 part-of-speech tags: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (3182; 14% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (797; 3% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (564; 2% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (29; 0% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NOUN`

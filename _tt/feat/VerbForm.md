@@ -92,4 +92,4 @@ It can also modify an animate noun which is the agent of the verb.
 
 - _бар<b>учы</b> кеше "the person who is going", "going person"
 - _бар<b>учы</b> "the one who goes
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

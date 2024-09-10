@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-3239 tokens (17%) have a non-empty value of `Polarity`.
+3241 tokens (17%) have a non-empty value of `Polarity`.
 2065 types (26%) occur at least once with a non-empty value of `Polarity`.
-917 lemmas (23%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3239; 17% instances).
+915 lemmas (23%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3241; 17% instances).
 
 ### `VERB`
 
-3239 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Polarity`.
+3241 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3235; 100%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2795; 86%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2664; 82%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2419; 75%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2337; 72%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2104; 65%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3237; 100%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2796; 86%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2666; 82%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2420; 75%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (2340; 72%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2105; 65%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (234; 7% of non-empty `Polarity`): <em>alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edememiş</em>
-* `Pos` (3005; 93% of non-empty `Polarity`): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</em>
-* `EMPTY` (98): <em>yoktu, iyiydi, güzeldi, vardı, zengindi, hazırdı, karısıyım, kötüydü, uğraştı, varsa</em>
+* `Pos` (3007; 93% of non-empty `Polarity`): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</em>
+* `EMPTY` (96): <em>yoktu, iyiydi, güzeldi, vardı, zengindi, hazırdı, karısıyım, kötüydü, uğraştı, varsa</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -60,24 +60,23 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
   <tr><td><tt><tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>edemiyor</em></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>edemiyoruz</em></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>et</em></td><td><em>etme</em></td></tr>
-  <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>etmeyin</em></td></tr>
+  <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>edin</em></td><td><em>etmeyin</em></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Nec</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>etmeliyiz</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Nec</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>etmelisiniz</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>edelim</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `VERB`. 90% lemmas (827) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `VERB`. 90% lemmas (825) occur only with one value of `Polarity`.
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (242; 65%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (81; 62%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (241; 65%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (82; 63%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-conj.html">conj</a></tt>]--> VERB</tt> (50; 72%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> VERB</tt> (31; 94%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> VERB</tt> (32; 94%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (7; 70%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-obl.html">obl</a></tt>]--> VERB</tt> (5; 63%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (4; 80%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-obj.html">obj</a></tt>]--> VERB</tt> (3; 100%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (2; 67%).
+<tt>VERB --[<tt><a href="tr_framenet-dep-obj.html">obj</a></tt>]--> VERB</tt> (3; 100%).
 

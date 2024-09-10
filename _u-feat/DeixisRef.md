@@ -37,4 +37,4 @@ person (probably the speaker), or if they do not distinguish the reference point
 * [wo] _xaj <b>boobu</b>_ “<b>that</b> dog / the dog in question” (close to you, far from me) `Deixis=Prox|DeixisRef=2`
 * [wo] _xaj <b>boobale</b>_ “<b>that</b> dog” (far away from both of us, but closer to you than to me) `Deixis=Med|DeixisRef=2`
 
-<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:54 CEST -->

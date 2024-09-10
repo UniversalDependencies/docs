@@ -9,37 +9,48 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-101 tokens (3%) have a non-empty value of `Polarity`.
-4 types (0%) occur at least once with a non-empty value of `Polarity`.
-1 lemmas (0) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (78; 3% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (21; 1% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+1053 tokens (1%) have a non-empty value of `Polarity`.
+24 types (0%) occur at least once with a non-empty value of `Polarity`.
+12 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> (896; 1% instances), <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> (118; 0% instances), <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> (18; 0% instances).
 
 ### `PART`
 
-78 <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> tokens (68% of all `PART` tokens) have a non-empty value of `Polarity`.
+896 <tt><a href="orv_ruthenian-pos-PART.html">PART</a></tt> tokens (42% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (78; 100% of non-empty `Polarity`): <em>не, ни</em>
-* `EMPTY` (36): <em>и, же, жъ, только, тежъ, то, вже, ж, колвекъ, кольвекъ</em>
+* `Neg` (896; 100% of non-empty `Polarity`): <em>не, ни, нѣ, на, нъ, нь, ні</em>
+* `EMPTY` (1261): <em>ж, жъ, и, же, деи, ли, жо, нехаи, то, се</em>
 
 ### `CCONJ`
 
-21 <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> tokens (7% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+118 <tt><a href="orv_ruthenian-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
 
 `CCONJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (21; 100% of non-empty `Polarity`): <em>ани, ни</em>
-* `EMPTY` (272): <em>и, а, або, але, албо, такъ, альбо, тежъ, одно, тожъ</em>
+* `Neg` (118; 100% of non-empty `Polarity`): <em>ни, ани, нижли, нежли, ниж</em>
+* `EMPTY` (9267): <em>и, а, ино, або, да, a, любо, или, также, але</em>
+
+### `ADV`
+
+21 <tt><a href="orv_ruthenian-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="orv_ruthenian-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21; 100%).
+
+`ADV` tokens may have the following values of `Polarity`:
+
+* `Neg` (21; 100% of non-empty `Polarity`): <em>николи, нигде, нигдѣ</em>
+* `EMPTY` (2384): <em>какъ, как, там, теж, тежъ, вечно, потомъ, тогды, тамъ, так</em>
 
 ### `VERB`
 
-2 <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
+18 <tt><a href="orv_ruthenian-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="orv_ruthenian-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="orv_ruthenian-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="orv_ruthenian-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (18; 100%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (2; 100% of non-empty `Polarity`): <em>нетъ</em>
-* `EMPTY` (333): <em>мають, маеть, маючи, присегаю, маемъ, описано, быти, дати, ждучи, зложити</em>
+* `Neg` (18; 100% of non-empty `Polarity`): <em>нетъ, нѣтъ, нет, нѣт, нелга, нелзѣ, некомꙋ</em>
+* `EMPTY` (8130): <em>дали, псан, мають, мают(ь), дал, маеть, казали, держати, послали, далъ</em>
 

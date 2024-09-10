@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	monde	monde	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	5	punct	_	_
-12	dit	dire	VERB	VBN	Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+12	dit	dire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	Leive	Leive	PROPN	NNP	Gender=Fem|Number=Sing	12	nsubj	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	12	punct	_	_
 
@@ -47,7 +47,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 10 parataxis	color:blue
 1	D’	de	ADP	IN	_	2	case	_	SpaceAfter=No|wordform=d'
-2	où	où	ADV	WRB	_	3	obl	_	_
+2	où	où	PRON	WP	PronType=Int	3	obl	_	_
 3	vient	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	toute	tout	ADJ	PDT	Gender=Fem|Number=Sing	6	amod	_	_
 5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	_

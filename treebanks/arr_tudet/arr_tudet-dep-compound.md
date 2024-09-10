@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (2%) are attached to their parents as `compound`.
+45 nodes (2%) are attached to their parents as `compound`.
 
-31 instances of `compound` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22727272727273.
+31 instances of `compound` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22222222222222.
 
-The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (32; 73% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> (8; 18% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (33; 73% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-ADJ.html">ADJ</a></tt> (8; 18% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="arr_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="arr_tudet-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

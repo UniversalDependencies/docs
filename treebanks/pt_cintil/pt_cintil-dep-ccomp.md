@@ -22,16 +22,16 @@ The following 21 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 ccomp	color:blue
-1	Eu	eu	PRON	PRS	Number=Sing|Person=1	2	nsubj	_	_
-2	quero	querer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+1	Eu	eu	PRON	PRS	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quero	querer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CJ	_	7	mark	_	_
-4	as	as	DET	DA	Gender=Fem|Number=Plur	5	det	_	_
+4	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	gravuras	gravura	NOUN	CN	Gender=Fem|Number=Plur	7	nsubj	_	_
-6	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres	7	cop	_	_
-7	salvas	salvar,salvo	VERB	PPA	Gender=Fem|Number=Plur	2	ccomp	_	_
+6	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	salvas	salvar,salvo	VERB	PPA	Gender=Fem|Number=Plur|VerbForm=Part	2	ccomp	_	_
 8	porque	porque	SCONJ	CJ	_	11	dep	_	_
 9	talvez	talvez	ADV	ADV	_	11	advmod	_	_
-10	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres	11	cop	_	_
+10	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	belas	belo	ADJ	ADJ	Gender=Fem|Number=Plur	2	advcl	_	_
 12	.	.	PUNCT	PNT	_	2	punct	_	_
 
@@ -46,12 +46,12 @@ The following 21 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3 9 ccomp	color:blue
 1	'	'	PUNCT	PNT	_	3	punct	_	_
 2	Sempre	sempre	ADV	ADV	_	3	advmod	_	_
-3	afirmámos	afirmar	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	_
+3	afirmámos	afirmar	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	CJ	_	9	mark	_	_
-5	o	o	DET	DA	Gender=Masc|Number=Sing	6	det	_	_
+5	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	terrorismo	terrorismo	NOUN	CN	Gender=Masc|Number=Sing	9	nsubj	_	_
-7	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-8	um	um	DET	UM	Gender=Masc|Number=Sing	9	det	_	_
+7	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	fenómeno	fenómeno	NOUN	CN	Gender=Masc|Number=Sing	3	ccomp	_	_
 10	internacional	internacional	ADJ	ADJ	Gender=Masc|Number=Sing	9	amod	_	_
 11	.	.	PUNCT	PNT	_	3	punct	_	_
@@ -65,16 +65,16 @@ The following 21 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 11 ccomp	color:blue
-1	O	o	DET	DA	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	xeque	xeque	NOUN	CN	Gender=Masc|Number=Sing	4	nsubj	_	_
 3	integrista	integrista	ADJ	ADJ	Gender=Masc|Number=Sing	2	amod	_	_
-4	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+4	disse	dizer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	ainda	ainda	ADV	ADV	_	4	advmod	_	_
 6	que	que	SCONJ	CJ	_	11	mark	_	_
 7	'	'	PUNCT	PNT	_	11	punct	_	_
-8	nenhum	nenhum	DET	QNT	Gender=Masc|Number=Sing	9	det	_	_
+8	nenhum	nenhum	DET	QNT	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
 9	judeu	judeu	NOUN	CN	Gender=Masc|Number=Sing	11	nsubj	_	_
-10	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	cop	_	_
+10	é	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	inocente	inocente	ADJ	ADJ	Number=Sing	4	ccomp	_	_
 12	.	.	PUNCT	PNT	_	4	punct	_	_
 

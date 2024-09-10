@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: John Lee, Herman Leung, Keying Li.
 
 Repository: [UD_Chinese-CFL](https://github.com/UniversalDependencies/UD_Chinese-CFL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_cfl211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_cfl214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,10 +36,10 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | not available |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
-| Features | not available |
+| Features | assigned by a program, with some manual corrections, but not a full manual verification |
 | Relations | annotated manually, natively in UD style |
 
 ## Description
@@ -73,11 +73,11 @@ A "literal annotation" is preferred, i.e., one should annotate "as if the senten
 
 WORD SEGMENTATION
 
-Non-words are allowed only when there are spelling errors resulting from orthographic or phonetic confusion. An orthographic confusion must involve characters with similar appearance, e.g., between 了 and 子 in *花花公了.
+Non-words are allowed only when there are spelling errors resulting from orthographic or phonetic confusion. An orthographic confusion must involve characters with similar appearance, e.g., between 了 and 子 in \*花花公了.
 
-Phonetic confusion must involve characters with the same pronunciation but different tones, e.g., between 關 and 管 in the sentence *不關多貴我也買; or, characters with easily confusable pairs such as {j, zh} and {x, sh}.
+Phonetic confusion must involve characters with the same pronunciation but different tones, e.g., between 關 and 管 in the sentence \*不關多貴我也買; or, characters with easily confusable pairs such as {j, zh} and {x, sh}.
 
-In these cases, the lemma of the misspelt word is its corrected version. For example, the lemma of *花花公了 is 花花公子, and the lemma of 不關 is 不管.
+In these cases, the lemma of the misspelt word is its corrected version. For example, the lemma of \*花花公了 is 花花公子, and the lemma of 不關 is 不管.
 
 LEMMA
 
@@ -85,11 +85,11 @@ The lemma is the same as the word, except when the word contains a spelling erro
 
 POS TAGGING
 
-POS tagging is performed on the basis of the lemma, rather than the word. Hence, in the sentence *不關多貴我也買, 不關 is not tagged as VERB but rather as SCONJ, on account of its lemma 不管.
+POS tagging is performed on the basis of the lemma, rather than the word. Hence, in the sentence \*不關多貴我也買, 不關 is not tagged as VERB but rather as SCONJ, on account of its lemma 不管.
 
 When determining the POS, one usually considers both the "morphological evidence", i.e., the linguistic form of the word, as well as the "distributional evidence", i.e., its syntactic use in the sentence. In a well-formed sentence, these two kinds of evidence should agree; in learner text, however, they may conflict (Ragheb and Dickinson, 2014).
 
-Consider the word 可怕 _kepa_ "scary" in the sentence *我可怕他 "*I scary him". Morphological evidence suggests the word 可怕 _kepa_ "scary" should be tagged as an adjective (ADJ), reflecting its normal usage. Distributional evidence suggests it should be tagged as a verb, since the trailing pronoun 他 _ta_ "him" implies its use as a verb with a direct object.
+Consider the word 可怕 _kepa_ "scary" in the sentence \*我可怕他 "\*I scary him". Morphological evidence suggests the word 可怕 _kepa_ "scary" should be tagged as an adjective (ADJ), reflecting its normal usage. Distributional evidence suggests it should be tagged as a verb, since the trailing pronoun 他 _ta_ "him" implies its use as a verb with a direct object.
 
 When these two kinds of evidence contradict one another, the morphological evidence prevails. The example sentence is thus tagged as:
 
@@ -105,7 +105,7 @@ When a word seems missing in the learner sentence, we annotate according to the 
 
 Word-order errors
 
-The annotation should assume no word order error. For example, in the sentence *我被了他打一頓. The aspect particle 了 _le_ usually modifies the verb that precedes it immediately, and is probably misplaced in this sentence. It is most likely intended to modify 打 _da_ "hit", and should immediately follow da rather than 被 _bei_, the passive marker.
+The annotation should assume no word order error. For example, in the sentence \*我被了他打一頓. The aspect particle 了 _le_ usually modifies the verb that precedes it immediately, and is probably misplaced in this sentence. It is most likely intended to modify 打 _da_ "hit", and should immediately follow da rather than 被 _bei_, the passive marker.
 
 To adhere to the principle of "literal annotation", rather than annotating le as the child of 打 _da_ "hit" with the `aux` relation, we annotate 了 _le_ as the child of 被 _bei_ with the `dep` relation.
 
@@ -113,7 +113,7 @@ To adhere to the principle of "literal annotation", rather than annotating le as
 
 When learner errors make it difficult to characterize the grammatical relation between a word and the rest of the sentence, we use the `dep` relation. Typically, when the POS tag differs from the distributional POS tag, the `dep` relation is needed.
 
-Consider the sentence *我可怕他 "*I scary him". From the point of view of its POS tag, it is unclear how the word 可怕 _kepa_ "scary", as an adjective, relates to the pronoun. We thus consider kepa as the head of 他 _ta_ "him" with the `dep` relation.
+Consider the sentence \*我可怕他 "\*I scary him". From the point of view of its POS tag, it is unclear how the word 可怕 _kepa_ "scary", as an adjective, relates to the pronoun. We thus consider kepa as the head of 他 _ta_ "him" with the `dep` relation.
 
 When a word has a different distributional POS tag, we also include a "distributional" dependency relation on the basis of the word's distributional POS tag. This relation is stored in column 4 of the `.conllux` file. In the example sentence above, the word 可怕 _kepa_ "scary", as a verb, is the head of 他 _ta_ "him" with the `obj` relation.
 
@@ -132,11 +132,11 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 
 ## Features
 
-
+[Polarity](zh_cfl-feat-Polarity.html)
 
 ## Relations
 
-[acl](zh_cfl-dep-acl.html) – [advcl](zh_cfl-dep-advcl.html) – [advmod](zh_cfl-dep-advmod.html) – [advmod:df](zh_cfl-dep-advmod-df.html) – [amod](zh_cfl-dep-amod.html) – [appos](zh_cfl-dep-appos.html) – [aux](zh_cfl-dep-aux.html) – [case](zh_cfl-dep-case.html) – [case:loc](zh_cfl-dep-case-loc.html) – [cc](zh_cfl-dep-cc.html) – [ccomp](zh_cfl-dep-ccomp.html) – [clf](zh_cfl-dep-clf.html) – [compound](zh_cfl-dep-compound.html) – [compound:dir](zh_cfl-dep-compound-dir.html) – [compound:ext](zh_cfl-dep-compound-ext.html) – [compound:vo](zh_cfl-dep-compound-vo.html) – [compound:vv](zh_cfl-dep-compound-vv.html) – [conj](zh_cfl-dep-conj.html) – [cop](zh_cfl-dep-cop.html) – [csubj](zh_cfl-dep-csubj.html) – [dep](zh_cfl-dep-dep.html) – [det](zh_cfl-dep-det.html) – [discourse](zh_cfl-dep-discourse.html) – [discourse:sp](zh_cfl-dep-discourse-sp.html) – [dislocated](zh_cfl-dep-dislocated.html) – [flat](zh_cfl-dep-flat.html) – [iobj](zh_cfl-dep-iobj.html) – [mark](zh_cfl-dep-mark.html) – [mark:adv](zh_cfl-dep-mark-adv.html) – [mark:rel](zh_cfl-dep-mark-rel.html) – [nmod](zh_cfl-dep-nmod.html) – [nsubj](zh_cfl-dep-nsubj.html) – [nsubj:pass](zh_cfl-dep-nsubj-pass.html) – [nummod](zh_cfl-dep-nummod.html) – [obj](zh_cfl-dep-obj.html) – [obl](zh_cfl-dep-obl.html) – [obl:agent](zh_cfl-dep-obl-agent.html) – [obl:patient](zh_cfl-dep-obl-patient.html) – [obl:tmod](zh_cfl-dep-obl-tmod.html) – [parataxis](zh_cfl-dep-parataxis.html) – [punct](zh_cfl-dep-punct.html) – [reparandum](zh_cfl-dep-reparandum.html) – [root](zh_cfl-dep-root.html) – [vocative](zh_cfl-dep-vocative.html) – [xcomp](zh_cfl-dep-xcomp.html)
+[acl](zh_cfl-dep-acl.html) – [advcl](zh_cfl-dep-advcl.html) – [advmod](zh_cfl-dep-advmod.html) – [advmod:df](zh_cfl-dep-advmod-df.html) – [amod](zh_cfl-dep-amod.html) – [appos](zh_cfl-dep-appos.html) – [aux](zh_cfl-dep-aux.html) – [case](zh_cfl-dep-case.html) – [case:loc](zh_cfl-dep-case-loc.html) – [cc](zh_cfl-dep-cc.html) – [ccomp](zh_cfl-dep-ccomp.html) – [clf](zh_cfl-dep-clf.html) – [compound](zh_cfl-dep-compound.html) – [compound:dir](zh_cfl-dep-compound-dir.html) – [compound:ext](zh_cfl-dep-compound-ext.html) – [compound:vo](zh_cfl-dep-compound-vo.html) – [compound:vv](zh_cfl-dep-compound-vv.html) – [conj](zh_cfl-dep-conj.html) – [cop](zh_cfl-dep-cop.html) – [csubj](zh_cfl-dep-csubj.html) – [dep](zh_cfl-dep-dep.html) – [det](zh_cfl-dep-det.html) – [discourse](zh_cfl-dep-discourse.html) – [discourse:sp](zh_cfl-dep-discourse-sp.html) – [dislocated](zh_cfl-dep-dislocated.html) – [flat](zh_cfl-dep-flat.html) – [iobj](zh_cfl-dep-iobj.html) – [mark](zh_cfl-dep-mark.html) – [mark:adv](zh_cfl-dep-mark-adv.html) – [mark:rel](zh_cfl-dep-mark-rel.html) – [nmod](zh_cfl-dep-nmod.html) – [nsubj](zh_cfl-dep-nsubj.html) – [nsubj:outer](zh_cfl-dep-nsubj-outer.html) – [nsubj:pass](zh_cfl-dep-nsubj-pass.html) – [nummod](zh_cfl-dep-nummod.html) – [obj](zh_cfl-dep-obj.html) – [obl](zh_cfl-dep-obl.html) – [obl:agent](zh_cfl-dep-obl-agent.html) – [obl:patient](zh_cfl-dep-obl-patient.html) – [obl:tmod](zh_cfl-dep-obl-tmod.html) – [parataxis](zh_cfl-dep-parataxis.html) – [punct](zh_cfl-dep-punct.html) – [reparandum](zh_cfl-dep-reparandum.html) – [root](zh_cfl-dep-root.html) – [vocative](zh_cfl-dep-vocative.html) – [xcomp](zh_cfl-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -170,11 +170,11 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 </ul>
 
 <ul>
-<li>This corpus contains 11 word types tagged as particles (PART): 。, 了, 吗, 吧, 呢, 和, 啊, 嗬, 地, 得, 的</li>
+<li>This corpus contains 11 word types tagged as particles (PART): 了, 吗, 吧, 呢, 和, 啊, 嗬, 地, 得, 没, 的</li>
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as pronouns (PRON): 一切, 为什么, 人, 人家, 什么, 他, 他们, 你, 你们, 其, 其中, 其他, 别, 别人, 到处, 另外, 各, 咱们, 哪个, 哪儿, 哪里, 大家, 女士们, 她, 她们, 它, 怎么样, 我, 我们, 我门, 所有, 有的, 每, 自己, 谁, 这, 这儿, 这样, 这里, 那, 那儿, 那样, 那里, 首先</li>
+<li>This corpus contains 42 lemmas tagged as pronouns (PRON): 一切, 为什么, 人, 人家, 什么, 他, 你, 你们, 其, 其中, 其他, 别, 别人, 到处, 另外, 各, 咱们, 哪个, 哪儿, 哪里, 大家, 女士们, 她, 它, 怎么样, 我, 我们, 我门, 所有, 有的, 每, 自己, 谁, 这, 这儿, 这样, 这里, 那, 那儿, 那样, 那里, 首先</li>
 </ul>
 
 <ul>
@@ -186,11 +186,11 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as auxiliaries (AUX): 不得, 了, 会, 似乎, 似的, 可以, 可能, 喜欢, 回, 好像, 宁愿, 希望, 应该, 得, 必须, 想, 愿意, 懒得, 敢, 是, 没, 没有, 爱, 着, 能, 要, 起来, 过, 这, 需要</li>
+<li>This corpus contains 17 lemmas tagged as auxiliaries (AUX): 了, 会, 可以, 可能, 应该, 得, 必须, 想, 愿意, 敢, 是, 有, 着, 能, 要, 过, 需要</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 会, 喜欢, 回, 好像, 希望, 得, 想, 是, 没有, 爱, 要, 起来, 过, 需要</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: 了, 会, 得, 想, 是, 有, 要, 过, 需要</li>
 </ul>
 
 <ul>
@@ -210,6 +210,19 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>AUX: 没有, 不得</li>
+      <li>PART: 没</li>
+      <li>VERB: 没有, 不好意思, 不见, 不通, 不顾</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -239,11 +252,11 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 就是.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: 是.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 没、 应该、 爱、 得、 敢、 需要、 可能、 没有、 不得、 似乎、 似的、 喜欢、 回、 好像、 宁愿、 就、 希望、 必须、 愿意、 懒得、 起来、 这.</li>
+<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 应该、 得、 敢、 需要、 可能、 有、 必须、 愿意.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -263,7 +276,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (394)</li>
-      <li>VERB--PRON (90)</li>
+      <li>VERB--PRON (91)</li>
     </ul>
   </li>
 </ul>
@@ -284,6 +297,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 13 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

@@ -5,6 +5,9 @@ shortdef : 'noun phrase as adverbial modifier'
 udver: '2'
 ---
 
+**⚠️ DEPRECATED: Beginning with the version 2.15 release,
+most English corpora will use the new [obl:unmarked]() relation instead. ⚠️**
+
 This relation is a subtype of the [obl]() relation, which captures
 the following cases where something syntactically a noun phrase is
 used as an adverbial modifier in a sentence:
@@ -46,4 +49,4 @@ and (v) certain other absolutive nominal constructions.
 A temporal modifier [obl:tmod]() is a subclass of [obl]() which is
 distinguished as a separate relation.
 
-<!-- Interlanguage links updated Po lis 14 15:35:40 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:39 CEST -->

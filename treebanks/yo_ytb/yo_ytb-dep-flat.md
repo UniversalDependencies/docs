@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 18	òṣèré	òṣèré	NOUN	_	_	13	conj	_	_
 19	sinimá	sinimá	NOUN	_	_	18	nmod	_	_
 20	àgbéléwò	àgbéléwò	NOUN	_	_	19	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\s\n\n
+21	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 22	jẹ́	jẹ́	AUX	_	_	23	cop	_	_
 23	Most	Most	NOUN	_	_	19	acl	_	_
 24	Wanted	Wanted	NOUN	_	_	23	flat	_	SpaceAfter=No
-25	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\s\n\n
+25	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

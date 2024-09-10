@@ -61,4 +61,4 @@ acl(fact, cares)
 
 This relation is no longer used for optional depictives: [advcl]() should be used instead.
 
-<!-- Interlanguage links updated Po lis 14 15:35:02 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:29 CEST -->

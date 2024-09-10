@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="sl_ssj-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="sl_ssj-dep-flat-name.html">flat:name</a></tt>.
 
-176 nodes (0%) are attached to their parents as `flat`.
+179 nodes (0%) are attached to their parents as `flat`.
 
-176 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.89772727272727.
+179 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.91620111731844.
 
-The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (162; 92% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (9; 5% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `flat`: <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (164; 92% instances), <tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt>-<tt><a href="sl_ssj-pos-SYM.html">SYM</a></tt> (9; 5% instances), <tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_ssj-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="sl_ssj-pos-X.html">X</a></tt>-<tt><a href="sl_ssj-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -64,53 +64,26 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	MARIJA	Marija	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	NER=B-per
-2	ZIDANŠEK	Zidanšek	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	1	flat:name	_	NER=I-per|SpaceAfter=No
-3	,	,	PUNCT	Z	_	4	punct	_	NER=O
-4	Hotunje	Hotunje	PROPN	Npfpn	Case=Nom|Gender=Fem|Number=Plur	1	appos	_	NER=B-loc
-5	34	34	NUM	Mdc	NumForm=Digit|NumType=Card	4	nummod	_	NER=I-loc
-6	A	A	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	flat	_	NER=I-loc|SpaceAfter=No
-7	,	,	PUNCT	Z	_	9	punct	_	NER=I-loc
-8	3232	3232	NUM	Mdc	NumForm=Digit|NumType=Card	9	nummod	_	NER=I-loc
-9	Ponikva	Ponikva	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	4	appos	_	NER=I-loc|SpaceAfter=No
-10	;	;	PUNCT	Z	_	11	punct	_	NER=O
-11	TIM	Tim	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	list	_	NER=B-per
-12	TIMOTEJ	Timotej	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	NER=I-per
-13	AMBROŽ	Ambrož	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	NER=I-per|SpaceAfter=No
-14	,	,	PUNCT	Z	_	15	punct	_	NER=O
-15	Bratov	brat	NOUN	Ncmdg	Case=Gen|Gender=Masc|Number=Dual	11	appos	_	NER=B-loc
-16	Hvalič	Hvalič	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	15	nmod	_	NER=I-loc
-17	8	8	NUM	Mdc	NumForm=Digit|NumType=Card	15	nummod	_	NER=I-loc|SpaceAfter=No
-18	,	,	PUNCT	Z	_	21	punct	_	NER=I-loc
-19	5000	5000	NUM	Mdc	NumForm=Digit|NumType=Card	21	nummod	_	NER=I-loc
-20	Nova	nov	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	NER=I-loc
-21	Gorica	Gorica	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	15	appos	_	NER=I-loc|SpaceAfter=No
-22	;	;	PUNCT	Z	_	23	punct	_	NER=O
-23	RAMONA	Ramona	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	1	list	_	NER=B-per
-24	FRAS	Fras	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	23	flat:name	_	NER=I-per|SpaceAfter=No
-25	,	,	PUNCT	Z	_	27	punct	_	NER=O
-26	Tovarniška	tovarniški	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	27	amod	_	NER=B-loc
-27	c.	c.	X	Y	Abbr=Yes	23	appos	_	NER=I-loc
-28	63	63	NUM	Mdc	NumForm=Digit|NumType=Card	27	nummod	_	NER=I-loc|SpaceAfter=No
-29	,	,	PUNCT	Z	_	31	punct	_	NER=I-loc
-30	2215	2215	NUM	Mdc	NumForm=Digit|NumType=Card	31	nummod	_	NER=I-loc
-31	Ceršak	Ceršak	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	27	appos	_	NER=I-loc|SpaceAfter=No
-32	;	;	PUNCT	Z	_	33	punct	_	NER=O
-33	BORIS	Boris	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	1	list	_	NER=B-per
-34	LANJŠČEK	Lanjšček	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	33	flat:name	_	NER=I-per|SpaceAfter=No
-35	,	,	PUNCT	Z	_	36	punct	_	NER=O
-36	Prešernova	Prešernov	ADJ	Aspfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes	33	appos	_	NER=B-loc
-37	59	59	NUM	Mdc	NumForm=Digit|NumType=Card	36	nummod	_	NER=I-loc|SpaceAfter=No
-38	,	,	PUNCT	Z	_	41	punct	_	NER=I-loc
-39	9000	9000	NUM	Mdc	NumForm=Digit|NumType=Card	41	nummod	_	NER=I-loc
-40	Murska	murski	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	41	amod	_	NER=I-loc
-41	Sobota	Sobota	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	36	appos	_	NER=I-loc|SpaceAfter=No
-42	;	;	PUNCT	Z	_	1	punct	_	NER=O
+# visual-style 5 8 flat	color:blue
+1	V	v	ADP	Sl	Case=Loc	3	case	_	NER=O
+2	9.	9.	NUM	Mdo	NumForm=Digit|NumType=Ord	3	nummod	_	NER=O
+3	krogu	krog	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	12	obl	_	NER=O
+4	igre	igra	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	NER=O
+5	3	3	NUM	Mdc	NumForm=Digit|NumType=Card	4	nummod	_	NER=B-misc
+6	x	x	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	flat	_	NER=I-misc
+7	3	3	NUM	Mdc	NumForm=Digit|NumType=Card	5	flat	_	NER=I-misc
+8	plus	plus	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	flat	_	NER=I-misc
+9	6	6	NUM	Mdc	NumForm=Digit|NumType=Card	5	flat	_	NER=I-misc
+10	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	NER=O
+11	bile	biti	AUX	Va-p-pf	Gender=Fem|Number=Plur|VerbForm=Part	12	cop	_	NER=O
+12	izžrebane	izžreban	ADJ	Appfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	NER=O
+13	naslednje	naslednji	ADJ	Agpfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	NER=O
+14	številke	številka	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	NER=O|SpaceAfter=No
+15	:	:	PUNCT	Z	_	12	punct	_	NER=O
 
 ~~~
 

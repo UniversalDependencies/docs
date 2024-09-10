@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Yixuan Li, Kim Gerdes, Bruno Guillaume.
 
 Repository: [UD_Chinese-PatentChar](https://github.com/UniversalDependencies/UD_Chinese-PatentChar)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_patentchar214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -43,18 +43,12 @@ Do not submit pull requests against the UD repository.
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
-
 A treebank of Chinese patent application texts collected from the Chinese patent office's website CNIPA.
-
-
-
-
 
 The sentences are randomly selected from the patent claims of the IPC section "G" from November 2017 to September 2018.
 
+
 The syntactic analysis is originally done in SUD on the character level under the name SUD_Chinese-PatentChar. See SUD Guidelines : https://surfacesyntacticud.github.io/guidelines/u/
-
-
 
 ## Acknowledgments
 
@@ -70,17 +64,17 @@ The syntactic analysis is originally done in SUD on the character level under th
 
 ## Relations
 
-[acl](zh_patentchar-dep-acl.html) – [advcl](zh_patentchar-dep-advcl.html) – [advmod](zh_patentchar-dep-advmod.html) – [amod](zh_patentchar-dep-amod.html) – [appos](zh_patentchar-dep-appos.html) – [case](zh_patentchar-dep-case.html) – [cc](zh_patentchar-dep-cc.html) – [ccomp](zh_patentchar-dep-ccomp.html) – [conj](zh_patentchar-dep-conj.html) – [csubj](zh_patentchar-dep-csubj.html) – [dep](zh_patentchar-dep-dep.html) – [goeswith](zh_patentchar-dep-goeswith.html) – [iobj](zh_patentchar-dep-iobj.html) – [mark](zh_patentchar-dep-mark.html) – [nmod](zh_patentchar-dep-nmod.html) – [nsubj](zh_patentchar-dep-nsubj.html) – [nummod](zh_patentchar-dep-nummod.html) – [obj](zh_patentchar-dep-obj.html) – [obl](zh_patentchar-dep-obl.html) – [obl:arg](zh_patentchar-dep-obl-arg.html) – [parataxis](zh_patentchar-dep-parataxis.html) – [punct](zh_patentchar-dep-punct.html) – [root](zh_patentchar-dep-root.html)
+[acl](zh_patentchar-dep-acl.html) – [advcl](zh_patentchar-dep-advcl.html) – [advmod](zh_patentchar-dep-advmod.html) – [amod](zh_patentchar-dep-amod.html) – [appos](zh_patentchar-dep-appos.html) – [aux](zh_patentchar-dep-aux.html) – [case](zh_patentchar-dep-case.html) – [cc](zh_patentchar-dep-cc.html) – [ccomp](zh_patentchar-dep-ccomp.html) – [compound:vv](zh_patentchar-dep-compound-vv.html) – [conj](zh_patentchar-dep-conj.html) – [csubj](zh_patentchar-dep-csubj.html) – [dep](zh_patentchar-dep-dep.html) – [det](zh_patentchar-dep-det.html) – [mark](zh_patentchar-dep-mark.html) – [nmod](zh_patentchar-dep-nmod.html) – [nsubj](zh_patentchar-dep-nsubj.html) – [nummod](zh_patentchar-dep-nummod.html) – [obj](zh_patentchar-dep-obj.html) – [obl](zh_patentchar-dep-obl.html) – [obl:arg](zh_patentchar-dep-obl-arg.html) – [parataxis](zh_patentchar-dep-parataxis.html) – [punct](zh_patentchar-dep-punct.html) – [root](zh_patentchar-dep-root.html) – [xcomp](zh_patentchar-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 100 sentences and 2160 tokens.</li>
+<li>This corpus contains 200 sentences and 4784 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2159 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 4784 tokens (100%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -88,7 +82,7 @@ The syntactic analysis is originally done in SUD on the character level under th
 </ul>
 
 <ul>
-<li>This corpus contains 14 types of words that contain both letters and punctuation. Examples: paddr_vmcoreinfo_xen, domain_list, vmcoreinfo_data, vmcoreinfo_xen, DIRECTMAP_VIRT_START, pgd_l4, vmcs_struct, 10M/100M/1000M, FPGA。, ach_vcpu, arch_vmx_struct, hvm_vcpu, pgd_l4；, vmcoreinfo_data></li>
+<li>This corpus contains 15 types of words that contain both letters and punctuation. Examples: paddr_vmcoreinfo_xen, domain_list, vmcoreinfo_data, vmcoreinfo_xen, DIRECTMAP_VIRT_START, pgd_l4, vmcs_struct, 10M/100M/1000M, FPGA。, ach_vcpu, arch_vmx_struct, guest_cr3, hvm_vcpu, pgd_l4；, vmcoreinfo_data></li>
 </ul>
 
 <ul>
@@ -104,7 +98,7 @@ The syntactic analysis is originally done in SUD on the character level under th
 </ul>
 
 <ul>
-<li>This corpus contains 13 word types tagged as particles (PART): 上, 下, 中, 之前, 之间, 了, 以上, 内, 后, 地, 所, 时, 的</li>
+<li>This corpus contains 14 word types tagged as particles (PART): 上, 中, 之, 了, 以上, 地, 对, 将, 所, 把, 的, 等, 被, 间</li>
 </ul>
 
 <ul>
@@ -177,7 +171,7 @@ The syntactic analysis is originally done in SUD on the character level under th
 </ul>
 
 <ul>
-<li>This corpus does not contain auxiliaries.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -186,7 +180,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (83)</li>
+      <li>VERB--NOUN (185)</li>
     </ul>
   </li>
 </ul>
@@ -194,8 +188,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (97)</li>
-      <li>VERB--NOUN-ADP(_) (13)</li>
+      <li>VERB--NOUN (229)</li>
+      <li>VERB--NOUN-ADP(_) (35)</li>
       <li>VERB--PRON-ADP(_) (1)</li>
     </ul>
   </li>
@@ -214,6 +208,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 1 relation subtypes: <a>obl:arg</a></li>
-<li>The following 15 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>cop</a>, <a>det</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+<li>This corpus uses 2 relation subtypes: <a>compound:vv</a>, <a>obl:arg</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>cop</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-HK: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (6%), 14 `SCONJ` types (1%) and 68 `SCONJ` tokens (1%).
-Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 15 in number of types and 14 in number of tokens.
+There are 14 `SCONJ` lemmas (1%), 14 `SCONJ` types (1%) and 68 `SCONJ` tokens (1%).
+Out of 16 observed tags, the rank of `SCONJ` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: _
+The 10 most frequent `SCONJ` lemmas: 如果、 即使、 所、 來、 以、 無論、 的話、 雖然、 既然、 一旦
 
 The 10 most frequent `SCONJ` types:  如果、 即使、 所、 來、 以、 無論、 的話、 雖然、 既然、 一旦
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 1848, <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> 1766, <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> 1738, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 1158, <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> 875, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 560, <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> 502, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 321, <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> 301, <tt><a href="zh_hk-pos-DET.html">DET</a></tt> 260, <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt> 177, <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> 166, <tt><a href="zh_hk-pos-CCONJ.html">CCONJ</a></tt> 99, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> 34, <tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 所 (<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 來 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 20, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 以 (<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 2), 的話 (<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 由於 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 2, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 1), 當 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 3, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  所 (<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 來 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 20, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 1, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 以 (<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 2), 的話 (<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="zh_hk-pos-PART.html">PART</a></tt> 1), 由於 (<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> 2, <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> 2, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 1), 當 (<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> 3, <tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -42,9 +42,13 @@ The 10 most frequent ambiguous types:  所 (<tt><a href="zh_hk-pos-SCONJ.html">S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 14.000000 (the average of all parts of speech is 107.937500).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.007013).
 
-The 1st highest number of forms (14) was observed with the lemma “_”: 一旦, 以, 來, 倘若, 即使, 如果, 所, 既然, 無論, 由於, 當, 的話, 除非, 雖然.
+The 1st highest number of forms (1) was observed with the lemma “一旦”: 一旦.
+
+The 2nd highest number of forms (1) was observed with the lemma “以”: 以.
+
+The 3rd highest number of forms (1) was observed with the lemma “來”: 來.
 
 `SCONJ` does not occur with any features.
 
@@ -53,17 +57,19 @@ The 1st highest number of forms (14) was observed with the lemma “_”: 一旦
 
 `SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="zh_hk-dep-mark.html">mark</a></tt> (66; 97% instances), <tt><a href="zh_hk-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="zh_hk-dep-discourse.html">discourse</a></tt> (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 4 different parts of speech: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (62; 91% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (63; 93% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 3% instances)
 
 67 (99%) `SCONJ` nodes are leaves.
 
 0 (0%) `SCONJ` nodes have one child.
 
-1 (1%) `SCONJ` nodes have two children.
+0 (0%) `SCONJ` nodes have two children.
 
-The highest child degree of a `SCONJ` node is 2.
+1 (1%) `SCONJ` nodes have three or more children.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="zh_hk-dep-conj.html">conj</a></tt> (1; 50% instances), <tt><a href="zh_hk-dep-obl.html">obl</a></tt> (1; 50% instances)
+The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="zh_hk-dep-conj.html">conj</a></tt> (1; 33% instances), <tt><a href="zh_hk-dep-obl.html">obl</a></tt> (1; 33% instances), <tt><a href="zh_hk-dep-punct.html">punct</a></tt> (1; 33% instances)
+
+Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="zh_hk-pos-PUNCT.html">PUNCT</a></tt> (1; 33% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 33% instances)
 

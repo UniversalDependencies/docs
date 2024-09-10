@@ -8,66 +8,63 @@ udver: '2'
 
 This relation is universal.
 
-720 nodes (0%) are attached to their parents as `orphan`.
+1217 nodes (1%) are attached to their parents as `orphan`.
 
-538 instances of `orphan` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.33472222222222.
+787 instances of `orphan` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.79950698438784.
 
-The following 66 pairs of parts of speech are connected with `orphan`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (98; 14% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (54; 8% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (47; 7% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (32; 4% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (31; 4% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (31; 4% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (29; 4% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (27; 4% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (25; 3% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (23; 3% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (21; 3% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (19; 3% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (15; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 54 pairs of parts of speech are connected with `orphan`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (177; 15% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (97; 8% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (85; 7% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (82; 7% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (77; 6% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (70; 6% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (54; 4% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (45; 4% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (41; 3% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (36; 3% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (34; 3% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (30; 2% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (27; 2% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (27; 2% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (25; 2% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (25; 2% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (24; 2% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (20; 2% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (20; 2% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (19; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 orphan	color:blue
-1	oculum	oculus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	Ref=MATT_5.38
-2	pro	pro	ADP	R-	_	3	case	_	Ref=MATT_5.38
-3	oculo	oculus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	obl	_	Ref=MATT_5.38
-4	et	et	CCONJ	C-	_	1	cc	_	Ref=MATT_5.38
-5	dentem	dens	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	Ref=MATT_5.38
-6	pro	pro	ADP	R-	_	7	case	_	Ref=MATT_5.38
-7	dente	dens	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	orphan	_	Ref=MATT_5.38
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 orphan	color:blue
+1	oculum	oculus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	0	root	_	ref=MATT_5.38
+2	pro	pro	ADP	R-	_	3	case	_	ref=MATT_5.38
+3	oculo	oculus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	1	orphan	_	ref=MATT_5.38
+4	et	et	CCONJ	C-	_	5	cc	_	ref=MATT_5.38
+5	dentem	dens	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	ref=MATT_5.38
+6	pro	pro	ADP	R-	_	7	case	_	ref=MATT_5.38
+7	dente	dens	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	5	orphan	_	ref=MATT_5.38
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 orphan	color:blue
-1	ecce	ecce	INTJ	I-	_	2	vocative	_	Ref=ACTS_7.55
-2	video	video	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=ACTS_7.55
-3	caelos	caelum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	Ref=ACTS_7.55
-4	apertos	aperio	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	2	xcomp	_	Ref=ACTS_7.55
-5	et	et	CCONJ	C-	_	2	cc	_	Ref=ACTS_7.55
-6	Filium	filius	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	Ref=ACTS_7.55
-7	hominis	homo	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Ref=ACTS_7.55
-8	a	ab	ADP	R-	_	9	case	_	Ref=ACTS_7.55
-9	dextris	dexter	ADJ	A-	Case=Abl|Degree=Pos|Gender=Neut|Number=Plur	10	obl	_	Ref=ACTS_7.55
-10	stantem	sto	VERB	V-	Case=Acc|Gender=Fem,Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	orphan	_	Ref=ACTS_7.55
-11	Dei	deus	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Ref=ACTS_7.55
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 orphan	color:blue
+1	et	et	CCONJ	C-	_	2	cc	_	ref=ACTS_10.15
+2	vox	vox	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=ACTS_10.15
+3	iterum	iterum	ADV	Df	_	2	orphan	_	ref=ACTS_10.15
+4	secundo	secundo	ADV	Df	_	2	orphan	_	ref=ACTS_10.15
+5	ad	ad	ADP	R-	_	6	case	_	ref=ACTS_10.15
+6	eum	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	orphan	_	ref=ACTS_10.15
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 orphan	color:blue
-1	oportet	oportet	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_21.9
-2	primum	primum	ADV	Df	_	1	advmod	_	Ref=LUKE_21.9
-3	haec	hic	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	4	nsubj:pass	_	Ref=LUKE_21.9
-4	fieri	fio	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	1	ccomp	_	Ref=LUKE_21.9
-5	sed	sed	CCONJ	C-	_	1	cc	_	Ref=LUKE_21.9
-6	non	non	ADV	Df	Polarity=Neg	8	advmod	_	Ref=LUKE_21.9
-7	statim	statim	ADV	Df	_	8	orphan	_	Ref=LUKE_21.9
-8	finis	finis	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=LUKE_21.9
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 orphan	color:blue
+1	et	et	CCONJ	C-	_	3	cc	_	ref=LUKE_5.18
+2	ecce	ecce	INTJ	I-	_	3	discourse	_	ref=LUKE_5.18
+3	viri	vir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=LUKE_5.18
+4	portantes	porto	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	orphan	_	ref=LUKE_5.18
+5	in	in	ADP	R-	_	6	case	_	ref=LUKE_5.18
+6	lecto	lectus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	4	obl	_	ref=LUKE_5.18
+7	hominem	homo	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=LUKE_5.18
+8	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	ref=LUKE_5.18
+9	erat	sum	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	ref=LUKE_5.18
+10	paralyticus	paralyticus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	acl	_	ref=LUKE_5.18
 
 ~~~
 

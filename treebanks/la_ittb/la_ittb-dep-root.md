@@ -11,9 +11,9 @@ This relation is universal.
 26977 nodes (6%) are attached to their parents as `root`.
 
 26977 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.07057864106461.
+Average distance between parent and child is 6.12188160284687.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (17245; 64% instances), -<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2965; 11% instances), -<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (2467; 9% instances), -<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2076; 8% instances), -<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (1388; 5% instances), -<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (501; 2% instances), -<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (145; 1% instances), -<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (95; 0% instances), -<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (41; 0% instances), -<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (33; 0% instances), -<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (17484; 65% instances), -<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (3383; 13% instances), -<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (2550; 9% instances), -<tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (2233; 8% instances), -<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (636; 2% instances), -<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (318; 1% instances), -<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (235; 1% instances), -<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (42; 0% instances), -<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), -<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (33; 0% instances), -<tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (13; 0% instances), -<tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances).
 
 
 ~~~ conllu
@@ -61,10 +61,10 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	philosophum	philosophus	NOUN	B1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	5	obl	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	3	punct	_	_
 5	sapientis	sapiens	ADJ	C1|grn1|casB|gen1	Case=Gen|Gender=Masc|InflClass=IndEurI|Number=Sing	0	root	_	_
-6	est	sum	AUX	N3|modA|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	5	cop	_	_
+6	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 7	causas	causa	NOUN	A1|grn1|casM|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	9	obj	_	_
 8	altissimas	altus	ADJ	A1|grn3|casM|gen2	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Plur	7	amod	_	_
-9	considerare	considero	VERB	J3|modH|tem1	Aspect=Imp|InflClass=LatA|VerbForm=Vnoun|Voice=Act	5	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	considerare	considero	VERB	J3|modH|tem1	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Act	5	csubj	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	.	.	PUNCT	Punc	_	5	punct	_	_
 
 ~~~

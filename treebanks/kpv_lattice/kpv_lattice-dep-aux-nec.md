@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_
 7	вошӧмъяскӧд	вошӧм	NOUN	N	Case=Com|Number=Plur	8	obl	_	_
 8	тышкасьӧм	тышкасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	obl	_	_
-9	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
+9	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -45,13 +45,13 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 # visual-style 10 8 aux:nec	color:blue
 1	Сідзкӧ	сідзкӧ	ADV	Adv	_	3	advmod:mmod	_	_
 2	нин	нин	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Sem/Time
-3	шуны	шуны	VERB	V	Valency=2|VerbForm=Inf	10	advcl	_	GTtags=TV,Inf|SpaceAfter=No
+3	шуны	шуны	VERB	V	VerbForm=Inf	10	advcl	_	GTtags=TV,Inf|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	кыйсьысь	кыйсьыны	VERB	V	Derivation=NomAg|VerbForm=Part|Voice=Act	6	nmod	_	GTtags=Refl,Der,Der/ысь,ActPrsPtc
 6	кодьӧн	кодь	ADJ	A	Case=Ins|Number=Sing	10	xcomp	_	GTtags=CompMod,Sg,Ins
 7	на	на	ADV	Adv	_	6	advmod:tmod	_	_
-8	колӧ	ковны	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	10	aux:nec	_	GTtags=TV,Ind,Prs,Sg3
-9	лоны	лоны	AUX	_	Valency=1|VerbForm=Inf	10	cop	_	GTtags=IV,Inf
+8	колӧ	ковны	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	aux:nec	_	GTtags=TV,Ind,Prs,Sg3
+9	лоны	лоны	AUX	_	VerbForm=Inf	10	cop	_	GTtags=IV,Inf
 10	бур	бур	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom
 11	мастерыдлы	мастер	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2	10	obl	_	GTtags=Sg,Dat,PxSg2|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 14	вежӧраӧн	вежӧра	ADJ	A	Case=Ins|Number=Sing	10	xcomp	_	GTtags=Sg,Ins
 15	да	да	CCONJ	CC	_	17	cc	_	_
 16	абусьыс	абу	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	17	obl	_	GTtags=Sg,Ela,PxSg3
-17	аддзанаӧн	аддзыны	VERB	V	Case=Ins|Derivation=Ana|Number=Sing|Tense=Pres|Valency=2|VerbForm=Part	14	conj	_	GTtags=TV,Der,Der/Ан,PrsPrc,N,Sg,Der|Der/ProprietiveMod|A|Sg|Ins|SpaceAfter=No
+17	аддзанаӧн	аддзыны	VERB	V	Case=Ins|Derivation=Ana|Number=Sing|Tense=Pres|VerbForm=Part	14	conj	_	GTtags=TV,Der,Der/Ан,PrsPrc,N,Sg,Der|Der/ProprietiveMod|A|Sg|Ins|SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	10	punct	_	_
 
 ~~~
@@ -78,11 +78,11 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 5	обязанӧсь	обязан	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	OrigLang=ru
 6	тышкасьны	тышкасьны	VERB	V	VerbForm=Inf	5	advcl	_	_
 7	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
-8	вӧсна	вӧсна	ADP	Po	_	7	case	_	SpaceAfter=No
+8	вӧсна	вӧсна	ADP	Po	AdpType=Post	7	case	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	14	punct	_	_
 10	медым	медым	SCONJ	CS	_	14	mark	_	_
 11	му	му	NOUN	N	Case=Nom|Number=Sing	14	obl:lmod	_	_
-12	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
+12	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	11	case	_	_
 13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	14	aux:neg	_	_
 14	коль	кольны	VERB	V	Connegative=Yes	7	acl:relcl	_	_
 15	ниӧти	ниӧти	PRON	Pro	Case=Nom|Number=Sing|Polarity=Neg	16	det	_	_
@@ -105,7 +105,7 @@ The following 3 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 32	воӧ	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	conj	_	_
 33	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	32	nsubj	_	_
 34	трудодень	трудодень	NOUN	N	Case=Nom|Number=Sing	32	obl	_	OrigLang=ru
-35	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
+35	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
 36	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

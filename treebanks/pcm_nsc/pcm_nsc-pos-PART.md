@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naija-NSC: POS Tags: `PART`
 
-There are 26 `PART` lemmas (1%), 27 `PART` types (1%) and 1357 `PART` tokens (1%).
+There are 26 `PART` lemmas (1%), 27 `PART` types (1%) and 1365 `PART` tokens (1%).
 Out of 15 observed tags, the rank of `PART` is: 11 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>o, sef, no, not, sha, dem, ma, shey, ni, ba</em>
 
-The 10 most frequent `PART` types:  <em>o, sef, no, sha, not, dem, ma, n't, shey, ni</em>
+The 10 most frequent `PART` types:  <em>o, sef, no, sha, not, dem, n't, ma, shey, ni</em>
 
 The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 700, <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> 1), <em>no</em> (<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 1625, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 164, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 38, <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> 23, <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> 1), <em>sha</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 71, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 1), <em>dem</em> (<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> 2221, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 42, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 2), <em>ma</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 28, <tt><a href="pcm_nsc-pos-X.html">X</a></tt> 3), <em>nna</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 10, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 2), <em>nko</em> (<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 6, <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 1), <em>bah</em> (<tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 3), <em>mai</em> (<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 2), <em>be</em> (<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> 1030, <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> 305, <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> 1)
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="pcm_nsc-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.038462 (the average of all parts of speech is 1.162888).
+The form / lemma ratio of `PART` is 1.038462 (the average of all parts of speech is 1.162341).
 
 The 1st highest number of forms (2) was observed with the lemma “not”: <em>n't, not</em>.
 
@@ -62,7 +62,7 @@ The 2nd highest number of forms (2) was observed with the lemma “sef”: <em>s
 
 The 3rd highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 
-`PART` occurs with 7 features: <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (986; 73% instances), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt> (236; 17% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (42; 3% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-Reflex.html">Reflex</a></tt> (1; 0% instances)
+`PART` occurs with 7 features: <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (986; 72% instances), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt> (244; 18% instances), <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt> (42; 3% instances), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-feat-Person.html">Person</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-Reflex.html">Reflex</a></tt> (1; 0% instances)
 
 `PART` occurs with 11 feature-value pairs: `Case=Acc`, `Number=Plur`, `Number=Sing`, `PartType=Cop`, `PartType=Disc`, `Person=1`, `Person=3`, `Polarity=Neg`, `PronType=Int`, `PronType=Prs`, `Reflex=Yes`
 
@@ -73,11 +73,11 @@ Examples: <em>o, sef, sha, ma, ba, self, kwa</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 17 different relations: <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (1098; 81% instances), <tt><a href="pcm_nsc-dep-root.html">root</a></tt> (75; 6% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (59; 4% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt> (17; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (17; 1% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (14; 1% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (12; 1% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-obj.html">obj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 17 different relations: <tt><a href="pcm_nsc-dep-advmod.html">advmod</a></tt> (1106; 81% instances), <tt><a href="pcm_nsc-dep-root.html">root</a></tt> (75; 5% instances), <tt><a href="pcm_nsc-dep-discourse.html">discourse</a></tt> (59; 4% instances), <tt><a href="pcm_nsc-dep-compound-redup.html">compound:redup</a></tt> (25; 2% instances), <tt><a href="pcm_nsc-dep-flat-foreign.html">flat:foreign</a></tt> (18; 1% instances), <tt><a href="pcm_nsc-dep-parataxis.html">parataxis</a></tt> (17; 1% instances), <tt><a href="pcm_nsc-dep-parataxis-conj.html">parataxis:conj</a></tt> (17; 1% instances), <tt><a href="pcm_nsc-dep-reparandum.html">reparandum</a></tt> (14; 1% instances), <tt><a href="pcm_nsc-dep-ccomp.html">ccomp</a></tt> (12; 1% instances), <tt><a href="pcm_nsc-dep-advcl.html">advcl</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (613; 45% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (278; 20% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (91; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (80; 6% instances),  (75; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (55; 4% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (46; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (44; 3% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (30; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (13; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 15 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (620; 45% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (278; 20% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (91; 7% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (80; 6% instances),  (75; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (55; 4% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (46; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (44; 3% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (30; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (13; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (10; 1% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-1169 (86%) `PART` nodes are leaves.
+1177 (86%) `PART` nodes are leaves.
 
 26 (2%) `PART` nodes have one child.
 

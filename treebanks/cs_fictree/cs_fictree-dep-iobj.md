@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-271 nodes (0%) are attached to their parents as `iobj`.
+97 nodes (0%) are attached to their parents as `iobj`.
 
-157 instances of `iobj` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.75276752767528.
+64 instances of `iobj` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.4639175257732.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (139; 51% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (91; 34% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (26; 10% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (6; 2% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (61; 63% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (26; 27% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (3; 3% instances).
 
 
 ~~~ conllu
@@ -46,39 +46,34 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 iobj	color:blue
-1	Jako	jako	SCONJ	J,-------------	_	2	mark	2:mark	_
-2	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	4	xcomp	4:xcomp	_
-3	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
-4	měla	mít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
-5	podobné	podobný	ADJ	AAIP4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	6	amod	6:amod	_
-6	pocity	pocit	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	iobj	4:iobj	SpaceAfter=No
+1	Nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	2	obj	2:obj	_
+2	neříkají	říkat	VERB	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	SpaceAfter=No
+4	informoval	informovat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+5	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
+6	šéfa	šéf	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	iobj	4:iobj	SpaceAfter=No
 7	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 iobj	color:blue
-1	"	"	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
-2	Tatínku	tatínek	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	7	vocative	7:vocative	SpaceAfter=No
-3	,	,	PUNCT	Z:-------------	_	7	punct	7:punct	_
-4	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj|8:nsubj	_
-5	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	8	iobj	8:iobj	_
-6	už	už	ADV	Db-------------	_	7	advmod	7:advmod	_
-7	nemůžu	moci	VERB	VB-S---1P-NA---	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-8	vydržet	vydržet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	7	xcomp	7:xcomp	SpaceAfter=No
-9	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_
-10	jak	jak	CCONJ	J^-------------	_	12	mark	12:mark	_
-11	tě	ty	PRON	PH-S4--2-------	Case=Acc|Number=Sing|Person=2|PronType=Prs|Variant=Short	12	obj	12:obj	_
-12	nenávidí	nenávidět	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	8:ccomp	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
-14	.	.	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	7	punct	7:punct	SpaceAfter=No
-16	"	"	PUNCT	Z:-------------	_	7	punct	7:punct	_
+# visual-style 5 4 iobj	color:blue
+1	Co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	3	nsubj	3:nsubj|5:nsubj:xsubj	_
+2	jiného	jiný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	amod	1:amod	_
+3	mohlo	moci	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+4	Filipa	Filip	PROPN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|NameType=Giv|Number=Sing|Polarity=Pos	5	iobj	5:iobj	_
+5	přimět	přimět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	3:xcomp	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	10	punct	10:punct	_
+7	aby	aby	SCONJ	J,-------------	_	10	mark	10:mark	_
+8	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	10	aux	10:aux	_
+9	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	10	obl:arg	10:obl:arg:dat	_
+10	telefonoval	telefonovat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	ccomp	5:ccomp	SpaceAfter=No
+11	?	?	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.354259).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.352795).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “.”: <em>.</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="fr_rhapsodie-dep-punct.html">punct</a></tt> (8821; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2756; 31% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (1852; 21% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1608; 18% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (941; 11% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (471; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (381; 4% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (275; 3% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (191; 2% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (98; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (70; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (63; 1% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (52; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (36; 0% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> (2701; 31% instances), <tt><a href="fr_rhapsodie-pos-INTJ.html">INTJ</a></tt> (1862; 21% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt> (1449; 16% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (956; 11% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (458; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> (362; 4% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt> (250; 3% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt> (239; 3% instances), <tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (218; 2% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt> (125; 1% instances), <tt><a href="fr_rhapsodie-pos-X.html">X</a></tt> (95; 1% instances), <tt><a href="fr_rhapsodie-pos-NUM.html">NUM</a></tt> (40; 0% instances), <tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (39; 0% instances), <tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (27; 0% instances)
 
 8821 (100%) `PUNCT` nodes are leaves.
 

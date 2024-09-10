@@ -53,9 +53,9 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	–	–	PUNCT	Z	_	10	punct	10:punct	_
 10	408	408	NUM	0	NumForm=Digit	8	conj	7:obl|8:conj	SpaceAfter=No
 11	)	)	PUNCT	Z	_	7	punct	7:punct	SpaceAfter=No
-12	,	,	PUNCT	Z	_	13	punct	11.1:punct	_
-13	matkou	matka	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	2	conj	11.1:dep	_
-14	Eudoxia	eudoxia	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	13	orphan	11.1:dep	SpaceAfter=No
+12	,	,	PUNCT	Z	_	13	punct	13:punct	_
+13	matkou	matka	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	2	conj	0:root|2:conj	_
+14	Eudoxia	eudoxia	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	2	conj	0:root|2:conj	SpaceAfter=No
 15	,	,	PUNCT	Z	_	16	punct	16:punct	_
 16	dcéra	dcéra	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	14	appos	14:appos	_
 17	magistra	magister	NOUN	SSms2	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	nmod	19:nmod:gen	_
@@ -74,7 +74,7 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 8 17 parataxis	color:blue
 1	"	"	PUNCT	ZIP	_	2	punct	2:punct	SpaceAfter=No
 2	Môže	môcť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	ccomp	8:ccomp	_
-3	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	2:nsubj|4:nsubj	_
+3	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	2:nsubj|4:nsubj:xsubj	_
 4	trvať	trvať	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	_
 5	dlho	dlho	ADV	Dx	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
 6	,	,	PUNCT	ZIP	_	2	punct	2:punct	SpaceAfter=No

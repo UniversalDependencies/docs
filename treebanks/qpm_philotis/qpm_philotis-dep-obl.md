@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Pomak-Philotis: Relations: `obl`
 
 This relation is universal.
+There are 4 language-specific subtypes of `obl`: <tt><a href="qpm_philotis-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="qpm_philotis-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="qpm_philotis-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="qpm_philotis-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-2026 nodes (2%) are attached to their parents as `obl`.
+1211 nodes (4%) are attached to their parents as `obl`.
 
-1222 instances of `obl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.20286278381046.
+922 instances of `obl` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.0074318744839.
 
-The following 23 pairs of parts of speech are connected with `obl`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1699; 84% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (97; 5% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (76; 4% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (38; 2% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (35; 2% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (15; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 36 pairs of parts of speech are connected with `obl`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (821; 68% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (154; 13% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (70; 6% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (21; 2% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (17; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (13; 1% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,23 +59,20 @@ The following 23 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 obl	color:blue
-1	Faf	faf	ADP	_	_	2	case	_	_
-2	Ǧumágün	Ǧumágün	PROPN	_	Case=Acc|Definite=Ind|Number=Sing	7	obl	_	_
-3	na	na	ADP	_	_	5	case	_	_
-4	23	23	NUM	_	Definite=Ind|Number=Plur|NumType=Card	5	nummod	_	_
-5	mesecáse	mésec	NOUN	_	Case=Acc|Definite=Def|Deixis=Prox|DeixisRef=1|Gender=Masc|Number=Sing	2	nmod	_	_
-6	še	še	AUX	_	_	7	aux	_	_
-7	dávot	dávom	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	ad	ad	ADP	_	_	9	case	_	_
-9	hükümétese	hükümét	NOUN	_	Case=Acc|Definite=Def|Deixis=Prox|DeixisRef=1|Gender=Masc|Number=Sing	7	iobj	_	_
-10	détišeno	détište	ADJ	_	Case=Acc|Definite=Def|Deixis=Remt|Gender=Fem|Number=Plur	11	amod	_	_
-11	parý	pará	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 obl	color:blue
+1	Tríne	tri	NUM	_	Definite=Def|Deixis=Remt|Number=Plur|NumType=Card	3	nummod	_	_
+2	altóneny	altónen	ADJ	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	3	amod	_	_
+3	jábalky	jábalka	NOUN	_	Case=Nom|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	_
+4	i	i	CCONJ	_	_	6	cc	_	_
+5	adín	adín	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+6	drákuloz	drákuloz	NOUN	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	3	conj	_	_
+7	sas	sas	ADP	_	_	9	case	_	_
+8	jedí	jedí	NUM	_	Definite=Ind|Number=Plur|NumType=Card	9	nummod	_	_
+9	glávy	glavá	NOUN	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	_
 
 ~~~
 

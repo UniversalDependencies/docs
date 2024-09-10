@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Vnoun` are language-specific.
 It occurs with 4 different values: `Ger`, `Inf`, `Part`, `Vnoun`.
 
-82 tokens (3%) have a non-empty value of `VerbForm`.
-51 types (7%) occur at least once with a non-empty value of `VerbForm`.
-48 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (78; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+86 tokens (3%) have a non-empty value of `VerbForm`.
+53 types (7%) occur at least once with a non-empty value of `VerbForm`.
+50 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (82; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-78 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+82 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (78; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (77; 99%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (82; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (82; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (82; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (81; 99%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 1% of non-empty `VerbForm`): <em>vaʹlljeeǩâni</em>
-* `Inf` (46; 59% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted</em>
-* `Part` (30; 38% of non-empty `VerbForm`): <em>teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, čõnnum, šõddâm, hoʹhssjam, jeällam</em>
+* `Inf` (47; 57% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, hiâvted, jååʹtted, mõõnnâd, mainsted, njuiʹǩǩeed, ǩiččâd, jälsted</em>
+* `Part` (33; 40% of non-empty `VerbForm`): <em>teâđstam, välddam, kaunnâm, košklõõvvâm, koǯstam, koǯǯâm, čõnnum, šõddâm, hoʹhssjam, jeällam</em>
 * `Vnoun` (1; 1% of non-empty `VerbForm`): <em>puälddmõõžž</em>
-* `EMPTY` (558): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, ǩieʹzzi, leäi, lij, jälste, vuõʹlji</em>
+* `EMPTY` (576): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, vuõʹlji</em>
 
 <table>
   <tr><th>Paradigm <i>väʹldded</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -34,11 +34,11 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="sms_giellagas-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt></tt></td><td></td><td><em>välddam</em></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 93% lemmas (43) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 94% lemmas (46) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
-4 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%).
 
@@ -46,12 +46,12 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Inf` (2; 50% of non-empty `VerbForm`): <em>leeʹd</em>
 * `Part` (2; 50% of non-empty `VerbForm`): <em>leämmaž, õlggâm</em>
-* `EMPTY` (151): <em>lij, ij, leäi, jiõk, õõk, liâ, õõlǥ, jiõm, leäk, leäkku</em>
+* `EMPTY` (158): <em>lij, ij, leäi, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>leeʹd</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sms_giellagas-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt></tt></td><td></td><td><em>leämmaž</em></td></tr>
-  <tr><td><tt><tt><a href="sms_giellagas-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>leeʹd</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `VerbForm`

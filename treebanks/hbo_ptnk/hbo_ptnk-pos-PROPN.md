@@ -6,62 +6,58 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Hebrew-PTNK: POS Tags: `PROPN`
 
-There are 419 `PROPN` lemmas (22%), 1163 `PROPN` types (19%) and 2597 `PROPN` tokens (7%).
+There are 419 `PROPN` lemmas (22%), 1194 `PROPN` types (12%) and 2597 `PROPN` tokens (7%).
 Out of 15 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>יהוה, יעקב, יוסף, אברהם, מצרים, יצחק, עשׂו, אברם, לבן, ישׂראל</em>
 
-The 10 most frequent `PROPN` types:  <em>יעקב, יַעֲקֹ֖ב, יֹוסֵ֔ף, יֹוסֵ֖ף, יְהוָה֙, אברהם, יַעֲקֹ֔ב, יהוה, אַבְרָהָ֖ם, יְהוָ֔ה</em>
+The 10 most frequent `PROPN` types:  <em>יַעֲקֹ֖ב, יַעֲקֹ֔ב, יֹוסֵ֔ף, יֹוסֵ֖ף, אַבְרָהָ֖ם, יְהוָה֙, יְהוָ֖ה, יְהוָ֔ה, יֹוסֵף֙, אַבְרָהָ֔ם</em>
 
 The 10 most frequent ambiguous lemmas: <em>לבן</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 54, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>רחל</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 45, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>שׂרה</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 37, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>לאה</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 34, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>שׁכם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 18, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 8, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 6), <em>שׁם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 127, <tt><a href="hbo_ptnk-pos-ADV.html">ADV</a></tt> 107, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 14), <em>חת</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>חמור</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 11), <em>שׁבע</em> (<tt><a href="hbo_ptnk-pos-NUM.html">NUM</a></tt> 73, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 19, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 11), <em>חם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>רחל</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 15, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>לבן</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>לָבָן֙</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1), <em>לאה</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1), <em>שֵׁ֖ם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>אור</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2), <em>חם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3), <em>שְׁכֶ֣ם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>שׁכם</em> (<tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 8, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3), <em>אשׁר</em> (<tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>לָבָן֙</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1), <em>שֵׁ֖ם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2), <em>שְׁכֶ֣ם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>אֲדֹנָ֔י</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2), <em>אָדָ֗ם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2), <em>שְׁכֶ֥ם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>שֵׁ֑ם</em> (<tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1), <em>אֵלָ֖ה</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>אָדָ֑ם</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1), <em>אָדָם֙</em> (<tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1)
 
 
-* <em>רחל</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 15: <em>ו נשׁק יַעֲקֹ֖ב ל <b>רחל</b> ו נשׂא אֶת ־ קול הוא ו בכה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>זֶה֩ עֶשְׂרִ֨ים שָׁנָ֤ה אָנֹכִי֙ עם אתה <b>רחל</b> אתה ו עז אתה לֹ֣א שִׁכֵּ֑לוּ ו איל צאן אתה לֹ֥א אָכָֽלְתִּי ׃</em>
-* <em>לבן</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 9: <em>ו ל <b>לבן</b> שְׁתֵּ֣י בָנֹ֑ות שֵׁ֤ם ה גדול לֵאָ֔ה ו שׁם ה קטן רָחֵֽל ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>חַכְלִילִ֥י עֵינַ֖יִם מן יין ו <b>לבן</b> ־ שִׁנַּ֖יִם מן חלב ׃ פ</em>
 * <em>לָבָן֙</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 7: <em>ו נתן <b>לָבָן֙</b> ל היא אֶת ־ זִלְפָּ֖ה שׁפחה הוא ל לאה בת הוא שִׁפְחָֽה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1: <em>ו סור ב ה יום ה הוא אֶת ־ ה תישׁ ה עקד ו ה טלא ו את כָּל ־ ה עז ה נקד ו ה טלא כֹּ֤ל אֲשֶׁר ־ <b>לָבָן֙</b> ב הוא ו כל ־ ח֖וּם ב ה כשׂב ו נתן ב יד ־ בן הוא ׃</em>
-* <em>לאה</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 6: <em>ו נתן לָבָן֙ ל היא אֶת ־ זִלְפָּ֖ה שׁפחה הוא ל <b>לאה</b> בת הוא שִׁפְחָֽה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>ו את ־ ה אישׁ אֲשֶׁר ־ פֶּ֣תַח ה בית הִכּוּ֙ ב ה סנורים מן קטן ו עד ־ גָּדֹ֑ול ו <b>לאה</b> ל מצא ה פתח ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 7: <em>וַ יִּתֵּ֤ן <b>לָבָן֙</b> לְ רָחֵ֣ל בִּתֹּ֔ ו אֶת ־ בִּלְהָ֖ה שִׁפְחָתֹ֑ ו לָ֖ הּ לְ שִׁפְחָֽה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-ADJ.html">ADJ</a></tt> 1: <em>וַ יָּ֣סַר בַּ ה יֹּום֩ הַ ה֨וּא אֶת ־ הַ תְּיָשִׁ֜ים הָֽ עֲקֻדִּ֣ים וְ הַ טְּלֻאִ֗ים וְ אֵ֤ת כָּל ־ הָֽ עִזִּים֙ הַ נְּקֻדֹּ֣ות וְ הַ טְּלֻאֹ֔ת כֹּ֤ל אֲשֶׁר ־ <b>לָבָן֙</b> בֹּ֔ ו וְ כָל ־ ח֖וּם בַּ ה כְּשָׂבִ֑ים וַ יִּתֵּ֖ן בְּ יַד ־ בָּנָֽי ו ׃</em>
 * <em>שֵׁ֖ם</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 5: <em>ו ילד נֹ֖חַ שְׁלֹשָׁ֣ה בָנִ֑ים אֶת ־ <b>שֵׁ֖ם</b> אֶת ־ חָ֥ם ו את ־ יָֽפֶת ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו אמר כָּל ־ ה עם אֲשֶׁר ־ ב ה שׁער ו ה זקן עֵדִ֑ים יִתֵּן֩ יְהוָ֨ה אֶֽת ־ ה אשׁה ה בוא אֶל ־ בית אתה כ רחל ׀ ו כ לאה אֲשֶׁ֨ר בָּנ֤וּ שׁנים הם אֶת ־ בֵּ֣ית יִשְׂרָאֵ֔ל ו עשׂה ־ חַ֣יִל ב אפרתה ו קרא ־ <b>שֵׁ֖ם</b> ב בית לָֽחֶם ׃</em>
-* <em>אור</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4: <em>ו ראה אֱלֹהִ֛ים אֶת ־ ה <b>אור</b> כִּי ־ טֹ֑וב ו בדל אֱלֹהִ֔ים בֵּ֥ין ה <b>אור</b> ו בין ה חשׁך ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3: <em>ו מות הָרָ֔ן עַל ־ פְּנֵ֖י תֶּ֣רַח אב הוא ב ארץ מולדת הוא ב <b>אור</b> כַּשְׂדִּֽים ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 2: <em>ו היה ל מאור ב רקיע ה שׁמים ל <b>אור</b> עַל ־ ה ארץ ו היה ־ כֵֽן ׃</em>
-* <em>חם</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 3: <em>ו נגד ל תמר לֵאמֹ֑ר הִנֵּ֥ה <b>חם</b> את עֹלֶ֥ה תִמְנָ֖תָה ל גזז צאן הוא ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3: <em>ו היה בְנֵי ־ נֹ֗חַ ה יצא מִן ־ ה תבה שֵׁ֖ם ו <b>חם</b> ו יפת ו <b>חם</b> ה֖וּא אֲבִ֥י כְנָֽעַן ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 5: <em>בְּנֵ֥י <b>שֵׁ֖ם</b> עֵילָ֣ם וְ אַשּׁ֑וּר וְ אַרְפַּכְשַׁ֖ד וְ ל֥וּד וַֽ אֲרָֽם ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>וַ יֵּ֤דַע קַ֨יִן֙ אֶת ־ אִשְׁתֹּ֔ ו וַ תַּ֖הַר וַ תֵּ֣לֶד אֶת ־ חֲנֹ֑וךְ וַֽ יְהִי֙ בֹּ֣נֶה עִ֔יר וַ יִּקְרָא֙ שֵׁ֣ם הָ עִ֔יר כְּ <b>שֵׁ֖ם</b> בְּנֹ֥ ו חֲנֹֽוךְ ׃</em>
 * <em>שְׁכֶ֣ם</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3: <em>ו את ־ חֲמֹור֙ ו את ־ <b>שְׁכֶ֣ם</b> בן הוא הָרְג֖וּ ל פה ־ חָ֑רֶב ו לקח אֶת ־ דִּינָ֛ה מן בית שְׁכֶ֖ם ו יצא ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו לקח שֵׁ֨ם ו יפת אֶת ־ ה שׂמלה ו שׂים עַל ־ <b>שְׁכֶ֣ם</b> שׁנים הם ו הלך אֲחֹ֣רַנִּ֔ית ו כסה אֵ֖ת עֶרְוַ֣ת אב הם ו פנה הם אֲחֹ֣רַנִּ֔ית ו ערוה אב הם לֹ֥א רָאֽוּ ׃</em>
-* <em>שׁכם</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 8: <em>ו <b>שׁכם</b> ב ה בקר ו שׁבע אִ֣ישׁ ל אח הוא ו שׁלח הם יִצְחָ֔ק ו הלך מן את הוא ב שׁלום ׃</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4: <em>ו ראה מְנֻחָה֙ כִּ֣י טֹ֔וב ו את ־ ה ארץ כִּ֣י נָעֵ֑מָה ו נטה <b>שׁכם</b> הוא ל סבל ו היה ל מס ־ עֹבֵֽד ׃ ס</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3: <em>ו הלך אח הוא ל רעה אֶׄתׄ ־ צֹ֥אן אב הם ב <b>שׁכם</b> ׃</em>
-* <em>אשׁר</em>
-  * <tt><a href="hbo_ptnk-pos-SCONJ.html">SCONJ</a></tt> 59: <em>ו עתה בן אני שְׁמַ֣ע ב קול אני ל <b>אשׁר</b> אֲנִ֖י מְצַוָּ֥ה את אתה ׃</em>
-  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2: <em>מן <b>אשׁר</b> שְׁמֵנָ֣ה לחם הוא ו הוא יִתֵּ֖ן מַֽעֲדַנֵּי ־ מֶֽלֶךְ ׃ ס</em>
-  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>ו אמר לֵאָ֔ה ב <b>אשׁר</b> אני כִּ֥י אשׁר אני בָּנֹ֑ות ו קרא אֶת ־ שׁם הוא אָשֵֽׁר ׃</em>
-  * <tt><a href="hbo_ptnk-pos-VERB.html">VERB</a></tt> 1: <em>ו אמר לֵאָ֔ה ב אשׁר אני כִּ֥י <b>אשׁר</b> אני בָּנֹ֑ות ו קרא אֶת ־ שׁם הוא אָשֵֽׁר ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 3: <em>וְ אֶת ־ חֲמֹור֙ וְ אֶת ־ <b>שְׁכֶ֣ם</b> בְּנֹ֔ ו הָרְג֖וּ לְ פִי ־ חָ֑רֶב וַ יִּקְח֧וּ אֶת ־ דִּינָ֛ה מִ בֵּ֥ית שְׁכֶ֖ם וַ יֵּצֵֽאוּ ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וַ יִּקַּח֩ שֵׁ֨ם וָ יֶ֜פֶת אֶת ־ הַ שִּׂמְלָ֗ה וַ יָּשִׂ֨ימוּ֙ עַל ־ <b>שְׁכֶ֣ם</b> שְׁנֵי הֶ֔ם וַ יֵּֽלְכוּ֙ אֲחֹ֣רַנִּ֔ית וַ יְכַסּ֕וּ אֵ֖ת עֶרְוַ֣ת אֲבִי הֶ֑ם וּ פְנֵי הֶם֙ אֲחֹ֣רַנִּ֔ית וְ עֶרְוַ֥ת אֲבִי הֶ֖ם לֹ֥א רָאֽוּ ׃</em>
+* <em>אֲדֹנָ֔י</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>וַ יַּ֣רְא <b>אֲדֹנָ֔י</b> ו כִּ֥י יְהוָ֖ה אִתֹּ֑ ו וְ כֹל֙ אֲשֶׁר ־ ה֣וּא עֹשֶׂ֔ה יְהוָ֖ה מַצְלִ֥יחַ בְּ יָדֹֽ ו ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2: <em>וַ יַּ֥עַן אַבְרָהָ֖ם וַ יֹּאמַ֑ר הִנֵּה ־ נָ֤א הֹואַ֨לְתִּי֙ לְ דַבֵּ֣ר אֶל ־ <b>אֲדֹנָ֔י</b> וְ אָנֹכִ֖י עָפָ֥ר וָ אֵֽפֶר ׃</em>
+* <em>אָדָ֗ם</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 2: <em>וַ יִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת ־ הָֽ <b>אָדָ֗ם</b> עָפָר֙ מִן ־ הָ֣ אֲדָמָ֔ה וַ יִּפַּ֥ח בְּ אַפָּ֖י ו נִשְׁמַ֣ת חַיִּ֑ים וַֽ יְהִ֥י הָֽ אָדָ֖ם לְ נֶ֥פֶשׁ חַיָּֽה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2: <em>וַ יִּֽהְי֣וּ יְמֵי ־ <b>אָדָ֗ם</b> אַֽחֲרֵי֙ הֹולִידֹ֣ ו אֶת ־ שֵׁ֔ת שְׁמֹנֶ֥ה מֵאֹ֖ת שָׁנָ֑ה וַ יֹּ֥ולֶד בָּנִ֖ים וּ בָנֹֽות ׃</em>
+* <em>שְׁכֶ֥ם</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2: <em>וַ יִּֽיטְב֥וּ דִבְרֵי הֶ֖ם בְּ עֵינֵ֣י חֲמֹ֑ור וּ בְ עֵינֵ֖י <b>שְׁכֶ֥ם</b> בֶּן ־ חֲמֹֽור ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וַ אֲנִ֞י נָתַ֧תִּֽי לְ ךָ֛ <b>שְׁכֶ֥ם</b> אַחַ֖ד עַל ־ אַחֶ֑י ךָ אֲשֶׁ֤ר לָקַ֨חְתִּי֙ מִ יַּ֣ד הָֽ אֱמֹרִ֔י בְּ חַרְבִּ֖ י וּ בְ קַשְׁתִּֽ י ׃ פ</em>
+* <em>שֵׁ֑ם</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 2: <em>וַ יֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי <b>שֵׁ֑ם</b> וִ יהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽ מֹו ׃</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וַ יֹּאמְר֞וּ הָ֣בָה ׀ נִבְנֶה ־ לָּ֣ נוּ עִ֗יר וּ מִגְדָּל֙ וְ רֹאשֹׁ֣ ו בַ ה שָּׁמַ֔יִם וְ נַֽעֲשֶׂה ־ לָּ֖ נוּ <b>שֵׁ֑ם</b> פֶּן ־ נָפ֖וּץ עַל ־ פְּנֵ֥י כָל ־ הָ אָֽרֶץ ׃</em>
+* <em>אֵלָ֖ה</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 1: <em>וַ יִּתְּנ֣וּ אֶֽל ־ יַעֲקֹ֗ב אֵ֣ת כָּל ־ אֱלֹהֵ֤י הַ נֵּכָר֙ אֲשֶׁ֣ר בְּ יָדָ֔ ם וְ אֶת ־ הַ נְּזָמִ֖ים אֲשֶׁ֣ר בְּ אָזְנֵי הֶ֑ם וַ יִּטְמֹ֤ן אֹתָ ם֙ יַעֲקֹ֔ב תַּ֥חַת הָ <b>אֵלָ֖ה</b> אֲשֶׁ֥ר עִם ־ שְׁכֶֽם ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>וְ֠ אֵלֶּה שְׁמֹ֞ות אַלּוּפֵ֤י עֵשָׂו֙ לְ מִשְׁפְּחֹתָ֔ ם לִ מְקֹמֹתָ֖ ם בִּ שְׁמֹתָ֑ ם אַלּ֥וּף תִּמְנָ֛ע אַלּ֥וּף עַֽלְוָ֖ה אַלּ֥וּף יְתֵֽת ׃ אַלּ֧וּף אָהֳלִיבָמָ֛ה אַלּ֥וּף <b>אֵלָ֖ה</b> אַלּ֥וּף פִּינֹֽן ׃ אַלּ֥וּף קְנַ֛ז אַלּ֥וּף תֵּימָ֖ן אַלּ֥וּף מִבְצָֽר ׃ אַלּ֥וּף מַגְדִּיאֵ֖ל אַלּ֣וּף עִירָ֑ם אֵ֣לֶּה ׀ אַלּוּפֵ֣י אֱדֹ֗ום לְ מֹֽשְׁבֹתָ ם֙ בְּ אֶ֣רֶץ אֲחֻזָּתָ֔ ם ה֥וּא עֵשָׂ֖ו אֲבִ֥י אֱדֹֽום ׃ פ</em>
+* <em>אָדָ֑ם</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4: <em>וַ יִּקְרָ֛א יְהוָ֥ה אֱלֹהִ֖ים אֶל ־ הָֽ <b>אָדָ֑ם</b> וַ יֹּ֥אמֶר לֹ֖ ו אַיֶּֽ כָּה ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>זֶ֣ה סֵ֔פֶר תֹּולְדֹ֖ת <b>אָדָ֑ם</b> בְּ יֹ֗ום בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּ דְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֹֽ ו ׃</em>
+* <em>אָדָם֙</em>
+  * <tt><a href="hbo_ptnk-pos-NOUN.html">NOUN</a></tt> 4: <em>וַ יִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת ־ הָֽ <b>אָדָם֙</b> בְּ צַלְמֹ֔ ו בְּ צֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹתֹ֑ ו זָכָ֥ר וּ נְקֵבָ֖ה בָּרָ֥א אֹתָֽ ם ׃</em>
+  * <tt><a href="hbo_ptnk-pos-PROPN.html">PROPN</a></tt> 1: <em>וַ יִּֽהְי֞וּ כָּל ־ יְמֵ֤י <b>אָדָם֙</b> אֲשֶׁר ־ חַ֔י תְּשַׁ֤ע מֵאֹות֙ שָׁנָ֔ה וּ שְׁלֹשִׁ֖ים שָׁנָ֑ה וַ יָּמֹֽת ׃ ס</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 2.775656 (the average of all parts of speech is 3.177604).
+The form / lemma ratio of `PROPN` is 2.849642 (the average of all parts of speech is 5.381405).
 
-The 1st highest number of forms (20) was observed with the lemma “יהוה”: <em>יְהֹוָ֖ה, יְהֹוָ֨ה, יְהוָ֑ה, יְהוָ֔ה, יְהוָ֖ה, יְהוָ֗ה, יְהוָ֛ה, יְהוָ֜ה, יְהוָ֞ה, יְהוָ֣ה, יְהוָ֤ה, יְהוָ֥ה, יְהוָ֧ה, יְהוָ֨ה, יְהוָֽה, יְהוָה֙, יְהוָה֮, יֱהוִ֔ה, יֱהוִה֙, יהוה</em>.
+The 1st highest number of forms (28) was observed with the lemma “יהוה”: <em>יְהֹוָ֖ה, יְהֹוָ֨ה, יְהוָ֑ה, יְהוָ֔ה, יְהוָ֖ה, יְהוָ֗ה, יְהוָ֛ה, יְהוָ֜ה, יְהוָ֞ה, יְהוָ֣ה, יְהוָ֤ה, יְהוָ֥ה, יְהוָ֧ה, יְהוָ֨ה, יְהוָֽה, יְהוָה֙, יְהוָה֮, יֱהוִ֔ה, יֱהוִה֙, יהֹוָ֖ה, יהוָ֑ה, יהוָ֔ה, יהוָ֖ה, יהוָ֗ה, יהוָ֛ה, יהוָ֞ה, יהוָֽה, יהוָה֙</em>.
 
-The 2nd highest number of forms (20) was observed with the lemma “יעקב”: <em>יַ֠עֲקֹב, יַֽעֲקֹ֑ב, יַֽעֲקֹ֔ב, יַֽעֲקֹ֣ב, יַעֲקֹ֑ב, יַעֲקֹ֔ב, יַעֲקֹ֖ב, יַעֲקֹ֗ב, יַעֲקֹ֛ב, יַעֲקֹ֜ב, יַעֲקֹ֣ב, יַעֲקֹ֤ב, יַעֲקֹ֥ב, יַעֲקֹ֧ב, יַעֲקֹ֨ב, יַעֲקֹֽב, יַעֲקֹב֒, יַעֲקֹב֙, יַעֲקֹב֮, יעקב</em>.
+The 2nd highest number of forms (21) was observed with the lemma “מצרים”: <em>מִּצְרַ֔יִם, מִּצְרַ֜יִם, מִּצְרָ֑יִם, מִּצְרָֽיִם, מִצְרַ֔יְמָה, מִצְרַ֔יִם, מִצְרַ֖יְמָה, מִצְרַ֖יִם, מִצְרַ֗יִם, מִצְרַ֛יִם, מִצְרַ֜יִם, מִצְרַ֡יִם, מִצְרַ֨יְמָה֙, מִצְרַ֨יִם, מִצְרַ֨יִם֙, מִצְרַיִם֒, מִצְרַיִם֮, מִצְרָ֑יְמָה, מִצְרָ֑יִם, מִצְרָֽיְמָה, מִצְרָֽיִם</em>.
 
-The 3rd highest number of forms (18) was observed with the lemma “יוסף”: <em>יֹוסֵ֑ף, יֹוסֵ֔ף, יֹוסֵ֖ף, יֹוסֵ֗ף, יֹוסֵ֛ף, יֹוסֵ֜ף, יֹוסֵ֞ף, יֹוסֵ֡ף, יֹוסֵ֣ף, יֹוסֵ֤ף, יֹוסֵ֥ף, יֹוסֵ֧ף, יֹוסֵ֨ף, יֹוסֵֽף, יֹוסֵף֒, יֹוסֵף֙, יֹוסֵף֮, יוסף</em>.
+The 3rd highest number of forms (20) was observed with the lemma “יעקב”: <em>יַ֠עֲקֹב, יַֽעֲקֹ֑ב, יַֽעֲקֹ֔ב, יַֽעֲקֹ֣ב, יַעֲקֹ֑ב, יַעֲקֹ֔ב, יַעֲקֹ֖ב, יַעֲקֹ֗ב, יַעֲקֹ֛ב, יַעֲקֹ֜ב, יַעֲקֹ֞ב, יַעֲקֹ֣ב, יַעֲקֹ֤ב, יַעֲקֹ֥ב, יַעֲקֹ֧ב, יַעֲקֹ֨ב, יַעֲקֹֽב, יַעֲקֹב֒, יַעֲקֹב֙, יַעֲקֹב֮</em>.
 
 `PROPN` occurs with 2 features: <tt><a href="hbo_ptnk-feat-Number.html">Number</a></tt> (2597; 100% instances), <tt><a href="hbo_ptnk-feat-Gender.html">Gender</a></tt> (1928; 74% instances)
 
@@ -69,7 +65,7 @@ The 3rd highest number of forms (18) was observed with the lemma “יוסף”:
 
 `PROPN` occurs with 4 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (1622 tokens).
-Examples: <em>יעקב, יַעֲקֹ֖ב, יֹוסֵ֔ף, יֹוסֵ֖ף, יְהוָה֙, אברהם, יַעֲקֹ֔ב, יהוה, אַבְרָהָ֖ם, יְהוָ֔ה</em>
+Examples: <em>יַעֲקֹ֖ב, יַעֲקֹ֔ב, יֹוסֵ֔ף, יֹוסֵ֖ף, אַבְרָהָ֖ם, יְהוָה֙, יְהוָ֖ה, יְהוָ֔ה, יֹוסֵף֙, אַבְרָהָ֔ם</em>
 
 
 ## Relations

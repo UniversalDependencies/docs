@@ -94,7 +94,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Gen` (16; 2% of non-empty `Case`): بولۇشنىڭ، قىلىشنىڭ، چىققاننىڭ، ئالمىشىشنىڭ، ئۆتۈشنىڭ، ئۇرۇشنىڭ، دېگەننىڭ، سۈرۈشنىڭ، سېلىشنىڭ، قازىنىشنىڭ
 * `Loc` (88; 9% of non-empty `Case`): كەلگەندە، بارغاندا، بولغاندا، قارىغاندا، قىلغاندا، ئۆتكەندە، قالغاندا، چىققاندا، ئاڭلىغاندا، قىلىشتا
 * `Nom` (633; 66% of non-empty `Case`): تۇرغان، دېگەن، بولغان، كەتكەن، قىلىش، قالغان، كەلگەن، بولۇشى، قىلغان، كۆرگەن
-* `EMPTY` (7376): دەپ، دېدى، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، كېلىپ، كۆرۈپ
+* `EMPTY` (7375): دەپ، دېدى، بولۇپ، قىلىپ، دەپتۇ، قاراپ، بار، ئېلىپ، كېلىپ، كۆرۈپ
 
 <table>
   <tr><th>Paradigm <i>بول</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -172,7 +172,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Dat` (1; 4% of non-empty `Case`): كېلىشكە
 * `Loc` (4; 16% of non-empty `Case`): قالغاندا، بولغاندا، تۇرغاندا
 * `Nom` (13; 52% of non-empty `Case`): قېلىشى، بولۇش، بولغان، بولغىنى، بولۇشى، تۇرغان، تۇرغىنى، قالغىنى، كەتكەن
-* `EMPTY` (885): ئىدى، بولۇپ، ئىكەن، كەتتى، قالدى، بولسا، بولدى، ئەمەس، بولىدۇ، قالدىم
+* `EMPTY` (886): ئىدى، بولۇپ، ئىكەن، كەتتى، قالدى، بولسا، بولدى، ئەمەس، بولىدۇ، قالدىم
 
 <table>
   <tr><th>Paradigm <i>بول</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>

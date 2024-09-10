@@ -38,4 +38,4 @@ Person is a lexical feature of personal and possessive [pronouns](PRON) and [det
 ### Conversion from JOS
 
 All tokens with feature Person=first are converted to `Person=1`, all tokens with feature Person=second are converted to `Person=2` and all tokens with feature Person=third are converted to `Person=3`.
-<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:12 CEST -->

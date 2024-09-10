@@ -67,7 +67,7 @@ The following 22 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	это	это	PART	_	_	7	expl	_	_
 6	их	их	DET	_	Poss=Yes|PronType=Prs	7	det	_	_
 7	дело	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_~
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

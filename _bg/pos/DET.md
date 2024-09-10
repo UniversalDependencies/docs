@@ -46,4 +46,4 @@ Note that the symbol `#', used in the Universal POS section indicates a holder f
 
 The symbol `@' marks the suppresion with one feature in the tag.
 
-<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:35 CEST -->

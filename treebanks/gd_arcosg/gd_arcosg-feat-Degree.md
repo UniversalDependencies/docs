@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp,Sup` (224; 100% of non-empty `Degree`): <em>fhearr, fhaide, fheàrr, motha, mhotha, lugha, tràithe, àirde, luaithe, shine</em>
-* `EMPTY` (3193): <em>eile, bith, sam, ùr, math, beag, mhòr, mòr, cinnteach, faisg</em>
+* `EMPTY` (3197): <em>eile, bith, sam, ùr, math, beag, mhòr, mòr, cinnteach, faisg</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (64) occur only with one value of `Degree`.
 

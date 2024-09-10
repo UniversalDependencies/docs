@@ -46,10 +46,10 @@ The following 13 pairs of parts of speech are connected with `aux`: <tt><a href=
 6	nú	nú	ADV	ADV	_	5	advmod	_	IFD_tag=aa
 7	sýnu	sýnn	ADJ	ADJ-D	Case=Dat|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	8	obl	_	IFD_tag=lheþsf
 8	betri	góður	ADJ	ADJR-N	Case=Nom|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing	5	amod	_	IFD_tag=lvenvm
-9	en	en	ADP	P	_	12	case	_	IFD_tag=c
+9	en	en	SCONJ	P	_	12	mark	_	IFD_tag=c
 10	áður	áður	ADV	ADV	_	12	advmod	_	IFD_tag=aa
 11	hefur	hafa	AUX	HVPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux	_	IFD_tag=sfg3en
-12	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	8	amod	_	IFD_tag=ssg|SpaceAfter=No
+12	verið	vera	AUX	BEN	VerbForm=Sup|Voice=Act	8	advcl	_	IFD_tag=ssg|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
 ~~~

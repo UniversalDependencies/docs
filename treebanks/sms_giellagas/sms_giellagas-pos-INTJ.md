@@ -13,27 +13,27 @@ The 10 most frequent `INTJ` lemmas: <em>no, näʹde, na, ij, pii, joo, äʹn, pi
 
 The 10 most frequent `INTJ` types:  <em>no, näʹde, na, ij, pii, joo, äʹn, Piʒʒ, A, Jaa</em>
 
-The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>näʹde</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 3), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 42, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 6), <em>äʹn</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 2), <em>a</em> (<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>no</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>näʹde</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 13, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 3), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 46, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 6), <em>äʹn</em> (<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 4, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3), <em>a</em> (<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>näʹde</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 17, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1), <em>äʹn</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 2), <em>A</em> (<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>näʹde</em> (<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>ij</em> (<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1), <em>äʹn</em> (<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 3, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 2), <em>A</em> (<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>näʹde</em>
   * <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 3: <em>Näʹde nuʹbb villj <b>näʹde</b> čõõnõõđškuõʹđi .</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1: <em>Muu ko kooʹddže de aaudže de tueʹllj piijže dõõzz-e kuäʹttnjälmma de <b>näʹde</b> ton õõk njuiʹǩǩeed pâʹjjel tõn tueʹllj õõk njuiʹǩǩeed , di jos piâzzžiǩ pâʹjjel tueʹllj de teʹl jiâ kååʹdd tuu . ”</em>
 * <em>ij</em>
-  * <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 17: <em>Jiijj puäʹtte ... kuätta puäʹtte , čuõvv <b>ij</b> kueʹst .</em>
+  * <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> 18: <em>Jiijj puäʹtte ... kuätta puäʹtte , čuõvv <b>ij</b> kueʹst .</em>
   * <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1: <em>Tieʹrmes ceälkk što ååʹn õõk , ååʹn õõk väʹldded veäʹšǩǩčåkkam , leeik ja vieʹččer ... <b>ij</b> , viʹlǧǧes reeʹppiǩ .</em>
 * <em>äʹn</em>
+  * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 3: <em>” Äʹn , <b>äʹn</b> äjjan äʹrbbaaušu ko viiǯǯžem ” , de vuäǯǯ son reäiʹj .</em>
   * <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 2: <em>” Äʹn , <b>äʹn</b> kâʹl mon piâzzam , ” ceälkk , ” ko dõõn ... ”</em>
-  * <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> 2: <em>Uurči , uurči , uurči , ceälkk , <b>äʹn</b> , <b>äʹn</b> , dõõn leeik vueʹlǧǧee .</em>
 * <em>A</em>
   * <tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>A</b> mäʹhtt šât ton še puõʹttiǩ . ”</em>
   * <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> 1: <em>– ” <b>A</b> heäppaž , muʹnne õõlǥči heävaš . ”</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.465909).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.476015).
 
 The 1st highest number of forms (1) was observed with the lemma “Oho”: <em>Oho</em>.
 

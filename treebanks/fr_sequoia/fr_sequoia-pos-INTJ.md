@@ -21,13 +21,19 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.406068).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.407211).
 
 The 1st highest number of forms (1) was observed with the lemma “eh”: <em>Eh</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “hélas”: <em>hélas</em>.
 
-`INTJ` does not occur with any features.
+`INTJ` occurs with 1 features: <tt><a href="fr_sequoia-feat-ExtPos.html">ExtPos</a></tt> (1; 33% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `ExtPos=INTJ`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2 tokens).
+Examples: <em>hélas</em>
 
 
 ## Relations
@@ -36,13 +42,15 @@ The 2nd highest number of forms (1) was observed with the lemma “hélas”: <e
 
 Parents of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 67% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 33% instances)
 
-2 (67%) `INTJ` nodes are leaves.
+1 (33%) `INTJ` nodes are leaves.
 
-1 (33%) `INTJ` nodes have one child.
+0 (0%) `INTJ` nodes have one child.
 
-The highest child degree of a `INTJ` node is 1.
+2 (67%) `INTJ` nodes have two children.
 
-Children of `INTJ` nodes are attached using 1 different relations: <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (1; 100% instances)
+The highest child degree of a `INTJ` node is 2.
 
-Children of `INTJ` nodes belong to 1 different parts of speech: <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 100% instances)
+Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="fr_sequoia-dep-punct.html">punct</a></tt> (3; 75% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (1; 25% instances)
+
+Children of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (3; 75% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 25% instances)
 

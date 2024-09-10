@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (32; 100% of non-empty `Abbr`): <em>BBC, UE, DU, E, J, R, T, UDA, A487, A55</em>
-* `EMPTY` (1887): <em>Cymru, Nghymru, Gymru, Bangor, Gwynedd, Eryri, Aberystwyth, Jones, Lloegr, Iwerddon</em>
+* `EMPTY` (1936): <em>Cymru, Nghymru, Gymru, Bangor, Gwynedd, Eryri, Wyddfa, Aberystwyth, Jones, Lloegr</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (20) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (15; 100% of non-empty `Abbr`): <em>g, b, AC, Dr, EFA, FS, MP3, Mr, yb, yp</em>
-* `EMPTY` (14753): <em>bod, cael, ôl, iaith, fod, gael, Gymraeg, ysgol, mynd, nifer</em>
+* `EMPTY` (15462): <em>bod, cael, ôl, iaith, fod, Gymraeg, gael, ysgol, mynd, nifer</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>ayb</em>
-* `EMPTY` (1133): <em>hefyd, yma, yna, iawn, dim, dyma, felly, mor, ymlaen, heddiw</em>
+* `EMPTY` (1181): <em>hefyd, yma, iawn, yna, dim, dyma, felly, mor, ymlaen, yno</em>
 

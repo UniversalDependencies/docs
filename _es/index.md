@@ -27,6 +27,8 @@ udver: '2'
 
 ### Tags
 
+This is an overview only. For more detailed discussion and examples, see the list of [Spanish POS tags](pos/index.html).
+
 * Spanish uses all 17 universal POS categories, including particles ([PART]()).
 * The only word to be tagged as particle is _no_ “not”.
 * TODO: rules for the PRON vs. DET distinction.
@@ -91,6 +93,7 @@ udver: '2'
 
 * [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
+* [NumForm]() is used with numerals ([NUM]()) and adjectives ([ADJ]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _mi_ “my”),
   possessive personal pronouns (e.g. _mío_ “mine”), and
   possessive interrogative or relative determiners (e.g. _cuyo_ “whose”).
@@ -113,6 +116,8 @@ udver: '2'
 * The following universal features are not used in Spanish: [Animacy](), [Evident]().
 
 ## Syntax
+
+This is an overview only. For more detailed discussion and examples, see the list of [Spanish relations](dep/index.html).
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
@@ -142,6 +147,13 @@ udver: '2'
   marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
   and the relation [iobj]() has no use in Spanish. To distinguish them from temporal and local adjuncts, we
   use the relation [obl:arg]() for the recipients.
+  * Under certain circumstances, the dative pronoun _le_ may be used instead of the accusative pronoun _lo_
+    to denote the direct object. This is called _leísmo_ ([Erichsen, Gerald. "Leísmo and the Use of 'Le' in Spanish."
+    ThoughtCo, Apr. 5, 2023](https://www.thoughtco.com/leismo-and-related-variations-3079360)). The UD annotation
+    does not distinguish these cases from the standard usage of dative pronouns. They are still tagged as
+    `Case=Dat` and their dependency is `obl:arg`, not `obj`, despite the fact that _leísmo_ can occur also with
+    primary transitive verbs (e.g. in Spanish PUD: _la Revolución <b>le</b> derrocó en 1879_ “the Revolution overthrew
+    him in 1879”).
 
 ~~~conllu
 # text = Jorge mató al dragón.
@@ -235,6 +247,8 @@ udver: '2'
     denotes a different action performed by the agent.
     In accord with the current UD guidelines, we label the relation
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _<b>se</b> trataba de un negocio nuevo_ “the matter is a new contract.”
+    * _Arrepentirse_ “regret” is an example of an inherently reflexive verb: There is no _*arrepentir_. <!-- from Cristina's talk at ÚFAL Monday seminar in April 2023 -->
+    * _Acordarse_ “remember” is an example where the reflexive morpheme carries derivation: The meaning has significantly shifted from the irreflexive _acordar_  “agree on”.
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
 

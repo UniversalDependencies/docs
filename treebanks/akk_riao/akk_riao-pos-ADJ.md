@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>rabû</em> (<tt><a href="akk_riao-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.455696 (the average of all parts of speech is 1.795993).
+The form / lemma ratio of `ADJ` is 2.455696 (the average of all parts of speech is 1.795510).
 
 The 1st highest number of forms (31) was observed with the lemma “_”: <em>1.KAM₂-šu₂, 2, UD.1.KAM₂, UD.13.KAM₂, UD.15, UD.15.KAM₂, UD.17.KAM₂, UD.18.KAM₂, UD.20.KAM₂, UD.22.KAM₂, UD.24.KAM₂, UD.26.KAM₂, UD.3.KAM₂, UD.4.KAM₂, UD.6.KAM₂, UD.8.KAM₂, UD.9.KAM₂, UD.ME.KAM₂, UD.x.KAM, UD.x.KAM₂, ašarēdāku, dannātu, ebbitu, lamutte, ma’atta, ma’di, ma’dāte, ma’dūte, qariūte, x-x-te, ṣehrāti</em>.
 

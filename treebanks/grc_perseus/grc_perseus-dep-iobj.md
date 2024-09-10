@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1449 nodes (1%) are attached to their parents as `iobj`.
+1450 nodes (1%) are attached to their parents as `iobj`.
 
 959 instances of `iobj` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.5327812284334.
+Average distance between parent and child is 2.53310344827586.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (690; 48% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (647; 45% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (108; 7% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (690; 48% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (647; 45% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (108; 7% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

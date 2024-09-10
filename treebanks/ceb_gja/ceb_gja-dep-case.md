@@ -58,7 +58,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 1	Ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=The
 2	mga	mga	DET	_	Number=Plur	3	det	_	Gloss=PLUR
 3	bata	bata	NOUN	_	_	6	csubj	_	Gloss=children
-4	niya	niya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Gloss=his
+4	niya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	Gloss=his
 5	ang	ang	ADP	_	Case=Nom	6	case	_	_
 6	musayaw	sayaw	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	0	root	_	Gloss=going.to.dance|SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	Gloss=.

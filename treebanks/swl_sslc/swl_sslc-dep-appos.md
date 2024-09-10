@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 appos	color:blue
-1	TIDEN-GÅR	_	VERB	VB	_	12	advmod	_	_
+1	TIDEN-GÅR	_	VERB	VB	_	12	advcl	_	_
 2	EN	_	NUM	RG	_	3	nummod	_	_
 3	ÅR+EN	_	ADV	AB	_	12	obl	_	_
 4	KLOCKPERIOD.NATTDEL	_	NOUN	NNKL	_	3	clf	_	_
@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 6	VÅR(B)	_	X	?	_	12	obl	_	_
 7	KLOCKPERIOD.EFTERMDEL	_	NOUN	NNKL	_	6	clf	_	_
 8	DÅ@b	_	ADV	AB	_	12	advmod	_	_
-9	EN	_	NUM	RG	_	11	det	_	_
+9	EN	_	DET	DT	_	11	det	_	_
 10	BIRGITTA-JONSSON@en	_	NOUN	NN	_	12	nsubj	_	_
 11	STUDIE^REKTOR	_	NOUN	NN	_	10	appos	_	_
 12	KOMMA-HIT(L)	_	VERB	VBAV	_	0	root	_	_
@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 14	PEK	_	DET	PEK	_	15	det	_	_
 15	TECKENSPRÅK^LÄRARE	_	NOUN	NN	_	16	nsubj	_	_
 16	SJUK	_	ADJ	JJ	_	13	ccomp	_	_
-17	KAN	_	VERB	VB	_	18	aux	_	_
+17	KAN	_	AUX	VB	_	18	aux	_	_
 18	IN@b	_	VERB	VB	_	13	ccomp	_	_
 19	HÖG^STADIUM	_	NOUN	NN	_	18	obl	_	_
 20	UNDERVISA@rd	_	VERB	VB	_	18	conj	_	_
@@ -66,8 +66,8 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 11	TVÅ	_	NUM	RG	_	10	nsubj	_	_
 12	KVAR	_	ADV	AB	_	10	compound:prt	_	_
 13	PEK>pekf	_	DET	PEK	_	16	det	_	_
-14	LISTBOJ.TVÅ	_	X	BOJ	_	10	det	_	_
-15	idrott@&	_	X	?	_	16	reparandum	_	_
+14	LISTBOJ.TVÅ	_	DET	BOJ	_	10	det	_	_
+15	idrott@&	_	NOUN	NN	_	16	reparandum	_	_
 16	DÖVFÖRENING	_	NOUN	NN	_	11	appos	_	_
 17	OCH	_	CCONJ	KN	_	18	cc	_	_
 18	ÄDLF@b	_	NOUN	NN	_	16	conj	_	_

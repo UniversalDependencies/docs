@@ -23,4 +23,4 @@ Common sentence-final particles in Classical Chinese include: 也, 哉, 已, 兮
 6	乎	乎	PART	p,助詞,句末,*	_	4	discourse:sp	_	Gloss=[Q]|SpaceAfter=No
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:24 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:09 CEST -->

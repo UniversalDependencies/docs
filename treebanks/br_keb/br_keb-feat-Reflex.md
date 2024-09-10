@@ -23,5 +23,5 @@ The most frequent other feature values with which `AUX` and `Reflex` co-occurred
 `AUX` tokens may have the following values of `Reflex`:
 
 * `Yes` (25; 100% of non-empty `Reflex`): <em>en</em>
-* `EMPTY` (1307): <em>a, e, eo, oa, vo, zo, bet, o, vez, ra</em>
+* `EMPTY` (1304): <em>a, e, eo, oa, vo, zo, bet, o, vez, ra</em>
 

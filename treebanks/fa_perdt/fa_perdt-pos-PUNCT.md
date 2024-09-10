@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  ، (<tt><a href="fa_perdt-pos-PUNCT.html"
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.961538 (the average of all parts of speech is 1.477395).
+The form / lemma ratio of `PUNCT` is 0.961538 (the average of all parts of speech is 1.486663).
 
 The 1st highest number of forms (3) was observed with the lemma “.”: ., ،, ….
 
@@ -71,15 +71,9 @@ Examples: .، ،، ؟، (، )، "، !، «، »، :
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (44336; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (30082; 68% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (7233; 16% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (2714; 6% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (2041; 5% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (1193; 3% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (649; 1% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt> (220; 0% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (76; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (31; 0% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances), <tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fa_perdt-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (30540; 69% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (7399; 17% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (2260; 5% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (1896; 4% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (982; 2% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (641; 1% instances), <tt><a href="fa_perdt-pos-INTJ.html">INTJ</a></tt> (281; 1% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (99; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (77; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (73; 0% instances), <tt><a href="fa_perdt-pos-CCONJ.html">CCONJ</a></tt> (49; 0% instances), <tt><a href="fa_perdt-pos-NUM.html">NUM</a></tt> (30; 0% instances), <tt><a href="fa_perdt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fa_perdt-pos-PART.html">PART</a></tt> (3; 0% instances)
 
-44307 (100%) `PUNCT` nodes are leaves.
+44336 (100%) `PUNCT` nodes are leaves.
 
-29 (0%) `PUNCT` nodes have one child.
-
-The highest child degree of a `PUNCT` node is 1.
-
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (29; 100% instances)
-
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (29; 100% instances)
+The highest child degree of a `PUNCT` node is 0.
 

@@ -73,14 +73,14 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (19; 56%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> PRON</tt> (14; 78%),
+<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (23; 51%),
+<tt>PRON --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> PRON</tt> (18; 82%),
 <tt>DET --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> DET</tt> (11; 100%),
-<tt>ADV --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> ADV</tt> (7; 64%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> PRON</tt> (4; 100%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (3; 75%),
 <tt>DET --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> DET</tt> (2; 100%),
+<tt>PRON --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> DET</tt> (2; 67%),
+<tt>PRON --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (2; 67%),
+<tt>ADV --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> ADV</tt> (1; 100%),
 <tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%).
 

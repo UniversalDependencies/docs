@@ -192,7 +192,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 1242 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (95% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (844; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (775; 62%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (740; 60%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1237; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (775; 62%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (740; 60%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -220,10 +220,10 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7639; 99%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4096; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (1811; 100%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1317; 95%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1346; 94%),
 <tt>DET --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (581; 99%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (580; 92%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (498; 97%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (508; 97%),
 <tt>PROPN --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (420; 100%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (313; 94%).
+<tt>NOUN --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (315; 87%).
 

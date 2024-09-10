@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.333333 (the average of all parts of speech is 1.465909).
+The form / lemma ratio of `NUM` is 1.333333 (the average of all parts of speech is 1.476015).
 
 The 1st highest number of forms (3) was observed with the lemma “koumm”: <em>kooum, kooumâst, koummân</em>.
 
@@ -29,13 +29,13 @@ The 2nd highest number of forms (1) was observed with the lemma “kueʹhtt”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “kuâhttlovitt”: <em>kuâhttlovitt</em>.
 
-`NUM` occurs with 2 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (15; 88% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (14; 82% instances)
+`NUM` occurs with 3 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (17; 100% instances), <tt><a href="sms_giellagas-feat-NumType.html">NumType</a></tt> (17; 100% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (16; 94% instances)
 
-`NUM` occurs with 6 feature-value pairs: `Case=Acc`, `Case=Ess`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Number=Sing`
+`NUM` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Ess`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `NumType=Card`, `Number=Sing`
 
-`NUM` occurs with 6 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (11 tokens).
-Examples: <em>kueʹhtt, õhtt, čiččâm</em>
+`NUM` occurs with 5 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|NumType=Card` (13 tokens).
+Examples: <em>kueʹhtt, õhtt, čiččâm, kuâhttlovitt, vitmlo</em>
 
 
 ## Relations

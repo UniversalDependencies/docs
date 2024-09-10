@@ -10,21 +10,21 @@ This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
 19993 tokens (16%) have a non-empty value of `Polarity`.
-6550 types (26%) occur at least once with a non-empty value of `Polarity`.
+6551 types (26%) occur at least once with a non-empty value of `Polarity`.
 1929 lemmas (16%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (14679; 12% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (5087; 4% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (227; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (14683; 12% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (5083; 4% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (227; 0% instances).
 
 ### `VERB`
 
-14679 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Polarity`.
+14683 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (12824; 87%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12806; 87%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8076; 55%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (7481; 51%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7459; 51%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (12827; 87%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12809; 87%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8079; 55%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (7485; 51%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7463; 51%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (499; 3% of non-empty `Polarity`): <em>չկայ, չունի, չկար, չունինք, չունիմ, չունին, չկրցաւ, չունէր, չըլլար, չեղաւ</em>
-* `Pos` (14180; 97% of non-empty `Polarity`): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, եղած, ըլլայ, ունեցած, ըսեմ, ըլլալ</em>
-* `EMPTY` (807): <em>գիտեր, կրնար, ուզեր, եկեր, մնացեր, եկուր, յիշեր, եկէք, եղեր, ըներ</em>
+* `Pos` (14184; 97% of non-empty `Polarity`): <em>կայ, ըսէ, ըսաւ, կրնայ, ունի, եղած, ըլլայ, ունեցած, ըսեմ, ըլլալ</em>
+* `EMPTY` (808): <em>գիտեր, կրնար, ուզեր, եկեր, մնացեր, եկուր, յիշեր, եկէք, եղեր, ըներ</em>
 
 <table>
   <tr><th>Paradigm <i>ըսել</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -60,14 +60,14 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 ### `AUX`
 
-5087 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (57% of all `AUX` tokens) have a non-empty value of `Polarity`.
+5083 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (57% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4928; 97%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4463; 88%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4343; 85%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (3877; 76%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3476; 68%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3117; 61%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4928; 97%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4459; 88%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4343; 85%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (3873; 76%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3472; 68%), <tt><a href="hyw_armtdp-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3115; 61%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (823; 16% of non-empty `Polarity`): <em>չէ, չէր, չեմ, չեն, չի, չենք, չէին, չես, չ՚, չէք</em>
-* `Pos` (4264; 84% of non-empty `Polarity`): <em>է, էր, պիտի, են, էին, եմ, պէտք, ենք, էի, ըլլայ</em>
+* `Pos` (4260; 84% of non-empty `Polarity`): <em>է, էր, պիտի, են, էին, եմ, պէտք, ենք, էի, ըլլայ</em>
 * `EMPTY` (3883): <em>կը, կ՚, կու, եղեր, կոր, ըլլալու, տուեր, պիտի, տար</em>
 
 <table>
@@ -97,19 +97,19 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (227; 100% of non-empty `Polarity`): <em>ոչ, մի, չի, չը</em>
-* `EMPTY` (693): <em>որ, թէ, ահա, անշուշտ, սակայն, ուրեմն, թերեւս, գոնէ, մանաւանդ, անպայման</em>
+* `EMPTY` (698): <em>որ, թէ, անշուշտ, ահա, սակայն, ուրեմն, թերեւս, գոնէ, մանաւանդ, անպայման</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (2239; 85%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (946; 85%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (863; 83%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (389; 82%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-obl.html">obl</a></tt>]--> VERB</tt> (341; 88%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (2236; 85%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (954; 85%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (855; 83%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (394; 82%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-obl.html">obl</a></tt>]--> VERB</tt> (340; 88%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (256; 64%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (95; 89%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (69; 90%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (94; 89%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (71; 90%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (40; 89%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (33; 97%).
 

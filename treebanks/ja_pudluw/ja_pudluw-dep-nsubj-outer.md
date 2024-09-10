@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 16	が	が	ADP	助詞-格助詞	_	15	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,が,が,が,ガ,,,ガ,ガ,が
 17	泣き始め	泣き始める	VERB	動詞-一般-下一段-マ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=;,泣く;始める,泣き;始め,泣く;始める,ナキ;ハジメ,;,;,ナク;ハジメル,ナキハジメル,泣き始める
 18	た	た	AUX	助動詞-助動詞-タ	_	17	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-19	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+19	。	。	PUNCT	補助記号-句点	_	17	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 7	戻っ	戻る	VERB	動詞-一般-五段-ラ行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,戻る,戻っ,戻る,モドッ,,,モドル,モドル,戻る
 8	てくる	てくる	AUX	助動詞-カ行変格	_	7	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=;,て;来る,て;くる,て;くる,テ;クル,;,;,テ;クル,テクル,てくる
 9	ことになる	ことになる	AUX	助動詞-五段-ラ行	_	7	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=;;,事;に;成る,こと;に;なる,こと;に;なる,コト;ニ;ナル,;;,;;,コト;ニ;ナル,コトニナル,ことになる
-10	。	。	PUNCT	補助記号-句点	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+10	。	。	PUNCT	補助記号-句点	_	7	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-ccomp.html">ccomp</a></tt>.
 There are also 1 other language-specific subtypes of `ccomp`: <tt><a href="la_udante-dep-ccomp-reported.html">ccomp:reported</a></tt>.
 
-44 nodes (0%) are attached to their parents as `ccomp:relcl`.
+45 nodes (0%) are attached to their parents as `ccomp:relcl`.
 
-27 instances of `ccomp:relcl` (61%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.59090909090909.
+27 instances of `ccomp:relcl` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.15555555555556.
 
-The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (30; 68% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (31; 69% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (5; 11% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 12	quod	qui	PRON	presna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	15	obj	_	_
 13	ex	ex	ADP	e	_	14	case	_	_
 14	illa	ille	DET	ddisfb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	15	obl	_	_
-15	inferre	infero	VERB	va5fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+15	inferre	infero	VERB	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	16	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 16	conantur	conor	VERB	vd1ipp3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	ccomp:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	interimo	interimo	VERB	va3ips1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 18	.	.	PUNCT	Pu	_	9	punct	_	_
@@ -58,7 +58,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 5	genus	genus	NOUN	sns3a	Case=Acc|Gender=Neut|InflClass=IndEurX|Number=Sing	8	nsubj:pass	_	_
 6	per	per	ADP	e	_	7	case	_	_
 7	unum	unus	DET	aunsa	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	8	obl:arg	_	_
-8	regi	rego	VERB	vp3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	2	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	regi	rego	VERB	vp3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	2	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	quam	quam	SCONJ	c	PronType=Rel	11	mark	_	_
 10	per	per	ADP	e	_	11	case	_	_
 11	plura	multus	DET	anp1ac	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur|NumType=Card|PronType=Ind	2	obl:cmp	_	SpaceAfter=No
@@ -106,15 +106,15 @@ The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><
 7	suam	suus	DET	dsfsa	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	_
 8	causam	causa	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	6	obj	_	SpaceAfter=No
 9	,	,	PUNCT	Pu	_	12	punct	_	_
-10	in	in	ADP	e	_	12	mark	_	_
-11	quantum	quantus	DET	r	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Rel	10	fixed	_	_
-12	effectus	effectus	NOUN	sms4n	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	6	advcl	_	_
+10	in	in	ADP	e	_	11	case	_	_
+11	quantum	quantus	DET	r	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Sing|NumType=Card|PronType=Rel	12	obl	_	_
+12	effectus	effectus	NOUN	sms4n	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	6	advcl:relcl	_	_
 13	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 14	,	,	PUNCT	Pu	_	17	punct	_	_
 15	quia	quia	SCONJ	cs	PronType=Rel	17	mark	_	_
 16	nil	nihil	PRON	dinsna	Polarity=Neg|PronType=Ind	17	nsubj	_	_
 17	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-18	efficere	efficio	VERB	va3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	17	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+18	efficere	efficio	VERB	va3fp	Aspect=Imp|InflClass=LatI2|VerbForm=Inf|Voice=Act	17	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 19	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	18	ccomp:relcl	_	_
 20	non	non	PART	r	Polarity=Neg	19	advmod:neg	_	_
 21	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens

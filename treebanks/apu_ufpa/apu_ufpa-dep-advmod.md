@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="apu_ufpa-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-28 nodes (3%) are attached to their parents as `advmod`.
+34 nodes (3%) are attached to their parents as `advmod`.
 
-21 instances of `advmod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39285714285714.
+26 instances of `advmod` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44117647058824.
 
-The following 3 pairs of parts of speech are connected with `advmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (22; 79% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (5; 18% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 4 pairs of parts of speech are connected with `advmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (26; 76% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (5; 15% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -52,24 +52,16 @@ The following 3 pairs of parts of speech are connected with `advmod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Inhinhiã	inhinhiã	ADV	Adv	_	3	advmod:tmod	_	gloss[pt]=então
-2	maky	maky	NOUN	N	Gender=Fem	3	obj	_	gloss[pt]=castanha
-3	ysikaa	sika	VERB	XPOS=3sg.m-vender-?	_	0	root	_	gloss[pt]=3sg.m-vender-?
-4	natuku	natuku	ADV	XPOS=como	_	5	advmod	_	gloss[pt]=como
-5	apakapary	apaka	ADV	XPOS=também-?-3sg.m.o	_	3	conj	_	gloss[pt]=também-?-3sg.m.o
-6	dinhẽru	dinhẽru	NOUN	XPOS=dinheiro	_	5	nsubj	_	gloss[pt]=dinheiro|SpaceAfter=No
-7	,	,	PUNCT	_	_	12	punct	_	_
-8	inhinhiã	inhinhiã	ADV	Adv	_	11	advmod:tmod	_	gloss[pt]=então
-9	kaiãapukury	kaiãa	VERB	XPOS=muito-DISTR-M	_	10	nmod	_	gloss[pt]=muito-DISTR-M
-10	teetxi	tiwitxi	NOUN	N	Case=Nom|Gender=Masc|Possessed=No	11	obj	_	gloss[pt]=coisa.de-N.POSSD
-11	amutary	amuta	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	12	csubj	_	gloss[pt]=comprar-3SG.M.O
-12	ereka	ereka	VERB	XPOS=ser.bom	_	3	conj	_	gloss[pt]=ser.bom|SpaceAfter=No
-13	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 advmod	color:blue
+1	Natukupa	natukupa	ADV	Adv	_	3	advmod	_	_
+2	itxa	txa	AUX	_	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3	3	cop	_	GTtags=Aux,ScSg3M
+3	wai	wai	ADV	Adv	_	0	root	_	_
+4	pawinhiã	awinhitxi	NOUN	N	Case=Loc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2|Possessed=Yes	3	appos	_	GTtags=Msc,Sg,PxSg2,Possd,Loc|SpaceAfter=No
+5	?	?	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

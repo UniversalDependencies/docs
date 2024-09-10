@@ -42,11 +42,11 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4 1 cop	color:blue
 1	É	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 2	como	como	ADP	IN	_	4	case	_	_
-3	um	um	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	um	um	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	superpoder	_	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	_	_
 6	a	a	ADP	INDT	_	4	discourse	_	_
-7	as	o	DET	_	Gender=Fem|Number=Plur	6	fixed	_	_
+7	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	fixed	_	_
 8	vezes	vez	NOUN	NN	Gender=Fem|Number=Plur	6	fixed	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	4	punct	_	_
 

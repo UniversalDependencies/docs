@@ -17,4 +17,4 @@ column. (Which means that empty value has the `No` meaning.)
 #### Examples
 
 * [ess] _Ighneqa qiyaaq <b>aghyuughyavgu</b>._ "My son cried <b>when you scolded him</b>." The verb ending _-vgu_ in _aghyuughyavgu_ encodes third person singular reflexive as its object `Number[obj]=Sing|Person[obj]=3|Reflex[obj]=Yes` to refer to the subject of the main clause _ighneqa_ "my son" as its object.
-<!-- Interlanguage links updated Po lis 14 15:34:57 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:21 CEST -->

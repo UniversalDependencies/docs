@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 32 6 dislocated	color:blue
 1	_	_	SYM	_	_	32	dep	_	BBIL=B|BPT=4|LBIL=B|LPOS=19|SpaceAfter=No|UI=577
 2	_	_	NOUN	_	_	3	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=135116
-3	_	_	NOUN	_	_	6	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=167870
+3	_	_	NOUN	_	_	32	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=167870
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 5	_	_	PUNCT	_	_	6	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=13
 6	_	_	NOUN	_	_	32	dislocated	_	BBIL=I|BPT=1|LBIL=B|LPOS=133|SpaceAfter=No|UI=14634

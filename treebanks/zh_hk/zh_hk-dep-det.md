@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-264 nodes (3%) are attached to their parents as `det`.
+253 nodes (3%) are attached to their parents as `det`.
 
-264 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60227272727273.
+253 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.62055335968379.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (243; 92% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (243; 96% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,45 +22,13 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	我	_	PRON	_	_	4	nsubj	_	SpaceAfter=No
-2	不	_	ADV	_	_	3	advmod	_	SpaceAfter=No
-3	愛	_	AUX	_	_	4	aux	_	SpaceAfter=No
-4	看	_	VERB	_	_	0	root	_	SpaceAfter=No
-5	這些	_	DET	_	_	6	det	_	SpaceAfter=No
-6	卡通片	_	NOUN	_	_	4	obj	_	SpaceAfter=No
-7	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 20 det	color:blue
-1	要	_	AUX	_	_	2	aux	_	SpaceAfter=No
-2	聽	_	VERB	_	_	9	advcl	_	SpaceAfter=No
-3	歌	_	NOUN	_	_	2	obj	_	SpaceAfter=No
-4	還	_	ADV	_	_	9	advmod	_	SpaceAfter=No
-5	可以	_	AUX	_	_	6	aux	_	SpaceAfter=No
-6	用	_	VERB	_	_	0	root	_	SpaceAfter=No
-7	十	_	NUM	_	_	8	nummod	_	SpaceAfter=No
-8	元	_	NOUN	_	NounType=Clf	6	obj	_	SpaceAfter=No
-9	買	_	VERB	_	_	6	conj	_	SpaceAfter=No
-10	一	_	NUM	_	_	13	nummod	_	SpaceAfter=No
-11	隻	_	NOUN	_	NounType=Clf	10	clf	_	SpaceAfter=No
-12	雜錦	_	ADJ	_	_	13	amod	_	SpaceAfter=No
-13	錄音帶	_	NOUN	_	_	9	obj	_	SpaceAfter=No
-14	，	_	PUNCT	_	_	16	punct	_	SpaceAfter=No
-15	或是	_	CCONJ	_	_	16	cc	_	SpaceAfter=No
-16	花	_	VERB	_	_	6	conj	_	SpaceAfter=No
-17	二十	_	NUM	_	_	18	nummod	_	SpaceAfter=No
-18	元	_	NOUN	_	NounType=Clf	16	obj	_	SpaceAfter=No
-19	買	_	VERB	_	_	16	conj	_	SpaceAfter=No
-20	張	_	NOUN	_	NounType=Clf	21	det	_	SpaceAfter=No
-21	盜版	_	NOUN	_	_	19	obj	_	SpaceAfter=No
-22	。	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
+1	我	我	PRON	_	_	3	nsubj	_	SpaceAfter=No|Translit=wǒ|LTranslit=wǒ
+2	不	不	ADV	_	_	3	advmod	_	SpaceAfter=No|Translit=bù|LTranslit=bù
+3	愛	愛	VERB	_	_	0	root	_	SpaceAfter=No|Translit='ài|LTranslit='ài
+4	看	看	VERB	_	_	3	xcomp	_	SpaceAfter=No|Translit=kàn|LTranslit=kàn
+5	這些	這些	DET	_	_	6	det	_	SpaceAfter=No|Translit=zhèxiē|LTranslit=zhèxiē
+6	卡通片	卡通片	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=kǎtōngpiàn|LTranslit=kǎtōngpiàn
+7	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 
@@ -71,11 +39,38 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 det	color:blue
-1	這	_	DET	_	_	4	det	_	SpaceAfter=No
-2	就	_	ADV	_	_	4	advmod	_	SpaceAfter=No
-3	是	_	AUX	_	_	4	cop	_	SpaceAfter=No
-4	九零三	_	PROPN	_	_	0	root	_	SpaceAfter=No
-5	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	這	這	DET	_	_	4	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+2	就	就	ADV	_	_	4	advmod	_	SpaceAfter=No|Translit=jiù|LTranslit=jiù
+3	是	是	AUX	_	_	4	cop	_	SpaceAfter=No|Translit=shì|LTranslit=shì
+4	九零三	九零三	PROPN	_	_	0	root	_	SpaceAfter=No|Translit=jiǔlíngsān|LTranslit=jiǔlíngsān
+5	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 det	color:blue
+1	如果	如果	SCONJ	_	_	6	mark	_	SpaceAfter=No|Translit=rúguǒ|LTranslit=rúguǒ
+2	我們	我	PRON	_	_	6	nsubj	_	SpaceAfter=No|Translit=wǒmen|LTranslit=wǒ
+3	這	這	DET	_	_	6	det	_	SpaceAfter=No|Translit=zhè|LTranslit=zhè
+4	一	一	NUM	_	_	5	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+5	刻	刻	NOUN	_	NounType=Clf	6	obl:tmod	_	SpaceAfter=No|Translit=kè|LTranslit=kè
+6	進行	進行	VERB	_	_	14	advcl	_	SpaceAfter=No|Translit=jìnxíng|LTranslit=jìnxíng
+7	投票	投票	NOUN	_	_	6	obj	_	SpaceAfter=No|Translit=tóupiào|LTranslit=tóupiào
+8	，	，	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=,|LTranslit=,
+9	當選者	當選者	NOUN	_	_	14	nsubj	_	SpaceAfter=No|Translit=dāngxuǎnzhě|LTranslit=dāngxuǎnzhě
+10	下	下	DET	_	_	12	det	_	SpaceAfter=No|Translit=xià|LTranslit=xià
+11	一	一	NUM	_	_	12	nummod	_	SpaceAfter=No|Translit=yī|LTranslit=yī
+12	刻	刻	NOUN	_	NounType=Clf	14	obl:tmod	_	SpaceAfter=No|Translit=kè|LTranslit=kè
+13	便	便	ADV	_	_	14	advmod	_	SpaceAfter=No|Translit=biàn|LTranslit=biàn
+14	成為	為	VERB	_	_	0	root	_	SpaceAfter=No|Translit=chéngwèi|LTranslit=wèi
+15	立法會	立法會	NOUN	_	_	16	compound	_	SpaceAfter=No|Translit=lìfǎhuì|LTranslit=lìfǎhuì
+16	主席	主席	NOUN	_	_	14	obj	_	SpaceAfter=No|Translit=zhǔxí|LTranslit=zhǔxí
+17	。	。	PUNCT	_	_	14	punct	_	SpaceAfter=No|Translit=.|LTranslit=.
 
 ~~~
 

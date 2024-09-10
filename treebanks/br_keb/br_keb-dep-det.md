@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1207 nodes (12%) are attached to their parents as `det`.
+1203 nodes (12%) are attached to their parents as `det`.
 
-1201 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.05219552609776.
+1197 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.05153782211139.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (1162; 96% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (1158; 96% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

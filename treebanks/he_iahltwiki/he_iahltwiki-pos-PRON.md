@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-IAHLTwiki: POS Tags: `PRON`
 
 There are 33 `PRON` lemmas (0%), 72 `PRON` types (0%) and 5633 `PRON` tokens (4%).
-Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 9 in number of types and 8 in number of tokens.
+Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: הוא, זה, אותו, כך, כן, עצמו, מה, מי, כולו, הללו
 
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  ו (<tt><a href="he_iahltwiki-pos-CCONJ.h
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.181818 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `PRON` is 2.181818 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (23) was observed with the lemma “הוא”: אנו, אנחנו, אני, את, אתה, ה, הּ, הו, הוא, היא, הם, הן, ו, וֹ, י, יו, ך, ךָ, כם, ם, ן, נו, ני.
 

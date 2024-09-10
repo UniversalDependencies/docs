@@ -7,109 +7,107 @@ udver: '2'
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Animacy`
 
 This feature is universal.
-It occurs with 1 different values: `Anim`.
+It occurs with 2 different values: `Anim`, `Inan`.
 
-683 tokens (1%) have a non-empty value of `Animacy`.
-442 types (4%) occur at least once with a non-empty value of `Animacy`.
-381 lemmas (7%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 7 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (250; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (231; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (102; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (80; 0% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+1473 tokens (2%) have a non-empty value of `Animacy`.
+766 types (4%) occur at least once with a non-empty value of `Animacy`.
+621 lemmas (7%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 6 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (562; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (490; 1% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (191; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (190; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (29; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (11; 0% instances).
 
 ### `NOUN`
 
-250 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+562 <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (247; 99%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (240; 96%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (137; 55%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (561; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (547; 97%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (323; 57%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (250; 100% of non-empty `Animacy`): <em>людей, князя, сирот, брата, кн[ѧ]зѧ, дѣтей, саржанта, сына, холопа, Тотаръ</em>
-* `EMPTY` (11109): <em>чети, весу, г., году, гривенок, воза, государь, государю, государя, гривенки</em>
+* `Anim` (562; 100% of non-empty `Animacy`): <em>людей, князя, сына, царя, отца, человѣка, государя, Бога, брата, послов</em>
+* `EMPTY` (21217): <em>чети, день, году, весу, государь, г., князь, государю, господине, государя</em>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (125) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (174) occur only with one value of `Animacy`.
 
 ### `PROPN`
 
-231 <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+490 <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> tokens (7% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (231; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (231; 100%), <tt><a href="orv_rnc-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (230; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (224; 97%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (490; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (490; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (480; 98%), <tt><a href="orv_rnc-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (275; 56%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
-* `Anim` (231; 100% of non-empty `Animacy`): <em>Григорья, Ивана, Бориска, Ивашка, Олексѣя, Тотарина, Івана, Василья, Дмитрѣева, Петра</em>
-* `EMPTY` (3238): <em>Москвѣ, Москве, Кунгурѣ, Кон(ь)кова, Ивановичю, Иван, Борису, Петр, Иванъ, Фальк</em>
+* `Anim` (490; 100% of non-empty `Animacy`): <em>Ивана, Григорья, Ивашка, Семиона, Васильевича, Василья, Гермогена, Дербыша, Ивановича, Михаила</em>
+* `EMPTY` (6585): <em>Москве, Русии, Иван, Москвѣ, Кунгурѣ, Ивана, Иванъ, Ивашко, Ивановичю, Оска</em>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (154) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (276) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
-102 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Animacy`.
+191 <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (102; 100%), <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (96; 94%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (93; 91%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt> (57; 56%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (191; 100%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (180; 94%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (179; 94%), <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (177; 93%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (98; 51%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
-* `Anim` (102; 100% of non-empty `Animacy`): <em>Донскихъ, даурскихъ, иных, выборныхъ, бедных, великого, добрыхъ, молодшег[о], мꙋжестве(н)нѣйшаго, преславнаго</em>
-* `EMPTY` (4193): <em>великого, великому, оржанои, 178-г(о), вытным, люцкои, медные, государева, великихъ, приказной</em>
+* `Anim` (190; 99% of non-empty `Animacy`): <em>великого, Донскихъ, даурскихъ, святых, Казанских, Святаго, боярского, выборныхъ, служилых, бедных</em>
+* `Inan` (1; 1% of non-empty `Animacy`): <em>третіи</em>
+* `EMPTY` (7721): <em>великого, великому, великии, великий, оржанои, 178-г(о), вытным, 205, государева, приказной</em>
 
-`Animacy` seems to be **lexical feature** of `ADJ`. 100% lemmas (75) occur only with one value of `Animacy`.
+<table>
+  <tr><th>Paradigm <i>третий</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>третіи</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>третьихъ</em></td><td></td></tr>
+</table>
+
+`Animacy` seems to be **lexical feature** of `ADJ`. 99% lemmas (123) occur only with one value of `Animacy`.
 
 ### `DET`
 
-80 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Animacy`.
+190 <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (80; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (77; 96%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (48; 60%), <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (44; 55%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (190; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (186; 98%), <tt><a href="orv_rnc-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (110; 58%), <tt><a href="orv_rnc-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (104; 55%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (103; 54%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (80; 100% of non-empty `Animacy`): <em>своих, своего, своихъ, моего, онаго, твоего, всѣхъ, того, нашег[о], оного</em>
-* `EMPTY` (1979): <em>твой, то, сей, мои, тѣхъ, тѣ, те, тово, твоему, всѣхъ</em>
+* `Anim` (190; 100% of non-empty `Animacy`): <em>своего, своих, своихъ, того, твоего, иных, тѣхъ, всех, всѣх, моего</em>
+* `EMPTY` (4340): <em>того, всеа, сей, твой, те, все, которые, мои, тех, свою</em>
 
-`Animacy` seems to be **lexical feature** of `DET`. 100% lemmas (14) occur only with one value of `Animacy`.
-
-### `PRON`
-
-9 <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 89%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt> (6; 67%), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6; 67%).
-
-`PRON` tokens may have the following values of `Animacy`:
-
-* `Anim` (9; 100% of non-empty `Animacy`): <em>насъ, васъ, ево, его, ихже, которыхъ, нихъ, того</em>
-* `EMPTY` (2088): <em>что, тебѣ, ево, его, ты, я, ему, они, имъ, ихъ</em>
+`Animacy` seems to be **lexical feature** of `DET`. 100% lemmas (18) occur only with one value of `Animacy`.
 
 ### `VERB`
 
-9 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Animacy`.
+29 <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9; 100%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 56%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5; 56%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5; 56%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (29; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (29; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (29; 100%), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (23; 79%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (20; 69%), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (18; 62%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 59%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (15; 52%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
-* `Anim` (9; 100% of non-empty `Animacy`): <em>рожде(н)наго, взятыхъ, враждующихъ, живуща, именова(н)ного, пребывающаго, слꙋжащи(х), хвалящихся</em>
-* `EMPTY` (4134): <em>смерено, взято, принето, велѣно, привез, велѣлъ, сказал, велено, бьет, велет(ь)</em>
+* `Anim` (29; 100% of non-empty `Animacy`): <em>битого, пребывающаго, рожде(н)наго, бесѣдующа, благоугодивших, боящихся, взятыхъ, водимых, враждующихъ, вышеписанныхъ</em>
+* `EMPTY` (8016): <em>смерено, взято, принето, велѣно, послал, пришли, велѣлъ, умолочено, сказал, дано</em>
+
+`Animacy` seems to be **lexical feature** of `VERB`. 100% lemmas (26) occur only with one value of `Animacy`.
 
 ### `NUM`
 
-2 <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Animacy`.
+11 <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="orv_rnc-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="orv_rnc-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt> (11; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (11; 100%), <tt><a href="orv_rnc-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (11; 100%), <tt><a href="orv_rnc-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (10; 91%).
 
 `NUM` tokens may have the following values of `Animacy`:
 
-* `Anim` (2; 100% of non-empty `Animacy`): <em>однова, одново</em>
-* `EMPTY` (1596): <em>3, два, 2, 4, один, две, 5, 10, 6, три</em>
+* `Anim` (11; 100% of non-empty `Animacy`): <em>трех, дву, обоих, однова, одново, ѡдинѡг[о]</em>
+* `EMPTY` (2526): <em>3, 2, два, 4, две, 5, один, 10, 6, три</em>
 
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (79; 84%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (66; 85%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (64; 96%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (31; 58%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (26; 72%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (11; 65%),
-<tt>PROPN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 100%),
-<tt>PROPN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (8; 57%),
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 100%),
-<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (5; 83%).
+<tt>PROPN --[<tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (174; 82%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-det.html">det</a></tt>]--> DET</tt> (139; 91%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (129; 91%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (104; 75%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (75; 59%),
+<tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (33; 80%),
+<tt>PROPN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (16; 70%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (13; 100%),
+<tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (11; 52%),
+<tt>PROPN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10; 100%).
 

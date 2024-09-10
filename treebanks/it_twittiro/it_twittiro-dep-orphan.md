@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 25	.	.	PUNCT	FS	_	7	punct	_	_
 26	[	[	PUNCT	FB	_	27	punct	_	SpaceAfter=No
 27	@user	@user	SYM	SYM	_	7	vocative:mention	_	SpaceAfter=No
-28	]	]	PUNCT	FB	_	27	punct	_	SpaceAfter=\n
+28	]	]	PUNCT	FB	_	27	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -90,7 +90,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 28	Tessera	tessera	PROPN	SP	_	19	parataxis	_	_
 29	di	di	ADP	E	_	30	case	_	_
 30	partito	partito	NOUN	S	Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
-31	?	?	PUNCT	FS	_	28	punct	_	SpaceAfter=\n
+31	?	?	PUNCT	FS	_	28	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -118,7 +118,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 15	di	di	ADP	E	_	16	mark	_	_
 16	tornare	tornare	VERB	V	VerbForm=Inf	11	orphan	_	_
 17	a	a	ADP	E	_	18	case	_	_
-18	#labuonascuola	#labuonascuola	SYM	SYM	_	16	obl	_	SpaceAfter=\n
+18	#labuonascuola	#labuonascuola	SYM	SYM	_	16	obl	_	SpacesAfter=\n
 
 ~~~
 

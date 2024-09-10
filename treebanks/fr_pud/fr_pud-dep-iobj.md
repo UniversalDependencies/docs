@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (0%) are attached to their parents as `iobj`.
+40 nodes (0%) are attached to their parents as `iobj`.
 
-36 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.44444444444444.
+40 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.575.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (35; 97% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (39; 98% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 9	Florence	Florence	PROPN	NNP	Gender=Fem|Number=Sing	7	obj	_	_
 10	Garrard	Garrard	PROPN	NNP	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	9	punct	_	_
-12	dont	dont	ADP	INP	Gender=Fem|Number=Sing	15	iobj	_	_
+12	dont	dont	ADP	INP	_	15	iobj	_	_
 13	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 14	tomba	tomber	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
 15	amoureux	amoureux	ADJ	JJ	Gender=Masc|Number=Sing	14	xcomp	_	SpaceAfter=No
@@ -60,7 +60,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 21	à	à	ADP	IN	_	22	case	_	_
 22	Southsea	Southsea	PROPN	NNP	Number=Sing	18	obl	_	_
 23	(	(	PUNCT	(	_	28	punct	_	SpaceAfter=No
-24	où	où	ADV	WRB	_	28	advmod	_	_
+24	où	où	PRON	WP	PronType=Rel	28	iobj	_	_
 25	cette	ce	DET	DT	Gender=Fem|Number=Sing	26	det	_	_
 26	dernière	dernier	ADJ	JJ	Gender=Fem|Number=Sing	28	nsubj:pass	_	_
 27	était	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	aux:pass	_	_

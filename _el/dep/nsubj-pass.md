@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 A passive nominal subject is a noun phrase which is the syntactic
-subject of a passive clause (or more generally, any voice where the proto-agent argument does not become the subject of the clause).
+subject of a passive clause. In such clauses, the subject of the active form of the verb is  or can be expressed with a prepositional phrase introduced with the adposition *από*.
 
 ~~~ sdparse
 Περιορίστηκε η μετάδοση του ιού
@@ -15,7 +15,7 @@ nsubjpass(Περιορίστηκε, μετάδοση)
 
 Notice that the `nsubj` relation is used for the subjects of
 
-- reflexive and reciprocal passive constructions
+- Reflexive and reciprocal constructions, which use the mediopassive form of the verb. These verbs have an active form but in the particular, morphologically mediopassive structures, no prepositional phrase introduced with the adposition *από* can be linked to the verb form in order to express a proto-agent.
 
 ~~~ sdparse
 η Νίκη ετοιμάστηκε για το πάρτι
@@ -27,7 +27,7 @@ nsubj(ετοιμάστηκε, Νίκη)
 nsubj(αγκαλιάστηκε, ζευγάρι)
 ~~~
 
-- deponent verbs (verbs that are active in meaning but have only passive voice forms)
+- Deponent verbs, which are active in meaning/mood but have  the mediopassive form only and lack an active form. No prepositional phrase introduced with the adposition *από* can depend on this form of the verb expressing a proto-agent.
 
 ~~~ sdparse
 το παιδί κοιμάται στην κούνια του
@@ -35,7 +35,9 @@ nsubj(κοιμάται, παιδί)
 ~~~
 
 ~~~ sdparse
-Έρχεται παγετός
-nsubj(Έρχεται, παγετός)
+Έρχεται o Γιάννης
+nsubj(Έρχεται, Γιάννης)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:35 CET 2022 -->
+
+ 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:29 CEST -->

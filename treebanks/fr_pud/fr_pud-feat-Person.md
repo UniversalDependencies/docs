@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_pud-feat-Person.html">Person</a></tt>, <tt><a href="fr_pud-feat-Person-psor.html">Person[psor]</a></tt>.
 
-2780 tokens (11%) have a non-empty value of `Person`.
+2781 tokens (11%) have a non-empty value of `Person`.
 621 types (10%) occur at least once with a non-empty value of `Person`.
 341 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (900; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (875; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (730; 3% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (275; 1% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (901; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (875; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (730; 3% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (275; 1% instances).
 
 ### `VERB`
 
-900 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Person`.
+901 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (900; 100%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (900; 100%), <tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (824; 92%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (644; 72%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (619; 69%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (901; 100%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (901; 100%), <tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (825; 92%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (645; 72%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (620; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (49; 5% of non-empty `Person`): <em>devons, Disons, allons, comprends, pense, pensons, pouvons, adorais, ai, amuse</em>
 * `2` (11; 1% of non-empty `Person`): <em>devez, Laisse, Tiens, Voilà, avez, disputez, pouvez, savez, souhaitez, voulez</em>
-* `3` (840; 93% of non-empty `Person`): <em>a, est, peut, avait, pourrait, était, peuvent, sont, ont, pourraient</em>
-* `EMPTY` (1356): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
+* `3` (841; 93% of non-empty `Person`): <em>a, est, peut, avait, pourrait, était, peuvent, sont, ont, pourraient</em>
+* `EMPTY` (1353): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -72,16 +72,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-730 <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Person`.
+730 <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (691; 95%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (507; 69%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (422; 58%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (691; 95%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (435; 60%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (89; 12% of non-empty `Person`): <em>je, nous, j’, j', me, m’, moi, m'</em>
 * `2` (15; 2% of non-empty `Person`): <em>vous, toi, se</em>
 * `3` (626; 86% of non-empty `Person`): <em>il, se, elle, ils, y, s', on, lui, s’, le</em>
-* `EMPTY` (341): <em>qui, ce, c', cela, c’, que, un, qu', ça, ceux</em>
+* `EMPTY` (367): <em>qui, ce, où, c', cela, c’, que, un, qu', ça</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -104,7 +104,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (20; 7% of non-empty `Person`): <em>notre, nos, mon, ma, mes</em>
 * `2` (4; 1% of non-empty `Person`): <em>votre, vos</em>
 * `3` (251; 91% of non-empty `Person`): <em>son, sa, ses, leur, leurs, sar</em>
-* `EMPTY` (3602): <em>le, la, les, l', un, une, des, l’, cette, ce</em>
+* `EMPTY` (3603): <em>le, la, les, l', un, une, des, l’, cette, ce</em>
 
 <table>
   <tr><th>Paradigm <i>son</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

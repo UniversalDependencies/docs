@@ -11,10 +11,10 @@ There are 3 language-specific subtypes of `obl`: <tt><a href="fr_gsd-dep-obl-age
 
 19 nodes (0%) are attached to their parents as `obl`.
 
-18 instances of `obl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.57894736842105.
+19 instances of `obl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.63157894736842.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (9; 47% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 21% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 16% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (9; 47% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (4; 21% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4; 21% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 obl	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
 2	devient	devenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	joueur	joueur	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
 4	autonome	autonome	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
@@ -31,6 +31,32 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	automne	automne	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 13 obl	color:blue
+1	Cinq	cinq	NUM	_	Number=Plur	2	nummod	_	wordform=cinq
+2	ans	an	NOUN	_	Gender=Masc|Number=Plur	8	obl:mod	_	_
+3	plus	plus	ADV	_	_	4	advmod	_	_
+4	tard	tard	ADV	_	_	2	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+7	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	8	iobj	_	_
+8	ressort	ressortir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	diplômé	diplômé	ADJ	_	Gender=Masc|Number=Sing	8	xcomp	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	droit	droit	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+12	avec	avec	ADP	_	_	13	case	_	_
+13	mention	mention	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+14	cum	cum	X	_	Foreign=Yes	13	nmod	_	Lang=la
+15	laude	laude	X	_	Foreign=Yes	14	flat:foreign	_	Lang=la|SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -61,32 +87,6 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 18	mars	mars	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
 19	2011	2011	NUM	_	Number=Plur	18	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 13 obl	color:blue
-1	Cinq	cinq	NUM	_	Number=Plur	2	nummod	_	wordform=cinq
-2	ans	an	NOUN	_	Gender=Masc|Number=Plur	8	obl:mod	_	_
-3	plus	plus	ADV	_	_	4	advmod	_	_
-4	tard	tard	ADV	_	_	2	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
-6	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-7	en	en	PRON	_	Person=3|PronType=Prs	8	iobj	_	_
-8	ressort	ressortir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	diplômé	diplômé	ADJ	_	Gender=Masc|Number=Sing	8	xcomp	_	_
-10	en	en	ADP	_	_	11	case	_	_
-11	droit	droit	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
-12	avec	avec	ADP	_	_	13	case	_	_
-13	mention	mention	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
-14	cum	cum	X	_	Foreign=Yes	13	nmod	_	ExtPos=PROPN|Lang=la
-15	laude	laude	X	_	Foreign=Yes	14	flat:foreign	_	Lang=la|SpaceAfter=No
-16	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

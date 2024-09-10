@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Gothic-PROIEL: POS Tags: `CCONJ`
 
 There are 14 `CCONJ` lemmas (0%), 29 `CCONJ` types (0%) and 5098 `CCONJ` tokens (9%).
-Out of 14 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 12 in number of types and 5 in number of tokens.
+Out of 12 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 11 in number of types and 5 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>jah, iþ, ak, aþþan, -uh, aiþþau, akei, nih, þau, jaþþe</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>jah</em> (<tt><a href="got_proiel-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 2.071429 (the average of all parts of speech is 2.637304).
+The form / lemma ratio of `CCONJ` is 2.071429 (the average of all parts of speech is 2.636364).
 
 The 1st highest number of forms (9) was observed with the lemma “jah”: <em>jab, jad, jag, jah, jal, jan, jar, jas, jaþ</em>.
 
@@ -67,21 +67,19 @@ The 3rd highest number of forms (3) was observed with the lemma “nih”: <em>n
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (5017; 98% instances), <tt><a href="got_proiel-dep-root.html">root</a></tt> (63; 1% instances), <tt><a href="got_proiel-dep-orphan.html">orphan</a></tt> (13; 0% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (5089; 100% instances), <tt><a href="got_proiel-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="got_proiel-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="got_proiel-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (3522; 69% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (866; 17% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (250; 5% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (139; 3% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (101; 2% instances),  (63; 1% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (51; 1% instances), <tt><a href="got_proiel-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (15; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (3773; 74% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (856; 17% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (180; 4% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (121; 2% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (106; 2% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (22; 0% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (7; 0% instances),  (4; 0% instances), <tt><a href="got_proiel-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
-5038 (99%) `CCONJ` nodes are leaves.
+5097 (100%) `CCONJ` nodes are leaves.
 
-11 (0%) `CCONJ` nodes have one child.
+0 (0%) `CCONJ` nodes have one child.
 
-20 (0%) `CCONJ` nodes have two children.
+1 (0%) `CCONJ` nodes have two children.
 
-29 (1%) `CCONJ` nodes have three or more children.
+The highest child degree of a `CCONJ` node is 2.
 
-The highest child degree of a `CCONJ` node is 7.
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (1; 50% instances), <tt><a href="got_proiel-dep-fixed.html">fixed</a></tt> (1; 50% instances)
 
-Children of `CCONJ` nodes are attached using 12 different relations: <tt><a href="got_proiel-dep-advcl.html">advcl</a></tt> (31; 19% instances), <tt><a href="got_proiel-dep-obl.html">obl</a></tt> (23; 14% instances), <tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt> (21; 13% instances), <tt><a href="got_proiel-dep-advmod.html">advmod</a></tt> (17; 11% instances), <tt><a href="got_proiel-dep-cc.html">cc</a></tt> (15; 9% instances), <tt><a href="got_proiel-dep-conj.html">conj</a></tt> (14; 9% instances), <tt><a href="got_proiel-dep-iobj.html">iobj</a></tt> (13; 8% instances), <tt><a href="got_proiel-dep-obj.html">obj</a></tt> (10; 6% instances), <tt><a href="got_proiel-dep-dislocated.html">dislocated</a></tt> (5; 3% instances), <tt><a href="got_proiel-dep-parataxis.html">parataxis</a></tt> (5; 3% instances), <tt><a href="got_proiel-dep-vocative.html">vocative</a></tt> (4; 3% instances), <tt><a href="got_proiel-dep-discourse.html">discourse</a></tt> (2; 1% instances)
-
-Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="got_proiel-pos-VERB.html">VERB</a></tt> (52; 33% instances), <tt><a href="got_proiel-pos-NOUN.html">NOUN</a></tt> (42; 26% instances), <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (18; 11% instances), <tt><a href="got_proiel-pos-ADJ.html">ADJ</a></tt> (15; 9% instances), <tt><a href="got_proiel-pos-CCONJ.html">CCONJ</a></tt> (15; 9% instances), <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> (11; 7% instances), <tt><a href="got_proiel-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="got_proiel-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="got_proiel-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="got_proiel-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="got_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 50% instances)
 

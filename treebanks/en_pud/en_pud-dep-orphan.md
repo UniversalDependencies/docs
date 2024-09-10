@@ -27,17 +27,17 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	built	build	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	and	and	CCONJ	CC	_	5	cc	5:cc	_
 5	renovated	renovate	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	3:conj:and	_
-6	five	five	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+6	five	five	NUM	CD	NumForm=Word|NumType=Card	8	nummod	8:nummod	_
 7	traditional	traditional	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	markets	market	NOUN	NNS	Number=Plur	3	obj	3:obj|5:obj	_
 9	in	in	ADP	IN	_	10	case	10:case	_
-10	2013	2013	NUM	CD	NumType=Card	3	obl	3:obl:in	_
+10	2013	2013	NUM	CD	NumForm=Digit|NumType=Card	3	obl	3:obl:in	_
 11	and	and	CCONJ	CC	_	14	cc	3.1:cc|14:cc	_
-12	four	four	NUM	CD	NumType=Card	14	nummod	14:nummod	_
+12	four	four	NUM	CD	NumForm=Word|NumType=Card	14	nummod	14:nummod	_
 13	traditional	traditional	ADJ	JJ	Degree=Pos	14	amod	14:amod	_
 14	markets	market	NOUN	NNS	Number=Plur	3	conj	3:conj:and|3.1:obj	_
 15	in	in	ADP	IN	_	16	case	16:case	_
-16	2014	2014	NUM	CD	NumType=Card	14	orphan	3.1:obl:in	SpaceAfter=No
+16	2014	2014	NUM	CD	NumForm=Digit|NumType=Card	14	orphan	3.1:obl:in	SpaceAfter=No
 17	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~

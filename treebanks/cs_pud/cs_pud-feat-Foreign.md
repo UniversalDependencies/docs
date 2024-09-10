@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (35; 100% of non-empty `Foreign`): <em>brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</em>
-* `EMPTY` (4447): <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
+* `EMPTY` (4448): <em>roce, roku, let, století, letech, době, území, období, oblasti, l</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (33) occur only with one value of `Foreign`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (31; 100% of non-empty `Foreign`): <em>The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</em>
-* `EMPTY` (2239): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
+* `EMPTY` (2238): <em>první, další, nové, jižní, druhé, severní, hlavní, velká, velké, vlastní</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Foreign`.
 

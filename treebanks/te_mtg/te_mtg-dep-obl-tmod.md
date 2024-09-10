@@ -23,11 +23,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 obl:tmod	color:blue
-1	ఇవ్వేళ	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=ivveḷa|LTranslit=_
-2	ఆమె	_	PRON	PRON	_	4	nsubj	_	Translit=āmè|LTranslit=_
-3	ఇక్కడ	_	ADV	ADV	_	4	advmod	_	Translit=ikkaḍa|LTranslit=_
-4	లేదు	_	VERB	VERB	_	0	root	_	Translit=ledu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	ఇవ్వేళ	_	NOUN	NOUN	_	4	obl:tmod	_	Translit=ivvēḷa
+2	ఆమె	_	PRON	PRON	_	4	nsubj	_	Translit=āme
+3	ఇక్కడ	_	ADV	ADV	_	4	advmod	_	Translit=ikkaḍa
+4	లేదు	_	VERB	VERB	_	0	root	_	Translit=lēdu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 
@@ -38,11 +38,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 obl:tmod	color:blue
-1	నిన్న	_	ADV	ADV	_	4	obl:tmod	_	Translit=ninna|LTranslit=_
-2	మేము	_	PRON	PRON	_	4	nsubj	_	Translit=memu|LTranslit=_
-3	ఊళ్ళో	_	NOUN	NOUN	_	4	obl	_	Translit=ūḷḷo|LTranslit=_
-4	లేము	_	VERB	VERB	_	0	root	_	Translit=lemu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	నిన్న	_	ADV	ADV	_	4	obl:tmod	_	Translit=ninna
+2	మేము	_	PRON	PRON	_	4	nsubj	_	Translit=mēmu
+3	ఊళ్ళో	_	NOUN	NOUN	_	4	obl	_	Translit=ūḷḷō
+4	లేము	_	VERB	VERB	_	0	root	_	Translit=lēmu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 
@@ -53,17 +53,17 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obl:tmod	color:blue
-1	ప్రస్తుతం	_	NOUN	NOUN	_	3	obl:tmod	_	Translit=prastutaṁ|LTranslit=_
-2	అతిథినన్న	_	NOUN	NOUN	_	3	nmod	_	Translit=atithinanna|LTranslit=_
-3	మాట	_	NOUN	NOUN	_	0	root	_	Translit=māṭa|LTranslit=_
-4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.|LTranslit=_
-5	తరువాత	_	ADV	ADV	_	8	advmod	_	Translit=taruvāta|LTranslit=_
-6	అద్దె	_	NOUN	NOUN	_	7	nmod	_	Translit=addè|LTranslit=_
-7	వాడుగా	_	PRON	PRON	_	8	nsubj	_	Translit=vāḍugā|LTranslit=_
-8	మారాలే	_	VERB	VERB	_	3	parataxis	_	Translit=mārāle|LTranslit=_
-9	?	_	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=_
-10	ఘోరం	_	NOUN	NOUN	_	3	parataxis	_	Translit=ghoraṁ|LTranslit=_
-11	!	_	PUNCT	PUNCT	_	10	punct	_	Translit=!|LTranslit=_
+1	ప్రస్తుతం	_	NOUN	NOUN	_	3	obl:tmod	_	Translit=prastutaṁ
+2	అతిథినన్న	_	NOUN	NOUN	_	3	nmod	_	Translit=atithinanna
+3	మాట	_	NOUN	NOUN	_	0	root	_	Translit=māṭa
+4	.	_	PUNCT	PUNCT	_	3	punct	_	Translit=.
+5	తరువాత	_	ADV	ADV	_	8	advmod	_	Translit=taruvāta
+6	అద్దె	_	NOUN	NOUN	_	7	nmod	_	Translit=adde
+7	వాడుగా	_	PRON	PRON	_	8	nsubj	_	Translit=vāḍugā
+8	మారాలే	_	VERB	VERB	_	3	parataxis	_	Translit=mārālē
+9	?	_	PUNCT	PUNCT	_	8	punct	_	Translit=?
+10	ఘోరం	_	NOUN	NOUN	_	3	parataxis	_	Translit=ghōraṁ
+11	!	_	PUNCT	PUNCT	_	10	punct	_	Translit=!
 
 ~~~
 

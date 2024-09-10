@@ -16,14 +16,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pud-pos-X.html">
 
 ### `X`
 
-54 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (23% of all `X` tokens) have a non-empty value of `Foreign`.
+54 <tt><a href="pl_pud-pos-X.html">X</a></tt> tokens (70% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="pl_pud-feat-Pun.html">Pun</a></tt><tt>=EMPTY</tt> (54; 100%).
+The most frequent other feature values with which `X` and `Foreign` co-occurred: <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (54; 100%).
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (54; 100% of non-empty `Foreign`): <em>of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</em>
-* `EMPTY` (176): <em>r, p.n.e, w, mld, św, 2004, 2016, C, n.e, ws</em>
+* `EMPTY` (23): <em>2004, 2016, 1.165, 1918, 1954, 1991, 1992, 1994, 1997, 200</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (39) occur only with one value of `Foreign`.
 

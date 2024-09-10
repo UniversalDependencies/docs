@@ -73,14 +73,14 @@ The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 6	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_
 7	était	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	coutume	coutume	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
-9	d'	de	ADP	IN	_	10	case	_	SpaceAfter=No
+9	d'	de	ADP	IN	_	10	mark	_	SpaceAfter=No
 10	avoir	avoir	VERB	VB	VerbForm=Inf	8	xcomp	_	_
 11	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	empereur	empereur	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
 13	par	par	ADP	IN	_	14	case	_	_
 14	époque	époque	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
 15	et	et	CCONJ	CC	_	17	cc	_	_
-16	de	de	ADP	IN	_	17	case	_	_
+16	de	de	ADP	IN	_	17	mark	_	_
 17	renommer	renommer	VERB	VB	VerbForm=Inf	10	conj	_	_
 18	chaque	chaque	ADJ	JJ	Gender=Masc|Number=Sing	19	amod	_	_
 19	empereur	empereur	NOUN	NN	Gender=Masc|Number=Sing	17	obj	_	_

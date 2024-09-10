@@ -11,8 +11,8 @@ Particles are function words that must be associated with another word
 or phrase to impart meaning and that do not satisfy definitions of
 other universal parts of speech (e.g. [adpositions](ADP),
 [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
-or [auxiliary verbs](AUX)).  Particles may encode grammatical
-categories such as negation, mood, tense etc.  Particles are normally
+or [auxiliary verbs](AUX)). Particles may encode grammatical
+categories such as negation. Particles are normally
 not inflected, although exceptions may occur.
 
 Note that the `PART` tag does not cover so-called _verbal particles_
@@ -28,7 +28,7 @@ _ni,_ の / _no_) are parallel to adpositions in other languages and
 should thus be tagged [ADP]().
 
 In general, the `PART` tag should be used restrictively and only when
-no other tag is possible. The the language-specific documentation
+no other tag is possible. The language-specific documentation
 should list the words classified as `PART` in the given language.
 
 ### Examples
@@ -42,4 +42,4 @@ should list the words classified as `PART` in the given language.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Grammatical_particle)
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

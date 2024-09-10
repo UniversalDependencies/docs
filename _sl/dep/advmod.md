@@ -63,7 +63,7 @@ dogodki so se odvijali bistveno drugače \n events they-aux-PAST REFLEX unfolded
 advmod(drugače,bistveno)
 advmod(odvijali,drugače)
 advmod(differently,quite)
-advmod(unfold,differently)
+advmod(unfolded,differently)
 ~~~
 ~~~ sdparse
 farmarjem ne prav ljubi časopisi \n with-farmers not very popular newspapers
@@ -103,4 +103,4 @@ vložki iz krp , spletene volne , gobe in celo trave \n inserts made-of cloth, k
 advmod(trave,celo)
 advmod(even,grass)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:37 CEST -->

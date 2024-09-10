@@ -41,7 +41,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
 1	Nei	nei	INTJ	INTJ	_	7	discourse	_	IFD_tag=x|SpaceAfter=No
-2	,	,	PUNCT	,	_	1	punct	_	IFD_tag=
+2	,	,	PUNCT	,	_	1	punct	_	IFD_tag
 3	auðvitað	auðvitað	ADV	ADV	_	7	advmod	_	IFD_tag=aa
 4	var	vera	AUX	BEDI	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	IFD_tag=sfg3eþ
 5	það	það	PRON	PRO-N	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	7	nsubj	_	IFD_tag=fphen

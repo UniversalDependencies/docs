@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8 9 nummod	color:blue
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	settust	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
-3	kallmenninir	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	2	nsubj	_	_
+3	kallmenninir	_	NOUN	NS-N	Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	_
 4	niður	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	okkurt	_	DET	Q-N	Case=Nom	2	appos	_	_
@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 6 8 nummod	color:blue
 1	Tá	_	ADV	ADV	Degree=Pos	2	advmod	_	_
 2	settust	_	VERB	VBDI	Mood=Ind|Tense=Past	0	root	_	_
-3	kallmenninir	_	NOUN	NS-N	Case=Nom|Definite=Ind|Number=Plur	2	nsubj	_	_
+3	kallmenninir	_	NOUN	NS-N	Case=Nom|Definite=Def|Number=Plur	2	nsubj	_	_
 4	niður	_	ADP	RP	_	2	compound:prt	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	okkurt	_	DET	Q-N	Case=Nom	2	appos	_	_

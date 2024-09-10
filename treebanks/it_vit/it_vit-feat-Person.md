@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-19764 tokens (7%) have a non-empty value of `Person`.
-3172 types (13%) occur at least once with a non-empty value of `Person`.
-1138 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8094; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7860; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (3806; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+19767 tokens (7%) have a non-empty value of `Person`.
+3174 types (14%) occur at least once with a non-empty value of `Person`.
+1140 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 5 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8096; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7862; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (3806; 1% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `AUX`
 
-8094 <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Person`.
+8096 <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8094; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7552; 93%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6758; 83%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6287; 78%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8096; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7553; 93%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6759; 83%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6288; 78%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (1157; 14% of non-empty `Person`): <em>sono, sia, ho, abbiamo, siamo, possa, avevo, stiamo, dobbiamo, avrei</em>
+* `1` (1158; 14% of non-empty `Person`): <em>sono, sia, ho, abbiamo, siamo, possa, avevo, stiamo, dobbiamo, avrei</em>
 * `2` (103; 1% of non-empty `Person`): <em>hai, state, sei, avete, stai, siete, volete, vorresti, volevi, vuoi</em>
-* `3` (6834; 84% of non-empty `Person`): <em>è, ha, hanno, sono, era, sarà, deve, può, aveva, possono</em>
+* `3` (6835; 84% of non-empty `Person`): <em>è, ha, hanno, sono, era, sarà, deve, può, aveva, possono</em>
 * `EMPTY` (1326): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, poter</em>
 
 <table>
@@ -47,16 +47,16 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `VERB`
 
-7860 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
+7862 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7860; 100%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7860; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7571; 96%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6152; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5643; 72%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7862; 100%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7862; 100%), <tt><a href="it_vit-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7574; 96%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6155; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5645; 72%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (808; 10% of non-empty `Person`): <em>credo, abbiamo, so, veda, penso, sia, ho, vedremo, sento, avevo</em>
+* `1` (807; 10% of non-empty `Person`): <em>credo, abbiamo, so, veda, penso, sia, ho, vedremo, sento, avevo</em>
 * `2` (176; 2% of non-empty `Person`): <em>vai, mangi, hai, preferisci, andate, fai, vieni, pensi, andresti, metti</em>
-* `3` (6876; 87% of non-empty `Person`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
-* `EMPTY` (13528): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
+* `3` (6879; 87% of non-empty `Person`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
+* `EMPTY` (13533): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -85,7 +85,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (673; 18% of non-empty `Person`): <em>c', mi, ci, io, noi, me, ce</em>
 * `2` (110; 3% of non-empty `Person`): <em>ti, vi, voi, te, tu</em>
 * `3` (3023; 79% of non-empty `Person`): <em>si, lo, la, l', gli, li, lui, le, loro, essi</em>
-* `EMPTY` (5996): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
+* `EMPTY` (5974): <em>che, cui, quello, ne, quella, quale, dove, chi, ci, quelli</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (38) occur only with one value of `Person`.
 
@@ -99,18 +99,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 * `1` (1; 50% of non-empty `Person`): <em>vedo</em>
 * `3` (1; 50% of non-empty `Person`): <em>dice</em>
-* `EMPTY` (57749): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
-
-### `ADV`
-
-1 <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `ADV` and `Person` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`ADV` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>pare</em>
-* `EMPTY` (10774): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
+* `EMPTY` (57757): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `CCONJ`
 
@@ -119,12 +108,12 @@ The most frequent other feature values with which `ADV` and `Person` co-occurred
 `CCONJ` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>pesino</em>
-* `EMPTY` (8264): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8208): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (596; 62%),
+<tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> VERB</tt> (595; 62%),
 <tt>VERB --[<tt><a href="it_vit-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (43; 83%),
 <tt>AUX --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 100%),
 <tt>VERB --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),

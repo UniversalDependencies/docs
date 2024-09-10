@@ -22,7 +22,7 @@ The following 27 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 4 acl	color:blue
-1	_	_	NOUN	_	_	9	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=29306
+1	_	_	NOUN	_	_	9	dep	_	BBIL=B|BPT=4|UI=29306
 2	_	_	NOUN	_	_	4	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=3524
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=5
 4	_	_	VERB	_	_	9	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=514
@@ -41,7 +41,7 @@ The following 27 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 12 acl	color:blue
-1	_	_	NUM	_	_	20	dep	_	BBIL=B|BPT=4|SpaceAfter=Yes|UI=71
+1	_	_	NUM	_	_	20	dep	_	BBIL=B|BPT=4|UI=71
 2	_	_	NOUN	_	_	4	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=13332
 3	_	_	ADP	_	_	2	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 4	_	_	NOUN	_	_	6	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=29115

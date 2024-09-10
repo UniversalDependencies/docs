@@ -31,10 +31,10 @@ The following 3 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 6	presidentval	presidentval	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	nmod	2:nmod:runt	_
 7	intensifieras	intensifiera	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	13	advcl	13:advcl:medan	_
 8	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	13:cop	_
-9	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	13	expl	13:expl	_
+9	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	13	expl	13:expl	_
 10	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing	13	det	13:det	_
 11	mer	mycket	ADV	AB|KOM	Degree=Cmp	12	advmod	12:advmod	_
-12	oroväckande	oroväckande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Mood=Ind|Tense=Pres|VerbForm=Part	13	amod	13:amod	_
+12	oroväckande	oroväckande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Mood=Ind	13	amod	13:amod	_
 13	hot	hot	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	0:root	_
 14	som	som	PRON	HP|-|-|-	PronType=Int,Rel	15	nsubj	15:nsubj	_
 15	upptar	uppta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:cleft	13:acl:cleft	_
@@ -53,10 +53,10 @@ The following 3 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 # visual-style 5 7 acl:cleft	color:blue
 1	Jag	jag	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
 2	tror	tro	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	5	expl	5:expl	_
+3	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	5	expl	5:expl	_
 4	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 5	därför	därför	ADV	AB	_	2	ccomp	2:ccomp	_
-6	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur	7	nsubj	7:nsubj	_
+6	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	7	nsubj	7:nsubj	_
 7	fördjupat	fördjupa	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	5	acl:cleft	5:acl:cleft	_
 8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def	7	obj	7:obj	_
 9	i	i	ADP	PP	_	10	case	10:case	_
@@ -77,7 +77,7 @@ The following 3 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 1	Trots	trots	ADP	PP	_	2	case	2:case	_
 2	dessa	dessa	PRON	PN|UTR/NEU|PLU|DEF|SUB/OBJ	Definite=Def|Number=Plur	6	obl	6:obl:trots	_
 3	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
-4	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	6	expl	6:expl	_
+4	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	6	expl	6:expl	_
 5	inte	inte	PART	AB	Polarity=Neg	6	advmod	6:advmod	_
 6	alla	alla	PRON	PN|UTR/NEU|PLU|IND|SUB/OBJ	Definite=Ind|Number=Plur	0	root	0:root	_
 7	i	i	ADP	PP	_	8	case	8:case	_
@@ -89,7 +89,7 @@ The following 3 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 13	presidenten	president	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	14	nsubj	14:nsubj|15:nsubj	_
 14	försökte	försöka	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	11	acl	11:acl	_
 15	skicka	skicka	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	14	xcomp	14:xcomp	_
-16	dem	de	PRON	PN|UTR/NEU|PLU|DEF|OBJ	Case=Acc|Definite=Def|Number=Plur	15	iobj	15:iobj	_
+16	dem	de	PRON	PN|UTR/NEU|PLU|DEF|OBJ	Case=Acc|Definite=Def|Number=Plur|PronType=Prs	15	iobj	15:iobj	_
 17	igår	igår	ADV	AB	_	15	advmod	15:advmod	SpaceAfter=No
 18	.	.	PUNCT	MAD	_	6	punct	6:punct	_
 

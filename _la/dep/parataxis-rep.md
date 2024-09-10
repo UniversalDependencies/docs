@@ -29,4 +29,4 @@ advcl(circular, be-brought)
 
 In both cases, the strategy is that of juxtaposition, and any morphosyntactical marks of subordination or co-ordination (e.g. [subordinating conjunctions](la-pos/SCONJ), [non-finite verb forms](la-feat/VerbForm), [constructions in oblique cases](la-dep/advcl-abs), [discourse particles](la-dep/discourse)...) are lacking, hence the use of `parataxis`; at the same time, the subrelation `rep` acknowledges that the two juxtaposed (sometimes even interwoven) blocks are conceptually more connected than with usual parataxis.
 
-<!-- Interlanguage links updated Po lis 14 15:35:43 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:45 CEST -->

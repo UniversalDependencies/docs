@@ -77,4 +77,4 @@ la rue Victor Hugo
 nmod:appos(rue, Victor)
 nmod:appos(Victor, Hugo)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:31 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:21 CEST -->

@@ -20,4 +20,4 @@ aux:ex(written, do-not-have)
 ~~~ 
 
 For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
-<!-- Interlanguage links updated Po lis 14 15:35:10 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:46 CEST -->

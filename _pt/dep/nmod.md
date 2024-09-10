@@ -13,4 +13,4 @@ on another noun. It corresponds to an attribute, or genitive complement (the ter
 nmod(PT, governo)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:21 CEST -->

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fin`, `Ger`.
 
 841 tokens (5%) have a non-empty value of `VerbForm`.
 298 types (4%) occur at least once with a non-empty value of `VerbForm`.
-70 lemmas (3%) occur at least once with a non-empty value of `VerbForm`.
+73 lemmas (3%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 5 part-of-speech tags: <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (322; 2% instances), <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> (301; 2% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (157; 1% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (54; 0% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (7; 0% instances).
 
 ### `VERB`
@@ -37,6 +37,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Fin` (288; 96% of non-empty `VerbForm`): 이다, 이었다, 이라, 였다, 있다, 라, 가, 않았다, 한다, 못했다
 * `Ger` (13; 4% of non-empty `VerbForm`): 이기, 있었기, 내기, 않기, 였음, 있기, 였기, 이었기, 이었음, 있음을
 * `EMPTY` (362): 인, 있는, 이며, 일, 이고, 않은, 이지만, 이라는, 이란, 있고
+
+<table>
+  <tr><th>Paradigm <i>이</i></th><th><tt>Fin</tt></th><th><tt>Ger</tt></th></tr>
+  <tr><td><tt>_</tt></td><td>인지, 일지</td><td>이기, 였음</td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td>이다, 이라, 이다.</td><td></td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ko_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>이었다, 였다</td><td></td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>이세요</td><td></td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td>인가, 일까</td><td></td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>였는지, 였어</td><td>였기, 이었기, 이었음</td></tr>
+</table>
 
 ### `ADJ`
 

@@ -15,7 +15,7 @@ amod(σύγγραμα, περίφημο)
 
 ~~~ sdparse
 το πιθανότερο σενάριο
-advmod(σενάριο, πιθανότερο)
+amod(σενάριο, πιθανότερο)
 ~~~
 
 ~~~ sdparse
@@ -34,6 +34,13 @@ amod(σπόρος, οργανικός)
 amod(σπόρος, ξεφλουδισμένος)
 ~~~
 
+Αdverbs occurring in typical adjectival positions, such as between a determiner and a noun, depend on the noun with the [amod]() relation in order to keep uniformity across languages.
+
+~~~ sdparse
+## trans = “The bottom shelf opens with some difficulty.”
+Το κάτω.ADV ράφι ανοίγει δύσκολα. 
+amod(ράφι, κάτω)
+~~~
 
 <!--
 TODO
@@ -61,4 +68,4 @@ Sam took out  a $ 3 million loan
 amod(loan, $)
 ~~~
 -->
-<!-- Interlanguage links updated Po lis 14 15:35:08 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:42 CEST -->

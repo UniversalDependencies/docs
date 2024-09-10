@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yoruba-YTB: POS Tags: `ADV`
 
-There are 136 `ADV` lemmas (8%), 136 `ADV` types (8%) and 330 `ADV` tokens (4%).
+There are 137 `ADV` lemmas (8%), 136 `ADV` types (8%) and 330 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>nígbà, náà, bẹ́ẹ̀, tó, tún, pẹ̀lú, gẹ́gẹ́, níbẹ̀, ká, lóòótọ́</em>
 
 The 10 most frequent `ADV` types:  <em>nígbà, náà, bẹ́ẹ̀, tó, tún, pẹ̀lú, gẹ́gẹ́, níbẹ̀, ká, lóòótọ́</em>
 
-The 10 most frequent ambiguous lemmas: <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 39, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>tó</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 17, <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>tún</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 17, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>pẹ̀lú</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nìkan</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>bí</em> (<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>bi</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>lọ</em> (<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 43, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 2), <em>mọ́</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>níbi</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 39, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>bẹ́ẹ̀</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 20, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>tó</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 17, <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>tún</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 17, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>pẹ̀lú</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nìkan</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>bí</em> (<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yo_ytb-pos-PART.html">PART</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>bi</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>lọ</em> (<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 43, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 2), <em>mọ́</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>náà</em> (<tt><a href="yo_ytb-pos-DET.html">DET</a></tt> 38, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 13, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 4), <em>tó</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 17, <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 1, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 1), <em>pẹ̀lú</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nìkan</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>bí</em> (<tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>bi</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="yo_ytb-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 1), <em>lọ</em> (<tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 42, <tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADJ.html">ADJ</a></tt> 2), <em>mọ́</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="yo_ytb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="yo_ytb-pos-NOUN.html">NOUN</a></tt> 1), <em>níbi</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 1), <em>sẹ́yìn</em> (<tt><a href="yo_ytb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="yo_ytb-pos-ADP.html">ADP</a></tt> 1)
 
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>náà</em> (<tt><a href="yo_ytb-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.006112).
+The form / lemma ratio of `ADV` is 0.992701 (the average of all parts of speech is 1.007344).
 
 The 1st highest number of forms (1) was observed with the lemma “Bákan”: <em>Bákan</em>.
 
@@ -70,12 +70,12 @@ The 2nd highest number of forms (1) was observed with the lemma “Foundation”
 
 The 3rd highest number of forms (1) was observed with the lemma “Ghana”: <em>Ghana</em>.
 
-`ADV` occurs with 2 features: <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (1; 0% instances), <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADV` occurs with 2 features: <tt><a href="yo_ytb-feat-Typo.html">Typo</a></tt> (3; 1% instances), <tt><a href="yo_ytb-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
 `ADV` occurs with 2 feature-value pairs: `PronType=Ind`, `Typo=Yes`
 
 `ADV` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (328 tokens).
+The most frequent feature combination is `_` (326 tokens).
 Examples: <em>nígbà, náà, bẹ́ẹ̀, tó, tún, pẹ̀lú, gẹ́gẹ́, níbẹ̀, ká, lóòótọ́</em>
 
 

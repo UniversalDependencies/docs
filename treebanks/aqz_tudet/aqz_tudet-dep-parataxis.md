@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (5%) are attached to their parents as `parataxis`.
+71 nodes (5%) are attached to their parents as `parataxis`.
 
-63 instances of `parataxis` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.1969696969697.
+68 instances of `parataxis` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.15492957746479.
 
-The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (43; 65% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (9; 14% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (4; 6% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (46; 65% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (10; 14% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (4; 6% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

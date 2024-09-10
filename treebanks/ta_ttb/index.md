@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Loganathan Ramasamy, Daniel Zeman.
 
 Repository: [UD_Tamil-TTB](https://github.com/UniversalDependencies/UD_Tamil-TTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -218,7 +218,6 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
       <li>AUX-Fin: உள்ளார், உள்ளனர், வருகின்றனர், இருந்தார், உள்ளோம், கொண்டார், படுகின்றனர், பட்டனர், இருக்கிறார், உள்ளேன்</li>
       <li>NOUN: தலைவர், செயலாளர், முதல்வர், பேர், மக்கள், அதிகாரிகள், அமைச்சர், அதிபர், உறுப்பினர், புலிகள்</li>
       <li>NOUN-Part: சேர்ந்தவர்கள், என்பவர், இருந்தவர், உயிரிழந்தவர்கள், செய்தவர்களில், செய்தவர்கள், சேர்ந்தவர், தெரிந்தவர், மீறுவோருக்கு, வாழ்ந்தவர்கள்</li>
-      <li>NUM: ஒருவர்</li>
       <li>PRON: அவர், அனைவரும், அவர்கள், தனது, நான், அவரது, அவர்களை, அவர்களுக்கு, அவருக்கு, அவர்களது</li>
       <li>PROPN: ஒபாமா, ஜெயலலிதா, சிங், எடியூரப்பா, கருணாநிதி, மோடி, வைகோ, ஒபாமாவின், மாலதி, இந்தியர்கள்</li>
       <li>VERB-Fin: தெரிவித்தார், என்றார், கூறினார், உயிரிழந்தனர், இருந்தார், தெரிவித்தனர், காயமடைந்தனர், பார்வையிட்டார், பெற்றார், பேசினார்</li>
@@ -241,8 +240,6 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
       <li>AUX-Fin: உள்ளது, வேண்டும், இல்லை, பட்டது, உள்ளன, இருந்தது, ப்படும், வருகிறது, படுகிறது, வருகின்றன</li>
       <li>AUX-Ger: உள்ளத், இருப்பத், விட்டத், பட்டது, பட்டதற்கு, போவத், வருவது, இருப்பது, உள்ளதால், கொண்டத்</li>
       <li>NOUN: அரசு, நாடுகள், ஆண்டு, கட்சி, தலைமைச், நிலையில், அணு, அறிக்கையில், அரசின், பகுதியில்</li>
-      <li>NUM: ஒன்றை, 10-க்க், 1200க்க், 15-ல், 18-ல், 1992-96ல், 1995ல், 2009-ல், 444-ல், ஆயிரத்த்</li>
-      <li>PART-Ger: என்பது, என்பதை, என்பதால், எடுப்பத், என்பதைய், கொடுப்பத்</li>
       <li>PRON: இது, அது, அதை, இதை, அதில், இதன், அதற்க், அனைத்தும், எதுவும், அதனைத்</li>
       <li>PROPN: இந்தியா, இந்திய, அமெரிக்க, இலங்கை, அதிமுக, பாகிஸ்தான், காங்கிரஸ், கிரிக்கெட், தமிழக, சர்வதேச</li>
       <li>VERB-Fin: உள்ளது, தெரிகிறது, தெரிவித்தன, நடைபெறும், இருக்கும், இல்லை, நடைபெற்றது, ஏற்படுத்தும், தெரிவிக்கிறது, அமையும்</li>

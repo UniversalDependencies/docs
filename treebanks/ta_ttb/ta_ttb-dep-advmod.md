@@ -25,10 +25,10 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7 1 advmod	color:blue
 1	இதற்கு	இது	ADV	AA-------	_	7	advmod	7:advmod	Translit=itarku|LTranslit=itu
 2	தமிழக	தமிழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod	Translit=tamilaka|LTranslit=tamilakam
-3	அரச்	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=arac|LTranslit=aracu
-4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
-5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	Translit=uṭantaiy|LTranslit=uṭantai
-6	ஆக	ஆகு	ADV	AA-------	_	7	advmod	7:advmod	Translit=āka|LTranslit=āku
+3	அரச்	அரசு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	LTranslit=aracu|Translit=arac
+4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	LTranslit=um|Translit=um
+5	உடந்தைய்	உடந்தை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	obl	6:obl:nom	LTranslit=uṭantai|Translit=uṭantaiy
+6	ஆக	ஆகு	ADV	AA-------	_	7	advmod	7:advmod	LTranslit=āku|Translit=āka
 7	உள்ளது	உள்	VERB	Vr-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=uḷḷatu|LTranslit=uḷ
 8	.	.	PUNCT	Z#-------	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
 

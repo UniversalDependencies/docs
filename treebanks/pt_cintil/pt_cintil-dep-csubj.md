@@ -23,12 +23,12 @@ The following 16 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 csubj	color:blue
-1	É	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
+1	É	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	improvável	improvável	ADJ	ADJ	Number=Sing	0	root	_	_
 3	que	que	SCONJ	CJ	_	6	mark	_	_
-4	o	o	DET	DA	Gender=Masc|Number=Sing	5	det	_	_
+4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Congresso	congresso	PROPN	PNM	_	6	nsubj	_	_
-6	vá	ir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres	2	csubj	_	_
+6	vá	ir	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
 7	tão	tão	ADV	ADV	_	8	advmod	_	_
 8	longe	longe	ADV	ADV	_	6	advmod	_	_
 9	.	.	PUNCT	PNT	_	2	punct	_	_
@@ -42,12 +42,12 @@ The following 16 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 7 csubj	color:blue
-1	É	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	cop	_	_
+1	É	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	controverso	controverso	ADJ	ADJ	Gender=Masc|Number=Sing	0	root	_	_
 3	que	que	SCONJ	CJ	_	7	mark	_	_
-4	o	o	DET	DA	Gender=Masc|Number=Sing	5	det	_	_
+4	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	governo	governo	NOUN	CN	Gender=Masc|Number=Sing	7	nsubj	_	_
-6	seja	ser	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres	7	cop	_	_
+6	seja	ser	AUX	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	competente	competente	ADJ	ADJ	Gender=Masc|Number=Sing	2	csubj	_	_
 8	.	.	PUNCT	PNT	_	2	punct	_	_
 
@@ -60,14 +60,14 @@ The following 16 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 csubj	color:blue
-1	É	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+1	É	ser	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	mesmo	mesmo	ADV	ADV	_	3	advmod	_	_
 3	verdade	verdade	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
 4	que	que	SCONJ	CJ	_	8	mark	_	_
 5	mandar	mandar	VERB	INF	VerbForm=Inf	8	dep	_	_
-6	um	um	DET	UM	Gender=Masc|Number=Sing	7	det	_	_
+6	um	um	DET	UM	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	fax	fax	NOUN	CN	Gender=Masc|Number=Sing	5	obj	_	_
-8	funciona	funcionar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	csubj	_	_
+8	funciona	funcionar	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
 9	?	?	PUNCT	PNT	_	3	punct	_	_
 
 ~~~

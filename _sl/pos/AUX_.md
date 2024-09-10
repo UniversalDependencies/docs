@@ -27,4 +27,4 @@ In all other cases (e.g. content verb), _biti_ is marked as [verb](VERB).
 #### Conversion from JOS
 
 In JOS-annotated ssj500k, all instances of verb _biti_ "to be" have been annotated as Type=auxiliary. To separate the actual auxiliary function from other functions, a combination of syntax-based heuristics and manual disambiguation has been used.
-<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

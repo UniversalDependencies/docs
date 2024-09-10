@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt>, <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="kpv_ikdp-feat-Number-subj.html">Number[subj]</a></tt>.
 
-1151 tokens (50%) have a non-empty value of `Number`.
-799 types (80%) occur at least once with a non-empty value of `Number`.
+1152 tokens (50%) have a non-empty value of `Number`.
+800 types (80%) occur at least once with a non-empty value of `Number`.
 544 lemmas (74%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (475; 21% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (268; 12% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (152; 7% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (87; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (31; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (475; 21% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (268; 12% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (153; 7% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (87; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (51; 2% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (31; 1% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (31; 1% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -64,15 +64,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-152 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
+153 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (119; 78%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (90; 59%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (33; 22% of non-empty `Number`): <em>миян, ми, нас, ная, меам, миянлы, миянумес, миянэс, мукедъясыс, мӧдъясыслэн</em>
-* `Sing` (119; 78% of non-empty `Number`): <em>ме, сыа, сы, сія, менам, менэ, мый, мыйке, сіе, сіен</em>
-* `EMPTY` (34): <em>сыа, сы, быд, мыйке, мӧд, ачыс, что, асланум, аслас, аслум</em>
+* `Sing` (120; 78% of non-empty `Number`): <em>ме, сыа, сы, сія, менам, менэ, мый, мыйке, сіе, сіен</em>
+* `EMPTY` (33): <em>сыа, сы, быд, мыйке, мӧд, ачыс, что, асланум, аслас, аслум</em>
 
 <table>
   <tr><th>Paradigm <i>ме</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

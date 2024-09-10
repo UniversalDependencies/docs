@@ -8,72 +8,71 @@ udver: '2'
 
 This relation is universal.
 
-150 nodes (0%) are attached to their parents as `appos`.
+29 nodes (0%) are attached to their parents as `appos`.
 
-150 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.12666666666667.
+29 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.13793103448276.
 
-The following 14 pairs of parts of speech are connected with `appos`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (98; 65% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (11; 7% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (11; 7% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (6; 4% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 appos	color:blue
-1	uirtute	uirtus	NOUN	C1|grn1|casF|gen2|vgr1	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	5	obl	_	_
-2	enim	enim	PART	O4	_	5	discourse	_	_
-3	dei	deus	PROPN	F1|grn1|casB|gen1	Case=Gen|Gender=Masc|InflClass=IndEurO|Number=Sing	1	nmod	_	_
-4	utrumque	uterque	DET	F1|grn1|casA|gen3|comH|vgr2	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	5	nsubj	_	_
-5	fit	facio	VERB	N3|modJ|tem1|gen6	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-6	,	,	PUNCT	Punc	_	8	punct	_	_
-7	et	et	CCONJ	O4	_	8	mark	_	_
-8	corpus	corpus	NOUN	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	5	dislocated:nsubj	_	_
-9	et	et	CCONJ	O4	_	7	fixed	_	_
-10	anima	anima	NOUN	F1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	8	appos	_	SpaceAfter=No
-11	:	:	PUNCT	Punc	_	5	punct	_	_
-
-~~~
+The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (12; 41% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (6; 21% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 7 appos	color:blue
-1	utroque	uterque	DET	F1|grn1|casF|gen3|comH	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Con	4	obl	_	_
-2	enim	enim	PART	O4	_	4	discourse	_	_
-3	agens	agens	NOUN	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	4	nsubj	_	_
-4	agit	ago	VERB	L3|modA|tem1|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
-5	,	,	PUNCT	Punc	_	7	punct	_	_
-6	et	et	CCONJ	O4	_	7	mark	_	_
-7	uirtute	uirtus	NOUN	C1|grn1|casF|gen2|vgr1	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	1	appos	_	_
-8	et	et	CCONJ	O4	_	9	cc	_	_
-9	instrumento	instrumentum	NOUN	B1|grn1|casF|gen3	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	7	conj	_	SpaceAfter=No
-10	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 1 3 appos	color:blue
+1	deus	deus	NOUN	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	0	root	_	_
+2	magnus	magnus	ADJ	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	1	amod	_	_
+3	dominus	dominus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	1	appos	_	_
+4	et	et	CCONJ	O4	_	5	cc	_	_
+5	rex	rex	NOUN	C1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	3	conj	_	_
+6	magnus	magnus	ADJ	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	5	amod	_	_
+7	super	super	ADP	S4	_	9	case	_	_
+8	omnes	omnis	DET	C1|grn1|casM|gen1	Case=Acc|Gender=Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	9	det	_	_
+9	deos	deus	NOUN	F1|grn1|casM|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 appos	color:blue
-1	de	de	ADP	S4	_	2	case	_	_
-2	deo	deus	PROPN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	10	obl	_	_
-3	autem	autem	PART	O4	_	10	discourse	_	_
-4	patre	pater	NOUN	C1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	2	appos	_	_
-5	et	et	CCONJ	O4	_	7	cc	_	_
-6	de	de	ADP	S4	_	7	case	_	_
-7	deo	deus	PROPN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	2	conj	_	_
-8	filio	filius	NOUN	B1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	7	flat	_	_
-9	opposita	oppono	VERB	L2|modM|tem4|grp1|casJ|gen3	Aspect=Perf|Case=Nom|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	10	csubj:pass	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-10	praedicantur	praedico	VERB	J3|modJ|tem1|gen9|vgr1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+# visual-style 2 3 appos	color:blue
+1	et	et	CCONJ	O4	_	10	cc	_	_
+2	ioannes	iohannes	PROPN	C1|grn1|casA|gen1|vgr3	Case=Nom|Gender=Masc|InflClass=IndEurI|NameType=Giv|Number=Sing	10	nsubj	_	_
+3	apostolus	apostolus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	2	appos	_	SpaceAfter=No
+4	,	,	PUNCT	Punc	_	2	punct	_	_
+5	in	in	ADP	S4	_	6	case	_	_
+6	principio	principium	NOUN	B1|grn1|casF|gen3	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	10	obl	_	_
+7	suae	suus	DET	A1|grn1|casB|gen2|vgr1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	_
+8	epistolae	epistola	NOUN	A1|grn1|casB|gen2|vgr1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	Punc	_	6	punct	_	_
+10	dicit	dico	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 11	:	:	PUNCT	Punc	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 appos	color:blue
+1	bene	bene	ADV	O4	_	4	advmod	_	_
+2	spiritus	spiritus	NOUN	D1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	4	nsubj:pass	_	_
+3	sanctus	sanctus	ADJ	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	2	amod	_	_
+4	locutus	loquor	VERB	L2|modM|tem4|grp1|casA|gen1|vgr1	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+5	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+6	per	per	ADP	S4	_	7	case	_	_
+7	isaiam	isaias	ADJ	A1|grn1|casD|gen1|vgr1	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing	9	obl	_	_
+8	prophetam	propheta	NOUN	A1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurA|Number=Sing	7	appos	_	_
+9	dicens	dico	VERB	N2|modD|tem1|grp1|casA|gen1	Aspect=Imp|Case=Nom|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	4	advcl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
+10	:	:	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

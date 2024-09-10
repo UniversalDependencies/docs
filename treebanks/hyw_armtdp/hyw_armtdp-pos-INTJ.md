@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Western_Armenian-ArmTDP: POS Tags: `INTJ`
 
 There are 62 `INTJ` lemmas (0%), 62 `INTJ` types (0%) and 261 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 12 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 12 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>այո, ոչ, չէ, ծօ, է, լաւ, հը, ահ, բարեւ, վայ</em>
 
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>ոչ</em> (<tt><a href="hyw_armtdp-po
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.042545).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.043120).
 
 The 1st highest number of forms (1) was observed with the lemma “Խրիսթինաաա”: <em>Խրիսթինաաա</em>.
 

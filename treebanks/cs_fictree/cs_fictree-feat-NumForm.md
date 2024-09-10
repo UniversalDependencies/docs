@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_fictree-pos-NUM.
 
 1308 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1308; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (844; 65%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (841; 64%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (739; 56%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1308; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (841; 64%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (739; 56%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 <table>
   <tr><th>Paradigm <i>4</i></th><th><tt>Digit</tt></th><th><tt>Word</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt></tt></td><td></td><td><em>IV</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>IV</em></td></tr>
   <tr><td><tt></tt></td><td><em>4</em></td><td></td></tr>
 </table>
 
@@ -37,6 +37,5 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="cs_fictree-dep-compound.html">compound</a></tt>]--> NUM</tt> (30; 100%),
-<tt>NUM --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NUM</tt> (16; 100%),
-<tt>NUM --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NUM</tt> (16; 100%).
 

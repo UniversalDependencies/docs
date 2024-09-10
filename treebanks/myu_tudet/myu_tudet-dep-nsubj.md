@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-93 nodes (9%) are attached to their parents as `nsubj`.
+92 nodes (9%) are attached to their parents as `nsubj`.
 
-58 instances of `nsubj` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54838709677419.
+58 instances of `nsubj` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55434782608696.
 
-The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (38; 41% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (27; 29% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (20; 22% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (38; 41% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (26; 28% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (20; 22% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

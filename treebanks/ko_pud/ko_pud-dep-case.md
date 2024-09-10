@@ -77,7 +77,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 7	건강을	건강	NOUN	NN+CM	Case=Acc|Polite=Form	9	obj	_	MSeg=건강-을|Translit=.geon.gang.eul|LTranslit=.geon.gang
 8	전혀	_	ADV	RB	_	9	advmod	_	Translit=.jeon.hyeo
 9	돌보지	_	VERB	VV	Form=Aux	13	advcl	_	Translit=.dol.bo.ji
-10	않았어요	_	AUX	VX+AP	Polite=Form|Tense=Past|VerbForm=Fin	9	aux	_	SpaceAfter=No|MSeg=않았어-요|Translit=.anh.ass.eo.yo
+10	않았어요	않	AUX	VX+AP	Polite=Form|Tense=Past|VerbForm=Fin	9	aux	_	SpaceAfter=No|MSeg=않았어-요|Translit=.anh.ass.eo.yo|LTranslit=.anh
 11	”	”	PUNCT	''	_	9	punct	_	SpaceAfter=No|Translit=”|LTranslit=”
 12	라고	라고	PART	QP	_	9	case	_	Translit=.ra.go|LTranslit=.ra.go
 13	말했다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.mal.haess.da

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-39 tokens (0%) have a non-empty value of `Foreign`.
-34 types (0%) occur at least once with a non-empty value of `Foreign`.
-34 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 5 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (28; 0% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+49 tokens (0%) have a non-empty value of `Foreign`.
+42 types (0%) occur at least once with a non-empty value of `Foreign`.
+42 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 5 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (28; 0% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -29,14 +29,16 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 ### `ADJ`
 
-6 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
+16 <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="sv_talbanken-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16; 100%), <tt><a href="sv_talbanken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (16; 100%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (6; 100% of non-empty `Foreign`): <em>Economic, European, New, United, priori, restante</em>
-* `EMPTY` (8493): <em>olika, andra, nya, många, stora, stor, större, första, vissa, hela</em>
+* `Yes` (16; 100% of non-empty `Foreign`): <em>European, New, American, Boiling, Central, Economic, Free, Intermittent, International, National</em>
+* `EMPTY` (8623): <em>olika, andra, nya, många, stora, stor, samma, större, första, vissa</em>
+
+`Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Foreign`.
 
 ### `ADP`
 
@@ -56,7 +58,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>sic</em>
-* `EMPTY` (7037): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
+* `EMPTY` (6976): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
 
 ### `CCONJ`
 
@@ -71,8 +73,5 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="sv_talbanken-dep-compound.html">compound</a></tt>]--> NOUN</tt> (8; 100%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4; 80%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>ADP --[<tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="sv_talbanken-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (2; 100%).
 

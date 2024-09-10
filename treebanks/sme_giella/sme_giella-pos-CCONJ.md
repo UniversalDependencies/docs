@@ -44,15 +44,15 @@ The 3rd highest number of forms (1) was observed with the lemma “dahje”: <em
 
 Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (468; 46% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (387; 38% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (63; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (61; 6% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (3; 0% instances)
 
-942 (93%) `CCONJ` nodes are leaves.
+940 (93%) `CCONJ` nodes are leaves.
 
-64 (6%) `CCONJ` nodes have one child.
+66 (7%) `CCONJ` nodes have one child.
 
 4 (0%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (46; 64% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (26; 36% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="sme_giella-dep-punct.html">punct</a></tt> (48; 65% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (26; 35% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (46; 64% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (26; 36% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="sme_giella-pos-PUNCT.html">PUNCT</a></tt> (48; 65% instances), <tt><a href="sme_giella-pos-SCONJ.html">SCONJ</a></tt> (26; 35% instances)
 

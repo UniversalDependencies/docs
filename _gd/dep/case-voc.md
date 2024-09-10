@@ -15,4 +15,4 @@ A vocative particle precedes and marks the case of an addressee.
 Tha latha eile agad a-nis, a Dhòmhnaill \n is day another at_you now PART Donald
 case:voc(Dhòmhnaill, a)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:13 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:49 CEST -->

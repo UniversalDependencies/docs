@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-CFL: POS Tags: `NUM`
 
 There are 22 `NUM` lemmas (1%), 22 `NUM` types (1%) and 143 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 10 in number of lemmas, 10 in number of types and 11 in number of tokens.
+Out of 15 observed tags, the rank of `NUM` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: 一、 两、 三、 第一、 几、 10、 20、 之一、 仨、 半
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  一 (<tt><a href="zh_cfl-pos-NUM.html">NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.001198).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.009709).
 
 The 1st highest number of forms (1) was observed with the lemma “10”: 10.
 

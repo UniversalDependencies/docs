@@ -576,7 +576,14 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Def
+          <ul>
+            <li>NOUN: faðirin, fólkið, dagin, heiminum, orðið, heimin, heimurin, lærusveinarnir, halgidóminum, ljósið</li>
+            <li>PROPN: Harrans, Jödarnir, Harrin, Jödunum, Jödanna, Fariseararnir, Jödarnar, hvíludagin, Harranum, himmalin</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -597,8 +604,8 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: frímóðiga</li>
-            <li>NOUN: faðirin, orð, móti, faðir, menn, navni, stað, anda, lív, maður</li>
-            <li>PROPN: Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, Harrans, harri, Jödarnir, Símun</li>
+            <li>NOUN: orð, móti, faðir, menn, navni, stað, anda, lív, maður, lærusveinar</li>
+            <li>PROPN: Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, harri, Símun, Paulus, Jóhannes</li>
           </ul>
         </li>
       </ul>
@@ -779,8 +786,8 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>AUX: skuldi, skuldu, veri, mundi, hevði, mundu, verði</li>
-            <li>VERB: kenni, komi, legði, bjóði, drekki, fari, fylgi, föri, kasti, lati</li>
+            <li>AUX: veri, verði</li>
+            <li>VERB: komi, drekki, fylgi, föri, kasti, lati, ræðist, verði, óttist</li>
           </ul>
         </li>
       </ul>

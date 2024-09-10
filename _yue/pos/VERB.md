@@ -20,4 +20,4 @@ Despite its use in copular constructions, 係 / _hai6_ "be" is tagged as a verb 
 - 決定 / _kyut3ding6_ "decide"
 - 有 / _jau5_ "have; own; exist"
 - 係 / _hai6_ "be; exist"
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->

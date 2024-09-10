@@ -16,8 +16,11 @@ udver: '2'
   * [Ditransitive clauses](ditransitive_clauses.html)
   * [Valency-changing operations](valency_changing_operations.html) (passive, antipassive, causative, applicative)
   * Expletives, multiple realizations of arguments
-  * Existential clauses
-  * Nonverbal clauses
+  * Nonprototypical clauses
+    * [Clauses with object predication](object_predication.html)
+    * [Clauses with property predication](property_predication.html)
+    * [Clauses with location predication/presentation](location.html)
+    * Existential clauses
   * Complex predicates
     * Auxiliaries
     * Light verbs

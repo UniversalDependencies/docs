@@ -16,21 +16,21 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ga_cadhan-pos-ADV.h
 
 ### `ADV`
 
-4 <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Abbr`.
+4 <tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>.i.</em>
-* `EMPTY` (97): <em>anois, isteach, fós, arís, thart, amach, chomh, cá, suas, abhaile</em>
+* `EMPTY` (114): <em>anois, fós, isteach, arís, cá, thall, thart, amach, chomh, suas</em>
 
 ### `ADJ`
 
-1 <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+1 <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
 The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="ga_cadhan-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ga_cadhan-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>.i.</em>
-* `EMPTY` (156): <em>maith, beag, mór, amháin, ionann, mó, breagh, buidhe, dubh, feargach</em>
+* `EMPTY` (210): <em>mór, maith, beag, mó, amháin, cóir, iomdha, ionann, mhór, bocht</em>
 

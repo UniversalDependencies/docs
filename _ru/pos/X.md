@@ -24,4 +24,4 @@ _килт_ is an ordinary [NOUN]().
 ### Examples
 
 - _И потом он просто <b>xfgh pdl jklw</b>&nbsp;_ “And then he just <b>xfgh pdl jklw</b>”
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:44 CEST -->

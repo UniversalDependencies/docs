@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="he_htb-dep-case.html">case</a></tt>.
 There are also 1 other language-specific subtypes of `case`: <tt><a href="he_htb-dep-case-gen.html">case:gen</a></tt>.
 
-1957 nodes (1%) are attached to their parents as `case:acc`.
+1947 nodes (1%) are attached to their parents as `case:acc`.
 
-1957 instances of `case:acc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45068983137455.
+1947 instances of `case:acc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44992295839753.
 
-The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1440; 74% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (300; 15% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (172; 9% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1431; 73% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (300; 15% instances), <tt><a href="he_htb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (171; 9% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="he_htb-pos-ADV.html">ADV</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (11; 1% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt>-<tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,12 +26,12 @@ The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a h
 1	איובה	איובה	PROPN	PROPN	_	2	nsubj	_	_
 2	שילמה	שילם	VERB	VERB	Gender=Fem|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	את	את	ADP	ADP	Case=Acc	5	case:acc	_	_
-4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
+4	ה	ה	DET	DET	PronType=Art	5	det	_	_
 5	מחיר	מחיר	NOUN	NOUN	Gender=Masc|Number=Sing	2	obj	_	_
 6	עד	עד	ADP	ADP	_	7	case	_	_
 7	אמצע	אמצע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
 8	שנות	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	7	compound:smixut	_	_
-9	ה	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+9	ה	ה	DET	DET	PronType=Art	10	det	_	_
 10	80	80	NUM	NUM	_	8	compound:smixut	_	_
 11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -52,7 +52,7 @@ The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a h
 6	את_	את	ADP	ADP	Case=Acc	7	case:acc	_	_
 7	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 8	ל	ל	ADP	ADP	_	10	case	_	_
-9	ה_	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
+9	ה_	ה	DET	DET	PronType=Art	10	det	_	_
 10	מוות	מוות	NOUN	NOUN	Gender=Masc|Number=Sing	5	obl	_	_
 11	שלא	שלא	ADV	ADV	_	12	advmod	_	_
 12	ב	ב	ADP	ADP	_	13	case	_	_

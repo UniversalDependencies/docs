@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_cadhan-dep-acl.html">acl</a></tt>.
 
-81 nodes (2%) are attached to their parents as `acl:relcl`.
+108 nodes (2%) are attached to their parents as `acl:relcl`.
 
-81 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.06172839506173.
+108 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.13888888888889.
 
-The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (63; 78% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (78; 72% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (11; 10% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,6 +33,31 @@ The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 9	an	an	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
 10	gleó	gleo	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 acl:relcl	color:blue
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	a	a	PART	_	PartType=Voc	5	case:voc	_	_
+5	dhaltha	dalta	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ach	ach	CCONJ	_	_	8	cc	_	_
+8	cad	is	PRON	_	PronType=Int	2	conj	_	_
+9	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	10	mark:prt	_	_
+10	bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	8	acl:relcl	_	_
+11	aici	ag	ADP	_	Gender=Fem|Number=Sing|Person=3	10	xcomp:pred	_	_
+12	le	le	ADP	_	_	13	case	_	_
+13	déanamh	déanamh	NOUN	_	VerbForm=Inf	10	xcomp	_	SpaceAfter=No
+14	?	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -61,33 +86,6 @@ The following 7 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 16	do	de	ADP	_	_	17	case	_	_
 17	loing	long	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	13	obl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 15 acl:relcl	color:blue
-1	A	a	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	2	nmod:poss	_	_
-2	thigh	teach	NOUN	_	Case=Nom|Form=Len|Gender=Masc|Number=Sing	0	root	_	_
-3	dochuimseach	dochuimseach	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	amod	_	_
-4	fein	féin	PRON	_	Reflex=Yes	2	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
-6	agus	agus	CCONJ	_	_	8	cc	_	_
-7	gach	gach	DET	_	Definite=Def	8	det	_	_
-8	spiorad	spiorad	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	maith	maith	ADJ	_	Degree=Pos	8	amod	_	_
-11	is	agus	CCONJ	_	_	12	cc	_	_
-12	olc	olc	ADJ	_	Degree=Pos	10	conj	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	10	punct	_	_
-14	dá	de	ADP	_	PronType=Rel	8	nmod	_	_
-15	bhfuil	bí	VERB	_	Form=Ecl|Mood=Ind|Tense=Pres	14	acl:relcl	_	_
-16	ann	i	ADP	_	Gender=Masc|Number=Sing|Person=3	15	xcomp:pred	_	SpaceAfter=No
-17	!	!	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 

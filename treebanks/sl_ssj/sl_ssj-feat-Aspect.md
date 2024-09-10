@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (10317; 49% of non-empty `Aspect`): <em>ima, imajo, mora, imel, zdi, imeli, moral, morali, imela, moramo</em>
 * `Perf` (10838; 51% of non-empty `Aspect`): <em>povedal, rekel, začel, dejal, postal, dobil, začeli, začela, zgodilo, postala</em>
-* `EMPTY` (3438): <em>je, bilo, ni, gre, so, bo, pomeni, pravi, bila, bil</em>
+* `EMPTY` (3437): <em>je, bilo, ni, gre, so, bo, pomeni, pravi, bila, bil</em>
 
 <table>
   <tr><th>Paradigm <i>misliti</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -49,5 +49,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="sl_ssj-dep-conj.html">conj</a></tt>]--> VERB</tt> (1476; 60%),
-<tt>VERB --[<tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 75%).
+<tt>VERB --[<tt><a href="sl_ssj-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 75%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sl_ssj-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%).
 

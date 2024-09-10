@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.013333 (the average of all parts of speech is 1.298345).
+The form / lemma ratio of `X` is 1.013333 (the average of all parts of speech is 1.299853).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>Or, hui, ème</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (1) was observed with the lemma “'Ya”: <em>'
 
 The 3rd highest number of forms (1) was observed with the lemma “America”: <em>America</em>.
 
-`X` occurs with 3 features: <tt><a href="fr_pud-feat-Foreign.html">Foreign</a></tt> (19; 11% instances), <tt><a href="fr_pud-feat-Number.html">Number</a></tt> (10; 6% instances), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt> (1; 1% instances)
+`X` occurs with 1 features: <tt><a href="fr_pud-feat-Foreign.html">Foreign</a></tt> (175; 97% instances)
 
-`X` occurs with 4 feature-value pairs: `Foreign=Yes`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`X` occurs with 1 feature-value pairs: `Foreign=Yes`
 
-`X` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (151 tokens).
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `Foreign=Yes` (175 tokens).
 Examples: <em>of, the, a, Association, City, El, Ground, My, Punta, Really</em>
 
 

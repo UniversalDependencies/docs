@@ -60,7 +60,7 @@ advcl(ακούς, διαφωνείς)
 ~~~
 
 
-This relation is also used for optional avderbial predicatives like
+This relation is also used for optional adverbial predicatives like
 
 ~~~ sdparse
 έφυγε θυμωμένος
@@ -83,4 +83,4 @@ TODO: επιρρηματικά κατηγορούμενα έφυγε σκυφτ�
 
 -->
 
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:32 CEST -->

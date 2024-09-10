@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Robert Munro.
 
 Repository: [UD_English-Pronouns](https://github.com/UniversalDependencies/UD_English-Pronouns)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -110,21 +110,21 @@ Please cite this book if using this dataset.
 
 ## Features
 
-[Case](en_pronouns-feat-Case.html) – [Definite](en_pronouns-feat-Definite.html) – [Degree](en_pronouns-feat-Degree.html) – [Gender](en_pronouns-feat-Gender.html) – [Mood](en_pronouns-feat-Mood.html) – [Number](en_pronouns-feat-Number.html) – [NumType](en_pronouns-feat-NumType.html) – [Person](en_pronouns-feat-Person.html) – [Polarity](en_pronouns-feat-Polarity.html) – [Poss](en_pronouns-feat-Poss.html) – [PronType](en_pronouns-feat-PronType.html) – [Tense](en_pronouns-feat-Tense.html) – [VerbForm](en_pronouns-feat-VerbForm.html)
+[Definite](en_pronouns-feat-Definite.html) – [Degree](en_pronouns-feat-Degree.html) – [Gender](en_pronouns-feat-Gender.html) – [Mood](en_pronouns-feat-Mood.html) – [Number](en_pronouns-feat-Number.html) – [NumType](en_pronouns-feat-NumType.html) – [Person](en_pronouns-feat-Person.html) – [Polarity](en_pronouns-feat-Polarity.html) – [Poss](en_pronouns-feat-Poss.html) – [PronType](en_pronouns-feat-PronType.html) – [Tense](en_pronouns-feat-Tense.html) – [VerbForm](en_pronouns-feat-VerbForm.html)
 
 ## Relations
 
-[advcl](en_pronouns-dep-advcl.html) – [advmod](en_pronouns-dep-advmod.html) – [amod](en_pronouns-dep-amod.html) – [appos](en_pronouns-dep-appos.html) – [aux](en_pronouns-dep-aux.html) – [aux:pass](en_pronouns-dep-aux-pass.html) – [case](en_pronouns-dep-case.html) – [cc](en_pronouns-dep-cc.html) – [ccomp](en_pronouns-dep-ccomp.html) – [conj](en_pronouns-dep-conj.html) – [cop](en_pronouns-dep-cop.html) – [csubj](en_pronouns-dep-csubj.html) – [det](en_pronouns-dep-det.html) – [det:predet](en_pronouns-dep-det-predet.html) – [expl](en_pronouns-dep-expl.html) – [iobj](en_pronouns-dep-iobj.html) – [mark](en_pronouns-dep-mark.html) – [nmod](en_pronouns-dep-nmod.html) – [nsubj](en_pronouns-dep-nsubj.html) – [obj](en_pronouns-dep-obj.html) – [obl](en_pronouns-dep-obl.html) – [orphan](en_pronouns-dep-orphan.html) – [parataxis](en_pronouns-dep-parataxis.html) – [punct](en_pronouns-dep-punct.html) – [root](en_pronouns-dep-root.html) – [xcomp](en_pronouns-dep-xcomp.html)
+[advcl](en_pronouns-dep-advcl.html) – [advmod](en_pronouns-dep-advmod.html) – [amod](en_pronouns-dep-amod.html) – [appos](en_pronouns-dep-appos.html) – [aux](en_pronouns-dep-aux.html) – [aux:pass](en_pronouns-dep-aux-pass.html) – [case](en_pronouns-dep-case.html) – [cc](en_pronouns-dep-cc.html) – [ccomp](en_pronouns-dep-ccomp.html) – [conj](en_pronouns-dep-conj.html) – [cop](en_pronouns-dep-cop.html) – [det](en_pronouns-dep-det.html) – [det:predet](en_pronouns-dep-det-predet.html) – [expl](en_pronouns-dep-expl.html) – [iobj](en_pronouns-dep-iobj.html) – [mark](en_pronouns-dep-mark.html) – [nmod](en_pronouns-dep-nmod.html) – [nsubj](en_pronouns-dep-nsubj.html) – [obj](en_pronouns-dep-obj.html) – [obl](en_pronouns-dep-obl.html) – [orphan](en_pronouns-dep-orphan.html) – [parataxis](en_pronouns-dep-parataxis.html) – [punct](en_pronouns-dep-punct.html) – [root](en_pronouns-dep-root.html) – [xcomp](en_pronouns-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 285 sentences and 1705 tokens.</li>
+<li>This corpus contains 285 sentences, 1640 tokens and 1705 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 395 tokens (23%) that are not followed by a space.</li>
+<li>This corpus contains 330 tokens (20%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -136,6 +136,8 @@ Please cite this book if using this dataset.
 </ul>
 
 <ul>
+<li>This corpus contains 65 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 9 types of multi-word tokens. Examples: It's, car's, dealer's, isn't, Hers'll, His'll, Mine'll, Theirs'll, Yours'll.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -152,7 +154,7 @@ Please cite this book if using this dataset.
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as pronouns (PRON): hers, his, it, mine, theirs, there, yours</li>
+<li>This corpus contains 7 lemmas tagged as pronouns (PRON): her, his, it, my, their, there, your</li>
 </ul>
 
 <ul>
@@ -263,17 +265,6 @@ Please cite this book if using this dataset.
   </li>
 </ul>
 
-<ul>
-  <li><a>Case</a></li>
-</ul>
-
-<ul>
-  <li>Nom
-    <ul>
-      <li>DET: all</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>
@@ -407,6 +398,14 @@ Please cite this book if using this dataset.
 </ul>
 
 <ul>
+  <li>Tot
+    <ul>
+      <li>DET: all</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NumType</a></li>
 </ul>
 
@@ -524,5 +523,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>aux:pass</a>, <a>det:predet</a></li>
-<li>The following 13 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

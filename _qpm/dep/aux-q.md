@@ -18,3 +18,4 @@ aux:q(dojdéš, li)
 punct(dojdéš, ?)
 ~~~
 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:47 CEST -->

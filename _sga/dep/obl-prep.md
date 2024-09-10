@@ -36,3 +36,4 @@ _nib machdad <b>lat</b>_ "let it not be a wonder <b>to you</b>"
 ni b machdad lat \n not that_it_be a_wonder with_you
 obl:prep(machdad, lat)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:40 CEST -->

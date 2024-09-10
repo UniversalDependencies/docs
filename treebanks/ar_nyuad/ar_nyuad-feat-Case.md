@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (4778; 20% of non-empty `Case`): _
 * `Gen` (16699; 69% of non-empty `Case`): _
 * `Nom` (2874; 12% of non-empty `Case`): _
-* `EMPTY` (19142): _
+* `EMPTY` (19144): _
 
 ### `ADV`
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Acc` (42; 31% of non-empty `Case`): _
 * `Gen` (80; 58% of non-empty `Case`): _
 * `Nom` (15; 11% of non-empty `Case`): _
-* `EMPTY` (91605): _
+* `EMPTY` (91606): _
 
 ### `PUNCT`
 
@@ -127,7 +127,7 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Acc` (19; 26% of non-empty `Case`): _
 * `Gen` (48; 66% of non-empty `Case`): _
 * `Nom` (6; 8% of non-empty `Case`): _
-* `EMPTY` (49085): _
+* `EMPTY` (49088): _
 
 ### `VERB`
 
@@ -179,7 +179,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Acc` (3; 25% of non-empty `Case`): _
 * `Gen` (6; 50% of non-empty `Case`): _
 * `Nom` (3; 25% of non-empty `Case`): _
-* `EMPTY` (9151): _
+* `EMPTY` (9143): _
 
 ### `SCONJ`
 
@@ -201,7 +201,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Acc` (1; 13% of non-empty `Case`): _
 * `Gen` (6; 75% of non-empty `Case`): _
 * `Nom` (1; 13% of non-empty `Case`): _
-* `EMPTY` (2511): _
+* `EMPTY` (2513): _
 
 ### `INTJ`
 
@@ -224,5 +224,5 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (1515; 53%),
 <tt>ADJ --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1020; 78%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-nmod-poss.html">nmod:poss</a></tt>]--> ADJ</tt> (678; 57%),
-<tt>NOUN --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (669; 59%).
+<tt>NOUN --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (669; 60%).
 

@@ -39,20 +39,20 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 amod	color:blue
-1	Alábùkún	Alábùkún	ADJ	_	_	6	nsubj	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=blessed
-2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=the
-3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.5|Gloss=unto
-4	ni	ni	PART	_	_	5	case	_	Ref=MATT_5.5|Gloss=is
-5	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nmod	_	Ref=MATT_5.5|Gloss=they
-6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	12	amod	_	Ref=MATT_5.5|Gloss=meek
-7	tútù	tútù	ADJ	_	_	6	amod	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=cold
-8	,	,	PUNCT	_	_	12	punct	_	Ref=MATT_5.5|Gloss=,
-9	nítorí	nítorí	SCONJ	_	_	12	mark	_	Ref=MATT_5.5|Gloss=for
-10	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Ref=MATT_5.5|Gloss=they
-11	yóò	yóò	AUX	_	_	12	aux	_	Ref=MATT_5.5|Gloss=shall
-12	jogún	jogún	VERB	_	_	0	root	_	Ref=MATT_5.5|Gloss=inherit
-13	ayé	ayé	NOUN	_	_	12	obj	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=earth
-14	.	.	PUNCT	_	_	12	punct	_	Ref=MATT_5.5|Gloss=.
+1	Alábùkún	Alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.5|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Gloss=the|Ref=MATT_5.5|SpaceAfter=No
+3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.5
+4	ni	ni	PART	_	_	5	case	_	Gloss=is|Ref=MATT_5.5
+5	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nmod	_	Gloss=they|Ref=MATT_5.5
+6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	12	amod	_	Gloss=meek|Ref=MATT_5.5
+7	tútù	tútù	ADJ	_	_	6	amod	_	Gloss=cold|Ref=MATT_5.5|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=MATT_5.5
+9	nítorí	nítorí	SCONJ	_	_	12	mark	_	Gloss=for|Ref=MATT_5.5
+10	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Gloss=they|Ref=MATT_5.5
+11	yóò	yóò	AUX	_	_	12	aux	_	Gloss=shall|Ref=MATT_5.5
+12	jogún	jogún	VERB	_	_	0	root	_	Gloss=inherit|Ref=MATT_5.5
+13	ayé	ayé	NOUN	_	_	12	obj	_	Gloss=earth|Ref=MATT_5.5|SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=MATT_5.5
 
 ~~~
 
@@ -63,20 +63,20 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 6 amod	color:blue
-1	Alábùkún	Alábùkún	ADJ	_	_	6	nsubj	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=blessed
-2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=the
-3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.5|Gloss=unto
-4	ni	ni	PART	_	_	5	case	_	Ref=MATT_5.5|Gloss=is
-5	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nmod	_	Ref=MATT_5.5|Gloss=they
-6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	12	amod	_	Ref=MATT_5.5|Gloss=meek
-7	tútù	tútù	ADJ	_	_	6	amod	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=cold
-8	,	,	PUNCT	_	_	12	punct	_	Ref=MATT_5.5|Gloss=,
-9	nítorí	nítorí	SCONJ	_	_	12	mark	_	Ref=MATT_5.5|Gloss=for
-10	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Ref=MATT_5.5|Gloss=they
-11	yóò	yóò	AUX	_	_	12	aux	_	Ref=MATT_5.5|Gloss=shall
-12	jogún	jogún	VERB	_	_	0	root	_	Ref=MATT_5.5|Gloss=inherit
-13	ayé	ayé	NOUN	_	_	12	obj	_	Ref=MATT_5.5|SpaceAfter=No|Gloss=earth
-14	.	.	PUNCT	_	_	12	punct	_	Ref=MATT_5.5|Gloss=.
+1	Alábùkún	Alábùkún	ADJ	_	_	6	nsubj	_	Gloss=blessed|Ref=MATT_5.5|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Gloss=the|Ref=MATT_5.5|SpaceAfter=No
+3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.5
+4	ni	ni	PART	_	_	5	case	_	Gloss=is|Ref=MATT_5.5
+5	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nmod	_	Gloss=they|Ref=MATT_5.5
+6	ọlọ́kàn	ọlọ́kàn	ADJ	_	_	12	amod	_	Gloss=meek|Ref=MATT_5.5
+7	tútù	tútù	ADJ	_	_	6	amod	_	Gloss=cold|Ref=MATT_5.5|SpaceAfter=No
+8	,	,	PUNCT	_	_	12	punct	_	Gloss=,|Ref=MATT_5.5
+9	nítorí	nítorí	SCONJ	_	_	12	mark	_	Gloss=for|Ref=MATT_5.5
+10	wọn	wọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	Gloss=they|Ref=MATT_5.5
+11	yóò	yóò	AUX	_	_	12	aux	_	Gloss=shall|Ref=MATT_5.5
+12	jogún	jogún	VERB	_	_	0	root	_	Gloss=inherit|Ref=MATT_5.5
+13	ayé	ayé	NOUN	_	_	12	obj	_	Gloss=earth|Ref=MATT_5.5|SpaceAfter=No
+14	.	.	PUNCT	_	_	12	punct	_	Gloss=.|Ref=MATT_5.5
 
 ~~~
 

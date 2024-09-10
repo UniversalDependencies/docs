@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	war	war	NOUN	NN	Number=Sing	13	nsubj	13:nsubj	_
 8	between	between	ADP	IN	_	11	case	11:case	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_
-10	two	two	NUM	CD	NumType=Card	11	nummod	11:nummod	_
+10	two	two	NUM	CD	NumForm=Word|NumType=Card	11	nummod	11:nummod	_
 11	universes	universe	NOUN	NNS	Number=Plur	7	nmod	7:nmod:between	_
 12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	13:aux	_
 13	coming	come	VERB	VBG	Tense=Pres|VerbForm=Part	3	ccomp	3:ccomp	SpaceAfter=No
@@ -98,14 +98,14 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	company	company	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
 3	told	tell	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	BBC	BBC	PROPN	NNP	Number=Sing	3	iobj	3:iobj	_
+5	BBC	BBC	PROPN	NNP	Abbr=Yes|Number=Sing	3	iobj	3:iobj	_
 6	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
 7	would	would	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 10	responsibility	responsibility	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
 11	of	of	ADP	IN	_	14	case	14:case	_
-12	each	each	DET	DT	_	14	det	14:det	_
+12	each	each	DET	DT	PronType=Tot	14	det	14:det	_
 13	airline	airline	NOUN	NN	Number=Sing	14	compound	14:compound	_
 14	brand	brand	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	_
 15	to	to	PART	TO	_	16	mark	16:mark	_

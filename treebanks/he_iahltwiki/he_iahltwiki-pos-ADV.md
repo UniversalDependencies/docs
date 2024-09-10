@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  לא (<tt><a href="he_iahltwiki-pos-ADV.h
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.005865 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `ADV` is 1.005865 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (2) was observed with the lemma “בין”: בין, בינ.
 

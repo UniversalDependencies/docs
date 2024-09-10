@@ -61,12 +61,12 @@ The 2nd highest number of forms (5) was observed with the lemma “մոտ”: <e
 
 The 3rd highest number of forms (4) was observed with the lemma “հետ”: <em>հետ, հետն, հետները, հետներս</em>.
 
-`ADP` occurs with 6 features: <tt><a href="hy_armtdp-feat-AdpType.html">AdpType</a></tt> (1633; 100% instances), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt> (437; 27% instances), <tt><a href="hy_armtdp-feat-Style.html">Style</a></tt> (15; 1% instances), <tt><a href="hy_armtdp-feat-Number-psor.html">Number[psor]</a></tt> (13; 1% instances), <tt><a href="hy_armtdp-feat-Person-psor.html">Person[psor]</a></tt> (13; 1% instances), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt> (1; 0% instances)
+`ADP` occurs with 6 features: <tt><a href="hy_armtdp-feat-AdpType.html">AdpType</a></tt> (1633; 100% instances), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt> (434; 27% instances), <tt><a href="hy_armtdp-feat-Style.html">Style</a></tt> (15; 1% instances), <tt><a href="hy_armtdp-feat-Number-psor.html">Number[psor]</a></tt> (13; 1% instances), <tt><a href="hy_armtdp-feat-Person-psor.html">Person[psor]</a></tt> (13; 1% instances), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt> (1; 0% instances)
 
 `ADP` occurs with 17 feature-value pairs: `AdpType=Comadp`, `AdpType=Post`, `AdpType=Prep`, `Case=Abl`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `Definite=Def`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Style=Arch`, `Style=Coll`, `Style=Vrnc`
 
 `ADP` occurs with 19 feature combinations.
-The most frequent feature combination is `AdpType=Post` (914 tokens).
+The most frequent feature combination is `AdpType=Post` (917 tokens).
 Examples: <em>համար, հետ, մասին, մեջ, հետո, վրա, պես, նկատմամբ, կողմից, ընթացքում</em>
 
 

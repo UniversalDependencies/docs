@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-Atis: Relations: `aux`
 
 This relation is universal.
+There are 1 language-specific subtypes of `aux`: <tt><a href="tr_atis-dep-aux-q.html">aux:q</a></tt>.
 
-447 nodes (1%) are attached to their parents as `aux`.
+18 nodes (0%) are attached to their parents as `aux`.
 
-447 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01118568232662.
+18 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16666666666667.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (223; 50% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (207; 46% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="tr_atis-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (4; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (12; 67% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (3; 17% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_atis-pos-AUX.html">AUX</a></tt> (3; 17% instances).
 
 
 ~~~ conllu
@@ -22,48 +23,51 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 aux	color:blue
-1	B	b	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
-2	ücret	ücret	NOUN	_	Case=Nom|Number=Sing|Person=3	3	nmod	_	_
-3	kodu	kod	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nsubj	_	_
-4	business	business	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nmod	_	_
-5	sınıfı	sınıf	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	compound	_	_
-6	ile	ile	ADP	_	_	4	case	_	_
-7	aynı	aynı	ADJ	_	_	0	root	_	_
+1	merhaba	merhaba	NOUN	_	Case=Nom|Number=Sing|Person=3	7	discourse	_	_
+2	Milwaukee'den	milwaukee	PROPN	_	Case=Abl|Number=Sing	3	nmod	_	_
+3	Orlando'ya	orlando	PROPN	_	Case=Dat|Number=Sing	6	nmod	_	_
+4	tek	tek	ADJ	_	_	6	amod	_	_
+5	yön	yön	NOUN	_	Case=Nom|Number=Sing|Person=3	4	compound	_	_
+6	bilet	bilet	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
+7	alabilir	al	VERB	_	Aspect=Hab|Mood=GenPot|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	miyim	mi	AUX	_	PronType=Int	7	aux	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 aux	color:blue
+1	lga'dan	lga'dan	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
+2	New	new	PROPN	_	Case=Nom|Number=Sing	7	obl	_	_
+3	York	york	PROPN	_	Case=Nom|Number=Sing	2	flat	_	_
+4	City'e	city	PROPN	_	Case=Dat|Number=Sing	3	flat	_	_
+5	kara	kara	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
+6	ulaşımı	ulaşım	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nsubj	_	_
+7	var	var	ADJ	_	_	0	root	_	_
 8	mı	mi	AUX	_	PronType=Int	7	aux	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 aux	color:blue
-1	San	san	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
-2	Francisco’dan	francisco	PROPN	_	Case=Abl|Number=Sing	1	flat	_	_
-3	Baltimore'ye	baltimore	PROPN	_	Case=Dat|Number=Sing	7	obl	_	_
-4	747	747	NUM	_	NumType=Card	6	nmod	_	_
-5	ile	ile	ADP	_	_	4	case	_	_
-6	sefer	sefer	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-7	yapıyor	yap	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	musunuz	mi	AUX	_	PronType=Int	7	aux	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 aux	color:blue
-1	Denver	denver	PROPN	_	Case=Nom|Number=Sing	5	obl	_	_
-2	havalimanında	havaliman	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	flat	_	_
-3	kara	kara	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
-4	ulaşımı	ulaşım	NOUN	_	Case=Acc|Number=Sing|Person=3	5	nsubj	_	_
-5	mevcut	mevcut	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	mu	mi	AUX	_	PronType=Int	5	aux	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 aux	color:blue
+1	Denver'den	denver	PROPN	_	Case=Abl|Number=Sing	2	nmod	_	_
+2	Philadelphia'ya	philadelphia	PROPN	_	Case=Dat|Number=Sing	7	obl	_	_
+3	değil	değil	AUX	_	_	2	aux	_	_
+4	Denver'den	denver	PROPN	_	Case=Abl|Number=Sing	5	nmod	_	_
+5	San	san	PROPN	_	Case=Nom|Number=Sing	7	nmod	_	_
+6	Francisco'ya	francisco	PROPN	_	Case=Dat|Number=Sing	5	flat	_	_
+7	olan	ol	ADJ	_	_	8	acl	_	_
+8	uçuşları	uç	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
+9	listeleyin	listele	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 
 ~~~
 

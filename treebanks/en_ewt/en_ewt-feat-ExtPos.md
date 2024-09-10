@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-249 tokens (0%) have a non-empty value of `ExtPos`.
-15 types (0%) occur at least once with a non-empty value of `ExtPos`.
-11 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (92; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (53; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (46; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
+250 tokens (0%) have a non-empty value of `ExtPos`.
+16 types (0%) occur at least once with a non-empty value of `ExtPos`.
+12 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 6 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (92; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (53; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (46; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
 
 ### `ADJ`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 46 <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (46; 100%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46; 100%), <tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (46; 100%), <tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (46; 100%), <tt><a href="en_ewt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (46; 100%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
@@ -61,13 +61,14 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `DET`
 
-17 <tt><a href="en_ewt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
+18 <tt><a href="en_ewt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (17; 100%).
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="en_ewt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Rcp</tt> (17; 94%).
 
 `DET` tokens may have the following values of `ExtPos`:
 
-* `PRON` (17; 100% of non-empty `ExtPos`): <em>each</em>
+* `ADV` (1; 6% of non-empty `ExtPos`): <em>all</em>
+* `PRON` (17; 94% of non-empty `ExtPos`): <em>each</em>
 
 ### `NOUN`
 

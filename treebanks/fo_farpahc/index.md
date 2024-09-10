@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Anton Karl Ingason, Eiríkur Rögnvaldsson, Joel C. Wallenberg.
 
 Repository: [UD_Faroese-FarPaHC](https://github.com/UniversalDependencies/UD_Faroese-FarPaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_farpahc214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,13 +44,13 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Icelandic-FarPaHC is a conversion of the [Faroese Parsed Historical Corpus (FarPaHC)](https://github.com/einarfs/farpahc) to the Universal Dependencies scheme.
+UD_Faroese-FarPaHC is a conversion of the [Faroese Parsed Historical Corpus (FarPaHC)](https://github.com/einarfs/farpahc) to the Universal Dependencies scheme.
 
 The conversion was done using [UDConverter](https://github.com/thorunna/UDConverter).
 
 
 
-The Faroese Parsed Historical Corpus (FarPaHC) is a 53,000 word corpus which includes three texts from the 19th and 20th centuries. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme. Two of these parsed texts where then automatically converted to the Universal Dependencies scheme to create UD_Faroese-FarPaHC.
+The Faroese Parsed Historical Corpus (FarPaHC) is a 53,000 word corpus which includes three texts from the 19th and 20th centuries. These texts were originally manually parsed according to the Penn Parsed Corpora of Historical English (PPCHE) annotation scheme. Two of these parsed texts have been automatically converted to the Universal Dependencies scheme to create the 40,000 word UD_Faroese-FarPaHC.
 
 ## Contents
 
@@ -131,12 +131,32 @@ The UD morphological features in the corpus were converted from the FarPaHC PoS 
 
 ## Acknowledgments
 
-This project is funded by The Icelandic Student Innovation Fund, grant no. 206457-0091. Thanks are due to Örvar Kárason, whose previous work was used as a basis for the conversion.
+This project was funded by The Icelandic Student Innovation Fund, grant no. 206457-0091. Thanks are due to Örvar Kárason, whose previous work was used as a basis for the conversion.
+
+The Faroese Parsed Historical Corpus (FarPaHC) is available at https://repository.clarin.is/repository/xmlui/handle/20.500.12537/92.
 
 ## References
 
-* (citation)
-
+```
+@inproceedings{arnardottir-etal-2020-universal,
+title = "A {U}niversal {D}ependencies Conversion Pipeline for a {P}enn-format Constituency Treebank",
+author = "Arnard{\'o}ttir, {\TH}{\'o}runn and
+Hafsteinsson, Hinrik and
+Sigur{\dh}sson, Einar Freyr and
+Bjarnad{\'o}ttir, Krist{\'\i}n and
+Ingason, Anton Karl and
+J{\'o}nsd{\'o}ttir, Hildur and
+Steingr{\'\i}msson, Stein{\th}{\'o}r",
+booktitle = "Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)",
+month = dec,
+year = "2020",
+address = "Barcelona, Spain (Online)",
+publisher = "Association for Computational Linguistics",
+url = "https://www.aclweb.org/anthology/2020.udw-1.3",
+pages = "16--25",
+abstract = "The topic of this paper is a rule-based pipeline for converting constituency treebanks based on the Penn Treebank format to Universal Dependencies (UD). We describe an Icelandic constituency treebank, its annotation scheme and the UD scheme. The conversion is discussed, the methods used to deliver a fully automated UD corpus and complications involved. To show its applicability to corpora in different languages, we extend the pipeline and convert a Faroese constituency treebank to a UD corpus. The result is an open-source conversion tool, published under an Apache 2.0 license, applicable to a Penn-style treebank for conversion to a UD corpus, along with the two new UD corpora.",
+}
+```
 
 
 # Statistics of UD Faroese FarPaHC
@@ -342,11 +362,20 @@ This project is funded by The Icelandic Student Innovation Fund, grant no. 20645
 </ul>
 
 <ul>
+  <li>Def
+    <ul>
+      <li>NOUN: faðirin, fólkið, dagin, heiminum, orðið, heimin, heimurin, lærusveinarnir, halgidóminum, ljósið</li>
+      <li>PROPN: Harrans, Jödarnir, Harrin, Jödunum, Jödanna, Fariseararnir, Jödarnar, hvíludagin, Harranum, himmalin</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Ind
     <ul>
       <li>ADV: frímóðiga</li>
-      <li>NOUN: faðirin, orð, móti, faðir, menn, navni, stað, anda, lív, maður</li>
-      <li>PROPN: Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, Harrans, harri, Jödarnir, Símun</li>
+      <li>NOUN: orð, móti, faðir, menn, navni, stað, anda, lív, maður, lærusveinar</li>
+      <li>PROPN: Jesus, Guð, Pætur, Guðs, Jerúsalem, Guði, harri, Símun, Paulus, Jóhannes</li>
     </ul>
   </li>
 </ul>
@@ -417,8 +446,8 @@ This project is funded by The Icelandic Student Innovation Fund, grant no. 20645
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: skuldi, skuldu, veri, mundi, hevði, mundu, verði</li>
-      <li>VERB: kenni, komi, legði, bjóði, drekki, fari, fylgi, föri, kasti, lati</li>
+      <li>AUX: veri, verði</li>
+      <li>VERB: komi, drekki, fylgi, föri, kasti, lati, ræðist, verði, óttist</li>
     </ul>
   </li>
 </ul>

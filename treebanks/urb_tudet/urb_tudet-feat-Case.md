@@ -29,14 +29,14 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-14 <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `Case`.
+14 <tt><a href="urb_tudet-pos-PRON.html">PRON</a></tt> tokens (23% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="urb_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 86%), <tt><a href="urb_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 79%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Aff` (14; 100% of non-empty `Case`): <em>ihẽke, neke, ndeke, a’etake, nekeã, take</em>
-* `EMPTY` (49): <em>ihẽ, aʔe, ihē, ne, aʔeke, a’eta, ipe, neke, ngā, Peteĩ</em>
+* `EMPTY` (48): <em>ihẽ, aʔe, ihē, ne, aʔeke, a’eta, ipe, neke, ngā, jane</em>
 
 ### `PROPN`
 

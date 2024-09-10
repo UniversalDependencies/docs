@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:pass	color:blue
 1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj:pass	_	_
-2	s'	le	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	obj	_	SpaceAfter=No
+2	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	obj	_	SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	vues	voir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
@@ -66,7 +66,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 26	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	27	det	_	SpaceAfter=No
 27	été	été	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 28	pour	pour	ADP	_	_	29	case	_	_
-29	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	27	obl:mod	_	SpaceAfter=No
+29	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	27	obl:mod	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	27	punct	_	_
 
 ~~~

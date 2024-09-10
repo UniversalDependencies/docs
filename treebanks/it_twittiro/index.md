@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Alessandra T. Cignarella, Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-TWITTIRO](https://github.com/UniversalDependencies/UD_Italian-TWITTIRO)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_twittiro211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_twittiro214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -81,11 +81,11 @@ The overlapping content however has been distributed such that it ends up in the
 
 
 <ul>
-<li>This corpus contains 1424 sentences, 28387 tokens and 29605 syntactic words.</li>
+<li>This corpus contains 1424 sentences, 28384 tokens and 29602 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4474 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 4471 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -93,7 +93,7 @@ The overlapping content however has been distributed such that it ends up in the
 </ul>
 
 <ul>
-<li>This corpus contains 675 types of words that contain both letters and punctuation. Examples: @user, #labuonascuola, l', #monti, @user1, @user2, c', #renzi, e', #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo, #governo, http://t.co/oDPUtxkMK3, l’, un', #midaperruolo, d', po', #tfaordinario, https://t.co/oDPUtx2DvV, #manovra, @user4, cit., http://t.co/oDPUtxTqU7, #labuonascuolauncazzo, #m5s, #mario, #passodopopasso, #Quota96Scuola, #giannini, #jobsact, #rimontiamo, #berlusconi, #fullmonti, #ministri, #sapevatelo, #riformascuola, @user5, cos', http://t.co/8REeGqIhCK, quest', #elezioni, #fatepresto, #lascuolaingiusta, #liberalizzazioni, #oramonti, #pd, #postofisso</li>
+<li>This corpus contains 677 types of words that contain both letters and punctuation. Examples: @user, #labuonascuola, l', #monti, @user1, @user2, c', #renzi, e', #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo, #governo, http://t.co/oDPUtxkMK3, l’, un', #midaperruolo, d', po', #tfaordinario, https://t.co/oDPUtx2DvV, #manovra, @user4, cit., http://t.co/oDPUtxTqU7, #labuonascuolauncazzo, #m5s, #mario, #passodopopasso, #Quota96Scuola, #giannini, #jobsact, #rimontiamo, #berlusconi, #fullmonti, #ministri, #sapevatelo, #riformascuola, @user5, cos', http://t.co/8REeGqIhCK, quest', #elezioni, #fatepresto, #lascuolaingiusta, #liberalizzazioni, #oramonti, #pd, #postofisso</li>
 </ul>
 
 <ul>

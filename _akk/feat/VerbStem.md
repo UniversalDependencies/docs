@@ -75,4 +75,4 @@ The Št stem.
 
 #### Examples
 * _<b>šarrāni uštanapšaqū</b>_ "Kings are in constant distress."
-<!-- Interlanguage links updated Po lis 14 15:35:01 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

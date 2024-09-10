@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  在 (<tt><a href="zh_cfl-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.001198).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.009709).
 
 The 1st highest number of forms (1) was observed with the lemma “上”: 上.
 
@@ -68,13 +68,13 @@ The 3rd highest number of forms (1) was observed with the lemma “下”: 下.
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="zh_cfl-dep-case.html">case</a></tt> (203; 62% instances), <tt><a href="zh_cfl-dep-case-loc.html">case:loc</a></tt> (87; 26% instances), <tt><a href="zh_cfl-dep-mark.html">mark</a></tt> (38; 12% instances), <tt><a href="zh_cfl-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="zh_cfl-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="zh_cfl-dep-case.html">case</a></tt> (202; 61% instances), <tt><a href="zh_cfl-dep-case-loc.html">case:loc</a></tt> (87; 26% instances), <tt><a href="zh_cfl-dep-mark.html">mark</a></tt> (38; 12% instances), <tt><a href="zh_cfl-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="zh_cfl-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances), <tt><a href="zh_cfl-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (181; 55% instances), <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (63; 19% instances), <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (60; 18% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (23; 7% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_cfl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_cfl-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (182; 55% instances), <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (63; 19% instances), <tt><a href="zh_cfl-pos-VERB.html">VERB</a></tt> (60; 18% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (23; 7% instances), <tt><a href="zh_cfl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_cfl-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-326 (99%) `ADP` nodes are leaves.
+328 (99%) `ADP` nodes are leaves.
 
-2 (1%) `ADP` nodes have one child.
+0 (0%) `ADP` nodes have one child.
 
 1 (0%) `ADP` nodes have two children.
 
@@ -82,7 +82,7 @@ Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="zh_cf
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 6 different relations: <tt><a href="zh_cfl-dep-obj.html">obj</a></tt> (3; 38% instances), <tt><a href="zh_cfl-dep-aux.html">aux</a></tt> (1; 13% instances), <tt><a href="zh_cfl-dep-case-loc.html">case:loc</a></tt> (1; 13% instances), <tt><a href="zh_cfl-dep-mark-rel.html">mark:rel</a></tt> (1; 13% instances), <tt><a href="zh_cfl-dep-nsubj.html">nsubj</a></tt> (1; 13% instances), <tt><a href="zh_cfl-dep-punct.html">punct</a></tt> (1; 13% instances)
+Children of `ADP` nodes are attached using 5 different relations: <tt><a href="zh_cfl-dep-obj.html">obj</a></tt> (2; 33% instances), <tt><a href="zh_cfl-dep-case-loc.html">case:loc</a></tt> (1; 17% instances), <tt><a href="zh_cfl-dep-mark-rel.html">mark:rel</a></tt> (1; 17% instances), <tt><a href="zh_cfl-dep-nsubj.html">nsubj</a></tt> (1; 17% instances), <tt><a href="zh_cfl-dep-punct.html">punct</a></tt> (1; 17% instances)
 
-Children of `ADP` nodes belong to 7 different parts of speech: <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (2; 25% instances), <tt><a href="zh_cfl-pos-ADP.html">ADP</a></tt> (1; 13% instances), <tt><a href="zh_cfl-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="zh_cfl-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (1; 13% instances), <tt><a href="zh_cfl-pos-PUNCT.html">PUNCT</a></tt> (1; 13% instances)
+Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="zh_cfl-pos-ADP.html">ADP</a></tt> (1; 17% instances), <tt><a href="zh_cfl-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="zh_cfl-pos-PART.html">PART</a></tt> (1; 17% instances), <tt><a href="zh_cfl-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="zh_cfl-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="zh_cfl-pos-PUNCT.html">PUNCT</a></tt> (1; 17% instances)
 

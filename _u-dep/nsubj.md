@@ -67,4 +67,4 @@ acl:relcl(viewpoints, existed)
 nsubj(existed, that)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:33 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:26 CEST -->

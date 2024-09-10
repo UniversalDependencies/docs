@@ -29,20 +29,20 @@ The feature is used with 8 part-of-speech tags: <tt><a href="fo_farpahc-pos-PRON
 
 4132 <tt><a href="fo_farpahc-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4132; 100%), <tt><a href="fo_farpahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3074; 74%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="fo_farpahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3075; 74%), <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2670; 65%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (1646; 40% of non-empty `Case`): <em>orð, lív, dagin, faðirin, tekin, fólkið, heimin, boð, mann, dagar</em>
-* `Dat` (1195; 29% of non-empty `Case`): <em>móti, navni, stað, anda, heiminum, halgidóminum, himni, lærusveinum, bygdini, trúgv</em>
-* `Gen` (182; 4% of non-empty `Case`): <em>faðirs, manna, orða, lívsins, navns, faðirsins, heimsins, jarðar, himmals, hövdinga</em>
-* `Nom` (1109; 27% of non-empty `Case`): <em>faðirin, maður, menn, faðir, lærusveinar, heimurin, sonur, lærusveinarnir, bröður, andi</em>
+* `Acc` (1647; 40% of non-empty `Case`): <em>orð, lív, dagin, faðirin, tekin, fólkið, heimin, boð, mann, dagar</em>
+* `Dat` (1194; 29% of non-empty `Case`): <em>móti, navni, stað, anda, heiminum, halgidóminum, himni, lærusveinum, bygdini, trúgv</em>
+* `Gen` (183; 4% of non-empty `Case`): <em>faðirs, manna, orða, lívsins, navns, faðirsins, heimsins, jarðar, himmals, hövdinga</em>
+* `Nom` (1108; 27% of non-empty `Case`): <em>faðirin, maður, menn, faðir, lærusveinar, heimurin, sonur, lærusveinarnir, bröður, andi</em>
 
 ### `PROPN`
 
 1830 <tt><a href="fo_farpahc-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1830; 100%), <tt><a href="fo_farpahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1677; 92%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="fo_farpahc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1677; 92%), <tt><a href="fo_farpahc-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1633; 89%).
 
 `PROPN` tokens may have the following values of `Case`:
 

@@ -47,12 +47,12 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 5	”	”	PUNCT	interp	PunctSide=Fin|PunctType=Quot	3	punct	3:punct	_
 6	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	8	case	8:case	Case=Gen
 7	1981	1981	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	8	amod:flat	8:amod:flat	_
-8	r	rok	X	brev:pun	Abbr=Yes|Pun=Yes	1	nmod	1:nmod	SpaceAfter=No
+8	r	rok	NOUN	brev:pun	Abbr=Yes	1	nmod	1:nmod	SpaceAfter=No
 9	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
 10	był	być	AUX	praet:sg:m3:imperf	Animacy=Inan|Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
 11	jednym	jeden	ADJ	adj:sg:inst:m3:pos	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	_
 12	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	16	case	16:case	Case=Gen
-13	jej	on	PRON	ppron3:sg:gen:f:ter:akc:npraep	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	16	obl	16:obl	_
+13	jej	on	PRON	ppron3:sg:gen:f:ter:akc:npraep	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	16	nmod:poss	16:nmod:poss	_
 14	najlepiej	dobrze	ADV	adv:sup	Degree=Sup	16	advmod	16:advmod	_
 15	się	się	PRON	part	PronType=Prs|Reflex=Yes	16	expl:pv	16:expl:pv	_
 16	sprzedających	sprzedawać	ADJ	pact:pl:gen:m3:imperf:aff	Animacy=Inan|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	11	acl	11:acl	SpaceAfter=No

@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 1 3 obl	color:blue
 1	merci	merci	INTJ	_	_	0	root	_	Overlap=Rhap_D2011-99
 2	à	à	ADP	_	_	3	case	_	Overlap=Rhap_D2011-99
-3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	1	obl	_	Overlap=Rhap_D2011-99|SpaceAfter=No
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	1	obl	_	Overlap=Rhap_D2011-99|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Overlap=Rhap_D2011-99
 
 ~~~

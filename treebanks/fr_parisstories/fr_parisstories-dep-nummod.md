@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	premières	premier	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 7	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 11	à	à	ADP	_	_	12	mark	_	_
 12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
 22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
-23	mes	son	DET	_	Number[psor]=Plur|Person[psor]=1|PronType=Prs	24	det	_	_
+23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	_
 24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	_
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
 26	.	.	PUNCT	_	_	10	punct	_	_
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	s~	s~	X	_	_	7	reparandum	_	AlignBegin=58590|AlignEnd=58963|SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=58963|AlignEnd=58963
 4	euh	euh	INTJ	_	_	2	discourse	_	AlignBegin=58963|AlignEnd=59337|SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	AlignBegin=59337|AlignEnd=59337
+5	,	,	PUNCT	_	_	2	punct	_	AlignBegin=59337|AlignEnd=59337
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=59337|AlignEnd=59710
 7	génération	génération	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=59710|AlignEnd=60083|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=60083|AlignEnd=60083

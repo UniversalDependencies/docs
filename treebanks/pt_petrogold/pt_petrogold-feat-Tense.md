@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (1116; 15% of non-empty `Tense`): <em>ocorreu, apresentou, houve, teve, observou, apresentaram, mostrou, utilizou, analisou, obteve</em>
 * `Pqp` (2; 0% of non-empty `Tense`): <em>intemperara, observara</em>
 * `Pres` (5927; 81% of non-empty `Tense`): <em>pode, podem, apresenta, tem, apresentam, deve, mostra, ocorre, possui, seja</em>
-* `EMPTY` (13051): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
+* `EMPTY` (13052): <em>partir, devido, utilizando, utilizado, utilizados, obtidos, apresentados, utilizada, observado, produzida</em>
 
 <table>
   <tr><th>Paradigm <i>poder</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (383; 51%),
+<tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> VERB</tt> (382; 51%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="pt_petrogold-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%).
 

@@ -23,8 +23,8 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 2 compound	color:blue
 1	Před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	4	case	4:case	_
-2	čtyřmi	čtyři	NUM	ClNP7----------	Case=Ins|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	3	compound	3:compound	_
-3	sty	sto	NUM	ClNP7----------	Case=Ins|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	4	nummod	4:nummod	_
+2	čtyřmi	čtyři	NUM	ClNP7----------	Case=Ins|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	3	compound	3:compound	_
+3	sty	sto	NUM	ClNP7----------	Case=Ins|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	4	nummod	4:nummod	_
 4	lety	rok	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	5	obl	5:obl:před:ins	_
 5	zdomácněl	zdomácnět	VERB	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
 6	i	i	PART	TT-------------	_	8	advmod:emph	8:advmod:emph	_

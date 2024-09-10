@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-ParisStories: Relations: `expl:subj`
 
-This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-expl.html">expl</a></tt>.
-There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_parisstories-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>.
+This relation is a language-specific subtype of .
+There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_parisstories-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_parisstories-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>.
 
 311 nodes (1%) are attached to their parents as `expl:subj`.
 
@@ -23,8 +23,8 @@ The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl:subj	color:blue
-1	il	_	PRON	_	_	3	expl:subj	_	_
-2	y	y	PRON	_	Person=3|PronType=Prs	3	expl	_	_
+1	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
+2	y	y	PRON	_	Person=3|PronType=Prs	3	expl:comp	_	_
 3	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	beaucoup	beaucoup	ADV	_	_	3	obj	_	_
 5	de	de	ADP	_	_	6	case	_	_
@@ -68,20 +68,20 @@ The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 10	fgColor:white
 # visual-style 10 12 expl:subj	color:blue
 1	et	et	CCONJ	_	_	4	cc	_	_
-2	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-3	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
 4	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	10	punct	_	_
 6	oh	oh	INTJ	_	_	8	discourse	_	_
-7	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	8	det	_	_
-8	dieu	dieu	NOUN	_	Gender=Masc|Number=Sing	10	discourse	_	ExtPos=INTJ
+7	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	8	det	_	_
+8	dieu	dieu	NOUN	_	ExtPos=INTJ|Gender=Masc|Number=Sing	10	discourse	_	_
 9	mais	mais	CCONJ	_	_	10	cc	_	_
-10	qu'	que	PRON	_	Person=3|PronType=Int	4	ccomp	_	SpaceAfter=No
+10	qu'	que	PRON	_	PronType=Int	4	ccomp	_	SpaceAfter=No
 11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Reported=Yes|SpaceAfter=No
 12	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	expl:subj	_	_
 13	qu'	que	SCONJ	_	_	17	mark	_	SpaceAfter=No
-14	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
-15	s'	se	PRON	_	Person=3|PronType=Prs	17	expl	_	SpaceAfter=No
+14	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_
+15	s'	soi	PRON	_	Person=3|PronType=Prs	17	expl:comp	_	SpaceAfter=No
 16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:tense	_	_
 17	passé	passer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl:cleft	_	_
 18	?	?	PUNCT	_	_	4	punct	_	_

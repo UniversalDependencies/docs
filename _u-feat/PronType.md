@@ -167,4 +167,4 @@ universal features but may be added in language-specific extensions.
   anywhere, kdykoli / any time, jakkoli / anyhow_
 * [cs/en] _málokdo / few people, leckdo / quite a few people, kdosi /
   somebody…_
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:18 CEST -->

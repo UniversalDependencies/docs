@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="la_udante-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-241 nodes (0%) are attached to their parents as `advmod:tmod`.
+319 nodes (1%) are attached to their parents as `advmod:tmod`.
 
-195 instances of `advmod:tmod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.03734439834025.
+275 instances of `advmod:tmod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.12852664576803.
 
-The following 7 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (200; 83% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (17; 7% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (14; 6% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (266; 83% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (23; 7% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (18; 6% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,6 +39,31 @@ The following 7 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 advmod:tmod	color:blue
+1	Forte	forte	ADV	r	_	10	advmod	_	_
+2	recensentes	recenseo	VERB	va2pppmn	Aspect=Imp|Case=Nom|Gender=Masc|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	10	advcl:pred	_	TraditionalMood=Participium|TraditionalTense=Praesens
+3	pastas	pasco	VERB	vp3prpfa	Aspect=Perf|Case=Acc|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Plur|VerbForm=Part|Voice=Pass	6	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
+4	de	de	ADP	e	_	5	case	_	_
+5	more	mos	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	2	obl	_	_
+6	capellas	capella	NOUN	sfp1a	Case=Acc|Degree=Dim|Gender=Fem|InflClass=IndEurA|Number=Plur	2	obj	_	_
+7	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	10	advmod:tmod	_	_
+8	ego	ego	PRON	ppp1sn	Case=Nom|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+9	sub	sub	ADP	e	_	10	case	_	_
+10	quercu	quercus	NOUN	sfs4b	Case=Abl|Gender=Fem|InflClass=IndEurU|Number=Sing	0	root	_	_
+11	meus	meus	DET	dsmsn	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	13	det	_	_
+12	et	et	CCONJ	co	_	13	cc	_	_
+13	Melibeus	meliboeus	PROPN	Sms2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	8	conj	_	_
+14	eramus	sum	AUX	va5iip1	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
+15	.	.	PUNCT	Pu	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
@@ -51,30 +76,6 @@ The following 7 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 5	prona	pronus	ADJ	afs1v	Case=Voc|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	_	_
 6	peccatis	peccatum	NOUN	snp2d	Case=Dat|Gender=Neut|InflClass=IndEurO|Number=Plur|VerbForm=Part	5	obl:arg	_	SpaceAfter=No
 7	!	!	PUNCT	Pu	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod:tmod	color:blue
-1	«	«	PUNCT	Pu	_	4	punct	_	SpaceAfter=No
-2	Ecce	ecce	PART	r	Form=Emp|PartType=Emp|PronType=Dem	4	advmod:emph	_	_
-3	nunc	nunc	ADV	r	AdvType=Tim	4	advmod:tmod	_	_
-4	tempus	tempus	NOUN	sns3n	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	0	root	_	_
-5	acceptabile	acceptabilis	ADJ	ans2n	Case=Nom|Gender=Neut|InflClass=IndEurI|Number=Sing	4	amod	_	SpaceAfter=No
-6	»	»	PUNCT	Pu	_	4	punct	_	SpaceAfter=No
-7	,	,	PUNCT	Pu	_	10	punct	_	_
-8	quo	qui	PRON	presnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	10	obl	_	_
-9	signa	signum	NOUN	snp2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Plur	10	nsubj	_	_
-10	surgunt	surgo	VERB	va3ipp3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-11	consolationis	consolatio	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	10	nmod	_	_
-12	et	et	CCONJ	co	_	13	cc	_	_
-13	pacis	pax	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	11	conj	_	SpaceAfter=No
-14	.	.	PUNCT	Pu	_	4	punct	_	_
 
 ~~~
 

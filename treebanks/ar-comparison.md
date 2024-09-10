@@ -215,7 +215,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): _, b, f, h, hA, s, w</li>
+      <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): _, s</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -232,7 +232,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, b, f, h, hA, s, w</li>
+      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: _, s</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2138,7 +2138,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: s، _، w، b، f، hA.</li>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: s، _.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2164,9 +2164,9 @@ udver: '2'
             <li>VERB--NOUN (527)</li>
             <li>VERB--NOUN-Acc (1220)</li>
             <li>VERB--NOUN-Gen (218)</li>
-            <li>VERB--NOUN-Nom (16721)</li>
+            <li>VERB--NOUN-Nom (16707)</li>
             <li>VERB--NOUN-Nom-ADP(_) (3)</li>
-            <li>VERB--PRON (321)</li>
+            <li>VERB--PRON (317)</li>
             <li>VERB--PRON-Acc (36)</li>
             <li>VERB--PRON-Gen (17)</li>
             <li>VERB--PRON-Nom (492)</li>
@@ -2301,13 +2301,13 @@ udver: '2'
             <li>VERB--NOUN-Acc-ADP(b)-ADP(_) (1)</li>
             <li>VERB--NOUN-Acc-ADP(l) (52)</li>
             <li>VERB--NOUN-Acc-ADP(w) (4)</li>
-            <li>VERB--NOUN-Gen (618)</li>
+            <li>VERB--NOUN-Gen (617)</li>
             <li>VERB--NOUN-Gen-ADP(_) (10881)</li>
             <li>VERB--NOUN-Gen-ADP(_)-ADP(_) (14)</li>
             <li>VERB--NOUN-Gen-ADP(_)-ADP(b) (2)</li>
             <li>VERB--NOUN-Gen-ADP(_)-ADP(k) (1)</li>
             <li>VERB--NOUN-Gen-ADP(_)-ADP(l) (1)</li>
-            <li>VERB--NOUN-Gen-ADP(b) (3301)</li>
+            <li>VERB--NOUN-Gen-ADP(b) (3302)</li>
             <li>VERB--NOUN-Gen-ADP(b)-ADP(_) (2)</li>
             <li>VERB--NOUN-Gen-ADP(b)-ADP(l) (2)</li>
             <li>VERB--NOUN-Gen-ADP(k) (51)</li>
@@ -2316,13 +2316,13 @@ udver: '2'
             <li>VERB--NOUN-Gen-ADP(w) (3)</li>
             <li>VERB--NOUN-Gen-ADP(w)-ADP(_) (1)</li>
             <li>VERB--NOUN-Gen-ADP(y) (1)</li>
-            <li>VERB--NOUN-Nom (639)</li>
+            <li>VERB--NOUN-Nom (640)</li>
             <li>VERB--NOUN-Nom-ADP(_) (27)</li>
             <li>VERB--NOUN-Nom-ADP(b) (1)</li>
             <li>VERB--NOUN-Nom-ADP(l) (4)</li>
             <li>VERB--NOUN-Nom-ADP(w) (1)</li>
-            <li>VERB--PRON (995)</li>
-            <li>VERB--PRON-ADP(_) (3113)</li>
+            <li>VERB--PRON (997)</li>
+            <li>VERB--PRON-ADP(_) (3092)</li>
             <li>VERB--PRON-ADP(_)-ADP(_) (2)</li>
             <li>VERB--PRON-ADP(b) (113)</li>
             <li>VERB--PRON-ADP(fy) (5)</li>
@@ -2345,24 +2345,25 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Acc (2044)</li>
+            <li>VERB--NOUN-Acc (2140)</li>
             <li>VERB--NOUN-Acc-ADP(إِزَاءَ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(بِ) (1)</li>
             <li>VERB--NOUN-Acc-ADP(عَلَى) (1)</li>
             <li>VERB--NOUN-Acc-ADP(فِي) (3)</li>
+            <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
             <li>VERB--NOUN-Acc-ADP(مِن) (2)</li>
             <li>VERB--NOUN-Acc-ADP(وَ) (2)</li>
-            <li>VERB--NOUN-Nom (121)</li>
-            <li>VERB--PRON-Acc (661)</li>
+            <li>VERB--NOUN-Nom (131)</li>
+            <li>VERB--PRON-Acc (677)</li>
             <li>VERB--PRON-Nom (2)</li>
-            <li>VERB-Fin--NOUN-Acc (2706)</li>
+            <li>VERB-Fin--NOUN-Acc (2752)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(إِلَى) (3)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(بِ) (3)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(عَن) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(لَا) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(لِ) (2)</li>
             <li>VERB-Fin--NOUN-Nom (85)</li>
-            <li>VERB-Fin--PRON-Acc (662)</li>
+            <li>VERB-Fin--PRON-Acc (677)</li>
           </ul>
         </li>
       </ul>
@@ -2441,13 +2442,12 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN-Acc (122)</li>
-            <li>VERB--NOUN-Acc-ADP(لَا) (1)</li>
-            <li>VERB--NOUN-Nom (21)</li>
-            <li>VERB--PRON-Acc (31)</li>
-            <li>VERB-Fin--NOUN-Acc (57)</li>
+            <li>VERB--NOUN-Acc (26)</li>
+            <li>VERB--NOUN-Nom (11)</li>
+            <li>VERB--PRON-Acc (15)</li>
+            <li>VERB-Fin--NOUN-Acc (11)</li>
             <li>VERB-Fin--NOUN-Nom (2)</li>
-            <li>VERB-Fin--PRON-Acc (25)</li>
+            <li>VERB-Fin--PRON-Acc (10)</li>
           </ul>
         </li>
       </ul>
@@ -2502,7 +2502,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 1 relation subtypes: <a>nmod:poss</a></li>
-      <li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>The following 12 relation types are not used in this corpus at all: <a>csubj</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">

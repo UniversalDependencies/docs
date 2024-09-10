@@ -71,7 +71,7 @@ The following 20 pairs of parts of speech are connected with `mark`: <tt><a href
 4	,	,	PUNCT	Z	_	9	punct	9:punct	_
 5	či	či	CCONJ	O	_	9	mark	9:mark	_
 6	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
-7	rysy	rys	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj|10:nsubj	_
+7	rysy	rys	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj|10:nsubj:xsubj	_
 8	Mesiaca	mesiac	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod:gen	_
 9	môžu	môcť	VERB	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	csubj	3:csubj	_
 10	meniť	meniť	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	SpaceAfter=No

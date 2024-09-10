@@ -13,7 +13,7 @@ The 10 most frequent `PART` lemmas: 는, 의, 고, 에, 도, 라고, 가, 와, �
 
 The 10 most frequent `PART` types:  는, 의, 고, 에, 도, 라고, 가, 와, 에서, 이
 
-The 10 most frequent ambiguous lemmas: 도 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 이 (<tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16), 과 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 10, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 만 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 열기 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 도 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 이 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 436, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16), 과 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 10, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 만 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 열기 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  고 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 38, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1), 도 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 26, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 7), 와 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 19, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1), 이 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 52, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1), 만 (<tt><a href="ko_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 1), 보다 (<tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 2), 있음을 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 1), 들 (<tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1), 뿐 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 1)
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  고 (<tt><a href="ko_pud-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.032967 (the average of all parts of speech is 3.187571).
+The form / lemma ratio of `PART` is 1.032967 (the average of all parts of speech is 3.181543).
 
 The 1st highest number of forms (2) was observed with the lemma “되기”: 되기를, 되기에.
 

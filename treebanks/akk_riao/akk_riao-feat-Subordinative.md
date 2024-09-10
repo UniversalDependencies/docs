@@ -37,6 +37,6 @@ The most frequent other feature values with which `VERB` and `Subordinative` co-
 ## Relations with Agreement in `Subordinative`
 
 The 10 most frequent relations where parent and child node agree in `Subordinative`:
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (75; 72%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (74; 72%),
 <tt>VERB --[<tt><a href="akk_riao-dep-dep.html">dep</a></tt>]--> PART</tt> (21; 91%).
 

@@ -16,4 +16,4 @@ advcl:tcl(coborât, urcat)
 
 “I haven't descended since I went up.”
 
-<!-- Interlanguage links updated Po lis 14 15:35:05 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:36 CEST -->

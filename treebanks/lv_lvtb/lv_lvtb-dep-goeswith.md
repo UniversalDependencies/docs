@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	Tā	tāpat	ADV	r0m	Typo=Yes	4	advmod	4:advmod	CorrectForm=Tāpat|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-d60-p5s4w1
+1	Tā	tāpat	ADV	r0n	Typo=Yes	4	advmod	4:advmod	CorrectForm=Tāpat|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-d60-p5s4w1
 2	pat	_	X	_	_	1	goeswith	1:goeswith	LvtbNodeId=a-d60-p5s4w1
 3	vien	vien	PART	q	_	1	discourse	1:discourse	LvtbNodeId=a-d60-p5s4w2
 4	pavērties	pavērties	VERB	vmyn0i1000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	0	root	0:root	LvtbNodeId=a-d60-p5s4w3|SpaceAfter=No
@@ -45,7 +45,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	ko	_	X	_	_	1	goeswith	1:goeswith	LvtbNodeId=a-p267-p2s7w1
 3	apdzīvojamā	apdzīvot	VERB	vmnpdfsnppypn	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	4:amod	LvtbNodeId=a-p267-p2s7w2
 4	teritorija	teritorija	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	7:nsubj	LvtbNodeId=a-p267-p2s7w3
-5	vairs	vairs	ADV	r0t	_	7	advmod	7:advmod	LvtbNodeId=a-p267-p2s7w4
+5	vairs	vairs	ADV	r0n	_	7	advmod	7:advmod	LvtbNodeId=a-p267-p2s7w4
 6	nebūs	būt	AUX	vcnifii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-p267-p2s7w5
 7	apbūvējama	apbūvēt	VERB	vmnpdfsnppnpn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	10	advcl	10:advcl	LvtbNodeId=a-p267-p2s7w6|SpaceAfter=No
 8	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-p267-p2s7w7
@@ -64,7 +64,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 17	fgColor:white
 # visual-style 17 18 goeswith	color:blue
 1	Un	un	CCONJ	cc	_	9	cc	9:cc	LvtbNodeId=a-c60-p8s1w1
-2	tagad	tagad	ADV	r0t	PronType=Dem	9	advmod	9:advmod	LvtbNodeId=a-c60-p8s1w2
+2	tagad	tagad	ADV	r0n	PronType=Dem	9	advmod	9:advmod	LvtbNodeId=a-c60-p8s1w2
 3	jebkurš	jebkurš	DET	pi0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	4:det	LvtbNodeId=a-c60-p8s1w3
 4	cilvēks	cilvēks	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	9:nsubj|10:nsubj|16:nsubj	LvtbNodeId=a-c60-p8s1w4
 5	-	-	PUNCT	zd	_	6	punct	6:punct	LvtbNodeId=a-c60-p8s1w5

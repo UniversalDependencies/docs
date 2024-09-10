@@ -7,46 +7,40 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: Features: `NumForm`
 
 This feature is language-specific.
-It occurs with 1 different values: `Digit`.
+It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-7725 tokens (1%) have a non-empty value of `NumForm`.
-1920 types (6%) occur at least once with a non-empty value of `NumForm`.
-1882 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (6067; 1% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (832; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (805; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (21; 0% instances).
+10198 tokens (2%) have a non-empty value of `NumForm`.
+1894 types (6%) occur at least once with a non-empty value of `NumForm`.
+1869 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (9962; 2% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (215; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (21; 0% instances).
 
 ### `NUM`
 
-6067 <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> tokens (66% of all `NUM` tokens) have a non-empty value of `NumForm`.
+9962 <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6067; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6067; 100%), <tt><a href="ca_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (6053; 100%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ca_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9946; 100%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8604; 86%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7307; 73%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (6067; 100% of non-empty `NumForm`): <em>10, 15, 30, 20, 5, 4, 12, 2, 2000, 25</em>
+* `Digit` (6666; 67% of non-empty `NumForm`): <em>10, 15, 30, 5, 20, 2, 12, 4, 50, 25</em>
+* `Roman` (130; 1% of non-empty `NumForm`): <em>XX, II, XIX, XXI, III, X, XVI, XIII, IV, VII</em>
+* `Word` (3166; 32% of non-empty `NumForm`): <em>dos, tres, dues, quatre, cent, un, cinc, una, sis, vuit</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1607) occur only with one value of `NumForm`.
+<table>
+  <tr><th>Paradigm <i>tres</i></th><th><tt>Digit</tt></th><th><tt>Word</tt></th></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>tres</em></td></tr>
+  <tr><td><tt></tt></td><td><em>tres</em></td><td><em>tres</em></td></tr>
+</table>
 
-### `NOUN`
-
-832 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `NumForm`.
-
-The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (832; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (832; 100%).
-
-`NOUN` tokens may have the following values of `NumForm`:
-
-* `Digit` (832; 100% of non-empty `NumForm`): <em>pessetes, euros, dòlars, PTA, pesseta, euro, dòlar, corones, marcs, pta.</em>
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1861) occur only with one value of `NumForm`.
 
 ### `SYM`
 
-805 <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> tokens (99% of all `SYM` tokens) have a non-empty value of `NumForm`.
-
-The most frequent other feature values with which `SYM` and `NumForm` co-occurred: <tt><a href="ca_ancora-feat-NumType.html">NumType</a></tt><tt>=Frac</tt> (580; 72%).
+215 <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> tokens (26% of all `SYM` tokens) have a non-empty value of `NumForm`.
 
 `SYM` tokens may have the following values of `NumForm`:
 
-* `Digit` (805; 100% of non-empty `NumForm`): <em>%, 50%, 10%, 30%, 40%, 5%, 25%, 1%, 20%, 2%</em>
-
-`NumForm` seems to be **lexical feature** of `SYM`. 100% lemmas (273) occur only with one value of `NumForm`.
+* `Digit` (215; 100% of non-empty `NumForm`): <em>%, -3%</em>
 
 ### `ADJ`
 
@@ -63,14 +57,10 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 ## Relations with Agreement in `NumForm`
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
-<tt>NUM --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (206; 100%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NUM</tt> (203; 98%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (33; 51%),
-<tt>SYM --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> SYM</tt> (24; 100%),
+<tt>NUM --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NUM</tt> (246; 98%),
+<tt>NUM --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> NUM</tt> (227; 94%),
+<tt>NUM --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (214; 100%),
 <tt>NUM --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NUM</tt> (22; 92%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (14; 82%),
-<tt>SYM --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> SYM</tt> (6; 86%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> SYM</tt> (4; 100%),
-<tt>NUM --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> SYM</tt> (3; 100%),
-<tt>SYM --[<tt><a href="ca_ancora-dep-obl.html">obl</a></tt>]--> SYM</tt> (3; 100%).
+<tt>NUM --[<tt><a href="ca_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (11; 79%),
+<tt>NUM --[<tt><a href="ca_ancora-dep-obj.html">obj</a></tt>]--> NUM</tt> (1; 100%).
 

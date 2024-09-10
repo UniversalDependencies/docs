@@ -33,4 +33,11 @@ udver: '2'
 * _Sto <b>sognando</b>_ "I am dreaming"
 * _<b>Arrivando</b> tardi si perde il treno_ "Arriving late you miss the train"
 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+### <a name="Conv">`Conv`</a>: converb (traditionally *gerundio*)
+
+#### Examples
+
+* _<b>tacendo</b> e <b>lagrimando</b>_ "being silent and weeping"
+
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

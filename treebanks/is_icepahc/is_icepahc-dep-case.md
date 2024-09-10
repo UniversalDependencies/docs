@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-90926 nodes (9%) are attached to their parents as `case`.
+88183 nodes (9%) are attached to their parents as `case`.
 
-88108 instances of `case` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40735323229879.
+85380 instances of `case` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39116382976311.
 
-The following 15 pairs of parts of speech are connected with `case`: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (53961; 59% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (15040; 17% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (8897; 10% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (5806; 6% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2885; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2225; 2% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1466; 2% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (176; 0% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (149; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (130; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (72; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (58; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (39; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 15 pairs of parts of speech are connected with `case`: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (53302; 60% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (14723; 17% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (8799; 10% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (4659; 5% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2737; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2087; 2% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (1369; 2% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (120; 0% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (112; 0% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (103; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (60; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (59; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (31; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 9	þykir	þykja	VERB	VBPI	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	IFD_tag=sfg3en
 10	skulda	skuld	NOUN	NS-G	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obl	_	IFD_tag=nven
 11	til	til	ADP	P	_	10	case	_	IFD_tag=ae
-12	bera	bera	VERB	VB	Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	9	acl	_	IFD_tag=nvfe|SpaceAfter=No
+12	bera	bera	VERB	VB	VerbForm=Inf|Voice=Act	9	acl	_	IFD_tag=sng|SpaceAfter=No
 13	.	.	PUNCT	.	_	12	punct	_	IFD_tag=.
 
 ~~~

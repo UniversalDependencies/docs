@@ -8,27 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (1%) are attached to their parents as `parataxis`.
+30 nodes (1%) are attached to their parents as `parataxis`.
 
-14 instances of `parataxis` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.47368421052632.
+26 instances of `parataxis` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.83333333333333.
 
-The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (13; 68% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 5% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (22; 73% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 parataxis	color:blue
-1	Кода	кода	ADV	_	_	2	advmod:mmod	_	_
-2	арьсят	арьсемс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg2|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	6	punct	_	_
-4	мзярда	мзярда	ADV	_	_	6	advmod:tmod	_	_
-5	тон	тон	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	GTtags=Pers,Sg2,Nom
-6	сават	савомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	2	parataxis	_	GTtags=IV,Ind,Prs,ScSg2|SpaceAfter=No
-7	?	?	PUNCT	CLB	_	2	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 9 parataxis	color:blue
+1	Няить	няемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg2,OcSg3|SpaceAfter=No
+2	,	,	PUNCT	CLB	_	5	punct	_	_
+3	тяса	тяса	ADV	Adv	_	5	advmod:lmod	_	_
+4	ёфcи	ёфcи	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
+5	од	од	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	1	conj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	5	punct	_	_
+7	мазы	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	8	amod	_	GTtags=Sg,Nom,Indef
+8	ава	ава	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Indef
+9	авардсь	авардемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	1	parataxis	_	GTtags=IV,Ind,Prt1,ScSg3
+10	сельмоведь	сельмоведь	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	9	obl	_	GTtags=Sg,Nom,Indef
+11	мархта	мархта	ADP	Adp	_	10	case	_	SpaceAfter=No
+12	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 
@@ -43,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 2	стирьхне	стирь	NOUN	N	Case=Nom|Definite=Def|Number=Plur	8	nsubj:cop	_	GTtags=Pl,Nom,Def|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	5	punct	_	_
 4	тонцьке	тонць	PRON	Pron	Case=Nom|Clitic=AddGA|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	5	nsubj	_	GTtags=Refl,Sg2,Nom,Clt/Add
-5	содасак	содамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres	8	parataxis	_	GTtags=Ind,Prs,ScSg2,OcSg3|SpaceAfter=No
+5	содасак	содамс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres|VerbForm=Fin	8	parataxis	_	GTtags=Ind,Prs,ScSg2,OcSg3|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	5	punct	_	_
 7	кодама	кодама	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	8	advmod:deg	_	GTtags=Interr,Sg,Nom,Indef
 8	мазыхть	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	0	root	_	GTtags=Pl,Nom,Indef
@@ -56,19 +61,34 @@ The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 parataxis	color:blue
-1	Шумбрат	шумбра	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Sing|Person[subj]=2|Tense=Pres	5	discourse	_	CGdephead=#1-&gt;0|CGdeprel=@PRED|GTtags=Sg,Nom,Indef,Clt/Cop,Prs,ScSg2|SpaceAfter=No
-2	,	,	PUNCT	CLB	_	1	punct	_	CGdephead=#2-&gt;1|CGdeprel=@CLB|GTtags=CLB
-3	атяй	атя	NOUN	N	_	5	vocative	_	CGdephead=#3-&gt;3|CGdeprel=@ADDR|GTtags=Voc|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	3	punct	_	CGdephead=#4-&gt;3|CGdeprel=@CLB|GTtags=CLB
-5	ськамот	ськамонза	PRON	Pron	Number[psor]=Sing|Person[psor]=2	0	root	_	CGdephead=#5-&gt;0|CGdeprel=@X|GTtags=Exclusive,PerifMod,PxSg2
-6	што	што	SCONJ	CS	_	5	parataxis	_	CGdephead=#6-&gt;6|CGdeprel=@SC|GTtags=
-7	ли	ли	AUX	_	_	6	fixed	_	CGdephead=#7-&gt;7|CGdeprel=@&lt;QST|GTtags=Use/SpellNoSugg,Pcle,Qst|SpaceAfter=No
-8	?	?	PUNCT	CLB	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 parataxis	color:blue
+1	Станя	стане	ADV	Adv	_	0	root	_	CGdephead=#1-&gt;0|CGdeprel=@X|GTtags=Err/Orth-lowered-final-e-2-ja
+2	или	или	CCONJ	CC	_	3	cc	_	CGdephead=#2-&gt;2|CGdeprel=@CC
+3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	1	conj	_	CGdephead=#3-&gt;0|CGdeprel=@IMV|GTtags=Aux,Neg
+4	—	—	PUNCT	PUNCT	_	5	punct	_	CGdephead=#4-&gt;5|CGdeprel=@X|GTtags=PUNCT
+5	ломанень	ломань	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
+6	потмось	потма	NOUN	N	Case=Nom|Definite=Def|NounType=Relat|Number=Sing	7	nsubj:cop	_	CGdephead=#6-&gt;9|CGdeprel=@SUBJ&gt;|GTtags=Relator,Sg,Nom,Def
+7	шобда	шобда	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	1	parataxis	_	CGdephead=#7-&gt;9|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef|SpaceAfter=No
+8	,	,	PUNCT	CLB	_	9	punct	_	CGdephead=#8-&gt;7|CGdeprel=@X|GTtags=CLB
+9	архт	архт	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	7	conj	_	CGdephead=#9-&gt;0|CGdeprel=@FMV|GTtags=Imprt,ScSg2
+10	вешеньк	вешеньк	VERB	_	_	9	conj	_	CGdephead=#10-&gt;0|CGdeprel=@X|GTtags=?|SpaceAfter=No
+11	,	,	PUNCT	CLB	_	13	punct	_	CGdephead=#11-&gt;10|CGdeprel=@X|GTtags=CLB
+12	мезенкса	мезе	PRON	Pron	Case=Cau|Number=Plur,Sing	13	obl:cau	_	CGdephead=#12-&gt;0|CGdeprel=@X|GTtags=SP,Cau
+13	кадозе	кадомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	10	ccomp	_	CGdephead=#13-&gt;9|CGdeprel=@FMV|GTtags=Ind,Prt1,ScSg3,OcSg3
+14	мирденц	мирде	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obj	_	CGdephead=#14-&gt;13|CGdeprel=@&lt;OBJ|GTtags=Sg,Gen,PxSg3|SpaceAfter=No
+15	,	,	PUNCT	CLB	_	16	punct	_	CGdephead=#15-&gt;14|CGdeprel=@X|GTtags=CLB
+16	архт	архт	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	7	conj	_	CGdephead=#16-&gt;9|CGdeprel=@FMV|GTtags=Imprt,ScSg2
+17	кизефнек	кизефнемс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	16	conj	_	CGdephead=#17-&gt;9|CGdeprel=@FMV|GTtags=Imprt,ScSg2|SpaceAfter=No
+18	,	,	PUNCT	CLB	_	21	punct	_	CGdephead=#18-&gt;17|CGdeprel=@X|GTtags=CLB
+19	мезенкса	мезе	PRON	Pron	Case=Cau|Number=Plur,Sing	21	obl:cau	_	CGdephead=#19-&gt;0|CGdeprel=@X|GTtags=SP,Cau
+20	сяшкава	сяшка	ADV	A	Case=Prl|Definite=Ind|Number=Plur,Sing	21	advmod:tmod	_	CGdephead=#20-&gt;21|CGdeprel=@ADVL&gt;|GTtags=SP,Prl,Indef
+21	кельгозе	кельгомс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	17	ccomp	_	CGdephead=#21-&gt;9|CGdeprel=@FMV|GTtags=Ind,Prt1,ScSg3,OcSg3
+22	Пашуть	Пашу	PROPN	N	Case=Gen|Definite=Def|Number=Sing	21	obj	_	CGdephead=#22-&gt;21|CGdeprel=@&lt;OBJ|GTtags=Prop,Sg,Gen,Def|SpaceAfter=No
+23	.	.	PUNCT	CLB	_	1	punct	_	CGdephead=#23-&gt;3|CGdeprel=@X|GTtags=CLB
 
 ~~~
 

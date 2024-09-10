@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Portuguese-CINTIL: POS Tags: `PRON`
 
-There are 96 `PRON` lemmas (0%), 96 `PRON` types (0%) and 12261 `PRON` tokens (3%).
+There are 97 `PRON` lemmas (0%), 97 `PRON` types (0%) and 12261 `PRON` tokens (3%).
 Out of 15 observed tags, the rank of `PRON` is: 7 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>que, -se, se, sua, seu, tudo, ele, seus, quem, eles</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="pt_cintil-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.389398).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.389383).
 
 The 1st highest number of forms (1) was observed with the lemma “-a”: <em>-a</em>.
 
@@ -65,18 +65,18 @@ The 2nd highest number of forms (1) was observed with the lemma “-as”: <em>-
 
 The 3rd highest number of forms (1) was observed with the lemma “-la”: <em>-la</em>.
 
-`PRON` occurs with 3 features: <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (6217; 51% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (4854; 40% instances), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt> (4438; 36% instances)
+`PRON` occurs with 4 features: <tt><a href="pt_cintil-feat-PronType.html">PronType</a></tt> (12261; 100% instances), <tt><a href="pt_cintil-feat-Number.html">Number</a></tt> (6217; 51% instances), <tt><a href="pt_cintil-feat-Gender.html">Gender</a></tt> (4854; 40% instances), <tt><a href="pt_cintil-feat-Person.html">Person</a></tt> (4438; 36% instances)
 
-`PRON` occurs with 7 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`
+`PRON` occurs with 11 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`PRON` occurs with 21 feature combinations.
-The most frequent feature combination is `_` (4406 tokens).
-Examples: <em>que, quem, onde, tudo, -no, como, nada, ninguém, quando, porquê</em>
+`PRON` occurs with 37 feature combinations.
+The most frequent feature combination is `PronType=Rel` (4180 tokens).
+Examples: <em>que, onde, quem, qual, como, cuja, quais, cujo, cujos, cujas</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 15 different relations: <tt><a href="pt_cintil-dep-nsubj.html">nsubj</a></tt> (4460; 36% instances), <tt><a href="pt_cintil-dep-obj.html">obj</a></tt> (2824; 23% instances), <tt><a href="pt_cintil-dep-amod.html">amod</a></tt> (1438; 12% instances), <tt><a href="pt_cintil-dep-det-poss.html">det:poss</a></tt> (1176; 10% instances), <tt><a href="pt_cintil-dep-obl.html">obl</a></tt> (1168; 10% instances), <tt><a href="pt_cintil-dep-dep.html">dep</a></tt> (352; 3% instances), <tt><a href="pt_cintil-dep-det.html">det</a></tt> (307; 3% instances), <tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt> (256; 2% instances), <tt><a href="pt_cintil-dep-root.html">root</a></tt> (125; 1% instances), <tt><a href="pt_cintil-dep-conj.html">conj</a></tt> (76; 1% instances), <tt><a href="pt_cintil-dep-appos.html">appos</a></tt> (54; 0% instances), <tt><a href="pt_cintil-dep-ccomp.html">ccomp</a></tt> (12; 0% instances), <tt><a href="pt_cintil-dep-parataxis.html">parataxis</a></tt> (9; 0% instances), <tt><a href="pt_cintil-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="pt_cintil-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 16 different relations: <tt><a href="pt_cintil-dep-nsubj.html">nsubj</a></tt> (4460; 36% instances), <tt><a href="pt_cintil-dep-obj.html">obj</a></tt> (2824; 23% instances), <tt><a href="pt_cintil-dep-amod.html">amod</a></tt> (1438; 12% instances), <tt><a href="pt_cintil-dep-det-poss.html">det:poss</a></tt> (1176; 10% instances), <tt><a href="pt_cintil-dep-obl.html">obl</a></tt> (1168; 10% instances), <tt><a href="pt_cintil-dep-dep.html">dep</a></tt> (352; 3% instances), <tt><a href="pt_cintil-dep-det.html">det</a></tt> (307; 3% instances), <tt><a href="pt_cintil-dep-fixed.html">fixed</a></tt> (255; 2% instances), <tt><a href="pt_cintil-dep-root.html">root</a></tt> (125; 1% instances), <tt><a href="pt_cintil-dep-conj.html">conj</a></tt> (76; 1% instances), <tt><a href="pt_cintil-dep-appos.html">appos</a></tt> (54; 0% instances), <tt><a href="pt_cintil-dep-ccomp.html">ccomp</a></tt> (12; 0% instances), <tt><a href="pt_cintil-dep-parataxis.html">parataxis</a></tt> (9; 0% instances), <tt><a href="pt_cintil-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="pt_cintil-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="pt_cintil-dep-flat.html">flat</a></tt> (1; 0% instances)
 
 Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="pt_cintil-pos-VERB.html">VERB</a></tt> (7717; 63% instances), <tt><a href="pt_cintil-pos-NOUN.html">NOUN</a></tt> (3410; 28% instances), <tt><a href="pt_cintil-pos-ADJ.html">ADJ</a></tt> (331; 3% instances), <tt><a href="pt_cintil-pos-ADV.html">ADV</a></tt> (152; 1% instances), <tt><a href="pt_cintil-pos-DET.html">DET</a></tt> (141; 1% instances),  (125; 1% instances), <tt><a href="pt_cintil-pos-ADP.html">ADP</a></tt> (123; 1% instances), <tt><a href="pt_cintil-pos-AUX.html">AUX</a></tt> (102; 1% instances), <tt><a href="pt_cintil-pos-PROPN.html">PROPN</a></tt> (97; 1% instances), <tt><a href="pt_cintil-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="pt_cintil-pos-SCONJ.html">SCONJ</a></tt> (21; 0% instances), <tt><a href="pt_cintil-pos-NUM.html">NUM</a></tt> (14; 0% instances)
 

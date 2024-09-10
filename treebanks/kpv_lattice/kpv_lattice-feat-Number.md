@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt>, <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt>.
 
-4469 tokens (55%) have a non-empty value of `Number`.
-2940 types (84%) occur at least once with a non-empty value of `Number`.
-1851 lemmas (79%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2012; 25% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (955; 12% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (481; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (433; 5% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (222; 3% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (206; 3% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (30; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+4468 tokens (55%) have a non-empty value of `Number`.
+2938 types (84%) occur at least once with a non-empty value of `Number`.
+1852 lemmas (79%) occur at least once with a non-empty value of `Number`.
+The feature is used with 11 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2009; 25% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (955; 12% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (485; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (433; 5% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (222; 3% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (205; 3% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (60; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (41; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (27; 0% instances), <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-2012 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+2009 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1551; 77%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1551; 77%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1244; 62%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1549; 77%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1549; 77%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1243; 62%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (336; 17% of non-empty `Number`): <em>кодзувъяс, колхозъясса, председательяс, казакъяс, колхозницаяс, коръяс, культураяс, кӧдзыдъяс, машинаяс, местаясыс</em>
-* `Sing` (1676; 83% of non-empty `Number`): <em>урожай, удж, шонді, ва, лун, вӧр, во, му, ю, йӧз</em>
+* `Sing` (1673; 83% of non-empty `Number`): <em>урожай, удж, шонді, ва, лун, вӧр, во, му, ю, йӧз</em>
 * `EMPTY` (26): <em>нылӧ, пасьталаыс, Озын, Пажын, веркӧсас, веркӧсӧдыс, вояс, гор, горув, йылъяс</em>
 
 <table>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 955 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (893; 94%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (843; 88%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (800; 84%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (765; 80%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (722; 76%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (662; 69%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (539; 56%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (893; 94%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (843; 88%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (800; 84%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (765; 80%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (662; 69%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (539; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -54,23 +54,22 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>лоны</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>лоӧма</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Evident.html">Evident</a></tt><tt>=Nfh</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лоӧма</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лоа</em></td><td><em>лоам</em></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>лои, лоис</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>лои</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>лоӧ</em></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-481 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `Number`.
+485 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (301; 63%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (290; 60%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (301; 62%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (292; 60%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (107; 22% of non-empty `Number`): <em>ми, найӧ, миян, кодъяс, найӧс, ті, миянлысь, налӧн, асланым, миянлы</em>
-* `Sing` (374; 78% of non-empty `Number`): <em>сійӧ, тайӧ, ме, сы, сійӧс, тэ, коді, сылӧн, мый, сылы</em>
+* `Plur` (112; 23% of non-empty `Number`): <em>ми, найӧ, миян, кодъяс, найӧс, ті, миянлысь, налӧн, асланым, кыкнанныс</em>
+* `Sing` (373; 77% of non-empty `Number`): <em>сійӧ, тайӧ, ме, сы, сійӧс, тэ, коді, сылӧн, мый, сылы</em>
 * `EMPTY` (56): <em>быд, ас, мый, кутшӧмкӧ, сы, Кутшӧм, мӧд, Мыйысь, аслас, ассьыныс</em>
 
 <table>
@@ -112,7 +111,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 222 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (213; 96%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (187; 84%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (172; 77%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (120; 54%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (118; 53%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (213; 96%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (172; 77%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (120; 54%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (118; 53%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -135,16 +134,16 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `ADP`
 
-206 <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> tokens (77% of all `ADP` tokens) have a non-empty value of `Number`.
+205 <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> tokens (76% of all `ADP` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (160; 78%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (160; 78%), <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (125; 61%).
+The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (190; 93%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (160; 78%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (160; 78%).
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Sing` (206; 100% of non-empty `Number`): <em>вылӧ, вылын, йылысь, бӧрын, дінӧ, вылас, дорын, дорӧ, ордӧ, сайын</em>
-* `EMPTY` (63): <em>вӧсна, дырйи, моз, кузя, пыдди, вылад, вылын, вылысь, дыра, кузяыс</em>
+* `Sing` (205; 100% of non-empty `Number`): <em>вылӧ, вылын, йылысь, бӧрын, дінӧ, вылас, дорын, дорӧ, ордӧ, сайын</em>
+* `EMPTY` (64): <em>вӧсна, дырйи, моз, кузя, пыдди, вылад, вылын, вылысь, дыра, кузяыс</em>
 
-`Number` seems to be **lexical feature** of `ADP`. 100% lemmas (54) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADP`. 100% lemmas (52) occur only with one value of `Number`.
 
 ### `NUM`
 
@@ -179,14 +178,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 ### `DET`
 
-30 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (67% of all `DET` tokens) have a non-empty value of `Number`.
+29 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (66% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (28; 93%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (25; 83%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (23; 77%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (23; 77%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (22; 73%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (27; 93%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (24; 83%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (23; 79%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (23; 79%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (20; 69%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (5; 17% of non-empty `Number`): <em>коймӧдъяс, мӧдъяс, Ӧтияс</em>
-* `Sing` (25; 83% of non-empty `Number`): <em>став, татшӧм, ставыс, Уналӧн, ас, быд, кыкнан, кыкнанныс, мӧд, мӧдным</em>
+* `Sing` (24; 83% of non-empty `Number`): <em>став, татшӧм, ставыс, Уналӧн, ас, быд, кыкнан, мӧд, мӧдным, ставныс</em>
 * `EMPTY` (15): <em>уна, ас, Кымынкӧ, кымын, мыйта, мӧд</em>
 
 <table>
@@ -221,14 +220,14 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (296; 81%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (297; 81%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-amod.html">amod</a></tt>]--> ADJ</tt> (210; 72%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (175; 72%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (161; 71%),
-<tt>NOUN --[<tt><a href="kpv_lattice-dep-case.html">case</a></tt>]--> ADP</tt> (140; 70%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-obl.html">obl</a></tt>]--> NOUN</tt> (140; 50%),
+<tt>NOUN --[<tt><a href="kpv_lattice-dep-case.html">case</a></tt>]--> ADP</tt> (138; 70%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>]--> NOUN</tt> (124; 56%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (110; 79%),
-<tt>NOUN --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> NOUN</tt> (90; 83%),
-<tt>NOUN --[<tt><a href="kpv_lattice-dep-det.html">det</a></tt>]--> PRON</tt> (48; 52%),
-<tt>NOUN --[<tt><a href="kpv_lattice-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (47; 87%).
+<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (111; 80%),
+<tt>NOUN --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> NOUN</tt> (89; 83%),
+<tt>NOUN --[<tt><a href="kpv_lattice-dep-det.html">det</a></tt>]--> PRON</tt> (48; 51%).
 

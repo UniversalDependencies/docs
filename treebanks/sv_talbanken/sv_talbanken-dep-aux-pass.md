@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	7	nsubj:pass	7:nsubj:pass	_
 5	blev	bli	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	7	aux:pass	7:aux:pass	_
 6	lite	lite	ADV	AB|POS	Degree=Pos	7	advmod	7:advmod	_
-7	undandragna	undandragen	VERB	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	1	ccomp	1:ccomp	SpaceAfter=No
+7	undandragna	undandragen	VERB	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	1:ccomp	SpaceAfter=No
 8	.	.	PUNCT	MAD	_	1	punct	1:punct	_
 
 ~~~

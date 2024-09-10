@@ -8,101 +8,83 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (0%) are attached to their parents as `appos`.
+44 nodes (0%) are attached to their parents as `appos`.
 
-11 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.90909090909091.
+44 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.45454545454545.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (4; 36% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 9% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 9% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-X.html">X</a></tt> (1; 9% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 appos	color:blue
-1	Hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	lemma[gml]=hê¹
-2	hadde	hebben	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=hebben
-3	eyne	en	DET	_	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	lemma[gml]=êⁱn¹
-4	vrouw	vrouwe	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	lemma[gml]=vrouwe²
-5	mid	mid	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=mit
-6	vyv	vyv	NUM	_	NumType=Card	7	nummod	_	lemma[gml]=vîf
-7	kinder	kind	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	nmod	_	lemma[gml]=kint|SpaceAfter=No
-8	,	,	PUNCT	_	_	12	punct	_	_
-9	dee	dee	PRON	_	Case=Nom|Number=Plur|PronType=Rel	12	nsubj	_	lemma[gml]=dê¹
-10	aver	avers	ADV	_	_	12	advmod	_	lemma[gml]=āvers
-11	alle	al	PRON	_	Case=Nom|Number=Plur|PronType=Tot	9	appos	_	lemma[gml]=al
-12	uutsågen	uutseen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	acl	_	lemma[gml]=ûtsên|SpaceAfter=No
-13	,	,	PUNCT	_	_	12	punct	_	_
-14	äs	as	SCONJ	_	_	18	mark	_	lemma[gml]=alsô
-15	wän	wan	SCONJ	_	_	18	mark	_	lemma[gml]=wan³
-16	see	see	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	_
-17	bast	bast	NOUN	_	Case=Acc|Gender=Masc,Neut|Number=Sing	18	obj	_	lemma[gml]=bast
-18	gnageden	gnagen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	12	advcl	_	lemma[gml]=gnāgen|SpaceAfter=No
-19	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
+The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (12; 27% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (11; 25% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (10; 23% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (4; 9% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt>-<tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 12 14 appos	color:blue
-1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma[gml]=beschrîven
-2	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
-3	to	to	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=tô⁴
-4	'	'	PUNCT	_	_	5	punct	_	_
-5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê¹
-6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
-7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
-8	ao.	ao.	ADV	_	_	7	advmod	_	_
-9	1817	1817	NUM	_	_	8	appos	_	_
-10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
-11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=van¹
-12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
-13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
-14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
-15	an	an	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=an
-16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
-17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
-18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
-19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
-20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 12 appos	color:blue
+1	Nåst	nåst	ADP	_	AdpType=Prep	2	case	_	lemma_gml=nâ
+2	hum	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	lemma_gml=hê,sê,et
+3	löypen	loupen	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	lemma_gml=lôpen
+4	Jurrien	Jurrien	PROPN	_	Number=Sing	3	nsubj	_	lemma_gml=jürtie
+5	Schoffels	Schoffels	PROPN	_	Number=Sing	4	flat	_	lemma_gml=schoffel
+6	en	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
+7	myn	myn	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	lemma_gml=mîn
+8	oumke	öymken	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	lemma_gml=ômeke|SpaceAfter=No
+9	,	,	PUNCT	_	_	12	punct	_	_
+10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	lemma_gml=d'ule
+11	olde	old	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	lemma_gml=d'ule
+12	veterane	veterane	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	lemma_gml=vitgerjân|SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 appos	color:blue
-1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma[gml]=beschrîven
-2	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
-3	to	to	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=tô⁴
-4	'	'	PUNCT	_	_	5	punct	_	_
-5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê¹
-6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
-7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
-8	ao.	ao.	ADV	_	_	7	advmod	_	_
-9	1817	1817	NUM	_	_	8	appos	_	_
-10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
-11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=van¹
-12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
-13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
-14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
-15	an	an	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=an
-16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
-17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
-18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
-19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
-20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 appos	color:blue
+1	Up	up	ADP	_	AdpType=Prep	3	case	_	lemma_gml=uppe
+2	düssem	düsse	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	lemma_gml=desse,desse,dit
+3	slotte	slot	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	lemma_gml=slotte
+4	woande	woanen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma_gml=wōnen|SpaceAfter=No
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	as	as	SCONJ	_	_	10	mark	_	lemma_gml=alsô
+7	ek	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	lemma_gml=ik
+8	noch	noch	ADV	_	_	10	advmod	_	lemma_gml=noch
+9	en	en	DET	_	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	lemma_gml=êin,êine,êin
+10	sköler	sköler	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	advcl	_	lemma_gml=schö̂ler
+11	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	10	cop	_	lemma_gml=wēsen|SpaceAfter=No
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	lemma_gml=dê,dê,dat
+14	hertog	hertog	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma_gml=hē̆rtoch
+15	Georg	Georg	PROPN	_	Number=Sing	14	appos	_	lemma_gml=georg
+16	Wilhelm	Wilhelm	PROPN	_	Number=Sing	15	flat	_	lemma_gml=wilhelm|SpaceAfter=No
+17	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 appos	color:blue
+1	Padhoes	padhoes	PROPN	_	Number=Sing	6	nsubj	_	lemma_gml=padhoes|SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	use	uns	DET	_	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	lemma_gml=unse
+4	katte	katte	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	appos	_	lemma_gml=katte|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	kregt	krygen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	lemma_gml=krîgen
+7	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	obj	_	lemma_gml=hê,sê,et
+8	der	dår	ADV	_	_	6	advmod	_	lemma_gml=dâr
+9	al	al	ADV	_	_	6	advmod	_	lemma_gml=al
+10	oaver	öäver	ADP	_	AdpType=Prep	8	case	_	lemma_gml=ȫver
+11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma_gml=van
+12	hüm	hee	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl	_	lemma_gml=hê,sê,et|SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

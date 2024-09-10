@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 12705 tokens (43%) have a non-empty value of `Number`.
-4098 types (67%) occur at least once with a non-empty value of `Number`.
+4100 types (67%) occur at least once with a non-empty value of `Number`.
 2742 lemmas (57%) occur at least once with a non-empty value of `Number`.
 The feature is used with 10 part-of-speech tags: <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> (4047; 14% instances), <tt><a href="it_twittiro-pos-DET.html">DET</a></tt> (3314; 11% instances), <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> (2218; 7% instances), <tt><a href="it_twittiro-pos-ADJ.html">ADJ</a></tt> (1203; 4% instances), <tt><a href="it_twittiro-pos-AUX.html">AUX</a></tt> (1038; 4% instances), <tt><a href="it_twittiro-pos-PRON.html">PRON</a></tt> (880; 3% instances), <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_twittiro-pos-X.html">X</a></tt> (1; 0% instances).
 

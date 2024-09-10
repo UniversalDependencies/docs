@@ -92,7 +92,6 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="hy_armtdp-dep-aux.html">aux</a></tt>]--> AUX</tt> (1553; 60%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1111; 81%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (32; 86%),
-<tt>VERB --[<tt><a href="hy_armtdp-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (21; 51%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="hy_armtdp-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),

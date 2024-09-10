@@ -8,31 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-5809 nodes (2%) are attached to their parents as `obj`.
+5805 nodes (2%) are attached to their parents as `obj`.
 
-5743 instances of `obj` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.10810810810811.
+5740 instances of `obj` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.10801033591731.
 
-The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (5465; 94% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (165; 3% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (116; 2% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (41; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-X.html">X</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (5464; 94% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (163; 3% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (116; 2% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (41; 1% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-X.html">X</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 obj	color:blue
-1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	Lineamento	Lineamento	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	Tibagi	Tibagi	PROPN	_	Number=Sing	2	flat:name	_	_
-4	não	não	ADV	_	Polarity=Neg	5	advmod	_	_
-5	apresenta	apresentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	publicações	publicação	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
-7	a	a	ADP	_	_	10	case	_	_
-8	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	seu	seu	DET	_	Gender=Masc|Number=Sing|PronType=Prs	10	det	_	_
-10	respeito	respeito	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 obj	color:blue
+1	c	c	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	_	SpaceAfter=No
+2	)	)	PUNCT	_	_	1	punct	_	_
+3	Verificar	verificar	VERB	_	VerbForm=Inf	0	root	_	_
+4	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	eficiência	eficiência	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	barreira	barreira	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	contenção	contenção	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	garrafas	garrafa	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
 
 ~~~
 

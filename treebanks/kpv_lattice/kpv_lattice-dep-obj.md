@@ -17,35 +17,36 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 obj	color:blue
-1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
-3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru|SpaceAfter=No
-5	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 obj	color:blue
+1	Ковмас	ковмыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	_
+2	кӧ	кӧ	SCONJ	CS	_	1	mark	_	SpaceAfter=No
+3	,	,	PUNCT	CLB	_	5	punct	_	_
+4	ог	оз	AUX	V	Mood=Ind|Person=1|Polarity=Neg|Tense=Pres	5	aux:neg	_	_
+5	жалит	жалитны	VERB	V	Connegative=Yes	1	advcl	_	OrigLang=ru
+6	олӧмӧс	олӧм	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	obj	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 obj	color:blue
-1	Найӧ	найӧ	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-2	дзик	дзик	ADV	Adv	_	4	advmod:deg	_	_
-3	оз	оз	AUX	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres	4	aux:neg	_	_
-4	тӧдны	тӧдны	VERB	V	Connegative=Yes	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	CLB	_	8	punct	_	_
-6	коді	коді	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	_	_
-7	тайӧс	тайӧ	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	8	obj	_	_
-8	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	ccomp	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 7 3 obj	color:blue
+1	Неылысса	неылысса	ADJ	A	Case=Nom|Number=Sing|Polarity=Neg	2	amod	_	_
+2	сикт-грездын	сикт-грезд	NOUN	N	Case=Ine|Number=Sing	7	obl:lmod	_	_
+3	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+4	йылысь	йылысь	ADP	Po	AdpType=Post|Case=Ela|Number=Sing	3	case	_	_
+5	абу	абу	AUX	Pcle	Polarity=Neg	7	aux:neg	_	_
+6	весиг	весиг	PART	Pcle	_	7	advmod	_	_
+7	тӧдлӧмаӧсь	тӧдлыны	VERB	V	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 
@@ -57,14 +58,14 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod:tmod	_	_
-2	тэчи	тэчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Err/Dial,Sg3
-3	чукӧртӧмасӧ	чукӧртны	VERB	V	Clitic=So|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	2	obj	_	GTtags=TV,Ind,Prt2,Sg3,Clt/сӧ
+2	тэчи	тэчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Err/Dial,Sg3
+3	чукӧртӧмасӧ	чукӧртны	VERB	V	Clitic=So|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	obj	_	GTtags=TV,Ind,Prt2,Sg3,Clt/сӧ
 4	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	2	obl	_	GTtags=Det,Refl,Abs
 5	гӧгӧр	гӧгӧр	ADP	Adp	AdpType=Post|Case=Nom|Number=Sing	4	case	_	GTtags=Po,Sg,Nom
 6	да	да	CCONJ	CC	_	7	cc	_	_
-7	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	conj	_	GTtags=IV,Ind,Prt1,Err/Dial,Sg3
+7	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=IV,Ind,Prt1,Err/Dial,Sg3
 8	войсӧ	вой	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	GTtags=Sg,Acc,PxSg3
-9	виччысьны	виччысьны	VERB	V	Valency=2|VerbForm=Inf	7	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
+9	виччысьны	виччысьны	VERB	V	VerbForm=Inf	7	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

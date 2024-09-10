@@ -44,4 +44,4 @@ nsubj(ni,substance-3)
 expl(does-not-exist,She-GEN)
 nsubj(does-not-exist,substance-16)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:25 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:11 CEST -->

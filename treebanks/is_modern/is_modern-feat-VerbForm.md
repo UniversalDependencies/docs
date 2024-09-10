@@ -9,28 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Inf`, `Part`, `Sup`.
 
-14343 tokens (18%) have a non-empty value of `VerbForm`.
-2038 types (20%) occur at least once with a non-empty value of `VerbForm`.
+14491 tokens (18%) have a non-empty value of `VerbForm`.
+2047 types (20%) occur at least once with a non-empty value of `VerbForm`.
 726 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 7 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9092; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5235; 7% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> (9221; 11% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (5255; 7% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-9092 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+9221 <tt><a href="is_modern-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8216; 90%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8388; 91%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4608; 51% of non-empty `VerbForm`): <em>held, kemur, finnst, þarf, verður, þakka, hringir, á, sagði, eigum</em>
-* `Inf` (2737; 30% of non-empty `VerbForm`): <em>gera, fara, taka, koma, segja, vinna, sjá, fá, spyrja, ræða</em>
-* `Part` (988; 11% of non-empty `VerbForm`): <em>varðandi, gert, farið, keppt, gripið, sagt, tekið, komin, sett, búið</em>
+* `Fin` (4699; 51% of non-empty `VerbForm`): <em>hringir, held, kemur, á, finnst, þarf, þakka, verður, sagði, eigum</em>
+* `Inf` (2776; 30% of non-empty `VerbForm`): <em>gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</em>
+* `Part` (987; 11% of non-empty `VerbForm`): <em>varðandi, gert, farið, keppt, gripið, sagt, tekið, komin, sett, búið</em>
 * `Sup` (759; 8% of non-empty `VerbForm`): <em>sagt, tekið, komið, gert, farið, orðið, séð, átt, reynt, gerst</em>
-* `EMPTY` (205): <em>hringir, á, þakka, búið, leið, falli, fer, heldur, ræður, Elsti</em>
+* `EMPTY` (74): <em>þakka, búið, leið, fer, ræður, Falli, Réði, Tilkynnt, afmörkuð, fá</em>
 
 <table>
   <tr><th>Paradigm <i>koma</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>koma, komast</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td></td><td><em>komandi</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>kominn</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>komnir</em></td></tr>
@@ -39,6 +38,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>komið</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td></td><td></td><td></td><td><em>komist</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>komin</em></td></tr>
+  <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>komið</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>kom</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>komst</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>kem</em></td><td></td><td></td><td></td></tr>
@@ -70,21 +70,20 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-5235 <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+5255 <tt><a href="is_modern-pos-AUX.html">AUX</a></tt> tokens (99% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5228; 100%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3819; 73%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3683; 70%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3634; 69%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3549; 68%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5250; 100%), <tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=3</tt> (3834; 73%), <tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3702; 70%), <tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3654; 70%), <tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3569; 68%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4600; 88% of non-empty `VerbForm`): <em>er, var, eru, sé, hefur, væri, hafi, hafa, hefði, erum</em>
+* `Fin` (4620; 88% of non-empty `VerbForm`): <em>er, var, eru, sé, hefur, væri, hafi, hafa, hefði, erum</em>
 * `Inf` (303; 6% of non-empty `VerbForm`): <em>vera, hafa, geta, verða, vilja, mundu</em>
 * `Part` (40; 1% of non-empty `VerbForm`): <em>verið, haft</em>
 * `Sup` (292; 6% of non-empty `VerbForm`): <em>verið, haft, viljað, getað, mátt</em>
-* `EMPTY` (69): <em>er, var, hefur, geti, hafi, mun, vilji, hafa, má, séu</em>
+* `EMPTY` (49): <em>var, hefur, geti, hafi, mun, vilji, hafa, má, séu, vil</em>
 
 <table>
   <tr><th>Paradigm <i>vera</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>vera</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="is_modern-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td><em>verið</em></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>var</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="is_modern-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="is_modern-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="is_modern-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="is_modern-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="is_modern-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>er, sé</em></td><td></td><td></td><td></td></tr>
@@ -141,7 +140,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `ADP` tokens may have the following values of `VerbForm`:
 
 * `Fin` (2; 100% of non-empty `VerbForm`): <em>á</em>
-* `EMPTY` (10380): <em>í, á, til, um, með, fyrir, við, af, að, fram</em>
+* `EMPTY` (10207): <em>í, á, til, um, með, fyrir, við, af, að, fram</em>
 
 ### `ADJ`
 
@@ -152,28 +151,19 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>rökstutt</em>
-* `EMPTY` (4315): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
-
-### `SCONJ`
-
-1 <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `VerbForm`.
-
-`SCONJ` tokens may have the following values of `VerbForm`:
-
-* `Fin` (1; 100% of non-empty `VerbForm`): <em>er</em>
-* `EMPTY` (3675): <em>að, sem, ef, þegar, hvort, nema, þó, þótt, er, og</em>
+* `EMPTY` (4316): <em>hv., hæstv., virðulegi, hægt, sammála, rétt, gott, fyrsta, miklu, sama</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (515; 63%),
-<tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (43; 62%),
+<tt>VERB --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (528; 65%),
+<tt>VERB --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (85; 57%),
+<tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (44; 64%),
 <tt>VERB --[<tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (26; 54%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> VERB</tt> (6; 55%),
 <tt>AUX --[<tt><a href="is_modern-dep-dep.html">dep</a></tt>]--> VERB</tt> (3; 60%),
 <tt>AUX --[<tt><a href="is_modern-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="is_modern-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="is_modern-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
-<tt>AUX --[<tt><a href="is_modern-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="is_modern-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%).
 

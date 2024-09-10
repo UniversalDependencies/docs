@@ -54,10 +54,10 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 30	regresan	regresar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 31	a	a	ADP	P	AdpType=Prep	33	case	_	_
 32	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
-33	Serra	serra	PROPN	Spfs	Gender=Fem|Number=Sing	30	obl	_	_
+33	Serra	serra	NOUN	Scfs	Gender=Fem|Number=Sing	30	obl	_	_
 34	de	de	ADP	P	AdpType=Prep	36	case	_	_
 35	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
-36	Corza	corza	PROPN	Spfs	Gender=Fem|Number=Sing	33	nmod	_	_
+36	Corza	corza	PROPN	Sp00	_	33	nmod	_	_
 37	con	con	ADP	P	AdpType=Prep	39	case	_	_
 38	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	intención	intención	NOUN	Scfs	Gender=Fem|Number=Sing	30	obl	_	_
@@ -68,7 +68,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 44	familia	familia	NOUN	Scfs	Gender=Fem|Number=Sing	41	obj	_	_
 45	(	(	PUNCT	Q(	_	50	punct	_	SpaceAfter=No
 46	a	a	ADP	P	AdpType=Prep	47	case	_	_
-47	Roberto	Roberto	PROPN	Spm0	Gender=Masc	50	iobj	_	_
+47	Roberto	roberto	PROPN	Sp00	_	50	iobj	_	_
 48	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	49	det	_	_
 49	falanxistas	falanxista	NOUN	Scmp	Gender=Masc|Number=Plur	50	nsubj	_	_
 50	asasinaron	asasinar	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	44	parataxis	_	_
@@ -78,7 +78,7 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 54	,	,	PUNCT	Q,	_	59	punct	_	_
 55	e	e	CCONJ	Cc	_	59	cc	_	_
 56	a	a	ADP	P	AdpType=Prep	57	case	_	_
-57	Marcial	Marcial	PROPN	Spm0	Gender=Masc	59	orphan	_	_
+57	Marcial	marcial	PROPN	Sp00	_	59	orphan	_	_
 58	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
 59	pai	pai	NOUN	Scms	Gender=Masc|Number=Sing	50	conj	_	SpaceAfter=No
 60	)	)	PUNCT	Q)	_	50	punct	_	SpaceAfter=No

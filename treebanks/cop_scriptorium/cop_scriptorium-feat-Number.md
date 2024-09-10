@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt>, <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt>.
 
-15466 tokens (28%) have a non-empty value of `Number`.
-120 types (4%) occur at least once with a non-empty value of `Number`.
-66 lemmas (3%) occur at least once with a non-empty value of `Number`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8413; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7053; 13% instances).
+15827 tokens (28%) have a non-empty value of `Number`.
+121 types (4%) occur at least once with a non-empty value of `Number`.
+67 lemmas (3%) occur at least once with a non-empty value of `Number`.
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8590; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (7237; 13% instances).
 
 ### `PRON`
 
-8413 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Number`.
+8590 <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (7926; 94%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7926; 94%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5254; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (8089; 94%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8089; 94%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=3</tt> (5374; 63%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (2573; 31% of non-empty `Number`): ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉ, ⲧⲏⲩⲧⲛ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ
-* `Sing` (5840; 69% of non-empty `Number`): ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲧⲉ, ⲅ, ⲁⲛⲟⲕ, ⲛⲧⲟϥ
-* `EMPTY` (756): ⲟⲩ, ⲛⲓⲙ, ϥ, ⲕ, ⲥ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲧⲛ, ⲩ
+* `Plur` (2607; 30% of non-empty `Number`): ⲩ, ⲟⲩ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ, ⲛⲉ, ⲧⲏⲩⲧⲛ, ⲉⲩⲉ, ⲛⲧⲱⲧⲛ
+* `Sing` (5983; 70% of non-empty `Number`): ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲧⲉ, ⲁⲛⲟⲕ, ⲅ, ⲛⲧⲟϥ
+* `EMPTY` (765): ⲟⲩ, ⲛⲓⲙ, ϥ, ⲕ, ⲥ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲩ, ⲧⲛ
 
 <table>
   <tr><th>Paradigm <i>ⲡⲉ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -39,15 +39,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-7053 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
+7237 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6125; 87%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5734; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5734; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5689; 81%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5147; 73%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6290; 87%), <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5882; 81%), <tt><a href="cop_scriptorium-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5882; 81%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5833; 81%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5272; 73%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (1409; 20% of non-empty `Number`): ⲛ, ⲛⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲙ, ⲛⲉⲛ, ⲛⲉⲩ, ⲛⲉⲕ, ⲛⲉⲧⲛ
-* `Sing` (5644; 80% of non-empty `Number`): ⲡ, ⲧ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲡⲁ, ⲡⲉϥ, ⲧⲉ, ⲡⲁⲓ, ⲡⲉⲓ
-* `EMPTY` (136): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲛ, ⲙ, ⲧ, ϩⲛ, ⲛⲉ, ⲛⲉⲧⲛ
+* `Plur` (1438; 20% of non-empty `Number`): ⲛ, ⲛⲉ, ⲛⲉϥ, ⲛⲁⲓ, ⲛⲁ, ⲙ, ⲛⲉⲛ, ⲛⲉⲩ, ⲛⲉⲕ, ⲛⲉⲧⲛ
+* `Sing` (5799; 80% of non-empty `Number`): ⲡ, ⲧ, ⲟⲩ, ⲡⲉ, ϩⲉⲛ, ⲡⲁ, ⲡⲉϥ, ⲧⲉ, ⲡⲁⲓ, ⲡⲉⲓ
+* `EMPTY` (138): ⲕⲉ, ϯ, ϭⲉ, ⲛⲁ, ⲙ, ⲛ, ⲧ, ϩⲛ, ⲑ, ⲛⲉ
 
 <table>
   <tr><th>Paradigm <i>ⲡ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -59,10 +59,10 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>DET --[<tt><a href="cop_scriptorium-dep-cop.html">cop</a></tt>]--> PRON</tt> (93; 100%),
+<tt>DET --[<tt><a href="cop_scriptorium-dep-cop.html">cop</a></tt>]--> PRON</tt> (95; 100%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> DET</tt> (19; 95%),
+<tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (11; 58%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11; 92%),
-<tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> PRON</tt> (9; 53%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>]--> DET</tt> (8; 89%),
 <tt>DET --[<tt><a href="cop_scriptorium-dep-appos.html">appos</a></tt>]--> DET</tt> (8; 89%),
 <tt>PRON --[<tt><a href="cop_scriptorium-dep-dislocated.html">dislocated</a></tt>]--> DET</tt> (8; 100%),

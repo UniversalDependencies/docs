@@ -133,4 +133,4 @@ There are similarities with reflexive and demonstrative pronouns / determiners.
 * _někam&nbsp;_ “(to) somewhere”; _kamkoli&nbsp;_ “(to) anywhere”; _kamsi&nbsp;_ “(to) somewhere”
 * _někdy&nbsp;_ “sometimes”; _kdykoli&nbsp;_ “anytime”; _málokdy&nbsp;_ “few times”; _leckdy&nbsp;_ “quite a few times”; _kdysi&nbsp;_ “once (long ago)”
 * _nějak&nbsp;_ “somehow”; _jakkoli&nbsp;_ “anyhow”; _lecjak&nbsp;_ “quite a few ways”; _jaksi&nbsp;_ “somehow”
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:18 CEST -->

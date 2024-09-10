@@ -113,4 +113,4 @@ In the middle voice, the subject is both the actor and the undergoer.
 * _Вирустан ничек сакланырга?_ "How should we protect ourselves from the virus?"
 
 
-<!-- Interlanguage links updated Po lis 14 15:35:01 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:28 CEST -->

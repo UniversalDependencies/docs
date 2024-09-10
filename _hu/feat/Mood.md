@@ -42,4 +42,4 @@ leading to multivalues `Cnd,Pot` and `Imp,Pot`.
 * [hu] _<b>Tanulhatnék</b> az egyetemen._ “I <b>could study</b> at the university.” `Mood=Cnd,Pot`
 * [hu] _hogy az egyetemen <b>tanulhasson</b>_ “so that <b>you can study</b> at the university” `Mood=Imp,Pot`
 
-<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->

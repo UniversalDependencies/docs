@@ -24,23 +24,23 @@ The following 35 pairs of parts of speech are connected with `parataxis:parenth`
 # visual-style 4	fgColor:white
 # visual-style 4 11 parataxis:parenth	color:blue
 1	#	#	X	_	_	16	dep	_	AlignBegin=21970|AlignEnd=22420|Gloss=PUNCT
-2	and	and	CCONJ	_	_	16	discourse	_	AlignBegin=22420|AlignEnd=22477|Gloss=and|SyllableCount=1|WordContour=mm
-3	your	your	PRON	_	Number=Plur|Person=2|Poss=Yes	4	nmod:poss	_	AlignBegin=22477|AlignEnd=22590|Gloss=PL.2.POSS|SyllableCount=1|WordContour=mm
-4	maggi	maggi	NOUN	_	_	16	dislocated	_	AlignBegin=22590|AlignEnd=23076|Gloss=Maggi_cube|SyllableCount=2|WordContour=mh
-5	(	(	X	_	_	11	dep	_	AlignBegin=23076|AlignEnd=23106|Gloss=PUNCT
-6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	AlignBegin=23106|AlignEnd=23206|Gloss=NOM.2|SyllableCount=1|WordContour=mm
-7	go	go	AUX	_	Aspect=Prosp	11	aux	_	AlignBegin=23206|AlignEnd=23314|Gloss=PROSP|SyllableCount=1|WordContour=mm
-8	don	don	AUX	_	Aspect=Perf	11	aux	_	AlignBegin=23314|AlignEnd=23439|Gloss=PRF|SyllableCount=1|WordContour=mh
-9	already	already	ADV	_	_	11	advmod	_	AlignBegin=23439|AlignEnd=24000|Gloss=already|SyllableCount=3|WordContour=mm
+2	and	and	CCONJ	_	_	16	discourse	_	AlignBegin=22420|AlignEnd=22477|Gloss=and
+3	your	your	PRON	_	Number=Plur|Person=2|Poss=Yes	4	nmod:poss	_	AlignBegin=22477|AlignEnd=22590|Gloss=PL.2.POSS
+4	maggi	maggi	NOUN	_	_	16	dislocated	_	AlignBegin=22590|AlignEnd=23106|Gloss=Maggi_cube
+5	(	(	X	_	_	11	dep	_	AlignBegin=23106|AlignEnd=23106|Gloss=PUNCT
+6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	AlignBegin=23106|AlignEnd=23206|Gloss=NOM.2
+7	go	go	AUX	_	Aspect=Prosp	11	aux	_	AlignBegin=23206|AlignEnd=23314|Gloss=PROSP
+8	don	don	AUX	_	Aspect=Perf	11	aux	_	AlignBegin=23314|AlignEnd=23439|Gloss=PRF
+9	already	already	ADV	_	_	11	advmod	_	AlignBegin=23439|AlignEnd=24000|Gloss=already
 10	#	#	X	_	_	11	dep	_	AlignBegin=24000|AlignEnd=24460|Gloss=PUNCT
-11	crumble	crumble	VERB	_	_	4	parataxis:parenth	_	AlignBegin=24460|AlignEnd=25260|Gloss=crumble|SyllableCount=2|WordContour=mm
-12	di	di	DET	_	Definite=Def|PronType=Art	13	det	_	AlignBegin=25260|AlignEnd=25350|Gloss=DEF.ART|SyllableCount=1|WordContour=mm
-13	maggi	maggi	NOUN	_	_	11	obj	_	AlignBegin=25350|AlignEnd=25700|Gloss=Maggi_cube|SyllableCount=2|WordContour=mm
-14	)	)	X	_	_	11	dep	_	AlignBegin=25700|AlignEnd=25730|Gloss=PUNCT
+11	crumble	crumble	VERB	_	_	4	parataxis:parenth	_	AlignBegin=24460|AlignEnd=25260|Gloss=crumble
+12	di	di	DET	_	Definite=Def|PronType=Art	13	det	_	AlignBegin=25260|AlignEnd=25350|Gloss=DEF.ART
+13	maggi	maggi	NOUN	_	_	11	obj	_	AlignBegin=25350|AlignEnd=25730|Gloss=Maggi_cube
+14	)	)	X	_	_	11	dep	_	AlignBegin=25730|AlignEnd=25730|Gloss=PUNCT
 15	<	<	X	_	_	4	dep	_	AlignBegin=25700|AlignEnd=25730|Gloss=PUNCT
-16	drop	drop	VERB	_	_	0	root	_	AlignBegin=25730|AlignEnd=26060|Gloss=drop|SyllableCount=1|WordContour=lm
-17	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	obj	_	AlignBegin=26060|AlignEnd=26250|Gloss=ACC.SG.3|SyllableCount=1|WordContour=ml
-18	!//	!//	X	_	_	16	dep	_	AlignBegin=26250|AlignEnd=26280|Gloss=PUNCT
+16	drop	drop	VERB	_	_	0	root	_	AlignBegin=25730|AlignEnd=26060|Gloss=drop
+17	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	obj	_	AlignBegin=26060|AlignEnd=26280|Gloss=ACC.SG.3
+18	!//	!//	X	_	_	16	dep	_	AlignBegin=26280|AlignEnd=26280|Gloss=PUNCT
 
 ~~~
 
@@ -52,31 +52,31 @@ The following 35 pairs of parts of speech are connected with `parataxis:parenth`
 # visual-style 8	fgColor:white
 # visual-style 8 17 parataxis:parenth	color:blue
 1	#	#	X	_	_	22	dep	_	AlignBegin=386388|AlignEnd=387871|Gloss=PUNCT
-2	so	so	ADV	_	_	22	discourse	_	AlignBegin=387871|AlignEnd=388500|Gloss=so|SyllableCount=1|WordContour=hm
+2	so	so	ADV	_	_	22	discourse	_	AlignBegin=387871|AlignEnd=388500|Gloss=so
 3	#	#	X	_	_	2	dep	_	AlignBegin=388500|AlignEnd=389090|Gloss=PUNCT
-4	if	if	SCONJ	_	_	7	mark	_	AlignBegin=389090|AlignEnd=389260|Gloss=if|SyllableCount=1|WordContour=mm
-5	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=389260|AlignEnd=389320|Gloss=NOM.2|SyllableCount=1|WordContour=mm
-6	no	no	AUX	_	Polarity=Neg	7	aux	_	AlignBegin=389320|AlignEnd=389480|Gloss=NEG|SyllableCount=1|WordContour=mh
-7	buy	buy	VERB	_	_	22	advcl	_	AlignBegin=389480|AlignEnd=389800|Gloss=buy|SyllableCount=1|WordContour=hh
-8	akara	akara	NOUN	_	_	7	obj	_	AlignBegin=389800|AlignEnd=390277|Gloss=bean_doughnut|SyllableCount=3|WordContour=ml
+4	if	if	SCONJ	_	_	7	mark	_	AlignBegin=389090|AlignEnd=389260|Gloss=if
+5	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	AlignBegin=389260|AlignEnd=389320|Gloss=NOM.2
+6	no	no	AUX	_	Polarity=Neg	7	aux	_	AlignBegin=389320|AlignEnd=389480|Gloss=NEG
+7	buy	buy	VERB	_	_	22	advcl	_	AlignBegin=389480|AlignEnd=389800|Gloss=buy
+8	akara	akara	NOUN	_	_	7	obj	_	AlignBegin=389800|AlignEnd=390277|Gloss=bean_doughnut
 9	#	#	X	_	_	7	dep	_	AlignBegin=390277|AlignEnd=390582|Gloss=PUNCT
 10	(	(	X	_	_	17	dep	_	AlignBegin=390277|AlignEnd=390582|Gloss=PUNCT
-11	wey	when	SCONJ	_	_	17	mark	_	AlignBegin=390582|AlignEnd=390652|ExtPos=SCONJ|Gloss=when|Idiom=Yes|SyllableCount=1|WordContour=mh
-12	be	be	AUX	_	PartType=Cop	11	fixed	_	AlignBegin=390652|AlignEnd=390785|Gloss=be|InIdiom=Yes|SyllableCount=1|WordContour=ml
-13	sey	sey	SCONJ	_	_	11	fixed	_	AlignBegin=390785|AlignEnd=390932|Gloss=COMP|InIdiom=Yes|SyllableCount=1|WordContour=mm
-14	na	na	AUX	_	PartType=Cop	17	cop	_	AlignBegin=390932|AlignEnd=391087|Gloss=be|SyllableCount=1|WordContour=ml
-15	di	di	DET	_	Definite=Def|PronType=Art	17	det	_	AlignBegin=391087|AlignEnd=391205|Gloss=DEF.ART|SyllableCount=1|WordContour=ll
-16	usual	usual	ADJ	_	_	17	amod	_	AlignBegin=391205|AlignEnd=391641|Gloss=usual|SyllableCount=3|WordContour=lmh2
-17	thing	ting	NOUN	_	_	8	parataxis:parenth	_	AlignBegin=391641|AlignEnd=391952|Gloss=thing|SyllableCount=1|WordContour=lm
-18	)	)	X	_	_	17	dep	_	AlignBegin=391952|AlignEnd=391982|Gloss=PUNCT
+11	wey	when	SCONJ	_	ExtPos=SCONJ	17	mark	_	AlignBegin=390582|AlignEnd=390652|Gloss=when|Idiom=Yes
+12	be	be	AUX	_	PartType=Cop	11	fixed	_	AlignBegin=390652|AlignEnd=390785|Gloss=be|InIdiom=Yes
+13	sey	sey	SCONJ	_	_	11	fixed	_	AlignBegin=390785|AlignEnd=390932|Gloss=COMP|InIdiom=Yes
+14	na	na	AUX	_	PartType=Cop	17	cop	_	AlignBegin=390932|AlignEnd=391087|Gloss=be
+15	di	di	DET	_	Definite=Def|PronType=Art	17	det	_	AlignBegin=391087|AlignEnd=391205|Gloss=DEF.ART
+16	usual	usual	ADJ	_	_	17	amod	_	AlignBegin=391205|AlignEnd=391641|Gloss=usual
+17	thing	ting	NOUN	_	_	8	parataxis:parenth	_	AlignBegin=391641|AlignEnd=391982|Gloss=thing
+18	)	)	X	_	_	17	dep	_	AlignBegin=391982|AlignEnd=391982|Gloss=PUNCT
 19	<	<	X	_	_	7	dep	_	AlignBegin=391952|AlignEnd=391982|Gloss=PUNCT
-20	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	22	nsubj	_	AlignBegin=391982|AlignEnd=392121|Gloss=NOM.2|SyllableCount=1|WordContour=mm
-21	fit	fit	AUX	_	Mood=Pot	22	aux	_	AlignBegin=392121|AlignEnd=392292|Gloss=ABIL|SyllableCount=1|WordContour=hm
-22	buy	buy	VERB	_	_	0	root	_	AlignBegin=392292|AlignEnd=392524|Gloss=buy|SyllableCount=1|WordContour=mmh2
-23	masa	masa	NOUN	_	_	22	obj	_	AlignBegin=392524|AlignEnd=392932|Gloss=masa|SyllableCount=2|WordContour=ml
-24	and	and	CCONJ	_	_	25	cc	_	AlignBegin=392932|AlignEnd=393214|Gloss=and|SyllableCount=1|WordContour=lm
-25	kunu	kunu	NOUN	_	_	23	conj	_	AlignBegin=393214|AlignEnd=394072|Gloss=millet_drink|SyllableCount=2|WordContour=lm
-26	take	take	VERB	_	_	22	compound:svc	_	AlignBegin=394072|AlignEnd=394450|Gloss=take|SyllableCount=1|WordContour=ml
+20	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	22	nsubj	_	AlignBegin=391982|AlignEnd=392121|Gloss=NOM.2
+21	fit	fit	AUX	_	Mood=Pot	22	aux	_	AlignBegin=392121|AlignEnd=392292|Gloss=ABIL
+22	buy	buy	VERB	_	_	0	root	_	AlignBegin=392292|AlignEnd=392524|Gloss=buy
+23	masa	masa	NOUN	_	_	22	obj	_	AlignBegin=392524|AlignEnd=392932|Gloss=masa
+24	and	and	CCONJ	_	_	25	cc	_	AlignBegin=392932|AlignEnd=393214|Gloss=and
+25	kunu	kunu	NOUN	_	_	23	conj	_	AlignBegin=393214|AlignEnd=394072|Gloss=millet_drink
+26	take	take	VERB	_	_	22	compound:svc	_	AlignBegin=394072|AlignEnd=394450|Gloss=take
 27	//	//	X	_	_	22	dep	_	AlignBegin=394072|AlignEnd=394450|Gloss=PUNCT
 
 ~~~
@@ -88,24 +88,24 @@ The following 35 pairs of parts of speech are connected with `parataxis:parenth`
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 11 parataxis:parenth	color:blue
-1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	AlignBegin=277799|AlignEnd=277882|Gloss=NOM.SG.3|SyllableCount=1|WordContour=ll
-2	get	get	VERB	_	_	0	root	_	AlignBegin=277882|AlignEnd=278054|Gloss=get|SyllableCount=1|WordContour=hh
-3	one	one	NOUN	_	_	2	nsubj	_	AlignBegin=278054|AlignEnd=278246|Gloss=one|SyllableCount=1|WordContour=hm
-4	wey	wey	SCONJ	_	_	7	mark	_	AlignBegin=278246|AlignEnd=278340|Gloss=REL|SyllableCount=1|WordContour=mm
-5	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=278340|AlignEnd=278428|Gloss=NOM.PL.1|SyllableCount=1|WordContour=mm
-6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=278428|AlignEnd=278601|Gloss=IPFV|SyllableCount=1|WordContour=mm
-7	use	use	VERB	_	_	3	acl:relcl	_	AlignBegin=278601|AlignEnd=278860|Gloss=use|SyllableCount=1|WordContour=mm
+1	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	AlignBegin=277799|AlignEnd=277882|Gloss=NOM.SG.3
+2	get	get	VERB	_	_	0	root	_	AlignBegin=277882|AlignEnd=278054|Gloss=get
+3	one	one	NOUN	_	_	2	nsubj	_	AlignBegin=278054|AlignEnd=278246|Gloss=one
+4	wey	wey	SCONJ	_	_	7	mark	_	AlignBegin=278246|AlignEnd=278340|Gloss=REL
+5	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=278340|AlignEnd=278428|Gloss=NOM.PL.1
+6	dey	dey	AUX	_	Aspect=Imp	7	aux	_	AlignBegin=278428|AlignEnd=278601|Gloss=IPFV
+7	use	use	VERB	_	_	3	acl:relcl	_	AlignBegin=278601|AlignEnd=278860|Gloss=use
 8	#	#	X	_	_	11	dep	_	AlignBegin=278860|AlignEnd=279260|Gloss=PUNCT
-9	ehm	ehm	INTJ	_	_	11	discourse	_	AlignBegin=279260|AlignEnd=279670|Gloss=ehm|SyllableCount=1|WordContour=ml
-10	dis	dis	DET	_	Number=Sing|PronType=Dem	11	det	_	AlignBegin=279670|AlignEnd=279921|Gloss=SG.DEM|SyllableCount=1|WordContour=mh
-11	thing	ting	NOUN	_	_	7	parataxis:parenth	_	AlignBegin=279921|AlignEnd=280160|Gloss=thing|SyllableCount=1|WordContour=mm
+9	ehm	ehm	INTJ	_	_	11	discourse	_	AlignBegin=279260|AlignEnd=279670|Gloss=ehm
+10	dis	dis	DET	_	Number=Sing|PronType=Dem	11	det	_	AlignBegin=279670|AlignEnd=279921|Gloss=SG.DEM
+11	thing	ting	NOUN	_	_	7	parataxis:parenth	_	AlignBegin=279921|AlignEnd=280160|Gloss=thing
 12	#	#	X	_	_	13	dep	_	AlignBegin=280190|AlignEnd=280380|Gloss=PUNCT
-13	do	do	VERB	_	_	7	compound:svc	_	AlignBegin=280380|AlignEnd=280533|Gloss=do|SyllableCount=1|WordContour=mm
-14	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	obj	_	AlignBegin=280533|AlignEnd=280780|Gloss=ACC.SG.3|SyllableCount=1|WordContour=mm
+13	do	do	VERB	_	_	7	compound:svc	_	AlignBegin=280380|AlignEnd=280533|Gloss=do
+14	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	obj	_	AlignBegin=280533|AlignEnd=280780|Gloss=ACC.SG.3
 15	>	>	X	_	_	17	dep	_	AlignBegin=280780|AlignEnd=280780|Gloss=PUNCT
-16	tiger	tiger	NOUN	_	_	17	compound	_	AlignBegin=280780|AlignEnd=281210|Gloss=tiger|SyllableCount=2|WordContour=hm
-17	nut	nut	NOUN	_	_	2	dislocated	_	AlignBegin=281210|AlignEnd=281490|Gloss=nut|SyllableCount=1|WordContour=ml
-18	//	//	X	_	_	2	dep	_	AlignBegin=281490|AlignEnd=281520|Gloss=PUNCT
+16	tiger	tiger	NOUN	_	_	17	compound	_	AlignBegin=280780|AlignEnd=281210|Gloss=tiger
+17	nut	nut	NOUN	_	_	2	dislocated	_	AlignBegin=281210|AlignEnd=281520|Gloss=nut
+18	//	//	X	_	_	2	dep	_	AlignBegin=281520|AlignEnd=281520|Gloss=PUNCT
 
 ~~~
 

@@ -19,7 +19,7 @@ udver: '2'
 Even though the name of the feature seems to suggest that it is used
 exclusively with [verbs](myv-pos/VERB), this is not the case.
 The `Part` value can also be used with [adjectives](myv-pos/ADJ), while
-the `NomAg` and `Vnoun` value can also be used with [nouns](myv-pos/Noun).
+the `NomAg` and `Vnoun` value can also be used with [nouns](myv-pos/NOUN).
 
 
 ### <a name="Conv">`Conv`</a>: converb, gerund
@@ -42,13 +42,18 @@ Finite verb occurs in the conditional, subjunctive (aka conjunctive), conditiona
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-Infinitive is the citation form of verbs.
+The (first) infinitive is the citation form of verbs /-Oms/.
 It is also appears as the argument of modal and other verbs.
+There is, however, a second infinitive in /-Ome/, /-Omo/ aka as the
+nominative, locative or even supine, which like its Finnish, Estonian
+and Slavic counterparts is used instead of the first infinitive as the
+argument of motion verbs and inchoative verbs.
+
 
 #### Examples
 
-- _симемс_ &nbsp;“to drink”
-- _кортамс_ &nbsp;“to talk”
+- _эряви симемс_ &nbsp;“to drink”
+- _эряви кортамс_ &nbsp;“to talk”
 
 ### <a name="NomAg">`NomAg`</a>: Nomen Agensis
 
@@ -69,6 +74,20 @@ Participle forms are further differentiated using the feature
 * [myv] _пилень <b>дёлиця</b> вайгеленть_ "The voice <b>that is soothing</b> to the ears"
 
 
+### <a name="Sup">`Sup`</a>: infinitive
+
+The (second) infinitive in /-Ome/, /-Omo/ aka as the
+nominative, locative or even supine, which like its Finnish, Estonian
+and Slavic counterparts is used instead of the first infinitive as the
+argument of motion verbs and inchoative verbs.
+
+
+#### Examples
+
+- _кармась кортамо_ &nbsp;“he/she/it began talking”
+- _лиссь важодеме_ &nbsp;“he/she/it went out to work”
+- _састь кортамо_ &nbsp;“they came to talk”
+
 ### <a name="Vnoun">`Vnoun`</a>: verbal noun
 
 The verbal noun in Erzya represents a mixture of verb and nominal features.
@@ -77,4 +96,4 @@ The verbal noun in Erzya represents a mixture of verb and nominal features.
 
 * [myv] _пек <b>сиземадо</b> мейле мик эске лангсо мадезь удомат сы._ "after you get really tired, you will even want to fall asleep when you're lying on spikes"
 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

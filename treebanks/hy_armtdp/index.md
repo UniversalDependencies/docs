@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Marat M. Yavrumyan.
 
 Repository: [UD_Armenian-ArmTDP](https://github.com/UniversalDependencies/UD_Armenian-ArmTDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -1337,7 +1337,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Nom (780)</li>
       <li>VERB-Part--PRON (22)</li>
-      <li>VERB-Part--PRON-Nom (356)</li>
+      <li>VERB-Part--PRON-Nom (355)</li>
     </ul>
   </li>
 </ul>
@@ -1346,7 +1346,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Dat (74)</li>
-      <li>VERB-Fin--NOUN-Nom (408)</li>
+      <li>VERB-Fin--NOUN-Nom (409)</li>
       <li>VERB-Fin--PRON (12)</li>
       <li>VERB-Fin--PRON-Dat (55)</li>
       <li>VERB-Fin--PRON-Nom (33)</li>
@@ -1366,7 +1366,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON (5)</li>
       <li>VERB-Part--PRON-Dat (118)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Nom (49)</li>
+      <li>VERB-Part--PRON-Nom (50)</li>
     </ul>
   </li>
 </ul>

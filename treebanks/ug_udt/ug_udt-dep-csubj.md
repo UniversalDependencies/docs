@@ -22,15 +22,15 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 csubj	color:blue
-1	تۇرمۇشتا	تۇرمۇش	NOUN	N	Case=Loc	8	obl	_	Translit=turmushta
-2	مەسىلىلەرنى	مەسىلە	NOUN	N	Case=Acc|Number=Plur	3	obj	_	Translit=mesililerni
-3	ھەلقىلىش	_	VERB	V	_	8	csubj	_	Translit=helqilish|Morf=Unknown
-4	بىر	بىر	NUM	M	_	5	nummod	_	Translit=bir
-5	خىل	خىل	NOUN	N	Case=Nom	6	amod	_	Translit=xil
-6	ئۇسۇل	ئۇسۇل	NOUN	N	Case=Nom	8	obl	_	Translit=usul
-7	بىلەن	بىلەن	ADP	R	_	6	case	_	Translit=bilen
-8	چەكلەنمەيدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=cheklenmeydu|Morf=Unknown
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+1	تۇرمۇشتا	تۇرمۇش	NOUN	N	Case=Loc	8	obl	_	Translit=turmushta|LTranslit=turmush
+2	مەسىلىلەرنى	مەسىلە	NOUN	N	Case=Acc|Number=Plur	3	obj	_	Translit=mesililerni|LTranslit=mesile
+3	ھەلقىلىش	_	VERB	V	_	8	csubj	_	Morf=Unknown|Translit=helqilish
+4	بىر	بىر	NUM	M	_	5	nummod	_	Translit=bir|LTranslit=bir
+5	خىل	خىل	NOUN	N	Case=Nom	6	amod	_	Translit=xil|LTranslit=xil
+6	ئۇسۇل	ئۇسۇل	NOUN	N	Case=Nom	8	obl	_	Translit=usul|LTranslit=usul
+7	بىلەن	بىلەن	ADP	R	_	6	case	_	Translit=bilen|LTranslit=bilen
+8	چەكلەنمەيدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Morf=Unknown|Translit=cheklenmeydu
+9	.	.	PUNCT	Y	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -41,13 +41,13 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 csubj	color:blue
-1	-	-	PUNCT	Y	_	6	punct	_	Translit=-
-2	بىزدىن	بىز	PRON	P	Case=Abl|Number=Plur|Person=1|PronType=Prs	5	obl	_	Translit=bizdin
-3	ئۇنداق	ئۇنداق	DET	P	_	4	det	_	Translit=undaq
-4	سوئالنى	سوئال	NOUN	N	Case=Acc	5	obj	_	Translit=soalni
-5	سورىغىنىڭىز	_	VERB	V	_	6	csubj	_	Translit=sorighiningiz|Morf=Unknown
-6	نېمىسى	نېمىس	ADJ	P	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	0	root	_	SpaceAfter=No|Translit=nëmisi
-7	؟	؟	PUNCT	Y	_	6	punct	_	Translit=?
+1	-	-	PUNCT	Y	_	6	punct	_	Translit=-|LTranslit=-
+2	بىزدىن	بىز	PRON	P	Case=Abl|Number=Plur|Person=1|PronType=Prs	5	obl	_	Translit=bizdin|LTranslit=biz
+3	ئۇنداق	ئۇنداق	DET	P	_	4	det	_	Translit=undaq|LTranslit=undaq
+4	سوئالنى	سوئال	NOUN	N	Case=Acc	5	obj	_	Translit=soalni|LTranslit=soal
+5	سورىغىنىڭىز	_	VERB	V	_	6	csubj	_	Morf=Unknown|Translit=sorighiningiz
+6	نېمىسى	نېمىس	ADJ	P	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	0	root	_	SpaceAfter=No|Translit=nëmisi|LTranslit=nëmis
+7	؟	؟	PUNCT	Y	_	6	punct	_	Translit=?|LTranslit=?
 
 ~~~
 
@@ -58,15 +58,15 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 csubj	color:blue
-1	دەرۋەقە	دەرۋەقە	ADV	T	_	8	mark	_	SpaceAfter=No|Translit=derweqe
-2	،	،	PUNCT	Y	_	1	punct	_	Translit=,
-3	يەنە	يەنە	ADV	D	_	4	mark	_	Translit=yene
-4	بەزىلەر	بەزى	ADJ	P	Case=Nom|Number=Plur	7	nsubj	_	Translit=beziler
-5	س	_	NOUN	N	_	6	nmod	_	Translit=s|Morf=Unknown
-6	شەكىلنى	شەكىل	NOUN	N	Case=Acc	7	obj	_	Translit=shekilni
-7	تاللىشى	تاللى	VERB	V	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	8	csubj	_	Translit=tallishi
-8	مۇمكىن	مۇمكىن	NOUN	A	Case=Nom	0	root	_	SpaceAfter=No|Translit=mumkin
-9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
+1	دەرۋەقە	دەرۋەقە	ADV	T	_	8	mark	_	SpaceAfter=No|Translit=derweqe|LTranslit=derweqe
+2	،	،	PUNCT	Y	_	1	punct	_	Translit=,|LTranslit=,
+3	يەنە	يەنە	ADV	D	_	4	mark	_	Translit=yene|LTranslit=yene
+4	بەزىلەر	بەزى	ADJ	P	Case=Nom|Number=Plur	7	nsubj	_	Translit=beziler|LTranslit=bezi
+5	س	_	NOUN	N	_	6	nmod	_	Morf=Unknown|Translit=s
+6	شەكىلنى	شەكىل	NOUN	N	Case=Acc	7	obj	_	Translit=shekilni|LTranslit=shekil
+7	تاللىشى	تاللى	VERB	V	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|VerbForm=Ger	8	csubj	_	Translit=tallishi|LTranslit=talli
+8	مۇمكىن	مۇمكىن	NOUN	A	Case=Nom	0	root	_	SpaceAfter=No|Translit=mumkin|LTranslit=mumkin
+9	.	.	PUNCT	Y	_	8	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

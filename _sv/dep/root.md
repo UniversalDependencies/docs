@@ -16,4 +16,4 @@ root(ROOT, älskar)
 ROOT Bill är en ärlig man \n ROOT Bill is an honest man
 root(ROOT, man-6)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:45 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:48 CEST -->

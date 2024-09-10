@@ -11,34 +11,34 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_framenet-feat-Person.html">Person</a></tt>, <tt><a href="tr_framenet-feat-Person-psor.html">Person[psor]</a></tt>.
 
-10311 tokens (54%) have a non-empty value of `Person`.
-6773 types (86%) occur at least once with a non-empty value of `Person`.
-3132 lemmas (80%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (6972; 36% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3337; 17% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+10304 tokens (54%) have a non-empty value of `Person`.
+6768 types (86%) occur at least once with a non-empty value of `Person`.
+3123 lemmas (80%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (6965; 36% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3337; 17% instances), <tt><a href="tr_framenet-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-6972 <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
+6965 <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6077; 87%), <tt><a href="tr_framenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4763; 68%), <tt><a href="tr_framenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4763; 68%), <tt><a href="tr_framenet-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3543; 51%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6068; 87%), <tt><a href="tr_framenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4755; 68%), <tt><a href="tr_framenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4755; 68%), <tt><a href="tr_framenet-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3535; 51%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `3` (6972; 100% of non-empty `Person`): <em>para, adam, çocuk, şey, gün, iş, şeyi, ay, işi, başına</em>
+* `3` (6965; 100% of non-empty `Person`): <em>para, adam, çocuk, şey, gün, iş, şeyi, ay, işi, başına</em>
 
-`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (2339) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (2333) occur only with one value of `Person`.
 
 ### `VERB`
 
 3337 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3332; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3005; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2893; 87%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2731; 82%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2486; 74%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2168; 65%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3332; 100%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3007; 90%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2892; 87%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2731; 82%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2485; 74%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2168; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (682; 20% of non-empty `Person`): <em>ettim, oldum, aldım, ettik, kazandım, verdim, attım, dolaştım, kaldık, ederim</em>
-* `2` (243; 7% of non-empty `Person`): <em>et, bırak, aç, değiştir, göreceksin, al, dinle, gel, geç, çabala</em>
-* `3` (2412; 72% of non-empty `Person`): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, gitti, çıktı</em>
+* `1` (681; 20% of non-empty `Person`): <em>ettim, oldum, aldım, ettik, kazandım, verdim, attım, dolaştım, kaldık, ederim</em>
+* `2` (243; 7% of non-empty `Person`): <em>et, bırak, aç, değiştir, geç, göreceksin, al, dinle, gel, çabala</em>
+* `3` (2413; 72% of non-empty `Person`): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, gitti, çıktı</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -67,6 +67,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>etme</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>et</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>etmeyin</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>edin</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Nec</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>etmeliyiz</em></td><td><em>etmelisiniz</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>edelim</em></td><td></td><td></td></tr>
 </table>
@@ -93,13 +94,13 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (983; 74%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (861; 98%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (856; 98%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-obj.html">obj</a></tt>]--> NOUN</tt> (715; 68%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-obl.html">obl</a></tt>]--> NOUN</tt> (660; 75%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-obl.html">obl</a></tt>]--> NOUN</tt> (661; 75%),
 <tt>NOUN --[<tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (646; 100%),
-<tt>NOUN --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (337; 100%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (247; 66%),
+<tt>NOUN --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (335; 100%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (246; 66%),
 <tt>VERB --[<tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (187; 73%),
-<tt>NOUN --[<tt><a href="tr_framenet-dep-obj.html">obj</a></tt>]--> NOUN</tt> (139; 100%),
-<tt>VERB --[<tt><a href="tr_framenet-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (132; 75%).
+<tt>NOUN --[<tt><a href="tr_framenet-dep-obj.html">obj</a></tt>]--> NOUN</tt> (140; 100%),
+<tt>VERB --[<tt><a href="tr_framenet-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (132; 74%).
 

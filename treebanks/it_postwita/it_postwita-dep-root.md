@@ -11,7 +11,7 @@ This relation is universal.
 6712 nodes (5%) are attached to their parents as `root`.
 
 6712 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.91984505363528.
+Average distance between parent and child is 4.91939809296782.
 
 The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (3650; 54% instances), -<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1659; 25% instances), -<tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (439; 7% instances), -<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (359; 5% instances), -<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (178; 3% instances), -<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (149; 2% instances), -<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (129; 2% instances), -<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (87; 1% instances), -<tt><a href="it_postwita-pos-X.html">X</a></tt> (43; 1% instances), -<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (4; 0% instances).
 

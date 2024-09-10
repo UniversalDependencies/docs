@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 5	Mubalik	balik	VERB	_	Aspect=Imp|Mood=Ind|Voice=Act	1	parataxis	_	Gloss=will.return
 6	lang	lang	PART	_	_	5	advmod	_	Gloss=just
-7	ko	ko	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I
+7	ko	ako	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I
 8	unya	unya	ADV	_	_	5	advmod	_	Gloss=later|SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	Pakitaa	kita	VERB	_	Mood=Imp|Voice=Ifoc	0	root	_	Gloss=let.see
 2	ko	ako	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=me
 3	sa	sa	ADP	_	Case=Dat	6	case	_	_
-4	iyaha	iya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=his
+4	iyaha	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	6	nmod	_	Gloss=his
 5	-ng	nga	PART	_	_	4	mark	_	Gloss=LINK
 6	litrato	litrato	NOUN	_	_	1	obj	_	Gloss=picture
 7	be	be	INTJ	_	_	1	discourse	_	SpaceAfter=No

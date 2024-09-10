@@ -45,18 +45,18 @@ The following 25 pairs of parts of speech are connected with `advcl:tcl`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 advcl:tcl	color:blue
-1	Noaptea	noapte	ADV	Rg	_	12	advmod:tmod	_	|SpaceAfter=No
+1	Noaptea	noapte	ADV	Rg	_	12	advmod:tmod	_	SpaceAfter=No
 2	,	,	PUNCT	COMMA	_	6	punct	_	_
 3	când	când	ADV	Rw	PronType=Int,Rel	6	advmod:tmod	_	_
 4	eu	eu	PRON	Pp1-sr	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	mă	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	6	expl:pv	_	_
-6	trezesc	trezi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl:tcl	_	|SpaceAfter=No
+6	trezesc	trezi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl:tcl	_	SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	6	punct	_	_
 8	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
 9	viața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obl:pmod	_	_
 10	mea	meu	DET	Ds1fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	9	det	_	_
 11	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	12	expl:pv	_	_
-12	gândesc	gândi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	|SpaceAfter=No
+12	gândesc	gândi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	PERIOD	_	12	punct	_	_
 
 ~~~

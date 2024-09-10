@@ -31,12 +31,12 @@ obj(love, who)
 
 ~~~ sdparse
 Я увидел этого мужчину в стране , где я не хотел бы оказаться снова \n I saw that man in the country , where I would not like to turn up again
-obl(увидел, саду)
-obl(saw, garden)
-acl:relcl(саду, хотел)
-acl:relcl(garden, like)
+obl(увидел, стране)
+obl(saw, country)
+acl:relcl(стране, хотел)
+acl:relcl(country, like)
 nsubj(увидел, Я)
-nsubj(saw, I-17)
+nsubj(saw, I)
 obj(увидел, мужчину)
 obj(saw, man)
 ~~~
@@ -49,4 +49,4 @@ nsubj(опаздывает, Мужчина)
 nsubj(late, man)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:31 CEST -->

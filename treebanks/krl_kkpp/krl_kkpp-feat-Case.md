@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 14 different values: `Abe`, `Abl`, `Acc`, `Ade`, `Com`, `Ela`, `Ess`, `Gen`, `Ill`, `Ine`, `Ins`, `Nom`, `Par`, `Tra`.
 
-1587 tokens (51%) have a non-empty value of `Case`.
+1586 tokens (51%) have a non-empty value of `Case`.
 1015 types (72%) occur at least once with a non-empty value of `Case`.
 620 lemmas (66%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (838; 27% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (288; 9% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (213; 7% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (181; 6% instances), <tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (42; 1% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (837; 27% instances), <tt><a href="krl_kkpp-pos-PRON.html">PRON</a></tt> (288; 9% instances), <tt><a href="krl_kkpp-pos-ADJ.html">ADJ</a></tt> (213; 7% instances), <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt> (181; 6% instances), <tt><a href="krl_kkpp-pos-NUM.html">NUM</a></tt> (42; 1% instances), <tt><a href="krl_kkpp-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="krl_kkpp-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="krl_kkpp-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-838 <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+837 <tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (588; 70%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="krl_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (587; 70%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Ine` (70; 8% of non-empty `Case`): <em>yhteistyöššä, kylissä, ativoissa, kilpailušša, lopušša, roolissa, -eepossašta, -leheššä, -teatterissa, -tehnikašša</em>
 * `Ins` (1; 0% of non-empty `Case`): <em>ropehellisin</em>
 * `Nom` (225; 27% of non-empty `Case`): <em>muamo, poika, tunti, ropehet, aktijo, luokka, peli, tuatto, valot, eläjät</em>
-* `Par` (168; 20% of non-empty `Case`): <em>ihmisie, hilluo, henkie, kulttuurie, lapšie, lauluja, muata, kaupunkie, kertua, kevätkuuta</em>
+* `Par` (167; 20% of non-empty `Case`): <em>ihmisie, hilluo, henkie, kulttuurie, lapšie, lauluja, muata, kaupunkie, kertua, kevätkuuta</em>
 * `Tra` (7; 1% of non-empty `Case`): <em>kunnivokši, voittajakši, karjalakši, runonlaulajakši, tunniksi</em>
 * `EMPTY` (2): <em>klo, ven.</em>
 
@@ -111,12 +111,12 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (77; 43% of non-empty `Case`): <em>Karjalan, Kalevalan, Venäjän, Kiestinkin, Petroskoin, Art-teltan, Kižin, Pohjolan, WWF:n, Ainon</em>
 * `Ill` (4; 2% of non-empty `Case`): <em>Manalah, Karjalah</em>
 * `Ine` (14; 8% of non-empty `Case`): <em>Petroskoissa, Petroskoissaki, Aunukšešša, Australijašša, Eremitaašissa, Hristossa, Kalevalašša, Karjalašša, Moskovašša, Pariisissa</em>
-* `Nom` (68; 38% of non-empty `Case`): <em>Kalevala, Anna, Irina, WWF, Art-teltta, Lemminkäini, L’udmila, Mugačeva, Tatjana, Akropolis</em>
-* `Par` (4; 2% of non-empty `Case`): <em>Annua, Joukahaista, Vlasovua, Šeinua</em>
+* `Nom` (67; 37% of non-empty `Case`): <em>Kalevala, Anna, Irina, WWF, Art-teltta, Lemminkäini, L’udmila, Mugačeva, Tatjana, Akropolis</em>
+* `Par` (5; 3% of non-empty `Case`): <em>Annua, Joukahaista, Kalevala-, Vlasovua, Šeinua</em>
 
 <table>
   <tr><th>Paradigm <i>Kalevala</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ine</tt></th><th><tt>Ela</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Kalevala, Kalevala-</em></td><td><em>Kalevalan</em></td><td><em>Kalevalašša</em></td><td><em>Kalevalašta</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Kalevala</em></td><td><em>Kalevalan</em></td><td><em>Kalevalašša</em></td><td><em>Kalevalašta</em></td></tr>
 </table>
 
 ### `NUM`

@@ -8,46 +8,41 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="id_gsd-dep-cc.html">cc</a></tt>.
 
-7 nodes (0%) are attached to their parents as `cc:preconj`.
+8 nodes (0%) are attached to their parents as `cc:preconj`.
 
-7 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.28571428571429.
+8 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25.
 
-The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (4; 57% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 29% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances).
+The following 3 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (5; 63% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 25% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 16 cc:preconj	color:blue
-1	Pada	pada	ADP	R--	_	2	case	_	Morf=^pada<r>_R--$
-2	penggunaan	guna	NOUN	NSD	Number=Sing	8	obl	_	Morf=^peN+guna<n>+an_NSD$
-3	di	di	ADP	R--	_	4	case	_	Morf=^di<r>_R--$
-4	zaman	zaman	NOUN	NSD	Number=Sing	2	nmod	_	Morf=^zaman<n>_NSD$
-5	modern	modern	ADJ	ASP	_	4	amod	_	SpaceAfter=No|Morf=^modern<a>_ASP$
-6	,	,	PUNCT	Z--	_	2	punct	_	Morf=^,<z>_Z--$
-7	ondol	ondol	NOUN	X--	_	8	nsubj	_	Morf=^ondol<x>_X--$
-8	mengacu	acu	VERB	VSA	Mood=Ind|Voice=Act	0	root	_	Morf=^meN+acu<v>_VSA$
-9	pada	pada	ADP	R--	_	11	case	_	Morf=^pada<r>_R--$
-10	segala	segala	DET	B--	PronType=Tot	11	det	_	Morf=^segala<b>_B--$
-11	macam	macam	NOUN	NSD	Number=Sing	8	obl	_	Morf=^macam<n>_NSD$
-12	pemanas	panas	NOUN	NSD	Number=Sing	11	compound	_	Morf=^peN+panas<n>_NSD$
-13	bawah	bawah	NOUN	NSD	Number=Sing	12	compound	_	Morf=^bawah<n>_NSD$
-14	tanah	tanah	NOUN	NSD	Number=Sing	13	compound	_	SpaceAfter=No|Morf=^tanah<n>_NSD$
-15	,	,	PUNCT	Z--	_	18	punct	_	Morf=^,<z>_Z--$
-16	baik	baik	CCONJ	ASP	_	18	cc:preconj	_	Morf=^baik<a>_ASP$
-17	di	di	ADP	R--	_	18	case	_	Morf=^di<r>_R--$
-18	hotel	hotel	NOUN	NSD	Number=Sing	11	nmod	_	Morf=^hotel<n>_NSD$
-19	maupun	maupun	CCONJ	H--	_	21	cc	_	Morf=^maupun<h>_H--$
-20	di	di	ADP	R--	_	21	case	_	Morf=^di<r>_R--$
-21	rumah	rumah	NOUN	NSD	Number=Sing	18	conj	_	Morf=^rumah<n>_NSD$
-22	gaya	gaya	NOUN	NSD	Number=Sing	21	compound	_	Morf=^gaya<n>_NSD$
-23	Barat	barat	PROPN	NSD	_	22	nmod	_	Morf=^barat<n>_NSD$
-24	di	di	ADP	R--	_	25	case	_	Morf=^di<r>_R--$
-25	Korea	korea	PROPN	NSD	_	21	nmod	_	SpaceAfter=No|Morf=^korea<n>_NSD$
-26	.	.	PUNCT	Z--	_	8	punct	_	Morf=^.<z>_Z--$
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 10 cc:preconj	color:blue
+1	Banyak	banyak	ADV	B--	PronType=Ind	4	advmod	_	Morf=^banyak<b>_B--$
+2	pula	pula	ADV	D--	_	4	advmod	_	Morf=^pula<d>_D--$
+3	berbagai	berbagai	DET	B--	Number=Plur|PronType=Ind	4	det	_	Morf=^berbagai<b>_B--$
+4	jenis	jenis	NOUN	NSD	Number=Sing	0	root	_	Morf=^jenis<n>_NSD$
+5	tumbuhan	tumbuh	NOUN	NSD	Number=Sing	4	compound	_	Morf=^tumbuh<v>+an_NSD$
+6	yang	yang	PRON	S--	PronType=Rel	8	nsubj:pass	_	Morf=^yang<s>_S--$
+7	telah	telah	AUX	D--	_	8	aux	_	Morf=^telah<d>_D--$
+8	dimanfaatkan	manfaat	VERB	VSP	Mood=Ind|Voice=Pass	4	acl:relcl	_	Morf=^di+manfaat<n>+kan_VSP$
+9	masyarakat	masyarakat	NOUN	NSD	Number=Sing	8	obj	_	Morf=^masyarakat<n>_NSD$
+10	baik	baik	CCONJ	ASP	_	12	cc:preconj	_	Morf=^baik<a>_ASP$
+11	untuk	untuk	ADP	R--	_	12	case	_	Morf=^untuk<r>_R--$
+12	kayu	kayu	NOUN	NSD	Number=Sing	8	obl	_	Morf=^kayu<n>_NSD$
+13	pertukangan	tukang	NOUN	NSD	Number=Sing	12	compound	_	SpaceAfter=No|Morf=^per+tukang<n>+an_NSD$
+14	,	,	PUNCT	Z--	_	15	punct	_	Morf=^,<z>_Z--$
+15	obat-obatan	obat	NOUN	NSD	Number=Sing	12	conj	_	Morf=^obat<n>_NSD$|SpaceAfter=No
+16	,	,	PUNCT	Z--	_	17	punct	_	Morf=^,<z>_Z--$
+17	tanaman	tanam	NOUN	NSD	Number=Sing	12	conj	_	Morf=^tanam<v>+an_NSD$
+18	hias	hias	VERB	VSA	Mood=Ind|Voice=Act	17	amod	_	Morf=^hias<v>_VSA$
+19	maupun	maupun	CCONJ	H--	_	20	cc	_	Morf=^maupun<h>_H--$
+20	pangan	pangan	NOUN	NSD	Number=Sing	12	conj	_	SpaceAfter=No|Morf=^pangan<n>_NSD$
+21	.	.	PUNCT	Z--	_	4	punct	_	Morf=^.<z>_Z--$
 
 ~~~
 

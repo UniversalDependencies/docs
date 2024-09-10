@@ -93,7 +93,7 @@ The following 11 pairs of parts of speech are connected with `iobj`: <tt><a href
 18	.	.	PUNCT	FS	_	17	punct	_	_
 19	[	[	PUNCT	FB	_	20	punct	_	SpaceAfter=No
 20	talia	talia	NOUN	S	Gender=Fem|Number=Sing	1	parataxis	_	SpaceAfter=No
-21	]	]	PUNCT	FB	_	20	punct	_	SpaceAfter=\n
+21	]	]	PUNCT	FB	_	20	punct	_	SpacesAfter=\n
 
 ~~~
 

@@ -18,36 +18,14 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod	color:blue
-1	Kerem	Kerem	PROPN	Prop	Case=Nom|Number=Sing|Person=3	8	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	Punc	_	8	punct	_	_
-3	özgürlüğünü	özgürlük	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	obj	_	_
-4	teslim	teslim	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	obl	_	_
-5	ettiği	et	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	compound:lvc	_	_
-6	için	için	ADP	PCNom	_	4	case	_	_
-7	sanki	sanki	ADV	Adverb	_	8	advmod	_	_
-8	rahatlamıştı	rahatla	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	Punc	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Orada	ora	NOUN	Noun	Case=Loc|Number=Sing|Person=3	3	amod	_	_
-2	ki	ki	ADP	Rel	_	1	case	_	_
-3	tartışma	tartış	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	5	nsubj	_	_
-4	hayli	hayli	ADV	Adverb	_	5	advmod	_	_
-5	zengin	zengin	ADJ	Adj	_	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod	color:blue
+1	Aç	aç	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	0	root	_	_
+2	şimdi	şimdi	ADV	Adverb	_	1	advmod	_	SpaceAfter=No
+3	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
 
@@ -55,20 +33,30 @@ The following 26 pairs of parts of speech are connected with `advmod`: <tt><a hr
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	Öyle	öyle	ADV	Adverb	_	2	advmod	_	_
+2	kolay	kolay	ADJ	Adj	_	3	advmod	_	_
+3	gelmez	gel	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	_
+4	ki	ki	CCONJ	Conj	_	3	advmod:emph	_	_
+5	o	o	PRON	Pers	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpaceAfter=No
+6	.	.	PUNCT	Punc	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 advmod	color:blue
-1	Ne	ne	ADV	Adverb	_	3	advmod	_	_
-2	güzel	güzel	ADJ	Adj	_	3	amod	_	_
-3	günler	gün	NOUN	Noun	Case=Nom|Number=Plur|Person=3	0	root	_	_
-4	di	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	_
-5	değil	değil	VERB	Neg	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	conj	_	_
-6	mi	mi	AUX	Ques	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux:q	_	SpaceAfter=No
-7	?	?	PUNCT	Punc	_	8	punct	_	_
-8	Ah	ah	INTJ	Interj	_	3	discourse	_	SpaceAfter=No
-9	,	,	PUNCT	Punc	_	10	punct	_	_
-10	ah	ah	INTJ	Interj	_	3	discourse	_	SpaceAfter=No
-11	...	...	PUNCT	Punc	_	10	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	Haber	haber	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	vermemesi	ver	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	1	compound	_	_
+3	çok	çok	ADV	Adverb	_	4	advmod	_	_
+4	tuhaf	tuhaf	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 

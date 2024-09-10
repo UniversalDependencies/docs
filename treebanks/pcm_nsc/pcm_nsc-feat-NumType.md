@@ -29,10 +29,12 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pcm_nsc-pos-NUM.htm
 
 108 <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (100; 93%).
+
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (108; 100% of non-empty `NumType`): <em>first, second, third, fourth, eleventh, tenth, eighteenth, fifth, twenty-fourth</em>
-* `EMPTY` (3431): <em>small, own, good, kind, different, better, many, plenty, big, oder</em>
+* `EMPTY` (3438): <em>small, own, good, kind, different, better, many, big, plenty, oder</em>
 
 ### `NOUN`
 
@@ -43,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (13; 100% of non-empty `NumType`): <em>one, sixteen</em>
-* `EMPTY` (14731): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `EMPTY` (14734): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `X`
 
@@ -52,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>thou~</em>
-* `EMPTY` (40230): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40247): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ## Relations with Agreement in `NumType`
 

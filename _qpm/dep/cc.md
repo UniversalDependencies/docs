@@ -49,3 +49,4 @@ lit: but you, what yourself stroll that way - this way?
 "but you, why do you stroll back and forth?"
 cc (razhóždaš, am)
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->

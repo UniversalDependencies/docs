@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-PART.htm
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (2489; 100% of non-empty `Polarity`): <em>не, ня, ні, НЕЕЕ, ані, 🎄Не</em>
-* `EMPTY` (2394): <em>і, толькі, гэта, вось, ж, нават, проста, жа, менавіта, ну</em>
+* `EMPTY` (2398): <em>і, толькі, гэта, вось, ж, нават, проста, жа, менавіта, ну</em>
 
 ### `VERB`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (64; 100% of non-empty `Polarity`): <em>ні, ані, ТАКСАМА</em>
-* `EMPTY` (8935): <em>і, а, але, ці, ды, або, й, Таксама, аднак, i</em>
+* `EMPTY` (8936): <em>і, а, але, ці, ды, або, й, Таксама, аднак, i</em>
 
 ### `ADV`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (12; 100% of non-empty `Polarity`): <em>нягледзячы, негледзячы</em>
-* `EMPTY` (11032): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
+* `EMPTY` (11028): <em>як, яшчэ, больш, тут, таксама, так, дзе, таму, ўжо, цяпер</em>
 

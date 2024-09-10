@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ca_ancora-pos-PRON.
 
 6616 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (28% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6616; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6616; 100%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (6616; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6616; 100%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (6590; 100%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (6590; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6616; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6616; 100%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (6616; 100%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6616; 100%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (6590; 100%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=Acc,Dat</tt> (6505; 98%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

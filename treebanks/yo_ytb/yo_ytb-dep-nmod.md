@@ -61,22 +61,22 @@ The following 25 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 nmod	color:blue
-1	Alábùkún	Alábùkún	ADJ	_	_	8	nsubj	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=blessed
-2	-	-	PUNCT	_	_	3	punct	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=the
-3	fún	fún	ADP	_	_	1	compound	_	Ref=MATT_5.4|Gloss=unto
-4	ni	ni	PART	_	_	6	case	_	Ref=MATT_5.4|Gloss=is
-5	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nmod	_	Ref=MATT_5.4|Gloss=they
-6	tí	tí	PRON	_	PronType=Rel	8	nmod	_	Ref=MATT_5.4|Gloss=that
-7	ń	ń	AUX	_	_	8	aux	_	Ref=MATT_5.4|Gloss=that
-8	ṣọ̀fọ̀	ṣọ̀fọ̀	VERB	_	_	0	root	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=mourn
-9	,	,	PUNCT	_	_	13	punct	_	Ref=MATT_5.4|Gloss=,
-10	nítorí	nítorí	SCONJ	_	_	13	mark	_	Ref=MATT_5.4|Gloss=for
-11	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Ref=MATT_5.4|Gloss=we
-12	ó	ó	AUX	_	_	13	aux	_	Ref=MATT_5.4|Gloss=will
-13	tù	tù	VERB	_	_	8	advcl	_	Ref=MATT_5.4|Gloss=comfort
-14	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	Ref=MATT_5.4|Gloss=them
-15	nínú	nínú	ADP	_	_	13	obl	_	Ref=MATT_5.4|SpaceAfter=No|Gloss=inside
-16	.	.	PUNCT	_	_	8	punct	_	Ref=MATT_5.4|Gloss=.
+1	Alábùkún	Alábùkún	ADJ	_	_	8	nsubj	_	Gloss=blessed|Ref=MATT_5.4|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Gloss=the|Ref=MATT_5.4|SpaceAfter=No
+3	fún	fún	ADP	_	_	1	compound	_	Gloss=unto|Ref=MATT_5.4
+4	ni	ni	PART	_	_	6	case	_	Gloss=is|Ref=MATT_5.4
+5	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nmod	_	Gloss=they|Ref=MATT_5.4
+6	tí	tí	PRON	_	PronType=Rel	8	nmod	_	Gloss=that|Ref=MATT_5.4
+7	ń	ń	AUX	_	_	8	aux	_	Gloss=that|Ref=MATT_5.4
+8	ṣọ̀fọ̀	ṣọ̀fọ̀	VERB	_	_	0	root	_	Gloss=mourn|Ref=MATT_5.4|SpaceAfter=No
+9	,	,	PUNCT	_	_	13	punct	_	Gloss=,|Ref=MATT_5.4
+10	nítorí	nítorí	SCONJ	_	_	13	mark	_	Gloss=for|Ref=MATT_5.4
+11	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=we|Ref=MATT_5.4
+12	ó	ó	AUX	_	_	13	aux	_	Gloss=will|Ref=MATT_5.4
+13	tù	tù	VERB	_	_	8	advcl	_	Gloss=comfort|Ref=MATT_5.4
+14	wọ́n	wọ́n	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	13	obj	_	Gloss=them|Ref=MATT_5.4
+15	nínú	nínú	ADP	_	_	13	obl	_	Gloss=inside|Ref=MATT_5.4|SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	Gloss=.|Ref=MATT_5.4
 
 ~~~
 

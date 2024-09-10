@@ -22,4 +22,4 @@ The `nsubj` relation links a subject to its predicate, and this subject must be 
 3	immediately."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:34 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:26 CEST -->

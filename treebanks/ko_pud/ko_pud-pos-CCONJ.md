@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: _
 
 The 10 most frequent `CCONJ` types:  및, 그러나, 그리고, 또는, 하지만, 그래서, 그런데
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 663, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 104, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 7.000000 (the average of all parts of speech is 3.187571).
+The form / lemma ratio of `CCONJ` is 7.000000 (the average of all parts of speech is 3.181543).
 
 The 1st highest number of forms (7) was observed with the lemma “_”: 그래서, 그러나, 그런데, 그리고, 또는, 및, 하지만.
 

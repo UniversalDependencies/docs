@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Relations: `nmod`
 
 This relation is universal.
-There are 3 language-specific subtypes of `nmod`: <tt><a href="kpv_ikdp-dep-nmod-appos.html">nmod:appos</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-prp.html">nmod:prp</a></tt>.
+There are 2 language-specific subtypes of `nmod`: <tt><a href="kpv_ikdp-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="kpv_ikdp-dep-nmod-prp.html">nmod:prp</a></tt>.
 
-91 nodes (4%) are attached to their parents as `nmod`.
+89 nodes (4%) are attached to their parents as `nmod`.
 
-72 instances of `nmod` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83516483516484.
+70 instances of `nmod` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85393258426966.
 
-The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (44; 48% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (18; 20% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (6; 7% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (44; 49% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (18; 20% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,20 +52,22 @@ The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nmod	color:blue
-1	Вӧдзӧ	вӧдзӧ	ADV	Adv	Case=Ill|Number=Sing	5	advmod:tmod	_	_
-2	дик	дик	ADJ	A	Case=Nom|Number=Sing	3	amod	_	GTtags=Sg,Nom
-3	Иван	Иван	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	GTtags=Sem/Mal,Prop,Sg,Nom
-4	ойын	ой	NOUN	N	Case=Ine|Number=Sing	5	obl	_	GTtags=Sg,Ine
-5	думайтіс	думайтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	OrigLang=ru|GTtags=IV,Ind,Prt1,Sg3
-6	мӧдны	мӧдны	VERB	V	VerbForm=Inf	5	xcomp	_	GTtags=IV,Inf
-7	Йӧртым	Йӧртым	PROPN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Prop,Sem/Plc,Sg,Nom
-8	туйӧ	туйӧ	NOUN	N	Case=Ill|Number=Sing	6	obl	_	GTtags=Sg,Ill|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 10 nmod	color:blue
+1	А	а	CCONJ	CC	_	3	cc	_	OrigLang=ru
+2	храмыс	храм	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
+3	восьса	восьса	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
+4	дзик	дзик	ADV	Adv	_	6	advmod:deg	_	_
+5	быд	быд	PRON	Pron	PronType=Tot	6	det	_	_
+6	лун	лун	NOUN	N	Case=Nom|Number=Sing	3	obl	_	_
+7	с	с	ADP	Pr	_	8	case	_	Lang=ru
+8	десяти	десять	NUM	Num	NumType=Card	3	nmod	_	Lang=ru
+9	до	до	ADP	Pr	_	10	case	_	Lang=ru
+10	часу	час	NOUN	N	Case=Dat|Number=Sing	3	nmod	_	Lang=ru|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

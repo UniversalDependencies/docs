@@ -23,8 +23,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
 1	Nican	nican	ADV	_	_	3	advmod	3:advmod	NormalizedForm=nikan|NormalizedLemma=nikan
-2	neh	neh	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	NormalizedForm=neh|NormalizedLemma=neh
-3	in	mati	VERB	_	Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Fut|Typo=Yes	0	root	0:root	NormalizedForm=in|NormalizedLemma=mati
+2	neh	nehuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	NormalizedForm=neh|NormalizedLemma=nehwatl
+3	in	mati	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Fut|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=inmomatis|NormalizedForm=in|NormalizedLemma=mati
 4	momatis	_	X	_	_	3	goeswith	3:goeswith	SpaceAfter=No|NormalizedForm=momatis|NormalizedLemma=_
 5	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
 
@@ -39,9 +39,9 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3 4 goeswith	color:blue
 1	“	“	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No|NormalizedForm=“|NormalizedLemma=“
 2	¡	¡	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No|NormalizedForm=¡|NormalizedLemma=¡
-3	Amo	amo	ADV	_	Polarity=Neg|Typo=Yes	5	advmod	5:advmod	NormalizedForm=amo|NormalizedLemma=amo
+3	Amo	amoqueman	ADV	_	Polarity=Neg|Typo=Yes	5	advmod	5:advmod	CorrectForm=Amoqueman|NormalizedForm=amo|NormalizedLemma=amo
 4	queman	_	X	_	_	3	goeswith	3:goeswith	NormalizedForm=keman|NormalizedLemma=_
-5	ixtlahcolcahua	tlahcolcahua	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Subcat=Tran	0	root	0:root	NormalizedForm=ixtlahkolkawa|NormalizedLemma=tlahkolkawa
+5	ixtlahcolcahua	tlahcolcahua	VERB	_	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Subcat=Tran|VerbForm=Fin	0	root	0:root	NormalizedForm=ixtlahkolkawa|NormalizedLemma=tlahkolkawa
 6	ce	ce	DET	_	_	7	det	7:det	NormalizedForm=se|NormalizedLemma=se
 7	tiquitl	tiquitl	NOUN	_	Case=Abs|Number=Sing	5	obj	5:obj	SpaceAfter=No|NormalizedForm=tikitl|NormalizedLemma=tikitl
 8	!	!	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No|NormalizedForm=!|NormalizedLemma=!

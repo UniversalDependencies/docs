@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 11794 tokens (2%) have a non-empty value of `Compound`.
 280 types (1%) occur at least once with a non-empty value of `Compound`.
-102 lemmas (1%) occur at least once with a non-empty value of `Compound`.
+103 lemmas (1%) occur at least once with a non-empty value of `Compound`.
 The feature is used with 4 part-of-speech tags: <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (9977; 2% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1081; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (734; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `ADP`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADP` and `Compound` co-occurr
 
 * `Yes` (9977; 100% of non-empty `Compound`): <em>din, pentru, după, den, prin, preste, pren, pentr-, despre, pînă</em>
 
-`Compound` seems to be **lexical feature** of `ADP`. 100% lemmas (74) occur only with one value of `Compound`.
+`Compound` seems to be **lexical feature** of `ADP`. 100% lemmas (75) occur only with one value of `Compound`.
 
 ### `CCONJ`
 

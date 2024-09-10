@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 11	negra	negro	ADJ	A0fs	Gender=Fem|Number=Sing	10	amod	_	_
 12	de	de	ADP	P	AdpType=Prep	14	case	_	_
 13	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	Prestige	Prestige	PROPN	Spms	Gender=Masc|Number=Sing	10	nmod	_	_
+14	Prestige	prestige	PROPN	Sp00	_	10	nmod	_	_
 15	non	non	ADV	Wn	Polarity=Neg	16	advmod	_	_
 16	entende	entender	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	de	de	ADP	P	AdpType=Prep	18	case	_	_
@@ -53,7 +53,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 29	ou	ou	CCONJ	Cc	_	32	cc	_	_
 30	de	de	ADP	P	AdpType=Prep	32	case	_	_
 31	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
-32	TVG	TVG	PROPN	Zgfs	Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
+32	TVG	tvg	PROPN	Zgfs	Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
 33	.	.	PUNCT	Q.	_	24	punct	_	_
 
 ~~~

@@ -11,9 +11,9 @@ This relation is universal.
 7190 nodes (8%) are attached to their parents as `root`.
 
 7190 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.17315716272601.
+Average distance between parent and child is 4.18511821974965.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (4018; 56% instances), -<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1440; 20% instances), -<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (656; 9% instances), -<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (339; 5% instances), -<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (286; 4% instances), -<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (256; 4% instances), -<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (84; 1% instances), -<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (57; 1% instances), -<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (22; 0% instances), -<tt><a href="et_ewt-pos-X.html">X</a></tt> (14; 0% instances), -<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (7; 0% instances), -<tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (4005; 56% instances), -<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1420; 20% instances), -<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (651; 9% instances), -<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (357; 5% instances), -<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (303; 4% instances), -<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (254; 4% instances), -<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (86; 1% instances), -<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (55; 1% instances), -<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (23; 0% instances), -<tt><a href="et_ewt-pos-X.html">X</a></tt> (17; 0% instances), -<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (8; 0% instances), -<tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="et_ewt-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	onia	Onia	PROPN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	NE=B-Unk
+1	onia	Onia	PROPN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	NE=B-Loc
 2	fotopoe	foto_pood	NOUN	S	Case=Gen|Number=Sing	3	nmod	3:nmod	_
 3	peded	pede	NOUN	S	Case=Nom|Number=Plur	4	nsubj	4:nsubj	_
 4	korrutavad	korrutama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 2 root	color:blue
 1	Nuppude	nupp	NOUN	S	Case=Gen|Number=Plur	2	nmod	2:nmod	_
 2	paigutused	paigutus	NOUN	S	Case=Nom|Number=Plur	0	root	0:root	_
-3	jne	jne	ADV	Y	Abbr=Yes	2	conj	2:conj	SpaceAfter=No
+3	jne	jne	ADV	Y	Abbr=Yes	2	conj	0:root|2:conj	SpaceAfter=No
 4	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~

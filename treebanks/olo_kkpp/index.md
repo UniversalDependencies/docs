@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Livvi-KKPP](https://github.com/UniversalDependencies/UD_Livvi-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -84,7 +84,7 @@ these can be found in the training set.
 
 ## Features
 
-[AdpType](olo_kkpp-feat-AdpType.html) – [Case](olo_kkpp-feat-Case.html) – [Clitic](olo_kkpp-feat-Clitic.html) – [Connegative](olo_kkpp-feat-Connegative.html) – [Degree](olo_kkpp-feat-Degree.html) – [Mood](olo_kkpp-feat-Mood.html) – [Number](olo_kkpp-feat-Number.html) – [Number[psor]](olo_kkpp-feat-Number-psor.html) – [NumType](olo_kkpp-feat-NumType.html) – [Person](olo_kkpp-feat-Person.html) – [Person[psor]](olo_kkpp-feat-Person-psor.html) – [Polarity](olo_kkpp-feat-Polarity.html) – [PronType](olo_kkpp-feat-PronType.html) – [Reflex](olo_kkpp-feat-Reflex.html) – [Tense](olo_kkpp-feat-Tense.html) – [VerbForm](olo_kkpp-feat-VerbForm.html) – [Voice](olo_kkpp-feat-Voice.html)
+[AdpType](olo_kkpp-feat-AdpType.html) – [Case](olo_kkpp-feat-Case.html) – [Clitic](olo_kkpp-feat-Clitic.html) – [Connegative](olo_kkpp-feat-Connegative.html) – [Degree](olo_kkpp-feat-Degree.html) – [Mood](olo_kkpp-feat-Mood.html) – [Number](olo_kkpp-feat-Number.html) – [Number[psor]](olo_kkpp-feat-Number-psor.html) – [NumType](olo_kkpp-feat-NumType.html) – [Person](olo_kkpp-feat-Person.html) – [Person[psor]](olo_kkpp-feat-Person-psor.html) – [Polarity](olo_kkpp-feat-Polarity.html) – [PronType](olo_kkpp-feat-PronType.html) – [Reflex](olo_kkpp-feat-Reflex.html) – [Tense](olo_kkpp-feat-Tense.html) – [Typo](olo_kkpp-feat-Typo.html) – [VerbForm](olo_kkpp-feat-VerbForm.html) – [Voice](olo_kkpp-feat-Voice.html)
 
 ## Relations
 
@@ -754,6 +754,18 @@ these can be found in the training set.
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: Čičiliušku-t</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -778,7 +790,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (4)</li>
       <li>VERB-Fin--NOUN-Nom (59)</li>
       <li>VERB-Fin--NOUN-Par (5)</li>
-      <li>VERB-Fin--PRON-Nom (27)</li>
+      <li>VERB-Fin--PRON-Nom (26)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON-Ade (2)</li>
@@ -798,6 +810,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Par (27)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (6)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Fin--PRON-Par (9)</li>
       <li>VERB-Inf--NOUN-Acc (2)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>

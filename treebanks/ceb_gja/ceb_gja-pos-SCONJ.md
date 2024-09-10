@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>kay</em> (<tt><a href="ceb_gja-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.142523).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.172662).
 
 The 1st highest number of forms (1) was observed with the lemma “apan”: <em>apan</em>.
 
@@ -46,7 +46,7 @@ The 3rd highest number of forms (1) was observed with the lemma “kay”: <em>k
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="ceb_gja-dep-mark.html">mark</a></tt> (15; 88% instances), <tt><a href="ceb_gja-dep-case.html">case</a></tt> (2; 12% instances)
 
-Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (7; 41% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 18% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
+Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (7; 41% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (3; 18% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> (1; 6% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 6% instances)
 
 15 (88%) `SCONJ` nodes are leaves.
 

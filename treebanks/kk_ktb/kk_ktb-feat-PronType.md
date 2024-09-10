@@ -86,7 +86,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `ADJ` tokens may have the following values of `PronType`:
 
 * `Int` (1; 100% of non-empty `PronType`): <em>қандай</em>
-* `EMPTY` (825): <em>бар, үлкен, жаңа, керек, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
+* `EMPTY` (826): <em>бар, үлкен, керек, жаңа, жоқ, тиіс, жақсы, ұлттық, экономикалық, басқа</em>
 
 ## Relations with Agreement in `PronType`
 

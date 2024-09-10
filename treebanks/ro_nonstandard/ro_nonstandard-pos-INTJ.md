@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>iată</em> (<tt><a href="ro_nonstanda
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.026667 (the average of all parts of speech is 2.492163).
+The form / lemma ratio of `INTJ` is 1.026667 (the average of all parts of speech is 2.491875).
 
 The 1st highest number of forms (3) was observed with the lemma “aliluia”: <em>ALILUIA, Aliluia, alliluiia</em>.
 

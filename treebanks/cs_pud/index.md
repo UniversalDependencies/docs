@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová, Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman.
 
 Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,7 +86,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Abbr](cs_pud-feat-Abbr.html) – [AdpType](cs_pud-feat-AdpType.html) – [Animacy](cs_pud-feat-Animacy.html) – [Aspect](cs_pud-feat-Aspect.html) – [Case](cs_pud-feat-Case.html) – [Degree](cs_pud-feat-Degree.html) – [Foreign](cs_pud-feat-Foreign.html) – [Gender](cs_pud-feat-Gender.html) – [Gender[psor]](cs_pud-feat-Gender-psor.html) – [Hyph](cs_pud-feat-Hyph.html) – [Mood](cs_pud-feat-Mood.html) – [NameType](cs_pud-feat-NameType.html) – [Number](cs_pud-feat-Number.html) – [Number[psor]](cs_pud-feat-Number-psor.html) – [NumForm](cs_pud-feat-NumForm.html) – [NumType](cs_pud-feat-NumType.html) – [NumValue](cs_pud-feat-NumValue.html) – [Person](cs_pud-feat-Person.html) – [Polarity](cs_pud-feat-Polarity.html) – [Poss](cs_pud-feat-Poss.html) – [PrepCase](cs_pud-feat-PrepCase.html) – [PronType](cs_pud-feat-PronType.html) – [Reflex](cs_pud-feat-Reflex.html) – [Style](cs_pud-feat-Style.html) – [Tense](cs_pud-feat-Tense.html) – [Variant](cs_pud-feat-Variant.html) – [VerbForm](cs_pud-feat-VerbForm.html) – [Voice](cs_pud-feat-Voice.html)
+[Abbr](cs_pud-feat-Abbr.html) – [AdpType](cs_pud-feat-AdpType.html) – [Animacy](cs_pud-feat-Animacy.html) – [Aspect](cs_pud-feat-Aspect.html) – [Case](cs_pud-feat-Case.html) – [Degree](cs_pud-feat-Degree.html) – [Foreign](cs_pud-feat-Foreign.html) – [Gender](cs_pud-feat-Gender.html) – [Gender[psor]](cs_pud-feat-Gender-psor.html) – [Hyph](cs_pud-feat-Hyph.html) – [Mood](cs_pud-feat-Mood.html) – [NameType](cs_pud-feat-NameType.html) – [Number](cs_pud-feat-Number.html) – [Number[psor]](cs_pud-feat-Number-psor.html) – [NumForm](cs_pud-feat-NumForm.html) – [NumType](cs_pud-feat-NumType.html) – [Person](cs_pud-feat-Person.html) – [Polarity](cs_pud-feat-Polarity.html) – [Poss](cs_pud-feat-Poss.html) – [PrepCase](cs_pud-feat-PrepCase.html) – [PronType](cs_pud-feat-PronType.html) – [Reflex](cs_pud-feat-Reflex.html) – [Style](cs_pud-feat-Style.html) – [Tense](cs_pud-feat-Tense.html) – [Variant](cs_pud-feat-Variant.html) – [VerbForm](cs_pud-feat-VerbForm.html) – [Voice](cs_pud-feat-Voice.html)
 
 ## Relations
 
@@ -183,6 +183,7 @@ employ ten-fold cross-validation.
   <ul>
     <li>ADJ: Spojených, řečeno, propuštěn, vedoucí, Spojené, Spojeným, kvalifikovaných, nabídnuto, následující, otevřenou</li>
     <li>AUX: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
+    <li>NOUN: vedoucích</li>
     <li>VERB: řekl, mohl, měl, stal, stala, uvedla, vedl, mohla, pracoval, rozhodl</li>
   </ul>
   </li>
@@ -211,6 +212,7 @@ employ ten-fold cross-validation.
       <li>AUX-Part: byla</li>
       <li>DET: která, které, své, svou, této, té, tato, její, kterou, tuto</li>
       <li>NOUN: době, oblasti, války, společnosti, země, policie, část, části, strany, říše</li>
+      <li>NOUN-Part: vedoucích</li>
       <li>NUM: jedné, jedna, jednu, jednou, una</li>
       <li>PRON: ní, jí, ji, níž, veškeré, jež, niž, ona, veškerou</li>
       <li>PROPN: Čína, Francie, Albánie, BBC, Británii, Clintonové, Evropě, Itálii, Ameriky, Asii</li>
@@ -344,6 +346,7 @@ employ ten-fold cross-validation.
       <li>AUX-Part: byly, byli, nebyly</li>
       <li>DET: které, kteří, své, tyto, svých, ty, těchto, která, někteří, všech</li>
       <li>NOUN: let, letech, lidí, dolarů, eur, liber, lidé, voleb, obyvatel, dat</li>
+      <li>NOUN-Part: vedoucích</li>
       <li>NOUN-Vnoun: opatření, jednání, obvinění, omezení, opevnění, pochopení, slyšení, tažení, umění, utkáních</li>
       <li>NUM: dva, čtyři, dvou, dvě, dvěma, tři, oba, obou, šesti, deseti</li>
       <li>PRON: nich, jim, nimi, nás, je, nichž, nám, jich, ně, jež</li>
@@ -371,7 +374,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: první, druhé, jižní, severní, další, hlavní, velká, větší, nové, velké</li>
       <li>ADJ-Part: řečeno, propuštěn, nabídnuto, následující, otevřenou, otevřená, označen, používán, považováno, probíhající</li>
-      <li>AUX-Fin: je, bude, jsem, není, nebude, budu, bych, bývá, nebudu, nese</li>
+      <li>AUX-Fin: je, bude, jsem, není, nebude, budu, bych, bývá, nebudu</li>
       <li>AUX-Part: byl, bylo, nebyl, nebylo, byla</li>
       <li>CCONJ: i</li>
       <li>DET: to, který, která, toho, tím, její, tento, tohoto, své, toto</li>
@@ -411,7 +414,7 @@ employ ten-fold cross-validation.
   <li>Dat
     <ul>
       <li>ADJ: Osmanské, Spojeným, nížinné, obecné, větší, Alexandrově, Druhé, Mrtvým, Parmské, Starší</li>
-      <li>ADJ-Part: Spojeným, daným, naverbované, následované, ozbrojené, prodávaným, příslušným, rozdělujícímu, shromážděnému, vybraným</li>
+      <li>ADJ-Part: Spojeným, daným, naverbované, následované, ozbrojené, prodávaným, příslušným, rozdělujícímu, shromážděnému, studujícím</li>
       <li>ADP: k, proti, ke, kvůli, díky, vůči, navzdory, oproti</li>
       <li>DET: tomu, svým, kterému, své, těm, těmto, jakékoliv, jejím, kterým, svému</li>
       <li>NOUN: dispozici, podnebí, říši, dívkám, konci, obchodu, obsahu, radě, státům, většině</li>
@@ -431,6 +434,7 @@ employ ten-fold cross-validation.
       <li>ADP: z, do, od, ze, během, podle, u, kolem, bez, kromě</li>
       <li>DET: toho, tohoto, svého, svých, těchto, své, mnoha, té, všech, jejích</li>
       <li>NOUN: roku, let, století, války, lidí, dolarů, společnosti, doby, eur, liber</li>
+      <li>NOUN-Part: vedoucích</li>
       <li>NOUN-Vnoun: oddělení, pochopení, slyšení, uznání, učení, velení, vyšetřování, vzdělávání, bydlení, chování</li>
       <li>NUM: jedné, dvou, deseti, jednoho, tří, šesti, obou, osmdesáti, padesáti, sedmi</li>
       <li>PRON: nich, ní, něj, jich, nichž, mě, něhož, sebe, jehož, jí</li>
@@ -585,6 +589,7 @@ employ ten-fold cross-validation.
       <li>AUX-Part: byl, bylo, byla, byly, byli</li>
       <li>DET: více, víc, méně, tohoto</li>
       <li>NOUN: roce, roku, let, století, letech, době, území, období, oblasti, l</li>
+      <li>NOUN-Part: vedoucích</li>
       <li>NOUN-Vnoun: omezení, rozhodnutí, chování, jednání, oddělení, opatření, umění, hlasování, oblečení, pochopení</li>
       <li>PROPN: Čína, Francie, USA, Čching, Albánie, BBC, Británii, Clintonové, Danevirke, Evropě</li>
       <li>VERB-Conv: Počínaje, redukujíc</li>
@@ -623,6 +628,7 @@ employ ten-fold cross-validation.
       <li>ADJ-Part: vedoucí, následující, používán, považováno, považovány, probíhající, sestávající, studujících, aktivovány, budovány</li>
       <li>AUX-Fin: bývají, bývá</li>
       <li>AUX-Part: byl</li>
+      <li>NOUN-Part: vedoucích</li>
       <li>VERB-Conv: Počínaje, nedbajíce</li>
       <li>VERB-Fin: říká, obsahuje, pomáhá, ukazuje, existují, patří, tvrdí, nachází, naznačuje, poskytují</li>
       <li>VERB-Inf: pokračovat, dělat, sledovat, vybírat, měnit, objevovat, posílat, používat, předvídat, tvořit</li>
@@ -680,7 +686,7 @@ employ ten-fold cross-validation.
   <li>Fut
     <ul>
       <li>AUX-Fin: bude, budou, nebude, budeme, budu, nebudou, nebudu</li>
-      <li>VERB-Fin: půjde, neporoste</li>
+      <li>VERB-Fin: půjde, neporoste, povede</li>
     </ul>
   </li>
 </ul>
@@ -700,6 +706,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</li>
       <li>AUX-Fin: je, jsou, jsem, není, jsme, jste, nejsou, Nejsme, bývají, bývá</li>
+      <li>NOUN-Part: vedoucích</li>
       <li>VERB-Conv: Počínaje, nedbajíce</li>
       <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
     </ul>
@@ -716,6 +723,7 @@ employ ten-fold cross-validation.
       <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</li>
       <li>AUX-Fin: je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</li>
       <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
+      <li>NOUN-Part: vedoucích</li>
       <li>VERB-Conv: Počínaje, nedbajíce, redukujíc</li>
       <li>VERB-Fin: má, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje, existují</li>
       <li>VERB-Inf: překonat</li>
@@ -1134,32 +1142,8 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-  <li><a>NumValue</a>
-    <ul>
-      <li>1
-        <ul>
-          <li>ADJ: jedni</li>
-        </ul>
-      </li>
-      <li>1,2,3
-        <ul>
-          <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, jedna, jedním, tři</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Style</a>
     <ul>
-      <li>Arch
-        <ul>
-          <li>NOUN: léta, včerejška</li>
-          <li>PROPN: Papui, smartphone</li>
-          <li>VERB-Conv: redukujíc</li>
-        </ul>
-      </li>
       <li>Coll
         <ul>
           <li>ADJ: chatovacím, podezřelý</li>
@@ -1206,7 +1190,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (201)</li>
+      <li>VERB-Fin--NOUN-Nom (202)</li>
       <li>VERB-Fin--PRON-Nom (15)</li>
       <li>VERB-Inf--NOUN-Nom (7)</li>
       <li>VERB-Part--NOUN (4)</li>
@@ -1225,7 +1209,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Conv--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (156)</li>
+      <li>VERB-Fin--NOUN-Acc (157)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Fin--PRON-Acc (17)</li>
@@ -1235,7 +1219,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Nom (1)</li>
       <li>VERB-Inf--PRON-Acc (17)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (255)</li>
+      <li>VERB-Part--NOUN-Acc (254)</li>
       <li>VERB-Part--NOUN-Gen (18)</li>
       <li>VERB-Part--NOUN-Nom (2)</li>
       <li>VERB-Part--PRON-Acc (42)</li>
@@ -1260,13 +1244,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 132 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, rozhodnout se, nacházet se, vrátit se, objevit se, konat se, zdát se, dostat se, myslet si, setkat se, snažit se, týkat se, jednat se, lišit se, narodit se, objevovat se, pokusit se, potýkat se, skládat se, ujmout se, vyvíjet se, vzdát se, bavit se, blížit se, dopouštět se, držet se, ozvat se, podařit se, podržet si, podívat se, přát si, těšit se, vlévat se, vydat se, vyslovit se, věnovat se, zaměřit se, chovat se, cítit se, dařit se, divit se, dohadovat se, domnívat se, doporučovat se, dopustit se, dostavit se, dozvědět se, dát se, dít se, dívat se</li>
+  <li>This corpus contains 131 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, rozhodnout se, nacházet se, vrátit se, objevit se, konat se, zdát se, dostat se, myslet si, setkat se, snažit se, týkat se, jednat se, lišit se, narodit se, objevovat se, pokusit se, potýkat se, skládat se, ujmout se, vyvíjet se, vzdát se, bavit se, blížit se, dopouštět se, držet se, ozvat se, podařit se, podržet si, podívat se, přát si, rozpadnout se, těšit se, vlévat se, vydat se, vyslovit se, věnovat se, zaměřit se, chovat se, cítit se, dařit se, divit se, dohadovat se, domnívat se, dopustit se, dostavit se, dozvědět se, dát se, dít se, dívat se</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 39 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: používat se, soudit se, najít se, zvýšit se, brát se, datovat se, diskutovat se, dávat se, myslit se, měnit se, měřit se, naznačovat se, nazývat se, označovat se, očekávat se, podávat se, považovat se, pořádat se, prodávat se, proměnit se, provést se, psát se, předpokládat se, přepravovat se, rozpadnout se, rozvibrovat se, snížit se, stavět se, studovat se, svádět se, tradovat se, tvrdit se, vrátit se, vypočítávat se, vyučovat se, využívat se, věřit se, zvyšovat se, čekat se</li>
+  <li>This corpus contains 39 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: používat se, soudit se, najít se, zvýšit se, brát se, datovat se, diskutovat se, doporučovat se, dávat se, myslit se, měnit se, měřit se, naznačovat se, nazývat se, označovat se, očekávat se, podávat se, považovat se, pořádat se, prodávat se, proměnit se, provést se, psát se, předpokládat se, přepravovat se, rozvibrovat se, snížit se, stavět se, studovat se, svádět se, tradovat se, tvrdit se, vrátit se, vypočítávat se, vyučovat se, využívat se, věřit se, zvyšovat se, čekat se</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>

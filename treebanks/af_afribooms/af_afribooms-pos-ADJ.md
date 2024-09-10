@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans-AfriBooms: POS Tags: `ADJ`
 
-There are 778 `ADJ` lemmas (14%), 887 `ADJ` types (14%) and 3173 `ADJ` tokens (6%).
+There are 775 `ADJ` lemmas (14%), 878 `ADJ` types (14%) and 3173 `ADJ` tokens (6%).
 Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ander, nasionaal, Suid-Afrikaans, nodig, groot, openbaar, maatskaplik, nuut, plaaslik, voorlopig</em>
@@ -51,13 +51,13 @@ The 10 most frequent ambiguous types:  <em>ander</em> (<tt><a href="af_afribooms
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.140103 (the average of all parts of speech is 1.122822).
+The form / lemma ratio of `ADJ` is 1.132903 (the average of all parts of speech is 1.120642).
 
-The 1st highest number of forms (5) was observed with the lemma “hoog”: <em>hoog, hoogste, hoÃ«r, hoë, hoër</em>.
+The 1st highest number of forms (4) was observed with the lemma “doeltreffend”: <em>doeltreffend, doeltreffende, doeltreffender, doeltreffendste</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “doeltreffend”: <em>doeltreffend, doeltreffende, doeltreffender, doeltreffendste</em>.
+The 2nd highest number of forms (4) was observed with the lemma “goed”: <em>beste, beter, goed, goeie</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “goed”: <em>beste, beter, goed, goeie</em>.
+The 3rd highest number of forms (4) was observed with the lemma “hoog”: <em>hoog, hoogste, hoë, hoër</em>.
 
 `ADJ` occurs with 3 features: <tt><a href="af_afribooms-feat-AdjType.html">AdjType</a></tt> (3173; 100% instances), <tt><a href="af_afribooms-feat-Case.html">Case</a></tt> (3173; 100% instances), <tt><a href="af_afribooms-feat-Degree.html">Degree</a></tt> (3173; 100% instances)
 
@@ -84,7 +84,7 @@ Parents of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="af_a
 
 The highest child degree of a `ADJ` node is 19.
 
-Children of `ADJ` nodes are attached using 17 different relations: <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (306; 16% instances), <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (254; 13% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (223; 12% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (218; 11% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (199; 10% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (187; 10% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (182; 9% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (133; 7% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (114; 6% instances), <tt><a href="af_afribooms-dep-aux.html">aux</a></tt> (41; 2% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (19; 1% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (18; 1% instances), <tt><a href="af_afribooms-dep-det.html">det</a></tt> (17; 1% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (8; 0% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 17 different relations: <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (306; 16% instances), <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (254; 13% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (223; 12% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (215; 11% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (199; 10% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (189; 10% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (182; 9% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (133; 7% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (115; 6% instances), <tt><a href="af_afribooms-dep-aux.html">aux</a></tt> (41; 2% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (19; 1% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (18; 1% instances), <tt><a href="af_afribooms-dep-det.html">det</a></tt> (17; 1% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (8; 0% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 15 different parts of speech: <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (347; 18% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (296; 15% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (254; 13% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (191; 10% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (176; 9% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (174; 9% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (137; 7% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (115; 6% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (95; 5% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (45; 2% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (37; 2% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (16; 1% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (6; 0% instances)
+Children of `ADJ` nodes belong to 15 different parts of speech: <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (347; 18% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (296; 15% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (254; 13% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (191; 10% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (176; 9% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (176; 9% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (137; 7% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (113; 6% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (95; 5% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (45; 2% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (37; 2% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (16; 1% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (6; 0% instances)
 

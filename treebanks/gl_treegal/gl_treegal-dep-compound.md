@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `compound`.
+25 nodes (0%) are attached to their parents as `compound`.
 
-23 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17391304347826.
+25 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.2.
 
-The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (10; 43% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (5; 22% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 13% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 10 pairs of parts of speech are connected with `compound`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (10; 40% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (5; 20% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (3; 12% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 3	de	de	ADP	P	AdpType=Prep	2	compound	_	_
 4	alcalde	alcalde	NOUN	Scas	Gender=Com|Number=Sing	2	compound	_	_
 5	de	de	ADP	P	AdpType=Prep	6	case	_	_
-6	Pontevedra	Pontevedra	PROPN	Sp00	_	2	nmod	_	_
+6	Pontevedra	pontevedra	PROPN	Sp00	_	2	nmod	_	_
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 3	de	de	ADP	P	AdpType=Prep	2	compound	_	_
 4	alcalde	alcalde	NOUN	Scas	Gender=Com|Number=Sing	2	compound	_	_
 5	de	de	ADP	P	AdpType=Prep	6	case	_	_
-6	Pontevedra	Pontevedra	PROPN	Sp00	_	2	nmod	_	_
+6	Pontevedra	pontevedra	PROPN	Sp00	_	2	nmod	_	_
 
 ~~~
 

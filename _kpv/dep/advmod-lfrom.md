@@ -16,4 +16,4 @@ advmod:lfrom(сӧвтӧмаӧсь-2, сэсь-5)
 advmod:lfrom(loaded-2, from_there-5)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:06 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->

@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 11	isso	_	PRON	PDEM	Gender=Masc|Number=Sing	15	nsubj	_	_
 12	deveria	_	AUX	VBC	Mood=Cnd|Number=Sing|Person=3	15	aux	_	_
 13	ser	_	AUX	VB	_	15	cop	_	_
-14	uma	um	DET	DT	Gender=Fem|Number=Sing	15	det	_	_
+14	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	celebração	celebração	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	.	_	15	punct	_	_
 

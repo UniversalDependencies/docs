@@ -42,4 +42,4 @@ speakers nor addressees.
 
 * [eu] _<b>hu</b>_ "he/she", _<b>haiek</b>_ "they"
 
-<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:12 CEST -->

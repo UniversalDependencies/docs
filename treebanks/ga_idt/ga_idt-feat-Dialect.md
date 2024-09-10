@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Dialect` co-occurr
 
 18 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Dialect`.
 
-The most frequent other feature values with which `ADP` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 78%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 67%).
+The most frequent other feature values with which `ADP` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12; 67%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 67%).
 
 `ADP` tokens may have the following values of `Dialect`:
 

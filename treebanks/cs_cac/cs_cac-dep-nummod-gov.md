@@ -26,14 +26,14 @@ The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 2	čtrnáct	čtrnáct	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	3	nummod:gov	3:nummod:gov	LNumValue=14
 3	dní	den	NOUN	NNIP2-----A---1	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	0	root	0:root	LGloss=(jednotka_času)
 4	šest	šest	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	5	nummod:gov	5:nummod:gov	LNumValue=6
-5	kilo	kilo	NOUN	NNNP2-----A---1	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	3	conj	3.1:dep	_
-6	dolů	dolů	ADV	Db-------------	_	5	orphan	3.1:advmod	SpaceAfter=No
-7	,	,	PUNCT	Z:-------------	_	5	punct	3.1:punct	_
-8	a	a	CCONJ	J^-------------	_	5	cc	3.1:cc	LId=a-1
-9	hned	hned	ADV	Db-------------	_	10	advmod	10:advmod	_
-10	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	orphan	3.1:dep	_
-11	panděro	panděro	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	10	nsubj	10:nsubj	_
-12	pryč	pryč	ADV	Db-------------	_	10	advmod	10:advmod	SpaceAfter=No
+5	kilo	kilo	NOUN	NNNP2-----A---1	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	3	conj	0:root|3:conj	_
+6	dolů	dolů	ADV	Db-------------	_	3	conj	0:root|3:conj	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	9	punct	9:punct	_
+8	a	a	CCONJ	J^-------------	_	9	cc	9:cc	LId=a-1
+9	hned	hned	ADV	Db-------------	_	3	conj	0:root|3:conj	_
+10	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
+11	panděro	panděro	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	9	nsubj	9:nsubj	_
+12	pryč	pryč	ADV	Db-------------	_	9	advmod	9:advmod	SpaceAfter=No
 13	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~

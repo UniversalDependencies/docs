@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-11 tokens (1%) have a non-empty value of `NumType`.
-6 types (1%) occur at least once with a non-empty value of `NumType`.
-4 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (10; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+48 tokens (0%) have a non-empty value of `NumType`.
+11 types (1%) occur at least once with a non-empty value of `NumType`.
+8 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (42; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (6; 0% instances).
 
 ### `NUM`
 
-10 <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+42 <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (10; 100% of non-empty `NumType`): <em>musapiri, mukũi, yepé</em>
+* `Card` (42; 100% of non-empty `NumType`): <em>mukũi, musapiri, yepé, 1930, nove, pú-mukũi</em>
 
 ### `ADV`
 
-1 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
+6 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="yrl_complin-feat-AdvType.html">AdvType</a></tt><tt>=Tim</tt> (5; 83%).
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Ord` (1; 100% of non-empty `NumType`): <em>mukũisawa</em>
-* `EMPTY` (134): <em>mayé, ape, yuíri, iké, yawé, piri, Aramé, asuí, kuíri, mamé</em>
+* `Ord` (6; 100% of non-empty `NumType`): <em>mukũisawa, primeru</em>
+* `EMPTY` (915): <em>asuí, mayé, ape, kuíri, yawé, iké, yuíri, katú, aramé, reté</em>
 

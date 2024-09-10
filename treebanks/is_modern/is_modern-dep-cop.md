@@ -10,10 +10,10 @@ This relation is universal.
 
 3400 nodes (4%) are attached to their parents as `cop`.
 
-2628 instances of `cop` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.37823529411765.
+2629 instances of `cop` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.37882352941176.
 
-The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (976; 29% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (805; 24% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (772; 23% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (397; 12% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (157; 5% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (91; 3% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (73; 2% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (46; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (46; 1% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="is_modern-pos-VERB.html">VERB</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (975; 29% instances), <tt><a href="is_modern-pos-ADJ.html">ADJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (805; 24% instances), <tt><a href="is_modern-pos-NOUN.html">NOUN</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (773; 23% instances), <tt><a href="is_modern-pos-PRON.html">PRON</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (397; 12% instances), <tt><a href="is_modern-pos-DET.html">DET</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (157; 5% instances), <tt><a href="is_modern-pos-PART.html">PART</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (91; 3% instances), <tt><a href="is_modern-pos-ADV.html">ADV</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (73; 2% instances), <tt><a href="is_modern-pos-AUX.html">AUX</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (46; 1% instances), <tt><a href="is_modern-pos-PROPN.html">PROPN</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (46; 1% instances), <tt><a href="is_modern-pos-ADP.html">ADP</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="is_modern-pos-NUM.html">NUM</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="is_modern-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="is_modern-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="is_modern-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 13 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	pent	penn	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	IFD_tag=lhensf
 5	og	og	CCONJ	CONJ	_	6	cc	_	IFD_tag=c
 6	huggulegt	huggulegur	ADJ	ADJ-N	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	IFD_tag=lhensf|SpaceAfter=No
-7	,	,	PUNCT	,	_	6	punct	_	IFD_tag=
+7	,	,	PUNCT	,	_	6	punct	_	IFD_tag
 8	takk	takk	INTJ	INTJ	_	10	discourse	_	IFD_tag=x
 9	fyrir	fyrir	ADP	P	_	10	case	_	IFD_tag=ao
 10	það	það	PRON	PRO-A	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	4	conj	_	IFD_tag=fpheo|OriginalHead=0|SpaceAfter=No
@@ -71,7 +71,7 @@ The following 13 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	bara	bara	ADV	FP	_	6	advmod	_	IFD_tag=aa
 5	með	með	ADP	P	_	6	case	_	IFD_tag=ao
 6	getgátur	getgáta	NOUN	NS-A	Case=Acc|Definite=Ind|Gender=Fem|Number=Plur	0	root	_	IFD_tag=nvfo|SpaceAfter=No
-7	,	,	PUNCT	,	_	8	punct	_	IFD_tag=
+7	,	,	PUNCT	,	_	8	punct	_	IFD_tag
 8	er	vera	AUX	BEPI	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	IFD_tag=sfg1en
 9	bara	bara	ADV	FP	_	8	advmod	_	IFD_tag=aa
 10	að	að	PART	TO	_	11	mark	_	IFD_tag=cn

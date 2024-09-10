@@ -10,57 +10,77 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 Some words have combined values of the feature; 1 combinations have been observed: `Fem|Masc`.
 
-88741 tokens (29%) have a non-empty value of `Gender`.
-20137 types (65%) occur at least once with a non-empty value of `Gender`.
-13962 lemmas (61%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (58293; 19% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (11254; 4% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (10383; 3% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (7889; 3% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (863; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (57; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+95232 tokens (32%) have a non-empty value of `Gender`.
+21495 types (69%) occur at least once with a non-empty value of `Gender`.
+14947 lemmas (66%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 7 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (55466; 18% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (15206; 5% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (11269; 4% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (10383; 3% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (2829; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (75; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-58293 <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Gender`.
+55466 <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40820; 70%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (33320; 57%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (40908; 74%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (33351; 60%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (13647; 23% of non-empty `Gender`): <em>tid, kroner, regjeringa, saka, verda, boka, tida, meldinga, lov, grad</em>
-* `Masc` (27518; 47% of non-empty `Gender`): <em>dag, prosent, del, millionar, gong, grunn, Olav, leiar, bruk, kommunen</em>
-* `Neut` (17128; 29% of non-empty `Gender`): <em>år, folk, språk, stortinget, landet, land, Framstegspartiet, tillegg, departementet, arbeidet</em>
-* `EMPTY` (1737): <em>USA, SV, kap., Ap, EU, lag, fjor, Sp, OECD, nr.</em>
+* `Fem` (12994; 23% of non-empty `Gender`): <em>regjeringa, saka, verda, tid, boka, tida, kroner, meldinga, klokka, kyrkja</em>
+* `Masc` (25621; 46% of non-empty `Gender`): <em>dag, prosent, kommunen, del, staden, mannen, filmen, vegen, millionar, staten</em>
+* `Neut` (16851; 30% of non-empty `Gender`): <em>år, landet, folk, departementet, arbeidet, språk, politiet, samfunnet, livet, fylket</em>
+* `EMPTY` (1065): <em>kap., lag, fjor, nr., kultur-, vare, går, islam, kr, s.</em>
 
 <table>
   <tr><th>Paradigm <i>lov</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>lova, lovi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>lovene</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>lov</em></td><td><em>lov</em></td><td><em>lov</em></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>lova, lovi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>lov</em></td><td><em>lov</em></td><td><em>lov</em></td></tr>
   <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>lover</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>lovene</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (12247) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (11852) occur only with one value of `Gender`.
+
+### `ADJ`
+
+15206 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (52% of all `ADJ` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15205; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15203; 100%), <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (12486; 82%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12484; 82%).
+
+`ADJ` tokens may have the following values of `Gender`:
+
+* `Fem` (18; 0% of non-empty `Gender`): <em>lita, bundi, opa, teki, vedteki</em>
+* `Fem,Masc` (6445; 42% of non-empty `Gender`): <em>stor, ny, god, norsk, viktig, mykje, klar, offentleg, fast, lang</em>
+* `Masc` (108; 1% of non-empty `Gender`): <em>liten, open, kristen, oppteken, god, lunken, medfaren, sliten, velkomen, Forboden</em>
+* `Neut` (8635; 57% of non-empty `Gender`): <em>mykje, godt, heilt, langt, svært, litt, rett, veldig, viktig, norsk</em>
+* `EMPTY` (13895): <em>meir, mange, fleire, nye, store, heile, norske, siste, mest, tidlegare</em>
+
+<table>
+  <tr><th>Paradigm <i>open</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>open</em></td><td><em>open</em></td><td><em>opa</em></td><td><em>ope</em></td></tr>
+</table>
 
 ### `DET`
 
-11254 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
+11269 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11254; 100%), <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5926; 53%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11269; 100%), <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5930; 53%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (2508; 22% of non-empty `Gender`): <em>ei, den, denne, anna, slik, eiga, all, inga, kvar, noko</em>
-* `Masc` (4558; 41% of non-empty `Gender`): <em>ein, den, denne, kvar, eigen, annan, nokon, ingen, all, slik</em>
+* `Fem` (2493; 22% of non-empty `Gender`): <em>ei, den, denne, anna, slik, eiga, all, inga, kvar, noka</em>
+* `Fem,Masc` (33; 0% of non-empty `Gender`): <em>alle</em>
+* `Masc` (4555; 40% of non-empty `Gender`): <em>ein, den, denne, kvar, eigen, annan, nokon, ingen, all, slik</em>
 * `Neut` (4188; 37% of non-empty `Gender`): <em>eit, det, anna, noko, dette, kvart, eitt, eige, alt, slikt</em>
-* `EMPTY` (3752): <em>dei, andre, alle, same, desse, nokre, sjølv, slike, kva, sjølve</em>
+* `EMPTY` (3719): <em>dei, andre, alle, same, desse, nokre, sjølv, slike, kva, sjølve</em>
 
 <table>
-  <tr><th>Paradigm <i>ein</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ein, en</em></td><td><em>ei</em></td><td><em>eit, eitt, eir</em></td></tr>
+  <tr><th>Paradigm <i>all</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>alle</em></td><td><em>all</em></td><td><em>all</em></td><td><em>alt</em></td></tr>
 </table>
 
 ### `PRON`
 
-10383 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (46% of all `PRON` tokens) have a non-empty value of `Gender`.
+10383 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (54% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10381; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10379; 100%), <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10056; 97%), <tt><a href="no_nynorsk-feat-Person.html">Person</a></tt><tt>=3</tt> (9223; 89%), <tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8096; 78%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10381; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10379; 100%), <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (10351; 100%), <tt><a href="no_nynorsk-feat-Person.html">Person</a></tt><tt>=3</tt> (9223; 89%), <tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8096; 78%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -68,92 +88,67 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem,Masc` (171; 2% of non-empty `Gender`): <em>den, denne, dén</em>
 * `Masc` (2129; 21% of non-empty `Gender`): <em>han, sin, vår, min, hans, nokon, hennar, deira, ingen, din</em>
 * `Neut` (7105; 68% of non-empty `Gender`): <em>det, dette, noko, sitt, alt, vårt, mitt, hans, slikt, hennar</em>
-* `EMPTY` (12419): <em>som, dei, eg, vi, seg, ein, me, du, kva, oss</em>
+* `EMPTY` (8983): <em>dei, eg, vi, seg, ein, me, du, kva, oss, sine</em>
 
 <table>
   <tr><th>Paradigm <i>sin</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt></tt></td><td><em>sin</em></td><td><em>si</em></td><td><em>sitt</em></td></tr>
 </table>
 
-### `ADJ`
+### `PROPN`
 
-7889 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (29% of all `ADJ` tokens) have a non-empty value of `Gender`.
+2829 <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> tokens (16% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (7889; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7888; 100%), <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7396; 94%).
+`PROPN` tokens may have the following values of `Gender`:
 
-`ADJ` tokens may have the following values of `Gender`:
+* `Fem` (653; 23% of non-empty `Gender`): <em>Marie, Solveig, Kristin, Liv, Sigrid, Tone, Signe, Anne, Heidi, Jorunn</em>
+* `Masc` (1899; 67% of non-empty `Gender`): <em>Olav, Arne, Jan, Dag, Gunnar, Stein, Paulus, Jesus, Erik, Snorre</em>
+* `Neut` (277; 10% of non-empty `Gender`): <em>Stortinget, Framstegspartiet, Senterpartiet, Vestlandet, Dagbladet, Folketinget, Vinmonopolet, Austlandet, Skattedirektoratet, Stortingets</em>
+* `EMPTY` (14973): <em>Noreg, Førde, Språkrådet, Sogn, USA, SV, Fjordane, Oslo, Kviteseid, Høgre</em>
 
-* `Fem` (16; 0% of non-empty `Gender`): <em>lita, bundi, opa</em>
-* `Masc` (107; 1% of non-empty `Gender`): <em>liten, open, kristen, oppteken, god, lunken, medfaren, sliten, velkomen, Forboden</em>
-* `Neut` (7766; 98% of non-empty `Gender`): <em>mykje, godt, heilt, langt, svært, litt, rett, veldig, viktig, norsk</em>
-* `EMPTY` (19260): <em>meir, mange, fleire, nye, store, heile, norske, siste, mest, stor</em>
-
-<table>
-  <tr><th>Paradigm <i>liten</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>liten</em></td><td><em>lita</em></td><td><em>lite, smått</em></td></tr>
-</table>
-
-`Gender` seems to be **lexical feature** of `ADJ`. 99% lemmas (1388) occur only with one value of `Gender`.
-
-### `VERB`
-
-863 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (863; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (863; 100%).
-
-`VERB` tokens may have the following values of `Gender`:
-
-* `Fem` (2; 0% of non-empty `Gender`): <em>teki, vedteki</em>
-* `Neut` (861; 100% of non-empty `Gender`): <em>lagt, gjort, sett, sagt, vedteke, gjeve, teke, vist, halde, sendt</em>
-* `EMPTY` (29860): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
-
-<table>
-  <tr><th>Paradigm <i>ta</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>teki</em></td><td><em>teke, tatt</em></td></tr>
-</table>
-
-`Gender` seems to be **lexical feature** of `VERB`. 99% lemmas (319) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (395) occur only with one value of `Gender`.
 
 ### `NUM`
 
-57 <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Gender`.
+75 <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (57; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 100%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (75; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (75; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (12; 21% of non-empty `Gender`): <em>éi, annakvar, ei</em>
-* `Masc` (41; 72% of non-empty `Gender`): <em>éin, en, annankvar, èin</em>
-* `Neut` (4; 7% of non-empty `Gender`): <em>annakvart, halvanna, halvtanna, noe</em>
+* `Fem` (27; 36% of non-empty `Gender`): <em>noko, éi, annakvar</em>
+* `Masc` (44; 59% of non-empty `Gender`): <em>éin, noko, annankvar, èin</em>
+* `Neut` (4; 5% of non-empty `Gender`): <em>Noko, annakvart, halvanna, halvtanna</em>
 * `EMPTY` (3975): <em>to, tre, fire, ti, fem, 20, 1, seks, 2005, 2006</em>
 
 <table>
-  <tr><th>Paradigm <i>annankvar</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>annankvar</em></td><td><em>annakvar</em></td><td><em>annakvart</em></td></tr>
+  <tr><th>Paradigm <i>noko</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>noko</em></td><td><em>noko</em></td><td><em>Noko</em></td></tr>
 </table>
 
-### `AUX`
+### `VERB`
 
-2 <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
+4 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4; 100%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Part</tt> (4; 100%).
 
-`AUX` tokens may have the following values of `Gender`:
+`VERB` tokens may have the following values of `Gender`:
 
-* `Neut` (2; 100% of non-empty `Gender`): <em>blitt</em>
-* `EMPTY` (16722): <em>er, har, var, kan, skal, vil, må, vart, vore, blir</em>
+* `Fem,Masc` (1; 25% of non-empty `Gender`): <em>stoppa</em>
+* `Neut` (3; 75% of non-empty `Gender`): <em>blir, innført, lagt</em>
+* `EMPTY` (28772): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (9667; 76%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1164; 64%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-expl.html">expl</a></tt>]--> PRON</tt> (550; 86%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-flat-name.html">flat:name</a></tt>]--> NOUN</tt> (246; 78%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-appos.html">appos</a></tt>]--> NOUN</tt> (240; 51%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (216; 67%),
-<tt>DET --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (147; 69%),
-<tt>PRON --[<tt><a href="no_nynorsk-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (31; 74%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (9642; 76%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1094; 74%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-expl.html">expl</a></tt>]--> PRON</tt> (825; 90%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (526; 74%),
+<tt>DET --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (144; 69%),
+<tt>PRON --[<tt><a href="no_nynorsk-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (71; 76%),
 <tt>PRON --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (28; 67%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (26; 52%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (24; 60%),
 <tt>DET --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> DET</tt> (23; 85%).
 

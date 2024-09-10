@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-6421 tokens (15%) have a non-empty value of `VerbForm`.
+6415 tokens (15%) have a non-empty value of `VerbForm`.
 1081 types (33%) occur at least once with a non-empty value of `VerbForm`.
 501 lemmas (20%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (4312; 10% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2107; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (4310; 10% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2103; 5% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-4312 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+4310 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3308; 77%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3158; 73%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2337; 54%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3306; 77%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3155; 73%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2334; 54%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2432; 56% of non-empty `VerbForm`): <em>avait, a, est, sais, fait, était, dit, va, ai, avais</em>
-* `Inf` (749; 17% of non-empty `VerbForm`): <em>faire, aller, dire, voir, parler, avoir, prendre, manger, être, rentrer</em>
-* `Part` (1131; 26% of non-empty `VerbForm`): <em>fait, dit, eu, vu, passé, allée, mis, pris, allé, parlé</em>
-* `EMPTY` (108): <em>voilà, s~, a~, importe, é~, confron~, con~, do~, d~, dé~</em>
+* `Fin` (2429; 56% of non-empty `VerbForm`): <em>avait, a, est, sais, fait, était, dit, va, avais, vois</em>
+* `Inf` (749; 17% of non-empty `VerbForm`): <em>faire, aller, dire, voir, parler, prendre, avoir, manger, être, rentrer</em>
+* `Part` (1132; 26% of non-empty `VerbForm`): <em>fait, dit, eu, vu, passé, allée, mis, pris, allé, parlé</em>
+* `EMPTY` (107): <em>voilà, s~, a~, importe, é~, confron~, con~, do~, d~, dé~</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -48,16 +48,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-2107 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+2103 <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2004; 95%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1959; 93%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1539; 73%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1416; 67%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2001; 95%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1957; 93%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (1536; 73%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1414; 67%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2036; 97% of non-empty `VerbForm`): <em>est, était, a, ai, suis, étais, avait, avais, sont, étaient</em>
-* `Inf` (34; 2% of non-empty `VerbForm`): <em>être, faire, avoir, refaire</em>
-* `Part` (37; 2% of non-empty `VerbForm`): <em>été, fait, eu</em>
-* `EMPTY` (1): <em>ai~</em>
+* `Fin` (2033; 97% of non-empty `VerbForm`): <em>est, était, a, ai, suis, étais, avait, avais, sont, étaient</em>
+* `Inf` (32; 2% of non-empty `VerbForm`): <em>être, faire, avoir, refaire</em>
+* `Part` (38; 2% of non-empty `VerbForm`): <em>été, fait, eu</em>
+* `EMPTY` (1): <em>ai</em>
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -93,14 +93,14 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): <em>specialisée, spécialisée</em>
-* `EMPTY` (1210): <em>tout, petit, tous, petite, première, même, vrai, toute, autre, bonne</em>
+* `EMPTY` (1211): <em>tout, petit, tous, petite, première, même, vrai, toute, autre, bonne</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (199; 56%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (187; 76%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (138; 76%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (138; 77%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-appos.html">appos</a></tt>]--> VERB</tt> (15; 100%),
 <tt>AUX --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (10; 83%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-parataxis-parenth.html">parataxis:parenth</a></tt>]--> VERB</tt> (8; 80%),

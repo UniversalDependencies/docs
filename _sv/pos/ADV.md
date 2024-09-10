@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
 ### Definition
@@ -19,4 +20,4 @@ are still tagged `ADV` and not [PART]().
 - _<b>mycket</b> brådskande_ "<b>very</b> urgent"
 - _samtidigt_ "simultaneously"
 - _det är <b>bara</b>_ "it is <b>only</b>"
-<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

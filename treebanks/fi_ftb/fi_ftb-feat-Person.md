@@ -13,21 +13,21 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 27590 tokens (17%) have a non-empty value of `Person`.
 5209 types (12%) occur at least once with a non-empty value of `Person`.
-1679 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (13136; 8% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (9615; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (4435; 3% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (404; 0% instances).
+1678 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (13651; 9% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (9100; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (4435; 3% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (404; 0% instances).
 
 ### `VERB`
 
-13136 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Person`.
+13651 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13136; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (13136; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (13136; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13136; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13136; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11616; 88%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11197; 85%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13651; 100%), <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (13651; 100%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (13651; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13651; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (13651; 100%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12073; 88%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11646; 85%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1950; 15% of non-empty `Person`): <em>olen, sanoin, olin, ajattelin, näin, tulen, haluan, lähden, sain, söin</em>
-* `2` (1195; 9% of non-empty `Person`): <em>olet, ota, tule, anna, saat, haluat, tulkaa, tulet, teet, kerro</em>
-* `3` (9991; 76% of non-empty `Person`): <em>on, oli, tuli, tulee, ei, sanoi, ovat, saa, sanoo, meni</em>
-* `EMPTY` (13303): <em>ole, olla, ollut, tehdä, mennä, tulla, tullut, saanut, saada, tiedä</em>
+* `1` (2003; 15% of non-empty `Person`): <em>olen, sanoin, olin, tulen, ajattelin, näin, sain, haluan, lähden, söin</em>
+* `2` (1220; 9% of non-empty `Person`): <em>olet, ota, saat, tule, anna, tulet, haluat, tulkaa, saatte, teet</em>
+* `3` (10428; 76% of non-empty `Person`): <em>on, oli, tulee, tuli, ei, sanoi, saa, ovat, sai, sanoo</em>
+* `EMPTY` (13545): <em>ole, olla, ollut, tehdä, mennä, tulla, saanut, tullut, saada, saa</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -79,16 +79,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-9615 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Person`.
+9100 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (87% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9615; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9615; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8425; 88%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6707; 70%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6010; 63%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9100; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9100; 100%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7976; 88%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6192; 68%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5553; 61%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (1043; 11% of non-empty `Person`): <em>en, olen, olin, emme, olemme, olisin, enkä, voin, oon, voisin</em>
-* `2` (495; 5% of non-empty `Person`): <em>et, älä, olet, olette, ette, oot, älkää, voit, olisit, oletko</em>
-* `3` (8077; 84% of non-empty `Person`): <em>on, ei, oli, ovat, voi, olisi, eivät, eikä, olivat, pitäisi</em>
-* `EMPTY` (1546): <em>ole, olla, ollut, voi, olisi, saa, ollaan, voidaan, voinut, olleet</em>
+* `1` (990; 11% of non-empty `Person`): <em>en, olen, olin, emme, olemme, olisin, enkä, voin, oon, voisin</em>
+* `2` (470; 5% of non-empty `Person`): <em>et, älä, olet, olette, ette, oot, älkää, voit, olisit, oletko</em>
+* `3` (7640; 84% of non-empty `Person`): <em>on, ei, oli, ovat, voi, olisi, eivät, eikä, olivat, pitäisi</em>
+* `EMPTY` (1304): <em>ole, olla, ollut, voi, olisi, ollaan, voidaan, voinut, olleet, oo</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -174,6 +174,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (983; 57%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (13; 57%).
+<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1000; 58%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (13; 57%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

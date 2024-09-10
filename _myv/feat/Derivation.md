@@ -61,11 +61,15 @@ Produces deverbal nouns that generally indicate an instrument.
 
 ### <a name="OvOms">`OvOms`</a>: derivation with suffix -ОвОмс
 
-Produces converb.
+Produces a verb form with epistemic modality and an inherent telicity but no volition.
+With derivations from transitive verbs this may be close to a "get" passive, whereas the
+intransitive derivation seems closer to a "manage to/happen to" reading.
 
 #### Examples
 
 * [myv] _содавомс_ "to get recognized"
+* [myv] _удовомс_ "to manage to sleep (too much)"
+* [myv] _ярсавомс_ "to eat (too much)"
 
 ### <a name="Ovt">`Ovt`</a>: derivation with suffix -Овт/-Овть
 
@@ -95,6 +99,15 @@ Produces indefinite pronouns, adverbs.
 * [myv] _кияк_ "anybody"
 * [myv] _мезеяк_ "anything"
 * [myv] _косояк_ "anywhere"
+
+### <a name="Cond">`Cond`</a>: protasis marker, aka conditional -Ондеря-
+
+Marks the protasis verb, which may be in the the so-called subjunctive (presumably this conditional) and indicative non-past and past (quite infrequent).
+
+#### Examples
+
+* [myv] _<b>Мериндеряволь</b> исяк — саевлинек эйкакшонть мартонок..._ "<b>if he/she/it had said</b> yesterday, we would have taken the child with us."
+
 
 ### <a name="VSj">`VSj`</a>: derivation with suffix -сь
 
@@ -155,4 +168,4 @@ Used with common and proper nouns and kinship terms ending in vowels and consona
 * [myv] _ялгакай_ "friend"
 * [myv] _нумолкай_ "rabbit"
 
-<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:54 CEST -->

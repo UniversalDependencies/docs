@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Büşra Marşan, Salih Furkan Akkurt, Utku Türk, Furkan Atmaca, Şaziye Betül Özateş, Gözde Berk, Seyyit Talha Bedir, Abdullatif Köksal, Balkız Öztürk Başaran, Tunga Güngör, Arzucan Özgür.
 
 Repository: [UD_Turkish-BOUN](https://github.com/UniversalDependencies/UD_Turkish-BOUN)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_boun211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_boun214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -36,23 +36,23 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
-| UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
-| XPOS | assigned by a program, with some manual corrections, but not a full manual verification |
-| Features | assigned by a program, with some manual corrections, but not a full manual verification |
+| Lemmas | annotated manually |
+| UPOS | annotated manually, natively in UD style |
+| XPOS | annotated manually |
+| Features | annotated manually, natively in UD style |
 | Relations | annotated manually, natively in UD style |
 
 ## Description
 
-The largest Turkish dependency treebank annotated in UD style. Created by the members of [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/) from Boğaziçi University.
+A Turkish dependency treebank annotated in UD style. Created by the members of [TABILAB](https://tabilab.cmpe.boun.edu.tr/) from Boğaziçi University.
 
 
 
-This is a newly introduced Turkish dependency treebank in the Universal Dependencies (UD) annotation style. The BOUN Treebank is created by the [TABILAB](http://http://tabilab.cmpe.boun.edu.tr/) and supported by the Scientific and Technological Research Council of Turkey (TÜBİTAK) under grant number 117E971.
+This is a Turkish dependency treebank in the Universal Dependencies (UD) annotation style. The BOUN Treebank is created by [TABILAB](https://tabilab.cmpe.boun.edu.tr/) and supported by the Scientific and Technological Research Council of Turkey (TÜBİTAK) under grant number 117E971.
 
 The BOUN Treebank includes a total of 9,761 manually annotated sentences from various topics including biographical texts, national newspapers, instructional texts, popular culture articles, and essays. The texts are taken from the [Turkish National Corpus (TNC)](https://www.tnc.org.tr/).
 
-The dependency relations in the BOUN Treebank is manually annotated in the UD framework. The morphological features and UPOS information are retrieved from the morphological parser of [Sak et al. (2011)](https://link.springer.com/article/10.1007/s10579-010-9128-6) and converted to UD morphology automatically using [our script](https://github.com/boun-tabi/UD_docs/blob/main/convert_sak_morp_to_ud_morp.py). The morphological features, UPOS tags, XPOS tags, and lemma forms are manually corrected.
+The dependency relations in the BOUN Treebank is manually annotated in the UD framework. The morphological features and UPOS information are first retrieved from the morphological parser of [Sak et al. (2011)](https://link.springer.com/article/10.1007/s10579-010-9128-6) and converted to UD morphology automatically using [our script](https://github.com/boun-tabi/UD_docs/blob/main/convert_sak_morp_to_ud_morp.py). The morphological features, UPOS tags, XPOS tags, and lemma forms are then manually corrected in a systematic way.
 
 
 ## Acknowledgments
@@ -61,7 +61,7 @@ We are immensely grateful to Prof. Yeşim Aksan and the other members of the Tur
 
 ## References
 
-You can use the following arXiv reference for v2.9:
+You can use the following arXiv reference for v2.11:
 
 ```
 @article{marcsan2022enhancements,
@@ -75,22 +75,19 @@ year={2022}
 You can use the following arXiv reference for the previous versions of this treebank:
 
 ```
-@misc{trk2020resources,
-title={Resources for Turkish Dependency Parsing: Introducing the BOUN Treebank and the BoAT Annotation Tool},
-author={Utku T{\”{u{% raw %}}}{% endraw %}rk and
-Furkan Atmaca and
-{\c{S}aziye Bet{\"{u{% raw %}}}{% endraw %}l {\"{O{% raw %}}}{% endraw %}zate{\c{s{% raw %}}}{% endraw %} and
-G{\"{o{% raw %}}}{% endraw %}zde Berk and
-Seyyit Talha Bedir and
-Abdullatif K{\"{o{% raw %}}}{% endraw %}ksal and
-Balk{\i}z {\"{O{% raw %}}}{% endraw %}zt{\"{u{% raw %}}}{% endraw %}rk Ba{\c{s{% raw %}}}{% endraw %}aran and
-Tunga G{\"{u{% raw %}}}{% endraw %}ng{\"{o{% raw %}}}{% endraw %}r and
-Arzucan {\"{O{% raw %}}}{% endraw %}zg{\"{u{% raw %}}}{% endraw %}r},
-year={2020},
-eprint={2002.10416},
-archivePrefix={arXiv},
-primaryClass={cs.CL}
+@article{TurkEtAl2022,
+title = {Resources for {% raw %}{{{% endraw %}Turkish{% raw %}}}{% endraw %} Dependency Parsing: Introducing the {% raw %}{{{% endraw %}BOUN Treebank{% raw %}}}{% endraw %} and the {% raw %}{{{% endraw %}BoAT{% raw %}}}{% endraw %} Annotation Tool},
+author = {T{\"u}rk, Utku and Atmaca, Furkan and {\"O}zate{\c s}, {\c S}aziye Bet{\"u}l and Berk, G{\"o}zde and Bedir, Seyyit Talha and K{\"o}ksal, Abdullatif and Ba{\c s}aran, Balk{\i}z {\"O}zt{\"u}rk and G{\"u}ng{\"o}r, Tunga and {\"O}zg{\"u}r, Arzucan},
+year = {2022},
+month = mar,
+journal = {Language Resources and Evaluation},
+volume = {56},
+number = {1},
+pages = {259--307},
+issn = {1574-0218},
+doi = {10.1007/s10579-021-09558-0}
 }
+
 ```
 
 

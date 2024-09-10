@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 16340 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 16346 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1635,7 +1635,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (1588)</li>
+            <li>VERB--NOUN (1589)</li>
             <li>VERB--NOUN-ADP(dalam) (1)</li>
             <li>VERB--NOUN-ADP(di) (1)</li>
             <li>VERB--NOUN-ADP(karena) (1)</li>
@@ -1677,7 +1677,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (4280)</li>
+            <li>VERB--NOUN (4281)</li>
             <li>VERB--NOUN-ADP(akan) (2)</li>
             <li>VERB--NOUN-ADP(atas) (2)</li>
             <li>VERB--NOUN-ADP(bahkan) (1)</li>

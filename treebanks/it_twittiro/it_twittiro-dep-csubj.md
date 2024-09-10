@@ -88,7 +88,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 13	buona	buono	ADJ	A	Gender=Fem|Number=Sing	14	amod	_	_
 14	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	11	obj	_	_
-15	chapeau	chapeau	INTJ	I	_	8	discourse	_	SpaceAfter=\n
+15	chapeau	chapeau	INTJ	I	_	8	discourse	_	SpacesAfter=\n
 
 ~~~
 

@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADP` and `Clitic` co-occurred
 
 2 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Clitic` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (2; 100%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Clitic`:
 

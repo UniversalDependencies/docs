@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `PART`
 
 There are 1 `PART` lemmas (0%), 1 `PART` types (0%) and 147 `PART` tokens (0%).
-Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 16 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>no</em>
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>no</em> (<tt><a href="ca_ancora-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416268).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416814).
 
 The 1st highest number of forms (1) was observed with the lemma “no”: <em>no</em>.
 
@@ -34,7 +34,7 @@ The 1st highest number of forms (1) was observed with the lemma “no”: <em>no
 
 ## Relations
 
-`PART` nodes are attached to their parents using 11 different relations: <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (72; 49% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (38; 26% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (9; 6% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (9; 6% instances), <tt><a href="ca_ancora-dep-appos.html">appos</a></tt> (4; 3% instances), <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (4; 3% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (4; 3% instances), <tt><a href="ca_ancora-dep-flat.html">flat</a></tt> (3; 2% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 12 different relations: <tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt> (72; 49% instances), <tt><a href="ca_ancora-dep-cc.html">cc</a></tt> (38; 26% instances), <tt><a href="ca_ancora-dep-case.html">case</a></tt> (9; 6% instances), <tt><a href="ca_ancora-dep-conj.html">conj</a></tt> (9; 6% instances), <tt><a href="ca_ancora-dep-appos.html">appos</a></tt> (4; 3% instances), <tt><a href="ca_ancora-dep-fixed.html">fixed</a></tt> (4; 3% instances), <tt><a href="ca_ancora-dep-flat.html">flat</a></tt> (3; 2% instances), <tt><a href="ca_ancora-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="ca_ancora-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="ca_ancora-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="ca_ancora-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances), <tt><a href="ca_ancora-dep-root.html">root</a></tt> (1; 1% instances)
 
 Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (77; 52% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (24; 16% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (9; 6% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (9; 6% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (4; 3% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> (1; 1% instances),  (1; 1% instances)
 

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-10 tokens (0%) have a non-empty value of `Typo`.
+16 tokens (0%) have a non-empty value of `Typo`.
 2 types (0%) occur at least once with a non-empty value of `Typo`.
 2 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-9 <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+15 <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 100%), <tt><a href="gd_arcosg-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 56%).
+The most frequent other feature values with which `PROPN` and `Typo` co-occurred: <tt><a href="gd_arcosg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15; 100%).
 
 `PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (9; 100% of non-empty `Typo`): <em>lain</em>
+* `Yes` (15; 100% of non-empty `Typo`): <em>lain</em>
 
 ### `VERB`
 

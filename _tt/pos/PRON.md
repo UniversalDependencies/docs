@@ -25,4 +25,4 @@ these words are always marked according to their usage (`PRON` or
 - total pronouns: _һәркем, һәрбер_ "everybody, everything", _барыбыз_ "all of us"
 - negative pronouns: _беркем, һичкем_ "nobody"
 - reciprocal pronouns: _бер-беребез_ "we each other"
-<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:40 CEST -->

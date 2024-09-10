@@ -62,14 +62,14 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 10 det:numgov	color:blue
-1	Tehdy	tehdy	ADV	Db-------------	PronType=Dem	2	advmod	2:advmod	_
-2	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+1	Tehdy	tehdy	ADV	Db-------------	PronType=Dem	0	root	0:root	_
+2	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	cop	1:cop	_
 3	velká	velký	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	4:amod	_
-4	nouze	nouze	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	2:nsubj	_
+4	nouze	nouze	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	1	nsubj	1:nsubj	_
 5	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	6:case	_
 6	byty	byt	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	nmod	4:nmod:o:acc	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
-8	přišlo	přijít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	conj	0:root|2:conj	_
+8	přišlo	přijít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	0:root|1:conj	_
 9	sem	sem	ADV	Db-------------	_	8	advmod	8:advmod	_
 10	hodně	hodně	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	12	det:numgov	12:det:numgov	_
 11	vyhnaných	vyhnaný	ADJ	AAMP2----1A----	Animacy=Anim|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	12:amod	_
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 17	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	19	case	19:case	_
 18	sousedních	sousední	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	19	amod	19:amod	_
 19	zemí	země	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	16	nmod	16:nmod:z:gen	SpaceAfter=No
-20	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
+20	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
 

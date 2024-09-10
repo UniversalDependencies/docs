@@ -17,4 +17,4 @@ vocative(ϣⲃⲣ)
 
 
 **Note:** This label is only used for cases in which tokenization has left parts of a compound as separate units. Generally speaking, Coptic Scriptorium guidelines specify that compound constituents are only annotated at the morpheme level, and do not constitute independent normalized units which are assigned a part of speech. As a result, this label should almost never be needed in corpora following Scriptorium segmentation practices; but for exceptional cases or corpora not following these practices, the `compound` label is the alternative.
-<!-- Interlanguage links updated Po lis 14 15:35:15 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:53 CEST -->

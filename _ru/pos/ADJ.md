@@ -62,4 +62,4 @@ And these adjectives are not derived from verbs. Example:
 
 Here both groups are `ADJ`. The nominal forms are used in predication,
 the standard forms both in predication and to modify nouns.
-<!-- Interlanguage links updated Po lis 14 15:34:28 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:32 CEST -->

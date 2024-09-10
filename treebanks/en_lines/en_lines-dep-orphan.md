@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	and	and	CCONJ	_	_	13	cc	_	_
 8	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	13	dislocated	_	_
 9	one	one	PRON	IND-P3SG	_	13	nsubj	_	_
-10	ca	can	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	SpaceAfter=No
+10	ca	can	AUX	PRES-AUX	VerbForm=Fin	13	aux	_	_
 11	n't	not	PART	NEG	_	13	advmod	_	_
 12	be	be	AUX	INF	VerbForm=Inf	13	cop	_	_
 13	sure	sure	ADJ	POS	Degree=Pos	3	conj	_	_
@@ -110,14 +110,14 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 18	and	and	CCONJ	_	_	19	cc	_	_
 19	orange	orange	ADJ	POS	Degree=Pos	17	conj	_	_
 20	made	make	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	_
-21	my	I	PRON	P1SG-GEN	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
+21	my	my	PRON	P1SG-GEN	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	_
 22	mother	mother	NOUN	SG-NOM	Number=Sing	20	obj	_	_
 23	look	look	VERB	INF	VerbForm=Inf	20	xcomp	_	_
 24	like	like	ADP	_	_	26	case	_	_
 25	a	a	DET	IND-SG	Definite=Ind|PronType=Art	26	det	_	_
 26	vampire	vampire	NOUN	SG-NOM	Number=Sing	23	obl	_	_
 27	and	and	CCONJ	_	_	29	cc	_	_
-28	my	I	PRON	P1SG-GEN	Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	_	_
+28	my	my	PRON	P1SG-GEN	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	_	_
 29	father	father	NOUN	SG-NOM	Number=Sing	4	conj	_	_
 30	a	a	DET	IND-SG	Definite=Ind|PronType=Art	31	det	_	_
 31	Matisse	Matisse	PROPN	SG-NOM	Number=Sing	29	orphan	_	SpaceAfter=No

@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Circ`, `Obj`.
 
-20 tokens (2%) have a non-empty value of `Nomzr`.
+21 tokens (1%) have a non-empty value of `Nomzr`.
 16 types (3%) occur at least once with a non-empty value of `Nomzr`.
 12 lemmas (4%) occur at least once with a non-empty value of `Nomzr`.
-The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (17; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (18; 1% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-17 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Nomzr`.
+18 <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Nomzr`.
 
-The most frequent other feature values with which `NOUN` and `Nomzr` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 82%).
+The most frequent other feature values with which `NOUN` and `Nomzr` co-occurred: <tt><a href="aqz_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 83%).
 
 `NOUN` tokens may have the following values of `Nomzr`:
 
-* `Circ` (5; 29% of non-empty `Nomzr`): <em>atʃoap, nĩap, parãap, tʃogaap, pajapna</em>
-* `Obj` (12; 71% of non-empty `Nomzr`): <em>imi, iõ, imokwa, itʃopa, oiko, eiat, oiat, teimaj, teimi</em>
+* `Circ` (5; 28% of non-empty `Nomzr`): <em>atʃoap, nĩap, parãap, tʃogaap, pajapna</em>
+* `Obj` (13; 72% of non-empty `Nomzr`): <em>imi, iõ, imokwa, itʃopa, oiko, eiat, oiat, teimaj, teimi</em>
 
 `Nomzr` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Nomzr`.
 

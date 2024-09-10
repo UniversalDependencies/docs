@@ -68,4 +68,4 @@ Classifiers are treated as determiners in the syntax when a noun phrase begins w
 3	book"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:22 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:06 CEST -->

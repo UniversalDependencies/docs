@@ -109,7 +109,7 @@ The most frequent other feature values with which `PRON` and `Rel` co-occurred: 
 
 4 <tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt> tokens (44% of all `NUM` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `NUM` and `Rel` co-occurred: <tt><a href="gub_tudet-feat-Dimin.html">Dimin</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="gub_tudet-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%).
+The most frequent other feature values with which `NUM` and `Rel` co-occurred: <tt><a href="gub_tudet-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="gub_tudet-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%).
 
 `NUM` tokens may have the following values of `Rel`:
 

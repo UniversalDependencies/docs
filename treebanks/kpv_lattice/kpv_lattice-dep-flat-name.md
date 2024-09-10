@@ -9,31 +9,29 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="kpv_lattice-dep-flat-num.html">flat:num</a></tt>.
 
-54 nodes (1%) are attached to their parents as `flat:name`.
+53 nodes (1%) are attached to their parents as `flat:name`.
 
-54 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12962962962963.
+53 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13207547169811.
 
-The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (42; 78% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (8; 15% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (42; 79% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (8; 15% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:name	color:blue
-1	Эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	aux:neg	_	_
-2	позь	позьны	AUX	V	Connegative=Yes	3	aux:pot	_	_
-3	бӧрйыны	бӧрйыны	VERB	V	VerbForm=Inf	0	root	_	_
-4	ни	ни	CCONJ	CC	Polarity=Neg	5	cc:preconj	_	_
-5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru
-6	Смитӧс	Смит	NOUN	N	Case=Acc|Number=Sing	5	flat:name	_	OrigLang=ru|SpaceAfter=No
-7	,	,	PUNCT	CLB	_	9	punct	_	_
-8	ни	ни	CCONJ	CC	Polarity=Neg	9	cc:preconj	_	_
-9	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	5	conj	_	OrigLang=ru
-10	Браунӧс	Браун	NOUN	N	Case=Acc|Number=Sing	9	flat:name	_	OrigLang=ru|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat:name	color:blue
+1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+2	Выль	выль	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
+3	олӧм	олӧм	NOUN	N	Case=Nom|Number=Sing	2	flat:name	_	_
+4	колхоз	колхоз	NOUN	N	Case=Nom|Number=Sing	3	flat:name	_	OrigLang=ru|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	председательыс	председатель	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	appos	_	OrigLang=ru
+7	Калинин	Калинин	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	OrigLang=ru|SpaceAfter=No
+8	)	)	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

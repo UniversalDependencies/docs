@@ -49,4 +49,4 @@ Particles can modify whole clauses (as _kó_ does in the example above) or noun
 'He took it as well'.
 
 
-<!-- Interlanguage links updated Po lis 14 15:35:23 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:08 CEST -->

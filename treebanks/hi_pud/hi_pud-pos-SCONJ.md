@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-PUD: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (6%), 25 `SCONJ` types (0%) and 382 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 11 in number of types and 12 in number of tokens.
+There are 25 `SCONJ` lemmas (1%), 25 `SCONJ` types (0%) and 382 `SCONJ` tokens (2%).
+Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: _
+The 10 most frequent `SCONJ` lemmas: कि, तो, जब, क्योंकि, हालांकि, यदि, जबकि, इसलिए, जैसे, जहाँ
 
 The 10 most frequent `SCONJ` types:  कि, तो, जब, क्योंकि, हालांकि, यदि, जबकि, इसलिए, जैसे, जहां
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 5597, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4849, <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> 2297, <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> 2058, <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> 1995, <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> 1776, <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> 1358, <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 1128, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 876, <tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 545, <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> 452, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 382, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 316, <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> 159, <tt><a href="hi_pud-pos-SYM.html">SYM</a></tt> 30, <tt><a href="hi_pud-pos-X.html">X</a></tt> 11)
+The 10 most frequent ambiguous lemmas: कि (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 205, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="hi_pud-pos-X.html">X</a></tt> 1), तो (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), जब (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 31, <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 1), इसलिए (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), जैसे (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 6), जहाँ (<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), ऐसा (<tt><a href="hi_pud-pos-DET.html">DET</a></tt> 23, <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> 1), जैसा (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 18, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1), जैसेकि (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 9, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1), तब (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  कि (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 205, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4, <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="hi_pud-pos-X.html">X</a></tt> 1), तो (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 2, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), जब (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 31, <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 1), इसलिए (<tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), जैसे (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 8), जहां (<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1), ऐसा (<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 13, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 10, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 2), ऐसी (<tt><a href="hi_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 2), जैसेकि (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 9, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1), तब (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -57,9 +57,13 @@ The 10 most frequent ambiguous types:  कि (<tt><a href="hi_pud-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 25.000000 (the average of all parts of speech is 345.375000).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.166595).
 
-The 1st highest number of forms (25) was observed with the lemma “_”: इफ, इसलिए, ऐसा, ऐसी, कि, क्योंकि, चाहे, जब, जबकि, जबतक, जहां, जैसाकि, जैसे, जैसेकि, तब, तबतक, तो, बल्कि, मानो, यदि, यद्यपि, या, लेकिन, वैसे, हालांकि.
+The 1st highest number of forms (2) was observed with the lemma “ऐसा”: ऐसा, ऐसी.
+
+The 2nd highest number of forms (1) was observed with the lemma “इफ”: इफ.
+
+The 3rd highest number of forms (1) was observed with the lemma “इसलिए”: इसलिए.
 
 `SCONJ` does not occur with any features.
 
@@ -68,7 +72,7 @@ The 1st highest number of forms (25) was observed with the lemma “_”: इफ
 
 `SCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="hi_pud-dep-mark.html">mark</a></tt> (382; 100% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (302; 79% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (58; 15% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (16; 4% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (336; 88% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (28; 7% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (14; 4% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 381 (100%) `SCONJ` nodes are leaves.
 

@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt>, <tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-796 tokens (1%) have a non-empty value of `Number[psor]`.
-482 types (2%) occur at least once with a non-empty value of `Number[psor]`.
-287 lemmas (2%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (709; 1% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (57; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+779 tokens (1%) have a non-empty value of `Number[psor]`.
+481 types (2%) occur at least once with a non-empty value of `Number[psor]`.
+289 lemmas (2%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (709; 1% instances), <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (38; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
 709 <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (709; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (558; 79%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (457; 64%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (425; 60%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (709; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (557; 79%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (457; 64%), <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt> (425; 60%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
@@ -36,20 +36,19 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 ### `ADP`
 
-57 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
+38 <tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (57; 100%).
+The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (38; 100%).
 
 `ADP` tokens may have the following values of `Number[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>վրայ</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>վրաս</em></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>վրան</em></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>վրանիս</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>վրանին</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>վրաս</em></td></tr>
   <tr><td><tt><tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>վրադ</em></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>վրանիս</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hyw_armtdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="hyw_armtdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>վրանին</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -82,9 +81,9 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 
 ### `PRON`
 
-2 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+4 <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="hyw_armtdp-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hyw_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt> (3; 75%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 
@@ -103,6 +102,5 @@ The most frequent other feature values with which `AUX` and `Number[psor]` co-oc
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
 <tt>NOUN --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 63%),
 <tt>ADP --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="hyw_armtdp-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-case-loc.html">case:loc</a></tt>]--> VERB</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="hyw_armtdp-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%).
 

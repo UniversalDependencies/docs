@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
 Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -999,11 +999,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN-Acc (4)</li>
-      <li>VERB-Fin--NOUN-Acc (829)</li>
+      <li>VERB-Fin--NOUN-Acc (832)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (294)</li>
+      <li>VERB-Fin--PRON-Acc (297)</li>
       <li>VERB-Fin--PRON-Acc-ADP(na) (8)</li>
       <li>VERB-Fin--PRON-Acc-ADP(o) (1)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
@@ -1014,11 +1014,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (115)</li>
       <li>VERB-Inf--PRON-Acc-ADP(na) (2)</li>
       <li>VERB-Inf--PRON-Acc-ADP(za) (1)</li>
-      <li>VERB-Part--NOUN-Acc (2032)</li>
-      <li>VERB-Part--NOUN-Gen (10)</li>
+      <li>VERB-Part--NOUN-Acc (2045)</li>
+      <li>VERB-Part--NOUN-Gen (11)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
-      <li>VERB-Part--PRON (13)</li>
-      <li>VERB-Part--PRON-Acc (716)</li>
+      <li>VERB-Part--PRON (14)</li>
+      <li>VERB-Part--PRON-Acc (727)</li>
       <li>VERB-Part--PRON-Acc-ADP(na) (22)</li>
       <li>VERB-Part--PRON-Acc-ADP(pre) (1)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
@@ -1029,17 +1029,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (4)</li>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
+      <li>VERB-Fin--PRON-Acc (5)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (5)</li>
-      <li>VERB-Part--NOUN-Acc (17)</li>
-      <li>VERB-Part--NOUN-Gen (1)</li>
+      <li>VERB-Part--NOUN-Acc (4)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON (33)</li>
-      <li>VERB-Part--PRON-Acc (33)</li>
+      <li>VERB-Part--PRON (32)</li>
+      <li>VERB-Part--PRON-Acc (22)</li>
       <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
     </ul>
   </li>

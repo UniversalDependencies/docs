@@ -74,7 +74,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Bob	Bob	PROPN	NNP	Gender=Masc|Number=Sing	5	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	11	punct	_	_
-9	uma	um	DET	DT	Gender=Fem|Number=Sing	11	det	_	_
+9	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 10	constante	constante	ADJ	JJ	Gender=Fem|Number=Sing	11	amod	_	_
 11	fonte	fonte	NOUN	NN	Gender=Fem|Number=Sing	7	appos	_	_
 12	de	de	ADP	IN	_	13	case	_	_

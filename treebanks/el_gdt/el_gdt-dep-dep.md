@@ -36,8 +36,8 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 12	πολυάριθμα	πολυάριθμος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	13	amod	_	_
 13	χωριά	χωριό	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	_
 14	ιδίως	ιδίως	ADV	ADV	_	17	advmod	_	_
-15	σ	σε	ADP	AsPpSp	_	17	case	_	_
-16	τα	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Plur	17	det	_	_
+15	σ	σε	ADP	ADP	_	17	case	_	_
+16	τα	ο	DET	DET	Case=Acc|Gender=Neut|Number=Plur	17	det	_	_
 17	νότια	νότιος	ADV	ADV	_	13	nmod	_	_
 18	που	που	PRON	PRON	Case=Nom|Gender=Neut|Number=Plur|Person=3|PronType=Rel	22	nsubj	_	_
 19	σχεδόν	σχεδόν	ADV	ADV	_	22	advmod	_	_

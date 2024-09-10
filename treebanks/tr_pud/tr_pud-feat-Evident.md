@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 `VERB` tokens may have the following values of `Evident`:
 
 * `Nfh` (206; 100% of non-empty `Evident`): <em>edilmiştir, etmiştir, başlamıştır, edilmiş, almıştır, etmiş, gelmiştir, kalmıştır, vermiştir, yapmıştır</em>
-* `EMPTY` (1487): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
+* `EMPTY` (1488): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
 
 `Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (117) occur only with one value of `Evident`.
 

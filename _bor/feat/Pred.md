@@ -18,11 +18,11 @@ udver: '2'
 
 ### <a name="AtrEq">`AtrEq`</a>: AtrEq
 
-The  
+The equative predicate is marked in Bororo by the copula _rema_.
 
 #### Examples
 
-* _<b></b>&nbsp;_ “” 
+* _<b>Ikure nowu uva kuru rema</b>&nbsp;_ “This wine is my blood” 
 
 
 
@@ -34,4 +34,4 @@ The
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:17 CEST -->

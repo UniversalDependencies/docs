@@ -13,7 +13,7 @@ This relation is universal.
 37 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.02702702702703.
 
-The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (23; 62% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (6; 16% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (4; 11% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (3; 8% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (24; 65% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (6; 16% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (4; 11% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (3; 8% instances).
 
 
 ~~~ conllu
@@ -23,11 +23,11 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
 1	Pas	pas	ADV	_	Polarity=Neg	3	advmod	_	wordform=pas
-2	de	un	DET	_	_	3	det	_	_
+2	de	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	sèche	sèche-cheveux	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	0	root	_	CorrectForm=sèche-cheveux
 4	cheveux	_	X	_	_	3	goeswith	_	_
 5	ni	ni	CCONJ	_	_	7	cc	_	_
-6	de	un	DET	_	_	7	det	_	_
+6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	prise	prise	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
 8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 9	dans	dans	ADP	_	_	11	case	_	_
@@ -73,7 +73,7 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 8	croix	_	X	_	_	7	goeswith	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	7	punct	_	_
 10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	créée	créer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+11	créée	créer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~

@@ -11,19 +11,19 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_ftb-feat-Number.html">Number</a></tt>, <tt><a href="fi_ftb-feat-Number-psor.html">Number[psor]</a></tt>.
 
-97145 tokens (61%) have a non-empty value of `Number`.
-40428 types (92%) occur at least once with a non-empty value of `Number`.
+97139 tokens (61%) have a non-empty value of `Number`.
+40425 types (92%) occur at least once with a non-empty value of `Number`.
 18571 lemmas (86%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (36961; 23% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (18359; 12% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (10053; 6% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (10025; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (9870; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6773; 4% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3600; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1504; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (36956; 23% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (18950; 12% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (10053; 6% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (9870; 6% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (9434; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6772; 4% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3600; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1504; 1% instances).
 
 ### `NOUN`
 
-36961 <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+36956 <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (8489; 23% of non-empty `Number`): <em>ihmiset, lapset, naiset, miehet, asioita, ihmisiä, asiat, ihmisten, naisten, lapsia</em>
-* `Sing` (28472; 77% of non-empty `Number`): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
+* `Plur` (8488; 23% of non-empty `Number`): <em>ihmiset, lapset, naiset, miehet, asioita, ihmisiä, asiat, ihmisten, naisten, lapsia</em>
+* `Sing` (28468; 77% of non-empty `Number`): <em>mies, vuoden, vuotta, asia, aikaa, äiti, vuonna, kertaa, osa, markkaa</em>
 * `EMPTY` (75): <em>puolisoineen, vaimoineen, juurineen, kuulokkeineen, lapsineen, perheineen, päivineen, x:ineen, aitoineen, elimineen</em>
 
 <table>
@@ -48,15 +48,15 @@ The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.htm
 
 ### `VERB`
 
-18359 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (69% of all `VERB` tokens) have a non-empty value of `Number`.
+18950 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (18359; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16536; 90%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13532; 74%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (13532; 74%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13532; 74%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12012; 65%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (9991; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_ftb-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (18950; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (17117; 90%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (14064; 74%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (14064; 74%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14064; 74%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12486; 66%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (10428; 55%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (2892; 16% of non-empty `Number`): <em>ovat, olivat, tulevat, kuuluvat, olleet, saaneet, saivat, eivät, haluavat, olemme</em>
-* `Sing` (15467; 84% of non-empty `Number`): <em>on, oli, tuli, ollut, tulee, ei, sanoi, saa, sanoo, tullut</em>
-* `EMPTY` (8080): <em>ole, olla, tehdä, mennä, tulla, saada, tiedä, lähteä, ottaa, sanoa</em>
+* `Plur` (2970; 16% of non-empty `Number`): <em>ovat, olivat, tulevat, saaneet, saavat, kuuluvat, olleet, saivat, eivät, haluavat</em>
+* `Sing` (15980; 84% of non-empty `Number`): <em>on, oli, tulee, tuli, ollut, ei, sanoi, saa, sai, saanut</em>
+* `EMPTY` (8246): <em>ole, olla, tehdä, mennä, tulla, saada, saa, ottaa, tiedä, lähteä</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -154,7 +154,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (2452; 24% of non-empty `Number`): <em>uusia, suomalaiset, hyvät, hyviä, omat, omia, pienet, uudet, nuoret, suomalaisia</em>
 * `Sing` (7601; 76% of non-empty `Number`): <em>hyvä, hyvää, uusi, oma, ensimmäinen, uutta, uuden, suuri, ainoa, oman</em>
-* `EMPTY` (438): <em>koko, viime, ensi, pikku, tosi, 1., 4., kelpo, ens, ihme</em>
+* `EMPTY` (437): <em>koko, viime, ensi, pikku, tosi, 1., 4., kelpo, ens, ihme</em>
 
 <table>
   <tr><th>Paradigm <i>hyvä</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -175,17 +175,44 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Tra</tt></tt></td><td><em>hyväksi</em></td><td></td></tr>
 </table>
 
+### `PRON`
+
+9870 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5435; 55%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5270; 53%).
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Plur` (1919; 19% of non-empty `Number`): <em>ne, he, me, meillä, jotka, niitä, te, meidän, meitä, joita</em>
+* `Sing` (7951; 81% of non-empty `Number`): <em>se, hän, minä, sen, sitä, joka, mä, sinä, siitä, tämä</em>
+* `EMPTY` (778): <em>mitä, kaikki, mitään, niin, mistä, minkä, missä, miltä, mihin, mitäs</em>
+
+<table>
+  <tr><th>Paradigm <i>joka</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>jolta</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>jolla</em></td><td><em>joilla</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td><em>jolle</em></td><td><em>joille</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td><em>josta</em></td><td><em>joista</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ess</tt></tt></td><td><em>jona</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>jonka</em></td><td><em>joiden</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ill</tt></tt></td><td><em>johon</em></td><td><em>joihin</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ine</tt></tt></td><td><em>jossa</em></td><td><em>joissa</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>joka</em></td><td><em>jotka</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>jota</em></td><td><em>joita</em></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Tra</tt></tt></td><td><em>joksi</em></td><td></td></tr>
+</table>
+
 ### `AUX`
 
-10025 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
+9434 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9994; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9727; 97%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (8077; 81%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7117; 71%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6122; 61%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9413; 100%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9195; 97%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt> (7640; 81%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6526; 69%), <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5648; 60%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (1236; 12% of non-empty `Number`): <em>ovat, eivät, olivat, emme, olemme, olette, ette, olleet, voivat, olisivat</em>
-* `Sing` (8789; 88% of non-empty `Number`): <em>on, ei, oli, en, voi, olisi, olen, ollut, eikä, olin</em>
-* `EMPTY` (1136): <em>ole, olla, voi, olisi, saa, ollaan, voidaan, oo, pitäisi, tarvitse</em>
+* `Plur` (1158; 12% of non-empty `Number`): <em>ovat, eivät, olivat, emme, olemme, olette, ette, olleet, voivat, olisivat</em>
+* `Sing` (8276; 88% of non-empty `Number`): <em>on, ei, oli, en, voi, olisi, olen, ollut, eikä, olin</em>
+* `EMPTY` (970): <em>ole, olla, voi, olisi, ollaan, voidaan, oo, pitäisi, tarvitse, olemaan</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -278,41 +305,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>lienee, lie</em></td><td><em>lienevät</em></td></tr>
 </table>
 
-### `PRON`
-
-9870 <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5435; 55%), <tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5270; 53%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Plur` (1919; 19% of non-empty `Number`): <em>ne, he, me, meillä, jotka, niitä, te, meidän, meitä, joita</em>
-* `Sing` (7951; 81% of non-empty `Number`): <em>se, hän, minä, sen, sitä, joka, mä, sinä, siitä, tämä</em>
-* `EMPTY` (778): <em>mitä, kaikki, mitään, niin, mistä, minkä, missä, miltä, mihin, mitäs</em>
-
-<table>
-  <tr><th>Paradigm <i>joka</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>jolta</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>jolla</em></td><td><em>joilla</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td><em>jolle</em></td><td><em>joille</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td><em>josta</em></td><td><em>joista</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ess</tt></tt></td><td><em>jona</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>jonka</em></td><td><em>joiden</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ill</tt></tt></td><td><em>johon</em></td><td><em>joihin</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Ine</tt></tt></td><td><em>jossa</em></td><td><em>joissa</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>joka</em></td><td><em>jotka</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>jota</em></td><td><em>joita</em></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Tra</tt></tt></td><td><em>joksi</em></td><td></td></tr>
-</table>
-
 ### `PROPN`
 
-6773 <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+6772 <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (135; 2% of non-empty `Number`): <em>Yhdysvaltain, Sanomat, Yhdysvalloissa, Pohjoismaiden, Sanomien, Sanomissa, Yhdysvallat, Yhdysvaltojen, Pohjoismaissa, Ahtisaarten</em>
-* `Sing` (6638; 98% of non-empty `Number`): <em>Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</em>
+* `Sing` (6637; 98% of non-empty `Number`): <em>Suomen, suomessa, Suomi, Helsingin, Maija, Mikko, Euroopan, Anna, Helsingissä, Suomeen</em>
 
 <table>
   <tr><th>Paradigm <i>yhdysvallat</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -323,7 +323,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="fi_ftb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Yhdysvallat</em></td><td><em>Yhdysvallat</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (3107) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (3106) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -392,8 +392,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3264; 69%),
 <tt>VERB --[<tt><a href="fi_ftb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3223; 75%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-det.html">det</a></tt>]--> DET</tt> (2625; 80%),
-<tt>NOUN --[<tt><a href="fi_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1539; 72%),
-<tt>ADJ --[<tt><a href="fi_ftb-dep-cop.html">cop</a></tt>]--> AUX</tt> (1515; 84%),
-<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1387; 69%),
+<tt>NOUN --[<tt><a href="fi_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1553; 73%),
+<tt>ADJ --[<tt><a href="fi_ftb-dep-cop.html">cop</a></tt>]--> AUX</tt> (1516; 84%),
+<tt>VERB --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1407; 70%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1385; 84%).
 

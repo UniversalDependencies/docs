@@ -19,4 +19,4 @@ flat(Федор-3, Федорович-4)
 obl(тұрды-6, Қарағандыда-5)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:26 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:13 CEST -->

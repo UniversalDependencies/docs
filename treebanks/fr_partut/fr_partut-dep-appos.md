@@ -24,10 +24,10 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3 6 appos	color:blue
 1	Et	et	CCONJ	CC	_	21	cc	_	_
 2	ce	ce	DET	DD	Number=Sing|PronType=Dem	3	det	_	_
-3	flux	flux	NOUN	S	Gender=Masc	21	nsubj	_	SpaceAfter=No
+3	flux	flux	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	FF	_	3	punct	_	_
 5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	flux	flux	NOUN	S	Gender=Masc	3	appos	_	_
+6	flux	flux	NOUN	S	Gender=Masc|Number=Sing	3	appos	_	_
 7	de	de	ADP	E	_	9	case	_	_
 8	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	vie	vie	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
@@ -42,11 +42,11 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 18	,	,	PUNCT	FF	_	3	punct	_	_
 19	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 20	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	flux	flux	NOUN	S	Gender=Masc	0	root	_	_
+21	flux	flux	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
 22	que	que	PRON	PR	PronType=Rel	23	obj	_	_
 23	voit	voir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 24	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	25	det	_	SpaceAfter=No
-25	écologiste	écologiste	ADJ	A	Number=Sing	23	nsubj	_	SpaceAfter=No
+25	écologiste	écologiste	NOUN	S	Number=Sing	23	nsubj	_	SpaceAfter=No
 26	.	.	PUNCT	FS	_	21	punct	_	_
 
 ~~~

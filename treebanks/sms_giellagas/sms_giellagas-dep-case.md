@@ -17,20 +17,19 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 case	color:blue
-1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	jälsti	jälsted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Sg3
-3	čõõđ	čõõđ	ADP	Pr	AdpType=Prep	4	case	_	_
-4	ääiʹj	äiʹǧǧ	NOUN	N	Case=Gen|Number=Sing	2	obl:tmod	_	GTtags=Sg,Gen
-5	Pariizzâst	Pariizzâst	PROPN	N	Case=Loc|NameType=Geo|Number=Sing	2	obl:lmod	_	GTtags=Prop,Sem/Plc,Sg,Loc|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	8	punct	_	_
-7	Franskkjânnam	Franskkjânnam	PROPN	N	Case=Gen|NameType=Geo|Number=Sing	8	nmod:poss	_	GTtags=Prop,Sem/Plc,Sg,Gen
-8	vueiʹvvgåårdest	vueiʹvvgåårad	NOUN	N	Case=Loc|Number=Sing	5	appos	_	GTtags=Sg,Loc|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 case	color:blue
+1	Puõʹtte	pueʹtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
+2	âʹtte	âʹte	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Sem/Time
+3	põʹrtte	põrtt	NOUN	N	Case=Ill|Number=Sing	1	obl:lmod	_	GTtags=Sg,Ill
+4	ja	ja	CCONJ	CC	_	5	cc	_	GTtags=CCONJ,@CVP
+5	mõʹnne	mõõnnâd	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	1	conj	_	GTtags=Ind,Prt,Pl3
+6	čääʹcckaʹlddi	čääʹcckaʹlddi	NOUN	N	Case=Gen|Number=Sing	5	obl:lmod	_	GTtags=NomAg,Sg,Gen
+7	luzz	luzz	ADP	Po	AdpType=Post|Case=Ill	6	case	_	GTtags=Ill|SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -44,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 1	Joo	joo	INTJ	Interj	_	5	discourse	_	_
 2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	GTtags=Pers,Sg1,Nom,@<SUBJ
 3	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	obl	_	GTtags=Dem,Sg,Gen
-4	räjja	räjja	ADP	Po	AdpType=Post	3	case	_	_
+4	räjja	räjja	ADP	Po	AdpType=Post|Case=Ill	3	case	_	_
 5	teâđam	tieʹtted	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1,@+FMAINV|SpaceAfter=No
 6	,	,	PUNCT	CLB	_	9	punct	_	_
 7	jäänab	jäänab	DET	Det	_	9	obj	_	GTtags=@ADVL>

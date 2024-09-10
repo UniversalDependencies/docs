@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 15	경선에	경선	NOUN	NN+CM	Polite=Form	16	obl	_	MSeg=경선-에|Translit=.gyeong.seon.e|LTranslit=.gyeong.seon
 16	나갈	_	VERB	VV	Form=Adn|Tense=Fut	17	dep	_	Translit=.na.gal
 17	것	_	NOUN	NNB	_	0	root	_	SpaceAfter=No|Translit=.geos
-18	이다	_	AUX	VC	Mood=Ind|VerbForm=Fin	17	cop	_	SpaceAfter=No|Translit=.i.da
+18	이다	이	AUX	VC	Mood=Ind|VerbForm=Fin	17	cop	_	SpaceAfter=No|Translit=.i.da|LTranslit=.i
 19	.	.	PUNCT	.	_	17	punct	_	Translit=.|LTranslit=.
 
 ~~~

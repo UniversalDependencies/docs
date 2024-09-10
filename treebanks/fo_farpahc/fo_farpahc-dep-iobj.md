@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	Júdeu	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	3	obl	_	_
 7	og	_	CCONJ	CONJ	_	8	cc	_	_
 8	lærdu	_	VERB	VBDI	Mood=Ind|Tense=Past	3	conj	_	OriginalHead=0
-9	bröðurnar	_	NOUN	NS-A	Case=Acc|Definite=Ind|Number=Plur	8	iobj	_	_
+9	bröðurnar	_	NOUN	NS-A	Case=Acc|Definite=Def|Number=Plur	8	iobj	_	_
 10	hetta	_	DET	D-A	Case=Acc	8	obj	_	SpaceAfter=No
 11	:	:	PUNCT	.	_	10	punct	_	_
 
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	Sigið	_	VERB	VBI	Mood=Imp	3	ccomp	_	_
 7	Jákupi	_	PROPN	NPR-D	Case=Dat|Definite=Ind|Number=Sing	6	iobj	_	_
 8	og	_	CCONJ	CONJ	_	9	cc	_	_
-9	bröðrunum	_	NOUN	NS-D	Case=Dat|Definite=Ind|Number=Plur	7	conj	_	_
+9	bröðrunum	_	NOUN	NS-D	Case=Dat|Definite=Def|Number=Plur	7	conj	_	_
 10	frá	_	ADP	P	_	11	case	_	_
 11	hesum	_	DET	D-D	Case=Dat	6	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	11	punct	_	SpaceAfter=No

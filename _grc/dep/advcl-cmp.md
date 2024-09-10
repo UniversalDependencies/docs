@@ -52,3 +52,4 @@ The `cmp` subtype is of semantic nature and is used to point out the **standards
 12	γραμματεῖς	γραμματεύς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	ref=MATT_7.29
 13	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	det	_	ref=MATT_7.29
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:33 CEST -->

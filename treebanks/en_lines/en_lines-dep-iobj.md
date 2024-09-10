@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-86 nodes (0%) are attached to their parents as `iobj`.
+85 nodes (0%) are attached to their parents as `iobj`.
 
-83 instances of `iobj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26744186046512.
+82 instances of `iobj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27058823529412.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (64; 74% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (16; 19% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (6; 7% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (64; 75% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (16; 19% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (5; 6% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	,	,	PUNCT	Comma	_	2	punct	_	_
 4	however	however	ADV	_	_	9	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Comma	_	4	punct	_	_
-6	Stillman	Stillman	PROPN	SG	Number=Sing	8	amod	_	SpaceAfter=No
+6	Stillman	Stillman	PROPN	SG	Number=Sing	8	amod	_	_
 7	's	's	PART	GEN	_	6	case	_	_
 8	face	face	NOUN	SG-NOM	Number=Sing	9	nsubj	_	_
 9	told	tell	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_

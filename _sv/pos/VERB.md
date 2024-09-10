@@ -2,6 +2,7 @@
 layout: postag
 title: 'VERB'
 shortdef: 'verb'
+udver: '2'
 ---
 
 ### Definition
@@ -17,4 +18,4 @@ The tag VERB is reserved for full lexical verbs, while auxiliary verbs are tagge
 
 - _att <b>visa</b>_ "to <b>show</b>", _jag <b>visar</b>_ "I <b>show</b>", _han <b>visade</b>_ "he showed"
 - _att <b>flyga</b>_ "to <b>fly</b>", _vi <b>flyger</b>_ "we <b>fly</b>", _de <b>flög</b>_ "they flew"
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->

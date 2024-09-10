@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `ADV`
 
-There are 570 `ADV` lemmas (5%), 648 `ADV` types (3%) and 5252 `ADV` tokens (4%).
+There are 570 `ADV` lemmas (5%), 647 `ADV` types (3%) and 5252 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>atzo, oso, gaur, orain, ondoren, gero, hala, han, bertan, beti</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>ondoren</em> (<tt><a href="eu_bdt-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.136842 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `ADV` is 1.135088 (the average of all parts of speech is 2.170132).
 
 The 1st highest number of forms (7) was observed with the lemma “gora”: <em>Goren, gora, gorago, goragoko, gorako, gorantz, goranzkoak</em>.
 

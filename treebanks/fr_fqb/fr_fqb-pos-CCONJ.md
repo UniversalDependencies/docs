@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>et, ou, _, et_/_ou, mais, puis</em>
 
 The 10 most frequent `CCONJ` types:  <em>et, ou, /, &, mais, puis</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1), <em>puis</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 24, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="fr_fqb-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.163777).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.164044).
 
 The 1st highest number of forms (2) was observed with the lemma “et”: <em>&, et</em>.
 
@@ -35,7 +35,13 @@ The 2nd highest number of forms (2) was observed with the lemma “ou”: <em>/,
 
 The 3rd highest number of forms (1) was observed with the lemma “_”: <em>ou</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (1; 1% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (97 tokens).
+Examples: <em>et, ou, /, &, mais, puis</em>
 
 
 ## Relations

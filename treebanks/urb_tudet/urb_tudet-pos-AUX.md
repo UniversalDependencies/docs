@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `AUX`
 
-There are 3 `AUX` lemmas (2%), 3 `AUX` types (1%) and 6 `AUX` tokens (2%).
-Out of 13 observed tags, the rank of `AUX` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
+There are 3 `AUX` lemmas (1%), 3 `AUX` types (1%) and 6 `AUX` tokens (2%).
+Out of 14 observed tags, the rank of `AUX` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>ʔɪ, ho, ʃo</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>ʔɪ</em> (<tt><a href="urb_tudet-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.160000).
+The form / lemma ratio of `AUX` is 1.000000 (the average of all parts of speech is 1.154229).
 
 The 1st highest number of forms (1) was observed with the lemma “ho”: <em>oho</em>.
 

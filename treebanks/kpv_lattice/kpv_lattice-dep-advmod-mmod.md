@@ -18,19 +18,21 @@ The following 5 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 advmod:mmod	color:blue
-1	Тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
-2	кыдзи	кыдзи	ADV	Adv	PronType=Int	3	advmod:mmod	_	_
-3	мӧвпалан	мӧвпавны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	7	punct	_	_
-5	кор	кор	ADV	Adv	_	7	advmod:tmod	_	_
-6	верман	вермыны	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres	7	aux:pot	_	_
-7	волыны	волыны	VERB	V	VerbForm=Inf	3	advcl	_	SpaceAfter=No
-8	?	?	PUNCT	CLB	_	3	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advmod:mmod	color:blue
+1	Сідз	сідз	ADV	Adv	_	4	advmod:mmod	_	_
+2	жӧ	жӧ	ADV	Adv	_	1	advmod:eval	_	OrigLang=ru
+3	колӧ	ковны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux:nec	_	_
+4	сетны	сетны	VERB	V	VerbForm=Inf	0	root	_	_
+5	ыджыд	ыджыд	ADJ	A	Case=Nom|Number=Sing	6	amod	_	_
+6	тӧдчанлун	тӧдчанлун	NOUN	N	Case=Nom|Number=Sing	4	nmod:obj	_	_
+7	вошӧмъяскӧд	вошӧм	NOUN	N	Case=Com|Number=Plur	8	obl	_	_
+8	тышкасьӧм	тышкасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	obl	_	_
+9	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	8	case	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 
@@ -44,27 +46,27 @@ The following 5 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 1	Виринея	Виринея	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nsubj	_	GTtags=Prop,Sem/Fem,Sg,Nom
 2	муртса	муртса	ADV	Adv	_	4	advmod	_	_
 3	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	4	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
-4	усь	усьны	VERB	V	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg
+4	усь	усьны	VERB	V	Connegative=Yes	0	root	_	GTtags=IV,ConNeg
 5	пуклӧс	пуклӧс	NOUN	N	Case=Nom|Number=Sing	4	obl	_	GTtags=Sg,Nom
 6	вывсьыс	вылысь	ADP	Adp	AdpType=Post|Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	case	_	GTtags=Po,Sg,Ela,PxSg3|SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	13	punct	_	_
 8	но	но	CCONJ	CC	_	13	cc	_	_
 9	ӧні	ӧні	ADV	Adv	_	13	advmod:tmod	_	_
 10	некор	некор	ADV	Adv	Polarity=Neg	13	nsubj:cop	_	GTtags=Neg
-11	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	13	cop	_	GTtags=IV,Ind,Prt1,Sg3
+11	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	13	cop	_	GTtags=IV,Ind,Prt1,Sg3
 12	сылы	сійӧ	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:agent	_	GTtags=Pers,Sg3,Dat
-13	жуйявнысӧ	жуйявны	VERB	V	Clitic=So|Valency=1|VerbForm=Inf	4	conj	_	GTtags=IV,Inf,Clt/сӧ|SpaceAfter=No
+13	жуйявнысӧ	жуйявны	VERB	V	Clitic=So|VerbForm=Inf	4	conj	_	GTtags=IV,Inf,Clt/сӧ|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	19	punct	_	_
 15	гатшӧннас	гатшӧн	ADV	Adv	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	advmod	_	GTtags=Sg,Ins,PxSg3
 16	моз	моз	ADV	Adv	_	15	advmod:mmod	_	_
 17	на	на	ADV	Adv	AdvType=Tim	15	advmod:tmod	_	GTtags=Sem/Time
 18	и	и	ADV	Adv	_	15	advmod:foc	_	_
-19	судзӧдіс	судзӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	4	conj	_	GTtags=TV,Ind,Prt1,Sg3
+19	судзӧдіс	судзӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	conj	_	GTtags=TV,Ind,Prt1,Sg3
 20	пыж	пыж	NOUN	N	Case=Nom|Number=Sing	21	nmod	_	GTtags=Sg,Nom
 21	нырсьыс	ныр	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	obl:lmod	_	GTtags=Sg,Ela,PxSg3
 22	пищальсӧ	пищаль	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	obj	_	GTtags=Sg,Acc,PxSg3|SpaceAfter=No
 23	,	,	PUNCT	PUNCT	_	24	punct	_	_
-24	воськовтіс	воськовтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	19	conj	_	GTtags=IV,Ind,Prt1,Sg3
+24	воськовтіс	воськовтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	19	conj	_	GTtags=IV,Ind,Prt1,Sg3
 25	ваӧ	ва	NOUN	N	Case=Ill|Number=Sing	24	obl:lmod	_	GTtags=Sg,Ill|SpaceAfter=No
 26	.	.	PUNCT	PUNCT	_	4	punct	_	_
 

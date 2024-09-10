@@ -30,7 +30,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 150 sentences, 3764 tokens and 3804 syntactic words.</li>
+      <li>This corpus contains 193 sentences, 4709 tokens and 4783 syntactic words.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -40,14 +40,14 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 866 sentences and 15433 tokens.</li>
+      <li>This corpus contains 2596 sentences and 47790 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 510 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 562 tokens (12%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -57,7 +57,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 2108 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 6493 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -81,7 +81,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 54 types of words that contain both letters and punctuation. Examples: d', d'á, 'na, m', n-a, .i., ó'n, 'sa', 'san, agam-sa, do'n, droch-nós, n-Éirinn, orm-sa, 'e, 'n, 'n-a, 's, 'á, Shean-Ghallaibh, an-mheidhir, chroidhe-se, chughaibh-se, d'ár, de'n, fa'r, h-ala, h-anfa, h-iomhadh, h-éin, leath-phinginighe, lán-cheaptha, lér', mbocht-chara, mion-roinn, n-ainmhianaibh, n-an', n-anmanna, n-anál, n-easnamh, n-Áird, n-áit, ndeárn', neamh-shaoghalta, ná'r, príosúntacht', ró-mhall, seana-chapall, sibh-se, t-ochtmhadh</li>
+      <li>This corpus contains 78 types of words that contain both letters and punctuation. Examples: 's, d', 'na, d'á, m', n-a, .i., ó'n, 'sa', 'san, a-ta, n-am, agam-sa, do'n, droch-nós, n-Éirinn, n-áit, orm-sa, th', 'e, 'n, 'n-a, 'nar, 'á, Shean-Ghallaibh, a-bhus, a-mháin, a-niú, a-nuas, an-mheidhir, chroidhe-se, chughaibh-se, d'ár, de'n, dhuit-si, duit-si, fa'r, h-ala, h-anfa, h-iomhadh, h-éin, lat-sa, leath-phinginighe, lán-cheaptha, lér', mbocht-chara, mion-roinn, monairc-si, n-abrom, n-agh</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -91,15 +91,15 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1367 types of words that contain both letters and punctuation. Examples: #gaeilge, @aonghusoha, @TG4TV, @maitiuocoimin, @RTERnaG, @KingDonncha1, d', #gaa, @tuigim, 's, @cnag, @murchadhmor, #tg4, @MiseCiara, b', :D, n-éirí, @NiallSF, @gaelport, @igaeilge, @newbelfast, @raidionalife, Foinse.ie, #lágaeilge, @CiaranDunbar, @SBBinashui, @TgLurgan, @cormacag5, @gaeilge2013, @thechairman09, @CeolBaile, @Marion508, @Neidi, @OsgurOCiardha, @bbcblas, @rtebrodclub, @scottdebuitleir, @seolinn, @sherqui, http:/, http://t., i.n., m', @AnDuinnineach, @HannahRua, @NaGaeilOga, @NuachtTG4, @ReadoutSignpost, @SnaGaeilge, @SportTG4</li>
+      <li>This corpus contains 3724 types of words that contain both letters and punctuation. Examples: #gaeilge, @user241, @user1140, @user263, @user27, @user288, d', @user412, @user635, #gaa, 's, #tg4, @user187, @user660, @user619, @user880, @user1530, @user1478, @user1697, b', n-éirí, @user229, @user640, @user1639, @user1648, @user663, @user886, @user423, @user505, @user1523, @user312, d’, #clg, :D, @user791, @user891, Foinse.ie, @user1158, @user1349, @user1368, @user1747, @user292, @user850, m', #lágaeilge, #snag, @user1175, @user1606, @user402, @user792</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 37 multi-word tokens. On average, one multi-word token consists of 2.08 syntactic words.</li>
-      <li>There are 31 types of multi-word tokens. Examples: 'fhios, anadhbharsin, aoinne, dorinne, gidheadh, lem', Cilldaluadh, FitzUrsula, ad, adeir, adeirthear, aoinní, arsa'n, cia, dhiáidhsin, dhobhí, dhona, dochluinim, dochualadar, dochuáidh, dochí, dochúaidh, doním, dó-dhéag, fearso, im', leacoidhre, lálá, neitheadhso, neithese, shiar-thuaith.</li>
+      <li>This corpus contains 71 multi-word tokens. On average, one multi-word token consists of 2.04 syntactic words.</li>
+      <li>There are 50 types of multi-word tokens. Examples: 'sa, 'sar, 'sdo, 'sgan, dot, fad, gidheadh, 'fhios, 'sda, 'sgo, anadhbharsin, aoinne, dorinne, lem', 'sní, Cilldaluadh, FitzUrsula, ad, adeir, adeirthear, aoinní, ara, arsa'n, cait, ceidImpeir, cia, céidEmpir, dhiáidhsin, dhobhí, dhona, dochluinim, dochualadar, dochuáidh, dochí, dochúaidh, doním, dó-dhéag, eintíre, fearso, ger, id, im', it, leacoidhre, lálá, neitheadhso, neithese, shiar-thuaith, tréd, ód.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -144,7 +144,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 33 word types tagged as particles (PART): An, Ua, Ui, Uí, a, ar, ba, d', d'á, dho, do, dá, fa'r, go, gu, gur, lér', mac, mic, nach, nachar, nior, noch, ná, nách, nár, ní, níor, níos, ro, ré, Ó, ór'</li>
+      <li>This corpus contains 45 word types tagged as particles (PART): 'nar, 's, An, Nir, Ua, Ui, Uí, a, ar, ba, d', d'á, da, dar, dho, do, dob, dá, fa'r, far, go, gor, gu, gur, lér', mac, mic, na, nach, nachar, nar, ni, nior, noch, ná, nách, nár, ní, níor, níos, ro, ré, Í, Ó, ór'</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -154,14 +154,14 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 44 word types tagged as particles (PART): 's, Mac, Mhic, N', O, O', O'Toole, San, Uí, a, an, ar, bhfuil, d', do, droch, dár, go, gur, inar, iontach, is, lena, n, n't, na, nach, ni, nil, nior, nios, not, ná, nár, ní, níor, níos, o'Connor, s, to, Ó, á, ín, óg</li>
+      <li>This corpus contains 61 word types tagged as particles (PART): 's, Mag, Mc, Mhac, Mhic, Mo, Nic, O', O'Toole, San, Uí, Why, a, ag, an, ana, ar, ba, bhfuil, cha, char, d', de, do, droch, dár, d’, g, go, gur, ina, inar, iontach, is, lena, mac, n, n', n't, na, nach, ndéanann, ni, nil, nior, nios, not, ná, nár, ní, níor, níos, o, o'Connor, s, seminar, to, á, ín, ó, óg</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 21 lemmas tagged as pronouns (PRON): cad, ceachtar, cé, ea, féin, iad, is, mise, mé, seisean, seo, siad, sibh, sin, sinn, sé, sí, tusa, tú, é, í</li>
+      <li>This corpus contains 23 lemmas tagged as pronouns (PRON): a, ar, cad, ceachtar, cé, ea, féin, iad, is, mise, mé, seisean, seo, siad, sibh, sin, sinn, sé, sí, tusa, tú, é, í</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -171,7 +171,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 37 lemmas tagged as pronouns (PRON): They, cad, caidé, cé, céard, ea, everyone, féin, he, his, i, iad, it, mise, muid, mé, se, seo, siad, sibh, sin, sinn, siúd, sé, sí, that, there, this, tú, us, we, what, ya, you, yourself, é, í</li>
+      <li>This corpus contains 63 lemmas tagged as pronouns (PRON): @user1297, They, a, all, be, cad, caidé, ceard, cibé, cé, céard, ea, everyone, féin, he, her, himself, his, i, iad, is, it, le, me, mise, muid, muidne, my, mé, mí, our, se, seo, seó, she, siad, sibh, sin, sinn, sise, siúd, spré, sé, sí, that, their, them, there, this, tusa, tú, u, us, we, what, who, y, ya, you, your, yourself, é, í</li>
       </ul>
     </td>
   </tr>
@@ -183,19 +183,19 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 22 lemmas tagged as determiners (DET): a, achan, all, an, aon, bhur, cibé, do, eile, gach, gach_aon, gach_uile, leath, mo, s, seo, sin, siúd, the, uile, ár, úd</li>
+      <li>This corpus contains 21 lemmas tagged as determiners (DET): a, achan, all, an, aon, bhur, cibé, do, eile, gach, gach_aon, gach_uile, mo, s, seo, sin, siúd, the, uile, ár, úd</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 35 lemmas tagged as determiners (DET): a, achan, all, an, another, aon, bhur, brón, chuile, cibé, cúpla, do, eile, gach, his, i, is, leath, mo, my, na, no, our, pé, s.c., seo, sin, some, such, the, this, uile, watever, ár, úd</li>
+      <li>This corpus contains 46 lemmas tagged as determiners (DET): Die, a, achan, all, an, another, any, aon, bhur, brón, chuile, cibé, cé, cúpla, do, eile, else, gach, his, i, is, la, le, leath, meus, mo, my, na, no, our, pé, s, s.c., seo, sin, siúd, some, such, the, this, uile, watever, you, your, ár, úd</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: seo, sin</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: a, seo, sin</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -205,7 +205,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: his, i, seo, sin, this</li>
+      <li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: a, all, cibé, cé, his, i, is, le, my, our, seo, sin, siúd, this, you, your</li>
       </ul>
     </td>
   </tr>
@@ -222,7 +222,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): be, can, do, is, might, must, should, will, would</li>
+      <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): be, can, could, do, have, is, might, must, should, will, would</li>
       </ul>
     </td>
   </tr>
@@ -237,7 +237,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: be, do</li>
+      <li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, can, do, have, is</li>
       </ul>
     </td>
   </tr>
@@ -263,7 +263,9 @@ udver: '2'
       <ul>
         <li>Cop
         <ul>
-          <li>AUX: is, gurab, nach, ní, ba, fá, dobadh, gur, Ag, an</li>
+          <li>AUX: is, gurab, nach, as, ní, ba, fá, gur, nar, budh</li>
+          <li>PART: dob</li>
+          <li>SCONJ: 's, mas, ós</li>
         </ul>
         </li>
       </ul>
@@ -275,7 +277,7 @@ udver: '2'
           <li>AUX: is, ba, ní, gur, b', nach, ar, gurb, nár, an</li>
           <li>PART: ba, b'</li>
           <li>PRON: Caidé, cér, cérbh</li>
-          <li>SCONJ: más, ós, mura, arb, murar, dar, murab, Sular</li>
+          <li>SCONJ: más, ós, mura, arb, dar, murab, murar, Sular</li>
         </ul>
         </li>
       </ul>
@@ -289,7 +291,7 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>NOUN: bheith, dhéanamh, chur, déanamh, rádh, scríobhadh, thabhairt, breith, bualadh, ceileabhradh</li>
+          <li>NOUN: bheith, chur, dhéanamh, déanamh, rádh, scríobhadh, thabhairt, adhradh, breith, bualadh</li>
         </ul>
         </li>
       </ul>
@@ -312,7 +314,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: Cinnte, briste, ceaptha, cuachta, dúnta, foghlumtha, fágtha, fáighte, saluighthe, stróctha</li>
+          <li>ADJ: Cinnte, beite, briste, ceaptha, cuachta, cuirthe, dúnta, foghlumtha, fágtha, fáighte</li>
         </ul>
         </li>
       </ul>
@@ -335,7 +337,7 @@ udver: '2'
       <ul>
         <li>Vnoun
         <ul>
-          <li>NOUN: cur, tabhairt, teacht, dul, gabháil, baint, breith, brúghadh, ceapadh, déanamh</li>
+          <li>NOUN: cur, tabhairt, teacht, dul, gabháil, baint, breith, brúghadh, ceapadh, dol</li>
         </ul>
         </li>
       </ul>
@@ -384,12 +386,12 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: mhaith, bhán, breagh, buidhe, direach, dubh, fada, feargach, feósaidhe, mhór</li>
+            <li>ADJ: ghloin, mhaith, shuthoin, aintréin, bheg, bhán, breagh, buidhe, cobhartha, direach</li>
             <li>ADP: aici, uirre, dhi, di, lei, léithi, ría</li>
             <li>DET: na, a, n-a, ná</li>
-            <li>NOUN: bliadhna, cuid, oidhche, réir, laimh, leith, láimh, uair, aít, bhuidhin</li>
+            <li>NOUN: beatha, leith, bliadhna, cuid, oidhche, réir, thoil, laimh, linn, láimh</li>
             <li>PRON: sí, í, si, sise</li>
-            <li>PROPN: Éireann, Éirinn, Danann, Uladh, n-Éirinn, Callain, Casga, Chill, Chnámhchoill, Cásg</li>
+            <li>PROPN: Éireann, Éirinn, Danann, Eireann, Uladh, n-Éirinn, Callain, Casga, Chill, Chnámhchoill</li>
           </ul>
         </li>
       </ul>
@@ -398,8 +400,8 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: nua, náisiúnta, mhór, éagsúla, poiblí, amháin, idirnáisiúnta, mhaith, ildánach, áitiúil</li>
-            <li>ADP: uirthi, di, ina, aici, léi, á, dá, inti, lena, chuici</li>
+            <li>ADJ: nua, náisiúnta, mhór, éagsúla, poiblí, amháin, idirnáisiúnta, mhaith, ildánach, chultúrtha</li>
+            <li>ADP: uirthi, di, ina, aici, á, léi, dá, inti, lena, chuici</li>
             <li>DET: na, a, 'na, n-a</li>
             <li>NOUN: chuid, réir, leith, bhfeidhm, bliana, cathrach, bhliain, bliain, cuid, áit</li>
             <li>NOUN-Inf: dtabhairt, nginiuint, reáchtáil</li>
@@ -436,12 +438,12 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: beag, mór, maith, Caoimh, Caoin, Sasanach, aisteach, allta, amhain, andeas</li>
-            <li>ADP: ann, aige, air, 'na, na, d'á, dó, as, dá, ina</li>
+            <li>ADJ: beag, mór, dil, maith, Caoimh, Caoin, Sasanach, aisteach, allta, amhain</li>
+            <li>ADP: ann, aige, air, 'na, na, d'á, dó, as, da, dhó</li>
             <li>DET: a, an, n-a, do</li>
-            <li>NOUN: lá, duine, fhios, bith, fear, la, ainm, mac, bhfearann, bhflaitheas</li>
-            <li>PRON: sé, é, hé, se, seision, e, eisean, seisean</li>
-            <li>PROPN: Iósa, Dia, Dé, Sacsaibh, Ursula, Beare, Bheannchair, Dhía, Laighean, Pilát</li>
+            <li>NOUN: lá, duine, fhios, saoghal, bith, fear, la, ainm, creidimh, mac</li>
+            <li>PRON: sé, é, hé, se, e, seision, eisean, seisean</li>
+            <li>PROPN: Iósa, Dia, Dé, Sacsaibh, Ursula, Beare, Bheannchair, Dhia, Dhía, Iosa</li>
           </ul>
         </li>
       </ul>
@@ -497,13 +499,13 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: creapalta, dearga, dlightheacha, dubha, feósaidhe, maslaightheacha, ruadha, uathbhásach', éugcruaidhe, úra</li>
-            <li>ADP: aca, againn, orra, riú, díobh, ana, ionnta, leó, léo, agaibh</li>
-            <li>DET: na, a, bhur, mur, ar</li>
-            <li>NOUN: bliadhna, Gall, comhmbráithribh, daoine, dáoinibh, fhearaibh, mac, sgeachóirighe, súile, Anmann</li>
-            <li>PRON: siad, iad, iád, hiád, sibh, sibh-se, sinn, siád</li>
-            <li>PROPN: Sacsaibh, Caomhánaigh, Fhidhic, Gaileoin, Gall, Picti, Shean-Ghallaibh, Tuathaibh, gConnachtaibh</li>
-            <li>VERB: Táid, atáid, Bhamar, anfaidís, bhfacadar, bhfuairsiod, bhíd, bhídís, choimhédadar, chrochadar</li>
+            <li>ADJ: creapalta, dearga, dlightheacha, doirbhe, dubha, feósaidhe, maslaightheacha, ruadha, uathbhásach', éugcruaidhe</li>
+            <li>ADP: aca, againn, díobh, orra, riú, 'na, da, dhóibh, diobh, leó</li>
+            <li>DET: na, a, ar, bhur, mur, bar, bhar</li>
+            <li>NOUN: bliadhna, Gall, Riogha, comhmbráithribh, daoine, dhaoinibh, dáoinibh, eachtrann, fhearaibh, mac</li>
+            <li>PRON: siad, iad, sibh, iád, hiád, sibh-se, sinn, siád, íad</li>
+            <li>PROPN: Sacsaibh, Caomhánaigh, Fhidhic, Gaileoin, Gall, Ghallaibh, Gháoidhealaibh, Grég, Picti, Romhán</li>
+            <li>VERB: Táid, atáid, Bhamar, anfaidís, bhfacadar, bhfuairsiod, bhfúairset, bhíd, bhídís, choimhédadar</li>
           </ul>
         </li>
       </ul>
@@ -517,7 +519,7 @@ udver: '2'
             <li>DET: na, a, ár, bhur, á</li>
             <li>NOUN: daoine, seirbhísí, páistí, dhaoine, ealaíon, pháistí, rialacha, gnóthaí, imeachtaí, leabharlanna</li>
             <li>PRON: iad, siad, muid, sibh, sinn, siadsan, hiad, iadsan, sinne, said</li>
-            <li>PROPN: cliath, nGall, Fianna, Gaeltachtaí, Gael, Árann, Gaeil, Coistí, Cúirteanna, Doirí</li>
+            <li>PROPN: cliath, nGall, Fianna, Gaeltachtaí, Gael, Árann, Gaeil, Tionóntán, Coistí, Cúirteanna</li>
             <li>VERB: táimid, ceannaímid, bhíodar, cuirimid, déanfaimid, roghnaímid, faighimid, féachaimid, glacaimid, mbeimid</li>
           </ul>
         </li>
@@ -532,13 +534,13 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: beag, mór, breagh, buidhe, dubh, feargach, maith, mhaith, Caoimh, Caoin</li>
-            <li>ADP: ann, aige, air, 'na, agam, liom, na, d'á, dó, orm</li>
-            <li>DET: an, a, mo, na, m', n-a, do, mó, 'n, d'</li>
-            <li>NOUN: lá, duine, fhios, bith, la, ainm, cuid, fear, oidhche, réir</li>
-            <li>PRON: sé, é, mé, hé, sí, tú, mise, se, tusa, í</li>
+            <li>ADJ: beag, mór, breagh, buidhe, dil, dubh, fada, feargach, ghloin, maith</li>
+            <li>ADP: ann, aige, air, 'na, agam, liom, don, na, d'á, dó</li>
+            <li>DET: an, a, mo, na, do, m', d, n-a, t, mó</li>
+            <li>NOUN: lá, duine, fhios, saoghal, beatha, bith, la, leith, ainm, creidimh</li>
+            <li>PRON: sé, é, mé, tú, hé, sí, tusa, se, í, mise</li>
             <li>PROPN: Iósa, dia, Éireann, Uladh, Éirinn, Dé, Ursula, Beare, Bheannchair, Danann</li>
-            <li>VERB: Tuig, chualas, féuch, Bhíos, Bíodh, Dhíolas, Feicim, Fuaras, Inneosad, Rugas</li>
+            <li>VERB: déna, fuairais, Bíodh, Tuig, biodh, chualas, féuch, thrasgrais, ttugais, Bhíos</li>
           </ul>
         </li>
       </ul>
@@ -548,7 +550,7 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: nua, amháin, mór, náisiúnta, sibhialta, áitiúil, céanna, mhór, iomlán, Eorpach</li>
-            <li>ADP: sa, den, ann, don, ina, san, ón, leis, á, air</li>
+            <li>ADP: sa, den, ann, don, ina, san, ón, leis, air, á</li>
             <li>AUX-Cop: sé</li>
             <li>DET: an, na, a, do, mo, d', m', a', 'n, d’</li>
             <li>NOUN: duine, féidir, chuid, chéile, réir, rud, leith, éis, cinn, bhfeidhm</li>
@@ -585,8 +587,9 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>NOUN: laimh, leith, láimh, comhmbráithribh, droing, dáoinibh, fhearaibh, gcéill, Bhreathnachaibh, Gaedhealaibh</li>
-            <li>PROPN: Éirinn, Sacsaibh, n-Éirinn, Shean-Ghallaibh, Tuathaibh, gConnachtaibh</li>
+            <li>ADJ: aintréin</li>
+            <li>NOUN: leith, laimh, láimh, comhmbráithribh, dhaoinibh, droing, dáoinibh, fhearaibh, gcéill, Bhreathnachaibh</li>
+            <li>PROPN: Éirinn, Sacsaibh, n-Éirinn, Ghallaibh, Gháoidhealaibh, Shean-Ghallaibh, Tuathaibh, gConnachtaibh</li>
           </ul>
         </li>
       </ul>
@@ -610,10 +613,10 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>ADJ: Caoimh, allta, bhig, bhuidhe, buidhe, caitliceach, chruim, dearbh, faon, gallda</li>
+            <li>ADJ: Caoimh, allta, bhig, bhuidhe, buidhe, caitliceach, chatharmaigh, chruim, cobhartha, dearbh</li>
             <li>DET: na, an, ná</li>
-            <li>NOUN: Gall, Mathghamhna, athar, creidimh, fhir, hoidhche, mac, mic, oidhche, sgoile</li>
-            <li>PROPN: Éireann, Uladh, Dé, Bheannchair, Danann, Laighean, Bhuck, Cairbre, Callain, Casga</li>
+            <li>NOUN: creidimh, Gall, Mathghamhna, anma, athar, cogaidh, domhain, eachtrann, fhir, hoidhche</li>
+            <li>PROPN: Éireann, Uladh, Dé, Bheannchair, Danann, Eireann, Laighean, Bhuck, Cairbre, Callain</li>
           </ul>
         </li>
       </ul>
@@ -625,8 +628,7 @@ udver: '2'
             <li>ADJ: Eorpaigh, réigiúnacha, náisiúnta, poiblí, áitiúil, nua, sóisialta, sibhialta, éagsúla, idirnáisiúnta</li>
             <li>DET: na, an, a', a, 'na</li>
             <li>NOUN: cinn, cathrach, bliana, pobail, forbartha, oibre, tuaithe, phobail, oideachais, imeachta</li>
-            <li>NOUN-Inf: pleanála, dhéanta, Fiosraithe, Gaelscolaíochta, athainmnithe, bearrtha, bhreithnithe, chanta, chleachta, claonta</li>
-            <li>NOUN-Vnoun: dhúnadh, fhiosraithe</li>
+            <li>NOUN-Inf: pleanála, dhéanta, Fiosraithe, Gaelscolaíochta, athainmnithe, bearrtha, chanta, chleachta, claonta, constrála</li>
             <li>PROPN: Átha, cliath, Gaeltachta, Gaeilge, hÉireann, Bhaile, hEorpa, Ghaeltachta, Éireann, Fómhair</li>
           </ul>
         </li>
@@ -641,9 +643,9 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: beag, mór, breagh, dubh, feargach, maith, mhaith, Caoin, Sasanach, aisteach</li>
-            <li>NOUN: lá, duine, fhios, bith, la, ainm, bliadhna, cuid, fear, réir</li>
-            <li>PROPN: Dia, Iósa, Ursula, Beare, Dhía, Pilát, Séamas, Andóid, Arimathea, Bangor</li>
+            <li>ADJ: beag, mór, breagh, dubh, fada, feargach, ghloin, maith, mhaith, shuthoin</li>
+            <li>NOUN: lá, duine, fhios, saoghal, bith, la, ainm, beatha, bliadhna, cuid</li>
+            <li>PROPN: Dia, Iósa, Ursula, Beare, Dhia, Dhía, Iosa, Pilát, Séamas, Alaxandair</li>
           </ul>
         </li>
       </ul>
@@ -652,10 +654,11 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: nua, amháin, náisiúnta, mór, éagsúla, céanna, sibhialta, áirithe, idirnáisiúnta, iomlán</li>
+            <li>ADJ: nua, amháin, náisiúnta, mór, éagsúla, céanna, sibhialta, áirithe, idirnáisiúnta, mhór</li>
             <li>NOUN: féidir, chuid, duine, réir, rud, éis, bhfeidhm, lá, daoine, bhliain</li>
             <li>NOUN-Inf: fhoilsiú, soláthar, Fhorbairt, Shaoráil, athfhorasú, athinfheistiú, athréimniú, bharbarú, bhunú, dhéanamh</li>
-            <li>PROPN: Bhaile, Ghaeltacht, Seán, Coimisiún, Chathair, Éire, Ghaeilge, Údarás, Mháire, Dhún</li>
+            <li>NOUN-Vnoun: dhúnadh</li>
+            <li>PROPN: Bhaile, Ghaeltacht, Seán, Coimisiún, Chathair, Ghaeilge, Éire, Údarás, Mháire, Dhún</li>
           </ul>
         </li>
       </ul>
@@ -669,7 +672,9 @@ udver: '2'
       <ul>
         <li>Voc
           <ul>
-            <li>NOUN: thighearna, léaghthóir, athuir, bhuachaill</li>
+            <li>ADJ: dil</li>
+            <li>NOUN: thighearna, léaghthóir, shaoghail, athuir, bhuachaill, chealguire, mheic, rún, úa</li>
+            <li>PROPN: Thoirrdhealbhaidh</li>
           </ul>
         </li>
       </ul>
@@ -721,8 +726,8 @@ udver: '2'
         <li>Def
           <ul>
             <li>DET: an, na, gach, gac, 'n, ná, san</li>
-            <li>NOUN: la, lá, bhfearann, bhflaitheas, duine, fhios, laimh, réir, uair, Tighearna</li>
-            <li>NOUN-Inf: bhfhaicsin, choinneáil, chur, dhéanamh, soillsiughadh</li>
+            <li>NOUN: la, lá, fhios, shaoghail, bhfearann, bhflaitheas, duine, laimh, ndeireadh, réir</li>
+            <li>NOUN-Inf: admhail, bhfhaicsin, choinneáil, chur, dhol, dhéanamh, fhios, geimhliughadh, leighes, mheas</li>
             <li>PROPN: Iósa, dia, Éireann, Uladh, Éirinn, Dé, Hanmer, Sacsaibh, Ursula, Beare</li>
           </ul>
         </li>
@@ -733,27 +738,10 @@ udver: '2'
         <li>Def
           <ul>
             <li>DET: an, na, gach, ngach, chuile, a, a', 'n, achan, 'na</li>
-            <li>NOUN: chuid, chéile, bhliain, duine, bliana, gcuid, lá, am, roinn, Airteagal</li>
+            <li>NOUN: chuid, chéile, réir, bhliain, duine, bliana, fud, gcuid, Airteagal, lá</li>
             <li>NOUN-Inf: dhéanamh, chur, lorg, gcur, cur, mhaoiniú, chinntiú, rá, déanamh, iarraidh</li>
-            <li>NOUN-Vnoun: bunú, Ceiliúradh, Cumhachtú, bheartú, bhunú, chinntiú, deireadh, dtabhairt, dul, fhiosraithe</li>
+            <li>NOUN-Vnoun: bunú, Ceiliúradh, Cumhachtú, bheartú, bhunú, chinntiú, deireadh, dhúnadh, dtabhairt, dul</li>
             <li>PROPN: Átha, cliath, Bhaile, Gaeltachta, Gaeilge, Údarás, hÉireann, Ghaeltacht, Chomhairle, Éirinn</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li>Ind
-          <ul>
-            <li>NOUN: gnóthaí, oibre, dlíthe, láimh, Criosanna, ainmneacha, cionn</li>
           </ul>
         </li>
       </ul>
@@ -810,7 +798,7 @@ udver: '2'
       <ul>
         <li>Cmp,Sup
           <ul>
-            <li>ADJ: mó, críona, mhó</li>
+            <li>ADJ: buaine, mó, críona, fearr, luaithe, mo, fheárr, mhó</li>
           </ul>
         </li>
       </ul>
@@ -820,7 +808,7 @@ udver: '2'
         <li>Cmp,Sup
           <ul>
             <li>ADJ: mó, fearr, déanaí, faide, lú, fhearr, airde, gaire, leithne, luaithe</li>
-            <li>ADJ-Part: réitithe</li>
+            <li>ADJ-Part: forbartha, réitithe</li>
           </ul>
         </li>
       </ul>
@@ -834,7 +822,7 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>ADJ: maith, amháin, ionann, geal, sásta, amhaín, aoibhin, beag, bog, breugach</li>
+            <li>ADJ: maith, amháin, iomdha, ionann, mór, cóir, geal, mithidh, sásta, Mó</li>
           </ul>
         </li>
       </ul>
@@ -872,8 +860,8 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>AUX-Cop: nach, ní, muna, ni, ná'r</li>
-            <li>PART: ní, nach, ná, nior, níor, nách, nachar, nár</li>
+            <li>AUX-Cop: nach, ní, nar, ni, nír, muna, ná'r</li>
+            <li>PART: ní, nach, ná, níor, nior, na, nách, Nir, nachar, nar</li>
             <li>VERB: rabh, raibh, bheadh, Níl, beadh, bhiadh, bhíonn, chualas, chualasa, dheachaidh</li>
           </ul>
         </li>
@@ -936,7 +924,7 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>VERB: bhíd, bhíonn, bionn</li>
+            <li>VERB: bhíd, bhíonn, biodh, bionn</li>
           </ul>
         </li>
       </ul>
@@ -959,7 +947,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: bhíodh, Teidheadh, bhídís, chleachtadh, mbiodh, ndéantaoi, thógadh, tugadh</li>
+            <li>VERB: bhíodh, Teidheadh, bhídís, chleachtadh, mbiodh, ndéantaoi, riomhthaoi, thógadh, tugadh</li>
           </ul>
         </li>
       </ul>
@@ -968,7 +956,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: bhíodh, mbíodh, dhéanadh, chuirtí, mbínn, thagadh, Théadh, bhídís, dtugadh, ligeadh</li>
+            <li>VERB: bhíodh, mbíodh, dhéanadh, chuirtí, mbínn, thagadh, thugadh, Théadh, bhídís, chuireadh</li>
           </ul>
         </li>
       </ul>
@@ -1006,7 +994,7 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX-Cop: ba, B', mba</li>
+            <li>AUX-Cop: ba, B', gur, ar, mba</li>
             <li>VERB: mbeadh, bheadh, fhéadfadh, dtiocfadh, bhféadfadh, rachadh, bhféadfaí, fhéadfaí, gcuirfeadh, gcuirfí</li>
           </ul>
         </li>
@@ -1038,8 +1026,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>PART: ná</li>
-            <li>VERB: Tuig, féuch, Bíodh, abair, bean, féuchuidh, imhigh, tógbhuidh</li>
+            <li>PART: na, ná</li>
+            <li>VERB: déna, Bíodh, Tuig, féuch, Biodh, Smuain, Tabhair, Treig, abair, bean</li>
           </ul>
         </li>
       </ul>
@@ -1063,7 +1051,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>VERB: bhí, raibh, rabh, adubhairt, bhfuil, thug, atá, arsa, tug, tá</li>
+            <li>VERB: bhí, raibh, rabh, adubhairt, bhfuil, thug, atá, tug, arsa, lean</li>
           </ul>
         </li>
       </ul>
@@ -1095,7 +1083,7 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>AUX-Cop: an, nach, nár, arbh, arb</li>
+            <li>AUX-Cop: an, nach, nár, arbh</li>
           </ul>
         </li>
       </ul>
@@ -1110,7 +1098,7 @@ udver: '2'
         <li>Sub
           <ul>
             <li>PART: Go</li>
-            <li>VERB: Oirdnidhe, sábháilidh, ttugadh</li>
+            <li>VERB: Oirdnidhe, bhfuilnge, mbeith, mbera, n-iarra, sábháilidh, ttugadh</li>
           </ul>
         </li>
       </ul>
@@ -1149,7 +1137,7 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>VERB: Brisfidh, Inneosad, bhaileochaidh, bheidh, bhuailfidh, bhéas, chreidfe, chreidfios, chuire, fhaice</li>
+            <li>VERB: Brisfidh, Inneosad, bhaileochaidh, bheidh, bhias, bhuailfidh, bhéas, chreidfe, chreidfios, chuire</li>
           </ul>
         </li>
       </ul>
@@ -1172,9 +1160,10 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>AUX-Cop: gurab, ba, fá, dobadh, dobudh, dárab, mba, ná'r</li>
-            <li>PART: gur, nior, níor, a, ar, go, gu, lér', nachar, ór'</li>
-            <li>VERB: bhí, raibh, rabh, adubhairt, thug, arsa, tug, bhíodh, chuir, Dhearc</li>
+            <li>AUX-Cop: gurab, ba, fá, nar, budh, dobadh, nír, dob, dobudh, dárab</li>
+            <li>PART: gur, níor, nior, 'nar, Nir, a, ar, dar, dob, far</li>
+            <li>PART-Cop: dob</li>
+            <li>VERB: bhí, raibh, rabh, adubhairt, thug, tug, arsa, lean, bhíodh, chuir</li>
           </ul>
         </li>
       </ul>
@@ -1184,11 +1173,10 @@ udver: '2'
         <li>Past
           <ul>
             <li>ADV: Cár</li>
-            <li>AUX-Cop: ba, b', gur, nár, ar, gurbh, níor, níorbh, mba, ab</li>
+            <li>AUX-Cop: ba, b', gur, nár, gurbh, níor, níorbh, mba, ab, ar</li>
             <li>PART: gur, níor, nár, ar, ba, inar, b', lenar</li>
             <li>PART-Cop: ba, b'</li>
             <li>SCONJ: sular, murar, sarar</li>
-            <li>SCONJ-Cop: murar, Sular</li>
             <li>VERB: bhí, raibh, thug, tháinig, chuir, dúirt, cuireadh, rinne, bhíodh, rinneadh</li>
           </ul>
         </li>
@@ -1203,8 +1191,8 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Cop: is, gurab, nach, ní, gur, Ag, an, as, darab, muna</li>
-            <li>VERB: bhfuil, atá, tá, Adeir, Táid, atáid, fhuil, ngairthear, ngoirthear, ta</li>
+            <li>AUX-Cop: is, nach, gurab, as, ní, gur, ni, Ag, an, darab</li>
+            <li>VERB: bhfuil, atá, ta, tá, a-ta, Adeir, Táid, atáid, fhuil, ngairthear</li>
           </ul>
         </li>
       </ul>
@@ -1214,7 +1202,7 @@ udver: '2'
         <li>Pres
           <ul>
             <li>AUX-Cop: is, ní, gur, nach, ar, gurb, an, sé, sea, dar</li>
-            <li>SCONJ-Cop: mura, murab</li>
+            <li>SCONJ-Cop: mura, murab, murar, Sular</li>
             <li>VERB: tá, atá, bhfuil, níl, bhaineann, bhíonn, bíonn, leanas, cuireann, cuirtear</li>
           </ul>
         </li>
@@ -1277,7 +1265,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>ADP: ó'n, 'sa', 'san, don, annsa, den, do'n, san, de'n, sa</li>
+            <li>ADP: don, ó'n, 'sa', 'san, san, annsa, den, do'n, de'n, isin</li>
             <li>DET: an, na, 'n, ná, san</li>
           </ul>
         </li>
@@ -1287,7 +1275,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>ADP: sa, den, don, san, ón, faoin, sna, fén, ins, insa</li>
+            <li>ADP: sa, den, don, san, ón, faoin, sna, fén, insa, fán</li>
             <li>DET: an, na, a, a', 'n, 'na, un</li>
           </ul>
         </li>
@@ -1302,7 +1290,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: eile, so, sin, soin, seo, se, úd, adaí</li>
+            <li>DET: eile, so, sin, soin, seo, se, úd, adaí, oile</li>
             <li>PRON: sin, so, Seo, shoin</li>
           </ul>
         </li>
@@ -1314,7 +1302,7 @@ udver: '2'
           <ul>
             <li>AUX-Cop: sin, seo</li>
             <li>DET: seo, sin, eile, úd, san, so, s', siúd, siud</li>
-            <li>PRON: sin, seo, siúd, shin, san, hin, in, cibé, iúd, shoin</li>
+            <li>PRON: sin, seo, siúd, shin, san, hin, in, eo, iúd, shoin</li>
           </ul>
         </li>
       </ul>
@@ -1328,8 +1316,8 @@ udver: '2'
       <ul>
         <li>Emp
           <ul>
-            <li>ADP: agam-sa, orm-sa, chughaibh-se, dhamhsa, fúthasan, ionnadsa, ionnamsa, leatsa</li>
-            <li>PRON: mise, tusa, meisi, seision, eisean, seisean, sibh-se, sise</li>
+            <li>ADP: agam-sa, orm-sa, chughaibh-se, dhamhsa, dhuit-si, dhíobhse, duit-si, fúthasan, ionnadsa, ionnamsa</li>
+            <li>PRON: tusa, mise, meisi, seision, eisean, seisean, sibh-se, sise</li>
             <li>VERB: mbéidision</li>
           </ul>
         </li>
@@ -1354,7 +1342,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: aon, uile</li>
+            <li>DET: aon, uile, ein</li>
             <li>PRON: ceachtar</li>
           </ul>
         </li>
@@ -1365,7 +1353,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>DET: aon, uile, cibé, uilig, t-aon, haon, n-uile</li>
-            <li>PRON: pé, ceachtar, Cibé, cheachtar</li>
+            <li>PRON: pé, ceachtar, cibé, cheachtar</li>
           </ul>
         </li>
       </ul>
@@ -1380,7 +1368,7 @@ udver: '2'
         <li>Int
           <ul>
             <li>ADV: cá</li>
-            <li>PRON: cé, cad, cia, céard</li>
+            <li>PRON: cé, cad, Cía, Gidh, cia, créd, céard</li>
           </ul>
         </li>
       </ul>
@@ -1428,10 +1416,11 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
-            <li>ADP: d'á, d'ár, dá</li>
-            <li>AUX-Cop: nach, dobadh, fá, ba, dobudh</li>
-            <li>PART: a, do, d'á, dho, noch, dá, fa'r, ar, lér', ro</li>
-            <li>VERB: atá, tá, áta</li>
+            <li>ADP: ar, d'á, d'ár, dá</li>
+            <li>AUX-Cop: nach, nar, dobadh, fá, ba, dob, dobudh</li>
+            <li>PART: a, do, d'á, dho, noch, da, dá, fa'r, 'nar, ar</li>
+            <li>PRON: a, ar</li>
+            <li>VERB: atá, tá, a-ta, bhias, áta</li>
           </ul>
         </li>
       </ul>
@@ -1473,7 +1462,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>NUM: trí, ceithre, dhá, míle, sé, cuig, céad, cúig, deich, dá</li>
+            <li>NUM: trí, ceithre, dhá, tri, míle, sé, ceid, cuig, céad, céid</li>
           </ul>
         </li>
       </ul>
@@ -1534,8 +1523,8 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>ADP: 'na, d'á, na, dá, ana, ina, dhá, 'n-a, 'á, arna</li>
-            <li>DET: a, mo, m', n-a, bhur, do, mur, mó, ar, d'</li>
+            <li>ADP: 'na, da, d'á, na, dá, ana, ina, dhá, 'n-a, 'á</li>
+            <li>DET: a, mo, do, ar, m', d, n-a, bhur, t, mur</li>
           </ul>
         </li>
       </ul>
@@ -1613,7 +1602,7 @@ udver: '2'
       <ul>
         <li>0
           <ul>
-            <li>VERB: cuireadh, ngairthear, ngoirthear, adeirthear, buaileadh, chonnaictheas, deirtear, dtáinigtheas, dubhradh, gcuirfidhe</li>
+            <li>VERB: cuireadh, ngairthear, ngoirthear, rugadh, adeirthear, buaileadh, chonnaictheas, deirtear, dtáinigtheas, dubhradh</li>
           </ul>
         </li>
       </ul>
@@ -1636,10 +1625,10 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>ADP: agam, againn, liom, orm, agam-sa, dhom, dhíom, orm-sa, asam, chugam</li>
-            <li>DET: mo, m', mó, ar</li>
+            <li>ADP: agam, liom, againn, orm, agam-sa, dhom, dhíom, linn, orm-sa, asam</li>
+            <li>DET: mo, ar, m', mó</li>
             <li>PRON: mé, mise, meisi, me, mhé, sinn</li>
-            <li>VERB: chualas, Bhamar, Bhíos, Dhíolas, Feicim, Fuaras, Inneosad, Rugas, Thangas, Táim</li>
+            <li>VERB: chualas, Bhamar, Bhíos, Dhíolas, Feicim, Fuaras, Guidhim, Inneosad, Rugas, Thangas</li>
           </ul>
         </li>
       </ul>
@@ -1665,10 +1654,10 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>ADP: uáit, agaibh, chughaibh-se, duit, díbh, ionnadsa, leat, leatsa, libh, ribh</li>
-            <li>DET: bhur, do, mur, d'</li>
-            <li>PRON: tú, tusa, sibh, sibh-se, thú</li>
-            <li>VERB: Tuig, féuch, abair, bean, dhéanfá, féuchuidh, imhigh, ndéanfá, shílféa, tógbhuidh</li>
+            <li>ADP: dhuit, leat, libh, duit, ort, uáit, agad, agaibh, chugaibh, chughaibh-se</li>
+            <li>DET: do, d, bhur, t, mur, th', bar, bhar, d', t'</li>
+            <li>PRON: tú, sibh, tusa, sibh-se, thú, tu</li>
+            <li>VERB: déna, fuairais, Tuig, féuch, thrasgrais, ttugais, Rugais, Smuain, Tabhair, Treig</li>
           </ul>
         </li>
       </ul>
@@ -1694,10 +1683,10 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>ADP: ann, aige, air, aca, 'na, d'á, na, dá, dó, orra</li>
+            <li>ADP: ann, 'na, aige, air, aca, da, d'á, na, dá, díobh</li>
             <li>DET: a, n-a, do, na</li>
-            <li>PRON: sé, é, siad, hé, sí, se, í, ea, iad, iád</li>
-            <li>VERB: Táid, atáid, Bíodh, anfaidís, bhfacadar, bhfuairsiod, bhíd, bhídís, choimhédadar, chrochadar</li>
+            <li>PRON: sé, é, siad, hé, iad, sí, se, í, e, ea</li>
+            <li>VERB: Bíodh, Táid, atáid, biodh, anfaidís, bhfacadar, bhfuairsiod, bhfúairset, bhíd, bhídís</li>
           </ul>
         </li>
       </ul>
@@ -1786,7 +1775,7 @@ udver: '2'
               <ul>
                 <li>ADJ: Teo., Teo, Ltd</li>
                 <li>ADV: i.e., e.g., srl., m.sh., .i., KB, etc</li>
-                <li>NOUN: Co., Uimh., Dr., Dr, m, srl., 4C, CD-ROM, EUR, I.R.</li>
+                <li>NOUN: Co., Dr., Dr, m, srl., Uimh., 4C, CD-ROM, EUR, I.R.</li>
                 <li>NUM: 1A, 3B, J., S1067</li>
                 <li>PROPN: AE, AIE, UNESCO, BCE, TG4, MABS, RTÉ, TD, DCPL, FLAC</li>
                 <li>SYM: Dublin.ie, Gcom, King.com, post@clubsult.com</li>
@@ -1871,8 +1860,8 @@ udver: '2'
                 <li>ADP: in</li>
                 <li>DET: all, The</li>
                 <li>NOUN: euro, of, tOmbudsman, abalone, Captains, Enterprise, FRANCA, Jail-Deliverer, LINGUA, Ombudsman</li>
-                <li>PRON: eo, that</li>
-                <li>PROPN: John, Margaret, Henrietta, Humphreys, Ombudsman, Eurojust, Gilbert, Hayes, Ireland, Richmond</li>
+                <li>PRON: that</li>
+                <li>PROPN: John, Margaret, Henrietta, Humphreys, Ombudsman, Gilbert, Eurojust, Hayes, Ireland, Richmond</li>
                 <li>SYM: www.citizensinformation.ie, www.dublin.ie</li>
                 <li>X: the, Irish, of, Life, for, Port, Preparing, Read, Right, to</li>
               </ul>
@@ -1893,7 +1882,7 @@ udver: '2'
             <li>Direct
               <ul>
                 <li>PART: a, do, noch, ro</li>
-                <li>VERB: atá, tá, áta</li>
+                <li>VERB: atá, tá, a-ta, áta</li>
               </ul>
             </li>
             <li>Direct,Len
@@ -1904,11 +1893,12 @@ udver: '2'
             <li>Ecl
               <ul>
                 <li>AUX-Cop: mba</li>
-                <li>NOUN: bhfearann, bhflaitheas, bhfear, dtaobh, gcomhnaidhe, gcédna, gcéill, ndeireadh, ndiaidh, Níuduidheadh</li>
-                <li>NOUN-Inf: bhfhaicsin, mbeith</li>
-                <li>NUM: naon, náon</li>
-                <li>PROPN: n-Éirinn, bhFailghe, bhFréamhainn, gConnachtaibh, mBaile, n-Áird, neabhra</li>
-                <li>VERB: bhfuil, mbeadh, ngairthear, ngoirthear, bhfacadar, bhfhuilim, bhfuairsiod, dtaínig, dteagmhadh, dtáinigtheas</li>
+                <li>DET: gach</li>
+                <li>NOUN: bhfearann, bhflaitheas, ndeireadh, bhfear, ccoir, dtaobh, gcomhnaidhe, gcédna, gcéill, n-áit</li>
+                <li>NOUN-Inf: bhfhaicsin, bplanntughadh, mbeith, ndol, ngabail, ttecht</li>
+                <li>NUM: naon, náon, ttrí</li>
+                <li>PROPN: n-Éirinn, bhFailghe, bhFréamhainn, gConnachtaibh, mBaile, n-Áird, nAodh, nAssardha, neabhra</li>
+                <li>VERB: bhfuil, mbeadh, ngairthear, ngoirthear, ttugadh, ttugais, bhfacadar, bhfhuilim, bhfuair, bhfuairsiod</li>
               </ul>
             </li>
             <li>Ecl,Emp
@@ -1918,7 +1908,7 @@ udver: '2'
             </li>
             <li>Emp
               <ul>
-                <li>NOUN: ainmsean, sonsan, tsáoghailsi</li>
+                <li>NOUN: ainmsean, monairc-si, sonsan, tsáoghailsi</li>
               </ul>
             </li>
             <li>Emp,Len
@@ -1930,7 +1920,7 @@ udver: '2'
             <li>HPref
               <ul>
                 <li>ADJ: haereach, haireach, holc</li>
-                <li>NOUN: hoidhche, Hiudaighe, Híudaidhe, h-ala, h-anfa, h-éin, haicmeadha, haimsir, haimsire, haois</li>
+                <li>NOUN: hoidhche, Hiudaighe, Híudaidhe, h-ala, h-anfa, h-éin, haicmeadha, haimsir, haimsire, haithrighe</li>
                 <li>PRON: hé, hiád</li>
                 <li>PROPN: hAodh, hÉireann</li>
                 <li>VERB: háitigheadh</li>
@@ -1938,26 +1928,27 @@ udver: '2'
             </li>
             <li>Indirect
               <ul>
-                <li>PART: a, d'á, dá, ar, lér', ór'</li>
+                <li>PART: a, d'á, da, dá, 'nar, ar, dar, far, lér', nach</li>
               </ul>
             </li>
             <li>Len
               <ul>
-                <li>ADJ: mhaith, mhór, bhig, bhuidhe, bhán, cheart, chruim, chumhang, chéadna, chóir</li>
-                <li>ADP: dhe, dho, dhochum, dhom, dhá, dhíom, dhamh, dhamhsa, dhi, dhíobh</li>
-                <li>NOUN: fhios, bheith, dhéanamh, chur, thabhairt, thighearna, bhocsa, bhuidhin, cheann, chodladh</li>
-                <li>NOUN-Inf: bheith, dhéanamh, chur, thabhairt, bhriseadh, choinneáil, chongbhail, dhul, dhéunamh, dhúsachd</li>
-                <li>NUM: dhá, chéad, thrí, cheithre, dhó, fhichid, mhíle</li>
+                <li>ADJ: mhór, ghloin, mhaith, shuthoin, bheg, bhig, bhuidhe, bhán, chatharmaigh, cheart</li>
+                <li>ADP: dhe, dho, dhochum, dhom, dhá, dhíom, dhó, dhamh, dhamhsa, dhi</li>
+                <li>NOUN: bheith, fhios, chur, dhéanamh, shaoghail, thoil, thabhairt, thighearna, thús, bhocsa</li>
+                <li>NOUN-Inf: bheith, chur, dhéanamh, thabhairt, bhriseadh, choinneáil, chongbhail, chuma, dhol, dhul</li>
+                <li>NUM: dhá, chéad, mhíle, thrí, cheithre, chúig, dhó, fhichid, sheachtmhoghad, tri</li>
                 <li>PART: dho</li>
                 <li>PRON: fhéin, mhé, shoin, thú</li>
-                <li>PROPN: Bheannchair, Dhía, Bhuck, Chairbre, Chesar, Chill, Chomhghaill, Chomhghall, Fhidheach, Fhidhic</li>
+                <li>PROPN: Bheannchair, Dhia, Dhía, Bhuck, Chairbre, Chesar, Chill, Chomhghaill, Chomhghall, Chriosd</li>
                 <li>SCONJ: dhá</li>
-                <li>VERB: bhí, thug, bheadh, bhíodh, chuir, Dhearc, chualas, fhuil, fhág, ghabh</li>
+                <li>VERB: bhí, thug, bheadh, bhíodh, chuir, Dhearc, bhi, chualas, fhuil, fhág</li>
               </ul>
             </li>
             <li>VF
               <ul>
                 <li>AUX-Cop: gurab, darab, dárab</li>
+                <li>PART-Cop: dob</li>
               </ul>
             </li>
           </ul>
@@ -2043,19 +2034,19 @@ udver: '2'
             </li>
             <li>Len
               <ul>
-                <li>ADJ: mhaith, mhór, chóir, cheart, phoiblí, chéanna, bheag, chultúrtha, fhearr, shóisialta</li>
-                <li>ADJ-Part: ghinearálta, bhunaithe, chlóite, dheimhnithe, shínithe, bheartaithe, chaite, cheadaithe, chláraithe, chomhcheangailte</li>
+                <li>ADJ: mhór, mhaith, chóir, cheart, phoiblí, chéanna, bheag, chultúrtha, fhearr, shóisialta</li>
+                <li>ADJ-Part: bheartaithe, bhunaithe, chomhcheangailte, fheirmithe, shuidhte, thruaillithe</li>
                 <li>ADP: dhá, thríd, dhíobh, dhó, dhóibh, dhe, dho, dhom, dhuit, thrí</li>
                 <li>ADV: bheith</li>
                 <li>AUX-Cop: chan</li>
                 <li>DET: chuile, chaon, dh'</li>
                 <li>NOUN: chur, dhéanamh, bheith, chuid, chéile, thabhairt, bhliain, fhorbairt, fháil, bhaint</li>
                 <li>NOUN-Inf: chur, dhéanamh, bheith, thabhairt, fháil, bhaint, fhorbairt, choinneáil, sholáthar, ghlacadh</li>
-                <li>NOUN-Vnoun: bhaint, bheartú, bhunú, chinntiú, choimisiúnú, chruthaithe, dheonú, dhíriú, dhúnadh, fhionnachtain</li>
+                <li>NOUN-Vnoun: bhaint, bheartú, bhunú, chinntiú, choimisiúnú, chruthaithe, dheonú, dhúnadh, fhionnachtain, ghlacadh</li>
                 <li>NUM: dhá, chéad, cheithre, dhó, thrí, cheathrú, dheich, mhíle, chúig, dhara</li>
                 <li>PART: Mhic, Mhac</li>
                 <li>PRON: shin, fhéin, thú, cheachtar, shoin, thusa</li>
-                <li>PROPN: Bhaile, Ghaeltacht, Chomhairle, Ghaeilge, Ghaeltachta, Chathair, Mháire, Dhún, Chiarraí, Choiste</li>
+                <li>PROPN: Bhaile, Ghaeltacht, Chomhairle, Ghaeilge, Ghaeltachta, Chathair, Mháire, Chiarraí, Dhún, Choiste</li>
                 <li>SCONJ: dhá</li>
                 <li>VERB: bhí, bheidh, thug, tháinig, chuir, bhaineann, bheadh, bhíonn, bhíodh, chuaigh</li>
               </ul>
@@ -2084,17 +2075,19 @@ udver: '2'
           <ul>
             <li>NotSlender
               <ul>
-                <li>ADJ: dearga, dubha, ruadha, úra</li>
+                <li>ADJ: dearga, doirbhe, dubha, ruadha, úra</li>
               </ul>
             </li>
             <li>Strong
               <ul>
                 <li>NOUN: bpóilíní, mbáillí, ndáoine</li>
+                <li>PROPN: nAssardha</li>
               </ul>
             </li>
             <li>Weak
               <ul>
-                <li>NOUN: mac, Bolg, Gall, bhflaitheas, deisgiobal, fear, gcor, madadh, mionn, nGabhar</li>
+                <li>NOUN: eachtrann, mac, Bolg, Gall, bhflaitheas, ccóigidh, crecht, deisgiobal, fear, gcor</li>
+                <li>PROPN: Grég, Romhán, mead</li>
               </ul>
             </li>
           </ul>
@@ -2126,7 +2119,7 @@ udver: '2'
               <ul>
                 <li>ADJ: Eorpach, áitiúil, poiblí, domhanda, díomhaoin, sóisialta, Éireannach, áirithe, Cúng, Feirsteach</li>
                 <li>NOUN: ealaíon, clár, mballstát, ábhar, gComhphobal, gceantar, leabhar, n-ealaíon, n-oileán, pobal</li>
-                <li>PROPN: cliath, nGall, Gael, Árann, Ealaíon, Tionóntán, nUachtarán, Ardeaspag, Chlann, Chumann</li>
+                <li>PROPN: cliath, nGall, Gael, Árann, Tionóntán, Ealaíon, nUachtarán, Ardeaspag, Chlann, Chumann</li>
               </ul>
             </li>
           </ul>
@@ -2149,7 +2142,7 @@ udver: '2'
             </li>
             <li>Cmpl
               <ul>
-                <li>PART: go, gu, nach, ná, nachar, nách, nár</li>
+                <li>PART: go, gu, nach, ná, nachar, nar, nách, nár</li>
               </ul>
             </li>
             <li>Comp
@@ -2159,17 +2152,23 @@ udver: '2'
             </li>
             <li>Inf
               <ul>
-                <li>PART: a, do, d', dho</li>
+                <li>PART: do, a, d', dho</li>
               </ul>
             </li>
             <li>Pat
               <ul>
-                <li>PART: mac, Ua, Ó, Ui, Uí, mic</li>
+                <li>PART: mac, Ua, Ó, Ui, Uí, mic, Í</li>
+              </ul>
+            </li>
+            <li>Sup
+              <ul>
+                <li>PART: 's, dob</li>
+                <li>PART-Cop: dob</li>
               </ul>
             </li>
             <li>Vb
               <ul>
-                <li>PART: do, a, ní, d', gur, An, dho, go, nior, noch</li>
+                <li>PART: do, a, ní, d', gur, An, níor, dho, go, nior</li>
               </ul>
             </li>
             <li>Voc
@@ -2197,7 +2196,7 @@ udver: '2'
             </li>
             <li>Comp
               <ul>
-                <li>PART: níos, ní, ba, Mhac, ab, b', is</li>
+                <li>PART: níos, ní, ba, ab, b', is</li>
                 <li>PART-Cop: b'</li>
               </ul>
             </li>
@@ -2208,12 +2207,12 @@ udver: '2'
             </li>
             <li>Deg
               <ul>
-                <li>PART: a</li>
+                <li>PART: a, dá</li>
               </ul>
             </li>
             <li>Inf
               <ul>
-                <li>PART: a, do</li>
+                <li>PART: a, do, d'</li>
               </ul>
             </li>
             <li>Num
@@ -2257,8 +2256,8 @@ udver: '2'
           <ul>
             <li>Cmpd
               <ul>
-                <li>ADP: ar, i, tar, d', do, go, le, re, ós, thar</li>
-                <li>NOUN: eis, ndiaidh, nós, éis, coinne, cois, dtí, feadh, leith, linn</li>
+                <li>ADP: i, ar, do, re, tar, d', go, le, ós, ima</li>
+                <li>NOUN: eis, linn, ndiaidh, nós, reír, éis, cceann, coinne, cois, dtí</li>
               </ul>
             </li>
           </ul>
@@ -2285,7 +2284,18 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>NOUN: Righthigh</li>
+                <li>VERB: ndubhairt</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2294,8 +2304,8 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ: neamhspléach, teanta, Aitiúil, Tradisiúnta, aiteanta, am-tábhachtach, amhain, amáin, ardchaighdéanach, bréatha</li>
-                <li>ADJ-Part: teanta, deághléasta, ghinéaralta</li>
-                <li>ADP: o, dho, dó, an, dí, ós</li>
+                <li>ADJ-Part: teanta, deághléasta</li>
+                <li>ADP: o, a', dho, dó, an, arna, dí, ós</li>
                 <li>ADV: anoirthear, isteacht, sios</li>
                 <li>CCONJ: no</li>
                 <li>DET: siud, un, á</li>
@@ -2359,7 +2369,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: be, do, can, might, must, should, will, would.</li>
+      <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: be, will, do, can, have, would, could, might, must, should.</li>
       </ul>
     </td>
   </tr>
@@ -2373,9 +2383,10 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (1)</li>
             <li>VERB--NOUN-Gen (1)</li>
-            <li>VERB--NOUN-Nom (87)</li>
+            <li>VERB--NOUN-Nom (96)</li>
             <li>VERB--NOUN-Nom-ADP(ach) (2)</li>
-            <li>VERB--PRON (78)</li>
+            <li>VERB--NOUN-Nom-ADP(le) (1)</li>
+            <li>VERB--PRON (84)</li>
           </ul>
         </li>
       </ul>
@@ -2390,13 +2401,13 @@ udver: '2'
             <li>VERB--NOUN (39)</li>
             <li>VERB--NOUN-ADP(do) (1)</li>
             <li>VERB--NOUN-Gen (4)</li>
-            <li>VERB--NOUN-Nom (3042)</li>
+            <li>VERB--NOUN-Nom (3037)</li>
             <li>VERB--NOUN-Nom-ADP(ar) (2)</li>
             <li>VERB--NOUN-Nom-ADP(de) (2)</li>
             <li>VERB--NOUN-Nom-ADP(do) (2)</li>
             <li>VERB--NOUN-Nom-ADP(le) (1)</li>
             <li>VERB--NOUN-Nom-ADP(os) (7)</li>
-            <li>VERB--PRON (1501)</li>
+            <li>VERB--PRON (1496)</li>
           </ul>
         </li>
       </ul>
@@ -2408,9 +2419,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (254)</li>
+            <li>VERB--NOUN (731)</li>
             <li>VERB--NOUN-ADP(do) (1)</li>
-            <li>VERB--PRON (211)</li>
+            <li>VERB--PRON (637)</li>
             <li>VERB--PRON-ADP(chun) (1)</li>
           </ul>
         </li>
@@ -2423,8 +2434,8 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN-Gen (1)</li>
-            <li>VERB--NOUN-Nom (70)</li>
-            <li>VERB--PRON (20)</li>
+            <li>VERB--NOUN-Nom (100)</li>
+            <li>VERB--PRON (27)</li>
           </ul>
         </li>
       </ul>
@@ -2433,17 +2444,17 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (25)</li>
+            <li>VERB--NOUN (24)</li>
             <li>VERB--NOUN-Gen (2)</li>
             <li>VERB--NOUN-Gen-ADP(chun) (1)</li>
-            <li>VERB--NOUN-Nom (1933)</li>
+            <li>VERB--NOUN-Nom (1939)</li>
             <li>VERB--NOUN-Nom-ADP(as) (2)</li>
             <li>VERB--NOUN-Nom-ADP(do) (1)</li>
             <li>VERB--NOUN-Nom-ADP(gan) (1)</li>
             <li>VERB--NOUN-Nom-ADP(le) (1)</li>
             <li>VERB--NOUN-Nom-ADP(os) (1)</li>
             <li>VERB--NOUN-Nom-ADP(um) (1)</li>
-            <li>VERB--PRON (263)</li>
+            <li>VERB--PRON (265)</li>
           </ul>
         </li>
       </ul>
@@ -2452,10 +2463,12 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (159)</li>
+            <li>VERB--NOUN (453)</li>
             <li>VERB--NOUN-ADP(chun) (1)</li>
             <li>VERB--NOUN-ADP(do) (1)</li>
-            <li>VERB--PRON (38)</li>
+            <li>VERB--NOUN-ADP(le) (1)</li>
+            <li>VERB--PRON (110)</li>
+            <li>VERB--PRON-ADP(on) (1)</li>
           </ul>
         </li>
       </ul>
@@ -2482,6 +2495,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB--NOUN (1)</li>
             <li>VERB--PRON (1)</li>
           </ul>
         </li>
@@ -2526,16 +2540,16 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
-      <li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>aux</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>compound:prt</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
+      <li>The following 3 main types are not used alone, they are always subtyped: <a>compound</a>, <a>csubj</a>, <a>flat</a></li>
+      <li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>discourse</a>, <a>aux</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>compound:prt</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
+      <li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>compound:prt</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>xcomp:pred</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
       <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>aux</a>, <a>clf</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
@@ -2544,8 +2558,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>compound:prt</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>discourse:emo</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>parataxis:hashtag</a>, <a>parataxis:rt</a>, <a>parataxis:sentence</a>, <a>parataxis:url</a>, <a>vocative:mention</a>, <a>xcomp:pred</a></li>
-      <li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
+      <li>This corpus uses 21 relation subtypes: <a>acl:relcl</a>, <a>case:voc</a>, <a>compound:prt</a>, <a>csubj:cleft</a>, <a>csubj:cop</a>, <a>det:poss</a>, <a>discourse:emo</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:prt</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>obl:prep</a>, <a>obl:tmod</a>, <a>parataxis:hashtag</a>, <a>parataxis:rt</a>, <a>parataxis:sentence</a>, <a>parataxis:url</a>, <a>vocative:mention</a>, <a>xcomp:pred</a></li>
+      <li>The following 2 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a></li>
       </ul>
     </td>
   </tr>

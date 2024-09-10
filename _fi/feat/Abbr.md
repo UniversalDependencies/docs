@@ -21,4 +21,4 @@ the `Abbr` feature will not appear.
 * [fi] _mm._ "among others"
 * [fi] _esim._ "for example"
 * [fi] _USA_, _EU_
-<!-- Interlanguage links updated Po lis 14 15:34:39 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:44 CEST -->

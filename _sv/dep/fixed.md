@@ -25,4 +25,4 @@ när det gäller \n when it comes to
 fixed(när, det)
 fixed(när, gäller)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:26 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:13 CEST -->

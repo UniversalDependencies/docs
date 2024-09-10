@@ -12,7 +12,7 @@ It occurs with 1 different values: `Yes`.
 1001 tokens (0%) have a non-empty value of `Abbr`.
 160 types (0%) occur at least once with a non-empty value of `Abbr`.
 123 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (653; 0% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (176; 0% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (86; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (57; 0% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (653; 0% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (176; 0% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (103; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (40; 0% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (10; 0% instances).
 
 ### `PROPN`
 
@@ -36,29 +36,29 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (176; 100% of non-empty `Abbr`): <em>dr., nr, NATO, PST, pst., kr, kl., res, eks, Nato</em>
-* `EMPTY` (57076): <em>år, dag, prosent, gang, tid, folk, verden, land, barn, del</em>
+* `EMPTY` (57077): <em>år, dag, prosent, gang, tid, folk, verden, land, barn, del</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (51) occur only with one value of `Abbr`.
 
 ### `ADV`
 
-86 <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
+103 <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (86; 100% of non-empty `Abbr`): <em>ca, ca., dvs., f.eks., m.m., dvs, osv., m.v., mv, o.l.</em>
-* `EMPTY` (9885): <em>også, så, nå, bare, her, da, selv, hvor, nok, jo</em>
+* `Yes` (103; 100% of non-empty `Abbr`): <em>bl.a., ca, ca., dvs., f.eks., m.m., dvs, osv., m.v., mv</em>
+* `EMPTY` (12595): <em>også, så, nå, bare, opp, ut, her, da, selv, hvor</em>
 
-`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (18) occur only with one value of `Abbr`.
 
 ### `ADP`
 
-57 <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
+40 <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
 
 `ADP` tokens may have the following values of `Abbr`:
 
-* `Yes` (57; 100% of non-empty `Abbr`): <em>bl.a., pr., bl, f, pr, f., inkl., mht., bla, p.g.a.</em>
-* `EMPTY` (36026): <em>i, på, av, til, med, for, fra, om, som, etter</em>
+* `Yes` (40; 100% of non-empty `Abbr`): <em>pr., bl, f, pr, f., inkl., mht., bl.a., bla, p.g.a.</em>
+* `EMPTY` (37983): <em>i, på, til, for, av, med, om, som, fra, etter</em>
 
 `Abbr` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -82,7 +82,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (10; 100% of non-empty `Abbr`): <em>a, kgl., flg, lat., s.k.</em>
-* `EMPTY` (26799): <em>mer, mange, flere, norske, mye, første, store, nye, hele, helt</em>
+* `EMPTY` (26800): <em>mer, mange, flere, norske, mye, første, store, nye, hele, helt</em>
 
 ## Relations with Agreement in `Abbr`
 

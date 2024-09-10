@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-2859 tokens (42%) have a non-empty value of `Gender`.
-731 types (55%) occur at least once with a non-empty value of `Gender`.
-586 lemmas (61%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1011; 15% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1008; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (384; 6% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (240; 4% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (194; 3% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+2860 tokens (42%) have a non-empty value of `Gender`.
+732 types (55%) occur at least once with a non-empty value of `Gender`.
+587 lemmas (61%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1012; 15% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1008; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (384; 6% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (240; 4% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (194; 3% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1011 <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
+1012 <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (877; 87%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (878; 87%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (398; 39% of non-empty `Gender`): <em>donna, ragazza, terra, spalle, borsa, città, spalla, cosa, situazione, casa</em>
+* `Fem` (399; 39% of non-empty `Gender`): <em>donna, ragazza, terra, spalle, borsa, città, spalla, cosa, situazione, casa</em>
 * `Masc` (613; 61% of non-empty `Gender`): <em>uomo, parco, ragazzo, giornale, amore, momento, banco, giorno, marito, fidanzato</em>
-* `EMPTY` (19): <em>amante, delinquente, sol, OCCHIALI, Parco, SEDILE, X, affari, diem, discaount</em>
+* `EMPTY` (18): <em>amante, delinquente, sol, OCCHIALI, Parco, X, affari, diem, discaount, giornale</em>
 
 <table>
   <tr><th>Paradigm <i>amico</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>amici</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (285) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (286) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="it_valico-dep-det.html">det</a></tt>]--> DET</tt> (846; 96%),
+<tt>NOUN --[<tt><a href="it_valico-dep-det.html">det</a></tt>]--> DET</tt> (847; 96%),
 <tt>NOUN --[<tt><a href="it_valico-dep-amod.html">amod</a></tt>]--> ADJ</tt> (129; 76%),
 <tt>NOUN --[<tt><a href="it_valico-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (95; 93%),
 <tt>VERB --[<tt><a href="it_valico-dep-conj.html">conj</a></tt>]--> VERB</tt> (60; 51%),

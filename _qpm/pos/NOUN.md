@@ -30,4 +30,4 @@ The `NOUN` tag is intended for common nouns only.
 For noun diminutive and augmentative(_čulǽček [čulǽk]_ "[a] little man", _račínka [raká]_ "[a] little hand", _détence [déte]_ "[a] 
 little child", _górmište / górmištæko [góram]_ "[a] biggish tree", _paníčište [paníca]_ "big plate", _kótetište / kótetæko [kóte]_ "[a] big he cat") 
 see category [DegreeModQpm](../feat/DegreeModQpm.md)
-<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Ord`, `Range`.
 
-7007 tokens (3%) have a non-empty value of `NumType`.
-1498 types (6%) occur at least once with a non-empty value of `NumType`.
-1457 lemmas (9%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (6389; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (617; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+7005 tokens (3%) have a non-empty value of `NumType`.
+1378 types (6%) occur at least once with a non-empty value of `NumType`.
+1337 lemmas (9%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (6387; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (617; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-6389 <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+6387 <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (6359; 100% of non-empty `NumType`): <em>due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</em>
-* `Range` (30; 0% of non-empty `NumType`): <em>1975/1983, 1984/85, 1981/83, 24/25, 0,7-0,8%, 1964/73, 1964/74, 1974/83, 1975/84, 1983/84</em>
-* `EMPTY` (5): <em>uno, i, mille</em>
+* `Card` (6357; 100% of non-empty `NumType`): <em>due, tre, cento, 15, 1, 5, 1973, 2, 20, 30</em>
+* `Range` (30; 0% of non-empty `NumType`): <em>1975/1983, 1984/85, 1981/83, 24/25, 0,7-0,8, 1964/73, 1964/74, 1974/83, 1975/84, 1983/84</em>
+* `EMPTY` (6): <em>uno, 25, i, mille</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1421) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1301) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (1; 0% of non-empty `NumType`): <em>prima</em>
 * `Ord` (616; 100% of non-empty `NumType`): <em>primo, seconda, prima, secondo, terzo, prime, primi, quarto, quinto, II</em>
-* `EMPTY` (19507): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, ex</em>
+* `EMPTY` (19545): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, presente</em>
 
 <table>
   <tr><th>Paradigm <i>prima</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -55,19 +55,16 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>6</em>
-* `EMPTY` (57750): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
+* `EMPTY` (57758): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="it_vit-dep-flat.html">flat</a></tt>]--> NUM</tt> (257; 100%),
-<tt>NUM --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> NUM</tt> (217; 100%),
-<tt>NUM --[<tt><a href="it_vit-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (164; 99%),
-<tt>NUM --[<tt><a href="it_vit-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (34; 92%),
+<tt>NUM --[<tt><a href="it_vit-dep-flat.html">flat</a></tt>]--> NUM</tt> (258; 100%),
+<tt>NUM --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> NUM</tt> (186; 100%),
+<tt>NUM --[<tt><a href="it_vit-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (160; 100%),
+<tt>NUM --[<tt><a href="it_vit-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (30; 94%),
 <tt>ADJ --[<tt><a href="it_vit-dep-conj.html">conj</a></tt>]--> ADJ</tt> (20; 95%),
-<tt>NUM --[<tt><a href="it_vit-dep-appos.html">appos</a></tt>]--> NUM</tt> (4; 100%),
-<tt>NUM --[<tt><a href="it_vit-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="it_vit-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="it_vit-dep-obl.html">obl</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="it_vit-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="it_vit-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="it_vit-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%).
 

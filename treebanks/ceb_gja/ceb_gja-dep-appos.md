@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 4	wala	wala	VERB	_	Polarity=Neg	1	ccomp	_	Gloss=EXISTENTIAL.NEGATION
 5	na	na	ADV	_	_	4	advmod	_	_
 6	ang	ang	ADP	_	Case=Nom	9	case	_	_
-7	iya	iya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod	_	Gloss=his
+7	iya	siya	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod	_	Gloss=his
 8	-ng	nga	PART	_	_	7	mark	_	Gloss=LINK
 9	pet	pet	NOUN	_	Foreign=Yes	4	nsubj	_	Gloss=pet
 10	nga	nga	PART	_	_	11	mark	_	Gloss=LINK

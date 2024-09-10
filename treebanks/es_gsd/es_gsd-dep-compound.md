@@ -26,12 +26,12 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	puesto	puesto	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	#	#	SYM	_	Number=Sing|Person=3	3	appos	_	_
-5	35	35	NUM	_	NumType=Card	4	nummod	_	_
+5	35	35	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
 6	en	en	ADP	_	_	12	case	_	_
 7	VH1	vh1	X	_	_	9	compound	_	_
 8	's	's	X	_	Number=Sing|Person=3	7	dep	_	_
 9	Top	top	X	_	_	11	compound	_	_
-10	40	40	NUM	_	NumType=Card	12	nummod	_	_
+10	40	40	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
 11	Metal	metal	X	_	Number=Sing	12	compound	_	_
 12	Songs	songs	X	_	_	1	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	1	punct	_	_
@@ -46,17 +46,17 @@ The following 32 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 10	fgColor:white
 # visual-style 10 11 compound	color:blue
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	pega	pega	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	pega	pega	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 3	como	como	ADP	_	_	4	case	_	_
-4	siempre	siempre	ADV	_	_	5	advmod	_	_
-5	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	siempre	siempre	ADV	_	_	2	advmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_
 7	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	lleno	lleno	ADJ	_	Gender=Masc|Number=Sing	5	csubj	_	_
+8	lleno	lleno	ADJ	_	Gender=Masc|Number=Sing	2	csubj	_	_
 9	en	en	ADP	_	_	10	case	_	_
-10	horas	hora	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+10	horas	hora	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
 11	punta	punta	NOUN	_	Gender=Fem|Number=Plur	10	compound	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	5	punct	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

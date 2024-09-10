@@ -19,4 +19,4 @@ advmod:lfrom(кулян-3, from_above-2)
 
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:06 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->

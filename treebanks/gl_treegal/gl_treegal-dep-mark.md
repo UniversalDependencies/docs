@@ -44,7 +44,7 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 7 6 mark	color:blue
 1	Desde	desde	ADP	P	AdpType=Prep	3	case	_	_
 2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	7	obl	_	_
+3	PSOE	psoe	PROPN	Zgms	Gender=Masc|Number=Sing	7	obl	_	_
 4	tamén	tamén	ADV	Wn	_	7	advmod	_	_
 5	están	estar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	a	a	ADP	P	AdpType=Prep	7	mark	_	_
@@ -70,7 +70,7 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 5	arte	arte	NOUN	Scfs	Gender=Fem|Number=Sing	1	ccomp	_	_
 6	apreciada	apreciado	ADJ	A0fs	Gender=Fem|Number=Sing	5	amod	_	_
 7	en	en	ADP	P	AdpType=Prep	8	case	_	_
-8	Galiza	Galiza	PROPN	Sp00	_	6	obl	_	SpaceAfter=No
+8	Galiza	galiza	PROPN	Sp00	_	6	obl	_	SpaceAfter=No
 9	?	?	PUNCT	Q?	_	1	punct	_	_
 
 ~~~

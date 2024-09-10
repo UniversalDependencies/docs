@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  ב (<tt><a href="he_iahltwiki-pos-ADP.htm
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.122699 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `ADP` is 1.122699 (the average of all parts of speech is 1.479540).
 
 The 1st highest number of forms (6) was observed with the lemma “את”: אֶת, אֹת, אות, אית, את, של.
 
@@ -67,12 +67,12 @@ The 2nd highest number of forms (3) was observed with the lemma “ב”: ב, ב
 
 The 3rd highest number of forms (3) was observed with the lemma “בין”: בין, בינ, ביני.
 
-`ADP` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt> (3212; 14% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`ADP` occurs with 5 features: <tt><a href="he_iahltwiki-feat-Case.html">Case</a></tt> (3210; 14% instances), <tt><a href="he_iahltwiki-feat-Definite.html">Definite</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-PronType.html">PronType</a></tt> (2572; 11% instances), <tt><a href="he_iahltwiki-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
 `ADP` occurs with 6 feature-value pairs: `Abbr=Yes`, `Case=Acc`, `Case=Gen`, `Definite=Def`, `PronType=Art`, `Typo=Yes`
 
 `ADP` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (17219 tokens).
+The most frequent feature combination is `_` (17221 tokens).
 Examples: ב, ל, מ, על, את, כ, עם, בין, לאחר, עד
 
 

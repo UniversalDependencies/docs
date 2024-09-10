@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-40250 tokens (14%) have a non-empty value of `Definite`.
-29 types (0%) occur at least once with a non-empty value of `Definite`.
-11 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (40242; 14% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+40259 tokens (14%) have a non-empty value of `Definite`.
+30 types (0%) occur at least once with a non-empty value of `Definite`.
+10 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-DET.html">DET</a></tt> (40251; 14% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `DET`
 
-40242 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
+40251 <tt><a href="it_vit-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (40242; 100%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29577; 73%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20317; 50%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (40251; 100%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29586; 74%), <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20318; 50%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (36128; 90% of non-empty `Definite`): <em>il, la, l', i, le, gli, lo, un, the</em>
-* `Ind` (4114; 10% of non-empty `Definite`): <em>un, una, un', uno, delle</em>
-* `EMPTY` (3668): <em>questo, sua, suo, questa, loro, tutti, ogni, questi, tutte, nostro</em>
+* `Def` (36135; 90% of non-empty `Definite`): <em>il, la, l', i, le, gli, lo, un, the</em>
+* `Ind` (4116; 10% of non-empty `Definite`): <em>un, una, un', uno, delle</em>
+* `EMPTY` (3673): <em>questo, sua, suo, questa, loro, tutti, ogni, questi, tutte, nostro</em>
 
 <table>
   <tr><th>Paradigm <i>uno</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -43,7 +43,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Ind` (7; 100% of non-empty `Definite`): <em>altro, Tutti, altri, ognuna, qualcosa, una</em>
-* `EMPTY` (9795): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
+* `EMPTY` (9773): <em>che, si, cui, ci, lo, quello, c', ne, mi, quella</em>
 
 ### `NUM`
 
@@ -54,5 +54,5 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 `NUM` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>uno</em>
-* `EMPTY` (6393): <em>due, tre, cento, 15, 1, 1973, 2, quattro, 30, 6</em>
+* `EMPTY` (6392): <em>due, tre, cento, 15, 1, 5, 1973, 2, 20, 30</em>
 

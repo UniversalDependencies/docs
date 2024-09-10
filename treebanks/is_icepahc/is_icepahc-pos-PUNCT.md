@@ -9,9 +9,9 @@ udver: '2'
 There are 16 `PUNCT` lemmas (0%), 15 `PUNCT` types (0%) and 113951 `PUNCT` tokens (12%).
 Out of 16 observed tags, the rank of `PUNCT` is: 15 in number of lemmas, 16 in number of types and 4 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: <em>,, ., ", :, ;, ?, !, -, "-", —</em>
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ", :, ;, ?, !, -, "-", ...</em>
 
-The 10 most frequent `PUNCT` types:  <em>,, ., ", :, ;, ?, !, -, —, ...</em>
+The 10 most frequent `PUNCT` types:  <em>,, ., ", :, ;, ?, !, -, ..., —</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.937500 (the average of all parts of speech is 1.828541).
+The form / lemma ratio of `PUNCT` is 0.937500 (the average of all parts of speech is 1.856060).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>,, ., ", :, ;, ?, !, -, ..., |</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="is_icepahc-dep-punct.html">punct</a></tt> (113951; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (39093; 34% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (20142; 18% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (13312; 12% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (9655; 8% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (8037; 7% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (6354; 6% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (6297; 6% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (3238; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (2884; 3% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (2766; 2% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (963; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (544; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (523; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (87; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (46; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="is_icepahc-pos-NOUN.html">NOUN</a></tt> (39092; 34% instances), <tt><a href="is_icepahc-pos-VERB.html">VERB</a></tt> (20145; 18% instances), <tt><a href="is_icepahc-pos-PRON.html">PRON</a></tt> (13307; 12% instances), <tt><a href="is_icepahc-pos-PROPN.html">PROPN</a></tt> (9660; 8% instances), <tt><a href="is_icepahc-pos-PUNCT.html">PUNCT</a></tt> (8037; 7% instances), <tt><a href="is_icepahc-pos-ADJ.html">ADJ</a></tt> (6353; 6% instances), <tt><a href="is_icepahc-pos-ADV.html">ADV</a></tt> (6298; 6% instances), <tt><a href="is_icepahc-pos-ADP.html">ADP</a></tt> (3236; 3% instances), <tt><a href="is_icepahc-pos-DET.html">DET</a></tt> (2885; 3% instances), <tt><a href="is_icepahc-pos-AUX.html">AUX</a></tt> (2766; 2% instances), <tt><a href="is_icepahc-pos-INTJ.html">INTJ</a></tt> (963; 1% instances), <tt><a href="is_icepahc-pos-NUM.html">NUM</a></tt> (544; 0% instances), <tt><a href="is_icepahc-pos-X.html">X</a></tt> (520; 0% instances), <tt><a href="is_icepahc-pos-CCONJ.html">CCONJ</a></tt> (87; 0% instances), <tt><a href="is_icepahc-pos-SCONJ.html">SCONJ</a></tt> (48; 0% instances), <tt><a href="is_icepahc-pos-PART.html">PART</a></tt> (10; 0% instances)
 
 105914 (93%) `PUNCT` nodes are leaves.
 

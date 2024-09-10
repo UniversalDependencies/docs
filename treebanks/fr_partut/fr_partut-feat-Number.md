@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_partut-feat-Number.html">Number</a></tt>, <tt><a href="fr_partut-feat-Number-psor.html">Number[psor]</a></tt>.
 
-16202 tokens (57%) have a non-empty value of `Number`.
-3318 types (80%) occur at least once with a non-empty value of `Number`.
-2214 lemmas (76%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (5888; 21% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4768; 17% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1929; 7% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1809; 6% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1059; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (749; 3% instances).
+16358 tokens (57%) have a non-empty value of `Number`.
+3343 types (81%) occur at least once with a non-empty value of `Number`.
+2199 lemmas (77%) occur at least once with a non-empty value of `Number`.
+The feature is used with 6 part-of-speech tags: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (6079; 21% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (4764; 17% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1929; 7% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1773; 6% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1063; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (750; 3% instances).
 
 ### `NOUN`
 
-5888 <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
+6079 <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3149; 53%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3169; 52%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1699; 29% of non-empty `Number`): <em>membres, états, droits, fonds, mesures, exigences, produits, termes, transports, conditions</em>
-* `Sing` (4189; 71% of non-empty `Number`): <em>commission, parlement, oeuvre, programme, droit, sécurité, contrat, rapport, directive, conseil</em>
-* `EMPTY` (166): <em>pays, cas, mme, temps, processus, procès, polystyrène, taux, avis, internet</em>
+* `Plur` (1750; 29% of non-empty `Number`): <em>membres, états, droits, fonds, mesures, exigences, produits, pays, termes, transports</em>
+* `Sing` (4329; 71% of non-empty `Number`): <em>commission, parlement, oeuvre, programme, droit, sécurité, contrat, rapport, directive, conseil</em>
+* `EMPTY` (5): <em>procès-verbal</em>
 
 <table>
   <tr><th>Paradigm <i>droit</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -35,14 +35,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-4768 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+4764 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3962; 83%), <tt><a href="fr_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3341; 70%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3959; 83%), <tt><a href="fr_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (3338; 70%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (1402; 29% of non-empty `Number`): <em>les, des, ces, tous, ses, leurs, certains, nos, de, toutes</em>
-* `Sing` (3366; 71% of non-empty `Number`): <em>le, la, l', une, un, ce, cette, toute, son, votre</em>
+* `Sing` (3362; 71% of non-empty `Number`): <em>le, la, l', une, un, ce, cette, toute, son, votre</em>
 * `EMPTY` (16): <em>d', nombreux, des, de, quel</em>
 
 <table>
@@ -57,15 +57,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `VERB`
 
-1929 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Number`.
+1929 <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> tokens (71% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1210; 63%), <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1140; 59%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1085; 56%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (972; 50%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1214; 63%), <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1146; 59%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1088; 56%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (978; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (684; 35% of non-empty `Number`): <em>ont, peuvent, pouvez, devons, doivent, font, devraient, devrions, dites, espérons</em>
-* `Sing` (1245; 65% of non-empty `Number`): <em>a, peut, voudrais, fait, doit, est, dite, devrait, convient, tenu</em>
-* `EMPTY` (808): <em>faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</em>
+* `Plur` (681; 35% of non-empty `Number`): <em>ont, peuvent, pouvez, devons, doivent, font, devraient, devrions, dites, espérons</em>
+* `Sing` (1248; 65% of non-empty `Number`): <em>a, peut, voudrais, fait, doit, est, dite, devrait, convient, tenu</em>
+* `EMPTY` (807): <em>faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -84,12 +84,12 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-1809 <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
+1773 <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (629; 35% of non-empty `Number`): <em>autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</em>
-* `Sing` (1180; 65% of non-empty `Number`): <em>présent, technique, européen, possible, communautaire, nécessaire, présente, économique, autre, applicable</em>
+* `Plur` (619; 35% of non-empty `Number`): <em>autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</em>
+* `Sing` (1154; 65% of non-empty `Number`): <em>présent, technique, européen, possible, communautaire, présente, nécessaire, économique, autre, applicable</em>
 * `EMPTY` (41): <em>faux, divers, délictueux, malheureux, vice, quel, tiers, arbitraire, bas, clos</em>
 
 <table>
@@ -100,15 +100,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-1059 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Number`.
+1063 <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (804; 76%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (612; 58%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (807; 76%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (616; 58%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (400; 38% of non-empty `Number`): <em>nous, vous, ils, elles, ceux, tous, autres, ceux-ci, leur, auxquelles</em>
-* `Sing` (659; 62% of non-empty `Number`): <em>il, je, ce, on, j', le, elle, l', cela, chacun</em>
-* `EMPTY` (552): <em>qui, s', se, c', que, y, en, qu', dont, où</em>
+* `Sing` (663; 62% of non-empty `Number`): <em>il, je, ce, on, j', le, elle, l', cela, chacun</em>
+* `EMPTY` (555): <em>qui, s', se, c', que, y, en, qu', dont, où</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -117,13 +117,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-749 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
+750 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (675; 90%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (623; 83%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (611; 82%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (610; 81%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (676; 90%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (624; 83%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (612; 82%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (611; 81%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (233; 31% of non-empty `Number`): <em>sont, ont, soient, étaient, sommes, avons, avez, êtes, seront, aient</em>
+* `Plur` (234; 31% of non-empty `Number`): <em>sont, ont, soient, étaient, sommes, avons, avez, êtes, seront, aient</em>
 * `Sing` (516; 69% of non-empty `Number`): <em>est, a, été, sera, soit, suis, était, ai, ait, serait</em>
 * `EMPTY` (97): <em>être, étant, faire, avoir, ayant, faisant</em>
 
@@ -147,14 +147,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_partut-dep-det.html">det</a></tt>]--> DET</tt> (4321; 96%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1329; 94%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1167; 58%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-det.html">det</a></tt>]--> DET</tt> (4459; 99%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1369; 96%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1236; 61%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (499; 73%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (397; 79%),
-<tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (395; 88%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (300; 66%),
-<tt>VERB --[<tt><a href="fr_partut-dep-aux.html">aux</a></tt>]--> AUX</tt> (185; 68%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (414; 82%),
+<tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (408; 90%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (306; 67%),
+<tt>VERB --[<tt><a href="fr_partut-dep-aux.html">aux</a></tt>]--> AUX</tt> (186; 68%),
 <tt>VERB --[<tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (149; 62%),
-<tt>VERB --[<tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (142; 91%).
+<tt>NOUN --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (144; 75%).
 

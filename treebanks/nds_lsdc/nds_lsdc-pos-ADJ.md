@@ -6,87 +6,85 @@ udver: '2'
 
 ## Treebank Statistics: UD_Low_Saxon-LSDC: POS Tags: `ADJ`
 
-There are 124 `ADJ` lemmas (14%), 149 `ADJ` types (13%) and 176 `ADJ` tokens (6%).
+There are 505 `ADJ` lemmas (14%), 697 `ADJ` types (13%) and 1276 `ADJ` tokens (6%).
 Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>ander, good, veale, grout, leev, eyrst, houg, laat, luthersk, old</em>
+The 10 most frequent `ADJ` lemmas: <em>good, old, veale, grout, gans, ander, leev, lang, heyl, jung</em>
 
-The 10 most frequent `ADJ` types:  <em>ander, eyrste, good, grout, olden, völle, anderen, armen, byster, gemeynen</em>
+The 10 most frequent `ADJ` types:  <em>olde, good, gans, goden, grouten, olden, groute, gode, veal, andere</em>
 
-The 10 most frequent ambiguous lemmas: <em>eyrst</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>arm</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>gans</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>veal</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>wår</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 2), <em>doud</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1), <em>endelik</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>gerade</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1), <em>leyd</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>net</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>good</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 76, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3), <em>old</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 57, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3), <em>veale</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 43, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 13, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 3), <em>grout</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 42, <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> 1), <em>gans</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>ander</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 27, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 18, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>leev</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>lang</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 8), <em>heyl</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>ny</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>leve</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>sat</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>doud</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>gans</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>gerade</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1), <em>harde</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>junge</em> (<tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1), <em>leyd</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>wol</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 1, <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1), <em>wår</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>olde</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3), <em>good</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 2), <em>gans</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>veal</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>andere</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 5), <em>lange</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 17, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 9), <em>recht</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3), <em>meyr</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 21, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 9), <em>ander</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 3), <em>anderen</em> (<tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 7)
 
 
-* <em>leve</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Sü ! eyn is dat van de vealen nådeylen , dee dåruut entspreaken mut , wän man syd twintig dörtig jår allerley kråmstükke , wårvan man vröer niks wus , by de <b>leve</b> jugend insmuggelt un invöört , besunders in vöärneame familien oader dee et weasen willet , dårdöärch dat kristendoom meyr un minder vordrängd wardt , wat nich wol to möten is .</em>
-  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1: <em>Dårto kumt un to ' m deyl volgt dåruut de groute ungelouve , oader as man et nömen wil , de mangel an vroamigheid , religiositeet in m landen , an wåre <b>leve</b> to ' m gelouven , dat man dat geistlike arvdeyl , wat unsen vöärölderen sweyt un blood kosted het , nich vast holden mag .</em>
-* <em>sat</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 2: <em>Ik sin et <b>sat</b> , altyd in de swarte aerde te wölen en my dan des åvends in de keyte doud te vervealen ...</em>
-  * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1: <em>Ik wol , dat ik in de stad <b>sat</b> ! "</em>
-* <em>doud</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Ik sin et sat , altyd in de swarte aerde te wölen en my dan des åvends in de keyte <b>doud</b> te vervealen ...</em>
-  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1: <em>Den bloudtügen vöär unsen gelouven , Henrick van Zütphen , syn sake , arbeid , lyden un <b>doud</b> in Dithmarschen .</em>
+* <em>olde</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 25: <em>Toon vroog ik nyskyrig an de <b>olde</b> baas : “ Wee waren det now ? ”</em>
+  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3: <em>Un de <b>olde</b> deylde dat good .</em>
+* <em>good</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 23: <em>Dat wet y net sou <b>good</b> as ikke , dat do y !</em>
+  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 2: <em>Un de olde deylde dat <b>good</b> .</em>
 * <em>gans</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Dat dei den armen köäter <b>gans</b> famose leyd , un wus sik in syne hertensangst nich te råden noch te helpen .</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Et hevt nu <b>gans</b> en gaar gin fatsuun , dat jy myn leevde sou kold en sou vorwerd handelen blyvet .</em>
-* <em>gerade</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 3: <em>Et givt nist up der weld , wat sou vyn un sou künstlik tesammensetted un sou wyse inerichted is , ar de minsklike körper ; et givt aver ouk nist , wat sou ofte durch dumheid un oavermood voar immer vorhudeld un vorprudeld wardt , ar <b>gerade</b> dee .</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Et was <b>gerade</b> sou ne rüsige winternacht , de wind hüülde , dat de böyme krakeden , de reagen plärde vöär de vensters , un kynen steern wöör an den hiamel te seen , et was sou düüster , dat man kyne hand vöär ougen seen kon .</em>
-* <em>harde</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Vertelsel van nen buur , den et <b>harde</b> werken möde en et pap etten sat was , en et in de stad güng söken .</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Alle lachen <b>harde</b> up , un Wiesken ward roud as vüür .</em>
-* <em>junge</em>
-  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3: <em>ik weyt noch best , et ging van mensa , mensae , mensarum , mensas , puer en pueri , dat was dan souvöäle as de verbüginge van ‘ tåfel ’ en ‘ <b>junge</b> ’ ; wyder hebbe ik et der dan ouk neet meade ebracht ;</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>" Now vertellet et my toch eyns , mynen leven Krisjaon , wat mankeert ow dan toch eigenlik ? " vröög ne <b>junge</b> burinne an höären man , den net van et land in et huus was ekommen en de pette verdretig en verdraid up den brandbak hadde esmetten .</em>
-* <em>leyd</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Unse meister segt , dat vake de geleyrde lüde öäver en klein woord , öäver en nüllige sake mekare wel drådnägelen , dat et når is , dat uw de håren der van te barge rysen , dat y der <b>leyd</b> um worden .</em>
-  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1: <em>Dat dei den armen köäter gans famose <b>leyd</b> , un wus sik in syne hertensangst nich te råden noch te helpen .</em>
-* <em>wol</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 4: <em>Jy seaden , Jy weren my good - geavet my en bewys van un skenket my dissen buk , dee my seyre klook skynt un den ik <b>wol</b> midünder üm råd vrågen müchte .</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Bestünde de skade alleyne dårinne , dat eynder mål voar smartsen de wände heruplöpt , oder kaeme et immer wirklik to ' n ende , dat et mid eynen måle afemaked wörde , sou möchte et noch angån ; aver sou lichte let sik de natuur nich underkrygen ; et mot geväärlik veal eskeen syn , eyr see sik to ' n doude entslüt voar der tyd ; un de smartsen sint by der krankheid allemål et wennigste , ik möchte seggen gerade et beste ; <b>wol</b> deane , dee see hat !</em>
-  * <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> 1: <em>As ik ter mer eyne wüs , den unsen kråm <b>wol</b> koupen ! "</em>
-  * <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> 1: <em>Ik <b>wol</b> , dat ik in de stad sat ! "</em>
-* <em>wår</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 6: <em>Jå , <b>wår</b> is de knyptange ?</em>
-  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1: <em>Dat is ouk <b>wår</b> un is döär veale teyken bewysd , dat düslike vordamde saelen , dee in dem grav keyne rouwe hebben , van god bruked warden de slimmen in tucht to holden .</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 16: <em>» Sou , « sead Dörchläuchting <b>gans</b> swak ,</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2: <em>Et hevt nu <b>gans</b> en gaar gin fatsuun , dat jy myn leevde sou kold en sou vorwerd handelen blyvet .</em>
+* <em>veal</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 11: <em>Noch stunden dår <b>veal</b> lüde herüm , aver de kinder hadde Jochen wegjaagd .</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2: <em>Un unser valke , dee in der böke sat un gruwsam möde äverst noch <b>veal</b> meyr hungerig was , höyrde eyne duve kurren un sag see bald mid earen witten vedderen up dem huusdak .</em>
+* <em>andere</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 10: <em>Hee bemöögt süch souwat neet med <b>andere</b> kinder en in de pauses lopt hee meyst alleyn up et plein .</em>
+  * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 5: <em>Now , vöär ho völle jenever drink y de eyne dag döär de <b>andere</b> .</em>
+* <em>lange</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 17: <em>Oha , myn gode man , dee höldt mål sou <b>lange</b> as en köften .</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 9: <em>Dee segt my <b>lange</b> niks .</em>
+* <em>recht</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 10: <em>„ Jo “ , ropet viale , „ sou is et <b>recht</b> ! an 't werk ! “ –</em>
+  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 3: <em>Wy sint en old profetengeslächte , studeret vial un spreaket <b>recht</b> .</em>
+* <em>meyr</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 21: <em>- Hold y neet <b>meyr</b> van uw vrouwe en kinderen , - vroog hee ?</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 9: <em>Küäning Salomo un syne gäste brächen en grouten houpen skåpe un rinder as offer , <b>meyr</b> as men tellen kon .</em>
+* <em>ander</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 8: <em>Dår kunnen ouk jo noch <b>ander</b> lüde lust to hebben . «</em>
+  * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 3: <em>„ Y weyten , sea de kastelein do wear , „ wårum dat we hyr by en <b>ander</b> binnen ; et is en malle bodel . “</em>
+* <em>anderen</em>
+  * <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 8: <em>De <b>anderen</b> inwöäners in dear stad , dee hourden by m stamme Benjamin .</em>
+  * <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> 7: <em>Now , do mêr de pöäkel-up-stelten der was , höövden see neet up <b>anderen</b> te wachten .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.201613 (the average of all parts of speech is 1.319540).
+The form / lemma ratio of `ADJ` is 1.380198 (the average of all parts of speech is 1.410753).
 
-The 1st highest number of forms (5) was observed with the lemma “good”: <em>best, beste, besten, goden, good</em>.
+The 1st highest number of forms (11) was observed with the lemma “good”: <em>'N, beater, best, beste, besten, better, gode, goden, goder, good, gud</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “ander”: <em>ander, andere, anderen</em>.
+The 2nd highest number of forms (11) was observed with the lemma “veale”: <em>meyr, meyrste, meyste, veal, veale, viale, vialen, vialer, völle, vöäl, vöäle</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “laat”: <em>Later, late, lätste</em>.
+The 3rd highest number of forms (9) was observed with the lemma “ny”: <em>neye, ny, nyd, nye, nyen, nyet, nygen, nyges, nys</em>.
 
-`ADJ` occurs with 4 features: <tt><a href="nds_lsdc-feat-Degree.html">Degree</a></tt> (154; 88% instances), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt> (95; 54% instances), <tt><a href="nds_lsdc-feat-Case.html">Case</a></tt> (91; 52% instances), <tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt> (86; 49% instances)
+`ADJ` occurs with 7 features: <tt><a href="nds_lsdc-feat-Degree.html">Degree</a></tt> (1191; 93% instances), <tt><a href="nds_lsdc-feat-Number.html">Number</a></tt> (671; 53% instances), <tt><a href="nds_lsdc-feat-Case.html">Case</a></tt> (668; 52% instances), <tt><a href="nds_lsdc-feat-Gender.html">Gender</a></tt> (628; 49% instances), <tt><a href="nds_lsdc-feat-Tense.html">Tense</a></tt> (46; 4% instances), <tt><a href="nds_lsdc-feat-VerbForm.html">VerbForm</a></tt> (46; 4% instances), <tt><a href="nds_lsdc-feat-NumType.html">NumType</a></tt> (14; 1% instances)
 
-`ADJ` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Acc,Dat`, `Case=Dat`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`ADJ` occurs with 20 feature-value pairs: `Case=Acc`, `Case=Acc,Dat`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`
 
-`ADJ` occurs with 48 feature combinations.
-The most frequent feature combination is `Degree=Pos` (65 tokens).
-Examples: <em>good, byster, grout, houg, kold, natüürlik, sat, ander, völle, Hard</em>
+`ADJ` occurs with 123 feature combinations.
+The most frequent feature combination is `Degree=Pos` (486 tokens).
+Examples: <em>good, gans, olde, recht, goden, richtig, doud, grouten, lange, vul</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 15 different relations: <tt><a href="nds_lsdc-dep-amod.html">amod</a></tt> (75; 43% instances), <tt><a href="nds_lsdc-dep-advmod.html">advmod</a></tt> (42; 24% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (13; 7% instances), <tt><a href="nds_lsdc-dep-xcomp.html">xcomp</a></tt> (9; 5% instances), <tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt> (7; 4% instances), <tt><a href="nds_lsdc-dep-parataxis.html">parataxis</a></tt> (6; 3% instances), <tt><a href="nds_lsdc-dep-root.html">root</a></tt> (6; 3% instances), <tt><a href="nds_lsdc-dep-acl.html">acl</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-dep-compound-prt.html">compound:prt</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-dep-orphan.html">orphan</a></tt> (1; 1% instances)
+`ADJ` nodes are attached to their parents using 20 different relations: <tt><a href="nds_lsdc-dep-amod.html">amod</a></tt> (624; 49% instances), <tt><a href="nds_lsdc-dep-advmod.html">advmod</a></tt> (240; 19% instances), <tt><a href="nds_lsdc-dep-xcomp.html">xcomp</a></tt> (100; 8% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (74; 6% instances), <tt><a href="nds_lsdc-dep-root.html">root</a></tt> (58; 5% instances), <tt><a href="nds_lsdc-dep-obl.html">obl</a></tt> (32; 3% instances), <tt><a href="nds_lsdc-dep-parataxis.html">parataxis</a></tt> (29; 2% instances), <tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt> (26; 2% instances), <tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt> (23; 2% instances), <tt><a href="nds_lsdc-dep-ccomp.html">ccomp</a></tt> (20; 2% instances), <tt><a href="nds_lsdc-dep-obj.html">obj</a></tt> (18; 1% instances), <tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt> (8; 1% instances), <tt><a href="nds_lsdc-dep-compound-prt.html">compound:prt</a></tt> (6; 0% instances), <tt><a href="nds_lsdc-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-dep-dislocated.html">dislocated</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (81; 46% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (65; 37% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (18; 10% instances),  (6; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 1% instances)
+Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (606; 47% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (464; 36% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (98; 8% instances),  (58; 5% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (17; 1% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (2; 0% instances)
 
-111 (63%) `ADJ` nodes are leaves.
+857 (67%) `ADJ` nodes are leaves.
 
-26 (15%) `ADJ` nodes have one child.
+173 (14%) `ADJ` nodes have one child.
 
-16 (9%) `ADJ` nodes have two children.
+63 (5%) `ADJ` nodes have two children.
 
-23 (13%) `ADJ` nodes have three or more children.
+183 (14%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 9.
+The highest child degree of a `ADJ` node is 10.
 
-Children of `ADJ` nodes are attached using 20 different relations: <tt><a href="nds_lsdc-dep-advmod.html">advmod</a></tt> (39; 22% instances), <tt><a href="nds_lsdc-dep-cop.html">cop</a></tt> (21; 12% instances), <tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt> (17; 9% instances), <tt><a href="nds_lsdc-dep-punct.html">punct</a></tt> (17; 9% instances), <tt><a href="nds_lsdc-dep-cc.html">cc</a></tt> (14; 8% instances), <tt><a href="nds_lsdc-dep-obl.html">obl</a></tt> (14; 8% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (13; 7% instances), <tt><a href="nds_lsdc-dep-det.html">det</a></tt> (11; 6% instances), <tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt> (5; 3% instances), <tt><a href="nds_lsdc-dep-case.html">case</a></tt> (5; 3% instances), <tt><a href="nds_lsdc-dep-mark.html">mark</a></tt> (5; 3% instances), <tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-dep-expl.html">expl</a></tt> (3; 2% instances), <tt><a href="nds_lsdc-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-dep-csubj.html">csubj</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-dep-det-poss.html">det:poss</a></tt> (1; 1% instances), <tt><a href="nds_lsdc-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `ADJ` nodes are attached using 28 different relations: <tt><a href="nds_lsdc-dep-advmod.html">advmod</a></tt> (289; 23% instances), <tt><a href="nds_lsdc-dep-punct.html">punct</a></tt> (192; 15% instances), <tt><a href="nds_lsdc-dep-cop.html">cop</a></tt> (153; 12% instances), <tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt> (131; 10% instances), <tt><a href="nds_lsdc-dep-obl.html">obl</a></tt> (78; 6% instances), <tt><a href="nds_lsdc-dep-cc.html">cc</a></tt> (76; 6% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (67; 5% instances), <tt><a href="nds_lsdc-dep-det.html">det</a></tt> (67; 5% instances), <tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt> (38; 3% instances), <tt><a href="nds_lsdc-dep-case.html">case</a></tt> (34; 3% instances), <tt><a href="nds_lsdc-dep-mark.html">mark</a></tt> (26; 2% instances), <tt><a href="nds_lsdc-dep-parataxis.html">parataxis</a></tt> (18; 1% instances), <tt><a href="nds_lsdc-dep-aux.html">aux</a></tt> (17; 1% instances), <tt><a href="nds_lsdc-dep-nmod.html">nmod</a></tt> (14; 1% instances), <tt><a href="nds_lsdc-dep-obj.html">obj</a></tt> (10; 1% instances), <tt><a href="nds_lsdc-dep-vocative.html">vocative</a></tt> (8; 1% instances), <tt><a href="nds_lsdc-dep-acl-relcl.html">acl:relcl</a></tt> (6; 0% instances), <tt><a href="nds_lsdc-dep-expl.html">expl</a></tt> (6; 0% instances), <tt><a href="nds_lsdc-dep-discourse.html">discourse</a></tt> (5; 0% instances), <tt><a href="nds_lsdc-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-compound-redup.html">compound:redup</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-det-poss.html">det:poss</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-iobj.html">iobj</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (30; 17% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (23; 13% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (22; 12% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (18; 10% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (17; 9% instances), <tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (17; 9% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (15; 8% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (13; 7% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (12; 7% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (5; 3% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (5; 3% instances), <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (4; 2% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (224; 18% instances), <tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (192; 15% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (170; 14% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (119; 9% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (119; 9% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (98; 8% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (81; 6% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (75; 6% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (68; 5% instances), <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> (35; 3% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (34; 3% instances), <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (23; 2% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="nds_lsdc-pos-INTJ.html">INTJ</a></tt> (5; 0% instances)
 

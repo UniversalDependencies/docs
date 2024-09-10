@@ -12,20 +12,20 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 9361 tokens (7%) have a non-empty value of `Tense`.
 3162 types (22%) occur at least once with a non-empty value of `Tense`.
 1298 lemmas (14%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8747; 6% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (614; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (8745; 6% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (616; 0% instances).
 
 ### `VERB`
 
-8747 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Tense`.
+8745 <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> tokens (82% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8622; 99%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6173; 71%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6107; 70%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6025; 69%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5423; 62%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (8621; 99%), <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6171; 71%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6105; 70%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6023; 69%), <tt><a href="he_iahltwiki-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5423; 62%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (348; 4% of non-empty `Tense`): יהיה, תשלם, יאפשר, יהיו, ייתכן, יקבלו, ישלמו, תוביל, תכניס, יפעיל
-* `Past` (5833; 67% of non-empty `Tense`): כתב, הלחין, יצא, זכה, החל, היו, החלו, כלל, החלה, הוציא
+* `Fut` (347; 4% of non-empty `Tense`): יהיה, תשלם, יאפשר, יהיו, ייתכן, יקבלו, ישלמו, תוביל, תכניס, יפעיל
+* `Past` (5832; 67% of non-empty `Tense`): כתב, הלחין, יצא, זכה, החל, היו, החלו, כלל, החלה, הוציא
 * `Pres` (2566; 29% of non-empty `Tense`): ניתן, כולל, מדובר, מהווה, מכונה, נמצא, נראה, עולה, גורם, נמצאים
-* `EMPTY` (1903): יש, אין, לקבל, לגרום, למנוע, לבצע, ליצור, להופיע, לתת, אפשר
+* `EMPTY` (1900): יש, אין, לקבל, לגרום, למנוע, לבצע, ליצור, להופיע, לתת, אפשר
 
 <table>
   <tr><th>Paradigm <i>כלל</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -45,16 +45,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-614 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Tense`.
+616 <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (607; 99%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (601; 98%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (539; 88%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (437; 71%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (403; 66%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (393; 64%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (333; 54%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="he_iahltwiki-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (609; 99%), <tt><a href="he_iahltwiki-feat-Person.html">Person</a></tt><tt>=3</tt> (602; 98%), <tt><a href="he_iahltwiki-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt> (541; 88%), <tt><a href="he_iahltwiki-feat-Number.html">Number</a></tt><tt>=Sing</tt> (439; 71%), <tt><a href="he_iahltwiki-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (404; 66%), <tt><a href="he_iahltwiki-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (395; 64%), <tt><a href="he_iahltwiki-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (335; 54%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (62; 10% of non-empty `Tense`): יהיה, תהיה, יהיו, תוכל, יוכל, יוכלו, תהא, יָוכְלוּ, יהא, יכלו
-* `Past` (500; 81% of non-empty `Tense`): היה, היו, הייתה, הייתי, יכלו, היינו, יָכְלוּ, יכול, יכלה
+* `Fut` (63; 10% of non-empty `Tense`): יהיה, תהיה, יהיו, תוכל, יוכל, יוכלו, תהא, אהיה, יָוכְלוּ, יהא
+* `Past` (501; 81% of non-empty `Tense`): היה, היו, הייתה, הייתי, יכלו, היינו, יָכְלוּ, יכול, יכלה
 * `Pres` (52; 8% of non-empty `Tense`): אינו, אינם, יכולים, יכול, יכולה, אינה, אינן, איננו, איננה, מוכנה
-* `EMPTY` (342): אינו, אינה, להיות, אינם, יכול, יכולה, עלול, אינן, יכולים, צריך
+* `EMPTY` (345): אינו, אינה, להיות, אינם, יכול, יכולה, עלול, אינן, יכולים, צריך
 
 <table>
   <tr><th>Paradigm <i>יכל</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

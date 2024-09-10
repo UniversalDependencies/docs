@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="apu_ufpa-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-18 nodes (2%) are attached to their parents as `obl`.
+21 nodes (2%) are attached to their parents as `obl`.
 
-9 instances of `obl` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.44444444444444.
+11 instances of `obl` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.28571428571429.
 
-The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (15; 83% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (3; 17% instances).
+The following 2 pairs of parts of speech are connected with `obl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (15; 71% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (6; 29% instances).
 
 
 ~~~ conllu

@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 3889 tokens (6%) have a non-empty value of `Person`.
 37 types (4%) occur at least once with a non-empty value of `Person`.
-34 lemmas (4%) occur at least once with a non-empty value of `Person`.
+33 lemmas (4%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> (2640; 4% instances), <tt><a href="en_atis-pos-AUX.html">AUX</a></tt> (914; 1% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> (335; 1% instances).
 
 ### `PRON`
@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `3` (335; 100% of non-empty `Person`): <em>is, leaves, arrives, serves, goes, has, flies, stops, makes, uses</em>
 * `EMPTY` (5542): <em>show, list, like, leaving, fly, need, arriving, have, give, leave</em>
 
-`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (28) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 100% lemmas (27) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 

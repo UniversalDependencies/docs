@@ -116,7 +116,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1386; 64%),
-<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (856; 96%),
+<tt>NOUN --[<tt><a href="hy_bsut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (857; 96%),
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (303; 64%),
 <tt>NOUN --[<tt><a href="hy_bsut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (277; 78%),
 <tt>PROPN --[<tt><a href="hy_bsut-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (138; 55%),

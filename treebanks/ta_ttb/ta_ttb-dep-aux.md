@@ -58,17 +58,17 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 25 24 aux	color:blue
 1	இந்தியாவின்	இந்தியா	PROPN	NEG-3SN--	Case=Gen|Gender=Neut|Number=Sing|Person=3	3	nmod	3:nmod:gen	Translit=intiyāvin|LTranslit=intiyā
 2	அண்டை	அண்டை	ADJ	JJ-------	_	3	amod	3:amod	Translit=aṇṭai|LTranslit=aṇṭai
-3	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod	4:nmod:nom	Translit=nāṭukaḷ|LTranslit=nāṭu
-4	ஆன	ஆன	PART	Tg-------	_	7	nmod	7:nmod	Translit=āna|LTranslit=āna
+3	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nmod	4:nmod:nom	LTranslit=nāṭu|Translit=nāṭukaḷ
+4	ஆன	ஆன	PART	Tg-------	_	7	nmod	7:nmod	LTranslit=āna|Translit=āna
 5	சீனா	சீனா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=cīnā|LTranslit=cīnā
 6	59வது	59	ADJ	Uy-------	NumType=Ord	7	amod	7:amod	Translit=59vatu|LTranslit=59
-7	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	25	obj	25:obj	Translit=iṭattaiy|LTranslit=iṭam
-8	உம்	உம்	PART	Tv-------	_	7	advmod:emph	7:advmod:emph	Translit=um|LTranslit=um
+7	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	25	obj	25:obj	LTranslit=iṭam|Translit=iṭattaiy
+8	உம்	உம்	PART	Tv-------	_	7	advmod:emph	7:advmod:emph	LTranslit=um|Translit=um
 9	,	,	PUNCT	Z:-------	PunctType=Comm	12	punct	12:punct	Translit=,|LTranslit=,
 10	இலங்கை	இலங்கை	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	12	nsubj	12:nsubj	Translit=ilaṅkai|LTranslit=ilaṅkai
 11	66வது	66	ADJ	Uy-------	NumType=Ord	12	amod	12:amod	Translit=66vatu|LTranslit=66
-12	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	conj	7:conj|25:obj	Translit=iṭattaiy|LTranslit=iṭam
-13	உம்	உம்	PART	Tv-------	_	12	advmod:emph	12:advmod:emph	Translit=um|LTranslit=um
+12	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	conj	7:conj|25:obj	LTranslit=iṭam|Translit=iṭattaiy
+13	உம்	உம்	PART	Tv-------	_	12	advmod:emph	12:advmod:emph	LTranslit=um|Translit=um
 14	பங்களாதேஷ்	பங்களாதேஷ்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	17	nsubj	17:nsubj	Translit=paṅkaḷātēṣ|LTranslit=paṅkaḷātēṣ
 15	மற்றும்	மற்றும்	CCONJ	CC-------	_	16	cc	16:cc	Translit=marrum|LTranslit=marrum
 16	பாகிஸ்தான்	பாகிஸ்தான்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	14	conj	14:conj|17:nsubj	Translit=pākistān|LTranslit=pākistān
@@ -77,10 +77,10 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 19	88	88	NUM	U=-------	NumForm=Digit|NumType=Card	22	nummod	22:nummod	Translit=88|LTranslit=88
 20	மற்றும்	மற்றும்	CCONJ	CC-------	_	21	cc	21:cc	Translit=marrum|LTranslit=marrum
 21	89வது	89	ADJ	Uy-------	NumType=Ord	19	conj	19:conj|22:nummod	Translit=89vatu|LTranslit=89
-22	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	conj	7:conj|25:obj	Translit=iṭattaiy|LTranslit=iṭam
-23	உம்	உம்	PART	Tv-------	_	22	cc	22:cc	Translit=um|LTranslit=um
-24	பிடித்த்	பிடு	AUX	VT-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	25	aux	25:aux	Translit=piṭitt|LTranslit=piṭu
-25	உள்ளன	உள்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=uḷḷana|LTranslit=uḷ
+22	இடத்தைய்	இடம்	NOUN	NNA-3SN--	Case=Acc|Gender=Neut|Number=Sing|Person=3	7	conj	7:conj|25:obj	LTranslit=iṭam|Translit=iṭattaiy
+23	உம்	உம்	PART	Tv-------	_	22	cc	22:cc	LTranslit=um|Translit=um
+24	பிடித்த்	பிடு	AUX	VT-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	25	aux	25:aux	LTranslit=piṭu|Translit=piṭitt
+25	உள்ளன	உள்	AUX	VR-T3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	LTranslit=uḷ|Translit=uḷḷana
 26	.	.	PUNCT	Z#-------	PunctType=Peri	25	punct	25:punct	Translit=.|LTranslit=.
 
 ~~~

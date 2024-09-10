@@ -6,58 +6,59 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `ADJ`
 
-There are 4 `ADJ` lemmas (1%), 4 `ADJ` types (1%) and 4 `ADJ` tokens (0%).
-Out of 15 observed tags, the rank of `ADJ` is: 7 in number of lemmas, 7 in number of types and 11 in number of tokens.
+There are 5 `ADJ` lemmas (2%), 5 `ADJ` types (1%) and 5 `ADJ` tokens (1%).
+Out of 16 observed tags, the rank of `ADJ` is: 7 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>Kataparaxinery, atuku, tsuka, ãtukyry</em>
+The 10 most frequent `ADJ` lemmas: <em>Kataparaxinery, ataũ, atuku, tsuka, ãtukyry</em>
 
-The 10 most frequent `ADJ` types:  <em>Kataparaxinery, atuku, patsukarepyryna, ãtukyry</em>
+The 10 most frequent `ADJ` types:  <em>Ataũpytykara, Kataparaxinery, atuku, patsukarepyryna, ãtukyry</em>
 
-The 10 most frequent ambiguous lemmas: <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1, <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>atuku</em>
   * <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> 1: <em>Iũpiri xuxuri <b>atuku</b> itxa .</em>
   * <tt><a href="apu_ufpa-pos-ADP.html">ADP</a></tt> 1: <em>Ywa sykary maky <b>atuku</b> ãa tsupa apakapa ywa amutary tiitxi .</em>
+  * <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> 1: <em>Ipi ũty <b>atuku</b> apuumary kuna awaika .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.201493).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.222951).
 
 The 1st highest number of forms (1) was observed with the lemma “Kataparaxinery”: <em>Kataparaxinery</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “atuku”: <em>atuku</em>.
+The 2nd highest number of forms (1) was observed with the lemma “ataũ”: <em>Ataũpytykara</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “tsuka”: <em>patsukarepyryna</em>.
+The 3rd highest number of forms (1) was observed with the lemma “atuku”: <em>atuku</em>.
 
-`ADJ` occurs with 4 features: <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt> (1; 25% instances), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt> (1; 25% instances), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt> (1; 25% instances), <tt><a href="apu_ufpa-feat-VerbType.html">VerbType</a></tt> (1; 25% instances)
+`ADJ` occurs with 4 features: <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt> (1; 20% instances), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt> (1; 20% instances), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt> (1; 20% instances), <tt><a href="apu_ufpa-feat-VerbType.html">VerbType</a></tt> (1; 20% instances)
 
 `ADJ` occurs with 4 feature-value pairs: `Gender[subj]=Masc`, `Number[subj]=Sing`, `Person[subj]=3`, `VerbType=Vido`
 
 `ADJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3 tokens).
-Examples: <em>atuku, patsukarepyryna, ãtukyry</em>
+The most frequent feature combination is `_` (4 tokens).
+Examples: <em>Ataũpytykara, atuku, patsukarepyryna, ãtukyry</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 2 different relations: <tt><a href="apu_ufpa-dep-root.html">root</a></tt> (3; 75% instances), <tt><a href="apu_ufpa-dep-acl-relcl.html">acl:relcl</a></tt> (1; 25% instances)
+`ADJ` nodes are attached to their parents using 2 different relations: <tt><a href="apu_ufpa-dep-root.html">root</a></tt> (4; 80% instances), <tt><a href="apu_ufpa-dep-acl-relcl.html">acl:relcl</a></tt> (1; 20% instances)
 
-Parents of `ADJ` nodes belong to 2 different parts of speech:  (3; 75% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 25% instances)
+Parents of `ADJ` nodes belong to 2 different parts of speech:  (4; 80% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 20% instances)
 
-1 (25%) `ADJ` nodes are leaves.
+1 (20%) `ADJ` nodes are leaves.
 
 0 (0%) `ADJ` nodes have one child.
 
-1 (25%) `ADJ` nodes have two children.
+1 (20%) `ADJ` nodes have two children.
 
-2 (50%) `ADJ` nodes have three or more children.
+3 (60%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 3.
 
-Children of `ADJ` nodes are attached using 6 different relations: <tt><a href="apu_ufpa-dep-punct.html">punct</a></tt> (3; 38% instances), <tt><a href="apu_ufpa-dep-advcl.html">advcl</a></tt> (1; 13% instances), <tt><a href="apu_ufpa-dep-conj.html">conj</a></tt> (1; 13% instances), <tt><a href="apu_ufpa-dep-cop.html">cop</a></tt> (1; 13% instances), <tt><a href="apu_ufpa-dep-nsubj.html">nsubj</a></tt> (1; 13% instances), <tt><a href="apu_ufpa-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 13% instances)
+Children of `ADJ` nodes are attached using 6 different relations: <tt><a href="apu_ufpa-dep-punct.html">punct</a></tt> (4; 36% instances), <tt><a href="apu_ufpa-dep-advcl.html">advcl</a></tt> (2; 18% instances), <tt><a href="apu_ufpa-dep-cop.html">cop</a></tt> (2; 18% instances), <tt><a href="apu_ufpa-dep-conj.html">conj</a></tt> (1; 9% instances), <tt><a href="apu_ufpa-dep-nsubj.html">nsubj</a></tt> (1; 9% instances), <tt><a href="apu_ufpa-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 9% instances)
 
-Children of `ADJ` nodes belong to 4 different parts of speech: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 38% instances), <tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 38% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (1; 13% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 13% instances)
+Children of `ADJ` nodes belong to 4 different parts of speech: <tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (4; 36% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (2; 18% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 18% instances)
 

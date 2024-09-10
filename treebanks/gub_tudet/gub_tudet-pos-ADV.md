@@ -40,9 +40,9 @@ The 2nd highest number of forms (3) was observed with the lemma “nezewe”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “har”: <em>arer, har</em>.
 
-`ADV` occurs with 7 features: <tt><a href="gub_tudet-feat-Evident.html">Evident</a></tt> (299; 77% instances), <tt><a href="gub_tudet-feat-Int.html">Int</a></tt> (241; 62% instances), <tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt> (10; 3% instances), <tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt> (8; 2% instances), <tt><a href="gub_tudet-feat-Tense.html">Tense</a></tt> (6; 2% instances), <tt><a href="gub_tudet-feat-Dimin.html">Dimin</a></tt> (2; 1% instances), <tt><a href="gub_tudet-feat-Polarity.html">Polarity</a></tt> (2; 1% instances)
+`ADV` occurs with 7 features: <tt><a href="gub_tudet-feat-Evident.html">Evident</a></tt> (299; 77% instances), <tt><a href="gub_tudet-feat-Int.html">Int</a></tt> (241; 62% instances), <tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt> (10; 3% instances), <tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt> (8; 2% instances), <tt><a href="gub_tudet-feat-Tense.html">Tense</a></tt> (6; 2% instances), <tt><a href="gub_tudet-feat-Degree.html">Degree</a></tt> (2; 1% instances), <tt><a href="gub_tudet-feat-Polarity.html">Polarity</a></tt> (2; 1% instances)
 
-`ADV` occurs with 9 feature-value pairs: `Dimin=Yes`, `Emph=Yes`, `Evident=Fh`, `Evident=Nfh`, `Int=Yes`, `Nomzr=Ag`, `Nomzr=Circ`, `Polarity=Neg`, `Tense=Past`
+`ADV` occurs with 9 feature-value pairs: `Degree=Dim`, `Emph=Yes`, `Evident=Fh`, `Evident=Nfh`, `Int=Yes`, `Nomzr=Ag`, `Nomzr=Circ`, `Polarity=Neg`, `Tense=Past`
 
 `ADV` occurs with 13 feature combinations.
 The most frequent feature combination is `Evident=Nfh|Int=Yes` (241 tokens).

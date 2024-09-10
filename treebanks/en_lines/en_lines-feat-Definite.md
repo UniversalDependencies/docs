@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-7852 tokens (8%) have a non-empty value of `Definite`.
-11 types (0%) occur at least once with a non-empty value of `Definite`.
-6 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-DET.html">DET</a></tt> (7849; 8% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+7860 tokens (8%) have a non-empty value of `Definite`.
+12 types (0%) occur at least once with a non-empty value of `Definite`.
+7 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-DET.html">DET</a></tt> (7857; 8% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `DET`
 
-7849 <tt><a href="en_lines-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Definite`.
+7857 <tt><a href="en_lines-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (7849; 100%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (7857; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (5262; 67% of non-empty `Definite`): <em>the</em>
+* `Def` (5270; 67% of non-empty `Definite`): <em>the, Le</em>
 * `Ind` (2587; 33% of non-empty `Definite`): <em>a, an, Tha</em>
-* `EMPTY` (975): <em>this, no, that, all, some, any, these, each, every, those</em>
+* `EMPTY` (991): <em>this, no, that, all, some, any, these, each, every, those</em>
 
 <table>
   <tr><th>Paradigm <i>the</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (1; 50% of non-empty `Definite`): <em>her</em>
 * `Ind` (1; 50% of non-empty `Definite`): <em>nothing</em>
-* `EMPTY` (9626): <em>he, I, it, you, his, that, my, they, him, her</em>
+* `EMPTY` (9581): <em>he, I, it, you, his, that, my, they, him, her</em>
 
 ### `NOUN`
 

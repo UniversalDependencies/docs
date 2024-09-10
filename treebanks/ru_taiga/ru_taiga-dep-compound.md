@@ -49,7 +49,7 @@ The following 17 pairs of parts of speech are connected with `compound`: <tt><a 
 7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
 8	заранее	заранее	ADV	_	Degree=Pos	6	parataxis	_	SpaceAfter=No
 9	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	_~
+10	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 17 pairs of parts of speech are connected with `compound`: <tt><a 
 6	радикал	радикал	X	_	_	8	compound	_	_
 7	же	же	PART	_	_	6	advmod	_	_
 8	нацистам	нацист	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_~
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

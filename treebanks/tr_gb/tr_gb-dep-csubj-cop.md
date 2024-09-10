@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-GB: Relations: `csubj:cop`
 
 This relation is a language-specific subtype of <tt><a href="tr_gb-dep-csubj.html">csubj</a></tt>.
+There are also 1 other language-specific subtypes of `csubj`: <tt><a href="tr_gb-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-63 nodes (0%) are attached to their parents as `csubj:cop`.
+62 nodes (0%) are attached to their parents as `csubj:cop`.
 
-61 instances of `csubj:cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6031746031746.
+60 instances of `csubj:cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54838709677419.
 
-The following 8 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (39; 62% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (15; 24% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (39; 63% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (15; 24% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tr_gb-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

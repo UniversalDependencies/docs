@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1 tokens (0%) have a non-empty value of `Reflex`.
-1 types (0%) occur at least once with a non-empty value of `Reflex`.
-1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+3 tokens (0%) have a non-empty value of `Reflex`.
+2 types (0%) occur at least once with a non-empty value of `Reflex`.
+1 lemmas (0) occur at least once with a non-empty value of `Reflex`.
+The feature is used with 1 part-of-speech tags: <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-1 <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Reflex`.
+3 <tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="jv_csui-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="jv_csui-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="jv_csui-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="jv_csui-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="jv_csui-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="jv_csui-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (1; 100% of non-empty `Reflex`): <em>dhèknè</em>
-* `EMPTY` (109): <em>ingkang, kang, ipun, é, piyambakipun, né, dhèwèké, panjenenganipun, apa, aku</em>
+* `Yes` (3; 100% of non-empty `Reflex`): <em>diri, dhekne</em>
+* `EMPTY` (958): <em>sing, e, kang, aku, ku, ingkang, dak, dheweke, apa, mu</em>
 

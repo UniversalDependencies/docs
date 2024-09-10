@@ -11,7 +11,7 @@ It occurs with 2 different values: `Act`, `Pass`.
 
 9890 tokens (7%) have a non-empty value of `Voice`.
 696 types (6%) occur at least once with a non-empty value of `Voice`.
-295 lemmas (3%) occur at least once with a non-empty value of `Voice`.
+296 lemmas (3%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 7 part-of-speech tags: <tt><a href="ur_udtb-pos-VERB.html">VERB</a></tt> (8711; 6% instances), <tt><a href="ur_udtb-pos-AUX.html">AUX</a></tt> (1168; 1% instances), <tt><a href="ur_udtb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ur_udtb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ur_udtb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ur_udtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ur_udtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `EMPTY` (3984): کرنے، کرتے، دیا، ہونے، لیا، دینے، دی، کر، رکھنے، دیتے
 
 <table>
-  <tr><th>Paradigm <i>کر</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
+  <tr><th>Paradigm <i>کرنا</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
   <tr><td><tt>_</tt></td><td>کر, کریں, کی, کروا, کئے, کرے, کیں</td><td>کر, کیے, کئے, کیا</td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ur_udtb-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>کرتے</td><td></td></tr>
   <tr><td><tt><tt><a href="ur_udtb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ur_udtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ur_udtb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ur_udtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>کرتا, کرتے</td><td></td></tr>
@@ -215,8 +215,9 @@ The most frequent other feature values with which `PRON` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (975; 70%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (883; 82%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> VERB</tt> (755; 68%),
+<tt>VERB --[<tt><a href="ur_udtb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (220; 82%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-acl.html">acl</a></tt>]--> VERB</tt> (39; 71%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>VERB --[<tt><a href="ur_udtb-dep-obj.html">obj</a></tt>]--> PART</tt> (2; 67%),

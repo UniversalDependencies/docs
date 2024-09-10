@@ -43,9 +43,9 @@ The following 2 pairs of parts of speech are connected with `obl:inst`: <tt><a h
 3	எல்லோரும்	எல்லோரும்	PRON	_	Case=Nom|Number=Plur	5	nsubj	_	Translit=ellōrum|LTranslit=ellōrum
 4	விறகால்	விறகு	NOUN	_	Case=Ins|Number=Sing|Person=3	5	obl:inst	_	Translit=viṟakāl|LTranslit=viṟaku
 5	சமையல்	சமையல்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=camaiyal|LTranslit=camaiyal
-6	செய்து	செய்	VERB	_	Polarity=Pos|VerbForm=Conv	5	compound:lvc	_	Translit=ceytu|LTranslit=cey
-7	கொண்டு	கொள்	AUX	_	Polarity=Pos|VerbForm=Conv	6	aux	_	Translit=koṇṭu|LTranslit=koḷ
-8	வந்தார்கள்	வா	AUX	_	Gender=Com|Number=Plur|Person=3|Tense=Past	6	aux	_	Translit=vantārkaḷ|LTranslit=vā
+6	செய்து	செய்	VERB	_	Polarity=Pos|VerbForm=Conv	5	compound:lvc	_	LTranslit=cey|Translit=ceytu
+7	கொண்டு	கொள்	AUX	_	Polarity=Pos|VerbForm=Conv	6	aux	_	LTranslit=koḷ|Translit=koṇṭu
+8	வந்தார்கள்	வா	AUX	_	Gender=Com|Number=Plur|Person=3|Tense=Past	6	aux	_	LTranslit=vā|Translit=vantārkaḷ
 9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
 ~~~

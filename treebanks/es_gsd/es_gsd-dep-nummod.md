@@ -26,10 +26,10 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 4	promedió	promeder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	5	5	NUM	_	NumType=Card	6	nummod	_	_
+5	5	5	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
 6	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
 7	y	y	CCONJ	_	_	9	cc	_	_
-8	2.4	2.4	NUM	_	NumType=Card	9	nummod	_	_
+8	2.4	2.4	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
 9	rebotes	rebote	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -44,7 +44,7 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 4 3 nummod	color:blue
 1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	4	case	_	_
-3	38-41	38-41	NUM	_	NumType=Card	4	nummod	_	_
+3	38-41	38-41	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
 4	cm	cm	SYM	_	Gender=Masc	1	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	largo	largo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
@@ -78,7 +78,7 @@ The following 18 pairs of parts of speech are connected with `nummod`: <tt><a hr
 8	to	to	PROPN	_	Gender=Masc|Number=Sing	7	flat	_	_
 9	the	the	PROPN	_	Number=Sing	7	flat	_	_
 10	Future	future	PROPN	_	_	7	flat	_	_
-11	III	iii	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
+11	III	iii	NUM	_	NumForm=Roman|NumType=Card	7	nummod	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

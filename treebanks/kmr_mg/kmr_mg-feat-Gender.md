@@ -134,7 +134,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (72; 52%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (52; 55%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (36; 55%),
-<tt>PROPN --[<tt><a href="kmr_mg-dep-flat.html">flat</a></tt>]--> PROPN</tt> (29; 83%),
+<tt>PROPN --[<tt><a href="kmr_mg-dep-flat.html">flat</a></tt>]--> PROPN</tt> (30; 83%),
 <tt>PROPN --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (19; 90%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (10; 59%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (9; 82%),

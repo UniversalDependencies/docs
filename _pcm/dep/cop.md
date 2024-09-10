@@ -29,4 +29,4 @@ The `cop` relation is used between a function word and the subject to a nonverba
 5	lie	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:18 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:00 CEST -->

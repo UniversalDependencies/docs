@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
-18755 tokens (7%) have a non-empty value of `Case`.
+18756 tokens (7%) have a non-empty value of `Case`.
 94 types (0%) occur at least once with a non-empty value of `Case`.
 26 lemmas (0%) occur at least once with a non-empty value of `Case`.
-The feature is used with 1 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (18755; 7% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (18756; 7% instances).
 
 ### `PRON`
 
-18755 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Case`.
+18756 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18708; 100%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15065; 80%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13925; 74%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11066; 59%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_ewt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (18709; 100%), <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15066; 80%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13926; 74%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11067; 59%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (3272; 17% of non-empty `Case`): <em>me, it, you, them, him, us, her, yourself, myself, itself</em>
 * `Gen` (3690; 20% of non-empty `Case`): <em>my, your, their, his, our, its, her, you, it's, there</em>
-* `Nom` (11793; 63% of non-empty `Case`): <em>i, you, it, they, we, he, she, u, the, There</em>
-* `EMPTY` (4245): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
+* `Nom` (11794; 63% of non-empty `Case`): <em>i, you, it, they, we, he, she, u, the, There</em>
+* `EMPTY` (4288): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
 
 <table>
   <tr><th>Paradigm <i>I</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

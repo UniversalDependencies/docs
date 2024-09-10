@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 6	e	e	CCONJ	CJ	_	7	cc	_	_
 7	cenários	cenário	NOUN	CN	Gender=Masc|Number=Plur	2	conj	_	_
 8	de_	de_	ADP	PREP	_	10	case	_	_
-9	o	o	DET	DA	Gender=Masc|Number=Sing	10	det	_	_
+9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	pintor	pintor	NOUN	CN	Gender=Masc|Number=Sing	7	obl	_	_
 11	Manuel	manuel	PROPN	PNM	_	10	obl	_	_
 12	Amado	amado	PROPN	PNM	_	11	flat	_	_
@@ -53,7 +53,7 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 6	e	e	CCONJ	CJ	_	7	cc	_	_
 7	cenários	cenário	NOUN	CN	Gender=Masc|Number=Plur	2	conj	_	_
 8	de_	de_	ADP	PREP	_	10	case	_	_
-9	o	o	DET	DA	Gender=Masc|Number=Sing	10	det	_	_
+9	o	o	DET	DA	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	pintor	pintor	NOUN	CN	Gender=Masc|Number=Sing	7	obl	_	_
 11	Manuel	manuel	PROPN	PNM	_	10	obl	_	_
 12	Amado	amado	PROPN	PNM	_	11	flat	_	_
@@ -68,9 +68,9 @@ The following 13 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	Os	os	DET	DA	Gender=Masc|Number=Plur	2	det	_	_
+1	Os	os	DET	DA	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	glaciares	glaciar	NOUN	CN	Gender=Masc|Number=Plur	5	obj	_	_
-3	estão	estar	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+3	estão	estar	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	a	a	ADP	PREP	_	5	case	_	_
 5	derreter	derreter	VERB	INF	VerbForm=Inf	0	root	_	_
 6	?	?	PUNCT	PNT	_	5	punct	_	_

@@ -11,4 +11,4 @@ The verb particle relation _compound:prt_ is used for the particle element of a 
 PÅ VÄG VARVA NER \n [I'm] on [my] way to wind down
 compound(VARVA, NER)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:16 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:56 CEST -->

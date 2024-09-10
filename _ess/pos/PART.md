@@ -17,4 +17,4 @@ Particles are uninflected words, and they are not further analyzed into morpheme
 
 ### References
 - Willem J. de Reuse. 1994. _Siberian Yupik Eskimo -- The Language and Its Contacts with Chukchi._  Studies in Indigenous Languages of the Americas. University of Utah Press, Salt Lake City, Utah.
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

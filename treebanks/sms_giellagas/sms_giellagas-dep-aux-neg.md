@@ -9,31 +9,30 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="sms_giellagas-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="sms_giellagas-dep-aux-tense.html">aux:tense</a></tt>.
 
-42 nodes (1%) are attached to their parents as `aux:neg`.
+46 nodes (2%) are attached to their parents as `aux:neg`.
 
-42 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+46 instances of `aux:neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.52173913043478.
 
-The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (37; 88% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (41; 89% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 aux:neg	color:blue
-1	Jiõm	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=1|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Ind,Sg1
-2	pâsttam	pâʹstted	VERB	Aux	Connegative=Yes|Mood=Ind|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,ConNeg
-3	seuʹrrjed	seuʹrrjed	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
-4	suu	son	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	det	_	GTtags=Pers,Sg3,Gen
-5	urččmõõžž	urččmõš	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
-6	ǥu	ǥu	SCONJ	CS	_	10	mark	_	_
-7	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pers,Sg3,Nom
-8	leäi	leeʹd	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	10	cop	_	GTtags=IV,Ind,Prt,Sg3
-9	samai	samai	ADV	Adv	_	10	advmod:deg	_	_
-10	jåʹttel	jåʹttel	ADJ	A	Case=Nom|Number=Sing	2	advcl	_	GTtags=Sg,Nom|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 aux:neg	color:blue
+1	De	de	CCONJ	CC	_	3	cc	_	_
+2	mon	mon	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
+3	vuâlǥam	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
+4	ja	ja	CCONJ	CC	_	7	cc	_	_
+5	muu	mon	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obj	_	GTtags=Pers,Sg1,Acc
+6	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	7	aux:neg	_	GTtags=Neg,Ind,Sg2
+7	kaaun	kaunnâd	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres	3	conj	_	GTtags=Ind,Prs,ConNeg
+8	teänab	teänab	ADV	Adv	_	7	advmod:tmod	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	SpaceAfter=No
+10	’	’	PUNCT	PUNCT	_	3	punct	_	GTtags=RIGHT
 
 ~~~
 
@@ -51,10 +50,10 @@ The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 5	kâʹl	kâʹl	ADV	Adv	_	7	advmod	_	_
 6	leäkku	leeʹd	AUX	V	Connegative=Yes	7	cop	_	GTtags=ConNeg
 7	šurr	šurr	ADJ	A	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	10	punct	_	_
+8	,	,	PUNCT	CLB	_	10	punct	_	_
 9	mâʹte	mâʹte	ADV	Adv	_	10	mark	_	_
 10	ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	acl	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
-11	,	,	PUNCT	PUNCT	_	16	punct	_	_
+11	,	,	PUNCT	CLB	_	16	punct	_	_
 12	tuu	ton	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	14	det	_	GTtags=Pers,Sg2,Gen
 13	šoora	šoora	ADJ	A	_	14	amod	_	_
 14	ooumaž	ooumaž	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	16	nsubj:cop	_	GTtags=Sem/Hum,Sg,Nom

@@ -26,10 +26,10 @@ The 10 most frequent ambiguous types:  <em>на</em> (<tt><a href="kpv_lattice-p
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 36: <em>Корсюрӧ семьяяс <b>и</b> нимкодясьлісны .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3: <em>Эг <b>и</b> тӧдлы , кыдзи юр весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .</em>
 * <em>сӧмын</em>
-  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 21: <em>Сійӧ ньӧбис машина , а вокыс <b>сӧмын</b> велосипед .</em>
+  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 21: <em>Сэк жӧ удиті на воны <b>сӧмын</b> пипу рас весьтӧдз .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Комияс ми уджавнытӧ кужам , <b>сӧмын</b> , гашкӧ , шойччынысӧ ог .</em>
 * <em>кор</em>
-  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9: <em>Тэ кыдзи мӧвпалан , <b>кор</b> верман волыны ?</em>
+  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9: <em>A Ыджыд Сюра Бать заводитӧ петны , <b>кор</b> сылы лоӧ арӧсӧн-джынйӧн .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 3: <em>И шензи нӧшта , <b>кор</b> тӧдмалі , мый шерыслӧн туйыс зэв векньыдик и вӧлӧма .</em>
   * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1: <em>... том пожӧм сора кыдз - пипу сора берегыс кос , асъя югыд шонді син веравтӧдзыд серӧдӧма лыс да <b>кор</b> пырыс ялаа ягсӧ ...</em>
 * <em>нӧ</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>на</em> (<tt><a href="kpv_lattice-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.064151 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `ADV` is 1.064151 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (5) was observed with the lemma “ёна”: <em>медъёна, ёна, ёнакодь, ёнасӧ, ёнджыкасӧ</em>.
 

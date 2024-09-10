@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-101 nodes (7%) are attached to their parents as `punct`.
+256 nodes (9%) are attached to their parents as `punct`.
 
-65 instances of `punct` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66336633663366.
+166 instances of `punct` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.66015625.
 
-The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (54; 53% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (36; 36% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 4% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (4; 4% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-DET.html">DET</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `punct`: <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (181; 71% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (49; 19% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (8; 3% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (7; 3% instances), <tt><a href="eme_tudet-pos-INTJ.html">INTJ</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="eme_tudet-pos-ADP.html">ADP</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="eme_tudet-pos-DET.html">DET</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

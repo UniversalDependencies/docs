@@ -11,9 +11,9 @@ This relation is universal.
 18687 nodes (10%) are attached to their parents as `root`.
 
 18687 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.01990688714079.
+Average distance between parent and child is 8.02044201851555.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (14681; 79% instances), -<tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (2889; 15% instances), -<tt><a href="tr_kenet-pos-ADJ.html">ADJ</a></tt> (906; 5% instances), -<tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt> (89; 0% instances), -<tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (51; 0% instances), -<tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), -<tt><a href="tr_kenet-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="tr_kenet-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), -<tt><a href="tr_kenet-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="tr_kenet-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="tr_kenet-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="tr_kenet-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (14680; 79% instances), -<tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (2890; 15% instances), -<tt><a href="tr_kenet-pos-ADJ.html">ADJ</a></tt> (906; 5% instances), -<tt><a href="tr_kenet-pos-ADV.html">ADV</a></tt> (89; 0% instances), -<tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (51; 0% instances), -<tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> (41; 0% instances), -<tt><a href="tr_kenet-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="tr_kenet-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), -<tt><a href="tr_kenet-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="tr_kenet-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="tr_kenet-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="tr_kenet-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

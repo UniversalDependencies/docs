@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 orphan	color:blue
-1	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	j'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	été	être	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -56,14 +56,14 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 12	Porto	Porto	PROPN	_	_	10	orphan	_	_
 13	dans	dans	ADP	_	_	14	dep:comp	_	_
 14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	reparandum	_	SpaceAfter=No
-15	,	,	PUNCT	_	_	18	punct	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
 16	dans	dans	ADP	_	_	18	case	_	_
 17	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	18	det	_	_
 18	collèges	collège	NOUN	_	Gender=Masc|Number=Plur	3	obl:mod	_	_
 19	et	et	CCONJ	_	_	21	cc	_	_
 20	dans	dans	ADP	_	_	21	dep:comp	_	_
-21	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	25	reparandum	_	SpaceAfter=No
-22	,	,	PUNCT	_	_	25	punct	_	_
+21	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	reparandum	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	21	punct	_	_
 23	dans	dans	ADP	_	_	25	case	_	_
 24	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	25	det	_	_
 25	primaires	primaire	NOUN	_	Gender=Fem|Number=Plur	18	conj	_	_
@@ -72,8 +72,8 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 28	euh	euh	INTJ	_	_	26	discourse	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
 30	enfin	enfin	ADV	_	_	26	discourse	_	SpaceAfter=No
-31	,	,	PUNCT	_	_	32	punct	_	_
-32	françaises	français	ADJ	conj:reform	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	26	punct	_	_
+32	françaises	français	ADJ	_	Gender=Fem|Number=Plur	25	amod	_	SpaceAfter=No
 33	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -88,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	SpaceAfter=No
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
-4	de	de	ADP	_	_	6	det	_	ExtPos=DET|Idiom=Yes
+4	de	de	ADP	_	ExtPos=DET	6	det	_	Idiom=Yes
 5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	fixed	_	InIdiom=Yes
 6	paille	paille	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 7	synthétique	synthétique	ADJ	_	Number=Sing	6	amod	_	SpaceAfter=No
@@ -96,9 +96,9 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 9	ni	ni	CCONJ	_	_	10	cc	_	_
 10	XXX	XXX	X	_	_	6	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
-12	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
+12	tu	toi	PRON	_	Number=Sing|Person=2|PronType=Prs	13	nsubj	_	_
 13	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	orphan	_	_
-14	aucun	aucun	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	15	det	_	_
+14	aucun	aucun	DET	_	Gender=Masc|Number=Sing|PronType=Neg	15	det	_	_
 15	problème	problème	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
 

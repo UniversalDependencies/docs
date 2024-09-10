@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 14 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11; 79%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (10; 71%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt> (8; 57%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11; 79%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8; 57%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Plur</tt> (8; 57%).
 
 `AUX` tokens may have the following values of `Voice`:
 
@@ -51,14 +51,14 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (4478; 89%),
-<tt>VERB --[<tt><a href="la_llct-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1865; 71%),
+<tt>VERB --[<tt><a href="la_llct-dep-conj.html">conj</a></tt>]--> VERB</tt> (4589; 89%),
+<tt>VERB --[<tt><a href="la_llct-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1927; 72%),
 <tt>VERB --[<tt><a href="la_llct-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (910; 74%),
 <tt>VERB --[<tt><a href="la_llct-dep-ccomp-relcl.html">ccomp:relcl</a></tt>]--> VERB</tt> (140; 85%),
 <tt>VERB --[<tt><a href="la_llct-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (97; 95%),
-<tt>VERB --[<tt><a href="la_llct-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (43; 51%),
+<tt>VERB --[<tt><a href="la_llct-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (44; 52%),
 <tt>VERB --[<tt><a href="la_llct-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (37; 77%),
 <tt>VERB --[<tt><a href="la_llct-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (31; 62%),
 <tt>VERB --[<tt><a href="la_llct-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (12; 67%),
-<tt>VERB --[<tt><a href="la_llct-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (9; 75%).
+<tt>VERB --[<tt><a href="la_llct-dep-acl.html">acl</a></tt>]--> VERB</tt> (6; 55%).
 

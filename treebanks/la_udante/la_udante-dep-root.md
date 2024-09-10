@@ -11,9 +11,9 @@ This relation is universal.
 1721 nodes (3%) are attached to their parents as `root`.
 
 1721 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.06740267286461.
+Average distance between parent and child is 9.07321324811156.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1342; 78% instances), -<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (136; 8% instances), -<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (127; 7% instances), -<tt><a href="la_udante-pos-DET.html">DET</a></tt> (47; 3% instances), -<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (21; 1% instances), -<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (19; 1% instances), -<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (17; 1% instances), -<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="la_udante-pos-PART.html">PART</a></tt> (4; 0% instances), -<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="la_udante-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1345; 78% instances), -<tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (137; 8% instances), -<tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (126; 7% instances), -<tt><a href="la_udante-pos-DET.html">DET</a></tt> (46; 3% instances), -<tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (21; 1% instances), -<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (19; 1% instances), -<tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (17; 1% instances), -<tt><a href="la_udante-pos-PART.html">PART</a></tt> (4; 0% instances), -<tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="la_udante-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

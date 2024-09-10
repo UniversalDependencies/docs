@@ -5,7 +5,7 @@ shortdef: 'foreign words'
 udver: '2'
 ---
 
-We use `flat:foreign` to label sequences of foreign words. These are given
+Some treebanks use `flat:foreign` to label sequences of foreign words. These are given
 a linear analysis: the head is the first token in the foreign phrase.
 
 `flat:foreign` does not apply to loanwords or to foreign [names](flat).
@@ -19,4 +19,7 @@ flat:foreign(Blue, in)
 flat:foreign(Blue, the)
 flat:foreign(Blue, Face)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:27 CET 2022 -->
+
+See the general policy on [Foreign Expressions and Code-Switching](/foreign.html).
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:14 CEST -->

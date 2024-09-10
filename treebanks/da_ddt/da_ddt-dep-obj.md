@@ -43,9 +43,9 @@ The following 34 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 6 7 obj	color:blue
 1	Men	men	CCONJ	_	_	6	cc	_	_
 2	man	man	PRON	_	Case=Nom|Gender=Com|PronType=Ind	6	nsubj	_	_
-3	ka'	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	SpaceAfter=No
-4	sgu'	sgu'	ADV	_	_	6	advmod	_	SpaceAfter=No
-5	ikke	ikke	ADV	_	_	6	advmod	_	_
+3	ka'	kunne	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	sgu'	sgu'	ADV	_	_	6	advmod	_	_
+5	ikke	ikke	ADV	Polarity=Neg	_	6	advmod	_	_
 6	undvære	undvære	VERB	_	VerbForm=Inf|Voice=Act	0	root	_	_
 7	dem	de	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_

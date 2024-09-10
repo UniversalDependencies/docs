@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
 Repository: [UD_Urdu-UDTB](https://github.com/UniversalDependencies/UD_Urdu-UDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -137,11 +137,11 @@ year={2009}
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): تھا, جا, رہ, سک, پا, پڑ, چاہئے, کر, گا, ہو, ہے</li>
+<li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): تھا, جانا, رہنا, سکنا, پانا, پڑنا, چاہئے, کرنا, گانا, ہونا, ہے</li>
 </ul>
 
 <ul>
-<li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: تھا, جا, رہ, سک, پا, پڑ, چاہئے, کر, گا, ہو, ہے</li>
+<li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: تھا, جانا, رہنا, سکنا, پانا, پڑنا, چاہئے, کرنا, گانا, ہونا, ہے</li>
 </ul>
 
 <ul>
@@ -850,7 +850,7 @@ year={2009}
 </ul>
 
 <ul>
-<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ہے، جا، تھا، ہو، رہ، سک، کر، گا، چاہئے، پڑ، پا.</li>
+<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ہے، جانا، تھا، ہونا، رہنا، سکنا، کرنا، گانا، چاہئے، پڑنا، پانا.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

@@ -106,4 +106,4 @@ et al.</A> page 3.
   "problems of various kinds"; اَلْمَشَاكِلُ <b>الْمُخْتَلِفَةُ</b>
   الأنْوَاعِ _al-mašākilu <b>al-muxtalifatu</b> al-anwāˀi_ "the
   problems of various kinds".
-<!-- Interlanguage links updated Po lis 14 15:34:43 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:52 CEST -->

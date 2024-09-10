@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-77 nodes (6%) are attached to their parents as `obj`.
+78 nodes (6%) are attached to their parents as `obj`.
 
-75 instances of `obj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.64935064935065.
+75 instances of `obj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.64102564102564.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (46; 60% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (16; 21% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (11; 14% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (46; 59% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (16; 21% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (12; 15% instances), <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

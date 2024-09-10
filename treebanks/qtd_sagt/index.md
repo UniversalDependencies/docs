@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Özlem Çetinoğlu, Çağrı Çöltekin.
 
 Repository: [UD_Turkish_German-SAGT](https://github.com/UniversalDependencies/UD_Turkish_German-SAGT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -492,9 +492,7 @@ isbn = {978-2-9517408-9-1},
 <ul>
   <li>Neg
     <ul>
-      <li>DET: keine, kein, keinen</li>
       <li>PART: nicht</li>
-      <li>PRON: kein, keine, keiner, keinen, keines, keins</li>
       <li>VERB: bilmiyorum, bilmem, gelmedi, etmeye, görmedim, istemiyorum, yapmıyorsun, başlamadım, duymadım, yapmıyor</li>
       <li>VERB-Conv: sormaya, öğrenmeye, öğrenmeyince</li>
       <li>VERB-Part: anlamadığımız, bakmadığımız, bilmediğim, denemediğim, gitmediğim, görmediğim, görmediğimiz, ilaçlamadığımız, istemediğini, okumadığın</li>

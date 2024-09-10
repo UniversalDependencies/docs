@@ -17,4 +17,4 @@ case(jiõŋ-5, âʹlnn-6)
 
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:40 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:38 CEST -->

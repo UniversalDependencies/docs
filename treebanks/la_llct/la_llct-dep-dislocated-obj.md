@@ -30,7 +30,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:obj`: <t
 5	,	,	PUNCT	Punc	_	1	punct	_	_
 6	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	10	mark	_	_
 7	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	9	nmod	_	_
-8	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	_
+8	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	_
 9	eas	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
 10	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 11	;	;	PUNCT	Punc	_	10	punct	_	_
@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:obj`: <t
 1	hec	hic	DET	p|p|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Dem	2	det	_	_
 2	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	8	dislocated:obj	_	SpaceAfter=No
 3	,	,	PUNCT	Punc	_	2	punct	_	_
-4	mihi	ego	PRON	p|p|1|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing|Person=1|PronType=Prs	8	obl:arg	_	_
+4	mihi	ego	PRON	p|p|1|s|-|-|-|f|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	obl:arg	_	_
 5	eas	is	PRON	p|p|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	8	obj	_	_
 6	livellario	libellarius	ADJ	a|a|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	7	amod	_	_
 7	nomine	nomen	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	8	obl	_	_
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:obj`: <t
 # visual-style 39	bgColor:blue
 # visual-style 39	fgColor:white
 # visual-style 39 27 dislocated:obj	color:blue
-1	istis	iste	DET	p|p|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	amod	_	_
+1	istis	iste	DET	p|p|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	_
 2	Bellisarius	Belisarius	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	_
 3	presbiter	presbyter	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	5	punct	_	_
@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:obj`: <t
 6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
 7	Ansuald	Ansualdus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
 8	germani	germanus	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	5	appos	_	_
-9	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	10	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	10	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 10	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 11	ecclesias	ecclesia	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	_
 12	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	13	amod	_	_
@@ -88,7 +88,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:obj`: <t
 21	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	Punc	_	25	punct	_	_
 23	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	25	advmod:emph	_	_
-24	ecce	ecce	ADV	e|e|-|-|-|-|-|-|-|-	PronType=Dem	25	advmod:emph	_	_
+24	ecce	ecce	PART	e|e|-|-|-|-|-|-|-|-	PronType=Dem	25	advmod:emph	_	_
 25	livellum	libellus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Degree=Dim|Gender=Masc|Number=Sing	10	parataxis	_	_
 26	quomodo	quomodo	SCONJ	d|d|-|-|-|-|-|-|-|-	_	39	mark	_	_
 27	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	39	dislocated:obj	_	_
@@ -109,7 +109,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:obj`: <t
 42	presbiter	presbyter	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	41	appos	_	SpaceAfter=No
 43	,	,	PUNCT	Punc	_	46	punct	_	_
 44	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	46	nsubj	_	_
-45	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	_	46	advmod	_	_
+45	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	46	advmod:tmod	_	_
 46	clericus	clericus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	41	acl:relcl	_	_
 47	erat	sum	AUX	v|v|3|s|i|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 48	,	,	PUNCT	Punc	_	50	punct	_	_

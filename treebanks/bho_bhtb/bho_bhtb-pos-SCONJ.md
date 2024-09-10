@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  त (<tt><a href="bho_bhtb-pos-PART.html"
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.909091 (the average of all parts of speech is 1.035097).
+The form / lemma ratio of `SCONJ` is 0.909091 (the average of all parts of speech is 1.035079).
 
 The 1st highest number of forms (1) was observed with the lemma “आँखि”: आँखि.
 
@@ -55,17 +55,17 @@ Examples: कि, त, काहेंकि, निकलि, बाकि, ल
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (94; 80% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (8; 7% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (6; 5% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="bho_bhtb-dep-mark.html">mark</a></tt> (95; 81% instances), <tt><a href="bho_bhtb-dep-conj.html">conj</a></tt> (8; 7% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (6; 5% instances), <tt><a href="bho_bhtb-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (89; 75% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (13; 11% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (90; 76% instances), <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (13; 11% instances), <tt><a href="bho_bhtb-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="bho_bhtb-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="bho_bhtb-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="bho_bhtb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bho_bhtb-pos-PART.html">PART</a></tt> (1; 1% instances)
 
-114 (97%) `SCONJ` nodes are leaves.
+115 (97%) `SCONJ` nodes are leaves.
 
-4 (3%) `SCONJ` nodes have one child.
+3 (3%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (2; 50% instances), <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 25% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (1; 25% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="bho_bhtb-dep-case.html">case</a></tt> (1; 33% instances), <tt><a href="bho_bhtb-dep-compound.html">compound</a></tt> (1; 33% instances), <tt><a href="bho_bhtb-dep-obl.html">obl</a></tt> (1; 33% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 25% instances), <tt><a href="bho_bhtb-pos-VERB.html">VERB</a></tt> (1; 25% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="bho_bhtb-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="bho_bhtb-pos-ADP.html">ADP</a></tt> (1; 33% instances)
 

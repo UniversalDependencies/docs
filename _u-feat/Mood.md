@@ -165,7 +165,7 @@ have to": "He <b>must</b><b> come</b>."
 
 ### <a name="Int">`Int`</a>: interrogative
 
-Verbs in some languages have a special interrogative form tha is used in yes-no questions.
+Verbs in some languages have a special interrogative form that is used in yes-no questions.
 This is attested, for instance, in the Turkic languages. Celtic languages have it for the
 copula but not for normal verbs.
 
@@ -195,4 +195,4 @@ and in Caddo (Native American from Oklahoma).
 
 * [sq] _Ti <b>fliske</b> shqip!_ “You (surprisingly) speak Albanian!”
 
-<!-- Interlanguage links updated Po lis 14 15:34:49 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->

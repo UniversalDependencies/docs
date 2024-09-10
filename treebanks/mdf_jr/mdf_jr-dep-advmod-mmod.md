@@ -24,14 +24,14 @@ The following 3 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 # visual-style 2	fgColor:white
 # visual-style 2 4 advmod:mmod	color:blue
 1	А	а	CCONJ	CC	_	2	cc	_	_
-2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
+2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	_
 3	пяк	пяк	ADV	Adv	AdvType=Deg	4	advmod:deg	_	_
 4	савор	савор	ADV	Adv	_	2	advmod:mmod	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	_
 7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	_
 8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
-9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	2	conj	_	SpaceAfter=No
+9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	2	conj	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

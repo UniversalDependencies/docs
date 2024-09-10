@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `DET`
 
-There are 5 `DET` lemmas (2%), 7 `DET` types (2%) and 14 `DET` tokens (2%).
-Out of 15 observed tags, the rank of `DET` is: 6 in number of lemmas, 5 in number of types and 6 in number of tokens.
+There are 5 `DET` lemmas (2%), 7 `DET` types (2%) and 14 `DET` tokens (1%).
+Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 6 in number of types and 7 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ie, kaiãapuku, ithu, kaiãpuku, kaiãũ</em>
 
@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>kaiãapukury</em> (<tt><a href="apu_u
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.201493).
+The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.222951).
 
 The 1st highest number of forms (2) was observed with the lemma “ie”: <em>iia, iie</em>.
 

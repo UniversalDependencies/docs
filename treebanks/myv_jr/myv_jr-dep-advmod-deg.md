@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advmod:deg	color:blue
-1	Лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+1	Лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 2	Ястребов	Ястребов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	1	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	седеяк	седеяк	ADV	Adv	Clitic=Add|Degree=Cmp	5	advmod:deg	_	GTtags=Degree=Cmp,Clt/Gak
@@ -42,8 +42,8 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 1	―	―	PUNCT	PUNCT	_	3	punct	_	_
 2	Пек	пек	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Degree
 3	стака	стака	ADJ	A	_	0	root	_	_
-4	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	3	cop	_	GTtags=IV,Ind,Prt1,ScSg3
-5	печтемс	печтемс	VERB	V	Case=Ill|Valency=2|VerbForm=Conv	3	obl	_	GTtags=TV,Ger,Ill
+4	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	3	cop	_	GTtags=IV,Ind,Prt1,ScSg3
+5	печтемс	печтемс	VERB	V	Case=Ill|VerbForm=Conv	3	obl	_	GTtags=TV,Ger,Ill
 6	чопода	чопода	ADJ	A	_	7	amod	_	_
 7	весь	ве	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	9	punct	_	_
@@ -63,10 +63,10 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 3 2 advmod:deg	color:blue
 1	Аволь	аволь	AUX	Pcle	NegationType=Contrastive|Polarity=Neg	2	aux:neg	_	GTtags=Neg,Emphatic
 2	пек	пек	ADV	Adv	AdvType=Deg	3	advmod:deg	_	GTtags=Degree
-3	шумазь	шумамс	VERB	V	Derivation=Ozj|Valency=1|VerbForm=Conv	4	advcl	_	GTtags=IV,Der/Озь,Ger
-4	охаесь	охаемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+3	шумазь	шумамс	VERB	V	Derivation=Ozj|VerbForm=Conv	4	advcl	_	GTtags=IV,Der/Озь,Ger
+4	охаесь	охаемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 5	ды	ды	CCONJ	CC	_	6	cc	_	_
-6	кувсесь	кувсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	4	conj	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
+6	кувсесь	кувсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	conj	_	GTtags=IV,Ind,Prt1,ScSg3|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

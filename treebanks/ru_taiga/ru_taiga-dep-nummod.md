@@ -51,7 +51,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	80	80	NUM	_	NumForm=Digit|NumType=Card	8	nummod:gov	_	_
 8	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nummod	_	_
 9	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	_~
+10	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	1	1	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
 8	в	в	ADP	_	_	9	case	_	_
 9	Дятьково	Дятьково	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|NameType=Geo|Number=Sing	5	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_~
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

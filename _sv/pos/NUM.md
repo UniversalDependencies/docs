@@ -2,6 +2,7 @@
 layout: postag
 title: 'NUM'
 shortdef: 'numeral'
+udver: '2'
 ---
 
 ### Definition
@@ -18,4 +19,4 @@ Note that in Swedish the decimal mark is most often a comma. Thousands are then 
 - _0, 1, 2, 3, 2014, 1 000 000, 3.000,15, 3,14159265359_
 - _ett_ "one", _två_ "two", _tre_ "three", _sjuttiosju_ "seventy-seven"
 - _I, II, III, IV, V, MMXIV_
-<!-- Interlanguage links updated Po lis 14 15:34:34 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:38 CEST -->

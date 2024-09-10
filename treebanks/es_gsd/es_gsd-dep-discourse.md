@@ -37,7 +37,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	tarea	tarea	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
 15	que	que	SCONJ	_	_	17	mark	_	_
-16	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	17	iobj	_	_
+16	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	17	obl:arg	_	_
 17	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	reflexión	reflexión	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 30	no	no	ADV	_	Polarity=Neg	32	advmod	_	_
 31	debemos	deber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	32	aux	_	_
 32	dejar	dejar	VERB	_	VerbForm=Inf	27	advcl	_	_
-33	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	iobj	_	_
+33	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	obl:arg	_	_
 34	distraer	distraer	VERB	_	VerbForm=Inf	32	xcomp	_	_
 35	por	por	ADP	_	_	37	case	_	_
 36	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	37	det	_	_
@@ -85,10 +85,10 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	enviando	enviar	VERB	_	VerbForm=Ger	9	acl	_	_
 11	a	a	ADP	_	_	12	case	_	_
 12	Chipre	chipre	PROPN	_	_	10	obl	_	_
-13	40	40	NUM	_	NumType=Card	14	nummod	_	_
+13	40	40	NUM	_	NumForm=Digit|NumType=Card	14	nummod	_	_
 14	navíos	navío	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
 15	y	y	CCONJ	_	_	17	cc	_	_
-16	8.000	8000	NUM	_	NumType=Card	17	nummod	_	_
+16	8.000	8000	NUM	_	NumForm=Digit|NumType=Card	17	nummod	_	_
 17	mercenarios	mercenario	NOUN	_	Gender=Masc|Number=Plur	14	conj	_	_
 18	bajo	bajo	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -102,7 +102,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 27	líder	líder	NOUN	_	Number=Sing	20	conj	_	_
 28	chipriota	chipriota	ADJ	_	Number=Sing	27	amod	_	_
 29	Evágoras	evágoras	NOUN	_	_	27	appos	_	_
-30	II	ii	NUM	_	NumType=Card	29	nummod	_	SpaceAfter=No
+30	II	ii	NUM	_	NumForm=Roman|NumType=Card	29	nummod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

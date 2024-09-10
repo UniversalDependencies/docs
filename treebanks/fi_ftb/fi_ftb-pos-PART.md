@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>niin</em> (<tt><a href="fi_ftb-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.495098 (the average of all parts of speech is 2.050767).
+The form / lemma ratio of `PART` is 1.495098 (the average of all parts of speech is 2.049043).
 
 The 1st highest number of forms (9) was observed with the lemma “kyllä”: <em>Kylläpä, kyl, kylhän, kyllä, kyllähän, kylläkin, kylläkään, kylläpäs, kylä</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>niin, jo, myös, vielä, vain, kyllä, ihan, enää, nyt, kuitenki
 
 `PART` nodes are attached to their parents using 7 different relations: <tt><a href="fi_ftb-dep-advmod.html">advmod</a></tt> (5106; 90% instances), <tt><a href="fi_ftb-dep-mark.html">mark</a></tt> (371; 7% instances), <tt><a href="fi_ftb-dep-dep.html">dep</a></tt> (77; 1% instances), <tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt> (62; 1% instances), <tt><a href="fi_ftb-dep-root.html">root</a></tt> (42; 1% instances), <tt><a href="fi_ftb-dep-conj.html">conj</a></tt> (25; 0% instances), <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2623; 46% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (935; 16% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (846; 15% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (522; 9% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (248; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (192; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (96; 2% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (89; 2% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (74; 1% instances),  (42; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (2623; 46% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (933; 16% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (848; 15% instances), <tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (522; 9% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (248; 4% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (192; 3% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (96; 2% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (89; 2% instances), <tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (74; 1% instances),  (42; 1% instances), <tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances)
 
 5226 (92%) `PART` nodes are leaves.
 

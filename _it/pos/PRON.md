@@ -38,4 +38,4 @@ Note: the PronType=Clit feature is specific for Italian.
 - negative pronouns: _nessuno, niente, nulla_
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

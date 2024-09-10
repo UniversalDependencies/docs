@@ -19,43 +19,43 @@ The 10 most frequent ambiguous types:  <em>ben</em> (<tt><a href="tr_imst-pos-PR
 
 
 * <em>ben</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 104: <em>Ama , dedim , <b>ben</b> ne şiir okuyabilirim , ne de şarkı .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 104: <em>Bir insanın ruhundan geliyorum <b>ben</b> , dedi .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Buna hiç şaşırmadım <b>ben</b> zaten herşeye razı ydım .</em>
 * <em>o</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 125: <em>Sana boşal , at kurtul der , <b>o</b> ses siz duruşuyla .</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 81: <em>Sen miydin <b>o</b> .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 125: <em>Onu tanıyorsunuz <b>o</b> zaman , dedi .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 81: <em>Ne <b>o</b> .</em>
 * <em>ne</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 78: <em>Plak bitince <b>ne</b> yapacağız ?</em>
-  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 14: <em>Ama , dedim , ben <b>ne</b> şiir okuyabilirim , <b>ne</b> de şarkı .</em>
-  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 10: <em>Heybeye erik koyunca kitapları , defterleri <b>ne</b> yaparım diye düşünüyorum .</em>
-  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 6: <em>Alınmaya <b>ne</b> kadar hazır sın ! ..</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 78: <em>Bu heyecana , afyona , <b>ne</b> bileyim ben ; eroine alışır gibi alışır insan .</em>
+  * <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> 14: <em>Ne ondan bahsedebildim , <b>ne</b> yaşadıklarımdan ...</em>
+  * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 10: <em>Oh , <b>ne</b> güzel !</em>
+  * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 6: <em>Türkiye'nin en önem li konusu <b>ne</b> peki .</em>
 * <em>beni</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 68: <em>Babam bile gecenin en şık bayanı buldu <b>beni</b> .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 68: <em>Sakinleştirir bu <b>beni</b> yavaş yavaş .</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Dışı seni yakar içi <b>beni</b> türünden .</em>
 * <em>bu</em>
-  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 313: <em>Bir ihtimal olarak <b>bu</b> hususu belirtiyorlar .</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 56: <em>Bir bağımlı favori maddesini bıraksa da <b>bu</b> tek başına çözüm olmuyor .</em>
+  * <tt><a href="tr_imst-pos-DET.html">DET</a></tt> 313: <em>İzini bulursanız , <b>bu</b> numaraya haber verirsiniz , dedi .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 56: <em>Sakinleştirir <b>bu</b> beni yavaş yavaş .</em>
 * <em>siz</em>
-  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Sana boşal , at kurtul der , o ses <b>siz</b> duruşuyla .</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 13: <em>Duyun da şaşın <b>siz</b> .</em>
+  * <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> 23: <em>Bir süre ses <b>siz</b> yürüdük .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 13: <em>- Galiba <b>siz</b> insanları yönlendiren takımından sınız .</em>
 * <em>biri</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 25: <em>O çocuklardan <b>biri</b> geçsin de onu görsün istiyor .</em>
-  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 11: <em>Her <b>biri</b> binüçyüz dolar harcıyor .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 25: <em>Kriz nedeni bu yaşamsal sorunlardan <b>biri</b> olsa mesele yok .</em>
+  * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 11: <em>Tunguzların on bir kolundan <b>biri</b> Evenler .</em>
 * <em>?</em>
-  * <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> 231: <em>Yanaşan ı haklar ım anladınız mı <b>?</b></em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23: <em>- <b>?</b> edenmiş o ?</em>
-  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Potaya <b>?</b> irerken arkadan gelen bir diğeri onları vurabilir .</em>
-  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 4: <em>Özer'lerin <b>?</b> ithatpaşa'daki bahçe içinde ki evinde ydik .</em>
+  * <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> 231: <em>Ömür Uzatma Kıraathanesi mi <b>?</b> diye sordu .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 23: <em>Sen <b>?</b> eredesin diye sordum .</em>
+  * <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> 7: <em>Yağma yok diye diklendi Memo , hepiniz havanızı <b>?</b> lırsınız .</em>
+  * <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> 4: <em><b>?</b> ostakoviç'miş ! Tövbe yarabbi .</em>
   * <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> 2: <em>Sen <b>?</b> usevisin , değil mi Maryline .</em>
   * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 2: <em>İMKB ikibiniki yılını yüzde <b>?</b> irmibeş'lik kayıpla kapatırken dolar baz lı yıllık kayıp ise yüzde otuzbeş oldu .</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 1: <em><b>?</b> imse kim ?</em>
   * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 1: <em>Onlar <b>?</b> ayoşmuş , aynı büyük amcam gibi , hiçbiri adam olmazmış onların .</em>
 * <em>onların</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 14: <em>Belli ki <b>onların</b> hevesini kırmak istemiyordu .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 14: <em>Ben <b>onların</b> Hüseyin abileri yim .</em>
   * <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> 1: <em>Hangi özür , <b>onların</b> haklılığını değiştirebilir ki ! ..</em>
 * <em>neden</em>
-  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 13: <em>O da hararetin yüksek çıkmasına <b>neden</b> oldu " dedi .</em>
-  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 13: <em>Oğlunun <b>neden</b> eroinman olduğunu anlayamaması çok doğal dı .</em>
+  * <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> 13: <em>Bölgede ki bazı ülkelerde iç karışıklıklara da <b>neden</b> olabilir .</em>
+  * <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> 13: <em>Kardeşini eleştiriyor gibi geldi bana , <b>neden</b> sokulgan onca ?</em>
   * <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> 4: <em>Bu hükümet <b>neden</b> dağıldı .</em>
 
 ## Morphology

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="ga_cadhan-dep-csubj-cleft.html">csubj:cleft</a></tt>.
 
-8 nodes (0%) are attached to their parents as `csubj:cop`.
+11 nodes (0%) are attached to their parents as `csubj:cop`.
 
-8 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.375.
+11 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.36363636363636.
 
-The following 4 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (4; 50% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 13% instances).
+The following 4 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (6; 55% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -89,40 +89,37 @@ The following 4 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 csubj:cop	color:blue
-1	Is	is	AUX	_	Tense=Pres|VerbForm=Cop	2	cop	_	_
-2	dóigh	dóigh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-3	liom	le	ADP	_	Number=Sing|Person=1	2	obl:prep	_	_
-4	ná	nach	PART	_	PartType=Cmpl|Polarity=Neg	5	mark:prt	_	_
-5	raibh	bí	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past	2	csubj:cop	_	_
-6	lá	lá	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-7	ar	ar	ADP	_	PrepForm=Cmpd	10	case	_	_
-8	feadh	feadh	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|PrepForm=Cmpd	7	fixed	_	_
-9	na	an	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	haimsire	aimsir	NOUN	_	Case=Gen|Definite=Def|Form=HPref|Gender=Fem|Number=Sing	5	xcomp:pred	_	_
-11	sin	sin	DET	_	PronType=Dem	10	det	_	_
-12	ná	ná	CCONJ	_	_	14	cc	_	_
-13	gur	is	AUX	_	Tense=Pres|VerbForm=Cop	14	cop	_	_
-14	mhó	mór	ADJ	_	Degree=Cmp,Sup|Form=Len	5	conj	_	_
-15	a	a	PART	_	Form=Direct|PartType=Vb|PronType=Rel	16	mark:prt	_	_
-16	bhí	bí	VERB	_	Form=Len|Mood=Ind|Tense=Past	14	csubj:cleft	_	_
-17	Pléasc	Pléasc	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	_	_
-18	ag	ag	ADP	_	_	19	case	_	_
-19	cur	cur	NOUN	_	VerbForm=Vnoun	16	xcomp	_	_
-20	an	an	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	Tighearna	tiarna	NOUN	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	19	obj	_	_
-22	chun	chun	ADP	_	_	23	case	_	_
-23	deiridh	deireadh	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
-24	ná	ná	CCONJ	_	_	26	cc	_	_
-25	'á	do	ADP	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	case	_	_
-26	chur	cur	NOUN	_	Definite=Def|Form=Len|VerbForm=Inf	19	conj	_	_
-27	chun	chun	ADP	_	_	28	case	_	_
-28	cinn	ceann	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	26	obl	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 csubj:cop	color:blue
+1	Cumhain	cuimhin	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+2	liom	le	ADP	_	Number=Sing|Person=1	1	obl:prep	_	_
+3	go	go	PART	_	PartType=Cmpl	4	mark:prt	_	_
+4	riomhthaoi	ríomh	VERB	_	Aspect=Imp|Person=0|Tense=Past	1	csubj:cop	_	_
+5	sin	sin	PRON	_	PronType=Dem	4	obj	_	_
+6	tri	trí	NUM	_	Form=Len|NumType=Card	7	nummod	_	_
+7	mhíle	míle	NUM	_	Form=Len|NumType=Card	8	nummod	_	_
+8	bó	bó	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	parataxis	_	_
+9	ar	ar	ADP	_	_	11	case	_	_
+10	do	do	DET	_	Number=Sing|Person=2|Poss=Yes	11	nmod:poss	_	_
+11	mhuintir	muintir	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Fem|Number=Sing	4	obl	_	_
+12	agus	agus	SCONJ	_	_	13	cc	_	_
+13	iad	iad	PRON	_	Number=Plur|Person=3	8	conj	_	_
+14	uile	uile	DET	_	PronType=Ind	13	det	_	_
+15	ar	ar	ADP	_	_	17	case	_	_
+16	bhar	bhur	DET	_	Number=Plur|Person=2|Poss=Yes	17	nmod:poss	_	_
+17	ccur	cur	NOUN	_	Case=Nom|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	13	nmod	_	_
+18	fa	faoi	ADP	_	_	20	case	_	_
+19	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	20	nmod:poss	_	_
+20	leagadh	leagan	NOUN	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	parataxis	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	_
+22	is	agus	CCONJ	_	_	25	cc	_	_
+23	fa	faoi	ADP	_	_	25	case	_	_
+24	d	do	DET	_	Number=Sing|Person=2|Poss=Yes	25	nmod:poss	_	_
+25	gherradh	gearradh	NOUN	_	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

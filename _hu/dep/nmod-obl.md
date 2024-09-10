@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'nmod'
+title: 'nmod:obl'
 shortdef: 'nominal modifier in oblique case'
 udver: '2'
 ---
@@ -19,4 +19,4 @@ punct(élelmiszert, "-5)
 nmod:att(programot, élelmiszert)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:32 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:23 CEST -->

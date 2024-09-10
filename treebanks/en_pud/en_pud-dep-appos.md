@@ -22,16 +22,16 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 appos	color:blue
-1	Her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
-2	1981	1981	NUM	CD	NumType=Card	3	compound	3:compound	_
+1	Her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	1981	1981	NUM	CD	NumForm=Digit|NumType=Card	3	compound	3:compound	_
 3	album	album	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
 4	Wild	wild	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	West	west	PROPN	NN	Number=Sing	3	appos	3:appos	_
 6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
-7	one	one	NUM	CD	NumType=Card	0	root	0:root	_
+7	one	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	_
 8	of	of	ADP	IN	_	11	case	11:case	_
-9	her	she	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
-10	biggest	biggest	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
+9	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	11:nmod:poss	_
+10	biggest	big	ADJ	JJS	Degree=Sup	11	amod	11:amod	_
 11	sellers	seller	NOUN	NNS	Number=Plur	7	nmod	7:nmod:of	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	7:punct	_
 
@@ -50,7 +50,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	on	on	ADP	IN	_	5	case	5:case	_
 5	Saturday	Saturday	PROPN	NNP	Number=Sing	3	obl	3:obl:on	SpaceAfter=No
 6	,	,	PUNCT	,	_	5	punct	5:punct	_
-7	10	10	NUM	CD	NumType=Card	8	nummod	8:nummod	_
+7	10	10	NUM	CD	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
 8	June	June	PROPN	NNP	Number=Sing	5	appos	5:appos	SpaceAfter=No
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 

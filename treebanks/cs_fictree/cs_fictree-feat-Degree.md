@@ -105,8 +105,8 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (448; 89%),
-<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (76; 86%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (456; 89%),
+<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (76; 83%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13; 76%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (11; 92%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-dep.html">dep</a></tt>]--> ADJ</tt> (6; 67%),

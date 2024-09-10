@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-27 tokens (0%) have a non-empty value of `Foreign`.
-26 types (0%) occur at least once with a non-empty value of `Foreign`.
-24 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+28 tokens (0%) have a non-empty value of `Foreign`.
+27 types (0%) occur at least once with a non-empty value of `Foreign`.
+25 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `PROPN`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (13; 100% of non-empty `Foreign`): <em>Towers, n-Og, Bay, Electric, From, Horizon, Jubilee, New, Picnic, Tiger</em>
-* `EMPTY` (1906): <em>Cymru, Nghymru, Gymru, Bangor, Gwynedd, Eryri, Aberystwyth, Jones, Lloegr, Iwerddon</em>
+* `EMPTY` (1955): <em>Cymru, Nghymru, Gymru, Bangor, Gwynedd, Eryri, Wyddfa, Aberystwyth, Jones, Lloegr</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (13) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Conradh, Croí, Féile, Gaeilge, Lady, Nation, caissons, emergency, irritating</em>
-* `EMPTY` (14759): <em>bod, cael, ôl, iaith, fod, gael, Gymraeg, ysgol, mynd, nifer</em>
+* `EMPTY` (15468): <em>bod, cael, ôl, iaith, fod, Gymraeg, gael, ysgol, mynd, nifer</em>
 
 ### `DET`
 
@@ -45,23 +45,22 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>na, The</em>
-* `EMPTY` (3047): <em>y, 'r, yr, pa, ba, An, P', mha</em>
+* `EMPTY` (3199): <em>y, 'r, yr, pa, ba, An, P', mha</em>
 
 ### `ADJ`
 
-1 <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
+2 <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cy_ccg-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="cy_ccg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cy_ccg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="cy_ccg-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="cy_ccg-feat-Mutation.html">Mutation</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (1; 100% of non-empty `Foreign`): <em>Iron</em>
-* `EMPTY` (3321): <em>newydd, Cymraeg, Gymraeg, bob, mwy, lleol, eraill, arall, pob, fawr</em>
+* `Yes` (2; 100% of non-empty `Foreign`): <em>Iron, pro-indy</em>
+* `EMPTY` (3493): <em>Cymraeg, newydd, Gymraeg, bob, mwy, lleol, eraill, pob, arall, fawr</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>PROPN --[<tt><a href="cy_ccg-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (6; 86%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-det.html">det</a></tt>]--> DET</tt> (3; 100%),
-<tt>NOUN --[<tt><a href="cy_ccg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="cy_ccg-dep-det.html">det</a></tt>]--> DET</tt> (3; 100%).
 

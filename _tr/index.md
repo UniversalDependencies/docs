@@ -8,18 +8,14 @@ udver: '2'
 
 This is a **work-in-progress** overview of the UD annotation for Turkish.
 
-Unfortunately, different treebanks follow (slightly) different
-annotation guidelines,
-and at present (as of v2.4) multiple uncoordinated attempts of
-correction efforts are known.
-
+Unfortunately, different treebanks follow (slightly) different annotation guidelines, and, as of v2.4, multiple uncoordinated attempts of correction efforts were known. Currently, as of v2.14, there's a group working on the unification of the Turkish treebanks, named [the UD Turkic Group](https://github.com/ud-turkic/).
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by white spaces or punctuation,
+* In general, words are delimited by whitespaces or punctuation.
     Whitespaces or punctuation may appear in some abbreviations
     or numeric expressions.
-* Clitics are treated as a separate words. This includes
+* Clitics are treated as separate words. This includes
     the clitics that follow word-internal processes (e.g., vowel
     harmony) such as question clitic  _mI_ and  adverbial _DA_.
 * Due to the interaction of syntax and rich morphology,
@@ -90,9 +86,14 @@ see the list of [relations](dep/index.html),
 
 ## Treebanks
 
-As of UD 2.7, there are [four](../treebanks/tr-comparison.html) Turkish UD treebanks, more treebanks are in progress.
+As of UD 2.13, there are [nine](../treebanks/tr-comparison.html) Turkish UD treebanks, with more treebanks in progress.
 
+  * [Turkish-ATIS](../treebanks/tr_atis/index.html)
   * [Turkish-BOUN](../treebanks/tr_boun/index.html)
+  * [Turkish-FrameNet](../treebanks/tr_framenet/index.html)
   * [Turkish-GB](../treebanks/tr_gb/index.html)
   * [Turkish-IMST](../treebanks/tr_imst/index.html)
+  * [Turkish-Kenet](../treebanks/tr_kenet/index.html)
   * [Turkish-PUD](../treebanks/tr_pud/index.html)
+  * [Turkish-Penn](../treebanks/tr_penn/index.html)
+  * [Turkish-Tourism](../treebanks/tr_tourism/index.html)

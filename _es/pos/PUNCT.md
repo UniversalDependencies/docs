@@ -2,6 +2,7 @@
 layout: postag
 title: 'PUNCT'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 ### Definition
@@ -15,4 +16,16 @@ Punctuation is not taken to include logograms such as _$_, _%_, and _§_, which 
 - Period: _<b>.</b>_
 - Comma: _<b>,</b>_
 - Parentheses: _<b>()</b>_
-<!-- Interlanguage links updated Po lis 14 15:34:36 CET 2022 -->
+
+In Spanish, the opening question mark (¿) and the opening exclamation mark (¡) are used at the beginning of a question
+or an exclamatory statement and are always paired with their corresponding closing punctuation marks at the end (? and
+! respectively).
+
+For instance:
+
+_¿Cómo estás?_ "How are you?"
+_¡Qué sorpresa!_ "What a surprise!"
+
+These punctuation marks are always used in standard written Spanish. In some informal settings like social media or
+text messages, they might be omitted, but this is not considered grammatically correct.
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->

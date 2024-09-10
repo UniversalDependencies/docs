@@ -23,4 +23,4 @@ on ne peut pas exclure qu' il y ait quelque chose de grave \n it cannot be ruled
 ccomp(exclure, ait)
 mark(ait, qu')
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:14 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:51 CEST -->

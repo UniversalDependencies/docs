@@ -20,17 +20,17 @@ is rarely seen. Words that can take the morpheme of negation have
 the feature of polarity.
 
 It applies to [verbs](cs-pos/VERB),
-[adjectives](cs-pos/ADJ), sometimes also [adverbs](cs-pos/ADV) and
-even [nouns](cs-pos/NOUN).
-(Most nouns have just `Polarity=Pos`;
-deverbative nouns can have also `Polarity=Neg`.
-Occasionally, other nouns can be negated to denote the complement of the original noun:
-_plavec_ “swimmer” vs. _neplavec_ “non-swimmer”.)
+[adjectives](cs-pos/ADJ), sometimes also [adverbs](cs-pos/ADV).
 
 Note that `Polarity=Neg` is not the same thing as
 [PronType]()`=Neg`. For pronouns and other pronominal parts of speech
 there is no such binary opposition as for verbs and adjectives. (There
 is no such thing as “affirmative pronoun”.)
+
+Since UD release 2.15, `Polarity` is not used with nouns, although in principle every noun can be negated (_plavec_ “swimmer” vs. _neplavec_ “non-swimmer”).
+Negative nouns will now have negative lemmas (previously some of them had positive lemmas and `Polarity=Neg`, but it was not applied consistently).
+
+
 
 ### <a name="Pos">`Pos`</a>: positive, affirmative
 
@@ -39,7 +39,6 @@ is no such thing as “affirmative pronoun”.)
 * _<b>přišel</b>&nbsp;_ “he came”
 * _<b>rozumný</b>&nbsp;_ “wise”
 * _<b>pěkně</b>&nbsp;_ “nicely”
-* _<b>přijetí</b>&nbsp;_ “acceptance”
 
 ### <a name="Neg">`Neg`</a>: negative
 
@@ -48,5 +47,5 @@ is no such thing as “affirmative pronoun”.)
 * _<b>nepřišel</b>&nbsp;_ “he did not come”
 * _<b>nerozumný</b>&nbsp;_ “unwise”
 * _<b>nepěkně</b>&nbsp;_ “nastily”
-* _<b>nepřijetí</b>&nbsp;_ “non-acceptance, rejection”
-<!-- Interlanguage links updated Po lis 14 15:34:54 CET 2022 -->
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:15 CEST -->

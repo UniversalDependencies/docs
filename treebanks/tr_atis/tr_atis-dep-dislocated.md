@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `dislocated`.
+6 nodes (0%) are attached to their parents as `dislocated`.
 
-4 instances of `dislocated` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.
+5 instances of `dislocated` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.
 
-The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (3; 60% instances), <tt><a href="tr_atis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_atis-pos-ADV.html">ADV</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -35,23 +35,21 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 9 dislocated	color:blue
-1	San	san	PROPN	_	Case=Nom|Number=Sing	3	nmod	_	_
-2	Francisco'dan	francisco	PROPN	_	Case=Abl|Number=Sing	1	flat	_	_
-3	Atlanta'ya	atlanta	PROPN	_	Case=Dat|Number=Sing	9	nmod	_	_
-4	sabah	sabah	NOUN	_	Case=Nom|Number=Sing|Person=3	5	nmod	_	_
-5	8'den	8	NOUN	_	Case=Abl|Number=Sing|Person=3	7	obl	_	_
-6	önce	önce	ADP	_	_	5	case	_	_
-7	kalkan	kalk	ADJ	_	_	9	acl	_	_
-8	bir	bir	DET	_	Definite=Ind|PronType=Art	9	det	_	_
-9	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	13	dislocated	_	_
-10	böyle	böyle	ADV	_	_	12	advmod	_	_
-11	bir	bir	DET	_	Definite=Ind|PronType=Art	12	det	_	_
-12	uçuş	uç	NOUN	_	Case=Nom|Number=Sing|Person=3	13	nsubj	_	_
-13	var	var	ADJ	_	_	0	root	_	_
-14	mı	mi	AUX	_	PronType=Int	13	aux	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 dislocated	color:blue
+1	Hangi	hangi	ADJ	_	_	2	amod	_	_
+2	uçuşlar	uç	NOUN	_	Case=Nom|Number=Plur|Person=3	6	nsubj	_	_
+3	Pittsburgh'tan	pittsburgh	PROPN	_	Case=Abl|Number=Sing	4	obl	_	_
+4	kalkıp	kalk	ADV	_	_	6	advcl	_	_
+5	Denver'e	denver	PROPN	_	Case=Dat|Number=Sing	6	obl	_	_
+6	varıyor	var	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ve	ve	CCONJ	_	_	12	cc	_	_
+8	akşam	akşam	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nmod	_	_
+9	mesela	mesela	NOUN	_	Case=Nom|Number=Sing|Person=3	10	dislocated	_	_
+10	6'dan	6	NOUN	_	Case=Abl|Number=Sing|Person=3	12	obl:tmod	_	_
+11	sonra	sonra	ADP	_	_	10	case	_	_
+12	kalkıyor	kalk	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	conj	_	_
 
 ~~~
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
-37122 tokens (8%) have a non-empty value of `Mood`.
-5043 types (26%) occur at least once with a non-empty value of `Mood`.
-1170 lemmas (20%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (37122; 8% instances).
+57391 tokens (13%) have a non-empty value of `Mood`.
+5081 types (26%) occur at least once with a non-empty value of `Mood`.
+1172 lemmas (21%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (37122; 8% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (20269; 4% instances).
 
 ### `VERB`
 
 37122 <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 95%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (34925; 94%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31811; 86%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29443; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24227; 65%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (37122; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (37122; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (35205; 95%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (34925; 94%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (31811; 86%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29443; 79%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (24883; 67%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (166; 0% of non-empty `Mood`): <em>nolite, uidete, docete, uade, audi, clarifica, ordinate, accipite, comedite, discedite</em>
 * `Ind` (30195; 81% of non-empty `Mood`): <em>potest, oportet, dicitur, habet, patet, dicit, uidetur, fit, possunt, habent</em>
 * `Sub` (6761; 18% of non-empty `Mood`): <em>possit, habeat, posset, dicatur, fiat, cognoscat, sequeretur, intelligat, agat, uelit</em>
-* `EMPTY` (22703): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
+* `EMPTY` (22646): <em>ostensum, dicendum, intelligere, dictum, dici, fieri, habere, mouens, separatae, facere</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -59,11 +59,61 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>dixerunt</em></td><td></td><td><em>dixerint</em></td></tr>
 </table>
 
+### `AUX`
+
+20269 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Mood`.
+
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=LatAnom</tt> (20269; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20269; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt> (20111; 99%), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (19663; 97%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (18424; 91%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17101; 84%).
+
+`AUX` tokens may have the following values of `Mood`:
+
+* `Imp` (3; 0% of non-empty `Mood`): <em>estote, esto</em>
+* `Ind` (16634; 82% of non-empty `Mood`): <em>est, sunt, erit, fuit, erat, erunt, fuerunt, fuerit, sum, sumus</em>
+* `Sub` (3632; 18% of non-empty `Mood`): <em>sit, esset, sint, essent, fuerit, fuisset, fuerint, simus, fuissent, essemus</em>
+* `EMPTY` (3323): <em>esse, essendi, fuisse, essendo, ens, futura, fore, futuram, futurum, entia</em>
+
+<table>
+  <tr><th>Paradigm <i>sum</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>ero</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>eram</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sum</em></td><td></td><td><em>sim</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>eris</em></td><td><em>esto</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>eras</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>es</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>erit</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>erat</em></td><td></td><td><em>esset, foret</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>est</em></td><td></td><td><em>sit</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>erimus</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>eramus</em></td><td></td><td><em>essemus</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sumus</em></td><td></td><td><em>simus</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>eritis</em></td><td><em>estote</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>eratis</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>estis</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>erunt</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>erant</em></td><td></td><td><em>essent</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunt</em></td><td></td><td><em>sint</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>fuerit</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fuit</em></td><td></td><td><em>fuerit</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>fuerat</em></td><td></td><td><em>fuisset</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>fuerimus</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>fuerimus</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fuistis</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>fuerint</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fuerunt</em></td><td></td><td><em>fuerint</em></td></tr>
+  <tr><td><tt><tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>fuerant</em></td><td></td><td><em>fuissent</em></td></tr>
+</table>
+
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2067; 83%),
-<tt>VERB --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (352; 59%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (2076; 83%),
+<tt>VERB --[<tt><a href="la_ittb-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (353; 59%),
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (267; 63%),
+<tt>AUX --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (79; 53%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> VERB</tt> (35; 65%),
+<tt>AUX --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (32; 100%),
 <tt>VERB --[<tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (29; 71%),
-<tt>VERB --[<tt><a href="la_ittb-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (4; 57%).
+<tt>VERB --[<tt><a href="la_ittb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> AUX</tt> (21; 72%),
+<tt>VERB --[<tt><a href="la_ittb-dep-conj.html">conj</a></tt>]--> AUX</tt> (17; 89%),
+<tt>AUX --[<tt><a href="la_ittb-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (14; 67%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-82 nodes (0%) are attached to their parents as `orphan`.
+118 nodes (0%) are attached to their parents as `orphan`.
 
-42 instances of `orphan` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.65853658536585.
+62 instances of `orphan` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.39830508474576.
 
-The following 31 pairs of parts of speech are connected with `orphan`: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (23; 28% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (3; 4% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 34 pairs of parts of speech are connected with `orphan`: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (30; 25% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (12; 10% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (8; 7% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (8; 7% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 31 pairs of parts of speech are connected with `orphan`: <tt><a hr
 9	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
 10	kuzynka	kuzynka	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	6	conj	0:root|6:conj	_
 11	Marcela	Marcela	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	10	appos	10:appos	_
-12	-	-	PUNCT	interp	PunctType=Dash	10	punct	10:punct	_
+12	-	-	PUNCT	interp	PunctType=Dash	14	punct	14:punct	_
 13	piękne	piękny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	14:amod	_
 14	nogi	noga	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	10	orphan	10:orphan	SpaceAfter=No
 15	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
@@ -47,56 +47,49 @@ The following 31 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 orphan	color:blue
-1	Wszędzie	wszędzie	ADV	adv	PronType=Tot	2	advmod	2:advmod	_
-2	masz	mieć	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	tyle	tyle	DET	num:pl:acc:n:rec:ncol	Case=Acc|Gender=Neut|Number=Plur|NumType=Card|PronType=Dem	2	iobj	2:iobj	_
-4	do	do	ADP	prep:gen	AdpType=Prep	5	case	5:case	Case=Gen
-5	powiedzenia	powiedzieć	NOUN	ger:sg:gen:n:perf:aff	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	2	obl	2:obl	SpaceAfter=No
-6	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
-7	wszędzie	wszędzie	ADV	adv	PronType=Tot	10	orphan	10:orphan	_
-8	tyle	tyle	DET	num:pl:acc:f:rec	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Dem	10	det:numgov	10:det:numgov	_
-9	ciekawej	ciekawy	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	10:amod	_
-10	przestrzeni	przestrzeń	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	2	conj	0:root|2:conj	SpaceAfter=No
-11	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	_
-12	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	13	case	13:case	Case=Loc
-13	której	który	DET	adj:sg:loc:f:pos	Case=Loc|Gender=Fem|Number=Sing|PronType=Int	14	obl	14:obl	_
-14	rodzić	rodzić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	16	xcomp	16:xcomp	_
-15	się	się	PRON	part	PronType=Prs|Reflex=Yes	14	expl:pv	14:expl:pv	_
-16	może	móc	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	10:acl:relcl	_
-17	swobodna	swobodny	ADJ	adj:sg:nom:f:pos	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	18	amod	18:amod	_
-18	myśl	myśl	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	16	nsubj	16:nsubj	SpaceAfter=No
-19	!	!	PUNCT	interp	PunctType=Excl	2	punct	2:punct	_
+1	Zmądrzał	zmądrzeć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	1	aux:clitic	1:aux:clitic	_
+3	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	4	case	4:case	Case=Gen
+4	tego	to	PRON	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	1	obl	1:obl	SpaceAfter=No
+5	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
+6	ale	ale	CCONJ	conj	_	10	cc	10:cc	_
+7	wcale	wcale	ADV	adv	_	10	orphan	10:orphan	_
+8	nie	nie	PART	part	Polarity=Neg	10	advmod:neg	10:advmod:neg	_
+9	do	do	ADP	prep:gen	AdpType=Prep	10	case	10:case	Case=Gen
+10	końca	koniec	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	conj	1:conj	SpaceAfter=No
+11	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	_
+12	i	i	CCONJ	conj	_	13	cc	13:cc	_
+13	zgłupiał	zgłupieć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	0:root|1:conj	_
+14	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	13	aux:clitic	13:aux:clitic	_
+15	,	,	PUNCT	interp	PunctType=Comm	20	punct	20:punct	_
+16	ale	ale	CCONJ	conj	_	20	cc	20:cc	_
+17	też	też	PART	part	_	20	advmod:emph	20:advmod:emph	_
+18	nie	nie	PART	part	Polarity=Neg	20	advmod:neg	20:advmod:neg	_
+19	do	do	ADP	prep:gen	AdpType=Prep	20	case	20:case	Case=Gen
+20	końca	koniec	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	13	conj	1:conj|13:conj	SpaceAfter=No
+21	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 20 orphan	color:blue
-1	Kastracja	kastracja	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	4:nsubj	_
-2	kotek	kotka	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	1	nmod	1:nmod	_
-3	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	4	cop	4:cop	_
-4	sposób	sposób	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-5	na	na	ADP	prep:acc	AdpType=Prep	6	case	6:case	Case=Acc
-6	to	to	PRON	subst:sg:acc:n:ncol	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	nmod	4:nmod	SpaceAfter=No
-7	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	_
-8	żeby	żeby	SCONJ	comp	_	13	mark	13:mark	_
-9	kotów	kot	NOUN	subst:pl:gen:m2	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	13	nsubj	13:nsubj	_
-10	za	za	PART	part	_	11	advmod:emph	11:advmod:emph	_
-11	dużo	dużo	DET	num:pl:gen:m2:congr	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	9	det:nummod	9:det:nummod	_
-12	nie	nie	PART	part	Polarity=Neg	13	advmod:neg	13:advmod:neg	_
-13	było	być	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	6	ccomp:cleft	6:ccomp:cleft	SpaceAfter=No
-14	,	,	PUNCT	interp	PunctType=Comm	15	punct	15:punct	_
-15	kastracja	kastracja	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	conj	0:root|4:conj	_
-16	kocurów	kocur	NOUN	subst:pl:gen:m2	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod	_
-17	-	-	PUNCT	interp	PunctType=Dash	15	punct	15:punct	_
-18	żeby	żeby	SCONJ	comp	_	20	mark	20:mark	_
-19	nie	nie	PART	part	Polarity=Neg	20	advmod:neg	20:advmod:neg	_
-20	śmierdziało	śmierdzieć	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	orphan	15:orphan	SpaceAfter=No
-21	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 orphan	color:blue
+1	W	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	2	case	2:case	Case=Loc
+2	2001	2001	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	3	obl	3:obl	_
+3	spaliło	spalić	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	się	się	PRON	part	PronType=Prs|Reflex=Yes	3	expl:pv	3:expl:pv	_
+5	kino	kino	NOUN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	SpaceAfter=No
+6	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
+7	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	8	case	8:case	Case=Loc
+8	2002	2002	ADJ	adj:sg:loc:m3:pos	Animacy=Inan|Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	10	orphan	10:orphan	_
+9	-	-	PUNCT	interp	PunctType=Dash	10	punct	10:punct	_
+10	poddasze	poddasze	NOUN	subst:sg:nom:n:ncol	Case=Nom|Gender=Neut|Number=Sing	3	conj	0:root|3:conj	_
+11	dworca	dworzec	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	10	nmod	10:nmod	SpaceAfter=No
+12	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
 

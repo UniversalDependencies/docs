@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3514 nodes (6%) are attached to their parents as `punct`.
+3582 nodes (6%) are attached to their parents as `punct`.
 
-2418 instances of `punct` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.8175867956744.
+2486 instances of `punct` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.8768844221106.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (2336; 66% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (747; 21% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (179; 5% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (102; 3% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (72; 2% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (25; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (2395; 67% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (756; 21% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (180; 5% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (105; 3% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (72; 2% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (21; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt>-<tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -79,7 +79,7 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
 5	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
 6	ϫⲟⲟ	ϫⲱ	VERB	V	VerbForm=Fin	2	acl:relcl	_	_
-7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Entity=abstract)
+7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl	_	Entity=abstract)
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
 9	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	10	det	_	Entity=(plant
 10	ⲕⲛⲁⲁⲩ	ⲕⲛⲁⲁⲩ	NOUN	N	_	6	ccomp	_	_

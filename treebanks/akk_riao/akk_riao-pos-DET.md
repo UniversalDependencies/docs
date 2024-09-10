@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.785714 (the average of all parts of speech is 1.795993).
+The form / lemma ratio of `DET` is 1.785714 (the average of all parts of speech is 1.795510).
 
 The 1st highest number of forms (5) was observed with the lemma “annû”: <em>annâ, annâte, annê, annî, annīte</em>.
 

@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_lattice-p
 
 
 * <em>да</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Сійӧ заводитліс чӧвтны куритчӧмсӧ <b>да</b> юӧмсӧ .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4: <em>— Менамӧсь эськӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2: <em>И еджыд чериыс чукӧра олӧ , кульмыны жӧ лӧсьӧдчӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1: <em>Думайта <b>да</b> , мед кӧтӧдас .</em>
@@ -28,13 +28,13 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_lattice-p
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 36: <em>Корсюрӧ семьяяс <b>и</b> нимкодясьлісны .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3: <em>Эг <b>и</b> тӧдлы , кыдзи юр весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .</em>
 * <em>ни</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Эз позь бӧрйыны <b>ни</b> Питер Смитӧс , <b>ни</b> Мери Браунӧс .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Ни горзӧмъяс , <b>ни</b> лыйсьӧмъяс .</em>
   * <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> 2: <em>Енэжын <b>ни</b> ӧти кымӧртор эз тыдав .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Водзын сулалісны бурджыка олысьяс нин , кодъяслӧн паськӧманыс эз тыдав ни дӧмас , <b>ни</b> резьдӧмин , да и эм мый налы пуктыны вичко блюдйӧ .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (2) was observed with the lemma “а”: <em>a, а</em>.
 
@@ -55,7 +55,7 @@ Examples: <em>да, и, a, но, а, либӧ, дай, ни, ли, Ho</em>
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (314; 94% instances), <tt><a href="kpv_lattice-dep-advmod-foc.html">advmod:foc</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-dep-mark.html">mark</a></tt> (7; 2% instances), <tt><a href="kpv_lattice-dep-cc-preconj.html">cc:preconj</a></tt> (6; 2% instances), <tt><a href="kpv_lattice-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (189; 56% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (95; 28% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (25; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (189; 56% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (94; 28% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (25; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (12; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 333 (99%) `CCONJ` nodes are leaves.
 

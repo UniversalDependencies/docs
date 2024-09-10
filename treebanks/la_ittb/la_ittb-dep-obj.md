@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11903 nodes (3%) are attached to their parents as `obj`.
+12241 nodes (3%) are attached to their parents as `obj`.
 
-6339 instances of `obj` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.9197681256826.
+6657 instances of `obj` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.89853770116821.
 
-The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (7609; 64% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2559; 21% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (1078; 9% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (475; 4% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (167; 1% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `obj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (7742; 63% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2893; 24% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-DET.html">DET</a></tt> (1090; 9% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (478; 4% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (23; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 5 obj	color:blue
 1	cum	cum	SCONJ	S4|vgr1	PronType=Rel	2	mark	_	_
-2	sint	sum	AUX	N3|modB|tem1|gen9	InflClass=LatAnom|Number=Plur|VerbForm=Fin	0	root	_	_
+2	sint	sum	AUX	N3|modB|tem1|gen9	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 3	effectus	effectus	NOUN	D1|grn1|casJ|gen1	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Plur	2	nsubj	_	_
 4	causae	causa	NOUN	A1|grn1|casB|gen2|vgr1	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	5	nmod	_	_
 5	uirtutem	uirtus	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	7	obj	_	_
@@ -40,18 +40,18 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 obj	color:blue
-1	est	sum	AUX	N3|modA|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	0	root	_	_
-2	autem	autem	PART	O4	_	1	discourse	_	_
+1	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+2	autem	autem	PART	O4	_	4	discourse	_	_
 3	in	in	ADP	S4	_	4	case	_	_
-4	his	hic	DET	F1|grn1|casO|gen3|vgr1	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem	1	obl	_	_
+4	his	hic	DET	F1|grn1|casO|gen3|vgr1	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem	0	root	_	_
 5	quae	qui	PRON	F1|grn1|casM|gen3|vgr1	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	8	obj	_	_
 6	de	de	ADP	S4	_	7	case	_	_
-7	deo	deus	PROPN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	8	obl	_	_
+7	deo	deus	NOUN	F1|grn1|casF|gen1	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Sing	8	obl	_	_
 8	confitemur	confiteor	VERB	K3|modJ|tem1|gen7	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-9	duplex	duplex	ADJ	C1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Sing	11	amod	_	_
+9	duplex	duplex	ADJ	C1|grn1|casA|gen1	Case=Nom|Compound=Yes|Gender=Masc|InflClass=IndEurI|Number=Sing	11	amod	_	_
 10	ueritatis	ueritas	NOUN	C1|grn1|casB|gen2|vgr1	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	11	nmod	_	_
-11	modus	modus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	1	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	Punc	_	1	punct	_	_
+11	modus	modus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4 3 obj	color:blue
 1	hi	hic	DET	F1|grn1|casJ|gen1|vgr1	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Dem	4	nsubj	_	_
 2	uero	uero	ADV	B1|grn1|casG|vgr1	_	4	discourse	_	_
-3	neutrum	neuter	DET	F1|grn1|casD|gen3	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|Polarity=Neg|PronType=Con	4	obj	_	_
+3	neutrum	neuter	DET	F1|grn1|casD|gen3	Case=Acc|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|Polarity=Neg|PronType=Con	4	obj	_	_
 4	recipiunt	recipio	VERB	L3|modA|tem1|gen9	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 5	.	.	PUNCT	Punc	_	4	punct	_	_
 

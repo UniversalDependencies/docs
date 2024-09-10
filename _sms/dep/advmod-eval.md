@@ -20,4 +20,4 @@ Evaluative adverbs in Skolt Sami are often called particles, here are a few:
 * _tâma_ "as we know"
 
 
-<!-- Interlanguage links updated Po lis 14 15:35:06 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:39 CEST -->

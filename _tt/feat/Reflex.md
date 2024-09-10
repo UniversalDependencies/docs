@@ -20,4 +20,4 @@ column. (Which means that empty value has the `No` meaning.)
 * _үз_ "self"
 * _үзе_ "himself/herself/itself"
 * _үзебез_ "ourselves"
-<!-- Interlanguage links updated Po lis 14 15:34:57 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:20 CEST -->

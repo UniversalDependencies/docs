@@ -15,4 +15,4 @@ The tag X is used for words that for some reason cannot be assigned a real part-
 ### Examples
 
 - _etc_
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:44 CEST -->

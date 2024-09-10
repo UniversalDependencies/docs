@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hr_set-feat-Number.html">Number</a></tt>, <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt>.
 
-119690 tokens (60%) have a non-empty value of `Number`.
-34629 types (97%) occur at least once with a non-empty value of `Number`.
-16327 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (14004; 7% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12027; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1589; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (594; 0% instances).
+119689 tokens (60%) have a non-empty value of `Number`.
+34628 types (97%) occur at least once with a non-empty value of `Number`.
+16326 lemmas (88%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48386; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22932; 11% instances), <tt><a href="hr_set-pos-VERB.html">VERB</a></tt> (14004; 7% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12825; 6% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (12027; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (1589; 1% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (594; 0% instances).
 
 ### `NOUN`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (7831; 34% of non-empty `Number`): <em>svi, sve, vanjskih, novih, svih, drugih, unutarnjih, mnogi, nove, drugi</em>
 * `Sing` (15101; 66% of non-empty `Number`): <em>prvi, novi, glavni, prošle, drugi, novog, bivši, prošlog, potrebno, najveći</em>
-* `EMPTY` (1206): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
+* `EMPTY` (1207): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
 <table>
   <tr><th>Paradigm <i>velik</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -130,14 +130,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-12826 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+12825 <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8340; 65%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6512; 51%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8339; 65%), <tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6511; 51%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (314; 2% of non-empty `Number`): <em>Srbi, Srba, Albanaca, Albanci, Grka, Turaka, Grci, Hrvata, Hrvati, Crnogorci</em>
-* `Sing` (12512; 98% of non-empty `Number`): <em>EU, BiH, Kosova, Hrvatskoj, Srbije, SETimes, Hrvatska, Kosovo, Srbija, UN-a</em>
+* `Sing` (12511; 98% of non-empty `Number`): <em>EU, BiH, Kosova, Hrvatskoj, Srbije, SETimes, Hrvatska, Kosovo, Srbija, UN-a</em>
 * `EMPTY` (23): <em>R., AMG, B, R, B.o.B., BamS, DI, EBEL, EL, G.</em>
 
 <table>
@@ -150,7 +150,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>EU</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (4299) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (4298) occur only with one value of `Number`.
 
 ### `AUX`
 

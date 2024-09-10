@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux:pass	color:blue
-1	Contos	contos	PROPN	Sp00	_	5	nsubj:pass	_	_
+1	Contos	conto	NOUN	Scmp	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
 2	por	por	ADP	P	AdpType=Prep	3	case	_	_
 3	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	1	nmod	_	_
 4	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	de	de	ADP	P	AdpType=Prep	12	case	_	_
 11	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	premio	premio	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	_
-13	Lazarillo	Lazarillo	PROPN	Sp00	_	12	nmod	_	_
+13	Lazarillo	lazarillo	PROPN	Sp00	_	12	nmod	_	_
 14	e	e	CCONJ	Cc	_	16	cc	_	_
 15	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	aux:pass	_	_
 16	incluído	incluír	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
@@ -72,7 +72,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 21	honra	honra	NOUN	Scfs	Gender=Fem|Number=Sing	19	nmod	_	_
 22	de	de	ADP	P	AdpType=Prep	24	case	_	_
 23	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	IBBY	IBBY	PROPN	Zgms	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
+24	IBBY	ibby	PROPN	Zgms	Gender=Masc|Number=Sing	21	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	Q,	_	16	punct	_	_
 26	traducido	traducir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
 27	a	a	ADP	P	AdpType=Prep	29	case	_	_
@@ -83,7 +83,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 32	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	33	det	_	_
 33	ilustracións	ilustración	NOUN	Scfp	Gender=Fem|Number=Plur	29	nmod	_	_
 34	de	de	ADP	P	AdpType=Prep	35	case	_	_
-35	Enjamio	Enjamio	PROPN	Sp00	_	33	nmod	_	_
+35	Enjamio	enjamio	PROPN	Sp00	_	33	nmod	_	_
 36	e	e	CCONJ	Cc	_	43	cc	_	_
 37	en	en	ADP	P	AdpType=Prep	39	case	_	_
 38	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	39	det	_	_

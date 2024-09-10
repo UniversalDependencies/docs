@@ -73,4 +73,4 @@ tá MRBI ag déanamh suirbhé ar son Raidió na Gaeltachta \n are MRBI at_doing 
 xcomp(tá, déanamh)
 obj(suirbhé, déanamh)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:46 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:49 CEST -->

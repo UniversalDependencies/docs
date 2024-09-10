@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Peter Dirix, Liesbeth Augustinus, Daniel van Niekerk.
 
 Repository: [UD_Afrikaans-AfriBooms](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,7 +88,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>This corpus contains 407 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., finansiÃ«le, Afrika-Unie, Algemene-Onderwys-en-Opleidingsband, OKD-kantoor, Suider-Afrikaanse, Tale-leerareaverklaring, hoÃ«r, maatreÃ«ls, nie-seksistiese, rekreasie-invoerpermit, veeartseny-invoerpermit, weerspieÃ«l, Midde-Ooste, Regeringsdienste-webtuiste, SAID-kantoor, Wêreldbeker-sokkertoernooi, breÃ«, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, nÃ¡, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente</li>
+<li>This corpus contains 383 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., Afrika-Unie, Algemene-Onderwys-en-Opleidingsband, OKD-kantoor, Suider-Afrikaanse, Tale-leerareaverklaring, nie-seksistiese, rekreasie-invoerpermit, veeartseny-invoerpermit, Midde-Ooste, Regeringsdienste-webtuiste, SAID-kantoor, Wêreldbeker-sokkertoernooi, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente, Regeringskommunikasie-, SAID-doeane-en-aksynskantoor, SAID-takkantoor, SIBW-, Suid-Afrikaner, Suider-Afrika</li>
 </ul>
 
 <ul>
@@ -108,11 +108,11 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>This corpus contains 98 lemmas tagged as pronouns (PRON): alles, almal, ander, bogenoemde, daar, daaraan, daarbenewens, daarby, daardeur, daarin, daarmee, daarna, daarom, daaroor, daarop, daarteen, daartoe, daarvan, daarvoor, dat, dergelik, diegene, dieselfde, dit, ek, elders, elk, elkeen, enig, enige, enigeen, enigiemand, haar, haarself, hierbenewens, hierbo, hierby, hierdeur, hierin, hiermee, hieronder, hieroor, hierop, hiervan, hiervolgens, hoe, hoekom, hoeveel, hom, homself, hul, hulle, hulself, hy, iemand, iets, jou, jouself, julle, jy, mekaar, my, myself, niemand, niks, ons, onsself, self, so, sodanig, sy, tal, toe, u, waar, waaraan, waarby, waardeur, waarheen, waarin, waarmee, waarna, waarom, waaronder, waaroor, waarop, waarteen, waartoe, waartydens, waaruit, waarvan, waarvolgens, waarvoor, wanneer, wannneer, wat, watter, wie</li>
+<li>This corpus contains 95 lemmas tagged as pronouns (PRON): alles, almal, ander, bogenoemde, daar, daaraan, daarbenewens, daarby, daardeur, daarin, daarmee, daarna, daarom, daaroor, daarop, daarteen, daartoe, daarvan, daarvoor, dergelik, diegene, dieselfde, dit, ek, elders, elk, elkeen, enig, enige, enigeen, enigiemand, haar, haarself, hierbenewens, hierbo, hierby, hierdeur, hierin, hiermee, hieronder, hieroor, hierop, hiervan, hiervolgens, hoe, hoekom, hoeveel, hom, homself, hul, hulle, hulself, hy, iemand, iets, jou, jouself, julle, jy, mekaar, my, myself, niemand, niks, ons, onsself, self, so, sodanig, sy, tal, toe, u, waar, waaraan, waarby, waardeur, waarheen, waarin, waarmee, waarna, waarom, waaroor, waarop, waarteen, waartoe, waaruit, waarvan, waarvolgens, waarvoor, wanneer, wannneer, wat, watter, wie</li>
 </ul>
 
 <ul>
-<li>This corpus contains 30 lemmas tagged as determiners (DET): 'n, al, baie, beide, bietjie, daar, daardie, de, die, dien, diÃ©, dié, enkel, etlike, hierdie, laaste, magdom, meer, menige, miljoen, min, paar, party, sodanig, sommige, soveel, sulke, tal, tweeduisend, veel</li>
+<li>This corpus contains 29 lemmas tagged as determiners (DET): 'n, al, baie, beide, bietjie, daar, daardie, de, die, dien, dié, enkel, etlike, hierdie, laaste, magdom, meer, menige, miljoen, min, paar, party, sodanig, sommige, soveel, sulke, tal, tweeduisend, veel</li>
 </ul>
 
 <ul>
@@ -128,14 +128,14 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
     <li>AUX: is, was, moes, sou, kon, gewees, wees, wou</li>
-    <li>VERB: gelyk</li>
+    <li>VERB: gelyk, het</li>
   </ul>
   </li>
 </ul>
@@ -145,14 +145,6 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
   <ul>
     <li>AUX: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
     <li>VERB: doen, maak, gebruik, verbeter, het, verseker, stel, betaal, verskaf, gaan</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Inf
-  <ul>
-    <li>VERB: geword, geraak</li>
   </ul>
   </li>
 </ul>
@@ -253,8 +245,8 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: beter, hoër, groter, ouer, sterker, hoÃ«r, laer, minder, jonger, langer</li>
-      <li>ADV: verder, beter, later, langer, vinniger, harder, minder, vroeër, sterker, armer</li>
+      <li>ADJ: beter, hoër, groter, ouer, sterker, laer, minder, jonger, langer, stadiger</li>
+      <li>ADV: verder, beter, later, langer, vinniger, harder, vroeër, minder, sterker, armer</li>
     </ul>
   </li>
 </ul>
@@ -301,7 +293,6 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
     <ul>
       <li>AUX-Fin: is, was, moes, sou, kon, gewees, wees, wou</li>
       <li>VERB-Fin: gelyk</li>
-      <li>VERB-Inf: geword, geraak</li>
       <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, ingevoer</li>
     </ul>
   </li>
@@ -311,6 +302,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
   <li>Pres
     <ul>
       <li>AUX-Fin,Inf: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
+      <li>VERB-Fin: het</li>
       <li>VERB-Fin,Inf: doen, maak, gebruik, verbeter, het, verseker, stel, betaal, verskaf, gaan</li>
     </ul>
   </li>
@@ -336,7 +328,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <ul>
   <li>Dem
     <ul>
-      <li>DET: hierdie, daardie, dié, sodanige, sulke, daar, diÃ©, sodanig</li>
+      <li>DET: hierdie, daardie, dié, sodanige, sulke, daar, sodanig</li>
     </ul>
   </li>
 </ul>
@@ -353,7 +345,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <ul>
   <li>Int
     <ul>
-      <li>PRON: hoe, wat, Wie, Watter, Hoekom, Waar, Waarom, Wanneer, waaroor</li>
+      <li>PRON: hoe, wat, Wie, Watter, Hoekom, Waar, Waarom, waaroor</li>
     </ul>
   </li>
 </ul>
@@ -377,7 +369,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: wat, wanneer, waar, daarvan, watter, hoe, waarop, daartoe, wie, waarin</li>
+      <li>PRON: wat, daarvan, waar, wanneer, watter, daartoe, wie, daarop, hoe, waarin</li>
     </ul>
   </li>
 </ul>
@@ -508,9 +500,8 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </li>
       <li>Tran
         <ul>
-          <li>VERB-Fin: gelyk</li>
+          <li>VERB-Fin: gelyk, het</li>
           <li>VERB-Fin,Inf: doen, gebruik, maak, verbeter, verseker, stel, het, verskaf, betaal, bereik</li>
-          <li>VERB-Inf: geword, geraak</li>
           <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, gegee</li>
         </ul>
       </li>
@@ -567,27 +558,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
+      <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin,Inf--NOUN (663)</li>
-      <li>VERB-Fin,Inf--PRON (538)</li>
-      <li>VERB-Fin,Inf--PRON-ADP(aan) (2)</li>
-      <li>VERB-Fin,Inf--PRON-ADP(by) (1)</li>
+      <li>VERB-Fin,Inf--NOUN (655)</li>
+      <li>VERB-Fin,Inf--PRON (384)</li>
+      <li>VERB-Fin,Inf--PRON-ADP(aan) (1)</li>
       <li>VERB-Fin,Inf--PRON-ADP(in) (1)</li>
-      <li>VERB-Fin,Inf--PRON-ADP(ingevolge) (1)</li>
-      <li>VERB-Fin,Inf--PRON-ADP(namens) (1)</li>
-      <li>VERB-Fin,Inf--PRON-ADP(oor) (3)</li>
-      <li>VERB-Fin,Inf--PRON-ADP(van) (4)</li>
-      <li>VERB-Fin,Inf--PRON-Acc (2)</li>
-      <li>VERB-Fin,Inf--PRON-Acc,Nom (448)</li>
-      <li>VERB-Fin,Inf--PRON-Nom (362)</li>
-      <li>VERB-Inf--NOUN (3)</li>
-      <li>VERB-Inf--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN (140)</li>
-      <li>VERB-Part--PRON (168)</li>
+      <li>VERB-Fin,Inf--PRON-ADP(oor) (1)</li>
+      <li>VERB-Fin,Inf--PRON-ADP(van) (1)</li>
+      <li>VERB-Fin,Inf--PRON-Acc,Nom (447)</li>
+      <li>VERB-Fin,Inf--PRON-Nom (361)</li>
+      <li>VERB-Part--NOUN (142)</li>
+      <li>VERB-Part--PRON (110)</li>
       <li>VERB-Part--PRON-ADP(oor) (1)</li>
       <li>VERB-Part--PRON-ADP(van) (1)</li>
-      <li>VERB-Part--PRON-Acc,Nom (75)</li>
-      <li>VERB-Part--PRON-Nom (44)</li>
+      <li>VERB-Part--PRON-Acc,Nom (74)</li>
+      <li>VERB-Part--PRON-Nom (45)</li>
     </ul>
   </li>
 </ul>
@@ -595,19 +581,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin,Inf--NOUN (1945)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin,Inf--NOUN (1947)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(om) (1)</li>
-      <li>VERB-Fin,Inf--NOUN-ADP(se) (2)</li>
+      <li>VERB-Fin,Inf--NOUN-ADP(se) (1)</li>
+      <li>VERB-Fin,Inf--NOUN-ADP(van) (1)</li>
       <li>VERB-Fin,Inf--NOUN-ADP(voor) (1)</li>
-      <li>VERB-Fin,Inf--PRON (37)</li>
-      <li>VERB-Fin,Inf--PRON-Acc (14)</li>
+      <li>VERB-Fin,Inf--PRON (100)</li>
+      <li>VERB-Fin,Inf--PRON-Acc (15)</li>
       <li>VERB-Fin,Inf--PRON-Acc,Nom (52)</li>
-      <li>VERB-Fin,Inf--PRON-Nom (82)</li>
-      <li>VERB-Part--NOUN (259)</li>
+      <li>VERB-Fin,Inf--PRON-Nom (83)</li>
+      <li>VERB-Part--NOUN (258)</li>
       <li>VERB-Part--NOUN-ADP(se) (1)</li>
-      <li>VERB-Part--PRON (6)</li>
-      <li>VERB-Part--PRON-Acc,Nom (9)</li>
-      <li>VERB-Part--PRON-Nom (4)</li>
+      <li>VERB-Part--PRON (51)</li>
+      <li>VERB-Part--PRON-Acc,Nom (10)</li>
+      <li>VERB-Part--PRON-Nom (5)</li>
     </ul>
   </li>
 </ul>
@@ -626,7 +614,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 13 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: afvra onsself, verbind onsself, druk ons, flous onsself, herverbind hulle, herverbind onsself, onderhou homself, skaar ons, sluit hulle, stel ons, toewy myself, verbind hom, verbind ons</li>
+  <li>This corpus contains 12 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: afvra onsself, verbind onsself, druk ons, flous onsself, herverbind hulle, herverbind onsself, onderhou homself, skaar ons, sluit hulle, toewy myself, verbind hom, verbind ons</li>
     <ul>
       <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: afvra</li>
     </ul>

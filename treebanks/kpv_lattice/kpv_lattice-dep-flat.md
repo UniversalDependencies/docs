@@ -33,9 +33,9 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	дас	дас·кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
 9	кык	_	NUM	Num	_	8	flat	_	_
 10	арӧсӧн	арӧс	NOUN	N	Case=Ins|Number=Sing	11	obl	_	GTtags=Sg,Ins
-11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 12	вӧрын	вӧр	NOUN	N	Case=Ine|Number=Sing	13	obl:lmod	_	GTtags=Sg,Ine
-13	келавны	келавны	VERB	V	Valency=1|VerbForm=Inf	11	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
+13	келавны	келавны	VERB	V	VerbForm=Inf	11	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~
@@ -57,9 +57,9 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	дас	дас·кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	10	nummod	_	GTtags=Card,Sg,Nom
 9	кык	_	NUM	Num	_	8	flat	_	_
 10	арӧсӧн	арӧс	NOUN	N	Case=Ins|Number=Sing	11	obl	_	GTtags=Sg,Ins
-11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+11	заводитіс	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
 12	вӧрын	вӧр	NOUN	N	Case=Ine|Number=Sing	13	obl:lmod	_	GTtags=Sg,Ine
-13	келавны	келавны	VERB	V	Valency=1|VerbForm=Inf	11	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
+13	келавны	келавны	VERB	V	VerbForm=Inf	11	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~

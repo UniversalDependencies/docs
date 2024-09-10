@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Imp`, `Past`, `Pres`.
 
-12533 tokens (10%) have a non-empty value of `Tense`.
+12532 tokens (10%) have a non-empty value of `Tense`.
 3552 types (14%) occur at least once with a non-empty value of `Tense`.
-1284 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8070; 7% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4463; 4% instances).
+1283 lemmas (11%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8073; 7% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (4459; 4% instances).
 
 ### `VERB`
 
-8070 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Tense`.
+8073 <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> tokens (52% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8070; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8070; 100%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8069; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7662; 95%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (6205; 77%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5632; 70%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt> (5138; 64%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (5135; 64%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (4160; 52%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4148; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="hyw_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8073; 100%), <tt><a href="hyw_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (8073; 100%), <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8072; 100%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7665; 95%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (6207; 77%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5635; 70%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Sub</tt> (5120; 63%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt> (5117; 63%), <tt><a href="hyw_armtdp-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (4161; 52%), <tt><a href="hyw_armtdp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4149; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Imp` (1598; 20% of non-empty `Tense`): <em>կար, ունէր, ըսէր, ըլլար, չկար, գար, տար, ընէր, ըսէին, կային</em>
+* `Imp` (1598; 20% of non-empty `Tense`): <em>կար, ունէր, ըլլար, ըսէր, չկար, գար, տար, ընէր, ըսէին, կային</em>
 * `Past` (2066; 26% of non-empty `Tense`): <em>ըսաւ, եղաւ, ունեցաւ, եկաւ, սկսաւ, յայտնեց, ըսի, ելաւ, ըրաւ, պատասխանեց</em>
-* `Pres` (4406; 55% of non-empty `Tense`): <em>կայ, ըսէ, կրնայ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան, գայ</em>
-* `EMPTY` (7416): <em>եղած, ունեցած, գիտեր, ըլլալ, կրնար, սկսած, եկած, ըսել, դարձած, ըլլալու</em>
+* `Pres` (4409; 55% of non-empty `Tense`): <em>կայ, ըսէ, կրնայ, ունի, ըլլայ, ըսեմ, կրնան, կարծես, կան, գայ</em>
+* `EMPTY` (7418): <em>եղած, ունեցած, գիտեր, ըլլալ, կրնար, սկսած, եկած, ըսել, դարձած, ըլլալու</em>
 
 <table>
   <tr><th>Paradigm <i>ըսել</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -52,15 +52,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-4463 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Tense`.
+4459 <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4463; 100%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4364; 98%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4343; 97%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (3877; 87%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3649; 82%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3476; 78%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="hyw_armtdp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4459; 100%), <tt><a href="hyw_armtdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4364; 98%), <tt><a href="hyw_armtdp-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4343; 97%), <tt><a href="hyw_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (3873; 87%), <tt><a href="hyw_armtdp-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3645; 82%), <tt><a href="hyw_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3472; 78%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Imp` (1325; 30% of non-empty `Tense`): <em>էր, էին, չէր, էի, չէին, էինք, ըլլար, չէի, էիր, չէինք</em>
+* `Imp` (1323; 30% of non-empty `Tense`): <em>էր, էին, չէր, էի, չէին, էինք, ըլլար, չէի, էիր, չէինք</em>
 * `Past` (21; 0% of non-empty `Tense`): <em>եղաւ, տուաւ, չեղաւ, տուի, եղայ, եղան, տուիր</em>
-* `Pres` (3117; 70% of non-empty `Tense`): <em>է, են, չէ, եմ, չեմ, չեն, չի, ենք, ըլլայ, ես</em>
+* `Pres` (3115; 70% of non-empty `Tense`): <em>է, են, չէ, եմ, չեմ, չեն, չի, ենք, ըլլայ, ես</em>
 * `EMPTY` (4507): <em>կը, կ՚, պիտի, կու, պէտք, եղած, եղեր, կոր, ըլլալով, ըլլալու</em>
 
 <table>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1365; 73%),
+<tt>VERB --[<tt><a href="hyw_armtdp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1364; 73%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (61; 64%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (13; 100%),
 <tt>VERB --[<tt><a href="hyw_armtdp-dep-appos.html">appos</a></tt>]--> VERB</tt> (6; 55%),

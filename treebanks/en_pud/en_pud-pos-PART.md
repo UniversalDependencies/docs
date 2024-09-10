@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `PART`
 
-There are 7 `PART` lemmas (0%), 8 `PART` types (0%) and 426 `PART` tokens (2%).
-Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 13 in number of tokens.
+There are 4 `PART` lemmas (0%), 8 `PART` types (0%) and 426 `PART` tokens (2%).
+Out of 17 observed tags, the rank of `PART` is: 16 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>to, 's, not, ’s, ', n’t, up</em>
+The 10 most frequent `PART` lemmas: <em>to, 's, not, up</em>
 
 The 10 most frequent `PART` types:  <em>to, 's, not, n't, ’s, ', n’t, up</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 264, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 213, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 55, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 8), <em>n’t</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 2), <em>up</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 264, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 213, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>'s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 104, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 57, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 25), <em>up</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 261, <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 212, <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>'s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 81, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 16, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 3), <em>not</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 39, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 15), <em>n't</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 16, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 1), <em>’s</em> (<tt><a href="en_pud-pos-PART.html">PART</a></tt> 15, <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> 10, <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_pud-pos-X.html">X</a></tt> 1), <em>'</em> (<tt><a href="en_pud-pos-PUNCT.html">PUNCT</a></tt> 16, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 8), <em>n’t</em> (<tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 2), <em>up</em> (<tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1)
 
@@ -46,19 +46,19 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_pud-pos-PART
   * <tt><a href="en_pud-pos-PART.html">PART</a></tt> 2: <em>I do <b>n’t</b> call it a beast lightly .</em>
 * <em>up</em>
   * <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> 30: <em>It contains a tiny lagoon , which has all but dried <b>up</b> .</em>
-  * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2: <em>Investments in this area were <b>up</b> by 6 % in 2015 to $ 221bn .</em>
+  * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2: <em>Investments in this area were <b>up</b> by 6 % in 2015 to $ 221 bn .</em>
   * <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Wilkes was re-elected and expelled twice more , before the House of Commons resolved that his candidature was invalid and declared the runner - <b>up</b> as the victor .</em>
   * <tt><a href="en_pud-pos-PART.html">PART</a></tt> 1: <em>Mr Osborne signed <b>up</b> with a US speakers agency after being sacked in July .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.142857 (the average of all parts of speech is 1.138927).
+The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.147869).
 
-The 1st highest number of forms (2) was observed with the lemma “not”: <em>n't, not</em>.
+The 1st highest number of forms (3) was observed with the lemma “'s”: <em>', 's, ’s</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
+The 2nd highest number of forms (3) was observed with the lemma “not”: <em>n't, not, n’t</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
+The 3rd highest number of forms (1) was observed with the lemma “to”: <em>to</em>.
 
 `PART` occurs with 1 features: <tt><a href="en_pud-feat-Polarity.html">Polarity</a></tt> (56; 13% instances)
 

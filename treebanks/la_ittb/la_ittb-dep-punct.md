@@ -10,10 +10,10 @@ This relation is universal.
 
 62409 nodes (14%) are attached to their parents as `punct`.
 
-38987 instances of `punct` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.65420051595123.
+38921 instances of `punct` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.6316236440257.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (33049; 53% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (12017; 19% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (4616; 7% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (3759; 6% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (2370; 4% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (2162; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1243; 2% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1209; 2% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (652; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (581; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (407; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (288; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (49; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (33333; 53% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (13245; 21% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (4816; 8% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (3334; 5% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (2331; 4% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1514; 2% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (1205; 2% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (846; 1% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (653; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (486; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (303; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (289; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (47; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt>-<tt><a href="la_ittb-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
 
 
 ~~~ conllu
@@ -54,9 +54,9 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 punct	color:blue
-1	quis	qui	DET	F1|grn1|casA|gen1|varA	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	2	det	_	_
+1	quis	qui	PRON	F1|grn1|casA|gen1|varA	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	2	det	_	_
 2	modus	modus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Sing	4	nsubj	_	_
-3	sit	sum	AUX	N3|modB|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	4	cop	_	_
+3	sit	sum	AUX	N3|modB|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 4	possibilis	possibilis	ADJ	C1|grn1|casA|gen1	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Sing	0	root	_	_
 5	diuinae	diuinus	ADJ	A1|grn1|casB|gen2	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	6	amod	_	_
 6	ueritatis	ueritas	NOUN	C1|grn1|casB|gen2|vgr1	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	7	nsubj:pass	_	_

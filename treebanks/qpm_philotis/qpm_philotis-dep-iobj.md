@@ -8,12 +8,26 @@ udver: '2'
 
 This relation is universal.
 
-3444 nodes (4%) are attached to their parents as `iobj`.
+785 nodes (2%) are attached to their parents as `iobj`.
 
-2466 instances of `iobj` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.26974448315912.
+455 instances of `iobj` (58%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.9312101910828.
 
-The following 16 pairs of parts of speech are connected with `iobj`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (1662; 48% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1529; 44% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (120; 3% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (33; 1% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (33; 1% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (28; 1% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `iobj`: <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (493; 63% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (239; 30% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (20; 3% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (9; 1% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt>-<tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="qpm_philotis-pos-PART.html">PART</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qpm_philotis-pos-AUX.html">AUX</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt>-<tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 iobj	color:blue
+1	Še	še	AUX	_	_	3	aux	_	_
+2	tí	ja	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
+3	kážom	kážom	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -36,20 +50,6 @@ The following 16 pairs of parts of speech are connected with `iobj`: <tt><a href
 12	vídeva	vídevom	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
 13	ógne	ógan	NOUN	_	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 iobj	color:blue
-1	Še	še	AUX	_	_	3	aux	_	_
-2	tí	ja	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	3	iobj	_	_
-3	kážom	kážom	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

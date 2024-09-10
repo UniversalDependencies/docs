@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-462 nodes (1%) are attached to their parents as `nummod`.
+466 nodes (1%) are attached to their parents as `nummod`.
 
-451 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24675324675325.
+455 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25107296137339.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (429; 93% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (13; 3% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="el_gdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (436; 94% instances), <tt><a href="el_gdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (13; 3% instances), <tt><a href="el_gdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="el_gdt-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-X.html">X</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="el_gdt-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gdt-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,8 +26,8 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	,	,	PUNCT	PUNCT	_	1	punct	_	_
 3	δύο	δύο	NUM	NUM	Case=Nom|Gender=Neut|Number=Plur|NumType=Card	4	nummod	_	_
 4	σπίτια	σπίτι	NOUN	NOUN	Case=Nom|Gender=Neut|Number=Plur	8	nsubj:pass	_	_
-5	σ	σε	ADP	AsPpSp	_	7	case	_	_
-6	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
+5	σ	σε	ADP	ADP	_	7	case	_	_
+6	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
 7	περιοχή	περιοχή	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	4	nmod	_	_
 8	κάηκαν	καίω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 9	ολοσχερώς	ολοσχερώς	ADV	ADV	_	8	advmod	_	SpaceAfter=No
@@ -44,29 +44,27 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2 1 nummod	color:blue
 1	Πέντε	πέντε	NUM	NUM	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	2	nummod	_	_
 2	νεκροί	νεκρός	ADJ	ADJ	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
-3	σ	σε	ADP	AsPpSp	_	5	case	_	_
-4	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
+3	σ	σε	ADP	ADP	_	5	case	_	_
+4	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
 5	Καμπούλ	Καμπούλ	PROPN	PROPN	Case=Acc|Gender=Fem|Number=Sing	2	obl	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nummod	color:blue
-1	Οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	Ευρωπαίοι	Ευρωπαίος	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
-3	ψήλωσαν	ψηλώνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	11	11	NUM	NUM	NumType=Card	5	nummod	_	_
-5	εκατοστά	εκατοστός	NUM	NUM	Case=Acc|Gender=Neut|Number=Plur|NumType=Ord	3	obl	_	_
-6	τα	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
-7	τελευταία	τελευταίος	ADJ	ADJ	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
-8	100	100	NUM	NUM	NumType=Card	9	nummod	_	_
-9	χρόνια	χρόνος	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Plur	3	obl	_	SpaceAfter=No
-10	.	.	PUNCT	PUNCT	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nummod	color:blue
+1	Είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
+2	γνωστό	γνωστός	ADJ	ADJ	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+3	ότι	ότι	SCONJ	SCONJ	_	5	mark	_	_
+4	έχει	έχω	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+5	σκοτώσει	σκοτώνω	VERB	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
+6	29.000	29.000	NUM	NUM	NumType=Card	7	nummod	_	_
+7	Εβραίους	Εβραίος	PROPN	PROPN	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

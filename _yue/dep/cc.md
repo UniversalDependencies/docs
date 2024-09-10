@@ -48,4 +48,4 @@ The coordinating conjunction links a conjunction word to its immediately followi
 6	going."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:13 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->

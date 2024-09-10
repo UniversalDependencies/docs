@@ -29,7 +29,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1874 sentences, 20507 tokens and 23155 syntactic words.</li>
+      <li>This corpus contains 1874 sentences, 20517 tokens and 23165 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -53,7 +53,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 76 types of words with spaces. Examples: 1 mē, 2 mē, 1 līm, 1 mē 20, lā pādâ, lā pādû, 2 līm, lā kanšūte, 3 mē, 8 mē, 3 līm, 7 mē, lā ādiru, 1 šūši, 2 mē 50, 5 mē, lā mēni, lā pādûte, 1 mē 50, 2 līm 8 mē, 5 līm, lā māgirī, lā šanān, šakin māt, 1 līm 2 mē, 1 līm 5 mē, 1 līm arbaʾu mē 1 šūši, 1 mē 72, 10 līm, 2 mē 1 šūši, 3 mē 20, Zaba šapliti, arbaʾu mē, arbaʾu mē 1 šūši, arbaʾu mē 70, lā māgirūt, ša rēši, 1 līm šeš mē, 1 mē 40, 1 mē 74, 1 mē x, 1 šūši 9 līm 5 mē 74, 16 līm, 2 līm 5 mē, 2 līm 7 mē 2, 2 mē 57, 3 mē 26, 3 mē 32, 3 mē 70, 3 mē 90</li>
+      <li>This corpus contains 75 types of words with spaces. Examples: 1 mē, 2 mē, 1 līm, 1 mē 20, lā pādâ, lā pādû, 2 līm, 3 mē, 8 mē, 3 līm, 7 mē, lā ādiru, 1 šūši, 2 mē 50, 5 mē, lā mēni, lā pādûte, 1 mē 50, 2 līm 8 mē, 5 līm, lā šanān, šakin māt, 1 līm 2 mē, 1 līm 5 mē, 1 līm arbaʾu mē 1 šūši, 1 mē 72, 10 līm, 2 mē 1 šūši, 3 mē 20, Zaba šapliti, arbaʾu mē, arbaʾu mē 1 šūši, arbaʾu mē 70, lā māgirūt, ša rēši, 1 līm šeš mē, 1 mē 40, 1 mē 74, 1 mē x, 1 šūši 9 līm 5 mē 74, 16 līm, 2 līm 5 mē, 2 līm 7 mē 2, 2 mē 57, 3 mē 26, 3 mē 32, 3 mē 70, 3 mē 90, 40 līm 7 līm 74, 50 līm</li>
       </ul>
     </td>
   </tr>
@@ -77,7 +77,7 @@ udver: '2'
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 2565 multi-word tokens. On average, one multi-word token consists of 2.03 syntactic words.</li>
-      <li>There are 617 types of multi-word tokens. Examples: Aššurma, šallassunu, mātiya, bēliya, elišunu, šarrūtiya, kakkīya, šēpīya, bēlūtiya, sihirtiša, dēktašunu, ūmešuma, gimriša, pāniya, qāssu, ēkallišu, šumī, ālānišunu, kalîšina, ittallakuma, alpīšunu, šēpīšu, ṣēnīšunu, gabadibbīšu, ēnahma, dannūtišu, tidūkišunu, šumiya, šumšu, limētuššu, qātiya, abbīya, mātišu, anhūssu, apēlušinani, bēlišu, libbiya, uššēšu, āliya, dannūtišunu, nakrīšu, būšašunu, būšīšunu, ummānātišunu, šāninšu, ayyābīšu, bēltiya, issiya, qerebšu, ašrišu.</li>
+      <li>There are 618 types of multi-word tokens. Examples: Aššurma, šallassunu, mātiya, bēliya, elišunu, šarrūtiya, kakkīya, šēpīya, bēlūtiya, sihirtiša, dēktašunu, ūmešuma, gimriša, pāniya, qāssu, ēkallišu, šumī, ālānišunu, kalîšina, ittallakuma, alpīšunu, šēpīšu, ṣēnīšunu, gabadibbīšu, ēnahma, dannūtišu, tidūkišunu, šumiya, šumšu, limētuššu, qātiya, abbīya, mātišu, anhūssu, apēlušinani, bēlišu, libbiya, uššēšu, āliya, dannūtišunu, nakrīšu, būšašunu, būšīšunu, ummānātišunu, šāninšu, ayyābīšu, bēltiya, issiya, qerebšu, ašrišu.</li>
       </ul>
     </td>
   </tr>
@@ -985,10 +985,10 @@ udver: '2'
             <li>VERB--NOUN (2)</li>
             <li>VERB--NOUN-Nom (1)</li>
             <li>VERB--PRON (1)</li>
-            <li>VERB-Fin--NOUN (118)</li>
+            <li>VERB-Fin--NOUN (117)</li>
             <li>VERB-Fin--NOUN-Acc (3)</li>
             <li>VERB-Fin--NOUN-Nom (42)</li>
-            <li>VERB-Fin--PRON (118)</li>
+            <li>VERB-Fin--PRON (116)</li>
             <li>VERB-Inf--PRON (2)</li>
             <li>VERB-Stat--NOUN (3)</li>
             <li>VERB-Stat--NOUN-Acc (1)</li>

@@ -45,11 +45,11 @@ The following 14 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 5	நிறைவு	நிறைவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod:nom	Translit=niraivu|LTranslit=niraivu
 6	விழாவில்	விழா	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	7	obl	7:obl:loc	Translit=vilāvil|LTranslit=vilā
 7	பங்கேற்பதற்கு	பங்கேல்	VERB	VzDF3SNAA	Case=Dat|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Ger|Voice=Act	11	advcl	11:advcl	Translit=paṅkērpatarku|LTranslit=paṅkēl
-8	எனக்க்	என்	PRON	RpD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs	11	obl:arg	11:obl:arg:dat	Translit=enakk|LTranslit=en
-9	உம்	உம்	PART	Tv-------	_	8	advmod:emph	8:advmod:emph	Translit=um|LTranslit=um
+8	எனக்க்	என்	PRON	RpD-1SA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Sing|Person=1|PronType=Prs	11	obl:arg	11:obl:arg:dat	LTranslit=en|Translit=enakk
+9	உம்	உம்	PART	Tv-------	_	8	advmod:emph	8:advmod:emph	LTranslit=um|Translit=um
 10	அழைப்பு	அழைப்பு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	obj	11:obj	Translit=alaippu|LTranslit=alaippu
-11	வந்த்	வா	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=vant|LTranslit=vā
-12	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	Translit=uḷḷatu|LTranslit=uḷ
+11	வந்த்	வா	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	LTranslit=vā|Translit=vant
+12	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	LTranslit=uḷ|Translit=uḷḷatu
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	11:punct	Translit=.|LTranslit=.
 
 ~~~
@@ -68,9 +68,9 @@ The following 14 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 5	இ-மெயிலில்	இ-மெயில்	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	8	obl	8:obl:loc	Translit=i-meyilil|LTranslit=i-meyil
 6	கொலை	கொலை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	nmod	7:nmod:nom	Translit=kolai|LTranslit=kolai
 7	மிரட்டல்	மிரட்டல்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	8	nsubj	8:nsubj	Translit=miraṭṭal|LTranslit=miraṭṭal
-8	விடுக்கப்	விடு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=viṭukkap|LTranslit=viṭu
-9	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	8	aux	8:aux	Translit=paṭṭ|LTranslit=paṭu
-10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	Translit=uḷḷatu|LTranslit=uḷ
+8	விடுக்கப்	விடு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	LTranslit=viṭu|Translit=viṭukkap
+9	பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	8	aux	8:aux	LTranslit=paṭu|Translit=paṭṭ
+10	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	8	aux	8:aux	LTranslit=uḷ|Translit=uḷḷatu
 11	.	.	PUNCT	Z#-------	PunctType=Peri	8	punct	8:punct	Translit=.|LTranslit=.
 
 ~~~

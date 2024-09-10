@@ -54,4 +54,4 @@ mark(avoir,d')
 ~~~
 
 N.B.: For cleft sentences **UD_French-Spoken** uses a subrelation of `acl`: the `acl:cleft` relation.
-<!-- Interlanguage links updated Po lis 14 15:35:02 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:29 CEST -->

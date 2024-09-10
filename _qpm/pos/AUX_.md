@@ -36,6 +36,11 @@ In Pomak the verbs broadly translated as "to be" are assigned the tag [AUX]():
     * _za bú senǽ svóršahme, dagodíno 'sæ pak, akú býde kysmét_ "for this year we have finished, again next year, if it is ment to be" [lit."for this year we finished, next year again, if it is written"] - 
     * _néma go u tæh, atišlól še by pa komšújese_ "he is not at home, he must have gone to [someone of] the neighbors"
 
+- the interrogative word _li / dalí_ "question particle" (necessary to form direct questions)
+    * _ažónen li si?_ "are you married?" [lit. "married you?"]
+    * _dalí dójdom i ja sas vámi?_ "should I come with you?" [lit. "come and I with you?"
+
+
 The auxiliary verb <i><b>want</b> (probabilistic will - would)</i> `šom / štom, ti / šteš, še / šte, šem / šme, šte, šot / štot` is assigned the tag
 `AUX`.
 
@@ -75,4 +80,4 @@ Passive voice and past tense forming auxiliaries: _<b>be / beh / béšo, béhme,
 * _na pot béhme kugáta pánna gulǽmyjet dožd_ - "we were on our way, when that heavy rain started" [lit."at the road / street we were , when started the big rain"]
 * _slónceto béšo zaníknalo i tíje si rǽbatæho jéšte_ "the sun had set and [yet] they were still working" 
 
-<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

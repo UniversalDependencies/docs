@@ -11,6 +11,6 @@ It includes parenthesized examples, as well as defining abbreviations in one of 
 ~~~ sdparse
 tak / ʔeːgirim // ʔajaːj tak -i iː- fi =t amsi iraːnaj rh -i / oː= kina /
 text_en: "There was an old man of my family and, gosh! I even saw him today.
-appos(tak, tak) ("man", "man")
+appos(tak-1, tak-6) ("man", "man")
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:09 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:43 CEST -->

@@ -47,8 +47,8 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	att	att	PART	IE	_	5	mark	5:mark	_
 5	delas	dela	VERB	VB|INF|SFO	VerbForm=Inf|Voice=Pass	1	xcomp	1:xcomp	_
 6	av	av	ADP	PP	_	9	case	9:case	_
-7	den	en	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	9	det	9:det	_
-8	moderne	modern	ADJ	JJ|POS|MAS|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	9	amod	9:amod	_
+7	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	9	det	9:det	_
+8	moderne	modern	ADJ	JJ|POS|MAS|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Gender=Com|Number=Sing	9	amod	9:amod	_
 9	mannen	man	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	5	obl:agent	5:obl:agent	SpaceAfter=No
 10	?	?	PUNCT	MAD	_	1	punct	1:punct	_
 

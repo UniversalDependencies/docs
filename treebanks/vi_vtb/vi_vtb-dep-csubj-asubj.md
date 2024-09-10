@@ -12,74 +12,84 @@ There are also 2 other language-specific subtypes of `csubj`: <tt><a href="vi_vt
 20 nodes (0%) are attached to their parents as `csubj:asubj`.
 
 20 instances of `csubj:asubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.55.
+Average distance between parent and child is 3.05.
 
-The following 5 pairs of parts of speech are connected with `csubj:asubj`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (9; 45% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (6; 30% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="vi_vtb-pos-PRON.html">PRON</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 csubj:asubj	color:blue
-1	Và	và	SCONJ	CC	_	6	cc	_	_
-2	nguy hiểm	nguy hiểm	ADJ	Adj	_	6	csubj:asubj	_	_
-3	nhất	nhất	ADV	Adv	_	2	advmod	_	_
-4	vẫn	vẫn	ADV	Adv	_	6	advmod	_	_
-5	là	là	AUX	V	_	6	cop	_	_
-6	vấn đề	vấn đề	NOUN	N	_	0	root	_	_
-7	qui hoạch	qui hoạch	VERB	V	_	6	compound:vmod	_	_
-8	.	.	PUNCT	.	_	6	punct	_	_
-
-~~~
+The following 4 pairs of parts of speech are connected with `csubj:asubj`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (12; 60% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (6; 30% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="vi_vtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 csubj:asubj	color:blue
-1	"	"	PUNCT	``	_	2	punct	_	_
-2	ngon	ngon	ADJ	Adj	_	7	csubj:asubj	_	_
-3	lắm	lắm	ADV	Adv	_	2	advmod	_	_
-4	"	"	PUNCT	``	_	2	punct	_	_
-5	là	là	AUX	V	_	7	cop	_	_
-6	được	được	AUX	AUX	_	7	aux	_	_
-7	cấp	cấp	VERB	V	_	0	root	_	_
-8	súng	súng	NOUN	N	_	7	obj	_	_
-9	tự tạo	tự tạo	ADJ	Adj	_	8	amod	_	_
-10	.	.	PUNCT	.	_	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 csubj:asubj	color:blue
+1	Nhưng	nhưng	SCONJ	C	_	5	mark	_	_
+2	khủng khiếp	khủng khiếp	ADJ	ADJ	_	5	csubj:asubj	_	_
+3	nhất	nhất	ADV	ADV	_	2	advmod	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	lúc	lúc	NOUN	N	_	0	root	_	_
+6	bị	bị	AUX	AUX	_	9	aux:pass	_	_
+7	sóng	sóng	NOUN	N	_	9	obl:agent	_	_
+8	nhồi	nhồi	VERB	V	_	7	compound:vmod	_	_
+9	đập	đập	VERB	V	_	5	acl:tmod	_	_
+10	vào	vào	ADP	PRE	_	11	case	_	_
+11	thành	thành	NOUN	N	_	9	obl:comp	_	_
+12	tàu	tàu	NOUN	N	_	11	compound	_	_
+13	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 10 csubj:asubj	color:blue
-1	Ở	ở	ADP	Pre	_	3	case	_	_
-2	nhiều	nhiều	ADJ	Adj	_	3	advmod:adj	_	_
-3	đoạn	đoạn	NOUN	N	_	8	obl	_	_
-4	,	,	PUNCT	,	_	8	punct	_	_
-5	địa đạo	địa đạo	NOUN	N	_	8	nsubj	_	_
-6	ở	ở	ADP	Pre	_	7	case	_	_
-7	ngoài	ngoài	NOUN	N	_	8	obl	_	_
-8	to	to	ADJ	Adj	_	0	root	_	_
-9	,	,	PUNCT	,	_	13	punct	_	_
-10	sâu	sâu	ADJ	Adj	_	13	csubj:asubj	_	_
-11	vào	vào	ADP	Pre	_	12	case	_	_
-12	trong	trong	ADJ	Adj	_	10	obl:comp	_	_
-13	nhỏ	nhỏ	ADJ	Adj	_	8	conj	_	_
-14	lại	lại	ADV	Adv	_	13	compound:atov	_	_
-15	như	như	SCONJ	SC	_	16	case	_	_
-16	toi	toi	NOUN	N	_	13	obl	_	_
-17	nơm	nơm	NOUN	N	_	16	nmod	_	_
-18	cá	cá	NOUN	N	_	17	nmod	_	_
-19	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 csubj:asubj	color:blue
+1	Gần	gần	ADJ	Adj	_	5	csubj:asubj	_	_
+2	đó	đó	PRON	Pro	_	1	det:pmod	_	_
+3	cũng	cũng	ADV	Adv	_	5	advmod	_	_
+4	vừa	vừa	ADV	Adv	_	5	advmod	_	_
+5	mọc	mọc	VERB	V	_	0	root	_	_
+6	lên	lên	ADV	Adv	_	5	compound:dir	_	_
+7	một	một	NUM	Num	_	8	nummod	_	_
+8	nhà văn hóa	nhà văn hóa	NOUN	N	_	5	obj	_	_
+9	trị giá	trị giá	VERB	V	_	8	acl:subj	_	_
+10	khoảng	khoảng	ADJ	Adj	_	9	advmod:adj	_	_
+11	5	5	NUM	Num	_	13	nummod	_	_
+12	tỉ	tỉ	NUM	Num	_	11	flat:number	_	_
+13	đồng	đồng	NOUN	Nu	_	9	obj	_	_
+14	.	.	PUNCT	.	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 14 csubj:asubj	color:blue
+1	Ông	ông	NOUN	Nc	_	2	clf:det	_	_
+2	Phạm Xuân Ái	Phạm Xuân Ái	PROPN	NNP	_	19	parataxis	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	trưởng	trưởng	SYM	Z	_	2	appos:nmod	_	_
+5	ban	ban	NOUN	N	_	4	compound	_	_
+6	kinh tế	kinh tế	NOUN	N	_	4	nmod	_	_
+7	-	-	PUNCT	-	_	8	punct	_	_
+8	ngân sách	ngân sách	NOUN	N	_	6	conj	_	_
+9	hđnd	hđnd	NOUN	Ny	_	6	conj	_	_
+10	TP	tp	NOUN	Ny	_	9	nmod	_	_
+11	.	.	PUNCT	.	_	10	punct	_	_
+12	HCM	HCM	PROPN	NNP	_	10	compound	_	_
+13	:	:	PUNCT	:	_	2	punct	_	_
+14	băn khoăn	băn khoăn	ADJ	Adj	_	19	csubj:asubj	_	_
+15	của	của	ADP	Pre	_	17	case	_	_
+16	người	người	NOUN	Nc	_	17	clf:det	_	_
+17	dân	dân	NOUN	N	_	14	obl	_	_
+18	là	là	AUX	V	_	19	cop	_	_
+19	đúng	đúng	ADJ	Adj	_	0	root	_	_
+20	!	!	PUNCT	!	_	19	punct	_	_
 
 ~~~
 

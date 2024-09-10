@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ga_twittirish-dep-parataxis.html">parataxis</a></tt>.
 There are also 3 other language-specific subtypes of `parataxis`: <tt><a href="ga_twittirish-dep-parataxis-hashtag.html">parataxis:hashtag</a></tt>, <tt><a href="ga_twittirish-dep-parataxis-sentence.html">parataxis:sentence</a></tt>, <tt><a href="ga_twittirish-dep-parataxis-url.html">parataxis:url</a></tt>.
 
-204 nodes (1%) are attached to their parents as `parataxis:rt`.
+743 nodes (2%) are attached to their parents as `parataxis:rt`.
 
-203 instances of `parataxis:rt` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.99509803921569.
+741 instances of `parataxis:rt` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.77658142664872.
 
-The following 9 pairs of parts of speech are connected with `parataxis:rt`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (88; 43% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (68; 33% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (30; 15% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (10; 5% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `parataxis:rt`: <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (347; 47% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (226; 30% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (89; 12% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (46; 6% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (18; 2% instances), <tt><a href="ga_twittirish-pos-X.html">X</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ga_twittirish-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,13 +24,15 @@ The following 9 pairs of parts of speech are connected with `parataxis:rt`: <tt>
 # visual-style 4	fgColor:white
 # visual-style 4 1 parataxis:rt	color:blue
 1	RT	RT	SYM	_	_	4	parataxis:rt	_	_
-2	@sjsWORDS	@sjsWORDS	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
+2	@user267	@user267	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
 3	:	:	PUNCT	_	_	4	punct	_	_
-4	Oíche	oíche	NOUN	_	_	0	root	_	Lang=ga
-5	Shamhna	Samhain	NOUN	_	_	4	nmod	_	Lang=ga
-6	shona	sona	ADJ	_	_	4	amod	_	Lang=ga
-7	dhaoibh	do	ADP	_	_	4	obl:prep	_	Lang=ga
-8	x	x	SYM	_	_	4	parataxis	_	Lang=ga
+4	Uachatarán	uachatarán	NOUN	_	_	0	root	_	Lang=ga
+5	tofa	tofa	ADJ	_	_	4	amod	_	Lang=ga
+6	nua	nua	ADJ	_	_	4	amod	_	Lang=ga
+7	CLG	CLG	PROPN	_	_	4	nmod	_	Lang=ga
+8	Aogán	Aogán	PROPN	_	_	4	appos	_	Lang=ga
+9	Ó	ó	PART	_	_	8	flat:name	_	Lang=ga
+10	Fearghail	Fearghail	PROPN	_	_	8	flat:name	_	Lang=ga
 
 ~~~
 
@@ -38,17 +40,17 @@ The following 9 pairs of parts of speech are connected with `parataxis:rt`: <tt>
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 parataxis:rt	color:blue
-1	RT	RT	SYM	_	_	5	parataxis:rt	_	_
-2	@saolodheas	@saolodheas	PROPN	_	_	5	vocative:mention	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	5	punct	_	_
-4	@ComortasPeile13	@ComortasPeile13	PROPN	_	_	5	vocative:mention	_	Lang=ga
-5	Beimíd	bí	VERB	_	_	0	root	_	Lang=ga
-6	chughaibh	chuig	ADP	_	_	5	obl:prep	_	Lang=ga|SpaceAfter=No
-7	!	!	PUNCT	_	_	5	punct	_	_
-8	@AnGhaeltacht	@AnGhaeltacht	PROPN	_	_	5	vocative:mention	_	Lang=ga
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 parataxis:rt	color:blue
+1	RT	RT	SYM	_	_	6	parataxis:rt	_	_
+2	@user410	@user410	PROPN	_	_	6	vocative:mention	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	6	punct	_	_
+4	@user1450	@user1450	PROPN	_	_	6	vocative:mention	_	_
+5	@user779	@user779	PROPN	_	_	6	vocative:mention	_	_
+6	clucky	tar	VERB	_	_	0	root	_	Lang=en|NonCan=Transl
+7	ar	ár	DET	_	_	8	det:poss	_	CorrectForm=ár|Lang=ga
+8	la	lá	NOUN	_	_	6	nsubj	_	Lang=ga
 
 ~~~
 
@@ -56,20 +58,18 @@ The following 9 pairs of parts of speech are connected with `parataxis:rt`: <tt>
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 parataxis:rt	color:blue
-1	RT	RT	SYM	_	_	5	parataxis:rt	_	_
-2	@Fiona_Coronas14	@Fiona_Coronas14	PROPN	_	_	5	vocative:mention	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	5	punct	_	_
-4	@TG4TV	@TG4TV	PROPN	_	_	5	vocative:mention	_	_
-5	Ros	Ros	PROPN	_	_	0	root	_	Lang=ga
-6	na	an	DET	_	_	7	det	_	Lang=ga
-7	Rún	rún	PROPN	_	_	5	nmod	_	Lang=ga
-8	agus	agus	CCONJ	_	_	9	cc	_	Lang=ga
-9	Seó	seó	PROPN	_	_	5	conj	_	Lang=ga
-10	Spóirt	spórt	PROPN	_	_	9	nmod	_	Lang=ga|SpaceAfter=No
-11	!	!	PUNCT	_	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 parataxis:rt	color:blue
+1	RT	RT	SYM	_	_	4	parataxis:rt	_	_
+2	@user1514	@user1514	PROPN	_	_	4	vocative:mention	_	SpaceAfter=No
+3	:	:	PUNCT	_	_	4	punct	_	_
+4	Dia	Dia	PROPN	_	_	0	root	_	_
+5	daoibh	do	ADP	_	_	4	obl:prep	_	Lang=ga
+6	a	a	PART	_	_	7	case:voc	_	Lang=ga
+7	chairde	cara	NOUN	_	_	4	vocative	_	Lang=ga
+8	Gaeil	Gael	PROPN	_	_	7	nmod	_	Lang=ga
+9	👋	👋	SYM	_	_	4	discourse:emo	_	_
 
 ~~~
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 
-32218 tokens (11%) have a non-empty value of `Voice`.
-11271 types (22%) occur at least once with a non-empty value of `Voice`.
-4259 lemmas (15%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (30315; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1902; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+32219 tokens (11%) have a non-empty value of `Voice`.
+11272 types (22%) occur at least once with a non-empty value of `Voice`.
+4258 lemmas (15%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 3 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (30316; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1902; 1% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-30315 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
+30316 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22904; 76%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22140; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21339; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18551; 61%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15545; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="be_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (22904; 76%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22140; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21339; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18552; 61%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15545; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (22897; 76% of non-empty `Voice`): <em>можа, жыве, мае, затрымалі, сказаў, стала, кажа, пачалі, стаў, ёсьць</em>
+* `Act` (22898; 76% of non-empty `Voice`): <em>можа, жыве, мае, затрымалі, сказаў, стала, кажа, пачалі, стаў, ёсьць</em>
 * `Mid` (5199; 17% of non-empty `Voice`): <em>адбудзецца, адбываецца, далучайцеся, знаходзіцца, адбылася, адбылося, стала, далучыцца, далучайся, даведацца</em>
 * `Pass` (2219; 7% of non-empty `Voice`): <em>затрыманы, затрыманых, звязаныя, расстраляных, прысвечаны, вызвалены, затрыманага, затрыманыя, пабудаваны, створаны</em>
-* `EMPTY` (777): <em>можна, трэба, няма, варта, нельга, шкада, нар., гл., супраць, пам.</em>
+* `EMPTY` (776): <em>можна, трэба, няма, варта, нельга, шкада, гл., нар., супраць, пам.</em>
 
 <table>
   <tr><th>Paradigm <i>зрабіць</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Mid</tt></th></tr>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 `NOUN` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>падкастаў</em>
-* `EMPTY` (72552): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72685): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 ## Relations with Agreement in `Voice`
 

@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `orphan`: <tt><a href="la_llct-dep-orp
 17 nodes (0%) are attached to their parents as `orphan`.
 
 14 instances of `orphan` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.47058823529412.
+Average distance between parent and child is 7.94117647058824.
 
-The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (3; 18% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (3; 18% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt>-<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
+The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (3; 18% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (3; 18% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 15	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	13	conj	_	_
 16	aliquantum	aliquantus	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	1	conj	_	_
 17	quod	qui	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	22	nsubj	_	_
-18	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+18	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 19	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	21	case	_	_
 20	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	_
 21	casa	casa	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	22	obl	_	_
@@ -63,10 +63,10 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 38	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	39	case	_	_
 39	mensura	mensura	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	35	nmod	_	_
 40	modiorum	modius	NOUN	n|n|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur	35	orphan	_	_
-41	decem	decem	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	40	nummod	_	_
+41	decem	decem	NUM	m|m|-|-|-|-|-|-|-|-	NumForm=Word|NumType=Card	40	nummod	_	_
 42	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	43	cc	_	_
 43	sistariorum	sextarius	NOUN	n|n|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur	35	conj	_	_
-44	octo	octo	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	43	nummod	_	SpaceAfter=No
+44	octo	octo	NUM	m|m|-|-|-|-|-|-|-|-	NumForm=Word|NumType=Card	43	nummod	_	SpaceAfter=No
 45	,	,	PUNCT	Punc	_	46	punct	_	_
 46	terra	terra	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	1	conj	_	_
 47	vero	uero	ADV	d|d|-|-|-|-|-|-|-|-	_	46	discourse	_	_
@@ -95,12 +95,12 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 70	hominibus	homo	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	77	nsubj	_	_
 71	nostri	noster	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	70	det	_	_
 72	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	73	cc	_	_
-73	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	70	conj	_	_
+73	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Number=Plur|Person=1|PronType=Prs	70	conj	_	_
 74	inibi	inibi	ADV	d|d|-|-|-|-|-|-|-|-	_	77	advmod	_	_
 75	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	76	case	_	_
 76	societate	societas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	77	obl	_	_
 77	dati	do	VERB	t|t|-|p|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	68	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-78	abemus	habeo	AUX	v|v|1|p|p|i|a|-|-|-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	77	aux	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+78	abemus	habeo	AUX	v|v|1|p|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	77	aux	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 79	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
@@ -125,9 +125,9 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	9	nmod	_	_
 12	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
 13	quem	qui	PRON	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	14	obj	_	_
-14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-16	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+16	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	18	case	_	_
 18	Castagnolo	Castaneolum	PROPN	Propn|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	SpaceAfter=No
 19	,	,	PUNCT	Punc	_	18	punct	_	_
@@ -145,11 +145,11 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 31	insimul	insimul	ADV	d|d|-|-|-|-|-|-|-|-	_	33	orphan	_	_
 32	ipso	ipse	DET	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	33	det	_	_
 33	campo	campus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	_
-34	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	37	advmod	_	_
+34	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	37	advmod:lmod	_	_
 35	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	36	nmod	_	_
 36	oraculum	oraculum	NOUN	n|n|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	37	nsubj:pass	_	_
 37	constructum	construo	VERB	t|t|-|s|r|p|p|n|n|-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	33	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-38	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+38	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 39	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	40	cc	_	_
 40	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	33	conj	_	_
 41	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	50	advmod	_	_
@@ -161,9 +161,9 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 47	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	48	det	_	_
 48	via	uia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	44	conj	_	_
 49	publica	publicus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	48	amod	_	_
-50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 51	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	40	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-52	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	51	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+52	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	51	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 53	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	54	case	_	_
 54	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	33	orphan	_	SpaceAfter=No
 55	,	,	PUNCT	Punc	_	33	punct	_	_
@@ -173,8 +173,8 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 59	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	61	mark	_	_
 60	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	61	advmod:emph	_	_
 61	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	58	advcl:cmp	_	_
-62	quot	qui	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	72	nsubj	_	_
-63	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	72	obl:arg	_	_
+62	quot	quot	DET	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	72	nsubj	_	_
+63	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	72	obl:arg	_	_
 64	da	da	ADP	r|r|-|-|-|-|-|-|-|-	_	65	case	_	_
 65	Atriperto	Atripertus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	72	obl	_	SpaceAfter=No
 66	,	,	PUNCT	Punc	_	67	punct	_	_
@@ -202,14 +202,14 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 88	ipso	ipse	DET	p|p|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	89	det	_	_
 89	monte	mons	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	79	conj	_	_
 90	super	super	ADP	r|r|-|-|-|-|-|-|-|-	_	91	case	_	_
-91	se	se	PRON	p|p|3|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	92	obl	_	_
+91	se	sui	PRON	p|p|3|s|-|-|-|f|a|-	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	92	obl	_	_
 92	habentes	habeo	VERB	t|t|-|s|p|p|a|m|b|-	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	89	acl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
 93	,	,	PUNCT	Punc	_	75	punct	_	_
 94	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	95	cc	_	_
 95	cultus	cultus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	58	conj	_	_
 96	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	97	cc	_	_
 97	incultus	incultus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	95	conj	_	SpaceAfter=No
-98	,	,	PUNCT	Punc	_	95	punct	_	_
+98	,	,	PUNCT	Punc	_	100	punct	_	_
 99	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	100	det	_	_
 100	portione	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	58	dislocated:obj	_	_
 101	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	102	case	_	_
@@ -238,9 +238,9 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 11	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	9	nmod	_	_
 12	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	_
 13	quem	qui	PRON	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	14	obj	_	_
-14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	15	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-16	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+16	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 17	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	18	case	_	_
 18	Castagnolo	Castaneolum	PROPN	Propn|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	14	obl	_	SpaceAfter=No
 19	,	,	PUNCT	Punc	_	18	punct	_	_
@@ -258,11 +258,11 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 31	insimul	insimul	ADV	d|d|-|-|-|-|-|-|-|-	_	33	orphan	_	_
 32	ipso	ipse	DET	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	33	det	_	_
 33	campo	campus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	_
-34	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	37	advmod	_	_
+34	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	37	advmod:lmod	_	_
 35	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	36	nmod	_	_
 36	oraculum	oraculum	NOUN	n|n|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	37	nsubj:pass	_	_
 37	constructum	construo	VERB	t|t|-|s|r|p|p|n|n|-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	33	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-38	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+38	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 39	seo	seu	CCONJ	c|c|-|-|-|-|-|-|-|-	_	40	cc	_	_
 40	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	33	conj	_	_
 41	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	50	advmod	_	_
@@ -274,9 +274,9 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 47	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	48	det	_	_
 48	via	uia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	44	conj	_	_
 49	publica	publicus	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	48	amod	_	_
-50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+50	habere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	51	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 51	visu	uideo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	40	acl:relcl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-52	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	51	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+52	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	51	aux:pass	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 53	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	54	case	_	_
 54	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	33	orphan	_	SpaceAfter=No
 55	,	,	PUNCT	Punc	_	33	punct	_	_
@@ -286,8 +286,8 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 59	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	61	mark	_	_
 60	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	61	advmod:emph	_	_
 61	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	58	advcl:cmp	_	_
-62	quot	qui	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	72	nsubj	_	_
-63	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	72	obl:arg	_	_
+62	quot	quot	DET	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	72	nsubj	_	_
+63	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	72	obl:arg	_	_
 64	da	da	ADP	r|r|-|-|-|-|-|-|-|-	_	65	case	_	_
 65	Atriperto	Atripertus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	72	obl	_	SpaceAfter=No
 66	,	,	PUNCT	Punc	_	67	punct	_	_
@@ -315,14 +315,14 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 88	ipso	ipse	DET	p|p|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	89	det	_	_
 89	monte	mons	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	79	conj	_	_
 90	super	super	ADP	r|r|-|-|-|-|-|-|-|-	_	91	case	_	_
-91	se	se	PRON	p|p|3|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	92	obl	_	_
+91	se	sui	PRON	p|p|3|s|-|-|-|f|a|-	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	92	obl	_	_
 92	habentes	habeo	VERB	t|t|-|s|p|p|a|m|b|-	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	89	acl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
 93	,	,	PUNCT	Punc	_	75	punct	_	_
 94	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	95	cc	_	_
 95	cultus	cultus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	58	conj	_	_
 96	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	97	cc	_	_
 97	incultus	incultus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	95	conj	_	SpaceAfter=No
-98	,	,	PUNCT	Punc	_	95	punct	_	_
+98	,	,	PUNCT	Punc	_	100	punct	_	_
 99	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	100	det	_	_
 100	portione	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	58	dislocated:obj	_	_
 101	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	102	case	_	_

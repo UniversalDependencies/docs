@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 16	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	expl	_	_
 17	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	18	obj	_	_
 18	pàdé	pàdé	VERB	_	_	7	advcl	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	7	punct	_	SpacesAfter=\n\n
+19	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 
@@ -77,32 +77,32 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 15 xcomp	color:blue
-1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Ref=MATT_5.34|Gloss=but
-2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Ref=MATT_5.34|Gloss=i
-3	wí	wí	VERB	_	_	0	root	_	Ref=MATT_5.34|Gloss=said
-4	fún	fún	ADP	_	_	5	case	_	Ref=MATT_5.34|Gloss=unto
-5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	obl	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=you
-6	,	,	PUNCT	_	_	9	punct	_	Ref=MATT_5.34|Gloss=,
-7	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	Ref=MATT_5.34|Gloss=you
-8	má	má	AUX	_	_	9	aux	_	Ref=MATT_5.34|Gloss=not
-9	ṣe	ṣe	VERB	_	_	3	conj	_	Ref=MATT_5.34|Gloss=do
-10	búra	búra	VERB	_	_	9	compound:svc	_	Ref=MATT_5.34|Gloss=sware
-11	rárá	rárá	ADJ	_	_	10	nmod	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=nay
-12	,	,	PUNCT	_	_	9	punct	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=,
-13	:	:	PUNCT	_	_	9	punct	_	Ref=MATT_5.34|Gloss=:
-14	ìbáà	ìbáà	ADV	_	_	9	advmod	_	Ref=MATT_5.34|Gloss=even
-15	ṣe	ṣe	VERB	_	_	14	xcomp	_	Ref=MATT_5.34|Gloss=do
-16	ìfi	ìfi	VERB	_	_	15	compound:svc	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=using
-17	-	-	PUNCT	_	_	18	punct	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=-
-18	ọ̀run	ọ̀run	NOUN	_	_	16	nmod	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=heaven
-19	-	-	PUNCT	_	_	20	punct	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=-
-20	búra	búra	VERB	_	_	16	compound:svc	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=sware
-21	,	,	PUNCT	_	_	23	punct	_	Ref=MATT_5.34|Gloss=,
-22	nítorí	nítorí	SCONJ	_	_	23	case	_	Ref=MATT_5.34|Gloss=for
-23	ìtẹ́	ìtẹ́	NOUN	_	_	20	conj	_	Ref=MATT_5.34|Gloss=throne
-24	Ọlọ́run	Ọlọ́run	NOUN	_	_	23	nmod	_	Ref=MATT_5.34|Gloss=god
-25	ni	ni	PART	_	_	23	case	_	Ref=MATT_5.34|SpaceAfter=No|Gloss=is
-26	.	.	PUNCT	_	_	3	punct	_	Ref=MATT_5.34|Gloss=.
+1	Ṣùgbọ́n	ṣùgbọ́n	CCONJ	_	_	3	cc	_	Gloss=but|Ref=MATT_5.34
+2	èmi	èmi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=MATT_5.34
+3	wí	wí	VERB	_	_	0	root	_	Gloss=said|Ref=MATT_5.34
+4	fún	fún	ADP	_	_	5	case	_	Gloss=unto|Ref=MATT_5.34
+5	yín	yín	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	obl	_	Gloss=you|Ref=MATT_5.34|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=MATT_5.34
+7	Ẹ	ẹ	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	Gloss=you|Ref=MATT_5.34
+8	má	má	AUX	_	_	9	aux	_	Gloss=not|Ref=MATT_5.34
+9	ṣe	ṣe	VERB	_	_	3	conj	_	Gloss=do|Ref=MATT_5.34
+10	búra	búra	VERB	_	_	9	compound:svc	_	Gloss=sware|Ref=MATT_5.34
+11	rárá	rárá	ADJ	_	_	10	nmod	_	Gloss=nay|Ref=MATT_5.34|SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	Gloss=,|Ref=MATT_5.34|SpaceAfter=No
+13	:	:	PUNCT	_	_	9	punct	_	Gloss=:|Ref=MATT_5.34
+14	ìbáà	ìbáà	ADV	_	_	9	advmod	_	Gloss=even|Ref=MATT_5.34
+15	ṣe	ṣe	VERB	_	_	14	xcomp	_	Gloss=do|Ref=MATT_5.34
+16	ìfi	ìfi	VERB	_	_	15	compound:svc	_	Gloss=using|Ref=MATT_5.34|SpaceAfter=No
+17	-	-	PUNCT	_	_	18	punct	_	Gloss=-|Ref=MATT_5.34|SpaceAfter=No
+18	ọ̀run	ọ̀run	NOUN	_	_	16	nmod	_	Gloss=heaven|Ref=MATT_5.34|SpaceAfter=No
+19	-	-	PUNCT	_	_	20	punct	_	Gloss=-|Ref=MATT_5.34|SpaceAfter=No
+20	búra	búra	VERB	_	_	16	compound:svc	_	Gloss=sware|Ref=MATT_5.34|SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	Gloss=,|Ref=MATT_5.34
+22	nítorí	nítorí	SCONJ	_	_	23	case	_	Gloss=for|Ref=MATT_5.34
+23	ìtẹ́	ìtẹ́	NOUN	_	_	20	conj	_	Gloss=throne|Ref=MATT_5.34
+24	Ọlọ́run	Ọlọ́run	NOUN	_	_	23	nmod	_	Gloss=god|Ref=MATT_5.34
+25	ni	ni	PART	_	_	23	case	_	Gloss=is|Ref=MATT_5.34|SpaceAfter=No
+26	.	.	PUNCT	_	_	3	punct	_	Gloss=.|Ref=MATT_5.34
 
 ~~~
 

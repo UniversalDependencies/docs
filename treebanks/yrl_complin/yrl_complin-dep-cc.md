@@ -8,80 +8,81 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (1%) are attached to their parents as `cc`.
+92 nodes (1%) are attached to their parents as `cc`.
 
-15 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26666666666667.
+79 instances of `cc` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (8; 53% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (4; 27% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (2; 13% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (62; 67% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (19; 21% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 cc	color:blue
-1	Indé	indé	PRON	PRON	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	TokenRange=0:4
-2	rewewé	wewé	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=5:11
-3	yepé	yepé	PART	FRUST	Aspect=Frus	2	advmod	_	TokenRange=12:16
-4	kutara	kutara	ADV	ADV	_	2	advmod	_	SpaceAfter=No|TokenRange=17:23
-5	,	,	PUNCT	PUNCT	_	7	punct	_	TokenRange=23:24
-6	ma	ma	CCONJ	CCONJ	_	7	cc	_	TokenRange=25:27
-7	remaã	maã	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	conj	_	TokenRange=28:33
-8	mamentu	mamentu	ADV	ADV	_	9	advmod	_	TokenRange=34:41
-9	resika	sika	VERB	V	Number=Sing|Person=2|VerbForm=Fin	7	ccomp	_	SpaceAfter=No|TokenRange=42:48
-10	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=48:49
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cc	color:blue
+1	[...]	[...]	PUNCT	ELIP	_	2	punct	_	TokenRange=0:5
+2	remurari	murari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	0	root	_	TokenRange=6:14
+3	iké	iké	ADV	ADVDX	AdvType=Loc|Deixis=Prox|PronType=Dem	2	advmod	_	TokenRange=15:18
+4	u	u	CCONJ	CCONJ	_	5	cc	_	TokenRange=19:20
+5	remurari	murari	VERB	V	Number=Sing|Person=2|VerbForm=Fin	2	conj	_	TokenRange=21:29
+6	interior	interior	NOUN	N	Number=Sing	5	obl	_	OrigLang=pt|TokenRange=30:38
+7	kití	kití	ADP	ADP	AdpType=Post	6	case	_	TokenRange=39:43
+8	[...]	[...]	PUNCT	ELIP	PunctType=Elip	5	punct	_	TokenRange=44:49
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 cc	color:blue
-1	Kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	2	det	_	TokenRange=0:3
-2	maniaka	maniaka	NOUN	N	Number=Sing	4	obl	_	TokenRange=4:11
-3	irumu	irumu	ADP	ADP	_	2	case	_	TokenRange=12:17
-4	yamunhã	munhã	VERB	V	Number=Plur|Person=1|VerbForm=Fin	0	root	_	TokenRange=18:25
-5	meyú	meyú	NOUN	N	Number=Sing	4	obj	_	TokenRange=26:30
-6	asuí	asuí	CCONJ	CONJ	_	7	cc	_	TokenRange=31:35
-7	masuka	masuka	NOUN	N	Number=Sing	5	conj	_	SpaceAfter=No|TokenRange=36:42
-8	,	,	PUNCT	PUNCT	_	9	punct	_	TokenRange=42:43
-9	umeẽ	meẽ	VERB	V	Person=3|VerbForm=Fin	4	parataxis	_	TokenRange=44:48
-10	turusú	turusú	DET	IND	PronType=Ind	11	det	_	TokenRange=49:55
-11	tipiaka	tipiaka	NOUN	N	Number=Sing	9	obj	_	SpaceAfter=No|TokenRange=56:63
-12	.	.	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No|TokenRange=63:64
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 cc	color:blue
+1	Aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	TokenRange=0:2
+2	upiripana	piripana	VERB	V	Person=3|VerbForm=Fin	0	root	_	TokenRange=3:12
+3	kurí	kurí	PART	FUT	Tense=Fut	2	advmod	_	TokenRange=13:17
+4	maã-itá	maã	NOUN	N	Number=Plur	2	obj	_	TokenRange=18:25
+5	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=26:27
+6	mimbira	mimbira	NOUN	N	Number=Sing	2	iobj	_	TokenRange=28:35
+7	supé	supé	ADP	ADP	AdpType=Post	6	case	_	SpaceAfter=No|TokenRange=36:40
+8	,	,	PUNCT	PUNCT	_	10	punct	_	TokenRange=40:41
+9	i	i	PRON	PRON2	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=42:43
+10	mena	mena	NOUN	N	Number=Sing	6	conj	_	TokenRange=44:48
+11	supé	supé	ADP	ADP	AdpType=Post	10	case	_	TokenRange=49:53
+12	yuíri	yuíri	CCONJ	CCONJ	_	10	cc	_	SpaceAfter=No|TokenRange=54:59
+13	.	.	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No|TokenRange=59:60
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 cc	color:blue
-1	Resú	sú	VERB	V	Number=Sing|Person=2|VerbForm=Fin	9	advcl	_	TokenRange=0:4
-2	arama	arama	SCONJ	SCONJ	_	1	mark	_	TokenRange=5:10
-3	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=11:13
-4	ruka	uka	NOUN	N	Number=Sing|Rel=Cont	1	obl	_	TokenRange=14:18
-5	arama	arama	PART	FUT	Tense=Fut	4	acl:relcl	_	TokenRange=19:24
-6	waá	waá	PRON	REL	Number=Sing	5	nsubj	_	TokenRange=25:28
-7	kití	kití	ADP	ADP	_	4	case	_	SpaceAfter=No|TokenRange=29:33
-8	,	,	PUNCT	PUNCT	_	1	punct	_	TokenRange=33:34
-9	awá	awá	PRON	INT	PronType=Int	0	root	_	TokenRange=35:38
-10	taá	taá	PART	CQ	PartType=Int	9	advmod	_	TokenRange=39:42
-11	ne	ne	PRON	PRON2	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=43:45
-12	pilutu	pilutu	NOUN	N	Number=Sing	9	nsubj	_	SpaceAfter=No|TokenRange=46:52
-13	,	,	PUNCT	PUNCT	_	15	punct	_	TokenRange=52:53
-14	u	u	CCONJ	CCONJ	_	15	cc	_	TokenRange=54:55
-15	kristu	kristu	PROPN	PROPN	_	12	appos	_	TokenRange=56:62
-16	u	u	CCONJ	CCONJ	_	17	cc	_	TokenRange=63:64
-17	Yuruparí	yuruparí	PROPN	PROPN	_	15	conj	_	SpaceAfter=No|TokenRange=65:73
-18	?	?	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No|TokenRange=73:74
+# visual-style 16 15 cc	color:blue
+1	Pemusatambika	musatambika	VERB	V	Number=Plur|Person=2|VerbForm=Fin	0	root	_	TokenRange=0:13
+2	pe	pe	PRON	PRON2	Case=Gen|Number=Plur|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=14:16
+3	pi	pi	NOUN	N	Number=Sing	4	nmod:poss	_	TokenRange=17:19
+4	rapé	pé	NOUN	N	Number=Sing|Rel=Cont	1	obj	_	TokenRange=20:24
+5	ti	ti	PART	NEG	PartType=Neg|Polarity=Neg	8	advmod	_	TokenRange=25:27
+6	arama	arama	SCONJ	SCONJ	_	8	mark	_	TokenRange=28:33
+7	kurí	kurí	PART	FUT	Tense=Fut	8	advmod	_	TokenRange=34:38
+8	uyeréu	yeréu	VERB	V	Person=3|VerbForm=Fin	1	advcl	_	TokenRange=39:45
+9	uyumuapiri	yumuapiri	VERB	V	Person=3|VerbForm=Fin	8	advcl	_	TokenRange=46:56
+10	waá	waá	PRON	REL	Number=Sing|PronType=Rel	9	mark	_	MWEPOS=SCONJ|TokenRange=57:60
+11	upé	upé	ADP	ADP	AdpType=Post	10	fixed	_	TokenRange=61:64
+12	kwá	kwá	DET	DEMX	Deixis=Prox|Number=Sing|PronType=Dem	13	det	_	TokenRange=65:68
+13	alejadu	alejadu	NOUN	N	Number=Sing	9	nsubj	_	Orig=aleijado|OrigLang=pt|SpaceAfter=No|TokenRange=69:76
+14	,	,	PUNCT	PUNCT	_	16	punct	_	TokenRange=76:77
+15	ma	ma	CCONJ	CCONJ	_	16	cc	_	TokenRange=78:80
+16	puranga	puranga	ADJ	A	_	8	conj	_	TokenRange=81:88
+17	arama	arama	SCONJ	SCONJ	_	16	mark	_	TokenRange=89:94
+18	kurí	kurí	PART	FUT	Tense=Fut	16	advmod	_	TokenRange=95:99
+19	aé	aé	PRON	PRON	Number=Sing|Person=3|PronType=Prs	16	nsubj	_	SpaceAfter=No|TokenRange=100:102
+20	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=102:103
 
 ~~~
 

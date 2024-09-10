@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>first</em> (<tt><a href="en_atis-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.035088 (the average of all parts of speech is 1.143493).
+The form / lemma ratio of `ADV` is 1.035088 (the average of all parts of speech is 1.144766).
 
 The 1st highest number of forms (2) was observed with the lemma “early”: <em>earliest, early</em>.
 

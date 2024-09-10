@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.htm
 
 6087 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Hyph`.
 
-The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6087; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6086; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6080; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6069; 100%).
+The most frequent other feature values with which `NOUN` and `Hyph` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6087; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6080; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6061; 100%).
 
 `NOUN` tokens may have the following values of `Hyph`:
 

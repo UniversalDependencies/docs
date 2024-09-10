@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `CCONJ`
 
-There are 5 `CCONJ` lemmas (0%), 5 `CCONJ` types (0%) and 731 `CCONJ` tokens (3%).
-Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
+There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 732 `CCONJ` tokens (3%).
+Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>e, ou, nin, quer, máis</em>
+The 10 most frequent `CCONJ` lemmas: <em>e, ou, nin, quer, i, máis</em>
 
-The 10 most frequent `CCONJ` types:  <em>e, ou, nin, quer, máis</em>
+The 10 most frequent `CCONJ` types:  <em>e, ou, nin, quer, i, máis</em>
 
-The 10 most frequent ambiguous lemmas: <em>nin</em> (<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 1), <em>máis</em> (<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 99, <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>nin</em> (<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 15, <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 1), <em>i</em> (<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> 1), <em>máis</em> (<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 101, <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 591, <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 1), <em>quer</em> (<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1), <em>máis</em> (<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 97, <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -30,30 +30,30 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="gl_treegal-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.372032).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.384861).
 
 The 1st highest number of forms (1) was observed with the lemma “e”: <em>e</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “máis”: <em>máis</em>.
+The 2nd highest number of forms (1) was observed with the lemma “i”: <em>i</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “nin”: <em>nin</em>.
+The 3rd highest number of forms (1) was observed with the lemma “máis”: <em>máis</em>.
 
 `CCONJ` occurs with 1 features: <tt><a href="gl_treegal-feat-Polarity.html">Polarity</a></tt> (15; 2% instances)
 
 `CCONJ` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (716 tokens).
-Examples: <em>e, ou, quer, máis</em>
+The most frequent feature combination is `_` (717 tokens).
+Examples: <em>e, ou, quer, i, máis</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (700; 96% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (26; 4% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-flat.html">flat</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="gl_treegal-dep-cc.html">cc</a></tt> (701; 96% instances), <tt><a href="gl_treegal-dep-mark.html">mark</a></tt> (26; 4% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="gl_treegal-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (298; 41% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (226; 31% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (87; 12% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (68; 9% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (315; 43% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (226; 31% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (87; 12% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (52; 7% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (17; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-722 (99%) `CCONJ` nodes are leaves.
+723 (99%) `CCONJ` nodes are leaves.
 
 7 (1%) `CCONJ` nodes have one child.
 

@@ -111,4 +111,4 @@ This type is specific for Mbyá Guaraní. Additive pronouns are unspecified for 
 
 * [gun] _amboae_ “another / the other”
 
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:18 CEST -->

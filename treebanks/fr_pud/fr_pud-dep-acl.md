@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="fr_pud-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-149 nodes (1%) are attached to their parents as `acl`.
+150 nodes (1%) are attached to their parents as `acl`.
 
-147 instances of `acl` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.90604026845638.
+148 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.89333333333333.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (147; 99% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (148; 99% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -77,9 +77,9 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 8 acl	color:blue
 1	Le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
-2	Royal	royal	X	FW	_	14	nsubj	_	Proper=True
-3	National	national	X	FW	_	2	flat:foreign	_	Proper=True
-4	Park	Park	X	FW	_	2	flat:foreign	_	Proper=True
+2	Royal	royal	X	FW	Foreign=Yes	14	nsubj	_	Proper=True
+3	National	national	X	FW	Foreign=Yes	2	flat:foreign	_	Proper=True
+4	Park	Park	X	FW	Foreign=Yes	2	flat:foreign	_	Proper=True
 5	d'	de	ADP	IN	_	6	case	_	SpaceAfter=No
 6	Australie	Australie	PROPN	NNP	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	8	punct	_	_
@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 15	de	de	ADP	INDT	_	17	case	_	_
 16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	monde	monde	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
-18	à	à	ADP	IN	_	20	case	_	_
+18	à	à	ADP	IN	_	20	mark	_	_
 19	officiellement	officiellement	ADV	RB	_	20	advmod	_	_
 20	voir	voir	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 21	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_

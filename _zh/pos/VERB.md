@@ -20,4 +20,4 @@ Despite its use in copular constructions, 是 / _shì_ "be" is tagged as a verb 
 - 決定 / _juédìng_ "decide"
 - 有 / _yǒu_ "have; own; exist"
 - 是 / _shì_ "be; exist"
-<!-- Interlanguage links updated Po lis 14 15:34:38 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:43 CEST -->

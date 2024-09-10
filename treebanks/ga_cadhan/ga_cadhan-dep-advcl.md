@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (2%) are attached to their parents as `advcl`.
+75 nodes (2%) are attached to their parents as `advcl`.
 
-39 instances of `advcl` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.86666666666667.
+43 instances of `advcl` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.65333333333333.
 
-The following 11 pairs of parts of speech are connected with `advcl`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (37; 62% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (11; 18% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 15 pairs of parts of speech are connected with `advcl`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (43; 57% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (12; 16% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -71,30 +71,29 @@ The following 11 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 17 advcl	color:blue
-1	Do	do	PART	_	PartType=Vb	2	mark:prt	_	SpaceAfter=No
-2	fhreaguir	freagair	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-3	seision	seisean	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	6	punct	_	_
-5	agus	agus	CCONJ	_	_	6	cc	_	_
-6	adubhairt	abair	VERB	_	Mood=Ind|Tense=Past	2	conj	_	_
-7	sé	sé	PRON	_	Gender=Masc|Number=Sing|Person=3	6	nsubj	_	SpaceAfter=No
-8	;	;	PUNCT	_	_	9	punct	_	_
-9	cia	cé	PRON	_	PronType=Int	6	ccomp	_	_
-10	hé	é	PRON	_	Form=HPref|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	13	punct	_	_
-12	a	a	PART	_	PartType=Voc	13	case:voc	_	_
-13	thighearna	tiarna	NOUN	_	Case=Voc|Form=Len|Gender=Masc|Number=Sing	9	vocative	_	SpaceAfter=No
-14	,	,	PUNCT	_	_	13	punct	_	_
-15	dochum	chun	ADP	_	_	17	case	_	_
-16	gu	go	PART	_	PartType=Cmpl	17	mark:prt	_	_
-17	gcreidfinn	creid	VERB	_	Form=Ecl|Mood=Cnd|Number=Sing|Person=1	9	advcl	_	_
-18	ann	i	ADP	_	Gender=Masc|Number=Sing|Person=3	17	obl	_	SpaceAfter=No
-19	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\n
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 1 advcl	color:blue
+1	Bíodh	bí	VERB	_	Mood=Imp|Number=Sing|Person=3	14	advcl	_	_
+2	nar	is	AUX	_	Polarity=Neg|PronType=Rel|Tense=Past|VerbForm=Cop	3	cop	_	_
+3	dhiongmhála	diongbháil	ADJ	_	Degree=Pos|Form=Len	1	ccomp	_	_
+4	lat-sa	le	ADP	_	Number=Sing|Person=2|PronType=Emp	3	obl:prep	_	_
+5	ar	ar	ADP	_	_	6	case	_	_
+6	ttecht	teacht	NOUN	_	Form=Ecl|VerbForm=Inf	3	parataxis	_	_
+7	go	go	ADP	_	_	8	case	_	_
+8	háois	aois	NOUN	_	Case=Nom|Form=HPref|Gender=Fem|Number=Sing	6	obl	_	_
+9	ársachta	ársaíocht	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+10	beatha	beatha	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nsubj	_	_
+11	mesardha	measartha	ADJ	_	Case=Gen|Gender=Fem|Number=Sing	10	amod	_	_
+12	denas	denus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl:tmod	_	_
+13	dob	is	PART	_	Form=VF|PartType=Sup|Tense=Past|VerbForm=Cop	14	mark:prt	_	_
+14	fheárr	maith	ADJ	_	Degree=Cmp,Sup|Form=Len	0	root	_	_
+15	í	í	PRON	_	Gender=Fem|Number=Sing|Person=3	14	nsubj	_	_
+16	na	ná	SCONJ	_	_	17	mark	_	_
+17	braighdenas	braighdeanas	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

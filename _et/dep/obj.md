@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'dobj'
+title: 'obj'
 shortdef: 'direct object'
 udver: '2'
 ---
@@ -28,4 +28,4 @@ punct(murdnud-8,.-9)
 obj(killed,sheep)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:36 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:32 CEST -->

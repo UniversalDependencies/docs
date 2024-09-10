@@ -5,6 +5,9 @@ shortdef : 'temporal modifier'
 udver: '2'
 ---
 
+**⚠️ DEPRECATED: Beginning with the version 2.15 release,
+most English corpora will use the new [obl:unmarked]() relation instead. ⚠️**
+
 A temporal modifier is a subtype of the [obl]() relation: if the modifier is specifying a time, it is labeled as *tmod*.
 
 ~~~ sdparse
@@ -16,4 +19,4 @@ obl:tmod(swam, night)
 You need to turn in your homework by next week
 obl:tmod(turn, week)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:41 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:41 CEST -->

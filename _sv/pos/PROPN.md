@@ -2,6 +2,7 @@
 layout: postag
 title: 'PROPN'
 shortdef: 'proper noun'
+udver: '2'
 ---
 
 ### Definition
@@ -16,4 +17,4 @@ In Swedish proper nouns differ from common nouns in inflecting only for case, no
 - _Ingmar_, _Ingrid_
 - _Skåne_, _USA_
 - _Expressen_, _Pirelli_
-<!-- Interlanguage links updated Po lis 14 15:34:36 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:41 CEST -->

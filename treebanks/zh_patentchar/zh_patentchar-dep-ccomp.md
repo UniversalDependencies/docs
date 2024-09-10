@@ -8,94 +8,80 @@ udver: '2'
 
 This relation is universal.
 
-75 nodes (3%) are attached to their parents as `ccomp`.
+140 nodes (3%) are attached to their parents as `ccomp`.
 
-70 instances of `ccomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.50666666666667.
+112 instances of `ccomp` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.76428571428571.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (45; 60% instances), <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (21; 28% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="zh_patentchar-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="zh_patentchar-pos-PART.html">PART</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (108; 77% instances), <tt><a href="zh_patentchar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (29; 21% instances), <tt><a href="zh_patentchar-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_patentchar-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_patentchar-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 10 ccomp	color:blue
-1	1.	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
-2	一种	_	NUM	_	_	3	dep	_	SpaceAfter=No
-3	变电站	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
-4	的	_	PART	_	_	3	case	_	ExtPos=PART|SpaceAfter=No
-5	智能	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
-6	电子	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
-7	设备	_	NOUN	_	_	0	root	_	SpaceAfter=No
-8	，	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	用于	_	VERB	_	_	7	parataxis	_	SpaceAfter=No
-10	监视	_	VERB	_	_	9	ccomp	_	SpaceAfter=No
-11	及	_	CCONJ	_	_	12	cc	_	SpaceAfter=No
-12	分析	_	VERB	_	_	10	conj	_	SpaceAfter=No
-13	智能	_	NOUN	_	_	14	nmod	_	SpaceAfter=No
-14	变电站	_	NOUN	_	_	15	nsubj	_	SpaceAfter=No
-15	产生	_	VERB	_	_	17	acl	_	SpaceAfter=No
-16	的	_	PART	_	_	15	mark	_	SpaceAfter=No
-17	信息	_	NOUN	_	_	10	obj	_	SpaceAfter=No
-18	，	_	PUNCT	_	_	21	punct	_	SpaceAfter=No
-19	其	_	PRON	_	_	20	nmod	_	SpaceAfter=No
-20	特征	_	NOUN	_	_	21	nsubj	_	SpaceAfter=No
-21	在于	_	VERB	_	_	7	parataxis	_	SpaceAfter=No
-22	，	_	PUNCT	_	_	23	punct	_	SpaceAfter=No
-23	包括	_	VERB	_	_	21	ccomp	_	SpaceAfter=No
-24	：	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
+# visual-style 9 14 ccomp	color:blue
+1	1.	_	PUNCT	_	_	5	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+2	一种	_	DET	_	_	5	dep	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
+3	数据	_	NOUN	_	_	5	nmod	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+4	处理	_	VERB	_	_	5	acl	_	Gloss=_|SpaceAfter=No|Translit=chù_lǐ
+5	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+6	，	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+7	其	_	PRON	_	_	8	nmod	_	Gloss=_|SpaceAfter=No|Translit=qí
+8	特征	_	NOUN	_	_	9	nsubj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+9	在	_	VERB	_	_	5	parataxis	_	Gloss=_|SpaceAfter=No|Translit=zài
+10	于	_	ADP	_	_	14	mark	_	Gloss=_|SpaceAfter=No|Translit=yú
+11	，	_	PUNCT	_	_	14	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+12	所述	_	ADJ	_	_	13	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+13	方法	_	NOUN	_	_	14	nsubj	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+14	包括	_	VERB	_	_	9	ccomp	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
+15	：	_	PUNCT	_	_	9	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 ccomp	color:blue
-1	所述	_	ADJ	_	_	2	amod	_	SpaceAfter=No
-2	壳体	_	NOUN	_	_	3	obl	_	SpaceAfter=No
-3	内	_	PART	_	_	4	advmod	_	SpaceAfter=No
-4	容纳	_	VERB	_	_	0	root	_	SpaceAfter=No
-5	有	_	AUX	_	_	4	ccomp	_	SpaceAfter=No
-6	制冷剂	_	NOUN	_	_	4	obj	_	SpaceAfter=No
-7	；	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 7 ccomp	color:blue
-1	根据	_	ADP	_	_	11	case	_	SpaceAfter=No
-2	用户	_	NOUN	_	_	8	nmod	_	SpaceAfter=No
-3	在	_	ADP	_	_	8	dep	_	SpaceAfter=No
-4	预定	_	ADJ	_	_	5	amod	_	SpaceAfter=No
-5	时间段	_	NOUN	_	_	3	obl:arg	_	SpaceAfter=No
-6	内	_	PART	_	_	5	case	_	SpaceAfter=No
-7	通信	_	VERB	_	_	8	ccomp	_	SpaceAfter=No
-8	行为	_	NOUN	_	_	9	nsubj	_	SpaceAfter=No
-9	发生	_	VERB	_	_	11	acl	_	SpaceAfter=No
-10	的	_	PART	_	_	9	mark	_	SpaceAfter=No
-11	位置	_	NOUN	_	_	14	obl	_	SpaceAfter=No
-12	和	_	CCONJ	_	_	13	cc	_	SpaceAfter=No
-13	时间	_	NOUN	_	_	11	conj	_	SpaceAfter=No
-14	计算	_	VERB	_	_	0	root	_	SpaceAfter=No
-15	用户	_	NOUN	_	_	16	nsubj	_	SpaceAfter=No
-16	相对	_	VERB	_	_	22	acl	_	SpaceAfter=No
-17	于	_	ADP	_	_	18	case	_	SpaceAfter=No
-18	基站	_	NOUN	_	_	16	obl:arg	_	SpaceAfter=No
-19	的	_	PART	_	_	16	mark	_	SpaceAfter=No
-20	基站	_	NOUN	_	_	22	nmod	_	SpaceAfter=No
-21	常用	_	ADJ	_	_	22	amod	_	SpaceAfter=No
-22	指数	_	NOUN	_	_	14	obj	_	SpaceAfter=No
-23	；	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 ccomp	color:blue
+1	所述	_	ADJ	_	_	4	amod	_	Gloss=_|SpaceAfter=No|Translit=suǒ_shù
+2	主	_	NOUN	_	_	4	nmod	_	Gloss=_|SpaceAfter=No|Translit=zhǔ
+3	交换	_	VERB	_	_	4	acl	_	Gloss=_|SpaceAfter=No|Translit=jiāo_huàn
+4	芯片	_	NOUN	_	_	6	nsubj	_	Gloss=_|SpaceAfter=No|Translit=xīn_piàn
+5	，	_	PUNCT	_	_	4	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+6	用	_	VERB	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=yòng
+7	于	_	NOUN	_	_	6	obl:arg	_	Gloss=_|SpaceAfter=No|Translit=yú
+8	进行	_	VERB	_	_	7	ccomp	_	Gloss=_|SpaceAfter=No|Translit=jìn_xíng
+9	数据	_	NOUN	_	_	10	obl	_	Gloss=_|SpaceAfter=No|Translit=shù_jù
+10	传输	_	VERB	_	_	8	ccomp	_	Gloss=_|SpaceAfter=No|Translit=chuán_shū
+11	；	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=；
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 13 ccomp	color:blue
+1	1.	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=1.
+2	一种	_	NUM	_	_	6	nummod	_	Gloss=_|SpaceAfter=No|Translit=yī_zhǒng
+3	燃煤	_	VERB	_	_	4	acl	_	Gloss=_|SpaceAfter=No|Translit=rán_méi
+4	热值	_	NOUN	_	_	5	obl	_	Gloss=_|SpaceAfter=No|Translit=rè_zhí
+5	修正	_	VERB	_	_	6	acl	_	Gloss=_|SpaceAfter=No|Translit=xīu_zhèng
+6	方法	_	NOUN	_	_	0	root	_	Gloss=_|SpaceAfter=No|Translit=fāng_fǎ
+7	，	_	PUNCT	_	_	10	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+8	其	_	PRON	_	_	9	nmod	_	Gloss=_|SpaceAfter=No|Translit=qí
+9	特征	_	NOUN	_	_	10	nsubj	_	Gloss=_|SpaceAfter=No|Translit=tè_zhēng
+10	在	_	ADP	_	_	6	parataxis	_	CpdPos=VERB|Gloss=_|SpaceAfter=No|Translit=zài
+11	于	_	ADP	_	_	13	mark	_	Gloss=_|SpaceAfter=No|Translit=yú
+12	，	_	PUNCT	_	_	13	punct	_	Gloss=_|SpaceAfter=No|Translit=，
+13	包括	_	VERB	_	_	10	ccomp	_	Gloss=_|SpaceAfter=No|Translit=bāo_kuò
+14	：	_	PUNCT	_	_	6	punct	_	Gloss=_|SpaceAfter=No|Translit=：
 
 ~~~
 

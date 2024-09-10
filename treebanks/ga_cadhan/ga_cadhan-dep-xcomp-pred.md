@@ -8,30 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_cadhan-dep-xcomp.html">xcomp</a></tt>.
 
-106 nodes (3%) are attached to their parents as `xcomp:pred`.
+120 nodes (3%) are attached to their parents as `xcomp:pred`.
 
-106 instances of `xcomp:pred` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.14150943396226.
+119 instances of `xcomp:pred` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.175.
 
-The following 9 pairs of parts of speech are connected with `xcomp:pred`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (35; 33% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (30; 28% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (23; 22% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (6; 6% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 xcomp:pred	color:blue
-1	Ní	ní	PART	_	PartType=Vb|Polarity=Neg	2	advmod	_	_
-2	raibh	bí	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
-3	truaigh	trua	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-4	ar	ar	ADP	_	_	3	nmod	_	_
-5	bith	bith	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	fixed	_	_
-6	agam	ag	ADP	_	Number=Sing|Person=1	2	xcomp:pred	_	_
-7	dhi	de	ADP	_	Form=Len|Gender=Fem|Number=Sing|Person=3	2	obl:prep	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
-
-~~~
+The following 13 pairs of parts of speech are connected with `xcomp:pred`: <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (37; 31% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (36; 30% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (25; 21% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (6; 5% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_cadhan-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_cadhan-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_cadhan-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -48,6 +30,24 @@ The following 9 pairs of parts of speech are connected with `xcomp:pred`: <tt><a
 6	thiar	thiar	ADV	_	_	5	advmod	_	_
 7	dhíom	de	ADP	_	Form=Len|Number=Sing|Person=1	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 xcomp:pred	color:blue
+1	Ní	ní	PART	_	PartType=Vb|Polarity=Neg	2	advmod	_	_
+2	raibh	bí	VERB	_	Mood=Ind|Polarity=Neg|Tense=Past	0	root	_	_
+3	truaigh	trua	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+4	ar	ar	ADP	_	_	3	nmod	_	_
+5	bith	bith	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	fixed	_	_
+6	agam	ag	ADP	_	Number=Sing|Person=1	2	xcomp:pred	_	_
+7	dhi	de	ADP	_	Form=Len|Gender=Fem|Number=Sing|Person=3	2	obl:prep	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 

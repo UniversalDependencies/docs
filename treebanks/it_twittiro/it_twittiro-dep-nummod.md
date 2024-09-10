@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 14	.	.	PUNCT	FS	_	11	punct	_	_
 15	[	[	PUNCT	FB	_	16	punct	_	SpaceAfter=No
 16	skydark	skydark	X	X	_	1	parataxis	_	SpaceAfter=No
-17	]	]	PUNCT	FB	_	16	punct	_	SpaceAfter=\n
+17	]	]	PUNCT	FB	_	16	punct	_	SpacesAfter=\n
 
 ~~~
 

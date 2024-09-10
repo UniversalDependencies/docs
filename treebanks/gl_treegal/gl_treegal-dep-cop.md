@@ -13,7 +13,7 @@ This relation is universal.
 329 instances of `cop` (84%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.01272264631043.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (149; 38% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (107; 27% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (55; 14% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (54; 14% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (19; 5% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (150; 38% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (107; 27% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (55; 14% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (54; 14% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (19; 5% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	o	o	PRON	Ddms	Gender=Masc|Number=Sing|Person=3|PronType=Art	0	root	_	_
 6	de	de	ADP	P	AdpType=Prep	7	case	_	_
-7	Celulosas	Celulosas	PROPN	Sp00	_	5	nmod	_	SpaceAfter=No
+7	Celulosas	celulosa	NOUN	Scfp	_	5	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	Q.	_	5	punct	_	_
 
 ~~~

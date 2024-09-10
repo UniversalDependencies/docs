@@ -9,33 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>.
 
-17 nodes (0%) are attached to their parents as `flat`.
+11 nodes (0%) are attached to their parents as `flat`.
 
-17 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41176470588235.
+11 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.09090909090909.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 35% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 35% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat	color:blue
-1	Нал	нал	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	GTtags=Sg,Nom,Indef
-2	веле	веле	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	1	flat	_	GTtags=Sem/Plc,Sg,Nom,Indef
-3	пестэнть	пе	NOUN	N	Case=Ela|Definite=Def|Number=Sing	8	obl	_	GTtags=Sem/Plc,Sg,Ela,Def
-4	кол	кол	ADJ	A	_	5	amod	_	_
-5	вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	GTtags=Sg,Nom,Def
-6	тензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	8	obl:agent	_	GTtags=Pers,Sg3,Dat,Short
-7	кармась	кармамс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	8	aux:aspect	_	GTtags=IV,Ind,Prt1,ScSg3
-8	марявомо	марявомс	VERB	V	Case=Loc|Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf,Loc
-9	седе	седе	ADV	Adv	Degree=Cmp	10	advmod:cmp	_	GTtags=Comp
-10	сэтьмекс	сэтьме	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	GTtags=Der/MWN,N,SP,Tra,Indef|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	8	punct	_	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 55% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 36% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -47,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Сень	се	PRON	Pron	Case=Gen|Definite=Ind	2	det	_	GTtags=Gen,Indef
 2	лангсо	ланго	NOUN	N	Case=Ine|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	nmod:lmod	_	GTtags=Relator,Po,Ine
 3	сёрмадовксонтькак	сёрмадовкс	NOUN	N	Case=Gen|Clitic=Add|Definite=Def|Number=Sing	4	obj	_	GTtags=Sg,Gen,Def,Clitic=Gak
-4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
+4	ловнызь	ловномс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScPl3,OcSg3|SpaceAfter=No
 5	:	:	PUNCT	CLB	_	7	punct	_	_
 6	«	«	PUNCT	CLB	_	7	punct	_	GTtags=|SpaceAfter=No
 7	Ни	ни	X	X	_	4	parataxis	_	_
@@ -81,6 +60,34 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	тензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	9	obl	_	GTtags=Pers,Sg3,Dat,Short
 9	арась	арась	ADJ	A	Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Pres	4	conj	_	GTtags=Neg,Cop,Ind,Prs,ScSg3|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat	color:blue
+1	Неть	не	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Dem	2	det	_	GTtags=Dem,Pl,Nom,Indef
+2	куйметненьгак	куйме	NOUN	N	Case=Gen|Clitic=Add|Definite=Def|Number=Plur	11	obj	_	GTtags=Sem/Inanim_Cnt,Pl,Gen,Def,Clt/Gak|SpaceAfter=No
+3	,	,	PUNCT	CLB	_	4	punct	_	_
+4	кода	кода	ADV	Adv	AdvType=Man|PronType=Int	6	mark	_	GTtags=Interr,Manner
+5	валске	валске	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nmod	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
+6	мартон	мартонь	ADJ	A	Derivation=GenAttr	5	flat	_	GTtags=Der/GenAttr
+7	сенть	сесь	PRON	Pron	Case=Gen|Definite=Def|Number=Sing	2	conj	_	GTtags=Sg,Gen,Def
+8	,	,	PUNCT	CLB	_	7	punct	_	_
+9	истя	истя	ADV	Adv	_	11	advmod	_	_
+10	жо	жо	PART	Pcle	_	9	fixed	_	GTtags=Emph
+11	чукадинзе	чукадемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,ScSg3,OcPl3
+12	кудост	кудо	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Plur|Person[psor]=3	14	obl	_	GTtags=Sg,Gen,PxPl3
+13	перька	перька	ADP	Po	AdpType=Post|Case=Prl|Definite=Ind|Number=Sing	12	case	_	GTtags=Po,Prl,Sg,Nom,Indef
+14	пирявксонть	пирявкс	NOUN	N	Case=Gen|Definite=Def|Number=Sing	15	nmod	_	GTtags=Sem/Inanim_Cnt,Sg,Gen,Def
+15	потсо	потмо	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	16	obl:lmod	_	GTtags=Sem/Inanim_Cnt,SP,Ine,Indef
+16	каразь	карамс	VERB	V	Derivation=Ozj|VerbForm=Conv	17	acl	_	GTtags=Der/Озь,Ger
+17	латкинентень	латкине	NOUN	N	Case=Dat|Definite=Def|Number=Sing	11	obl	_	GTtags=Sem/Inanim_Cnt,Sg,Dat,Def|SpaceAfter=No
+18	.	.	PUNCT	CLB	_	11	punct	_	_
 
 ~~~
 

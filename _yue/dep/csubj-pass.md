@@ -31,4 +31,4 @@ When a clause is the passive subject of a verb, the `csubj:pass` relation is use
 8	people."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:20 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:03 CEST -->

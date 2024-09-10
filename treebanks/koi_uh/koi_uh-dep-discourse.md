@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (1%) are attached to their parents as `discourse`.
+7 nodes (1%) are attached to their parents as `discourse`.
 
-4 instances of `discourse` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+4 instances of `discourse` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.57142857142857.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 17% instances).
+The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> (1; 14% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PART.html">PART</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

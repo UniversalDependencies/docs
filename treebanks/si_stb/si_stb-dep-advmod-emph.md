@@ -22,17 +22,17 @@ The following 1 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 advmod:emph	color:blue
-1	සැබෑ	සැබෑ	ADV	_	_	8	advmod:emph	_	_
-2	ලෙස	ලෙස	ADP	_	AdpType=Post	1	case	_	_
-3	ම	ම	PART	_	_	1	dep	_	_
-4	ශ්‍රී	ශ්‍රී	PROPN	_	_	5	compound	_	_
-5	ලංකාව	ලංකා	PROPN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	10	nsubj	_	_
-6	කිරෙන්	කිරි	NOUN	_	Case=Ins|Definite=Def|Gender=Neut|Number=Sing	8	obl	_	_
-7	ස්වයංපෝෂිත	ස්වයංපෝෂ	VERB	_	Tense=Past|VerbForm=Part	10	acl	_	_
-8	කළ	කර	VERB	_	Mood=Pot|VerbForm=Inf	7	compound:lvc	_	_
-9	හැකි	හැකි	AUX	_	VerbForm=Part	8	aux	_	_
-10	රටකි	රට	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	_
-11	.	.	PUNCT	_	_	10	punct	_	_
+1	සැබෑ	සැබෑ	ADV	_	_	8	advmod:emph	_	Translit=sæbǣ|LTranslit=sæbǣ
+2	ලෙස	ලෙස	ADP	_	AdpType=Post	1	case	_	Translit=lesa|LTranslit=lesa
+3	ම	ම	PART	_	_	1	dep	_	Translit=ma|LTranslit=ma
+4	ශ්‍රී	ශ්‍රී	PROPN	_	_	5	compound	_	Translit=śrī|LTranslit=śrī
+5	ලංකාව	ලංකා	PROPN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	10	nsubj	_	Translit=laṁkāva|LTranslit=laṁkā
+6	කිරෙන්	කිරි	NOUN	_	Case=Ins|Definite=Def|Gender=Neut|Number=Sing	8	obl	_	Translit=kiren|LTranslit=kiri
+7	ස්වයංපෝෂිත	ස්වයංපෝෂ	VERB	_	Tense=Past|VerbForm=Part	10	acl	_	Translit=svayaṁpōṣita|LTranslit=svayaṁpōṣa
+8	කළ	කර	VERB	_	Mood=Pot|VerbForm=Inf	7	compound:lvc	_	Translit=kaḷa|LTranslit=kara
+9	හැකි	හැකි	AUX	_	VerbForm=Part	8	aux	_	Translit=hæki|LTranslit=hæki
+10	රටකි	රට	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	Translit=raṭaki|LTranslit=raṭa
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

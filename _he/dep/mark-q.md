@@ -18,4 +18,4 @@ mark:q(מייצגת, האם)
 האם היא מייצגת את ה עם ה הודי?
 
 “Does it represent the Indian people?”
-<!-- Interlanguage links updated Po lis 14 15:35:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:20 CEST -->

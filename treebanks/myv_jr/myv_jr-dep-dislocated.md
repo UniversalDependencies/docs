@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `dislocated`.
+12 nodes (0%) are attached to their parents as `dislocated`.
 
-9 instances of `dislocated` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.30769230769231.
+8 instances of `dislocated` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.41666666666667.
 
-The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 31% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 15% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 33% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 25% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 17% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -39,10 +39,10 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3 5 dislocated	color:blue
 1	Покш	покш	ADJ	A	_	2	amod	_	GTtags=|Gloss=big
 2	шишка	шишка	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	GTtags=Sg,Nom,Indef|Gloss=pine-cone
-3	кандан	кандомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg1|Gloss=bring
+3	кандан	кандомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg1|Gloss=bring
 4	—	—	PUNCT	PUNCT	_	5	punct	_	_
 5	пеште	пеште	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	dislocated	_	GTtags=Sg,Nom,Indef|Gloss=nut
-6	марто	марто	ADP	Adp	_	5	case	_	GTtags=COM|Gloss=with|SpaceAfter=No
+6	марто	марто	ADP	Po	AdpType=Post	5	case	_	GTtags=COM|Gloss=with|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Палько	Палько	PROPN	N	Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	dislocated	_	GTtags=Prop,Sem/Sur,Sg,Nom,Indef
 2	кудосонть	кудо	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sem/Plc,Sg,Ine,Def
 3	а	а	AUX	Pcle	Polarity=Neg	4	aux:neg	_	GTtags=Neg
-4	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+4	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

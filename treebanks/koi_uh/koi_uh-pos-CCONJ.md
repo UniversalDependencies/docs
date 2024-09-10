@@ -19,13 +19,13 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="koi_uh-pos-CCON
 
 
 * <em>и</em>
-  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 15: <em>Эта гижӧтыс Петрасянь , <b>и</b> сійӧ вайисӧ тӧн .</em>
+  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 15: <em>Ордчӧн мекӧт пукалӧ сьӧд тошока <b>и</b> гардчӧмкодь уссэза мужик .</em>
   * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>А мукӧдпырся семьяэзӧ пыравліс <b>и</b> гаж .</em>
 * <em>а</em>
-  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Мери босьтіс бронза , Питер – эзысь , <b>а</b> Джейн – зарни .</em>
+  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Томмес менӧ озӧ вежӧртӧ , <b>а</b> пӧриссес — кокаласӧ ...</em>
   * <tt><a href="koi_uh-pos-PART.html">PART</a></tt> 1: <em>Сія эз мун удж вылö , тшöктісö <b>а</b> .</em>
 * <em>да</em>
-  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Сія пондыліс чапкыны куритны <b>да</b> юны .</em>
+  * <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Окаліс Митя кыкнаннысӧ <b>да</b> пуксьӧтіс пызан сайӧ .</em>
   * <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Ме эг вермы сійӧ вӧтны , ӧддьӧн чожа котӧртіс <b>да</b> .</em>
 * <em>не</em>
   * <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2: <em>Ме татӧн <b>не</b> ӧтнам .</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="koi_uh-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.250569).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.249476).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 

@@ -41,8 +41,8 @@ The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 7 acl:relcl	color:blue
 1	100	100	NUM	U=-------	NumForm=Digit|NumType=Card	2	nummod	2:nummod	Translit=100|LTranslit=100
-2	கோடிக்க்	கோடி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:dat	Translit=kōṭikk|LTranslit=kōṭi
-3	உம்	உம்	PART	Tv-------	_	2	advmod:emph	2:advmod:emph	Translit=um|LTranslit=um
+2	கோடிக்க்	கோடி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	4	nmod	4:nmod:dat	LTranslit=kōṭi|Translit=kōṭikk
+3	உம்	உம்	PART	Tv-------	_	2	advmod:emph	2:advmod:emph	LTranslit=um|Translit=um
 4	அதிகமான	அதிகமான	ADJ	JJ-------	_	6	amod	6:amod	Translit=atikamāna|LTranslit=atikamāna
 5	மக்கள்	மக்கள்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	6	nmod	6:nmod:nom	Translit=makkaḷ|LTranslit=makkaḷ
 6	தொகை	தொகை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	7	obj	7:obj	Translit=tokai|LTranslit=tokai
@@ -50,8 +50,8 @@ The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 8	இந்தியாவில்	இந்தியா	PROPN	NEL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	11	obl	7:nsubj|11:obl:loc	Translit=intiyāvil|LTranslit=intiyā
 9	பொருளாதார	பொருளாதாரம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	10	nmod	10:nmod	Translit=poruḷātāra|LTranslit=poruḷātāram
 10	வளர்ச்சி	வளர்ச்சி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	11	nsubj	11:nsubj	Translit=vaḷarcci|LTranslit=vaḷarcci
-11	ஏற்பட்ட்	ஏற்படு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=ērpaṭṭ|LTranslit=ērpaṭu
-12	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	Translit=uḷḷatu|LTranslit=uḷ
+11	ஏற்பட்ட்	ஏற்படு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	LTranslit=ērpaṭu|Translit=ērpaṭṭ
+12	உள்ளது	உள்	AUX	VR-T3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	11	aux	11:aux	LTranslit=uḷ|Translit=uḷḷatu
 13	.	.	PUNCT	Z#-------	PunctType=Peri	11	punct	11:punct	Translit=.|LTranslit=.
 
 ~~~
@@ -75,8 +75,8 @@ The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 10	கணிப்பொறியில்	கணிப்பொறி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	13	obl	13:obl:loc	Translit=kaṇipporiyil|LTranslit=kaṇippori
 11	இணையதளங்களில்	இணையதளம்	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	13	obl	13:obl:loc	Translit=iṇaiyataḷaṅkaḷil|LTranslit=iṇaiyataḷam
 12	உலா	உலா	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	13	obj	13:obj	Translit=ulā|LTranslit=ulā
-13	வந்த்	வா	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=vant|LTranslit=vā
-14	உள்ளார்	உள்	AUX	VR-T3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	13	aux	13:aux	Translit=uḷḷār|LTranslit=uḷ
+13	வந்த்	வா	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	LTranslit=vā|Translit=vant
+14	உள்ளார்	உள்	AUX	VR-T3SHAA	Gender=Com|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|VerbForm=Fin|Voice=Act	13	aux	13:aux	LTranslit=uḷ|Translit=uḷḷār
 15	.	.	PUNCT	Z#-------	PunctType=Peri	13	punct	13:punct	Translit=.|LTranslit=.
 
 ~~~

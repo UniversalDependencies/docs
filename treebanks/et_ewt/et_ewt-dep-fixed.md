@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-105 nodes (0%) are attached to their parents as `fixed`.
+104 nodes (0%) are attached to their parents as `fixed`.
 
-105 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04761904761905.
+104 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03846153846154.
 
-The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (67; 64% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (16; 15% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (14; 13% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (67; 64% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (16; 15% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (14; 13% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,7 +33,7 @@ The following 10 pairs of parts of speech are connected with `fixed`: <tt><a hre
 9	,	,	PUNCT	Z	_	12	punct	12:punct	_
 10	nii	nii	ADV	D	_	12	advmod	12:advmod	_
 11	et	et	SCONJ	J	_	10	fixed	10:fixed	_
-12	lase	laskma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	8:conj	_
+12	lase	laskma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	0:root|8:conj	_
 13	ülesse	ülesse	ADV	D	_	12	compound:prt	12:compound	_
 
 ~~~
@@ -56,7 +56,7 @@ The following 10 pairs of parts of speech are connected with `fixed`: <tt><a hre
 9	minut	minut	NOUN	S	Case=Nom|Number=Sing	12	nsubj:cop	12:nsubj	_
 10	igal	iga	PRON	P	Case=Ade|Number=Sing|PronType=Tot	12	obl	12:obl	_
 11	pool	pool	ADV	D	_	10	fixed	10:fixed	_
-12	minut	minut	NOUN	S	Case=Par|Number=Sing	7	conj	7:conj	SpaceAfter=No
+12	minut	minut	NOUN	S	Case=Par|Number=Sing	7	conj	0:root|7:conj	SpaceAfter=No
 13	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 ~~~

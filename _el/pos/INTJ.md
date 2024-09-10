@@ -18,14 +18,13 @@ As a special case of interjection, we recognize feedback particles such as *yes*
 ### Examples
 
 -	*αμήν* "amen"
--	*άντε* 
+-	*άντε*, *άει* 
 -	*βρε*
 -	*καλέ*
 -	*ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos]()
 -	*όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg]()
 -	*ορίστε*
 -	*μα*
--	*εντάξει* / *edaxi* "alright, Okay"
 -	*λοιπόν* / *lipon* "well,so"
 -	*καλημέρα* / *kalimera* "goodmorning"
 -	*καληνύχτα* / *kalinichta* "goodnight"
@@ -37,4 +36,4 @@ As a special case of interjection, we recognize feedback particles such as *yes*
 Τριανταφυλλίδης, Μανόλης. 1941, Reprinted 2000. *Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων*: 203-205.
          
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:36 CEST -->

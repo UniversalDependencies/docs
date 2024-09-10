@@ -17,27 +17,25 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 parataxis	color:blue
-1	ו	ו	CCONJ	conj	_	3	cc	_	Ref=GEN_9.7
-2	אתם	אתם	PRON	prps	Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Ref=GEN_9.7
-3	פְּר֣וּ	פרה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=GEN_9.7
-4	ו	ו	CCONJ	conj	_	5	cc	_	Ref=GEN_9.7
-5	רבה	רבה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	conj	_	Ref=GEN_9.7
-6	שִׁרְצ֥וּ	שׁרץ	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	parataxis	_	Ref=GEN_9.7
-7	ב	ב	ADP	prep	_	9	case	_	Ref=GEN_9.7
-8	ה	ה	DET	art	PronType=Art	9	det	_	Ref=GEN_9.7
-9	ארץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	6	obl	_	Ref=GEN_9.7
-10	ו	ו	CCONJ	conj	_	11	cc	_	Ref=GEN_9.7
-11	רבה	רבה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	6	conj	_	Ref=GEN_9.7
-12	־	־	PUNCT	punct	_	14	punct	_	Ref=GEN_9.7|SpaceAfter=No
-13	ב	ב	ADP	prep	_	14	case	_	Ref=GEN_9.7
-14	היא	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	Ref=GEN_9.7
-15	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_9.7
-16	ס	ס	PUNCT	punct	_	3	punct	_	Ref=GEN_9.7
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 parataxis	color:blue
+1	וְ	ו	CCONJ	conj	_	6	cc	_	Gloss=and|Ref=GEN_43.13
+2	אֶת	את	ADP	prep	_	4	case	_	Gloss=<object marker>|Ref=GEN_43.13
+3	־	־	PUNCT	punct	_	2	punct	_	Ref=GEN_43.13|SpaceAfter=No
+4	אֲחִי	אח	NOUN	subs	Gender=Masc|Number=Sing	6	obj	_	Gloss=brother|Ref=GEN_43.13
+5	כֶ֖ם	אתם	PRON	prn	Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nmod:poss	_	Ref=GEN_43.13
+6	קָ֑חוּ	לקח	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Gloss=take|Ref=GEN_43.13
+7	וְ	ו	CCONJ	conj	_	8	cc	_	Gloss=and|Ref=GEN_43.13
+8	ק֖וּמוּ	קום	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	6	conj	_	Gloss=arise|Ref=GEN_43.13
+9	שׁ֥וּבוּ	שׁוב	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	8	parataxis	_	Gloss=return|Ref=GEN_43.13
+10	אֶל	אל	ADP	prep	_	13	case	_	Gloss=to|Ref=GEN_43.13|SpaceAfter=No
+11	־	־	PUNCT	punct	_	10	punct	_	Ref=GEN_43.13|SpaceAfter=No
+12	הָ	ה	DET	art	PronType=Art	13	det	_	Gloss=the|Ref=GEN_43.13
+13	אִֽישׁ	אישׁ	NOUN	subs	Gender=Masc|Number=Sing	9	obl	_	Gloss=man|Ref=GEN_43.13
+14	׃	׃	PUNCT	punct	_	6	punct	_	Ref=GEN_43.13
 
 ~~~
 
@@ -48,15 +46,15 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 parataxis	color:blue
-1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_9.20
-2	חלל	חלל	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_9.20
-3	נֹ֖חַ	נח	PROPN	nmpr	Gender=Masc|Number=Sing	4	nsubj	_	Ref=GEN_9.20
-4	אִ֣ישׁ	אישׁ	NOUN	subs	Gender=Masc|Number=Sing	2	parataxis	_	Ref=GEN_9.20
-5	ה	ה	DET	art	PronType=Art	6	det	_	Ref=GEN_9.20
-6	אדמה	אדמה	NOUN	subs	Gender=Fem|Number=Sing	4	compound:smixut	_	Ref=GEN_9.20
-7	ו	ו	CCONJ	conj	_	8	cc	_	Ref=GEN_9.20
-8	נטע	נטע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Ref=GEN_9.20
-9	כָּֽרֶם	כרם	NOUN	subs	Number=Sing	8	obj	_	Ref=GEN_9.20|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_9.20
+2	יָּ֥חֶל	חלל	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=defile|Ref=GEN_9.20
+3	נֹ֖חַ	נח	PROPN	nmpr	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Noah|Ref=GEN_9.20
+4	אִ֣ישׁ	אישׁ	NOUN	subs	Gender=Masc|Number=Sing	2	parataxis	_	Gloss=man|Ref=GEN_9.20
+5	הָֽ	ה	DET	art	PronType=Art	6	det	_	Gloss=the|Ref=GEN_9.20
+6	אֲדָמָ֑ה	אדמה	NOUN	subs	Gender=Fem|Number=Sing	4	compound:smixut	_	Gloss=soil|Ref=GEN_9.20
+7	וַ	ו	CCONJ	conj	_	8	cc	_	Gloss=and|Ref=GEN_9.20
+8	יִּטַּ֖ע	נטע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Gloss=plant|Ref=GEN_9.20
+9	כָּֽרֶם	כרם	NOUN	subs	Number=Sing	8	obj	_	Gloss=vineyard|Ref=GEN_9.20|SpaceAfter=No
 10	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_9.20
 
 ~~~
@@ -68,15 +66,15 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 parataxis	color:blue
-1	ו	ו	CCONJ	conj	_	3	cc	_	Ref=RUTH_4.18
-2	אלה	אלה	PRON	prde	Number=Plur|PronType=Dem	3	nsubj	_	Ref=RUTH_4.18
-3	תֹּולְדֹ֣ות	תולדות	NOUN	subs	Gender=Fem|Number=Plur	0	root	_	Ref=RUTH_4.18
-4	פָּ֔רֶץ	פרץ	PROPN	nmpr	Gender=Masc|Number=Sing	3	compound:smixut	_	Ref=RUTH_4.18
-5	פֶּ֖רֶץ	פרץ	PROPN	nmpr	Gender=Masc|Number=Sing	6	nsubj	_	Ref=RUTH_4.18
-6	הֹולִ֥יד	ילד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	3	parataxis	_	Ref=RUTH_4.18
-7	אֶת	את	ADP	prep	_	9	case	_	Ref=RUTH_4.18|SpaceAfter=No
+1	וְ	ו	CCONJ	conj	_	3	cc	_	Gloss=and|Ref=RUTH_4.18
+2	אֵ֨לֶּה֙	אלה	PRON	prde	Number=Plur|PronType=Dem	3	nsubj	_	Gloss=these|Ref=RUTH_4.18
+3	תֹּולְדֹ֣ות	תולדות	NOUN	subs	Gender=Fem|Number=Plur	0	root	_	Gloss=generations|Ref=RUTH_4.18
+4	פָּ֔רֶץ	פרץ	PROPN	nmpr	Gender=Masc|Number=Sing	3	compound:smixut	_	Gloss=Perez|Ref=RUTH_4.18
+5	פֶּ֖רֶץ	פרץ	PROPN	nmpr	Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Perez|Ref=RUTH_4.18
+6	הֹולִ֥יד	ילד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	3	parataxis	_	Gloss=bear|Ref=RUTH_4.18
+7	אֶת	את	ADP	prep	_	9	case	_	Gloss=<object marker>|Ref=RUTH_4.18|SpaceAfter=No
 8	־	־	PUNCT	punct	_	7	punct	_	Ref=RUTH_4.18|SpaceAfter=No
-9	חֶצְרֹֽון	חצרון	PROPN	nmpr	Gender=Masc|Number=Sing	6	obj	_	Ref=RUTH_4.18|SpaceAfter=No
+9	חֶצְרֹֽון	חצרון	PROPN	nmpr	Gender=Masc|Number=Sing	6	obj	_	Gloss=Hezron|Ref=RUTH_4.18|SpaceAfter=No
 10	׃	׃	PUNCT	punct	_	3	punct	_	Ref=RUTH_4.18
 
 ~~~

@@ -8,62 +8,61 @@ udver: '2'
 
 This relation is universal.
 
-1535 nodes (3%) are attached to their parents as `cop`.
+4159 nodes (2%) are attached to their parents as `cop`.
 
-815 instances of `cop` (53%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57980456026059.
+2643 instances of `cop` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.56095215195961.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (433; 28% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (392; 26% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (330; 21% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (159; 10% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (118; 8% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (65; 4% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 cop	color:blue
-1	лихое	лихъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	nsubj	_	Ref=MATT_5.37
-2	бо	бо	ADV	Df	_	5	discourse	_	Ref=MATT_5.37
-3	сеѭ	сь	ADJ	Pd	Case=Gen|Gender=Neut|Number=Dual	1	iobj	_	Ref=MATT_5.37
-4	отъ	отъ	ADP	R-	_	5	case	_	Ref=MATT_5.37
-5	неприѣзни	неприꙗзнь	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	0	root	_	Ref=MATT_5.37
-6	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	Ref=MATT_5.37
-
-~~~
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="cu_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (1295; 31% instances), <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (1053; 25% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (959; 23% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (412; 10% instances), <tt><a href="cu_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (275; 7% instances), <tt><a href="cu_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (100; 2% instances), <tt><a href="cu_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (43; 1% instances), <tt><a href="cu_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="cu_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 cop	color:blue
-1	бѫдѣте	бꙑти	AUX	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Ref=MATT_5.48
-2	оубо	оубо	ADV	Df	_	4	discourse	_	Ref=MATT_5.48
-3	вꙑ	вꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Ref=MATT_5.48
-4	съвръшени	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	Ref=MATT_5.48
-5	ѣко	ꙗко	ADV	Dq	PronType=Rel	10	advmod	_	Ref=MATT_5.48
-6	и	и	ADV	Df	_	7	advmod	_	Ref=MATT_5.48
-7	отецъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	Ref=MATT_5.48
-8	вашъ	вашь	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	7	nmod	_	Ref=MATT_5.48
-9	н҃бскꙑ	небесьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	Ref=MATT_5.48
-10	съвръшенъ	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	advcl	_	Ref=MATT_5.48
-11	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Ref=MATT_5.48
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 cop	color:blue
-1	Слꙑшасте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=MATT_5.27
-2	ѣко	ꙗко	SCONJ	G-	_	3	mark	_	Ref=MATT_5.27
-3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	ccomp	_	Ref=MATT_5.27
-4	бꙑⷭ҇	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	Ref=MATT_5.27
-5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	iobj	_	Ref=MATT_5.27
+# visual-style 3 2 cop	color:blue
+1	тꙑ	тꙑ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=76.15
+2	есі	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=76.15
+3	б҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=76.15
+4	творѩї	творити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	ref=76.15
+5	чюдеса	чоудо	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	ref=76.15
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 cop	color:blue
+1	Рѫкама	рѫка	NOUN	Nb	Case=Ins|Gender=Fem|Number=Dual	4	orphan	_	ref=76.3
+2	моіма	рѫка	DET	Ps	Case=Ins|Gender=Fem|Number=Dual|Person=1|Poss=Yes	1	det	_	ref=76.3
+3	ноштьѭ	нощь	NOUN	Nb	Case=Ins|Gender=Fem|Number=Sing	4	orphan	_	ref=76.3
+4	оутѣшеніе	оутѣшениѥ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	0	root	_	ref=76.3
+5	прѣдъ	прѣдъ	ADP	R-	_	6	case	_	ref=76.3
+6	німь	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	orphan	_	ref=76.3
+7	і	и	CCONJ	C-	_	9	cc	_	ref=76.3
+8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=76.3
+9	прѣльштенъ	прѣльстити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	ref=76.3
+10	бꙑхъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=76.3
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 cop	color:blue
+1	Подвіжа	подвижати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=76.19
+2	сѩ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl:pv	_	ref=76.19
+3	ї	и	CCONJ	C-	_	4	cc	_	ref=76.19
+4	трепетьна	трепетьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	1	conj	_	ref=76.19
+5	бꙑстъ	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	ref=76.19
+6	землѣ	землꙗ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=76.19
 
 ~~~
 

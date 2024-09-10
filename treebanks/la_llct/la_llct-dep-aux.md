@@ -9,29 +9,26 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="la_llct-dep-aux-pass.html">aux:pass</a></tt>.
 
-24 nodes (0%) are attached to their parents as `aux`.
+444 nodes (0%) are attached to their parents as `aux`.
 
-18 instances of `aux` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.95833333333333.
+351 instances of `aux` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12387387387387.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (22; 92% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (442; 100% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 aux	color:blue
-1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	4	cc	_	_
-2	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
-3	Dulciolus	Dulciolus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-4	professus	profiteor	VERB	t|t|-|s|r|p|a|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Participium|TraditionalTense=Perfectum
-5	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
-7	manifestavit	manifesto	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-8	dicens	dico	VERB	t|t|-|s|p|p|a|m|n|-	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	4	xcomp	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
-9	:	:	PUNCT	Punc	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 aux	color:blue
+1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	3	cc	_	_
+2	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	tenentem	teneo	VERB	t|t|-|s|p|p|a|m|a|-	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	TraditionalMood=Participium|TraditionalTense=Praesens
+4	ipsum	ipse	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+5	gahagium	gahagium	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	SpaceAfter=No
+6	;	;	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
@@ -60,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 16	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot	13	conj	_	_
 17	volo	uolo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 18	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	4	mark	_	_
-19	sit	sum	AUX	v|v|3|s|p|s|a|-|-|-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
+19	sit	sum	AUX	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 20	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	21	case	_	_
 21	potestatem	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	4	nmod	_	_
 22	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	4	advmod:emph	_	_
@@ -82,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 38	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	39	amod	_	_
 39	Agathe	Agatha	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
 40	,	,	PUNCT	Punc	_	44	punct	_	_
-41	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	45	advmod	_	_
+41	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	45	advmod:lmod	_	_
 42	Auripert	Auripertus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	44	nsubj:pass	_	_
 43	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	42	appos	_	_
 44	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	36	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
@@ -109,7 +106,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 65	facinoribus	facinus	NOUN	n|n|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur	68	obl	_	_
 66	nostris	noster	DET	a|a|1|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	65	det	_	_
 67	liveram	liber	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	68	xcomp	_	_
-68	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	69	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+68	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	69	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 69	diveas	debeo	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 70	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	78	cc	_	_
 71	cartula	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Degree=Dim|Gender=Fem|Number=Sing	77	obj	_	_
@@ -118,7 +115,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 74	omnis	omnis	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Tot	75	det	_	_
 75	condicionis	conditio	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	77	obl	_	_
 76	eis	is	PRON	p|p|-|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	77	obl:arg	_	_
-77	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	78	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+77	emittere	emitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	78	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 78	diveas	debeo	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	69	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 79	;	;	PUNCT	Punc	_	17	punct	_	_
 
@@ -133,7 +130,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 79 83 aux	color:blue
 1	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	2	advmod:lmod	_	_
 2	spondeo	spondeo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	det	_	_
+3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	det	_	_
 4	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
 5	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	4	fixed	_	_
 6	Bingulus	Bingulus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -168,10 +165,10 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 35	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	38	mark	_	_
 36	ea	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	conj	_	_
 37	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	38	obl:arg	_	_
-38	intentionaverimus	intentiono	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	55	advcl	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+38	intentionaverimus	intentiono	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	55	advcl	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 39	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	41	cc	_	_
-40	retragi	retraho	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	41	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-41	quesierimus	quaero	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	38	conj	_	TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+40	retragi	retraho	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Pass	41	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+41	quesierimus	quaero	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	38	conj	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 42	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	44	case	_	_
 43	quolibet	quilibet	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	44	det	_	_
 44	ingenio	ingenium	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	38	obl	_	_
@@ -181,15 +178,15 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 48	homine	homo	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	51	obl	_	_
 49	ea	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	51	obj	_	_
 50	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	51	obl:arg	_	_
-51	defendere	defendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	53	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+51	defendere	defendo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	53	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 52	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	53	advmod:neg	_	_
-53	potuerimus	possum	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	38	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+53	potuerimus	possum	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	38	conj	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 54	,	,	PUNCT	Punc	_	38	punct	_	_
 55	promitto	promitto	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-56	me	ego	PRON	p|p|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	59	nsubj	_	_
+56	me	ego	PRON	p|p|1|s|-|-|-|m|a|-	Case=Acc|Number=Sing|Person=1|PronType=Prs	59	nsubj	_	_
 57	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	58	case	_	_
 58	heredibus	heres	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	59	obl	_	_
-59	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	55	ccomp:relcl	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+59	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	55	ccomp:relcl	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 60	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	59	obl:arg	_	_
 61	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	62	cc	_	_
 62	successoribus	successor	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	60	conj	_	_
@@ -212,8 +209,8 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 79	quid	quis	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	65	nmod	_	_
 80	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	81	cc	_	_
 81	qualis	qualis	DET	a|a|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	79	conj	_	_
-82	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	_	79	advmod	_	_
-83	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	79	aux	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=FuturumExactum
+82	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	79	advmod:tmod	_	_
+83	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	79	aux	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Futurum
 84	.	.	PUNCT	Punc	_	2	punct	_	_
 
 ~~~

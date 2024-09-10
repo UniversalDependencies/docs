@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADP` and `AdpType` co-occurre
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1293; 100%),
+<tt>ADP --[<tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (1292; 100%),
 <tt>ADP --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> ADP</tt> (19; 100%),
 <tt>ADP --[<tt><a href="ro_rrt-dep-case.html">case</a></tt>]--> ADP</tt> (9; 100%),
 <tt>ADP --[<tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt>]--> ADP</tt> (3; 100%),

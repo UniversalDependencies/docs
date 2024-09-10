@@ -26,4 +26,4 @@ obj(to-witness,this-48)
 * The [`orphan`](u-dep/orphan) relations actually correspond to an `obj`; in this co-ordination, all conjuncts but the last one are elliptical of *dignatus est testari* '[has] deigned to bear witness to'.
 
 <u>Note:</u> in general, the dislocated element does not need to be of the same form as the corresponding argument appearing in the matrix clause, and there can be alternation between clausal and nominal realisations. The subtype of `dislocated` depends on the type of the dislocated element, not on that of the argument in the matrix clause.  
-<!-- Interlanguage links updated Po lis 14 15:35:24 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:11 CEST -->

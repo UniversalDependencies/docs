@@ -29,4 +29,4 @@ We mark it as `DET` in this usage.
 ### References
 
 Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.  London: Routledge, 2005.
-<!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:36 CEST -->

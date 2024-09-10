@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Guajajara-TuDeT: Features: `Case`
 
 This feature is universal but the values `Equ`, `Ref` are language-specific.
-It occurs with 9 different values: `Abe`, `Abl`, `All`, `Dat`, `Equ`, `Loc`, `Ref`, `Tem`, `Tra`.
+It occurs with 8 different values: `Abe`, `Abl`, `Dat`, `Equ`, `Loc`, `Ref`, `Tem`, `Tra`.
 
 434 tokens (5%) have a non-empty value of `Case`.
 149 types (11%) occur at least once with a non-empty value of `Case`.
@@ -24,20 +24,19 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 * `Abe` (2; 1% of non-empty `Case`): <em>kwawparʔɨm, retanawʔɨm</em>
 * `Abl` (19; 6% of non-empty `Case`): <em>kaʔawi, tawi, zumenwi, Awi, ikupewi, pinowi, toʔomwi, uhɨwi, wɨrakawi, ɨwi</em>
-* `All` (39; 13% of non-empty `Case`): <em>kope, tawpe, ʔɨpe, kaʔape, ɨrɨhupe, tuzukpe, maiʔuhawpe, rekohawpe</em>
 * `Dat` (98; 32% of non-empty `Case`): <em>kwarerpe, zuʔipe, uhɨpe, hokope, zakarepe, upe, apitawpe, ipekupe, uhupe, wemirekope</em>
-* `Loc` (145; 48% of non-empty `Case`): <em>ɨpe, kaʔape, ʔɨwɨr, kope, tawpe, ʔɨpe, reme, wekohawpe, pepe, wanekohawpe</em>
+* `Loc` (184; 60% of non-empty `Case`): <em>kope, ɨpe, kaʔape, tawpe, ʔɨpe, ʔɨwɨr, reme, ɨrɨhupe, wekohawpe, pepe</em>
 * `Tem` (1; 0% of non-empty `Case`): <em>Ikuʔegwepe</em>
 * `Tra` (1; 0% of non-empty `Case`): <em>Azeharomoete</em>
 * `EMPTY` (2243): <em>iʔi, ɨ, kwarer, awa, heta, katu, zakare, miar, hoko, ihɨ</em>
 
 <table>
-  <tr><th>Paradigm <i>ʔɨ</i></th><th><tt>Loc</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>ɨpe, ʔɨwɨr, ʔɨpe, ɨ, ɨp, ɨpupe, ɨwɨr</em></td><td><em>ʔɨpe</em></td><td><em>ɨwi, ʔɨwi</em></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Dimin.html">Dimin</a></tt><tt>=Yes</tt></tt></td><td><em>ɨwɨraʔi</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt><tt>=Yes</tt></tt></td><td><em>ɨwɨraʔu</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt></tt></td><td><em>ɨpehar, ʔɨpehar</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td><em>reme, rɨme</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>ʔɨ</i></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>ɨpe, ʔɨpe, ʔɨwɨr, ɨ, ɨp, ɨpupe, ɨwɨr</em></td><td><em>ɨwi, ʔɨwi</em></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Degree.html">Degree</a></tt><tt>=Dim</tt></tt></td><td><em>ɨwɨraʔi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Emph.html">Emph</a></tt><tt>=Yes</tt></tt></td><td><em>ɨwɨraʔu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt></tt></td><td><em>ɨpehar, ʔɨpehar</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt><tt>=Cont</tt></tt></td><td><em>reme, rɨme</em></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -49,10 +48,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 `PRON` tokens may have the following values of `Case`:
 
 * `Abl` (7; 9% of non-empty `Case`): <em>aʔewi, Maʔewi, zanewi</em>
-* `All` (3; 4% of non-empty `Case`): <em>Maʔepe</em>
 * `Dat` (6; 8% of non-empty `Case`): <em>aʔepe, hawe, nepa, newe, omokatupe, zanewe</em>
 * `Equ` (8; 10% of non-empty `Case`): <em>Marazawe, Marazawen</em>
-* `Loc` (51; 65% of non-empty `Case`): <em>aʔepe, Maʔepe, Maʔenpete, aipope, akwezpe, parupi, pawpe</em>
+* `Loc` (54; 68% of non-empty `Case`): <em>aʔepe, Maʔepe, Maʔenpete, aipope, akwezpe, parupi, pawpe</em>
 * `Ref` (3; 4% of non-empty `Case`): <em>Aʔea, Aʔeʔi</em>
 * `Tem` (1; 1% of non-empty `Case`): <em>aʔere</em>
 * `EMPTY` (806): <em>aʔe, maʔe, ihe, paw, zane, amogwer, aʔeae, amo, ne, umaʔe</em>

@@ -32,18 +32,18 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1056): <em>_</em>
+* `EMPTY` (1080): <em>_</em>
 
 ### `DET`
 
 28 <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (28; 100%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="en_gumreddit-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (28; 100%).
 
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (28; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1207): <em>_</em>
+* `EMPTY` (1208): <em>_</em>
 
 ### `ADJ`
 
@@ -54,16 +54,16 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (19; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (975): <em>_</em>
+* `EMPTY` (976): <em>_</em>
 
 ### `INTJ`
 
-9 <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> tokens (15% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+9 <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> tokens (16% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (50): <em>_</em>
+* `EMPTY` (49): <em>_</em>
 
 ### `PRON`
 
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (1928): <em>_</em>
+* `EMPTY` (1960): <em>_</em>
 
 ### `NOUN`
 
@@ -85,5 +85,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>_</em>
-* `EMPTY` (2687): <em>_</em>
+* `EMPTY` (2657): <em>_</em>
 

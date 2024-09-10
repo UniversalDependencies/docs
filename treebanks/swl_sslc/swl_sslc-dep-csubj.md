@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 csubj	color:blue
-1	VARA	_	VERB	VB	_	3	cop	_	_
+1	VARA	_	AUX	VB	_	3	cop	_	_
 2	POSS1	_	PRON	PN	_	3	nmod:poss	_	_
 3	MÅLSÄTTNING	_	NOUN	NN	_	0	root	_	_
 4	FORTSÄTTA	_	VERB	VB	_	3	csubj	_	_
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	TILL	_	ADP	PP	_	1	case	_	_
 3	VARFÖR	_	ADV	AB	_	6	advmod	_	_
 4	PRO1	_	PRON	PN	_	6	nsubj	_	_
-5	BLI(L)	_	VERB	VB	_	6	cop	_	_
+5	BLI(L)	_	AUX	VB	_	6	cop	_	_
 6	DÖV	_	NOUN	NN	_	7	csubj	_	_
 7	VETA-INTE	_	VERB	VB	_	0	root	_	_
 

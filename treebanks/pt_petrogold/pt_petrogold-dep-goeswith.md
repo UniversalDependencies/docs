@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	carbonatos	carbonato	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 6	pautou	pautar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Se=pv
-7	se	se	PRON	_	_	6	expl:pv	_	_
+7	se	se	PRON	_	PronType=Prs	6	expl:pv	_	_
 8	em	em	ADP	_	_	10	case	_	_
 9	os	o	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	dados	dado	NOUN	_	Gender=Masc|Number=Plur	6	obl:arg	_	_

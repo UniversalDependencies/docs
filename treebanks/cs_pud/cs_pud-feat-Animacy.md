@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (443; 23% of non-empty `Animacy`): <em>lidí, lidé, obyvatel, prezident, člověk, investoři, král, lidi, muži, studenti</em>
 * `Inan` (1471; 77% of non-empty `Animacy`): <em>roce, roku, l, rok, případě, dolarů, důsledku, film, den, stát</em>
-* `EMPTY` (2568): <em>let, století, letech, době, území, období, oblasti, moře, války, místo</em>
+* `EMPTY` (2569): <em>let, století, letech, době, území, období, oblasti, moře, války, místo</em>
 
 <table>
   <tr><th>Paradigm <i>model</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -41,13 +41,13 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 868 <tt><a href="cs_pud-pos-ADJ.html">ADJ</a></tt> tokens (38% of all `ADJ` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (827; 95%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (809; 93%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (715; 82%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (715; 82%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (709; 82%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (468; 54%).
+The most frequent other feature values with which `ADJ` and `Animacy` co-occurred: <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (827; 95%), <tt><a href="cs_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (809; 93%), <tt><a href="cs_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (713; 82%), <tt><a href="cs_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (713; 82%), <tt><a href="cs_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (709; 82%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (468; 54%).
 
 `ADJ` tokens may have the following values of `Animacy`:
 
 * `Anim` (225; 26% of non-empty `Animacy`): <em>další, Islámští, Vedoucí, australští, dalšími, egyptský, generální, generálního, jistý, mladého</em>
 * `Inan` (643; 74% of non-empty `Animacy`): <em>Spojených, nové, další, nový, první, vládní, dalších, dalším, hlavní, nejvyšší</em>
-* `EMPTY` (1402): <em>první, další, druhé, jižní, nové, severní, velká, velké, jiné, vlastní</em>
+* `EMPTY` (1401): <em>první, další, druhé, jižní, nové, severní, velká, velké, jiné, vlastní</em>
 
 <table>
   <tr><th>Paradigm <i>velký</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -97,7 +97,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 * `Anim` (108; 58% of non-empty `Animacy`): <em>mohli, měli, rozhodli, bavili, dostali, neměli, potřebovali, požádali, stáli, tvořili</em>
 * `Inan` (79; 42% of non-empty `Animacy`): <em>měly, vypadaly, začaly, mohly, používaly, umožnily, vedly, vyvíjely, Následovaly, Podávaly</em>
-* `EMPTY` (1531): <em>řekl, má, může, říká, mohou, mají, mohl, měl, stal, lze</em>
+* `EMPTY` (1532): <em>řekl, má, může, říká, mohou, mají, mohl, měl, stal, lze</em>
 
 <table>
   <tr><th>Paradigm <i>mít</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -135,7 +135,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 * `Anim` (14; 27% of non-empty `Animacy`): <em>byli</em>
 * `Inan` (38; 73% of non-empty `Animacy`): <em>byly, nebyly</em>
-* `EMPTY` (632): <em>je, by, byl, bylo, byla, jsou, bude, být, jsem, není</em>
+* `EMPTY` (631): <em>je, by, byl, bylo, byla, jsou, bude, být, jsem, není</em>
 
 <table>
   <tr><th>Paradigm <i>být</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

@@ -91,10 +91,10 @@ The following 5 pairs of parts of speech are connected with `dislocated:csubj`: 
 6	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 7	,	,	PUNCT	Pu	_	5	punct	_	_
 8	se	sui	PRON	ppp3sfb	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	11	obj	_	_
-9	duobus	duo	NUM	aunpb	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur|NumType=Card	10	nummod	_	_
+9	duobus	duo	NUM	aunpb	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
 10	privilegiis	priuilegium	NOUN	snp2b	Case=Abl|Compound=Yes|Gender=Neut|InflClass=IndEurO|Number=Plur	12	obl	_	_
 11	actestatur	adtestor	VERB	vd1ips3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-12	preesse	praesum	VERB	va5fp	Aspect=Imp|VerbForm=Vnoun|Voice=Act	11	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+12	preesse	praesum	VERB	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	11	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 13	:	:	PUNCT	Pu	_	14	punct	_	_
 14	primo	primo	ADV	r	NumType=Ord	10	conj:expl	_	_
 15	quidem	quidem	PART	r	_	14	discourse	_	_
@@ -125,7 +125,7 @@ The following 5 pairs of parts of speech are connected with `dislocated:csubj`: 
 40	quia	quia	SCONJ	cs	PronType=Rel	42	mark	_	_
 41	magis	magis	ADV	rc	Degree=Cmp	43	advmod	_	_
 42	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	39	orphan	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-43	initi	innitor	VERB	vd3fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	42	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+43	initi	innitor	VERB	vd3fp	Aspect=Imp|InflClass=LatX|VerbForm=Inf|Voice=Pass	42	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 44	gramatice	gramatica	NOUN	sfs1d	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Sing	43	obl:arg	_	_
 45	que	qui	PRON	presfn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Rel	46	nsubj	_	_
 46	comunis	communis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	44	acl:relcl	_	_

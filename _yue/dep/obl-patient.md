@@ -26,4 +26,4 @@ The relation `obl:patient` is used for the ZOENG construction (similar to the Ma
 
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:40 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:40 CEST -->

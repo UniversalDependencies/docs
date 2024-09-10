@@ -23,10 +23,10 @@ The following 52 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nsubj	color:blue
-1	(за)	за	ADP	_	_	2	case	_	wf="за"|comment=reconstr|addr="050:_Средняя_часть:2а"|SpaceAfter=Yes
-2	радославомо	Радославъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="радославомо"|addr="050:_Средняя_часть:2а"|SpaceAfter=Yes
-3	дижѧ	дѣжа	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	wf="дижѧ"|meaning="как_мера_количества_зерна_и_т. п."|addr="050:_Средняя_часть:2а"|SpaceAfter=Yes
-4	сема<lbr/>ѧ	семыи	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	wf="семаѧ"|addr="050:_Средняя_часть:2а"|SpaceAfter=Yes
+1	(за)	за	ADP	_	_	2	case	_	wf="за"|comment=reconstr|addr="050:_Средняя_часть:2а"|_
+2	радославомо	Радославъ	PROPN	_	Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	0	root	_	wf="радославомо"|addr="050:_Средняя_часть:2а"|_
+3	дижѧ	дѣжа	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	wf="дижѧ"|meaning="как_мера_количества_зерна_и_т. п."|addr="050:_Средняя_часть:2а"|_
+4	сема<lbr/>ѧ	семыи	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	wf="семаѧ"|addr="050:_Средняя_часть:2а"|_
 
 ~~~
 
@@ -37,11 +37,11 @@ The following 52 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	…	…	PUNCT	_	_	3	punct	_	wf="…"|line_id=1|SpaceAfter=Yes
-2	тꙑ	ты	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	wf="тꙑ"|addr="016:1"|SpaceAfter=Yes
-3	пришл(и)	прислати	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="пришли"|addr="016:1"|SpaceAfter=Yes
-4	страдникꙑ	страдникъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	wf="страдникꙑ"|addr="016:1"|SpaceAfter=Yes
-5	…	…	PUNCT	_	_	3	punct	_	wf="…"|SpaceAfter=Yes
+1	…	…	PUNCT	_	_	3	punct	_	wf="…"|line_id=1|_
+2	тꙑ	ты	PRON	_	Case=Nom|Number=Sing|Person=2	3	nsubj	_	wf="тꙑ"|addr="016:1"|_
+3	пришл(и)	прислати	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	wf="пришли"|addr="016:1"|_
+4	страдникꙑ	страдникъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	wf="страдникꙑ"|addr="016:1"|_
+5	…	…	PUNCT	_	_	3	punct	_	wf="…"|_
 
 ~~~
 
@@ -52,13 +52,13 @@ The following 52 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 nsubj	color:blue
-1	ходилъ	ходити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="ходилъ"|tense=perf|addr="022:_Внешняя_сторона:2а"|line_id=2а|SpaceAfter=Yes
-2	·	·	PUNCT	_	_	3	punct	_	wf="·"|SpaceAfter=Yes
-3	ѻ̈сподину	осподинъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	wf="ѻ̈сподину"|addr="022:_Внешняя_сторона:2а"|SpaceAfter=Yes
-4	·	·	PUNCT	_	_	5	punct	_	wf="·"|SpaceAfter=Yes
-5	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	wf="снъ"|addr="022:_Внешняя_сторона:2а"|SpaceAfter=Yes
-6	мо(и)	мои	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	wf="мои"|addr="022:_Внешняя_сторона:2а"|SpaceAfter=Yes
-7	(…)	(…)	PUNCT	_	_	1	punct	_	wf="(…)"|SpaceAfter=Yes
+1	ходилъ	ходити	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	wf="ходилъ"|tense=perf|addr="022:_Внешняя_сторона:2а"|line_id=2а|_
+2	·	·	PUNCT	_	_	3	punct	_	wf="·"|_
+3	ѻ̈сподину	осподинъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	wf="ѻ̈сподину"|addr="022:_Внешняя_сторона:2а"|_
+4	·	·	PUNCT	_	_	5	punct	_	wf="·"|_
+5	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	wf="снъ"|addr="022:_Внешняя_сторона:2а"|_
+6	мо(и)	мои	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	det	_	wf="мои"|addr="022:_Внешняя_сторона:2а"|_
+7	(…)	(…)	PUNCT	_	_	1	punct	_	wf="(…)"|_
 
 ~~~
 

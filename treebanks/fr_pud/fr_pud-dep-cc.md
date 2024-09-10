@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	pub	pub	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
-6	se	se	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	_
+6	se	se	PRON	PRP	Person=3|PronType=Prs	7	obj	_	_
 7	termine	terminer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_
 

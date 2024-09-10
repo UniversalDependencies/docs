@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `DET`
 
-There are 17 `DET` lemmas (0%), 29 `DET` types (0%) and 1021 `DET` tokens (5%).
-Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 8 in number of tokens.
+There are 17 `DET` lemmas (0%), 28 `DET` types (0%) and 1015 `DET` tokens (5%).
+Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 9 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>en, den, denna, någon, all, varje, samma, the, ingen, A</em>
+The 10 most frequent `DET` lemmas: <em>en, den, de, denna, någon, all, varje, the, ingen, båda</em>
 
 The 10 most frequent `DET` types:  <em>en, den, ett, de, det, denna, varje, dessa, alla, detta</em>
 
-The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 453, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>den</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 418, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 39, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 1), <em>denna</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 49, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2), <em>någon</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 25, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 6), <em>samma</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 10, <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>ingen</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1), <em>vilken</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 3), <em>El</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>båda</em> (<tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2, <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 451, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>den</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 307, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 232, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 1), <em>de</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 113, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 83, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>denna</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 49, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2), <em>någon</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 25, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 6), <em>ingen</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1), <em>båda</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 5, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4), <em>vilken</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 3), <em>El</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 294, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 2), <em>den</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 189, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 24), <em>ett</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 129, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> 1), <em>de</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 96, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 60, <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> 2), <em>det</em> (<tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 137, <tt><a href="sv_pud-pos-DET.html">DET</a></tt> 70), <em>denna</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 2), <em>dessa</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 3), <em>alla</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 7), <em>detta</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 9, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 8), <em>några</em> (<tt><a href="sv_pud-pos-DET.html">DET</a></tt> 10, <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> 1)
 
@@ -55,17 +55,17 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_pud-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.705882 (the average of all parts of speech is 1.239021).
+The form / lemma ratio of `DET` is 1.647059 (the average of all parts of speech is 1.240849).
 
-The 1st highest number of forms (4) was observed with the lemma “en”: <em>de, det, en, ett</em>.
+The 1st highest number of forms (3) was observed with the lemma “all”: <em>all, alla, allt</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “all”: <em>all, alla, allt</em>.
+The 2nd highest number of forms (3) was observed with the lemma “denna”: <em>denna, dessa, detta</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “den”: <em>de, den, det</em>.
+The 3rd highest number of forms (3) was observed with the lemma “ingen”: <em>inga, ingen, inget</em>.
 
-`DET` occurs with 4 features: <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (1002; 98% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (992; 97% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (821; 80% instances), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (9; 1% instances)
+`DET` occurs with 4 features: <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt> (996; 98% instances), <tt><a href="sv_pud-feat-Number.html">Number</a></tt> (996; 98% instances), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt> (820; 81% instances), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt> (429; 42% instances)
 
-`DET` occurs with 8 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Int,Rel`
+`DET` occurs with 9 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Com`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Int,Rel`, `PronType=Tot`
 
 `DET` occurs with 20 feature combinations.
 The most frequent feature combination is `Definite=Ind|Gender=Com|Number=Sing` (323 tokens).
@@ -74,19 +74,19 @@ Examples: <em>en, någon, ingen, ett</em>
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="sv_pud-dep-det.html">det</a></tt> (1009; 99% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="sv_pud-dep-det.html">det</a></tt> (1004; 99% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="sv_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (961; 94% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (954; 94% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (33; 3% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances)
 
-999 (98%) `DET` nodes are leaves.
+995 (98%) `DET` nodes are leaves.
 
-20 (2%) `DET` nodes have one child.
+19 (2%) `DET` nodes have one child.
 
-2 (0%) `DET` nodes have two children.
+1 (0%) `DET` nodes have two children.
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 4 different relations: <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (18; 75% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (4; 17% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (1; 4% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (1; 4% instances)
+Children of `DET` nodes are attached using 2 different relations: <tt><a href="sv_pud-dep-fixed.html">fixed</a></tt> (18; 86% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (3; 14% instances)
 
-Children of `DET` nodes belong to 6 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (18; 75% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (2; 8% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 4% instances)
+Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (17; 81% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (2; 10% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1; 5% instances)
 

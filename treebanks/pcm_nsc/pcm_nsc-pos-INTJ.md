@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>eh</em> (<tt><a href="pcm_nsc-pos-INT
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.097826 (the average of all parts of speech is 1.162888).
+The form / lemma ratio of `INTJ` is 1.097826 (the average of all parts of speech is 1.162341).
 
 The 1st highest number of forms (3) was observed with the lemma “ehn”: <em>ehn, ehw, er</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (3) was observed with the lemma “uhn”: <em>u
 
 The 3rd highest number of forms (2) was observed with the lemma “OK”: <em>OK, okay</em>.
 
-`INTJ` occurs with 2 features: <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt> (36; 2% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
+`INTJ` occurs with 3 features: <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt> (36; 2% instances), <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt> (1; 0% instances)
 
-`INTJ` occurs with 2 feature-value pairs: `PartType=Cop`, `Polarity=Neg`
+`INTJ` occurs with 3 feature-value pairs: `ExtPos=PROPN`, `PartType=Cop`, `Polarity=Neg`
 
-`INTJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (2223 tokens).
+`INTJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (2222 tokens).
 Examples: <em>eh, ehn, ah, okay, ehen, toh, mtschew, hm, yes, aha</em>
 
 

@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>il</em> (<tt><a href="it_postwita-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 3.177778 (the average of all parts of speech is 1.310744).
+The form / lemma ratio of `DET` is 3.177778 (the average of all parts of speech is 1.310882).
 
 The 1st highest number of forms (16) was observed with the lemma “il”: <em>Lle, a, e, gli, i, il, in, io, kol, l, l', la, le, li, ll, lo</em>.
 

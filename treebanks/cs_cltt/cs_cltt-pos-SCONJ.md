@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: POS Tags: `SCONJ`
 
-There are 17 `SCONJ` lemmas (1%), 17 `SCONJ` types (0%) and 386 `SCONJ` tokens (1%).
+There are 17 `SCONJ` lemmas (1%), 17 `SCONJ` types (0%) and 379 `SCONJ` tokens (1%).
 Out of 15 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>pokud, jako, než, že, aby, zda, jestliže, jakož, až, jak</em>
+The 10 most frequent `SCONJ` lemmas: <em>pokud, jako, než, že, aby, jestliže, zda, jakož, až, jak</em>
 
-The 10 most frequent `SCONJ` types:  <em>pokud, jako, než, že, aby, zda, jestliže, jakož, až, jak</em>
+The 10 most frequent `SCONJ` types:  <em>pokud, jako, než, že, aby, jestliže, zda, jakož, až, jak</em>
 
-The 10 most frequent ambiguous lemmas: <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jak</em> (<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 29, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jak</em> (<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jak</em> (<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 29, <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>jak</em> (<tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 2)
 
 
 * <em>až</em>
-  * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 30: <em>(8) Ustanovení odstavců 1 <b>až</b> 7 platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .</em>
+  * <tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 29: <em>(8) Ustanovení odstavců 1 <b>až</b> 7 platí pro konsolidovanou účetní závěrku a výroční zprávu obdobně .</em>
   * <tt><a href="cs_cltt-pos-SCONJ.html">SCONJ</a></tt> 7: <em>(6) Ustanovení odstavců 1 <b>až</b> 5 se nepoužijí při změně právní formy a přeshraničním přemístění sídla .</em>
   * <tt><a href="cs_cltt-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Účetní jednotka , která sestavuje výkaz zisku a ztráty v účelovém členění , není povinna dodržet členění v účtových skupinách 50 až 55 a 60 <b>až</b> 64 ; členění přizpůsobí výkazu s přihlédnutím k povinnosti uvedené v §_39_odst._8 .</em>
 * <em>jak</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>až</em> (<tt><a href="cs_cltt-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.723629).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.713272).
 
 The 1st highest number of forms (1) was observed with the lemma “aby”: <em>aby</em>.
 
@@ -41,11 +41,11 @@ The 3rd highest number of forms (1) was observed with the lemma “až”: <em>a
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (365; 95% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (19; 5% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="cs_cltt-dep-mark.html">mark</a></tt> (358; 94% instances), <tt><a href="cs_cltt-dep-cc.html">cc</a></tt> (19; 5% instances), <tt><a href="cs_cltt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="cs_cltt-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (145; 38% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (115; 30% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (95; 25% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (21; 5% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (147; 39% instances), <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (113; 30% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (93; 25% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (21; 6% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cs_cltt-pos-X.html">X</a></tt> (1; 0% instances)
 
-385 (100%) `SCONJ` nodes are leaves.
+378 (100%) `SCONJ` nodes are leaves.
 
 1 (0%) `SCONJ` nodes have one child.
 

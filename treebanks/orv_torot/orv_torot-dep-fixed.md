@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `fixed`.
+558 nodes (0%) are attached to their parents as `fixed`.
 
-10 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+558 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07706093189964.
 
-The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href="orv_torot-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_torot-pos-SCONJ.html">SCONJ</a></tt> (9; 90% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1; 10% instances).
+The following 21 pairs of parts of speech are connected with `fixed`: <tt><a href="orv_torot-pos-DET.html">DET</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (171; 31% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (126; 23% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (110; 20% instances), <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (56; 10% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (23; 4% instances), <tt><a href="orv_torot-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_torot-pos-SCONJ.html">SCONJ</a></tt> (20; 4% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (15; 3% instances), <tt><a href="orv_torot-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (13; 2% instances), <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_torot-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-ADP.html">ADP</a></tt>-<tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="orv_torot-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_torot-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 fixed	color:blue
+1	в	въ	ADP	R-	_	4	case	_	ref=12
+2	то	тыиже	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	4	det	_	ref=12
+3	же	же	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	2	fixed	_	ref=12
+4	время	врѣмя	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	ref=12
+5	пришла	приити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=12
+6	с	съ	ADP	R-	_	7	case	_	ref=12
+7	москвы	москъва	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=12
+8	грамотка	грамотъка	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=12
+9	ко	къ	ADP	R-	_	10	case	_	ref=12
+10	мнѣ	азъ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obl	_	ref=12
+
+~~~
 
 
 ~~~ conllu
@@ -22,44 +42,32 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	елма	ельмаже	SCONJ	G-	_	3	mark	_	ref=
-2	же	же	SCONJ	G-	_	1	fixed	_	ref=
-3	съгрѣшихомъ	съгрѣшити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	ref=
-4	нъ	нъ	CCONJ	C-	_	6	cc	_	ref=
-5	тꙑ	ты	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	ref=
-6	оцѣсти	оцѣстити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+1	его	иже	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	3	obj	_	ref=13
+2	же	же	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	1	fixed	_	ref=13
+3	любит	любити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=13
+4	бг҃ъ	богъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=13
+5	того	тыи	PRON	Pd	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	ref=13
+6	ꙇ	и	ADV	Df	_	7	advmod	_	ref=13
+7	наказует	наказывати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=13
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 fixed	color:blue
-1	по	потомь	ADV	Df	_	7	advmod	_	Ref=86
-2	томь	томь	ADV	Df	_	1	flat	_	Ref=86
-3	онъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=86
-4	г҃	трие	NUM	Ma	_	5	nummod	_	Ref=86
-5	дьни	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	Ref=86
-6	не	не	ADV	Df	Polarity=Neg	7	advmod	_	Ref=86
-7	може	мощи	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=86
-8	ни	ни	CCONJ	C-	_	9	cc	_	Ref=86
-9	гл҃ати	глаголати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	Ref=86
-10	къ	къ	ADP	R-	_	11	case	_	Ref=86
-11	комѹ	къто	ADJ	Px	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Ref=86
-12	ни	ниже	CCONJ	C-	_	9	cc	_	Ref=86
-13	же	же	CCONJ	C-	_	12	fixed	_	Ref=86
-14	очию	око	NOUN	Nb	Case=Gen|Gender=Neut|Number=Dual	15	obj	_	Ref=86
-15	провести	провести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	conj	_	Ref=86
-16	ꙗко	яко	SCONJ	G-	_	18	mark	_	Ref=86
-17	многыимъ	мъногыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	18	advmod	_	Ref=86
-18	мьнѣти	мьнѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	Ref=86
-19	ꙗко	якоже	SCONJ	G-	_	22	mark	_	Ref=86
-20	же	же	SCONJ	G-	_	19	fixed	_	Ref=86
-21	ѹже	уже	ADV	Df	_	22	advmod	_	Ref=86
-22	ѹмрѣтъ	умрѣти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	ccomp	_	Ref=86
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	никак	никакоже	ADV	Df	_	6	advmod	_	ref=244.10
+2	же	же	ADV	Df	_	1	fixed	_	ref=244.10
+3	разумъ	разумъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=244.10
+4	члвчскъ	человѣчьскыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	amod	_	ref=244.10
+5	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=244.10
+6	можеть	мощи	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=244.10
+7	исповѣдати	исповѣдати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=244.11
+8	чюдсе	чудо	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	obj	_	ref=244.11
+9	твоихъ	твои	DET	Ps	Case=Gen|Gender=Neut|Number=Plur|Person=2|Poss=Yes	8	det	_	ref=244.11
 
 ~~~
 

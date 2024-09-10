@@ -30,13 +30,14 @@ Pomak nouns, adjectives, pronouns and adverbs may be tagged with `DeixisRef` alo
 
 ### <a name="3">`3`</a>: deixis that marks the distance from both participants (speaker and listener) - distal
 
+#### Examples
 
 * _górm<b>on</b>_ "the tree over there [far away from both the speaker and the listener - distal]" 
 `Deixis=Remt'
 
-#### Examples
 
 
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:44 CET 2022 -->
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:54 CEST -->

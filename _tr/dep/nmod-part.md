@@ -41,4 +41,4 @@ nmod:part(kız, Öğrenciler)
 case(Öğrenciler, arasından)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:32 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:23 CEST -->

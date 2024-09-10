@@ -17,52 +17,36 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 15 ccomp	color:blue
-1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_3.2
-2	אמר	אמר	VERB	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_3.2
-3	ה	ה	DET	art	PronType=Art	4	det	_	Ref=GEN_3.2
-4	אשׁה	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	2	nsubj	_	Ref=GEN_3.2
-5	אֶל	אל	ADP	prep	_	8	case	_	Ref=GEN_3.2|SpaceAfter=No
-6	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_3.2|SpaceAfter=No
-7	ה	ה	DET	art	PronType=Art	8	det	_	Ref=GEN_3.2
-8	נחשׁ	נחשׁ	NOUN	subs	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_3.2
-9	מן	מן	ADP	prep	_	10	case	_	Ref=GEN_3.2
-10	פרי	פרי	NOUN	subs	Gender=Masc|Number=Sing	15	obl	_	Ref=GEN_3.2
-11	עֵֽץ	עץ	NOUN	subs	Gender=Masc|Number=Sing	10	compound:smixut	_	Ref=GEN_3.2|SpaceAfter=No
-12	־	־	PUNCT	punct	_	14	punct	_	Ref=GEN_3.2|SpaceAfter=No
-13	ה	ה	DET	art	PronType=Art	14	det	_	Ref=GEN_3.2
-14	גן	גן	NOUN	subs	Gender=Fem|Number=Sing	11	compound:smixut	_	Ref=GEN_3.2
-15	נֹאכֵֽל	אכל	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	2	ccomp	_	Ref=GEN_3.2|SpaceAfter=No
-16	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_3.2
+# visual-style 2 8 ccomp	color:blue
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_19.7
+2	יֹּאמַ֑ר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_19.7
+3	אַל	אל	ADV	nega	Polarity=Neg	8	advmod	_	Gloss=not|Ref=GEN_19.7|SpaceAfter=No
+4	־	־	PUNCT	punct	_	3	punct	_	Ref=GEN_19.7|SpaceAfter=No
+5	נָ֥א	נא	INTJ	intj	_	8	discourse	_	Gloss=yeah|Ref=GEN_19.7
+6	אַחַ֖	אח	NOUN	subs	Gender=Masc|Number=Plur	8	vocative	_	Gloss=brother|Ref=GEN_19.7
+7	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Ref=GEN_19.7
+8	תָּרֵֽעוּ	רעע	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=be evil|Ref=GEN_19.7|SpaceAfter=No
+9	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_19.7
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 14 ccomp	color:blue
-1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_18.9
-2	אמר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_18.9
-3	אל	אל	ADP	prep	_	4	case	_	Ref=GEN_18.9
-4	הוא	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	Ref=GEN_18.9
-5	אַיֵּ֖ה	איה	PART	inrg	_	2	ccomp	_	Ref=GEN_18.9
-6	שָׂרָ֣ה	שׂרה	PROPN	nmpr	Gender=Fem|Number=Sing	5	nsubj	_	Ref=GEN_18.9
-7	אשׁה	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	6	appos	_	Ref=GEN_18.9
-8	אתה	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nmod:poss	_	Ref=GEN_18.9
-9	ו	ו	CCONJ	conj	_	10	cc	_	Ref=GEN_18.9
-10	אמר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_18.9
-11	הִנֵּ֥ה	הנה	INTJ	intj	_	14	discourse	_	Ref=GEN_18.9
-12	ב	ב	ADP	prep	_	14	case	_	Ref=GEN_18.9
-13	ה	ה	DET	art	PronType=Art	14	det	_	Ref=GEN_18.9
-14	אהל	אהל	NOUN	subs	Gender=Masc|Number=Sing	10	ccomp	_	Ref=GEN_18.9
-15	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_18.9
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 ccomp	color:blue
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_24.34
+2	יֹּאמַ֑ר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_24.34
+3	עֶ֥בֶד	עבד	NOUN	subs	Gender=Masc|Number=Sing	2	ccomp	_	Gloss=servant|Ref=GEN_24.34
+4	אַבְרָהָ֖ם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	3	compound:smixut	_	Gloss=Abraham|Ref=GEN_24.34
+5	אָנֹֽכִי	אנכי	PRON	prps	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=i|Ref=GEN_24.34|SpaceAfter=No
+6	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_24.34
 
 ~~~
 
@@ -73,16 +57,16 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 ccomp	color:blue
-1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_27.24
-2	אמר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_27.24
-3	אַתָּ֥ה	אתה	PRON	prps	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Ref=GEN_27.24
-4	זֶ֖ה	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	Ref=GEN_27.24
-5	בן	בן	NOUN	subs	Gender=Masc|Number=Sing	2	ccomp	_	Ref=GEN_27.24
-6	אני	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	Ref=GEN_27.24
-7	עֵשָׂ֑ו	עשׂו	PROPN	nmpr	Gender=Masc|Number=Sing	5	appos	_	Ref=GEN_27.24
-8	ו	ו	CCONJ	conj	_	9	cc	_	Ref=GEN_27.24
-9	אמר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_27.24
-10	אָֽנִי	אני	PRON	prps	Number=Sing|Person=1|PronType=Prs	9	ccomp	_	Ref=GEN_27.24|SpaceAfter=No
+1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_27.24
+2	יֹּ֕אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_27.24
+3	אַתָּ֥ה	אתה	PRON	prps	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	Gloss=you|Ref=GEN_27.24
+4	זֶ֖ה	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	Gloss=this|Ref=GEN_27.24
+5	בְּנִ֣	בן	NOUN	subs	Gender=Masc|Number=Sing	2	ccomp	_	Gloss=son|Ref=GEN_27.24
+6	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	5	nmod:poss	_	Ref=GEN_27.24
+7	עֵשָׂ֑ו	עשׂו	PROPN	nmpr	Gender=Masc|Number=Sing	5	appos	_	Gloss=Esau|Ref=GEN_27.24
+8	וַ	ו	CCONJ	conj	_	9	cc	_	Gloss=and|Ref=GEN_27.24
+9	יֹּ֖אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=say|Ref=GEN_27.24
+10	אָֽנִי	אני	PRON	prps	Number=Sing|Person=1|PronType=Prs	9	ccomp	_	Gloss=i|Ref=GEN_27.24|SpaceAfter=No
 11	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_27.24
 
 ~~~

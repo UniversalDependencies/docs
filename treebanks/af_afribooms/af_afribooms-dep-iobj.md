@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 10 9 iobj	color:blue
 1	Die	die	DET	LB	Definite=Def|PronType=Art	2	det	_	_
 2	inligting	inligting	NOUN	NM	Number=Sing	10	nsubj:pass	_	_
-3	wat	wat	PRON	PB	PronType=Rel	5	nsubj	_	_
+3	wat	wat	PRON	PB	PronType=Rel	5	obj	_	_
 4	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 5	verstrek	verstrek	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	2	ccomp	_	SpaceAfter=No
 6	,	,	PUNCT	ZM	_	5	punct	_	_

@@ -30,4 +30,4 @@ cop(avventura, è)
 
 **NB** Note that when the clause is the subject of a passive clause (or more generally, any voice where the proto-agent argument does not become the subject of the clause), it should be tagged with the specialized subtype [csubj:pass](). 
 
-<!-- Interlanguage links updated Po lis 14 15:35:19 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:01 CEST -->

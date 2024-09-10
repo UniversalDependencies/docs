@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Nizar Habash, Dima Taji.
 
 Repository: [UD_Arabic-NYUAD](https://github.com/UniversalDependencies/UD_Arabic-NYUAD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_nyuad211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_nyuad214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -29,7 +29,7 @@ Genre: news
 Questions, comments?
 General annotation questions (either Arabic-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Arabic-NYUAD/issues).
-If you want to collaborate, please contact [dima&nbsp;•&nbsp;taji&nbsp;(æt)&nbsp;nyu&nbsp;•&nbsp;edu].
+If you want to collaborate, please contact [taji&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -72,7 +72,7 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 
 ## Relations
 
-[acl](ar_nyuad-dep-acl.html) – [advmod](ar_nyuad-dep-advmod.html) – [amod](ar_nyuad-dep-amod.html) – [appos](ar_nyuad-dep-appos.html) – [aux](ar_nyuad-dep-aux.html) – [case](ar_nyuad-dep-case.html) – [cc](ar_nyuad-dep-cc.html) – [ccomp](ar_nyuad-dep-ccomp.html) – [compound](ar_nyuad-dep-compound.html) – [conj](ar_nyuad-dep-conj.html) – [cop](ar_nyuad-dep-cop.html) – [dep](ar_nyuad-dep-dep.html) – [det](ar_nyuad-dep-det.html) – [discourse](ar_nyuad-dep-discourse.html) – [flat](ar_nyuad-dep-flat.html) – [iobj](ar_nyuad-dep-iobj.html) – [mark](ar_nyuad-dep-mark.html) – [nmod](ar_nyuad-dep-nmod.html) – [nmod:poss](ar_nyuad-dep-nmod-poss.html) – [nsubj](ar_nyuad-dep-nsubj.html) – [nummod](ar_nyuad-dep-nummod.html) – [obj](ar_nyuad-dep-obj.html) – [punct](ar_nyuad-dep-punct.html) – [root](ar_nyuad-dep-root.html) – [xcomp](ar_nyuad-dep-xcomp.html)
+[acl](ar_nyuad-dep-acl.html) – [advcl](ar_nyuad-dep-advcl.html) – [advmod](ar_nyuad-dep-advmod.html) – [amod](ar_nyuad-dep-amod.html) – [appos](ar_nyuad-dep-appos.html) – [aux](ar_nyuad-dep-aux.html) – [case](ar_nyuad-dep-case.html) – [cc](ar_nyuad-dep-cc.html) – [ccomp](ar_nyuad-dep-ccomp.html) – [compound](ar_nyuad-dep-compound.html) – [conj](ar_nyuad-dep-conj.html) – [cop](ar_nyuad-dep-cop.html) – [dep](ar_nyuad-dep-dep.html) – [det](ar_nyuad-dep-det.html) – [discourse](ar_nyuad-dep-discourse.html) – [flat](ar_nyuad-dep-flat.html) – [iobj](ar_nyuad-dep-iobj.html) – [mark](ar_nyuad-dep-mark.html) – [nmod](ar_nyuad-dep-nmod.html) – [nmod:poss](ar_nyuad-dep-nmod-poss.html) – [nsubj](ar_nyuad-dep-nsubj.html) – [nummod](ar_nyuad-dep-nummod.html) – [obj](ar_nyuad-dep-obj.html) – [punct](ar_nyuad-dep-punct.html) – [root](ar_nyuad-dep-root.html) – [xcomp](ar_nyuad-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -124,11 +124,11 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): _, b, f, h, hA, s, w</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): _, s</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: _, b, f, h, hA, s, w</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: _, s</li>
 </ul>
 
 <ul>
@@ -709,7 +709,7 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: s، _، w، b، f، hA.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: s، _.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -721,9 +721,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (527)</li>
       <li>VERB--NOUN-Acc (1220)</li>
       <li>VERB--NOUN-Gen (218)</li>
-      <li>VERB--NOUN-Nom (16721)</li>
+      <li>VERB--NOUN-Nom (16707)</li>
       <li>VERB--NOUN-Nom-ADP(_) (3)</li>
-      <li>VERB--PRON (321)</li>
+      <li>VERB--PRON (317)</li>
       <li>VERB--PRON-Acc (36)</li>
       <li>VERB--PRON-Gen (17)</li>
       <li>VERB--PRON-Nom (492)</li>
@@ -749,13 +749,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc-ADP(b)-ADP(_) (1)</li>
       <li>VERB--NOUN-Acc-ADP(l) (52)</li>
       <li>VERB--NOUN-Acc-ADP(w) (4)</li>
-      <li>VERB--NOUN-Gen (618)</li>
+      <li>VERB--NOUN-Gen (617)</li>
       <li>VERB--NOUN-Gen-ADP(_) (10881)</li>
       <li>VERB--NOUN-Gen-ADP(_)-ADP(_) (14)</li>
       <li>VERB--NOUN-Gen-ADP(_)-ADP(b) (2)</li>
       <li>VERB--NOUN-Gen-ADP(_)-ADP(k) (1)</li>
       <li>VERB--NOUN-Gen-ADP(_)-ADP(l) (1)</li>
-      <li>VERB--NOUN-Gen-ADP(b) (3301)</li>
+      <li>VERB--NOUN-Gen-ADP(b) (3302)</li>
       <li>VERB--NOUN-Gen-ADP(b)-ADP(_) (2)</li>
       <li>VERB--NOUN-Gen-ADP(b)-ADP(l) (2)</li>
       <li>VERB--NOUN-Gen-ADP(k) (51)</li>
@@ -764,13 +764,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Gen-ADP(w) (3)</li>
       <li>VERB--NOUN-Gen-ADP(w)-ADP(_) (1)</li>
       <li>VERB--NOUN-Gen-ADP(y) (1)</li>
-      <li>VERB--NOUN-Nom (639)</li>
+      <li>VERB--NOUN-Nom (640)</li>
       <li>VERB--NOUN-Nom-ADP(_) (27)</li>
       <li>VERB--NOUN-Nom-ADP(b) (1)</li>
       <li>VERB--NOUN-Nom-ADP(l) (4)</li>
       <li>VERB--NOUN-Nom-ADP(w) (1)</li>
-      <li>VERB--PRON (995)</li>
-      <li>VERB--PRON-ADP(_) (3113)</li>
+      <li>VERB--PRON (997)</li>
+      <li>VERB--PRON-ADP(_) (3092)</li>
       <li>VERB--PRON-ADP(_)-ADP(_) (2)</li>
       <li>VERB--PRON-ADP(b) (113)</li>
       <li>VERB--PRON-ADP(fy) (5)</li>
@@ -848,5 +848,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>nmod:poss</a></li>
-<li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>csubj</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

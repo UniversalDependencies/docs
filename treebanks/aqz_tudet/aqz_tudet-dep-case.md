@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (2%) are attached to their parents as `case`.
+30 nodes (2%) are attached to their parents as `case`.
 
-24 instances of `case` (86%) are left-to-right (parent precedes child).
+26 instances of `case` (87%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (16; 57% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (5; 18% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (3; 11% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (16; 53% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-PART.html">PART</a></tt> (6; 20% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (3; 10% instances), <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="aqz_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="aqz_tudet-pos-ADP.html">ADP</a></tt> (2; 7% instances), <tt><a href="aqz_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

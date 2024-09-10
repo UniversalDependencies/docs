@@ -6,87 +6,90 @@ udver: '2'
 
 ## Treebank Statistics: UD_Low_Saxon-LSDC: POS Tags: `ADP`
 
-There are 26 `ADP` lemmas (3%), 32 `ADP` types (3%) and 211 `ADP` tokens (7%).
+There are 59 `ADP` lemmas (2%), 87 `ADP` types (2%) and 1705 `ADP` tokens (8%).
 Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>in, van, an, mid, to, vöär, by, up, öäver, uut</em>
+The 10 most frequent `ADP` lemmas: <em>in, van, mid, up, an, to, vöär, nå, uut, by</em>
 
-The 10 most frequent `ADP` types:  <em>in, van, an, mid, to, by, up, vöär, uut, as</em>
+The 10 most frequent `ADP` types:  <em>in, van, up, an, mid, to, vöär, by, nå, uut</em>
 
-The 10 most frequent ambiguous lemmas: <em>van</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 29, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 22, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>mid</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 19, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>to</em> (<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 21, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 17, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>up</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 14, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 4, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>nå</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 3, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1), <em>üm</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>af</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1), <em>her</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>van</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 185, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> 1), <em>mid</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 166, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>up</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 158, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>an</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 144, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>to</em> (<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 113, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 112, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 16), <em>vöär</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 104, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>nå</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 87, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> 1), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 126, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 75, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 7, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 3), <em>öäver</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 55, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>af</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 21, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>van</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 29, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 21, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>mid</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 18, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>to</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 15, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 9, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>up</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 13, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 4, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>te</em> (<tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 13, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 2, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>af</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>her</em> (<tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1), <em>um</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>van</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 178, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> 1), <em>up</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 146, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>an</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 137, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>mid</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 104, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>to</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 105, <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 60, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 13, <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>vöär</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 83, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>nå</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 76, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2), <em>as</em> (<tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 84, <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 65, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2), <em>med</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 53, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1), <em>öäver</em> (<tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 29, <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>van</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 29: <em>Oaver de kunst gesund te syn <b>van</b> E. Smelzkop .</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 178: <em>Oaver de kunst gesund te syn <b>van</b> E. Smelzkop .</em>
   * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Jy seaden , Jy weren my good - geavet my en bewys <b>van</b> un skenket my dissen buk , dee my seyre klook skynt un den ik wol midünder üm råd vrågen müchte .</em>
+  * <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> 1: <em>Dår had jy Kloas <b>van</b> Heuvelen , en eywig dikke kearel mid en yselk fyn stemke .</em>
+* <em>up</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 146: <em>Alle lachen harde <b>up</b> , un Wiesken ward roud as vüür .</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2: <em>Hein höyld de handen an den mund un gröäl al wat hee kun : " Stüüüüürmaaaann ! " , de stüürman keyk aver gaar nich eyrst <b>up</b> .</em>
 * <em>an</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 21: <em>- Nu leyt em de böyse vynd disse nacht kyn ouge <b>an</b> enander doon .</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 137: <em>- Nu leyt em de böyse vynd disse nacht kyn ouge <b>an</b> enander doon .</em>
   * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Marigge gung avers in de kameren un hale eynen korv mid viksebounen , dee nauw in den skouten saeten un sea to Jüsken : ‘ Hyr hest du ouk wat to doon , de döppe , dan bruukst du nich immer Wiesken <b>an</b> to glupen !</em>
 * <em>mid</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 18: <em>Beaden un vlöken wesselde <b>mid</b> enander af .</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 104: <em>Beaden un vlöken wesselde <b>mid</b> enander af .</em>
   * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Wän de lutherske gelouve en sake weer , dee sik koupen leyt , ik wul ünder de hand vöär tein daler en ganses karspeal leddig koupen ; vellicht den preester vyn <b>mid</b> , un de ware an den lütjen vinger wegdrägen , in en snuupdook beknütted .</em>
 * <em>to</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 15: <em>Beskreaven un <b>to</b> ' m 31. oktober ao. 1817 heruutgeaven van Claus Harms archidiakonus an de St. Nicolaikarke in Kiel .</em>
-  * <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 9: <em>Do kaem dår ouk eyns eyn sik <b>to</b> besteaden un de möller vortelde em gelyks , dat et in de möäle nich richtig weer .</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Sou of en <b>to</b> , as ik eyns en book in de hande kreyg , sag ik wel eyns stån ‘ mundus vult decipi ’ ; dagen answyt heb ik rechtevoord gån plüsen en söken , sunder dat ik gewaar kon worden wat et bedüden .</em>
-* <em>up</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 13: <em>Alle lachen harde <b>up</b> , un Wiesken ward roud as vüür .</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Hein höyld de handen an den mund un gröäl al wat hee kun : " Stüüüüürmaaaann ! " , de stüürman keyk aver gaar nich eyrst <b>up</b> .</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 105: <em>Aver ouk dease unsküldige underholdinge sül em <b>to</b> ne pyne warden .</em>
+  * <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 60: <em>Ik wåg nich , ear <b>to</b> vrågen .</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 13: <em>dat was <b>to</b> veal ; see had my niks to bevealen –</em>
+  * <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Junges , as jy sou en varkentyn in hüüs hebbet , gå jy de winter sou rüstig in ; - <b>to</b> ik Toone betaald had , bleyv der noch geld oaver en dår hevt myn vrouwe Derk en pår skonen en koisen van ekocht en en nye pette , dår geyt hee sündags mea nå de karke - et jungyn is dan ouk byster vorneamstig .</em>
+* <em>vöär</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 83: <em>Bin ik neet sou good by de pinken as de beste <b>vöär</b> myn broud ?</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>De ungelüklike minske nam dat geld , hee keyk den olden nich gerade in dat gesichte , hee keyk em sou van de syde an , hee sead niks , hee dankede nich un wul eaven voord gån , dun tründelde unkel Bors bet nå <b>vöär</b> un vråg : »» woor blyven äver myn tweyhunderd daler ? «« –</em>
+* <em>nå</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 76: <em>Vlak vöär et vüür , med de rügge <b>nå</b> de tåfel , sat Hinne Kloassens .</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2: <em>Dår staek noch jümmer en lüt beaten van en soldåten in em un vorwandel sik <b>nå</b> un <b>nå</b> in en stük jäger un visker .</em>
 * <em>as</em>
-  * <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 6: <em>In de stad hove y niks eleyrd te hebben , <b>as</b> y mer gefyvd sint - en dát sin ik !</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 4: <em>Alle lachen harde up , un Wiesken ward roud <b>as</b> vüür .</em>
-  * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 4: <em>As de skoolmeister dat hebräiske höyrde , sou kun hee endlik wol denken , dat et keynen anders <b>as</b> de her pastor syn künne , un leyt gelyks lous .</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Dårto kumt un to ' m deyl volgt dåruut de groute ungelouve , oader <b>as</b> man et nömen wil , de mangel an vroamigheid , religiositeet in m landen , an wåre leve to ' m gelouven , dat man dat geistlike arvdeyl , wat unsen vöärölderen sweyt un blood kosted het , nich vast holden mag .</em>
-* <em>te</em>
-  * <tt><a href="nds_lsdc-pos-PART.html">PART</a></tt> 13: <em>' Du skynst neet in dyn hümöör <b>te</b> weasen ' , sea Jouke teagen Garrelt .</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 2: <em>Unse meister segt , dat vake de geleyrde lüde öäver en klein woord , öäver en nüllige sake mekare wel drådnägelen , dat et når is , dat uw de håren der van <b>te</b> barge rysen , dat y der leyd um worden .</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Dee kearl het my den drüdden dag ankündigd , un wän ik myne reakeninge mid dem hiamel afsluten wul , sul ik et morgen doon , öävermorgen möcht et wol <b>te</b> late syn .</em>
-* <em>af</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1: <em>En ander lüüd nam den haspel un haspele dat gaarn <b>af</b> un band dat bind mid der fitsen to houpe , wän et knakke .</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Beaden un vlöken wesselde mid enander <b>af</b> .</em>
-* <em>her</em>
-  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 2: <em>Dårup mut ' e de düvel by ' n kop pakked hebben en uuteropen : ' Belsebul ! Smalbek ! Sikkebård ! Kumst e <b>her</b> um baas Julfring te halen ? '</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1: <em>Achter den köen <b>her</b> löypen , dat mochte Hiärmen natüürlik alleyne doon ; de vader was men dårto dår , dat Hiärmen tydvordryv hadde .</em>
-  * <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> 1: <em>As de skoolmeister dat hebräiske höyrde , sou kun hee endlik wol denken , dat et keynen anders as de <b>her</b> pastor syn künne , un leyt gelyks lous .</em>
-* <em>um</em>
-  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 1: <em>Unse meister segt , dat vake de geleyrde lüde öäver en klein woord , öäver en nüllige sake mekare wel drådnägelen , dat et når is , dat uw de håren der van te barge rysen , dat y der leyd <b>um</b> worden .</em>
-  * <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Dårup mut ' e de düvel by ' n kop pakked hebben en uuteropen : ' Belsebul ! Smalbek ! Sikkebård ! Kumst e her <b>um</b> baas Julfring te halen ? '</em>
-  * <tt><a href="nds_lsdc-pos-X.html">X</a></tt> 1: <em>toch - det sküt myn dår in - kon ik ouk enkele leedtys , sou as : ‘ Iovivat ’ en ‘ Prosaluut horum Batavorum en Amicorum ’ ; et ging altyd håste van ‘ <b>um</b> ’ en van ‘ arum ’ ;</em>
+  * <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> 84: <em>Dat is en ungelük , dat ik nit dår was , <b>as</b> dyne boaden ekoamen sint .</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 65: <em>Alle lachen harde up , un Wiesken ward roud <b>as</b> vüür .</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 6: <em>Et leste kwam , dat wussen we wel vöäruut , de „ pöäkel-up-stelten , “ sou <b>as</b> see altyd teagen Roulf Roulfsemoa sean .</em>
+  * <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> 2: <em>In vröere tyden het to Schorstett meyr akker höyrd as itsund , dee is äver <b>as</b> de olden dat immer vorteld hebben up düsse wyse afkoamen .</em>
+* <em>med</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 53: <em>Waneyr mut ik der dan <b>med</b> de borrel üütskeyden , Andries ?</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Ek wil my nich wydlöftig inlåten , to ündersöken , un uut düssen woorden to bewysen trachten , dat et skoun to Esaias tyden in gebruuk weasen , seylig vorstorvenen personen eyne kristlike lykenpreddigd , oader weynigstens eyne standreade to holden , un dat dat vellicht skoun domåls dem leven profeten as en pars salarii <b>med</b> angereakend worden , dat jy ånedem sachte denken könnet , dat ek van unsen seyligen skoolmeyster vöär düsse möye niks neamen werde , sonderen ek wil man sou veale seggen : as ek an dem vöärigen vrydage , do ek noch an dem diske sat , un eaven myn betken stokvisk mid grönen arvten to lyve brocht hadde , un en slüksken kümmel-akwavit dårup setten wolde , zu besserer Verdauung der lieben harten Speise , myne jüngste dochter Anntrynken togeloupen kam , un uut vullem halse reyp : Papa , de skoolmeyster is doud !</em>
+* <em>öäver</em>
+  * <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> 29: <em>Ney , dår feylt sacht noch de tüttel <b>öäver</b> dat i .</em>
+  * <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> 1: <em>Up den lande is det äver nich de val , weynigstens dotomål dachte keyn menske dåran , det ne voränderinge intreaden kün un det det loun by düre tyd etwat erhöygd werden müste ; de man kreyg by winterdag sös sülvergrossen , in de sommermånden sös grossen kurant un de vrouwe halv sou vöäle , sou was det immer west un et skeyn ouk sou to blyven , bet in alle eywigheid ; äver inrichtinge höyrde dårto , wän de pår grossen van eyne weake bet to de änder uuthauwen süllen , vöär band un tand was nist <b>öäver</b> , de grossen hadde dun noch en grouten waerd .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.230769 (the average of all parts of speech is 1.319540).
+The form / lemma ratio of `ADP` is 1.474576 (the average of all parts of speech is 1.410753).
 
-The 1st highest number of forms (3) was observed with the lemma “döär”: <em>durch, döär, düär</em>.
+The 1st highest number of forms (6) was observed with the lemma “as”: <em>als, ar, as, asse, os, Äs</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “mid”: <em>meade, mid</em>.
+The 2nd highest number of forms (6) was observed with the lemma “döär”: <em>Düärch, doarch, durch, döär, döärch, düär</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “to”: <em>te, to</em>.
+The 3rd highest number of forms (5) was observed with the lemma “geagen”: <em>geagen, giagen, teagen, teager, teggen</em>.
 
-`ADP` occurs with 1 features: <tt><a href="nds_lsdc-feat-AdpType.html">AdpType</a></tt> (181; 86% instances)
+`ADP` occurs with 1 features: <tt><a href="nds_lsdc-feat-AdpType.html">AdpType</a></tt> (1386; 81% instances)
 
-`ADP` occurs with 1 feature-value pairs: `AdpType=Prep`
+`ADP` occurs with 2 feature-value pairs: `AdpType=Post`, `AdpType=Prep`
 
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `AdpType=Prep` (181 tokens).
-Examples: <em>in, van, mid, an, to, by, up, vöär, uut, nå</em>
+`ADP` occurs with 3 feature combinations.
+The most frequent feature combination is `AdpType=Prep` (1383 tokens).
+Examples: <em>in, van, up, mid, an, vöär, to, by, nå, med</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="nds_lsdc-dep-case.html">case</a></tt> (198; 94% instances), <tt><a href="nds_lsdc-dep-compound-prt.html">compound:prt</a></tt> (8; 4% instances), <tt><a href="nds_lsdc-dep-compound.html">compound</a></tt> (4; 2% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="nds_lsdc-dep-case.html">case</a></tt> (1544; 91% instances), <tt><a href="nds_lsdc-dep-compound-prt.html">compound:prt</a></tt> (129; 8% instances), <tt><a href="nds_lsdc-dep-mark.html">mark</a></tt> (12; 1% instances), <tt><a href="nds_lsdc-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="nds_lsdc-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="nds_lsdc-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (145; 69% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (18; 9% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (16; 8% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (14; 7% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (8; 4% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1124; 66% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (156; 9% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (155; 9% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (109; 6% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (108; 6% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (34; 2% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt> (6; 0% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-208 (99%) `ADP` nodes are leaves.
+1674 (98%) `ADP` nodes are leaves.
 
-3 (1%) `ADP` nodes have one child.
+28 (2%) `ADP` nodes have one child.
 
-The highest child degree of a `ADP` node is 1.
+1 (0%) `ADP` nodes have two children.
 
-Children of `ADP` nodes are attached using 3 different relations: <tt><a href="nds_lsdc-dep-advmod.html">advmod</a></tt> (1; 33% instances), <tt><a href="nds_lsdc-dep-cc.html">cc</a></tt> (1; 33% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (1; 33% instances)
+2 (0%) `ADP` nodes have three or more children.
 
-Children of `ADP` nodes belong to 3 different parts of speech: <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (1; 33% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (1; 33% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances)
+The highest child degree of a `ADP` node is 3.
+
+Children of `ADP` nodes are attached using 10 different relations: <tt><a href="nds_lsdc-dep-punct.html">punct</a></tt> (11; 31% instances), <tt><a href="nds_lsdc-dep-advmod.html">advmod</a></tt> (9; 25% instances), <tt><a href="nds_lsdc-dep-fixed.html">fixed</a></tt> (4; 11% instances), <tt><a href="nds_lsdc-dep-cc.html">cc</a></tt> (3; 8% instances), <tt><a href="nds_lsdc-dep-conj.html">conj</a></tt> (2; 6% instances), <tt><a href="nds_lsdc-dep-cop.html">cop</a></tt> (2; 6% instances), <tt><a href="nds_lsdc-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="nds_lsdc-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
+
+Children of `ADP` nodes belong to 11 different parts of speech: <tt><a href="nds_lsdc-pos-PUNCT.html">PUNCT</a></tt> (11; 31% instances), <tt><a href="nds_lsdc-pos-ADV.html">ADV</a></tt> (7; 19% instances), <tt><a href="nds_lsdc-pos-ADP.html">ADP</a></tt> (4; 11% instances), <tt><a href="nds_lsdc-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="nds_lsdc-pos-AUX.html">AUX</a></tt> (2; 6% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="nds_lsdc-pos-SCONJ.html">SCONJ</a></tt> (2; 6% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 

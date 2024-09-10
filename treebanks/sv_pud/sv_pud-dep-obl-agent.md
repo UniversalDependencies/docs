@@ -22,13 +22,13 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 obl:agent	color:blue
-1	De	den	DET	DT|NEU|PLU|DEF	Definite=Def|Gender=Neut|Number=Plur	3	det	3:det	_
-2	nya	ny	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	3	amod	3:amod	_
+1	De	de	DET	DT|NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Art	3	det	3:det	_
+2	nya	ny	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	3	amod	3:amod	_
 3	utgifterna	utgift	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	4	nsubj:pass	4:nsubj:pass	_
 4	finansieras	finansiera	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 5	av	av	ADP	PP	_	8	case	8:case	_
 6	Clintons	Clinton	PROPN	PM|GEN	Case=Gen	8	nmod:poss	8:nmod:poss	_
-7	stora	stor	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	8	amod	8:amod	_
+7	stora	stor	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	8	amod	8:amod	_
 8	bankkonto	bankkonto	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	4	obl:agent	4:obl:agent	SpaceAfter=No
 9	.	.	PUNCT	MAD	_	4	punct	4:punct	_
 
@@ -65,14 +65,14 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 10 12 obl:agent	color:blue
 1	2007	2007	NUM	RG|NOM	Case=Nom	7	nummod	7:nummod	_
 2	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
-3	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing	6	det	6:det	_
+3	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	6	det	6:det	_
 4	mest	mycket	ADV	AB|SUV	Degree=Sup	5	advmod	5:advmod	_
-5	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	6	amod	6:amod	_
+5	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	6	amod	6:amod	_
 6	filmen	film	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
 7	El	El	PROPN	PM|NOM	Case=Nom	0	root	0:root	_
 8	Greco	Greco	PROPN	PM|NOM	Case=Nom	7	flat:name	7:flat:name	SpaceAfter=No
 9	,	,	PUNCT	MID	_	10	punct	10:punct	_
-10	regisserad	regisserad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	7	acl	7:acl	_
+10	regisserad	regisserad	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	7	acl	7:acl	_
 11	av	av	ADP	PP	_	12	case	12:case	_
 12	Yannis	Yannis	PROPN	PM|NOM	Case=Nom	10	obl:agent	10:obl:agent	_
 13	Smaragdis	Smaragdis	PROPN	PM|NOM	Case=Nom	12	flat:name	12:flat:name	SpaceAfter=No

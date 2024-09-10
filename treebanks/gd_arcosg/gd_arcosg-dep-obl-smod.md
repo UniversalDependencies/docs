@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `obl:smod`: <tt><a h
 # visual-style 5 7 obl:smod	color:blue
 1	Ach	ach	CCONJ	Cc	_	2	cc	_	_
 2	cò	cò	PRON	Uq	PronType=Int	0	root	_	_
-3	a-seo	a-seo	PRON	Pd	_	2	nsubj	_	_
+3	a-seo	a-seo	PRON	Pd	_	2	nmod	_	_
 4	a	a	PART	Q-r	PartType=Vb|PronType=Rel	5	nsubj	_	_
 5	thàinig	thig	VERB	V-s	Tense=Past	3	acl:relcl	_	_
 6	latha	latha	ADV	Rt	_	5	advmod	_	_
@@ -60,7 +60,7 @@ The following 6 pairs of parts of speech are connected with `obl:smod`: <tt><a h
 # visual-style 28	bgColor:blue
 # visual-style 28	fgColor:white
 # visual-style 28 31 obl:smod	color:blue
-1	chan	chan	PART	Qn	PartType=Cmpl|Polarity=Neg	2	mark:prt	_	_
+1	chan	cha	PART	Qn	PartType=Vb|Polarity=Neg	2	mark:prt	_	_
 2	eil	bi	VERB	V-p--d	Tense=Pres	0	root	_	_
 3	an	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	t-ainm	ainm	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
@@ -71,11 +71,11 @@ The following 6 pairs of parts of speech are connected with `obl:smod`: <tt><a h
 9	idir	idir	ADV	Rg	_	2	advmod	_	_
 10	ach	ach	CCONJ	Cc	_	11	cc	_	_
 11	bha	bi	VERB	V-s	Tense=Past	2	conj	_	_
-12	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	11	nsubj	_	_
-13	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	12	flat:name	_	_
+12	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	11	nsubj	_	Anonymised=Yes
+13	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	12	flat:name	_	Anonymised=Yes
 14	ag	ag	PART	Sa	_	15	case	_	_
 15	ràdh	abair	NOUN	Nv	VerbForm=Vnoun	11	xcomp:pred	_	_
-16	gun	gun	PART	Qa	PartType=Cmpl	18	mark:prt	_	_
+16	gun	gu	PART	Qa	PartType=Cmpl	18	mark:prt	_	_
 17	do	do	PART	Q--s	Tense=Past	18	mark:prt	_	_
 18	dh’fhalbh	falbh	VERB	V-s	Tense=Past	15	ccomp	_	_
 19	i	i	PRON	Pp3sf	Gender=Fem|Number=Sing|Person=3	18	nsubj	_	_
@@ -84,7 +84,7 @@ The following 6 pairs of parts of speech are connected with `obl:smod`: <tt><a h
 22	feasgar	feasgar	ADV	Rt	_	18	advmod	_	_
 23	an-dè	an-dè	ADV	Rt	_	18	advmod	_	_
 24	agus	agus	CCONJ	Cc	_	26	cc	_	_
-25	chan	chan	PART	Qn	PartType=Cmpl|Polarity=Neg	26	mark:prt	_	_
+25	chan	cha	PART	Qn	PartType=Vb|Polarity=Neg	26	mark:prt	_	_
 26	eil	bi	VERB	V-p--d	Tense=Pres	21	conj	_	_
 27	sinn	sinn	PRON	Pp1p	Number=Plur|Person=1	26	nsubj	_	_
 28	cinnteach	cinnteach	ADJ	Ap	_	26	xcomp:pred	_	_

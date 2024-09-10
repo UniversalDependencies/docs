@@ -125,4 +125,4 @@ It is used to mark ordinal pronouns. Part of speech is PRON/NO. When ordinals ar
 * Il _primo_ sostiene che ...  "the first asserts that ...
 * Un _quarto_ d'ora "a quarter of an hour"
 * Valentina è _quinta_ "Valentina is fifth"
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:18 CEST -->

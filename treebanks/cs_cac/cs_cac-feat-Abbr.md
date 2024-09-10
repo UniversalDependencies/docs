@@ -82,13 +82,13 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>SYM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> SYM</tt> (122; 100%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (75; 75%),
+<tt>SYM --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> SYM</tt> (124; 100%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (76; 72%),
 <tt>SYM --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (29; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (25; 53%),
-<tt>SYM --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> SYM</tt> (3; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-advmod.html">advmod</a></tt>]--> SYM</tt> (4; 100%),
+<tt>SYM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> SYM</tt> (3; 100%),
 <tt>SYM --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> SYM</tt> (2; 100%),
-<tt>SYM --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> SYM</tt> (2; 100%),
 <tt>SYM --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> SYM</tt> (2; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> SYM</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%).

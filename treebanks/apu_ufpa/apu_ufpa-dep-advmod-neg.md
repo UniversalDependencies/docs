@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt>.
 There are also 2 other language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="apu_ufpa-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-13 nodes (2%) are attached to their parents as `advmod:neg`.
+14 nodes (1%) are attached to their parents as `advmod:neg`.
 
-13 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
+14 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (12; 92% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (12; 86% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PART.html">PART</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -29,6 +29,20 @@ The following 2 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 4	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ter-3SG.M.O
 5	ithure	thure	NOUN	XPOS=3SG.M-porta.de	_	4	obj	_	gloss[pt]=3SG.M-porta.de|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod:neg	color:blue
+1	Kuna	kuna	PART	Pcle	Polarity=Neg	2	advmod:neg	_	GTtags=Aux,Neg
+2	waikirinu	waikiri	ADV	Adv	Number[subj]=Sing|Person[subj]=1	0	root	_	GTtags=OcSg1
+3	nuta	nuta	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg1,Nom|SpaceAfter=No
+4	.	_	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

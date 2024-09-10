@@ -8,29 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-306 nodes (1%) are attached to their parents as `cop`.
+307 nodes (1%) are attached to their parents as `cop`.
 
-284 instances of `cop` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.21241830065359.
+285 instances of `cop` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.21172638436482.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (136; 44% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (135; 44% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (24; 8% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 cop	color:blue
-1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
-2	sommes	être	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
-3	maintenant	maintenant	ADV	B	_	6	advmod	_	_
-4	très	très	ADV	B	_	6	advmod	_	_
-5	en	en	ADP	E	_	6	case	_	_
-6	retard	retard	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	FS	_	6	punct	_	_
-
-~~~
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (136; 44% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (136; 44% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (24; 8% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,6 +33,23 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	très	très	ADV	B	_	10	advmod	_	_
 10	ramifié	ramifié	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	FS	_	10	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 cop	color:blue
+1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+2	sommes	être	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	maintenant	maintenant	ADV	B	_	6	advmod	_	_
+4	très	très	ADV	B	_	6	advmod	_	_
+5	en	en	ADP	E	_	6	case	_	_
+6	retard	retard	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	FS	_	6	punct	_	_
 
 ~~~
 

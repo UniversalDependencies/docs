@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (27722; 90% of non-empty `Definite`): <em>o, a, os, as, esta, Uma, o(s), um</em>
 * `Ind` (3155; 10% of non-empty `Definite`): <em>um, uma, outra, Nada, o</em>
-* `EMPTY` (3987): <em>sua, seu, este, esta, seus, suas, esse, todos, qualquer, cada</em>
+* `EMPTY` (3988): <em>sua, seu, este, esta, seus, suas, esse, todos, qualquer, cada</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 iobj	color:blue
-1	قىزچاققا	قىزچاق	NOUN	N	Case=Dat	4	iobj	_	Translit=qizchaqqa
-2	دەرھال	دەرھال	ADV	D	_	4	advmod	_	Translit=derhal
-3	قان	قان	NOUN	N	Case=Nom	4	nsubj:pass	_	Translit=qan
-4	بېرىلمىسە	_	VERB	V	_	0	root	_	Translit=bërilmise|Morf=Unknown
-5	بولمايدىكەن	بول	AUX	V	_	4	aux	_	SpaceAfter=No|Translit=bolmaydiken|Morf=Unknown
-6	.	.	PUNCT	Y	_	4	punct	_	Translit=.
+1	قىزچاققا	قىزچاق	NOUN	N	Case=Dat	4	iobj	_	Translit=qizchaqqa|LTranslit=qizchaq
+2	دەرھال	دەرھال	ADV	D	_	4	advmod	_	Translit=derhal|LTranslit=derhal
+3	قان	قان	NOUN	N	Case=Nom	4	nsubj:pass	_	Translit=qan|LTranslit=qan
+4	بېرىلمىسە	_	VERB	V	_	0	root	_	Morf=Unknown|Translit=bërilmise
+5	بولمايدىكەن	بول	AUX	V	_	4	aux	_	SpaceAfter=No|Morf=Unknown|Translit=bolmaydiken|LTranslit=bol
+6	.	.	PUNCT	Y	_	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -82,6 +82,7 @@ udver: '2'
 
 * [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
+* [NumForm]() is used with numerals ([NUM]()) and adjectives ([ADJ]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _meu_ “my”),
   possessive personal pronouns (e.g. _meva_ “mine”).
 * The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns.
@@ -212,6 +213,226 @@ udver: '2'
 ### Non-verbal Clauses
 
 * The copula verbs _ser_ and _estar_ (be) are used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+
+### Subordination
+
+* Instead of a nominal, a clause may act as the subject of another clause.
+  Such clausal subjects are attached as [csubj]():
+
+~~~conllu
+# text = D'entrada va quedar clar que l'individu no hi tocava gens.
+# text_en = From the outset it was clear that the individual was not involved at all.
+1	D'	de	ADP	sps00	_	2	case	_	SpaceAfter=No|Gloss=from
+2	entrada	entrada	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obl	_	Gloss=outset
+3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
+4	quedar	quedar	VERB	vmn0000	VerbForm=Inf	0	root	_	Gloss=remain
+5	clar	clar	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	xcomp	_	ArgTem=arg2:atr|Gloss=clear
+6	que	que	SCONJ	cs	_	11	mark	_	Gloss=that
+7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|Gloss=the
+8	individu	individu	NOUN	ncms000	Gender=Masc|Number=Sing	11	nsubj	_	ArgTem=arg1:tem|Gloss=individual
+9	no	no	PART	rn	Polarity=Neg	11	advmod	_	Gloss=not
+10	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	11	obl	_	Gloss=there
+11	tocava	tocar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	csubj	_	ArgTem=arg1:tem|Gloss=was.playing
+12	gens	gens	ADV	rg	_	11	advmod	_	SpaceAfter=No|ArgTem=argM:adv|Gloss=at.all
+13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
+* Some verbs take clauses as complements and these clauses alternate with direct objects (nouns or pronouns).
+  Such clausal complements are attached as [ccomp]():
+
+~~~conllu
+# text = La professora ha reiterat que considera que Arola i Igual van prevaricar.
+# text_en = The teacher has reiterated that she considers that Arola and Igual committed fraud.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	professora	professora	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	_	ArgTem=arg0:agt|Gloss=teacher
+3	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=has
+4	reiterat	reiterar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=reiterated
+5	que	que	SCONJ	cs	_	6	mark	_	Gloss=that
+6	considera	considerar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	ArgTem=arg1:pat|Gloss=considers
+7	que	que	SCONJ	cs	_	12	mark	_	Gloss=that
+8	Arola	Arola	PROPN	np0000p	_	12	nsubj	_	ArgTem=arg0:agt|Gloss=Arola
+9	i	i	CCONJ	cc	_	10	cc	_	Gloss=and
+10	Igual	Igual	PROPN	np0000p	_	8	conj	_	Gloss=Igual
+11	van	anar	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	Gloss=PAST
+12	prevaricar	prevaricar	VERB	vmn0000	VerbForm=Inf	6	ccomp	_	SpaceAfter=No|ArgTem=arg1:pat|Gloss=commit.fraud
+13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
+~~~conllu
+# text = La professora ho ha reiterat.
+# text_en = The teacher has reiterated it.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	professora	professora	NOUN	ncfs000	Gender=Fem|Number=Sing	5	nsubj	_	ArgTem=arg0:agt|Gloss=teacher
+3	ho	ell	PRON	pp3nn000	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	ArgTem=arg2:pat|Gloss=it
+4	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=has
+5	reiterat	reiterar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|Gloss=reiterated
+6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
+
+~~~
+
+* Clauses that modify other clauses but do not correspond to core arguments are called adverbial ([advcl]()),
+  but the class is broader than what non-UD theories may recognize as adverbial clauses. They are clausal
+  counterparts of oblique nominals and adverbs.
+
+~~~conllu
+# text = Els arbres existents es traslladaran mentre duri la urbanització.
+# text_en = The existing trees will be moved for the duration of the development.
+1	Els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Gloss=the
+2	arbres	arbre	NOUN	ncmp000	Gender=Masc|Number=Plur	5	nsubj	_	ArgTem=arg1:pat|Gloss=trees
+3	existents	existent	ADJ	aq0cp0	Number=Plur	2	amod	_	Gloss=existing
+4	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pass	_	Gloss=themselves
+5	traslladaran	traslladar	VERB	vmif3p0	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=will.move
+6	mentre	mentre	SCONJ	cs	_	7	mark	_	Gloss=while
+7	duri	durar	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	ArgTem=argM:tmp|Gloss=lasts
+8	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	Gloss=the
+9	urbanització	urbanització	NOUN	ncfs000	Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No|ArgTem=arg1:tem|Gloss=development
+10	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
+
+~~~
+
+* Clauses that modify nominals are called adnominal ([acl]()). They are clausal counterparts of [nmod]()
+  and [amod]().
+
+~~~conllu
+# text = La UdG ha manifestat la voluntat que els premis tinguin continuïtat.
+# text_en = The UdG has expressed its desire for the awards to have continuity.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	UdG	UdG	PROPN	np0000o	_	4	nsubj	_	ArgTem=arg0:agt|Gloss=UdG
+3	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=has
+4	manifestat	manifestar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=expressed
+5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the
+6	voluntat	voluntat	NOUN	ncfs000	Gender=Fem|Number=Sing	4	obj	_	ArgTem=arg1:pat|Gloss=desire
+7	que	que	SCONJ	cs	_	10	mark	_	Gloss=that
+8	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	Gloss=the
+9	premis	premi	NOUN	ncmp000	Gender=Masc|Number=Plur	10	nsubj	_	ArgTem=arg1:tem|Gloss=awards
+10	tinguin	tenir	VERB	vmsp3p0	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	Gloss=have
+11	continuïtat	continuïtat	NOUN	ncfs000	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No|ArgTem=arg2:atr|Gloss=continuity
+12	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
+* A special type of adnominal clause is the relative clause. It contains the relative pronoun _que_
+  (that is, _que_ is not a subordinating conjunction here), which has the same referent as the nominal
+  modified by the clause. The relation subtype [acl:relcl]() is used for relative clauses.
+
+~~~conllu
+# text = Els grans blocs que uneixen els pilons han estat fabricats a Cadis.
+# text_en = The large blocks that join the pylons have been manufactured in Cádiz.
+1	Els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Gloss=the
+2	grans	gran	ADJ	aq0cp0	Number=Plur	3	amod	_	Gloss=large
+3	blocs	bloc	NOUN	ncmp000	Gender=Masc|Number=Plur	10	nsubj	_	ArgTem=arg1:pat|Gloss=blocks
+4	que	que	PRON	pr0cn000	PronType=Rel	5	nsubj	_	ArgTem=arg0:agt|Gloss=that
+5	uneixen	unir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Gloss=join
+6	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Gloss=the
+7	pilons	piló	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obj	_	ArgTem=arg1:tem|Gloss=pylons
+8	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Gloss=have
+9	estat	ser	AUX	vsp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	aux	_	Gloss=been
+10	fabricats	fabricar	VERB	vmp00pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Gloss=manufactured
+11	a	a	ADP	sps00	_	12	case	_	Gloss=in
+12	Cadis	Cadis	PROPN	np0000l	_	10	obl	_	SpaceAfter=No|ArgTem=argM:loc|Gloss=Cádiz
+13	.	.	PUNCT	fp	PunctType=Peri	10	punct	_	Gloss=.
+
+~~~
+
+* There is a productive construction in which an article governs a relative clause. Together they
+  fill any slot in the superordinate clause that allows a nominal. Formally the slot is filled by
+  the article, hence if the slot corresponds to an object of a verb, the article is attached as [obj]()
+  but the clause is not attached as [ccomp](). The clause formally modifies a nominal (the article),
+  in the same way in which relative clauses are constructed, so the relation between the article and
+  the subordinate clause is [acl:relcl](). If the governing article is definite _(el, la, els, les),_
+  it corresponds to English “the one”; if it is indefinite _(un, una),_ it corresponds to “one”.
+  Note that the same analysis would also arise if we posited an elided noun and the promotion of the
+  article to the head position; in the example below, the article in fact represents the nominal
+  _els futbolistes_ “the footballers”, which can be inferred from the preceding sentence in the corpus.
+
+~~~conllu
+# text = També afavoreix els que procedeixen de les excolònies espanyoles.
+# text_en = It also favors those who come from the former Spanish colonies.
+1	També	també	ADV	rg	_	2	advmod	_	Gloss=also
+2	afavoreix	afavorir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=favors
+3	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	obj	_	Gloss=those
+4	que	que	PRON	pr0cn000	PronType=Rel	5	nsubj	_	ArgTem=arg1:tem|Gloss=who
+5	procedeixen	procedir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Gloss=come
+6	de	de	ADP	sps00	_	8	case	_	Gloss=from
+7	les	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	Gloss=the
+8	excolònies	excolònia	NOUN	nc00000	Gender=Fem|Number=Plur	5	obl:arg	_	ArgTem=arg2:loc|Gloss=former-colonies
+9	espanyoles	espanyol	ADJ	aq0fp0	Gender=Fem|Number=Plur	8	amod	_	Gloss=Spanish
+10	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	Gloss=.
+
+~~~
+
+* If a verb expects another predicate (i.e., clause) as complement and the subject of the subordinate
+  clause is obligatorily coreferential with an argument (subject or object) of the main verb, then the
+  relation between the two verbs is [xcomp](). The subordinate verb is typically (but not necessarily)
+  infinitive, sometimes accompanied with a preposition selected by the main verb. Such complements are
+  considered core arguments but they do not necessarily alternate with a direct nominal object; in fact,
+  for certain main verbs they occur together with an object, which is the argument that the subject of
+  the `xcomp` clause is coreferential with.
+  * In some cases the traditional grammar may list a verb as auxiliary but it does not fit in the more
+    narrow definition of auxiliaries in UD and is analyzed as the main verb of an `xcomp` construction.
+  * The `xcomp` relation is also used for certain cases of secondary predication (except for optional
+    depictives, for which [advcl]() is used). Secondary predication is often realized using a nominal
+    or an adjective that makes additional claims about the subject (how it looked during the main
+    action, what it became as a result of the action etc.)
+  * In some cases the traditional grammar may list a verb as a (pseudo-)copula but it cannot be a copula
+    in UD (where only _ser_ and _estar_ have the copula status). Instead, the putative copula is analyzed
+    as the main verb in an `xcomp` construction.
+
+~~~conllu
+# text = La víctima va aconseguir fer-lo desistir en oposar resistència a mossegades.
+# text_en = The victim managed to make him give up by resisting bites.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	víctima	víctima	NOUN	ncfs000	Gender=Fem|Number=Sing	4	nsubj	_	ArgTem=arg0:agt|Gloss=victim
+3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=PAST
+4	aconseguir	aconseguir	VERB	vmn0000	VerbForm=Inf	0	root	_	Gloss=manage
+5-6	fer-lo	_	_	_	_	_	_	_	_
+5	fer	fer	VERB	vmn0000	VerbForm=Inf	4	xcomp	_	ArgTem=arg1:pat|Gloss=make
+6	lo	ell	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	ArgTem=arg1:pat|Gloss=him
+7	desistir	desistir	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	Gloss=give.up
+8	en	en	ADP	sps00	_	9	mark	_	Gloss=by
+9	oposar	oposar	VERB	vmn0000	VerbForm=Inf	4	advcl	_	ArgTem=argM:adv|Gloss=put.up
+10	resistència	resistència	NOUN	ncfs000	Gender=Fem|Number=Sing	9	obj	_	ArgTem=arg1:pat|Gloss=resistence
+11	a	a	ADP	sps00	_	12	case	_	Gloss=to
+12	mossegades	mossegada	NOUN	ncfp000	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No|ArgTem=argM:mnr|Gloss=bites
+13	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	Gloss=.
+
+~~~
+
+~~~conllu
+# text = L'any 1966 va començar a treballar a la Diputació.
+# text_en = In 1966 he started working at the Provincial Council.
+1	L'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|Gloss=the
+2	any	any	NOUN	_	_	5	obl	_	ArgTem=argM:tmp|Gloss=year
+3	1966	1966	NUM	_	NumForm=Digit|NumType=Card	2	nmod	_	Gloss=1966
+4	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	Gloss=PAST
+5	començar	començar	VERB	vmn0000	VerbForm=Inf	0	root	_	Gloss=start
+6	a	a	ADP	sps00	_	7	mark	_	Gloss=to
+7	treballar	treballar	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	Gloss=work
+8	a	a	ADP	sps00	_	10	case	_	Gloss=at
+9	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the
+10	Diputació	Diputació	PROPN	np0000o	_	7	obl	_	SpaceAfter=No|ArgTem=argM:loc|Gloss=Provincial.Council
+11	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	Gloss=.
+
+~~~
+
+~~~conllu
+# text = La frontera entre una cosa i l'altra sembla clara.
+# text_en = The border between one thing and the other seems clear.
+1	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	frontera	frontera	NOUN	ncfs000	Gender=Fem|Number=Sing	9	nsubj	_	ArgTem=arg1:tem|Gloss=border
+3	entre	entre	ADP	sps00	_	5	case	_	Gloss=between
+4	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	5	det	_	Gloss=one
+5	cosa	cosa	NOUN	ncfs000	Gender=Fem|Number=Sing	2	nmod	_	Gloss=thing
+6	i	i	CCONJ	cc	_	8	cc	_	Gloss=and
+7	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No|Gloss=the
+8	altra	altre	PRON	pi0fs000	Gender=Fem|Number=Sing|PronType=Ind	5	conj	_	Gloss=other
+9	sembla	semblar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=seems
+10	clara	clar	ADJ	aq0fs0	Gender=Fem|Number=Sing	9	xcomp	_	SpaceAfter=No|ArgTem=arg2:atr|Gloss=clear
+11	.	.	PUNCT	fp	PunctType=Peri	9	punct	_	Gloss=.
+
+~~~
 
 ### Relations Overview
 

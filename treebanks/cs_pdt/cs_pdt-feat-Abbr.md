@@ -9,145 +9,107 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-21743 tokens (1%) have a non-empty value of `Abbr`.
-1755 types (1%) occur at least once with a non-empty value of `Abbr`.
-1795 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 11 part-of-speech tags: <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (13042; 1% instances), <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (5768; 0% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (1715; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (956; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (192; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (23; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="cs_pdt-pos-X.html">X</a></tt> (12; 0% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (3; 0% instances).
-
-### `PROPN`
-
-13042 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (16% of all `PROPN` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13042; 100%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13010; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12219; 94%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9687; 74%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6911; 53%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Com</tt> (6803; 52%).
-
-`PROPN` tokens may have the following values of `Abbr`:
-
-* `Yes` (13042; 100% of non-empty `Abbr`): <em>ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</em>
-* `EMPTY` (70990): <em>Praha, Praze, USA, Jiří, Jan, Evropy, Brno, Prahy, Václav, Jana</em>
-
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (1236) occur only with one value of `Abbr`.
+6000 tokens (2%) have a non-empty value of `Abbr`.
+775 types (1%) occur at least once with a non-empty value of `Abbr`.
+790 lemmas (3%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (4056; 1% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (1457; 0% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (182; 0% instances), <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> (108; 0% instances), <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> (98; 0% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (50; 0% instances), <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> (39; 0% instances), <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> (10; 0% instances).
 
 ### `NOUN`
 
-5768 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+4056 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5768; 100%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5608; 97%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5538; 96%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3042; 53%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4046; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4046; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3671; 91%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3456; 85%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2532; 62%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (5768; 100% of non-empty `Abbr`): <em>r, s, tel, m, č, km, MS, mil, Kčs, cm</em>
-* `EMPTY` (366532): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
+* `Yes` (4056; 100% of non-empty `Abbr`): <em>p, q, r, m, a, j, Kč, s, b, c</em>
+* `EMPTY` (79117): <em>let, roku, korun, roce, strany, firmy, případě, práce, společnosti, době</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (480) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (570) occur only with one value of `Abbr`.
+
+### `PROPN`
+
+1457 <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> tokens (9% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1457; 100%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1454; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1454; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1438; 99%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1395; 96%), <tt><a href="cs_pdt-feat-NameType.html">NameType</a></tt><tt>=Oth</tt> (760; 52%).
+
+`PROPN` tokens may have the following values of `Abbr`:
+
+* `Yes` (1457; 100% of non-empty `Abbr`): <em>ČR, ODS, LN, USA, OSN, ČSFR, NATO, SR, ČSSD, EU</em>
+* `EMPTY` (14284): <em>Praha, Praze, Jiří, Jan, Václav, Německu, Evropě, Jana, Vladimír, Klaus</em>
+
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (189) occur only with one value of `Abbr`.
 
 ### `ADJ`
 
-1715 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Abbr`.
+182 <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1715; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1715; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1715; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1714; 100%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1706; 99%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1600; 93%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1600; 93%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1597; 93%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (182; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (182; 100%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (181; 99%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (175; 96%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (175; 96%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (175; 96%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (1715; 100% of non-empty `Abbr`): <em>tzv, a, čs, o, sv, RM, US, Č, n, k</em>
-* `EMPTY` (187471): <em>první, další, české, nové, druhé, poslední, státní, dalších, možné, vlastní</em>
+* `Yes` (182; 100% of non-empty `Abbr`): <em>tzv, a, čs, sv, o, nar, Č, aj, p, Dun</em>
+* `EMPTY` (40592): <em>první, další, české, nové, druhé, poslední, státní, možné, dalších, vlastní</em>
 
-`Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (185) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (16) occur only with one value of `Abbr`.
 
 ### `ADV`
 
-956 <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
+108 <tt><a href="cs_pdt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (956; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (956; 100%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (955; 100%).
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="cs_pdt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (107; 99%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (107; 99%).
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (956; 100% of non-empty `Abbr`): <em>např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</em>
-* `EMPTY` (79276): <em>tak, už, také, jak, včera, ještě, již, tedy, dnes, pak</em>
-
-`Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (22) occur only with one value of `Abbr`.
-
-### `CCONJ`
-
-192 <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Abbr`.
-
-`CCONJ` tokens may have the following values of `Abbr`:
-
-* `Yes` (192; 100% of non-empty `Abbr`): <em>tj, tzn, n</em>
-* `EMPTY` (56680): <em>a, i, ale, však, nebo, ani, či, proto, až, ovšem</em>
-
-### `ADP`
-
-23 <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (23; 100%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Ins</tt> (16; 70%).
-
-`ADP` tokens may have the following values of `Abbr`:
-
-* `Yes` (23; 100% of non-empty `Abbr`): <em>n, v, př, P, m, vč</em>
-* `EMPTY` (145921): <em>v, na, o, z, s, do, ve, k, pro, za</em>
-
-### `DET`
-
-21 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (21; 100%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15; 71%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (13; 62%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 52%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 52%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 52%).
-
-`DET` tokens may have the following values of `Abbr`:
-
-* `Yes` (21; 100% of non-empty `Abbr`): <em>t, n, mn, vš</em>
-* `EMPTY` (56195): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
-
-### `X`
-
-12 <tt><a href="cs_pdt-pos-X.html">X</a></tt> tokens (92% of all `X` tokens) have a non-empty value of `Abbr`.
-
-`X` tokens may have the following values of `Abbr`:
-
-* `Yes` (12; 100% of non-empty `Abbr`): <em>A, H, M, S</em>
-* `EMPTY` (1): <em>A</em>
-
-### `AUX`
-
-6 <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `AUX` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=3</tt> (6; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6; 100%).
-
-`AUX` tokens may have the following values of `Abbr`:
-
-* `Yes` (6; 100% of non-empty `Abbr`): <em>j</em>
-* `EMPTY` (46594): <em>je, by, jsou, bude, byl, být, není, bylo, jsem, jsme</em>
-
-### `VERB`
-
-5 <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5; 100%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_pdt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (5; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=2</tt> (5; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5; 100%), <tt><a href="cs_pdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_pdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5; 100%), <tt><a href="cs_pdt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%).
-
-`VERB` tokens may have the following values of `Abbr`:
-
-* `Yes` (5; 100% of non-empty `Abbr`): <em>srov</em>
-* `EMPTY` (130269): <em>má, může, řekl, měl, mají, musí, jde, měla, lze, mít</em>
+* `Yes` (108; 100% of non-empty `Abbr`): <em>mj, apod, atd, resp, popř, ap, atp, kupř, lat</em>
+* `EMPTY` (16702): <em>tak, už, také, jak, již, ještě, včera, pak, dnes, kde</em>
 
 ### `PART`
 
-3 <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Abbr`.
+98 <tt><a href="cs_pdt-pos-PART.html">PART</a></tt> tokens (4% of all `PART` tokens) have a non-empty value of `Abbr`.
 
 `PART` tokens may have the following values of `Abbr`:
 
-* `Yes` (3; 100% of non-empty `Abbr`): <em>CA</em>
-* `EMPTY` (8529): <em>jen, až, asi, li, ne, nejen, prý, to, jenom, ano</em>
+* `Yes` (98; 100% of non-empty `Abbr`): <em>např, cca</em>
+* `EMPTY` (2560): <em>jen, až, například, asi, ovšem, prý, zejména, ne, vůbec, to</em>
+
+### `DET`
+
+50 <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (48; 96%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (48; 96%), <tt><a href="cs_pdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (48; 96%), <tt><a href="cs_pdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (48; 96%), <tt><a href="cs_pdt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (48; 96%), <tt><a href="cs_pdt-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (45; 90%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (35; 70%), <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (35; 70%).
+
+`DET` tokens may have the following values of `Abbr`:
+
+* `Yes` (50; 100% of non-empty `Abbr`): <em>mil, mld, tis, t, n</em>
+* `EMPTY` (13468): <em>to, které, který, jeho, která, jejich, své, tím, tom, kteří</em>
+
+### `CCONJ`
+
+39 <tt><a href="cs_pdt-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Abbr`.
+
+`CCONJ` tokens may have the following values of `Abbr`:
+
+* `Yes` (39; 100% of non-empty `Abbr`): <em>tj, tzn</em>
+* `EMPTY` (12991): <em>a, i, ale, však, nebo, tedy, ani, či, proto, totiž</em>
+
+### `ADP`
+
+10 <tt><a href="cs_pdt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `ADP` and `Abbr` co-occurred: <tt><a href="cs_pdt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (10; 100%), <tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Ins</tt> (8; 80%).
+
+`ADP` tokens may have the following values of `Abbr`:
+
+* `Yes` (10; 100% of non-empty `Abbr`): <em>n, v, př</em>
+* `EMPTY` (31933): <em>v, na, o, s, z, do, ve, k, pro, za</em>
 
 ## Relations with Agreement in `Abbr`
 
 The 10 most frequent relations where parent and child node agree in `Abbr`:
-<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (702; 67%),
-<tt>ADJ --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (23; 56%),
-<tt>PROPN --[<tt><a href="cs_pdt-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (15; 60%),
-<tt>X --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> X</tt> (9; 100%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (5; 83%),
-<tt>DET --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> AUX</tt> (4; 100%),
-<tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADV --[<tt><a href="cs_pdt-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (2; 100%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-acl.html">acl</a></tt>]--> AUX</tt> (2; 100%),
-<tt>PART --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%).
+<tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (179; 73%),
+<tt>PROPN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (62; 55%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (15; 60%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3; 100%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%).
 

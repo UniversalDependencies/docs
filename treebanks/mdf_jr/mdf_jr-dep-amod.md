@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-123 nodes (4%) are attached to their parents as `amod`.
+152 nodes (3%) are attached to their parents as `amod`.
 
-123 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17886178861789.
+152 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19078947368421.
 
-The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (119; 97% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (142; 93% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 amod	color:blue
 1	И	и	CCONJ	CC	_	2	cc	_	_
-2	уендихть	уендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	_
+2	уендихть	уендемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres	0	root	_	_
 3	сенем	сенем	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	_
 4	менельть	менель	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	nmod	_	_
 5	потмоса	потма	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	2	obl:lmod	_	SpaceAfter=No
@@ -37,49 +37,44 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 amod	color:blue
-1	Тянемс	тянемс	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Sem/Time
-2	вестенге	весть	ADV	Adv	Clitic=AddGA	4	advmod:freq	_	GTtags=Temp,Clt/Add
-3	ашезь	аф	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg,Ind,Prt1,ScSg3
-4	няенде	няендемс	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg
-5	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	obj	_	GTtags=Pers,Sg3,Gen
-6	тяфтама	тяфтама	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	7	amod	_	GTtags=Dem,Sg,Nom,Indef
-7	весяласта	весяласта	ADV	Adv	_	4	xcomp	_	_
-8	и	и	CCONJ	CC	_	9	cc	_	_
-9	ляпоста	ляпоста	ADV	Adv	_	7	conj	_	_
-10	главнайть	главнай	ADJ	A	Case=Gen|Definite=Def|Number=Sing	7	obl	_	GTtags=Sg,Gen,Def
-11	мархта	мархта	ADP	Adp	_	10	case	_	SpaceAfter=No
-12	.	.	PUNCT	PUNCT	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 amod	color:blue
+1	Мокшень	мокша	ADJ	A	Case=Gen|Definite=Ind|Number=Plur,Sing	2	amod	_	CGdephead=#1-&gt;1|CGdeprel=@&gt;N|GTtags=SP,Gen,Indef
+2	мастор	мастор	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	vocative	_	CGdephead=#2-&gt;0|CGdeprel=@X|GTtags=?|SpaceAfter=No
+3	,	,	PUNCT	CLB	_	5	punct	_	CGdephead=#3-&gt;2|CGdeprel=@X|GTtags=CLB
+4	мазы	мазы	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	5	amod	_	CGdephead=#4-&gt;0|CGdeprel=@X|GTtags=Sg,Nom,Indef
+5	крайняй	крайняй	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	2	appos	_	CGdephead=#5-&gt;0|CGdeprel=@SPRED|GTtags=Sg,Nom,Indef|SpaceAfter=No
+6	,	,	PUNCT	CLB	_	5	punct	_	CGdephead=#6-&gt;5|CGdeprel=@X|GTtags=CLB
+7	вай	вай	INTJ	Interj	_	10	discourse	_	CGdephead=#7-&gt;0|CGdeprel=@INTERJ|GTtags=
+8	пяк	пяк	ADV	Adv	AdvType=Deg	10	advmod	_	CGdephead=#8-&gt;0|CGdeprel=@X|GTtags=Deg
+9	эздон	эзда	ADP	Po	AdpType=Post|Case=Abl|Number[psor]=Sing|Person[psor]=1	10	nmod	_	CGdephead=#9-&gt;0|CGdeprel=@X|GTtags=Po,Abl,PxSg1
+10	ичкозят	ичкозе	ADV	Adv	Case=Loc|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	CGdephead=#10-&gt;5|CGdeprel=@SPRED|GTtags=Loc,Clt/Cop,Prs,ScSg2|SpaceAfter=No
+11	...	...	PUNCT	CLB	_	10	punct	_	CGdephead=#11-&gt;5|CGdeprel=@X|GTtags=CLB
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 12 amod	color:blue
-1	Эрь	эрь	INTJ	Interj	_	11	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	PUNCT	_	3	punct	_	_
-3	аванят	ава	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Plur	11	vocative	_	GTtags=Der/Dimin,Pl,Nom,Indef|SpaceAfter=No
-4	,	,	PUNCT	PUNCT	_	3	punct	_	_
-5	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	6	aux:neg	_	GTtags=Aux,Neg
-6	озадонь	озадонь	ADJ	A	Derivation=GenAttr	7	amod	_	GTtags=GenAttr
-7	седи	седи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	11	advcl	_	GTtags=Sg,Nom,Indef
-8	улефтяряль	улемс	AUX	V	Mood=NegCndSub|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	7	cop	_	GTtags=NegProt,Conj,ScSg3|SpaceAfter=No
-9	,	,	PUNCT	PUNCT	_	7	punct	_	_
-10	дяряй	дяряй	PART	Pcle	_	11	advmod	_	GTtags=Cond
-11	сявольхце	сявомс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3
-12	илянь	иля	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	14	amod	_	GTtags=VGen
-13	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	14	nmod	_	GTtags=Sg,Nom,Indef
-14	урмать	урма	NOUN	N	Case=Gen|Definite=Def|Number=Sing	11	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
-15	,	,	PUNCT	PUNCT	_	11	punct	_	_
-16	...	...	PUNCT	PUNCT	_	11	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 amod	color:blue
+1	Шись	ши	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	CGdephead=#1-&gt;2|CGdeprel=@SUBJ&gt;|GTtags=Sg,Nom,Def
+2	пиди	пидемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	CGdephead=#2-&gt;0|CGdeprel=@FMV|GTtags=Ind,Prs,ScSg3
+3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	4	aux:neg	_	CGdephead=#3-&gt;2|CGdeprel=@FAUX|GTtags=Aux,Neg
+4	азовомшка	азомс	VERB	V	Case=Nom|Definite=Ind|Derivation=OvOms|Number=Sing	7	amod	_	CGdephead=#4-&gt;10|CGdeprel=@IMV|GTtags=Der/OvOms,V,Ger,Cmpr,Sg,Nom,Indef
+5	/	/	PUNCT	PUNCT	_	6	punct	_	CGdephead=#5-&gt;6|CGdeprel=@X|GTtags=PUNCT
+6	пси	пси	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	7	amod	_	CGdephead=#6-&gt;7|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
+7	модать	мода	NOUN	N	Case=Gen|Definite=Def|Number=Sing	8	nmod	_	CGdephead=#7-&gt;7|CGdeprel=@&gt;P|GTtags=Sg,Gen,Def
+8	лангс	ланга	NOUN	N	Case=Ill|Definite=Ind|NounType=Relat|Number=Plur,Sing	11	obl	_	CGdephead=#8-&gt;4|CGdeprel=@&lt;ADVL|GTtags=Relator,SP,Ill,Indef
+9	кяпе	кяпе	ADV	Adv	AdvType=Sta	11	advcl	_	CGdephead=#9-&gt;9|CGdeprel=@&gt;N|GTtags=Sg,Nom,Indef
+10	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	11	aux:neg	_	CGdephead=#10-&gt;3|CGdeprel=@IAUX|GTtags=Aux,Neg
+11	шятяват	шятямс	VERB	V	Derivation=OvOms|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	2	conj	_	CGdephead=#11-&gt;3|CGdeprel=@FMV|GTtags=Der/OvOms,V,Ind,Prs,ScSg2
+12	...	...	PUNCT	CLB	_	2	punct	_	CGdephead=#12-&gt;2|CGdeprel=@X|GTtags=CLB
 
 ~~~
 

@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 9 10 csubj	color:blue
 1	En	en	ADP	P	AdpType=Prep	3	case	_	_
 2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	5	obl	_	_
+3	BNG	bng	PROPN	Zgms	Gender=Masc|Number=Sing	5	obl	_	_
 4	tamén	tamén	ADV	Wn	_	5	advmod	_	_
 5	pensan	pensar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	Cs	_	9	mark	_	_
@@ -50,7 +50,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 2	de	de	ADP	P	AdpType=Prep	3	case	_	_
 3	emigrante	emigrante	NOUN	Scas	Gender=Com|Number=Sing	1	obl	_	_
 4	a	a	ADP	P	AdpType=Prep	5	case	_	_
-5	Galiza	Galiza	PROPN	Sp00	_	1	obl	_	_
+5	Galiza	galiza	PROPN	Sp00	_	1	obl	_	_
 6	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	como	como	SCONJ	Cs	_	8	mark	_	_
 8	sufrir	sufrir	VERB	V0f000	VerbForm=Inf	0	root	_	_
@@ -76,7 +76,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 4	que	que	SCONJ	Cs	_	7	mark	_	_
 5	en	en	ADP	P	AdpType=Prep	6	case	_	_
-6	España	España	PROPN	Sp00	_	7	obl	_	_
+6	España	españa	PROPN	Sp00	_	7	obl	_	_
 7	existe	existir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
 8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	amplo	amplo	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_

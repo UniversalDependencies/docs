@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15210 nodes (5%) are attached to their parents as `mark`.
+13993 nodes (5%) are attached to their parents as `mark`.
 
-15197 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.89493754109139.
+13990 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.70628171228471.
 
-The following 19 pairs of parts of speech are connected with `mark`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (8576; 56% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (4001; 26% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (1462; 10% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (761; 5% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (69; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (67; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (60; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (55; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (42; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (32; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (25; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (19; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (15; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `mark`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (7478; 53% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (3947; 28% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (1524; 11% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (621; 4% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (120; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (67; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (63; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (43; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (30; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (17; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,16 +22,16 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 mark	color:blue
-1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
-2	får	få	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-4	når	når	SCONJ	_	_	6	mark	_	_
-5	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-6	bakar	bake	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	_
-7	brødet	brød	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	6	obj	_	_
-8	i	i	ADP	_	_	9	case	_	_
-9	former	form	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
-10	.	$.	PUNCT	_	_	2	punct	_	_
+1	Det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	2	obj	_	_
+2	får	få	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	eg	eg	PRON	pron	Animacy=Hum|Case=Nom|Person=1|PronType=Prs	2	nsubj	_	_
+4	når	når	SCONJ	sbu	_	6	mark	_	_
+5	eg	eg	PRON	pron	Animacy=Hum|Case=Nom|Person=1|PronType=Prs	6	nsubj	_	_
+6	bakar	bake	VERB	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+7	brødet	brød	NOUN	subst	Gender=Neut	6	obj	_	_
+8	i	i	ADP	prep	_	9	case	_	_
+9	former	form	NOUN	subst	Definite=Ind|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+10	.	$.	PUNCT	clb	_	2	punct	_	_
 
 ~~~
 
@@ -42,40 +42,42 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 mark	color:blue
-1	Då	då	ADV	_	_	4	advmod	_	_
-2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
-4	viktig	viktig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
-5	å	å	PART	_	_	6	mark	_	_
-6	ha	ha	VERB	_	VerbForm=Inf	4	csubj	_	_
-7	eit	ein	DET	_	Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
-8	godt	god	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
-9	brød	brød	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	6	obj	_	_
-10	å	å	PART	_	_	11	mark	_	_
-11	smøre	smøre	VERB	_	VerbForm=Inf	9	acl	_	_
-12	matpakke	matpakke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
-13	av	av	ADP	_	_	12	nmod	_	SpaceAfter=No
-14	.	$.	PUNCT	_	_	4	punct	_	_
+1	Då	då	ADV	adv	_	4	advmod	_	_
+2	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	det	det	PRON	pron	Gender=Neut|Person=3|PronType=Prs	4	expl	_	_
+4	viktig	viktig	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	0	root	_	_
+5	å	å	PART	inf-merke	_	6	mark	_	_
+6	ha	ha	VERB	verb	VerbForm=Inf	4	csubj	_	_
+7	eit	ein	DET	det	Gender=Neut|PronType=Art	9	det	_	_
+8	godt	god	ADJ	adj	Definite=Ind|Degree=Pos|Gender=Neut	9	amod	_	_
+9	brød	brød	NOUN	subst	Definite=Ind|Gender=Neut	6	obj	_	_
+10	å	å	PART	inf-merke	_	11	mark	_	_
+11	smøre	smøre	VERB	verb	VerbForm=Inf	9	acl	_	_
+12	matpakke	matpakke	NOUN	subst	Definite=Ind|Gender=Fem	11	obj	_	_
+13	av	av	ADP	prep	_	12	nmod	_	SpaceAfter=No
+14	.	$.	PUNCT	clb	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 5 mark	color:blue
-1	Men	men	CCONJ	_	_	3	cc	_	_
-2	då	då	ADV	_	_	3	advmod	_	_
-3	gløymer	gløyme	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
-5	at	at	SCONJ	_	_	9	mark	_	_
-6	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-7	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
-8	oppgjeven	oppgjeven	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	9	amod	_	_
-9	inntekt	inntekt	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	3	ccomp	_	SpaceAfter=No
-10	.	$.	PUNCT	_	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 8 mark	color:blue
+1	Steik	steikje	VERB	verb	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	brøda	brød	NOUN	subst	Gender=Neut|Number=Plur	1	obj	_	_
+3	i	i	ADP	prep	_	7	case	_	_
+4	40	40	NUM	det	Number=Plur|NumType=Card	7	nummod	_	SpaceAfter=No
+5	-	$-	PUNCT	<strek>	_	6	punct	_	SpaceAfter=No
+6	45	45	NUM	det	Number=Plur|NumType=Card	4	conj	_	_
+7	minutt	minutt	NOUN	subst	Definite=Ind|Gender=Neut|Number=Plur	1	obl	_	_
+8	til	til	SCONJ	sbu	_	11	mark	_	_
+9	dei	dei	PRON	pron	Animacy=Hum|Case=Acc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	_
+10	er	vere	AUX	verb	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	ferdige	ferdig	ADJ	adj	Degree=Pos|Number=Plur	1	advcl	_	SpaceAfter=No
+12	.	$.	PUNCT	clb	_	1	punct	_	_
 
 ~~~
 

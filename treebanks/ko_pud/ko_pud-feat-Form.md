@@ -11,7 +11,7 @@ It occurs with 3 different values: `Adn`, `Aux`, `Compl`.
 
 1970 tokens (12%) have a non-empty value of `Form`.
 906 types (11%) occur at least once with a non-empty value of `Form`.
-22 lemmas (1%) occur at least once with a non-empty value of `Form`.
+27 lemmas (1%) occur at least once with a non-empty value of `Form`.
 The feature is used with 5 part-of-speech tags: <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (1117; 7% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (472; 3% instances), <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> (362; 2% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -49,6 +49,12 @@ The most frequent other feature values with which `AUX` and `Form` co-occurred: 
 * `Adn` (250; 69% of non-empty `Form`): 인, 있는, 일, 이라는, 이란, 않은, 가는, 있던, 내는, 낼
 * `Aux` (16; 4% of non-empty `Form`): 이지, 싶어, 하지, 놓고, 못하게, 못하고, 않게, 이어야, 이진, 치우고
 * `Compl` (96; 27% of non-empty `Form`): 이며, 이고, 이지만, 있고, 있으며, 인데, 있는데, 하는데, 않아, 인지
+
+<table>
+  <tr><th>Paradigm <i>이</i></th><th><tt>Adn</tt></th><th><tt>Aux</tt></th><th><tt>Compl</tt></th></tr>
+  <tr><td><tt>_</tt></td><td>인, 일, 이라는, 이란, 이던</td><td>이지, 이어야, 이진</td><td>이며, 이고, 이지만, 인데, 인지, 이거나, 이든, 이어서, 이자, 이지, 일지</td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>이었던, 였던, 이던, 이었을</td><td></td><td>였고, 였으며, 이었고, 이었는데, 이었으며, 였는데, 였지만</td></tr>
+</table>
 
 ### `PART`
 

@@ -7,6 +7,12 @@ udver: '2'
 
 A clausal passive subject is a clausal syntactic subject of a passive clause.
 
+
+~~~ sdparse
+That she lied was suspected by everyone
+csubj:pass(suspected, lied)
+~~~
+
 ~~~ sdparse
 Bylo mi doporučeno , abych to velmi dobře zvážil . \n It-has-been to-me recommended , that-I it very well weigh .
 csubj:pass(doporučeno, zvážil)
@@ -20,4 +26,4 @@ Nepředpokládá se , že přijdete před devátou . \n It-does-not-expect itsel
 csubj:pass(Nepředpokládá, přijdete)
 csubj:pass(It-does-not-expect, you-will-come)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:20 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:03 CEST -->

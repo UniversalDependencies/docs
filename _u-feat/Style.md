@@ -19,29 +19,33 @@ udver: '2'
 </tr>
 </table>
 
-This
-may be a lexical feature (some words-lemmas are archaic, some are
-colloquial) or a morphological feature (inflectional patterns may
-systematically change between dialects or styles).
-English pronouns offer a useful case study: _<b>thou</b>_ is archaic; 
-_<b>whom</b>_ is often somewhat formal; _<b>ya</b>_ is colloquial, used in a casual/familiar way (_See <b>ya</b>!_); 
-_<b>y'all</b>_ is vernacular (especially associated with certain regions); 
-and <b>wtf</b> is arguably an expressive variant of the pronoun _what_ in contexts where a nominal is required 
+This may be a lexical feature (some words-lemmas are archaic, some are colloquial) or a morphological feature
+(inflectional patterns may systematically change between dialects or styles).
+English pronouns offer a useful case study: _<b>thou</b>_ is archaic;
+_<b>whom</b>_ is often somewhat formal; _<b>ya</b>_ is colloquial, used in a casual/familiar way (_See <b>ya</b>!_);
+_<b>y'all</b>_ is vernacular (especially associated with certain regions);
+and <b>wtf</b> is arguably an expressive variant of the pronoun _what_ in contexts where a nominal is required
 (_<b>Wtf</b> are you doing?!_).
 
 Besides real morphology, the choices that make a particular word form
 belong to a different style may also be orthographic.
 
-This feature could be used
-in many languages but only a few choose to actually annotate it. Seen
-in Bulgarian, Czech, Danish, English, Finnish and Hungarian.
+This feature could be used in many languages but only a few choose to actually annotate it.
+Seen in Bulgarian, Czech, Danish, English, Finnish and Hungarian.
 
 ### <a name="Arch">`Arch`</a>: archaic, obsolete
 
+This value should be used if it is desirable in a language to mark archaic lexemes or archaic morphological forms.
+Language-specific guidelines must define what exactly it means to be archaic. Note that there are theoretical
+problems, especially if we want to annotate diachronic corpora with various stages of the language. There is only
+one set of guidelines per language, which should accommodate all stages and genres. It would be unfortunate if
+most words in older texts had to be labeled as `Style=Arch`. Hence, the only useful application of the feature is
+probably for words that were already archaic at the time of production of the text.
+
 #### Examples
 
-* [cs] _Mezi těmito rodinami jsou <b>dosti</b> značné rozdíly._ “There are quite significant differences between these families.”
-  (The modern equivalent would be _dost_.)
+* [en] _<b>Thou shalt</b> not kill._
+  (The modern equivalent would be _You shall not kill._)
 
 ### <a name="Rare">`Rare`</a>: rare
 
@@ -83,7 +87,7 @@ in Bulgarian, Czech, Danish, English, Finnish and Hungarian.
 
 This indicates a distinctive morphological or spelling choice for added expressiveness (with respect to pronunciation or meaning).
 
-In the case of an expressive spelling variant, this feature should be paired with a `CorrectForm` in the MISC column, as explained in [the page on typos](/u/overview/typos.html). 
+In the case of an expressive spelling variant, this feature should be paired with a `CorrectForm` in the MISC column, as explained in [the page on typos](/u/overview/typos.html).
 Compare the [Typo]() feature, which covers errors and typographical unexpectedness.
 
 
@@ -103,4 +107,4 @@ Compare the [Typo]() feature, which covers errors and typographical unexpectedne
 
 * [cs] _Doporučuji vrátit <b>parchanta</b> do košíčku, postrčit po vodě a na hloubce ho převrhnout._ “I recommend returning the bastard to the basket, pushing it over the water and overturning it at depth.”
 
-<!-- Interlanguage links updated Po lis 14 15:34:58 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:23 CEST -->

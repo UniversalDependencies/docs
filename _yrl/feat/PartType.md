@@ -18,8 +18,7 @@ udver: '2'
 </tr>
 </table>
 
-Types of particles are found in various tagsets and are highly language-specific. The list here
-is not exhaustive. Language-specific documentation should provide a version of this page tailored
+Types of particles are found in various tagsets and are highly language-specific. The list here is not exhaustive. Language-specific documentation should provide a version of this page tailored
 to the given language.
 
 ### <a name="Mod">`Mod`</a>: modal particle
@@ -60,10 +59,23 @@ The existential particle typically states the existence of an entity and/or intr
 
 Examples:
 
-[yrl] _aikwé_ (in _Aikwé siiya yawaraté iké._ "There are many jaguars here.")
+[yrl] _aikwé_ in _Aikwé siiya yawaraté iké._ "There are many jaguars here."
+
+### <a name="Prs">`Prs`</a>: presentative particle in Nheengatu
+
+Kouwenberg (2012:34):
+
+"A presentative particle is a deictic word that is used ‘to focus the hearer’s attention on entities in the surrounding situation or in the universe of discourse’ (Diessel 1999, 79; see also Andersen/Keenan 1985, 279and Lipiński 1997, 472–74). Well known examples include French *voici* and *voilà*, Latin *ecce* [...]."
+
+Accoding to Cruz (2011:362), the presentative particle in Nheengatu "is a deictic that presents an entity, pointing to it", allowing "the speaker to indicate the existence of an entity that is present in the communicative situation."
+
+Example:
+
+[yrl] *xukúi* in _Xukúi i makira aíwa._ (Cruz 2011:453) "Here is his dirty hammock."
 
 #### References
 
-Cruz, A. (2011). **Fonologia e gramática do nheengatú: A língua falada pelos povos Baré, Warekena e Baniwa**. LOT.
+Cruz, A. (2011). *Fonologia e gramática do nheengatú: A língua falada pelos povos Baré, Warekena e Baniwa*. LOT.
+Kouwenberg, N. J. C. (2012). Spatial Deixis in Akkadian: Demonstrative Pronouns, Presentative Particles and Locational Adverbs. *Zeitschrift für Assyriologie und Vorderasiatische Archäologie, 102*(1), 17-75. https://doi.org/10.1515/za-2012-0002
 
-<!-- Interlanguage links updated Po lis 14 15:34:53 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:11 CEST -->

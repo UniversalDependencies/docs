@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-29904 tokens (10%) have a non-empty value of `Tense`.
+29903 tokens (10%) have a non-empty value of `Tense`.
 6392 types (23%) occur at least once with a non-empty value of `Tense`.
 1884 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18877; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11025; 4% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> (18877; 6% instances), <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> (11024; 4% instances), <tt><a href="it_isdt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `VERB`
 
 18877 <tt><a href="it_isdt-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13538; 72%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10742; 57%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10515; 56%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9630; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13538; 72%), <tt><a href="it_isdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10743; 57%), <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10516; 56%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9631; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (424; 2% of non-empty `Tense`): <em>sarà, vedrà, avrà, farà, vedremo, andrà, continuerà, diventerà, saranno, avranno</em>
 * `Imp` (919; 5% of non-empty `Tense`): <em>era, aveva, chiamava, erano, avevano, faceva, facevano, diceva, lavorava, lavoravano</em>
-* `Past` (9160; 49% of non-empty `Tense`): <em>fatto, visto, vinto, avuto, tenuto, detto, morì, nato, dato, messo</em>
-* `Pres` (8374; 44% of non-empty `Tense`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, significa</em>
+* `Past` (9159; 49% of non-empty `Tense`): <em>fatto, visto, vinto, avuto, tenuto, detto, morì, nato, dato, messo</em>
+* `Pres` (8375; 44% of non-empty `Tense`): <em>ha, è, hanno, trova, sono, fa, chiama, fanno, dice, significa</em>
 * `EMPTY` (6371): <em>fare, far, vedere, avere, dire, dare, pagare, andare, chiedere, usare</em>
 
 <table>
@@ -50,16 +50,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-11025 <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
+11024 <tt><a href="it_isdt-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10272; 93%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (9669; 88%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9319; 85%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7904; 72%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="it_isdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10271; 93%), <tt><a href="it_isdt-feat-Person.html">Person</a></tt><tt>=3</tt> (9669; 88%), <tt><a href="it_isdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9318; 85%), <tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7904; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (218; 2% of non-empty `Tense`): <em>sarà, saranno, potrà, dovrà, potranno, dovranno, verrà, sarò, avrà, potremo</em>
 * `Imp` (886; 8% of non-empty `Tense`): <em>era, erano, aveva, avevano, fosse, avesse, poteva, potevano, fossero, avevo</em>
 * `Past` (1096; 10% of non-empty `Tense`): <em>stato, stata, fu, stati, venne, state, furono, potuto, dovuto, vennero</em>
-* `Pres` (8825; 80% of non-empty `Tense`): <em>è, sono, ha, può, hanno, possono, deve, sia, viene, ho</em>
+* `Pres` (8824; 80% of non-empty `Tense`): <em>è, sono, ha, può, hanno, possono, deve, sia, viene, ho</em>
 * `EMPTY` (680): <em>essere, aver, poter, esser, essendo, dover, avere, voler, venire, far</em>
 
 <table>
@@ -94,11 +94,11 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (2; 100% of non-empty `Tense`): <em>partiti, previsto</em>
-* `EMPTY` (59441): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
+* `EMPTY` (59426): <em>anni, presidente, parte, anno, fondo, diritto, persone, legge, città, stato</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1372; 74%),
+<tt>VERB --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1372; 73%),
 <tt>AUX --[<tt><a href="it_isdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%).
 

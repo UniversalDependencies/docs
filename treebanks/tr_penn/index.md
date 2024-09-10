@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Neslihan Cesur, Aslı Kuzgun, Olcay Taner Yıldız, Büşra Marşan, Neslihan Kara, Bilge Nas Arıcan, Merve Özçelik, Deniz Baran Aslan.
 
 Repository: [UD_Turkish-Penn](https://github.com/UniversalDependencies/UD_Turkish-Penn)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_penn214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 ## Relations
 
-[acl](tr_penn-dep-acl.html) – [advcl](tr_penn-dep-advcl.html) – [advmod](tr_penn-dep-advmod.html) – [amod](tr_penn-dep-amod.html) – [appos](tr_penn-dep-appos.html) – [aux](tr_penn-dep-aux.html) – [case](tr_penn-dep-case.html) – [cc](tr_penn-dep-cc.html) – [ccomp](tr_penn-dep-ccomp.html) – [clf](tr_penn-dep-clf.html) – [compound](tr_penn-dep-compound.html) – [conj](tr_penn-dep-conj.html) – [csubj](tr_penn-dep-csubj.html) – [dep](tr_penn-dep-dep.html) – [det](tr_penn-dep-det.html) – [discourse](tr_penn-dep-discourse.html) – [dislocated](tr_penn-dep-dislocated.html) – [fixed](tr_penn-dep-fixed.html) – [flat](tr_penn-dep-flat.html) – [goeswith](tr_penn-dep-goeswith.html) – [iobj](tr_penn-dep-iobj.html) – [list](tr_penn-dep-list.html) – [mark](tr_penn-dep-mark.html) – [nmod](tr_penn-dep-nmod.html) – [nsubj](tr_penn-dep-nsubj.html) – [nsubj:outer](tr_penn-dep-nsubj-outer.html) – [nummod](tr_penn-dep-nummod.html) – [obj](tr_penn-dep-obj.html) – [obl](tr_penn-dep-obl.html) – [orphan](tr_penn-dep-orphan.html) – [parataxis](tr_penn-dep-parataxis.html) – [punct](tr_penn-dep-punct.html) – [root](tr_penn-dep-root.html) – [vocative](tr_penn-dep-vocative.html) – [xcomp](tr_penn-dep-xcomp.html)
+[acl](tr_penn-dep-acl.html) – [advcl](tr_penn-dep-advcl.html) – [advmod](tr_penn-dep-advmod.html) – [amod](tr_penn-dep-amod.html) – [appos](tr_penn-dep-appos.html) – [aux](tr_penn-dep-aux.html) – [case](tr_penn-dep-case.html) – [cc](tr_penn-dep-cc.html) – [ccomp](tr_penn-dep-ccomp.html) – [clf](tr_penn-dep-clf.html) – [compound](tr_penn-dep-compound.html) – [conj](tr_penn-dep-conj.html) – [csubj](tr_penn-dep-csubj.html) – [dep](tr_penn-dep-dep.html) – [det](tr_penn-dep-det.html) – [discourse](tr_penn-dep-discourse.html) – [dislocated](tr_penn-dep-dislocated.html) – [fixed](tr_penn-dep-fixed.html) – [flat](tr_penn-dep-flat.html) – [goeswith](tr_penn-dep-goeswith.html) – [iobj](tr_penn-dep-iobj.html) – [list](tr_penn-dep-list.html) – [mark](tr_penn-dep-mark.html) – [nmod](tr_penn-dep-nmod.html) – [nmod:tmod](tr_penn-dep-nmod-tmod.html) – [nsubj](tr_penn-dep-nsubj.html) – [nsubj:outer](tr_penn-dep-nsubj-outer.html) – [nummod](tr_penn-dep-nummod.html) – [obj](tr_penn-dep-obj.html) – [obl](tr_penn-dep-obl.html) – [orphan](tr_penn-dep-orphan.html) – [parataxis](tr_penn-dep-parataxis.html) – [punct](tr_penn-dep-punct.html) – [root](tr_penn-dep-root.html) – [vocative](tr_penn-dep-vocative.html) – [xcomp](tr_penn-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -93,7 +93,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
-<li>This corpus contains 3529 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
+<li>This corpus contains 3528 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
 </ul>
 
 <ul>
@@ -763,7 +763,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Sing
     <ul>
       <li>AUX: değilim, değilsin</li>
-      <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, tarafından, ayında, endeksi, doları</li>
+      <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, ayında, tarafından, endeksi, doları</li>
       <li>PROPN: IBM'in, CEO'su, Corp.'un, Inc.'ın, Lynch'in, onu, Bridge'in, Bronx'u, Colgate'in, OPEC'in</li>
       <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
       <li>VERB-Conv: arayışındalar, düşüşündedir</li>
@@ -863,9 +863,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat-ADP(yönelik) (1)</li>
       <li>VERB-Fin--NOUN-Gen (32)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(iç) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Loc (5)</li>
-      <li>VERB-Fin--NOUN-Nom (7230)</li>
+      <li>VERB-Fin--NOUN-Nom (7228)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (40)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(de) (43)</li>
@@ -896,7 +895,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Abl (100)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1827)</li>
+      <li>VERB-Fin--NOUN-Acc (1828)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(da) (12)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(de) (13)</li>
       <li>VERB-Fin--NOUN-Dat (478)</li>
@@ -906,7 +905,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (13)</li>
       <li>VERB-Fin--NOUN-Ins (28)</li>
       <li>VERB-Fin--NOUN-Loc (32)</li>
-      <li>VERB-Fin--NOUN-Nom (1985)</li>
+      <li>VERB-Fin--NOUN-Nom (1982)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(alt) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (5)</li>
@@ -952,6 +951,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 1 relation subtypes: <a>nsubj:outer</a></li>
+<li>This corpus uses 2 relation subtypes: <a>nmod:tmod</a>, <a>nsubj:outer</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
 </ul>

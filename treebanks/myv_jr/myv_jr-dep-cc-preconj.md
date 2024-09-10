@@ -23,10 +23,10 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc:preconj	color:blue
 1	И	и	CCONJ	CC	_	2	cc:preconj	_	_
-2	сорны	сорномс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScSg3|SpaceAfter=No
+2	сорны	сорномс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=TV,Ind,Prs,ScSg3|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	и	и	CCONJ	CC	_	5	cc	_	_
-5	дивси	дивсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	conj	_	GTtags=IV,Ind,Prs,ScSg3
+5	дивси	дивсемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	2	conj	_	GTtags=IV,Ind,Prs,ScSg3
 6	народось	народ	NOUN	N	Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -70,14 +70,14 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 10	пек	пек	ADV	Adv	AdvType=Deg	11	advmod:deg	_	GTtags=Degree
 11	вадря	вадря	ADJ	A	Number[subj]=Sing|Person[subj]=3|Tense=Pres	12	amod	_	GTtags=Prs,ScSg3
 12	он	он	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	13	obj	_	GTtags=Sg,Nom,Indef
-13	несь	неемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	7	conj	_	GTtags=TV,Ind,Prt1,ScSg3
+13	несь	неемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	7	conj	_	GTtags=TV,Ind,Prt1,ScSg3
 14	Федоров	Фёдоров	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	13	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	20	punct	_	_
 16	эли	эли	CCONJ	CC	_	20	cc	_	_
 17	мезень	мезе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing|PronType=Ind	20	obl	_	GTtags=Indef,SP,Gen,Indef
-18	кувалткак	кувалт	ADP	Adp	Derivation=PronGak	17	fixed	_	_
+18	кувалткак	кувалт	ADP	Po	AdpType=Post|Derivation=PronGak	17	fixed	_	_
 19	седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	nsubj	_	GTtags=Sg,Nom,PxSg3
-20	палы	паломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	7	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
+20	палы	паломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	7	conj	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
 21	?	?	PUNCT	CLB	_	7	punct	_	_
 
 ~~~

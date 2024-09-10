@@ -18,6 +18,13 @@ a [coordinating conjunction](../pos/CCONJ)
 cc(άρχισε, και)
 ~~~
 
+~~~ sdparse
+Είπε μα δεν τόλμησε
+cc(τόλμησε, μα)
+~~~
+
+*"μα" is tagged as cc only in the case that is used as the "αλλά". 
+
 A coordinating conjunction may be used to introduce a main sentence. Again, the [cc]() dependency is used.  
 
 <!--
@@ -38,4 +45,4 @@ cc(εφαρμόστηκε, και)
 ~~~
 
 For more on coordination, see the [conj]() relation.
-<!-- Interlanguage links updated Po lis 14 15:35:13 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:50 CEST -->

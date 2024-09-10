@@ -557,7 +557,7 @@ has both adessive and superessive).
 
 * [hu] _asztal_ "table"; _<b>asztalon</b>_ "on the table"
 * [hu] _könyvek_ "books"; _<b>könyveken</b>_ "on books"
-* [dar] _ustuj_ "table"; _<b>ustujčeb</b> "on the table"
+* [dar] _ustuj_ "table"; _<b>ustujčeb</b>_ "on the table"
 * [lez] _<b>векьел</b> (veq'el)_ "on grass"
 
 ### <a name="Spl">`Spl`</a>: superlative
@@ -659,4 +659,4 @@ The temporal case is used to indicate time.
 * Avery D. Andrews: The major functions of the noun phrase. In: Timothy Shopen (ed.) (2007): Language Typology and Syntactic Description, Volume I: Clause Structure. Second Edition. Cambridge University Press. ISBN 978-0-521-58156-1.
 * Iraide Ibarretxe-Antuñano (2004): “Polysemy in Basque locational cases”. Belgian Journal of Linguistics 18: 271–298.
 
-<!-- Interlanguage links updated Po lis 14 15:34:41 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:49 CEST -->

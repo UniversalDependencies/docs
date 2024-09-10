@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `advmod:cmp`: <tt><a
 1	—	—	PUNCT	PUNCT	_	4	punct	_	_
 2	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	4	vocative	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
-4	стяк	стямс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	GTtags=IV,Imprt,ScSg2
+4	стяк	стямс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2	0	root	_	GTtags=IV,Imprt,ScSg2
 5	седе	седе	ADV	Adv	Degree=Cmp	6	advmod:cmp	_	GTtags=Comp
 6	курок	курок	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Temp|SpaceAfter=No
 7	!	!	PUNCT	CLB	_	4	punct	_	_
@@ -57,18 +57,18 @@ The following 4 pairs of parts of speech are connected with `advmod:cmp`: <tt><a
 # visual-style 12	fgColor:white
 # visual-style 12 11 advmod:cmp	color:blue
 1	Чинь-чоп	Чинь-чоп	ADV	Adv	AdvType=Tim	3	advmod:tmod	_	GTtags=Temp
-2	кармавлинь	кармамс	AUX	V	Mood=Sub|Number[subj]=Sing|Person[subj]=1|Valency=1	3	aux:aspect	_	GTtags=IV,Conj,ScSg1
-3	шешкеме	шешкемс	VERB	V	Case=Loc|Valency=2|VerbForm=Inf	0	root	_	GTtags=TV,Inf,Loc
+2	кармавлинь	кармамс	AUX	V	Aspect=Inch|Mood=Sub|Number[subj]=Sing|Person[subj]=1	3	aux:aspect	_	GTtags=IV,Conj,ScSg1
+3	шешкеме	шешкемс	VERB	V	Case=Loc|VerbForm=Inf	0	root	_	GTtags=TV,Inf,Loc
 4	моданть	мода	NOUN	N	Case=Gen|Definite=Def|Number=Sing	3	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	9	punct	_	_
 6	ансяк	ансяк	ADV	Adv	_	9	advmod	_	GTtags=Exclusive
 7	седе	седе	ADV	Pcle	Degree=Cmp	8	advmod:cmp	_	GTtags=Adv,Comp
 8	куроксто	куроксто	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Temp
-9	лисевель	лисемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Valency=1	3	conj	_	GTtags=IV,Conj,ScSg3|SpaceAfter=No
+9	лисевель	лисемс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3	3	conj	_	GTtags=IV,Conj,ScSg3|SpaceAfter=No
 10	,	,	PUNCT	CLB	_	13	punct	_	_
 11	седе	седе	PART	Pcle	Degree=Cmp	12	advmod:cmp	_	GTtags=Adv,Comp
 12	курок	курок	ADV	Adv	AdvType=Tim	13	advmod:tmod	_	GTtags=Temp
-13	касоволь	касомс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3|Valency=1	3	conj	_	GTtags=IV,Conj,ScSg3|SpaceAfter=No
+13	касоволь	касомс	VERB	V	Mood=Sub|Number[subj]=Sing|Person[subj]=3	3	conj	_	GTtags=IV,Conj,ScSg3|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

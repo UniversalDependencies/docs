@@ -17,4 +17,25 @@ case(Marie, 's)
 my book
 nmod:poss(book, my)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:32 CET 2022 -->
+
+If preceded by a determiner, the determiner normally belongs within the possessive phrase:
+
+~~~ sdparse
+the Chair 's office
+det(Chair-2, the-1)
+nmod:poss(office-4, Chair-2)
+case(Chair-2, 's-3)
+~~~
+
+However, when the possessive modifier denotes kind rather than a referent, the determiner attaches outside the possessive phrase:
+
+~~~ sdparse
+a children 's story
+det(story, a)
+nmod:poss(story, children)
+case(children, 's)
+~~~
+
+The indefinite article clearly agrees in number with _story_ and not _children_.
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:24 CEST -->

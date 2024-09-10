@@ -14,4 +14,4 @@ The dependent must be clausal (or else it is an [advmod]()) and the dependent is
 text_en: "She blamed me a lot, however I slept there until morning."
 advcl(naː, mh) ("spend_the_night", "be_in_morning")
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:32 CEST -->

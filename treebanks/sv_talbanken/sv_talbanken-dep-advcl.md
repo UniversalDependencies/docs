@@ -72,7 +72,7 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	att	att	SCONJ	SN	_	8	mark	8:mark	_
 6	kvinnorna	kvinna	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	8	nsubj	8:nsubj	_
 7	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
-8	livlösa	livlös	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	3	advcl	3:advcl:att	SpaceAfter=No
+8	livlösa	livlös	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	3	advcl	3:advcl:att	SpaceAfter=No
 9	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~

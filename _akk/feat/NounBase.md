@@ -36,4 +36,4 @@ Terminal, or the status absolutus, in units of measure.
 * _<b>2 bilat kaspī/annakī</b>_ "two talents of silver/tin"
 
 
-<!-- Interlanguage links updated Po lis 14 15:34:50 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:05 CEST -->

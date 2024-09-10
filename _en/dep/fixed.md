@@ -5,12 +5,14 @@ shortdef: 'fixed multiword expression'
 udver: '2'
 ---
 
-The `fixed` relation is one of the three relations for multiword expressions (MWEs)
-(the other two being [flat]() and [compound]()). 
-It is used for certain fixed grammaticized expressions that behave
-like function words or short adverbials.
+The `fixed` relation is used for certain fixed grammaticized expressions that behave
+like function words or short adverbials, and for which a unique head cannot be identified.
+These are a _subset_ of multiword expressions that are morphosyntactically "fixed"
+in that they resist internal modification and inflection.
+(Compare: [flat]() for headless expressions not behaving like function words; 
+[compound]() for headed expressions that morphosyntactically resemble single words; 
+and [goeswith]() for words that contain improper spacing.)
 
-The fixed relation is used for certain fixed grammaticized expressions with function words that behave like a single function word. 
 Fixed expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the
 `fixed` label.
 
@@ -19,10 +21,10 @@ At present, this relation is used inside the following expressions, semantically
 | Category | Expressions |
 |----------|-------------|
 | [Augmentative/substitutive/conjunctive](#augmentativesubstitutiveconjunctive-expressions) | *as well*, *as well as*, *rather than*, *instead of*, *let alone* |
-| [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that* |
-| [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to* |
+| [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that*, *such that* |
+| [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to*, *on board* |
 | [Circumstantial/conditional](#circumstantialconditional-connectives) | *in case (of)*, *whether or not* |
-| [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as* |
+| [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as*, *all of* |
 | [Attributional](#attributional-markers) | *according to* |
 | [Exemplification](#exemplification) | *such as* |
 | [Reciprocal Pronouns](#reciprocal-pronouns) | *each other*, *one another* |
@@ -33,7 +35,7 @@ Below the description of `fixed` expressions are a few idiomatic combinations th
 | Non-`fixed` Expressions |
 |-------------------------|
 | Double spatial prepositions: *out of*, *off of*, etc. |
-| *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *had better*; *nothing/anything but*; *so long*; *what about*, *what if* |
+| *about to*; *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *had better*; *nothing/anything but*; *so long*; *what about*, *what if* |
 
 ## `fixed` expressions
 
@@ -110,7 +112,7 @@ conj(hurt-6, hurt-10)
 *because of* (and other forms, such as *b c of* and *b/c of*)
 
 ~~~ sdparse
-He cried because of you
+He cried because/ADP[ExtPos=ADP] of/ADP you
 case(you, because)
 fixed(because, of)
 ~~~
@@ -118,7 +120,7 @@ fixed(because, of)
 *due to* (and other forms, such as *d t* and *d/t*)
 
 ~~~ sdparse
-He cried due to the fact that you hurt him
+He cried due/ADJ[ExtPos=ADP] to/ADP the fact that you hurt him
 case(fact, due)
 fixed(due, to)
 ~~~
@@ -128,7 +130,7 @@ fixed(due, to)
 ~~~ sdparse
 How come John left early ?
 fixed(How, come)
-mark(left, How)
+advmod(left, How)
 ~~~
 
 *in order*
@@ -168,13 +170,21 @@ mark(feel, so)
 fixed(so, that)
 ~~~
 
+*such that*
+
+~~~ sdparse
+Let the rectangle KL be applied to DE such that KL equals BC
+mark(equals, such)
+fixed(such, that)
+~~~
+
 
 ### Spatiotemporal markers
 
 *in between*
 
 ~~~ sdparse
-John left in between meetings
+John left in/ADP[ExtPos=ADP] between/ADP meetings
 fixed(in, between)
 case(meetings, in)
 ~~~
@@ -182,9 +192,17 @@ case(meetings, in)
 *prior to*
 
 ~~~ sdparse
-John left prior to the meeting
+John left prior/ADJ[ExtPos=ADP] to/ADP the meeting
 fixed(prior, to)
 case(meeting, prior)
+~~~
+
+*on board*
+
+~~~ sdparse
+on/ADP[ExtPos=ADP] board/NOUN the ship
+fixed(on, board)
+case(ship, on)
 ~~~
 
 
@@ -259,6 +277,13 @@ fixed(As, as)
 advmod(percent, As)
 ~~~
 
+*all of* (when used in quantities)
+
+~~~ sdparse
+All of ten minutes
+fixed(All, of)
+advmod(minutes, All)
+~~~
 
 ### Attributional markers
 
@@ -308,7 +333,7 @@ obj(saw, one)
 *all but*
 
 ~~~ sdparse
-John has all but left
+John has all/DET but/ADP left
 fixed(all, but)
 advmod(left, all)
 ~~~
@@ -356,7 +381,7 @@ case(love, As)
 *at least* (when not used for quantities)
 
 ~~~ sdparse
-At least I like dogs
+At/ADP least/ADJ I like dogs
 fixed(At, least)
 advmod(like, At)
 ~~~
@@ -464,13 +489,13 @@ case(least, at)
 *at best*, *at worst*
 
 ~~~ sdparse
-At best , they were guesses
+At/ADP best/ADV , they were guesses
 nmod(guesses, best)
 case(best, At)
 ~~~
 
 ~~~ sdparse
-At worst , they were lies
+At/ADP worst/ADV , they were lies
 nmod(lies, worst)
 case(worst, At)
 ~~~
@@ -523,9 +548,19 @@ nsubj(ends, it)
 *had better* (and *'d better*) ([issue #803](https://github.com/UniversalDependencies/docs/issues/803))
 
 ~~~ sdparse
-You had better apologize
+You had/AUX better/ADV apologize
 aux(apologize, had)
 advmod(apologize, better)
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:26 CET 2022 -->
+*about to* ([issue EWT#430](https://github.com/UniversalDependencies/UD_English-EWT/issues/430))
+
+~~~ sdparse
+We are/AUX about/ADJ to/PART leave
+nsubj(about, We)
+cop(about, are)
+xcomp(about, leave)
+mark(leave, to)
+~~~
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:13 CEST -->

@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `aux:q`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 aux:q	color:blue
-1	Удалась	удаламс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
+1	Удалась	удаламс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3
 2	ли	ли	AUX	_	_	1	aux:q	_	GTtags=Qst
 3	панжемс	панжемс	VERB	V	VerbForm=Inf	1	xcomp	_	GTtags=Inf
 4	ся	ся	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Dem	5	det	_	GTtags=Dem,Sg,Nom,Indef

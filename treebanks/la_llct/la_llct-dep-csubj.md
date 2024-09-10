@@ -12,9 +12,9 @@ There are 2 language-specific subtypes of `csubj`: <tt><a href="la_llct-dep-csub
 190 nodes (0%) are attached to their parents as `csubj`.
 
 179 instances of `csubj` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 18.3789473684211.
+Average distance between parent and child is 18.3842105263158.
 
-The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (102; 54% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (76; 40% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (102; 54% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (76; 40% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt>-<tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	3	cc	_	_
 2	nulli	nullus	DET	a|a|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Polarity=Neg|PronType=Ind	3	obl:arg	_	_
 3	liceat	licet	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
-4	nolle	nolo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	3	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+4	nolle	nolo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 5	quod	qui	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	_
 6	semel	semel	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Mult	7	obl	_	_
 7	voluit	uolo	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
@@ -43,22 +43,22 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 10 8 csubj	color:blue
 1	Christi	Christus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
 2	retributionem	retributio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
-3	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obl:arg	_	_
-4	expectandum	exspecto	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	5	ccomp	_	TraditionalMood=Gerundium
-5	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl:arg	_	_
+4	expectandum	exspecto	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	TraditionalMood=Gerundium
+5	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 6	,	,	PUNCT	Punc	_	10	punct	_	_
 7	senper	semper	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Tim	8	advmod:tmod	_	_
-8	dispensare	dispenso	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-9	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	_
-10	oportunum	opportunus	ADJ	a|a|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	5	conj	_	_
-11	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+8	dispensare	dispenso	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	10	csubj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+9	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	_
+10	oportunum	opportunus	ADJ	a|a|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
+11	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 12	illa	ille	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	obj	_	_
 13	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	17	mark	_	_
 14	anime	anima	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
 15	me	meus	DET	a|a|1|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	14	det	_	_
 16	medillam	medela	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
 17	adquirenda	acquiro	VERB	t|t|-|s|p|g|p|f|a|-	Aspect=Prosp|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	8	advcl	_	SpaceAfter=No|TraditionalMood=Gerundivum
-18	.	.	PUNCT	Punc	_	5	punct	_	_
+18	.	.	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
 
@@ -71,8 +71,8 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 2 46 csubj	color:blue
 1	manifesta	manifestus	ADJ	a|a|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	2	amod	_	_
 2	causa	causa	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-3	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-4	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	det	_	_
+3	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+4	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	det	_	_
 5	Cristiano	Christianus	PROPN	Propn|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	2	obl:arg	_	SpaceAfter=No
 6	,	,	PUNCT	Punc	_	7	punct	_	_
 7	filius	filius	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	_
@@ -92,8 +92,8 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 21	tamen	tamen	ADV	d|d|-|-|-|-|-|-|-|-	Form=Emp	46	advmod	_	_
 22	ipso	ipse	DET	p|p|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	23	det	_	_
 23	Vitali	Vitalis	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	24	nsubj	_	_
-24	consentiente	consentio	VERB	t|t|-|s|p|p|a|m|b|-	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	46	advcl	_	TraditionalMood=Participium|TraditionalTense=Praesens
-25	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	24	obl:arg	_	_
+24	consentiente	consentio	VERB	t|t|-|s|p|p|a|m|b|-	Aspect=Imp|Case=Abl|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	46	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Praesens
+25	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	24	obl:arg	_	_
 26	tu	tu	PRON	p|p|2|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	27	det	_	_
 27	domno	domnus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	46	nsubj	_	_
 28	Ambrosio	Ambrosius	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	27	flat	_	SpaceAfter=No
@@ -115,7 +115,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 44	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	45	obl:arg	_	_
 45	persolvendum	persoluo	VERB	t|t|-|s|p|d|p|n|a|-	Aspect=Prosp|Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	46	advcl	_	TraditionalMood=Gerundium
 46	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	csubj	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
-47	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	46	obl:arg	_	SpaceAfter=No
+47	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	46	obl:arg	_	SpaceAfter=No
 48	,	,	PUNCT	Punc	_	51	punct	_	_
 49	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	51	advmod:emph	_	_
 50	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
@@ -141,7 +141,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 70	qua	qui	PRON	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Rel	74	obl	_	_
 71	quondam	quondam	ADJ	a|a|-|-|-|-|-|-|-|-	_	72	amod	_	_
 72	Ghititiulo	Ghititiolus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	74	nsubj	_	_
-73	fuit	sum	AUX	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	74	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+73	fuit	sum	AUX	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	74	aux	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 74	avitantes	habito	VERB	t|t|-|s|p|p|a|m|a|-	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	60	acl:relcl	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Praesens
 75	;	;	PUNCT	Punc	_	2	punct	_	_
 

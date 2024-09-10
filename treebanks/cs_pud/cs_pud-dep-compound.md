@@ -33,7 +33,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	11:case	LId=na-1
 10	zhruba	zhruba	ADV	Db-------------	_	11	advmod:emph	11:advmod:emph	_
 11	168	168	NUM	C=-------------	NumForm=Digit|NumType=Card	8	obl	8:obl:na:acc	_
-12	tisíc	tisíc	NUM	ClXS4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	11	compound	11:compound	SpaceAfter=No|LId=tisíc-1|LNumValue=1000
+12	tisíc	tisíc	NUM	ClXS4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	11	compound	11:compound	SpaceAfter=No|LId=tisíc-1|LNumValue=1000
 13	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
@@ -78,7 +78,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	5:case	LId=do-1
 5	činění	činění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	2	compound	2:compound	LDeriv=činit
 6	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	7	case	7:case	LId=s-1
-7	jednou	jeden	NUM	ClFS7----------	Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	2	obl:arg	2:obl:arg:s:ins	LNumValue=1
+7	jednou	jeden	NUM	ClFS7----------	Case=Ins|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	2	obl:arg	2:obl:arg:s:ins	LNumValue=1
 8	z	z	ADP	RR--2----------	AdpType=Prep|Case=Gen	10	case	10:case	LId=z-1
 9	mála	málo	DET	Ca--2----------	Case=Gen|NumType=Card|PronType=Ind	10	det	10:det	LId=málo-1|LGloss=(př._bez_mála_peněz)
 10	budov	budova	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	7	nmod	7:nmod:z:gen|17:nsubj:pass	_

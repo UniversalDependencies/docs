@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cs_pud-pos-NUM.html
 
 459 <tt><a href="cs_pud-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (459; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (397; 86%), <tt><a href="cs_pud-feat-NumValue.html">NumValue</a></tt><tt>=EMPTY</tt> (357; 78%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 69%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="cs_pud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (459; 100%), <tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (397; 86%), <tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (319; 69%), <tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (319; 69%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `PART`
 
 There are 22 `PART` lemmas (5%), 29 `PART` types (6%) and 161 `PART` tokens (12%).
-Out of 14 observed tags, the rank of `PART` is: 7 in number of lemmas, 6 in number of types and 6 in number of tokens.
+Out of 14 observed tags, the rank of `PART` is: 6 in number of lemmas, 6 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>nga, dili, man, ka, gyud, lang, ra, wala, ayaw, ba</em>
 
 The 10 most frequent `PART` types:  <em>-ng, dili, man, nga, ka, ra, lang, wala, ayaw, ba</em>
 
-The 10 most frequent ambiguous lemmas: <em>nga</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 81, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2), <em>man</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 12, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 1), <em>ka</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 9, <tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> 1), <em>lang</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 2), <em>wala</em> (<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> 8, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 4), <em>na</em> (<tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2), <em>usa</em> (<tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>nga</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 81, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2), <em>man</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 12, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 1), <em>lang</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 2), <em>wala</em> (<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> 8, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 4), <em>na</em> (<tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 11, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2), <em>usa</em> (<tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>-ng</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 67, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 2), <em>man</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 11, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 1), <em>nga</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 11, <tt><a href="ceb_gja-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 1), <em>ka</em> (<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 9), <em>lang</em> (<tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 5, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 2), <em>wala</em> (<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 1), <em>-g</em> (<tt><a href="ceb_gja-pos-ADP.html">ADP</a></tt> 17, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 3), <em>na</em> (<tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt> 10, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2), <em>usa</em> (<tt><a href="ceb_gja-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 2), <em>may</em> (<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ceb_gja-pos-PART.html">PART</a></tt> 1)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>-ng</em> (<tt><a href="ceb_gja-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.318182 (the average of all parts of speech is 1.142523).
+The form / lemma ratio of `PART` is 1.318182 (the average of all parts of speech is 1.172662).
 
 The 1st highest number of forms (4) was observed with the lemma “gyud”: <em>gud, gyud, ju-, jud</em>.
 

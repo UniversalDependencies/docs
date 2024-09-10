@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>pubblica</em> (<tt><a href="it_twitti
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.267045 (the average of all parts of speech is 1.274821).
+The form / lemma ratio of `ADJ` is 1.267045 (the average of all parts of speech is 1.274961).
 
 The 1st highest number of forms (7) was observed with the lemma “bello”: <em>bei, bel, bell', bella, belle, belli, bello</em>.
 

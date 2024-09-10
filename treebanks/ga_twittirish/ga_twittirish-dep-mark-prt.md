@@ -8,64 +8,64 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ga_twittirish-dep-mark.html">mark</a></tt>.
 
-358 nodes (2%) are attached to their parents as `mark:prt`.
+993 nodes (2%) are attached to their parents as `mark:prt`.
 
-356 instances of `mark:prt` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06703910614525.
+988 instances of `mark:prt` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03826787512588.
 
-The following 12 pairs of parts of speech are connected with `mark:prt`: <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (197; 55% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (121; 34% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (8; 2% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (6; 2% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 mark:prt	color:blue
-1	@maitiuocoimin	@maitiuocoimin	PROPN	_	_	3	vocative:mention	_	_
-2	Go	go	PART	_	_	3	mark:prt	_	Lang=ga
-3	raibh	bí	VERB	_	_	0	root	_	Lang=ga
-4	míle	míle	NUM	_	_	5	nummod	_	Lang=ga
-5	maith	maith	NOUN	_	_	3	nsubj	_	Lang=ga
-6	agat	ag	ADP	_	_	3	obl:prep	_	Lang=ga|SpaceAfter=No
-7	!	!	PUNCT	_	_	3	punct	_	_
-
-~~~
+The following 17 pairs of parts of speech are connected with `mark:prt`: <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (559; 56% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (343; 35% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (29; 3% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (13; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PART.html">PART</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 mark:prt	color:blue
-1	@Johnny_Caldwell	@Johnny_Caldwell	PROPN	_	_	3	vocative:mention	_	_
-2	Go	go	PART	_	_	3	mark:prt	_	Lang=ga
-3	hálainn	álainn	ADJ	_	_	0	root	_	Lang=ga
-4	😍	😍	SYM	_	_	3	discourse:emo	_	SpaceAfter=No
-5	😍	😍	SYM	_	_	3	discourse:emo	_	SpaceAfter=No
-6	😍	😍	SYM	_	_	3	discourse:emo	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
+# visual-style 5 4 mark:prt	color:blue
+1	@user660	@user660	VERB	_	_	0	root	_	Lang=ga
+2	smaoineamh	smaoinigh	VERB	_	_	1	nsubj	_	CorrectForm=smaoinigh|Lang=ga
+3	mé	mé	PRON	_	_	2	nsubj	_	Lang=ga
+4	go	go	PART	_	_	5	mark:prt	_	Lang=ga
+5	bhfuil	bí	VERB	_	_	1	ccomp	_	Lang=ga
+6	"	"	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	twaoit	twaoit	NOUN	_	_	5	nsubj	_	Lang=ga|NonCan=Neo|SpaceAfter=No
+8	"	"	PUNCT	_	_	7	punct	_	_
+9	greannmhar	greannmhar	ADJ	_	_	5	xcomp:pred	_	Lang=ga|SpaceAfter=No
+10	...😄	...😄	SYM	_	_	1	parataxis:url	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 mark:prt	color:blue
+1	Go	go	PART	_	_	2	mark:prt	_	Lang=ga
+2	deimhin	deimhin	ADJ	_	_	0	root	_	Lang=ga
+3	https://t.co/M7p7M4P9aG	https://t.co/M7p7M4P9aG	SYM	_	_	2	parataxis:url	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 5 mark:prt	color:blue
-1	Slan	Slán	PROPN	_	_	0	root	_	CorrectForm=Slán|Lang=ga
-2	tamilin	tamaillín	NOUN	_	_	1	nmod	_	CorrectForm=tamaillín|Lang=ga|SpaceAfter=No
-3	..	..	PUNCT	_	_	4	punct	_	SpaceAfter=No
-4	as	as	ADP	_	_	6	case	_	Lang=ga
-5	go	go	ADP	_	_	6	mark:prt	_	Lang=ga
-6	brach	brách	NOUN	_	_	10	advcl	_	CorrectForm=brách|Lang=ga
-7	go	go	ADP	_	_	10	case	_	Lang=ga
-8	dti	dtí	ADP	_	_	7	fixed	_	Lang=ga
-9	na	an	DET	_	_	10	det	_	Lang=ga
-10	halps	Alp	PROPN	_	_	1	parataxis	_	CorrectForm=hAlpa|CSType=Intra|Lang=en
-11	liom	le	ADP	_	_	10	obl:prep	_	Lang=ga
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 mark:prt	color:blue
+1	@user551	@user551	PROPN	_	_	2	vocative:mention	_	_
+2	Tá	bí	VERB	_	_	0	root	_	Lang=ga
+3	mé	mé	PRON	_	_	2	nsubj	_	Lang=ga
+4	ar	ar	ADP	_	_	5	case	_	Lang=ga
+5	scamall	scamall	NOUN	_	_	2	obl	_	Lang=ga
+6	a	an	PART	_	_	7	mark:prt	_	Lang=ga
+7	naoi	naoi	NUM	_	_	5	nmod	_	Lang=ga
+8	le	le	ADP	_	_	9	case	_	Lang=ga
+9	háthas	áthas	NOUN	_	_	2	obl	_	Lang=ga|SpaceAfter=No
+10	!!!!	!!	PUNCT	_	_	2	punct	_	_
+11	:D	:D	SYM	_	_	2	discourse:emo	_	_
 
 ~~~
 

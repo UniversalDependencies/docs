@@ -28,8 +28,8 @@ The following 9 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 3	terram	terra	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	nsubj	_	_
 4	hanc	hic	DET	dpfsa	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	3	det	_	_
 5	emergentem	emergo	VERB	va3ppsfa	Aspect=Imp|Case=Acc|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	3	acl	_	TraditionalMood=Participium|TraditionalTense=Praesens
-6	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	8	cop	_	TraditionalTense=Praesens
-7	ubique	ubique	ADV	r	Form=Emp|PronType=Rel	8	advmod	_	_
+6	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	8	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+7	ubique	ubique	ADV	r	AdvType=Loc|Form=Emp|PronType=Rel	8	advmod:lmod	_	_
 8	altiorem	altus	ADJ	afs1ac	Case=Acc|Degree=Cmp|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	2	csubj:pass	_	_
 9	totali	totalis	ADJ	afs2b	Case=Abl|Gender=Fem|InflClass=IndEurI|Number=Sing	10	amod	_	_
 10	superficie	superficies	NOUN	sfs5b	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing	8	obl:cmp	_	_
@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 11	imperium	imperium	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl:cmp	_	SpaceAfter=No
 12	”	”	PUNCT	Pu	_	11	punct	_	_
 13	poterat	possum	VERB	va5iis3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
-14	nominari	nomino	VERB	vp1fp	Aspect=Imp|VerbForm=Vnoun|Voice=Pass	13	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
+14	nominari	nomino	VERB	vp1fp	Aspect=Imp|InflClass=LatA|VerbForm=Inf|Voice=Pass	13	csubj:pass	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Praesens
 15	»	»	PUNCT	Pu	_	13	punct	_	SpaceAfter=No
 16	.	.	PUNCT	Pu	_	13	punct	_	_
 
@@ -101,7 +101,7 @@ The following 9 pairs of parts of speech are connected with `obl:cmp`: <tt><a hr
 28	nichil	nihil	PRON	dinsnn	Polarity=Neg|PronType=Ind	32	nsubj	_	_
 29	eodem	idem	DET	ddesnb	Case=Abl|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	30	obl:cmp	_	_
 30	dignius	dignus	ADJ	ans1nc	Case=Nom|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	32	xcomp	_	_
-31	esse	sum	AUX	va5fp	Aspect=Imp|VerbForm=Inf	30	cop	_	TraditionalTense=Praesens
+31	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf	30	cop	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 32	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 33	)	)	PUNCT	Pu	_	32	punct	_	SpaceAfter=No
 34	,	,	PUNCT	Pu	_	6	punct	_	_

@@ -50,3 +50,4 @@ amod(rabaty, stáry)
 conj(stáry, kámatny)
 conj(stáry, kaménøvy)
 ~~~    
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:58 CEST -->

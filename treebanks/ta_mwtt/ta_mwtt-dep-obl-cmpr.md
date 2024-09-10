@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `obl:cmpr`: <tt><a h
 # visual-style 3 1 obl:cmpr	color:blue
 1	அங்குக்கு	அங்கு	NOUN	_	Case=Dat|Number=Sing	3	obl:cmpr	_	Translit=aṅkukku|LTranslit=aṅku
 2	இங்கு	இங்கு	NOUN	_	_	3	nsubj	_	Translit=iṅku|LTranslit=iṅku
-3	நல்லது	நல்ல	ADJ	_	Gender=Neut|Number=Sing|Person=3	0	root	_	Translit=nallatu|LTranslit=nalla
+3	நல்லது	நல்ல	ADJ	_	Number=Sing|Person=3	0	root	_	Translit=nallatu|LTranslit=nalla
 4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~

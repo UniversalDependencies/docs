@@ -2,6 +2,7 @@
 layout: postag
 title: 'NOUN'
 shortdef: 'noun'
+udver: '2'
 ---
 
 ### Definition
@@ -16,4 +17,4 @@ animal or idea.
 - _träd_ "tree"
 - _luft_ "air"
 - _skönhet_ "beauty"
-<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->

@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 10 obl:tmod	color:blue
-1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	Our	our	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	cellphones	cellphone	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
 3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 4	so	so	ADV	RB	_	5	advmod	5:advmod	_
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 6	more	more	ADJ	JJR	Degree=Cmp	0	root	0:root	_
 7	than	than	ADP	IN	_	8	case	8:case	_
 8	phones	phone	NOUN	NNS	Number=Plur	6	obl	6:obl:than	_
-9	these	these	DET	DT	Number=Plur|PronType=Dem	10	det	10:det	_
+9	these	this	DET	DT	Number=Plur|PronType=Dem	10	det	10:det	_
 10	days	day	NOUN	NNS	Number=Plur	6	obl:tmod	6:obl:tmod	SpaceAfter=No
 11	.	.	PUNCT	.	_	6	punct	6:punct	_
 
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 10	but	but	CCONJ	CC	_	15	cc	15:cc	_
 11	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	15:nsubj	_
 12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	SpaceAfter=No
-13	n’t	n’t	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
+13	n’t	not	ADV	RB	Polarity=Neg	15	advmod	15:advmod	_
 14	always	always	ADV	RB	_	15	advmod	15:advmod	_
 15	alone	alone	ADJ	JJ	Degree=Pos	8	conj	8:conj:but	SpaceAfter=No
 16	.	.	PUNCT	.	_	8	punct	8:punct	_

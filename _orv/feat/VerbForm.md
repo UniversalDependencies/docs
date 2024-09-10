@@ -109,4 +109,4 @@ In the TOROT treebank, l-forms are annotated as `VerbForm=Part` and `Aspect=Res`
 In the Old Russian-RNC and Ruthenian treebanks , l-forms are annotated as `VerbForm=PartRes`, `Tense=Past`, and `Aspect=Imp` or `Aspect=Perf`, depending their aspect. 
 
 Converbs are annotated as participles in TOROT. (These forms originate in the Proto-Slavic participles but are interpreted as adverbial forms in later texts, see Zalizniak 2004, Lyashevskaya 2010). 
-<!-- Interlanguage links updated Po lis 14 15:35:00 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:27 CEST -->

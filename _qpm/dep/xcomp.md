@@ -36,3 +36,4 @@ mark(stórime, da)
 obj(stórime, u)
 xcomp(stórime, memnǘn)
 ~~~ 
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:49 CEST -->

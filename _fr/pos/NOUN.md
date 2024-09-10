@@ -17,4 +17,4 @@ Nouns are a part of speech typically denoting a person, place, thing, animal or 
 - _air_ "air"
 - _beauté_ "beauty"
 
-<!-- Interlanguage links updated Po lis 14 15:34:33 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:37 CEST -->

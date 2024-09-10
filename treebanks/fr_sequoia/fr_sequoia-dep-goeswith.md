@@ -23,17 +23,17 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 goeswith	color:blue
 1	Troubles	trouble	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-2	musculo	musculo	ADJ	_	Typo=Yes	1	amod	_	CorrectForm=musculo-squelettiques
+2	musculo	musculo-squelettique	ADJ	_	Typo=Yes	1	amod	_	_
 3	squelettiques	_	X	_	_	2	goeswith	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	tissu	tissu	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+7	tissu	tissu	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
 8	conjonctif	conjonctif	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 9	et	et	CCONJ	_	_	12	cc	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	_
-12	os	os	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
+12	os	os	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	_
 
 ~~~
 
@@ -48,13 +48,13 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	de	de	ADP	_	_	4	case	_	_
 3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	patients	patient	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
-5	atteints	atteindre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	_
+5	atteints	atteindre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	_
 6	d'	de	ADP	_	_	8	case	_	SpaceAfter=No
 7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	syndrome	syndrome	NOUN	_	Gender=Masc|Number=Sing	5	obl:agent	_	_
 9	coronarien	coronarien	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 10	aigu	aigu	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
-11	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	angor	angor	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
 13	instable	instable	ADJ	_	Number=Sing	12	amod	_	_
 14	/	ou	CCONJ	_	_	15	cc	_	_
@@ -63,21 +63,21 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	myocarde	myocarde	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
 19	sans	sans	ADP	_	_	20	case	_	_
-20	sus	sus	NOUN	_	Typo=Yes	15	nmod	_	CorrectForm=sus-décalage
+20	sus	sus-décalage	NOUN	_	Typo=Yes	15	nmod	_	CorrectForm=sus-décalage
 21	décalage	_	X	_	_	20	goeswith	_	_
 22	de	de	ADP	_	_	24	case	_	_
 23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	segment	segment	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
 25	ST	ST	NOUN	_	_	24	nmod	_	_
-26	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+26	(	(	PUNCT	_	_	27	punct	_	SpaceAfter=No
 27	AI	AI	NOUN	_	_	12	appos	_	_
-28	/	/	SYM	_	_	27	dep	_	_
-29	IDM	IDM	NOUN	_	_	27	nmod	_	_
-30	ST-	ST-	ADJ	_	_	27	amod	_	SpaceAfter=No
-31	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
-32	)	)	PUNCT	_	_	8	punct	_	_
+28	/	/	SYM	_	_	29	cc	_	_
+29	IDM	IDM	X	_	_	27	conj	_	_
+30	ST-	ST-	X	_	_	29	flat:name	_	SpaceAfter=No
+31	)	)	PUNCT	_	_	27	punct	_	SpaceAfter=No
+32	)	)	PUNCT	_	_	27	punct	_	_
 33	devant	devoir	VERB	_	Tense=Pres|VerbForm=Part	4	acl	_	_
-34	bénéficier	bénéficier	VERB	_	VerbForm=Inf	33	xcomp	_	_
+34	bénéficier	bénéficier	VERB	_	VerbForm=Inf	33	xcomp	_	Subject=SubjRaising
 35	d'	de	ADP	_	_	37	case	_	SpaceAfter=No
 36	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 37	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	34	obl:arg	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2483 nodes (1%) are attached to their parents as `fixed`.
+2464 nodes (1%) are attached to their parents as `fixed`.
 
-2483 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02577527184857.
+2464 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00162337662338.
 
-The following 19 pairs of parts of speech are connected with `fixed`: <tt><a href="la_llct-pos-DET.html">DET</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (968; 39% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (582; 23% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (431; 17% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (199; 8% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (114; 5% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (62; 2% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt>-<tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (37; 1% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (32; 1% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (18; 1% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt>-<tt><a href="la_llct-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `fixed`: <tt><a href="la_llct-pos-DET.html">DET</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (968; 39% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (582; 24% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt>-<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (431; 17% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (199; 8% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (114; 5% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (62; 3% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt>-<tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (37; 2% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (19; 1% instances), <tt><a href="la_llct-pos-PART.html">PART</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (13; 1% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (13; 1% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt>-<tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 4 fixed	color:blue
 1	+	+	PUNCT	SYM	_	9	punct	_	_
-2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	det	_	_
+2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	det	_	_
 3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 4	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	3	fixed	_	_
 5	Lupo	lupus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	_
@@ -49,7 +49,7 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	animalia	animal	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	_
 6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
 7	porcos	porcus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	_
-8	menare	mino	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
+8	menare	mino	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	9	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 9	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 10	.	.	PUNCT	Punc	_	9	punct	_	_
 
@@ -68,7 +68,7 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	clericus	clericus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	_
 5	detulit	defero	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 6	ante	ante	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
-7	nos	nos	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obl	_	_
+7	nos	nos	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	obl	_	_
 8	testimonia	testimonium	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	SpaceAfter=No
 9	,	,	PUNCT	Punc	_	12	punct	_	_
 10	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	cc	_	_

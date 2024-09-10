@@ -110,7 +110,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8907; 53%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8910; 53%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3358; 78%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (670; 99%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (126; 78%),

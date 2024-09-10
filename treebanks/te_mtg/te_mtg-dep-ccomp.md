@@ -22,11 +22,11 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 ccomp	color:blue
-1	ఎవరిదగ్గిరికి	_	PRON	PRON	_	2	ccomp	_	Translit=èvaridaggiriki|LTranslit=_
-2	వెళ్ళటమా	_	VERB	VERB	_	4	ccomp	_	Translit=vèḷḷaṭamā|LTranslit=_
-3	అని	_	SCONJ	SCONJ	_	2	mark	_	Translit=ani|LTranslit=_
-4	సంకోచించాను	_	VERB	VERB	_	0	root	_	Translit=saṁkociṁcānu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	ఎవరిదగ్గిరికి	_	PRON	PRON	_	2	ccomp	_	Translit=evaridaggiriki
+2	వెళ్ళటమా	_	VERB	VERB	_	4	ccomp	_	Translit=veḷḷaṭamā
+3	అని	_	SCONJ	SCONJ	_	2	mark	_	Translit=ani
+4	సంకోచించాను	_	VERB	VERB	_	0	root	_	Translit=saṁkōciṁcānu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 
@@ -37,15 +37,15 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 ccomp	color:blue
-1	లక్ష	_	NUM	NUM	NumType=Card	2	nummod	_	Translit=lakṣa|LTranslit=_
-2	రూపాయలు	_	NOUN	NOUN	_	3	nsubj	_	Translit=rūpāyalu|LTranslit=_
-3	సంపాదించటం	_	VERB	VERB	_	5	csubj	_	Translit=saṁpādiṁcaṭaṁ|LTranslit=_
-4	ఎంత	_	DET	DET	_	5	det	_	Translit=èṁta|LTranslit=_
-5	అసాధ్యమో	_	NOUN	NOUN	_	8	ccomp	_	Translit=asādhyamo|LTranslit=_
-6	ఇదీ	_	PRON	PRON	_	8	nsubj	_	Translit=idī|LTranslit=_
-7	అంత	_	DET	DET	_	8	det	_	Translit=aṁta|LTranslit=_
-8	అసాధ్యమే	_	NOUN	NOUN	_	0	root	_	Translit=asādhyame|LTranslit=_
-9	.	_	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=_
+1	లక్ష	_	NUM	NUM	NumType=Card	2	nummod	_	Translit=lakṣa
+2	రూపాయలు	_	NOUN	NOUN	_	3	nsubj	_	Translit=rūpāyalu
+3	సంపాదించటం	_	VERB	VERB	_	5	csubj	_	Translit=saṁpādiṁcaṭaṁ
+4	ఎంత	_	DET	DET	_	5	det	_	Translit=eṁta
+5	అసాధ్యమో	_	NOUN	NOUN	_	8	ccomp	_	Translit=asādhyamō
+6	ఇదీ	_	PRON	PRON	_	8	nsubj	_	Translit=idī
+7	అంత	_	DET	DET	_	8	det	_	Translit=aṁta
+8	అసాధ్యమే	_	NOUN	NOUN	_	0	root	_	Translit=asādhyamē
+9	.	_	PUNCT	PUNCT	_	8	punct	_	Translit=.
 
 ~~~
 
@@ -56,11 +56,11 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 ccomp	color:blue
-1	ఎవరిదగ్గిరికి	_	PRON	PRON	_	2	ccomp	_	Translit=èvaridaggiriki|LTranslit=_
-2	వెళ్ళటమా	_	VERB	VERB	_	4	ccomp	_	Translit=vèḷḷaṭamā|LTranslit=_
-3	అని	_	SCONJ	SCONJ	_	2	mark	_	Translit=ani|LTranslit=_
-4	సంకోచించాను	_	VERB	VERB	_	0	root	_	Translit=saṁkociṁcānu|LTranslit=_
-5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=_
+1	ఎవరిదగ్గిరికి	_	PRON	PRON	_	2	ccomp	_	Translit=evaridaggiriki
+2	వెళ్ళటమా	_	VERB	VERB	_	4	ccomp	_	Translit=veḷḷaṭamā
+3	అని	_	SCONJ	SCONJ	_	2	mark	_	Translit=ani
+4	సంకోచించాను	_	VERB	VERB	_	0	root	_	Translit=saṁkōciṁcānu
+5	.	_	PUNCT	PUNCT	_	4	punct	_	Translit=.
 
 ~~~
 

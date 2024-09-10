@@ -30,4 +30,4 @@ VM: Modal verb
 - Passive auxiliaries: _<b>fu</b> distrutto_ "it was destroyed", _<b>è stato</b> comprato_ "it has been bought"
 - Modal auxiliaries: _<b>dovrebbe</b> fare_ "he should do", _<b>può</b> avere successo_ "he can have success"
 - Copulas: _<b>è</b> una ragazza intelligente_ "she is a smart girl"
-<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

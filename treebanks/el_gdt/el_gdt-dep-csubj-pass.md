@@ -26,8 +26,8 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	να	να	AUX	AUX	_	3	aux	_	_
 3	επέμβει	επεμβαίνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	csubj:pass	_	_
 4	επειγόντως	επειγόντως	ADV	ADV	_	3	advmod	_	_
-5	σ	σε	ADP	AsPpSp	_	7	case	_	_
-6	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
+5	σ	σε	ADP	ADP	_	7	case	_	_
+6	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
 7	οριοθέτηση	οριοθέτηση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
 8	των	ο	DET	DET	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
 9	συνόρων	σύνορο	NOUN	NOUN	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	SpaceAfter=No

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Akkadian-RIAO: POS Tags: `PART`
 
-There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 492 `PART` tokens (2%).
+There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 502 `PART` tokens (2%).
 Out of 13 observed tags, the rank of `PART` is: 11 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>lū, _, lā, mā, ul, ma</em>
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>lū</em> (<tt><a href="akk_riao-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.795993).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.795510).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>lū, ma, ni</em>.
 
@@ -43,17 +43,17 @@ The 3rd highest number of forms (1) was observed with the lemma “lū”: <em>l
 `PART` occurs with 1 feature-value pairs: `Subordinative=Yes`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (467 tokens).
+The most frequent feature combination is `_` (477 tokens).
 Examples: <em>lū, ma, lā, mā, ul</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 8 different relations: <tt><a href="akk_riao-dep-advmod-emph.html">advmod:emph</a></tt> (191; 39% instances), <tt><a href="akk_riao-dep-dep.html">dep</a></tt> (165; 34% instances), <tt><a href="akk_riao-dep-advmod.html">advmod</a></tt> (117; 24% instances), <tt><a href="akk_riao-dep-discourse.html">discourse</a></tt> (9; 2% instances), <tt><a href="akk_riao-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-obl.html">obl</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 8 different relations: <tt><a href="akk_riao-dep-advmod-emph.html">advmod:emph</a></tt> (191; 38% instances), <tt><a href="akk_riao-dep-dep.html">dep</a></tt> (165; 33% instances), <tt><a href="akk_riao-dep-advmod.html">advmod</a></tt> (127; 25% instances), <tt><a href="akk_riao-dep-discourse.html">discourse</a></tt> (9; 2% instances), <tt><a href="akk_riao-dep-cc.html">cc</a></tt> (6; 1% instances), <tt><a href="akk_riao-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="akk_riao-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="akk_riao-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (343; 70% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (80; 16% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (54; 11% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (343; 68% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (80; 16% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (64; 13% instances), <tt><a href="akk_riao-pos-DET.html">DET</a></tt> (9; 2% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-487 (99%) `PART` nodes are leaves.
+497 (99%) `PART` nodes are leaves.
 
 4 (1%) `PART` nodes have one child.
 

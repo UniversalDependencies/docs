@@ -53,7 +53,7 @@ The following 1 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 29	,	,	PUNCT	Pu	_	28	punct	_	_
 30	consul	consul	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	32	advcl:pred	_	_
 31	eo	is	PRON	ddesnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	34	det	_	_
-32	cecidisset	cado	VERB	va3c+s3	Aspect=Perf|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
+32	cecidisset	cado	VERB	va3c+s3	Aspect=Perf|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	TraditionalMood=Subiunctivus|TraditionalTense=Plusquamperfectum
 33	in	in	ADP	e	_	34	case	_	_
 34	prelio	proelium	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	32	obl	_	_
 35	se	sui	PRON	ppp3sma	Case=Acc|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	44	obj	_	_
@@ -65,7 +65,7 @@ The following 1 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 41	victimam	uictima	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	44	advcl:pred	_	_
 42	rei	res	NOUN	sfs5d	Case=Dat|Gender=Fem|InflClass=IndEurE|Number=Sing	44	obl:arg	_	_
 43	publice	publicus	ADJ	afs1d	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Sing	42	amod	_	_
-44	tribuisset	tribuo	VERB	va3c+s3	Aspect=Perf|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Perfectum
+44	tribuisset	tribuo	VERB	va3c+s3	Aspect=Perf|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	conj	_	SpaceAfter=No|TraditionalMood=Subiunctivus|TraditionalTense=Plusquamperfectum
 45	»	»	PUNCT	Pu	_	13	punct	_	SpaceAfter=No
 46	.	.	PUNCT	Pu	_	13	punct	_	_
 

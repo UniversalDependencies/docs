@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-16144 tokens (9%) have a non-empty value of `Tense`.
-5115 types (15%) occur at least once with a non-empty value of `Tense`.
-1488 lemmas (10%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15988; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (156; 0% instances).
+16141 tokens (9%) have a non-empty value of `Tense`.
+5113 types (15%) occur at least once with a non-empty value of `Tense`.
+1487 lemmas (10%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> (15985; 9% instances), <tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (156; 0% instances).
 
 ### `VERB`
 
-15988 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
+15985 <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15807; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14853; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14805; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13872; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13054; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 80%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_penn-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15804; 99%), <tt><a href="tr_penn-feat-Person.html">Person</a></tt><tt>=3</tt> (14853; 93%), <tt><a href="tr_penn-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14802; 93%), <tt><a href="tr_penn-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (13866; 87%), <tt><a href="tr_penn-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (13050; 82%), <tt><a href="tr_penn-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12850; 80%), <tt><a href="tr_penn-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9175; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (822; 5% of non-empty `Tense`): <em>olacak, edecek, olacaktır, başlayacak, alacak, olmayacak, kalacak, gelecek, yapacak, ödeyecek</em>
 * `Past` (8045; 50% of non-empty `Tense`): <em>söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</em>
-* `Pres` (7121; 45% of non-empty `Tense`): <em>ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</em>
+* `Pres` (7118; 45% of non-empty `Tense`): <em>ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -120,7 +120,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (61; 39% of non-empty `Tense`): <em>değildi, değillerdi, değildik, değildim</em>
 * `Pres` (95; 61% of non-empty `Tense`): <em>değildir, değiliz, değilse, değilim, değiller, değillerdir, değilmiş</em>
-* `EMPTY` (389): <em>değil, mi, mı, mu, değilim, değiller, mıydı, miydi, musunuz, mü</em>
+* `EMPTY` (390): <em>değil, mi, mı, mu, değilim, değiller, mıydı, miydi, musunuz, mü</em>
 
 <table>
   <tr><th>Paradigm <i>değil</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

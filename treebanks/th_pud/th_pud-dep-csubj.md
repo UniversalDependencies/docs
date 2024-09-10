@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 19	ใช้	_	VERB	VV	_	17	xcomp	_	SpaceAfter=No|Translit=ćʰai²
 20	อย่างพอดี	_	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit='yá¹ŋbʰɔːdí
 21	นั้น	_	DET	DT	_	1	det	_	SpaceAfter=No|Translit=nâ²n
-22	เหมาะ	_	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=hémáะ
+22	เหมาะ	_	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=hémáa
 23	กับ	_	ADP	IN	_	24	case	_	SpaceAfter=No|Translit=kâb
 24	การปราศรัย	_	VERB	VV	_	22	obl	_	SpaceAfter=No|Translit=kárpráśrây
 25	ใน	_	ADP	IN	_	26	case	_	SpaceAfter=No|Translit=nai

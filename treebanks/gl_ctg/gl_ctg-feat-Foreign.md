@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-171 tokens (0%) have a non-empty value of `Foreign`.
-152 types (1%) occur at least once with a non-empty value of `Foreign`.
-149 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 11 part-of-speech tags: <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (78; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (34; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (28; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (1; 0% instances).
+169 tokens (0%) have a non-empty value of `Foreign`.
+150 types (1%) occur at least once with a non-empty value of `Foreign`.
+147 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 11 part-of-speech tags: <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (77; 0% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (34; 0% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (26; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-78 <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Foreign`.
+77 <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
 `NUM` tokens may have the following values of `Foreign`:
 
-* `Yes` (78; 100% of non-empty `Foreign`): <em>1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</em>
-* `EMPTY` (2284): <em>2, 1, 5, 3, 2003, 2005, 20, 2002, 2004, 10</em>
+* `Yes` (77; 100% of non-empty `Foreign`): <em>1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</em>
+* `EMPTY` (2286): <em>2, 1, 5, 3, 2003, 2005, 20, 2002, 2004, 10</em>
 
-`Foreign` seems to be **lexical feature** of `NUM`. 100% lemmas (73) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NUM`. 100% lemmas (72) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -32,31 +32,31 @@ The feature is used with 11 part-of-speech tags: <tt><a href="gl_ctg-pos-NUM.htm
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (34; 100% of non-empty `Foreign`): <em>táboa, Capítulo, cadro, figura, figuras, Califf, Cantábrica-Rías, Lei, Parque, Punto</em>
-* `EMPTY` (31929): <em>caso, anos, ano, ás, parte, lei, número, á, poboación, traballo</em>
+* `EMPTY` (31930): <em>caso, anos, ano, ás, parte, lei, número, á, poboación, traballo</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `Foreign`.
 
 ### `VERB`
 
-28 <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
+26 <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
 `VERB` tokens may have the following values of `Foreign`:
 
-* `Yes` (28; 100% of non-empty `Foreign`): <em>di, Brooman, Cíes, FA+U, Hannan, IPa, MECACAR, Pasa, autoinmune, cae</em>
-* `EMPTY` (12955): <em>pode, ter, ten, hai, poden, debe, ser, teñen, é, poderá</em>
+* `Yes` (26; 100% of non-empty `Foreign`): <em>di, Brooman, FA+U, IPa, MECACAR, Pasa, autoinmune, cae, chega, conforme</em>
+* `EMPTY` (11754): <em>ter, ten, hai, teñen, fai, facer, debido, realizar, ver, partir</em>
 
-`Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (27) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (25) occur only with one value of `Foreign`.
 
 ### `PROPN`
 
-14 <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+15 <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
 `PROPN` tokens may have the following values of `Foreign`:
 
-* `Yes` (14; 100% of non-empty `Foreign`): <em>1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Isla, Lim, Lin</em>
-* `EMPTY` (1888): <em>Galicia, España, Coruña, Lugo, Santiago, Europa, Ourense, Pontevedra, Galiza, internet</em>
+* `Yes` (15; 100% of non-empty `Foreign`): <em>1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Hannan, Isla, Lim</em>
+* `EMPTY` (1889): <em>Galicia, España, Coruña, Lugo, Santiago, Europa, Ourense, Pontevedra, Galiza, internet</em>
 
-`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (14) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (15) occur only with one value of `Foreign`.
 
 ### `ADJ`
 
@@ -65,7 +65,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="gl_ctg-pos-NUM.htm
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>obstante, apreciable, efectivo, funcional, vascularizados</em>
-* `EMPTY` (11425): <em>maior, xeral, social, medio, seguinte, importante, ambiental, anterior, diferentes, seguintes</em>
+* `EMPTY` (11423): <em>maior, xeral, social, medio, seguinte, importante, ambiental, anterior, diferentes, seguintes</em>
 
 ### `ADP`
 
@@ -74,7 +74,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="gl_ctg-pos-NUM.htm
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>de, en</em>
-* `EMPTY` (23169): <em>de, en, a, por, con, para, entre, sobre, sen, ata</em>
+* `EMPTY` (23170): <em>de, en, a, por, con, para, entre, sobre, sen, ata</em>
 
 ### `PRON`
 
@@ -92,7 +92,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="gl_ctg-pos-NUM.htm
 `SYM` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>+</em>
-* `EMPTY` (582): <em>%, _, *, =, +, §, ±, ´, &, ....</em>
+* `EMPTY` (426): <em>%, =, +, _, &, <, ></em>
 
 ### `ADV`
 

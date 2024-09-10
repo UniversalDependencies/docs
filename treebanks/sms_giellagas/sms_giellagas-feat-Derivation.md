@@ -31,9 +31,9 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 
 1 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Derivation`:
 
-* `Dimin` (1; 100% of non-empty `Derivation`): <em>vuõddjez</em>
+* `Dimin` (1; 100% of non-empty `Derivation`): <em>äʹrbbaaušu</em>
 

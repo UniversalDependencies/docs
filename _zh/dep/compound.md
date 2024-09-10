@@ -79,4 +79,4 @@ Internal compounding should always be parsed first. For example, in (3) the last
 
 ~~~
 
-<!-- Interlanguage links updated Po lis 14 15:35:15 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:54 CEST -->

@@ -41,7 +41,7 @@ The following 6 pairs of parts of speech are connected with `parataxis:discourse
 16	.	.	PUNCT	FS	_	12	punct	_	_
 17	[	[	PUNCT	FB	_	18	punct	_	SpaceAfter=No
 18	@user	@user	SYM	SYM	_	5	vocative:mention	_	SpaceAfter=No
-19	]	]	PUNCT	FB	_	18	punct	_	SpaceAfter=\n
+19	]	]	PUNCT	FB	_	18	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -113,7 +113,7 @@ The following 6 pairs of parts of speech are connected with `parataxis:discourse
 19	http://t.co/uPLyp7Phhy	http://t.co/uPLyp7Phhy	SYM	X	_	13	dep	_	_
 20	#labuonascuola	#labuonascuola	SYM	SYM	_	13	parataxis:hashtag	_	_
 21	#scuolapubblica	#scuolapubblica	SYM	SYM	_	13	parataxis:hashtag	_	_
-22	#m5s	#m5s	SYM	SYM	_	13	parataxis:hashtag	_	SpaceAfter=\n
+22	#m5s	#m5s	SYM	SYM	_	13	parataxis:hashtag	_	SpacesAfter=\n
 
 ~~~
 

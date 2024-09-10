@@ -31,9 +31,9 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 6	,	,	PUNCT	,	_	9	punct	_	_
 7	pas	pas	ADV	RB	Polarity=Neg	9	advmod	_	_
 8	«	«	PUNCT	``	_	9	punct	_	_
-9	Game	Game	X	FW	_	5	appos	_	Proper=True
-10	of	of	X	FN	_	9	flat:foreign	_	Proper=True
-11	Thrones	Thrones	X	FW	_	9	flat:foreign	_	Proper=True
+9	Game	Game	X	FW	Foreign=Yes	5	appos	_	Proper=True
+10	of	of	X	FW	Foreign=Yes	9	flat:foreign	_	Proper=True
+11	Thrones	Thrones	X	FW	Foreign=Yes	9	flat:foreign	_	Proper=True
 12	»	»	PUNCT	''	_	9	punct	_	_
 13	!	!	PUNCT	.	_	5	punct	_	_
 

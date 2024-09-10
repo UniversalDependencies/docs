@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_pud-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="fr_pud-dep-obl-agent.html">obl:agent</a></tt>.
 
-80 nodes (0%) are attached to their parents as `obl:mod`.
+102 nodes (0%) are attached to their parents as `obl:mod`.
 
-58 instances of `obl:mod` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.1125.
+58 instances of `obl:mod` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.04901960784314.
 
-The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (33; 41% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 23% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (12; 15% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `obl:mod`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (34; 33% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (21; 21% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (18; 18% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (12; 12% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,38 @@ The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 16 10 obl:mod	color:blue
+1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
+2	s'	se	PRON	PRP	Person=3|PronType=Prs	3	obj	_	SpaceAfter=No
+3	agit	agir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	de	de	ADP	IN	_	7	case	_	_
+5	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	seule	seul	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
+7	région	région	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
+8	d'	de	ADP	IN	_	9	case	_	SpaceAfter=No
+9	Alaska	Alaska	PROPN	NNP	Gender=Masc|Number=Sing	7	nmod	_	_
+10	où	où	PRON	WP	PronType=Rel	16	obl:mod	_	_
+11	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	température	température	NOUN	NN	Gender=Fem|Number=Sing	16	nsubj	_	_
+13	moyenne	moyen	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
+14	de	de	ADP	IN	_	15	case	_	_
+15	jour	jour	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
+16	dépasse	dépasser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
+17	0	0	NUM	CD	_	18	nummod	_	SpaceAfter=No
+18	°	°	SYM	SYM	_	16	obj	_	SpaceAfter=No
+19	C	C	SYM	SYM	_	18	nmod	_	wordform=c
+20	en	en	ADP	IN	_	21	case	_	_
+21	hiver	hiver	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+22	.	.	PUNCT	.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 3	bgColor:blue
@@ -61,31 +93,6 @@ The following 9 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 13	avril	avril	NOUN	NNP	Gender=Masc|Number=Sing	12	nmod	_	_
 14	1882	1882	NUM	CD	_	13	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 obl:mod	color:blue
-1	Son	son	DET	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
-2	album	album	NOUN	NN	Gender=Masc|Number=Sing	11	nsubj	_	_
-3	Wild	Wild	X	FW	_	2	appos	_	Proper=True
-4	West	West	X	WF	_	3	flat:foreign	_	Proper=True
-5	(	(	PUNCT	(	_	6	punct	_	SpaceAfter=No
-6	1981	1981	NUM	CD	_	2	obl:mod	_	SpaceAfter=No
-7	)	)	PUNCT	)	_	6	punct	_	_
-8	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
-9	été	être	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	cop	_	_
-10	l’	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|wordform=l'
-11	une	une	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
-12	de	de	ADP	IN	_	15	case	_	_
-13	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	_
-14	meilleures	meilleur	ADJ	JJR	Gender=Fem|Number=Plur	15	amod	_	_
-15	ventes	vente	NOUN	NN	Gender=Fem|Number=Plur	11	nmod	_	_
 
 ~~~
 

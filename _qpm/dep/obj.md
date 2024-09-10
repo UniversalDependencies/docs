@@ -13,13 +13,13 @@ The [obj]() dependency (object) is used to relate the second core argument of a 
 obj(ímot, zejtíne)   note:  “zejtíne” is in accusative case
 ~~~
 
-In Pomak the object is predominantly in the accusative case. Certain verbs select objects in the genitive/dative case:
+In Pomak the object is predominantly in the accusative case. Certain verbs select objects in the genitive/dative case (note:   *kópeløtune* is in genetive/dative case, note:   *mómajne* is in genetive/dative case):
 
 ~~~ sdparse
 sélana zǿli da pamógnat mómajne i kópeløtune 
 "the villagers started to help the girl and the boy"
-obj(pamógnat, mómajne)                note:   *mómajne* is in genetive/dative case
-obj(pamógnat, kópeløune)              note:   *kópeløtune* is in genetive/dative case
+obj(pamógnat, mómajne)                
+obj(pamógnat, kópeløune)              
 conj(mómajne, kópeløtune)
 cc(mómajne, i)
 ~~~
@@ -31,3 +31,4 @@ daj mómajne parý
 obj(daj, parý)     note:   *parý* is in accusative case
 iobj(daj, mómajne) note:   *mómajne* is in genetive/dative case 
 ~~~
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:32 CEST -->

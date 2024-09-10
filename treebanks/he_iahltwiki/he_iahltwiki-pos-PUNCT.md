@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hebrew-IAHLTwiki: POS Tags: `PUNCT`
 
-There are 24 `PUNCT` lemmas (0%), 23 `PUNCT` types (0%) and 16613 `PUNCT` tokens (12%).
+There are 23 `PUNCT` lemmas (0%), 23 `PUNCT` types (0%) and 16613 `PUNCT` tokens (12%).
 Out of 16 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 13 in number of types and 3 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: ,, ., ", -, ), (, :, –, ', ־
 
 The 10 most frequent `PUNCT` types:  ,, ., ", -, ), (, :, –, ', ־
 
-The 10 most frequent ambiguous lemmas: - (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 1372, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 26), ( (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 762, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 1), : (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 395, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 2), – (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 38, <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> 1), / (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 42, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 9), _ (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 4, <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: - (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 1372, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 26), ( (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 763, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 1), : (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 395, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 2), – (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 38, <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> 1), / (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 42, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 9)
 
 The 10 most frequent ambiguous types:  - (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 1370, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 26), ( (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 763, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 1), : (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 395, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 2), – (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 99, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 38, <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> 1), / (<tt><a href="he_iahltwiki-pos-PUNCT.html">PUNCT</a></tt> 42, <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> 9)
 
@@ -37,13 +37,13 @@ The 10 most frequent ambiguous types:  - (<tt><a href="he_iahltwiki-pos-PUNCT.ht
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.958333 (the average of all parts of speech is 1.479265).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.479540).
 
-The 1st highest number of forms (3) was observed with the lemma “_”: ), ,, ..
+The 1st highest number of forms (2) was observed with the lemma “-”: -, ־.
 
-The 2nd highest number of forms (2) was observed with the lemma “)”: (, ).
+The 2nd highest number of forms (1) was observed with the lemma “!”: !.
 
-The 3rd highest number of forms (2) was observed with the lemma “-”: -, ־.
+The 3rd highest number of forms (1) was observed with the lemma “"”: ".
 
 `PUNCT` occurs with 1 features: <tt><a href="he_iahltwiki-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
@@ -58,7 +58,7 @@ Examples: ,, ., ", -, ), (, :, –, ', ־
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="he_iahltwiki-dep-punct.html">punct</a></tt> (16613; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (6621; 40% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (4548; 27% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (2701; 16% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (805; 5% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (447; 3% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (426; 3% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (298; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (254; 2% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (196; 1% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (181; 1% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (60; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (33; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt> (6620; 40% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (4549; 27% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (2701; 16% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (805; 5% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (447; 3% instances), <tt><a href="he_iahltwiki-pos-ADP.html">ADP</a></tt> (426; 3% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (298; 2% instances), <tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (254; 2% instances), <tt><a href="he_iahltwiki-pos-X.html">X</a></tt> (196; 1% instances), <tt><a href="he_iahltwiki-pos-DET.html">DET</a></tt> (181; 1% instances), <tt><a href="he_iahltwiki-pos-CCONJ.html">CCONJ</a></tt> (60; 0% instances), <tt><a href="he_iahltwiki-pos-SCONJ.html">SCONJ</a></tt> (33; 0% instances), <tt><a href="he_iahltwiki-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-SYM.html">SYM</a></tt> (21; 0% instances), <tt><a href="he_iahltwiki-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 16613 (100%) `PUNCT` nodes are leaves.
 

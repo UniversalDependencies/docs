@@ -40,7 +40,7 @@ The following 10 pairs of parts of speech are connected with `compound:prt`: <tt
 # visual-style 6	fgColor:white
 # visual-style 6 3 compound:prt	color:blue
 1	Bare	bare	ADV	_	_	2	advmod	_	_
-2	ikke	ikke	ADV	_	_	3	advmod	_	_
+2	ikke	ikke	ADV	Polarity=Neg	_	3	advmod	_	_
 3	i	i	ADP	_	AdpType=Prep	6	compound:prt	_	_
 4	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	3	fixed	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_

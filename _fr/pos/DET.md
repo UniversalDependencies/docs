@@ -16,4 +16,4 @@ We follow the definition for `DET` proposed in the universal scheme.
 - interrogative determiners: _quel, quelle_ as in _"<b>Quelle</b> couleur aimez-vous?"_
 - relative determiners: _quel, quelle_ as in _"Je me demande <b>quelle</b> couleur vous aimez."_
 - quantity/quantifier determiners: _aucun_
-<!-- Interlanguage links updated Po lis 14 15:34:31 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:36 CEST -->

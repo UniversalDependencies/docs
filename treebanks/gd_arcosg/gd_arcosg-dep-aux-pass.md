@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Scottish_Gaelic-ARCOSG: Relations: `aux:pass`
 
-This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-aux.html">aux</a></tt>.
+This relation is a language-specific subtype of .
 
-149 nodes (0%) are attached to their parents as `aux:pass`.
+151 nodes (0%) are attached to their parents as `aux:pass`.
 
-148 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.14093959731544.
+150 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.12582781456954.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (149; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (151; 100% instances).
 
 
 ~~~ conllu

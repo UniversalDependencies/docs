@@ -29,13 +29,13 @@ The 2nd highest number of forms (1) was observed with the lemma “mukuz”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “pitai”: <em>pitei</em>.
 
-`NUM` occurs with 3 features: <tt><a href="gub_tudet-feat-Polarity.html">Polarity</a></tt> (5; 56% instances), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt> (4; 44% instances), <tt><a href="gub_tudet-feat-Dimin.html">Dimin</a></tt> (1; 11% instances)
+`NUM` occurs with 3 features: <tt><a href="gub_tudet-feat-Polarity.html">Polarity</a></tt> (5; 56% instances), <tt><a href="gub_tudet-feat-Rel.html">Rel</a></tt> (4; 44% instances), <tt><a href="gub_tudet-feat-Degree.html">Degree</a></tt> (1; 11% instances)
 
-`NUM` occurs with 3 feature-value pairs: `Dimin=Yes`, `Polarity=Neg`, `Rel=NCont`
+`NUM` occurs with 3 feature-value pairs: `Degree=Dim`, `Polarity=Neg`, `Rel=NCont`
 
 `NUM` occurs with 3 feature combinations.
-The most frequent feature combination is `Polarity=Neg|Rel=NCont` (4 tokens).
-Examples: <em>naʔiruz</em>
+The most frequent feature combination is `_` (4 tokens).
+Examples: <em>mokoz, Mukuz, pitei</em>
 
 
 ## Relations

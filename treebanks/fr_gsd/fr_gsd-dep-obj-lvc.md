@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj:lvc	color:blue
-1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=il
 2	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	partie	partie	NOUN	_	Gender=Fem|Number=Sing	2	obj:lvc	_	_
 4	de	de	ADP	_	_	6	case	_	_
@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 12	après	après	ADP	_	_	14	case	_	_
 13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	résolution	résolution	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	_
-15	adoptée	adopter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	acl	_	_
+15	adoptée	adopter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	14	acl	_	_
 16	par	par	ADP	_	_	18	case	_	_
 17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	Parlement	parlement	NOUN	_	Gender=Masc|Number=Sing	15	obl:agent	_	wordform=parlement
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 27	qui	qui	PRON	_	PronType=Rel	30	nsubj	_	_
 28	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	aux:tense	_	_
 29	fermement	fermement	ADV	_	_	30	advmod	_	_
-30	condamné	condamner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	acl:relcl	_	_
+30	condamné	condamner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	acl:relcl	_	_
 31	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	32	det	_	SpaceAfter=No
 32	attaque	attaque	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	_
 33	de	de	ADP	_	_	36	case	_	_
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 41	,	,	PUNCT	_	_	11	punct	_	_
 42	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 43	«	«	PUNCT	_	_	44	punct	_	_
-44	contre	contre	ADP	_	_	42	obj:lvc	_	ExtPos=NOUN|Idiom=Yes
+44	contre	contre	ADP	_	ExtPos=NOUN	42	obj:lvc	_	Idiom=Yes
 45	mauvaise	mauvais	ADJ	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 46	fortune	fortune	NOUN	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 47	bon	bon	ADJ	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes
@@ -112,7 +112,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 2	jour	jour	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	Abelforth	Abelforth	PROPN	_	_	6	nsubj	_	_
-5	en	en	PRON	_	Person=3|PronType=Prs	7	nmod	_	_
+5	en	en	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	_
 6	eût	avoir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 7	assez	assez	ADV	_	_	6	obj:lvc	_	_
 8	et	et	CCONJ	_	_	9	cc	_	_
@@ -129,7 +129,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 19	de	de	ADP	_	_	20	case	_	_
 20	grandeur	grandeur	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
 21	pour	pour	ADP	_	_	23	mark	_	_
-22	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	_	SpaceAfter=No
+22	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	_	SpaceAfter=No
 23	occuper	occuper	VERB	_	VerbForm=Inf	14	advcl	_	Subject=SubjRaising
 24	d'	de	ADP	_	_	25	case	_	SpaceAfter=No
 25	Ariana	Ariana	PROPN	_	_	23	obl:arg	_	SpaceAfter=No

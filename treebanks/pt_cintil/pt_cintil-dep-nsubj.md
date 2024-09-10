@@ -23,10 +23,10 @@ The following 61 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
 1	Empresas	empresa	NOUN	CN	Gender=Fem|Number=Plur	2	nsubj	_	_
-2	recebem	receber	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
+2	recebem	receber	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	trabalhadores	trabalhador	NOUN	CN	Gender=Masc|Number=Plur	2	obj	_	_
 4	de_	de_	ADP	PREP	_	6	case	_	_
-5	a	a	DET	DA	Gender=Fem|Number=Sing	6	det	_	_
+5	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	Sodia	sodia	PROPN	PNM	_	3	obl	_	_
 
 ~~~
@@ -39,11 +39,11 @@ The following 61 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
 1	WWF	wwf	PROPN	PNM	_	2	nsubj	_	_
-2	quer	querer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	maior	maior	ADJ	ADJ	Degree=Cmp|Number=Sing	4	amod	_	_
+2	quer	querer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	maior	maior	ADJ	ADJ	Number=Sing	4	amod	_	_
 4	protecção	protecção	NOUN	CN	Gender=Fem|Number=Sing	2	obj	_	_
 5	de_	de_	ADP	PREP	_	7	case	_	_
-6	as	as	DET	DA	Gender=Fem|Number=Plur	7	det	_	_
+6	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	florestas	floresta	NOUN	CN	Gender=Fem|Number=Plur	4	obl	_	_
 8	tropicais	tropical	ADJ	ADJ	Number=Plur	7	amod	_	_
 
@@ -56,13 +56,13 @@ The following 61 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 nsubj	color:blue
-1	Combate	combater	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-2	-se	-se	PRON	CL	Person=3	1	nsubj	_	_
+1	Combate	combater	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	-se	-se	PRON	CL	Person=3|PronType=Prs	1	nsubj	_	_
 3	em_	em_	ADP	PREP	_	5	case	_	_
-4	as	as	DET	DA	Gender=Fem|Number=Plur	5	det	_	_
+4	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	Montanhas	montanha	NOUN	CN	Gender=Fem|Number=Plur	1	obl	_	_
 6	de_	de_	ADP	PREP	_	8	case	_	_
-7	a	a	DET	DA	Gender=Fem|Number=Sing	8	det	_	_
+7	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Lua	lua	PROPN	PNM	_	5	obl	_	_
 
 ~~~

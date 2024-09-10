@@ -9,86 +9,131 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Coll`, `Dual`, `Plur`, `Sing`.
 
-29 tokens (24%) have a non-empty value of `Number`.
-16 types (23%) occur at least once with a non-empty value of `Number`.
-12 lemmas (24%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (11; 9% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (9; 8% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="xav_xdt-feat-Number.html">Number</a></tt>, <tt><a href="xav_xdt-feat-Number-abs.html">Number[abs]</a></tt>, <tt><a href="xav_xdt-feat-Number-psor.html">Number[psor]</a></tt>.
+
+216 tokens (13%) have a non-empty value of `Number`.
+80 types (20%) occur at least once with a non-empty value of `Number`.
+54 lemmas (18%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> (87; 5% instances), <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> (43; 3% instances), <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> (31; 2% instances), <tt><a href="xav_xdt-pos-X.html">X</a></tt> (25; 1% instances), <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="xav_xdt-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `PART`
 
-11 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (28% of all `PART` tokens) have a non-empty value of `Number`.
+87 <tt><a href="xav_xdt-pos-PART.html">PART</a></tt> tokens (23% of all `PART` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (7; 64%).
+The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Htp.html">Htp</a></tt><tt>=EMPTY</tt> (87; 100%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (87; 100%).
 
 `PART` tokens may have the following values of `Number`:
 
-* `Coll` (7; 64% of non-empty `Number`): <em>norĩ, norĩhã, hã</em>
-* `Plur` (4; 36% of non-empty `Number`): <em>zaʔra</em>
-* `EMPTY` (28): <em>hã, ma, na, si, za, ãma, Te, ni, oto, re</em>
-
-### `PRON`
-
-9 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (56% of all `PRON` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (6; 67%), <tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 67%).
-
-`PRON` tokens may have the following values of `Number`:
-
-* `Dual` (2; 22% of non-empty `Number`): <em>ni, dzahuré</em>
-* `Plur` (5; 56% of non-empty `Number`): <em>dzaʔrani, wa, ma, wama</em>
-* `Sing` (2; 22% of non-empty `Number`): <em>ma, te</em>
-* `EMPTY` (7): <em>wa, te, uburé, waré</em>
+* `Coll` (40; 46% of non-empty `Number`): <em>norĩ, aba, norĩhã, wa'aba</em>
+* `Dual` (1; 1% of non-empty `Number`): <em>zaʔra</em>
+* `Plur` (46; 53% of non-empty `Number`): <em>dza'ra, zaʔra</em>
+* `EMPTY` (291): <em>te, ma, e, hã, wa, õ, dza, tô, mono, bö</em>
 
 <table>
-  <tr><th>Paradigm <i>ma</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt>|<tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ma</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="xav_xdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>ma</em></td></tr>
+  <tr><th>Paradigm <i>zaʔra</i></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>zaʔra</em></td><td><em>zaʔra</em></td></tr>
 </table>
-
-### `AUX`
-
-3 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (60% of all `AUX` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (3; 100%).
-
-`AUX` tokens may have the following values of `Number`:
-
-* `Plur` (3; 100% of non-empty `Number`): <em>wate</em>
-* `EMPTY` (2): <em>te, tete</em>
-
-### `VERB`
-
-3 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (3; 100%).
-
-`VERB` tokens may have the following values of `Number`:
-
-* `Plur` (3; 100% of non-empty `Number`): <em>tsabu, wawaʔutu</em>
-* `EMPTY` (13): <em>dzöiʔrẽ, awajhuʔu, dapãrĩ, höjmana, mro, romhuri, simro, sõré, tsabu, ñamra</em>
-
-### `ADP`
-
-2 <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> tokens (50% of all `ADP` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=Dat</tt> (2; 100%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%), <tt><a href="xav_xdt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (2; 100%).
-
-`ADP` tokens may have the following values of `Number`:
-
-* `Plur` (2; 100% of non-empty `Number`): <em>wasima</em>
-* `EMPTY` (2): <em>ãma, ʔré</em>
 
 ### `NOUN`
 
-1 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Number`.
+43 <tt><a href="xav_xdt-pos-NOUN.html">NOUN</a></tt> tokens (12% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (1; 100% of non-empty `Number`): <em>waʔra</em>
-* `EMPTY` (29): <em>wahiʔrata, aiʔuté, Ö, ĩʔrãzani, Warazu, Wasi, abazi, dañoʔre, höjmanazé, ipire</em>
+* `Coll` (11; 26% of non-empty `Number`): <em>wahi'ratanorĩhã, Wahi'ratanorĩ, aba'wanorĩ, Ananorĩhã, ti'ranorĩ, ti'ranorĩhã, wa'ranorĩhã, wamamanorĩhã, Ĩ'ranorĩ</em>
+* `Plur` (9; 21% of non-empty `Number`): <em>zéré, 'ra, Wahitébré, Watsi'utsu, Wawa'a, warob, watsa, watsai, ĩĩzéré</em>
+* `Sing` (23; 53% of non-empty `Number`): <em>azarutu, ĩĩmama, Ano, zé, ĩna, ĩno, Dazépuʔu, aimreme, dahöimanadzéb, datõmo</em>
+* `EMPTY` (326): <em>marĩ, aibö, 'watébrémi, pi'õ, a'uwẽ, buru, wapté, ba'õtõ, bötö, Mare</em>
+
+<table>
+  <tr><th>Paradigm <i>mama</i></th><th><tt>Sing</tt></th><th><tt>Coll</tt></th></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>wamamanorĩhã</em></td></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>ĩĩmama</em></td><td></td></tr>
+</table>
+
+### `PRON`
+
+31 <tt><a href="xav_xdt-pos-PRON.html">PRON</a></tt> tokens (42% of all `PRON` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (24; 77%), <tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (22; 71%), <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (17; 55%), <tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (16; 52%).
+
+`PRON` tokens may have the following values of `Number`:
+
+* `Coll` (10; 32% of non-empty `Number`): <em>wanorĩhã, wasiwi, anorĩwa'wahã</em>
+* `Plur` (13; 42% of non-empty `Number`): <em>wama, õnorĩhã, Anorĩwa'wahã, wasima, Waãma, anorĩ, wate</em>
+* `Sing` (8; 26% of non-empty `Number`): <em>õhã, ĩĩsima, Wahã</em>
+* `EMPTY` (42): <em>aima, tãma, Taha, aihini, uburé, 'wa, Ta, dama, ni, ni'wa</em>
+
+<table>
+  <tr><th>Paradigm <i>wa</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>wama</em></td></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xav_xdt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>wasima</em></td></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Emph.html">Emph</a></tt><tt>=Yes</tt>|<tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Wahã</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>wate</em></td></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>Waãma</em></td></tr>
+</table>
+
+### `X`
+
+25 <tt><a href="xav_xdt-pos-X.html">X</a></tt> tokens (43% of all `X` tokens) have a non-empty value of `Number`.
+
+`X` tokens may have the following values of `Number`:
+
+* `Dual` (25; 100% of non-empty `Number`): <em>wa'wa, ni, 'wa</em>
+* `EMPTY` (33): <em>di, wamhã, hö, na, ni, wei</em>
+
+### `VERB`
+
+12 <tt><a href="xav_xdt-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Person-abs.html">Person[abs]</a></tt><tt>=EMPTY</tt> (12; 100%).
+
+`VERB` tokens may have the following values of `Number`:
+
+* `Sing` (12; 100% of non-empty `Number`): <em>aañamra, ajwajrĩ, azidi, dahudu, höjmana, iwẽ, pusi, sãmra, Ĩĩsiupte, ĩhöjmana</em>
+* `EMPTY` (196): <em>romhuri, mo, wara, romhu, waihu'u, höimana, tsadanha, tineb, tinha, tiwĩ</em>
+
+`Number` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Number`.
+
+### `NUM`
+
+11 <tt><a href="xav_xdt-pos-NUM.html">NUM</a></tt> tokens (85% of all `NUM` tokens) have a non-empty value of `Number`.
+
+`NUM` tokens may have the following values of `Number`:
+
+* `Dual` (11; 100% of non-empty `Number`): <em>dzahuré</em>
+* `EMPTY` (2): <em>misi, mitsi</em>
+
+### `AUX`
+
+4 <tt><a href="xav_xdt-pos-AUX.html">AUX</a></tt> tokens (11% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt> (3; 75%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (3; 75% of non-empty `Number`): <em>wate</em>
+* `Sing` (1; 25% of non-empty `Number`): <em>tete</em>
+* `EMPTY` (33): <em>te, di, ma'ãpé, mo</em>
+
+<table>
+  <tr><th>Paradigm <i>te</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>wate</em></td></tr>
+  <tr><td><tt><tt><a href="xav_xdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tete</em></td><td></td></tr>
+</table>
+
+### `ADP`
+
+3 <tt><a href="xav_xdt-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Number`.
+
+`ADP` tokens may have the following values of `Number`:
+
+* `Plur` (2; 67% of non-empty `Number`): <em>wadzô, waré</em>
+* `Sing` (1; 33% of non-empty `Number`): <em>ĩĩma</em>
+* `EMPTY` (128): <em>na, da, ãma, me, u, wi, dzô, ma, 're, ré</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="xav_xdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2; 67%).
+<tt>VERB --[<tt><a href="xav_xdt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%).
 

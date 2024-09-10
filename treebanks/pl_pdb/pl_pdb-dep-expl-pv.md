@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-6157 nodes (2%) are attached to their parents as `expl:pv`.
+6155 nodes (2%) are attached to their parents as `expl:pv`.
 
-4979 instances of `expl:pv` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17248660061718.
+4977 instances of `expl:pv` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17286758732738.
 
-The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (5793; 94% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (227; 4% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (137; 2% instances).
+The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (5793; 94% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (226; 4% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (136; 2% instances).
 
 
 ~~~ conllu

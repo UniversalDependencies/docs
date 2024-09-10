@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_atis-feat-Number.html">Number</a></tt>, <tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt>.
 
-5790 tokens (13%) have a non-empty value of `Number[psor]`.
-406 types (20%) occur at least once with a non-empty value of `Number[psor]`.
-155 lemmas (16%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (5751; 13% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (31; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
+5793 tokens (13%) have a non-empty value of `Number[psor]`.
+408 types (20%) occur at least once with a non-empty value of `Number[psor]`.
+156 lemmas (16%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> (5756; 13% instances), <tt><a href="tr_atis-pos-VERB.html">VERB</a></tt> (31; 0% instances), <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
-5751 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+5756 <tt><a href="tr_atis-pos-NOUN.html">NOUN</a></tt> tokens (43% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="tr_atis-feat-Person.html">Person</a></tt><tt>=3</tt> (5751; 100%), <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (5320; 93%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4041; 70%), <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3364; 58%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="tr_atis-feat-Person.html">Person</a></tt><tt>=3</tt> (5756; 100%), <tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (5323; 92%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4045; 70%), <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3366; 58%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>uçuşuna, ucuna, uçuşu</em></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>uçuşlarına</em></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>uçabilmemin</em></td></tr>
-  <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>uçuşunun</em></td></tr>
+  <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>uçuşunun, uçmanın</em></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>uçuşunun</em></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>uçuşunuzun</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_atis-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_atis-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>uçuşlarının</em></td><td></td></tr>
@@ -83,9 +83,9 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 ### `PROPN`
 
-8 <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
+6 <tt><a href="tr_atis-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 75%).
+The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="tr_atis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="tr_atis-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4; 67%).
 
 `PROPN` tokens may have the following values of `Number[psor]`:
 
@@ -93,5 +93,5 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>NOUN --[<tt><a href="tr_atis-dep-list.html">list</a></tt>]--> NOUN</tt> (5; 100%).
+<tt>NOUN --[<tt><a href="tr_atis-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (4; 80%).
 

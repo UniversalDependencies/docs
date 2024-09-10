@@ -57,4 +57,4 @@ In Irish, the subjunctive mood is used to express a wish or an uncertainty. It i
 
 * _Go <b>n-imí</b> an diabhal do bhóthar_ "<b>May</b> the devil <b>be gone</b> from your way"
 * _Go <b>raibh</b> maith agat_ "Thank you (lit. That you would have good)"
-<!-- Interlanguage links updated Po lis 14 15:34:48 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:03 CEST -->

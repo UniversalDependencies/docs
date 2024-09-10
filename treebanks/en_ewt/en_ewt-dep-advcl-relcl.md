@@ -8,26 +8,30 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt>.
 
-118 nodes (0%) are attached to their parents as `advcl:relcl`.
+121 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-118 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.05932203389831.
+121 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.91735537190083.
 
-The following 17 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (35; 30% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (25; 21% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (17; 14% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (9; 8% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (38; 31% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (24; 20% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (17; 14% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (9; 7% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (7; 6% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 advcl:relcl	color:blue
-1	Power	power	NOUN	NN	Number=Sing	3	nsubj	3:nsubj	_
-2	be	be	AUX	VB	Mood=Sub|VerbForm=Fin	3	cop	3:cop	_
-3	where	where	ADV	WRB	PronType=Rel	0	root	0:root	_
-4	power	power	NOUN	NN	Number=Sing	5	nsubj	5:nsubj	_
-5	lies	lie	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	SpaceAfter=No
-6	.	.	PUNCT	.	_	3	punct	3:punct	_
+# visual-style 5 9 advcl:relcl	color:blue
+1	Deal	deal	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+2	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+3	meal	meal	NOUN	NN	Number=Sing	1	obj	1:obj	_
+4	from	from	ADP	IN	_	5	case	5:case	_
+5	where	where	ADV	WRB	PronType=Rel	1	obl	1:obl:from|9:advmod	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	_
+7	dishes	dish	NOUN	NNS	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
+8	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	_
+9	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl:relcl	5:advcl:relcl	Cxn=rc-free-advmod|SpaceAfter=No
+10	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 
@@ -45,12 +49,12 @@ The following 17 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 5	out	out	ADP	RP	_	3	compound:prt	3:compound:prt	_
 6	to	to	ADP	IN	_	7	case	7:case	_
 7	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl:to	SpaceAfter=No
-8	,	,	PUNCT	,	_	3	punct	3:punct	_
+8	,	,	PUNCT	,	_	13	punct	13:punct	_
 9	at	at	ADP	IN	_	11	case	11:case	_
 10	which	which	DET	WDT	PronType=Rel	11	det	11:det	_
 11	point	point	NOUN	NN	Number=Sing	13	obl	13:obl:at	_
 12	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	_
-13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	_
+13	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl:relcl	3:advcl:relcl	Cxn=rc-wh-obl
 14	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	16	nsubj	16:nsubj	_
 15	only	only	ADV	RB	_	16	advmod	16:advmod	_
 16	had	have	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	ccomp	13:ccomp	_
@@ -81,16 +85,16 @@ The following 17 pairs of parts of speech are connected with `advcl:relcl`: <tt>
 7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	expl	15:expl	_
 8	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	_
 9	professional	professional	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
-10	,	,	PUNCT	,	_	15	punct	15:punct	_
+10	,	,	PUNCT	,	_	9	punct	9:punct	_
 11	friendly	friendly	ADJ	JJ	Degree=Pos	15	amod	15:amod	SpaceAfter=No
-12	,	,	PUNCT	,	_	15	punct	15:punct	_
+12	,	,	PUNCT	,	_	11	punct	11:punct	_
 13	diligent	diligent	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 14	medical	medical	ADJ	JJ	Degree=Pos	15	amod	15:amod	_
 15	services	service	NOUN	NNS	Number=Plur	4	advcl	4:advcl:if|18:obl:for	_
 16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	18:nsubj	_
 17	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	aux	18:aux	_
-18	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	15	advcl:relcl	15:advcl:relcl	_
-19	for	for	ADP	IN	_	18	obl	15:case	SpaceAfter=No
+18	looking	look	VERB	VBG	Tense=Pres|VerbForm=Part	15	advcl:relcl	15:advcl:relcl	Cxn=rc-cleft.red-obl-pstrand
+19	for	for	ADP	IN	_	18	obl	15:case	Promoted=Yes|SpaceAfter=No
 20	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~

@@ -13,7 +13,7 @@ This relation is universal.
 1 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="krl_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a href="krl_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="krl_kkpp-pos-X.html">X</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -30,8 +30,8 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	keškukšešša	keškuš	NOUN	NOUN	Case=Ine|Number=Sing	8	obl	_	_
 7	myö	myö	PRON	PRON	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 8	pelasima	pelata	VERB	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-9	Kalevala-	Kalevala	PROPN	PROPN	Case=Nom|Number=Sing	8	obj	_	PropnType=Al
-10	šeikkailupelie	seikkailu#peli	NOUN	NOUN	Case=Par|Number=Sing	9	goeswith	_	SpaceAfter=No
+9	Kalevala-	Kalevala-seikkailu#peli	PROPN	PROPN	Case=Par|Number=Sing|Typo=Yes	8	obj	_	PropnType=Al
+10	šeikkailupelie	_	X	NOUN	_	9	goeswith	_	SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	13	punct	_	_
 12	kumpasen	kumpaine	PRON	PRON	Case=Gen|Number=Sing|PronType=Ind	13	obj	_	_
 13	kekši	kekšie	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_

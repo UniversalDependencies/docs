@@ -64,9 +64,9 @@ The following 8 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 2	sub	sub	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	cort	cort	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 4	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
-5	mi-	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	3	iobj	_	|SpaceAfter=No
+5	mi-	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	3	iobj	_	SpaceAfter=No
 6	și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	3	expl:pv	_	_
-7	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	3	cop	_	|SpaceAfter=No
+7	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	3	cop	_	SpaceAfter=No
 8	?	?	PUNCT	QUEST	_	3	punct	_	_
 
 ~~~

@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="pcm_nsc-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.162888).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.162341).
 
 The 1st highest number of forms (1) was observed with the lemma “abi”: <em>abi</em>.
 
@@ -45,7 +45,13 @@ The 2nd highest number of forms (1) was observed with the lemma “alias”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="pcm_nsc-feat-ExtPos.html">ExtPos</a></tt> (12; 1% instances)
+
+`CCONJ` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`
+
+`CCONJ` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (1665 tokens).
+Examples: <em>and, but, or, abi, wheder, alias, plus, cos, eider, either</em>
 
 
 ## Relations

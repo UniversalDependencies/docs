@@ -6,18 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `ADJ`
 
-There are 18 `ADJ` lemmas (3%), 20 `ADJ` types (3%) and 30 `ADJ` tokens (1%).
+There are 19 `ADJ` lemmas (4%), 21 `ADJ` types (3%) and 32 `ADJ` tokens (1%).
 Out of 16 observed tags, the rank of `ADJ` is: 5 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>jõnn, kuälmad, nuʹbb, šiõǥǥ, nåkkam, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuʹǩǩ</em>
 
-The 10 most frequent `ADJ` types:  <em>kuälmad, jõnn, šiõǥǥ, nuʹbb, nåkkam, tiõrvâs, ekksaž, jåʹttel, kaađâš, kuuʹǩǩ</em>
+The 10 most frequent `ADJ` types:  <em>kuälmad, jõnn, šiõǥǥ, nuuʹbb, nuʹbb, nåkkam, tiõrvâs, ekksaž, jåʹttel, kaađâš</em>
 
-The 10 most frequent ambiguous lemmas: <em>nuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 2), <em>nåkkam</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2), <em>kuʹǩǩ</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>šurr</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>nuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 2), <em>nåkkam</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2), <em>kuʹǩǩ</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 1), <em>šurr</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>nuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>nåkkam</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2), <em>kuuʹǩǩ</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 4, <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1), <em>nuuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>nuuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>nuʹbb</em> (<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>nåkkam</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2), <em>kuuʹǩǩ</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 4, <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1)
 
 
+* <em>nuuʹbb</em>
+  * <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2: <em>Son lij suukkâm jooǥǥ <b>nuuʹbb</b> peälla .</em>
+  * <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1: <em>Čõõnõõđi âʹtte jiõčč di tõn <b>nuuʹbb</b> viʹllje ceälkk : ton ååʹn õõk lueʹštškueʹtted suu tok .</em>
 * <em>nuʹbb</em>
   * <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 2: <em>Näʹde <b>nuʹbb</b> villj näʹde čõõnõõđškuõʹđi .</em>
   * <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1: <em>Di tut <b>nuʹbb</b> âʹtte lueʹšti , lueʹšti , lueʹšti di peästtõõǥǥ puʹtte .</em>
@@ -27,13 +30,10 @@ The 10 most frequent ambiguous types:  <em>nuʹbb</em> (<tt><a href="sms_giellag
 * <em>kuuʹǩǩ</em>
   * <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 4: <em>Ij <b>kuuʹǩǩ</b> leämmaž mieʹccest , iʹttli kuʹmpp väʹst mååust .</em>
   * <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1: <em>No <b>kuuʹǩǩ</b> ääiʹj mij jieʹlim ... ” , jeäʹnnes ceälkk , ” jiõm leäkku kooǯǯtam .</em>
-* <em>nuuʹbb</em>
-  * <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> 1: <em>Viiǥǥi ääkk årra , ääkkaž njauksti vuâr sieʹlj di jõnn šõõddi , <b>nuuʹbb</b> vuâra njauksti di vâl šuurab , kuälmad vuâra di jõnn heäppšen pâi påʹʒʒlõõđi .</em>
-  * <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1: <em>Čõõnõõđi âʹtte jiõčč di tõn <b>nuuʹbb</b> viʹllje ceälkk : ton ååʹn õõk lueʹštškueʹtted suu tok .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.465909).
+The form / lemma ratio of `ADJ` is 1.105263 (the average of all parts of speech is 1.476015).
 
 The 1st highest number of forms (2) was observed with the lemma “jõnn”: <em>jõnn, šuurab</em>.
 
@@ -41,28 +41,28 @@ The 2nd highest number of forms (2) was observed with the lemma “nuʹbb”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “Jõnn”: <em>jõnn</em>.
 
-`ADJ` occurs with 4 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (14; 47% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (14; 47% instances), <tt><a href="sms_giellagas-feat-NumType.html">NumType</a></tt> (4; 13% instances), <tt><a href="sms_giellagas-feat-Degree.html">Degree</a></tt> (2; 7% instances)
+`ADJ` occurs with 4 features: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt> (16; 50% instances), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt> (16; 50% instances), <tt><a href="sms_giellagas-feat-NumType.html">NumType</a></tt> (5; 16% instances), <tt><a href="sms_giellagas-feat-Degree.html">Degree</a></tt> (2; 6% instances)
 
-`ADJ` occurs with 6 feature-value pairs: `Case=Acc`, `Case=Ill`, `Case=Nom`, `Degree=Cmp`, `NumType=Ord`, `Number=Sing`
+`ADJ` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Ill`, `Case=Nom`, `Degree=Cmp`, `NumType=Ord`, `Number=Sing`
 
-`ADJ` occurs with 6 feature combinations.
+`ADJ` occurs with 7 feature combinations.
 The most frequent feature combination is `_` (12 tokens).
 Examples: <em>šiõǥǥ, nåkkam, ekksaž, jõnn, kaađâš, siõm, uʹcc, viʹlǧǧes, šoora</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 7 different relations: <tt><a href="sms_giellagas-dep-amod.html">amod</a></tt> (20; 67% instances), <tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt> (2; 7% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (2; 7% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (2; 7% instances), <tt><a href="sms_giellagas-dep-xcomp.html">xcomp</a></tt> (2; 7% instances), <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (1; 3% instances)
+`ADJ` nodes are attached to their parents using 7 different relations: <tt><a href="sms_giellagas-dep-amod.html">amod</a></tt> (22; 69% instances), <tt><a href="sms_giellagas-dep-advcl.html">advcl</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-dep-conj.html">conj</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-dep-root.html">root</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-dep-xcomp.html">xcomp</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-dep-ccomp.html">ccomp</a></tt> (1; 3% instances)
 
-Parents of `ADJ` nodes belong to 4 different parts of speech: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (21; 70% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (5; 17% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 7% instances),  (2; 7% instances)
+Parents of `ADJ` nodes belong to 4 different parts of speech: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (23; 72% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (5; 16% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 6% instances),  (2; 6% instances)
 
-19 (63%) `ADJ` nodes are leaves.
+21 (66%) `ADJ` nodes are leaves.
 
 4 (13%) `ADJ` nodes have one child.
 
 1 (3%) `ADJ` nodes have two children.
 
-6 (20%) `ADJ` nodes have three or more children.
+6 (19%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 10.
 

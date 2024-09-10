@@ -8,9 +8,11 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Aff">Aff</a></td>
+  <td><a href="#Break">Break</a></td>
   <td><a href="#Clit">Clit</a></td>
-  <td><a href="#Stem">Stem</a></td>
+  <td><a href="#DerAff">DerAff</a></td>
+  <td><a href="#InflAff">InflAff</a></td>
+  <td><a href="#Root">Root</a></td>
   <td><a href="#Unfinished">Unfinished</a></td>
 </tr>
 </table>
@@ -32,9 +34,9 @@ Token that starts or ends with a equal sign occupying the positions of [pronoun]
 #### Examples
 - _=i_ (`PRON`; Case Nominative; Possessive)
 
-### <a name="Stem">`Stem`</a>: stem
+### <a name="Root">`Root`</a>: root
 
-Stem item within the word.
+Root item within the word.
 
 #### Examples
 
@@ -48,4 +50,4 @@ Token which is unfinished like false starts, marked by the hash sign.
 #### Examples
 
 - _aː#_ (False start `DET`)
-<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->

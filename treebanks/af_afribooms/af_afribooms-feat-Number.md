@@ -10,18 +10,18 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 13193 tokens (27%) have a non-empty value of `Number`.
-3749 types (61%) occur at least once with a non-empty value of `Number`.
-3125 lemmas (59%) occur at least once with a non-empty value of `Number`.
-The feature is used with 3 part-of-speech tags: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (10459; 21% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (2144; 4% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (590; 1% instances).
+3740 types (61%) occur at least once with a non-empty value of `Number`.
+3117 lemmas (59%) occur at least once with a non-empty value of `Number`.
+The feature is used with 3 part-of-speech tags: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (10458; 21% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (2145; 4% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (590; 1% instances).
 
 ### `NOUN`
 
-10459 <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+10458 <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (2931; 28% of non-empty `Number`): <em>mense, leerders, dienste, opsigte, Suid-Afrikaners, pogings, lande, sake, uitdagings, dokumente</em>
-* `Sing` (7528; 72% of non-empty `Number`): <em>jaar, regering, aansoek, inligting, land, departement, staat, toegang, webwerf, persoon</em>
+* `Sing` (7527; 72% of non-empty `Number`): <em>jaar, regering, aansoek, inligting, land, departement, staat, toegang, webwerf, persoon</em>
 
 <table>
   <tr><th>Paradigm <i>jaar</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -30,17 +30,17 @@ The feature is used with 3 part-of-speech tags: <tt><a href="af_afribooms-pos-NO
 
 ### `PRON`
 
-2144 <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> tokens (58% of all `PRON` tokens) have a non-empty value of `Number`.
+2145 <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> tokens (59% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="af_afribooms-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2144; 100%), <tt><a href="af_afribooms-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1507; 70%), <tt><a href="af_afribooms-feat-Person.html">Person</a></tt><tt>=1</tt> (1108; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="af_afribooms-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2144; 100%), <tt><a href="af_afribooms-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1508; 70%), <tt><a href="af_afribooms-feat-Person.html">Person</a></tt><tt>=1</tt> (1108; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1217; 57% of non-empty `Number`): <em>ons, hulle, hul, onsself, julle, hulself</em>
-* `Sing` (927; 43% of non-empty `Number`): <em>dit, jy, jou, ek, sy, hy, my, haar, u, self</em>
-* `EMPTY` (1574): <em>wat, enige, daar, wanneer, almal, waar, elke, daarvan, hoe, watter</em>
+* `Sing` (928; 43% of non-empty `Number`): <em>dit, jy, jou, ek, sy, hy, my, haar, u, self</em>
+* `EMPTY` (1462): <em>wat, enige, daar, almal, elke, daarvan, waar, wanneer, watter, wie</em>
 
-`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (21) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (22) occur only with one value of `Number`.
 
 ### `PROPN`
 
@@ -50,18 +50,18 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Sing` (590; 100% of non-empty `Number`): <em>Suid-Afrika, Afrika, Februarie, Madiba, Crime, Mandela, of, Bafana, Maart, Tambo</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (309) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (308) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1584; 62%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1583; 62%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> NOUN</tt> (935; 78%),
 <tt>PROPN --[<tt><a href="af_afribooms-dep-flat.html">flat</a></tt>]--> PROPN</tt> (229; 100%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (93; 80%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (86; 65%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> NOUN</tt> (66; 65%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (55; 70%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (55; 69%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> NOUN</tt> (46; 66%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> PROPN</tt> (32; 91%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> PROPN</tt> (22; 92%).

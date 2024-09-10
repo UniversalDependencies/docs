@@ -17,24 +17,22 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 orphan	color:blue
-1	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	OrigLang=ru
-2	шедӧдіс	шедӧдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	бронза	бронза	NOUN	N	Case=Nom|Number=Sing	2	obj	_	OrigLang=ru|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	2	conj	_	OrigLang=ru
-6	-	-	PUNCT	PUNCT	_	7	punct	_	_
-7	эзысь	эзысь	NOUN	N	Case=Nom|Number=Sing	5	orphan	_	SpaceAfter=No
-8	,	,	PUNCT	CLB	_	10	punct	_	_
-9	а	а	CCONJ	CC	_	10	cc	_	_
-10	Джейн	Джейн	NOUN	N	Case=Nom|Number=Sing	2	conj	_	OrigLang=ru
-11	-	-	PUNCT	PUNCT	_	12	punct	_	_
-12	зарни	зарни	NOUN	N	Case=Nom|Number=Sing	10	orphan	_	SpaceAfter=No
-13	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 7 9 orphan	color:blue
+1	Озырлун	озырлун	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	GTtags=Sg,Nom
+2	кыссьӧ	кыссьыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=IV,Ind,Prs,Sg3
+3	озырлун	озырлун	NOUN	N	Case=Nom|Number=Sing	2	obl:lmod	_	GTtags=Sg,Nom
+4	дінӧ	дінӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing	3	case	_	GTtags=Po,Sg,Ill|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	7	punct	_	_
+6	a	а	CCONJ	CC	_	7	cc	_	_
+7	зарни	зарни	NOUN	N	Case=Nom|Number=Sing	2	conj	_	GTtags=Sg,Nom
+8	—	—	PUNCT	PUNCT	_	9	punct	_	_
+9	зарни	зарни	NOUN	N	Case=Nom|Number=Sing	7	orphan	_	GTtags=Sg,Nom
+10	дінӧ	дінӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing	9	case	_	GTtags=Po,Sg,Ill|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

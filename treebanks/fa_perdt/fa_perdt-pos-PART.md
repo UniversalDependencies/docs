@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  که (<tt><a href="fa_perdt-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.477395).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.486663).
 
 The 1st highest number of forms (1) was observed with the lemma “آیا”: آیا.
 
@@ -55,17 +55,19 @@ The 3rd highest number of forms (1) was observed with the lemma “مگر”: م
 
 `PART` nodes are attached to their parents using 6 different relations: <tt><a href="fa_perdt-dep-mark.html">mark</a></tt> (372; 82% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (74; 16% instances), <tt><a href="fa_perdt-dep-obl-arg.html">obl:arg</a></tt> (2; 0% instances), <tt><a href="fa_perdt-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (336; 75% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (39; 9% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (28; 6% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (27; 6% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (354; 78% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (33; 7% instances), <tt><a href="fa_perdt-pos-PRON.html">PRON</a></tt> (26; 6% instances), <tt><a href="fa_perdt-pos-ADJ.html">ADJ</a></tt> (22; 5% instances), <tt><a href="fa_perdt-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fa_perdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 444 (98%) `PART` nodes are leaves.
 
-5 (1%) `PART` nodes have one child.
+4 (1%) `PART` nodes have one child.
 
 2 (0%) `PART` nodes have two children.
 
-The highest child degree of a `PART` node is 2.
+1 (0%) `PART` nodes have three or more children.
 
-Children of `PART` nodes are attached using 5 different relations: <tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt> (3; 33% instances), <tt><a href="fa_perdt-dep-case.html">case</a></tt> (2; 22% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (2; 22% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (1; 11% instances), <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (1; 11% instances)
+The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes belong to 5 different parts of speech: <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (3; 33% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (2; 22% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (1; 11% instances)
+Children of `PART` nodes are attached using 5 different relations: <tt><a href="fa_perdt-dep-ccomp.html">ccomp</a></tt> (3; 27% instances), <tt><a href="fa_perdt-dep-punct.html">punct</a></tt> (3; 27% instances), <tt><a href="fa_perdt-dep-case.html">case</a></tt> (2; 18% instances), <tt><a href="fa_perdt-dep-nmod.html">nmod</a></tt> (2; 18% instances), <tt><a href="fa_perdt-dep-obl.html">obl</a></tt> (1; 9% instances)
+
+Children of `PART` nodes belong to 5 different parts of speech: <tt><a href="fa_perdt-pos-PUNCT.html">PUNCT</a></tt> (3; 27% instances), <tt><a href="fa_perdt-pos-VERB.html">VERB</a></tt> (3; 27% instances), <tt><a href="fa_perdt-pos-ADP.html">ADP</a></tt> (2; 18% instances), <tt><a href="fa_perdt-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="fa_perdt-pos-PROPN.html">PROPN</a></tt> (1; 9% instances)
 

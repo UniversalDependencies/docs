@@ -24,16 +24,17 @@ udver: '2'
   * The temporal auxiliary *ha* (have), which combines with the supine form of the main verb to form perfect tenses.
   * The passive auxiliary *bli* (get), which combines with the past participle of the main verb to form passives.
   * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *måste* (must) and *kunde* (could).
-* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
-* Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). The only exception is that past participles used to form periphrastic passives are tagged [VERB]().
+* The tag [DET]() is used for articles and words used with a determiner function, excluding possessives. The tag [PRON]() is used for possessives and for pronouns occurring as the head of a noun phrase.
+* Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). The only exception is that past participles used to form periphrastic passives with the auxiliary "bli" are tagged [VERB]().
 
 For more information, see the list of [Swedish POS tags](pos/index.html).
 
 ### Features
 
 * Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definite]() (indefinite or definite) and [Case]() (nominative or genitive).
-* Verbs inflect for [Voice]() (active or passive). Finite forms in indicative mood in addition inflect for [Tense]() (present or paste). There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary *have*).
-* Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](), [Number]() and [Definite](). In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative) and for [Case]() when used to head noun phrases.
+* Verbs inflect for [Voice]() (active or passive). Finite forms in indicative mood in addition inflect for [Tense]() (present or past). There are three types of nonfinite forms: infinitives, participles (present and past), and supine (used to form perfect tenses together with the auxiliary *have*).
+* Adjectives agree with nouns (in both attributive and predicate position) with respect to the features [Gender](), [Number]() and [Definite]() (although some adjectives do not distinguish all features).  In addition, many adjectives inflect for [Degree]() (positive, comparative, superlative) and for [Case]() (although the genitive case only occurs when an adjective is used to head a noun phrase).
+Participles in addition have the features VerbForm and Tense, and ordinal numerals are classified for NumType.
 * Adverbs inflect only for [Degree]().
 * Personal pronouns inflect for [Case]() with three values (nominative, accusative, genitive).
 * Determiners agree with nouns in the same way as adjectives.

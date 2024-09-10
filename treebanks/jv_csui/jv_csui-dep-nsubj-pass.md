@@ -7,32 +7,32 @@ udver: '2'
 ## Treebank Statistics: UD_Javanese-CSUI: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="jv_csui-dep-nsubj.html">nsubj</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="jv_csui-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-33 nodes (2%) are attached to their parents as `nsubj:pass`.
+176 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-33 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.48484848484848.
+172 instances of `nsubj:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.72159090909091.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (13; 39% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (11; 33% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (6; 18% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (3; 9% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NOUN.html">NOUN</a></tt> (81; 46% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (67; 38% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-PROPN.html">PROPN</a></tt> (22; 13% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="jv_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="jv_csui-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="jv_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="jv_csui-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 nsubj:pass	color:blue
-1	Dina	dina	NOUN	_	Number=Sing	6	nsubj:pass	_	_
-2	Abasa	Abasa	PROPN	_	_	1	nmod	_	_
-3	Bali	Bali	PROPN	_	_	2	flat:name	_	_
-4	adat	adat	NOUN	_	Number=Sing	6	obl	_	_
-5	é	é	DET	_	Definite=Def|Polite=Infm|PronType=Art	4	det	_	Level=Ngoko
-6	lumaku	laku	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
-7	mligi	mligi	ADV	_	_	9	advmod	_	_
-8	ing	ing	ADP	_	_	9	case	_	_
-9	tataran	tatar	NOUN	_	Number=Sing	6	obl	_	_
-10	pamulangan	ulang	NOUN	_	Number=Sing	9	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nsubj:pass	color:blue
+1	Mau	_	ADV	_	Polite=Infm|PronType=Dem	4	advmod	_	_
+2	anak	_	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	mu	_	PRON	_	Number=Sing|Person=2|Polite=Infm|PronType=Prs	2	nmod:poss	_	_
+4	turokna	_	VERB	_	Mood=Irr|Polite=Infm|Voice=Pass	0	root	_	_
+5	neng	_	ADP	_	Polite=Infm	6	case	_	_
+6	kamar	_	NOUN	_	Number=Sing	4	obl	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	4	punct	_	_
+8	ora	_	PART	_	Polarity=Neg|Polite=Infm	9	advmod	_	_
+9	kebribinen	_	VERB	_	Mood=Ind|Voice=Pass	4	advcl	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -43,35 +43,32 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj:pass	color:blue
-1	Panjenenganipun	panjenenganipun	PRON	_	Number=Sing|Person=3|Polite=Elev|PronType=Prs	2	nsubj:pass	_	Level=KramaInggil
-2	miyos	miyos	VERB	_	Polite=Elev|Voice=Pass	0	root	_	Level=KramaInggil
-3	kanthi	kanthi	ADP	_	_	4	case	_	_
-4	asma	asma	NOUN	_	Number=Sing|Polite=Form	2	obl	_	Level=Krama
-5	asli	asli	ADJ	_	_	4	amod	_	_
-6	Joko	Joko	PROPN	_	_	4	nmod	_	_
-7	Widodo	Widodo	PROPN	_	_	6	flat:name	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
+1	Panjenenganipun	_	PRON	_	Number=Sing|Person=3|Polite=Elev|PronType=Prs	2	nsubj:pass	_	_
+2	miyos	_	VERB	_	Mood=Ind|Polite=Form|Voice=Pass	0	root	_	_
+3	kanthi	_	ADP	_	Polite=Infm	4	case	_	_
+4	asma	_	NOUN	_	Number=Sing|Polite=Elev	2	obl	_	_
+5	asli	_	ADJ	_	_	4	amod	_	_
+6	Joko	_	PROPN	_	_	4	nmod	_	_
+7	Widodo	_	PROPN	_	_	6	flat:name	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 nsubj:pass	color:blue
-1	Nalika	Nalika	ADP	_	_	2	case	_	_
-2	taun	taun	NOUN	_	Number=Sing|Polite=Infm	7	obl:tmod	_	Level=Ngoko
-3	1999	1999	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	2	punct	_	_
-5	Danau	Danau	PROPN	_	_	7	nsubj:pass	_	_
-6	Sentarum	Sentarum	PROPN	_	_	5	flat:name	_	_
-7	dikukuhaké	kukuh	VERB	_	Mood=Ind|Polite=Infm|Voice=Pass	0	root	_	Level=Ngoko
-8	dadi	dadi	VERB	_	Mood=Ind|Polite=Infm|Voice=Act	7	xcomp	_	Level=Ngoko
-9	taman	taman	NOUN	_	Number=Sing	8	obj	_	_
-10	nasional	nasional	ADJ	_	_	9	amod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj:pass	color:blue
+1	Raden	_	PROPN	_	_	3	nsubj:pass	_	_
+2	Gathotkaca	_	PROPN	_	_	1	flat:name	_	_
+3	kaparingan	_	VERB	_	Mood=Ind|Polite=Form|Voice=Pass	0	root	_	_
+4	pusaka	_	NOUN	_	Number=Sing	3	obl	_	_
+5	dening	_	ADP	_	Polite=Infm	7	case	_	_
+6	ingkang	_	DET	_	Definite=Def|Polite=Form|PronType=Art	7	det	_	_
+7	Rama	_	PROPN	_	_	3	obl	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

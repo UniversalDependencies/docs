@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2719 nodes (1%) are attached to their parents as `nummod`.
+2964 nodes (1%) are attached to their parents as `nummod`.
 
-2629 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.45568223611622.
+2852 instances of `nummod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48481781376518.
 
-The following 12 pairs of parts of speech are connected with `nummod`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2358; 87% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (199; 7% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (116; 4% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `nummod`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2554; 86% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (214; 7% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (143; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (27; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -51,19 +51,17 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	Turpina	turpināt	VERB	vpnipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p9308-p63s3w1
-2	putot	putot	VERB	vmnn0t2000n	Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	LvtbNodeId=a-p9308-p63s3w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-p9308-p63s3w3
-4	pa	pa	ADP	sppd	_	5	case	5:case	LvtbNodeId=a-p9308-p63s3w4
-5	vienai	viens	NUM	mcsfsd	Case=Dat|Gender=Fem|Number=Sing|NumType=Card	6	nummod	6:nummod	LvtbNodeId=a-p9308-p63s3w5
-6	pievieno	pievienot	VERB	vmnipt230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	LvtbNodeId=a-p9308-p63s3w6
-7	olas	ola	NOUN	ncfpa4	Case=Acc|Gender=Fem|Number=Plur	6	obj	6:obj	LvtbNodeId=a-p9308-p63s3w7|SpaceAfter=No
-8	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-p9308-p63s3w8
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nummod	color:blue
+1	Nr.	nr.	ADV	yr	Abbr=Yes	2	advmod	2:advmod	LvtbNodeId=a-d123-p76s1w1
+2	1	1	NUM	xn	NumType=Card	4	nummod	4:nummod	LvtbNodeId=a-d123-p76s1w2
+3	joprojām	joprojām	ADV	r0n	_	4	advmod	4:advmod	LvtbNodeId=a-d123-p76s1w3
+4	bija	būt	VERB	vmnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d123-p76s1w4
+5	priekšgalā	priekšgals	NOUN	ncmsl1	Case=Loc|Gender=Masc|Number=Sing	4	obl	4:obl:loc	LvtbNodeId=a-d123-p76s1w5|SpaceAfter=No
+6	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d123-p76s1w6
 
 ~~~
 

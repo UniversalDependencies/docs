@@ -23,12 +23,12 @@ The following 1 pairs of parts of speech are connected with `aux:nec`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux:nec	color:blue
-1	Ашень	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past	2	aux:neg	_	_
-2	кеподев	кеподевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	_
+1	Ашень	аш	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Tense=Past|VerbForm=Fin	2	aux:neg	_	_
+2	кеподев	кеподевомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2	0	root	_	_
 3	теест	сон	PRON	Pron	Case=Dat|Number=Plur|Person=3|PronType=Prs|Variant=Short	2	obl:agent	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	эрявсь	эрявомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	6	aux:nec	_	_
-6	лездомс	лездомс	VERB	V	Valency=1|VerbForm=Inf	2	conj	_	SpaceAfter=No
+5	эрявсь	эрявомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	6	aux:nec	_	_
+6	лездомс	лездомс	VERB	V	VerbForm=Inf	2	conj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~

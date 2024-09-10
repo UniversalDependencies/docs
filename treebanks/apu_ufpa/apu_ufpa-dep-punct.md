@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-195 nodes (23%) are attached to their parents as `punct`.
+225 nodes (23%) are attached to their parents as `punct`.
 
-139 instances of `punct` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.23589743589744.
+169 instances of `punct` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.06222222222222.
 
-The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (160; 82% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (27; 14% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (171; 76% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (34; 15% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (6; 3% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (4; 2% instances), <tt><a href="apu_ufpa-pos-INTJ.html">INTJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -53,14 +53,14 @@ The following 5 pairs of parts of speech are connected with `punct`: <tt><a href
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 5 punct	color:blue
-1	Kataparaxinery	Kataparaxinery	ADJ	XPOS=ATRIB-coragem-?	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|VerbType=Vido	0	root	_	gloss[pt]=ATRIB-coragem-?-3SG.M.O
-2	inhinhĩã	inhinhĩã	ADV	XPOS=então	_	3	advmod	_	gloss[pt]=então
-3	aiatape	aiata	VERB	XPOS=caçar-PFTV	_	1	conj	_	gloss[pt]=caçar-PFTV
-4	itxa	txa	AUX	XPOS=3SG.M-AUX	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3	3	aux	_	gloss[pt]=3SG.M-AUX|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 punct	color:blue
+1	Ĩsũana	ĩsũana	NOUN	XPOS=rio	_	2	nsubj	_	gloss[pt]=rio
+2	myrykynyty	ykyny	ADV	XPOS=ATRIB.INTENS-FOC-tudo	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|VerbType=Vido	0	root	_	gloss[pt]=ATRIB.INTENS-FOC-tudo-3SG.M.O
+3	itxa	txa	AUX	XPOS=3SG.M-AUX	_	2	aux	_	gloss[pt]=3SG.M-AUX
+4	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	gloss[pt]=peixe|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

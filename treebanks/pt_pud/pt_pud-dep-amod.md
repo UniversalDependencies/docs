@@ -68,7 +68,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Cairo	Cairo	PROPN	NNP	Gender=Masc|Number=Sing	6	nsubj	_	_
 6	tinha	_	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-7	uma	um	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+7	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	população	população	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	de	de	ADP	IN	_	13	case	_	_
 10	cerca	cerca	ADV	RB	_	13	advmod	_	_

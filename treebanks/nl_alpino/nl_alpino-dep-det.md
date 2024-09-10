@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24676 nodes (12%) are attached to their parents as `det`.
+24661 nodes (12%) are attached to their parents as `det`.
 
-24671 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37927540930459.
+24656 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37926280361705.
 
-The following 18 pairs of parts of speech are connected with `det`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (21609; 88% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (1909; 8% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (435; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (400; 2% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (126; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (76; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (23; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `det`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (21518; 87% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (2077; 8% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (394; 2% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (339; 1% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (127; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (76; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (30; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,22 +56,25 @@ The following 18 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	Zo	zo	ADV	BW	_	2	advmod	2:advmod	_
-2	kukelde	kukelen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-4	van	van	ADP	VZ|init	_	6	case	6:case	_
-5	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
-6	eerste	één	ADJ	TW|rang|nom|zonder-n	_	2	obl	2:obl:van	_
-7	naar	naar	ADP	VZ|init	_	10	case	10:case	_
-8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
-9	negende	negen	ADJ	TW|rang|prenom|stan	_	10	amod	10:amod	_
-10	plaats	plaats	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obl	2:obl:naar	SpaceAfter=No
-11	.	.	PUNCT	LET	_	2	punct	2:punct	_
+# visual-style 5 4 det	color:blue
+1	Hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	had	hebben	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	tijdens	tijdens	ADP	VZ|init	_	5	case	5:case	_
+4	het	het	DET	LID|bep|stan|evon	Definite=Def	5	det	5:det	_
+5	sprinten	sprinten	VERB	WW|inf|nom|zonder|zonder-n	VerbForm=Inf	2	obl	2:obl:tijdens	_
+6	zelfs	zelfs	ADV	BW	_	2	advmod	2:advmod	_
+7	nog	nog	ADV	BW	_	8	advmod	8:advmod	_
+8	even	even	ADV	BW	_	2	advmod	2:advmod	_
+9	tijd	tijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	obj	2:obj	_
+10	om	om	ADP	VZ|init	_	13	mark	13:mark	_
+11	om	om	ADP	VZ|fin	_	13	compound:prt	13:compound:prt	_
+12	te	te	ADP	VZ|init	_	13	mark	13:mark	_
+13	kijken	om_kijken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	9	acl	9:acl:om	SpaceAfter=No
+14	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
 

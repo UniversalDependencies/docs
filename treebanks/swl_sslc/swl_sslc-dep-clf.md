@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 8 9 clf	color:blue
 1	LIGGA(G)	_	VERB	VB	_	0	root	_	_
 2	LIGGA-SÖMNLÖS	_	VERB	VB	_	1	conj	_	_
-3	LÅTA-VARA	_	X	G	_	1	conj	_	_
+3	LÅTA-VARA	_	INTJ	G	_	1	conj	_	_
 4	KLÄ-PÅ	_	VERB	VB	_	1	conj	_	_
 5	VARELSE(N)+FÖRFLYTTA@p	_	VERB	VBAV	_	1	conj	_	_
 6	ZZZ@z	_	X	?	_	1	dep	_	_

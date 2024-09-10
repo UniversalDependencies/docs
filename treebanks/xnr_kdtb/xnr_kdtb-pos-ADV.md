@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kangri-KDTB: POS Tags: `ADV`
 
-There are 1 `ADV` lemmas (7%), 49 `ADV` types (4%) and 92 `ADV` tokens (4%).
-Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 7 in number of types and 9 in number of tokens.
+There are 50 `ADV` lemmas (5%), 49 `ADV` types (4%) and 93 `ADV` tokens (4%).
+Out of 15 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>_</em>
+The 10 most frequent `ADV` lemmas: <em>नी, तित्थू, ने, हुण, कदी, काह्लू, जाह्लू, ना, रोज, अज्ज</em>
 
-The 10 most frequent `ADV` types:  <em>नी, तित्थू, हुण, कदी, जाह्लू, अज्ज, कजो, काह्लू, गांह, जिञा</em>
+The 10 most frequent `ADV` types:  <em>नी, तित्थू, हुण, कदी, काह्लू, जाह्लू, अज्ज, कजो, गांह, जिञा</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 553, <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 315, <tt><a href="xnr_kdtb-pos-PUNCT.html">PUNCT</a></tt> 310, <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> 305, <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> 285, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 208, <tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt> 130, <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 95, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 92, <tt><a href="xnr_kdtb-pos-PROPN.html">PROPN</a></tt> 89, <tt><a href="xnr_kdtb-pos-DET.html">DET</a></tt> 49, <tt><a href="xnr_kdtb-pos-NUM.html">NUM</a></tt> 41, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 28, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="xnr_kdtb-pos-INTJ.html">INTJ</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>नी</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 16, <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 8), <em>तित्थू</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 4), <em>ने</em> (<tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 11, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 1), <em>हुण</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>ना</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 1), <em>रोज</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>गांह</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>बड़ा</em> (<tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2), <em>भ्यागा</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 2), <em>इतणा</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>नी</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 10), <em>तित्थू</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 4), <em>हुण</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>काह्लू</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 1), <em>गांह</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>बड़ा</em> (<tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2), <em>भ्यागा</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 2), <em>रोज़</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>इतणा</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-DET.html">DET</a></tt> 1), <em>कल</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>नी</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 23, <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 10), <em>तित्थू</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 4), <em>हुण</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 4, <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>गांह</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>बड़ा</em> (<tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2), <em>भ्यागा</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 2), <em>रोज़</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>इतणा</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-DET.html">DET</a></tt> 1), <em>कल</em> (<tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1), <em>तां</em> (<tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 10, <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>नी</em>
@@ -28,9 +28,6 @@ The 10 most frequent ambiguous types:  <em>नी</em> (<tt><a href="xnr_kdtb-po
   * <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 4: <em>लोकां जो <b>हुण</b> इस बारे विच डर छडी देणा चाहिदा ।</em>
   * <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> 2: <em><b>हुण</b> मन्दरे कने मस्जिदा दे मुद्दे जो लोक महत्त्व नी दिंदे ।</em>
   * <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1: <em>स्टेडियम विच <b>हुण</b> लोकां जो मन्त्रिए कने मिलणे दा मौक़ा तां मिल्ला ।</em>
-* <em>काह्लू</em>
-  * <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2: <em>पता नी बरखा <b>काह्लू</b> होणी ?</em>
-  * <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> 1: <em>तूं <b>काह्लू</b> उठदा है ?</em>
 * <em>गांह</em>
   * <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 2: <em><b>गांह</b> मिंजो कोई मुस्कल नी हुणी ।</em>
   * <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1: <em>तुसां <b>गांह</b> नी जाई सकदे ।</em>
@@ -49,33 +46,48 @@ The 10 most frequent ambiguous types:  <em>नी</em> (<tt><a href="xnr_kdtb-po
 * <em>कल</em>
   * <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1: <em>दिल्लिया विच <b>कल</b> सुन्ना 300 रूपेइये बद्धीकरी 35000 रूपेइये प्रति तोळे पर बन्द होया था ।</em>
   * <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> 1: <em><b>कल</b> इत्थू सत बजे पुज्जणा मत भुलदे ।</em>
+* <em>तां</em>
+  * <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> 10: <em>स्टेडियम विच हुण लोकां जो मन्त्रिए कने मिलणे दा मौक़ा <b>तां</b> मिल्ला ।</em>
+  * <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> 2: <em>जे तुसां इंटरनेट बैंकिंग दा इस्तेमाल करदे हन , <b>तां</b> च्तन्न होई जा ।</em>
+  * <tt><a href="xnr_kdtb-pos-ADV.html">ADV</a></tt> 1: <em>जाह्लू तिसदी निन्दर खुल्ली <b>तां</b> संझ ढळी चुक्कियो थी ।</em>
+  * <tt><a href="xnr_kdtb-pos-SCONJ.html">SCONJ</a></tt> 1: <em>चाह् बणी गेइयो है <b>तां</b> लेई ओआ ।</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 49.000000 (the average of all parts of speech is 76.666667).
+The form / lemma ratio of `ADV` is 0.980000 (the average of all parts of speech is 1.115727).
 
-The 1st highest number of forms (49) was observed with the lemma “_”: <em>अज्ज, इतणा, कजो, कदी, कल, काह्लू, किच्छ, कुतांह, कुथू, कैंह्, गांह, जां, जादा, जाहलू, जाह्लू, जिञा, झटपट, तड़कैं, तां, तांहीं, ताहलू, तिञा, तित्थू, तिसदे, तेज, दिक्खी, नी, पूरे, पैदल, फटोफट, फिरी, बक्खें, बड़ा, बड़ी, बाहर, भर, भ्यागा, मते, रोज, रोज़, सदा, सबते, सरासर, सारेयां, सिर्फ, हमेसा, हल्ली, हुण, हौळें</em>.
+The 1st highest number of forms (2) was observed with the lemma “बड़ा”: <em>बड़ा, बड़ी</em>.
 
-`ADV` does not occur with any features.
+The 2nd highest number of forms (2) was observed with the lemma “रोज”: <em>रोज, रोज़</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “अज्ज”: <em>अज्ज</em>.
+
+`ADV` occurs with 2 features: <tt><a href="xnr_kdtb-feat-PronType.html">PronType</a></tt> (17; 18% instances), <tt><a href="xnr_kdtb-feat-Polarity.html">Polarity</a></tt> (12; 13% instances)
+
+`ADV` occurs with 3 feature-value pairs: `Polarity=Neg`, `PronType=Int`, `PronType=Neg`
+
+`ADV` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (76 tokens).
+Examples: <em>नी, तित्थू, हुण, जाह्लू, अज्ज, कदी, काह्लू, गांह, जिञा, झटपट</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 9 different relations: <tt><a href="xnr_kdtb-dep-advmod.html">advmod</a></tt> (72; 78% instances), <tt><a href="xnr_kdtb-dep-obl.html">obl</a></tt> (6; 7% instances), <tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt> (4; 4% instances), <tt><a href="xnr_kdtb-dep-mark.html">mark</a></tt> (3; 3% instances), <tt><a href="xnr_kdtb-dep-amod.html">amod</a></tt> (2; 2% instances), <tt><a href="xnr_kdtb-dep-dep.html">dep</a></tt> (2; 2% instances), <tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="xnr_kdtb-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="xnr_kdtb-dep-root.html">root</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 10 different relations: <tt><a href="xnr_kdtb-dep-advmod.html">advmod</a></tt> (73; 78% instances), <tt><a href="xnr_kdtb-dep-obl.html">obl</a></tt> (5; 5% instances), <tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt> (4; 4% instances), <tt><a href="xnr_kdtb-dep-mark.html">mark</a></tt> (3; 3% instances), <tt><a href="xnr_kdtb-dep-amod.html">amod</a></tt> (2; 2% instances), <tt><a href="xnr_kdtb-dep-dep.html">dep</a></tt> (2; 2% instances), <tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="xnr_kdtb-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="xnr_kdtb-dep-root.html">root</a></tt> (1; 1% instances), <tt><a href="xnr_kdtb-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (54; 59% instances), <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> (24; 26% instances), <tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xnr_kdtb-pos-DET.html">DET</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (56; 60% instances), <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> (24; 26% instances), <tt><a href="xnr_kdtb-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="xnr_kdtb-pos-DET.html">DET</a></tt> (1; 1% instances),  (1; 1% instances)
 
-75 (82%) `ADV` nodes are leaves.
+76 (82%) `ADV` nodes are leaves.
 
 15 (16%) `ADV` nodes have one child.
 
-0 (0%) `ADV` nodes have two children.
+1 (1%) `ADV` nodes have two children.
 
-2 (2%) `ADV` nodes have three or more children.
+1 (1%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 4.
 
-Children of `ADV` nodes are attached using 11 different relations: <tt><a href="xnr_kdtb-dep-dep.html">dep</a></tt> (8; 35% instances), <tt><a href="xnr_kdtb-dep-case.html">case</a></tt> (3; 13% instances), <tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt> (3; 13% instances), <tt><a href="xnr_kdtb-dep-obl.html">obl</a></tt> (2; 9% instances), <tt><a href="xnr_kdtb-dep-aux.html">aux</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-dep-cc.html">cc</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-dep-cop.html">cop</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-dep-nsubj.html">nsubj</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-dep-obj.html">obj</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-dep-punct.html">punct</a></tt> (1; 4% instances)
+Children of `ADV` nodes are attached using 10 different relations: <tt><a href="xnr_kdtb-dep-dep.html">dep</a></tt> (8; 38% instances), <tt><a href="xnr_kdtb-dep-case.html">case</a></tt> (3; 14% instances), <tt><a href="xnr_kdtb-dep-nmod.html">nmod</a></tt> (3; 14% instances), <tt><a href="xnr_kdtb-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-dep-compound.html">compound</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-dep-cop.html">cop</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-dep-obj.html">obj</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-dep-obl.html">obl</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-dep-punct.html">punct</a></tt> (1; 5% instances)
 
-Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> (8; 35% instances), <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> (6; 26% instances), <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> (3; 13% instances), <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> (2; 9% instances), <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 4% instances), <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (1; 4% instances)
+Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="xnr_kdtb-pos-PART.html">PART</a></tt> (8; 38% instances), <tt><a href="xnr_kdtb-pos-NOUN.html">NOUN</a></tt> (5; 24% instances), <tt><a href="xnr_kdtb-pos-ADP.html">ADP</a></tt> (3; 14% instances), <tt><a href="xnr_kdtb-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances), <tt><a href="xnr_kdtb-pos-VERB.html">VERB</a></tt> (1; 5% instances)
 

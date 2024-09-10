@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 3 different values: `Conv`, `Part`, `Vnoun`.
 
-663 tokens (4%) have a non-empty value of `VerbForm`.
-523 types (7%) occur at least once with a non-empty value of `VerbForm`.
-334 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (630; 4% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (33; 0% instances).
+664 tokens (4%) have a non-empty value of `VerbForm`.
+525 types (7%) occur at least once with a non-empty value of `VerbForm`.
+335 lemmas (8%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (631; 4% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (33; 0% instances).
 
 ### `VERB`
 
-630 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+631 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (604; 96%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (592; 94%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (589; 93%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (506; 80%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (495; 79%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (466; 74%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (440; 70%), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (425; 67%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (425; 67%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_pud-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (605; 96%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (592; 94%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (590; 94%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (507; 80%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (496; 79%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (467; 74%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (441; 70%), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (426; 68%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (426; 68%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (13; 2% of non-empty `VerbForm`): <em>olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, etkilenmeden, görünürken, çekerken, İyileşerek</em>
-* `Part` (66; 10% of non-empty `VerbForm`): <em>inanılmaz, gerçekleştirilen, edecek, edilemez, gerçekleşen, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir</em>
+* `Part` (67; 11% of non-empty `VerbForm`): <em>inanılmaz, gerçekleştirilen, edecek, edilemez, tartışmalı, uygulanabilir, Birleşmiş, Seçmeli, Yenilenebilir, adanmış</em>
 * `Vnoun` (551; 87% of non-empty `VerbForm`): <em>yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, çıkmaya, etmeye, görmek</em>
 * `EMPTY` (1063): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</em>
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>etme</em></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 94% lemmas (312) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 94% lemmas (313) occur only with one value of `VerbForm`.
 
 ### `AUX`
 

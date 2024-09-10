@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `csubj:reported`: <t
 # visual-style 3	fgColor:white
 # visual-style 3 16 csubj:reported	color:blue
 1	Sed	sed	CCONJ	co	_	3	cc	_	_
-2	tunc	tunc	ADV	r	PronType=Dem	3	advmod	_	_
+2	tunc	tunc	ADV	r	AdvType=Tim|PronType=Dem	3	advmod:tmod	_	_
 3	arguetur	arguo	VERB	vp3ifs3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 4	magis	magis	ADV	rc	Degree=Cmp	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Pu	_	7	punct	_	_
@@ -60,7 +60,7 @@ The following 4 pairs of parts of speech are connected with `csubj:reported`: <t
 10	potius	potius	ADV	r+	Degree=Cmp	16	advmod	_	_
 11	elevatio	eleuatio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	16	nsubj	_	_
 12	emisperialis	emisperialis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	11	amod	_	_
-13	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+13	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 14	ab	ab	ADP	e	_	16	case	_	_
 15	ista	iste	DET	dpfsb	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	16	det	_	_
 16	parte	pars	NOUN	sfs3b	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	3	csubj:reported	_	_
@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `csubj:reported`: <t
 13	illa	ille	DET	dpfsn	Case=Nom|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	14	det	_	_
 14	elevatio	eleuatio	NOUN	sfs3n	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	17	nsubj	_	_
 15	non	non	PART	r	Polarity=Neg	17	advmod:neg	_	_
-16	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
+16	fuit	sum	AUX	va5irs3	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 17	circularis	circularis	ADJ	afs2n	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	3	csubj:reported	_	SpaceAfter=No
 18	?	?	PUNCT	Pu	_	3	punct	_	_
 

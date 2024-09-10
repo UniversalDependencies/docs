@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 23 tokens (1%) have a non-empty value of `Connegative`.
 18 types (2%) occur at least once with a non-empty value of `Connegative`.
-14 lemmas (2%) occur at least once with a non-empty value of `Connegative`.
+14 lemmas (3%) occur at least once with a non-empty value of `Connegative`.
 The feature is used with 2 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (18; 1% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 ### `VERB`

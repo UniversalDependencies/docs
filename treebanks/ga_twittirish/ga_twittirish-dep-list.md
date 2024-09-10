@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `list`.
+2 nodes (0%) are attached to their parents as `list`.
 
-1 instances of `list` (100%) are left-to-right (parent precedes child).
+1 instances of `list` (50%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
 
-The following 1 pairs of parts of speech are connected with `list`: <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
+The following 2 pairs of parts of speech are connected with `list`: <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (1; 50% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-X.html">X</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -36,6 +36,29 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 12	-	-	PUNCT	_	_	13	punct	_	_
 13	Wal	Wal	PROPN	_	_	10	list	_	Lang=ga
 14	#RubgaíFaoi20	#RubgaíFaoi20	X	_	_	3	parataxis:hashtag	_	Lang=ga
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 list	color:blue
+1	@user292	@user292	PROPN	_	_	5	vocative:mention	_	_
+2	#Géilí	#Géilí	X	_	_	5	list	_	Lang=ga
+3	-	-	PUNCT	_	_	2	punct	_	_
+4	Nach	nach	PART	_	_	5	advmod	_	Lang=ga
+5	dhearfá	abair	VERB	_	_	0	root	_	Lang=ga
+6	go	go	PART	_	_	7	mark:prt	_	Lang=ga
+7	bhfuil	bí	VERB	_	_	5	ccomp	_	Lang=ga
+8	sé	sé	PRON	_	_	7	nsubj	_	Lang=ga
+9	sin	sin	DET	_	_	8	det	_	Lang=ga
+10	gaelgoirish	gaelgoirish	NOUN	_	_	7	obj	_	SpaceAfter=No
+11	?	?	PUNCT	_	_	10	punct	_	_
+12	@user469	@user469	PROPN	_	_	5	vocative:mention	_	Lang=ga
+13	#gaeilge	#gaeilge	X	_	_	10	parataxis:hashtag	_	Lang=ga
 
 ~~~
 

@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `aux:q`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 aux:q	color:blue
 1	Но	но	CCONJ	CC	_	2	cc	_	_
-2	кулось	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+2	кулось	куломс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 3	ли	ли	AUX	Pcle	_	2	aux:q	_	GTtags=Qst|SpaceAfter=No
 4	?..	?..	PUNCT	CLB	_	2	punct	_	_
 
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `aux:q`: <tt><a href
 4	косояк	косояк	ADV	Adv	Case=Ine|Definite=Ind	7	advmod:lmod	_	GTtags=Indef,Ine
 5	мезтькак	мезеяк	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Ind	7	obj	_	GTtags=Indef,Pl,Nom,Indef
 6	а	а	AUX	Pcle	Polarity=Neg	7	aux:neg	_	GTtags=Neg
-7	тейни	тейнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=2	1	conj	_	GTtags=TV,Ind,Prs,ScSg3|SpaceAfter=No
+7	тейни	тейнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	1	conj	_	GTtags=TV,Ind,Prs,ScSg3|SpaceAfter=No
 8	?..	?..	PUNCT	CLB	_	1	punct	_	_
 
 ~~~

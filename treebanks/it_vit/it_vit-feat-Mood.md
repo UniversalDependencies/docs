@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-15958 tokens (6%) have a non-empty value of `Mood`.
-3099 types (13%) occur at least once with a non-empty value of `Mood`.
-1100 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 5 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8094; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7860; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+15961 tokens (6%) have a non-empty value of `Mood`.
+3101 types (13%) occur at least once with a non-empty value of `Mood`.
+1102 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 4 part-of-speech tags: <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> (8096; 3% instances), <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> (7862; 3% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `AUX`
 
-8094 <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Mood`.
+8096 <tt><a href="it_vit-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8094; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=3</tt> (6834; 84%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6758; 83%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6287; 78%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8096; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=3</tt> (6835; 84%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6759; 83%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6288; 78%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (369; 5% of non-empty `Mood`): <em>potrebbe, sarebbe, dovrebbe, avrebbe, potrebbero, sarebbero, dovrebbero, avrebbero, avrei, vorrebbe</em>
-* `Ind` (7552; 93% of non-empty `Mood`): <em>è, ha, sono, hanno, era, sarà, deve, può, sia, aveva</em>
-* `Sub` (173; 2% of non-empty `Mood`): <em>fosse, abbia, abbiano, fossero, avesse, dovesse, dovessero, potesse, avessero, sia</em>
+* `Ind` (7553; 93% of non-empty `Mood`): <em>è, ha, sono, hanno, era, sarà, deve, può, sia, aveva</em>
+* `Sub` (174; 2% of non-empty `Mood`): <em>fosse, abbia, abbiano, fossero, avesse, dovesse, dovessero, potesse, avessero, sia</em>
 * `EMPTY` (1326): <em>essere, stato, stata, stati, aver, state, potuto, dovuto, esser, poter</em>
 
 <table>
@@ -51,17 +51,17 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `VERB`
 
-7860 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Mood`.
+7862 <tt><a href="it_vit-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7860; 100%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7860; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=3</tt> (6876; 87%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6152; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5643; 72%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7862; 100%), <tt><a href="it_vit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7862; 100%), <tt><a href="it_vit-feat-Person.html">Person</a></tt><tt>=3</tt> (6879; 87%), <tt><a href="it_vit-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6155; 78%), <tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5645; 72%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (151; 2% of non-empty `Mood`): <em>sarebbe, avrebbe, andrebbe, farebbe, deriverebbe, direi, significherebbe, verrebbe, andresti, consentirebbe</em>
 * `Imp` (30; 0% of non-empty `Mood`): <em>Cessate, leggi, Ascolta, Finiamola, Inviate, Lasciatemi, Mandateci, Rassegnamo, Riparliamo, Ripetiamo</em>
-* `Ind` (7571; 96% of non-empty `Mood`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
-* `Sub` (108; 1% of non-empty `Mood`): <em>abbiano, abbia, fosse, sappiano, aprisse, avessi, avessimo, fossero, mancasse, ponesse</em>
-* `EMPTY` (13528): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
+* `Ind` (7574; 96% of non-empty `Mood`): <em>è, ha, fa, hanno, dice, sono, scade, sembra, va, tratta</em>
+* `Sub` (107; 1% of non-empty `Mood`): <em>abbiano, abbia, fosse, sappiano, aprisse, avessi, avessimo, fossero, mancasse, ponesse</em>
+* `EMPTY` (13533): <em>fatto, fare, far, detto, approvato, avere, dare, dire, previsto, avuto</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -92,18 +92,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 `NOUN` tokens may have the following values of `Mood`:
 
 * `Ind` (2; 100% of non-empty `Mood`): <em>dice, vedo</em>
-* `EMPTY` (57749): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
-
-### `ADV`
-
-1 <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Mood`.
-
-The most frequent other feature values with which `ADV` and `Mood` co-occurred: <tt><a href="it_vit-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`ADV` tokens may have the following values of `Mood`:
-
-* `Ind` (1; 100% of non-empty `Mood`): <em>pare</em>
-* `EMPTY` (10774): <em>non, più, anche, solo, così, già, ancora, ieri, poi, sempre</em>
+* `EMPTY` (57757): <em>anni, miliardi, anno, n., parte, legge, società, posti, presidente, art.</em>
 
 ### `CCONJ`
 
@@ -112,7 +101,7 @@ The most frequent other feature values with which `ADV` and `Mood` co-occurred: 
 `CCONJ` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>pesino</em>
-* `EMPTY` (8264): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
+* `EMPTY` (8208): <em>e, ma, o, ed, come, sia, che, cioè, ovvero, nonché</em>
 
 ## Relations with Agreement in `Mood`
 

@@ -39,5 +39,6 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (18; 100%).
+<tt>DET --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (18; 100%),
+<tt>DET --[<tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%).
 

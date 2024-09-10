@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chinese-PUD: POS Tags: `ADV`
 
-There are 1 `ADV` lemmas (7%), 214 `ADV` types (4%) and 1283 `ADV` tokens (6%).
-Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 7 in number of types and 7 in number of tokens.
+There are 214 `ADV` lemmas (4%), 214 `ADV` types (4%) and 1283 `ADV` tokens (6%).
+Out of 15 observed tags, the rank of `ADV` is: 7 in number of lemmas, 7 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: _
+The 10 most frequent `ADV` lemmas: 並、 也、 但、 不、 就、 而、 但是、 還、 都、 來
 
 The 10 most frequent `ADV` types:  並、 也、 但、 不、 就、 而、 但是、 還、 都、 來
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 5410, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 3467, <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> 2902, <tt><a href="zh_pud-pos-PART.html">PART</a></tt> 1881, <tt><a href="zh_pud-pos-PROPN.html">PROPN</a></tt> 1361, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 1288, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 1283, <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> 873, <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> 710, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 650, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 618, <tt><a href="zh_pud-pos-DET.html">DET</a></tt> 355, <tt><a href="zh_pud-pos-X.html">X</a></tt> 306, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 283, <tt><a href="zh_pud-pos-SCONJ.html">SCONJ</a></tt> 28)
+The 10 most frequent ambiguous lemmas: 並 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 65, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 2), 就 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 49, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 3), 而 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 47, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 來 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 40, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 26, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 2), 所 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 3), 在 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 272, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 118, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 25), 將 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 24, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 2), 以 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 8, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 4), 則 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 1), 特別 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 3)
 
-The 10 most frequent ambiguous types:  並 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 65, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 2), 就 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 49, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 3), 而 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 47, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 來 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 40, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 26, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 2), 所 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 3), 在 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 272, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 118, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 25), 將 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 24, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 2), 以 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 8, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 4), 則 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 1), 特別 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 3)
+The 10 most frequent ambiguous types:  並 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 65, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 2), 就 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 49, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 3), 而 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 47, <tt><a href="zh_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="zh_pud-pos-X.html">X</a></tt> 1), 來 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 40, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 26, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 2), 所 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 3), 在 (<tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 272, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 118, <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 25), 將 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 24, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 2), 以 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 12, <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 8, <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 4), 則 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> 1), 特別 (<tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> 3)
 
 
 * 並
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  並 (<tt><a href="zh_pud-pos-ADV.html">AD
 * 將
   * <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 24: 通常 ， 中國 <b>將</b> 在 本週 內 展示 許多 其他 軍事 硬件 ， 如 殲擊機 和 海上 飛機 等 。
   * <tt><a href="zh_pud-pos-ADP.html">ADP</a></tt> 13: 鐵 是 人體 生產 血紅蛋白 所 必須 的 元素 ， 紅 細胞 中 的 蛋白質 負責 <b>將</b> 氧氣 傳送 給 身體 中 的 各個 組織 。
-  * <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> 2: 荷蘭 學生 還 沒 決定 是否 要 <b>將</b> 電動 摩托車 商業化 。
+  * <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 2: 荷蘭 學生 還 沒 決定 是否 要 <b>將</b> 電動 摩托車 商業化 。
 * 以
   * <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> 12: 聯合國 回顧 國家 削減 碳 計劃 時 說 ， 他們 非常 難 <b>以</b> 實現 保持 全球 氣溫 上升 2C 下 所 需要 的 水平 。
   * <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> 8: 希拉里 向來 <b>以</b> 鷹派 傾向 著稱 ， 但 這 將 會 在 美國 厭戰 民意 之下 有 所 削減 。
@@ -56,9 +56,13 @@ The 10 most frequent ambiguous types:  並 (<tt><a href="zh_pud-pos-ADV.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 214.000000 (the average of all parts of speech is 388.466667).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.006233).
 
-The 1st highest number of forms (214) was observed with the lemma “_”: 一同, 一定, 一直, 一般, 一道, 不, 不大, 不斷, 不過, 且, 並, 並且, 主動, 主要, 也, 也許, 互相, 亦, 仍, 仍然, 仍舊, 以, 以及, 似乎, 但, 但是, 來, 依然, 便, 健康, 偶爾, 僅, 僅僅, 充分, 全, 公開, 共, 共同, 其實, 再, 再次, 分別, 到底, 則, 剛, 剛剛, 努力, 勿, 匆忙, 十分, 即將, 卻, 原本, 去, 又, 另外, 只, 只好, 同樣, 向來, 單獨, 因而, 在, 均, 坦白, 多, 多麼, 大, 大大, 大幅, 大概, 大約, 大量, 太, 如何, 妥善, 完全, 容易, 實在, 將, 尚, 尤, 尤其, 就, 就是, 屆時, 已, 已經, 平均, 平等, 幾乎, 幾近, 廣, 往北, 往往, 很, 很少, 很快, 後, 從, 從來, 從未, 從而, 復, 徹底, 快速, 怎麼, 急劇, 成功, 或者, 或許, 所, 所以, 才, 新, 於是, 日益, 早, 明顯, 普遍, 暫時, 更, 更加, 更多, 更為, 曾, 曾經, 最, 最多, 最早, 最為, 有時, 未, 本, 本來, 極其, 極度, 極為, 正, 永, 深深, 無比, 然後, 然而, 牢牢, 特別, 獨自, 甚至, 畢竟, 略, 當然, 盲目, 直接, 相, 相互, 相反, 相對, 相當, 真正, 真的, 確實, 稍微, 積極, 穩步, 突然, 立刻, 立即, 竟然, 簡直, 精心, 約, 絕對, 經常, 緊密, 總, 總共, 繁榮, 繼而, 而, 而且, 而是, 自行, 至少, 致命, 藉機, 蜿蜒, 親自, 詳細, 誤, 超, 越, 越來越, 較為, 轉身, 近, 逐漸, 通常, 遠, 遠遠, 還, 還是, 那, 那麼, 那麽, 都, 重新, 隨即, 隨後, 隨時, 非常, 順便, 顯然, 首先, 鼎力.
+The 1st highest number of forms (1) was observed with the lemma “一同”: 一同.
+
+The 2nd highest number of forms (1) was observed with the lemma “一定”: 一定.
+
+The 3rd highest number of forms (1) was observed with the lemma “一直”: 一直.
 
 `ADV` occurs with 1 features: <tt><a href="zh_pud-feat-Polarity.html">Polarity</a></tt> (65; 5% instances)
 
@@ -73,17 +77,17 @@ Examples: 並、 也、 但、 就、 而、 但是、 還、 都、 來、 已�
 
 `ADV` nodes are attached to their parents using 3 different relations: <tt><a href="zh_pud-dep-advmod.html">advmod</a></tt> (1201; 94% instances), <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt> (81; 6% instances), <tt><a href="zh_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (1024; 80% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (177; 14% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (61; 5% instances), <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="zh_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="zh_pud-pos-VERB.html">VERB</a></tt> (1056; 82% instances), <tt><a href="zh_pud-pos-ADJ.html">ADJ</a></tt> (149; 12% instances), <tt><a href="zh_pud-pos-NOUN.html">NOUN</a></tt> (59; 5% instances), <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="zh_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="zh_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-1225 (95%) `ADV` nodes are leaves.
+1224 (95%) `ADV` nodes are leaves.
 
-57 (4%) `ADV` nodes have one child.
+58 (5%) `ADV` nodes have one child.
 
 1 (0%) `ADV` nodes have two children.
 
 The highest child degree of a `ADV` node is 2.
 
-Children of `ADV` nodes are attached using 2 different relations: <tt><a href="zh_pud-dep-punct.html">punct</a></tt> (49; 83% instances), <tt><a href="zh_pud-dep-advmod.html">advmod</a></tt> (10; 17% instances)
+Children of `ADV` nodes are attached using 2 different relations: <tt><a href="zh_pud-dep-punct.html">punct</a></tt> (50; 83% instances), <tt><a href="zh_pud-dep-advmod.html">advmod</a></tt> (10; 17% instances)
 
-Children of `ADV` nodes belong to 2 different parts of speech: <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> (49; 83% instances), <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (10; 17% instances)
+Children of `ADV` nodes belong to 2 different parts of speech: <tt><a href="zh_pud-pos-PUNCT.html">PUNCT</a></tt> (50; 83% instances), <tt><a href="zh_pud-pos-ADV.html">ADV</a></tt> (10; 17% instances)
 

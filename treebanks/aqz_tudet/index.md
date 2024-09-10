@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Carolina Aragon, Fabrício Ferraz Gerardi.
 
 Repository: [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaqz_tudet214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -74,7 +74,7 @@ The development of this treebank is supported by the European Research Council (
 
 ## Features
 
-[Aspect](aqz_tudet-feat-Aspect.html) – [Augm](aqz_tudet-feat-Augm.html) – [Case](aqz_tudet-feat-Case.html) – [Clusivity](aqz_tudet-feat-Clusivity.html) – [Deixis](aqz_tudet-feat-Deixis.html) – [Determ](aqz_tudet-feat-Determ.html) – [Foc](aqz_tudet-feat-Foc.html) – [Mood](aqz_tudet-feat-Mood.html) – [Nomzr](aqz_tudet-feat-Nomzr.html) – [Number](aqz_tudet-feat-Number.html) – [NumType](aqz_tudet-feat-NumType.html) – [Obl](aqz_tudet-feat-Obl.html) – [Person](aqz_tudet-feat-Person.html) – [Person[psor]](aqz_tudet-feat-Person-psor.html) – [Person[subj]](aqz_tudet-feat-Person-subj.html) – [Polarity](aqz_tudet-feat-Polarity.html) – [PronType](aqz_tudet-feat-PronType.html) – [Redup](aqz_tudet-feat-Redup.html) – [Reflex](aqz_tudet-feat-Reflex.html) – [Rel](aqz_tudet-feat-Rel.html) – [Tense](aqz_tudet-feat-Tense.html) – [Trans](aqz_tudet-feat-Trans.html) – [Tv](aqz_tudet-feat-Tv.html) – [Voice](aqz_tudet-feat-Voice.html)
+[Aspect](aqz_tudet-feat-Aspect.html) – [Case](aqz_tudet-feat-Case.html) – [Clusivity](aqz_tudet-feat-Clusivity.html) – [Deixis](aqz_tudet-feat-Deixis.html) – [Determ](aqz_tudet-feat-Determ.html) – [Foc](aqz_tudet-feat-Foc.html) – [Mood](aqz_tudet-feat-Mood.html) – [Nomzr](aqz_tudet-feat-Nomzr.html) – [Number](aqz_tudet-feat-Number.html) – [NumType](aqz_tudet-feat-NumType.html) – [Obl](aqz_tudet-feat-Obl.html) – [Person](aqz_tudet-feat-Person.html) – [Person[psor]](aqz_tudet-feat-Person-psor.html) – [Person[subj]](aqz_tudet-feat-Person-subj.html) – [Polarity](aqz_tudet-feat-Polarity.html) – [PronType](aqz_tudet-feat-PronType.html) – [Redup](aqz_tudet-feat-Redup.html) – [Reflex](aqz_tudet-feat-Reflex.html) – [Rel](aqz_tudet-feat-Rel.html) – [Tense](aqz_tudet-feat-Tense.html) – [Trans](aqz_tudet-feat-Trans.html) – [Tv](aqz_tudet-feat-Tv.html) – [Voice](aqz_tudet-feat-Voice.html)
 
 ## Relations
 
@@ -84,7 +84,7 @@ The development of this treebank is supported by the European Research Council (
 
 
 <ul>
-<li>This corpus contains 309 sentences, 1305 tokens and 1324 syntactic words.</li>
+<li>This corpus contains 343 sentences, 1449 tokens and 1468 syntactic words.</li>
 </ul>
 
 <ul>
@@ -122,7 +122,7 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as determiners (DET): eme, jõ, jẽ, jẽrom, ke, ta, ẽ, ẽrom</li>
+<li>This corpus contains 9 lemmas tagged as determiners (DET): atʃo, eme, jõ, jẽ, jẽrom, ke, ta, ẽ, ẽrom</li>
 </ul>
 
 <ul>
@@ -130,11 +130,11 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): jã, ka, ko, piro, toa, tʃe</li>
+<li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): am, jã, ka, ko, piro, toa, tʃe</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: jã, ka, ko, tʃe</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: am, jã, ka, ko, tʃe</li>
 </ul>
 
 <ul>
@@ -161,6 +161,7 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>Sing
     <ul>
+      <li>NOUN: ikɨp</li>
       <li>PRON: en, on, erẽ, erẽbõ, orẽ, te, ebõ, enõ</li>
       <li>VERB: imaã, oewɨbɨka, oirika, ojã</li>
     </ul>
@@ -184,7 +185,7 @@ The development of this treebank is supported by the European Research Council (
   <li>All
     <ul>
       <li>DET: jẽbõ, kebõ</li>
-      <li>NOUN: kɨrẽbõ, tabɨtõ, ekõ, kirẽbõ, kojõpebõ, pabapebõ, pibõ, ɨkɨbõ, tekõ</li>
+      <li>NOUN: tabɨtõ, kɨrẽbõ, ɨkɨbõ, ekõ, kirẽbõ, kojõpebõ, kojõpibõ, pabapebõ, pibõ, tekõ</li>
       <li>PRON: erẽbõ, enõ, tebõ</li>
       <li>PROPN: Kanibõ</li>
     </ul>
@@ -247,7 +248,7 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>Hab
     <ul>
-      <li>VERB: koara, oetara, mira, etʃetara, kitʃetara, teipara</li>
+      <li>VERB: oetara, koara, mira, etʃetara, kietara, kitʃetara, oamõjara, teipara</li>
     </ul>
   </li>
 </ul>
@@ -267,7 +268,7 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>Ind
     <ul>
-      <li>VERB: kitʃetara</li>
+      <li>VERB: kietara, kitʃetara</li>
     </ul>
   </li>
 </ul>
@@ -323,7 +324,7 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: en, on, erẽbõ, kitʃe, orẽbõ, te, enõ</li>
+      <li>PRON: en, on, orẽbõ, erẽbõ, kitʃe, te, enõ</li>
     </ul>
   </li>
 </ul>
@@ -349,9 +350,9 @@ The development of this treebank is supported by the European Research Council (
   <li>Yes
     <ul>
       <li>AUX: tejã</li>
-      <li>NOUN: jen, pe, po, teten, epo, opo, teatap, teimaj, teimi, teip</li>
+      <li>NOUN: pe, jen, po, teten, epo, opo, teatap, teimaj, teimi, teip</li>
       <li>PRON: tebõ</li>
-      <li>VERB: teita, teeta, teimaj, tekwata, teakata, teaota, teera, teipa, teipara, tejã</li>
+      <li>VERB: teita, teeta, teimaj, teipara, tekwata, teakata, teaota, teera, teipa, tejã</li>
     </ul>
   </li>
 </ul>
@@ -363,10 +364,10 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>1
     <ul>
-      <li>AUX: otoa, ojã</li>
-      <li>NOUN: omepit, oike, oatap, oko, okɨp, okɨpi, otak, otʃipap, opo, itet</li>
-      <li>PRON: on, kitʃe, orẽbõ, orẽ</li>
-      <li>VERB: oerekwa, oetara, opera, opip, itet, kipera, kitʃet, kitʃetara, oaawkwa, oatʃinokwa</li>
+      <li>AUX: ojã, otoa, kitoa</li>
+      <li>NOUN: omepit, oike, otʃipap, oatap, oko, okɨp, okɨpi, otak, opo, itet</li>
+      <li>PRON: on, orẽbõ, kitʃe, orẽ</li>
+      <li>VERB: oerekwa, oetara, oamõja, opera, opip, otʃeta, otʃoa, itet, kietara, kipera</li>
     </ul>
   </li>
 </ul>
@@ -374,10 +375,10 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>2
     <ul>
-      <li>AUX: ejã, etoa</li>
+      <li>AUX: ejã, eko, etoa</li>
       <li>NOUN: epo, eape, eboro, ekem, ekoro, epi, eti, eanampe, eiat, emenna</li>
-      <li>PRON: en, erẽ, erẽbõ, on, ebõ, enõ</li>
-      <li>VERB: koara, eeta, eneme, epekã, eata, eerekkwa, eimi, eipa, etʃetara, eõa</li>
+      <li>PRON: en, erẽbõ, erẽ, on, ebõ, enõ</li>
+      <li>VERB: koara, eeta, eneme, epekã, eata, eerekkwa, eimi, eipa, etʃera, etʃetara</li>
     </ul>
   </li>
 </ul>
@@ -385,10 +386,10 @@ The development of this treebank is supported by the European Research Council (
 <ul>
   <li>3
     <ul>
-      <li>AUX: iko, tejãkwa, tejã</li>
-      <li>NOUN: ikɨp, iiw, imen, imepit, iten, itoap, itʃobe, itʃoke, tajtʃi, teetɨ</li>
+      <li>AUX: iko, iam, tejã, tejãkwa</li>
+      <li>NOUN: ikɨp, iatap, iiw, imen, imepit, iten, itoap, itʃobe, itʃoke, tajtʃi</li>
       <li>PRON: i, te, tebõ</li>
-      <li>VERB: teita, ikora, ikoa, taot, iat, iata, iekɨj, ijã, ikɨta, ima</li>
+      <li>VERB: teita, ikora, iat, ikoa, taot, teeta, iata, iekɨj, ijã, ikɨta</li>
     </ul>
   </li>
 </ul>
@@ -400,24 +401,13 @@ The development of this treebank is supported by the European Research Council (
 
 
 <ul>
-  <li><a>Augm</a>
-    <ul>
-      <li>Yes
-        <ul>
-          <li>NOUN: awawaʧo</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Clusivity</a>
     <ul>
       <li>In
         <ul>
+          <li>AUX: kitoa</li>
           <li>PRON: kitʃe</li>
-          <li>VERB: kipera, kitʃet, kitʃetara</li>
+          <li>VERB: kietara, kipera, kitʃet, kitʃetara</li>
         </ul>
       </li>
     </ul>
@@ -434,7 +424,7 @@ The development of this treebank is supported by the European Research Council (
       </li>
       <li>Prox
         <ul>
-          <li>DET: jẽ, eme, ẽ, kebõ, jẽbõ</li>
+          <li>DET: jẽ, ẽ, eme, kebõ, jẽbõ</li>
         </ul>
       </li>
     </ul>
@@ -562,7 +552,7 @@ The development of this treebank is supported by the European Research Council (
       <li>Yes
         <ul>
           <li>NOUN: pɨtka, ipitka, iɨka</li>
-          <li>VERB: pɨtka, oerekwa, amkwa, apeka, atabaka, buhka, erekka, erekkwa, jãjka, kerẽka</li>
+          <li>VERB: erekka, jãjka, pɨtka, tʃãka, oerekwa, amkwa, apeka, atabaka, buhka, erekkwa</li>
         </ul>
       </li>
     </ul>
@@ -574,7 +564,7 @@ The development of this treebank is supported by the European Research Council (
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: ata, koa, tʃopa, mia, nia, ikoa, koara, õa, oetara, atʃoa</li>
+          <li>VERB: ata, koa, tʃopa, mia, nia, atʃoa, ikoa, koara, oetara, õa</li>
         </ul>
       </li>
     </ul>
@@ -590,7 +580,7 @@ The development of this treebank is supported by the European Research Council (
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: jã, ka, tʃe, ko, toa, piro.</li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: ko, tʃe, jã, ka, toa, am, piro.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -599,10 +589,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (46)</li>
-      <li>VERB--PRON (49)</li>
-      <li>VERB--PRON-All (3)</li>
-      <li>VERB--PRON-Dat (1)</li>
+      <li>VERB--NOUN (52)</li>
+      <li>VERB--PRON (51)</li>
+      <li>VERB--PRON-All (4)</li>
+      <li>VERB--PRON-Dat (2)</li>
     </ul>
   </li>
 </ul>
@@ -610,9 +600,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (108)</li>
+      <li>VERB--NOUN (122)</li>
       <li>VERB--NOUN-ADP(pabape) (1)</li>
-      <li>VERB--NOUN-All (1)</li>
+      <li>VERB--NOUN-All (2)</li>
       <li>VERB--PRON (1)</li>
     </ul>
   </li>

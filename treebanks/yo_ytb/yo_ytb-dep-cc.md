@@ -71,26 +71,26 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 cc	color:blue
-1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Ref=MARK_5.6|Gloss=when
-2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Ref=MARK_5.6|Gloss=that
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Ref=MARK_5.6|Gloss=he
-4	sì	sì	CCONJ	_	_	5	cc	_	Ref=MARK_5.6|Gloss=and
-5	rí	rí	VERB	_	_	0	root	_	Ref=MARK_5.6|Gloss=saw
-6	Jésù	jésù	PROPN	_	_	5	obj	_	Ref=MARK_5.6|Gloss=jesus
-7	látòkèrè	látòkèrè	ADV	_	_	5	advmod	_	Ref=MARK_5.6|SpaceAfter=No|Gloss=afar
-8	,	,	PUNCT	_	_	5	punct	_	Ref=MARK_5.6|Gloss=,
-9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Ref=MARK_5.6|Gloss=he
-10	sí	sì	CCONJ	_	Typo=Yes	9	cc	_	Ref=MARK_5.6|Gloss=then
-11	sáré	sáré	VERB	_	_	5	conj	_	Ref=MARK_5.6|Gloss=run
-12	lọ	lọ	VERB	_	_	11	compound:svc	_	Ref=MARK_5.6|Gloss=go
-13	láti	láti	ADP	_	_	14	mark	_	Ref=MARK_5.6|Gloss=to
-14	pàdé	pàdé	VERB	_	_	12	compound:svc	_	Ref=MARK_5.6|Gloss=meet
+1	Nígbà	nígbà	ADV	_	_	5	advmod	_	Gloss=when|Ref=MARK_5.6
+2	tí	tí	PRON	_	PronType=Rel	1	fixed	_	Gloss=that|Ref=MARK_5.6
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	Gloss=he|Ref=MARK_5.6
+4	sì	sì	CCONJ	_	_	5	cc	_	Gloss=and|Ref=MARK_5.6
+5	rí	rí	VERB	_	_	0	root	_	Gloss=saw|Ref=MARK_5.6
+6	Jésù	jésù	PROPN	_	_	5	obj	_	Gloss=jesus|Ref=MARK_5.6
+7	látòkèrè	látòkèrè	ADV	_	_	5	advmod	_	Gloss=afar|Ref=MARK_5.6|SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	Gloss=,|Ref=MARK_5.6
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Gloss=he|Ref=MARK_5.6
+10	sí	sì	CCONJ	_	Typo=Yes	9	cc	_	Gloss=then|Ref=MARK_5.6
+11	sáré	sáré	VERB	_	_	5	conj	_	Gloss=run|Ref=MARK_5.6
+12	lọ	lọ	VERB	_	_	11	compound:svc	_	Gloss=go|Ref=MARK_5.6
+13	láti	láti	ADP	_	_	14	mark	_	Gloss=to|Ref=MARK_5.6
+14	pàdé	pàdé	VERB	_	_	12	compound:svc	_	Gloss=meet|Ref=MARK_5.6
 15	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	obj	_	Ref=MARK_5.6|SpaceAfter=No
 16	.	.	PUNCT	_	_	19	punct	_	Ref=MARK_5.6
-17	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Ref=MARK_5.6|Gloss=he
-18	sì	sì	CCONJ	_	_	19	cc	_	Ref=MARK_5.6|Gloss=and
-19	wólẹ̀	wólẹ̀	VERB	_	_	14	conj	_	Ref=MARK_5.6|Gloss=fell
-20	níwájú	níwájú	ADP	_	_	21	case	_	Ref=MARK_5.6|Gloss=before
+17	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	Gloss=he|Ref=MARK_5.6
+18	sì	sì	CCONJ	_	_	19	cc	_	Gloss=and|Ref=MARK_5.6
+19	wólẹ̀	wólẹ̀	VERB	_	_	14	conj	_	Gloss=fell|Ref=MARK_5.6
+20	níwájú	níwájú	ADP	_	_	21	case	_	Gloss=before|Ref=MARK_5.6
 21	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	19	obl	_	Ref=MARK_5.6|SpaceAfter=No
 22	.	.	PUNCT	_	_	19	punct	_	Ref=MARK_5.6
 

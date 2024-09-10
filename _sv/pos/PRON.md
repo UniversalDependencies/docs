@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 
 ### Definition
@@ -14,10 +15,11 @@ context.
 
 - Personal (subject) pronouns: _jag_ "I", _du_ "you", _han_ "he", _hon_ "she", _det/den_ "it", _vi_ "we", _de_ "they"
 - Personal (object)/reflexive pronouns: _mig_ "me/myself", _dig_ "you/yourself", _honom_ "him", _henne_ "her", _sig_ "itself/himself/herself/themselves", _oss_ "us/ourselves"
+- Possessive pronouns: _min_ "my" as in _<b>min</b> bil_ "my car", _deras_ "their" as in _<b>deras</b> attityder_ "their attitudes", _<b>ditt</b> jobb_ "your job"
 - Demonstrative pronouns: _detta_ "that/this" as in _<b>detta</b> är en svår fråga_ "that is a difficult question"
 - Interrogative pronouns: _vem_ "who" _vad_ "what" as in _<b>Vad</b> tycker du?_ "What do you think?"
 - Relative pronouns: _vem_, _vad_ as in _<b>vem</b> denna person än är_ "whoever this person is"
 - Indefinite pronouns: _någon_ "someone/anybody", _något_ "something/anything"
 - Totality pronouns: _alla_ "everyone", _allt_ "everything"
 - Negative pronouns: _ingen_ "nobody", _inget_ "nothing"
-<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:40 CEST -->

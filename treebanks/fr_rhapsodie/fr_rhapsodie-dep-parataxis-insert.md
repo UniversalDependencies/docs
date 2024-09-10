@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:insert`: 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 parataxis:insert	color:blue
-1	sois	être	AUX	CCOMP	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux:pass	_	Reported=Yes
+1	sois	être	AUX	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux:pass	_	Reported=Yes
 2	purifié	purifier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	entend	entendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis:insert	_	SpaceAfter=No
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `parataxis:insert`: 
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	constate	constater	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis:insert	_	_
 7	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Voix	Voix	PROPN	_	Gender=Fem|Number=Sing	6	nsubj	_	ExtPos=PROPN
+8	Voix	Voix	PROPN	_	ExtPos=PROPN|Gender=Fem|Number=Sing	6	nsubj	_	_
 9	de	de	ADP	_	_	11	case	_	_
 10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	Nord	Nord	PROPN	_	_	8	nmod	_	SpaceAfter=No

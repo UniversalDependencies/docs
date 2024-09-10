@@ -11,10 +11,10 @@ There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_i
 
 8994 nodes (2%) are attached to their parents as `advmod:neg`.
 
-8805 instances of `advmod:neg` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88881476539915.
+8628 instances of `advmod:neg` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.01912386035135.
 
-The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (5062; 56% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (1276; 14% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (891; 10% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (671; 7% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (646; 7% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (288; 3% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (116; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (33; 0% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (5119; 57% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (1629; 18% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (717; 8% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (675; 8% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (334; 4% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (323; 4% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (178; 2% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_ittb-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,9 +25,9 @@ The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><
 # visual-style 7 6 advmod:neg	color:blue
 1	quod	qui	PRON	F1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	7	nsubj	_	_
 2	quidem	quidem	PART	O4	_	7	discourse	_	_
-3	nobis	nos	PRON	F1|grn1|casL|gen1	Case=Dat|InflClass=LatAnom|Number=Plur|PronType=Prs	7	obl:arg	_	_
+3	nobis	nos	PRON	F1|grn1|casL|gen1	Case=Dat|InflClass=LatAnom|Number=Plur|Person=1|PronType=Prs	7	obl:arg	_	_
 4	circa	circa	ADP	S4	_	5	case	_	_
-5	deum	deus	PROPN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	7	obl	_	_
+5	deum	deus	NOUN	F1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Sing	7	obl	_	_
 6	non	non	PART	O4	Polarity=Neg	7	advmod:neg	_	_
 7	accidit	accido	VERB	L3|modA|tem1|gen6	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	cado=null|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 8	.	.	PUNCT	Punc	_	7	punct	_	_
@@ -42,12 +42,12 @@ The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><
 # visual-style 8	fgColor:white
 # visual-style 8 6 advmod:neg	color:blue
 1	secundum	secundum	ADP	S4	_	2	case	_	_
-2	platonem	plato	PROPN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Sing	8	obl	_	_
+2	platonem	plato	PROPN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|InflClass=IndEurX|NameType=Giv|Number=Sing	8	obl	_	_
 3	autem	autem	PART	O4	_	8	discourse	_	_
 4	mouens	moueo	VERB	K2|modD|tem1|grp1|casA|gen3|vgr1	Aspect=Imp|Case=Nom|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	8	csubj	_	TraditionalMood=Participium|TraditionalTense=Praesens
-5	seipsum	seipsum	PRON	F1|grn1|casD|gen3	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Prs|Reflex=Yes	4	obj	_	_
+5	seipsum	seipsum	PRON	F1|grn1|casD|gen3	Case=Acc|Compound=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obj	_	_
 6	non	non	PART	O4	Polarity=Neg	8	advmod:neg	_	_
-7	est	sum	AUX	N3|modA|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	8	cop	_	_
+7	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 8	corpus	corpus	NOUN	C1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=IndEurX|Number=Sing	0	root	_	SpaceAfter=No
 9	:	:	PUNCT	Punc	_	8	punct	_	_
 
@@ -55,22 +55,16 @@ The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 advmod:neg	color:blue
-1	quod	qui	PRON	F1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	2	nsubj	_	_
-2	maius	magnus	ADJ	C1|grn2|casA|gen3|vgr2	Case=Nom|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	0	root	_	_
-3	est	sum	AUX	N3|modA|tem1|gen6	InflClass=LatAnom|Number=Sing|VerbForm=Fin	2	cop	_	_
-4	euidenter	euidenter	ADV	C1|grn1|casG	_	2	advmod	_	_
-5	eo	is	PRON	F1|grn1|casF|gen3	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	2	obl	_	_
-6	quod	qui	PRON	F1|grn1|casA|gen3	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	7	nsubj	_	_
-7	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-8	cogitari	cogito	VERB	J3|modQ|tem1	Aspect=Imp|InflClass=LatA|VerbForm=Vnoun|Voice=Pass	7	xcomp	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
-9	non	non	PART	O4	Polarity=Neg	10	advmod:neg	_	_
-10	esse	sum	AUX	N3|modH|tem1	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
-11	.	.	PUNCT	Punc	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod:neg	color:blue
+1	quia	quia	SCONJ	O4	_	3	mark	_	_
+2	non	non	PART	O4	Polarity=Neg	3	advmod:neg	_	_
+3	semper	semper	ADV	O4	AdvType=Tim	0	root	_	_
+4	est	sum	AUX	N3|modA|tem1|gen6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+5	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

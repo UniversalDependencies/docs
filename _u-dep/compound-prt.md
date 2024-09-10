@@ -23,12 +23,8 @@ This relation excludes literal/directional uses of prepositions/particles, such 
 These would typically become an ADV with the relation [advmod]():
 
 ~~~ sdparse
-The dentist pulled out the tooth
-advmod(pulled, out)
+The house was on fire and they ran out screaming.
+advmod(ran, out)
 ~~~
 
-~~~ sdparse
-The dentist pulled the tooth out
-advmod(pulled, out)
-~~~
-<!-- Interlanguage links updated Po lis 14 15:35:16 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:56 CEST -->

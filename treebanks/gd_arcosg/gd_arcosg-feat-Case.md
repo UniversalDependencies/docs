@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Gen` (2550; 19% of non-empty `Case`): <em>bliadhna, Gàidhlig, pàirce, latha, obrach, taighe, dùthcha, dìon, pàrlamaid, Gaidhealtachd</em>
 * `Nom` (6205; 46% of non-empty `Case`): <em>fhios, fear, duine, rud, daoine, ball, latha, buille, bliadhna, taobh</em>
 * `Voc` (29; 0% of non-empty `Case`): <em>dhuine, 'ille, Rìgh, ghràidh, 'illean, bhalaich, ghràidhein, 'ill', bheadragain, bhròinein</em>
-* `EMPTY` (5249): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
+* `EMPTY` (5224): <em>bhith, dol, ràdh, chur, ais, dhèanamh, feuchainn, tighinn, thoirt, cur</em>
 
 <table>
   <tr><th>Paradigm <i>duine</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Gen` (217; 15% of non-empty `Case`): <em>eile, Ghlais, àrd, Buidhe, mhòir, Bhàin, ùr, Ruaidh, bhig, dùthchail</em>
 * `Nom` (785; 55% of non-empty `Case`): <em>eile, ùr, beag, mhòr, mòr, math, shaor, àrd, òg, mòra</em>
 * `Voc` (4; 0% of non-empty `Case`): <em>dhuibh, bhochd, òig</em>
-* `EMPTY` (1977): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
+* `EMPTY` (1981): <em>bith, sam, cinnteach, math, faisg, thall, seann, fhearr, droch, coltach</em>
 
 <table>
   <tr><th>Paradigm <i>eile</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -79,7 +79,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (172; 18% of non-empty `Case`): <em>[Name], Iain, Dhòmhnaill, Sheumais, lain, Dhonnchaidh, Brìde, Lachlainn, Mairearaid, Ràghaill</em>
 * `Nom` (570; 59% of non-empty `Case`): <em>[Name], Iain, Dòmhnall, Màiri, Tormod, Alasdair, Anna, Eachann, Garaidh, Murchadh</em>
 * `Voc` (92; 10% of non-empty `Case`): <em>[Name], Mhurchaidh, Aonghais, Iain, Raghnaill, Dhòmhnaill, Anna, Choinnich, Sheonaidh, Ann</em>
-* `EMPTY` (3251): <em>[Placename], Alba, [Name], Yugoslavia, MacLeish, Malpas, Uibhist, h-Alba, a, Aitken</em>
+* `EMPTY` (3236): <em>[Placename], Alba, [Name], Yugoslavia, MacLeish, Malpas, Uibhist, h-Alba, a, Aitken</em>
 
 <table>
   <tr><th>Paradigm <i>[Name]</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -90,9 +90,9 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1274; 67%),
-<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (437; 74%),
-<tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (45; 90%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1275; 67%),
+<tt>NOUN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> NOUN</tt> (440; 75%),
+<tt>PROPN --[<tt><a href="gd_arcosg-dep-amod.html">amod</a></tt>]--> ADJ</tt> (45; 92%),
 <tt>PROPN --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (38; 88%),
 <tt>NOUN --[<tt><a href="gd_arcosg-dep-compound.html">compound</a></tt>]--> NOUN</tt> (19; 100%),
 <tt>ADJ --[<tt><a href="gd_arcosg-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 84%),

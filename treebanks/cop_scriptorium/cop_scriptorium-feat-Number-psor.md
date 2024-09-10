@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt>, <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt>.
 
-1319 tokens (2%) have a non-empty value of `Number[psor]`.
+1355 tokens (2%) have a non-empty value of `Number[psor]`.
 31 types (1%) occur at least once with a non-empty value of `Number[psor]`.
 14 lemmas (1%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1319; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1355; 2% instances).
 
 ### `DET`
 
-1319 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+1355 <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1319; 100%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1319; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1319; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (923; 70%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="cop_scriptorium-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1355; 100%), <tt><a href="cop_scriptorium-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1355; 100%), <tt><a href="cop_scriptorium-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1355; 100%), <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt><tt>=Sing</tt> (952; 70%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

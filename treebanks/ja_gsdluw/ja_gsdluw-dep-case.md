@@ -38,7 +38,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 14	使わ	使う	VERB	動詞-一般-五段-ワア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,使う,使わ,使う,ツカワ,,,ツカウ,ツカウ,使う
 15	れ	れる	AUX	助動詞-助動詞-レル	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,れる,れ,れる,レ,,,レル,レル,れる
 16	た	た	AUX	助動詞-助動詞-タ	_	14	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=,た,た,た,タ,,,タ,タ,た
-17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+17	。	。	PUNCT	補助記号-句点	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 3	水落朋大	水落朋大	PROPN	名詞-固有名詞-人名-一般	_	5	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=;,ミズオチ;トモヒロ,水落;朋大,水落;朋大,ミズオチ;トモヒロ,;,;,ミズオチ;トモヒロ,ミズオチトモヒロ,水落朋大
 4	は	は	ADP	助詞-係助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,は,は,は,ワ,,,ハ,ハ,は
 5	実兄	実兄	NOUN	名詞-普通名詞-一般	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|SpaceAfter=No|UnidicInfo=,実兄,実兄,実兄,ジッケー,,,ジッケイ,ジッケイ,実兄
-6	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+6	。	。	PUNCT	補助記号-句点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 14	もの	物	NOUN	名詞-普通名詞-一般	_	16	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=,物,もの,もの,モノ,,,モノ,モノ,物
 15	も	も	ADP	助詞-係助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=,も,も,も,モ,,,モ,モ,も
 16	いる	居る	VERB	動詞-一般-上一段-ア行	_	0	root	_	BunsetuBILabel=B|BunsetuPositionType=ROOT|PrevUDLemma=いる|SpaceAfter=No|UnidicInfo=,居る,いる,いる,イル,,,イル,イル,居る
-17	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=Yes|UnidicInfo=,。,。,。,,,,,,。
+17	。	。	PUNCT	補助記号-句点	_	16	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|UnidicInfo=,。,。,。,,,,,,。
 
 ~~~
 

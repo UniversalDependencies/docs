@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-PUD: POS Tags: `CCONJ`
 
-There are 1 `CCONJ` lemmas (6%), 7 `CCONJ` types (0%) and 545 `CCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 15 in number of types and 10 in number of tokens.
+There are 7 `CCONJ` lemmas (0%), 7 `CCONJ` types (0%) and 545 `CCONJ` tokens (2%).
+Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 10 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: _
+The 10 most frequent `CCONJ` lemmas: और, लेकिन, या, एवं, तथा, एंड, बहरहाल
 
 The 10 most frequent `CCONJ` types:  और, लेकिन, या, एवं, तथा, एंड, बहरहाल
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> 5597, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 4849, <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> 2297, <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> 2058, <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> 1995, <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> 1776, <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> 1358, <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> 1128, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 876, <tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 545, <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> 452, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 382, <tt><a href="hi_pud-pos-PART.html">PART</a></tt> 316, <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> 159, <tt><a href="hi_pud-pos-SYM.html">SYM</a></tt> 30, <tt><a href="hi_pud-pos-X.html">X</a></tt> 11)
+The 10 most frequent ambiguous lemmas: और (<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 424, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 14), लेकिन (<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 67, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1), या (<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="hi_pud-pos-X.html">X</a></tt> 1), बहरहाल (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  और (<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 424, <tt><a href="hi_pud-pos-DET.html">DET</a></tt> 14), लेकिन (<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 67, <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1), या (<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="hi_pud-pos-X.html">X</a></tt> 1), बहरहाल (<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -35,9 +35,13 @@ The 10 most frequent ambiguous types:  और (<tt><a href="hi_pud-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 7.000000 (the average of all parts of speech is 345.375000).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.166595).
 
-The 1st highest number of forms (7) was observed with the lemma “_”: एंड, एवं, और, तथा, बहरहाल, या, लेकिन.
+The 1st highest number of forms (1) was observed with the lemma “एंड”: एंड.
+
+The 2nd highest number of forms (1) was observed with the lemma “एवं”: एवं.
+
+The 3rd highest number of forms (1) was observed with the lemma “और”: और.
 
 `CCONJ` does not occur with any features.
 
@@ -46,7 +50,7 @@ The 1st highest number of forms (7) was observed with the lemma “_”: एं�
 
 `CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="hi_pud-dep-cc.html">cc</a></tt> (545; 100% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (208; 38% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (191; 35% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (70; 13% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (66; 12% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (231; 42% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (190; 35% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (70; 13% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (45; 8% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 545 (100%) `CCONJ` nodes are leaves.
 

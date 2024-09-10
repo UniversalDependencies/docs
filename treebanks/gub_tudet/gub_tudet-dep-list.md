@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 6	,	,	PUNCT	punct	_	4	punct	_	_
 7	wahuhaw	uhu	NOUN	n	Nomzr=Circ|Number=Plur	2	list	_	_
 8	,	,	PUNCT	punct	_	7	punct	_	_
-9	kwatazgwerai	kwataz	NOUN	n	Dimin=Yes|Number=Coll	10	nmod	_	_
+9	kwatazgwerai	kwataz	NOUN	n	Degree=Dim|Number=Coll	10	nmod	_	_
 10	wawɨra	ɨra	NOUN	n	Number=Plur	2	list	_	_
 11	ʔohaw	oʔo	NOUN	n	Nomzr=Circ	10	nmod	_	_
 12	,	,	PUNCT	punct	_	10	punct	_	_

@@ -35,4 +35,4 @@ modal verbs are
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=450> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1562> (in Finnish)
-<!-- Interlanguage links updated Po lis 14 15:34:30 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:34 CEST -->

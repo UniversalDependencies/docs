@@ -26,4 +26,4 @@ If a verb is intransitive, a suffix -ra is used. In the negation, there is still
 
 * _O <b>ye</b> o dun._ “This has eaten this.”
 
-<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:25 CEST -->

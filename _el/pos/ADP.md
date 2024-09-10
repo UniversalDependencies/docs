@@ -13,7 +13,10 @@ Adposition is a cover term for prepositions and postpositions. Adpositions belon
 
 Certain multiword expressions, such as *ενάντια σε*, *γύρω από* are adpositions. The component words are tagged according to their basic use (*ενάντια* is an ADV, *από* is an ADP, etc.), the two words are connected with the  dependency relation "fixed" and the first word is used as a conventional “head”.
 
-
+*από* is sometimes used not as a preposition but rather to ensure distributive readings; in these cases it is is assigned the PoS DET:
+*Για τις θέσεις 1 και 2 υπήρξε από ένας υποψήφιος* 
+ for the positions 1 and 2 existed from one.NOM candidate.NOM
+ `there was a different candidate for each of the positions 1 and 2'
 
 
 ### Examples
@@ -29,4 +32,4 @@ Certain multiword expressions, such as *ενάντια σε*, *γύρω από* 
 ### References
 
 Τζάρτζανος, Αχιλλέας, 2002. Νεοελληνική Σύνταξις της Κοινής Δημοτικής. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225. https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated Po lis 14 15:34:29 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:32 CEST -->

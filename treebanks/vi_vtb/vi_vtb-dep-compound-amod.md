@@ -9,27 +9,50 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-compound.html">compound</a></tt>.
 There are also 11 other language-specific subtypes of `compound`: <tt><a href="vi_vtb-dep-compound-adj.html">compound:adj</a></tt>, <tt><a href="vi_vtb-dep-compound-apr.html">compound:apr</a></tt>, <tt><a href="vi_vtb-dep-compound-atov.html">compound:atov</a></tt>, <tt><a href="vi_vtb-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="vi_vtb-dep-compound-pron.html">compound:pron</a></tt>, <tt><a href="vi_vtb-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="vi_vtb-dep-compound-redup.html">compound:redup</a></tt>, <tt><a href="vi_vtb-dep-compound-svc.html">compound:svc</a></tt>, <tt><a href="vi_vtb-dep-compound-verbnoun.html">compound:verbnoun</a></tt>, <tt><a href="vi_vtb-dep-compound-vmod.html">compound:vmod</a></tt>, <tt><a href="vi_vtb-dep-compound-z.html">compound:z</a></tt>.
 
-35 nodes (0%) are attached to their parents as `compound:amod`.
+98 nodes (0%) are attached to their parents as `compound:amod`.
 
-34 instances of `compound:amod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+98 instances of `compound:amod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04081632653061.
 
-The following 4 pairs of parts of speech are connected with `compound:amod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (32; 91% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `compound:amod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (94; 96% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 compound:amod	color:blue
-1	Đó	đó	PRON	Pro	_	5	nsubj	_	_
-2	là	là	AUX	V	_	5	cop	_	_
-3	khoảng	khoảng	ADJ	Adj	_	5	advmod:adj	_	_
-4	cuối	cuối	ADJ	Adj	_	5	compound:amod	_	_
-5	năm	năm	NOUN	N	_	0	root	_	_
-6	1963	1963	NUM	Num	_	5	flat:date	_	_
-7	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 compound:amod	color:blue
+1	Bờ	bờ	NOUN	N	_	8	nsubj	_	_
+2	tre	tre	NOUN	N	_	1	nmod	_	_
+3	ruộng	ruộng	NOUN	N	_	1	conj	_	_
+4	lúa	lúa	NOUN	N	_	3	nmod	_	_
+5	và	và	CCONJ	CC	_	6	cc	_	_
+6	nhà	nhà	NOUN	N	_	1	conj	_	_
+7	cổ	cổ	ADJ	ADJ	_	6	compound:amod	_	_
+8	hấp dẫn	hấp dẫn	VERB	V	_	0	root	_	_
+9	du khách	du khách	NOUN	N	_	8	obj	_	_
+10	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 compound:amod	color:blue
+1	Phú yên	phú yên	PROPN	NNP	_	4	obl	_	_
+2	:	:	PUNCT	:	_	1	punct	_	_
+3	cán bộ	cán bộ	NOUN	N	_	4	nsubj	_	_
+4	làm	làm	VERB	V	_	0	root	_	_
+5	sai	sai	ADJ	Adj	_	4	xcomp	_	_
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	dân	dân	NOUN	N	_	8	nsubj	_	_
+8	lãnh	lãnh	VERB	V	_	4	conj	_	_
+9	đủ	đủ	ADJ	Adj	_	8	compound:amod	_	_
+10	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -65,28 +88,6 @@ The following 4 pairs of parts of speech are connected with `compound:amod`: <tt
 23	nhà	nhà	NOUN	N	_	21	obl	_	_
 24	giám đốc	giám đốc	NOUN	N	_	23	nmod	_	_
 25	.	.	PUNCT	.	_	21	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 compound:amod	color:blue
-1	Ba	ba	NUM	Num	_	2	nummod	_	_
-2	lần	lần	NOUN	N	_	3	obl	_	_
-3	thay	thay	VERB	V	_	11	advcl	_	_
-4	số	số	NOUN	N	_	3	obj	_	_
-5	gọi	gọi	VERB	V	_	4	compound:vmod	_	_
-6	nhưng	nhưng	SCONJ	SC	_	11	mark	_	_
-7	máy	máy	NOUN	N	_	11	nsubj	_	_
-8	di động	di động	VERB	V	_	7	compound:amod	_	_
-9	kia	kia	PRON	Pro	_	7	det:pmod	_	_
-10	vẫn	vẫn	ADV	Adv	_	11	advmod	_	_
-11	im lặng	im lặng	ADJ	Adj	_	0	root	_	_
-12	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~
 

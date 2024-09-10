@@ -61,7 +61,7 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 8 10 obj	color:blue
 1	Eles	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Plur|Person=3	2	nsubj	_	_
 2	têm	ter	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	_
-3	uma	um	DET	DT	Gender=Fem|Number=Sing	4	det	_	_
+3	uma	um	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	hipótese	hipótese	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	redenção	redenção	NOUN	NN	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No

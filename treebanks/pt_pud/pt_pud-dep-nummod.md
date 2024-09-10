@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 nummod	color:blue
-1	Seu	seu	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	Seu	seu	DET	DT	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	2	det	_	_
 2	orçamento	orçamento	NOUN	NN	Gender=Masc|Number=Sing	7	nsubj	_	_
 3	anual	anual	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
 4	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	7	cop	_	_

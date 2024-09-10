@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-80 nodes (1%) are attached to their parents as `advcl`.
+267 nodes (1%) are attached to their parents as `advcl`.
 
-54 instances of `advcl` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.4.
+196 instances of `advcl` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.88389513108614.
 
-The following 17 pairs of parts of speech are connected with `advcl`: <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (28; 35% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (9; 11% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (6; 8% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 26 pairs of parts of speech are connected with `advcl`: <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (95; 36% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (38; 14% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (32; 12% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (19; 7% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (16; 6% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (10; 4% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-DET.html">DET</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_twittirish-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_twittirish-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ga_twittirish-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ga_twittirish-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,39 +34,42 @@ The following 17 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 3 advcl	color:blue
-1	Théis	théis	ADP	_	_	3	case	_	Lang=ga
-2	35	35	NUM	_	_	3	nummod	_	_
-3	bl	bliain	NOUN	_	_	5	advcl	_	Lang=ga
-4	#Manning	#Manning	X	_	_	5	parataxis:hashtag	_	_
-5	beidh	bí	VERB	_	_	0	root	_	Lang=ga
-6	fuacht	fuacht	NOUN	_	_	5	nsubj	_	Lang=ga
-7	na	an	DET	_	_	8	det	_	Lang=ga
-8	Rúise	Rúis	PROPN	_	_	6	nmod	_	Lang=ga
-9	iontach	iontach	ADJ	_	_	5	xcomp:pred	_	Lang=ga
-10	do	do	ADP	_	_	11	case	_	Lang=ga
-11	#Snowden	#Snowden	X	_	_	5	obl	_	_
+# visual-style 5 8 advcl	color:blue
+1	Saoirse	saoirse	NOUN	_	_	0	root	_	Lang=ga
+2	i	i	ADP	_	_	3	case	_	Lang=ga
+3	Meiriceá	Meiriceá	PROPN	_	_	1	nmod	_	Lang=ga|SpaceAfter=No
+4	:	:	PUNCT	_	_	5	punct	_	_
+5	níl	bí	VERB	_	_	1	parataxis	_	Lang=ga
+6	ann	i	ADP	_	_	5	xcomp:pred	_	Lang=ga
+7	ach	ach	SCONJ	_	_	8	mark	_	Lang=ga
+8	bréag	bréag	NOUN	_	_	5	advcl	_	_
+9	http://t.co/Wk0RbY2t	http://t.co/Wk0RbY2t	SYM	_	_	1	parataxis:url	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 advcl	color:blue
-1	@blathnaidlibh	@blathnaidlibh	PROPN	_	_	4	vocative:mention	_	_
-2	@billyjoel	@billyjoel	PROPN	_	_	4	vocative:mention	_	_
-3	@RTERnaG	@RTERnaG	PROPN	_	_	4	vocative:mention	_	_
-4	TochaltÓr	tochaltór	NOUN	_	_	0	root	_	Lang=ga|NonCan=Neo
-5	b'	is	AUX	_	_	6	cop	_	Lang=ga|SpaceAfter=No
-6	fhéidir	féidir	NOUN	_	_	4	advcl	_	Lang=ga|SpaceAfter=No
-7	?	?	PUNCT	_	_	4	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 advcl	color:blue
+1	Ag	ag	ADP	_	_	2	case	_	Lang=ga
+2	déananh	déananh	NOUN	_	_	0	root	_	Lang=ga
+3	muicín	muicín	NOUN	_	_	2	obj	_	Lang=ga
+4	dhom	do	ADP	_	_	2	obl:prep	_	Lang=ga
+5	féin	féin	PRON	_	_	4	nmod	_	Lang=ga
+6	inniú	inniu	ADV	_	_	2	advmod	_	Lang=ga
+7	ag	ag	ADP	_	_	8	case	_	Lang=ga
+8	ith	ithe	VERB	_	_	2	advcl	_	CorrectForm=ithe|Lang=ga
+9	3	3	NUM	_	_	10	nummod	_	Lang=ga
+10	ubh	ubh	NOUN	_	_	8	obj	_	Lang=ga
+11	seaclóid	seacláid	NOUN	_	_	10	nmod	_	CorrectForm=seacláide|Lang=ga
+12	:)	:)	SYM	_	_	2	discourse:emo	_	_
 
 ~~~
 

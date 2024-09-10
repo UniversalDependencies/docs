@@ -8,93 +8,113 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sl_sst-dep-cc.html">cc</a></tt>.
 
-22 nodes (0%) are attached to their parents as `cc:preconj`.
+13 nodes (0%) are attached to their parents as `cc:preconj`.
 
-21 instances of `cc:preconj` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.04545454545455.
+12 instances of `cc:preconj` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.15384615384615.
 
-The following 9 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (7; 32% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (5; 23% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (3; 14% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 5% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cc:preconj	color:blue
-1	j	_	X	Xt	_	3	reparandum	_	word=j|msd=Nt
-2	[gap]	[gap]	PUNCT	X	_	3	punct	_	word=[gap]|msd=N
-3	ali	ali	CCONJ	Cc	_	4	cc:preconj	_	word=al|msd=Vp
-4	imate	imeti	VERB	Vmpr2p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=imate|msd=Ggnsdm-n
-5	eee	eee	INTJ	I	_	7	discourse:filler	_	word=eee|msd=M
-6	eee	eee	INTJ	I	_	7	discourse:filler	_	word=eee|msd=M
-7	sekanca	sekanec	NOUN	Ncmsay	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	word=sekanca|msd=Sometd
-8	ali	ali	CCONJ	Cc	_	9	cc	_	word=ali|msd=Vp
-9	imate	imeti	VERB	Vmpr2p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	conj	_	word=imate|msd=Ggnsdm-n
-10	eee	eee	INTJ	I	_	11	discourse:filler	_	word=eee|msd=M
-11	pelete	pelet	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	9	obj	_	word=pelete|msd=Sommt
-12	ne	ne	PART	Q	_	4	discourse	_	word=ne|msd=L
-
-~~~
+The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (5; 38% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (2; 15% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (2; 15% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 8% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 22 cc:preconj	color:blue
-1	no	no	PART	Q	_	7	discourse	_	word=no|msd=L
-2	pri	pri	ADP	Sl	Case=Loc	4	case	_	word=pr|msd=Dm
-3	eee	eee	INTJ	I	_	4	discourse:filler	_	word=eee|msd=M
-4	prispevku	prispevek	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	word=prispevku|msd=Somem
-5	pri	pri	ADP	Sl	Case=Loc	6	case	_	word=pri|msd=Dm
-6	registraciji	registracija	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	4	nmod	_	word=registraciji|msd=Sozem
-7	bi	biti	VERB	Va-c	Mood=Cnd|VerbForm=Fin	0	root	_	word=bi|msd=Gp-g
-8	[gap]	[gap]	PUNCT	X	_	11	punct	_	word=[gap]|msd=N
-9	za	za	ADP	Sa	Case=Acc	11	case	_	word=za|msd=Dt
-10	sto	sto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	word=sto|msd=Kbg-mt
-11	evrov	evro	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	word=evrov|msd=Sommr
-12	in	in	CCONJ	Cc	_	13	cc	_	word=in|msd=Vp
-13	gotovo	gotovo	ADV	Rgp	Degree=Pos	7	conj	_	word=gotovo|msd=Rsn
-14	pa	pa	CCONJ	Cc	_	15	reparandum	_	word=pa|msd=Vp
-15	pa	pa	CCONJ	Cc	_	18	cc	_	word=pa|msd=Vp
-16	ne	ne	PART	Q	Polarity=Neg	18	advmod	_	word=neb[split_1-2]|msd=L
-17	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	18	aux	_	word=neb[split_2-2]|msd=Gp-g
-18	bilo	biti	VERB	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	7	conj	_	word=blo|msd=Gp-d-es
-19	ne	ne	CCONJ	Cc	_	20	cc:preconj	_	word=ne|msd=Vp
-20	vinjet	vinjeta	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	18	nsubj	_	word=vinjet|msd=Sozmr
-21	pa	pa	CCONJ	Cc	_	23	cc	_	word=pa|msd=Vp
-22	ne	ne	CCONJ	Cc	_	23	cc:preconj	_	word=ne|msd=Vp
-23	kontrole	kontrola	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	20	conj	_	word=kontrole|msd=Sozer
-24	na	na	ADP	Sl	Case=Loc	25	case	_	word=na|msd=Dm
-25	cesti	cesta	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	23	nmod	_	word=cesti|msd=Sozem
-26	pa	pa	CCONJ	Cc	_	27	cc	_	word=pa|msd=Vp
-27	razmetavanja	razmetavanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	20	conj	_	word=razmetavanja|msd=Soser
-28	za	za	ADP	Sa	Case=Acc	30	case	_	word=za|msd=Dt
-29	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	30	det	_	word=take|msd=Zk-zmt
-30	neumnosti	neumnost	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	27	nmod	_	word=neumnosti|msd=Sozmt
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 25 22 cc:preconj	color:blue
+1	ob	ob	ADP	Sl	Case=Loc	2	case	_	pronunciation=ob|Gos2.1_seg_id=Artur-P-G7065-P701064.s176|Gos2.1_token_id=Artur-P-G7065-P701064.tok793
+2	predpogoju	predpogoj	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	0	root	_	pronunciation=pretpogoju|Gos2.1_seg_id=Artur-P-G7065-P701064.s176|Gos2.1_token_id=Artur-P-G7065-P701064.tok794
+3	da	da	SCONJ	Cs	_	4	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-P-G7065-P701064.s176|Gos2.1_token_id=Artur-P-G7065-P701064.tok796
+4	ima	imeti	VERB	Vmpr3s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	acl	_	pronunciation=ima|Gos2.1_seg_id=Artur-P-G7065-P701064.s176|Gos2.1_token_id=Artur-P-G7065-P701064.tok797
+5	dejavnost	dejavnost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	pronunciation=dejaunost|Gos2.1_seg_id=Artur-P-G7065-P701064.s176|Gos2.1_token_id=Artur-P-G7065-P701064.tok798
+6	zasebnopravnega	zasebnopraven	ADJ	Agpmsa	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	pronunciation=zasebnopraunega|Gos2.1_seg_id=Artur-P-G7065-P701064.s177|Gos2.1_token_id=Artur-P-G7065-P701064.tok799
+7	subjekta	subjekt	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	pronunciation=subjekta|Gos2.1_seg_id=Artur-P-G7065-P701064.s177|Gos2.1_token_id=Artur-P-G7065-P701064.tok800
+8	učinke	učinek	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	pronunciation=učinke|Gos2.1_seg_id=Artur-P-G7065-P701064.s177|Gos2.1_token_id=Artur-P-G7065-P701064.tok801
+9	na	na	ADP	Sl	Case=Loc	10	case	_	pronunciation=na|Gos2.1_seg_id=Artur-P-G7065-P701064.s178|Gos2.1_token_id=Artur-P-G7065-P701064.tok802
+10	področjih	področje	NOUN	Ncnpl	Case=Loc|Gender=Neut|Number=Plur	8	nmod	_	pronunciation=področjih|Gos2.1_seg_id=Artur-P-G7065-P701064.s178|Gos2.1_token_id=Artur-P-G7065-P701064.tok803
+11	za	za	ADP	Sa	Case=Acc	12	case	_	pronunciation=za|Gos2.1_seg_id=Artur-P-G7065-P701064.s179|Gos2.1_token_id=Artur-P-G7065-P701064.tok805
+12	urejanje	urejanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	15	obl	_	pronunciation=uranje|Gos2.1_seg_id=Artur-P-G7065-P701064.s179|Gos2.1_token_id=Artur-P-G7065-P701064.tok806
+13	katerih	kateri	DET	Pq-npg	Case=Gen|Gender=Neut|Number=Plur|PronType=Int	12	nmod	_	pronunciation=katerih|Gos2.1_seg_id=Artur-P-G7065-P701064.s179|Gos2.1_token_id=Artur-P-G7065-P701064.tok807
+14	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	pronunciation=je|Gos2.1_seg_id=Artur-P-G7065-P701064.s179|Gos2.1_token_id=Artur-P-G7065-P701064.tok808
+15	pristojna	pristojen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	acl	_	pronunciation=pristojna|Gos2.1_seg_id=Artur-P-G7065-P701064.s179|Gos2.1_token_id=Artur-P-G7065-P701064.tok809
+16	država	država	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	pronunciation=dəržava|Gos2.1_seg_id=Artur-P-G7065-P701064.s179|Gos2.1_token_id=Artur-P-G7065-P701064.tok810
+17	ali	ali	CCONJ	Cc	_	19	cc	_	pronunciation=ali|Gos2.1_seg_id=Artur-P-G7065-P701064.s180|Gos2.1_token_id=Artur-P-G7065-P701064.tok812
+18	določene	določen	ADJ	Appfpn	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	19	amod	_	pronunciation=določene|Gos2.1_seg_id=Artur-P-G7065-P701064.s180|Gos2.1_token_id=Artur-P-G7065-P701064.tok813
+19	povezave	povezava	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	8	conj	_	pronunciation=povezave|Gos2.1_seg_id=Artur-P-G7065-P701064.s180|Gos2.1_token_id=Artur-P-G7065-P701064.tok814
+20	z	z	ADP	Si	Case=Ins	21	case	_	pronunciation=zə|Gos2.1_seg_id=Artur-P-G7065-P701064.s180|Gos2.1_token_id=Artur-P-G7065-P701064.tok815
+21	državo	država	NOUN	Ncfsi	Case=Ins|Gender=Fem|Number=Sing	19	nmod	_	pronunciation=dəržavo|Gos2.1_seg_id=Artur-P-G7065-P701064.s180|Gos2.1_token_id=Artur-P-G7065-P701064.tok816
+22	bodisi	bodisi	CCONJ	Cc	_	25	cc:preconj	_	pronunciation=bodisi|Gos2.1_seg_id=Artur-P-G7065-P701064.s181|Gos2.1_token_id=Artur-P-G7065-P701064.tok818
+23	preko	preko	ADP	Sg	Case=Gen	25	case	_	pronunciation=preko|Gos2.1_seg_id=Artur-P-G7065-P701064.s181|Gos2.1_token_id=Artur-P-G7065-P701064.tok819
+24	finančne	finančen	ADJ	Agpfsg	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	pronunciation=finančne|Gos2.1_seg_id=Artur-P-G7065-P701064.s181|Gos2.1_token_id=Artur-P-G7065-P701064.tok820
+25	podpore	podpora	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	19	appos	_	pronunciation=potpore|Gos2.1_seg_id=Artur-P-G7065-P701064.s181|Gos2.1_token_id=Artur-P-G7065-P701064.tok821
+26	bodisi	bodisi	CCONJ	Cc	_	28	cc	_	pronunciation=bodisi|Gos2.1_seg_id=Artur-P-G7065-P701064.s182|Gos2.1_token_id=Artur-P-G7065-P701064.tok822
+27	preko	preko	ADP	Sg	Case=Gen	28	case	_	pronunciation=preko|Gos2.1_seg_id=Artur-P-G7065-P701064.s182|Gos2.1_token_id=Artur-P-G7065-P701064.tok823
+28	udeležbe	udeležba	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	25	conj	_	pronunciation=udeležbe|Gos2.1_seg_id=Artur-P-G7065-P701064.s182|Gos2.1_token_id=Artur-P-G7065-P701064.tok824
+29	države	država	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	pronunciation=dəržave|Gos2.1_seg_id=Artur-P-G7065-P701064.s182|Gos2.1_token_id=Artur-P-G7065-P701064.tok825
+30	v	v	ADP	Sl	Case=Loc	32	case	_	pronunciation=və|Gos2.1_seg_id=Artur-P-G7065-P701064.s183|Gos2.1_token_id=Artur-P-G7065-P701064.tok826
+31	gospodarskih	gospodarski	ADJ	Agpfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	32	amod	_	pronunciation=gosdarskih|Gos2.1_seg_id=Artur-P-G7065-P701064.s183|Gos2.1_token_id=Artur-P-G7065-P701064.tok827
+32	družbah	družba	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	28	nmod	_	pronunciation=družbah|Gos2.1_seg_id=Artur-P-G7065-P701064.s183|Gos2.1_token_id=Artur-P-G7065-P701064.tok828
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 cc:preconj	color:blue
-1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	word=to|msd=Zk-sei
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	word=je|msd=Gp-ste-n
-3	pa	pa	CCONJ	Cc	_	8	advmod	_	word=pa|msd=Vp
-4	res	res	ADV	Rgp	Degree=Pos	8	advmod	_	word=res|msd=Rsn
-5	fenomenalna	fenomenalen	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	word=fenomenalna|msd=Ppnzei
-6	ne	ne	PART	Q	_	8	cc:preconj	_	word=ne|msd=L
-7	samo	samo	PART	Q	_	6	fixed	_	word=samo|msd=L
-8	žurka	žurka	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	word=žurka|msd=Sozei
-9	ampak	ampak	CCONJ	Cc	_	11	cc	_	word=ampak|msd=Vp
-10	nasploh	nasploh	ADV	Rgp	Degree=Pos	11	advmod	_	word=nasploh|msd=Rsn
-11	spektakel	spektakel	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	conj	_	word=spektakel|msd=Somei
+# visual-style 6 3 cc:preconj	color:blue
+1	in	in	CCONJ	Cc	_	6	cc	_	pronunciation=in|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok310
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	fixed	_	pronunciation=to|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok311
+3	ne	ne	PART	Q	Polarity=Neg	6	cc:preconj	_	pronunciation=ne|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok312
+4	samo	samo	PART	Q	_	3	fixed	_	pronunciation=samo|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok313
+5	do	do	ADP	Sg	Case=Gen	6	case	_	pronunciation=do|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok314
+6	posameznikov	posameznik	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	0	root	_	pronunciation=posameznikou|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok315
+7	ki	ki	SCONJ	Cs	_	9	mark	_	pronunciation=ki|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok317
+8	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	9	expl	_	pronunciation=se|Gos2.1_seg_id=Artur-P-G7001-P700192.s46|Gos2.1_token_id=Artur-P-G7001-P700192.tok318
+9	obrnejo	obrniti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl	_	pronunciation=obrnejo|Gos2.1_seg_id=Artur-P-G7001-P700192.s47|Gos2.1_token_id=Artur-P-G7001-P700192.tok319
+10	na	na	ADP	Sa	Case=Acc	12	case	_	pronunciation=na|Gos2.1_seg_id=Artur-P-G7001-P700192.s47|Gos2.1_token_id=Artur-P-G7001-P700192.tok320
+11	posamezno	posamezen	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	pronunciation=posamezno|Gos2.1_seg_id=Artur-P-G7001-P700192.s47|Gos2.1_token_id=Artur-P-G7001-P700192.tok321
+12	ministrstvo	ministrstvo	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	pronunciation=ministrstvo|Gos2.1_seg_id=Artur-P-G7001-P700192.s47|Gos2.1_token_id=Artur-P-G7001-P700192.tok322
+13	ampak	ampak	CCONJ	Cc	_	15	cc	_	pronunciation=ampak|Gos2.1_seg_id=Artur-P-G7001-P700192.s48|Gos2.1_token_id=Artur-P-G7001-P700192.tok324
+14	varuhinja	varuhinja	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	pronunciation=varuhinja|Gos2.1_seg_id=Artur-P-G7001-P700192.s48|Gos2.1_token_id=Artur-P-G7001-P700192.tok325
+15	zapisuje	zapisovati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	pronunciation=zapisuje|Gos2.1_seg_id=Artur-P-G7001-P700192.s48|Gos2.1_token_id=Artur-P-G7001-P700192.tok326
+16	da	da	SCONJ	Cs	_	20	mark	_	pronunciation=da|Gos2.1_seg_id=Artur-P-G7001-P700192.s48|Gos2.1_token_id=Artur-P-G7001-P700192.tok328
+17	tudi	tudi	PART	Q	_	20	advmod	_	pronunciation=tudi|Gos2.1_seg_id=Artur-P-G7001-P700192.s49|Gos2.1_token_id=Artur-P-G7001-P700192.tok329
+18	do	do	ADP	Sg	Case=Gen	20	case	_	pronunciation=do|Gos2.1_seg_id=Artur-P-G7001-P700192.s49|Gos2.1_token_id=Artur-P-G7001-P700192.tok330
+19	tega	ta	DET	Pd-msg	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	pronunciation=tega|Gos2.1_seg_id=Artur-P-G7001-P700192.s49|Gos2.1_token_id=Artur-P-G7001-P700192.tok331
+20	instituta	institut	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	15	ccomp	_	pronunciation=instituta|Gos2.1_seg_id=Artur-P-G7001-P700192.s49|Gos2.1_token_id=Artur-P-G7001-P700192.tok332
+21	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	23	cc	_	pronunciation=se|Gos2.1_seg_id=Artur-P-G7001-P700192.s50|Gos2.1_token_id=Artur-P-G7001-P700192.tok334
+22	pravi	praviti	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	fixed	_	pronunciation=pravi|Gos2.1_seg_id=Artur-P-G7001-P700192.s50|Gos2.1_token_id=Artur-P-G7001-P700192.tok335
+23	instituta	institut	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	20	appos	_	pronunciation=instituta|Gos2.1_seg_id=Artur-P-G7001-P700192.s50|Gos2.1_token_id=Artur-P-G7001-P700192.tok337
+24	varuha	varuh	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	pronunciation=varuha|Gos2.1_seg_id=Artur-P-G7001-P700192.s50|Gos2.1_token_id=Artur-P-G7001-P700192.tok338
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 cc:preconj	color:blue
+1	rada	rad	ADV	Rgp	Degree=Pos	2	advmod	_	pronunciation=rada|Gos2.1_token_id=Gos205.tok859
+2	našla	najti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	pronunciation=našla|Gos2.1_token_id=Gos205.tok860
+3	ne	ne	PART	Q	Polarity=Neg	4	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos205.tok861
+4	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis:discourse	_	pronunciation=vem|Gos2.1_token_id=Gos205.tok862
+5	ali	ali	CCONJ	Cc	_	2	cc:preconj	_	pronunciation=al|Gos2.1_token_id=Gos205.tok863
+6	tako	tako	ADV	Rgp	Degree=Pos	9	discourse	_	pronunciation=tko|Gos2.1_token_id=Gos205.tok865
+7	da	da	SCONJ	Cs	_	9	mark	_	pronunciation=da|Gos2.1_token_id=Gos205.tok866
+8	nekje	nekje	ADV	Rgp	Degree=Pos	9	advmod	_	pronunciation=nekje|Gos2.1_token_id=Gos205.tok867
+9	pristanemo	pristati	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis:restart	_	pronunciation=pristanemo|Gos2.1_token_id=Gos205.tok868
+10	in	in	CCONJ	Cc	_	11	cc	_	pronunciation=in|Gos2.1_token_id=Gos205.tok869
+11	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	conj	_	pronunciation=mamo|Gos2.1_token_id=Gos205.tok870
+12	žur	žur	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	pronunciation=žur|Gos2.1_token_id=Gos205.tok871
+13	no	no	PART	Q	_	9	discourse	_	pronunciation=no|Gos2.1_token_id=Gos205.tok872
+14	na	na	ADP	Sa	Case=Acc	15	reparandum	_	pronunciation=na|Gos2.1_token_id=Gos205.tok873
+15	ne	ne	PART	Q	Polarity=Neg	16	advmod	_	pronunciation=ne|Gos2.1_token_id=Gos205.tok874
+16	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis:discourse	_	pronunciation=vem|Gos2.1_token_id=Gos205.tok875
+17	ali	ali	CCONJ	Cc	_	2	cc	_	pronunciation=al|Gos2.1_token_id=Gos205.tok876
 
 ~~~
 

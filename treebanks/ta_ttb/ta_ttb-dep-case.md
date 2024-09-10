@@ -22,8 +22,8 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	வளர்ச்சிக்க்	வளர்ச்சி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl:ஆக:dat	Translit=vaḷarccikk|LTranslit=vaḷarcci
-2	ஆக	ஆக	ADP	PP-------	AdpType=Post	1	case	1:case	Translit=āka|LTranslit=āka
+1	வளர்ச்சிக்க்	வளர்ச்சி	NOUN	NND-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl:ஆக:dat	LTranslit=vaḷarcci|Translit=vaḷarccikk
+2	ஆக	ஆக	ADP	PP-------	AdpType=Post	1	case	1:case	LTranslit=āka|Translit=āka
 3	போராடுவோம்	போராடு	VERB	Vr-F1P-AA	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=pōrāṭuvōm|LTranslit=pōrāṭu
 4	.	.	PUNCT	Z#-------	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
 
@@ -36,11 +36,11 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	பாஜகவ்	பாஜக	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obl	4:obl:உடன்:nom	Translit=pājakav|LTranslit=pājaka
-2	உடன்	உடன்	ADP	PP-------	AdpType=Post	1	case	1:case	Translit=uṭan|LTranslit=uṭan
+1	பாஜகவ்	பாஜக	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obl	4:obl:உடன்:nom	LTranslit=pājaka|Translit=pājakav
+2	உடன்	உடன்	ADP	PP-------	AdpType=Post	1	case	1:case	LTranslit=uṭan|Translit=uṭan
 3	கூட்டணி	கூட்டணி	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	obj	4:obj	Translit=kūṭṭaṇi|LTranslit=kūṭṭaṇi
-4	வைத்த்	வை	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=vaitt|LTranslit=vai
-5	இருக்கிறீர்கள்	இரு	AUX	VR-P2PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	Translit=irukkirīrkaḷ|LTranslit=iru
+4	வைத்த்	வை	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	LTranslit=vai|Translit=vaitt
+5	இருக்கிறீர்கள்	இரு	AUX	VR-P2PHAA	Gender=Com|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	LTranslit=iru|Translit=irukkirīrkaḷ
 6	.	.	PUNCT	Z#-------	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
 
 ~~~

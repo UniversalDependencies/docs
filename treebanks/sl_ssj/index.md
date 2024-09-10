@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,11 +80,11 @@ We wish to thank all of the contributors to the original ssj500k training corpus
 
 ## Features
 
-[Abbr](sl_ssj-feat-Abbr.html) – [Animacy](sl_ssj-feat-Animacy.html) – [Aspect](sl_ssj-feat-Aspect.html) – [Case](sl_ssj-feat-Case.html) – [Definite](sl_ssj-feat-Definite.html) – [Degree](sl_ssj-feat-Degree.html) – [Foreign](sl_ssj-feat-Foreign.html) – [Gender](sl_ssj-feat-Gender.html) – [Gender[psor]](sl_ssj-feat-Gender-psor.html) – [Mood](sl_ssj-feat-Mood.html) – [Number](sl_ssj-feat-Number.html) – [Number[psor]](sl_ssj-feat-Number-psor.html) – [NumForm](sl_ssj-feat-NumForm.html) – [NumType](sl_ssj-feat-NumType.html) – [Person](sl_ssj-feat-Person.html) – [Polarity](sl_ssj-feat-Polarity.html) – [Poss](sl_ssj-feat-Poss.html) – [PronType](sl_ssj-feat-PronType.html) – [Reflex](sl_ssj-feat-Reflex.html) – [Tense](sl_ssj-feat-Tense.html) – [Variant](sl_ssj-feat-Variant.html) – [VerbForm](sl_ssj-feat-VerbForm.html)
+[Abbr](sl_ssj-feat-Abbr.html) – [Animacy](sl_ssj-feat-Animacy.html) – [Aspect](sl_ssj-feat-Aspect.html) – [Case](sl_ssj-feat-Case.html) – [Definite](sl_ssj-feat-Definite.html) – [Degree](sl_ssj-feat-Degree.html) – [Foreign](sl_ssj-feat-Foreign.html) – [Gender](sl_ssj-feat-Gender.html) – [Gender[psor]](sl_ssj-feat-Gender-psor.html) – [Mood](sl_ssj-feat-Mood.html) – [Number](sl_ssj-feat-Number.html) – [Number[psor]](sl_ssj-feat-Number-psor.html) – [NumForm](sl_ssj-feat-NumForm.html) – [NumType](sl_ssj-feat-NumType.html) – [Person](sl_ssj-feat-Person.html) – [Polarity](sl_ssj-feat-Polarity.html) – [Poss](sl_ssj-feat-Poss.html) – [PronType](sl_ssj-feat-PronType.html) – [Reflex](sl_ssj-feat-Reflex.html) – [Tense](sl_ssj-feat-Tense.html) – [Typo](sl_ssj-feat-Typo.html) – [Variant](sl_ssj-feat-Variant.html) – [VerbForm](sl_ssj-feat-VerbForm.html)
 
 ## Relations
 
-[acl](sl_ssj-dep-acl.html) – [advcl](sl_ssj-dep-advcl.html) – [advmod](sl_ssj-dep-advmod.html) – [amod](sl_ssj-dep-amod.html) – [appos](sl_ssj-dep-appos.html) – [aux](sl_ssj-dep-aux.html) – [case](sl_ssj-dep-case.html) – [cc](sl_ssj-dep-cc.html) – [cc:preconj](sl_ssj-dep-cc-preconj.html) – [ccomp](sl_ssj-dep-ccomp.html) – [conj](sl_ssj-dep-conj.html) – [cop](sl_ssj-dep-cop.html) – [csubj](sl_ssj-dep-csubj.html) – [dep](sl_ssj-dep-dep.html) – [det](sl_ssj-dep-det.html) – [discourse](sl_ssj-dep-discourse.html) – [dislocated](sl_ssj-dep-dislocated.html) – [expl](sl_ssj-dep-expl.html) – [fixed](sl_ssj-dep-fixed.html) – [flat](sl_ssj-dep-flat.html) – [flat:foreign](sl_ssj-dep-flat-foreign.html) – [flat:name](sl_ssj-dep-flat-name.html) – [iobj](sl_ssj-dep-iobj.html) – [list](sl_ssj-dep-list.html) – [mark](sl_ssj-dep-mark.html) – [nmod](sl_ssj-dep-nmod.html) – [nsubj](sl_ssj-dep-nsubj.html) – [nummod](sl_ssj-dep-nummod.html) – [obj](sl_ssj-dep-obj.html) – [obl](sl_ssj-dep-obl.html) – [orphan](sl_ssj-dep-orphan.html) – [parataxis](sl_ssj-dep-parataxis.html) – [punct](sl_ssj-dep-punct.html) – [root](sl_ssj-dep-root.html) – [vocative](sl_ssj-dep-vocative.html) – [xcomp](sl_ssj-dep-xcomp.html)
+[acl](sl_ssj-dep-acl.html) – [advcl](sl_ssj-dep-advcl.html) – [advmod](sl_ssj-dep-advmod.html) – [amod](sl_ssj-dep-amod.html) – [appos](sl_ssj-dep-appos.html) – [aux](sl_ssj-dep-aux.html) – [case](sl_ssj-dep-case.html) – [cc](sl_ssj-dep-cc.html) – [cc:preconj](sl_ssj-dep-cc-preconj.html) – [ccomp](sl_ssj-dep-ccomp.html) – [conj](sl_ssj-dep-conj.html) – [cop](sl_ssj-dep-cop.html) – [csubj](sl_ssj-dep-csubj.html) – [dep](sl_ssj-dep-dep.html) – [det](sl_ssj-dep-det.html) – [discourse](sl_ssj-dep-discourse.html) – [dislocated](sl_ssj-dep-dislocated.html) – [expl](sl_ssj-dep-expl.html) – [fixed](sl_ssj-dep-fixed.html) – [flat](sl_ssj-dep-flat.html) – [flat:foreign](sl_ssj-dep-flat-foreign.html) – [flat:name](sl_ssj-dep-flat-name.html) – [goeswith](sl_ssj-dep-goeswith.html) – [iobj](sl_ssj-dep-iobj.html) – [list](sl_ssj-dep-list.html) – [mark](sl_ssj-dep-mark.html) – [nmod](sl_ssj-dep-nmod.html) – [nsubj](sl_ssj-dep-nsubj.html) – [nummod](sl_ssj-dep-nummod.html) – [obj](sl_ssj-dep-obj.html) – [obl](sl_ssj-dep-obl.html) – [orphan](sl_ssj-dep-orphan.html) – [parataxis](sl_ssj-dep-parataxis.html) – [punct](sl_ssj-dep-punct.html) – [root](sl_ssj-dep-root.html) – [vocative](sl_ssj-dep-vocative.html) – [xcomp](sl_ssj-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -221,7 +221,7 @@ We wish to thank all of the contributors to the original ssj500k training corpus
       <li>NOUN: primer, dan, ljudi, čas, del, času, dni, tolarjev, svetu, milijonov</li>
       <li>NUM: dva, eden, en, enega, dveh, enem, tri, treh, trije, štiri</li>
       <li>PRON: ga, jih, mu, jim, kdo, njim, njimi, njih, njem, nihče</li>
-      <li>PROPN: New, Maribor, Janez, Mariboru, Bojan, ESS, Windows, Jože, Slovenci, Slovencev</li>
+      <li>PROPN: Maribor, Janez, Mariboru, New, Bojan, ESS, Jože, Slovenci, Slovencev, Boris</li>
       <li>VERB-Part: imel, moral, povedal, imeli, morali, bil, rekel, začel, dejal, postal</li>
     </ul>
   </li>
@@ -260,7 +260,7 @@ We wish to thank all of the contributors to the original ssj500k training corpus
   <li>Inan
     <ul>
       <li>NOUN: primer, dan, čas, način, del, razvoj, denar, teden, svet, sistem</li>
-      <li>PROPN: Dunaj, Irak, Jeruzalem, Nato, Pariz, Windows, Atlantik, Bled, Bruselj, Center</li>
+      <li>PROPN: Dunaj, Irak, Jeruzalem, Nato, Pariz, Windows, Atlantik, Bled, Bruselj, Egipt</li>
     </ul>
   </li>
 </ul>
@@ -316,7 +316,7 @@ We wish to thank all of the contributors to the original ssj500k training corpus
       <li>NOUN: leta, strani, delo, primer, dan, leto, čas, del, mesto, času</li>
       <li>NUM: eno, ena, eden, enega, en, enem, eni, ene, enim, dvoje</li>
       <li>PRON: ga, jo, kar, mu, kaj, mi, ji, me, nekaj, kdo</li>
-      <li>PROPN: Slovenije, Sloveniji, EU, Slovenija, Evropi, Ljubljana, Ljubljani, New, Evrope, Slovenijo</li>
+      <li>PROPN: Slovenije, Sloveniji, EU, Slovenija, Evropi, Ljubljana, Ljubljani, Evrope, Slovenijo, Maribor</li>
       <li>VERB-Fin: je, ima, ni, gre, bo, mora, pomeni, pravi, zdi, velja</li>
       <li>VERB-Part: bilo, imel, moral, povedal, bila, bil, rekel, začel, dejal, postal</li>
     </ul>
@@ -411,7 +411,7 @@ We wish to thank all of the contributors to the original ssj500k training corpus
       <li>NOUN: predsednik, ljudje, del, večina, človek, država, čas, mesto, zakon, otroci</li>
       <li>NUM: ena, eden, dva, dve, trije, tri, en, pet, tisoč, eno</li>
       <li>PRON: kar, kaj, kdo, jaz, nič, nekaj, nihče, nekdo, vi, on</li>
-      <li>PROPN: Slovenija, Ljubljana, New, Maribor, Janez, LJUBLJANA, Bojan, Jože, Slovenci, Boris</li>
+      <li>PROPN: Slovenija, Ljubljana, Maribor, Janez, LJUBLJANA, New, Bojan, Jože, Slovenci, Boris</li>
     </ul>
   </li>
 </ul>
@@ -836,7 +836,7 @@ We wish to thank all of the contributors to the original ssj500k training corpus
     <ul>
       <li>Yes
         <ul>
-          <li>X: dr., št., d., t., m., o., p., i., l., oz.</li>
+          <li>X: dr., št., d., t., m., o., p., i., oz., itd.</li>
         </ul>
       </li>
     </ul>
@@ -848,7 +848,7 @@ We wish to thank all of the contributors to the original ssj500k training corpus
     <ul>
       <li>Yes
         <ul>
-          <li>X: de, the, of, a, la, and, to, on, el, von</li>
+          <li>X: de, the, of, a, la, New, and, to, Al, on</li>
         </ul>
       </li>
     </ul>
@@ -877,6 +877,18 @@ We wish to thank all of the contributors to the original ssj500k training corpus
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>DET: pol</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -896,24 +908,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Gen (258)</li>
+      <li>VERB-Fin--NOUN-Gen (256)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(okoli) (2)</li>
-      <li>VERB-Fin--NOUN-Nom (3322)</li>
+      <li>VERB-Fin--NOUN-Nom (3321)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (28)</li>
       <li>VERB-Fin--PRON-Nom (297)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Nom (47)</li>
-      <li>VERB-Inf--PRON-Nom (4)</li>
-      <li>VERB-Part--NOUN-Gen (174)</li>
+      <li>VERB-Inf--PRON-Nom (6)</li>
+      <li>VERB-Part--NOUN-Gen (171)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (2)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Nom (3133)</li>
+      <li>VERB-Part--NOUN-Nom (3131)</li>
       <li>VERB-Part--PRON-Acc (7)</li>
       <li>VERB-Part--PRON-Gen (21)</li>
-      <li>VERB-Part--PRON-Nom (242)</li>
+      <li>VERB-Part--PRON-Nom (243)</li>
     </ul>
   </li>
 </ul>
@@ -921,37 +933,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (2743)</li>
+      <li>VERB-Fin--NOUN-Acc (2731)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (128)</li>
-      <li>VERB-Fin--NOUN-Gen (554)</li>
+      <li>VERB-Fin--NOUN-Dat (66)</li>
+      <li>VERB-Fin--NOUN-Gen (557)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
       <li>VERB-Fin--PRON (16)</li>
-      <li>VERB-Fin--PRON-Acc (777)</li>
-      <li>VERB-Fin--PRON-Dat (227)</li>
+      <li>VERB-Fin--PRON-Acc (769)</li>
+      <li>VERB-Fin--PRON-Dat (128)</li>
       <li>VERB-Fin--PRON-Gen (50)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
-      <li>VERB-Inf--NOUN-Acc (689)</li>
-      <li>VERB-Inf--NOUN-Dat (46)</li>
-      <li>VERB-Inf--NOUN-Gen (221)</li>
+      <li>VERB-Inf--NOUN-Acc (682)</li>
+      <li>VERB-Inf--NOUN-Dat (23)</li>
+      <li>VERB-Inf--NOUN-Gen (220)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON (8)</li>
-      <li>VERB-Inf--PRON-Acc (175)</li>
-      <li>VERB-Inf--PRON-Dat (34)</li>
-      <li>VERB-Inf--PRON-Gen (49)</li>
-      <li>VERB-Inf--PRON-Nom (2)</li>
-      <li>VERB-Part--NOUN-Acc (3020)</li>
-      <li>VERB-Part--NOUN-Dat (145)</li>
-      <li>VERB-Part--NOUN-Gen (562)</li>
+      <li>VERB-Inf--PRON-Acc (172)</li>
+      <li>VERB-Inf--PRON-Dat (10)</li>
+      <li>VERB-Inf--PRON-Gen (47)</li>
+      <li>VERB-Part--NOUN-Acc (3012)</li>
+      <li>VERB-Part--NOUN-Dat (88)</li>
+      <li>VERB-Part--NOUN-Gen (564)</li>
       <li>VERB-Part--NOUN-Gen-ADP(do) (3)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (45)</li>
-      <li>VERB-Part--PRON-Acc (1029)</li>
-      <li>VERB-Part--PRON-Dat (304)</li>
-      <li>VERB-Part--PRON-Gen (68)</li>
-      <li>VERB-Part--PRON-Nom (2)</li>
+      <li>VERB-Part--PRON-Acc (1011)</li>
+      <li>VERB-Part--PRON-Dat (132)</li>
+      <li>VERB-Part--PRON-Gen (64)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
       <li>VERB-Sup--NOUN-Acc (7)</li>
       <li>VERB-Sup--NOUN-Gen (1)</li>
       <li>VERB-Sup--PRON-Acc (1)</li>
@@ -962,23 +973,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (15)</li>
-      <li>VERB-Fin--NOUN-Dat (127)</li>
+      <li>VERB-Fin--NOUN-Acc (27)</li>
+      <li>VERB-Fin--NOUN-Dat (189)</li>
       <li>VERB-Fin--NOUN-Loc (2)</li>
-      <li>VERB-Fin--PRON-Acc (22)</li>
-      <li>VERB-Fin--PRON-Dat (192)</li>
-      <li>VERB-Inf--NOUN-Acc (8)</li>
-      <li>VERB-Inf--NOUN-Dat (44)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Fin--PRON-Acc (30)</li>
+      <li>VERB-Fin--PRON-Dat (289)</li>
+      <li>VERB-Inf--NOUN-Acc (15)</li>
+      <li>VERB-Inf--NOUN-Dat (67)</li>
+      <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Dat (45)</li>
-      <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Part--NOUN-Acc (19)</li>
-      <li>VERB-Part--NOUN-Dat (145)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Dat (70)</li>
+      <li>VERB-Inf--PRON-Gen (3)</li>
+      <li>VERB-Part--NOUN-Acc (27)</li>
+      <li>VERB-Part--NOUN-Dat (202)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--PRON (4)</li>
-      <li>VERB-Part--PRON-Acc (27)</li>
-      <li>VERB-Part--PRON-Dat (295)</li>
+      <li>VERB-Part--PRON-Acc (45)</li>
+      <li>VERB-Part--PRON-Dat (467)</li>
+      <li>VERB-Part--PRON-Gen (4)</li>
       <li>VERB-Sup--PRON-Acc (1)</li>
     </ul>
   </li>
@@ -989,7 +1002,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 150 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: predstaviti se, izbrati si, zagotoviti si, poiskati si, privoščiti si, pridobiti si, kupiti si, narediti si, pomagati si, sleči se, vpisati se, nadeti si, obdati se, obleči si, obremenjevati se, poviteziti se, poškodovati se, preživljati se, prijaviti se, pripeljati se, priskrbeti si, reči si, rešiti se, služiti si, umiti se, uničiti si, zaščititi se, zlomiti si, želeti si, biti se, bičati se, braniti se, darovati sebe, delati si, določiti si, doživeti svojo, financirati se, hraniti se, identificirati se, iskati si, iskati svojo, izboljšati si, izboriti si, izbrizgati si, izdelati si, izničiti se, izprositi si, karikirati sebe, kaznovati sebe, kopati si</li>
+  <li>This corpus contains 151 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: predstaviti se, izbrati si, zagotoviti si, poiskati si, privoščiti si, pridobiti si, kupiti si, narediti si, pomagati si, sleči se, vpisati se, nadeti si, obdati se, obleči si, obremenjevati se, poviteziti se, poškodovati se, preživljati se, prijaviti se, pripeljati se, priskrbeti si, reči si, rešiti se, služiti si, umiti se, uničiti si, zaščititi se, zlomiti si, biti se, bičati se, braniti se, darovati sebe, delati si, določiti si, doživeti svojo, financirati se, hraniti se, identificirati se, iskati si, iskati svojo, izboljšati si, izboriti si, izbrizgati si, izdelati si, izničiti se, izprositi si, karikirati sebe, kaznovati sebe, kopati si, krojiti si</li>
     <ul>
       <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: obleči, poviteziti, preobleči</li>
     </ul>
@@ -999,5 +1012,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 3 relation subtypes: <a>cc:preconj</a>, <a>flat:foreign</a>, <a>flat:name</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>reparandum</a></li>
 </ul>

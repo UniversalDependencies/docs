@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yakut-YKTDT: POS Tags: `AUX`
 
-There are 2 `AUX` lemmas (1%), 4 `AUX` types (1%) and 30 `AUX` tokens (2%).
-Out of 14 observed tags, the rank of `AUX` is: 13 in number of lemmas, 11 in number of types and 10 in number of tokens.
+There are 2 `AUX` lemmas (0%), 4 `AUX` types (1%) and 30 `AUX` tokens (2%).
+Out of 14 observed tags, the rank of `AUX` is: 14 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>баар, суох</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.000000 (the average of all parts of speech is 1.506266).
+The form / lemma ratio of `AUX` is 2.000000 (the average of all parts of speech is 1.502358).
 
 The 1st highest number of forms (3) was observed with the lemma “баар”: <em>баар, баарбыт, баарый</em>.
 

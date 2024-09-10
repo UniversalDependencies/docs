@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kaapor-TuDeT: POS Tags: `PART`
 
-There are 11 `PART` lemmas (6%), 13 `PART` types (6%) and 37 `PART` tokens (10%).
-Out of 13 observed tags, the rank of `PART` is: 6 in number of lemmas, 6 in number of types and 5 in number of tokens.
+There are 11 `PART` lemmas (5%), 13 `PART` types (6%) and 37 `PART` tokens (10%).
+Out of 14 observed tags, the rank of `PART` is: 6 in number of lemmas, 6 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>je, ke, tĩ, tipe, riki, ta, mi, upa, ã, ɪm</em>
 
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>tĩ</em> (<tt><a href="urb_tudet-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.181818 (the average of all parts of speech is 1.160000).
+The form / lemma ratio of `PART` is 1.181818 (the average of all parts of speech is 1.154229).
 
 The 1st highest number of forms (2) was observed with the lemma “je”: <em>je, je‘ɪ</em>.
 

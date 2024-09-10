@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `nummod:entity`: <tt
 7	1	1	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
 8	в	в	ADP	_	_	9	case	_	_
 9	Дятьково	Дятьково	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|NameType=Geo|Number=Sing	5	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_~
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

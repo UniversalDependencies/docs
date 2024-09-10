@@ -34,4 +34,4 @@ usually happen.
 
 * _<b>andava</b> a casa_ "he/she was going home"
 
-<!-- Interlanguage links updated Po lis 14 15:34:59 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:24 CEST -->

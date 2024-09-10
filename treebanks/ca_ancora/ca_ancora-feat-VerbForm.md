@@ -12,17 +12,17 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 69537 tokens (13%) have a non-empty value of `VerbForm`.
 9145 types (28%) occur at least once with a non-empty value of `VerbForm`.
 2936 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (41897; 8% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (22051; 4% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (5589; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (41896; 8% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (22052; 4% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (5589; 1% instances).
 
 ### `VERB`
 
-41897 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+41896 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (35082; 84%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (23446; 56%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (23445; 56%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (35081; 84%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (23446; 56%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (23445; 56%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (18457; 44% of non-empty `VerbForm`): <em>té, ha, fa, tenen, considera, cal, farà, vol, tracta, demana</em>
+* `Fin` (18456; 44% of non-empty `VerbForm`): <em>té, ha, fa, tenen, considera, cal, farà, vol, tracta, demana</em>
 * `Ger` (1144; 3% of non-empty `VerbForm`): <em>fent, treballant, dient, tenint, aprofitant, donant, passant, seguint, coincidint, demanant</em>
 * `Inf` (15459; 37% of non-empty `VerbForm`): <em>fer, dir, tenir, donar, arribar, aconseguir, veure, passar, presentar, deixar</em>
 * `Part` (6837; 16% of non-empty `VerbForm`): <em>fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</em>
@@ -63,13 +63,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-22051 <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+22052 <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (19283; 87%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18753; 85%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (17561; 80%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15597; 71%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (19284; 87%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18754; 85%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (17562; 80%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15598; 71%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (19829; 90% of non-empty `VerbForm`): <em>va, ha, és, van, han, són, està, havia, pot, serà</em>
+* `Fin` (19830; 90% of non-empty `VerbForm`): <em>va, ha, és, van, han, són, està, havia, pot, serà</em>
 * `Ger` (54; 0% of non-empty `VerbForm`): <em>sent, essent, estant, havent, podent, sabent</em>
 * `Inf` (1516; 7% of non-empty `VerbForm`): <em>ser, haver, poder, estar, saber, anar</em>
 * `Part` (652; 3% of non-empty `VerbForm`): <em>estat, pogut, hagut, anat, sigut, sabut, poder</em>
@@ -114,21 +114,21 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (5589; 100% of non-empty `VerbForm`): <em>passat, previst, passada, obert, relacionats, format, oberta, privada, situat, afectats</em>
-* `EMPTY` (24492): <em>gran, primer, nou, primera, general, nova, catalana, espanyol, grans, baix</em>
+* `EMPTY` (24493): <em>gran, primer, nou, primera, general, nova, catalana, espanyol, grans, baix</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (980) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2788; 78%),
+<tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2785; 78%),
 <tt>VERB --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> VERB</tt> (75; 85%),
-<tt>AUX --[<tt><a href="ca_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (46; 62%),
-<tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (29; 66%),
-<tt>VERB --[<tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (26; 54%),
-<tt>AUX --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (19; 51%),
-<tt>AUX --[<tt><a href="ca_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 60%),
+<tt>VERB --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (28; 67%),
+<tt>VERB --[<tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (26; 55%),
 <tt>VERB --[<tt><a href="ca_ancora-dep-csubj.html">csubj</a></tt>]--> AUX</tt> (3; 60%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>AUX --[<tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%).
+<tt>AUX --[<tt><a href="ca_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="ca_ancora-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>AUX --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="ca_ancora-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%).
 

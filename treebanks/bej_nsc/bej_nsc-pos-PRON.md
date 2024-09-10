@@ -6,77 +6,90 @@ udver: '2'
 
 ## Treebank Statistics: UD_Beja-NSC: POS Tags: `PRON`
 
-There are 1 `PRON` lemmas (6%), 23 `PRON` types (7%) and 79 `PRON` tokens (9%).
-Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 3 in number of types and 5 in number of tokens.
+There are 1 `PRON` lemmas (6%), 60 `PRON` types (5%) and 395 `PRON` tokens (7%).
+Out of 16 observed tags, the rank of `PRON` is: 11 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>_</em>
 
-The 10 most frequent `PRON` types:  <em>=heːb, hoːj, =i, =oː, ani, kina, =eː, =isi, =uːn, hinin</em>
+The 10 most frequent `PRON` types:  <em>=heːb, =i, =oː, ani, =eː, kna, =hoːk, =oːk, =joː, =ji</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 171, <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> 169, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 132, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 123, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 79, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 28, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 19, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="bej_nsc-pos-X.html">X</a></tt> 3, <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> 1126, <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 1097, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 933, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 894, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 408, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 395, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 298, <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> 167, <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> 160, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 125, <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 104, <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> 77, <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> 32, <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 28, <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> 26, <tt><a href="bej_nsc-pos-X.html">X</a></tt> 18)
 
-The 10 most frequent ambiguous types:  <em>=i</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 10, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 2, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ani</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 4, <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 2), <em>=eː</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>hoː</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 1), <em>=jeː</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>=ji</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>beːn</em> (<tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1), <em>oːn</em> (<tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 3, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>=i</em> (<tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 61, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 48, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 12, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 10), <em>ani</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 27, <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 9, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 2), <em>=eː</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 23, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 13, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1), <em>=ji</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 9, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 7, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 1), <em>=jeː</em> (<tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 6, <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 3), <em>hoː</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 6, <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 1), <em>=eːk</em> (<tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2), <em>i=</em> (<tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 145, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2, <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>jhaː</em> (<tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2, <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 1), <em>nafs</em> (<tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2)
 
 
 * <em>=i</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 10: <em>tak / kaːm <b>=i</b> / hoː kʷiɖja ini //</em>
-  * <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 2: <em>doːr / oː= meːk oːn ba= aakaj / kaːm han ʔamaː =b <b>=i</b> ini // mhaj nafara nuːn / naː =t bi= tʔam =eːb //</em>
-  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>uː= dhaj kass =aː iktiːnn <b>=i</b> kaːm =u =it / ʔajaːj tak =uːn hoːj ammar~rija eːn eː= nda /</em>
+  * <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 61: <em>jhakseːtiːt / i= mbaːba <b>=i</b> dhaːj haːj ɖaːbiːni eːn //</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 48: <em>tak / kaːm <b>=i</b> / hoː kʷiɖja ini //</em>
+  * <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 12: <em>daːjiː =t <b>=i</b> diːtiːt / j= ʔar han hus ikatina /</em>
+  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 10: <em>oːn ajhan <b>=i</b> gabal =eː =ka harʔiː sa~sakja /</em>
 * <em>ani</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 4: <em>ʃamattan =i =ji ʃamateː =ka <b>ani</b> i= mhiːn =i naːjeː mhan /</em>
-  * <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 2: <em>tak rhita tini =oː =hoːb ? oː= tak rhan <b>ani</b> /</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 27: <em>ʃamattan =i =ji ʃamat =eː =ka <b>ani</b> i= mhiːn =i naːjeː mhan /</em>
+  * <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> 9: <em>tak rhita tini =oː =hoːb ? oː= tak rhan <b>ani</b> /</em>
+  * <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 2: <em>uːn i= bissa / tikʷ / t= ʔarabijaːj =t =iː <b>ani</b> =hoːb / bass whiː ingad /</em>
 * <em>=eː</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2: <em>bak tʔiit =eːt ʔiːbaːb / dh <b>=eː</b> tiki idi eːn //</em>
-  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>t= ʔoːr / oː= meːk tifidin galeːltan =hoːb / doːr han / hoːb-ej =uːn iraːnaj / oː= meːk ʔama =b =wa tini =hoːb ? ani i= meːki mʔam <b>=eː</b> sagi =b =i idi ini //</em>
-* <em>hoː</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2: <em>tak / kaːm =i / <b>hoː</b> kʷiɖja ini //</em>
-  * <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 1: <em><b>hoː</b> =b hoːsoː ʃʔagaː =b =u uː= tak // ʔasalaː =b iːkti =jeːb /</em>
-* <em>=jeː</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1: <em>j= halaka =b =wa / ji= i= tak =iːb areː eːn eː= gaɖʔa <b>=jeː</b> na / ani ti= kina =t =i / ti= sitoːboːj ti= astoːbi =jeːt akteːn =aj // sallama =heːb tini =t =heːb /</em>
-  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>hamilaː =b akati <b>=jeː</b> kaːm =u =it // harawaː =b harawaː =b =u //</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 23: <em>winneːt ʔareːji eːn / ʔakra reːr // mhaj koː =jeː j= ʔar <b>=eː</b> //</em>
+  * <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 13: <em>ʃamattan =i =ji ʃamat <b>=eː</b> =ka ani i= mhiːn =i naːjeː mhan /</em>
+  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 12: <em>oː= kna hoːj bi= ibarin <b>=eː</b> =na ki= thaːj eːn /</em>
+  * <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1: <em>uː= tak areː / ti= ndeː =t =i =da jʔeːtiːt / w= ʔoːr =oːk rhan / ti= karaːma =t <b>=eː</b> firar# / ti= tifirʔi =jeːt iktimna / afirha =b akajeː =wa / i= dhaj =iːb / hawaːjeː =wa rhan indi eːn //</em>
 * <em>=ji</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1: <em>uːn uː= tak / doːr han kanaː <b>=ji</b> ki= iki / ti= takat hiːs =heːb =ajt //</em>
-  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 1: <em>ʃamattan =i <b>=ji</b> ʃamateː =ka ani i= mhiːn =i naːjeː mhan /</em>
-* <em>beːn</em>
-  * <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> 2: <em>mʔaːna dija waliːka =b =u =it / sagi haːʃ =iː // <b>beːn</b> / ʔarjab =wa mariː =b i= dar =iː /</em>
-  * <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 1: <em><b>beːn</b> aː= nda eːjaːn =eːb oː= doːr / i= kaːm =i jam gʷʔasaː =b =u /</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1: <em>ontʔa / <b>beːn</b> / t= ʔoːti / i= bhalijeː =da // i= kaːmi wanas / dh =eː hadiːdja ini //</em>
-* <em>oːn</em>
-  * <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 3: <em><b>oːn</b> ti= ʃaː =t =oːn tamna ti= i̠ːjʔaː gʷʔana /</em>
-  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 1: <em><b>oːn</b> hallaːn hasara t= ʔabaː =t =iːb kirifaː =b =u //</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 9: <em>uːn uː= tak / doːr han kanaː <b>=ji</b> ki= iki / ti= takat hiːs =heːb =ajt //</em>
+  * <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 7: <em>diweː / eːn i= miːmaʃa <b>=ji</b> / dhaj itfirʔin =eːb hiːsi ini //</em>
+  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 3: <em>ʃamattan =i <b>=ji</b> ʃamat =eː =ka ani i= mhiːn =i naːjeː mhan /</em>
+  * <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> 1: <em>haːl =oːkna <b>=ji</b> eːdn =hoːb / uː= tak ʔakra mhijeː / duːr =uːn duːr =uːn bass w= ʔoːr hiːsi =hoːk iːd =eːt toː= na nuːn /</em>
+* <em>=jeː</em>
+  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 13: <em>manniima ini =jeːb / i= manniimti =iː imri <b>=jeː</b> =na tikati //</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 6: <em>winneːt ʔareːji eːn / ʔakra reːr // mhaj koː <b>=jeː</b> j= ʔar =eː //</em>
+  * <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> 3: <em>ʃakʷiːn =t dhaːj dannʔi eːn // eːn i= taktʔi <b>=jeː</b> =da //</em>
+* <em>hoː</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 6: <em>tak / kaːm =i / <b>hoː</b> kʷiɖja ini //</em>
+  * <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 1: <em><b>hoː</b> =b hoːs =oː ʃʔagaː =b =u uː= tak // ʔasalaː =b iːkti =jeːb /</em>
+* <em>=eːk</em>
+  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 10: <em>ɖa~ɖibti =eːk wari =t hariwa naː =t teːtgiːm <b>=eːk</b> /</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2: <em>ɖa~ɖibti <b>=eːk</b> wari =t hariwa naː =t teːtgiːm =eːk /</em>
+* <em>i=</em>
+  * <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> 145: <em>agar jʔan =t <b>i=</b> gaw =i /</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2: <em>i= baːgi oːn / i= girma =wwa / i= ragada <b>i=</b> suːriː =b =wa / bak ifdin igid / ʃʔiː uː= jhaːm ajaː =b =u =it /</em>
+  * <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> 2: <em>eːn i= gabal <b>i=</b> tʔa / hadiːdti =jeː =naː =iːb // riba eːfeːn /</em>
+* <em>jhaː</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2: <em>jaː iraːni / bak tʔiit =eː =na ini =hoːb <b>jhaː</b> / oːn oː= gaw suːriː / dhaj hanka =oːk // hoːj akaː =b =a /</em>
+  * <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> 1: <em>uːn w= ʔeːga / daːjeːb bak tageːgeːtiːt / tak ikati =hoːb // <b>jhaː</b> ʔaːw =wa indi eːn baruːk /</em>
+* <em>nafs</em>
+  * <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> 2: <em>i= tak =iː =ka ʔaɖami =ka =b akajeː i= <b>nafs</b> =i rhi /</em>
+  * <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> 2: <em>ti= ʃartija / kaːm =i meːs =iːt / i= <b>nafs</b> =i hasama =b akajeː amri /</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 23.000000 (the average of all parts of speech is 19.625000).
+The form / lemma ratio of `PRON` is 60.000000 (the average of all parts of speech is 76.500000).
 
-The 1st highest number of forms (23) was observed with the lemma “_”: <em>=aː, =eː, =heːb, =i, =iji, =isi, =jeː, =ji, =joː, =oː, =oːk, =oːn, =uːn, ani, barijoːk, beːn, hinin, hoː, hoːj, hoːsoː, kina, naːn, oːn</em>.
+The 1st highest number of forms (60) was observed with the lemma “_”: <em>=aː, =aːk, =b, =eː, =eːk, =heːb, =hi, =hoːk, =hoːn, =i, =iheː, =ihi, =iji, =ijoː, =ijoːk, =iːsi, =iːsiː, =iːsoː, =jaː, =jeː, =ji, =joː, =joːk, =juːk, =oː, =oːk, =oːkna, =oːn, =saj, =siːsi, =t, =uː, =uːn, aneːb, ani, aniː, barijoːk, barjoː, baroːk, baruː, baruːk, beːn, hinin, hoː, i=, imbareː, jhaː, ji=, kina, kna, nafs, naː, naːn, oːn, ti=, umbaruː, umbaruːk, wi=, ʔani, ʔaːw</em>.
 
-`PRON` occurs with 9 features: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt> (61; 77% instances), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt> (58; 73% instances), <tt><a href="bej_nsc-feat-Case.html">Case</a></tt> (48; 61% instances), <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt> (23; 29% instances), <tt><a href="bej_nsc-feat-Reflex.html">Reflex</a></tt> (3; 4% instances), <tt><a href="bej_nsc-feat-Deixis.html">Deixis</a></tt> (2; 3% instances), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt> (2; 3% instances), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt> (2; 3% instances), <tt><a href="bej_nsc-feat-Polite.html">Polite</a></tt> (1; 1% instances)
+`PRON` occurs with 11 features: <tt><a href="bej_nsc-feat-Number.html">Number</a></tt> (360; 91% instances), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt> (353; 89% instances), <tt><a href="bej_nsc-feat-Case.html">Case</a></tt> (286; 72% instances), <tt><a href="bej_nsc-feat-Poss.html">Poss</a></tt> (193; 49% instances), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt> (28; 7% instances), <tt><a href="bej_nsc-feat-Reflex.html">Reflex</a></tt> (19; 5% instances), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt> (10; 3% instances), <tt><a href="bej_nsc-feat-Polite.html">Polite</a></tt> (9; 2% instances), <tt><a href="bej_nsc-feat-PartType.html">PartType</a></tt> (6; 2% instances), <tt><a href="bej_nsc-feat-Definite.html">Definite</a></tt> (3; 1% instances), <tt><a href="bej_nsc-feat-Deixis.html">Deixis</a></tt> (2; 1% instances)
 
-`PRON` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Deixis=Prox`, `Deixis=Remt`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `Poss=Yes`, `PronType=Dem`, `Reflex=Yes`
+`PRON` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Definite=Def`, `Deixis=Prox`, `Deixis=Remt`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `PartType=Int`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `Poss=Yes`, `PronType=Dem`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 21 feature combinations.
-The most frequent feature combination is `Number=Sing|Person=1` (27 tokens).
-Examples: <em>=heːb, =oː, =joː</em>
+`PRON` occurs with 51 feature combinations.
+The most frequent feature combination is `Number=Sing|Person=1` (73 tokens).
+Examples: <em>=heːb, =oː, hoː, =joː, aneːb</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 10 different relations: <tt><a href="bej_nsc-dep-obj.html">obj</a></tt> (30; 38% instances), <tt><a href="bej_nsc-dep-nmod-poss.html">nmod:poss</a></tt> (16; 20% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (15; 19% instances), <tt><a href="bej_nsc-dep-nsubj.html">nsubj</a></tt> (6; 8% instances), <tt><a href="bej_nsc-dep-obl-arg.html">obl:arg</a></tt> (4; 5% instances), <tt><a href="bej_nsc-dep-dep-comp.html">dep:comp</a></tt> (2; 3% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (2; 3% instances), <tt><a href="bej_nsc-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="bej_nsc-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="bej_nsc-dep-root.html">root</a></tt> (1; 1% instances)
+`PRON` nodes are attached to their parents using 19 different relations: <tt><a href="bej_nsc-dep-nmod-poss.html">nmod:poss</a></tt> (142; 36% instances), <tt><a href="bej_nsc-dep-obj.html">obj</a></tt> (112; 28% instances), <tt><a href="bej_nsc-dep-obl-mod.html">obl:mod</a></tt> (36; 9% instances), <tt><a href="bej_nsc-dep-nsubj.html">nsubj</a></tt> (35; 9% instances), <tt><a href="bej_nsc-dep-nmod.html">nmod</a></tt> (14; 4% instances), <tt><a href="bej_nsc-dep-dep-comp.html">dep:comp</a></tt> (13; 3% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (9; 2% instances), <tt><a href="bej_nsc-dep-dislocated-subj.html">dislocated:subj</a></tt> (9; 2% instances), <tt><a href="bej_nsc-dep-iobj.html">iobj</a></tt> (7; 2% instances), <tt><a href="bej_nsc-dep-obl-arg.html">obl:arg</a></tt> (4; 1% instances), <tt><a href="bej_nsc-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="bej_nsc-dep-dislocated.html">dislocated</a></tt> (2; 1% instances), <tt><a href="bej_nsc-dep-dislocated-obj.html">dislocated:obj</a></tt> (2; 1% instances), <tt><a href="bej_nsc-dep-reparandum.html">reparandum</a></tt> (2; 1% instances), <tt><a href="bej_nsc-dep-vocative.html">vocative</a></tt> (2; 1% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="bej_nsc-dep-dep-conj.html">dep:conj</a></tt> (1; 0% instances), <tt><a href="bej_nsc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="bej_nsc-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 5 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (58; 73% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (17; 22% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `PRON` nodes belong to 13 different parts of speech: <tt><a href="bej_nsc-pos-VERB.html">VERB</a></tt> (176; 45% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (150; 38% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (32; 8% instances), <tt><a href="bej_nsc-pos-ADJ.html">ADJ</a></tt> (15; 4% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="bej_nsc-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="bej_nsc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="bej_nsc-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="bej_nsc-pos-X.html">X</a></tt> (1; 0% instances)
 
-67 (85%) `PRON` nodes are leaves.
+326 (83%) `PRON` nodes are leaves.
 
-6 (8%) `PRON` nodes have one child.
+43 (11%) `PRON` nodes have one child.
 
-4 (5%) `PRON` nodes have two children.
+21 (5%) `PRON` nodes have two children.
 
-2 (3%) `PRON` nodes have three or more children.
+5 (1%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 4.
 
-Children of `PRON` nodes are attached using 7 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (7; 32% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (6; 27% instances), <tt><a href="bej_nsc-dep-case.html">case</a></tt> (4; 18% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (2; 9% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (1; 5% instances), <tt><a href="bej_nsc-dep-nmod.html">nmod</a></tt> (1; 5% instances), <tt><a href="bej_nsc-dep-nmod-poss.html">nmod:poss</a></tt> (1; 5% instances)
+Children of `PRON` nodes are attached using 13 different relations: <tt><a href="bej_nsc-dep-punct.html">punct</a></tt> (37; 36% instances), <tt><a href="bej_nsc-dep-det.html">det</a></tt> (30; 29% instances), <tt><a href="bej_nsc-dep-discourse.html">discourse</a></tt> (10; 10% instances), <tt><a href="bej_nsc-dep-nmod-poss.html">nmod:poss</a></tt> (7; 7% instances), <tt><a href="bej_nsc-dep-case.html">case</a></tt> (5; 5% instances), <tt><a href="bej_nsc-dep-cc.html">cc</a></tt> (4; 4% instances), <tt><a href="bej_nsc-dep-dep.html">dep</a></tt> (2; 2% instances), <tt><a href="bej_nsc-dep-dep-comp.html">dep:comp</a></tt> (2; 2% instances), <tt><a href="bej_nsc-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="bej_nsc-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="bej_nsc-dep-dep-conj.html">dep:conj</a></tt> (1; 1% instances), <tt><a href="bej_nsc-dep-dislocated-subj.html">dislocated:subj</a></tt> (1; 1% instances), <tt><a href="bej_nsc-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `PRON` nodes belong to 7 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (7; 32% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (6; 27% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (4; 18% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="bej_nsc-pos-X.html">X</a></tt> (1; 5% instances)
+Children of `PRON` nodes belong to 11 different parts of speech: <tt><a href="bej_nsc-pos-PUNCT.html">PUNCT</a></tt> (37; 36% instances), <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (35; 34% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (11; 11% instances), <tt><a href="bej_nsc-pos-ADP.html">ADP</a></tt> (7; 7% instances), <tt><a href="bej_nsc-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="bej_nsc-pos-PART.html">PART</a></tt> (3; 3% instances), <tt><a href="bej_nsc-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="bej_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bej_nsc-pos-X.html">X</a></tt> (1; 1% instances)
 

@@ -7,23 +7,33 @@ udver: '2'
 ## Treebank Statistics: UD_Nheengatu-CompLin: Features: `PartType`
 
 This feature is language-specific.
-It occurs with 4 different values: `Exs`, `Int`, `Mod`, `Neg`.
+It occurs with 6 different values: `Emp`, `Exs`, `Int`, `Mod`, `Neg`, `Prs`.
 
-72 tokens (3%) have a non-empty value of `PartType`.
-8 types (1%) occur at least once with a non-empty value of `PartType`.
-6 lemmas (1%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (72; 3% instances).
+720 tokens (5%) have a non-empty value of `PartType`.
+41 types (2%) occur at least once with a non-empty value of `PartType`.
+26 lemmas (2%) occur at least once with a non-empty value of `PartType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (720; 5% instances).
 
 ### `PART`
 
-72 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (48% of all `PART` tokens) have a non-empty value of `PartType`.
+720 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (62% of all `PART` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (72; 100%), <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (56; 78%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (43; 60%).
+The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (719; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (719; 100%), <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (559; 78%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (476; 66%).
 
 `PART` tokens may have the following values of `PartType`:
 
-* `Exs` (7; 10% of non-empty `PartType`): <em>aikwé</em>
-* `Int` (20; 28% of non-empty `PartType`): <em>será, taá</em>
-* `Mod` (16; 22% of non-empty `PartType`): <em>paá</em>
-* `Neg` (29; 40% of non-empty `PartType`): <em>ti, umbaá</em>
+* `Emp` (58; 8% of non-empty `PartType`): <em>tẽ, tenhẽ, katú, té, ra</em>
+* `Exs` (34; 5% of non-empty `PartType`): <em>aikwé, aikwewara</em>
+* `Int` (156; 22% of non-empty `PartType`): <em>taá, será, ta</em>
+* `Mod` (232; 32% of non-empty `PartType`): <em>paá, pu, supí, eré, maã, tenki, tenupá, ipú, presizu, ba</em>
+* `Neg` (226; 31% of non-empty `PartType`): <em>ti, intí, te, nti, nẽ, umbaá, tenhẽ</em>
+* `Prs` (14; 2% of non-empty `PartType`): <em>xukúi, Kusukúi</em>
+
+<table>
+  <tr><th>Paradigm <i>tenhẽ</i></th><th><tt>Emp</tt></th><th><tt>Neg</tt></th></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Foc.html">Foc</a></tt><tt>=Yes</tt></tt></td><td><em>tenhẽ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>tenhẽ</em></td></tr>
+</table>
+
+`PartType` seems to be **lexical feature** of `PART`. 96% lemmas (25) occur only with one value of `PartType`.
 

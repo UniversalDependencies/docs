@@ -23,10 +23,10 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 5 advcl	color:blue
 1	Taxista	taxista	PROPN	PNM	_	2	nsubj	_	_
-2	assaltado	assaltar,assaltado	VERB	PPA	Gender=Masc|Number=Sing	0	root	_	_
+2	assaltado	assaltar,assaltado	VERB	PPA	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 3	quando	quando	SCONJ	CJ	_	5	mark	_	_
-4	se	se	PRON	CL	Person=3	5	obj	_	_
-5	abastecia	abastecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp	2	advcl	_	_
+4	se	se	PRON	CL	Person=3|PronType=Prs	5	obj	_	_
+5	abastecia	abastecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 
 ~~~
 
@@ -37,16 +37,16 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 11 advcl	color:blue
-1	Eu	eu	PRON	PRS	Number=Sing|Person=1	2	nsubj	_	_
-2	quero	querer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
+1	Eu	eu	PRON	PRS	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	quero	querer	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	CJ	_	7	mark	_	_
-4	as	as	DET	DA	Gender=Fem|Number=Plur	5	det	_	_
+4	as	as	DET	DA	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	gravuras	gravura	NOUN	CN	Gender=Fem|Number=Plur	7	nsubj	_	_
-6	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres	7	cop	_	_
-7	salvas	salvar,salvo	VERB	PPA	Gender=Fem|Number=Plur	2	ccomp	_	_
+6	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	salvas	salvar,salvo	VERB	PPA	Gender=Fem|Number=Plur|VerbForm=Part	2	ccomp	_	_
 8	porque	porque	SCONJ	CJ	_	11	dep	_	_
 9	talvez	talvez	ADV	ADV	_	11	advmod	_	_
-10	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres	11	cop	_	_
+10	sejam	ser	AUX	V	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	belas	belo	ADJ	ADJ	Gender=Fem|Number=Plur	2	advcl	_	_
 12	.	.	PUNCT	PNT	_	2	punct	_	_
 
@@ -59,15 +59,15 @@ The following 35 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 advcl	color:blue
-1	Estava	estar	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp	4	cop	_	_
+1	Estava	estar	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 2	em_	em_	ADP	PREP	_	4	case	_	_
-3	a	a	DET	DA	Gender=Fem|Number=Sing	4	det	_	_
+3	a	a	DET	DA	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	biblioteca	biblioteca	NOUN	CN	Gender=Fem|Number=Sing	0	root	_	_
 5	principal	principal	ADJ	ADJ	Gender=Fem|Number=Sing	4	amod	_	_
 6	de	de	ADP	PREP	_	7	case	_	_
 7	Berkeley	berkeley	PROPN	PNM	_	4	obl	_	_
 8	quando	quando	SCONJ	CJ	_	9	mark	_	_
-9	aconteceu	acontecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	advcl	_	_
+9	aconteceu	acontecer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
 10	.	.	PUNCT	PNT	_	4	punct	_	_
 
 ~~~

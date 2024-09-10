@@ -24,5 +24,5 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (35; 88% of non-empty `Degree`): <em>mellor, maior, maiores, peor, meirande, mellores, menor</em>
 * `Sup` (5; 13% of non-empty `Degree`): <em>máximo, altísimo, importantísima, máxima</em>
-* `EMPTY` (1678): <em>galega, novo, galego, español, política, social, actual, difícil, europea, galegos</em>
+* `EMPTY` (1682): <em>galega, novo, galego, español, política, social, actual, difícil, europea, galegos</em>
 

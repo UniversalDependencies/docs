@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="myv_jr-pos-AUX.html
 
 62 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (8% of all `AUX` tokens) have a non-empty value of `NegationType`.
 
-The most frequent other feature values with which `AUX` and `NegationType` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (62; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (62; 100%).
+The most frequent other feature values with which `AUX` and `NegationType` co-occurred: <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (62; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (62; 100%).
 
 `AUX` tokens may have the following values of `NegationType`:
 

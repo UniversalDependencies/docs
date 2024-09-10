@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="cs_pud
 240 nodes (1%) are attached to their parents as `expl:pv`.
 
 191 instances of `expl:pv` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.29583333333333.
+Average distance between parent and child is 2.30416666666667.
 
 The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a href="cs_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_pud-pos-PRON.html">PRON</a></tt> (240; 100% instances).
 

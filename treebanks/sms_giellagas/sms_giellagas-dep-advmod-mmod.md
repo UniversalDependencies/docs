@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 # visual-style 11 8 advmod:mmod	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
 2	puõʹđi	pueʹtted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3|SpaceAfter=No
-3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	ceälkk	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
 5	što	što	SCONJ	CS	_	11	mark	_	SpaceAfter=No
 6	:	:	PUNCT	PUNCT	_	11	punct	_	_

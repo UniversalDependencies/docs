@@ -9,18 +9,18 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Ord`, `Range`.
 
-7555 tokens (3%) have a non-empty value of `NumType`.
-1393 types (9%) occur at least once with a non-empty value of `NumType`.
-1375 lemmas (13%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (7246; 3% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (308; 0% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+7554 tokens (3%) have a non-empty value of `NumType`.
+1392 types (9%) occur at least once with a non-empty value of `NumType`.
+1374 lemmas (13%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (7245; 3% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (308; 0% instances), <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-7246 <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumType`.
+7245 <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (7209; 99% of non-empty `NumType`): <em>dois, 1, 3, 2, 5, 10, duas, três, 4, 2005</em>
+* `Card` (7208; 99% of non-empty `NumType`): <em>dois, 1, 3, 2, 5, 10, duas, três, 4, 2005</em>
 * `Ord` (32; 0% of non-empty `NumType`): <em>II.3.1, II.3.2, II.3.3, II.4.2, II.5.1, II.5.2, II.5.3, II.5.4, II.7.1.1, III.2</em>
 * `Range` (5; 0% of non-empty `NumType`): <em>2.2.1, 2.4.1, 3.2.3.2, 3.2.7, 5-5-Viscosidade</em>
 * `EMPTY` (45): <em>b, a, 1, 19, 2.3, 4, 8, II.1, II.2.3, II.3</em>
@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="pt_petrogold-pos-NU
   <tr><td><tt></tt></td><td><em>2.2.1</em></td><td><em>2.2.1</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1329) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1328) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (308; 100% of non-empty `NumType`): <em>primeiro, segundo, segunda, primeira, último, primeiros, últimos, última, terceiro, 36º</em>
-* `EMPTY` (16773): <em>maior, grande, menor, possível, magnético, diferentes, total, natural, magnética, presente</em>
+* `EMPTY` (16772): <em>maior, grande, menor, possível, magnético, diferentes, total, natural, magnética, presente</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (53) occur only with one value of `NumType`.
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>20º</em>
-* `EMPTY` (57571): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
+* `EMPTY` (57562): <em>óleo, água, figura, fluido, petróleo, gás, fluidos, produção, área, argila</em>
 
 ## Relations with Agreement in `NumType`
 

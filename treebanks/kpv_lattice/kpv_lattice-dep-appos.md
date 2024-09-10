@@ -17,18 +17,20 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	быдмис	быдмыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-3	Парижын	Париж	NOUN	N	Case=Ine|Number=Sing	2	obl:lmod	_	OrigLang=ru|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	Францияса	Франция	PROPN	Prop	Case=Loc|Number=Sing	6	amod	_	OrigLang=ru
-6	юркарын	юркар	NOUN	N	Case=Ine|Number=Sing	3	appos	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 appos	color:blue
+1	Шоферыс	шофёр	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	1	punct	_	_
+3	том	том	ADJ	A	Case=Nom|Number=Sing	4	amod	_	_
+4	зонка	зонка	NOUN	N	Case=Nom|Number=Sing	1	appos	_	_
+5	на	на	ADV	Adv	_	4	advmod:tmod	_	SpaceAfter=No
+6	,	,	PUNCT	CLB	_	8	punct	_	_
+7	дзикӧдз	дзик	ADV	Adv	Case=Ter	8	advmod:deg	_	_
+8	растеряйтчис	растеряйтчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
 
@@ -46,7 +48,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	0	root	_	GTtags=Interr,Pl,Nom|SpaceAfter=No
 6	?	?	PUNCT	CLB	_	5	punct	_	_
 7	—	—	PUNCT	PUNCT	_	8	punct	_	_
-8	индіс	индыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	5	parataxis	_	GTtags=TV,Ind,Prt1,Sg3
+8	индіс	индыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	parataxis	_	GTtags=TV,Ind,Prt1,Sg3
 9	мамыс	мам	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	GTtags=Sg,Nom,PxSg3
 10	воддза	воддза	ADV	Adv	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom
 11	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	12	nummod	_	GTtags=Card,Sg,Nom

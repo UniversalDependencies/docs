@@ -683,7 +683,7 @@ obl(went, that)
 ~~~sdparse
 -ROOT- Was it really that/SCONJ it was raining that/PRON bothered you ?
 root(-ROOT-, raining)
-expl:outer(raining, it-3)
+expl(raining, it-3)
 cop(raining, Was)
 advmod(raining, really)
 mark(raining, that-5)
@@ -697,7 +697,7 @@ obj(bothered, you)
 ~~~sdparse
 -ROOT- It 's that/SCONJ he 's so self-satisfied that/PRON I find offputting . (CGEL p. 1418)
 root(-ROOT-, self-satisfied)
-expl:outer(self-satisfied, It)
+expl(self-satisfied, It)
 mark(self-satisfied, that-4)
 nsubj(self-satisfied, he)
 cop(self-satisfied, 's-6)
@@ -771,4 +771,4 @@ acl:relcl(progress, make)
 - if we lose Dean (which we will if we don't pay 65k + 10k) [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/203)
 
 
-<!-- Interlanguage links updated Po lis 14 15:35:03 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:31 CEST -->

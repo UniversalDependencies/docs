@@ -66,10 +66,10 @@ The following 4 pairs of parts of speech are connected with `obl:own`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl:own	color:blue
-1	Астай	Астай	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	2	nmod	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
+1	Астай	Астай	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	2	compound:nn	_	CGdephead=#1-&gt;2|CGdeprel=@&gt;N|GTtags=Prop,Sg,Nom,Indef
 2	покштянть	покштя	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl:own	_	CGdephead=#2-&gt;2|CGdeprel=@-FOBJ&gt;|GTtags=Sg,Gen,Def
 3	сестэ	сестэ	ADV	Adv	_	4	advmod:tmod	_	CGdephead=#3-&gt;4|CGdeprel=@ADVL&gt;|GTtags=
-4	ульнесть	ульнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
+4	ульнесть	ульнемс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	CGdephead=#4-&gt;0|CGdeprel=@FMV|GTtags=IV,Ind,Prt1,ScPl3
 5	вете	вете	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	6	nummod	_	CGdephead=#5-&gt;6|CGdeprel=@&gt;N|GTtags=Card,Sg,Nom,Indef
 6	цёранзо	цёра	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	CGdephead=#6-&gt;4|CGdeprel=@&lt;SUBJ|GTtags=Pl,Nom,PxSg3
 7	пек	пек	ADV	Adv	AdvType=Deg	8	advmod:deg	_	CGdephead=#7-&gt;8|CGdeprel=@&gt;A|GTtags=Deg
@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `obl:own`: <tt><a hr
 9	,	,	PUNCT	CLB	_	12	punct	_	CGdephead=#9-&gt;8|CGdeprel=@CLB|GTtags=CLB
 10	нилетне	ниле	NUM	Num	Case=Nom|Definite=Def|Number=Plur|NumType=Card	12	nsubj	_	CGdephead=#10-&gt;0|CGdeprel=@X|GTtags=Card,Pl,Nom,Def
 11	уш	уш	ADV	Adv	_	12	advmod:tmod	_	CGdephead=#11-&gt;10|CGdeprel=@ADVL|GTtags=
-12	урьвакстозельть	урьвакстомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1|VerbForm=Conv,Part	4	conj	_	CGdephead=#12-&gt;0|CGdeprel=@PRED|GTtags=IV,Der/Ozj,Ger,Der/MWN,N,Pl,Nom,Indef,Clt/Cop Prt2 ScPl3|SpaceAfter=No
+12	урьвакстозельть	урьвакстомс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Number[subj]=Plur|Person[subj]=3|Tense=Past|VerbForm=Conv,Part	4	conj	_	CGdephead=#12-&gt;0|CGdeprel=@PRED|GTtags=IV,Der/Ozj,Ger,Der/MWN,N,Pl,Nom,Indef,Clt/Cop Prt2 ScPl3|SpaceAfter=No
 13	...	...	PUNCT	CLB	_	4	punct	_	CGdephead=#13-&gt;4|CGdeprel=@CLB|GTtags=CLB
 
 ~~~

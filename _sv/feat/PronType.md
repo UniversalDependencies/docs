@@ -55,15 +55,14 @@ Article is a special case of determiner that bears the feature of
 * Determiners: _vars_, _vilkens_ "whose"
 * Adverbs: _då_ "when", _där_ "where"
 
-<b>Note:</b> Because the original Swedish treebank annotation uses a single category subsuming both interrogative and relative
-(corresponding to the English wh-category), we currently do not disambiguate between `Int` and `Rel`, which means
-that any word belonging to one of these categories is assigned the feature `PronType=Int,Rel`.
+<b>Note:</b> Many Swedish pronouns can be used in both interrogative and relative clauses, and these uses are not fully disambiguated in the annotation, which means that pronouns are often assigned the feature `PronType=Int,Rel`. 
+
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner, numeral or adverb
 
 #### Examples
 
-* _detta, denna, dessa, det, den, de, denne, dennes_
+* _detta, denna, dessa, denne, dennes_
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
@@ -88,4 +87,4 @@ do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
 
 * _man, någon, något, samma, några, en, andra_
 
-<!-- Interlanguage links updated Po lis 14 15:34:56 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:18 CEST -->

@@ -39,8 +39,8 @@ The following 20 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6 5 nsubj	color:blue
 1	இது	இது	PRON	RpN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod:nom	Translit=itu|LTranslit=itu
 2	தொடர்பான	தொடர்பு	ADJ	JJ-------	_	3	amod	3:amod	Translit=toṭarpāna|LTranslit=toṭarpu
-3	ஆலோசனைகளைய்	ஆலோசனை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	Translit=ālōcanaikaḷaiy|LTranslit=ālōcanai
-4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
+3	ஆலோசனைகளைய்	ஆலோசனை	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	6	obj	6:obj	LTranslit=ālōcanai|Translit=ālōcanaikaḷaiy
+4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	LTranslit=um|Translit=um
 5	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=intiyā|LTranslit=intiyā
 6	வழங்கி	வழங்கு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=valaṅki|LTranslit=valaṅku
 7	வருகிறது	வரு	AUX	VR-P3SNAA	Gender=Neut|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	SpaceAfter=No|Translit=varukiratu|LTranslit=varu
@@ -56,8 +56,8 @@ The following 20 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
 1	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	2	nsubj	2:nsubj	Translit=avar|LTranslit=avar
-2	பேசியத்	பேசு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	0	root	0:root	Translit=pēciyat|LTranslit=pēcu
-3	ஆவது	ஆவது	PART	Tl-------	_	2	advmod:emph	2:advmod:emph	Translit=āvatu|LTranslit=āvatu
+2	பேசியத்	பேசு	VERB	VzND3SNAA	Case=Nom|Gender=Neut|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Ger|Voice=Act	0	root	0:root	LTranslit=pēcu|Translit=pēciyat
+3	ஆவது	ஆவது	PART	Tl-------	_	2	advmod:emph	2:advmod:emph	LTranslit=āvatu|Translit=āvatu
 4	:	:	PUNCT	Z:-------	PunctType=Comm	2	punct	2:punct	SpaceAfter=No|Translit=:|LTranslit=:
 5	.	.	PUNCT	Z#-------	PunctType=Peri	2	punct	2:punct	Translit=.|LTranslit=.
 

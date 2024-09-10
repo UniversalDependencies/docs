@@ -44,4 +44,4 @@ It is used to signal that an event has been witnessed by the utterer of the sent
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po lis 14 15:34:45 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:56 CEST -->

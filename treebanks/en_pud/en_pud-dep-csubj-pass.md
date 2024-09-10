@@ -29,11 +29,11 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	that	that	SCONJ	IN	_	10	mark	10:mark	_
 6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	10:nsubj	_
 7	absolutely	absolutely	ADV	RB	_	10	advmod	10:advmod	_
-8	can	can	AUX	MD	VerbForm=Fin	10	aux	10:aux	SpaceAfter=No
+8	can	can	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 9	not	not	PART	RB	Polarity=Neg	10	advmod	10:advmod	_
 10	continue	continue	VERB	VB	VerbForm=Inf	4	csubj:pass	4:csubj:pass	_
 11	with	with	ADP	IN	_	12	case	12:case	_
-12	those	those	PRON	DT	Number=Plur|PronType=Dem	10	obl	10:obl:with|14:nsubj	_
+12	those	that	PRON	DT	Number=Plur|PronType=Dem	10	obl	10:obl:with|14:nsubj	_
 13	who	who	PRON	WP	PronType=Rel	14	nsubj	12:ref	_
 14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	12:acl:relcl	_
 15	completely	completely	ADV	RB	_	14	advmod	14:advmod	_
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 12 csubj:pass	color:blue
 1	On	on	ADP	IN	_	3	case	3:case	_
-2	one	one	NUM	CD	NumType=Card	3	nummod	3:nummod	_
+2	one	one	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	occasion	occasion	NOUN	NN	Number=Sing	7	obl	7:obl:on	SpaceAfter=No
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
 5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	7:expl	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers.
 
 Repository: [UD_Breton-KEB](https://github.com/UniversalDependencies/UD_Breton-KEB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -92,11 +92,11 @@ year = 2018
 
 
 <ul>
-<li>This corpus contains 888 sentences, 9776 tokens and 10057 syntactic words.</li>
+<li>This corpus contains 884 sentences, 9725 tokens and 10006 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1273 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 1272 tokens (13%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -104,7 +104,7 @@ year = 2018
 </ul>
 
 <ul>
-<li>This corpus contains 343 types of words that contain both letters and punctuation. Examples: d', -se, n', -mañ, oc'h, e-pad, plac'h, a-benn, diwar-benn, d’, c'hoant, en-dro, -tre, a-raok, a-walc'h, arc'hant, merc'hed, war-raok, a-hed, c'hoazh, c’hinnig, hoc'h, labourer-douar, -me, c'haller, c'hoari, c'hoariva, dibenn-sizhun, e-barzh, evel-se, gambrig-kousket, lec'h, pelec'h, tro-dro, war-dro, 'vit, -hi, -kenañ, Bro-Saoz, Kuzul-rannvro, a-bouez, aesoc'h, c'harr, c'heller, c'hellfe, c'hinnig, c'hornôg, c'hounit, dec'h, derc'hel</li>
+<li>This corpus contains 344 types of words that contain both letters and punctuation. Examples: d', -se, n', -mañ, oc'h, e-pad, plac'h, a-benn, diwar-benn, d’, c'hoant, en-dro, -tre, a-raok, a-walc'h, arc'hant, merc'hed, war-raok, a-hed, c'hoazh, c’hinnig, hoc'h, labourer-douar, -me, c'haller, c'hoari, c'hoariva, dibenn-sizhun, e-barzh, evel-se, gambrig-kousket, lec'h, pelec'h, tro-dro, war-dro, 'vit, -hi, -kenañ, Bro-Saoz, Kuzul-rannvro, a-bouez, aesoc'h, c'harr, c'heller, c'hellfe, c'hinnig, c'hornôg, c'hounit, dec'h, derc'hel</li>
 </ul>
 
 <ul>
@@ -152,7 +152,7 @@ year = 2018
   <li>Fin
   <ul>
     <li>AUX: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, ran</li>
-    <li>VERB: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, c'haller, eo</li>
+    <li>VERB: ra, welas, zeuy, gavo, wel, ya, yelo, c'haller, eo, fell</li>
   </ul>
   </li>
 </ul>
@@ -161,7 +161,7 @@ year = 2018
   <li>Inf
   <ul>
     <li>AUX: bezañ, vezañ, Rankout, Bez', Gallout, dleout, gellout, vout</li>
-    <li>VERB: dont, ober, labourat, vont, kinnig, chom, debriñ, gwelout, kanañ, Kerzhout</li>
+    <li>VERB: dont, ober, labourat, vont, kinnig, chom, debriñ, kanañ, Kerzhout, gwelet</li>
   </ul>
   </li>
 </ul>
@@ -170,7 +170,7 @@ year = 2018
   <li>Part
   <ul>
     <li>AUX: bet, graet, gellet</li>
-    <li>VERB: kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet, aet</li>
+    <li>VERB: kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, gwelet, lakaet, savet</li>
   </ul>
   </li>
 </ul>
@@ -199,7 +199,7 @@ year = 2018
   <li>Masc
     <ul>
       <li>AUX-Fin: en deus, en doa</li>
-      <li>NOUN: levr, dud, den, ti, brezhoneg, labour, vugale, istor, tud, traoù</li>
+      <li>NOUN: dud, levr, den, ti, brezhoneg, labour, vugale, istor, tud, traoù</li>
       <li>NUM: daou, tri, dri, pevar, zaou</li>
       <li>PRON: añ, Hemañ, anezhañ, E, Hennezh, egile, nañ, nnañ</li>
       <li>PROPN: Yann, Yannig, Divi, Fañch, Lan, Nevenoe, Iañ, Loeiz, Ber, Eric</li>
@@ -221,8 +221,8 @@ year = 2018
       <li>NUM: daou, 2007, 4, 000, 1950, 20, 3, 30, 10, 2</li>
       <li>PRON: o, oc'h, holl, int, anezho, imp, omp, ar re all, c'hwi, e</li>
       <li>PROPN: Stadoù-Unanet</li>
-      <li>VERB: tennit, lennont, gavint, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, Treuzit, garont</li>
-      <li>VERB-Fin: lennont, gavint, hoc'h eus, garont, ouzont, Gwelomp, Labourit, Lakait, Sellit, brenit</li>
+      <li>VERB: tennit, gavint, klaskit, lennont, meskit, Lakait, hoc'h eus, Ouzhpennit, garont, klikit</li>
+      <li>VERB-Fin: gavint, lennont, hoc'h eus, garont, ouzont, Gwelomp, Labourit, Lakait, Sellit, brenit</li>
     </ul>
   </li>
 </ul>
@@ -237,7 +237,7 @@ year = 2018
       <li>NOUN: levr, den, ti, brezhoneg, labour, yezh, vro, istor, rannvro, bro</li>
       <li>NUM: unan, 1, 1añ, 23e, 5e, IXvet, XVIIvet, 31añ</li>
       <li>PRON: me, in, i, añ, hini, netra, a, hi, re, -me</li>
-      <li>PROPN: Breizh, Yann, Pariz, Frañs, Kembre, Yannig, Lenaig, Naoned, Brezhoneg, Europa</li>
+      <li>PROPN: Breizh, Yann, Pariz, Frañs, Kembre, Yannig, Lenaig, Naoned, Europa, Karaez</li>
       <li>VERB: ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, labour</li>
       <li>VERB-Fin: ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, labour</li>
     </ul>
@@ -337,7 +337,7 @@ year = 2018
   <li>Ind
     <ul>
       <li>AUX-Fin: eo, oa, vo, zo, ra, en deus, emañ, ran, he deus, o deus</li>
-      <li>VERB-Fin: ra, zeuy, gavo, lennont, wel, ya, yelo, c'haller, eo, fell</li>
+      <li>VERB-Fin: ra, zeuy, gavo, wel, ya, yelo, c'haller, eo, fell, gavint</li>
     </ul>
   </li>
 </ul>
@@ -369,7 +369,7 @@ year = 2018
       <li>AUX-Fin: oa, voe, reas, veze, en doa, o doa, raent, oant, raen, edon</li>
       <li>AUX-Part: bet, graet, gellet</li>
       <li>VERB-Fin: welas, oa, c'helle, chomas, gane, gontas, lavaras, talveze, aloubas, anaveze</li>
-      <li>VERB-Part: kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, lakaet, savet, aet</li>
+      <li>VERB-Part: kinniget, graet, gouestlet, lennet, aozet, kavet, deuet, gwelet, lakaet, savet</li>
     </ul>
   </li>
 </ul>
@@ -378,7 +378,7 @@ year = 2018
   <li>Pres
     <ul>
       <li>AUX-Fin: eo, zo, vez, ra, en deus, emañ, ran, he deus, o deus, am eus</li>
-      <li>VERB-Fin: ra, lennont, wel, ya, c'haller, eo, fell, labour, sav, blij</li>
+      <li>VERB-Fin: ra, wel, ya, c'haller, eo, fell, labour, lennont, sav, blij</li>
     </ul>
   </li>
 </ul>
@@ -435,7 +435,7 @@ year = 2018
   <li>Ord
     <ul>
       <li>ADJ: pevare</li>
-      <li>NUM: eil, 13vet, 19vet, X, c'hentañ, drede, kentañ, trede, 17vet, 1añ</li>
+      <li>NUM: eil, 13vet, 19vet, Xvet, c'hentañ, drede, kentañ, trede, 17vet, 1añ</li>
     </ul>
   </li>
 </ul>
@@ -494,7 +494,7 @@ year = 2018
     <ul>
       <li>AUX-Fin: out, c'hellit, rit, Emaout, c'helloc'h, ho peus, ho poa, reoc'h, reot, rez</li>
       <li>PRON: oc'h, it, c'hwi, az, c'h</li>
-      <li>VERB: tennit, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, Treuzit, klikit, pouezit, selaouit</li>
+      <li>VERB: tennit, klaskit, meskit, Lakait, hoc'h eus, Ouzhpennit, klikit, pouezit, selaouit, Degasit</li>
       <li>VERB-Fin: hoc'h eus, Labourit, Lakait, Sellit, brenit, dizhoc'h, eskemmit, ho pez, ho po, hoc’h eus</li>
     </ul>
   </li>
@@ -506,8 +506,8 @@ year = 2018
       <li>AUX: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, he deus</li>
       <li>AUX-Fin: eo, oa, vo, zo, vez, ra, en deus, voe, emañ, he deus</li>
       <li>PRON: o, i, añ, hi, int, anezhi, e, -hi, anezhañ, anezho</li>
-      <li>VERB: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, eo, fell</li>
-      <li>VERB-Fin: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, eo, fell</li>
+      <li>VERB: ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, gavint</li>
+      <li>VERB-Fin: ra, welas, zeuy, gavo, wel, ya, yelo, eo, fell, gavint</li>
     </ul>
   </li>
 </ul>
@@ -559,7 +559,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (3)</li>
       <li>VERB--NOUN-ADP(nemet) (1)</li>
       <li>VERB--PRON-Nom (4)</li>
-      <li>VERB-Fin--NOUN (82)</li>
+      <li>VERB-Fin--NOUN (81)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--PRON (11)</li>
       <li>VERB-Fin--PRON-Nom (28)</li>
@@ -577,18 +577,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (26)</li>
+      <li>VERB--NOUN (24)</li>
       <li>VERB--NOUN-ADP(kalz) (1)</li>
       <li>VERB--PRON-Acc (2)</li>
       <li>VERB-Fin--NOUN (95)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (8)</li>
-      <li>VERB-Inf--NOUN (170)</li>
+      <li>VERB-Inf--NOUN (169)</li>
       <li>VERB-Inf--NOUN-ADP(eus) (1)</li>
       <li>VERB-Inf--NOUN-ADP(kalz) (1)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (9)</li>
-      <li>VERB-Part--NOUN (49)</li>
+      <li>VERB-Part--NOUN (50)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
     </ul>

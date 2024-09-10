@@ -49,7 +49,7 @@ These are either [PronType]()=`Int` (interrogative) or [PronType]()=`Rel` (relat
 
 WH | Plain | -ever | Possessive 
 -- | -- | -- | -- 
-wh.anim | who, whom (WP) | whoever, whomever (WP) | whose (WP$) 
+wh.anim | who, whom (WP) | whoever, _whosoever_, whomever (WP) | whose (WP$) 
 wh.inanim | what, _wtf_ (WP) | whatever (WP) | whose (WP$) 
 wh.det | which (WDT) | whichever (WDT) |   
 
@@ -57,13 +57,15 @@ Relative *that* is also considered a PRON in UD (XPOS WDT).
 
 The table shows only PRON forms. Note that *what*, *whatever*, and *which* are tagged [DET]() when functioning as [det]() (WDT).
 
-The variant _wtf_ receives `Style=Expr`.
+The variant _wtf_ receives `Style=Expr`. The variant _whosoever_ receives `Style=Form`.
+
+TODO: "no/any N whatsoever": *whatsoever* is currently ADV in EWT but maybe PRON is better. Unlike _whosoever_, this use of _whatsoever_ is not formal; maybe `Style=Expr` or even `PronType=Emp`.
 
 TODO: *whatever* is sometimes DET+WDT even when not [det]()
 
 TODO: tag *whom(ever)* for case; lemmatize *whom* as *who* and *whomever* as *whoever*
 
-TODO: add Case=Gen for *whose*
+TODO: add Poss=Yes and possibly Case=Gen for *whose*. Do we want to distinguish dependent (Case=Gen) and independent uses? Unlike *what*, *whatever*, *which*, all *whose* instances are currently tagged PRON.
 
 TODO: exclamative *what* is PRON+WDT?
 
@@ -71,12 +73,12 @@ TODO: exclamative *what* is PRON+WDT?
 
 These are NN in PTB but PRON in UD. A feature indicating the type of pronoun is provided as shown in the table below. These also receive the feature [Number]()=`Sing`.
 
-INDEFINITE | one | body | thing
--- | -- | -- | --
-`PronType=Tot` | everyone | everybody | everything
-`PronType=Ind` (any) | anyone | anybody | anything
-`PronType=Ind` (some) | someone | somebody | something
-`PronType=Neg` | no one | nobody | nothing
+INDEFINITE | | one | body | thing
+-- | -- | -- | -- | --
+`PronType=Tot` | | everyone | everybody | everything
+`PronType=Ind` (any) | | anyone | anybody | anything
+`PronType=Ind` (some) | | someone | somebody | something
+`PronType=Neg` | none, naught | no one | nobody | nothing
 
 Note that the `Ind` (indefinite) value of the [PronType]() feature is narrower in UD than the general use of the term "indefinite pronoun": `Ind` specifically refers to the *some-* and *any-* varieties.
 These two varieties are not currently distinguished with features.
@@ -133,4 +135,4 @@ According to the PTB tagging guidelines, *one* should be
 These correspond to UPOS tags [NUM](), `PRON`, and [NOUN](), respectively.
 However, we depart from PTB in treating *one* as a pronoun in *no one* and *one another*, as described above.
 
-<!-- Interlanguage links updated Po lis 14 15:34:35 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->

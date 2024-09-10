@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Intr`, `Prep`, `Tran`.
 
-4441 tokens (9%) have a non-empty value of `Subcat`.
-1011 types (16%) occur at least once with a non-empty value of `Subcat`.
-785 lemmas (15%) occur at least once with a non-empty value of `Subcat`.
-The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (4441; 9% instances).
+4442 tokens (9%) have a non-empty value of `Subcat`.
+1001 types (16%) occur at least once with a non-empty value of `Subcat`.
+779 lemmas (15%) occur at least once with a non-empty value of `Subcat`.
+The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (4442; 9% instances).
 
 ### `VERB`
 
-4441 <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Subcat`.
+4442 <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Subcat`.
 
-The most frequent other feature values with which `VERB` and `Subcat` co-occurred: <tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3539; 80%), <tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Inf</tt> (3539; 80%).
+The most frequent other feature values with which `VERB` and `Subcat` co-occurred: <tt><a href="af_afribooms-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3540; 80%), <tt><a href="af_afribooms-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin,Inf</tt> (3539; 80%).
 
 `VERB` tokens may have the following values of `Subcat`:
 
 * `Intr` (717; 16% of non-empty `Subcat`): <em>werk, voortgaan, gaan, maak, tree, verskyn, het, reageer, staan, val</em>
 * `Prep` (28; 1% of non-empty `Subcat`): <em>voldoen, verwys, kondig, beveel</em>
-* `Tran` (3696; 83% of non-empty `Subcat`): <em>doen, gebruik, maak, verbeter, verseker, stel, het, verskaf, betaal, bereik</em>
+* `Tran` (3697; 83% of non-empty `Subcat`): <em>doen, gebruik, maak, verbeter, verseker, stel, het, verskaf, betaal, bereik</em>
 
 <table>
   <tr><th>Paradigm <i>verwys</i></th><th><tt>Intr</tt></th><th><tt>Prep</tt></th><th><tt>Tran</tt></th></tr>

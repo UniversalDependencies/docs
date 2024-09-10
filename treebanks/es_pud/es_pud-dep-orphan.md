@@ -22,30 +22,30 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 13 orphan	color:blue
-1	Esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+1	Esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
 2	cepa	cepa	NOUN	NN	Gender=Fem|Number=Sing	3	nsubj	_	_
-3	ayuda	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ayuda	ayudar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	IN	_	6	case	_	_
 5	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	dolor	dolor	NOUN	NN	Gender=Masc|Number=Sing	3	obl	_	_
 7	de	de	ADP	IN	_	8	case	_	_
 8	espalda	espalda	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	10	punct	_	_
-10	esta	_	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	conj	_	orig_deprel=nsubj
+10	esta	este	DET	DT	Gender=Fem|Number=Sing|PronType=Dem	3	conj	_	orig_deprel=nsubj
 11	con	con	ADP	IN	_	12	case	_	orig_deprel=obl
 12	las	el	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	náuseas	_	NOUN	NN	Gender=Fem|Number=Plur	10	orphan	_	SpaceAfter=No
+13	náuseas	náusea	NOUN	NN	Gender=Fem|Number=Plur	10	orphan	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	18	punct	_	_
 15	este	este	DET	DT	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
 16	producto	producto	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	_
-17	te	tú	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	18	iobj	_	_
-18	hace	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+17	te	tú	PRON	PRP	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	18	obj	_	_
+18	hace	hacer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 19	dormir	dormir	VERB	VB	VerbForm=Inf	18	xcomp	_	_
 20	por	por	ADP	IN	_	22	case	_	_
 21	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	noche	noche	NOUN	NN	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 23	,	,	PUNCT	,	_	24	punct	_	_
-24	explica	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
+24	explica	explicar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 25	Dietrich	Dietrich	PROPN	NNP	Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
 26	,	,	PUNCT	,	_	29	punct	_	_
 27	de	de	ADP	IN	_	29	case	_	_
@@ -59,9 +59,9 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 35	,	,	PUNCT	,	_	36	punct	_	_
 36	Colorado	Colorado	PROPN	NNP	Number=Sing	34	appos	_	SpaceAfter=No
 37	,	,	PUNCT	,	_	40	punct	_	_
-38	donde	donde	ADV	WRB	_	40	advmod	_	_
-39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	compound:prt	_	_
-40	vende	_	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	34	acl:relcl	_	_
+38	donde	donde	ADV	WRB	PronType=Rel	40	advmod	_	_
+39	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	expl:pass	_	_
+40	vende	vender	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
 41	hierba	hierba	NOUN	NN	Gender=Fem|Number=Sing	40	nsubj:pass	_	_
 42	legalmente	legalmente	ADV	RB	_	40	advmod	_	SpaceAfter=No
 43	.	.	PUNCT	.	_	3	punct	_	_
@@ -80,8 +80,8 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	norte	norte	NOUN	NN	Gender=Masc|Number=Sing	2	appos	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	Cáucaso	Cáucaso	PROPN	NNP	Number=Sing	2	nmod	_	_
-6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	compound:prt	_	_
-7	conoce	conocer	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+6	se	él	PRON	SE	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
+7	conoce	conocer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	como	como	ADP	IN	_	9	case	_	_
 9	Ciscaucasia	Ciscaucasia	PROPN	NNP	Number=Sing	7	obl	_	_
 10	y	y	CCONJ	CC	_	12	cc	_	_
@@ -102,8 +102,8 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 16	fgColor:white
 # visual-style 16 18 orphan	color:blue
 1	En	en	ADP	IN	_	2	case	_	_
-2	1912	1912	NUM	CD	Gender=Masc|NumType=Card	4	obl	_	_
-3	fue	ser	AUX	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	aux:pass	_	_
+2	1912	1912	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	obl	_	_
+3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	fundada	fundar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
@@ -116,7 +116,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 13	)	)	PUNCT	)	_	11	punct	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	en	en	ADP	IN	_	16	case	_	orig_deprel=obl
-16	1916	1916	NUM	CD	Gender=Masc|NumType=Card	4	conj	_	SpaceAfter=No
+16	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
 19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	SpaceAfter=No|orig_deprel=nsubj:pass|Proper=True

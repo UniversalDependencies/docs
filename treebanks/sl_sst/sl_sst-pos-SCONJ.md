@@ -6,66 +6,81 @@ udver: '2'
 
 ## Treebank Statistics: UD_Slovenian-SST: POS Tags: `SCONJ`
 
-There are 19 `SCONJ` lemmas (0%), 19 `SCONJ` types (0%) and 1277 `SCONJ` tokens (4%).
-Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 15 in number of types and 12 in number of tokens.
+There are 19 `SCONJ` lemmas (0%), 20 `SCONJ` types (0%) and 3636 `SCONJ` tokens (5%).
+Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 15 in number of types and 11 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>da, ki, če, ker, ko, kot, ka, kakor, kjer, dokler</em>
+The 10 most frequent `SCONJ` lemmas: <em>da, ki, ker, če, ko, kot, kjer, ka, kakor, čeprav</em>
 
-The 10 most frequent `SCONJ` types:  <em>da, ki, če, ker, ko, kot, ka, kakor, kjer, dokler</em>
+The 10 most frequent `SCONJ` types:  <em>da, ki, ker, če, ko, kot, kjer, ka, kakor, čeprav</em>
 
-The 10 most frequent ambiguous lemmas: <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sl_sst-pos-X.html">X</a></tt> 3), <em>k</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 10, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1527, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 337, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 296, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> 1), <em>kjer</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="sl_sst-pos-X.html">X</a></tt> 2, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kamor</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>niti</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 27, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="sl_sst-pos-X.html">X</a></tt> 8), <em>k</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 10, <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 8, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1526, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 42, <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>ki</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 586, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>če</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 335, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>kot</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 296, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5), <em>kjer</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 76, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2), <em>ka</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="sl_sst-pos-X.html">X</a></tt> 3, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kamor</em> (<tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1), <em>kak</em> (<tt><a href="sl_sst-pos-DET.html">DET</a></tt> 5, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2), <em>niti</em> (<tt><a href="sl_sst-pos-PART.html">PART</a></tt> 26, <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>da</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533: <em>mislim <b>da</b> ne še</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16: <em><b>da</b> in kar odstopila je torej anja pärson</em>
-  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15: <em>pa tudi pač mislim se <b>da</b> videti na več koncih</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>genau wo ist den das ? ach so <b>da</b></em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1526: <em>Zdi se mi <b>da</b> se vsi Slovenci najdemo v tej zgodbi</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 42: <em>v bistvu se vegani temu izogibajo kolikor se le <b>da</b> recimo</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18: <em><b>da</b> ali ne</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>genau wo ist den das ach so <b>da</b></em>
+* <em>ki</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 586: <em>kaj je takšnega treba neka rezerva <b>ki</b> jo moraš imeti pa</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2: <em>ja in si ti vozil do kod <b>ki</b> sva se zamenjala</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>eee ja ta <b>ki</b> da se zbirajo</em>
 * <em>če</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159: <em>ampak <b>če</b> nimate sline je to malo težje ne</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 335: <em>pa me zanima okej <b>če</b> mi lahko kaj več poveš o tem</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em>in so se pač spraševali tudi ti znanstveniki ki so to proizvajali na vseh testih so dali zmeraj vprašanje kaj pa <b>če</b></em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>spremljamo imenovano oziroma neimenovano nisem čisto gotov ne vem <b>če</b> ste zares zaradi tega ker sem prvih petnajst minut zamudil ker sem se tuširal</em>
 * <em>kot</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91: <em>ja če se vam zdi za za bolj za klasifikacijo nezasebno <b>kot</b> zasebno komot</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em><b>kot</b> petinšestdeset eee petnš [gap] eee petnajst stopinj</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 296: <em>to je v bistvu ful podobno <b>kot</b> na primer Metelkova v Ljubljani ne</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em><b>kot</b> petinšestdeset eee petnš- eee petnajst stopinj</em>
+* <em>kjer</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 76: <em><b>kjer</b> ne nastopa nobena žival nobena muca nobene miške nobeni zajčki</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 2: <em>namreč kot lion eee imaš pravico eee <b>kjer</b> koli v svetu si poiskati lokalni klub še posebej če rabiš pomoč in lahko računaš na pomoč</em>
 * <em>ka</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22: <em><b>ka</b> so stopnjo više kakor ti [gap]</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>ta človek se tako pisal <b>ka</b> to fi ?</em>
-* <em>k</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 10: <em>ne ta ta je taka eem <b>k</b> [gap] jaz temu pravim življenjska</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 8: <em>ja če imamo [gap] <b>k</b> analizam</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2: <em>jo pa ej sploh ne vem a so se pogledal oni mislim na teh slikah <b>k</b></em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>eee ti in jaz čisto v dobri veri dajta mi malo za piti a veš pa me zebe sem šla se obleči in kostanj lepo lupimo tam <b>k</b> eee [name:personal] ga pa peče</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 40: <em><b>ka</b> so stopnjo više kakor ti</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 3: <em>ta človek se tako pisal <b>ka</b> to fi</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em><b>ka</b> to je zato ker morajo te avtorske pravice redno mislim pa- pač plačevati pa to</em>
+* <em>kamor</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 6: <em>tam <b>kamor</b> je eee vhod v mar- v market</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em>eee druga zadeva je majhen priročen gre <b>kamor</b> koli hočeš</em>
+* <em>kak</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 5: <em>zdaj če bo kje <b>kak</b> pravi kot že pri vas nič hudega boste pač imeli drugačno sliko</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2: <em>niti za hojo ne jaz sem za hojo bil bolj se mi zdi <b>kak</b> za vožnjo</em>
+* <em>niti</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 26: <em><b>niti</b> <b>niti</b> za hojo <b>niti</b> za hojo</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 1: <em>pogosto za lovljenje soglasja med znanjem tujih jezikov in prožnostjo slovenskega sistema nimamo dovolj jezikovnotehnoloških orodij <b>niti</b> sistematično urejenega zvočnega gradiva</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.570645).
+The form / lemma ratio of `SCONJ` is 1.052632 (the average of all parts of speech is 1.748943).
 
-The 1st highest number of forms (1) was observed with the lemma “ako”: <em>ako</em>.
+The 1st highest number of forms (2) was observed with the lemma “kakor”: <em>kak, kakor</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “da”: <em>da</em>.
+The 2nd highest number of forms (1) was observed with the lemma “ako”: <em>ako</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “dokler”: <em>dokler</em>.
+The 3rd highest number of forms (1) was observed with the lemma “da”: <em>da</em>.
 
 `SCONJ` does not occur with any features.
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (1041; 82% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (112; 9% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (49; 4% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (39; 3% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (20; 2% instances), <tt><a href="sl_sst-dep-advcl.html">advcl</a></tt> (7; 1% instances), <tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (2; 0% instances)
+`SCONJ` nodes are attached to their parents using 18 different relations: <tt><a href="sl_sst-dep-mark.html">mark</a></tt> (2960; 81% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (366; 10% instances), <tt><a href="sl_sst-dep-case.html">case</a></tt> (136; 4% instances), <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (92; 3% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (17; 0% instances), <tt><a href="sl_sst-dep-advcl.html">advcl</a></tt> (16; 0% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (15; 0% instances), <tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt> (11; 0% instances), <tt><a href="sl_sst-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="sl_sst-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="sl_sst-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="sl_sst-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (1; 0% instances), <tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (879; 69% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (94; 7% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (80; 6% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (49; 4% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (45; 4% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (37; 3% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (20; 2% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (18; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (12; 1% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 0% instances),  (3; 0% instances)
+Parents of `SCONJ` nodes belong to 16 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2426; 67% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (307; 8% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (267; 7% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (187; 5% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (149; 4% instances), <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (84; 2% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (60; 2% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (40; 1% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (32; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (11; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (6; 0% instances),  (5; 0% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-1227 (96%) `SCONJ` nodes are leaves.
+3519 (97%) `SCONJ` nodes are leaves.
 
-39 (3%) `SCONJ` nodes have one child.
+102 (3%) `SCONJ` nodes have one child.
 
-11 (1%) `SCONJ` nodes have two children.
+12 (0%) `SCONJ` nodes have two children.
 
-The highest child degree of a `SCONJ` node is 2.
+3 (0%) `SCONJ` nodes have three or more children.
 
-Children of `SCONJ` nodes are attached using 5 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (39; 64% instances), <tt><a href="sl_sst-dep-punct.html">punct</a></tt> (11; 18% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (9; 15% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (1; 2% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (37; 61% instances), <tt><a href="sl_sst-pos-PUNCT.html">PUNCT</a></tt> (11; 18% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (10; 16% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `SCONJ` nodes are attached using 9 different relations: <tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt> (78; 58% instances), <tt><a href="sl_sst-dep-fixed.html">fixed</a></tt> (34; 25% instances), <tt><a href="sl_sst-dep-orphan.html">orphan</a></tt> (10; 7% instances), <tt><a href="sl_sst-dep-parataxis-restart.html">parataxis:restart</a></tt> (4; 3% instances), <tt><a href="sl_sst-dep-discourse.html">discourse</a></tt> (3; 2% instances), <tt><a href="sl_sst-dep-discourse-filler.html">discourse:filler</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="sl_sst-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="sl_sst-dep-conj.html">conj</a></tt> (1; 1% instances)
+
+Children of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> (84; 62% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt> (18; 13% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (12; 9% instances), <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> (9; 7% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

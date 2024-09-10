@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
 Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY 4.0
 
@@ -84,7 +84,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## POS Tags
 
-[ADJ](ca_ancora-pos-ADJ.html) – [ADP](ca_ancora-pos-ADP.html) – [ADV](ca_ancora-pos-ADV.html) – [AUX](ca_ancora-pos-AUX.html) – [CCONJ](ca_ancora-pos-CCONJ.html) – [DET](ca_ancora-pos-DET.html) – [INTJ](ca_ancora-pos-INTJ.html) – [NOUN](ca_ancora-pos-NOUN.html) – [NUM](ca_ancora-pos-NUM.html) – [PART](ca_ancora-pos-PART.html) – [PRON](ca_ancora-pos-PRON.html) – [PROPN](ca_ancora-pos-PROPN.html) – [PUNCT](ca_ancora-pos-PUNCT.html) – [SCONJ](ca_ancora-pos-SCONJ.html) – [SYM](ca_ancora-pos-SYM.html) – [VERB](ca_ancora-pos-VERB.html) – [X](ca_ancora-pos-X.html)
+[ADJ](ca_ancora-pos-ADJ.html) – [ADP](ca_ancora-pos-ADP.html) – [ADV](ca_ancora-pos-ADV.html) – [AUX](ca_ancora-pos-AUX.html) – [CCONJ](ca_ancora-pos-CCONJ.html) – [DET](ca_ancora-pos-DET.html) – [INTJ](ca_ancora-pos-INTJ.html) – [NOUN](ca_ancora-pos-NOUN.html) – [NUM](ca_ancora-pos-NUM.html) – [PART](ca_ancora-pos-PART.html) – [PRON](ca_ancora-pos-PRON.html) – [PROPN](ca_ancora-pos-PROPN.html) – [PUNCT](ca_ancora-pos-PUNCT.html) – [SCONJ](ca_ancora-pos-SCONJ.html) – [SYM](ca_ancora-pos-SYM.html) – [VERB](ca_ancora-pos-VERB.html)
 
 ## Features
 
@@ -92,17 +92,17 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## Relations
 
-[acl](ca_ancora-dep-acl.html) – [acl:relcl](ca_ancora-dep-acl-relcl.html) – [advcl](ca_ancora-dep-advcl.html) – [advmod](ca_ancora-dep-advmod.html) – [advmod:emph](ca_ancora-dep-advmod-emph.html) – [amod](ca_ancora-dep-amod.html) – [appos](ca_ancora-dep-appos.html) – [aux](ca_ancora-dep-aux.html) – [case](ca_ancora-dep-case.html) – [cc](ca_ancora-dep-cc.html) – [ccomp](ca_ancora-dep-ccomp.html) – [compound](ca_ancora-dep-compound.html) – [conj](ca_ancora-dep-conj.html) – [cop](ca_ancora-dep-cop.html) – [csubj](ca_ancora-dep-csubj.html) – [csubj:pass](ca_ancora-dep-csubj-pass.html) – [dep](ca_ancora-dep-dep.html) – [det](ca_ancora-dep-det.html) – [discourse](ca_ancora-dep-discourse.html) – [expl](ca_ancora-dep-expl.html) – [expl:pass](ca_ancora-dep-expl-pass.html) – [fixed](ca_ancora-dep-fixed.html) – [flat](ca_ancora-dep-flat.html) – [iobj](ca_ancora-dep-iobj.html) – [mark](ca_ancora-dep-mark.html) – [nmod](ca_ancora-dep-nmod.html) – [nsubj](ca_ancora-dep-nsubj.html) – [nsubj:pass](ca_ancora-dep-nsubj-pass.html) – [nummod](ca_ancora-dep-nummod.html) – [obj](ca_ancora-dep-obj.html) – [obl](ca_ancora-dep-obl.html) – [parataxis](ca_ancora-dep-parataxis.html) – [punct](ca_ancora-dep-punct.html) – [root](ca_ancora-dep-root.html) – [vocative](ca_ancora-dep-vocative.html) – [xcomp](ca_ancora-dep-xcomp.html)
+[acl](ca_ancora-dep-acl.html) – [acl:relcl](ca_ancora-dep-acl-relcl.html) – [advcl](ca_ancora-dep-advcl.html) – [advmod](ca_ancora-dep-advmod.html) – [advmod:emph](ca_ancora-dep-advmod-emph.html) – [amod](ca_ancora-dep-amod.html) – [appos](ca_ancora-dep-appos.html) – [aux](ca_ancora-dep-aux.html) – [case](ca_ancora-dep-case.html) – [cc](ca_ancora-dep-cc.html) – [ccomp](ca_ancora-dep-ccomp.html) – [compound](ca_ancora-dep-compound.html) – [conj](ca_ancora-dep-conj.html) – [cop](ca_ancora-dep-cop.html) – [csubj](ca_ancora-dep-csubj.html) – [csubj:pass](ca_ancora-dep-csubj-pass.html) – [dep](ca_ancora-dep-dep.html) – [det](ca_ancora-dep-det.html) – [discourse](ca_ancora-dep-discourse.html) – [dislocated](ca_ancora-dep-dislocated.html) – [expl](ca_ancora-dep-expl.html) – [expl:pass](ca_ancora-dep-expl-pass.html) – [fixed](ca_ancora-dep-fixed.html) – [flat](ca_ancora-dep-flat.html) – [mark](ca_ancora-dep-mark.html) – [nmod](ca_ancora-dep-nmod.html) – [nsubj](ca_ancora-dep-nsubj.html) – [nsubj:outer](ca_ancora-dep-nsubj-outer.html) – [nsubj:pass](ca_ancora-dep-nsubj-pass.html) – [nummod](ca_ancora-dep-nummod.html) – [obj](ca_ancora-dep-obj.html) – [obl](ca_ancora-dep-obl.html) – [obl:agent](ca_ancora-dep-obl-agent.html) – [obl:arg](ca_ancora-dep-obl-arg.html) – [parataxis](ca_ancora-dep-parataxis.html) – [punct](ca_ancora-dep-punct.html) – [root](ca_ancora-dep-root.html) – [vocative](ca_ancora-dep-vocative.html) – [xcomp](ca_ancora-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 16678 sentences, 530794 tokens and 546665 syntactic words.</li>
+<li>This corpus contains 16678 sentences, 531390 tokens and 547261 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 76696 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 77292 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -123,7 +123,8 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: X</li>
 </ul>
 
 <ul>
@@ -204,8 +205,8 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ: primera, nova, catalana, noves, política, segona, única, pública, bona, espanyola</li>
       <li>ADJ-Part: passada, oberta, privada, prevista, relacionades, dedicada, presentada, situada, integrada, feta</li>
       <li>DET: la, les, una, seva, aquesta, seves, aquestes, totes, altra, tota</li>
-      <li>NOUN: persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació, banda</li>
-      <li>NUM: dues, una, mitja, ambdues, desena, tres-centes, Desenes, Vuit-centes, cinquena, dues-centes</li>
+      <li>NOUN: pessetes, persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació</li>
+      <li>NUM: dues, una, mitja, ambdues, desena, tres-centes, Desenes, Vuit-centes, X, cinquena</li>
       <li>PRON: la, una, les, aquesta, altra, unes, ella, algunes, totes, elles</li>
       <li>PROPN: Seu, Companyia, Font</li>
       <li>VERB-Part: dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</li>
@@ -232,7 +233,6 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>NUM: dos, un, mig, ambdós, quart, cinc-cents, 2, centenars, desè, quatre-centes</li>
       <li>PRON: un, tot, el, ell, uns, lo, ells, alguns, aquest, tots</li>
       <li>PROPN: Cobain, Justícia, Kurt, Pla</li>
-      <li>SYM: 1%</li>
       <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</li>
     </ul>
   </li>
@@ -258,7 +258,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ-Part: relacionats, afectats, relacionades, facilitades, afectades, presentades, realitzades, disposats, previstes, determinades</li>
       <li>AUX-Fin: van, han, són, estan, hem, poden, havien, seran, podran, eren</li>
       <li>DET: els, les, seus, altres, aquests, seves, tots, aquestes, uns, diferents</li>
-      <li>NOUN: anys, milions, persones, obres, mesos, joves, dies, empreses, agents, activitats</li>
+      <li>NOUN: anys, milions, pessetes, persones, obres, mesos, joves, dies, euros, empreses</li>
       <li>NUM: dos, tres, dues, quatre, cinc, sis, set, vuit, deu, nou</li>
       <li>PRON: els, ens, quals, altres, uns, ells, les, los, alguns, nosaltres</li>
       <li>VERB-Fin: tenen, fan, tenim, faran, volen, van, formen, consideren, destaquen, volem</li>
@@ -276,7 +276,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>AUX-Part: estat, pogut, hagut, anat, sigut, sabut</li>
       <li>DET: el, la, l', un, una, aquest, seva, aquesta, seu, tot</li>
       <li>NOUN: any, president, part, terme, grup, projecte, cap, lloc, cas, portaveu</li>
-      <li>NUM: un, una, mig, mitja, doble, quart, triple, desena, cinquena, desè</li>
+      <li>NUM: un, una, mig, mitja, doble, quart, triple, desena, X, cinquena</li>
       <li>PRON: un, li, tot, això, ho, qual, la, el, l', ell</li>
       <li>PROPN: Seu, Cobain, Companyia, Font, Justícia, Kurt, Pla</li>
       <li>VERB-Fin: té, ha, fa, considera, cal, farà, vol, tracta, demana, tenia</li>
@@ -292,7 +292,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: ho, la, el, l', lo, les, mi, si, 'l, -ho</li>
+      <li>PRON: ho, la, el, l', lo, les, mi, si, els, 'l</li>
     </ul>
   </li>
 </ul>
@@ -308,7 +308,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Dat
     <ul>
-      <li>PRON: li</li>
+      <li>PRON: li, es, s', ens, em, els, se, m', 's, et</li>
     </ul>
   </li>
 </ul>
@@ -570,7 +570,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Card
     <ul>
-      <li>NUM: dos, tres, cent, dues, quatre, un, cinc, nou, 10, sis</li>
+      <li>NUM: dos, tres, dues, quatre, cent, un, 10, cinc, una, sis</li>
     </ul>
   </li>
 </ul>
@@ -579,7 +579,6 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Frac
     <ul>
       <li>NUM: cada, 1,1, 10, 15, 161, 17,8/100.000, 26,5/100.000, 3,9, 37,45, 57,9/100.000</li>
-      <li>SYM: 50%, 10%, 30%, 5%, 25%, 1%, 20%, 40%, 2%, 0,1%</li>
     </ul>
   </li>
 </ul>
@@ -707,7 +706,6 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
         <ul>
           <li>ADV: més</li>
           <li>NOUN: 1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</li>
-          <li>SYM: 22,7%</li>
         </ul>
       </li>
     </ul>
@@ -742,9 +740,18 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>Digit
         <ul>
           <li>ADJ: 7a, 18a, 51a, 11a, 129a, 152a, 19a, 1a, 2a, 30a</li>
-          <li>NOUN: pessetes, euros, dòlars, PTA, pesseta, euro, dòlar, corones, marcs, pta.</li>
-          <li>NUM: 10, 15, 30, 20, 5, 4, 12, 2, 2000, 25</li>
-          <li>SYM: %, 50%, 10%, 30%, 40%, 5%, 25%, 1%, 20%, 2%</li>
+          <li>NUM: 10, 15, 30, 5, 20, 2, 12, 4, 50, 25</li>
+          <li>SYM: %, -3%</li>
+        </ul>
+      </li>
+      <li>Roman
+        <ul>
+          <li>NUM: XX, II, XIX, XXI, III, X, XVI, XIII, IV, VII</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: dos, tres, dues, quatre, cent, un, cinc, una, sis, vuit</li>
         </ul>
       </li>
     </ul>
@@ -838,41 +845,31 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6455)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (6)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (5)</li>
+      <li>VERB-Fin--NOUN (6449)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (3)</li>
       <li>VERB-Fin--NOUN-ADP(des) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(juntament) (2)</li>
-      <li>VERB-Fin--PRON (3583)</li>
+      <li>VERB-Fin--PRON (3569)</li>
       <li>VERB-Fin--PRON-ADP(a) (2)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-ADP(per) (1)</li>
-      <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (6)</li>
-      <li>VERB-Fin--PRON-Gen (19)</li>
+      <li>VERB-Fin--PRON-Acc,Dat (3)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Nom (53)</li>
       <li>VERB-Ger--NOUN (139)</li>
-      <li>VERB-Ger--NOUN-ADP(a) (1)</li>
       <li>VERB-Ger--PRON (74)</li>
-      <li>VERB-Ger--PRON-Gen (1)</li>
-      <li>VERB-Inf--NOUN (3233)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (3)</li>
-      <li>VERB-Inf--NOUN-ADP(juntament) (2)</li>
+      <li>VERB-Inf--NOUN (3228)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (1)</li>
       <li>VERB-Inf--NOUN-ADP(sobre) (1)</li>
-      <li>VERB-Inf--PRON (1207)</li>
+      <li>VERB-Inf--PRON (1206)</li>
       <li>VERB-Inf--PRON-ADP(de) (2)</li>
-      <li>VERB-Inf--PRON-Acc (3)</li>
+      <li>VERB-Inf--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Acc,Dat (1)</li>
-      <li>VERB-Inf--PRON-Gen (9)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN (2711)</li>
-      <li>VERB-Part--NOUN-ADP(a) (3)</li>
+      <li>VERB-Part--NOUN (2699)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
-      <li>VERB-Part--NOUN-ADP(juntament) (1)</li>
-      <li>VERB-Part--PRON (886)</li>
-      <li>VERB-Part--PRON-ADP(sobre) (1)</li>
-      <li>VERB-Part--PRON-Gen (6)</li>
+      <li>VERB-Part--PRON (881)</li>
       <li>VERB-Part--PRON-Nom (9)</li>
     </ul>
   </li>
@@ -881,151 +878,42 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-ADP(a) (1)</li>
-      <li>VERB-Fin--NOUN (6188)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (832)</li>
-      <li>VERB-Fin--NOUN-ADP(a)-ADP(a) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(a)-ADP(amb) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(a)-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(amb) (225)</li>
-      <li>VERB-Fin--NOUN-ADP(cap) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(com) (132)</li>
-      <li>VERB-Fin--NOUN-ADP(contra) (11)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (524)</li>
-      <li>VERB-Fin--NOUN-ADP(de)-ADP(a) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(de)-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(de)-ADP(entre) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(des) (6)</li>
-      <li>VERB-Fin--NOUN-ADP(dins) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(dins)-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(en) (338)</li>
-      <li>VERB-Fin--NOUN-ADP(entre) (14)</li>
-      <li>VERB-Fin--NOUN-ADP(fins) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(fins)-ADP(a) (7)</li>
-      <li>VERB-Fin--NOUN-ADP(menys) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(més) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(pel) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(per) (72)</li>
-      <li>VERB-Fin--NOUN-ADP(per)-ADP(a) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(per)-ADP(sobre) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(referent) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(sense) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(sobre) (15)</li>
-      <li>VERB-Fin--NOUN-ADP(sota) (7)</li>
-      <li>VERB-Fin--PRON (1083)</li>
-      <li>VERB-Fin--PRON-ADP(a) (99)</li>
-      <li>VERB-Fin--PRON-ADP(a)-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-ADP(amb) (22)</li>
-      <li>VERB-Fin--PRON-ADP(com) (2)</li>
-      <li>VERB-Fin--PRON-ADP(contra) (1)</li>
-      <li>VERB-Fin--PRON-ADP(de) (62)</li>
-      <li>VERB-Fin--PRON-ADP(en) (33)</li>
-      <li>VERB-Fin--PRON-ADP(entre) (1)</li>
-      <li>VERB-Fin--PRON-ADP(juntament) (1)</li>
-      <li>VERB-Fin--PRON-ADP(per) (3)</li>
-      <li>VERB-Fin--PRON-ADP(per)-ADP(a) (1)</li>
-      <li>VERB-Fin--PRON-Acc (441)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (3276)</li>
-      <li>VERB-Fin--PRON-Acc,Dat-ADP(a) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(a) (6)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(amb) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(de) (2)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(en) (1)</li>
+      <li>VERB-Fin--NOUN (6247)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (271)</li>
+      <li>VERB-Fin--PRON (1113)</li>
+      <li>VERB-Fin--PRON-ADP(a) (31)</li>
+      <li>VERB-Fin--PRON-Acc (464)</li>
+      <li>VERB-Fin--PRON-Acc,Dat (3404)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(a) (3)</li>
       <li>VERB-Fin--PRON-Dat (179)</li>
-      <li>VERB-Fin--PRON-Gen (134)</li>
-      <li>VERB-Fin--PRON-Loc (743)</li>
-      <li>VERB-Ger--NOUN (509)</li>
-      <li>VERB-Ger--NOUN-ADP(a) (49)</li>
-      <li>VERB-Ger--NOUN-ADP(amb) (25)</li>
-      <li>VERB-Ger--NOUN-ADP(com) (7)</li>
-      <li>VERB-Ger--NOUN-ADP(contra) (3)</li>
-      <li>VERB-Ger--NOUN-ADP(de) (36)</li>
-      <li>VERB-Ger--NOUN-ADP(dins) (1)</li>
-      <li>VERB-Ger--NOUN-ADP(en) (26)</li>
-      <li>VERB-Ger--NOUN-ADP(per) (3)</li>
-      <li>VERB-Ger--NOUN-ADP(per)-ADP(a) (1)</li>
-      <li>VERB-Ger--NOUN-ADP(sobre) (3)</li>
+      <li>VERB-Fin--PRON-Gen (136)</li>
+      <li>VERB-Fin--PRON-Loc (749)</li>
+      <li>VERB-Ger--NOUN (513)</li>
+      <li>VERB-Ger--NOUN-ADP(a) (20)</li>
       <li>VERB-Ger--PRON (48)</li>
       <li>VERB-Ger--PRON-ADP(a) (1)</li>
-      <li>VERB-Ger--PRON-ADP(de) (2)</li>
-      <li>VERB-Ger--PRON-ADP(en) (3)</li>
-      <li>VERB-Ger--PRON-Acc (40)</li>
+      <li>VERB-Ger--PRON-Acc (41)</li>
       <li>VERB-Ger--PRON-Acc,Dat (144)</li>
       <li>VERB-Ger--PRON-Dat (11)</li>
       <li>VERB-Ger--PRON-Gen (2)</li>
       <li>VERB-Ger--PRON-Loc (1)</li>
-      <li>VERB-Inf--NOUN (6651)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (760)</li>
-      <li>VERB-Inf--NOUN-ADP(a)-ADP(de) (3)</li>
-      <li>VERB-Inf--NOUN-ADP(amb) (151)</li>
-      <li>VERB-Inf--NOUN-ADP(amb)-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(cap) (2)</li>
-      <li>VERB-Inf--NOUN-ADP(com) (94)</li>
-      <li>VERB-Inf--NOUN-ADP(contra) (25)</li>
-      <li>VERB-Inf--NOUN-ADP(damunt)-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(davant) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(de) (278)</li>
-      <li>VERB-Inf--NOUN-ADP(de)-ADP(entre) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(des) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(en) (245)</li>
-      <li>VERB-Inf--NOUN-ADP(entre) (2)</li>
-      <li>VERB-Inf--NOUN-ADP(fins) (4)</li>
-      <li>VERB-Inf--NOUN-ADP(fins)-ADP(a) (4)</li>
-      <li>VERB-Inf--NOUN-ADP(juntament) (2)</li>
-      <li>VERB-Inf--NOUN-ADP(per) (51)</li>
-      <li>VERB-Inf--NOUN-ADP(per)-ADP(a) (2)</li>
-      <li>VERB-Inf--NOUN-ADP(prop) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(sense) (3)</li>
-      <li>VERB-Inf--NOUN-ADP(sobre) (25)</li>
-      <li>VERB-Inf--NOUN-ADP(sota) (2)</li>
-      <li>VERB-Inf--PRON (456)</li>
-      <li>VERB-Inf--PRON-ADP(a) (52)</li>
-      <li>VERB-Inf--PRON-ADP(amb) (11)</li>
-      <li>VERB-Inf--PRON-ADP(com) (2)</li>
-      <li>VERB-Inf--PRON-ADP(contra) (1)</li>
-      <li>VERB-Inf--PRON-ADP(de) (20)</li>
-      <li>VERB-Inf--PRON-ADP(en) (9)</li>
-      <li>VERB-Inf--PRON-ADP(sobre) (1)</li>
-      <li>VERB-Inf--PRON-Acc (500)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (2060)</li>
-      <li>VERB-Inf--PRON-Acc,Dat-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON-Acc,Dat-ADP(de) (1)</li>
+      <li>VERB-Inf--NOUN (6704)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (258)</li>
+      <li>VERB-Inf--PRON (463)</li>
+      <li>VERB-Inf--PRON-ADP(a) (16)</li>
+      <li>VERB-Inf--PRON-Acc (523)</li>
+      <li>VERB-Inf--PRON-Acc,Dat (2118)</li>
       <li>VERB-Inf--PRON-Acc-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON-Dat (208)</li>
+      <li>VERB-Inf--PRON-Dat (207)</li>
       <li>VERB-Inf--PRON-Gen (96)</li>
       <li>VERB-Inf--PRON-Loc (142)</li>
-      <li>VERB-Part--NOUN (2011)</li>
-      <li>VERB-Part--NOUN-ADP(a) (298)</li>
-      <li>VERB-Part--NOUN-ADP(a)-ADP(a) (1)</li>
-      <li>VERB-Part--NOUN-ADP(a)-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN-ADP(amb) (50)</li>
-      <li>VERB-Part--NOUN-ADP(cap) (1)</li>
-      <li>VERB-Part--NOUN-ADP(com) (57)</li>
-      <li>VERB-Part--NOUN-ADP(contra) (7)</li>
-      <li>VERB-Part--NOUN-ADP(de) (97)</li>
-      <li>VERB-Part--NOUN-ADP(des) (1)</li>
-      <li>VERB-Part--NOUN-ADP(dins) (1)</li>
-      <li>VERB-Part--NOUN-ADP(en) (116)</li>
-      <li>VERB-Part--NOUN-ADP(entre) (2)</li>
-      <li>VERB-Part--NOUN-ADP(fins) (1)</li>
-      <li>VERB-Part--NOUN-ADP(fins)-ADP(a) (1)</li>
-      <li>VERB-Part--NOUN-ADP(per) (200)</li>
-      <li>VERB-Part--NOUN-ADP(sense) (2)</li>
-      <li>VERB-Part--NOUN-ADP(sobre) (7)</li>
-      <li>VERB-Part--NOUN-ADP(sota) (1)</li>
-      <li>VERB-Part--PRON (280)</li>
-      <li>VERB-Part--PRON-ADP(a) (24)</li>
-      <li>VERB-Part--PRON-ADP(amb) (4)</li>
-      <li>VERB-Part--PRON-ADP(com) (1)</li>
-      <li>VERB-Part--PRON-ADP(de) (23)</li>
-      <li>VERB-Part--PRON-ADP(en) (12)</li>
-      <li>VERB-Part--PRON-ADP(entre)-ADP(de) (1)</li>
-      <li>VERB-Part--PRON-ADP(per) (8)</li>
-      <li>VERB-Part--PRON-ADP(sobre) (1)</li>
-      <li>VERB-Part--PRON-Acc (122)</li>
-      <li>VERB-Part--PRON-Acc,Dat (983)</li>
+      <li>VERB-Part--NOUN (2038)</li>
+      <li>VERB-Part--NOUN-ADP(a) (131)</li>
+      <li>VERB-Part--PRON (284)</li>
+      <li>VERB-Part--PRON-ADP(a) (8)</li>
+      <li>VERB-Part--PRON-Acc (124)</li>
+      <li>VERB-Part--PRON-Acc,Dat (1022)</li>
       <li>VERB-Part--PRON-Acc-ADP(a) (2)</li>
-      <li>VERB-Part--PRON-Acc-ADP(amb) (2)</li>
       <li>VERB-Part--PRON-Dat (52)</li>
       <li>VERB-Part--PRON-Gen (28)</li>
       <li>VERB-Part--PRON-Loc (83)</li>
@@ -1036,61 +924,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (104)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (66)</li>
-      <li>VERB-Fin--NOUN-ADP(amb) (2)</li>
-      <li>VERB-Fin--NOUN-ADP(com) (43)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (22)</li>
-      <li>VERB-Fin--NOUN-ADP(en) (5)</li>
-      <li>VERB-Fin--NOUN-ADP(per) (3)</li>
-      <li>VERB-Fin--PRON (39)</li>
-      <li>VERB-Fin--PRON-ADP(a) (21)</li>
-      <li>VERB-Fin--PRON-ADP(de) (4)</li>
-      <li>VERB-Fin--PRON-ADP(en) (3)</li>
-      <li>VERB-Fin--PRON-Acc (25)</li>
-      <li>VERB-Fin--PRON-Acc,Dat (221)</li>
-      <li>VERB-Fin--PRON-Dat (29)</li>
-      <li>VERB-Fin--PRON-Gen (10)</li>
-      <li>VERB-Fin--PRON-Loc (16)</li>
-      <li>VERB-Ger--NOUN (7)</li>
-      <li>VERB-Ger--NOUN-ADP(a) (3)</li>
-      <li>VERB-Ger--NOUN-ADP(amb) (1)</li>
-      <li>VERB-Ger--NOUN-ADP(de) (2)</li>
-      <li>VERB-Ger--PRON (1)</li>
-      <li>VERB-Ger--PRON-Acc (1)</li>
-      <li>VERB-Ger--PRON-Acc,Dat (2)</li>
-      <li>VERB-Ger--PRON-Dat (2)</li>
-      <li>VERB-Inf--NOUN (92)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (69)</li>
-      <li>VERB-Inf--NOUN-ADP(amb) (3)</li>
-      <li>VERB-Inf--NOUN-ADP(com) (7)</li>
-      <li>VERB-Inf--NOUN-ADP(de) (8)</li>
-      <li>VERB-Inf--NOUN-ADP(en) (7)</li>
-      <li>VERB-Inf--NOUN-ADP(fins) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(per)-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON (13)</li>
-      <li>VERB-Inf--PRON-ADP(a) (6)</li>
-      <li>VERB-Inf--PRON-ADP(de) (2)</li>
-      <li>VERB-Inf--PRON-Acc (27)</li>
-      <li>VERB-Inf--PRON-Acc,Dat (109)</li>
-      <li>VERB-Inf--PRON-Dat (43)</li>
-      <li>VERB-Inf--PRON-Gen (2)</li>
-      <li>VERB-Inf--PRON-Loc (1)</li>
-      <li>VERB-Part--NOUN (42)</li>
-      <li>VERB-Part--NOUN-ADP(a) (32)</li>
-      <li>VERB-Part--NOUN-ADP(amb) (1)</li>
-      <li>VERB-Part--NOUN-ADP(com) (7)</li>
-      <li>VERB-Part--NOUN-ADP(de) (3)</li>
-      <li>VERB-Part--NOUN-ADP(de)-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN-ADP(en) (3)</li>
-      <li>VERB-Part--NOUN-ADP(per) (2)</li>
-      <li>VERB-Part--PRON (7)</li>
-      <li>VERB-Part--PRON-ADP(a) (3)</li>
-      <li>VERB-Part--PRON-ADP(de) (2)</li>
-      <li>VERB-Part--PRON-ADP(en) (2)</li>
-      <li>VERB-Part--PRON-Acc (3)</li>
-      <li>VERB-Part--PRON-Acc,Dat (64)</li>
-      <li>VERB-Part--PRON-Dat (21)</li>
     </ul>
   </li>
 </ul>
@@ -1099,21 +932,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 193 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: tractar es, parlar es, arribar s', passar s', tenir es, voler es, procedir es, fer es, treballar es, desprendre es, fer s', passar es, disposar es, informar s', instar s', tractar se, actuar s', anar s', arribar es, avançar s', començar es, dir es, optar s', parlar s', convidar s', esperar s', poder es, acusar s', comptar es, conèixer se, entrar s', incrementar s', informar se, llegir es, pagar es, portar es, treballar s', veure es, viure es, accedir es, acusar se, anar es, confiar es, convertir es, dir se, disparar es, donar es, donar s', donar se, emmarcar s'</li>
+  <li>This corpus contains 195 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: tractar es, parlar es, arribar s', passar s', tenir es, voler es, procedir es, fer es, treballar es, desprendre es, fer s', passar es, disposar es, informar s', instar s', tractar se, actuar s', anar s', arribar es, avançar s', començar es, dir es, optar s', parlar s', convidar s', esperar s', poder es, acusar s', comptar es, conèixer se, entrar s', incrementar s', informar se, llegir es, pagar es, portar es, treballar s', veure es, viure es, accedir es, acusar se, anar es, confiar es, convertir es, dir se, disparar es, donar es, donar s', donar se, emmarcar s'</li>
 </ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1507 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: fer es, produir es, fer s', trobar es, celebrar se, veure es, presentar es, mantenir es, situar se, donar es, produir s', posar es, mostrar s', acabar s', convertir es, mostrar es, iniciar s', presentar s', completar es, convertir s', veure s', dir es, incloure s', sentir se, preveure es, dur es, obrir s', basar es, dedicar es, negar es, fer se, voler es, considerar es, construir es, comprometre es, demanar es, desenvolupar es, esperar s', quedar es, traslladar es, establir s', portar es, realitzar es, reduir es, referir es, registrar es, afegir s', centrar se, destinar es, instal·lar s'</li>
+  <li>This corpus contains 1482 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: fer es, produir es, fer s', trobar es, celebrar se, veure es, presentar es, mantenir es, situar se, donar es, produir s', posar es, acabar s', convertir es, mostrar s', iniciar s', presentar s', completar es, convertir s', veure s', dir es, mostrar es, incloure s', sentir se, preveure es, dur es, obrir s', dedicar es, basar es, voler es, considerar es, construir es, fer se, negar es, demanar es, desenvolupar es, esperar s', quedar es, traslladar es, establir s', portar es, realitzar es, reduir es, referir es, registrar es, afegir s', centrar se, comprometre es, destinar es, instal·lar s'</li>
     <ul>
-      <li>Out of those, 44 lemmas occurred more than once, but never without a reflexive dependent. Examples: emportar-se, abstenir-se, adherir, personar-se, assemblar, estancar, enfonsar, prolongar, retractar, ajuntar, aliar, desentendre, encastar, endinsar, gronxar, llicenciar, plasmar, prostituir, refugiar, resistir, revaloritzar, submergir, acontentar, agenollar-se, amuntegar, avenir, banalitzar, congratular, disculpar, emancipar, embrancar, empassar-se, enamorar, encadenar, enfilar, enquadrar, extingir, habituar, interrelacionar, rebel·lar-se, reconstruir, reincorporar, ressentir-se, suïcidar-se</li>
+      <li>Out of those, 42 lemmas occurred more than once, but never without a reflexive dependent. Examples: abstenir-se, adherir, personar-se, assemblar, estancar, enfonsar, prolongar, retractar, ajuntar, aliar, desentendre, encastar, endinsar, gronxar, llicenciar, plasmar, prostituir, refugiar, resistir, revaloritzar, submergir, acontentar, agenollar-se, amuntegar, avenir, banalitzar, disculpar, emancipar, embrancar, empassar-se, enamorar, encadenar, enfilar, enquadrar, extingir, habituar, interrelacionar, rebel·lar-se, reconstruir, reincorporar, ressentir-se, suïcidar-se</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>nsubj:pass</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

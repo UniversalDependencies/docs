@@ -23,4 +23,4 @@ Chinese classifiers between cardinal numbers and nouns, or between determiners a
 
 * [zh] 三<b>項</b>工程 / _sān <b>xiàng</b> gōngchéng_ “three projects”
 
-<!-- Interlanguage links updated Po lis 14 15:34:50 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:06 CEST -->

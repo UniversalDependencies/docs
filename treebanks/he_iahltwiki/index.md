@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Amir Zeldes, Avner Algom, Noam Ordan, Yifat Ben Moshe, Shira Wigderson.
 
 Repository: [UD_Hebrew-IAHLTwiki](https://github.com/UniversalDependencies/UD_Hebrew-IAHLTwiki)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltwiki211)<br />
-Download all treebanks: [UD 2.11](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltwiki214)<br />
+Download all treebanks: [UD 2.14](/#download)
 
 License: CC BY-SA 4.0
 
@@ -353,7 +353,7 @@ address = {Abu Dhabi, UAE},
       <li>AUX: היה, היו, הייתה, להיות, תהיה, יהיה, הייתי, יהיו, היינו, תהיינה</li>
       <li>AUX-Inf: להיות</li>
       <li>PRON: הוא, היא, הם, הן, י, ם</li>
-      <li>VERB: יש, היו, היה, הייתה, ישנם, ישנה, ישנו, ישנן, להיות, יהיו</li>
+      <li>VERB: יש, היו, היה, הייתה, ישנם, ישנה, ישנו, ישנן, יהיו, להיות</li>
       <li>VERB-Inf: להיות</li>
     </ul>
   </li>
@@ -395,7 +395,7 @@ address = {Abu Dhabi, UAE},
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: יהיה, תהיה, יהיו, תוכל, יוכל, יוכלו, תהא, יָוכְלוּ, יהא, יכלו</li>
+      <li>AUX: יהיה, תהיה, יהיו, תוכל, יוכל, יוכלו, תהא, אהיה, יָוכְלוּ, יהא</li>
       <li>AUX-Part: תוכל</li>
       <li>VERB: יהיה, תשלם, יאפשר, יהיו, ייתכן, יקבלו, ישלמו, תוביל, תכניס, יפעיל</li>
       <li>VERB-Part: תלויה</li>
@@ -568,7 +568,7 @@ address = {Abu Dhabi, UAE},
 <ul>
   <li>1
     <ul>
-      <li>AUX: הייתי, איננו, היינו, נהיה</li>
+      <li>AUX: הייתי, איננו, אהיה, היינו, נהיה</li>
       <li>PRON: י, נו, אני, אנחנו, ני, אנו, אנוכי, עצמי, עצמנו</li>
       <li>VERB: טענו, אוהב, מרגיש, נתנו, רואה, אהבנו, אמרתי, הלכתי, יצאנו, כיהנו</li>
       <li>VERB-Part: אוהב, מרגיש, רואה, מתגעגע, עומדת, רוצים, אוכלים, זוכרים, מאירה, מבין</li>
@@ -676,7 +676,7 @@ address = {Abu Dhabi, UAE},
           <li>AUX: היה, היו, הייתה, להיות, יהיה, תהיה, הייתי, יהיו, היות, תהא</li>
           <li>AUX-Inf: להיות</li>
           <li>VERB: כתב, יצא, זכה, היו, כולל, כלל, היה, שר, אמר, טען</li>
-          <li>VERB-Inf: לגרום, למנוע, ליצור, לתת, למצוא, לדון, להיות, לעמוד, לעשות, לכתוב</li>
+          <li>VERB-Inf: לגרום, למנוע, ליצור, לתת, למצוא, לדון, לעמוד, לעשות, לכתוב, לפגוע</li>
           <li>VERB-Part: כולל, עולה, גורם, כוללים, סובלים, פוגע, גורמת, טוענים, קובע, חוזר</li>
         </ul>
       </li>
@@ -775,7 +775,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (2265)</li>
+      <li>VERB--NOUN (2264)</li>
+      <li>VERB--NOUN-ADP(את) (3)</li>
       <li>VERB--NOUN-ADP(מ) (1)</li>
       <li>VERB--NOUN-ADP(משום) (1)</li>
       <li>VERB--PRON (217)</li>
@@ -790,9 +791,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (759)</li>
+      <li>VERB--NOUN (758)</li>
       <li>VERB--NOUN-ADP(אֶת) (1)</li>
-      <li>VERB--NOUN-ADP(את) (574)</li>
+      <li>VERB--NOUN-ADP(את) (571)</li>
       <li>VERB--NOUN-ADP(ב) (1)</li>
       <li>VERB--NOUN-ADP(יותר) (1)</li>
       <li>VERB--NOUN-ADP(כמו)-ADP(את) (1)</li>
@@ -803,7 +804,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (7)</li>
       <li>VERB--PRON-Acc-ADP(יד) (1)</li>
       <li>VERB--PRON-Gen-ADP(את) (2)</li>
-      <li>VERB-Inf--NOUN (356)</li>
+      <li>VERB-Inf--NOUN (354)</li>
       <li>VERB-Inf--NOUN-ADP(את) (349)</li>
       <li>VERB-Inf--NOUN-ADP(את)-ADP(כ) (1)</li>
       <li>VERB-Inf--PRON (21)</li>

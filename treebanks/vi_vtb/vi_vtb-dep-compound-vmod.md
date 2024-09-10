@@ -9,55 +9,33 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="vi_vtb-dep-compound.html">compound</a></tt>.
 There are also 11 other language-specific subtypes of `compound`: <tt><a href="vi_vtb-dep-compound-adj.html">compound:adj</a></tt>, <tt><a href="vi_vtb-dep-compound-amod.html">compound:amod</a></tt>, <tt><a href="vi_vtb-dep-compound-apr.html">compound:apr</a></tt>, <tt><a href="vi_vtb-dep-compound-atov.html">compound:atov</a></tt>, <tt><a href="vi_vtb-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="vi_vtb-dep-compound-pron.html">compound:pron</a></tt>, <tt><a href="vi_vtb-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="vi_vtb-dep-compound-redup.html">compound:redup</a></tt>, <tt><a href="vi_vtb-dep-compound-svc.html">compound:svc</a></tt>, <tt><a href="vi_vtb-dep-compound-verbnoun.html">compound:verbnoun</a></tt>, <tt><a href="vi_vtb-dep-compound-z.html">compound:z</a></tt>.
 
-552 nodes (1%) are attached to their parents as `compound:vmod`.
+721 nodes (1%) are attached to their parents as `compound:vmod`.
 
-551 instances of `compound:vmod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05072463768116.
+720 instances of `compound:vmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04299583911234.
 
-The following 8 pairs of parts of speech are connected with `compound:vmod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (525; 95% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 compound:vmod	color:blue
-1	Đêm	đêm	NOUN	N	_	7	obl:tmod	_	_
-2	,	,	PUNCT	,	_	1	punct	_	_
-3	đội	đội	NOUN	N	_	7	nsubj	_	_
-4	quân	quân	NOUN	N	_	3	compound	_	_
-5	từ	từ	ADP	Pre	_	6	case	_	_
-6	mặt đất	mặt đất	NOUN	N	_	7	obl:comp	_	_
-7	tỏa	tỏa	VERB	V	_	0	root	_	_
-8	lên	lên	ADV	Adv	_	7	compound:prt	_	_
-9	đặt	đặt	VERB	V	_	7	xcomp	_	_
-10	mìn	mìn	NOUN	N	_	9	obj	_	_
-11	gạt	gạt	VERB	V	_	10	compound:vmod	_	_
-12	,	,	PUNCT	,	_	13	punct	_	_
-13	gài	gài	VERB	V	_	9	conj	_	_
-14	chông	chông	NOUN	N	_	13	obj	_	_
-15	.	.	PUNCT	.	_	7	punct	_	_
-
-~~~
+The following 7 pairs of parts of speech are connected with `compound:vmod`: <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (694; 96% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="vi_vtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-VERB.html">VERB</a></tt>-<tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="vi_vtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="vi_vtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 compound:vmod	color:blue
-1	Hạnh	hạnh	PROPN	NNP	_	2	nsubj	_	_
-2	lễ phép	lễ phép	ADJ	Adj	_	0	root	_	_
-3	chào	chào	VERB	V	_	2	compound:vmod	_	_
-4	bà	bà	NOUN	Nc	_	5	clf:det	_	_
-5	Liễu	Liễu	PROPN	NNP	_	2	obj	_	_
-6	và	và	CCONJ	CC	_	7	cc	_	_
-7	ngồi	ngồi	VERB	V	_	2	conj	_	_
-8	ghé	ghé	VERB	V	_	7	xcomp	_	_
-9	bên	bên	NOUN	N	_	8	obj	_	_
-10	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 compound:vmod	color:blue
+1	Nhưng	nhưng	SCONJ	C	_	5	mark	_	_
+2	khủng khiếp	khủng khiếp	ADJ	ADJ	_	5	csubj:asubj	_	_
+3	nhất	nhất	ADV	ADV	_	2	advmod	_	_
+4	là	là	AUX	AUX	_	5	cop	_	_
+5	lúc	lúc	NOUN	N	_	0	root	_	_
+6	bị	bị	AUX	AUX	_	9	aux:pass	_	_
+7	sóng	sóng	NOUN	N	_	9	obl:agent	_	_
+8	nhồi	nhồi	VERB	V	_	7	compound:vmod	_	_
+9	đập	đập	VERB	V	_	5	acl:tmod	_	_
+10	vào	vào	ADP	PRE	_	11	case	_	_
+11	thành	thành	NOUN	N	_	9	obl:comp	_	_
+12	tàu	tàu	NOUN	N	_	11	compound	_	_
+13	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 
@@ -81,6 +59,27 @@ The following 8 pairs of parts of speech are connected with `compound:vmod`: <tt
 11	thuở	thuở	NOUN	N	_	9	obl:tmod	_	_
 12	nào	nào	PRON	Pro	_	11	det:pmod	_	_
 13	.	.	PUNCT	.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 compound:vmod	color:blue
+1	Hai	hai	NUM	Num	_	2	nummod	_	_
+2	người	người	NOUN	N	_	8	nsubj	_	_
+3	trong	trong	ADP	Pre	_	4	case	_	_
+4	nhà	nhà	NOUN	N	_	2	advcl	_	_
+5	bối rối	bối rối	ADJ	Adj	_	8	amod	_	_
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	cuống quýt	cuống quýt	ADJ	Adj	_	5	conj	_	_
+8	mời	mời	VERB	V	_	0	root	_	_
+9	bà	bà	NOUN	N	_	8	obj	_	_
+10	ngồi	ngồi	VERB	V	_	8	compound:vmod	_	_
+11	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

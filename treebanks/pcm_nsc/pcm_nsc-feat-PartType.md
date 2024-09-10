@@ -26,7 +26,7 @@ The most frequent other feature values with which `AUX` and `PartType` co-occurr
 
 ### `PART`
 
-986 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (73% of all `PART` tokens) have a non-empty value of `PartType`.
+986 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (72% of all `PART` tokens) have a non-empty value of `PartType`.
 
 The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (986; 100%).
 

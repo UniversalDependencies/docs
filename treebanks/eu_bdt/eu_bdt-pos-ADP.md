@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Basque-BDT: POS Tags: `ADP`
 
-There are 71 `ADP` lemmas (1%), 139 `ADP` types (1%) and 1875 `ADP` tokens (2%).
+There are 71 `ADP` lemmas (1%), 138 `ADP` types (1%) and 1875 `ADP` tokens (2%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>arte, _, arabera, inguru, aurre, aurka, gabe, gain, alde, buruz</em>
@@ -53,9 +53,9 @@ The 10 most frequent ambiguous types:  <em>artean</em> (<tt><a href="eu_bdt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.957746 (the average of all parts of speech is 2.170820).
+The form / lemma ratio of `ADP` is 1.943662 (the average of all parts of speech is 2.170132).
 
-The 1st highest number of forms (38) was observed with the lemma “_”: <em>Aldeko, Aurkako, Gabeko, Kontrako, aitzina, aitzinetik, aldamenetik, alderat, antzean, at, aurkaa, azpitik, baitan, barnera, barruetatik, batera, bestaldean, bezalakoa, bezalakoen, bitarterako, bitartez, eskutik, gaineko, gisara, gorakoen, inguruetan, inguruetara, ingurura, irian, landara, menpe, menpera, ondora, partean, partez, pean, zai, zehar</em>.
+The 1st highest number of forms (38) was observed with the lemma “_”: <em>Aldeko, Aurkako, Gabeko, Kontrako, aitzina, aitzinetik, aldamenetik, alderat, antzean, at, aurkaa, azpitik, baitan, barnera, barruetatik, batera, bestaldean, bezalakoa, bezalakoen, bitarterako, bitartez, eskutik, gaineko, gisara, gorakoen, inguruetan, inguruetara, ingurura, irian, landara, menpe, menpera, ondora, partean, partez, pean, zai, zehar</em>.
 
 The 2nd highest number of forms (5) was observed with the lemma “alde”: <em>alde, aldean, aldeaz, aldera, aldetik</em>.
 

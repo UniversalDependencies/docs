@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	Virðulegi	virðulegur	ADJ	ADJ-N	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	IFD_tag=lkenvf
 2	forseti	forseti	NOUN	N-N	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing	5	vocative	_	IFD_tag=nken|SpaceAfter=No
 3	.	.	PUNCT	.	_	2	punct	_	IFD_tag=.
-4	Ég	ég	PRON	PRO-N	Case=Nom	5	nsubj	_	IFD_tag=x
+4	Ég	ég	PRON	PRO-N	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	IFD_tag=fp1en
 5	þakka	þakka	VERB	VBPI	Mood=Ind|Tense=Pres	0	root	_	IFD_tag=x
 6	hv.	háttvirtur	ADJ	ADJ-D	Case=Dat|Degree=Pos	7	amod	_	IFD_tag=x
 7	þingmanni	þingmaður	NOUN	N-D	Case=Dat|Definite=Ind|Number=Sing	5	iobj	_	IFD_tag=x

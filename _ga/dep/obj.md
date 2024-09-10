@@ -17,7 +17,7 @@ Bhailigh siad eolas \n Collected they information
 obj(Bhailigh, eolas)
 ~~~
 
-The object of a verb is the second most core argument of a verb after the subject, even in case where the subject is implicit. 
+The object of a verb is the second most core argument of a verb after the subject, even in cases where the subject is implicit. 
 
 _Dhíreofaí <b>aird</b> ar dhuine ar leith i ngach seisiún._  '<b>Attention</b> would be paid to one person in particular in each session'
 
@@ -75,4 +75,4 @@ _Is ag <b>déanamh</b> <b>cáca</b> atá mé._  'I'm <b>making</b> a <b>cake</b>
 Is ag déanamh cáca atá mé \n Is at_the making of_a_cake that_am I
 obj(déanamh, cáca)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:37 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:32 CEST -->

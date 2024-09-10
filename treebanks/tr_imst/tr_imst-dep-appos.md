@@ -17,51 +17,54 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 appos	color:blue
+1	Parka	park	NOUN	Noun	Case=Dat|Number=Sing|Person=3	2	obl	_	_
+2	yaklaştıklarında	yaklaş	VERB	Verb	Aspect=Perf|Case=Loc|Mood=Ind|Number[psor]=Plur|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	6	acl	_	_
+3	Memo	Memo	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	nsubj	_	_
+4	abisi	abi	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	obj	_	_
+5	Ali'yi	Ali	PROPN	Prop	Case=Acc|Number=Sing|Person=3	4	appos	_	_
+6	gördü	gör	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 appos	color:blue
+1	Kutup	kutup	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
+2	porsuğunu	porsuk	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	obj	_	_
+3	(	(	PUNCT	Punc	_	4	punct	_	SpaceAfter=No
+4	Gulo	gulo	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	appos	_	_
+5	gulo	gulo	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	compound	_	_
+6	l	l	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	compound	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	11	punct	_	SpaceAfter=No
+8	)	)	PUNCT	Punc	_	7	punct	_	_
+9	bu	bu	DET	Det	_	10	det	_	_
+10	adla	ad	NOUN	Noun	Case=Ins|Number=Sing|Person=3	11	nmod	_	_
+11	anıyorlardı	an	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Infm|Tense=Past	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	Punc	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 appos	color:blue
-1	Ağbisi	ağbi	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
-2	Firuz	Firuz	PROPN	Prop	Case=Nom|Number=Sing|Person=3	1	appos	_	SpaceAfter=No
-3	,	,	PUNCT	Punc	_	5	punct	_	_
-4	savcı	savcı	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	obj	_	_
-5	olmuş	ol	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 appos	color:blue
-1	Dört	dört	NUM	ANum	NumType=Card	2	nummod	_	_
-2	kişi	kişi	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-3	ydi	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	_
-4	bunlar	bu	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	2	nsubj	_	SpaceAfter=No
-5	:	:	PUNCT	Punc	_	2	punct	_	_
-6	Sav	sav	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	appos	_	_
-7	ve	ve	CCONJ	Conj	_	8	cc	_	_
-8	Karaosmanoğlu	Karaosmanoğlu	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	conj	_	_
-9	Atila'lar	Atila	PROPN	Prop	Case=Nom|Number=Plur|Person=3	8	flat	_	SpaceAfter=No
-10	.	.	PUNCT	Punc	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 appos	color:blue
-1	Karaosmanoğlu	Karaosmanoğlu	PROPN	Prop	Case=Nom|Number=Sing|Person=3	0	root	_	_
-2	Başbakan	başbakan	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
-3	Yardımcısı	yardımcı	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	appos	_	SpaceAfter=No
-4	.	.	PUNCT	Punc	_	1	punct	_	_
+1	Hakkı	Hakkı	PROPN	Prop	Case=Nom|Number=Sing|Person=3	3	obj	_	_
+2	öğretmenim	öğretmen	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	1	appos	_	_
+3	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 

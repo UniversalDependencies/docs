@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-N
 
 ### `NOUN`
 
-42 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (11% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+42 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (10% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 93%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (38; 90%), <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (23; 55%).
 

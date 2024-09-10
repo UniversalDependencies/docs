@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Imp`, `Ind`, `Opt`, `Sub`.
 
-26868 tokens (13%) have a non-empty value of `Mood`.
-9391 types (29%) occur at least once with a non-empty value of `Mood`.
-2162 lemmas (23%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (23918; 11% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2950; 1% instances).
+26869 tokens (13%) have a non-empty value of `Mood`.
+9395 types (29%) occur at least once with a non-empty value of `Mood`.
+2163 lemmas (23%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (23923; 11% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2946; 1% instances).
 
 ### `VERB`
 
-23918 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
+23923 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23918; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23918; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23918; 100%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (17257; 72%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16752; 70%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15607; 65%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14719; 62%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23923; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23923; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23923; 100%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (17262; 72%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (16753; 70%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15610; 65%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14720; 62%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (1735; 7% of non-empty `Mood`): <em>ἴδε, ὕπαγε, γίνεσθε, βλέπετε, ἀσπάσασθε, ποιεῖτε, πορεύου, ἄφες, γράψον, δότε</em>
-* `Ind` (19886; 83% of non-empty `Mood`): <em>εἶπεν, λέγει, ἐγένετο, λέγω, ἔχει, δεῖ, ἔλεγον, εἶπαν, εἶχον, ἦλθεν</em>
-* `Opt` (283; 1% of non-empty `Mood`): <em>γένοιτο, μέλλοι, ἔχοιεν, δῴη, λάβοι, μέλλοιεν, ἔλθοιεν, ἔχοι, βούλοιτο, δοκέοι</em>
-* `Sub` (2014; 8% of non-empty `Mood`): <em>γένηται, ἔλθῃ, εἴπῃ, πληρωθῇ, ποιήσω, ἔχῃ, ἀποθάνῃ, ποιήσῃ, ἴδητε, εἰσέλθητε</em>
-* `EMPTY` (15748): <em>λέγων, λέγοντες, γενέσθαι, ἔχων, ἀποκριθεὶς, ἔχοντες, λέγειν, ἰδὼν, ἔχειν, ἀκούσαντες</em>
+* `Ind` (19892; 83% of non-empty `Mood`): <em>εἶπεν, λέγει, ἐγένετο, λέγω, ἔχει, δεῖ, ἔλεγον, εἶπαν, εἶχον, ἦλθεν</em>
+* `Opt` (284; 1% of non-empty `Mood`): <em>γένοιτο, μέλλοι, ἔχοιεν, δῴη, λάβοι, μέλλοιεν, ἔλθοιεν, ἔχοι, βούλοιτο, δοκέοι</em>
+* `Sub` (2012; 8% of non-empty `Mood`): <em>γένηται, ἔλθῃ, εἴπῃ, πληρωθῇ, ποιήσω, ἔχῃ, ἀποθάνῃ, ποιήσῃ, ἴδητε, εἰσέλθητε</em>
+* `EMPTY` (15759): <em>λέγων, λέγοντες, γενέσθαι, ἔχων, ἀποκριθεὶς, ἔχοντες, λέγειν, ἰδὼν, ἔχειν, ἀκούσαντες</em>
 
 <table>
   <tr><th>Paradigm <i>λέγω</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Opt</tt></th></tr>
@@ -65,17 +65,17 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-2950 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Mood`.
+2946 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2950; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2950; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2950; 100%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2717; 92%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (2454; 83%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2242; 76%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2156; 73%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1945; 66%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2946; 100%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2946; 100%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2946; 100%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2714; 92%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (2450; 83%), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2241; 76%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2152; 73%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1942; 66%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (23; 1% of non-empty `Mood`): <em>ἔστω, ἴσθι, ἔστωσαν, ἤτω</em>
-* `Ind` (2743; 93% of non-empty `Mood`): <em>ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἰσὶ</em>
+* `Ind` (2739; 93% of non-empty `Mood`): <em>ἦν, ἐστιν, ἦσαν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἰσὶ</em>
 * `Opt` (97; 3% of non-empty `Mood`): <em>εἴη, εἶεν, εἴησαν, εἴημεν, εἴην, ἔσοιτο</em>
 * `Sub` (87; 3% of non-empty `Mood`): <em>ᾖ, ὦσιν, ἔωσι, ἦτε, ὦμεν, ὦ, ὠσὶν, ᾖς</em>
-* `EMPTY` (991): <em>εἶναι, ἐὼν, ἐόντα, ἐόντες, ὢν, ἐὸν, ἔσεσθαι, ἐόντας, ὄντες, ἐοῦσαν</em>
+* `EMPTY` (989): <em>εἶναι, ἐὼν, ἐόντα, ἐόντες, ὢν, ἐὸν, ἔσεσθαι, ἐόντας, ὄντες, ἐοῦσαν</em>
 
 <table>
   <tr><th>Paradigm <i>εἰμί</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Opt</tt></th></tr>
@@ -104,14 +104,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3443; 93%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (112; 72%),
-<tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (38; 93%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (27; 84%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (23; 55%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3444; 93%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (122; 70%),
+<tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (39; 85%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (30; 86%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (23; 53%),
 <tt>VERB --[<tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (9; 90%),
 <tt>AUX --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 62%),
-<tt>AUX --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="grc_proiel-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-csubj-pass.html">csubj:pass</a></tt>]--> AUX</tt> (2; 100%).
+<tt>VERB --[<tt><a href="grc_proiel-dep-csubj-pass.html">csubj:pass</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%).
 

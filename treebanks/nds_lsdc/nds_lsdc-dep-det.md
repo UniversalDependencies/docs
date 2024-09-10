@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="nds_lsdc-dep-det-poss.html">det:poss</a></tt>.
 
-266 nodes (9%) are attached to their parents as `det`.
+2197 nodes (10%) are attached to their parents as `det`.
 
-266 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25187969924812.
+2197 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25079654073737.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (241; 91% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (11; 4% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (9; 3% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (2032; 92% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (66; 3% instances), <tt><a href="nds_lsdc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (42; 2% instances), <tt><a href="nds_lsdc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="nds_lsdc-pos-VERB.html">VERB</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="nds_lsdc-pos-NUM.html">NUM</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="nds_lsdc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nds_lsdc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nds_lsdc-pos-X.html">X</a></tt>-<tt><a href="nds_lsdc-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,78 +23,60 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 det	color:blue
-1	Jå	jå	INTJ	_	_	0	root	_	lemma[gml]=jâ¹|SpaceAfter=No
+1	Jå	jå	INTJ	_	_	0	root	_	lemma_gml=jâ¹|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	_
-3	wår	wår	ADV	_	_	1	conj	_	lemma[gml]=wôr(e)
-4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Cop	3	cop	_	lemma[gml]=wēsen²
-5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma[gml]=dê¹
-6	knyptange	knyptange	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma[gml]=knîptange|SpaceAfter=No
+3	wår	wår	ADV	_	_	1	conj	_	lemma_gml=wôr(e)
+4	is	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbType=Cop	3	cop	_	lemma_gml=wēsen²
+5	de	de	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	lemma_gml=dê¹
+6	knyptange	knyptange	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	lemma_gml=knîptange|SpaceAfter=No
 7	?	?	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 det	color:blue
-1	-	-	PUNCT	_	_	4	punct	_	_
-2	De	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	lemma[gml]=dê¹
-3	buur	buur	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	lemma[gml]=bûr¹
-4	smeyt	smyten	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	lemma[gml]=smyten
-5	sik	sik	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Rcp	4	obj	_	lemma[gml]=sik¹
-6	van	van	ADP	_	AdpType=Prep	9	case	_	lemma[gml]=van¹
-7	de	de	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	9	det	_	lemma[gml]=dê¹
-8	eyne	eyn	NUM	_	Case=Dat|Gender=Fem|Number=Sing	9	nummod	_	lemma[gml]=êⁱn¹
-9	syde	syde	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	lemma[gml]=sîde¹
-10	up	up	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=up²
-11	de	de	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	lemma[gml]=dê¹
-12	andere	ander	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	9	nmod	_	lemma[gml]=ander|SpaceAfter=No
-13	,	,	PUNCT	_	_	18	punct	_	_
-14	et	et	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	expl	_	lemma[gml]=et¹
-15	was	weasen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	18	cop	_	lemma[gml]=wēsen²
-16	em	hee	PRON	_	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	18	obj	_	lemma[gml]=hê¹
-17	nich	nich	PART	_	PartType=Neg	18	advmod	_	lemma[gml]=nicht¹
-18	müägelik	möägelik	ADJ	_	Degree=Pos	4	parataxis	_	lemma[gml]=mȫgelĩk¹|SpaceAfter=No
-19	,	,	PUNCT	_	_	22	punct	_	_
-20	dat	dat	SCONJ	_	_	22	mark	_	lemma[gml]=dat²
-21	hee	hee	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	lemma[gml]=hê¹
-22	slåpen	slåpen	VERB	_	VerbForm=Inf	18	advcl	_	lemma[gml]=slâpen
-23	kon	künnen	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	22	aux	_	lemma[gml]=künnen|SpaceAfter=No
-24	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 11 10 det	color:blue
+1	Bin	weasen	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	cop	_	lemma_gml=wēsen
+2	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	lemma_gml=ik
+3	neet	nich	PART	_	PartType=Neg	5	advmod	_	lemma_gml=nicht
+4	sou	sou	ADV	_	_	5	advmod	_	lemma_gml=sô
+5	good	good	ADJ	_	Degree=Pos	0	root	_	lemma_gml=gôt
+6	by	by	ADP	_	AdpType=Prep	8	case	_	lemma_gml=bî
+7	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	lemma_gml=dê
+8	pinken	pink	NOUN	_	Case=Acc,Dat|Gender=Masc|Number=Plur	5	obl	_	lemma_gml=pinke
+9	as	as	ADP	_	_	11	case	_	lemma_gml=alsô
+10	de	de	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	lemma_gml=dê
+11	beste	good	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	obl	_	lemma_gml=gôt
+12	vöär	vöär	ADP	_	AdpType=Prep	14	case	_	lemma_gml=vȫr
+13	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	14	det	_	lemma_gml=mîn
+14	broud	broud	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	lemma_gml=brôt|SpaceAfter=No
+15	?	?	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 det	color:blue
-1	Beskreaven	beskryven	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	lemma[gml]=beschrîven
-2	un	un	CCONJ	_	_	10	cc	_	lemma[gml]=unde²
-3	to	to	ADP	_	AdpType=Prep	7	case	_	lemma[gml]=tô⁴
-4	'	'	PUNCT	_	_	5	punct	_	_
-5	m	de	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	lemma[gml]=dê¹
-6	31.	31.	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	7	amod	_	_
-7	oktober	oktober	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	obl	_	_
-8	ao.	ao.	ADV	_	_	7	advmod	_	_
-9	1817	1817	NUM	_	_	8	appos	_	_
-10	heruutgeaven	heruutgeaven	VERB	_	Aspect=Perf|VerbForm=Part	1	conj	_	_
-11	van	van	ADP	_	AdpType=Prep	12	case	_	lemma[gml]=van¹
-12	Claus	Claus	PROPN	_	Gender=Masc|Number=Sing	10	obl	_	_
-13	Harms	Harms	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
-14	archidiakonus	archidiakonus	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
-15	an	an	ADP	_	AdpType=Prep	17	case	_	lemma[gml]=an
-16	de	de	DET	_	Case=Acc,Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	lemma[gml]=dê¹
-17	St.	St.	PROPN	_	Case=Acc,Dat|Gender=Fem|Number=Sing	14	nmod	_	_
-18	Nicolaikarke	Nicolaikarke	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	17	flat	_	_
-19	in	in	ADP	_	AdpType=Prep	20	case	_	lemma[gml]=in²
-20	Kiel	Kiel	PROPN	_	Number=Sing	17	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 det	color:blue
+1	En	un	CCONJ	_	_	8	cc	_	lemma_gml=ende
+2	misskeen	misskeen	ADV	_	_	8	advmod	_	lemma_gml=machschên
+3	had	hebben	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Past	8	aux	_	lemma_gml=hebben
+4	ik	ik	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	lemma_gml=ik
+5	et	et	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	lemma_gml=hê,sê,et
+6	noch	noch	ADV	_	_	7	advmod	_	lemma_gml=noch
+7	neet	nich	PART	_	PartType=Neg	8	advmod	_	lemma_gml=nicht
+8	klårespöäld	klårspealen	VERB	_	Tense=Past|VerbForm=Part	0	root	_	lemma_gml=spēlen
+9	sunder	sünder	ADP	_	AdpType=Prep	11	case	_	lemma_gml=sunder
+10	myn	myn	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	lemma_gml=mîn
+11	Annegien	Annegien	PROPN	_	Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

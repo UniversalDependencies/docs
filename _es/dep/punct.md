@@ -12,4 +12,4 @@ for `punct`.
 Cierra la puerta ! \n Close the door !
 punct(Cierra, !)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:43 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:21:46 CEST -->

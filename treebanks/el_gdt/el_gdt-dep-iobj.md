@@ -50,8 +50,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	ο	ο	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Ποσειδώνας	Ποσειδώνας	PROPN	PROPN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 7	έφερε	φέρω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	σ	σε	ADP	AsPpSp	_	10	case	_	_
-9	το	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Sing	10	det	_	_
+8	σ	σε	ADP	ADP	_	10	case	_	_
+9	το	ο	DET	DET	Case=Acc|Gender=Neut|Number=Sing	10	det	_	_
 10	νησί	νησί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
 11	τη	ο	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	νύμφη	νύμφη	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
@@ -64,8 +64,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 19	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
 20	όνομα	όνομα	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	iobj	_	_
 21	της	μου	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	nmod	_	_
-22	σ	σε	ADP	AsPpSp	_	24	case	_	_
-23	το	ο	DET	AtDf	Case=Acc|Gender=Neut|Number=Sing	24	det	_	_
+22	σ	σε	ADP	ADP	_	24	case	_	_
+23	το	ο	DET	DET	Case=Acc|Gender=Neut|Number=Sing	24	det	_	_
 24	νησί	νησί	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	18	obl	_	SpaceAfter=No
 25	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 11	fgColor:white
 # visual-style 11 9 iobj	color:blue
 1	Γι'	για	ADP	ADP	_	4	case	_	_
-2	αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	det	_	_
+2	αυτό	αυτός	DET	DET	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	det	_	_
 3	το	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	λόγο	λόγος	NOUN	NOUN	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	_
 5	-	-	PUNCT	PUNCT	_	7	punct	_	_
@@ -97,8 +97,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 17	τον	ο	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	οποίο	οποίος	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Rel	19	obl	_	_
 19	λήφθηκαν	λαμβάνω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	_
-20	σ	σε	ADP	AsPpSp	_	22	case	_	_
-21	τις	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Plur	22	det	_	_
+20	σ	σε	ADP	ADP	_	22	case	_	_
+21	τις	ο	DET	DET	Case=Acc|Gender=Fem|Number=Plur	22	det	_	_
 22	27_Δεκεμβρίου	27_Δεκεμβρίου	NOUN	NOUN	_	19	obl	_	_
 23	οι	ο	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
 24	αποφάσεις	απόφαση	NOUN	NOUN	Case=Nom|Gender=Fem|Number=Plur	19	nsubj:pass	_	_
@@ -114,8 +114,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 34	ενός	ένας	DET	DET	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	καταλόγου	κατάλογος	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	_
 36	τρομοκρατών	τρομοκράτης	NOUN	NOUN	Case=Gen|Gender=Masc|Number=Plur	35	nmod	_	_
-37	σ	σε	ADP	AsPpSp	_	40	case	_	_
-38	την	ο	DET	AtDf	Case=Acc|Gender=Fem|Number=Sing	40	det	_	_
+37	σ	σε	ADP	ADP	_	40	case	_	_
+38	την	ο	DET	DET	Case=Acc|Gender=Fem|Number=Sing	40	det	_	_
 39	Ευρωπαϊκή	ευρωπαϊκός	ADJ	ADJ	Case=Acc|Gender=Fem|Number=Sing	40	amod	_	_
 40	Ένωση	ένωση	NOUN	NOUN	Case=Acc|Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
 41	.	.	PUNCT	PUNCT	_	11	punct	_	_

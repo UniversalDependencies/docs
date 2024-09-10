@@ -11,7 +11,7 @@ This relation is universal.
 3456 nodes (9%) are attached to their parents as `root`.
 
 3456 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.89554398148148.
+Average distance between parent and child is 9.89525462962963.
 
 The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (2884; 83% instances), -<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (354; 10% instances), -<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (168; 5% instances), -<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (16; 0% instances), -<tt><a href="ug_udt-pos-ADV.html">ADV</a></tt> (11; 0% instances), -<tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (6; 0% instances), -<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-X.html">X</a></tt> (3; 0% instances), -<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ug_udt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="ug_udt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
@@ -22,17 +22,17 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 10 root	color:blue
-1	قارا	_	ADJ	A	_	2	amod	_	Translit=qara|Morf=Missing,1
-2	قەلبىم	_	NOUN	N	_	10	obl	_	Translit=qelbim|Morf=Unknown
-3	بىلەن	بىلەن	ADP	R	_	2	case	_	Translit=bilen
-4	سېنىڭ	_	PRON	P	_	6	nmod:poss	_	Translit=sëning|Morf=Unknown
-5	روھ	روھ	NOUN	N	Case=Nom	6	nmod	_	Translit=roh
-6	تېمىڭغا	_	NOUN	N	_	10	obl	_	Translit=tëminggha|Morf=Unknown
-7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir
-8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim
-9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek|Morf=Unknown
-10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
-11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
+1	قارا	_	ADJ	A	_	2	amod	_	Morf=Missing,1|Translit=qara
+2	قەلبىم	_	NOUN	N	_	10	obl	_	Morf=Unknown|Translit=qelbim
+3	بىلەن	بىلەن	ADP	R	_	2	case	_	Translit=bilen|LTranslit=bilen
+4	سېنىڭ	_	PRON	P	_	6	nmod:poss	_	Morf=Unknown|Translit=sëning
+5	روھ	روھ	NOUN	N	Case=Nom	6	nmod	_	Translit=roh|LTranslit=roh
+6	تېمىڭغا	_	NOUN	N	_	10	obl	_	Morf=Unknown|Translit=tëminggha
+7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir|LTranslit=bir
+8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim|LTranslit=siqim
+9	لايدەك	_	NOUN	N	_	10	obl	_	Morf=Unknown|Translit=laydek
+10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen|LTranslit=chaplash
+11	.	.	PUNCT	Y	_	10	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -43,13 +43,13 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
-2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa
-3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara
-4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
-5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna
-6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi
-7	.	.	PUNCT	Y	_	5	punct	_	Translit=.
+1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz|LTranslit=öy
+2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa|LTranslit=bol
+3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara|LTranslit=ara
+4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam|LTranslit=tam
+5	قوشنا	قوشنا	NOUN	N	Case=Nom	0	root	_	Translit=qoshna|LTranslit=qoshna
+6	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No|Translit=idi|LTranslit=i
+7	.	.	PUNCT	Y	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -60,15 +60,15 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
-2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
-3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
-4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik
-5	رېئاللىقنى	رېئاللىق	NOUN	N	Case=Acc	6	obj	_	Translit=rëalliqni
-6	كۆرگۈم	_	VERB	V	_	7	acl	_	Translit=körgüm|Morf=Unknown
-7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq
-8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi
-9	.	.	PUNCT	Y	_	7	punct	_	Translit=.
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette|LTranslit=emeliyet
+2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning|LTranslit=men
+3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu|LTranslit=bu
+4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik|LTranslit=qabahetlik
+5	رېئاللىقنى	رېئاللىق	NOUN	N	Case=Acc	6	obj	_	Translit=rëalliqni|LTranslit=rëalliq
+6	كۆرگۈم	_	VERB	V	_	7	acl	_	Morf=Unknown|Translit=körgüm
+7	يوق	يوق	ADJ	A	_	0	root	_	Translit=yoq|LTranslit=yoq
+8	ئىدى	ئى	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	SpaceAfter=No|Translit=idi|LTranslit=i
+9	.	.	PUNCT	Y	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

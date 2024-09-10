@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="pt_petrogold-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="pt_petrogold-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="pt_petrogold-dep-expl-pv.html">expl:pv</a></tt>.
 
-272 nodes (0%) are attached to their parents as `expl:impers`.
+253 nodes (0%) are attached to their parents as `expl:impers`.
 
-214 instances of `expl:impers` (79%) are left-to-right (parent precedes child).
+208 instances of `expl:impers` (82%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (272; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (253; 100% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><
 4	período	período	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	teve	ter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Se=impers
-7	se	se	PRON	_	_	6	expl:impers	_	_
+7	se	se	PRON	_	PronType=Prs	6	expl:impers	_	_
 8	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	produção	produção	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
 10	somente	somente	ADV	_	_	9	advmod	_	_

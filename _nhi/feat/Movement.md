@@ -23,4 +23,4 @@ Denotes movement away from speaker's current location.
 
 * [nhi] _onechyolchicahua<b>to</b>_ "me fue a acompañar"
 
-<!-- Interlanguage links updated Po lis 14 15:34:49 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:04 CEST -->

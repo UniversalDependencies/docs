@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-49 nodes (4%) are attached to their parents as `det`.
+64 nodes (2%) are attached to their parents as `det`.
 
-46 instances of `det` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14285714285714.
+58 instances of `det` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.109375.
 
-The following 7 pairs of parts of speech are connected with `det`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (36; 73% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (7; 14% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (44; 69% instances), <tt><a href="eme_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (13; 20% instances), <tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="eme_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="eme_tudet-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="eme_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eme_tudet-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -36,7 +36,7 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 det	color:blue
-1	okuwapɨlɨ	kuwa	VERB	v	Intens=Yes|Person=3	0	root	_	_
+1	okuwapɨlɨ	kuwa	VERB	v	Degree=Cmp|Person=3	0	root	_	_
 2	aŋ	aŋ	DET	dem	_	1	det	_	_
 
 ~~~
@@ -45,13 +45,12 @@ The following 7 pairs of parts of speech are connected with `det`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 det	color:blue
-1	aʔeate	aʔe	DET	dem	Case=Ref|Foc=Yes	3	det	_	_
-2	nõde	nõde	PRON	pron	Clusivity=In|Number=Plur	3	parataxis	_	_
-3	tekokom	teko	PROPN	propn	Number=Plur	0	root	_	_
-4	sidʒu	dʒu	AUX	aux	Clusivity=In|Person=1	3	cop	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	aʔekom	aʔe	DET	dem	Number=Plur	2	det	_	_
+2	nõdekom	nõde	PRON	pron	Clusivity=In|Number=Plur|Person=1	3	nsubj	_	_
+3	seikokom	iko	VERB	v	Clusivity=In|Number=Plur|Person=1	0	root	_	_
 
 ~~~
 

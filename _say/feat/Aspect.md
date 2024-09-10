@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Conc">Conc</a></td>
   <td><a href="#Inch">Inch</a></td>
   <td><a href="#Imp">Imp</a></td>
-  <td><a href="#ImpIter">Impiter</a></td>
+  <td><a href="#Imp-Iter">ImpIter</a></td>
   <td><a href="#Iter">Iter</a></td>
   <td><a href="#Perf">Perf</a></td>
   <td><a href="#Prog">Prog</a></td>
@@ -96,4 +96,4 @@ Zaar: the resultative aspect denotes the complete achievement of the process den
 
 * _wò kap =k<b>ə́y</b> ?//_ "He will <b>abduct you</b> ?"
 
-<!-- Interlanguage links updated Po lis 14 15:34:40 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:47 CEST -->

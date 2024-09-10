@@ -14,6 +14,8 @@ udver: '2'
 
 This is a morphological feature that marks a usually non-paradigmatic, and possibly not even standardised, variation in the form of a word which also determines a change in its meaning or use, or which is itself determined by a particular syntactic context. 
 
+
+
 ### <a name="Emp">`Emp`</a>: emphatic form of a word
 
 This value is marked for words which appear in an expanded, emphatic form with respect to some "more basic" form or that otherwise incorporate common emphatic elements, and that can be no longer analyzed as [compounds](la-feat/Compound) if they ever were one. 
@@ -37,5 +39,11 @@ Emphasis differs from [degree](la-feat/Degree) in that it does not scale a quali
 * ***īdem/eadem/ĭdem*** 'the same' is a strengthened form of the personal pronoun *is/ea/id* 'he/she/it' by means of the suffix *-dem*, of demonstrative origin
 * ***quamquam*** or ***quanquam*** is an example of emphasis by reduplication
 
+#### Note
 
-<!-- Interlanguage links updated Po lis 14 15:34:46 CET 2022 -->
+This feature and its implementation will be slightly reworked.
+
+
+
+
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->

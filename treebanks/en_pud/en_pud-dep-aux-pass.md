@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
 6	by	by	ADP	IN	_	11	case	11:case	_
 7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
-8	’s	’s	PART	POS	_	7	case	7:case	_
+8	’s	's	PART	POS	_	7	case	7:case	_
 9	large	large	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 10	bank	bank	NOUN	NN	Number=Sing	11	compound	11:compound	_
 11	account	account	NOUN	NN	Number=Sing	5	obl	5:obl:by	SpaceAfter=No
@@ -74,7 +74,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 28	promptly	promptly	ADV	RB	_	29	advmod	29:advmod	_
 29	relieved	relieved	ADJ	JJ	Degree=Pos	5	conj	5:conj:and	_
 30	of	of	ADP	IN	_	32	case	32:case	_
-31	his	he	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	nmod:poss	32:nmod:poss	_
+31	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	nmod:poss	32:nmod:poss	_
 32	command	command	NOUN	NN	Number=Sing	29	obl	29:obl:of	SpaceAfter=No
 33	.	.	PUNCT	.	_	5	punct	5:punct	_
 

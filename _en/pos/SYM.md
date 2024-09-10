@@ -5,4 +5,4 @@ shortdef: 'symbol'
 ---
 
 The English `SYM` covers PTB tags NFP (except for lines of separators, which become PUNCT), #, $, SYM, and for the percent sign (%).
-<!-- Interlanguage links updated Po lis 14 15:34:37 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:19:42 CEST -->

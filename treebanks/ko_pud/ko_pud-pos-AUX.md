@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Korean-PUD: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (0%), 144 `AUX` types (2%) and 663 `AUX` tokens (4%).
-Out of 13 observed tags, the rank of `AUX` is: 10 in number of lemmas, 7 in number of types and 5 in number of tokens.
+There are 6 `AUX` lemmas (0%), 144 `AUX` types (2%) and 663 `AUX` tokens (4%).
+Out of 13 observed tags, the rank of `AUX` is: 9 in number of lemmas, 7 in number of types and 5 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: _
+The 10 most frequent `AUX` lemmas: 이, _, 있, 않, 하, 싶
 
 The 10 most frequent `AUX` types:  인, 이다, 이었다, 이라, 였다, 있다, 있는, 이며, 일, 라
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 663, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 이 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 436, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 23, <tt><a href="ko_pud-pos-PART.html">PART</a></tt> 16), _ (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 4295, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 1439, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1030, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 596, <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> 516, <tt><a href="ko_pud-pos-DET.html">DET</a></tt> 462, <tt><a href="ko_pud-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 104, <tt><a href="ko_pud-pos-X.html">X</a></tt> 47, <tt><a href="ko_pud-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> 24, <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 The 10 most frequent ambiguous types:  인 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 149, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 1), 있다 (<tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 45, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 24, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 20), 있는 (<tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 50, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 16, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 7), 일 (<tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 12, <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> 3), 라 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 9, <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> 1), 않았다 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 8, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 5), 가 (<tt><a href="ko_pud-pos-PART.html">PART</a></tt> 20, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 7), 한다 (<tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 20, <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 7), 못했다 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 4), 않은 (<tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> 6, <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> 1)
 
@@ -55,9 +55,13 @@ The 10 most frequent ambiguous types:  인 (<tt><a href="ko_pud-pos-AUX.html">AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 144.000000 (the average of all parts of speech is 3.187571).
+The form / lemma ratio of `AUX` is 24.000000 (the average of all parts of speech is 3.181543).
 
-The 1st highest number of forms (144) was observed with the lemma “_”: 가, 가는, 고, 나서, 내기, 내는, 낼, 냈다, 놓고, 놓는, 놓았다, 놓은, 니, 달라고, 두고, 둘, 라, 라는, 라면, 말고, 말라고, 못하게, 못하고, 못한다는, 못할, 못했다, 못했을, 버렸고, 버렸다, 버렸으며, 버린, 본, 봤으며, 싶어, 싶었지만, 싶은, 않게, 않고, 않기, 않는, 않는다, 않는다고, 않는다면, 않다, 않다고, 않다는, 않도록, 않아, 않았고, 않았는데, 않았다, 않았어요, 않았으면, 않았지만, 않으며, 않으면, 않으므로, 않은, 않을, 여서, 였고, 였기, 였는데, 였는지, 였다, 였던, 였어, 였으며, 였음, 였지만, 오는, 왔지만, 이거나, 이고, 이기, 이다, 이다., 이던, 이든, 이라, 이라는, 이란, 이며, 이세요, 이어서, 이어야, 이었고, 이었기, 이었는데, 이었다, 이었던, 이었으며, 이었을, 이었음, 이자, 이지, 이지만, 이진, 인, 인가, 인데, 인지, 일, 일까, 일지, 있고, 있기, 있는, 있는데, 있는지에, 있다, 있다고, 있다는, 있다며, 있던, 있습니다, 있어서, 있었기, 있었다, 있었던, 있었으며, 있으며, 있을, 있음을, 주는, 준, 준다, 치우고, 하는, 하는데, 하지, 한, 한다, 한다고, 한다는, 한다던, 할, 합니다, 해, 해야, 했는데, 했다, 했다고, 했을.
+The 1st highest number of forms (53) was observed with the lemma “_”: 가, 가는, 고, 나서, 내기, 내는, 낼, 냈다, 놓고, 놓는, 놓았다, 놓은, 니, 달라고, 두고, 둘, 라, 라는, 라면, 말고, 말라고, 못하게, 못하고, 못한다는, 못할, 못했다, 못했을, 버렸고, 버렸다, 버렸으며, 버린, 본, 봤으며, 여서, 오는, 왔지만, 주는, 준, 준다, 치우고, 한, 한다, 한다고, 한다는, 한다던, 할, 합니다, 해, 해야, 했는데, 했다, 했다고, 했을.
+
+The 2nd highest number of forms (43) was observed with the lemma “이”: 였고, 였기, 였는데, 였는지, 였다, 였던, 였어, 였으며, 였음, 였지만, 이거나, 이고, 이기, 이다, 이다., 이던, 이든, 이라, 이라는, 이란, 이며, 이세요, 이어서, 이어야, 이었고, 이었기, 이었는데, 이었다, 이었던, 이었으며, 이었을, 이었음, 이자, 이지, 이지만, 이진, 인, 인가, 인데, 인지, 일, 일까, 일지.
+
+The 3rd highest number of forms (23) was observed with the lemma “않”: 않게, 않고, 않기, 않는, 않는다, 않는다고, 않는다면, 않다, 않다고, 않다는, 않도록, 않아, 않았고, 않았는데, 않았다, 않았어요, 않았으면, 않았지만, 않으며, 않으면, 않으므로, 않은, 않을.
 
 `AUX` occurs with 7 features: <tt><a href="ko_pud-feat-Form.html">Form</a></tt> (362; 55% instances), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt> (301; 45% instances), <tt><a href="ko_pud-feat-Mood.html">Mood</a></tt> (265; 40% instances), <tt><a href="ko_pud-feat-Tense.html">Tense</a></tt> (150; 23% instances), <tt><a href="ko_pud-feat-PronType.html">PronType</a></tt> (12; 2% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (5; 1% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (1; 0% instances)
 

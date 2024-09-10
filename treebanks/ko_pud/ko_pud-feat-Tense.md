@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fut`, `Past`.
 
 673 tokens (4%) have a non-empty value of `Tense`.
 361 types (4%) occur at least once with a non-empty value of `Tense`.
-22 lemmas (1%) occur at least once with a non-empty value of `Tense`.
+26 lemmas (1%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 4 part-of-speech tags: <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (447; 3% instances), <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> (150; 1% instances), <tt><a href="ko_pud-pos-ADJ.html">ADJ</a></tt> (57; 0% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (19; 0% instances).
 
 ### `VERB`
@@ -37,6 +37,13 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 * `Fut` (2; 1% of non-empty `Tense`): 않을, 있을
 * `Past` (148; 99% of non-empty `Tense`): 이었다, 였다, 않았다, 못했다, 있던, 했다, 이었던, 냈다, 놓은, 버린
 * `EMPTY` (513): 인, 이다, 이라, 있다, 있는, 이며, 일, 라, 이고, 가
+
+<table>
+  <tr><th>Paradigm <i>있</i></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Form.html">Form</a></tt><tt>=Adn</tt></tt></td><td>있을</td><td>있던, 있었던</td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Form.html">Form</a></tt><tt>=Compl</tt></tt></td><td></td><td>있었으며</td></tr>
+  <tr><td><tt><tt><a href="ko_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>있었다</td></tr>
+</table>
 
 ### `ADJ`
 

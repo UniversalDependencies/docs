@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>мен</em> (<tt><a href="kk_ktb-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.444444 (the average of all parts of speech is 1.746869).
+The form / lemma ratio of `PRON` is 3.444444 (the average of all parts of speech is 1.747153).
 
 The 1st highest number of forms (13) was observed with the lemma “бұл”: <em>Бұларды, Бұлардың, Бұған, Мұнан, Мұны, былай, бұ, бұл, бұлармен, мұнда, мұндай, мұндайды, мұның</em>.
 

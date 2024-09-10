@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="cop_scriptorium-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-8 nodes (0%) are attached to their parents as `acl`.
+9 nodes (0%) are attached to their parents as `acl`.
 
-8 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.875.
+9 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.88888888888889.
 
-The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 13% instances).
+The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (8; 89% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	ⲁϩⲉ	ⲱϩⲉ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲁ̇ϩⲉ
 4	ⲣⲁⲧ	ⲣⲁⲧ	NOUN	N	_	3	obj	_	_
-5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	Orig=ϥ̇
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	nmod:poss	_	Orig=ϥ̇
 6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	8	mark	_	Orig=ⲉ̇
 7	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
 8	ⲟⲕⲙ	ⲱⲕⲙ	VERB	VSTAT	VerbForm=Fin	3	advcl	_	Orig=ⲟ̇ⲕⲙ̇
@@ -77,7 +77,7 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 22	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	Orig=ⲓ̇
 23	ϯ	ϯ	VERB	V	VerbForm=Fin	18	advcl	_	Orig=ϯ̇
 24	ⲙ	ⲛ	ADP	PREP	_	26	case	_	Orig=ⲙ̇
-25	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	det	_	Entity=(object
+25	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=(object
 26	ϩⲱⲃ	ϩⲱⲃ	NOUN	N	_	23	obj	_	_
 27	ⲛ	ⲛ	ADP	PREP	_	28	case	_	Orig=ⲛ̇
 28	ϭⲓϫ	ϭⲓϫ	NOUN	N	_	26	nmod	_	Entity=object)|Orig=ϭⲓ̇ϫ

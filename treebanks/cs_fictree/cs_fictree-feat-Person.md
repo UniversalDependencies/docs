@@ -102,11 +102,12 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (793; 61%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (14; 58%),
-<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (8; 73%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (8; 53%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (3; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-discourse.html">discourse</a></tt>]--> PRON</tt> (1; 100%),
 <tt>AUX --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>DET --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PRON --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%).
 

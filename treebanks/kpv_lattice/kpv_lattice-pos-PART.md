@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>весиг</em> (<tt><a href="kpv_lat
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Ставсӧ тӧдӧ , <b>быттьӧ</b> Кӧчӧг Витьӧясын и олӧ .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2: <em>Гым-биясыс <b>быттьӧ</b> дзик орччӧн орӧдлісны сынӧдсӧ .</em>
 * <em>да</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Сійӧ заводитліс чӧвтны куритчӧмсӧ <b>да</b> юӧмсӧ .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4: <em>— Менамӧсь эськӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2: <em>И еджыд чериыс чукӧра олӧ , кульмыны жӧ лӧсьӧдчӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1: <em>Думайта <b>да</b> , мед кӧтӧдас .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>весиг</em> (<tt><a href="kpv_lat
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.468534).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.467532).
 
 The 1st highest number of forms (1) was observed with the lemma “быттьӧ”: <em>быттьӧ</em>.
 

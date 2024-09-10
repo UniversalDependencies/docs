@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Dutch-Alpino: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="nl_alpino-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="nl_alpino-dep-obl-arg.html">obl:arg</a></tt>.
 
-322 nodes (0%) are attached to their parents as `obl:agent`.
+339 nodes (0%) are attached to their parents as `obl:agent`.
 
-179 instances of `obl:agent` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.91614906832298.
+189 instances of `obl:agent` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.92330383480826.
 
-The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (212; 66% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (80; 25% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (218; 64% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (93; 27% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,27 +60,35 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 6 obl:agent	color:blue
-1	Dit	dit	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	15	nsubj:pass	15:nsubj:pass	_
-2	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	15	aux:pass	15:aux:pass	_
-3	gisteravond	gisteravond	ADV	BW	_	15	advmod	15:advmod	_
-4	door	door	ADP	VZ|init	_	6	case	6:case	_
-5	het	het	DET	LID|bep|stan|evon	Definite=Def	6	det	6:det	_
-6	actiecomite	actie_comité	ADJ	ADJ|nom|sup|met-e|zonder-n|stan	Degree=Sup	15	obl:agent	14:nsubj:relsubj|15:obl:agent	SpaceAfter=No
-7	,	,	PUNCT	LET	_	14	punct	14:punct	_
-8	dat	dat	PRON	VNW|betr|pron|stan|vol|3|ev	Person=3|PronType=Rel	14	nsubj	6:ref	_
-9	in	in	ADP	VZ|init	_	11	case	11:case	_
-10	het	het	DET	LID|bep|stan|evon	Definite=Def	11	det	11:det	_
-11	CJMV-gebouw	CJMV_gebouw	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	14	obl	14:obl:in	_
-12	in	in	ADP	VZ|init	_	13	case	13:case	_
-13	Groningen	Groningen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nmod	11:nmod:in	_
-14	vergaderde	vergaderen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
-15	besloten	besluiten	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
-16	.	.	PUNCT	LET	_	15	punct	15:punct	_
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 21 obl:agent	color:blue
+1	,,	,,	PUNCT	LET	_	3	punct	3:punct	SpaceAfter=No
+2	Jullie	jullie	PRON	VNW|pers|pron|stan|nadr|2v|mv	Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+3	hebben	hebben	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	geluk	geluk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obj	3:obj	_
+5	dat	dat	SCONJ	VG|onder	_	8	mark	8:mark	_
+6	ik	ik	PRON	VNW|pers|pron|nomin|vol|1|ev	Case=Nom|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
+7	snel	snel	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	8	advmod	8:advmod	_
+8	werk	werken	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	4	acl	4:acl:dat	SpaceAfter=No
+9	''	''	PUNCT	LET	_	3	punct	3:punct	SpaceAfter=No
+10	,	,	PUNCT	LET	_	11	punct	11:punct	_
+11	zei	zeggen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	_
+12	De	De	PROPN	SPEC|deeleigen	_	11	nsubj	11:nsubj|17:det	_
+13	Vries	Vries	PROPN	SPEC|deeleigen	_	12	flat	12:flat	SpaceAfter=No
+14	,	,	PUNCT	LET	_	23	punct	23:punct	_
+15	wiens	wie	DET	VNW|vb|pron|gen|vol|3m|ev	_	17	det	17:det	_
+16	abstracte	abstract	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	17	amod	17:amod	_
+17	werk	werk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	23	nsubj:pass	12:ref	_
+18	niet	niet	ADV	BW	_	23	advmod	23:advmod	_
+19	door	door	ADP	VZ|init	_	21	case	21:case	_
+20	alle	al	DET	VNW|onbep|det|stan|prenom|met-e|agr	_	21	det	21:det	_
+21	aanwezigen	aanwezig	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	23	obl:agent	23:obl:agent	_
+22	wordt	worden	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	23	aux:pass	23:aux:pass	_
+23	gewaardeerd	waarderen	VERB	WW|vd|vrij|zonder	VerbForm=Part	12	acl:relcl	12:acl:relcl	SpaceAfter=No
+24	.	.	PUNCT	LET	_	3	punct	3:punct	_
 
 ~~~
 

@@ -17,49 +17,52 @@ The following 41 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nmod:poss	color:blue
-1	Ama	ama	CCONJ	Conj	_	4	cc	_	_
-2	annemin	anne	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	3	nmod:poss	_	_
-3	şartları	şart	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
-4	vardı	var	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	Punc	_	4	punct	_	_
+# visual-style 2 1 nmod:poss	color:blue
+1	Kahvenin	kahve	NOUN	Noun	Case=Gen|Number=Sing|Person=3	2	nmod:poss	_	_
+2	numarasını	numara	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obj	_	_
+3	söyledi	söyle	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nmod:poss	color:blue
-1	Alışveriş	alışveriş	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	csubj	_	_
-2	ise	i	AUX	Conj	_	1	cop	_	_
-3	hayatın	hayat	NOUN	Noun	Case=Gen|Number=Sing|Person=3	4	nmod:poss	_	_
-4	temelinde	temel	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	amod	_	_
-5	yatar	yat	VERB	Verb	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nmod:poss	color:blue
+1	Kapının	kapı	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	2	nmod:poss	_	_
+2	kenarında	kenar	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	4	amod	_	_
+3	ki	ki	ADP	Rel	_	2	case	_	_
+4	duvara	duvar	NOUN	Noun	Case=Dat|Number=Sing|Person=3	5	obl	_	_
+5	dayanıp	dayan	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Conv	7	advcl	_	_
+6	bize	biz	PRON	Pers	Case=Dat|Number=Plur|Person=1|PronType=Prs	7	obl	_	_
+7	baktı	bak	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+8	bir	bir	NUM	ANum	NumType=Card	7	nummod	_	_
+9	an	an	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	compound	_	SpaceAfter=No
+10	.	.	PUNCT	Punc	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nmod:poss	color:blue
-1	Başbakan	başbakan	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
-2	Gül'ün	Gül	PROPN	Prop	Case=Gen|Number=Sing|Person=3	3	nmod:poss	_	_
-3	uçağı	uçak	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
-4	da	da	CCONJ	Conj	_	3	advmod:emph	_	_
-5	pas	pas	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-6	geçti	geç	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	compound	_	SpaceAfter=No
-7	.	.	PUNCT	Punc	_	5	punct	_	_
+# visual-style 2 1 nmod:poss	color:blue
+1	Philips	Philips	PROPN	Prop	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
+2	mağazasının	mağaza	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod:poss	_	_
+3	önünden	ön	ADJ	NAdj	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nmod	_	_
+4	geçmemeye	geç	VERB	Verb	Aspect=Perf|Case=Dat|Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Vnoun	6	nmod	_	_
+5	özen	özen	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	obj	_	_
+6	gösteriyorum	göster	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
 
 ~~~
 

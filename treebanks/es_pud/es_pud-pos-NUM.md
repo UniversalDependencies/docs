@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `NUM`
 
-There are 212 `NUM` lemmas (6%), 230 `NUM` types (4%) and 435 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 12 in number of tokens.
+There are 228 `NUM` lemmas (5%), 230 `NUM` types (4%) and 435 `NUM` tokens (2%).
+Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 12 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>_, dos, 1, 10, 3, cuatro, mil, tres, seis, 70</em>
+The 10 most frequent `NUM` lemmas: <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
 
 The 10 most frequent `NUM` types:  <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1332, <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> 1309, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 862, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 229, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 200, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 79, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 53, <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> 22, <tt><a href="es_pud-pos-X.html">X</a></tt> 1), <em>iii</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>v</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>mil</em> (<tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>iii</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>ciento</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>uno</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 456, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 19, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>v</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>III</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>un</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 242, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3), <em>2º</em> (<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>V</em> (<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1), <em>una</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 172, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 1)
 
@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>III</em> (<tt><a href="es_pud-pos-ADJ
   * <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4: <em>La ciudad cananita quedó destruida por un incendio , presuntamente a el comienzo de una campaña de el faraón egipcio Tutmosis <b>III</b> .</em>
   * <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3: <em>Hacia el siglo <b>III</b> , el emperador Caracalla hizo una nueva división que solo duró un breve periodo de tiempo .</em>
 * <em>un</em>
-  * <tt><a href="es_pud-pos-DET.html">DET</a></tt> 242: <em>A veces es como <b>un</b> súper poder .</em>
+  * <tt><a href="es_pud-pos-DET.html">DET</a></tt> 242: <em>A veces es como <b>un</b> superpoder .</em>
   * <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> 3: <em>Por primera vez en los últimos seis años la tasa de paro ha bajado de el 20 % , y ya hay 600.000 ocupados más que hace <b>un</b> año .</em>
 * <em>2º</em>
   * <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Están en la media nacional en 4º curso de primaria y por encima de la media nacional en <b>2º</b> de la ESO .</em>
@@ -38,28 +38,28 @@ The 10 most frequent ambiguous types:  <em>III</em> (<tt><a href="es_pud-pos-ADJ
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.084906 (the average of all parts of speech is 1.678426).
+The form / lemma ratio of `NUM` is 1.008772 (the average of all parts of speech is 1.314341).
 
-The 1st highest number of forms (33) was observed with the lemma “_”: <em>10, 10.000, 12.000, 125, 15.001, 168 000, 19.999, 23:45, 3.000, 3000, 33, 330, 330 000, 34, 36, 360, 5.000, 500, 6.30, 760, 90, cincuenta, cuarenta, cuatro, diez, dos, nueve, ocho, seis, siete, treinta, tres, una</em>.
+The 1st highest number of forms (2) was observed with the lemma “3000”: <em>3.000, 3000</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
+The 2nd highest number of forms (2) was observed with the lemma “5000”: <em>5.000, 5000</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “1,165”: <em>1,165</em>.
+The 3rd highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
 
-`NUM` occurs with 2 features: <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (435; 100% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (430; 99% instances)
+`NUM` occurs with 4 features: <tt><a href="es_pud-feat-NumForm.html">NumForm</a></tt> (435; 100% instances), <tt><a href="es_pud-feat-NumType.html">NumType</a></tt> (435; 100% instances), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt> (430; 99% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (2; 0% instances)
 
-`NUM` occurs with 3 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `NumType=Card`
+`NUM` occurs with 7 feature-value pairs: `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`
 
-`NUM` occurs with 3 feature combinations.
-The most frequent feature combination is `Gender=Masc|NumType=Card` (375 tokens).
-Examples: <em>dos, 1, 10, 3, mil, tres, seis, 70, cuatro, 100</em>
+`NUM` occurs with 7 feature combinations.
+The most frequent feature combination is `Gender=Masc|NumForm=Digit|NumType=Card` (290 tokens).
+Examples: <em>1, 10, 3, 70, 100, 1492, 20, 2010, 2014, 2015</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="es_pud-dep-nummod.html">nummod</a></tt> (192; 44% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (80; 18% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (75; 17% instances), <tt><a href="es_pud-dep-appos.html">appos</a></tt> (47; 11% instances), <tt><a href="es_pud-dep-obl-tmod.html">obl:tmod</a></tt> (16; 4% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (12; 3% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 12 different relations: <tt><a href="es_pud-dep-nummod.html">nummod</a></tt> (191; 44% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (80; 18% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (75; 17% instances), <tt><a href="es_pud-dep-appos.html">appos</a></tt> (47; 11% instances), <tt><a href="es_pud-dep-obl-tmod.html">obl:tmod</a></tt> (16; 4% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (12; 3% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (4; 1% instances), <tt><a href="es_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (284; 65% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (99; 23% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (21; 5% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (20; 5% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (282; 65% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (102; 23% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (21; 5% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (20; 5% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
 
 216 (50%) `NUM` nodes are leaves.
 
@@ -71,7 +71,7 @@ Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="es_p
 
 The highest child degree of a `NUM` node is 6.
 
-Children of `NUM` nodes are attached using 16 different relations: <tt><a href="es_pud-dep-case.html">case</a></tt> (158; 45% instances), <tt><a href="es_pud-dep-det.html">det</a></tt> (52; 15% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (46; 13% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (34; 10% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (19; 5% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (12; 3% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (12; 3% instances), <tt><a href="es_pud-dep-nummod.html">nummod</a></tt> (6; 2% instances), <tt><a href="es_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 16 different relations: <tt><a href="es_pud-dep-case.html">case</a></tt> (158; 46% instances), <tt><a href="es_pud-dep-det.html">det</a></tt> (51; 15% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (46; 13% instances), <tt><a href="es_pud-dep-nmod.html">nmod</a></tt> (34; 10% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (19; 5% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (12; 3% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (12; 3% instances), <tt><a href="es_pud-dep-nummod.html">nummod</a></tt> (6; 2% instances), <tt><a href="es_pud-dep-acl-relcl.html">acl:relcl</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (159; 46% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (52; 15% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (46; 13% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (33; 9% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (20; 6% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (19; 5% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (12; 3% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 11 different parts of speech: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (159; 46% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (51; 15% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (46; 13% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (33; 10% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (20; 6% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (19; 5% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (12; 3% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

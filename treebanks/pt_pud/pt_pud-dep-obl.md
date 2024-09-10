@@ -49,7 +49,7 @@ The following 22 pairs of parts of speech are connected with `obl`: <tt><a href=
 4	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	BBC	BBC	PROPN	NNP	Gender=Fem|Number=Sing	2	obl	_	_
 6	por	por	ADP	IN	_	8	case	_	_
-7	uma	um	DET	CD	Gender=Fem	8	det	_	_
+7	uma	um	DET	CD	Definite=Ind|Gender=Fem|PronType=Art	8	det	_	_
 8	década	década	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
 

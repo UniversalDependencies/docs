@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 35 52 dislocated	color:blue
 1	adque	atque	CCONJ	c|c|-|-|-|-|-|-|-|-	_	4	cc	_	_
 2	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	4	advmod:emph	_	_
-3	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obl:arg	_	_
+3	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	obl:arg	_	_
 4	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 5	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	advmod:emph	_	_
 6	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	fixed	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
@@ -34,11 +34,11 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 9	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	10	case	_	_
 10	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	8	nmod	_	_
 11	quod	qui	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	13	nsubj	_	_
-12	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
+12	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 13	prato	pratum	NOUN	n|n|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	10	acl:relcl	_	_
 14	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	15	case	_	_
 15	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	8	nmod	_	_
-16	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	17	advmod	_	_
+16	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	17	advmod:lmod	_	_
 17	dicitur	dico	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 18	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	19	case	_	_
 19	Scrinio	Scrineum	PROPN	Propn|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	17	xcomp	_	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 37	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	35	nmod	_	_
 38	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	39	case	_	_
 39	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	35	nmod	_	_
-40	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	41	advmod	_	_
+40	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	41	advmod:lmod	_	_
 41	dicitur	dico	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	39	acl:relcl	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
 42	Campo	campus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	41	xcomp	_	_
 43	da	da	ADP	r|r|-|-|-|-|-|-|-|-	_	44	case	_	_
@@ -102,7 +102,7 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 11	,	,	PUNCT	Punc	_	13	punct	_	_
 12	auro	aurum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	13	nmod	_	_
 13	solidos	solidus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	2	dislocated	_	_
-14	viginti	uiginti	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	13	nummod	_	_
+14	viginti	uiginti	NUM	m|m|-|-|-|-|-|-|-|-	NumForm=Word|NumType=Card	13	nummod	_	_
 15	tantum	tantum	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	2	advmod	_	SpaceAfter=No
 16	.	.	PUNCT	Punc	_	2	punct	_	_
 
@@ -124,14 +124,14 @@ The following 10 pairs of parts of speech are connected with `dislocated`: <tt><
 7	,	,	PUNCT	Punc	_	6	punct	_	_
 8	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	10	mark	_	_
 9	superius	superius	ADV	d|d|-|-|-|-|-|-|-|c	Degree=Cmp	10	advmod	_	_
-10	declaratur	declaro	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
+10	declaratur	declaro	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	15	advcl:cmp	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 11	,	,	PUNCT	Punc	_	10	punct	_	_
 12	sic	sic	ADV	d|d|-|-|-|-|-|-|-|-	_	15	advmod	_	_
-13	nobis	nos	PRON	p|p|1|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	det	_	_
+13	nobis	nos	PRON	p|p|1|p|-|-|-|m|d|-	Case=Dat|Number=Plur|Person=1|PronType=Prs	14	det	_	_
 14	iudicibus	iudex	NOUN	n|n|-|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur	15	obl:arg	_	_
 15	paruit	pareo	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 16	,	,	PUNCT	Punc	_	17	punct	_	_
-17	nobis	nos	PRON	p|p|1|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	dislocated	_	_
+17	nobis	nos	PRON	p|p|1|p|-|-|-|m|d|-	Case=Dat|Number=Plur|Person=1|PronType=Prs	15	dislocated	_	_
 18	recte	recte	ADV	d|d|-|-|-|-|-|-|-|-	_	15	advmod	_	_
 19	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	21	case	_	_
 20	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	19	fixed	_	_

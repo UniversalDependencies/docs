@@ -9,152 +9,144 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `1`, `2`.
 
-2025 tokens (2%) have a non-empty value of `DeixisRef`.
-928 types (9%) occur at least once with a non-empty value of `DeixisRef`.
-451 lemmas (11%) occur at least once with a non-empty value of `DeixisRef`.
-The feature is used with 9 part-of-speech tags: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (937; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (430; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (413; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (160; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (41; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+796 tokens (2%) have a non-empty value of `DeixisRef`.
+477 types (8%) occur at least once with a non-empty value of `DeixisRef`.
+289 lemmas (9%) occur at least once with a non-empty value of `DeixisRef`.
+The feature is used with 8 part-of-speech tags: <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> (379; 1% instances), <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> (165; 0% instances), <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> (159; 0% instances), <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> (58; 0% instances), <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-937 <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> tokens (7% of all `NOUN` tokens) have a non-empty value of `DeixisRef`.
+379 <tt><a href="qpm_philotis-pos-NOUN.html">NOUN</a></tt> tokens (7% of all `NOUN` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `NOUN` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (937; 100%), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (935; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (729; 78%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (615; 66%).
+The most frequent other feature values with which `NOUN` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (379; 100%), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (377; 99%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (294; 78%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (270; 71%).
 
 `NOUN` tokens may have the following values of `DeixisRef`:
 
-* `1` (425; 45% of non-empty `DeixisRef`): <em>mesecáse, düņóso, hükümétes, kóštoso, momóso, belidjóso, insánase, insános, Pomácese, hükümétese</em>
-* `2` (512; 55% of non-empty `DeixisRef`): <em>mesecáte, astinomíjeta, glavóto, mečkáta, májkata, pítoto, čulǽkot, drípyte, húbavoto, pótete</em>
+* `1` (178; 47% of non-empty `DeixisRef`): <em>mesecáse, düņóso, insánase, kóštoso, momóso, Pomácese, séloso, žyvótase, astanǿso, belidjása</em>
+* `2` (201; 53% of non-empty `DeixisRef`): <em>mesecáte, astinomíjeta, mečkáta, pótete, jaráta, játoto, momáta, rekáta, Pótet, bábata</em>
 
 <table>
-  <tr><th>Paradigm <i>čulǽk</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>čulǽkase</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>čulǽkot</em></td></tr>
+  <tr><th>Paradigm <i>rábata</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>rábatoto</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>rábatasa</em></td><td></td></tr>
 </table>
 
 ### `ADV`
 
-430 <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `DeixisRef`.
+165 <tt><a href="qpm_philotis-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `ADV` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (430; 100%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (319; 74%).
+The most frequent other feature values with which `ADV` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (165; 100%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (120; 73%).
 
 `ADV` tokens may have the following values of `DeixisRef`:
 
-* `1` (249; 58% of non-empty `DeixisRef`): <em>isǽ, itúzi, sæ, isýj, itúj, káksa, isǽna, túzi, se, sǽ</em>
-* `2` (181; 42% of non-empty `DeixisRef`): <em>kákta, itýj, sabályjinto, kadéta, kugáta, tagás, akšálmyjinto, tugáva, itagáne, itúka</em>
+* `1` (90; 55% of non-empty `DeixisRef`): <em>isǽ, itúzi, isýj, sæ, itúj, 'sæ, ajtús, isǽna, sagáne, túzi</em>
+* `2` (75; 45% of non-empty `DeixisRef`): <em>kákta, sabályjinto, itýj, akšálmyjinto, Kugáta, kadéta, itúka, tagáne, tugáva, akšámlajinto</em>
 
-`DeixisRef` seems to be **lexical feature** of `ADV`. 100% lemmas (19) occur only with one value of `DeixisRef`.
+<table>
+  <tr><th>Paradigm <i>itýj</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>itýj</em></td><td><em>itýj, ajtúva</em></td></tr>
+</table>
 
 ### `DET`
 
-413 <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `DeixisRef`.
+159 <tt><a href="qpm_philotis-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `DET` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (413; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (316; 77%), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (265; 64%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (240; 58%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (233; 56%).
+The most frequent other feature values with which `DET` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (159; 100%), <tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (157; 99%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (114; 72%), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (106; 67%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (96; 60%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (91; 57%).
 
 `DET` tokens may have the following values of `DeixisRef`:
 
-* `1` (253; 61% of non-empty `DeixisRef`): <em>isazí, isózek, isózi, isázi, isézi, isók, isélkus, izí, isój, isáj</em>
-* `2` (160; 39% of non-empty `DeixisRef`): <em>itazí, kólkoto, žóto, tvóto, itélkus, itózek, kakvóto, mójet, tváta, drúgoto</em>
+* `1` (107; 67% of non-empty `DeixisRef`): <em>isózi, isézi, isózek, isázi, isazí, isélkus, ajsóva, isój, isók, izí</em>
+* `2` (52; 33% of non-empty `DeixisRef`): <em>kólkoto, kakvóto, itazí, itélkus, tváta, žýte, itózek, móto, tvóto, tógavoto</em>
 
 <table>
-  <tr><th>Paradigm <i>adín</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>ennókte</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Ennósa</em></td><td><em>annóto</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>annóto</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>adínyjet</em></td></tr>
+  <tr><th>Paradigm <i>isazí</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qpm_philotis-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>isézi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isózek, isók, ajsózik, isázi, itózi</em></td><td><em>itózek, itók</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>ajsézi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isózi, ajsóva, isój, isazí, isózek, isózij</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isézi, ajsés</em></td><td><em>itézi</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isazí, ezí, isozí, isózi</em></td><td><em>itazí</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isézi, isózi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>izí, Isézi, isazí</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isázi, isáj</em></td><td><em>Itázi</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isazí, Izí, itazí</em></td><td><em>itazí</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>isézi, iséj</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-160 <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `DeixisRef`.
+58 <tt><a href="qpm_philotis-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `ADJ` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (160; 100%), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (160; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (113; 71%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (85; 53%).
+The most frequent other feature values with which `ADJ` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (58; 100%), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (58; 100%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (39; 67%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 66%).
 
 `ADJ` tokens may have the following values of `DeixisRef`:
 
-* `1` (53; 33% of non-empty `DeixisRef`): <em>pomáckyse, čórnoso, altónenoso, bǽloso, górnese, ikinǧíso, mrávjeso, ponadólneso, Srébarnoso, Stároso</em>
-* `2` (107; 67% of non-empty `DeixisRef`): <em>stáryjet, stáryte, birinǧíto, staráta, gróznoto, jódroto, čorbaǧíckata, čárckyjet, Máminata, altónenoto</em>
+* `1` (22; 38% of non-empty `DeixisRef`): <em>pomáckyse, čórnoso, altonǧíckokse, bǽloso, désnokse, dólnoso, fóroso, gelínckokse, húbavyjet, lǽvokse</em>
+* `2` (36; 62% of non-empty `DeixisRef`): <em>stáryte, birinǧíto, Máminata, altónenoto, Teškáta, arápckyte, gulǽmata, gulǽmite, gulǽmoto, húbavokte</em>
 
 <table>
-  <tr><th>Paradigm <i>star</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Stárite</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stárokte</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stároto</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>stáryte</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Stároso</em></td><td><em>stároto</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stárumute</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stáryjet</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>staráta</em></td></tr>
+  <tr><th>Paradigm <i>húbav</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>húbavokte</em></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>húbavyjet</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>húbavoto</em></td></tr>
 </table>
+
+`DeixisRef` seems to be **lexical feature** of `ADJ`. 95% lemmas (37) occur only with one value of `DeixisRef`.
 
 ### `PRON`
 
-41 <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `DeixisRef`.
+17 <tt><a href="qpm_philotis-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `PRON` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (41; 100%), <tt><a href="qpm_philotis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (41; 100%), <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 98%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (40; 98%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (40; 98%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (35; 85%).
+The most frequent other feature values with which `PRON` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="qpm_philotis-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (17; 100%), <tt><a href="qpm_philotis-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (14; 82%).
 
 `PRON` tokens may have the following values of `DeixisRef`:
 
-* `1` (14; 34% of non-empty `DeixisRef`): <em>kaknása, síčkoso, Kanása</em>
-* `2` (27; 66% of non-empty `DeixisRef`): <em>kanáta, síčkoto, kaknáta, kaknátu, žýte</em>
+* `1` (6; 35% of non-empty `DeixisRef`): <em>kaknása, síčkoso</em>
+* `2` (11; 65% of non-empty `DeixisRef`): <em>kanáta, síčkoto, kaknáta</em>
 
 <table>
   <tr><th>Paradigm <i>kanása</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>kaknása, Kanása</em></td><td><em>kanáta, kaknáta, kaknátu</em></td></tr>
+  <tr><td><tt></tt></td><td><em>kaknása</em></td><td><em>kanáta, kaknáta</em></td></tr>
 </table>
 
 ### `NUM`
 
-25 <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `DeixisRef`.
+12 <tt><a href="qpm_philotis-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `NUM` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (25; 100%), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (25; 100%), <tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (25; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt> (20; 80%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14; 56%), <tt><a href="qpm_philotis-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (13; 52%).
+The most frequent other feature values with which `NUM` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (12; 100%), <tt><a href="qpm_philotis-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt> (12; 100%), <tt><a href="qpm_philotis-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (12; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Plur</tt> (9; 75%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 58%).
 
 `NUM` tokens may have the following values of `DeixisRef`:
 
-* `1` (8; 32% of non-empty `DeixisRef`): <em>trimínasa, dvomínasa, annóso, dvése, tríse</em>
-* `2` (17; 68% of non-empty `DeixisRef`): <em>dvomínata, dvéte, trimínata, annóto, dvomínehte, annógate, béšto, ennóto, tríte</em>
+* `1` (3; 25% of non-empty `DeixisRef`): <em>dvomínasa, dvése, trimínasa</em>
+* `2` (9; 75% of non-empty `DeixisRef`): <em>trimínata, Licáta, annógate, annóto, dvomínata, dvomínehte, dvéte, ennóto</em>
 
 <table>
-  <tr><th>Paradigm <i>adín</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>annógate</em></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>annóso</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>annóto, ennóto</em></td></tr>
+  <tr><th>Paradigm <i>dve</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>dvése</em></td><td><em>dvéte</em></td></tr>
 </table>
 
 ### `VERB`
 
-14 <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `DeixisRef`.
+5 <tt><a href="qpm_philotis-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `VERB` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="qpm_philotis-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="qpm_philotis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14; 100%), <tt><a href="qpm_philotis-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (14; 100%), <tt><a href="qpm_philotis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (10; 71%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 64%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (8; 57%).
+The most frequent other feature values with which `VERB` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qpm_philotis-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qpm_philotis-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qpm_philotis-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="qpm_philotis-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (5; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="qpm_philotis-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3; 60%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (3; 60%).
 
 `VERB` tokens may have the following values of `DeixisRef`:
 
-* `1` (4; 29% of non-empty `DeixisRef`): <em>izpékanoso, prekalnátasa, umrǽtoso, zgótvenyse</em>
-* `2` (10; 71% of non-empty `DeixisRef`): <em>šlévenata, abijískavanata, izmýslenyte, izšlévenata, navǿzanite, navǿzanæhte, stánatoto, umarénite</em>
-
-`DeixisRef` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `DeixisRef`.
+* `2` (5; 100% of non-empty `DeixisRef`): <em>abijískavanata, izšlévenata, stánatoto, umarénite, šlévenata</em>
 
 ### `PROPN`
 
-4 <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `DeixisRef`.
+1 <tt><a href="qpm_philotis-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `DeixisRef`.
 
-The most frequent other feature values with which `PROPN` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%).
+The most frequent other feature values with which `PROPN` and `DeixisRef` co-occurred: <tt><a href="qpm_philotis-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="qpm_philotis-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1; 100%), <tt><a href="qpm_philotis-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="qpm_philotis-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `PROPN` tokens may have the following values of `DeixisRef`:
 
-* `1` (4; 100% of non-empty `DeixisRef`): <em>Balkánase, Epimelitírioso, Próniasa, Próniaso</em>
-
-### `SCONJ`
-
-1 <tt><a href="qpm_philotis-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `DeixisRef`.
-
-`SCONJ` tokens may have the following values of `DeixisRef`:
-
-* `2` (1; 100% of non-empty `DeixisRef`): <em>Agýta</em>
+* `1` (1; 100% of non-empty `DeixisRef`): <em>Balkánase</em>
 
 ## Relations with Agreement in `DeixisRef`
 
 The 10 most frequent relations where parent and child node agree in `DeixisRef`:
-<tt>NOUN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (16; 67%),
-<tt>ADJ --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 67%),
-<tt>NUM --[<tt><a href="qpm_philotis-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="qpm_philotis-dep-conj.html">conj</a></tt>]--> NOUN</tt> (13; 62%).
 

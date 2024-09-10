@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-obl.html">obl</a></tt>.
 There are also 6 other language-specific subtypes of `obl`: <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="mdf_jr-dep-obl-freq.html">obl:freq</a></tt>, <tt><a href="mdf_jr-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="mdf_jr-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="mdf_jr-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-7 nodes (0%) are attached to their parents as `obl:cau`.
+9 nodes (0%) are attached to their parents as `obl:cau`.
 
-4 instances of `obl:cau` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57142857142857.
+5 instances of `obl:cau` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `obl:cau`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (4; 57% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 14% instances).
+The following 4 pairs of parts of speech are connected with `obl:cau`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (4; 44% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (3; 33% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,22 @@ The following 4 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 obl:cau	color:blue
+1	Сянь	ся	PRON	Pron	Case=Gen|Definite=Ind|Number=Sing|PronType=Dem	4	obl:cau	_	GTtags=Dem,Sg,Gen,Indef
+2	эзда	эзда	ADP	Adp	Case=Abl	1	case	_	GTtags=Abl
+3	Маринкати	Маринка	NOUN	N	Case=Dat|Definite=Def|Number=Sing	4	obl	_	GTtags=Prop,Sg,Dat,Def
+4	арась	арамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Ind,Prt1,ScSg3
+5	визькс	визькс	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
@@ -45,22 +61,6 @@ The following 4 pairs of parts of speech are connected with `obl:cau`: <tt><a hr
 3	Пашуть	Пашу	NOUN	N	Case=Gen|Definite=Def|Number=Sing	1	obl:cau	_	GTtags=Prop,Sg,Gen,Def
 4	инкса	инкса	ADP	Adp	Case=Cau	3	case	_	GTtags=Cau|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 obl:cau	color:blue
-1	Сянь	ся	PRON	Pron	Case=Gen|Definite=Ind|Number=Sing|PronType=Dem	4	obl:cau	_	GTtags=Dem,Sg,Gen,Indef
-2	эзда	эзда	ADP	Adp	Case=Abl	1	case	_	GTtags=Abl
-3	Маринкати	Маринка	NOUN	N	Case=Dat|Definite=Def|Number=Sing	4	obl	_	GTtags=Prop,Sg,Dat,Def
-4	арась	арамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3
-5	визькс	визькс	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
-6	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

@@ -27,9 +27,9 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	зонпосни	зонпосни	NOUN	N	Case=Nom|Number=Sing	1	appos	_	GTtags=Sg,Nom|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
 5	туриясӧн	тури	NOUN	N	Case=Ins|Number=Plur	6	obl:agent	_	GTtags=Pl,Ins
-6	вайӧм	вайны	VERB	V	Valency=2|VerbForm=Vnoun	7	acl:relcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
+6	вайӧм	вайны	VERB	V	VerbForm=Vnoun	7	acl:relcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
 7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
-8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Pl1
+8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=TV,Ind,Prt1,Pl1
 9	ас	ас	PRON	Pron	Case=Nom|Number=Sing	10	det	_	GTtags=Sg,Nom
 10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	8	punct	_	_
@@ -50,11 +50,11 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	обязанӧсь	обязан	ADJ	A	Case=Nom|Number[subj]=Plur	0	root	_	OrigLang=ru
 6	тышкасьны	тышкасьны	VERB	V	VerbForm=Inf	5	advcl	_	_
 7	сы	сійӧ	PRON	Pron	Case=Adp|Number=Sing|Person=3|PronType=Prs	6	obl	_	_
-8	вӧсна	вӧсна	ADP	Po	_	7	case	_	SpaceAfter=No
+8	вӧсна	вӧсна	ADP	Po	AdpType=Post	7	case	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	14	punct	_	_
 10	медым	медым	SCONJ	CS	_	14	mark	_	_
 11	му	му	NOUN	N	Case=Nom|Number=Sing	14	obl:lmod	_	_
-12	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	11	case	_	_
+12	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	11	case	_	_
 13	эз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Past	14	aux:neg	_	_
 14	коль	кольны	VERB	V	Connegative=Yes	7	acl:relcl	_	_
 15	ниӧти	ниӧти	PRON	Pro	Case=Nom|Number=Sing|Polarity=Neg	16	det	_	_
@@ -77,7 +77,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 32	воӧ	воны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	27	conj	_	_
 33	нянь	нянь	NOUN	N	Case=Nom|Number=Sing	32	nsubj	_	_
 34	трудодень	трудодень	NOUN	N	Case=Nom|Number=Sing	32	obl	_	OrigLang=ru
-35	вылӧ	вылын	ADP	Po	Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
+35	вылӧ	вылӧ	ADP	Po	AdpType=Post|Case=Ill|Number=Sing	34	case	_	SpaceAfter=No
 36	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
@@ -100,7 +100,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	обыкновеннӧй	обыкновеннӧй	ADJ	A	Case=Nom|Number=Sing	11	amod	_	_
 10	боевӧй	боевӧй	ADJ	A	Case=Nom|Number=Sing	11	amod	_	_
 11	случай	случай	NOUN	N	Case=Nom|Number=Sing	5	obj	_	_
-12	йылысь	йылысь	ADP	Po	Case=Ela|Number=Sing	11	case	_	SpaceAfter=No
+12	йылысь	йылысь	ADP	Po	AdpType=Post|Case=Ela|Number=Sing	11	case	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	14	punct	_	_
 14	кодъяс	коді	PRON	Pron	Case=Nom|Number=Plur|PronType=Int	22	nsubj:cop	_	_
 15	коркӧ	коркӧ	ADV	Adv	PronType=Ind	22	advmod:tmod	_	SpaceAfter=No
@@ -111,7 +111,7 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 20	,	,	PUNCT	CLB	_	22	punct	_	_
 21	вӧвліны	вӧвлыны	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	22	cop	_	_
 22	фронт	фронт	NOUN	N	Case=Nom|Number=Sing	11	acl:relcl	_	_
-23	вылын	вылын	ADP	Po	Case=Ine|Number=Sing	22	case	_	_
+23	вылын	вылын	ADP	Po	AdpType=Post|Case=Ine|Number=Sing	22	case	_	_
 24	Климент	Климент	PROPN	N	Case=Nom|Number=Sing	22	obl	_	_
 25	Ефремовичкӧд	Ефрем	PROPN	N	Case=Com|Number=Sing	24	flat:name	_	SpaceAfter=No
 26	.	.	PUNCT	CLB	_	5	punct	_	_

@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>fie</em> (<tt><a href="ro_simonero-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 1.666462).
+The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 1.666637).
 
 The 1st highest number of forms (2) was observed with the lemma “și”: <em>si, și</em>.
 
@@ -56,9 +56,9 @@ Examples: <em>și, sau, dar, însă, fie, deci, ci, ori, si, încă</em>
 
 Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2976; 59% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (716; 14% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (612; 12% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (346; 7% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (146; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (72; 1% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt> (54; 1% instances), <tt><a href="ro_simonero-pos-CCONJ.html">CCONJ</a></tt> (31; 1% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (29; 1% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (28; 1% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="ro_simonero-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (4; 0% instances)
 
-4985 (99%) `CCONJ` nodes are leaves.
+4984 (99%) `CCONJ` nodes are leaves.
 
-14 (0%) `CCONJ` nodes have one child.
+15 (0%) `CCONJ` nodes have one child.
 
 34 (1%) `CCONJ` nodes have two children.
 
@@ -66,7 +66,7 @@ Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ro
 
 The highest child degree of a `CCONJ` node is 3.
 
-Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="ro_simonero-dep-punct.html">punct</a></tt> (48; 56% instances), <tt><a href="ro_simonero-dep-conj.html">conj</a></tt> (30; 35% instances), <tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt> (5; 6% instances), <tt><a href="ro_simonero-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ro_simonero-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes are attached using 5 different relations: <tt><a href="ro_simonero-dep-punct.html">punct</a></tt> (48; 56% instances), <tt><a href="ro_simonero-dep-conj.html">conj</a></tt> (30; 35% instances), <tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt> (6; 7% instances), <tt><a href="ro_simonero-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ro_simonero-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (48; 56% instances), <tt><a href="ro_simonero-pos-CCONJ.html">CCONJ</a></tt> (31; 36% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ro_simonero-pos-PUNCT.html">PUNCT</a></tt> (48; 56% instances), <tt><a href="ro_simonero-pos-CCONJ.html">CCONJ</a></tt> (31; 36% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

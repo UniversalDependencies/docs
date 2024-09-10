@@ -11,4 +11,4 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 PRO1 LITEN-PERSON HA*INTE PERSON^TECKEN PRO1 PU@g \n When I was small, I didn't have a name sign.
 advcl(PRO1, LITEN-PERSON)
 ~~~
-<!-- Interlanguage links updated Po lis 14 15:35:04 CET 2022 -->
+<!-- Interlanguage links updated Ne 5. května 2024, 18:20:32 CEST -->

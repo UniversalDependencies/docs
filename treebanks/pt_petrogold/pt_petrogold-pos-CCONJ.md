@@ -19,15 +19,15 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_petrogold-pos
 
 
 * <em>e</em>
-  * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 5189: <em>St , com estrutura decimétrica <b>e</b> de baixo ângulo , <b>e</b> de a fácies</em>
+  * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 5189: <em>2.1.1 Características químicas <b>e</b> físicas de o Petróleo</em>
   * <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> 6: <em>As propriedades de o fluido que mais influenciam em a taxa de penetração <b>e</b> , consequentemente , em o custo são : a densidade , o teor de sólidos , o filtrado e a viscosidade .</em>
   * <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> 1: <em>Com a descoberta de o Campo de Mexilhão , a expectativa é que a produção de gás natural em este campo chegue a 15 milhões <b>e</b> metros cúbicos/dia ( www.ibp.org.br ) .</em>
   * <tt><a href="pt_petrogold-pos-AUX.html">AUX</a></tt> 1: <em>O sistema é apropriado para a elevação de petróleos pesados e viscosos e para situações em águas profundas sem que a instalação de plataforma a menor distância de os poços <b>e</b> inviável , técnica ou economicamente .</em>
   * <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> 1: <em>São objetivos específicos de esta pesquisa : ( a ) descrição e interpretação de fácies sedimentares de o Grupo Areado ; ( b ) levantamento de seções estratigráficas verticais ; ( c ) identificação de o padrão de paleocorrentes , interpretação de o paleomergulho deposicional , definição de as áreas-fonte e direção de os paleoventos ; ( d ) interpretação de os paleoambientes deposicionais ; e ( <b>e</b> ) discussão de a paleogeografia .</em>
 * <em>a</em>
-  * <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> 10528: <em>Tal decisão foi baseada em <b>a</b> natureza de o nanomaterial .</em>
-  * <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> 3222: <em>4.5 Dados referentes <b>a</b> o trabalho de campo</em>
-  * <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> 99: <em>A SIM é definida de distintas formas por os autores que <b>a</b> estudaram .</em>
+  * <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> 10528: <em>c ) Verificar <b>a</b> eficiência de <b>a</b> barreira de contenção de garrafas</em>
+  * <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> 3222: <em>2.5 Técnicas para a Resposta <b>a</b> o Vazamento de Óleo</em>
+  * <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> 99: <em>Estes resultados podem ser observados em as Figuras 4.29 ( <b>a</b> ) e ( b ) .</em>
   * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 73: <em>Em o mapa , correspondem a os afloramentos 194 <b>a</b> 206 ( Figura 21 ) .</em>
   * <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> 20: <em>Notou se que quando há o predomínio de folhelhos a laminação tende <b>a</b> ser monótona .</em>
   * <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> 4: <em>Diminuição de <b>a</b> : concentração de concreções .</em>
@@ -39,14 +39,14 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_petrogold-pos
   * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 53: <em>Estudos de lixiviação são , <b>portanto</b> , sempre necessários .</em>
   * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 3: <em>Em este caso complexo se faz necessário , <b>portanto</b> , o emprego de a técnica empírica de a tentativa e erro tão empregada em modelagem quando o problema direto é utilizado .</em>
 * <em>quanto</em>
-  * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 62: <em>É dada uma visão geral sobre fluidos de perfuração , <b>quanto</b> a os tipos e funções .</em>
+  * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 62: <em>A quantidade de CO2 emitido em a exaustão indica o <b>quanto</b> a combustão é completa .</em>
   * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 23: <em>Aqui são apresentados os resultados obtidos tanto para a PHPA <b>quanto</b> para a GX .</em>
   * <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> 8: <em>Como pode ser observado por a tabela acima , <b>quanto</b> menor o peso molécula de o inibidor , melhor sua atuação .</em>
   * <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> 4: <em>Porém , o <b>quanto</b> o método será mais lucrativo ainda não foi dimensionado , encontrando se ainda em fase de estudo ( economia.uol.com.br ) .</em>
   * <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> 2: <em>Os inibidores termodinâmicos apresentam uma série de vantagens sobre outros inibidores : • Redução de a temperatura de formação ; • Podem evitar formar hidratos em qualquer condição , a depender de <b>quanto</b> inibidor é usado ; • Alguns de eles , como o metanol , inibem tanto em a fase vapor como em a fase líquida , tendo importância em operações transientes ; • Funcionam com qualquer mistura de hidrocarbonetos .</em>
   * <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> 1: <em>A queima in situ ou queima em o local , é um processo de queima de a mancha de óleo utilizado em vários países , em o local de um derramamento , tem como principal característica remover grande parcela de o óleo presente em a superfície de o mar , essa técnica não é prevista por a legislação brasileira , pois existe alguns problemas <b>quanto</b> ignição de o óleo , a geração de grande quantidade de fumaça , e a possibilidade de os resíduos gerados em a queima ser denso e viscoso ( FERREIRA , 2006 ) .</em>
 * <em>como</em>
-  * <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> 916: <em>Considerou se a densidade de a água <b>como</b> 999 Kg/m3 .</em>
+  * <tt><a href="pt_petrogold-pos-ADP.html">ADP</a></tt> 916: <em>São definidos <b>como</b> fluidos cuja fase contínua é um líquido sintético .</em>
   * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 31: <em>Tanto em o modelo de a figura 6.18 <b>como</b> de a 6.16 são verificados valores nulos de susceptibilidade magnética .</em>
   * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 17: <em>É um eficiente agente de suspensão tanto em água doce <b>como</b> em água 21 salgada .</em>
   * <tt><a href="pt_petrogold-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Em esse trabalho <b>como</b> a produção é para consumo próprio esses impostos não serão considerados .</em>
@@ -57,11 +57,11 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_petrogold-pos
   * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Não ocorre , em a plataforma , nenhum processamento e <b>nem</b> especificação a ser atingida quanto a este gás .</em>
   * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 1: <em>Como colocado por Xiong Li ( 2006 ) , muitos usuários de esta metodologia vêm utilizando a de forma indiscriminada , extrapolando o caso especifico acima para o modelo geral 3D , em o qual <b>nem</b> sempre se aplica a consideração sobre independência de a direção de magnetização .</em>
 * <em>mais</em>
-  * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 569: <em>A comparação entre os combustíveis B20 foi <b>mais</b> igual .</em>
+  * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 569: <em>Esta é , para efeitos práticos , a área de fluxo <b>mais</b> importante .</em>
   * <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> 36: <em>O CO2 reagirá com <b>mais</b> carbono gerando o monóxido de carbono ( CO ) .</em>
   * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 4: <em>A o todo foi calculado o tempo duplo de 6 camadas sedimentares <b>mais</b> o tempo duplo de a lâmina d’água .</em>
 * <em>assim</em>
-  * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 110: <em>Mesmo <b>assim</b> , esses continuariam sendo bem mais ativos que os demais .</em>
+  * <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> 110: <em>O balão foi aferido , obtendo se <b>assim</b> uma solução diluída 10 x .</em>
   * <tt><a href="pt_petrogold-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Em concentrações altas , a distância média entre os íons ou moléculas de a espécie absorvente diminui a o ponto de que cada partícula afete a distribuição de carga , e <b>assim</b> a extensão de a absorção de as suas vizinhas .</em>
 * <em>Isto</em>
   * <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> 22: <em><b>Isto</b> pode ser observado em o Gráfico 13 .</em>
@@ -69,7 +69,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="pt_petrogold-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.095238 (the average of all parts of speech is 1.452352).
+The form / lemma ratio of `CCONJ` is 1.095238 (the average of all parts of speech is 1.452181).
 
 The 1st highest number of forms (2) was observed with the lemma “como”: <em>com, como</em>.
 
@@ -84,7 +84,7 @@ The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</
 
 `CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="pt_petrogold-dep-cc.html">cc</a></tt> (6186; 97% instances), <tt><a href="pt_petrogold-dep-flat-name.html">flat:name</a></tt> (166; 3% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (3323; 52% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (1181; 19% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (759; 12% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (580; 9% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (346; 5% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (61; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (55; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="pt_petrogold-pos-NOUN.html">NOUN</a></tt> (3321; 52% instances), <tt><a href="pt_petrogold-pos-VERB.html">VERB</a></tt> (1183; 19% instances), <tt><a href="pt_petrogold-pos-PROPN.html">PROPN</a></tt> (759; 12% instances), <tt><a href="pt_petrogold-pos-ADJ.html">ADJ</a></tt> (580; 9% instances), <tt><a href="pt_petrogold-pos-NUM.html">NUM</a></tt> (347; 5% instances), <tt><a href="pt_petrogold-pos-PRON.html">PRON</a></tt> (60; 1% instances), <tt><a href="pt_petrogold-pos-SYM.html">SYM</a></tt> (55; 1% instances), <tt><a href="pt_petrogold-pos-ADV.html">ADV</a></tt> (40; 1% instances), <tt><a href="pt_petrogold-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="pt_petrogold-pos-X.html">X</a></tt> (2; 0% instances)
 
 6161 (97%) `CCONJ` nodes are leaves.
 

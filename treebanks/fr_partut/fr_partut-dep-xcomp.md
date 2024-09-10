@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-461 nodes (2%) are attached to their parents as `xcomp`.
+460 nodes (2%) are attached to their parents as `xcomp`.
 
 460 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.18438177874187.
+Average distance between parent and child is 2.19347826086957.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (361; 78% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (72; 16% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (17; 4% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (362; 79% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (75; 16% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (16; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -53,29 +53,22 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 xcomp	color:blue
-1	Même	même	ADV	B	_	6	advmod	_	_
-2	si	si	SCONJ	CS	_	6	mark	_	_
-3	ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	_
-4	avaient	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
-5	été	être	AUX	VA	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:pass	_	_
-6	étiquetés	étiqueter	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	advcl	_	_
-7	viande	viande	NOUN	S	Gender=Fem|Number=Sing	6	xcomp	_	_
-8	de	de	ADP	E	_	9	case	_	_
-9	baleine	baleine	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-10	,	,	PUNCT	FF	_	6	punct	_	_
-11	c'	ce	PRON	PD	PronType=Dem	15	nsubj	_	SpaceAfter=No
-12	était	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
-13	de	de	ADP	E	_	15	case	_	_
-14	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	viande	viande	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-16	de	de	ADP	E	_	17	case	_	_
-17	dauphin	dauphin	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	FS	_	15	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 xcomp	color:blue
+1	Prototaxites	Prototaxites	PROPN	SP	_	5	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	couché	coucher	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	mesurait	mesurer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+6	environ	environ	ADV	B	_	5	advmod	_	_
+7	90	90	NUM	N	NumType=Card	8	nummod	_	_
+8	cm	cm	NOUN	S	Gender=Fem|Number=Sing	5	xcomp	_	_
+9	de	de	ADP	E	_	10	case	_	_
+10	hauteur	hauteur	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~
 

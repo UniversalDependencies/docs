@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German-PUD: POS Tags: `SCONJ`
 
 There are 22 `SCONJ` lemmas (0%), 22 `SCONJ` types (0%) and 326 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>dass, als, um, wenn, nachdem, weil, ob, indem, wie, bevor</em>
 
@@ -52,22 +52,28 @@ The 10 most frequent ambiguous types:  <em>als</em> (<tt><a href="de_pud-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.195641).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.198007).
 
 The 1st highest number of forms (2) was observed with the lemma “während”: <em>währen, während</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “If”: <em>If</em>.
+The 2nd highest number of forms (1) was observed with the lemma “als”: <em>als</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “als”: <em>als</em>.
+The 3rd highest number of forms (1) was observed with the lemma “anstatt”: <em>Anstatt</em>.
 
-`SCONJ` does not occur with any features.
+`SCONJ` occurs with 1 features: <tt><a href="de_pud-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
+
+`SCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`SCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (325 tokens).
+Examples: <em>dass, als, um, wenn, nachdem, weil, ob, indem, wie, bevor</em>
 
 
 ## Relations
 
 `SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="de_pud-dep-mark.html">mark</a></tt> (310; 95% instances), <tt><a href="de_pud-dep-case.html">case</a></tt> (14; 4% instances), <tt><a href="de_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (274; 84% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (27; 8% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (19; 6% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (274; 84% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (26; 8% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (19; 6% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 325 (100%) `SCONJ` nodes are leaves.
 

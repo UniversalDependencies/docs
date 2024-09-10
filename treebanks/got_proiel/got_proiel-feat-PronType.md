@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="got_proiel-pos-PRON
 
 ### `PRON`
 
-5860 <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+5860 <tt><a href="got_proiel-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="got_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4721; 81%), <tt><a href="got_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3866; 66%).
 
@@ -26,6 +26,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Prs` (4684; 80% of non-empty `PronType`): <em>izwis, imma, ina, is, im, mis, ik, mik, jus, sik</em>
 * `Rcp` (10; 0% of non-empty `PronType`): <em>anþar, anþaris, anþarana</em>
 * `Rel` (891; 15% of non-empty `PronType`): <em>saei, þatei, þammei, þoei, þanei, þaiei, sei, þizei, þaimei, þizaiei</em>
+* `EMPTY` (1366): <em>þata, sa, þo, ƕas, all, sumai, þamma, allai, allaim, þai</em>
 
 `PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (19) occur only with one value of `PronType`.
 
@@ -51,11 +52,10 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> PRON</tt> (57; 97%),
-<tt>PRON --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (24; 100%),
-<tt>PRON --[<tt><a href="got_proiel-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (7; 100%),
-<tt>PRON --[<tt><a href="got_proiel-dep-appos.html">appos</a></tt>]--> PRON</tt> (2; 67%),
+<tt>PRON --[<tt><a href="got_proiel-dep-det.html">det</a></tt>]--> PRON</tt> (57; 90%),
+<tt>PRON --[<tt><a href="got_proiel-dep-conj.html">conj</a></tt>]--> PRON</tt> (21; 70%),
+<tt>PRON --[<tt><a href="got_proiel-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (8; 57%),
+<tt>PRON --[<tt><a href="got_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (7; 54%),
 <tt>PRON --[<tt><a href="got_proiel-dep-appos.html">appos</a></tt>]--> ADV</tt> (1; 100%),
-<tt>PRON --[<tt><a href="got_proiel-dep-expl.html">expl</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="got_proiel-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (1; 100%).
+<tt>PRON --[<tt><a href="got_proiel-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (1; 100%).
 

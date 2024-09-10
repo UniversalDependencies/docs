@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-32227 tokens (11%) have a non-empty value of `VerbForm`.
-11274 types (22%) occur at least once with a non-empty value of `VerbForm`.
-4261 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (30319; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1906; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+32228 tokens (11%) have a non-empty value of `VerbForm`.
+11275 types (22%) occur at least once with a non-empty value of `VerbForm`.
+4260 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> (30320; 10% instances), <tt><a href="be_hse-pos-AUX.html">AUX</a></tt> (1906; 1% instances), <tt><a href="be_hse-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="be_hse-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-30319 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+30320 <tt><a href="be_hse-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22897; 76%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22143; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21339; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18555; 61%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15548; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="be_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (22898; 76%), <tt><a href="be_hse-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (22143; 73%), <tt><a href="be_hse-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (21339; 70%), <tt><a href="be_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (18556; 61%), <tt><a href="be_hse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15548; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (352; 1% of non-empty `VerbForm`): <em>кажучы, пачынаючы, гледзячы, дзякуючы, мяркуючы, стаўшы, седзячы, адказваючы, адчуўшы, выступаючы</em>
 * `Fin` (22904; 76% of non-empty `VerbForm`): <em>можа, жыве, стала, мае, адбудзецца, затрымалі, сказаў, кажа, пачалі, стаў</em>
 * `Inf` (4814; 16% of non-empty `VerbForm`): <em>падтрымаць, зрабіць, рабіць, паглядзець, слухаць, стаць, атрымаць, працаваць, размаўляць, далучыцца</em>
-* `Part` (2249; 7% of non-empty `VerbForm`): <em>затрыманы, затрыманых, звязаныя, расстраляных, прысвечаны, вызвалены, затрыманага, затрыманыя, пабудаваны, створаны</em>
-* `EMPTY` (773): <em>можна, трэба, няма, варта, нельга, шкада, нар., гл., супраць, пам.</em>
+* `Part` (2250; 7% of non-empty `VerbForm`): <em>затрыманы, затрыманых, звязаныя, расстраляных, прысвечаны, вызвалены, затрыманага, затрыманыя, пабудаваны, створаны</em>
+* `EMPTY` (772): <em>можна, трэба, няма, варта, нельга, шкада, гл., нар., супраць, пам.</em>
 
 <table>
   <tr><th>Paradigm <i>мець</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -97,7 +97,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>зарослымі</em>
-* `EMPTY` (26810): <em>беларускай, новы, надзвычайных, беларускіх, беларускую, беларускі, беларуская, беларускія, беларускага, першы</em>
+* `EMPTY` (26815): <em>беларускай, новы, надзвычайных, беларускіх, беларускую, беларускі, беларуская, беларускія, першы, беларускага</em>
 
 ### `NOUN`
 
@@ -108,7 +108,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Fin` (1; 100% of non-empty `VerbForm`): <em>падкастаў</em>
-* `EMPTY` (72552): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
+* `EMPTY` (72685): <em>дзень, людзей, чалавек, арт, годзе, гадоў, час, людзі, года, год</em>
 
 ## Relations with Agreement in `VerbForm`
 
