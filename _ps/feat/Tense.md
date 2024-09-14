@@ -124,7 +124,7 @@ The verb forms are tagged with `Tense=Pres`, while the future particle bears the
 `Tense=Fut` tag.
 
 The only verb that can be marked directly with `Tense=Fut` is the third person singular future form
-of the verb “to be”, which differs from it present counterpart: بۀ وی _bë wi_ “He/She/It will be”
+of the verb “to be”, which differs from itS present counterpart: بۀ وی _bë wi_ “He/She/It will be”
 (compare with the present form دی _day_ (m) / ده _da_ (f) “He/She/It is”).
 
 #### Examples
