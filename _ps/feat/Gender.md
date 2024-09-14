@@ -8,13 +8,13 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Masc">Masc</a></td
+  <td><a href="#Masc">Masc</a></td>
   <td><a href="#Fem">Fem</a></td>
 </tr>
 </table>
 
-Gender is a inherent feature of [nouns](NOUN) and some [pronouns](PRON)
-and an inflectional feature of [adjectives](ADJ), other pronouns and some forms of [verbs](VERB)
+Gender is a inherent feature of nouns and some pronouns
+and an inflectional feature of adjectives, other pronouns and some forms of verbs
 (participles and third person of past tense) that mark agreement with nouns.
 There are two values of gender: masculine and feminine.
 
