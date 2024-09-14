@@ -15,8 +15,8 @@ udver: '2'
 </tr>
 </table>
 
-Mood is a feature that expresses modality and subclassifies finite
-verb forms.
+Mood is a verbal feature that expresses modality and subclassifies finite
+verb forms. There are four values of mood: indicative, imperative, subjunctive and potential.
 
 ### <a name="Ind">`Ind`</a>: indicative
 
