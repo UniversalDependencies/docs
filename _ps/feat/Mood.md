@@ -30,7 +30,6 @@ while tagged `Mood=Ind` have subjunctive meaning.
 
 #### Examples
 
-* _<b>Studuješ</b> na univerzitě.&nbsp;_ “<b>You study</b> at the university.”
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -41,8 +40,6 @@ in imperfective aspect.
 
 #### Examples
 
-* _<b>Studuj</b> na univerzitě!&nbsp;_ “<b>Study</b> at the university!”
-* _<b>Budiž</b> světlo!&nbsp;_ “<b>Let there be</b> light!”
 
 ### <a name="Sub">`Sub`</a>: subjunctive
 
@@ -58,7 +55,7 @@ from the present perfective forms used to form future perfective indicative.
 ### <a name="Pot">`Pot`</a>: potential
 
 The Pashto does not have a modal verb expressing possibility of an action, but uses the potential mood instead.
-It is realized in two tenses: present and past. The potential mood can be formed in several ways, using the participle
+It is realized in two tenses: present and past. The potential mood can be formed in several ways: using the participle
 or subjunctive of the content verb and indicative or participle of auxiliary verbs. None of these forms is tagged `Mood=Pot`.
 The only case, where the tag `Mood=Pot` is used, is the word شوای _šwây_, a special form of the auxiliary verb شول _šwël_
 (perfective counterpart of کېدل _kedë́l_ “to become”), which can be used in the past potential instead of past finite forms
