@@ -50,11 +50,11 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 ## Syntax
 
 ### Core Arguments
-* Core arguments (subjects and objects) in Pashto are mostly nouns, pronouns or infinitives (behaving like verbal nouns) in either bare direct case `Nom` or bare oblique case `Acc`. The exact use of these cases depends on the part of speech of the arguments, the inherent transitivity of the verb and the voice and tense used (phenomenon often calld _split ergativity_)
-  * The only arguments, i.e. the subjects, of intransitive verbs or of transitive verbs used in the passive voice are always in the direct case `Nom`.
+* Core arguments (subjects and objects) in Pashto are mostly nouns, pronouns or infinitives (behaving like verbal nouns) in either bare direct case `Nom` or bare oblique case `Acc`. The exact use of these cases depends on the part of speech of the arguments, the inherent transitivity of the verb and the voice and tense used (phenomenon often calld _split ergativity_):
+  * The only arguments (i.e. the subjects) of intransitive verbs or of transitive verbs used in the passive voice are always in the direct case `Nom`.
   * For transitive verbs in the active voice holds:
     * The **subject** in **non-past** tenses is always in the **direct** case `Nom`.
-    * The **object** in **non-past** tenses is in the **direct** case `Nom` if it is a **noun**, but in the **oblique** case `Acc` if it is a **pronouns**.
+    * The **object** in **non-past** tenses is in the **direct** case `Nom` if it is a **noun**, but in the **oblique** case `Acc` if it is a **pronoun**.
     * The **subject** in **past** tenses is always in the **oblique** case `Acc`.
     * The **object** in **past** tenses is always in the **direct** case `Nom`.
     * The subject usually comes before the object regardless of the case.
@@ -80,10 +80,8 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 
 ## Treebanks
 
-There are [N](../treebanks/ps-comparison.html) Pashto UD treebanks:
+There is currently no Pashto UD treebank.
 
-  * [Pashto-A](../treebanks/ps_a/index.html)
-  * [Pashto-B](../treebanks/ps_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
