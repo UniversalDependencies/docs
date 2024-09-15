@@ -476,6 +476,8 @@ collections:
     output: true
   bgs:
     output: true
+  pay:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
