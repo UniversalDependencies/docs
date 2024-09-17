@@ -27,8 +27,8 @@ The forms can be shared in various ways depending on the declension class:
 * 1 form: DOAV
 * 2 forms: DO / AV
 * 2 forms: D / OAV
+* 2 forms: DAV / O
 * 3 forms: D / O / AV
-* 3 forms: D / OA / V
 
 The direct plural has either its unique form or a shared form with oblique singular
 (and possibly also with other singular cases).
@@ -68,7 +68,7 @@ Example of a noun with five different forms: تول _tol_ “weight”
 
 The direct case (tagged as nominative in UD) is the base form of declinable parts of speech.
 It is used for subjects of non-transitive verbs or for transitive verbs is the passive voice.
-For active transitive verbs, it is used also for subjects in non-past tenses, nouns as objects in non-past tenses
+Regarding active transitive verbs, it is used for subjects in non-past tenses, nouns as objects in non-past tenses
 and for all objects in past tenses. Morever, it is used with most of adpositions and for nominal parts of nominal predicates
 or in several other cases like temporal ranges. It serves as a lemma.
 
@@ -100,6 +100,15 @@ It is used with a few prepositions with the meaning “from” or “out of”.
 ### <a name="Voc">`Voc`</a>: vocative
 
 The vocative case is used to address someone.
+
+Singular Formation:
+* Masculine nouns ending in a consonant, take an unstressed ه _a_.
+* Masculine nouns ending in ی _ay/y_, change the ending to یه _ya_.
+* Feminine nouns ending in a consonant, take an unstressed ې _e_ in the vocative singular.
+* Feminine nouns ending ه _a_, change it to ې _e_ in the vocative singular.
+* Other nouns (both masculine and feminine) remain unchanged.
+
+The vocative plural is identical with the oblique plural.
 
 #### Examples
 * ex.: **هلکه**، دلته راشه _**halë́ka**, dë́lta rấša_ “boy, come here”
