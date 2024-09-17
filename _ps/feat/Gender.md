@@ -24,6 +24,9 @@ Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.
 
 #### Examples
+* ex.: هلک _halë́k_ boy
+* ex.: کور _kor_ house
+* ex.: ملګری _malgë́ray_ friend
 
 ### <a name="Fem">`Fem`</a>: feminine gender
 
@@ -31,5 +34,8 @@ Nouns denoting female persons are feminine. Other nouns may be also
 grammatically feminine, without any relation to sex.
 
 #### Examples
+* ex.: پېغله _péġla_ girl
+* ex.: مياشت _myấšt_ month
+* ex.: سپوږمۍ _spoǧmë́y_ moon
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->
