@@ -90,8 +90,8 @@ for pronominal objects in non-past tenses and for all **subjects** in past tense
 It is used also with several adpositions or in fixed phrases.
 
 Singular formation from the direct case:
-* **Some** masculine nouns and adjectives with zero ending, take a stressed ۀ _ë́_
-  and undergo a vowel change in the preceding syllable.
+* **Some** masculine nouns and adjectives with zero ending, may take a stressed ۀ _ë́_
+  and/or undergo a vowel change in the preceding syllable.
 * Masculine nouns and adjectives ending in ی _ay/y_ change the ending to ي _i_.
 * Feminine nouns and adjectives with zero ending take an unstressed ې _e_.
 * Feminine nouns and adjectives ending in ه _a_ change the ending to ې _e_.
