@@ -84,9 +84,8 @@ or in several other cases, like temporal ranges.
 
 ### <a name="Acc">`Acc`</a>: oblique
 
-The oblique case (tagged as accusative in UD) is used with active transitive verbs
-for pronominal objects in non-past tenses and for all **subjects** in past tenses
-(language feature called _split ergativity_ occurring also in other Indo-Iranian langages).
+The oblique case (tagged as accusative in UD) for subjects of active transitive verbs in past tenses
+(language feature called _split ergativity_ occurring also in other Indo-Iranian langages). It is 
 It is used also with several adpositions or in fixed phrases.
 
 Singular formation from the direct case:
