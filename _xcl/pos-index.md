@@ -8,4 +8,4 @@ udver: '2'
 
 # POS tags
 
-{% include cs-pos-table.html %}
+{% include xcl-pos-table.html %}
