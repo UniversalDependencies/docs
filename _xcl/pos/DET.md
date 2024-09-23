@@ -7,19 +7,19 @@ udver: '2'
 
 ### Definition
 
-Determiners are words that modify [nouns](NOUN) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc. Under this definition, determiners include _articles_ and _pronominal adjectives_. 
-In Classical Armenian, the tag [DET]() is used for: 
-- demonstrative/possessive particles;
-- pronominal adjectives, including indefinite pronominal adjectives;
-- quantifiers.
+Determiners are words that modify [nouns](xcl-pos/NOUN) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc. Under this definition, determiners include _articles_ and _pronominal adjectives_. 
+In Classical Armenian, the tag [DET](xcl-pos/DET) is used for: 
+* demonstrative/possessive particles;
+* pronominal adjectives, including indefinite pronominal adjectives;
+* quantifiers.
   
-Adjectival pronouns and pronominal quantifiers are traditionally included into pronouns. However, the tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase in UD. Pronominal adjectives of animate and inanimate indefinite pronouns inflect for [Animacy]() and [Definite]() morphological features.
+Adjectival pronouns and pronominal quantifiers are traditionally included into pronouns. However, the tag [PRON](xcl-pos/PRON) is reserved for pronouns occurring as the head of a noun phrase in UD. Pronominal adjectives of animate and inanimate indefinite pronouns inflect for [Animacy](xcl-feat/Animacy) and [Definite](xcl-feat/Definite) morphological features.
 
 ### Examples
 
-- demonstrative/possessive particles: =_ս_/=_s_, =_դ_/=_d_, =_ն_/=_n_
-- pronominal adjectives, including indefinite pronominal adjectives: _իմ_/_im_ ‘my’, _ոմն_/_omn_ ‘certain’
-- quantifiers: _մի_/_mi_ ‘certain’, _ամենայն_/_amenayn_ ‘every’, _բազում_/_bazowm_ ‘many’
+* demonstrative/possessive particles: =ս/=_s_, =դ/=_d_, =ն/=_n_
+* pronominal adjectives, including indefinite pronominal adjectives: իմ/_im_ ‘my’, ոմն/_omn_ ‘certain’
+* quantifiers: մի/_mi_ ‘certain’, ամենայն/_amenayn_ ‘every’, բազում/_bazowm_ ‘many’
 
 ### References
 
@@ -38,4 +38,3 @@ de Lamberterie, Charles. 1997. L’article dans la relative en arménien classiq
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Müth, Angelika. 2011. Categories of definiteness in Classical Armenian. In: E. Welo (ed.) _Indo-European syntax and pragmatics: contrastive approaches._ Oslo Studies in Language 3/3: 11–25.
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:36 CEST -->
