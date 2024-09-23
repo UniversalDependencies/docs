@@ -66,5 +66,5 @@ In the original PROIEL annotation of the Classical Armenian Gospels (following t
 
 The following MISC features give additional information on the lemmas.
 
-* `LId` is a unique identifier of the dictionary entry, used with homonyms. It is the lemma itself, followed by a hyphen and a numeric identifier. Example: մի-1.
-* `Gloss` feature contains an English translation of the lemma. The English glosses are based on those used in the electronic concordance of the Armenian Bible issued as part of the Arak29 Project (https://arak29.org/bible/book/index_w_az.htm, https://bible.armeniancathedral.org/).
+* `LId` is a unique identifier of the dictionary entry, used with homonyms. It only applies to words with coinciding values of the LEMMA and UPOS fields. The value of the `LId` field contains the lemma followed by a hyphen and a numeric identifier. Example: *մի-1*.
+* `Gloss` feature contains an English translation of the lemma. The English glosses are adapted from those used in the electronic concordance of the Armenian Bible issued as part of the Arak29 Project (https://arak29.org/bible/book/index_w_az.htm, https://bible.armeniancathedral.org/).
