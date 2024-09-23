@@ -72,6 +72,12 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [es] _¡<b>Por Dios</b>!_ “for God’s sake” (_por_ = `ADP`, _Dios_ = [PROPN]())
 
+### <a name="NOUN">`NOUN`</a>: noun-like expression
+
+#### Examples
+
+* [de] _<b>Letzterer</b>_ “the latter” (_Letzterer_ = [ADJ]())
+
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
 #### Examples
