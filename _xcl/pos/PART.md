@@ -13,13 +13,12 @@ In UD_Classical_Armenian-CAVaL, the tag is used restrictively when no other tag 
 
 ### Examples
 
-- Emphatic particle: _իսկ_/_isk_
-- Negation particle: _ոչ_/_očՙ_ (and its proclitic variant _չ=_/_čՙ_), _մի_/_mi_
-- Mood particle: _գուցէ_/_gowcՙē_, _եթե_/_etՙe_ (and its variant _թե_/_tՙe_)
+* Emphatic particle: իսկ/_isk_
+* Negation particle: ոչ/_očՙ_ (and its proclitic variant չ=/_čՙ_=), մի/_mi_
+* Mood particle: գուցէ/_gowcՙē_, եթե/_etՙe_ (and its variant թե/_tՙe_)
 
 ### References
 
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
-<!-- Interlanguage links updated Ne 5. května 2024, 18:19:39 CEST -->
