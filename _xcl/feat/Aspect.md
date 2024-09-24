@@ -16,7 +16,7 @@ udver: '2'
 
 In Classical Armenian, aspect as an inflectional feature, which is tagged on finite [verbs](xcl-pos/VERB) and ([auxiliaries] (xcl-pos/AUX)), and is intricately related to the features of [Tense](xcl-feat/Tense) and [Mood](xcl-feat/Mood). Aspect is morphologically expressed by paradigmatically opposed imperfective and perfective stems, from which all finite verb forms are derived. In particular, the prohibitive, derived from the imperfective stem, is tagged as `Imp`, whereas the imperative, derived from the perfective stem, is tagged as `Perf`. 
 
-Note that unlike <a href="https://universaldependencies.org/hy/feat/Aspect.html">Modern Eastern Armenian</a>, where different verb forms can take the same aspectual tag depending on thier contextual use, the annotation of aspect follows a purely morphological principle in the Classical Armenian treebank.
+Note that unlike <a href="https://universaldependencies.org/hy/feat/Aspect.html">Modern Eastern Armenian</a>, where different verb forms can take the same aspectual tag depending on their contextual use, the annotation of aspect follows a purely morphological principle in the Classical Armenian treebank.
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
