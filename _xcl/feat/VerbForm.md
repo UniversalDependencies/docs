@@ -18,7 +18,7 @@ udver: '2'
 
 ### <a name="Conv">`Conv`</a>: converb
 
-The converb is a non-finite verb form that shares properties of verbs and adverbs. In Classical Armenian, it applies to an undeclinable predicative verbal forms in -ոց/_-ocʻ_ used in the analytical necessitive/future construction with the copula.
+The converb is a non-finite verb form that shares properties of verbs and adverbs. In Classical Armenian, it applies to an indeclinable predicative verbal forms in -ոց/_-ocʻ_ used in the analytical necessitive/future construction with the copula.
 
 #### Examples
 
@@ -34,7 +34,7 @@ Rule of thumb: if it has non-empty [Mood](xcl-feat/Mood), it is finite. In Class
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-It appears as the argument of modal and other verbs. In Classical Armenian, one should distinguish between the undeclinable infinitive and the declinable verbal noun (see below), which is often referred to as "infinitive" in the traditional grammars.
+It appears as the argument of modal and other verbs. In Classical Armenian, one should distinguish between the indeclinable infinitive and the declinable verbal noun (see below), which is often referred to as "infinitive" in the traditional grammars.
 
 #### Examples
 
