@@ -16,7 +16,7 @@ Boolean feature. Is this a foreign word? Not a loan word
 but a genuinely foreign word appearing inside native
 text, e.g. inside direct speech, titles of books etc.
 
-This feature would apply to the [X]() part of speech (unanalyzable token) and ascribed to foreign words, which are not loanwords.
+This feature would apply to the [X]() part of speech (unanalysable token) and ascribed to foreign words, which are not loanwords.
 
 ### <a name="Yes">`Yes`</a>: it is foreign
 
