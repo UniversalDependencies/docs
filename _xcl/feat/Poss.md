@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-In Classical Armenian, possessive is a lexical feature of personal and reflexive pronominal adjectives ([determiners] (xcl-pos/DET)). Although enclitic determiners =ս/_=s_, =դ/_=d_, =ն/_=n_ can express possession, they are tagged according to their more common deictic contrastive values with the [Deixis](xcl-feat/Deixis) feature and not the possessive. Unlike <a href="https://universaldependencies.org/hy/feat/Poss.html">Modern Eastern Armenian</a>, genetive case forms like Պարսից/Parsicʻ “of Persis” are not tagged by the possessive feature.
+In Classical Armenian, possessive is a lexical feature of personal and reflexive pronominal adjectives ([determiners] (xcl-pos/DET)). Although enclitic determiners =ս/_=s_, =դ/_=d_, =ն/_=n_ can express possession, they are tagged according to their more common deictic contrastive values with the [Deixis](xcl-feat/Deixis) feature and not the possessive. Unlike <a href="https://universaldependencies.org/hy/feat/Poss.html">Modern Eastern Armenian</a>, genitive case forms like Պարսից/Parsicʻ “of Persis” are not tagged by the possessive feature.
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
