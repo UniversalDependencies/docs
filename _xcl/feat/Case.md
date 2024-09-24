@@ -77,7 +77,7 @@ The locative case typically expresses the location in space or time. It is used 
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
-The instrumental case is typically used withan an adposition to express an instrument.
+The instrumental case is typically used with an adposition to express an instrument.
 
 #### Examples
 
