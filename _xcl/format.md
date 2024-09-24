@@ -15,7 +15,7 @@ MISC feature to facilitate reconstruction of original (pre-tokenization) text.
 
 ## Transliteration
 
-In the original PROIEL annotation of the Classical Armenian Gospels (following the underlying Künzle 1984 edition of the text), the lemmas and wordforms are given in transliteration. The CAVaL treebank uses the original Armenian spelling in the FORM and LEMMA fields, whereas an adjusted transliteration is given in the MISC features `Translit=` (for forms) and `LTranslit=` (for lemmas). The transliteration equivalents (based on on the transliteration system accepted in the _Revue des Études Arméniennes_) and their conventional phonetic values based on the traditional pronounciation of Classical Armenian are given in the table below.
+In the original PROIEL annotation of the Classical Armenian Gospels (following the underlying Künzle 1984 edition of the text), the lemmas and wordforms are given in transliteration. The CAVaL treebank uses the original Armenian spelling in the FORM and LEMMA fields, whereas an adjusted transliteration is given in the MISC features `Translit=` (for forms) and `LTranslit=` (for lemmas). The transliteration equivalents (based on the transliteration system accepted in the _Revue des Études Arméniennes_) and their conventional phonetic values based on the traditional pronounciation of Classical Armenian are given in the table below.
 
 
 | Form | Transliteration | IPA |
