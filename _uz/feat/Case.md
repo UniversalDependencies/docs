@@ -20,7 +20,7 @@ The base form of the noun, typically used as citation form (lemma).
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-Typically, the accusative case in Uzbek marks the definite direct object in a sentence. Indefinite direct objects do not receive the accusative suffix, but stays in bare form
+Typically, the accusative case in Uzbek marks the definite direct object in a sentence. Indefinite direct objects do not receive the accusative suffix, but stay in bare form
 (`Nom`).
 
 In Uzbek `Acc` is expressed by suffix _-ni, -in, -n, -i(in literature)_.
@@ -43,7 +43,7 @@ In the Uzbek language, the case dative (Dat) is expressed by the suffixes _-ga, 
 * _Daftar<b>(ga)</b> yozdi_  “He/She wrote to the notebook” - _(when a person and predmet are added to the complement)_
 * _Maktab<b>(ga)</b> bordi_  “He/She went to the school” - _(The locative case when added to locative nouns)_
 * _Bilmaganiga o‘kindi_ “he/she regretted of not knowing” - _(Sabab holi, sabab bois ma’nolarini anglatgan hollarda)_
-* Toshkent<b>~~(ga)~~</b> bordi “She/He went to the Tashkent” - (Base hidden form) 
+* Toshkent<b>~~(ga)~~</b> bordi “She/He went to Tashkent” - (Base hidden form) 
 
 ### <a name="Gen">`Gen`</a>: genitive
 
@@ -63,7 +63,7 @@ In the Uzbek language, the genitive(`Gen`) case has the forms _-ning_, _-in_, _-
 
 The locative case often expresses location in space or time, which gave it its name. The oblique arguments of some verbs and complements (noun phrases) also required to be in locative case.
 
-In Turkish `Loc` is expressed by suffix _-da_.
+In Uzbek, `Loc` is expressed by suffix _-da_.
 
 #### Examples
 * _Daftarda bor_  “It exists on the notebook” - (Shaxs va narsa buyum otlariga qo'shilganda to‘ldiruvchi)
@@ -80,7 +80,7 @@ In Uzbek, Ablative case is expressed by the suffix <b>-dan</b>.
 #### Examples
 * Kitob<b>dan</b> o’qidim  “I read from the book” - (Shaxs va narsa buyum otlariga qo'shilganda to‘ldiruvchi)
 * Maktab<b>dan</b> chiqdi   “He/She went outside the school” - (O‘rin bildiruvchi otlarga qo‘shilganda o‘rin holi)
-* Qish<b>dan</b> beri aytaman “I have been saying this from winter” - (Payt holi)
+* Qish<b>dan</b> beri aytaman “I have been saying this since winter” - (Payt holi)
 * Bilmagani<b>dan</b> o‘kindi  “he/she regretted of not knowing” - (Sabab holi, sabab bois ma’nolarini anglatgan hollarda)
 
 <!-- 
