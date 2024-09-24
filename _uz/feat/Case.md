@@ -69,7 +69,7 @@ In Uzbek, `Loc` is expressed by suffix _-da_.
 * _Daftarda bor_  “It exists on the notebook” - (Shaxs va narsa buyum otlariga qo'shilganda to‘ldiruvchi)
 * _Maktabda o‘qidi_   “He/She studied at the school” - (O‘rin bildiruvchi otlarga qo‘shilganda o‘rin holi)
 * _Qishda keldi_ “He/She came in the winter” - (Payt holi)
-Dehqon bo‘lsang kuz hayda “if you are peasant, plow in an autumn” - (Belgisiz qo‘llanilishi) 
+* _Dehqon bo‘lsang kuz hayda_ “if you are peasant, plow in an autumn” - (Belgisiz qo‘llanilishi) 
 
 ### <a name="Abl">`Abl`</a>: ablative
 
