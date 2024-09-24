@@ -35,14 +35,14 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 
 ### <a name="Sub">`Sub`</a>: subjunctive / future
 
-The subjunctive mood is used under certain circumstances in subordinate clauses, typically for actions that are subjective or otherwise uncertain. In some contexts the mood expresses also the desire that the action happens; it is thus close to both optative and jussive. In Classical Armenian, it has perfective and imperfective forms, and can express the future.
+The subjunctive mood is used under certain circumstances in subordinate clauses, typically for actions that are subjective or otherwise uncertain. In some contexts, the mood expresses also the desire that the action happens; it is thus close to both optative and jussive. In Classical Armenian, it has perfective and imperfective forms, and can express the future.
 
-The subjunctive can have an imperative form, sometimes called “cohortative”, with a special form of 2sg. in -ջիր/_-ǰir_. Given that the UD annotation scheme does not allow to combine two instances of one feature, the imperative forms do not have a dedicated tag in the current version of the CAVaL treebank and are tagged as vatiants of the 2sg. subjunctive form.
+The subjunctive can have an imperative form, sometimes called “cohortative”, with a special form of 2sg. in -ջիր/_-ǰir_. Given that the UD annotation scheme does not allow to combine two instances of one feature, the imperative forms do not have a dedicated tag in the current version of the CAVaL treebank and are tagged as variants of the 2sg. subjunctive form.
 
 #### Examples
 
-* Imperfective subjunctive: ասիցեմ/_asicʻem “I would/will be saying”
-* Perfective subjunctive: ասասցեմ/_asascʻem “I would/will say”
+* Imperfective subjunctive: ասիցեմ/_asicʻem_ “I would/will be saying”
+* Perfective subjunctive: ասասցեմ/_asascʻem_ “I would/will say”
 * Cohortative: ասասջիր/_asasǰir_ “could you say!”
 
 ### References
