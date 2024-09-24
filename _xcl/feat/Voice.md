@@ -17,7 +17,7 @@ udver: '2'
 
 In Classical Armenian, voice is a mixed inflectional-derivational feature of [verbs](xcl-pos/VERB) and ([auxiliaries] (xcl-pos/AUX) that helps map the traditional syntactic functions, such as subject and object, to semantic roles, such as agent and patient. 
 
-The inflectional voice characterises and has two values, `Act` (active voice) and `Pass` (mediopassive voice). Only part of verb forms are marked for inflectional voice; some forms are underspecified for inflectional voice (labile), for example, the imperfect tense forms. Thus, the labile forms of base verbs are not tagged for voice at all.
+The inflectional voice characterises and has two values, `Act` (active voice) and `Pass` (mediopassive voice). Only part of verb forms is marked for inflectional voice; some forms are underspecified for inflectional voice (labile), for example, the imperfect tense forms. Thus, the labile forms of base verbs are not tagged for voice at all.
 
 Morphological causatives are derived from base verbs (excluding auxiliaries) with the help of the causative suffix -ուց-/_-owcՙ-_. At present, the tag `Voice=Cau` is used for both active and labile forms of the causative, whereas the passive forms of the causative are tagged as `Voice=CauPass`.
 
@@ -33,7 +33,7 @@ The tag `Act` is applied to the inflections, which mark the forms of canonical t
 
 ### <a name="Pass">`Pass`</a>: mediopassive voice (passive, middle, reflexive, etc.)
 
-In Classical Armenian, the tag `Pass` covers a wide range of intransitive and valency-decreasing meanings such as passive, middle, and reflexive. The subject of the verb typically either spontaneousely undergoes an change of state, or is affected by the action carried out by an agent facutlatively expressed by an oblique complement.
+In Classical Armenian, the tag `Pass` covers a wide range of intransitive and valency-decreasing meanings such as passive, middle, and reflexive. The subject of the verb typically either spontaneously undergoes a change of state, or is affected by the action carried out by an agent facultatively expressed by an oblique complement.
 
 #### Examples
 
