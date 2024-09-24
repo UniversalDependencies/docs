@@ -23,7 +23,7 @@ The base form of the noun, typically used as citation form (lemma).
 Typically, the accusative case in Uzbek marks the definite direct object in a sentence. Indefinite direct objects do not receive the accusative suffix, but stay in bare form
 (`Nom`).
 
-In Uzbek `Acc` is expressed by suffix _-ni, -in, -n, -i(in literature)_.
+In Uzbek, `Acc` is expressed by suffix _-ni, -in, -n, -i (in literature)_.
 
 #### Examples
 
@@ -40,15 +40,15 @@ In the Uzbek language, the case dative (Dat) is expressed by the suffixes _-ga, 
 
 #### Examples
 
-* _Daftar<b>(ga)</b> yozdi_  “He/She wrote to the notebook” - _(when a person and predmet are added to the complement)_
+* _Daftar<b>(ga)</b> yozdi_  “He/She wrote in the notebook” - _(when a person and predmet are added to the complement)_
 * _Maktab<b>(ga)</b> bordi_  “He/She went to the school” - _(The locative case when added to locative nouns)_
-* _Bilmaganiga o‘kindi_ “he/she regretted of not knowing” - _(Sabab holi, sabab bois ma’nolarini anglatgan hollarda)_
+* _Bilmaganiga o‘kindi_ “he/she regretted not knowing” - _(Sabab holi, sabab bois ma’nolarini anglatgan hollarda)_
 * Toshkent<b>~~(ga)~~</b> bordi “She/He went to Tashkent” - (Base hidden form) 
 
 ### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow belongs to its governor; it would often be translated by the English preposition _of_. Complements of some postpositions are also required to be in genitive case.
-The genitive morpheme also marks the subject of the subordinate clauses. The conjunction connecting the noun with the subordinate noun is sometimes used without a sign. Usually in Uzbek, the indicative case is used when it represents a specific object. It is used without a sign when talking about an indefinite subject.
+The genitive morpheme also marks the subject of the subordinate clauses. The conjunction connecting the noun with the subordinate noun sometimes comes in a null form. Usually in Uzbek, the indicative case is used when it represents a specific object. It comes in a null form when talking about an indefinite subject.
 
 In the Uzbek language, the genitive(`Gen`) case has the forms _-ning_, _-in_, _-n_, _-m_, _-im_ (in fiction).
 
@@ -66,10 +66,10 @@ The locative case often expresses location in space or time, which gave it its n
 In Uzbek, `Loc` is expressed by suffix _-da_.
 
 #### Examples
-* _Daftarda bor_  “It exists on the notebook” - (Shaxs va narsa buyum otlariga qo'shilganda to‘ldiruvchi)
-* _Maktabda o‘qidi_   “He/She studied at the school” - (O‘rin bildiruvchi otlarga qo‘shilganda o‘rin holi)
-* _Qishda keldi_ “He/She came in the winter” - (Payt holi)
-* _Dehqon bo‘lsang kuz hayda_ “if you are peasant, plow in an autumn” - (Belgisiz qo‘llanilishi) 
+* _Daftarda bor_  “It exists in the notebook” - (Shaxs va narsa buyum otlariga qo'shilganda to‘ldiruvchi)
+* _Maktabda o‘qidi_   “He/She studied at school” - (O‘rin bildiruvchi otlarga qo‘shilganda o‘rin holi)
+* _Qishda keldi_ “He/She came in winter” - (Payt holi)
+* _Dehqon bo‘lsang kuz hayda_ “if you are a peasant, plow in autumn” - (Belgisiz qo‘llanilishi) 
 
 ### <a name="Abl">`Abl`</a>: ablative
 
@@ -81,7 +81,7 @@ In Uzbek, Ablative case is expressed by the suffix <b>-dan</b>.
 * Kitob<b>dan</b> o’qidim  “I read from the book” - (Shaxs va narsa buyum otlariga qo'shilganda to‘ldiruvchi)
 * Maktab<b>dan</b> chiqdi   “He/She went outside the school” - (O‘rin bildiruvchi otlarga qo‘shilganda o‘rin holi)
 * Qish<b>dan</b> beri aytaman “I have been saying this since winter” - (Payt holi)
-* Bilmagani<b>dan</b> o‘kindi  “he/she regretted of not knowing” - (Sabab holi, sabab bois ma’nolarini anglatgan hollarda)
+* Bilmagani<b>dan</b> o‘kindi  “he/she regretted not knowing” - (Sabab holi, sabab bois ma’nolarini anglatgan hollarda)
 
 <!-- 
 Interlanguage links updated June 30, 2024 13:21:49 UTF+5
