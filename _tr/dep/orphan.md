@@ -10,10 +10,17 @@ The orphan relation is used to provide a satisfactory treatment of certain insta
 
 
 ~~~ sdparse
-Ali kitap , Ahmet gazete okudu . \n Ahmet read newspapers, Ali books.
-nsubj(okudu, Ahmet)
-dobj(okudu, gazete)
-conj(okudu, Ali)
-orphan(Ali, kitap)
+Ali kitap , Ahmet gazete okudu . \n Ali book , Ahmet newspaper read .
+nsubj(okudu, Ahmet-4)
+nsubj(read, Ahmet-12)
+obj(okudu, gazete)
+obj(read, newspaper)
+conj(Ali-1, okudu)
+conj(Ali-9, read)
+orphan(Ali-1, kitap)
+orphan(Ali-9, book)
 ~~~
+
+"Ahmet read newspapers, Ali books."
+
 <!-- Interlanguage links updated Ne 5. května 2024, 18:21:42 CEST -->
