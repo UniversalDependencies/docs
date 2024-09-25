@@ -16,7 +16,7 @@ Boolean feature of [pronouns](u-pos/PRON). It tells whether the pronoun form is 
 
 ### <a name="Yes">`Yes`</a>: it is clitic
 
-Clitic possessive pronouns deriving from the genitive of personal pronouns are formed using the personal pronouns _(e)γó_ “I” or _(e)ghó_ “you”.
+Clitic pronouns are the weak forms of personal pronouns, also in the role of possessives in the genitive case.
 
 #### Examples
 
