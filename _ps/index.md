@@ -46,6 +46,7 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 * Generally all inlfectional parts of speech inflect for [Number]() taking a singular `Sing` or a plural `Plur` value. Infinitives always behave like plural, so they do not have the number tagged. Non-past finite verb forms do not have the number feature in the third person, since the forms for both numbers are always identical.
 * Nominals, participles and infinitives inflect for [Case]() feature. There are four cases in Pashto: direct (marked as nominative) `Nom`, oblique (marked as accusative) `Acc`, ablative `Abl` and vocative `Voc`.
 * Nouns and some pronouns have inherent [Gender]() feature with two possible values: masculine `Masc` and feminine `Fem`. Adjectives, other pronouns and participles inflect for the gender in order to agree with nouns. Finite verb forms inflect for the gender only in the past forms in the third person (both singular and plural).
+* Some forms of the verbs کول _kawë́l_ “to do” and کېدل _kedë́l_ “to become” use [Variant]() feature to distinguish `Short` and `Long` variants.
   
 ## Syntax
 
