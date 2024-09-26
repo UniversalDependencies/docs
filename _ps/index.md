@@ -50,21 +50,22 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 ## Syntax
 
 ### Core Arguments
-* Core arguments (subjects and objects) in Pashto are mostly nouns, pronouns or infinitives (behaving like verbal nouns) in either bare direct case `Nom` or bare oblique case `Acc`. The exact use of these cases depends on the part of speech of the arguments, the inherent transitivity of the verb and the voice and tense used (phenomenon often calld _split ergativity_):
-  * The only arguments (i.e. the subjects) of intransitive verbs or of transitive verbs used in the passive voice are always in the direct case `Nom`.
-  * For transitive verbs in the active voice holds:
-    * The **subject** in **non-past** tenses is always in the **direct** case `Nom`.
-    * The **object** in **non-past** tenses is in the **direct** case `Nom` if it is a **noun**, but in the **oblique** case `Acc` if it is a **pronoun**.
-    * The **subject** in **past** tenses is always in the **oblique** case `Acc`.
-    * The **object** in **past** tenses is always in the **direct** case `Nom`.
-    * The subject usually comes before the object regardless of the case.
-* Other occurrences of the direct and oblique case are generally accompanied by an adposition, altghough various exceptions of nominals in the bare direct and oblique case, that are not a core argument, may exist:
+* Core arguments (subjects and objects) in Pashto are mostly nouns, pronouns or infinitives (behaving like verbal nouns) in either bare direct case `Nom` or bare oblique case `Acc`. The exact use of these cases depends on the inherent transitivity of the verb and the voice and tense used (phenomenon often calld _split ergativity_)
+* The only arguments (i.e. the subjects) of intransitive verbs or of transitive verbs used in the passive voice are always in the direct case `Nom`.
+* For transitive verbs in the active voice holds:
+  * The **subject** in **non-past** tenses is always in the **direct** case `Nom`.
+  * The **subject** in **past** tenses is always in the **oblique** case `Acc`.
+  * The **object** in **all** tenses is almost always in the **direct** case `Nom`.
+    * The only exceptions are pronouns of the first and second person singular in **non-past** tenses, where oblique forms ما _mâ_ “me”, تا _tâ_ “you” are used instead of the direct رۀ _zë_ “I”, تۀ _të_ “you”.
+  * The subject usually comes before the object regardless of the case.
+<!-- * Other occurrences of the direct and oblique case are generally accompanied by an adposition, altghough various exceptions of nominals in the bare direct and oblique case, that are not a core argument, may exist:
   * Temporal range (دوه ساعته خوب کوم _dwa **sâáta** xob kawë́m_ “I sleep for two hours”).
   * Nominal part of a light verb !!!
-  * Fixed phrases.
+  * Fixed phrases. -->
 
 ### Non-verbal Clauses
 * The copula verb یم _yëm_ “be” (or more precisely “I am”) is used in most non-verbal clauses.
+* The nominal part of the predicate is usually in the direct case `Nom`
 * In the existential non-verbal clauses the word شته _šta_ “there is / there are” is used, but it is tagged [VERB]()
 
 ### Relations Overview
