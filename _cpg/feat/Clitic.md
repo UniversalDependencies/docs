@@ -16,9 +16,9 @@ Boolean feature of [pronouns](u-pos/PRON). It tells whether the pronoun form is 
 
 ### <a name="Yes">`Yes`</a>: it is clitic
 
-Clitic pronouns are the weak forms of personal pronouns, also in the role of possessives in the genitive case.
+Clitic pronouns are the weak forms of personal pronouns (1), also in the role of possessives in the genitive case (2).
 
 #### Examples
 
-* _fikirsúzis <b>mu</b> ádras tiyá kalaǰí ne deyí ípis ta mi?_ “My mindless man why are you telling me this word?”
-* mána deyí, baγərdά <b>či</b>, put’ ísu. “He calls her saying 'where are you mother?'”
+1. _mána deyí, baγərdά <b>či</b>, put’ ísu._ “He calls her saying 'where are you mother?'”
+2. _fikirsúzis <b>mu</b> ádras tiyá kalaǰí ne deyí ípis ta mi?_ “My mindless man why are you telling me this word?”
