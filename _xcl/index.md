@@ -28,9 +28,9 @@ udver: '2'
 This is an overview only. For more detailed discussion and examples, see the list of [Classical Armenian POS tags](pos/index.html) and [Classical Armenian features](feat/index.html)
 
 * Classical Armenian currently uses 16 UPOS tags; the tag [SYM]() does not occur in the UD_Classical_Armenian-CAVaL treebank.
-* The complete list of Classical Armenian words, which must be tagged [PART](xcl-pos/PART) in UD, has to be worked out. At present, the tag is used restrictively and is applied to four lexemes:
-	* contrasting particle: իսկ/_isk_
-	* dubitation particle: գուցէ/_gowcʽē_
+* The complete list of Classical Armenian words, which must be tagged [PART](xcl-pos/PART) in UD, has to be worked out. At present, the tag is used restrictively and is applied to the following lexemes:
+	* contrasting particle: իսկ/_isk_ “but”
+	* dubitation particle: ապաքէն/_apakʻēn_ “indeed”, գուցէ/_gowcʽē_ “perhaps”
 	* negation particles: ոչ/_očʽ_ (with its proclitic variant չ=/_čʽ_=) and մի/_mi_
 * The tag [DET](xcl-pos/DET) is used for articles and adjectival pronouns with a determiner function. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET](xcl-pos/DET) as well. The tag [PRON](xcl-pos/PRON) is reserved for pronouns occurring as the head of a noun phrase.
 * The Classical Armenian auxiliaries (tagged [AUX](xcl-pos/AUX)) include: եմ/_em_ “to be”, its perfective counterpart լինիմ/_linim_ “to become”, չիք/_čʽikʽ_ “there is no”, and տամ/_tam_ “to give”.
@@ -38,27 +38,27 @@ This is an overview only. For more detailed discussion and examples, see the lis
 	* The copula with non-verbal predicates, including predicates of location.
 	* Periphrastic past tenses (present form of եմ + past participle, imperfect form of եմ + past participle, aorist form of լինիմ + past participle of the main verb).
 	* Periphrastic future/subjunctive tenses (present subjunctive form of եմ + past participle, present subjunctive form of լինիմ + past participle, aorist subjunctive form of լինիմ + past participle of the main verb).
-  The auxiliary չիք is used as a negated copula.
-  The auxiliary տամ is used to form periphrastc causative:
+* The auxiliary չիք is used as a negated copula.
+* The auxiliary տամ is used to form periphrastc causative:
 	* Periphrastic causative (any form of տամ, including periphrastic forms, + infinitve of the main verb).
  * Besides եմ, լինիմ, the verbs կամ (“to stand, exist”) and ունիմ (“to have”) occasionally function as auxiliaries of participial constructions.
 
 
 ### Nominal Features
 
-* [Number](xcl-feat/Number) has two values: `Sing` and `Plur`. The following parts of speech inflect for number: [NOUN](xcl-pos/NOUN), [PROPN](xcl-pos/PROPN), [PRON](xcl-pos/PRON), as well as the finite forms of [VERB](xcl-pos/VERB) and [AUX](xcl-pos/AUX). 
+* [Number](xcl-feat/Number) has two values: `Sing` and `Plur`. The following parts of speech inflect for number: [ADJ](xcl-pos/ADJ), [DET](xcl-pos/DET), [NOUN](xcl-pos/NOUN), [NUM](xcl-pos/NUM), [PROPN](xcl-pos/PROPN), [PRON](xcl-pos/PRON), as well as the finite forms of [VERB](xcl-pos/VERB) and [AUX](xcl-pos/AUX). 
   * Classical Armenian has numerous _pluralia tantum_ nouns, the plural form of which expresses a single entity or abstract notion, cf. ապարանք/_aparankʽ_ “palace”, երեսք/_ereskʽ_ “face”, բարիք/_barikʽ_ “goodness”, etc.
-* [Case](xcl-feat/Case) has seven values: `Nom`, `Acc`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`. It occurs with [NOUN](xcl-pos/NOUN), [PROPN](xcl-pos/PROPN), [NUM](xcl-pos/NUM), [PRON](xcl-pos/PRON), [DET](xcl-pos/DET), [ADJ](xcl-pos/ADJ), as well as with participles and verbal nouns, tagged [VERB](xcl-pos/VERB) or [AUX](xcl-pos/AUX).
-* [NumType](xcl-feat/NumType) is used with numerals ([NUM](xcl-pos/NUM)) and adjectives ([ADJ](xcl-pos/ADJ))
-* [Animacy](xcl-feat/Animacy) can be lexically expressed in [PRON](xcl-pos/PRON), while [Definite](xcl-feat/Definite) can be lexically expressed in [PRON](xcl-pos/PRON) and [DET](xcl-pos/DET).
+* [Case](xcl-feat/Case) has seven values: `Nom`, `Acc`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`. It occurs with [ADJ](xcl-pos/ADJ), [DET](xcl-pos/DET), [NOUN](xcl-pos/NOUN), [NUM](xcl-pos/NUM), [PROPN](xcl-pos/PROPN), [PRON](xcl-pos/PRON), as well as with participles and verbal nouns, tagged [VERB](xcl-pos/VERB) or [AUX](xcl-pos/AUX).
+* [NumType](xcl-feat/NumType) is used with [NUM](xcl-pos/NUM) (`Card`, `Sets`), [ADJ](xcl-pos/ADJ) (`Ord`) and [ADV](xcl-pos/ADV) (`Mult`).
+* [Animacy](xcl-feat/Animacy) (`Anim`, `Inan`) and [Definite](xcl-feat/Definite) (`Def`, `Ind`, `Spec`) can be lexically expressed in [PRON](xcl-pos/PRON) and [DET](xcl-pos/DET). A semi-grammaticalized adposition _զ_=/_z_= also takes `Def`, when it expresses the referentially prominent direct object.
 
 
 ### Pronouns, Determiners, Quantifiers
 
-* [PronType](xcl-feat/PronType) is used with pronouns ([PRON](xcl-pos/PRON)), determiners ([DET](xcl-pos/DET)), adverbs ([ADV](xcl-pos/ADV)) and deictic interjections ([INTJ](xcl-pos/INTJ)).
+* Different values of [PronType](xcl-feat/PronType) (`Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`, `Tot`) are used with pronouns ([PRON](xcl-pos/PRON)), determiners ([DET](xcl-pos/DET)), adverbs ([ADV](xcl-pos/ADV)) and deictic interjections ([INTJ](xcl-pos/INTJ)).
 * [Poss](xcl-feat/Poss) marks possessive personal determiners (e.g. իմ/_im_ “my”, իւր/_iwr_ “his/her own”).
 * [Reflex](xcl-feat/Reflex) marks reflexive pronoun իւր/_iwr_ (gen.sg.) “of him/her-self” and determiner իւր/_iwr_ (nom.sg.), իւրոյ/_iwroy_ “his/her own”.
-* [Person](xcl-feat/Person) is lexically expressed in personal pronouns ([PRON](xcl-pos/PRON)). Only the first and second person pronouns are marked with the values `1` and `2`, respectively. The third person pronoun նա/_na_ “(s)he, it” coincides with the demonstrative նա/_na_ “that” and is left unmarked. The same applies to the possessive determiners.
+* [Person](xcl-feat/Person) is lexically expressed in personal pronouns and determiners. Only the first and second person pronouns are marked with the values `1` and `2`, respectively. The third person pronoun նա/_na_ “(s)he, it” coincides with the demonstrative նա/_na_ “that” and is left unmarked. The same applies to the possessive determiners.
 
 ### Verbal Features
 
@@ -68,14 +68,14 @@ This is an overview only. For more detailed discussion and examples, see the lis
 	* Converb `Conv`, tagged [VERB](xcl-pos/VERB) or [AUX](xcl-pos/AUX).  
 	* Participle `Part`, tagged [VERB](xcl-pos/VERB) or [AUX](xcl-pos/AUX).
 	* Verbal noun `Vnoun`, tagged [VERB](xcl-pos/VERB) or [AUX](xcl-pos/AUX).
-* [Person](xcl-feat/Person) has three values, which mark the person of the verb's subject on verbs. Classical Armenian is a pro-drop language and a personal pronoun as subject is often omitted.
+* [Person](xcl-feat/Person) has three values (`1`, `2`, `3`), which mark the person of the verb's subject on verbs. Classical Armenian is a pro-drop language and a personal pronoun as subject is often omitted.
 * [Aspect](xcl-feat/Aspect) has two values, `Imp` and `Perf`. The aspect is defined in purely morphological terms based on the type of the verb stem, from which a verb form is derived. The aspectual semantics expressed by either of the two types of forms may not match the formal aspect. 
 * Finite verbs always have one of three values of [Mood](xcl-feat/Mood): `Ind`, `Sub`, or `Imp`.
 * In the indicative mood, verbs always have one of the two values of [Tense](xcl-feat/Tense): `Pres` or `Past`, which, in combination with the aforementioned aspectual values, define the three synthetic tenses, the Present, the Aorist, and the Imperfect.
 * `Sub` defines the Subjunctve mood, which is also used to express the Future and combines with the two aspectual values.
-* `Imp` defines the imperative, derived from a perfective stem, and the prohibitive, derived from an imperfective stem and obligatorily combined with a prohibitive particle մի/_mi_.
-* [Voice](xcl-feat/Voice) has two values, `Act` and `Pass`. It characterises the oppositional inflectional voice, which is expressed only in part of the verbal paradigm. Some forms, such as the present indicative forms of the a-conjugation (գնամ/_gnam_ “I go”) and the first plural form of the aorist indicative (լուաք/_luakʽ_ “we heard”), are underspecified for voice. The `Pass` value defines to a wide range of valency-decreasing alternations including the passive, middle, reflexive, etc. The morphological causative is a derivational category; derived causatives can be marked by the inflectional voice as `Act` or `Pass`, which makes the voice a layered feature in Classical Armenian. The causative layer is identified as [Voice[caus]]() and invariably takes the value `Cau`.
-* [Polarity](xcl-feat/Polarity) feature with its `Polarity=Neg` value applies primarily to verbs ([VERB](xcl-pos/VERB), [AUX](xcl-pos/AUX)) that can be negated using ոչ/_očʽ_ (with its proclitic variant չ=/_čʽ_=) or a prohibitive particle մի/_mi_. The particle ոչ can also modify pronouns.
+* `Imp` defines the imperative, derived from a perfective stem, and the prohibitive, derived from an imperfective stem and obligatorily combined with a prohibitive particle մի/_mi_; the prohibitive forms are tagged with the feature [Connegative](xcl-feat/Connegative).
+* [Voice](xcl-feat/Voice) has two values, `Act` and `Pass`. It characterises the oppositional inflectional voice, which is expressed only in part of the verbal paradigm. Some forms, such as the present indicative forms of the a-conjugation (գնամ/_gnam_ “I go”) and the first plural form of the aorist indicative (լուաք/_luakʽ_ “we heard”), are underspecified for voice. The `Pass` value defines to a wide range of valency-decreasing alternations including the passive, middle, reflexive, etc. The morphological causative is a derivational category; the active and labile forms of the causatives are tagged as `Cau`, whereas the mediopassive have `CauPass`. Note that the active and labile forms currently remain underspecified, which awaits an improvement in the UD guidelines with respect to systems, which combine the derivational and inflectional voice marking.
+* [Polarity](xcl-feat/Polarity) feature with its `Polarity=Neg` value applies to negation particles ոչ/_očʽ_ (with its proclitic variant չ=/_čʽ_=) and մի/_mi_ as well as a negated copula չիք/_čʻikʻ_ “there is no”, which has a [PRON](xcl-pos/PRON) tag.
 
 ### Other Features
 
