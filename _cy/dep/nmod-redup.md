@@ -21,7 +21,7 @@ _ei phen (hi)_ "her head"
 ~~~ conllu
 1	ei	ei	PRON	dep	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
 2	phen	pen	NOUN	noun	Gender=Masc|Number=Sing|Mutation=NM	0	root	_	_
-3	hi	hi	PRON	indep	Number=Sing|Person=3|PronType=Prs	2	nmod:dup	_	_
+3	hi	hi	PRON	indep	Number=Sing|Person=3|PronType=Prs	2	nmod:redup	_	_
 ~~~
 
 _ei weld e_ "to see him", "his [being] seen"
@@ -29,7 +29,7 @@ _ei weld e_ "to see him", "his [being] seen"
 ~~~ conllu
 1	ei	ei	PRON	dep	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
 2	weld	gweld	NOUN	verbnoun	Number=Sing|Mutation=SM|VerbForm=Vnoun	0	root	_	_
-3	hi	hi	PRON	indep	Number=Sing|Person=3|PronType=Prs	2	nmod:dup	_	_
+3	hi	hi	PRON	indep	Number=Sing|Person=3|PronType=Prs	2	nmod:redup	_	_
 ~~~
 
 
