@@ -137,6 +137,7 @@ and [Czech features](feat/index.html).
   * [Style]()
   * [PrepCase]()
   * [Variant]() ... distinguishes short and long forms of adjectives, a Slavic-wide phenomenon
+  * [Emph]() ... used for emphatic _-ž_ in Old Czech
 * The following universal features are not used in Czech: [Definite](), [Evident](), [Polite]().
 
 ## Syntax
