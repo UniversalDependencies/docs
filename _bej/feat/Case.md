@@ -56,9 +56,7 @@ Dative marks indirect objects or recipients of verbs. Beja has a dative set of p
 #### Examples
 - _<b>dhaːj</b> jʔ -an =hoːb oː= tak / meːk dh# ## eːja =ajt oː= gaw / tam -ja eːn //_ "When I went to visit him, a man, a donkey, hum, came and ate his tent, they said."
 
-### <a name="Dis">`Dat`</a>: distributive
-
-
+### <a name="Dis">`Dis`</a>: distributive
 
 #### Examples
 - _ifif ihi eːn // gaːl =eː <b>=ka</b> //_ " He poured them for them, they said, to each of them."
