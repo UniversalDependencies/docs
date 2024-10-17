@@ -20,7 +20,7 @@ udver: '2'
 </tr>
 </table>
 
-In Beja, `Case` is an inflectional feature of [adpositions](_bej/pos/ADP), [determiners](_bej/pos/DET), [particles](_bej/pos/PART) and [pronouns](_bej/pos/PRON).
+In Beja, `Case` is an inflectional feature of [adpositions](../pos/ADP), [determiners](../pos/DET), [particles](../pos/PART) and [pronouns](../pos/PRON).
 
 Case helps specify the role of the noun phrase in the sentence. 
 
@@ -56,6 +56,12 @@ Dative marks indirect objects or recipients of verbs. Beja has a dative set of p
 #### Examples
 - _<b>dhaːj</b> jʔ -an =hoːb oː= tak / meːk dh# ## eːja =ajt oː= gaw / tam -ja eːn //_ "When I went to visit him, a man, a donkey, hum, came and ate his tent, they said."
 
+### <a name="Dis">`Dat`</a>: distributive
+
+
+
+#### Examples
+- _ifif ihi eːn // gaːl =eː <b>=ka</b> //_ " He poured them for them, they said, to each of them."
 
 ### <a name="Gen">`Gen`</a>: genitive
 
