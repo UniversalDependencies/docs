@@ -18,12 +18,15 @@ There are two values of aspect: imperfective and perfective.
 
 ### <a name="Imp">`Imp`</a>: imperfective
 
-The imperfective (or durative) aspect describes an action that takes place for a period of time,
-either continuous (like continuous tenses ni English) or repetitive.
-It be used with the past, the present (i.e. an action that has begun in the past, keeps happening through
+The imperfective (or durative) aspect describes an action that happans or is happening for a period of time, e.g.
+either continuous (like continuous tenses in English) or repetitive actions.
+It can be used with the past, the present (i.e. an action that has begun in the past, keeps happening through
 the present moment and will end in the future) or the future tense and with the imperative mood.
 
 #### Examples
+* e.g.: اوس لولم _os lwalë́m_ “I am reading now”
+* e.g.: به تا ته هره ورځ لکم _bë tâ ta hára wraż likë́m_ “I will write you every day”
+
 
 ### <a name="Perf">`Perf`</a>: perfective
 
@@ -35,5 +38,7 @@ For regular verbs, the perfective forms are created from their imperfective coun
 using a stressed prefix و _wë́_.
 
 #### Examples
+* e.g.: تۀ ما ته راغلې _të mâ ta rấġle_ “You came to me”
+* e.g.: به یو کتاب ولیکم _bë yaw kitấb wë́likëm_ “I will write a book”
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:19:48 CEST -->
