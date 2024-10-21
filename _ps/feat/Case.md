@@ -77,9 +77,9 @@ Morever, it is used with some adpositions, for nominal parts of nominal predicat
 or in several other cases, like temporal ranges. 
 
 #### Examples
-* ex.: **زلمی هلک** _**zalmáy halë́k**_ “young boy”
-* ex.: **ړنده پېغله** _**ṛandá péġla**_ “blind girl”
-* ex.: **نوي کورونه** _**në́wi korúna**_ “new houses”
+* **زلمی هلک** _**zalmáy halë́k**_ “young boy”
+* **ړنده پېغله** _**ṛandá péġla**_ “blind girl”
+* **نوي کورونه** _**në́wi korúna**_ “new houses”
 
 
 ### <a name="Acc">`Acc`</a>: oblique
@@ -103,9 +103,9 @@ Plural formation from the direct case (for both masculine and feminine):
     change this vowel to a not written _a_.
 
 #### Examples
-* ex.: د **زلمي هلک** _dë **zalmí halë́k**_ “of the young boy”
-* ex.: د **ړندې پېغلې** _dë **ṛandé péġle**_ “of the blind girl”
-* ex.: د **نوو کورونو** _dë **në́wo korúno**_ “of the new houses”
+* د **زلمي هلک** _dë **zalmí halë́k**_ “of the young boy”
+* د **ړندې پېغلې** _dë **ṛandé péġle**_ “of the blind girl”
+* د **نوو کورونو** _dë **në́wo korúno**_ “of the new houses”
 
 ### <a name="Abl">`Abl`</a>: ablative
 
@@ -117,9 +117,9 @@ change the ending to ي _i_ as in the oblique, instead of یه _aya/ya_
 as in the vocative.
 
 #### Examples
-* ex.: له **زلمي هلکه** _la **zalmí halë́ka**_ “from the young boy”
-* ex.: له **ړندې پېغلې** _la **ṛandé péġle**_ “from the blind girl”
-* ex.: له **نوو کورونو** _la **në́wo korúno**_ “from the new houses”
+* له **زلمي هلکه** _la **zalmí halë́ka**_ “from the young boy”
+* له **ړندې پېغلې** _la **ṛandé péġle**_ “from the blind girl”
+* له **نوو کورونو** _la **në́wo korúno**_ “from the new houses”
 
 ### <a name="Voc">`Voc`</a>: vocative
 
@@ -129,8 +129,8 @@ Masculine singular nouns and adjectives ending in consonant take an unstressed �
 Other nouns and adjectives (all masculine/feminine, singular/plural) share the form with the oblique.
 
 #### Examples
-* ex.: **زلمیه هلکه**، دلته راشه _**zalmáya halë́ka**, dë́lta rấša_ “young boy, come here”
-* ex.: **ړندې پېغلې**، دلته راشه _**ṛandé péġle**, dë́lta rấša_ “blind girl, come here”
-* ex.: **نوو کورونو**، دلته راشه _**në́wo korúno**, dë́lta rấša_ “new houses, come here”
+* **زلمیه هلکه**، دلته راشه _**zalmáya halë́ka**, dë́lta rấša_ “young boy, come here”
+* **ړندې پېغلې**، دلته راشه _**ṛandé péġle**, dë́lta rấša_ “blind girl, come here”
+* **نوو کورونو**، دلته راشه _**në́wo korúno**, dë́lta rấša_ “new houses, come here”
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:19:48 CEST -->
