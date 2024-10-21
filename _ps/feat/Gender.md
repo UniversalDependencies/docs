@@ -24,7 +24,7 @@ Nouns denoting male persons are masculine. Other nouns may be also
 grammatically masculine, without any relation to sex.
 
 #### Examples
-* ex.: هلک _halë́k_ boy
+* هلک _halë́k_ boy
 * ex.: کور _kor_ house
 * ex.: ملګری _malgë́ray_ friend
 
