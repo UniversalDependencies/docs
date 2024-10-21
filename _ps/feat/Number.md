@@ -23,14 +23,14 @@ Verbal forms in the third person of the present tense are usually identical for 
 Singular number denote a single referent. Lemmas of nouns and adjectives are in singular. 
 
 #### Examples
-* ex.: هلک _halë́k_ boy
-* ex.: پېغله _péġla_ girl
-* ex.: کور _kor_ house
-* ex.: ماما _mâmấ_ uncle
-* ex.: مياشت _myâšt_ month
-* ex.: شپون _špun_ shepherd
-* ex.: ملګری _malgë́ray_ friend
-* ex.: څوکۍ _cawkë́y_ chair
+* هلک _halë́k_ boy
+* پېغله _péġla_ girl
+* کور _kor_ house
+* ماما _mâmấ_ uncle
+* مياشت _myâšt_ month
+* شپون _špun_ shepherd
+* ملګری _malgë́ray_ friend
+* څوکۍ _cawkë́y_ chair
 
 ### <a name="Plur">`Plur`</a>: plural
 
@@ -42,13 +42,13 @@ Formation from the singular is not
 Nouns ending in 
 
 #### Examples
-* ex.: هلکان _halëkấn_ boys
-* ex.: پېغلې _péġle_ girls
-* ex.: کورونه _korúna_ houses
-* ex.: ماماګان _mâmâgấn_ uncles
-* ex.: مياشتې _myấšte_ months
-* ex.: شپانۀ _špânë́_ shepherds
-* ex.: ملګري _malgë́ri_ friends
-* ex.: څوکۍ _cawkë́y_ chairs
+* هلکان _halëkấn_ boys
+* پېغلې _péġle_ girls
+* کورونه _korúna_ houses
+* ماماګان _mâmâgấn_ uncles
+* مياشتې _myấšte_ months
+* شپانۀ _špânë́_ shepherds
+* ملګري _malgë́ri_ friends
+* څوکۍ _cawkë́y_ chairs
 
 <!-- Interlanguage links updated Ne 5. května 2024, 18:19:57 CEST -->
