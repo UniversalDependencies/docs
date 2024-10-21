@@ -26,19 +26,27 @@ happen, without adding any attitude of the speaker.
 
 The indicative mood includes finite forms for all three tenses
 (past, present, future) and both aspects (imperfective, perfective). However, the present perfective forms,
-while tagged `Mood=Ind` have subjunctive meaning.
+while tagged `Mood=Ind` have subjunctive meaning. The negative particle is 
 
 #### Examples
+
+* h لیک **لرلم** _lik **lwalë́m**_ “I am reading the letter”
+* h کور ته **به راشو** _kor ta **bë râšú**_ “we will come home”
+* h ما کتاب **ونه لیکۀ‎** _mâ kitấb **wë́në likë**_ “I did not write the book”
+
 
 
 ### <a name="Imp">`Imp`</a>: imperative
 
-The imperative mood is to express orders or requests. Pashto verbs have imperative forms for
-the second person of both numbers, altghough the plural form is always identical with its indicative counterpart.
+The imperative mood is to express orders or requests. It does not distinguish tense. Pashto verbs have imperative forms for
+the second person of both numbers, although the plural form is always identical with its indicative counterpart. The ending for the singular is ه _a_.
 The affirmative imperative distinguishes both aspects, while negative imperative is used only
-in imperfective aspect.
+in imperfective aspect. The negative particle مه _má_ is stressed and is is read together with the verb (although written separately).
 
 #### Examples
+
+* h لیک **ولرله** _lik **wë́lwala**_ “read the letter”
+* h کتاب **مه لیکئ‎** _kitấb má **likëy**_ “do not write the book”
 
 
 ### <a name="Sub">`Sub`</a>: subjunctive
