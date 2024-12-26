@@ -1,12 +1,23 @@
 ---
 layout: relation
 title:  'obl:agent'
-shortdef : 'agent modifier'
+shortdef : 'oblique agent in passive construction'
 udver: '2'
 ---
 
-The relation `obl:agent` is used for agents of passive verbs.
-In Czech, the agent is a nominal in the instrumental [Case]().
+The relation `obl:agent` is used for agents of passive verbs. It is a subtype of [obl](), which covers all oblique nominals.
+`obl:agent` is a [semi-mandatory subtype](/u/dep/), i.e. it should be used if the language has passives with oblique agents.
+
+In English, the agent is marked by the preposition *by*:
+
+~~~ sdparse
+The cat was chased by the dog
+nsubj:pass(chased, cat)
+obl:agent(chased, dog)
+case(dog, by)
+~~~
+
+In Czech, the agent is a nominal in the instrumental [Case]():
 
 ~~~ sdparse
 Cena byla udělena děkanem fakulty . \n Prize was awarded by-dean of-faculty .
@@ -17,7 +28,7 @@ obl:agent(awarded, by-dean)
 Typical agents are animate but it is not a rule.
 Inanimate agents may be sometimes difficult to distinguish from instruments,
 which are also coded by the instrumental case.
-Instruments are attached using the simple relation `obl`.
+Instruments are attached using the simple relation [obl]().
 Consider the following two examples, the first one is active and the second is passive.
 
 ~~~ sdparse
