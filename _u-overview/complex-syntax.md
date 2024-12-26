@@ -140,7 +140,7 @@ In addition, we discuss _secondary predicates_, which are analyzed as clausal co
 ### Clausal Subjects
 
 A clausal subject is a clausal syntactic subject of a clause. Its governor may be a verb or a nonverbal predicate.
-If the governor is in the passive, the subtype `csubj:pass` can be used.
+If the governor is in the passive, the subtype [csubj:pass]() is strongly recommended.
 
 ~~~ sdparse
 Eating meals at regular times can improve digestion
