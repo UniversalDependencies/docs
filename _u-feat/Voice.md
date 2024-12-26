@@ -77,7 +77,7 @@ The subject of the verb is affected by the action (patient). The doer
 or an object of the verb. This label is also used for the patient-focus
 voice of Austronesian languages. <!-- which is labeled PFOC in UniMorph -->
 Note the subtyped dependency relations [nsubj:pass](), [csubj:pass](),
-[expl:pass], and [aux:pass]() for analytic components of passive constructions.
+[expl:pass](), and [aux:pass]() for analytic components of passive constructions.
 
 #### Examples
 
