@@ -26,7 +26,7 @@ Infinitive is the citation form of verbs in many languages. Infinitives may be u
 
 ### <a name="Part">`Part`</a>: participle
 
-Participle is a non-finite verb form that shares properties of verbs and adjectives. It is used to form various periphrastic verb forms such as complex tenses and passives. In English, all words with the PTB tag `VBD` have this feature. Further, words with the PTB tag `VBG` can also have this feature (along with [Tense]()`=Pres`) if they are used in the progressive construction (with an [aux]()), or otherwise occur in non-noun-like environments.[^1]
+Participle is a non-finite verb form that shares properties of verbs and adjectives. It is used to form various periphrastic verb forms such as complex tenses and [passives](Voice.html#pass-passive). In English, all words with the PTB tag `VBD` have this feature. Further, words with the PTB tag `VBG` can also have this feature (along with [Tense]()`=Pres`) if they are used in the progressive construction (with an [aux]()), or otherwise occur in non-noun-like environments.[^1]
 
 [^1]: The `VBG` policy was refined for the v2.14 release and implemented in GUM and EWT per the rules detailed [here](https://github.com/UniversalDependencies/UD_English-EWT/issues/305). (Coordination adds some complexity to the rules as it needs to be determined whether it is a noun-like coordination.)
 
