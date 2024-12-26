@@ -54,12 +54,12 @@ obl(give, children)
 case(children, to)
 ~~~
 
-`obl` is also used for the agent of a passive verb:
+`obl` is also used for the agent of a passive verb. Some treebanks distinguish the subtype [obl:agent]():
 
 ~~~ sdparse
 The cat was chased by the dog
 nsubj:pass(chased, cat)
-obl(chased, dog)
+obl:agent(chased, dog)
 case(dog, by)
 ~~~
 
