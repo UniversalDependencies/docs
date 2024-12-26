@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 A passive auxiliary of a clause is a non-main verb of the clause which
-contains the passive information.
+marks it as passive. See: [English passive construction](../feat/Voice.html#pass-passive)
 
 ~~~ sdparse
 Kennedy has been killed
