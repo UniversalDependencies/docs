@@ -161,7 +161,7 @@ nmod:unmarked(8th, 1963)
 Where two labels apply to the same temporal unit, [appos]() may be suitable:
 
 ~~~ sdparse
-It starts at/ADP 8:00/NUM[NumType=Card] a.m./NOUN EST/PROPN on/ADP Monday/PROPN , October/PROPN 8/NUM[NumType=Card] .
+It starts at/ADP 8:00/NUM[NumType=Card] a.m./NOUN EST/PROPN on/ADP Monday/PROPN , October/PROPN 8/NUM[NumType=Card] , 1963/NUM[NumType=Card] .
 obl(starts, 8:00)
 case(8:00, at)
 nmod:unmarked(8:00, a.m.)
@@ -170,6 +170,7 @@ nmod(8:00, Monday)
 case(Monday, on)
 appos(Monday, 8)
 nmod:unmarked(8, October)
+nmod:unmarked(8, 1963)
 ~~~
 
 **History:** Prior to release 2.15, case (i) (temporal modifiers)
