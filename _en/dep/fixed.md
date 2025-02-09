@@ -28,7 +28,7 @@ At present, this relation is used inside the following expressions, semantically
 | [Elaboration/exemplification/analogy](#elaborationexemplificationanalogy-connectives) | *as if*, *in that*, *let alone*, *not to mention*, *such as*, *that is* |
 | [Topic shift](#topic-shift-markers) | *as for*, *as to* |
 | [Attributional](#attributional-markers) | *according to* |
-| [Speaker commitment](#speaker-commitment-markers) | *all but*, *at least* (non-quantity), *kind/sort of* (hedge), *of course* |
+| [Speaker commitment](#speaker-commitment-markers) | *all but*, *kind/sort of* (hedge), *of course* |
 | [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as*, *all of* |
 | [Reciprocal pronouns](#reciprocal-pronouns) | *each other*, *one another* |
 
@@ -37,7 +37,7 @@ Below the description of `fixed` expressions are a few idiomatic combinations th
 | Non-`fixed` Expressions |
 |-------------------------|
 | Double spatial prepositions: *out of*, *off of*, etc. |
-| *about to*; *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *had better*; *nothing/anything but*; *so long*; *what about*, *what if* |
+| *about to*; *as soon/long as*; *at all*, *at least/most/best/worst*; *by far*; *compared to/with*; *had better*; *in general*; *nothing/anything but*; *so long*; *what about*, *what if* |
 
 ## `fixed` expressions
 
@@ -343,14 +343,6 @@ fixed(all, but)
 advmod(left, all)
 ~~~
 
-*at least* (when not used for quantities)
-
-~~~ sdparse
-At/ADP[ExtPos=ADV] least/ADJ I like dogs
-fixed(At, least)
-advmod(like, At)
-~~~
-
 *kind of*, *sort of* (as a hedge)
 
 ~~~ sdparse
@@ -473,32 +465,57 @@ nmod(like, all)
 case(all, at)
 ~~~
 
-*at most*, *at least* (when used for quantities. To determine whether *at least* should be an `fixed` or not in borderline cases, substitute it with *at most*; if the sentence remains grammatical, it should receive its surface analysis)
+*in general*
+
+- as a focusing modifier
 
 ~~~ sdparse
-at most 50 percent
-nmod(percent, most)
-case(most, at)
+my fear of grizzles , and bears in/ADP general/ADJ
+case(general, in)
+nmod(bears, general)
 ~~~
 
+- as an adverbial in a clause
+
 ~~~ sdparse
-at least 50 percent
-nmod(percent, least)
+In/ADP general/ADJ , I prefer tea to coffee
+case(general, in)
+obl(prefer, general)
+~~~
+
+*at least*, *at most*, *at best*, *at worst* (policy revised in [issue EWT#553](https://github.com/UniversalDependencies/UD_English-EWT/issues/553))
+
+In the revised approach, *at least* is treated like other PPs, regardless of its meaning, and should always attach as [obl]()
+(note that internal modifications like *at the very least* cause problems for the prior `fixed` analysis):
+
+- quantitative, modifying a [NUM]()
+
+~~~ sdparse
+They solved at/ADP least/ADJ 7/NUM of the puzzles
 case(least, at)
+obl(7, least)
 ~~~
 
-*at best*, *at worst*
+- quantitative, modifying a [DET]()
 
 ~~~ sdparse
-At/ADP best/ADV , they were guesses
-nmod(guesses, best)
+Have at/ADP least/ADJ some/DET of the food
+case(least, at)
+obl(some, least)
+~~~
+
+- non-quantitative
+
+~~~ sdparse
+At/ADP least/ADJ I like dogs
+case(least, at)
+obl(like, At)
+~~~
+
+~~~ sdparse
+At/ADP best/ADJ , they were guesses
+obl(guesses, best)
 case(best, At)
-~~~
-
-~~~ sdparse
-At/ADP worst/ADV , they were lies
-nmod(lies, worst)
-case(worst, At)
 ~~~
 
 *what if*
@@ -563,5 +580,6 @@ cop(about, are)
 xcomp(about, leave)
 mark(leave, to)
 ~~~
+
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:54 CET -->
