@@ -479,7 +479,7 @@ nmod(bears, general)
 
 ~~~ sdparse
 In/ADP general/ADJ , I prefer tea to coffee
-case(general, in)
+case(general, In)
 obl(prefer, general)
 ~~~
 
@@ -508,7 +508,7 @@ obl(some, least)
 
 ~~~ sdparse
 At/ADP least/ADJ I like dogs
-case(least, at)
+case(least, At)
 obl(like, At)
 ~~~
 
