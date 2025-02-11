@@ -82,10 +82,55 @@ The following MISC features are present:
 * `Gloss`
   * Currently taken from [the BHSA `gloss` feature](https://etcbc.github.io/bhsa/features/gloss/)
 * `Ref`
-  * Book abbreviations currently in use are `GEN` for Genesis and `RUTH` for Ruth
+  * The values are formatted as `BOOK_CHAPTER.VERSE`, e.g. `GEN_1.1`
+  * The book abbreviations are listed below
+* `Ref[BHSA]`
+  * The numeric ID of the word in the BHSA corpus
 * `SpaceAfter=No`
 * `Translit`
   * The value of this field follows the [Library of Congress romanization standard](https://www.loc.gov/catdir/cpso/romanization/hebrew.pdf)
+
+| Book | `Ref` Abbreviation |
+|------|--------------------|
+| Genesis | `GEN` |
+| Exodus | `EXO` |
+| Leviticus | `LEV` |
+| Numbers | `NUM` |
+| Deuteronomy | `DEU` |
+| Joshua | `JOS` |
+| Judges | `JDG` |
+| Ruth | `RUT` |
+| 1 Samuel | `1SA` |
+| 2 Samuel | `2SA` |
+| 1 Kings | `1KI` |
+| 2 Kings | `2KI` |
+| 1 Chronicles | `1CH` |
+| 2 Chronicles | `2CH` |
+| Ezra | `EZR` |
+| Nehemiah | `EZR` |
+| Esther | `EST` |
+| Job | `JOB` |
+| Psalms | `PSA` |
+| Proverbs | `PRO` |
+| Ecclesiastes | `ECC` |
+| Song of Songs | `SOS` |
+| Isaiah | `ISA` |
+| Jeremiah | `JER` |
+| Lamentations | `LAM` |
+| Ezekiel | `EZK` |
+| Daniel | `DAN` |
+| Hosea | `HOS` |
+| Joel | `JOL` |
+| Amos | `AMO` |
+| Obadiah | `OBA` |
+| Jonah | `JON` |
+| Micah | `MIC` |
+| Nahum | `NAM` |
+| Habakkuk | `HAB` |
+| Zephaniah | `ZEP` |
+| Haggai | `HAG` |
+| Zechariah | `ZEC` |
+| Malachi | `MAL` |
 
 ## Syntax
 
