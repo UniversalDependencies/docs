@@ -16,8 +16,6 @@ udver: '2'
   <td><a href="#INTJ">INTJ</a></td>
   <!--td><a href="#NOUN">NOUN</a></td-->
   <!--td><a href="#NUM">NUM</a></td-->
-  <td><a href="#PRON">PRON</a></td>
-  <td><a href="#PROPN">PROPN</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>
   <!--td><a href="#VERB">VERB</a></td-->
 </tr>
