@@ -173,6 +173,14 @@ nmod:unmarked(8, October)
 nmod:unmarked(8, 1963)
 ~~~
 
+For date+time collocations in machine-readable formats, [list]() is recommended:
+
+~~~ sdparse
+01/01/1970 12:30:00 PM
+list(01/01/1970, 12:30:00)
+nmod:unmarked(12:30:00, PM)
+~~~
+
 **History:** Prior to release 2.15, case (i) (temporal modifiers)
 had a separate subtype called [nmod:tmod](), and [nmod:npmod]()
 was used for the non-temporal ones.
