@@ -73,20 +73,6 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
  #### Examples
 
 * [el] _τέλος πάντων_ “anyway” (here the first node _τέλος_ is a [NOUN]())
-  
-<!-- * [es] _¡<b>για τ' όνομα του Θεού</b>!_ “for God’s sake” (here the first node _για_ is an [ADP](), _Θεού_ is a [PROPN]()) and the remaining words determiners)
-
-<!-- ### <a name="PRON">`PRON`</a>: pronoun-like expression -->
-
-<!-- #### Examples -->
-
-<!-- * [en] _<b>each other</b>_ (_each_ = [DET]()) -->
-
-<!-- ### <a name="PROPN">`PROPN`</a>: proper noun-like expression -->
-
-<!-- #### Examples -->
-
-<!-- * [cs] _Jeho kniha <b>Most přes řeku Kwai</b> byla zfilmována._ “His book <b>The Bridge over the River Kwai</b> was made into a movie.” (_Most_ = [NOUN]()) -->
 
  ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression 
 
