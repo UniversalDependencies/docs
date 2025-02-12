@@ -176,7 +176,7 @@ nmod:unmarked(8, 1963)
 For date+time collocations in machine-readable formats, [list]() is recommended:
 
 ~~~ sdparse
-01/01/1970 12:30:00 PM
+01/01/1970/NUM 12:30:00/NUM PM/NOUN
 list(01/01/1970, 12:30:00)
 nmod:unmarked(12:30:00, PM)
 ~~~
