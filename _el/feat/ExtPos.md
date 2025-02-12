@@ -14,12 +14,12 @@ udver: '2'
   <td><a href="#CCONJ">CCONJ</a></td>
   <td><a href="#DET">DET</a></td>
   <td><a href="#INTJ">INTJ</a></td>
-  <!--td><a href="#NOUN">NOUN</a></td-->
-  <!--td><a href="#NUM">NUM</a></td-->
+  <td><a href="#PRON">PRON</a></td>
+  <td><a href="#PROPN">PROPN</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>
-  <!--td><a href="#VERB">VERB</a></td-->
 </tr>
 </table>
+
 
 This feature pertains to a multiword expression and indicates the part of speech that the expression would get
 if it were analyzed as a single word. `ExtPos` is annotated at the head node of the multiword
