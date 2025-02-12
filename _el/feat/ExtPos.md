@@ -74,10 +74,10 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [el] _τέλος πάντων_ “anyway” (here the first node _τέλος_ is a [NOUN]())
 
-### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression 
+### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
- * [fr] _<b>σε περίπτωση που</b>_ “in the case that, if” (here the first node _σε_ is an [ADP]())
+* [el] _σε περίπτωση που_ “in the case that, if” (here the first node _σε_ is an [ADP]())
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->
