@@ -68,9 +68,9 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [el] _πέντε δέκα_ “five or ten” (here the first node _five_ is a [NUM]())
 
-### <a name="INTJ">`INTJ`</a>: interjection-like expression 
+### <a name="INTJ">`INTJ`</a>: interjection-like expression
 
- #### Examples
+#### Examples
 
 * [el] _τέλος πάντων_ “anyway” (here the first node _τέλος_ is a [NOUN]())
 
