@@ -30,11 +30,11 @@ Personal pronouns for the first and the second person and reflexive personal pro
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"></td>
-  <td align="middle"><i>I, me</i></td>
-  <td align="middle"><i>we, us</i></td>
-  <td align="middle"><i>you (sg.)</i></td>
-  <td align="middle"><i>you (pl.)</i></td>
-  <td align="middle"><i>self</i></td>
+  <td align="middle"><b>1 SG</b><br/><i>I, me</i></td>
+  <td align="middle"><b>1 PL</b><br/><i>we, us</i></td>
+  <td align="middle"><b>2 SG</b><br/><i>you (sg.)</i></td>
+  <td align="middle"><b>2 PL</b><br/><i>you (pl.)</i></td>
+  <td align="middle"><b>Reflex</b><br/><i>self</i></td>
 </tr>
 <tr>
   <td align="left">
@@ -89,17 +89,32 @@ Personal pronouns for the third person vary depending on deixis, with the proxim
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
-  <td align="middle"><i>he, him</i></td>
-  <td align="middle"><i>she, her</i></td>
-  <td align="middle"><i>they, them</i></td>
+  <td align="middle"><b>M SG</b><br/><i>he, him</i></td>
+  <td align="middle"><b>F SG</b><br/><i>she, her</i></td>
+  <td align="middle"><b>PL</b><br/><i>they, them</i></td>
   <td align="middle"></td>
-  <td align="middle"><i>he, him</i></td>
-  <td align="middle"><i>she, her</i></td>
-  <td align="middle"><i>they, them</i></td>
+  <td align="middle"><b>M SG</b><br/><i>he, him</i></td>
+  <td align="middle"><b>F SG</b><br/><i>she, her</i></td>
+  <td align="middle"><b>PL</b><br/><i>they, them</i></td>
   <td align="middle"></td>
-  <td align="middle"><i>he, him</i></td>
-  <td align="middle"><i>she, her</i></td>
-  <td align="middle"><i>they, them</i></td>
+  <td align="middle"><b>M SG</b><br/><i>he, him</i></td>
+  <td align="middle"><b>F SG</b><br/><i>she, her</i></td>
+  <td align="middle"><b>PL</b><br/><i>they, them</i></td>
+</tr>
+<tr>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
 </tr>
 <tr>
   <td align="left">
@@ -134,7 +149,11 @@ Personal pronouns for the third person vary depending on deixis, with the proxim
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
-  <td align="middle", colspan=9></td>
+  <td align="middle"></td>
+  <td align="middle", colspan=3></td>
+  <td align="middle"></td>
+  <td align="middle", colspan=3></td>
+  <td align="middle"></td>
   <td align="middle">ددۀ dadë́</td>
   <td align="middle">ددې dëdé</td>
   <td align="middle">ددوی dëdúy</td>
@@ -224,6 +243,21 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle"><i>these</i></td>
 </tr>
 <tr>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+</tr>
+<tr>
   <td align="left">
     <b>Direct</b><br/>
   </td>
@@ -280,6 +314,21 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle"><i>same (m-sg)</i></td>
   <td align="middle"><i>same (f-sg)</i></td>
   <td align="middle"><i>same (pl)</i></td>
+</tr>
+<tr>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
+  <td align="middle"></td>
 </tr>
 <tr>
   <td align="left">
@@ -459,11 +508,7 @@ The latter can be used also separately as a pronoun.
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"></td>
-  <td align="middle"><b>human</b></td>
-</tr>
-<tr>
-  <td align="middle"></td>
-  <td align="middle"><i>nobody</i></td>
+  <td align="middle"><b>human</b><br/><i>nobody</i></td>
 </tr>
 <tr>
   <td align="left">
