@@ -12,13 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature of pronouns, determiners or adjectives.  It tells
-whether the word is possessive.
-
-While many tagsets would have “possessive” as one of the various
-pronoun types, this feature is intentionally separate from
-[PronType](), as it is orthogonal to pronominal types. Several of the
-pronominal types can be optionally possessive, and adjectives can too.
+Boolean feature of personal pronouns or determiners. It tells whether the word is possessive.
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
@@ -26,9 +20,9 @@ Note that there is no `No` value. If the word is not possessive, the
 `Poss` feature will just not be mentioned in the `FEAT` column. (Which
 means that empty value has the `No` meaning.)
 
-The personal determiner خپل <i>xpël</i> marks reflexive possession in Pashto.
-
-The weak personal pronouns (مې me, دې de, يې ye, مو mu) may denote unstressed possession.
+These words are possessive in Pashto:
+* personal reflexive determiner خپل <i>xpël</i>
+* weak personal pronouns (مې <i>me</i>, دې <i>de</i>, يې <i>ye</i>, مو <i>mu</i>) may denote unstressed possession (but they can express take also other fucntions in the sentence)
 
 The possession can be also marked by genitive forms of personal pronouns, however, they are <b>NOT</b> tagged as possessive.
 
