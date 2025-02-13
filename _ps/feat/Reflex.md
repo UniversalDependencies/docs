@@ -12,9 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature of [pronouns](ps-pos/PRON) or
-[determiners](ps-pos/DET). It tells whether the word is reflexive,
-i.e. refers to the subject of its clause.
+Boolean feature of personal pronouns or determiners. It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
