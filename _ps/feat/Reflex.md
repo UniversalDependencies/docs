@@ -24,7 +24,7 @@ column. (Which means that empty value has the `No` meaning.)
 
 These words are reflexive in Pashto:
 * personal pronoun ځان <i>żân</i> (indeclinable)
-* personal possessive pronoun خپل <i>xpël</i> (declined like common adjectives in agreement with the possessed object)
+* personal possessive determiner خپل <i>xpël</i> (declined like common adjectives in agreement with the possessed object)
 
 
 #### Examples
