@@ -10,7 +10,7 @@ udver: '2'
 * The transliteration used here is strictly phonemic: it aims on including all pronounced sounds, although they are not expressed in writing and on the contrary, it omits all unpronounced orthographic letters.
 * The transliteration of each sentence is written on a line beginning with `# translit =`.
 * The transliteration of word is given in the MISC column under the [Translit]() attribute.
-* The transliteration of each lemma is shown in the MISC column under the [LTranslit]() attribute, but only if it differs from `Translit`.
+* The transliteration of each lemma is shown in the MISC column under the [LTranslit]() attribute.
 
 <table class="typeindex" border="1">
 <tr>
@@ -155,7 +155,7 @@ udver: '2'
 </tr>
 <tr>
   <td align="middle">ل لـ ـلـ ـل</td>
-  <td align="left">n</td>
+  <td align="left">l</td>
 </tr>
 <tr>
   <td align="middle">م مـ ـمـ ـم</td>
@@ -359,7 +359,7 @@ NOTES:
 </tr>
 <tr>
   <td align="middle"><i>'</i></td>
-  <td align="left">glottal stop [ʔ]</td>
+  <td align="left">glottal stop [ʔ]<br/><i>probably not a real phoneme in Pashto, it is not distinctive</i></td>
   <td align="middle">عـ ـعـ</td>
 </tr>
 </table>
@@ -490,5 +490,5 @@ NOTES:
 
 ## Stress
 * Pashto has a phonemic stress that can fall on any syllable (but mostly falls on the last one).
-* The stress should be marked with an accent mark (´) above the vowel of the stressed syllable in every word that includes two or more syllables.
+* In the transliteration, the stress should be marked with an accent mark (´) above the vowel of the stressed syllable in every word that includes two or more syllables.
 * If such a word does not bear a stress, it indicates that it forms a stress group with another word, which is stressed (نه کوم _në́ kawëm_ “I do not do”)
