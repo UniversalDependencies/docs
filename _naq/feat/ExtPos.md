@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#ADV">ADV</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
+  <td><a href="#SCONJ">SCONJ</a></td>
 </tr>
 </table>
 
@@ -26,5 +27,11 @@ This feature indicates, for the head of a fixed expression, the effective UPOS o
 #### Examples
 
 * _gaob <b>tamas ka i o</b> gaos_ "king **or** queen" (_tama_ = PART)
+
+### <a name="SCONJ">`SCONJ`</a>: subordinate conjunction-like expression
+
+#### Examples
+
+* _ǁnāpa xu ta ge ǃgû <b>ǃnūb ai</b>_ "**as** I left from there" (_ǃnūb_ = NOUN)
 
 
