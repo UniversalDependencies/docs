@@ -17,6 +17,7 @@ _a_, _an_        | `Definite=Ind|PronType=Art`
 _the_            | `Definite=Def|PronType=Art`
 _this_, _that_   | `Number=Sing|PronType=Dem`
 _these_, _those_ | `Number=Plur|PronType=Dem`
+_them_           | `Number=Plur|PronType=Dem|Style=Vrnc`
 _yonder_         | `PronType=Dem`
 _all_, _both_, _each_\*\*, _every_ | `PronType=Tot`
 _half_\*         | `NumForm=Word|NumType=Frac|PronType=Ind`
