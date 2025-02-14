@@ -17,7 +17,7 @@ udver: '2'
   <!--td><a href="#NOUN">NOUN</a></td-->
   <!--td><a href="#NUM">NUM</a></td-->
   <td><a href="#PART">PART</a></td>
-  <!--<td><a href="#PRON">PRON</a></td>-->
+  <td><a href="#PRON">PRON</a></td>
   <!--<td><a href="#PROPN">PROPN</a></td>-->
   <td><a href="#SCONJ">SCONJ</a></td>
   <!--td><a href="#VERB">VERB</a></td-->
@@ -85,6 +85,13 @@ gives uncertainty, and the continuation of the sentence further builds
 on that element of doubt - if narrator struggles to stand, then it is
 even more likely that narrator's judgement about how nothing happened
 is wrong.
+
+
+### <a name="PRON">`PRON`</a>: pronoun-like expression
+
+#### Examples
+
+* _viņam bija slinkums <b>kaut ko</b> darīt_ "he was too lazy to do something" (_kaut_ = [PART](), _ko_ = [PRON]())
 
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
