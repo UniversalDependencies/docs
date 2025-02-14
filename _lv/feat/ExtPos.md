@@ -19,7 +19,7 @@ udver: '2'
   <td><a href="#PART">PART</a></td>
   <!--<td><a href="#PRON">PRON</a></td>-->
   <!--<td><a href="#PROPN">PROPN</a></td>-->
-  <!--<td><a href="#SCONJ">SCONJ</a></td>-->
+  <td><a href="#SCONJ">SCONJ</a></td>
   <!--td><a href="#VERB">VERB</a></td-->
 </tr>
 </table>
@@ -57,6 +57,8 @@ one or more children attached via the [fixed]() relation).
 
 ### <a name="PART">`PART`</a>: multiword particle
 
+All words in the construction are [PART]().
+
 #### Examples
 
 * _te bija <b>it kā</b> maza būdiņa_ "there was ??? a little hut". _it 
@@ -76,3 +78,9 @@ on that element of doubt - if narrator struggles to stand, then it is
 even more likely that narrator's judgement about how nothing happened
 is wrong.
 
+### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
+
+#### Examples
+
+* _ viņš atgriezās, <b>lai gan</b> tas nebija vajadzīgs_ "he returned even
+  though it was not necessary" (_lai_ = `SCONJ`, _gan_ = `PART`)
