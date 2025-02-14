@@ -12,14 +12,14 @@ udver: '2'
   <!--<td><a href="#ADP">ADP</a></td>-->
   <td><a href="#ADV">ADV</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
-  <!--<td><a href="#DET">DET</a></td>
-  <td><a href="#INTJ">INTJ</a></td>-->
+  <!--<td><a href="#DET">DET</a></td>-->
+  <!--<td><a href="#INTJ">INTJ</a></td>-->
   <!--td><a href="#NOUN">NOUN</a></td-->
   <!--td><a href="#NUM">NUM</a></td-->
   <td><a href="#PART">PART</a></td>
-  <!--<td><a href="#PRON">PRON</a></td>
-  <td><a href="#PROPN">PROPN</a></td>
-  <td><a href="#SCONJ">SCONJ</a></td>-->
+  <!--<td><a href="#PRON">PRON</a></td>-->
+  <!--<td><a href="#PROPN">PROPN</a></td>-->
+  <!--<td><a href="#SCONJ">SCONJ</a></td>-->
   <!--td><a href="#VERB">VERB</a></td-->
 </tr>
 </table>
@@ -76,64 +76,3 @@ on that element of doubt - if narrator struggles to stand, then it is
 even more likely that narrator's judgement about how nothing happened
 is wrong.
 
-
-<!--
-### <a name="ADJ">`ADJ`</a>: adjective-like expression
-
-#### Examples
-
-* [sv] _<b>före detta</b>_ (a multiword adjective paraphrasable as “former”, lit. "before that"; the first node is [ADV]())
-
-### <a name="ADP">`ADP`</a>: adposition-like expression
-
-Multiword adpositions occur in many languages. Often they are grammaticalized prepositional phrases.
-
-#### Examples
-
-* [cs] _<b>na rozdíl ode</b> mne_ “<b>in contrast to</b> me” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
-* [cs] _<b>nehledě na</b> jeho úspěchy_ “<b>disregarding</b> his achievements” (here the first node is a [VERB]())
-
-### <a name="ADV">`ADV`</a>: adverb-like expression
-
-#### Examples
-
-* [en] _<b>by and large</b>_ (a multiword adverb paraphrasable as “altogether”; the first node is [ADP]())
-
-### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
-
-#### Examples
-
-* [fr] _<b>ainsi que</b>_ “as well as” (_ainsi_ = [ADV]())
-
-### <a name="DET">`DET`</a>: determiner-like expression
-
-#### Examples
-
-* [fr] _le volcan émet <b>de la</b> vapeur_ “the volcano emits steam” (_de_ = `ADP`)
-
-### <a name="INTJ">`INTJ`</a>: interjection-like expression
-
-#### Examples
-
-* [es] _¡<b>Por Dios</b>!_ “for God’s sake” (_por_ = `ADP`, _Dios_ = [PROPN]())
-
-### <a name="PRON">`PRON`</a>: pronoun-like expression
-
-#### Examples
-
-* [en] _<b>each other</b>_ (_each_ = [DET]())
-
-### <a name="PROPN">`PROPN`</a>: proper noun-like expression
-
-#### Examples
-
-* [cs] _Jeho kniha <b>Most přes řeku Kwai</b> byla zfilmována._ “His book <b>The Bridge over the River Kwai</b> was made into a movie.” (_Most_ = [NOUN]())
-
-### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
-
-#### Examples
-
-* [fr] _<b>bien que</b>_ “although” (_bien_ = `ADV`)
--->
-
-<!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->
