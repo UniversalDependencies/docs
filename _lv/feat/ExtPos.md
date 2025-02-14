@@ -12,7 +12,7 @@ udver: '2'
   <!--<td><a href="#ADP">ADP</a></td>-->
   <td><a href="#ADV">ADV</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
-  <!--<td><a href="#DET">DET</a></td>-->
+  <td><a href="#DET">DET</a></td>
   <!--<td><a href="#INTJ">INTJ</a></td>-->
   <!--td><a href="#NOUN">NOUN</a></td-->
   <!--td><a href="#NUM">NUM</a></td-->
@@ -47,12 +47,20 @@ one or more children attached via the [fixed]() relation).
 * _process aizsākās <b>vairāk kā</b> 50 gadus atpakaļ_ "process started more
   than 50 years ago" (_vairāk_ = [ADV](), _kā_ = [SCONJ]())
 
+
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
 * _Koki dod ēnu, <b>kā arī</b> labi izskatās._ "Trees give shade and look
   good." (_kā_ = [SCONJ](), _arī_ = [CCONJ]())
+
+
+### <a name="DET">`DET`</a>: determiner-like expression
+
+#### Examples
+
+*  _es dzirdēju <b>tādu kā</b> balsi_ "I heard something of a voice" (_tādu_ = [DET](), _kā_ = [SCONJ]())
 
 
 ### <a name="PART">`PART`</a>: multiword particle
@@ -78,9 +86,10 @@ on that element of doubt - if narrator struggles to stand, then it is
 even more likely that narrator's judgement about how nothing happened
 is wrong.
 
+
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
 * _ viņš atgriezās, <b>lai gan</b> tas nebija vajadzīgs_ "he returned even
-  though it was not necessary" (_lai_ = `SCONJ`, _gan_ = `PART`)
+  though it was not necessary" (_lai_ = [SCONJ](), _gan_ = [PART]())
