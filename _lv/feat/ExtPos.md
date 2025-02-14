@@ -10,9 +10,9 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <!--<td><a href="#ADJ">ADJ</a></td>-->
   <!--<td><a href="#ADP">ADP</a></td>
-  <td><a href="#ADV">ADV</a></td>
+  <td><a href="#ADV">ADV</a></td>-->
   <td><a href="#CCONJ">CCONJ</a></td>
-  <td><a href="#DET">DET</a></td>
+  <!--<td><a href="#DET">DET</a></td>
   <td><a href="#INTJ">INTJ</a></td>-->
   <!--td><a href="#NOUN">NOUN</a></td-->
   <!--td><a href="#NUM">NUM</a></td-->
@@ -38,6 +38,13 @@ lexical one, `ExtPos` may be used to signal it.
 
 Currently in Latvian `ExtPos` is used for fixed functional multiword expressions (the head node has
 one or more children attached via the [fixed]() relation). 
+
+### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
+
+#### Examples
+
+* _Koki dod ēnu, <b>kā arī</b> labi izskatās._ "Trees give shade and look good." (_kā_ = [SCONJ](), _arī_ = [CCONJ]())
+
 
 ### <a name="PART">`PART`</a>: multiword particle
 
