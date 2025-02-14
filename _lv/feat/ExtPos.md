@@ -20,7 +20,7 @@ udver: '2'
   <td><a href="#PROPN">PROPN</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>-->
   <!--td><a href="#VERB">VERB</a></td-->
-  td><a href="#SCONJ">PART</a></td>
+  <td><a href="#SCONJ">PART</a></td>
 </tr>
 </table>
 
