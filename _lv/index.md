@@ -109,6 +109,10 @@ Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are ta
 * [Foreign]() is annotated `Yes` for foreign words [X]().
 * [Abbr]() is annotated `Yes` for abbreviations, which can be nouns [NOUN]() (_DJ_), [PROPN]() (_NATO_), `ADJ` (_god._ "honored"), `VERB` (_skat._ "see"), `ADV` (_v.j.l._ "above sea level"), `SYM` (_utt._ "etc.").
 
+#### ExtPos
+
+[ExtPos]() is currently used for annotating `fixed` constructions, and the language page of `ExtPos` contains examples for each value used.
+
 #### Unused Features
 
 Features not applicable for Latvian:
