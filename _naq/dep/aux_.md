@@ -2,6 +2,7 @@
 layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
+redirect_from: "naq/dep/aux.html"
 udver: '2'
 ---
 
