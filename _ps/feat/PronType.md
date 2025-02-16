@@ -34,7 +34,8 @@ Personal pronouns for the first and the second person and reflexive personal pro
   <td align="middle"><b>1 PL</b><br/><i>we, us</i></td>
   <td align="middle"><b>2 SG</b><br/><i>you (sg.)</i></td>
   <td align="middle"><b>2 PL</b><br/><i>you (pl.)</i></td>
-  <td align="middle"><b>Reflex</b><br/><i>self</i></td>
+  <td align="middle"><b>Reflex SG</b><br/><i>self (sg.)</i></td>
+  <td align="middle"><b>Reflex PL</b><br/><i>self (pl.)</i></td>
 </tr>
 <tr>
   <td align="left">
@@ -42,19 +43,26 @@ Personal pronouns for the first and the second person and reflexive personal pro
     <b>(Vocative)</b>
   </td>
   <td align="middle">زۀ zë</td>
-  <td align="middle", rowspan=2>موږ muǧ<br/>مونږ munǧ</td>
+  <td align="middle", rowspan=3>موږ muǧ<br/>مونږ munǧ</td>
   <td align="middle">تۀ të</td>
-  <td align="middle", rowspan=2>تاسو tấso<br/>تاسې tấse</td>
+  <td align="middle", rowspan=3>تاسو tấso<br/>تاسې tấse</td>
   <td align="middle", rowspan=2>ځان żân</td>
+  <td align="middle">ځانونه żânúna</td>
 </tr>
 <tr>
   <td align="left">
     <b>Oblique</b><br/>
     <b>Local</b><br/>
+  </td>
+  <td align="middle", rowspan=2>ما mâ</td>
+  <td align="middle", rowspan=2>تا tâ</td>
+  <td align="middle", rowspan=2>ځانونو żânúno</td>
+</tr>
+<tr>
+  <td align="left">
     <b>Ablative</b>
   </td>
-  <td align="middle">ما mâ</td>
-  <td align="middle">تا tâ</td>
+  <td align="middle">ځانه żấna</td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
@@ -62,10 +70,12 @@ Personal pronouns for the first and the second person and reflexive personal pro
   <td align="middle">زموږ zmuǧ<br/>زمونږ zmunǧ</td>
   <td align="middle">ستا stâ</td>
   <td align="middle", rowspan=2>ستاسو stấso<br/>ستاسې stấse</td>
-  <td align="middle">(خپل xpël) **</td>
+  <td align="middle", colspan=2>(خپل xpël) **</td>
 </tr>
 </table>
 ** Instead of a genitive form of the reflexive pronoun ځان <i>żân</i>, the reflexive possessive خپل <i>xpël</i> is used instead, which declines like common adjectives in agreement with the possessed object.
+
+The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person, i.e. it is used for all three persons).
 
 Instead of the genitive forms, the preposition د <i>dë</i> followed by the oblique case can be used, although the genitive forms are more frequent.
 
@@ -283,8 +293,7 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle">دغې dáġe</td>
   <td align="middle">دغو dáġo</td>
   <td align="middle"></td>
-  <td align="middle">دۀ dë</td>
-  <td align="middle">دې de</td>
+  <td align="middle", colspan=2>دې de</td>
   <td align="middle">دو do</td>
 </tr>
 </table>
@@ -440,9 +449,12 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle">چا čâ</td>
 </tr>
 </table>
-The pronoun څۀ <i>cë</i> can be used also as a determiner. Actually, the expression څۀ شی <i>cë šay</i> “what thing” is frequently used instead of the bare څۀ <i>cë</i>.
 
-There is also a determiner کوم <i>kum</i> “which”, which declines like common adjectives in agreement with the determined object. It can mean also “any” (marked as indefinite - see below).
+The pronoun څۀ _cë_ can be used also as a determiner with a few words.
+But actually, the expression څۀ شی _cë šay_ “what thing” is frequently used instead of the bare څۀ _cë_.
+
+There is also a determiner کوم _kum_ “which”, which declines like common adjectives in agreement with the determined object.
+It can mean also “any” in negative sentences (marked as indefinite - see below).
 
 #### Examples
 * (a) **څوک** په کور کې خوري؟ _**cok** pë kor ke xwarí?_ “Who is eating in the house?”
@@ -450,7 +462,7 @@ There is also a determiner کوم <i>kum</i> “which”, which declines like co
 * (c) 
 * (d) 
 * (e) 
-* (f) **څۀ** کتاب په مېز دی؟ _**cë** kitấb pë mez dëy?_ “What book is on the table?” (= what is it like, asking about the quality)
+* (f) **څۀ** رنګه کتاب په مېز دی؟ _**cë** ránga kitấb pë mez dëy?_ “What kind of book is on the table?” (= what is it like, asking about the quality)
 * (g) **کوم** کتاب په میز دی؟ _**kum** kitấb pë mez dëy?_ “Which book is on the table?” (= which one, asking about the identity)
 
 ### <a name="Rel">`Rel`</a>: relative
@@ -470,7 +482,7 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"></td>
-  <td align="middle"><i>some (pl. only)</i></td>
+  <td align="middle"><i>some</i></td>
   <td align="middle"><i>several</i></td>
 </tr>
 <tr>
@@ -490,14 +502,45 @@ The only reciprocal pronoun in Pashto is indeclinable یوبل <i>yë́wbël</i>
 </tr>
 </table>
 
-There is also a determiner کوم <i>kum</i> “any”, which declines like common adjectives in agreement with the determined object.
-It can mean also “which” (marked as interrogative - see above).
+Both determiners ځینې _żíne_ “some” and څو _co_ “several” are used only in plural. For singular, the numeral یو _yaw_ “one” can be used.
+
+There is also a determiner کوم _kum_ “any”, which declines like common adjectives in agreement with the determined object.
+It is used usually in negative sentences. It can mean also “which” (marked as interrogative - see above).
 
 #### Examples
 
 ### <a name="Tot">`Tot`</a>: total
 
-Total determiners in Pashto are هر <i>har</i> “every”, “each” (sg. only) and ټول <i>ṭol</i> “whole” (in sg.), “all” (in pl.).
+
+<table class="typeindex" border="1">
+<tr>
+  <td align="middle"></td>
+  <td align="middle"><b>human</b></td>
+  <td align="middle"><b>non-human</b></td>
+</tr>
+<tr>
+  <td align="middle"></td>
+  <td align="middle"><i>everyone</i></td>
+  <td align="middle"><i>everything</i></td>
+</tr>
+<tr>
+  <td align="left">
+    <b>Direct</b><br/>
+  </td>
+  <td align="middle">هرڅوک harcók</td>
+  <td align="middle", rowspan=2>هرڅۀ harcë́</td>
+</tr>
+<tr>
+  <td align="left">
+    <b>Oblique</b><br/>
+    <b>Local</b><br/>
+    <b>Ablative</b>
+  </td>
+  <td align="middle">هرچا harčấ</td>
+</tr>
+</table>
+
+In addition to these pronouns, there are also total determiners in Pashto: هر _har_ “every”, “each” (sg. only) and ټول _ṭol_ “whole” (in sg.), “all” (in pl.).
 Both decline like common adjectives in agreement with the determined object.
 The latter can be used also separately as a pronoun.
 
@@ -508,13 +551,16 @@ The latter can be used also separately as a pronoun.
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"></td>
-  <td align="middle"><b>human</b><br/><i>nobody</i></td>
+  <td align="middle"><b>human (pronoun)</b><br/><i>nobody</i></td>
+  <td align="middle"><b>non-human (pronoun)</b><br/><i>nothing</i></td>
+  <td align="middle"><b>determiner</b><br/><i>no</i></td>
 </tr>
 <tr>
   <td align="left">
     <b>Direct</b><br/>
   </td>
   <td align="middle">هیڅوک hicók</td>
+  <td align="middle", colspan=2, rowspan=2>هیڅ hic</td>
 </tr>
 <tr>
   <td align="left">
@@ -525,6 +571,8 @@ The latter can be used also separately as a pronoun.
   <td align="middle">هیچا hičấ</td>
 </tr>
 </table>
+
+The determiner هیڅ _hic_ “no” is used only in singular.
 
 #### Examples
 
