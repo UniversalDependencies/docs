@@ -10,6 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Act">Act</a></td>
   <td><a href="#Appl">Appl</a></td>
+  <td><a href="#ApplPass">ApplPass</a></td>
+  <td><a href="#ApplRefl">ApplRefl</a></td>
   <td><a href="#Pass">Pass</a></td>
   <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Refl">Refl</a></td>
@@ -46,8 +48,8 @@ Used when the verb has the applicative suffix _-ba_, which increases the valency
 
 #### Examples
 
-* _Petrub ge Mariasa ge <b>mîba</b>._ “Peter <b>told</b> Maria...”
-* _Petrub ge nē hems xa a <b>ǃgâibahe</b>._ “Peter likes (<b>is good with</b>) his shirt”
+* _Petrub ge Mariasa ge <b>mîba</b>..._ “Peter <b>told</b> Maria...”
+* _Tita ge ǁnā ǃkhaib khoena <b>sîsenba</b> tama hâ._ “I don't <b>work for</b> the agency.”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal
 
@@ -67,3 +69,21 @@ Used when the verb has the reflexive suffix _-sen_, which decreases the valency 
 
 * _ǃKhūb ge ǁnān aitsama ra <b>huisen</b> ǂgaona ra hui._ “The Lord helps those willing to <b>help themselves</b>.”
 * _ǀAwaǃnamtse, <b>dawasen</b> ǁkhāts a?_ “Colonel, would you <b>turn (yourself) around</b>, please?”
+
+### <a name="ApplPass">`ApplPass`</a>: combination of applicative and passive voices
+
+Used when the verb has the applicative suffix _-ba_ followed by the passive suffix _-he_. This combination does not change the valency of the verb, but the oblique argument becomes the doer (agent).
+
+#### Examples
+
+* _Petrub ge nē hems xa a <b>ǃgâibahe</b>._ “Peter likes (<b>is good with</b>) his shirt”
+* _<b>Mîbahe</b> ta ge ge..._ “I was <b>told</b> that...”
+
+### <a name="ApplRefl">`ApplRefl`</a>: combination of applicative and reflexive voices
+
+Used when the verb has the applicative suffix _-ba_ followed by the reflexive suffix _-sen_. This combination does not change the valency of the verb, but the doer (agent) acts upon itself.
+
+#### Examples
+
+* _ǁîb ge audosa go <b>ǁamabasen</b>._ “He <b>bought for himself</b> a car.”
+* _Sâuǁkhāsibab ge nî <b>ūǂuibasen</b>._ “He should <b>take</b> some insurance <b>out on himself</b>.”

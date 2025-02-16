@@ -108,7 +108,7 @@ udver: '2'
 
 #### Verbal features
 
-* [VERB](naq-pos/VERB) may have the [Voice](naq-feat/Voice) (`Appl`, `Pass`, `Rcp`, `Refl`) feature. One verb may have more than one voice marker. In this case layered feature is used: Voice[1] (for the value of the first voice suffix), Voice[2] (for the value of the second voice suffix), ...
+* [VERB](naq-pos/VERB) may have the [Voice](naq-feat/Voice) (`Act`, `Appl`, `ApplPass`, `ApplRcp`, `ApplRefl`, `Pass`, `Rcp`, `Refl`) feature.
 
 * [AUX](naq-pos/AUX) has one or more of the following features: [Aspect](naq-feat/Aspect) (`Imp`, `Perf`, `Punct`), [Evident](naq-feat/Evident) (`Nfh`), [Mood](naq-feat/Mood) (`App`, `Ass`, `Imp`, `Ind`, `Int`, `Pot`, `Prh`), and [Tense](naq-feat/Tense) (`Fut`, `Past`, `Pres`, `RecPast`).
 
