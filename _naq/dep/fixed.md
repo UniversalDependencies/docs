@@ -10,18 +10,10 @@ The `fixed` relation is used for certain fixed grammaticized expressions. Such e
     * Coordinate conjunction _tamas ka i o_ "or"
     * Prepositions _ams ai_ "near", _soas ǃnâ_ "instead of", etc.
     * Adverbial _s tsin(a)_ "also"
-    * Disconnected determiner that surrounds a nominal _mâ ... hoa_ "every"
-    * Disconnected assertive auxiliary _kom ... o_
+<!--    * Disconnected determiner that surrounds a nominal _mâ ... hoa_ "every"
+    * Disconnected assertive auxiliary _kom ... o_ -->
     
 Fixed MWEs are annotated in a flat structure, where all subsequent words in the expression are attached to the first one using the `fixed` label. The assumption is that these expressions do not have any internal syntactic structure (except from a historical perspective) and that the structural annotation is in principle arbitrary.
-
-~~~sdparse
-Mâ/[ExtPos=DET] tsēs hoasa b ge Amoba ra koahe . \n each1 day each2 3M.SG.SBJ DECL Amos.3M.SG.OBL IPFV praise-PASS .
-fixed(Mâ, hoasa)
-det(tsēs, Mâ)
-fixed(each1, each2)
-det(day, each1)
-~~~
 
 ~~~sdparse
 Î , hî-î , tama/[ExtPos=CONJ] s ka i o ǁkha ts a s kōse . \n Yes , no , or1 or2 or3 or4 or5 can you STAT.PRS NMLZ until .

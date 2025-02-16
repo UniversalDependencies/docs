@@ -10,7 +10,6 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#ADP">ADP</a></td>
   <td><a href="#ADV">ADV</a></td>
-  <td><a href="#AUX">AUX</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
   <td><a href="#DET">DET</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>
@@ -31,17 +30,10 @@ This feature indicates, for the head of a fixed expression, the effective UPOS o
 
 * _ǁîs ǃnâ<b>s tsîna</b> ta ge ǀgôaba ūhâ._ "I have a child **also** with her." (_s_ = PART)
 
-### <a name="AUX">`AUX`</a>: auxiliary-like expression
-
-#### Examples
-
-* _ǁNān <b>komo</b> awoxan ǂûna <b>o</b>._ "Those are foods of the ancestors."
-
 ### <a name="DET">`DET`</a>: determiner-like expression
 
 #### Examples
 
-* _Khoe-i <b>mâ</b> iri <b>hoab</b> ǃnâ a ǃeream ǁkhā._ "Someone will answer at **any** hour."
 * _<b>ǀnî khama kō</b> dîrode_ "**some** questions"
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression

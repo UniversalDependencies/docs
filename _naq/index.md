@@ -132,7 +132,7 @@ udver: '2'
 
 * [Typo](naq-feat/Typo) (`Yes`) and [Abbr](naq-feat/Abbr) (`Yes`)  can be used with every part of speech.
 
-* [ExtPos](naq-feat/ExtPos) (`ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `SCONJ`) can be used with [ADP](naq-pos/ADP), [AUX](naq-pos/AUX), [DET](naq-pos/DET), [NOUN](naq-pos/NOUN), [PART](naq-pos/PART)
+* [ExtPos](naq-feat/ExtPos) (`ADP`, `ADV`, `CCONJ`, `DET`, `SCONJ`) can be used with [ADP](naq-pos/ADP), [DET](naq-pos/DET), [NOUN](naq-pos/NOUN), [PART](naq-pos/PART)
 
 * The following universal features are not used in Khoekhoe: [Definite](naq-feat/Definite), [DeixisRef](naq-feat/DeixisRef), [Evident](naq-feat/Evident), [Foreign](naq-feat/Foreign), [NounClass](naq-feat/NounClass), [Polite](naq-feat/Polite), [VerbForm](naq-feat/VerbForm), [Voice](naq-feat/Voice).
 
