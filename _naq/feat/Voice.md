@@ -79,6 +79,12 @@ Used when the verb has the applicative suffix _-ba_ followed by the passive suff
 * _Petrub ge nē hems xa a <b>ǃgâibahe</b>._ “Peter likes (<b>is good with</b>) his shirt”
 * _<b>Mîbahe</b> ta ge ge..._ “I was <b>told</b> that...”
 
+### <a name="ApplRcp">`ApplRcp`</a>: combination of applicative and reciprocal voices
+
+Used when the verb has the applicative suffix _-ba_ followed by the reflexive suffix _-gu_. This combination does not change the valency of the verb. It is used with plural subject, all members are doers (agents) and undergoers (patients), acting upon each other.
+
+* _ǀGam ǁgâura ge ra ǃgâi xūna <b>mîbagu</b>. _ “Two houses <b>tell each other</b> good things.”
+
 ### <a name="ApplRefl">`ApplRefl`</a>: combination of applicative and reflexive voices
 
 Used when the verb has the applicative suffix _-ba_ followed by the reflexive suffix _-sen_. This combination does not change the valency of the verb, but the doer (agent) acts upon itself.
