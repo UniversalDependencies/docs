@@ -1,7 +1,8 @@
 ---
 layout: postag
 title: 'AUX'
-shortdef: 'auxiliary'
+shortdef: 'auxiliary verb'
+redirect_from: "naq/pos/AUX.html"
 udver: '2'
 ---
 
