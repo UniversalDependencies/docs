@@ -28,7 +28,7 @@ Latvian uses all 17 universal POS categories.
 
 [PART]() tag is used for following function words: _acīmredzot_, _ak_, _ar_, _arī_, _arīdzan_, _da_, _diemžēl_, _diez_, _diezin_, _droši_, _gan_, _i_, _ij_, _ik_, _ir_, _it_, _itin_, _ja_, _jau_, _jā_, _jel_, _jo_, _kaut_, _kā_, _lai_, _laikam_, _mjā_, _ne_, _nea_, _nebūt_, _nez_, _nezin_, _nē_, _nu_, _nudien_, _nujā_, _nū_, _nūja_, _nūjā_, _pat_, _patiesi_, _patiešām_, _protams_, _proti_, _taču_, _tad_, _tak_, _tā_, _tāpat_, _tātad_, _tiešām_, _tik_, _tikai_, _tikpat_, _tipa_, _tomēr_, _turklāt_, _vai_, _varbūt_, _vēl_, _vien_, _vienīgi_, _vis_.
 
-Particles can be homonymous with other POS, most notably, conjunctions [CCONJ]() and [SCONJ](), interjections [INTJ](), and adjectives [ADJ](), correct POS is assigned based on sentence context.
+Particles can be homonymous with other POS, most notably, conjunctions [CCONJ]() and [SCONJ](), interjections [INTJ](), and adverbs [ADV](), correct POS is assigned based on sentence context.
 
 #### Pronouns and Determiners
 
