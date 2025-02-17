@@ -49,6 +49,8 @@ words) or as an interjection.
 
 #### Examples
 
+* _<b>як то</b>_ “that” (_як_ = [SCONJ](orv-pos/SCONJ))  
+
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 The multiword parentheticals are also considered as adverb-like expressions.
@@ -60,6 +62,10 @@ The multiword parentheticals are also considered as adverb-like expressions.
 #### Examples
 
 * _<b>то естъ</b>_ “i. e.” (_то_ = [PRON](orv-pos/PRON))  
+* _<b>а и</b>_ “and” (_а_ = [CCONJ](orv-pos/CCONJ))  
+* _<b>а любо</b>_ “and” (_а_ = [CCONJ](orv-pos/CCONJ))  
+* _<b>а также (и)</b>_ “and also” (_а_ = [CCONJ](orv-pos/CCONJ))  
+* _<b>яко и</b>_ “and” (_яко_ = [SCONJ](orv-pos/SCONJ))  
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
@@ -93,6 +99,9 @@ The multiword parentheticals are also considered as adverb-like expressions.
 
 #### Examples
 
+* _<b>што жъ</b>_ “that” (_што_ = [SCONJ](orv-pos/SCONJ))  
+* _<b>заню ж</b>_ “that” (_заню_ = [SCONJ](orv-pos/SCONJ))
+  
 ### <a name="VERB">`VERB`</a>: verb-like (predicative) expression
 
 #### Examples
