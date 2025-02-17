@@ -75,6 +75,7 @@ The multiword parentheticals are also considered as adverb-like expressions.
 
 * _<b>не только</b>_ (a multiword coordinating conjunction paraphrasable as “not only... (but ...)”; the first node is [PART](ru-pos/PART))
 * _<b>но и</b>_ (a multiword coordinating conjunction paraphrasable as “but”, lit. "but even"; the first node is [CCCONJ](ru-pos/CCONJ), so UPOS = `ExtPos`)
+* _<b>т. е.</b>_, _<b>то есть</b>_ “i. e.” (_то_ = [PRON](ru-pos/PRON))  
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
@@ -127,8 +128,6 @@ The multiword parentheticals are also considered as adverb-like expressions.
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
-
-* _<b>т. е.</b>_, _<b>то есть</b>_ “i. e.” (_то_ = [PRON](ru-pos/PRON))  
 
 ### <a name="VERB">`VERB`</a>: verb-like (predicative) expression
 
