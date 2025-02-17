@@ -53,7 +53,7 @@ one or more children attached via the [fixed]() relation).
 #### Examples
 
 * _Koki dod ēnu, <b>kā arī</b> labi izskatās._ "Trees give shade and look
-  good." (_kā_ = [SCONJ](), _arī_ = [CCONJ]())
+  good." (_kā_ = [CCONJ](), _arī_ = [PART]())
 
 
 ### <a name="DET">`DET`</a>: determiner-like expression
@@ -98,5 +98,5 @@ is wrong.
 
 #### Examples
 
-* _ viņš atgriezās, <b>lai gan</b> tas nebija vajadzīgs_ "he returned even
+* _viņš atgriezās, <b>lai gan</b> tas nebija vajadzīgs_ "he returned even
   though it was not necessary" (_lai_ = [SCONJ](), _gan_ = [PART]())
