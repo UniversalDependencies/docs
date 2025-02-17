@@ -111,7 +111,7 @@ Deverbal nouns with endings _-šana_, _-šanās_ (_skriešana_ "running") are ta
 
 #### ExtPos
 
-[ExtPos]() is currently used for annotating `fixed` constructions, and the language page of `ExtPos` contains examples for each value used.
+[ExtPos]() is currently used for annotating `fixed` constructions. See [ExtPos]() for Latvian for currently used values and examples.
 
 #### Unused Features
 
