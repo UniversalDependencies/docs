@@ -36,7 +36,7 @@ Effectively distinguishing [PRON]() and [DET]() categories in Latvian is very ha
 
 Currently `DET` are: _abas_, _abi_, _cikais_, _cikas_, _ciki_, _cita_, _cits_, _daudzi_, _daža_, _dažs_, _ikkatra_, _ikkatrs_, _ikkura_, _ikkurš_, _ikviena_, _ikviens_, _jebkāda_, _jebkāds_, _jebkura_, _jebkurš_, _jelkāda_, _jelkāds_, _jūsējs_, _kāda_, _kādā_, _kādais_, _kāds_, _katra_, _katrs_, _kura_, _kurā_, _kurais_, _kurs_, _kurš_, _manējs_, _mana_, _mans_, _mūsējs_, _nekāda_, _nekādā_, _nekādais_, _nekāds_, _neviena_, _neviens_, _pate_, _pati_, _pats_, _savējs_, _sava_, _savs_, _šāda_, _šāds_, _šī_, _šis_, _šitāda_, _šitāds_, _šitaids_, _šitejāda_, _šitejāds_, _šitā_, _šitais_, _šitas_, _šitentāda_, _šitentāds_, _šitentas_, _štā_, _štas_, _štis_, _tāda_, _tāds_, _tā_, _tas_, _taste_, _tāte_, _tavējs_, _tava_, _tavs_, _vairāki_, _vēlviena_, _vēlviens_, _vienotra_, _vienotrs_, _viņējs_, _viņā_, _viņais_, _visa_, _viss_.
 
-`PRON` are: _daudzkas_, _es_, _jebkas_, _jelkas_, _jis_, _jūs_, _kas_, _mēs_, _nekas_, _nezinkas_, _sevis_, _tu_, _viņa_, _viņš_, _viš_. 
+`PRON` are: _daudzkas_, _es_ ("I"), _jebkas_, _jelkas_, _jis_, _jūs_ ("you", plural), _kas_, _mēs_ ("we"), _nekas_, _nezinkas_, _sevis_, _tu_ ("you", singular), _viņa_ ("she"), _viņš_ ("he"), _viš_ ("they/he/she"). 
 
 Syntax role `det` is used for Latvian pronoun category, which modify nouns in the sentence and agree with this noun in gender, number and case. Pronominal quantifiers _daudzi_ "many" and _vairāki_ "several" , and personal possessives _manējais_, _tavējais_, _mūsējais_, _jūsējais_, _viņējais_ are `DET`, however in Latvian grammar they are described as adjectives.
 
