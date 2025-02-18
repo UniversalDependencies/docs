@@ -81,4 +81,8 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [el] _σε περίπτωση που_ “in the case that, if” (here the first node _σε_ is an [ADP]())
 
+### <a name="PART">`PART`</a>: particle
+
+#### Examples
+
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->
