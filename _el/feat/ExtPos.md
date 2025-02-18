@@ -17,6 +17,7 @@ udver: '2'
   <td><a href="#PRON">PRON</a></td>
   <td><a href="#PROPN">PROPN</a></td>
   <td><a href="#SCONJ">SCONJ</a></td>
+  <td><a href="#PART">PART</a></td>
 </tr>
 </table>
 
