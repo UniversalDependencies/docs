@@ -5,7 +5,6 @@ udver: '2'
 ---
 
 # UD for Khoekhoe <span class="flagspan"><img class="flag" src="../../flags/svg/NA.svg" /></span>
-<!-- TODO put an image -->
 
 ## Tokenization and Word Segmentation
 
