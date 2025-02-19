@@ -85,4 +85,6 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 #### Examples
 
+* [el]
+
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->
