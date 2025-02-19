@@ -10,8 +10,8 @@ udver: '2'
 Determiners are words that modify [nouns](NOUN) or noun phrases and
 express the reference of the noun phrase in context. Like [adjectives](ADJ),
 Swedish determiners typically agree with the noun they modify for gender and number,
-e.g. _<b>vår</b> kost_ "our diet" (common singular), _<b>vårt</b> samhälle_ "our society" (neuter singular), 
-_<b>våra</b> åsikter_ "our opinions" (plural). 
+e.g. _<b>denna</b> stol_ "this chair" (common singular), _<b>detta</b> bord_ "this table" (neuter singular), 
+_<b>dessa</b> möbler_ "these pieces of furniture" (plural). 
 
 ### Examples
 
