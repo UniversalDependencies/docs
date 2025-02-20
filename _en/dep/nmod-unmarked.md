@@ -158,6 +158,11 @@ nmod:unmarked(8th, October)
 nmod:unmarked(8th, 1963)
 ~~~
 
+~~~ sdparse
+October/PROPN 1963/NUM[NumType=Card]
+nmod:unmarked(October, 1963)
+~~~
+
 Where two labels apply to the same temporal unit, [appos]() may be suitable:
 
 ~~~ sdparse
