@@ -158,9 +158,12 @@ nmod:unmarked(8th, October)
 nmod:unmarked(8th, 1963)
 ~~~
 
+*BC*, *AD*, and similar eras modify the year:
+
 ~~~ sdparse
-October/PROPN 1963/NUM[NumType=Card]
+October/PROPN 1963/NUM[NumType=Card] AD/NOUN
 nmod:unmarked(October, 1963)
+nmod:unmarked(1963, AD)
 ~~~
 
 Where two labels apply to the same temporal unit, [appos]() may be suitable:
