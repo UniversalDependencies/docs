@@ -86,4 +86,14 @@ non-fixed relations should not use this feature.
 #### Examples
 
 * _<b>meia duzia</b>_
+
+### <a name="PRON">`PRON`</a>: compound pronoun
+
+#### Examples
+
+* _<b>O que</b> você quer?_
+
+* _Esse é o número para <b>o qual</b> eu telefonei._
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:09:41 CET -->
+
+
