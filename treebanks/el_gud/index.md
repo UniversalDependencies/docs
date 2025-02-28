@@ -16,7 +16,7 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.12 release.
 
-The following people have contributed to making this treebank part of UD: Stella Markantonatou, Vivian Stamou, Stavros Bombolas, Katerina Anastasopoulou, Socrates Vak.
+The following people have contributed to making this treebank part of UD: Stella Markantonatou, Vivian Stamou, Stavros Bombolas, Katerina Anastasopoulou, Socrates Vakirtzian.
 
 Repository: [UD_Greek-GUD](https://github.com/UniversalDependencies/UD_Greek-GUD)<br />
 Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gud215)<br />
@@ -42,8 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre).
-
+GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the contribution of students of [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg), an MSc program co-organised by the National and Kapodistrian University of Athens (NKUA) and ILSP. The texts include randomly selected extracts of Modern Greek fiction. The annotation scheme used for the morphological annotation of GUD is based on UD.v2.
 The GUD program is related with the development of dialectal treebanks. All dialectal treebanks, with the exception of the Griko treebank, have been developed with active annotation relying on GUD.
   
 The UD documentation for EL morphology ([el_pos](https://github.com/UniversalDependencies/docs/tree/pages-source/_el/pos) and [el_feat](https://github.com/UniversalDependencies/docs/tree/pages-source/_el/feat)) is based on research in the context of the GUD.
@@ -52,22 +51,25 @@ The GUD documentation for EL syntax [syntactic structures](../overview/syntax.ht
 
 <!---
 GDT is a resource for Modern Greek manually annotated for morphology, syntax and semantics. It is an ongoing project led by researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the help of students from the Technoglossia postgraduate program and the National and Kapodistrian University of Athens. The texts include transcripts of European parliamentary sessions, articles from the Greek Wikipedia, and web documents pertaining the politics, health, and travel domains. The annotation scheme used for the original syntactic layer of the GDT is based on an adaptation of the guidelines for the Prague Dependency Treebank.
---->
+
 
 GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre), with the contribution of students of [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg), an MSc program co-organised by the National and Kapodistrian University of Athens (NKUA) and ILSP. The texts include randomly selected extracts of Modern Greek fiction. The annotation scheme used for the morphological annotation of GUD is based on UD.v2.
-
+--->
 
 ## Acknowledgments
 
+<!---
 The GDT team wish to thank ILSP researchers Haris Papageorgiou and Maria Koutsombogera, as well as all student annotators for their contributions to the GDT effort.
+--->
 
 The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also expressed to the NKUA students Fei Poulou, Georgia Apostolopoulou, Antonis Balas and Maria Panagiotopoulou, as well as the 2020-2022 students of [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) for their contribution to the morphological annotation of the treebank.
 
+<!---
 ## References
 
 * Prokopis Prokopidis and Haris Papageorgiou. Experiments for Dependency Parsing of Greek. In Proceedings of the First Joint Workshop on Statistical Parsing of Morphologically Rich Languages and Syntactic Analysis of Non-Canonical Languages, pages 89 -96, Dublin, Ireland, August 2014.
 
-
+--->
 
 # Statistics of UD Greek GUD
 
