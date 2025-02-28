@@ -3,7 +3,7 @@
 Data available since: UD v2.0
 License: CC BY-NC-SA 3.0
 Includes text: yes
-Genre: fiction, blogs, social media, news, narratives
+Genre: fiction, blogs, social media, news
 Lemmas: manual native
 UPOS: manual native
 XPOS: manual native
