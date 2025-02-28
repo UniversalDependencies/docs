@@ -63,6 +63,7 @@ The GDT team wish to thank ILSP researchers Haris Papageorgiou and Maria Koutsom
 --->
 
 The GUD team ows special thanks to Socratis Vakirtzian (NKUA). Thanks are also expressed to the NKUA students Fei Poulou, Georgia Apostolopoulou, Antonis Balas and Maria Panagiotopoulou, as well as the 2020-2022 students of [Language Technology](https://www.di.uoa.gr/en/studies/graduate/lg) for their contribution to the morphological annotation of the treebank.
+--->
 
 <!---
 ## References
