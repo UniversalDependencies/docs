@@ -44,14 +44,15 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre).
 
-The GUD program is related with the development of dialectal treebanks that use GUD for transfer annotation. All dialectal treebanks have been developed with knowledge transfer from GUD and manuall annotation. 
+The GUD program is related with the development of dialectal treebanks that use GUD for transfer annotation. All dialectal treebanks have been developed with active annotation relying on GUD.
 
-
-
-There are two UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD.
+There are two UD treebanks of Modern Greek (EL): UD_Greek-GDT, UD_Greek-GUD and four dialectal treebanks. 
 * GDT and GUD have adopted the same tokenization and word segmentation guidelines.
 * The two treebanks present notable differences as regards morphological annotation; these differences are presented in [index]().
-
+* The Cretan treebank contains material from narratives broadcasted on Crete.
+* The Lesbian treebank contains material collected on Lesbos in 2024 from native speakers.
+* The Messenian treebank contains material collected in Messenia in 2023-2024 from native speakers.
+  
 The UD documentation for EL morphology ([el_pos](https://github.com/UniversalDependencies/docs/tree/pages-source/_el/pos) and [el_feat](https://github.com/UniversalDependencies/docs/tree/pages-source/_el/feat)) is based on research in the context of the GUD.
 
 The UD documentation for EL syntax [syntactic structures](../overview/syntax.html) is based on research in the context of the [Greek Dependency Treebank](http://gdt.ilsp.gr/) (GDT). On the other hand, in GUD, the syntactic guidelines of GDT are taken as a baseline but they are being edited with an ongoing project whose results will be reported in due time.
