@@ -9,7 +9,7 @@ UPOS: manual native
 XPOS: manual native
 Features:  manual native
 Relations:  manual native
-Contributors: Markantonatou, Stella; Stamou, Vivian; Bombolas, Stavros; Anastasopoulou, Katerina; 
+Contributors: Markantonatou, Stella; Stamou, Vivian; Bombolas, Stavros; Anastasopoulou, Katerina; Vakirtzian, Socrates;
 Contributing: elsewhere
 Contact: stiliani.markantonatou@gmail.com, vstamou@gmail.com
 ===============================================================================
