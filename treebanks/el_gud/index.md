@@ -16,7 +16,7 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.12 release.
 
-The following people have contributed to making this treebank part of UD: Stella Markantonatou, Vivian Stamou, Socrates Vak.
+The following people have contributed to making this treebank part of UD: Stella Markantonatou, Vivian Stamou, Stavros Bombolas, Katerina Anastasopoulou, Socrates Vak.
 
 Repository: [UD_Greek-GUD](https://github.com/UniversalDependencies/UD_Greek-GUD)<br />
 Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gud215)<br />
@@ -43,6 +43,8 @@ Development of the treebank happens directly in the UD repository, so you may su
 ## Description
 
 GUD is a resource for EL manually annotated for morphology and syntax. It is an ongoing project led by Stella Markantonatou and Vivian Stamou (hereinafter: the GUD team), both researchers at the [Institute for Language and Speech Processing](http://www.ilsp.gr/) (ILSP/Athena Research Centre).
+
+The GUD program is related with the development of dialectal treebanks that use GUD for transfer annotation. All dialectal treebanks have been developed with knowledge transfer from GUD and manuall annotation. 
 
 
 
