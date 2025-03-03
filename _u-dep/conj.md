@@ -51,6 +51,22 @@ punct(vidi, ,-2)
 punct(vici, ,-4)
 ~~~
 
+Unlike elements may be related by `conj` as a result of ellipsis.
+In the following examples, the first element is a main clause while the second has the form of a modifier.
+We understand there to be ellipsis of the main predicate (_but [we can visit] only after..._):
+
+~~~ sdparse
+We can visit grandma , but/CCONJ only after taking a nap .
+conj(visit, taking)
+cc(taking, but)
+~~~
+
+~~~ sdparse
+We can visit grandma , but/CCONJ only after a nap .
+conj(visit, nap)
+cc(nap, but)
+~~~
+
 ### Shared Dependents and Effective Parents in Coordination
 
 Note that the current basic annotation scheme cannot distinguish between a dependent of the first conjunct
