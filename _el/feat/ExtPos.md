@@ -80,6 +80,7 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 #### Examples
 
 * [el] _σε περίπτωση που_ “in the case that, if” (here the first node _σε_ is an [ADP]())
+* [el] _αν και_ “although” (the first node is an  [SCONJ]() itself, so UPOS = ExtPos)
 
 ### <a name="PART">`PART`</a>: particle
 
