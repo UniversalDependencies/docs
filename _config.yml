@@ -487,6 +487,8 @@ collections:
     output: true
   sab:
     output: true
+  arh:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
