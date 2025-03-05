@@ -485,7 +485,7 @@ obl(prefer, general)
 
 *at least*, *at most*, *at best*, *at worst* (policy revised in [issue EWT#553](https://github.com/UniversalDependencies/UD_English-EWT/issues/553))
 
-In the revised approach, *at least* is treated like other PPs, regardless of its meaning, and should always attach as [obl]()
+In the revised approach, *at least* is treated like other PPs, regardless of its meaning, and should always attach as [obl]() or [nmod]()
 (note that internal modifications like *at the very least* cause problems for the prior `fixed` analysis):
 
 - quantitative, modifying a [NUM]()
@@ -507,9 +507,15 @@ obl(some, least)
 - non-quantitative
 
 ~~~ sdparse
+I hope you'll attend at least on Monday , if not the for entire week .
+case(least, at)
+nmod(Monday, least)
+~~~
+
+~~~ sdparse
 At/ADP least/ADJ I like dogs
 case(least, At)
-obl(like, At)
+obl(like, least)
 ~~~
 
 ~~~ sdparse
