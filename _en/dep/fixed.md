@@ -493,10 +493,10 @@ In the revised approach, *at least* is treated like other PPs, regardless of its
 ~~~ sdparse
 They solved at/ADP least/ADJ 7/NUM of the puzzles
 case(least, at)
-obl(7, least)
+nmod(7, least)
 ~~~
 
-- quantitative, modifying a [DET]()
+- quantitative, modifying a [DET]() (note [obl]())
 
 ~~~ sdparse
 Have at/ADP least/ADJ some/DET of the food
