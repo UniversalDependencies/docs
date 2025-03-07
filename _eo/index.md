@@ -19,7 +19,9 @@ As of January 2025, Esperanto UD contains one document (Manufest de Prago) annot
 
 * AUX is annotated to the copula _esti_.
 
-* DET is annotated to the definite article _la_ (Esperanto has no indefinite article), _iu_ "some," _tiu_ "that," _ĉiu_ "all," etc. when used before a noun. 
+* DET is annotated to the definite article _la_ (Esperanto has no indefinite article), and _correlatives_, such as _iu_ "some," _tio_ "that," _tiu_ "that person," _ĉiu_ "all," etc. when used before a noun.
+
+* PRON is annotated to pronouns (e.g., _Ili_ estas lernantoj. "They are students.") and stand-alone correlatives functioning as demonstrative pronouns (e.g., _Tiuj_ estas lernantoj. "Those people are students.") 
 
 * Each participle is annotated with the appropriate tag according to its function in the sentence it appears, which may be revised in future.
 
