@@ -11,9 +11,18 @@ As of January 2025, Esperanto UD contains one document (Manufest de Prago) annot
 
 * Esperanto words are delimited by whitespace or punctuation, and no tokens in any of the UD Esperanto corpus currently contain whitespace. Only a few multiword tokens should be used for Esperanto clitics, such as _dank'al_ (_danke_ + _al_, "thanks to"), or l' (reduced form of the definite article "la"). 
 
-(To be continued)
-
 ## Morphology
+### Tags
+* Esperanto uses all 17 universal POS categories.
+
+* PART is annotated to _ĉi_, the adverbial particle for expressing proximity, making the distinctiong between _tiu_ "that" and _ĉi_ _tiu_ "this". 
+
+* AUX is annotated to the copula _esti_.
+
+* DET is annotated to the definite article _la_ (Esperanto has no indefinite article), _iu_ "some," _tiu_ "that," _ĉiu_ "all," etc. when used before a noun. 
+
+* Each participle is annotated with the appropriate tag according to its function in the sentence it appears, which may be revised in future.
+
 In Esperanto, the word-ending morpheme of a word indicates its part of speech: Nouns end with _-o_ (when nominative singular), infinitive verbs with _-i_, adjectives with _-a_, and adverbs with _-e_. For example,with the root _aŭd-_, _aŭdo_ means "hearing," _aŭdi_ means "to hear," _aŭda_ means "auditory," and _aŭde_ means "by ear."
 
 ### Nouns:
@@ -58,17 +67,7 @@ _Eploristo farus eksperimenton._ "A researcher would conduct an experiment."
 _Faru eksperimenton, mi petas._ "Conduct an experiment, please."
 
 (To be continued)
-### Tags
-* Esperanto uses all 17 universal POS categories.
 
-* PART is annotated to _ĉi_, the adverbial particle for expressing proximity, making the distinctiong between _tiu_ "that" and _ĉi_ _tiu_ "this". 
-
-* AUX is annotated to the copula _esti_.
-
-* DET is annotated to the definite article _la_ (Esperanto has no indefinite article), _iu_ "some," _tiu_ "that," _ĉiu_ "all," etc. when used before a noun. 
-
-* Each participle is annotated with the appropriate tag according to its function in the sentence it appears, which may be revised in future.
-(To be continued)
 
 ### Features
 
@@ -80,13 +79,7 @@ _Faru eksperimenton, mi petas._ "Conduct an experiment, please."
 ---
 
 ## Syntax
-
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
+Standard deprels are used.
 
 ## Treebanks
 
