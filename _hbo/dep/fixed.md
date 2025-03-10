@@ -51,8 +51,6 @@ _And he said "Send me away, for the dawn has arisen." and he said "I will not se
 
 ## לאמר
 
-This is not `fixed` when it operates as a
-
 <!-- genesis 830 -->
 ~~~ conllu
 # sent_id = Masoretic-Genesis-30:24-hbo

@@ -81,11 +81,18 @@ The following MISC features are present:
 
 * `Gloss`
   * Currently taken from [the BHSA `gloss` feature](https://etcbc.github.io/bhsa/features/gloss/)
+* `LId[SDBH]`
+  * ID of the (mostly) disambiguated word in MARBLE's [Semantic Dictionary of Biblical Hebrew](https://marble.bible/dictionary)
+* `LId[Strongs]`
+  * Number of the word root in Strong's Concordance
+  * The values come from the [MACULA corpus](https://github.com/Clear-Bible/macula-hebrew), which assigns non-numeric values to function words (conjunctions, prefixed prepositions) which are not listed in the original concordance
 * `Ref`
   * The values are formatted as `BOOK_CHAPTER.VERSE`, e.g. `GEN_1.1`
   * The book abbreviations are listed below
 * `Ref[BHSA]`
   * The numeric ID of the word in the BHSA corpus
+* `Ref[MACULA]`
+  * The ID of the word in the [MACULA corpus](https://github.com/Clear-Bible/macula-hebrew)
 * `SpaceAfter=No`
 * `Translit`
   * The value of this field follows the [Library of Congress romanization standard](https://www.loc.gov/catdir/cpso/romanization/hebrew.pdf)
