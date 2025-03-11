@@ -113,7 +113,7 @@ In such cases the noun will instead be [obl]() or the predicate.
 # translit = ṿayhi ʼelohim ʼet hanaʻar ṿayigdal ṿayeshev bamidbar ṿayhi roveh ḳashat
 # visual-style 7 4 case color:green
 # visual-style 4 bgColor:green
-# visual-style 8 fgColor:white
+# visual-style 4 fgColor:white
 1-2	וַיְהִ֧י	_	_	_	_	_	_	_	_
 1	וַ	ו	CCONJ	conj	_	7	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_21.20|Ref[BHSA]=9975|Ref[MACULA]=o010210200011|Translit=ṿa
 2	יְהִ֧י	היה	AUX	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	Gloss=be|LId[Strongs]=1961|Ref=GEN_21.20|Ref[BHSA]=9976|Ref[MACULA]=o010210200012|Translit=yehi
