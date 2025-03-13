@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Assoc` is a boolean feature of nominals: [nouns](), [proper nouns](), and [pronouns](). It is also an inflectional feature of other parts of speech ([adjectives](), [determiners]()), and [adverbs]()) that mark agreement with the head nominals when they follow them, and of [numerals]() that may function as nominals. The feature tells whether the nominal appears in the associative plural form, which denotes constructions such as ‘X and such, X and others associated with X’. The associative plural is marked with the suffix _-hâ_. `Assoc` combines with either [Number]()=Dual or [Number]()=Plur
+In Khoekhoe, `Assoc` is a boolean feature of nominals: [nouns](naq-pos/NOUN), [proper nouns](naq-pos/PROPN), and [pronouns](naq-pos/PRON). It is also an inflectional feature of other parts of speech ([adjectives](naq-pos/ADJ), [determiners](naq-pos/ADV)), and [adverbs](naq-pos/DET)) that mark agreement with the head nominals when they follow them, and of [numerals](naq-pos/NUM) that may function as nominals. The feature tells whether the nominal appears in the associative plural form, which denotes constructions such as ‘X and such, X and others associated with X’. The associative plural is marked with the suffix _-hâ_. `Assoc` combines with either [Number](naq-feat/Number)=Dual or [Number](naq-feat/Number)=Plur
 
 ### <a name="Yes">`Yes`</a>: associative plural
 

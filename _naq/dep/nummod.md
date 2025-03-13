@@ -5,7 +5,7 @@ shortdef: 'numeric modifier'
 udver: '2'
 ---
 
-A numeric modifier of a noun is any [number]() phrase that serves to modify the meaning of the noun with a quantity.
+A numeric modifier of a noun is any [number](naq-pos/NUM) phrase that serves to modify the meaning of the noun with a quantity.
 
 ~~~ sdparse
 ǁîb ge koro khoega ge ǂgâu . \n He DECL five people PST hit .
@@ -19,7 +19,7 @@ nummod(khoega, 5)
 nummod(people, 5)
 ~~~
 
-Note that indefinite quantifiers such as _ǀoro_ "few", _ǂgui_ "many" are tagged [DET]() rather than [NUM](). Therefore their relation to the quantified noun is not `nummod` but [det]():
+Note that indefinite quantifiers such as _ǀoro_ "few", _ǂgui_ "many" are tagged [DET](naq-pos/DET) rather than [NUM](naq-pos/NUM). Therefore their relation to the quantified noun is not `nummod` but [det](naq-dep/det):
 
 ~~~ sdparse
 ǁîb ge ǂgui khoega ge ǂgâu . \n He DECL many people PST hit .

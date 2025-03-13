@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Case` is a feature of nominals: [nouns](), [proper nouns](), and [pronouns](). It is also an inflectional feature of other parts of speech ([adjectives](), [determiners]()) that agree with nominals when they follow them, and of [numerals]() that function as nominals (e.g., _ǀguis ge ge kō_ "one looked"). Also some nominal [adverbs]() (like _tsîn(a)_ "also", _on(a)_ "too") and the nominalizer _s_ (as [particle]() or [subordinate conjunction]()) have the [Case]() feature (only `Nom` and `Acc`) because they take the case of the whole noun phrase.
+In Khoekhoe, `Case` is a feature of nominals: [nouns](naq-pos/NOUN), [proper nouns](naq-pos/PROPN), and [pronouns](naq-pos/PRON). It is also an inflectional feature of other parts of speech ([adjectives](naq-pos/ADJ), [determiners](naq-pos/DET)) that agree with nominals when they follow them, and of [numerals](naq-pos/NUM) that function as nominals (e.g., _ǀguis ge ge kō_ "one looked"). Also some nominal [adverbs](naq-pos/ADV) (like _tsîn(a)_ "also", _on(a)_ "too") and the nominalizer _s_ (as [particle](naq-pos/PART) or [subordinate conjunction](naq-pos/SCONJ)) have the [Case](naq-feat/Case) feature (only `Nom` and `Acc`) because they take the case of the whole noun phrase.
 
 
 ### <a name="Nom">`Nom`</a>: direct

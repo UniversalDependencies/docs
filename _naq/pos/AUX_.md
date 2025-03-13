@@ -9,8 +9,8 @@ udver: '2'
 ### Definition
 
 An auxiliary is a function word that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as tense, mood, or aspect.
-It is sometimes a verb (_sī, mâ_). The class `AUX` also includes the copulas _a, i_, it does not include the copulas _hâ, ǀkhai_ [verbs]() in location and existence clauses, since they are used in the clause final position typically occupied by verbs and not by auxiliaries.
-Most modal verbs act similarly to regular verbs (e.g., _ǁkhā_ "be able" and _ǁoa_ "be unable"), thus they are tagged [VERB](). The exception is _moet/mut_ "must, have to", borrowed from Afrikaans, whereas it is a modal verb in Afrikaans, in Khoekhoe it always occurs in the auxiliary position, therefore it is tagged [AUX]().
+It is sometimes a verb (_sī, mâ_). The class `AUX` also includes the copulas _a, i_, it does not include the copulas _hâ, ǀkhai_ [verbs](naq-pos/VERB) in location and existence clauses, since they are used in the clause final position typically occupied by verbs and not by auxiliaries.
+Most modal verbs act similarly to regular verbs (e.g., _ǁkhā_ "be able" and _ǁoa_ "be unable"), thus they are tagged [VERB](naq-pos/VERB). The exception is _moet/mut_ "must, have to", borrowed from Afrikaans, whereas it is a modal verb in Afrikaans, in Khoekhoe it always occurs in the auxiliary position, therefore it is tagged [AUX](naq-pos/AUX).
 
 ### Examples
 

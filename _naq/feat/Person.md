@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Person` is a feature of nominals: [nouns](), [proper nouns](), and [pronouns](). It is also an inflectional feature of other parts of speech ([adjectives](), [determiners]()), and [adverbs]()) that mark agreement with nominals when they follow them, and of [numerals]() that may function as nominals (e.g., _ǀguis ge ge kō_ "one looked"). There are three values of person: 1, 2, and 3. Noun roots can be used with suffixes of different persons.
+In Khoekhoe, `Person` is a feature of nominals: [nouns](naq-pos/NOUN), [proper nouns](naq-pos/PROPN), and [pronouns](naq-pos/PRON). It is also an inflectional feature of other parts of speech ([adjectives](naq-pos/ADJ), [determiners](naq-pos/DET)), and [adverbs](naq-pos/ADV)) that mark agreement with nominals when they follow them, and of [numerals](naq-pos/NUM) that may function as nominals (e.g., _ǀguis ge ge kō_ "one looked"). There are three values of person: 1, 2, and 3. Noun roots can be used with suffixes of different persons.
 
 ### <a name="1">`1`</a>: first person
 

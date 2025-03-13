@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Clusivity` is a feature of the first-person plural personal [pronouns]().
+`Clusivity` is a feature of the first-person plural personal [pronouns](naq-pos/PRON).
 
 ### <a name="In">`In`</a>: inclusive
 

@@ -15,7 +15,7 @@ ccomp(Know, say)
 mark(say, NMLZ)
 ~~~
 
-If the subject of the clausal complement is obligatory controlled (that is, must be the same as the higher subject or object, with no other possible interpretation) the appropriate relation is [xcomp]().
+If the subject of the clausal complement is obligatory controlled (that is, must be the same as the higher subject or object, with no other possible interpretation) the appropriate relation is [xcomp](naq-dep/xcomp).
 
 ~~~ sdparse
 ǁîb ge ra mû khao da go sa . \n He DECL IPFV see dig we RPST NMLZ.OBL .

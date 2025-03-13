@@ -5,7 +5,7 @@ shortdef: 'adverbial modifier'
 udver: '2'
 ---
 
-An adverbial modifier of a word is a (non-clausal) [adverb]() or adverbial phrase that serves to modify a predicate, a modifier word, or a nominal.
+An adverbial modifier of a word is a (non-clausal) [adverb](naq-pos/ADV) or adverbial phrase that serves to modify a predicate, a modifier word, or a nominal.
 
 ~~~ sdparse
 Sida ge nētsē ama gawuxa-ai tsēsa ūhâ . \n We DECL today really cloudy day have .

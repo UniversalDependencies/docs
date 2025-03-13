@@ -19,7 +19,7 @@ det(gârekhoeba, Mâ)
 det(fool-OBL, Which)
 ~~~
 
-Most commonly, a word of POS DET will have the relation `det` and vice versa. The exception in Khoekhoe are possessive determiners _ti_ "my" and _sa_ "your (sing.)", they are given the [DET]() POS tag and the [nmod:poss](), so that it is parallel with other possessive constructions relation.
+Most commonly, a word of POS DET will have the relation `det` and vice versa. The exception in Khoekhoe are possessive determiners _ti_ "my" and _sa_ "your (sing.)", they are given the [DET](naq-pos/DET) POS tag and the [nmod:poss](naq-dep/nmod-poss), so that it is parallel with other possessive constructions relation.
 
 ~~~sdparse
 Ti ǃomdi ge petrol-i khami ra ham . \n My hands DECL gasoline like IPFV smell .

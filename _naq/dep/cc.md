@@ -39,7 +39,7 @@ cc(3F.DU.SBJ, and-15)
 conj(Mara, 3F.DU)
 ~~~
 
-A coordinating conjunction may also appear at the beginning of a sentence. This is also attached as `cc`, even though the sentence lacks multiple conjuncts joined with a [conj]() relation.
+A coordinating conjunction may also appear at the beginning of a sentence. This is also attached as `cc`, even though the sentence lacks multiple conjuncts joined with a [conj](naq-dep/conj) relation.
 
 ~~~ sdparse
 Tsî nēs ge ǀgui mîǁguiba . \n And this DECL one claim .

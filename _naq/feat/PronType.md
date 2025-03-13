@@ -18,12 +18,12 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, PronType is a feature of [pronouns](), [determiners]() and pronominal [adverbs]()
+In Khoekhoe, PronType is a feature of [pronouns](naq-pos/PRON), [determiners](naq-pos/DET) and pronominal [adverbs](naq-pos/ADV)
 
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
-See also the [Poss](https://universaldependencies.org/cs/feat/Poss.html) feature that distinguishes normal personal pronouns from possessives. Note that it is not a full list, since the paradigms of personal and possessive pronouns is more extensive. Please see [Case](), [Gender](), [Number](), and [Person]() features.
+See also the [Poss](https://universaldependencies.org/cs/feat/Poss.html) feature that distinguishes normal personal pronouns from possessives. Note that it is not a full list, since the paradigms of personal and possessive pronouns is more extensive. Please see [Case](naq-feat/Case), [Gender](naq-feat/Gender), [Number](naq-feat/Number), and [Person](naq-feat/Person) features.
 
 #### Examples
 
@@ -118,7 +118,7 @@ Note that it is not a full list.
 
 ### <a name="Neg">`Neg`</a>: Negative determiner
 
-Negative pronominal words are distinguished from negating particle and auxiliaries (_tama_, _tita_, etc.). Those words do not use **PronType=Neg**, they use **Polarity=Neg** instead. See the [Polarity]() feature for further details.
+Negative pronominal words are distinguished from negating particle and auxiliaries (_tama_, _tita_, etc.). Those words do not use **PronType=Neg**, they use **Polarity=Neg** instead. See the [Polarity](naq-feat/Polarity) feature for further details.
 
 #### Examples
 

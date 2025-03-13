@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature of [pronouns]() and [determiners](). It tells whether the word is possessive.
+Boolean feature of [pronouns](naq-pos/PRON) and [determiners](naq-pos/DET). It tells whether the word is possessive.
 
 
 ### <a name="Yes">`Yes`</a>: it is possessive

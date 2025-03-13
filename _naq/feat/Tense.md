@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Tense` is a feature of [auxiliaries](). It specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.
+In Khoekhoe, `Tense` is a feature of [auxiliaries](naq-pos/AUX). It specifies the time when the action took / takes / will take place, in relation to the current moment or to another action in the utterance.
 
 
 ### <a name="Pres">`Pres`</a>: present tense

@@ -18,7 +18,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Mood` is a feature of [auxiliaries]().
+In Khoekhoe, `Mood` is a feature of [auxiliaries](naq-pos/AUX_).
 
 
 ### <a name="Ind">`Ind`</a>: declarative
