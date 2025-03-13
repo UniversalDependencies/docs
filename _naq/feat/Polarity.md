@@ -17,13 +17,13 @@ udver: '2'
 
 In Khoekhoe, it pertains to only four types of words:
 
-* the negative [particle](naq-pos/PART) _tama_
+* the negative [particle]() _tama_
 
-* the negative future [auxiliary](naq-pos/AUX) _tite_
+* the negative future [auxiliary]() _tite_
 
-* the negative [interjections](naq-pos/INTJ) _hî-î, nee_
+* the negative [interjections]() _hî-î, nee_
 
-* the positive [interjections](naq-pos/INTJ) _ā, î, ja_.
+* the positive [interjections]() _ā, î, ja_.
 
 ### <a name="Pos">`Pos`</a>: positive, affirmative
 

@@ -5,7 +5,7 @@ shortdef: 'oblique nominal'
 udver: '2'
 ---
 
-The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct. This means that it functionally corresponds to an adverbial attaching to a verb, adjective or other adverb. In most cases, the oblique nominal is followed by a [postposition](naq-pos/ADP).
+The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct. This means that it functionally corresponds to an adverbial attaching to a verb, adjective or other adverb. In most cases, the oblique nominal is followed by a [postposition]().
 
 ~~~ sdparse 
 Petrub ge oms ǃnâ go ǂgâ . \n Petru DECL house in RPST enter .
@@ -15,7 +15,7 @@ obl(enter, house)
 case(house, in)
 ~~~
 
-The oblique nominal representing the agent of a passive verb is noted with the subtype [obl:agent](naq-dep/obl-agent).
+The oblique nominal representing the agent of a passive verb is noted with the subtype [obl:agent]().
 
 ~~~ sdparse
 Petrub ge Marias xa ge mîǁamhe . \n Petru DECL Maria by PST be_offended .

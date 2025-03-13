@@ -7,7 +7,7 @@ udver: '2'
 
 ### Definition
 
-Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g. [adpositions](naq-pos/ADP), [coordinating conjunctions](naq-pos/CCONJ), [subordinating conjunctions](naq-pos/SCONJ) or [auxiliary verbs](naq-pos/AUX)). Particles may encode grammatical categories such as negation. In Khoekhoe particles are not inflected.
+Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g. [adpositions](), [coordinating conjunctions](), [subordinating conjunctions]() or [auxiliary verbs]()). Particles may encode grammatical categories such as negation. In Khoekhoe particles are not inflected.
 
 ### Examples
 

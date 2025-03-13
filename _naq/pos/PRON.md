@@ -7,11 +7,11 @@ udver: '2'
 
 ### Definition
 
-Pronouns are words that substitute for [nouns](naq-pos/NOUN) or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Pronouns under this definition function like nouns.
+Pronouns are words that substitute for [nouns]() or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Pronouns under this definition function like nouns.
 
 ### Personal pronouns
 
-These are [PronType](naq-feat/PronType)=`Prs`.
+These are [PronType]()=`Prs`.
 
 They are used either in the full form (without a dash, except for _ǁî-i_), or only the second part (e.g. _ta, ts_). Only the second part is used as the subject person-gender-number marker, as well as in possessive noun phrase, etc.
 
@@ -31,7 +31,7 @@ The nominative case is written outside of the brackets, whereas the accusative (
 
 #### Object markers
 
-These also are [PronType](naq-feat/PronType)=`Prs`. This version is usually used directly following the verb and representing a direct/indirect object.
+These also are [PronType]()=`Prs`. This version is usually used directly following the verb and representing a direct/indirect object.
 
 | Number   | Gender/Person | 1 exclusive | 1 inclusive | 2   | 3     |
 | ---      | ---           | ---         | ---         | --- | ---   |
@@ -48,20 +48,20 @@ These also are [PronType](naq-feat/PronType)=`Prs`. This version is usually used
 
 ### (Associative) possessive pronouns
 
-These are also annotated with [PronType](naq-feat/PronType)=`Prs`. The form consists of _â_ + the second part of personal pronouns, e.g. _âta_ "my", _âb_ "his".
+These are also annotated with [PronType]()=`Prs`. The form consists of _â_ + the second part of personal pronouns, e.g. _âta_ "my", _âb_ "his".
 
 ### Interrogative pronouns
 
-These are annotated with [PronType](naq-feat/PronType)=`Int`. The form consists of one of the following as the first part _tari_ "who", _ham_ "who", _tare_ "what", _mâ_ "what", and the second part of personal pronouns, e.g. _taris_ "who", _mân_ "which one of them".
+These are annotated with [PronType]()=`Int`. The form consists of one of the following as the first part _tari_ "who", _ham_ "who", _tare_ "what", _mâ_ "what", and the second part of personal pronouns, e.g. _taris_ "who", _mân_ "which one of them".
 
 ### Relative pronouns
 
-These are annotated with [PronType](naq-feat/PronType)=`Rel`. The form consists of the second part of personal pronouns, e.g. _ta, b_.
+These are annotated with [PronType]()=`Rel`. The form consists of the second part of personal pronouns, e.g. _ta, b_.
 
 ### Demonstrative pronouns
 
-Annotated with [PronType](naq-feat/PronType)=`Dem`. Their form is _nē_ "this", _ǁnā_ "that", or _nau_ "that (the other one)" and the second part of a personal pronoun. For example, _nē-i_ "this one", _ǁnān_ "those ones", _naub_ "the other one".
+Annotated with [PronType]()=`Dem`. Their form is _nē_ "this", _ǁnā_ "that", or _nau_ "that (the other one)" and the second part of a personal pronoun. For example, _nē-i_ "this one", _ǁnān_ "those ones", _naub_ "the other one".
 
 ### Total pronouns
 
-Annotated with [PronType](naq-feat/PronType)=`Tot`. They form consists of _hoa_ "all" and the second part of personal pronouns, e.g. _hoagu_ "all of them", _hoab_ "the whole of him".
+Annotated with [PronType]()=`Tot`. They form consists of _hoa_ "all" and the second part of personal pronouns, e.g. _hoagu_ "all of them", _hoab_ "the whole of him".

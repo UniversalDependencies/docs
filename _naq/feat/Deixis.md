@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Deixis` is a feature of [determiners](naq-pos/DET), [pronouns](naq-pos/PRON), and [adverbs](naq-pos/ADV).
+In Khoekhoe, `Deixis` is a feature of [determiners](), [pronouns](), and [adverbs]().
 
 ### <a name="Prox">`Prox`</a>: proximate
 

@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Number` is a feature of nominals: [nouns](naq-pos/NOUN), [proper nouns](naq-pos/PROPN), and [pronouns](naq-pos/PRON). It is also an inflectional feature of other parts of speech ([adjectives](naq-pos/ADJ), [determiners](naq-pos/ADV)), and [adverbs](naq-pos/DET)) that mark agreement with nominals when they follow them, and of [numerals](naq-pos/NUM) when they function as nominals (e.g., _ǀguis ge ge kō_ "one looked").
+In Khoekhoe, `Number` is a feature of nominals: [nouns](), [proper nouns](), and [pronouns](). It is also an inflectional feature of other parts of speech ([adjectives](), [determiners]()), and [adverbs]()) that mark agreement with nominals when they follow them, and of [numerals]() when they function as nominals (e.g., _ǀguis ge ge kō_ "one looked").
 
 ### <a name="Sing">`Sing`</a>: singular number
 

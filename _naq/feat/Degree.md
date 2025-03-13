@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-In Khoekhoe, `Degree` is the feature of [nouns](naq-pos/NOUN), [adjectives](naq-pos/ADJ), and [verbs](naq-pos/VERB). The only value is diminutive.
+In Khoekhoe, `Degree` is the feature of [nouns](), [adjectives](), and [verbs](). The only value is diminutive.
 
 
 ### <a name="Dim">`Dim`</a>: diminutive

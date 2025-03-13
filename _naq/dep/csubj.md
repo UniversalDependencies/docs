@@ -39,5 +39,5 @@ mark(see-15, NMLZ.OBL)
 punct(see-15, .-17)
 ~~~
 
-The [csubj:pass](naq-dep/csubj-pass) relation subtype is used for the clausal subject of a passive verb. If the subject is of a copular clause whose predicate is itself a clause, [csubj:outer](naq-dep/csubj-outer) is used.
+The [csubj:pass]() relation subtype is used for the clausal subject of a passive verb. If the subject is of a copular clause whose predicate is itself a clause, [csubj:outer]() is used.
 

@@ -5,7 +5,7 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-`acl` stands for clauses that modify a nominal. The acl relation contrasts with the [advcl](naq-dep/advcl) relation, which is used for adverbial clauses that modify a predicate. The head of the `acl` relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.
+`acl` stands for clauses that modify a nominal. The acl relation contrasts with the [advcl]() relation, which is used for adverbial clauses that modify a predicate. The head of the `acl` relation is the noun that is modified, and the dependent is the head of the clause that modifies the noun.
 
 ~~~ sdparse
 Kō re mati n ta ǃkhoema ǀgausa . \n Look PDIR how they IPFV run way .

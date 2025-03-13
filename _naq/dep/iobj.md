@@ -5,7 +5,7 @@ shortdef: 'indirect object'
 udver: '2'
 ---
 
-The indirect object of a verb is any nominal phrase that is a core argument of the verb but is not its subject or [direct object](naq-dep/obj). The prototypical example is the recipient of ditransitive verbs of transfer. In Khoekhoe direct and indirect objects are marked identically (with the oblique _-a_).
+The indirect object of a verb is any nominal phrase that is a core argument of the verb but is not its subject or [direct object](). The prototypical example is the recipient of ditransitive verbs of transfer. In Khoekhoe direct and indirect objects are marked identically (with the oblique _-a_).
 
 ~~~ sdparse
 Tita ge ǂō-e ǁîba gere mā . \n I DECL salt him PST.IPFV give .
@@ -25,9 +25,9 @@ When verbs occur with one object, it is `iobj` if:
 
     * Another, more patient-like object may be inserted into the clause without affecting the morphosyntax of the object in question
     
-    * The verb licenses the object in combination with a [ccomp](naq-dep/ccomp) (the [ccomp](naq-dep/ccomp) may be analyzed as taking the place of an [obj](naq-dep/obj))
+    * The verb licenses the object in combination with a [ccomp]() (the [ccomp]() may be analyzed as taking the place of an [obj]())
     
-For example, the verb _ǁkhāǁkhā_ "teach" may occur with [obj](naq-dep/obj), `iobj`, or both:
+For example, the verb _ǁkhāǁkhā_ "teach" may occur with [obj](), `iobj`, or both:
 
 ~~~ sdparse
 ǁîb ge ǁîna ǁuisâuǁkhāsiba ra ǁkhāǁkhā . \n He DECL them economics IPFV teach .
@@ -58,7 +58,7 @@ iobj(teach, them)
 ~~~
 
 
-For the indirect object of verb with applicative voice is used [iobj:appl](naq-dep/iobj-appl) sub-relation.
+For the indirect object of verb with applicative voice is used [iobj:appl]() sub-relation.
 
 ~~~ sdparse
 ǁGuiǃāba te re . \n Explain_for me IPFV .

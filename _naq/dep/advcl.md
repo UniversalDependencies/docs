@@ -5,7 +5,7 @@ shortdef: 'adverbial clause modifier'
 udver: '2'
 ---
 
-An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.). This includes structures such as an adverbial clause of manner, temporal clause, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an [advmod](naq-dep/advmod)) and the dependent is the main predicate of the clause.
+An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.). This includes structures such as an adverbial clause of manner, temporal clause, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
 
 ~~~ sdparse
 Sats ge amase ǂhanihe se tsâ tama hâ . \n You DECL really be_bothered like feel not PFV .

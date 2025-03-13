@@ -9,7 +9,7 @@ udver: '2'
 
 Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
 
-The `NOUN` tag is intended for common nouns only. See [PROPN](naq-pos/PROPN) for proper nouns and [PRON](naq-pos/PRON) for pronouns.
+The `NOUN` tag is intended for common nouns only. See [PROPN]() for proper nouns and [PRON]() for pronouns.
 
 ### Examples
 
