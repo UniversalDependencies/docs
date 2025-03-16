@@ -4,7 +4,7 @@ title:  'Turkish English UD'
 udver: '2'
 ---
 
-# UD for Turkish English <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
+# UD for Turkish-English <span class="flagspan"><img class="flag" src="../../flags/svg/TR.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
