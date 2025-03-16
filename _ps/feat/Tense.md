@@ -102,7 +102,7 @@ Overview of the past endings:
 </tr>
 <tr>
   <td align="middle"><b>3</b></td>
-  <td align="middle">- ë</td>
+  <td align="middle">ۀ ë<br/>- -</td>
   <td align="middle">له ëla</td>
   <td align="middle">لۀ ëlë<br/>ل ël</td>
   <td align="middle">لې ële</td>
