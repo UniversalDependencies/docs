@@ -75,16 +75,17 @@ Personal pronouns for the first and the second person and reflexive personal pro
 </table>
 ** Instead of a genitive form of the reflexive pronoun ځان <i>żân</i>, the reflexive possessive خپل <i>xpël</i> is used instead, which declines like common adjectives in agreement with the possessed object.
 
-The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person, i.e. it is used for all three persons).
+The reflexive pronouns ځان _żân_ and ځانونه _żânúna_ are used for refering to the subject regardless of the person (i.e. it is used for all three persons).
 
 Instead of the genitive forms, the preposition د <i>dë</i> followed by the oblique case can be used, although the genitive forms are more frequent.
+The genitive forms are actually developed from the prepositional construction.
 
 #### Examples
 
 
 ------------
 
-Personal pronouns for the third person vary depending on deixis, with the proximate series having a long and a short variant:
+Personal pronouns for the third person vary depending on deixis:
 
 <table class="typeindex" border="1">
 <tr>
@@ -93,8 +94,6 @@ Personal pronouns for the third person vary depending on deixis, with the proxim
   <td align="middle", colspan=3><b>remote</b></td>
   <td align="middle"></td>
   <td align="middle", colspan=3><b>proximate</b></td>
-  <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate<br/>short variant</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -106,16 +105,8 @@ Personal pronouns for the third person vary depending on deixis, with the proxim
   <td align="middle"><b>M SG</b><br/><i>he, him</i></td>
   <td align="middle"><b>F SG</b><br/><i>she, her</i></td>
   <td align="middle"><b>PL</b><br/><i>they, them</i></td>
-  <td align="middle"></td>
-  <td align="middle"><b>M SG</b><br/><i>he, him</i></td>
-  <td align="middle"><b>F SG</b><br/><i>she, her</i></td>
-  <td align="middle"><b>PL</b><br/><i>they, them</i></td>
 </tr>
 <tr>
-  <td align="middle"></td>
-  <td align="middle"></td>
-  <td align="middle"></td>
-  <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle"></td>
@@ -134,9 +125,6 @@ Personal pronouns for the third person vary depending on deixis, with the proxim
   <td align="middle", colspan=2>هغه haġá</td>
   <td align="middle", rowspan=2>هغوى haġúy</td>
   <td align="middle"></td>
-  <td align="middle", colspan=2>دغه daġá</td>
-  <td align="middle", rowspan=2>دغوى daġúy</td>
-  <td align="middle"></td>
   <td align="middle">دی day</td>
   <td align="middle">دا dâ</td>
   <td align="middle", rowspan=2>دوی duy</td>
@@ -151,16 +139,11 @@ Personal pronouns for the third person vary depending on deixis, with the proxim
   <td align="middle">هغۀ haġë́</td>
   <td align="middle">هغې haġé</td>
   <td align="middle"></td>
-  <td align="middle">دغۀ daġë́</td>
-  <td align="middle">دغې daġé</td>
-  <td align="middle"></td>
   <td align="middle">دۀ dë</td>
   <td align="middle">دې de</td>
 </tr>
 <tr>
   <td align="left"><b>Genitive</b></td>
-  <td align="middle"></td>
-  <td align="middle", colspan=3></td>
   <td align="middle"></td>
   <td align="middle", colspan=3></td>
   <td align="middle"></td>
@@ -170,7 +153,10 @@ Personal pronouns for the third person vary depending on deixis, with the proxim
 </tr>
 </table>
 Unlike for the first and the second person, the genitive forms are less frequent than the construction with the preposition د <i>dë</i> followed by the oblique case.
-The remote and the long proximate series miss separate genitive forms at all, using only the prepositional construction for expressing possession.
+The remote series lacks separate genitive forms at all, using only the prepositional construction for expressing possession.
+
+Unlike demonstrative pronouns, the personal third person pronouns lack the long variant of proximate series (see below).
+The remote series is stressed on the second syllable, not on the first one like its demonstrative counterpart.
 
 #### Examples
 
@@ -227,15 +213,20 @@ They are also used as prefixes of many motion verbs, where they express the dire
 
 ### <a name="Dem">`Dem`</a>: demonstrative
 
+The demonstrative pronouns distinguish the deixis, like the third person personal pronouns.
+However, there are two series of proximate pronouns: long and short.
+The short one is the obvious counterpart of the personal series, while the long series is unique to demonstrative pronouns.
+The long proximate pronouns bear the feature `Variant=Long`.
+
 <table class="typeindex" border="1">
 <tr>
   <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle", colspan=3><b>remote</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate</b></td>
+  <td align="middle", colspan=3><b>proximate<br/>long variant</b></td>
   <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate<br/>short variant</b></td>
+  <td align="middle", colspan=3><b>proximate</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -248,13 +239,9 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle"><i>this (f)</i></td>
   <td align="middle"><i>these</i></td>
   <td align="middle"></td>
-  <td align="middle"><i>this (m)</i></td>
-  <td align="middle"><i>this (f)</i></td>
-  <td align="middle"><i>these</i></td>
+  <td align="middle"><i>this/these</i></td>
 </tr>
 <tr>
-  <td align="middle"></td>
-  <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle"></td>
@@ -276,7 +263,7 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle"></td>
   <td align="middle", colspan=3>دغه dáġa</td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>دا dâ</td>
+  <td align="middle">دا dâ</td>
 </tr>
 <tr>
   <td align="left">
@@ -293,10 +280,11 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle">دغې dáġe</td>
   <td align="middle">دغو dáġo</td>
   <td align="middle"></td>
-  <td align="middle", colspan=2>دې de</td>
-  <td align="middle">دو do</td>
+  <td align="middle">دې de</td>
 </tr>
 </table>
+
+The remote series is stressed on the first syllable, not on the second one like its demonstrative counterpart.
 
 
 <table class="typeindex" border="1">
@@ -305,9 +293,9 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle"></td>
   <td align="middle", colspan=3><b>remote</b></td>
   <td align="middle"></td>
+  <td align="middle", colspan=3><b>proximate<br/>long variant</b></td>
+  <td align="middle"></td>
   <td align="middle", colspan=3><b>proximate</b></td>
-  <td align="middle"></td>
-  <td align="middle", colspan=3><b>proximate<br/>short variant</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -320,13 +308,9 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle"><i>same (f-sg)</i></td>
   <td align="middle"><i>same (pl)</i></td>
   <td align="middle"></td>
-  <td align="middle"><i>same (m-sg)</i></td>
-  <td align="middle"><i>same (f-sg)</i></td>
-  <td align="middle"><i>same (pl)</i></td>
+  <td align="middle"><i>same</i></td>
 </tr>
 <tr>
-  <td align="middle"></td>
-  <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle"></td>
   <td align="middle"></td>
@@ -348,7 +332,7 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle"></td>
   <td align="middle", colspan=3>همدغه hamdáġa</td>
   <td align="middle"></td>
-  <td align="middle", colspan=3>همدا hamdâ</td>
+  <td align="middle">همدا hamdâ</td>
 </tr>
 <tr>
   <td align="left">
@@ -365,9 +349,7 @@ They are also used as prefixes of many motion verbs, where they express the dire
   <td align="middle">همدغې hamdáġe</td>
   <td align="middle">همدغو hamdáġo</td>
   <td align="middle"></td>
-  <td align="middle">همدۀ hamdë́</td>
   <td align="middle">همدې hamdé</td>
-  <td align="middle">همدو hamdó</td>
 </tr>
 </table>
 
@@ -376,8 +358,8 @@ They are also used as prefixes of many motion verbs, where they express the dire
 <tr>
   <td align="middle"></td>
   <td align="middle"><b>remote</b></td>
+  <td align="middle"><b>proximate<br/>long variant</b></td>
   <td align="middle"><b>proximate</b></td>
-  <td align="middle"><b>proximate<br/>short variant</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
@@ -399,8 +381,8 @@ They are also used as prefixes of many motion verbs, where they express the dire
 <tr>
   <td align="middle"></td>
   <td align="middle"><b>remote</b></td>
+  <td align="middle"><b>proximate<br/>long variant</b></td>
   <td align="middle"><b>proximate</b></td>
-  <td align="middle"><b>proximate<br/>short variant</b></td>
 </tr>
 <tr>
   <td align="middle"></td>
