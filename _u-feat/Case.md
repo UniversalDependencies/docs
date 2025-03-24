@@ -9,10 +9,10 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td style="background-color:cornflowerblue;color:white"><strong>Core:</strong> </td>
-  <td colspan="5" align="center"><a href="#Abs">Abs</a></td>
-  <td colspan="4" align="center"><a href="#Acc">Acc</a></td>
-  <td colspan="4" align="center"><a href="#Erg">Erg</a></td>
-  <td colspan="5" align="center"><a href="#Nom">Nom</a></td>
+  <td align="center"><a href="#Abs">Abs</a></td>
+  <td align="center"><a href="#Acc">Acc</a></td>
+  <td align="center"><a href="#Erg">Erg</a></td>
+  <td align="center"><a href="#Nom">Nom</a></td>
 </tr>
 <tr>
   <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Non-core:</strong> </td>
@@ -29,8 +29,8 @@ udver: '2'
   <td><a href="#Ins">Ins</a></td>
   <td><a href="#Par">Par</a></td>
   <td><a href="#Tem">Tem</a></td>
-  <td colspan="2"><a href="#Tra">Tra</a></td>
-  <td colspan="3"><a href="#Voc">Voc</a></td>
+  <td><a href="#Tra">Tra</a></td>
+  <td><a href="#Voc">Voc</a></td>
 </tr>
 <tr>
   <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Local:</strong> </td>
