@@ -91,6 +91,7 @@ The OSSC or Stative tended to lose its personal endings, and it was used in the 
 ### Language-specific Features
 
 * [VerbClass]()
+* [Nominal]()
 
 
 ## Syntax
