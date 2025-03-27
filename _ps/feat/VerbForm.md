@@ -15,8 +15,8 @@ udver: '2'
 </tr>
 </table>
 
-Verb form is an inflectional feature of verbs.
-There are three values of verb forms: finite, infinitive and participle.
+Verb form is an inflectional feature of verbs and verbal nouns.
+It classifies the form to several most general types of verb forms.
 
 
 ### <a name="Fin">`Fin`</a>: finite verb
