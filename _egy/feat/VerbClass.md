@@ -27,10 +27,12 @@ udver: '2'
   <td><a href="#Caus3aeinf">Caus3aeinf</a></td>
   <td><a href="#Caus2aered">Caus2aered</a></td>
   <td><a href="#Caus2aered">Caus3aered</a></td>
+  <td><a href="#def">def</a></td>
+  <td><a href="#anom">anom</a></td>
 </tr>
 </table>
 
-There are verbs with 1 to 6 radicals (Schenkel 2012: 183). If all radicals are strong, the abbreviation _lit_ (literal) is used, for example _č̣ṭ_ “say” is a 2-lit. verb. If the last radical is weak, the abbreviation _inf_ (infirma i.e. weak) is used, for example _mri̯_ “love” is a 3ae-inf verb. Verbs with a reduplicated radical are labelled with the abbreviation _red_ (reduplicata) and causative verbs with the abbreviation _caus_.
+There are verbs with 1 to 6 radicals (Schenkel 2012: 183). If all radicals are strong, the abbreviation _lit_ (literal) is used, for example _č̣ṭ_ “say” is a 2-lit. verb. If the last radical is weak, the abbreviation _inf_ (infirma i.e. weak) is used, for example _mri̯_ “love” is a 3ae-inf verb. Verbs with a reduplicated radical are labelled with the abbreviation _red_ (reduplicata) and causative verbs with the abbreviation _caus_. Finally, there are defective verbs (_def_) which occur in one or two forms, and anomalous verbs (_anom_) which are used irregularly compared to other verbs of their class.
 
 ### <a name="2lit">`2lit`</a>: verb with 2 radicals, both strong
 
