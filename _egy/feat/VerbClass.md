@@ -28,8 +28,8 @@ udver: '2'
   <td><a href="#Caus4aeinf">Caus4aeinf</a></td>
   <td><a href="#Caus2aered">Caus2aered</a></td>
   <td><a href="#Caus3aered">Caus3aered</a></td>
-  <td><a href="#def">def</a></td>
-  <td><a href="#anom">anom</a></td>
+  <td><a href="#Def">Def</a></td>
+  <td><a href="#Anom">Anom</a></td>
 </tr>
 </table>
 
@@ -156,13 +156,13 @@ There are verbs with 1 to 6 radicals (Schenkel 2012: 183). If all radicals are s
 
 * _<b>ś:bꜣḳḳ</b>_ “commend” (the verb bꜣḳḳ is unattested)
 
-### <a name="def">`def`</a>: a verb used in one or two forms
+### <a name="Def">`Def`</a>: a verb used in one or two forms
 
 #### Example
 
 * _<b>ꞽ</b>_ “say” (this verb only occurs in the past śč̣m.n ⸗f and in the Old Semitic suffix conjugation (also called "pseudoparticiple")
 
-### <a name="anom">`anom`</a>: a verb used irregularly compared to other verbs of their class
+### <a name="Anom">`Anom`</a>: a verb used irregularly compared to other verbs of their class
 
 #### Example
 
