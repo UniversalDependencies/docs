@@ -48,4 +48,16 @@ There are verbs with 1 to 6 radicals (Schenkel 2012: 183). If all radicals are s
 
 ### <a name="5aeinf">`5aeinf`</a>: verb with 5 radicals, the last one weak
 
+### <a name="2aered">`2aered`</a>: verb with 2 radicals, one reduplicated
+
+### <a name="3aered">`3aered`</a>: verb with 3 radicals, one reduplicated
+
+### <a name="Caus2lit">`Caus2lit`</a>: causative verb with 2 radicals, both strong
+
+### <a name="Caus3lit">`Caus3lit`</a>: causative verb with 3 radicals, all strong
+
+### <a name="Caus3aeinf">`Caus3aeinf`</a>: causative verb with 3 radicals, the last one weak
+
+### <a name="Caus2aered">`Caus2aered`</a>: causative verb with 2 radicals, one reduplicated
+
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
