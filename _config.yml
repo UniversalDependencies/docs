@@ -491,6 +491,8 @@ collections:
     output: true
   qti:
     output: true
+  nmf:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
