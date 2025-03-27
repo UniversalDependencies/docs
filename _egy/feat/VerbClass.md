@@ -8,19 +8,25 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#1lit">1lit</a></td>
   <td><a href="#2lit">2lit</a></td>
   <td><a href="#3lit">3lit</a></td>
   <td><a href="#4lit">4lit</a></td>
   <td><a href="#5lit">5lit</a></td>
+  <td><a href="#6lit">6lit</a></td>
   <td><a href="#2aeinf">2aeinf</a></td>
   <td><a href="#3aeinf">3aeinf</a></td>
+  <td><a href="#4aeinf">4aeinf</a></td>
   <td><a href="#5aeinf">5aeinf</a></td>
   <td><a href="#2aered">2aered</a></td>
   <td><a href="#3aered">3aered</a></td>
   <td><a href="#Caus2lit">Caus2lit</a></td>
   <td><a href="#Caus3lit">Caus3lit</a></td>
+  <td><a href="#Caus4lit">Caus3lit</a></td>
+  <td><a href="#Caus5lit">Caus3lit</a></td>
   <td><a href="#Caus3aeinf">Caus3aeinf</a></td>
   <td><a href="#Caus2aered">Caus2aered</a></td>
+  <td><a href="#Caus2aered">Caus3aered</a></td>
 </tr>
 </table>
 
