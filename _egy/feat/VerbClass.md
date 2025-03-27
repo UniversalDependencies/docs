@@ -32,10 +32,20 @@ There are verbs with 1 to 6 radicals (Schenkel 2012: 183). If all radicals are s
 
 * _<b>č̣ṭ</b>_ “say”
 
+### <a name="3lit">`3lit`</a>: verb with 3 radicals, all strong
+
+### <a name="4lit">`4lit`</a>: verb with 4 radicals, all strong
+
+### <a name="5lit">`5lit`</a>: verb with 5 radicals, all strong
+
+### <a name="2aeinf">`2aeinf`</a>: verb with 2 radicals, the last one weak
+
 ### <a name="3aeinf">`3aeinf`</a>: verb with 3 radicals, the last one weak
 
 #### Examples
 
 * _<b>mri̯</b>_ “love”
+
+### <a name="5aeinf">`5aeinf`</a>: verb with 5 radicals, the last one weak
 
 <!-- Interlanguage links updated Po 11. listopadu 2024, 20:10:10 CET -->
