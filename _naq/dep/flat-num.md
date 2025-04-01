@@ -9,13 +9,13 @@ The `flat:num` subtype of the `flat` relation is used to connect parts of a mult
 
 ~~~ sdparse
 ǀguiǀoadīsi khoesekaidīsi tsî hakadīsi ǀguiǀaǁî kuri \n one_thousand nine_hundred and forty one year
-flat(ǀguiǀoadīsi, khoesekaidīsi)
-flat(hakadīsi, ǀguiǀaǁî)
+flat:num(ǀguiǀoadīsi, khoesekaidīsi)
+flat:num(hakadīsi, ǀguiǀaǁî)
 cc(hakadīsi, tsî)
 conj(ǀguiǀoadīsi, hakadīsi)
 nummod(ǀguiǀoadīsi, kuri)
-flat(one_thousand, nine_hundred)
-flat(forty, one)
+flat:num(one_thousand, nine_hundred)
+flat:num(forty, one)
 cc(forty, and)
 conj(one_thousand, forty)
 nummod(one_thousand, year)

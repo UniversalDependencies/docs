@@ -9,7 +9,7 @@ The `flat:title` subtype of the `flat` relation is used to connect a title or a 
 
 ~~~ sdparse
 ǃgôahesatse Donovan \n Mr. Donavan
-flat:title(ǃGôahesatse, Donovan)
+flat:title(ǃgôahesatse, Donovan)
 flat:title(Mr., Donavan)
 ~~~
 
