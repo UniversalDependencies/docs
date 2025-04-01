@@ -77,5 +77,12 @@ The desiderative mood corresponds to the English modal “would like to”. In S
 
 * _Miszu mazohn nahndi electric chairnahn phathohn <b>tha</b> reganan laha_ "Everybody else **has an interest** in sending you to the electric chair."
 
+### <a name="Jus">`Jus`</a>: jussive
+
+<!-- TODO -->
+
+#### Examples
+
+<!-- TODO -->
 
 %todo; check table and labels, remove jussive?
