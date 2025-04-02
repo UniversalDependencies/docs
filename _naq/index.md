@@ -96,7 +96,7 @@ udver: '2'
 
 #### Verbal features
 
-* [VERB](naq-pos/VERB) may have the [Voice](naq-feat/Voice) (`Act`, `Appl`, `ApplPass`, `ApplRcp`, `ApplRefl`, `Pass`, `Rcp`, `Refl`) feature.
+* [VERB](naq-pos/VERB) may have the [Voice](naq-feat/Voice) (`Act`, `Appl`, `ApplPass`, `ApplRcp`, `ApplRfl`, `Pass`, `Rcp`, `Rfl`) feature.
 
 * [AUX](naq-pos/AUX) has one or more of the following features: [Aspect](naq-feat/Aspect) (`Imp`, `Perf`, `Punct`), [Evident](naq-feat/Evident) (`Nfh`), [Mood](naq-feat/Mood) (`App`, `Ass`, `Imp`, `Ind`, `Int`, `Pot`, `Prh`), and [Tense](naq-feat/Tense) (`Fut`, `Past`, `Pres`, `RecPast`).
 

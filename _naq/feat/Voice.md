@@ -12,10 +12,10 @@ udver: '2'
   <td><a href="#Appl">Appl</a></td>
   <td><a href="#ApplPass">ApplPass</a></td>
   <td><a href="#ApplRcp">ApplRcp</a></td>
-  <td><a href="#ApplRefl">ApplRefl</a></td>
+  <td><a href="#ApplRfl">ApplRfl</a></td>
   <td><a href="#Pass">Pass</a></td>
   <td><a href="#Rcp">Rcp</a></td>
-  <td><a href="#Refl">Refl</a></td>
+  <td><a href="#Rfl">Rfl</a></td>
 </tr>
 </table>
 
@@ -62,7 +62,7 @@ Used when the verb has the reciprocal suffix _-gu_, which decreases the valency 
 * _ǁîn ge ǁgorob ǃna hâ ǂhoron ai ra <b>dāǃangu</b>._ “At the manger they <b>trample each other</b> to death on the last drop (of water)?”
 
 
-### <a name="Refl">`Refl`</a>: reflexive
+### <a name="Rfl">`Rfl`</a>: reflexive
 
 Used when the verb has the reflexive suffix _-sen_, which decreases the valency of the verb by one. The doer (agent) acts upon itself.
 
@@ -88,7 +88,7 @@ Used when the verb has the applicative suffix _-ba_ followed by the reflexive su
 
 * _ǀGam ǁgâura ge ra ǃgâi xūna <b>mîbagu</b>. _ “Two houses <b>tell each other</b> good things.”
 
-### <a name="ApplRefl">`ApplRefl`</a>: combination of applicative and reflexive voices
+### <a name="ApplRfl">`ApplRfl`</a>: combination of applicative and reflexive voices
 
 Used when the verb has the applicative suffix _-ba_ followed by the reflexive suffix _-sen_. This combination does not change the valency of the verb, but the doer (agent) acts upon itself.
 
