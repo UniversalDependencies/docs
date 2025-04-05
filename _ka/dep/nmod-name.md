@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'nmod-name'
+title: 'nmod:name'
 shortdef: 'name modifier'
 udver: '2'
 ---
