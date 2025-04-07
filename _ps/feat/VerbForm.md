@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Fin">Fin</a></td>
   <td><a href="#Part">Part</a></td>
   <td><a href="#Inf">Inf</a></td>
-  <td><a href="#VNoun">VNoun</a></td>
+  <td><a href="#Vnoun">Vnoun</a></td>
 </tr>
 </table>
 
@@ -88,7 +88,7 @@ Infinitive in the nominative case and imperfective aspect serves as the verbal l
 * (nominal usage): د **څښلو** اوبه _dë **cx̌ë́lo** obë́_ “drinking water” (lit. “of to_drink water”)
 
 
-### <a name="VNoun">`VNoun`</a>: verbal noun
+### <a name="Vnoun">`Vnoun`</a>: verbal noun
 
 The verbal noun is a noun (tagged [NOUN](), not [VERB]()) derived from the verb and denoting the action expressed by it.
 The verbal noun has a different ending than the infinitive, but its use is similar to the nominal use of the infinitive.
