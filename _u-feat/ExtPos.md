@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#ADJ">ADJ</a></td>
   <td><a href="#ADP">ADP</a></td>
   <td><a href="#ADV">ADV</a></td>
+  <td><a href="#AUX">AUX</a></td>
   <td><a href="#CCONJ">CCONJ</a></td>
   <td><a href="#DET">DET</a></td>
   <td><a href="#INTJ">INTJ</a></td>
@@ -37,7 +38,7 @@ lexical one, `ExtPos` may be used to signal it.
 
 `ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one
 or more children attached via the [fixed]() relation). These should normally lead to `ExtPos` values
-`ADP`, `ADV`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds
+`ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds
 that work like content words). However, `ExtPos` is occasionally useful in other situations, too:
 for example, when a multiword expression acts as a proper noun (although its parts behave like other
 words) or as an interjection.
@@ -62,6 +63,12 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 #### Examples
 
 * [en] _<b>by and large</b>_ (a multiword adverb paraphrasable as “altogether”; the first node is [ADP]())
+
+### <a name="AUX">`AUX`</a>: auxiliary-like expression
+
+#### Examples
+
+* [ko] _<b>수 있다 .su .iss.da</b>_ (literally _way exists_, serves as an auxiliary “can”; the first node is [NOUN]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
