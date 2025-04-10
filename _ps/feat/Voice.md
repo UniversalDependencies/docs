@@ -20,7 +20,7 @@ udver: '2'
 
 #### Examples
 
-### <a name="Pass">`Perf`</a>: passive
+### <a name="Pass">`Pass`</a>: passive
 
 
 #### Examples
