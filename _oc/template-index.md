@@ -17,7 +17,9 @@ Whitespace signals word boundaries in Occitan. Additionally, some prepositions f
 ### Tags
 
 All UD tags are allowed for Occitan. 
+
 The Gascon varieties of Occitan have so-called *enunciative particles*, which are positioned in front of the verb and which signal the modality of a clause or sentence. These are annotated as *PART*. 
+
 The only verbs considered as auxiliairies are *aver* (*to have*) and *èsser* (*to be*) and their variants. They are considered as auxiliairies when they are part of a complex verb form, in which case they carry the TAM markers.
 
 ---
@@ -31,11 +33,13 @@ Occitan displays number (singular and plural) and gender (masculin and feminine)
 ## Syntax
 
 Occitan is a pro-drop language with relatively free word order.
-The verb *èsser* and its variants function as the copula.
 
+The verb *èsser* and its variants function as the copula. 
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+Among subtypes of dependency relations, currently only *nsubj:outer* is used.
+
+There is also one language-specific dependency: *discourse:enunc*, which is used to link the enunciative particle (see Morphology) to the head of the clause in which it appears.
+
 
 ---
 
