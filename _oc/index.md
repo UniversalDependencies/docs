@@ -16,9 +16,9 @@ Whitespace signals word boundaries in Occitan. Additionally, some prepositions f
 
 ### Tags
 
-All UD tags are allowed for Occitan. 
+All UD tags are allowed for Occitan.
 
-The Gascon varieties of Occitan have so-called *enunciative particles*, which are positioned in front of the verb and which signal the modality of a clause or sentence. These are annotated as *PART*. 
+The Gascon varieties of Occitan have so-called *enunciative particles*, which are positioned in front of the verb and which signal the modality of a clause or sentence. These are annotated as *PART*.
 
 The only verbs considered as auxiliairies are *aver* (*to have*) and *èsser* (*to be*) and their variants. They are considered as auxiliairies when they are part of a complex verb form, in which case they carry the TAM markers.
 
@@ -34,7 +34,7 @@ Occitan displays number (singular and plural) and gender (masculin and feminine)
 
 Occitan is a pro-drop language with relatively free word order.
 
-The verb *èsser* and its variants function as the copula. 
+The verb *èsser* and its variants function as the copula.
 
 Among subtypes of dependency relations, currently only *nsubj:outer* is used.
 
@@ -45,14 +45,6 @@ There is also one language-specific dependency: *discourse:enunc*, which is used
 
 ## Treebanks
 
-There are [N](../treebanks/oc-comparison.html) Occitan UD treebanks:
+There is 1 Occitan UD treebank:
 
-  * [Occitan-A](../treebanks/oc_a/index.html)
-  * [Occitan-B](../treebanks/oc_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Occitan-TTB](../treebanks/oc_ttb/index.html)
