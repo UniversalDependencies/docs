@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Universal Dependencies'
+title: 'Query UD'
 udver: '2'
 ---
 
