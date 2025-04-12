@@ -18,9 +18,8 @@ If you are new to UD, you should start by reading the first part of the Short In
   * [Tutorials and events](events.html)
 * Using UD
   * [Query UD treebanks online](query.html)
-  * Download UD treebanks
+  * [Download UD treebanks](download.html)
     * Version 2.15 <a href="http://hdl.handle.net/11234/1-5787">http://hdl.handle.net/11234/1-5787</a> (296 treebanks, 168 languages, released November 15, 2024)
-    * [All versions](download.html)
   * [Tools for working with UD](tools.html)
 * Contributing to UD
   * [How to contribute to UD](contribute.html)
