@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 title: 'Query UD'
 udver: '2'
 ---
