@@ -12,20 +12,29 @@ an open community effort with over 600 contributors producing over 200 treebanks
 (see the bottom of this page for updated numbers from the latest release).
 If you are new to UD, you should start by reading the first part of the Short Introduction and then browsing the annotation guidelines.
 
-* [Short introduction to UD](introduction.html)
-* [UD annotation guidelines](guidelines.html)
-* More information on UD:
-  * [How to contribute to UD](contribute.html)
+* Understanding UD
+  * [Short introduction to UD](introduction.html)
+  * [Annotation guidelines](guidelines.html)
+  * [Tutorials and events](events.html)
+* Using UD
+  * [Query UD treebanks online](query.html)
+  * [Download UD treebanks](#download)
   * [Tools for working with UD](tools.html)
+* Contributing to UD
+  * [How to contribute to UD](contribute.html)
   * [Changes to the UD guidelines](changes.html)
-  * [UD-related events](events.html)
-  * [Projects related to UD](related.html)
-* Query UD treebanks online:
-  * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
-  * [TEITOK](http://lindat.mff.cuni.cz/services/teitok/ud212/) maintained by the Charles University in Prague
-  * [Grew-match](http://match.grew.fr) maintained by Inria in Nancy
-  * [INESS](http://clarino.uib.no/iness) maintained by the University of Bergen
-* [Download UD treebanks](#download)
+* Projects related to UD
+  * [SUD: Surface Syntactic Universal Dependencies](https://surfacesyntacticud.github.io/)
+  * [Deep Universal Dependencies](https://ufal.mff.cuni.cz/deep-universal-dependencies)
+  * [Universal PropBank](https://universalpropositions.github.io/)
+  * [CorefUD: Coreference in Universal Dependencies](https://ufal.mff.cuni.cz/corefud)
+  * [UNER: Universal Named Entity Recognition](https://www.universalner.org/)
+  * [UMR: Uniform Meaning Representation](https://umr4nlp.github.io/web/)
+  * [UniMorph](https://unimorph.github.io/)
+  * [UDMorph](https://lindat.mff.cuni.cz/services/teitok-live/udmorph/)
+  * [UDer: Universal Derivations](https://ufal.mff.cuni.cz/universal-derivations)
+  * [PARSEME: Multiword expressions](https://gitlab.com/parseme/corpora/-/wikis/home)
+  * [UniDive COST Action](https://unidive.lisn.upsaclay.fr/doku.php?id=start)
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
 [UD mailing list](https://lists.uu.se/sympa/info/lingfil-ud).
