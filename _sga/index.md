@@ -8,9 +8,9 @@ udver: '2'
 
 ## Treebank Classification and Pre-tokenisation Considerations
 
-Both spelling and word-separation in Old Irish texts can be highly irregular. In modern editions some editors attempt to faithfully reproduce the text as it survives in the original manuscript. These are generally referred to as diplomatic editions. Other editors may alter the text so that it does not resemble exactly the contents of a single manuscript source. This may be done with the aim of emulating a theorised earlier exemplar from which one or more existing manuscript sources are believed to have been copied. In such cases the resulting work is generally referred to as a critical edition. Editors may also alter texts by standardising spelling, by silently introducing word spacing, by capitalising certain letter characters in accordance with modern orthographic practice, and by introducing forms of punctuation not present in the original manuscript. While these changes are not necessarily associated with critical editions, they alter the text in such a manner that it cannot be referred to as entirely diplomatic. Texts edited in such a manner will therefore be referred to broadly as "critical editions" here also.
+Both spelling and word-separation in Old Irish texts can be highly irregular. In modern editions some editors attempt to faithfully reproduce the text as it survives in the original manuscript. These are generally referred to as diplomatic editions. Other editors may alter the text so that it does not resemble exactly the contents of any single manuscript source, often normalising the text, and typically adding editorial commentary and supplying variant readings from extant sources in the form of footnotes (but not within the body of the text). This work may be done with the aim of emulating a theorised earlier exemplar from which one or more existing manuscript sources are believed to have been copied, or with a view to making the resulting edition more reader-friendly. In such cases the resulting work is generally referred to as a critical edition. Editors may also alter texts by standardising spelling, by silently introducing word spacing, by capitalising certain letter characters in accordance with modern orthographic practice, and by introducing forms of punctuation not present in the original manuscript. While these changes are not necessarily associated with critical editions, they alter the text in such a manner that it cannot be referred to as entirely diplomatic. Therefore, texts edited in such a manner will also be referred to broadly as "critical editions" here also.
 
-It is necessary to mark a distinction between diplomatic editions and editions which may have been edited to any extent (here "critical editions"). To mark this distinction all Old Irish treebanks should identify in their README documentation which type of edition they represent by using either the "diplomatic" or "critical" designation. This information should also be included in the treebank name and URL using the abbreviations _Dip_ and _Crit_ (for example, the _Diplomatic St. Gall Glosses_ treebank URL ends: .../UD_Old_Irish-DipSGG).
+It is necessary to mark a distinction between diplomatic editions and those which have been altered to any extent by modern editors (i.e. "critical editions"). To mark this distinction all Old Irish treebanks should identify in their README documentation which type of edition they represent by using either the "diplomatic" or "critical" designation. This information should also be included in the treebank name and URL using the abbreviations _Dip_ and _Crit_ (for example, the _Diplomatic St. Gall Glosses_ treebank URL ends: .../UD_Old_Irish-DipSGG).
 
 For the purpose of choosing the correct designation for a new treebank, the following definitions should be adhered to.
 
@@ -44,19 +44,21 @@ Critical:
 
 ## Tokenisation and Word Segmentation
 
-Words are not necessarily delimited by whitespace characters or punctuation in Old Irish texts. Manuscript sources tend to combine unstressed syntactic words (including common clitics like the copula and definite article) with surrounding parts-of-speech bearing a stress. This practice results in many compound words which are purely orthographic, but comprised of two or more lexical words.
+Tokenising Old Irish text is an unusually difficult task (Doyle and McCrae, 2025a; Doyle et al., 2019), posing difficulties which may not arise in many other languages. Words are not necessarily delimited by whitespace characters or punctuation in Old Irish texts. Instead, manuscript sources tend to combine unstressed words (including common clitics like the copula and definite article) with surrounding parts-of-speech bearing a stress (see Thurneysen, p. 24 §34 and p. 30 §41). This practice results in many compound words which are purely orthographic, but comprised of two or more lexical words. Where spacing does occur in Roman script, the whitespace character is used to delineate word boundaries, however, Ogham script has a discrete space mark consisting of a stemline devoid of any other markings.
 
-In Roman script the whitespace character can sometimes be used to delineate word boundaries (as described above), however, Ogham script has a discrete space mark consisting of a stemline devoid of any other markings.
+Tokenisation in treebanks for Old Irish follows the method set out in Doyle and McCrae (2025a). This is intended to ensure compatibility, not only between digital resources for Old Irish, but between Old Irish and other languages in UD also (see Doyle and McCrae 2025b). The following section gives a brief overview of some of the requirements of this tokenisation method.
+
+### Tokenisation in Old Irish Treebanks
 
 Orthographic combinations of discrete lexical words should be separated during tokenisation:
 
-* This includes the initial preverb, conjunct particles, and infixed pronouns within the verbal complex, for example _dabeir_ should be tokenised "_d_", "a", "_beir_".
+* This includes the initial preverb, conjunct particles, and infixed pronouns within the verbal complex, for example _dabeir_ should be tokenised "_d_", "_a_", "_beir_".
 
 * This also includes combinations with the copula, _cid_ should be tokenised "_ci_", and "_d_", and _máso_ should be tokenised "_má_" and "_so_".
 
 * Combinations of definite articles combining with prepositions should also be separated, as with _isin_ being tokenised "_i_" and "_sin_".
 
-Prepositional pronouns (conjugated prepositions) should not be separated during tokenisation, as these are deemed to be discrete words in their own right.
+Prepositional pronouns (conjugated prepositions) are taken to be discrete words in their own right, and should not be separated during tokenisation. This is based on Stifter's assertion that "It is not possible to separate one element from the other" (2006, p. 87) follows their treatment in Modern Irish treebanks (though notably not their treatment in Scottish Gaelic or Manx treebanks).
 
 Punctuation is infrequent in manuscript sources, however, punctuation characters not present in the original manuscript material may be introduced by editors of some modern editions. Aside from these, the following exceptions occur:
 
@@ -68,13 +70,13 @@ Punctuation is infrequent in manuscript sources, however, punctuation characters
 
 * In Ogham script the opening and closing feather mark characters (_᚛_ and _᚜_) should be treated as punctuation.
 
-No multiword tokens occur. Where adjectives or nouns precede other nouns they generally remain separate tokens as with "_sen-_" in the term "_sen-grec_".
+No multiword tokens occur. Where adjectives or nouns precede other nouns they generally remain separate tokens. This can be seen in examples like "_sengrec_" which is split into "_sen_" and "_grec_".
 
 Some general advice on tokenisation follows which may not be intuitive to those familiar with Old Irish:
 
 * There are no discrete negative conjunctions. All such forms should be divided into the conjunction, and following negative conjunction (eg. _connách_ becomes _co_ and _nnách_).
 
-* Tokens may contain whitespace characters in some instances, for example, where letters which mark nasalisation are separated from the rest of the following word in manuscript sources. Thus, in the gloss "_.i. céin bas m béo infer_", "_m béo_" should be treated as a single token.
+* Tokens may contain whitespace characters in some instances, for example, where letters which mark nasalisation are separated from the rest of the following word in manuscript sources. Thus, in the gloss _.i. céin bas m béo infer_, "_m béo_" should be treated as a single token.
 
 * Empty tokens are not possible. Where a word is reduced orthographically to 0 in some positions (eg. 3rd sg. forms of the copula or of infixed pronouns following negative particles) no replacement mark or token should be used in its place. Hence, in _ní n-aithgéuin_, "he does not recognise him", where the object pronoun is only apparent because of nasalisation on the following vowel, only the two tokens "_ní_" and "_n-aithgéuin_" are rendered.
 
@@ -131,27 +133,31 @@ Some general advice on tokenisation follows which may not be intuitive to those 
 
 ## Syntax
 
-* The normal order of an Old Irish sentence is verb-subject-object. There are some notable exceptions to this:
-  * A copula construction is frequently used place emphasis on a particular word within a sentence. In this construction the emphasised word is moved to beginning of the sentence, following the copula as a predicate, and followed by a relative clause. An emphasised word which would otherwise be the subject or object of the verb will occur before the verb in a sentence of this type. It is possible for the copula to be omitted from this construction, in which case the emphasised word is fronted to the beginning of the sentence.
-  * Bergin's Law describes a form of archaism found in some Early Irish texts whereby a verb does not stand at the head of its clause, takes a dependent form, and can follow its subject or object.
-  * Where pronominal verbal objects are infixed within the verb, the subject of the verb will follow both.
-  * Where the object of a verb is represented by an infixed pronoun following a conjunct particle, it will precede the verb.
+* The normal order of an Old Irish sentence is verb-subject-object (Stifter, 2006, p. 40). There are some notable exceptions to this:
+  * Where the object of a verb is represented by an infixed pronoun, it will precede both the verb token and the subject.
+  * Because verbs inflect to show subject, the subject of a verb may not be explicitly stated following the verb.
+  * A copula construction known as "fronting" is frequently employed to place emphasis on a particular word within a sentence (Stifter, 2006, p. 120). In this construction the emphasised word is "fronted", i.e. moved to beginning of the sentence, following the copula as a predicate. An emphasised noun which would otherwise be the subject or object of the verb will occur before the verb in a sentence of this type. It is possible for the copula to be omitted from this construction, in which case the emphasised word stands at the beginning of the sentence.
+  * Bergin's Law (see Bergin 1938) describes a form of archaism found in some Early Irish texts whereby a verb does not stand at the head of its clause, takes a dependent form, and can follow its subject or object.
 
-* In copular sentences the normal word order is copula-predicate-subject. As the copula inflects for Person and Number, however, the subject does not always follow the predicate where it is contained in the copula form.
+* In copular sentences the normal word order is copula-predicate-subject (Stifter, 2006, p. 119). As the copula inflects for Person and Number, however, the subject does not always follow the predicate where it is contained in the copula form (i.e. in 1st and 3rd person forms).
 
-* As the largest amount of text surviving from the Old Irish period comes in the form of glosses of Latin text, sometimes amounting only to single-word translations, there will not always be a verb or copula form present to form the head of a sentence.
+* As the largest amount of text surviving from the Old Irish period comes in the form of glosses of Latin text, sometimes amounting only to single-word translations, there will often be no verb form present to form the head of a sentence.
 
 ## References
 
-Bergin, Osborn. "On the Syntax of the Verb in Old Irish." Ériu, vol. 12, 1938, pp. 197–214.
+Bergin, Osborn. On the Syntax of the Verb in Old Irish. In _Ériu_, vol. 12, 1938, pp. 197–214.
 
-Doyle, Adrian, John P. McCrae, and Clodagh Downey. (2019). A Character-Level LSTM Network Model for Tokenizing the Old Irish text of the Würzburg Glosses on the Pauline Epistles. In _Proceedings of the Celtic Language Technology Workshop_, pages 70–79, Dublin, Ireland. European Association for Machine Translation. https://www.aclweb.org/anthology/W19-6910/
+Doyle, Adrian and John P. McCrae. 2024. Developing a Part-of-speech Tagger for Diplomatically Edited Old Irish Text. In Proceedings of the Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA) @ LREC-COLING-2024, pages 11–21, Torino, Italia. ELRA and ICCL. https://aclanthology.org/2024.lt4hala-1.2/
 
-Doyle, Adrian and John P. McCrae. (2024). Developing a Part-of-speech Tagger for Diplomatically Edited Old Irish Text. In _Proceedings of the Third Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA) @ LREC-COLING-2024_, pages 11–21, Torino, Italia. ELRA and ICCL. https://aclanthology.org/2024.lt4hala-1.2/
+Doyle, Adrian and John P. McCrae. 2025a. An Assessment of Word Separation Practices in Old Irish Text Resources and a Universal Method for Tokenising Old Irish Text. In _Proceedings of the 5th Celtic Language Technology Workshop_, pages 1–11, Abu Dhabi [Virtual Workshop]. International Committee on Computational Linguistics. https://aclanthology.org/2025.cltw-1.1/
+
+Doyle, Adrian and John P. McCrae. 2025b. Development of Old Irish Lexical Resources, and Two Universal Dependencies Treebanks for Diplomatically Edited Old Irish Text. In _5th International Conference on Natural Language Processing for Digital Humanities_.
+
+Doyle, Adrian, John P. McCrae, and Clodagh Downey. 2019. A Character-Level LSTM Network Model for Tokenizing the Old Irish text of the Würzburg Glosses on the Pauline Epistles. In Proceedings of the Celtic Language Technology Workshop, pages 70–79, Dublin, Ireland. European Association for Machine Translation. https://aclanthology.org/W19-6910/
 
 McCone, Kim. (1997). The Early Irish Verb - Second Edition Revised with Index. An Sagart, Maynooth.
 
-Ó hUiginn, Ruairí. "Notes on Old Irish Syntax." Ériu, vol. 38, 1987, pp. 177–183.
+Ó hUiginn, Ruairí. Notes on Old Irish Syntax. In _Ériu_, vol. 38, 1987, pp. 177–183.
 
 Stifter, David. (2006). Sengoidelc. Syracuse University Press, New York.
 
