@@ -20,15 +20,39 @@ It is kept in FEATS in the UD conversion.
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
+#### Example
+
+* To be added
+
 ### <a name="ADV">`ADV`</a>: adverb-like expression
+
+#### Example
+
+* To be added
 
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression
 
+#### Example
+
+* To be added
+
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
+
+#### Example
+
+* To be added
 
 ### <a name="NOUN">`NOUN`</a>: noun-like expression
 
+#### Example
+
+* To be added
+
 ### <a name="INTJ">`INTJ`</a>: interjection-like expression
+
+#### Example
+
+* To be added
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
